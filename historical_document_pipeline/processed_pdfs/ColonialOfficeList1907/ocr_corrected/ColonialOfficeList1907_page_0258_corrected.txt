@@ -1,0 +1,34 @@
+CEYLON
+
+Scale—32 Miles to an Inch.
+
+Northern Province . . . . . . . . . . . . . . N.P.
+North-Central Province . . . . . . . . . N.C.P.
+North-Western Province . . . . . . . . N.W.P.
+Eastern Province . . . . . . . . . . . . . . E.P.
+Central Province . . . . . . . . . . . . . . C.P.
+Province of Uva . . . . . . . . . . . . . . . U.V.A.
+Western Province . . . . . . . . . . . . . W.P.
+Province of Sabaragamuwa . . . . S.A.B.
+Southern Province . . . . . . . . . . . . . S.P.
+
+Roads
+Railways
+
+Cocoanut Plantation
+Tea
+Rubber
+
+Villuveli
+Trincomalee
+Foul Point
+Kaddai Tank
+Kadiraveli
+Pannichchankerni
+Valachchenai
+Kalleuddâ
+Chenkaladi
+BATTICALOA
+Rugam Tank
+Tampalakaman
+Mahagoya

@@ -1,0 +1,50 @@
+8
+AUSTRALIA.
+
+COMMONWEALTH OF AUSTRALIA.
+
+1. IMPORTS AND EXPORTS, OVERSEA, 1900—1905.
+
+Year. Imports. Re-exports. Net Imports. Net Imports per Head of Population. Exports of Australian Produce.
+           Merchandise.   Specie and Bullion.   Total.
+£          £               £                      £         £    s.  d.      £
+1900 ...   42,243,848      1,213,582              43,457,430   2,288,651   41,168,779   10  19  10    43,668,297
+1901 ...   43,620,492        934,819              44,555,311   1,954,396   42,600,915   11   2  10    47,741,776
+1902 ...   40,763,712      1,459,162              42,222,874   2,646,306   39,576,568   10   4   4    41,268,781
+1903 ...   37,575,753      1,259,929              38,835,682   2,591,229   36,244,453    9   4   7    45,578,935
+1904 ...   36,816,994      1,203,848              38,020,842   2,385,748   34,635,094    8  15   0    55,103,468
+1905 ...   36,796,436      1,550,295              38,346,731   2,713,277   35,633,454    8  15  10    54,127,758
+
+
+2. EXPORTS OF SPECIE AND BULLION, OVERSEA, 1900-1905.
+
+Year. Exports of Australian Produce. Exports of Other Produce, i.e., Re-exports. Total.
+£                                £                                  £
+1900 ...                         13,440,041                          1,028,580                        14,468,621
+1901 ...                         14,297,390                            846,921                        15,144,311
+1902 ...                         13,615,637                          1,454,902                        15,070,539
+1903 ...                         17,835,214                          1,288,744                        19,123,958
+1904 ...                         16,540,000                          1,227,069                        17,767,069
+1905 ...                        *11,103,136                          1,463,002                        12,566,137
+
+Silver bullion is included above.
+* Includes £770,628 on account of silver-lead bullion.
+
+
+3. AUSTRALIAN TRADE, 1905.—IMPORTS.
+
+Transfers Inter-State.                   Imports Oversea.   Total Imports.
+State.             Australian Produce.  Other Produce.      £                £
+£                   £                   £
+New South Wales ... 13,283,653          1,582,465           14,866,118       14,485,123          29,351,241
+Victoria ...         8,738,799            634,988            9,373,787       12,960,364          22,334,151
+Queensland ...       2,431,966          1,104,353            3,536,319        3,163,627           6,699,946
+South Australia ...  4,627,783            589,772            5,217,555        3,230,670           8,448,225
+Western Australia    2,444,737            268,021            2,712,758        3,768,830           6,481,588
+Tasmania ...         1,185,571            744,371            1,929,942          738,117           2,668,059
+
+Commonwealth ...    32,712,509          4,923,970           37,636,479       38,346,731          75,983,210
+
+Re-exports ...                                                                   2,713,277
+
+Net Oversea Imports ...                                                        35,633,454

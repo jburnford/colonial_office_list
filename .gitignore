@@ -1,0 +1,22 @@
+# Ignore large files
+*.zip
+*.zip:Zone.Identifier
+*.zip:com.dropbox.attrs
+
+# Ignore images and baseline OCR
+**/images/
+**/ocr_baseline/
+**/data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db

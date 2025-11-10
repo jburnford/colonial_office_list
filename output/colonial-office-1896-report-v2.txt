@@ -1,0 +1,82 @@
+Colonial Office List Parser Report - Year 1896
+============================================================
+
+Total Colonies: 52
+Total Employees: 1110
+
+
+Colonies by Employee Count:
+----------------------------------------
+  CANADA                         :  219 employees
+  BRITISH HONDURAS               :  200 employees
+  HONG KONG                      :   57 employees
+  VICTORIA                       :   54 employees
+  NATAL                          :   46 employees
+  NEW SOUTH WALES                :   39 employees
+  SOUTH AUSTRALIA                :   31 employees
+  CAPE OF GOOD HOPE              :   28 employees
+  CAPE OF GOOD HOPE              :   28 employees
+  NEW ZEALAND                    :   28 employees
+  BARBADOS                       :   26 employees
+  TRISTAN D'ACUNHA               :   24 employees
+  TASMANIA                       :   23 employees
+  JAMAICA                        :   22 employees
+  CYPRUS                         :   22 employees
+  CAPE OF GOOD HOPE              :   20 employees
+  MALTA                          :   19 employees
+  TRINIDAD                       :   18 employees
+  BRITISH GUIANA                 :   16 employees
+  GIBRALTAR                      :   16 employees
+  SIERRA LEONE                   :   16 employees
+  BERMUDA                        :   14 employees
+  CAPE OF GOOD HOPE              :   13 employees
+  CEYLON                         :   11 employees
+  CEYLON                         :   10 employees
+  FIJI                           :   10 employees
+  CEYLON                         :   10 employees
+  MAURITIUS                      :   10 employees
+  CAPE OF GOOD HOPE              :    9 employees
+  ST. LUCIA                      :    8 employees
+  FIJI                           :    7 employees
+  ANTIGUA                        :    7 employees
+  BAHAMAS                        :    6 employees
+  LAGOS                          :    6 employees
+  ANTIGUA                        :    5 employees
+  ST. VINCENT                    :    5 employees
+  DOMINICA                       :    4 employees
+  ST. HELENA                     :    4 employees
+  FALKLAND ISLANDS               :    3 employees
+  FALKLAND ISLANDS               :    3 employees
+  FALKLAND ISLANDS               :    3 employees
+  FIJI                           :    2 employees
+  ZULULAND                       :    2 employees
+  BASUTOLAND                     :    1 employees
+  CAPE OF GOOD HOPE              :    1 employees
+  CAPE OF GOOD HOPE              :    1 employees
+  LEEWARD ISLANDS                :    1 employees
+  SEYCHELLES                     :    1 employees
+  NEW ZEALAND                    :    1 employees
+  LABUAN                         :    0 employees
+  ADEN                           :    0 employees
+  ASCENSION                      :    0 employees
+
+
+Sample Employee Records:
+----------------------------------------
+
+BAHAMAS:
+  - Capt: Private Secretary and A.D.C.
+  - Capt: Clerk
+  - Rev: Chaplain
+  - Staff Commander F: Inspector of Lighthouses
+  - Rev: Chaplain to Nassau Prison
+
+BARBADOS:
+  - Charles C [Sir]: Major-General Browne
+  - Chairman: His Excellency the Governor
+  - Rev: Chaplain
+  - Rev: Chaplain
+  - Lieut: Private Secretary and A.D.C.
+
+BASUTOLAND:
+  - Colonel Marshal James Clarke (late R [Sir]: Resident Commissioner

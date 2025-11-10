@@ -1,0 +1,474 @@
+======================================================================
+COLONIAL OFFICE CAREER PROGRESSION KNOWLEDGE GRAPH
+======================================================================
+
+Total Unique Persons: 402
+Total Position Records: 1110
+Multi-Year Careers: 0 (0.0%)
+Multi-Colony Careers: 71 (17.7%)
+Longest Career Span: 1 years
+Most Positions Held: 299
+
+======================================================================
+CAREER LENGTH DISTRIBUTION
+======================================================================
+   1 years:  402 persons ████████████████████████████████████████
+
+======================================================================
+COLONIES PER PERSON
+======================================================================
+   1 colonies:  331 persons █████████████████████████████████
+   2 colonies:   49 persons ████
+   3 colonies:    7 persons 
+   4 colonies:    5 persons 
+   5 colonies:    4 persons 
+   7 colonies:    2 persons 
+   8 colonies:    1 persons 
+  11 colonies:    1 persons 
+  16 colonies:    1 persons 
+  31 colonies:    1 persons 
+
+======================================================================
+TOP POSITION PROGRESSIONS
+======================================================================
+  Secretary -> Secretary: 9 times
+  The Governor -> The Governor: 5 times
+  Minister -> Colonial Secretary: 4 times
+  Chief Clerk -> Chief Clerk: 4 times
+  Chaplain -> Chaplain: 3 times
+  Attorney-General -> Attorney-General: 3 times
+  Military Secretary -> Minister: 3 times
+  Agent-General -> Controller and Auditor-General: 3 times
+  Vis. Chaplain -> Visiting Chaplain: 3 times
+  Visiting Chaplain -> Ditto Chaplain: 3 times
+
+======================================================================
+SAMPLE CAREER PATHS
+======================================================================
+
+Capt
+  Career span: 1896-1896
+  Colonies: CAPE OF GOOD HOPE, VICTORIA, SOUTH AUSTRALIA, GIBRALTAR, BERMUDA, TRINIDAD, TASMANIA, JAMAICA, BRITISH GUIANA, CANADA, CEYLON, MALTA, BARBADOS, FALKLAND ISLANDS, SEYCHELLES, CYPRUS, HONG KONG, BAHAMAS, ST. HELENA, LAGOS, FIJI, NATAL, BRITISH HONDURAS, MAURITIUS, NEW SOUTH WALES, ST. LUCIA, NEW ZEALAND, DOMINICA, SIERRA LEONE, TRISTAN D'ACUNHA, ST. VINCENT
+  Positions:
+    1896: Private Secretary and A.D.C. in BAHAMAS
+    1896: Clerk in BAHAMAS
+    1896: Chaplain in BAHAMAS
+    1896: Chaplain to Nassau Prison in BAHAMAS
+    1896: Chaplain in BARBADOS
+    1896: Chaplain in BARBADOS
+    1896: Private Secretary and A.D.C. in BARBADOS
+    1896: Chaplain to Prisons in BARBADOS
+    1896: Librarian in BARBADOS
+    1896: Chaplain in BARBADOS
+    1896: Chaplain in BARBADOS
+    1896: Chaplain in BARBADOS
+    1896: Principal of Codrington College in BARBADOS
+    1896: Inspector of Schools in BARBADOS
+    1896: Secretary of Education Board in BARBADOS
+    1896: President in BARBADOS
+    1896: Chancellor of the Diocese in BARBADOS
+    1896: Governor and Commander-in-Chief in BERMUDA
+    1896: Presbyterian Minister in BERMUDA
+    1896: Lieut.-General Commanding in BERMUDA
+    1896: Commanding Royal Engineer in BERMUDA
+    1896: Senior Chaplain to the Forces in BERMUDA
+    1896: Inspector-General of Police in BRITISH GUIANA
+    1896: Adjutant and Musketry Instructor in BRITISH GUIANA
+    1896: Inspector of Prisons in BRITISH GUIANA
+    1896: Superintendent of the Penal Settlement in BRITISH GUIANA
+    1896: Commandant in BRITISH GUIANA
+    1896: Secretary and Registrar in BRITISH GUIANA
+    1896: Minister of St. Andrew's Parish in BRITISH GUIANA
+    1896: Joint Minister of ditto in BRITISH GUIANA
+    1896: Superintendent of British Guiana Branch in BRITISH GUIANA
+    1896: Judge in BRITISH HONDURAS
+    1896: Secretary of State of Canada in BRITISH HONDURAS
+    1896: Minister of Public Works in BRITISH HONDURAS
+    1896: Comptroller of Inland Revenue in BRITISH HONDURAS
+    1896: Comptroller of Customs in BRITISH HONDURAS
+    1896: Postmaster-General in BRITISH HONDURAS
+    1896: Solicitor-General in BRITISH HONDURAS
+    1896: Director of Experimental Farm in BRITISH HONDURAS
+    1896: Chairman of Board of Examiners of Masters and Males in BRITISH HONDURAS
+    1896: Superintendent-General of Indian Affairs in BRITISH HONDURAS
+    1896: High Commissioner in BRITISH HONDURAS
+    1896: General Superintendent of the Methodist Church in Canada in BRITISH HONDURAS
+    1896: Secretary of State of Canada in BRITISH HONDURAS
+    1896: Minister of Public Works in BRITISH HONDURAS
+    1896: Comptroller of Inland Revenue in BRITISH HONDURAS
+    1896: Comptroller of Customs in BRITISH HONDURAS
+    1896: Postmaster-General in BRITISH HONDURAS
+    1896: Solicitor-General in BRITISH HONDURAS ($5,000)
+    1896: Director of Experimental Farm in CANADA
+    1896: Chairman of Board of Examiners of Masters and Mates in CANADA
+    1896: Superintendent-General of Indian Affairs in CANADA
+    1896: High Commissioner in CANADA
+    1896: General Superintendent of the Methodist Church in Canada in CANADA
+    1896: Lieutenant-Governor in CANADA
+    1896: Attorney-General and Premier in CANADA
+    1896: Minister of Education in CANADA
+    1896: Commissioner of Crown Lands in CANADA
+    1896: Secretary in CANADA
+    1896: Attorney-General in CANADA
+    1896: Provincial Secretary in CANADA
+    1896: Treasurer in CANADA
+    1896: Commissioner in CANADA
+    1896: Minister of Education in CANADA
+    1896: Puisne Judges in CANADA
+    1896: Puisne Judges in CANADA
+    1896: Vice-Chancellors in CANADA
+    1896: Lieutenant-Governor in CANADA
+    1896: Premier and Provincial Treasurer in CANADA
+    1896: Attorney-General in CANADA
+    1896: Commissioner of Crown Lands in CANADA
+    1896: Provincial Secretary in CANADA
+    1896: President of the Council in CANADA
+    1896: Commissioner of Agriculture and Colonization in CANADA
+    1896: Attorney-General in CANADA
+    1896: President of the Council in CANADA
+    1896: Attorney-General in CANADA
+    1896: Commissioner of Public Works and Mines in CANADA
+    1896: President in CANADA
+    1896: Assistant Judge in CANADA
+    1896: General Commanding Her Majesty's Forces in CANADA
+    1896: Assist. Adjutant-General in CANADA
+    1896: Commissioner of Crown Lands in CANADA
+    1896: Surveyor-General in CANADA
+    1896: President of Council in CANADA
+    1896: Chaplain in CANADA
+    1896: Puisne Judges in CANADA
+    1896: County Court Judges in CANADA
+    1896: Lieut.-Governor in CANADA
+    1896: Chief Justice in CANADA
+    1896: Puisne Judges in CANADA
+    1896: President in CANADA
+    1896: Chief Commissioner of Lands and Works in CANADA
+    1896: Minister of Finance and Agriculture in CANADA
+    1896: Chief Justice in CANADA
+    1896: Attorney-General in CANADA
+    1896: Attorney-General in CANADA
+    1896: Lieut.-Governor in CANADA
+    1896: Secretary and Accountant to the High Commissioner in CAPE OF GOOD HOPE
+    1896: Military Secretary in CAPE OF GOOD HOPE
+    1896: Minister in CAPE OF GOOD HOPE
+    1896: Colonial Secretary in CAPE OF GOOD HOPE
+    1896: Colonial Military Secretary in CAPE OF GOOD HOPE
+    1896: Deputy Commissary of Ordnance in CAPE OF GOOD HOPE
+    1896: Agent-General in CAPE OF GOOD HOPE
+    1896: Controller and Auditor-General in CAPE OF GOOD HOPE
+    1896: Vis. Chaplain in CAPE OF GOOD HOPE
+    1896: Visiting Chaplain in CAPE OF GOOD HOPE
+    1896: Ditto Chaplain in CAPE OF GOOD HOPE
+    1896: Ditto Roman Catholic Chaplain in CAPE OF GOOD HOPE
+    1896: Visiting Chaplain in CAPE OF GOOD HOPE
+    1896: Secretary for Agriculture in CAPE OF GOOD HOPE
+    1896: Moderator of the Synod of the Dutch Reformed Church in CAPE OF GOOD HOPE
+    1896: Officer Commanding Forces in South Africa in CAPE OF GOOD HOPE
+    1896: Commanding Royal Engineers in CAPE OF GOOD HOPE
+    1896: Chief Paymaster in CAPE OF GOOD HOPE
+    1896: Naval Chaplain in CAPE OF GOOD HOPE
+    1896: Deputy Assistant Adjutant-General in CEYLON
+    1896: Commanding Royal Engineers in CEYLON
+    1896: Officer Commanding Army Service Corps in CEYLON
+    1896: Senior Ordnance Store Officer in CEYLON
+    1896: Assistant Minister in FALKLAND ISLANDS
+    1896: Deputy Assistant Adjutant-General in FIJI
+    1896: Commanding Royal Engineers in FIJI
+    1896: Officer Commanding Army Service Corps in FIJI
+    1896: Senior Ordnance Store Officer in FIJI
+    1896: Assistant Minister in FALKLAND ISLANDS
+    1896: Agent-General in FIJI
+    1896: Controller and Auditor-General in CAPE OF GOOD HOPE
+    1896: Secretary for Agriculture in CAPE OF GOOD HOPE
+    1896: Moderator of the Synod of the Dutch Reformed Church in CAPE OF GOOD HOPE
+    1896: Officer Commanding Forces in South Africa in CAPE OF GOOD HOPE
+    1896: Commanding Royal Engineers in CAPE OF GOOD HOPE
+    1896: Chief Paymaster in CAPE OF GOOD HOPE
+    1896: Naval Chaplain in CAPE OF GOOD HOPE
+    1896: Vis. Chaplain in CEYLON
+    1896: Visiting Chaplain in CEYLON
+    1896: Ditto Chaplain in CEYLON
+    1896: Ditto Roman Catholic Chaplain in CEYLON
+    1896: Visiting Chaplain in CEYLON
+    1896: Secretary and Accountant to the High Commissioner in CAPE OF GOOD HOPE
+    1896: Military Secretary in CAPE OF GOOD HOPE
+    1896: Minister in CAPE OF GOOD HOPE
+    1896: Colonial Secretary in CAPE OF GOOD HOPE
+    1896: Military Secretary in CAPE OF GOOD HOPE
+    1896: Minister in CAPE OF GOOD HOPE
+    1896: Colonial Secretary in CAPE OF GOOD HOPE
+    1896: Colonial Military Secretary in CAPE OF GOOD HOPE
+    1896: Deputy Commissary of Ordnance in CAPE OF GOOD HOPE
+    1896: Agent-General in CAPE OF GOOD HOPE
+    1896: Controller and Auditor-General in CAPE OF GOOD HOPE
+    1896: Vis. Chaplain in CAPE OF GOOD HOPE
+    1896: Visiting Chaplain in CAPE OF GOOD HOPE
+    1896: Ditto Chaplain in CAPE OF GOOD HOPE
+    1896: Ditto Roman Catholic Chaplain in CAPE OF GOOD HOPE
+    1896: Visiting Chaplain in CAPE OF GOOD HOPE
+    1896: Secretary for Agriculture in CAPE OF GOOD HOPE
+    1896: Moderator of the Synod of the Dutch Reformed Church in CAPE OF GOOD HOPE
+    1896: Officer Commanding Forces in South Africa in CAPE OF GOOD HOPE
+    1896: Commanding Royal Engineers in CAPE OF GOOD HOPE
+    1896: Chief Paymaster in CAPE OF GOOD HOPE
+    1896: Naval Chaplain in CAPE OF GOOD HOPE
+    1896: Deputy Assistant Adjutant-General in CEYLON
+    1896: Commanding Royal Engineers in CEYLON
+    1896: Officer Commanding Army Service Corps in CEYLON
+    1896: Senior Ordnance Store Officer in CEYLON
+    1896: Assistant Minister in FALKLAND ISLANDS
+    1896: Senior Naval Officer in GIBRALTAR
+    1896: Senior Ordnance Store Officer in GIBRALTAR
+    1896: Senior Chaplain to the Forces in GIBRALTAR
+    1896: Private Secretary in GIBRALTAR
+    1896: Inspector-General in GIBRALTAR
+    1896: 1869 Major-Gen. Whitfeld in HONG KONG
+    1896: Commanding Royal Engineers in HONG KONG
+    1896: Inspector-General in JAMAICA
+    1896: Chaplain in JAMAICA
+    1896: Commanding Royal Engineer in JAMAICA
+    1896: Chief Commissioner in LAGOS
+    1896: Anglican Rector of St. Anthony and St. Patrick Parishes in DOMINICA
+    1896: Wesleyan Minister in DOMINICA
+    1896: Gaol Chaplain in DOMINICA
+    1896: Governor in MALTA
+    1896: Resident Chief Superintendent of Orphan Asylum in MALTA
+    1896: Chief Government Medical Officer in MALTA
+    1896: Dep. Assistant Adjutant-Generals in MALTA
+    1896: Senior Chaplain to the Forces in MALTA
+    1896: Naval Chaplain in MALTA
+    1896: Civil Chaplain for Curepipe in MAURITIUS
+    1896: Minister and Chaplain to Military in MAURITIUS
+    1896: Roman Catholic Chaplain in MAURITIUS
+    1896: Civil Chaplain in SEYCHELLES
+    1896: Private Secretary in NATAL
+    1896: Commanding Royal Engineers in NATAL
+    1896: Chief Justice and Judge of the Vice-Admiralty Court in NATAL
+    1896: Judge in NATAL
+    1896: Attorney-General in NATAL
+    1896: Chief Secretary in NEW SOUTH WALES
+    1896: Colonial Treasurer (Premier) in NEW SOUTH WALES
+    1896: Secretary for Lands in NEW SOUTH WALES
+    1896: Secretary for Public Works in NEW SOUTH WALES
+    1896: Secretary for Mines and Agriculture in NEW SOUTH WALES
+    1896: Postmaster-General in NEW SOUTH WALES
+    1896: Minister of Public Instruction and Minister for Labour and Industry in NEW SOUTH WALES
+    1896: Minister for Justice in NEW SOUTH WALES
+    1896: Attorney-General in NEW SOUTH WALES
+    1896: Chief Secretary in NEW SOUTH WALES
+    1896: Military Secretary in NEW SOUTH WALES
+    1896: Colonel Commanding in NEW SOUTH WALES
+    1896: Colonel Commanding in NEW SOUTH WALES
+    1896: Colonial Treasurer and Secretary for Finance and Trade in NEW SOUTH WALES
+    1896: Vice-President in NEW SOUTH WALES
+    1896: Minister of Justice in NEW SOUTH WALES
+    1896: Attorney-General in NEW SOUTH WALES
+    1896: Secretary for Public Works in NEW SOUTH WALES
+    1896: Secretary for Lands in NEW SOUTH WALES
+    1896: Secretary for Mines and Agriculture in NEW SOUTH WALES
+    1896: Postmaster-General in NEW SOUTH WALES
+    1896: Colonial Treasurer in NEW ZEALAND
+    1896: Inspector of Prisons in NEW ZEALAND
+    1896: Minister in NEW ZEALAND
+    1896: Postmaster-General and Commissioner of Telegraphs in NEW ZEALAND
+    1896: Minister in NEW ZEALAND
+    1896: Secretary and Inspector-General in NEW ZEALAND
+    1896: Commissioner of Trade and Customs in NEW ZEALAND
+    1896: Minister of Public Works in NEW ZEALAND
+    1896: Minister for Railways in NEW ZEALAND
+    1896: Minister of Defences in NEW ZEALAND
+    1896: Commissioner in NEW ZEALAND
+    1896: Commissioner in NEW ZEALAND
+    1896: Attorney-General in NEW ZEALAND
+    1896: Minister in NEW ZEALAND
+    1896: Colonial Secretary in NEW ZEALAND
+    1896: Postmaster-General in NEW ZEALAND
+    1896: Attorney-General in NEW ZEALAND
+    1896: Secretary for Public Lands and Agriculture in NEW ZEALAND
+    1896: Secretary for Public Instruction in NEW ZEALAND
+    1896: President in NEW ZEALAND
+    1896: Clerk Assistant and Usher of the Black Rod in NEW ZEALAND
+    1896: Chief Justice in NEW ZEALAND
+    1896: Vice-Consul for France in NEW ZEALAND
+    1896: Auditor in ST. HELENA
+    1896: Sheriff and Provost-Marshal in SIERRA LEONE
+    1896: Colonial Chaplain in SIERRA LEONE
+    1896: Inspector-General of Frontier Police in SIERRA LEONE
+    1896: Chief Secretary in SOUTH AUSTRALIA
+    1896: Treasurer in SOUTH AUSTRALIA
+    1896: Attorney-General and Premier in SOUTH AUSTRALIA
+    1896: Commissioner of Crown Lands and Immigration in SOUTH AUSTRALIA
+    1896: Commissioner of Public Works in SOUTH AUSTRALIA
+    1896: Minister of Education and Agriculture in SOUTH AUSTRALIA
+    1896: President in SOUTH AUSTRALIA
+    1896: Chief Justice and Judge of the Vice-Admiralty Court in SOUTH AUSTRALIA
+    1896: Chief Secretary in SOUTH AUSTRALIA
+    1896: Treasurer in SOUTH AUSTRALIA
+    1896: Commissioner in SOUTH AUSTRALIA
+    1896: Commissioner of Public Works in SOUTH AUSTRALIA
+    1896: Minister of Education and Agriculture in SOUTH AUSTRALIA
+    1896: Agent-General (also Emigration Agent) in SOUTH AUSTRALIA
+    1896: **Colonial Chaplain** in SOUTH AUSTRALIA
+    1896: **Deputy Colonial Engineer and Surveyor-General** in SOUTH AUSTRALIA
+    1896: **Chaplain** in SOUTH AUSTRALIA
+    1896: **Colonial Chaplain** in SOUTH AUSTRALIA
+    1896: British Resident in SOUTH AUSTRALIA
+    1896: Attorney-General in TASMANIA
+    1896: President in TASMANIA
+    1896: Treasurer in TASMANIA
+    1896: Postmaster-General in TASMANIA
+    1896: Commandant and Inspecting Field Officer in TASMANIA
+    1896: Staff Officer in TASMANIA
+    1896: Chief Justice in TASMANIA
+    1896: Attorney-General in TASMANIA
+    1896: Solicitor-General and Crown Solicitor in TASMANIA
+    1896: Minister of Lands and Works in TASMANIA
+    1896: Officer Commanding Light Infantry Volunteers in TRINIDAD
+    1896: Vicar-General in TRINIDAD
+    1896: Caura and Tunapuna in TRINIDAD
+    1896: La Brea and Erin in TRINIDAD
+    1896: Oropouche and Siparia in TRINIDAD
+    1896: Wesleyan Minister in TRINIDAD
+    1896: Baptist Minister in TRINIDAD
+    1896: Acting General Inspector and Secretary in VICTORIA
+    1896: Assistant Adjutant-General in VICTORIA
+    1896: Officer Commanding in VICTORIA
+    1896: Minister of Public Instruction in VICTORIA
+    1896: Colonial Secretary in VICTORIA
+    1896: Commissioner in VICTORIA
+    1896: Superintendent in VICTORIA
+    1896: Commandant Local Forces in VICTORIA
+    1896: Attorney-General in VICTORIA
+    1896: Commissioner of Crown Lands in VICTORIA
+    1896: Anglican Minister of Holy Trinity Church in ST. LUCIA
+    1896: Roman Catholic Vicar General and Curé of Castries in ST. LUCIA
+    1896: Wesleyan Minister in ST. VINCENT
+    1896: Chief Secretary to Government in CYPRUS
+    1896: Chief Commandant and Inspector of Prisons in CYPRUS
+    1896: Commandant of Police in CYPRUS
+    1896: Commandant in CYPRUS
+    1896: Wing Officers in CYPRUS
+    1896: MARSHALL in TRISTAN D'ACUNHA
+
+the Hon
+  Career span: 1896-1896
+  Colonies: CAPE OF GOOD HOPE, CEYLON, VICTORIA, TRISTAN D'ACUNHA, SOUTH AUSTRALIA, CYPRUS, ZULULAND, NEW SOUTH WALES, TASMANIA, NATAL, BRITISH HONDURAS
+  Positions:
+    1896: Minister of Justice and Attorney-General in BRITISH HONDURAS
+    1896: Minister of Justice and Attorney-General in BRITISH HONDURAS
+    1896: Attorney-General in CAPE OF GOOD HOPE
+    1896: Attorney-General in CEYLON
+    1896: Attorney-General in CAPE OF GOOD HOPE
+    1896: President in NATAL
+    1896: Governor in NATAL
+    1896: Colonial Secretary in NATAL
+    1896: Attorney-General in NATAL
+    1896: Treasurer in NATAL
+    1896: Secretary for Native Affairs in NATAL
+    1896: Minister in NATAL
+    1896: Vice-President in NEW SOUTH WALES
+    1896: Lieutenant-Governor in NEW SOUTH WALES
+    1896: Agent-General in London in NEW SOUTH WALES
+    1896: Lieutenant Governor in SOUTH AUSTRALIA
+    1896: Chief Justice in SOUTH AUSTRALIA
+    1896: Chief Secretary in TASMANIA
+    1896: Treasurer in TASMANIA
+    1896: Minister of Lands and Works in TASMANIA
+    1896: Minister without Portfolio in TASMANIA
+    1896: Premier and Treasurer in VICTORIA
+    1896: Attorney-General in VICTORIA
+    1896: Postmaster-General in VICTORIA
+    1896: Minister of Defence in VICTORIA
+    1896: Minister of Mines and Water Supply in VICTORIA
+    1896: Minister of Railways in VICTORIA
+    1896: President in VICTORIA
+    1896: Attorney-General in VICTORIA
+    1896: Solicitor-General in VICTORIA
+    1896: Premier and Treasurer in VICTORIA
+    1896: Minister of Defence in VICTORIA
+    1896: Commissioner of Crown Lands and Survey in VICTORIA
+    1896: Minister of Agriculture in VICTORIA
+    1896: Commissioner of Public Works in VICTORIA
+    1896: Minister of Mines and Water Supply in VICTORIA
+    1896: Commissioner in VICTORIA
+    1896: Postmaster-General in VICTORIA
+    1896: Minister of Health in VICTORIA
+    1896: Minister of Railways in VICTORIA
+    1896: Governor in ZULULAND
+    1896: Inspector of Schools in CYPRUS
+    1896: Secretary in TRISTAN D'ACUNHA
+
+The Right Rev
+  Career span: 1896-1896
+  Colonies: JAMAICA, BRITISH GUIANA, VICTORIA, BARBADOS, FALKLAND ISLANDS, ST. HELENA, SIERRA LEONE, MAURITIUS, CYPRUS, GIBRALTAR, BAHAMAS, BERMUDA, ANTIGUA, TASMANIA, NATAL, BRITISH HONDURAS
+  Positions:
+    1896: Bishop of Nassau in BAHAMAS
+    1896: President of the Education Board in BARBADOS
+    1896: Bishop in BARBADOS
+    1896: Bishop of Newfoundland and Bermudas in BERMUDA
+    1896: Lord Bishop in BRITISH GUIANA
+    1896: Bishop in BRITISH GUIANA
+    1896: Governor-General in BRITISH HONDURAS
+    1896: Bishop in FALKLAND ISLANDS
+    1896: Bishop in FALKLAND ISLANDS
+    1896: Bishop in FALKLAND ISLANDS
+    1896: Anglican Bishop in GIBRALTAR
+    1896: Assistant ditto in JAMAICA
+    1896: Anglican Bishop of Antigua in ANTIGUA
+    1896: Bishop Coadjutor in ANTIGUA
+    1896: Chaplain of Common Jail in ANTIGUA
+    1896: Anglican Bishop of Antigua in ANTIGUA
+    1896: Bishop Coadjutor in ANTIGUA
+    1896: Chaplain of Common Jail in ANTIGUA
+    1896: Bishop of Mauritius in MAURITIUS
+    1896: Bishop of Newfoundland (Church of England) in NATAL
+    1896: Bishop in ST. HELENA
+    1896: Bishop of Sierra Leone in SIERRA LEONE
+    1896: Governor and Commander-in-Chief in TASMANIA
+    1896: Bishop of Tasmania in TASMANIA
+    1896: Coadjutor Bishop of Hobart in TASMANIA
+    1896: Bishop in VICTORIA
+    1896: Bishop in VICTORIA
+    1896: Administrator in CYPRUS
+
+Most Rev
+  Career span: 1896-1896
+  Colonies: CAPE OF GOOD HOPE, JAMAICA, CANADA, TRINIDAD, TASMANIA, NATAL, BRITISH HONDURAS
+  Positions:
+    1896: Archbishop of Montreal in BRITISH HONDURAS
+    1896: Archbishop of Ottawa in BRITISH HONDURAS
+    1896: Archbishop of Toronto in BRITISH HONDURAS
+    1896: Archbishop of Kingston in BRITISH HONDURAS
+    1896: Archbishop of Halifax in BRITISH HONDURAS
+    1896: Archbishop of St. Boniface in BRITISH HONDURAS
+    1896: Archbishop of Montreal in CANADA
+    1896: Archbishop of Ottawa in CANADA
+    1896: Archbishop of Toronto in CANADA
+    1896: Archbishop of Kingston in CANADA
+    1896: Archbishop of Halifax in CANADA
+    1896: Archbishop of St. Boniface in CANADA
+    1896: Bishop of Cape Town and Metropolitan in CAPE OF GOOD HOPE
+    1896: Bishop of Cape Town and Metropolitan in CAPE OF GOOD HOPE
+    1896: Bishop of Cape Town and Metropolitan in CAPE OF GOOD HOPE
+    1896: Bishop of Jamaica in JAMAICA
+    1896: Roman Catholic Bishop of St. John's in NATAL
+    1896: Roman Catholic Bishop of Harbour Grace in NATAL
+    1896: Roman Catholic Archbishop in TASMANIA
+    1896: Archbishop of Port of Spain in TRINIDAD
+
+President
+  Career span: 1896-1896
+  Colonies: LAGOS, SIERRA LEONE, GIBRALTAR, TRINIDAD, FIJI
+  Positions:
+    1896: The Administrator in FIJI
+    1896: The Administrator in FIJI
+    1896: The Governor in GIBRALTAR
+    1896: The Governor in LAGOS
+    1896: The Governor in LAGOS
+    1896: The Governor in SIERRA LEONE
+    1896: 1. The Governor in SIERRA LEONE
+    1896: The Governor in SIERRA LEONE
+    1896: The Governor in TRINIDAD
+    1896: The Governor in TRINIDAD
+    1896: 1848. Captain F. Forth in TRINIDAD
+    1896: The Commissioner in TRINIDAD

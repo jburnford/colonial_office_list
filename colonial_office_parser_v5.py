@@ -72,14 +72,31 @@ class ColonialOfficeParserV5:
         return int(match.group(1)) if match else 0
 
     def load(self):
-        """Load JSON data"""
+        """Load JSON data - handles both old format (single object) and new format (array of pages)"""
         with open(self.json_path, 'r') as f:
             self.data = json.load(f)
 
+        # Handle two different JSON formats:
+        # Old format (1896): [{"text": "full document", ...}]
+        # New format (other years): [{"id": "...", "text": "page 1"}, {"id": "...", "text": "page 2"}, ...]
+
         if isinstance(self.data, list) and len(self.data) > 0:
-            self.text = self.data[0]['text']
+            if 'text' in self.data[0]:
+                # Check if it's the old format (single large text) or new format (multiple pages)
+                if len(self.data) == 1 and len(self.data[0]['text']) > 100000:
+                    # Old format: single object with full document
+                    self.text = self.data[0]['text']
+                else:
+                    # New format: concatenate all page texts
+                    texts = []
+                    for page in self.data:
+                        if 'text' in page:
+                            texts.append(page['text'])
+                    self.text = '\n'.join(texts)
+            else:
+                raise ValueError("No 'text' field found in JSON data")
         else:
-            raise ValueError("Unexpected JSON structure")
+            raise ValueError("Unexpected JSON structure: not a list or empty")
 
         self.lines = self.text.split('\n')
         print(f"Loaded {len(self.lines)} lines from {self.json_path.name}")

@@ -1,0 +1,384 @@
+{
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1883/olmocr_results.json",
+  "year": 1883,
+  "format": "early_grouped",
+  "total_colonies": 40,
+  "grouped_count": 11,
+  "direct_count": 29,
+  "cross_references": {
+    "ANTIGUA": {
+      "group": "Leeward Islands",
+      "page": "111"
+    },
+    "BARBADOS": {
+      "group": "Windward Islands",
+      "page": "200"
+    },
+    "TOBAGO": {
+      "group": "Windward Islands",
+      "page": "211"
+    }
+  },
+  "colonies": [
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 1883,
+      "start_line": 215,
+      "end_line": 216,
+      "char_count": 11,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 1883,
+      "start_line": 216,
+      "end_line": 1563,
+      "char_count": 79833,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "year": 1883,
+      "start_line": 1563,
+      "end_line": 1760,
+      "char_count": 10724,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1883,
+      "start_line": 1760,
+      "end_line": 2053,
+      "char_count": 22050,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1883,
+      "start_line": 2053,
+      "end_line": 2747,
+      "char_count": 31783,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1883,
+      "start_line": 2747,
+      "end_line": 3210,
+      "char_count": 26324,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "NOVA SCOTIA",
+      "year": 1883,
+      "start_line": 3210,
+      "end_line": 3289,
+      "char_count": 5978,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "BRITISH COLUMBIA",
+      "year": 1883,
+      "start_line": 3289,
+      "end_line": 3336,
+      "char_count": 9790,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "PRINCE EDWARD ISLAND",
+      "year": 1883,
+      "start_line": 3336,
+      "end_line": 3563,
+      "char_count": 27246,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "CANADA",
+      "year": 1883,
+      "start_line": 3563,
+      "end_line": 5321,
+      "char_count": 46194,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "MANITOBA",
+      "year": 1883,
+      "start_line": 5321,
+      "end_line": 5464,
+      "char_count": 4218,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "PRINCE EDWARD ISLAND",
+      "year": 1883,
+      "start_line": 5464,
+      "end_line": 5542,
+      "char_count": 2887,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "year": 1883,
+      "start_line": 5542,
+      "end_line": 6538,
+      "char_count": 66584,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "year": 1883,
+      "start_line": 6538,
+      "end_line": 7551,
+      "char_count": 32975,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "CEYLON",
+      "year": 1883,
+      "start_line": 7551,
+      "end_line": 8217,
+      "char_count": 26666,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1883,
+      "start_line": 8217,
+      "end_line": 8221,
+      "char_count": 41,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "year": 1883,
+      "start_line": 8221,
+      "end_line": 8605,
+      "char_count": 23733,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1883,
+      "start_line": 8605,
+      "end_line": 8761,
+      "char_count": 18809,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "LAGOS",
+      "year": 1883,
+      "start_line": 8761,
+      "end_line": 8839,
+      "char_count": 3032,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "GOLD COAST",
+      "year": 1883,
+      "start_line": 8839,
+      "end_line": 9370,
+      "char_count": 49778,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 1883,
+      "start_line": 9370,
+      "end_line": 9677,
+      "char_count": 14599,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1883,
+      "start_line": 9677,
+      "end_line": 10243,
+      "char_count": 32325,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "LABUAN",
+      "year": 1883,
+      "start_line": 10243,
+      "end_line": 10361,
+      "char_count": 4497,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "year": 1883,
+      "start_line": 10572,
+      "end_line": 10825,
+      "char_count": 9385,
+      "grouped": true,
+      "group_name": "THE LEEWARD ISLANDS"
+    },
+    {
+      "colony_name": "MONTSERRAT",
+      "year": 1883,
+      "start_line": 10825,
+      "end_line": 10928,
+      "char_count": 5354,
+      "grouped": true,
+      "group_name": "THE LEEWARD ISLANDS"
+    },
+    {
+      "colony_name": "ST. CHRISTOPHER",
+      "year": 1883,
+      "start_line": 10928,
+      "end_line": 11175,
+      "char_count": 9856,
+      "grouped": true,
+      "group_name": "THE LEEWARD ISLANDS"
+    },
+    {
+      "colony_name": "NEVIS",
+      "year": 1883,
+      "start_line": 11175,
+      "end_line": 11340,
+      "char_count": 7085,
+      "grouped": true,
+      "group_name": "THE LEEWARD ISLANDS"
+    },
+    {
+      "colony_name": "VIRGIN ISLANDS",
+      "year": 1883,
+      "start_line": 11340,
+      "end_line": 11434,
+      "char_count": 4006,
+      "grouped": true,
+      "group_name": "THE LEEWARD ISLANDS"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1883,
+      "start_line": 11434,
+      "end_line": 11573,
+      "char_count": 7059,
+      "grouped": true,
+      "group_name": "THE LEEWARD ISLANDS"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 1883,
+      "start_line": 15755,
+      "end_line": 15863,
+      "char_count": 4952,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "SOUTH AUSTRALIA",
+      "year": 1883,
+      "start_line": 15863,
+      "end_line": 17915,
+      "char_count": 101223,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "year": 1883,
+      "start_line": 17915,
+      "end_line": 18718,
+      "char_count": 43178,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "VICTORIA",
+      "year": 1883,
+      "start_line": 18718,
+      "end_line": 19516,
+      "char_count": 34784,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1883,
+      "start_line": 19516,
+      "end_line": 19814,
+      "char_count": 13727,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 1883,
+      "start_line": 19814,
+      "end_line": 20429,
+      "char_count": 27793,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 1883,
+      "start_line": 20431,
+      "end_line": 20953,
+      "char_count": 30274,
+      "grouped": true,
+      "group_name": "THE WINDWARD ISLANDS"
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 1883,
+      "start_line": 20953,
+      "end_line": 21172,
+      "char_count": 17015,
+      "grouped": true,
+      "group_name": "THE WINDWARD ISLANDS"
+    },
+    {
+      "colony_name": "GRENADA",
+      "year": 1883,
+      "start_line": 21172,
+      "end_line": 21385,
+      "char_count": 10895,
+      "grouped": true,
+      "group_name": "THE WINDWARD ISLANDS"
+    },
+    {
+      "colony_name": "TOBAGO",
+      "year": 1883,
+      "start_line": 21385,
+      "end_line": 21556,
+      "char_count": 11717,
+      "grouped": true,
+      "group_name": "THE WINDWARD ISLANDS"
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 1883,
+      "start_line": 21556,
+      "end_line": 21775,
+      "char_count": 13687,
+      "grouped": true,
+      "group_name": "THE WINDWARD ISLANDS"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1918/olmocr_results.json",
   "year": 0,
-  "total_colonies": 71,
+  "total_colonies": 53,
   "colonies": [
     {
       "colony_name": "AUSTRALIA",
@@ -373,132 +373,6 @@
       "start_line": 40188,
       "end_line": 40216,
       "char_count": 6962
-    },
-    {
-      "colony_name": "CYPRUS",
-      "year": 0,
-      "start_line": 45547,
-      "end_line": 40216,
-      "char_count": -230225
-    },
-    {
-      "colony_name": "MAURITIUS",
-      "year": 0,
-      "start_line": 45754,
-      "end_line": 40216,
-      "char_count": -241668
-    },
-    {
-      "colony_name": "EAST AFRICA",
-      "year": 0,
-      "start_line": 45816,
-      "end_line": 40216,
-      "char_count": -244160
-    },
-    {
-      "colony_name": "SOMALILAND",
-      "year": 0,
-      "start_line": 45975,
-      "end_line": 40216,
-      "char_count": -249766
-    },
-    {
-      "colony_name": "UGANDA",
-      "year": 0,
-      "start_line": 45991,
-      "end_line": 40216,
-      "char_count": -250292
-    },
-    {
-      "colony_name": "ZANZIBAR",
-      "year": 0,
-      "start_line": 46046,
-      "end_line": 40216,
-      "char_count": -251950
-    },
-    {
-      "colony_name": "CAPE OF GOOD HOPE",
-      "year": 0,
-      "start_line": 46430,
-      "end_line": 40216,
-      "char_count": -265761
-    },
-    {
-      "colony_name": "NATAL",
-      "year": 0,
-      "start_line": 46461,
-      "end_line": 40216,
-      "char_count": -267396
-    },
-    {
-      "colony_name": "ZULULAND",
-      "year": 0,
-      "start_line": 46486,
-      "end_line": 40216,
-      "char_count": -268619
-    },
-    {
-      "colony_name": "GAMBIA",
-      "year": 0,
-      "start_line": 46755,
-      "end_line": 40216,
-      "char_count": -279722
-    },
-    {
-      "colony_name": "GOLD COAST",
-      "year": 0,
-      "start_line": 46766,
-      "end_line": 40216,
-      "char_count": -280132
-    },
-    {
-      "colony_name": "BRITISH HONDURAS",
-      "year": 0,
-      "start_line": 47157,
-      "end_line": 40216,
-      "char_count": -301255
-    },
-    {
-      "colony_name": "AUSTRALIA",
-      "year": 0,
-      "start_line": 47321,
-      "end_line": 40216,
-      "char_count": -308116
-    },
-    {
-      "colony_name": "QUEENSLAND",
-      "year": 0,
-      "start_line": 47395,
-      "end_line": 40216,
-      "char_count": -311092
-    },
-    {
-      "colony_name": "SOUTH AUSTRALIA",
-      "year": 0,
-      "start_line": 47417,
-      "end_line": 40216,
-      "char_count": -311786
-    },
-    {
-      "colony_name": "TASMANIA",
-      "year": 0,
-      "start_line": 47439,
-      "end_line": 40216,
-      "char_count": -312334
-    },
-    {
-      "colony_name": "VICTORIA",
-      "year": 0,
-      "start_line": 47457,
-      "end_line": 40216,
-      "char_count": -312741
-    },
-    {
-      "colony_name": "WESTERN AUSTRALIA",
-      "year": 0,
-      "start_line": 47485,
-      "end_line": 40216,
-      "char_count": -313404
     }
   ]
 }

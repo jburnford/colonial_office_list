@@ -1,7 +1,7 @@
 {
   "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1924/olmocr_results.json",
   "year": 0,
-  "total_colonies": 66,
+  "total_colonies": 48,
   "colonies": [
     {
       "colony_name": "AUSTRALIA",
@@ -338,132 +338,6 @@
       "start_line": 44222,
       "end_line": 44256,
       "char_count": 7937
-    },
-    {
-      "colony_name": "CYPRUS",
-      "year": 0,
-      "start_line": 48207,
-      "end_line": 44256,
-      "char_count": -145692
-    },
-    {
-      "colony_name": "GIBRALTAR",
-      "year": 0,
-      "start_line": 48238,
-      "end_line": 44256,
-      "char_count": -147663
-    },
-    {
-      "colony_name": "MALTA",
-      "year": 0,
-      "start_line": 48290,
-      "end_line": 44256,
-      "char_count": -149013
-    },
-    {
-      "colony_name": "CEYLON",
-      "year": 0,
-      "start_line": 48374,
-      "end_line": 44256,
-      "char_count": -151636
-    },
-    {
-      "colony_name": "MAURITIUS",
-      "year": 0,
-      "start_line": 48511,
-      "end_line": 44256,
-      "char_count": -158082
-    },
-    {
-      "colony_name": "CAPE OF GOOD HOPE",
-      "year": 0,
-      "start_line": 49030,
-      "end_line": 44256,
-      "char_count": -185905
-    },
-    {
-      "colony_name": "NATAL",
-      "year": 0,
-      "start_line": 49084,
-      "end_line": 44256,
-      "char_count": -187453
-    },
-    {
-      "colony_name": "ZULULAND",
-      "year": 0,
-      "start_line": 49128,
-      "end_line": 44256,
-      "char_count": -188684
-    },
-    {
-      "colony_name": "GAMBIA",
-      "year": 0,
-      "start_line": 49486,
-      "end_line": 44256,
-      "char_count": -200268
-    },
-    {
-      "colony_name": "GOLD COAST",
-      "year": 0,
-      "start_line": 49509,
-      "end_line": 44256,
-      "char_count": -200943
-    },
-    {
-      "colony_name": "SIERRA LEONE",
-      "year": 0,
-      "start_line": 49685,
-      "end_line": 44256,
-      "char_count": -206616
-    },
-    {
-      "colony_name": "BARBADOS",
-      "year": 0,
-      "start_line": 50045,
-      "end_line": 44256,
-      "char_count": -222386
-    },
-    {
-      "colony_name": "BRITISH HONDURAS",
-      "year": 0,
-      "start_line": 50101,
-      "end_line": 44256,
-      "char_count": -223808
-    },
-    {
-      "colony_name": "JAMAICA",
-      "year": 0,
-      "start_line": 50143,
-      "end_line": 44256,
-      "char_count": -224849
-    },
-    {
-      "colony_name": "SOMALILAND",
-      "year": 0,
-      "start_line": 51169,
-      "end_line": 44256,
-      "char_count": -283750
-    },
-    {
-      "colony_name": "GAMBIA",
-      "year": 0,
-      "start_line": 51225,
-      "end_line": 44256,
-      "char_count": -288808
-    },
-    {
-      "colony_name": "EAST AFRICA",
-      "year": 0,
-      "start_line": 51265,
-      "end_line": 44256,
-      "char_count": -293872
-    },
-    {
-      "colony_name": "FIJI",
-      "year": 0,
-      "start_line": 51630,
-      "end_line": 44256,
-      "char_count": -326361
     }
   ]
 }

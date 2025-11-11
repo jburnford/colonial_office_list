@@ -1,7 +1,7 @@
 {
   "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1925/olmocr_results.json",
   "year": 0,
-  "total_colonies": 52,
+  "total_colonies": 44,
   "colonies": [
     {
       "colony_name": "AUSTRALIA",
@@ -310,62 +310,6 @@
       "start_line": 46226,
       "end_line": 46265,
       "char_count": 8182
-    },
-    {
-      "colony_name": "SEYCHELLES",
-      "year": 0,
-      "start_line": 50261,
-      "end_line": 46265,
-      "char_count": -145742
-    },
-    {
-      "colony_name": "STRAITS SETTLEMENTS",
-      "year": 0,
-      "start_line": 50281,
-      "end_line": 46265,
-      "char_count": -146239
-    },
-    {
-      "colony_name": "GOLD COAST",
-      "year": 0,
-      "start_line": 51346,
-      "end_line": 46265,
-      "char_count": -186430
-    },
-    {
-      "colony_name": "SIERRA LEONE",
-      "year": 0,
-      "start_line": 51524,
-      "end_line": 46265,
-      "char_count": -192582
-    },
-    {
-      "colony_name": "BRITISH HONDURAS",
-      "year": 0,
-      "start_line": 52040,
-      "end_line": 46265,
-      "char_count": -210321
-    },
-    {
-      "colony_name": "AUSTRALIA",
-      "year": 0,
-      "start_line": 52216,
-      "end_line": 46265,
-      "char_count": -217698
-    },
-    {
-      "colony_name": "GAMBIA",
-      "year": 0,
-      "start_line": 52977,
-      "end_line": 46265,
-      "char_count": -274177
-    },
-    {
-      "colony_name": "FIJI",
-      "year": 0,
-      "start_line": 53400,
-      "end_line": 46265,
-      "char_count": -312396
     }
   ]
 }

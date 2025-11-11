@@ -1,7 +1,7 @@
 {
   "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1927/olmocr_results.json",
   "year": 0,
-  "total_colonies": 64,
+  "total_colonies": 52,
   "colonies": [
     {
       "colony_name": "AUSTRALIA",
@@ -366,90 +366,6 @@
       "start_line": 48645,
       "end_line": 48694,
       "char_count": 8962
-    },
-    {
-      "colony_name": "GIBRALTAR",
-      "year": 0,
-      "start_line": 52785,
-      "end_line": 48694,
-      "char_count": -157160
-    },
-    {
-      "colony_name": "MALTA",
-      "year": 0,
-      "start_line": 52827,
-      "end_line": 48694,
-      "char_count": -158257
-    },
-    {
-      "colony_name": "LABUAN",
-      "year": 0,
-      "start_line": 53013,
-      "end_line": 48694,
-      "char_count": -166370
-    },
-    {
-      "colony_name": "MAURITIUS",
-      "year": 0,
-      "start_line": 53077,
-      "end_line": 48694,
-      "char_count": -168838
-    },
-    {
-      "colony_name": "ZANZIBAR",
-      "year": 0,
-      "start_line": 53391,
-      "end_line": 48694,
-      "char_count": -185308
-    },
-    {
-      "colony_name": "CAPE OF GOOD HOPE",
-      "year": 0,
-      "start_line": 53797,
-      "end_line": 48694,
-      "char_count": -200416
-    },
-    {
-      "colony_name": "GAMBIA",
-      "year": 0,
-      "start_line": 54184,
-      "end_line": 48694,
-      "char_count": -215462
-    },
-    {
-      "colony_name": "GOLD COAST",
-      "year": 0,
-      "start_line": 54202,
-      "end_line": 48694,
-      "char_count": -215890
-    },
-    {
-      "colony_name": "ST. HELENA",
-      "year": 0,
-      "start_line": 54438,
-      "end_line": 48694,
-      "char_count": -223345
-    },
-    {
-      "colony_name": "BERMUDA",
-      "year": 0,
-      "start_line": 54454,
-      "end_line": 48694,
-      "char_count": -223655
-    },
-    {
-      "colony_name": "SOMALILAND",
-      "year": 0,
-      "start_line": 55903,
-      "end_line": 48694,
-      "char_count": -302476
-    },
-    {
-      "colony_name": "FIJI",
-      "year": 0,
-      "start_line": 56434,
-      "end_line": 48694,
-      "char_count": -348812
     }
   ]
 }

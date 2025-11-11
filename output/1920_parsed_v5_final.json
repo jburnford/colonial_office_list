@@ -1,7 +1,7 @@
 {
   "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1920/olmocr_results.json",
   "year": 0,
-  "total_colonies": 62,
+  "total_colonies": 51,
   "colonies": [
     {
       "colony_name": "LAGOS",
@@ -359,83 +359,6 @@
       "start_line": 40514,
       "end_line": 40538,
       "char_count": 5381
-    },
-    {
-      "colony_name": "CYPRUS",
-      "year": 0,
-      "start_line": 48513,
-      "end_line": 40538,
-      "char_count": -356772
-    },
-    {
-      "colony_name": "GIBRALTAR",
-      "year": 0,
-      "start_line": 48570,
-      "end_line": 40538,
-      "char_count": -358738
-    },
-    {
-      "colony_name": "MALTA",
-      "year": 0,
-      "start_line": 48624,
-      "end_line": 40538,
-      "char_count": -360091
-    },
-    {
-      "colony_name": "MAURITIUS",
-      "year": 0,
-      "start_line": 48802,
-      "end_line": 40538,
-      "char_count": -368410
-    },
-    {
-      "colony_name": "EAST AFRICA",
-      "year": 0,
-      "start_line": 48863,
-      "end_line": 40538,
-      "char_count": -370890
-    },
-    {
-      "colony_name": "ZANZIBAR",
-      "year": 0,
-      "start_line": 49002,
-      "end_line": 40538,
-      "char_count": -378623
-    },
-    {
-      "colony_name": "RHODESIA",
-      "year": 0,
-      "start_line": 49172,
-      "end_line": 40538,
-      "char_count": -388374
-    },
-    {
-      "colony_name": "CAPE OF GOOD HOPE",
-      "year": 0,
-      "start_line": 49242,
-      "end_line": 40538,
-      "char_count": -392428
-    },
-    {
-      "colony_name": "BAHAMAS",
-      "year": 0,
-      "start_line": 49867,
-      "end_line": 40538,
-      "char_count": -426409
-    },
-    {
-      "colony_name": "BRITISH HONDURAS",
-      "year": 0,
-      "start_line": 49937,
-      "end_line": 40538,
-      "char_count": -428186
-    },
-    {
-      "colony_name": "QUEENSLAND",
-      "year": 0,
-      "start_line": 50220,
-      "end_line": 40538,
-      "char_count": -440304
     }
   ]
 }

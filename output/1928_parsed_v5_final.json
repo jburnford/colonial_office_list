@@ -1,7 +1,7 @@
 {
   "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1928/olmocr_results.json",
   "year": 0,
-  "total_colonies": 70,
+  "total_colonies": 56,
   "colonies": [
     {
       "colony_name": "AUSTRALIA",
@@ -394,104 +394,6 @@
       "start_line": 54632,
       "end_line": 54679,
       "char_count": 9052
-    },
-    {
-      "colony_name": "CYPRUS",
-      "year": 0,
-      "start_line": 59451,
-      "end_line": 54679,
-      "char_count": -184151
-    },
-    {
-      "colony_name": "LABUAN",
-      "year": 0,
-      "start_line": 59701,
-      "end_line": 54679,
-      "char_count": -195636
-    },
-    {
-      "colony_name": "MAURITIUS",
-      "year": 0,
-      "start_line": 59754,
-      "end_line": 54679,
-      "char_count": -198094
-    },
-    {
-      "colony_name": "UGANDA",
-      "year": 0,
-      "start_line": 60107,
-      "end_line": 54679,
-      "char_count": -213158
-    },
-    {
-      "colony_name": "ZANZIBAR",
-      "year": 0,
-      "start_line": 60169,
-      "end_line": 54679,
-      "char_count": -214884
-    },
-    {
-      "colony_name": "CAPE OF GOOD HOPE",
-      "year": 0,
-      "start_line": 60636,
-      "end_line": 54679,
-      "char_count": -230174
-    },
-    {
-      "colony_name": "GAMBIA",
-      "year": 0,
-      "start_line": 61121,
-      "end_line": 54679,
-      "char_count": -245649
-    },
-    {
-      "colony_name": "GOLD COAST",
-      "year": 0,
-      "start_line": 61139,
-      "end_line": 54679,
-      "char_count": -246070
-    },
-    {
-      "colony_name": "ST. HELENA",
-      "year": 0,
-      "start_line": 61374,
-      "end_line": 54679,
-      "char_count": -253531
-    },
-    {
-      "colony_name": "BERMUDA",
-      "year": 0,
-      "start_line": 61390,
-      "end_line": 54679,
-      "char_count": -253853
-    },
-    {
-      "colony_name": "NEWFOUNDLAND",
-      "year": 0,
-      "start_line": 61672,
-      "end_line": 54679,
-      "char_count": -263279
-    },
-    {
-      "colony_name": "BRITISH HONDURAS",
-      "year": 0,
-      "start_line": 61831,
-      "end_line": 54679,
-      "char_count": -270519
-    },
-    {
-      "colony_name": "JAMAICA",
-      "year": 0,
-      "start_line": 61863,
-      "end_line": 54679,
-      "char_count": -271549
-    },
-    {
-      "colony_name": "SOMALILAND",
-      "year": 0,
-      "start_line": 62841,
-      "end_line": 54679,
-      "char_count": -332756
     }
   ]
 }

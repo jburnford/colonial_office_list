@@ -1,7 +1,7 @@
 {
   "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1923/olmocr_results.json",
   "year": 0,
-  "total_colonies": 70,
+  "total_colonies": 52,
   "colonies": [
     {
       "colony_name": "AUSTRALIA",
@@ -366,132 +366,6 @@
       "start_line": 44372,
       "end_line": 44408,
       "char_count": 7966
-    },
-    {
-      "colony_name": "CEYLON",
-      "year": 0,
-      "start_line": 48314,
-      "end_line": 44408,
-      "char_count": -145763
-    },
-    {
-      "colony_name": "LABUAN",
-      "year": 0,
-      "start_line": 48468,
-      "end_line": 44408,
-      "char_count": -150214
-    },
-    {
-      "colony_name": "MAURITIUS",
-      "year": 0,
-      "start_line": 48504,
-      "end_line": 44408,
-      "char_count": -152088
-    },
-    {
-      "colony_name": "CAPE OF GOOD HOPE",
-      "year": 0,
-      "start_line": 49268,
-      "end_line": 44408,
-      "char_count": -179044
-    },
-    {
-      "colony_name": "NATAL",
-      "year": 0,
-      "start_line": 49322,
-      "end_line": 44408,
-      "char_count": -180594
-    },
-    {
-      "colony_name": "ZULULAND",
-      "year": 0,
-      "start_line": 49366,
-      "end_line": 44408,
-      "char_count": -181830
-    },
-    {
-      "colony_name": "GAMBIA",
-      "year": 0,
-      "start_line": 49639,
-      "end_line": 44408,
-      "char_count": -193014
-    },
-    {
-      "colony_name": "GOLD COAST",
-      "year": 0,
-      "start_line": 49657,
-      "end_line": 44408,
-      "char_count": -193415
-    },
-    {
-      "colony_name": "ST. HELENA",
-      "year": 0,
-      "start_line": 49883,
-      "end_line": 44408,
-      "char_count": -200575
-    },
-    {
-      "colony_name": "BERMUDA",
-      "year": 0,
-      "start_line": 49899,
-      "end_line": 44408,
-      "char_count": -200897
-    },
-    {
-      "colony_name": "NEWFOUNDLAND",
-      "year": 0,
-      "start_line": 50168,
-      "end_line": 44408,
-      "char_count": -209541
-    },
-    {
-      "colony_name": "BRITISH HONDURAS",
-      "year": 0,
-      "start_line": 50296,
-      "end_line": 44408,
-      "char_count": -216259
-    },
-    {
-      "colony_name": "WESTERN AUSTRALIA",
-      "year": 0,
-      "start_line": 50611,
-      "end_line": 44408,
-      "char_count": -230375
-    },
-    {
-      "colony_name": "NEW ZEALAND",
-      "year": 0,
-      "start_line": 50681,
-      "end_line": 44408,
-      "char_count": -232052
-    },
-    {
-      "colony_name": "SOMALILAND",
-      "year": 0,
-      "start_line": 51280,
-      "end_line": 44408,
-      "char_count": -274405
-    },
-    {
-      "colony_name": "GAMBIA",
-      "year": 0,
-      "start_line": 51340,
-      "end_line": 44408,
-      "char_count": -279407
-    },
-    {
-      "colony_name": "EAST AFRICA",
-      "year": 0,
-      "start_line": 51377,
-      "end_line": 44408,
-      "char_count": -284415
-    },
-    {
-      "colony_name": "FIJI",
-      "year": 0,
-      "start_line": 51748,
-      "end_line": 44408,
-      "char_count": -317384
     }
   ]
 }

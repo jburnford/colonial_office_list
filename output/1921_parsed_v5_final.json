@@ -1,7 +1,7 @@
 {
   "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1921/olmocr_results.json",
   "year": 0,
-  "total_colonies": 69,
+  "total_colonies": 53,
   "colonies": [
     {
       "colony_name": "AUSTRALIA",
@@ -373,118 +373,6 @@
       "start_line": 42235,
       "end_line": 42271,
       "char_count": 5382
-    },
-    {
-      "colony_name": "CYPRUS",
-      "year": 0,
-      "start_line": 50807,
-      "end_line": 42271,
-      "char_count": -370742
-    },
-    {
-      "colony_name": "MALTA",
-      "year": 0,
-      "start_line": 50870,
-      "end_line": 42271,
-      "char_count": -374010
-    },
-    {
-      "colony_name": "CEYLON",
-      "year": 0,
-      "start_line": 50940,
-      "end_line": 42271,
-      "char_count": -376739
-    },
-    {
-      "colony_name": "MAURITIUS",
-      "year": 0,
-      "start_line": 51104,
-      "end_line": 42271,
-      "char_count": -382582
-    },
-    {
-      "colony_name": "EAST AFRICA",
-      "year": 0,
-      "start_line": 51176,
-      "end_line": 42271,
-      "char_count": -385542
-    },
-    {
-      "colony_name": "BECHUANALAND",
-      "year": 0,
-      "start_line": 51638,
-      "end_line": 42271,
-      "char_count": -402240
-    },
-    {
-      "colony_name": "RHODESIA",
-      "year": 0,
-      "start_line": 51674,
-      "end_line": 42271,
-      "char_count": -403139
-    },
-    {
-      "colony_name": "CAPE OF GOOD HOPE",
-      "year": 0,
-      "start_line": 51805,
-      "end_line": 42271,
-      "char_count": -407494
-    },
-    {
-      "colony_name": "NATAL",
-      "year": 0,
-      "start_line": 51859,
-      "end_line": 42271,
-      "char_count": -409058
-    },
-    {
-      "colony_name": "ZULULAND",
-      "year": 0,
-      "start_line": 51903,
-      "end_line": 42271,
-      "char_count": -410306
-    },
-    {
-      "colony_name": "SIERRA LEONE",
-      "year": 0,
-      "start_line": 52352,
-      "end_line": 42271,
-      "char_count": -426674
-    },
-    {
-      "colony_name": "BAHAMAS",
-      "year": 0,
-      "start_line": 52678,
-      "end_line": 42271,
-      "char_count": -441776
-    },
-    {
-      "colony_name": "BRITISH HONDURAS",
-      "year": 0,
-      "start_line": 52736,
-      "end_line": 42271,
-      "char_count": -443583
-    },
-    {
-      "colony_name": "WINDWARD ISLANDS",
-      "year": 0,
-      "start_line": 52867,
-      "end_line": 42271,
-      "char_count": -448933
-    },
-    {
-      "colony_name": "AUSTRALIA",
-      "year": 0,
-      "start_line": 52911,
-      "end_line": 42271,
-      "char_count": -450940
-    },
-    {
-      "colony_name": "QUEENSLAND",
-      "year": 0,
-      "start_line": 53003,
-      "end_line": 42271,
-      "char_count": -455809
     }
   ]
 }

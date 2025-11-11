@@ -1,7 +1,7 @@
 {
   "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1917/olmocr_results.json",
   "year": 0,
-  "total_colonies": 58,
+  "total_colonies": 48,
   "colonies": [
     {
       "colony_name": "AUSTRALIA",
@@ -338,76 +338,6 @@
       "start_line": 40781,
       "end_line": 40811,
       "char_count": 6962
-    },
-    {
-      "colony_name": "EAST AFRICA",
-      "year": 0,
-      "start_line": 44946,
-      "end_line": 40811,
-      "char_count": -187389
-    },
-    {
-      "colony_name": "ZANZIBAR",
-      "year": 0,
-      "start_line": 45085,
-      "end_line": 40811,
-      "char_count": -194992
-    },
-    {
-      "colony_name": "BASUTOLAND",
-      "year": 0,
-      "start_line": 45306,
-      "end_line": 40811,
-      "char_count": -202999
-    },
-    {
-      "colony_name": "BECHUANALAND",
-      "year": 0,
-      "start_line": 45330,
-      "end_line": 40811,
-      "char_count": -203818
-    },
-    {
-      "colony_name": "RHODESIA",
-      "year": 0,
-      "start_line": 45366,
-      "end_line": 40811,
-      "char_count": -204753
-    },
-    {
-      "colony_name": "CAPE OF GOOD HOPE",
-      "year": 0,
-      "start_line": 45464,
-      "end_line": 40811,
-      "char_count": -208753
-    },
-    {
-      "colony_name": "NATAL",
-      "year": 0,
-      "start_line": 45495,
-      "end_line": 40811,
-      "char_count": -210348
-    },
-    {
-      "colony_name": "ZULULAND",
-      "year": 0,
-      "start_line": 45520,
-      "end_line": 40811,
-      "char_count": -211577
-    },
-    {
-      "colony_name": "BRITISH HONDURAS",
-      "year": 0,
-      "start_line": 46175,
-      "end_line": 40811,
-      "char_count": -243790
-    },
-    {
-      "colony_name": "QUEENSLAND",
-      "year": 0,
-      "start_line": 46432,
-      "end_line": 40811,
-      "char_count": -255731
     }
   ]
 }

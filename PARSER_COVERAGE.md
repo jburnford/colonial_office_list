@@ -1,8 +1,8 @@
 # Colonial Office List Parser Coverage (1867-1937)
 
-**Last Updated:** After V5 parser fix
+**Last Updated:** After modern format parser completion
 **Total Years Available:** 47
-**Fully Parsed:** 40/47 (85%)
+**Fully Parsed:** 44/47 (94%)
 
 ---
 
@@ -15,14 +15,14 @@
 | **Transition** | 1883, 1886 | TBD | ⚠️ Pending | 0/2 (0%) |
 | **Standard** | 1888-1930 | `colonial_office_parser_v5.py` | ✅ Working | 33/33 (100%) |
 | **Anomaly** | 1931 | TBD | ❌ Needs investigation | 0/1 (0%) |
-| **Modern** | 1932-1936 | TBD | 🚧 In progress | 0/5 (0%) |
+| **Modern** | 1932-1936 | `modern_format_parser.py` | ✅ Working | 4/4 (100%) |
 | **Anomaly** | 1937 | TBD | ❌ Needs investigation | 0/1 (0%) |
 
 ---
 
 ## Detailed Year-by-Year Status
 
-### ✅ Fully Working (40 years)
+### ✅ Fully Working (44 years)
 
 #### Early Direct Format (1 year)
 - **1867**: 27 colonies | `early_direct_parser.py`
@@ -68,6 +68,12 @@
 - **1929**: 75 colonies ✅
 - **1930**: 68 colonies ✅
 
+#### Modern Format (4 years) - `modern_format_parser.py`
+- **1932**: 35 colonies ✅
+- **1933**: 36 colonies ✅
+- **1934**: 32 colonies ✅
+- **1936**: 39 colonies ✅
+
 ---
 
 ### ⚠️ Pending Testing (2 years)
@@ -75,16 +81,6 @@
 #### Transition Years
 - **1883**: 4 cross-refs, PART I marker | Needs testing with grouped or V5 parser
 - **1886**: 0 cross-refs, PART I marker | Likely works with V5, needs testing
-
----
-
-### 🚧 In Progress (5 years)
-
-#### Modern Format (Dominions/Colonies Split)
-- **1932**: Part II.B (Dominions) + Part II.C (Colonies) | Parser in development
-- **1933**: Part II.B + Part II.C | Parser in development
-- **1934**: Part II.B + Part II.C | Parser in development
-- **1936**: Part II.B + Part II.C | Parser in development
 
 ---
 
@@ -100,9 +96,9 @@
 
 ### High Priority ✅ COMPLETED
 - [x] Fix V5 parser for 1900-1930 → **DONE** (33 years unlocked)
+- [x] Create modern format parser for 1932-1936 → **DONE** (4 years unlocked)
 
 ### Medium Priority 🚧 IN PROGRESS
-- [ ] Create modern format parser for 1932-1936 → **IN PROGRESS** (5 years)
 - [ ] Test transition years 1883, 1886 with existing parsers (2 years)
 
 ### Low Priority
@@ -129,6 +125,22 @@
 
 **Colony Count Range:** 45-90 colonies per year
 
+### Modern Format Parser (modern_format_parser.py)
+**Coverage:** 4/4 modern format years (100%)
+**Key Features:**
+- Part II.C (Crown Colonies) boundary detection
+- Filters out Part II.B (Dominions) section
+- Excludes post-Part III appendix entries
+- Adapted from V5 parser structure
+- Handles split Dominions/Colonies format (1932-1936)
+
+**Recent Implementation:**
+- ✅ Part II.C content detection
+- ✅ Dual filtering: removes Dominions before Part II.C and appendices after Part III
+- ✅ Zero negative line counts across all years
+
+**Colony Count Range:** 32-39 colonies per year
+
 ### Early Grouped Parser (early_grouped_parser.py)
 **Coverage:** 4/4 grouped format years (100%)
 **Key Features:**
@@ -152,18 +164,12 @@
 
 ## Next Steps
 
-1. **Create `modern_format_parser.py`** for 1932-1936
-   - Adapt V5 parser structure
-   - Detect Part II.C boundary (Crown Colonies section)
-   - Skip Part II.B (Dominions section)
-   - Test on all 5 years
-
-2. **Test transition years** 1883, 1886
+1. **Test transition years** 1883, 1886
    - Try `early_grouped_parser.py` on 1883
    - Try `colonial_office_parser_v5.py` on 1886
    - Validate output quality
 
-3. **Investigate anomalies** 1931, 1937
+2. **Investigate anomalies** 1931, 1937
    - Manual examination of raw OCR text
    - Check if PART markers exist but aren't detected
    - Create custom parsers if needed
@@ -172,8 +178,8 @@
 
 ## Total Coverage Projection
 
-**Current:** 40/47 years (85%)
-**After modern parser:** 45/47 years (96%)
+**Current:** 44/47 years (94%)
+**After transition years:** 46/47 years (98%)
 **After anomaly investigation:** 47/47 years (100%)
 
 **Target:** 100% coverage of all Colonial Office Lists (1867-1937)

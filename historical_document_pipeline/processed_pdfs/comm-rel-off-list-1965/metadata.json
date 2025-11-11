@@ -1,0 +1,53 @@
+{
+  "identifier": "comm-rel-off-list-1965",
+  "collection": "colonial_office_list",
+  "title": "The Commonwealth Relations Office List 1965 [Volume 14]",
+  "creator": "[Great Britain] Commonwealth Relations Office",
+  "year": 1965,
+  "downloaded_at": "2025-11-10T19:37:55.002383Z",
+  "filename": "CommRelOffList1965.pdf",
+  "file_path": "01_downloaded/CommRelOffList1965.pdf",
+  "file_size": 21540050,
+  "source_url": "https://archive.org/details/comm-rel-off-list-1965",
+  "item_metadata": {
+    "identifier": "comm-rel-off-list-1965",
+    "mediatype": "texts",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "creator": "[Great Britain] Commonwealth Relations Office",
+    "date": "1965",
+    "description": "<h1 style=\"margin-right:0cm;margin-left:0cm;font-size:24pt;font-family:'Times New Roman', serif;\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;color:rgb(51,51,51);font-weight:normal;\">Published by Her Majesty\u2019s Stationery Office 1965.</span><span style=\"font-size:16pt;font-family:Arial, sans-serif;color:rgb(51,51,51);font-weight:normal;\"></span></h1><p></p><h1 style=\"margin:0cm 0cm 15.75pt;font-size:24pt;font-family:'Times New Roman', serif;background:#FFFFFF;\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;color:rgb(51,51,51);font-weight:normal;\">Digitised by Google Books from the collection at the University of Illinois\u00a0</span><a href=\"https://books.google.com.au/books?id=kOpPAQAAMAAJ\" style=\"font-family:Arial, sans-serif;font-size:12pt;font-weight:normal;color:#0000FF;\" rel=\"nofollow\">https://books.google.com.au/books?id=kOpPAQAAMAAJ</a></h1>",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+    "subject": [
+      "Great Britain Commonwealth Relations Office",
+      "British colonies",
+      "The Commonwealth Relations Office List",
+      "The Dominions Office and Colonial Office List",
+      "The Colonial Office List"
+    ],
+    "title": "The Commonwealth Relations Office List 1965 [Volume 14]",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2022-07-28 02:36:43",
+    "addeddate": "2022-07-28 02:36:43",
+    "identifier-access": "http://archive.org/details/comm-rel-off-list-1965",
+    "identifier-ark": "ark:/13960/s261d2076j0",
+    "ppi": "600",
+    "ocr": "tesseract 5.1.0-1-ge935",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.16",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "0.9867",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "95.98",
+    "noarchivetorrent": "true",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_markdown": "olmocr_results.md",
+  "ocr_consolidated_at": "2025-11-11T20:46:30.733390Z",
+  "original_filename": "CommRelOffList1965.pdf"
+}

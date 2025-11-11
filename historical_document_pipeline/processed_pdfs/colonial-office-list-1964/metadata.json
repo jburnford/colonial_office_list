@@ -1,0 +1,52 @@
+{
+  "identifier": "colonial-office-list-1964",
+  "collection": "colonial_office_list",
+  "title": "The Colonial Office List 1964",
+  "creator": "[Great Britain] Colonial Office",
+  "year": 1964,
+  "downloaded_at": "2025-11-10T19:42:24.451955Z",
+  "filename": "ColonialOfficeList1964.pdf",
+  "file_path": "01_downloaded/ColonialOfficeList1964.pdf",
+  "file_size": 26657366,
+  "source_url": "https://archive.org/details/colonial-office-list-1964",
+  "item_metadata": {
+    "identifier": "colonial-office-list-1964",
+    "mediatype": "texts",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "creator": "[Great Britain] Colonial Office",
+    "date": "1964",
+    "description": "<p class=\"MsoNormal\" style=\"margin:0cm 0cm 0.0001pt;font-size:12pt;font-family:'Times New Roman', serif;\"><span style=\"font-family:Arial, sans-serif;\">Published by Her Majesty\u2019s Stationery Office 1964.</span></p><p></p><p class=\"MsoNormal\" style=\"margin:0cm 0cm 0.0001pt;font-size:12pt;font-family:'Times New Roman', serif;\"><span style=\"font-family:Arial, sans-serif;\"><br /></span></p><p class=\"MsoNormal\" style=\"margin:0cm 0cm 0.0001pt;font-size:12pt;font-family:'Times New Roman', serif;\"><span style=\"font-family:Arial, sans-serif;\">Digitised by Google Books from the collection at the University of California\u00a0</span><a href=\"https://books.google.com/books?id=x7RuBAJVXLgC\" style=\"font-family:Arial, sans-serif;font-size:12pt;color:#0000FF;\" rel=\"nofollow\">https://books.google.com/books?id=x7RuBAJVXLgC</a></p>",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+    "subject": [
+      "The Colonial Office List",
+      "The Dominions Office and Colonial Office List",
+      "Great Britain  Colonial Office",
+      "British Colonies"
+    ],
+    "title": "The Colonial Office List 1964",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2022-08-11 01:01:34",
+    "addeddate": "2022-08-11 01:01:34",
+    "identifier-access": "http://archive.org/details/colonial-office-list-1964",
+    "identifier-ark": "ark:/13960/s2j98j1xnkh",
+    "ppi": "600",
+    "ocr": "tesseract 5.2.0-1-gc42a",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.17",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "1.0000",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "95.12",
+    "noarchivetorrent": "true",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_markdown": "olmocr_results.md",
+  "ocr_consolidated_at": "2025-11-11T20:46:15.798940Z",
+  "original_filename": "ColonialOfficeList1964.pdf"
+}

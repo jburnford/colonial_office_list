@@ -1,0 +1,53 @@
+{
+  "identifier": "dominions-office-list-1935",
+  "collection": "colonial_office_list",
+  "title": "The Dominions Office and Colonial Office List for 1935. 74th Publication",
+  "creator": "A J Harding and G E J Gent",
+  "year": 1935,
+  "downloaded_at": "2025-11-10T19:54:36.964854Z",
+  "filename": "DominionsOfficeList1935.pdf",
+  "file_path": "01_downloaded/DominionsOfficeList1935.pdf",
+  "file_size": 106615282,
+  "source_url": "https://archive.org/details/dominions-office-list-1935",
+  "item_metadata": {
+    "identifier": "dominions-office-list-1935",
+    "mediatype": "texts",
+    "creator": "A J Harding and G E J Gent",
+    "date": "1935",
+    "description": "<h1 style=\"margin:0cm 0cm 0.0001pt;font-size:24pt;font-family:'Times New Roman', serif;\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;color:rgb(44,44,44);font-weight:normal;\">Digitised by Google Books\u00a0<a href=\"https://books.google.com/books?id=NkYKAQAAMAAJ\" style=\"color:#800080;\" rel=\"nofollow\">https://books.google.com/books?id=NkYKAQAAMAAJ</a></span></h1><p></p>",
+    "fixed-ppi": "200",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+    "subject": [
+      "The Dominions Office and Colonial Office List",
+      "The Colonial Office List",
+      "Great Britain Colonial Office",
+      "British colonies"
+    ],
+    "title": "The Dominions Office and Colonial Office List for 1935. 74th Publication",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2021-11-20 05:13:16",
+    "addeddate": "2021-11-20 05:13:16",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]",
+    "identifier-access": "http://archive.org/details/dominions-office-list-1935",
+    "identifier-ark": "ark:/13960/s2qn58xh664",
+    "ppi": "200",
+    "ocr": "tesseract 5.0.0-rc2-1-gf788",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.14",
+    "ocr_detected_script": "Cyrillic",
+    "ocr_detected_script_conf": "0.5575",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "79.49",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "noarchivetorrent": "true"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_markdown": "olmocr_results.md",
+  "ocr_consolidated_at": "2025-11-11T20:46:31.917456Z",
+  "original_filename": "DominionsOfficeList1935.pdf"
+}

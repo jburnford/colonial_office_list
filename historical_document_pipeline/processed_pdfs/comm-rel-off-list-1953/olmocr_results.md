@@ -1,0 +1,9472 @@
+A COMPLETE EXPORT SERVICE FOR THOSE LIVING ABROAD OR GOING OVERSEAS
+
+TROPICAL UNIFORMS & CIVIL CLOTHING
+★ HOUSEHOLD & PERSONAL KIT
+★ SPORTS GOODS
+
+LADIES' TROPICAL OUTFITTING
+★ TRUNKS & TRAVEL GOODS
+★ PACKING SHIPPING & INSURANCE
+
+ESTABLISHED IN 1865
+F. P. BAKER & Co., Ltd.
+2, UPPER JAMES' STREET, GOLDEN SQUARE, LONDON, W.I
+Colombo, Ceylon. "I would like to express my sincere appreciation of your unfailing courtesy and helpfulness in the past weeks. Your service MUST BE UNRIVALLED."
+
+The finish that fights...
+
+The feature of Ericsson telephone equipment upon which we lavish particular care is the finish. The formula evolved for our tropical finish after 50 years' practical study provides for all extremes. Enquiries invited.
+
+Head Office: 22 Lincolns Inn Fields, London, W.C.2. Tel: HOLborn 6936.
+BICC THIS IS THE NAME...
+
+for electric cables for working pressures up to 275,000 volts, and overhead transmission equipment
+
+for every type of cable used in domestic and industrial installations — and wherever electricity is used.
+
+for a wide range of electrical accessories, and equipment . . . fully listed in Publication No. 215.
+
+. . . indeed, BICC are the World's largest manufacturing, marketing and contracting group concerned with electrical transmission and distribution, for power and telecommunications.
+
+BRITISH INSULATED CALLENDER'S CABLES LIMITED
+NORFOLK HOUSE, NORFOLK STREET, LONDON, W.C.2
+AN ECONOMIC SURVEY OF THE COLONIAL TERRITORIES, 1951
+
+The results of the first periodic survey since 1937 presented in seven volumes.
+
+Volumes I to VI describe the economic features of each area, while Volume VII deals with the commodities produced in the Colonial territories as a whole.
+
+Each volume contains information covering the period from 1938 to the latest year for which it is available.
+
+**Volume I.** The Central African and High Commission Territories (Northern Rhodesia, Nyasaland, Basutoland, Bechuanaland and Swaziland). Published March, 1952. Colonial No. 281–1. 25s. (25s. 3d.)
+
+**Volume II.** The East African Territories (Kenya, Uganda, Tanganyika, Zanzibar and the Somaliland Protectorate), with Aden, Mauritius and Seychelles. Colonial No. 281–2. In preparation
+
+**Volume III.** The West African Territories (Nigeria, the Gold Coast, Sierra Leone and the Gambia), with St. Helena. Published February, 1952. Colonial No. 281–3. 25s. (25s. 4d.)
+
+**Volume IV.** The West Indian and American Territories (Jamaica, Trinidad, Barbados, British Guiana, British Honduras, the Leeward Islands and the Windward Islands), with the Bahamas, Bermuda and the Falkland Islands. Published February, 1953. Colonial No. 281–4. 40s. (40s. 6d.)
+
+**Volume V.** The Far Eastern Territories (The Federation of Malaya, Singapore, Hong Kong, North Borneo, Sarawak and Brunei). Colonial No. 281–5. In preparation.
+
+**Volume VI.** The Mediterranean and Pacific Territories (Cyprus, Gibraltar, Fiji, the Gilbert and Ellice Islands, Tonga and the New Hebrides). This volume also includes a chapter on the economic situation of Malta. Published April, 1953. Colonial No. 281–6. 30s. (30s. 4d.)
+
+**Volume VII.** Products of the Colonial Territories. Published December, 1952. Colonial No. 281–7. 42s. (42s. 6d.)
+
+Prices in brackets include postage.
+
+HER MAJESTY'S STATIONERY OFFICE at the addresses on reverse of title page or through any bookseller.
+CONTENTS
+
+THE COMMONWEALTH . . . . . . . . . . 7
+
+PART I
+Organization and Staff of the Commonwealth Relations Office . . . . . . 13
+United Kingdom Representatives in other Commonwealth Countries and in the Irish Republic . . . . . . . 16
+Representation in the United Kingdom of other Commonwealth Countries and of the Irish Republic . . . . . . . 18
+Boards, Committees, Societies, etc., in the United Kingdom concerned with various aspects of Commonwealth relations . . . . . . . 23
+
+PART II
+Development of the Constitutional Relationship between the Members of the Commonwealth . . . . . . . 49
+Development of Imperial and Commonwealth Conferences . . . . . . . 67
+
+PART III
+Notes on the constitutional development and present Constitutions of those countries of the Commonwealth for the conduct of relations with which the Secretary of State for Commonwealth Relations is responsible; with lists of Ministers, Government Departments, and intra-Commonwealth and foreign Representation:
+
+Canada . . . . . . . . . . . . . . . . . . . . . 87
+Commonwealth of Australia . . . . . . . . . . . 105
+New Zealand . . . . . . . . . . . . . . . . . . . . 124
+Union of South Africa . . . . . . . . . . . . . . 131
+India . . . . . . . . . . . . . . . . . . . . . . . . 144
+Pakistan . . . . . . . . . . . . . . . . . . . . . . 158
+Ceylon . . . . . . . . . . . . . . . . . . . . . . . . 163
+Southern Rhodesia . . . . . . . . . . . . . . . . . 167
+High Commission Territories:
+Basutoland . . . . . . . . . . . . . . . . . . . . 172
+The Bechuanaland Protectorate . . . . . . . . . . 177
+Swaziland . . . . . . . . . . . . . . . . . . . . . . . 182
+Maldive Islands . . . . . . . . . . . . . . . . . . . . 191
+CONTENTS—continued
+
+PART IV.
+
+Oversea Service Regulations of the Commonwealth Relations Office
+
+(1) Administrative Officers . . . . . . . . . . . . . 195
+(2) Non-Administrative Officers . . . . . . . . . . . 203
+
+PART V
+
+Statement of Services of the Staff of the Commonwealth Relations Office serving at home and abroad . . . . . . . . . . 215
+Statement of Services of senior members of the Staffs of the Administrations of Basutoland, the Bechuanaland Protectorate, and Swaziland . . . . . . . . . . . . . . . . . . 244
+
+INDEX . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 249
+USERS of the Commonwealth Relations Office List are referred to the 1952 Edition of the List for the following sections which are amongst the material which has not been reproduced in the current edition:
+
+(a) A note on Commonwealth Nationality and Citizenship (pages 76-82);
+(b) A note on Oversea Settlement (pages 83-88);
+(c) A list of Parliamentary and Non-Parliamentary Papers and Acts of Parliament relating to the affairs of the Commonwealth countries for the conduct of relations with which the Secretary of State for Commonwealth Relations is responsible (pages 227-234).
+
+Every effort has been made to ensure that the information in this List is as up to date as possible at the time of going to press, but the Secretary of State is unable to accept responsibility for its complete accuracy.
+
+COMMONWEALTH RELATIONS OFFICE,
+DOWNING STREET,
+LONDON, S.W.1.
+
+June, 1953.
+THE COMMONWEALTH
+
+The phrase "the Commonwealth" is, in origin, an abbreviated form of the expression "the British Commonwealth of Nations". The expression was originated by Lord Rosebery, who in a speech at Adelaide in 1884 said "The Empire is a Commonwealth of Nations". It first obtained statutory recognition, though somewhat indirectly, in Article 4 of the Articles of Agreement for a Treaty between Great Britain and Ireland, reproduced in the Schedule to the Irish Free State (Agreement) Act, 1922. Neither term has been legally defined, though both have been used occasionally in United Kingdom Statutes, e.g., the Statute of Westminster, 1931; the Visiting Forces (British Commonwealth) Act, 1933; the Medical Practitioners and Pharmacists Act, 1947 (as part of the phrase "Commonwealth practitioner"); the Finance Act, 1950, (in the expression "Commonwealth territories"); and the Diplomatic Immunities (Commonwealth Countries and Republic of Ireland) Act, 1952. While different views are sometimes expressed as to its precise significance, in what follows the expression is used in the sense in which Lord Rosebery first used it, that is to say as the equivalent of what was formerly known as "the British Empire", i.e. as comprising not only the United Kingdom and the countries previously known as Dominions, but also the dependencies of those countries, whether Colonies, Protectorates, Protected States or Trust Territories.
+
+(2) Within the Commonwealth as described above there are certain countries possessing a special status, namely that of a sovereign, independent country, recognized as a separate international entity, but associated with other Commonwealth countries of the same status in a relationship differing from that existing between foreign States. These countries are usually called "the Members of the Commonwealth" as distinct from other countries within the Commonwealth such as Colonies which, though they may be described as "Commonwealth countries", cannot properly be regarded as "Members" of the Commonwealth. The present Members are the United Kingdom of Great Britain and Northern Ireland, Canada, the Commonwealth of Australia, New Zealand, the Union of South Africa, India, Pakistan and Ceylon. The status of Southern Rhodesia, a self-governing Colony, though in some respects similar to that of the Members of the Commonwealth, does not amount to full Membership, since the United Kingdom remains responsible for its external affairs. The six Australian States also (New South Wales, Victoria, South Australia, Queensland, Western Australia and Tasmania), while fully self-governing in their own sphere, do not possess the status of Membership since certain aspects of government, including external affairs and defence, are not their responsibility but that of the Commonwealth of Australia.
+
+(3) The Commonwealth, like the United Kingdom (but unlike any of the other individual Members), has no written constitution. The relationship between its Members is to some extent defined in legislation, notably in the Statute of Westminster, but this covers only a small part of the ground, and for the most part the relationship rests upon agreed constitutional conventions.
+
+(4) The first formal attempt to describe the status and mutual relationship of the Members of the Commonwealth, then known as Great Britain and the Dominions, was the celebrated pronouncement of the Imperial Conference of 1926, "They are autonomous communities within the British Empire, equal in status, in no way subordinate one to another in any aspect of their domestic or external affairs, but united by a common allegiance to the Crown and freely associated as Members of the British Commonwealth of Nations." It was, however, recognized at the time that this definition could not be regarded as an exhaustive account of the character of the Commonwealth, and it was accompanied by a commentary which included the following passage, "The British Empire is not founded upon negations. It depends essentially, if not formally,
+on positive ideals. Free institutions are its life blood. Free co-operation is its instrument. Peace, security and progress are among its objects."
+
+(5) A further important pronouncement was made by the Prime Ministers' Meeting of 1949 which considered the constitutional implications of India's intention to adopt a republican form of Constitution. In a Declaration issued on the conclusion of the Meeting it was stated that "The Government of India have . . . declared and approved India's desire to continue her full membership of the Commonwealth of Nations and her acceptance of the King as the symbol of the free association of the independent Member Nations and as such the Head of the Commonwealth. The Government of the other countries of the Commonwealth, the basis of whose membership is not hereby changed, accept and recognize India's continuing membership in accordance with the terms of this declaration."
+
+(6) The Commonwealth thus possesses a unique character, distinguishing it from any other form of association of States. It differs from a federation, since there is no central Executive Government, legislature or judiciary. Even the relationship with the Crown, on which the Imperial Conference of 1926 laid stress as a unifying factor, is not now precisely the same in all cases. There are, with few exceptions, no contractual obligations existing between the Members such as are embodied in treaties between foreign States or in the Charter of the United Nations, even on such vital matters as mutual assistance in time of emergency or concerted action in threatening circumstances. There is no legal or formal obstacle to any Member of the Commonwealth pursuing a policy diametrically opposed to that of any other Member or even, as has been shown in the case of Eire, leaving the Commonwealth altogether. What holds the Commonwealth together is not any formal bond but, as the Imperial Conference of 1926 recognized, a community of ideals and interests shared by all alike and a voluntary determination to co-operate on all issues of fundamental importance. To some extent this has been the result of the historical process of development whereby former dependencies of the United Kingdom, peopled largely by persons of British stock, became equal and independent partners in a world-wide association of nations—a process described in some detail in the article on "The Members of the Commonwealth" which appears elsewhere in this volume. This, however, was never entirely the case, since even the older Dominions included large elements of population not originally of British race and in recent years the emergence as Members of the Commonwealth of three Asian countries, India, Pakistan and Ceylon, has introduced an entirely new factor. The essential characteristics of the Commonwealth, however, still remain the same and this can be attributed largely to two factors, a common pattern of official institutions and a multitude of unofficial links of every kind. It is sufficient here to mention a few of the common elements so far as the system of government is concerned.
+
+(7) The legislative pattern is common to all the Members. Each has adopted the system of responsible government (see paragraph 2 et seq of the article "The Members of the Commonwealth") i.e. the British as opposed to the American system of Parliamentary democracy. Parliamentary procedure is in substance the same in all cases. Except in India, the Queen is an essential element in the Parliament and all legislation requires the Royal Assent, though in the Member countries other than the United Kingdom this is signified not by Her Majesty personally but by Her local representative, the Governor-General.
+
+(8) The Queen is, except again in the case of India, the Head of the Executive, acting on the advice of Ministers who depend upon a majority in Parliament. In the case of Members of the Commonwealth other than the United Kingdom, most of the executive functions of government have been delegated to the Queen's Representative, a Governor-General, appointed on the advice of Ministers of the
+country concerned. There are, however, certain matters, principally in relation to foreign affairs or to marks of the Royal favour such as the grant of Honours, which are submitted to Her Majesty personally. On these Ministers in the overseas countries have direct access to the Sovereign, usually through the Governor-General.
+
+(9) While each Member of the Commonwealth has its separate independent judiciary, the system of law is to a great extent common to all. There are exceptions such as the Union of South Africa and Ceylon where the basis is Roman Dutch law, but elsewhere the foundation is generally the English common law. At one time, the procedure whereby appeals from the Courts of other Commonwealth countries lay to the Judicial Committee of the Privy Council in London helped to preserve uniformity, but such appeals have in recent years been to a great extent abolished, and now they lie only from Australia, New Zealand and Ceylon.
+
+(10) A formal link has also existed in the law of nationality. Originally this rested upon a system of more or less identical Statutes defining the persons who were British subjects, i.e. persons owing allegiance to the Crown. The present position is that each Member of the Commonwealth has enacted legislation defining its own citizens and providing in most cases, though not in all, that such persons possess a common status as British subjects (or Commonwealth citizens). Even where there is no such provision for a common status, the Members of the Commonwealth differentiate, in greater or less degree, as regards the grant of privileges, between citizens of Commonwealth countries and aliens. This alone helps to distinguish the relationship between the Members of the Commonwealth from that existing between foreign countries, however closely connected in other ways. The situation has been dealt with in greater detail in the article in the 1952 Edition of the Commonwealth Relations Office List on "Commonwealth Nationality and Citizenship."
+
+(11) As already mentioned, the Imperial Conference of 1926 considered one of the characteristic marks of the Commonwealth to be "free co-operation." In the absence of any central executive or legislature, such co-operation can be secured only by a system of complete and continuous consultation. There is a general understanding, affirmed at past Imperial Conferences and given formal expression in the External Affairs Agreement with Ceylon of the 11th November, 1947, that Membership of the Commonwealth carries with it an obligation to inform or consult, as may be appropriate, all the other Members on any projected action which might affect their interests, especially in relation to foreign affairs, and thus to give them the opportunity of expressing their own individual views. As is mentioned in another part of this List there are certain organizations representing all the Members of the Commonwealth which advise the Governments on matters of common concern, but these deal only with technical questions, and some of the Members of the Commonwealth have been inflexibly opposed to the establishment of any similar centralized machinery for consideration of political questions, especially foreign policy and defence. The harmonizing of the views of the sovereign, equal and independent nations which constitute the Commonwealth, each possessing its own distinct point of view, and its special relations with foreign countries in widely separated quarters of the globe, can therefore only be secured either by correspondence or by personal discussion. There is consequently an elaborate system of consultation of the fullest and frankest kind. Day-to-day questions which arise are dealt with either by direct correspondence between Governments or through the representatives (High Commissioners) whom each Government maintains in the capitals of the other countries. So far as the United Kingdom is concerned, the channel of communication is the Commonwealth Relations Office, which is thus the link between the United Kingdom Government and the other Commonwealth Governments on all questions arising in the relations between those Governments.
+whether in foreign policy, in defence or in economic and financial matters. It often happens, however, especially when issues of first-rate importance arise, that correspondence alone cannot serve the purpose, and there are frequent ad hoc conferences of Ministers or officials from the various countries of the Commonwealth for discussion of particular problems. An account of the principal conferences of this kind is given on page 67.
+
+(12) All these factors in combination have resulted in a unity of purpose and action which could not in any other manner have been achieved by an association consisting of elements in many ways so diverse. The Imperial Conference of 1926 expressed its confidence that "though every Dominion is now, and must always remain, the sole judge of the nature and extent of its co-operation, no common cause will, in our opinion, be thereby imperilled." Subsequent events have shown the truth of this prophecy, and the sentiments then expressed can be echoed equally today.
+
+(13) As already mentioned, the Commonwealth includes not only the equal and independent Members but a variety of other territories at different stages of constitutional development. The Commonwealth Relations Office is concerned only with relations with the Members of the Commonwealth other than the United Kingdom and with the self-governing Colony of Southern Rhodesia. The other Commonwealth territories are the responsibility of the Colonial Office, except the High Commission Territories in South Africa (Basutoland, the Bechuanaland Protectorate and Swaziland) and the Maldivie Islands, with which for special reasons, the Commonwealth Relations Office deals. The Commonwealth Relations Office also deals with relations with the Irish Republic, formerly the Irish Free State and subsequently Eire. This country, which was previously a Member of the Commonwealth, left the Commonwealth in 1949, but it was decided, as a matter of policy, and the Ireland Act 1949 provides, that it should not be treated as a foreign country, and questions arising in relation to it are therefore the responsibility of the Commonwealth Relations Office and not the Foreign Office.
+PART I
+
+ORGANIZATION AND STAFF OF THE COMMONWEALTH RELATIONS OFFICE .................................................. 13
+
+UNITED KINGDOM REPRESENTATIVES IN OTHER COMMONWEALTH COUNTRIES AND IN THE IRISH REPUBLIC ............................................................................................................. 16
+
+COMMONWEALTH REPRESENTATIVES IN LONDON .............................................................................. 18
+
+BOARDS, COMMITTEES AND SOCIETIES IN THE UNITED KINGDOM CONCERNED WITH VARIOUS ASPECTS OF COMMONWEALTH RELATIONS ................................................................................................................................. 23
+ORGANIZATION AND STAFF*
+
+Secretary of State: The Rt. Hon. Viscount Swinton, G.B.E., C.H., M.C.
+
+Private Secretary: D. J. C. Crawley.
+
+Assistant Private Secretary: J. W. Morrison.
+
+Ceremonial and Reception Secretary: Lt.-Col. J. M. Hugo, O.B.E.
+
+Permanent Under-Secretary of State: Sir Percivale Liesching, G.C.M.G., K.C.B., K.C.V.O.
+
+Private Secretary: Miss M. L. Dalgleish, M.B.E.
+
+Parliamentary Under-Secretary of State: J. G. Foster, Q.C., M.P.
+
+Private Secretary: F. Mills.
+
+Parliamentary Private Secretary: J. M. Baldock, M.P.
+
+Deputy Under-Secretary of State: J. J. S. Garner, C.M.G.
+
+Personal Assistant: Miss H. S. Myers
+
+Assistant Under-Secretaries of State: G. H. Baxter, C.M.G., C.I.E.; W. A. B. Hamilton, C.M.G. (Director of Establishments and Organization); A. C. B. Symon, C.M.G., O.B.E.; R. R. Sedgwick, C.M.G.; N. Pritchard, C.M.G.
+
+Principal Staff Officer to the Secretary of State: General Sir Geoffrey Scoones, K.C.B., K.B.E., C.S.I., D.S.O., M.C.
+
+Medical Adviser: Lt.-Gen. Sir Bennett Hance, K.C.M.G., K.C.I.E., O.B.E., I.M.S. (Retd.).
+
+Member, Medical Board: Col. Sir George McRobert, C.I.E., I.M.S., (Retd.)
+
+Legal Adviser (also for Colonial Office): Sir Kenneth Roberts-Wray, K.C.M.G.
+
+Assistant Legal Adviser (also for Colonial Office): J. C. McPetrie.
+
+Senior Legal Assistants: H. L. M. Oxley; G. L. Jobling.
+
+ESTABLISHMENTS AND ORGANIZATION DIVISION
+
+Director of Establishments and Organization: W. A. B. Hamilton, C.M.G.
+
+ESTABLISHMENT DEPARTMENT
+
+(King Charles Street)
+
+Head of Department: Hon. F. E. H. T. Cumming-Bruce,
+
+Complementing (Administrative Staff and General Questions); Organization; Estimates; Whitley matters; Special Appointments; Training (General); D. L. Cole, M.C.
+
+Complementing (Non-Administrative Staff):
+
+Medical Expenses (Staff Overseas): D. E. Terry, M.B.E.; Miss F. Walwyn, M.B.E.
+
+Conditions of Service; Oversea Allowances (General Questions); Oversea Service
+
+Regulations; Movements (including Passages, Passports, Outfit Grants, Car Advances, etc.); Diplomatic privileges and related Subjects; Superannuation; Governors and Governors-General (Administration questions including Pensions and Passages); Oversea Accommodation (Acquisition): H. S. H. Stanley; N. A. Sales; Miss T. G. Hunt, M.B.E.
+
+Security Officer: Sir Philip Vickery, C.I.E., O.B.E.
+
+Welfare; Staff Records; Office Notices; Leave; Sick Leave; Hours of Duty; Over-time; Manpower, etc. Returns; Charts of Organization; Staff Lists (including C.R.O. Staff List); Visits of Distinguished Persons (in so far as Establishment Department is concerned): Miss E. A. Marvin, M.B.E.; Miss M. W. J. Chamberlain, M.B.E.
+
+Controller of Office Services: W. Clarkson, M.B.E.
+
+Maintenance, Furnishing, etc. of Overseas Accommodation; Transport, Film and other Equipment and Stationery for Overseas Posts: Miss I. M. Chitty, M.B.E.
+
+Accommodation: Telephones; Van Service; Car and Conference Room Bookings; Stationery and Office Equipment: Miss I. M. Chitty, M.B.E.; A. W. H. Rumsey.
+
+Chief Registrar: A. S. Palmer, M.B.E.
+
+Chief Superintendent of Typists: Miss K. Larkin, M.B.E.
+
+Civil Defence Officer: A. S. Palmer, M.B.E.
+
+Head Office Keeper: W. C. Atkinson, B.E.M.
+
+Chief Communications Officer: H. W. Hart, M.B.E.
+
+ACCOUNTANT-GENERAL'S DEPARTMENT
+
+Accountant-General: E. J. Allies, O.B.E., I.S.O.
+
+(4 Central Buildings, S.W.1)
+
+Branch I
+
+Assistant Accountant-General: G. G. Hewlett, O.B.E.
+
+Section A
+
+Senior Executive Officer: R. G. Blake.
+
+Salaries, wages, income tax, etc.: F. A. Callow, M.B.E.
+
+Home Salaries: P. Gill.
+
+Oversea salaries and Outfit Allowances: A. W. Baney, M.B.E.
+
+Weekly-paid staff: W. A. Mitchell.
+
+Estimates, Accounts and Oversea Settlement; Treasury Control (S. African H.C. Territories); Cemeteries expenditure in India and Pakistan:
+
+* As at June, 1953.
+Office expenses, Special missions, Conferences, Colombo Plan, and Miscellaneous payments: Miss I. F. Tacon.
+Cashiers: L. Cartwright; W. S. Stepney.
+
+SECTION B
+Senior Executive Officer: J. B. Porteous.
+Representation in India and Pakistan:
+India: R. H. Osborne.
+Pakistan: L. E. Le Burn, M.B.E., M.M.
+Representation in other Commonwealth Countries: R. Skinner.
+Development and Welfare (Basutoland, the Bechuanaland Protectorate and Swaziland): R. Skinner.
+Commonwealth Agricultural Bureaux; Commonwealth Economic Committee: M. T. Carville, M.B.E.
+
+FINANCE AND GENERAL DIVISION
+Superintending Under-Secretary: G. H. Baxter, C.M.G., C.I.E.
+Accountant-General's Department
+Accountant-General: E. J. Allies, O.B.E., I.S.O.
+Branch II
+(4, Central Buildings, S.W.1)
+Assistant Accountant-General: O. Kordik, M.B.E.
+Pensions Section (Pensions of British Officers of Indian and Burma Forces and their families, etc.): F. C. Forty; D. O. Coxall; T. W. Higgins; J. H. Ebbs.
+Compensation for Indian Tax:
+Accounts and Estimates Section: Mrs. K. C. Kordik.
+Cashier: L. Cartwright.
+General Section (Indian Government Claims, Leave pay, Indian Army, Burma Civilians, etc.): Miss W. L. Cox, M.B.E.
+
+SERVICES DEPARTMENT
+(4, Central Buildings, S.W.1)
+Head of Department: C. Iddon, O.B.E.
+Indian Civil Services
+Winding up of the Secretary of State's Services in India; Compensation due to European members of the Civil Services; Pensions and Compensation for High Court Judges; Refunds of Compensation by members of Indian Civil and Indian Defence Services obtaining Crown Employment: A. McCracken; T. Jones.
+
+Indian Defence Services
+Conditions of Service generally of Personnel of the late Indian Defence Services (Pay, Pension and Passage Rights, Compensation and Transfer); R.I.N., I.M.S. and Civilians employed under the former Defence and War Departments of the Government of India: T. Rowland, O.B.E.; T. Jones.
+
+Miscellaneous
+Re-employment Questions (Civil and Military) (India/Burma Services Re-employment Branch); Civil and Military Pensions and Provident Funds; Repatriation of U.K. Citizens; Reception in U.K. of Repatriates: T. Jones; C. H. Wright, M.B.E.
+Indian Family Pension Funds: H. W. Malcolm.
+Pensions (Military): M. K. Jepson, O.B.E.; C. E. Hoare, O.B.E.; A. Smart, M.B.E.; F. J. Clements.
+Miscellaneous (Passages; Pay; Release; Medals; Records of Service, etc.): T. Jones.
+
+Burma Civil Services
+Winding-up of the Secretary of State's Services in Burma; Pensions questions arising out of the Superannuation (Misc. Provisions) Act: A. McCracken.
+
+INFORMATION DEPARTMENT
+(Downing Street, S.W.1)
+Head of Department: A. H. Joyce, C.I.E., C.B.E.
+Publicity Policy
+Administrative Policy: H. A. Twist, O.B.E.
+Publicity relating to Foreign Affairs: G. S. Bozman, C.S.I., C.I.E.
+Publicity on Commonwealth Affairs in the U.K.; British Council Policy and Estimates; Cultural Relations with Commonwealth Countries; Liaison with P.R.O.s at Commonwealth Houses, and with Societies and Organizations: Hon. R. F. Hope.
+Specialist Assistant to Head of Department, and Acting Press Officer: Miss E. M. Booker, M.B.E.
+
+British Information Services
+Selection and Supply of Publicity Material to Information Posts in Commonwealth Countries; Liaison with Heads of Divisions at Central Office of Information; London Press Service; "Commonwealth Survey": J. T. Hughes; R. I. Hall.
+Feature Articles, Visual Material (other than Films): Miss A. de F. Garland.
+Reference Material: Official Publications; Books and Pamphlets: Miss A. de F. Garland.
+Films: Miss D. E. Bergskaug.
+
+News and Information
+Liaison with U.K., Commonwealth, and Foreign Press and the B.B.C.: Miss E. M. Booker, M.B.E.; Miss P. A. Honeyball.
+Press Cuttings Section:
+Records and Research
+Supply of Background Material to Departments; Biographical Notes of Commonwealth Personalities and Visitors: R. I. Hall.
+
+CENTRAL AFRICAN AND TERRITORIES DEPARTMENT
+(Downing Street, S.W.1)
+Head of Department: W. A. W. Clark, C.M.G., C.B.E.
+Central African Federation; Southern Rhodesia: R. L. D. Jasper; D. Williams; N. Aspin.
+Basutoland, the Bechuanaland Protectorate and Swaziland: W. R. Bickford, M.B.E.
+
+COMMUNICATIONS DEPARTMENT
+(Downing Street, S.W.1)
+Head of Department: J. P. Gibson, C.B.E.
+Civil Aviation; Postal Communications; Telecommunications; Shipping: C. J. Farr.
+Migration: R. L. Dixon, O.B.E.
+
+COMMONWEALTH RELATIONS OFFICE LIBRARY
+Librarian: A. B. Mitchell, M.A., B.Litt.
+Deputy Librarian: B. Cheeseaman.
+
+INDIA OFFICE LIBRARY
+Librarian: S. C. Sutton, M.Sc.
+Assistant Keepers:
+European Section: Miss A. F. Thompson, B.A.
+Oriental Section: C. J. Napier, B.A.; Miss J. R. Watson, M.A.; A. Master, C.I.E., M.A.
+RECORD DEPARTMENT
+Superintendent: J. R. Lloyd, M.B.E.
+Parliamentary Records: G. T. Caple.
+Current Records; Ecclesiastical Records: L. C. Everard.
+Printing and Revision of Records: A. S. Devine.
+
+INDIAN PENSIONS UNIT
+Assistant Secretary: R. S. Brown, C.B.E.
+
+FOREIGN AFFAIRS DIVISION
+(Downing Street, S.W.1)
+Superintending Under-Secretary: N. Prichard, C.M.G.
+
+FAR EASTERN DEPARTMENT
+Head of Department: Maj.-Gen. W. H. A. Bishop, C.B., O.B.E.
+Foreign Political Affairs, as they affect Commonwealth relations in the Far East, South East Asia and Pacific Islands:
+Burma; Malaya; Thailand; Indo-China; Indonesia; Hong Kong; Pacific Pact; New Guinea; New Hebrides; Borneo; South Pacific Commission: J. J. B. Hunt.
+Japan; China; Korea; Formosa; Philippines: G. D. Anderson.
+
+WESTERN AND UNITED NATIONS DEPARTMENT
+Head of Department: D. M. Cleary.
+Commonwealth Liaison Procedure on Foreign Affairs; Distribution of F.O. Print, Intels and Telegrams; Foreign Affairs (U.S.A.; Middle East and North Africa; Registration of Treaties; Disarmament Commission): R. Ross, M.B.E.; Miss J. M. D. Ward.
+Foreign Affairs (Europe and Soviet Union; North Atlantic Treaty Organization (Political); European Defence Community; Council of Europe; European Political Community): J. A. Molyneux.
+United Nations (General Assembly and Security Council; Economic and Social Council; Trusteeship Council; Non-Self-Governing Territories; South African Racial Relations, South West Africa, Indians in South Africa, in U.N. context; International Court of Justice; World Health Organization; U.N.E.S.C.O.; International Labour Organization; Refugee Questions): A. H. Reed.
+Foreign Affairs (Central and South America; Arctic and Antarctic): A. H. Reed.
+
+SOUTH ASIAN DEPARTMENT
+Head of Department: R. W. D. Fowler.
+Kashmir; Political Relations between India and Pakistan; Foreign Policy of India, Pakistan and Ceylon; French and Portuguese Possessions in India: W. J. Smith.
+Afghanistan and North West Frontier: Diplomatic and Consular Property; Persian Gulf, Kamaran and the Pilgrimage; Aden, Sinkiang, Nepal, Tibet and Bhutan; Indians, Pakistanis and Ceylonese Overseas (except South Africa); Himalayan Expeditions: F. S. Miles.
+
+DEFENCE DEPARTMENT
+Principal Staff Officer and Service Head of Department: General Sir Geoffrey Scoones, K.C.B., K.B.E., C.S.I., D.S.O., M.C.
+Civilian Head of Department: B. R. Curson.
+India and Pakistan (Defence Co-operation, Supply and Munitions, Employment of U.K. Personnel); Exchange of Classified Military Information; Visiting Forces Legislation, etc.; Coronation—Military Details: J. R. A. Bottomley; E. V. Vines.
+War Book Questions; Attendance of representatives from other Commonwealth Countries at U.K. Courses; Civil Defence; Recruitment Questions: S. G. Pennells, O.B.E.
+Defence co-operation with Australia, New Zealand, South Africa, Ceylon and S. Rhodesia; Middle East Defence Questions; Supply and Munitions (excluding India and Pakistan); Oversea Defence Committee Subjects (except War Books): J. D. Fraser, M.B.E.
+Defence Co-operation with Canada; Defence Aspects of Brussels and North Atlantic Treaties; Atomic Energy; Defence Science: P. Gautrey.
+Liaison with Ministry of Defence and C.O.S. Secretariat: Brig. G. H. P. Whitfield, O.B.E., M.C.
+
+ECONOMIC DIVISION
+(Downing Street, S.W.1)
+Superintending Under-Secretary: A. C. B. Symon, C.M.G., O.B.E.
+
+TRADE DEPARTMENT
+Head of Department: L. B. Walsh-Atkins.
+Tariffs and Preferences; G.A.T.T.; Customs Unions; Commercial Treaties and Agreements; Trade affecting Canada; Commonwealth Economic Committee: T. J. O'Brien, M.C.; Mrs. C. M. Johnson.
+Overseas Negotiations Committee; Trade affecting the Irish Republic; Coal: Trade affecting Commonwealth Countries except Canada; Protection of U.K. Commercial Interests; O.E.E.C., E.C.E., and E.C.A.F.E.; Commonwealth Liaison Committee (Secretary): R. G. Britten.
+
+DEVELOPMENT DEPARTMENT
+Head of Department: H. E. Davies.
+Sterling Area Development (Australia, New Zealand, South Africa and the Irish Republic); Capital Goods; Iron, Steel, Tinplate, Cement and Oil; Technical Co-operation Scheme; Provision of Equipment: Miss L. E. T. Storar.
+Sterling Area Development (India, Pakistan and Ceylon); Colombo Plan; United Nations Papers on Under-Developed Territories; United Nations Technical Assistance—Training Cases; Technical Co-operation Scheme; Policy Questions and Training Facilities: S. J. G. Finngland; Miss M. Archer, M.B.E.
+Technical Co-operation Scheme; Experts and Consultants; United Nations Technical Assistance—Experts; Technical Personnel Committee: A. E. Parsons, O.B.E.; L. Billcliffe, M.B.E.
+
+COMMODITIES DEPARTMENT
+Head of Department: M. R. Metcalf, O.B.E.
+Food; Individual Food Commodities; Food Gifts: F.A.O.: R. G. Chisholm; A. N. G. Bone.
+Strategic Exports; R.I.P. Working Party; N.A.T.O. Commodity Problems; Rubber: R. G. Britten.
+Commodity Policy; International Materials Conference; Non-ferrous Metals and Minerals; Sulphur, Chemicals and Fer-
+illizers; Cotton, Jute, Newsprint, Timber, Wool Tobacco: L. J. D. Wakely, O.B.E.
+
+OVERSEAS FINANCE DEPARTMENT
+Head of Department: D. W. S. Hunt, O.B.E.
+Financial Questions relating to Canada, Australia, New Zealand, South Africa and the Irish Republic; Capital Issues; Defence Finance; General Sterling Area and Balance of Payments Questions: J. M. Dutton; M. K. Evans.
+Financial Questions relating to India, Pakistan and Ceylon; Exchange Control; International Monetary Fund and International Bank; Double Taxation; Currency; Japanese Economic Questions: B. D. Tims, O.B.E.; C. W. Sheppard.
+Statistical Section: A. Blanchard.
+
+CONSTITUTIONAL AND POLITICAL DIVISION
+(Downing Street, S.W.1)
+Superintending Under-Secretary: R. R. Sedgwick, C.M.G.
+
+CONSTITUTIONAL DEPARTMENT
+Head of Department: A. F. Morley, C.B.E.
+Adviser: Sir Charles Dixon, K.C.M.G., O.B.E.
+General Commonwealth Constitutional Questions, including Coronation Questions: F. A. K. Harrison.
+Constitutional Affairs in Commonwealth Countries; Questions relating to the Irish Republic not dealt with by other Departments: R. Walker.
+Honours, Decorations and Medals (Civil and Military), including Korea operational and non-operational awards; Foreign Orders; Investitures; Title "Excellency" and "Honourable"; Ceremonial Matters (Civil and Military); Precedence; Flags, Arms and Badges (Civil and Military); Constitutional Instruments; Matters relating to the Royal Family (e.g., Petitions to the Queen, Loyal Messages, Royal Patronage, State Portrait, Requests for Autographs). Procedure for dealing with communications between Commonwealth Countries and the Queen, Royal Visits to other Commonwealth Countries; Governors and Governors-General (Constitutional and Ceremonial Questions, Uniforms, Royal Instructions, Commissions of Appointment, Dormant Commissions); Channels of Communication between the United Kingdom and other Commonwealth Governments; War Histories: S. Leadbetter, M.B.E.; Miss D. J. Bottom.
+Nationality and Citizenship Legislation; Nationality and Naturalization Questions; Registration of Births, Deaths and Marriages Abroad; Passport and Visa Questions: W. H. Ford, M.B.E.
+
+POLITICAL AFFAIRS DEPARTMENT
+Head of Department: C. G. Costley-White, C.M.G.
+Internal Political Affairs, including Labour and Trade Union Affairs (Canada, Australia, Union of South Africa, New Zealand, Ceylon); International Trade Union Organizations: E. R. Sudbury, C.B.E.; O. G. Forster.
+Internal Political Affairs, including Labour and Trade Union Affairs (India and Pakistan); Residuary Questions relating to former Indian Princely States (except Kashmir and Junagadh): Miss C. E. Hanchet, M.B.E.
+
+GENERAL DEPARTMENT
+Head of Department: M. E. Antrobus, C.M.G., O.B.E.
+Cemeteries; Children (employment); Claims (War Injury, Property and Compensation); Deportations; Ecclesiastical; Estates; Extradition; Imperial War Graves Commission; Judgments; Legalization of Documents; Letters of Request; Locusts; Lunatics; Maintenance Orders; Matrimonial Cases; Miscellaneous Enquiries (including Questions of U.K. Citizens in Commonwealth Countries and British Subjects in Foreign Countries); National Service Acts; Nurses; Pensions; Library; Records, etc.; Social Security; Stowaways; Teachers; War-time Evacuees: J. Gordon, M.B.E.; Miss I. B. Chad.
+Census; Charitable Funds under control of U.K. High Commissioners; Colonial Appointments; Commission for Technical Co-operation in Africa (C.C.T.A.); Commonwealth Agricultural Bureaux; C.R.O. Reference List; Commonwealth Publications, etc.; Commonwealth Students; Companies Registration; Conferences, Congresses, and Conventions (not otherwise allocated); Consular Appointments; Consular Conventions and Instructions; Copyright; Diplomatic and Consular Appointments of other Commonwealth Countries; Diplomatic and Social List; Exhibitions; Fisheries and Whaling; Flora and Fauna; Further Education Grants; Gifts; Matters arising on appointment of Secretary of State; Medical Reciprocity; Messages; Non-official Bodies interested in the Commonwealth; Patents and Designs; Position of U.K. Professions in Commonwealth Countries; Prisoners of War in Korea; Surveys; Trade Marks; Visits: A. J. H. Ross, M.C.; Miss I. B. Chad; R. H. Johnson; G. Joyce.
+
+UNITED KINGDOM REPRESENTATIVES IN OTHER COMMONWEALTH COUNTRIES AND IN THE IRISH REPUBLIC*
+
+CANADA
+(Earnscleugh, Ottawa)
+High Commissioner: His Excellency Lieut.-General Sir Archibald Nye, G.C.S.I., G.C.M.G., G.C.I.E., K.C.B., K.B.E., M.C.
+Deputy High Commissioner: J. Thomson, C.M.G., O.B.E.
+Senior Secretary: J. S. Gandee, M.B.E.
+
+Secretary (Finance): K. S. Weston.
+Secretaries: K. A. East; G. F. N. Reddaway, M.B.E.
+Economic Adviser: G. Bowen.
+Naval Adviser: Capt. V. A. Wight-Boycott, O.B.E., D.S.C., R.N.
+Military Adviser: Brigadier C. P. C. S. Bright, C.B.E.
+
+* As at June, 1953.
+CANADA—(Continued)
+
+Air Adviser: Air Commodore A. P. Revington, C.B., C.B.E.
+
+Secretary, United Kingdom Service Liaison Staff: Lieut.-Col. R. M. Kennard, M.B.E.
+
+Adviser (Food): Sir A. Jones, C.M.G.
+
+Agricultural Adviser: W. F. Darke.
+
+Adviser (War Pensions): G. H. Bowler, C.B.E.
+
+Adviser (Defence Supplies): H. Bailey.
+
+United Kingdom Information Office (275 Albert St., Ottawa):
+
+Director: N. J. T. Monsarrat.
+
+Deputy Director: A. C. Hall.
+
+Chief Clerk: D. J. E. Harris, M.B.E.
+
+Passport Officer (275 Albert St., Ottawa): W. J. Bryant.
+
+COMMONWEALTH OF AUSTRALIA
+
+(Patent Office Building, Canberra)
+
+High Commissioner: His Excellency Sir Stephen Holmes, K.C.M.G., M.C.
+
+Deputy High Commissioner: B. Cockram, C.M.G., O.B.E.
+
+Official Secretary: C. S. Pickard.
+
+Assistant Secretaries: G. Davey; G. S. Whitehead; K. R. Crook; D. I. A. Hamblen.
+
+Chief Clerk: J. McQuiggan.
+
+Passport Officer: G. H. Hawkins.
+
+Information Officer, Canberra: H. J. Bewg.
+
+Information Officer, Sydney: E. J. Ellis.
+
+Information Officer, Melbourne: J. L. Hayden, O.B.E.
+
+Economic Adviser: J. B. Greaves, Kt., C.M.G., O.B.E.
+
+Financial Adviser: R. C. Griffiths.
+
+Agricultural Adviser: C. W. Strutt.
+
+Scientific Adviser to High Commissioner and Head of Ministry of Supply Staff: Dr. D. H. Black.
+
+Civil Aviation Adviser: Air Vice-Marshal R. P. Willock, C.B.
+
+Military Adviser and Head of the U.K. Service Liaison Staff: Maj.-Gen. A. C. Shortt, C.B., O.B.E.
+
+Naval Adviser: Capt. C. H. Hutchinson, D.S.O., O.B.E., R.N.
+
+Assistant Naval Adviser: Commander D. J. Beckley, D.S.O., D.S.C., R.N.
+
+Assistant Military Advisers: Maj. R. H. W. Fowler; Col. J. W. Kelway.
+
+Air Adviser: Group Captain W. E. Coles, C.B.E., D.S.O., D.F.C., A.F.C.
+
+Secretary, U.K. Service Liaison Staff: Major G. W. Shephard, M.B.E., R.E.
+
+NEW ZEALAND
+
+(Government Life Insurance Building, Customhouse Quay, Wellington, C.I.)
+
+High Commissioner: His Excellency Sir Roy Price, K.C.M.G.
+
+Deputy High Commissioner: W. G. Head, O.B.E.
+
+Secretary: E. N. Larmour.
+
+Assistant Secretary: Miss J. B. Haydon.
+
+Information Officer: K. C. F. Davies.
+
+Chief Clerk: D. W. Goodman.
+
+Passport Officer: D. E. H. Hellings.
+
+Economic Adviser: R. B. Willmot, C.M.G.
+
+Agricultural Adviser: D. S. Hendrie.
+
+Financial Adviser: R. C. Griffiths (resident in Canberra).
+
+Naval Adviser: Capt. G. N. Brewer, D.S.O., R.N.
+
+Army Adviser: Col. E. H. Tinker.
+
+Air Adviser: Group Captain W. G. Abrams.
+
+Secretary, United Kingdom Service Liaison Staff: Lt. Comdr. (S.) A. J. F. Hawkridge, R.N.
+
+UNION OF SOUTH AFRICA
+
+(Hill Street, Pretoria, or (during the South African Parliamentary Session, approximately January to June) 91, Parliament Street, Cape Town.)
+
+High Commissioner: His Excellency Sir John Le Rougetel, K.C.M.G., M.C.
+
+Deputy High Commissioner: A. W. Snelling.
+
+Senior Secretary: R. C. C. Hunt.
+
+Assistant Secretaries: D. A. Scott; R. H. Wimble.
+
+Chief Clerk: S. J. McNally.
+
+Passport Officer, Cape Town: J. H. Last, M.B.E.
+
+Economic Adviser: Sir William Peters, C.M.G.
+
+Military Adviser: Brigadier W. J. Cardale, O.B.E.
+
+Assistant Military Adviser: Major J. B. D. Lindsay.
+
+Air Adviser: Group Captain R. J. Legg.
+
+Assistant Air Adviser: Wing-Commander H. G. Paul, D.F.C.
+
+C. in C. South Atlantic: Vice-Admiral Sir Peveril William-Powlett, K.C.B., C.B.E., D.S.O., R.N.
+
+Secretary, United Kingdom Service Liaison Staff: Lieut.-Col. E. A. S. Brett, D.S.O.
+
+United Kingdom Information Office (126 London House, Loveday St., Johannesburg):
+
+Director: G. F. Crawley.
+
+Deputy Director: R. Hickling.
+
+Press and Films Officer: Miss M. Malherbe.
+
+INDIA
+
+(6, Albuquerque Road, New Delhi.)
+
+High Commissioner: His Excellency Sir Alexander Clutterbuck, G.C.M.G., M.C.
+
+Deputy High Commissioner: G. H. Middleton, C.M.G.
+
+Assistant Secretaries: E. L. Sykes; W. Hilary Young.
+
+Principals: J. R. Downie; Miss E. J. Emery; V. C. Martin.
+
+Assistant Principals: T. W. Aston; P. W. J. Buxton.
+
+Higher Executive Officers: L. Collett; R. J. Jenkins; J. A. Stockwell; H. J. Turner.
+
+British Information Services (Eastern House, Man Singh Road, New Delhi):
+
+Director: J. T. Hughes.
+
+Deputy Director: D. F. Kerr.
+
+Editor-in-Chief: R. Mc. C. Samples, D.S.O.
+
+Films Officer: L. W. C. Pearce-Gervis.
+
+Administration Officer: W. R. Lythgo.
+
+Economic Adviser: G. J. MacMahon.
+
+Military Adviser: Brigadier Sir Andrew Horsbrough-Porter, D.S.O.
+
+Assistant Military Adviser: Major M. T. J. Bate-Williams.
+
+Naval and Air Adviser: Wing-Cdr. P. J. S. Finlayson, A.F.C.
+
+Financial Adviser: H. G. Curran, C.M.G.
+
+Labour Adviser: J. J. Keane.
+
+Assistant Labour Adviser: S. A. Priddle.
+
+Civil Aviation Adviser: G. S. Hill.
+
+Accommodation and Works Adviser: A. Tough.
+INDIA—(Continued)
+
+CALCUTTA
+(1, Harrington Street, Calcutta.)
+Deputy High Commissioner: G. E. B. Shannon, C.M.G.
+Assistant Secretary: C. M. Walker.
+Principal: J. E. A. Miles, M.B.E.
+Higher Executive Officer: R. C. Cox.
+Passport Officer: H. J. Grove.
+British Information Services:
+Regional Officer: B. D. Brown.
+
+BOMBAY
+(Mercantile Bank Buildings, Mahatma Gandhi Road, Bombay.)
+Deputy High Commissioner: G. Kimber, C.M.G.
+Principals: W. J. Coe; D. J. King.
+Higher Executive Officer: P. F. Walker.
+Passport Officer: F. L. Bowditch.
+British Information Services:
+Regional Officer: R. P. Ross-Williamson.
+
+MADRAS
+(6, Armenian Street, Madras, 1.)
+Deputy High Commissioner: G. E. Crombie, C.M.G.
+Principal: C. E. Diggines.
+Higher Executive Officer: C. A. Lovitt.
+British Information Services:
+Regional Officer: J. A. Borron.
+
+PAKISTAN
+(Chamber of Commerce Building, Wood Street, Karachi.)
+High Commissioner: His Excellency Sir Gilbert Laithwaite, G.C.M.G., K.C.I.E., C.S.I.
+Deputy High Commissioner: J. D. Murray.
+Principals: T. W. Keeble; M. J. Moynihan, M.C.; E. G. Norris; A. R. Swinnerton, O.B.E.
+Assistant Principal: M. H. G. Rogers.
+Administration Officer: A. H. G. Pope, M.B.E.
+Higher Executive Officer: T. J. Sigsworth.
+Passport Officer: A. T. Smith.
+British Information Services ("El Markaz" Building, Bunder Road, Karachi 3):
+Director: J. S. Ellis.
+Regional Information Officer: D. R. F. Brower.
+Information Officer: J. R. E. Carr-Gregg.
+Administration Officer: A. E. Hutty.
+Economic Adviser: F. B. Arnold, O.B.E.
+Military Adviser: Brigadier J. P. Archer Shee, M.C.
+Assistant Military Adviser: Major W. L. Consett, M.C.
+Naval and Air Adviser: Wing-Cdr. A. M. K. Phillips.
+Financial Adviser: H. G. Curran, C.M.G.
+Labour Adviser: J. J. Keane.
+Civil Aviation Adviser: G. S. Hill.
+
+DACCA
+(Chamaria House.)
+Deputy High Commissioner: G. P. Hampshire.
+Principal: A. J. Brown.
+Assistant Principal: G. L. Simmons.
+British Information Services:
+Regional Officer: W. R. George.
+
+LAHORE
+(4, Racecourse Road, Lahore.)
+Deputy High Commissioner: J. M. C. James, M.B.E.
+Principal: P. R. Clipsham, M.B.E.
+Higher Executive Officer: S. E. Croft.
+British Information Services:
+Regional Officer: Lt.-Cmr. R. D. Wall, R.N. (Retd.)
+
+PESHAWAR
+(Bungalow No. 2, Mackeson Road, Peshawar Cantonment, North-West Frontier Province.)
+Deputy High Commissioner: G. W. Tory.
+Principal: B. J. Greenhill.
+Regional Information Officer: Lt.-Cdr. R. D. Wall, R.N. (Retd.)
+
+CEYLON
+(7, Prince Street, Colombo, 1.)
+High Commissioner: His Excellency Sir Cecil Syers, K.C.M.G., C.V.O.
+Deputy High Commissioner: N. E. Costar, C.M.G.
+Secretary: A. R. Adair, M.B.E.
+Assistant Secretary: D. G. R. Bentliff.
+Colombo Plan Officer: R. G. Tracey, M.B.E.
+Chief Clerk: D. H. Fowler.
+Passport Officer: D. M. R. Skinner.
+Economic Adviser: C. E. Thorogood.
+United Kingdom Information Officer: D. D. Condon.
+Financial Adviser: H. G. Curran, C.M.G.
+
+SOUTHERN RHODESIA
+(Robin House, Gordon Avenue (or P.O. Box No. 1482), Salisbury.)
+High Commissioner: I. M. R. Macleanan, C.M.G.
+Principal Secretary: H. Smedley, M.B.E.
+Chief Clerk: Miss E. E. N. Clerk.
+Economic Adviser: H. W. Woodruff.
+
+UNITED KINGDOM AMBASSADOR TO THE REPUBLIC OF IRELAND
+(39, Merrion Square, Dublin.)
+Ambassador: His Excellency Sir Walter Hankinson, K.C.M.G., O.B.E., M.C.
+Counsellor: G. W. St. J. Chadwick.
+First Secretary: E. G. Le Tocq.
+Chief Clerk: G. H. B. Cuthbertson.
+Head of Visa Section: F. C. Savage.
+Economic Adviser: E. S. A. Baynes, O.B.E.
+Military Attaché: Lt.-Col. A. D. J. Stewart.
+
+COMMONWEALTH REPRESENTATIVES IN LONDON*
+
+CANADA
+(Canada House, Trafalgar Square, S.W.1.
+Telephone: Whitehall 9741.)
+High Commissioner: His Excellency Mr. Norman A. Robertson.
+Official Secretary: Frederic Hudd, C.B.E.
+
+* As at June, 1953.
+
+Counsellors: Gordon G. Crean; Campbell Moodie.
+First Secretaries: Louis E. Couillard; Miss B. M. Meagher.
+Second Secretaries: H. B. O. Robinson; J. G. Grandy.
+CANADA—(Continued)
+
+Administrative Attaché: J. A. Donald.
+Civil Aviation and Communications Adviser:
+J. H. Tudhope, M.C.
+Defence Financial Adviser: A. Ross.
+2, Cockspur Street, S.W.1.
+Telephone: WHItchall 8701.
+Commercial Counsellor: R. P. Bower.
+Commercial Secretaries: R. Douglas Roe,
+O.B.E.; D. A. Bruce Marshall; R. Campbell Smith.
+Agricultural Counsellor: J. G. Robertson,
+Africa House, Kingsway, W.C.2.
+Telephone: HOLborn 3422 (Ext. 125).
+Scientific Adviser: Dr. J. G. Malloch, M.B.E.,
+M.Sc.
+Assistant to Scientific Adviser: R. J. Brearley,
+M.B.E.
+66 Ennismore Gardens, S.W.7.
+Telephone: KENsington 3466.
+Chairman, Canadian Joint Staff, London:
+Major-General J. D. B. Smith, C.B.E.,
+D.S.O., C.D.
+Naval Member, Canadian Joint Staff:
+Captain H. V. W. Groos, R.C.N.
+Army Member, Canadian Joint Staff: Brig.
+R. W. Moncel, D.S.O., O.B.E.
+Air Member, Canadian Joint Staff: Air
+Commodore M. Costello, C.B.E., C.D.
+Defence Research Member, Canadian Joint
+Staff: Brigadier G. P. Morrison, C.B.E.
+Senior Air Staff Officer to Air Member:
+Group-Capt. J. B. Harvey, A.F.C., C.D.
+Executive Staff Officer to Chairman, Joint
+Staff: Col. C. H. Cook, E.D.
+Chief Staff Officer to Naval Member: Cmdr.
+S. A. Clemens, C.D., R.C.N.
+Deputy Army Member: Col. S. E. E.
+Morres, C.D.
+Secretary, Canadian Joint Staff, London:
+Lieut.-Col. H. E. C. Price, M.B.E., C.D.
+Deputy Defence Research Member: Dr.
+A. J. Skey.
+42-46, Weymouth Street, W.1.
+Telephone: WELbeck 7461.
+Emigration Attaché: L. G. Cumming.
+Chief Medical Officer: Dr. H. B. Jeffs.
+13-17, Pall Mall, East, S.W.1.
+Telephone: ABBey 1384.
+Veterans' Affairs Attaché: Allan Chambers,
+D.S.O., O.B.E.
+Oceanic House, Cockspur Street, S.W.1.
+Telephone: WHItchall 8701.
+Treasury Attaché: J. O. Hussey.
+40, Piccadilly, W.1.
+Telephone: REGent 5203.
+Labour Attaché: J. F. MacKinnon.
+
+AGENTS-GENERAL FOR THE
+CANADIAN PROVINCIAL
+GOVERNMENTS
+
+ALBERTA
+37, Hill Street, W.1.
+Telephone: GROvenor 3061.
+Agent-General: Rene Albert McMullen.
+
+BRITISH COLUMBIA
+1, Regent Street, S.W.1.
+Telephone: WHItchall 6857.
+Agent-General: W. A. McAdam, C.M.G.
+
+ONTARIO
+13, Charles II Street, S.W.1.
+Telephone: WHItchall 6404.
+Agent-General: J. S. P. Armstrong.
+
+SASKATCHEWAN
+28, Chester Street, Belgrave Square, S.W.1.
+Telephone: SLOane 0641-0642.
+Agent-General: Graham Spry.
+
+COMMONWEALTH OF AUSTRALIA
+Australia House, Strand, W.C.2.
+Telephone: TEMple Bar 2435.
+High Commissioner: His Excellency the
+Hon. Sir Thomas White, K.B.E., D.F.C.,
+V.D.
+Deputy High Commissioner: E. McCarthy,
+C.B.E.
+Official Secretary: C. L. Hewitt.
+Assistant Secretary: J. S. Murray.
+Assistant Secretary (Finance): F. T. Sprange,
+O.B.E.
+Senior Finance Officer: J. M. Henderson.
+External Affairs Officer (Counsellor): C. T.
+Moodie.
+First Secretary: A. J. Eastman.
+Third Secretary: F. B. Cooper.
+Senior Trade Commissioner and Economic
+Adviser: G. R. B. Patterson.
+Trade Commissioner: H. K. H. Cook.
+Assistant Trade Commissioner: J. S.
+Nicholls.
+Technical and Industrial Adviser: A. J.
+Simpson.
+Public Service Representative: W. T. Gleeson.
+Accountant: E. A. Crook.
+Migration Adviser: N. W. Lamidey.
+Taxation Adviser: W. C. E. Clare.
+Medical Adviser: Dr. G. H. Moore.
+Reception Officer: W. H. Bunning.
+Public Relations Officer: K. P. Murphy.
+Press Secretary: K. V. Mattingley.
+Customs Adviser: J. A. Whelan.
+Treasury Representative: H. R. Woodrow.
+Civil Aviation Representative: E. V. Read.
+Agricultural Counsellor: The Hon. F. W.
+Bulcock.
+Cables Officer: Miss M. L. Lavan.
+Central Registry Officer: T. Houlden.
+Education Officer: A. L. Moore.
+Postmaster-General's Department: R. V.
+McKay.
+Supply Officer: E. Murphy.
+Technical Representative (Works): (Vacant).
+Engineering Adviser: (Vacant).
+Australian Defence Representative: Major-
+General E. L. Sheehan, C.B.E.
+Assistant Defence Representative: Group-
+Captain A. G. Carr, D.F.C., R.A.A.F.
+Inter-Services Technical Officer: Brigadier
+K. D. Chalmers.
+Australian Army Representative: Brig. A. G.
+Wilson, D.S.O.
+Deputy Australian Army Representative:
+Lt.-Col. E. Logan.
+Officer Commanding Overseas H.Q.,
+R.A.A.F., London: Air Commodore W.
+H. Garing, C.B.E., D.F.C.
+Senior Air Staff Officer: Group-Captain
+J. F. Lush.
+85-87, Jermyn Street, S.W.1.
+Telephone: WHItchall 2101.
+Naval Liaison Officer: Capt. (S) J. B.
+Foley, C.B.E., A.D.C., R.A.N.
+Assistant Naval Liaison Officer: Lt. (S)
+F. B. Nolan, R.A.N.
+B.C.S.O. Africa House, Kingsway, W.C.2.
+Telephone: HOLborn 3422.
+Chief Scientific Liaison Officer: J. E.
+Cummins.
+COMMONWEALTH OF AUSTRALIA—(Continued)
+AGENTS-GENERAL FOR THE
+AUSTRALIAN STATE GOVERNMENTS
+
+NEW SOUTH WALES
+56-57, Strand, W.C.2.
+Telephone: TRA 7477-9.
+Agent-General: The Hon. J. M. Tully,
+Official Secretary: A. J. Thomson.
+
+VICTORIA
+Victoria House, Melbourne Place, Stran 1,
+W.C.2.
+Telephone: TEMple Bar 2656.
+Agent-General: The Hon. Sir John
+Lienhop.
+Official Secretary: S. G. Carter.
+
+QUEENSLAND
+409-410, Strand, W.C.2.
+Telephone: TEMple Bar 3224.
+Agent-General: D. J. Muir.
+Official Secretary: M. McAully.
+
+SOUTH AUSTRALIA
+South Australia House, Marble Arch, W.1.
+Telephone: MAYfair 5061-5062.
+Acting Agent-General and Trade Commis-
+sioner: A. H. Greenham.
+Secretary: A. N. Deane.
+
+WESTERN AUSTRALIA
+Savoy House, 115, Strand, W.C.2.
+Telephone: TEMple Bar 8601.
+Agent-General: The Hon. James A.
+Dimmitt.
+Official Secretary: C. R. Gibson.
+
+TASMANIA
+Golden Cross House, 457, Strand, W.C.2.
+Telephone: WHItehall 0052-0053.
+Agent-General: Sir Eric von Bibra, O.B.E.
+Official Secretary: R. J. Garrad, O.B.E.
+
+NEW ZEALAND
+New Zealand Government Office, 415,
+Strand, W.C.2.
+Telephone: TEMple Bar 3241.
+High Commissioner: His Excellency Sir
+Frederick Doidge, K.C.M.G.
+Private Secretary to High Commissioner:
+R. B. Taylor.
+Official Secretary: R. M. Campbell, C.M.G.
+Counsellor: F. H. Corner.
+First Secretary (Economic): N. S. McIvor.
+Second Secretary: W. Wynne Mason.
+Financial Secretary: D. F. Anderson.
+Chief Clerk: E. A. Broadbridge.
+Public Relations Officer: A. T. Campbell.
+Public Trust Officer: A. Kennard.
+Travel Manager: A. N. Reid.
+Information Officer: Miss E. G. Simpson.
+The Adelphi, John Adam Street, W.C.2.
+Telephone: TRAfalgar 8030.
+Commercial Secretary: J. B. Prendergast.
+Customs Adviser: J. R. Osbaldiston.
+Marketing Department London Representa-
+tive: J. W. Watson.
+Agricultural Adviser: C. V. Dayus,
+M.R.C.V.S.
+Chief Purchasing Officer: A. F. Lucas.
+Senior R.N.Z.N. Liaison Officer: Cdr. A. B.
+Gilfillan, V.R.D., R.N.Z.N.
+Senior N.Z. Army Liaison Officer: Brig.
+L. W. Thornton, O.B.E.
+
+Senior N.Z. Air Force Liaison Officer (and
+Chairman of the Liaison Staff): Air Com-
+modore C. E. Kay, C.B.E., D.F.C.
+Carlton Hotel Building, Pall Mall, S.W.1.
+Telephone: TRA 7040.
+Chief Migration Officer: M. C. Smith.
+B.C.S.O., Africa House, Kingsway, W.C.2.
+Telephone: HOLborn 3422.
+Scientific Adviser: Dr. E. Marsden, C.M.G.,
+C.B.E., M.C., F.R.S.
+St. Olaf House, Tooley Street, S.E.1.
+Telephone: HOP 2507.
+Dairy Inspector: M. H. Wallace.
+
+UNION OF SOUTH AFRICA
+South Africa House, Trafalgar Square, W.C.2.
+Telephone: WHItehall 4488.
+High Commissioner: His Excellency Dr.
+A. L. Geyer.
+Secretary and Deputy High Commissioner:
+C. H. Torrance.
+Political Secretary: A. M. Hamilton.
+Assistant Political Secretary: A. L. W. de
+Villiers.
+Second Secretary: K. E. G. J. Pakendorf.
+Third Secretary: C. F. G. von Hirschberg.
+Private Secretary: J. J. Becker.
+Military Adviser: Commodore F. J. Dean,
+O.B.E.
+Army Liaison Officer: Colonel J. J. C.
+Venter, C.B.E.
+Air Liaison Officer: Cmdt. A. J. M.
+Mossop, C.B.E.
+Assistant Naval and Marine Liaison Officer:
+Capt. J. J. Botha,
+Assistant Air Liaison Officer: Capt. W. E.
+Bayford.
+Senior Trade Commissioner: W. A.
+Horrocks.
+Trade Commissioner: W. F. C. Morton.
+Assistant Trade Commissioner: E. D.
+Andrews.
+Director of Information: H. H. H. Biermann.
+Mining and Minerals Adviser: T. A.
+Stannard.
+Scientific Adviser: J. P. de Wit.
+Accountant: R. C. Crowder.
+Administration and Consular Matters: D. V.
+Serrurier.
+Procurement and Shipping: J. A. Gold.
+
+INDIA
+India House, Aldwych, W.C.2.
+Telephone: TEMple Bar 8484.
+High Commissioner: His Excellency Mr.
+B. G. Kher.
+Principal Private Secretary: D. N. Chatterjee.
+Private Secretary: G. K. Rao.
+Commerce and Industries Adviser (with per-
+sonal rank of Minister): Dharma Vira.
+Legal Adviser (with personal rank of
+Minister): D. N. Mitra (absent on leave).
+Assistant Legal Adviser: B. N. Banerjee.
+Adviser on Special Duty (with personal rank
+of Minister): His Highness Madansinhji
+Maharao of Kutch.
+Special Adviser (with personal rank of
+Minister): P. V. R. Rao.
+Deputy in the Chancery: K. Darashah.
+Commercial Counsellor: Lal Ramsharan
+Singh.
+First Secretary, Commercial: J. A. Shah.
+Second Secretary, Commercial: S. Than.
+INDIA—(Continued)
+
+Counsellor, Head of External Department: P. N. Haksar.
+Deputy in the External Department: S. W. Zaman.
+Deputy Financial Adviser: C. K. Nair.
+Medical Adviser: Lt.-Col. C. L. Pasricha.
+Scientific Adviser: Dr. S. Krishna.
+Secretary, Education Department: Dr. A. M. D'Rozario.
+Public Relations Officer and Press Attaché: A. J. Kidwai.
+Information Officer: Dr. (Miss) Kaumudi.
+Communications Adviser: M. A. J. Vasnaik.
+Secretary, General Department: S. N. Dutt.
+Secretary, Establishment Department: T. N. Menon.
+
+55, Jermyn Street, W.l.
+Telephone: REGent 8250.
+
+Naval Adviser: Capt. G. S. Kapoor., I.N.
+Deputy Naval Adviser (Material): Capt. B. S. Baswani.
+Deputy Naval Adviser (Administration): Lt.-Comdr. K. M. Nanavati.
+Assistant Naval Adviser (Air): Cmdr. H. D. Kapadia.
+Secretary, Accounts Department (Chief Accounting Officer): A. M. Menon.
+
+76, South Audley Street, W.l.
+Telephone: MAYfair 7433.
+
+Military Adviser: Brig. Partap Narain.
+Assistant to Military Adviser: Lt.-Col. E. G. Pettengell.
+Assistant Director of Ordnance Stores: Lt.-Col. A. K. Biswas.
+Assistant Director of Medical Services: Lt.-Col. S. N. Chatterjee, M.C.
+Ordnance Consulting Officer: Col. T. T. Mirchandani.
+Air Adviser: Group Capt. K. L. Sondhi, I.A.F.
+Deputy Air Adviser: Wing-Cmdr. R. Sen.
+Senior Indian Air Force Equipment Officer: Wing-Cmdr. A. C. Lal.
+Senior Indian Air Force Technical Officer: Squadron-Leader H. D. Mehra.
+
+9, Clifford Street, W.l.
+Telephone: AMBassador 6671.
+
+Deputy Secretary, Consular Department: P. D. Runganadhan.
+
+32-44, Edgware Road, W.2.
+Telephone: AMBassador 4441.
+
+Director-General, Store Department: K. B. Rao.
+Deputy Directors-General, Store Department: A. N. Seal; Dr. S. K. Mitra.
+
+PAKISTAN
+
+34-36, Lowndes Square, S.W.l.
+Telephone: SLOane 3402.
+
+High Commissioner: His Excellency Mr. M. A. H. Ispahani.
+Minister: S. M. Burke.
+Army Adviser: Brigadier Shankat Ali Shah.
+Air Adviser: Group-Captain M. Akhar.
+Naval Adviser: Captain A. R. Khan, R.P.N.
+Financial Adviser: Sir Victor Turner, C.S.I., C.I.E., M.B.E.
+First Secretary: Sajjad Hyder.
+Commercial Secretary (Supply): S. M. Nazir.
+Commercial Secretary (Trade): Major A. A. Khan.
+Press Attaché: S. M. Haq.
+
+Director of Inspection (Supply): M. Ashiq.
+Educational Attaché: A. M. Chowdhry.
+Scientific Liaison Officer: Dr. S. D. Mozzafar.
+Director of Purchase: Hamidullah Khan.
+Second Secretaries: A. F. Ziauddin Ahmad; Shah Nawazi.
+Army Technical Liaison Officer: Col. K. M. Masud.
+Chief Controller, Defence Services Stores Department: Lt.-Col. Shakeel-Ud-Din Ahmad.
+Deputy Air Adviser and Senior Air Stores Controller: Wing-Commander M. H. Khan.
+Deputy Naval Liaison Officer: Commander (E) Mahmundal Hasan, R.P.N.
+Assistant Naval Liaison Officer: Lt. (S) M. F. Janjua, R.P.N.
+Assistant Army Liaison Officer: Major M. Masoud.
+Assistant Army Technical Liaison Officer: Major Nazir Ahmed.
+Assistant Army Liaison Officer: Major H. N. Khan.
+Assistant Army Liaison Officer: Captain Mohammed Asghar.
+Assistant Army Liaison Officer: Captain K. A. Rashid.
+Third Secretaries: A. Ahmad Khan; Selimuz Zaman.
+Commercial Attaché: Sayeedul Hasan.
+Labour Attaché (Acting): A. H. K. Nasir.
+
+CEYLON
+
+13, Hyde Park Gardens, W.2.
+Telephone: AMB 1841-1844.
+
+High Commissioner: His Excellency Sir Edwin Wijeyeratne, K.B.E.
+Deputy High Commissioner: T. D. Perera, C.M.G.
+Education and Technical Attaché: A. I. Perera, C.B.E.
+Secretary: M. R. Perera.
+Additional Secretary: E. L. F. de J. Senewiratne.
+Commercial Intelligence Officer: R. C. S. Koelmeyer.
+Commercial Assistant: B. Ekanayake.
+Education Officer: J. Cartman.
+Education Officer (Placings): F. Richter, O.B.E.
+
+SOUTHERN RHODESIA
+
+Rhodesia House, 429, Strand, W.C.2.
+Telephone: TEMple Bar 1133.
+
+High Commissioner: Sir Gordon Munro, K.C.M.G., M.C.
+Deputy High Commissioner and Secretary: J. B. Ross.
+First Secretary: J. A. Kinsey.
+Second Secretary (Finance and Supply): J. A. Hotchin, D.C.M.
+Public Relations Officer: Colin Black.
+Third Secretary (Trade): N. R. Heathcote.
+Third Secretary (Administration): N. J. Freeman.
+Third Secretary (Supply): G. F. Goff.
+British Immigrants Selection Board:
+Secretary: W. V. Bond.
+Tobacco Adviser: Capt. I. H. Morten, R.N. (Retd.).
+B.C.S.O., Africa House, Kingsway, W.C.2.
+Telephone: HOLborn 3422.
+Scientific Adviser: (Vacant).
+AMBASSADOR OF THE REPUBLIC OF IRELAND IN LONDON
+17, Grosvenor Place, S.W.1.
+Telephone: SLOane 3422-7.
+Ambassador: His Excellency Mr. Frederick H. Boland.
+Counsellor: J. G. Molloy.
+
+Counsellor specially attached: J. W. Dulanty, C.B., C.B.E.
+First Secretaries: M. H. Ellison; G. Woods.
+Third Secretary: Miss K. Ryan.
+Third Secretary (Press): F. O'Riordan.
+Commercial Counsellor: M. J. Barry.
+First Secretary (Commercial): J. P. Slevin.
+Third Secretary (Commercial): T. Tobin.
+BOARDS, COMMITTEES AND SOCIETIES IN THE UNITED KINGDOM CONCERNED WITH VARIOUS ASPECTS OF COMMONWEALTH RELATIONS
+
+| Organization                                                                 | Page |
+|------------------------------------------------------------------------------|------|
+| Commonwealth Parliamentary Association                                      | 23   |
+| Commonwealth Shipping Committee                                             | 26   |
+| Commonwealth Economic Committee                                              | 27   |
+| British Commonwealth Scientific Conference and its Standing Committee        | 28   |
+| Commonwealth Agricultural Bureaux                                            | 29   |
+| Commonwealth Air Transport Council                                           | 31   |
+| Commonwealth Telecommunications Board                                        | 32   |
+| Imperial Institute                                                           | 32   |
+| British Commonwealth Forestry Conference and the Standing Committee on      |      |
+| British Commonwealth Forestry                                                | 34   |
+| Empire Forestry Association                                                  | 34   |
+| Imperial Forestry Institute, University of Oxford                            | 34   |
+| Joint Empire Societies Conference                                            | 35   |
+| Royal Empire Society                                                         | 35   |
+| Victoria League                                                             | 37   |
+| Over-Seas League                                                            | 37   |
+| Dominions Fellowship Trust                                                   | 37   |
+| London House                                                                | 38   |
+| British Council                                                             | 39   |
+| Royal Institute of International Affairs                                     | 40   |
+| Association of Universities of the British Commonwealth                      | 40   |
+| English-Speaking Union of the Commonwealth                                  | 41   |
+| Society for the Oversea Settlement of British Women                         | 42   |
+| 1820 Memorial, Settlers’ Association of South Africa                         | 43   |
+| Royal African Society                                                        | 43   |
+| Royal Asiatic Society                                                        | 44   |
+| East India Association (India, Pakistan and Burma)                           | 44   |
+| Royal Central Asian Society                                                 | 44   |
+| Royal India, Pakistan and Ceylon Society                                     | 45   |
+| India, Pakistan and Burma Association                                       | 45   |
+| Joint Committee on India                                                    | 45   |
+
+COMMONWEALTH PARLIAMENTARY ASSOCIATION
+
+The Commonwealth (formerly Empire) Parliamentary Association was founded at the Coronation of King George the Fifth in 1911, in order to facilitate the exchange of visits and information between those engaged in the parliamentary government of the countries of the Commonwealth. It began with six Branches in the United Kingdom and the Dominions and now has over fifty Branches throughout legislatures of the Commonwealth. These are either main Branches or affiliated Branches, the main Branches being those formed in the Parliaments of the self-governing nations of the Commonwealth, while the affiliated Branches are those in territories which enjoy responsible or representative government or possess legislatures in which there is an “unofficial majority.”
+
+The activities of the Association have kept pace with its increasing numbers. The rooms of the Association in the Houses of Parliament at Westminster have become a meeting-place for the legislators of the Commonwealth, and at the United Kingdom Branch in Westminster Hall visiting legislators are given parliamentary and other privileges and are enabled to meet Members of both Houses of the United Kingdom Parliament. Similarly, parliamentary and other privileges are provided by the Branches overseas to enable visiting legislators to meet and exchange views with their Members. Parliamentary conferences of a plenary character are held at intervals of not more than two years in various capitals of the Commonwealth, and regional conferences are held from time to time between representatives of Branches which are in close proximity. Three quarterly publications (“Journal of the Parliaments of the
+Commonwealth,” “Report on Foreign Affairs,” and “Summary of Congressional Proceedings, U.S.A.”) are printed and circulated. Special information is supplied to study groups and individual members.
+
+**GENERAL COUNCIL**
+
+While the work involved in these various activities was; until the year 1948, mostly undertaken by the United Kingdom Branch, the need of some central organization became apparent to act as a liaison body between the Branches, edit and issue the publications of the Association, arrange parliamentary conferences and visits of delegations drawn from different Branches, and help to supply information when and where required.
+
+At the Commonwealth Parliamentary Conference in London, held in 1948, it was decided, in accordance with a resolution put forward by the Canadian Branch, to set up a General Council, which would establish an effective link between all the Branches of the Association, and perform the co-ordinating functions previously undertaken by the United Kingdom Branch: at the same time the name was changed to “Commonwealth” Parliamentary Association. The Branches in the Parliaments of the eight self-governing countries of the Commonwealth are represented on this Council by two members each, while the affiliated Branches in Colonial legislatures are grouped together and send representatives to the Council in rotation. The Council meets every year, the first meeting having been held at Ottawa in 1949, the second at Wellington, the third at Colombo, the fourth at Ottawa, and the fifth in London, on which occasion Her Majesty The Queen was entertained at luncheon in Westminster Hall and presented with a book containing photographs of 52 buildings in which Commonwealth Legislatures meet. The expenses of the Council, including the cost of the publications, are met by contributions from the Branches. Sir Howard d'Egville, who had been Secretary of the United Kingdom Branch ever since its inception, was appointed the first Secretary-General and Editor of Publications. A revised constitution has been drawn up and approved by all the Branches. The headquarters of the Association are at Westminster, and the Council’s rooms provide a centre for research and information on current Commonwealth affairs for members of all Branches.
+
+Since 1948, two plenary Conferences have been held, at Wellington in 1950 and at Ottawa in 1952. At these conferences there was a frank exchange of views on matters of common interest, e.g. Economic Relations, Migration, International Affairs and Defence.
+
+There has been in the past a close relationship between the Commonwealth Parliamentary Association and the British-American Parliamentary Group at Westminster which works with a similar group in the Congress of the United States; delegates from the latter have attended several conferences. In 1952 an Associated Group was formed in the Parliament of the Irish Republic. Delegates from both these countries attended that part of the Conference at Ottawa in 1952 which related to International Affairs and Defence.
+
+**General Council, 1952**
+
+**Chairman:** Rt. Hon. H. E. Holt, M.P. (Commonwealth of Australia).
+
+**Vice-Chairman:** Hon. Sir John Kotelawala, K.B.E., M.P. (Ceylon).
+
+**Secretary-General:** Sir Howard d'Egville, K.B.E.
+
+**MEMBERS**
+
+**United Kingdom:** Rt. Hon. Arthur Henderson, Q.C., M.P.; Mr. D Heathcoat-Amory, M.P.
+
+**Canada:**
+
+Federal: Mr. L. René Beaudoin, M.P.
+
+Provinces: Mr. D. R. Hamilton, M.L.A. (Manitoba).
+
+**Australia:**
+
+Commonwealth: Dr. D. A. Cameron, M.P.
+
+States: Mr. M. R. O'Halloran, M.P. (South Australia).
+
+**New Zealand:** Hon. T. Clifton Webb, M.P. (Attorney-General and Minister of External Affairs); Mr. H. E. Combs, M.P.
+
+**Union of South Africa:** Mr. J. W. Higgerty, M.P.; Mr. P. V. Pocock, M.P.
+
+**India:** Shri G. V. Mavalankar (Speaker of the House of the People); Shri M. Ananthasayanam Ayyangar (Deputy Speaker of the House of the People).
+Pakistan: Hon. Mr. Tamizuddin Khan, M.C.A. (President of Constituent Assembly); Mr. S. C. Chattopadhyaya, M.C.A. (Leader of Opposition).
+
+Ceylon: Senator Dr. the Hon. Sir Lalita Rajapakse, Q.C. (Minister of Justice); Hon. Sir John Kotelawala, K.B.E., M.P. (Minister of Transport and Works and Leader of the House of Representatives).
+
+Southern Rhodesia, Malta: Dr. A. Pullicino, M.L.A. (Malta).
+
+Northern Rhodesia, Kenya: Sir Roy Welensky, C.M.G., M.L.C. (Chairman of Unofficial Members, Northern Rhodesia).
+
+Gold Coast, Nigeria, Gambia: Hon. A. Casely-Hayford, M.L.A. (Minister of Agriculture and Natural Resources, Gold Coast).
+
+Bermuda, Bahamas, Mauritius: Mr. F. C. Missick, M.H.A. (Bermuda).
+
+West Indies, British Guiana, British Honduras: Hon. K. N. R. Husbands, M.H.A. (Speaker of the House of Assembly, Barbados).
+
+Singapore, Federation of Malaya: Hon. Datch Pamglima Bukit Gantang, M.L.C. (Mentri Besar, Perak).
+
+Presidents and Secretaries of Branches*
+
+UNITED KINGDOM
+
+Presidents: Rt. Hon. Lord Simonds (Lord Chancellor); Rt. Hon. W. S. Morrison, M.C., Q.C., M.P. (Speaker of the House of Commons).
+
+Secretary: Major J. G. Lockhart, C.B.E., Westminster Hall, Houses of Parliament, London, S.W.1.
+
+NORTHERN IRELAND
+
+Presidents: Senator the Rt. Hon. Sir Roland Nugent, D.L., J.P. (Speaker of the Senate); Rt. Hon. Sir Norman Stronge, Bt., M.C., M.P. (Speaker of the House of Commons).
+
+Secretary: Major George Thomson, C.B.E., D.S.O. (Clerk of the Parliaments), Stornoway, Belfast.
+
+JERSEY
+
+President: Sir Alexander Coutanche (Bailiff of Jersey, President of the States).
+
+Secretary: F. de L. Bois (Greffeur of the States).
+
+ISLE OF MAN
+
+President: H.E. Sir Ambrose Dundas, K.C.I.E., C.S.I. (Lieutenant-Governor and President of Tynwald and the Legislative Council).
+
+Joint Secretaries: J. N. Panes (Clerk of Legislative Council), Government Office, Douglas; Major Frank B. Johnson (Clerk of Tynwald).
+
+CANADA
+
+Presidents: Senator the Hon. Elie Beauregard, Q.C. (Speaker of the Senate); Hon. W. Ross MacDonald, Q.C., M.P. (Speaker of the House of Commons).
+
+Secretary-Treasurer: Léon J. Raymond, O.B.E. (Clerk of the House), House of Commons, Ottawa.
+
+ONTARIO
+
+President: Hon. M. Cooke Davies, M.L.A. (Speaker of the Legislative Assembly).
+
+Secretary: Major A. C. Lewis, Q.C. (Clerk of the Legislative Assembly), Toronto.
+
+QUEBEC
+
+Presidents: Hon. J. M. Baribeau, M.L.C. (Speaker of Legislative Council); Hon. Alexandre Taché, Q.C., M.L.A. (Speaker of Legislative Assembly).
+
+Secretary: Georges Léveillé, Hôtel du Gouvernement, Quebec.
+
+NOVA SCOTIA
+
+President: Hon. Gordon E. Romkey, M.L.A. (Speaker of Legislative Assembly).
+
+Secretary: Charles L. Beazley, Q.C. (Clerk of Executive Council), Province House, Halifax.
+
+NEW BRUNSWICK
+
+President: Hon. Dr. E. T. Kennedy, M.L.A. (Speaker of the Legislative Assembly).
+
+Secretary: F. C. Squires (Clerk of Legislative Assembly), Fredericton.
+
+MANITOBA
+
+President: Hon. N. V. Bachynsky, M.L.A. (Speaker of Legislative Assembly).
+
+Secretary: Charland Prud'Homme (Clerk of Legislative Assembly), Winnipeg.
+
+BRITISH COLUMBIA
+
+President: Hon. T. J. Irwin, M.L.A. (Speaker of the Legislative Assembly).
+
+Secretary: E. K. DeBeck (Clerk of Legislative Assembly), Parliament Buildings, Victoria.
+
+PRINCE EDWARD ISLAND
+
+President: Hon. Forrest W. Phillips, M.L.A. (Speaker of Legislative Assembly).
+
+Secretary: P. S. Fielding (Deputy Provincial Secretary), Charlottetown.
+
+SASKATCHEWAN
+
+President: Hon. Tom Johnston, M.L.A. (Speaker of Legislative Assembly).
+
+Secretary: George Stephen (Clerk of Legislative Assembly), Regina.
+
+ALBERTA
+
+President: Hon. Peter Dawson, M.L.A. (Speaker of Legislative Assembly).
+
+Secretary: R. A. Andison (Clerk of Legislative Assembly), Parliament Buildings, Edmonton.
+
+NEWFOUNDLAND
+
+President: Hon. Reginald Sparkes, M.H.A. (Speaker of House of Assembly).
+
+Secretary: Harry Cummings, LL.D. (Clerk of the House), House of Assembly, St. John's.
+
+COMMONWEALTH OF AUSTRALIA
+
+Presidents: Senator the Hon. E. W. Mattner, M.C., D.C.M., M.M. (President of the Senate); Hon. A. G. Cameron, M.P. (Speaker of the House of Representatives).
+
+Secretary: F. C. Green, M.C. (Clerk of House), House of Representatives, Canberra.
+
+* There are 21 other branches in Colonial and other Legislatures.
+NEW SOUTH WALES
+Presidents: Hon. W. E. Dickson, M.L.C. (President of Legislative Council); Hon. W. H. Lamb, M.L.A. (Speaker of Legislative Assembly).
+Secretary-Treasurer: H. Robbins, M.C. (Clerk of Legislative Assembly), Sydney.
+
+VICTORIA
+Presidents: Hon. Sir Clifden Eager, K.B.E., Q.C., M.L.C. (President of Legislative Council); Hon. P. K. Sutton, M.L.A. (Speaker of Legislative Assembly).
+Secretary: H. K. McLachlan (Clerk of Legislative Assembly), Melbourne.
+
+QUEENSLAND
+President: Hon. V. C. Gair, M.L.A. (Premier).
+Secretary: T. Dickson (Clerk of Legislative Assembly), Brisbane.
+
+SOUTH AUSTRALIA
+President: Hon. Thomas Playford, M.P. (Premier).
+Secretary: I. J. Ball (Clerk of House of Assembly), Adelaide.
+
+WESTERN AUSTRALIA
+Presidents: Hon. Sir Harold Seddon, M.L.C. (President of Legislative Council); Speaker of Legislative Assembly (at present vacant).
+Secretary: F. E. Islip (Clerk of Legislative Assembly), Perth.
+
+TASMANIA
+Presidents: Hon. Sir Rupert Shoobridge, M.L.C. (President of Legislative Council); Hon. L. Spurr, M.H.A. (Speaker of House of Assembly).
+Secretary: C. K. Murphy (Clerk of Legislative Assembly), Hobart.
+
+NEW ZEALAND
+President: Hon. Sir Matthew Oram, M.B.E., M.P. (Speaker of the House of Representatives).
+Secretary: H. N. Dollimore (Clerk of House of Representatives), Parliament Buildings, Wellington.
+
+UNION OF SOUTH AFRICA
+Presidents: Senator Cdt. the Hon. C. A. Van Niekerk (President of the Senate); Hon. J. H. Conradie, Q.C., M.P. (Speaker of the House of Assembly).
+
+Secretary: W. T. Wood (Clerk of Senate), Cape Town.
+
+INDIA
+President: Shri G. V. Mavalankar, M.P. (Speaker of the House of the People).
+Secretary: Shri M. N. Kaul (Secretary, the House of the People), New Delhi.
+
+BOMBAY
+Presidents: Shri R. S. Hurkerikar, M.L.C. (Chairman of Legislative Council); Shri D. K. Kunte, M.L.A. (Speaker of Legislative Council).
+Secretary: Shri S. K. Sheode (Clerk to Legislature Department), Council Hall, Bombay.
+
+WEST BENGAL
+President: Shri S. K. Mukherjee, M.L.A. (Speaker of Legislative Assembly).
+Secretary: Shri H. R. Mukherjea (Secretary to Legislative Assembly), Calcutta.
+
+PAKISTAN
+President: Hon. Mr. Tamizuddin Khan, M.C.A. (President of Constituent Assembly).
+Secretary: M. B. Ahmad (Secretary to Constituent Assembly), Assembly House, Karachi.
+
+EAST BENGAL
+President: Hon. Mr. Abdul Karim, M.L.A. (Speaker of Legislative Assembly).
+Secretary: S. A. E. Hussain (Secretary to Legislative Assembly), Legislative Building, Dacca.
+
+CEYLON
+Presidents: Hon. Sir N. Attygalle (President of Senate); Hon. Albert F. Peries, M.P. (Speaker of House of Representatives).
+Secretary: R. St. L. P. Deraniyagala, O.B.E. (Clerk to House of Representatives), Colombo.
+
+SOUTHERN RHODESIA
+President: Hon. T. I. F. Wilson, M.P. (Speaker of Legislative Assembly).
+Secretary: Lt.-Col. G. E. Wells, O.B.E., E.D. (Clerk of Legislative Assembly), Salisbury.
+
+COMMONWEALTH SHIPPING COMMITTEE
+Address: Berkeley Square House, Berkeley Square, W.1.
+Telephone: MAYfair 9494.
+Chairman: Sir Clement W. Jones, C.B.
+
+MEMBERS
+United Kingdom: Sir N. A. Guttery, K.B.E., C.B.
+Canada: H.E. Mr. N. A. Robertson (High Commissioner).
+Australia: H.E. The Hon. Sir Thomas White, K.B.E., D.F.C., V.D. (High Commissioner)
+New Zealand: H.E. Sir Frederick Doidge, K.C.M.G. (High Commissioner).
+Union of South Africa: H.E. Dr. A. L. Geyer (High Commissioner).
+India: H.E. Mr. B. G. Kher (High Commissioner).
+Pakistan: H.E. Mr. M. A. H. Ispahani (High Commissioner).
+Ceylon: H.E. Sir Edwin Wijeyeratne, K.B.E. (High Commissioner).
+Southern Rhodesia: Sir Gordon Munro, K.C.M.G., M.C.
+Colonies and Protectorates: W. J. Bigg, C.M.G. (Colonial Office).
+Commonwealth Air Transport Council: Mrs. V. A. Purnell (Ministry of Civil Aviation).
+Mr. P. A. Clews, Mr. Irvine Geddes, Sir Harrison Hughes, Bart., Sir Kenneth Lee, Bart., Sir Murray Stephen, M.C., Sir William C. Currie, G.B.E.
+Secretary: W. H. J. Crees, M.B.E.
+The Commonwealth (formerly Imperial) Shipping Committee was established in 1920 in pursuance of a resolution of the Imperial War Conference in 1918 (see page 69). It consists of a Chairman, who is independent, and representatives of the Governments of the United Kingdom, Canada, the Commonwealth of Australia, New Zealand, the Union of South Africa, India, Pakistan, Ceylon, and Southern Rhodesia. The Colonies and Protectorates are represented by a member of the Colonial Office, and the Commonwealth Air Transport Council by a member of the Ministry of Civil Aviation.
+
+The future of the Imperial Shipping Committee was considered by the Imperial Conferences of 1926 (see page 71) and 1930, which extended the Committee's terms of reference to "take into account facilities for air transport on Imperial ocean routes" (see page 72) and its work was reviewed by the Imperial Conference of 1937 (see page 74). In 1948 the title was changed to the Commonwealth Shipping Committee by agreement of all the Governments represented.
+
+The functions of the Committee as at present defined are as follows:
+
+(i) To inquire into complaints from persons and bodies interested with regard to ocean freights, facilities, and conditions in the inter-Imperial trade, or questions of a similar nature referred to them by any of the nominating authorities; and to report their conclusions to the Governments concerned.
+
+(ii) To survey the facilities for maritime transport on such routes as appear to them to be necessary for trade within the Empire, and to make recommendations to the proper authority for the co-ordination and improvement of such facilities with regard to the type, size and speed of ships, depth of water in docks and channels, construction of harbour works, and similar matters; and in doing so to take into account facilities for air transport on the routes in question.
+
+COMMONWEALTH ECONOMIC COMMITTEE
+
+Address: 2 Queen Anne’s Gate Buildings, Dartmouth Street, London, S.W.1.
+
+Telephone: WHItehall 5586.
+
+MEMBERS
+
+United Kingdom: Sir Horace Hamilton, G.C.B.; John McLean, C.B.E.
+
+Canada: Frederic Hudd, C.B.E.; D. A. Bruce Marshall, Commercial Secretary (Agriculture).
+
+Australia: E. McCarthy, C.B.E., Deputy High Commissioner; G. R. B. Patterson, Senior Trade Commissioner and Economic Adviser.
+
+New Zealand: H.E. Sir Frederick Dodge, K.C.M.G., High Commissioner; N. S. McIvor.
+
+South Africa: C. H. Torrance, Secretary and Deputy High Commissioner; W. A. Horrocks, Senior Trade Commissioner.
+
+India: H.E. Mr. B. G. Kher, High Commissioner; L. R. S. Singh (Chairman), Commercial Counsellor.
+
+Pakistan: H.E. Mr. M. A. H. Ispahani, High Commissioner; Major A. A. Khan, Commercial Secretary.
+
+Ceylon: H.E. Sir Edwin Wijeyeratne, K.B.E., High Commissioner.
+
+Southern Rhodesia: Sir Gordon Munro, K.C.M.G., M.C., High Commissioner.
+
+Colonies: A. Emanuel; Julian S. Crossley.
+
+Secretary: G. S. Dunnett, O.B.E.
+
+The Commonwealth Economic Committee (formerly the Imperial Economic Committee) was set up in 1925 as a result of the Imperial Economic Conference of 1923. Its original terms of reference have from time to time been enlarged as a result of subsequent Imperial Conferences and now are:
+
+(a) To investigate the possibility of improving the methods of preparing for market and marketing within the United Kingdom the food products of overseas parts of the Commonwealth with a view to increasing the consumption of such products in the United Kingdom in preference to imports from foreign countries.
+
+(b) To undertake enquiries into the production for export and the marketing in various parts of the world of certain raw materials.
+
+(c) To prepare preliminary surveys of any branch of Commonwealth trade and marketing.
+(d) To carry out investigations arising out of recommendations adopted by the Imperial Conference.
+
+(e) To facilitate conferences among those engaged in particular industries in various parts of the Commonwealth.
+
+(f) To examine and report on any economic question which the Commonwealth Governments may agree to refer to the Committee.
+
+(g) To prepare periodical market intelligence notes and world surveys of production and trade.
+
+(h) To make proposals to Governments in regard to other economic services and enquiries, which in its view should be conducted on a co-operative basis.
+
+The Committee consists of members nominated by their respective Governments. It is financed by contributions from all the Governments of the Commonwealth, and reports to those Governments.
+
+The publications of the Committee comprise special reports to Government, commodity surveys and regular intelligence services. Recent publications include:
+
+Reports to Governments: *A Review of Commonwealth Trade* (33rd Report) with annual supplements; *A Review of Commonwealth Agriculture: Production and Trade* (35th Report); *Surveys of the Trade in Fertilizers* (34th Report) and *Agricultural Machinery* (36th Report).
+
+Commodity Series: Seven volumes, issued annually, summarizing the production and trade of meat, dairy produce, fruit, vegetable oils and oil-seeds, industrial fibres, plantation crops and grain crops.
+
+Intelligence Services: monthly *Wool Intelligence* (with annual supplements), monthly *Intelligence Bulletin* (meat, dairy produce, etc.), monthly *Fruit Intelligence* (with weekly supplement) and quarterly *Tobacco Intelligence* (with monthly supplement).
+
+**BRITISH COMMONWEALTH SCIENTIFIC CONFERENCE AND ITS STANDING COMMITTEE**
+
+Address: Africa House, Kingsway, London, W.C.2.
+
+Telephone: HOLborn 3422.
+
+Chairman: Dr. I. Clunies Ross.
+
+Secretary: O. F. Brown, C.B.E.
+
+The British Commonwealth Scientific Official Conference held in 1946* set up a Standing Committee, with a Working Party of deputies in London, to follow up the recommendations and decisions of the Conference and to make arrangements for the calling of the next main Conference in about five years' time. The Standing Committee as originally constituted consisted of the executive heads of Government organizations for scientific and industrial, agricultural and medical research in Commonwealth countries, together with three representatives of the Colonial Office. The Secretary of the Standing Committee acts as Chairman of the Working Party of deputies. Secretariat services are provided by the Common Services Section of B.C.S.O. (London). *(see below)*
+
+The Standing Committee of the 1952 Conference† consists of the Chairman of the Conference, the Secretaries of the Department of Scientific and Industrial Research, the Agricultural Research Council and the Medical Research Council in the United Kingdom, a representative appointed by the Colonial Office, the heads of the delegations of the countries represented at the Conference, or members nominated by their Governments, and a member nominated by the Government of India.
+
+* See page 76.
+
+† For a note on the British Commonwealth Scientific Conference held in Canberra and Melbourne in 1952 see page 82.
+Its terms of reference are as follows:—
+
+(i) to follow up the recommendations and decisions of the Conference and to initiate action where appropriate;
+
+(ii) to further the objects of the Conference, namely, to consider the best means of ensuring the fullest possible collaboration between the civil government scientific organizations of the British Commonwealth;
+
+(iii) to offer advice on the organization of research and the development of research laboratories to any particular country which may request it.
+
+The functions of the Working Party in the United Kingdom, composed of a representative of each member of the Standing Committee under the chairmanship of the Secretary of the Standing Committee, are:—
+
+(a) to study and propose action on matters falling within the terms of reference of that Committee;
+
+(b) to submit to the Standing Committee early in 1955 its proposals for calling of the next Commonwealth Scientific Conference on the assumption that it will take place sometime around 1957.
+
+British Commonwealth of Nations Scientific Liaison Offices B.C.S.O. (London)*
+
+The British Commonwealth Scientific Official Conference held in 1946 recommended that the Scientific Liaison Offices in London of the various countries of the British Commonwealth should occupy joint headquarters while continuing to operate as separate autonomous units. The headquarters are situated in Africa House, Kingsway, London.
+
+The Scientific Liaison Offices exist primarily to keep in touch with scientific developments in the United Kingdom, to deal with scientific enquiries from and to their home countries, and to act as scientific advisers to Commonwealth High Commissioners and Governments concerned.
+
+B.C.S.O. (London) came into existence in May, 1948, the overseas foundation members being Canada, the Commonwealth of Australia, New Zealand, and the Union of South Africa. Later they were joined by India, Pakistan and Southern Rhodesia.
+
+At present the Chief Scientific Liaison Officers of these countries are:—
+
+Canada ... ... ... Dr. J. G. Malloch, M.B.E., M.Sc.
+Commonwealth of Australia J. E. Cummins
+New Zealand ... ... Dr. E. Marsden, C.M.G., C.B.E., M.C., F.R.S.
+Union of South Africa ... J. P. de Wit
+India ... ... ... Dr. S. Krishna
+Pakistan ... ... ... Dr. S. D. Mozzafar
+Southern Rhodesia ... (Vacant)
+
+The cost of common services is shared between the several countries including the United Kingdom, in agreed proportions.
+
+Another important function of B.C.S.O. (London) is to serve as the headquarters for Commonwealth scientists visiting the United Kingdom.
+
+THE COMMONWEALTH AGRICULTURAL BUREAUX
+
+Head Office: Farnham House, Farnham Royal, near Slough.
+
+Telephone: Farnham Common 781.
+
+Chairman: E. Marsden, C.M.G., C.B.E., M.C., D.Sc., M.I.E.E., F.R.S.
+
+Secretary: Sir Herbert Howard.
+
+The Imperial Agricultural Bureaux, as it was called prior to 1948, is governed by an Executive Council consisting of the nominees of the Governments of the United Kingdom and Northern Ireland and the other Commonwealth countries. It was set up in 1929 to administer eight bureaux organized to act as clearing-houses of information on research in eight specialized fields.
+
+* B.C.S.O. (London) has a counterpart in Washington, D.C. which is known as B.C.S.O. (North America).
+of agricultural science and was financed by a common fund provided by the Governments of the Dominions and Colonies. In 1933, the Council was entrusted with the control of the administration and finances of the Imperial (now Commonwealth) Institute of Entomology, originally set up in 1913, and the Imperial (now Commonwealth) Mycological Institute originally set up in 1920, and of such research activities in the United Kingdom as the participating Governments may agree should in future be conducted on a co-operative basis. The two Institutes, in addition to their function of being information services, also have important and extensive work connected with identification. On the recommendations of the British Commonwealth Scientific Conference of 1936, the Government ordered the creation of two more Commonwealth Bureaux, for Forestry and Dairy Science respectively. The Commonwealth Institute of Biological Control at Ottawa is also under the administration of the Council. It prepares and maintains a catalogue on the parasites and predators of the insects of the world. It also supplies beneficial insects attacking various pests and takes complete charge of Biological Control Projects for Governments. The Commonwealth Potato Collection was handed over to the Agricultural Research Council of the United Kingdom on the 1st April, 1951. The annual reports of the Council are submitted to each of the Governments through their several members.
+
+The various bodies controlled by the Executive Council are enumerated below:
+
+**COMMONWEALTH INSTITUTE OF ENTOMOLOGY**
+British Museum (Natural History),
+Cromwell Road, London, S.W.7.
+Telephone: KENsington 6323.
+Publication Office: 41 Queen's Gate,
+London, S.W.7.
+Telephone: WESTern 4341.
+Director: W. J. Hall, C.M.G., M.C., D.Sc.
+Periodicals: Review of Applied Entomology Series A and Series B, Bulletin of Applied Entomology and Distribution Maps of Insect Pests.
+
+**COMMONWEALTH MYCOLOGICAL INSTITUTE**
+Ferry Lane, Kew, Surrey.
+Telephone: RICHmond 0603.
+Director: S. P. Wilshire, M.A., D.Sc.
+Periodicals: Review of Applied Mycology, Review of Medical and Veterinary Mycology, and Distribution Maps of Plant Diseases.
+
+**COMMONWEALTH INSTITUTE OF BIOLOGICAL CONTROL**
+Science Building, Carling Avenue,
+Ottawa, Ontario, Canada.
+Director: W. R. Thompson, Ph.D., D.Sc., F.R.S., F.R.S.Can.
+Substations in Europe (Switzerland), West Indies (Trinidad), and U.S.A. (California).
+Publication: Catalogue of the Parasites and Predators of the Insects of the World.
+
+**COMMONWEALTH BUREAU OF AGRICULTURAL PARASITOLOGY (HELMINTHOLOGY)**
+London School of Hygiene and Tropical Medicine Field Station,
+Winches Farm, Hatfield Road,
+St. Albans, Herts.
+Telephone: St. Albans 2126.
+Director: R. T. Leiper, C.M.G., M.D., D.Sc., F.R.S., F.R.C.P.
+Publication: Helminthological Abstracts.
+
+**COMMONWEALTH BUREAU OF ANIMAL BREEDING AND GENETICS**
+King's Buildings, West Mains Road,
+Edinburgh, Scotland.
+Telephone: Edinburgh 41535.
+Director: J. P. Maule, M.A., Dip. Agr., A.I.C.T.A.
+Publication: Animal Breeding Abstracts.
+
+**COMMONWEALTH BUREAU OF ANIMAL HEALTH**
+Veterinary Laboratory,
+New Haw, Weybridge, Surrey.
+Telephone: Byfleet 2826.
+Director: W. A. Pool, M.R.C.V.S.
+Publications: The Veterinary Bulletin, and Index Veterinarius.
+
+**COMMONWEALTH BUREAU OF ANIMAL NUTRITION**
+Rowett Research Institute,
+Bucksburn, Aberdeenshire.
+Telephone: Bucksburn 162.
+Director: Miss I. Leitch, O.B.E., M.A., D.Sc.
+Publication: Nutrition Abstracts and Reviews.
+
+**COMMONWEALTH BUREAU OF DAIRY SCIENCE**
+National Institute for Research in Dairying,
+Shinfield, Reading, Berks.
+Telephone: Reading 83103.
+Director: A. W. Marsden, M.Sc., D.I.C., A.R.C.S., F.R.I.C.
+Publication: Dairy Science Abstracts.
+
+**COMMONWEALTH FORESTRY BUREAU**
+Imperial Forestry Institute,
+South Parks Road, Oxford.
+Telephone: Oxford 57185.
+Director: F. C. Ford Robertson, B.Sc.
+Publications: Forestry Abstracts, and Forest Products and Utilization (Utilization section of Forestry Abstracts).
+COMMONWEALTH AIR TRANSPORT COUNCIL
+
+Secretariat: Ariel House, Theobalds Road, W.C.1.
+
+Telephone: CHAncery 3366.
+
+Principal: Mrs. V. A. Purnell.
+
+The Commonwealth Air Transport Council, of which the Minister of Transport and Civil Aviation in the United Kingdom is the permanent Chairman, was established in January, 1945, in pursuance of a recommendation approved at the Commonwealth Air Conversations held in Canada in October, 1944, to keep under review the progress and development of Commonwealth civil air communications and to advise on civil aviation matters referred to it by Commonwealth Governments. The Council also serves as a medium for the exchange of views and information between Commonwealth countries on civil air transport matters. The Governments of the United Kingdom, Canada, the Commonwealth of Australia, New Zealand, the Union of South Africa, India, Pakistan, Ceylon and Southern Rhodesia are represented on the Council, of which there is no standing membership. Colonial Governments are also represented. Meetings can be held in any part of the Commonwealth according to which country is considered the most convenient and appropriate at the time, and so far it has been the practice for particular meetings to nominate a working Chairman ad hoc. The Council is represented on the Commonwealth Shipping Committee.
+
+Ancillary to the Council and performing similar functions, but on a regional basis, are the Southern Africa Air Transport Council, set up as a result of the recommendations of the Southern Africa Air Transport Conference held at Cape Town in March, 1945, and the South Pacific Air Transport Council, set up as a result of the recommendations of the Civil Aviation Conference held in Wellington in February and March, 1946. Both Councils maintain independent Secretariats, housed in the Union of South Africa and the Commonwealth of Australia respectively, which maintain close liaison with the Secretariat of the Commonwealth Air Transport Council in London. The Governments of the Union of South Africa, Southern Rhodesia and the United Kingdom are represented on the Southern Africa Council, and The Gambia, Gold Coast, the High Commission Territories (Basutoland, the Bechuanaland Protectorate and Swaziland), Kenya, Nigeria, Northern Rhodesia, Nyasaland, Sierra Leone, Tanganyika, Uganda, and Zanzibar are also members. The Governments of Canada, the Commonwealth of Australia, New Zealand and the United Kingdom are represented on the South Pacific Council, and Fiji and the Western Pacific High Commission are also members. The permanent Chairman of the South Pacific Council is the Minister for Civil Aviation, Commonwealth of Australia.
+COMMONWEALTH TELECOMMUNICATIONS BOARD
+
+Address: 28 Pall Mall, S.W.1.
+
+Telephone: Whitehall 5511.
+
+Chairman: Sir Stanley Angwin, K.B.E., D.S.O., M.C., T.D.
+
+MEMBERS
+
+United Kingdom: W. A. Wolverson.
+Canada: J. H. Tudhope, M.C.
+Commonwealth of Australia: R. V. McKay.
+New Zealand: H. W. Curtis.
+Union of South Africa: Lt.-Col. H. Myers, O.B.E.
+India: M. A. J. Vasnaik.
+Ceylon: A. I. Perera, C.B.E.
+Southern Rhodesia: G. T. Anstey, C.B.
+Colonies and Protectorates: G. H. Webster, C.M.G., O.B.E. (Colonial Office).
+
+OBSERVER
+
+Pakistan: E. Bridgnell, M.B.E.
+
+Secretary-General: Colonel W. W. Shaw-Zambra, C.B.E., T.D.
+
+Assistant Secretary: H. Everett.
+
+The Commonwealth Telecommunications Board was incorporated by the Commonwealth Telegraphs Act, 1949, (12 and 13 Geo. 6 CH. 39). It was established in pursuance of a recommendation of the Commonwealth Telecommunications Conference, 1945 (Cmd. 6805)* and an Agreement dated 11th May, 1948, between the Governments of the United Kingdom, Canada, the Commonwealth of Australia, New Zealand, the Union of South Africa, India and Southern Rhodesia (Cmd. 7582). Ceylon was admitted on 1st June, 1951.
+
+The constitution, functions and organization of the Board are set out in the Act of 1949. The Board consists of a Chairman appointed jointly by the Partner Governments, one member appointed by each Partner Government and an additional member appointed by the United Kingdom Government to represent Commonwealth and Empire territories not directly represented by other members. Its primary function is to advise the Partner Governments and their National Bodies, i.e., the nationalized telecommunications undertakings in the territories of the Partner Governments, on matters relating to their external telecommunication systems. The members are resident in the United Kingdom, and each has an office at the Board's headquarters, 28 Pall Mall, London, S.W.1. Meetings of the Board are normally held in London but are also required to be held from time to time in the territories of the other Partner Governments. The Board is served by a small staff in its direct employment. Its expenses are financed by the National Bodies on an agreed basis.
+
+On the inauguration of the Board on 10th November, 1949, the Commonwealth Communications Council was dissolved. The latter body had, in 1944, succeeded the Imperial Communications Advisory Committee established in 1929.†
+
+IMPERIAL INSTITUTE
+
+Address: Exhibition Road, London, S.W.7.
+
+Telephone: KENsington 3264.
+
+Director: Kenneth Bradley, C.M.G.
+
+General Secretary: J. A. Nelson, B.Sc.(Econ.) (Lond.).
+
+Accountant and Establishment Officer: B. Daly.
+
+Curator: R. Hatt, B.Sc.(Econ.) (Lond.).
+
+The Imperial Institute was erected at South Kensington as the National Memorial of the Jubilee of Queen Victoria, by whom it was opened in May, 1893.
+
+The original objects of the Institute were, to promote the utilization of the commercial and industrial resources of the Empire by the chemical and technical investigation of raw materials and the supply of information relating to such
+
+* See page 75. † See page 72.
+materials and their production, to maintain a comprehensive exhibition illustrating the life, scenery and interests of all the countries of the Empire overseas, and to spread a knowledge of the life and work of the peoples of the Empire amongst children of the United Kingdom.
+
+By 1899 the Institute was in financial difficulties and H.M. Government took over the building and assigned a great part of it to the University of London. In 1902 the management was transferred to the Board of Trade, and in 1907 to the Colonial Office. In 1923 there was a Committee of Enquiry, the result of which was the Imperial Institute Act of 1925, which again transferred control, this time to the Department of Overseas Trade. In 1949 the scientific side of the Institute's work was taken over by the Colonial Office, though it is still carried on in the building, and the functions of the Institute became purely educational. In 1949, by Order-in-Council, its control was again transferred, this time to the Minister of Education. In 1950 another Committee of Enquiry was set up under Lord Tweedsmuir. It reported in 1952 and made far-reaching recommendations for the reorganization and expansion of the Institute "to serve as a Commonwealth forum and further mutual understanding amongst the members of the Commonwealth countries by providing facilities for the presentation and exchange of ideas and information". In July 1953, the Board of Governors was reconstituted by Order-in-Council under an independent Chairman, the Rt. Hon. Viscount Hudson, C.H., with a mandate to consider the Tweedsmuir Report and to advise the Minister on the future development of the Institute.
+
+Up to the end of 1952 the educational activities of the Institute were concentrated mainly on spreading knowledge of the Commonwealth through the Government and grant-aided schools. Conducted school parties form a large proportion of the public visiting the Exhibition Galleries at the Institute, lectures are given in schools throughout the country, and other services provided include film-strips, slides, publications, and visual aids of all kinds, as well as the distribution of thousands of handling samples of Commonwealth products. Free exhibitions of Commonwealth films are given daily at the Institute. In all its educational work the Institute co-operates closely with the Local Education Authorities.
+
+Early in 1953 a vigorous expansion of these exhibitions was undertaken and a start was made with changing the emphasis in the Galleries from products to people, and with educational work among the adult public by means of lectures, special exhibitions and entertainments by Commonwealth artists.
+
+The Galleries are open to the public from 10 a.m. to 4.30 p.m. on weekdays, and from 2.30 p.m. to 6 p.m. on Sundays. Admission is free, and guide lecturers, specially qualified for working with children, are available.
+
+Cinema performances, lasting 45 minutes, are given four times daily, and three times on Sundays. Special displays are held in the Exhibition Pavilion, and the Imperial Art Gallery, also in the building, houses throughout the year special art exhibitions, mostly of Commonwealth origin or interest. The Commonwealth Lounge is available for the use of Commonwealth students from 10 a.m. to 6 p.m. on week-days, and in the evenings for meetings and social functions organized by societies of, or catering for, Commonwealth students.
+
+A recent important development has been the holding of special conferences for senior Grammar School pupils on Commonwealth subjects. During 1953 five such conferences were organized, one each at Leeds, Manchester and Bristol and two at the Institute. The average attendance was 300 pupils.
+BRITISH COMMONWEALTH FORESTRY CONFERENCE
+AND THE STANDING COMMITTEE ON BRITISH
+COMMONWEALTH FORESTRY
+
+Address: Forestry Commission, 25, Savile Row, W.l.
+
+Telephone: REGent 0221.
+
+Secretary: G. D. Rouse.
+
+The Conference meets periodically, usually quinquennially, to discuss questions of forest policy in the Commonwealth and the wider technical aspects of forestry. Owing to the war, there was a gap of 12 years between the meeting in South Africa in 1935 and the meeting in the United Kingdom in 1947. The last meeting was held in Canada in 1952 and the next is to be held in Australia and New Zealand in 1957. The preparatory work for this Conference and the steps necessary to give effect to the resolutions are carried out by the Standing Committee on British Commonwealth Forestry, composed as follows:
+
+Director-General of the Forestry Commission of Great Britain; Director of the Imperial Forestry Institute, Oxford; Director of the Forest Products Research Laboratory at Princes Risborough; Director of the Commonwealth Forestry Bureau; One representative from the Empire Forestry Association who has experience in Commonwealth Forestry Administration; One representative from the Colonial Office; One representative from each of the following Commonwealth Countries—Australia, Canada, India, New Zealand, Pakistan, the Union of South Africa; with power to add to their numbers.
+
+THE EMPIRE FORESTRY ASSOCIATION
+(Constituted under Royal Charter in 1921)
+
+Headquarters: The Royal Empire Society, Northumberland Avenue, London, W.C.2.
+
+President: The Rt. Hon. The Earl of Athlone, K.G., G.C.B., G.C.M.G., G.C.V.O.
+
+Chairman: The Rt. Hon. The Earl of Clarendon, K.G., G.C.M.G., G.C.V.O.
+
+Vice-Chairman: Professor H. G. Champion, C.I.E., D.Sc.
+
+Editor-Secretary: W. MacF. Robertson, B.Sc., C.F.S.(retd.).
+
+The objects of the Association are to foster public interest in forestry, secure general recognition of the dependence of timber supply upon forest management, collect and circulate information relating to forestry and the commercial utilization of forest products, form a centre for all engaged in forestry, and provide a means of communication between all concerned. It welcomes as members all who are interested in forestry in the Commonwealth.
+
+The management of the Association is, subject to the control of the general meeting, in the hands of the Governing Council, a body limited in number to 45 representatives of the United Kingdom and other Members of the Commonwealth, including India and Pakistan, and the Crown Colonies and Dependencies. One-third of the members of the Council retire each year, but are eligible for re-election. An Executive Committee of 12 members of the Governing Council is appointed annually, and other committees dealing with technical matters are appointed as occasion occurs. Contact is made with the various regions of the Commonwealth through local honorary secretaries.
+
+The Association publishes the Empire Forestry Review (quarterly) and the Empire Forestry Handbook (1952 Edition). An Empire Forest Terminology will be published shortly.
+
+IMPERIAL FORESTRY INSTITUTE, UNIVERSITY OF OXFORD
+
+Head: Professor H. G. Champion, C.I.E., D.Sc.
+
+The Institute was founded in 1924 as a result of a resolution of the British Empire Forestry Conference held in Canada in 1923. It is now merged with the University Department of Forestry, financed jointly by the University and
+Colonial Governments, with contributions from Members of the Commonwealth. It provides undergraduate and postgraduate training (particularly for forest officers of the Commonwealth), undertakes structural examination and identification of timbers and the identification of trees, and carries out research on biological and economic problems bearing on forestry.
+
+**JOINT EMPIRE SOCIETIES' CONFERENCE**
+
+*Headquarters:* The Royal Empire Society, Northumberland Avenue, London, W.C.2.
+
+*Members of the Conference*
+
+The Royal Empire Society.
+The Victoria League.
+The Over-Seas League.
+The Dominions Fellowship Trust.
+The East India Association (India, Pakistan and Burma).
+The Royal African Society.
+The Empire Day Movement.
+
+The League of the British Commonwealth and Empire.
+The British Women's Hospitality Committee.
+The Association of British Malaya.
+London House.
+The British Council.
+West India Committee.
+
+The Joint Empire Societies' Conference was established, with the support of the Secretary of State for Commonwealth Relations, to co-ordinate on general lines the activities of the recognized Empire Societies, with the object of avoiding overlapping and duplication of effort. These Societies, which came into being at different times and are non-party and non-sectarian, all have the same general object, namely, the promotion of mutual understanding and personal friendship between British subjects throughout the world and the maintenance of the power and best traditions of the Commonwealth by personal service to its cause.
+
+The Conference meets periodically under the Chairmanship of Lord Clarendon, and the Secretary of State for Commonwealth Relations, the Secretary of State for the Colonies, and the Imperial Institute have appointed Liaison Officers who attend the meetings.
+
+The Conference organizes joint meetings and ceremonies of a Commonwealth character and the joint entertainment of visitors of note.
+
+**THE ROYAL EMPIRE SOCIETY**
+
+*Address:* Northumberland Avenue, London, W.C.2.
+
+*Telephone:* WHItehall 6733.
+
+*President:* H.R.H. the Duke of Gloucester, K.G.
+
+*Deputy Presidents:* Major-General the Rt. Hon. the Earl of Athlone, K.G., G.C.B., G.C.M.G., G.C.V.O., D.S.O.; the Rt. Hon. the Earl of Clarendon, K.G., G.C.M.G., G.C.V.O.
+
+*Chairman of Council:* Sir Lancelot Graham, K.C.S.I., K.C.I.E.
+
+*Secretary-General:* Colonel Archer Cust, O.B.E.
+
+*Honorary Treasurer:* Cmdr. the Hon. Lovel W. Coke, R.N.
+
+The objects of the Royal Empire Society (formerly The Royal Colonial Institute) are defined by its Charter of Incorporation dated 26th September, 1882, and Supplemental Charter dated 28th March, 1922. It aims to promote the preservation of a permanent union between the Mother Country and the various parts of the Commonwealth.
+
+The Society provides a place of meeting for British subjects in the United Kingdom and Commonwealth countries who are in sympathy with the objects of the Society and wish to promote the interests of the Commonwealth and British subjects and persons of direct British parentage resident in foreign countries. The Library contains an unique collection of publications relating to the Commonwealth. There is an Information Bureau on current conditions in Commonwealth countries, and opportunities are provided for the reading of papers and for the holding of discussions on subjects of Commonwealth
+interest, but nothing is permitted in such papers or discussions which might tend to give the Society a political party character. The bi-monthly journal *United Empire* is published by the Society and is received by all members.
+
+All British subjects are eligible for membership provided they are proposed and seconded by Fellows, one of whom must certify his personal knowledge and approval of the candidate. The membership numbers over 28,000 Fellows, Associates and Companions.
+
+The Society has Branches and Honorary Corresponding Secretaries have been appointed in many of the principal centres overseas (see below).
+
+**Branches**
+
+*Montreal*
+
+Hon. Secretary: Major P. Lindsay Hall, D.S.O., M.C., 1405, Bishop Street, Montreal.
+
+*New South Wales*
+
+Secretary: Frederick Daniell, 17, Bligh Street, Sydney.
+
+*Queensland*
+
+Hon. Secretary: Mrs. J. C. Mackay, Hibernian Building, Adelaide Street, Brisbane.
+
+South Australia
+
+Hon. Secretary: Geoffrey T. Clarke, F.C.A., M.P., Churchill Building, Gawler Place, Adelaide.
+
+Tasmania
+
+Hon. Secretary: H. W. Wilson, F.C.I.S., 117, Macquarie Street, Hobart.
+
+*Victoria*
+
+Secretary: H. A. Bartlett, 101, Queen Street, Melbourne, C.I.
+
+*Auckland*
+
+Hon. Secretary: E. A. Tuke, M.M., Queen's Arcade, Queen Street, Auckland.
+
+*Canterbury (N.Z.)*
+
+Hon. Secretary: H. H. P. Ballantyne, 118a, Gloucester Street, Christchurch.
+
+Otago (N.Z.)
+
+Hon. Secretary: Maurice Joel, LL.B., c/o Messrs. Aspinall & Joel, 150, Rattray Street, Dunedin, C.I.
+
+*Wellington (N.Z.)*
+
+Hon. Secretary: O. G. Thomas, 31-33, Johnston Street, Wellington.
+
+Ceylon
+
+Hon. Secretary: Chitra Fernando, 22, Albert Crescent, Colombo.
+
+Salisbury (S.R.)
+
+Hon. Secretary: C. W. Stumbles, P.O. Box 853, Salisbury, Southern Rhodesia.
+
+Bulawayo
+
+Hon. Secretary, Local Committee: Miss Una Etheridge, 24, Chilham Court, 11th Avenue, Bulawayo.
+
+**Honorary Corresponding Secretaries**
+
+Canada
+
+Alberta: Ven. Archdeacon S. H. Middleton, D.D., Macleod.
+
+British Columbia: Major H. Cuthbert Holmes, J.P., Victoria.
+
+Manitoba: Mr. Justice J. B. Coyne, Q.C., Winnipeg.
+
+Nova Scotia: R. V. Harris, Q.C., Halifax.
+
+Ontario: Dr. A. F. MacDonald, Toronto; Col. W. J. Brown, London, Ontario; Mortimer Little, Ottawa.
+
+Newfoundland: Lt.-Col. Cluny Macpherson, C.M.G., M.D., St. John's.
+
+Australia
+
+E. W. Gillett, LL.B., Perth, Western Australia.
+
+South Africa
+
+Cape Province: G. H. B. Coulter, Cape Town; H. C. Grierson Tuckey, Kimberley; F. Owen Eaton, F.R.I.B.A., Port Elizabeth; J. H. Kelley, East London.
+
+Natal: R. M. Cadman, LL.B., Durban; Dr. J. B. Davey, M.R.C.S., L.R.C.P., Maritzburg.
+
+Transvaal: Major V. M. Bradley, Johannesburg; Lt.-Col. W. W. Green, Pretoria.
+
+Basutoland
+
+J. P. I. Hennessy, Mafeteng.
+
+The Bechuanaland Protectorate
+
+C. G. B. Weatherlit, Debeeti.
+
+Swaziland
+
+W. A. Dyke Poynter, Mbabane.
+
+India
+
+Bihar: T. Benson Gyles.
+
+Madras: E. F. G. Hunter.
+
+Pakistan
+
+Karachi: Major F. P. A. Goodwin.
+
+* Premises or offices exist at these Branches.
+THE VICTORIA LEAGUE
+Address: 38 Chesham Place, S.W.1.
+Telephone: SLOane 6101-5.
+
+President: H.R.H. The Princess Alice, Countess of Athlone, G.C.V.O., G.B.E.
+Deputy President: Her Grace, Mary, Duchess of Devonshire, C.B.E.
+Chairman: Admiral Sir Cecil Harcourt, G.B.E., K.C.B.
+Vice-Chairmen: Sir Eric Machtig, G.C.M.G., K.C.B., O.B.E.; The Countess of Gowrie; Major-General Sir John Marriott, K.C.V.O., C.B., D.S.O., M.C.; The Lady Worsley, O.B.E.
+Hon Treasurer: Sir Henry Price, Bart.
+Secretary: Colonel R. W. Hills, O.B.E., M.C.
+Deputy Secretary: Mrs. A. E. Cheale, M.B.E.
+
+The Victoria League is a voluntary organization founded in 1901 to further friendship between all peoples of the Commonwealth irrespective of race, creed or political opinion. There are Victoria Leagues and correspondents throughout the Commonwealth with a membership of 28,000.
+
+The purpose is primarily to arrange hospitality in private homes to visitors from other parts of the Commonwealth. There are hostels in London and Edinburgh for students from Canada, the Commonwealth of Australia, New Zealand, and the Union of South Africa; and there is a Colonial Department for the special care of Colonial students and visitors. The despatch of books and newspapers to other Commonwealth countries and the linking of children by correspondence are carried out.
+
+The younger generation have their own department called the Young Contingent which has an age limit of 18-30.
+
+In Canada the Victoria League is affiliated with the Imperial Order Daughters of the Empire.
+
+THE OVER-SEAS LEAGUE
+(Incorporated by Royal Charter)
+Address: Over-Seas House, St. James's, London, S.W.1.
+Telephone: REGent 5051.
+
+President: Admiral the Rt. Hon. Earl Mountbatten of Burma, K.G., G.C.S.I., G.C.I.E., G.C.V.O., K.C.B., D.S.O.
+Chairman: Sir Arthur Longmore, G.C.B., D.S.O.
+Director-General: Air Vice-Marshal Malcolm Henderson, C.B., C.I.E., C.B.E., D.S.O.
+Secretary: Philip Crawshaw, M.B.E.
+
+The objects of the Over-Seas League are to promote friendship and understanding between the peoples of the Commonwealth and to maintain its traditions by individual service. There are branches, in many cases with premises, and 300 honorary corresponding secretaries throughout the Commonwealth. The League publishes a monthly journal Overseas.
+
+THE DOMINIONS FELLOWSHIP TRUST
+Address: 23A Cadogan Gardens, London, S.W.3.
+Telephone: SLOane 6822, 5871, 4647.
+
+Chairman of Management Committee: Miss Macdonald of Sleat, C.B.E.
+
+The Dominions Fellowship Trust was formed in 1948 out of the work started in 1916 by The Countess of Harrowby and Lady Frances Ryder. The object of the Trust is to welcome and befriend Rhodes Scholars and men and girls from Commonwealth countries, particularly undergraduates or students. There is no membership fee or subscription, but guests of the Trust must be personally introduced or vouched for by a responsible official. Social functions are arranged and visits to hostesses in the country are planned for vacations or for Service leave. Advice and assistance can also be given on personal problems.
+LONDON HOUSE
+
+(The Dominion Students' Hall Trust)
+
+Address: Guilford Street, London, W.C.1.
+
+Telephone: TERminus 8888.
+
+Patron: Her Majesty The Queen.
+
+Chairman of Council of Governors: Marshal of the Royal Air Force the Rt. Hon. The Viscount Portal of Hungerford, K.G., G.C.B., O.M., D.S.O., M.C.
+
+Vice-Chairmen: J. S. Crossley; P. L. M. Wright, D.L.
+
+Warden: Brigadier E. C. Pepper, C.B.E., D.S.O., D.L.
+
+Controller: Lieut.-Colonel G. L. Sprunt, M.B.E.
+
+London House was founded in 1930 by the late F. C. Goodenough, with the object of providing a collegiate centre where men students (principally postgraduate) from all parts of the British Commonwealth can reside and meet in conditions comparable to those of one of the great Universities of the country. The building is situated on an island site covering about 1½ acres and has frontages to Mecklenburgh Square, Mecklenburgh Place, Guilford Street and Doughty Street. In addition to possessing, at present, accommodation for some 275 students in study-bedrooms. London House has a library and spacious common-rooms. When the building is completed, there will be accommodation for nearly 350.
+
+Every attempt is made at London House to provide residents with any professional advice they may require on their arrival from overseas and also during their studies.
+
+Adequate games facilities exist and arrangements are made for residents to attend the principal traditional, sporting and social events held throughout the year.
+
+The close ties London House has with the Empire Societies enable hospitality for residents to be arranged in any part of the country desired.
+
+(The Sister Trust)
+
+Office address: London House, Guilford Street, London, W.C.1.
+
+Telephone: TERminus 8888.
+
+Chairman of Council of Governors: Sir Eric Machtig, G.C.M.G., K.C.B., O.B.E.
+
+Warden: Brigadier E. C. Pepper, C.B.E., D.S.O., D.L.
+
+Controller: Dame Jocelyn Woollcombe, D.B.E.
+
+The Sister Trust was formed in 1951 with the object of providing similar accommodation and amenities for women students and married students from the Commonwealth and for men and women students from the United States of America. The funds are derived from the Lord Mayor's National Thanksgiving Fund, which was launched in 1950. Plans are under consideration for providing a suitable building in Mecklenburgh Square to house approximately 100 women students from the Commonwealth and the United States of America, with some 20 flats for married students and their wives. In the meantime, a start has been made in temporary premises consisting of four houses in Guilford Street and Grenville Street accommodating 47 women students and nine flats in Mecklenburgh Square for married students.
+THE BRITISH COUNCIL
+
+Address: 65 Davies Street, London, W.l.
+Telephone: GROsvenor 8011.
+
+President: Sir Henry Dale, O.M., G.B.E., F.R.S.
+Chairman and Director-General: General Sir Ronald Adam, Bt., G.C.B., D.S.O., O.B.E.
+Deputy Director-General: K. R. Johnstone, C.M.G.
+Secretary: Miss B. M. H. Tripp.
+Controller, Commonwealth Division: R. Seymour, C.B.E.
+
+The British Council, by the terms of its Royal Charter, exists to promote a wider knowledge of the United Kingdom abroad and to develop closer cultural relations between the United Kingdom and other countries for the purpose of benefiting the British Commonwealth of Nations.
+
+The Council began work in Australia and New Zealand in 1947 and has been associated with visits to these countries of the Old Vic Theatre Company, the Boyd Neel Orchestra, the Ballet Rambert, the Stratford Festival Company, a Town Planning Exhibition, many fine arts exhibitions, and of eminent lecturers on a wide variety of subjects in the arts and sciences.
+
+Although not directly represented in Canada, the Council has been instrumental in securing visits there by the Sadlers Wells Ballet and other distinguished theatre companies and has co-operated closely with Canadian organizations in providing exhibitions, lectures and other services. Exhibitions have also been sent to South Africa and lecturers have from time to time visited the Union under the Council's sponsorship.
+
+In 1948, the Council opened offices in India and Pakistan and now has staffs at New Delhi, Bombay, Calcutta and Madras, and at Karachi, Lahore and Dacca. In Ceylon the Colombo centre was opened in 1950. Special courses for about 400 teachers of English and others were held during 1953, five in India, three in Pakistan, and one in Ceylon. Other activities have been Book Exhibitions, which toured all three countries, a visit to India and Pakistan by a small company performing scenes from Shakespeare's plays, and tours by many distinguished lecturers from the United Kingdom.
+
+The Council awards post-graduate scholarships and bursaries for study in the United Kingdom to citizens of Commonwealth countries. Many professional visitors from Commonwealth countries are enabled to study various aspects of life in the United Kingdom under arrangements made by the Council. Exchange visits of members of university staffs are arranged through the Commonwealth Interchange Scheme.
+
+In the United Kingdom the Council maintains offices or centres in London and elsewhere, mainly in university cities, to provide services for students, professional visitors, and others from overseas. The Council meets on arrival, and finds accommodation for, students for whose stay in the United Kingdom it is responsible or who are recommended to it by High Commissioners or United Kingdom Government departments. The Council is able to give advice about accommodation outside London to other Commonwealth students from overseas who seek its aid.
+
+Under the Council's auspices other services are made available to Commonwealth students. These include social and cultural events at the Council's centres, vacation and week-end courses arranged to give an insight into various aspects of life in the United Kingdom, visits to places of historical, cultural and industrial interest, and opportunities for students to find their way into the normal channels of family and community life in the United Kingdom.
+
+The Council, with the help of the civic authorities and others, has secured the establishment in Kensington and Hampstead of borough Commonwealth Students' Committees, the purpose of which is to assist the citizens of the district to make and maintain contact with the Commonwealth students living among them. The London student centre is at 3, Hanover Street, W.l.
+THE ROYAL INSTITUTE OF INTERNATIONAL AFFAIRS
+
+Address: Chatham House, 10 St. James's Square, London, S.W.l.
+
+Telephone: WHItehall 2233.
+
+Presidents: The Rt. Hon. Viscount Cecil of Chelwood, Q.C.; The Rt. Hon. Sir Winston Churchill, K.G., O.M., C.H., D.L., M.P.; Lionel Curtis, C.H.; The Rt. Hon. Anthony Eden, M.C., M.P.; The Rt. Hon. Viscount Samuel, G.C.B., G.B.E.
+
+Chairman of Council:
+
+Vice-Chairmen of Council: Lieut.-General Sir Ian Jacob, K.B.E., C.B.; The Rt. Hon. Kenneth Younger, M.P.
+
+Honorary Treasurer: Sir Alan Rae Smith, K.B.E.
+
+Director-General: Ivison S. Macadam, C.V.O., C.B.E.
+
+Secretary: Ian Grey.
+
+The Institute, which is an entirely unofficial and non-political organization, was founded during the Peace Conference as a result of a meeting held at the Hotel Majestic on 30th May, 1919, by Members of the United Kingdom, the Dominions and the United States Delegations, who, in the course of their work at the Conference, had come to realize the need in the post-war world for a more widespread and accurate knowledge of foreign affairs. Originally it was envisaged as an Institute with a British and an American Branch, but those appointed to draw up the detailed plans for the new Institute decided that there must be completely autonomous organizations in the United Kingdom and in the United States. The American Branch became the Council on Foreign Relations, New York, and the British Branch was formally inaugurated in London on 5th July, 1920, as the "British Institute of International Affairs." It was granted a Royal Charter in 1926. Although its publications are available to the general public, its membership is restricted to experts or specialists on some region or subject in the field of foreign affairs, and is confined to British subjects.
+
+The founders of Chatham House believed that an Institute founded to undertake research into international political problems should be precluded, as an organization, from expressing views and that the expression of opinions, as a result of research, should be left to individual members and to writers who would be free to say what they think without committing the Institute as a whole. The restriction of the membership to British subjects was also made in the interests of the free expression of individual opinions. These two fundamental principles have been adhered to throughout the 32 years of the Institute's existence.
+
+Private meetings and discussions on current international problems by leading authorities are regularly held at the Institute's headquarters. In addition to publishing a number of standard books (the best-known of which is the annual Survey of International Affairs, edited by Dr. Arnold J. Toynbee) and reports and periodicals on current international problems, Chatham House acts as a clearing-house for information on foreign affairs, its Library, information documents and Press archives being unique collections of material on this subject.
+
+THE ASSOCIATION OF UNIVERSITIES OF THE BRITISH COMMONWEALTH
+
+Address: 5 Gordon Square, London, W.C.l.
+
+Telephone: MUSeum 4578/9.
+
+Chairman: Sir Philip Morris, C.B.E., M.A., LL.D.
+
+Hon. Treasurer: Sir William Hamilton Fyfe, M.A., LL.D., D.Lit., F.R.S.Can.
+
+Secretary: J. F. Foster, M.A., LL.D.
+
+Assistant Secretary: A. L. Fleet, M.A.
+
+Most Universities and University Colleges of good standing in the Commonwealth are members of this Association, which was founded in 1912 as the Universities Bureau of the British Empire. The Association is a voluntary organization, financed by the subscriptions of its member institutions, and does not receive any government grant. Its functions include that of
+providing liaison between the administrations of the various Universities in the United Kingdom and other Commonwealth countries and the organization of periodical conferences. Congresses of the Universities of the Empire were held at quinquennial intervals until 1936; the series was resumed after the war by the sixth Commonwealth Universities Congress, attended by 350 delegates at Oxford in 1948, and the seventh was held at Cambridge on 13th-17th July, 1953. A smaller meeting of representative University heads is now held in a different Commonwealth country each year, that of 1949 being in Halifax, N.S., that of 1950 at Wairakei, N.Z., and that of 1951 at Delhi, India. The office of the Association also provides the secretariat of the Committee of Vice-Chancellors and Principals of the Universities of the United Kingdom, and organizes the annual Home Universities Conferences. It acts as the agent in London of overseas member institutions, particularly in inviting applications for vacant appointments on their staffs, and is the link between the national inter-University organizations such as the National Conference of Canadian Universities, the Australian Vice-Chancellors’ Committee, the South African Universities Bureau, the Inter-University Boards of India and of Pakistan, and the Inter-University Council for Higher Education in the Colonies. The Association’s office is open to enquiries on University matters, and the library, containing the calendars, handbooks, prospectuses, etc., of most Commonwealth University institutions, is available for reference purposes. A list of academic visitors to the United Kingdom is issued at regular intervals to interested organizations; it includes the names of those known or understood to be in the country at the time and those whose visits are pending. Among the Association’s publications are: the annual *Commonwealth Universities Yearbook* (containing staff directories and summarized information about all University institutions in the Commonwealth); *Higher Education in the United Kingdom* (a handbook for overseas students); *Proceedings of the Quinquennial Congresses of Commonwealth Universities*; *Proceedings of the Home Universities Conferences*, etc. A Note on the Functions of the Association, an official List of Commonwealth Universities and their addresses, a list of postgraduate awards, and the Annual Reports of the Executive Council, are also available as printed pamphlets.
+
+**THE ENGLISH-SPEAKING UNION OF THE COMMONWEALTH**
+
+*Address:* 37 Charles Street, Berkeley Square, London, W.1.
+
+*Telephone:* MAYfair 7400.
+
+*(Founded in 1918 and incorporating the Atlantic Union, founded in 1897, the American and British Commonwealth Association and Books Across the Sea, both founded in 1941.)*
+
+*Patron:* Her Majesty The Queen.
+
+*President:* H.R.H. The Duke of Edinburgh, K.G., K.T.
+
+*Founder:* Sir Evelyn Wrench, C.M.G., LL.D.
+
+*Deputy President:* Marshal of the R.A.F. the Rt. Hon. The Viscount Trenchard, G.C.B., O.M., G.C.V.O., D.S.O.
+
+*Vice-Presidents:* The Rt. Hon. Sir Winston Churchill, K.G., O.M., C.H., D.L., M.P.; The Rt. Hon. C. R. Attlee, O.M., C.H., M.P.
+
+*Chairman:* The Lord Baillieu, K.B.E., C.M.G.
+
+*Deputy Chairman:* Professor Winifred C. Cullis, C.B.E., M.A., D.Sc., LL.D.
+
+*Honorary Treasurer:* Lieut.-Col. R. L. Benson, D.S.O., M.V.O., M.C.
+
+*Director-General:* Frank Darvall, M.A., Ph.D.
+
+*Senior Director:* Miss Helena Mills John, O.B.E., M.A.
+
+*Secretary/Accountant:* C. Colbeck, A.S.A.A.
+
+In co-operation with **THE ENGLISH-SPEAKING UNION OF THE UNITED STATES**
+
+*Address:* 19, East 54th Street, New York 22, U.S.A.
+
+*Telephone No.:* MURray Hill 8-9300.
+
+*Chairman:* The Hon. Lewis W. Douglas.
+
+*President:* Mr. William V. Griffin, K.B.E.
+
+The English-Speaking Union of the Commonwealth, and its sister society, the English-Speaking Union of the United States, are voluntary
+organizations, incorporated respectively under the laws of the United Kingdom and of the United States, which share the common objective of "drawing together in the bond of comradeship the English-speaking peoples of the world." The English-Speaking Union of the Commonwealth has branches in Australia, Bermuda, Canada, England, India, Malta, New Zealand, Scotland and Wales, whilst the English-Speaking Union of the United States has branches in most of the American States. Membership of the movement was, in mid-1952, just over 20,000 in the United Kingdom, just under 20,000 in the United States, and just over 7,000 in overseas Commonwealth countries.
+
+The two Unions seek to promote interchange, understanding and friendship between the peoples of the United Kingdom and the Commonwealth overseas, of the Commonwealth overseas and the United States and of the United States and the United Kingdom. Advice, introductions, hospitality and other assistance are provided by the headquarters and branches of each Union to visitors from other English-speaking countries whether members of the Union or not. Knowledge of the different English-speaking countries is promoted through meetings of the Union, the provision of speakers to other organizations, the publication of a monthly magazine *The English-Speaking World*, etc. Subscribing members of the Union from overseas and United Kingdom members paying a special club rate of subscription have the use of residential club facilities at Concord and Dartmouth Houses in Charles Street, Berkeley Square, London, W.1 and non-residential club facilities in some other centres.
+
+Through its own Universities, Education, British-American Schoolboy Scholarships, Youth, and Common Interests Committees, and through the autonomous British Committee for the Interchange of Teachers between the United Kingdom and the United States, Fellowships, Scholarships and interchange opportunities are provided across the Atlantic. In addition the two Unions try to be of help to Commonwealth citizens visiting the United Kingdom or United States, and United Kingdom or United States citizens visiting the Commonwealth overseas, privately or under the auspices of bodies for teaching, study or research.
+
+In London and New York and in a number of branches there are special programmes for Younger Members.
+
+**SOCIETY FOR THE OVERSEA SETTLEMENT OF BRITISH WOMEN**
+
+*Address:* 43-44 Parliament Street, London, S.W.1.
+
+*Telephone:* WHItehall 2323.
+
+*President:* The Countess of Bessborough.
+
+*Vice-Presidents:* Margot Lady Davson, O.B.E.; Miss Edith Thompson.
+
+*Chairman of Executive Committee:* Mrs. Francis R. Phillips, O.B.E.
+
+*Vice-Chairman of Executive Committee:* Miss O. M. Hargreaves, O.B.E.
+
+*General Secretary:* Miss E. Cumber, O.B.E., M.A.
+
+The Society acts on behalf of the Commonwealth Relations Office in matters relating to the migration of women, and gives up-to-date information concerning opportunities in the Commonwealth in education, nursing, agriculture, social, clerical and household work. No fees are charged to applicants for employment or to employers.
+
+The organization of the Society is a system of committees and interviewing panels at headquarters working in co-operation with representatives and correspondents in the United Kingdom and overseas, all of whom act in a voluntary capacity.
+
+Women desiring to join friends or relations overseas are advised as to their travelling arrangements. Introductions are given to residents in the country to which a woman or family is going, thus ensuring a welcome on arrival and help with the initial difficulties of settlement.
+
+The Society has residential clubs for settlers in South Africa and Southern Rhodesia.
+The object of the Association, founded in 1920 in memory of the British pioneers who settled in South Africa one hundred years before, is to introduce suitable men and women into the country and help them to establish themselves in Southern Africa. It has no financial or other interest in the placing of settlers, but makes every effort to place the individual in the environment best suited to his preferences and capacities.
+
+The Association offers a free advisory service on all matters relating to settlement in Southern Africa to:
+
+(a) persons proceeding to assured employment;
+(b) men and women who are skilled or qualified in trades or professions, and who are desirous of obtaining employment;
+(c) those who have fixed incomes and wish to make their future homes in Southern Africa;
+(d) persons possessing sufficient capital to enable them to engage in farming.
+
+THE ROYAL AFRICAN SOCIETY
+
+Address: 18 Northumberland Avenue, London, W.C.2.
+
+Telephone: WHItehall 6733.
+
+President and Chairman of Council: Major-General the Rt. Hon. the Earl of Athlone, K.G., G.C.B., G.C.M.G., G.C.V.O., D.S.O.
+
+Vice-Chairman of Council: The Rt. Hon. the Lord Hailey, G.C.S.I., G.C.M.G., G.C.I.E.
+
+Chairman, Finance and General Purposes Committee: B. F. Macdonald.
+
+Secretary: Miss H. Heather.
+
+The Royal African Society, which is non-political, was founded in 1901, in memory of Mary Kingsley, to develop the interest of British subjects throughout the Empire in African problems and conditions, to investigate the usages, institutions, customs, religions, history, and languages of the Africa races, to facilitate the commercial and industrial development of Africa in the manner best fitted to harmonize the progress and welfare of its inhabitants with that of the rest of the world, and especially to enable the Society to keep in touch with and to assist those living in Africa who are engaged, officially or privately, in administration, agriculture, commerce or industry.
+
+The Society publishes a quarterly journal African Affairs.
+ROYAL ASIATIC SOCIETY
+Address: 56 Queen Anne Street, London, W.1.
+Telephone: WELbeck 8944.
+
+President: Professor Sir Ralph Turner, M.C., F.B.A., Litt.D.
+Director: Sir Richard Winstedt, K.B.E., C.M.G., F.B.A., D.Litt., Hon.L.L.D.(Malaya).
+Secretary: Mrs. M. Davis.
+
+The Royal Asiatic Society was founded in 1823 for the study of the history, sociology, institutions, manners, customs, languages, art, archaeology, and literature of Asia. The Society's Library contains about 60,000 books, with Sanskrit, Pali, Hindi, Arabic, Persian, Turkish, Malay, Javanese, Tibetan, Sinhalese, Burmese and Siamese manuscripts. It operates several trust funds for the publication of books on Oriental subjects, and publishes a Journal.
+
+EAST INDIA ASSOCIATION
+(India, Pakistan and Burma)
+Address: 3 Victoria Street, London, S.W.1.
+Telephone: ABBey 2161.
+
+President: The Rt. Hon. Lord Hailey, G.C.S.I., G.C.M.G., G.C.I.E.
+Chairman of Council: Sir John Woodhead, G.C.I.E., K.C.S.I.
+Vice-Chairmen: Sir Atul Chatterjee, G.C.I.E., K.C.I.E.; Sir Thomas Smith, V.D.
+Honorary Secretary: Sir Frank Brown, C.I.E.
+
+The Association was formed in 1866 for "the promotion of the public interest and welfare of the inhabitants of India generally." This phraseology is no longer applicable but the underlying purpose is maintained. The affairs of the countries named in the sub-title are discussed at the meetings of the Association in a spirit of sympathetic understanding. Friendly contact between the nationals of India, Pakistan, and Burma and British well-wishers is promoted by social gatherings, special attention being given to the exercise of hospitality to students from those countries temporarily resident in the United Kingdom. The membership subscription is £1 5s. per annum.
+
+THE ROYAL CENTRAL ASIAN SOCIETY
+Address: 2 Hinde Street, Manchester Square, London, W.1.
+Telephone: WELbeck 4823.
+
+President: General Sir John Shea, G.C.B., K.C.M.G., D.S.O.
+Chairman of Council: Admiral Sir Cecil Harcourt, G.B.E., K.C.B.
+Honorary Secretaries: W. H. Ingrams, C.M.G., O.B.E.; Colonel H. W. Tobin, D.S.O., O.B.E.; Group-Captain H. St. Clair Smallwood, O.B.E.
+
+The Royal Central Asian Society, founded in 1901, exists to encourage interest in the contemporary life of Central, Western and South-East Asia, and to promote friendship between British subjects and citizens of those countries to whom its membership is also open. It provides a centre through which information can be circulated on current events and modern developments in these areas. The quarterly Journal includes reports of the Society's lectures, discussions and papers, and also full reviews of books dealing with Central and Western Asia.
+ROYAL INDIA, PAKISTAN AND CEYLON SOCIETY
+
+Address: 3 Victoria Street, London, S.W.1.
+
+Telephone: ABBey 2161.
+
+President: The Rt. Hon. the Earl of Inchcape.
+Honorary Treasurer: Sir Frank Brown, C.I.E.
+Honorary Secretary: F. Richter, O.B.E., M.A.
+
+The Society was founded as the India Society in 1910 by a small body of artists and men of letters, British and Indian, with a view to promoting in the West and in India a better understanding and appreciation of the cultures of the sub-continent. It holds itself aloof from politics and seeks to unite all in the study and admiration of all that is beautiful and noble in the field of Indian, Pakistani and Ceylonese culture achievement whether found in India, Pakistan and Ceylon or in those countries which have been influenced by or have influenced them. In 1950 the Society was expanded to include Ceylon.
+
+The Society operates through the holding of lectures, film shows, dances, music recitals, books, an annual Summer School, and a twice-yearly journal Art and Letters.
+
+THE INDIA, PAKISTAN AND BURMA ASSOCIATION
+
+Address: Outer Temple Chambers, 222 Strand, W.C.2.
+
+Telephone: CENtral 0571/2/3:
+
+President: Sir John Woodhead, G.C.I.E., K.C.S.I.
+Vice-Presidents: Sir Henry Richardson; Sir Arthur Bruce, K.B.E., M.C.
+Chairman of the Executive Committee: A. T. Orr Deas, M.C.
+Hon. Adviser: Sir Percival Griffiths, C.I.E., I.C.S.(Retd.).
+Secretary: Geoffrey W. Tyson, C.I.E.
+
+The objects of the Association, formed in 1942 as the India-Burma Association, are to protect and promote the rights and interests of British associations and individuals engaged in industrial, commercial or trading enterprises in India, Pakistan and Burma or in commerce or trade between the United Kingdom and those countries.
+
+JOINT COMMITTEE ON INDIA
+
+Address: Outer Temple Chambers, 222 Strand, W.C.2.
+
+Telephone: CENtral 0571/2/3.
+
+Chairman: Sir John Woodhead, G.C.I.E., K.C.S.I.
+Deputy Chairman: S. Plowden Roberts, O.B.E.
+Secretary: Geoffrey W. Tyson, C.I.E.
+
+The Committee was formed in 1945 to represent United Kingdom trading interests with, and in, India and Burma. Pakistan was included in 1947. The Committee is composed of representatives of the Association of British Chambers of Commerce, British Insurance Association, Chamber of Shipping of the United Kingdom, Federation of British Industries, London Chamber of Commerce (East India Section), and the India, Pakistan and Burma Association.
+
+(Note. Particulars of Institutions and Societies connected with the Colonial Office and the Colonial Dependencies will be found in the Colonial Office List, published by H.M. Stationery Office.)
+PART II
+
+DEVELOPMENT OF THE CONSTITUTIONAL RELATIONSHIP BETWEEN THE MEMBERS OF THE COMMONWEALTH . . . . . . 49
+
+DEVELOPMENT OF IMPERIAL AND COMMONWEALTH CONFERENCES 67
+THE MEMBERS OF THE COMMONWEALTH
+
+The following is a brief description of the stages by which countries which were originally colonies and dependencies of a mother country have become free and equal partners in a Commonwealth of Nations.
+
+(2) At the beginning of the nineteenth century the most advanced form of government in those colonies was that known as representative government. Under this system, as it existed for instance in Upper and Lower Canada, the Executive consisted of a Governor appointed by the Crown and responsible to the Government of the United Kingdom, assisted by advisers nominated by him, while the Legislature consisted of two Chambers, one wholly nominated, and the other elected. The defect of this system was that it provided no means of resolving conflict between the Executive and the Legislature or between the two Houses of the Legislature itself. Such conflicts were not solely between the interests of the United Kingdom (as represented by the Governor) and those of the local community (as represented in the Legislature) but were to a great extent between different sections of the community, one represented by the Executive Council and the nominated Upper House and the other by the elected Lower House. In Lower Canada the situation was complicated by the existence of elements of the population of different racial origins and traditions, British and French. The result was that there were frequent deadlocks, not only in Upper and Lower Canada but also in the Maritime Provinces, where the Constitutions, though differing in detail, were similar in principle. Various political leaders in the Canadian Provinces put forward proposals for reform, chiefly modelled on the system adopted in the United States, e.g. by providing for election of the Upper House or even of the Governor, though in one or two instances they foreshadowed the solution ultimately adopted. The climax came when in 1837 there were armed risings in both Upper and Lower Canada, and it was in order to devise a remedy for a wholly unsatisfactory situation that Lord Durham in 1839 produced his famous Report, which was the starting point in the process that has led to the latest developments.
+
+(3) Lord Durham's solution was expressed in the following simple proposition:
+
+"Every purpose of popular control might be combined with every advantage of vesting the immediate choice of advisers in the Crown, were the Colonial Governor to be instructed to secure the co-operation of the Assembly in his policy by entrusting its administration to such men as could command a majority, and if he were given to understand that he need count on no aid from home in any difference with the Assembly that should not directly involve the relations between the mother country and the colony."
+
+(4) Lord Durham's solution was not immediately accepted in toto by the United Kingdom Government, which went no further than laying it down that members of the Executive Council would no longer hold office for life or during good behaviour but would be liable to be called on to retire whenever from motives of public policy or other reasons this was held expedient, but before many years had passed the system thus described, which became known as "responsible government," had been fully put into effect in Canada (i.e. the two Colonies of Upper and Lower Canada which had been united in 1840), and was extended as time went on to other Colonies where the population was predominantly British in origin. The dates at which responsible government may be regarded as having been instituted were New Brunswick 1847, Nova Scotia 1848, Prince Edward Island 1850, New Zealand 1854, Newfoundland 1855, Victoria 1855, New South Wales, South Australia and Tasmania 1856, Queensland 1859, Cape Colony 1872, Western Australia 1891, and Natal 1893. The Transvaal and the Orange Free State, which had been annexed in 1900 during the South African War, received responsible government in 1906 and 1907 respectively.
+(5) The system of responsible government as envisaged by Lord Durham fell short in certain respects of what afterwards came to be known as "Dominion status." As stated above, he contemplated that, while to a considerable extent the Colonies would be completely self-governing, in certain matters affecting relations with the mother country ultimate control would still rest with the United Kingdom. These he defined as "the constitution of the form of government, the regulation of foreign relations and of trade with the mother country, the other British Colonies and foreign nations, and the disposal of the public lands." This control was in practice exercised partly through the supervision of the acts of the Governor, who was responsible to the United Kingdom Government, partly through a power of veto of Colonial legislation and partly through the overriding powers of the United Kingdom Parliament. The Governor, who continued to be appointed by the Sovereign on the advice of United Kingdom Ministers and exercised his functions in accordance with Royal Instructions issued on their advice, was entitled to refuse assent to legislation passed by the local Legislature and, even if he had given assent, the legislation might be disallowed by the Crown acting on the advice of United Kingdom Ministers. The Governor was also entitled, and as regards some subjects required, to reserve for the Royal Assent any Bill passed by the Legislature. Settled Colonies carried with them the law of England, and it was held that no law enacted by a Colonial Legislature could be repugnant to that law. The United Kingdom Parliament had full power to legislate for the Colonies, whereas Colonial Legislatures were empowered to legislate for their particular Colony only, and there was at the best a serious doubt whether such Legislatures could pass laws having extra-territorial effect. Finally, although the judiciary in a Colony was wholly independent of that in the United Kingdom, there was in all cases provision for appeals, either as of right or by special leave, to the Judicial Committee of the Privy Council, which was thus the final arbiter on the interpretation and validity of Colonial legislation.
+
+(6) The developments of the 80 years following Lord Durham's Report are a history of the manner in which these limitations on full self-government were gradually removed but, before tracing briefly the process of their disappearance, reference may be made to another movement which grew up side by side with this, namely the combination of a group of neighbouring Colonies into a larger political unit.
+
+(7) This movement first developed in Canada. Lord Durham, when recommending the combination of Upper and Lower Canada, had thought of a wider union, but recognized that its accomplishment was not feasible for the moment. During subsequent years, however, various statesmen in Canada advocated the federal idea. The causes were varied. One factor was the internal political situation in the United Province of Canada where there was still rivalry between the communities of British and French origin respectively, but there were wider considerations as well. These were partly political, the desire to build up a strong unit in North America to balance the growing power of the United States, and partly economic, the necessity for developing the country as a whole, which called for railway connections between the several Provinces and the building of a transcontinental railway, projects which could only be effected if there were some form of unification of the different Provinces. In 1864, a Conference of delegates from the Province of Canada and the Maritime Provinces met to discuss a wider scheme of union and evolved a series of resolutions leading to federation. A meeting between representatives of Canada, Nova Scotia and New Brunswick and of the United Kingdom Government took place in London in 1866, and agreement was reached on the terms of an Act of Parliament, which was passed the next year as the British North America Act, 1867.
+(8) The Act provided for the issue of a Royal Proclamation declaring that the Provinces of Canada, Nova Scotia and New Brunswick should form one Dominion under the name of Canada, which would be divided into four Provinces, named Ontario, Quebec, Nova Scotia and New Brunswick. The Executive Government was vested in the Queen and provision was made for appointment of a Council to aid and advise the Government of Canada, styled the Queen's Privy Council for Canada. Provisions in the Act relating to the Governor-General in Council signified the Governor-General acting by and with the advice of the Queen's Privy Council for Canada. There was to be one Parliament for Canada consisting of the Queen, a Senate and a House of Commons. Senators were to be summoned by the Governor-General by Instrument under the Public Seal of Canada, Ontario and Quebec being represented by 24 Senators each and Nova Scotia and New Brunswick by 12 Senators each, and there was provision whereby the Queen, on the recommendation of the Governor-General, might direct that three or six additional members could be added, representing equally Ontario, Quebec and the two other Provinces. The House of Commons was to consist of elected Members representing the four Provinces in specified proportions and provision was made for readjustment on the completion of each decennial census. Legislation passed by both Houses was to be presented to the Governor-General, who might either assent in the Queen's name, withhold assent or reserve the Bill for the signification of Her Majesty's pleasure. Legislation assented to by the Governor-General might be disallowed by the Queen in Council within two years. For each Province there was to be a Lieutenant-Governor, appointed by the Governor-General in Council, and a Legislature. Provincial legislation might be disallowed by the Governor-General in Council within one year. The Act set out in detail the subjects on which the Parliament of Canada and the Provincial Legislatures might legislate, the residual power resting with the former. The only subjects to which it is necessary to refer here are that the Parliament and Government of Canada were to have all powers necessary for performing the obligations of Canada or of any Province towards foreign countries arising under treaties between the British Empire and these countries, and that a Provincial Legislature was empowered to amend the Constitution of the Province except as regards the office of Lieutenant-Governor.
+
+(9) Provision was made for admission into the Union by Order of Her Majesty in Council of Newfoundland, Prince Edward Island and British Columbia on addresses from the Parliament of Canada and the respective Legislatures, and of Rupert's Land and the North-Western Territory on addresses from the Parliament of Canada, on terms and conditions expressed in the addresses and approved by Her Majesty, with consequential provisions as to representation of Prince Edward Island and Newfoundland in the Senate.
+
+(10) The Proclamation envisaged by the Act was issued on the 22nd May, 1867, and the new Dominion of Canada came into being on the 1st July of that year. Rupert's Land and the North-Western Territory were transferred to Canada in 1870, and an Act was passed in the following year making clear the power of Canada to create new Provinces and to increase the number of members of Parliament so as to provide for their representation. In accordance with these provisions the Province of Manitoba was constituted in 1870, and British Columbia was added to the Dominion in 1871. Prince Edward Island joined in 1873. In 1905, two further Provinces, Saskatchewan and Alberta, were formed out of territories not then possessing Provincial status.
+
+(11) In the case of Australia, the movement in favour of federation was originally prompted by the desire for freedom of trade between the several Colonies, and was encouraged by the United Kingdom Government from this point of view. As early as 1850 it was proposed, in a Bill establishing the Constitution of Victoria, to include provision for a federal legislature to deal with
+certain matters of trade and communications, but the proposal was not regarded with favour in Australia and was not pursued. For some time inter-Colonial rivalry prevented any progress, but the movement received an impetus about 30 years later owing to fears of foreign penetration in the Pacific and, as a result of a Conference at Sydney in 1883, an Act of Parliament was passed in 1885 setting up a Federal Council for Australasia. This was to consist of two representatives each from self-governing Colonies which adopted the Act and one representative each from non-self-governing Colonies, with power to legislate regarding the relations of the Colonies with the Islands in the Pacific, fisheries beyond territorial limits, enforcement of judgments and civil and criminal process, extradition and the prevention of influx of criminals, as well as any other matter referred to it by Order in Council on request of the Colonial Legislatures, and a number of specified matters of general interest if referred to it by the Legislatures of any two or more Colonies. Although some of the Colonies (including New Zealand and New South Wales) refrained from sending representatives to its meetings, the Council passed certain Acts and adopted resolutions on certain matters during the period between 1886 and 1897. Contemporaneously discussion was proceeding with a view to a comprehensive federation, embracing a Federal Executive and a Federal Judiciary as well as a Federal Legislature, on the lines of that existing in Canada. While considerations of foreign policy and defence were the predominant motive, economic arguments such as the promotion of free trade within Australia and the development of railway communications also played their part. At a Conference at Melbourne in 1890 a resolution was adopted inviting the several Legislatures to appoint representatives to a National Australasian Convention, which duly met in 1891 and drew up a Bill to constitute a Commonwealth of Australia. This failed to command the approval of the several Legislatures, but a further Convention which met during 1897-98 prepared a revised Bill which was submitted to a referendum and approved by the people in some, but not all, of the Colonies. After a further Conference in 1899 and further referenda, all the Australian Colonies except Western Australia adopted Addresses to the Queen praying for enactment of the Bill as agreed amongst them and, at the request of the United Kingdom Government, sent delegates to London to confer with the Government as to any amendments which the latter might consider desirable. Western Australia also sent a delegate to represent its views. As a result the Commonwealth of Australia Constitution Act, 1900, was passed by the United Kingdom Parliament, establishing a Constitution substantially in the form of the draft agreed in Australia, the most important alteration being one relating to appeals to the Judicial Committee of the Privy Council.
+
+(12) The Act provided that the Queen might, with advice of the Privy Council, issue a Proclamation declaring that as from an appointed day the people of New South Wales, Victoria, South Australia, Queensland and Tasmania, and, if Her Majesty were satisfied that the people of Western Australia had agreed thereto, of Western Australia, should be united in a Federal Commonwealth to be known as the Commonwealth of Australia with a Constitution set out in the Act. Such of the above Colonies and New Zealand as might form part of the Commonwealth, as well as any other territories admitted to the Commonwealth as part thereof, were to be known as "States," and the States forming part of the Commonwealth at its establishment were to be known as "Original States."
+
+(13) By the Constitution the executive power was vested in the Queen and was to be exercisable by the Governor-General as Her Majesty's Representative, who might appoint Ministers of State. Parliament was to consist of the Queen, a Senate and a House of Representatives. Both Houses were to be elected in accordance with provisions to be made by law. The Senate would be com-
+posed of six members from each State, with provision for increase or decrease, provided that equal representation of Original States would be maintained and no Original State would have less than six Senators. Representation of the States in the House of Representatives would be proportionate to their respective populations. The Governor-General was to have power to refuse assent to legislation passed by both Houses or to reserve it for Her Majesty's pleasure, and there was also provision for disallowance. Special arrangements were laid down as to procedure in the event of a deadlock between the two Houses. The Constitution set out the subjects on which the Commonwealth and the States might legislate, the residual powers resting, not as in Canada with the Federal Parliament, but with the States. Among the subjects on which the Commonwealth Parliament was empowered to legislate were trade, taxation, naval and military affairs, communications, naturalization, immigration and emigration, and external affairs. Except as provided in the Constitution, the Constitutions of the States were not affected. Consequently the States retained Governors appointed by the Sovereign (instead of Lieutenant-Governors appointed by the Federal Executive as in Canada), and State legislation was subject to disallowance only by the Sovereign and not by the Governor-General.
+
+A High Court was to be established with original jurisdiction in certain matters, including treaty questions and matters arising between States, and appellate jurisdiction in State cases. The existing position as to appeals to the Judicial Committee was to be maintained, with a proviso that there should be no appeal from a judgment of the High Court on a matter relating to the respective powers of Commonwealth and States, unless the High Court issued a certificate. The Commonwealth was given power to legislate limiting the matters in respect of which special leave might be asked, though any such Bill must be reserved. The Commonwealth was to have power to admit new States and to legislate for territories surrendered by a State or placed under its authority by the Crown.
+
+(14) A referendum in Western Australia resulted in a large majority in favour of entering into federation. Accordingly on the 17th September, 1900, a Proclamation including all six States was issued, creating the Commonwealth as from the 1st January, 1901. In 1905, Papua was transferred to the Commonwealth by Letters Patent, and the Commonwealth assumed administration of the Northern Territory (formerly part of South Australia) in 1911 and of Norfolk Island (formerly administered by New South Wales) in 1914.
+
+(15) As regards South Africa, proposals for the creation of a federation, to include not only the Colonies of the Cape and Natal but also the independent Republics of the Transvaal and the Orange Free State were put forward as early as 1871, with the object of securing uniform legislation, better postal and railway facilities and a more effective native policy. The United Kingdom Government pressed these proposals, but they were not acceptable locally, and it was not until after the South African War of 1899 to 1902 that the matter again became a live issue. As in the case of Canada and Australia, economic as well as political considerations played an important part. Differences in connection with customs tariffs and railway rates had long existed between the several countries and had only been partially solved by arrangements for a Customs Union and, after the South African War, combined railway management. In 1908 a Convention representing the four self-governing Colonies and Southern Rhodesia (as observers) met in Cape Town and by the following year it had produced a draft Constitution, which, however, would constitute not a federation but a union. This was approved by the Parliaments of the Cape, the Transvaal and the Orange River Colony and by a referendum in Natal, and delegates proceeded to London for discussion with the United Kingdom Government. As a result an Act, the South Africa Act, 1909, was passed, establishing the Union of South Africa.
+(16) The Act provided that a Proclamation might be issued, declaring that the four Colonies should be united in a legislative union under one Government. The Colonies would become Provinces of the Union. The Executive Government was vested in the King and might be exercised by His Majesty in person or by a Governor-General as His Majesty's representative. The Governor-General would be advised by an Executive Council, whose members would be chosen and summoned by him. Parliament would consist of the King, a Senate and a House of Assembly. The Senate was to consist partly of nominated members and partly of elected members, eight from each Province. The House of Assembly was to consist of elected members, the number from each Province being specified in the Act. Deadlocks between the two Houses were to be dealt with by a joint sitting. The Governor-General would have power to refuse assent to legislation passed by both Houses or to reserve it for His Majesty's pleasure, and there was also provision for disallowance. Each Province would have a chief executive officer called the Administrator, appointed by the Governor-General in Council, and an elected Provincial Council empowered to legislate on certain specified subjects, including education. Legislation passed by a Provincial Council was to be presented to the Governor-General in Council, who might assent, withhold assent or reserve the ordinance for further consideration. There was to be a Supreme Court with divisions in each Province. There would be no appeal to the King in Council, except by special leave or under the Colonial Courts of Admiralty Act, 1890, and the Union Parliament might limit the matters in which special leave could be asked, though any such Bill must be reserved. Provision was made whereby the King in Council might, on addresses from the Union Houses of Parliament:
+
+(a) admit into the Union the territories administered by the British South Africa Company (Northern and Southern Rhodesia) on terms expressed in the addresses and approved by His Majesty; and
+
+(b) transfer to the Union the Government of any territories other than those administered by the British South Africa Company, belonging to or under the protection of His Majesty, and inhabited wholly or in part by natives (viz. Basutoland, the Bechuanaland Protectorate and Swaziland), to be administered by the Governor-General in Council on terms set out in a Schedule to the Act.
+
+The Union of South Africa was brought into being by Proclamation on the 31st May, 1910.
+
+(17) It is now possible to consider the manner in which the original limitations on self-government were removed. Of the subjects on which Lord Durham recommended that United Kingdom control should be maintained, the first on which there was a relaxation was the control of the public lands. This had been linked with a proposal that a systematic scheme of immigration should be inaugurated, which was not in fact put into effect. Consequently this control was never seriously put into practice and speedily fell into abeyance.
+
+(18) The next of the reserved subjects on which progress was made was trade with other parts of the Empire. An Act of 1846 authorized Colonial legislatures to repeal or reduce duties imposed by United Kingdom legislation on foreign goods imported into the Colonies. In 1850 the Australian Colonies were permitted to enact tariffs, provided that nothing should be passed contrary to treaties, that duties should not be imposed on stores for Imperial Forces, and that there should be no differential duties. In 1852 New Zealand was given authority to legislate, subject to the first two of these reservations. The object was to enable the Colonies to adopt the policy of Free Trade which had been instituted in this country and, when Canada in 1859 established a protective tariff, the United Kingdom Government took exception to this action, while making it clear that the Act would not be disallowed. (It should be observed
+that the attitude of the United Kingdom Government was due not solely to a fear that United Kingdom interests might be prejudiced but to the belief that a protective system would not be altogether in the interest of Canada itself.) The Canadian Premier in reply pointed out that "Self-government would be utterly annihilated if the views of the Imperial Government were to be preferred to those of the people of Canada. It is therefore the duty of the present Government distinctly to affirm the right of the Canadian Legislature to adjust the taxation of the people in the way they think best, even if it should unfortunately happen to meet the disapproval of the Imperial Government. Her Majesty cannot be advised to disallow such Acts, unless her advisers are prepared to assume the administration of the affairs of the Colony, irrespective of the views of its inhabitants." No attempt was thereafter made to interfere with the freedom of the Colonies in tariff matters, though at various times the United Kingdom Government endeavoured to promote customs unions or free trade between neighbouring Colonies.
+
+(19) A further step was taken in 1897. Canada desired to institute preferential treatment for British goods, but this was contrary to Commercial Treaties with Belgium and Germany, applicable to the whole Empire. As a result of discussion at the Colonial Conference of that year, the United Kingdom Government agreed to denounce those treaties, and this action was taken in the following year.
+
+(20) As regards trade with foreign countries, it was early recognized that special arrangements between individual Colonies and individual foreign countries were both necessary and justifiable, especially as between Canada and the United States, and that Colonial representatives must be associated with the negotiation of such arrangements. The first instance was the Reciprocity Treaty with the United States of 1854, negotiated by the Governor-General of Canada (Lord Elgin) in close co-operation with Canadian statesmen. Numerous other cases arose in later years and, as time went on, the principal part in the negotiations came to be taken by Canadian representatives, though the British Embassy was invariably associated, to a greater or less degree, and the resulting treaty was always signed by the Ambassador as well as by the Canadian negotiator, the Ambassador signing first. This remained the position as late as 1922, when Commercial Treaties with France and Italy, negotiated entirely by Canadian Ministers, were signed, not only by those Ministers but also by His Majesty's Ambassador at Paris in the former case and by the Secretary of State for Foreign Affairs in the latter. This procedure, although in course of time it came to be little more than a formality, was originally intended to give the United Kingdom Government some control over the substance of the treaties and to ensure the observance of certain general principles, originally enunciated in 1865 and re-affirmed in a despatch from the Secretary of State for the Colonies in 1895, viz.:
+
+(a) that any concession made to a foreign State must be extended to every part of the British dominions; and
+
+(b) that no favour should be obtained from a foreign State, which would operate to the serious detriment of the trade of the United Kingdom or some other part of the Empire and, if such a favour was sought, endeavour should be made to secure it for the Empire as a whole, or at least for the Colonies specially interested.
+
+(21) General Commercial Treaties between the United Kingdom and foreign countries were originally concluded in respect of all parts of His Majesty's dominions, but in 1882 in the case of a treaty with Montenegro, a new practice was adopted, whereby the treaty would not apply to any of the self-governing Colonies unless notice to that effect were given subsequently. In 1899 a further practice was instituted, whereby any Colony to which a Commercial Treaty
+had been so extended could withdraw separately. Finally at the Imperial Conference of 1911 a resolution was adopted to the effect that this right of separate withdrawal should be extended to existing treaties which contained no such provision, and the United Kingdom Government took up the matter with all the foreign Governments concerned, most of whom agreed to the proposal.
+
+(22) In the case of multilateral treaties of a non-political character also, the special position of the self-governing Colonies came to be recognized. From early times it was the practice for them to be represented at the periodical Congresses of the Universal Postal Union, the voting power of the United Kingdom being fixed accordingly. In all these cases, however, they formed part of the United Kingdom delegation. From about 1886 onwards provisions for separate accession and withdrawal by Dominions, similar to those included in bilateral Commercial Treaties, were inserted in multilateral treaties dealing with non-political matters such as copyright, the white slave traffic, etc. At the Conference on Radio-telegraphy (1912) and Safety of Life at Sea (1913-14) the Dominions were separately represented by plenipotentiaries holding full powers from the King authorizing them to sign the resulting Conventions for their respective Dominions, though the full powers issued to the United Kingdom plenipotentiaries contained no similar geographical limitation and thus authorized them to sign for the whole Empire.
+
+(23) As regards amendment of the Constitution, Acts of Parliament of 1840 and 1850 gave to the Legislatures of the Australian Colonies certain powers of amendment, subject to the proviso that any amending legislation should be reserved for the signification of Her Majesty's pleasure. By an Act of 1857 New Zealand was given power of amendment of all but 15 sections of the New Zealand Constitution Act, 1852. These sections dealt, inter alia, with the establishment of a General Assembly of two Houses, an Oath of Allegiance to be taken by members of the Assembly, the power of the Governor to assent to, refuse assent to, or reserve Bills, and the power of disallowance. The Cape Colony and Natal were empowered under their Constitutional Instruments to amend their Constitutions, subject to reservation of amending legislation. Section 5 of the Colonial Laws Validity Act, 1865, provided that "every representative legislature shall in respect to the Colony under its jurisdiction have, and be deemed at all times to have had, full power to make laws respecting the constitution, powers and procedure of such legislature, provided that such laws shall have been passed in such manner and form as may from time to time be required by any Act of Parliament, Letters Patent, Orders in Council or Colonial Law for the time being in force in the said Colony."
+
+(24) As stated in paragraph 8, the British North America Act, 1867, gave to the Canadian Provinces power to amend their Constitutions (except as regards the Lieutenant-Governor), but no such power was conferred upon the Canadian Parliament. Consequently, any amendments to the Act, except as regards Provincial Constitutions, could be made only by the United Kingdom Parliament. Some importance was attached to this in Canada owing to the federal character of the Constitution. In practice, numerous amendments were made to the Act from time to time by the United Kingdom Parliament on addresses to the Sovereign from both Houses of the Canadian Parliament.
+
+(25) When, however, the Commonwealth of Australia was established in 1900, the Constitution, which, as stated in paragraph 12, was enacted by a United Kingdom Act of Parliament, included provision for its amendment without recourse to the United Kingdom Parliament, by means of a special procedure including a referendum. Similarly the South Africa Act, 1909, establishing the Union of South Africa, empowered the Union Parliament to amend the Act, subject to the proviso that any legislation repealing or altering certain
+sections (chiefly those relating to the native and coloured franchise in the Cape Province and the equality of the English and Dutch languages) would require a two-thirds majority of the members of both Houses sitting together. Moreover, Bills altering certain provisions of the Constitution would have to be reserved. These provisions were those relating to the House of Assembly, the powers of Provincial Councils and the provisions as to withholding of assent from and reservation of legislation, as well as those relating to appeals to the Judicial Committee of the Privy Council. The Irish Free State Constitution of 1922 could be amended by the Free State Parliament, subject to the terms of the "Irish Treaty" of 1921, though the Constitution contained the usual provision enabling the Governor-General to refuse assent to, or reserve, legislation passed by the two Houses.
+
+(26) It was in relation to foreign affairs generally that the progress to complete self-government was slowest, but even here there were developments. The Colonies were prepared generally to leave the control of the foreign policy of the Empire to the United Kingdom Government, though they claimed a right to be heard on particular issues which, usually for geographical reasons, specially concerned them. These chiefly arose in the relations between Canada (and to a lesser degree Newfoundland) and the United States, and as early as 1857 an assurance was given to Newfoundland that the Colony would be consulted before any alteration was made in the treaties affecting her, which related to fishery rights. There were, however, other instances. The annexation of Fiji in 1874 was largely the result of pressure by the Australian Colonies. In 1875 New South Wales, South Australia and Queensland raised the question of annexing New Guinea, and in 1883 Queensland actually purported to annex the territory, but this was not recognized by the United Kingdom Government, though part of New Guinea (now called Papua) was annexed by the United Kingdom. Both New Zealand and Australia were disturbed by the recognition of Germany's claim to Samoa. In 1906 Australia and New Zealand protested against the conclusion of the New Hebrides Convention with France without any consultation with them. The South African Colonies were interested, not only in relations with the neighbouring Republics of the Transvaal and the Orange Free State, but also in the question of German penetration in Africa, and these matters, especially the acquisition by Germany of South West Africa in 1883, led to a considerable amount of controversy between the United Kingdom and the Colonial authorities.
+
+(27) In the case of Canada (and to some extent Newfoundland) important issues frequently arose with the United States, of which the chief were the North Atlantic Fisheries, the Behring Sea Seal Fishery, and the Alaskan Boundary. It was the regular practice of the United Kingdom Government to proceed as far as possible in concert with the Canadian Government and, when appropriate, the Newfoundland Government. Between 1908 and 1914 a number of treaties specially affecting Canada were negotiated with the United States, including Arbitration Treaties, treaties relating to Boundary Waters and Pecuniary Claims, and a Pelagic Sealing Convention of 1911, to which Russia and Japan also were parties. All these were negotiated by His Majesty's Ambassador with assistance, where necessary, from Canadian representatives. Some of these treaties included provisions specially recognizing the separate status of the Dominions. The Arbitration Treaty of 1908 provided that reference to arbitration of any case affecting the interests of a Dominion could take place only with the Dominion's concurrence. The Boundary Waters Convention of 1909 provided for the setting up of an International Joint Commission of six members, three appointed by the President of the United States and three by His Majesty "on the recommendation of the Governor-General in Council of the Dominion of Canada." The Treaty provided that "any question or matters arising between the High Contracting Parties
+involving the rights, obligations or interests of the United States of America or of the Dominion of Canada either in relation to one another or to their respective inhabitants may be referred to the International Joint Commission by the consent of the two parties, it being understood that on the part of the United States any such action will be by and with the advice of the Senate and on the part of His Majesty's Government with the consent of the Governor-General in Council." The Treaty of 1914, which provided for the setting up of a Peace Commission to investigate questions arising between the two countries, included a provision to the effect that, if any such question affected, not mainly the interests of the United Kingdom, but mainly those of a Dominion, a representative of the Dominion would take the place on the Commission of the permanent British representative appointed under the Treaty.
+
+(28) By 1911 it had come to be recognized that some definite arrangement was necessary for consultation with the Dominions not only on treaties concerning them specifically but also on any political treaties of general application which might affect them, e.g. as raising issues of peace and war. The case which aroused most interest was the acceptance by the United Kingdom Government, without consultation with the Dominions, of the Declaration of London which was designed to regulate the exercise of belligerent rights at sea. The matter was discussed at the Imperial Conference of 1911 which adopted a resolution " (a) that the Dominions shall be afforded an opportunity of consultation when framing the instructions to be given to British delegates at future meetings of The Hague Conference and that conventions affecting the Dominions provisionally assented to at that Conference shall be circulated among the Dominion Governments for their consideration; and (b) that a similar procedure, when time and opportunity and the subject matter permit, shall as far as possible be used when preparing instructions for negotiation of other international agreements affecting the Dominions."
+
+(29) At the same Conference the Prime Minister of New Zealand (Sir Joseph Ward) brought forward a far-reaching proposal for an Imperial Council or Parliament, representing both the United Kingdom and the Dominions, to deal with issues of war and peace, foreign policy and treaties affecting the Empire. None of the other Prime Ministers favoured this proposal, the Prime Minister of the United Kingdom (Mr. Asquith) making the well-known remark that the authority for foreign policy could not be shared. It was, however, arranged after the Conference that the United Kingdom Government would welcome annual and prolonged visits of Dominion Ministers to London with liberty to attend meetings of the Committee of Imperial Defence and free and full access to the Prime Minister, the Foreign Secretary and the Colonial Secretary for information on all questions of Imperial policy.
+
+(30) One question of foreign policy which attracted some attention was the possibility of Dominion neutrality in time of war. As early as 1870 a suggestion was made in Victoria that the Colonies should be given the right of concluding treaties which would make them sovereign States and enable them to be neutral in a British war, but this idea met with no favour in any quarter. There was also some discussion in the Cape whether the Colony could be neutral in the South African war of 1899-1902. There was, however, at no time any serious dispute that, if any part of the Empire was at war, the whole Empire must be legally at war, though the extent to which in practice a Dominion would participate actively, e.g. by sending troops to the scene of hostilities, was a matter solely for the decision of the Dominion.
+
+(31) With the progressive relaxation of the control of Dominion affairs by the United Kingdom there had been some modification of the methods by which that control had been exercised, as described in paragraph 5. The procedure of the Governor's refusal of assent to legislation was, even in the
+earliest days of responsible government started with a smaller size bill. As a rule, reliance was placed on the power of royal assent. This was usually exercised only where United Kingdom matters were involved or where legislation was plainly ultra vires. Royal assent was refused in Canada (before 1867) and Newfoundland, away from such matters were withdrawn because they were regarded as unnecessary or undesirable. In Canada, disallowance of Canadian legislation became rare after the introduction of legislation after 1867. Australia had the advantage of the Commonwealth in Australia and the Union of South Africa. The authority of disallowance to use was made of the power of royal assent, while the jurisdiction of the Irish Free State did not provide for disallowance.
+
+(32) As regards reservation, there was no legislative power given to Governors and by the various instructions to Governors, there was any Bill provision was made for the Governor to make specific Statutes e.g., those statutory provisions relating to the Act of Merchant Shipping; whereby Bills in certain cases were subject to refusal as a result of representations to the Colonial Secretary. Such reservations in the case of Canada were limited to Bills relating to any of the categories of Bills included in the list of Bills which included a reservation of Bills relating to the affairs of the Crown or Colonies. The Royal Instructions to the Governor of New Zealand included a list of Bills to be referred to him.
+
+The Royal Instructions to the Governor of South Africa included a list of Bills to be referred to him.
+
+(a) altering the provisions of the laws of the land.
+
+(b) affecting the revenue laws.
+
+(c) required to be referred to the Governor.
+
+(d) required to be referred to the Colonial Secretary.
+
+The Royal Instructions to the Governor of Canada included a list of Bills which were subject to his assent. These included Bills relating to the affairs of the Crown or Colonies contrary to the provisions of the Constitution Act, 1867. As a result, Bills such as the Naval Service Act, 1914, were rejected since a refusal was necessary to maintain the balance between both legislative and executive powers.
+(16) The Act provided that a Proclamation might be issued, declaring that the four Colonies should be united in a legislative union under one Government. The Colonies would become Provinces of the Union. The Executive Government was vested in the King and might be exercised by His Majesty in person or by a Governor-General as His Majesty's representative. The Governor-General would be advised by an Executive Council, whose members would be chosen and summoned by him. Parliament would consist of the King, a Senate and a House of Assembly. The Senate was to consist partly of nominated members and partly of elected members, eight from each Province. The House of Assembly was to consist of elected members, the number from each Province being specified in the Act. Deadlocks between the two Houses were to be dealt with by a joint sitting. The Governor-General would have power to refuse assent to legislation passed by both Houses or to reserve it for His Majesty's pleasure, and there was also provision for disallowance. Each Province would have a chief executive officer called the Administrator, appointed by the Governor-General in Council, and an elected Provincial Council empowered to legislate on certain specified subjects, including education. Legislation passed by a Provincial Council was to be presented to the Governor-General in Council, who might assent, withhold assent or reserve the ordinance for further consideration. There was to be a Supreme Court with divisions in each Province. There would be no appeal to the King in Council, except by special leave or under the Colonial Courts of Admiralty Act, 1890, and the Union Parliament might limit the matters in which special leave could be asked, though any such Bill must be reserved. Provision was made whereby the King in Council might, on addresses from the Union Houses of Parliament:
+
+(a) admit into the Union the territories administered by the British South Africa Company (Northern and Southern Rhodesia) on terms expressed in the addresses and approved by His Majesty; and
+
+(b) transfer to the Union the Government of any territories other than those administered by the British South Africa Company, belonging to or under the protection of His Majesty, and inhabited wholly or in part by natives (viz. Basutoland, the Bechuanaland Protectorate and Swaziland), to be administered by the Governor-General in Council on terms set out in a Schedule to the Act.
+
+The Union of South Africa was brought into being by Proclamation on the 31st May, 1910.
+
+(17) It is now possible to consider the manner in which the original limitations on self-government were removed. Of the subjects on which Lord Durham recommended that United Kingdom control should be maintained, the first on which there was a relaxation was the control of the public lands. This had been linked with a proposal that a systematic scheme of immigration should be inaugurated, which was not in fact put into effect. Consequently this control was never seriously put into practice and speedily fell into abeyance.
+
+(18) The next of the reserved subjects on which progress was made was trade with other parts of the Empire. An Act of 1846 authorized Colonial legislatures to repeal or reduce duties imposed by United Kingdom legislation on foreign goods imported into the Colonies. In 1850 the Australian Colonies were permitted to enact tariffs, provided that nothing should be passed contrary to treaties, that duties should not be imposed on stores for Imperial Forces, and that there should be no differential duties. In 1852 New Zealand was given authority to legislate, subject to the first two of these reservations. The object was to enable the Colonies to adopt the policy of Free Trade which had been instituted in this country and, when Canada in 1859 established a protective tariff, the United Kingdom Government took exception to this action, while making it clear that the Act would not be disallowed. (It should be observed
+that the attitude of the United Kingdom Government was due not solely to a fear that United Kingdom interests might be prejudiced but to the belief that a protective system would not be altogether in the interest of Canada itself.) The Canadian Premier in reply pointed out that "Self-government would be utterly annihilated if the views of the Imperial Government were to be preferred to those of the people of Canada. It is therefore the duty of the present Government distinctly to affirm the right of the Canadian Legislature to adjust the taxation of the people in the way they think best, even if it should unfortunately happen to meet the disapproval of the Imperial Government. Her Majesty cannot be advised to disallow such Acts, unless her advisers are prepared to assume the administration of the affairs of the Colony, irrespective of the views of its inhabitants." No attempt was thereafter made to interfere with the freedom of the Colonies in tariff matters, though at various times the United Kingdom Government endeavoured to promote customs unions or free trade between neighbouring Colonies.
+
+(19) A further step was taken in 1897. Canada desired to institute preferential treatment for British goods, but this was contrary to Commercial Treaties with Belgium and Germany, applicable to the whole Empire. As a result of discussion at the Colonial Conference of that year, the United Kingdom Government agreed to denounce those treaties, and this action was taken in the following year.
+
+(20) As regards trade with foreign countries, it was early recognized that special arrangements between individual Colonies and individual foreign countries were both necessary and justifiable, especially as between Canada and the United States, and that Colonial representatives must be associated with the negotiation of such arrangements. The first instance was the Reciprocity Treaty with the United States of 1854, negotiated by the Governor-General of Canada (Lord Elgin) in close co-operation with Canadian statesmen. Numerous other cases arose in later years and, as time went on, the principal part in the negotiations came to be taken by Canadian representatives, though the British Embassy was invariably associated, to a greater or less degree, and the resulting treaty was always signed by the Ambassador as well as by the Canadian negotiator, the Ambassador signing first. This remained the position as late as 1922, when Commercial Treaties with France and Italy, negotiated entirely by Canadian Ministers, were signed, not only by those Ministers but also by His Majesty's Ambassador at Paris in the former case and by the Secretary of State for Foreign Affairs in the latter. This procedure, although in course of time it came to be little more than a formality, was originally intended to give the United Kingdom Government some control over the substance of the treaties and to ensure the observance of certain general principles, originally enunciated in 1865 and re-affirmed in a despatch from the Secretary of State for the Colonies in 1895, viz.:
+
+(a) that any concession made to a foreign State must be extended to every part of the British dominions; and
+
+(b) that no favour should be obtained from a foreign State, which would operate to the serious detriment of the trade of the United Kingdom or some other part of the Empire and, if such a favour was sought, endeavour should be made to secure it for the Empire as a whole, or at least for the Colonies specially interested.
+
+(21) General Commercial Treaties between the United Kingdom and foreign countries were originally concluded in respect of all parts of His Majesty's dominions, but in 1882 in the case of a treaty with Montenegro, a new practice was adopted, whereby the treaty would not apply to any of the self-governing Colonies unless notice to that effect were given subsequently. In 1899 a further practice was instituted, whereby any Colony to which a Commercial Treaty
+had been so extended could withdraw separately. Finally at the Imperial Conference of 1911 a resolution was adopted to the effect that this right of separate withdrawal should be extended to existing treaties which contained no such provision, and the United Kingdom Government took up the matter with all the foreign Governments concerned, most of whom agreed to the proposal.
+
+(22) In the case of multilateral treaties of a non-political character also, the special position of the self-governing Colonies came to be recognized. From early times it was the practice for them to be represented at the periodical Congresses of the Universal Postal Union, the voting power of the United Kingdom being fixed accordingly. In all these cases, however, they formed part of the United Kingdom delegation. From about 1886 onwards provisions for separate accession and withdrawal by Dominions, similar to those included in bilateral Commercial Treaties, were inserted in multilateral treaties dealing with non-political matters such as copyright, the white slave traffic, etc. At the Conference on Radio-telegraphy (1912) and Safety of Life at Sea (1913-14) the Dominions were separately represented by plenipotentiaries holding full powers from the King authorizing them to sign the resulting Conventions for their respective Dominions, though the full powers issued to the United Kingdom plenipotentiaries contained no similar geographical limitation and thus authorized them to sign for the whole Empire.
+
+(23) As regards amendment of the Constitution, Acts of Parliament of 1840 and 1850 gave to the Legislatures of the Australian Colonies certain powers of amendment, subject to the proviso that any amending legislation should be reserved for the signification of Her Majesty's pleasure. By an Act of 1857 New Zealand was given power of amendment of all but 15 sections of the New Zealand Constitution Act, 1852. These sections dealt, inter alia, with the establishment of a General Assembly of two Houses, an Oath of Allegiance to be taken by members of the Assembly, the power of the Governor to assent to, refuse assent to, or reserve Bills, and the power of disallowance. The Cape Colony and Natal were empowered under their Constitutional Instruments to amend their Constitutions, subject to reservation of amending legislation. Section 5 of the Colonial Laws Validity Act, 1865, provided that "every representative legislature shall in respect to the Colony under its jurisdiction have, and be deemed at all times to have had, full power to make laws respecting the constitution, powers and procedure of such legislature, provided that such laws shall have been passed in such manner and form as may from time to time be required by any Act of Parliament, Letters Patent, Orders in Council or Colonial Law for the time being in force in the said Colony."
+
+(24) As stated in paragraph 8, the British North America Act, 1867, gave to the Canadian Provinces power to amend their Constitutions (except as regards the Lieutenant-Governor), but no such power was conferred upon the Canadian Parliament. Consequently, any amendments to the Act, except as regards Provincial Constitutions, could be made only by the United Kingdom Parliament. Some importance was attached to this in Canada owing to the federal character of the Constitution. In practice, numerous amendments were made to the Act from time to time by the United Kingdom Parliament on addresses to the Sovereign from both Houses of the Canadian Parliament.
+
+(25) When, however, the Commonwealth of Australia was established in 1900, the Constitution, which, as stated in paragraph 12, was enacted by a United Kingdom Act of Parliament, included provision for its amendment without recourse to the United Kingdom Parliament, by means of a special procedure including a referendum. Similarly the South Africa Act, 1909, establishing the Union of South Africa, empowered the Union Parliament to amend the Act, subject to the proviso that any legislation repealing or altering certain
+sections (chiefly those relating to land) so closely linked in Cape Province and the eastern Cape Colony as they actually require a two-thirds majority of the voters to put them into effect. Moreover, this system, which has been so successful in preserving the powers of Provincial Councils, is not only a provision for assent from any majority of electors, but also a safeguard against the Judicial Committee of the Privy Council. To this end, the Constitution of 1874 does not merely provide for the terms of the "First Charter," but also for the manner in which usual provisions should be inserted when a new Act of Parliament passed by the two Houses.
+
+(26) It was a natural consequence that, when the question of complete self-government was raised by the British Government, the Colonies were prepared generally to accept the terms of the Imperial Act. However, there was a right to be heard or consulted in matters of legislation which especially concerned them. Thus, even from the time of Queen Victoria's reign (and to a lesser extent even earlier), all the Colonies had a right as far as possible to present their views to the Crown through a consultation between the Governor and the Colonial Secretary. This related to issues such as the establishment of courts, the administration of Finance, and the exercise of the legislative authority. In 1875 New South Wales sought advice on whether the question of annexation was relevant, and in 1876 the Colonies were asked to annex the Colony of Natal. The Colonial Office was consulted on the question of the status of the Basutoland Colony and the Transvaal, and the latter was also asked to consider the possibility of penetration by Great Britain. These issues were discussed at length during the South African War, and a decision was made to maintain a balance between the British Empire and the Boer Republics.
+
+In the case of Basutoland, the question revolved around issues relating to the future status of the Basotho people. The North African Frontier was drawn up by the British and the French, and the question remained open until the outbreak of the Anglo-Boer War. The question of the status of the Basotho people was addressed in the context of the Anglo-Boer War, and the question of the future of Basutoland was discussed extensively during the war.
+involving the rights, obligations or interests of the United States of America or of the Dominion of Canada either in relation to one another or to their respective inhabitants may be referred to the International Joint Commission by the consent of the two parties, it being understood that on the part of the United States any such action will be by and with the advice of the Senate and on the part of His Majesty's Government with the consent of the Governor-General in Council." The Treaty of 1914, which provided for the setting up of a Peace Commission to investigate questions arising between the two countries, included a provision to the effect that, if any such question affected, not mainly the interests of the United Kingdom, but mainly those of a Dominion, a representative of the Dominion would take the place on the Commission of the permanent British representative appointed under the Treaty.
+
+(28) By 1911 it had come to be recognized that some definite arrangement was necessary for consultation with the Dominions not only on treaties concerning them specifically but also on any political treaties of general application which might affect them, e.g. as raising issues of peace and war. The case which aroused most interest was the acceptance by the United Kingdom Government, without consultation with the Dominions, of the Declaration of London which was designed to regulate the exercise of belligerent rights at sea. The matter was discussed at the Imperial Conference of 1911 which adopted a resolution " (a) that the Dominions shall be afforded an opportunity of consultation when framing the instructions to be given to British delegates at future meetings of The Hague Conference and that conventions affecting the Dominions provisionally assented to at that Conference shall be circulated among the Dominion Governments for their consideration; and (b) that a similar procedure, when time and opportunity and the subject matter permit, shall as far as possible be used when preparing instructions for negotiation of other international agreements affecting the Dominions."
+
+(29) At the same Conference the Prime Minister of New Zealand (Sir Joseph Ward) brought forward a far-reaching proposal for an Imperial Council or Parliament, representing both the United Kingdom and the Dominions, to deal with issues of war and peace, foreign policy and treaties affecting the Empire. None of the other Prime Ministers favoured this proposal, the Prime Minister of the United Kingdom (Mr. Asquith) making the well-known remark that the authority for foreign policy could not be shared. It was, however, arranged after the Conference that the United Kingdom Government would welcome annual and prolonged visits of Dominion Ministers to London with liberty to attend meetings of the Committee of Imperial Defence and free and full access to the Prime Minister, the Foreign Secretary and the Colonial Secretary for information on all questions of Imperial policy.
+
+(30) One question of foreign policy which attracted some attention was the possibility of Dominion neutrality in time of war. As early as 1870 a suggestion was made in Victoria that the Colonies should be given the right of concluding treaties which would make them sovereign States and enable them to be neutral in a British war, but this idea met with no favour in any quarter. There was also some discussion in the Cape whether the Colony could be neutral in the South African war of 1899-1902. There was, however, at no time any serious dispute that, if any part of the Empire was at war, the whole Empire must be legally at war, though the extent to which in practice a Dominion would participate actively, e.g. by sending troops to the scene of hostilities, was a matter solely for the decision of the Dominion.
+
+(31) With the progressive relaxation of the control of Dominion affairs by the United Kingdom there had been some modification of the methods by which that control had been exercised, as described in paragraph 5. The procedure of the Governor's refusal of assent to legislation was, even in the
+earliest days of responsible government. In those days, as a rule, reliance was placed in the courts of the United Kingdom, where legislation was plainly ultra vires. Such legislation was invalid because they were regarded as measures of disallowance of Canadian legislation after 1867. Australia and the Union of South Africa did not provide for use of the power of disallowance, and the Free State did not provide for disallowance.
+
+(32) As regards reservation by Governors (and by the various legislative councils), any Bill, provision was made for specific Statutes e.g., those relating to Shipping) whereby Bills were reserved as a result of representations to the Governor. In the case of Canada, there were certain categories of Bills requiring reservation of Bills relating to the Royal Instructions or list, and the New Zealand Act included the list but omitted the Act requiring certain Bills. It was only rarely that Bills relating to Merchant Shipping were not reserved, although there was standing that amendments should be made.
+
+(33) As regards the Australian States, similar provisions were made of Bills to be reserved were:
+
+(a) altering the constitution of the State;
+
+(b) affecting the Governor;
+
+(c) required to be referred to the Governor;
+
+(d) required to be referred to the Governor.
+
+The Royal Instructions were made for Bills which must be reserved and require Royal Assent. These instructions were made in order to prevent contrary to the Constitution Act, 1867, as a result of Bills being made which were contrary to the Constitution Act, 1867, since a reserved Bill was not subject to disallowance or disallowance of both disallowance and disallowance of a particular Act.
+
+(34) The doctrine of disallowance was a result of the practice of certain colonial legislatures in the nineteenth century when they had been unable to make laws which were invalid by being contrary to the Constitution Act, 1867, or by being contrary to the Colonial Laws Validity Act, which was intended to prevent a Colonial law which was invalid from being made by a Governor who made under his authority in such an Act or by the Governor of the Country. It is interesting to note that the Act was found also to be a factor in the absence of Colonial legislation, and it was intended to serve
+a limiting effect as it limited the categories of cases in which a Colonial law might be held void owing to repugnancy to English law. To this extent its scope represents a further step in the direction of full self-government.
+
+(6) The power of the United Kingdom Parliament to legislate for all parts of the Empire came in time to be exercised in respect of self-governing Colonies only in certain classes of case:
+
+- where the subject matter was outside the powers of the local legislature, e.g., provisions having extra-territorial effect;
+- where relations with foreign countries were involved, e.g., legislation on extradition and copyright;
+- where some scheme of Empire-wide application was concerned, e.g., as regards nationality and merchant shipping.
+
+(7) Even in these cases, however, a procedure was often adopted which would enable the legislature of a self-governing Colony to pass its own legislation on the subject. Thus, it was provided in the Extradition Act, 1870, that the operation of the Act should be suspended in the case of any Colony which had not corresponding legislation, and a similar course was adopted in the Canada Act, 1911. In other cases it was provided that the United Kingdom Act was not to apply to a Dominion unless adopted by its Parliament, e.g., Part II of the British Nationality and Status of Aliens Act, 1914, which provided for naturalization of aliens with Empire-wide validity. In the case of the Copyright Act, 1911, alternatives were provided whereby either (a) a Dominion might adopt the Act or (b) separate Dominion legislation could be accepted as equivalent. Sometimes, when there was no doubt as to the ability of the Dominions to legislate themselves on the subject matter, there was express provision that the Act did not apply to them, e.g., the Maritime Conventions Act, 1911, the Merchant Shipping (Convention) Act, 1914, and the Official Secrets Act, 1920. When it was intended that an Act of Parliament should apply to the Dominions in toto, it became the practice to consult the Dominions before enactment. Thus, the British Nationality and Status of Aliens Act, 1914, was the result of correspondence with Dominion Governments and discussion at the Imperial Conference extending over a period of more than ten years. In this way there was established the convention described in the third preamble to the Statute of Westminster, that the United Kingdom Parliament would not legislate for a Dominion without its request and consent.
+
+(8) Just as control over the local Legislatures was progressively relaxed, so was control over the local Executive, which rested upon the position whereby the Governor was appointed from home on the advice of United Kingdom Ministers and was, in effect, the representative of the United Kingdom Government in matters where conflict might arise with the local authorities. It will be observed that Lord Durham's recommendation quoted in paragraph 3 referred to the Governor securing "the co-operation of the Assembly in his policy," which implied that the ultimate responsibility for the policy of a Colony rested with the Governor rather than with his Ministers. It was in fact originally provided in the Royal Instructions that the Governor should preside at meetings of the Executive Council and could act in opposition to the opinion of the Council, if he thought fit, provided that he reported immediately to the Secretary of State. These provisions were deleted from the Canadian Royal Instructions in 1878, and were never inserted in those for the Commonwealth of Australia and the Union of South Africa, though they remain in the Royal Instructions for the Australian States (issued in 1900), while the provision as to acting contrary to the opinion of the Executive Council appears in the New Zealand Royal Instructions of 1917. Apart from these formal changes, the practical reduction or elimination of the exercise of the reserve powers of the United Kingdom Government necessarily carried
+with it a diminution in the representational character of the Governor-General until he could no longer be regarded as in any real sense an officer of the United Kingdom Government. He still remained the official channel of communication between the two Governments and was appointed on the advice of United Kingdom Ministers, but it became the practice to consult the Dominion Government as to the person to be appointed, and in some instances to propose to them a list of two or three names from which to make a selection.
+
+(38) As regards appeals to the Judicial Committee of the Privy Council, as stated in paragraphs 13 and 16, the Constitution Acts of the Commonwealth of Australia and the Union of South Africa conferred on those Dominions the powers, within certain limits, to abolish the appeal. The Judicial Committee itself showed reluctance to grant special leave to appeal from Dominions, except in cases of considerable importance, and in criminal cases practically never granted leave at all.
+
+(39) As a result of these changes, which it may be observed had come about gradually and usually ad hoc as a result of some individual instance forming a precedent for the future, rather than as a deliberate process of development, by 1914 the position had been reached that the Dominions (Canada, the Commonwealth of Australia, New Zealand, the Union of South Africa and Newfoundland) had in fact, even if not in form, complete control over their own internal affairs and over trade with other countries but had no such control over general relations with foreign countries, though their claim to be consulted on important issues of foreign policy had to some extent been admitted. This limitation is strikingly illustrated by the fact that, when war was declared on Germany on the 4th August, 1914, there had been no consultation with the Dominions. It was, however, recognized that the constitutional position was unsatisfactory, and that the Dominions were entitled to a voice in the conduct of the war and the eventual peace settlement. This led to the meetings of the Imperial War Cabinet in 1917 and 1918, at which the Dominions were represented on a footing of equality with the United Kingdom, and to the special arrangements made for the participation of the Dominions (other than Newfoundland) and India at the Paris Peace Conference, which resulted in their separate signature of the various Peace Treaties and their admission to the League of Nations as original members. In this way the status of these Dominions as separate international entities became recognized, and during the following years various steps were taken to give effect internationally to this status.
+
+(40) The first of these was the appointment of diplomatic and consular representatives in foreign countries. In 1920 it was agreed that a Canadian Minister could be appointed at Washington. He was to be the ordinary channel of communication with the United States Government in matters of purely Canadian concern, acting upon instructions from, and reporting to, the Canadian Government, though, in the absence of the Ambassador, he was to take charge of the whole Embassy and of the representation of Imperial as well as Canadian interests. No appointment was made at the time and, when in 1924 an Irish Free State Minister was appointed at Washington, it was arranged that he should be entirely independent of the Ambassador. This precedent was followed when the Canadian Minister was appointed in 1926, and numerous similar appointments were made by these and the other Dominions as time went on. In 1943 the status of the Canadian Legation at Washington was raised to that of Embassy, and similar action was taken in other cases. In 1927 the United States reciprocated by appointing Ministers in Ottawa and Dublin, and this practice of appointing separate Ministers in Dominions was gradually adopted by most other foreign countries. As regards consular representation, it had long been the practice of foreign
+countries to appoint consular officers in the Colonies, and a procedure of appointing Dominion Consular representatives in foreign countries was initiated by the Irish Free State and the Union of South Africa in 1930.
+
+(41) There were also developments as regards the method of representation of the Dominions at international conferences. At the Paris Peace Conference the Dominion representatives had formed part of a British Empire Delegation (though entitled also to a limited form of separate representation) and, although their separate membership of the League of Nations and eligibility for election to non-permanent seats on the Council of the League had been recognized in 1919, the same arrangement was made at the Washington Naval Conference of 1922. At the Lausanne Conference of 1923, which negotiated the Peace Treaty with Turkey, the Dominions were not represented at all, owing to French opposition, and at the London Reparation Conference of 1924 they secured representation only through a panel system. Thereafter, however, it was admitted that the Dominions were entitled to representation at international conferences, whether held under the auspices of the League or not, by separate delegations on an equality with the United Kingdom and foreign delegations, and no difficulty was experienced in securing this.
+
+(42) As regards Treaty procedure, a new departure was made in 1923, when a Treaty between Canada and the United States relating to the Pacific Halibut Fishery was signed only by a Canadian plenipotentiary and not, as had hitherto been the rule, by His Majesty’s Ambassador as well (see paragraph 20). The question of procedure for negotiation, signature and ratification of treaties was discussed at the Imperial Conference of 1923, which adopted a lengthy resolution on the subject. The most important part was that which enunciated the principle of intra-Commonwealth consultation in the following terms:
+
+“(a) It is desirable that no treaty should be negotiated by any of the Governments of the Empire without due consideration of its possible effect on other parts of the Empire, or, if circumstances so demand, on the Empire as a whole.
+
+“(b) Before negotiations are opened with the intention of concluding a treaty, steps should be taken to ensure that any of the other Governments of the Empire likely to be interested are informed so that, if any such Government considers that its interests would be affected, it may have an opportunity of expressing its views, or, when its interests are intimately involved, of participating in the negotiations.”
+
+(43) The question of Treaty procedure was further considered at the Imperial Conference of 1926, which not only proposed a number of changes of form, designed to emphasize the equal status of the Members of the Commonwealth, but also recommended the expansion of paragraph (b) of the 1923 resolution, so that the obligation would be to inform all other Commonwealth Governments whether likely to be interested or not. It also recommended that this principle of information and consultation should apply, not merely to treaty negotiations, but to the conduct of foreign policy generally.
+
+(44) Another respect in which the international status of the Dominions was recognized was the agreement that it was open to a Dominion to define, within the general circle of British subjects, those persons who were nationals or citizens of the Dominion. Canada in 1920 and the Union of South Africa in 1927 passed legislation defining their nationals, and the Irish Free State similarly defined its citizens in 1935, though in this case the legislation was so framed that these citizens were not, under Free State law, British subjects.
+
+(45) Consequently it was possible for the Imperial Conference of 1926 to frame the historic definition of the status of Great Britain and the Dominions as “autonomous communities within the British Empire, equal in status, in no
+way subordinate one to another in any aspect of their domestic or external affairs, but united by a common allegiance to the Crown and freely associated as members of the British Commonwealth of Nations.” The Conference did not purport to lay down a constitution for the British Commonwealth or even to point to new lines of constitutional development, but merely to describe a constitutional relationship which already existed and, as shown above, had in many respects existed for a considerable time. Apart from this definition, the Conference drew attention to various matters in which constitutional forms and practice, surviving from the early days of responsible government, were inconsistent with the constitutional position. Most of these, as mentioned in the preceding paragraphs, were in the legislative sphere, and the possibility of amending these was considered by the Conference on the Operation of Dominion Legislation of 1929, whose Report was approved by the Imperial Conference of 1930. Legal effect was given to the main recommendations by the Statute of Westminster, 1931.
+
+(46) The principal changes in the law effected by the Statute of Westminster were as follows:
+
+1. Repeal of the Colonial Laws Validity Act in respect of Dominions and conferment of power on Dominions to repeal or amend United Kingdom legislation which applied to them, thus sweeping away the doctrine of repugnancy (see paragraph 34).
+
+2. Recognition of the power of Dominions to legislate with extra-territorial effect.
+
+3. Statutory force for the convention mentioned in paragraph 36 that the United Kingdom Parliament would not legislate for Dominions without their request and consent.
+
+4. Repeal of certain statutory provisions requiring reservation of Dominion legislation (see paragraph 32).
+
+At the same time it was provided, at the request of the Dominions concerned, that
+
+(a) the above provisions should not apply to the Commonwealth of Australia, New Zealand and Newfoundland unless adopted by their Parliaments;
+
+(b) that the power to legislate in disregard of United Kingdom legislation would not apply to amendment of the Constitutions or Constituent Acts of Canada, the Commonwealth of Australia and New Zealand (see paragraphs 23 and 24), though the Colonial Laws Validity Act was repealed in respect of the Canadian Provinces;
+
+(c) that the position of the Australian States was not affected.
+
+(47) As regards reservation and disallowance generally, the Conference of 1929 had placed it on record that these were obsolete and that, in so far as statutory provision had been made for them, such provision could be repealed by the appropriate Parliament. The only qualification was in respect of a power of disallowance of any legislation altering to the detriment of stockholders the conditions applicable to Dominion Securities which had been admitted to the Trustee List in the United Kingdom under the Colonial Stock Act.
+
+(48) Apart from legislative forms and treaty procedure (as to which see paragraph 43), the most important matter dealt with by the Imperial Conference of 1926 on the constitutional side was the position of Governors-General. The Conference agreed that “the Governor-General in a Dominion is the representative of the Crown holding in all essential respects the same position in relation to the administration of public affairs in a Dominion as is held by His Majesty the King in Great Britain and that he is not the representative
+earliest days of responsible government, adopted only in isolated cases and, as a rule, reliance was placed on the power of disallowance. This was usually exercised only where United Kingdom interests were affected, or where legislation was plainly *ultra vires*, though occasionally, chiefly in Canada (before 1867) and Newfoundland, laws of purely local significance were disallowed because they were regarded as objectionable in principle. No instance of disallowance of Canadian legislation occurred after 1873 or of New Zealand legislation after 1867. Although the Constitutions of the Commonwealth of Australia and the Union of South Africa made provision for disallowance, no use was made of the power in their case, while the Constitution of the Irish Free State did not provide for disallowance at all.
+
+(32) As regards reservation, apart from the discretionary power given to Governors (and by the various Constitutions to Governors-General) to reserve any Bill, provision was made both in the Royal Instructions and in certain specific Statutes (e.g. those establishing Constitutions or relating to Merchant Shipping) whereby Bills on certain subjects were required to be reserved. As a result of representations by the Canadian Government, the Royal Instructions in the case of Canada were modified in 1878 by the omission of any list of categories of Bills required to be reserved, though in practice instances of reservation of Bills falling within these categories continued to occur until 1886. The Royal Instructions for the Commonwealth of Australia included no such list, and the New Zealand Royal Instructions were similarly modified in 1907. The Royal Instructions for the Union of South Africa issued in 1909 did not include the list but contained a reference to the provisions of the South Africa Act requiring certain Bills to be reserved (see paragraph 25). In practice it was only rarely that legislation which had been reserved did not receive the Royal Assent, though there were occasions on which Bills dealing with Merchant Shipping were not assented to, or were assented to only on the understanding that amendments would subsequently be made.
+
+(33) As regards the Australian States, the position was clarified by the Australian States Constitution Act, 1907, which provided that the only classes of Bills to be reserved were those
+
+(a) altering the constitution of the legislature or either House thereof;
+(b) affecting the Governor's salary;
+(c) required to be reserved by legislation of the State itself;
+(d) required to be reserved by the Royal Instructions.
+
+The Royal Instructions, which date from 1900, specify a number of categories of Bills which must be reserved, unless the Governor has received permission to assent. These include divorce, currency, differential duties and legislation contrary to treaties or prejudicing the interests of other parts of the Empire. As a result, State Bills often have still to be reserved, but in fact it is many years since a reserved Bill failed to receive the Royal Assent. In practice therefore both disallowance and reservation became in course of time completely obsolete.
+
+(34) The doctrine of repugnancy was enunciated in an extreme form in certain judicial decisions in South Australia about the middle of the nineteenth century, when it was held that a number of Acts of local significance only were invalid as being contrary to the common law of England or to fundamental principles of British law. In order to resolve doubts as to the position, the Colonial Laws Validity Act was passed in 1865. It restricted the cases where a Colonial law would be held invalid on account of repugnancy to those where the law was repugnant to a United Kingdom Act or to Orders or Regulations made under the authority of such an Act, or having the force of law in a Colony. It is interesting to note that this Act, which was found later to be a fetter on the powers of Dominion Parliaments, was in origin intended to have
+a liberating effect as it limited the categories of cases in which a Colonial law would be held void owing to repugnancy to English law. To this extent its passage represents a further step in the direction of full self-government.
+
+(35) The power of the United Kingdom Parliament to legislate for all parts of the Empire came in time to be exercised in respect of self-governing Colonies only in certain classes of case:
+
+(i) where the subject matter was outside the powers of the local legislature, e.g., provisions having extra-territorial effect;
+
+(ii) where relations with foreign countries were involved, e.g., legislation on extradition and copyright;
+
+(iii) where some scheme of Empire-wide application was concerned, e.g., as regards nationality and merchant shipping.
+
+(36) Even in these cases, however, a procedure was often adopted which would enable the legislature of a self-governing Colony to pass its own legislation on the subject. Thus, it was provided in the Extradition Act, 1870, that the operation of the Act should be suspended in the case of any Colony which passed corresponding legislation, and a similar course was adopted in the Official Secrets Act, 1911. It other cases it was provided that the United Kingdom Act was not to apply to a Dominion unless adopted by its Parliament, e.g., Part II of the British Nationality and Status of Aliens Act, 1914, which provided for naturalization of aliens with Empire-wide validity. In the case of the Copyright Act, 1911, alternatives were provided whereby either (a) a Dominion could adopt the Act or (b) separate Dominion legislation could be accepted as equivalent. Sometimes, when there was no doubt as to the ability of the Dominions to legislate themselves on the subject matter, there was express provision that the Act did not apply to them, e.g., the Maritime Conventions Act, 1911, the Merchant Shipping (Convention) Act, 1914, and the Official Secrets Act, 1920. When it was intended that an Act of Parliament should apply to the Dominions in toto, it became the practice to consult the Dominions before enactment. Thus, the British Nationality and Status of Aliens Act, 1914, was the result of correspondence with Dominion Governments and discussion at the Imperial Conference extending over a period of more than ten years. In this way there was established the convention described in the third preamble to the Statute of Westminster, that the United Kingdom Parliament would not legislate for a Dominion without its request and consent.
+
+(37) Just as control over the local Legislatures was progressively relaxed, so was control over the local Executive, which rested upon the position whereby the Governor was appointed from home on the advice of United Kingdom Ministers and was, in effect, the representative of the United Kingdom Government in matters where conflict might arise with the local authorities. It will be observed that Lord Durham's recommendation quoted in paragraph 3 referred to the Governor securing "the co-operation of the Assembly in his policy," which implied that the ultimate responsibility for the policy of a Colony rested with the Governor rather than with his Ministers. It was in fact originally provided in the Royal Instructions that the Governor should preside at meetings of the Executive Council and could act in opposition to the opinion of the Council, if he thought fit, provided that he reported immediately to the Secretary of State. These provisions were deleted from the Canadian Royal Instructions in 1878, and were never inserted in those for the Commonwealth of Australia and the Union of South Africa, though they remain in the Royal Instructions for the Australian States (issued in 1900), while the provision as to acting contrary to the opinion of the Executive Council appears in the New Zealand Royal Instructions of 1917. Apart from these formal changes, the practical reduction or elimination of the exercise of the reserve powers of the United Kingdom Government necessarily carried
+with it a diminution in the representational character of the Governor-General until he could no longer be regarded as in any real sense an officer of the United Kingdom Government. He still remained the official channel of communication between the two Governments and was appointed on the advice of United Kingdom Ministers, but it became the practice to consult the Dominion Government as to the person to be appointed, and in some instances to propose to them a list of two or three names from which to make a selection.
+
+(38) As regards appeals to the Judicial Committee of the Privy Council, as stated in paragraphs 13 and 16, the Constitution Acts of the Commonwealth of Australia and the Union of South Africa conferred on those Dominions the powers, within certain limits, to abolish the appeal. The Judicial Committee itself showed reluctance to grant special leave to appeal from Dominions, except in cases of considerable importance, and in criminal cases practically never granted leave at all.
+
+(39) As a result of these changes, which it may be observed had come about gradually and usually ad hoc as a result of some individual instance forming a precedent for the future, rather than as a deliberate process of development, by 1914 the position had been reached that the Dominions (Canada, the Commonwealth of Australia, New Zealand, the Union of South Africa and Newfoundland) had in fact, even if not in form, complete control over their own internal affairs and over trade with other countries but had no such control over general relations with foreign countries, though their claim to be consulted on important issues of foreign policy had to some extent been admitted. This limitation is strikingly illustrated by the fact that, when war was declared on Germany on the 4th August, 1914, there had been no consultation with the Dominions. It was, however, recognized that the constitutional position was unsatisfactory, and that the Dominions were entitled to a voice in the conduct of the war and the eventual peace settlement. This led to the meetings of the Imperial War Cabinet in 1917 and 1918, at which the Dominions were represented on a footing of equality with the United Kingdom, and to the special arrangements made for the participation of the Dominions (other than Newfoundland) and India at the Paris Peace Conference, which resulted in their separate signature of the various Peace Treaties and their admission to the League of Nations as original members. In this way the status of these Dominions as separate international entities became recognized, and during the following years various steps were taken to give effect internationally to this status.
+
+(40) The first of these was the appointment of diplomatic and consular representatives in foreign countries. In 1920 it was agreed that a Canadian Minister could be appointed at Washington. He was to be the ordinary channel of communication with the United States Government in matters of purely Canadian concern, acting upon instructions from, and reporting to, the Canadian Government, though, in the absence of the Ambassador, he was to take charge of the whole Embassy and of the representation of Imperial as well as Canadian interests. No appointment was made at the time and, when in 1924 an Irish Free State Minister was appointed at Washington, it was arranged that he should be entirely independent of the Ambassador. This precedent was followed when the Canadian Minister was appointed in 1926, and numerous similar appointments were made by these and the other Dominions as time went on. In 1943 the status of the Canadian Legation at Washington was raised to that of Embassy, and similar action was taken in other cases. In 1927 the United States reciprocated by appointing Ministers in Ottawa and Dublin, and this practice of appointing separate Ministers in Dominions was gradually adopted by most other foreign countries. As regards consular representation, it had long been the practice of foreign
+countries to appoint consular officers in the Colonies, and a procedure of appointing Dominion Consular representatives in foreign countries was initiated by the Irish Free State and the Union of South Africa in 1930.
+
+(41) There were also developments as regards the method of representation of the Dominions at international conferences. At the Paris Peace Conference the Dominion representatives had formed part of a British Empire Delegation (though entitled also to a limited form of separate representation) and, although their separate membership of the League of Nations and eligibility for election to non-permanent seats on the Council of the League had been recognized in 1919, the same arrangement was made at the Washington Naval Conference of 1922. At the Lausanne Conference of 1923, which negotiated the Peace Treaty with Turkey, the Dominions were not represented at all, owing to French opposition, and at the London Reparation Conference of 1924 they secured representation only through a panel system. Thereafter, however, it was admitted that the Dominions were entitled to representation at international conferences, whether held under the auspices of the League or not, by separate delegations on an equality with the United Kingdom and foreign delegations, and no difficulty was experienced in securing this.
+
+(42) As regards Treaty procedure, a new departure was made in 1923, when a Treaty between Canada and the United States relating to the Pacific Halibut Fishery was signed only by a Canadian plenipotentiary and not, as had hitherto been the rule, by His Majesty's Ambassador as well (see paragraph 20). The question of procedure for negotiation, signature and ratification of treaties was discussed at the Imperial Conference of 1923, which adopted a lengthy resolution on the subject. The most important part was that which enunciated the principle of intra-Commonwealth consultation in the following terms:
+
+“(a) It is desirable that no treaty should be negotiated by any of the Governments of the Empire without due consideration of its possible effect on other parts of the Empire, or, if circumstances so demand, on the Empire as a whole.
+
+“(b) Before negotiations are opened with the intention of concluding a treaty, steps should be taken to ensure that any of the other Governments of the Empire likely to be interested are informed so that, if any such Government considers that its interests would be affected, it may have an opportunity of expressing its views, or, when its interests are intimately involved, of participating in the negotiations.”
+
+(43) The question of Treaty procedure was further considered at the Imperial Conference of 1926, which not only proposed a number of changes of form, designed to emphasize the equal status of the Members of the Commonwealth, but also recommended the expansion of paragraph (b) of the 1923 resolution, so that the obligation would be to inform all other Commonwealth Governments whether likely to be interested or not. It also recommended that this principle of information and consultation should apply, not merely to treaty negotiations, but to the conduct of foreign policy generally.
+
+(44) Another respect in which the international status of the Dominions was recognized was the agreement that it was open to a Dominion to define, within the general circle of British subjects, those persons who were nationals or citizens of the Dominion. Canada in 1920 and the Union of South Africa in 1927 passed legislation defining their nationals, and the Irish Free State similarly defined its citizens in 1935, though in this case the legislation was so framed that these citizens were not, under Free State law, British subjects.
+
+(45) Consequently it was possible for the Imperial Conference of 1926 to frame the historic definition of the status of Great Britain and the Dominions as “autonomous communities within the British Empire, equal in status, in no
+way subordinate one to another in any aspect of their domestic or external affairs, but united by a common allegiance to the Crown and freely associated as members of the British Commonwealth of Nations.” The Conference did not purport to lay down a constitution for the British Commonwealth or even to point to new lines of constitutional development, but merely to describe a constitutional relationship which already existed and, as shown above, had in many respects existed for a considerable time. Apart from this definition, the Conference drew attention to various matters in which constitutional forms and practice, surviving from the early days of responsible government, were inconsistent with the constitutional position. Most of these, as mentioned in the preceding paragraphs, were in the legislative sphere, and the possibility of amending these was considered by the Conference on the Operation of Dominion Legislation of 1929, whose Report was approved by the Imperial Conference of 1930. Legal effect was given to the main recommendations by the Statute of Westminster, 1931.
+
+(46) The principal changes in the law effected by the Statute of Westminster were as follows:
+
+1. Repeal of the Colonial Laws Validity Act in respect of Dominions and conferment of power on Dominions to repeal or amend United Kingdom legislation which applied to them, thus sweeping away the doctrine of repugnancy (see paragraph 34).
+
+2. Recognition of the power of Dominions to legislate with extra-territorial effect.
+
+3. Statutory force for the convention mentioned in paragraph 36 that the United Kingdom Parliament would not legislate for Dominions without their request and consent.
+
+4. Repeal of certain statutory provisions requiring reservation of Dominion legislation (see paragraph 32).
+
+At the same time it was provided, at the request of the Dominions concerned, that
+
+(a) the above provisions should not apply to the Commonwealth of Australia, New Zealand and Newfoundland unless adopted by their Parliaments;
+
+(b) that the power to legislate in disregard of United Kingdom legislation would not apply to amendment of the Constitutions or Constituent Acts of Canada, the Commonwealth of Australia and New Zealand (see paragraphs 23 and 24), though the Colonial Laws Validity Act was repealed in respect of the Canadian Provinces;
+
+(c) that the position of the Australian States was not affected.
+
+(47) As regards reservation and disallowance generally, the Conference of 1929 had placed it on record that these were obsolete and that, in so far as statutory provision had been made for them, such provision could be repealed by the appropriate Parliament. The only qualification was in respect of a power of disallowance of any legislation altering to the detriment of stockholders the conditions applicable to Dominion Securities which had been admitted to the Trustee List in the United Kingdom under the Colonial Stock Act.
+
+(48) Apart from legislative forms and treaty procedure (as to which see paragraph 43), the most important matter dealt with by the Imperial Conference of 1926 on the constitutional side was the position of Governors-General. The Conference agreed that “the Governor-General in a Dominion is the representative of the Crown holding in all essential respects the same position in relation to the administration of public affairs in a Dominion as is held by His Majesty the King in Great Britain and that he is not the representative
+or agent of His Majesty's Government in Great Britain or of any Department of that Government." As explained in paragraph 37, this was no more than a statement of the existing factual position, but it was followed by two administrative changes of some significance, the substitution of a procedure of direct communication between Governments for correspondence through the channel of the Governor-General, and the appointment in the Dominions of High Commissioners as the official representatives of the United Kingdom Government. The Conference did not suggest any change in the method of appointment of Governors-General, but this question was considered by the Imperial Conference of 1930, which agreed that a Governor-General should be appointed on the advice of Ministers of the Dominion concerned, and not, as heretofore, of United Kingdom Ministers.
+
+(49) Developments since 1931 have mostly taken the form of the practical application of the general principles thus enunciated. In 1934, legislation was passed amending the Colonial Stock Act so that, in the case of any Dominion which so desired, the condition of disallowance could be replaced by an alternative procedure designed to safeguard equally the interests of stockholders. The Union of South Africa took advantage of this alternative the same year, and also amended the South Africa Act so as to abolish entirely the power of disallowance and, with some exceptions, reservation. The Commonwealth of Australia adopted the relevant sections of the Statute of Westminster in 1942, and New Zealand took similar action in 1947. By an Act of Parliament passed in 1947 New Zealand was given full power to amend its own Constitution (see paragraph 23) and in 1949 Canada was given the same power in matters lying solely within the jurisdiction of the Federal Parliament (see paragraph 24). Appeals to the Judicial Committee were abolished by the Irish Free State in 1933. Appeals were abolished by Canada in respect of criminal matters in 1933, and entirely in 1949, and legislation abolishing the appeal entirely has now been passed in the Union of South Africa.
+
+(50) The Irish Free State also made use of the powers conferred by the Statute of Westminster to effect extensive changes in its Constitution. In 1933 it repealed the provision prohibiting changes contrary to the Treaty of 1921 as well as those relating to withholding of assent to, and reservation of, legislation (see paragraph 25). In 1936 it passed legislation removing from the Constitution all references to the King and the Governor-General, while providing in a separate Act (the External Relations Act) for the exercise of certain functions by the King as regards external relations. In 1937 it enacted a new Constitution providing that the Head of the State should be an elected President, though the Act dealing with external relations was retained. These changes were not held by the other Commonwealth Governments to have affected the position of the Free State (then styled Eire) as a Member of the Commonwealth.
+
+(51) There was also an important development as regards executive matters. It was originally held that, while Dominion Ministers advised the Governor-General as the King's Representative, United Kingdom Ministers alone could advise the King personally. The Imperial Conference of 1926 placed it on record that Dominion Ministers had the right to advise the Crown and that United Kingdom Ministers could not tender advice on Dominion matters contrary to the wishes of the Dominion concerned, but it remained the practice that advice on such matters was tendered by United Kingdom Ministers alone, though naturally they acted only at the instance of Dominion Governments, and it was recognized that the responsibility in such cases was that of the Dominion Government and that the function of United Kingdom Ministers was little more than formal. As stated in paragraph 48 the Imperial Conference of 1930 recorded that, in the case of appointment of a Governor-
+General, Dominion Ministers alone would advise the King, and in 1931, in connection with the institution of a Royal Great Seal for the Irish Free State, the King approved a general procedure whereby, in the case of documents relating to the Free State to be executed by His Majesty, communication between the Free State Government and His Majesty would be made by the Minister for External Affairs (or some other Minister) either direct or through the High Commissioner in London. This procedure was submitted by the Irish Free State Government in a formal submission presented to His Majesty by the Minister for External Affairs at a personal interview. The precedent thus created for direct access to the Sovereign was followed, as time went on, in other cases and by other Dominions, and it has now become the normal practice for Ministers of other Members of the Commonwealth to tender advice to the King direct, usually through the Governor-General as His Majesty's Representative, and without any intervention by United Kingdom Ministers.
+
+(52) Two matters, regarded in some quarters as essential attributes of "Dominion status," on which there has been in the past a certain amount of discussion, are the so-called "right of secession" and the right of neutrality in time of war.
+
+(53) As regards the former, about the middle of the nineteenth century there was a tendency in many quarters to consider that the ultimate destiny of the Colonies was to leave the Empire and become independent foreign countries, and sometimes it was held that this was a consummation to be encouraged, provided that the separation, when it came, took place in an atmosphere of harmony. By the end of the century this view had ceased to find favour in responsible circles, where the emphasis was in the opposite direction. An important statement was, however, made in Parliament in 1920 by Mr. Bonar Law (Leader of the House of Commons) in the following terms:
+
+"There is not a man in this House... who would not admit that the connexion of the Dominions with the Empire depends upon themselves. If the self-governing Dominions, Australia, Canada, chose tomorrow to say 'We will no longer make a part of the British Empire,' we would not try to force them. Dominion Home Rule means the right to decide their own destinies."
+
+(54) After the Declaration of the Imperial Conference of 1926, it was sometimes argued that the reference to the Members of the Commonwealth as "freely associated" implied that any Member was free to leave the association. The Parliament of the Union of South Africa, when approving the Report of the Conference on the Operation of Dominion Legislation of 1929, added a reservation "provided that section 60 of the Report shall not be taken as derogating from the right of any member of the British Commonwealth of Nations to withdraw therefrom." The Prime Minister of the Union (General Hertzog) brought this Resolution to the notice of the Imperial Conference of 1930, which took note of it without discussion.
+
+(55) The attitude of the United Kingdom Government was stated by the Prime Minister (Mr. Attlee) in 1947 in moving the Second Reading of the Burma Independence Bill as follows:
+
+"In our view, nations have the right to decide on the nature of their own government. The British Commonwealth of Nations is a free association of peoples, not a collection of subject nations. When therefore, after due consideration, the elected representatives of the people of Burma chose independence, it was, I believe, the duty of His Majesty's Government to take the necessary steps to implement their decision."
+
+Parliament passed the Act, which declared that, on an appointed day, Burma should become an independent country, neither forming part of His Majesty's dominions nor entitled to His Majesty's protection.
+(56) Similarly, when in 1948 Eire repealed the External Relations Act (see paragraph 50) and declared its separation from the Commonwealth, the United Kingdom Parliament passed the Ireland Act, 1949, recognizing that Eire (to be known henceforward as the Republic of Ireland) had ceased to be part of His Majesty's dominions, while providing that the Irish Republic should not be regarded as a foreign country.
+
+(57) Early attempts, not seriously pressed, to assert a right of neutrality in time of war were described in paragraph 30. The question was not raised in connection with the war of 1914-18, but it arose in practical form when the United Kingdom declared war on Germany in 1939. While in Australia and New Zealand the Governors-General immediately issued Proclamations declaring the existence of a state of war, in Canada war was not declared until a week later, after the matter had been discussed in the Canadian Parliament. In the Union of South Africa the Prime Minister (General Hertzog) brought forward a Motion in favour of neutrality, but an amendment moved by the Deputy Prime Minister (General Smuts) providing for participation in the war was adopted by a small majority, with the result that General Hertzog resigned, General Smuts became Prime Minister and war was immediately declared. Eire definitely adopted an attitude of neutrality and maintained it until the end of the war.
+
+(58) India and Pakistan became Members of the Commonwealth in 1947, and Ceylon became a Member in 1948. In April, 1949, a communiqué issued at the end of the Prime Ministers' Meeting held in London at that time contained a declaration stating that the Government of India had informed the other Governments of the Commonwealth of the intention of the Indian people that under the new constitution, which was about to be adopted, India should become a sovereign independent republic. The Government of India had, however, declared and affirmed India's desire to continue her full membership of the Commonwealth of Nations and her acceptance of the King as the symbol of the free association of its independent member nations, and as such as Head of the Commonwealth. The Governments of the other countries of the Commonwealth, the basis of whose membership of the Commonwealth was not thereby changed, accepted and recognized India's continuing membership.
+
+(59) An account of the constitutional history of each of the individual Commonwealth countries is contained in Part III.
+THE DEVELOPMENT OF THE IMPERIAL AND COMMONWEALTH CONFERENCES
+
+Colonial Conference, 1887
+
+The first conference of the various Governments of the Empire was the Colonial Conference held at the time of Queen Victoria’s Jubilee in 1887. Invitations to the Conference were addressed by the Secretary of State for the Colonies to the Governors of all Colonies. All the then self-governing Colonies sent delegates, as well as Natal and Western Australia, and representative gentlemen from some of the larger Crown Colonies attended also. The most prominent question discussed was the organization of Colonial defence, but other matters considered were the relations of the Australian Colonies with the islands in the Pacific, the Australian and Pacific mail services, telegraphic communication with Australia, the proposal for an Imperial Penny Post, the adoption of similar legislation with regard to merchandise marks and patents, and the enforcement of Colonial judgments and Orders in Bankruptcy. The Report of the Conference was published as C.5091.
+
+Conference of 1894
+
+During 1894 a Colonial Conference was held at Ottawa, at the invitation of the Canadian Government, to consider the question of trade and communications between the Colonies and between the Colonies and the Mother Country. Delegates attended from New South Wales, Victoria, Queensland, South Australia, Tasmania, New Zealand, and the Cape Colony. Resolutions were passed urging the removal of legislative or treaty obstacles to preferential tariff arrangements within the Empire, the establishment of a mail service between Great Britain and Australasia via Canada, and the connection of Canada and Australasia by a cable under British control. The Report of the Conference was published as C.7553.
+
+Colonial Conference, 1897
+
+Invitations to attend the celebration of Queen Victoria’s Diamond Jubilee in 1897 were addressed to the Prime Ministers of all the self-governing Colonies. The Prime Ministers, 11 in number, accepted, and advantage was taken of their presence to hold a conference between them and the Secretary of State for the Colonies (Mr. Joseph Chamberlain). The proceedings were private but a summary was presented to Parliament as C.8596. Much attention was given to the question of Imperial defence, and a resolution was passed in favour of denunciation of the commercial treaties with Germany and Belgium which precluded preferential tariff arrangements within the Empire.
+
+Colonial Conference, 1902
+
+Advantage was taken of the presence in London of the Prime Ministers of the self-governing Colonies in connection with the Coronation of King Edward VII in 1902 to discuss with them various important questions of general interest, especially the political and commercial relations of the Empire and its naval and military defence. The Report of the Conference was published as Cd. 1299.
+
+Colonial Conference, 1907
+
+A Colonial Conference was held in 1907, attended by the Prime Ministers of all the self-governing Colonies, including the Transvaal, where the first elections under responsible government had just taken place. The primary subject for consideration was the future constitution of the Conference, raised by a despatch of the 20th April, 1905, from the then Secretary of State for the Colonies (Mr. Lyttelton) which proposed the establishment of an Imperial Council. The Conference adopted a resolution providing for the meeting of a Conference, to be called the Imperial Conference and held every four years, at which questions of common interest might be discussed and considered.
+between His Majesty's Government and His Governments of the self-governing Dominions beyond the Seas. The Prime Minister of the United Kingdom was to be *ex officio* President and the Prime Ministers of the self-governing Dominions *ex officio* members of the Conference. The Secretary of State for the Colonies was to be an *ex officio* member and to take the chair in the absence of the President. Such other Ministers as the respective Governments might appoint would also be members, but, except by special permission of the Conference, each discussion would be conducted by not more than two representatives of each Government, and each Government would have only one vote. A permanent secretarial staff would be appointed with the duty of obtaining information for the use of the Conference, of attending to its resolutions, and of conducting correspondence on matters relating to its affairs.
+
+In the course of discussion, the Secretary of State for the Colonies (Lord Elgin) undertook to alter the organization of the Colonial Office so that there should be a separate division dealing with the self-governing Dominions.
+
+The members of the Conference, with the exception of the United Kingdom Government, reaffirmed the resolutions of the 1902 Conference on the subject of preferential trade within the Empire. Other matters discussed were the improvement of mail communication with Australia via Canada, the promotion of migration to British Colonies, the adoption of uniform conditions of naturalization throughout the Empire, uniformity in company law, trade statistics, trade marks and patents, and the codification of the rules governing appeals to the Judicial Committee of the Privy Council.
+
+The Report of the Conference was published as Cd. 3523.
+
+**Defence Conference, 1909**
+
+In 1909 the United Kingdom Government convened a special Conference to discuss Naval and Military Defence, at which all the then self-governing Dominions were represented. Its Report was published as Cd. 4948.
+
+**Copyright Conference, 1910**
+
+In 1910 a subsidiary Imperial Conference was convened to consider the subject of copyright. Its Report was published as Cd. 5272. Effect was given to its recommendation by the Copyright Act, 1911, of the United Kingdom and by legislation in each of the Dominions.
+
+**Imperial Conference, 1911**
+
+The first Imperial Conference under that name was held in 1911. The Prime Ministers of all the Dominions were present, as well as other Ministers of their countries. The chief questions discussed were the constitution of the Conference and the reconstruction of the Colonial Office, consultation with the Dominion Governments regarding treaties, an Imperial Court of Appeal, migration to the Dominions, naturalization, and improved cable communications and merchant shipping. It was agreed that a Royal Commission should be appointed, representing the Home and Dominion Governments, with a view to investigating and reporting on the natural resources of the Empire and connected questions. The Report of the Conference was published as Cd. 5745.
+
+**Imperial War Cabinet, 1917 Session**
+
+Owing to the outbreak of war in 1914, it was found necessary to postpone the meeting of the Imperial Conference which would have taken place in May, 1915. Opportunity was taken of confidential consultation and discussion with individual Prime Ministers and other Ministers, but it was not until Mr. Lloyd George became Prime Minister of the United Kingdom in December 1916 that it was found possible to arrange any meeting. It was then arranged that the Meetings should take two forms. In the first place the oversea representatives were made members of the United Kingdom War Cabinet which thus became, for the time being, an Imperial War Cabinet. All the Dominions
+were represented except Australia, which was unable to send a representative. The Imperial War Cabinet had prolonged discussions on all the most vital aspects of Imperial policy. Its conclusions were necessarily secret, but it was announced that important decisions were reached which would be of the greatest value not only in the prosecution of the war but also when the time came for negotiations for peace. At the conclusion of its sittings the United Kingdom Prime Minister proposed that meetings of an Imperial Cabinet should be held annually, consisting of the various Prime Ministers and other Ministers and a representative of the people of India chosen by the Government of India. From this time, full confidential information on the progress of the war was communicated to the Dominion Prime Ministers, and in the following year information on foreign affairs began to be similarly communicated.
+
+**Imperial War Conference, 1917**
+
+Concurrently with the sittings of the Imperial War Cabinet, an Imperial War Conference was held under the chairmanship of the Secretary of State for the Colonies. Its special work was to consider post-war problems. Much of its business was highly confidential, but a Report (Cd. 8566) was published containing the majority of its resolutions and a part of the discussions.
+
+The Conference adopted a resolution in favour of India being fully represented at all future Imperial Conferences. It placed on record that the subject of readjustment of constitutional relations should be considered by a special Imperial Conference after the war and that any such adjustment "while thoroughly preserving all existing powers of self-government and complete control of domestic affairs, should be based upon a full recognition of the Dominions as autonomous nations of an Imperial Commonwealth and of India as an important portion of the same, should recognize the right of the Dominions and India to an adequate voice in foreign policy and in foreign relations and should provide effective arrangements for continuous consultation on all important matters of common Imperial concern, and for such necessary concerted action, founded on consultation, as the several Governments may determine."
+
+Other resolutions dealt with the development of the material resources of the Empire, reciprocity of treatment between India and the Dominions, and the care of graves of those who fell in the war (which led to the establishment of the Imperial War Graves Commission).
+
+**Imperial War Cabinet, 1918**
+
+In the summer of 1918 further meetings of the Imperial War Cabinet and the Imperial War Conference were held. All the Dominions and India were represented. In a communiqué issued in August it was announced that every aspect of policy affecting the conduct of the war and the question of peace had been examined by the Imperial War Cabinet. It was also stated that it had been decided that, for the future, the Dominion Prime Ministers, as members of the Imperial War Cabinet, should have the right to direct communication with the United Kingdom Prime Minister and that each Dominion should have the right to nominate a visiting or a resident Minister in London to be a member of the Imperial War Cabinet at meetings other than those attended by Prime Ministers and that these meetings would be held at regular intervals, arrangements being made also for the representation of India.
+
+**Imperial War Conference, 1918**
+
+The Imperial War Conference of 1918 was held under the chairmanship of the Secretary of State for the Colonies. A certain part of the discussions and most of the resolutions were published in Cd. 9177. The chief resolutions dealt with future economic policy regarding raw materials, various particular economic questions such as the non-ferrous metals industry, petroleum, dyes,
+and the establishment of an Imperial Mineral Resources Bureau, and questions of communications, including an Imperial News Service, cable communications, inter-Imperial parcels delivery and post-war supervision of shipping. (The last-named resolution resulted in the establishment in 1920 of the Imperial Shipping Committee.) A resolution was also passed elaborating that adopted at the 1917 Conference on the subject of reciprocity of treatment between India and the Dominions as regards immigration.
+
+Paris Peace Conference
+
+Immediately after the Armistice of the 11th November, 1918, representatives of all the Dominions were summoned to London. They took part, first in preliminary discussions in London over the Peace Settlement and afterwards in the Paris Peace Conference. As a result the Treaty of Versailles was signed separately on behalf of Canada, the Commonwealth of Australia, New Zealand, the Union of South Africa, and India, and each of these countries became an original member of the League of Nations. Consequently it soon became the regular practice that each of these countries (as well as the Irish Free State when it became a member of the League) should participate separately in all International Conferences, whether convened under the auspices of the League of Nations or not.
+
+Subsidiary Conferences, 1920 and 1921
+
+In 1920 certain subsidiary conferences were held, viz., an Imperial Statistical Conference (Cmd. 648), an Imperial Entomological Conference (Cmd. 835), and an Imperial Forestry Conference (Cmd. 865). An Imperial Customs Conference was held in 1921 (Cmd. 1231).
+
+Conference of Prime Ministers and Representatives of the United Kingdom, the Dominions and India, 1921
+
+The Conference of 1921 was comparable to the Imperial War Cabinets of 1917 and 1918 and the greater part of its proceedings was highly confidential, but some portion was published in Cmd. 1474. The main questions considered were foreign policy, and naval, military and air defence. Resolutions were passed on Empire settlement and migration, nationality, air communications, wireless telegraphy and telephony, and shipping. A resolution was passed (the Union of South Africa dissenting) on the subject of the position of Indians in the Empire. It was decided that, having regard to constitutional developments, there would be no advantage in holding the Constitutional Conference envisaged by the Imperial War Conference of 1917, but stress was laid on the importance of continuous consultation between the Prime Ministers and on the advantage of their meeting annually or at such longer intervals as might prove feasible.
+
+Imperial Conference, 1923
+
+At the Imperial Conference of 1923 delegates from the Irish Free State attended for the first time. A Summary of Proceedings was published (Cmd. 1987) with Appendices (Cmd. 1988). Detailed consideration was given to foreign policy, and a resolution was adopted on the procedure for negotiation, signature and ratification of treaties. A resolution was also adopted on defence. Other matters considered included the status of High Commissioners, the publication of correspondence between Governments, nationality and the position of Indians in the Empire.
+
+Imperial Economic Conference, 1923
+
+Simultaneously with the Imperial Conference of 1923 there was held an Imperial Economic Conference which considered in detail the economic relations between the several parts of the Empire. It passed resolutions on the subject of Imperial Preference, oversea settlement, co-operation in financial assistance to Imperial development, communications, the Imperial Institute,
+and the establishment of an Imperial Economic Committee. A Record of Proceedings was published (Cmd. 1990) with Appendices (Cmd. 2009).
+
+Subsidiary Conferences, 1923 to 1925
+
+A British Empire Forestry Conference was held in Canada in 1923. Its recommendations are set out in the Record of Proceedings of the Imperial Economic Conference (Cmd. 2009). An Imperial Mycological Conference was held in 1924 (Colonial No. 8 of 1924*) and an Imperial Entomological Conference in 1925 (Cmd. 2490).
+
+Imperial Conference, 1926
+
+The most important part of the work of the Imperial Conference of 1926 was that performed by the Committee on Inter-Imperial Relations presided over by Lord Balfour. This resulted in the historic definition of the position of Great Britain and the Dominions as "autonomous communities within the British Empire, equal in status, in no way subordinate one to another in any aspect of their domestic or external affairs, but united by a common allegiance to the Crown, and freely associated as members of the British Commonwealth of Nations." The Committee dealt with the application of the general principles thus set out to a number of particular questions. It recommended an alteration in the King's Title consequent on the establishment of the Irish Free State. It defined the position of a Governor-General as the representative of the Crown and not the representative or agent of the United Kingdom Government. It considered a number of questions connected with the operation of Dominion legislation and merchant shipping legislation and recommended the appointment of a special committee and a special sub-Conference to enquire into these matters. It examined the working of the resolution of the 1923 Conference on the subject of the negotiation, signature and ratification of treaties and made a number of recommendations on treaty procedure supplementing that resolution, and agreed that the principles underlying that resolution might be applied in the conduct of foreign affairs generally. It also reviewed the system of communication and consultation between the Governments and adopted a resolution on the desirability of closer personal contact between the United Kingdom and the Dominions, which led to the establishment of United Kingdom High Commissioners in Canada (1928), the Union of South Africa (1930), Australia (1936), New Zealand (1939), India (1947), Pakistan (1947), and Ceylon (1948), and of a United Kingdom Representative in Eire in 1939. A United Kingdom High Commissioner was appointed to the Colony of Southern Rhodesia in 1951.
+
+Apart from the work of the Inter-Imperial Relations Committee, the Conference considered certain questions of foreign relations, defence (on which it reaffirmed the resolution of the 1923 Conference and made supplementary recommendations), air communications, oversea settlement, research, forestry and economic questions, especially the encouragement and production of Empire films, industrial standardization and the future of the Imperial Shipping Committee and the Imperial Economic Committee.
+
+The Summary of Proceedings of the Conference was published (Cmd. 2768) with Appendices (Cmd. 2769).
+
+Subsidiary Conferences, 1927 and 1928
+
+An Imperial Education Conference was held in 1927 and an Imperial Agricultural Research Conference in 1928. The latter proposed the establishment of certain new Imperial Agricultural Bureaux, to be attached to existing research institutions in the United Kingdom, which would deal with interchange of information on special branches of agricultural science.
+
+Published by H.M. Stationery Office.
+Conference on Cable and Wireless Communications, 1928
+
+In 1928 a Conference met in London, consisting of representatives of the United Kingdom, the Dominions (except Newfoundland), India, and the Colonies and Protectorates, to discuss certain questions relating to cable and wireless communications. Its Report was published as Cmd. 3163. The Report recommended the merger of existing companies concerned with overseas telegraphy, the transfer to the merger company (afterwards styled Cable and Wireless, Ltd.) of existing cables and the lease to it of the Post Office Beam Service and the establishment of an Imperial Communications Advisory Committee including representatives of all the Governments taking part in the Conference. Agreements subsequently concluded to give effect to these recommendations were published in Cmd. 3338.
+
+Conference on the Operation of Dominion Legislation and Merchant Shipping Legislation, 1929
+
+A Conference was held in 1929 to consider the matters which the Imperial Conference of 1926 had recommended should be referred to an expert committee and a sub-Conference on merchant shipping legislation. Representatives of the United Kingdom and all the Dominions except Newfoundland took part, and it was arranged that India also should be represented for the discussion on merchant shipping and any other subjects of particular concern to India. The Report of the Conference was published as Cmd. 3479.
+
+Imperial Conference, 1930
+
+At the Imperial Conference of 1930 arrangements were made whereby a Minister from Southern Rhodesia and the High Commissioner for Southern Rhodesia in London advised the Secretary of State for Dominion Affairs on matters affecting Southern Rhodesia, and Southern Rhodesia was also represented on Committees dealing with subjects, especially economic, affecting that country. The work of the Conference fell under two main heads, questions affecting inter-Imperial relations and economic questions.
+
+As regards questions of inter-Imperial relations, a considerable part of the discussion was devoted to consideration of the Report of the Conference on the Operation of Dominion Legislation, 1929. The Conference approved the Report and agreed upon the provisions of the legislation to be passed by the United Kingdom Parliament, which was enacted in the following year as the Statute of Westminster, 1931. As regards merchant shipping, approval was given to the draft of a British Commonwealth Merchant Shipping Agreement, which was signed in December, 1931, on behalf of the United Kingdom and all the Dominions, but not India (Cmd. 3994). Other questions discussed were nationality, the precedence of High Commissioners, machinery for the settlement of justiciable disputes arising between the Commonwealth Governments, the procedure for the appointment of Governors-General, Prize Law, and legislation regarding the discipline of armed forces. As regards the last-named subject, effect was given to the recommendations of the Conference by the passage of the Visiting Forces (British Commonwealth) Act, 1933, of the United Kingdom and corresponding legislation in Canada, Australia, New Zealand, and the Union of South Africa.
+
+On the economic side, the work of the Conference was concerned primarily with large questions of policy connected with the promotion and development of inter-Imperial trade. The chief of these were the establishment of a fixed quota for Dominion wheat milled in the United Kingdom, the adoption of quotas for other commodities, import boards, bulk-purchase schemes, and the organization of channels of trade. The Conference resolved that, as time had not permitted the full examination of the various means by which inter-Imperial trade might be maintained and extended, the Economic Section should meet at Ottawa at a later date for further examination of this question. Other matters
+considered were the future of the Imperial Shipping Committee, the Imperial Economic Committee and the Empire Marketing Board, civil aviation, communications, overseas settlement, forestry research, mineral resources, arrangements for a Conference of Statisticians, and the standardization of the forms of customs invoices.
+
+The Conference also considered certain specific questions of foreign policy, including the question of accession to the General Act for the Pacific Settlement of International Disputes, the amendment of the Covenant of the League of Nations, disarmament, and defence matters of common interest, including the development of the Singapore Base.
+
+The Summary of Proceedings of the Conference was published (Cmd. 3717) with Appendices (Cmd. 3718).
+
+Imperial Economic Conference, 1932
+
+The Imperial Economic Conference met at Ottawa in 1932 under the Chairmanship of the Prime Minister of Canada (Mr. R. B. Bennett). At this Conference Southern Rhodesia was represented by its Premier and Treasurer, who attended as observers with liberty, by permission of the Conference, to speak at its full meetings and with a right to participate in the work of its Committees.
+
+The outstanding result of the Conference was the conclusion of a number of Trade Agreements between the Governments represented. In addition, resolutions were adopted regarding customs administration, commercial relations with foreign countries, and monetary and financial questions. A recommendation was adopted, subject to reservations by the Union of South Africa and the Irish Free State, providing for the appointment of a Committee, composed of representatives of the participating Governments, to consider the means of facilitating economic consultation and co-operation.
+
+The Summary of Proceedings of the Conference was published in the United Kingdom (Cmd. 4174) with Appendices (Cmd. 4175). The Summary includes the texts of the Agreements between the United Kingdom and other Commonwealth countries. Legal effect was given to these in the United Kingdom by the Ottawa Agreements Act, 1932.
+
+Imperial Committee on Economic Consultation and Co-operation, 1933
+
+In accordance with the recommendation of the Imperial Economic Conference, 1932, a Committee to consider the means of facilitating economic consultation and co-operation within the Empire met in London in 1933 under the chairmanship of the Canadian Under-Secretary of State for External Affairs (Dr. O. D. Skelton). Representatives of the United Kingdom, the Dominions, Southern Rhodesia, and the Colonial Empire took part. Its Report, which was published as Cmd. 4335, laid down a number of principles in regard to the future organization of inter-Imperial agencies for inter-Imperial consultation and co-operation, made specific recommendations as to existing scientific and economic services and activities, and recommended that the question what research activities could be carried out co-operatively should be considered by a subsequent Conference. As a result of one of its recommendations, the Empire Marketing Board, as such, was disbanded.
+
+Conference of British Commonwealth Statisticians, 1935
+
+In accordance with the recommendation of the Imperial Conference, 1930, a Conference of British Commonwealth Statisticians was held at Ottawa in 1935, attended by representatives of the United Kingdom, Canada, Australia, New Zealand, the Union of South Africa, the Irish Free State, India, and Newfoundland. Its Report was published in Canada but not in the United Kingdom.
+Prime Ministers' Meeting, 1935
+
+Opportunity was taken of the presence in London of the Prime Ministers of Canada, Australia, New Zealand, and the Union of South Africa, who were attending the celebration of King George the Fifth's Silver Jubilee in 1935, for private and informal discussion of matters of common concern, particularly in relation to foreign affairs. No official statement as to the course of the discussions was published.
+
+British Commonwealth Scientific Conference, 1936
+
+In accordance with the recommendation of the Imperial Committee on Economic Consultation and Co-operation, 1933, a British Commonwealth Scientific Conference met in London in 1936. Representatives of the United Kingdom, the Dominions, India, Southern Rhodesia, and the Colonial Empire took part. Its Report, which was published as Cmd. 5341, made a number of recommendations upon projects involving co-operation and collaboration in scientific research, and particularly upon the organizations controlled by the Executive Council of the Imperial Agricultural Bureau.
+
+Imperial Conference, 1937
+
+The Imperial Conference of 1937 met immediately after the Coronation of King George the Sixth. Eire and Newfoundland were not represented. Arrangements were made for the representation of Southern Rhodesia and Burma as observers. The main subjects dealt with were foreign affairs and defence.
+
+As regards foreign affairs, the principal matters discussed were the League of Nations, the European situation, and the Pacific and the Far East. On defence, the Conference considered ways in which it would be possible for the Governments concerned to co-operate in measures of their own security. One aspect to which special attention was given was co-operation in the production and supply of munitions and raw materials, as well as food and feeding stuffs.
+
+Other matters considered were certain constitutional questions (nationality and treaty procedure), a general review of the progress of Empire trade, Colonial affairs, questions arising in connection with shipping policy, including a review of the work of the Imperial Shipping Committee, civil air communications, and certain other economic questions, viz., the work of the Imperial Economic Committee and a proposal for the establishment of an Empire Agricultural Council.
+
+The Summary of Proceedings of the Conference was published as Cmd. 5482.
+
+Telegraph Rates Conference, 1937
+
+In 1937, discussions took place in London between representatives of the United Kingdom, Canada, Australia, New Zealand, the Union of South Africa, India, and Southern Rhodesia and representatives of Cable and Wireless, Ltd., on certain telecommunication questions. No report was published but the main heads of the agreement reached are set out in Cmd. 5716. The chief feature was a reduction of rates within the Empire to a maximum level of 1s. 3d. per ordinary word. The financial arrangements existing between the United Kingdom Government and the Company were also altered in certain respects. Effect was given to the modified arrangements by the Imperial Telegraphy Act, 1938.
+
+Wellington Conference, 1939
+
+A Conference of delegates of the United Kingdom, Australian and New Zealand Governments was convened at Wellington by the New Zealand Government in August, 1939, to consider a number of defence and other questions of common concern relating to the Pacific.
+Discussions with Dominion Ministers in London, 1919.
+
+Shortly after the outbreak of war in 1939 the United Kingdom Government invited the Governments of Canada, Australia, New Zealand and the Union of South Africa to send a Cabinet Minister to London to confer with United Kingdom Ministers and with each other, with the object of co-ordinating to the best advantage the contribution which each could make to the common task. The discussions took place in November, 1939. No report was published.
+
+Commonwealth Telegraph Conference, 1942
+
+A Conference was arranged at Sydney in 1942 between representatives of the United Kingdom, Australian and New Zealand Governments to consider certain telecommunication questions. Canada was represented by an observer. As a result, agreement was reached between all the Governments represented on the Imperial Communications Advisory Committee that the name of the Committee should be changed to Commonwealth Communications Council and that certain changes should be made in its organization, while it would retain its purely advisory functions.
+
+Prime Ministers’ Meeting, 1944
+
+Attempts were made at various dates during the war to arrange a general meeting of Prime Ministers but it was not until May 1944 that this was found to be practicable. In the meantime, individual Prime Ministers and other Ministers of overseas Commonwealth countries visited the United Kingdom from time to time and conferred with United Kingdom Ministers. In addition, the Prime Minister of the United Kingdom attended the Quebec Conference in 1943. Overseas Prime Ministers and some other Ministers who were visiting the United Kingdom attended meetings of the United Kingdom War Cabinet and from 1941 onwards Australia was permanently represented at its meetings.
+
+The Prime Ministers’ Meeting of 1944 was attended by the Prime Ministers of the United Kingdom, Canada, Australia, New Zealand, and the Union of South Africa. Representatives of the Government of India and the Prime Minister of Southern Rhodesia also attended some of the meetings. No report was issued but a declaration issued at the end of the meeting by the Prime Ministers of the United Kingdom, Canada, Australia, New Zealand, and South Africa re-affirmed the determination of the countries of the Commonwealth to continue with their Allies all needful exertions to achieve victory in the war and an enduring peace. The declaration also stated that the Prime Ministers were in cordial agreement on the plans for the part to be played by the British Empire and Commonwealth in the war against Germany and Japan, and on the principles determining the foreign policies of the countries of the Commonwealth and their application to current problems. The Prime Ministers also affirmed that, after the war, a World Organization to maintain peace and security should be set up and endorsed with the necessary power and authority to prevent aggression and violence.
+
+Commonwealth Telecommunications Conference, 1945
+
+A Conference of Ministers and officials of the United Kingdom, Canada, Australia, New Zealand, the Union of South Africa, India, and Southern Rhodesia met in London in July 1945 under an independent Chairman (Lord Reith) to consider telecommunication questions. No report was published but the chief recommendations of the Conference were described in a White Paper issued in 1946 (Cmd. 6805). The most important were the transfer to public ownership of the external telecommunication services of the countries represented and the replacement of the Commonwealth Communications Council by a Commonwealth Telecommunications Board, mainly advisory, consisting of representatives of the Governments concerned, with an independent Chairman. Legal effect was given to the recommendations, so far as the United Kingdom
+was concerned, by the passing of the Cables and Wireless Act, 1946, and the Commonwealth Telegraphs Act, 1949.
+
+**Prime Ministers' Meeting, 1946**
+
+A meeting of Prime Ministers took place in London in April and May, 1946. The United Kingdom, Canada, Australia, New Zealand, and the Union of South Africa were represented. No report was issued but a *communiqué* issued at the close stated that the representatives of Commonwealth countries had had informal consultations on a number of questions arising in connection with the post-war settlements. The discussions had covered a broad field and had contributed greatly to the elucidation of many problems and to a mutual understanding of the issues involved. The subjects on which views were exchanged included the draft Peace Treaties with certain enemy countries, the future of Germany, Security responsibilities and arrangements for liaison between British Commonwealth Governments on military affairs, and economic and welfare co-operation in South-East Asia and the South Pacific. The representatives also placed on record their appreciation of the value of the existing methods of consultation among Commonwealth countries which were peculiarly appropriate to the character of the British Commonwealth and preferable to rigid centralized machinery. The *communiqué* also reaffirmed the determination of the Commonwealth countries to maintain in peace the historic co-operation achieved by the Allies in time of war and to give the fullest support to the United Nations Organization.
+
+**British Commonwealth Scientific Official Conference, 1946, and the Imperial Agricultural Bureaux Conference, 1946**
+
+In June, 1946, on the conclusion of an unofficial scientific conference convened by the Royal Society, a Conference of official scientific representatives of the various Commonwealth countries was held in London. The countries represented were the United Kingdom, Canada, Australia, New Zealand, the Union of South Africa, Eire, India, Southern Rhodesia, and certain Colonies. The Conference made a number of recommendations designed to further co-operation in official scientific research within the Commonwealth.
+
+A number of Specialist Conferences were convened in accordance with recommendations of the Conference. An organization known as the British Commonwealth Collections of Micro-organisms was established and a Permanent Committee set up to provide for its central administration. In addition National Committees have been established in most countries of the Commonwealth to organize the preparation and issue of Directories of Collections and Lists of Cultures. A committee known as the "Committee on Mineral Resources and Geology" was established, composed of representatives of all Commonwealth countries, with the object of facilitating continued collaboration on the topics discussed at the Conference. (The first meeting of the Committee was held in Algiers in September 1952 to coincide with the 19th Session of the International Geological Congress.) A "Commonwealth Committee on Fuel Research" was set up, consisting of the leaders of delegations to the Conference together with representatives of Pakistan and Ceylon; and a Committee of deputies called the "London Secretariat" was also created. The Conference was followed by one of the periodical conferences of the Imperial Agricultural Bureaux, at which the same countries were represented.
+
+Reports of the Conferences were published as Cmd. 6970 and Cmd. 6971 respectively.
+
+**British Commonwealth Conference on Nationality and Citizenship, 1947**
+
+In February, 1947, a Conference of experts from the United Kingdom, Canada, Australia, New Zealand, the Union of South Africa, Eire, Newfoundland, Southern Rhodesia, Burma, and Ceylon met in London to consider questions of Nationality law. India was not represented, but arrangements
+were made to keep the Government of India informed of the course of proceedings. No report was published, but legal effect was given to the scheme of legislation recommended by the Conference through the passing of the British Nationality Act, 1948, of the United Kingdom and corresponding legislation in other Commonwealth countries. The scheme was described in a White Paper (Cmd. 7326).
+
+Conference on Social Insurance, 1947
+
+In May, 1947, a conference of officials of the various Governments was held in London to consider the possibility of reciprocal arrangements in social insurance as between the countries of the Commonwealth. The countries represented were Great Britain, Northern Ireland, Canada, Australia, New Zealand, the Union of South Africa, Eire, Southern Rhodesia, and Burma. No report of the conference was published.
+
+The Canberra Conference, 1947
+
+At the suggestion of the United Kingdom and Australian Governments, a meeting of British Commonwealth countries was held at Canberra at the end of August, 1947, in order to exchange views, without commitment and on broad lines, as a preliminary to an international conference about the peace settlement with Japan. The meeting was attended by delegations of the Governments of Australia, the United Kingdom, Canada, New Zealand, South Africa, India, Pakistan, and Burma. The Government of Ceylon had been invited to attach an adviser to the United Kingdom delegation, but were unable to do so.
+
+The main points discussed at the meeting, which lasted for one week, were the procedure and machinery for making and enforcing the terms of a peace settlement with Japan, the basic objectives of a settlement, its territorial, political, economic and financial provisions, and general policy with regard to reparations and Japan’s disarmament and demilitarization.
+
+Prime Ministers’ Meeting, 1948
+
+A meeting of Prime Ministers took place in London in October, 1948. The United Kingdom, Canada, Australia, New Zealand, South Africa, India, Pakistan, Ceylon, and Southern Rhodesia were represented. No report was issued but a communiqué issued at the end of the Meeting stated that the discussions had covered many matters of common concern including international relations, economic affairs, and defence.
+
+The discussions had shown a substantial community of outlook among all the Commonwealth Governments in their approach to present world problems. Fundamentally this approach was based upon their support of the objectives of the United Nations as an instrument for world peace and their determination to make its work fully effective. All the Commonwealth Governments were resolved to work together and with other Governments to establish world peace on a democratic basis. The communiqué also mentioned some of the international and economic problems which the Meeting had considered and on which the Commonwealth Governments were resolved to work in consultation with each other. The Meeting expressed a general desire to maintain and extend methods of consultation between Governments of the Commonwealth, and it recorded its support for Ceylon’s application for membership of the United Nations.
+
+Establishment of the Republic of Ireland, 1949
+
+Opportunity was taken of the presence of representatives of Canada, Australia, and New Zealand at the Prime Ministers’ Meeting of 1948 to discuss informally with them and with representatives of Eire the situation arising from the decision of Eire to leave the Commonwealth and to be known henceforward as the Republic of Ireland. Legal effect was given in the United
+Kingdom to the policy decided upon as a result of these discussions, by the passing of the Ireland Act, 1949.
+
+Prime Ministers' Meeting, 1949
+
+A Prime Ministers' Meeting took place in London in April, 1949 to consider important constitutional issues arising from India's decision to adopt a republican form of constitution and her desire to continue her membership of the Commonwealth. Canada, Australia, New Zealand, South Africa, India, Pakistan, and Ceylon were represented. No report was issued but a communiqué issued at the end of the Meeting contained a declaration stating that the Government of India had informed the other Governments of the Commonwealth of the intention of the Indian people that under the new constitution which was about to be adopted India should become a sovereign independent republic. The Government of India had, however, declared and affirmed India's desire to continue her full membership of the Commonwealth of Nations and her acceptance of the King as the symbol of the free association of its independent member nations and as such as Head of the Commonwealth. The Governments of the other countries of the Commonwealth, the basis of whose membership of the Commonwealth was not thereby changed, accepted and recognized India's continuing membership.
+
+Meeting of Commonwealth Finance Ministers, July, 1949
+
+In July, a meeting of Commonwealth Finance Ministers was held in London to exchange views on the urgent economic problems confronting their countries, with particular reference to the recent fall in the level of the gold and dollar reserves of the sterling area. The Ministers reviewed the economic position of the sterling area, both immediate and long-term, and reaffirmed their conviction that the strength and stability of sterling were essential to the well-being not only of each member of the area, but also of the world as a whole. The immediate steps necessary to check the heavy drain on the central reserves were discussed, and Ministers agreed to recommend to their Governments action comparable in its results to that already decided on by the United Kingdom. It was recognized that emergency measures were perforce negative and unconstructive and the problems of the previous few months were an aggravation of long-standing difficulties. They noted with satisfaction that further discussions were being arranged to take place in Washington early in September to consider the action required to achieve the aim of a pattern of world trade in which the dollar and non-dollar countries could co-operate together within one single multilateral system. The achievement of this aim depended on the establishment of conditions which would make a single multilateral system of world trade and payments practicable, and Ministers agreed that their Governments should give consideration, in collaboration with other Governments concerned, to measures designed to achieve these conditions. It was agreed that a lasting solution of the sterling area difficulties could not be found without a very substantial expansion of the area's earnings of dollars and the most effective use and development of the resources of each component part. Practical and positive measures designed to this end were discussed and accepted for recommendation to Governments. The special position of those countries at present in a lesser or greater degree under-developed but which might with assistance not only improve the standard of living of their people but also make a greater contribution to the resources available to the world was recognized. In conclusion, the Conference recommended continuous consultation between Governments to make these measures effective and recommended the necessary action to meet the need.
+
+Colombo Conference, January, 1950
+
+At the Commonwealth Prime Ministers' meeting held in London in October 1948 a suggestion was made that in the intervals between meetings of Common-
+wealth Prime Ministers, occasional meetings on foreign affairs should be held at a ministerial level. The first of these meetings was held at Colombo in January 1950 at the invitation of the Prime Minister of Ceylon. The final communiqué recognized the appropriateness of Ceylon for the meeting at a time when Asia was both the main focus of interest and the area of special urgency, and noted with satisfaction that there is a consistent identity of approach among all the members of the Commonwealth on the fundamental issues underlying the current problems of foreign policy. The Conference recognized that the political stability of South-East Asia depended mainly on the improvement of its economic conditions and recommended the establishment of a Consultative Committee of the Commonwealth Governments interested in the area, the first meeting of which should take place in Australia. The Conference noted with satisfaction the political settlement reached in Indonesia and paid special attention to Indo-China, Burma, and Malaya. The Conference reviewed the currency position in the Far East, considered the situation created by the emergence of the new regime in China, and reconsidered the provisional conclusions of the Commonwealth Conference held at Canberra in 1947 on the conditions of a peace settlement with Japan, on which it was agreed that delegates should submit recommendations to their respective Governments. As regards Western Europe, the representatives of the other Commonwealth Governments expressed the view that there need be no inconsistency between the policy followed by the United Kingdom and the maintenance of the traditional links between the United Kingdom and the rest of the Commonwealth.
+
+The opportunity was then taken for Commonwealth officials concerned with economic affairs to exchange information on developments since the Commonwealth Finance Ministers met in July, 1949. Particular attention was given to the recent trend of, and the future prospects for, the dollar exports of the sterling area.
+
+Commonwealth Consultative Committee
+
+The first meeting of the Commonwealth Consultative Committee, the establishment of which was recommended at the Colombo Conference in January, 1950, was held at Sydney in May, 1950, at the invitation of the Australian Government. The Consultative Committee agreed to recommend to Governments that a six-year development plan for the whole of South and South-East Asia should be prepared. To this end the Governments of India, Pakistan and Ceylon and the Colonial territories in the area were invited to provide information on the state of their economies and to prepare six-year programmes of development. Invitations to participate in this scheme were also extended to the non-Commonwealth countries in the area, namely Burma, Thailand, Indonesia, and the three Associate States of Indo-China. It was hoped in this way to collect together sufficient information for the compilation of a comprehensive development report which would review the economic problems of countries in South and South-East Asia and put forward a realistic programme of development for the area during the next six years. A report on these lines would be prepared and considered at the next meeting of the Consultative Committee. It was also agreed at Sydney to recommend the immediate establishment of a Technical Assistance scheme which would serve to supplement the existing provision of technical assistance to countries in the area. The Commonwealth Governments represented at Sydney undertook to underwrite expenditure incurred in the provision of assistance under this scheme up to a maximum of £8,000,000 during the three years from 1st July, 1950.
+
+The second meeting of the Consultative Committee took place in London in September and October, 1950. At this meeting the development programmes proposed by India, Pakistan and Ceylon and the Colonial territories concerned
+were considered and agreement was reached among the Ministers present to recommend to their Governments approval of the comprehensive development report which had been the subject of discussion. Answers from non-Commonwealth countries about participation in the scheme were not received in time to permit consideration and incorporation of development programmes for these territories and the Report was therefore confined to the problems of the Commonwealth countries in the area. The Report endeavoured to assess what total resources of capital and technical manpower would be necessary, what proportion of these resources could be provided internally, and what level of external assistance would be required if the development programmes were to be implemented as a whole. It was made clear in the Report that the development contemplated could not hope to achieve any considerable result of raising the standard of living immediately, but would provide a foundation upon which future progress could be based. At the end of the Commonwealth meetings discussions with representatives of the non-Commonwealth countries took place. Thailand and the Associate States of Indo-China had previously agreed to participate in the development plan and therefore sent delegates to these discussions. Burma and Indonesia were represented by observers. It was hoped that as a result of these discussions all these countries would associate themselves with the scheme and that their development programmes could be incorporated at a later stage. The special appointment of a United States liaison officer to the Conference ensured that the United States Administration were kept in the closest touch with the proceedings. The Report of the Consultative Committee was subsequently approved by the Commonwealth Governments concerned and was published on the 28th November, 1950.*
+
+Meeting of Commonwealth Speakers, January, 1950
+
+As a result of consultation between Mr. Attlee and the Prime Ministers of presence in London, on the occasion of the opening of the new Chamber, of the Speakers of the other Commonwealth countries for a discussion on, inter alia, problems of Parliamentary Procedure. It was agreed that further meetings should be arranged.
+
+Prime Ministers’ Meeting, 1951
+
+As a result of consultation between Mr Attlee and the Prime Ministers of other Commonwealth countries a meeting took place in January, 1951.
+
+The main purpose of the meeting was to review the international situation and to consider what further positive action Commonwealth Governments could take to secure and preserve world peace.
+
+The Prime Ministers of Canada, Australia, New Zealand, India, Pakistan, Ceylon and Southern Rhodesia attended the meeting. Dr. Malan, who could not be present, was represented by Dr. Dönges, Minister of the Interior in the Union of South Africa.
+
+There was agreement on the urgency and importance of promoting a satisfactory settlement in the Far East. The Prime Ministers discussed in addition the terms of a peace settlement for Japan and the safeguards which it might include. They affirmed their belief that the early conclusion of a Japanese Peace Treaty was an urgent need.
+
+The situation in the Middle East was also considered, and it was agreed that the stability and welfare of this area and its maintenance as a vital artery of communications were of deep concern to all Commonwealth countries.
+
+The meeting also reviewed the situation in Europe, including the obligations of the United Kingdom and Canada under the terms of the North Atlantic
+
+* The Colombo Plan for Co-operative Economic Development in South and South-East Asia. (Cmd. 8080).
+Treaty. The Prime Ministers took note of the progress made in re-establishing the economy of Western Europe on a sound basis. By strengthening the ability of the European democracies to maintain their national integrity a valuable contribution had been made to the security of the free world.
+
+The economic problems arising from the prevailing shortages of raw materials were also discussed. The Prime Ministers agreed to recommend to their respective Governments that the existing Commonwealth machinery for consultation on questions of supply and production should be strengthened.
+
+No report was issued but a communiqué published at the end of the meeting gave a brief outline of the matters discussed. A separate "declaration" was also issued which, while stating firmly the prime and common purpose of Commonwealth countries to preserve world peace, affirmed their determination to resist aggression.
+
+Meeting of Defence Ministers, June, 1951
+
+The Defence Ministers of the United Kingdom, Australia, New Zealand and the Union of South Africa, and the Southern Rhodesian Minister of Finance (representing the Prime Minister and Minister of Defence of Southern Rhodesia) met in London in June, 1951. The Government of Canada was represented by an observer. The main purpose of the meeting was to consider certain defence problems in regions of common concern, including the Middle East. The defence problems of this area and the related problems of South East Asian defence were considered in the context of the world strategic situation. The discussion also covered problems on equipment, the shipping facilities, and training.
+
+Supply and Production Meeting, September, 1951
+
+A meeting of Commonwealth Ministers concerned with Supply and Production (preceded by a meeting of Officials) was held in London in September, 1951, to exchange views on the problems that faced the whole Commonwealth of the production and exchange of both raw materials and manufactured goods. Canada, Australia, New Zealand, South Africa, India, Pakistan, Ceylon and Southern Rhodesia were represented. The Colonial Empire was represented by the Minister of State for the Colonies, and a number of Colonial Territories nominated representatives to attend in the capacity of advisers to the Minister of State.
+
+A communiqué issued on the 27th September, 1951, stated that it had been agreed that, if efforts to provide rising standards of living both inside and outside the Commonwealth were not to be impeded, it was equally important both to ensure the continuous development of supplies of raw materials to keep pace with expansion of industrial capacity and to maintain a free flow of exports of capital goods and other essential manufactures; and generally that the International Materials Conference in Washington should continue to receive the support of Commonwealth countries both in arranging measures for dealing with current shortages and allocation problems and for such other matters as might be agreed to be appropriate (Pakistan and Ceylon not being members of the Central Group or any of the Commodity Committees of the International Materials Conference, their representatives expressed no views on this subject). It was agreed that, in the interests of steady and long-term expansion of raw materials production and of maintaining sound and stable economies in both producing and consuming countries, there was need to avert violent price fluctuations in the prices both of raw materials and of manufactured goods, and that the range of prices and purchasing arrangements should be such as would encourage long-term production without discouraging consumption (the Pakistan representative reserved the position of his Dele-
+gation on this). The meeting reviewed the possibilities of increasing supplies of raw materials available to the Commonwealth and recognized the importance of Commonwealth producing countries increasing their production of raw materials so as to meet requirements of consuming countries, the need for continued and increased supplies of capital and other essential goods, both for the economic development of Commonwealth countries, having regard to their different stages of development, and for stimulating the contribution which they could make towards increasing supplies of raw materials. Arrangements were agreed upon for the fuller exchange of information and for facilitating deliveries of United Kingdom exports to Commonwealth countries.
+
+**British Commonwealth Scientific Conference, 1952**
+
+At the invitation of the Government of Australia, a British Commonwealth Scientific Conference was held in Canberra and Melbourne in February and March 1952. The Conference was attended by representatives of the United Kingdom, Canada, the Commonwealth of Australia, New Zealand, the Union of South Africa, Pakistan, Ceylon, Southern Rhodesia, and the Colonies, as well as an observer from U.S.A.
+
+The Conference dealt with a wide range of matters including methods for the improvement of collaboration in science between countries of the British Commonwealth, the application of the results of research, the development of information services, the movement of scientists, the relations of scientific organizations with international scientific bodies, scientific representation overseas, and the provision of technical man-power to assist under-developed countries. Special consideration was given to subjects felt to be of great economic and scientific importance to Commonwealth countries.
+
+**Commonwealth Economic Conference, 1952.**
+
+A Conference of Commonwealth Prime Ministers was held in London in November 1952 to review questions of financial, commercial and economic policy.
+
+The Conference, which had been preceded by a preparatory meeting in London of Commonwealth officials, was attended by the Prime Ministers of Canada, Australia, New Zealand, Pakistan, Ceylon and Southern Rhodesia; the Union of South Africa and India were represented by their Finance Ministers. The Colonies were represented by the Colonial Secretary, assisted by advisers nominated by Colonial Governments.
+
+Measures were considered for increasing the economic strength of Commonwealth countries, including Colonial territories, and creating conditions in which their peoples could play their part in securing prosperity and contentment for themselves and for the world. It was recognized that the measures taken at the January meeting of Commonwealth Finance Ministers enabled the present Conference to decide that a more positive policy could be adopted, both by Commonwealth countries themselves and in concert with other friendly countries, to promote the expansion of world production and trade.
+
+A *communiqué* issued on 11th December stated that the following principles were agreed upon as governing the approach to the whole range of subjects discussed at the Conference:
+
+(a) Internal economic policies designed to curb inflation and rises in the cost of living should be steadily followed.
+
+(b) Sound economic development should be encouraged with the object of increasing productive strength and competitive power, providing employment and raising standards of life.
+
+(c) A multi-lateral trade and payments system should be extended over the widest possible area.
+
+* For a note on the British Commonwealth Scientific Conference and its Standing Committee see page 28.
+It was agreed that an adequate and stable internal balance must be a first objective for all Governments and that there was a vital need to expand the earning power of all sterling countries.
+
+The Conference fully reviewed development policy and agreed that in sterling area countries development should be concentrated on projects which would contribute directly or indirectly to the improvement of the area's balance of payment with the rest of the world, but recognized the need for social investment in certain Commonwealth countries. The United Kingdom Government undertook to make a special effort to provide additional capital for Commonwealth development by facilitating the financing of schemes which would contribute to the improvement of the sterling area's balance of payments, and the Conference welcomed a proposal by a group of important financial, industrial and commercial concerns in the United Kingdom to form a Company for further development in other Member countries of the Commonwealth and in the Colonial Empire. It was also agreed that all sterling-area Governments should strive to create the conditions which would encourage investment in their countries by investors outside the sterling area.
+
+On commodity policy, it was recognized that there was no one universal remedy for the problem of instability of prices for primary commodities. All Commonwealth Governments expressed their willingness to co-operate in considering, commodity by commodity, international schemes designed to ensure stability of demand and prices at an economic level. The Conference discussed Imperial Preference and there was general recognition of the value of existing preferences. All Commonwealth Governments agreed to co-operate with the United Kingdom in an approach to the other contracting parties of the GATT to meet particular difficulties arising from the United Kingdom tariffs.
+
+It was agreed to seek the co-operation of other countries in a plan to create conditions for expanding world production and trade, with the aim of securing international agreement on the adoption of policies by creditor and debtor countries, which would restore balance in the world economy and would, by progressive stages and within reasonable time, create an efficient multi-lateral trade and payments system covering the widest possible area. It was also agreed that it was important, not only for the United Kingdom and the sterling area but also for the world, that sterling should resume its full role as a medium of world trade and exchange. It was recognized, however, that the restoration of the convertibility of sterling could only be reached by progressive steps and would depend upon the attainment of certain fundamental conditions.
+
+Prime Ministers' Meeting, 1953
+
+A Meeting of the Prime Ministers of the United Kingdom, Canada, Australia, New Zealand, South Africa, India, Pakistan, Ceylon, and Southern Rhodesia was held immediately after the Coronation of Queen Elizabeth II.
+
+2. A communiqué, issued on 9th June, stated that the Prime Ministers reviewed the international situation. They agreed that while no opportunity should be lost of composing the differences that divide the world, the democracies must maintain their strength and preserve their rights and liberties. They hoped for the early establishment of the European Defence Community, and discussed how to promote stability in the Far East after an armistice in Korea. They recognized the international importance of the Suez Canal and of the military base in the Canal Zone, and agreed that peace and security in the Middle East were in the common interest.
+
+3. They also reviewed economic development since the Commonwealth Economic Conference of December 1952 and agreed to adhere to the policies then laid down.
+PART III
+
+NOTES ON THE CONSTITUTIONAL DEVELOPMENT AND PRESENT CONSTITUTIONS OF THOSE COUNTRIES OF THE COMMONWEALTH FOR THE CONDUCT OF RELATIONS WITH WHICH THE SECRETARY OF STATE FOR COMMONWEALTH RELATIONS IS RESPONSIBLE
+
+Page
+
+CANADA ........................................... 87
+COMMONWEALTH OF AUSTRALIA .................... 105
+NEW ZEALAND ..................................... 124
+UNION OF SOUTH AFRICA .......................... 131
+INDIA .............................................. 144
+PAKISTAN ......................................... 158
+CEYLON ............................................ 163
+SOUTHERN RHODESIA ............................... 167
+HIGH COMMISSION TERRITORIES—
+BASUTOLAND ....................................... 172
+THE BECHUANALAND PROTECTORATE ............... 177
+SWAZILAND ......................................... 182
+MALDIVE ISLANDS .................................. 191
+THE British North America Act (30-31 Vict. Cap. 3) grouped the Provinces of Ontario and Quebec (then constituting the Colony of Canada), New Brunswick and Nova Scotia together in a confederation, to which was given the name of Canada. This Act was brought into force on 1st July, 1867, by Royal Proclamation bearing date the 22nd May, 1867.
+
+The Governor-General of Canada was by Letters Patent of 1st April, 1870, appointed Governor of Rupert's Land. The admission of Rupert's Land into the confederation after the 15th July, 1870, was provided for by Order in Council of the 23rd June, 1870, and the Province of Manitoba was erected out of this Territory by a Canadian Act (33 Vict. cap. 3) and made a Canadian Province on 15th July, 1870.
+
+By Order of Her Majesty in Council dated 16th May, 1871, issued on the authority of the British North America Act 1867, on Addresses from the Houses of Parliament of Canada and the Legislature of British Columbia, that Colony entered the confederation as from the 20th July, 1871.
+
+Prince Edward Island was admitted by Order in Council bearing date 26th June, 1873, on the 1st July in that year.
+
+By an Act passed in 1876 the portion of the North Western Territories lying to the north of Manitoba was created into a separate district, under the name of the District of Keewatin but under the control of the Lieutenant-Governor of Manitoba.
+
+By Canadian Act 38 Vict. cap. 49 (1875), the territories formerly known as "Rupert's Land" and the North-Western Territory (with the exception of the portion forming the Province of Manitoba) were placed under the jurisdiction and control of a Lieutenant-Governor and Council, separate and distinct from Manitoba.
+
+On the 31st July, 1880, in compliance with the prayer of an Address from the Parliament of Canada dated the 3rd May, 1878, Her Majesty issued an Order in Council annexing to Canada from the 1st September, 1880, such British Possessions in North America (other than Newfoundland) as were not previously included in it.
+
+By Minute of Council of 17th May, 1882, the districts of Assiniboia, Saskatchewan, Alberta, and Athabaska were created, and by Order in Council dated the 2nd October, 1895, modified by Order in Council of 18th December, 1897, the remaining territory was subdivided into the districts of Ungava, Franklin, Mackenzie, and Yukon, the last-named being made a separate territory, distinct from the North-West Territories, under special regulations by chapter 6 of the Acts of the Federal Parliament, 1898.
+
+By Federal Acts of 1905 (Cap. 3 and 42) the four provisional districts of Alberta, Assiniboia, Saskatchewan and Athabaska were formed into the two Provinces of Alberta and Saskatchewan and were admitted into Canada as such on the 1st September, 1905. The dividing line runs north and south.
+
+By Federal Act of 1912, the boundaries of the Provinces of Ontario, Quebec and Manitoba were extended, the whole of Ungava being transferred to Quebec and parts of Keewatin to Ontario and Manitoba. The Judicial Committee of the Privy Council, by the Labrador Boundary Award made on 1st March, 1927, adjudged that an area of about 112,400 square miles, ownership of which had been disputed between Quebec and Newfoundland, was part of the latter.
+
+In 1949 Newfoundland, including Labrador, was joined with the existing nine Provinces as a tenth Province after the people of Newfoundland had by a majority voted in favour in a referendum held in 1948.
+
+For further information about Canada see Canada Year Book.
+Situation and Area
+
+Canada occupies the northern half of the American continent (except Alaska, which belongs to the United States) stretching from latitude 49° to beyond the polar circle, and including the islands of the northern archipelago lying in the Canadian sector. It is the third largest country in the world, comprising an area computed at 3,845,144 (land and fresh-water) square miles, over forty times the area of the United Kingdom.
+
+Population
+
+|                | 1911   | 1921   | 1931   | 1941   | 1951   |
+|----------------|--------|--------|--------|--------|--------|
+| Alberta        | 374,295| 588,454| 731,605| 796,169| 939,501|
+| British Columbia| 392,480| 524,582| 694,263| 817,861| 1,165,210|
+| Manitoba       | 461,394| 610,118| 700,139| 729,744| 776,541|
+| New Brunswick  | 351,889| 387,876| 408,219| 457,401| 515,697|
+| Newfoundland    | —      | —      | —      | —      | 361,416|
+| Nova Scotia    | 492,338| 523,837| 512,846| 577,962| 642,584|
+| Ontario        | 2,527,292| 2,933,662| 3,431,683| 3,787,655| 4,597,542|
+| Prince Edward Island| 93,728| 88,615| 88,038| 95,047| 98,429|
+| Quebec         | 2,005,776| 2,360,510*| 2,874,662| 3,331,882| 4,055,681|
+| Saskatchewan   | 492,432| 757,510| 921,785| 895,992| 831,728|
+| N.W. Territories| 6,507| 8,143| 9,316| 12,028| 16,004|
+| Yukon          | 8,512| 4,157| 4,230| 4,914| 9,096|
+
+Total: 7,206,643 8,787,949* 10,376,786 11,506,655 14,009,429
+
+* Revised in accordance with the Labrador award of the Privy Council, 1st March, 1927. Newfoundland, which joined Canada in 1949 had a population of 321,819 in 1945.
+
+The 1951 Census figure for Canada as a whole is 14,009,429. For the chief cities the figures are as follows:
+
+- Greater Montreal: 1,395,400
+- Montreal: 1,021,520
+- Greater Toronto: 1,117,470
+- Toronto: 675,754
+- Vancouver: 344,833
+- Winnipeg: 235,710
+- Hamilton: 208,321
+- Ottawa: 202,045
+- Quebec: 164,016
+- Edmonton: 159,631
+
+According to the 1951 Census, 4,319,167 of the people in Canada are of French extraction, mostly residing in Quebec, where French (which, with English, is the official language of the Federal Government of Canada) is generally spoken.
+
+The population of indigenous Indian origin in Canada now numbers 155,874. They are to be found throughout the country, chiefly in the Prairie Provinces, Ontario, British Columbia, and the Northwest Territories. About one-half inhabit the northern and outlying regions, supporting themselves by hunting, fishing, and traffic in furs; the remainder live in Reserves.
+
+The Eskimo population of Canada, excluding Labrador, was estimated at 8,550 in 1951, mostly along the northern coasts.
+
+There are 32,528 persons of Chinese and 21,663 of Japanese origin living in Canada.
+
+Constitution
+
+The Executive Government is vested in the Crown and is exercised by a Governor-General appointed by the Queen on the recommendation of Her Majesty's Canadian Ministers. The Governor-General exercises his executive
+powers on the advice of his Cabinet which, as in England, is a committee of the Privy Council, formed of the principal members of the Government and responsible to the Parliament of Canada.
+
+The supreme legislative power in the field of jurisdiction assigned to the federal legislature by the British North America Act is vested in a Parliament, consisting of the Queen (represented by the Governor-General), a Senate, and a House of Commons. The Senate now consists of 102 members nominated for life by the Governor-General and so chosen that 24 represent Ontario, 24 Quebec, 24 the Maritime Provinces, 24 the Western Provinces and (since 31st March, 1949) six Newfoundland. The qualifications for Senator include the possession of property worth $4,000, age not less than 30 years and residence within the province for which he is appointed. The House of Commons consisted originally of 181 elected members. This number has been increased by additions on the accession of new provinces and as the result of increase in population and is at present 262—83 representing Ontario, 73 Quebec, 13 Nova Scotia, 10 New Brunswick, 16 Manitoba, 18 British Columbia, four Prince Edward Island, 17 Alberta, 20 Saskatchewan, seven Newfoundland, and one the Yukon Territory and Mackenzie River. Representation in the House is reviewed decennially, and under an Act passed in 1952 the number of Members is raised to 265, distributed as follows: Ontario 85, Quebec 75, Nova Scotia 12, New Brunswick 10, Manitoba 14, British Columbia 22, Prince Edward Island 4, Saskatchewan 17, Alberta 17, Newfoundland 7, Yukon Territory 1, Mackenzie District 1. There is no property qualification; the age qualification is 21 years. A Parliament lasts five years if not sooner dissolved.
+
+For each province there is a Lieutenant-Governor, appointed by the Governor-General in Council and holding office during pleasure, but not removable within five years of appointment except for cause assigned.
+
+Each province has a "Legislative Assembly," and in Quebec there is also a "Legislative Council," forming a second chamber. The Provincial Legislatures possess the power of altering their own constitutions. The territory not comprised within any province (Yukon and the Northwest Territories) is very thinly inhabited. The Yukon Territory is governed by an appointed Commissioner (under instructions from the Governor-General in Council or the Minister of Resources and Development) and an elective legislative council of five members. The Northwest Territories are similarly governed by a Commissioner and eight councillors, of whom three are elected and the rest appointed by the Governor-General in Council.
+
+The Parliament of Canada has exclusive legislative power in certain specified matters and generally in all matters except those specifically assigned by the constitution to the Provincial Legislatures. The Canadian Constitution is in this respect the reverse of that of the United States. Among matters enumerated by the British North America Act as lying within the federal sphere are: public finance, trade regulations, postal service, currency, coinage, banking, navigation, defence, the law relating to crimes, bankruptcy, copyright, patents, naturalization, and Indian affairs.
+
+The Provincial Legislatures have powers to legislate in respect of certain specified subjects, of which the chief are property and civil rights, the alteration of their own constitutions, direct taxation within the province and provincial loans, the management of provincial public lands, provincial and municipal offices, hospitals, gaols, licences, local works, and the general civil law and procedure. Over education they have full powers, subject only to certain provisions to secure protection to religious minorities. In agricultural, quarantine and immigration matters they possess concurrent legislative powers with the Parliament of Canada.
+The Judges are appointed by the Governor-General in the superior, district, and county courts throughout Canada, except in the probate courts of Nova Scotia and New Brunswick.
+
+By the provisions of the British North America Act and subsequent arrangements entered into from time to time, the Canadian Government is required to make certain annual payments to the individual Provinces. These payments (subsidies) are of four kinds:
+
+(a) Interest on Debt Allowances.—This is based on payment of interest at 5 per cent. per annum on the amount by which the actual debts of the Provinces on their entering into Confederation fell short of a prescribed debt allowance.
+
+(b) Allowances for Government and Legislature.—These are fixed amounts based on the population of the Province concerned and range from $100,000 to $240,000.
+
+(c) Allowances per Head of Population.—Grants are paid at the rate of 80 cents a head up to a population of 2½ million, and at 60 cents a head for so much of the population as exceeds that number.
+
+(d) Special Grants.—A number of special grants have been sanctioned for various reasons.
+
+The total paid to the Provinces under these statutory subsidies amounted to $18.7 million during the year ended 31st March, 1951. Full details are given in the Public Accounts of Canada. In addition the Provinces (excluding Ontario and Quebec) received $94.1 million under tax rental agreements by which the Provinces surrendered to the Federal Government their rights to levy corporation taxes, and $4.6 million by transfer of certain public utilities tax receipts.
+
+The British North America Act, 1867, provided that Bills passed by the Provincial Legislatures require the assent of the Lieutenant-Governor and may be disallowed within a year by the Governor-General, and those passed by the Dominion Parliament require the assent of the Governor-General and may be disallowed within two years by the Queen.
+
+Provision was made in the Act constituting the Dominion for the admission into it of any of the other British possessions on the continent of North America, and they have all since been admitted. Provision was also made for the construction of a railway from the River St. Lawrence to Halifax and (in the Order in Council admitting British Columbia) for the construction of a railway from the Atlantic to the Pacific Ocean. Both these have been constructed.
+
+Governor-General and Commander-in-Chief: His Excellency the Rt. Hon. Vincent Massey, C.H.
+
+THE MINISTRY
+
+Prime Minister and President of the Privy Council: Right Hon. Louis Stephen St. Laurent, Q.C.
+
+Minister of Trade and Commerce and Minister of Defence Production: Right Hon. Clarence Decatur Howe.
+
+Minister of Agriculture: Right Hon. James Garfield Gardiner.
+
+Minister of Public Works:
+
+Minister of National Defence: Hon. Brooke Claxton, Q.C.
+
+Minister of Transport: Hon. Lionel Chevrier, Q.C.
+
+Minister of National Health and Welfare: Hon. Paul Joseph James Martin, Q.C.
+
+Minister of Finance and Receiver-General: Hon. Douglas Charles Abbott, Q.C.
+
+Minister of National Revenue: Hon. James J. McCann.
+
+Leader of the Government in the Senate: Hon. Wishart McL. Robertson.
+
+Minister of Labour: Hon. M. F. Gregg, V.C., O.B.E., M.C.
+
+Secretary of State for External Affairs: Hon. Lester Bowles Pearson, O.B.E.
+
+Minister of Justice and Attorney-General: Hon. Stuart Sinclair Garson, Q.C.
+
+Minister of Resources and Development: Lt.-Col. the Hon. Robert Henry Winters.
+
+Secretary of State: Hon. J. Pickersgill.
+
+Minister of Veterans' Affairs: Hon. Hugues Lapointe.
+
+Postmaster-General: Hon. Alcide Côté.
+
+Minister of Citizenship and Immigration: Hon. Walter Edward Harris.
+
+Minister of Mines and Technical Surveys: Hon. G. Prudham.
+Minister of Fisheries: Hon. James Sinclair.
+Solicitor-General and Associate Minister of National Defence: Hon. R. O. Campney.
+
+Leader of the Opposition: Rt. Hon G. A. Drew, Q.C., LL.D.
+
+Clerk of Privy Council and Secretary to the Cabinet:
+Under Secretary of State for External Affairs: Hume Wrong.
+
+THE SENATE OF CANADA
+Speaker: Rt. Hon. Elie Beauregard, Q.C.
+Clerk of the Parliaments and Clerk of the Senate: L. Clare Moyer, D.S.O., Q.C.
+
+HOUSE OF COMMONS
+Speaker: Rt. Hon. Elie Beauregard, Q.C.
+Clerk: Leon J. Raymond, O.B.E.
+
+THE SUPREME COURT OF CANADA
+Chief Justice of Canada: Rt. Hon. Thibaudreau Rinfret.
+Puisne Judges: Hon. P. Kerwin; Hon. R. Taschereau; Hon. I. C. Rand; Hon. R. L. Kellock; Hon. J. W. Estey; Hon. C. H. Locke; Hon. J. R. Cartwright; Hon. J. H. G. Fauteux.
+Registrar: Paul Leduc, Q.C.
+
+THE EXCHEQUER COURT OF CANADA
+President: Hon. J. T. Thorson.
+Puisne Judges: Hon. Eugene R. Angers; Hon. J. C. A. Cameron; Hon. M. B. Archibald; Hon. J. D. Keamey; Hon. Alphonse Fournier, Q.C.
+Registrar: H. R. L. Henry, Q.C.
+
+DEPARTMENT OF TRADE AND COMMERCE
+Deputy Minister of Trade and Commerce: W. F. Bull.
+
+DEPARTMENT OF DEFENCE PRODUCTION
+Deputy Minister: M. W. Mackenzie.
+
+DEPARTMENT OF AGRICULTURE
+Deputy Minister: J. G. Taggart, C.B.E.
+
+DEPARTMENT OF LABOUR
+Deputy Minister: A. MacNamara.
+
+DEPARTMENT OF PUBLIC WORKS
+Deputy Minister: E. P. Murphy, C.M.G.
+
+DEPARTMENT OF NATIONAL DEFENCE
+Deputy Minister: C. M. Drury, C.B.E., D.S.O.
+Chairman of the Chiefs of Staff Committee: Lt.-Gen. C. Foulkes, C.B., C.B.E., D.S.O.
+Chief of the General Staff: Lt.-Gen. G. G. Simonds, C.B., C.B.E., D.S.O., C.D.
+Chief of the Naval Staff: Vice-Admiral E. R. Mainguy, O.B.E., C.D., R.C.N.
+Chief of the Air Staff: Air Vice-Marshal C. R. Slemon, C.B., C.B.E., C.D.
+
+DEPARTMENT OF TRANSPORT
+Deputy Minister: J. C. Lessard.
+Deputy Minister (Air Services): C. P. Edwards, C.M.G., O.B.E.
+
+DEPARTMENT OF NATIONAL HEALTH AND WELFARE
+Deputy Minister of National Health: G. D. W. Cameron, M.D.
+Deputy Minister of Welfare: G. F. Davidson.
+
+DEPARTMENT OF FINANCE
+Deputy Minister of Finance and Secretary of the Treasury Board: W. C. Clark.
+Master of the Royal Canadian Mint: W. C. Ronson.
+
+DEPARTMENT OF NATIONAL REVENUE
+Deputy Minister (Customs and Excise): David Sim, C.M.G.
+Deputy Minister (Taxation): C. Gavsic, C.B.E., Q.C.
+Assistant Deputy Minister (Customs): G. B. Urquhart.
+Assistant Deputy Minister (Excise): V. C. Nauman.
+
+DEPARTMENT OF MINES AND TECHNICAL SURVEYS
+Deputy Minister: Marc Boyer.
+
+DEPARTMENT OF VETERANS' AFFAIRS
+Deputy Minister: E. L. M. Burns, D.S.O., O.B.E., M.C.
+
+DEPARTMENT OF FISHERIES
+Deputy Minister of Fisheries: Stewart Bates.
+
+DEPARTMENT OF EXTERNAL AFFAIRS
+Secretary of State for External Affairs: Hon. Lester Bowles Pearson, M.P.
+Under Secretary of State for External Affairs: L. D. Wilgress.
+
+DEPARTMENT OF JUSTICE
+Solicitor-General:
+Deputy Minister: F. P. Varcoe, C.M.G., Q.C.
+
+ROYAL CANADIAN MOUNTED POLICE
+Commissioner: L. H. Nicholson, M.B.E.
+
+DEPARTMENT OF RESOURCES AND DEVELOPMENT
+Deputy Minister: Maj.-Gen. H. A. Young, C.B., C.B.E., D.S.O.
+
+DEPARTMENT OF THE SECRETARY OF STATE
+Secretary of State of Canada: Hon. J. Pickersgill.
+Under-Secretary of State and Deputy Registrar-General: C. Stein, Q.C.
+Assistant Under-Secretary: W. P. O'Meara, Q.C.
+
+POST OFFICE DEPARTMENT
+Deputy Postmaster-General: W. J. Turnbull.
+
+DEPARTMENT OF CITIZENSHIP AND IMMIGRATION
+Deputy Minister: Laval Fortier.
+
+AUDITOR GENERAL'S OFFICE
+Auditor-General: Watson Sellar, C.A.
+
+DEPARTMENT OF INSURANCE
+Superintendent of Insurance: R. W. Warwick.
+
+CIVIL SERVICE COMMISSION
+Commissioners: Charles H. Bland, C.M.G. (Chairman); Stanley G. Nelson; Alexandre J. Boudreau.
+
+CANADIAN BROADCASTING CORPORATION
+Governors: A. Davidson Dunton (Chairman); Rene Morin (Vice-Chairman); Dean Adrien Pouliot; Mrs. Mary Farr; Prof. J. A. Corry; Frederick J. Crawford; J. P. Tripp; W. H. Phillips; Dr. G. D. Steel.
+General Manager: Donald Manson.
+
+NATIONAL RESEARCH COUNCIL
+President: E. W. R. Steacie.
+
+NATIONAL HARBOURS BOARD
+Chairman: R. K. Smith, Q.C.
+
+INTERNATIONAL JOINT COMMISSION
+Chairman: Gen. A. G. L. McNaughton.
+Commissioners: Hon. George Spence; Gen. J. L. Dansereau.
+Canadian Representatives in Other Commonwealth Countries
+
+High Commissioner in the Commonwealth of Australia: W. A. Irwin.
+High Commissioner in Ceylon: J. J. Hurley, O.B.E., E.D.
+High Commissioner in India: Escott Reid.
+High Commissioner in New Zealand: E. H. Norman.
+High Commissioner in Pakistan: K. P. Kirkwood.
+High Commissioner in the Union of South Africa: T. W. L. MacDermot.
+High Commissioner in the United Kingdom: Norman A. Robertson.
+
+Canadian Representatives in Countries other than Commonwealth Countries
+
+Argentina: Maj.-Gen. the Hon. L. R. LaFlèche, D.S.O.
+Austria: Victor Doré, C.M.G. (Minister) (resident in Berne).
+Belgium: Lt.-Gen. Maurice Pope, C.B., M.C. (Ambassador).
+Brazil: (Vacant) (Ambassador).
+Chile: Leon Mayrand (Ambassador).
+Colombia: E. Turcotte (Ambassador).
+Cuba: H. A. Scott (Ambassador).
+Czechoslovakia: J. M. Teakles (Chargé d’Affaires a.i.).
+Denmark: E. D’Arcy McGreer (Minister).
+Finland: W. D. Matthews (Minister). (Resident in Stockholm.)
+France: Major-General G. P. Vanier, D.S.O., M.C. (Ambassador); A. A. Day (Minister-Counsellor).
+Germany: The Hon. T. C. Davis, Q.C. (Ambassador, Bonn, and Head of Mission in Berlin).
+Greece: George L. Magann (Ambassador).
+Iceland: J. B. C. Watkins (Minister) (resident in Oslo).
+Indo-China, Associated States: J. Quinn (Minister).
+Indonesia: G. Heasman (Ambassador).
+Italy: Pierre Dupuy, C.M.G. (Ambassador).
+Japan: Hon. R. W. Mayhew (Ambassador).
+Luxembourg: Lt.-Gen. Maurice Pope, C.B., M.C. (Minister) (resident in Brussels).
+Mexico: Charles P. Hébert (Ambassador).
+N.A.C. & O.E.E.C. (Paris), Permanent Delegation: A. D. P. Heeney, Q.C. (Ambassador) (Permanent Representative).
+Netherlands: T. A. Stone (Ambassador).
+Norway: J. B. C. Watkins (Minister).
+Peru: E. Vaillancourt (Ambassador).
+Philippines: F. H. Palmer, M.C. (Consulting General).
+Poland: T. Le M. Carter, M.C. (Chargé d’Affaires a.i.).
+Portugal: Hon. W. F. A. Turgeon, Q.C. (Minister) (resident in Dublin).
+Republic of Ireland: Hon. W. F. A. Turgeon, Q.C. (Ambassador).
+Sweden: W. D. Matthews (Minister).
+Switzerland: Victor Doré, C.M.G. (Ambassador).
+Turkey: H. O. Moran, M.B.E. (Ambassador).
+United Nations: D. M. Johnson (Permanent Representative).
+
+United States: Mr. Heeney (Ambassador); S. D. Pierce, O.B.E. (Minister).
+Uruguay: Maj.-Gen. the Hon. L. R. LaFlèche, D.S.O. (Ambassador) (resident in Buenos Aires).
+U.S.S.R.: R. A. D. Ford (Chargé d’Affaires a.i.).
+Venezuela: H. G. Norman, C.M.G. (Ambassador).
+Yugoslavia: J. Scott Macdonald (Ambassador).
+
+Representatives in Canada of Other Commonwealth Countries
+
+High Commissioner for the Commonwealth of Australia: Prof. Sir Douglas Copland, K.B.E., C.M.G.
+High Commissioner for India: R. R. Saksena.
+High Commissioner for New Zealand: T. C. A. Hislop, C.M.G.
+High Commissioner for Pakistan: Mahammed Ikramullah.
+High Commissioner for the Union of South Africa: A. Adrian Roberts, Q.C.
+High Commissioner for the United Kingdom: Lt.-Gen. Sir Archibald Nye, G.C.S.I., G.C.M.G., etc.
+
+Representatives in Canada of Countries other than Commonwealth Countries
+
+Argentina: Dr. L. M. Galigniana (Ambassador).
+Austria: Dr. Max Loewenthal-Chlumeky (Minister) (resident in Washington).
+Belgium: Fernand Mudis (Ambassador).
+Brazil: H. Lyra (Ambassador).
+Chile: General T. R. Diez (Ambassador).
+China (Nationalist): Dr. Liu Chieh (Ambassador).
+Cuba: Delfin H. Pupo y Proenza (Ambassador).
+Czechoslovakia: Zdenek Roskot (Chargé d’Affaires a.i.).
+Denmark: O. Schested (Minister).
+Finland: H. R. Martola (Chargé d’Affaires).
+France: Hubert Guérin (Ambassador).
+Germany: Dr. Werner Dankwort (Ambassador).
+Greece: Raoul Bibica Rosetti (Ambassador).
+Iceland: Thor Thors (Minister).
+Indonesia: Dr. Ali Sastroamidjojo (Ambassador).
+Republic of Ireland: Sean Murphy (Ambassador).
+Italy: C. Baldoni (Ambassador).
+Japan: Sadao Iguchi (Ambassador).
+Luxembourg: Hugues Le Gallais (Minister).
+Mexico: Dr. J. M. del Castillo (Ambassador).
+Netherlands: Dr. A. J. H. Lovink (Ambassador).
+Norway: Daniel Steen (Minister).
+Peru: Germán Fernandez-Concha (Ambassador).
+Poland: E. Markowski (Chargé d’Affaires).
+Portugal: Dr. Luis Esteves Fernandes (Minister).
+Spain: Senor Don Mariano de Yturalde y Orbegozo (Ambassador).
+Sweden: Dr. Klas E. Böök (Minister).
+Switzerland: Dr. Victor Nef (Minister).
+THE PROVINCES
+
+OLD CANADA (QUEBEC AND ONTARIO)
+
+History
+
+The Atlantic coast was discovered by Leif Ericson about 1000 A.D. and rediscovered by Sebastian Cabot in 1497. Jacquest Cartier landed at Gaspé in 1534 and sailed on to discover the St. Lawrence River. From 1603 onwards Samuel de Champlain explored the Atlantic seaboard, founding Port Royal (Nova Scotia) and Quebec (1608), and finally pushed up the Ottawa River to the upper Great Lakes. French explorers subsequently travelled the continent from Hudson Bay to the mouth of the Mississippi and from the Saguenay River to the Rockies.
+
+Until 1663 Quebec was governed autocratically by a trading company; in that year it became a Royal Province, under a Governor to whom as the personal representative of the King of France were entrusted the general policy of the country, the direction of its military affairs, and its relations with the Indian tribes. The Bishop, as head of the Church, was supreme in matters affecting religion, and the Intendant, acting under the authority of the King, not of the Governor, was responsible for the administration of justice, for finance, and for the direction of local administration. A Superior Council also existed, with certain administrative powers more formal than real. This system continued until the end of the French régime.
+
+In 1759 Quebec succumbed to British forces under General Wolfe, and in 1763 the whole territory of Canada was ceded to Great Britain by the Treaty of Paris.
+
+From 1763 to 1774 Canada was governed in the main by military authority. In the latter year the Quebec Act, passed by the Parliament of Great Britain, secured for the French colonists the right to retain their language, religion, and civil law. Roman Catholics were allowed the free exercise of their religion and the Catholic clergy were declared entitled to receive their accustomed dues and rights with respect to those professing the Catholic religion: and in civil cases it was declared that resort should be had to the Laws of Canada (i.e., the old French civil laws) for the decision of the same. A nominee Council was also established. The boundaries were extended to the Ohio and Mississippi Rivers, but were withdrawn to the Great Lakes in 1783.
+
+In 1791 an Act of Parliament was passed (31 Geo. III, cap. 31), authorizing the Crown to issue a proclamation dividing Canada into two Provinces, Upper Canada (now Ontario), in which many loyalists from the American colonies had settled, and Lower Canada (now Quebec), and establishing a constitution for each. The first step towards democratic institutions was taken by the establishment of elected Houses of Assembly, though the Governors, appointed by the Crown and the nominated legislative councils, retained control. This resulted in increasing difficulties, especially in Lower Canada, between the Houses of Assembly and the Executive Governments after the removal of immediate danger with the end of the American War in 1814, and they continued until the risings of 1837-38, which resulted in the suspension of the constitution of Lower Canada and the appointment of Lord Durham as Governor-General with special powers and instructions to report on the affairs of the country. He recommended effective control of the executive by the elected representatives of the people, i.e., responsible as distinct from repre-
+sentative government, and to this end the immediate union of Upper and Lower Canada and the ultimate union of all British North America. Upper and Lower Canada were accordingly reunited by Act 3 and 4 Vict. Cap. 35, and the legislative bodies were consolidated. The new House of Assembly, created in 1840, consisted of 84 members, there being an equal number from each Province. The new Legislative Council was to consist of not less than 20 members (it subsequently exceeded double that number), and the members were appointed for life. Subsequently (by 17 and 18 Vict. Cap. 118) the Canadian Legislature was empowered to alter the Constitution of the Legislative Council, and this power was utilized in 1856 by an Act of Canada which made half of the Legislative Council elective for terms of eight years. The modification was an important one, for it was because of the dissatisfaction caused by the behaviour of certain elected Councillors that, on the creation of the Dominion of Canada in 1867, the new Senate was made appointive.
+
+Municipal Institutions were established in Canada in 1841.
+
+As years passed, increasing difficulty was experienced in the conduct of public affairs owing to the division of interest of Upper and Lower Canada, while the development of communications and the outbreak of the Civil War in the United States emphasized both the possibility and the desirability of confederation. Negotiations resulted in agreement between Ontario, Quebec, Nova Scotia and New Brunswick and the passage of the British North America Act, 1867.
+
+ONTARIO
+
+Situation and Population
+
+The Province stretches 1,000 miles from east to west, from Quebec to the Prairies, and slightly more than 1,000 miles from south to north, from the Great Lakes to Hudson Bay. Its area is 412,582 sq. miles, and the population in 1951 was 4,597,542, about one-third of the total population of Canada. The capital is Toronto, the population of which is 675,754, and greater Toronto has a population of 1,117,470. The population of the Province at June 1952 was estimated at 4,766,000.
+
+Constitution
+
+(For development prior to 1867 see under "Old Canada.")
+
+The House of Assembly is elected for five years on an adult suffrage basis, with no property qualification. It consists of 90 members. At the last election, in 1951, the Progressive Conservative Party gained a majority of 66 seats, the Liberal Party securing 8, the Co-operative Commonwealth Federation 2, Liberal Labour 1, and Labour Progressive 1.
+
+Lieutenant-Governor: The Hon. Louis O. Breithaupt, LL.D.
+
+EXECUTIVE COUNCIL
+
+Premier and President of the Council and Provincial Treasurer: Hon. Leslie M. Frost, Q.C.
+
+Minister of Agriculture: Colonel the Hon. Thomas L. Kennedy.
+
+Minister of Highways: Hon. George H. Doucett.
+
+Minister of Public Works: Hon. Fletcher S. Thomas.
+
+Attorney-General: Hon. Dana H. Porter, Q.C.
+
+Minister of Education: Hon. W. J. Dunlop.
+
+Minister without Portfolio: Hon. George H. Challies.
+
+Minister of Municipal Affairs: Hon. George H. Dunbar.
+
+Minister of Labour: Hon. Charles Daley.
+
+Minister of Health: Hon. Mackinnon Phillips, M.D.
+
+Provincial Secretary and Registrar: Lt.-Col. the Hon. George A. Welsh, D.S.O.
+
+Minister of Public Welfare: Hon. William A. Goodfellow.
+
+Minister of Planning and Development: Lt.-Col. the Hon. William Griesinger, M.C.
+
+Minister of Lands and Forests: Hon. Welland S. Gemmell.
+
+Minister of Travel and Publicity: Hon. Louis P. Cecile, Q.C.
+
+Minister of Mines: Hon. Philip T. Kelly.
+
+Minister of Reform Institutions: Major the Hon. John W. Foote, V.C.
+
+Ministers without Portfolio: Capt. the Hon. Harold R. Scott; Hon. William E. Hamilton.
+Situation and Population
+
+Quebec lies on both sides of the Lower St. Lawrence and extends from the New England states of the U.S.A. to the Davis Straits. Its area is 594,860 square miles. The population in 1951 was 4,055,681, of whom 1,395,400 live in Greater Montreal, the world's largest inland port, which is 1,000 miles up the St. Lawrence River from the Atlantic Ocean. The capital city is Quebec with a population of 164,016.
+
+Constitution
+
+(For development prior to 1867 see under "Old Canada.")
+
+The Legislature consists of the Legislative Council and the Legislative Assembly. The Legislative Council consists of 24 members, who are appointed by the Lieutenant-Governor-in-Council for life. The Legislative Assembly is elected for five years by general suffrage with no property qualification. It consists of 92 members. At the last election, in 1952, the Union Nationale Party secured a majority of 44 seats over the Liberal Party (23) and Independent (1).
+
+Lieutenant-Governor: The Hon. Gaspard Fauteux, P.C.
+
+EXECUTIVE COUNCIL
+
+Premier, President of the Executive Council and Attorney-General: Hon. Maurice Duplessis, Q.C.
+
+Minister of Finance: Hon. Onésime Gagnon, Q.C.
+
+Minister of Lands and Forests and of Hydraulic Resources: Hon. J. S. Bourque.
+
+Minister of Health: Hon. J. H. A. Paquette, M.D.
+
+Minister of Municipal Affairs: Hon. Bona Dussault.
+
+Minister of Roads: Hon. Antonio Talbot, Q.C.
+
+Minister of Public Works: Hon. Roméo Lorrain.
+
+Minister of Mines: Hon. C. D. French.
+
+Minister of Social Welfare and of Youth: Hon. J. Paul Sauve, Q.C.
+
+Minister of Colonization: Hon. Joseph D. Bégin.
+
+Minister of Game and Fisheries: Hon. Camille Pouliot, M.D.
+
+Minister of Labour: Hon. Antonio Barrette.
+
+Minister of Trade and Commerce: Hon. Paul Beaulieu, C.A.
+
+Minister of Agriculture: Hon. Laurent Barré.
+
+Provincial Secretary: Hon. Omer Côté, Q.C.
+
+Solicitor-General: Hon. Antoine Rivard, Q.C.
+
+Ministers without Portfolio: Hon. Antonio Elie; Hon. Tancrède Labbé; Hon. Arthur Leclerc; Hon. Jacques Miquelow; Hon. Wilfrid Labbé.
+
+Montreal
+
+Chief Justice of Quebec: Hon. Antonin Galipeault.
+
+Judges: Hon. Paul St. Germain; Hon. J. L. St. Jacques; Hon. Gregor Barclay; Hon. Bernard Bissonnette; Hon. E. S. McDougall; Hon. Paul C. Casey; Hon. E. Bertrand; G. M. Hyde.
+
+Hon. Aimé Marchand; Hon. Garon Pratte; Hon. J. A. Gagné; Hon. Gabriel Edouard Rinfret, Q.C.
+
+Superior Court
+
+Montreal
+
+Associate Chief Justice: Hon. O. S. Tyndale.
+
+Judges: Hon. C. E. Ferland; Hon. E. F. Surveyer; Hon. P. Cousineau; Hon. L. Boyer; Hon. J. Archambault; Hon. L. Cousineau; Hon. C. G. MacKinnon; Hon. A. Garneau; Hon. J. T. Rhéaume; Hon. W. Lazure; Hon. Elie Salvas; Hon. C. A. Bertrand; Hon. F. T. Collins; Hon. H. Perrier; Hon. F. Caron; Hon. A. I. Smith; Hon. André Demers; Hon. J. Jean; Hon. Elphège Marier; Hon. G. Challies; Hon. E. Tellier; Hon. H. Batshaw; Hon. R. Brossard; Hon. M. Lalonde.
+NOVA SCOTIA
+
+Situation and Population
+Nova Scotia consists of the peninsula of Nova Scotia and the island of Cape Breton, both lying between the Gulf of St. Lawrence and the Atlantic Ocean. The area is 21,068 square miles. The population in 1951 was 642,584, of whom 85,589 live in the capital city, Halifax.
+
+History and Constitutional Development
+Nova Scotia was first discovered by the Norsemen and rediscovered by John Cabot in 1497; it was colonized by the French in 1598; was taken by the English, and a grant of it made to Sir W. Alexander by James I in 1621. In 1632 it was restored to France, with Quebec, by the Treaty of St. Germain-en-laye, but again ceded to England at the Peace of Utrecht in 1713. After the Peace of Aix-la-Chapelle in 1748, a settlement of disbanded troops was formed there by Lord Halifax, and the city which now bears his name is the capital of the province. Cape Breton was not finally taken from the French until 1758, in which year the first Assembly was summoned. Some 35,000 loyalists moved to Nova Scotia from the former American colonies to the south when the independence of the latter was recognized in 1783 and the last British troops withdrawn. In 1769 Prince Edward Island became a separate colony and in 1784 New Brunswick and Cape Breton Island were also separated from the rest of Nova Scotia to which Cape Breton Island was later reunited. In 1848 responsible Government was established, and in 1867 Nova Scotia was one of the four colonies which united to form Canada, of which it became a Province.
+
+Constitution
+The legislature now consists of a single House, the House of Assembly of 37 members, elected for five years. The present Government is formed from the Liberal Party which secured 23 seats at the election in 1953. The Progressive Party secured 12 seats and the Co-operative Commonwealth Federation Party 2.
+
+Lieutenant-Governor: The Hon. Alistair Fraser, M.C., Q.C.
+
+EXECUTIVE COUNCIL
+
+Premier and Provincial Treasurer: Hon. A. L. Macdonald, P.C., Q.C.
+Provincial Secretary: Hon. A. B. De Wolfe.
+Attorney-General and Minister of Labour: Hon. M. A. Patterson, Q.C.
+Minister of Public Health and of Public Welfare: Hon. Harold Connolly.
+Minister of Education: Hon. Henry Davies Hicks.
+Minister of Municipal Affairs: Hon. Ronald M. Fielding, Q.C.
+
+Minister of Agriculture and Marketing, and Minister of Lands and Forests: Hon. A. W. MacKenzie.
+Minister of Highways and Public Works: Hon. M. D. Rawding.
+Minister of Trade and Industry: Hon. W. T. Dauphinee.
+Minister of Mines and Minister of Labour: Hon. A. H. McKinnon, Q.C.
+Minister without Portfolio: Hon. Geoffrey Stevens.
+
+SUPREME COURT
+
+Chief Justice: Rt. Hon. J. L. Ilsley, Q.C.
+Puisne Judges: Hon. W. L. Hall, Q.C.; Hon. J. Doull, Q.C.; Hon. J. H. MacQuarrie, Q.C.; Hon. E. T. Parker, Q.C.; Hon. L. D. Currie, Q.C.; Hon. V. C. MacDonald, Q.C.
+
+Judge in Equity:
+
+NEW BRUNSWICK
+
+Situation and Population
+New Brunswick is one of the Maritime Provinces of Canada and consists
+of the mainland between Quebec and Nova Scotia. The area of the Province is 27,985 square miles, and the population in 1951 was 515,697. The provincial capital is Fredericton with a population of 16,018.
+
+History and Constitutional Development
+
+New Brunswick was part of the ancient French Province of Acadia and was ceded to England by the Treaty of Utrecht in 1713. Great Britain, however, did not obtain full possession of the country until after the fall of Quebec in 1759. It was first colonized by British subjects from New England in 1762, and in 1783, at the close of the Revolutionary War, it received a large body of Loyalists from the Thirteen Colonies. In 1784 it was separated from Nova Scotia, of which it had formed a part, and given a separate Governor and Assembly. The colony remained quiet and prosperous, largely free from the conflicts between Executive and Legislature which vexed the other North American colonies, until 1837. In 1854 responsible Government was established, and in 1867 New Brunswick was one of the colonies which agreed to form Canada, of which it became an original Province.
+
+Constitution
+
+The legislature consists of a single House, the Legislative Assembly, of 52 members. The present Government is formed from the Progressive Conservative Party, which at the election in 1952 secured a majority of 20 seats over the Liberals.
+
+Lieutenant-Governor: The Hon. D. L. MacLaren, P.C.
+
+EXECUTIVE COUNCIL
+
+Premier and Minister of Public Works: Hon. Hugh John Flemming.
+Attorney-General: Hon. W. J. West, Q.C.
+Minister of Health: Hon. Dr. J. F. McInerney.
+Minister of Education and Municipal Affairs: Hon. Claude S. Taylor.
+Minister of Lands and Mines: Hon. Norman Buchanan.
+Minister of Industry and Development: Hon. Roger Pichette.
+
+Provincial Secretary-Treasurer: Hon. Donald D. Patterson.
+Minister of Labour: Hon. Arthur E. Skaling.
+Minister of Agriculture: Hon. Cyril B. Sherwood.
+Chairman of New Brunswick Electric Power Commission and Minister without Portfolio: Hon. Edgar Fournier.
+President of Executive Council and Minister without Portfolio: Hon. T. Babbitt Parlee.
+
+SUPREME COURT
+
+Appeal Division and Chancery Division
+Chief Justice: Hon. C. D. Richards.
+Puisne Judges: Hon. W. H. Harrison; Hon. P. J. Hughes.
+
+Queen's Bench Division
+Chief Justice: Hon. J. E. Michaud.
+
+Puisne Judges: Hon. G. F. G. Bridges; Hon. W. A. I. Anglin.
+Court of Divorce and Matrimonial Causes
+Hon. W. A. I. Anglin.
+District Judge in Admiralty
+Hon. W. A. I. Anglin.
+Deputy Judge: His Honour R. D. Kierstead.
+
+MANITOBA
+
+Situation and Population
+
+Manitoba was the first of the Prairie Provinces to be formed, and when created in 1870 included only a small area south of Lake Winnipeg. In 1912 it was increased to its present size of 246,512 square miles. The population of the Province in 1951 was 776,541, of whom Winnipeg, the provincial capital, has 235,710.
+
+Constitution
+
+Manitoba was formed from part of Rupert's Land, the territory granted by Charles II to Prince Rupert in 1671. It became a Province of the Canadian Federation by legislative enactments taking effect on the 15th July, 1870.
+
+The legislature consists of a single House, the Legislative Assembly of 57 members, elected for five years. At the election in June 1953 Liberals and supporters secured 30 seats, Conservatives 12, Social Credit Party 2, Co-operative Commonwealth Federation 5, others 8.
+Lieutenant-Governor: The Hon. Roland Fairbairn McWilliams, Q.C.
+
+PROVINCIAL EXECUTIVE
+
+Premier and President of the Council and Minister of Dominion - Provincial Relations: Hon. D. L. Campbell.
+Minister of Agriculture and Immigration: Hon. R. D. Robertson.
+Attorney-General: Hon. I. C. Schultz, Q.C.
+Municipal Commissioner: Hon. E. Prfontain.
+Minister of Mines and Natural Resources and of Industry and Commerce: Hon. John S. McDiarmid.
+
+Minister of Education: Hon. Wallace C. Miller.
+Minister of Public Utilities and of Public Works: Hon. William Morton.
+Minister of Labour and Provincial Secretary: Hon. C. E. Greenlay.
+Provincial Treasurer: Hon. R. D. Turner.
+Minister of Health and Public Welfare: Hon. F. C. Bell.
+
+COURT OF APPEAL
+
+Chief Justice: Hon. E. A. McPherson.
+Puisne Judges: Hon. J. B. Coyne; Hon. J. E. Adamson; Hon. P. J. Montague; Hon. J. T. Beaubien.
+
+COURT OF QUEEN'S BENCH
+
+Chief Justice: Hon. E. K. Williams.
+Puisne Judges: Hon. P. G. Duval; Hon. Ralph Maybank; Hon. Arnold M. Campbell; Hon. G. E. Tritschler; Hon. S. Freedman.
+
+BRITISH COLUMBIA
+
+Situation and Population
+
+British Columbia is the westernmost Province of Canada and lies between the Rocky Mountains and the Pacific Ocean. The area (including Vancouver Island and Queen Charlotte Islands) is 366,255 square miles. The population in 1951 was 1,165,210, of whom 344,833 live in Vancouver and 51,331 in the capital, Victoria.
+
+History and Constitution
+
+Vancouver Island was granted to the Hudson's Bay Company under certain conditions in 1849, and in the same year it was made a Crown colony. The mainland of British Columbia was constituted a Crown colony in 1858, in consequence of large immigration on the discovery of gold in the Thompson and Fraser Rivers. In 1866 the two colonies of British Columbia and Vancouver Island were united under the former name, and in 1871 British Columbia became a Province of Canada.
+
+The legislature consists of a single House, the Legislative Assembly, of 48 members, elected for five years. At the election in June 1953 the Social Credit Party gained 28 seats, the Co-operative Commonwealth Federation Party 14 seats, Liberals 4, Progressive Conservatives 1, Labour 1.
+
+Lieutenant-Governor: Colonel the Hon. Clarence Wallace, C.B.E.
+
+EXECUTIVE COUNCIL
+
+Premier and President of the Executive Council: Hon. W. A. C. Bennett.
+Minister of Health and Welfare: Hon. Eric Martin.
+Attorney-General: Hon. Robert W. Bonner.
+Minister of Lands and Forests; Minister of Mines: Hon. R. E. Sommers.
+Minister of Finance: Hon. Einar M. Gunderson.
+Minister of Agriculture: Hon. W. K. Kiernan.
+
+Provincial Secretary and Minister of Municipal Affairs: Hon. W. D. Black.
+Minister of Public Works: Hon. P. A. Gaglardi.
+Minister of Railways, Minister of Trade and Industry, Minister of Fisheries: Hon. W. R. T. Chetwynd.
+Minister of Education: Hon. Tilly J. Rolston.
+Minister of Labour: Hon. Lyle Wicks.
+
+COURT OF APPEAL
+
+Chief Justice: Hon. G. McG. Sloan.
+Justices of Appeal: Hon. C. H. O'Halloran; Hon. S. A. Smith; Hon. H. B. Robertson; Hon. H. I. Bird.
+
+SUPREME COURT
+
+Chief Justice: Hon. W. B. Farris.
+Puisne Judges: Hon. A. M. Manson; Hon. J. O. Wilson; Hon. J. M. Coady; Hon. H. S. Wood; Hon. A. D. Macfarlane; Hon. N. W. Whittaker; Hon. J. V. Clyne.
+District Judge in Admiralty: Hon. S. A. Smith.
+PRINCE EDWARD ISLAND
+
+Situation and Population
+Prince Edward Island lies in the southern part of the Gulf of St. Lawrence. Its area is 2,184 square miles. The population in 1951 was 98,429 of whom 15,887 live in Charlottetown, the capital city.
+
+History and Constitutional Development
+Prince Edward Island shared in the influx of Loyalists from the American colonies during and after the revolutionary war and was in consequence separated from Nova Scotia in 1784. The problem of absentee proprietors bedevilled the relations of Governor and Assembly for the next 60 years, but responsible Government was established in 1851. The colony was not one of the original provinces of Canada but joined the Federation in 1873.
+
+Constitution
+The Provincial Legislature was reconstituted in 1893 into one legislative body called the Legislative Assembly, which now has 30 members, who serve for five years. At the election in 1951 the Liberal Party secured 24 seats and the Progressive Conservatives 6.
+
+Lieutenant-Governor: The Hon. T. W. L. Prowse.
+
+EXECUTIVE COUNCIL
+
+Premier, President of the Executive Council and Minister of Education: Hon. J. Walter Jones.
+Attorney and Advocate-General and Provincial Treasurer: Hon. Walter E. Darby, Q.C.
+Minister of Health and Welfare: Hon. A. W. Matheson, Q.C.
+Minister of Agriculture: Hon. C. Cleveland Baker.
+Minister of Industry and Natural Resources: Hon. Eugene Cullen.
+Minister of Public Works and Highways: Hon. Dugald MacKinnon.
+Provincial Secretary: Hon. J. Wilfrid Arsenault.
+Without Portfolio: Hon. Keir Clark; Hon. J. Brenton St. John.
+Clerk: Lt.-Col. P. S. Fielding.
+
+SUPREME COURT
+
+Chief Justice: Hon. Thane A. Campbell.
+Assistant Judge and Master of Rolls: Hon. M. R. MacGuigan.
+Assistant Judge and Vice-Chancellor: Hon. G. J. Tweedy.
+District Judge in Admiralty of the Exchequer Court: Hon. H. L. Palmer.
+
+COURT OF CHANCERY
+
+Master of the Rolls: Hon. M. R. MacGuigan.
+Vice-Chancellor: Hon. G. J. Tweedy.
+Registrar: Gordon R. Holmes, Q.C.
+Surrogate and Judge of Probate: Hon. H. L. Palmer.
+
+SASKATCHEWAN
+
+Situation and Population
+Saskatchewan lies between Manitoba and Alberta. It has an estimated area of 251,700 square miles. The population in 1951 was 831,728, of whom 71,319 live in the provincial capital, Regina.
+
+Constitution
+Saskatchewan was created a Province in 1905.
+
+The legislature consists of a single House, the Legislative Assembly, of 53 members. At the election in 1952 the Co-operative Commonwealth Federation Party secured a majority of 31 seats. The Liberal Party secured 11 seats.
+
+Lieutenant-Governor: The Hon. W. J. Patterson.
+
+EXECUTIVE COUNCIL
+
+Premier, President of Council, and Minister of Co-operation and Co-operative Development: Hon. Thomas C. Douglas.
+Provincial Treasurer: Hon. Clarence M. Fines.
+Attorney-General: Hon. J. W. Corman, Q.C.
+Minister of Agriculture: Hon. I. C. Nollet.
+Minister of Municipal Affairs: Hon. L. F. McIntosh.
+Provincial Secretary and Minister of Labour: Hon. C. C. Williams.
+EXECUTIVE COUNCIL—(Continued)
+
+Minister of Public Health: Hon. T. J. Bentley.
+Minister of Natural Resources and Industrial Development: Hon. J. H. Brockelbank.
+Minister of Highways and Transportation: Hon. John T. Douglas.
+
+Minister of Education: Hon. Woodrow S. Lloyd.
+Minister of Social Welfare and Rehabilitation: Hon. J. H. Sturdy.
+Minister of Public Works and Telephones: Hon. J. A. Darling.
+
+COURT OF APPEAL
+
+Chief Justice: Hon. W. M. Martin.
+Puisne Judges of Appeal: Hon. P. H.
+
+Gordon; Hon. A. T. Procter; Hon. D. A. McNiven; Hon. E. M. Culliton.
+
+COURT OF QUEEN'S BENCH
+
+Chief Justice: Hon. J. T. Brown.
+Puisne Judges: Hon. G. E. Taylor; Hon. Adrien Doiron; Hon. S. McKercher;
+
+Hon. H. F. Thomson; Hon. R. T. Graham; Hon. C. S. Davis.
+
+ALBERTA
+
+Situation and Population
+
+Alberta lies between Saskatchewan and the Rocky Mountains. Its area is 255,285 square miles, and the population in 1951 was 939,501, of whom 159,631 live in the provincial capital, Edmonton.
+
+Constitution
+
+Alberta was created a Province by an enactment of the Parliament of Canada on 1st September, 1905, out of territory acquired from the Hudson's Bay Company. Previously it had formed part of the Northwest Territories.
+
+The Legislature consists of a single House, the Legislative Assembly, composed of 61 members elected for five years. At the election in August 1952 the Social Credit Party secured 52 of the 61 redistributed seats, the Liberals 4, Progressive Conservatives 2, C.C.F. 2, Independent Social Credit 1.
+
+Lieutenant-Governor: The Hon. J. J. Bowlen.
+
+EXECUTIVE COUNCIL
+
+Premier, Provincial Treasurer and Minister of Mines and Minerals: Hon. E. C. Manning.
+Minister of Health and Minister of Public Welfare: Dr. the Hon. W. W. Cross.
+Attorney-General: Hon. Lucien Maynard.
+Minister of Lands and Forests: Hon. Ivan Casey
+Minister of Economic Affairs and Minister of Public Works: Hon. A. J. Hooke.
+
+Minister of Municipal Affairs and Provincial Secretary: Hon. C. E. Gerhart.
+Minister of Education: Hon. A. O. Aalborg.
+Minister of Industries and Labour: Dr. the Hon. J. L. Robinson.
+Minister of Agriculture: Hon. D. A. Ure.
+Minister of Highways and Minister of Railways and Telephones: Hon. G. E. Taylor.
+
+SUPREME COURT
+
+Appellate Division
+
+Chief Justice: Hon. G. B. O'Connor.
+Justices of Appeal: Hon. F. Ford; Hon. W. A. Macdonald; Hon. H. H. Parlee; Hon. C. J. Ford.
+
+Trial Division
+
+Chief Justice: Hon. C. C. McLaurin.
+Puisne Judges: Hon. H. J. Macdonald; Hon. J. B. McBride; Hon. W. G. Egbert; Hon. J. M. Cairns; Hon. E. B. Wilson.
+
+NEWFOUNDLAND
+
+Situation and Population
+
+The Province of Newfoundland consists of the island of Newfoundland and the mainland of Labrador. The island lies between the Gulf of St. Lawrence and the Atlantic Ocean; the greatest length from north to south is 350 miles, and average breadth about 130; its estimated area is 42,734 square miles. The mainland consists of that part of the Ungava peninsula which drains into the Atlantic Ocean as distinct from Hudson Bay or the Gulf of St. Lawrence; its area is about 112,000 square miles.
+
+The population of the island of Newfoundland in 1951 was 361,416. The capital is St. John's with a population of 67,749.
+History
+
+The island of Newfoundland, according to the Icelandic saga, was sighted in A.D. 1001 by a merchant of Iceland, voyaging in search of trade. John Cabot discovered the island in 1497, but no permanent settlement resulted. The lasting results of Cabot's discovery sprang from a revelation of the riches of the sea, and the island was frequented as early as 1500 by British, Portuguese, Spanish, Basque and Breton fishermen, the Portuguese being the first to exploit the new fishing grounds. In the reign of Queen Elizabeth I, several attempts were made to colonize the island, but these were unsuccessful. The interior was explored by Anthony Parkhurst in 1578, but the first attempt at formal annexation, made by Sir Humphrey Gilbert in 1583, had no direct effect on subsequent history. In 1610 a Charter was granted to the "Treasurer and Company of Adventurers and Planters for the Colony or Plantation in Newfoundland," and colonists were established by the company in Conception Bay, mainly for the purpose of improving the fishing industry. In 1623 Sir George Calvert (afterwards Lord Baltimore) obtained grants from the Crown for the establishment of a settlement in the south-eastern peninsula of the island, which he named the Province of Avalon. In 1633 the Privy Council issued an order which, known as the "Western Charter" of the "Fishing Charter," lay at the base of all regulations concerning Newfoundland for more than 150 years. The first permanent colony was founded by Sir David Kirke, who was granted two Patents in 1637 for the colonization of the whole of Newfoundland, and by 1774 a true colony had grown up, after which the island proceeded to develop more normally as compared with its previously amphibious character as "a great English ship moored near the Banks during the fishing season for the convenience of fishermen."
+
+By the Treaty of Utrecht in 1713, subsequently ratified by the Treaty of Paris, the French, who in 1662 had established a base at Placentia, acknowledged British sovereignty over the whole of Newfoundland. Certain rights were granted to French fishermen under the Treaty, the extent of which long remained in dispute until settled by the Anglo-French Convention of 1904, by which France renounced her privileges under Article XIII. The Convention was of great benefit to Newfoundland, since it removed an obstruction to local development, to mining and other industrial enterprises, over some two-fifths of the whole coast-line.
+
+The mainland of Labrador, discovered by the Norseman Lief, son of Eric the Red, in A.D. 1000, and by Cabot in 1497, was early frequented by Basque and subsequently by Breton fishermen. It became British on the conquest of Canada (1759). In 1763 the Atlantic coast was annexed to Newfoundland but was temporarily re-annexed to Quebec from 1774 to 1809.
+
+By the decision, on 1st March, 1927, of the Judicial Committee of the Privy Council, Newfoundland was confirmed in the ownership of the Atlantic watershed of the Labrador peninsula, including the basin of the Hamilton River. This decision was the outcome of a dispute between Canada and Newfoundland as to the ownership of this region which had lasted for 25 years and was ultimately by agreement submitted to the arbitrament of this Tribunal.
+
+Constitutional Development
+
+Newfoundland has had a Legislature since 1832, but it was the last of the old North American Colonies to which responsible Government was conceded, in 1855. The island was subsequently administered by a Governor, aided by a responsible Executive Council in which the Governor presided, a Legislative Council appointed for life (17 members in 1932) and an elected House of Assembly (27 members in 1932).
+
+The British North America Act, 1867, made provision for the accession of Newfoundland to Canada, but Newfoundland voted against confederation in
+1869. Talks between the Governments of Canada and Newfoundland with a view to confederation broke down in 1894. Newfoundland was separately represented at Imperial Conferences and enjoyed Dominion status, but did not become a separate member of the League of Nations and was not responsible for its own international relations.
+
+Owing to the world depression and inability to meet the interest charges on the Public Debt, the Legislature in 1933 prayed His Majesty the King to suspend the constitution and appoint six Commissioners who, with the Governor as Chairman, would administer the Government under the supervision of the United Kingdom Government until conditions again became normal. His Majesty thereupon appointed three Commissioners for Newfoundland, who took office in 1934. In 1945 it was announced that an elected National Convention would meet in 1946 to make recommendations as to the forms of future Government which might be put before the people at a national referendum. The Convention met in September and sent fact-finding delegations to London and Ottawa in 1947. In the course of the discussions at Ottawa the Canadian Government agreed provisionally that if the people of Newfoundland should vote in favour of confederation with Canada, the Canadian Government would conclude a taxation agreement on a "most favoured Province" basis, service the sterling debt, take over the Newfoundland railroad, and make a special Confederation grant to Newfoundland. In 1948 the United Kingdom Government decided that the referendum should be limited to three alternatives
+
+(1) continuation of the Commission of Government;
+(2) confederation with Canada;
+(3) the restoration of responsible Government;
+
+and that if none of the alternatives received an absolute majority, a further referendum would be held to decide between the two receiving the largest number of votes. The votes on the 3rd June, 1948, in favour of (1) were 21,944, of (2) 63,110, and of (3) 69,230. As no one form of government received an absolute majority over the other two combined, a further referendum was arranged for the 22nd July limited to alternatives (2) and (3). At this referendum the votes in favour of confederation with Canada were 78,451 and for responsible Government 71,217. A delegation of seven was sent to Ottawa to discuss the terms of union with Canada, and agreement was reached on the 11th December, 1948. The terms provided for the acceptance of Newfoundland and Labrador with their existing boundaries as the Province of Newfoundland and for the application of the British North America Acts 1867 to 1946 to Newfoundland as if the latter had been one of the Provinces originally united, but subject to the modifications mentioned in the terms of agreement and to the omission of such provisions as were specially applicable to or only intended to affect one or two but not all of the original Provinces. Newfoundland was to be represented in the Senate of Canada by six members and in the House of Commons by seven, subject to subsequent readjustment in accordance with the provisions of the British North America Acts.
+
+The union of Newfoundland and Canada took effect on the 1st April, 1949.
+
+Constitution
+
+Within Newfoundland the Constitution was to be revived as it existed immediately prior to the establishment of the Commission of Government, but the executive was to be a Lieutenant-Governor in Council and the Legislative Council was to be abolished, though the Legislature could revive it or establish a new one at any time. The Legislature of Newfoundland was to have exclusive authority in relation to education, subject to its not affecting any right or privilege with respect to denominational schools, common schools or denominational colleges that any class had by law provided at the date of union, and of
+public funds for education. Canada assumed responsibility for the service and retirement of the Newfoundland public debt, the existing balances standing to the credit of Newfoundland being usable under certain conditions by the Government of the Province. The latter was also to receive an annual subsidy of $180,000 plus a sum calculated on the basis of 80 cents per head of the population and a further additional annual subsidy of $1,100,000 payable for the purposes envisaged in connection with the payment of similar subsidies granted to the Maritime Provinces of Canada. A further transitional grant was to be payable to Newfoundland for 12 years which was to range from $6,500,000 in the first year to $300,000 in the twelfth.
+
+The Legislative Assembly at present consists of 28 members. At the election in 1951 the Liberal Party secured 23 seats, the Progressive Conservatives 4 seats, 1 seat deferred (subsequently secured by the Progressive Conservatives).
+
+Lieutenant-Governor: Col. the Hon. Sir L. C. Outerbridge, Kt., C.B.E., D.S.O.
+
+EXECUTIVE COUNCIL
+
+Premier and Minister of Economic Development: Hon. Joseph R. Smallwood.
+Attorney-General: Hon. L. R. Curtis, Q.C.
+Minister of Public Welfare: Hon. H. L. Pottle.
+Minister of Fisheries and Co-operatives: Hon. W. J. Keough.
+Minister of Education: Hon. S. J. Hefferton.
+Minister of Municipal Affairs and Supply: Hon. P. Forsey.
+Minister of Labour: Hon. C. H. Ballam.
+
+Minister of Health: Hon. J. R. Chalker.
+Minister of Public Works: Hon. E. S. Spencer.
+Minister of Provincial Affairs: Hon. Myles Murray, Q.C.
+Minister of Finance: Hon. Gregory Power.
+Minister of Mines and Resources: Hon. F. W. Rowe.
+Minister without Portfolio: Hon. P. J. Lewis, Q.C.
+
+SUPREME COURT
+
+Chief Justice: Hon. Sir Albert J. Walsh.
+Judges: Hon. Sir Brian E. S. Dunfield; Hon. H. A. Winter.
+
+YUKON TERRITORY
+
+Situation and Population
+
+About one-third of Canada lies outside the Provinces: of this the Yukon Territory includes 207,076 square miles. The population of the Territory has increased rapidly in the past few years, particularly in the Whitehorse district, and is now estimated at about 9,096, including Indians and Eskimoes.
+
+Administration
+
+The Yukon was created a separate Territory in June 1898 as the result of development in the mining industry, the Klondike gold strike, and the consequent influx. The local Government consists of a Federal Government Commissioner and an elected Council of five members with a three-year tenure of office. The Council was increased from three to five under a Canadian Act of 1951. The Commissioner administers the government of the Territory under instructions from the Governor-General in Council or the Minister for Resources and Development. The Commissioner in Council has power to make ordinances dealing with the imposition of local taxes, sale of liquor, preservation of game, establishment of territorial offices, maintenance of prisons and municipal institutions, issue of licences, incorporation of companies, solemnization of marriage, property and civil rights, administration of justice, and generally all matters of a local and private nature in the Territory. Law and order is maintained by the Royal Canadian Mounted Police. The centre of Government is Dawson. One member represents the interests of both the Yukon and the Mackenzie District of the Northwest Territories in the Federal House of Commons.
+
+TERRITORIAL COUNCIL
+
+Commissioner: W. C. Brown.
+
+Members:
+
+V. C. Mellor; A. F. Berry; J. L. Phelps; F. D. Locke; A. R. Hayes.
+
+Judge of the Territorial Court: Hon. J. E. Gibben, Q.C.
+NORTHWEST TERRITORIES
+
+Situation and Population
+The Northwest Territories comprise the territories formerly known as Rupert's Land and the Northwest Territory, viz., all that part of Canada north of 60°N. latitude except those portions within the Yukon Territory and the Provinces of Quebec and Newfoundland, and the islands in Hudson, James' and Ungava Bays, except the islands within the Provinces of Manitoba, Ontario and Quebec. The total area is about 1,304,903 square miles. The population is 16,004, including Indians and Eskimos.
+
+Administration
+The seat of Government of the Northwest Territories is Ottawa. For administrative purposes they were subdivided into the Districts of Mackenzie (the western mainland), Keewatin (the eastern mainland), and Franklin (the northern islands) by Order in Council of the 16th March, 1918. The Government of the Territories is administered by a Commissioner, appointed by the Governor-General in Council, aided by a Council of eight members, three of whom are elected and five are appointed by the Governor-General in Council. The Commissioner has power to make ordinances for the government of the Territories under instructions from the Governor-General in Council or the Minister of Resources and Development, subject to any Act of the Federal Parliament applying to the Territories, respecting such matters as direct taxation to raise revenue, establishment and tenure of territorial offices, maintenance of municipal institutions, administration of justice, issue of licences, education, public health, property and civil rights, and generally all matters of a local nature. The Mackenzie District and the Yukon Territory are jointly represented by one Member in the Federal House of Commons.
+
+Commissioner: Maj.-Gen. Hugh A. Young, C.B., C.B.E., D.S.O.
+Deputy Commissioner: F. J. G. Cunningham.
+Members of the Council: L. H. Nicholson, M.B.E.; W. J. Clements; D. M. MacKay; Louis de la C. Audette; M. Hardie; J. Brodie; F. Carmichael.
+AUSTRALIA
+The Commonwealth
+
+THE Commonwealth of Australia is constituted under an Act (63 and 64 Vict. Cap. 12) passed by the Parliament of the United Kingdom in 1900. By this Act it was made lawful for the Queen, with the advice of the Privy Council, to proclaim that, on and after a day appointed in the proclamation, the people of New South Wales, Victoria, South Australia, Queensland, and Tasmania, and also, if Her Majesty were satisfied that the people of Western Australia had agreed thereto, of Western Australia, should be united in an indissoluble Federal Commonwealth of Australia.
+
+A proclamation was accordingly issued by Her Majesty on the 17th September, 1900, appointing the 1st January, 1901, as the day on which the Commonwealth should be established, Western Australia being included as an original State in accordance with the result of a referendum taken before that date in the Colony and with Addresses passed by both Houses of the Legislature.
+
+The territory of the Commonwealth includes the whole of the continent of Australia and the adjacent islands as far north as the south coast of Papua. The external territories administered by the Commonwealth are Papua, Norfolk Island and the Ashmore and Cartier Islands, the trust territory of New Guinea, the Australian Antarctic Territory, Heard and Macdonald Islands and, in co-operation with the United Kingdom and New Zealand, the trust territory of Nauru.
+
+The area of the Commonwealth (less the external territories) is 2,974,581 square miles of the population at the 1947 census was 7,579,358 (excluding aboriginals), of which 16,905 resided in the Australian Capital Territory, including Canberra. The estimated population in September, 1952, was 8,700,000.
+
+Constitution of the Commonwealth
+
+The Parliament consists of the Queen, a Senate and a House of Representatives. The Governor-General acts for the Queen.
+
+The Senate consists of ten members from each State. The number may be increased or diminished, but so that the equal representation of the original States is maintained, and no original State has less than six Senators. Qualifications for Senators are the same as those for Members of the House of Representatives, as given below. Senators are chosen for six years. The qualifications of electors for the first Parliament were those for the more numerous House of the Parliament of the State in which the elector was competent to vote. In the first Parliament of the Commonwealth the Franchise Act, 1902, made the franchise uniform throughout the Commonwealth for both Houses, on the basis of universal adult suffrage, subject to electors being British subjects. Immediately prior to the Commonwealth Electoral Act, 1948, the method of electing Senators was in general the "preferential block majority system" under which as a general rule all seats in any one State went to the party or combination of parties favoured at the time by a simple majority of the electors, leaving the minority without any representation at all in the Senate. The 1948 Act altered the system of Senate election to one of proportional representation. One half of the Senators chosen for each State retire every three years.
+
+The House of Representatives has approximately twice as many Members as the Senate, and the number of Members for each State is in proportion to the population, but not less than five for any State. The qualifications of electors are as stated in the preceding paragraph. Each elector is to vote
+
+For further information about the Commonwealth of Australia, see Official Year Book.
+only once. The qualification of a Member is to be (a) 21 years of age; (b) an elector or entitled to be; (c) resident three years; (d) British subject, natural-born or naturalized five years.
+
+The House may continue to exist for three years from first meeting, but may be dissolved sooner; the number of Members may be increased or diminished by Parliament, subject to the Constitution.
+
+The general powers of the Parliament are grouped under 40 headings, the principal of which are to make laws for trade, taxation, bounties, borrowing, postal services, naval and military, census and statistics, currency, banking, insurance, insolvency, corporations, divorce, marriage, invalid and old-age pensions, social service benefits, immigration and emigration, quarantine, industrial disputes, railways, etc. Exclusive powers are held in regard to the seat of Government, State departments transferred, and other matters declared by the Constitution to be within the exclusive power of the Parliament.
+
+Money Bills may not originate in, nor be amended by, the Senate, which House may, however, return the Bill, requesting any omission or amendment. Equal power with the House of Representatives is possessed in respect of all other proposed laws. Tacking Bills are prohibited.
+
+The provision for deadlocks is joint dissolution. If a Bill is again passed in the Lower House and rejected in the Senate, a joint sitting is to be held and if it is then passed by an absolute majority of the total number of both Houses the disputed Bill becomes law.
+
+A Bill having passed both Houses, the Governor-General shall either assent, withhold assent, reserve the Bill or return it and recommend amendments.
+
+Executive power is vested in the Queen and exercisable by the Governor-General advised by the Federal Executive Council. The Governor-General may appoint Ministers of State to administer such departments of State as the Governor-General in Council may establish. They are members of the Federal Executive Council.
+
+The High Court of Australia has both appellate and original jurisdiction.
+
+The collection of Customs duties and of excise and the payment of bounties passed to the Commonwealth. Such Customs and Excise duties were to be uniform, and inter-colonial free-trade was to be established within two years after the establishment of the Commonwealth, after which period the Federal Government were to have exclusive power to levy such duties and to grant bounties on the production or export of goods. Western Australia was authorized to continue the duties in force on inter-colonial goods at the establishment of the uniform tariff for five years, subject to a reduction of one-fifth each year. Of the net revenue from Customs and Excise not more than one-fourth was to be applied by the Commonwealth towards its expenditure. This was to hold good for the first ten years after federation and thereafter until Parliament should provide otherwise (Braddon clause).
+
+The Surplus Revenue Act, 1910, retained to the Commonwealth for ten years the whole of the Customs and Excise revenue, subject to each State receiving an annual payment equal to 25s. per head of the population of the State. This arrangement continued in force until 1st July, 1927, when it was abolished by the States Grants Act. By the Financial Agreement Acts, 1928 and 1929, provision was made for the payment to the States of fixed annual amounts towards the interest on State debts. In addition, the Commonwealth may grant financial assistance to any State, and amounts as recommended by the Commonwealth Grants Commission, established in 1933, are granted annually to South Australia, Western Australia, and Tasmania.
+
+The right of the States to reasonable use of river waters for conservation or irrigation was reserved.
+Provision was made for an Inter-State Commission to regulate trade and commerce and prevent discrimination by any State which may be deemed unreasonable or unjust to any other State. This Commission was established in 1913 and functioned till 1920, since which date no further appointments have been made.
+
+The constitutions, powers, and laws of the States were protected, and it was provided that State Debts might be taken over.
+
+An alteration diminishing the proportionate representation of any State, or the minimum number of representatives of a State, or altering its limits, or in any way affecting the provisions of the Constitution in relation to it cannot become law without the approval of a majority of the electors of such State.
+
+The admission of new States is provided for, and the Commonwealth undertook to protect States against invasion or domestic violence.
+
+The seat of Government was to be in New South Wales, not less than 100 miles from Sydney, and to be within Federal territory. Eventually, Canberra was chosen. The first session of Parliament at the Federal Capital City (Canberra) was opened in May, 1927.
+
+The Constitution may be altered by an absolute majority of each House; the amendment has then to be submitted to the electors, and if, in a majority of States, a majority of electors voting and also the majority of all electors approve it, then the amendment is incorporated in the Constitution. In case of a deadlock between the two Houses, renewed after three months' interval, the Governor-General may submit the question to the electors in each State qualified to vote for the Lower House.
+
+There have been a considerable number of referenda in the past 50 years, but only four of the proposals for the amendment of the Constitution referred to a popular vote after receiving an absolute majority of each House of Parliament have been approved. They were as follows: In 1906 certain minor alterations were made in the arrangements for the election of the Senate, including an alteration of the date of election. In 1910 a law providing that the Commonwealth Government should be given power to take over all State debts existing at any time, and not only those existing at the time of federation, was approved. In 1928 a further proposal by which the Commonwealth were able to take over all State debts by agreement and making provision for the raising of money by Commonwealth and State Governments was also approved: by an Agreement entered into in 1927 and validated in 1929 the Commonwealth accordingly took over the State debts and provision was made for the establishment of a Loan Council to exercise control over borrowing by the Commonwealth and the States and for the establishment of a Sinking Fund for the redemption of loans. In 1946 a measure providing for the establishment by the Commonwealth Government of social services was also approved. On 14 other occasions during this period referenda on other proposals (on one occasion as many as six at time) failed to obtain either an absolute majority or a majority in all of the States. The object of the proposed amendments was to give the Commonwealth Government powers additional to those exercised under the original Constitution.
+
+At the election in April, 1951, the Liberal Party secured 52 seats in the House of Representatives, the Country Party 17 and Labour 52. In addition, there are two seats—Australian Capital Territory and Northern Territory—the holders of which are entitled to vote only on matters affecting the territory which each represents. In the Senate the combined Liberal-Country Party hold 31 seats and Labour 29. The present Government is a Liberal-Country Party coalition.
+Governor-General: His Excellency Field-Marshal Sir William Slim, G.C.B., G.C.M.G., G.B.E., D.S.O., M.C.
+
+EXECUTIVE COUNCIL
+
+Prime Minister: The Rt. Hon. R. G. Menzies, C.H., Q.C.
+
+Treasurer: The Rt. Hon. Sir A. W. Fadden, K.C.M.G.
+
+Vice-President of the Executive Council and Minister for Defence Production: The Rt. Hon. E. J. Harrison.
+
+Minister for Labour and National Service and for Immigration: The Rt. Hon. H. E. Holt.
+
+Minister for Commerce and Agriculture: The Rt. Hon. J. McEwen.
+
+Minister for External Affairs: The Rt. Hon. R. G. Casey, C.H., D.S.O., M.C.
+
+Minister for Defence: The Hon. Sir Philip McBride, K.C.M.G.
+
+Minister for Health: The Rt. Hon. Sir Earle Page, G.C.M.G., C.H.
+
+Minister for Trade and Customs: Senator The Hon. N. O'Sullivan.
+
+Minister for Shipping and Transport: Senator The Hon. G. McLeay.
+
+Postmaster-General and Minister for Civil Aviation: The Hon. H. L. Anthony.
+
+Minister for the Army: The Hon. J. Francis.
+
+Attorney-General: Senator The Hon. J. A. Spicer, Q.C.
+
+Minister for National Development: Senator the Hon. W. H. Spooner, M.M.
+
+Minister for Repatriation: Senator the Hon. W. J. Cooper, M.B.E.
+
+Minister for Supply: The Hon. Howard Beale, Q.C.
+
+Minister for the Interior and Minister for Works: The Hon. W. S. Kent Hughes, M.V.O., O.B.E., M.C., E.D.
+
+Minister for Social Services: The Hon. A. G. Townley.
+
+Minister for Territories: The Hon. P. M. C. Hasluck.
+
+Minister for the Navy and for Air: The Hon. Wm. McMahon.
+
+Leader of the Opposition: The Rt. Hon. H. V. Evatt, Q.C.
+
+Secretary to the Cabinet and Secretary, Prime Minister's Department: A. S. Brown, C.B.E.
+
+Secretary for External Affairs: A. S. Watt, C.B.E.
+
+THE SENATE
+
+President: Senator the Hon. E. W. Mattner, M.C., D.C.M., M.M.
+
+Chairman of Committees: Senator G. J. Rankin, D.S.O., V.D.
+
+Clerk of the Senate: J. E. Edwards.
+
+HOUSE OF REPRESENTATIVES
+
+Speaker: The Hon. A. G. Cameron.
+
+Chairman of Committees: C. F. Adermann.
+
+Clerk of the House of Representatives: F. C. Green, M.C.
+
+COMMONWEALTH JUDICIARY
+
+High Court of Australia
+
+Chief Justice: Rt. Hon. Sir John G. Latham, G.C.M.G.
+
+Justices: The Rt. Hon. Sir Owen Dixon, K.C.M.G.; Sir Edward A. McTierman, K.B.E.; Dudley Williams, M.C.; Sir William Flood Webb, Kt.; Wilfred K. Fullagar; F. W. Kitto.
+
+Principal Registrar: J. G. Hardman, O.B.E.
+
+Supreme Court of the Australian Capital Territory
+
+Judge:
+
+Commonwealth Court of Conciliation and Arbitration
+
+Chief Judge: Hon. W. R. Kelly.
+
+Judges: Hon. A. W. Foster; Hon. R. C. Kirby; Hon. E. A. Dunphy; Hon. S. C. G. Wright.
+
+Chief Conciliation Commissioner: G. A. Mooney.
+
+Industrial Registrar: J. E. Taylor.
+
+Federal Court of Bankruptcy: T. S. Clynes.
+
+GOVERNMENT DEPARTMENTS
+
+PRIME MINISTER'S DEPARTMENT
+
+Secretary: A. S. Brown, C.B.E.
+
+Public Service Board
+
+Chairman: W. E. Dunk, C.B.E.
+
+Commissioners: J. T. Pinner, O.B.E.; G. G. Sutcliffe.
+
+Secretary: H. C. Avent (Acting).
+
+Auditor General's Office
+
+Auditor-General: J. Brophy.
+
+Commonwealth Scientific and Industrial Research Organization
+
+Chairman of Executive Committee: Dr. I. Clunies Ross.
+
+Secretary: G. A. Cook, M.C.
+
+OFFICE OF EDUCATION
+
+Director: W. J. Weeden (Acting).
+
+NATIONAL SECURITY RESOURCES BOARD
+
+Executive Member: Dr. E. R. Walker.
+
+TREASURY
+
+Treasurer: The Rt. Hon. Sir A. W. Fadden, K.C.M.G.
+
+Secretary: Dr. R. Wilson, C.B.E.
+
+Bureau of Census and Statistics
+
+Commonwealth Statistician: S. R. Carver (Acting).
+
+Commonwealth Bank
+
+Governor: Dr. H. C. Coombs.
+
+Taxation Branch
+
+Commissioner of Taxation: P. S. McGovern.
+
+Government Printing Office
+
+Government Printer: L. F. Johnson, O.B.E.
+
+DEPARTMENT OF THE INTERIOR
+
+Secretary: W. A. McLaren.
+
+DEPARTMENT OF LABOUR AND NATIONAL SERVICE
+
+Secretary: H. A. Bland.
+
+DEPARTMENT OF IMMIGRATION
+
+Secretary: T. H. E. Heyes, C.B.E.
+GOVERNMENT DEPARTMENTS (Continued)
+
+DEPARTMENT OF COMMERCE AND AGRICULTURE
+Secretary: J. G. Crawford.
+
+DEPARTMENT OF EXTERNAL AFFAIRS
+Secretary: A. S. Watt, C.B.E.
+
+DEPARTMENT OF TERRITORIES
+Secretary: C. R. Lambert.
+
+DEPARTMENT OF NATIONAL DEVELOPMENT
+Secretary: Dr. H. G. Raggatt.
+
+DEPARTMENT OF WORKS
+Director-General: Dr. L. F. Loder, C.B.E.
+
+DEPARTMENT OF DEFENCE
+Secretary: Sir Frederick G. Sheddon, K.C.M.G., O.B.E.
+
+DEPARTMENT OF HEALTH
+Director-General of Health and Director of Quarantine: Dr. A. J. Metcalfe.
+
+DEPARTMENT OF SHIPPING AND TRANSPORT
+Secretary: C. H. McFadyen.
+
+DEPARTMENT OF TRADE AND CUSTOMS
+Comptroller-General:
+
+Tariff Board
+Chairman: M. E. McCarthy, C.B.E.
+Members: J. B. Cumming; P. B. Newcomen; F. W. Higgins.
+Secretary: J. A. Hueston.
+
+DEPARTMENT OF AIR
+Secretary: E. W. Hicks.
+Air Board, Chief of Air Staff: Air Marshal J. D. Hardman, C.B., C.B.E., D.F.C.
+Air Board, Air Member for Personnel: Air Vice-Marshal F. M. Bladin, C.B., C.B.E.
+Air Board, Air Member for Supply and Equipment: Air Vice-Marshal J. E. Hewitt, C.B.E.
+Air Board Secretary: F. J. Mulrooney.
+
+DEPARTMENT OF CIVIL AVIATION
+Director-General: Air-Marshal R. Williams, C.B., C.B.E., D.S.O.
+
+POSTMASTER-GENERAL'S DEPARTMENT
+Director-General of Posts and Telegraphs: G. T. Chippindall, C.B.E.
+
+DEPARTMENT OF THE ARMY
+Secretary: F. R. Sinclair.
+Military Board: Chief of the General Staff, Lt.-Gen. Sir Sydney Rowell, K.B.E., C.B.; Adjutant-General, Brigadier (temporary Maj.-Gen.) E. W. Woodward, C.B.E., D.S.O.; Quartermaster-General, Major-General J. A. Chapman, C.B., D.S.O.; Master General of the Ordnance, Major-General B. W. Pulver, C.B.E., D.S.O.; Citizen Forces, Major-General W. J. V. Windeyer, C.B., C.B.E., D.S.O., E.D.; Finance Member, E. J. Taylor; Secretary of the Board, W. L. Larkin, O.B.E.
+
+DEPARTMENT OF THE NAVY
+Secretary: T. J. Hawkins.
+Naval Board, President: The Hon. William McMahon.
+Naval Board, Naval Members: 1st Naval Member, Rear-Admiral Sir J. A. Collins, K.B.E., C.B.; 2nd Naval Member, Commodore R. R. Dowling, C.B.E., D.S.O.; 3rd Naval Member, Engineer-Rear-Admiral J. W. Wishart, O.B.E.; 4th Naval Member, Commodore A. R. Pedder, R.N.
+
+Finance and Civil Members: F. H. Smith (Finance); T. J. Hawkins (Civil).
+Flag Officer Commanding H.M. Australian Fleet: Rear-Admiral J. A. S. Eccles, C.F C.B.E.
+
+ATTORNEY-GENERAL'S DEPARTMENT
+Solicitor-General and Secretary, Attorney-General's Department: Prof. K. H. Bailey, C.B.E.
+Parliamentary Draftsman: J. Q. Ewens.
+Crown Solicitor: D. D. Bell.
+Commissioner and Registrar of Patent Trade Marks, Designs and Copyright Offices: H. R. Wilmot.
+Public Service Arbitrator: J. G. B. Castieau.
+Director, Commonwealth Investigation Service: Lt.-Col. E. Longfield-Lloyd.
+Inspector-General in Bankruptcy: C. E. Troyahn.
+
+REPATRIATION DEPARTMENT
+Chairman of Repatriation Commission: Major-General G. F. Wootten, C.B., C.B.E., D.S.O., E.D.
+
+DEPARTMENT OF SOCIAL SERVICES
+Director-General: F. H. Rowe, C.B.E.
+
+DEPARTMENT OF SUPPLY
+Secretary: Major-General J. E. S. Stevens, C.B., D.S.O.
+
+AUSTRALIAN REPRESENTATIVES IN OTHER COMMONWEALTH COUNTRIES
+High Commissioner in Canada: Professor Sir Douglas Copland, K.B.E., C.M.G.
+High Commissioner in Ceylon: A. R. Cutler, V.C.
+High Commissioner in India: W. R. Crocker.
+High Commissioner in New Zealand: P. R. Heydon.
+High Commissioner in Pakistan: L. E. Beavis, C.B., C.B.E., D.S.O.
+High Commissioner in the Union of South Africa: Lt.-Col. W. R. Hodgson, C.M.G., O.B.E.
+High Commissioner in the United Kingdom: The Hon. Sir Thomas White, K.B.E., D.F.C., V.D.
+
+AUSTRALIAN REPRESENTATIVES IN COUNTRIES OTHER THAN COMMONWEALTH COUNTRIES
+Brazil: (Vacant) (Minister).
+Burma: (Vacant) (Minister); H. D. White (Chargé d'Affaires a.i.).
+China: (Vacant) (Ambassador).
+Egypt: H. A. McClure-Smith (Minister).
+France: Sir Keith Officer, O.B.E., M.C. (Ambassador).
+Germany: J. D. L. Hood (Ambassador, Bonn, and Head of Mission in Berlin).
+Indo-China: J. Quinn (Minister).
+Indonesia: (Vacant) (Ambassador); J. C. G. Kevin (Minister and Chargé d'Affaires a.i.).
+Israel: O. C. W. Fuhrman, O.B.E. (Ambassador).
+Italy: C. V. Kellway (Minister).
+Japan: Dr. E. R. Walker (Ambassador).
+Netherlands: A. T. Stirling, C.B.E. (Ambassador).
+AUSTRALIAN REPRESENTATIVES—(Continued)
+
+Philippines: Rear-Admiral G. D. Moore, C.B.E. (Minister).
+
+Republic of Ireland: Paul Dominic McGuire (Ambassador).
+
+Thailand: B. C. Ballard (Minister).
+
+United Nations: W. D. Forsyth (Minister, New York); Patrick Shaw (Permanent Delegate in Europe (Geneva)).
+
+United States: The Hon. Sir Percy Spender, K.B.E., Q.C. (Ambassador); A. H. Tange, O.B.E. (Minister).
+
+U.S.S.R.: (Vacant) (Ambassador).
+
+REPRESENTATIVES IN AUSTRALIA OF OTHER COMMONWEALTH COUNTRIES
+
+High Commissioner for Canada: W. A. Irwin.
+
+High Commissioner for Ceylon: J. Aubrey Martensz, C.B.E.
+
+High Commissioner for India: General K. M. Cariappa.
+
+High Commissioner for New Zealand: G. E. L. Alderton.
+
+High Commissioner for Pakistan: Habibur Rahman.
+
+High Commissioner for the Union of South Africa: G. C. Nel (Acting).
+
+High Commissioner for the United Kingdom: Sir Stephen Holmes, K.C.M.G., M.C.
+
+REPRESENTATIVES IN AUSTRALIA OF COUNTRIES OTHER THAN COMMONWEALTH COUNTRIES
+
+Argentina: F. Quintana (Consul-General, Sydney).
+
+Austria: Dr. Otto Eiselsberg (Chargé d'Affaires).
+
+Belgium: Felix F. A. Jansen (Minister) (in Sydney).
+
+Brazil: Jose Cochrane de Alencar, O.B.E. (Minister).
+
+China (Nationalist): Dr. Chen Tai-Chu (Chargé d'Affaires a.i.).
+
+Denmark: F. H. Hergel, O.B.E. (Chargé d'Affaires a.i. (in Sydney).
+
+Finland: P. I. Simelius (Chargé d'Affaires en titre) (in Sydney).
+
+France: Louis Roché (Ambassador).
+
+Germany: Dr. Walther Hess (Ambassador).
+
+Greece: D. Lambros (Minister).
+
+Indonesia: Dr. R. Oetoyo (Ambassador).
+
+Israel: N. Nurok (Minister) (in Sydney).
+
+Italy: Silvio Danco (Minister).
+
+Japan: Haruhiko Niski (Ambassador).
+
+Netherlands: A. M. L. Winkelman (Ambassador).
+
+Philippines: Dr. Roberto Regala (Minister) (in Sydney).
+
+Republic of Ireland: Dr. the Hon. T. J. Kiernan (Ambassador).
+
+Sweden: J. M. Kastengren (Minister).
+
+Thailand: Nai Konthi Suphamongkhon (Minister).
+
+United States: Pete Jarman (Ambassador).
+
+U.S.S.R.: N. M. Lifanov (Ambassador).
+
+Yugoslavia: I. Njegovan (Consul-General) (in Sydney).
+
+NEW SOUTH WALES
+
+Situation, Area and Population
+
+The State of New South Wales lies on the eastern (Pacific) coast of Australia, almost entirely between the 29th and 36th parallels of south latitude. To the south it is separated from Victoria by the Murray River, but the boundary with South Australia to the west and the greater part of that with Queensland to the north is an artificial straight line on the map.
+
+The area of New South Wales (inclusive of a dependency, Lord Howe Island, five sq. miles, but exclusive of the Australian Capital Territory, 940 sq. miles) is 309,432 sq. miles, a little over two and a half times that of Great Britain and Ireland. The population at the 1947 census was 2,984,838, of whom 1,484,004 lived in Sydney, the State capital. The estimated population at 31st December, 1949, was 3,175,935, of whom 1,549,590 were living in Sydney.
+
+History
+
+The name New South Wales was given to the eastern part of Australia (then known as New Holland) on its discovery by Captain Cook in 1770, but the first settlement was not formed until 1788, at Sydney under Captain Phillip.
+
+Settlement for a time was slow, because a passage over the Blue Mountains, giving access to the interior plains, was not discovered until 1813. In 1828 the total population was only 36,598, but the discovery of gold in 1851 attracted many settlers. Responsible Government was established in 1856. In 1901, the Colony of New South Wales federated with the Colonies of Victoria, Queensland, South Australia, Western Australia and Tasmania to form the Commonwealth of Australia.
+
+Constitution
+
+The Constitution Act of 1902 (No. 32 of 1902) provides that the Legislature of New South Wales "shall, subject to the provisions of the Commonwealth of Australia Constitution Act, have power to make laws for the peace, welfare and
+good government of New South Wales in all cases whatsoever.” The Legislature consists of the Crown and two Houses—the Legislative Council and the Legislative Assembly.
+
+The Governor is the local representative of the Crown. His functions are defined partly by statutes and partly by Letters Patent and Instructions to the Governor issued under the Royal Sign Manual. He acts on the advice of the Executive Council or of a Minister of the Crown, except in limited spheres where he possesses discretionary power, e.g., in regard to the dissolution of Parliament.
+
+The Executive Council consists of members of the Ministry formed by the leader of the dominant party in the Legislative Assembly, and the Governor presides over its deliberations.
+
+In compliance with a referendum assented to in May 1933, the Legislative Council was reconstituted on 23rd April, 1934. The new House consisted of sixty members, elected by the combined vote of members of the existing Legislative Council and Legislative Assembly, provision being made for the retirement of fifteen members in rotation every three years, and the members being therefore initially elected in groups for three, six, nine and twelve years respectively.
+
+The Legislative Assembly consists of ninety-four members elected under a system of universal adult suffrage for up to three years. By Act No. 33 of 1950, any Bill prolonging the life of the Assembly beyond the period of three years cannot be presented for the Royal Assent until it has been approved by a referendum. The Act also provides that any Bill repealing or amending its provisions similarly requires approval by referendum. Any person enrolled as an elector may be elected to the Assembly, except members of the Legislative Council or of the Federal Legislature. Bills appropriating money or imposing taxation and bills affecting the Assembly itself must originate in the Assembly, and by its power over supply this House controls the Executive.
+
+Adult British subjects, men and women, are qualified for enrolment as electors when they have resided in the Commonwealth for a period of six months, in the State for three months, and in any sub-division of an electoral district for one month preceding the date of claim for enrolment. Since 1894 each elector has been entitled to one vote only, and voting has been compulsory since 1928.
+
+The electoral law provides that electorates are to be redistributed whenever directed by the Governor. In the event of there being no direction by the Governor, a distribution must take place on the expiration of five years from the date of the last redistribution. The redistribution is made by the Electoral District Commissioners, who may make use of the services of any of the officers and employees of the Public Service.
+
+At the election in February 1953, the Australian Labour Party secured 57 seats as against 36 secured by the Country and Liberal Party and one seat by Independent Labour.
+
+Governor: His Excellency Lt.-Gen. Sir John Northcott, K.C.M.G., C.B., M.V.O. (From 1st August, 1946).
+Lieutenant - Governor: Hon. Kenneth Whistle Street.
+
+EXECUTIVE COUNCIL
+Premier, Colonial Treasurer; Minister for Local Government: The Hon. John Joseph Cahill, M.L.A.
+
+Deputy Premier, Minister for Education: The Hon. Robert James Heffron, M.L.A.
+Minister for Housing and Assistant Treasurer: The Hon. Clive Ralagh Evatt, Q.C., M.L.A.
+Attorney-General: The Hon. Clarence Edward Martin, Q.C., M.L.A.
+Minister of Justice: The Hon. Robert Reginald Downing, M.L.C.
+
+For further information about New South Wales see Year Book.
+EXECUTIVE COUNCIL—(Continued)
+Chief Secretary: The Hon. Christopher Augustus Kelly, M.L.A.
+Minister for Health: The Hon. Maurice O'Sullivan, M.L.A.
+Minister for Agriculture: The Hon. Edgar Hugh Graham, M.L.A.
+Minister for Conservation: The Hon. G. Weir, M.L.A.
+Minister for Labour and Industry and Social Welfare: The Hon. F. J. Finnan, M.L.A.
+Minister for Transport: The Hon. W. F. Sheahan, M.L.A.
+Secretary for Lands: The Hon. Francis Harold Hawkins, M.L.A.
+Minister for Public Works and Assistant Minister for Local Government: The Hon. John Brophy Renshaw, M.L.A.
+Minister without Portfolio: The Hon. A. G. Enticknap, M.L.A.
+
+LEGISLATIVE COUNCIL
+Chairman of Committees: Lt.-Col. the Hon. T. Steele,
+Clerk: W. K. Charlton.
+
+LEGISLATIVE ASSEMBLY (94 Members)
+Speaker: The Hon. W. H. Lamb.
+Deputy Speaker and Chairman of Committees: G. Booth.
+Leader of the Opposition: V. H. Treatt, M.M., Q.C.
+Leader of the Country Party: Lt.-Col. the Hon. M. F. Bruxner, D.S.O.
+Clerk of the Legislative Assembly: H. Robbins, M.C.
+
+SUPREME COURT
+Chief Justice: Hon. Kenneth Whistler Street.
+Hon. A. V. Maxwell; Hon. W. F. L. Owen;
+Hon. E. D. Roper; Hon. H. G. Edwards;
+Hon. L. J. Herron; Hon. J. S. J. Clancy;
+Hon. B. Sugerman; Hon. F. A. Dwyer;
+Hon. E. P. Kinsella; Hon. S. V. Toose;
+Hon. J. H. McClemens; Hon. C. McLelland; Hon. A. R. Taylor; Hon. A. R. Richardson.
+
+LORD HOWE ISLAND
+
+This island lies 436 miles north-east from Sydney. Its area is five sq. miles and population 200. For purposes of representation in Parliament it is included in one of the Sydney electorates. A Board of Control under the Chief Secretary's Department, Sydney, administers the island.
+
+QUEENSLAND
+
+Situation, Area and Population
+
+Queensland occupies the whole of the north-eastern portion of Australia, from latitude 28°, and the greater portion of the southern boundary line is formed by the 29th parallel. The breadth of the territory near the southern boundary is about 900 miles. The area is 670,500 square miles (being more than equal to the combined areas of France, Germany, Italy and the British Isles). At the 1947 census the population was 1,106,269, of whom 402,172 resided in the State capital, Brisbane. According to a census of aboriginals taken in 1941 there were then 8,977 full-bloods and 6,451 half-castes in the State.
+
+Early History.
+
+Captain Cook discovered Moreton Bay in 1770, but the Brisbane River, running into it, was not located until 1823. The Moreton Bay Settlement was formed from New South Wales in 1824. The Darling Downs were explored in 1828, and squatters began to settle there soon afterwards. The territory was not, however, thrown open to colonization until 1842. It was separated from New South Wales in 1859, to become a separate Colony with about 25,000 inhabitants. It received responsible government at the same time.
+
+Government
+
+The constitution is regulated by the Letters Patent of 6th June, 1859, and United Kingdom Act 31 Vict. No. 38. The Legislature consists of one House, the Legislative Assembly, the members of which are elected (since 1905) by male and female adult franchise on residential qualifications only (three months' continuous residence in the State, and six months' within the Commonwealth).
+
+By the Electoral Districts Act of 1949 the State is divided into 75 districts, each returning one member.
+The Upper House, or Legislative Council, was abolished by an Act passed in 1922 (12 Geo. V. c. 32). Its members were nominated by the Governor-in-Council and held office for life.
+
+At the Election in March 1953, the Labour Party secured 50 seats, the Country Party 15, the Liberal Party 8, and Independents two seats.
+
+**Governor:** His Excellency Lt.-Gen. Sir John Lavarack, K.B.E., C.B., C.M.G., D.S.O.  
+*(From 1st October, 1946).*  
+
+**MINISTRY**
+
+**Premier and Chief Secretary:** Hon. Vincent C. Gair.  
+**Minister for Transport:** Hon. John E. Duggan.  
+**Secretary for Public Lands and Irrigation:** Hon. Thomas A. Foley.  
+**Secretary for Agriculture and Stock:** Hon. Harold H. Collins.  
+**Secretary for Labour and Industry:** Hon. Arthur Jones.  
+**Attorney-General:** Hon. William Power.  
+**Secretary for Public Instruction:** Hon. George Henry Devries.  
+**Secretary for Health and Home Affairs:** Hon. William Matthew Moore.  
+
+**Secretary for Public Works, Housing and Local Government:** Hon. P. J. R. Hilton.  
+**Treasurer:** Hon. Edward J. Walsh.  
+**Secretary for Mines and Immigration:** Hon. Ernest J. Riordan.  
+
+**Leader of the Opposition:** G. F. R. Nicklin.  
+
+**LEGISLATIVE ASSEMBLY**
+
+**The Speaker:** Hon. J. H. Mann.  
+**The Chairman of Committees:** David Farrell.  
+
+**SUPREME COURT**
+
+**Chief Justice:** Hon. N. W. Macrossan.  
+**Senior Puisne Judge:** Hon. A. J. Mansfield.  
+Hon. R. F. B. Philp; Hon. B. H. Matthews;  
+Hon. E. J. D. Stanley; Hon. K. R. Townley; Hon. W. G. Mack; Hon. R. J. Douglas; Hon. J. A. Sheehy.
+
+---
+
+**SOUTH AUSTRALIA**
+
+**Situation and Population**
+
+South Australia consists of that portion of Australia bounded on the east by the 141st degree of east longitude, on the north by the 26th degree of south latitude, on the west by the 129th degree of east longitude, and on the south by the Southern Ocean. The northern boundary is therefore approximately 746½ miles long, while the distance from north to south varies from 391 miles near the western extremity to approximately 823 miles near the eastern boundary. Excluding minor indentations, the coast line runs for 1,540 miles. The total area of the State is approximately 380,070 square miles, of which roughly 22,380 square miles are closely settled (principally near the coast), while 216,670 square miles are under sparse pastoral occupation. The State was constituted a British Colony by Act of Parliament 4 and 5 William IV Cap. 95 under the designation of South Australia, the western boundary then being defined as the 132nd degree of east longitude. In 1861 the boundary of South Australia on the western side was extended to the 129th degree of east longitude by Act 24 and 25 Vict. Cap. 44.
+
+The country known as the Northern Territory from the 26th parallel of south latitude to the Indian Ocean, between the 129th and 138th degrees of east longitude, was annexed to South Australia in 1863 by Letters Patent, but on 1st January, 1911, this portion of the State was taken over by the Commonwealth of Australia.
+
+All the adjacent islands on the south coast, including Kangaroo Island with an area of 1,500 square miles, are included in the State.
+
+The population of the State at the census of 1947 was 646,073, of whom 382,604 (59.14 per cent.) lived in Adelaide, the capital. Estimated population at 31st December, 1951, was 729,836 and 442,500 (60.63 per cent.) respectively. Census populations of other main towns were: Port Pirie 12,822, Whyalla 7,871, Mount Gambier 7,526, Renmark 5,045, Gawler 5,004, Port Augusta 4,566, Murray Bridge 4,282 and Port Lincoln 4,135.
+Early History
+
+The south coast was explored by Flinders in 1802 and in 1829 Captain Charles Sturt navigated the River Murray from the Victoria and New South Wales border.
+
+The colony of South Australia was founded under Act of Parliament, 4 and 5 William IV Cap. 95, on a scheme of colonization expounded by Edward Gibbon Wakefield. The general principle was that the Government should sell colonial lands and use the proceeds for emigration to the colony to which the United Kingdom should later grant some measure of self-government. Under the Foundation Act the control was divided between the Colonial Office and a Board of Commissioners for Land Sales and Emigration. The Board of Commissioners was wound up in 1841, and in 1842 a nominated Legislative Council was set up. Responsible government was established in 1856.
+
+The task of choosing the site for the first settlement in the province was entrusted to Colonel William Light. After landing on Kangaroo Island he rejected both this site and Port Lincoln in favour of the present situation of Adelaide, which he surveyed. The province was proclaimed by Governor Hindmarsh at Glenelg on the 28th December, 1836.
+
+Government
+
+The Parliament of South Australia consists of a Legislative Council and a House of Assembly, created by South Australia Act No. 2 of 1855-56, which was proclaimed on 25th October, 1856. This Act, commonly called the Constitution Act, was passed by virtue of United Kingdom Act 13 and 14 Vict. Cap. 59.
+
+The Legislative Council and House of Assembly as originally constituted consisted of eighteen and thirty-six members respectively. By South Australia Act No. 27 of 1875 the House of Assembly was increased to forty-six members, representing twenty-two electoral districts. By Act No. 236 of 1881 six members were added to the Legislative Council, and the colony was divided into four electoral districts for the purpose of Council elections. In 1882 the House of Assembly was further increased to fifty-two members, representing twenty-six electoral districts. By Act 779 of 1901 the number of members was reduced to eighteen in the Legislative Council and forty-two (representing thirteen districts) in the House of Assembly. By Act 1148 of 1913 the Assembly districts were increased to nineteen, returning forty-six members. Act 2336 of 1936 divided the State into thirty-nine electoral districts, each returning one member.
+
+The five electoral districts of the Legislative Council are Central No. 1, Central No. 2, Southern, Midland and Northern, each returning four members, two of whom retire alternately (section 10 of Act 959 of 1908 and section 15 of Act 1148 of 1913). Elections are conducted by preferential ballot and since 1942 voting at elections has been compulsory.
+
+The qualification for a member of the Legislative Council is that he shall have attained the age of 30 years, be a British subject and have resided in the State for three years. The qualifications for an elector are set out in the Constitution Act 1934-36, and in addition he must be 21 years of age, a natural-born or naturalized British subject and have resided in South Australia for six months.
+
+The House of Assembly, which is liable to dissolution by the Governor, is elected for three years. The Constitution Act prescribes no other qualification as necessary for a member of the House of Assembly than that he shall be qualified and entitled to be registered as an elector. An elector's qualification to vote is that he shall be of at least 21 years of age, a natural-born or natu-
+lized British subject and have lived in the Commonwealth for six months and in the State for three months and in the district for one month. The session is usually from June to December.
+
+The franchise for both Houses was extended to adult women by Act 613 of 1894.
+
+At the Election in March 1953 the Liberal Country League secured 21 seats in the House of Assembly, the Australian Labour Party 14 seats and the Independents four seats. In the Legislative Council the Liberal Country League has 16 seats and the Labour Party four.
+
+The Cabinet consists of six Ministers, members of the Legislature, who are ex officio members of the Executive Council, which consists of the Governor and the Ministers.
+
+Governor: His Excellency Air Vice-Marshal Sir Robert George, K.B.E., C.B., M.C. (From 23rd February, 1953.)
+
+Lieutenant-Governor: Hon. Sir Mellis Napier, K.C.M.G., (Chief Justice).
+
+THE MINISTRY
+
+Premier, Treasurer, Minister of Immigration and Minister for Industry and Employment: Hon. Thomas Playford.
+
+Chief Secretary and Minister of Mines and of Health: Hon. Alexander L. McEwin.
+
+Attorney-General and Minister of Education: Hon. Reginald J. Rudall.
+
+Minister of Lands, Repatriation and Irrigation: Hon. Cecil S. Hincks.
+
+Minister of Works and Railways, Marine and Local Government: Hon. Malcolm McIntosh.
+
+Minister of Agriculture and Forests: Hon. Sir George F. Jenkins, K.B.E.
+
+Leader of the Opposition: M. R. O'Halloran, M.P.
+
+LEGISLATIVE COUNCIL (20 Members)
+
+President: Hon. Sir Walter Duncan.
+
+Clerk: I. J. Ball.
+
+HOUSE OF ASSEMBLY (39 Members)
+
+Speaker: Hon. Sir Robert D. Nicholls.
+
+Chairman of Committees: H. S. Dunks.
+
+Clerk of Parliaments and Clerk of Assembly: F. L. Parker.
+
+JUDGES OF THE SUPREME COURT
+
+Chief Justice and Judge of the Vice-Admiralty Court: Hon. Sir Mellis Napier, K.C.M.G.
+
+Judges: Hon. Sir Herbert Mayo; Hon. Sir Geoffrey Reed, Q.C.; Hon. G. C. Ligertwood, Q.C.; Hon. C. A. H. L. Abbott, Q.C.
+
+TASMANIA
+
+Situation, Area and Population
+
+Tasmania, the smallest State of the Australian Commonwealth, is an island at the southern extremity of the continent of Australia, from which it is divided by Bass Strait, 140 miles wide. The area is 26,215 square miles.
+
+The population of the State at the census of 1947 was 257,078, of whom 76,534 lived in the capital, Hobart.
+
+History and Government
+
+Tasmania was discovered in 1642 by the Dutch navigator, Abel Jan Tasman, and by him named Van Diemen's Land, the name by which it was known down to 1853. It was formally taken possession of by England in 1803 and made auxiliary to the settlement at Botany Bay, from which it was separated in 1825. Responsible government was introduced in 1856, and the colony entered the Australian Commonwealth on Federation in 1901.
+
+The main lines of the present Constitution were laid down by a local Act in 1855. These have been amended from time to time and modified by Federation.
+
+Parliament consists of two elected Houses.
+
+The Legislative Council of 19 members is elected by free-holders of £10 and lease-holders of £26 annual value. Three members retire annually except that in the year 1953 and in each sixth successive year thereafter four members retire. The Council cannot be dissolved as a whole.
+
+The House of Assembly is elected on adult suffrage for a maximum of five years, and consists of 30 members returned for five six-member constituencies, which are the same as the Commonwealth electoral divisions. The
+system of voting is substantially the Hare system of single transferable vote, with obligations to record at least three preferences. After an earlier partial trial it was applied to the whole State in 1909, and all subsequent General Elections have been held under it.
+
+The power of the Upper House to amend Money Bills sent up from the Assembly has always been a matter of some doubt, and at the end of 1924 was successfully challenged by the House of Assembly in respect both of the Appropriation Bill and of an Income Tax Bill. The controversy on the subject was in 1926 settled by a compromise, by which the Upper House gave up any claim to amend the Appropriation Bill or bills imposing a rate of income tax, but maintained full powers of amendment of other Money Bills.
+
+At the Election in May 1950 the Labour Party secured 15 seats, the Liberal Party 14, and the Independents one seat.
+
+**Civil Establishment**
+
+*Governor:* His Excellency the Rt. Hon. Sir Ronald Cross, Bt. *(From 23rd August, 1951.)*
+
+*Clerk of the Executive Council:* Edward Parkes, C.M.G., M.V.O., I.S.O.
+
+**Cabinet**
+
+*Premier and Minister of Education:* Hon. R. Cosgrove.
+
+*Treasurer and Minister for Transport:* Hon. J. L. Madden.
+
+*Minister of Lands and Works and Mines:* Hon. E. E. Recce.
+
+*Chief Secretary:* Hon. A. J. White.
+
+*Attorney-General:* Hon. R. F. Fagan.
+
+*Minister for Agriculture:* Hon. J. J. Dwyer, V.C.
+
+*Honorary Ministers*
+
+*Minister for Health:* Hon. R. J. D. Turnbull.
+
+*Minister for Tourists, Immigration and Forests:* Hon. C. H. Hand.
+
+*Minister for Housing:* Hon. C. A. Bramich.
+
+*Leader of the Opposition:* R. C. Townley, M.H.A.
+
+**Legislative Council**
+
+*President:* Hon. Sir Rupert Oakley Shoobridge.
+
+*Clerk of the Council:* C. I. Clark.
+
+**House of Assembly**
+
+*Speaker:* Hon. L. T. Spurr.
+
+*Chairman of Committees:* Hon. C. B. Aylett.
+
+**Supreme Court**
+
+*Chief Justice:* Hon. Sir John D. Morris.
+
+*Puisne Judges:* Hon. A. I. Clark; Hon. R. K. Green; Hon. M. G. Gibson.
+
+**Victoria**
+
+**Situation, Area and Population**
+
+Victoria is situated at the south-east of the continent of Australia, and lies between the 34th and 39th parallels of S. latitude. The area is 87,884 square miles (nearly equal to that of Great Britain). The population in 1947 was 2,055,252, of whom 1,226,923 lived in the capital, Melbourne.
+
+**History and Constitutional Development**
+
+It is believed that the first Europeans who sighted the Victorian coast were Captain Cook and the crew of His Majesty's ship *Endeavour*. The first permanent settlement was formed at Portland Bay, by Edward Henty, from Van Diemen's Land (Tasmania). The capital Melbourne, was eventually founded at the northern end of Port Phillip Bay in 1835. In 1851 Victoria was separated from New South Wales, and shortly afterwards rich deposits of gold were discovered, which led to a great influx of population. A new constitution, giving responsible government, was established by an Act passed by the Legislature of Victoria in 1854, in pursuance of power granted by Act of the Imperial Parliament (18 & 19 Vict. Cap. 55).
+
+**Government**
+
+The present Government of Victoria consists of a Governor appointed by the Crown, who is the official head of both Legislature and Executive. There is a Legislative Council, or Upper House of Parliament, consisting of 34 members elected for 17 Provinces, and an Assembly, or Lower House, consisting of 65 members returned by 65 Electoral Districts.
+The constitution of the two Houses and the qualification of members and electors have been amended on several occasions; and a Reform Act received the Royal Assent on 26th November, 1903. By this Act the number of members of both Houses was reduced, the franchise for the Upper House broadened, the property qualifications for membership reduced, and several other reforms made.
+
+One of the two members of Council returned for each of the Electoral Provinces retires in rotation at the expiration of every three years, so that the tenure of seats is six years. By the Act of 1935, voting at Legislative Council elections was made compulsory. Money Bills may be either accepted or rejected by the Council but they may not be altered. By the Reform Act of 1903 the Council was empowered to suggest alterations in these Bills.
+
+The Constitution (Reform) Act, 1937, provides that in the event of a disagreement between the Houses the Governor may dissolve the Council. If after such dissolution the Houses still disagree the Governor may convene a joint sitting of members of both Houses. If the Bill is then carried by an absolute majority it shall be deemed to have been duly passed.
+
+The principle of single voting is observed in elections for either House of Parliament.
+
+The duration of the Assembly is, in ordinary circumstances, three years, but it may be dissolved by the Governor at any time. Voting at Legislative Assembly elections was made compulsory by an Act of 1926.
+
+At the Election in December 1952, the Labour Party secured 38 seats, the Liberal and Country Party 15 seats, and the Country Party 12 seats. The Government is a Labour Party Government.
+
+Governor: His Excellency General Sir Dallas Brooks, K.C.B., K.C.M.G., D.S.O. (From 19th October, 1949.)
+
+Lieutenant-Governor: Lt.-Gen. the Hon. Sir Edmund Herring, K.C.M.G., K.B.E., D.S.O., M.C., E.D.
+
+CABINET
+
+Premier and Treasurer: Hon. John Cain, M.L.A.
+
+Chief Secretary: Hon. L. W. Galvin, M.L.A.
+
+Minister of Transport: Hon. P. L. Coleman, M.L.C.
+
+Attorney-General, Minister of Prices, and Minister of Immigration: Hon. W. Slater, M.L.C.
+
+Minister of Health: Hon. W. P. Barry, M.L.A.
+
+Minister of Agriculture, State Development and Decentralization, and Water Supply: Hon. C. P. Stoncham, M.L.A.
+
+Minister of Housing: Hon. T. Haycs, M.L.A.
+
+Minister of Labour and Mines: Hon. A. McD. Fraser, M.L.C.
+
+Minister of Education: Hon. A. E. Shepherd, M.L.A.
+
+Minister of Lands, Soldier Settlement, and Conservation: Hon. R. W. Holt, M.L.A.
+
+Minister of Public Works: Hon. S. Merrifield, M.L.A.
+
+Minister-in-Charge of Electrical Undertakings and Forests: Hon. J. W. Galbally, M.L.C.
+
+Ministers without Portfolio: Hon. J. H. Smith, M.L.A.; Hon. F. R. Scully, M.L.A.
+
+LEGISLATIVE COUNCIL
+
+President: Hon. Sir Clifden Eager, K.B.E., Q.C.
+
+Chairman of Committees: Hon. R. C. Rankin.
+
+Clerk of the Legislative Council: R. S. Sarah.
+
+LEGISLATIVE ASSEMBLY
+
+Speaker: Hon. P. K. Sutton.
+
+Chairman of Committee: E. Morton.
+
+Clerk of the Parliaments and Clerk of the Legislative Assembly: H. K. McLachlan, J.P.
+
+SUPREME COURT
+
+Chief Justice: Hon. Sir Edmund Herring, K.C.M.G., K.B.E., D.S.O., M.C., E.D.
+
+Hon. Sir C. J. Lowe; Hon. Sir C. G. Duffy; Hon. F. R. B. Martin; Hon. N. O'Bryan; Hon. W. K. Fullagar; Hon. J. V. Barry; Hon. A. Dean; Hon. R. R. Sholl.
+
+WESTERN AUSTRALIA
+
+Situation, Area and Population
+
+Western Australia comprises nearly one-third of the Australian continent, namely, all that portion west of the 129th meridian. The total area is 975,920 square miles (more than half the area of European Russia and over one-fourth
+that of Europe). The population of the State at 31st December, 1951, was 591,602, of whom an estimated 317,000 live in the Metropolitan Area.
+
+History and Government
+
+The first authentic record of European explorers visiting any portion of Western Australia is in 1616. In 1791 Vancouver, in the *Discovery*, took formal possession of the country about King George Sound.
+
+In 1826 a small settlement was formed on King George Sound and called Frederick Town. In 1829 Captain Fremantle took possession of the territory, and in the same year Captain Stirling founded the Swan River Settlement and the towns of Perth and Fremantle and was appointed Lieutenant-Governor.
+
+In 1870 a "Representative" constitution was established by United Kingdom Act 33 Vict., Cap. 13. The Governor was to be assisted by an Executive Council composed of the principal officers of the Government and two unofficial members appointed by him. There was also to be a Legislative Council, consisting then of three official members of the Executive Council, three unofficial nominees of the Governor, and 12 elected members.
+
+Responsible government was granted to Western Australia in 1890 (53 and 54 Vict. Cap. 26).
+
+The Legislature consists of two Houses: the Legislative Council, of 30 members, and the Legislative Assembly, of 50 members. The members of both Houses are elected.
+
+At the Election in February 1953 the Labour Party secured 26 seats and the Liberal Country League 24 seats.
+
+Governor: His Excellency Lieut.-General Sir Charles Gairdner, K.C.M.G., C.B., C.B.E. (From 6th November, 1951.)
+
+Lieutenant-Governor: The Hon. Sir John Dwyer, K.C.M.G.,
+
+THE EXECUTIVE COUNCIL
+
+President: His Excellency The Governor.
+
+Minister for Housing and Forests:
+
+Minister for Mines and Fisheries:
+
+Minister for North West, and for Supply and Shipping:
+
+Leader of the Opposition: Hon. D. R. McLarty, M.M., M.L.A.
+
+THE LEGISLATIVE COUNCIL
+
+President: Hon. Sir Harold Seddon.
+
+Chairman of Committees: Hon. J. A. Dimmit.
+
+THE LEGISLATIVE ASSEMBLY
+
+The Speaker: Hon. C. F. J. North.
+
+Chairman of Committees: C. C. Perkins.
+
+SUPREME COURT
+
+Chief Justice: Hon. Sir John Dwyer, K.C.M.G.
+
+Puisne Judges: Hon. A. A. Wolff; Hon. J. L. Walker; Hon. L. W. Jackson; Hon. J. E. Virtue.
+
+THE NORTHERN TERRITORY OF AUSTRALIA
+
+Situation, Area and Population
+
+The Territory includes the mainland of Australia and the adjacent islands lying between Western Australia, Southern Australia and Queensland, to the west, south and east respectively, and the Indian Ocean to the north.
+
+The total area of the Territory is 523,620 square miles.
+
+The centre of the Administration is Port Darwin.
+
+The estimated aboriginal population in 1944 was, full-bloods 13,331, half-castes 822. In 1947 the European population was estimated at 10,866.
+
+History and Administration
+
+The first attempt at settlement in North Australia was made in 1824.
+
+In 1827 the portion of North Australia subsequently known as the Northern Territory was included within New South Wales, but in 1863 it was annexed
+by Royal Letters Patent to the province of South Australia. With the adjacent islands it was transferred to the Commonwealth on 1st January, 1911.
+
+The Northern Territory (Administration) Act, 1910, provided for the appointment by the Commonwealth Government of an administrator and officials. South Australian laws applicable to the Territory at the date of transfer were to continue in force as laws of the Territory and certain Commonwealth Acts were to apply to it. Power was given to the Governor-General to make Ordinances having the force of law.
+
+A Resident Administrator, vested with authority in internal affairs, was appointed by the Minister for External affairs in February, 1912.
+
+The Northern Australia Act, 1926, provided for the division of the Northern Territory for administrative purposes into North Australia and Central Australia, separated by the 20th parallel of S. latitude. This division took effect in 1927, but the 1926 Act was repealed by the Northern Territory (Administration) Act, 1931, and as from that year the Territory was reunited.
+
+An amendment to the Northern Territory (Administration) Act in 1947 provided for a Legislative Council, which consists of the Administrator, seven official members, and six elective members, who hold office for three years. Ordinances made by the Council must be assented to by the Administrator, and may be disallowed by the Governor-General.
+
+A Supreme Court with original and appellate jurisdiction has been established. A Sheriff, a Registrar-General, a Chief Medical Officer and Health Officers have been appointed. Custody and control of the aborigines with extensive powers of supervision are vested in the Director of Native Affairs. Provision is made for the control of fisheries and pearl-fishing. Crown lands are classified and their mode of acquisition, entry and holding defined by the Crown Lands Ordinance 1931-39, and the Administrator is charged with their general administration. Under the Stock Diseases Ordinance the Chief Inspector of Stock has wide powers in regard to the movement of stock, control and prevention of diseases, etc. In 1915 a town council was constituted for Darwin and provision made for assessment, rates, etc. The council was abolished and the civic administration of the town transferred to the Northern Territory Administration in April 1937.
+
+Parliamentary Representation
+
+By an Act of Parliament passed in 1922 the Northern Territory elects a member of the House of Representatives. The member for the Northern Territory is entitled to vote only on the disallowance of Ordinances relating to the Northern Territory. He may, however, take part in any debate in the House.
+
+Administrator: Hon. F. J. S. Wise.
+
+PAPUA
+
+Situation, Area and Population
+
+Papua (formerly called British New Guinea) consists of the south-eastern portion of the island of New Guinea and of about 200 islands, most of which lie to the south-east of the mainland. The total superficial area is about 90,540 square miles.
+
+The capital of Papua is Port Moresby.
+
+The population has never been the subject of a census, and a well-peopled plateau in the mountains which divide Papua from the trusteeship territory of Australian New Guinea was only discovered in 1935-36. The indigenous
+population at 31st December, 1951, was estimated at 371,436, and the Euro-
+pean population at 4,425.
+
+History
+
+The whole of New Guinea to the west of 141° E. longitude is claimed by
+the Dutch as suzerains of the Sultan of Tidore. The Government of Queens-
+land annexed that portion of the island not claimed by Holland to the British
+Empire on the 4th April, 1883, but this proceeding was not ratified by the
+Imperial Government. On the Australasian colonies agreeing to guarantee
+£15,000 a year to meet the cost a Protectorate was, however, proclaimed in
+1884 over the south-east coast of New Guinea and the adjacent islands, and
+the territory was annexed to the Crown by the newly-appointed Administrator
+in 1888. In 1901 the Government of the Commonwealth of Australia agreed
+to take it over as a territory of the Commonwealth. In 1906 a Proclamation
+was issued by the Governor-General, under the provisions of the Papua Act
+1905, declaring British New Guinea a territory of the Commonwealth, under
+the name of Papua.
+
+Administration
+
+Commonwealth of Australia Act No. 9 of 1949 provided for the govern-
+ment of Papua and New Guinea in one administrative union while maintaining
+the separate identity and status of the two territories. Under the Act there
+was to be an Administrator of the Territory of Papua and New Guinea,
+appointed by the Governor-General of the Commonwealth and advised and
+assisted by an Executive Council consisting of not less than nine officers of
+the Territory. The Act also provided for the establishment by Ordinance of
+Advisory Councils for Native Matters which were to include a majority of
+native members and for Native Village Councils.
+
+The Legislative Council for the Territory consists of 29 members (the
+Administrator, 16 official and 12 non-official members, three of whom are
+elected, three represent the Christian missions, three are Native members and
+three are other non-official members). The first election of members was held
+in November, 1951.
+
+An Australian School of Pacific Administration was established in 1946 to
+provide special courses for the education of officers and prospective officers of
+the Territory.
+
+Administrator of Papua and New Guinea: B. M. Cleland, C.B.E. (Acting).
+
+THE TERRITORY OF ASHMORE AND CARTIER ISLANDS
+
+By United Kingdom Order in Council of the 23rd July, 1931, the Ashmore
+Islands, known as Middle, East and West Islands, and the Cartier Islands
+situated in the Indian Ocean some 200 miles off the coast of north-western
+Australia and slightly more than 100 miles to the south-west of Timor and
+Indonesia, were placed under the authority of the Commonwealth. The
+Islands were accepted by the Commonwealth in the Ashmore and Cartier
+Islands Acceptance Act, 1933, under the name of the Territory of Ashmore
+and Cartier Islands and were transferred on the 10th May, 1934.
+
+THE AUSTRALIAN ANTARCTIC TERRITORY
+
+By Order in Council of the 7th February, 1933, that part of His Majesty's
+dominions in the Antarctic Seas which comprised all the islands and territories
+other than Adélie Land (which is a French possession occupying an area
+between 142° and 136° of east longitude) which are situated south of the 60th
+degree of south latitude and lying between the 160th degree of east longitude
+and the 45th degree of east longitude was placed under the authority of the
+Commonwealth of Australia. An Act was passed in June, 1933 by the Commonwealth Parliament declaring acceptance of the territory as a territory under the authority of the Commonwealth Government by the name of the Australian Antarctic Territory, and the Order in Council was brought into operation on the 24th August, 1936, by a Proclamation issued on that date by the Governor-General.
+
+The part of Antarctica comprised within the Australian Antarctic Territory is, like the rest of the continent, without permanent inhabitants. Its area is estimated at 2,472,000 square miles.
+
+HEARD AND MACDONALD ISLANDS
+
+These islands are situated south-east of the Kerguelen Islands. They have been administered by the Commonwealth of Australia since December, 1947, when an Australian Meteorological Station was set up on Heard Island. The area is 159 square miles. There are no permanent inhabitants.
+
+NEW GUINEA
+
+Situation, Area and Population
+
+That portion of the island of New Guinea lying to the eastward of 140° E. longitude (i.e. to the east of Dutch New Guinea) and to the north of British New Guinea, together with certain islands in the Samoan Group and the island of Nauru formed the German New Guinea Protectorate until 1914. In that year it was occupied by Australian forces, and (less the Samoan Islands and Nauru q.q.v.) has subsequently been administered by the Commonwealth of Australia—from 1919 until 1947 under a mandate from the League of Nations and from 1947 under a trusteeship agreement with the United Nations.
+
+It lies between the Equator and 8° S. latitude. At the widest point it is about 400 nautical miles from north to south and about 1,100 miles from east to west. The area is about 93,000 sq. miles. The adjacent islands number over 600.
+
+The estimated indigenous population 1950-51 was 1,094,014; and the estimated non-indigenous population was European 3,429, non-European 2,427.
+
+Administration
+
+The territory is administered according to the terms of the Trusteeship Agreement approved by the General Assembly of the United Nations on 13th December, 1946. Article 5 of the Agreement provided that the Administering Authority (the Commonwealth of Australia) might bring the territory into a customs, fiscal or administrative union or federation with other dependent territories under its jurisdiction or control and establish common services between the territory and any or all of these territories if, in its opinion, it would be in the interest of the territory and not inconsistent with the basic objectives of the Trusteeship to do so.
+
+The Papua and New Guinea Act was accordingly passed by the Australian Parliament in 1949. (See under Papua).
+
+The development of the territory is set out in annual reports of the General Assembly of the United Nations.
+
+Administrator: B. M. Cleland, C.B.E. (Acting).
+
+NAURU
+
+Situation, Area and Population
+
+Nauru Island is situated almost on the Equator and in longitude 166° east of Greenwich. The area is 5,263 acres. It is a small isolated mountain peak of coral formation, with important phosphate deposits. The population in 1951 was 3,434, of whom 1,618 were Nauruans, 131 South Pacific islanders, 274 Europeans, and 1,411 Chinese.
+History
+
+The island was discovered in 1798 by Captain John Fearn, but was annexed by Germany in 1888, forming part of the Marshall Islands Protectorate for administrative purposes. In 1914 it was occupied by an Australian force, and in 1919, by the Treaty of Versailles, Germany renounced her title in favour of the principal Allied and Associated Powers who agreed that the mandate for the administration of the island should be conferred upon His Britannic Majesty. In the same year the Governments of the United Kingdom, Australia and New Zealand concluded an agreement which provided that the administration should be vested in an Administrator, that the first Administrator should be appointed for five years by the Australian Government and that thereafter the Administrator should be appointed in such manner as the three Governments should decide. The agreement further provided that the right, title and interest in the phosphate deposits of the island, purchased by the three Governments from the company which had operated them under the German régime, should be vested in, worked and sold under the management of a Board of three Commissioners called the British Phosphate Commissioners, one Commissioner being appointed by each of the three Governments. In 1920 the terms for a mandate for the administration of Nauru were drawn up and deposited with the League of Nations. In 1923 a supplementary agreement between the three Governments laid down the procedure to be followed by the Administrator in making ordinances. From 1942-45 Japanese forces occupied Nauru and the indigenous population was reduced by about a third as the result of malnutrition, deportation and ill-treatment. In 1947 the General Assembly of the United Nations approved the terms of a trusteeship agreement submitted by the Governments of Australia, New Zealand, and the United Kingdom.
+
+Administration
+
+Full powers of legislation, administration and jurisdiction are vested in the Administrator, who has power to make ordinances for the good government of the island and to provide for the political, social, economic and educational advancement of the indigenous population. All ordinances are subject to disallowance by the Government of Australia on behalf of the administering authority. The Administrator is assisted by an European staff and a Nauruan Council of Chiefs. The indigenous inhabitants are regarded as Nauruan nationals and for certain purposes as British-protected persons. Migration is limited to the requirements of the Administration and the British Phosphate Commissioners and to the wives and families of their employees. New rates of royalty paid by the Phosphate Commissioners since 1947 on each ton of phosphate exported have greatly enhanced the economic status of the indigenous inhabitants, which was already specially favourable between the two world wars. The numbers of the local inhabitants being inadequate for exploitation of the phosphate deposits, these have been and are being largely worked by Chinese recruited in Hong Kong who are repatriated at the conclusion of their term of contract.
+
+Administrator: Hon. J. K. Lawrence.
+
+NORFOLK ISLAND
+
+Norfolk Island, discovered by Captain Cook in 1774, is situated in 29° 3' 45" south latitude and 167° 56' 29" east longitude. Its total area is 8,528 acres.
+
+The island was first colonized in 1788 by the establishment of a small penal settlement, which existed with one short break until 1855. In 1856 the descendants of Bounty mutineers inhabiting Pitcairn Island were removed to Norfolk Island at their own request, some of whom returned to Pitcairn in due course. There is no indigenous population and the inhabitants consist mainly of the descendants of the Pitcairn islanders who remained on the island and some settlers from Australia and New Zealand. In June, 1949, the estimated population was 1,148.
+In 1856 the island was created a settlement under the jurisdiction of the Governor of New South Wales, and in 1896 it was made a dependency of New South Wales. Under the Norfolk Island Act, 1913, it became a Territory of the Commonwealth of Australia, and is administered by an Administrator, appointed by the Governor-General, aided by an Advisory Council consisting of 8 elected members. Annual elections are held, the order in which members of the Council retire being prescribed by Ordinance.
+
+Administrator: Alex Wilson.
+NEW ZEALAND
+
+Situation and Area
+
+NEW ZEALAND consists of two principal islands, called respectively the North and the South Islands, together with the smaller and sparsely-populated Stewart Island. There are several small islets (mostly uninhabited) within the boundaries of New Zealand, the chief of these being the Chatham Islands, 470 miles eastward of Banks Peninsula in 43-45° S. latitude 176-177° W. longitude (Chatham and Pitt are the principal islands), and the Auckland Islands. The main group lies between 33° and 53° S. latitude and 162° E. longitude and 173° W. longitude. The three principal islands extend in length 1,100 miles but their breadth is very variable. The area of the North Island and adjacent islets is 44,281 square miles, of South Island 58,093 square miles, of Stewart Island 670 square miles, of Chatham Islands 372 square miles, and of other islands, inclusive of Island Territories (203 square miles), a total area of 103,939 square miles (twice the size of England).
+
+In 1847 by Royal Letters Patent, and again by the Act 26 & 27 Vict., Cap. 23 (1863), all islands between 162° E. and 173° W. longitude and 33° and 53° S. latitude were annexed to New Zealand.
+
+By Proclamation dated 21st July, 1887, the group called the Kermadec Islands, situated about 614 miles north-east of the Bay of Islands, was annexed to New Zealand. These are a chain of widely-separated islets lying between 29° and 32° S. latitude and 177° and 179° W. longitude. The principal are Sunday, or Raoul, and Macaulay, the next in size being Curtis and L'Espérance. Sunday comprises 11 square miles, is covered with forest and rises to a height of 1,723 feet.
+
+The Protectorate over the Cook Islands, which was established in 1888, was administered through the Governor of New Zealand until 1900; in October of that year the group was annexed to Her Majesty's dominions, and resolutions were passed by the New Zealand Parliament for the extension of the boundaries of New Zealand to include the group as well as Niue (Savage) Island and other small islands. By proclamation finally fixing the date (11th June, 1901) from which the boundaries of New Zealand are deemed to be extended, the following islands are included:—Rarotonga, Mangaia, Atiu, Aitutaki, Mitiaro, Mauké, Manuae and Te Au-o-tu (Hervey Islands), Takutea, Palmerston (Avarau), Niue (Savage), Pukapuka (Danger), Nassau, Rakahanga, Manihiki, Penrhyn (Tongareva), and Suwarrow.
+
+An account of the Cook Islands is given on page 128.
+
+The principal Allied and Associated Powers, assembled at Versailles, decided that the islands of Western Samoa should be assigned under mandate to New Zealand, and a mandate was issued by the Council of the League of Nations in December 1920 in favour of New Zealand. The group, which lies about 400 miles north-east of Fiji, within latitudes 13° to 15° S. and longitudes 171° to 173° W., contains several islands, of which Savai'i and Upolu are the largest. The total area is 1,133 sq. miles.
+
+It was also decided that the phosphate island of Nauru (Pleasant Island), lying in 0.33° S. latitude and 166.55° E. longitude, should be administered by New Zealand conjointly with the United Kingdom and Australia.
+
+By Order in Council of 30th July, 1923, the coasts of the Ross Sea, with the adjacent islands and territories, were declared a British settlement under the name of the Ross Dependency. The dependency was placed under the jurisdiction of the Governor-General of New Zealand.
+
+Arrangements were made in 1925 for the administration of the Tokelau or Union Islands, part of the Gilbert and Ellice Islands Colony, to be taken over by New Zealand. This transfer was effected as from 11th February, 1926.
+
+For further information about New Zealand, see New Zealand Official Year Book.
+on the publication of the Union Islands Order in Council 1925, in the respective Government Gazettes. The islands were administered by the Administrator of Western Samoa on behalf of New Zealand. An Order in Council of His Majesty cited as the Union Islands (Revocation) Order in Council 1948, provided for the revocation of the 1925 Order in Council, and from the 1st January, 1949, the Tokelau Islands were incorporated with New Zealand.
+
+Population
+
+On 31st March, 1952, the population of New Zealand, excluding Island Territories, was 1,984,730, of whom 119,288 were Maoris and 16,229 were registered aliens. On the 31st March, 1951, the population of the Island Territories was estimated at 21,394 (Cook and Niue Islands 19,860, Tokelau Islands 1,534). The estimated population of the Trust Territory of Western Samoa on the 30th June, 1951, was 82,493.
+
+History
+
+New Zealand was discovered in 1642 by the Dutch navigator Tasman, who however did not land upon its shores. In 1769 it was visited by Captain Cook, who in that year and during subsequent voyages explored its coast. The country subsequently became a resort for whalers and traders, chiefly from Australia, as well as a field for the labours of missionary societies from 1814. In 1840, under the Treaty of Waitangi concluded with Native Chiefs, sovereignty was ceded to the British Crown and proclamations were issued. British sovereignty was proclaimed in the case of South Island and Stewart Island by right of discovery.
+
+The natives, called Maoris, are a remarkable people, a branch of the Polynesian race. According to their traditions, their fathers came about 750 to 600 years, or 30 generations, ago from Hawaiki, the position of which is now uncertain. They were divided into about 20 different tribes, analogous to the clans of the Highlands of Scotland. There have been two periods when hostilities with the Maoris assumed serious proportions: the first lasted from 1845 until 1848, the second and more general lasted from 1860 with little intermission until 1872. But fully half the tribes have always been friendly to the English, and many of them fought on the side of the Colonial Government against their own countrymen. Permanent tranquility was established in 1872 throughout the country. Contrary to the results found in other civilized countries, the Maoris in New Zealand are steadily increasing. This increase has been accompanied by a considerable dilution of blood through inter-marriage with Europeans. It is estimated that at most only 50 per cent. are now of pure Maori descent.
+
+Constitution
+
+The country was at first a dependency of New South Wales, but was created a separate Colony by the Charter of 16th November, 1840. Its settlement was largely effected by the New Zealand Company with a Royal Charter, which was surrendered in 1850.
+
+Down to 1847 the Executive and Legislative Councils were both nominated by the Governor, and a constitutional form of government was established by Statute 15 & 16 Vict., Cap. 72 (1852). By that Act New Zealand was divided into six provinces, afterwards increased to ten, but subsequently reduced to nine, viz., Auckland, Taranaki, Wellington, Nelson, Canterbury, Otago, Hawke's Bay, Westland, and Marlborough, each governed by a Superintendent and Provincial Council elected by the inhabitants under a franchise which practically amounted to household suffrage.
+By an Act of the General Assembly (39 Vict., No. 21) passed in 1876 the provincial system of government was abolished, and the powers previously exercised by superintendents and provincial officers were exercised by the Governor or by local boards. The provincial system being abolished, provision was made for the division of the Dominion into counties and boroughs and the necessary machinery for self-government was provided.
+
+A Central Legislature, called the General Assembly, was also established by the Statute of 1852, consisting of the Governor (now Governor-General), a Legislative Council and House of Representatives. The Governor-General is assisted by an Executive Council, composed of Responsible Ministers, according to the usual practice of Parliamentary Government. The Legislative Councillors were appointed by the Governor-General and up to 1891 held their seats for life. Under the Act passed in that year future appointments were made tenable for seven years only; members were, however, eligible for reappointment. Under the Legislative Council Abolition Act, 1950, the Legislative Council ceased to exist as from the end of 1950. The members of the House of Representatives are chosen by electors possessing a liberal franchise. Every elector, male or female, is qualified to become a member (the Women's Parliamentary Rights Act, passed in 1919, gave women the right to be elected to the House of Representatives, and restrictions on their appointment to the Legislative Council were removed by the Statutes Amendment Act, 1941). The House of Representatives now consists of 80, including four Maori members elected by the Maori people. Quinquennial Parliaments, which were instituted under the Constitution Act, 1852, were abolished by the Triennial Parliament Act, 1879, and general elections have been held, with few exceptions, at three-yearly intervals since 1881. Legislation in 1934 provided for four-yearly Parliaments in place of three-yearly, but the three-yearly basis was restored by legislation in 1937.
+
+Since the Electoral Amendment Act, 1937, which introduced secret ballot for Maori voters, Maoris enjoy the same electoral privileges as non-Maoris in exercising their votes for representatives of the four Maori electorates. In 1948 the Electoral Act was further amended to provide for the registration of Maori voters.
+
+The control of native affairs, as it was then known, and the entire responsibility of dealing with questions of native government were transferred in 1863 from the British to the New Zealand Government. In 1865 the seat of Government was removed from Auckland to Wellington because of the central position of the latter city.
+
+At the general election in 1949 the National Party secured 46 seats and the Labour Party 34.
+
+Governor-General: His Excellency Lt.-Gen. Sir Willoughby Norrie, G.C.M.G., C.B., D.S.O., M.C. (From 2nd December, 1952.)
+
+MINISTRY
+
+Prime Minister, Minister of Finance and Minister in Charge of Legislative Department and Audit Office: The Rt. Hon. S. G. Holland, C.H.
+
+Deputy Prime Minister, Minister of Agriculture and Marketing: The Hon. K. J. Holyoake.
+
+Minister of Labour, Minister of Employment, Minister of Mines and Minister of Immigration: The Hon. W. Sullivan.
+
+Attorney-General, Minister of Justice, Minister of External Affairs and of Island Territories, Minister in Charge of Prisons, of Electoral Department, of Patents Office and of Registrar-General's Office: The Hon. T. C. Webb.
+
+Minister of Education, Minister in charge of Broadcasting and of Scientific and Industrial Research: The Hon. R. M. Algie.
+
+Minister of Internal Affairs, Minister of Social Security and Minister in Charge of Tourist and Health Resorts: The Hon. W. A. Bodkin.
+
+Minister of Customs, Minister of Stamp Duties, Minister in Charge of Land and Income Tax, and Associate Minister of Finance: The Hon. C. M. Bowden.
+
+Postmaster-General and Minister of Telegraphs, Minister in Charge of Valuation and Government Printing and Stationery Departments: The Hon. W. J. Broadfoot.
+
+Minister of Lands, Minister of Forests and Minister of Maori Affairs: The Hon. E. B. Corbett.
+Minister of Works, Minister of Housing, Minister in charge of State Hydro-Electric Department, Minister of Transport and Railways, Minister of Marine: The Hon. W. S. Goosman.
+
+Minister of Defence (Navy, Army and Air), Minister of Rehabilitation, Minister in charge of War Pensions and of Civil Aviation: The Hon. T. L. Macdonald.
+
+Minister of Industries and Commerce, Minister of Supply, Minister in charge of Import Control: The Hon. J. T. Watts.
+
+Minister of Health, Assistant to the Prime Minister, Minister in charge of Information and Publicity, State Advances Corporation, Census and Statistics Departments and the Public Trust Office: The Hon. J. R. Marshall.
+
+Minister for the Welfare of Women and Children: The Hon. Mrs. G. H. Ross.
+
+Minister Assistant to the Prime Minister, and Minister in charge of Police, The State Fire Insurance and Government Life Insurance Departments and of Government Superannuation Fund: The Hon. W. H. Fortune.
+
+Leader of Opposition: The Rt. Hon. W. Nash.
+
+Secretary of External Affairs: A. D. McIntosh.
+
+HOUSE OF REPRESENTATIVES
+
+Speaker: The Hon. Sir Matthew Oram, M.B.E. (Nominated).
+
+Chairman of Committees: C. G. E. Harker.
+
+GOVERNMENT DEPARTMENTS AND INSTITUTIONS
+
+PRIME MINISTER'S DEPARTMENT
+
+Permanent Head (also Secretary of External Affairs): A. D. McIntosh.
+
+Chief Private Secretary: K. M. Sleight.
+
+Secretary to the Cabinet: Foss Shanahan.
+
+Clerk to the Executive Council: T. J. Sherrard.
+
+DEPARTMENT OF EXTERNAL AFFAIRS
+
+Secretary (Permanent Head, Prime Minister's Department): A. D. McIntosh.
+
+Deputy Secretary: Foss Shanahan.
+
+ISLAND TERRITORIES DEPARTMENT
+
+Secretary, Wellington: J. B. Wright.
+
+Resident Commissioner at Raratonga: G. Neville.
+
+DEPARTMENT OF FINANCE
+
+The Treasury
+
+Secretary to the Treasury, Receiver-General and Paymaster-General: B. C. Ashwin, C.M.G.
+
+Audit Department
+
+Controller and Auditor-General: C. R. J. Atkin.
+
+Inland Revenue Department
+
+Commissioner: F. G. Oborn.
+
+Valuation Department
+
+Valuer-General: H. R. Beattie.
+
+POST AND TELEGRAPH DEPARTMENT
+
+Director-General: P. N. Cryer, C.B.E.
+
+SOCIAL SECURITY DEPARTMENT
+
+Chairman, Social Security Commission: B. F. Waters.
+
+RAILWAYS DEPARTMENT
+
+General Manager: H. C. Lusty.
+
+MAORI AFFAIRS DEPARTMENT
+
+Under-Secretary and Maori Trustee: T. T. Ropiha.
+
+DEPARTMENT OF JUSTICE
+
+Secretary of Justice and Controller-General of Prisons: S. T. Barnett.
+
+REGISTRAR-GENERAL'S OFFICE
+
+Registrar-General of Births, Deaths, and Marriages: P. H. Wylde.
+
+CROWN LAW OFFICE
+
+Solicitor-General: H. E. Evans, Q.C.
+
+LAW DRAFTING OFFICE
+
+Law Draftsman: H. D. C. Adams, C.M.G.
+
+POLICE DEPARTMENT
+
+Commissioner of Police: J. B. Young.
+
+MINES DEPARTMENT
+
+Under-Secretary: C. H. Benney.
+
+DEPARTMENT OF INTERNAL AFFAIRS
+
+Secretary and Clerk of Writs: A. G. Harper.
+
+PUBLIC SERVICE COMMISSIONER'S OFFICE
+
+Public Service Commission
+
+Chairman: R. M. Campbell, C.M.G.
+
+Member: G. T. Bolt.
+
+MENTAL HOSPITALS DEPARTMENT
+
+Director: J. Russell.
+
+DEPARTMENT OF HEALTH
+
+Director-General of Health and Registrar of Nurses and Midwives, also Member of Social Security Commission: Dr. John Cairney.
+
+DEPARTMENT OF DEFENCE
+
+Navy
+
+Chief of the Naval Staff and 1st Naval Member of the Naval Board: Rear-Admiral F. A. Ballance, C.B., D.S.O.
+
+Army
+
+Chief of the General Staff: Major-General W. G. Gentry, C.B.E., D.S.O.
+
+Air
+
+Chief of the Air Staff and 1st Air Force Member of the Air Board: Air Vice-Marshal D. V. Carnegie, C.B., C.B.E., A.F.C.
+
+CUSTOMS DEPARTMENT
+
+Comptroller: D. G. Sawers.
+
+MARINE DEPARTMENT
+
+Secretary: W. C. Smith.
+
+DEPARTMENT OF LABOUR AND EMPLOYMENT
+
+Secretary of Labour, and Director of Employment: H. L. Bockett.
+
+COURT OF ARBITRATION
+
+Judge: Hon. A. Tyndall, C.M.G.
+
+Additional Judge: Hon. W. F. Stilwell.
+
+Deputy Judges: Hon. D. J. Dalglisch; Hon. O. G. Stevens.
+
+President of Price Tribunal: P. B. Marshall.
+
+Judge of Compensation Court: Hon. F. W. Ongley.
+
+Judge of Land Valuation Court: Hon. K. G. Archer.
+DEPARTMENT OF LANDS AND SURVEY
+Director-General of Lands: D. M. Greig.
+
+NEW ZEALAND FOREST SERVICE
+Director: A. R. Entrican.
+
+DEPARTMENT OF AGRICULTURE
+Director-General: E. J. Fawcet, C.B.E., M.C.
+
+DEPARTMENT OF INDUSTRIES AND COMMERCE
+Secretary: R. B. Marshall.
+
+DEPARTMENT OF TOURIST AND HEALTH RESORTS
+General Manager: R. W. Marshall, O.B.E.
+
+CENSUS AND STATISTICS DEPARTMENT
+Government Statistician: G. E. F. Wood, O.B.E.
+
+EDUCATION DEPARTMENT
+Director of Education: C. E. Beeby.
+
+PUBLIC TRUST OFFICE
+Public Trustee: G. E. Turney.
+
+GOVERNMENT LIFE INSURANCE DEPARTMENT
+Commissioner: W. K. Watson.
+
+STATE FIRE AND ACCIDENT INSURANCE DEPARTMENT
+General Manager: A. St. C. Belcher.
+
+MINISTRY OF WORKS
+Commissioner: E. R. McKillop, C.M.G.
+Engineer-in-Chief: F. Langbein.
+
+TRANSPORT DEPARTMENT
+Commissioner: G. L. Laurensen.
+
+DEPARTMENT OF SCIENTIFIC AND INDUSTRIAL RESEARCH
+Secretary: F. R. Callaghan, I.S.O.
+
+MARKETING DEPARTMENT
+Acting Director: K. B. Longmore.
+
+BROADCASTING DEPARTMENT
+Director: W. Yates.
+
+RESERVE BANK OF NEW ZEALAND
+Governor: E. C. Fussell.
+
+STATE ADVANCES CORPORATION OF NEW ZEALAND
+Joint Managing Directors: A. D. Park, C.M.G.; T. N. Smallwood, O.B.E.
+
+SUPREME COURT
+Chief Justice: Rt. Hon. Sir Humphrey O'Leary, K.C.M.G.
+
+Judges
+Hon. Sir Arthur Fair, M.C.
+Hon. Sir Erima H. Northcroft.
+Hon. G. P. Finlay.
+Hon. K. M. Gresson.
+Hon. J. Stanton.
+Hon. J. D. Hutchinson.
+Hon. E. P. Hay.
+Hon. P. B. Cooke.
+Hon. F. B. Adams.
+Hon. A. K. North
+
+REPRESENTATIVES IN OTHER COMMONWEALTH COUNTRIES
+
+Canada
+High Commissioner: T. C. A. Hislop, C.M.G.
+
+Commonwealth of Australia
+High Commissioner: G. E. L. Alderton.
+
+Union of South Africa
+Government Agent: H. J. Constable.
+
+United Kingdom
+High Commissioner: Sir Frederick Doidge, K.C.M.G.
+
+REPRESENTATIVES IN COUNTRIES OTHER THAN COMMONWEALTH COUNTRIES
+
+France: Miss J. R. McKenzie, C.B.E. (Chargé d'Affaires).
+Japan: R. L. G. Challis (Chargé d'Affaires).
+United Nations: L. K. Munro (Permanent Delegate).
+United States: L. K. Munro (Ambassador).
+
+REPRESENTATIVES IN NEW ZEALAND OF OTHER COMMONWEALTH COUNTRIES
+
+United Kingdom
+High Commissioner: Sir Roy Price, K.C.M.G.
+
+Canada
+High Commissioner: E. H. Norman.
+
+Commonwealth of Australia
+High Commissioner: P. R. Heydon.
+
+India
+High Commissioner: General K. M. Cariappa (resident in Australia).
+
+Pakistan
+High Commissioner: Habibur Rahman (resident in Australia).
+
+REPRESENTATIVES IN NEW ZEALAND OF COUNTRIES OTHER THAN COMMONWEALTH COUNTRIES
+
+Belgium: A. Nihotte (Minister).
+China (Nationalist): Wang Feng (Consul-General with personal rank of Minister).
+Czechoslovakia: J. Kafka (Acting Consul-General) (resident at Sydney, Australia).
+Denmark: V. Jenson (Chargé d'Affaires).
+Finland: P. I. Simelius (Chargé d'Affaires) (resident in Australia).
+France: Noel Henry (Minister).
+Israel: M. Nurock (Minister) (resident in Australia).
+Italy: Dr. P. De Simone De Riso (Minister).
+Japan: Seitch Sheina (Chargé d'Affaires a.i.).
+Netherlands: Jonkheer L. M. de Brauw (Minister).
+Philippines: Dr. Roberto Regala (Minister) (resident in Australia).
+Sweden: J. M. Kastengren (Minister) (resident in Australia).
+United States: R. M. Scotten (Ambassador).
+U.S.S.R.: Alexander M. Alexandrov (Minister).
+Yugoslavia: M. Popovic (Consul-General).
+
+ISLAND TERRITORIES
+
+(1) COOK ISLANDS
+
+The Cook Islands (Rarotonga, Mangaia, Atiu, Mauke, Mitiaro, Aitutaki, Palmerston Atoll, Penrhyn, Suwarro, Manihiki, Rakahanga, Pukapuka,
+and Nassau) were declared to be under British protection in October, 1888, by Captain Bourke of H.M.S. Hyacinth, and Manuae, Te Au-o-Tu, and Takutea (at that time known as the Hervey Group), by Commander Nicolls of H.M.S. Cormorant in June 1889. The latter name has fallen into disuse, all of the islands collectively being known as the Cook Group.
+
+Until 1901 British authority was represented by a Resident, who was paid by the Government of New Zealand and reported direct to the Governor. The first British Resident succeeded in 1891 in arranging for the establishment of an Elective Federal Parliament to make laws for the whole Group. Each island, however, continued to enjoy self-government in such purely local affairs as it could properly manage for itself. The Federal Executive Council or Government was composed of the Ariki, who are also the principal landowners. A Supreme Court was established. All laws and administrative acts were subject to the approval of the Resident, who was also a Deputy and Judicial Commissioner for the Western Pacific, and Chief Justice of the High Court of the Cook Islands.
+
+The Islands became part of New Zealand from the 11th June, 1901. The administration and laws were continued in force subject to the provisions of the Cook Islands Government Act, passed in that year.
+
+In 1915 an Act was passed by the New Zealand Parliament consolidating the laws relating to the Cook Islands and Niue Island and providing for the appointment of a member of the Executive Council of New Zealand as the Minister for the Cook Islands, charged with the administration of the government of the Islands. By the Cook Islands Amendment Act, 1932 the administration of Niue Island was transferred to the Minister of External Affairs.
+
+The Act also makes provision for the constitution of Island Councils, for the establishment of public schools, Courts of Justice, Native Land Courts, etc. A further change was made by the Island Territories Act 1943, which established a Ministry of Island Territories and charged the Minister with the administration of the government of any territory outside of New Zealand which may at any time be a dependency or mandated territory of New Zealand, or otherwise be under the jurisdiction of the Government or Parliament of New Zealand.
+
+On the 31st March, 1951, the population of the Cook Islands (excluding Niue) was estimated at 15,364 and that of Niue at 4,496.
+
+(2) TOKELAU OR UNION GROUP (BRITISH)
+
+This Group consists of three islands, or groups of islets, Atafu (500 acres), Nukunono (1,350 acres), and Fakaofo (650 acres), and lies about 4° due north of Apia, Samoa.
+
+The natives are Polynesians, numbering 1,534 in 1951; the language is allied to that of Samoa. The islanders are ruled by their own chiefs with the assistance of native village committees.
+
+An invitation from the British Government that the New Zealand Government should take charge of the Union Islands was accepted in 1925, and the administration of the Group was accordingly transferred from the High Commissioner for the Western Pacific to the Governor-General of New Zealand on 11th February, 1926, by the publication of the Union Islands Orders in Council, 1925. The passing of the Tokelau Islands Act 1948, which provided for the incorporation of the Tokelau Islands as part of New Zealand, made little change in the administration of the islands. They are administered by the High Commissioner of Western Samoa from Apia, Samoa, which is the nearest natural trading port and (since 1923) the port of entry for the Group, but the Governor-General of New Zealand in Council may now make regulations for the peace, order and good government of the Group.
+THE ROSS DEPENDENCY
+
+The Ross Dependency, which was declared a British settlement and placed under the jurisdiction of the Governor-General of New Zealand by Imperial Order in Council of 30th July, 1923, is defined as "all the islands and territories between the 160th degree of east longitude and the 150th degree of west longitude which are situated south of the 60th degree of south latitude." The Dependency includes Edward VII Land and a portion of South Victoria Land. The area is estimated at 175,000 sq. miles. There are no permanent inhabitants of the territory; floating whale factories have operated in the territorial waters on occasions.
+
+WESTERN SAMOA
+
+The territory of Western Samoa consists of the islands of Upolu, Savai'i Apolima, and Manono, together with several small islets lying between 13° and 15° S. lat. and 171° and 173° W. long., situated some 130 miles north of Tonga and 450 miles north-east of Fiji. The total area is 1,133 sq. miles. In 1951 the population was estimated at 83,565.
+
+The territory, formerly in the possession of Germany, was seized and occupied by New Zealand troops on behalf of the Imperial Government on the 29th August, 1914. It remained in military occupation during the 1914-18 war, and was surrendered by Germany under the Treaty of Peace to the Allied and Associated Powers, by whom the mandate to govern the ex-German territory was assigned to New Zealand. The mandate was approved by the Council of the League of Nations in December, 1920.
+
+On the 1st May, 1920, by Orders passed by the Governor-General of New Zealand in Council, provision was made for the civil administration of the territory, and the constitution and legal system were settled by the Samoa Act 1921 of New Zealand.
+
+Western Samoa was administered by an Administrator appointed by the Governor-General and responsible to the Minister of External Affairs (a member of the New Zealand Executive Council who was charged with the government of the territory). There was a Legislative Council consisting of not less than four nor more than six official members appointed by the Governor-General, two elected European members chosen by the votes of European population, and four native Samoan members appointed by the Governor-General. The Administrator, acting with the advice and consent of this Council, was empowered to make ordinances for the peace, order, and good government of the territory, subject to disallowance by the Governor-General. A High Court was established and the Supreme Court of New Zealand was given jurisdiction over Western Samoa.
+
+The present phase in political development in Western Samoa dates from the approval of the Trusteeship Agreement by the General Assembly of the United Nations in December 1946, by which New Zealand formally committed itself to promote development towards self-government. The first stage in the implementation of the new proposals was taken with the passing of the Samoa Amendment Act, 1947, which came into force on 10th March, 1948. The Act provided for the constitution of a Council of State composed of the High Commissioner (as the Administrator would henceforth be called) and his Fautua, an advisory body which would discuss with and advise the High Commissioner on all proposed legislation and questions involving Samoan custom. The Legislative Council was replaced by a Legislative Assembly composed of the members of the Council of State, 11 elected Samoan members, five elected European members, and six official members. The new Assembly was given complete control of finance and wide legislative powers.
+
+The administration of the executive government is entrusted to a High Commissioner appointed by the Governor-General and responsible to the Minister of Island Territories.
+
+High Commissioner: G. R. Powles.
+UNION OF SOUTH AFRICA
+
+Area and Population
+
+The total area of the Union is 472,494 square miles.
+
+According to the revised preliminary figures for the 1951 census the population of the Union is 12,912,000, consisting of 2,695,000 Europeans, 8,700,000 Africans, 378,000 Asians, and 1,139,000 Coloured. These are divided by Provinces as follows:
+
+|                | European | Non-European |
+|----------------|----------|--------------|
+| Cape of Good Hope | 948,000  | 3,548,000    |
+| Natal           | 281,000  | 2,167,000    |
+| Transvaal       | 1,233,000| 3,685,000    |
+| Orange Free State| 233,000  | 817,000      |
+| **Total**       | **2,695,000** | **10,217,000** |
+
+The capital of the Cape Province is Cape Town, with a population of 247,446 Europeans and 324,192 non-Europeans (total, 571,638); of the Transvaal, Pretoria, with 150,657 Europeans and 132,491 non-Europeans (total, 283,148); of Natal, Pietermaritzburg, with 32,110 Europeans and 42,289 non-Europeans (total 74,399); and of the Orange Free State, Bloemfontein, with 48,923 Europeans and 60,207 non-Europeans (total 109,130). Johannesburg, with 359,539 Europeans and 520,475 non-Europeans (total, 880,014), and Durban, with 150,826 Europeans and 324,200 non-Europeans (total, 475,026), have larger populations than the capitals of their respective Provinces.
+
+The Constitution of the Union
+
+The Union of South Africa is constituted under the South Africa Act, 1909 (9 Edw. VII, Cap. 9), passed by the Parliament of the United Kingdom on the 20th September, 1909. In terms of that Act the self-governing Colonies of the Cape of Good Hope, Natal, the Transvaal, and the Orange River Colony (qq.v.) became united on the 31st May, 1910, in a legislative Union under one Government under the name of the Union of South Africa, becoming original provinces of the Union under the names of the Cape of Good Hope, Natal, the Transvaal, and the Orange Free State respectively.
+
+The South Africa Act provides for the appointment by the Sovereign of a Governor-General who, with an Executive Council (of which the members are chosen and summoned by him), administers the executive government of the Union as the Governor-General in Council. Departments of State are established by the Governor-General in Council, the Governor-General appointing not more than ten officers to administer them (increased to eleven by Act No. 34 of 1925, to twelve by Act No. 13 of 1938, and to fourteen by Act No. 39 of 1950). Such officers are the Queen's Ministers of State for the Union and members of the Executive Council.
+
+Pretoria is the seat of the administration of the Union, and Cape Town that of the Legislature. Bloemfontein is the seat of the Appellate Division of the Supreme Court.
+
+The Senate was to consist of forty members, eight nominated by the Governor-General in Council and thirty-two elected, eight for each province. The first election was made prior to the establishment of the Union by the two Houses of each of the Colonial Legislatures sitting as one body. The election of representatives and the filling of vacancies is carried out on the principle of proportional representation by the united choice of members of the Assembly and of the Provincial Council in respect of whose province the election or vacancy occurs. In addition, four senators have been elected under the provisions of the Representation of Natives Act, No. 12 of 1936. These
+
+For further information about the Union of South Africa, see the Official Year Book.
+senators hold their seats for a period of five years notwithstanding any dissolution of the Senate. By the South West Africa Affairs Amendment Act (No. 23 of 1949), South West Africa is represented in the Senate by four Senators, two being nominated and two elected.
+
+Under the provisions of Act No. 54 of 1926 some fundamental alterations were made in the constitution of the Senate. All members, whether elected or nominated, may be required to vacate their seats on a change of Government. The Governor-General is also empowered under the Act to dissolve the Senate within 120 days of the dissolution of the Assembly.
+
+The first Senate automatically dissolved in 1920, the second was dissolved in 1929, the third in 1939, and the fourth in 1948.
+
+The House of Assembly originally consisted of 121 elected members, 51 of whom represented the Cape of Good Hope, 17 Natal, 36 Transvaal, and 17 the Orange Free State. Provision is made in the South Africa Act for periodical censuses to be followed by Delimitation Commissions to redistribute constituencies between Provinces within a maximum of 150. The Electoral Laws Amendment Act 1952 provides for a Delimitation Commission to be appointed at intervals of not less than five years and not more than ten years. The Commission's functions are to divide each Province of the Union into constituencies so that the number of constituencies in any one Province will be in the same ratio to 150 as, in terms of current voters lists, the number of European voters in the Province bears to the total number of European voters in the Union. The Tenth Delimitation Commission, which was appointed in 1952, allocated seats as follows: Cape 54, Natal 15, Transvaal 68, Orange Free State 13. By the South West Africa Affairs Amendment Act, 1949, South West Africa is represented in the House of Assembly by six elected representatives. Members of both Houses must be Union nationals of European descent. Elections must take place every five years, if the House has not been dissolved sooner.
+
+Until the passing of Act 18 of 1930, enfranchising European women, and Act 41 of 1931, providing for European manhood suffrage throughout the Union, the qualifications of voters remained the same as in the Colonies at the time of union.
+
+Under the South Africa Act no subsequent law was to disqualify any person in the Cape Province from voting, by reason of his race or colour, who could vote under the existing law, unless the bill is passed by both Houses sitting together in joint session, with a two-thirds majority of the total membership. This procedure was followed in regard to the Representation of Natives Act, 1936. The Separate Representation of Voters Act, 1951, was passed by both Houses sitting separately, on the assumption that the Statute of Westminster removed any existing restrictions on the power of Parliament to determine its own procedure in this respect. The Act was subsequently declared invalid by the Appellate Division of the Supreme Court of South Africa.
+
+The Provinces
+
+A Provincial Council in each Province has power to legislate by ordinance on certain subjects specified in the Act, and on such other subjects as may be delegated to it. The specified subjects include direct taxation (limited in 1925 to specified sources of revenue) for provincial purposes, primary and secondary education, hospitals, municipal institutions, local works other than railways and harbours, roads, markets, etc. Loan expenditure for capital works, or of a non-recurrent nature, is covered by Parliamentary appropriation repayable over an agreed term of years and at such rate of interest as the Treasury may fix. In addition, the Union Parliament may delegate the power of making ordinances on any subject to Provincial Councils. All ordinances passed by a Provincial Council are subject to the veto of the Governor-General in Council. Members of the Provincial Council are elected on the same system
+as members of Parliament, but the restriction as to European descent does not apply. The number of members in each Provincial Council is as follows:
+
+- Cape of Good Hope ... 57
+- Natal ... ... 25
+- Transvaal ... ... 66
+- Orange Free State ... 25
+
+Since the passing of the Financial Relations Act No. 10 of 1913, all expenditure incurred by any Province in respect of matters entrusted to that Province has been defrayed from the Provincial Revenue Fund. The Act provided for the payment to each Province by the Union Government of a subsidy based on the expenditure of the Province (approximately one-half) and for the transfer and assignment of certain Union revenues. Act No. 46 of 1924 altered the basis of the subsidies, which are now calculated on the number of pupils and students attending schools in each Province and have no reference to expenditure.
+
+The executive power in the subjects on which the Provincial Council is empowered to make ordinances is vested in an Executive Committee consisting of an Administrator, appointed by the Governor-General in Council, and four members elected by the Provincial Council.
+
+**The Government**
+
+The parties are represented in the House of Assembly as follows:
+
+- National Party ... ... ... 93
+- United Party ... ... ... 56
+- Labour Party ... ... ... 5
+- Native Representatives ... ... ... 3
+  (Two Seats vacant)
+
+In the Senate, Government supporters have 29 seats out of 48.
+
+In October, 1951, the Nationalist and Afrikaner parties merged into the National Party of which the leader, Dr. D. F. Malan, is Prime Minister. Mr. N. C. Havenga, formerly leader of the Afrikaner Party, is Minister of Finance. The leader of the United Party, Mr. J. G. N. Strauss, is leader of the Opposition.
+
+**Governor-General:** His Excellency Dr. the Hon E. G. Jansen, LL.D.
+
+---
+
+**EXECUTIVE COUNCIL**
+
+His Excellency the Governor-General.
+
+Prime Minister and Minister of External Affairs: Dr. the Hon. D. F. Malan.
+
+Minister of Finance: The Hon. N. C. Havenga.
+
+Minister of Lands and Irrigation: The Hon. J. G. Strydom.
+
+Minister of Justice: The Hon. C. R. Swart.
+
+Minister of Transport: The Hon. P. O. Sauer.
+
+Minister of Agriculture: The Hon. S. P. le Roux.
+
+Minister of Economic Affairs: The Hon. E. H. Louw.
+
+Minister of the Interior: Dr. the Hon. T. E. Dönges, Q.C.
+
+Minister of Defence: The Hon. F. C. Erasmus.
+
+Minister of Labour, of Public Works and of Forestry: The Hon. B. J. Schoeman.
+
+Minister of Posts and Telegraphs: The Hon. J. F. T. Naudé.
+
+Minister of Native Affairs: Senator Dr. the Hon. H. F. Verwoerd.
+
+Minister of Education, Arts and Science and of Mines: The Hon. J. H. Viljoen.
+
+---
+
+**Minister of Health and of Social Welfare:**
+
+Secretary for External Affairs: D. D. Forsyth.
+
+---
+
+**THE SENATE**
+
+President: Senator Commandant the Hon. C. A. van Nickerk, D.T.D.
+
+Deputy President and Chairman of Committees: Senator the Hon. M. J. Vermeulen.
+
+Clerk of the House: W. T. Wood.
+
+---
+
+**THE HOUSE OF ASSEMBLY**
+
+Speaker: The Hon. J. H. Conradie, Q.C., M.P.
+
+Deputy-Speaker and Chairman of Committees: Dr. D. G. Conradie, M.P.
+
+Deputy-Chairman of Committees: G. P. Steyn, M.P.
+
+Clerk of the House: J. M. Hugo.
+
+---
+
+**DEPARTMENTS**
+
+**PRIME MINISTER'S DEPARTMENT**
+
+Secretary to the Prime Minister and Secretary for External Affairs: D. D. Forsyth.
+
+Under-Secretary to the Prime Minister and Under-Secretary for External Affairs: D. Spies.
+
+Private Secretary: M. Aucamp.
+TREASURY
+Secretary for Finance: Dr. D. H. Steyn.
+Secretary to the Treasury: T. J. Canty.
+Chairman, Union Tender and Supplies Board: R. C. Mitchell.
+
+INLAND REVENUE DEPARTMENT
+Commissioner for Inland Revenue: M. J. Wells.
+Assistant Commissioner: J. L. Barrie.
+
+DEPARTMENT OF CUSTOMS AND EXCISE
+Commissioner of Customs and Excise: B. W. Kirby
+
+DEPARTMENT OF THE CONTROLLER AND AUDITOR-GENERAL
+Controller and Auditor-General: R. P. Plewman.
+
+DEPARTMENT OF PENSIONS
+Commissioner: W. H. Hoffman.
+Deputy Commissioner: J. H. Basson.
+
+STATE ADVANCES RECOVERY OFFICE
+Secretary: D. L. Retief.
+Assistant Secretary: G. A. J. de Jong.
+
+DEPARTMENT OF LANDS
+Secretary for Lands: E. Hess.
+Director of Irrigation: L. A. MacKenzie.
+
+DEPARTMENT OF JUSTICE
+Secretary for Justice: A. E. M. Jansen.
+Government Attorney: H. J. van den Heever.
+Under-Secretary for Justice: W. J. Gouws.
+Senior Law Adviser: R. E. Rosenow.
+Law Advisers: D. H. Botha, Q.C.; E. M. Simons; J. Young; P. J. Conradie; L. H. Wessels; P. G. L. van Blerck; F. van Z. Smit; W. L. Verschuur; B. C. van der Merwe.
+Attorney-Generals for the Provinces: W. J. MacKenzie (Transvaal); P. W. Blanckenberg (Cape); R. E. Wright (Natal); C. du Plessis (Orange Free State).
+Attorney-General for South West Africa: R. W. Rein.
+The Commissioner of the South African Police: Major-General J. A. Brink.
+Assistant Commissioners: Brig. J. P. Coetzee; Brig. M. P. H. Coetzee; Brig. C. I. Rademeyer.
+
+DEPARTMENT OF PRISONS
+Director of Prisons: V. R. Verster.
+Assistant Director: H. S. J. van Wyk.
+
+DEPARTMENT OF TRANSPORT
+Secretary: J. A. Gibson.
+Under-Secretary: W. H. Cogill.
+
+DEPARTMENT OF AGRICULTURE
+Secretary for Agriculture: Dr. C. H. Neveling.
+Under-Secretary: J. J. Adams.
+Under-Secretary: T. L. Kruger.
+
+DEPARTMENT OF ECONOMIC AFFAIRS
+Secretary: D. de Waal Meyer.
+Under-Secretary: J. N. Theron.
+Board of Trade and Industries Chairman: Dr. A. J. Norval.
+
+DEPARTMENT OF THE INTERIOR
+Secretary for the Interior: T. H. V. Hönek.
+Under-Secretary for the Interior: P. E. Bosman.
+Commissioner for Immigration and Asiatic Affairs, Protector of Indian Immigrants.
+
+Director of Indian Immigration Bureau: J. Q. R. Goodwin.
+Commissioner for Coloured Affairs: Dr. T. D. du Plessis.
+Director of Census and Statistics: J. I. Raats.
+
+PUBLIC SERVICE COMMISSION
+Chairman: J. A. J. Kachelhoffer.
+Commissioners: J. T. Bubb; H. S. Van der Walt.
+Secretary: D. J. C. Steyn.
+
+DEPARTMENT OF DEFENCE
+Secretary for Defence: H. F. Cuff.
+Under-Secretary for Defence: J. P. de Villiers.
+Chief of the General Staff: Lieut.-General C. L. de Wet du Toit, D.S.O.
+Inspector-General of Union Defence Force: Maj.-Gen. H. B. Klopper, D.S.O.
+Army Chief of Staff: Brigadier P. H. Grobbelaar, D.S.O.
+Air Chief of Staff: Brigadier H. G. Willmott.
+Naval and Marine Chief of Staff: Brigadier P. de Waal, C.B., O.B.E.
+
+DEPARTMENT OF LABOUR
+Secretary: A. D. Lee, E.D.
+Under-Secretaries: L. E. Orkin; S. D. Mentz.
+
+DEPARTMENT OF FORESTRY
+Director: A. D. Mitchell.
+Assistant Director: D. R. de Wet.
+
+WAGE BOARD
+Chairman: Dr. S. P. de T. Vijoen.
+Members: P. R. Viviers; J. J. Scheepers.
+
+PUBLIC WORKS DEPARTMENT
+Secretary for Public Works: A. A. Eales.
+Under-Secretary for Public Works: B. J. Hendry.
+
+DEPARTMENT OF POSTS AND TELEGRAPHS
+Postmaster-General and Secretary for Posts and Telegraphs: L. C. Burke.
+Under-Secretary, Posts: J. F. Bick.
+Under-Secretary (Staff and General): A. J. Botes.
+Under-Secretary, Communications: W. A. Borland.
+
+NATIVE AFFAIRS DEPARTMENT
+Secretary for Native Affairs: Dr. W. W. M. Eiselen.
+Under-Secretary for Native Affairs: F. Rodseth, O.B.E.
+
+DEPARTMENT OF EDUCATION, ARTS AND SCIENCE
+Secretary for Education: H. S. Van der Walt.
+Professional Assistant: Dr. P. A. V. Cook.
+
+DEPARTMENT OF MINES
+Secretary for Mines: V. H. Osborn.
+Under-Secretary for Mines: J. M. Rothmann.
+
+DEPARTMENT OF HEALTH
+Secretary for Health and Chief Health Officer: Dr. du P. le Roux.
+Under-Secretary: N. A. G. Reeler.
+
+DEPARTMENT OF NUTRITION
+Secretary for Nutrition: C. H. Spamer.
+Under-Secretary: H. R. P. A. Kotzenberg.
+
+DEPARTMENT OF SOCIAL WELFARE
+Secretary: J. A. de Ridder.
+Under-Secretary: F. Brümmer.
+SUPREME COURT OF SOUTH AFRICA
+APPELLATE DIVISION
+Chief Justice of South Africa: Hon. G. van de Sandt Centlivres.
+Judges of Appeal: Hon. L. Greenberg; Hon. O. D. Schreiner; Hon. F. P. van den Heever; Hon. O. H. Hoexter; Hon. H. A. Fagan.
+
+CAPE OF GOOD HOPE PROVINCIAL DIVISION
+Judge President: Hon. J. E. de Villiers.
+Puisne Judges: Hon. C. Newton Thompson; Hon. G. Steyn; Hon. J. Herbstein; Hon. N. Ogilvie Thompson; Hon. C. G. Hall; Hon. J. W. van Zyl; Hon. L. de Villiers van Winsen.
+
+EASTERN DISTRICTS LOCAL DIVISION
+Judge President: Hon. C. J. Gardner.
+Puisne Judges: Hon. E. G. Reynolds; Hon. A. G. Jennett; Hon. O. V. Sampson; Hon. E. F. van der Riet.
+
+GRIQUALAND WEST LOCAL DIVISION
+Puisne Judges: Hon. D. O. Beyers.
+
+TRANSVAAL PROVINCIAL DIVISION
+Judge President: Hon. G. J. Maritz.
+Puisne Judges: Hon. J. M. Murray; Hon. W. H. Ramsbottom; Hon. A. C. Malan; Hon. L. Blackwell; Hon. V. H. Nesar; Hon. N. Price; Hon. H. de Villiers; Hon. H. J. Clayden; Hon. W. Dowling; Hon. Q. de Wet; Hon. L. C. Steyn; Hon. E. R. Roper; Hon. F. L. H. Rumppf.
+
+NATAL PROVINCIAL DIVISION
+Judge President: Hon. F. N. Broome.
+Puisne Judges: Hon. E. A. Selke; Hon. J. C. de Wet; Hon. F. R. Shaw; Hon. C. N. Holmes.
+
+NATIVE HIGH COURT, NATAL
+Judge President: Hon. J. R. Broakensha.
+Puisne Judges: Hon. L. D. Durham; Hon. A. A. Kennedy.
+
+ORANGE FREE STATE PROVINCIAL DIVISION
+Judge President: Hon. M. de Beer.
+Puisne Judges: Hon. J. L. Horwitz; Hon. C. P. Brink; Hon. A. J. Smit; Hon. P. J. van Blerk.
+
+SOUTH WEST AFRICA
+Judge of the High Court: Hon. G. Brebner.
+
+UNION REPRESENTATIVES IN OTHER COMMONWEALTH COUNTRIES
+High Commissioner in Canberra: G. C. Nel (Acting).
+High Commissioner in London: Dr. A. L. Geyer.
+High Commissioner in Ottawa: A. A. Roberts, Q.C.
+High Commission in Southern Rhodesia: T. H. Eustace.
+Commissioner in British East Africa Territories: J. K. Christie (Nairobi).
+
+UNION REPRESENTATIVES IN COUNTRIES OTHER THAN COMMONWEALTH COUNTRIES
+Argentina: E. K. Scallan (Minister).
+Belgian Congo: W. D. van Schalkwyk (Consul-General) (in Leopoldville).
+Belgium: Dr. P. R. Botha (Ambassador).
+Brazil: J. D. Pohl (Minister).
+Chile: E. K. Scallan (Minister).
+Denmark: H. M. Christiansen (Hon. Consul-General).
+Egypt: Major-General W. H. E. Poole, C.B., C.B.E., D.S.O. (Minister).
+France: H. T. Andrews (Ambassador).
+Germany: F. du Plessis (Minister, Cologne, and Head of Mission in Berlin).
+Greece: Major-General W. H. E. Poole, C.B., C.B.E., D.S.O. (Minister).
+Italy: Major-General W. H. E. Poole, C.B., C.B.E., D.S.O. (Minister).
+Netherlands: The Hon. P. I. Hoogenhout (Ambassador).
+Norway: T. Wilhelmsen (Hon. Consul-General).
+Portugal: S. F. du Toit (Minister).
+Portuguese East Africa: Dr. W. C. Naudé (Consul-General).
+Spain: S. F. du Toit (Minister).
+Sweden: E. F. Horn (Minister).
+United Nations: G. P. Jooste (Permanent Representative).
+United States: G. P. Jooste (Ambassador).
+
+REPRESENTATIVES IN THE UNION OF OTHER COMMONWEALTH COUNTRIES
+United Kingdom
+High Commissioner: Sir John Le Rougetel, K.C.M.G., M.C.
+
+Canada
+High Commissioner: T. W. L. MacDermot.
+
+Commonwealth of Australia
+High Commissioner: Lieut.-Col. W. R. Hodgson, C.M.G., O.B.E.
+
+India
+High Commissioner: (Vacant).
+
+Southern Rhodesia
+High Commissioner: A. D. Chataway, M.B.E.
+
+REPRESENTATIVES IN THE UNION OF COUNTRIES OTHER THAN COMMONWEALTH COUNTRIES
+Argentina: Roberto White (Chargé d'Affaires a.i.).
+Belgium: John van Rickstal (Ambassador).
+Brazil: Luis Guimarães Fernandez Pinheiro (Minister).
+Chile: A. Bertraud (Chargé d'Affaires).
+China (Nationalist): Ting Shao (Consul-General).
+Egypt: Mohamed Sami (Chargé d'Affaires a.i.).
+Finland: A. Yönttilä (Chargé d'Affaires).
+France: Armand Gazel (Ambassador).
+Germany: R. Holzhausen (Minister).
+Greece: Paul Oeconomou-Gouras (Minister).
+Israel: Semah Hyman (Minister).
+Italy: Marchese Cristoforo Fracassi di Torre Rossano (Minister).
+Japan: Toshheio Yōshjoka (Consul and Acting Consul-General).
+Netherlands: J. van den Berg (Ambassador).
+Norway: J. C. A. Fleischer (Consul-General).
+Portugal: Dr. F. de Paula Brito (Minister).
+Spain: E. Ron Vilas (Chargé d'Affaires a.i.).
+Sweden: Carl Olaf Gisle (Minister).
+Switzerland: Jean de Rham (Chargé d'Affaires).
+United States: Hon. Waldemar J. Gallman (Ambassador).
+NEW ZEALAND
+
+Situation and Area
+
+NEW ZEALAND consists of two principal islands, called respectively the North and the South Islands, together with the smaller and sparsely-populated Stewart Island. There are several small islets (mostly uninhabited) within the boundaries of New Zealand, the chief of these being the Chatham Islands, 470 miles eastward of Banks Peninsula in 43-45° S. latitude 176-177° W. longitude (Chatham and Pitt are the principal islands), and the Auckland Islands. The main group lies between 33° and 53° S. latitude and 162° E. longitude and 173° W. longitude. The three principal islands extend in length 1,100 miles but their breadth is very variable. The area of the North Island and adjacent islets is 44,281 square miles, of South Island 58,093 square miles, of Stewart Island 670 square miles, of Chatham Islands 372 square miles, and of other islands, inclusive of Island Territories (203 square miles), a total area of 103,939 square miles (twice the size of England).
+
+In 1847 by Royal Letters Patent, and again by the Act 26 & 27 Vict., Cap. 23 (1863), all islands between 162° E. and 173° W. longitude and 33° and 53° S. latitude were annexed to New Zealand.
+
+By Proclamation dated 21st July, 1887, the group called the Kermadec Islands, situated about 614 miles north-east of the Bay of Islands, was annexed to New Zealand. These are a chain of widely-separated islets lying between 29° and 32° S. latitude and 177° and 179° W. longitude. The principal are Sunday, or Raoul, and Macaulay, the next in size being Curtis and L'Espérance. Sunday comprises 11 square miles, is covered with forest and rises to a height of 1,723 feet.
+
+The Protectorate over the Cook Islands, which was established in 1888, was administered through the Governor of New Zealand until 1900; in October of that year the group was annexed to Her Majesty's dominions, and resolutions were passed by the New Zealand Parliament for the extension of the boundaries of New Zealand to include the group as well as Niue (Savage) Island and other small islands. By proclamation finally fixing the date (11th June, 1901) from which the boundaries of New Zealand are deemed to be extended, the following islands are included:—Rarotonga, Mangaia, Atiu, Aitutaki, Mitiaro, Maukē, Manuae and Te Au-o-tu (Hervey Islands), Takutea, Palmerston (Avarau), Niue (Savage), Pukapuka (Danger), Nassau, Rakahanga, Manihiki, Penrhyn (Tongareva), and Suwarrow.
+
+An account of the Cook Islands is given on page 128.
+
+The principal Allied and Associated Powers, assembled at Versailles, decided that the islands of Western Samoa should be assigned under mandate to New Zealand, and a mandate was issued by the Council of the League of Nations in December 1920 in favour of New Zealand. The group, which lies about 400 miles north-east of Fiji, within latitudes 13° to 15° S. and longitudes 171° to 173° W., contains several islands, of which Savai'i and Upolu are the largest. The total area is 1,133 sq. miles.
+
+It was also decided that the phosphate island of Nauru (Pleasant Island), lying in 0.33° S. latitude and 166.55° E. longitude, should be administered by New Zealand conjointly with the United Kingdom and Australia.
+
+By Order in Council of 30th July, 1923, the coasts of the Ross Sea, with the adjacent islands and territories, were declared a British settlement under the name of the Ross Dependency. The dependency was placed under the jurisdiction of the Governor-General of New Zealand.
+
+Arrangements were made in 1925 for the administration of the Tokelau or Union Islands, part of the Gilbert and Ellice Islands Colony, to be taken over by New Zealand. This transfer was effected as from 11th February, 1926,
+
+For further information about New Zealand, see New Zealand Official Year Book.
+on the publication of the Union Islands Order in Council 1925, in the respective Government Gazettes. The islands were administered by the Administrator of Western Samoa on behalf of New Zealand. An Order in Council of His Majesty cited as the Union Islands (Revocation) Order in Council 1948, provided for the revocation of the 1925 Order in Council, and from the 1st January, 1949, the Tokelau Islands were incorporated with New Zealand.
+
+Population
+
+On 31st March, 1952, the population of New Zealand, excluding Island Territories, was 1,984,730, of whom 119,288 were Maoris and 16,229 were registered aliens. On the 31st March, 1951, the population of the Island Territories was estimated at 21,394 (Cook and Niue Islands 19,860, Tokelau Islands 1,534). The estimated population of the Trust Territory of Western Samoa on the 30th June, 1951, was 82,493.
+
+History
+
+New Zealand was discovered in 1642 by the Dutch navigator Tasman, who however did not land upon its shores. In 1769 it was visited by Captain Cook, who in that year and during subsequent voyages explored its coast. The country subsequently became a resort for whalers and traders, chiefly from Australia, as well as a field for the labours of missionary societies from 1814. In 1840, under the Treaty of Waitangi concluded with Native Chiefs, sovereignty was ceded to the British Crown and proclamations were issued. British sovereignty was proclaimed in the case of South Island and Stewart Island by right of discovery.
+
+The natives, called Maoris, are a remarkable people, a branch of the Polynesian race. According to their traditions, their fathers came about 750 to 600 years, or 30 generations, ago from Hawaiki, the position of which is now uncertain. They were divided into about 20 different tribes, analogous to the clans of the Highlands of Scotland. There have been two periods when hostilities with the Maoris assumed serious proportions: the first lasted from 1845 until 1848, the second and more general lasted from 1860 with little intermission until 1872. But fully half the tribes have always been friendly to the English, and many of them fought on the side of the Colonial Government against their own countrymen. Permanent tranquility was established in 1872 throughout the country. Contrary to the results found in other civilized countries, the Maoris in New Zealand are steadily increasing. This increase has been accompanied by a considerable dilution of blood through inter-marriage with Europeans. It is estimated that at most only 50 per cent. are now of pure Maori descent.
+
+Constitution
+
+The country was at first a dependency of New South Wales, but was created a separate Colony by the Charter of 16th November, 1840. Its settlement was largely effected by the New Zealand Company with a Royal Charter, which was surrendered in 1850.
+
+Down to 1847 the Executive and Legislative Councils were both nominated by the Governor, and a constitutional form of government was established by Statute 15 & 16 Vict., Cap. 72 (1852). By that Act New Zealand was divided into six provinces, afterwards increased to ten, but subsequently reduced to nine, viz., Auckland, Taranaki, Wellington, Nelson, Canterbury, Otago, Hawke's Bay, Westland, and Marlborough, each governed by a Superintendent and Provincial Council elected by the inhabitants under a franchise which practically amounted to household suffrage.
+CAPE OF GOOD HOPE
+
+Situation and Area
+
+The Cape of Good Hope, strictly speaking, is a small promontory near the south-west extremity of the Continent of Africa. But this extensive Province is bounded on the west by the Atlantic, on the south by the Southern or Indian Oceans, on the north to the west of longitude 22° by the Orange River, and on the north-east by the Orange Free State and Natal Provinces. The Cape Province contains an area of 277,113 square miles, over five times that of England. It extends from 26° to 35° S. latitude and from 17° to 30° E. longitude.
+
+In 1844, Letters Patent were issued annexing Natal to the Cape, but in 1856 it was constituted a separate Colony.
+
+The islands off Angra Pequena, on the coast of Damaraland (Plum-pudding, Roast-beef, Hollam’s Bird, Mercury, Ichaboe, Seal, Penguin, Halifax, Long, Possession, Albatross, and Mona), with the adjacent rocks, were annexed in 1867 and added to the Cape Colony in 1874.
+
+In 1876 three large tracts of Kaffraria, namely, Fingoland, Idutywa Reserve and Norman’s Land, were brought under the more direct control, and on the 12th June, 1876, Letters Patent were issued authorizing the Governor to annex these territories to the Cape of Good Hope, on condition of the Cape Parliament passing an Act to provide for their government. Such an Act was passed as No. 38 of 1877, but the territories were not actually incorporated until the 1st October, 1879.
+
+On the 12th March, 1878, the Port of Walfish Bay, situated a few miles north of the Tropic of Capricorn, was proclaimed British territory, and annexed to the Colony by Proclamation on 7th August, 1884.
+
+On the 15th October, 1880, the Province of Griqualand West was incorporated with the Cape Colony.
+
+Under Proclamation No. 13 of the 26th January, 1882, were issued certain laws and regulations for the government of the territories known respectively as Tembuland, Emigrant Tambookieland, Bomvanaland and Gcalekaland, of which, by Royal Warrant dated the 14th November, 1881, the Officer Administering the Government of the Cape of Good Hope was appointed Governor. By Proclamation No. 140 of 26th August, 1885, issued under Act 3 of 1885, these territories were annexed to the Cape Colony. A similar Warrant was passed on the 27th July, 1881, in respect to the St. John’s River Territory, which was annexed to the Colony by Proclamation No. 215 of the 15th September, 1884.
+
+The Xesibe country ("Mount Ayliff") was annexed to the Colony by Letters Patent of the 23rd August and Proclamation of 25th October, 1886, and the Rode Valley, Pondoland, by Letters Patent of 29th July, 1887, and Proclamation of October, 1887 (Act No. 45 of 1887). Under Act No. 5 of 1894 the whole of Pondoland was annexed. Basutoland, subsequently a separate Colony, formed part of the Cape from 1871 to 1884.
+
+On the 16th November, 1895, British Bechuanaland was incorporated with the Cape under Law No. 41 of 1895.
+
+History
+
+In 1652, J. A. Van Riebeck, duly commissioned by the "Chamber of Seventeen" at Amsterdam, landed at Table Bay accompanied by 100 persons, and took possession of what is now the site of Cape Town on behalf of the Dutch East India Company. In 1671 the first formal purchase of land was made from the Hottentots, and another purchase took place the following year. At the time of the revocation of the Edict of Nantes, the European population received a slight addition of French Protestants. A magistracy was established at Swellendam in 1745 and another at Graaff Reinet in 1786.
+and in 1788 the Great Fish River was proclaimed the boundary of the Colony. In 1795, Holland having yielded to the French Revolutionary Government, an English force proceeded to the Cape of Good Hope to secure it for the Prince of Orange. An Act of Parliament (37 Geo. III, Cap. II) was passed to regulate the trade with the new possession. By the Peace of Amiens the Cape of Good Hope was restored to the Batavian Republic, and evacuated in 1803, but it was again captured by a British Force in 1806 and at the general Peace of 1814 it was ceded in perpetuity to the British Crown. In 1820 the United Kingdom Parliament voted a sum of £50,000 to promote emigration to the Cape, and 4,000 British immigrants were brought to the Colony and settled in the eastern districts.
+
+In 1836 began what is called the "Great Trek" of a part of the Dutch or Boer population. This remarkable movement resulted in the settlement of Natal, the Free State, and the Transvaal.
+
+In 1856 the German Legion, which had been formed during the Crimean War, was brought to the Cape, and the men, numbering 2,300, disposed in selected spots on the frontier for defensive purposes.
+
+**Constitution and Government**
+
+For many years the form of government in the Colony depended on the terms of the Royal Letters Patent and Instructions to Governors. By Letters Patent issued in 1850 to Governor Sir Henry Smith it was declared that in the Colony there should be a Parliament which should consist of the Governor, a Legislative Council, and a House of Assembly.
+
+A Constitution Ordinance was enacted by Order in Council of 11th March, 1853, and took effect on 1st May ensuing. This Order in Council provided that nothing it contained should prevent the Parliament of the Colony from making Acts (subject to the power of Her Majesty in Council either to disallow or assent to such Acts) in amendment of the said Ordinance. This power of amending the Constitution was exercised from time to time as the bounds of the Colony were extended. In 1872 an Act was passed at the Cape and assented to by Order of the Council providing for the system of Executive Administration known as Responsible Government. The Constitution formed under these various Acts vested the Executive in the Governor and an Executive Council, composed of certain office-holders appointed by the Crown. On the 31st May, 1910, the Colony was merged in the Union of South Africa, thereafter forming an original Province of the Union. Cape Town is the seat of the Provincial Administration.
+
+East and West Pondoland were annexed in 1894 and Bechuanaland in 1895.
+
+**Provincial Administration**
+
+*Provincial Administrator:* The Hon. J. G. Olivier (appointed for five years from 1st August, 1951).
+
+*Provincial Secretary:* J. B. Slater.
+
+The Provincial Council after the election of 9th March, 1949, was composed of 28 members of the United Party, 26 of the National Party, one member of the Labour Party, and two Native Representatives.
+
+**NATAL**
+
+**Situation and Area**
+
+Natal lies between the Drakensberg Mountains and the Indian Ocean, and stretches from the Cape Province to Portuguese East Africa. Its area is 35,284 sq. miles.
+
+**Constitution**
+
+Natal, which had been annexed to the Cape Colony in 1844, was placed under separate government in 1845, and under charter of 15th July, 1856, was erected
+into a separate colony. By this charter partially representative institutions were established, and, under a Natal Act of 1893, the colony obtained responsible government. The province of Zululand was annexed to Natal on 30th December, 1897. The districts of Vryheid, Utrecht, and part of Wakkerstroom, formerly belonging to the Transvaal, were annexed to the Colony in January, 1903. On 31st May, 1910, the Colony was merged in the Union of South Africa, becoming an original province of the Union.
+
+**Provincial Administration**
+
+*Administrator:* The Hon. D. G. Shepstone (appointed for five years from 2nd February, 1948).
+
+*Provincial Secretary:* Mr. Gooding.
+
+The Provincial Council was composed after the last election in 1949 of 22 members of the United Party, two members of the National Party, and one Independent.
+
+---
+
+**THE ORANGE FREE STATE**
+
+**Situation and Area**
+
+The Province of the Orange Free State lies to the north of the Orange River and the Province of the Cape of Good Hope, and to the south of the Vaal River. On the east it is bounded by Basutoland and the Province of Natal. The country lies at an altitude of 4,000 to 5,000 feet and the area is 49,647 square miles.
+
+**History**
+
+The Orange River was first crossed by a European in 1760, but no attempt was made to settle the country for many years after. Emigrants from the great trek established themselves at Winburg and elsewhere, but the Colonial Government for some time made no attempt to establish any administration. In 1848, however, owing to the disputes between the settlers and the natives, Sir Harry Smith issued a Proclamation declaring the whole territory between the Orange River and Vaal River to be under the sovereignty of the Queen, and a British Resident was appointed at Bloemfontein. Discontented farmers under Pretorius took up arms, but the British Government before long determined to abandon the territory because of the increasing difficulties with the Basuto. In 1854, by the Convention of Bloemfontein, British sovereignty was withdrawn and the Orange Free State was recognized.
+
+In subsequent fighting with the Basuto, Moshesh was compelled to make cessions of territory and the Basuto appealed to the High Commissioner. They were taken under British protection, but by the Treaty of Aliwal North in 1869 the incorporation of the conquered territory into the Orange Free State was recognized.
+
+About the same time, the discovery of diamonds at Kimberley and the inrush of diggers led to a dispute between H.M. Government and that of the Orange Free State as to the boundary, which was ultimately settled in 1876 by a Convention signed in London by President Brand providing for a payment by Great Britain in consideration of the abandonment of the Free State claim.
+
+The Government of the Orange Free State consisted of a President, elected every five years, assisted by an Executive Council and a Volksraad, containing 60 members, half of whom retired every two years. The Orange Free State had since 1889 been a member of the Customs Union, to which the Cape and latterly Natal also belonged. In the same year the railway to the Vaal was completed by the Cape Government, which continued to work the line. After the Jameson raid, the Free State took it over.
+
+In 1889 the Orange Free State entered into an alliance with the South African Republic, which was renewed in 1897, and was appealed to as binding the Free State to assist the South African Republic in her quarrel with the United King-
+dom in 1899. This course was determined on by a resolution of the Volksraad taken on the 27th of September, 1899, and the war resulted in the annexation of the Free State by a Proclamation issued on the 28th of May, 1900, the name being changed to Orange River Colony.
+
+On the restoration of peace in 1902, Crown Colony government was established, which continued till 30th June, 1907, when responsible government was granted.
+
+On the 31st May, 1910, the Orange River Colony became, under the name of the Orange Free State, a Province of the Union of South Africa, and is now governed in terms of the South African Act which constituted the Union of South Africa.
+
+**Provincial Administration**
+
+*Administrator:* The Hon. J. J. Fouche (appointed for five years from 1st January, 1951).
+
+*Provincial Secretary:* J. A. Viljoen.
+
+The Provincial Council was composed after the last election in 1949 of 24 members of the National Party and one member of the United Party.
+
+---
+
+**TRANSVAAL**
+
+**Situation and Area**
+
+The Transvaal lies to the north of the Orange Free State Province and to the south of Rhodesia, being bounded on the west by the Province of the Cape of Good Hope and by the Bechuanaland Protectorate, and to the east chiefly by Portuguese East Africa, but touching Natal Province at the south-east corner. The greater part lies high, seldom less than 4,000 feet above the sea. The area is 110,450 square miles.
+
+**History**
+
+The first European settlers in the Transvaal were emigrant Cape farmers. In 1848 British sovereignty was extended over the Orange River Territory, but no attempt was made by the British Government to exercise authority beyond the Vaal, and in January 1852 the Sand River Convention was made with the settlers which contained a promise that they would not be interfered with in the management of their own affairs. The emigrants at the time formed three independent communities which did not unite until 1858, when they adopted for themselves the name of the South African Republic. After a period of unsuccessful native wars and financial difficulty, Sir Theophilus Shepstone proclaimed the Queen's sovereignty over the Transvaal in 1877. Subsequently hostile feelings towards the annexation were widely manifested and in December 1880 a majority of the Boers took up arms against the Government. A small force was defeated at Majuba Hill and, after mediation by the President of the Orange Free State, a preliminary agreement of peace was signed. Her Majesty's Government agreed that the Transvaal should be self-governing as regards its own interior affairs, the control and management of the foreign relations of the State being reserved to Her Majesty as suzerain. A Convention to this effect was signed on the 3rd August, 1881 and, by a further Convention of 1884, the boundary of the Republic was extended on the south-west and the post of British Resident in the Transvaal was abolished. In 1887, gold was found on the Witwatersrand and the discovery was followed by a gold rush which brought thousands of immigrants into the Republic. The Volksraad, fearing that the newly-acquired independence of the Republic would be jeopardized by the newcomers, passed legislation between 1890 and 1894 to restrict the grant of the franchise, which, at the time of the Pretoria Convention, had been open to all settlers after a year's residence, and since 1882, after five years' residence: it became practically unobtainable by an ordinary immigrant.
+
+Towards the end of 1895 a revolutionary movement was set on foot in
+Johannesburg and on the 29th December Dr. Jameson crossed the border of the Transvaal on his disastrous raid and was defeated. The dissatisfaction of the so-called Uitlanders remained and a petition, signed by 21,000 British subjects, called attention to their grievances and asked for the protection of H.M. Government in March 1899. The Government of the Republic subsequently proposed certain alterations in the franchise law but their negotiations with the leaders of the mining industry broke down. H.M. Government on the 10th May made representations against the grievances of the Uitlanders and urged that they should be redressed. On the 9th May, however, the South African Republic had claimed the status of a full sovereign international state and subsequently offered a five years' franchise only on three assumptions: (1) that H.M. Government would not in future interfere in the internal affairs of the Republic; (2) that H.M. Government would not insist further upon the assertion of suzerainty; and (3) that there should be arbitration on the Uitlander grievances but without any foreign element. H.M. Government replied that they could not bind themselves never to intervene again, though they expressed the hope that further intervention would be unnecessary if the franchise was granted. They refused to discuss the question of suzerainty, but agreed to discuss the form of an arbitral tribunal. The South African Republican Government thereupon withdrew their offer of a five years' residence franchise.
+
+After some correspondence between the President of the Orange Free State and the High Commissioner, in which the latter stated that any definite proposal by the South African Republic would still be considered, an ultimatum was handed to the British Agent on the 9th October and war broke out.
+
+The Transvaal was annexed in 1900 and at the end of that year Sir A. Milner was appointed Governor of the Transvaal and of the Orange River Colony, as well as High Commissioner for South Africa. Peace was signed on the 31st May, 1902, at Vereeniging. On the 21st June, Letters Patent constituted the Government of the Transvaal and provided for an Executive and a Legislative Council, the members of which were to be appointed by the Crown, subsequent legislation being, accordingly, by Ordinance.
+
+On the 31st March, 1905, Letters Patent provided for the constitution of a Legislative Assembly to consist of the Lieutenant-Governor and not less than six nor more than nine official members and (provisionally) not less than thirty nor more than thirty-five elected members. This constitution was revoked in December 1906 and Letters Patent were issued conferring full responsible Government upon the Transvaal. The Legislature was to consist of two Chambers, the Legislative Council and the Legislative Assembly, the former containing 15 members and the latter 69.
+
+The Transvaal was included as an original Province of the Union of South Africa in the terms of the South Africa Act, 1909, which came into operation on the 31st May, 1910, and is now governed under that Act.
+
+**Provincial Administration**
+
+*Administrator:* Dr. the Hon. W. Nicol (appointed for five years from 1st November, 1948).
+
+*Provincial Secretary:* S. A. Lombard.
+
+At the end of 1952 the Provincial Council was made up of 36 members of the National Party, 27 of the United Party, two of the Labour Party and one Independent.
+
+**SOUTH WEST AFRICA AND WALVIS BAY**
+
+**Situation, Area and Population**
+
+The territory of South West Africa is an area of 317,725 square miles. It stretches from the Kunene River in the north to the Orange River in the south and inland to the western border of the Bechuanaland Protectorate. A small area in the north between the Zambesi and Chobe Rivers is attached to the
+remainder of the territory by a narrow corridor: this area is the Caprivi Zipfel. A slowly-rising sandy coast-belt is succeeded at a distance of 60 to 100 miles from the sea by a higher interior plateau which descends gently to the east through another stretch of sandy country to the lower plateau of the Kalahari. The territory of Walvis Bay, a small enclave on the coast, of 374 square miles and an integral part of the Cape Province, is also administered by the Administration of South-West Africa.
+
+The population, according to the figures of the 1946 census, consisted of 37,858 Europeans and 322,179 Natives and Coloured.
+
+The principal native races are the Ovambos, Hereros, Bergdamaras, Hottentots and Bushmen.
+
+The capital is Windhoek, with a population of 6,985 European and 7,944 non-European (1946 census).
+
+History
+
+The coast was discovered by the Portuguese in 1484, but it was so inhospitable that further exploration was mainly overland from the south and east, and European settlement did not begin until the later 19th century. The Governments of the United Kingdom and of the Cape of Good Hope were both invited to proclaim a Protectorate but failed to do so, and in 1884 a German Protectorate was proclaimed by Count Bismarck. The small area of Walvis Bay was, however, declared in 1878 to be a part of Cape Colony. The history of the Protectorate up to 1908 was of a series of wars against different native tribes which resulted in the complete defeat of the latter and a great reduction in the numbers of the Hereros, a section of whom migrated to the Bechuanaland Protectorate. In 1915 the forces of the Union of South Africa rapidly occupied the territory, from which an attack on the Union had been made; at that time the European population was about 15,000, of whom 12,000 were Germans, 6,000 of whom (mainly military forces and Government officials) were repatriated to Germany at the end of the war. In 1921 Union nationals numbered 10,673 and Germans 7,855; of the latter, a large number became naturalized under the Union Act of 1924. Of the present European population of 37,858, considerably over 20,000 are Union nationals of South African descent.
+
+Government
+
+By Article 119 of the Treaty of Versailles Germany renounced in favour of the Principal Allied and Associated Powers all her rights and titles over her overseas possessions including South West Africa. Thereafter the Principal Allied and Associated Powers gave the Mandate over the territory to the Union of South Africa to be administered under the Covenant of the League of Nations.
+
+By Article 2 of the Mandate the Mandatory was given full power of administration and legislation over the territory as an integral portion of the Union of South Africa and authorized to apply the laws of the Union to the territory subject to such local modifications as circumstances might require. Many Union Acts have subsequently been made applicable to the territory.
+
+By Union Act 49 of 1919 the Governor-General was authorized to legislate in respect of South West Africa by proclamation, and in 1921 he delegated power of legislation to the Administrator. By Act 42 of 1925 the Union Parliament delegated further powers to a Legislative Assembly (of 81, 12 elected), and also created an Executive Committee (of five, the Administrator and four persons chosen by the Assembly), and an Advisory Council (of eight, i.e. the members of the Executive Committee and three members nominated by the Administrator). Every European, male or female, is qualified to be registered as a voter if he or she is not less than 21 years of age, a British subject, and resident in the territory for 12 months.
+The Assembly was vested with the power to make Ordinances for the territory except on certain subjects which were reserved: the latter included native affairs, immigration, customs tariffs, currency and banking, and other subjects, though they might by resolution recommend that legislation be enacted on any of such matters. The function of the Advisory Council included advising the Administrator in regard to the reserved subjects, and in regard to assenting to the Ordinances which the Assembly had passed.
+
+Towards the end of the 1939-45 war the Union Government advised the Conference of the United Nations at San Francisco of its intention to incorporate South West Africa in the Union. For this reason the United Nations were subsequently informed, after the winding-up of the League of Nations, that the Union Government did not intend to submit a draft trusteeship agreement in respect of the territory. This decision of the Union Government was challenged in the United Nations General Assembly in 1946 and the Union Government subsequently announced that for the time being no steps would be taken to annex the territory to the Union. The International Court of Justice in an advisory opinion of the 11th July, 1950, advised that the international status of South West Africa continues to be that of a territory under the international mandate assumed by the Union of South Africa on the 17th December, 1920.
+
+The South West Africa Affairs Amendment Act, 1949, made provision for a Legislative Assembly in South West Africa consisting of 18 directly elected members with jurisdiction similar to that of the Provincial Councils in the Union, with the addition of financial autonomy. The Act empowered the Union Parliament to legislate in other matters for South West Africa, except the imposition of any direct taxes on the inhabitants of the territory. The Act also provided for the election by the voters of South West Africa of six representatives in the Union House of Assembly and for the representation of the territory in the Senate by two nominated Senators and two Senators to be chosen by an electoral college consisting of the 18 members of the Legislative Assembly of the territory and the six members of the House of Assembly, sitting together. The elections were held in August, 1950. The six seats in the Union House of Assembly and 15 seats in the Legislative Assembly were gained by the National Party; and the two nominated Senators, the two Senators subsequently elected by the members of the Legislative Assembly, and the South West African members of the Union House of Assembly are all National Party supporters.
+
+Under the 1949 Act the powers of the Governor-General and the Administrator to legislate for the Territory by proclamation were abrogated, but these powers were restored by the South West Africa Affairs Amendment Act, 1951, with the proviso that a proclamation must be laid before Parliament and would cease to have effect, in whole or in part, in so far as both Houses by resolution disapprove of it.
+
+One of the nominated Senators was selected mainly on the ground of his thorough acquaintance, by reason of his official experience or otherwise, with the reasonable wants and wishes of the non-European races in the territory.
+
+For administration purposes the country is divided into 18 districts, controlled by magistrates. This excludes Ovamboland, in the extreme north, which contains the bulk of the native population and is administered by Native Affairs officials. There is also a Native Affairs official stationed at Runtu who controls the native tribes on the Okavango River.
+
+Previous to 1920 German imperial and local laws were in force. On the 1st January, 1920, however, the Roman Dutch Law became the common law of the country.
+
+Administrator: Dr. the Hon. A. J. R. Van Rhijn.
+Secretary for South West Africa and Chief Native Commissioner: J. Neser.
+PRINCE EDWARD AND MARION ISLANDS
+
+This sub-antarctic group of volcanic origin consists of Marion Island (about 12 miles long by 7 miles wide, with peaks over 4,000 ft. high) and Prince Edward Island (about 15 miles in circumference and over 2,000 ft. high). The islands lie 1,200 miles south-east of Cape Town. The climate is cold, wet and windy.
+
+The islands were discovered in 1772 and named by Captain Cook in 1776. On 25th December, 1947, the Union of South Africa formally took possession of Prince Edward Island and on 30th December of Marion Island on which a meteorological station was established. Apart from the station staff the islands are uninhabited.
+UNDIVIDED INDIA
+
+Constitutional Development to 1947
+
+Under British rule India consisted of territories under two different kinds of government; British India, which comprised a number of Provinces originally under direct British administration, covering about three-fifths of the area and containing about four-fifths of the population of the Indian peninsula, and the Indian States, numbering about 560 in all, under the administration of Indian Princes. The ruling Princes of the Indian States were by treaty or usage subject to the suzerainty of the Crown as paramount power, and their relations with foreign powers were conducted through the Crown, but their States were not British territory. The Viceroy and Governor-General was the head of the Government of British India and conducted the Crown’s relations with the Indian States.
+
+The government of the Indian States maintained, with modifications, the tradition of personal rule. Until 1919 the Government of British India was a highly centralized administration responsible to the United Kingdom Parliament, acting, after 1858, through the Secretary of State for India in Council. The Provincial Governments were agents of the Central Government and under its legislative and executive control.
+
+By Acts of 1861, 1892 and 1909 the representative principle was recognized by the admission of Indians to Legislative Councils in the Provinces and at the Centre. These Councils had extensive powers and were not merely advisory, but the reality of power remained with the Viceroy and his official advisers and subordinates acting under the direction of the United Kingdom Government. By the end of the seventies Indians were appearing in the Indian Civil Service. The first Indian was appointed to the Viceroy’s Council in 1909.
+
+The development of Legislative Councils brought into prominence the problem of the representation of the minorities. The main division in Indian society was between the Hindus, who constituted about two-thirds of the population, and the Muslims, who constituted nearly one-quarter. The Muslim minority objected to the election of representatives to the various Legislatures on the basis of a common roll, which they feared would impair their right to political expression and place them in permanent subjection to the Hindu majority. Under the reforms of 1909 separate electorates and representatives were granted for Muslims and the other minority communities.
+
+The Indian National Congress was founded in 1885. It was mainly Hindu in membership and looked forward to parliamentary self-government on the British model. In 1907 the creed of Congress was defined in the following terms:
+
+"The objects of the Indian National Congress are the attainment by the people of India of a system of government similar to that enjoyed by the self-governing members of the British Empire and a participation by them in the rights and responsibilities of the Empire on equal terms with those members. These objects are to be achieved by constitutional means by bringing about a steady reform of the existing system of administration and by promoting national unity, fostering public spirit and development, and organizing the intellectual, moral, economic and industrial resources of the country."
+
+A Muslim political organization, the All-India Muslim League, was founded in 1906.
+
+The Nationalist movement was intensified by the war of 1914-18, and as a result of the part played by India and the Indian Army there was a natural disposition to concede political advance. In 1916 the chief obstacle seemed to have been overcome by an agreement between Congress and the Muslim League, known as the "Lucknow Pact," in which Congress conceded to the Muslim
+League that in the Indian Legislatures there should be separate electorates and representatives for the minorities.
+
+Consequently in 1917 the United Kingdom Government declared the objective of its future policy towards India. This was "the increasing association of Indians in every branch of the administration and the gradual development of self-governing institutions with a view to the progressive realization of responsible government in India as an integral part of the British Empire." In pursuance of this policy the "Montagu-Chelmsford Report" made recommendations for the setting up of new institutions in the Provinces and at the Centre, and these were to a large extent implemented in the Government of India Act of 1919. The main provisions of this Act were as follows:
+
+(1) The franchise was widened, the Provincial Legislatures were enlarged, and the principle of "Dyarchy" was introduced. Under this system in the Provincial Governments a number of portfolios were held by Ministers who sat in the Governor's Executive Council but were responsible to the Provincial Legislature, while other portfolios, including finance and law and order, were dealt with by officials who were also members of the Provincial Governor's Executive Council but were responsible to the Governor, and in the last resort to the Government of the United Kingdom, and not to the Legislature.
+
+(2) The existing Central Legislative Council was converted into a legislative body of two Houses, the Council of State and the Legislative Assembly, each with a majority of members directly elected on a national basis. The Legislature could initiate legislation, but the executive authority remained vested in the Governor-General in Council, and the Governor-General had power to veto legislation or to certify as passed legislation which had been rejected. Dyarchy was not introduced at the Centre.
+
+(3) It provided for the appointment of a statutory Commission within ten years to consider the possibility of further extension of responsible Government.
+
+Simultaneously a Chamber of Princes was established, representing the rulers of the Indian States, for deliberative purposes.
+
+India had acquired a new status by her membership of the Imperial Conference of 1917. She became an original member of the League of Nations and also of the International Labour Organization, with a permanent seat on the Council of the latter. In other respects, notably in fiscal policy, her status was rapidly approximating to that of a Dominion.
+
+In pursuance of the Act of 1919 a Statutory Commission under Sir John Simon was appointed in 1927 to make recommendations to Parliament on the next stage of constitutional development. The report of this Commission was published in 1930.* Its recommendations were discussed at a Round Table Conference held in London and there emerged from these deliberations the Government of India Act of 1935. The main provisions of this Act were as follows:
+
+(1) The development of provincial autonomy was completed by giving the Provinces control over a wider field of subjects. All provincial affairs, including finance and law and order, were henceforth in the hands of Indian Ministers, members of and responsible to the Legislature. Certain discretionary powers were, however, reserved to the Provincial Governors which enabled them in limited and defined circumstances to over-rule their Ministers.
+
+(2) The Governor-General in Council, i.e., the Government of India, ceased to be the channel for the conduct of relations between the Crown and the Indian States. A new authority was established for this purpose,
+
+* Cmd. 3568 and Cmd. 3569.
+subsequently known as the Crown Representative, but provision was made enabling this Office and that of the Governor-General to be held by the same person.
+
+(3) Provision was made for the establishment, subject to the accession of a specified proportion of Indian States, of "The Federation of India," comprising both Provinces and States with a Federal Government and Legislature for the management of federal subjects, thus providing for the first time a constitution for the whole of India.
+
+(4) Dyarchy, superseded in the Provinces, was to be reproduced in the Federal Executive. Foreign affairs and defence were to come under the direct control of the Governor-General, the other Federal subjects being given to Ministers responsible to the Legislature, subject to certain safeguards.
+
+(5) Separate electorates were retained for minorities in the Provincial Legislatures.
+
+It was made clear that the intention was that those provisions of the Act which precluded full self-government would in course of time fall into disuse or be modified so that India might without major constitutional changes achieve full Dominion status.
+
+The Act of 1935, with the exception of the part dealing with Federation, came into force on 1st April, 1937. Both Congress and the Muslim League repudiated the federal scheme, and in any case Federation could not be introduced until the accession of the requisite number of States had been obtained. The Centre therefore remained as set up by the Act of 1919 except that its powers over the Provinces were reduced, and this, in the event, continued to be the constitutional position up till 1947.
+
+The Muslim League was prepared to work the provincial constitution, but Congress rejected the whole Act and decided that, while the Party should fight the elections and allow its members to enter the new legislatures in order to promote the welfare of the Indian masses, they should combat the constitution and seek to end it. When, therefore, Congress majorities were returned in seven Provinces their leaders declined to form Ministries unless the Provincial Governors undertook not to exercise their discretionary powers. This difficulty was overcome and in July 1937 Congress Ministries were formed.
+
+In three Provinces non-Congress Coalition Ministries took office in 1937; and later similar governments were formed in two other Provinces. Relations between the Congress Party and the Muslim League continued to deteriorate. In 1940 the League propounded the doctrine that the Muslims of India were not a minority community but a separate nation, repudiated the goal of federation, and subsequently committed itself to the policy of "Pakistan," i.e., that the areas in north-west and north-east India in which Muslims were in a majority should become a separate sovereign State.
+
+Since the Central Government was still responsible only to the Secretary of State for India and the United Kingdom Parliament, the proclamation of war by the Viceroy in 1939 was legally not subject to the prior consent of the Central Legislature. Congress leaders, while denouncing Nazi aggression, asserted that India had been dragged into the war without her consent and insisted that she must be declared "an independent nation" and accorded the largest possible measure of actual independence at once. The Viceroy replied by re-affirming the pledge of Dominion status as the aim of United Kingdom policy in India, and by undertaking that the Act of 1935 should be reconsidered after the war in the light of Indian opinion. This offer was unacceptable to Congress, and in November 1939 all the Congress Provincial Ministers resigned and the administration of the Provinces affected was taken over by their Governors. Efforts by the United Kingdom Government, notably the visit of Sir Stafford Cripps to India in 1942, to secure agreement on the future govern-
+ment of India and the co-operation of all parties in India in the prosecution of the war failed and the political problem was still unsolved when the war ended in August 1945.
+
+In September of that year it was decided to hold fresh elections and thereafter to have preparatory discussions with Indian leaders with a view to setting up a constitution-making body. The elections were held and gave sweeping majorities to the Congress Party and the Muslim League in the Hindu and Muslim constituencies respectively.
+
+In March 1946 a United Kingdom Cabinet Mission was sent to India to discuss outstanding questions with Indian leaders. They eventually recommended (a) a Union of India, embracing both British India and the States, which would deal with foreign affairs, defence and communications and have the powers necessary to raise the funds required for those subjects; (b) that the Provinces should be free to form constitutional groups of Provinces within the Union and that each group should determine the provincial subjects to be dealt with in common by the group; (c) that a Constituent Assembly, in which the Indian States should also be represented, should be elected by the Provincial Legislatures to frame a constitution on the basis of the principles laid down by the Mission, assuming that these were accepted as the basis of agreement; and (d) that an Interim Government should be set up at the Centre composed of the political leaders of the main communities.
+
+The Constitutional part of the plan was accepted at first by the Muslim League but not by the Congress, pending negotiations about the Interim Government. These negotiations broke down and the Muslim League withdrew its agreement to the plan. Subsequently, in September 1946, an Interim Government was set up at the Centre whose members included Mr. Nehru, Sardar Patel, Mr. Rajagopalachari and Dr. Rajendra Prasad. The Muslim League, however, did not take part in this Government until six weeks later, when five representatives of the League, including the late Mr. Liaquat Ali Khan, entered it. The Constituent Assembly was duly elected and met in December, but it was boycotted by the League and by some of the Indian States.
+
+In another attempt to end the existing uncertainty the United Kingdom Government announced, on 20th February, 1947, that it was their definite intention "to take the necessary steps to effect the transference of power into responsible Indian hands by a date not later than June 1948," and they hoped that by that date a constitution would have been worked out by a fully representative Constituent Assembly. If it had not been so worked out "His Majesty's Government will have to consider to whom the powers of the Central Government in British India should be handed over on the due date, whether as a whole to some form of Central Government for British India, or in some areas to the existing Provincial Governments, or in such other way as may seem most reasonable and in the best interests of the Indian people."
+
+In May the Viceroy invited the leaders of the principal communities and representatives of the States to meet him "to present to them a plan for the transfer of power to Indian hands." The plan was accepted by both Congress and the Muslim League and on 3rd June Mr. Attlee announced the intention of the United Kingdom Government "to introduce legislation during the current session for the transfer of power this year on a Dominion status basis to one or two successor authorities" according to decisions taken by the Provinces as the result of the procedure provided for in the plan. This would be without prejudice to the right of the Constituent Assemblies to decide in due course whether or not they would remain within the Commonwealth. In effect the plan provided for those Provinces of India most of whose representatives had not joined the Constituent Assembly, i.e., those with Muslim majorities, to decide by vote of the Legislature whether they would form part of India or not. But in Bengal and the Punjab the representatives in the
+Legislature of the Muslim majority districts and the non-Muslim majority districts would vote separately on this issue. Steps were taken to obtain a rapid decision in these Provinces.
+
+On the 4th July the Indian Independence Bill was introduced, passed through Parliament without a division in either House and became law on 18th July. The sub-Continent of India became, as from midnight on 14th August, two sovereign independent states, India and Pakistan. India included the former Provinces of Bombay, Madras, the Central Provinces, United Provinces, Assam, Bihar, Orissa, and the new Provinces of West Bengal and East Punjab. Pakistan, a state in two geographical parts, was made up of Sind, the North-West Frontier Province, British Baluchistan and West Punjab in the west and East Bengal in the east.
+
+In respect of the Indian States British paramountcy was declared by the Indian Independence Act to be terminated and the existing treaties with the Crown to have lapsed.
+INDIA
+
+India lies to the south of Asia, between the Himalayas and the Indian Ocean. It is bounded to the north-west by Pakistan, to the north by Tibet, Nepal and Bhutan, and to the north-east by Pakistan and Burma; Ceylon lies off the south-east coast. India also includes the Andaman and Nicobar Islands in the Bay of Bengal and the Laccadive Islands off the South-West Coast. The area (not including the State of Jammu and Kashmir) is about 1,139,000 square miles.
+
+India can be divided geographically into three distinct regions, each with its own special characteristics. These are
+
+(i) The Himalayan region, mountainous and thinly-populated;
+(ii) The Great Plain, comprising the river valleys of the Indus, the Ganges, and the Lower Brahmaputra; and
+(iii) The Deccan, which is a tableland covering most of Central and Southern India.
+
+Of the total population of India of about 357 million, no less than 250 million are classified as agricultural classes. The population figures for the four principal cities are, Calcutta 3.5, Bombay 2.8, Madras 1.4, Delhi and New Delhi 1.2 millions.
+
+Constitutional Development
+
+From 1947 to 1950. The principal constitutional developments in India in the two years following the coming into operation of the Indian Independence Act were the adjustment of the position of the Indian States and the drafting of a Constitution for India.
+
+In the period following the withdrawal of British Paramountcy and the partition of British India into the two new Dominions of India and Pakistan, the Rulers of the Indian States signed Instruments of Accession to either India or Pakistan. As far as the States which acceded to India were concerned it soon became apparent that the smaller States could not continue to exist as separate entities. In the course of the next two years nearly 200 of them were combined to form six “Unions of States,” Saurashtra, Madhya Bharat, Matsya, Patiala, and the East Punjab States Union, Rajasthan, and Vindhya Pradesh. The Matsya Union was found to be too small to remain a viable entity and was subsequently joined to Rajasthan. The former States of Travancore and Cochin were combined in a United State. Some States and groups of States were made into new Provinces with direct central administration, and about 230 of the remainder were merged with territories of adjoining former Provinces. Hyderabad and Mysore remained as separate units.
+
+Section 8 of the Indian Independence Act provided that the Government of India Act, 1935, should remain in force in the two new Dominions of India and Pakistan as their Constitutions, subject to any Orders passed under Section 9, which empowered the Governor-General to modify the Act to meet the requirements of the new Dominions in the new situation. Under this Section the Governor-General made the India (Provisional Constitution) Order, 1947, to serve as a Constitution for India until a fresh Constitution had been drafted and put into force.
+
+The United Kingdom Cabinet mission which visited India in the early summer of 1946 had provided in its recommendations for the setting up of a Constituent Assembly elected from the existing Provincial Legislatures to draw up a new Constitution for India. The Constituent Assembly began its sessions on the 9th December, 1946, but its early work, being aimed at formulating a Constitution for the whole of India, was largely stultified by the subsequent partition of the sub-continent. A drafting Committee was appointed in August,
+1947, to prepare a draft Constitution for India as it now is, and in November, 1948, clause-by-clause consideration of the draft Constitution by the Constituent Assembly began. The Constitution was finally adopted in November, 1949, and came into force on 26th January, 1950, when the last Governor-General of India, Mr. Rajagopalachari, who had succeeded Lord Mountbatten in June, 1948, handed the reins of government to the first President, Dr. Rajendra Prasad.
+
+Meanwhile the relationship between India and the other Members of the British Commonwealth had been settled at the Commonwealth Conference held in London in April, 1949. This conference had been arranged to consider the constitutional issues arising from the decision of the Constituent Assembly to adopt a republican form of Constitution. The final communiqué stated that "The Government of India have informed the other Governments of the Commonwealth of the intention of the Indian people that under the new Constitution which is about to be adopted India shall become a sovereign independent Republic. The Government of India have, however, declared and affirmed India's desire to continue her full membership of the Commonwealth of Nations and her acceptance of the King as the symbol of the free association of its independent member-nations and as such the Head of the Commonwealth. The Governments of the other countries of the Commonwealth, the basis of whose membership of the Commonwealth is not hereby changed, accept and recognize India's continuing membership in accordance with the terms of this declaration."
+
+Constitution of 1950. The Constitution which came into operation on 26th January, 1950, defines "India, that is Bharat" as a "Sovereign Democratic Republic" described as an "Union of States." (Subject to what is said below the division between Province and (Princely) State no longer exists and the term "State" applies to units of whatever origin now constituting the Union and is so used henceforward.)
+
+The executive power is vested in the President, who is elected for a period of five years by an electoral college consisting of the elected members of the Union and State Legislatures, the voting strength of the Central Legislature in the college being equal to that of all the States put together. In his absence his functions are performed by the Vice-President, who at other times acts as Chairman of the Council of States.
+
+The President is "aided and advised" in his functions by a Council of Ministers. He appoints the Prime Minister and, on the latter's advice, the other Ministers, and can dismiss them. The Council of Ministers is collectively responsible to the House of the People.
+
+The legislative power vests in Parliament which consists of the President, the Council of States, and the House of the People. The Council of States consists of 250 members, 12 nominated by the President, the rest elected by the elected members of the State legislatures on a population basis; they hold office for six years, one-third retiring every two years. The House of the People consists of 500 members, elected for a maximum of five years on universal adult suffrage. For ten years seats are reserved in the House of the People (and in the State Legislatures) for the Scheduled Castes and Scheduled Tribes and may be reserved for Anglo-Indians.
+
+There is a Supreme Court of eight judges appointed by the President and only removable by his order following an address passed by each House of Parliament. The Court has sole jurisdiction in virtually all disputes between State and Union or between State and State. It is also the final Court of Appeal from other Courts.
+
+The States of India are classified in four parts, of which two are largely self-governing (Parts A and B on pages 155 and 156) and two are centrally administered (Parts C and D on pages 156 and 157).
+The States in Part A are based on Provinces or parts of Provinces of the old British India as expanded since 1947 by the addition of former Princely States. The State Executive consists of a Governor, appointed by the President of the Indian Republic and holding his office for a period of five years, and a Council of Ministers, who must be members of the Legislature of the State. In Bihar, Bombay, Madras, Punjab (I), Uttar Pradesh (the United Provinces), and West Bengal there is a Legislature of two Houses, the Legislative Council and the Legislative Assembly. In Assam, Madhya Pradesh (the Central Provinces and Berar), and Orissa there is a single House only, the Legislative Assembly. Each Assembly has a maximum life of five years and strict limits as to maximum and minimum membership. The Lower House, or Legislative Assembly, is elected directly by adult suffrage. The Upper House, where there is one, is elected indirectly.
+
+The States in Part B are based upon former Princely States and Unions of Princely States established between August 1947 and January 1950. The government of these States is conducted similarly to that of the States in Part A, except that instead of a Governor there is a Raj Pramukh or President, assisted in many cases by a Vice-President. The Raj Pramukh is generally the former Ruler of the State, or of one of the major component States in the case of the Unions. The Raj Pramukh is appointed by the President of India and is not necessarily limited to a five-year term; he may even hold the office for life. The Legislature consists of a single chamber, except in Mysore where there are two chambers. For an interim period of ten years from the commencement of the Constitution the President may give directions to the Raj Pramukhs.
+
+The legislative field is divided explicitly between the Union and the States, the residual powers belonging to the Union. In case of conflict, Union law overrides State law. Subject to the provisions of the Constitution, the Union Parliament may make laws for the whole or any part of the territory of India, and the Legislature of a State may make laws for the whole or any part of the State. The Union Parliament has exclusive powers to make laws with respect to matters grouped under 97 headings in the Constitution, including, e.g., foreign affairs, defence, citizenship, currency and banking, railways, airways, shipping, communications, trade and commerce with foreign countries. The Legislature of a State in Parts A and B has exclusive power to make laws for the State with respect to matters grouped under 66 headings in the Constitution, e.g., public order and police, education, public health, the administration of justice, elections to the Legislature, excise and taxes, water, land, forests. The Union Parliament and, subject to the exclusive powers referred to above, the Legislature of a State in Parts A and B have concurrent power to make laws with respect to certain matters which are grouped under 47 headings in the Constitution, including criminal law and procedure, marriages and divorce, civil procedure, social security, labour, trade and commerce.
+
+The Judges of the High Court of a State are appointed by the President, not by the Governor or Raj Pramukh. The President may proclaim an emergency which empowers the Union Government to assume executive and financial control of any State, but the proclamation must be approved subsequently by the Union Parliament. For up to three years the President may, if satisfied that the State cannot be governed in accordance with its constitution, himself assume the functions of Government subject to his proclamations (each valid for six months) receiving the subsequent approval of the Union Parliament.
+
+The States in Parts C and D are considerably less independent of the Union Government than those in Parts A and B. Those in Part C are States based on Chief Commissioners Provinces of British India or Princely States which, after August 1947, had been administered as if they were Chief Commissioners Provinces. They are governed by the Chief Commissioner or Lieutenant-Governor, appointed by the President of India, and the Union Parliament may appoint a body nominated, elected, or partly nominated and partly elected, to function as the Legislature of the State.
+The only State in Part D is the Andaman and Nicobar Islands, which are administered direct by the President of the Union.
+
+The Constitution may be amended by a Bill passed in each House of the Union Parliament by a majority of its total members and not less than two-thirds of its members present and voting. Amendments to certain articles (e.g., those relating to the Supreme and High Courts, the distribution of legislative powers between the Union Parliament and the procedure for amendment of the Constitution) must be ratified by the legislatures of a majority of the self-governing States.
+
+The first elections based on universal adult franchise as instituted by the new Constitution were held in 1952 and resulted in a sweeping victory for the Congress Party in the Central Parliament. 362 Congress candidates were successful and the Party thus secured nearly 75 per cent. of the seats in the House of the People (Lower House), although they gained only 45 per cent. of the total number of votes polled. No other single party won more than 30 seats. Opposition to Congress in Parliament comes from several small groups of which that of the communists and their allies with 37 seats is the most important. In most of the State Assemblies Congress also won an absolute majority, but in the case of four states, Orissa, Madras, Patiala and East Punjab States Union, and Travancore-Cochin they failed to do so, although Congress in each case emerged as the largest single party.
+
+President: Dr. Rajendra Prasad.
+
+MINISTRY
+
+Prime Minister and Minister for External Affairs and Defence: Jawaharlal Nehru.
+Minister for Education and for Natural Resources and Scientific Research: Maulana Abul Kalam Azad.
+Minister for Communications: Jagjivan Ram.
+Minister for Health: Rajkumari Amrit Kaur.
+Minister for Finance: C. D. Deshmukh.
+Minister for Planning and Irrigation and Power: Gulzari Lal Nanda.
+Minister for Home Affairs and for States: Dr. K. N. Katju.
+Minister for Food and Agriculture: Rafi Ahmad Kidwai.
+Minister for Commerce and Industry: T. T. Krishnamachari.
+Minister for Law and for Minority Affairs: C. C. Biswas.
+Minister for Railways and Transport: Lal Bahadur Shastri.
+Minister for Works, Housing and Supply: Sardar Swaran Singh.
+Minister for Labour: V. V. Giri.
+Minister for Production: K. C. Reddy.
+Minister for Parliamentary Affairs: Satya Narayan Sinha.
+Minister for Rehabilitation: Ajit Prasad Jain.
+Minister for Defence Organization: Mahavir Tyagi.
+Minister for Information and Broadcasting: Dr. B. V. Keskar.
+Minister for Commerce and Industry: D. P. Karmarkar.
+Minister for Agriculture: Dr. P. S. Deshmukh.
+
+DEPUTY MINISTERS
+
+Deputy Minister for Works, Housing and Supply: S. Buragohain.
+Deputy Minister for Communications: Raj Bahadur.
+Deputy Minister for Natural Resources and Scientific Research: Keshava Deva Malaviya.
+Deputy Ministers for Defence: Satish Chandra; Singh Majithia.
+Deputy Minister for Home Affairs: Balwant Nagesh Datar.
+Deputy Minister for Labour: Abid Ali.
+Deputy Minister for Finance: Manilal Chaturbhai Shah.
+Deputy Minister for Rehabilitation: Jagan-nathrao Krishnarao Bhonsle.
+Deputy Minister for Railways and Transport: O. V. Alagesan.
+Deputy Minister for Health: Mrs. Maragatham Chandrasekhar.
+Deputy Minister for External Affairs: Anil Kumar Chanda.
+Deputy Minister for Food and Agriculture: M. V. Krishnappa.
+Deputy Minister for Irrigation and Power: Jaisukhhal Hathi.
+Deputy Minister for Finance: Arun Chandra Guha.
+
+Secretary-General, Ministry of External Affairs: Sir Raghavan Pillai.
+Foreign Secretary, Ministry of External Affairs: R. K. Nehru.
+Commonwealth Secretary, Ministry of External Affairs: B. F. H. B. Tyabji.
+
+HOUSE OF THE PEOPLE
+
+Speaker: G. V. Mavalankar.
+Deputy Speaker: M. A. Ayyangar.
+Secretary: M. N. Kaul.
+PRIME MINISTER
+Prime Minister: Jawaharlal Nehru.
+Principal Private Secretary: B. N. Kaul.
+Assistant Private Secretary (Administration): M. L. Bazaz.
+Assistant Private Secretary (Public): S. P. Khanna.
+Assistant Private Secretary (Interviews): C. R. Srinivasan.
+
+CABINET SECRETARIAT
+Secretary: Y. N. Sukthankar.
+Joint Secretary: M. V. Rangachari.
+Deputy Secretary (Civil): K. Ram, I.C.S.
+Deputy Secretary (Military): Air Commodore P. C. Lal, D.F.C.
+
+COMMERCE AND INDUSTRY
+Joint Secretaries: S. Bhoothalingam, I.C.S.; L. K. Jha.
+
+COMMUNICATIONS
+Secretary: B. N. Jha.
+Director-General, Posts and Telegraphs: Krishna Prasada, I.C.S., J.P.
+Director-General, Civil Aviation: L. C. Jain.
+
+DEFENCE
+Secretary: H. M. Patel, I.C.S.
+
+EDUCATION
+Secretary and Educational Adviser: Dr. S. S. Bhatnagar, D.Sc., F.R.S.
+
+EXTERNAL AFFAIRS
+Secretary-General: N. R. Pillai, I.C.S.
+Foreign Secretary: R. K. Nehru.
+Commonwealth Secretary: B. F. H. Tyabji, I.C.S.
+
+FINANCE
+Comptroller and Auditor-General: V. Narahari Rao.
+
+(i) Department of Revenue and Expenditure
+Secretary: K. R. K. Menon.
+Financial Adviser (Defence): K. Bhawani-Shankar Rao.
+
+(ii) Department of Economic Affairs
+Secretary: K. G. Ambegaokar, I.C.S.
+
+(iii) Income-Tax Investigation Commission
+Chairman: A. V. Visvanatha Sastri.
+
+FOOD AND AGRICULTURE
+Secretary: Vishnu Sahay, I.C.S.
+
+HEALTH
+Director-General of Health Services: Lt.-Col. C. K. Lakshmanan.
+
+HOME AFFAIRS
+Secretary: A. V. Pai, I.C.S.
+
+INFORMATION AND BROADCASTING
+Secretary: P. C. Chaudhuri, I.C.S.
+
+LABOUR
+Secretary: V. K. R. Menon, I.C.S.
+
+LAW
+Secretary: K. Y. Bhandarkar.
+
+NATURAL RESOURCES AND SCIENTIFIC RESEARCH
+Secretary: Dr. S. S. Bhatnagar.
+
+RAILWAYS (RAILWAY BOARD)
+Chairman: F. C. Badhwar.
+Secretary, Railway Board: Haveli Ram.
+
+REHABILITATION
+Secretary: C. N. Chandra, I.C.S.
+
+STATES
+Secretary: C. S. Venkatachar, I.C.S.
+
+TRANSPORT
+Secretary: N. M. Ayyar, I.C.S.
+
+WORKS, HOUSING AND SUPPLY
+Secretary: M. K. Vellodi.
+
+DEPARTMENT OF PARLIAMENTARY AFFAIRS
+Secretary: Prem Chand.
+
+ARMED FORCES
+Chief of Army Staff and Commander-in-Chief, Indian Army: Gen. Maharaj Rajendrasinghi, D.S.O.
+Chief of Naval Staff and Commander-in-Chief, Indian Navy: Vice-Admiral C. T. M. Pizey, C.B., D.S.O.
+Chief of Air Staff and Commander-in-Chief, I.A.F.: Air-Marshal G. E. Gibbs, C.I.E., C.B.E., M.C.
+
+SUPREME COURT OF INDIA
+Chief Justice of India: Mr. Justice M. Patanjali Sastri.
+Judges: Mr. Justice Mehr Chand Mahajan; Mr. Justice Bijan Kumar Mukherjea; Mr. Justice Sudhi Ranjan Das; Mr. Justice Bachu Jagannadha; Mr. Justice Vivian Bose; Mr. Justice Ghulam Hasan; Mr. Justice N. H. Bhagwati; Mr. Justice Bachu Jagannadha.
+Registrar: P. N. Murty.
+
+INDIAN REPRESENTATIVES IN OTHER COMMONWEALTH COUNTRIES
+High Commissioner in Australia: General K. M. Cariappa.
+High Commissioner in Canada: R. R. Saksena.
+High Commissioner in Ceylon: C. C. Desai.
+High Commissioner in New Zealand: General K. M. Cariappa (resident in Australia).
+High Commissioner in Pakistan: M. S. Mehta.
+High Commissioner in the Union of South Africa: (Vacant).
+High Commissioner in the United Kingdom: B. G. Kher.
+
+INDIAN REPRESENTATIVES IN COUNTRIES OTHER THAN COMMONWEALTH COUNTRIES
+Afghanistan: (Ambassador).
+Argentina: Nawab Ali Yavar Jung Bahadur (Ambassador).
+Austria: Y. D. Gundevia (Minister) (Berne).
+Belgium: P. A. Menon (Ambassador).
+Brazil: Raja Joginder Sen Bahadur (Ambassador).
+Burma: K. K. Chettur (Ambassador).
+Chile: Nawab Ali Yavar Jung Bahadur (Minister) (resident in Buenos Aires).
+China: N. Raghavan (Ambassador) (Peking).
+Czechoslovakia: (Vacant). (Ambassador.)
+Denmark: M. J. Desai (Minister) (resident in Stockholm).
+Egypt: K. M. Panikkar (Ambassador).
+Ethiopia: Sant Singh (Minister).
+Finland: M. J. Desai (Minister) (resident in Stockholm).
+France: H. S. Malik (Ambassador).
+Germany: S. Dutt (Ambassador).
+Holy See: Y. D. Gundevia (Minister) (resident in Berne).
+Hungary: K. P. S. Menon (Minister) (resident in Moscow).
+Indonesia: Bhagwat Dayal (Ambassador).
+Iran: Dr. Tara Chand (Ambassador).
+Iraq: Khub Chand (Ambassador).
+Italy: B. R. Sen (Ambassador).
+Japan: Dr. M. A. Rauf (Ambassador).
+Jordan: K. M. Panikkar (Minister) (resident in Cairo).
+Lebanon: Sardar K. M. Panikkar (Minister) (resident in Cairo).
+Libya: Sardar K. M. Panikkar (Minister) (resident in Cairo).
+Luxembourg: P. A. Menon (Minister) (resident in Brussels).
+Mexico: G. L. Mehta (Ambassador) (resident in Washington).
+Nepal: B. K. Gokhale (Ambassador).
+Netherlands: B. N. Chakravarti (Ambassador).
+Norway: H. S. Malik (Minister) (resident in Paris).
+Philippines: M. R. A. Baig (Minister).
+Portugal: Kewal Singh (Chargé d'Affaires).
+Republic of Ireland: B. G. Kher (resident in London).
+Roumania: K. P. S. Menon (Ambassador) (Designate) (resident in Moscow).
+Sweden: M. J. Desai (Minister).
+Switzerland: Y. D. Gundevia (Minister).
+Syria: K. M. Panikkar (Minister) (resident in Cairo).
+Thailand: (Ambassador).
+Tibet: A. K. Sen (Consul-General, Lhasa).
+Turkey: C. S. Jha (Ambassador).
+United Nations: Rajeshwar Dayal (Permanent Representative, New York).
+United States: G. L. Mehta (Ambassador) (resident in Washington).
+U.S.S.R.: K. P. S. Menon (Ambassador).
+Yugoslavia: B. R. Sen (Ambassador) (resident in Rome).
+
+Representatives in India of other Commonwealth Countries
+
+High Commissioner for Australia: W. R. Crocker.
+High Commissioner for Canada: Escott Reid.
+High Commissioner for Ceylon: C. Coomaraswamy, C.B.E.
+High Commissioner for Pakistan: Shaik Abdur Rahman (Acting).
+
+High Commissioner for the United Kingdom: Sir Alexander Clutterbuck, G.C.M.G., M.C.
+
+Representatives in India of Countries other than Commonwealth Countries
+
+Afghanistan: Dr. Najib Ullah Khan (Ambassador).
+Argentina: Fernando Errecart (Minister and Chargé d'Affaires a.i.).
+Austria: Albin Lennkh (Chargé d'Affaires en titre).
+Belgium: S. Halot (Ambassador).
+Brazil: A. B. Bueno do Prado (Ambassador).
+Burma: Maha Thray Sithu U Kyin (Ambassador).
+Chile: M. Serrano (Chargé d'Affaires a.i.).
+China: General Yuan Chung Hsien (Ambassador).
+Czechoslovakia: Dr. L. Durdil (Ambassador).
+Denmark: H. E. P. Toyberg-Frandzen (Minister).
+Egypt: Ismail Kamel (Ambassador).
+Ethiopia: Ato Gabre Mascal Keflegzi (Minister).
+Finland: Hugo Valvanne (Minister).
+France: Count Stalislas Ostrorog (Ambassador).
+Germany: Prof. Ernst Wilhelm Meyer (Ambassador).
+Holy See: Archbishop M. H. Lucas (Papal Internuncio).
+Hungary: (Chargé d'Affaires en titre).
+Indonesia: L. N. Palar (Ambassador).
+Iran: Abdul Ahad Yekta (Chargé d'Affaires a.i.).
+Iraq: Mohammed Salim Al-Radi (Minister).
+Italy: Dr. Alberto Berio (Ambassador) (Designate).
+Japan: Tsutomu Nishiyama (Ambassador).
+Jordan: (Vacant) (Minister).
+Mexico: Dr. L. F. Macgregor (Chargé d'Affaires a.i.).
+Nepal: Lt.-General Bijaya Shamshere Jang Bahadur Rana (Ambassador).
+Netherlands: Baron F. C. A. Van Pallandt (Ambassador).
+Norway: Knut Lykke (Minister).
+Philippines: Narciso Ramos (Minister).
+Portugal: Dr. Vasco V. Garin (Minister).
+Sweden: P. G. A. Wijkman (Minister).
+Switzerland: Dr. Max Graessl (Minister).
+Syria: Youssef Lufti Bustami (Minister).
+Thailand: L. Bhadravadi (Ambassador).
+Turkey: Numan Tahir Seymen (Ambassador).
+United States: G. V. Allen (Ambassador).
+U.S.S.R.: Ivan A. Benediktov (Ambassador).
+Yugoslavia: Dr. G. Nikolis (Ambassador).
+THE STATES OF THE UNION
+
+The Constitution of India lists these as follows:
+
+PART A
+
+Assam
+
+The State of Assam comprises the former Province of Assam, the Assam tribal areas, the Khasi States, and a number of other small Princely States. The area is 54,084 square miles, and the population 9,129,442. The State capital is Shillong.
+
+Governor: Jairamdas Daulatram.
+
+Bihar
+
+The State of Bihar comprises the former Province of Bihar, and the Princely States of Kharswam and Seraikella. The area is 70,368 square miles, and the population 40,218,916. The State capital is Patna.
+
+Governor: Ranganath Ramchandra Diwaker.
+
+Bombay
+
+The State of Bombay comprises the former Province of Bombay and 308 Princely States of which the most important are Baroda and Kolhapur. The area is 115,570 square miles, and the population 35,943,559. The State capital is Bombay.
+
+Governor: Girja Shankar Bajpai.
+
+Madhya Pradesh
+
+The State of Madhya Pradesh comprises the former Central Provinces and Berar and 15 Princely States. The area is 130,323 square miles, and the population 21,327,898. The State capital is Nagpur.
+
+Governor: Dr. B. Pattabhi Sitaramayya.
+
+Madras
+
+The State of Madras comprises the former Province of Madras and the Princely States of Banganapalle and Pudukattai. The area is 127,768 square miles, and the population 56,952,332. The State capital is Madras.
+
+Governor: Sri Prakasa.
+
+Orissa
+
+The State of Orissa comprises the former Province of Orissa and 24 Princely States of which the largest is Mayurbhanj. The area is 59,869 square miles, and the population 14,644,293. The State capital is Bhuvaneshwar.
+
+Governor: Saiyid Fazl Ali.
+
+Punjab (I)
+
+The State of Punjab (I) comprises the eastern part of the former Punjab Province (an area known after August, 1947 as the East Punjab) and the Princely States of Loharu and Pataudi. The area is 37,428 square miles, and the population 12,638,611. The State capital is Simla.
+
+Governor: C. P. N. Singh.
+
+Uttar Pradesh
+
+The State of Uttar Pradesh comprises the former United Provinces and the Princely States of Benares and Tehri-Garhwal. The area is 112,523 square miles, and the population 63,254,118. The State capital is Lucknow.
+
+Governor: Kanialal Maneklal Munshi.
+
+West Bengal
+
+The State of West Bengal comprises the western part of the former Bengal Province and the Princely State of Cooch Behar. The area is 29,476 square miles, and the population 24,786,683. The State capital is Calcutta.
+
+Governor: Dr. H. C. Mookerjee.
+
+Note.—Land areas and populations of the States are taken from provisional census figures for the year 1951.
+PART B
+
+Hyderabad
+
+The area of Hyderabad is 82,313 square miles, and the population 18,652,964. The State capital is Hyderabad.
+
+Raj Pramukh: H.E.H. Sir Mir Usman Ali Khan Bahadur, G.C.S.I., G.B.E. (former Nizam of Hyderabad).
+
+Madhya Bharat
+
+The State of Madhya Bharat comprises 15 major and seven minor Princely States which were joined together after August, 1947, to form the States Union of the same name. The area is 46,710 square miles, and the population 7,941,642. The State capital is Gwalior.
+
+Raj Pramukh: H.H. Maharaja Jiwajirao Scindia, G.C.S.I., G.C.I.E., Aljah Bahadur.
+
+Mysore
+
+The area of Mysore is 29,458 square miles, and the population 9,071,678. The State capital is Bangalore.
+
+Raj Pramukh: H.H. Maharaja Shri Jaya Chamaraja Wadiyar Bahadur, G.C.B., G.C.S.I., Maharaja of Mysore.
+
+Patiala and East Punjab States Union
+
+The Patiala and East Punjab States Union comprises eight major Princely States, of which the largest are Jind and Patiala. The area is 10,099 square miles, and the population 3,468,631. The State capital is Patiala.
+
+Raj Pramukh: H.H. Lt.-General Maharajadhiraj Sir Yadavindra Singh Mohindar Bahadur, G.C.I.E., G.B.E., A.D.C.
+
+Rajasthan
+
+The State of Rajasthan comprises 18 minor and four major Princely States, including Jaipur, Bikaner, Jodhpur, and Jaisalmer. The area is 128,424 square miles, and the population 15,297,979. The State capital is Jaipur.
+
+Maharaj Pramukh: Maj.-Gen. Maharajadhiraja Maharana Sir Bhupal Singhji Bahadur, G.C.S.I., K.C.I.E.
+
+Raj Pramukh: H.H. Lt.-Gen. Raj Rajendra Shri Maharajadhiraja Sawai Sir Man Singhji Bahadur, G.C.S.I., G.C.I.E.
+
+Saurashtra
+
+The State of Saurashtra comprises 14 major and 16 minor Princely States together with 424 other small units of various kinds which were joined together after partition to form the United States of Kathiawar. The area is 21,062 square miles, and the population 4,136,005. The State capital is Rajkot.
+
+Raj Pramukh: H.H. Lt.-Gen. Maharaja Shri Digvijaysinhji Ranjitsinhji Jadeja Maharaja Jam Saheb of Nawanagar.
+
+Travancore-Cochin
+
+The State of Travancore-Cochin is a union of the former Princely States of Travancore and Cochin. The area is 9,155 square miles, and the population 9,266,157. The State capital is Trivandrum.
+
+Raj Pramukh: H.H. Maj.-Gen. Sri Padmanabha Dasa Bala Rama Varma.
+
+PART C
+
+Ajmer
+
+The area of Ajmer is 2,425 square miles, and the population 692,506. The State capital is Ajmer.
+
+Bhopal
+
+The area of Bhopal is 6,921 square miles, and the population 838,107. The State capital is Bhopal.
+
+Bilaspur
+
+The area of Bilaspur is 453 square miles, and its population 127,566. The State capital is Bilaspur.
+Coorg
+
+The area of Coorg is 1,593 square miles, and the population 229,255. The State capital is Mercara.
+
+Note.—The State Legislative Council of Coorg continues to function as it did before the adoption of the Constitution.
+
+Delhi
+
+The area of Delhi is 574 square miles, and the population 1,743,992. The State capital is Delhi, which is also the capital of the Union.
+
+Himachal Pradesh
+
+The State of Himachal Pradesh comprises 23 Princely States in the Punjab Hill area. The area is 10,600 square miles, and the population 989,437. The State capital is Simla.
+
+Kutch
+
+The area of Kutch is 8,461 square miles, and the population 567,825. The State capital is Bhuj.
+
+Manipur
+
+The area of Manipur is 8,620 square miles, and the population 579,058. The State capital is Manipur.
+
+Tripura
+
+The area of Tripura is 4,049 square miles, and the population 649,930. The State capital is Agartala.
+
+Vindhya Pradesh
+
+The State of Vindhya Pradesh comprises the territory of 12 major and 20 minor Princely States. The area is 24,600 square miles, and the population 3,577,431. The State capital is Rewa.
+
+PART D
+
+Andaman and Nicobar Islands
+
+This chain of islands, with an area of 3,143 square miles, lies in the eastern part of the Bay of Bengal about 800 miles to the east and south-east of Madras. The total population at the 1951 census was 30,971, of whom two-thirds are to be found in the Andamans, where the majority live within a radius of 15 miles of Port Blair, the capital.
+
+The civic administration of the islands is directly under the Ministry of Home Affairs, Delhi. The Chief Commissioner is A. K. Ghosh.
+
+OTHER STATES
+
+Sikkim
+
+The area of Sikkim is 2,745 square miles and the population 135,646. The State capital is Gangtok. The Himalayan State of Sikkim is a protectorate of India. The Government of India are responsible for its external relations, defence and communications, while as regards internal government the State enjoys autonomy, subject to the ultimate responsibility of the Government of India for the maintenance of good administration and law and order.
+
+The State of Bhutan on the North-East Frontier of India is in treaty relations with the Government of India, under which, while the Government of India undertake to exercise no interference in the internal administration of the State, the Government of Bhutan agree to be guided by the Government of India’s advice in regard to external affairs.
+
+NOTE. The future of the State of Jammu and Kashmir is the subject of a dispute between India and Pakistan, which has been referred to the United Nations. The area of the State is 84,471 square miles, and the population (1941) 3,899,121.
+PAKISTAN
+
+Situation and Population
+
+Pakistan is a State in two geographically separate parts. Western Pakistan comprises the former Province of Sind, the North West Frontier Province, the former Chief Commissioners' Province of Baluchistan, and the western part of the former Province of the Punjab. A number of Princely States within or adjoining Western Pakistan have acceded to Pakistan; among these are Bahawalpur, Khairpur, and Kalat. The federal capital is Karachi, which continues for the present to be also capital of the Province of Sind.
+
+Eastern Pakistan, much smaller in area but much more densely populated than Western Pakistan, consists of the eastern part of the former Province of Bengal.
+
+The total area of Pakistan is 360,780 square miles and the total population, according to the provisional tables of the 1951 census, is 75,687,000, of which 42,119,000 persons live in East Bengal, 18,814,000 in the Punjab, 4,619,000 in Sind, 3,239,000 in the Settled Districts of the North West Frontier Province and 2,460,000 in the Tribal areas of the Province. The population of the Federal Capital area of Karachi is 1,118,000. Other principal towns of Pakistan are Lahore (849,000), Dacca (401,000), Chittagong (269,000), Rawalpindi (243,000), Hyderabad (Sind) (229,000), Multan (190,000), Lyallpur (180,000), Sialkot (152,000), Gujranwala (124,000), Peshawar (114,000) and Quetta (82,000).
+
+Constitutional Development since 1947*
+
+The idea of Pakistan was realized with the coming into force of the Indian Independence Act 1947, and the new Dominion of Pakistan came into existence at midnight on 14th August, 1947. The late Mr. M. A. Jinnah became the first Governor-General of Pakistan, with the late Mr. Liaquat Ali Khan as his Prime Minister.
+
+Section 8 of the Act provided that the Government of India Act, 1935, should remain in force in the two new Dominions of India and Pakistan as their Constitutions, subject to any Orders passed under Section 9, which empowered the Governor-General to modify the Act to fit it to the requirements of the new Dominions in the new situation. Under this Section the Governor-General made the Pakistan (Provisional Constitution) Order, 1947, to serve as a Constitution for Pakistan until a fresh Constitution had been drafted and put into force. Pakistan became empowered to make further amendments itself.
+
+The final Constitution of Pakistan has not yet been drawn up. Pakistan therefore remains governed in accordance with the Government of India Act 1935, modified as stated above. Meanwhile a fresh Constitution is in preparation by the Legislative Assembly meeting as a Constitution-making body. The document governing the general form of the Constitution is the "Objectives Resolution," which was moved in the Constituent Assembly by the Prime Minister of Pakistan on 7th March, 1949, and carried without amendment. This Resolution envisages a Sovereign Independent State in which power is exercised through chosen representatives of the people, and Islamic principles of democracy, freedom, equality, tolerance, and social justice are fully observed. This Constitution would be federal in form, providing for autonomous units whose boundaries and powers are to be prescribed. Fundamental rights would be guaranteed, and minorities adequately safeguarded. The passage of this Resolution was followed by the appointment of a Committee to report on the main principles on which the Constitution should be framed.
+
+The Legislature consists of the Governor-General and one House, the Legislative Assembly.
+
+Further information about Pakistan will be found in Pakistan, a Review issued periodically by the Pakistan Government.
+
+* For the constitutional development of Pakistan prior to 1947, i.e. as part of undivided India, see note on Undivided India, page 144.
+Governor-General: His Excellency Ghulam Mohammad. (From October, 1951.)
+
+MINISTERS
+
+Prime Minister and Minister for Defence and Commerce: The Hon. Mohammed Ali.
+Minister for Foreign Affairs and Commonwealth Relations: The Hon. Chaudhri Mohammad Zafrulla Khan.
+Minister for Finance: The Hon. Chaudhri Mohammad Ali.
+Minister for the Interior and Minister of States and Frontier Regions: The Hon. Mushtaq Ahmad Gurmani.
+Minister for Communications: The Hon. Sardar Bahadur Khan.
+Minister for Health and Works and Labour: The Hon. Dr. A. M. Malik.
+Minister for Education: The Hon. Dr. Ishfaq Qureshi.
+Minister for Law, Minority Affairs, and Parliamentary Affairs: The Hon. Allahbukhsh K. Brohi.
+Minister for Industries and Food and Agriculture: The Hon. Abdul Qaiyum Khan.
+Minister for Information and Broadcasting, for Kashmir Affairs, and for Refugees and Rehabilitation: The Hon. Shoaib Qureshi.
+
+CONSTITUENT ASSEMBLY
+
+President: The Hon. Tamizuddin Khan.
+Secretary: M. B. Ahmad.
+Joint Secretary: K. Ali Afzal.
+Deputy Secretary (Administration): Hasan Mohammad Khan.
+Deputy Secretary (Legislation): H. A. Shaik.
+
+PRIME MINISTER AND CABINET SECRETARIAT
+
+Secretary-General to the Government of Pakistan and Secretary to the Cabinet: Aziz Ahmed.
+Secretary (Establishment): Sir T. B. Creagh Coen, K.B.E., C.I.E.
+Joint Secretary (Cabinet): S. Osman Ali.
+
+MINISTRIES
+
+MINISTRY OF COMMERCE AND EDUCATION
+Secretary: (Vacant).
+Joint Secretary (Commerce): M. Karamatullah.
+Education Adviser and ex-officio Joint Secretary: S. M. Sharif.
+
+MINISTRY OF COMMUNICATIONS
+Director-General, Railways: S. M. Hasan.
+Joint Secretary: Massarrat Husain Zuberi.
+Director-General of Posts and Telegraphs: Lt.-Col. S. A. Siddiqi.
+
+MINISTRY OF DEFENCE
+Secretary: Lt.-Col. Iskandar Mirza.
+Joint Secretary: Ahmed Ali.
+Director-General, Civil Aviation: K. J. Bhore.
+
+MINISTRY OF ECONOMIC AFFAIRS
+Joint Secretary: Said Hasan.
+
+MINISTRY OF FINANCE
+Secretary: Abdul Qadir.
+Financial Adviser (Development): (Vacant).
+Financial Adviser (Communications): M. Hashim.
+Financial Adviser (Military Finance): Mumtaz Mirza.
+
+Joint Secretary and Member, Central Board of Revenue: Dr. H. T. Sorley, C.S.I., C.I.E.
+Auditor-General: Ghulam Abbas.
+Accountant-General: S. Mushtaq Ahmed.
+
+MINISTRY OF FOOD AND AGRICULTURE
+Secretary: Shujat Ali Hasnie.
+Joint Secretary (Food): Sh. Ijaz Ahmad.
+
+MINISTRY OF FOREIGN AFFAIRS AND COMMONWEALTH RELATIONS
+Minister in Charge: The Hon. Dr. Mahmud Husain.
+Secretary: J. A. Rahim.
+Joint Secretaries: Akhar Husain; A. Hilaly; Itaat Hussain.
+
+MINISTRY OF HEALTH AND WORKS
+Secretary: G. Mueenuddin.
+Director-General, Health: Lt.-Col. M. Jafar.
+Chief Engineer, Pakistan Public Works Department: P. J. Hanley.
+
+MINISTRY OF INDUSTRIES
+Joint Secretaries: Nazir Ahmad; Hadi Husain.
+Director-General, Supply and Development: A. H. Khan.
+Chairman, Central Engineering Authority: Mohsin Ali.
+
+MINISTRY OF INTERIOR
+Secretary: G. Ahmad.
+Inspector-General, Special Police Establishment: Vacant.
+
+MINISTRY OF KASHMIR AFFAIRS
+Joint Secretary: M. Ayub.
+
+MINISTRY OF LABOUR
+Joint Secretary and Director-General, Manpower and Employment: A. H. Qureshi.
+
+MINISTRY OF LAW
+Advocate-General: Faiyaz Ali.
+Joint Secretaries: E. A. A. Snelson, O.B.E.; Mohammad Sharif.
+
+MINISTRY FOR INFORMATION AND BROADCASTING AND OF REFUGEES AND REHABILITATION
+Joint Secretary (Information): S. M. Ikram.
+Controller of Broadcasting: Z. A. Bokhari.
+Principal Information Officer: Majeed Malik.
+Secretary: M. W. Abbasi.
+Custodian of Evacuee Property, Sind and Federal Capital: Justice Muhammad Bakhalt Memon.
+Rehabilitation Commissioner: Nazir Ahmad.
+
+MINISTRY OF STATES AND FRONTIER REGIONS
+Secretary: Abdur Rahim Khan.
+
+FEDERAL COURT
+Chief Justice: The Hon. Sir Abdul Rashid.
+Judges: The Hon. Mr. Justice Mohammad Akram; The Hon. Sir Abdur Rahman.
+
+PAKISTAN REPRESENTATIVES IN OTHER COMMONWEALTH COUNTRIES
+High Commissioner in Australia: Habibur Rahman.
+High Commissioner in Canada: Mahammed Ikramullah.
+High Commissioner in Ceylon: Hadji Abdus Sattar Saith.
+High Commissioner in India: Shaik Abdur Rahman (Acting).
+PAKISTAN REPRESENTATIVES—(Continued)
+
+High Commissioner in New Zealand: Habibur Rahman (resident in Canberra).
+High Commissioner in the United Kingdom: Mirza Abol Hassan Ispahani.
+Commissioner in East Africa: Siddiq Ali Khan.
+
+PAKISTAN REPRESENTATIVES IN COUNTRIES OTHER THAN COMMONWEALTH COUNTRIES
+
+Afghanistan: Col. Agha Saeed Bad Shah (Ambassador).
+Belgium: (Ambassador).
+Brazil: (Ambassador).
+Burma: Sultanuddin Ahmad (Ambassador).
+China: Major-General Agha Mohammad Raza (Ambassador in Peking).
+Denmark; Finland; Norway; Sweden: (Minister) (resident in Stockholm).
+Egypt: (Vacant) (Ambassador).
+France: Habib Ibrahim Rahimtoola (Ambassador).
+Germany: Dr. O. H. Malik (Ambassador).
+Indonesia: Mudabbir Husain Choudhry (Ambassador).
+Iran: (Vacant) (Ambassador).
+Iraq: (Vacant) (Ambassador); A. M. Mustafa (Minister and Chargé d'Affaires en titre).
+Italy: Akhtar Husain (Minister).
+Japan: Mian Ziauddin (Ambassador).
+Jordan; Lebanon; Syria: Dr. Mahmoud Hasan (Minister).
+Netherlands: (Vacant) (Ambassador); S. Lal Shah Bokhari (Chargé d'Affaires).
+Saudi Arabia: (Vacant) (Minister) (resident in Cairo).
+Spain: Syed Miran Muhammed Shah (Ambassador).
+Thailand: Sultanuddin Ahmad (Minister) (resident in Rangoon).
+Turkey: Ghazarfar Ali Khan (Ambassador).
+United Nations: Ahmed S. Bokhari (Ambassador) (Permanent Representative).
+United States: (Ambassador).
+U.S.S.R.: M. S. A. Baig (Minister and Chargé d'Affaires a.i.).
+
+REPRESENTATIVES IN PAKISTAN OF OTHER COMMONWEALTH COUNTRIES
+
+High Commissioner for Australia: L. E. Beavis, C.B., C.B.E., D.S.O.
+High Commissioner for Canada: K. P. Kirkwood.
+High Commissioner for Ceylon: T. B. Jayah.
+High Commissioner for India: Dr. M. S. Mehta.
+High Commissioner for the United Kingdom: Sir Gilbert Laithwaite, G.C.M.G., K.C.I.E., C.S.I.
+
+REPRESENTATIVES IN PAKISTAN OF COUNTRIES OTHER THAN COMMONWEALTH COUNTRIES
+
+Afghanistan: Abdul Rauf (Chargé d'Affaires a.i.).
+Belgium: A. Selliez (Chargé d'Affaires a.i.).
+Brazil: Moacir Ribeiro Briggs (Ambassador).
+Burma: U Maung Soe (Chargé d'Affaires a.i.).
+China: Han Nein Lung (Ambassador).
+Czechoslovakia: Dr. Ladislav Zilka (Minister).
+Denmark: A. C. F. Sporon-Fiedler (Minister) (resident in Iran).
+Egypt: Abdul Wahab Azzam Bey (Ambassador).
+Finland: A. Ivalo (Minister).
+France: Pierre Augé (Ambassador).
+Germany: Wolfgang Jacnicke (Ambassador).
+Indonesia: Al-Haj R. H. Tirtawintata (Ambassador).
+Iran: Agai Abol Qasim Najim (Ambassador).
+Iraq: Sayid Ahmad Al Rawi (Ambassador).
+Italy: Dr. Omero Formentini (Minister).
+Japan: Kiyoshi Yamagata (Ambassador).
+Jordan: Abdul Munim Rifa'i (Minister).
+Lebanon: Wafik El-Kassar (Minister).
+Netherlands: J. C. Van Beusekom (Chargé d'Affaires).
+Norway: E. Krogh-Hansen (Minister) (resident in Turkey).
+Portugal: Dr. A. J. Alves (Minister).
+Saudi Arabia: El Syed Abdul Hamid El-Khatib (Minister).
+Spain: Don Fermín Sanz Orrio (Ambassador).
+Sweden: R. K. R. Bagge (Minister).
+Switzerland: W. Hofer (Chargé d'Affaires).
+Syria: Jawad El Murabet (Minister).
+Turkey: Sahabaddin Arbel (Ambassador).
+United States: H. A. Hildreth (Ambassador); J. K. Emmerson (Counsellor and Chargé d'Affaires a.i.).
+U.S.S.R.: A. G. Stetsenko (Ambassador).
+Yugoslavia: Branko Japundzic (Chargé d'Affaires a.i.).
+
+PROVINCES
+
+East Bengal
+
+This Province is separated from the remainder of Pakistan by Indian territory. It comprises the Eastern part of the former Province of Bengal together with the Sylhet District, formerly part of Assam. The area is 54,501 square miles, and the population 42,063,000. The provincial capital is Dacca.
+
+Governor: Chaudhri Khaliquzzaman.
+Chief Minister: The Hon. Nurul Amin.
+
+West Punjab
+
+This Province consists of the Western part of the former Province of the Punjab. The area is 62,245 square miles, and the population 18,828,000. The provincial capital is Lahore.
+
+Governor: H.E. Mian Aminuddin.
+Chief Minister: The Hon. Malik Moid Feroze Khan Noon.
+Sind.
+
+The area is 50,397 square miles, and the population 4,608,000. The provincial capital continues to be Karachi. Since January 1952 the administration of the Province has been temporarily vested in the Governor, subject to the control of the Central Government. This arrangement will end when general elections are held in the Province, probably in 1953.
+
+The North West Frontier Province
+
+The North West Frontier Province comprises two distinct parts: the Settled Districts and the Frontier Regions or "Tribal Areas", which are administered from the Centre through the Governor of the Province. These Frontier Regions include the four States of Chitral, Dir, Swat and Amb, which have acceded to Pakistan and to which separate reference is made below.
+
+The area of the Province is 39,259 square miles and the population is 5,899,905. These figures are made up as follows:
+
+Settled Districts. The area is 13,560 square miles and the population is 3,252,747.
+
+Frontier Regions and States. The area of the Frontier Regions is 25,699 square miles and the total population 2,647,158.
+
+Governor: His Excellency Kwaja Shahabuddin.
+Chief Minister: The Hon, Khan Abdul Qayyum Khan.
+
+Karachi Administration
+
+Raised to the status of a Chief Commissioner's Province on 28th April, 1952.
+Chief Commissioner: A. T. Naqvi.
+
+STATES
+
+The following former Princely States of Undivided India have acceded to Pakistan:
+
+Kalat*
+
+The area is 30,799 square miles, and the population 282,945. The State capital is Kalat.
+Ruler: Major H.H. Begmar Begi, Mir Ahmed Yar Khan, G.C.I.E., Khan-i-Azam of the Baluchistan States Union, Kalat.
+
+Mekran*
+
+The area is 23,196 square miles, and the population 138,691. The State capital is Mekran.
+Ruler: Nawab Bai Khan Gichki, Nawab of Mekran.
+
+Las Bela*
+
+The area is 7,043 square miles, and the population 75,769. The State capital is Las Bela.
+Ruler: Mir Ghulam Qadir Khan, Jam of Las Bela.
+
+Kharan*
+
+The area is 18,508 square miles, and the population 54,573. The State capital is Kharan.
+Ruler: Nawab Mahommcd Habibullah Khan Nowsherwani, Chief of Kharan.
+
+Bahawalpur
+
+The area is 17,401 square miles, and the population 1,823,000. The State capital is Bahawalpur.
+Ruler: Lieut-Gen. H.H. Nawab Al-Haj Sir Sadiq Muhammad Khan Abassi, G.C.S.I., G.C.I.E., K.C.V.O., Amir of Bahawalpur.
+
+* With the concurrence of the Central Government, the Rulers of Kalat, Mekran Las Bela, and Kharan entered into a Covenant on 11th April, 1952, for the formation of Baluchistan States Union, comprising the territories of the respective States, with a common Executive, Legislature and Judiciary.
+Khairpur
+The area is 6,050 square miles, and the population 320,000. The State capital is Khairpur.
+
+Ruler: H.H. Mir Ali Murad Khan Talpur, Mir of Khairpur.
+
+Chitral
+The area is 5,727 square miles, and the population 105,724. The State capital is Chitral.
+
+Ruler: H.E. Mehtar Saif-ur-Rehman, Mehtar of Chitral.
+
+Dir
+The area is 2,040 square miles, and the population 148,648. The State capital is Dir.
+
+Ruler: Brigadier Khan Bahadur Nawab Sir Shah Jahan Khan, K.B.E., Nawab of Dir.
+
+Swat
+The area is 2,934 square miles, and the population 518,596. The State capital is Saidu Sharif.
+
+Ruler: Brigadier Mian Gul Abdul Haq Jahanzeb, Wali of Swat.
+
+Amb
+The area is 225 square miles, and the population 48,656. The State capital is Darband.
+
+Ruler: Nawab Sir Mohammed Farid Khan, K.B.E., Nawab of Amb.
+
+NOTE. The future of the State of Jammu and Kashmir is the subject of a dispute between Pakistan and India, which has been referred to the United Nations. The area of the State is 84,471 square miles, and the population (1941) 3,899,121.
+Situation and Population
+
+CEYLON is an island in the Indian Ocean off the southern extremity of the Indian Peninsula lying between 5° 55' and 9° 50' N. latitude and 79° 42' and 81° 53' E. longitude. Its extreme length from north to south is 270 miles; and its greatest width is 140 miles. Its area is 25,332 square miles, nearly the same as that of Holland and Belgium combined. The island consists of a central massif of hill-country sloping variously on all sides from Pidurutalagala (8,292 feet) to the sea. In this descent three terraces or peneplains are recognized at the following approximate levels: third 6,000 ft., second 1,600 ft., and first 100 ft.
+
+The first peneplain or coastal plan is broadest towards the north. Rivers radiate from the central massif in all directions, the longest of which, Mahaveli Ganga (more than 200 miles long), drains into Trincomalee Bay. Ceylon has an excellent natural harbour there; it was an important naval base from the sixteenth to the nineteenth centuries and was again in use as such during the second world war. Colombo was originally an open roadstead, but the building of extensive harbour-works has transferred it into the main port for ships and the centre of the foreign trade of the island.
+
+The population of the island at the 1946 Census was 6,657,339 exclusive of non-resident shipping and services. In 1951 it was estimated at 7,547,000. The capital of Ceylon is Colombo with a population of 355,374 in 1946. The earliest inhabitants may perhaps be represented by the Veddahs, a few survivors of whom are still to be found in the jungles.
+
+History
+
+The authentic history of the island begins in the sixth century B.C., when an Aryan invasion from the north of India established the Sinhalese dynasty. The Sinhalese now form about two-thirds of the population. Buddhism was introduced in the third century B.C. The kingdom of Ceylon flourished for several centuries until about A.D. 300, when it was attacked by invaders from southern India. The island was conquered by the Chola empire of southern India in the eleventh century, but in A.D. 1070 the Sinhalese regained their independence and the kingdom again became powerful. Fresh invasions from India caused the power of the Sinhalese kings to decline gradually, and the northernmost part of the island was conquered by Tamils from southern India, whose descendants still inhabit it. The foreign trade of the island during the Middle Ages was carried on by Arabs, whose descendants, known as Moors, have retained their Moslem religion and form a separate community, controlling much of the retail trade. In the sixteenth century the Portuguese formed settlements on the west and south of the island but were dispossessed by the Dutch in the seventeenth century. The chief survival of Portuguese rule is the Roman Catholic religion, which claims approximately half-a-million Ceylonese. The Dutch left two legacies to Ceylon—the Roman Dutch law, which in a modified form still forms part of the civil law of the island, and the Burghers, from whom many of the lawyers, doctors and Government officials of the island are still drawn. In 1796 the British occupied the Dutch settlements, which were then annexed to the Presidency of Madras. In 1802 Ceylon was constituted a separate colony. In 1815 war was declared against the Sinhalese Government of the interior, the last Kandyan king was taken prisoner and the whole island came under British rule.
+
+Constitution
+
+In 1833 a Legislative Council was established to represent all the principal
+communities of the island, though the Government's control of the Council was maintained. The number of unofficial members were increased to eight in 1889. Further reforms came into operation in 1912, when the number of unofficial members was further increased to ten, of whom four were elected. In 1920 the Governor's control over the Legislative Council was very largely removed by the abolition of the official majority; and in 1924 the composition of the Council was again revised to comprise 12 official and 37 unofficial members, of whom 34 were elected. The practical working of the constitution was examined by the Donoughmore Commission which investigated the situation in 1927-28.* The Commission reported that the Executive was ineffectual owing to the opposition of the Legislature while at the same time the Ceylonese members of the Legislative Council were receiving no experience in the responsibility of Government. The Commission advised that extensive executive responsibility should be transferred to the Ceylonese. A new Constitution was accordingly promulgated in 1931, based on the recommendations of the Commission. The guiding principles were a virtually universal suffrage, the abolition of communal electorates, and the creation of seven Executive Committees composed of groups of all the elected members of the Legislature. The single-chamber Legislature was in future to be called the State Council and composed of 50 elected members, eight nominated by the Governor and three ex officio Officers of State. A system of dyarchy was set up by dividing the administration into reserved and transferred subjects, the former being under the control of the three Officers of State (the Chief Secretary, the Legal Secretary and the Financial Secretary) and the latter under the respective Executive Committees. The seven Chairmen of the Executive Committees with the three Officers of State (who had no voting powers) constituted the Board of Ministers. In a Declaration of May, 1943 the United Kingdom Government promised that the Constitution would be revised at the end of the war with a view to the grant to Ceylon of full responsible government under the Crown in all matters of internal civil administration, the United Kingdom Government retaining control of defence and foreign affairs. The Ceylon Board of Ministers were invited to draw up a constitutional scheme on this basis, and a Commission under the Chairmanship of Lord Soulbury was sent to Ceylon in 1944 to advise the United Kingdom Government on the measures necessary to give effect to the Declaration of May, 1943. The Soulbury Commission recommended† that the Legislature should in future be comprised of a House of Representatives consisting of 95 territorially-elected members and six members appointed by the Governor, and a Senate consisting of 15 members elected by the House of Representatives and 15 appointed by the Governor. The executive government should be vested in a Cabinet of Ministers with full Cabinet responsibility. A new Constitution based on the recommendations of the Commission came into operation in October, 1947, but meanwhile the United Kingdom Government had announced that immediate steps would be taken to confer upon Ceylon fully responsible status within the British Commonwealth of Nations as soon as the necessary agreements had been negotiated. Ceylon accordingly attained complete independence as a fully self-governing member of the Commonwealth on 4th February, 1948.
+
+The first general election since independence was granted took place in May 1952. This resulted in representation in the House of Representatives being made up as follows:
+
+| Government Parties       | ... | ... | ... | ... |
+|--------------------------|-----|-----|-----|-----|
+| United National Party    | ... | ... | ... | 58  |
+| Tamil Congress           | ... | ... | ... | 4   |
+| Labour                   | ... | ... | ... | 1   |
+| **Total**                |     |     |     | 63  |
+
+* Cmd. 3131. † Cmd. 6677.
+Opposition:
+New Lanka Sama Samaja Party ... ... ... 9
+Sri Lanka Sama Samaja Party ... ... ... 9
+Ceylon Indian Congress ... ... ... -
+Revolutionary Lanka Sama Samaja Party ... 1
+Communist Party ... ... ... 3
+Federalists ... ... ... 2
+Republicans ... ... ... 1
+Independents: ... ... ... ... 6
+
+(These figures exclude the Speaker and the six nominated Members.)
+
+Governor-General and Commander-in-Chief:
+His Excellency the Rt. Hon. Lord Soulbury, G.C.M.G., O.B.E., M.C.
+
+THE CABINET
+Prime Minister and Minister of Defence and External Affairs: The Hon. Dudley Senanayake.
+Minister of Transport and Works and Leader of the House of Representatives: The Hon. Sir John Kotelawala, K.B.E.
+Minister of Finance: The Hon. J. R. Jayewardene.
+Minister of Health: The Hon. E. A. Nugawela.
+Minister of Justice: Senator the Hon. Sir Lalita Rajapakse, Q.C.
+Minister of Home Affairs: The Hon. R. W. M. A. Ratnayake.
+Minister of Industries and Fisheries: The Hon. G. G. Ponnambalam, Q.C.
+Minister of Education: The Hon. M. D. Banda.
+Minister of Agriculture and Food and Leader of the Senate: Senator the Hon. Sir Oliver Goonetilleke, K.C.M.G., K.B.E.
+Minister of Lands and Land Development: The Hon. P. B. Bulankulame Dissawe, O.B.E.
+Minister of Labour: The Hon. Dr. M. C. M. Kaleel.
+Minister of Local Government: The Hon. C. W. W. Kannangara.
+Minister of Posts and Information: The Hon. S. Natesan.
+Minister of Commerce and Trade: The Hon. R. G. Senanayake.
+
+Secretary to the Cabinet: A. G. Ranasinha, C.M.G., C.B.E.
+Secretary, Ministry of Defence and External Affairs: Sir Kanthiah Vaithianathan, C.B.E.
+
+THE SENATE
+President: The Hon. Senator Sir Nicholas Attygalle (Appointed).
+
+HOUSE OF REPRESENTATIVES
+Speaker: The Hon. A. F. Peris.
+Deputy Speaker and Chairman of Committees: M. S. Ismail, M.B.E.
+Deputy Chairman of Committees: T. Ramalinkam.
+Clerk to the House of Representatives: R. St. L. P. Deraniyagala, O.B.E.
+
+SUPREME COURT
+Chief Justice: Hon. Sir Alan Rose, Q.C.
+Senior Puisne Justice: Hon. C. Nagalingam, Q.C.
+Puisne Justices: Hon. E. F. N. Gratiaen, C.M.G., Q.C.; Hon. E. H. T. Gunasekera; Hon. M. F. S. Pulle, Q.C.; Hon. V. L. St. Clair Swan; Hon. H. A. de Silva; L. M. D. de Silva, Q.C.
+Registrar: C. de Silva.
+
+GOVERNMENT DEPARTMENTS
+PUBLIC SERVICE COMMISSION
+Commissioners: Sir H. E. Jansz, C.M.G. (Chairman); Sir Armachalam Mahadeva; Sir Arthur de Silva, C.B.E.
+
+AUDIT OFFICE
+Auditor-General: A. Weerasinghe.
+
+MINISTRY OF DEFENCE AND EXTERNAL AFFAIRS
+Permanent Secretary: Sir Kanthiah Vaithianathan, C.B.E.
+
+DEPARTMENT OF IMMIGRATION AND EMIGRATION
+Controller: R. L. Arnolda.
+
+CEYLON ARMY
+Commander of the Army: Brigadier F. S. Reid, C.B.E.
+Chief of Staff: Lt.-Col. A. M. Muttukumaru, O.B.E., E.D.
+
+CEYLON ROYAL NAVY
+Captain of the Navy: Captain J. R. S. Brown, R.N.
+
+CEYLON AIR FORCE
+Commander of the Air Force: Group-Captain G. C. Bladon, C.B.E., R.A.F.
+
+POLICE DEPARTMENT
+Inspector-General: Sir Richard Aluwihare, K.C.M.G., C.B.E.
+
+MINISTRY OF FINANCE
+Permanent Secretary and Secretary to the Treasury: A. G. Ranasinha, C.M.G.
+
+DEPARTMENT OF INCOME TAX, ESTATE DUTY, AND STAMPS
+Commissioner: C. A. Spelderwinde.
+
+CUSTOMS
+Principal Collector: G. P. Tambayah.
+CENTRAL BANK OF CEYLON
+Governor: N. U. Jayawardena.
+Deputy Governor: Dr. Theodore Morgan.
+
+DEPARTMENT OF EXCHANGE CONTROL
+Controller: J. A. Leembruggen.
+
+DEPARTMENT OF CENSUS AND STATISTICS
+Director: K. Williams.
+
+INFORMATION DEPARTMENT
+Information Officer: H. A. J. Hulugalle.
+
+GOVERNMENT PRINTING DEPARTMENT
+Government Printer: Bernard de Silva.
+
+MINISTRY OF HOME AFFAIRS
+Permanent Secretary: B. F. Perera.
+
+MINISTRY OF HEALTH
+Permanent Secretary: G. de Zoysa, O.B.E.
+Director of Medical and Sanitary Services: W. G. Wickremasinghe.
+
+MINISTRY OF LABOUR AND SOCIAL SERVICES
+Permanent Secretary: R. M. Gybbon Monypenny.
+
+MINISTRY OF EDUCATION
+Permanent Secretary: L. J. de S. Seneviratna.
+Director of Education: Dr. H. W. Howes.
+
+MINISTRY OF AGRICULTURE AND FOOD
+Permanent Secretary: K. Somasuntharam.
+
+MINISTRY OF COMMERCE AND TRADE
+Permanent Secretary: M. F. de Jayaratne.
+
+MINISTRY OF INDUSTRY AND FISHERIES
+Permanent Secretary: G. L. Davidson, C.B.E.
+
+MINISTRY OF POSTS AND INFORMATION
+Permanent Secretary: R. N. Bond, C.M.G., O.B.E.
+
+MINISTRY OF TRANSPORT AND WORKS
+Permanent Secretary: J. N. Arumugam, O.B.E.
+Director of Civil Aviation: P. Nadesan.
+
+MINISTRY OF JUSTICE
+Permanent Secretary: R. R. Selvadurai.
+
+ATTORNEY-GENERAL'S DEPARTMENT
+Attorney-General: Hon. H. H. Bassanayke, Q.C.
+Solicitor-General: T. S. Fernando.
+
+MINISTRY OF LANDS AND LAND DEVELOPMENT
+Permanent Secretary: S. F. Amerasinghe.
+
+CEYLON REPRESENTATIVES IN OTHER COMMONWEALTH COUNTRIES
+High Commissioner in United Kingdom: Sir Edwin Wijeyeratne, K.B.E.
+High Commissioner in Australia: J. Aubrey Martensz, C.B.E.
+High Commissioner in India: C. Coomaraswamy, C.B.E.
+High Commissioner in Pakistan: T. B. Jayah.
+Commissioner, Singapore: M. Saravananmuttu.
+
+REPRESENTATIVES IN CEYLON OF COMMONWEALTH COUNTRIES
+High Commissioner for the United Kingdom: Sir Cecil Syers, K.C.M.G., C.V.O.
+High Commissioner for Canada: J. J. Hurley, O.B.E., E.D.
+High Commissioner for Australia: A. R. Cutler, V.C.
+High Commissioner for India: C. C. Desai.
+High Commissioner for Pakistan: Hadji Abdus Sattar Saith.
+
+CEYLON REPRESENTATIVES IN COUNTRIES OTHER THAN COMMONWEALTH COUNTRIES
+Burma: Sir Velupillai Coomaraswamy, C.M.G. (Minister).
+Indonesia: A. E. Goonesinha (Minister).
+Italy: R. S. S. Gunewardene (Minister).
+Japan: D. S. de Fonseka (Minister).
+United States: Sir G. C. S. Corea, K.B.E. (Ambassador).
+
+REPRESENTATIVES IN CEYLON OF COUNTRIES OTHER THAN COMMONWEALTH COUNTRIES
+Burma: U Tint Swe (Minister).
+Denmark: H. E. P. Toyberg-Frandzen (Minister) (resident in New Delhi).
+France: Armand Gandon (Chargé d'Affaires a.i.).
+Indonesia: T. Maimun Habsjah (Chargé d'Affaires a.i.).
+Italy: Dr. G. B. Cuneo (Minister).
+Japan: Tetsuo Ban (Chargé d'Affaires a.i.).
+Maldives Islands: Ahmed Hilmy Didi (Government Representative).
+Netherlands: Dr. R. H. van Gulik (Chargé d'Affaires a.i.) (resident in New Delhi).
+Norway: Knut Lykke (Minister) (resident in New Delhi).
+Portugal: Dr. V. V. Garin (Minister) (resident in New Delhi).
+Sweden: P. G. A. Wijkman (Minister) (resident in New Delhi).
+United States: J. C. Satterthwaite (Ambassador).
+SOUTHERN RHODESIA
+
+Situation, Area and Population
+
+SOUTHERN RHODESIA extends from the Zambesi River to the Limpopo River and from the Bechuanaland Protectorate in longitude 25° 14' east to Portuguese East Africa in longitude 33° 4' east. Entirely land-locked, its neighbours are Northern Rhodesia, on the north and north-west, the Bechuanaland Protectorate on the south-west, the Union of South Africa on the south, and Portuguese East Africa on the east and north-east. The area of Southern Rhodesia is approximately 150,333 square miles, that is, about three times the size of England. It is relatively high with lower country on all sides. Of the total area 21 per cent. lies over 4,000 ft. above sea-level. The central plateau, known as the High Veld, traverses the country in a north-easterly direction until it links up with a narrow belt of mountainous country striking north and south along the eastern border. There are two important offshoots from the main plateau to the north-west and north of Salisbury. On either side of the main plateau is the Middle Veld which lies between 4,000 and 2,000 ft. above sea-level. The Low Veld region, below 2,000 ft., is found along a narrow strip in the Zambesi valley and in a broader tract in the basin of the Limpopo and Sabi Rivers. The lowest point is 660 ft. above sea-level where the Limpopo River leaves the country. The greatest rainfall occurs in the mountainous country along the Eastern Border. These highlands are in two main portions; the Northern portion being a plateau 7,000 ft. high rising at the highest point to 8,517 ft. above sea-level. The Southern portion forms the Vumba Mountains, the Chimanimani Range with peaks rising to a height of over 7,000 ft., and the Melsetter Uplands. Between them is the Umtali gap through which run the road and railway to Beira, the nearest outlet to the sea. Most of the centres of European occupation are situated on the central plateau along which runs the railway from Bulawayo to Salisbury and on to Umtali. The areas of greatest development are situated around Bulawayo, the Midlands (Gwelo, Que Que, and Gatooma), Salisbury, and Umtali. The population in May, 1951, was 2,106,206, of whom 136,000 were of European descent, 6,030 of Coloured and 4,230 of Asian decent, and (estimated) 1,960,000 Africans. The capital is Salisbury with an estimated population of 119,000, of whom 40,500 are of European descent.
+
+History
+
+As a result of their attempts in the sixteenth century to open up South Central Africa from the East Coast of Africa, the Portuguese were the first Europeans to explore what is now Southern Rhodesia. In 1514, Antonio Fernandez reached the region of Que Que, and nearly half a century later the Jesuit father Gonzalo da Silveira reached Mount Fura, where he was murdered after visiting and baptising the so-called Emperor Monomatapa (actually paramount chief of the Makaranga). In 1569, Francesco Barreto led a large military expedition into the interior with the primary object of exploiting the reputed goldfields. The expedition failed and Barreto died at Sena on the Zambesi River.
+
+For some three hundred years there was no further white contact with the hinterland until the great missionary-explorers, the hunters, traders, and gold-seekers who between them opened up much of Africa to European influence.
+
+In 1830 the indigenous peoples, who are known as the Mashona, were invaded by offshoots of the Zulu nation pressing northwards. The most important of these were the Matabele, under Mzilikazi, who eventually settled in Matabeleland.
+
+In 1857, the missionary, Robert Moffat, visited Mzilikazi in Matabeleland, and this led to the establishment in 1861 of the first mission to the Matabele.
+
+For information about the social and economic conditions of Southern Rhodesia, see the Statistical Year Book of Southern Rhodesia.
+by the London Missionary Society. A second mission was established in 1875 at Hope Fountain.
+
+In 1887 Cecil Rhodes was instrumental in the despatch of J. S. Moffat to Matabeleland to safeguard British interests. In February, 1888, Lobengula, son and successor to Mzilikazi, signed a treaty pledging not to cede territory without leave of the British High Commissioner at the Cape. Later in the same year Lobengula granted the Rudd Concession over the minerals in his kingdom. This led to the formation of the British South Africa Company which was granted a Royal Charter on 29th October, 1889, "with the view of promoting trade, commerce, civilization and good government in an area bordered on the South by the Transvaal, on the East by Portuguese East Africa and Nyasaland, on the West by the Protectorate of South West Africa and on the North by the Belgian Congo and Tanganyika territory." The Pioneer Column and its escort of police set out from Bechuanaland in 1890 and after skirting Matabeleland reached the present site of Salisbury on 12th September, 1890, without bloodshed or incident. The Anglo-Portuguese Agreement of 1891, which was finally confirmed by Signor Vigliani's award in 1897, settled the boundary disputes with the Portuguese on the eastern border.
+
+The Mashona readily accepted the arrival of the white men but the Matabele resented the restrictions which this entailed on their opportunities for raiding and pillaging the Mashona at will. In 1893, one of these Matabele raids led to the Matabele War which terminated the next year in the destruction of the Matabele power and the flight of Lobengula from Bulawayo. Matabeleland then came under the Chartered Company's civil administration.
+
+Hitherto, the territories under the Company's administration were known as Zambesia, but on the 3rd May, 1895, they were formally named "Rhodesia" by proclamation.
+
+The Matabele Rebellion broke out in 1896, due partly to the effects of drought and cattle disease and resentment at the defeat in 1893. The Matabele Rebellion ended after a few months but a series of rebellions by the Mashona dragged on until 1897 when peace was finally restored. Since then there have been no disturbances and the country has become settled and all sections law abiding.
+
+The territory was administered by the British South Africa Company from the commencement of European colonization in 1890 until the grant of Responsible Government in 1923. The Charter granted to the Company provided that it was subject to review, and possible termination, after twenty-five years from the date of the grant, and every period of ten years thereafter. From the early years of the occupation the settlers had consistently criticized the Administration and at various times had demanded self-government. Their demands for increased representation on the Legislative Council, which consisted of elected members (settlers) and official members (heads of Departments), resulted in concessions being made from time to time, so that in 1903 there were seven of each, and four years later the number of official members was reduced by two to give the settlers a majority. When the first period of twenty-five years of Charter rule expired in 1914, the Council, on which the settlers had a majority, requested that the Charter be continued for a further ten years, but in 1920 the Council passed a resolution requesting the establishment of Responsible Government "forthwith." The issue was put to the people as one of two choices, responsible government or entry into the Union of South Africa as the fifth province, and the referendum in 1922 resulted in a majority for self-government, by 8,774 against 5,989.
+
+Constitution
+
+On 12th September, 1923, therefore, Southern Rhodesia was formally annexed to the British Empire as a self-governing Colony. Under Letters Patent issued on 1st October, 1923, the Colony was granted full self-government with
+the exception that legislation affecting native interests, the Rhodesia Railways and certain other matters were reserved to the Secretary of State. Except for differential legislation affecting the native population, these reservations have fallen away so far as internal affairs are concerned. The United Kingdom Government conducts formal international relations on behalf of Southern Rhodesia. Commonwealth relations, trade relations, and relations with Colonial territories in Africa are mainly conducted by Southern Rhodesia direct. The Queen is represented by a Governor who is also Commander-in-Chief of the Colony, and he is assisted by an Executive Council, consisting of the Cabinet. Until 1948 the Cabinet comprised six Ministers, one of whom is the Prime Minister, but in 1948 the Constitution was amended to permit the appointment of a seventh Minister. There is a single Chamber of thirty Members representing single-member constituencies. Provision has now been made for the number of Members of Parliament to be increased to 40 at the next General Election. The franchise is extended to all Southern Rhodesian citizens, irrespective of colour, over the age of 21 who apply for registration, subject to certain economic and educational qualifications. A new resident must wait a minimum period of two years before qualifying for citizenship. The Voters' Roll at 31st May, 1951, showed 54,208 voters, of whom 572 were Asians, 613 Coloured and 453 Natives. The United Party has been in power since 1934 and attained a large majority in the last election in 1948. Sir Godfrey Huggins has been Prime Minister for the whole of the period. The Office of the High Commissioner for the United Kingdom was established at Salisbury on the 8th March, 1951.
+
+Governor: His Excellency Major-General Sir John Kennedy, G.C.M.G., K.C.V.O., K.B.E., C.B., M.C. (From 14th January, 1947).
+
+THE MINISTRY
+
+Prime Minister and Minister of Defence: The Rt. Hon. Sir Godfrey M. Huggins, C.H., K.C.M.G., M.P.
+
+Minister of Finance and Minister of Posts and Telegraphs: Hon. E. C. F. Whitehead, C.M.G., O.B.E., M.P.
+
+Minister of Internal Affairs and Minister of Justice: Hon. J. M. Greenfield, Q.C., M.P.
+
+Minister of Mines and Transport and Minister of Education: Hon. G. A. Davenport, C.M.G., M.P.
+
+Minister of Agriculture and Lands: Hon. J. M. Caldicott, M.P.
+
+Minister of Trade and Industrial Development: Hon. W. A. E. Winterton, M.P.
+
+Minister of Native Affairs and Minister of Health: Hon. P. B. Fletcher, C.M.G., M.P.
+
+Leader of the Opposition: R. O. Stockil, M.P.
+
+LEGISLATIVE ASSEMBLY
+
+Speaker: The Hon. T. I. F. Wilson, M.P.
+
+Deputy Speaker and Chairman of Committees: L. M. N. Hodson, O.B.E., Q.C., M.P.
+
+Clerk of the House: Colonel G. E. Wells, O.B.E., E.D.
+
+JUDICIARY
+
+Rhodesia and Nyasaland Appeal Court President: The Chief Justice of Southern Rhodesia: The Hon. Sir Robert Tredgold, C.M.G.
+
+Registrar: The Registrar of the High Court of Southern Rhodesia: S. G. A. Hinde.
+
+High Court of Southern Rhodesia Chief Justice: Hon. Sir Robert Tredgold, C.M.G.
+
+Puisne Judges: Hon. W. E. Thomas, O.B.E., M.C.; Hon. R. J. Morton, O.B.E., M.C.; Hon. T. H. W. Beadle, O.B.E.; Hon. V. E. Quenét.
+
+Water Court, Town Planning Court and Natural Resources Court Judge: H. J. Hoffman.
+
+Registrar: D. M. Rhind.
+
+Financial Adviser to the Government and Chairman of the Southern Rhodesia Currency Board: A. P. Grafftey Smith, C.B.E., T.D.
+
+GOVERNMENT DEPARTMENTS AND STATUTORY BODIES
+
+GOVERNOR'S OFFICE
+
+Secretary to the Governor and Clerk of the Executive Council: J. E. T. Hamilton.
+
+DIVISION OF PRIME MINISTER
+
+Prime Minister: Rt. Hon. Sir Godfrey Huggins, C.H., K.C.M.G., M.P.
+
+Secretary to Cabinet, Secretary to the Prime Minister, and Secretary for External Affairs: T. G. Gisborne, O.B.E.
+
+Assistant Secretary: G. B. Clarke.
+
+DIVISION OF DEFENCE
+
+Secretary for Defence: A. L. Reynolds, O.B.E.
+
+Commander, Military Forces: Brigadier S. Garlake, C.B.E.
+
+Chief of Staff: Col. R. E. B. Long, O.B.E.
+
+DIVISION OF FINANCE
+
+Secretary to Treasury: Sir A. H. Strachan, C.B.E.
+
+Assistant Secretary: C. E. M. Greenfield, M.B.E.
+Under-Secretary (Administration): H. von P. Lovemore.
+Under-Secretary (Finance): D. H. Cummings, M.B.E.
+Controller and Auditor-General: C. H. Bowen Davies, M.C.
+Assistant Controller and Auditor-General: J. Symons.
+Director of Census and Statistics: J. R. H. Shaul, O.B.E.
+Commissioner of Taxes: J. M. Osler.
+Controller, Customs and Excise: W. H. B. Shaw.
+Controller, Printing and Stationery: P. T. van der Walt.
+Chairman, Tender Board: L. G. Morgenrood.
+Secretary, Currency Board: J. Hick.
+Pensions Officer: L. W. Thompson.
+Treasury Officer of Accounts: W. Fick.
+Land and Agricultural Bank. Chairman: T. J. Rooney; Manager: V. von Memerty.
+
+DIVISION OF POSTS AND TELEGRAPHS
+Postmaster-General and Director of Broadcasting: F. R. Tait.
+Assistant Postmaster-General: H. W. Buckley.
+Chief Engineer: E. R. L. Jephcott.
+
+DIVISION OF MINES AND TRANSPORT
+Secretary for Mines and Transport: W. L. Garratt, O.B.E.
+Assistant Secretary for Mines and Transport: C. L. Honey.
+Under-Secretary (Transport): R. N. Tomlinson.
+Under-Secretary (Mines): R. S. Parsloe.
+Chief Government Mining Engineer: F. Elliott.
+Director, Geological Survey: J. C. Ferguson.
+Chief Road Engineer: J. H. Durr.
+Director, Civil Aviation: M. C. H. Barber, D.F.C.
+Director, Meteorological Services: N. P. Sellick, M.C.
+Rhodesia Railways: Chairman of Board: Sir Arthur Griffin, K.C.I.E., C.B.E.; Vice-Chairman: A. H. Strachan, C.B.E.; General Manager: H. B. Everard, D.S.O., T.D.
+
+DIVISION OF EDUCATION
+Secretary for Education: L. R. Morgan.
+Chief Education Officer: H. H. Cole.
+Chief Inspector of Schools: Dr. E. Rogers.
+Under-Secretary: D. P. C. Gumpertz.
+
+DIVISION OF INTERNAL AFFAIRS
+Secretary, Internal Affairs: A. D. Evans, M.B.E.
+Assistant Secretary: H. M. M. MacKenzie, M.B.E.
+Under-Secretaries: F. L. Finnie, M.B.E.; J. Armstrong; E. G. G. Marsh.
+Commissioner, Workmen's Compensation: W. MacDonald.
+Chief Industrial Inspector: W. F. Baillie.
+Chief Inspector of Factories: C. H. Clutterbuck.
+Chief Town Planning Officer: P. M. Aldred.
+Chief Archivist, Central African Archives: V. W. Hiller.
+Director, Public Relations: W. D. Gale, M.B.E.
+
+Public Service Board: Chairman, T. S. Chegwidden, C.B., C.V.O.; Members, F. T. Russell, M.B.E., A. G. Yardley; Secretary, S. M. Winsor.
+Chief Social Welfare Officer: F. S. Caley.
+Director of National Parks:
+Chairman, British Immigrants Selection Board: Col. W. W. Laird.
+
+DIVISION OF JUSTICE
+Secretary for Justice and Director of Prisons: A. L. Reynolds, O.B.E.
+Attorney-General: V. L. Robinson, O.B.E., Q.C.
+Solicitor-General: E. W. G. Jarvis, Q.C.
+Senior Legal Adviser: R. A. Yates.
+Under-Secretary: J. W. Pithey.
+Master of High Court: S. G. A. Hinde.
+Senior Civil Commissioners and Magistrates: J. W. Fitt, F. F. Roberts.
+Registrar of Deeds, Companies and Patents: T. St. J. Grant.
+Commissioner of British South Africa Police: Brigadier J. Appleby.
+
+DIVISION OF AGRICULTURE AND LANDS
+Secretary for Agriculture and Lands: N. E. Brookes.
+Assistant Secretary:
+Under-Secretaries: H. Holden; A. F. Martin.
+Senior Agricultural Economist: V. M. Wadsworth.
+Marketing Officer and Chairman, Grain Marketing Board: A. E. Cowie, I.S.O.
+Director of Research and Specialist Services: R. McChlery.
+Director of Conservation and Extension: C. A. Murray.
+Chief Conservator of Forests: E. J. Kelly-Edwards.
+Under-Secretary for Lands and Chairman, Land Settlement Board: A. Holden.
+Surveyor General: L. M. McBean, E.D.
+Director of Veterinary Services: J. S. Adamson.
+Director of Irrigation: P. H. Roberts.
+Chairman, Natural Resources Board: P. G. Deedes.
+Chairman, Cold Storage Commission: A. L. Millar, O.B.E.
+Chairman, Sugar Industry Board: C. L. Robertson, O.B.E.
+Chairman, Agricultural Marketing Council: A. G. Cowling, O.B.E., M.C.
+
+DIVISION OF TRADE AND INDUSTRIAL DEVELOPMENT
+Secretary, Trade and Industrial Development: N. R. Bertram, M.B.E.
+Assistant Secretary: J. Ward.
+Under-Secretaries: D. H. Tobilcock, C. F. Jamieson, D. J. Morris.
+Southern Rhodesia Representative on Customs Union Council: S. A. Rowe.
+Director of Public Works: J. J. Beaton (Acting).
+Director, Central Mechanical Equipment Department: P. J. B. Wimbush.
+Chairman, Cotton Research and Industry Board: G. S. Cameron, O.B.E., M.C.
+Chairman and Controller, National Building and Housing Board: H. J. Posselt, M.B.E.
+DIVISION OF TRADE AND INDUSTRIAL DEVELOPMENT—(Continued)
+
+Chairman, Electricity Supply Commission: A. B. Cowen.
+Chairman, Iron and Steel Commission: C. R. Hutchings.
+
+DIVISION OF NATIVE AFFAIRS
+
+Secretary for Native Affairs and Chief Native Commissioner: L. Powys-Jones.
+Assistant Chief Native Commissioner: J. V. Kerr.
+Assistant Secretaries: H. F. T. Child (Native Economic Development), J. S. Turton (Administration).
+Under-Secretaries: B. Walker; A. Pendred, M.B.E.
+Senior Provincial Native Commissioners: S. C. Parker; H. A. Cripwell.
+Director of Native Education: G. Stark.
+Commissioner of Native Labour: H. A. K. Simpkins.
+Director of Native Agriculture: R. M. Davies.
+Chief Land Officer, Native Area Administration: J. L. Reid.
+Chief Engineer: V. W. Hampton, M.B.E.
+
+DIVISION OF MINISTER OF HEALTH
+
+Secretary for Health: Dr. R. M. Morris, O.B.E.
+Director of Curative Services: Dr. G. R. Ross.
+Director of Preventive Services: Dr. D. M. Blair, O.B.E.
+Under-Secretary: L. R. S. Hill.
+
+LAND AND AGRICULTURAL BANK
+
+Manager: V. Von Memerty.
+
+SOUTHERN RHODESIA REPRESENTATIVES IN OTHER COMMONWEALTH COUNTRIES
+
+High Commission in the United Kingdom: Sir Gordon Munro, K.C.M.G., M.C.
+High Commissioner in the Union of South Africa: A. D. Chataway, M.B.E.
+
+REPRESENTATIVES IN SOUTHERN RHODESIA OF OTHER COMMONWEALTH COUNTRIES
+
+High Commissioner for the United Kingdom: I. M. R. Macleanan, C.M.G.
+High Commissioner for Union of South Africa: T. H. Eustace.
+Commissioner for the Government of India: Aga B. Pant (resident in Nairobi).
+
+SOUTHERN RHODESIA REPRESENTATIVES IN COUNTRIES OTHER THAN COMMONWEALTH COUNTRIES
+
+Portuguese East Africa: J. G. W. Baggott, M.B.E. (Consul) (Beira).
+
+REPRESENTATIVES IN SOUTHERN RHODESIA OF COUNTRIES OTHER THAN COMMONWEALTH COUNTRIES
+
+Belgium: W. Stevens (Consul-General).
+France: Comte R. de Warren (Consul).
+Italy: Dr. Emiliano Guidotti (Consul).
+Portugal: Dr. J. P. P. de Carvalho (Consul).
+United States: J. P. Hoover (Consul-General).
+HIGH COMMISSION TERRITORIES
+(BASUTOLAND, THE BECHUANALAND PROTECTORATE AND SWAZILAND)*
+
+High Commissioner: Sir John Le Rougetel, K.C.M.G., M.C. (from 2nd October, 1951).
+HIGH COMMISSIONER'S OFFICE
+Chief Secretary to High Commissioner: R. E. Turnbull, C.M.G.
+Assistant Chief Secretary: M. O. Wray.
+Assistant Chief Secretary (Finance): A. W. Walters, O.B.E.
+Assistant Secretaries: J. A. Steward, M.B.E.; J. C. Martin.
+Attorney-General: A. C. Thompson, Q.C., M.C.
+
+Private Secretary to High Commissioner: W. M. Storrs.
+Chief Justice of Basutoland, Bechuanaland Protectorate and Swaziland: Sir Harold Willan, C.M.G., M.C.
+
+AGENCY FOR HIGH COMMISSION TERRITORIES (JOHANNESBURG)
+Agent: G. E. Pott, M.B.E.
+Deputy Agents: M. G. McLeod (Randfontein); D. K. J. Graham (Springs); E. G. Dutton, I.S.O. (Welkom).
+
+BASUTOLAND
+
+Physical Characteristics
+The Colony of Basutoland is an enclave within the Union of South Africa, its boundaries running with those of Natal Province to the east, Cape Province to the south, and the Orange Free State to the north and west. It is about the size of Belgium. It comprises an area of 11,716 square miles, of which about one-quarter in the west is relatively lowland country varying in height above sea-level from 5,000 to 6,000 feet, the remaining three-quarters being highlands rising to a height of 11,000 feet in the Drakensberg Range, which forms the eastern boundary with Natal. The mountain ranges run from north to south and those in the central area are spurs of the main Drakensberg Range which they join in the north, forming a high plateau varying in height from 9,000 to 10,500 feet, where some of the largest rivers of the Union, the Orange, the Caledon, and the Tugela, have their sources. This has caused Basutoland to be called the "sponge" of South Africa.
+
+The capital is Maseru.
+
+Climate and Rainfall
+Rainfall is variable and averages approximately 28 inches a year over most of the country. The deciding factors from the agricultural point of view are whether the rain comes at intervals suited to the growth of the staple crops and whether it comes in the form of short and heavy storms, running to waste and eroding the soil, or in steady, soaking showers. In the lowlands, temperatures vary from a maximum of 90° or more in summer to a minimum that rarely drops below 20° in winter; in the highlands the range is much wider and temperatures below zero are by no means unknown.
+
+Economic Resources
+A recent geological survey has shown complete absence of mineral wealth, so the future can hold out no prospect of any development in this direction.
+
+The wealth of the Basuto must therefore lie in agricultural production. The chief exports at present are wheat and wool, which bring an annual revenue of about £1,900,000 to the growers. It is estimated that of the 7,498,240 acres in the territory about 1,200,000 acres are under cultivation.
+
+The soils in the mountain areas are of basaltic origin, while those in the lowlands are derived mainly from underlying cave sandstone. In the lowlands the soil has been cropped continuously for upwards of 80 years. Due to the absence of fuel, practically all cattle manure is burnt, so that little or no organic matter is returned to the land. Thus with increasing population, both human and livestock, excessive demands have been made on the soil, which has lost its structure and become subject to serious erosion. The soils in the mountains, which have been brought into cultivation comparatively recently, are rich though shallow. Owing to uncontrolled grazing, areas situated above the
+
+*For further information, see the Annual Reports, published by H.M. Stationery Office.
+arable land have in many places been denuded of grass cover, and the rush of surface water from those areas is causing serious gully erosion on the arable land situated below. Efforts are being made to prevent the further depletion of existing forests, and by September, 1951, some 895,000 trees were planted in favoured sites as part of soil conservation measures.
+
+In 1951 there were 401,221 cattle and 1,564,001 sheep in the territory. The value of £192,841, but imports of wheat, maize, and kaffir corn were to a value £373,106. In good years some two-thirds of the wheat crop is usually available for export, but the amount of maize, sorghum and peas imported invariably exceeds the exports.
+
+In 1951 there were 401,221 cattle and 1,564,001 sheep in the territory. The Basuto are, however, largely uninterested in the disposal of their livestock, preferring instead to store their wealth in this form, despite over-stocking, and only 3,591 cattle and 4,381 sheep were exported during 1951. Wool, and to a much lesser degree, hides and skins, continue to be the main sources of cash income from the animal population. The total quantity exported in 1951 was 6,818,020 lb. of wool and 1,033,748 lb. of mohair, to a total value of £1,866,535. Malnutrition is the greatest single adverse factor in the health of the animals.
+
+Communications and Transport
+
+The territory is linked with the railway system of the Union of South Africa by a short branch-line from Maseru to Marseilles on the Bloemfontein-Natal main line. One mile of this line is in Basutoland. The South African Railway runs near the boundaries of the territory and goods are transported by road to the nearest railway station across the border.
+
+The Road Motor Transport Department of the South African Railways run regular services between Fouriesburg and Butha-Buthé, Zastron, and Quthing, Zastron and Mohale's Hoek, and Quthing and Sebapala.
+
+The greater part of Basutoland is very mountainous and in this area all transport is by pack-animals.
+
+On the western side of Basutoland a fairly good road system has been developed in the strip of agricultural country running from north to south. The main roads traverse the whole of this area, with branches leading west to the principal points of exit. From the main roads a number of feeder-roads lead towards the interior.
+
+Imports and Exports
+
+The total values of imports and exports during the years 1920-51 were:
+
+| Year | Imports   | Exports   |
+|------|-----------|-----------|
+| 1920 | 1,180,986 | 937,038   |
+| 1928 | 921,573   | 1,013,392 |
+| 1936 | 712,125   | 302,193   |
+| 1944 | 1,422,525 | 516,538   |
+| 1947 | 1,628,521 | 887,773   |
+| 1949 | 2,244,117 | 1,485,896 |
+| 1950 | 2,432,637 | 2,532,330 |
+| 1951 | 2,836,059 | 2,800,573 |
+
+Finance
+
+The revenue is derived mainly from Native tax and customs, which produced respectively £284,301 and £343,728 in 1950-51, out of a total revenue of £988,603. In that year a contribution of £89,863 was received under the Colonial Development and Welfare Act. The estimates for the year provided for a deficit of £28,398 and the surplus balance at 31st March, 1951, was £456,857.
+
+The rate of Native tax is 34s. for each adult male domiciled in Basutoland, but the more wealthy people pay 40s. In addition, a tax of 25s. is payable for each wife after the first, but no native is liable to pay tax for more than two additional wives.
+Basutoland is a member of the South African Customs Union and is dealt with for customs purposes as a part of the Union, receiving a fixed percentage (0.88575 per cent.) of the gross customs revenue collected on imports into the Union.
+
+Currency and Banking
+
+There are no agricultural or co-operative banks within the territory; but the Standard Bank of South Africa Limited has a branch at Maseru. This is the only bank in the territory.
+
+The currency is provided for under Proclamation 2 of 1933 and is the same as in the Union of South Africa.
+
+Population
+
+At the general census of 1875, when Basutoland formed part of Cape Colony, Europeans numbered 499 and Natives 127,707.
+
+A census of all races held in May, 1946 gave the following figures: Basuto 561,289, Europeans 1,689, Coloured and Asians 876. These figures indicate that there has been an increase of 2,016 in the Native population living in the territory since the last census in 1936. It is generally agreed that this small increase is not due to faulty enumeration, but to certain economic factors and the lure of industry in the neighbouring territory of the Union.
+
+It appears that many Basuto are gradually discarding their feudal mode of life and that education and the lure of urban amenities and opportunity make it inevitable that they should be drawn to the Union. It is evident that many are staying on the Reef after the completion of their contracts instead of returning home.
+
+Basutoland is a pastoral country without factories or industrial undertakings, and since the produce of the land cannot support the total population, many able-bodied Basuto have for years left the territory to take up or seek employment in the Union of South Africa. 31,004 passes were issued in 1951 to Basuto taking up employment in the mines, 7,105 for agricultural labour, and 26,732 for miscellaneous labour. A number of workers had, however, remained at the mines from 1947 and the total number employed at the close of 1951 was over 36,600. Approximately a further 27,000 Basuto men are normally absent working on farms in the Union.
+
+Many of the Basuto on the Witwatersrand remit money to their families through the Native Recruiting Corporation Limited and the Native Deposit and Remittance Agency, and a large percentage of the natives recruited for the mines defer a portion of their earnings for payment to them on their return to Basutoland. During the year 1951, £146,700 was remitted and £183,200 paid out as deferred wages.
+
+The Government protects labourers by stopping recruitment for any mine or other concern where the conditions of work are not good. All labourers recruited by agents in Basutoland for work outside the territory have to be attested before a European official and the contract must be according to Government Regulations.
+
+History
+
+The Basuto appear to have been composed of the remains of several tribes which had been broken up in the wars waged by Mzilikazi, the king of the Matabele, in the early years of the nineteenth century. These remnants were united about 1818 under Moshesh, a chief of great ability who ruled until 1874. From 1856 to 1868 Moshesh was intermittently at war with the Orange Free State, and in the course of these struggles he claimed the protection of the Governor of the Cape Colony. In 1868 the Governor received authority to recognize Moshesh and his tribe as British subjects and to incorporate their territory. This was carried into effect by a Proclamation of 12th March, 1868. The country was annexed to the Cape by an Act of the Cape Legislature, No. 12 of 1871. Difficulties between the Colonial Government and the Basuto
+led in 1874 to the decision that the Imperial Government should undertake for the time being the administration of the country, the Colony paying over towards the cost of administration the customs duties received on goods imported into Basutoland.
+
+Administration
+
+The territory is governed by a Resident Commissioner under the direction of the High Commissioner for Basutoland, the Bechuanaland Protectorate and Swaziland, the latter possessing legislative authority which is exercised by proclamation.
+
+Native courts were formally recognized and given special powers and jurisdiction under Proclamation No. 62 of 1928. They are established by warrant issued by the Resident Commissioner and may exercise civil and criminal jurisdiction to the extent set out in their warrants. They have no jurisdiction over any parties other than Natives and deal mainly with offences against Native Law and Custom and infringements of the Paramount Chiefs' orders or those of Chiefs and Sub-Chiefs, and with civil disputes. District Officers have access to Native Courts and the right to examine case records with powers of revision in the event of a miscarriage of justice. All cases between Natives and Europeans and certain cases involving Natives only are heard in the Courts of District Commissioners. There is a High Court, presided over by a Judge appointed by the High Commissioner, which has jurisdiction in all cases, civil and criminal subject to a right of appeal in certain cases to the Privy Council.
+
+For administrative purposes the country is divided into nine districts, namely, Maseru, Leribe, Mohale's Hoek, Mafeteng, Quthing, Qacka's Nek, Butha-Buthé, Mokhotlong, and Berea. These districts are divided into chiefdoms and sub-chiefdoms presided over by hereditary chiefs and sub-chiefs who are responsible to the Paramount Chief in all matters relating to native law and custom.
+
+In 1943 a District Council was established in each of the Districts. These Councils each elected two members for appointment to the Basutoland Council, which, constituted by proclamation in 1910, consists of the Resident Commissioner as President, the Paramount Chief and 99 Basuto members. The law was amended in 1950 to provide for an increase from two to four in the number of members elected by each District Council. The constitution of the Council is now 52 Paramount Chief's nominees, 5 Government nominees, 36 District Councils' members, and 6 sectional representatives (elected by bodies such as the Agricultural Association and the Teachers' Association). The Council is consulted by the Government before enacting proclamations closely affecting the domestic affairs and welfare of the Basuto people or the progress and development of the Basuto Native Administration.
+
+Education
+
+Education is largely in the hands of the three main missions, under the direction of the Education Department. Large grants-in-aid which cover teachers' salaries in all aided schools and the salary of one teacher in each partially-aided school are made to the missions by Government. There are 795 fully or partially aided schools out of the total of 900 schools in the territory. The total enrolment in primary schools is 29,650 boys and 58,597 girls. In secondary, teacher-training and technical schools there are 758 boys and 393 girls. A private college is maintained by the Roman Catholic Mission at Rome for university training; it has 23 students. Most university education is obtained at the Fort Hare University College in the Union of South Africa, to which Basutoland now contributes £500 annually. All primary education is free; bursaries are provided at all stages for secondary, teacher-training and university work.
+
+Health
+
+The Government Medical Staff of the territory consists of a Director of Medical Services, 14 Medical Officers and one District Surgeon. There is also
+a Medical Superintendent at the leper settlement. There are four Government hospitals, staffed by European nursing sisters with subordinate African staff, and four hospitals staffed by trained African nurses with subordinate staff. There is accommodation for 359 African and 13 European patients in the Government hospitals. There are four mission hospitals subsidized by the Government, with 40, 32, 31 and 43 beds respectively. During 1951, 9,387 patients were admitted to Government hospitals, compared with 8,958 in 1950. During the period 1937 to 1951 the out-patients increased from 110,807 to 191,764. There were comparatively few epidemic diseases during 1951. The leper settlement four miles out of Maseru had 539 patients at the end of 1951.
+
+BASUTOLAND
+
+CIVIL ESTABLISHMENT
+
+Resident Commissioner: E. P. Arrowsmith, C.M.G.
+
+SECRETARIAT
+
+Deputy Resident Commissioner and Government Secretary: B. A. Marwick, O.B.E.
+First Assistant Secretary: H. M. L. Shearer.
+Assistant Secretary: J. T. Mohapcloa.
+
+DISTRICT ADMINISTRATION
+
+Administrative Officers, Staff Grade: E. C. Butler, I.S.O.; H. J. D. Elliott, O.B.E.
+District Officers and Assistant District Officers: R. E. K. Murray; R. F. Thompson; W. G. S. Driver; D. M. Wilson; T. W. Fraser, M.B.E.; V. Gillet; H. L. Acutt; G. E. Pott, M.B.E.; F. G. Muirhead; D. Inglis; H. D. Hebblewaite; R. P. Fawcus; E. Waddington; E. C. De Chazal; A. J. A. Douglas, M.B.E.; R. D. Cordery; R. E. Snowden; J. A. Steward, M.B.E.; A. H. Donald; D. H. Taylor; J. P. I. Hennessy; W. M. Storrs†; P. Bridges; C. D. Stenton; J. M. Hurley.
+
+AGRICULTURE AND VETERINARY
+
+Director of Agricultural and Livestock Services: J. G. M. King, M.B.E.
+Principal Agricultural Officer: P. A. Bowman.
+Assistant Principal Veterinary Officer: P. H. Brown.
+Veterinary Officer: W. M. Fitzsimmons.
+Soil Conservation Officer: L. H. Collett, O.B.E.
+Wool and Mohair Officer: G. R. Chalmers.
+Agricultural and Livestock Officers: A. E. Hensley; R. K. Tennant; J. G. S. Bennet; I. L. Chard; M. R. H. Barry; H. B. Wroughton; A. Bisschoff; A. G. Brightmore; E. J. V. Wiggill; A. L. Mapham; V. Gilbey.
+Auditor (for High Commission Territories)
+Principal Auditor: J. H. Belderson.
+Assistant Auditor: R. G. Gorton.
+
+CO-OPERATION
+
+Registrar of Co-operative Societies: H. M. L. Shearer.
+
+EDUCATION
+
+Director of Education: D. H. Creed-Newton, M.B.E. (Acting).
+Senior Education Officer:
+Education Officers: E. T. Grieveson; J. C. Plymen; R. C. Ellis; J. Walton; Miss A. C. Reed; J. M. Mohapcloa.
+
+JUDICIAL AND LEGAL
+
+Legal Secretary:
+
+MEDICAL
+
+Director of Medical Services: R. Jacobson.
+Medical Officers: R. C. Ogg; K. E. A. U. Ground; R. E. J. Clarke; B. D. Whitworth; P. A. M. Dace-Lace; J. D. Strachan; R. L. Markham; J. de M. Vink; D. G. Standing; G. G. Smits; S. T. Makenete.
+Senior Matron: Miss L. Meredith.
+
+LEPER SETTLEMENT
+
+Superintendent of Leper Settlement: A. C. Jaques.
+
+POLICE
+
+Commissioner of Police: D. R. Owens.
+Deputy Commissioner: P. H. Kitson.
+Superintendents: P. D. Williams; R. M. Williams; H. A. Fox; M. C. Manby; K. E. Shortt-Smith; G. C. de B. Blampied; M. C. Van Straaten, M.B.E.; J. F. Castle; R. A. P. H. Dutton, D.F.C.
+Assistant Superintendents: A. R. Kennedy; R. N. Preston-Whyte; B. R. Sands§.
+
+PRISONS
+
+Superintendent of Prisons: A. Penter.
+Assistant Superintendent: W. V. Cornish.
+
+POSTS AND TELEGRAPHS
+
+Senior Postmaster: C. H. Williams, M.B.E.
+Postmasters: E. L. Ford; N. L. Smyth; L. H. S. Ford; D. Scott; J. Blignaut; R. P. Jones; H. F. Rose.
+
+PUBLIC WORKS
+
+Government Engineer: W. J. Deal.
+Surveyor: R. M. T. Phillips.
+Senior Building Superintendent: W. Forsyth.
+
+STORES
+
+Comptroller of Stores: P. E. Going.
+
+TREASURY
+
+Financial Secretary: E. C. Allen, O.B.E.
+Assistant Treasurer: H. M. J. Underhay.
+Income Tax Officer: W. M. Jarvis.
+
+†Seconded to High Commissioner's Office.
+‡Seconded to Mauritius.
+§Seconded to the Bechuanaland Protectorate.
+THE BECHUANALAND PROTECTORATE
+
+Physical Characteristics
+
+The Bechuanaland Protectorate is bounded on the south and east by the western boundary of the Union of South Africa, which follows the Notwani, Marico, and Crocodile or Limpopo Rivers, on the north-east by Southern Rhodesia, and on the north and west by the Caprivi Zipfel and the territory of South-West Africa. The Protectorate has not been surveyed as a whole, but its area is estimated at 275,000 square miles. The headquarters of the Protectorate Administration is at Mafeking, across the border in the Cape Province of the Union of South Africa.
+
+The Kalahari Desert extends over most of the Protectorate west and south of Ngamiland as far as latitude 27°. This is not a desert in the commonly accepted sense of the word, but consists of vast expanse of undulating sand-belts with outcrops of limestone. In these limestone belts water is sometimes found at depths from 30 to 100 feet, and it is possible that under the deep overburden of sand there may exist untapped reservoirs. The northern and south-western corners of the Kalahari have the least vegetation and most sand-dunes, but elsewhere the grasses are excellent, and this is the natural habitat of the aboriginal Bushmen. Large areas are wooded like park-lands with camel-thorn and other indigenous trees.
+
+In the north-western part of the Protectorate the Okovango River, flowing inland from Angola, widens into a delta from which flood-waters, in seasons of heavy rainfall, flow as far south-east as the Makarikari salt-lake and south and south-west into Lake Ngami. The Chobe River, also flowing from Angola, inundates a large area in the north before flowing into the Zambesi 60 miles west of the Victoria Falls.
+
+The mean altitude of the Protectorate is 3,000 feet, and in the eastern portion occasional elevations, e.g. at Kanye, Serowe, and Ghanzi, reach 4,000 to 5,000 feet.
+
+The Protectorate as a whole is a natural game-reserve for most species of the fauna of Africa, and Government policy aims at their preservation.
+
+Climate
+
+The climate is sub-tropical (latitude 22°S. passes through the centre of the Protectorate) but varies with latitude and altitude.
+
+The average annual rainfall is 18 inches, varying from 25 inches in the north to 9 inches or less in the western Kalahari.
+
+In the higher parts, days are pleasantly warm and the nights cold during the winter, but the summer is universally hot. In August, seasonal winds blow from the west coast and, desiccated by the Kalahari, carry sand and dust across the whole country.
+
+The atmosphere throughout the year is very dry, and this helps somewhat to mitigate the high temperature.
+
+Economic Resources
+
+Livestock. The main occupation of the Bechuana is cattle-raising. The number of cattle in 1951 was 1,026,845, of which 77,995 were exported. There were also 673,069 sheep and goats. Seasonal lack of water and grazing and bad animal husbandry are the chief handicaps to the expansion of the industry.
+
+Agriculture. Poor rainfall and primitive agricultural practices, aggravated by the migration of able-bodied men to work in the Union, tend to produce frequent crop failures. The principal crops are sorghum and beans.
+
+Mining. A little gold is mined in the north-east, and asbestos near Kanye in the Bangwaketse Reserve.
+Communications and Transport
+
+Railways. The main railway line from Cape Town to the north runs through the Protectorate, entering it at Ramathlabama, 886 miles from Cape Town, and leaving it at Ramaquabane, 394 miles further north. The line runs roughly parallel to the eastern boundary of the territory at an average distance from it of about 50 miles. The railway within the territory is operated jointly by the Rhodesia Railways Limited and the South African Railways. The gauge is 3 feet 6 inches.
+
+Roads and Bridges. The roads are almost exclusively of earth—or sand—the only exceptions being short lengths of gravel, and in one instance tarred macadam, where they pass through townships. The chief rivers are bridged.
+
+Aerodromes. Nine landing-grounds are maintained.
+
+Imports and Exports
+
+The total exports for 1951 were £2,153,365 and imports £1,674,372. Cattle exported were valued at £1,439,339 and gold at £6,123. The principal imports were maize £109,102, vehicles £87,719, general merchandise £718,735, other foodstuffs £212,528 and textiles £588,248. The account is largely balanced by the remittances from Bechuanaland natives employed in the South African mines.
+
+Finance
+
+Revenue for the year 1951-52 amounted to £770,043 and the expenditure to £620,086 excluding Colonial Development and Welfare Fund transactions. The chief sources of revenue were subvention from Rhodesia Railways £195,756, customs and excise £132,249, income tax £124,912, and Native tax £105,863. The customs revenue is received from the Government of the Union of South Africa by an agreement under which duty on all dutiable articles imported into the Protectorate is collected by the Union's Customs Department and paid into the Union Treasury, a lump sum representing 0.27622 per cent. of the annual customs revenue of the Union being paid in return to the Bechuanaland Protectorate. Under the Colonial Development and Welfare Act, £150,705 was received in 1951-52 for water development (surface and underground), agricultural and livestock services including development of African agriculture, tsetse fly control, geological and mineral surveys, development of medical services and education and equipment for the mechanical workshops.
+
+Currency and Banking
+
+Union Government currency is the legal tender of the territory, but in the northern part of the Protectorate Southern Rhodesian currency is also used and accepted at par. There are no banks in the Territory but the Standard Bank of South Africa and Barclays Bank (D.C.O.) operate once a week at Lobatsi by representatives from Mafeking branches.
+
+Population
+
+The last census was taken in 1946 and showed a population of 2,379 Europeans, 292,755 Africans (including Bushmen), 1,082 Coloured and 94 Asians.
+
+The population is not evenly distributed, the bulk of the people living in the eastern part of the Protectorate with one fairly large tribe occupying the north-western corner. The central, western and southern areas of the territory, consisting for the most part of the Kalahari Desert, are extremely sparsely inhabited.
+
+The Bechuana tribes tend to live in large villages or towns. About one-half of the population lives in towns of more than 1,000 inhabitants.
+
+Administration
+
+In 1884 the British Government appointed a Deputy Commissioner to the Bechuana tribes and in 1885 the whole of the Bechuanaland was, with the
+concurrence of Khama and other principal Chiefs, proclaimed to be under the protection of Her Majesty the Queen. The southern part of the territory, which included Mafeking, Vryburg and Kuruman, was later constituted a Crown Colony: it eventually became part of the Cape Colony, and subsequently of the Cape Province of the Union of South Africa. It is known as Bechuanaland. The northern part, henceforward known as the Bechuanaland Protectorate, has continued to be administered by the Government of the United Kingdom.
+
+The administration of the Bechuanaland Protectorate is governed by various Orders in Council and Proclamations, of which the most important is the Order in Council of Her Majesty Queen Victoria dated the 9th May, 1891. That Order empowered the then High Commissioner for South Africa to exercise on Her Majesty’s behalf all the powers and jurisdiction which Her Majesty had or might have within the Protectorate, and to that end authorized him to take or cause to be taken all such measures as he might think expedient, subject to such instructions as he might from time to time receive from Her Majesty or through a Secretary of State.
+
+Other provisions of the Order empowered the High Commissioner—
+
+(1) to appoint administrative and judicial officers and to assign their functions to them subject to the preservation of his own powers in their entirety; and
+
+(2) to provide, by proclamation from time to time, for the administration of justice, the raising of revenue, and the peace, order and good government of all persons within the Protectorate, including the prohibition and punishment of acts tending to disturb the public peace.
+
+In issuing these proclamations the High Commissioner was instructed by the Order in Council to respect any Native laws and customs by which the civil relations of any Native chiefs, tribes or population under Her Majesty’s protection were at that time (viz., in May 1891) regulated, except in so far as the same might be incompatible with the due exercise of Her Majesty’s power and jurisdiction or which were repugnant to humanity.
+
+The Order required the High Commissioner to publish his proclamations in the Gazette and reserved to Her Majesty the right to disallow any such proclamation. The Order also provided that subject to any proclamation lawfully issued by the High Commissioner, any jurisdiction exercisable otherwise than under this Order in Council of 1891, whether by virtue of any Statute or Order in Council, or of any treaty, or otherwise, should remain in full force.
+
+Her Majesty reserved the power to revoke, alter, add to or amend this Order at any time.
+
+The Protectorate is administered by a Resident Commissioner under the direction of the High Commissioner for Basutoland, the Bechuanaland Protectorate and Swaziland (formerly styled the High Commissioner for South Africa), and is divided, for administrative purposes, into ten districts under District Commissioners and Assistant District Commissioners, who are assisted in the maintenance of law and order by a force of police.
+
+The territory comprises Crown lands, blocks of European farms, and Native Reserves.
+
+In the Native areas the method of administration is that generally known as “indirect rule.” Native administrations were formally established and the powers and rights of Native authorities were defined in the Native Administration and Native Courts Proclamations of 1943 (Caps. 56 and 5 of the Laws) which replace the original Proclamations 74 and 75 of 1934. In 1938 Native Treasuries were successfully established in all Native Reserves. Government pays 35 per cent. of each Native Administration’s collection of native tax to the tribal treasury concerned; other sources of revenue are a graded tax and stand-rents.
+In the preparation of estimates and the general management of their treasuries, the chiefs and finance committees, under the guidance of District Commissioners, display an intelligent and keen appreciation of their responsibilities.
+
+There is an African Advisory Council, which meets usually once a year under the presidency of the Resident Commissioner, and this is attended by the Chiefs and tribal representatives from the various Native Reserves and non-tribal areas.
+
+A European Advisory Council meets twice a year under the presidency of the Resident Commissioner. There are eight members, who are elected to represent the interests of the European residents in the eight electoral areas into which the Protectorate is divided.
+
+In 1950 a Joint Advisory Council was instituted, consisting of the eight members of the European Advisory Council and eight representatives of the African Advisory Council, under the presidency of the Resident Commissioner. It normally meets twice a year.
+
+Health
+
+There are five Government hospitals and fourteen dispensaries, while various missions administer eight hospitals and dispensaries. These hospitals and dispensaries provide 421 beds, equivalent to one bed for 695.37 of the population. During 1951 7,525 patients were admitted to the hospitals, and attendances for treatment as out-patients numbered 361,094. Maternity work, including antenatal and post-natal care, is mainly carried out in the hospitals, but there are two special maternity centres, one run by the London Missionary Society and one by a tribal authority. Both are supervised by the Government Medical Officer of the district.
+
+The technical medical staff consists of the Director of Medical Services, ten Medical Officers, three Health Inspectors, four Matrons and nine European Sisters. There is a subsidiary African staff, trained, semi-trained and untrained. In addition there are five medical missionaries and subsidiary staff, both European and African.
+
+African nurses are trained at both Government and Mission hospitals. Midwives are trained at the Government hospital at Serowe. Nurses undergo a three-year course in general nursing, at the end of which they receive a year's training in midwifery.
+
+African Sanitary Inspectors are trained under the surveillance of the Health Inspectors.
+
+Sanitation is still primitive and undeveloped. The main difficulty is the absence of adequate water-supplies.
+
+Investigations have established the presence of yellow fever in the Ngamiland and Chobe areas of the territory, and legislation dealing with the control of aircraft and the prophylactic inoculation of exposed persons has been enacted.
+
+Education
+
+African. As there are eight main tribes in the Protectorate, communications primitive and distances vast, and financial resources far from commensurate with urgent needs, the administration and promotion of education are unusually difficult.
+
+Most of the work has been devolved to eight tribal central school committees, in addition to which there are two committees for non-tribal polyglot areas, and in three remote areas education is administered directly by the District Commissioners concerned and the Department of Education.
+
+Primary Education. Enrolled in the 143 primary and higher primary schools in the Protectorate during 1951 were 17,622 pupils of whom 63.3 per cent. were girls. The disparity between the sexes, caused by the absence of boys at cattle-
+posts and on the land, has had a retarding influence ever since schools were first established. Four higher primary schools were built and equipped, by means of a grant under the Colonial Development and Welfare Act, to provide instruction in the last two years of the primary course, i.e., in Standards V and VI, under more favourable conditions than obtain in the district schools. At St. Joseph's Mission, Khale, both primary and post-primary work up to the junior certificate stage is carried on.
+
+Post-Primary Education. The Bamangwato College, on which over £100,000 has so far been spent, was opened in January, 1949, but is not yet completed. The College is controlled by a Board of Governors, on which tribal representatives have a majority representation. 77 students are enrolled. St. Joseph's Junior Secondary School has an enrolment of 53.
+
+Teacher-Training. A rudimentary two-year course of day-training at Kanye has been converted into a residential course of three years at a level sufficiently high to be equated with the Native Primary Lower Course of South Africa. A sum of £18,384 was included in a grant under the Colonial Development and Welfare Act for the building of a new Teacher-Training College.
+
+Youth Movements. There are 1,400 Boy Scouts, divided into 30 groups, and 2,000 Girl Guides, in 39 groups. Monthly bulletins were issued to all Scout and Guide officers, and a weekly Scout letter was published in Naledi Ya Batswana, the national newspaper of the Bechuana. A Government grant of £150 per year, divided equally between the two movements, is applied chiefly to training and travelling expenses.
+
+European Education.
+
+Primary Education. There are ten schools with a total enrolment of 260, of whom 139 are boys. Teachers number 16 (four male and twelve female), of whom 14 are qualified.
+
+The Lobatsi school is a Government school and the others are maintained by the local communities assisted by Government grants. In each case the chairman of the Local Committee is the District Commissioner.
+
+All schools are under the control of local committees presided over by the District Commissioner, and are assisted by Government grants.
+
+The sum of £2,300 was spent on bursaries and educational grants to the children of residents, both official and unofficial, thus making possible post-primary assistance as well as bursaries at approved primary schools outside the Protectorate.
+
+Post-Primary Education. In view of the small school constituency which it would serve, there is no provision for secondary education for European children in the territory, the need being partially met by the bursaries referred to above.
+
+The total expenditure on educational services from funds controlled by Government and by Native Administrations during the year 1950-51 was £81,314. Of this total approximately £70,284 was spent on African education, £10,083 on European and £947 on Coloured education.
+
+THE BECHUANALAND PROTECTORATE
+
+Resident Commissioner: W. F. MacKenzie, C.B.E.
+
+SECRETARIAT
+
+Deputy Resident Commissioner and Government Secretary: C. R. Latimer, O.B.E.
+
+DISTRICT ADMINISTRATION
+
+Administrative Officers (Staff Grade): S. V. Lawrenson; J. D. A. Germond, C.B.E.; J. F. Millard, M.B.E.
+
+District Officers and Assistant District Officers: A. N. W. Matthews; J. C. E. Bowen; J. A. Allison; C. C. McLaren; P. G. Batho; R. A. R. Bent*; P. Cardross Grant, M.B.E.; G. J. L. Atkinson; N. B. Rutherford; E. H. Midgley; C. E. Clark; N. V. Redman; M. J. Fairlie; D. A. T. Atkins, G.M.; F. G. Holmes; T. G. Moore; D. M. Robinson; K. M. Kgopo.
+
+* Seconded to Colonial Office.
+ADMINISTRATION OF JUSTICE
+Legal Adviser: R. Kelly.
+Registrar of the High Court: J. N. Scott.
+
+AUDIT
+Principal Auditor: J. H. Belderson.
+Assistant Auditor:
+
+AGRICULTURE
+Director of Agriculture: F. H. Bosman.
+Agricultural Officers: F. O. A. Wandle; J. S. Hutcheson.
+Field Husbandry Officer: F. B. H. Watermeyer.
+Dairy Officer: W. J. Chase.
+
+EDUCATION
+Director of Education: J. Gardiner.
+Education Officer: C. Hunter.
+Welfare Officer and Organizing Secretary of Youth Movements: J. F. Leech.
+
+GEOLOGICAL SURVEY
+Geologists: D. Green; C. Boocock; O. J. van Straten.
+Petrologist: (Vacant).
+
+MEDICAL
+Director of Medical Services: M. L. Freedman, O.B.E.
+Medical Officers: A. A. Morgan; B. T. Squires; A. G. Cunningham; W. R. Gemmell; C. A. van Rooyen; W. E. Laufer; C. F. Hansford; J. Oliver; D. F. T. Moikangoa.
+
+POLICE
+Commissioner of Police and Chief Immigration Officer: M. R. D. Langley, O.B.E., M.V.O.
+Deputy Commissioner: R. O. Hassell.
+Superintendents: G. R. Brooks; G. W. Taylor; A. D. Clark.
+Assistant Superintendents: T. M. McDermott; K. A. Lowry; W. Mallen.
+
+POSTS AND TELEGRAPHICS
+Postmasters: A. Jacobson; L. G. Duhy; J. W. W. Burgess; J. J. Higgo.
+
+PUBLIC WORKS
+Director of Public Works: H. V. Davies.
+Architect: J. L. Harrison.
+Assistant Engineer: S. A. Burgess.
+Senior Works Superintendent: T. J. Powell.
+Executive Mechanical Engineer: J. W. McIlraith.
+Assistant Mechanical Engineer: H. G. Stark.
+Drill Superintendent: A. H. T. Kneen.
+Field Engineer: R. H. Freislich.
+Surveyor: C. G. du Toit.
+
+STORES
+Controller of Stores: J. H. Pryer.
+
+TREASURY
+Treasurer: G. A. L. Rutledge.
+Assistant Treasurer: C. J. Nelson.
+Income Tax Officer: W. R. McIntosh.
+
+TSETSE FLY CONTROL
+Tsetse Fly Control Officer: I. J. Lewis.
+
+VETERINARY
+Director of Veterinary Services: J. E. R. Roe.
+Senior Veterinary Officer: N. H. Boardman.
+Veterinary Officers: D. L. Kelly; M. S. Reichert; J. B. Condy; P. J. Posthumus.
+
+SWAZILAND
+
+Physical Characteristics
+
+Swaziland is a small protectorate, about the size of Wales, with a maximum length from north to south of approximately 120 miles and a maximum breadth of 90 miles. The total area is 6,704 sq. miles. Apart from the Gambia, it is the smallest dependency on the Continent of Africa. It is enclosed on the north, west and south by the Transvaal Province of the Union of South Africa and on the east by Portuguese East Africa and by the Natal Province. The headquarters of the Government is at Mbabane.
+
+The territory consists of three fairly well-defined regions of approximately equal breadth running from north to south. The mountainous high veld on the west is part of the Drakensberg range and rises to an altitude of over 5,000 feet, averaging about 3,500 feet. The middle veld averages some 2,000 feet, and the low veld on the east ranges from 500 to 1,500 feet. On the eastern border lies the plateau called the Lebombo mountains, traversed by the gorges of the Ingwavuma, the Usutu and the Black Umbuluzi rivers which, excluding the Komati River which flows across the north-western portion of the territory, are the most important rivers in Swaziland. Immediately west of this plateau, which though broken is mainly very fertile, the ground falls abruptly in rocky cliffs to the Lebombo flats, the only considerable area of fairly level ground in the territory and about 500 feet above sea-level. These flats are of highly fertile soil, with savannah-type vegetation and grass of great feeding-value, but
+with low and generally badly distributed rainfall. Westwards they rise by a series of low ridges to the middle veld, where the gorges of the tributary system of the main rivers open out into wide rolling valleys offering opportunities for agriculture and mixed farming in a more equable climate with higher and less uncertain rainfall. The soil, however, is inherently less fertile and has deteriorated in the course of continuous cultivation. In the high veld the country is broken, often rugged, and split by gorges; the soil is less fertile and the slopes are seldom gentle enough for permanent cultivation. The grazing is less nutritious, especially during the winter when cattle must be fed if they are to maintain their condition or be used for dairying.
+
+The general picture, therefore, is of a country which possesses considerable areas of excellent soil. Rainfall is uncertain in some of these areas, but with large-scale irrigation they have great potentialities. The low veld generally is excellent cattle country, while the great variety of soils and climates and the facilities for the construction of smaller irrigation schemes in the middle and the high veld afford ample opportunity both for mixed farming and for dairying as well as for a variety of special crops such as cotton, oil-seeds, citrus and nuts of various kinds.
+
+Climate
+
+Rainfall varies considerably from year to year and from station to station in the same year, and it tends to be concentrated in a few violent storms. The average rainfall at Mbabane in the high veld is 55.6 inches, at Bremersdorp in the middle veld 36.8 inches, and at Sipofaneni in the low veld 26.5 inches. The mean maximum and minimum temperatures are respectively 72.7° F. and 52.8° F. at Mbabane, 77.7° F. and 54.1° at Bremersdorp, and 84.4° F. and 59.5° F. at Sipofaneni.
+
+Economic Resources
+
+Livestock. Cattle form the natives' main wealth and the total number owned increased from 146,542 in 1921 to 434,995 in 1949; in 1951 the number was 409,233. The number of European-owned cattle increased from 63,749 in 1921 to 73,733 in 1951. There are also 12,262 pigs, 27,144 sheep and 121,948 goats, and some 114,000 sheep are winter immigrants from neighbouring Union farms.
+
+The export of cattle rose from 8,900 head in 1937 to 18,491 head in 1951. Unfortunately the number of his cattle is to a Swazi the symbol of his prosperity and he has as yet little appreciation of quality. In 1946, however, the Native Authority in collaboration with the Director of Livestock and Agricultural Services agreed to a scheme which provides for a levy on the herds of all native cattle-owners, to be paid in cattle, which are to be sold and the funds accumulated for the purchase of land from European landowners for the Swazi Nation. This has reduced, although only to a small degree, the pressure on the soil.
+
+Tick-borne diseases necessitate constant dipping and internal quarantine measures, and control measures are also necessary along the borders of the territory to prevent the introduction of other diseases from the surrounding territories.
+
+Mining. Mining is an important part of Swaziland's economy.
+
+The Havelock asbestos mine in the north-western corner of the territory is one of the largest asbestos mines in the world and is apparently assured of a life of at least thirty years at present rates of output. The company pays approximately 70 per cent. of the total income-tax and nearly all the base-metal royalties.
+
+Gold is still being worked in the Pigg's Peak district, but only on a small and at present a decreasing scale, and barytes in the Mbabane district. There are very extensive anthracitic coal deposits in the low veld but these cannot be worked without the construction of a railway. High-grade calcite exists
+in the Hlatikulu District and a rich iron-ore deposit in the Pigg's Peak area. Corundum has also been found.
+
+In the development of the territory's mineral resources lies perhaps the quickest route to financial independence, and in 1942 funds were provided under the Colonial Development and Welfare Act for the establishment of a Geological Survey Department.
+
+**Agriculture.** The agricultural possibilities of Swaziland are considerable and most crops can be grown. The country's geographical and social conditions do however set limits to the economic crops which Government should encourage in the immediate future. These are, in order of importance, the food requirements of the population, the cereals forming the staple diet of the Swazi, crops with a ready sale in the neighbouring markets, and lastly the crops which, within the limits of present knowledge, are considered necessary for a well-nourished people.
+
+Cereals are produced by the Swazi people mainly to provide food, though they often sell a greater part of their harvest than their needs allow. In the main the Swazi produces but a fraction of what his land under proper management could produce and his methods are usually such as to reduce still more his future crops.
+
+The cash crops, of which cotton, tobacco, groundnuts, tung nuts, and grain are the most important, are mostly the produce of the European and Coloured farmers. In 1951 the territory exported tobacco valued at £20,610, butter worth £44,033, and groundnuts valued at £11,000.
+
+**Forestry.** Considerable developments have taken place in this field in the last few years and the position in 1951 was as follows:
+
+The Colonial Development Corporation at Usutu Forests on both sides of the Great Usutu River in the Mbabane District had planted nearly 9,000 acres of trees and prepared an area of 10,300 acres for planting. The Corporation has an area of some 100,000 acres of which about 70,000 acres is to be afforested with conifers. In 1951 the employees in this undertaking numbered 1,204 including 40 Europeans.
+
+Peak Timbers Ltd. acquired 57,216 acres in the Pigg's Peak area for commercial afforestation in 1946, of which some 35,000 acres are afforestable. A further 20,000 acres, most of which can be afforested, was acquired from Government in 1950. By 1951 28,000 acres of forest had been planted and 140 miles of roads completed. 28 Europeans and 1,300 Africans were employed.
+
+In addition smaller, but not inconsiderable, forestry projects are being carried out in the Gege Area of the Mankaiana District over an area of 6,000 acres, and by Swaziland Plantations and Swaziland Timbers, a joint agricultural and forestry project, in the Pigg's Peak District.
+
+**Communications and Transport**
+
+There are no railways in Swaziland, but the road motor-transport services of the South African Railways Administration and the Portuguese East African Administration carry both goods and passengers and operate between Swaziland and the railheads in the neighbouring territories.
+
+**Imports and Exports**
+
+Under the Customs Agreement with the Union of South Africa, Swaziland is treated as a part of the Union for Customs purposes. In return the Administration receives from the Union Government an annual payment.
+
+The principal exports from Swaziland during 1951 were, in order of the total values exported, asbestos, slaughter stock, hides and skins, butter, tin, and wattle bark. Exports of asbestos during 1951 amounted to 34,964 short tons valued at £1,869,346, as compared with 32,667 short tons valued at £1,662,741
+during 1950. In 1951 some 18,491 head of slaughter stock, valued at £354,000, were exported to Union markets, and hides and skins were also exported to the value of £86,500. Cotton exported was valued at £103,000. The value of other exports (tobacco, gold, groundnuts, butter, tin, tung oil, rice, deciduous fruits, bonemeal, butterfat, barytes, wool, tomatoes, potatoes, soya beans, and dry edible beans) totalled £226,919.
+
+Public Finance
+
+The revenue in 1950-51 amounted to £557,599, in addition to which £1,584 was obtained from the sale of Crown land and £161,306 under the Colonial Development and Welfare Act, a total of £720,489. The expenditure amounted to £709,944. The public debt of Swaziland was then £35,500.
+
+Annual revenue has increased steadily from £389,650 for 1947-48 to £809,190 in 1952-53. This increase is a reflection of steady economic development. The growing prosperity of Swaziland is at present mainly due to one enterprise, the Havelock Mine, but the foundations of a wider economy have been laid and long before the revenue from the Havelock Mine is likely to decline the revenue of the territory will be strengthened by the taxation of large forestry and irrigation schemes now being developed.
+
+During the same period expenditure has risen from £440,558 to a revised estimate figure of £690,500 in 1952-53 (excluding expenditure from Colonial Development and Welfare funds), and at the 31st March, 1952, the territory's accumulated surplus stood at £241,265.
+
+Currency and Banking
+
+The currency in circulation in Swaziland is that of the Union of South Africa. There are two banks in the territory, viz., Barclays Bank (Dominion, Colonial and Overseas) and the Standard Bank of South Africa Limited. The former has branches at Mbabane and Bremersdorp with agencies at Stegi and Hlatikulu, and the latter has branches at Mbabane and Bremersdorp.
+
+Population
+
+The population of Swaziland has consistently risen during the last 25 years. The last three censuses were taken in the years 1921, 1936 and 1946.
+
+The European population has risen in 25 years from 2,205 to 3,204. Most of the Europeans, as well as the natives, are settled in the middle-veld. The native population was 110,295 in 1921, 153,270 in 1936 and 181,269 in 1946.
+
+The mining industry provides employment in Swaziland for some 150 Europeans and 2,900 Africans. About 10,000 Swazis are employed in the Union in various occupations, mainly mining 7,000, farming 1,000, domestic service 500, other labour 1,500.
+
+In 1946 there were 745 Coloured persons in Swaziland.
+
+Administration
+
+The Swazi are a race allied to the Zulus and, with minor modifications, speak the same language.
+
+The Native Government consists of the Paramount Chief and his Council made up of the chiefs of royal blood and the chief Indunas. Any adult Swazi has, however, the right to take part in its discussions.
+
+During the eighteen-eighties the Swazi Paramount Chief, in return for money and other payments, granted concessions to Europeans for various periods. Concessions were granted not only of land, minerals, grazing and timber, but also of rights for railways, telegraphs, tax-collecting and trading. In 1888 a charter of self-government was granted to the Europeans in the country.
+
+In 1890, under a Convention between the British Government and the South African Republic, a provisional Government was set up, with the consent of the Swazis, consisting of a Government Committee composed of
+representatives of those two Powers and a representative of the Swazis, a Government Secretary, an Attorney-General and other officials, and a Concessions Court. This Court adjudicated on the initial validity of all concessions granted by the Paramount Chief and, with a few exceptions, confirmed the grants.
+
+In accordance with pledges given to the Government of the South African Republic, this provisional Administration came to an end three years later, when the British Government signed a fresh Convention which permitted the South African Republic to acquire from the Regent and her Council an Organic Proclamation conferring on the South African Republic rights of jurisdiction, legislation, and administration, without incorporation in the South African Republic. The Swazis refused to sign the Organic Proclamation which had been drafted for them, but its provisions, with some of those in the 1893 Convention, were embodied in the final Convention of 1894, under which the South African Republic exercised powers of protection, legislation, jurisdiction and administration in Swaziland, subject to the limitations of the Convention.
+
+At the conclusion of the war of 1899-1902 all the rights and powers of the South African Republic passed to His Majesty, and an Order in Council under the Foreign Jurisdiction Act was issued in June, 1903, providing that the Governor of the Transvaal should administer Swaziland, and conferring on him the right to legislate by Proclamation. A small force of South African Constabulary was sent into the country and a provisional Administration was established.
+
+In accordance with the powers granted to him, the Governor of the Transvaal issued a Proclamation in 1904 providing for administration and for dealing with the concessions question. The laws of the Transvaal in force at the date of the Proclamation were applied to Swaziland mutatis mutandis. Courts were established with rights of appeal to the Supreme Court of the Transvaal, and an appeal was permitted from the decisions of the Chiefs in civil matters to the Court of the Resident Magistrate. The Chiefs were otherwise confirmed in their civil jurisdiction over natives, subject to the exclusion of usages incompatible with the due exercise of His Majesty's power and jurisdiction or clearly injurious to the welfare of the natives.
+
+By an Order in Council, dated 1st December, 1906, the control of Swaziland was transferred from the Governor of the Transvaal to the High Commissioner for South Africa (now styled the High Commissioner for Basutoland, the Bechuanaland Protectorate and Swaziland). The High Commissioner issued a Proclamation in March 1907, providing for the appointment of a Resident Commissioner, a Government Secretary, District Commissioners, and the establishment of a Police Force.
+
+The Resident Commissioner exercises such administration and control, and is invested with all such powers, authorities and jurisdiction as are conferred upon him by this Proclamation and other laws, or by the terms of his Commission, subject always to the directions and instructions of the High Commissioner.
+
+The laws of the Transvaal were re-enacted mutatis mutandis, and except where modified by Statute the Roman-Dutch Common Law was put in force by the Proclamation. A Special Court, now the High Court, having the full jurisdiction of a Superior Court, was established together with Courts of District Commissioners with a limited jurisdiction.
+
+An elected Advisory Council, representative of the Europeans, was established in 1921 to advise the Government on purely European affairs. This body was reconstituted under Proclamation No. 11 of 1949 and the second Reconstituted European Advisory Council was elected in 1952. The territory is divided into ten electoral divisions, one member being returned for each
+division. A Committee of the Council, consisting of four members, meets whenever convened by the Resident Commissioner himself or by him at the request of any two members. The Committee advises on any important matters which may arise from time to time between the ordinary meetings of the Council.
+
+In 1944 a Proclamation was issued by the High Commissioner recognizing the Paramount Chief and his Council as the Native Authority for the territory and investing the Native Authority with power to issue to natives in Swaziland legally enforceable orders on a wide number of subjects, but was repealed and replaced in 1950 by a Proclamation framed in a form more acceptable to the Swazi.
+
+The Resident Commissioner keeps in close and constant touch with a somewhat exiguous and loosely-formed Committee of the Council which represents the Native Authority, and he meets the whole Council at least once a year, oftener if the necessity arises, to discuss matters regarded as being too important for the Committee to deal with.
+
+Until 1951 the Paramount Chief and other Native Chiefs continued, by virtue of Proclamation No. 4 of 1907, as amended, to exercise jurisdiction according to Native law and custom in all civil disputes in which Natives only were concerned; an appeal lying to the High Court of Swaziland, whose decisions were final. By Proclamation No. 80 of 1950, better provision was made for the recognition, constitution, and jurisdiction of Native Courts, which were also accorded jurisdiction in criminal cases where the parties concerned were natives and except cases punishable with death or life imprisonment, cases connected with marriage other than marriages according to Native law and custom and, other than with the approval of the Judicial Commissioner, cases relating to witchcraft. Criminal cases are reviewable by District Commissioners. Under this Proclamation there have so far been constituted 14 courts of first instance and one Higher Native Court of Appeal. The channel of appeal lies from Native Court of first instance to Native Court of Appeal thence to Higher Native Court of Appeal, and thence to the High Court of Swaziland.
+
+A Swazi National Fund was established by Proclamation in 1910 and is under the control of the High Commissioner. The fund is used primarily for the education of natives in the territory and its revenues consist of a deduction of 2s. from every Native tax receipt issued and from small sums paid as rental for store sites on Native areas, etc.
+
+Under Proclamation No. 81 of 1950 a Native Administration Treasury was established. The Native Administration Estimates are subject to the approval of the High Commissioner. The principal revenue is derived from a one-third share of native tax, now collected by the Native Treasury, and the bulk of expenditure is on personal emoluments, including salaries of the Paramount Chief, Queen Mother, the several Court Presidents, and the teaching staff of the Swazi National Schools. Revenue for the financial year 1952-53 was estimated at £32,146 and expenditure at £29,101.
+
+The Commission constituted under the Proclamation of 1904 to deal with the concessions granted by the Paramount Chief examined these exclusive rights, except exclusive rights to land and minerals, with a view to their expropriation at their value prior to the war. The Commission reported in 1906, and the concessions were, with few exceptions, expropriated. The Commission subsequently dealt with the question of boundaries of land, mineral and grazing concessions. The general survey of these concessions necessary to determine the conflicting rights was also completed. Under the Concessions Partition Proclamation, issued in 1907, land and grazing concessions were subjected to a deduction of one-third of their area for the sole
+and exclusive use and occupation of the natives of Swaziland and the remaining two-thirds were freed from occupation subject to the provision that for five years from 1st July, 1909, no Natives actually resident on such land could be compelled to move therefrom, but after that period they could only continue to occupy such land on terms to be agreed upon between themselves and the concessionaires, these agreements being subject to confirmation by the Resident Commissioner. Proclamation No. 24 of 1913 provided simple and effective machinery for the removal of natives from concessions after the period of five years had elapsed. This took place in 1914 and there was no large movement of natives from concessions. Those who desired to move did so voluntarily and the remainder made terms with the concessionaires and remained on the farms.
+
+Subsequent to the Concession Partition Proclamation of 1907, fairly substantial areas have been purchased by the Swazi Nation and also by individual natives, and in addition land has been purchased for a Native Land Settlement Scheme to which has been added certain Crown land. The position at present is that of the 4,279,000 acres comprising the territory the following areas are available for occupation by Swazis:
+
+| Area                                      | Acres     |
+|-------------------------------------------|-----------|
+| Native Areas                              | 1,633,772 |
+| Land purchased by Swazi Nation            | 219,000   |
+| Land purchased and Crown land set aside for Native Land Settlement | 363,865   |
+| Land owned by individual natives           | 12,000    |
+
+Total: 2,228,637
+
+The Native Areas are distributed in thirty-five separate blocks scattered over the territory and the result is a patchwork of land in European and native occupation. The Native Land Settlement Areas are for the most part adjacent to the pre-existing Native Area.
+
+This interlacing of European by Native Areas has increased the difficulties of administering the Swazis and providing social services for them.
+
+Before the purchase of the Native Land Settlement areas it was estimated that at least 27,000 natives remained as squatters on European-owned land, and it is estimated that some 10,000 natives are now on the Native Land Settlement areas.
+
+Education
+
+As the population of Swaziland consists of Europeans, Africans and Coloured people, the educational system falls into three distinct sections each of which has been developed according to the peculiar needs of the racial group which it serves. Progress has in the main been slow, chiefly because of the country's small revenue, and up to the present it has not been possible to extend educational facilities much beyond the primary school stage. This does not mean, however, that the population is denied access to secondary schools and universities, since excellent institutions exist in the Union of South Africa.
+
+Native primary education is at present largely the responsibility of a number of missions, but generous financial assistance is granted by Government in the form of salaries and equipment grants. In addition the missions support a number of small un-aided schools. Apart from 184 schools falling under
+the direct superintendence of the missions, there are three National schools financed from the Swazi National Fund, six Government-controlled central schools, and a number of tribal schools, three of which have teachers appointed and paid by Government. The majority of Native schools do not proceed beyond the lower primary classes. Of the fourteen largest schools which offer the full primary school course, seven proceed as far as standard VII and four as far as standard VIII.
+
+A large number of bursaries are granted each year to native students for courses of study not provided in the territory, chief among which have been secondary education leading to matriculation, teacher-training courses, agricultural training, and various forms of industrial training for boys and girls.
+
+The Native Trade School at Mbabane, which opened in 1947, provides courses of training in carpentry and building as well as in cabinet-making.
+
+In 1951 the total average enrolment in all registered Native schools was 13,844.
+
+For European children education is compulsory up to the age of 16 years or the successful completion of standard VIII, and the Government school at Goedgegun is being developed into a large centralized school-farm, providing adequate boarding accommodation for a large number of children. The total average enrolment for all the European schools in 1951 was 647.
+
+The "Coloured" (Eurafrican) community is numerically the smallest group in Swaziland, comprising a very wide range of types and with very varying material and cultural standards. The educational requirements of coloured children are provided for by four mission schools, two of which are in receipt of Government assistance. All four schools cover the full range of primary school work and a number of bursaries are available for children in need of assistance who wish to take post-primary school courses at institutions in the Union of South Africa. The average enrolment at the three Coloured schools during 1951 was 301.
+
+Health
+
+The European medical staff of the Administration consists of the Director of Medical Services, five Medical Officers, one Malaria Medical Officer, one Medical Officer (Health), one Health Inspector, one Dispenser-Storekeeper, one Hospital-Assistant Dispenser, one Laboratory Assistant, and nine European Nursing Sisters. Three doctors and nine mission nursing sisters are subsidized by the Government.
+
+There are two Government general hospitals—one at Mbabane and the other at Hlatikulu. In the former there is accommodation for four European and 67 native patients; while accommodation is available at Hlatikulu for eight Europeans, three Eurafricans, and 33 African cases. The Raleigh Fitkin Memorial (Mission) Hospital, Bremersdorp, provides accommodation for eight Europeans, two Eurafricans, and 76 native cases.
+
+A Health Office containing a well-equipped Public Health Laboratory has been erected at Bremersdorp.
+
+There are four Government Health Centres in the Mbabane and Pigg's Peak Districts and five in the Hlatikulu District. The Nazarene Mission maintains seven similar institutions, five of which are in the Manzini District and two in the northern area. The Roman Catholic Mission has one health centre in the Hlatikulu District.
+SWAZILAND
+
+Resident Commissioner: D. L. Morgan, C.M.G., M.B.E.
+
+SECRETARIAT
+Deputy Resident Commissioner and Government Secretary: J. R. Stebbing, O.B.E.
+First Assistant Secretary: R. Armstrong, O.B.E.
+Legal Secretary:
+
+AUDIT
+Auditor: D. W. Dunlop.
+
+DISTRICT ADMINISTRATION
+District Officers and Assistant District Officers: H. D. G. Fitzpatrick, M.B.E.; D. G. F. Silburn; J. F. B. Purcell, M.B.E.; H. J. Steward; J. M. A. Fannin; J. C. Martin*; H. P. Ritchie; P. R. F. Thompson; J. L. S. Harrison; N. A. Baguley; G. C. Ryan, M.B.E.; F. Fleck; H. O. H. Strong; R. E. Donaldson Rawlins; J. R. Masson.
+
+EDUCATION
+Principal Education Officer: W. E. C. Pitcher.
+Education Officers: Miss B. Stubbs; R. T. M. Wareham.
+Acting Principal, Goedgegun Government School: P. C. McLaughlin.
+Principal, Swazi National School: C. W. K. Smart.
+Principal, Trade School, Mbabane: H. J. Dumbrell, C.B.E. (Acting).
+
+LIVESTOCK AND AGRICULTURE
+Veterinary Department
+Principal Veterinary Officer: W. G. Barnard, O.B.E.
+Veterinary Officers: J. F. Fick; J. Schuss; C. J. van Heerden.
+Dairy Officer: A. W. G. Rose.
+
+Agricultural Department
+Principal Agricultural Officer: H. Hutchinson.
+Agricultural Officers: J. R. Jerman; K. M. Lapping; A. V. R. Dicks.
+Assistant Agricultural Officers: E. S. E. Thomas; G. S. B. Varty; J. H. Luscombe; N. E. H. Thomas.
+Forester: J. F. Botha.
+
+MEDICAL
+Director of Medical Services: J. C. J. Callanan, O.B.E.
+Medical Officers: H. Flack; A. E. Batchelor; L. E. D. F. Joubert; O. Arnheim; O. Mastbaum; C. Runciman; T. Malherbe.
+
+POLICE
+Commissioner of Police: W. L. Clarke.
+Deputy Commissioner of Police: L. P. Pretious.
+Superintendents: P. C. Temple; D. S. Hellet; E. B. G. Holmes; L. M. Cooper; M. Ansell.
+
+PUBLIC WORKS DEPARTMENT
+Government Engineer: R. W. Wood.
+Engineer-in-Charge, Mbabane Electricity Supply: K. H. Bobek.
+
+TREASURY
+Treasurer: J. T. D. Quigley.
+Assistant Treasurer: G. H. O'Farrell.
+Stores Officer: A. N. Butler.
+Income Tax Officer: E. D. Osborn, D.F.C.
+
+NATIVE LAND SETTLEMENT
+Chief Native Land Settlement Officer: C. L. F. Peachey.
+
+GEOLOGICAL SURVEY DEPARTMENT
+Director: H. J. R. Way.
+Senior Geologist: D. N. Davies.
+Geologists: J. L. Scoging; D. R. Hunter.
+Mineral Development Officer: D. A. C. Purser.
+
+* Seconded to High Commissioner's Office.
+THE MALDIVE ISLANDS
+
+The Maldives Archipelago, 400 miles to the south-west of Ceylon, consists of some 2,000 low-lying coral islands, grouped in twelve clearly-defined clusters or atolls but divided for administrative purposes into seventeen atolls. The islands are small, and Malé the capital is only a mile long and half-a-mile across. The population of about 80,000 is a mixed race of probably Aryan original stock speaking a language akin to Elu or old Sinhalese.
+
+The islands are covered with coconut palms and yield millet and fruit as well as coconut produce. The principal industry is fishing, and "Maldivian fish", prepared from the bonito, is the main export. Other occupations are coir and lace making. Communication is with India, Pakistan, and Ceylon, mainly by local craft.
+
+Until December 31st, 1952, the Islands were a Sultanate under the protection of Her Majesty. The Sultanate was elective. In April 1952, on the death of the then Sultan, the inhabitants decided to change their form of government to that of a republic. The Maldivian Republic was formally inaugurated on the 1st January, 1953, with Mr. A. M. Amin Didi as the first President.
+
+The Constitution which came into operation on the same date provides for the appointment and powers of a President and Vice-President, a Prime Minister and Ministers, a Majlis consisting of a House of the People and a Senate, and a Supreme Court. Amendment of the Constitution is effected by a Constituent Assembly consisting of both Houses of the Majlis sitting together under the presidency of the President.
+
+Relations with the United Kingdom. The Islands have long enjoyed the protection of the United Kingdom Crown, and this was formally recorded in an exchange of letters between the Sultan and the Governor of Ceylon in December 1887. When, in 1948, Ceylon became a Member-country of the Commonwealth, a new agreement dated the 24th April, 1948, was signed between the Sultan and the United Kingdom Government. This provided that the Islands should remain under the protection of the Crown, that their external affairs should be conducted by, or in accordance with the advice of, the United Kingdom Government, that the United Kingdom Government should refrain from any interference in the internal affairs of the Islands, and that the Sultan should afford such facilities for H.M. Forces as were necessary for the defence of the Islands or of the Commonwealth. Relations between the Maldives Islands and the United Kingdom were to be conducted through the United Kingdom High Commissioner in Ceylon.
+
+A new agreement between the United Kingdom Government and the Maldivian Government was signed at Malé by the United Kingdom High Commissioner in Ceylon and the President on the 1st January, 1953, on the occasion of the inauguration of the Republic and the installation of the President. This agreement takes account of the changed form of government, but otherwise re-affirms the provisions of the 1948 agreement.
+PART IV
+
+COMMONWEALTH RELATIONS OFFICE (OVERSEA SERVICE)
+REGULATIONS
+
+(1) ADMINISTRATIVE OFFICERS
+(2) NON-ADMINISTRATIVE OFFICERS
+Regulation 1—Outfit Allowances
+
+Officers of the Commonwealth Relations Office will receive outfit allowances on the following basis:
+
+(a) The actual reasonable cost of blue Civil uniform and/or white uniform when their purchase is authorized.
+
+(b) On first posting overseas, £200 if the officer is married, £100 if he is unmarried. This is intended to help meet the expenses of buying the clothes required for formal occasions and such additional household equipment, etc., as an officer may require as a result of serving overseas in a representational capacity. Payment of this allowance is subject to the production of a certificate that the sums claimed have been expended for the purposes laid down.
+
+(c) On first appointment as a High Commissioner, £200.
+
+(d) On transfer from one post overseas to another post overseas or from the United Kingdom to a post overseas, 1/20th of the mean of the salary scale of the grade of the officer concerned, if the officer is proceeding to furnished accommodation, and 1/10th of the mean of the salary scale if he is proceeding to unfurnished accommodation. (This allowance is not payable if an officer is receiving payment under (b) or (c) above.) Where transfer is accompanied by promotion the allowance will be calculated on the salary scale of the new grade.
+
+(e) An officer serving at a post at which special clothing is, in the opinion of the Secretary of State, necessary for climatic reasons, will be entitled to receive the actual cost of such clothing, up to a maximum of £50 or, if married and accompanied by his family, up to a maximum of £75. The officer will be required to furnish certificates that the sums claimed have been actually expended on clothing which he would not otherwise have had to purchase. The allowance may be drawn in whole or in part at any time during the officer's service in the post. Payment of the allowance will be limited to three occasions during the officer's career.
+
+(f) On promotion to a higher grade the actual cost of the alteration of uniform rendered necessary by such promotion, subject to the production of a certificate that the amount claimed has been expended. This will be payable whether the officer is serving at home or overseas. An allowance for new uniform will not be granted except where special circumstances are proved to the satisfaction of the Secretary of State.
+
+(g) None of these allowances is subject to United Kingdom income tax.
+
+Regulation 2—Oversea Allowance
+
+(1) An oversea allowance is paid to officers of the Commonwealth Relations Office serving overseas. This allowance is intended, with the repayment of rent, to enable the officer generally to maintain himself and his family in conditions and at a standard in which he will most usefully and conveniently be able to carry out his representational duties as a member of a High Commissioner's staff.
+
+(2) The following items inter alia are taken into account in assessing the amount of the oversea allowance to be assigned to individual posts:
+
+(a) local cost of living;
+
+(b) expenditure which an officer serving overseas necessarily incurs, either at home or overseas, over and above that incurred by an officer of corresponding rank serving at home;
+(c) representational expenditure, i.e., expenditure which, while optional for a private individual, is obligatory for an officer by virtue of his official position.
+
+(3) Oversea allowance is not subject to United Kingdom income tax.
+
+(4) An officer will draw oversea allowance from the day on which he assumes duty at a post overseas, unless he continues to receive subsistence allowance in lieu of repayment of rent (see Regulation 5—Housing, paragraph 4) in which case he commences to draw oversea allowance when he ceases to draw subsistence allowance. He will cease to draw oversea allowance on the day he vacates his post on transfer elsewhere. The rate of oversea allowance will be reduced during an officer’s absence on leave except for short periods within a total of 12 days in any one leave-year (see Regulation 6—Leave, paragraph 7).
+
+(5) An officer who is absent from his post on duty in the United Kingdom or elsewhere, in circumstances other than those referred to in paragraph 6, and is returning to his post, will be eligible for subsistence allowance at the appropriate rate and will retain the oversea allowance of his post less 12½ per cent. When such an officer is married and takes his wife and family (if any) with him he will draw:
+
+(a) in the United Kingdom, subsistence allowance for himself only (the position will be reviewed after two months’ absence);
+
+(b) elsewhere, subsistence allowance for himself and his wife and family (if any) provided approval is given to their accompanying him.
+
+(6) An officer serving overseas who is temporarily attached to a post of the same grade at another station (and, if married, leaves his family at his own post) and is returning to his own post will retain the whole of the allowance of his own post or draw that of the temporary post, whichever is higher, with subsistence allowance in addition at the discretion of the Secretary of State. If accompanied by his family, an officer may also draw subsistence for his wife if approval is given for her to accompany him officially.
+
+(7) When the High Commissioner is absent from the country either on leave or on duty an officer acting as High Commissioner will, provided that the absence exceeds fourteen days, draw an additional allowance equal to one-tenth of the High Commissioner’s oversea allowance, which will be abated by an equivalent amount. In cases where the High Commissioner is not returning to the post special consideration will be given to the amount of the additional allowance to be paid to the Acting High Commissioner.
+
+(8) Except in cases provided for by paragraph 7, an officer who performs the full duties of a higher post at the oversea station in which he is serving will receive an additional allowance equal to 12½ per cent. of the oversea allowance which would be appropriate to an officer of his own marital status occupying that higher post, provided that his own oversea allowance and this additional allowance together shall not exceed the appropriate oversea allowance of the post in which he is acting. The additional allowance will not be payable to an officer substituting for an officer absent on leave for periods for which the absent officer draws his full oversea allowance (see Regulation 6, paragraph 7(a)).
+
+An officer who performs the full duties of a higher post at an oversea station other than that at which he is serving will draw the full oversea allowance of the higher post.
+
+Regulation 3—Home Service Allowances
+
+(1) Officers of the Commonwealth Relations Office serving in the United Kingdom after a tour of duty overseas will receive the following Home Service Allowances:
+
+(a) a transfer grant;
+(b) an annual allowance to provide for necessary entertainment for official purposes;
+
+(c) an annual allowance towards the special expenditure in the United Kingdom on rent and representation which is incurred by an officer of the Commonwealth Relations Office as a result of his service overseas.
+
+(2) Transfer Grant. This grant will be of an amount equal to one-tenth of the mean of the salary-scale of the officer concerned. It will not be liable to United Kingdom income tax. Where transfer is accompanied by promotion, the grant will be calculated on the new salary-scale.
+
+(3) Entertainment Allowance. The amount of this annual allowance, which is not liable to United Kingdom income tax, will vary according to the officer's rank and according to whether he is married or single. The allowance will be at the following rates:
+
+| Rank                  | Married | Single |
+|-----------------------|---------|--------|
+| Assistant Under-Secretary of State | £120    | £80    |
+| Assistant Secretary   | £108    | £72    |
+| Principal             | £78     | £52    |
+| Assistant Principal   | £36     | £24    |
+
+(4) Rent and Representation Allowance. The amount of this annual allowance, which is liable to United Kingdom income tax, will vary according to the officer's rank and according to whether he is married or single. The allowance will be at the following rates:
+
+| Rank                  | Married | Single |
+|-----------------------|---------|--------|
+| Assistant Secretary   | £110    | £55    |
+| Principal             | £140    | £70    |
+| Assistant Principal   | £60     | £25    |
+
+This allowance will not be paid to officers above the rank of Assistant Secretary.
+
+(5) The transfer grant will be paid on the officer's arrival in the United Kingdom. The annual allowances will be paid for a period not exceeding five years from the date on which the officer assumes duty in the United Kingdom, and will cease on the date of departure if he is transferred overseas again within that period.
+
+Regulation 4—Travelling
+
+(1) Whenever an officer makes a journey on public service:
+
+(a) The amount of the fares by rail, ship, aircraft or motor-car as the case may be by the approved route will be paid from public funds. The "approved route" means the route and method of transport approved for a particular journey between two places.
+
+(b) He will receive an allowance to meet the expenses of food and sleeping accommodation when these are not included in the fare; the allowance will be at the rate in force at the time for the countries traversed by the approved route or for journeys by sea.
+
+(c) Necessary expenses (such as taxi fares, baggage charges, porterage, etc.) incidental to the journey will also be payable from public funds.
+
+(2) When an officer is proceeding to take up an appointment overseas:
+
+(a) Public funds will bear the cost of the fares by the approved route for members of his family and servants as set out below, if the family are going to reside at the post:
+
+1. His wife.
+2. Sons under the age of 16 at the beginning of the journey (if a son is to reside at his father's post overseas and receive full-time education in that country, the age-limit is raised from 16 to 18).
+3. Unmarried daughters residing with and dependent on their father.
+4. Adopted or step-sons or daughters as in 2 and 3.
+5. In cases where the officer is unmarried, widowed, or divorced, or his wife is for good reason unable to accompany him, the Secretary of State may authorize payment of passage for a relative who is to share the officer's home and act as his hostess.
+6. Servants within the following limits:
+
+| High Commissioners | ... | ... | ... | ... | ... | ... | 5 |
+|-------------------|-----|-----|-----|-----|-----|-----|---|
+| Assistant Under-Secretaries of State and Assistant Secretaries— |     |     |     |     |     |     |   |
+| Married           | ... | ... | ... | ... | ... | ... | 3 |
+| Unmarried         | ... | ... | ... | ... | ... | ... | 2 |
+| Principals and Assistant Principals— |     |     |     |     |     |     |   |
+| Married           | ... | ... | ... | ... | ... | ... | 2 |
+| Unmarried         | ... | ... | ... | ... | ... | ... | 1 |
+
+(b) Public funds will bear the cost of transporting, including packing and unpacking, the officer's luggage and personal effects as approved by the Secretary of State. Personal effects may include a motor-car, which will be transported at public expense, but on not more than one occasion to and from a country during any one term of duty. Where the provisions of Regulation 5—Housing, paragraph 1 (c), are applicable, public funds will also bear the cost of packing, crating and transporting the officer's furniture within the following limits:
+
+1. Married officers, and unmarried officers above the rank of Principal, 10½ tons, or 2,100 cubic feet or 60 cubic metres (roughly equivalent to three van loads).
+2. Unmarried Principals or Assistant Principals, 4 tons, or 800 cubic feet or 23 cubic metres.
+
+(c) Public funds will bear the reasonable cost of insuring the officer's luggage, personal effects and furniture up to the following maxima:
+
+| (a) including furniture if taken in accordance with paragraph 2 (b) above | (b) excluding furniture |
+|-----------------------------|------------------------|
+| High Commissioners          | £6,000                 | £2,000                 |
+| Assistant Secretaries and above | £3,750             | £1,500                 |
+| Principals and Assistant Principals:— |     |     |
+| Married                     | £2,500                 | £1,000                 |
+| Unmarried                   | £1,600                 | £700                   |
+
+(d) The officer will receive in respect of his family and servants subsistence or shipboard allowance as set out in paragraph 6 and necessary expenses incidental to the journey as in paragraph 1 (c).
+
+(e) Families and servants will be expected to travel with the officer, but if the Secretary of State is satisfied that there are good reasons for their travelling separately, their fares, subsistence and shipboard allowances, cost of transporting and insuring luggage, etc., and other expenses as set out above will be paid from public funds.
+
+(3) The regulations in the preceding paragraph apply also:
+
+(a) When an officer is returning to the United Kingdom at the end of a tour of duty.
+
+(b) Except for the transport of furniture (paragraph 2 (b) above) on the occasion of the transfer of the High Commissioner's Office from Pretoria to Cape Town, and vice versa, and on internal transfers in India and Pakistan.
+(4) On other journeys on duty an officer will not normally receive travelling expenses for his family and servants, but if, in a particular case, the Secretary of State considers that it is in the public interest for an officer travelling on duty in the country in which he is stationed to be accompanied by his wife in a strictly representational capacity, the cost of her fare and the appropriate subsistence and shipboard allowances will be paid from public funds. In the case of India, Pakistan and Ceylon, an officer may take one personal bearer or boy with him at public expense.
+
+(5) Where fares are paid from public funds under the previous paragraphs these fares will be:
+
+(a) For the officer and members of his family, first-class, including sleeping-berths where necessary on land-journeys.
+
+(b) For servants, third-class in the United Kingdom and second-class elsewhere. Special regulations apply to a nurse or governess travelling with a child or children of 10 years or less. For her, first-class fares will be paid unless:
+
+(i) by paying a supplement, she can sleep in the first-class sleeping accommodation, in which case the supplement will be paid in addition to second-class fare (third-class in the United Kingdom), or
+
+(ii) (on a journey by land) there is only one child.
+
+(c) For bearers and boys, third-class travel.
+
+(d) Exceptions to the above rules as to the class of fare may be made where the Secretary of State is satisfied that it is inappropriate for servants to travel in the class specified.
+
+(6) (a) On journeys by land:
+
+(i) subsistence allowance is payable at rates varying with the locality;
+
+(ii) the appropriate rate of subsistence allowance is payable for each night necessarily spent away from an officer’s normal place of duty, subject to 20 per cent. abatement after 28 nights’ stay in any one place. One-third of the full rate is payable for a period of not less than ten hours’ absence, either after the completion of the 24 hours covered by a night allowance or where no night allowance is claimed. One-tenth of the full rate is payable for day-time absences on official duty of more than five but less than ten hours;
+
+(iii) the full allowance is payable in respect of the officer himself, three-quarters of the full allowance for his wife, half of the full allowance for each other member of his family above the age of 12 months, up to three-eighths of the full allowance for each servant within the limits laid down in paragraph 2 (a) (6), and a special rate as laid down for a bearer or boy;
+
+(iv) If the cost of sleeping-berths is met from public funds, the subsistence allowance will be reduced by one-third (this reduction will not be made if no claim for incidental expenses is made).
+
+(b) On journeys by sea subsistence allowance is not payable but a special shipboard allowance is paid for each night spent on board ship to cover gratuities, etc. Half this rate will be paid for a wife accompanying her husband, or, with prior approval, when travelling without him. No payment is made in respect of children or servants.
+
+(c) On journeys by air no subsistence allowance is payable when accommodation and meals are included in the fare.
+
+(7) (a) If an officer wishes to travel on duty or on leave in cases where passages are paid under paragraph 6 of Regulation 6—Leave—by a route or method of transport other than the “approved route,” he must obtain the prior consent of the High Commissioner if the journey
+begins in the country in which he is serving overseas or of the Secretary of State in all other cases. Such an alternative route is known as the "agreed route." The additional time or expense involved in making a journey by a slower route is one of the factors which will be borne in mind by the authority who grants permission for an "agreed route" to be taken.
+
+(b) If the fare for the agreed route is more than that for the approved route he will only be entitled to receive from public funds the amount of the fare for the approved route.
+
+(c) If the fare for the agreed route is less than that for the approved route, he will not be entitled to receive from public funds more than the actual expenses incurred.
+
+(d) The provisions of sub-paragraphs (a), (b) and (c) above also apply to journeys made by an officer's wife, family or servants under paragraphs 2, 3 and 4 above, and under paragraph 6 of Regulation 6—Leave.
+
+(e) If the agreed route is by motor-car, the officer will receive instead of the "actual expenses incurred" a mileage allowance of 2d. per mile. This will be increased by 1d. a mile for each additional passenger accompanying the officer under paragraphs 2, 3 or 4 above, or under paragraph 6 of Regulation 6—Leave, subject to a limit of 4d. a mile for 4 or more passengers.
+
+(f) Subsistence allowance when travelling on duty will be paid for journeys by an "agreed route" on the basis of time actually spent on the journey.
+
+(8) In certain circumstances it may be desirable in the public interest to arrange for an officer to make the whole journey in his own motor-car rather than to make the journey partly by rail or other public transport and partly by hired motor transport (e.g., when the destination is remote from a railway or when much expenditure on taxis will otherwise be necessarily incurred). In such cases the High Commissioner may decide that the "approved route" for the journey is by motor-car, and the officer will receive a mileage allowance at the rate appropriate for the post.
+
+Regulation 5—Housing.
+
+(1) An officer of the Commonwealth Relations Office serving overseas will:
+
+(a) be provided with furnished accommodation, either rented or owned by Her Majesty's Government, or
+
+(b) be repaid a sum equivalent to the expenditure which he incurs in renting suitable furnished accommodation, or
+
+(c) be repaid a sum equivalent to the expenditure which he incurs in renting suitable unfurnished accommodation, together with the cost of transporting his own furniture to and from the post as laid down in paragraph 2 of Regulation No. 4—Travelling.
+
+(2) (a) When furnished accommodation, rented or owned by Her Majesty's Government, is available and suitable, an officer may be required to occupy it and in such circumstances it would not be open to him to opt for the arrangements in paragraph 1 (b) or (c).
+
+(b) No charge will be made for the use of Government furniture where this is provided.
+
+(3) (a) In cases where officers are repaid the cost of renting accommodation, the High Commissioner will be required to satisfy himself that the accommodation is suitable and that the arrangements made are the most economical consistent with the rank and requirements of the officer, and to furnish a certificate to this effect.
+(b) When negotiating leases, officers must try to obtain a clause known as "the diplomatic clause" in the lease enabling them to terminate it at short notice in the event of transfer before the lease expires.
+
+(c) In all cases tenant's charges and services, but not rates, are payable by the officer.
+
+(d) Repayment of rent will normally be payable from the date on which an officer begins to incur rent until the day on which the officer leaves the post on transfer elsewhere. If on leaving the post otherwise than at his own request the officer should find himself unable to dispose of the lease of his accommodation immediately, repayment of rent may continue to be payable for a period which will be determined by the Secretary of State and will not exceed three months except in special cases.
+
+(4) If an officer is unable to move into suitable accommodation immediately on arrival at a post overseas, he may draw, for a period not normally exceeding 28 days, in lieu of oversea allowance and rent, subsistence allowance for himself, his family and household at the appropriate rates as laid down in paragraph 6 of Regulation No. 4—Travelling. An officer may similarly draw subsistence allowance for a short period at the discretion of the High Commissioner where it is necessary for him to vacate his accommodation in advance of his leaving the post on transfer elsewhere.
+
+(5) In exceptional cases it may be necessary for an officer to reside permanently in a hotel or club where an inclusive charge is made for board and lodging. Such cases will be considered individually.
+
+(6) An officer who receives payment of rent may continue to receive it during periods of authorized absence, provided that the Secretary of State is satisfied that he has not been able to sub-let the accommodation. In cases where accommodation is sub-let, the amount received will be deducted from the repayment made to the officer in respect of rent.
+
+(7) Special arrangements apply to the Union of South Africa, where officers are required to reside at Cape Town during part of each year. In addition to any accommodation provided at Pretoria, officers will also be refunded the actual cost of furnished accommodation in Cape Town under similar conditions, subject to adjustment as in paragraph 6 above in respect of any proceeds from the sub-letting of accommodation in Pretoria.
+
+Regulation 6—Leave
+
+(1) Officers of the Commonwealth Relations Office when serving overseas will be eligible for leave at the same rate as when serving at home as members of the Home Civil Service, i.e., 36 working days a year during the first ten years of their service and 48 working days a year thereafter. An officer may take his leave in the country in which he is serving or in any other country. Leave can only be taken subject to the exigencies of the service and with the prior approval of the High Commissioner.
+
+(2) Unhealthy posts. Officers serving at certain posts or in certain countries which shall from time to time be specified by the Secretary of State, with the approval of the Treasury, as unhealthy for the purposes of leave and who, at the expiration of their leave, return to the same post or to any other unhealthy post, are eligible for one day's additional leave in respect of each month's service at the post. Up to 24 days such leave may be accumulated.
+
+(3) The leave-year overseas will be between the same dates as for the Commonwealth Relations Office in London. Leave accruing in respect of the current leave-year but not taken before leaving the United Kingdom may be taken overseas. Officers returning to duty in the Commonwealth Relations Office cannot carry over beyond the date of their return to duty leave accumulated in respect of leave-years prior to the current leave-year.
+(4) Officers serving overseas, except in the Irish Republic, may accumulate up to 108 days' leave (144 days in the case of officers of over ten years' service) in addition to any leave accumulated under paragraph 2 above.
+
+(5) In addition to the period of his leave an officer may receive, on one occasion in each leave-year, travelling time—i.e. the time occupied by the outward and return journey by an approved route between the place at which he is serving and the place where he takes his leave—not exceeding the time occupied by the double journey by an approved route to and from the United Kingdom. An officer who
+
+(a) is granted travelling time in respect of a journey outside the country in which he is serving (other than a journey to a hill-station in an adjacent country, in the case of officers serving at unhealthy posts), or
+
+(b) takes leave in the United Kingdom on returning for duty in the Commonwealth Relations Office, or
+
+(c) takes leave in the United Kingdom before transfer to another post abroad,
+
+and does not, on that occasion, take the whole of the leave accumulated from earlier leave-years, cannot carry over any such untaken leave.
+
+(6) An officer who, except for visits on duty, has remained for 24 months outside Great Britain (eighteen months if the post at which he is serving has been specified as unhealthy) will be entitled, if he proceeds on leave to the United Kingdom, to receive from public funds the amount of the return fares to the London area (in the appropriate class—see Regulation 4) by an approved route for himself, his wife, family, and one servant. ("Family" in this connection means any of the officer's relatives whose fare would be paid from public funds if he were leaving the post at the end of his tour of duty. In special cases the Secretary of State may authorize the payment from public funds of the fares of more than one servant up to the number authorized for the official journey to and from the post). During this journey he will be entitled to the repayment of necessary travelling expenses but not to subsistence allowance or shipboard allowance (see Regulation 4) or to the cost of insuring his baggage or to the refund of any charges for the conveyance of excess baggage.
+
+Families and servants will be expected to travel together when proceeding to and from leave at public expense under this paragraph, but if the Secretary of State is satisfied that there are good reasons for their travelling separately, their travelling expenses, but not subsistence or shipboard allowance or the cost of insuring their baggage or of charges for the conveyance of excess baggage, will be paid from public funds.
+
+(7) (a) An officer taking leave but returning to his post will continue to draw oversea allowance abated by 12½ per cent. for the period of absence from duty. This reduction will not be made in respect of short periods of leave within a total of 12 days in any one leave-year.
+
+(b) An officer taking leave and not returning to his post will cease to draw oversea allowance on the day he leaves his post. During the journey to the United Kingdom he will receive subsistence and shipboard allowance in accordance with Regulation 4, and during his leave he will receive a taxable allowance at the following annual rates:
+
+| Married | Single |
+|---------|--------|
+| £       | £      |
+| Assistant Under-Secretary of State ... | 218    | 145    |
+| Assistant Secretary ... ... ... | 306    | 186    |
+| Principal ... ... ... | 282    | 164    |
+| Assistant Principal ... ... ... | 125    | 68     |
+
+(8) Sick-leave. "Leave" in these Regulations does not include sick-leave. Until such time as general regulations are approved regarding sick-leave, each case will be decided on its merits, and allowances, etc., granted accordingly.
+(2) NON-ADMINISTRATIVE OFFICERS
+
+Regulation 1A—Outfit and Transfer Allowances.
+
+Non-administrative officers of the Commonwealth Relations Office will receive outfit and transfer allowances on the following basis:
+
+(1) Executive and Clerical Grades
+
+(a) The actual reasonable cost of blue civil uniform and/or white uniform when their purchase is authorized.
+
+(b) On first posting overseas: £100 if the officer is married, £50 if he is unmarried.
+
+(c) On the occasion of first posting overseas upon or after attaining the grade of a Senior Executive Officer: an allowance of £100 if the officer is married, or £50 if he is unmarried, in addition to the allowances laid down under paragraphs (b) or (f) as the case may be.
+
+(d) The allowances payable under paragraphs (b) and (c) are intended to help meet the expenses of purchasing the clothes required for formal occasions and such other equipment as an officer serving abroad may require. Payment of these allowances is subject to the production of a certificate that the sums claimed have been expended for the purposes laid down.
+
+(e) On the transfer to a post at home from a post abroad: one-tenth of the mean of the salary scale of the officer concerned.
+
+(f) On transfer from one post overseas to another post overseas, or from the United Kingdom to a post overseas other than in the case provided for in (b) above: one-twentieth of the mean of the salary scale of the grade of the officer concerned if the officer is proceeding to furnished accommodation, and one-tenth of the mean of the salary scale if he is proceeding to unfurnished accommodation, subject to a minimum of £25.
+
+(g) Where transfer is accompanied by promotion, the allowances payable under paragraphs (e) and (f) will be calculated on the salary scale of the new grade.
+
+(h) An officer serving at a post at which special clothing is, in the opinion of the Secretary of State, necessary for climatic reasons, will be entitled to receive the actual cost of such clothing up to a maximum of £30, or if married and accompanied by his family, up to a maximum of £45. The officer will be required to furnish a certificate that the sums claimed have been actually expended on clothing which would not otherwise have been purchased. This allowance may be drawn in whole or in part at any time during the officer's service in the post. Payment of this allowance will be limited to three occasions during an officer's career.
+
+(i) On promotion to a higher grade: the actual cost of the alteration of uniform rendered necessary by such promotion, subject to the production of a certificate that the amount claimed has been expended. An allowance for a new uniform will not be granted except where special circumstances are proved to the satisfaction of the Secretary of State.
+
+(2) Typing Grades
+
+(a) On first posting overseas, £50.
+
+(b) On any subsequent posting overseas, or on transfer from a post overseas to the Commonwealth Relations Office or to another post overseas, £25.
+
+(c) An officer serving at a post at which special clothing is, in the opinion of the Secretary of State, necessary for climatic reasons, will be entitled to receive the actual cost of such clothing up to a maximum of £30.
+The officer will be required to furnish a certificate that the sums claimed have been actually expended on clothing which would not otherwise have been purchased. This allowance may be drawn in whole or in part at any time during the officer's service in the post. Payment of this allowance will be limited to three occasions during an officer's career.
+
+(3) None of the allowances payable under this Regulation is subject to United Kingdom income tax.
+
+Regulation 2A—Oversea Allowance
+
+(1) An oversea allowance is paid to non-administrative officers of the Commonwealth Relations Office serving overseas. This allowance is intended, with the repayment of rent, to enable the officer generally to maintain himself and his family in conditions and at a standard in which he will most usefully and conveniently be able to carry out his duties as a member of the High Commissioner's staff.
+
+(2) The following items inter alia are taken into account in assessing the amount of the oversea allowance to be assigned to individual posts:
+
+(a) local cost of living;
+(b) expenditure which an officer serving overseas necessarily incurs, either at home or overseas, over and above that of an officer of corresponding rank serving at home;
+(c) expenditure which, while optional for a private individual, is obligatory for an officer by virtue of his official position.
+
+(3) Oversea allowance is not subject to United Kingdom income tax.
+
+(4) An officer will draw oversea allowance from the day on which he assumes duty at a post overseas, unless he continues to receive subsistence allowance in lieu of repayment of rent (see Regulation 5A—Housing, paragraph 4) in which case he begins to draw oversea allowance when he ceases to draw subsistence allowance. He will cease to draw oversea allowance on the day he vacates his post on transfer elsewhere. The rate of oversea allowance will be reduced during an officer's absence on leave except for short periods within a total of twelve days in any single leave-year (see Regulation 6A—Leave, paragraph 7).
+
+(5) An officer who is absent from his post on duty in the United Kingdom or elsewhere, in circumstances other than those referred to in paragraph 6, and is returning to his post, will be eligible for subsistence allowance at the appropriate rate and will retain the oversea allowance of his post less 12½ per cent. When such an officer is married and takes his wife and family (if any) with him he will draw:
+
+(a) in the United Kingdom, subsistence allowance for himself only (the position will be reviewed after two months' absence);
+(b) elsewhere, subsistence allowance for himself and his wife and family (if any) provided approval is given to their accompanying him.
+
+(6) An officer serving overseas who is temporarily attached to another post overseas (and, if married, leaves his family at his own post) and is returning to his own post will retain the whole of the allowance of his own post or draw that of the temporary post, whichever is higher, with subsistence allowance in addition at the discretion of the Secretary of State. If accompanied by his family, an officer may also draw subsistence for his wife if approval is given for her to accompany him officially.
+
+(7) An officer who performs the full duties of a higher post at the oversea station in which he is serving will receive an additional allowance equal to 12½ per cent. of the oversea allowance which would be appropriate to an officer of
+his own marital status occupying that higher post; provided that his own overseas allowance and this additional allowance together shall not exceed the appropriate overseas allowance of the post in which he is acting. The additional allowance will not be payable to an officer substituting for an officer absent on leave for periods for which the absent officer draws his full overseas allowance (see Regulation 6A, paragraph 7 (a)).
+
+An officer who performs the full duties of a higher post at an overseas station other than that at which he is serving will draw the full overseas allowance of the higher post.
+
+Regulation 3A—Home Service Allowance
+
+(1) Officers of the Executive and Clerical grades of the Commonwealth Relations Office serving in the United Kingdom after a tour of duty overseas will receive an annual allowance towards the special expenditure in the United Kingdom on rent and representation which is incurred by an officer of the Commonwealth Relations Office as a result of his service overseas.
+
+(2) The amount of this annual allowance, which is liable to United Kingdom income tax, will vary according to the officer's grade and according to whether he is married or single. The allowance will be at the following rates:
+
+| Grade                        | Married | Single |
+|------------------------------|---------|--------|
+| Chief Executive Officer      | £140    | £70    |
+| Senior Executive Officer     | £100    | £50    |
+| Higher Executive Officer     | £70     | £25    |
+| Executive Officer            | £35     | Nil    |
+| Clerical Officer             |         |        |
+
+(3) The allowance will be paid for a period not exceeding five years from the date on which the officer assumes duty in the United Kingdom and will cease on the date of departure if he is transferred overseas again within that period.
+
+Regulation 4A—Travelling
+
+(1) Whenever a non-administrative officer makes a journey on public service:
+   (a) The amount of the fares by rail, ship, aircraft or motor-car as the case may be by the approved route will be paid from public funds. The approved route means the route, method of transport and class of travel approved for a particular journey between two places.
+   (b) He will receive an allowance to meet the expenses of food and sleeping accommodation when these are not included in the fare; the allowance will be the rate in force at the time for the countries traversed by the approved route or for journeys by sea.
+   (c) Necessary expenses (such as taxi-fares, baggage charges, porterage, etc.) incidental to the journey will also be payable from public funds.
+
+(2) When an officer is proceeding to take up an appointment overseas:
+   (a) Public funds will bear the cost of the fares by the approved route for members of his family and servants as set out below if the family are going to reside at the post:
+       1. His wife.
+       2. Sons under the age of 16 at the beginning of the journey (if the son is to reside at his father's post overseas and receive full-time education in that country, the age limit is raised from 16 to 18).
+       3. Unmarried daughters residing with and dependent on their father.
+       4. Adopted or step-sons or daughters as in 2 and 3.
+5. In cases where
+
+(i) an officer occupies a post with representational duties and is unmarried, or widowed or divorced without children, or his wife is for good reasons unable to accompany him, or
+
+(ii) an officer is widowed or divorced and his children accompany him overseas,
+
+the Secretary of State may authorize payment of passage for a relative.
+
+6. Servants within the following limits:
+
+Higher Executive Officers and above—
+
+| Married | Unmarried |
+|---------|-----------|
+|         |           |
+
+(b) Public funds will bear the cost of transporting, including packing and unpacking, the officer's baggage and personal effects as approved by the Secretary of State. In the case of an officer of the grade of Higher Executive or above appointed to a post at which a car is considered necessary for the proper discharge of his duties, personal effects may include a motor-car which will be transported at public expense, but not on more than one occasion to and from a country during any one term of duty. Where the provisions of Regulation 5A—Housing, paragraph 1(c) are applicable, public funds will also bear the cost of packing, crating and transporting the officer's furniture within the following limits:
+
+(i) In the case of married officers of the grade of Higher Executive Officer and above, 7 tons or 1,400 cubic feet or 40 cubic metres.
+
+(ii) In the case of unmarried officers of the grade of Higher Executive Officer or above or married Executive Officers, 4 tons or 800 cubic feet or 23 cubic metres.
+
+(iii) In the case of unmarried Executive Officers and married and unmarried Clerical Officers, 2 tons or 400 cubic feet or 12 cubic metres.
+
+(c) Public funds will bear the reasonable cost of insuring the officer's baggage, personal effects and furniture up to the following maxima:
+
+| (a) including furniture if taken in accordance with paragraph 2(b) above | (b) excluding furniture |
+|---------------------------------------------------------------|------------------------|
+| Married Officers of and above the grade of Higher Executive Officer | £2,500 | £1,000 |
+| Unmarried Officers of and above the grade of Higher Executive Officer | £1,600 | £700 |
+| Other married officers | £1,200 | £350 |
+| Other unmarried officers | £600 | £200 |
+
+(d) The officer will receive in respect of his family and servants subsistence or shipboard allowance as set out in paragraph 6 and necessary expenses incidental to the journey as in paragraph 1(c).
+
+(e) The officer's family and servants will be expected to travel with him, but if the Secretary of State is satisfied that there are good reasons for their travelling separately, their fares, subsistence and shipboard allowances, cost of transporting and insuring luggage, etc., and other expenses as set out above will be paid from public funds.
+
+(3) The regulations in the preceding paragraph apply also
+
+(a) When an officer is returning to the United Kingdom at the end of a term of duty.
+(b) Except for the transport of furniture (paragraph 2(b) above) on the occasion of the transfer of the High Commissioner's Office from Pretoria to Cape Town and vice versa.
+
+(c) On internal transfers in India and in Pakistan.
+
+(4) On other journeys on duty an officer will not normally receive travelling expenses for his family and servants. But if, in a particular case, the Secretary of State considers that it is in the public interest for an officer travelling on duty in the country in which he is stationed to be accompanied by his wife in a strictly representational capacity, the cost of her fare and the appropriate subsistence and shipboard allowances will be paid from public funds. In India, Pakistan and Ceylon an officer may take one personal bearer or boy with him at public expense.
+
+(5) Where fares are paid from public funds under the preceding paragraphs these fares will be:
+
+(a) For an officer of the grade of Higher Executive Officer or above and members of his family—first-class, including sleeping-berths where necessary for land journeys.
+
+(b) For an officer of the grade of Executive Officer and members of his family—third-class in the United Kingdom and first-class elsewhere whether on sea or land, including sleeping-berths where necessary for the land journey. First-class rail fares in the United Kingdom will, however, be payable when third-class accommodation is not available.
+
+(c) For officers of the clerical and typing grades—third-class in the United Kingdom and second-class elsewhere whether by sea or land, including sleeping-berths where necessary for the land journey. Where second-class accommodation by sea is not available, tourist-class accommodation will be provided.
+
+(d) For servants—third-class in the United Kingdom and second-class elsewhere (or tourist-class accommodation by sea as in (c) above). Where, however, the servant is a nurse or governess travelling with the child or children of 10 years of age or under of an officer of the grade of Higher Executive Officer or above, a first-class fare will be paid except where
+
+(i) in the case of a journey or part of a journey by land there is only one such child, or
+
+(ii) first-class sleeping accommodation is obtainable on payment of a supplement to a second-class fare, in which case the supplement will be payable.
+
+(e) For bearers and boys, third-class travel.
+
+(f) Exceptions to the above rules as to the class of fare may be made where the Secretary of State is satisfied that it is inappropriate for the officer and/or servant to travel in the class specified.
+
+(6) (a) On journeys by land
+
+(i) Subsistence allowance is payable at rates varying with the locality.
+
+(ii) The appropriate rate of subsistence allowance is payable for each night necessarily spent away from an officer's normal place of duty subject to 20 per cent. abatement after 28 nights' duty in any one place. One-third of the appropriate full rate is payable for a period of not less than 10 hours absence, either after the completion of the 24 hours covered by a night allowance or where no night allowance is claimed. One-tenth of the appropriate full rate is payable for day-time absences on official duty of more than five but less than ten hours.
+(iii) The full allowance is payable in respect of the officer himself, three-quarters of the full allowance for his wife, half of the full allowance for each other member of his family above the age of 12 months, up to three-eighths of the full allowance for a servant (if applicable), and a special rate as laid down for a bearer or boy.
+
+(iv) If the cost of sleeping-berths is met from public funds the subsistence allowance will be reduced by one-third (this reduction will not be made if no claim for incidental expenses is made).
+
+(b) On journeys by sea subsistence allowance is not payable, but a special shipboard allowance is paid for each night spent on board ship to cover gratuities, etc. Half this rate will be paid for a wife accompanying her husband or with prior approval when travelling without him. No payment is made in respect of children or servants.
+
+(c) On journeys by air no subsistence allowance is payable when accommodation and meals are included in the fare.
+
+(7) (a) If an officer wishes to travel on duty or on leave in cases when passages are paid under paragraph 6 of Regulation 6A—Leave—by a route or method of transport other than the “approved route,” he must obtain the prior consent of the High Commissioner if the journey begins in the country in which he is serving overseas, or of the Secretary of State in all other cases. Such an alternative route is known as the “agreed route.” The additional time or expense involved in making a journey by a slower route is one of the factors which will be borne in mind by the authority who grants permission for an “agreed route” to be taken.
+
+(b) If the fare by the agreed route is more than the fare for the approved route, he will only be entitled to receive from public funds the amount of the fare for the approved route.
+
+(c) If the fare for the agreed route is less than that for the approved route, he will not be entitled to receive from public funds more than the actual expenses incurred.
+
+(d) The provisions of sub-paragraphs (a), (b) and (c) above also apply to journeys made by the officer’s wife, family or servant under paragraphs 2 and 3 above and under paragraph 6 of Regulation 6A—Leave.
+
+(e) If the agreed route is by motor-car, the officer will receive instead of the “actual expenses incurred” a mileage allowance of 2d. a mile. This will be increased by 1d. a mile for each additional passenger accompanying the officer under paragraphs 2, 3 or 4 above or under paragraph 6 of Regulation 6A—Leave, subject to a limit of 4d. a mile for 4 or more passengers.
+
+(f) Subsistence allowance when travelling on duty will be paid for journeys by an agreed route on the basis of time actually spent on the journey.
+
+(8) In certain circumstances it may be desirable in the public interest to arrange for an officer to make the whole journey in his own motor-car rather than to make the journey partly by rail or other public transport and partly by hired motor transport (e.g., when the destination is remote from a railway, or when much expenditure on taxis will otherwise be necessarily incurred). In such cases the High Commissioner may decide that the approved route for the journey is by motor-car and the officer will receive a mileage allowance at the rate appropriate for the post.
+
+Regulation 5A—Housing
+
+(1) A non-administrative officer of the Commonwealth Relations Office serving overseas will:
+
+(a) be provided with furnished accommodation, either rented or owned by Her Majesty’s Government, or
+(b) be repaid a sum equivalent to the expenditure which he incurs in renting suitable furnished accommodation, or
+
+(c) be repaid a sum equivalent to the expenditure which he incurs in renting suitable unfurnished accommodation, together with the cost of transporting his own furniture to and from the post as laid down in paragraph 2 of Regulation 4A—Travelling.
+
+(2) (a) When furnished accommodation, rented or owned by Her Majesty’s Government, is available and suitable an officer may be required to occupy it and in such circumstances it would not be open to him to opt for the arrangements in paragraph 1(b) or (c).
+
+(b) No charge will be made for the use of Government furniture where this is provided.
+
+(3) (a) In cases where officers are repaid the cost of renting accommodation the High Commissioner will be required to satisfy himself that the accommodation is suitable and that the arrangements made are the most economical consistent with the rank and requirements of the officer, and to furnish a certificate to this effect.
+
+(b) When negotiating leases, officers must endeavour to obtain a clause known as “the diplomatic clause” in the lease, enabling them to terminate it at short notice in the event of transfer before the lease expires.
+
+(c) In all cases tenant’s charges and services, but not rates, are payable by the officer.
+
+(d) Repayment of rent will normally be payable from the date on which an officer begins to incur rent until the day on which he leaves the post on transfer elsewhere. If on leaving the post otherwise than at his own request the officer should find himself unable to dispose of the lease of his accommodation immediately, repayment of rent may continue to be payable for a period which will be determined by the Secretary of State and will not exceed three months except in special cases.
+
+(4) If an officer is unable to move into suitable accommodation immediately on arrival at a post overseas, he may draw, for a period not normally exceeding 28 days, in lieu of oversea allowance and rent, subsistence allowance for himself and his family and household at the appropriate rates as laid down in paragraph 6 of Regulation 4A—Travelling. An officer may similarly draw subsistence allowance for a short period at the discretion of the High Commissioner where it is necessary for him to vacate his accommodation in advance of his leaving the post on transfer elsewhere.
+
+(5) In exceptional cases it may be necessary for an officer to reside permanently in a hotel or club where an inclusive charge is made for board and lodging. Such cases will be considered individually.
+
+(6) An officer who receives payment of rent may continue to receive it during periods of authorized absence, provided that the Secretary of State is satisfied that he has not been able to sub-let the accommodation. In cases where accommodation is sub-let, the amount received will be deducted from the repayment made to the officer in respect of rent.
+
+(7) Special arrangements apply to the Union of South Africa where officers normally resident in Pretoria are required to reside at Cape Town during part of each year. In addition to any accommodation provided at Pretoria, officers will also be refunded the actual cost of furnished accommodation in Cape Town under similar conditions, subject to adjustment as in paragraph 6 above in respect of any proceeds from the sub-letting of accommodation in Pretoria.
+Regulation 6A—Leave
+
+(1) Non-administrative officers of the Commonwealth Relations Office when serving overseas will be eligible for leave at the same rate as when serving at home as members of the Home Civil Service, i.e.,
+
+Higher Executive Officers thirty-six working days a year, or forty-eight working days a year after fifteen years' service in grades carrying thirty-six days;
+
+Executive Officers ... thirty-six working days a year;
+
+Clerical Officers ... twenty-four working days a year;
+
+Shorthand typists ... twenty-one working days a year during the first five years of their service in the grade and twenty-four working days a year thereafter;
+
+Typists ... eighteen working days a year during the first five years of their service and twenty-one working days a year thereafter.
+
+An officer may take his leave in the country in which he is serving or in any other country. Leave can only be taken subject to the exigencies of the service and with the prior approval of the High Commissioner.
+
+(2) Unhealthy posts. Officers serving at certain posts or in certain countries which shall from time to time be specified by the Secretary of State, with the approval of the Treasury, as unhealthy for the purposes of leave and who, at the expiration of their leave, return to the same post or to any other unhealthy post, are eligible for one day's additional leave in respect of each month's service at the post. Up to 24 days such leave may be accumulated.
+
+(3) The leave-year overseas will be between the same dates as for the Commonwealth Relations Office in London. Leave accruing in respect of the current leave-year but not taken before leaving the United Kingdom may be taken overseas. Officers returning to duty in the Commonwealth Relations Office cannot carry over beyond the date of their return to duty leave accumulated in respect of leave-years prior to the current leave-year.
+
+(4) Officers serving overseas, except in the Irish Republic, may accumulate leave up to the limits set out below in addition to any leave accumulated under paragraph 2 above.
+
+Executive grades ... up to one hundred and twenty-six days (up to one hundred and sixty-eight days in the case of Higher Executive Officers and above with more than fifteen years' service in grades carrying thirty-six days leave a year);
+
+Clerical Officers ... up to eighty-four days;
+
+Shorthand typists ... up to seventy-four days (up to eighty days for five years' or more service in the grade);
+
+Typists ... up to sixty-three days (up to seventy-four days for five years' service or more).
+
+(5) In addition to the period of his leave an officer may receive, on one occasion in each leave-year, travelling time—i.e., the time occupied by the outward and return journey by an approved route between the place at which he is serving and the place where he takes his leave—not exceeding the time occupied by the double journey by an approved route to and from the United Kingdom. An officer who
+
+(a) is granted travelling time in respect of a journey outside the country in which he is serving (other than a journey to a hill-station in an adjacent country, in the case of officers serving at unhealthy posts), or
+
+(b) takes leave in the United Kingdom on returning for duty in the Commonwealth Relations Office or
+(c) takes leave in the United Kingdom before transfer to another post abroad,
+and does not, on that occasion, take the whole of the leave accumulated from earlier leave-years, cannot carry over any such untaken leave.
+
+(6) An officer who, except for visits on duty, has remained for thirty months outside Great Britain (eighteen months if the post at which he is serving has been specified as unhealthy) will be entitled, if he proceeds on leave to the United Kingdom, to receive from public funds the amount of the return fares to the London area (in the appropriate class—see Regulation 4A) by an approved route for himself, his wife, family and one servant. ("Family" in this connection means any of the officer's relatives whose fare would be paid from public funds if he were leaving the post at the end of his tour of duty. In special cases the Secretary of State may authorize the payment from public funds of the fares of more than one servant up to the number authorized for the official journey to and from the post). During this journey he will be entitled to the repayment of necessary travelling expenses but not to subsistence allowance or shipboard allowance (see Regulation 4A) or to the cost of insuring his baggage or to the refund of any charges for the conveyance of excess baggage.
+
+Families and servants will be expected to travel together when proceeding to and from leave at public expense under this paragraph, but if the Secretary of State is satisfied that there are good reasons for their travelling separately, their travelling expenses, but not subsistence or shipboard allowance or the cost of insuring their baggage or of charges for the conveyance of excess baggage, will be paid from public funds.
+
+Where leave outside the country in which the officer is serving is taken in a country other than the United Kingdom, the amounts payable in respect of fares will not usually be paid from public funds and will only be allowed if the Secretary of State decides that payment from public funds is warranted by the special circumstances of the case and, in any case, will not exceed those which would be payable in respect of a journey to or from the United Kingdom by an approved route. If, however, the amount of the fares to or from the place at which leave is being taken is less than the amount of the fares for a journey to the United Kingdom, the officer will not receive more than the amount of the fares for the journey actually taken.
+
+(7) (a) An officer taking leave but returning to his post will continue to draw oversea allowance abated by 12½ per cent. for the period of absence from duty. This reduction will not be made in respect of short periods of leave, within a total of twelve days in any single leave-year.
+
+(b) An officer taking leave and not returning to his post will cease to draw oversea allowance on the day he leaves his post. During the journey to the United Kingdom he will receive subsistence and shipboard allowance in accordance with Regulation 4A and during his leave he will receive a taxable allowance at the following annual rates:
+
+| Married | Single |
+|---------|--------|
+| Chief Executive Officer and above | £140 | £70 |
+| Senior Executive Officer | £100 | £50 |
+| Higher Executive Officer | £70 | £25 |
+| Executive Officer | £35 | Nil. |
+| Clerical Officer | | |
+
+(8) Sick Leave. "Leave" in these Regulations does not include sick-leave. Until such time as general regulations are approved regarding sick-leave, each case will be decided on its merits, and allowances, etc., granted accordingly.
+PART V
+
+STATEMENT OF SERVICES OF THE STAFF OF THE COMMONWEALTH RELATIONS OFFICE SERVING AT HOME AND ABROAD . . . 215
+
+STATEMENT OF SERVICES OF SENIOR MEMBERS OF THE STAFFS OF THE ADMINISTRATIONS OF BASUTOLAND, THE BECHUANALAND PROTECTORATE AND SWAZILAND . . . . . 244
+STATEMENT OF SERVICES OF THE STAFF OF THE COMMON-
+WEALTH RELATIONS OFFICE SERVING AT HOME AND ABROAD
+
+A
+
+ADAIR, Arthur Robin, M.B.E. (1947); born 10th February, 1913; educated Boujeloud School, Fez, Morocco, Queen Elizabeth's Grammar School, Wimborne, and Emmanuel College, Cambridge; Modern Languages Tripos (French and Spanish) Class II, Div. I; Indian Civil Service 16th September, 1937, to 1947, including three years in the Army as Assistant and later Deputy Recruiting Officer under the Lucknow Recruiting Area; commissioned 2nd Lieutenant April 1941 and placed in charge of recruitment for the Province of Bihar and some of the Eastern States; reverted to Government of Bihar with rank of temporary Major February 1944; District Magistrate and Deputy Commissioner 1944 to 1947 with short period as Additional Director of Agriculture; Temporary Principal Treasury 17th July, 1947; transferred to Commonwealth Relations Office 1st October, 1947; established Principal 28th May, 1948; Office of the United Kingdom High Commissioner in Pakistan (Dacca) 17th July, 1947 to October, 1950, Ceylon 2nd September, 1952.
+
+ALLEN, Mark Echalaz; born 19th March, 1917; educated Charterhouse 1930 to December 1935, Freiburg, Germany, January to July 1936, Christ Church, Oxford, October 1936 to June 1939; "Holford" Exhibition in German and French; 2nd Class Honours in Philosophy, Politics and Economics; Assistant Principal, Dominions Office, 2nd October, 1939; military service April 1940 to February 1945; commissioned December 1940 in Intelligence Corps; Western Desert September 1941-August 1942; G.H.Q. Cairo September 1942-June 1943; H.Q. 13th Corps Sicily and Italy July 1943-February 1945; released with rank of Captain; Principal (in absentia) 10th March, 1944; Assistant Secretary in Office of United Kingdom Representative to Eire July 1945 to September 1946; Office of United Kingdom High Commissioner in India December 1948 to December 1950; seconded to the Foreign Service and posted to the Permanent United Kingdom Delegation to the United Nations in New York, February 1953.
+
+ALLIES, Edgar James, O.B.E. (1948), I.S.O. (1953); born 26th October, 1891; educated at Leyton County High School; Assistant Clerk, Scottish Education Department, 1909; Second Division Clerk, Board of Education, March 1913; National Insurance Audit Department April 1913 to July 1919; on War Service February 1917 to July 1919; served in France and Belgium with the Rifle Brigade February 1918 to July 1919. Second Division Clerk, Colonial Office, 18th July, 1919; Higher Clerical Officer 1st April, 1922; Staff Officer 3rd March, 1937; Senior Staff Officer 1st October, 1943; Assistant Accountant-General, 1st March, 1949; Accountant-General, 1st January, 1950.
+
+ANDERSON, George David; born 11th September, 1913; educated at King Edward VII Grammar School, King's Lynn, King's Gold Medallist, and Emmanuel College, Cambridge (Scholar); double first in Modern Languages Hons. Tripos; social welfare work with National Association of Boys' Clubs 1934-37; Mercantile assistant and mill manager for Messrs Macgregor and Co. Ltd. Rangoon 1938-41; Hon. Secretary, Rangoon Boys Home Trust 1938-1942; enlisted in Burma Auxiliary Force 1938; full-time military service from November 1941; commissioned April 1942 and served with Burma Rifles and Burma Regiment in Burma and India; attached to Combined Services Detailed Interrogation Centre (India) April 1944; Lt.-Col. O.C. Indian Wing March 1945, and Commandant C.S.D.I.C. April 1946; released August 1946; Temporary Principal, Ministry of Food, 1st October, 1946; established 30th November, 1946; posted to the Treasury for service in the Office of the United Kingdom High Commissioner in India (New Delhi) 2nd December, 1946; transferred to Commonwealth Relations Office 1st October, 1947; Office of the Deputy United Kingdom High Commissioner, Calcutta, April, 1949 to June, 1951.
+
+ANTROBUS, Maurice Edward, C.M.G. (1943), O.B.E. (1938); born 20th July, 1895; educated Winchester College (Scholar) September 1908 to July 1914 and Trinity College, Cambridge (Exhibitioner), January 1919 to June 1920; Mathematical Tripos Part I, Class 2, 1919, History Tripos Part II, Class 2, 1920; 6th K.R.R.C. 2nd Lieut. 15th August, 1914; Captain January 1917; served in France and Belgium 1915 and Salonika and France 1917 to 1919. Wounded twice; demobilized January 1919; temporary 2nd class clerk Colonial Office 9th August, 1920; Assistant Principal 7th February, 1921; detached for duty in connection with Irish Settlement February 1922; Assistant Private Secretary to Secretary of State 2nd November, 1925; seconded as Private Secretary to Governor of Ceylon July 1927 to July 1930; Principal Dominions Office 4th September, 1929; Political Secretary in Office of United Kingdom High Commissioner in the Union of South Africa January 1936 to May 1939; Assistant Secretary Colonial Office 1st June, 1936; Principal Secretary in the Office of the United Kingdom Representative to Eire September 1939 to May 1941; Official Secretary in the Office of United Kingdom High Commissioner in Australia June 1941 to January 1944; Official Secretary Office of United Kingdom High Commissioner in New Zealand January 1944 to February 1945; accompanied Lord Winsten to Civil Aviation Conference, Australia and New
+Zealand, spring 1946; member of Clark Mission 1946-47; Member of the Syers' Mission to India and Pakistan, October to December, 1949.
+
+ARCHER, Margaret, M.B.E. (1952); born 7th August, 1921; educated at King Edward's High School for Girls, Birmingham, 1932-1939, Birmingham University 1940-1943; B.A. Honours in Social and Political Science 1943; Burroughs Operator, Austin Motor Works, September 1939 to April 1940; Women's Land Army 1940; Welfare Officer, Telecommunications Research Establishment, 1943-1945; Welfare Officer, Ministry of Education, 1945-1949; Commonwealth Relations Office 26th October, 1949; Personnel Officer, Office of United Kingdom High Commissioner, New Delhi, 26th October, 1949, to 7th January, 1953; Senior Temporary Assistant 26th October, 1949; Executive Officer (local Higher Executive Officer) 1st August, 1951; Higher Executive Officer (acting) 1st August, 1952.
+
+ASPIN, Norman; born 9th November, 1922; educated Darwen Grammar School 1934-41 and Durham University 1941-42 and 1945-47; B.A. with 1st Class Honours in Geography 1947; M.A. 1947; enlisted as rating in R.N.V.R. July 1942; commissioned January 1943 and appointed to Meteorological Service; served in East Africa; Lieutenant; released in Class B November 1945; Demonstrator in Geography, Durham University 1947-48; Assistant Principal 4th August, 1948; Office of United Kingdom High Commissioner in India (Bombay) November 1948 to February 1951. Principal 1st July, 1952.
+
+ASTON, Thomas William; born 14th May, 1922; educated at Saltley Grammar School, Birmingham, 1932-39; Employment Clerk, Ministry of Labour, August 1939; Joined R.A.F. 1941; in training in U.K., U.S.A. and Canada 1941-43; Commissioned Navigator 1942; served in Middle East 1943; Ft.-Lt. 1944; served at posts in Palestine, Persian Gulf, Egypt and South Africa as Instructor, Navigation Officer, Briefing Officer, 1944-46. Demobilized May 1946. Executive Officer (Inspector) Ministry of National Insurance, 13th October, 1947; Assistant Principal Commonwealth Relations Office, 19th March, 1951; Office of United Kingdom High Commissioner in India (New Delhi), February 1953.
+
+B
+
+BASS, Harry Godfrey Mitchell; born 26th August, 1914; Scholar of Marlborough College 1928-33 and of Gonville and Caius College, Cambridge, 1933-37; Classical Tripos Part I Class I, Part II Class I, B.A. (Cantab.) 1937; St. John's College, Oxford, 1937-39; B.A. (Oxon) 1937; M.A. (Cantab.) 1940; Assistant Keeper II British Museum 27th March, 1939; lent to Admiralty 4th March, 1940; transferred to Dominions Office 9th September, 1946, on trial as Principal; member of U.K. Delegation to Food and Agriculture Organization Conference, Geneva, 1947; Principal 9th September, 1947; Assistant Secretary in Office of United Kingdom High Commissioner in Australia May 1948, to October, 1950; temporarily transferred to Office of United Kingdom High Commissioner in New Zealand September and October 1948; seconded to Cabinet Office June 1951 to 12th July, 1953; member of the Secretariat, Meetings of Commonwealth Ministers concerned with Supply and Production, 1951, and of Commonwealth Finance Ministers, 1952.
+
+BAXTER, George Herbert, C.M.G. (1949), C.I.E. (1942); born 30th November, 1894; educated at Manchester Grammar School 1905-13 and New College, Oxford, 1913-14 and 1919 (January)-1920 (Classical Scholar); First Class Honours Final Honour School of Jurisprudence, 1920; M.A. (Oxon) 1921; enlisted in Royal Fusiliers 12th September, 1914; commissioned 28th January, 1915, York and Lancaster Regiment; transferred to Royal Artillery 8th June, 1915; served in France intermittently 1916 and 1918; Major; demobilized January 1919; Junior Clerk, India Office, 19th July, 1920; Assistant Principal 1st April, 1921; Special Mission to Baghdad October-December, 1921; Private Secretary to Permanent Under-Secretary of State 24th January to 31st October, 1924; Principal 1st November, 1924; Secretary to Royal Commission on Indian Currency and Finance August 1925 to July 1926; attached to British Delegation, Indian Round Table Conference, September-December 1931; Secretary to Committee on Indian Reserve Bank Legislation July-August 1933; Assistant Secretary, 21st December, 1933; Secretary to Lord Privy Seal's Conference on Air Raid Shelter Policy (United Kingdom) February-April 1939; Member of Standing Committee for Administration of Occupied Territories 1941-43; Assistant Under-Secretary of State 22nd July, 1943; visited India with the Parliamentary Under-Secretary of State, for discussions with the Government of India about the Indian Services, January 1947; Publication: India and Pakistan: External Economic Relations (London University and Institute of Bankers, 1949).
+
+BELCHER, Ronald Harry; born 5th January, 1916; educated at Christ's Hospital 1925-34, Jesus College, Cambridge, Classical Scholar 1934-38; Classical Tripos Part I Class II Division I, Part II Class I B.A.; Diploma in Classical Archaeology; Brase-nose College, Oxford, 1938-39; Indian Civil Service 1938 to 1948; served in the Punjab; Assistant Principal Commonwealth Relations Office 1st April, 1948; Principal 1st January, 1949; seconded to Foreign Service on staff of United Kingdom Embassy, Washington, 13th March, 1951.
+
+BENNETT, Frederick Henry; born 7th March, 1897; enlisted in R.F.A. as Gunner May 1915, served in France and Belgium (twice wounded), released June 1919; temporary clerk, Ministry of Pensions, July 1919 to September 1921; Clerical Officer, India Office, 12th September, 1921; C.Q.M.S.
+Royal Engineers, Territorial Army, 1924, embodied 25th August, 1939, served in France September 1939 to June 1940, released 2nd July, 1945; Higher Clerical Officer 26th September, 1939, Higher Executive Officer 11th April, 1947.
+
+BENTLIFF, David Gordon Rix; born 9th October, 1926; educated Denstone College, Staffs, 1941-44, Lincoln College, Oxford, 1947-1950. 2nd Class in Final School of Jurisprudence; Royal Navy 1944-47, successively as Midshipman and Sub-Lieutenant R.N.V.R.; Assistant Principal, Commonwealth Relations Office, 13th November, 1950; office of United Kingdom High Commissioner in Ceylon 14th February, 1952.
+
+BEWG, Herbert John; born 22nd June, 1915; educated at St. Joseph's College, Beulah Hill, London, and London University (London School of Economics) 1932-35. B.Sc. (Econ.) Honours 1935; enlisted in R.A.S.C. 24th January, 1940, R.A.E.C. 1942, Captain on Staff of D.D.A.E. (Technical) 1944, demobilized April 1946; Economic Specialist, Board of Trade (Overseas Information Division), 11th March, 1946 to 24th January, 1948; H.M. Treasury (Information Division) 25th January, 1948, Temporary Chief Executive Officer, renamed Principal Information Officer, 1st January, 1949; Senior Information Officer, C.R.O., 15th December, 1950 (established with seniority from 1st August, 1949); Temporary Principal Information Officer 14th April, 1951, Substantive 1st May, 1953; Information Officer, Canberra, 9th October, 1952. Publications: joint author of two Commerce handbooks used in Army Education Scheme and joint editor of the complete Series.
+
+BICKFORD, William Reginald, M.B.E. (1943); born 14th September, 1911; educated at Cheltenham College and Wadham College, Oxford; Lit. Hum.—First Class Part I, Second Class Part II; appointed to the Indian Civil Service 1934; served in Burma as Assistant Commissioner until 1939; posted to Home Department April 1939; Civil Affairs Staff, Burma, 2nd February, 1944; commissioned into A.B.R.O. from same date; served in India and Burma; released with rank of Major 19th October, 1945; Secretary, Defence and External Affairs Department, October 1945-March 1947, and Additional Secretary, Finance Department, to May 1947; Principal, Commonwealth Relations Office, 4th April, 1948; Office of the United Kingdom High Commissioner in India (New Delhi), April, 1948 to May, 1950.
+
+BILLCLIFFE, Leslie, M.B.E. (1946); born 25th February, 1893; educated at Tiffin's Boys School, Kingston; Surrey Yeomanry and Royal Field Artillery, Territorial Army, 1912, embodied August 1914 and served in France, Belgium, and the Middle East, commissioned in R.F.A. 1919, demobilized May 1919 and rejoined Territorial Army until 1926; Territorial Efficiency Medal 1920. Assistant Accountant (temporary), Ministry of Munitions, 9th April, 1919; temporary clerk, Disposal and Liquidation Commission, 1st April, 1921; Clerical Officer, India Office, 16th June, 1922; Assistant Information Officer, 4th February, 1938; Higher Executive Officer 4th February, 1942.
+
+BISHOP, Major-General William Henry Alexander, C.B. (1946), O.B.E. (Military); born 20th June, 1897; educated at Plymouth College 1907-14 and Royal Military College, Sandhurst, 1914-15; joined Dorset Regiment (2nd Lieutenant) April 1915; served in Iraq and Palestine 1915-18, India 1919-25; England, and attended Army Staff College, Camberley, 1926-29, Germany 1930; G.S.O.III War Office 1931-34; R.A.F. Staff College 1935; G.S.O.II Colonial Office 1936-39; Brevet Lieut.-Colonel 1938; War Office (Chief Staff Officer, East Africa Forces) 1939-40; Liaison Officer with War Cabinet Offices, Dominions Office, 1940-41; Colonel 1941; Brigadier 1941; War Office 1941-43 (Principal Administrative Staff Officer, West Africa, 1941-42, Brigadier, Inter-Allied Planning Staff, North Africa, 1943); Major-General 1944; Military Adviser, Ministry of Information, Director of Quartering, War Office, and Assistant Director-General, Political Intelligence Department, 1944-45; Foreign Office (Control Commission for Germany) 1945-50 (Chief, Information Services Division, 1945-46, Deputy Chief of Staff 1947-48, Commissioner "Land" North Rhine-Westphalia 1948-50); Assistant Secretary, Commonwealth Relations Office, 1st January, 1951; Principal Staff Officer to Secretary of State, July 1953.
+
+BLAKE, Reginald Gilbert; born 20th February, 1898; Boy Clerk, Exchequer and Audit Department, February 1914; served with Rifle Brigade and Royal Garrison Artillery May 1916 to October 1919 (France and Belgium March 1917 to October 1919); Assistant Clerk, India Office, 3rd December, 1919; Second-Class Clerk 29th April, 1920; Executive Officer 1st April, 1922, Higher Executive Officer 1st July, 1939, Senior Executive Officer 1st January, 1950.
+
+BOOKER, Eleanor Milford, M.B.E. (1951); born 28th June, 1918; educated at St. Mary's School, Calne, 1930-36 and Westfield College, London University, 1937-40; B.A. Honours Class IIA History 1940; secretarial work, War Office (Regional Headquarters, Birmingham) March-September 1941; Temporary Assistant Principal, India Office, 22nd September, 1941; special duty with Cabinet Mission to India March-July 1946; Information Officer 1st August, 1949.
+
+BOOTLE, David, M.B.E. (1945); born 4th February, 1894; enlisted in Royal Fusiliers (2nd Battn. City of London Regiment) August 1914, served in Malta, France and Flanders, demobilized with rank of sergeant 1919; temporary clerk, Ministry of Labour, April 1920-June 1926; Clerical Officer, Dominions Office, 12th July, 1926; Chief Clerk in Office of United Kingdom High
+Commissioner, Union of South Africa, September 1938-July 1946; Higher Clerical Officer 26th June, 1941, Higher Executive Officer 16th November, 1948.
+
+BOTTOMLEY, James Reginald Alfred; born 12th January, 1920; educated Kings College School 1933 to 1938; Trinity College, Cambridge, October 1938 to June 1940; Classical Scholar; Classical Tripos Part I Class I 1940; B.A. (War) 1941; enlisted in ranks of Royal Armoured Corps 18th July, 1940; commissioned in Inns of Court Regiment R.A.C. 28th December, 1940; Lieutenant 28th June, 1942; wounded in Normandy August 1944; released October 1946; Assistant Principal, Dominions Office, 21st October, 1946; Assistant Private Secretary to Secretary of State 29th March, 1947; Assistant Secretary in Office of United Kingdom High Commissioner in the Union of South Africa January 1948 to March 1951; Principal 20th September, 1949.
+
+BRITTEN, Rae Gordon; born 27th September, 1920; educated at Liverpool Institute High School 1932-39, Magdalen College, Oxford, September 1939 to June 1941 and October 1945 to July 1947 (Classical Exhibitioner); Hon. Mods. Class II 1940; Philosophy, Politics and Economics Class II 1947; enlisted in ranks of R.A. August 1941; commissioned September 1943; transferred to Border Regiment January 1944; served in N.W. Europe September 1944; wounded; Lieutenant; released November 1945; Research Assistant with Common Ground Ltd. October 1947; Assistant Principal 3rd May, 1948; Office of United Kingdom High Commissioner in India (Calcutta) 4th October, 1948 to February 1951; Principal 20th August, 1951.
+
+BROWER, David Russel Francis; born 12th September, 1918; educated at Liverpool College; enlisted in ranks, R.A. (T.A.) 1938, mobilized September, 1939; B.E.F. France and Belgium 1940; seconded to London University, School of Oriental Studies, 1942, for 18 months' study of Japanese; commissioned 1944 into Intelligence Corps and posted G.H.Q. (India) as Army Interpreter in S.E.A. theatre; demobilized 1946; India Office (Regional Information Officer, British Information Services, Bombay) 13th December, 1946; established Information Officer (temporary Senior Information Officer) with seniority from 1st August, 1949.
+
+BROWN, Alan James; born 28th August, 1921; educated Wandsworth School 1931-39 and Magdalene College, Cambridge, 1939-41; Modern and Medieval languages Tripos Part I Class II (I), preliminary to Part II Class I; embodied service from November 1941; commissioned Intelligence Corps April 1942; served in West Africa 1942-44 and in North West Europe (mainly Germany) 1944-47; Major; released April 1947; Intelligence Officer, Grade I, Control Commission for Germany 5th May, 1947 to 31st May 1948; Assistant Principal 3rd August, 1948; Principal 1st December, 1952; Office of United Kingdom High Commission in India (Calcutta) November 1948 to April 1951; Private Secretary to Parliamentary Under-Secretary of State 9th July, 1951 to 30th November, 1952; Office of United Kingdom High Commissioner in Pakistan (Dacca) December 1952.
+
+BROWN, Benvenuto Dunelm; born 9th October, 1916; educated Queen Elizabeth Grammar School, Darlington; on staff of "Northern Echo and Northern Despatch" 1933-40; served in Royal Navy 1940-46 as rating and as commissioned officer; P.S. to H.E. the Officer Administering the Government of Ceylon, 1946-47; India Office (Regional Information Officer, British Information Services, Calcutta) 5th May, 1947; established Information Officer (temporary Senior Information Officer) with seniority from 1st August, 1949; Senior Information Officer 23rd May, 1953.
+
+BRYANT, William John; born 27th August, 1893; Rifleman, Queen's Westminster Rifles, August 1914 to September 1916, commissioned September 1916 in Essex Regiment, demobilized with rank of Lieutenant November 1919; Temporary Administrative Officer, Ministry of Labour, November 1919; Clerical Officer, India Office, 16th January, 1922, Higher Clerical Officer, 19th March, 1937; Assistant to Political A.D.C. 30th December, 1946; Higher Executive Officer 30th December, 1946; Passport Officer, Ottawa, April 1951.
+
+C
+
+CALLOW, Frank Albert, M.B.E. (1950); born 3rd May, 1900; educated at Leyton County High School; Boy Clerk, Customs and Excise, 6th December, 1951, G.P.O. 1st May, 1916; served with Rifle Brigade May 1918 to April 1920 (lance-corporal); Assistant Clerk 19th October, 1917; India Office 12th April, 1920, regraded Clerical Officer 12th April, 1920; Executive Officer 4th May, 1939, Higher Executive Officer 24th May, 1944.
+
+CHAD, Irene Bertha; born 17th August 1898; educated at Parliament Hill County School; Temporary Clerk, Grade I, War Office, 23rd October, 1916, to 7th April, 1921; Clerical Officer, India Office, 8th June, 1921, Executive Officer 23rd January, 1941, Higher Executive Officer 1st April, 1950.
+
+CHADWICK, Gerald William St. John; born 28th May, 1915; educated Lancing College 1929-34; Open Exhibitioner Modern Languages St. Catherine's College, Cambridge, 1934 to 1937; 2nd Class Hons. Mod. Languages Parts I and II; B.A. 1937; M.A. 1938; courses at Lausanne, Sorbonne and Weberschule Bonn-on-Rhine; Assistant Principal, Colonial Office, 6th October, 1938; Assistant Private Secretary to Secretary of State 6th May, 1940; Private Secretary to Permanent Under-Secretary of State, Dominions Office, 6th June, 1940; Assistant Private Secretary to successive Secretaries of State 5th August, 1940; Principal 1st October, 1941; Secretary to Parliamentary Mission to Newfoundland June to September 1943; attended Civil
+Aviation Conferences, Bermuda, December 1945; Newfoundland, January 1946; visited Newfoundland in connection with Economic and Financial Survey February to May 1946; attached United Kingdom Delegation to United Nations, New York, March to May 1949; Office of the United Kingdom High Commissioner in Canada, 20th September, 1949 to 3rd February, 1952; Counsellor (local Assistant Secretary), United Kingdom Embassy, Dublin, 4th February, 1952.
+
+CHISHOLM, Ronald George; born 26th January, 1910; educated at Inverness and Peterhead Academies; Clerk, Sheriff Clerk Service, Scottish Home Department, on qualifying in (Scottish) legal subjects 1929; Sheriff Clerk Depute 1941; passed course at Staff College, Camberley, 1939; War Service: Battery Commander Royal Artillery, D.A.Q.M.G. (Major) G.H.Q. Middle East 1944-45; Territorial Decoration 1944; Norwegian Decoration 1948; lent to Burma Office as Principal on trial 27th December, 1945; transferred as Principal 15th August, 1946; Office of the United Kingdom High Commissioner in Pakistan (Karachi) April 1951; Acting Deputy High Commissioner, Peshawar, 1951, Dacca, 1952 to 14th June, 1953.
+
+CHITTY, Irene Mellish, M.B.E. (1949); born 18th September, 1906; educated at Tiffin Girls School, Kingston-on-Thames; London Matriculation; Writing Assistant, Ministry of Labour, 31st December, 1923; Clerical Officer 1st June, 1932; Dominions Office 16th May, 1934; Office of the United Kingdom Representative in Dublin June 1940 to June 1943; Higher Clerical Officer 22nd June, 1942; Chief Clerk, Office of the United Kingdom Representative in Dublin January 1945 to January 1949; Higher Executive Officer 4th November, 1948.
+
+CLARK, William Arthur Weir, C.M.G. (1952), C.B.E. (1948); born 5th December, 1908; educated at Stewarts College Edinburgh, 1919-26, Edinburgh University 1926-30, Trinity College, Oxford, 1930-31; M.A. (Hons. Classics) Edinburgh; appointed to the Colonial Administrative Service July 1931; served in Kenya July 1931 to December 1939; Assistant Principal, Dominions Office, 1st January, 1940; Principal April 1940; Assistant Private Secretary to Secretary of State 1941; Private Secretary 1942-45; on secretarial staff of Prime Ministers' Meeting, 1944, and on United Kingdom Delegation to United Nations Charter Conference, San Francisco 1945; Chief Secretary to Central African Council September 1945; Chief Secretary to High Commissioner for Basutoland, Bechuanaland Protectorate and Swaziland November 1948; seconded as Assistant Secretary, Commonwealth Relations Office, 4th December, 1950.
+
+CLARKSON, William, M.B.E. (1942); born 10th May, 1899; educated at Clapham Secondary School; Boy Clerk, Charity Commission, 24th November, 1914, Assistant Clerk 25th April, 1917; enlisted in Royal Flying Corps May 1917 as 3rd Class Air Mechanic, transferred to R.A.F. 1st April, 1918, discharged with rank of Leading Aircraftman August 1919; Assistant Clerk, India Office, 25th August, 1919, Clerical Officer 1st January, 1920, Higher Clerical Officer 9th August, 1936, Higher Executive Officer 13th July, 1942; Controller of Office Services (Senior Executive Officer) 24th February, 1951; Chief Executive Officer 22nd May, 1953.
+
+CLEARY, Denis Mackrow; born 20th December, 1907; educated at St. Ignatius College, Stamford Hill, 1919 to 1924, St. Olave's and St. Saviour's Grammar School 1924-27 and St. John's College, Cambridge 1927-31; 1st Class Honours in Mathematics; Adams Memorial Prize for Mathematics; M.A.; Assistant Principal, India Office, 19th October, 1931; Private Secretary to Permanent Under-Secretary of State, 13th August, 1936; Principal 11th October, 1937; on loan to the Ministry of Home Security 26th June, 1940, to 27th September, 1944; on loan to the Foreign Office (German Section) with rank of Assistant Secretary 28th October, 1946, to 19th June, 1949; Assistant Secretary 2nd March, 1948; Office of the United Kingdom High Commissioner in India July 1949 to August 1951.
+
+CLEMENTS, Frederick James; born 12th March, 1899; Civilian Clerk, H.Q. South London Recruiting Area, May 1915 to April 1917; served as Air Mechanic in R.F.C. April 1917 to March 1919; temporary clerk, India Office, May 1920, Clerical Officer, 1st December, 1921; War Office (on loan) January 1940 to May 1946; Higher Clerical Officer 13th June, 1940, Higher Executive Officer 2nd February, 1948.
+
+CLIPSHAM, Philip Richard, M.B.E. (1947); born 28th May, 1903; Boy Clerk, Colonial Office, 2nd September, 1918; Assistant Clerk 30th September, 1920; Registrar in Office of United Kingdom High Commissioner in Canada February 1932 to December 1937; Higher Clerical Officer 4th December, 1937; seconded to Colonial Service as Principal Officer, Colonial Secretariat, Trinidad, 3rd July, 1941, to 1st August, 1944; Chief Clerk and Accountant in Office of United Kingdom High Commissioner in Canada August 1944 to February 1947; Staff Officer February 1947; Principal 5th August, 1948; Office of Deputy High Commissioner, Lahore, 6th February, 1952; Deputy High Commissioner (Acting) Peshawar 1952.
+
+CLUTTERBUCK, Sir Peter Alexander, G.C.M.G. (1952), K.C.M.G. (1946), M.C. (1918); born 27th March, 1897; scholar of Malvern College and Pembroke College Cambridge; Coldstream Guards 1916-19, Captain and Adjutant 3rd Batt. October 1917, M.C. and mentioned in despatches 1918; Assistant Principal G.P.O. 1st September, 1919; on loan to Colonial Office 13th February, 1922; transferred to Colonial Office 21st December, 1922;
+Private Secretary to Parliamentary Under-Secretary of State June to October 1924; Secretary Milner-Lovat Agricultural Committee 1924-25; Secretary to Donoughmore Commission on Ceylon Constitution and visited Ceylon 1927-28; Private Secretary to Permanent Under-Secretary of State August 1928; Principal November 1929; United Kingdom delegation to League of Nations 1929-31; attended negotiations with Egypt 1930; Reparations conferences London 1931 and Lausanne 1932; Secretary Newfoundland Royal Commission February 1933 and again visited Newfoundland in October 1938; Deputy High Commissioner for the United Kingdom in Union of South Africa August 1939 to May 1940, Assistant Secretary 6th May, 1940, Assistant Under-Secretary of State 5th May, 1942; United Kingdom High Commissioner in Canada 23rd May, 1946, to 22nd May, 1952, in India 1st October, 1952.
+
+COCKRAM, Ben, C.M.G. (1948), O.B.E. (1943); born 19th May, 1903, Channel Islands; educated Taunton's School, Southampton, 1915-20; Queens College, Oxford, 1921-25, 1st Class Honours Med. and Mod. History; M.A. (Oxon.); B.A. (London); 1st Class Honours Modern History; Ph.D. Michigan, U.S.A., Research Fellowship University of Michigan 1925-26; Research Studentship London School of Economics 1926; Goldsmith Senior Student, University of Oxford, 1926-27; Assistant Principal, Dominions Office, 4th November, 1926; Private Secretary to Parliamentary Under-Secretary of State 1st October, 1930; Private Secretary to Permanent Under-Secretary of State 22nd June 1931; Principal 21st November, 1934; United Kingdom Delegations to Assembly and Council of League of Nations 1935-38; United Kingdom Delegation to Brussels Conference 1936; Political Secretary in the Office of the United Kingdom High Commissioner in Union of South Africa June 1939 to October 1944; Assistant Secretary 7th November, 1944; Counsellor United Kingdom Embassy, Washington, U.S.A., November 1944 to March 1949; United Kingdom delegations to San Francisco Conference 1945, to Councils of U.N.R.R.A. and F.A.O., the Assembly, Security, Economic and Social, and Trusteeship Councils of United Nations 1946-48; and the Paris Peace Conference 1946. Member of the Far Eastern Commission on Japan 1946-48; Deputy High Commissioner for the United Kingdom in the Commonwealth of Australia, 1st January, 1952.
+
+COE, William John; born 21st June, 1914; educated Owen's School, Islington; Inter B.A. 1932; with Messrs. Lewis Powell Sons & Co., Stockbrokers, 1933 to 1935; Officer of Customs and Excise 30th September, 1935, to 31st August, 1948; military service R.A. (Field) May 1942 to November 1946; served in India and West Africa; commissioned May 1943; Major; Assistant Principal, Commonwealth Relations Office, 1st September, 1948; Principal 13th July, 1949; Office of Deputy High Commissioner, Bombay, 27th March, 1952.
+
+COLE, David Lee, M.C.; born 31st August, 1920; educated at Cheltenham College (Scholar) 1934-39 and Sidney Sussex College, Cambridge (Classical Exhibitioner and History Scholar) 1939-40 and 1946; B.A., 1946 (1st Class Honours History); enlisted in Infantry 13th June, 1940; commissioned 21st December, 1940; Captain July 1943; served with Royal Inniskilling Fusiliers 1940-45 in Madagascar, India, Iraq, Iran, Syria, Lebanon, Egypt, Sicily, Italy and Austria; Instructor, Army School of Education, C.M.F.; M.C. 1944; released 15th November, 1945; Assistant Principal, Dominions Office 23rd January, 1947; temporarily posted to Office of United Kingdom Representative to Eire, August, 1947; seconded to Foreign Office as Second Secretary in United Kingdom Delegation to the United Nations May 1948 to January 1951; Principal 17th July, 1950.
+
+COLLETT, Leonard; born 10th August, 1910; Messenger G.P.O. September 1924; Postman 8th June, 1929; Sorting Clerk and Telegraphist 30th March, 1930; Clerical Officer 2nd February, 1936; enlisted R.E. (Postal Section) 9th January, 1941, commissioned and took command of 2nd Divisional Postal Unit 8th March, 1944; appointed Captain, Advance Headquarters S.E.A.C. 16th March, 1945, and mentioned in despatches; promoted Executive Officer in absentia 5th October, 1944; transferred to Commonwealth Relations Office 16th April, 1951; Office of United Kingdom High Commissioner in India (Madras) 2nd February, 1952, New Delhi (local Higher Executive Officer) 1952; Higher Executive Officer 6th March, 1953.
+
+CONDER, Stanley John, O.B.E. (1949); born 28th June, 1892; educated County Secondary School, Cambridge; served in R.F.A., M.G.C. and Tank Corps July 1915 to December 1918; Corporal; Second Division Clerk, Board of Trade, 21st March, 1910, to 20th March, 1911; Inland Revenue 8th April, 1911, to 24th June, 1911; Registrar-General's Office 1st July, 1911, to 3rd April, 1913; Second-Class Clerk, India Office, 4th April, 1913; Executive Officer 1st April, 1922; Higher Executive Officer 4th March, 1927; Superintending Executive Officer 1st January, 1941; Assistant Accountant-General 1st January, 1949.
+
+CONDON, Denis David; born 23rd October, 1910; educated at Paston Grammar School, North Walsham, Norfolk; War Service 1941-45; India Office (Editor-in-Chief, British Information Services, New Delhi) 16th December, 1946; established Senior Information Officer with seniority from 1st August, 1949; Information Officer, Ceylon, 6th March, 1952.
+
+COSTAR, Norman Edgar, C.M.G. (1953); born 18th May, 1909; educated Battersea Grammar School 1920-28 Jesus College, Cambridge, 1928 to 1932, Class I Division
+I, Historical Tripos Parts I and II, B.A. (1931); Assistant Principal, Colonial Office, 21st April, 1932; Private Secretary to Permanent Under-Secretary of State Dominions Office 21st October, 1935, to October 1936; on the staff of the Imperial Conference 1937; Assistant Secretary in Office of United Kingdom High Commissioner in Commonwealth of Australia October 1937 to November 1939; Pacific Defence Conference in New Zealand April 1939; Principal 14th November, 1938; Official Secretary in Office of United Kingdom High Commissioner in New Zealand April 1945 to August 1947; Deputy High Commissioner in New Zealand September 1947 to January 1948; Assistant Secretary 1st May, 1946; on Secretariat of Prime Ministers' Meeting October 1948; Treasury Mission to Washington August to October 1949; Conference of Commonwealth Foreign Ministers, Colombo, January 1950; Deputy High Commissioner, Colombo, February 1953.
+
+COSTLEY-WHITE, Cyril Grove, C.M.G. (1953); born 30th October, 1913; educated Eton 1926-32; Balliol College, Oxford, October 1932 to June 1935; B.A. 2nd Class Modern Greats (Philosophy, Politics and Economics), Civil Service Course London School of Economics 1935-37; Assistant Principal, Colonial Office, 4th October, 1937; Private Secretary to Parliamentary Under-Secretary of State for Colonies 5th May, 1939; Assistant Private Secretary to Secretary of State for Colonies 4th December, 1939; Assistant Private Secretary to Secretary of State for Dominion Affairs 6th May, 1940; Principal August 1940; Assistant Secretary in Office of United Kingdom High Commissioner in Canada October 1941 to June 1944; Assistant Secretary in Office of United Kingdom High Commissioner in New Zealand July 1944 to September 1946; Assistant Secretary May 1947; Deputy United Kingdom High Commissioner in Ceylon March 1949 to October 1950.
+
+Cox, Richard Charles; born 27th May, 1920; educated at Gravesend County Grammar School 1931 to June 1937; Matriculation and General Schools Certificate June 1936; Clerical Officer, Colonial Office, 25th June, 1937; joined R.A.F. June 1940; commissioned 1941, Flight Lieut. August 1942; Squadron-Leader October 1943; served in Egypt, Palestine, Syria, Libya, Tripolitania, Tunisia and Italy; Higher Clerical Officer in absentia (later assimilated to Executive Officer) 4th December, 1944; released June 1946; returned to Dominions Office July 1946; Passport Officer, Office of the United Kingdom High Commissioner in Ceylon, January 1950; Higher Executive Officer 1st September, 1951; Office of United Kingdom High Commissioner in India (Calcutta) 1st January, 1953.
+
+Cox, Winifred Lucy, M.B.E. (1936); born 23rd June, 1906; educated at Clapham County Secondary School 1917-22; Typist, India Office, 17th May, 1926; Shorthand-Typist 17th July, 1928, Clerical Officer 29th July, 1932, Executive Officer 3rd February, 1941, Higher Executive Officer 2nd February, 1948.
+
+COXALL, Dudley Oxford; born 31st August, 1898; Civil Service Rifles August 1916, served in France, wounded and invalided August 1918 with rank of Acting Sergeant; Temporary Clerk, Eastern Command Pay Office, 2nd March, 1918 to October 1920; India Office, December 1920; Clerical Officer 12th June, 1922, Executive Officer 30th April, 1942, Higher Executive Officer 1st April, 1950.
+
+CRAWLEY, Desmond John Chetwode; born 2nd June, 1917; educated at King's School, Ely, 1932-35 and Queen's College, Oxford, 1935-39; B.A. Honours Modern History Class II; Indian Civil Service 1938 to 1947; served in Madras Presidency and in the Public and Development Departments of the Madras Government; seconded to the Indian Political Service in 1946 and served as Political Agent in Baluchistan; Assistant Principal 22nd August, 1947; Office of the United Kingdom High Commissioner in India September 1947 to April 1950; local Principal 6th July, 1948; Principal 1st January, 1949; Private Secretary to Secretary of State 18th February, 1952.
+
+CRAWLEY, George Francis; born 17th December, 1896; educated at Aske's Haberdashers School; enlisted in Army 1916, served in France, Macedonia and Palestine, demobilized 1918; Military Medal; journalist, Temple Press 1919-24, "Statesman," Calcutta, 1924-39; Calcutta Light Horse 1926-39; war correspondent and special correspondent in Middle East, India, Portugal and Turkey on "Daily Telegraph" and Reuters 1940-44; temporary Senior Information Officer, India Office, 15th April, 1944; established Principal Information Officer, C.R.O., 23rd June, 1950, with seniority from 1st August, 1949; Director, British Information Services, Pakistan, 14th April, 1951 to March 1953, Director, U.K. Information Office, Union of South Africa, March 1953 (Chief Information Officer (B) (temp.)); Chief Information Officer (B).
+
+CROMBIE, George Edmond, C.M.G. (1950); born 14th June, 1908; educated Aberdeen Grammar School 1916-21, Fettes College, Edinburgh, 1921 to 1926, and Aberdeen University 1926 to 1931; M.A. 1st Class Honours Classics; Assistant Principal, India Office, 19th October, 1931; Private Secretary to Permanent Under-Secretary of State 24th October, 1935, and to Parliamentary Under-Secretary of State 13th August, 1936; Principal 1st April, 1937; resigned to take up military service 26th May, 1942; commissioned in Frontier Force Regiment, Indian Army, and served in India, Middle East, and Italy; mentioned in despatches; Lieutenant; reinstated as Principal 2nd May, 1945; Assistant Secretary 1st March, 1947; on deputation to Burma June 1947; Deputy United Kingdom High Commissioner in Burma September 1947; Counsellor, H.M. Embassy, Rangoon, January 1948 to March 1950; Deputy
+United Kingdom High Commissioner,
+Madras, 22nd June, 1951.
+
+CROOK, Kenneth Roy; born 30th July, 1920; educated Prescot Grammar School, Lancs., and Skerry's College, Liverpool; Clerical Officer, Board of Trade, 30th August, 1937; lent to Ministry of War Transport 29th September, 1939; enlisted as signalman in Royal Navy 17th March, 1941; served in Malta, Egypt, Palestine, Syria, Lebanon, and South Africa September 1941 to February 1943; commissioned 30th June, 1943; Lieutenant; released 17th August, 1946; Executive Officer, Board of Trade, 29th July, 1946; Higher Executive Officer 27th July, 1948; Assistant Principal, Commonwealth Relations Office, 24th January, 1949; Principal (Notional in absentia), 1st December, 1952; Office of the United Kingdom High Commissioner in Australia, February, 1951.
+
+CUMMING-BRUCE, the Hon. Francis Edward Hovell-Thurlow; born 9th March, 1912; educated Shrewsbury School 1925-30; Trinity College, Cambridge, October 1931 to July 1934, April to July 1935; B.A. June 1934, 1st Class Honours Part I Classics, 2nd Class Part II, Economics; Assistant Principal, Department of Agriculture for Scotland, 4th November, 1935; transferred to Dominions Office 24th May, 1937; Assistant Private Secretary to Secretary of State 1st June, 1939; Assistant Secretary in the Office of the United Kingdom High Commissioner in New Zealand August 1939 to May 1944; Assistant Secretary in Office of United Kingdom High Commissioner in Canada June 1944 to August 1945; Secretariat, Meeting of Prime Ministers, London, April 1946; served with United Kingdom Delegation at Paris Peace Conference 1946 and at United Nations General Assemblies 1945 and 1948; Private Secretary to Secretary of State 1st October, 1946; Assistant Secretary 12th December, 1948; Office of United Kingdom High Commissioner in India (New Delhi) from November 1949 to 2nd June, 1952.
+
+CURSON, Bernard Robert; born 14th November, 1913; educated at University College School, London, 1925 to 1930; Clerical Officer, India Office, 23rd June, 1930; Executive Officer 30th May, 1940; Assistant Principal 1st January, 1941; Assistant Private Secretary to Secretary of State for India 30th August, 1943; Principal 6th July, 1944; attached to United Kingdom Delegation to United Nations during following periods: New York October-December 1946, September-December 1947, January-April 1948, January 1949 and April-May 1949, Paris September-December 1948; Private Secretary to the Secretary of State 13th December, 1948; with United Kingdom delegation to United Nations, November 1949 to April 1950; Office of the United Kingdom High Commissioner in Ceylon, 16th August, 1950 to 18th August, 1952; Assistant Secretary 19th August, 1952.
+
+DALGLEISH, Margaret Lamb, M.B.E. (1948); born 4th March, 1907; educated at John Street Secondary School, Glasgow, and Skerry's College; Typist, Board of Trade, 14th July, 1930, Shorthand-Typist April 1932, Clerical Officer August 1937, Executive Officer October 1942; Private Secretary to Second Secretary (Overseas) 1942 and accompanied him on missions to Washington 1942 and 1945 and to Brazil, Argentine and Paris 1946; Private Secretary to Permanent Secretary, Ministry of Food, July 1946 and accompanied him to Ottawa 1947; Higher Executive Officer 1st April, 1947; Private Secretary to Permanent Under-Secretary of State, C.R.O., 1st January, 1949, and accompanied him to Foreign Ministers' Conference, Ceylon, 1950.
+
+DAVEY, George; born 23rd June, 1911; educated at Frith Park Secondary School, Sheffield, 1921-27 and Sheffield University 1936-39; B.A. Honours Economics, 1st Class (Subsidiary subject Philosophy); L.N.E.R. 1927-41; enlisted as rating in R.N.V.R. May 1941; commissioned April 1943; Lieutenant; released 12th February, 1946; Lecturer in Economics at the City of Birmingham Commercial College March to April 1946; Principal Burma Office 17th April, 1946; Office of the United Kingdom High Commissioner in Australia, December 1950.
+
+DAVIES, Harold Escott; born 5th November, 1915; educated at Aldenham School 1929-34, King's College, Cambridge, 1934-37 (Classical Scholar); Classical Tripos Part I Class I, Part II Class I; M.A.; Assistant Principal Burma Office, 11th October, 1937; enlisted in ranks of R.A.F. 3rd June, 1940; commissioned in General Duties Branch July 1942; served in India, Ceylon, East Africa, and Burma; staff navigators' course 1944; Flight Lieutenant; released July 1945; Principal 6th January, 1942; Office of the United Kingdom High Commissioner in India (Calcutta) October 1949 to 24th February, 1952, with local rank of Assistant Secretary; Assistant Secretary 25th February, 1952.
+
+DIGGINS, Christopher Ewart; born 2nd July, 1920; educated Haileybury College 1933 to 1938, Trinity College, Oxford, 1938 to 1940 and 1946 to 1947; History Scholar; M.A. Honours School of Modern History (Class I) 1947; enlisted in ranks of East Surrey Regiment July 1940; R.A. 1941; commissioned September 1941; served in India, Burma, Malaya, and Japan; Captain; released in Class B April 1946; Senior History Master, Birkenhead School, Cheshire 1947-48; Assistant Principal Commonwealth Relations Office 3rd January, 1949; Principal 21st May, 1951; Office of Deputy High Commissioner, Madras, 28th February, 1952.
+
+DIXON, Sir Charles William, K.C.M.G. (1945), O.B.E. (1924); born 29th April, 1888; educated at Clifton, and Balliol College, Oxford; 1st Class Mods. 1909; 1st Class Lit. Hum. 1911; 2nd Class Clerk,
+Colonial Office, 11th October, 1911; Private Secretary to Permanent Under-Secretary of State 8th July, 1917; First Class Clerk 1st January, 1920; Principal 1st April, 1920; Assistant Secretary, Dominions Office, 4th September, 1929; Assistant Under-Secretary of State 5th August, 1940; Adviser on Constitutional Relations 16th May, 1948.
+
+DIXON, Robert Leonard, O.B.E. (1951); born 25th September, 1891; educated at Clapham School; military service August 1915 to August 1919, commissioned August 1915, Captain September 1916; served in France and Belgium; temporary clerk, Oversea Settlement Office, September 1919; Clerical Officer 24th February, 1922, Higher Clerical Officer 1st April, 1924; Staff Officer, Dominions Office, 1st July, 1938, Senior Staff Officer 13th March, 1945, Senior Executive Officer 13th June, 1947.
+
+DOWNIE, John Robert; born 16th August, 1919; educated Merchant Taylors' School 1932-38 and St. John's College, Oxford, October 1938 to March 1940 and October 1945 to June 1946; 2nd Class Honours Mods. 1940; M.A. (War) 1945; enlisted in ranks of Royal Corps of Signals 15th April, 1940; commissioned 1st March, 1941; served in North Africa January to April 1943, Malta April to November 1943, Italy November 1943-45; Captain; released September 1945; Assistant to General Manager, Finance Corporation for Industry, December 1946 to October 1948; Chartered Institute of Secretaries Intermediate Examination 1947; Assistant Principal Commonwealth Relations Office 18th October, 1948; Principal 1st November, 1949; Office of the United Kingdom High Commissioner in India (New Delhi) May 1951.
+
+DUTTON, James Macfarlane; born 3rd June, 1922; educated Winchester College 1936-41; Balliol College, Oxford, 1941-44; 2nd Class Honours Modern Greats 1943; Temporary Administrative Assistant, Dominions Office, 5th January, 1944; Private Secretary to Permanent Under-Secretary of State August 1945; Assistant Secretary in Office of United Kingdom Representative to Eire August 1946 to April 1948; established Assistant Principal 21st July, 1948, Principal 1st July, 1952; Assistant Private Secretary to Secretary of State August 1948 to January 1949; Office of the United Kingdom High Commissioner in India (New Delhi) December 1950 to February 1953.
+
+EAST, Kenneth Arthur; born 9th May, 1921; educated at Taunton's School, Southampton, September 1932 to August 1939 and at University College, Southampton, October 1939 to October 1941; B.A. Honours Degree (Upper Second) in History 1941; enlisted in ranks of R.A.F. 29th June, 1942; Bomber Command 1944; commissioned (general duties) 19th January, 1945; Flying Officer; released as acting Flight Lieutenant 7th July, 1946; Assistant Principal, Burma Office, 1st July, 1946; Assistant Private Secretary to the Secretary of State 26th August, 1946; Private Secretary to Parliamentary Under-Secretary of State 3rd March, 1947; Assistant Private Secretary to Secretary of State 9th October, 1947 to 9th May, 1950; Principal, 10th May, 1950; Office of the United Kingdom High Commissioner in Canada, August 1950.
+
+EBBS, John Henry; born 11th May, 1897; enlisted in R.F.A. (T) 9th September, 1914, transferred to R.G.A. for service in Royal Artillery Clerks Section at H.Q. R.A. 28th Division; served in France and Salonika 15th January, 1915 to 15th April, 1919, demobilized as W.O. Class I 21st May, 1919, mentioned in despatches 30th January, 1919, M.S.M. 1919; Writer, H.M. Dockyard Portsmouth, 27th June, 1919; Clerical Officer, India Office, 23rd January, 1922, temporary Executive Officer 12th April, 1940, Higher Clerical Officer 22nd April, 1940, Higher Executive Officer 4th April, 1946.
+
+ELLIS, Edwin John; born 6th November, 1902; educated at Eastbourne Grammar School; served in 3rd Dragoon Guards 1919-24 and R.A.F. 1925-30 (s.s. Commission) and September 1939 to December 1946 (Flying Instructor); service in U.K., Canada, Normandy (Invasion), France, Germany, Iceland and Czechoslovakia; India Office (Regional Information Officer, British Information Services) Lahore 9th December, 1946, Karachi August 1947; Sydney 22nd November, 1951; established Senior Information Officer with seniority from 1st August, 1949.
+
+ELLIS, Joseph Stanley; born 29th November, 1907; educated at Woodhouse Grove School (Bradford) 1921-26 and University College, London, 1926-28 (London University Diploma in Journalism 1928); Lancashire Daily Post (Preston) 1928-30; Manchester Evening News (Preston) 1930-40; Manchester Guardian and Manchester Evening News (Fleet Street Office) 1940-41; Ministry of Information 1941-45 (Higher Executive Officer, Chief Sub-Editor, Features Section, Publications Division); Information Officer in Office of the United Kingdom High Commissioner in Australia (Canberra) 1945-48; Senior Information Officer, Overseas Press Services Division, Central Office of Information, 1948 (established 6th April 1950); Commonwealth Relations Office 1st August, 1951; Regional Information Officer, Karachi, 29th March, 1952; Director (local Principal Information Officer) 4th March, 1953.
+
+EMERY, Miss Eleanor Jean; born 23rd December, 1918; educated at Western Canada High School, Calgary, 1933-37 and at Glasgow University 1937-41; 2nd Class Honours History; M.A.; Temporary Administrative Assistant 15th September, 1941; Assistant Private Secretary to Secretary of State 1st July, 1942; Assistant Secretary in Office of United Kingdom High Commissioner in Canada December
+1945 to 1st January, 1948; established Assistant Principal 4th May, 1948; Principal 1st January, 1949; Private Secretary to Secretary of State, 2nd March, 1950 to 17th February, 1952; Office of the United Kingdom High Commissioner in India (New Delhi) 24th April, 1952.
+
+Ewans, Martin Kenneth; born 14th November, 1928; educated at St. Paul's School 1943-47 and Corpus Christi College, Cambridge, 1949 to 1952 (Major Scholar), B.A. Classical Tripos Parts I and II 1st Class Honours; National Service 1947 to 1949 (2nd Lt. R.A.); Assistant Principal, Commonwealth Relations Office, 16th July, 1952.
+
+F
+
+Farr, Cecil Jaffrey; born 6th June, 1892; educated St. Paul's School 1906-10; Westminster Bank 1911; Rubber Planter, Ceylon, 1912-16; served Indian Army January 1917 to December 1922; Captain; Article to solicitors 1923 to 1928; Solicitors' Honours Examination 3rd Class June 1928; admitted Solicitor 1st August, 1928; solicitor's managing clerk 1928-29; Trust Assistant, Public Trustee Office, 16th December, 1929; on loan to Burma Office as a Principal on trial 12th August, 1946; transferred as Principal 22nd November, 1948.
+
+Fingland, Stanley James Gunn; born 19th December, 1919; educated Royal High School Edinburgh; Clerical Officer, General Post Office, 23rd November, 1936; Executive Officer 4th January, 1948; served in Royal Corps of Signals 17th August, 1939 to 7th March, 1947; commissioned December 1940; served in North Africa, Sicily, Italy, and Egypt May 1943 to November 1946; Major; Assistant Principal Commonwealth Relations Office 23rd August, 1948; Office of United Kingdom High Commissioner in India (Delhi) October 1948 to July 1950 (Bombay) July 1950 to April 1951; Principal 20th September, 1949.
+
+Ford, William Henry, M.B.E. (1941); born 26th December, 1898; Boy Clerk, G.P.O., March 1914 to October 1915; Central Control Board, Liquor Traffic, February to May 1916; enlisted as Trooper in 1st Life Guards 9th December, 1916, transferred to R.F.C./R.A.F. February 1918 as Flight Cadet (Pilot), released 26th February, 1919; temporary clerk, Army Pay Office, Blackheath, 4th March, 1919, to 9th July, 1920; Clerical Officer, India Office, 7th November, 1921; seconded for work with Indian Statutory Commission October 1929 and with India and Burma Round Table Conferences 1931, 1932 and 1933; Higher Clerical Officer 19th March, 1937, Higher Executive Officer 12th April, 1943, Senior Executive Officer 24th February, 1951.
+
+Forster, Oliver Grantham; born 2nd September, 1925; educated at Hurstpierpoint College 1939-44 and King's College, Cambridge (Open Scholarship 1943); served in R.A.F. as Aircrew Cadet 1944-45 and as Meteorologist 1945-48 (in Western Europe); B.A. 1st Class Honours (History) 1950; Assistant Principal 16th July, 1951.
+
+Forty, Frederick Charles; born 17th September, 1894; educated at Strand School, King's College, London; served in Duke of Cornwall's Light Infantry (all ranks to C.Q.M.S.) August 1914 to August 1917; commissioned in Oxfordshire and Buckinghamshire Light Infantry August 1917; served in France June 1915 to February 1917 and September 1917 to April 1919; demobilized with rank of Lieutenant April 1919; temporary clerk, India Office, 15th December, 1919; Office of the High Commissioner for India 8th April, 1921; Clerical Officer 28th June, 1921, Executive Officer 1st April, 1922, Higher Executive Officer 24th March, 1939, Principal Executive Officer 1st July, 1942, to 25th July, 1943, and from 18th October, 1943, Senior Executive Officer 28th November, 1946; transferred to C.R.O. 1st June 1949.
+
+Fowler, Robert William Doughty; born 6th March, 1914; educated at Queen Elizabeth's Grammar School, Mansfield, 1923-33, and Emmanuel College, Cambridge, 1933-37; Modern Languages Tripos 2nd Class Honours; Assistant Commissioner, Burma Civil Service, Class I, 23rd September, 1937; Military Service (training in first Government of Burma Militia Course) November 1940 to February 1941; Defence Department, Government of Burma, March 1941 to December 1943; commissioned 1st March, 1944, into the Army in Burma Reserve of Officers for service in Civil Affairs Service, Burma; Grade II Staff Officer at H.Q. British Military Administration Burma 1944 to September 1945; rank on release Lt.-Colonel; Senior Civil Affairs Officer and later Deputy Commissioner from October 1945; additional Secretary to the Governor of Burma from January 1947 to January 1948; retired from the Burma Civil Service and appointed to the Home Civil Service as Principal, Commonwealth Relations Office, 5th April, 1948; Assistant Secretary 1st October, 1952; seconded to Foreign Service as member of United Kingdom Delegation to United Nations in New York January 1951 to February 1953.
+
+Fraser, James Duncan, M.B.E. (1947); born 11th January, 1915; educated at Haileybury College (Organ Scholar) January 1929 to August 1933; Trinity Hall, Cambridge (Organ and Classical Scholar) October 1933 to 1938, Classical Tripos 1st Class Honours 1936; appointed to Indian Civil Service 1937; served in Punjab 1938-47; Deputy Commissioner in Amritsar from 1945; Principal, Ministry of Works, 13th September, 1947; Commonwealth Relations Office 19th February, 1951.
+
+G
+
+Gandee, John Stephen, M.B.E. (1945); born 8th December, 1909; Post Office Sorting Clerk and Telegraphist 26th July, 1925; Clerical Officer, India Office, 12th May, 1930; Executive Officer 4th June, 1937;
+Higher Executive Officer 7th November, 1941; Private Secretary to Parliamentary Under-Secretary of State 2nd December, 1946; Assistant Private Secretary to Secretary of State 3rd March, 1947; Private Secretary to Parliamentary Under-Secretary of State 6th November, 1947, to 20th January, 1949; Principal 1st January, 1949; Senior Secretary, Office of the United Kingdom High Commissioner in Canada, 30th January, 1952.
+
+GARNER, Joseph John Saville, C.M.G. (1948); born 14th February, 1908; educated Highgate School 1916-26; Jesus College, Cambridge, September 1926 to June 1929, Mod. and Med. Languages Tripos Part I Class II Division I; ditto Part II Class I; B.A. 1930; assistant modern languages master, Haileybury College, September 1929 to April 1930; Assistant Principal, Dominions Office, 27th October, 1930; Assistant Private Secretary to Secretary of State 6th March, 1935; Principal 1st July, 1937; Private Secretary to Secretary of State 5th August, 1940; Senior Secretary Office of United Kingdom High Commissioner in Canada June 1943 to July 1946; Deputy United Kingdom High Commissioner Canada July 1946 to May 1948; Assistant Under-Secretary of State May 1948; Meeting of Commonwealth Foreign Ministers, Colombo, January 1950; acted as temporary Deputy Under-Secretary of State 28th December, 1950, to June 1951; Deputy, United Kingdom High Commissioner in India (New Delhi) June 1951 to April 1953; Deputy Under-Secretary of State 20th April, 1953.
+
+GAUTREY, Peter; born 17th September, 1918; Clerical Officer, Home Office, 18th March, 1936; Executive Officer (in absentia) 1st July, 1942; enlisted in ranks of 12th R.H.A. (H.A.C.) 20th October 1939; commissioned 10th May, 1941; Captain 1945; served in India and Burma April 1942 to October 1945; released 30th April, 1946; Higher Executive Officer 1st September, 1947; Assistant Principal, Commonwealth Relations Office, 19th January, 1948; Private Secretary to Permanent Under-Secretary of State 26th September, 1948 to 31st December, 1948; Principal 1st January, 1949; First Secretary, United Kingdom Embassy, Dublin, October 1950 to 17th April, 1953.
+
+GEORGE, Walter Ronald; born 30th July, 1917; educated at Bromley County School; War Service 1939-49; R.A.M.C. 1939-44; served in Egypt, Western Desert, Tobruk, and Syrian campaign; commissioned Public Relations Officer 1944; joined Radio S.E.A.C. Ceylon as News Editor August 1946 to June 1949; Commonwealth Relations Office (Regional Information Officer, British Information Services, Dacca) 23rd June, 1949; established Senior Information Officer with seniority from 1st August, 1949.
+
+GIBSON, John Percival, C.B.E.; born 2nd June, 1898; educated Royal Academical Institution, Belfast, 1910-16; Trinity College, Dublin, 1916 to June 1921; M.A. (1st Class Honours in Classics and Mental and Moral Philosophy, University Student); Assistant Principal, India Office, 19th October, 1921; accompanied Indian Delegation to League of Nations 1925; Assistant Private Secretary to Secretary of State 1st October, 1927; Private Secretary to Permanent Under-Secretary of State 1st December, 1928; Principal 15th April, 1930; Assistant Secretary 8th July, 1941.
+
+GOLDS, Anthony Arthur; born 31st October, 1919; educated King's School, Macclesfield, 1930-38 and New College, Oxford (Scholar), 1938-39 and 1946-48; reading for Honours School of English; War Degree; enlisted in ranks of York and Lancaster Regiment 1939; commissioned 22nd June, 1940; R.A.C. 1941 to 1946; served in India 1941-44; Interpreter, German P.O.W. Camp, 1945-46; Lieutenant; released 16th May, 1946; Assistant Principal Commonwealth Relations Office, 21st July, 1948; Assistant Private Secretary to Secretary of State 20th September, 1949; Private Secretary to Parliamentary Under-Secretary of State, 20th March, 1950 to 13th April, 1951; Principal 14th April, 1951; Office of the United Kingdom High Commissioner in India (Calcutta) (New Delhi) (Calcutta) April 1951.
+
+GORDON, James, M.B.E. (1934); born 27th December, 1898; educated Tottenham County School; New Scotland Yard Boy Clerk August 1914 to November 1916; T.C. III February 1919 to October 1921; served with Queen Victoria's Rifles with rank of rifleman November 1916 to February 1919; Clerical Officer, India Office, 3rd October, 1921; services lent to Indian Statutory Commission 1929-30; personal assistant to Secretary, General Indian Round Table Conferences 1930, 1931 and 1932; Secretary to Burma Delegation to Joint Select Committee on India 1933; Executive Officer 6th November, 1934; Staff Officer 13th July, 1939; Superintendent, Telegraph and Mails Branch, 9th August, 1943; Principal 10th July, 1944.
+
+GREENHILL, Basil Jack; born 26th February, 1920; educated Bristol Grammar School 1932-38, Bristol University 1938-40 and 1945-46; T. H. Green Scholar in Modern Studies; B.A. Philosophy and Economics Honours 1946; enlisted in ranks of R.N.V.R. 6th August, 1941; commissioned 15th October, 1942; transferred to Air Branch 17th May, 1943; Lieutenant (A); on staff of Director of Naval Air Radio, Admiralty, 12th June, 1944, to 25th October, 1945; released 25th October, 1945; Assistant Principal, Dominions Office, 23rd September, 1946; Private Secretary to Parliamentary Under-Secretary of State 13th May, 1948, to Permanent Under-Secretary of State 23rd September, 1948; Principal 1st January, 1949; Office of the United Kingdom High Commissioner, Pakistan (Dacca), August 1950 to August 1952, (Karachi) August 1952, (Peshawar).
+HALL, Alfred Charles; born 2nd August, 1917; educated at Oratory School and Polytechnic, London; Rothschild prize for best candidate at Centre at Cambridge Senior School Certificate examination; Bronze Medal in French at London Polytechnic and Certificate of Royal Empire Society; entered service of London County Council October 1934; War Service 1939-41; Foreign Office (Temporary Secretary, North Africa, Saudi-Arabia, Persia and U.S.S.R.) 1942-46; London County Council (Press and Information Officer) 1946-49; on loan to Commonwealth Relations Office (Deputy Director, U.K. Information Office, Ottawa) 16th August, 1949; established Senior Information Officer (temporary Principal Information Officer) with effect from 1st August, 1949; Principal Information Officer 1st May, 1953.
+
+HALL, Ralph Issot; born 11th October, 1903; educated at Mill Hill School; on staff of Civil and Military Gazette, Lahore, 1923-1931; i/c Delhi office of Bird & Co. until 1933; sub-editor Times of India 1937; joined Royal Indian Naval Volunteer Reserve in 1939 as Paymaster-Lieutenant and called up 3rd September, 1939, discharged unfit March 1940; Information Officer, Government of India, 1st April, 1940; assistant press adviser Statesman 1st November 1941-1942; Deputy Director of Information, Government of Bombay, October 1942 to April 1946; deputy news editor, Times of India June—November 1946; Press Officer (Specialist), India Office, 2nd December, 1946; Senior Information Officer with seniority from 1st August, 1949.
+
+HAMILTON, William Aitken Brown, C.M.G. (1950); born 3rd June, 1909; educated Aberdeen Grammar School and Aberdeen University; M.A. (1st Class Honours Classics) 1931; Assistant Principal, Board of Education, 2nd November, 1931; Private Secretary to Permanent Secretary 1st August, 1934; Principal 19th October, 1936; Assistant Public Relations Officer 3rd November, 1936; Publicity Officer 18th May, 1937; Principal Physical Recreation Committees 1st June, 1937; Joint Secretary to Committee on Nursing Services 4th December, 1937; on loan to Ministry of Food 25th October, 1939; Head of Division 1st July, 1942; Assistant Secretary 1st November, 1943; returned to Ministry of Education 1st November, 1944; Under-Secretary and Director of Establishments 1st November, 1946; transferred to Commonwealth Relations Office 1st March, 1949, as Assistant Under-Secretary of State (Director of Establishments and Organization).
+
+HAMPSHIRE, George Peter; born 1st December, 1912; educated at Repton and Oriel College, Oxford; 2nd Class Hon. Mods. and 2nd Class Litt. Hum.; Assistant Principal, War Office, 24th October, 1935; Private Secretary to Under-Secretary of State, 12th February, 1937; Principal, 19th June, 1939; Assistant Secretary, Control Office for Germany and Austria, 1st January, 1946; Foreign Office, German Section, 23rd April, 1947; Treasury September, 1948; on loan to Commonwealth Relations Office (Secretary, Finance, Office of the United Kingdom High Commissioner in Canada) 3rd September, 1948, to June 1951; transferred to Commonwealth Relations Office establishment, 16th July, 1951; Deputy High Commissioner for the United Kingdom, Dacca, February 1953.
+
+HANCE, Lieut.-General Sir James Bennett, K.C.M.G. (1953), K.C.I.E. (1946), O.B.E. (1920), K.St.J. (1946), M.A., M.D., B.Ch. (Cantab.), F.R.C.S.E., M.R.C.S., L.R.C.P., I.M.S. (retired), late K.H.S., F.R.S.M.; Fellow of the Royal Society of Tropical Medicine and Hygiene; born 21st April, 1887; educated at Oundle School and Christ's College, Cambridge; Guy's Hospital; House Surgeon, Royal Surrey County Hospital; entered Indian Medical Service, 1912; seconded as Clinical Assistant to late Prof. Blair Bell in Gynaecology, 1912-1913; Specialist in Midwifery and Gynaecology; 7th Meerut Division, France 1914 to 1916, Persia 1917 to 1919, twice mentioned in despatches; Agency Surgeon, Foreign and Political Department of Government of India, from 1919; services lent to Jodhpur State as P.M.O. 1925 to 1928; Chief Medical Officer, States of Western India, Rajkot, 1928 to 1933; Residency Surgeon in Mysore 1933 to 1940; Inspector-General of Civil Hospitals and Director of Public Health, Central Provinces and Berar, 1940 to 1942; Deputy Director-General, Indian Medical Service, 1942 to 1943, Director-General 1943 to 1946; President, Medical Board, and Medical Adviser to Secretary of State, India Office, 29th July, 1946, C.R.O., 15th August, 1947; Consultant, Officers' Convalescent Home, Osborne; numerous publications in professional journals.
+
+HANCHET, Caroline Emily, M.B.E. (1950); born 9th February, 1898; educated at West Sussex County School 1910 to 1916; London University Inter-Arts Examination 1916; Temporary Clerk (Grade I), Ministry of Pensions, 5th February, 1917; Clerical Officer, India Office, 29th August, 1921; Higher Clerical Officer 1st October, 1937, Acting Assistant Principal 17th February, 1941, Higher Executive Officer 12th November, 1946.
+
+HANKINSON, Sir Walter Crossfield, K.C.M.G. (1948), O.B.E. (1936), M.C. (1918); born 11th July, 1894; educated Manchester Grammar School and Jesus College, Oxford; M.A. (1921); private, Royal Fusiliers, September 1914, commissioned York and Lancaster Regiment January 1915; Captain May 1915, demobilized February 1919; appointed 2nd Class Clerk, Colonial Office, 14th February, 1920; Assistant Principal 1st April, 1920; Assistant Private Secretary to Secretary of State March 1923; Principal, Dominions Office.
+November 1925; United Kingdom delegation to Naval Disarmament Conference, Geneva, 1927; Private Secretary to Secretary of State 15th February, 1937; Assistant Secretary 13th October, 1939; Principal Secretary in Office of United Kingdom High Commissioner in Canada October 1939 to November 1941; Principal Secretary in Office of United Kingdom Representative to Eire June 1942 to December 1943; Assistant Under-Secretary of State and Deputy United Kingdom High Commissioner in the Commonwealth of Australia February 1944; United Kingdom High Commissioner in Ceylon February 1948; United Kingdom Ambassador in Dublin September 1951.
+
+HARRIS, David John Edward, M.B.E. (1950); born 27th October, 1897; Boy Clerk, G.P.O., 1913 to 1915; served in Royal Engineers October 1915 to 1917 and Royal Flying Corps and Royal Air Force 1917 to February 1919; temporary clerk, G.P.O., 1919 to June 1920; departmental clerk, Ministry of Labour, 26th June, 1920; Clerical Officer, Colonial Office, 1st October, 1922; clerk to Colonial Development Advisory Committee 1924; Dominions Office 1925; Higher Clerical Officer 26th February, 1941; Chief Clerk, Office of U.K. High Commissioner in the Union of South Africa, June 1946 to June 1950; Higher Executive Officer 16th November, 1948; Office of U.K. High Commissioner in Canada, 12th November, 1952.
+
+HARRISON, Francis Anthony Kitchener; born 28th August, 1914; educated Winchester College 1927-33 and New College, Oxford, October 1933 to June 1937; classical Honours Mods. Class I, Lit. Hum. Class II; M.A.; Assistant Principal, India Office, 1st November, 1937; Assistant Private Secretary to Secretary of State 17th February, 1941; Principal 30th August, 1943; Office of the United Kingdom High Commissioner in India (New Delhi) from 3rd October, 1949, to September 1951.
+
+HART, Herbert Wesley, M.B.E. (1944); born 3rd July, 1897; served during 1914-18 war in Lincolnshire Regiment in France and Flanders; Corps of Military Accountants 1919 to February 1921; temporary clerk, Colonial Office, 1st March, 1921, Clerical Officer 9th July, 1926, Higher Clerical Officer 28th June, 1940, Staff Officer, Dominions Office, 3rd May, 1946, Senior Executive Officer 23rd December, 1948; posted to Office of the United Kingdom High Commissioner in Australia (Canberra) as Information Officer December, 1948 to 14th August, 1952.
+
+HAYDON, Miss Jennifer Brigid Ellen; born April, 1903; educated Strand School, King's College, London; Ministry of Information, Press Censorship, 1939-41; War Service 1941-46; O.B.E. and U.S. Legion of Merit; Foreign Office (Information Officer, Northern Italy) 1946-47; Commonwealth Relations Office (Information Officer, Melbourne) 15th September, 1949; established Information Officer, with seniority from 1st August, 1949; temporary Senior Information Officer.
+
+HAYDON, Miss Jennifer Brigid Ellen; born 18th February, 1928; educated at Malvern Girls' College 1940 and schools in Canada and U.S.A. 1940-44, Edinburgh University 1944-45 and Lady Margaret Hall, Oxford (Scholar), 1946-49; B.A. (2nd Class Honours Modern History); Assistant principal, Commonwealth Relations Office, 7th November, 1949; on staff of U.K. High Commissioner in New Zealand, January 1952.
+
+HEAD, William George, O.B.E. (1946), M.B.E. (1939); born 29th June, 1899; Boy Clerk, Colonial Office, 1st September, 1915; Assistant Clerk, 20th October, 1916; on military service July 1917 to November 1919; served in France from June 1918 in Duke of Wellington's (West Riding) Regt.; Clerical Officer 1st January, 1920; Higher Clerical Officer 19th May, 1925; seconded for service with British Economic Mission to Australia May 1928 to March 1929; Staff Officer 18th December, 1934; Principal 19th June, 1939; Assistant Secretary 11th May, 1946; Deputy United Kingdom High Commissioner in New Zealand December 1952.
+
+HEWLETT, George Gordon, O.B.E. (1953); born 6th August, 1894; educated at Devonport High School; Second-Class Clerk, India Office, 7th January, 1913; served in K.R.R. and Hants Regt. December 1915 to February 1919; Executive Officer 1st April, 1922; Deputy Reading Clerk to the Council 21st February, 1932, to 20th February, 1935; Higher Executive Officer 16th February, 1934; Superintending Executive Officer 18th January, 1946; Assistant Accountant-General 1st January, 1950.
+
+HICKLING, Ronald; born 3rd January, 1915; educated at Queen Elizabeth's Grammar School, Mansfield; War Service 1943-46; Regional Press Officer, Central Office of Information, February 1948; Commonwealth Relations Office (Deputy Director, United Kingdom Information Office, Johannesburg) 1st August, 1949; established Senior Information Officer with seniority from 1st August, 1949.
+
+HIGGINS, Thomas William; born 25th July, 1893; educated at Percy House School, Middlesex; served in Army 1914 to 1917 in France and Flanders, twice wounded; temporary ex-soldier clerk, War Office, 17th March, 1919; Clerical Officer, India Office, 15th March, 1922, Higher Clerical Officer, 23rd February, 1942, Higher Executive Officer 1st January, 1950.
+
+HOARE, Charles Edgar, O.B.E. (1950); born 1st January, 1891; Boy Clerk, Savings Bank Department, 26th May, 1906, Assistant Clerk 21st April, 1910; Second-Class Clerk, India Office, 13th November, 1913; served with 1st/7th City of London Regiment August 1914 to May 1916; invalided as result of gunshot wound received at Loos in September 1915; Higher Executive Officer 1st December, 1934; joint editor of India Office List 1932 to 1937; Supply
+Officer 18th March, 1941; Senior Executive Officer 1st June, 1945.
+
+Holmes, Sir Stephen Lewis, K.C.M.G. (1950), C.M.G. (1942), M.C.; born 5th July, 1896; educated at Westminster (King's Scholar) 1909 to 1915; and Christ Church, Oxford (Scholar), 1919 to 1921; B.A. (Lit. Hum.); M.A. 1930; commissioned in R.G.A. 1915, served in France and Belgium, 1916 to 1919, M.C., twice mentioned in despatches, acting Major; Assistant Principal, Colonial Office, 31st January, 1921 (established 3rd February, 1921); Private Secretary to Permanent Under-Secretary of State (Sir S. Wilson) 1926; Assistant Private Secretary to Secretary of State for Dominion Affairs and for Colonies (Mr. Amery) 1928; accompanied Sir S. Wilson on visit to West African Colonies 1928; Principal, Dominions Office, 10th December, 1928; U.K. Delegation to Monetary and Economic Conference, London, 1933; Imperial Defence College 1934; U.K. Delegation to London Naval Conference 1935; Senior Secretary, Office of the United Kingdom High Commissioner in Canada, 1936 to 1939; Assistant Secretary 13th September, 1939; Dominions Office representative in Washington 1943 to 1944; U.K. Delegations to commercial policy discussions and to Food; U.N.R.R.A. and U.N. Preparatory Conferences in U.S.A.; Deputy United Kingdom High Commissioner in Canada 1944 to 1946; Under-Secretary, Board of Trade, 12th August, 1946, Second Secretary 17th November, 1947; U.K. Delegations to London, Geneva, Havana, Annecy, and Torquay international trade and tariff conferences and European Customs Union Study Group, Brussels, between 1946 and 1951; U.K. Economic and Financial Mission, Washington, and Anglo-Canadian Continuing Committee, Ottawa, 1949; Deputy Under-Secretary of State, Commonwealth Relations Office, 15th August, 1951; United Kingdom High Commissioner in the Commonwealth of Australia, 17th October, 1952.
+
+Hope, Richard Frederick; born 5th December, 1901; educated at Oratory School 1914-1920 and Christ Church, Oxford, 1920-1923; B.A. History, 2nd Class Honours; Assistant Master, Oratory School, 1930-1933; Head Master, Oratory School, 1934-1938; Specialist, Ministry of Information, July 1939 to July 1945; temporary Principal, Dominions Office, 1st April, 1946; established Principal Information Officer, C.R.O., 21st June, 1950, with seniority from 1st August, 1949.
+
+Hughes, John Turnbull; born 8th June, 1919; educated at City Grammar School, Chester, and Liverpool University; War Service 1940-45; Private Secretary to Governor of Bengal 1945-46; India Office (Deputy Director, British Information Services, India) 2nd December, 1946 to September 1952; established Senior Information Officer (temporary Principal Information Officer) with seniority from 1st August, 1949; Principal Information Officer 1st February, 1953.
+
+Hunt, David Wathen Stather, O.B.E. (Military); born 25th September, 1913; educated at St. Lawrence College, Ramsgate, 1927-32 and Wadham College, Oxford (Scholar), 1932-37; 1st Class Honours Mods. and 1st Class Lit. Hum.; M.A. 1938; Thomas Whitcombe Greene Prize; Diploma in Classical Archaeology; Fellow Magdalen College, Oxford, 1937-39; enlisted in ranks January 1940; commissioned May 1940 and served in Middle East; on staff of General Alexander 1942-45; Colonel G.S. (Intelligence); awarded O.B.E. and U.S. Bronze Star and mentioned three times in despatches; organized compilation and wrote part of Official History of Italian Campaign June 1945 to May 1946; accompanied Field-Marshal Alexander to Canada to help in final preparation of despatches on campaigns in Africa, Sicily and Italy June 1946 to May 1947; Temporary Principal, Commonwealth Relations Office, 24th June, 1947; established Principal 14th January, 1948; Senior Secretary on the staff of the United Kingdom High Commissioner in South Africa 9th September, 1948, to March 1950; seconded to Prime Minister's Office as one of his Private Secretaries, 3rd April, 1950 to 30th September, 1952; Assistant Secretary (temporary) 1st October, 1952.
+
+Hunt, John Joseph Benedict; born 23rd October, 1919; educated Downside College 1933 to 1938, Magdalene College, Cambridge, 1938 to 1940; Exhibitioner; History Tripos Part I, Class II (2) 1940; B.A. (War degree) 1941; commissioned in R.N.V.R. 28th June, 1940; served three years in Atlantic escort vessels; Instructor, Anti-Submarine and Tactical School, Liverpool, 1943-45; in Far East August 1945 to January 1946; Lieutenant; released 22nd March, 1946; Temporary Assistant Principal, Dominions Office, 27th February, 1946; Private Secretary to Parliamentary Under-Secretary of State 1st January, 1947 to 12th May, 1948; established Assistant Principal 19th July, 1947; Assistant Secretary in Office of United Kingdom High Commissioner in Ceylon 13th May, 1948 to July 1950; Principal 20th September, 1949; seconded to Imperial Defence College, 17th September, 1951, to 5th October, 1952.
+
+Hunt, Roland Charles Colin; born 19th March, 1916; educated at Rugby 1929-34 and Queen's College, Oxford, 1934-39; Classical Mods. 2nd Class; Lit. Hum. 2nd Class; Indian Civil Service September 1938 to 1947; served in Madras as Sub-collector and Joint Magistrate and later as Joint Secretary, Board of Revenue; Temporary Administrative Assistant, Colonial Office, 20th October, 1947; Assistant Principal in Commonwealth Relations Office, 29th January, 1948; Principal 1st January, 1949; Office of United Kingdom High Commissioner in Pakistan (Karachi) from February 1948 to March 1950, in Union of South Africa 23rd October, 1952.
+
+Hunt, Thelma Gwendolen, M.B.E. (1948);
+born 28th May, 1901; educated at Skinners' Company School for Girls 1913-18; London Matriculation June 1918; temporary clerk, War Office, 12th August, 1918, to 31st March, 1921; Clerical Officer, India Office, 7th July, 1921, Higher Clerical Officer 28th July, 1939; Resident Clerk, India and Burma Offices, February 1942 to January 1948; Higher Executive Officer 24th May, 1944.
+
+HUSON, Arthur Gordon, Barrister-at-Law; born 21st June, 1913; educated at Tonbridge School, London School of Economics, Sorbonne, Paris, and Gray's Inn, London; B.Sc (Econ.) 1st Class Honours, 1936; War Service 1939-45; Foreign Office (Economic Information Officer, British Embassy, Washington) 1946-49; Director, U.K. Information Office, Ottawa 29th October, 1949 to March 1953; established Principal Information Officer (temporary Chief Information Officer (B)) with seniority from 1st August, 1949.
+
+HUTTLY, Alan Edward; born 16th January, 1920; educated at Whitgift Middle School, Croydon, and Harrow County School for Boys; University of London General Schools Certificate with Matriculation exemption 1935; Clerical Officer, Home Office, 28th October, 1936; enlisted R.A.F. 5th June, 1940; promoted Corporal 1942, Sergeant 1944, Flight-Sergeant 1945; served in Middle East Command, Egypt and Kenya; demobilized 20th June, 1946; Executive Officer in absentia 13th July, 1942; Commonwealth Relations Office 19th March, 1951; Higher Executive Officer 2nd July, 1952; British Information Services, Karachi, 20th December, 1952.
+
+I
+
+IDDON, Colwell, O.B.E. (1946); born 1st October, 1893; educated Harris Institute, Preston, and privately; London Chamber of Commerce Examination for Senior Certificate in Banking, Commerce and Political Economy; served R.A.M.C. Sergeant 1915 to 1919; T.C. Ministry of Labour, 17th March, 1920; Clerical Officer, India Office, 27th March, 1922; Higher Clerical Officer 16th June, 1930; Staff Officer 1st January, 1936, Administrative Officer 1st July, 1939; Principal 1st January, 1942; acted as Assistant Secretary and Establishment Officer January to July 1946; on deputation to India with the Parliamentary Under-Secretary of State January 1947; Head of Services Department, 1st October, 1949.
+
+J
+
+JAMES, John Morrice Cairns, M.B.E. (Military); born 30th April, 1916; educated Bradfield and Balliol College, Oxford; Lit. Hum. Part I and II; Assistant Principal, Dominions Office, 2nd October, 1939; Private Secretary to Permanent Under-Secretary of State April to August 1940; entered Royal Navy as ordinary seaman August 1940; commissioned Royal Marines February 1941; then 2 I/C 12th R. Marine Bn. 8; served in Egypt and Sicily 1943; Lt.-Colonel (A.Q.M.G.); released March 1945; Principal (in absentia) 10th March, 1944; Assistant Secretary in Office of United Kingdom High Commissioner in Union of South Africa March 1946 to April 1947; Assistant Secretary 12th April, 1949; Deputy High Commissioner, Lahore, 22nd April, 1952.
+
+JASPER, Robin Leslie Darlow; born 22nd February, 1914; educated at Dulwich College 1922-33 and Clare College, Cambridge, 1933-36; Classical Scholar; B.A. Classical Tripos Part I Class II Division I, Part II Class II; Apprentice L.N.E.R. Hotels (Hotel Administration) 1936-39; Bursar, London House, Guilford Street, 1939-40; R.A.F. August 1940 to January 1946; Wing Commander; Principal India Office 4th March, 1946; Deputy High Commissioner (with local rank of Assistant Secretary), Lahore, 5th November, 1949 to 22nd January, 1952.
+
+JENKINS, Ralph John; born 8th May, 1910; telegraphist, G.P.O., 3rd November, 1926; Clerical Officer, Colonial and Dominions Offices, 6th July, 1931, Higher Clerical Officer 13th March, 1942; joined R.A.F. 1942, sergeant 1943, commissioned Pilot Officer 1944, Flying Officer 1945, served in France, Belgium, Holland, Germany, Denmark and India, released 7th February, 1946; Chief Clerk, Office of the United Kingdom High Commissioner in Canada, May 1947 to July 1950; local Higher Executive Officer 1st November, 1949; Higher Executive Officer 1st April, 1950; Office of the High Commissioner for the United Kingdom in India (New Delhi), February 1953.
+
+JEPSHON, Maurice Kearley, O.B.E. (1946); born 2nd April, 1893; educated privately, London University Matriculation (1st Class) and Inter B.Sc. (Internal, King's College, London); Boy Clerk, Scottish Education Department, September 1908; Second-Class Clerk, India Office, 26th February, 1912; served in R.F.C. and R.A.F. March 1917 to September 1919 (Sergeant); France and Belgium May 1917 to April 1919; Executive Officer 1st April, 1922; Higher Executive Officer 1st August, 1927; Senior Executive Officer 26th June, 1940; Chief Executive Officer 1st January, 1946.
+
+JOHNSON, Robert Hughes; born 15th June, 1905; temporary clerk, Ministry of Food, 26th January to 30th March, 1940, and from 10th May, 1940 (Grade I), temporary assistant 8th November, 1940, temporary head of branch 1st October, 1942; established Executive Officer 1st January, 1946, Higher Executive Officer 1st February, 1949; transferred to Commonwealth Relations Office 14th August, 1950; Office of United Kingdom High Commissioner in India (New Delhi) 25th August, 1950, to 2nd November, 1952.
+
+JONES, Thomas; born 20th June, 1900; Boy Attendant, British Museum, 4th January, 1915; Boy Clerk, Royal Hospital, Chelsea, 16th April, 1916, Ministry of Pensions 1st
+April, 1917, Assistant Clerk 19th October, 1917; served from 3rd July, 1918, to March 1920 in 52nd Bn. Rifle Brigade as Rifleman (Signaller); Assistant Clerk (later assimilated Clerical Officer), India Office, 19th April, 1920, Executive Officer 4th May, 1939, Higher Executive Officer 29th October, 1942.
+
+Joyce, Alec Houghton, C.I.E. (1943), C.B.E. (1952); born 5th March, 1894; educated secondary school, Derby, and articled to a firm of surveyors; military service 1914 to September 1919, served in France and Russia; Meritorious Service Medal 1919; Temporary Clerk, India Office, 13th September, 1919, Clerical Officer 9th February, 1922, Higher Clerical Officer 21st August, 1924; assistant to Information Officer 14th March, 1930; Joint Publicity Officer, Indian Round Table Conference, London, 1930, 1931 and 1932 and Burma Round Table Conference, London, 1931; Personal Assistant to Prime Minister, Monetary and Economic Conference, London 1933; on special duty (publicity) with Government of India Home Department April to November 1935 and October 1936 to December 1937; Information Officer 6th December, 1937; Acting Chief Press Officer at No. 10 Downing Street at various times; Adviser on publicity questions 1st March, 1941; on staff of Cabinet Mission to India 1946; Assistant Secretary 8th May, 1947; visited, officially, United States and Canada June, July, 1951, India, Pakistan and Ceylon, 1951-52.
+
+K
+
+Keeble, Thomas Whitfield; born 10th February, 1918; educated Sir John Deane's Grammar School, Northwich, 1930; St. John's College, Cambridge, 1937-40; Sizar; Mod. Languages Tripos in French and Spanish Part I, Class II, Part II Class II; enlisted in ranks of R.A. 20th December, 1940; commissioned 19th October, 1941; served with Indian Artillery 1941-45 in India, Iraq, Iran, Lebanon, and Burma; Captain; released 26th June, 1946; King's College, London, postgraduate research in Spanish literature 1946; Ph.D. December 1948; Assistant Principal Commonwealth Relations Office 5th October, 1948; Private Secretary to Parliamentary Under-Secretary of State January to August 1949; Principal August 1949; Office of the United Kingdom High Commissioner in Pakistan (Lahore) April 1950, (Peshawar) 1951, (Karachi) September 1952.
+
+Kerr, Donald Frederick; born 20th April, 1915; educated at University of Sydney 1933-36; B.Econ.; Military Service 1942-46. India Office (Deputy Director, Information Services, New Delhi) 5th May, 1947 to October 1952; established Principal Information Officer with seniority from 1st August, 1949.
+
+Kimber, Gurth, C.M.G. (1952); born 19th January, 1906 (at Buenos Aires); educated Belgrano Day School, Buenos Aires, 1915 to 1919, Perse School, Cambridge, 1919 to 1924, Clare College, Cambridge, October 1924 to June 1928; B.A. (Hons.) Natural Science Tripos, Part I 1st Class, Part II 2nd Class; Assistant Principal, Dominions Office, 19th October, 1928; Private Secretary to Parliamentary Under-Secretary of State 1st February, 1933, and accompanied him on tour to Australia September to December 1934; Assistant to United Kingdom Representative in Australia 3rd December, 1934, to 19th October, 1935; Principal 1st January, 1936; on loan to Children's Overseas Reception Board 19th June, 1940, to 20th October, 1940; Assistant Secretary 1st April, 1943; Dominions Office representative on United Kingdom Delegation to U.N.R.R.A., 2nd Session, Montreal, September and October 1944; Joint Official Secretary in Office of United Kingdom High Commissioner in Australia June 1946 to December 1948, then Official Secretary to June 1950; Deputy High Commissioner, Bombay, 14th February, 1952.
+
+King, Derek John; born 3rd December, 1922; educated Bemrose School, Derby, September 1933 to February 1940, Leeds University 1946-49; B.A. Honours Class I 1949, Geography; Brown Scholar (University Senior); R.A.F. July 1942; Wireless Operator Mechanic/Air Gunner (Aircrew); commissioned 1943; qualified as Class "A" Radar Leader, December 1945; demobilized as Flight Lieutenant October 1946; temporary Assistant Principal, Commonwealth Relations Office, 29th August, 1949; established Assistant Principal 21st February, 1950; Private Secretary to Parliamentary Under-Secretary of State 14th April, 1951; Assistant Private Secretary to Secretary of State 9th July, 1951 to 31st July, 1952; Principal 1st July, 1952; Office of Deputy High Commissioner, Bombay, June 1953.
+
+King, Walter Frederick; born 15th December, 1896; Ministry of Information 15th June, 1943; India Office (Director, British Information Services, India) 1st August, 1946; temporary Chief Information Officer (A), 1st August, 1949.
+
+Kordik, Oscar, M.B.E. (1949); born 19th May, 1893; Boy Clerk, Local Government Board, September 1908, Assistant Clerk 3rd December, 1912; Second-Class Clerk, India Office, 30th January, 1913; served in R.F.C. and R.A.F. September 1915 to February 1919; Military Medal 1917; Executive Officer 1st April, 1922, Higher Executive Officer 7th August, 1931, Senior Executive Officer 8th November, 1945; Chief Executive Officer, 26th June, 1953.
+
+Kordik, Mrs. Katherine Constance (née Hager); born 27th June, 1902; educated at Watford Girls' Grammar School and Berkhamsted School for Girls; Senior Oxford Examination 1918; Temporary Clerk, Ministry of Pensions, 18th October, 1918, Writing Assistant 9th August, 1921, Clerical Officer 20th August, 1928; India Office 4th April, 1932; Executive Officer 24th April, 1940; Higher Executive Officer 1st December, 1945.
+Laithwaite, Sir John Gilbert, G.C.M.G. (1953), K.C.M.G. (1948), K.C.I.E. (1941), C.S.I. (1938), C.I.E. (1935); born 5th July, 1894; educated at Clongowes 1907-11; Trinity College, Oxford, 1912-16; Exhibitioner, 2nd Class in Hon. Mods., 2nd Class in Greats; served in France with 10th Lancashire Fusiliers May 1917 to July 1918; Lieutenant; wounded 1918; on special duty at War Office March to September 1919; temporary Higher Division Clerk, India Office, 7th October, 1919; Junior Clerk 16th July, 1920; Assistant Principal 1st April, 1921; Private Secretary to Parliamentary Under-Secretary of State 21st March, 1922, whom he accompanied on deputation to India August to November 1922; Assistant Private Secretary to Secretary of State 4th October, 1923; Principal 18th September, 1924; attached to Prime Minister for Indian Round Table Conference, London, Second Session, September to December 1931; Secretary, Indian Franchise Committee January to June 1932; Secretary, Indian Delimitation Committee August 1935 to January 1936; Private Secretary to Viceroy of India (Marquess of Linlithgow) April 1936 to October 1943; Secretary to the Governor-General (Personal) April 1937 to October 1943; Secretary of the Orders of the Star of India and the Indian Empire April 1937 to October 1943; Assistant Under-Secretary of State for India (in absentia) 20th October 1943; Under-Secretary (Civil) to the War Cabinet January 1944 to September 1945; Secretary British Commonwealth Meeting, London, April 1945; Deputy Under-Secretary of State for Burma 1st October, 1945; Deputy Under-Secretary of State for Commonwealth Relations 4th January, 1948; United Kingdom Representative in Dublin April 1949, Ambassador 26th July, 1950; United Kingdom High Commissioner in Pakistan 11th August, 1951.
+
+Larmour, Edward Noel; born 25th December, 1916; educated at Royal Belfast Academical Institution September 1928 to June 1935 and at Trinity College Dublin October 1935 to July 1940; Classical Sizar; Foundation Scholar; Kitchener Scholar; Degree in Classics Class I; University and Irish Cricket XI; joined Royal Inniskilling Fusiliers September 1940; Burma Civil Service (Class I) April 1942; commissioned 14th Punjab Regiment, attached Indian Pioneer Corps January 1943, transferred to Civil Affairs Staff Burma November 1944; Major; released September 1946; Deputy Secretary to Governor of Burma August 1947; Assistant Principal Commonwealth Relations Office 7th May, 1948; Principal 1st January, 1949; Office of the United Kingdom High Commissioner in New Zealand December 1950.
+
+Last, John Henry, M.B.E. (1953); born 4th November, 1902; Telegraphist and Instructor, G.P.O. 28th July, 1919; Clerical Officer, India Office 15th June, 1931, Higher Clerical Officer 23rd March, 1942; Assistant Communications Officer (Higher Executive Officer) 15th December, 1947; Communications Officer (Acting) 2nd September, 1952; Passport Officer, Cape Town, 12th March, 1953.
+
+Leadbetter, Sidney, M.B.E. (1949); born 6th October, 1902; Boy Clerk, Colonial Office 18th February, 1918, Assistant Clerk 29th April, 1920 (assimilated to the Clerical Grade), Higher Clerical Officer 3rd March, 1937, Staff Officer (later Higher Executive Officer) 30th April, 1943, Senior Executive Officer 16th August, 1951.
+
+Le Burn, Leonard Edwin, M.B.E. (1948), M.M.; born 29th September, 1897; educated at Emanuel School, Wandsworth, 1909-14; Temporary Clerk, India Office September 1914 to June 1916; served in Queen Victoria's Rifles, Royal Irish Rifles and Royal Irish Fusiliers June 1916 to February 1919; M.M. September 1918; temporary clerk, India Office, February, 1919, Clerical Officer 2nd March, 1922, Higher Clerical Officer 17th December, 1937, Higher Executive Officer 24th July, 1942.
+
+Le Rougetel, Sir John Helier, K.C.M.G. (1946), C.M.G. (1943), M.C. and Bar. United Kingdom High Commissioner in the Union of South Africa from 27th September, 1951, and High Commissioner for Basutoland, the Bechuanaland Protectorate and Swaziland, from 2nd October, 1951.
+
+Le Tocq, Eric George; born 20th April, 1918; educated Elizabeth College, Guernsey, 1928-36 and Exeter College, Oxford 1936-39; 2nd Class Honours School of Modern Languages; commissioned in Royal Engineers October 1939; served in North Africa March 1942 to September 1943, Italy September to December 1943, and in Austria and Greece; Major; released March 1946; teacher of modern languages and mathematics, Monmouth School, 1946-48; Assistant Principal 1st September, 1948; Officer of United Kingdom High Commissioner in Pakistan (Karachi) October 1948, to November 1950; Acting Principal 8th May, 1950; First Secretary, United Kingdom Embassy, Dublin, 14th April, 1953.
+
+Liesching, Sir Percivale, G.C.M.G. (1951), K.C.B. (1947), K.C.V.O. (1953), K.C.M.G. (1944), C.M.G. (1932); born 1895; educated at Bedford School 1904-14 and Brasenose College Oxford 1919-20 (Scholar); M.A.; served in France and Belgium 1914 and 1917-18 (despatches), East African Expeditionary Force 1916; Captain, Rifle Brigade and Tank Corps; Assistant Principal Colonial Office, 1920; transferred to Dominions Office 1925; Private Secretary to Permanent Under-Secretary of State 1925; Principal 1927; accompanied United Kingdom delegation to League of Nations Assembly 1927 and to signature of Pact of Paris 1928; First Secretary Office of the United Kingdom High Commissioner in Canada 1928-32;
+attended Imperial Economic Conference, Ottawa, 1932; Political Secretary at Pretoria 1933-35; Official Secretary at Canberra 1936-39; attended Civil Aviation Conference Wellington, New Zealand, 1936; Assistant Under-Secretary of State, Dominions Office, 1939 to 1942; seconded to Board of Trade in 1942 as Second Secretary; in 1943 and 1945 led delegations to Washington to discuss commercial policy; in 1946 visited Argentina and Brazil for discussions with the two Governments on the International Trade Organization; seconded to Ministry of Food as Permanent Secretary in July 1946 and led a mission to Ottawa in 1947 to discuss economic questions with the Canadian Government; returned to Commonwealth Relations Office in January 1949 as Permanent Under-Secretary of State; visited South Africa and Southern Rhodesia on a special mission March 1949, and Colombo (and afterwards India and Pakistan) for the meeting of Commonwealth Foreign Ministers January 1950.
+
+Lloyd, John Robert, M.B.E. (1950): born 17th April, 1899; educated at Barnsbury Central Higher Grade School; served in London Scottish and Gordon Highlanders April 1917 to February 1919; Ex-soldier clerk, Class B War Office, 2nd June, 1919, to 31st October, 1921; Clerical Officer, India Office, 1st November, 1921; Higher Clerical Officer 11th December, 1939; Assistant Superintendent, Telegraph and Mails Branch (Staff Officer) 17th July, 1944; Superintendent of Records (Senior Executive Officer) 1st October, 1947.
+
+Lovitt, Cyril Arnold; born 20th September, 1920; educated at Hornsey County School 1931-37; General Schools Leaving Certificate with Matriculation exemption 1937; Clerical Officer, Dominions Office, 30th August, 1937; seconded to Palestine Government as Grade K Clerk December, 1939; joined R.N.V.R. as Temp. Sub-Lieut. 1st May, 1942, attached to Naval Attaché's staff, Ankara; Liverpool Escort Force 1943; Temp. Lieut. R.N.V.R. December 1944; Personnel Selection Officer on H.M.S. "Royal Arthur" December 1945; demobilized, July 1946; returned to Dominions Office, September 1946; Higher Clerical Officer (later assimilated to Executive Officer grade) 10th February, 1947; Higher Executive Officer July 1952; Passport Officer, Office of United Kingdom High Commissioner, Canberra, December 1949, India (Madras), February 1953.
+
+Lythgo, William Reginald; born 7th June, 1920; educated at Palmer's School, Grays, 1931-37; London Matriculation 1935; Higher School Certificate, 1936; Clerical Officer, Home Office, 23rd June, 1937; mobilized with R.A.S.C. (T.A.) 1st September, 1939; served as N.C.O. in U.K., France, Belgium, and Holland 1939-41; commissioned in Indian Army 1942 and served in India, Persia and Iraq; released with rank of Captain June 1946; Executive Officer (in absentia) 1st July, 1942, Higher Executive Officer 18th September, 1947; seconded to Commonwealth Relations Office (B.I.S. New Delhi) 16th March, 1948; transferred to Commonwealth Relations Office 1st September, 1950.
+
+MacLennan, Ian Morrison Ross, C.M.G. (1951); born 30th October, 1909; educated Hymers College, Hull, 1918 to July 1928; Worcester College, Oxford, 1928-32; M.A.; 2nd Class Honours Mods. 1930, 1st Class Philosophy, Politics and Economics 1932; Gladstone Research Student, St. Deiniol's Library, Hawarden, 1932-33; Assistant Principal, Colonial Office, 31st October, 1933; accompanied Agricultural Adviser, Colonial Office, on tour to West African Colonies October 1935 to February 1936; Private Secretary to Parliamentary Under-Secretary of State, Dominions Office, 15th February, 1937; Assistant Secretary in Office of United Kingdom High Commissioner in Canada April 1938 to November 1941; Senior Secretary November 1941 to April 1943; Principal 2nd January, 1939; Private Secretary to Secretary of State December 1943 to May 1944; Senior Secretary in Office of United Kingdom High Commissioner in Union of South Africa May 1945 to August 1948; Assistant Secretary Commonwealth Relations Office 11th May, 1946; United Kingdom High Commissioner in Southern Rhodesia February 1951.
+
+Malcolm, Hugh Waudby; born 21st May, 1900; educated at County Secondary School, Brockley, and St. George's College, Kingsway; Boy Clerk, G.P.O., 16th August, 1915, Assistant Clerk 19th October, 1917; served as Rifleman, Rifle Brigade, June 1918 to March 1920; Assistant Clerk (later assimilated Clerical Officer), India Office, 23rd April, 1920, Executive Officer 16th February, 1934, Higher Executive Officer 1st July, 1940; attached (part-time) to Burma Currency Board 1st April, 1947 (Assistant Secretary and Accountant to Board from 16th December, 1949); Senior Executive Officer 18th May, 1953.
+
+Martin, Victor Cecil; born 12th October, 1915; educated Jesus College, Cambridge; Classical Tripos Part I Class II Division I, Part II Class I; Assistant Principal, Office of Works, 14th October, 1938; transferred to Ministry of Education 9th January, 1939; military service 23rd October, 1939 to 14th December, 1945; Major Intelligence Corps; served in Persia and Iraq Command October 1941 to September 1945; Principal 1st January, 1945; seconded to Commonwealth Relations Office with effect from 29th April, 1948; transferred to that Office December 1949; Office of United Kingdom High Commissioner in India (New Delhi) January 1951.
+
+Marvin, Edith Anna, M.B.E. (1935); born 20th April, 1893; educated at Notting Hill High School and Bedford College for Women, London University; B.A. (3rd Class Hons. Classics) 1915; Junior Administrative Assistant, War Office and Ministry of Health, February 1916 to January 1921,
+Clerical Officer, India Office, 11th July, 1921; Higher Clerical Officer 1st April, 1922; Staff Officer 13th June, 1933; Senior Executive Officer 20th August, 1943.
+
+**MASTER**, Alfred, C.I.E. (1931), I.C.S. (retired); born 12th February, 1883; educated at Epsom College and Brasenose College, Oxford; B.A. (2nd Class Honours Lit. Hum.); appointed to Indian Civil Service 1905; served in Bombay; Municipal Commissioner, Ahmedabad, 1917; on military duty September 1918 to August 1919; Settlement Officer, 1922; Joint Secretary to Government of Bombay (General, Education and Marine Departments) 1925; Member of Bombay Legislative Council 1925 and 1932; Collector and District Magistrate and Political Agent 1926; retired 1934; Lecturer in Marathi and Gujarati, successively, at the School of Oriental Studies 1937-39 and in Indian Philology 1944-50; Censor at the School of Oriental and African Studies 1940-44; Assistant Keeper 1st Class, India Office Library, 1st January, 1951. Publications: *Introduction to Telugu Grammar*, and numerous articles in appropriate journals on administration, numismatics, and linguistics.
+
+**McCRACKEN**, Andrew; born 21st October, 1890; educated at Ayr Academy and Glasgow University; 1st Class Honours Classics; appointed to Indian Civil Service, 1914; served as Assistant Commissioner in Burma from 1915; on military service August 1916 to September 1919; returned to Burma and served in various posts as Under-Secretary to Government, Additional Secretary and Deputy Commissioner; Deputy Secretary in the Reforms Office of the Government of India, June 1930 to January 1932; Home Secretary, Government of Burma, 1938; Commissioner (substantive) April 1942; retired 1945; temporary Principal, India Office, 6th March, 1944.
+
+**MCNALLY**, Sidney James; born 11th June, 1902; educated at Archbishop Tenison's Grammar School; Oxford Senior Local Examination (Honours) 1917! Temporary Clerk, Foreign Office, August 1918 to March 1922; Clerical Officer, India Office, 20th March, 1922, Executive Officer 12th April, 1940, Higher Executive Officer 14th April, 1942; Office of the United Kingdom High Commissioner in the Union of South Africa 12th March, 1953.
+
+**McQUIGGAN**, John; born 24th November, 1922; educated at St. Edward's College, Liverpool; Northern Universities Matriculation; Clerical Officer, Dominions Office, 26th February, 1940; enlisted in R.A.F. 1st June, 1942; Wireless Mechanic to December 1945; West Africa 1943-1944; Italy 1945; Malta 1946; Instructor in Mathematics and Geography under R.A.F. Educational and Vocational Training Scheme 1946; demobilized 26th January, 1947; returned to Dominions Office January 1947; Executive Officer 17th November, 1947; Chief Clerk, Office of U.K.H.C. Australia 6th July, 1950; Higher Executive Officer 2nd July, 1952.
+
+**McROBERT**, Col. Sir George Reid (Kt. 1947), C.I.E. (1942), M.A., M.D., F.R.C.P., I.M.S. (retired); born 21st January, 1895; educated at Gordon's College, Aberdeen, and Aberdeen University; served in R.A.M.C., in France and Mesopotamia, 1917-20; entered the Indian Medical Service 1920; Civil Medical Department of Government of India 1925; Professor of Physiology and Pharmacology and Medical Warden, Rangoon University, 1925-31; District Medical Officer, Maymyo, 1931-33; Professor of Medicine and First Physician Medical College Hospital, Madras University, 1934-45; Inspector-General of Hospitals, Bihar, 1945-47; Member, Commonwealth Relations Office Medical Board, 1st September, 1947. Consultant Physician, Tropical Diseases Hospital, University College Hospital London; Consultant, Officers' Convalescent Home, Osborne; Numerous publications in professional journals.
+
+**METCALF**, Maurice Rupert, O.B.E. (1945); born 5th May, 1905; educated at Oundle School 1915-22 and Sidney Sussex College, Cambridge, 1924-27; B.A. (Agriculture); Assistant Secretary Horace Plunkett Foundation (Agricultural Co-operation) 1927-32; Organization Secretary and Secretary Horticultural, Potatoes and Agricultural Co-operation Divisions, National Farmers' Union 1932-41; Secretary Empire Fruits Council 1936-41; appointed to Ministry of Food as Head of Branch (temporary) 2nd June, 1941; Assistant Private Secretary to Minister June 1942; Principal Private Secretary to Minister 3rd May, 1943; transferred to Office of the Minister of Reconstruction as Private Secretary to Minister 13th November, 1943, and to Office of the Lord President of the Council as Personal Assistant to Lord President 15th June, 1945; Assistant Secretary (temporary) 1st July, 1945; re-transferred to Ministry of Food 13th August, 1945; established in grade of Principal with acting rank of Assistant Secretary 1st January, 1946; transferred to Commonwealth Relations Office 1st October, 1949; Deputy United Kingdom High Commissioner in Ceylon 20th September, 1950 to 4th January, 1953.
+
+**MILES**, Frank Stephen; born 7th January, 1920; educated at Daniel Stewart's College, Edinburgh, and St. Andrew's University 1938-42, Scholar; M.A. in History; enlisted as rating in Fleet Air Arm January 1942; commissioned October 1943; Lieutenant (A) Observer; released July 1946; Commonwealth Fund Fellowship, Harvard University, U.S.A., 1946-47; degree of Master in Public Administration; Assistant to Curator of Historical Records of Scotland, Edinburgh, 1947-48; Temporary Assistant Principal, Scottish Home Department, 18th February, 1948, to 30th April, 1948; Assistant Principal Common-
+wealth Relations Office 1st May, 1948; Principal 1st July, 1952; on staff of United Kingdom High Commissioner in New Zealand 10th February, 1949 to 14th April, 1952.
+
+MILES, John Edwin Alfred, M.B.E. (1952); born 14th August, 1919; educated at Hornsey County School 1930-37; General School Certificate 1936; Clerical Officer, Colonial Office, 15th February, 1937; joined Queen's Royal West Surrey Regiment May 1940; commissioned in North Staffordshire Regiment February 1941; attached Royal Indian Army Service Corps February 1942; Major August 1943; served in India, Persia, Iraq, Palestine and Egypt; released 28th September, 1946; Higher Clerical Officer (later assimilated to Executive Officer) in absentia 1st December, 1944; returned to Dominions Office August 1946; Chief Clerk, Office of the United Kingdom High Commissioner in New Zealand, 25th May, 1948, to 29th June, 1951; Higher Executive Officer 3rd February, 1951; Principal 14th August, 1952; Office of United Kingdom High Commissioner in India (Calcutta), July 1953.
+
+MILLS, Frank; born 3rd December, 1923; educated at King Edward VI Grammar School, Nuneaton, 1934-42 and Emmanuel College, Cambridge, 1945-48. Exhibitioner in English; History Tripos Parts I and II Class 2 Division I; served in R.A.F.V.R. 1942-45 as radar mechanic; released 1945; Assistant Principal Commonwealth Relations Office 1st November, 1948; Office of United Kingdom High Commissioner in Pakistan (Karachi) February 1949 (Dacca) May 1949 to April 1951; Private Secretary to Parliamentary Under-Secretary of State 1st December, 1952.
+
+MOLYNEUX, John Anthony; born 1st August, 1923; educated at Lancing College 1937-41 and Worcester College, Oxford, September 1946 to March 1948; Honours Degree (unclassified) in Litt. Hum. 1948; enlisted as rating (telegraphist, wireless mechanic) in Royal Navy November 1941; commissioned January 1944; served in the North Sea Patrol 1942-43 and in the Pacific (Okinawa Campaign) 1944-45; released April 1946 as T/Sub-Lieutenant (Sp. Sc.) R.N.V.R.; Assistant Master, Wychwood School, Bournemouth, January-July 1946; Assistant Principal Commonwealth Relations Office 6th April, 1949; Principal 1st July, 1952; Office of the United Kingdom High Commissioner in India (New Delhi) August 1950 to December 1952.
+
+MONSARRAT, Nicholas; born 22nd March, 1910; educated at Winchester and Trinity College, Cambridge; Honours in Law; served in R.N.V.R. 1940-46 as Lieutenant-Commander; mentioned in despatches; Director, United Kingdom Information Office, Johannesburg, April 1946, Ottawa, April 1953; established Chief Information Officer with seniority from 1st August, 1949. Publications: twelve novels and war books, including The Cruel Sea (1951).
+
+MORLEY, Alexander Francis, C.B.E. (1948); born 6th January, 1908; educated Rugby September 1920 to July 1926, Queen's College, Oxford, October 1926 to June 1930, 1st Class Classical Hon. Mod. 1928; 2nd Class Lit. Hum. 1930; B.A.; Assistant Principal India Office 20th October, 1930; Private Secretary to Parliamentary Under-Secretary of State December 1933; Principal 13th March, 1936; Adviser to Indian Government delegations to 21st, 22nd, 23rd and 24th International Labour Conferences 1936-38; Secretary to Indian Delegation to Brussels Nine-Power Conference November 1937; on loan to Ministry of Aircraft Production 17th July, 1940, to 17th March, 1942; attached to United Kingdom Delegations Commonwealth Communications Conference and U.N.R.R.A. Council 1945; Assistant Secretary Burma Office 31st December, 1945, to 14th December, 1947; attached to United Kingdom Delegation to United Nations General Assembly January 1946; on loan to Treasury for service as Economic Adviser to Lord Privy Seal 15th December, 1947; returned to Commonwealth Relations Office as Assistant Secretary 19th April, 1949; Deputy United Kingdom High Commissioner in New Zealand, 17th March, 1950, to 1st February, 1953.
+
+MORRISON, John William; born 22nd May, 1926; educated at Fettes College, Scholar, 1940-44; Oriel College, Oxford (R.A.F. Short Course) October 1944-March 1945; enlisted in R.A.F. April 1945; commissioned 14th June, 1946; released with rank of Flight-Lieut. 4th April, 1948; Oriel College, Oxford, 1948-51; joined R.A.F.V.R. (Oxford University Air Squadron) November 1948. Final Honours Mod. History Class II 1950; Full Final Honours Modern History Class II 1951; B.A.; Assistant Principal Commonwealth Relations Office 31st October, 1951; Assistant Private Secretary to Secretary of State 1st August, 1952.
+
+MOYNIHAN, Martin John, M.C.; born 17th February, 1916; educated Birkenhead School (Classical Scholar) 1925 to 1934 and Magdalen College, Oxford, 1934-38 (Exhibitioner); Honours School of Philosophy, Politics and Economics 2nd Class Honours 1937; Honours School of English Language and Literature 2nd Class Honours 1938; M.A.; English staff, Adolf Hitler School, Sonthofen, Allgau, Bavaria, 1st January to 15th February, 1939; Assistant Principal India Office 27th February, 1939; served as British Army Cadet 8th December, 1939, to 30th April, 1940; commissioned and transferred to Indian Army April 1940; posted to the Frontier Force Regiment January 1941; served in Burma and on North West Frontier of India 1941-45; qualified in Hindustani; wounded Burma January 1945; awarded M.C.; released from Indian Army in November 1945 with rank of...
+Major; Principal 31st January, 1944; served on staff of United Kingdom High Commissioner in India (at Delhi, Madras and Bombay) 1st October, 1946, to November, 1948, Joint Secretary, Commonwealth Supply and Production Meeting, September 1951; Office of the United Kingdom High Commissioner, Karachi, 11th October, 1952.
+
+N
+
+NAPIER, Charles James; born 18th June, 1915; studied at School of Oriental Studies London University; B.A. 1947 (2nd Class Honours in Indo-Aryan); appointed to Commonwealth Relations Office as Assistant Keeper 1st Class, India Office Library, 1st January, 1950.
+
+NORRIS, Eric George; born 14th March, 1918; educated Hertford Grammar School 1928-36 and St. Catharine's College, Cambridge, October 1936 to June 1939; Mathematics Tripos Part I Class II 1937, Natural Science Tripos Part II Class III 1939; Assistant Master Nautical College, Pangbourne, September 1939 to April 1940; enlisted in ranks of Royal Signals 4th April, 1940; commissioned 24th May, 1941; served in Germany July 1945 to October 1946; Major; released 3rd October, 1946; Assistant Principal Dominions Office 2nd December, 1946; Assistant Secretary in Office of United Kingdom Representative in Dublin February 1948 to September 1950; Acting Principal (local rank) 16th November, 1948; Principal 1st January, 1949; Office of United Kingdom High Commissioner in Pakistan (Karachi) 1st March, 1952.
+
+NYE, Lieutenant-General Sir Archibald (Edward), G.C.S.I., G.C.M.G., G.C.I.E., K.C.B., K.B.E., M.C.; United Kingdom High Commissioner in India to 11th August, 1952, in Canada 12th August, 1952.
+
+O
+
+O'BRIEN, Terence John, M.C.; born 13th October, 1921; educated at Gresham's School, Holt, 1933-40, Merton College, Oxford, 1940-41 and January 1946-47; Postmaster; History, 2nd Class Honours, M.A.; enlisted in ranks of R.A. 5th December, 1941; commissioned 22nd May, 1942; served in North West Europe; Captain March 1945; M.C. May 1945; released in Class B 25th January, 1946; Assistant Principal Dominions Office 14th April, 1947; Office of United Kingdom High Commissioner in Ceylon December 1949 to 9th March, 1952; Principal 10th March, 1952.
+
+ORMEROD, Richard Caton; born 22nd January, 1915; educated at Winchester College 1928-33, New College, Oxford, 1933-37; Honour Moderations and Lit. Hum. 2nd Class; B.A.; Assistant Principal India Office 11th October, 1938; joined Royal Armoured Corps as trooper 13th November, 1941; commissioned 24th October, 1942, in Indian Armoured Corps and served initially in India and in 1944-45 in Burma; wounded; Captain; released 3rd December, 1945; Assistant Private Secretary to the Secretary of State 10th December, 1945; Principal 29th August, 1946; Office of United Kingdom Deputy High Commissioner in Bombay May 1951 to May 1953.
+
+OSBORNE, Raymond Harry; born 26th July, 1899; served in the 15th London Regiment (C.S. Rifles) August 1917 to November 1919; Temporary Clerk, Board of Trade, February 1920 to February 1922; Clerical Officer, India Office, 15th February, 1922, Executive Officer 12th April, 1940; on loan to Ministry of Supply 27th July, 1943, to 31st December, 1945; Higher Executive Officer, India Office, 1st December, 1945.
+
+OXLEY, Humphrey Leslie Malcolm; born 9th October, 1909; educated at Epsom College 1922-27; entered solicitor's office as articled clerk 1928; qualified as solicitor and enrolled 1933; Junior Legal Assistant, India Office, 23rd September, 1933; appointed Commissioner for Oaths April 1934; Assistant Solicitor 13th March, 1944; Senior Legal Assistant 1st January, 1950.
+
+P
+
+PALMER, Alfred Samuel, M.B.E. (1944); born 12th September, 1892; served in Coldstream Guards 18th October, 1906, to February 1919; Sergeant; ex-Soldier Clerk, War Office, 8th February, 1919, to 31st December, 1921; Clerical Officer, India Office, 2nd January, 1922, Higher Clerical Officer 2nd July, 1938, Higher Executive Officer 16th November, 1948, Chief Registrar 20th December, 1952, and Civil Defence Officer (May 1952).
+
+PARSONS, Albert Edward, O.B.E. (1949); born 12th November, 1899; educated at Hornsey County School; Boy Clerk, Moncy-Order Department, 1915 to 1917; R.N.V.R. (Telegraphist) November 1917 to June 1919; Assistant Clerk, Ministry of Education, 30th June, 1919; Clerical Officer 1st January, 1920; Assistant Principal 15th August, 1934; Principal 11th December, 1942; transferred to Commonwealth Relations Office 23rd September, 1952.
+
+PEARCE-GERVIS, Leslie William Charles; born 22nd July, 1899; served in the R.A.F. 3rd September, 1939, to 23rd December, 1946; Group Captain; India Office (Films Officer, British Information Services, New Delhi) 29th January, 1947; established Senior Information Officer with seniority from 1st August, 1949.
+
+PENNELLS, Sidney Gilbert, O.B.E. (1947); born 4th May, 1896; enlisted in Queen's Royal West Surrey Regiment September 1914 to April 1919; served in France and Belgium continuously from June 1915 to March 1919 (C.Q.M.S.), awarded M.S.M., mentioned in despatches April 1918; Temporary Clerk India Office April 1919; Clerical Officer 20th October, 1921; Executive Officer 2nd May, 1927; Higher Executive Officer 24th May, 1938; Assistant Administrative Officer 1st April, 1940; Private Secretary to Permanent Under-Secretary of State 11th June, 1942, to 30th
+January, 1944; Principal 31st January, 1944.
+
+**Pickard**, Cyril Stanley; born 18th September, 1917; educated Alleyn's School and New College, Oxford; 1st Class Honours School of Modern History 1939; Assistant Principal Home Office 2nd October, 1939; Military service January 1940 to July 1941 (Captain); released to Foreign Office for special appointment with Office of the Minister of State, Cairo, July 1941 to May 1944; Principal 1st March, 1943; served with U.N.R.R.A. in Middle East and Germany on approved employment terms May 1944 to October 1945; returned to Home Office 1st November, 1945; transferred to Commonwealth Relations Office 1st June, 1948; Office of the United Kingdom High Commissioner in India (New Delhi) 22nd September, 1950, in Canberra (local Assistant Secretary) 30th August, 1952.
+
+**Pope**, Alfred Henry George, M.B.E. (1937); born 24th March, 1904; educated at Birkbeck College, University of London, London Matriculation Examination 1926; Boy Clerk, India Office, 6th June, 1919, to 13th October, 1921; Clerical Officer 14th October, 1921; Higher Clerical Officer 21st November, 1932; Higher Executive Officer 9th August, 1943 (Assistant Superintendent of Telegraph Mails Branch); Superintendent of Telegraph and Mails Branch 10th July, 1944; Chief Communications Officer (Senior Executive Officer) 1st January, 1948, to 29th June, 1952; Office of United Kingdom High Commissioner in Pakistan (Karachi) December 1952.
+
+**Porteous**, John Brian; born 29th August, 1898; educated at Coleshill Grammar School; Boy Clerk, G.P.O., 6th August, 1914, Assistant Clerk as from 27th April, 1916; served in H.A.C. December 1916 to October 1919, in France, Belgium, Italy and Austria; Assistant Clerk, India Office, 13th October, 1919, Clerical Officer 1st January, 1920, Executive Officer 20th December, 1926, Higher Executive Officer 18th March, 1940, Senior Executive Officer 21st March, 1949; Administration Officer Office of the United Kingdom High Commissioner, Karachi, December 1950 to May 1953.
+
+**Price**, Sir Charles Roy, K.C.M.G. (1950); born 1st May, 1893; educated Wellington School, Somerset, and University College, London; B.A. (War) 1919; R.G.A. (S.R.) 1915 to 1918; served in France 1916-18; Lieutenant; Assistant Principal Colonial Office 1st March, 1921, Dominions Office 1925; Private Secretary to Permanent Under-Secretary of State Dominions Office June 1927; Private Secretary to Parliamentary Under-Secretary of State January 1928; Assistant Secretary to Imperial Wireless and Cable Conference January to July 1928; Principal 15th September, 1928; accompanied United Kingdom Delegation to League of Nations 1928, 1932-34 and 1939; London Naval Conference 1930; Disarmament Conference Geneva 1932-34; Joint Secretary Oversea Settlement Board 1937-39; Assistant Secretary 1st December, 1939; Deputy United Kingdom High Commissioner in Union of South Africa June 1940 to May 1942; Deputy United Kingdom High Commissioner in Australia with rank of Assistant Under-Secretary of State 1948; United Kingdom High Commissioner in New Zealand September 1949.
+
+**Pritchard**, Neil, C.M.G. (1952); born 14th January, 1911; educated Liverpool College 1920-29, Worcester College, Oxford, October 1929 to June 1933; Gibbs Scholar 1931; 1st Class Honours Modern History; B.A. (1932); Assistant Principal Dominions Office 23rd October, 1933; Private Secretary to Permanent Under-Secretary of State 5th October, 1936; Private Secretary to Parliamentary Under-Secretary of State 22nd April, 1938; Assistant Secretary to Rhodesia Nyasaland Royal Commission April 1938 to March 1939; Principal 2nd February, 1939; Additional Secretary in Office of United Kingdom High Commissioner in Union of South Africa April 1941; Senior Secretary October 1944 to September 1945; Assistant Secretary 1st May, 1945; Principal Secretary in Office of United Kingdom Representative to Republic of Ireland April 1948; returned to Commonwealth Relations Office October 1949; Assistant Under-Secretary of State (Temp.) 28th December, 1950.
+
+**Reed**, Adrian Harbottle; born 5th January, 1921; educated Hele's School, Exeter, 1933-39 and Emmanuel College, Cambridge, 1939-41; Hist. Tripos Part I Class II Division I 1941; B.A. 1947; enlisted in Royal Artillery 26th September, 1941; commissioned 16th January, 1942; served in Iraq, Persia and Italy October 1942 to July 1945; Captain, employed with Control Commission for Germany, 1946; released 31st March, 1947; Assistant Principal 18th June, 1947; Office of United Kingdom High Commissioner in Pakistan (Lahore) January 1948 to April 1950; local Principal 1st March, 1949; Principal 17th July, 1950.
+
+**Rogers**, Martin Hartley Guy; born 11th June, 1925; educated at Marlborough College 1939 to 1943 and Jesus College Cambridge 1947 to 1949; Law Tripos, Class II(I); enlisted 10th September, 1943; commissioned 20th July, 1944; 2nd Bn. Royal Lincolnshire Regiment; served with B.A.O.R. and in Middle East 1945-47; Captain; released 7th August, 1947; Temporary Assistant Principal, Ministry of National Insurance, 8th August to 7th October, 1949; Assistant Principal Commonwealth Relations Office 8th October, 1949; Assistant Private Secretary to the Secretary of State 10th May, 1950, to 8th July, 1951. Office of United Kingdom High Commissioner in Pakistan (Karachi) 11th November, 1951.
+
+**Ross**, Alfred John Home, M.C.; born 20th September, 1896; educated at Cheltenham
+College, 1909-14; Royal Military College, Sandhurst, 1914; Staff College, Camberley, 1932-33; commissioned in Indian Army (7th Gurkha Rifles) 11th November, 1914; retired as Brigadier, September 1946; Temporary Principal, India Office, 17th October, 1946.
+
+ROSS, Robert, M.B.E. (1948); born 25th January, 1917; educated Hamilton Academy 1928 to 1934 and St. Andrews University 1934-38; M.A. (1st Class Honours in Classics); read Classical Greats, Jesus College, Oxford, 1938-39 (Research Scholar and Exhibitioner); enlisted September 1939; commissioned in Queen's Own Cameron Highlanders January 1940; withdrawn from Army for service with Indian Civil Service September 1940; served in Bengal to 15th August, 1947, as Assistant and District Magistrate and Collector; Assistant Principal Commonwealth Relations Office 2nd January, 1948; on staff of United Kingdom High Commissioner in Pakistan at Dacca January to September 1948 and Peshawar October 1948 to June 1949; Principal 18th August, 1949.
+
+ROSS-WILLIAMSON, Reginald Pole; born 25th January, 1907; educated privately and at Emmanuel College, Cambridge; B.A. 1930; M.A. 1935; accompanied the British Museum expeditions to Upper Egypt 1930-31 and Ur of the Chaldees 1931-32; Editor of "The Bookman" 1934; attached to "Sunday Observer" 1934-39; Adviser on Research in Film Industry 1934-43; Specialist, Ministry of Information 12th September, 1939; Admiralty (Press Division) 9th October, 1939; Dominions Office (Press Attaché, Dublin) 9th August, 1943; established Senior Information Officer with seniority from 1st August, 1949; Regional Information Officer, Bombay, April 1953.
+
+ROWLAND, Theodore, O.B.E. (1948); born 20th July, 1892; educated at Newport High School; Intermediate B.A. (Classics) and B.Sc. (Mathematics) examinations of London University; Gold Medalist in Science of South Wales Technical Colleges; Second-Class Clerk, India Office, 6th May, 1912; enlisted in Artists Rifles December 1915; commissioned in Welch Fusiliers August 1916; Salonika Expeditionary Force October 1916; wounded and taken prisoner March 1917 (multiple gunshot wounds and amputation); exchanged to England January 1918 and released from Army on health grounds March 1919; Executive Officer 1st April, 1922, Higher Executive Officer 26th January, 1933, Senior Executive Officer 7th November, 1941.
+
+RUMBOLD, Horace Algernon Fraser, C.M.G. (1953), C.I.E. (1947); born 27th February, 1906; educated at Wellington 1920-24, Christ Church, Oxford, October 1924 to December 1927, B.A. 2nd Class History School; Assistant Principal India Office 1st January, 1929; Private Secretary to Parliamentary Under-Secretary of State April 1930 to 1933 and to Permanent Under-Secretary of State December 1933 to September 1934; Principal 24th September, 1934; Assistant Secretary 26th July, 1943; Deputy High Commissioner for United Kingdom in Union of South Africa September 1949 to July 1953.
+
+SALES, Norman Amos; born 13th September, 1911; educated at Warehousemen, Clerks and Drapers Schools, Purley, and Hastings Central School; 3rd Class Clerk, Supreme Court of Judicature, 1st October, 1932; Admiralty April 1941; Higher Clerical Officer 1942; on loan to Office of United Kingdom High Commissioner in India (New Delhi) 1st September, 1947; Higher Executive Officer 1st January, 1948; posted to Bombay 1st May, 1950, to 22nd March, 1953; transferred to permanent establishment of Commonwealth Relations Office 1st September, 1950.
+
+SAMPLES, Reginald McCartney, D.S.O.; born 11th August, 1918; educated at Rhyl Grammar School and University of Liverpool 1935-40; B.Com.; R.N.V.R. 1940-46; Lieutenant (A): served in Middle East, West Indies and South Africa; awarded D.S.O. while serving with 825 Squadron in operations in the Channel against Scharnhorst and Gneisenau; Executive Officer and Higher Executive Officer, Central Office of Information, March 1947 to August 1948; Economic Editor of Overseas newspapers "British Ally" (Moscow) and "Voice of Britain" (Warsaw); Commonwealth Relations Office (Editor in Chief, British Information Services, New Delhi) 30th August, 1948; established Information Officer (temporary Senior Information Officer) with seniority from 1st August, 1949; Senior Information Officer 26th May, 1953.
+
+SCONES, General Sir Geoffrey Allen Percival, K.C.B. (1947), K.B.E. (1944), C.S.I. (1942), D.S.O., M.C.; born 25th January, 1893; educated at Wellington and R.M. College, Sandhurst; commissioned 20th January, 1912; awarded M.C. 1915; D.S.O. 1917; Commandant, 2nd Battalion 8th Gurkha Rifles, Indian Army, 1935; Director Military Operations and Intelligence, India, 1941-42; Major-General; 1942; General Officer Commanding 4 Corps, Burma, 1942-44; G.O.C. in Chief, Central Command, India, 1945-46; General 1946; Principal Staff Officer, India Office, 1st January, 1947; A.D.C. to the King 1947-48; Commonwealth Relations Office 1948.
+
+SCOTT, David Aubrey; born 3rd August, 1919; educated Charterhouse 1933-38, Birmingham University, reading for B.Sc. (Mining Engineering) October 1938 to November 1939 (Scholar); enlisted in ranks of R.A. November 1939; commissioned June 1940; served in Egypt as Chief Radar Adviser to British Military Mission to Egypt September 1945 to April 1947; Major; released September 1947; Public Relations Officer Decca Navigation Company 1947; Assistant Principal Commonwealth Relations Office 1st January, 1948; Assistant Private Secretary to Secretary of
+State 27th January, 1949, to 19th September, 1949; Principal 20th September, 1949; Office of the United Kingdom High Commissioner in the Union of South Africa January 1951.
+
+SEDGWICK, Richard Romney, C.M.G. (1945); born 29th May, 1894; educated Westminster and Trinity College, Cambridge; 1st Class History Tripos Part I and Part II; Gladstone Prize, Fellow of Trinity College, 1919; M.A. (1919); Temporary Administrative Assistant Ministry of Munitions 1916 to 1918 and Minister of Labour 1918 to 1919; Assistant Principal Ministry of Labour 26th July, 1919; transferred to Colonial Office 4th April, 1922; Private Secretary to Parliamentary Under-Secretary of State, Dominions Office, 23rd September, 1929; Principal 1st October, 1930; Official Secretary in the Office of the United Kingdom High Commissioner in Australia October 1938 to October 1941 and in New Zealand October 1941 to 1944; Assistant Secretary 16th October, 1941; Deputy United Kingdom High Commissioner in the Union of South Africa May 1946 to 31st October, 1949; Assistant Under-Secretary of State 1st November, 1949.
+
+SHANNON, Godfrey Eccleston Boyd, C.M.G. (1951); born 14th December, 1907; educated Wellington College May 1921 to April 1926; St. John's College, Cambridge, October 1926 to June 1930; 1st Class in Parts I and II Classical Tripos; B.A. 1929; Certificate of Competent Knowledge in French 1930; M.A. 1938; Assistant Principal, Dominions Office, 27th October, 1930; Private Secretary to successive Parliamentary Under-Secretaries of State 23rd January, 1935, to 15th February, 1937; accompanied the Duke of Devonshire to Australia and New Zealand September 1936 to February 1937; Principal 15th February, 1937; served on Secretariat of Imperial Conference; Official Secretary in the Office of the United Kingdom High Commissioner in New Zealand December 1938 to April 1941; Assistant Secretary 1st April, 1943; attached to United Kingdom Delegation to the following Conferences: International Civil Aviation Conference, Chicago, and Commonwealth Air Conversations, Montreal, November 1944; Council of Foreign Ministers, London, and United Nations Preparatory Commission, London 1945; United Nations General Assembly, London, League of Nations Assembly, Geneva, and United Nations General Assembly, New York, 1946; Council of Foreign Ministers, Moscow; United Nations General Assembly, New York; Council of Foreign Ministers, London 1947; Deputy United Kingdom High Commissioner in Canada June 1948 to January 1951; Deputy High Commissioner, Calcutta (with rank of temporary Assistant Under-Secretary of State), November 1952.
+
+SHARP, Edwin James, M.B.E. (1952); born 8th October, 1895; educated at Landsdowne Grammar School, Pennsylvania, and Escambia County High School, Florida, U.S.A.; served in Royal Artillery from November 1911 to November 1919; Sergeant; served continuously in Gibraltar, Italy, France and Belgium, 1914-18; temporary clerk, Ministry of Pensions, 7th February, 1920, to 17th September, 1921; Clerical Officer, India Office, 19th September, 1921, Executive Officer 19th October, 1936, Higher Clerical Officer 25th April, 1939, Higher Executive Officer 15th September, 1944; Chief Clerk in Office of United Kingdom High Commissioner in Union of South Africa 30th March, 1950, to May 1953.
+
+SHEPHEARD, Charles Wilfred; born 12th February, 1896; joined Royal Berkshire Regiment October 1914 and served in France until November 1917; wounded; released March 1919; temporary clerk, Admiralty, March 1919; Clerical Officer, India Office, 24th April, 1922, Higher Clerical Officer 26th August, 1940, Staff Officer (later Higher Executive Officer) 18th March, 1944.
+
+SIGSWORTH, Thomas James; born 14th May, 1919; Clerical Officer, Dominions Office, 19th October, 1936; enlisted as Riflemen 2nd Queen's Westminsters (K.R.R.C.) 1939; Sergeant, Intelligence Corps, H.Q. Eastern Command, 1940; served in North Africa 1941 and 1942; commissioned in Royal Signals 1943; served in Sicily, Italy and Austria; Captain, 1945; released 1946; Executive Officer 1st December, 1944, Higher Executive Officer 11th May, 1951; Office of United Kingdom High Commissioner in Pakistan (Karachi) September 1951.
+
+SIMMONS, Guy Lintor; born 27th February, 1925; educated at Bradfield College September 1939 to April 1943 and Oriel College, Oxford (History Scholar), July 1947 to June 1949; 2nd Class Honours in Modern History; embodied in R.A.F. October 1943; served in Southern Rhodesia (flying training) May 1944 to September 1945; Sergeant Pilot; released December 1946; Assistant Principal Commonwealth Relations Office 4th July, 1949; Office of the United Kingdom High Commissioner in Pakistan (Peshawar) December 1950; (Lahore) 1951; (Dacca) 1st March, 1952.
+
+SKINNER, Ronald; born 19th May, 1904; Boy Messenger, G.P.O., August 1918; Registry Assistant 5th September, 1920; Clerical Officer 16th June, 1924; on loan to Cabinet Offices, April 1938 to March 1939; Children's Overseas Reception Board 1st July, 1940; Higher Clerical Officer 16th June, 1941; Dominions Office 1st April, 1946; Higher Executive Officer 17th August, 1947.
+
+SMART, Arthur, M.B.E. (1947); born 16th March, 1897; educated at Latymer Upper School; served in Army from April 1916 to September 1919; temporary clerk, Board of Trade, 5th November, 1919, to 2nd October, 1921; Clerical Officer, India Office, 3rd October, 1921, acting Executive
+Officer 11th May, 1938 to 11th October, 1938, and from 23rd January, 1939, Higher Clerical Officer 22nd April, 1939, Higher Executive Officer 14th September, 1942.
+
+SMEDLEY, Harold, M.B.E. (Mil.); born 19th June, 1920; educated Aldenham School 1934 to 1939; Pembroke College, Cambridge, October 1939 to June 1940 and October 1945 to June 1946; Classical Scholar; Classical Tripos Part I Class I June 1946; embodied in R.A. Light A.A. September 1940; commissioned into Royal Marines 22nd March, 1941; served with Royal Marine Anti-Aircraft in United Kingdom, Middle East, and Mediterranean 1941-43; Royal Marine Commando in France, Belgium, Holland and Germany March 1944-45; released with rank of Lieutenant 18th November, 1945; M.B.E. (Mil.) 28th December, 1945; Assistant Principal Dominions Office 26th August, 1946; Private Secretary to Permanent Under-Secretary of State 17th September, 1947; Assistant Secretary in Office of United Kingdom High Commissioner in New Zealand September 1948 to September 1950; Principal 20th September, 1949; Office of the United Kingdom High Commissioner in Southern Rhodesia as Principal Secretary January 1951.
+
+SMITH, William Jeffrey; born 14th October, 1916; educated King Edward VII School, Sheffield, 1927 to 1935, University College, Oxford, 1935 to 1938; History Scholar; B.A. 1938; M.A. 1945; Philosophy, Politics and Economics 2nd Class Honours; employed by Calico Printers' Association September 1938 to September 1940; embodied in ranks of R.A. 12th September, 1940; commissioned 7th June, 1941; served in North Africa, Sicily and Italy; transferred to York and Lancaster Regiment March 1945; Captain; released September 1946; Assistant Principal Dominions Office 11th December, 1946; Member United Kingdom delegation to International Trade Organization Conference, Havana, 1947-48; Principal 1st August, 1948.
+
+SNELLING, Arthur Wendell; born 7th May, 1914; educated Ackworth School, Yorkshire, April 1925 to July 1931; University College, London, B.Sc. (Econ) Class I Honours 1934; Study-Group Secretary, Royal Institute of International Affairs, 1934-36; Assistant Principal Dominions Office 22nd October, 1936; Private Secretary to Parliamentary Under-Secretary of State 2nd February, 1939; Acting Principal 23rd May, 1940; Joint Secretary to the United Kingdom Economic delegation to America September-November 1943; Joint Secretary to United Kingdom Delegation to the International Monetary Conference, Bretton Woods, U.S.A., June to September 1944; accompanied Lord Keynes on Mission to U.S.A. and Canada October to December 1944; Assistant Secretary 2nd September, 1946; Deputy United Kingdom High Commissioner in New Zealand December 1947 to January 1950; Assistant Under-Secretary of State (Acting) 11th September, 1952; Deputy United Kingdom High Commissioner in the Union of South Africa, May 1953.
+
+STANLEY, Henry Sydney Herbert; born 5th March, 1920; educated Eton 1933-38; Balliol College, Oxford, 1938 to 1940; War degree History; enlisted in ranks July 1940; commissioned in King's Royal Rifle Corps December 1940; served in North West Europe 1944-46 and at H.Q. Control Commission for Germany; Captain; released August 1946; Temporary Officer Grade III Foreign Office (German Section) September 1946 to December 1947; Assistant Principal Commonwealth Relations Office 8th December, 1947; Secretary United Kingdom—Southern Rhodesia Financial Talks March 1949; Principal 1st November, 1949; Office of the United Kingdom High Commissioner in Pakistan (Karachi) July 1950 to 9th December, 1952.
+
+STORAR, Leonore Elizabeth Therese; born 3rd May, 1920; educated at the Park School, Glasgow, 1929-38 and St. Andrews University October 1938 to May 1941; M.A. (Political Economy and Political Science); Temporary Employment Officer Ministry of Labour 23rd July, 1941, to January 1942; embodied in A.T.S. 13th February, 1942; commissioned 29th April, 1942; A.T.S. Staff College; G.S.O. III in H.Q. B.A.O.R. September 1945 to May 1946; Junior Commander; released 15th May, 1946; Temporary Administrative Assistant Ministry of Works 6th January, 1947, to 19th February, 1948; Executive Officer 20th February to 31st August, 1948; Assistant Principal Commonwealth Relations Office 1st September, 1948; Principal 8th May, 1950; Office of the United Kingdom High Commissioner in India (New Delhi) (Calcutta) November 1951 to 30th May, 1953.
+
+SUDSBURY, Edwin Ronald, C.B.E. (1947); born 28th March, 1897; educated at Queen Elizabeth's Grammar School, Wakefield, 1906-16, and Lincoln College, Oxford, 1919-21 (Senior Classical Scholar 1915); 2nd Class Hons. Final School of Jurisprudence, 1921; M.A. 1925, 2nd Class Hons. Bar Final Examination 1926; Barrister-at-Law (Middle Temple) 1926; enlisted as private in Coldstream Guards 1916; commissioned in York and Lancaster Regiment 1917 and served in France; discharged on account of wounds 1919 with rank of Lieutenant; appointed to Ceylon Civil Service 1921 and held various appointments, including Private Secretary and A.D.C. to H.E. The Officer Administering the Government 1925; special duties in connection with the introduction of the new Constitution of 1931; Secretary to the Governor 1937-42; special duties with the Reforms Commission 1944-45; Commissioner of Parliamentary Elections 1946-47; Government Agent of Province of Sabaragamuwa 1943-44 and of Western Province (1947); retired March 1948;
+Temporary Principal, Commonwealth Relations Office, 22nd March, 1948.
+
+Sutton, Stanley Cecil, M.Sc. (Econ.); born 23rd September, 1907; educated at Tottenham County School, London School of Economics (B.Ss. (Econ.) First Class Honours in Politics, 1930; M.Sc. (Econ.) in Politics 1938) and University College, London (Diploma in Librarianship, 1931); Sub-Librarian, India Office, 17th June, 1935; Assistant Keeper 17th June, 1937; Keeper 1st Class 4th May, 1946; Librarian, 1st August, 1949.
+
+Swinnerton, Albert Richard, O.B.E. (1952); born 6th April, 1896; served in R.A.S.C. August 1914 to July 1919, overseas July 1915 to June 1919; Warrant Officer; ex-soldier clerk Class B War Office 12th August, 1919, to 2nd August, 1921; Clerical Officer India Office 3rd August, 1921; Executive Officer 1st January, 1929; Higher Executive Officer 23rd January, 1939; Assistant Administrative Officer 1st April, 1940; Principal 12th February, 1942; on loan to War Office as United Kingdom Delegate to Geneva Convention for Protection of War Victims April to June 1949; Office of United Kingdom High Commissioner, Karachi, 16th October, 1952.
+
+Sykes, Sir Cecil George Lewis, K.C.M.G. (1949), C.M.G. (1947), C.V.O. (1941); born 29th March, 1903; educated St. Paul's September 1914 to July 1921; Balliol College, Oxford, October 1921 to June 1925 (Classical Scholar); First Class Honours Mods. 1922 and Lit. Hum. 1925; M.A.; Assistant Principal Dominions Office 21st October, 1925; Liaison Officer Diplomatic Conference for the revision of the Geneva Convention 1929; Assistant Private Secretary to Secretary of State 13th June, 1930, to January 1934; Member Secretariat of United Kingdom Delegation to Ottawa Conference 1932; Principal 1st January, 1934; Secretary to transatlantic Air Mission November to December 1935; transferred to Treasury 1937; a Private Secretary to the Prime Minister 1st February, 1937, to 23rd January, 1940; Assistant Secretary Treasury 24th January, 1940; returned to Dominions Office and posted to South Africa as Deputy United Kingdom High Commissioner 1st July, 1942; Assistant Under-Secretary of State 23rd May, 1946; Deputy Under-Secretary of State 1st June, 1948; Chairman of Establishment Mission to India and Pakistan October to December 1949; United Kingdom High Commissioner in Ceylon 13th September, 1951.
+
+Sykes, Edwin Leonard; born 1st May, 1914; educated Leys, Cambridge, September 1927 to December 1932, Grenoble University February to July 1933; Trinity College, Cambridge, October 1933 to June 1936 and January to March 1937; History Tripos Part I Class I Part II Class I; M.A.; Assistant Principal 4th October, 1937; Assistant Private Secretary to Secretary of State 4th August, 1939; military service 3rd September, 1939 to 23rd April, 1945; Major Royal Signals France and Belgium (B.E.F.) November 1939 to May 1940, Algeria and Tunisia (First Army) November 1942 to January 1944, Washington, U.S.A. (British Army Staff) February 1944 to April 1945; Principal 2nd April, 1943; Assistant Secretary in Office of United Kingdom High Commissioner in Canada April 1945 to July 1947; Seconded to Cabinet Offices January 1949 to January 1951; member of the Secretariat of the Meetings of Commonwealth Finance Ministers, 1949, Foreign Ministers, 1950, and Prime Ministers, 1951, and of the Commonwealth Consultative Committee in London, 1951; Assistant Secretary 21st May, 1951; Assistant Secretary, Office of the United Kingdom High Commissioner in India (New Delhi) 5th June, 1952.
+
+Symon, Alexander Colin Burlington, C.M.G. (1948), O.B.E. (1934); born 13th May, 1902; educated at Hull Municipal Technical College; Assistant Clerk Customs and Excise 24th October, 1919; transferred to India Office as Clerical Officer 22nd April, 1920; Assistant Secretary, Indian Delegation to the Disarmament Conference 1932-33; Executive Officer 28th March, 1933; Assistant Principal 16th November, 1934; Secretary, Indian Delegation to London Naval Conference 1935-36; Private Secretary to Permanent Under-Secretary of State 11th October, 1938; Principal 23rd February, 1939; lent to Ministry of Information 9th September, 1939, to 27th November, 1939; lent to the Government of India as Secretary, Indian Purchasing Mission in America (with temporary rank of Assistant Secretary) 25th August, 1941, to 26th March, 1946; Assistant Secretary 27th March, 1946; Deputy United Kingdom High Commissioner in India September 1946 to May 1949; Acting High Commissioner 19th January to 9th April and 18th August to 31st October, 1948; Assistant Under-Secretary of State 1st October, 1949; member of United Kingdom Delegation to Consultative Committee of the Colombo Plan at Karachi and attended policy meeting of Colombo Plan Council for Technical Co-operation at Colombo, April 1952; Deputy Under-Secretary of State (Acting) 25th August, 1952, to 19th April, 1953.
+
+Tacon, Isabel Florence; born 7th November, 1901; educated at Burlington Girls School, W.I.; Senior Cambridge Examination 1918; Temporary Clerk, Aircraft Production Department September 1918; Clerical Officer, Ministry of Health, 13th June, 1921; India Office 31st July, 1926; Higher Clerical Officer (later assimilated to Executive Officer) 9th June, 1941; Higher Executive Officer 19th February, 1951.
+
+Terry, Douglas Edgar, M.B.E. (1948); born 15th May, 1899; educated at Gravesend Modern School; Boy Clerk, G.P.O., 2nd November, 1914, Assistant Clerk from 2nd May, 1917; served with R.E. (Wireless
+Section) June 1917 to April 1920; Assistant Clerk (later re-graded Clerical Officer), India Office, 1st June, 1920, Higher Clerical Officer, 29th April, 1935, Staff Officer (later re-graded Higher Executive Officer) 9th August, 1943, Senior Executive Officer 31st January, 1949.
+
+THOMPSON, Averil Fuller; born 21st April, 1907; educated at Queenswood School, Hatfield, 1920-24 and Lady Margaret Hall, Oxford, 1925-29; B.A. (2nd Class, Honours School of Lit. Hum.); University College, London, 1929-30; Diploma in Librarianship (Director's Prize); appointed Assistant, Higher Grade, India Office Library, 30th August, 1937; on loan to Ministry of Aircraft Production June 1940 to February 1943; Burma Office February 1943; Acting Assistant Principal, India Office, May 1943 to April 1946; Assistant Keeper, 1st Class, India Office Library, 22nd August, 1949.
+
+THOMSON, James, C.M.G. (1953), O.B.E. (1943), M.M. (1917) and Bar (1918); born 1st April, 1895; studied arts and political economy at Edinburgh University 1920-25 and International Law at London University 1931-36; 2nd Division Clerk Home Office 13th November, 1913; transferred to General Post Office 3rd May, 1914; enlisted in R.F.A. 14th June, 1915; served in France 1916-18 with 2nd and 4th Canadian Divisions; seconded to Royal Flying Corps as Artillery Observer November 1917; Military Medal October 1917 and Bar April 1918; Invalided home April 1918; Sergeant; demobilized January 1919; transferred to India Office 16th August, 1927; Higher Executive Officer 18th March, 1935; Information Officer October 1936 to December 1937; Principal 1st February, 1940; visited India and Burma September to November 1945; Assistant Secretary 2nd March, 1948; Officer of the Order of Orange Nassau April 1948; Deputy United Kingdom High Commissioner in Canada January, 1951.
+
+TIMS, Basil Duncan, O.B.E. (1953), M.B.E. (1943); born 2nd August, 1898; educated Sutton County School; served R.N.A.S. and R.N. Armoured Cars October 1916 to April 1919; Temporary Clerk Passport Office 24th April, 1919, to 18th September, 1921; Clerical Officer India Office 19th September, 1921; on deputation to India with Royal Commission on Agriculture in India 1927-28; Higher Clerical Officer 1st April, 1930; Staff Officer 17th December, 1937; Administrative Officer for Currency duties 1st July, 1943; Assistant Government Director of Indian Railway Companies 1943-44; Principal 10th February, 1944.
+
+TORY, Geofroy William; born 31st July, 1912; educated King Edward VII School, Sheffield, and Queen's College Cambridge, 1931-35; Mediæval and Modern Languages Tripos (French and German) Part I Class I, Part II Class I; B.A. 1934; Assistant Principal Dominions Office 25th October, 1935; Private Secretary to Permanent Under-Secretary of State 24th November, 1938, to August 1939; commissioned in Royal Artillery, Territorial Army, 1936; embodied August 1939; Major; released 24th May, 1943; Principal (in absentia) 23rd May, 1940; Principal Private Secretary to Secretary of State 7th August, 1945, to August 1946; Senior Secretary in Office of United Kingdom High Commissioner in Canada September 1946; Assistant Secretary (notional) 2nd September, 1946; Assistant Secretary in the Office of the United Kingdom Representative to the Republic of Ireland October 1949 to 25th July, 1950; Counsellor in United Kingdom Embassy, Dublin, 26th July, 1950, to December 1951; Imperial Defence College January to 28th December, 1952; Deputy United Kingdom High Commissioner in Pakistan (Peshawar) March 1953.
+
+TRACY, Ralph George, M.B.E. (1953); born 29th April, 1912; educated at Brockley Secondary School 1923-29; London Matriculation 1928; Clerical Officer, India Office, 6th August, 1929, Executive Officer 24th May, 1938, Higher Executive Officer 29th October, 1942; served in Royal Signals 1942-45; Office of United Kingdom High Commissioner in Canada July 1950, Colombo (with local rank of Senior Executive Officer) December 1952; Senior Executive Officer 18th, May, 1953.
+
+TURNER, Harold James; born 18th May, 1920; educated at St. Benedict's School, Ealing, 1928-36; London Matriculation; Clerical Officer, Dominions Office, 21st June, 1937; joined R.A.F. June 1941; L.A.C. Flight Mechanic (A), released October 1946; Higher Clerical Officer (later assimilated to Executive Officer) 10th February, 1947; attached to Secretariat of Commonwealth Conference, Canberra, August to September 1947; Chief Clerk, Office of United Kingdom High Commissioner, Ceylon, January 1948 to May 1950; Temporary Higher Executive Officer 1st September, 1951, Substantive 2nd July, 1952; Office of the United Kingdom High Commissioner, New Delhi, January 1953.
+
+TWIST, Henry Aloysius, O.B.E. (Mil.); born 18th June, 1914; educated at Preston Catholic College 1924-32 and Liverpool University 1932-36; B.A. Hons. Classics (Class II (I)); Diploma in Education (with distinction) 1936; Senior Classics Master, Careers Master and House Master, St. Chad's College, Wolverhampton, 1936-40; Lecturer in English, South Staffordshire High School of Commerce, 1937-40; enlisted in ranks of R.A.S.C. 3rd October, 1940; Commissioned in R.A.S.C. 17th January, 1941; H.Q. East Africa Command June 1945 to June 1946; released from Army service with rank of Lt.-Colonel 30th August, 1946; Temporary Principal Dominions Office 13th September, 1946; established Principal 23rd November, 1946; Office of the United Kingdom High Commissioner in Ceylon 21st January, 1948; Office of the United Kingdom High Commissioner in Australia 8th April, 1949, to 6th July, 1952.
+VINES, Eric Victor; born 28th May, 1929; educated at St. Dunstan's College, Catford, 1939-1947, and St. Catharine's College, Cambridge, 1949-1952; B.A. (Hons.) History 1952, Pt. I Class 2(1), Pt. II Class 1; National Service (R.A.O.C.) 1947-1949; Assistant Principal, Commonwealth Relations Office, 13th October, 1952.
+
+WAKELY, Leonard John Dean, O.B.E. (1945); born 18th June, 1909; educated at Westminster School 1923-28, Christ Church, Oxford (Scholar), 1928-32 and School of Oriental Studies, London, 1932-33; 1st Class Honours Modern History 1931; M.A.; India Civil Service 1932-47; served in the Punjab and in the Defence, Defence Co-ordination and Legislative Departments of the Government of India; Principal Commonwealth Relations Office 5th August, 1947; Office of the United Kingdom High Commissioner in the Union of South Africa 27th April, 1950, to 2nd November, 1952.
+
+WALKER, Charles Michael; born 22nd November, 1916; educated at Charterhouse 1930-35 and New College, Oxford, 1935-39, Modern Greats 2nd Class; B.A.; Clerk of House of Lords 5th June, 1939; enlisted in the Army October 1939; commissioned in R.A. March 1940; served in India and Iraq March 1940 to December 1943; delegate representing G.H.Q. India and H.Q. S.E.A.C. at Intelligence Conference, Washington, January 1944; British Army Staff, Washington, April 1944 to December 1945; released March 1946 with rank of Lt.-Colonel; Principal 5th June, 1946; transferred to Dominions Office 1st March, 1947; seconded to the Foreign Service as a First Secretary in Embassy, Washington, 8th January, 1949, to May 1951; Assistant Secretary, Calcutta, 28th February, 1952.
+
+WALKER, Peter Frederick; born 21st March, 1923; educated at City of London School, E.C.4, September 1933 to July 1939; served in R.A.F. March 1942 to January 1947; Executive Office, India Office, 24th March, 1947; Higher Executive Officer 2nd July, 1952; Office of United Kingdom High Commissioner, Bombay, 4th December, 1952.
+
+WALKER, Robert; born 1st May, 1924; educated Sowerby Bridge Secondary School 1935 to 1942, Peterhouse, Cambridge, 1942-43 and 1946-48; History Tripos Parts I and II Class 2, Division 1; R.N.V.R. ordinary seaman June 1943; commissioned April 1944; Sub-Lieutenant; released September 1946; Assistant Principal Commonwealth Relations Office 1st November, 1948; Principal (temporary) 1st December, 1952; Office of the United Kingdom High Commissioner in Pakistan (Karachi) 30th June, 1949, to August 1951.
+
+WALL, Robert Duncan, Lieut.-Commander R.N., Master Mariner; born 18th March, 1912; Cadet, Merchant Navy, 1928-32; commissioned Sub-Lieutenant R.N.R. 1933; Lieutenant R.N. 1936, Lieut.-Commander 1944; Fleet Air Arm 1939-42; served in Arctic, North Atlantic, Mediterranean and West Indies 1939-45; invalided and placed on retired list 1945; Dominions Office (Secretary to U.K. Information Office, Ottawa) 20th November, 1945; Information Officer, Office of U.K. High Commissioner in Ceylon, 22nd March, 1949; established Information Officer with seniority from 1st August, 1949 (Temporary Senior Information Officer to 27th April, 1952, and from 10th October, 1952); Information Officer, Karachi, 28th April, 1952; Regional Information Officer, Lahore, 10th November, 1952, Peshawar, 1953.
+
+WALSH ATKINS, Leonard Brian; born 15th March, 1915; educated Charterhouse 1928 to July 1934, Hertford College, Oxford, October 1934 to June 1937; B.A. Lit. Hum. Class II; Assistant Principal India Office 11th October, 1937; Fleet Air Arm 18th November, 1940; Commissioned October 1941; served in North African assault November 1942 and in North Atlantic December 1943 to May 1945; Lieut.-Commander (A) R.N.V.R.; mentioned in despatches December 1945; released 22nd July, 1945; Principal (in absentia) 1st November, 1941; on deputation to Burma 1946; on deputation to India 1948; Assistant Secretary 1st March, 1949.
+
+WALWYN, Fanny, M.B.E. (1953); born 17th May, 1906; educated at Heywood (Lancs.) Grammar School 1916-23; Northern University Matriculation 1922, and Higher School Certificate 1923; S.C. and T., Haywood Post Office, 10th September, 1923; Clerical Officer, Money-Order Department, 13th January, 1929; India Office 3rd April, 1933; Executive Officer 10th November, 1941, Higher Executive Officer 31st October, 1949.
+
+WARD, Janet Mary Drummond; born 5th March, 1930; educated at St. Christopher's, Letchworth, and the English School, Cairo, 1944-48, and Somerville College, Oxford, 1948-51; B.A. (Honours) School of Modern Languages (French and German); Assistant Principal 16th July, 1951.
+
+WATFORD, Mrs. Irene Pauline; born 31st March, 1911; educated at St. Martin's High School, London; telephonist, London Telephone Service, 13th November, 1928; Clerical Officer, India Office, 30th May, 1938; Executive Officer 5th May, 1943, Office of United Kingdom High Commissioner in India (New Delhi) December 1948 to February 1951; Higher Executive Officer 28th May, 1951.
+
+WHITEHEAD, George Sydney; born 15th November, 1915; educated at Boys County School, Harrow, 1927-34 and at London School of Economics 1934-37 (exhibitioner); Executive Officer India Office 12th December, 1934; B.Sc. (Econ.) 1937; called up and posted to R.A. (H.A.A.) June 1940; commissioned in R.A. July 1943; service in Gold Coast December 1943 to August 1945 (Adjutant School of Artillery, West Africa); released with rank of
+Captain September 1945; Higher Executive Officer (in absentia) July 1940; Private Secretary to Parliamentary Under-Secretary of State December 1945 to December 1946; Principal Burma Office December 1946; Office of United Kingdom High Commissioner Rangoon, Burma, October 1947 to January 1948; seconded to Foreign Office (British Embassy, Rangoon) January to April 1948; Office of the United Kingdom High Commissioner in Australia 1st May, 1952.
+
+WICKSON, Dalby Walter Harry, M.B.E. (1951); born 3rd July, 1906; educated at Bedford Modern School 1918-24; S.C. and T., G.P.O., July 1924; Clerical Officer, Colonial Office, 12th May, 1930, Higher Clerical Officer 6th July, 1940; served in R.A.S.C. 1942-46; Sergeant; attached to War Office for duty with Malayan Planning Staff August 1944; released March 1946; Staff Officer (later Higher Executive Officer), Dominions Office, 19th February, 1947; Passport Officer, Cape Town, 8th December, 1949 to May 1953; Senior Executive Officer 18th May, 1953.
+
+WIMBLE, Reginald Herbert; born 18th August, 1924; educated at Tonbridge School, September 1938 to April 1943, and St. John's College, Oxford, October 1946 to July 1950 (Sir Thomas White's Scholarship); B.A. 1st Class Hons. in Mathematics June 1949; Research on Algebraic Geometry June 1949 to June 1950; Short University Course in Engineering April to October 1943; Royal Engineers, October 1943; Commissioned (2nd Lieut.) April 1945; posted to Royal Bombay Sappers and Miners May 1945; Lieutenant October 1945; released under Class B August 1946; Assistant Principal Commonwealth Relations Office 20th November, 1950; Office of the United Kingdom High Commissioner in the Union of South Africa 27th March, 1952.
+
+WRIGHT, Charles Henry, M.B.E. (1950); born 1st May, 1897; served in Royal Engineers November 1915 to March 1920; Sergeant; temporary clerk, R.E. Records, Chatham, 1920-21; Clerk in Office of Chief of Police, Ireland, 1921-22; Clerical Officer, India Office, 27th March, 1922, Executive Officer 19th August, 1940; Editor I.O. List 11th October, 1944, to 10th May, 1948; Higher Executive Officer (temporary) 5th February, 1951, substantive 2nd July, 1952.
+STATEMENT OF SERVICES OF SENIOR MEMBERS OF THE STAFFS OF THE ADMINISTRATIONS OF BASUTOLAND, THE BECHUANALAND PROTECTORATE AND SWAZILAND
+
+A
+
+ALLEN, Edward Cunnington, O.B.E.; born 1902; educated Bradford Commercial School and School of Accountancy; Clerk, Secretariat, and Reporter, Legislative Council, Nyasaland, 1925; Assistant Treasurer, Tanganyika, 1930; Senior Assistant Treasurer, 1940; sec. as Treasurer, Chief of Customs, British Somaliland, 1940; Financial Secretary and Collector of Income Tax, Basutoland, 1945.
+
+ARMSTRONG, Robert, O.B.E. (1953); born 1906; Clerk, Swaziland, 1925; Assistant District Commissioner 1931; District Commissioner 1936; First Assistant Secretary, 1951.
+
+ARROWSMITH, Edwin Porter, C.M.G. (1950), B.A. (Oxon.); born 1909; educated at Cheltenham College, and Trinity College, Oxford; Assistant District Commissioner, Bechuanaland Protectorate, 1933, resigned 1938; Commissioner, Turks and Caicos Islands 1940; Administrator, Dominica, 1946; Resident Commissioner, Basutoland, 1951.
+
+B
+
+BARNARD, William George, O.B.E. (1951), B.V.Sc.; born 1907; Union of South Africa 1932; Principal Veterinary Officer, Swaziland, 1939; on active service 1940-43.
+
+BELDERSON, John Henry, O.B.E. (1953), B.Ec. (S. Africa); born 1903; Colonial Audit Service; Senior Assistant Auditor, Northern Rhodesia; Principal Auditor, High Commission Territories, 1947.
+
+BOSMAN, Ferdinand Hugo, O.B.E. (1953), B.Sc. Agric. (S.A.), M.Sc. Agric. (U.S.A.); born 1898; educated Grey University College, South Africa, Pretoria University College, University of Illinois, U.S.A., Kansas Agricultural College; Field Husbandry Officer, Union of South Africa, 1924; Director of Agriculture, Bechuanaland Protectorate, 1945.
+
+BOWMAKER, Philip Alan, B.Sc. (Lond.), Dip. Agric.; born 1904; educated County School, Purley, and Christ's College, Cambridge; Imperial College of Tropical Agriculture, Trinidad; Empire Cotton Growing Corporation Experiment Station, Natal, 1927; military service, S.A. Artillery and Tank Regt. 1940-43; Agricultural Officer, Swaziland, 1945; Principal Agricultural Officer, Basutoland, 1946.
+
+BUTLER, Ernest Cecil, I.S.O. (1950); born 1900; military service S.A.S.C., M.T.C. 1917-19; Clerk, Basutoland, 1920; sub-inspector B.M.P. 1927; Assistant District Commissioner 1937; District Officer, Basutoland, 1938; Administrative Officer (Staff Grade) 1952.
+
+C
+
+CALLANAN, John Charles Joseph, O.B.E., B.A., M.D., B.Ch., B.A.O. (Dublin), L.M. (Rotunda) Cert. L.S.T.M. & H.; born 1897; Kenya 1921; Director of Medical Services, Swaziland, 1946.
+
+CLARKE, Lt.-Col. Leslie William; born 1908; Trooper Swaziland Police, 1930; Assistant Superintendent Basutoland Mounted Police 1935; Assistant Superintendent Sierra Leone Police 1941; Labour Officer 1941; Superintendent of Police, Basutoland, 1945, Deputy Commissioner 1948, Commissioner 1949; Commissioner of Police, Swaziland, 1952.
+
+CREED-NEWTON, David Harold, M.B.E., B.Sc. (Hons.) Sheffield, Ed. Diploma (Sheffield); born 1909; served in Kenya 1936-49; military service, K.A.R., 1939-41; Senior Education Officer, Basutoland, 1949; Director of Education, 1952.
+
+D
+
+DAVIES, Hugh Vaughan, A.M.Inst.C.E., A.M. Inst. M. & Cy. E., M.R.San.I.; born 1910; educated St. Andrew's School, Bloemfontein; Executive Engineer, P.W.D. Bechuanaland Protectorate, 1946; Water Engineer 1948; Acting Director of Public Works, 1949; Director, 1950.
+
+DEAL, William Janvrin, A.M.Inst.C.E., A.M. I.Mun.E.; born 1914; Executive Engineer, Kenya, 1937-50; Government Engineer, Basutoland, 1950.
+
+E
+
+ELLIOT, Herbert John Drummond, O.B.E.; born 1903; Clerk Grade II, Basutoland, 1925; Agriculture Sub-Inspector, Basutoland M.P. 1928; Assistant District Commissioner 1937; Basutoland Government Representative, Johannesburg, 1938; District Officer 1941; Administrative Officer (Staff Grade) 1952.
+
+F
+
+FITZPATRICK, Herbert Daniel Gowran, M.B.E.; born 1909; Swaziland, 1928; Assistant District Commissioner, 1937; District Officer, 1944; seconded to Palestine, 1947; District Office, Rural Development, Swaziland, 1948.
+
+FREEDMAN, Manual Lazarus, O.B.E. (1952), M.B., Ch.B. (Cape); born 1912; educated Normal College, Cape Town, Montague High School, Cape, Cape Town University; relieving Medical Officer, Bechuanaland Protectorate, 1935; Medical Officer 1936; Ag. Director of Medical Services 1947; D.M.S. 1949.
+
+G
+
+GARDINER, James, M.A. (Hons.) (St. Andrew's), H.E.D. (Rhodes); born 1907; Education Officer, Bechuanaland Protectorate, 1947; Principal Education Officer 1951; Director of Education 1952.
+
+GERMOND, Jean Daniel Arnauld, C.B.E. (1952); born 1904; Bechuanaland Protectorate 1925; Military Service 1941-46; Assistant District Officer 1937; District Officer 1947; Administrative Officer Grade I, British Solomon Islands Protectorate,
+1947-50; District Officer, Bechuanaland Protectorate, 1950; Administrative Officer, Staff Grade, 1951.
+
+H
+
+HUTCHINSON, Humphrey, B.Sc. (Chem.) (1st Class Hons.); born 1904; educated Durham University; Assistant Manager, Cotton Seed Farm, North Nigeria, 1928; Cotton Experimental Station, Barberton, 1931; relief in charge Experimental Station, Swaziland and Zululand, 1932; Cotton Insect Pest Survey Section, Swaziland, 1933; contract officer, Colonial Development and Food Production Schemes, 1944; Agricultural Experimental Officer 1945; Agricultural Officer 1948; Principal Agricultural Officer 1950.
+
+J
+
+JACOBSON, Reuben, M.B., Ch.B. (W. W. Rand); born 1907; educated King Edward VII School Johannesburg, and Witwatersrand University; temporary Medical Officer, Basutoland, 1935; Medical Officer 1936; acting Director of Medical Services 1951, Director 1952.
+
+K
+
+KING, John George Maydon, O.B.E. (1953); born 1908; educated Oundle; District Agricultural Officer, Tanganyika, 1932, Ag. Senior Agricultural Officer 1945; seconded as lecturer in Colonial Agriculture to Colonial Service Course, Cambridge University, 1946; Director of Livestock and Agricultural Services, Basutoland, 1948.
+
+KITSON, Major Paul Hengrave; born 1911; Basutoland Mounted Police 1937-42; Mauritius Police 1942-48; Gold Coast Police 1948-49, Deputy Commissioner of Police, Basutoland, 1950. Colonial Police Medal 1948.
+
+L
+
+LANGLEY, Lt.-Col. Morley Robert Dalrymple, O.B.E., M.V.O.; born 1913; Swaziland 1933; Police Officer (cadet), Bechuanaland Protectorate, 1935; Superintendent of Police 1943, Deputy Commissioner of Police and Chief Immigration Officer 1947, Commissioner of Police and C.I.O. 1949.
+
+LATIMER, Courtenay, Robert, O.B.E., B.A. (Oxon.); born 1911; I.C.S. 1935-47; Assistant District Officer, Swaziland, seconded to High Commissioner's Office as Assistant Secretary, 1949; First Assistant Secretary, Bechuanaland Protectorate, 1951.
+
+LAWRENSON, Sydney Vernon, O.B.E. (1953); born 1907; educated St. Andrew's College, Bloemfontein; Union Civil Service Lower Law exam. Parts I and II; Intermediate Setswana exam.; Assistant District Commissioner, Bechuanaland Protectorate, 1933; District Officer 1942; Administrative Officer (Staff Grade) 1952.
+
+M
+
+MACKENZIE, William Forbes, C.B.E.; born 1907; educated Plumtree School, Southern Rhodesia; Merchiston Castle School, Edinburgh, and Caius College, Cambridge; Clerk, Native Affairs Department, Southern Rhodesia, 1927; Assistant District Officer, Bechuanaland Protectorate, 1936, District Officer 1941; Deputy Resident Commissioner and Government Secretary, Swaziland, 1949, Bechuanaland Protectorate 1950, Resident Commissioner, 1953.
+
+MARWICK, Brian Allan, O.B.E., M.A. (South Africa); born 1908; Swaziland 1925; Nigeria 1937; District Officer, Swaziland, 1941; First Assistant Secretary, 1947; First Assistant Secretary, Basutoland, 1949, Deputy Resident Commissioner and Government Secretary, 1952.
+
+MILLARD, John Forster, M.B.E., F.R.G.S.; born 1911; District Officer, Basutoland, 1934; Administrative Officer (Cadet), Tanganyika, 1937; Assistant District Officer 1938; military service 1940-45; District Officer 1948; seconded to Colonial Office 1945-47; Administrative Officer, Staff Grade, Bechuanaland Protectorate, 1952.
+
+MORGAN, David Loftus, C.M.G., M.B.E., B.A. (Cantab.); born 1904; educated at Harrow, and Trinity College, Cambridge; Cadet, Kenya, 1926, District Officer 1928, Deputy Provincial Commissioner 1945, Provincial Commissioner 1947; Resident Commissioner, Swaziland, 1951.
+
+MURRAY, Robert Everitt King; born 1902; Clerk Grade II, Basutoland, 1924; Sub-Inspector Basutoland M.P. 1930; Assistant District Commissioner 1937; District Commissioner 1939.
+
+N
+
+NELSON, Calvin John, born 1900; Bechuanaland Protectorate 1925; Assistant Treasurer 1950.
+
+O
+
+O'FARRELL, George Henry; born 1917; educated Brakpan, Boksburg and Mbabane; Swaziland 1937; Active Service 1940-44; Grade II Clerk 1944, Grade I Clerk 1945; Assistant Treasurer 1950.
+
+OWENS, Major Donald Roslyn; born 1906; Bechuanaland Protectorate 1929; Superintendent of Police 1945, Deputy Commissioner of Police 1949; Commissioner of Police, Basutoland 1952.
+
+P
+
+PEACHEY, Charles Lewis Francis; born 1903; educated Piet Retief and Zeerust, Michael House, Balgowan, Natal, Agricultural College Potchefstroom 1923 to 1924; Union Government Service 1930-37; Senior Agricultural Officer, Basutoland, 1937-45; Agricultural Officer, Swaziland, 1945; Acting Chief Native Land Settlement Officer 1951, Substantive 1952.
+
+PRITCHER, William Edmund Colborne; born 1918; educated Estcourt High School, Natal University College and Pretoria University (B.A.); Active Service 1940-45; Inspector of Schools, Swaziland, 1945; Education Officer 1949; Principal Education Officer 1950.
+
+PREVIOUS, Major Lindsay Paton; born 1908; educated St. Mark's School, Mbabane, Swaziland, and Carolina High School, Transvaal; Trooper, Swaziland Police, 1928, L/Cpl. 1934, Sgt. 1937, Asst. Supt. 1938, Supt. 1944, Dep. Commissioner 1952.
+PRYER, John Hawkes, F.C.S.S.; born 1894; Gold Coast Railways 1920-42; British Ministry of Transport 1942-49; Basutoland 1949; Controller of Stores, Bechuanaland Protectorate, 1950.
+
+PURCELL, John Francis Browlee, M.B.E.; born 1910; Clerk, Swaziland, 1929; Assistant District Officer, 1937, District Officer 1948.
+
+Q
+
+QUIGLEY, James Thomas Darlington; born 1903; Assistant Accountant, Bechuanaland Protectorate, 1930-48; seconded to Swaziland; Acting Financial Secretary 1949; Treasurer, Swaziland, 1950.
+
+R
+
+ROE, John Edward Riley, M.R.C.V.S.; born 1914; educated at Haileybury and Royal Veterinary College, London; Veterinary Officer, Uganda, 1938; military service, Nigeria Regiment, 1939-44; Director of Veterinary Services, Bechuanaland Protectorate, 1951.
+
+RUTLEDGE, George Anthony Ley, B.A. (Oxon.); born 1913; Tanganyika 1935-49; military service 1940-42; Accountant, Basutoland, 1949; Treasurer, Bechuanaland Protectorate, 1950.
+
+S
+
+SHEARER, Harold Maxwell Lefroy, M.A. (Edin.); born 1915; Assistant District Officer, Basutoland, 1937; Registrar of Co-operative Societies, 1949; First Assistant Secretary, 1953.
+
+SILBURN, Denis George Frederick; born 1911; educated Marest Bros College, South Africa; Clerk Grade II, Swaziland, 1931; District Officer 1937.
+
+STEBBING, John Reynolds, O.B.E. (1952); born 1910; educated Christ's Hospital; R.A.F. 1928-33, 1940-45; administrative Cadet, Nigeria, 1935, Assistant District Officer 1938; District Officer, Swaziland, 1946; First Assistant Secretary 1949; Deputy Resident Commissioner and Government Secretary 1951.
+
+T
+
+THOMPSON, Arthur Clement, Q.C., M.C., B.A. (Cantab.), LL.B. (S.A.); born 1896; educated Johannesburg College, and Trinity Hall, Cambridge; Active service, Middlesex Regiment, 1914-18; admitted to Johannesburg Bar 1922; Attorney-General, S.A.H.C. Territories, 1947.
+
+TURNBULL, Roland Evelyn, C.M.G.; born 1905; educated King's College, London, and St. John's College, Oxford; Malayan Civil Service, 1929; British Resident, Brunei, 1934; seconded to Colonial Office, 1937; Controller of Foreign Exchange, Malaya, 1939; Colonial Secretary, British Honduras, 1940; Temp. Colonel (C.A.), War Office, 1943-45; Colonial Secretary, Cyprus, 1945-50; Chief Secretary to High Commissioner for Basutoland, the Bechuanaland Protectorate and Swaziland, 1950.
+
+W
+
+WALTERS, Arthur Willoughby, O.B.E.; born 1900; entered Swaziland Service 1919, transferred to Basutoland 1928; Accountant 1934; Financial Secretary, Bechuanaland Protectorate, 1940; Assistant Chief Secretary (Finance) to High Commissioner 1950.
+
+WAY, Henry James Reginald, Ph.D., M.Sc. (Lond.), A.R.S.M. (Lond.), M.I.M.M. (Lond.), M.A., I.M.E. (New York), F.C.S. (Lond.), M.Min.S. (Lond.), M.G.S. (S.A.); born 1910; Geological Survey, Uganda, 1934; Swaziland 1942; Director of Geological Survey 1944.
+
+WILLAN, Sir Harold Curwen, Kt. Bach. (1947), C.M.G. (1946), M.C. (1919); born 1896; educated Kendal School and Jesus College, Oxford, B.A. (Oxon.) (1st class hons. and cert. of hon. bar final), barrister-at-law Inner Temple; military service 1915-19 and 1941-45, brigadier; cadet, F.M.S., 1920; deputy registrar, Superior Court, F.M.S. 1926; deputy public prosecutor 1929; district judge, S.S., 1932; deputy legal adviser, F.M.S., 1934; Solicitor-general, Kenya, 1937; attorney-general, Kenya, 1940; legal adviser, civil affairs, E.A. command and acted as chief political officer, 1941; deputy civil affairs officer, Malaya, 1945; chief justice, Malaya, 1946; Chief Justice, Basutoland, the Bechuanaland Protectorate and Swaziland, 1952; Chairman, Labour Commission of Enquiry, Kenya, 1939; President, High Court of Ethiopia, 1942-43; President, Food Shortage Commission of Enquiry, Kenya, 1943; author of law reports digest of reported cases, F.M.S.
+
+WOOD, Richard Worsley, M.A. (Cantab.); born 1918; educated Eastbourne College, and Trinity Hall, Cambridge; Assistant Engineer, Swaziland, 1947, Government Engineer 1949.
+
+WRAY, Martin Osterfield; born 1912; educated St. George's School, Harpenden, and Wadham College, Oxford, Administrative Officer, Uganda, 1935; Administrative Secretary, Zanzibar, 1949; Assistant Chief Secretary, S.A.H.C. Territories, 1952.
+## INDEX
+
+### A
+
+Advice to the Crown, by Commonwealth Ministers ........................................... 64  
+African Society, Royal ......................................................................................... 43  
+Agricultural Bureaux, Commonwealth .............................................................. 29  
+— Parasitology (Helminthology), Commonwealth Bureau of— ......................... 30  
+Aitutaki Island ..................................................................................................... 124  
+Ajmer .................................................................................................................... 156  
+Albatross Island .................................................................................................. 136  
+Alberta .................................................................................................................. 100  
+—, Agent-General in London ............................................................................. 19  
+Amb ..................................................................................................................... 162  
+Andaman Islands .................................................................................................. 157  
+Animal Breeding and Genetics, Commonwealth Bureau of— ......................... 30  
+—, Health, Commonwealth Bureau of— ............................................................ 30  
+— Nutrition, Commonwealth Bureau of— .......................................................... 30  
+Antarctic Territory, Australian ............................................................................. 120  
+Apolima Islands .................................................................................................. 130  
+Appeals to Judicial Committee of Privy Council .............................................. 50, 61, 64  
+Ashmore and Cartier Islands ............................................................................... 120  
+Asian Society, Royal Central .............................................................................. 44  
+Asiatic Society, Royal .......................................................................................... 44  
+Assam .................................................................................................................... 155  
+Atiu Island ............................................................................................................ 128  
+Auckland Islands .................................................................................................. 124  
+Australia, Commonwealth of— ............................................................................ 105  
+—, Constitution Act, 1900 (Commonwealth) .................................................. 52, 105  
+—, Executive Council .......................................................................................... 108  
+—, Federation ....................................................................................................... 51  
+—, Government Departments .............................................................................. 108  
+—, High Commissioner in London .................................................................... 19  
+—, Judiciary .......................................................................................................... 108  
+—, Representatives in Australia of other Commonwealth Countries ............... 110  
+—, —— of Foreign Countries .............................................................................. 110  
+—, —— in other Commonwealth Countries ....................................................... 109  
+—, —— in Foreign Countries .............................................................................. 109  
+—, Statute of Westminster .................................................................................. 63  
+—, U.K. High Commissioner in— ....................................................................... 17  
+
+### B
+
+Bahawalpur ........................................................................................................... 161  
+Baluchistan States Union ....................................................................................... 161  
+Basutoland ............................................................................................................. 172  
+— Administration ................................................................................................. 176  
+— ——: Statement of Services of Staff ................................................................. 244  
+Bechuanaland Protectorate .................................................................................... 177  
+— Administration ................................................................................................. 181  
+— ——: Statement of Services of Staff ................................................................. 244  
+Bharat (India) ....................................................................................................... 150  
+Bhopal ................................................................................................................... 156  
+Bhutan .................................................................................................................. 157  
+Bihar ...................................................................................................................... 155  
+Bilaspur .................................................................................................................. 156  
+Biological Control, Commonwealth Institute of— .............................................. 30  
+Bombay ................................................................................................................ 155  
+British Columbia .................................................................................................... 98  
+— ——, Agent-General in London ....................................................................... 19  
+British Commonwealth Scientific Conference 1952 ............................................ 82  
+— ——, 1936 .......................................................................................................... 74  
+— —— Conference (Official), 1946 ..................................................................... 76  
+— —— Statisticians, Conference, 1935 ................................................................. 73  
+British Council ....................................................................................................... 39  
+British North America Act, 1867 ....................................................................... 50  
+Burma Independence Act, 1947 ....................................................................... 65  
+
+### C
+
+Cable and Wireless Communications Conference, 1928 .................................... 72  
+Canada .................................................................................................................. 87  
+—, Bills: Assent, Disallowance ............................................................................. 51  
+—, Constitution ...................................................................................................... 88  
+—, Government Departments .............................................................................. 91  
+—, High Commissioner in London ..................................................................... 18  
+—, Ministry .......................................................................................................... 90  
+—, Old ................................................................................................................... 93  
+—, Representatives in Canada of Commonwealth Countries ............................. 92  
+—, —— of Foreign Countries ................................................................................. 92  
+—, —— in other Commonwealth Countries ......................................................... 92  
+—, —— in Foreign Countries ................................................................................. 92  
+—, Supreme Court ................................................................................................. 91  
+—, U.K. High Commissioner in— ....................................................................... 16  
+Canberra Conference, 1947 ................................................................................. 77  
+Cape Province ....................................................................................................... 136  
+Cartier Island ......................................................................................................... 120  
+Ceylon .................................................................................................................... 163  
+—, Constitution ...................................................................................................... 163  
+—, Government Departments .............................................................................. 165  
+—, High Commissioner in London ..................................................................... 21  
+—, Ministry .......................................................................................................... 165  
+—, Representatives in Ceylon of Commonwealth Countries ............................... 166  
+—, —— of Foreign Countries ................................................................................. 166  
+—, —— in other Commonwealth Countries ......................................................... 166  
+—, —— in Foreign Countries ................................................................................. 166  
+—, U.K. High Commissioner in— ....................................................................... 18  
+Chatham House (see International Affairs, Royal Institute of— ) ..................... 40  
+Chatham Islands ................................................................................................... 124  
+Chitral .................................................................................................................... 162  
+Colombo Conference, 1950 ................................................................................. 78
+| Colonial Laws Validity Act, 1865 | 59 |
+| Colonial Conference, 1887 | 67 |
+| —— Ottawa, 1894 | 67 |
+| —— 1897 | 67 |
+| —— 1902 | 67 |
+| —— 1907 | 67 |
+| Commercial Treaties: Position of Dominions | 55 |
+| Commonwealth Air Transport Council | 31 |
+| —— Conferences, Development of | 67 |
+| —— Consultative Committee | 79 |
+| —— Economic Committee | 27 |
+| —— Parliamentary Association | 23 |
+| —— Relations Office, Organization and staff | 13 |
+| —— ——, Regulations (Oversea Service) | 195 |
+| —— ——, Statements of Services of Staff | 215 |
+| Commonwealth Representatives in London | 18 |
+| Commonwealth Shipping Committee | 26 |
+| —— Speakers’ Meeting, Jan. 1950 | 80 |
+| —— Telecommunications Board | 32 |
+| —— Conference, 1945 | 75 |
+| —— Telegraph Conference, 1942 | 75 |
+| —— The, | 7 |
+| Conference of Prime Ministers, 1921 | 70 |
+| Conferences, Imperial and Commonwealth, Development of— | 67 |
+| Conferences, Imperial (see under Imperial) | |
+| Constitutions, Powers of Amendment | 56 |
+| Cook Islands | 128 |
+| Coorg | 157 |
+| Copyright Conference, 1910 | 68 |
+| Curtis Island | 124 |
+
+**D**
+
+| Dairy Science, Commonwealth Bureau of— | 30 |
+| Damaraland | 136 |
+| Defence Conference, 1909 | 68 |
+| —— Ministers’ Meeting, June 1951 | 81 |
+| Delhi | 157 |
+| Diplomatic and Consular Representation | 61 |
+| Dir | 162 |
+| Disallowance of Dominion Legislation | 50, 58, 63 |
+| Dominion Legislation and Merchant Shipping Legislation, Conference on Operation of—, 1929 | 72 |
+| Dominion Ministers, Meeting in London, 1939 | 75 |
+| Dominion Fellowship Trust | 37 |
+| Durham, Lord: Report, 1839 | 49 |
+
+**E**
+
+| East Bengal | 160 |
+| East India Association | 44 |
+
+**F**
+
+| Federation: Australia | 47 |
+| —— Canada | 50 |
+| —— South Africa | 53 |
+| —— India | 146 |
+| Finance Ministers, Commonwealth, Meeting of—, 1949 | 78 |
+| Foreign Policy: Consultation with Dominions | 57 |
+| Forestry Association, Empire | 34 |
+| —— Bureau, Commonwealth | 30 |
+| —— Conference, British Commonwealth | 34 |
+| —— Institute, Imperial | 32 |
+| —— Standing Committee on British Commonwealth | 34 |
+
+**G**
+
+| Governors-General, Position of | 63 |
+
+**H**
+
+| Halifax Island | 136 |
+| Heard Island | 121 |
+| Hervey Islands | 124 |
+| High Commissioners, Commonwealth, in London | 18 |
+| ——, United Kingdom, in other Commonwealth Countries | 16 |
+| Himachal Pradesh | 157 |
+| Hollam’s Bird Island | 136 |
+| Horticultural and Plantation Crops, Commonwealth Bureau of— | 31 |
+| Hyderabad | 156 |
+
+**I**
+
+| Ichaboe Island | 136 |
+| Imperial Conferences, Development of— | 67 |
+| ——, 1911 | 68 |
+| ——, (War), 1917 | 69 |
+| ——, (War), 1918 | 69 |
+| ——, 1923 | 70 |
+| ——, (Economic), 1923 | 70 |
+| ——, 1926 | 71 |
+| ——, 1930 | 72 |
+| ——, (Economic), 1932 | 73 |
+| Imperial Conferences, 1937 | 74 |
+| --- | --- |
+| --- Agricultural Bureaux Conference, 1946 | 76 |
+| --- Research Conference, 1928 | 71 |
+| Imperial Customs Conference, 1921 | 70 |
+| --- Education | 71 |
+| --- Entomological | 70 |
+| --- | 1925 |
+| --- Forestry | 70 |
+| --- Mycological | 71 |
+| --- Statistical | 70 |
+| Imperial Institute | 32 |
+| India | 66, 149 |
+| --- Constitutional Development | 149 |
+| --- Federation | 146 |
+| --- Government Departments | 153 |
+| --- High Commissioner in London | 20 |
+| --- Independence Bill | 148 |
+| --- Ministry | 152 |
+| --- Representatives in India of other Commonwealth Countries | 154 |
+| --- of Foreign Countries | 154 |
+| --- in other Commonwealth Countries | 153 |
+| --- in Foreign Countries | 153 |
+| --- Supreme Court | 153 |
+| --- Undivided | 144 |
+| --- U.K. High Commissioner in | 17 |
+| India, Pakistan and Ceylon Society, Royal | 45 |
+| India Joint Committee | 45 |
+| India, Pakistan and Burma Association | 45 |
+| International Affairs, Royal Institute of— | 40 |
+| Ireland Act, 1949 | 66 |
+| --- Republic of— | |
+| --- Ambassador in London | 22 |
+| --- U.K. Ambassador in— | 18 |
+| Irish Free State (Eire): Changes in Constitution | 64 |
+
+**J**
+
+| Jammu | 157, 162 |
+| Joint Committee on India | 45 |
+| --- Empire Societies’ Conference | 35 |
+| Judicial Committee of the Privy Council: Appeals to— | 50, 61, 64 |
+
+**K**
+
+| Kalat | 161 |
+| Kangaroo Island | 113 |
+| Kashmir | 157, 162 |
+| Kermadec Islands | 124 |
+| Khairpur | 162 |
+| Kharan | 161 |
+| Kutch | 157 |
+
+**L**
+
+| Laccadive Islands | 149 |
+| Las Bela | 161 |
+| L’Esperance Island | 124 |
+
+| London House | 38 |
+| Long Island | 136 |
+| Lord Howe Island | 112 |
+
+**M**
+
+| Macaulay Island | 124 |
+| Macdonald Island | 121 |
+| Madhya Bharat | 156 |
+| Madhya Pradesh | 155 |
+| Madras | 155 |
+| Maldive Islands | 191 |
+| Mangaia | 124 |
+| Manihiki Island | 124 |
+| Manipur | 157 |
+| Manitoba | 97 |
+| Manono Island | 130 |
+| Manuae Island | 124 |
+| Marion Island | 143 |
+| Matsya | 149 |
+| Mauké Island | 124 |
+| Mekran | 161 |
+| Merchant Shipping Legislation, Conference on Operation of—, 1929 | 72 |
+| Mercury Island | 136 |
+| Mitiaro Island | 124 |
+| Mona Island | 136 |
+| Mycological Institute, Commonwealth | 30 |
+| Mysore | 156 |
+
+**N**
+
+| Nassau Island | 124 |
+| Natal | 137 |
+| Nationality and Citizenship, British Commonwealth Conference on—, 1947 | 76 |
+| Nauru | 121 |
+| Neutrality | 58, 66 |
+| New Brunswick | 96 |
+| Newfoundland | 100 |
+| New Guinea | 121 |
+| New South Wales | 110 |
+| --- Agent-General in London | 20 |
+| New Zealand | 124 |
+| --- Adoption of Statute of Westminster | 64 |
+| --- Constitution Acts, 1852 and 1857 | 56 |
+| --- Constitution Act, 1947 | 64 |
+| --- Government Departments | 127 |
+| --- High Commissioner in London | 20 |
+| --- Island Territories | 128 |
+| --- Legislative Council Abolition Act, 1950 | 126 |
+| --- Ministry | 126 |
+| --- Representatives in Foreign Countries | 128 |
+| --- Representatives in New Zealand of other Commonwealth Countries | 128 |
+| Page |
+| --- |
+| New Zealand, Representatives in New Zealand of Foreign Countries | 128 |
+| ——, Representatives in other Commonwealth Countries | 128 |
+| ——, Supreme Court | 128 |
+| ——, U.K. High Commissioner in— | 17 |
+| ——, Waitangi Treaty | 125 |
+| Nicobar Islands | 157 |
+| Niue (Savage) Island | 124 |
+| Northern Territory (Australia) | 118 |
+| North-West Frontier Province | 161 |
+| Northwest Territories (Canada) | 104 |
+| Norfolk Island | 122 |
+| Nova Scotia | 96 |
+
+**O**
+
+| Page |
+| --- |
+| Ontario | 93, 94 |
+| ——, Agent-General in London | 19 |
+| Orange Free State | 138 |
+| Orissa | 155 |
+| Oversea Settlement of British Women Society | 42 |
+| Over-Seas League | 37 |
+
+**P**
+
+| Page |
+| --- |
+| Pakistan | 158 |
+| ——, Government Departments | 159 |
+| ——, High Commissioner in London | 21 |
+| ——, Ministry | 159 |
+| ——, Provinces | 160 |
+| ——, Representatives in other Commonwealth Countries | 159 |
+| ——, in Foreign Countries | 160 |
+| ——, in Pakistan of other Commonwealth Countries | 160 |
+| ——, of Foreign Countries | 160 |
+| ——, States | 161 |
+| ——, U.K. High Commissioner in— | 18 |
+| Palmerston Island | 124 |
+| Papua | 119 |
+| Paris Peace Conference, 1919 | 70 |
+| Pastures and Field Crops, Commonwealth Bureau of— | 31 |
+| Patiala | 156 |
+| Penguin Island | 136 |
+| Penrhyn Island | 124 |
+| Pitt Island | 124 |
+| Plant Breeding and Genetics, Commonwealth Bureau of— | 31 |
+| Plum Pudding Island | 136 |
+| Possession Island | 136 |
+| Prime Ministers’ Conference, 1921 | 70 |
+| —— Meeting, 1935 | 74 |
+| ——, 1944 | 75 |
+| ——, 1946 | 76 |
+| ——, 1948 | 77 |
+| ——, 1949 | 78 |
+
+**Q**
+
+| Page |
+| --- |
+| Quebec | 93, 95 |
+| Queensland | 112 |
+| ——, Agent-General in London | 20 |
+
+**R**
+
+| Page |
+| --- |
+| Rakahanga Island | 124 |
+| Rajasthan | 156 |
+| Rarotonga | 124 |
+| Repugnancy, Doctrine of— | 59 |
+| Responsible Government, Institution of—in Commonwealth Countries | 49 |
+| Representation of Dominions at International Conferences | 62 |
+| —— in Foreign Countries | 61 |
+| Representative Government in Commonwealth Countries | 49 |
+| Reservation and Disallowance of Dominion Legislation | 50, 58, 63 |
+| Roast Beef Island | 136 |
+| Ross Dependency | 130 |
+| Royal African Society | 43 |
+| —— Asiatic Society | 44 |
+| —— Central Asian Society | 44 |
+| —— Empire Society | 35 |
+| —— India, Pakistan and Ceylon Society | 45 |
+| —— Institute of International Affairs | 40 |
+| Rupert’s Land | 87 |
+
+**S**
+
+| Page |
+| --- |
+| Samoa (Western) | 130 |
+| Saskatchewan | 99 |
+| ——, Agent-General in London | 19 |
+| Saurashtra | 156 |
+| Savai’i Island | 124 |
+| Scientific Conference, 1952, British Commonwealth | 82 |
+| —— Conference, 1936, British Commonwealth | 74 |
+| —— Conference (Official), 1946, British Commonwealth | 76 |
+| Seal Island | 136 |
+| Settlers’ Association of South Africa, 1920 Memorial— | 43 |
+| Sind | 161 |
+| Social Insurance, Conference on—, 1947 | 77 |
+
+**Prime Ministers’ Meeting, 1951** | 80 |
+| --- |
+| ——, 1952 | 82 |
+| ——, 1953 | 83 |
+| Prince Edward Island (Canada) | 99 |
+| —— Island (Union of South Africa) | 143 |
+| Pukapuka Island | 124 |
+| Punjab | 155 |
+
+**Q**
+
+| Page |
+| --- |
+| Quebec | 93, 95 |
+| Queensland | 112 |
+| ——, Agent-General in London | 20 |
+
+**R**
+
+| Page |
+| --- |
+| Rakahanga Island | 124 |
+| Rajasthan | 156 |
+| Rarotonga | 124 |
+| Repugnancy, Doctrine of— | 59 |
+| Responsible Government, Institution of—in Commonwealth Countries | 49 |
+| Representation of Dominions at International Conferences | 62 |
+| —— in Foreign Countries | 61 |
+| Representative Government in Commonwealth Countries | 49 |
+| Reservation and Disallowance of Dominion Legislation | 50, 58, 63 |
+| Roast Beef Island | 136 |
+| Ross Dependency | 130 |
+| Royal African Society | 43 |
+| —— Asiatic Society | 44 |
+| —— Central Asian Society | 44 |
+| —— Empire Society | 35 |
+| —— India, Pakistan and Ceylon Society | 45 |
+| —— Institute of International Affairs | 40 |
+| Rupert’s Land | 87 |
+
+**S**
+
+| Page |
+| --- |
+| Samoa (Western) | 130 |
+| Saskatchewan | 99 |
+| ——, Agent-General in London | 19 |
+| Saurashtra | 156 |
+| Savai’i Island | 124 |
+| Scientific Conference, 1952, British Commonwealth | 82 |
+| —— Conference, 1936, British Commonwealth | 74 |
+| —— Conference (Official), 1946, British Commonwealth | 76 |
+| Seal Island | 136 |
+| Settlers’ Association of South Africa, 1920 Memorial— | 43 |
+| Sind | 161 |
+| Social Insurance, Conference on—, 1947 | 77 |
+| Page |
+| --- |
+| Soil Science, Commonwealth Bureau of— | 31 |
+| South Australia | 113 |
+| —— ——, Agent-General in London | 20 |
+| South Africa Act, 1909 | 53, 131 |
+| South Africa, Union of— | 131 |
+| —— —— ——, Constitution | 131 |
+| —— —— ——, Executive Council | 133 |
+| —— —— ——, Federation | 53 |
+| —— —— ——, Government Departments | 134 |
+| —— —— ——, High Commissioner in London | 20 |
+| —— —— ——, Representatives in other Commonwealth Countries | 135 |
+| —— —— ——, —— in Foreign Countries | 135 |
+| —— —— ——, —— in the Union of Foreign Countries | 135 |
+| South Africa, Union of—, Representatives in the Union of other Commonwealth Countries | 135 |
+| —— —— ——, U.K. High Commissioner in— | 17 |
+| Southern Rhodesia | 167 |
+| —— ——: Constitution | 168 |
+| —— ——, Government Departments | 169 |
+| —— ——, High Commissioner in London | 21 |
+| —— ——, Judiciary | 169 |
+| —— ——, Ministry | 169 |
+| —— ——, U.K. High Commissioner in— | 18 |
+| South Victoria Land | 130 |
+| South West Africa | 140 |
+| Statisticians Conference, 1935, Commonwealth | 73 |
+| Status of Dominions | 61, 65 |
+| Statute of Westminster | 63 |
+| Stewart Island | 124 |
+| Sunday (or Raoul) Island | 124 |
+| Supply and Production Meeting, 1951 | 81 |
+| Suwarrow Island | 124 |
+| Swat | 162 |
+| Swaziland | 182 |
+| ——: Administration | 190 |
+| ——: ——: Statements of Services of Staff | 244 |
+
+| Page |
+| --- |
+| Takutea Island | 124 |
+| Tasmania | 115 |
+| ——, Agent-General in London | 20 |
+| Te Au-o-tu Island | 124 |
+| Telegraph Rates Conference, 1937 | 74 |
+| —— Conference, 1942, Commonwealth | 75 |
+| The Commonwealth | 7 |
+| Tokelau (or Union) Islands | 129 |
+| Transvaal | 139 |
+| Travancore-Cochin | 156 |
+| Treaty Procedure | 62 |
+| Tripura | 157 |
+
+| U |
+| --- |
+| Union of South Africa (see under South Africa). |
+| U.K. Representatives in other Commonwealth Countries | 16 |
+| Universities of the British Commonwealth, Association of— | 40 |
+| Upolu Island | 130 |
+| Uttar Pradesh | 155 |
+
+| V |
+| --- |
+| Victoria | 116 |
+| ——, Agent-General in London | 20 |
+| Victoria League | 37 |
+| Vindhya Pradesh | 157 |
+
+| W |
+| --- |
+| Waitangi Treaty | 125 |
+| Walvis Bay | 140 |
+| Wellington Conference, 1939 | 74 |
+| West Bengal | 155 |
+| Western Australia | 117 |
+| —— ——, Agent-General in London | 20 |
+| Western Samoa | 130 |
+| West Punjab | 160 |
+
+| Y |
+| --- |
+| Yukon Territory | 103 |
+
+Printed in Great Britain under the Authority of Her Majesty's Stationery Office
+By F. Howard Doulton & Co. Ltd., (Associated Staples Press Co.), London, E.15.
+(1952) Wr. 3984 K.12. 8/53.
+New Zealand, Representing Countries
+— — —, Representing Commonwealth Countries
+— — —, Supreme Court of U.K. H.M. in — — —, Waitangi
+Nicobar Islands
+Niue (Savage) Island
+Northern Territory
+North-West Frontier
+Northwest Territories
+Norfolk Island
+Nova Scotia
+
+Ontario
+— — —, Agent-General
+Orange Free State
+Orissa
+Oversea Settlement Society
+Over-Seas League
+
+Pakistan
+— — —, Government
+— — —, High Commissioner
+— — —, Ministry
+— — —, Province
+— — —, Representative
+— — —, — — in — — —
+— — —, — — in — — —
+
+— — —, States
+— — —, U.K. in — — —
+Palmerston
+Papua
+Paris Peace Conference
+Pastures and Livestock Wealth Board
+Patiala
+Penguin Island
+Penrhyn Island
+Pitt Island
+Plant Breeding Station
+Plum Pudding Island Possession
+Prime Minister
+EASTERN BANKING
+
+The Chartered Bank of India, Australia & China maintains a system of branches extending throughout the Commonwealth Countries of the East, and to most other parts of the Eastern world.
+
+The Chartered Bank of India, Australia & China
+
+(Incorporated by Royal Charter 1853.)
+
+HEAD OFFICE: 38 Bishopsgate, London, E.C.3.
+WEST END BRANCH: 28 Charles II Street, London, S.W.1.
+MANCHESTER BRANCH: 52 Mosley Street, Manchester, 2.
+LIVERPOOL BRANCH: 27 Derby House, Exchange Buildings, Rumford Street, Liverpool, 2.
+
+The Bank's branch system serves:
+
+INDIA, PAKISTAN, CEYLON, BURMA, SINGAPORE, MALAYAN FEDERATION, NORTH BORNEO, SARAWAK, UNITED STATES OF INDONESIA, INDO-CHINA, THAILAND, THE PHILIPPINE REPUBLIC, HONGKONG, CHINA, JAPAN.
+
+If it's AUSTRALIA and NEW ZEALAND
+
+ask A.N.Z BANK
+
+AUSTRALIA AND NEW ZEALAND BANK LTD
+(in which are merged The Bank of Australasia Ltd. and The Union Bank of Australia Ltd.)
+HEAD OFFICE: 71 CORNHILL, LONDON, E.C.3. Telephone: AVenue 1281.
+If you have a Survey problem, the advice of our staff of experts is at your disposal, without obligation.
+
+THE AIR SURVEY CO. LTD.
+24 Bruton Street, London, W.I., England
+
+AIR SURVEY CO. OF INDIA LTD.       AIR SURVEY CO. OF PAKISTAN LTD.
+Dum Dum, Calcutta                      Karachi, Pakistan
+
+AERO SURVEYS LTD.                      AIR SURVEY CO. OF RHODESIA LTD.
+Vancouver, Canada                      Salisbury, Southern Rhodesia
+
+Subsidiaries of:
+THE FAIREY AVIATION CO. LTD.
+Hayes, Middlesex, England
+
+Contractors to: SURVEYOR GENERAL OF INDIA • SURVEYOR GENERAL OF SOUTHERN RHODESIA
+SURVEYOR GENERAL OF PAKISTAN • CROWN AGENTS FOR THE COLONIES • MINISTRY OF TRANSPORT
+GOVERNMENT OF CANADA • WAR OFFICE • MINISTRY OF SUPPLY, ETC., ETC.
+
+COMMONWEALTH BANK OF AUSTRALIA
+
+... is owned by the people of Australia and guaranteed by the Commonwealth Government. Its services, which cover the complete range of modern banking facilities, are available at over 400 branches in the principal cities and towns of Australia and New Guinea, and from offices in London at Old Jewry and Australia House.
+
+Head Office: Sydney, N.S.W. • London Office: 8 Old Jewry, E.C.2.
+and at Australia House, Strand, W.C 2.
+THE STAND BANK OF SOUTH AFRICA LIMITED
+
+Bankers in South Africa to the United Kingdom Government. Bankers to the Governments of Southern Rhodesia, Northern Rhodesia, Nyasaland and Tanganyika.
+
+Head Office:
+10 CLEMENTS LANE, LOMBARD STREET,
+LONDON, E.C.4.
+
+The West End Branch of the Bank, at 9 Northumberland Avenue, London, W.C.2, adjacent to Trafalgar Square, is situated for the convenience of Overseas Visitors. It is opposite the Royal Empire Society, and near the Commonwealth Relations Office, the Colonial Office, South Africa House, Rhodesia House, the East African Office and the Offices of the Commissioners for Northern Rhodesia and Nyasaland.
+
+The Bank has more than 550 Branches and Agencies in the Union of South Africa, Southern and Northern Rhodesia, Nyasaland, Kenya, Uganda, Tanganyika and Zanzibar, its own Agencies in New York and Hamburg, and Agents and Correspondents in all parts of the world.
+
+Banking within the Commonwealth
+
+The National Bank of India has a specialised knowledge of banking within the Commonwealth in the subcontinent of India and in East Africa. This knowledge and the Bank’s comprehensive banking service is at the disposal of those concerned with business or private undertakings in these areas.
+
+THE NATIONAL BANK OF INDIA LIMITED
+
+Bankers to the Government in Aden, Kenya Colony, Uganda and Zanzibar.
+
+HEAD OFFICE: 26 Bishopsgate, London, E.C.2

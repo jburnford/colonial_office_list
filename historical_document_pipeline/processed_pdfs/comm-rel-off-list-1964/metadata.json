@@ -1,0 +1,53 @@
+{
+  "identifier": "comm-rel-off-list-1964",
+  "collection": "colonial_office_list",
+  "title": "The Commonwealth Relations Office List 1964 [Volume 13]",
+  "creator": "[Great Britain] Commonwealth Relations Office",
+  "year": 1964,
+  "downloaded_at": "2025-11-10T19:50:40.739574Z",
+  "filename": "CommRelOffList1964.pdf",
+  "file_path": "01_downloaded/CommRelOffList1964.pdf",
+  "file_size": 25713009,
+  "source_url": "https://archive.org/details/comm-rel-off-list-1964",
+  "item_metadata": {
+    "identifier": "comm-rel-off-list-1964",
+    "mediatype": "texts",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "creator": "[Great Britain] Commonwealth Relations Office",
+    "date": "1964",
+    "description": "<h1 style=\"margin-right:0cm;margin-left:0cm;font-size:24pt;font-family:'Times New Roman', serif;\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;color:rgb(51,51,51);font-weight:normal;\">Published by Her Majesty\u2019s Stationery Office 1964.</span><span style=\"font-size:16pt;font-family:Arial, sans-serif;color:rgb(51,51,51);font-weight:normal;\"></span></h1><p></p><h1 style=\"margin:0cm 0cm 15.75pt;font-family:'Times New Roman', serif;background:#FFFFFF;\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;color:rgb(51,51,51);font-weight:normal;\">Digitised by Google Books from the collection at the University of Michigan</span><span style=\"font-family:Arial, sans-serif;color:rgb(51,51,51);font-weight:normal;font-size:21.3333px;\">\u00a0</span><a href=\"https://books.google.com.au/books?id=jOqLi_6ER8IC\" style=\"font-size:12pt;font-family:Arial, sans-serif;font-weight:normal;color:#0000FF;\" rel=\"ugc nofollow\">https://books.google.com/books?id=jOqLi_6ER8IC</a></h1>",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+    "subject": [
+      "Great Britain Commonwealth Relations Office",
+      "British colonies",
+      "The Commonwealth Relations Office List",
+      "The Dominions Office and Colonial Office List",
+      "The Colonial Office List"
+    ],
+    "title": "The Commonwealth Relations Office List 1964 [Volume 13]",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2022-07-27 03:30:32",
+    "addeddate": "2022-07-27 03:30:32",
+    "identifier-access": "http://archive.org/details/comm-rel-off-list-1964",
+    "identifier-ark": "ark:/13960/s2jm6qrh5dj",
+    "ppi": "600",
+    "ocr": "tesseract 5.1.0-1-ge935",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.16",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "0.9890",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "93.17",
+    "noarchivetorrent": "true",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_markdown": "olmocr_results.md",
+  "ocr_consolidated_at": "2025-11-11T20:46:29.911748Z",
+  "original_filename": "CommRelOffList1964.pdf"
+}

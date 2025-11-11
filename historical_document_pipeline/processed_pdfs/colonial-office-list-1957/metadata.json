@@ -1,0 +1,53 @@
+{
+  "identifier": "colonial-office-list-1957",
+  "collection": "colonial_office_list",
+  "title": "The Colonial Office List 1957",
+  "creator": "[Great Britain] Colonial Office",
+  "year": 1957,
+  "downloaded_at": "2025-11-10T19:35:55.260710Z",
+  "filename": "ColonialOfficeList1957.pdf",
+  "file_path": "01_downloaded/ColonialOfficeList1957.pdf",
+  "file_size": 38295281,
+  "source_url": "https://archive.org/details/colonial-office-list-1957",
+  "item_metadata": {
+    "identifier": "colonial-office-list-1957",
+    "mediatype": "texts",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "creator": "[Great Britain] Colonial Office",
+    "date": "1957",
+    "description": "<p class=\"MsoNormal\" style=\"margin:0cm 0cm 0.0001pt;font-size:12pt;font-family:'Times New Roman', serif;\"><span style=\"font-family:Arial, sans-serif;\">Published by Her Majesty\u2019s Stationery Office 1957.</span></p><p></p><p class=\"MsoNormal\" style=\"margin:0cm 0cm 0.0001pt;font-size:12pt;font-family:'Times New Roman', serif;\"><span style=\"font-family:Arial, sans-serif;\"><br /></span></p><p class=\"MsoNormal\" style=\"margin:0cm 0cm 0.0001pt;font-size:12pt;font-family:'Times New Roman', serif;\"><span style=\"font-family:Arial, sans-serif;\">Digitised by Google Books from the collection at the University of California\u00a0<a href=\"https://books.google.com/books?id=ez8XYiaIKkQC\" style=\"color:#0000FF;\" rel=\"nofollow\">https://books.google.com/books?id=ez8XYiaIKkQC</a></span></p><p></p>",
+    "fixed-ppi": "200",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+    "subject": [
+      "The Dominions Office and Colonial Office List",
+      "The Colonial Office List",
+      "Great Britain  Colonial Office",
+      "British Colonies"
+    ],
+    "title": "The Colonial Office List 1957",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2022-08-08 06:02:50",
+    "addeddate": "2022-08-08 06:02:50",
+    "identifier-access": "http://archive.org/details/colonial-office-list-1957",
+    "identifier-ark": "ark:/13960/s2n478c1mzh",
+    "ppi": "200",
+    "ocr": "tesseract 5.2.0-1-gc42a",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.17",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "0.9551",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "95.25",
+    "noarchivetorrent": "true",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_markdown": "olmocr_results.md",
+  "ocr_consolidated_at": "2025-11-11T20:46:09.142721Z",
+  "original_filename": "ColonialOfficeList1957.pdf"
+}

@@ -1,0 +1,52 @@
+{
+  "identifier": "colonial-office-list-1958",
+  "collection": "colonial_office_list",
+  "title": "The Colonial Office List 1958",
+  "creator": "[Great Britain] Colonial Office",
+  "year": 1958,
+  "downloaded_at": "2025-11-10T19:37:48.688415Z",
+  "filename": "ColonialOfficeList1958.pdf",
+  "file_path": "01_downloaded/ColonialOfficeList1958.pdf",
+  "file_size": 29431742,
+  "source_url": "https://archive.org/details/colonial-office-list-1958",
+  "item_metadata": {
+    "identifier": "colonial-office-list-1958",
+    "mediatype": "texts",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "creator": "[Great Britain] Colonial Office",
+    "date": "1958",
+    "description": "<p class=\"MsoNormal\" style=\"margin:0cm 0cm 0.0001pt;font-size:12pt;font-family:'Times New Roman', serif;\"><span style=\"font-family:Arial, sans-serif;\">Published by Her Majesty\u2019s Stationery Office 1958.</span></p><p></p><p class=\"MsoNormal\" style=\"margin:0cm 0cm 0.0001pt;font-size:12pt;font-family:'Times New Roman', serif;\"><span style=\"font-family:Arial, sans-serif;\"><br /></span></p><p class=\"MsoNormal\" style=\"margin:0cm 0cm 0.0001pt;font-size:12pt;font-family:'Times New Roman', serif;\"><span style=\"font-family:Arial, sans-serif;\">Digitised by Google Books from the collection at the University of California\u00a0<a href=\"https://books.google.com/books?id=u-QYcaBaBakC\" style=\"color:#0000FF;\" rel=\"nofollow\">https://books.google.com/books?id=u-QYcaBaBakC</a></span></p><p></p>",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+    "subject": [
+      "The Colonial Office List",
+      "The Dominions Office and Colonial Office List",
+      "Great Britain  Colonial Office",
+      "British Colonies"
+    ],
+    "title": "The Colonial Office List 1958",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2022-08-08 06:04:59",
+    "addeddate": "2022-08-08 06:04:59",
+    "identifier-access": "http://archive.org/details/colonial-office-list-1958",
+    "identifier-ark": "ark:/13960/s2xc4pz2zvv",
+    "ppi": "600",
+    "ocr": "tesseract 5.2.0-1-gc42a",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.17",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "1.0000",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "95.02",
+    "noarchivetorrent": "true",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_markdown": "olmocr_results.md",
+  "ocr_consolidated_at": "2025-11-11T20:46:09.666406Z",
+  "original_filename": "ColonialOfficeList1958.pdf"
+}

@@ -1,0 +1,53 @@
+{
+  "identifier": "comm-rel-off-list-1958",
+  "collection": "colonial_office_list",
+  "title": "The Commonwealth Relations Office List 1958 [Volume 7]",
+  "creator": "[Great Britain] Commonwealth Relations Office",
+  "year": 1958,
+  "downloaded_at": "2025-11-10T19:46:31.908325Z",
+  "filename": "CommRelOffList1958.pdf",
+  "file_path": "01_downloaded/CommRelOffList1958.pdf",
+  "file_size": 10934532,
+  "source_url": "https://archive.org/details/comm-rel-off-list-1958",
+  "item_metadata": {
+    "identifier": "comm-rel-off-list-1958",
+    "mediatype": "texts",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "creator": "[Great Britain] Commonwealth Relations Office",
+    "date": "1958",
+    "description": "<h1 style=\"margin-right:0cm;margin-left:0cm;font-size:24pt;font-family:'Times New Roman', serif;\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;color:rgb(51,51,51);font-weight:normal;\">Published by Her Majesty\u2019s Stationery Office 1958.</span></h1><p></p><h1 style=\"margin:0cm 0cm 15.75pt;font-size:24pt;font-family:'Times New Roman', serif;background:#FFFFFF;\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;color:rgb(51,51,51);font-weight:normal;\">Digitised by Google Books from the collection at the University of Michigan\u00a0</span></h1><p></p><span style=\"font-size:12pt;font-family:Arial, sans-serif;font-weight:normal;\"><a href=\"https://books.google.com/books?id=7k-IgFmKR0MC\" style=\"color:#0000FF;\" rel=\"nofollow\">https://books.google.com/books?id=7k-IgFmKR0MC</a></span>",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+    "subject": [
+      "Great Britain Commonwealth Relations Office",
+      "British colonies",
+      "The Commonwealth Relations Office List",
+      "The Dominions Office and Colonial Office List",
+      "The Colonial Office List"
+    ],
+    "title": "The Commonwealth Relations Office List 1958 [Volume 7]",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2022-07-14 12:24:18",
+    "addeddate": "2022-07-14 12:24:18",
+    "identifier-access": "http://archive.org/details/comm-rel-off-list-1958",
+    "identifier-ark": "ark:/13960/s24jncgqr4m",
+    "ppi": "600",
+    "ocr": "tesseract 5.1.0-1-ge935",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.16",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "1.0000",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "93.40",
+    "noarchivetorrent": "true",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_markdown": "olmocr_results.md",
+  "ocr_consolidated_at": "2025-11-11T20:46:24.344491Z",
+  "original_filename": "CommRelOffList1958.pdf"
+}

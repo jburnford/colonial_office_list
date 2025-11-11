@@ -1,0 +1,53 @@
+{
+  "identifier": "colonial-office-list-1959",
+  "collection": "colonial_office_list",
+  "title": "The Colonial Office List 1959",
+  "creator": "[Great Britain] Colonial Office",
+  "year": 1959,
+  "downloaded_at": "2025-11-10T19:47:38.975787Z",
+  "filename": "ColonialOfficeList1959.pdf",
+  "file_path": "01_downloaded/ColonialOfficeList1959.pdf",
+  "file_size": 45685026,
+  "source_url": "https://archive.org/details/colonial-office-list-1959",
+  "item_metadata": {
+    "identifier": "colonial-office-list-1959",
+    "mediatype": "texts",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "creator": "[Great Britain] Colonial Office",
+    "date": "1959",
+    "description": "<p class=\"MsoNormal\" style=\"margin:0cm 0cm 0.0001pt;font-size:12pt;font-family:'Times New Roman', serif;\"><span style=\"font-family:Arial, sans-serif;\">Published by Her Majesty\u2019s Stationery Office 1959.</span></p><p></p><p class=\"MsoNormal\" style=\"margin:0cm 0cm 0.0001pt;font-size:12pt;font-family:'Times New Roman', serif;\"><span style=\"font-family:Arial, sans-serif;\"><br /></span></p><p class=\"MsoNormal\" style=\"margin:0cm 0cm 0.0001pt;font-size:12pt;font-family:'Times New Roman', serif;\"><span style=\"font-family:Arial, sans-serif;\">Digitised by Google Books from the collection at the University of California\u00a0<a href=\"https://books.google.com/books?id=4Fndi-M1rd0C\" style=\"color:#0000FF;\" rel=\"nofollow\">https://books.google.com/books?id=4Fndi-M1rd0C</a></span></p><p></p>",
+    "fixed-ppi": "200",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.7.0",
+    "subject": [
+      "The Colonial Office List",
+      "The Dominions Office and Colonial Office List",
+      "Great Britain  Colonial Office",
+      "British Colonies"
+    ],
+    "title": "The Colonial Office List 1959",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2022-08-08 06:08:35",
+    "addeddate": "2022-08-08 06:08:35",
+    "identifier-access": "http://archive.org/details/colonial-office-list-1959",
+    "identifier-ark": "ark:/13960/s2mghqpj482",
+    "ppi": "200",
+    "ocr": "tesseract 5.2.0-1-gc42a",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.17",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "0.9344",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "96.12",
+    "noarchivetorrent": "true",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_markdown": "olmocr_results.md",
+  "ocr_consolidated_at": "2025-11-11T20:46:11.096081Z",
+  "original_filename": "ColonialOfficeList1959.pdf"
+}

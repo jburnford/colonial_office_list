@@ -83,7 +83,11 @@ class ModernFormatParser:
         # New format (other years): [{"id": "...", "text": "page 1"}, {"id": "...", "text": "page 2"}, ...]
 
         if isinstance(self.data, list) and len(self.data) > 0:
-            if 'text' in self.data[0]:
+            # Check if it's already a list of lines (converted format)
+            if isinstance(self.data[0], str):
+                # Already a list of lines
+                self.lines = self.data
+            elif 'text' in self.data[0]:
                 # Check if it's the old format (single large text) or new format (multiple pages)
                 if len(self.data) == 1 and len(self.data[0]['text']) > 100000:
                     # Old format: single object with full document
@@ -95,12 +99,11 @@ class ModernFormatParser:
                         if 'text' in page:
                             texts.append(page['text'])
                     self.text = '\n'.join(texts)
+                self.lines = self.text.split('\n')
             else:
                 raise ValueError("No 'text' field found in JSON data")
         else:
             raise ValueError("Unexpected JSON structure: not a list or empty")
-
-        self.lines = self.text.split('\n')
         print(f"Loaded {len(self.lines)} lines from {self.json_path.name}")
 
     def is_list_format(self, line: str) -> bool:

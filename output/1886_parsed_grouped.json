@@ -1,0 +1,497 @@
+{
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1886/olmocr_results.json",
+  "year": 1886,
+  "format": "early_grouped",
+  "total_colonies": 54,
+  "grouped_count": 0,
+  "direct_count": 54,
+  "cross_references": {},
+  "colonies": [
+    {
+      "colony_name": "ST. KITTS",
+      "year": 1886,
+      "start_line": 145,
+      "end_line": 1448,
+      "char_count": 79659,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "year": 1886,
+      "start_line": 1448,
+      "end_line": 1454,
+      "char_count": 67,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "year": 1886,
+      "start_line": 1454,
+      "end_line": 1836,
+      "char_count": 22930,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 1886,
+      "start_line": 1836,
+      "end_line": 2462,
+      "char_count": 36038,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1886,
+      "start_line": 2462,
+      "end_line": 2905,
+      "char_count": 24809,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1886,
+      "start_line": 2905,
+      "end_line": 3682,
+      "char_count": 42443,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1886,
+      "start_line": 3682,
+      "end_line": 5095,
+      "char_count": 97956,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "CANADA",
+      "year": 1886,
+      "start_line": 5095,
+      "end_line": 6323,
+      "char_count": 55752,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "NOVA SCOTIA",
+      "year": 1886,
+      "start_line": 6323,
+      "end_line": 6770,
+      "char_count": 14146,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "MANITOBA",
+      "year": 1886,
+      "start_line": 6770,
+      "end_line": 6838,
+      "char_count": 4123,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "BRITISH COLUMBIA",
+      "year": 1886,
+      "start_line": 6838,
+      "end_line": 6990,
+      "char_count": 7713,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "PRINCE EDWARD ISLAND",
+      "year": 1886,
+      "start_line": 6990,
+      "end_line": 7242,
+      "char_count": 12884,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "year": 1886,
+      "start_line": 7242,
+      "end_line": 7514,
+      "char_count": 35178,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "year": 1886,
+      "start_line": 7514,
+      "end_line": 7976,
+      "char_count": 38171,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "year": 1886,
+      "start_line": 7976,
+      "end_line": 8544,
+      "char_count": 17753,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "year": 1886,
+      "start_line": 8544,
+      "end_line": 10113,
+      "char_count": 67717,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1886,
+      "start_line": 10113,
+      "end_line": 10117,
+      "char_count": 35,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "year": 1886,
+      "start_line": 10117,
+      "end_line": 10272,
+      "char_count": 10212,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1886,
+      "start_line": 10272,
+      "end_line": 10644,
+      "char_count": 26121,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1886,
+      "start_line": 10644,
+      "end_line": 11320,
+      "char_count": 43447,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 1886,
+      "start_line": 11320,
+      "end_line": 11710,
+      "char_count": 15343,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1886,
+      "start_line": 11710,
+      "end_line": 12582,
+      "char_count": 43367,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "LABUAN",
+      "year": 1886,
+      "start_line": 12582,
+      "end_line": 12938,
+      "char_count": 21832,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "year": 1886,
+      "start_line": 12938,
+      "end_line": 13877,
+      "char_count": 46613,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "VIRGIN ISLANDS",
+      "year": 1886,
+      "start_line": 13877,
+      "end_line": 14031,
+      "char_count": 7076,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1886,
+      "start_line": 14031,
+      "end_line": 14273,
+      "char_count": 13460,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "MALTA",
+      "year": 1886,
+      "start_line": 14273,
+      "end_line": 14753,
+      "char_count": 22249,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 1886,
+      "start_line": 14753,
+      "end_line": 16519,
+      "char_count": 98466,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "year": 1886,
+      "start_line": 16519,
+      "end_line": 17129,
+      "char_count": 30751,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "NEW SOUTH WALES",
+      "year": 1886,
+      "start_line": 17129,
+      "end_line": 17981,
+      "char_count": 38417,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "year": 1886,
+      "start_line": 17981,
+      "end_line": 19405,
+      "char_count": 94822,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 1886,
+      "start_line": 19405,
+      "end_line": 19536,
+      "char_count": 6318,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "SOUTH AUSTRALIA",
+      "year": 1886,
+      "start_line": 19536,
+      "end_line": 21572,
+      "char_count": 99996,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "TASMANIA",
+      "year": 1886,
+      "start_line": 21572,
+      "end_line": 22426,
+      "char_count": 50454,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "year": 1886,
+      "start_line": 22426,
+      "end_line": 23518,
+      "char_count": 50967,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "VICTORIA",
+      "year": 1886,
+      "start_line": 23518,
+      "end_line": 24883,
+      "char_count": 64216,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1886,
+      "start_line": 24883,
+      "end_line": 25333,
+      "char_count": 15442,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 1886,
+      "start_line": 25333,
+      "end_line": 25548,
+      "char_count": 10866,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "year": 1886,
+      "start_line": 25548,
+      "end_line": 26148,
+      "char_count": 31366,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "WINDWARD ISLANDS",
+      "year": 1886,
+      "start_line": 26148,
+      "end_line": 26539,
+      "char_count": 16713,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 1886,
+      "start_line": 26539,
+      "end_line": 27072,
+      "char_count": 36840,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 1886,
+      "start_line": 27072,
+      "end_line": 27352,
+      "char_count": 18620,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1886,
+      "start_line": 27469,
+      "end_line": 27865,
+      "char_count": 31209,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "ADEN",
+      "year": 1886,
+      "start_line": 27865,
+      "end_line": 27872,
+      "char_count": 1262,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "ASCENSION",
+      "year": 1886,
+      "start_line": 27872,
+      "end_line": 27899,
+      "char_count": 3363,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "NEW SOUTH WALES",
+      "year": 1886,
+      "start_line": 27899,
+      "end_line": 27921,
+      "char_count": 1694,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "VICTORIA",
+      "year": 1886,
+      "start_line": 27921,
+      "end_line": 27927,
+      "char_count": 181,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "SOUTH AUSTRALIA",
+      "year": 1886,
+      "start_line": 27927,
+      "end_line": 27938,
+      "char_count": 1242,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "year": 1886,
+      "start_line": 27938,
+      "end_line": 27958,
+      "char_count": 1381,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "TASMANIA",
+      "year": 1886,
+      "start_line": 27958,
+      "end_line": 27972,
+      "char_count": 1829,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "year": 1886,
+      "start_line": 27972,
+      "end_line": 27980,
+      "char_count": 642,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "year": 1886,
+      "start_line": 27980,
+      "end_line": 28007,
+      "char_count": 3085,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "year": 1886,
+      "start_line": 28007,
+      "end_line": 28031,
+      "char_count": 2557,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "NATAL",
+      "year": 1886,
+      "start_line": 28031,
+      "end_line": 31009,
+      "char_count": 294485,
+      "grouped": false,
+      "group_name": null
+    }
+  ]
+}

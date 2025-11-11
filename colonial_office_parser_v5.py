@@ -278,11 +278,56 @@ class ColonialOfficeParserV5:
         return found
 
     def find_part_iii_boundary(self) -> Optional[int]:
-        """Find where Part III begins (end of Part II)"""
-        for i, line in enumerate(self.lines):
-            if re.match(r'^PART (III|3)', line.strip()):
-                print(f"Found Part III at line {i}")
-                return i
+        """
+        Find where Part III begins (end of Part II)
+
+        Strategy:
+        - Find actual Part II content start (not table of contents)
+        - Look for PART III marker after Part II content
+        - Verify it's followed by substantial content (not just a reference)
+        """
+        # First, find where Part II actual content starts
+        part_ii_content_start = 0
+        for i in range(1000, min(10000, len(self.lines))):
+            line = self.lines[i].strip()
+            # Look for Part II content markers
+            if ('PART II' in line and ('INTRODUCTION' in line or 'HISTORICAL' in line)):
+                part_ii_content_start = i
+                print(f"Part II content starts at line {i}")
+                break
+
+        # If we didn't find Part II content marker, assume TOC ends around line 2500
+        search_start = max(2500, part_ii_content_start)
+
+        for i in range(search_start, len(self.lines)):
+            line = self.lines[i].strip()
+
+            # Match Part III in various formats
+            # Look for Part III as section header (with period, colon, or alone)
+            if re.match(r'^PART (III|3)[\.:—\s]', line) or line == 'PART III' or line == 'PART 3':
+                # Skip if this looks like a table of contents entry
+                # (TOC entries typically have page numbers or "..." leaders)
+                if '...' in line or re.search(r'\d{2,}$', line):
+                    print(f"Skipping Part III TOC entry at line {i}")
+                    continue
+
+                # Verify this is actual content, not a reference
+                # Check that it's followed by substantial text (section headers, content)
+                has_content = False
+                for j in range(i + 1, min(i + 50, len(self.lines))):
+                    check_line = self.lines[j].strip()
+                    # Look for section headers or substantial content
+                    if len(check_line) > 30 or (check_line and check_line[0].isdigit()):
+                        has_content = True
+                        break
+
+                if has_content:
+                    print(f"Found Part III at line {i}")
+                    return i
+                else:
+                    print(f"Skipping Part III reference at line {i} (no content follows)")
+
+        print("Part III not found (will use end of document as boundary)")
         return None
 
     def find_colony_end(self, start_line: int, next_colony_start: Optional[int], part_iii_line: Optional[int]) -> int:

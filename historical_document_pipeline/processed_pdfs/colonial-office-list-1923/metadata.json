@@ -1,0 +1,51 @@
+{
+  "identifier": "colonial-office-list-1923",
+  "collection": "colonial_office_list",
+  "title": "The Colonial Office List for 1923. 62nd Publication",
+  "creator": "Sir William H Mercer, A E Collins and A J Harding",
+  "year": 1923,
+  "downloaded_at": "2025-11-10T19:49:14.758922Z",
+  "filename": "ColonialOfficeList1923.pdf",
+  "file_path": "01_downloaded/ColonialOfficeList1923.pdf",
+  "file_size": 93820430,
+  "source_url": "https://archive.org/details/colonial-office-list-1923",
+  "item_metadata": {
+    "identifier": "colonial-office-list-1923",
+    "mediatype": "texts",
+    "creator": "Sir William H Mercer, A E Collins and A J Harding",
+    "date": "1923",
+    "description": "<span style=\"font-size:12pt;font-family:Arial, sans-serif;\">Digitised by Google Books<b>\u00a0\u00a0</b><a href=\"https://books.google.com/books?id=wO8zAAAAMAAJ\" style=\"font-weight:bold;color:#800080;\" rel=\"nofollow\"><span style=\"font-weight:normal;\">https://books.google.com/books?id=wO8zAAAAMAAJ</span></a></span>",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+    "subject": [
+      "The Colonial Office List",
+      "Great Britain  Colonial Office",
+      "British colonies"
+    ],
+    "title": "The Colonial Office List for 1923. 62nd Publication",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2021-10-07 05:22:29",
+    "addeddate": "2021-10-07 05:22:29",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]",
+    "identifier-access": "http://archive.org/details/colonial-office-list-1923",
+    "identifier-ark": "ark:/13960/t7vn6sm8r",
+    "ppi": "600",
+    "ocr": "tesseract 5.0.0-beta-20210815",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.13",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "0.8191",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "78.02",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "noarchivetorrent": "true"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_markdown": "olmocr_results.md",
+  "ocr_consolidated_at": "2025-11-11T18:56:39.905628Z",
+  "original_filename": "ColonialOfficeList1923.pdf"
+}

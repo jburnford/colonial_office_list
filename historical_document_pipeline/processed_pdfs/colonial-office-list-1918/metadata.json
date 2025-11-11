@@ -1,0 +1,51 @@
+{
+  "identifier": "colonial-office-list-1918",
+  "collection": "colonial_office_list",
+  "title": "The Colonial Office List for 1918.  57th Publication",
+  "creator": "Sir William H Mercer,  A E Collins  and J R W Robinson",
+  "year": 1918,
+  "downloaded_at": "2025-11-10T19:52:49.898831Z",
+  "filename": "ColonialOfficeList1918.pdf",
+  "file_path": "01_downloaded/ColonialOfficeList1918.pdf",
+  "file_size": 88577348,
+  "source_url": "https://archive.org/details/colonial-office-list-1918",
+  "item_metadata": {
+    "identifier": "colonial-office-list-1918",
+    "mediatype": "texts",
+    "creator": "Sir William H Mercer,  A E Collins  and J R W Robinson",
+    "date": "1918",
+    "description": "<h1 style=\"margin-right:0cm;margin-left:0cm;font-size:24pt;font-family:'Times New Roman', serif;\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;font-weight:normal;\">Digitised by Google Books \u00a0</span><a href=\"https://books.google.com/books?id=0H1HAAAAYAAJ\" style=\"font-family:Arial, sans-serif;font-size:12pt;font-weight:normal;color:#800080;\" rel=\"nofollow\">https://books.google.com/books?id=0H1HAAAAYAAJ</a></h1>",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+    "subject": [
+      "The Colonial Office List",
+      "Great Britain  Colonial Office",
+      "British colonies"
+    ],
+    "title": "The Colonial Office List for 1918.  57th Publication",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2021-10-06 06:06:06",
+    "addeddate": "2021-10-06 06:06:06",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]",
+    "identifier-access": "http://archive.org/details/colonial-office-list-1918",
+    "identifier-ark": "ark:/13960/t1cm0xj20",
+    "ppi": "600",
+    "ocr": "tesseract 5.0.0-beta-20210815",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.13",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "0.8696",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "81.90",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "noarchivetorrent": "true"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_markdown": "olmocr_results.md",
+  "ocr_consolidated_at": "2025-11-11T18:56:35.467860Z",
+  "original_filename": "ColonialOfficeList1918.pdf"
+}

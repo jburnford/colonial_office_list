@@ -1,0 +1,53 @@
+{
+  "identifier": "colonial-office-list-1931",
+  "collection": "colonial_office_list",
+  "title": "The Dominions Office and Colonial Office List for 1931. 70th Publication",
+  "creator": "Sir William H Mercer, A J Harding and G E J Gent",
+  "year": 1931,
+  "downloaded_at": "2025-11-10T19:39:14.742457Z",
+  "filename": "ColonialOfficeList1931.pdf",
+  "file_path": "01_downloaded/ColonialOfficeList1931.pdf",
+  "file_size": 109215678,
+  "source_url": "https://archive.org/details/colonial-office-list-1931",
+  "item_metadata": {
+    "identifier": "colonial-office-list-1931",
+    "mediatype": "texts",
+    "creator": "Sir William H Mercer, A J Harding and G E J Gent",
+    "date": "1931",
+    "description": "<h1 style=\"margin-right:0cm;margin-left:0cm;font-size:24pt;font-family:'Times New Roman', serif;\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;font-weight:normal;\">Digitised by Google Books \u00a0</span><span class=\"fn\" style=\"font-size:24pt;\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;color:rgb(51,51,51);font-weight:normal;\"><a href=\"https://books.google.com/books?id=e_kzAAAAMAAJ\" style=\"color:#800080;\" rel=\"nofollow\">https://books.google.com/books?id=e_kzAAAAMAAJ</a></span></span><span class=\"fn\" style=\"font-size:24pt;\"><span style=\"font-size:17.5pt;font-family:Arial, sans-serif;color:rgb(51,51,51);\">\u00a0\u00a0</span></span></h1>",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+    "subject": [
+      "The Dominions Office and Colonial Office List",
+      "The Colonial Office List",
+      "Great Britain  Colonial Office",
+      "British colonies"
+    ],
+    "title": "The Dominions Office and Colonial Office List for 1931. 70th Publication",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2021-10-08 05:52:01",
+    "addeddate": "2021-10-08 05:52:01",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]",
+    "identifier-access": "http://archive.org/details/colonial-office-list-1931",
+    "identifier-ark": "ark:/13960/t6j22m41k",
+    "fixed-ppi": "200",
+    "ppi": "200",
+    "ocr": "tesseract 5.0.0-beta-20210815",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.13",
+    "ocr_detected_script": "Cyrillic",
+    "ocr_detected_script_conf": "0.5686",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "69.92",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "noarchivetorrent": "true"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_markdown": "olmocr_results.md",
+  "ocr_consolidated_at": "2025-11-11T18:56:43.886973Z",
+  "original_filename": "ColonialOfficeList1931.pdf"
+}

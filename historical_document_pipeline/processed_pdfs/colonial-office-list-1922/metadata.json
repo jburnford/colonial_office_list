@@ -1,0 +1,51 @@
+{
+  "identifier": "colonial-office-list-1922",
+  "collection": "colonial_office_list",
+  "title": "The Colonial Office List for 1922. 61st Publication",
+  "creator": "Sir William H Mercer, A E Collins and A J Harding",
+  "year": 1922,
+  "downloaded_at": "2025-11-10T19:46:19.256004Z",
+  "filename": "ColonialOfficeList1922.pdf",
+  "file_path": "01_downloaded/ColonialOfficeList1922.pdf",
+  "file_size": 149622118,
+  "source_url": "https://archive.org/details/colonial-office-list-1922",
+  "item_metadata": {
+    "identifier": "colonial-office-list-1922",
+    "mediatype": "texts",
+    "creator": "Sir William H Mercer, A E Collins and A J Harding",
+    "date": "1922",
+    "description": "<h1 style=\"margin-right:0cm;margin-left:0cm;font-size:24pt;font-family:'Times New Roman', serif;\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;font-weight:normal;\">Digitised by Google Books\u00a0<a href=\"https://books.google.com/books?id=mFNHAQAAMAAJ\" style=\"color:#800080;\" rel=\"nofollow\">https://books.google.com/books?id=mFNHAQAAMAAJ</a></span></h1><p></p>",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+    "subject": [
+      "The Colonial Office List",
+      "Great Britain  Colonial Office",
+      "British colonies"
+    ],
+    "title": "The Colonial Office List for 1922. 61st Publication",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2021-10-06 06:32:28",
+    "addeddate": "2021-10-06 06:32:28",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]",
+    "identifier-access": "http://archive.org/details/colonial-office-list-1922",
+    "identifier-ark": "ark:/13960/t6wx9x74g",
+    "ppi": "600",
+    "ocr": "tesseract 5.0.0-beta-20210815",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.13",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "0.9363",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "80.58",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "noarchivetorrent": "true"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_markdown": "olmocr_results.md",
+  "ocr_consolidated_at": "2025-11-11T18:56:38.567728Z",
+  "original_filename": "ColonialOfficeList1922.pdf"
+}

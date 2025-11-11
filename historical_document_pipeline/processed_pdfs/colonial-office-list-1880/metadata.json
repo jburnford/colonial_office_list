@@ -1,0 +1,51 @@
+{
+  "identifier": "colonial-office-list-1880",
+  "collection": "colonial_office_list",
+  "title": "The Colonial Office List for 1880. 19th Publication",
+  "creator": "Edward Fairfield",
+  "year": 1880,
+  "downloaded_at": "2025-11-10T19:35:23.112332Z",
+  "filename": "ColonialOfficeList1880.pdf",
+  "file_path": "01_downloaded/ColonialOfficeList1880.pdf",
+  "file_size": 38861458,
+  "source_url": "https://archive.org/details/colonial-office-list-1880",
+  "item_metadata": {
+    "identifier": "colonial-office-list-1880",
+    "mediatype": "texts",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "creator": "Edward Fairfield",
+    "date": "1880",
+    "description": "<span style=\"font-size:12pt;font-family:Arial, sans-serif;\">Digitised by Google Books from the collection at the University of California\u00a0</span><span style=\"font-size:12pt;font-family:Arial, sans-serif;border:1pt none;padding:0cm;\"><a href=\"https://books.google.com/books?id=Phg5AQAAIAAJ\" style=\"color:#800080;\" rel=\"nofollow\">https://books.google.com/books?id=Phg5AQAAIAAJ</a></span>",
+    "fixed-ppi": "200",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+    "subject": [
+      "The Colonial Office List",
+      "Great Britain Colonial Office",
+      "British colonies"
+    ],
+    "title": "The Colonial Office List for 1880. 19th Publication",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2022-03-31 09:10:37",
+    "addeddate": "2022-03-31 09:10:37",
+    "identifier-access": "http://archive.org/details/colonial-office-list-1880",
+    "identifier-ark": "ark:/13960/s264z1zvzxc",
+    "ppi": "200",
+    "ocr": "tesseract 5.0.0-1-g862e",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.15",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "0.6279",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "88.88",
+    "noarchivetorrent": "true",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_consolidated_at": "2025-11-11T18:56:26.794340Z",
+  "original_filename": "ColonialOfficeList1880.pdf"
+}

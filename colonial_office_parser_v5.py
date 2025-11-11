@@ -380,6 +380,14 @@ class ColonialOfficeParserV5:
         headers = self.find_all_colony_headers()
         part_iii_line = self.find_part_iii_boundary()
 
+        # Filter out colonies detected after Part III (appendix/bibliography entries)
+        if part_iii_line:
+            original_count = len(headers)
+            headers = [(name, start) for name, start in headers if start < part_iii_line]
+            filtered_count = original_count - len(headers)
+            if filtered_count > 0:
+                print(f"Filtered out {filtered_count} colonies after Part III at line {part_iii_line}")
+
         colonies = []
 
         for idx, (name, start) in enumerate(headers):

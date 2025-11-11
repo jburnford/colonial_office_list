@@ -1,0 +1,231 @@
+{
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1896.json",
+  "year": 1896,
+  "total_colonies": 28,
+  "colonies": [
+    {
+      "colony_name": "BAHAMAS",
+      "year": 1896,
+      "start_line": 2187,
+      "end_line": 2608,
+      "has_foreign_consuls": true,
+      "text_preview": "BAHAMAS.\n\nSituation and Area.\n\nThe Bahamas, the most northerly of the British West Indian Colonies, are a chain of coral islands lying between 21\u00b0 42' and 27\u00b0 34' N. lat., and 72\u00b0 40' and 79\u00b0 5' W. long., composed of about 20 inhabited islands, and an immense number of islets and rocks. The principal islands are New Providence (containing the capital, Nassau), Abaco, Harbour Island, Eleuthera, Inagua, Mayaguana, Ragged Island, Rum Cay, Exuma, Long Island, Long Cay, and the Biminis, all of which "
+    },
+    {
+      "colony_name": "C.B",
+      "year": 1896,
+      "start_line": 2608,
+      "end_line": 3279,
+      "has_foreign_consuls": true,
+      "text_preview": "C.B.\nR. M. Mundy . . . Administrator . . . 1865\nSir Rawson W. Rawson, K.C.M.G., C.B., Governor . . . 1866\nSanford Freelend, C.M.G., Administrator . . . 1875\nJ. Pope Hennessy, C.M.G., Governor . . . 1875\nCapt. G. C. Strahan, R.A., C.M.G., Governor . . . 1876\nGeorge Dundas, C.M.G., Lieut.-Governor . . . 1876\nMajor Strahan, C.M.G., Governor . . . 1876\nGeorge Dundas, C.M.G., Lieut.-Governor . . . 1878\nMajor Sir G. C. Strahan, K.C.M.G., Governor . . . 1879\nMajor-General D. J. Gamble, C.B., Administra"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1896,
+      "start_line": 3279,
+      "end_line": 3714,
+      "has_foreign_consuls": true,
+      "text_preview": "BERMUDA.\n\nSmith's parish\nJ. W. Pearman.\nC. Peniston.\nT. H. Outerbridge.\nA. Outerbridge.\nT. A. Outerbridge.\nS. C. Outerbridge.\nJ. S. Darrell.\nG. W. West.\nJ. R. Duerden.\nW. J. Boyle.\nAlexander Smith.\nG. Spurling.\n\nHamilton parish\n\nSt. George's parish\n\nClerk, D. E. Seon, 150l.\n\nCivil Establishment.\n\nGovernor and Commander-in-Chief, Lieut.-General Thomas Casey Lyons, C.B., 2,946l.\nAide-de-Camp and Private Secretary, Captain A. J. W. Dowell.\n\nColonial Secretary's Department.\n\nColonial Secretary and R"
+    },
+    {
+      "colony_name": "EXPORTS",
+      "year": 1896,
+      "start_line": 3714,
+      "end_line": 9494,
+      "has_foreign_consuls": true,
+      "text_preview": "EXPORTS.\n\n| Year. | To U.K. | To Colonies. | To Elsewhere. | Total. |\n|-------|---------|--------------|---------------|--------|\n| 1885  | 1,293,618| 88,799       | 418,410       | 1,800,822 |\n| 1886  | 1,071,432| 81,054       | 690,099       | 1,842,585 |\n| 1887  | 1,147,987| 80,144       | 962,460       | 2,190,592 |\n| 1888  | 1,003,806| 79,038       | 942,889       | 2,024,733 |\n| 1889  | 1,317,156| 107,156      | 1,046,791     | 2,471,119 |\n| 1890  | 987,128  | 55,768       | 1,030,410     "
+    },
+    {
+      "colony_name": "WEBSTER'S DRIFT",
+      "year": 1896,
+      "start_line": 9494,
+      "end_line": 10544,
+      "has_foreign_consuls": true,
+      "text_preview": "WEBSTER'S DRIFT.\n\nPrincipal Officer of Customs, H. E. Marshall, 350l.\n\nPORTS AND HARBOURS DEPARTMENT.\n\nPort Captain, Table Bay, Capt. H. M. Penfold, R.N.R., 500l., and quarters; also 100l. as Dock Superintendent, and 200l. as Nautical Adviser.\nShipping Master, ditto, A. T. V. Bridge, 300l.\nClerk to ditto, R. C. Nisbet, 100l.\nPort Officer, Port Nolloth (acting), T. S. Nightingale, 50l.*\nDitto, Simon's Bay, T. Bynon, 250l., and allowances, 50l.\nHarbour Master, Mossel Bay, C. W. Pearson, 75l.\u2020\nPort"
+    },
+    {
+      "colony_name": "EASTERN PROVINCE",
+      "year": 1896,
+      "start_line": 10544,
+      "end_line": 10769,
+      "has_foreign_consuls": true,
+      "text_preview": "EASTERN PROVINCE.\n\nCollector, F. C. Fisher (Government Agent).\nAssistant Collector and Landing Surveyor, Trincomalee, C. S. Vaughan, Rs. 4,000.\n\nHarbour Department.\n\nMaster Attendants, Colombo, J. Donnan, Rs. 9,000.\nGalle, D. Blyth, Rs. 5,000.\nTrincomalee, C. S. Vaughan.\nJaffna, R. W. Ievers.\nButticaloa, F. C. Fisher.\nHambantota, C. A. Murray.\n\nPublic Works Department.\n\nDirector of Public Works, R. K. MacBride, M.I.C.E., C.M.G., Rs. 15,000.\nFinancial and Office Assistant, H. T. S. Ward, Rs. 7,50"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "year": 1896,
+      "start_line": 10769,
+      "end_line": 11418,
+      "has_foreign_consuls": true,
+      "text_preview": "FALKLAND ISLANDS.\n\nSituation and Area.\n\nThe Falkland Islands (\"Les Iles Malouines\" of the French, \"Islas Malvinas\" of the Spaniards) are situated in the South Atlantic Ocean, between 51\u00b0 and 53\u00b0 S. lat., and between 57\u00b0 and 62\u00b0 W. long., about 480 miles N.E. of Cape Horn, and about 1,000 miles due south of Monte Video. They consist of the East Falkland (area 3,000 square miles), the West Falkland (2,300 square miles), and about 100 small islands with an area of nearly 1,200 square miles (equal t"
+    },
+    {
+      "colony_name": "EASTERN PROVINCE",
+      "year": 1896,
+      "start_line": 11418,
+      "end_line": 11841,
+      "has_foreign_consuls": true,
+      "text_preview": "EASTERN PROVINCE.\n\nCollector, F. C. Fisher (Government Agent).\nAssistant Collector and Landing Surveyor, Trincomalee,\nC. S. Vaughan, Rs. 4,000.\n\nHarbour Department.\n\nMaster Attendants, Colombo, J. Donnan, Rs. 9,000.\nGalle, D. Blyth, Rs. 5,000.\nTrincomalee, C. S. Vaughan.\nJaffna, R. W. Ievers.\nBatticaloa, F. C. Fisher.\nHambantota, C. A. Murray.\n\nPublic Works Department.\n\nDirector of Public Works, R. K. MacBride, M.I.C.E.,\nC.M.G., Rs. 15,000.\nFinancial and Office Assistant, H. T. S. Ward, Rs.\n7,50"
+    },
+    {
+      "colony_name": "EXPORTS",
+      "year": 1896,
+      "start_line": 11841,
+      "end_line": 12320,
+      "has_foreign_consuls": true,
+      "text_preview": "EXPORTS.\n\n| Year | To U.K. | To Colonies | To Elsewhere | Total |\n|------|---------|-------------|--------------|-------|\n| 1885 | 95,768  | \u2014           | 2,078        | 97,846 |\n| 1886 | 97,964  | \u2014           | 10,982       | 108,946 |\n| 1887 | 104,128 | \u2014           | 3,867        | 107,995 |\n| 1888 | 87,227  | \u2014           | 1,516        | 88,743 |\n| 1889 | 112,342 | \u2014           | 3,760        | 116,102 |\n| 1890 | 114,592 | \u2014           | 1,273        | 115,865 |\n| 1891 | 128,859 | \u2014           |"
+    },
+    {
+      "colony_name": "WEBSTER'S DRIFT",
+      "year": 1896,
+      "start_line": 12320,
+      "end_line": 14750,
+      "has_foreign_consuls": true,
+      "text_preview": "WEBSTER'S DRIFT.\n\nPrincipal Officer of Customs, H. E. Marshall, 350l.\n\nPORTS AND HARBOURS DEPARTMENT.\n\nPort Captain, Table Bay, Capt. H. M. Penfold, R.N.R., 500l., and quarters; also 100l. as Dock Superintendent, and 200l. as Nautical Adviser.\nShipping Master, ditto, A. T. V. Bridge, 300l.\nClerk to ditto, R. C. Niabet, 100l.\nPort Officer, Port Nolloth (acting), T. S. Nightingale, 50l.*\nDitto, Simon's Bay, T. Bynon, 250l., and allowances, 50l.\nHarbour Master, Mosse Bay, C. W. Pearson, 75l.\u2020\nPort "
+    },
+    {
+      "colony_name": "WEBSTER'S DRIFT",
+      "year": 1896,
+      "start_line": 14750,
+      "end_line": 15728,
+      "has_foreign_consuls": true,
+      "text_preview": "WEBSTER'S DRIFT.\n\nPrincipal Officer of Customs, H. E. Marshall, 350l.\n\nPORTS AND HARBOURS DEPARTMENT.\n\nPort Captain, Table Bay, Capt. H. M. Penfold, R.N.R., 500l., and quarters; also 100l. as Dock Superintendent, and 200l. as Nautical Adviser.\nShipping Master, ditto, A. T. V. Bridge, 300l.\nClerk to ditto, R. C. Nisbet, 100l.\nPort Officer, Port Nolloth (acting), T. S. Nightingale, 50l.*\nDitto, Simon's Bay, T. Bynon, 250l., and allowances, 50l.\nHarbour Master, Mossel Bay, C. W. Pearson, 75l.\u2020\nPort"
+    },
+    {
+      "colony_name": "EASTERN PROVINCE",
+      "year": 1896,
+      "start_line": 15728,
+      "end_line": 16003,
+      "has_foreign_consuls": true,
+      "text_preview": "EASTERN PROVINCE.\n\nCollector, F. C. Fisher (Government Agent).\nAssistant Collector and Landing Surveyor, Trincomalee,\nC. S. Vaughan, Rs. 4,000.\n\nHarbour Department.\n\nMaster Attendants, Colombo, J. Donnan, Rs. 9,000.\nGalle, D. Blyth, Rs. 5,000.\nTrincomalee, C. S. Vaughan.\nJaffna, R. W. Ievers.\n Batticaloa, F. C. Fisher.\nHambantota, C. A. Murray.\n\nPublic Works Department.\n\nDirector of Public Works, R. K. MacBride, M.I.C.E.,\nC.M.G., Rs. 15,000.\nFinancial and Office Assistant, H. T. S. Ward, Rs.\n7,5"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "year": 1896,
+      "start_line": 16003,
+      "end_line": 16454,
+      "has_foreign_consuls": true,
+      "text_preview": "FALKLAND ISLANDS.\n\nSituation and Area.\n\nThe Falkland Islands (\"Les Iles Malouines\" of the French, \"Islas Malvinas\" of the Spaniards) are situated in the South Atlantic Ocean, between 51\u00b0 and 53\u00b0 S. lat., and between 57\u00b0 and 62\u00b0 W. long., about 480 miles N.E. of Cape Horn, and about 1,000 miles due south of Monte Video. They consist of the East Falkland (area 3,000 square miles), the West Falkland (2,800 square miles), and about 100 small islands with an area of nearly 1,200 square miles (equal t"
+    },
+    {
+      "colony_name": "REGISTRAR-GENERAL",
+      "year": 1896,
+      "start_line": 16454,
+      "end_line": 16964,
+      "has_foreign_consuls": true,
+      "text_preview": "REGISTRAR-GENERAL.\nRegistrar-General and Registrar of Titles (acting), Mark T. Dods, 300l.\n\nDEPARTMENT OF JUSTICE.\nChief Justice and Judicial Commissioner for the Western Pacific, Henry Spencer Berkeley, 900l., and 300l. from High Commission Funds.\nRegistrar of Supreme Court, and Curator of Intestate Estates, John Langford, 400l., and 50l. from High Commission Funds.\nAttorney-General, John Symonds Udal, 500l., and private practice; Clerk, W. Scott, 150.\nCommissioner of Rotumah, H. E. Leefe, 350l"
+    },
+    {
+      "colony_name": "THE GOLD COAST COLONY",
+      "year": 1896,
+      "start_line": 16964,
+      "end_line": 17989,
+      "has_foreign_consuls": true,
+      "text_preview": "THE GOLD COAST COLONY.\n\nSituation, Area, and Native Tribes.\n\nThe Gold Coast is the name given to that portion of Upper Guinea, between 8\u00b0 W. long. and 1\u00b0 10' E. long., and is bounded on the west by the French settlements of Assinie, and on the east by the German colony of Togoland.\n\nThe country is inhabited by a large number of native tribes more or less independent of each other, but with similar customs and forms of government. Each tribe has its own head chief or king, and every town or villa"
+    },
+    {
+      "colony_name": "LEGISLATIVE COUNCIL",
+      "year": 1896,
+      "start_line": 17989,
+      "end_line": 18677,
+      "has_foreign_consuls": true,
+      "text_preview": "LEGISLATIVE COUNCIL.\n\nEx-officio Members.\n\nThe Captain-General and Governor.\nThe Senior Officer Commanding the Troops.\nThe Colonial Secretary.\nThe Attorney-General.\nThe Director of Public Works.\nThe Collector-General.\n\nNominated Members.\n\nDr. Jasper Cargill (acting) Superintending Medical Officer.\nThomas Capper, Inspector of Schools.\n\nElected Members.\n\nS. C. Burke, Kingston and St. Andrew.\nJ. T. Palache, Manchester.\nJ. M. Farquharson, St. Elizabeth.\nJ. H. Levy, St. Mary and St. Ann.\nRev. Henry C"
+    },
+    {
+      "colony_name": "LAGOS",
+      "year": 1896,
+      "start_line": 18677,
+      "end_line": 19349,
+      "has_foreign_consuls": true,
+      "text_preview": "LAGOS.\n\nSituation and Area.\n\nThe Colony and Protectorate of Lagos is situated on the Bight of Benin, and is comprised within 2\u00b0 and 6\u00b0 east longitude. Its sphere of influence extends to the 9th parallel of north latitude, embracing the whole of the Yoruba country.\n\nThe Colony itself, consists of the coast line from the boundary of the French Protectorate of the kingdom of Porto Novo (the river Ajarra) on the west, to Aboto on the Mahin Beach on the east, and includes Badagry, Lagos Island (the c"
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "year": 1896,
+      "start_line": 19349,
+      "end_line": 20052,
+      "has_foreign_consuls": true,
+      "text_preview": "ANTIGUA.\n\nAntigua is situated in W. long. 61\u00b0 45', and N. lat. 17\u00b0 6'. It is about 54 miles in circumference, and its area is 108 square miles, about half the size of Middlesex.\n\nThe islands of Barbuda (population 580), and Redonda (population 120) are dependencies of Antigua. They have a total area of 62\u00bd square miles. Barbuda lies about 25 miles due north of the main island, with an area of 62 miles is very flat, with a large lagoon on the west side, separated from the sea by a spit of sand. I"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1896,
+      "start_line": 20052,
+      "end_line": 20413,
+      "has_foreign_consuls": true,
+      "text_preview": "DOMINICA.\n\nDominica is situated between 15\u00b0 20' and 15\u00b0 45' N. lat., and 61\u00b0 13' and 61\u00b0 30' W. long.; 29 miles long and 16 broad; very mountainous and picturesque; was discovered by Christopher Columbus, on Sunday (hence its name), the 3rd November, 1498, on his second voyage. It lies between the French Islands of Guadeloupe and Martinique, and has an area of 291 square miles.\n\nThis island was included in the grant made of sundry islands in the Carribean Sea to the Earl of Carlisle, by a patent"
+    },
+    {
+      "colony_name": "MALTA",
+      "year": 1896,
+      "start_line": 20413,
+      "end_line": 21721,
+      "has_foreign_consuls": true,
+      "text_preview": "MALTA.\n\nSituation and Area.\n\nThe Maltese Islands form a group in the Mediterranean Sea, about 58 miles from the nearest point of Sicily, 80 miles from Syracuse, and 142 from Reggio, and about 180 from the nearest point of the mainland of Africa. Valletta, the port and capital, is in 35\u00b0 54' N. lat., and 14\u00b0 31' E. long. The length of Malta is about 17 miles, by 9 miles in breadth; its area is about 95 square miles; that of Gozo 20 square miles, and that of Comino about one square mile. Filfia an"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 1896,
+      "start_line": 21721,
+      "end_line": 22432,
+      "has_foreign_consuls": true,
+      "text_preview": "SEYCHELLES.\n\nSituation, Area, and Climate.\n\nThe Seychelles Islands are situated between the parallels of S. lat. 4\u00b0 and 5\u00b0; the estimated total number of acres comprised in the group is 50,120.\n\nThey are distant from Mauritius 934, from Madagascar 600, and from Zanzibar 970 miles. Mountainous, fairly fertile, and extremely healthy, the shade temperature seldom exceeds 84, and falls frequently at night to 70. The records taken on the hills are several degrees lower. The rainfall at Victoria, Mah\u00e9"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "year": 1896,
+      "start_line": 22432,
+      "end_line": 25308,
+      "has_foreign_consuls": true,
+      "text_preview": "NEWFOUNDLAND.\n\nSituation and Area.\n\nNewfoundland is an island situated between 46\u00b0 37' and 51\u00b0 39' N. lat., and 52\u00b0 35' and 59\u00b0 25' W. long., on the north-east side of the Gulf of St. Lawrence; the greatest length from north to south is 350 miles, and average breadth about 130; its estimated area is 40,200 square miles, or one-third of that of the United Kingdom.\n\nLabrador.\n\nLabrador, from Cape Chidley (Hudson's Strait) to Blanc Sablon (Strait of Belle Isle), including the basin of the Hamilton,"
+    },
+    {
+      "colony_name": "FINANCES",
+      "year": 1896,
+      "start_line": 25308,
+      "end_line": 26116,
+      "has_foreign_consuls": true,
+      "text_preview": "FINANCES.\n\n| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |\n|------|---------|-------------|-----------------|---------------|\n| 1885 | 64,751 | 67,917      | 379,465         | 434,163       |\n| 1886 | 58,407 | 58,982      | 380,258         | 436,070       |\n| 1887 | 60,637 | 58,334      | 327,034         | 360,637       |\n| 1888 | 63,035 | 63,288      | 450,880         | 517,681       |\n| 1889 | 70,836 | 66,771      | 496,899         | 589,171       |\n| 1890 | 73,708 | 78,056 "
+    },
+    {
+      "colony_name": "JUDGES OF THE SUPREME COURT",
+      "year": 1896,
+      "start_line": 26116,
+      "end_line": 27244,
+      "has_foreign_consuls": true,
+      "text_preview": "JUDGES OF THE SUPREME COURT.\n\nChief Justice and Judge of the Vice-Admiralty Court, Hon. Samuel James Way, D.C.L. (Lieutenant-Governor), 2,000l.\nJudges, James Penn Boucaut, 1,700l.; W. H. Bunsey, 1,700l.\n\nDEPARTMENTS UNDER DIRECTION OF THE CHIEF SECRETARY.\n\nChief Secretary\u2019s Department.\n\nChief Secretary, Hon. J. H. Gordon, M.L.C., 1,000l.\nUnder-Secretary and Government Statist, and Clerk of Executive Council, Lionel H. Sholl, 600l.\nChief Clerk, T. W. Green, 395l.; Clerks, H. Blinman 240l.; W. L. "
+    },
+    {
+      "colony_name": "TASMANIA",
+      "year": 1896,
+      "start_line": 27244,
+      "end_line": 28947,
+      "has_foreign_consuls": true,
+      "text_preview": "TASMANIA.\n\nGeneral Description.\n\nTasmania is an island at the southern extremity of the continent of Australia, from which it is divided by Bass' Straits, 120 miles wide; the important colony of Victoria being on the other side of the straits. It lies between 40\u00b040' and 45\u00b038' S. lat., and 144\u00b030' and 148\u00b020' E. long.\n\nHistory.\n\nTasmania was discovered in 1642 by the Dutch navigator, Abel Jan Tasman, and by him named Van Diemen's Land, the name by which it was known down to 1833. It was not disc"
+    },
+    {
+      "colony_name": "FINANCES",
+      "year": 1896,
+      "start_line": 28947,
+      "end_line": 31053,
+      "has_foreign_consuls": true,
+      "text_preview": "FINANCES.\n\n| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |\n|------|---------|-------------|-----------------|---------------|\n| 1885 | 7,262   | 7,076       | 59,524          | 263,776       |\n| 1886 | 7,731   | 8,265       | 65,095          | 292,415       |\n| 1887 | 6,203   | 6,378       | 84,705          | 205,392       |\n| 1888 | 6,458   | 7,180       | 41,057          | 194,078       |\n| 1889 | 8,873   | 7,079       | 71,671          | 190,602       |\n| 1890 | 8,901   | 8"
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 1896,
+      "start_line": 31053,
+      "end_line": 31783,
+      "has_foreign_consuls": true,
+      "text_preview": "ST. LUCIA.\n\nSituation and Area.\n\nThe island of St. Lucia was discovered by Columbus, during his fourth voyage, on the 15th June, 1502. It is situated in 13\u00b0 50' N. lat., and 60\u00b0 38' W. long; at a distance of 24 miles to the south-east of Martinique, and 21 to the north-east of St. Vincent. It is 24 miles in length, and 12 at its greatest breadth; its circumference is 150 miles, and its area 283-29 sq. miles, rather less than Middlesex. Near its northern extremity lies Pigeon Island, formerly a m"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1896,
+      "start_line": 31783,
+      "end_line": 33126,
+      "has_foreign_consuls": true,
+      "text_preview": "CYPRUS.\n\nSituation and Topography.\n\nThe Island of Cyprus is situated in the easternmost basin of the Mediterranean Sea, with Asia Minor to the north and Syria to the east, at distances of 60 and 41 miles respectively. It lies between 34\u00b0 33' and 35\u00b0 41' N. latitude, and between 32\u00b0 20' and 34\u00b0 35' E. longitude. The port of Larnaca on the southern coast is 258 miles from Port Said, and 1,117 miles from Valletta in Malta.\n\nIt has been now systematically surveyed, and its area is 3,584 square miles"
+    }
+  ]
+}

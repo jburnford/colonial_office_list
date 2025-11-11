@@ -1,0 +1,86 @@
+Colonial Office List Parser Report - Year 1896
+============================================================
+
+Total Colonies: 52
+Total Employees: 3149
+
+
+Colonies by Employee Count:
+----------------------------------------
+  TRISTAN D'ACUNHA               :  757 employees
+  CANADA                         :  355 employees
+  BRITISH HONDURAS               :  277 employees
+  VICTORIA                       :  144 employees
+  NEW SOUTH WALES                :  112 employees
+  TRINIDAD                       :  107 employees
+  NATAL                          :  104 employees
+  HONG KONG                      :   89 employees
+  CYPRUS                         :   87 employees
+  SOUTH AUSTRALIA                :   81 employees
+  BARBADOS                       :   56 employees
+  BRITISH GUIANA                 :   53 employees
+  CAPE OF GOOD HOPE              :   53 employees
+  NEW ZEALAND                    :   53 employees
+  CAPE OF GOOD HOPE              :   52 employees
+  MALTA                          :   47 employees
+  MAURITIUS                      :   47 employees
+  JAMAICA                        :   46 employees
+  TASMANIA                       :   40 employees
+  CAPE OF GOOD HOPE              :   37 employees
+  FIJI                           :   37 employees
+  CAPE OF GOOD HOPE              :   35 employees
+  GIBRALTAR                      :   34 employees
+  CAPE OF GOOD HOPE              :   33 employees
+  FIJI                           :   32 employees
+  BERMUDA                        :   31 employees
+  SIERRA LEONE                   :   31 employees
+  CEYLON                         :   29 employees
+  CEYLON                         :   28 employees
+  ANTIGUA                        :   26 employees
+  ST. LUCIA                      :   25 employees
+  FALKLAND ISLANDS               :   19 employees
+  FALKLAND ISLANDS               :   19 employees
+  FALKLAND ISLANDS               :   19 employees
+  LAGOS                          :   18 employees
+  CEYLON                         :   17 employees
+  DOMINICA                       :   15 employees
+  ANTIGUA                        :   13 employees
+  BAHAMAS                        :   12 employees
+  ST. VINCENT                    :   12 employees
+  BASUTOLAND                     :   11 employees
+  ST. HELENA                     :   11 employees
+  ZULULAND                       :   10 employees
+  FIJI                           :    8 employees
+  SEYCHELLES                     :    7 employees
+  NEW ZEALAND                    :    7 employees
+  LABUAN                         :    5 employees
+  LEEWARD ISLANDS                :    3 employees
+  CAPE OF GOOD HOPE              :    2 employees
+  CAPE OF GOOD HOPE              :    2 employees
+  ADEN                           :    1 employees
+  ASCENSION                      :    0 employees
+
+
+Sample Employee Records:
+----------------------------------------
+
+BAHAMAS:
+  - and but few good roads except in New Providence: There are no railways or telegraphs in the Colony
+  - Capt: Private Secretary and A.D.C.
+  - Capt: Clerk
+  - Rev: Chaplain
+  - Staff Commander F: Inspector of Lighthouses
+
+BARBADOS:
+  - and is the most easterly of the Carribbee Islands: Barbados is situated in latitude 13° 4' North and longitude 59° 37' West
+  - and the works are being extended to all the parishes of the Island: Both companies have been bought up by the Government
+  - and British coin is legal tender and the chief medium of circulation: Accounts are kept in sterling
+  - and direct cable communication with St: There is a station of the West India and Panama Telegraph Company at Barbados
+  - England 8d: | Parcels to West Indies 6d. per lb.
+
+BASUTOLAND:
+  - and between 27 and 28 degrees East Long: It lies between 29 and 30 degrees South Lat.
+  - Masupha alone refusing to accept the offers of the Government and desiring to remain independent: concurrence in this resolution
+  - and letters to and from Europe take about 22 days to Cape Town 4 days: The line of postal communication is through the Cape Colony and Orange Free State. There is a weekly mail service by carts
+  - but a Government Post Office savings bank has been established: There are no banks in the Territory
+  - Colonel Marshal James Clarke (late R [Sir]: Resident Commissioner

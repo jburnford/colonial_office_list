@@ -1,0 +1,392 @@
+{
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1907/olmocr_results.json",
+  "year": 0,
+  "total_colonies": 55,
+  "colonies": [
+    {
+      "colony_name": "ANTIGUA",
+      "year": 0,
+      "start_line": 933,
+      "end_line": 934,
+      "char_count": 9
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 0,
+      "start_line": 934,
+      "end_line": 937,
+      "char_count": 29
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 0,
+      "start_line": 937,
+      "end_line": 948,
+      "char_count": 144
+    },
+    {
+      "colony_name": "ST. KITTS",
+      "year": 0,
+      "start_line": 948,
+      "end_line": 949,
+      "char_count": 11
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 0,
+      "start_line": 949,
+      "end_line": 951,
+      "char_count": 12
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 0,
+      "start_line": 951,
+      "end_line": 2654,
+      "char_count": 108714
+    },
+    {
+      "colony_name": "AUSTRALIA",
+      "year": 0,
+      "start_line": 2654,
+      "end_line": 3436,
+      "char_count": 71671
+    },
+    {
+      "colony_name": "NEW SOUTH WALES",
+      "year": 0,
+      "start_line": 3436,
+      "end_line": 4912,
+      "char_count": 75983
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "year": 0,
+      "start_line": 4981,
+      "end_line": 5493,
+      "char_count": 34312
+    },
+    {
+      "colony_name": "SOUTH AUSTRALIA",
+      "year": 0,
+      "start_line": 5493,
+      "end_line": 6332,
+      "char_count": 47821
+    },
+    {
+      "colony_name": "TASMANIA",
+      "year": 0,
+      "start_line": 6342,
+      "end_line": 7151,
+      "char_count": 41989
+    },
+    {
+      "colony_name": "VICTORIA",
+      "year": 0,
+      "start_line": 7151,
+      "end_line": 7965,
+      "char_count": 55963
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "year": 0,
+      "start_line": 7965,
+      "end_line": 9050,
+      "char_count": 88495
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "year": 0,
+      "start_line": 9050,
+      "end_line": 9487,
+      "char_count": 20960
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 0,
+      "start_line": 9487,
+      "end_line": 10123,
+      "char_count": 35326
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 0,
+      "start_line": 10132,
+      "end_line": 10286,
+      "char_count": 16422
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 0,
+      "start_line": 10286,
+      "end_line": 10490,
+      "char_count": 6100
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 0,
+      "start_line": 10899,
+      "end_line": 11752,
+      "char_count": 49134
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 0,
+      "start_line": 11752,
+      "end_line": 12066,
+      "char_count": 23248
+    },
+    {
+      "colony_name": "NOVA SCOTIA",
+      "year": 0,
+      "start_line": 13828,
+      "end_line": 14040,
+      "char_count": 10204
+    },
+    {
+      "colony_name": "NEW BRUNSWICK",
+      "year": 0,
+      "start_line": 14040,
+      "end_line": 14246,
+      "char_count": 8443
+    },
+    {
+      "colony_name": "MANITOBA",
+      "year": 0,
+      "start_line": 14246,
+      "end_line": 14484,
+      "char_count": 10390
+    },
+    {
+      "colony_name": "BRITISH COLUMBIA",
+      "year": 0,
+      "start_line": 14484,
+      "end_line": 14662,
+      "char_count": 11618
+    },
+    {
+      "colony_name": "PRINCE EDWARD ISLAND",
+      "year": 0,
+      "start_line": 14662,
+      "end_line": 15042,
+      "char_count": 19354
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "year": 0,
+      "start_line": 15042,
+      "end_line": 17861,
+      "char_count": 179961
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 0,
+      "start_line": 18685,
+      "end_line": 19338,
+      "char_count": 41241
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "year": 0,
+      "start_line": 19338,
+      "end_line": 19544,
+      "char_count": 14484
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 0,
+      "start_line": 19544,
+      "end_line": 20084,
+      "char_count": 36404
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 0,
+      "start_line": 20084,
+      "end_line": 20377,
+      "char_count": 17650
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 0,
+      "start_line": 20377,
+      "end_line": 21420,
+      "char_count": 80580
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 0,
+      "start_line": 21420,
+      "end_line": 21966,
+      "char_count": 33038
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 0,
+      "start_line": 21966,
+      "end_line": 22629,
+      "char_count": 45926
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "year": 0,
+      "start_line": 22869,
+      "end_line": 23071,
+      "char_count": 9683
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 0,
+      "start_line": 23457,
+      "end_line": 23733,
+      "char_count": 15308
+    },
+    {
+      "colony_name": "MALTA",
+      "year": 0,
+      "start_line": 24067,
+      "end_line": 24773,
+      "char_count": 32950
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 0,
+      "start_line": 24773,
+      "end_line": 25812,
+      "char_count": 51800
+    },
+    {
+      "colony_name": "NATAL",
+      "year": 0,
+      "start_line": 25812,
+      "end_line": 26699,
+      "char_count": 54821
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "year": 0,
+      "start_line": 26699,
+      "end_line": 27091,
+      "char_count": 26270
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "year": 0,
+      "start_line": 27091,
+      "end_line": 28563,
+      "char_count": 121646
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 0,
+      "start_line": 28563,
+      "end_line": 28728,
+      "char_count": 10626
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 0,
+      "start_line": 28728,
+      "end_line": 29043,
+      "char_count": 19026
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 0,
+      "start_line": 29043,
+      "end_line": 29502,
+      "char_count": 29872
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "year": 0,
+      "start_line": 29739,
+      "end_line": 31059,
+      "char_count": 118872
+    },
+    {
+      "colony_name": "STRAITS SETTLEMENTS",
+      "year": 0,
+      "start_line": 31059,
+      "end_line": 31642,
+      "char_count": 40814
+    },
+    {
+      "colony_name": "LABUAN",
+      "year": 0,
+      "start_line": 31642,
+      "end_line": 33124,
+      "char_count": 113948
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "year": 0,
+      "start_line": 33124,
+      "end_line": 33222,
+      "char_count": 17458
+    },
+    {
+      "colony_name": "TOBAGO",
+      "year": 0,
+      "start_line": 33222,
+      "end_line": 34135,
+      "char_count": 44164
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "year": 0,
+      "start_line": 34135,
+      "end_line": 34310,
+      "char_count": 10520
+    },
+    {
+      "colony_name": "UGANDA",
+      "year": 0,
+      "start_line": 34310,
+      "end_line": 34749,
+      "char_count": 39747
+    },
+    {
+      "colony_name": "GRENADA",
+      "year": 0,
+      "start_line": 34749,
+      "end_line": 35049,
+      "char_count": 20117
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 0,
+      "start_line": 35049,
+      "end_line": 35323,
+      "char_count": 17424
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 0,
+      "start_line": 35323,
+      "end_line": 35609,
+      "char_count": 17602
+    },
+    {
+      "colony_name": "NORTH BORNEO",
+      "year": 0,
+      "start_line": 35609,
+      "end_line": 36049,
+      "char_count": 28443
+    },
+    {
+      "colony_name": "ASCENSION",
+      "year": 0,
+      "start_line": 36049,
+      "end_line": 36069,
+      "char_count": 3221
+    },
+    {
+      "colony_name": "ADEN",
+      "year": 0,
+      "start_line": 36069,
+      "end_line": 36093,
+      "char_count": 5494
+    }
+  ]
+}

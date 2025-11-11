@@ -1,0 +1,220 @@
+WESTERN AUSTRALIA.
+
+As defined by Her Majesty's Commission, includes all that portion of New Holland situated to the westward of 129° E. long.; its greatest length is 1,280 miles from north to south, and 800 miles from east to west.
+
+The city of Perth is situated in lat. 32° S.
+Western Australia was settled in 1829.
+The Government is administered by a Governor assisted by an Executive Council, composed of the Colonial Secretary, the Attorney-General, the Senior Officer commanding the Troops, and the Surveyor-General.
+
+There is a Legislative Council of twenty-one members. Seven are nominated, of whom three are official, viz., the Colonial Secretary, the Attorney-General, the Surveyor-General, and fourteen members are elected.
+
+The franchise for electors is confined to householders of 10l. in annual value, and the qualification for members is the possession, beyond all incumbrances, of landed property to the value of 1,000l.
+
+The colony is divided into ten electoral districts, the two principal towns, Perth and Fremantle, returning two members each.
+
+The occupied portion of the colony is about 600 miles in length from north to south, by about 150 miles in average breadth.
+
+The whole of the settled district, nearly the size of France, is usually level, often undulating, but never mountainous. The western seaboard is generally comparatively flat country, of a sandy character, composed chiefly of the detritus of old coral reefs, which has been again deposited by the action of water; more inland, a formation, which is here called ironstone, is met with; it appears to be chiefly a conglomerate of disintegrated granite, stained with iron; granite, slate, quartz, pipeclay, and, in places, trap, are all found in this country. The Darling Range, for instance, presents these characteristics; it runs from north to south in the central district inland of Perth, and appears once to have formed the coast-line.
+
+The whole country, from north to south, excepting the spots cleared for cultivation, may be described as one vast forest; sometimes, but seldom, the traveller comes upon an open sand plain, covered with shrubs and flowering plants in infinite variety and exquisite beauty, and often, especially in the northern and eastern districts, low scrubby trees and bushes fill the place of timber.
+
+A very large proportion of this is heavy timber country. The jarrah, sometimes erroneously called mahogany, a tree of the Eucalyptus tribe, covers immense tracts of land; its timber is extraordinarily durable, and as it resists the white ant and the Teredo navalis, it is admirably adapted for railway sleepers, and for piles for bridges and harbour works. It is hoped that, with increased facilities for transport, the trade in jarrah may be indefinitely increased.
+
+The sandalwood already affords an article of export; the tuart and kari, Eucalypti of enormous size, are valuable timber trees; when standing they have been estimated to attain a height of nearly 300 feet from the ground to the topmost branch, thus emulating the great Californian Wellingtonia, the kauri (Dammara Australis) of New Zealand, or the great Eucalyptus purpurea of Tasmania. These instances, however, are of rare and exceptional growth, whilst in parts of Western Australia there are forests of the tuart and the kari.
+
+The climate is one of the finest and most salubrious in the world, and the mortality of Western Australia, since its occupation, is said to have averaged not more than one per cent. From the northern to the southern extremity, the climate varies considerably; the southern temperature is somewhat similar to, but higher than that of England. The northern is hot but not unpleasant, the atmosphere being free from that moistness characteristic of tropical climates generally, and being tempered with cool breezes. The climate of the central portion of the colony is like that of southern Italy and parts of Spain. The seasons are divided into wet and dry, the former commencing in April and lasting till September; a greater part of this time of year, however, is bright and clear. The dry season is occasionally, but rarely, visited by showers or a thunderstorm. During three months of this period hot land winds occasionally prevail. The severe droughts and heavy floods experienced in the other Australian colonies are unknown in West Australia. The mean of the barometer is about 30 inches, and of the thermometer about 73 degrees. Exposure to all weathers produces no apparent ill effects on the constitution. Epidemic diseases are almost unknown, dysentery is a rare disease, and consumptive persons often derive great advantage from the climate. Snow is never seen; ice only early in the morning and in the depth of winter.
+
+Governors of Western Australia.
+
+Captain James Stirling, Lieutenant-Governor, from the 1st June, 1829, to September, 1832.
+Captain Irwin, acting Lieutenant-Governor, from September, 1832, to September, 1833.
+Captain Daniel, acting Lieutenant-Governor, from September, 1833, till May 11, 1834, when Captain Beete became acting Lieutenant-Governor, and continued to administer the Government until 24th May, 1834.
+Sir James (formerly Captain) Stirling, Governor, from August, 1834, to December, 1838.
+John Hutt, Esq., Governor, from January 2, 1839, to December, 1845.
+Lieut.-Colonel Clarke, Governor, from February, 1840, to February, 1847.
+Lieut.-Colonel (formerly Captain) Irwin, Governor, from February, 1847, to July, 1848.
+Captain Charles Fitzgerald, Governor, from August, 1848, to June, 1855.
+Arthur Edward Kennedy, Esq., Governor, from June, 1855, to February 17, 1862.
+Lieut.-Colonel John Bruce, acting Governor, from 17 to 27 February, 1862.
+John Stephen Hampton, Esq., Governor, from February 27, 1862, to November, 1868.
+Lieut.-Colonel John Bruce, acting Governor, from Nov., 1868, to 30th September, 1869.
+Frederick Aloysius Weld, Esq., Governor, from 30th September, 1869, to December, 1874.
+William Cleaver Francis Robinson, Esq., C.M.G., Governor, 11th January, 1875.
+
+Revenue and Expenditure.
+
+| Year | Revenue (£) | Expenditure (£) |
+|------|------------|----------------|
+| 1865 | 77,942     | 74,985         |
+| 1866 | 89,982     | 84,652         |
+| 1867 | 90,430     | 89,501         |
+| 1868 | 99,496     | 89,726         |
+| 1869 | 103,661    | 103,124        |
+| 1870 | 98,131     | 113,046        |
+| 1871 | 97,606     | 107,148        |
+| 1872 | 105,301    | 98,948         |
+| 1873 | 134,831    | 114,262        |
+| 1874 | 148,072    | 143,266        |
+| 1875 | 157,775    | 169,203        |
+
+Public Debt, 135,000l.
+
+Total Population in 1874.
+
+Males, 15,732. Females, 10,487. Total 26,209.
+Value of Imports and Exports.
+
+| Year | Imports (£) | Exports (£) |
+|------|------------|-------------|
+| 1865 | 168,413    | 178,487     |
+| 1866 | 251,907    | 150,066     |
+| 1867 | 204,613    | 174,080     |
+| 1868 | 225,614    | 192,636     |
+| 1869 | 127,977    | 101,359     |
+| 1870 | 213,258    | 200,984     |
+| 1871 | 198,011    | 199,288     |
+| 1872 | 226,656    | 209,197     |
+| 1873 | 297,327    | 265,217     |
+| 1874 | 364,262    | 428,836     |
+| 1875 | 349,840    | 391,217     |
+
+Executive Council.
+
+W. C. F. Robinson, C.M.G., Governor.
+R. T. Goldsworthy, C.M.G., Colonial Secretary.
+Henry Hicks Hocking, Attorney-General.
+Lieut.-Col. E. D. Harvest, Commandant.
+M. Fraser, Surveyor-General.
+Clerk, O. Burt.
+
+Legislative Council.
+
+The Hon. A. O. G. Lefroy, Acting Colonial Secretary.
+H. Hicks Hocking, Attorney-General.
+M. Fraser, Surveyor-General.
+W. Bickley.
+Charles Crowther.
+G. Glyde.
+E. Hamersley.
+Septimus Burt.
+J. T. Monger.
+C. E. Broadhurst.
+W. Padbury.
+T. Burges.
+J. G. Lee Steere.
+Sir Thomas Cockburn Campbell, Bart.
+Richard Gale.
+Maitland Brown.
+L. S. Leake.
+S. R. Hamersley.
+W. Pearse.
+G. Randell.
+W. E. Marmion.
+
+Speaker, Sir L. S. Leake, 150l.
+Clerk of Council, J. Cowan, 100l.
+Serjeant-at-Arms, H. P. Hillas, 30l.
+
+Civil Establishment.
+
+Governor and Commander-in-Chief, W. C. F. Robinson, C.M.G., 2,500l.
+Private Secretary, O. Burt, 250l.
+Colonial Secretary, R. T. Goldsworthy, C.M.G., 800l.
+Surveyor-General, M. Fraser, 700l.
+Surveyors, J. Forrest, 300l.
+C. D. Price, 300l.
+Draftsmen, G. Vincent, 300l.
+E. C. Dean, 250l.
+Treasurer, A. O'G. Lefroy, 550l.
+Auditor General, E. L. Courthope, 400l.
+Government Engineer, J. H. Thomas, C.E., 500l.
+Clerk of Works, R. R. Jewell, 550l.
+Collector of Customs, L. W. Clifton, 360l.
+Harbour Master, G. A. Forsyth, 250l.
+Postmaster-General, A. Helmich, 450l.
+Superintendent of Land Police, M. S. Smith, 400l.
+Ditto Water Police, J. F. Stone, 250l.
+Colonial Surgeon, A. R. Waylen, M.D., 400l.
+House Surgeon, — Wilson, 170l.
+Colonial Surgeon, Fremantle, H. C. Barnett, 275l.
+Immigration Agent, W. Dale, 100l.
+Superintendent of Rottnest Penal Establishment, W. D. Jackson, 250l.
+
+Clerical Staff.
+
+Chief Clerk, G. B. Phillips, 325l.
+1st Class Clerks, H. Spencer, 250l.
+J. B. Roe, 250l.
+E. Troode, 250l.
+2nd Class Clerks, from 170l. to 220l.
+F. Spencer.
+R. Sholl.
+A. P. Curtis.
+W. Kennedy.
+G. F. Glyde.
+3rd Class Clerks, from 90l. to 160l.
+E. Ashton.
+J. Hillman.
+Geo. Broomhall.
+H. Clay.
+A. Francisco.
+C. Clifton.
+W. Harper.
+C. Harvest.
+T. L. Hussey.
+J. Brown.
+J. Dyer.
+M. Keardon.
+
+Judicial Establishment.
+
+Chief Justice, Sir A. P. Burt, Kt., 1,000l.
+Attorney-General, H. H. Hocking, 600l.
+Master and Registrar of Supreme Court, R. C. Loftie, 325l.
+Sheriff, W. H. Knight, 360l.
+Resident Magistrates:
+Albany, G. E. C. Hare, 470l.
+Bunbury, W. P. Clifton, 300l.
+Perth and Swan, E. W. Landor, 360l.
+Fremantle, J. G. Slade, 360l.
+Murray, J. G. Murray, 150l.
+Toodyay, R. Fairbairn, 250l.
+Vasse, J. S. Harris, 300l.
+Victoria, G. Eliot, 350l.
+Greenough, E. H. Lawrence, 250l.
+York, W. Cowan, 300l.
+North District, R. J. Sholl, 400l.
+Williams, J. C. Rosselloity, 150l.
+
+Ecclesiastical Establishment.
+
+Lord Bishop of Perth, The Right Rev. Bp. Parry.
+Dean of Perth, Very Rev. J. Gegg.
+Archdeacon, The Venerable J. Brown.
+Chaplains:
+Albany, Rev. W. W. Johnson.
+Bunbury, Rev. J. Withers.
+Beverley, Rev. F. Lynch.
+Champion Bay, Rev. Mr. Laurence.
+Fremantle, Rev. D. G. Watkins.
+Greenough, Rev. H. Laurence.
+Gingin, Rev. G. Sadler.
+Guildford, Rev. G. H. Sweeting.
+Northam, Rev. S. H. Brown.
+Perth, Rev. J. L. Gardner.
+Pinjarrah, Rev. J. S. Price.
+Swan, Rev. J. Brown.
+Toodyay, Rev. W. Pidcock.
+Vasse, Rev. H. W. Brown.
+York, Rev. G. H. Howard.
+
+Convict Department.
+
+Comptroller of Convicts, W. R. Fauntleroy, 450l.
+Chaplain, Rev. R. Alderson, 400l.
+Surgeon, G. C. Attfield, 450l.
+Storekeeper, D. Francisco, 200l.
+Clerks:
+E. S. Porter.
+A. H. Lochée.
+C. Spencer.

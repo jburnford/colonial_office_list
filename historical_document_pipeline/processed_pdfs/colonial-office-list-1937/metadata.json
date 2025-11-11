@@ -1,0 +1,52 @@
+{
+  "identifier": "colonial-office-list-1937",
+  "collection": "colonial_office_list",
+  "title": "The Dominions Office and Colonial Office List for 1937. 76th Publication",
+  "creator": "Sir John Harding and G E J Gent",
+  "year": 1937,
+  "downloaded_at": "2025-11-10T19:49:21.151900Z",
+  "filename": "ColonialOfficeList1937.pdf",
+  "file_path": "01_downloaded/ColonialOfficeList1937.pdf",
+  "file_size": 136099160,
+  "source_url": "https://archive.org/details/colonial-office-list-1937",
+  "item_metadata": {
+    "identifier": "colonial-office-list-1937",
+    "mediatype": "texts",
+    "creator": "Sir John Harding and G E J Gent",
+    "date": "1937",
+    "description": "<h1 style=\"margin-right:0cm;margin-left:0cm;font-size:24pt;font-family:'Times New Roman', serif;\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;font-weight:normal;\">Digitised by Google Books\u00a0<a href=\"https://books.google.com/books?id=v1QaAQAAMAAJ\" style=\"color:#800080;\" rel=\"nofollow\">https://books.google.com/books?id=v1QaAQAAMAAJ</a></span></h1><p></p>",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+    "subject": [
+      "The Dominions Office and Colonial Office List",
+      "The Colonial Office List",
+      "Great Britain  Colonial Office",
+      "British colonies"
+    ],
+    "title": "The Dominions Office and Colonial Office List for 1937. 76th Publication",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2021-10-13 01:04:48",
+    "addeddate": "2021-10-13 01:04:48",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]",
+    "identifier-access": "http://archive.org/details/colonial-office-list-1937",
+    "identifier-ark": "ark:/13960/t2r62781z",
+    "ppi": "600",
+    "ocr": "tesseract 5.0.0-beta-20210815",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.13",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "0.9365",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "81.31",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "noarchivetorrent": "true"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_markdown": "olmocr_results.md",
+  "ocr_consolidated_at": "2025-11-11T18:56:47.612716Z",
+  "original_filename": "ColonialOfficeList1937.pdf"
+}

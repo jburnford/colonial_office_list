@@ -1,0 +1,50 @@
+{
+  "identifier": "colonial-office-list-1897",
+  "collection": "colonial_office_list",
+  "title": "The Colonial Office List for 1897.  36th Publication",
+  "creator": "John Anderson",
+  "year": 1897,
+  "downloaded_at": "2025-11-10T19:52:41.492658Z",
+  "filename": "ColonialOfficeList1897.pdf",
+  "file_path": "01_downloaded/ColonialOfficeList1897.pdf",
+  "file_size": 77335372,
+  "source_url": "https://archive.org/details/colonial-office-list-1897",
+  "item_metadata": {
+    "identifier": "colonial-office-list-1897",
+    "mediatype": "texts",
+    "creator": "John Anderson",
+    "date": "1897",
+    "description": "<h1 style=\"margin-right:0cm;margin-left:0cm;font-size:24pt;font-family:'Times New Roman', serif;\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;font-weight:normal;\">Digitised by Google Books\u00a0<a href=\"https://books.google.com/books?id=6vAzAAAAMAAJ\" style=\"color:#800080;\" rel=\"nofollow\">https://books.google.com/books?id=6vAzAAAAMAAJ</a></span></h1><p></p>",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+    "subject": [
+      "The Colonial Office List",
+      "Great Britain  Colonial Office",
+      "British colonies"
+    ],
+    "title": "The Colonial Office List for 1897.  36th Publication",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2021-10-13 04:27:51",
+    "addeddate": "2021-10-13 04:27:51",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]",
+    "identifier-access": "http://archive.org/details/colonial-office-list-1897",
+    "identifier-ark": "ark:/13960/t4mm8xf16",
+    "ppi": "600",
+    "ocr": "tesseract 5.0.0-beta-20210815",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.13",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "0.9478",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "84.50",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "noarchivetorrent": "true"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_consolidated_at": "2025-11-11T18:56:27.983220Z",
+  "original_filename": "ColonialOfficeList1897.pdf"
+}

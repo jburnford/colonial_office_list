@@ -1,0 +1,52 @@
+{
+  "identifier": "colonial-office-list-1912",
+  "collection": "colonial_office_list",
+  "title": "The Colonial Office List for 1912. 51st Publication",
+  "creator": "W H Mercer,  A E Collins  and  R E Stubbs",
+  "year": 1912,
+  "downloaded_at": "2025-11-10T19:41:48.361459Z",
+  "filename": "ColonialOfficeList1912.pdf",
+  "file_path": "01_downloaded/ColonialOfficeList1912.pdf",
+  "file_size": 88095107,
+  "source_url": "https://archive.org/details/colonial-office-list-1912",
+  "item_metadata": {
+    "identifier": "colonial-office-list-1912",
+    "mediatype": "texts",
+    "creator": "W H Mercer,  A E Collins  and  R E Stubbs",
+    "date": "1912",
+    "description": "<span style=\"font-size:12pt;font-family:Arial, sans-serif;\">Digitised by Google Books\u00a0<b>\u00a0</b><a href=\"https://books.google.com/books?id=cHVHAAAAYAAJ\" style=\"font-weight:bold;color:#800080;\" rel=\"nofollow\"><span style=\"font-weight:normal;\">https://books.google.com/books?id=cHVHAAAAYAAJ</span></a></span>",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+    "subject": [
+      "The Colonial Office List",
+      "Great Britain  Colonial Office",
+      "British colonies"
+    ],
+    "title": "The Colonial Office List for 1912. 51st Publication",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2021-10-16 03:05:45",
+    "addeddate": "2021-10-16 03:05:45",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]",
+    "identifier-access": "http://archive.org/details/colonial-office-list-1912",
+    "identifier-ark": "ark:/13960/t15n8v52r",
+    "ppi": "600",
+    "ocr": "tesseract 5.0.0-beta-20210815",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.13",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "0.9771",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "79.06",
+    "year": "1912",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "noarchivetorrent": "true"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_markdown": "olmocr_results.md",
+  "ocr_consolidated_at": "2025-11-11T18:56:33.737967Z",
+  "original_filename": "ColonialOfficeList1912.pdf"
+}

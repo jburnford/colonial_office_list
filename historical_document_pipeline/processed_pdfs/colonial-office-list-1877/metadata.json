@@ -1,0 +1,51 @@
+{
+  "identifier": "colonial-office-list-1877",
+  "collection": "colonial_office_list",
+  "title": "The Colonial Office List for 1877. 16th Publication",
+  "creator": "Edward Fairfield",
+  "year": 1877,
+  "downloaded_at": "2025-11-10T19:49:24.688006Z",
+  "filename": "ColonialOfficeList1877.pdf",
+  "file_path": "01_downloaded/ColonialOfficeList1877.pdf",
+  "file_size": 44209587,
+  "source_url": "https://archive.org/details/colonial-office-list-1877",
+  "item_metadata": {
+    "identifier": "colonial-office-list-1877",
+    "mediatype": "texts",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "creator": "Edward Fairfield",
+    "date": "1877",
+    "description": "<p style=\"margin-right:0cm;margin-left:0cm;font-size:10pt;font-family:Times, serif;vertical-align:baseline;\"><span style=\"font-family:Arial, sans-serif;font-size:12pt;\">Digitised by Google Books from the collection at Oxford University\u00a0</span><a href=\"https://books.google.com/books?id=CtgNAAAAQAAJ\" style=\"font-family:Arial, sans-serif;font-size:12pt;color:#800080;\" rel=\"ugc nofollow\">https://books.google.com/books?id=CtgNAAAAQAAJ</a></p><p style=\"margin-right:0cm;margin-left:0cm;font-size:10pt;font-family:Times, serif;vertical-align:baseline;\"><span style=\"font-size:12pt;font-family:Arial, sans-serif;border:1pt none;padding:0cm;\"></span></p><p></p>",
+    "fixed-ppi": "200",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+    "subject": [
+      "The Colonial Office List",
+      "Great Britain Colonial Office",
+      "British colonies"
+    ],
+    "title": "The Colonial Office List for 1877. 16th Publication",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2022-03-31 09:01:46",
+    "addeddate": "2022-03-31 09:01:46",
+    "identifier-access": "http://archive.org/details/colonial-office-list-1877",
+    "identifier-ark": "ark:/13960/s2d0s7n6dt9",
+    "ppi": "200",
+    "ocr": "tesseract 5.0.0-1-g862e",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.15",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "0.6519",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "85.59",
+    "noarchivetorrent": "true",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_consolidated_at": "2025-11-11T18:56:25.725726Z",
+  "original_filename": "ColonialOfficeList1877.pdf"
+}

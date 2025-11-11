@@ -1,0 +1,51 @@
+{
+  "identifier": "colonial-office-list-1914",
+  "collection": "colonial_office_list",
+  "title": "The Colonial Office List for 1914. 53rd Publication",
+  "creator": "W H Mercer,  A E Collins  and J  R W Robinson",
+  "year": 1914,
+  "downloaded_at": "2025-11-10T19:35:27.743215Z",
+  "filename": "ColonialOfficeList1914.pdf",
+  "file_path": "01_downloaded/ColonialOfficeList1914.pdf",
+  "file_size": 76694437,
+  "source_url": "https://archive.org/details/colonial-office-list-1914",
+  "item_metadata": {
+    "identifier": "colonial-office-list-1914",
+    "mediatype": "texts",
+    "creator": "W H Mercer,  A E Collins  and J  R W Robinson",
+    "date": "1914",
+    "description": "<h1 style=\"margin-right:0cm;margin-left:0cm;font-size:24pt;font-family:'Times New Roman', serif;\"><span style=\"font-family:Arial, sans-serif;font-size:12pt;font-weight:normal;\">Digitised by Google Books</span><span style=\"font-family:Arial, sans-serif;font-size:12pt;font-weight:normal;\">\u00a0</span><a href=\"https://books.google.com/books?id=le4zAAAAMAAJ\" style=\"font-family:Arial, sans-serif;font-size:12pt;font-weight:normal;color:#800080;\" rel=\"nofollow\">https://books.google.com/books?id=le4zAAAAMAAJ</a><br /></h1>",
+    "language": "eng",
+    "scanner": "Internet Archive HTML5 Uploader 1.6.4",
+    "subject": [
+      "The Colonial Office List",
+      "Great Britain  Colonial Office",
+      "British colonies"
+    ],
+    "title": "The Colonial Office List for 1914. 53rd Publication",
+    "uploader": "maureen.evers@bigpond.com",
+    "publicdate": "2021-10-09 05:29:17",
+    "addeddate": "2021-10-09 05:29:17",
+    "curation": "[curator]kaplan@archive.org[/curator][date]20250104074641[/date][state]un-dark[/state][comment][/comment]",
+    "identifier-access": "http://archive.org/details/colonial-office-list-1914",
+    "identifier-ark": "ark:/13960/t2g85z64j",
+    "ppi": "600",
+    "ocr": "tesseract 5.0.0-beta-20210815",
+    "ocr_parameters": "-l eng",
+    "ocr_module_version": "0.0.13",
+    "ocr_detected_script": "Latin",
+    "ocr_detected_script_conf": "0.7744",
+    "ocr_detected_lang": "en",
+    "ocr_detected_lang_conf": "1.0000",
+    "page_number_confidence": "80.26",
+    "collection": [
+      "colonial-office-gb-publications",
+      "additional_collections"
+    ],
+    "noarchivetorrent": "true"
+  },
+  "ocr_json": "olmocr_results.json",
+  "ocr_markdown": "olmocr_results.md",
+  "ocr_consolidated_at": "2025-11-11T18:56:34.635303Z",
+  "original_filename": "ColonialOfficeList1914.pdf"
+}

@@ -2,8 +2,8 @@
   "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1877/olmocr_results.json",
   "year": 1877,
   "format": "early_grouped",
-  "total_colonies": 33,
-  "grouped_count": 13,
+  "total_colonies": 46,
+  "grouped_count": 26,
   "direct_count": 20,
   "cross_references": {
     "ANTIGUA": {
@@ -274,6 +274,78 @@
       "group_name": "THE LEEWARD ISLANDS"
     },
     {
+      "colony_name": "NEVIS",
+      "year": 1877,
+      "start_line": 11294,
+      "end_line": 11297,
+      "char_count": 38,
+      "grouped": true,
+      "group_name": "THE LEEWARD ISLANDS"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "year": 1877,
+      "start_line": 11297,
+      "end_line": 12581,
+      "char_count": 49348,
+      "grouped": true,
+      "group_name": "THE LEEWARD ISLANDS"
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "year": 1877,
+      "start_line": 12581,
+      "end_line": 13152,
+      "char_count": 22146,
+      "grouped": true,
+      "group_name": "THE LEEWARD ISLANDS"
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "year": 1877,
+      "start_line": 13152,
+      "end_line": 13498,
+      "char_count": 28276,
+      "grouped": true,
+      "group_name": "THE LEEWARD ISLANDS"
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 1877,
+      "start_line": 13498,
+      "end_line": 13501,
+      "char_count": 44,
+      "grouped": true,
+      "group_name": "THE LEEWARD ISLANDS"
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 1877,
+      "start_line": 13501,
+      "end_line": 13504,
+      "char_count": 46,
+      "grouped": true,
+      "group_name": "THE LEEWARD ISLANDS"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1877,
+      "start_line": 13504,
+      "end_line": 13510,
+      "char_count": 124,
+      "grouped": true,
+      "group_name": "THE LEEWARD ISLANDS"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 1877,
+      "start_line": 13510,
+      "end_line": 13580,
+      "char_count": 3293,
+      "grouped": true,
+      "group_name": "THE LEEWARD ISLANDS"
+    },
+    {
       "colony_name": "SOUTH AUSTRALIA",
       "year": 1877,
       "start_line": 13615,
@@ -281,6 +353,51 @@
       "char_count": 219148,
       "grouped": false,
       "group_name": null
+    },
+    {
+      "colony_name": "TOBAGO",
+      "year": 1877,
+      "start_line": 15012,
+      "end_line": 15016,
+      "char_count": 42,
+      "grouped": true,
+      "group_name": "STRAITS SETTLEMENTS"
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "year": 1877,
+      "start_line": 15016,
+      "end_line": 15649,
+      "char_count": 26987,
+      "grouped": true,
+      "group_name": "STRAITS SETTLEMENTS"
+    },
+    {
+      "colony_name": "VICTORIA",
+      "year": 1877,
+      "start_line": 15649,
+      "end_line": 16376,
+      "char_count": 24645,
+      "grouped": true,
+      "group_name": "STRAITS SETTLEMENTS"
+    },
+    {
+      "colony_name": "VIRGIN ISLANDS",
+      "year": 1877,
+      "start_line": 16376,
+      "end_line": 16380,
+      "char_count": 48,
+      "grouped": true,
+      "group_name": "STRAITS SETTLEMENTS"
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "year": 1877,
+      "start_line": 16380,
+      "end_line": 16600,
+      "char_count": 10581,
+      "grouped": true,
+      "group_name": "STRAITS SETTLEMENTS"
     },
     {
       "colony_name": "SIERRA LEONE",

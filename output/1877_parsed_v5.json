@@ -2,9 +2,9 @@
   "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1877/olmocr_results.json",
   "year": 1877,
   "format": "early_grouped",
-  "total_colonies": 33,
-  "grouped_count": 13,
-  "direct_count": 20,
+  "total_colonies": 36,
+  "grouped_count": 11,
+  "direct_count": 25,
   "cross_references": {
     "ANTIGUA": {
       "group": "Leeward Islands",
@@ -277,19 +277,46 @@
       "colony_name": "SOUTH AUSTRALIA",
       "year": 1877,
       "start_line": 13615,
-      "end_line": 18252,
-      "char_count": 219148,
+      "end_line": 14363,
+      "char_count": 26824,
       "grouped": false,
       "group_name": null
     },
     {
-      "colony_name": "SIERRA LEONE",
+      "colony_name": "STRAITS SETTLEMENTS",
       "year": 1877,
-      "start_line": 16604,
+      "start_line": 14363,
+      "end_line": 15016,
+      "char_count": 34043,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "year": 1877,
+      "start_line": 15016,
+      "end_line": 15649,
+      "char_count": 26987,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "VICTORIA",
+      "year": 1877,
+      "start_line": 15649,
+      "end_line": 16380,
+      "char_count": 24693,
+      "grouped": false,
+      "group_name": null
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "year": 1877,
+      "start_line": 16380,
       "end_line": 16853,
-      "char_count": 12640,
-      "grouped": true,
-      "group_name": "WEST AFRICA SETTLEMENTS"
+      "char_count": 23284,
+      "grouped": false,
+      "group_name": null
     },
     {
       "colony_name": "THE GAMBIA",
@@ -297,8 +324,8 @@
       "start_line": 16853,
       "end_line": 16993,
       "char_count": 6194,
-      "grouped": true,
-      "group_name": "WEST AFRICA SETTLEMENTS"
+      "grouped": false,
+      "group_name": null
     },
     {
       "colony_name": "BARBADOS",

@@ -2,8 +2,8 @@
   "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1877/olmocr_results.json",
   "year": 1877,
   "format": "early_grouped",
-  "total_colonies": 33,
-  "grouped_count": 13,
+  "total_colonies": 38,
+  "grouped_count": 18,
   "direct_count": 20,
   "cross_references": {
     "ANTIGUA": {
@@ -281,6 +281,51 @@
       "char_count": 219148,
       "grouped": false,
       "group_name": null
+    },
+    {
+      "colony_name": "TOBAGO",
+      "year": 1877,
+      "start_line": 15012,
+      "end_line": 15016,
+      "char_count": 42,
+      "grouped": true,
+      "group_name": "STRAITS SETTLEMENTS"
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "year": 1877,
+      "start_line": 15016,
+      "end_line": 15649,
+      "char_count": 26987,
+      "grouped": true,
+      "group_name": "STRAITS SETTLEMENTS"
+    },
+    {
+      "colony_name": "VICTORIA",
+      "year": 1877,
+      "start_line": 15649,
+      "end_line": 16376,
+      "char_count": 24645,
+      "grouped": true,
+      "group_name": "STRAITS SETTLEMENTS"
+    },
+    {
+      "colony_name": "VIRGIN ISLANDS",
+      "year": 1877,
+      "start_line": 16376,
+      "end_line": 16380,
+      "char_count": 48,
+      "grouped": true,
+      "group_name": "STRAITS SETTLEMENTS"
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "year": 1877,
+      "start_line": 16380,
+      "end_line": 16600,
+      "char_count": 10581,
+      "grouped": true,
+      "group_name": "STRAITS SETTLEMENTS"
     },
     {
       "colony_name": "SIERRA LEONE",

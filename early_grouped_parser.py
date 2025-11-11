@@ -126,8 +126,20 @@ class EarlyGroupedParser:
         print(f"Found {len(self.cross_refs)} cross-references")
 
     def find_group_headers(self):
-        """Find all group section headers"""
+        """Find all group section headers that are actually referenced by cross-refs"""
         print("\n=== Finding Group Headers ===")
+
+        # Get the set of group names that are actually referenced
+        referenced_groups = set()
+        for colony, (group_name, page, line) in self.cross_refs.items():
+            referenced_groups.add(group_name.upper())
+            # Also add common variants
+            if "WINDWARD" in group_name.upper():
+                referenced_groups.add("THE WINDWARD ISLANDS")
+            if "LEEWARD" in group_name.upper():
+                referenced_groups.add("THE LEEWARD ISLANDS")
+            if "WEST AFRICAN" in group_name.upper() or "WEST AFRICA" in group_name.upper():
+                referenced_groups.add("WEST AFRICA SETTLEMENTS")
 
         for i, line in enumerate(self.lines):
             stripped = line.strip().rstrip('.')
@@ -140,6 +152,11 @@ class EarlyGroupedParser:
                 is_group = True
 
             if is_group:
+                # Only include if this group is actually referenced
+                if stripped not in referenced_groups:
+                    print(f"  Skipping {stripped} at line {i:,} (not referenced)")
+                    continue
+
                 # Verify it's followed by colony content (not just a reference)
                 has_content = False
                 for j in range(i+1, min(i+30, len(self.lines))):
@@ -151,7 +168,85 @@ class EarlyGroupedParser:
                     self.group_headers[stripped] = i
                     print(f"  Line {i:,}: {stripped}")
 
-        print(f"Found {len(self.group_headers)} group headers")
+        print(f"Found {len(self.group_headers)} group headers (validated against cross-references)")
+
+    def find_administrative_section_start(self, start_line: int, end_line: int) -> Optional[int]:
+        """Find where administrative sections begin (emigration tables, etc.)"""
+        admin_markers = [
+            'EMIGRATION',
+            'Government Emigration Board',
+            'emigration is regulated by',
+            'Assisted passages are granted',
+            'The colonies which at present promote immigration',
+        ]
+
+        for i in range(start_line, end_line):
+            line = self.lines[i].strip()
+
+            # Check for administrative markers
+            for marker in admin_markers:
+                if marker in line:
+                    return i
+
+            # Check for tabular data patterns (payment schedules, etc.)
+            if re.search(r'\|\s*Ages\s*\|\s*Males\s*\|\s*Females\s*\|', line):
+                return i
+            if re.search(r'£\d+l?\.\s+to\s+£?\d+l?\.', line):  # Payment ranges
+                return i
+
+        return None
+
+    def is_substantial_colony_content(self, start_line: int, check_lines: int = 50) -> bool:
+        """Check if this looks like a substantial colony description (not a reference)"""
+        # Must have at least some substantial paragraphs
+        paragraph_lines = 0
+        descriptive_markers = 0
+
+        for i in range(start_line + 1, min(start_line + check_lines, len(self.lines))):
+            line = self.lines[i].strip()
+
+            # Count substantial text lines
+            if len(line) > 60:
+                paragraph_lines += 1
+
+            # Look for typical descriptive phrases
+            if any(phrase in line.lower() for phrase in [
+                'is situated', 'latitude', 'longitude', 'area', 'square miles',
+                'discovery', 'history', 'population', 'government', 'established'
+            ]):
+                descriptive_markers += 1
+
+        # Require at least 10 paragraph lines OR 2 descriptive markers
+        return paragraph_lines >= 10 or descriptive_markers >= 2
+
+    def find_group_content_end(self, group_start: int, max_end: int) -> int:
+        """
+        Find where actual group content ends (before next unrelated colony)
+        Groups usually contain 3-6 related colonies, then move to next section
+        """
+        colonies_found = 0
+        last_colony_end = group_start
+
+        for i in range(group_start + 1, max_end):
+            line = self.lines[i].strip().rstrip('.')
+
+            # Found a colony header
+            if line in KNOWN_COLONIES_1877:
+                if self.is_substantial_colony_content(i):
+                    colonies_found += 1
+                    # Look ahead to find where this colony ends (roughly)
+                    for j in range(i + 100, min(i + 2000, max_end)):
+                        next_line = self.lines[j].strip().rstrip('.')
+                        if next_line in KNOWN_COLONIES_1877:
+                            last_colony_end = j
+                            break
+
+                    # If we've found 6+ colonies, next one might be outside group
+                    if colonies_found >= 6:
+                        # Be conservative - stop here
+                        return last_colony_end
+
+        return max_end
 
     def find_colonies_in_group(self, group_name: str, group_start: int) -> List[ColonySection]:
         """Extract individual colonies from within a group section"""
@@ -164,7 +259,19 @@ class EarlyGroupedParser:
                 group_end = other_start
 
         # Limit search to reasonable distance
-        search_end = min(group_start + 5000, group_end)
+        search_end = min(group_start + 3000, group_end)  # Reduced from 5000
+
+        # Check for administrative section within this group
+        admin_start = self.find_administrative_section_start(group_start, search_end)
+        if admin_start:
+            search_end = admin_start
+            print(f"  Administrative section detected at line {admin_start:,}, limiting search")
+
+        # Find where group content actually ends (before unrelated colonies)
+        content_end = self.find_group_content_end(group_start, search_end)
+        if content_end < search_end:
+            search_end = content_end
+            print(f"  Group content ends at line {content_end:,}")
 
         # Find colonies within this group
         found_in_group = []
@@ -172,16 +279,19 @@ class EarlyGroupedParser:
             line = self.lines[i].strip().rstrip('.')
 
             if line in KNOWN_COLONIES_1877:
-                # Check if it's a real section start
-                has_content = False
-                for j in range(i+1, min(i+20, search_end)):
-                    content = self.lines[j].strip()
-                    if len(content) > 40:
-                        has_content = True
+                # Check if next line is a cross-reference - if so, this colony is NOT in this group
+                if i + 2 < len(self.lines):
+                    next_next_line = self.lines[i + 2].strip()
+                    if '(See ' in next_next_line and ', p. ' in next_next_line:
+                        print(f"  Skipping {line} at line {i:,} (cross-reference to another group)")
+                        # This marks the end of the current group
                         break
 
-                if has_content:
+                # Check if it's a real section start with substantial content
+                if self.is_substantial_colony_content(i):
                     found_in_group.append((line, i))
+                else:
+                    print(f"  Skipping {line} at line {i:,} (insufficient content)")
 
         # Create sections for each colony found
         for idx, (colony_name, start_line) in enumerate(found_in_group):
@@ -266,9 +376,25 @@ class EarlyGroupedParser:
 
         # Create sections
         for idx, (name, start) in enumerate(found):
-            # Determine end
+            # Determine end (next colony, group section, or document end)
             next_start = found[idx + 1][1] if idx + 1 < len(found) else len(self.lines)
+
+            # Check if we hit a group section before next colony
             end = next_start
+            for group_start, group_end in group_ranges:
+                if start < group_start < end:
+                    end = group_start
+                    break
+
+            # Check for other section markers (INDEX, APPENDIX, PART markers)
+            for i in range(start + 50, end):  # Skip first 50 lines of colony content
+                line = self.lines[i].strip()
+                if (line.startswith('INDEX') or
+                    line.startswith('APPENDIX') or
+                    line.startswith('PART III') or
+                    line.startswith('PART IV')):
+                    end = i
+                    break
 
             # Calculate character count
             start_char = sum(len(self.lines[j]) + 1 for j in range(start))

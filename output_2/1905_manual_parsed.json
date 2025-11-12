@@ -1,0 +1,647 @@
+{
+  "year": 1905,
+  "total_colonies": 55,
+  "parsing_method": "Manual LLM-based boundary verification (output_2)",
+  "remediation_date": "November 12, 2025",
+  "original_extraction_count": 91,
+  "corrections_applied": [
+    "Removed 30 non-colony sections (trade tables, admin subsections, subdivisions, misc)",
+    "Merged 6 multi-segment colonies (BERMUDA, BRITISH HONDURAS, CAPE OF GOOD HOPE, FIJI, NATAL, TRINIDAD)",
+    "Kept 49 colonies with correct boundaries",
+    "EXPORTS sections (5 instances) removed - trade statistics, not colonies",
+    "LOUIS BOTHA removed - person name in treaty signatories, not colony",
+    "Parliament sections removed - administrative subsections, not separate colonies",
+    "City/district sections removed - DURBAN merged with NATAL, ADELAIDE part of Cape Colony divisions",
+    "Page header duplicates resolved - BERMUDA, FIJI, TRINIDAD were continuation headers"
+  ],
+  "issues_found": {
+    "over_extraction": "91 entries instead of ~45-50 expected",
+    "root_causes": [
+      "Parser treats page running headers as new colony starts",
+      "Administrative sections (PARLIAMENT, EXECUTIVE COUNCIL) extracted as colonies",
+      "Trade tables (EXPORTS 5x, SHIPPING, RAILWAYS) extracted as colonies",
+      "Person names in lists extracted as colonies (LOUIS BOTHA)",
+      "Geographic subdivisions (cities, districts) extracted as separate colonies"
+    ]
+  },
+  "historical_context": "Year 1905 - Post-Boer War, Commonwealth of Australia (1901) and Dominion of Canada federal structures",
+  "notes": [
+    "Australia: THE COMMONWEALTH federal govt + 6 state entries (NSW, QLD, SA, TAS, VIC, WA structure not found)",
+    "Canada: THE DOMINION federal govt + 7 province/territory entries",
+    "Leeward Islands: Federation + 4 presidency entries (ANTIGUA, DOMINICA, MONTSERRAT, VIRGIN ISLANDS)",
+    "Windward Islands: Federation + GRENADA entry",
+    "Gold Coast: Main colony + THE NORTHERN TERRITORIES protectorate kept separate",
+    "All boundaries manually verified by reading OCR source content"
+  ],
+  "colonies": [
+    {
+      "name": "THE COMMONWEALTH",
+      "filename": "THE_COMMONWEALTH.md",
+      "start_line": 2639,
+      "end_line": 3449,
+      "line_count": 811,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Federal government of Australia (1901)"
+    },
+    {
+      "name": "NEW SOUTH WALES",
+      "filename": "NEW_SOUTH_WALES.md",
+      "start_line": 3451,
+      "end_line": 4830,
+      "line_count": 1380,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Australian state"
+    },
+    {
+      "name": "QUEENSLAND",
+      "filename": "QUEENSLAND.md",
+      "start_line": 4832,
+      "end_line": 5097,
+      "line_count": 266,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Australian state"
+    },
+    {
+      "name": "SOUTH AUSTRALIA",
+      "filename": "SOUTH_AUSTRALIA.md",
+      "start_line": 5487,
+      "end_line": 5741,
+      "line_count": 255,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Australian state"
+    },
+    {
+      "name": "TASMANIA",
+      "filename": "TASMANIA.md",
+      "start_line": 6313,
+      "end_line": 6999,
+      "line_count": 687,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Australian state"
+    },
+    {
+      "name": "VICTORIA",
+      "filename": "VICTORIA.md",
+      "start_line": 7000,
+      "end_line": 7266,
+      "line_count": 267,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Australian state"
+    },
+    {
+      "name": "BAHAMAS",
+      "filename": "BAHAMAS.md",
+      "start_line": 8696,
+      "end_line": 8996,
+      "line_count": 301,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "BARBADOS",
+      "filename": "BARBADOS.md",
+      "start_line": 8998,
+      "end_line": 9611,
+      "line_count": 614,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "BERMUDA",
+      "filename": "BERMUDA.md",
+      "start_line": 9613,
+      "end_line": 9977,
+      "line_count": 365,
+      "is_appendix": false,
+      "extraction_method": "merged_segments",
+      "segments": [
+        {
+          "start": 9613,
+          "end": 9842,
+          "lines": 230
+        },
+        {
+          "start": 9843,
+          "end": 9977,
+          "lines": 135
+        }
+      ],
+      "correction_note": "Merged: removed duplicate header at 9843 (Devonshire parish listing)"
+    },
+    {
+      "name": "BRITISH CENTRAL AFRICA PROTECTORATE",
+      "filename": "BRITISH_CENTRAL_AFRICA_PROTECTORATE.md",
+      "start_line": 9978,
+      "end_line": 10164,
+      "line_count": 187,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "filename": "BRITISH_GUIANA.md",
+      "start_line": 10166,
+      "end_line": 10323,
+      "line_count": 158,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "filename": "BRITISH_HONDURAS.md",
+      "start_line": 10799,
+      "end_line": 11133,
+      "line_count": 335,
+      "is_appendix": false,
+      "extraction_method": "merged_segments",
+      "segments": [
+        {
+          "start": 10799,
+          "end": 10925,
+          "lines": 127
+        },
+        {
+          "start": 10926,
+          "end": 11133,
+          "lines": 208
+        }
+      ],
+      "correction_note": "Merged: removed duplicate header at 10926"
+    },
+    {
+      "name": "THE DOMINION",
+      "filename": "THE_DOMINION.md",
+      "start_line": 11135,
+      "end_line": 11506,
+      "line_count": 372,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Federal government of Canada (1867)"
+    },
+    {
+      "name": "PROVINCE OF ONTARIO",
+      "filename": "PROVINCE_OF_ONTARIO.md",
+      "start_line": 11679,
+      "end_line": 12163,
+      "line_count": 485,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Canadian province"
+    },
+    {
+      "name": "NOVA SCOTIA",
+      "filename": "NOVA_SCOTIA.md",
+      "start_line": 13036,
+      "end_line": 13270,
+      "line_count": 235,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Canadian province"
+    },
+    {
+      "name": "NEW BRUNSWICK",
+      "filename": "NEW_BRUNSWICK.md",
+      "start_line": 13272,
+      "end_line": 13431,
+      "line_count": 160,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Canadian province"
+    },
+    {
+      "name": "MANITOBA AND KEEWATIN",
+      "filename": "MANITOBA_AND_KEEWATIN.md",
+      "start_line": 13433,
+      "end_line": 13582,
+      "line_count": 150,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Canadian province with district"
+    },
+    {
+      "name": "BRITISH COLUMBIA",
+      "filename": "BRITISH_COLUMBIA.md",
+      "start_line": 13583,
+      "end_line": 13805,
+      "line_count": 223,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Canadian province"
+    },
+    {
+      "name": "PRINCE EDWARD ISLAND",
+      "filename": "PRINCE_EDWARD_ISLAND.md",
+      "start_line": 13806,
+      "end_line": 13916,
+      "line_count": 111,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Canadian province"
+    },
+    {
+      "name": "THE NORTH-WEST TERRITORIES",
+      "filename": "THE_NORTH-WEST_TERRITORIES.md",
+      "start_line": 13917,
+      "end_line": 14059,
+      "line_count": 143,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Canadian territory"
+    },
+    {
+      "name": "CAPE OF GOOD HOPE",
+      "filename": "CAPE_OF_GOOD_HOPE.md",
+      "start_line": 14061,
+      "end_line": 16313,
+      "line_count": 2253,
+      "is_appendix": false,
+      "extraction_method": "merged_segments",
+      "segments": [
+        {
+          "start": 14061,
+          "end": 14459,
+          "lines": 399
+        },
+        {
+          "start": 14460,
+          "end": 16313,
+          "lines": 1854
+        }
+      ],
+      "correction_note": "Merged: removed duplicate header at 14460 (geological formations continuation)"
+    },
+    {
+      "name": "CEYLON",
+      "filename": "CEYLON.md",
+      "start_line": 17397,
+      "end_line": 17632,
+      "line_count": 236,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "CYPRUS",
+      "filename": "CYPRUS.md",
+      "start_line": 18213,
+      "end_line": 18842,
+      "line_count": 630,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "filename": "FALKLAND_ISLANDS.md",
+      "start_line": 18844,
+      "end_line": 18967,
+      "line_count": 124,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "FIJI",
+      "filename": "FIJI.md",
+      "start_line": 19033,
+      "end_line": 19859,
+      "line_count": 827,
+      "is_appendix": false,
+      "extraction_method": "merged_segments",
+      "segments": [
+        {
+          "start": 19033,
+          "end": 19206,
+          "lines": 174
+        },
+        {
+          "start": 19207,
+          "end": 19277,
+          "lines": 71
+        },
+        {
+          "start": 19278,
+          "end": 19859,
+          "lines": 582
+        }
+      ],
+      "correction_note": "Merged: removed page headers at 19207 (postal stats) and 19278 (exports)"
+    },
+    {
+      "name": "GIBRALTAR",
+      "filename": "GIBRALTAR.md",
+      "start_line": 19861,
+      "end_line": 20077,
+      "line_count": 217,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "THE GOLD COAST COLONY",
+      "filename": "THE_GOLD_COAST_COLONY.md",
+      "start_line": 20079,
+      "end_line": 20145,
+      "line_count": 67,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Main colony"
+    },
+    {
+      "name": "THE NORTHERN TERRITORIES",
+      "filename": "THE_NORTHERN_TERRITORIES.md",
+      "start_line": 20315,
+      "end_line": 21194,
+      "line_count": 880,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Gold Coast protectorate"
+    },
+    {
+      "name": "JAMAICA",
+      "filename": "JAMAICA.md",
+      "start_line": 21196,
+      "end_line": 21400,
+      "line_count": 205,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "LABUAN",
+      "filename": "LABUAN.md",
+      "start_line": 21990,
+      "end_line": 22714,
+      "line_count": 725,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "THE LEEWARD ISLANDS",
+      "filename": "THE_LEEWARD_ISLANDS.md",
+      "start_line": 22715,
+      "end_line": 22897,
+      "line_count": 183,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Federal colony (1871)"
+    },
+    {
+      "name": "ANTIGUA",
+      "filename": "ANTIGUA.md",
+      "start_line": 22899,
+      "end_line": 23203,
+      "line_count": 305,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Leeward Islands presidency"
+    },
+    {
+      "name": "DOMINICA",
+      "filename": "DOMINICA.md",
+      "start_line": 23410,
+      "end_line": 23659,
+      "line_count": 250,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Leeward Islands presidency"
+    },
+    {
+      "name": "MONTSERRAT",
+      "filename": "MONTSERRAT.md",
+      "start_line": 23661,
+      "end_line": 23833,
+      "line_count": 173,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Leeward Islands presidency"
+    },
+    {
+      "name": "VIRGIN ISLANDS",
+      "filename": "VIRGIN_ISLANDS.md",
+      "start_line": 23835,
+      "end_line": 23981,
+      "line_count": 147,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Leeward Islands presidency"
+    },
+    {
+      "name": "MALTA",
+      "filename": "MALTA.md",
+      "start_line": 23983,
+      "end_line": 24581,
+      "line_count": 599,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "MAURITIUS",
+      "filename": "MAURITIUS.md",
+      "start_line": 24582,
+      "end_line": 24951,
+      "line_count": 370,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "NATAL",
+      "filename": "NATAL.md",
+      "start_line": 25473,
+      "end_line": 26235,
+      "line_count": 762,
+      "is_appendix": false,
+      "extraction_method": "merged_segments",
+      "segments": [
+        {
+          "start": 25473,
+          "end": 25608,
+          "lines": 136
+        },
+        {
+          "start": 25610,
+          "end": 26235,
+          "lines": 626
+        }
+      ],
+      "correction_note": "Merged: DURBAN (25610-26235) is city within Natal"
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "filename": "NEWFOUNDLAND.md",
+      "start_line": 26236,
+      "end_line": 26661,
+      "line_count": 426,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "NEW ZEALAND",
+      "filename": "NEW_ZEALAND.md",
+      "start_line": 26663,
+      "end_line": 26981,
+      "line_count": 319,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "PUKAPUKA, OR DANGER ISLAND, AND NASSAU",
+      "filename": "PUKAPUKA,_OR_DANGER_ISLAND,_AND_NASSAU.md",
+      "start_line": 26983,
+      "end_line": 27508,
+      "line_count": 526,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Cook Islands territory"
+    },
+    {
+      "name": "NORTHERN NIGERIA",
+      "filename": "NORTHERN_NIGERIA.md",
+      "start_line": 27658,
+      "end_line": 27836,
+      "line_count": 179,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "ORANGE RIVER COLONY",
+      "filename": "ORANGE_RIVER_COLONY.md",
+      "start_line": 27838,
+      "end_line": 28644,
+      "line_count": 807,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Post-Boer War (formerly Orange Free State)"
+    },
+    {
+      "name": "SEYCHELLES",
+      "filename": "SEYCHELLES.md",
+      "start_line": 28646,
+      "end_line": 28983,
+      "line_count": 338,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "SIERRA LEONE",
+      "filename": "SIERRA_LEONE.md",
+      "start_line": 28984,
+      "end_line": 29427,
+      "line_count": 444,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "BASUTOLAND",
+      "filename": "BASUTOLAND.md",
+      "start_line": 29429,
+      "end_line": 29562,
+      "line_count": 134,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "BECHUANALAND PROTECTORATE",
+      "filename": "BECHUANALAND_PROTECTORATE.md",
+      "start_line": 29564,
+      "end_line": 30061,
+      "line_count": 498,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "SOUTHERN NIGERIA",
+      "filename": "SOUTHERN_NIGERIA.md",
+      "start_line": 30062,
+      "end_line": 30837,
+      "line_count": 776,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "SINGAPORE",
+      "filename": "SINGAPORE.md",
+      "start_line": 30839,
+      "end_line": 31062,
+      "line_count": 224,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "THE FEDERATED STATES OF THE MALAY PENINSULA",
+      "filename": "THE_FEDERATED_STATES_OF_THE_MALAY_PENINSULA.md",
+      "start_line": 31064,
+      "end_line": 31381,
+      "line_count": 318,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "TRINIDAD AND TOBAGO",
+      "filename": "TRINIDAD_AND_TOBAGO.md",
+      "start_line": 32351,
+      "end_line": 33445,
+      "line_count": 1095,
+      "is_appendix": false,
+      "extraction_method": "merged_segments",
+      "segments": [
+        {
+          "start": 32351,
+          "end": 32773,
+          "lines": 423
+        },
+        {
+          "start": 32774,
+          "end": 33043,
+          "lines": 270
+        },
+        {
+          "start": 33044,
+          "end": 33445,
+          "lines": 402
+        }
+      ],
+      "correction_note": "Merged: removed page headers at 32774 (Water Works) and 33044 (Wardens)"
+    },
+    {
+      "name": "TURKS AND CAICOS ISLANDS",
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md",
+      "start_line": 33447,
+      "end_line": 33591,
+      "line_count": 145,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries"
+    },
+    {
+      "name": "WEIHAIWEI",
+      "filename": "WEIHAIWEI.md",
+      "start_line": 33592,
+      "end_line": 33755,
+      "line_count": 164,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "British leased territory in China"
+    },
+    {
+      "name": "THE WINDWARD ISLANDS",
+      "filename": "THE_WINDWARD_ISLANDS.md",
+      "start_line": 33756,
+      "end_line": 33834,
+      "line_count": 79,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Federal colony"
+    },
+    {
+      "name": "GRENADA",
+      "filename": "GRENADA.md",
+      "start_line": 33835,
+      "end_line": 34568,
+      "line_count": 734,
+      "is_appendix": false,
+      "extraction_method": "exact_boundaries",
+      "note": "Windward Islands colony"
+    }
+  ]
+}

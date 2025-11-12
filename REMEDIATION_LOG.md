@@ -165,8 +165,24 @@
 2. Find where NATAL actually begins
 3. Verify no content is lost
 
-**Findings:**
-[Analyzing now...]
+**Findings - VERIFIED:**
+
+✅ **MAURITIUS:**
+- **Correct start:** Line 15271 ("MAURITIUS.")
+- **Correct end:** Line 16180 (blank line after "Foreign Consuls (in Mauritius)")
+- **Last content:** Lines 16161-16179 = Foreign Consuls list
+- **Verified range:** 15271-16180 (910 lines)
+
+✅ **NATAL:**
+- **Correct start:** Line 16181 ("NATAL.")
+- **Correct end:** Line 16885 (blank line before "NEWFOUNDLAND.")
+- **First section:** "Situation and Area" (line 16183)
+- **Verified range:** 16181-16885 (705 lines)
+
+**✅ NO DATA LOSS:** Line 16180 is blank, perfect boundary between colonies.
+
+**Action Required:**
+1. Truncate existing MAURITIUS file to 910 lines (remove 705 lines of NATAL content)
 
 ---
 
@@ -182,12 +198,29 @@
 2. Find where ST. HELENA actually begins
 3. Verify no content is lost
 
-**Findings:**
-[To be analyzed]
+**Findings - VERIFIED:**
+
+✅ **QUEENSLAND:**
+- **Correct start:** Line 19212 ("QUEENSLAND.")
+- **Correct end:** Line 19746 (blank line before "ST. HELENA.")
+- **Last content:** Lines 19731-19744 = Consuls for Foreign Countries
+- **Verified range:** 19212-19746 (535 lines)
+
+✅ **ST. HELENA:**
+- **Correct start:** Line 19747 ("ST. HELENA.")
+- **Correct end:** Line 19836 (before "Governors of Western Australia" orphaned content)
+- **Last content:** Line 19835 = "There are no export duties. Total Customs Revenue, 1886, 164,048l."
+- **Verified range:** 19747-19836 (90 lines)
+
+**✅ NO DATA LOSS:** Line 19746 is blank line with separator, perfect boundary.
+
+**Action Required:**
+1. Truncate existing QUEENSLAND file to 535 lines (remove 473 lines of ST. HELENA content)
+2. Truncate existing ST. HELENA file to 90 lines (remove 383 lines of WESTERN AUSTRALIA content)
 
 ---
 
-### Issue 3: THE WINDWARD ISLANDS contains SOUTH AUSTRALIA
+### Issue 3: THE WINDWARD ISLANDS contains SOUTH AUSTRALIA + Missing WESTERN AUSTRALIA
 
 **Original Metadata:**
 - THE WINDWARD ISLANDS: lines 20220-21304 (1085 lines)
@@ -197,10 +230,41 @@
 **Investigation Steps:**
 1. Find where THE WINDWARD ISLANDS actually ends
 2. Find where SOUTH AUSTRALIA actually begins
-3. Verify no content is lost
+3. Discover orphaned content between them
+4. Verify no content is lost
 
-**Findings:**
-[To be analyzed]
+**Findings - VERIFIED:**
+
+🚨 **WESTERN AUSTRALIA (NEWLY DISCOVERED - MISSING FROM METADATA!):**
+- **NO STANDARD HEADER:** Does not begin with "WESTERN AUSTRALIA."
+- **Actual start:** Line 19837 ("Governors of Western Australia.")
+- **Content verified:** Contains all WA departments, governors list, Foreign Consuls, finances
+- **Last content:** Line 20219 (blank line before "THE WINDWARD ISLANDS.")
+- **New colony to extract:** 19837-20219 (383 lines)
+
+✅ **THE WINDWARD ISLANDS:**
+- **Correct start:** Line 20220 ("THE WINDWARD ISLANDS.")
+- **Correct end:** Line 20257 (ends with "Newspapers." heading)
+- **Verified range:** 20220-20257 (38 lines)
+
+❌ **ORPHANED PAGE HEADERS (TO BE DELETED):**
+- Lines 20258-20272 = "ST. HELENA—SOUTH AUSTRALIA" page header + unattached sections
+- These are printing artifacts, not colony content
+- Line 20258: "ST. HELENA—SOUTH AUSTRALIA." (page running header)
+- Lines 20260-20272: Orphaned "Ecclesiastical Department" and "Foreign Consuls" with no context
+
+✅ **SOUTH AUSTRALIA:**
+- **Correct start:** Line 20274 ("SOUTH AUSTRALIA.")  (note: line 20273 is blank)
+- **Correct end:** Line 21304 (blank line before "STRAITS SETTLEMENTS.")
+- **Verified range:** 20274-21304 (1031 lines)
+
+**Root Cause:** Western Australia section lacks standard "COLONY_NAME." header. Parser missed it entirely, causing ST. HELENA to incorrectly extend through WA content, and THE WINDWARD ISLANDS and SOUTH AUSTRALIA to include orphaned/overlapping content.
+
+**Action Required:**
+1. Truncate THE WINDWARD ISLANDS to end at line 20257 (remove ~1047 lines)
+2. **CREATE NEW WESTERN AUSTRALIA FILE** with lines 19837-20219
+3. **DELETE ORPHANED HEADERS** lines 20258-20272 (do not extract as colony)
+4. SOUTH AUSTRALIA file is already correct (20274-21304)
 
 ---
 

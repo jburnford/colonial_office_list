@@ -1,0 +1,359 @@
+{
+  "year": 1867,
+  "parser": "manual_llm",
+  "total_colonies": 44,
+  "colonies": [
+    {
+      "name": "ANTIGUA",
+      "start_line": 1113,
+      "end_line": 1375,
+      "line_count": 263,
+      "char_count": 12194,
+      "file": "ANTIGUA.txt"
+    },
+    {
+      "name": "BAHAMAS",
+      "start_line": 1377,
+      "end_line": 1509,
+      "line_count": 133,
+      "char_count": 6589,
+      "file": "BAHAMAS.txt"
+    },
+    {
+      "name": "BARBADOS",
+      "start_line": 1511,
+      "end_line": 1996,
+      "line_count": 486,
+      "char_count": 25599,
+      "file": "BARBADOS.txt"
+    },
+    {
+      "name": "BERMUDAS",
+      "start_line": 1998,
+      "end_line": 2199,
+      "line_count": 202,
+      "char_count": 9879,
+      "file": "BERMUDAS.txt"
+    },
+    {
+      "name": "BRITISH_COLUMBIA",
+      "start_line": 2201,
+      "end_line": 2425,
+      "line_count": 225,
+      "char_count": 11112,
+      "file": "BRITISH_COLUMBIA.txt"
+    },
+    {
+      "name": "BRITISH_GUIANA",
+      "start_line": 2427,
+      "end_line": 2926,
+      "line_count": 500,
+      "char_count": 22893,
+      "file": "BRITISH_GUIANA.txt"
+    },
+    {
+      "name": "BULAMA",
+      "start_line": 2928,
+      "end_line": 2935,
+      "line_count": 8,
+      "char_count": 512,
+      "file": "BULAMA.txt"
+    },
+    {
+      "name": "CANADA",
+      "start_line": 2937,
+      "end_line": 3186,
+      "line_count": 250,
+      "char_count": 12216,
+      "file": "CANADA.txt"
+    },
+    {
+      "name": "CAPE_OF_GOOD_HOPE",
+      "start_line": 3188,
+      "end_line": 4058,
+      "line_count": 871,
+      "char_count": 31275,
+      "file": "CAPE_OF_GOOD_HOPE.txt"
+    },
+    {
+      "name": "CEYLON",
+      "start_line": 4060,
+      "end_line": 4522,
+      "line_count": 463,
+      "char_count": 18145,
+      "file": "CEYLON.txt"
+    },
+    {
+      "name": "DOMINICA",
+      "start_line": 4524,
+      "end_line": 4639,
+      "line_count": 116,
+      "char_count": 7996,
+      "file": "DOMINICA.txt"
+    },
+    {
+      "name": "FALKLAND_ISLANDS",
+      "start_line": 4641,
+      "end_line": 4726,
+      "line_count": 86,
+      "char_count": 6192,
+      "file": "FALKLAND_ISLANDS.txt"
+    },
+    {
+      "name": "GIBRALTAR",
+      "start_line": 4728,
+      "end_line": 4755,
+      "line_count": 28,
+      "char_count": 805,
+      "file": "GIBRALTAR.txt"
+    },
+    {
+      "name": "GRENADA",
+      "start_line": 4757,
+      "end_line": 5098,
+      "line_count": 342,
+      "char_count": 13211,
+      "file": "GRENADA.txt"
+    },
+    {
+      "name": "HONDURAS",
+      "start_line": 5100,
+      "end_line": 5118,
+      "line_count": 19,
+      "char_count": 2854,
+      "file": "HONDURAS.txt"
+    },
+    {
+      "name": "HELIGOLAND",
+      "start_line": 5120,
+      "end_line": 5312,
+      "line_count": 193,
+      "char_count": 10368,
+      "file": "HELIGOLAND.txt"
+    },
+    {
+      "name": "HONG_KONG",
+      "start_line": 5314,
+      "end_line": 5555,
+      "line_count": 242,
+      "char_count": 10015,
+      "file": "HONG_KONG.txt"
+    },
+    {
+      "name": "JAMAICA",
+      "start_line": 5557,
+      "end_line": 5961,
+      "line_count": 405,
+      "char_count": 29040,
+      "file": "JAMAICA.txt"
+    },
+    {
+      "name": "LABUAN",
+      "start_line": 5963,
+      "end_line": 6065,
+      "line_count": 103,
+      "char_count": 4691,
+      "file": "LABUAN.txt"
+    },
+    {
+      "name": "MALTA",
+      "start_line": 6067,
+      "end_line": 6411,
+      "line_count": 345,
+      "char_count": 10874,
+      "file": "MALTA.txt"
+    },
+    {
+      "name": "MAURITIUS",
+      "start_line": 6413,
+      "end_line": 6937,
+      "line_count": 525,
+      "char_count": 26623,
+      "file": "MAURITIUS.txt"
+    },
+    {
+      "name": "MONTSERRAT",
+      "start_line": 6939,
+      "end_line": 7064,
+      "line_count": 126,
+      "char_count": 5632,
+      "file": "MONTSERRAT.txt"
+    },
+    {
+      "name": "NATAL",
+      "start_line": 7066,
+      "end_line": 7258,
+      "line_count": 193,
+      "char_count": 11929,
+      "file": "NATAL.txt"
+    },
+    {
+      "name": "NEVIS",
+      "start_line": 7260,
+      "end_line": 7381,
+      "line_count": 122,
+      "char_count": 5340,
+      "file": "NEVIS.txt"
+    },
+    {
+      "name": "NEW_BRUNSWICK",
+      "start_line": 7383,
+      "end_line": 7654,
+      "line_count": 272,
+      "char_count": 9001,
+      "file": "NEW_BRUNSWICK.txt"
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "start_line": 7656,
+      "end_line": 7870,
+      "line_count": 215,
+      "char_count": 8316,
+      "file": "NEWFOUNDLAND.txt"
+    },
+    {
+      "name": "NEW_SOUTH_WALES",
+      "start_line": 7872,
+      "end_line": 8457,
+      "line_count": 586,
+      "char_count": 19803,
+      "file": "NEW_SOUTH_WALES.txt"
+    },
+    {
+      "name": "NEW_ZEALAND",
+      "start_line": 8459,
+      "end_line": 8852,
+      "line_count": 394,
+      "char_count": 15695,
+      "file": "NEW_ZEALAND.txt"
+    },
+    {
+      "name": "NOVA_SCOTIA",
+      "start_line": 8854,
+      "end_line": 9134,
+      "line_count": 281,
+      "char_count": 8838,
+      "file": "NOVA_SCOTIA.txt"
+    },
+    {
+      "name": "PRINCE_EDWARD_ISLAND",
+      "start_line": 9136,
+      "end_line": 9300,
+      "line_count": 165,
+      "char_count": 6134,
+      "file": "PRINCE_EDWARD_ISLAND.txt"
+    },
+    {
+      "name": "QUEENSLAND",
+      "start_line": 9302,
+      "end_line": 9538,
+      "line_count": 237,
+      "char_count": 13696,
+      "file": "QUEENSLAND.txt"
+    },
+    {
+      "name": "ST_CHRISTOPHERS_AND_ANGUILLA",
+      "start_line": 9540,
+      "end_line": 9710,
+      "line_count": 171,
+      "char_count": 10407,
+      "file": "ST_CHRISTOPHERS_AND_ANGUILLA.txt"
+    },
+    {
+      "name": "ST_HELENA",
+      "start_line": 9712,
+      "end_line": 9869,
+      "line_count": 158,
+      "char_count": 5853,
+      "file": "ST_HELENA.txt"
+    },
+    {
+      "name": "ST_LUCIA",
+      "start_line": 9871,
+      "end_line": 10068,
+      "line_count": 198,
+      "char_count": 13108,
+      "file": "ST_LUCIA.txt"
+    },
+    {
+      "name": "SAINT_VINCENT",
+      "start_line": 10070,
+      "end_line": 10343,
+      "line_count": 274,
+      "char_count": 18583,
+      "file": "SAINT_VINCENT.txt"
+    },
+    {
+      "name": "SOUTH_AUSTRALIA",
+      "start_line": 10345,
+      "end_line": 10903,
+      "line_count": 559,
+      "char_count": 19322,
+      "file": "SOUTH_AUSTRALIA.txt"
+    },
+    {
+      "name": "STRAITS_SETTLEMENTS",
+      "start_line": 10905,
+      "end_line": 11361,
+      "line_count": 457,
+      "char_count": 20264,
+      "file": "STRAITS_SETTLEMENTS.txt"
+    },
+    {
+      "name": "TASMANIA",
+      "start_line": 11363,
+      "end_line": 11677,
+      "line_count": 315,
+      "char_count": 13337,
+      "file": "TASMANIA.txt"
+    },
+    {
+      "name": "TOBAGO",
+      "start_line": 11679,
+      "end_line": 11873,
+      "line_count": 195,
+      "char_count": 11580,
+      "file": "TOBAGO.txt"
+    },
+    {
+      "name": "TRINIDAD",
+      "start_line": 11875,
+      "end_line": 12288,
+      "line_count": 414,
+      "char_count": 21834,
+      "file": "TRINIDAD.txt"
+    },
+    {
+      "name": "TURKS_AND_CAICOS_ISLANDS",
+      "start_line": 12289,
+      "end_line": 12384,
+      "line_count": 96,
+      "char_count": 3856,
+      "file": "TURKS_AND_CAICOS_ISLANDS.txt"
+    },
+    {
+      "name": "VICTORIA",
+      "start_line": 12386,
+      "end_line": 13112,
+      "line_count": 727,
+      "char_count": 26594,
+      "file": "VICTORIA.txt"
+    },
+    {
+      "name": "WESTERN_AUSTRALIA",
+      "start_line": 13113,
+      "end_line": 13284,
+      "line_count": 172,
+      "char_count": 6203,
+      "file": "WESTERN_AUSTRALIA.txt"
+    },
+    {
+      "name": "WEST_AFRICAN_SETTLEMENTS",
+      "start_line": 13286,
+      "end_line": 14307,
+      "line_count": 1022,
+      "char_count": 123575,
+      "file": "WEST_AFRICAN_SETTLEMENTS.txt"
+    }
+  ]
+}

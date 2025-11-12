@@ -1,0 +1,861 @@
+JAMAICA.
+
+with 73,506 pupils in average attendance, and the grant-in-aid for 1925 was £117,461.; no fees are charged. The Government maintains a system of inspection, and provides a training college for women teachers which is mainly supported from public funds, besides largely assisting the Micc undenominational training college for men, and two denominational colleges for women teachers. By an Act passed in 1892 a Board of Education was constituted. The District School Boards manage government schools, some of which are held in government buildings, others in rented buildings.
+
+A provision was made in 1892 for the opening of government secondary schools where required; there are sixteen secondary schools receiving aid from public funds under regulations for grants in aid. Secondary education is provided for in part by endowed schools, under local governments controlled by the Jamaica Schools Commission, and a number of private schools. A beginning has been made in providing from public funds for technical education. There are university scholarships (one for girls) tenable at English universities or elsewhere within the British Empire. One Rhodes Scholarship is annually awarded in Jamaica. The following examinations are held:—London University, Cambridge Locals, Oxford and Cambridge Joint Board, Associated Board of the Royal Academy of Music and the Royal College of Music, Royal Drawing Society.
+
+The Institute of Jamaica (in Kingston) is a Public Library with 24,500 books, of which 6,500 form the West India Reference Library; a Natural History Museum, with a small collection of live animals; and a Jamaica History Gallery.
+
+Industry.
+
+Fruit, consisting of bananas, oranges, &c., is now one of the largest exports, the output of oranges being 106,392 boxes, with a value of £53,125; and that of bananas being 15,017,422 stems, with a value of £1,510,625.
+
+| Item          | Quantity   | Value |
+|---------------|------------|-------|
+| Sugar         | 754,313 cwt.| £64,671 |
+| Coffee        | 104,016     | £48,087 |
+| Ginger        | 21,297      | £6,684  |
+| Limento       | 122,891     | £201,423|
+| Rum           | 1,121,332 glls.| £234,479|
+| Yewwoods      | 24,034 tons | £86,444 |
+| Cocoa         | 52,342 cwt. | £95,327 |
+| Logwood Extract| 8,310 pkgs.| £102,033|
+| Coconuts      | 26,380,697 nuts| £154,122|
+
+These figures represent the exports, there being no record of quantities consumed in the Island.
+
+The area under sugar cane in 1925-26 was 44,086 acres, and under coffee 17,860. There are 15,000 acres of Government cinchona plantations. Area under banana cultivation, 71,398 acres.
+
+The large coffee plantations are mainly on the Blue Mountain Range. Comparatively few of the large plantations remain however, and the great bulk of the coffee exported is grown by small landowners on the limestone formation, which is the principal geological area. The great fruit growing districts are in St. Mary, with Port Maria, Annotto Bay, Portland with Port Antonio, and St. Catherine, with Kingston for its outlet. Sugar is largely grown in Westmoreland and in the district of Vere Clarendon parish, and in the seaward parts of St. James and Trelawney, where the best rum in the world is produced. The cattle-raising districts are in St. Ann's, and in Hanover and Westmoreland and the western part of St. James. The uplands of Manchester parish are rich in coffee and fruit. St. Elizabeth parish grows a large quantity of logwood and other dye woods, as well as maize and fine pasture for horses and cattle.
+
+The cultivation of cotton has recently been undertaken. There are 61 acres now under cultivation.
+
+The chief imports are food stuffs, clothing, hardware, potable spirits and beer, building materials, oils, motor vehicles, cotton piece goods and cigarettes. Of the total trade of the island the greater portion is with the United States and the United Kingdom, Canada being next in importance.
+
+The following are the figures for 1925:
+
+| Imports | Exports |
+|---------|---------|
+| £       | £       |
+| United Kingdom | 1,631,916 | 1,032,649 |
+| United States | 2,143,250 | 1,593,393 |
+| Canada    | 815,629  | 834,369  |
+
+Means of Communication.
+
+There is a daily postal service throughout the island.
+
+The rates of postage are as follows:
+
+| Letters | Newspapers |
+|---------|-----------|
+| For the first oz. 1½d. | For each additional oz. or fractional part of an oz. ½d. each. |
+| For the first 1½d. | For each additional oz. or fractional part of an oz. ½d. per 2 oz. |
+| To other Postal Union countries, per 1 oz. | 2½d. per oz. after. |
+
+† Parcels post with England. Triple scale postage, up to 3 lbs. 1/7, up to 7 lbs. 2/10, up to 11 lbs. 4/-; and Kingston only, up to 22 lbs. 6/6. B.W. I. Colonies†, up to 3 lbs. 1/-, up to 7 lbs. 2/-, up to 11 lbs. 3/-; and up to 22 lbs. 5/-; only for Antigua, Grenada and Trinidad; with United States and Canal Zone, 6d. per lb., maximum 11 lbs. Canada, 6d. per lb. up to 15 lbs. maximum.
+
+The estimated number of letters and Post Cards handled is as follows:
+
+| Year 1925 |
+|-----------|
+| Internal | External | Total |
+| Outwards | Inwards |
+| Letters | 8,425,799 | 1,434,019 | 3,205,900 | 13,065,718 |
+| Post Cards | 240,325 | 107,103 | 91,300 | 438,728 |
+
+There is regular and frequent communication between Europe and Jamaica via the United States. Messrs. Elder's and Fyffe's steamers sail frequently from Liverpool. The voyage takes 13 to 14 days. The Leyland Line Steamers (West India and Pacific Branch) leave Liverpool on the
+
+† Every incoming parcel post packet containing dutiable matter bears a tax of 6d., which is collected from the addressee.
+
+‡ Jamaica has joined the arrangement for exchange of parcels with the U.K. and British W. I. Colonies.
+10th of each month, their average passage being 21 days. There is also frequent steam communication between the United States and Jamaica.
+
+Telegraphic communication with Europe is complete. The two cables from Cuba touch at Jamaica, from which they branch away via St. Thomas, to Demerara, and in the opposite direction to the Isthmus of Panama. On 31st January, 1898, the Direct West India Cable Company established communication between Jamaica and Halifax via Bermuda and Turks Island.
+
+Telegraph lines connect all the principal towns, and there are 143 telegraph and telephone stations. The total mileage open is 1,367—971 miles along roads, 186 miles P.O. lines on railway, and 210 along railway lines. The receipts in 1925 were £16,644.
+
+The railway extends from Kingston to Montego Bay, in the parish of Saint James, a distance of 112½ miles, and to Ewarton, in the parish of St. Catherine, in the other direction, by a branch line from Spanish Town of 17½ miles; and to Port Antonio by a branch line from Bogwalk, on the Ewarton branch, of 54½ miles; and by a branch line from May Pen to Frankfield, 23½ miles; also from Linstead to New Works, 2½ miles. The total length of line open is 210 miles. The railway was purchased by an American syndicate, who, under agreement, extended it to Port Antonio on the north-east, and to Montego Bay on the north-west, but the company having failed, the Government resumed possession of the line on 16th August, 1900. The total railway debt charge for 1925-26, providing for interest and repayment, is £189,093. The receipts in 1925-26 were more than the expenditure by £51,582., leaving a deficiency of £137,535. There is also a line of telegraph and telephone along the railway from Kingston to Montego Bay, 112½ miles; Spanish Town to Ewarton, 17½ miles; from Bogwalk to Port Antonio, 54½ miles; from May Pen to Frankfield, 23 miles; and from Linstead to New Works 2½ miles.
+
+The island is intersected by an extensive system of metalled and gravelled roads, suitable for motoring, the highest one passes over a gap at an elevation of a little over 4,000 feet. Owing to the configuration of the island there are many bridges and culverts and sharp turns; the maximum grades are generally 1 in 15. There are 2,266 miles of main roads, and about 4,366 miles of parochial roads.
+
+The United Fruit Co. at present run a fortnightly coasting service by steamship, calling at the principal out-ports.
+
+Kingston, Montego Bay, Falmouth, and St. Ann's Bay are ports of registry. During the year ended 31st March, 1925, no ships were built.
+
+### Finances
+
+| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |
+|------|---------|-------------|-----------------|---------------|
+| 1916-17 | 1,345,966 | 1,281,453 | 886,311 | 2,439,678 |
+| 1917-18 | 1,229,560 | 1,287,862 | 871,576 | 2,064,933 |
+| 1918-19 | 1,157,304 | 1,228,608 | 738,247 | 1,177,025 |
+| 1919-20 | 1,802,778 | 1,444,818 | 801,791 | 2,084,942 |
+| 1920-21 | 2,347,362 | 2,332,635 | 1,387,608 | 3,533,788 |
+| 1921-22 | 1,927,976 | 2,260,165 | 1,526,181 | 3,472,756 |
+| 1922-23 | 2,057,412 | 1,949,034 | 1,795,251 | 3,847,297 |
+| 1923-24 | 2,061,202 | 2,074,271 | 1,767,450 | 4,017,211 |
+| 1924-25 | 1,922,963 | 2,022,746 | 1,796,940 | 4,110,596 |
+| 1925-26 | 2,021,046 | 2,009,593 | 1,854,333 | 4,390,281 |
+
+*For the calendar year.*
+
+### Imports
+
+| Year | From U.K. | From Colonies | Elsewhere | Total |
+|------|-----------|--------------|-----------|-------|
+| 1916 | 1,008,702 | 271,103 | 1,827,199 | 3,006,904 |
+| 1917 | 623,887 | 323,640 | 2,850,138 | 3,797,665 |
+| 1918 | 642,030 | 529,346 | 2,304,421 | 3,175,797 |
+| 1919 | 1,012,576 | 674,002 | 3,399,092 | 5,085,670 |
+| 1920 | 3,063,986 | 1,047,065 | 6,202,241 | 10,313,292 |
+| 1921 | 1,601,236 | 760,220 | 3,112,275 | 5,473,731 |
+| 1922 | 1,302,762 | 879,941 | 2,398,272 | 4,580,975 |
+| 1923 | 1,523,526 | 1,078,605 | 2,679,047 | 5,270,178 |
+| 1924 | 1,437,563 | 1,113,416 | 2,276,095 | 4,826,074 |
+| 1925 | 1,631,916 | 1,234,517 | 2,530,000 | 5,396,433 |
+
+Per Parcels Post ... 249,763.
+Grand Total ... 5,636,182.
+
+### Exports
+
+| Year | To U.K. | To Colonies | To Elsewhere | Total |
+|------|---------|------------|-------------|-------|
+| 1916 | 1,225,721 | 971,475 | 624,038 | 2,821,234 |
+| 1917 | 1,112,116 | 446,750 | 920,051 | 2,478,917 |
+| 1918 | 1,347,988 | 500,644 | 836,264 | 2,684,896 |
+| 1919 | 3,567,103 | 470,852 | 1,589,372 | 5,627,327 |
+| 1920 | 3,049,080 | 1,696,500 | 2,000,430 | 6,745,910 |
+| 1921 | 994,628 | 502,470 | 1,860,594 | 3,357,692 |
+| 1922 | 1,120,593 | 991,741 | 2,511,332 | 4,623,666 |
+| 1923 | 1,241,068 | 683,703 | 2,368,467 | 4,293,238 |
+| 1924 | 787,773 | 668,043 | 1,667,145 | 3,122,961 |
+| 1925 | 1,032,649 | 882,409 | 1,999,942 | 3,814,990 |
+
+Per Parcel Post ... 20,061.
+Grand Total ... 3,935,056.
+
+Public Debt, 31st March, 1925, £4,581,175.
+
+Customs Revenue, (Import Duties) £1,860,587.
+(1924-25, 786,590)
+(1925-26, 866,871)
+
+### Population
+
+| Year | White | Coloured | Black | Indian, &c. |
+|------|-------|---------|-------|-------------|
+| 1881 | 14,432 | 109,946 | 444,186 | 12,240 |
+| 1891 | 14,692 | 121,955 | 488,624 | 14,220 |
+| 1911 | 15,605 | 163,201 | 630,181 | 22,396 |
+| 1921 | 14,476 | 157,223 | 660,420 | 25,999 |
+
+Governors since 1883.
+
+1883, Gen. Sir H. W. Norman, G.C.M.G., C.I.E.
+1888, Sir Henry Arthur Blake, G.C.M.G.
+1896, Sir A. W. L. Hemming, G.C.M.G.
+1904, Sir J. A. Swettenham, K.C.M.G.
+1907, Sir Sydney Olivier, K.C.M.G.
+1913, Sir W. H. Manning, K.C.M.G., K.C.B.
+1918, Sir Leslie Probyn, K.C.M.G.
+1924, Brig.-Gen. Sir Samuel H. K.C.M.G., K.B.E., C.B.
+1926, Sir R. E. Stubbs, K.C.M.G.
+
+Civil Establishment. £11.
+
+Note.—All salaries over £100, a year, have been subject to a deduction of 4 per cent payable to a widows' and orphans' pension scheme, and officers receiving £150, per ann., must contribute 2 per cent. of their salaries toward their pension on their retirement.
+
+Captain-General and Governor-in-Chief, Sir R. E. Stubbs, K.C.M.G., 5,000l., and 500l. duty allowance.
+Privy Council.
+
+The Senior Officer Commanding the Troops.
+The Colonial Secretary.
+The Attorney-General.
+T. L. Roxburgh, C.M.G.
+Sir William Morrison, Kt.
+A. Munro.
+A. E. Wigan.
+Clerk Privy Council, D. H. Hall, 50l.
+
+LEGISLATIVE COUNCIL.
+
+Ex-officio Members.
+
+The Captain-General and Governor, President.
+The Senior Officer Commanding the Troops.
+The Colonial Secretary.
+The Attorney-General.
+The Director of Public Works.
+The Collector-General.
+
+Nominated Members.
+
+Sir William Morrison, Kt.
+William Arthur Stirling Vickers.
+Alfred Edmund Wigan.
+Dr. Lawson Gifford.
+Lionel Albert Isaacs.
+John Herman McPhail.
+Francis Ernest Reed.
+Walter Mortimer Fraser.
+Horace Victor Myers, M.B.E.
+Dr. Basil Mayor Wilson.
+
+Elected Members.
+
+Charles Wesley Hewitt, Hanover.
+Joseph Henriques Phillippes, St. Thomas.
+James Alexander George Smith, Clarendon.
+Guy Seymour Ewen, Trelawny.
+S. Mary (vacant).
+Altamont Ernest Da Costa, M.B.E., Kingston.
+Emanuel Vivian Wesley Mellad, Portland.
+Peter Watt Sangster, St. Elizabeth.
+George Seymour Seymar, St. Andrew.
+Thomas James Cowley, St. Catherine.
+Philip Frazer Lightbody, St. James.
+Alfred George Nash, Manchester.
+Dunbar Theophilus Wint, St. Ann.
+Frederick Richard Evans, Westmoreland.
+Clerk of the Legislative Council, Harold V. Alexander (acting), 450l.
+Deputy Clerk, E. G. Soutar, 160l. to 275l.
+
+Colonial Secretary's Office.
+
+Colonial Secretary, A. S. Jelf, C.M.G., 1,500l.
+Assistant Colonial Secretary, C. W. Doorly, 800l. to 1,000l.
+
+2nd Assistant Colonial Secretaries, D. H. Hall, A. R. Dignum, 550l. to 650l.
+Principal Clerks, P. G. Duff, E. C. Aitken and H. Nankivell, 450l. to 550l.
+
+First Class Clerks, J. D. Lucie-Smith, S. M. F. Binns, W. P. O'B. Thomson, 325l. to 450l.
+Second Class Clerks, F. C. H. Wilson, L. C. Roberts, C. L. Swaby and A. C. Thomas, 200l. to 325l.
+Assistants, W. A. Cover, J. L. Gayner and E. P. Buckley, A. H. Richards, 100l. to 200l.
+
+Superintendent Government Printing Office F. B. Passingham, 500l. to 600l.
+Deputy Superintendent, W. J. Papps, 300l. to 400l.
+
+Department of Public Works.
+
+Director, H. Simms, M.V.O., Assoc. M. Inst.C.E., 1,200l. by 50l. to 1,350l.
+Deputy Director, N. Roots, M. Inst.C.E., 800l. to 1,000l. by 50l.
+
+Assistant Director, D. L. Feurtado, 650l. by 50l. to 750l.
+Inspecting Engineers, J. M. Fletcher, A.M. Am. S.C.E., Col. F. S. I., and P. M. Cooper, Assoc. M. Inst.C.E., 500l. to 650l. by 50l.
+Superintendent for Irrigation, F. E. Taylor, 300l. to 400l. and 130l. travelling allowance.
+
+1st Class Superintendents, J. E. Streadwick, C. S. Farquharson, C. S. Henriquez, R. W. Willcocks, G. S. R. Walcott, J. G. Cover, A. M. Gold, and T. E. Terrier, 400l. to 500l.
+
+2nd Class Superintendents, A. M. Hall, D. H. Lynch, C. L. Phillips, H. P. Rubie, G. H. E. Lyons, L. B. Spence and H. F. Hoyes, 300l. to 400l.
+
+Superintendent Public Works Stores, L. B. Bloknell, 400l. to 500l.
+Superintendent Machinery, A. Scarfi, 400l. to 500l.
+Chief Draftsman, J. G. Young, A.R.I.B.A., 400l. to 500l., and Assistant Draughtsman, H. M. Pratt, 300l. to 400l.
+
+Accountant, H. C. Livingston, 400l. to 500l.
+Chief Clerk, G. S. Cox, 400l. to 500l.
+
+1st Class Clerks, H. E. Pigou, H. Hylton and H. E. Mendes, 300l. to 400l.
+
+2nd Class ditto, D. C. Mais, W. O. Duval and D. P. Lacy, 160l. to 275l.
+
+Assistants, F. A. Hamilton, C. G. Hill, O. D. Sanguinetti and S. M. Bramwell, 100l. to 160l.
+
+Lighthouses.
+
+Superintendent, Morant Point, C. Durant, 200l. to 250l.
+Superintendent, Negril Point, J. S. Brownhill, 200l. to 250l.
+
+Crown Lands Department.
+
+Surveyor-General, W. A. Baker, F.R.G.S., F.S.I., 800l.
+Assistant Surveyor-General, H. D. Rogers, 500l. to 600l.
+
+Surveyors, H. W. Bowker, F.R.G.S., E. D. Fort, 400l. to 500l. each (one vacant).
+
+Accountant and First Class Clerk, G. C. Foster, 300l. to 400l.
+
+Temporary Clerk, H. M. Bond, 160l.
+
+Draughtsman, A. E. McNaught, 150l.
+
+Assistant, I. Cleary and W. G. Parkinson, 100l. to 160l. each.
+
+Railways.
+
+Director, J. Powter, 1,200l. to 1,350l.
+Office Superintendent, Directors' Office, H. G. Pascoe, 400l. to 500l. Personal allowance, 50l.
+
+Secy. Advisory Board, 25l.
+
+Chief Engineer (vacant), 700l. to 800l.
+
+District Engineer, J. E. Bird, 650l. and house allowance.
+
+Junior Assistant Engineer, V. J. Streadwick, A.R.I.B.A., 400l. to 450l.
+
+Telegraph and Telephone Inspector, E. H. Cartwright, 400l. to 450l.
+
+Senior Clerk, Engineer of Way and Works Office, H. A. Hamilton, 300l. to 400l.
+
+Locomotive, Carriage and Wagon Superintendent, P. M. McKay, 600l. to 800l.
+
+Chief Clerk, Locomotive Branch, A. L. Wilson, 400l. to 500l.
+
+Traffic Superintendent, H. C. Powell, 600l. to 900l.
+
+Chief Clerk, Traffic Branch, W. G. Gigg, 450l. to 500l.
+Chief Trains Controller, H. E. de Casseres, 400l.
+Goods Agent, Kingston (vacant), 300l. to 400l.
+Chief Accountant, G. C. Gunter, 600l. to 700l.
+Assistant Accountant, A. B. Milner, 400l. to 500l.
+Pay Clerk, S. A. McLaverty, 300l. to 400l.
+Superintendent, Stores, Alan Farquharson, 500l. to 600l.
+
+Agricultural Society.
+The Governor, President.
+Three Vice-Presidents (elected).
+An elected Board of Management (14 members).
+The Director of Agriculture (ex-officio).
+Secretary and Treasurer, J. Barlow, 700l.
+Assistant Secretary, L. L. Carrington, 400l. to 500l.
+Accountant, D. G. Macdonald, 300l.
+Fourteen Agricultural Instructors, 175l. to 500l.
+(includes travelling allowance).
+Supervisor of Instructors, E. Arnett, 700l.
+(includes travelling allowance).
+
+Department of Science and Agriculture.
+Director of Agriculture and Island Chemist, H. H. Cousins, M.A., 850l. to 1,000l., quarters.
+Chief Clerk, G. D. Goode, 400l. to 500l., with quarters.
+2nd Class Clerk, W. E. Watson, 160l. to 275l.
+Assistants, R. A. White and Miss E. Marson, 100l. to 160l.
+Accountant, N. B. Donaldson, 250l.
+Superintendent of Public Gardens and Plant Breeder, M. S. Goodman, 400l. with quarters.
+Horticulturist, E. Downes, 350l. and quarters.
+Microbiologist (vacant), 600l. to 750l.
+Entomologist, C. C. Gowday, B.Sc., F.E.S., 500l. to 750l.
+Deputy Island Chemist, W. L. Barnett, M.A., B.Sc., A.I.C., 550l. to 750l.
+Assistant to Deputy Island Chemist, E. N. Richards, 275l. to 350l.
+Technical Assistant, H. B. Cole, 100l. to 160l.
+Clerk and Storekeeper, V. Nelson, 100l. to 160l.
+Superintendent of Agriculture, P. W. Murray, 400l. to 500l.
+Travelling Instructors, W. Cradwick, 400l., J. Briscoe, 250l.
+Veterinary Surgeon, Dr. S. Lockett, D.V.S., 500l. to 750l.
+Supervising Inspector of Plant Diseases, J. B. Sutherland, 275l. to 350l.
+Inspectors of Plant Diseases, H. G. Coote, E. M. Brown, N. R. McHardy, A. T. Wilmot, N. A. Wainwright, W. S. Withingham, 150l. to 250l., and seven Additional Inspectors, 150l.
+Headmaster Farm School, R. S. Martinez, 350l. and quarters.
+Assistant Masters, A. F. Thelwell and L. A. Powell, 160l. to 250l., with board and quarters.
+Farm Foremen, T. P. Lecky, F. Martin, 100l. to 160l.
+Superintendent, Grove Place Stud Farm (vacant), 300l., with quarters.
+Stock Manager, Grove Place Stud Farm, E. U. Lewis, 200l., with quarters.
+
+Agricultural Loan Societies Board.
+Secretary, C. J. Hay, 500l.
+Inspecting Officer, E. L. Jack, 300l. to 400l.
+Assistant, Miss M. L. Hyman, 100l. to 160l.
+
+Institute of Jamaica.
+Secretary and Librarian, Frank Cundall, F.S.A., F.R. Hist. S., 600l.
+Assistant Librarian, Miss H. W. Morris, 250l.
+Clerical Assistant, Miss C. Dias, 200l.
+Accountant and Library Superintendent, Miss A. M. Duncker, 200l.
+Library Assistants, Miss M. Magnan, 125l., Miss V. Nash, 100l.
+Superintendent of Museum, Miss H. A. Wood, 200l.
+
+Audit Office.
+Auditor-General, C. G. H. Davis, 800l. to 1,000l.
+Deputy Auditor-General, J. L. Pietersz, 500l. to 600l.
+Senior First Class Clerk, C. K. Kelly, 350l. to 450l.
+First Class Clerks, J. M. Burke, G. V. Livingston, A. W. Perkins, O. A. Burrowes, 300l. to 400l.
+Second Class Clerks, R. C. Henriques, O. R. Nunes, L. R. Francis, Miss J. A. Leake, H. W. McNair, H. M. Littlejohn, 160l. to 275l.
+Assistants, Miss O. A. Hollar, V. A. Wilson, Miss I. Ware, Miss M. Facey, A. L. Gabay, 100l. to 160l.
+
+Treasury.
+Treasurer, (vacant), 900l.
+Deputy Treasurer, W. M. Fraser, 500l. to 600l.
+Senior 1st Class Clerk, C. G. C. Kerr, 350l. to 450l.
+Cashier, O. S. V. Brown, 160l. to 275l.
+Clerks, 1st Class, E. G. Wilson, H. E. A. Romney, F. P. Bond, A. L. Hylton, 300l. to 400l.
+Clerks, 2nd Class, J. E. C. McFarlane, V. L. Cappé, R. D. Robinson, H. M. White, E. A. Gadshaw, A. A. Box, J. C. Mordecai and A. M. Brown, 160l. to 275l.
+Assistants, Miss M. E. Thomas, R. B. Marks, N. F. Holtz and L. T. Moody, 100l. to 160l.
+
+Currency Notes.
+Clerk, 1st Class, J. R. Lowia, 300l. to 400l.
+Clerk, 2nd Class, L. J. McPherson, 160l. to 275l.
+Assistant, Miss L. Higginson, 100l. to 160l.
+
+Government Savings Bank.
+Manager, The Public Treasurer.
+Secretary, A. G. Richards, 250l.
+Accountant, A. G. Richards, 400l. to 500l.
+Cashier, E. P. Andrews, 300l. to 400l.
+1st Class Clerks, J. B. Facey and A. B. Wood, 300l. to 400l.
+2nd Class Clerks, F. A. Erskine, E. J. Andrews and L. A. Hall, 160l. to 275l.
+Assistants, Miss B. Dumont, Miss I. Sanguinetti, and Miss G. M. Logan, L. E. Royes, R. N. Sheridan, H. D. Mitchell, E. V. McMillan, 100l. to 160l.
+
+Stamp Office.
+Stamp Commissioner, R. Nosworthy (holds this office in conjunction with that of Collector-General).
+Deputy Stamp Commissioner, C. C. Manton, 500l. to 600l.
+1st Class Clerk, G. A. Howden, 300l. to 400l.
+2nd Class Clerk, L. L. Ingram, 160l. to 275l.
+Assistant, J. A. Wilson, 100l. to 160l.
+Post Office.
+
+Postmaster for Jamaica, R. H. Fletcher, 700l. to 800l.
+Assistant Postmaster, H. C. Savage, 500l. to 600l.
+Travelling Supervisor and Electrical Inspector, G. A. Rock, 550l. to 650l.
+Chief Clerk and Accountant, S. W. Royes, 400l. to 500l.
+Superintendent, Telegraphs, T. J. Guilfoyle, 450l. to 500l.
+Assistant Superintendent, Telegraphs, S. P. Bather, 300l. to 400l.
+1st Class Clerks, W. E. B. Sinclair, A. E. Pullar, T. H. Smith, W. A. Campbell and A. E. Fielding, 300l. to 400l.
+2nd Class ditto, E. L. Morris, G. F. White, L. Lewis, V. H. Murphy, E. M. Morales, B. C. Marsh, E. O. Marson and R. Charlton, 160l. to 275l.
+Assistants, A. V. Nash, N. A. Pomier, E. Sevright, V. Isaacs, G. S. Grannum, A. H. Durant, M. F. Guilfoyle, D. G. Priestley, S. E. Fyfe, R. E. A. Maia, W. E. Ashman, G. E. Feres and R. W. Grant, 100l. to 160l.
+Auxiliary Female Staff, District Postmasters, Telegraph Clerks and Assistants, 332 = 25,179l.
+
+Revenue Department.
+
+Collector-General, R. Nowworthy, C.M.G., 1,000l.
+Supervisor (vacant), 600l. to 700l., Val. Comr., 60l.
+Chief Clerk, J. W. Gayner, 400l. to 500l. (Sec. Marine Board, 80l.).
+1st Class Clerks, M. A. Sullivan, H. C. Stedman, G. A. Robinson, S. A. Chambers, and W. De Witt Logan, 300l. to 400l.
+2nd Class Clerks, Emily J. Vine, V. E. Johns, R. K. Stimpson, D. K. Wynter, W. S. Murray, C. T. Livingstone, and H. G. Williams, 160l. to 275l.
+Assistants, H. G. R. Irons, R. O. L. Guilfoyle, I. L. Lewis, O. M. Royes, V. L. Cover, N. G. Gregory and L. A. Falls, 100l. to 160l.
+1st Class Collectors of Revenue, C. H. Vidal Hall, R. F. Wilson, J. H. B. Mais and W. C. Gauntlett, 500l. to 600l.
+2nd Class Collectors of Revenue, E. B. Levy, E. C. Harriott (40l. travelling), E. T. Reid, D. N. Norman, L. G. Carvalho, A. P. Williams, T. E. Fray, D. T. Seaton, J. M. Fonseca, and G. L. Faddy, 450l. to 500l.
+Assistant Collectors of Revenue, C. R. Campbell (25l. travelling), E. A. Millingen, (56l. travelling), D. E. Lofthouse (115l. travelling), H. L. Murray (36l. travelling), D. G. Archer (68l. travelling), V. H. Fonseca (100l. travelling), H. B. Batley (62l. 10s. travelling), R. H. Nicholas (130l. travelling), A. J. Depass (100l. travelling), J. A. M. Smith (100l. travelling), T. A. Foote (100l. travelling), St. G. V. Thompson (135l. travelling), A. H. Packer (135l. travelling), J. C. Whyte (150l. travelling), C. H. Cameron (145l. travelling), C. M. Arscott (120l. travelling), E. A. Swaby (120l. travelling), O. S. L. Hogarth (100l. travelling), J. S. Lopez (100l. travelling), F. L. Nicholas (25l. travelling), and J. W. Weller, 300l. to 400l.
+2nd Class Landing Waiters, D. D. Oliver, E. A. Davis, D. B. Barned (12l. 10s. travelling), G. T. Farquharson, J. F. S. Hill, E. C. Forbes, A. J. Barned, E. A. Steele, L. A. Robertson, H. E. Hitchens, C. F. Crooks, H. A. Wallace, S. S. Owen, 160l. to 275l.
+
+Lockers and Gaugers, N. V. Millongen, W. P. Watkins, E. D. G. Coombs, J. A. Binns, W. L. Crawford, G. T. Foster, and D. A. Saunders, 160l. to 275l.
+End Class Clerks, J. H. Scott, D. A. Stirling, O. W. Grossett, L. F. Reid, J. P. H. McLaughlin, W. B. Clark, C. A. Robinson, H. A. Ellis, I. A. Wallace, H. V. Lewis, A. B. Bradford, A. D. V. Gauntlett, A. M. Bennett, H. B. Brown and R. O. Evans, 160l. to 275l.
+Outdoor Officers, H. S. Payne, G. W. Facey, J. L. Hill, E. A. Smith, R. A. Oliver, and L. B. Wallace, 100l. to 160l.
+Assistants, Ida R. Cooke, E. H. S. Barnett, J. C. Smith, S. C. Gordon, F. S. Box, E. Thompson, J. M. Jones, J. S. Marshall, E. J. Gale, E. G. Banks, H. A. Francis, S. N. Ingram, R. L. Bramwell, E. S. T. Carnegie, G. L. Miles, E. L. Munroe, S. J. Parry, R. A. Craig, C. T. Johnson, J. C. A. Campbell, R. L. C. Aaron, V. L. James, K. F. Dickson, W. T. Tomlinson, S. A. Stewart, G. A. T. Eaton and I. A. Arscott, 100l. to 160l.
+
+Customs, Kingston.
+
+Collector, Shipping Master, and Inspector of Invoices, G. S. Shaw, 600l. by 25l. to 650l.
+Chief Clerk, A. T. Pullar, 400l. to 500l.
+1st Class Clerks, K. V. Samuel, L. D. Brandon, V. A. Bird and C. L. Campbell, 300l. to 400l.
+2nd Class Clerks, A. H. C. Packer, L. C. Isaacs, F. G. Burrowes, G. R. Johns, L. A. Doran, and A. G. Turner, 160l. to 275l.
+Assistants, G. V. Aarons, J. A. Francis, A. V. L. Cummings, and G. R. Simpson, 100l. to 160l.
+Surveyor, G. A. Gauntlett, 400l. to 500l.
+Assistant Surveyor, C. H. Dickson, 300l. to 400l.
+1st Class Landing Waiters, A. E. Marshall, A. J. Mohrman, D. V. Jacobs, E. T. Moore, A. C. Murray, R. R. Facey, F. R. Dehaney, R. Hutton, O. H. Nash, 300l. to 400l.
+Tide Surveyor, Port Royal, F. C. Lofthouse, 300l. to 400l.
+First Class Outdoor Officers, J. H. Smith, B. C. Hilton, J. A. Francis, E. B. Stanley and S. Walker 140l. to 160l.
+Second Class Outdoor Officers, R. V. Steele, H. Taylor, H. Forbes, F. H. Steadman, H. S. Hall, H. Willoughby, G. W. Gibbons and D. A. Hudson, 125l. to 140l.
+Third Class Outdoor Officers, W. C. Phillips, C. H. Ferguson, C. S. Willis, C. H. Cooke, P. Harvey, N. H. Franklin, A. S. B. D'oyly, A. A. Johnson, L. E. Phillibert, A. R. Phillips, H. E. St. A. Hollar and S. H. Donaldson, 100l. to 120l.
+
+Income Tax Office.
+
+Inspector, R. S. Murray, 500l. to 600l.
+Chief Clerk, W. A. E. Pigou, 400l. to 500l.
+1st Class Clerks, A. T. Pullar and S. M. Ffrench, 300l. to 400l.
+2nd Class Clerks, G. H. Scott, P. F. Francis, E. H. Evans, and G. P. Stephenson, 160l. to 275l.
+Assistant, Ina, D. Fletcher, 100l. to 160l.
+
+Clerks to Parochial Boards on Civil Establishment.
+
+R. P. Collymore, and F. B. Bowen, 130l. to 150l.
+
+Harbour Master.
+
+Lieut. J. H. Owen, D.S.C., R.N.R., 650l.
+Deputy Harbour-Master, J. W. Gayner.
+Immigration Department.
+
+Agent in India, Calcutta.†
+Agent at Madras.†
+Protector of Immigrants in Jamaica, F. N. Isaacs (acting), 175l.
+Assistant, P. J. Arms, 100l. to 160l.
+
+Jamaica Constabulary.
+
+Inspector-General, M. D. Harrel, O.B.E., 800l.
+Deputy Inspector-General, W. H. F. Sidley, 450l. to 500l., servant, 36l. 10s.
+1st Class Inspectors, J. C. Knollys, M. B. O'Sullivan, T. J. Field, H. J. Dodd and O. F. Wright, 450l., servant, 36l. 10s.
+2nd Class Inspectors, W. P. C. Adam, W. A. Orrett, L. R. O'Hanlon (Detective), W. Magee, and J. M. O'Connor, 400l., servant, 36l. 10s.
+3rd Class Inspectors, G. O'Toole, R. C. Waters, F. N. Miles, W. V. Beaumont, H. I. Parker, E. G. Orrett, and T. N. Drake, 350l., servant, 36l. 10s.
+Sub-Inspectors, R. T. Michelin, C. A. Smith, J. H. H. Clark and J. Murphy, 200l. to 250l., uniform, 25l., motor car allowance, 75l., servant, 36l. 10s.
+
+[The above officers have either quarters provided for them or an allowance.]
+
+Chief Clerk, G. R. Rickards, 400l. to 500l.
+1st Class Clerk, E. Poulla, 300l. to 400l.
+2nd Class Clerks, H. J. F. Kerr, 160l. to 275l., W. D. Campbell, 160l. to 275l., S. A. O. Martin, 160l. to 275l., and G. L. Keeling, 160l. to 275l.
+Assistants, V. F. Foster, 100l. to 160l., V. A. Pomier, 100l. to 160l., H. R. Hendricks, 100l. to 160l., H. A. Abrahams, 100l. to 160l.
+
+Passport and Permit Officer,
+Passport and Permit Officer, J. W. Sheridan, 250l.
+Assistant, M. L. Johns, 100l. to 160l., and Temporary Staff of 4.
+
+Defence.
+
+Staff Officer, Local Forces, Lt. A. R. Ford.
+
+Prison Department.
+
+Director of Prisons (vacant), 650l. and quarters, 100l.
+1st Class Clerk, A. W. Burke, 300l. to 400l.
+General Penitentiary Superintendent (vacant), 400l., and quarters.
+Surgeon, Dr. G. S. Escoffery, 450l.
+Overseer of Works, J. Walker, 300l.
+Salesman, E. M. MacMillan, 120l. to 180l.
+2nd Class Clerks, S. F. Hearne, J. Johnston, 160l. to 275l.
+Assistant, E. G. Hearne, 100l. to 160l.
+Chief Warden, W. H. Cox, 225l. to 275l., and quarters.
+Chief Warden and Storekeeper (vacant), 225l. to 275l., and quarters.
+Principal Warders, C. T. Phillips, H. A. D. Noad, R. K. Bird and F. J. Horner, 200l. to 225l., and quarters.
+Matron Female Prison, Miss E. M. Mason, 140l. to 200l.
+Superintendent of St. Catherine District Prison, A. F. Gear, 300l. to 400l., and quarters.
+Chief Warden, R. B. Parkinson (acting), 225l. to 275l., and quarters.
+
+† Duties performed by Protector of Emigrants at Calcutta and Madras, for which they receive a small remuneration.
+
+Principal Warders, G. Anderson, T. E. Rippin and C. J. Lawrence, 200l. to 225l., and quarters, L. J. Hobson, Assistant, 100l. to 160l., J. E. Wakefield, Clerical Aid, 100l.
+Preventive Detention Section, Principal Warden, J. Coughlin, 200l. to 225l., and quarters.
+Superintendent of Boys' and Girls' Industrial School, Stony Hill, J. J. G. Mair, 300l. to 400l., and quarters.
+Assistant Superintendent, C. H. Dent, 160l. to 275l., and quarters.
+
+Registrar-General's Department.
+
+Registrar-General of Births, Marriages, and Deaths, A. R. Suares (also Deputy Keeper of Records), 600l.
+First Class Clerk, S. L. Thompson, 300l. to 400l.
+Second Class Clerk, H. A. Carnegie, 160l. to 275l.
+Assistants, G. G. Fleming, E. M. Sanguinetti, H. B. Sherlock, J. L. Grant and I. H. De B. Holtz, 100l. to 160l.
+
+Island Record Office.
+
+Keeper of Records, The Chief Justice (ex-officio).
+Deputy Keeper of Records, A. R. Suares.
+2nd Class Clerks, O. A. Lyon, and J. F. Rickards, 160l. to 275l.
+Examiner of Records, M. I. Russell, 100l. to 160l.
+Search Room Clerk, C. M. Hinchliffe, 100l. to 160l.
+
+Titles Office.
+
+Registrar of Titles, C. E. Mellish, 600l.
+1st Class Clerk, S. G. Sanguinetti, 300l. to 400l.
+2nd Class Clerk, James M. Richardson, 160l. to 275l.
+Assistants, W. R. Cooke, L. A. Smart, 100l. to 160l.
+
+Medical Department.
+
+Superintending Medical Officer, B. M. Wilson, 1,000l. to 1,200l.
+Chief Clerk, M. C. Solomon, 400l. to 500l.
+1st Class Clerk, B. M. Clark, 300l. to 400l.
+Medical Storekeeper and 1st Class Clerk, C. Don, 300l. to 400l.
+First Assistant Medical Storekeeper, S. M. Edwards, 250l. to 350l.
+Second Assistant Medical Storekeeper, C. H. Seale, 100l. to 160l.
+2nd Class Clerk, E. A. Morris, 160l. to 275l.
+Assistants, E. M. Cupidon, A. S. McCarthy, Miss E. N. Fletcher, Miss V. L. Hollar, 100l. to 160l.
+Senior Medical Officer, Public Hospital, G. H. K. Ross, 700l., house allowance, 150l., personal allowance, 100l.
+Resident Medical Officers, A. S. Westmorland, G. F. Baxter, A. de Mercado, and 1 vacant, 600l.
+Bacteriologist, A. W. Grae, 700l. to 800l.
+1st Assistant, S. M. Dailey, 160l. to 275l.
+2nd Assistant, J. Reid, 150l.
+Dental Surgeon, S. C. De Pass, 150l.
+Matron, Miss A. J. Douglas, 250l. to 300l.; uniform, 12l. per annum; light, 6l.; servant, 16l. per annum; rations 1s. 6d. per day; furnished quarters.
+Assistant Matron, Miss A. Walton 130l. to 170l.; uniform, 12l.; light, 6l.; rations, 1s. 6d. per day; lodging allowance, 60l. per annum.
+Dispenser, R. A. N. Gordon, 160l. to 275l.
+Warden, C. H. Valencia, 200l.
+Supernumerary Medical Officer, L. M. Clark, 400l.
+
+Senior Sanitary Medical Officer, G. C. Straithain, 800l. to 1,000l.
+
+Health Officer at Port Royal for the Port of Kingston and Quarantine Station, J. N. McIntoosh (ag.), 425l. to 600l.
+
+District Medical Officers, Drs. A. A. Anderson, S. J. Arthurs, R. M. Atkinson, F. W. W. Baillie, J. A. Barnes, T. M. Bartlett, J. A. L. Calder, G. P. Campbell, L. M. Clark, A. T. Clarke, A. G. Curphey, R. H. Davidson, T. A. Dryden, C. R. Edwards, W. L. Eccoffery, F. R. Evans, W. G. Farquharson, E. D. Gideon, L. Gifford, G. Hargreaves, C. E. Harvey, S. A. Isaacs, C. D. Johnston, H. Joslen, G. I. Leesane, W. O. R. Lofthouse, L. B. Lyon, A. G. McKenley, A. M. Mills, C. A. Moseley, R. Mott-Trille, A. E. C. Myers, F. A. Ritchie, G. H. Robertson, N. Sanford, R. G. Sherlock, F. A. Sinclair, R. M. Stimpson, H. T. Strudwick, D. L. Tate, A. W. Thomson, A. J. Thomas, J. A. Watson, W. R. Wilson, J. H. Clarke (ag.). 1 at 300l. salary and fees. 7 at 250l., salary and 75l., trav. alce. and fees. 37 at 200l. salary and fees.
+
+Lepers' Home.
+
+Medical Attendant, G. P. Campbell, 175l.
+
+Superintendent and Dispenser, E. A. A. Levy, 150l. to 300l.
+
+Matron, Miss M. McPherson, 100l. to 150l.
+
+Lunatic Asylum.
+
+Medical Superintendent, Capt. R. W. D. Hewson, R.A.M.C., 700l. to 800l.
+
+First Assistant Medical Officer, J. S. Myers, 600l. to 700l.
+
+Second Assistant Medical Officer, J. J. Cameron, 500l. to 600l.
+
+Third Assistant Medical Officer, U. N. Murray, 500l. to 600l.
+
+Clerk and Purveyor, R. R. Wynter, 300l. to 400l.
+
+Second Class Clerk, A. E. Nicholas, 160l. to 275l., allowance for shortage, 2l.
+
+Chief Male Attendant, T. P. Preston, 140l. to 200l.; allowance for uniform, 9l.; allowance for soap, etc., 4l.
+
+Assistant, Israel Jervis, 100l. to 160l.
+
+Victoria Jubilee Lying-in Hospital.
+
+Visiting Surgeon (vacant) 200l.
+
+Matron, Miss M. E. Thompson, 250l. to 300l.; rations, 1s. 6d. per day; uniform, 12l. per annum; washing, 12l. per annum; servant, 16l. per annum. Furnished quarters.
+
+Judicial and Legal.
+
+Chief Justice, and Keeper of the Records, Sir F. C. A. Barrett-Lennard, Kt., 2,000l.
+
+First Puise Judge, H. I. C. Brown, 1,200l.
+
+Second Puise Judge, Attorney-General, F. C. Wells Durrant, K.C., 1,500l.
+
+Clerk to ditto, O. E. Tomlinson, 300l. to 400l.
+
+*Assistant to Attorney-General, H. M. Radcliffe, K.C., 250l. by 50l. to 500l., and private practice.
+
+Crown Solicitor, G. Harvey Clark, 1,200l.
+
+Chief Clerk Crown Solicitors Office, G. C. Sandford, 300l. to 400l.
+
+Registrar and Librarian of the Supreme Court of Judicature, L. I. de Montagnac, 700l.
+
+Chief Clerk, Reginald Seaton, 400l. to 500l.
+
+Second Class Clerk, C. O. Segre, 160l. to 275l.
+
+Assistant, V. E. Roberts, 100l. to 160l.
+
+Usher, Supreme Court, J. M. Reeves, 160l., personal allowance, 40l.
+
+Administrator-General and Trustee in Bankruptcy, J. M. Nethersole, 500l., and fees.
+
+Deputy Administrator-General and Trustee in Bankruptcy, Alan O. Ritchie, 500l. to 600l.
+
+First Class Clerks, W. A. Lindo, G. B. Corbett, M. L. Levy, W. Kirkpatrick, C. A. Rickards, 300l. to 400l.
+
+Second Class Clerks, G. V. Rennie, A. S. Lyon, E. N. Bird, J. M. Hippolyte, R. E. Collins, H. F. Barry, H. D. Chambers, 160l. to 275l.
+
+Assistants, I. B. O'Sullivan, L. Bonitto, S. C. Curtin, Miss E. L. Johnston, 100l. to 160l.
+
+Resident Magistrates.
+
+Kingston, A. K. Agar, 800l.
+
+St. Andrew, H. C. Robinson, 800l.
+
+St. Catherine, C. H. York Blader, 800l., travelling allowance, 100l.
+
+St. Thomas, (vacant), 800l., travelling allowance, 100l.
+
+Portland, L. C. Levy, 800l., travelling allowance, 100l.
+
+Westmoreland, C. M. Ogilvie, 800l., travelling allowance, 80l., and 5d. per mile.
+
+Hanover, J. Verity, 800l., travelling allowance, 80l., and 5d. a mile.
+
+St. Ann, R. B. Bodilly, 800l., travelling allowance, 80l., and 5d. per mile.
+
+Clarendon, K. R. Brandon, 800l., travelling allowance, 80l., and 5d. per mile.
+
+St. Mary, 750l., travelling allowance, 80l., and 5d. per mile.
+
+St. Elizabeth, R. J. Manning, 800l., travelling allowance, 80l., and 5d. per mile.
+
+Manchester, (vacant), 800l., travelling allowance, 80l., and 5d. per mile.
+
+Trelawny, A. C. Robinson, 800l., travelling allowance, 80l., and 5d. per mile.
+
+St. James, E. V. G. Cooper, 800l., travelling allowance, 130l.
+
+Resident Magistrates, unallocated, T. D. H. Bruce, B. Burrowes, 800l., and travelling allowance.
+
+Clerks of the Courts.
+
+Kingston (vacant), 400l. to 500l.
+
+St. Andrew, C. M. McGregor, 400l. to 500l., travelling allowance, 100l.
+
+St. Catherine, A. D. Thomson, 400l. to 500l., travelling allowance, 80l.
+
+St. Thomas, H. G. Gauntlett, 400l. to 500l., travelling allowance, 100l.
+
+Portland, W. A. Duffus, 400l. to 500l., travelling allowance, 100l.
+
+Westmoreland, J. M. Nethersole, Jr., 400l. to 500l., travelling allowance, 80l., and 5d., per mile.
+
+Clarendon, P. C. Ogilvie, 400l. to 500l., travelling allowance, 80l., and 5d. per mile.
+
+St. Elizabeth, R. H. McLaughlin, 400l. to 500l., travelling allowance, 162l.
+
+St. Ann, W. Scholefield, 400l. to 500l., travelling allowance, 100l.
+
+* Referee of Titles.
+St. Mary (vacant), 400l. to 500l., travelling allowance, 130l.
+
+Manchester, W. O. Reid, 400l. to 500l., travelling allowance, 80l., and 5d. per mile.
+
+Trelawny, H. A. Cooper, 400l. to 500l., travelling allowance, 80l., and 5d. per mile.
+
+St. James, A. J. Cox, 400l. to 500l., travelling allowance, 130l.
+
+Hanover, W. H. B. Cathcart, 400l. to 500l., travelling allowance, 100l.
+
+Senior Assistant Clerks of Courts.
+
+Kingston, H. O. Hendriks, 350l.; L. V. D. Turner, 200l. to 300l.
+
+St. Thomas, H. A. Levy, 200l. to 300l.
+
+Portland, C. H. Collman, 200l. to 300l.
+
+St. Mary, N. A. Clare, 200l. to 300l.
+
+St. Ann, L. A. Hopwood, 200l. to 300l.
+
+Trelawny (vacant), 200l. to 300l.
+
+St. James, S. T. Ellington, 200l. to 300l.
+
+Hanover, F. St. J. Hill, 200l. to 300l.
+
+Westmoreland, J. S. Wiggen, 200l. to 300l.
+
+St. Elizabeth, G. A. Hogg, 200l. to 300l.
+
+Manchester (vacant), Jr., 200l. to 300l.
+
+Clarendon, A. C. McIntosh, 200l. to 300l.
+
+St. Catherine, B. G. McDonald.
+
+Assistant Clerks of Courts.
+
+Kingston, A. H. Cotterell, 100l. to 160l.
+
+St. Andrew, T. L. W. Tucker, 100l. to 160l.
+
+St. Thomas, H. H. Blackwood, 100l. to 160l.
+
+Portland, C. Bedasee, 100l. to 160l.
+
+St. Mary I. D. Eccleston, 100l. to 160l.
+
+St. Ann, Claud Polack, 100l. to 160l.
+
+St. James, V. L. Scott, 100l. to 160l.
+
+Trelawny, C. N. MacCartney, 100l. to 160l.
+
+St. Elizabeth, R. R. Phillips, 100l. to 160l.
+
+Hanover (vacant), 100l. to 160l.
+
+Westmoreland, C. W. Cox, 100l. to 160l.
+
+St. Elizabeth, C. S. Grant, 100l. to 160l.
+
+Manchester (vacant), 100l. to 160l.
+
+Clarendon, C. J. St. L. Henry, 100l. to 160l.
+
+J. E. Gordon, 100l. to 160l.
+
+St. Catherine (vacant), 100l. to 160l.
+
+L. I. Davis, 100l. to 160l.
+
+H. G. Keeling, 100l. to 160l.
+
+Kingston Court.
+
+Judge, C. E. Law, 900l.
+
+Clerk, S. L. Scott, 350l.
+
+Senior Assistant Clerk, W. M. Penny, 160l. to 275l.
+
+Assistant Clerks, D. McK. Seivwright, (vacant), 100l. to 160l.
+
+Education Department.
+
+Director of Education and Inspector of Industrial Schools, P. J. O'L. Bradbury, M.A., 800l. to 1,000l.
+
+Assistant Director of Education, G. H. Deerr, M.A., 500l. to 600l.
+
+Supervising Inspector of Secondary Schools, W. H. Mitchell, M.A., 500l.
+
+Examiner, H. Hughes, M.A., 400l. to 500l.
+
+Chief Inspectors of Schools, E. V. Lockett, B.A., (two vacancies), 400l. to 500l.
+
+Inspectors of Schools, W. J. Morinan, C. D. Neilson, A. A. Kennedy, B.A., C. W. Howard, B.A., S. A. Schliefer, C. Mc L. Morales, B.A., 375l. to 450l.
+
+Assistant Inspectors of Schools, A. Chambers, K. N. Phillips, E. A. Tomlinson, R. H. Kerr, G. M. Bygrave, C. H. Williams, J. J. Simpson, M. A. Graham, A. L. Neita, 200l. to 300l.
+
+Chief Clerk, W. A. Logan, 400l. to 500l.
+
+1st Class Clerk, B. T. Josephs, 300l. to 400l.
+
+2nd Class Clerks, M. V. Hearne, A. D. Soutar, L. M. Kirkpatrick, E. A. Hewett 160l. to 275l.
+
+Assistants, A. L. Noad, N. A. Hussey, 100l. to 160l.
+
+Board of Education.
+
+Director of Education, Chairman ex-officio.
+
+Ven. Archdeacon Simms, M.A., Vice-Chairman.
+
+Right Rev. Bishop de Carteret, M.A., D.D., Rev. S. C. Ashton, Rev. D. Davis, B.A., Mrs. K. H. Bourne, Hon. and Rev. A. A. Barolay, Hon. D. T. Wint, Miss K. J. Howson, B.A., Rev. F. Kelly, S.J., Rev. J. Currey, Rev. W. B. Esson, M.A., A. Myers, A. J. Newman, B.A., Dr. D. J. Phillips.
+
+Secretary, Rev. J. Reinke, D.D., 100l.
+
+Technical and Continuation School.
+
+Headmaster, W. R. Goldsworthy, 400l. to 450l., with residence.
+
+Second Master, R. M. Alston, 300l. to 350l.
+
+Jamaica Schools Commission.
+
+Chairman, Right Rev. G. F. C. de Carteret, M.A., D.D., Bishop of Jamaica.
+
+Vice-Chairman, Ven. Archdeacon Simms, M.A.
+
+Members, Rev. E. Price, B.A., B.D., Hon. T. L. Roxburgh, C.M.G., P. J. O'Leary Bradbury, M.A., C. A. H. Thomson, M.B., M.C., Hon. A. G. Nash, B.Sc., V. R. Manton, LL.B., Major Hon. E. T. Dixon, M.A.
+
+Secretary, W. H. Mitchell, M.A.
+
+Cornwall College
+
+(Montego Bay Secondary School).
+
+Headmaster, Rev. E. B. Baker, M.A., LL.B., 600l. to 650l.
+
+Second Master, F. Ogle, B.Sc., 400l. board and residence.
+
+Board of Supervision for the Relief of the Poor.
+
+Chairman, H. A. L. Simpson, O.B.E.
+
+Members, Dr. B. M. Wilson, C. H. Davis, Major Dixon, O.B.E., H. Simms, M.V.O., J. H. Levy, M.B.E., Dr. L. A. Crooks, Dr. Lawson Gifford and F. E. Reed, O.B.E.
+
+Secretary, F. N. Isaacs, 300l. to 400l.
+
+Ecclesiastical.
+
+Bishop of Jamaica, Right Rev. George Frederick Cecil de Carteret, M.A., D.D.
+
+Registrar of the Diocese, N. B. Livingstone, Esq.
+
+There are also about 90 clergymen who are paid by the Diocesan Church Fund of the Disestablished Church of England.
+
+Foreign Consuls.
+
+United States, Jose de Olivares, Kingston.
+
+Denmark, S. D. List.
+
+Venezuela, C. L. Martin.
+
+Belgium, L. P. Fernandez (acting).

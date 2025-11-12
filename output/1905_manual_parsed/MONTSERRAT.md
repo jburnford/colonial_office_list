@@ -1,0 +1,345 @@
+MONTSERRAT.
+
+
+
+This Island, discovered by Columbus in 1493, was named by him after a famous mountain in Spain, where is situated the monastery in which Ignatius Loyola conceived the project of founding the Society of Jesus.
+
+
+
+It is situated 27 miles from Antigua in 18°45' N. lat., and 61° W. long., and is about 11 miles in length, and 7 in the broadest part. Its total area is 324 square miles. It is of volcanic formation and very rugged and mountainous. The hills are covered with forest, the highest elevation being Soufrière Hill (3,000 feet) in the southern part of the island. The cultivated land is mainly on the western and south-eastern sides. Plymouth, the chief town, with a population of 1,461, is on an open roadstead on the south-west coast. It is a port of registry, and had, on 31st December, 1903, 5 sailing vessels, total tonnage 90 tons.
+
+
+
+Montserrat was colonised by the English in 1632; the French took it in 1664, and levied heavy imposts on the inhabitants; it was restored to England in 1668. It capitulated to the French in 1782, but was restored to the English in 1784.
+
+
+
+Montserrat possessed a Legislative Council and Assembly as early as 1688. After undergoing various modifications they became merged in a Legislative Assembly, which lasted down to 1867.
+
+
+
+By an Act of the Legislative Assembly, dated 24th Dec., 1866, and confirmed by Order in Council 26th Feb., 1867, instead of a Legislative Assembly, a Legislative Council was established, having all the powers, authorities, and rights hitherto possessed by the Assembly. By Act No. 2, of 1902, which rescinded these Acts, His Majesty may, from time to time, appoint such persons, not exceeding four in all, as he may think fit, every Councillor holding office during His Majesty's pleasure.
+
+
+
+The principal export of the island is sugar, which is shipped in barrels and bags: 6 barrels, or the like number of bags, equal a hogshead. In a very good year the crop yields 2,500 hogsheads. In 1903 the export was 869 tons, value 4,592l. Many sugar works are furnished with steam-engines, but there are still some few properties which rely on the windmill, and there are a few cattle mills.
+
+
+
+The export of next importance is lime-juice, raw and concentrated. There are about 1,000 acres planted in lime trees, and the cultivation was extending, but nearly all the trees were uprooted by the hurricane of 7th August, 1899. The trees are now being replanted, and the cultivation is being extended to the southern part of the island. It is principally in the hands of the Montserrat Company, Limited. The export of lime-juice in 1903 was valued at 2,342l. The cultivation of cotton has recently been re-introduced with results which promise well for the future; and a small onion industry has been established.
+
+
+
+The cultivation of coffee and cocoas has declined to such an extent that not enough for home consumption is now grown.
+
+
+
+There are seven Anglican schools with 1,801 scholars, three Wesleyans with 936, one Roman Catholic with 254, and one undenominational with 352 scholars.
+
+
+
+The roads of the island have of late years been much improved, macadamised, and drained by masonry culverts and surface drains; and every year progress is made in these respects, as far as the small revenue of the island will permit.
+
+
+
+On 7th August, 1899, the island was devastated by a fearful hurricane.
+
+
+
+The island is considered to be the most healthy of the Antilles.
+
+
+
+The rainfall in 1903 was 58.78 inches, and the mean temperature is about dry bulb 69.3°, wet bulb 73.2°.
+
+
+
+| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |
+
+|------|---------|-------------|----------------|--------------|
+
+| 1894 | 8,677   | 8,381       | 309,844        | 313,215      |
+
+| 1895 | 7,125   | 10,702      | 371,291        | 372,471      |
+
+| 1896 | 7,775   | 8,732       | 275,414        | 276,272      |
+
+| 1897 | 7,906   | 9,895       | 114,248        | 114,467      |
+
+| 1898 | 6,199   | 11,935      | 207,704        | 808,430      |
+
+| 1899 | 6,790   | 16,608      | 185,037        | 186,425      |
+
+| 1900 | 18,394  | 17,266      | 192,126        | 198,731      |
+
+| 1901 | 9,749   | 11,917      | 250,364        | 266,111      |
+
+| 1902 | 12,966  | 11,483      | 277,196        | 286,706      |
+
+| 1903 | 9,849   | 10,357      | 283,884        | 296,117      |
+
+
+
+Note.—Revenue and expenditure include Imperial grants-in-aid.
+
+
+
+| Year | From U.K. | From Colonies | From Elsewhere | Total |
+
+|------|-----------|---------------|----------------|-------|
+
+| 1894 | 12,723    | 12,027        | 4,848          | 29,598 |
+
+| 1895 | 9,975     | 2,860         | 11,645         | 24,480 |
+
+| 1896 | 8,963     | 7,331         | 3,989          | 20,282 |
+
+| 1897 | 8,268     | 7,662         | 3,401          | 19,331 |
+
+| 1898 | 7,765     | 3,685         | 3,711          | 15,161 |
+
+| 1899 | 7,669     | 12,432        | 1,299          | 21,390 |
+
+| 1900 | 5,981     | 13,329        | 1,277          | 20,587 |
+
+| 1901 | 7,920     | 9,030         | 1,804          | 19,254 |
+
+| 1902 | 7,061     | 7,289         | 1,256          | 15,596 |
+
+| 1903 | 11,072    | 10,110        | 97             | 21,279 |
+
+
+
+| Year | To U.K. | To Colonies | To Elsewhere | Total |
+
+|------|---------|-------------|--------------|-------|
+
+| 1894 | 2,394   | 3,982       | 16,086       | 22,462 |
+
+| 1895 | 10,610  | 529         | 6,050        | 17,389 |
+
+| 1896 | 6,942   | 7,797       | 11,230       | 25,929 |
+
+| 1897 | 13,929  | 2,864       | 6,276        | 22,069 |
+
+| 1898 | 7,956   | 1,126       | 3,158        | 12,240 |
+
+| 1899 | 6,785   | 5,830       | 2,954        | 15,569 |
+
+| 1900 | 1,280   | 4,714       | 2,293        | 8,287  |
+
+| 1901 | 1,669   | 2,732       | 6,867        | 11,268 |
+
+| 1902 | 6,600   | 7,735       | 3,383        | 17,718 |
+
+| 1903 | 6,897   | 9,387       | 140          | 16,424 |
+
+
+
+Public Debt, 31st December, 1903—11,100l.
+
+
+
+Population, 1891—11,762; 1901—12,215.
+
+
+
+Customs Revenue, 1903—4,714l.
+
+LEEWARD ISLANDS: MONTSERRAT—VIRGIN ISLANDS.
+
+
+
+Executive Council.
+
+
+
+The Governor.
+
+The Commissioner.
+
+The Colonial Secretary.
+
+The Attorney-General.
+
+The Auditor-General.
+
+Hon. Mansergh Pace Duke, M.R.C.P.I.
+
+William Henry Wilkin.
+
+Frederick Driver.
+
+Clerk, Henry Dyett.
+
+
+
+Members of Legislative Council.
+
+
+
+The Governor.
+
+The Commissioner.
+
+Hon. Mansergh Pace Duke, M.R.C.P.I. (official).
+
+Richard Hannam (unofficial).
+
+Hon. William Henry Wilkin (unofficial).
+
+Edward Farley Dyett (official).
+
+Clerk, Henry Dyett.
+
+
+
+Civil Establishment.
+
+
+
+Commissioner, District Magistrate, Treasurer, Coroner, Registrar, Provost-Marshal, and Postmaster, Frederick Henry Watkins, I.S.O., 50l. house allowance, 20l. for upkeep of grounds.
+
+Commissioner's and Magistrate's Clerk and Clerk of Councils, Henry Dyett, 65l.
+
+
+
+Treasury Department.
+
+
+
+Treasurer, Frederick Henry Watkins, I.S.O.
+
+First Treasury Officer, Admeasurer of Vessels, and Secretary to the Board of Health, Edward Farley Dyett, 125l., 50c. for performing the duties of the Treasurer, 12l. as Secretary to the Board of Health, 12l. for horse allowance, and fees.
+
+Second Treasury Officer, Quarantine and Visiting Officer, James Bladen, 120l.
+
+
+
+Judicial Department.
+
+
+
+Registrar and Provost-Marshal, Frederick Henry Watkins, I.S.O.
+
+District Magistrate, Frederick Henry Watkins, I.S.O.
+
+Bailiff, Elwood Barzey, 18l., and extras.
+
+
+
+Police Department.
+
+
+
+Sergeant-Major, William E. Wilders, 120l., 25l. horse allowance, uniform, 20l. in lieu of quarters, and 25l. Drill Instructor Defence Force.
+
+
+
+Prison Department.
+
+
+
+Gaoler, James Luke Rogers, 35l., uniform, and quarters.
+
+Matron, Mrs. Ann Rogers, 10l., uniform, and quarters.
+
+
+
+Medical Department.
+
+
+
+Medical Officer, District No. 1, Mansergh Pace Duke, M.R.C.P.I., 225l., 24l. as Medical Officer of Health, 30l. drug allowance, fees, and private practice.
+
+Medical Officer, District No. 2, Wroughton Gerald Heath, 200l., 30l. drug allowance, fees, and private practice.
+
+Master of the Poorhouse and Hospital, Lewis William Peters, 45l. and quarters.
+
+
+
+Education Department.
+
+
+
+Inspector of Schools, Charles M. Martin, B.A., (see Federal Civil Establishment).
+
+Educational District Officer, Dudley Johnson, 50l., 15l. and fees as Registrar-General of Births, and 20l. as Local Agricultural Instructor.
+
+
+
+Ecclesiastical.
+
+
+
+Anglican Rector of St. Anthony's and St. Patrick's Parishes, Rev. Frederick William Haines, 105l., and from voluntary contributions 150l.
+
+Anglican Rector of St. Peter's Parish Rev. E. Giles, 90l.
+
+Anglican Rector of St. George's Parish, Rev. Charles Wheatly Johnson, 90l.
+
+Roman Catholic Vicar, The Very Rev. P. Fogarty, V.G., 50l.
+
+Wesleyan Minister, Rev. W. R. Symons, 106l.
+
+
+
+Board of Health.
+
+
+
+Medical Officer of Health, Mansergh Pace Duke, M.R.C.P.I., 24l. and fees.
+
+Quarantine Officer, James Bladen.
+
+Sanitary Officer, Claude Ernest Egbert Browne, 60l.
+
+
+
+Registration Department.
+
+
+
+Registrar-General of Births, Deaths and Marriages, and Registrar for District A, Dudley Johnson, 15l., and fees.
+
+Registrar, District B, James Joseph Wall, 7l. 10s., and fees.
+
+Registrar, District C, Rev. Charles Wheatly Johnson, 7l. 10s., and fees.
+
+
+
+Miscellaneous.
+
+
+
+Librarian, Mrs. Marion Thompson Beard, 15l.
+
+Inspector of Weights and Measures and Keeper of Public Clocks, Charles William Piper, 4l., and fees.
+
+Clerk of the Public Market, Issa Watts, 30l.
+
+
+
+Consular Agent.
+
+
+
+United States of America, Hon. Frederick Driver.
+
+
+
+Lloyd's Agent.
+
+
+
+Richard Hannam.
+
+
+
+Agricultural Department.
+
+
+
+Curator, Albert John Jordan, 150l. to 200l., horse allowance 30l., and 20l. in lieu of quarters.
+
+Local Agricultural Instructor, Dudley Johnson, 20l.

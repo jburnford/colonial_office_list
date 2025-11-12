@@ -1,0 +1,32 @@
+{
+  "year": 1913,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1913/olmocr_results.md",
+  "total_colonies": 2,
+  "colonies": [
+    {
+      "colony_name": "SAN FERNANDO",
+      "year": 1913,
+      "start_line": 986,
+      "end_line": 1293,
+      "char_count": 13790,
+      "line_count": 308,
+      "filename": "SAN_FERNANDO.md"
+    },
+    {
+      "colony_name": "LONDON",
+      "year": 1913,
+      "start_line": 1295,
+      "end_line": 1316,
+      "char_count": 592,
+      "line_count": 22,
+      "filename": "LONDON.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Python automated batch parser v3",
+    "date": "2025-11-12",
+    "method": "Structural boundary detection with content size filtering",
+    "colony_section_start": 731,
+    "colony_section_end": 1318
+  }
+}

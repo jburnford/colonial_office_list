@@ -1,0 +1,444 @@
+{
+  "year": 1930,
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1930/olmocr_results.md",
+  "total_colonies": 48,
+  "colonies": [
+    {
+      "colony_name": "CANADA",
+      "year": 1930,
+      "start_line": 3878,
+      "end_line": 6092,
+      "char_count": 236896,
+      "line_count": 2214,
+      "filename": "CANADA.md"
+    },
+    {
+      "colony_name": "AUSTRALIA",
+      "year": 1930,
+      "start_line": 6092,
+      "end_line": 6796,
+      "char_count": 58500,
+      "line_count": 704,
+      "filename": "AUSTRALIA.md"
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "year": 1930,
+      "start_line": 6796,
+      "end_line": 6803,
+      "char_count": 162,
+      "line_count": 7,
+      "filename": "WESTERN_AUSTRALIA.md"
+    },
+    {
+      "colony_name": "TASMANIA",
+      "year": 1930,
+      "start_line": 6803,
+      "end_line": 8820,
+      "char_count": 106987,
+      "line_count": 2017,
+      "filename": "TASMANIA.md"
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "year": 1930,
+      "start_line": 8820,
+      "end_line": 11104,
+      "char_count": 143391,
+      "line_count": 2284,
+      "filename": "QUEENSLAND.md"
+    },
+    {
+      "colony_name": "VICTORIA",
+      "year": 1930,
+      "start_line": 11104,
+      "end_line": 16814,
+      "char_count": 353817,
+      "line_count": 5710,
+      "filename": "VICTORIA.md"
+    },
+    {
+      "colony_name": "BRITISH COLUMBIA",
+      "year": 1930,
+      "start_line": 16814,
+      "end_line": 17829,
+      "char_count": 54820,
+      "line_count": 1015,
+      "filename": "BRITISH_COLUMBIA.md"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "year": 1930,
+      "start_line": 17829,
+      "end_line": 20379,
+      "char_count": 228996,
+      "line_count": 2550,
+      "filename": "NEWFOUNDLAND.md"
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "year": 1930,
+      "start_line": 20379,
+      "end_line": 22197,
+      "char_count": 160863,
+      "line_count": 1818,
+      "filename": "CAPE_OF_GOOD_HOPE.md"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "year": 1930,
+      "start_line": 22197,
+      "end_line": 22602,
+      "char_count": 32123,
+      "line_count": 405,
+      "filename": "BASUTOLAND.md"
+    },
+    {
+      "colony_name": "SWAZILAND",
+      "year": 1930,
+      "start_line": 22602,
+      "end_line": 22834,
+      "char_count": 21338,
+      "line_count": 232,
+      "filename": "SWAZILAND.md"
+    },
+    {
+      "colony_name": "SOUTHERN RHODESIA",
+      "year": 1930,
+      "start_line": 22834,
+      "end_line": 23904,
+      "char_count": 79064,
+      "line_count": 1070,
+      "filename": "SOUTHERN_RHODESIA.md"
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "year": 1930,
+      "start_line": 23904,
+      "end_line": 24952,
+      "char_count": 61927,
+      "line_count": 1048,
+      "filename": "BAHAMAS.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1930,
+      "start_line": 24952,
+      "end_line": 25377,
+      "char_count": 25939,
+      "line_count": 425,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1930,
+      "start_line": 25377,
+      "end_line": 26336,
+      "char_count": 61476,
+      "line_count": 959,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1930,
+      "start_line": 26336,
+      "end_line": 26721,
+      "char_count": 26988,
+      "line_count": 385,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "CEYLON",
+      "year": 1930,
+      "start_line": 26721,
+      "end_line": 28119,
+      "char_count": 83178,
+      "line_count": 1398,
+      "filename": "CEYLON.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1930,
+      "start_line": 28119,
+      "end_line": 28972,
+      "char_count": 57193,
+      "line_count": 853,
+      "filename": "CYPRUS.md"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "year": 1930,
+      "start_line": 28972,
+      "end_line": 29359,
+      "char_count": 22161,
+      "line_count": 387,
+      "filename": "FALKLAND_ISLANDS.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1930,
+      "start_line": 29359,
+      "end_line": 30059,
+      "char_count": 42188,
+      "line_count": 700,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 1930,
+      "start_line": 30059,
+      "end_line": 30472,
+      "char_count": 29241,
+      "line_count": 413,
+      "filename": "THE_GAMBIA.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1930,
+      "start_line": 30472,
+      "end_line": 31950,
+      "char_count": 120527,
+      "line_count": 1478,
+      "filename": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 1930,
+      "start_line": 31950,
+      "end_line": 33514,
+      "char_count": 93416,
+      "line_count": 1564,
+      "filename": "HONG_KONG.md"
+    },
+    {
+      "colony_name": "CAYMAN ISLANDS",
+      "year": 1930,
+      "start_line": 33514,
+      "end_line": 33558,
+      "char_count": 3526,
+      "line_count": 44,
+      "filename": "CAYMAN_ISLANDS.md"
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "year": 1930,
+      "start_line": 33558,
+      "end_line": 34882,
+      "char_count": 88593,
+      "line_count": 1324,
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md"
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "year": 1930,
+      "start_line": 34882,
+      "end_line": 35587,
+      "char_count": 31243,
+      "line_count": 705,
+      "filename": "ANTIGUA.md"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1930,
+      "start_line": 35587,
+      "end_line": 35878,
+      "char_count": 16191,
+      "line_count": 291,
+      "filename": "DOMINICA.md"
+    },
+    {
+      "colony_name": "MONTSERRAT",
+      "year": 1930,
+      "start_line": 35878,
+      "end_line": 36178,
+      "char_count": 16225,
+      "line_count": 300,
+      "filename": "MONTSERRAT.md"
+    },
+    {
+      "colony_name": "MALTA",
+      "year": 1930,
+      "start_line": 36178,
+      "end_line": 36986,
+      "char_count": 44597,
+      "line_count": 808,
+      "filename": "MALTA.md"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 1930,
+      "start_line": 36986,
+      "end_line": 37773,
+      "char_count": 50775,
+      "line_count": 787,
+      "filename": "MAURITIUS.md"
+    },
+    {
+      "colony_name": "NIGERIA",
+      "year": 1930,
+      "start_line": 37773,
+      "end_line": 39875,
+      "char_count": 177725,
+      "line_count": 2102,
+      "filename": "NIGERIA.md"
+    },
+    {
+      "colony_name": "PALESTINE",
+      "year": 1930,
+      "start_line": 39875,
+      "end_line": 40437,
+      "char_count": 45831,
+      "line_count": 562,
+      "filename": "PALESTINE.md"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 1930,
+      "start_line": 40437,
+      "end_line": 40632,
+      "char_count": 11107,
+      "line_count": 195,
+      "filename": "ST._HELENA.md"
+    },
+    {
+      "colony_name": "ASCENSION",
+      "year": 1930,
+      "start_line": 40632,
+      "end_line": 40649,
+      "char_count": 1074,
+      "line_count": 17,
+      "filename": "ASCENSION.md"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 1930,
+      "start_line": 40649,
+      "end_line": 40945,
+      "char_count": 15622,
+      "line_count": 296,
+      "filename": "SEYCHELLES.md"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1930,
+      "start_line": 40945,
+      "end_line": 41760,
+      "char_count": 52519,
+      "line_count": 815,
+      "filename": "SIERRA_LEONE.md"
+    },
+    {
+      "colony_name": "STRAITS SETTLEMENTS",
+      "year": 1930,
+      "start_line": 41760,
+      "end_line": 44731,
+      "char_count": 211759,
+      "line_count": 2971,
+      "filename": "STRAITS_SETTLEMENTS.md"
+    },
+    {
+      "colony_name": "TANGANYIKA TERRITORY",
+      "year": 1930,
+      "start_line": 44731,
+      "end_line": 45271,
+      "char_count": 30698,
+      "line_count": 540,
+      "filename": "TANGANYIKA_TERRITORY.md"
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "year": 1930,
+      "start_line": 45271,
+      "end_line": 45514,
+      "char_count": 26791,
+      "line_count": 243,
+      "filename": "TRINIDAD.md"
+    },
+    {
+      "colony_name": "TOBAGO",
+      "year": 1930,
+      "start_line": 45514,
+      "end_line": 46386,
+      "char_count": 38486,
+      "line_count": 872,
+      "filename": "TOBAGO.md"
+    },
+    {
+      "colony_name": "UGANDA",
+      "year": 1930,
+      "start_line": 46386,
+      "end_line": 46797,
+      "char_count": 29509,
+      "line_count": 411,
+      "filename": "UGANDA.md"
+    },
+    {
+      "colony_name": "WEIHAIWEI",
+      "year": 1930,
+      "start_line": 46797,
+      "end_line": 47657,
+      "char_count": 67923,
+      "line_count": 860,
+      "filename": "WEIHAIWEI.md"
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 1930,
+      "start_line": 47657,
+      "end_line": 48056,
+      "char_count": 24166,
+      "line_count": 399,
+      "filename": "ST._LUCIA.md"
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 1930,
+      "start_line": 48056,
+      "end_line": 48346,
+      "char_count": 19132,
+      "line_count": 290,
+      "filename": "ST._VINCENT.md"
+    },
+    {
+      "colony_name": "ZANZIBAR",
+      "year": 1930,
+      "start_line": 48346,
+      "end_line": 48625,
+      "char_count": 25383,
+      "line_count": 279,
+      "filename": "ZANZIBAR.md"
+    },
+    {
+      "colony_name": "IRAQ",
+      "year": 1930,
+      "start_line": 48625,
+      "end_line": 48813,
+      "char_count": 17304,
+      "line_count": 188,
+      "filename": "IRAQ.md"
+    },
+    {
+      "colony_name": "NORTH BORNEO",
+      "year": 1930,
+      "start_line": 48813,
+      "end_line": 49360,
+      "char_count": 39057,
+      "line_count": 547,
+      "filename": "NORTH_BORNEO.md"
+    },
+    {
+      "colony_name": "ADEN",
+      "year": 1930,
+      "start_line": 49360,
+      "end_line": 72637,
+      "char_count": 2325537,
+      "line_count": 23277,
+      "filename": "ADEN.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Batch parser for 1917-1930 (Post-WWI era)",
+    "date": "2025-11-12",
+    "method": "Pattern-based colony detection with aggressive subsection filtering"
+  }
+}

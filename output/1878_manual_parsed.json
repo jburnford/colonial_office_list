@@ -1,0 +1,277 @@
+{
+  "year": 1878,
+  "parser": "manual_llm",
+  "total_colonies": 30,
+  "colonies": [
+    {
+      "name": "BAHAMAS",
+      "start_line": 1343,
+      "end_line": 1576,
+      "line_count": 234,
+      "char_count": 10732,
+      "file": "BAHAMAS.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "BERMUDAS",
+      "start_line": 1585,
+      "end_line": 1846,
+      "line_count": 262,
+      "char_count": 12776,
+      "file": "BERMUDAS.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "BRITISH_GUIANA",
+      "start_line": 1853,
+      "end_line": 2474,
+      "line_count": 622,
+      "char_count": 29089,
+      "file": "BRITISH_GUIANA.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "DOMINION_OF_CANADA",
+      "start_line": 2475,
+      "end_line": 4263,
+      "line_count": 1789,
+      "char_count": 101036,
+      "file": "DOMINION_OF_CANADA.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "CAPE_OF_GOOD_HOPE",
+      "start_line": 4264,
+      "end_line": 5589,
+      "line_count": 1326,
+      "char_count": 64077,
+      "file": "CAPE_OF_GOOD_HOPE.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "CEYLON",
+      "start_line": 5590,
+      "end_line": 6162,
+      "line_count": 573,
+      "char_count": 26325,
+      "file": "CEYLON.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "FALKLAND_ISLANDS",
+      "start_line": 6163,
+      "end_line": 6270,
+      "line_count": 108,
+      "char_count": 6978,
+      "file": "FALKLAND_ISLANDS.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "FIJI",
+      "start_line": 6271,
+      "end_line": 6357,
+      "line_count": 87,
+      "char_count": 9050,
+      "file": "FIJI.txt",
+      "notes": "Full section, marked as **FIJI.**"
+    },
+    {
+      "name": "GIBRALTAR",
+      "start_line": 6358,
+      "end_line": 6464,
+      "line_count": 107,
+      "char_count": 4371,
+      "file": "GIBRALTAR.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "THE_GOLD_COAST_COLONY",
+      "start_line": 6465,
+      "end_line": 7268,
+      "line_count": 804,
+      "char_count": 69720,
+      "file": "THE_GOLD_COAST_COLONY.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "HELIGOLAND",
+      "start_line": 7269,
+      "end_line": 7309,
+      "line_count": 41,
+      "char_count": 2525,
+      "file": "HELIGOLAND.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "HONDURAS",
+      "start_line": 7310,
+      "end_line": 7525,
+      "line_count": 216,
+      "char_count": 12146,
+      "file": "HONDURAS.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "HONG_KONG",
+      "start_line": 7526,
+      "end_line": 7794,
+      "line_count": 269,
+      "char_count": 13053,
+      "file": "HONG_KONG.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "JAMAICA",
+      "start_line": 7795,
+      "end_line": 8437,
+      "line_count": 643,
+      "char_count": 28480,
+      "file": "JAMAICA.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "LABUAN",
+      "start_line": 8438,
+      "end_line": 8454,
+      "line_count": 17,
+      "char_count": 1699,
+      "file": "LABUAN.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "LEEWARD_ISLANDS",
+      "start_line": 8455,
+      "end_line": 10212,
+      "line_count": 1758,
+      "char_count": 76380,
+      "file": "LEEWARD_ISLANDS.txt",
+      "notes": "Full section starting with LABUAN\u2014LEEWARD ISLANDS header"
+    },
+    {
+      "name": "MAURITIUS",
+      "start_line": 10213,
+      "end_line": 10887,
+      "line_count": 675,
+      "char_count": 34133,
+      "file": "MAURITIUS.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "NATAL",
+      "start_line": 10891,
+      "end_line": 11285,
+      "line_count": 395,
+      "char_count": 21986,
+      "file": "NATAL.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "start_line": 11286,
+      "end_line": 11520,
+      "line_count": 235,
+      "char_count": 10232,
+      "file": "NEWFOUNDLAND.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "NEW_SOUTH_WALES",
+      "start_line": 11521,
+      "end_line": 12284,
+      "line_count": 764,
+      "char_count": 34354,
+      "file": "NEW_SOUTH_WALES.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "NEW_ZEALAND",
+      "start_line": 12285,
+      "end_line": 12800,
+      "line_count": 516,
+      "char_count": 21276,
+      "file": "NEW_ZEALAND.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "QUEENSLAND",
+      "start_line": 12801,
+      "end_line": 13289,
+      "line_count": 489,
+      "char_count": 35177,
+      "file": "QUEENSLAND.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "SOUTH_AUSTRALIA",
+      "start_line": 13290,
+      "end_line": 14171,
+      "line_count": 882,
+      "char_count": 46948,
+      "file": "SOUTH_AUSTRALIA.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "STRAITS_SETTLEMENTS",
+      "start_line": 14172,
+      "end_line": 15106,
+      "line_count": 935,
+      "char_count": 48237,
+      "file": "STRAITS_SETTLEMENTS.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "THE_TRANSVAAL",
+      "start_line": 15107,
+      "end_line": 15205,
+      "line_count": 99,
+      "char_count": 10543,
+      "file": "THE_TRANSVAAL.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "TRINIDAD",
+      "start_line": 15206,
+      "end_line": 15867,
+      "line_count": 662,
+      "char_count": 29146,
+      "file": "TRINIDAD.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "TURKS_AND_CAICOS_ISLANDS",
+      "start_line": 15868,
+      "end_line": 16641,
+      "line_count": 774,
+      "char_count": 28482,
+      "file": "TURKS_AND_CAICOS_ISLANDS.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "WESTERN_AUSTRALIA",
+      "start_line": 16642,
+      "end_line": 16876,
+      "line_count": 235,
+      "char_count": 10976,
+      "file": "WESTERN_AUSTRALIA.txt",
+      "notes": "Full section"
+    },
+    {
+      "name": "WEST_AFRICA_SETTLEMENTS",
+      "start_line": 16877,
+      "end_line": 17271,
+      "line_count": 395,
+      "char_count": 19045,
+      "file": "WEST_AFRICA_SETTLEMENTS.txt",
+      "notes": "Full section (Sierra Leone and Gambia)"
+    },
+    {
+      "name": "WINDWARD_ISLANDS",
+      "start_line": 17272,
+      "end_line": 18453,
+      "line_count": 1182,
+      "char_count": 79843,
+      "file": "WINDWARD_ISLANDS.txt",
+      "notes": "Full section (Barbados, Grenada, St. Lucia, St. Vincent, Tobago)"
+    }
+  ]
+}

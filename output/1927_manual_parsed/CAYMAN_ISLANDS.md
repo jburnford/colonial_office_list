@@ -1,0 +1,506 @@
+CAYMAN ISLANDS.
+
+The Cayman Islands (a dependency of Jamaica) with an area of 104½ square miles and a population (in 1921) of 5,263, consist of three islands, Grand Cayman (85 square miles), Little Cayman (9 square miles), and Cayman Brac (10½ square miles), lying between 79° 33' and 81° 30' W. longitude, and 19° 16' and 19° 45' N. latitude. They were discovered by Columbus, on his return voyage from Porto Bello to Hispaniola, but were never occupied by the Spaniards. The English took possession of them soon after the conquest of Jamaica, and they were mainly colonised from that island.
+
+Grand Cayman is distant about 178 miles from the nearest point of Jamaica. It is 17 miles in length, and varies from 4 to 7 miles in breadth. The coasts are for the most part rock-bound, protected by coral reefs and enclosing some fair-sized harbours. One on the north side of the island, called the Great Sound, measures over six miles across.
+
+The principal industry of the inhabitants is catching turtle. These turtles are brought to the island and placed in "kraals," to recover and fatten before being sent to their next stage, Key West, United States. Over 2,000 turtles a year are thus disposed of at an average price of 2½ each.
+
+The Island of Grand Cayman is in some parts fruitful, and the usual tropical products are grown, but a considerable acreage is traversed by honey-combed limestone, and unfit for cultivation. Mahogany, cedar and other valuable timber and some dye-woods are found in quantities. Phosphate deposits of some value exist, and were worked, but have lately been neglected.
+
+There are two towns, Georgetown and Bodden-town, and several villages. The population of Grand Cayman numbered 3,945 at the census of 1921.
+
+The smaller Cayman Islands, viz., Little Cayman and Cayman Brac, are about 70 miles distant from Grand Cayman; they are almost entirely given up to the growth of cocoanuts. Their inhabitants numbered at the last reckoning 95 and 1,213 persons respectively.
+
+The proportion of white inhabitants in the Cayman Islands is much larger than in most parts of the West Indies.
+
+Fine schooners of native woods are constructed at these islands for sale and for local use, the people being first-rate shipwrights.
+
+The Legislative Assembly of the Cayman Islands consists of the Justices of the Peace and elected Vestrymen, and the laws passed by this body are subject to the assent of the Governor of Jamaica before becoming operative.
+
+The government of the Dependency is administered by a Commissioner.
+
+| Year | Revenue | Expenditure |
+|------|---------|-------------|
+| 1925 | £6,970  | £6,622      |
+
+| Year | Imports | Exports |
+|------|--------|---------|
+| 1925 | £42,663| £14,813|
+
+Civil Establishment.
+
+Commissioner, H. H. Hutchings, furnished house, 500l.-600l. and fees.
+Clerk to Commissioner, C. M. Connor, 60l.
+Government Medical Officer, Dr. G. N. Overton, partially furnished residence, 65l. for drug and travelling allowances, private practice and 300l.
+Clerk of the Courts, Clerk of the Vestry, and Auditor, A. E. Panton, 150l.
+Collector of Customs (Georgetown), Postmaster, R. J. Watler, 180l.
+Assistant to Collector and Treasury Clerk, A. C. Panton, 120l.
+Collector of Customs, Collector of Tazes, Postmaster, Inspector of Roads, Health Officer, Receiver of Wrecks, Registrar of Births and Deaths, Lesser Cayman Islands, H. W. Rutty, 180l. and fees.
+Inspector of Police, Bailiff Grand Court, &c., J. R. Watler, 150l., fees and quarters.
+TURKS AND CAICOS ISLANDS.
+
+Situation and Area.
+
+The Turks and Caicos Islands lie between 21° and 22° N. lat., and 71° and 72° 37' W. long. Their area is about 166 square miles. The most important island, Grand Turk, is 64 miles long and 14 miles broad. According to the census of 1921 Grand Turk contains 1,568 inhabitants, being one-third of the total population which in 1921 was 5,612. Cockburn Harbour in S. Caicos, immediately opposite Grand Turk, is the principal settlement in the Caicos group.
+
+History.
+
+Grand Turk claims to have been the scene of the first discovery of Columbus, but the group remained uninhabited till the end of the 17th century, when it began to be annually visited by salt rakers from Bermuda. These were expelled by the Spaniards in 1710, but soon returned, and for some 40 years continued this industry with more or less frequent interruption by attacks from the Spaniards. It was not, however, till 1799 that for the purposes of government, they were included in the Colony of the Bahamas, to which group they geographically belong. In 1848 they were made independent of the Bahamas. In 1873 they were annexed to Jamaica and still remain one of its dependencies.
+
+Two hurricanes passed over these Islands in 1926, on July 24th and September 16th respectively, and did great damage. The second one was the most disastrous, as regards damage to property, in the history of the Dependency.
+
+Industries.
+
+Salt raking is the only industry of any importance, the average quantity annually gathered being about 1,600,000 bushels, equal to 56,000 tons. 1,748,195 bushels were exported in 1925 valued at £32,864. Sponges are found on the Caicos Bank, and there is a sponge-curing establishment at Cockburn Harbour, South Caicos. The export of sponge in 1925 was valued at £2,408; 1,392,600 dried conchs (shell fish) value £1,393, were shipped to Haiti in 1925.
+
+Practically the whole of the food and household necessaries are imported. Commercial intercourse is almost wholly with the United States.
+
+The inhabitants are of mixed European and African extraction, the proportion of whites to coloured people being larger than in most of the West Indies. The majority of the people are connected with the Bermudas, from which these islands were first settled. They all speak English. Grand Turk is a port of registry, and had, on the 31st Dec., 1925, 49 vessels registered, of a total tonnage of 1,123 tons. Salt Cay and Cockburn Harbour are ports of entry, possessing good anchorage.
+
+Climate.
+
+The climate is equable and healthy, and rarely unpleasantly hot, owing to the constant sea breezes, but there is a scarcity of fresh provisions and good water, owing to the low lying barren nature of the soil.
+
+The mean temperature (day) is 78°, the extreme range being from 60° to 93°. The rainfall at Grand Turk during 1925 amounted to 23-27 inches, the average rainfall during the five years 1921-1925 was 24-28 inches. Hurricanes occasionally visit the groups. There was a severe hurricane in 1906, causing great destruction of property.
+
+Means of Communication.
+
+The Clyde Line of New York, U.S.A., maintain a mail, passenger and freight service calling at Grand Turk every three weeks north bound only from Santo Domingo direct for New York, the length of passage from Grand Turk being five days. Passengers travelling to the Turks Islands from New York by this line must go to Santo Domingo first and the length of passage is twelve days.
+
+The Columbus Line of New York call at Grand Turk at least once a month from New York for Santo Domingo and north bound from Santo Domingo for New York bringing and carrying mails and freight.
+
+The Elders and Fyffes Line make occasional calls on their way to Jamaica when passengers offer and on such occasions take mails to Jamaica.
+
+There is a telephone exchange at Grand Turk with 40 connections.
+
+The rate of letter postage is 2d. per ounce to all British Possessions; 2½d. to the U.S.A., and to all other countries 3d. per ounce.
+
+Cable communication with Bermuda and Jamaica was established by the Direct West India Cable Company in January, 1898, the station being at Grand Turk. The rates are per word: To England 2s. 4d., to Jamaica 1s., to Halifax 1s. 6d.
+
+A new cable was laid in 1924 connecting Grand Turk with Barbados.
+
+Communication between Grand Turk and Salt Cay in the Turks Islands and Cockburn Harbour has been established by wireless telephone. The station at Grand Turk is also a telegraphic one with a sending range of about 500 miles.
+
+Education.
+
+In 1921 a secondary school was opened at Grand Turk and controlled by a Board of Management appointed by the Commissioner. This school receives an annual government grant of £150l., and other revenue is derived from school fees.
+
+There are eleven elementary schools supported by Government, with 911 pupils enrolled in 1925 and an average attendance of 705. The schools are entirely unsectarian and free.
+
+During 1924 a Centre for the Cambridge Local Examinations was established at Grand Turk.
+
+Currency and Banking.
+
+The coins in circulation, all of them being legal tender under Bahama Acts, 2 Vict. cap. 4, and 8 Vict. cap. 49, also Jamaica Law 10 of 1890, consist of British sterling, United States gold and silver, and Jamaica nickel tokens. There is no limit to the legal tender of silver. There is a local Government paper currency of five shillings, ten shillings and one pound notes. Commercial accounts are usually kept in dollars, and Government accounts in sterling. A Government savings bank was established on 1st Jan., 1890, and had, on 31st Dec., 1925, 858 depositors, with £22,133 deposits.
+
+Constitution.
+
+By Jamaica Law No. 6 of 1926 which came into operation on the 1st day of August 1926, the Legislature consists of a Legislative Board comprising the Commissioner, who by virtue of his office is President, and seven other persons, three of whom are holders of offices under the Crown, appointed by the Governor of Jamaica. Taxation and expenditure and all local matters, are regulated by this board. Laws passed by the
+Legislative Council of Jamaica which are in express terms made applicable to Turks Islands take effect there. The subjects of currency, bills of exchange, patents, and the custody of prisoners and lunatics have been so dealt with.
+
+| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |
+|------|---------|-------------|-----------------|---------------|
+| 1916 | 8,684   | 7,930       | 27,224          | 419,764       |
+| 1917 | 9,626   | 8,722       | 34,485          | 433,917       |
+| 1918 | 8,671   | 8,323       | 24,016          | 372,608       |
+| 1919 | 11,164  | 9,263       | 38,872          | 378,204       |
+| 1920 | 11,294  | 10,780      | 64,281          | 559,078       |
+| 1921 | 11,733  | 11,000      | 48,964          | 427,741       |
+| 1922 | 10,409  | 11,474      | 68,697          | 680,488       |
+| 1923 | 11,751  | 10,950      | 101,396         | 606,024       |
+| 1924 | 9,693   | 12,186      | 68,888          | 499,895       |
+| 1925 | 10,460  | 11,177      | 48,336          | 310,067       |
+
+There is no Public Debt.
+
+Total Customs Revenue, 1924.
+
+| Year | Revenue |
+|------|---------|
+| On Imports | 3,808 |
+| On Exports | 2,561 |
+| **£6,359** |
+
+Population by Census.
+
+| Year | Males | Females | Total |
+|------|-------|---------|-------|
+| 1901 | 2,408 | 2,879   | 5,287 |
+| 1911 | 2,505 | 3,110   | 5,615 |
+| 1921 | 2,545 | 3,067   | 5,612 |
+
+Imports.
+
+| Year | From U.K. | From Colonies | From Elsewhere | Total |
+|------|-----------|---------------|----------------|-------|
+| 1916 | 2,046     | 2,813         | 24,160         | 29,009|
+| 1917 | 1,664     | 4,090         | 29,176         | 34,930|
+| 1918 | 1,347     | 8,368         | 29,560         | 39,276|
+| 1919 | 2,140     | 8,747         | 27,456         | 38,343|
+| 1920 | 3,610     | 7,021         | 49,122         | 59,753|
+| 1921 | 4,924     | 5,866         | 45,147         | 55,937|
+| 1922 | 4,667     | 3,022         | 40,506         | 48,185|
+| 1923 | 3,577     | 2,960         | 40,023         | 46,560|
+| 1924 | 4,282     | 3,230         | 36,741         | 43,253|
+| 1925 | 4,592     | 3,520         | 33,458         | 41,570|
+
+Exports.
+
+| Year | To U.K. | To Colonies | To Elsewhere | Total |
+|------|---------|-------------|--------------|-------|
+| 1916 | —       | 5,284       | 22,524       | 27,808|
+| 1917 | —       | 13,021      | 29,064       | 42,085|
+| 1918 | 360     | 12,243      | 12,996       | 25,598|
+| 1919 | 580     | 14,802      | 18,172       | 33,554|
+| 1920 | 382     | 19,466      | 24,644       | 44,492|
+| 1921 | 1,400   | 17,620      | 14,073       | 33,093|
+| 1922 | 882     | 19,743      | 26,035       | 46,660|
+| 1923 | 750     | 14,843      | 21,862       | 37,455|
+| 1924 | 131     | 13,160      | 18,904       | 31,496|
+| 1925 | 485     | 18,412      | 20,165       | 39,06 |
+
+List of Commissioners since 1893.
+
+1893. E. J. Cameron.
+1901. W. Douglas Young.
+1906. F. H. Watkins, I.S.O.
+1914. G. Whitley Smith, O.R.E.
+1923. Harold E. Phillips.
+
+The Legislative Board.
+
+The Commissioner, President.
+T. G. Southby.
+Robert O'Reilly, M.D.
+C. W. Frith.
+B. C. Frith.
+H. F. Harriott.
+J. D. Wood.
+A. J. M. Durham.
+
+Non-Officials.
+
+Clerk of the Board, Clifford G. Darrell.
+
+Civil Establishment.
+
+The Commissioner and Judge, Harold E. Phillips (with residence), 700l., duty allowance 50l.
+
+Assistant Commissioner, Auditor, and Magistrate, T. G. Southby, 500l. by 25l. to 600l.
+
+Assistant Treasurer, Collector of Customs, Registrar of Shipping, Postmaster and Manager of Savings Bank, Geoffrey H. Frith.
+
+Treasury Clerk, T. W. Willis.
+
+Chief Clerk, Commissioner's Office, Clifford G. Darrell.
+
+Harbour Master and Warehouse Keeper, R. G. Been.
+
+Superintendent of Public Works, G. W. Frith.
+
+Government Officer, Salt Cay, G. N. Antwood, 175l. and 10l. for boat.
+
+District Commissioner, Caicos Islands, also Boarding Officer and Foreman of Works, Cockburn Harbour, E. G. Ewing.
+
+Government Printer, N. J. Francis.
+
+Assistant Printer, J. B. Wynns.
+
+Judicial.
+
+Registrar, T. G. Southby.
+
+Bailiff, C. B. Jennings.
+
+Medical.
+
+Government Medical Officer (Turks Islands), Robert O'Reilly, M.D., Personal allowance, 50l. (and private practice) 500.
+
+House allowance 30.
+
+Ditto Ditto (Caicos Islands).
+
+J. A. Boffin, M.D. (and private practice) (with residence) 350.
+
+Police and Prisons.
+
+Inspector, The Assistant Commissioner, Grand Turk.
+
+Lighthouse.
+
+Head Keeper, B. H. Roberts.
+
+Ecclesiastical.
+
+Anglican Rector (vacant).
+
+Wesleyan Minister, Rev. R. R. Clark.
+
+Baptist Minister, Rev. J. A. Lynch.
+
+Foreign Consuls.
+
+France, W. S. Jones, Jr. Consular Agent.
+
+Haiti, W. S. Jones, Jr.
+
+San Domingo, Consul, J. G. B. Luque; Vice-Consul, W. S. Jones, junior; Vice-Consul, Cockburn Harbour, C. H. Durham; Vice-Consul, Salt Cay (vacant).
+KENYA COLONY AND PROTECTORATE.
+
+Extent and Administration.
+
+The territories comprised under the name of "Kenya Colony and Protectorate," until recently known as the East Africa Protectorate, include the whole of the coast line from Umba River to Dick's Head, and vast territories in the interior bounded in part by international convention lines. The eastern boundary was defined along the Juba and north-east by an agreement with Italy (1891), and on the north by an agreement with Abyssinia in 1908, but upon the cession of Jubaland to Italy on June 29th, 1923, a Commission was appointed to adjust the eastern and north-eastern boundaries. On the west, the Colony adjoins the Uganda Protectorate, and on the south the mandated Tanganyika Territory. It includes the Witu Protectorate, a small tract of country at the mouth of the Tana. The British East Africa Protectorate was proclaimed on November 19th, 1890. In March, 1891, the Imperial British East Africa Company undertook the administration of the country, from which they withdrew on July 31st, 1893. Witu is now regarded for administrative purposes as part of Tanaland.
+
+The Kenya Protectorate consists of the mainland dominions of the Sultan of Zanzibar—viz., a strip extending 10 miles inland along the coast from the Tanganyika mandated Territory frontier to Kipini and the islands of the Lamu Archipelago. In respect of these territories Kenya pays a rent of 10,000l. per annum to the Sultan of Zanzibar.
+
+The original concession was made to a company, subsequently called the Imperial British East Africa Company, but the territory was transferred in 1896 to His Majesty's Government, and the whole Protectorate was placed under the control of a Commissioner and Commander-in-Chief. It was transferred on April 1st, 1906, from the authority of the Foreign Office to that of the Colonial Office. By an Order in Council dated 9th November, 1906, the Protectorate was placed under a Governor and Commander-in-Chief, and the Order in Council of 22nd October, 1906, constituted Executive and Legislative Councils. The frontiers were defined by agreements with Germany (1890 and 1893) and Italy (1891), but the latter has now been varied by the cession of Jubaland to Italy under the Treaty with the Italian Government dated 24th July, 1924. All Foreign Consular Jurisdiction was, during the year 1908, transferred to the British Court.
+
+By the "Kenya Annexation Order in Council, 1920," the territories outside the mainland dominions of the Sultan of Zanzibar were recognised as a Colony. This Order in Council came into operation on the 23rd July, 1920, and the Sultan's mainland dominions are now styled the Protectorate of Kenya, whilst the remaining territory is known as the Colony of Kenya. The area of the Protectorate and Colony of Kenya is about 208,320 square miles.
+
+A scheme of administration providing for the separate control of the native and the settled areas, was brought into operation on the 1st of January, 1921.
+
+The Colony and Protectorate is divided into the following areas:
+
+1. The Nyanza Province, comprising the districts of North Kavirondo, South Kavirondo, Central Kavirondo, Nandi, Kericho, Kisumu, and Lumbwa.
+2. The Kerio Province, comprising the districts of Ravine, Baringo, Elgeyo, Marakwet, West Suk, and Turkana.
+3. The Kikuyu Province, comprising the districts of Kisambu, Fort Hall, South Nyeri, Embu, Meru, North Ngeri.
+4. The Ukaraba Province, comprising the districts of Machakos, Kitui, Teita, and Nairobi.
+5. The Coast Province, comprising the districts of Digo, Malindi, Tana River, Lamu.
+6. The Masai Province.
+7. The Northern Frontier Province.
+8. The Extra-Provincial Districts of Laikipia, Naivasha, Nakuru, Usain-Gishu, and Trans-Nzoia.
+
+The capital of the Colony is Nairobi, which is also the largest centre in the colony. A Municipality has been established here in respect of a population estimated as under:
+
+| Year | Europeans | Asiatics | Natives |
+|------|-----------|----------|---------|
+| 1925 | ...       | ...      | 3,612   |
+|      | ...       | ...      | 9,589   |
+|      | ...       | ...      | 12,700  |
+
+Mombasa is the principal port; the inhabitants number about 40,564, of whom about 869 are Europeans. It is situated on the eastern side of an island of the same name, possessing two fine harbours, one at Mombasa itself and the other at Kilindini, on the south-western side of the island. There is a lighthouse and signal station at the entrance to the Port. Kilindini is the finest land-locked and sheltered harbour on the East coast of Africa; it possesses an ample water supply and a scheme for improved harbour facilities is being carried out. Two deep-water berths have been constructed.
+
+The principal river flowing into the Indian Ocean is the Tana, which is navigable for about 400 miles by shallow draught steamers.
+
+Population.
+
+The total population is estimated at 2,602,969, the population having been decreased to the extent of approximately 136,000 owing to the cession of Jubaland to Italy. A census of the non-native population taken in February, 1926, showed a European population of 12,529 and an Asiatic population of 41,140. On the coast the Arabs and Swahilis predominate; further inland are races speaking Bantu languages, and non-Bantu tribes, such as the Masai, the Somalis and the Gallas.
+
+The prevailing religious beliefs are Pagan, but on the coast Muhammedanism has made great progress. There are in the Colony and Protectorate many Christian mission stations, representing thirteen different societies—British, French, Italian, Swedish and American, two of them being Roman Catholic. At these stations are schools for elementary instruction and handicrafts.
+
+Constitution.
+
+Under the Royal Instructions dated the 11th September, 1920, as amended by Additional Instructions dated the 28th December, 1925, the Executive Council of the Colony consists of the Colonial Secretary, Attorney-General, Treasurer, Chief Native Commissioner, Director of Medical and Sanitary Services, the Director of Agriculture, and Director of Education (ex officio members), such other persons holding office in the public service of the Colony as the Governor may appoint (official members), and such persons (if any) not holding such office as the Governor may appoint (unofficial members), with the Governor as President. It is further
+... in large quantities, and rubber are being extensively planted.
+provided that the Legislative Council of the Colony shall consist of the Governor as President, eleven ex officio members, not more than nine nominated official members, eleven European elected members, five Indian elected members, one Arab elected member, and one nominated unofficial member to represent the interests of the African community. It is further provided that until such Indian elected members have been elected there shall be five nominated Indian unofficial members. The ex officio members are to be the ex officio members of the Executive Council, with the General Manager of the Kenya and Uganda Railway, Commissioner of Lands, Director of Public Works, and Chief of Customs.
+
+By the "Kenya Protectorate Order in Council, 1920," it was provided that the Governor of the Colony should be Governor of the Protectorate, that the Executive Council of the Colony should be deemed to be the Executive Council of the Protectorate, and that it should be lawful for the Legislative Council of the Colony to legislate for the Protectorate. The Supreme Court is situated at Nairobi, and sessions are also held at Mombasa, Nakuru, Eldoret, Kisumu and various other places. In all cases to which natives are parties local ideas and customs are considered. The legal status of slavery has been abolished throughout the Colony and Protectorate.
+
+By local ordinance in January, 1924, provision was made for the election of the Indian and Arab members. The Indian franchise (like the European franchise) is adult (over 21) suffrage and the whole Colony and Protectorate form one five-member constituency. The Arab franchise is adult (over 21) male suffrage subject to ability to write Arabic or Swahili in Arabic characters. Here too the whole country forms one constituency.
+
+By the enactment in 1924 of the Native Authority Amendment Ordinance a considerable measure of local self-government was conferred on the various Native Councils in Kenya in regard to the social welfare of the tribes and the management of communal matters such as land, forests, veterinary services, etc., as well as the local control of health, education, agriculture, trade and labour recruitment.
+
+Climate.
+
+For purposes of rainfall Kenya may be divided into three parts:—
+
+(1). Northern Desert area where there is usually less than 20 inches a year.
+
+(2). The coastal strip and the Nyanza and Kikuyu Provinces where there may be from 40 to 80 inches a year, and
+
+(3) the remainder of Kenya where rainfall is from 20 to 40 inches a year. On the Coast there is usually a single rainy season from April to November, but up-country there are generally "long" rains from April to June, and "short" rains from October to December. The Coastal regions have a tropical climate though nights are cool except during the hottest months from December to April. In the Highlands the climate is invigorating with cool breezes; at Nairobi the mean maximum shade temperature in 1924 was 77° and the mean minimum 57°.
+
+Currency and Banks.
+
+The currency originally consisted of the Indian rupee as the standard coin, with smaller local coins and notes of higher denominations, all expressed in terms of the rupee; the British sovereign was also legal tender at Rs. 15. The exchange value of the rupee, after being maintained for many years by the Government of India at 1s. 4d., began to rise in 1917 and early in 1920 reached 2s. 9d. It was then decided to fix the rate in the East Africa Protectorate, the Uganda Protectorate and the Tanganyika Territory at 2s. sterling to the rupee, and to issue a new currency in local rupee coin and notes, but subsequently it was decided that the new coinage should be expressed in terms of florins, instead of rupees, the 50 cent. piece being alternatively termed a shilling. Some rupee notes were introduced but no rupee coins. Later the shilling was made the standard coin instead of the florin, and arrangements were made to withdraw the Indian rupee, which was demonetised from July, 1921, from circulation. The nickel-bronze coins (1, 5 and 10 cents, of a rupee) have been withdrawn from circulation, and new copper-bronze coins (cents of a shilling) have been introduced.
+
+The old Local Board of Currency Commissioners has been abolished, and the Currency of the Colony and Protectorate is now in the hands of the East Africa Currency Board in London, represented locally by the Treasurer.
+
+The National Bank of India Ltd. (Head Office:—26 Bishopsgate Street, London) are bankers to the Government of Kenya, with branches in the Colony and Protectorate of Kenya at Mombasa, Nairobi, Nakuru, and Kisumu, and at Kampala, Entebbe, and Jinja in the Uganda Protectorate.
+
+The Standard Bank of South Africa, Ltd. (Head Office:—10, Clement's Lane, Lombard Street, London) have branches at Mombasa, Nairobi, Eldoret, Nakuru, Kisumu, Nyeri, Kitale in the Colony and Protectorate of Kenya, and at Kampala and Jinja in the Uganda Protectorate.
+
+Barclays Bank (Dominion, Colonial and Overseas) with which is amalgamated The National Bank of South Africa, Ltd., has branches at Mombasa, Nairobi, and Eldoret.
+
+Land and Products.
+
+The agricultural products of the lowlands are coconuts, cotton, maize, sisal, sugar cane and the miscellaneous native grains, and oil seed.
+
+Effort towards an extension of the area under cotton is being made. In the highlands, coffee, maize, sisal are the premier crops and an increasing export trade in these products is noteworthy. Cereals (wheat and barley) are successfully grown, while sugar cane, potatoes, vegetables, fruit and a large variety of miscellaneous crops are cultivated on an increasing scale.
+
+Extensive pasture grounds exist throughout the highlands, and maintain considerable herds of grade and native stock.
+
+Sheep thrive in restricted areas, and the export of wool is steadily increasing.
+
+The forest products of the coast are mangrove poles and bark, timber and gum-copal. The scrub forests further inland contain ebony and scrub mahogany. The highland forests contain croton, pencil cedar in large quantities and several good timbers. Several large areas of fibre-bearing land have been leased near Voi and Kibwezi for the purpose of developing the Sansevieria fibre, which is indigenous. Sisal and rubber are being extensively planted.
+The mineral resources of the Colony are not yet well ascertained, but iron is known to occur abundantly in most districts; mica, distomite and graphite are found in Ukamba; limestone is worked near Kitui, Makindu and Lake Victoria; opals are common in the Rift Valley; a large deposit of carbonate of soda has been found in the south part of Ukamba; gold prospecting activities exist south of Kisii. Recent concessions include prospecting rights and grants of agricultural and grazing land.
+
+The total area of land alienated as at December 31st, 1926, was 5,745,607 acres of which 5,229,432 acres were leasehold. Sale of leases of land by public auction has been resumed.
+
+Trade and Customs.
+
+Since 1917 Kenya and Uganda have been one administrative unit for purposes of Customs.
+
+The Customs Tariff has been subjected to considerable revision in recent years. Up to 1921 an ad valorem duty of 10 per cent. was in force for practically all imports other than spirits, and certain articles for industrial, agricultural, stock breeding, railway and other services, were admitted free of duty.
+
+The principal export duties were derived from:
+
+(a) a specific tax ranging between 2 and 2½ shillings on birds and animals.
+
+(b) an ad valorem tax ranging between 4 per cent. and 30 per cent. on borites (rafters), chilalis, ebony, gum copal, hides, horns, ivory, rubber, sea shells and hippopotamus teeth.
+
+Legislation enacted in 1921-3, terminating with the Kenya Customs Tariff Ordinance of the 31st December, 1923, has introduced many important changes, the most notable being:
+
+(a) a uniform Tariff for Kenya and Uganda which operates also in Tanganyika Territory.
+
+(b) free trade between Kenya and Uganda, and Tanganyika Territory, in goods the growth, produce or manufacture of each of the Territories.
+
+(c) specific duties on certain classes of imports generally ranging between 10 per cent. and 50 per cent. of their value.
+
+(d) ad valorem duties ranging between 10 per cent. and 30 per cent. on imports not included in the specific list or otherwise provided for. These duties are assessed on the basis of the value of the goods at the port of shipment, plus the cost of packing, loading, freight, insurance, landing and all other charges up to the time of deposit in the Customs premises at the port of importation.
+
+(e) thorough revision of the free list which, while generally maintaining existing exemptions, has added passengers' personal and used household effects, disinfectants, surgical instruments, mining materials, and school stationery and similar requisites, etc.
+
+(f) entire abolition of export duties.
+
+The import tariff as it now stands has been designed, as far as possible, to protect imports essential to the opening up and development of the country at the expense of those of less utility; and to foster local production of agricultural and other commodities in which Kenya and Uganda are, or can be made, self-supporting.
+
+For Kenya and Uganda, the value, in £ sterling, of trade imports (excluding imports on Government account, railway material, and goods in transit and transhipment) and of exports (domestic and foreign), and the net amount of Customs receipts from all sources (rupees 16d. till 1921) and the tonnage entered at Kenya ports were as follows:
+
+| Year | Import | Export | Receipts, entered |
+|------|--------|--------|------------------|
+| 1918-19 | 3,397,810 | 3,224,854 | 288,782 |
+| 1919-20 | 3,119,536 | 4,321,454 | 287,032 |
+| 1920-21 | 6,911,888 | 5,746,196 | 614,198 |
+| 1921 | 2,370,269 | 2,857,518 | 357,477 |
+| 1922 | 2,871,240 | 5,504,579 | 575,595 |
+| 1923 | 4,302,574 | 5,377,122 | 779,731 |
+| 1924 | 6,277,907 | 7,720,122 | 1,016,817 |
+| 1925 | 8,061,448 | 9,876,153 | 1,192,920 |
+
+Gross tonnage.
+
+| Year | Import | Export | Receipts, entered |
+|------|--------|--------|------------------|
+| 1918-19 | 406,966 |
+| 1919-20 | 911,018 |
+| 1920-21 | 839,622 |
+| 1921 | 622,915 |
+| 1922 | 1,066,177 |
+| 1923 | 1,153,326 |
+| 1924 | 1,231,256 |
+| 1925 | 1,314,691 |
+
+Net Tonnage.
+
+Up to 31st March, 1921, the fiscal year was from 1st April to 31st March. The nine months in 1921 was from 1st April to 31st December. From then onwards the year is:—1st January to 31st December.
+
+The main imports during 1925 were:
+
+- Cotton goods and Manufactures £1,538,122
+- Tea ... ... ... ... ... ... cts. 6,934
+- Sugar ... ... ... ... ... ... 27,161
+- Salt ... ... ... ... ... ... 146,616
+- Rice ... ... ... ... ... ... 147,605
+- Wheatmeal and Flour ... ... ... ... ... ... 53,557
+- Soap ... ... ... ... ... ... £61,524
+- Motor Cars ... ... ... ... ... ... No. 1,538
+- Motor Lorries and Tractors ... ... ... ... ... ... 1,600
+- Bicycles ... ... ... ... ... ... 23,938
+- Motor Spirit ... ... Gallons 1,979,059
+- Fuel Oil ... ... ... ... ... ... 8,217,403
+- Machinery ... ... ... ... ... ... £382,287
+- Textiles and textile manufactures £335,529
+- Cutlery, hardware, etc. ... ... ... ... ... ... £244,622
+- Tobacco, cigars and cigarettes £164,984
+- Wearing apparel and haberdashery £136,068
+
+The Principal Countries of origin were:
+
+- Great Britain 38.06%
+- British Possessions 30.93%
+- Total British Empire 68.99%
+- United States of America 8.96%
+- Holland 5.43%
+- Germany 5.22%
+- Japan 3.88%
+
+The principal articles of domestic produce exported during 1925 were:
+
+- Maize ... ... ... ... ... ... £416,964
+- Other grain, pulse and flour ... ... ... ... ... ... 40,215
+- Cattle (for food) ... ... ... ... ... ... 9,321
+- Coffee, raw ... ... ... ... ... ... 963,920
+- Other food stuffs ... ... ... ... ... ... 26,252
+- Cedar wood ... ... ... ... ... ... 20,889
+- Mangrove poles ... ... ... ... ... ... 10,034
+- Carbonate of soda ... ... ... ... ... ... 213,680
+- Raw cotton ... ... ... ... ... ... 4,694,339
+- Flax fibre and flax tow ... ... ... ... ... ... 15,633
+- Sisal fibre and sisal tow ... ... ... ... ... ... 531,129
+- Seed, cotton ... ... ... ... ... ... 128,965
+- Seed, sesame ... ... ... ... ... ... 69,371
+- Nuts and kernels ... ... ... ... ... ... 66,281
+- Hides and skins ... ... ... ... ... ... 258,963
+- Rubber ... ... ... ... ... ... 72,710
+- Ivory (elephant) ... ... ... ... ... ... 55,863
+- Wool ... ... ... ... ... ... 37,776
+
+The Chief Countries of consignment were:
+
+- Great Britain 56.4%
+- British Possessions 27.8%
+- Total British Empire 84.2%
+- Belgium 3.5%
+- Germany 2.5%
+- Japan 2.1%
+- Holland 1.6%
+- Italy 1.6%
+Communications.
+
+The Union Castle Line and the British India Steam Navigation Co. maintain a monthly service of passenger steamers from and to London.
+
+The Messageries Maritimes from Marseilles to Madagascar call fortnightly at Mombasa, homewards and outwards.
+
+The "Italians" Navigation Company have two lines calling monthly; one steamer running as far as Zanzibar, and back to Genoa, and the other as far as Durban, and also back to Genoa, calling at the principal ports en route, including those of Italian Somaliland.
+
+The Clan Ellerman Harrison Line maintains a three-weekly service of fast cargo steamers from Liverpool as far as Beira.
+
+The Holland Africa Line maintains a fortnightly service from London and continental ports to South and East Africa calling at this Port.
+
+The Deutsche Ost Afrika line maintains a six-weekly passenger and cargo service between Mombasa, Continental ports and Southampton.
+
+The fortnightly Mail Service to Bombay and Durban is maintained by the British India Steam Navigation Company passenger and cargo steamers.
+
+Communication between the ports of the Protectorate is maintained by steamers belonging to the B.I.S.N. Co. and Messrs. Cowanjee Dinshaw Bros.
+
+The Kenya and Uganda Railway was formerly worked as a State Railway of Kenya Colony, but in 1921 it was decided that from 1st April this line together with all branch lines and steamer services both in Kenya and Uganda should be controlled by a Central Railway Council, consisting of a chairman and one official and one unofficial member from each Colony (Kenya and Uganda), and that railway surpluses should not be available for general colonial revenue purposes.
+
+On the 3rd February, 1926, the Kenya and Uganda (Transport) Order-in-Council, 1925, came into force, by which was established the office of High Commissioner for Transport for the Colony and Protectorate of Kenya and the Protectorate of Uganda. It provided that this office should be held by the Officer administering the Government of Kenya, and that he should have the control of the transport services owned, controlled, or managed, by the Governments of either of the two Territories, including railways, ports, wharves and steamships; the services were to be known as the Kenya and Uganda Railway. The Order-in-Council further provided for the constitution of a Kenya and Uganda Railway Advisory Council to consist of not more than two official and two unofficial members representing Kenya, and not more than two official and two unofficial members representing Uganda, each territory's representatives, official and unofficial, to be appointed by the respective Governors; and it directed that a Railway and Harbour Fund should be formed, into which was to be paid all revenue derived from the administration of the Services, and from which all disbursements were to be made.
+
+The length of the line including branches, open to traffic at the end of 1925, was 1,038 miles, with a gauge of one metre. A further length of 330 miles was under construction at that date. Nine steamers on Lake Victoria are worked in connection with the railway and there are flotillas on Lake Kioga and Lake Albert. The following figures include all services both in Kenya and Uganda.
+
+The construction cost, including steamers, etc., to December 31st, 1925, was £12,591,966. During the year ending 31st December, 1925, 534,474 tons of goods (exclusive of railway material) and 913,640 passengers were carried.
+
+| Year ending | Revenue | Expenditure |
+|-------------|---------|-------------|
+| 31/12/25    | £1,993,509 | £1,090,071 |
+
+A branch railway has been constructed from Nakuru (at mile 448 on the Uganda Railway) to Turbo (142 miles) on the Usain Gishu plateau, and is now open to traffic. This line is at present being extended through Tororo in Uganda to Mbubamuti on the Busoga Railway, and when completed will afford through communication between Kilindini and the Port of Jinja on Lake Victoria. The approximate mileage of this extension with branches is 256.
+
+Pauling & Co., Ltd., have constructed a deep-water wharf wall at Ras Kilindini, with sheds.
+
+The Post Office of the Colony (inclusive of the Uganda Post Office, which is worked by the Kenya Post Office) received and despatched during 1925 9,041,799 letters, packets, etc., and 526,648 telegrams.
+
+The telegraph system has 6,686 miles of wire (exclusive of Uganda). The lines connect Mombasa with Lamu (200 miles), Mombasa with Gazi (31 miles), Mombasa with Kisumu (587 miles), Kisumu with Entebbe (281 miles) (75 miles double line in Kenya, remainder in Uganda), Londiani with Eldama Ravine (22 miles), Lumbwa with Kericho (174 miles), Nairobi with Nyeri, West Kenya, Meru and Archers Post (204 miles), Kibigori with Nandi, Eldoret, Sergott, Hoey's Bridge and Kitale (107 miles), Magadi Junction with Machakos (163 miles), Magadi Railway (91 miles), Elmenteita with Narok (58 miles), Nakuru with Rumuruti (59 miles), Muhoroni with Songhor (10 miles), Nairobi with Kyambu (10 miles), Voi to Tanganyika Border (81 miles). Communications between Mombasa and Kisamayu (325 miles), from both these stations with ships at sea and, (for Government traffic only), between Mombasa and Zanzibar is maintained by means of radio-telegraphy. A cable connects Mombasa with Zanzibar.
+
+Telegraph communication exists with Tanganyika Territory by means of lines between Voi on the Kenya and Uganda Railway and Taveta. The Kenya telegraph system is also linked up by land lines with South African and Belgian Congo telegraph systems.
+
+Telephone exchanges are worked at Nairobi, Mombasa, Nakuru and Kisumu Post Offices; 1648 telephones were in use in Kenya and Uganda at the end of 1925.
+
+Preliminary survey flights between Kisumu and Khartum, the cost of which is to be borne in part by the Kenya, Uganda, and Sudan Governments, were started in February, 1927, with a view to deciding the feasibility of an air mail service on that route.
+
+E. Africa Governors' Conference.
+
+In pursuance of a recommendation of the Parliamentary Commission which visited E. Africa in 1924, a Conference of Governors of the British East African dependencies was held in Nairobi in January and February, 1926, for the discussion of matters of mutual concern. It was decided that Conferences should be held from time to time at Nairobi. There is a permanent Secretary

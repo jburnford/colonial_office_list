@@ -1,0 +1,577 @@
+BERMUDA.
+
+Situation and Area.
+
+The "Bermudas" or "Somers' Islands" form a group or cluster of about 300 small islands, situated in the Western Atlantic Ocean, in lat. 32° 15' N., and long. 64° 51' W., about 580 miles to the eastward of Cape Hatteras in North Carolina, the nearest point of the neighbouring American Continent. The distance from Liverpool is about 2,900 miles, from Halifax in Nova Scotia 730, from New York 677, and from the nearest of the West Indian Islands about 800 miles. The total area is estimated at 19 square miles (less than one-eighth of Rutland).
+
+History.
+
+These islands were discovered in the year 1515, by a Spanish mariner, Juan Bermudez, after whom they were called The Bermudas. The Spaniards, however, took no steps to form a settlement on the islands, and they were still entirely uninhabited when, in 1609, Admiral Sir George Somers' ship, The Sea Venture, while on a voyage with a fleet of eight other vessels, conveying a party of colonists to the new plantations then being formed in Virginia, was wrecked upon one of the numerous sunken reefs which surround the islands on every side. The reef is still called after the name of the Admiral's ship, The Sea Venture Flat.
+
+Sir George Somers died in Bermuda the following year, and his companions, ignorant possibly of the prior claims of Juan Bermudez, called the group after him, "The Somers' Islands." The reports of the beauty and fertility of the land, taken home by Somers' nephew, Captain Mathew Somers, induced the Virginia Company to seek an extension of their Charter, so as to include the islands within their dominion, and this extension was readily granted by King James I., but shortly afterwards the Virginia Company sold the islands for the sum of 2,000l. to a new body of adventurers, called "The Governor and Company of the City of London for the Plantation of the Somers Islands," and thenceforward, for a considerable time, the islands bore the name of the Admiral who had led thither the first body of settlers.
+
+General Description.
+
+The Bermudas, of which a good account will be found in the narrative of the voyage of the Challenger, may be described as a singular agglomeration of small islands and submarine sandhills and coral reefs, forming together an irregular oval ring, measuring about 22 miles in length from N.E. to S.W., and about 3 miles in width from N.W. to S.E. The external ring—whether composed of islands or of sunken banks or reefs—is seldom more than a mile in width, and generally considerably less.
+
+At present the southern portion only of the encircling ring is formed of islands, the northern, eastern, and western sides being composed of almost continuous reefs of coral. The largest island, generally known as The Main Island, is about 14 miles in length, and about a mile in average width; it contains about 9,000 acres of land, the highest point being only 240 feet above the sea. All the other islands taken together measure about 3,000 acres. The city of Hamilton, now the seat of Government, is situated about the centre of the main island, where a deep inlet running up for two or three miles into the land
+from the sheltered waters, enclosed between the encroiling reef, forms a safe and convenient harbour for the vessels which carry on the island trade.
+
+Next in importance to the main island is the island of St. George, on which stands the town of St. George, so named after Admiral Sir George Somers, whose heart is buried there. This town was formerly the capital of the Colony, and though now shorn of much of its importance by the transfer of the seat of Government to Hamilton, is still a town of considerable trade, and its harbour is much frequented as a harbour of refuge.
+
+The other principal islands of the group are—Ireland Island, entirely given up for the accommodation of His Majesty's Dockyard and a number of other naval establishments; Boaz and Watford Islands, intervening between Ireland Island and the rest of the group, and now exclusively occupied by military depôts and garrisons; Somerset, Smith's, St. David's, Cooper's, Nonsuch, Rivers, Ports, and Godets—all inhabited by a civil population. The islands form an almost continuous chain, and there is uninterrupted communication by roads and bridges and causeways from St. George over the main island and Somerset, and over Watford and Boaz to Ireland Island—a distance of about 22 miles.
+
+About one-half of the inhabitants are of English descent, the remainder belonging for the most part to the negro race. English is universally spoken.
+
+The climate has been long celebrated for its mildness and salubrity. The rainfall in 1930 was 60'27 inches, as against 59'57 in 1929, 73'72 in 1928, 50'12 in 1927, 70'30 in 1926, and 66'26 in 1925. There is no winter, the thermometer never falling below 40 deg. of Fahr., and the summers are never very hot, the thermometer rarely rising above 86 deg. The summer heat, too, is generally tempered by a pleasant sea breeze.
+
+In 1914 the Legislature voted the sum of £51,750, payable in fifteen yearly instalments, as a contribution to the Imperial Treasury in aid of the war fund.
+
+The state of the Colony's finances did not admit of an immediate cash contribution and these annual payments represent a lump sum of the present value of £40,000.
+
+In 1927 the Legislature voted a contribution to His Majesty's Government of 2/6 per capita of the local population, payable after the 1st January, 1930, towards the cost of the military Garrison in the Colony, and a further contribution payable after the 1st January, 1928, of a sum computed in respect of all ranks of the Military Garrison serving in the Colony.
+
+Industry, Trade and Customs.
+
+In former days the inhabitants of Bermuda gave themselves up almost entirely to maritime pursuits. Numerous small vessels, of from 200 to 300 tons burthen, built by the islanders themselves, of their native cedar, traded between the West Indies and Demerara, and the United States, and the British colonies of North America. Later they extended their voyages, carrying the salt fish of Newfoundland to Italy and Portugal, and taking back the Port wine for which Newfoundland became celebrated, or running down to Madeira or Ascension to meet the homeward-bound Indian fleet, and taking back cargoes of tea or other Indian and Chinese products to be distributed along the American seaboard.
+
+The repeal of the British navigation laws, the introduction of steam, and the very general substitution of iron for wooden ships, gradually destroyed the carrying trade which had been so profitable to Bermuda, and now the maritime fleet may be said to have ceased to exist, and the industry of the islanders is entirely confined to mercantile pursuits and to turning to account the small quantity of agricultural land which they possess.
+
+The soil of Bermuda is naturally calcareous, free-draining, and poor in humus. A fair state of fertility is, however, readily maintained by the regular use of manures and fertilisers. Not more than one-fourth of the total area of the colony can be cultivated, but the climate, combined with the geographical position of these islands, compensates for the small extent of arable land. There is never any danger of frost, and seeds may be sown and plants put out at any time. The main crops, potatoes, onions and green vegetables, are planted from August to March, and are reaped and shipped from December to June when the New York market is comparatively bare of early potatoes and fresh vegetables.
+
+Practically the whole of the exports go to the United States, and two-thirds of the imports come from that country, the remainder coming from the United Kingdom and Canada. There is a small trade with the West Indies.
+
+The Islands of Bermuda have become a favourite winter resort for Americans and Canadians seeking to escape the rigours of the climate of the continent. Large hotels have sprung up, and a considerable amount of money is expended by the visitors.
+
+The total number of tourists to Bermuda during 1930 was 43,094, of whom 42,226 came from the United States of America and Canada, and 366 from the United Kingdom.
+
+The quantity of shipping is remarkable for so small a place. During 1930, as will be seen from the tables, 5,739,748 tonnage entered and cleared, of which 3,862,478 was British.
+
+About two-thirds of the Government revenue is obtained from Customs Duties on imports. The greater part of these receipts is from ad valorem duties at the rate of 10 per cent., with a surtax of 25 per cent. of the duty on all goods of non-British origin. Wines, spirits, and tobacco of British origin are subject to a 22½ per cent. surtax.
+
+Currency and Banking.
+
+The coins in circulation are British currency, which is legal tender. There is no limit to the legal tender of British silver. Bermuda Government £1 and 10s. Currency Notes to the value of £131,223 have been placed in circulation since 1915. There are two incorporated banks, the Bank of Bermuda, Limited, and the Bank of N. T. Butterfield & Son, Limited, and several of the leading merchants do a considerable amount of business as private bankers and agents. A Government savings bank was established in 1871, and there are branches at Hamilton, St. George's, and Sandy's Parish. The number of depositors at the end of 1930 was 4,868, the total amount of deposits £132,703.
+
+On the 1st of January, 1922, the Savings Bank was transferred from the Treasury to the Post Office Department.
+Education.
+
+In 1839 the Colonial Legislature first granted a sum of money to aid elementary schools.
+
+The central control is vested in a Board of Education, consisting of ten members appointed by the Governor under the provisions of the Schools Act, 1922.
+
+All the schools are private schools, charging fees. Attendance is compulsory, and there were, in 1930, 32 aided schools with about 3,752 scholars.
+
+There are, in addition, about 12 schools which receive no State aid.
+
+In August, 1905, the Legislature established an annual scholarship of £150., tenable by youths, natives of Bermuda, for two years at some educational institution abroad to be approved by the Governor, with a view to assisting youths to prepare to compete for the Rhodes' Scholarship awarded to Bermuda. The amount was increased to £200. p.a. in 1920, and the tenure of the scholarship to three years in 1927.
+
+At the end of the year 1924, the Bermuda (Technical Education) Scholarship Act was passed establishing four new scholarships each of the value of £125., subsequently increased to £150., and tenable for four years at some educational institution out of the Colony.
+
+Means of Communication.
+
+Telegraphic communication with the United Kingdom is carried on by the cable between the Islands and Halifax, Nova Scotia.
+
+Rates to Halifax, 1s. 4d. per word.
+
+England, 2s. 6d.
+
+This cable has also been carried on to Turks Island and Jamaica, thus giving direct telegraphic communication with the West Indies.
+
+Communication between Bermuda and England is maintained by steamers of Messrs. Elders and Fyffes, Ltd., and of the Pacific Steam Navigation Co., Ltd., which make regular calls at Bermuda every month outward and homeward, Bermuda being a port of call in both directions. The ships of the former line sail from Avonmouth and of the latter from Liverpool.
+
+Permits to land in Bermuda are required by other than first class passengers.
+
+Communication between Bermuda and New York is maintained by steamers of the Furness-Bermuda Line, with bi-weekly sailings and by the Munson Line.
+
+The R.M.S.P. also maintain a weekly service with New York from December to April.
+
+The Canadian National Steamships maintain a passenger and freight service between Montreal, Bermuda, Nassau, Kingston, Belize and British Honduras, sailing every two weeks from Montreal in summer and from Halifax in winter, and the Canadian Pacific Railway Company a freight service from Montreal to Bermuda, Barbados, Trinidad and Demerara, sailings about twice a month.
+
+Letters from England usually take from nine to twelve days. Postage rates are:
+
+Letters.
+
+Within the Colony, per 1 oz. 1d.
+
+To U.K., India and British Colonies, per ½ oz. 1d.
+
+To all other countries
+
+Parcels to England, 1s. for 3 lbs.; 2s. for 7 lbs.; 3s. for 11 lbs.
+
+Newspapers.
+
+To U.K., India and British Colonies, per 2 oz.
+
+Books
+
+Papers
+
+Internal Communications.
+
+A light railway is under construction in the Colony. There are approximately 105 miles of colonial and 15 miles of military roads. There is a private telephone company, which has about 1,800 subscribers and about 1,600 miles of wire in line.
+
+Government and Constitution.
+
+Representative government was introduced into the Colony in 1620, but the charter of the Bermuda Company of London was annulled in 1684, and since then the Governors have always been appointed by the Crown, and the laws of the Colony have been enacted by a local legislature consisting of the Governor, the Legislative Council, and the House of Assembly. The session lasts usually from November to June.
+
+The Governor is assisted by an Executive Council, consisting at present of four official and three unofficial members. The Legislative Council consists of nine members, three of whom are official and six unofficial. The House of Assembly consists of thirty-six members, four of whom are elected by each of the nine parishes. The members of Executive Council and of the Legislature are paid 8s. a day for each day's attendance. There are 1,807 electors, the electoral qualifications being the possession of freehold property of not less than £60. value. The qualification for a member of the House of Assembly is the possession of freehold property rated at £240.
+
+On the 1st August, 1920, the 300th anniversary of the first meeting of the General Assembly was celebrated by a joint session of all branches of the legislature held at St. Georges in the "Old State House," in which the early assemblies sat.
+
+Local Government.
+
+Hamilton and St. George have been incorporated since 1793 and 1797 respectively, and there are nine parish vestries, all the members of which, as well as of the two municipal corporations, are elected annually.
+
+| Year | Revenue | Expenditure | Total |
+|------|---------|-------------|-------|
+|      | £       | £           | £     |
+| 1921 | 201,382 | 237,492      | 2,387,797 |
+| 1922 | 214,082 | 220,476      | 2,178,563 |
+| 1923 | 809,916 | 777,925      | 2,817,015 |
+| 1924 | 329,139 | 312,968      | 2,768,306 |
+| 1925 | 248,476 | 312,283      | 2,749,780 |
+| 1926 | 314,298 | 291,209      | 3,188,913 |
+| 1927 | 290,235 | 288,420      | 3,041,850 |
+| 1928 | 320,749 | 303,642      | 3,413,301 |
+| 1929 | 331,448 | 334,262      | 4,073,459 |
+| 1930 | 429,190 | 409,672      | 1,877,270 |
+
+Public Debt, 1930—75,000l.
+
+Customs Revenue, 1927—196,698l. 1928—220,398l. 1929—240,649l. 1930—301,474l.
+
+Imports.
+
+| Year | From United Kingdom | Colonies | Elsewhere | Total |
+|------|---------------------|----------|-----------|-------|
+|      | £                   | £        | £         | £     |
+| 1921 | 351,289             | 239,489  | 749,462   | 1,340,240 |
+| 1922 | 366,072             | 220,943  | 679,681   | 1,266,696 |
+| 1923 | 708,413             | 260,172  | 913,816   | 1,882,401 |
+| 1924 | 666,316             | 357,442  | 791,265   | 1,815,023 |
+| 1925 | 384,044             | 264,163  | 676,634   | 1,325,041 |
+| 1926 | 367,521             | 272,245  | 768,058   | 1,404,824 |
+| 1927 | 436,801             | 294,497  | 793,496   | 1,632,794 |
+| 1928 | 471,704             | 370,420  | 748,346   | 1,587,470 |
+| 1929 | 573,569             | 349,652  | 795,027   | 1,718,248 |
+| 1930 | 510,496             | 645,091  | 893,981   | 1,954,568 |
+BERMUDA.
+
+**Exports**
+
+| Year | To United Kingdom | Colonies | Elsewhere | Total |
+|------|------------------|----------|-----------|-------|
+| 1921 | Nil              | 12,062   | 212,674   | 224,636 |
+| 1922 | 2,796            | 18,989   | 211,511   | 233,296 |
+| 1923 | 450              | 47,911   | 445,439   | 493,800 |
+| 1924 | 9,872            | 48,344   | 388,036   | 446,262 |
+| 1925 | 10,892           | 14,664   | 140,462   | 166,020 |
+| 1926 | 9,275            | 32,118   | 198,160   | 239,553 |
+| 1927 | 8,035            | 14,383   | 227,540   | 249,968 |
+| 1928 | 11,262           | 47,582   | 118,181   | 177,015 |
+| 1929 | 4,740            | 17,646   | 163,518   | 188,903 |
+| 1930 | 159              | 31,605   | 159,963   | 191,727 |
+
+**Population, Census, 1871—12,121; 1881—13,948; 1891—15,013; 1901—17,536; 1911—18,994; 1921—20,127; 1931—27,789.**
+
+**Population of Hamilton, 3,217; of St. George's, 1,281.**
+
+**Governors since 1888:**
+
+- 1888 Lieut.-Gen. E. Newdigate-Newdegate, C.B.
+- 1892 Lieut.-Gen. Thos. Casey-Lyons, C.B.
+- 1896 Lieut.-Gen. G. Digby Barker, C.B.
+- 1902 Lieut.-Gen. Sir H. L. Geary, K.C.B.
+- 1904 Lieut.-Gen. Sir Robert McG. Stewart, K.C.B.
+- 1907 Lieut.-Gen. Joscelyn Heneage Wodehouse, C.B., C.M.G.
+- 1908 Lieut.-Gen. Sir Frederick Walter Kitchener, K.C.B.
+- 1912 Lieut.-Gen. Sir George M. Bullock, K.C.B.
+- 1917 General Sir James Willcocks, G.C.B., G.C.M.G., K.C.S.I., D.S.O.
+- 1922 General Sir Joseph John Asser, K.C.B., K.C.M.G., K.C.V.O.
+- 1927 Lieut.-Gen. Sir Louis Jean Bols, K.C.B., K.C.M.G., D.S.O.
+- 1930 Lieut.-Gen. Sir Thomas Astley-Cubbitt, K.C.B., C.M.G., D.S.O.
+
+In the absence of the Governor the Officer holding the substantive post of Colonial Secretary administers the Government.
+
+**Executive Council.**
+
+The Governor, Colonial Secretary, Attorney-General, Colonial Treasurer (ex-officio); S. S. Spurling, C.M.G., O.B.E., M.C.P.; H. W. Watlington, O.B.R., M.C.P.; John P. Hand, C.M.G., M.B.E., M.C.P. (unofficial members).
+
+Clerk, C. H. Clay.
+
+**Legislative Council.**
+
+The Chief Justice, Colonial Secretary, Colonial Treasurer (ex-officio); E. C. Wilkinson, M.D., H. J. Cox, J.P., H. D. Butterfield, T. H. Outerbridge, L. B. Harnett, M.B.E., R. W. Appleby, J.P., V.D.
+
+Clerk, O. H. V. Talbot.
+
+**House of Assembly (36 Members).**
+
+Speaker, A. W. Bluck, 300l. per annum.
+
+Sandy's parish
+
+- J. H. P. Patterson.
+- T. F. Fall.
+- F. C. Misick.
+- C. G. Gilbert.
+- O. B. Lobein.
+
+Southampton parish
+
+- J. N. Lambe.
+- L. D. Bell.
+- G. A. Williams.
+
+Warwick parish
+
+- H. V. Smith.
+- W. A. Moore.
+- G. S. Patton.
+- A. B. Smith.
+- A. Gosling.
+- N. W. Hutchings.
+- J. D. B. Talbot.
+- A. C. Smith.
+
+Paget parish
+
+- A. W. Bluck, Speaker.
+- R. C. Crawford.
+- J. P. Hand, C.M.G., M.B.E.
+- J. R. Conyers, J.P.
+- H. B. Dunkley.
+
+Pembroke parish
+
+- H. W. Watlington, O.B.E.
+- T. M. Dill, O.B.E.
+- J. W. Cox.
+- J. S. Pearman.
+- B. C. C. Outerbridge.
+- J. M. Darrell.
+- W. J. H. Trott.
+- T. H. H. Outerbridge.
+- H. T. North.
+- W. B. Smith.
+- T. H. Davis.
+- R. O. Clifford.
+- L. D. Fox.
+- E. P. T. Tucker.
+- S. S. Spurling, C.M.G., O.B.E.
+
+Hamilton parish
+
+St. George's parish
+
+- Clerk, E. H. Gosling, Grade II.
+- Sergeant-at-Arms, E. L. B. Cooper, 160l.
+
+**Civil Establishment.**
+
+Governor and Commander-in-Chief, Lt.-Gen. Sir T. A. Cubitt, K.C.B., C.M.G., D.S.O., *3,400l., and **1,400l. entertainment allowance.
+
+Aide-de-Camp, The Lord Carew.
+
+**Salaries.**
+
+The Civil Service is paid according to the following incremental scale:
+
+- Special, £600—£25—£700.
+- Grade I., £450—£20—£550.
+- Grade II., £350—£15—£440.
+- Grade III., £250—£10—£340.
+- Grade IV., £150—£10—£240.
+- Grade V., £100—£5—£150.
+
+Grade V. officers are not shown in the following list.
+
+**Colonial Secretary's Department.**
+
+Colonial Secretary, E. W. Evans, 1,000l., and rent allowance 250l.
+
+Assistant Colonial Secretary and Clerk to Executive Council, C. H. Clay, Grade, Special.
+
+Senior Clerk and Clerk to Legislative Council, C. H. V. Talbot, Grade II.
+
+Junior Clerk, Miss M. E. Hallett, Grade III.
+
+Stenographer, Miss T. A. Mitchell, Grade IV.
+
+2nd Stenographer, Miss M. E. Adams, Grade IV.
+
+Office Keeper and Messenger, W. J. G. Rowling, Grade IV.
+
+**Revenue Department.**
+
+Colonial Treasurer and Registrar of Shipping, J. T. Trimingham, 800l.
+
+Assi. Treasurer, Grade I., G. L. Young.
+
+Clerks, Grade II.
+
+- T. H. Parker.
+- A. R. Smith.
+
+Clerk, Grade III., Miss E. L. Smith.
+
+Clerks, Grade IV.
+
+- Miss M. F. Powell.
+- H. T. Miller.
+
+1st Revenue Officer, Hamilton, T. St. G. Gilbert, Grade I.
+
+*2,300l. from British funds. **400l. from British funds.
+2nd Revenue Officer, Hamilton, J. W. Kempe, Grade II.
+Revenue Officer, Ireland Island, H. St. G. Tucker, Grade II.
+Collector of Customs, St. George's and Assistant Receiver-General, H. D. Fox, Grade I.
+Revenue Officer, St. George's, H. J. Pearson, Grade II.
+
+Post Office Department.
+Colonial Postmaster, P. S. Ingham, 750l.
+Assist. Colonial Postmaster, H. J. Williams, Grade I.
+Clerks, Grade II., A. C. Jones, L. R. Motyer, W. A. Manuel.
+Clerks, Grade III., A. E. Gauntlett, Jr., C. H. Moss, W. E. Sylvester.
+Clerks, Grade IV., Miss G. Dickinson, Miss A. Beek, Mrs. McGee, Miss A. Dale.
+Postmistress, Ireland Island, Mrs. L. A. Merrick, 250l.
+Postmistress, Somerset, Miss F. Fowle, 250l.
+
+Public Works Department.
+Director of Public Works, W. Livingston, A.M.I.C.E., P.A.S.I., 800l.
+1st Works Assistant, R. Kemsley, Grade I.
+2nd " " N. B. Taylor, Grade II.
+Clerk to Board and Director, T. Smith, Grade III.
+Junior Clerk, Mrs J. Morgan, Grade IV.
+Stenographer, Miss D. Mitchell, Grade IV.
+
+Public Health Department.
+Director of Medical and Health Department, H. C. Wilkinson, M.D., 1,000l.
+Chief Sanitary Inspector (vacant), Grade III.
+Sanitary Inspectors, A. E. Redman, J. Card, O. P. Fisher, Grade IV.
+Pest Inspectors, R. W. Virtue, A. Young, S. A. Corbett, Grade IV.
+Clerk to General Board of Health and Director, Miss E. Bartrum, Grade III.
+
+Police and Gaols Department.
+Chief of Police and Provost Marshal General, D. R. A. Bettington, Special.
+Superintendent of Police, W. N. T. Williams, Grade I.
+Inspector of Police, J. S. McBeath, Grade II.
+Sub-Inspector of Police, A. H. Burrows, 300l.-10l.-360l.
+Keeper, Hamilton Gaol, H. F. Wilton, Grade III.
+" " St. George's Gaol, H. W. Smith, 260l.
+
+Lunatic Asylum.
+Medical Superintendent, O. A. Arton, M.D., C.M., 220l.
+Head Keeper, E. S. Smith, Grade III.
+Matron, Mrs. L. Robinson, 150l.
+
+Quarantine.
+Director of Medical and Health Department.
+Health Officer, P. W. Graham Shelley, M.D.
+Extra Health Officers, H. C. Curtis, M.D., C.M.; R. D. Parker, M.D., C.M.
+
+Judicial Establishment.
+Chief Justice, Sir Sidney O. Rowan-Hamilton, 1,150l.*
+Assistant Judge, R. C. H. Hallett, fees.
+Attorney-General, Lt.-Col. T. M. Dill, O.B.E., 800l.
+Registrar of Supreme Court and Registrar General, W. N. Parker, Grade I.
+Clerk to Registrar General, G. Wingate, Grade III.
+
+* And rent allowance of 250l.
+
+Police Magistrate, Central District, H. V. Smith, J.P., 600l.
+" " Eastern District, R. J. Tucker, O.B.E., J.P., 400l.
+" " Western District, A. C. Smith, M.C., J.P., 400l.
+Marshal, Admiralty Court, D. R. A. Bettington.
+Coroners, W. J. Boyle and H. V. Smith, fees.
+
+Department of Agriculture.
+Director of Agriculture, E. A. McCallan, Special.
+Plant Pathologist (vacant), Grade I.
+1st Agricultural Assistant, W. B. Evans, Grade II.
+Inspector of Produce, E. L. Adams, Grade II.
+Government Veterinary Officer, C. J. Cooper, D.V.S., Grade III.
+Horticulturist, J. C. Nanen, Grade II.
+Clerk to Board and Director, Miss H. Lines, Grade III.
+
+Board of Trade.
+Inspector Board of Trade, Pilotage and Fisheries, J. R. Pearson, 600l.
+Curator, Aquarium, L. L. A. Mowbray, 500l.
+Warden of Pilots, Comdr. Landman, 500l.
+Clerk to Trade Development Board, J. J. Outerbridge, Grade II.
+
+Department of Education.
+Director of Education, C. G. G. Gilbert, B.A., M.C., Special.
+Clerk to Board and Director, Miss G. Gilbert, Grade IV.
+
+Hospital, King Edward VII. Memorial.
+Medical Superintendent, H. G. Harvey, M.R.C.S., L.R.C.P., C.M., Special.
+Secretary, P. Pattison, Grade II.
+
+Library and Museum.
+Librarian, Miss K. G. S. Seon, Grade III.
+First Assistant Librarian, Miss L. Nelmes, Grade IV.
+Second Assistant Librarian, Miss I. Darrell, 150l.
+
+Chief Military Officers.
+General Commanding, Lt.-Gen. T. A. Cubitt, C.B., C.M.G., D.S.O.
+Brigade Major, Capt F. B. B. Spragge, M.C., R.A.
+Commanding Royal Artillery, Capt. H. A. Hamilton.
+Commanding Royal Engineers, Lieut.-Colonel R. G. P. Hunter, O.B.E., R.E.
+Officer Commanding Royal Army Service Corps, Major H. H. Wright, D.S.O.
+Chief Ordnance Officer, Lieut. F. Moore.
+Senior Medical Officer, Major D. M. Corbett, O.B.E.
+
+Foreign Consuls.
+Argentina, L. B. Harnett, M.B.E., Vice-Consul.
+Belgium, J. P. Hand, C.M.G., M.B.E.
+Chile, G. Le R. Harnett.
+Denmark, J. D. C. Darrell.
+France, C. M. Allen, Consular-Agent.
+Greece, E. P. T. Tucker, Vice-Consul.
+Italy, W. E. Meyer, Consular Agent.
+Netherlands, J. D. C. Darrell.
+Norway, W. M. Conyers, Acting.
+Peru, W. J. Richardson.
+Portugal, H. Outerbridge.
+Spain, W. M. Conyers, Hon. Vice-Consul.
+Sweden, P. L. Lightbourn, Vice-Consul.
+United States, G. Kemper Consul.
+" " E. C. Merrell, Vice-Consul.
+" " F. J. Robinson, Consular-Agent.
+greatly
+ity trees,
+y nature
+uriously
+pluton,
+itude of
+y, which
+nd their
+
+—one of
+s of the
+Niagara,
+series of
+I, giving
+from 350
+ver from
+n of the
+st grand
+a source
+George-
+days or
+are now
+it of the
+is greater
+
+favour-
+similarly
+-tropical
+out the
+m shade
+hottest
+emporais.
+
+o 14° F.
+F., and
+February
+breezes
+without
+ter part
+January,
+night.
+north-east
+with
+known.
+inductive
+
+reas are
+
+August.
+o Mid-
+end of
+ebruary
+
+county
+that for
+inches
+ourteen
+he year
+member
+ity for
+it.
+
+trees.
+
+more
+2nd R
+Grad
+Revenu
+Grad
+Collect
+Rece
+Revenu
+Grad
+
+Colonial
+Assist.
+Grad
+Clerks,
+W.
+Clerks
+Ment
+Clerks,
+Beel
+Postmt
+250l.
+Postmt
+
+Direct
+A.M.
+1st Wo
+2nd
+Clerk
+Grad
+Junior
+Stenogr.
+
+Direct
+H.C.
+Chief
+Sanitai
+O.P.
+Pest In
+Cork
+Clerk
+Miss
+
+Chief
+D.B.
+Supervi
+Grad
+Inspect
+Sub-In
+10l.-
+Keeper
+
+Medic
+O.M.
+Head
+Matron
+
+Direct
+Health
+Extra
+R.I.
+
+Chief
+1,154
+Assist
+Attorn
+Registe
+Gene
+Clerk h
+
+* And rent allowance of 250l.

@@ -1,0 +1,101 @@
+NORTH BRITISH & MERCANTILE INSURANCE COMPANY.
+
+
+
+ESTABLISHED 1809.
+
+
+
+Funds - £23,000,000.
+
+
+
+LONDON: 61, Threadneedle Street, E.C.
+
+EDINBURGH: 64, Princes Street.
+
+THE COLONIAL BANK.
+
+
+
+Established and Incorporated by Royal Charter in 1836.
+
+
+
+SUBSCRIBED CAPITAL, £2,000,000, in 100,000 Shares of £20 each.
+
+PAID UP, £600,000. RESERVE FUNDS, £150,000.
+
+
+
+HEAD OFFICE, LONDON—
+
+No. 16, BISHOPSGATE, E.C.
+
+
+
+COURT OF DIRECTORS.
+
+
+
+Chairman—C. R. GURNEY HOARE, Esq.
+
+C. A. CAMPBELL.
+
+THOMAS DU BUISSON, Esq.
+
+E. A. DUFF.
+
+O. V. G. HOARE.
+
+SIR H. E. H. JERNINGHAM, K.C.M.G.
+
+
+
+Deputy Chairman—CYRIL GURNEY.
+
+SIR NEVILLE LUBBOCK, K.C.M.G.
+
+ARTHUR JOHN McCONNELL, Esq.
+
+EDMUND C. MORGAN.
+
+C. W. SOFER WHITBURN.
+
+
+
+AUDITOR.
+
+
+
+T. A. WELTON, Esq., F.C.A. (Welton, Jones & Co.)
+
+
+
+MANAGER.
+
+JAMES K. MORRISON.
+
+
+
+ASST. MANAGER and SECRETARY.
+
+CHARLES H. HEWETT.
+
+
+
+BANKERS.
+
+LLOYDS BANK, LIMITED.
+
+
+
+NEW YORK AGENCY—82, WALL STREET.
+
+
+
+BRANCHES AND AGENTS.
+
+
+
+ANTIGUA.

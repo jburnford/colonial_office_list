@@ -1,0 +1,375 @@
+UGANDA.
+
+(For Map see East Africa.)
+
+Extent and Boundaries.
+
+The British Protectorate over Buganda was proclaimed on June 19th, 1894, in succession to a brief administration by the Imperial British East Africa Company. The Protectorate was further extended over Bunyoro and Busoga on July 3rd, 1896. By numerous subsequent treaties concluded by various officers in the service of the Protectorate, the British administration has spread still further over countries adjoining the kingdom of Buganda proper, and the boundaries of the Protectorate may now be set forth more or less as follows:
+
+On the east by British East Africa as far north as the 4th degree of north latitude, the natural boundaries being Lake Rudolf, River Turkwel, Mount Elgon, and the Sio River running into the north-east corner of Lake Victoria; on the south, by the Anglo-German boundary and by the 1st degree of south latitude; on the west, by the frontier of the Belgian Congo, the natural boundaries being Lake Edward, Mt. Rwenzori, the Semliki River, Lake Albert and the Nile watershed; and on the north, by the Uganda-Sudan boundary.
+
+The area of the Uganda Protectorate is estimated at 107,828 square miles, including 16,377 square miles of water. Pending the complete survey of the country, it is not possible to give the correct area.
+
+For administrative purposes the Protectorate is divided into five provinces (Rudolf, Eastern, Northern, Western, and Buganda), and then again into numerous districts. The King or "Kabaka" of Buganda is accorded the title of "His Highness," and his position and rights are regulated by treaty.
+
+Climate.
+
+The climate, when compared with that of some tropical countries, is not unpleasant but it can by no means be called healthy. The conditions vary with the altitude in different parts of the Protectorate: the Nile Valley, which lies about 2,000 above sea-level, is hot, and is considerably more unhealthy than the higher-lying regions between Lakes Victoria and Albert. The most congenial climate for European residence is found in the Buganda kingdom and in the Western Province, where in some districts the altitude exceeds 5,000 feet above the sea-level. European children thrive well in infancy in a few of the healthier stations, but considerable risk is attached to bringing them out when over two or three years old, as they are always liable to attacks of malaria and the anaemia and general ill-health resulting therefrom. Residents in Entebbe keep fairly good health but even there malaria and blackwater fever are by no means unknown. Epidemics of plague and small-pox have occurred amongst the natives in recent years, but the medical authorities have fortunately been able to confine these outbreaks for the most part within narrow limits, owing to the co-operation of the chiefs in enforcing the restrictions and regulations imposed.
+
+The climate is mild, neither excessively hot nor cold, the average temperature for the year 1919 at Entebbe being Mean maximum, 79·2° Fahrenheit; mean minimum, 63·5° Fahrenheit. Average daily sunshine, 5 hours 27 minutes.
+The average rainfall at 52 stations, for the year ending 31st December, 1919, was 49·36 inches. Highest rainfall was registered at Gulu, being 76·25 inches.
+
+The seasons are not well defined, but there are two dry seasons within the year; one dry season usually includes June and July, and the other December, January and February.
+
+The healthiest months of the year are usually January, February and March, July, August, September and October, and the least healthy, April, May, November and December, or the periods corresponding to those immediately following the rains, when the mosquitoes become more in evidence and malarial infections more numerous.
+
+No part of the Uganda Protectorate can be said to be absolutely free from malaria, but in some districts, for example those of Toro and Ankole in the Western Province, there is comparatively little, while on the other hand, in the Nile valley and along the courses of the larger rivers, malaria prevails at all seasons of the year.
+
+Sleeping sickness, which proved such a scourge to the country a few years back and has necessitated the evacuation of the natives from the islands in Victoria Nyanza, and from the shores of the great lakes and rivers, is now well under control and should spread no further, in spite of the fact that no curative remedy is known for the disease.
+
+History.
+
+During the first years of the British Protectorate an armed force was created from the remains of the Sudanese army of Emin Pasha. To these other recruits were added from the districts of the White Nile, and the force thus organised, together with irregular bands of friendly Baganda, was used to repel the hostile attacks of the King of Bunyoro, and later of Mwanga, King of Buganda. Later on an Indian contingent, similar to that employed in East Africa and in British Central Africa, was established. Unfortunately discontent arose amongst a section of the Sudanese force. These Sudanese broke into open mutiny at the end of 1897, and Mwanga, who had escaped to German territory, returned to Buganda and joined the mutineers and Kabarega, rebel King of Bunyoro, in December, 1897. The Baganda, however, remained loyal, and after a year's fighting, with some loss in British officers, the mutiny was thoroughly quelled, and Mwanga and Kabarega were captured, and sent as prisoners to Kisimayu. In 1901 (Mwanga died May 8th, 1903) they were transferred to Seychelles, where they and a number of followers are maintained at the expense of the Uganda Government. Since the early part of 1899 the country has been perfectly peaceful, and has made considerable progress in commerce.
+
+Communications.
+
+The Uganda Protectorate itself is separated by about 800 miles from the east coast of Africa, but the north-easternmost extremity of Victoria Lake is not distant more than 580 miles. Over this stretch of country, all of which lies within the British East Africa Protectorate, transport was formerly exceedingly difficult, owing to the paucity of inhabitants to act as porters, and stretches of country unhealthy for beasts of burden. Consequently the Imperial Government resolved in 1895 to construct a railway from Mombasa to the north-east corner of Lake Victoria. This railway, at the end of 1901, had reached and descended the Kikuyu escarpment, traversed the Great Rift Valley, ascended the slopes of the Mau range to within a short distance from the summit, descended thence the Nyando Valley, and finally covered the whole 584 miles separating Mombasa from Port Florence on Victoria Nyanza, which is the terminus of the railway. Thus the line, though called the Uganda Railway, actually lies entirely in the East Africa Protectorate. The gross expenditure incurred in its construction to 31st March, 1903, was £5,384,370. (about 9,500l. per mile). Uganda is now in telegraphic communication with Mombasa by a land line, and thence by cable with Great Britain and other countries. All important centres within the Protectorate are connected also by telegraph. A railway has been completed from Jinja to Namasagali on the Victoria Nile, a distance of 62 miles, giving access to the waterways of Lake Kioga. A loan from Imperial funds of £125,000. was granted in 1912 to provide for extensive improvements in the communications on Lake Kioga and in the Eastern Province, to cope with the rapidly increasing output of cotton, and for a railway from Port Bell on Lake Victoria to Kampala, the principal commercial centre, a distance of 7½ miles, which was opened for public traffic on June 1st, 1915.
+
+Population.
+
+Estimated population (1920):
+
+| Europeans, males | 642 |
+|------------------|-----|
+| females          | 306 |
+| Asiatics         | 4,528 |
+| Africans         | 3,057,075 |
+
+Total: 3,062,550
+
+Products.
+
+Coffee of the Arabian varieties has been introduced and thrives exceedingly well. Rubber trees and vines are plentiful. A forest area of about 137 square miles has been leased to the Mabira Forest Company, and other Companies and private individuals are undertaking the planting of coffee, rubber, and cocoa on an extensive scale. These crops are still in the experimental stage, but, despite the attacks of various plant diseases, the outlook is promising. The principal industry is cotton; Cotton exported from 1st April, 1919, to 31st March, 1919, 130,464 cwts., valued at £1,209,663l.; cotton seed, 105,457 cwts., value £25,783l. It is all produced by the natives. Cattle are plentiful. Leasehold grants of land can be obtained from the government, but the issue of freehold concessions has been withdrawn for the present.
+
+Finances.
+
+| Year   | Revenue | Expenditure |
+|--------|---------|-------------|
+| 1910-11| £191,094| £252,374    |
+| 1911-12| £203,492| £283,689    |
+| 1912-13| £238,655| £292,147    |
+| 1913-14| £256,559| £290,180    |
+| 1914-15| £282,831| £289,213    |
+| 1915-16| £287,025| £285,072    |
+| 1916-17| £315,458| £289,308    |
+| 1917-18| £326,366| £292,913    |
+| 1918-19| £351,834| £330,972    |
+| 1919-20| £459,549| £465,118    |
+
+Imports.
+
+The Customs are now amalgamated with those of the Colony of Kenya, and separate statistics are not available.
+Exports. †
+
+| Year     | Value   |
+|----------|---------|
+| 1909-10  | £175,934|
+| 1910-11  | 337,356 |
+| 1911-12  | 384,700 |
+| 1912-13  | 452,310 |
+| 1913-14  | 524,260 |
+| 1914-15  | 537,363 |
+| 1915-16  | 534,362 |
+| 1916-17  | 702,048 |
+| 1917-18  | 784,693 |
+| 1918-19  | 1,247,437|
+| 1919-20  | 1,828,537|
+
+† Exclusive of specie and goods in transit. The destination of exports is not known when the goods leave the Protectorate. Goods are consigned to agents at Mombasa, from which port they are finally exported.
+
+Grants-in-Aid.
+
+| Year     | Value   |
+|----------|---------|
+| 1914-15 Parliamentary Grant | £10,000 |
+| 1915-16  | Nil     |
+| 1916-17  | Nil     |
+| 1917-18  | Nil     |
+| 1918-19  | Nil     |
+| 1919-20  | Nil     |
+
+The Revenue is principally derived from poll taxes, customs duties, cotton tax, trading licenses, and land rents. The revenue from poll taxes in 1918-19 was 195,704l.
+
+Administrators since 1905.
+
+1905-1909. Sir H. Hesketh-Bell, K.C.M.G.
+1909. Capt. H. E. S. Cordeaux, C.B., C.M.G.
+1909 (May-August). S. C. Tomkins, C.M.G.
+1909-1910. A. G. Boyle, C.M.G.
+1910-1911. S. C. Tomkins, C.M.G.
+1911. F. J. Jackson, C.B., C.M.G.
+1912 (July-December). H. R. Wallis, C.M.G.
+1913. Sir F. J. Jackson, K.C.M.G., C.B.
+1913 (June). H. R. Wallis, C.M.G.
+1914 (May-November). H. R. Wallis, C.M.G.
+1914-1917. Sir F. J. Jackson, K.C.M.G., C.B.
+1917 (April-1918-Feb.). H. R. Wallis, C.M.G.
+1918. R. T. Coryndon, C.M.G.
+1919. Sir R. T. Coryndon, K.C.M.G.
+1919 (December-July-1920). Sir W. M. Carter, Kt., C.B.E.
+1920 (July). Sir R. T. Coryndon, K.C.M.G.
+
+Kings of Buganda.
+
+1889-1897. Mwanga (deposed).
+1897-. Daudi Chwa (born 8th August, 1896, and attained his majority 8th August, 1914).
+
+Appointed Regents during the Kabaka's minority, Sir Apolo Kagwa, K.C.M.G., Stanislas Mugwanya, Zakaria Kisigiri, 400l. each. Upon the Kabaka reverting his majority the "Regents" reverted to their positions as his ministers. Zakaria Kisigiri died in 1918.
+
+There are under the Treaty 20 Saza Chiefs, who receive salaries varying from 200l. to 75l. a year from the British Government.
+
+Administration.
+
+Governor and Commander-in-Chief, Sir R. T. Coryndon, K.C.M.G., 3,000l., and 1,000l. duty allowance.
+Private Secretary, Major E. A. T. Dutton, 200l.
+Aide-de-Camp, Captain C. Palmer-Kerrison, 300l.
+Chauffeur, Baron Romanelli, 250l. and 15l. for clothing.
+
+Chief Secretary to the Government, E. B. Jarvis, C.M.G., 1,300l.
+Assistant Chief Secretary, T. S. W. Thomas, O.B.E., 800l. to 900l. by 50l., and 50l. as Registrar-General of Marriages.
+1st Assistant Secretary, G. Lyall, M.B.E., 500l. to 700l. by 25l., and 25l. as Editor of the Official Gazette.
+2nd Assistant Secretary (vacant), 400l. by 20l. to 500l.
+3rd Assistant Secretary (vacant), 400l. by 20l. to 500l.
+Office Superintendent, C. H. Broomfield, 400l. by 20l. to 500l.
+Clerk, P. G. Elliott, 250l. by 15l. to 400l.
+4 Provincial Commissioners, C. W. G. Eden, S. Browning, P. W. Cooper, O.B.E., and A. H. Watson, 800l. by 50l. to 1,000l.
+16 District Commissioners, G. P. V. Jervoise, J. C. R. Sturrock, P. T. Hannington, E. B. Haddon, Captain H. M. Tufnell, C. F. H. Henry, H. Pellev Wright, Captain E. B. Place, P. W. Perryman, M.B.E., J. de G. Delmge, E. L. Scott, O.B.E., M.C., C. E. E. Sullivan, A. E. Weatherhead, J. R. P. Postlethwaite, M.B.E., W. G. Adams, H. A. Mackenzie, 500l. by 25l. to 700l.
+20 Assistant District Commissioners, B. H. M. Simpson, J. G. Rubie, A. H. Cox, J. H. Driberg, D. G. Tomblings, G. L. M. Warne, B. A. Warner, F. H. B. Sandford, J. E. T. Philips, M.C., E. D. Tongue, Captain A. B. Trewin, C. L. Bruton, L. E. Knollys, F. H. Rogers, T. A. C. Rubie, J. B. Harvey, E. E. Feuill, H. H. Hearne, A. O. Fisher, H. B. H. O'Neil.
+25 Cadets, E. A. Temple-Perkins, J. H. Jarrett, W. H. Long, Captain E. M. Perse, M.C., C. Bradley, G. H. M. Lamb, W. H. Nelson, C. R. Bustard, Captain B. H. Morison, M.C., Captain C. S. Nason, Lieutenant R. O. Hunt, Captain F. L. Williams, Lieutenant F. M. Barrell, H. C. White, Captain A. E. O. Black, Captain J. R. MacD. Elliot, Captain F. G. N. Alexander, J. O. Lawson, J. M. Gray, Captain G. R. Mackenzie, Lieutenant A. O. Jenkins, Lieutenant R. J. Jowitt, R.N., Lieutenant F. R. Kennedy, Captain A. C. Jardine, Captain Preston.
+2 European Clerks, Provincial Commissioner's Office, 250l. by 15l. to 400l.
+
+Audit.
+
+Auditor, M. A. M. Van de Velde, 800l.
+Senior Assistant Auditor, R. H. Carter, 500l. by 25l. to 600l.
+Assistant Auditor, A. Bragg, 400l. by 20l. to 500l.
+
+Legal.
+
+Judges of the High Court: Chief Justice, C. J. Griffin, 1,500l.
+Puisne Judge, F. Guthrie-Smith, 1,200l.
+Attorney-General, A. Hogg, 1,100l.
+4 Magistrates, A. B. Howes, C. W. V. Carey and A. J. F. Reese (for the townships of Entebbe, Kampala, Jinja and Mule) (one vacant), 500l. by 25l. to 700l. The Magistrate at Entebbe also performs the duties of Administrator General, Principal Registrar of Documents, Registrar of Companies, Registrar of Patents, Designs and Trademarks, and Custodian of Enemy Property, while the Magistrate at Kampala acts as Official Receiver in Bankruptcy in addition to his other duties.
+Lake Albert Marine.
+
+Superintendent, Lieut.-Commander G. F. Dugdale, R.N.R., 800l.
+Marine Officer, Commander A. H. Ferris, R.D., R.N.R., 600l. by 25l. to 750l.
+Chief Engineer, S. H. Carter, 500l. by 25l. to 600l.
+2nd Engineer, G. F. Fisher, 400l. by 20l. to 500l.
+
+Medical.
+
+Principal Medical Officer Major C. A. Wiggins, 1,200l.
+Deputy Principal Medical Officer, J. H. Reford, 1,000l.
+Principal Sanitation Officer, C. J. Baker, 1,000l.
+Sanitation Officer, J. M. Collyns, 700l. by 25l. to 800l.
+3 Medical Officers of Health (vacant), 600l. by 25l. to 700l.
+4 Senior Medical Officers, R. A. L. van Someren, C. H. Marshall, J. A. Taylor, G. D. H. Carpenter, M.B.E., 700l. by 25l. to 800l.
+22 Medical Officers, Major G. Lane, R.A.M.C., (R.) J. H. Goodliffe, J. E. Hailstone, R. E. McConnell, Captain A. H. Owen, H. R. Neilson, Major R. A. Macmillan, D.S.O., W. L. Webb, R. S. Taylor, W. L. Peacock, S. M. Vassallo, J. A. Quinn, F. O. Simpson, S. R. Eccles Davies (eight vacancies), 600l. by 25l. to 700l.
+Specialist Officer Venereal Diseases, Major G. J. Keane, D.S.O., 1,000l.
+Bacteriologist, H. L. Duke, O.B.E., 700l. by 25l. to 800l.
+Laboratory Assistant, J. Stewart, 400l. by 20l. to 500l.
+Entomologist, W. F. Fiske, 800l.
+Dental Surgeon, G. S. Bateman, 700l.
+Matron, Miss E. M. Pratt, A.R.R.C., 250l. by 15l. to 350l. and 10l. per annum for uniform.
+4 Nursing Sisters, Miss A. M. Ivers, Miss A. Mason, and Miss N. M. Adams, 200l. by 15l. to 250l. and 10l. per annum for uniform.
+Office Superintendent, H. Flint, 400l. by 20l. to 500l.
+Clerk, H. T. Bott, 250l. by 15l. to 400l., 50l. allowance as Secretary to the Factories Board.
+Dispensers (two vacancies.)
+Medical Storekeeper, P. J. L. Waters, 400l. by 20l. to 500l.
+Sleeping Sickness Inspector, C. W. V. Gittins, 350l. by 15l. to 450l.
+Superintendent of Conservancy, Kampala, G. Mackenzie, 250l. by 15l. to 400l.
+
+Police and Prisons.
+
+Inspector-General of Police and Prisons for Uganda and East Africa, Brigadier-General W. F. S. Edwards, C.B., C.M.G., D.S.O., 1,000l.
+Staff Officer, Captain A. Skinner, 1l. by 1l. to 1l. as Assistant Superintendent East Africa Protectorate.
+Commissioner of Police and Prisons, Lieut.-Colonel C. Riddick, 900l., and 100l. as Commissioner of Prisons.
+Assistant Commissioner, Major E. H. T. Lawrence, O.B.E., 750l.
+4 Superintendents, Major F. A. Flint, Captain F. T. Allen, C. W. K. Bovell, and J. O. R. Isaacs, 500l. by 25l. to 700l.
+13 Assistant Superintendents, G. Waters, C. A. Turpin, F. Roberts, Captain L. Handley, W. Younger, J. W. Dryden, P. McCullow, C. S. Wagstaff, E. G. Smith, A. B. Tyte, Captain H. R. Mather, Captain E. G. Fish (one vacancy), 400l. by 20l. to 500l.
+Quartermaster, Captain T. Greenwood, M.B.E., 400l. by 20l. to 500l.
+5 Inspectors, L. L. Ralph, A. W. Parsons (three vacancies), 300l. by 15l. to 400l. and 10l. each for clothing.
+11 Assistant Inspectors, F. J. Macken, G. W. Peskett, H. P. Morison, S. Salter, B. Driscoll, O. D. Triggs, H. F. Workman, E. G. Maggs, C. W. Laxton, J. W. Ball, W. H. Peirce, 250l. by 15l. to 300l. and 10l. each for clothing.
+Superintendent of Prison, A. Claiden, 400l. by 20l. to 500l.
+Head Gaoler (vacant), 250l. by 15l. to 400l. and 10l. for clothing.
+
+Printing and Stationery Department.
+
+Government Printer, Manager of Official Gazette and Controller of Stationery, J. Coates, 400l. by 20l. to 600l., and 25l. allowance as Controller of Stationery.
+Assistant Government Printer, J. H. Coles, 300l. by 15l. to 400l.
+
+Public Works.
+
+Director of Public Works, C. V. A. Espeut, 1,100l.
+Deputy Director, T. F. Firr, A.M.I.C.E.
+Senior Executive Engineer, Captain A.C.Willmot, O.B.E., 700l. by 25l. to 800l.
+3 Executive Engineers, S. Waite, H. B. Bain (one vacant), 500l. by 25l. to 600l.
+7 Engineers, A. Bisset, W. H. Michell, C. F. Chambers, R. W. Taylor, J. J. Donoghue (two vacancies), 400l. by 20l. to 500l.
+Road Surveyor, F. T. Murray, 400l. by 20l. to 500l.
+Architectural Draughtsman, F. C. Haslam, 400l. by 20l. to 500l.
+Chief Accountant, F. Gale, 500l. by 25l. to 600l.
+Chief Storekeeper, S. G. Singlehurst, 500l. by 25l. to 600l.
+Assistant Storekeeper, E. P. Stanford, 300l. by 15l. to 400l.
+Clerk, F. J. Sheldrake, 250l. by 15l. to 400l.
+Overseer of Works, H. G. Knight, 300l. by 15l. to 400l.
+6 Foremen of Works, G. Chapman, W. S. Templeton, G. A. Street, W. S. Hanson, R. H. Howard, and S. Norris, 250l. by 15l. to 300l.
+7 Road Foremen, S. Vermont, A. Hilliard, A. Slater, J. Carter, P. Mellor, A. Blackie, and G. F. Broomfield, 250l. by 15l. to 300l.
+
+Land and Survey.
+
+Director of Surveys, Land Officer and Commissioner of Mines, E. Richardson, 1,000l.
+Deputy Director of Surveys, D. Blair, 800l.
+Assistant Deputy Director of Surveys, E. G. Fenning, D.S.O., 600l. by 25l. to 700l.
+Conveyancer, W. L. Shepley-Taylor, 500l. by 25l. to 700l.
+3 District Surveyors, Captain J. P. Tolland, J. G. Strickland, C. H. Vaughan, 500l. by 25l. to 700l. One of these officers acts as Officer in charge of the Land Office, Kampala.
+2 Senior Staff Surveyors, H. B. Thomas, and J. M. Y. Trotter, 500l. by 25l. to 700l.
+UGANDA.
+
+5 Junior Staff Surveyors, A. C. McHatton, J. G. Foulds, A. R. G. Hart, E. C. Snelgrove, W. B. Sotheron Estcourt, 400l. by 20l. to 500l.
+
+9 Survey Probationers (vacant), 400l. by 20l. to 500l.
+
+Office Superintendent and Storekeeper, W. L. Freemantle, 400l. by 20l. to 500l.
+
+Chief Draughtsman, F. C. MacDonald, 400l. by 20l. to 500l.
+
+Draughtsman, A. E. Spencer, 250l. by 15l. to 400l.
+
+5 Clerks, W. E. Pownall, G. A. Read, A. T. G. Barber (two vacancies), 250l. by 15l. to 400l.
+
+Geological.
+
+Government Geologist, E. J. Wayland, 800l.
+
+Assistant Geologist, W. C. Simmons, 550l. by 25l. to 600l.
+
+Forestry.
+
+Chief Forestry Officer, R. Fyffe, 800l.
+
+1st Assistant, R. A. Gibson, 400l. by 20l. to 500l.
+
+Assistant, F.O., C. S. Heaton, 400l. by 20l. to 500l.
+
+Manager, Minziro Forest (vacant), 400l. by 20l. to 500l.
+
+Assistant Manager, Minziro Forest, H. C. Livingstone, 250l. by 15l. to 400l.
+
+Agricultural Department.
+
+Director of Agriculture, S. Simpson, B.Sc., 1,100l.
+
+Deputy Director of Agriculture, L. Hewitt, 600l. by 25l. to 800l.
+
+2 Senior District Agricultural Officers, A. R. Morgan, R. G. Harper, 500l. by 25l. to 750l.
+
+3 District Agricultural Officers, J. D. Snowden, R. T. Wickham (one vacant), 400l. by 20l. to 500l.
+
+5 Assistant District Agricultural Officers, C. Hazel, P. Chandler, Capt. J. S. Harmsworth, M.C., G. T. Philpott, F. W. Hall, 300l. by 15l. to 400l.
+
+Entomologist, H. Hargreaves, 500l. by 25l. to 750l.
+
+Mycologist, W. Small, M.B.E., M.A., B.Sc., 600l. by 25l. to 750l.
+
+Botanist (vacant), 500l. by 25l. to 750l.
+
+Coffee Expert, C. H. Lankester, 800l.
+
+Office Superintendent, A. S. Widgery, 400l. by 20l. to 500l.
+
+Ploughing Instructor, A. Fishburn, 350l.
+
+Clerk, H. G. Smith, 250l. by 15l. to 400l.
+
+Veterinary Department.
+
+Chief Veterinary Officer, E. Hutchins, 900l.
+
+Deputy Chief Veterinary Officer (vacant).
+
+Veterinary Adviser, R. E. Montgomery, 1,500l.
+
+9 Veterinary Officers, U. F. Richardson, W. F. Poulton, R. L. L. Hart, Capt. T. Bowhill, M.B.E., 500l. by 25l. to 600l.; A. V. Mease, Major A. N. Foster, O.B.E., Capt. W. Aitken, Capt. R. W. Down (vacant), 600l. by 25l. to 700l.
+
+21 Inspectors, H. A. Strauss, F. A. Poestkoke, L. A. Gould, J. J. Victor, T. Lansdown, H. J. Nelson, R. Todd, I. McGregor, W. Wilkinson, H. J. Saunders, E. A. Hamblin, W. H. Wilson, T. M. Riley, W. A. Pond, R. F. H. Moffitt, H. Mooney, L. H. Saunders, J. J. Cummins (3 vacancies), 250l. by 15l. to 400l.
+
+Registrar of Brands and Storekeeper (vacant), 250l. by 15l. to 400l.
+
+Telegraphs.
+
+Deputy Postmaster-General and Chief Telegraph Engineer, L. E. Caine, 800l.
+
+Telegraph Engineer, W. G. Tucker, 600l. by 25l. to 700l.
+
+Assistant Telegraph Engineer, R. Rabson, 400l. by 20l. to 500l.
+
+5 Sub-Engineers, J. T. Duffy, F. M. Wolff, W. J. Griffiths, C. A. Gutteridge, W. G. Hood, 300l. by 15l. to 400l.
+
+6 Inspectors, C. V. Schofield, J. H. Hall, H. S. Martin, C. R. Minns (two vacant), 300l. by 15l. to 350l.
+
+Electrical Mechanician, J. M. Fry, 300l. by 15l. to 350l.
+
+Telegraph Storekeeper and Office Superintendent, W. H. Mayne, 400l. by 20l. to 500l.
+
+Transport.
+
+Coast Agent, Mombasa (vacant), l. by l. to l.
+
+Director of Uganda Transport, J. W. P. Russell, 900l.
+
+Deputy Director of Transport, Capt. R. B. Hill, 600l. by 25l. to 700l.
+
+Assistant Transport Officer, G. F. W. Gibbs, 400l. by 20l. to 500l.
+
+Head Clerk, G. W. Rawley, 400l. by 20l. to 500l.
+
+Superintendent of Workshops, H. E. H. Brinton, 400l. by 20l. to 500l.
+
+8 Driver Mechanics, H. A. Riordan, W. Hogarth, J. B. Reed, J. C. Senior (four vacant), 300l. by 15l. to 400l.
+
+Treasury and Savings Bank.
+
+Treasurer and Controller of Savings Bank, A. E. Booty, 1,100l.
+
+Deputy Treasurer, C. K. Dain, 750l.
+
+Senior Assistant Treasurer, A. H. G. Prentice, 500l. by 25l. to 600l.
+
+7 Assistants, H. Hudson, R. S. Nash, J. W. Groves, C. W. Shawyer, Captain E. J. Mateer, Captain H. R. Hone, M.C. (one vacant), first four, 400l. by 20l. to 500l.; last three, 300l.
+
+Office Superintendent, F. Read, 400l. by 20l. to 500l.
+
+Cashier, G. Cooper, 400l. by 20l. to 500l.
+
+Busoga Railway Marine.
+
+Superintendent, Lieut.-Commander G. C. Garrett, R.N.R., 600l. by 25l. to 700l.
+
+Second Officer (vacant), 400l. by 20l. to 500l.
+
+Chief Engineer, C. Bennett, 500l. by 25l. to 600l.
+
+3 Engineers, A. B. Baxter (two vacant), 400l. by 20l. to 500l.
+
+Busoga Railway.
+
+Superintendent, A. E. Hemp, l. by l. to l.
+
+Locomotive Foreman, W. H. S. Boddy, 300l. by 15l. to 400l.
+
+Port Bell—Kampala Railway.
+
+Superintendent, R. A. Lawson, l. by l. to l.
+
+Locomotive Foreman, R. W. Frearson, 300l. by 15l. to 400l.

@@ -1,0 +1,19 @@
+LAYING CALLENDER MAINS ON SOLID SYSTEM IN HONG KONG.
+
+Marconi's Wireless Telegraph Co., Ltd.,
+
+
+
+Patentees and Proprietors of
+
+
+
+THE "MARCONI" SYSTEM OF WIRELESS TELEGRAPHY,
+
+
+
+As Adopted by:
+
+
+
+THE BRITISH ADMIRALTY AND WAR OFFICE,

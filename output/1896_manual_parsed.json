@@ -1,0 +1,408 @@
+{
+  "year": 1896,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1896/olmocr_results.md",
+  "total_colonies": 44,
+  "colonies": [
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 1896,
+      "start_line": 237,
+      "end_line": 2266,
+      "char_count": 161035,
+      "line_count": 2029,
+      "filename": "ST_VINCENT.md"
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "year": 1896,
+      "start_line": 2266,
+      "end_line": 2515,
+      "char_count": 15664,
+      "line_count": 249,
+      "filename": "BAHAMAS.md"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 1896,
+      "start_line": 2515,
+      "end_line": 3015,
+      "char_count": 29750,
+      "line_count": 500,
+      "filename": "BARBADOS.md"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "year": 1896,
+      "start_line": 3015,
+      "end_line": 3356,
+      "char_count": 32643,
+      "line_count": 341,
+      "filename": "BASUTOLAND.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1896,
+      "start_line": 3356,
+      "end_line": 3496,
+      "char_count": 5573,
+      "line_count": 140,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1896,
+      "start_line": 3595,
+      "end_line": 4189,
+      "char_count": 46410,
+      "line_count": 594,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1896,
+      "start_line": 4189,
+      "end_line": 4481,
+      "char_count": 20715,
+      "line_count": 292,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "BRITISH NEW GUINEA",
+      "year": 1896,
+      "start_line": 4489,
+      "end_line": 6724,
+      "char_count": 123047,
+      "line_count": 2235,
+      "filename": "BRITISH_NEW_GUINEA.md"
+    },
+    {
+      "colony_name": "NOVA SCOTIA",
+      "year": 1896,
+      "start_line": 6724,
+      "end_line": 6948,
+      "char_count": 9091,
+      "line_count": 224,
+      "filename": "NOVA_SCOTIA.md"
+    },
+    {
+      "colony_name": "NEW BRUNSWICK",
+      "year": 1896,
+      "start_line": 6948,
+      "end_line": 7136,
+      "char_count": 7364,
+      "line_count": 188,
+      "filename": "NEW_BRUNSWICK.md"
+    },
+    {
+      "colony_name": "MANITOBA AND KEEWATIN",
+      "year": 1896,
+      "start_line": 7136,
+      "end_line": 7682,
+      "char_count": 29822,
+      "line_count": 546,
+      "filename": "MANITOBA_AND_KEEWATIN.md"
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "year": 1896,
+      "start_line": 7682,
+      "end_line": 9749,
+      "char_count": 113425,
+      "line_count": 2067,
+      "filename": "CAPE_OF_GOOD_HOPE.md"
+    },
+    {
+      "colony_name": "CEYLON",
+      "year": 1896,
+      "start_line": 9831,
+      "end_line": 10562,
+      "char_count": 41054,
+      "line_count": 731,
+      "filename": "CEYLON.md"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "year": 1896,
+      "start_line": 10562,
+      "end_line": 10700,
+      "char_count": 10223,
+      "line_count": 138,
+      "filename": "FALKLAND_ISLANDS.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1896,
+      "start_line": 10700,
+      "end_line": 11501,
+      "char_count": 51222,
+      "line_count": 801,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 1896,
+      "start_line": 16325,
+      "end_line": 16516,
+      "char_count": 13383,
+      "line_count": 191,
+      "filename": "THE_GAMBIA.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1896,
+      "start_line": 16516,
+      "end_line": 17238,
+      "char_count": 57135,
+      "line_count": 722,
+      "filename": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 1896,
+      "start_line": 17238,
+      "end_line": 17627,
+      "char_count": 22203,
+      "line_count": 389,
+      "filename": "HONG_KONG.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1896,
+      "start_line": 17627,
+      "end_line": 18378,
+      "char_count": 42950,
+      "line_count": 751,
+      "filename": "JAMAICA.md"
+    },
+    {
+      "colony_name": "LABUAN",
+      "year": 1896,
+      "start_line": 18378,
+      "end_line": 18512,
+      "char_count": 7592,
+      "line_count": 134,
+      "filename": "LABUAN.md"
+    },
+    {
+      "colony_name": "LAGOS",
+      "year": 1896,
+      "start_line": 18512,
+      "end_line": 18912,
+      "char_count": 22560,
+      "line_count": 400,
+      "filename": "LAGOS.md"
+    },
+    {
+      "colony_name": "LEEWARD ISLANDS",
+      "year": 1896,
+      "start_line": 19056,
+      "end_line": 19185,
+      "char_count": 4791,
+      "line_count": 129,
+      "filename": "LEEWARD_ISLANDS.md"
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "year": 1896,
+      "start_line": 19185,
+      "end_line": 19404,
+      "char_count": 10459,
+      "line_count": 219,
+      "filename": "ANTIGUA.md"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1896,
+      "start_line": 19942,
+      "end_line": 20088,
+      "char_count": 8205,
+      "line_count": 146,
+      "filename": "DOMINICA.md"
+    },
+    {
+      "colony_name": "MALTA",
+      "year": 1896,
+      "start_line": 20297,
+      "end_line": 20764,
+      "char_count": 27421,
+      "line_count": 467,
+      "filename": "MALTA.md"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 1896,
+      "start_line": 20764,
+      "end_line": 21611,
+      "char_count": 46640,
+      "line_count": 847,
+      "filename": "MAURITIUS.md"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 1896,
+      "start_line": 21611,
+      "end_line": 21776,
+      "char_count": 10230,
+      "line_count": 165,
+      "filename": "SEYCHELLES.md"
+    },
+    {
+      "colony_name": "NATAL",
+      "year": 1896,
+      "start_line": 21776,
+      "end_line": 22318,
+      "char_count": 29463,
+      "line_count": 542,
+      "filename": "NATAL.md"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "year": 1896,
+      "start_line": 22318,
+      "end_line": 22635,
+      "char_count": 21828,
+      "line_count": 317,
+      "filename": "NEWFOUNDLAND.md"
+    },
+    {
+      "colony_name": "NEW SOUTH WALES",
+      "year": 1896,
+      "start_line": 22635,
+      "end_line": 23708,
+      "char_count": 62504,
+      "line_count": 1073,
+      "filename": "NEW_SOUTH_WALES.md"
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "year": 1896,
+      "start_line": 23708,
+      "end_line": 24911,
+      "char_count": 72422,
+      "line_count": 1203,
+      "filename": "NEW_ZEALAND.md"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 1896,
+      "start_line": 24911,
+      "end_line": 25092,
+      "char_count": 10611,
+      "line_count": 181,
+      "filename": "ST_HELENA.md"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1896,
+      "start_line": 25092,
+      "end_line": 25610,
+      "char_count": 22766,
+      "line_count": 518,
+      "filename": "SIERRA_LEONE.md"
+    },
+    {
+      "colony_name": "SOUTH AUSTRALIA",
+      "year": 1896,
+      "start_line": 25610,
+      "end_line": 26394,
+      "char_count": 45557,
+      "line_count": 784,
+      "filename": "SOUTH_AUSTRALIA.md"
+    },
+    {
+      "colony_name": "TASMANIA",
+      "year": 1896,
+      "start_line": 27102,
+      "end_line": 27729,
+      "char_count": 29395,
+      "line_count": 627,
+      "filename": "TASMANIA.md"
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "year": 1896,
+      "start_line": 27729,
+      "end_line": 28744,
+      "char_count": 48418,
+      "line_count": 1015,
+      "filename": "TRINIDAD.md"
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "year": 1896,
+      "start_line": 28744,
+      "end_line": 28931,
+      "char_count": 9103,
+      "line_count": 187,
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md"
+    },
+    {
+      "colony_name": "VICTORIA",
+      "year": 1896,
+      "start_line": 28931,
+      "end_line": 29764,
+      "char_count": 69986,
+      "line_count": 833,
+      "filename": "VICTORIA.md"
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 1896,
+      "start_line": 30798,
+      "end_line": 31028,
+      "char_count": 16809,
+      "line_count": 230,
+      "filename": "ST_LUCIA.md"
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 1896,
+      "start_line": 31028,
+      "end_line": 31290,
+      "char_count": 15821,
+      "line_count": 262,
+      "filename": "ST_VINCENT.md"
+    },
+    {
+      "colony_name": "ZULULAND",
+      "year": 1896,
+      "start_line": 31290,
+      "end_line": 31499,
+      "char_count": 25897,
+      "line_count": 209,
+      "filename": "ZULULAND.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1896,
+      "start_line": 31499,
+      "end_line": 31915,
+      "char_count": 30501,
+      "line_count": 416,
+      "filename": "CYPRUS.md"
+    },
+    {
+      "colony_name": "ADEN",
+      "year": 1896,
+      "start_line": 32778,
+      "end_line": 32788,
+      "char_count": 2116,
+      "line_count": 10,
+      "filename": "ADEN.md"
+    },
+    {
+      "colony_name": "TRISTAN D'ACUNHA",
+      "year": 1896,
+      "start_line": 32794,
+      "end_line": 32814,
+      "char_count": 5158,
+      "line_count": 20,
+      "filename": "TRISTAN_DACUNHA.md"
+    }
+  ],
+  "processing_notes": {
+    "toc_entries_filtered": true,
+    "duplicates_merged": true,
+    "min_char_count_threshold": 1000
+  }
+}

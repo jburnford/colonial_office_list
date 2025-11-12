@@ -1,0 +1,749 @@
+BARBADOS.
+
+Export.
+Year. To U.K. Colonies. To Elsewhere. Total.
+£ £ £
+1916 232,280 1,562,326 207,117 2,207,257†
+1917 512,897 1,214,532 462,685 1,920,114†
+1918 479,346 1,423,332 572,968 2,480,646
+1919 348,589 2,002,534 406,969 3,300,382†
+1920 1,063,420 2,079,424 764,497 4,865,780†
+1921 133,613 1,153,668 221,122 1,508,403†
+1922 159,700 941,297 158,112 1,259,109†
+1923 435,273 1,599,236 155,231 2,189,740
+1924 211,629 1,452,371 185,301 1,849,301
+1925 210,015 1,071,970 139,060 1,421,035
+
+Customs Revenue, 1924-25—191,265l.
+Public Debt, 31st March, 1925—591,000l.
+Sinking Fund to redeem it—267,206l.
+
+Governors of Barbados since 1901.
+Sir F. M. Hodgson, K.C.M.G. . . . . . . . 1901
+Sir G. T. Carter, K.C.M.G. . . . . . . . 1904
+Sir Leslie Probyn, K.C.M.G. . . . . . . . 1911
+Lieut.-Col. Sir C. R. M. O'Brien, K.C.M.G. 1918
+W. C. F. Robertson, C.M.G. . . . . . . . 1925
+
+Executive Council.
+The Governor.
+The Colonial Secretary.
+The Attorney-General.
+Sir F. J. Clarke, K.C.M.G.
+Sir William K. Chandler, Kt., K.C.M.G.
+
+Executive Committee.
+The Governor, Chairman.
+The Members of the Executive Council.
+E. A. Hinkson.
+H. W. Reece, K.C.
+E. B. Skeete.
+H. B. G. Austin.
+W. B. H. Massiah, M.D.
+
+Legislative Council.
+Sir William K. Chandler, Kt., K.C.M.G., President.
+G. Laurie Pile.
+J. R. Phillips.
+J. O. Wright.
+A. P. Haynes.
+J. Hutson, M.B.E.
+E. A. Hinkson.
+A. S. Bryden.
+D. R. Stewart.
+
+Clerk, C. E. Stoute, ex-officio.
+Sergeant-at-Arms, The Provost-Marshal, ex-officio.
+Chaplain, Rev. Canon W. G. Murray, 30l.
+
+House of Assembly (elected annually).
+Session 1926-27.
+Hon. Sir F. J. Clarke, K.C.M.G., Speaker.
+Bridgetown . . H. B. G. Austin and C. W. Haynes, O.B.E.
+St. Michael . . H. J. Jones and C. A. Brathwaite.
+St. George . . Dr. N. L. Boxill and K. E. Poysar.
+Christ Church . Sir F. J. Clarke, K.C.M.G. (Speaker) and G. S. Evelyn.
+St. Philip . . E. L. Skeete and E. B. Skeete.
+St. John . . Dr. W. B. Clarke and G. D. L. Pile.
+St. James . . C. B. Austin and E. K. Walcott.
+Thomas . . G. C. Mahon and S. C. Thorne.
+St. Andrew . . C. H. Kinch and W. S. Patterson.
+St. Joseph . . H. Graham Yearwood and H. A. Williams.
+
+† Includes bunker coal supplied vessels.
+
+St. Peter . . J. De L. Chandler and T. W. B. O'Neal.
+St. Lucy . . W. B. H. Massiah, M.D. and H. W. Reece, K.C.
+Clerk, F. A. Layne, 400l., fees.
+Deputy Clerk, M. Shilstone, 150l.
+Marshal, J. W. Parris, 62½l.
+Chaplain, Rev. P. A. Farrar, 30l.
+
+Civil Establishment.
+Governor and Commander-in-Chief, W. C. F. Robertson, C.M.G., 3,000l.
+Private Secretary, Lieut. H. Bradburn, R.N.
+
+Salaries.
+The Clerical Service is paid according to the following incremental scale:—
+1st Grade, 300l. to 400l.
+2nd Grade, 250l. to 300l.
+3rd Grade, 200l. to 250l.
+4th Grade, 150l. to 200l.
+5th Grade, 100l. to 150l.
+6th Grade, 75l. to 100l.
+
+Colonial Secretary's Office.
+Colonial Secretary, Douglas Roy Stewart, 1,000l.
+1st Grade Clerk, C. E. Stoute.
+3rd Grade Clerk, F. R. Howell.
+4th Grade Clerk, E. F. L. Morria.
+5th Grade Clerk, A. G. Rocheford.
+
+Treasurer's Office.
+Colonial Treasurer, H. W. Loftey, 700l.
+1st Grade Clerk, H. P. Simmons-Anderson.
+3rd Grade Clerk, C. L. L. Bowen.
+5th Grade Clerks, G. H. Spencer, V. H. Chenery.
+
+Audit Office.
+Auditor-General, P. W. Browne, 500l.
+1st Grade Clerk, W. H. Alder.
+2nd Grade Clerks, G. B. King, H. S. Jemmott.
+5th Grade Clerks, H. A. Haynes, H. B. Spencer and E. D. Ashby.
+
+Customs.
+Controller, G. A. Brierley, 600l.; with fees as Registrar of Shipping, etc.
+Customs Officers, 1st Grade Clerks, J. O'D. Boyce, H. N. Rosch.
+2nd Grade Clerks, R. Browne, E. D. Stokes, S. A. Rudder.
+3rd Grade Clerks, F. E. D. Bynoe, P. A. Yearwood, N. D. Dickson, N. B. Warren, A. G. Hinkson.
+4th Grade Clerks, B. A. T. Williams, H. N. Armstrong, A. A. Browne and B. I. Gilkes.
+5th Grade Clerks, C. E. King, E. G. Gilkes, F. O. B. Clarke, C. D. Evelyn, J. C. Hope and M. W. Clarke.
+Admeasurer of Ships, J. O'D. Boyce, fees, 30l.
+Examining Officer, E. A. Carter, 200l.
+
+Police and Prisons.
+Commandant of the Local Forces and I.G. Police, Lt.-Col. Oscar C. Heidenstam, 500l., and quarters.
+Staff Officer, Capt. H. Wilkin, M.B.E., M.C., (Queen's Own Royal West Kent Regt.).
+Deputy I.G. Police, Major R. A. E. Lindop, 400l.
+Inspectors of Police, Capt. T. A. Goddard, 250l.; and (vacant) 250l.
+Medical Officer Central Station, etc., Dr. L. C. Hutson, 100l.
+Inspector of Prisons, G. Clyde Williams.
+Visiting Justice at Glendairy, P. W. Browne.
+Governor of Glendairy Prison, Capt. C. A. Reed, 350l., and quarters.
+Surgeon to Glendairy Prison, L. C. Hutson, M.B., C.M., 200l.
+Chaplain to Prisons, Revd. A. E. Armstrong, 200l.
+
+Schoolmaster at Glendairy, B. A. Rouse, 125l.
+
+Superintendent of Government Industrial Schools, M. A. Puckering, 250l., 30l. allowance for a horse and quarters.
+
+Chief Officer (Boys), L. A. Chase, 150l. to 200l., and quarters.
+
+Chief Matron (Girls), Miss C. E. Deane, 130l., and quarters.
+
+Fire Brigade.
+
+Superintendent, Lt.-Col. Oscar D. Heidenstam, 100l.
+
+Assistant Superintendent, Capt. T. A. Goddard, 50l.
+
+Post Office.
+
+Colonial Postmaster, H. H. Heath, 500l.
+
+1st Grade Clerks, L. K. Grant.
+
+2nd Grade Clerk, H. D. Blackman.
+
+3rd Grade Clerk, C. A. Durant.
+
+4th Grade Clerks, H. S. Sainsbury, R. A. Dear, E. A. Newsam, A. R. Foster and A. G. Smith.
+
+5th Grade Clerks, A. W. Harper, J. N. Smith, W. T. Bryan, Miss A. L. Armstrong.
+
+Public Works.
+
+Superintendent, L. C. G. Taggart, 500l.
+
+Draughtsman, H. G. Murray, 200l. to 300l.
+
+Overseer, A. C. Weatherhead, 225l. to 250l.
+
+6th Grade Clerk, F. A. Bishop.
+
+Harbour Master's Department.
+
+Harbour and Shipping Master, Commander C. C. Dix, C.M.G., D.S.O., 400l.
+
+Engineer in Charge of Government Craft, A. C. Weatherhead, 150l.
+
+3rd Grade Clerk, A. H. Johnson.
+
+5th Grade Clerk, J. E. Griffith.
+
+Captain of Steam Launches, W. A. Bynoe, 150l. to 200l.
+
+Savings Bank.
+
+Manager, J. B. Howell, 500l.
+
+1st Grade Clerk, J. C. Kellman.
+
+2nd Grade Clerk, J. A. Roberts.
+
+4th Grade Clerks, F. Gooding, S. B. Inniss, E. L. Delamere.
+
+Public Library.
+
+Librarian, Miss E. Ince, 150l.
+
+Public Market.
+
+Clerk and Inspector of Weights and Measures, A. L. S. Pontifex, 200l., and fees.
+
+Inspector of Meat, W. H. Thorpe, 150l.
+
+Medical Surveyor, R. M. Johnson, L.R.C.S., L.R.C.P. (Edin.), fees.
+
+Judicial Establishment.
+
+Chief Justice, R. H. Furness, 1,200l.
+
+Attorney-General, K. E. Poysier, D.S.O., 750l. and 250l. per annum for conducting Government business in the House of Assembly.
+
+Clerk, E. C. Dear, 200l. to 250l.
+
+Solicitor-General, H. W. Reece, K.C., 250l., private practice.
+
+King's Solicitor and Proctor, H. Graham Yearwood, fees (private practice).
+
+Registrar, J. S. Sainsbury, 550l.
+
+Deputy Registrar, C. L. Elder, 300l. to 400l.
+
+4th Grade Clerk, G. C. Williams.
+
+Provost-Marshal, E. B. Bynoe, 400l.
+
+4th Grade Clerk, V. H. B. Rocheford.
+
+Casual Receiver, W. W. Gowdey, fees.
+
+Registrar in Admiralty, J. S. Sainsbury.
+
+Five Commissioners for taking the Probates of Deeds, etc., C. W. Flemming, W. W. Gowdey, J. S. Sainsbury, J. B. Howell, and C. L. Elder, fees.
+
+Judges of the Assistant Court of Appeal, E. C. Jackman and G. Clyde Williams* 500l. each; C. W. W. Greenidge, 450l.
+
+Clerk to ditto and Chief Clerk of the Petty Debt Court of Bridgetown, 1st Grade Clerk (vacant).
+
+Judge of Petty Debt Court, P. A. Lynch, 400l.
+
+2nd Grade Clerk, C. L. Abrams.
+
+Police Magistrates of District "A," E. A. Collymore, and H. M. Seon, 400l. each.
+
+2nd Grade Clerk, A. K. Bynoe.
+
+5th Grade Clerk, A. E. Alleyne.
+
+Police Magistrates of Rural Districts, C. N. C. Roach, H. S. Thorne, C. W. Reece, W. G. Mahon, and F. Reece, 350l. each.
+
+†Clerks to the above, 3rd Grade Clerk, R.L.Walcott.
+
+4th Grade Clerks, S. H. Nurse, F. A. C. Clairmonte, D. D. Morris.
+
+5th Grade Clerk, L. D. Bannister.
+
+Coroner for—
+
+St. Michael, E. C. Jackman.
+
+Christ Church and St. George, C. N. C. Roach.
+
+St. Philip and St. John, H. S. Thorne, 25l.
+
+St. Joseph and St. Andrew, F. Reece.
+
+St. James and St. Thomas, C. W. Reece.
+
+St. Peter and St. Lucy, W. G. Mahon.
+
+Medical.
+
+Poor Law Inspector, (vacant).
+
+Public Health Inspector, (vacant).
+
+Bacteriologist, R. M. Johnson, L.R.C.S., L.R.C.P., Edin., 500l.
+
+Health Officer, J. D. Alleyne, M.D., 500l. and fees.
+
+Assistant Health Officer, F. C. Clarke, M.D., C.M. (McGill), 150l. (and private practice).
+
+Clerk, Board of Health, 3rd Grade Clerk, A. De V. Chase.
+
+Visiting Surgeon, General Hospital, G. Manning, M.D., C.M., 100l.
+
+Visiting Surgeon, General Hospital, Mortimer Johnson, L.R.C.S., L.R.C.P., Edin., 100l.
+
+Visiting Surgeon, General Hospital, H. G. Massiah, M.D., C.M., 100l.
+
+Ophthalmic Surgeon, D. De C. Boxill, M.D., 100l.
+
+Radiologist, H. E. Skeete, M.D., C.M., 50l.
+
+Assistant Ophthalmic Surgeon, E. W. Roberts, M.D., 50l.
+
+Dental Surgeon, R. D. W. Deane, D.D.S., 50l.
+
+Honorary Assistant Surgeons, A. G. Bancroft, M.D., C.M.; F. C. Clarke, M.D., C.M.; H. E. Skeete, M.D., C.M.
+
+Senior Resident Surgeon, General Hospital, F. N. Grannum, M.B., Ch.B. (Edin.), 300l., and quarters.
+
+Resident Surgeon, Miss I. Guillaume, L.R.C.S., L.R.C.P., L.F.P.S., 250l., and quarters.
+
+Resident Surgeon, A. A. Gibbons, M.B., Ch.B. (Edin.), 250l. and quarters.
+
+Head Nurse, Miss A. Veecock, 200l., and quarters.
+
+Chaplain, Revd. C. H. Branch, 30l.
+
+Manager and Secretary, Jabez Ward, 200l.
+
+Medical Superintendent, Lunatic Asylum, A. B. Hawkins, L.R.C.P., L.R.C.L., 600l., and quarters.
+
+Chaplain, Revd. A. E. Armstrong.
+
+Resident Steward, L. A. Fields, 200l.
+
+Visiting Physician, Lazaretto, F. C. Clarke, M.D., C.M., 300l. (and private practice).
+
+*This office is combined with that of Registrar of Friendly Societies and Inspector of Prisons.
+
+†The Police Magistrate's Clerk of District "E" is also Revenue Officer of that District, and receives an extra 90l. a year. The Clerks of the Rural Districts receive 40l. a year for house and travelling allowance extra.
+Superintendent, H. A. Davis, 250l. to 300l., and quarters.
+
+Steward, J. H. O. Goddard, 100l. to 125l.
+
+Chaplain, Rev. C. Culpan, 30l.
+
+Educational.
+
+President of the Education Board, H. B. G. Austin, M.C.P.
+
+Principal of Codrington College, The Rev. J. C. Wippel, M.A., B.D.
+
+Professor of Mathematics, O. deG. Entage, M.A.
+
+Lecturer, W. W. C. Dunlop, M.A.
+
+Medical Lecturer, etc., of Codrington College, W. Briggs Clarke, M.B., C.M., 40l.
+
+Island Professor of Chemistry and Agricultural Science, J. P. d'Albuquerque, M.A.
+
+Assistant Professor of Chemistry, etc., R. R. Hall.
+
+Lecturer in Agricultural Science, J. H. Robinson, B.A.
+
+Head Master of Harrison College, H. N. Haskell, M.A., 750l., and quarters.
+
+Assistant Masters, G. B. Y. Cox, M.A., (Durham), 400l.; E. B. Knapp, 350l.; L. A. Walcott, M.A., (Durham), 350l.; R. M. Lupton, B.A., 350l.; J. E. Williams, B.A., 325l.; S. G. Young, B.Sc., 300l.; and Miss C. E. Medford, 150l.
+
+Spanish Master, V. A. Southwell, 125l.
+
+All unmarried Masters have quarters.
+
+Science Master, J. P. d'Albuquerque, M.A.
+
+Assistant Science Master, R. R. Hall, B.A.
+
+Head Master of the Lodge School, O. deC. Entage, M.A., 750l., and house.
+
+Assistant Masters, W. A. Farmer, 350l., and P. G. Browne, 300l.; G. H. Burns, B.A., 325l., and G. E. Le Maistre, B.A., 300l.
+
+Science Master, R. R. Hall, B.A.
+
+Music Mistress, Miss W. Stukes.
+
+Inspector of Schools, Rev. J. R. Nichols, 300l., and 150l. travelling allowance. Personal allowance 100l.
+
+Assistant Inspector of Schools, N. Greenhalgh, B.Sc., 200l., and 150l. travelling allowance. Personal allowance 100l.
+
+Secretary of Education Board, M. T. G. Mahon, B.A., 200l. Personal allowance 100l.
+
+Poor Law Board.
+
+President, Sir W. K. Chandler, Kt., C.M.G.
+
+Members, E. A. Hinkson, Sir F. J. Clarke, K.C.M.G.; K. E. Poysor, D.S.O., and G. S. Evelyn.
+
+Secretary, A. De V. Chase, 3rd Grade Clerk, and 25l. per annum extra as Vaccination Officer.
+
+Water Works Department.
+
+Officers:
+
+Engineer and Manager, Major G. E. Peck, M.C., R.E., A.M.I.C.E., 1,000l.*
+
+Assistant Manager, J. R. M. Cave, M.S.E., 500l.
+
+Superintendent, E. A. Chase, A.M.S.E., M.I.J.E., 300l. to 400l.
+
+Resident Mechanical Engineer, J. T. Lynch, 300l. to 400l.
+
+Two Inspectors, S. I. Foster and T. E. Went, 200l. to 300l.
+
+1st Grade Clerk, O. A. Haynes.
+
+4th Grade Clerks, C. W. Rudder, A. G. Kinch.
+
+5th Grade Clerks, R. D. Connor and G. A. Johnson.
+
+Department of Science and Agriculture.
+
+Director of Science and Agriculture, John Pedroso d'Albuquerque, M.A., F.I.C., F.C.S., 1,000l. per annum, travelling allowance 150l. per annum.
+
+* Also Consulting Engineer to the Government.
+
+Assistant Director, Cecil Carrington Skeete, B.A., 500l. to 600l., travelling allowance 150l.
+
+Assistant to Professor of Chemistry, Ralph Redclyffe Hall, B.A., 500l. to 600l.
+
+Lecturer in Natural and Agricultural Sciences, John Harold Robinson, B.A., 400l. to 500l.
+
+Chief Clerk and Clerk to Board of Agriculture, Hugh Owen Ramsey, 300l. to 400l.
+
+Second Clerk, Gilpin Dudley Ramsey, 150l.
+
+Third Clerk, Miss Blanche Amy Nicolls, 110l.
+
+First Field Assistant, Cecil Oliver Haynes, 300l. to 400l., travelling allowance 100l.
+
+Second Field Assistant, Cecil Bertram Foster, 250l. to 300l., travelling allowance 100l.
+
+Third Field Assistant, Stanley Hilton Evelyn, 200l. to 250l., travelling allowance 100l.
+
+Fourth Field Assistant, John Noel Wallace Nicolls, 150l. to 200l., travelling allowance 100l.
+
+Chief Analytical Assistant, Crescenio Almando Coppin, B.Sc., 300l. to 400l.
+
+Analytical Assistant, Harold Arundelle Jones, 120l.
+
+Analytical Assistant, Cuthbert St. Aubyn Allayne, 100l. to 150l.
+
+Analytical Assistant, Levington Ambrose Hall, 100l. to 150l.
+
+Botanical Assistant, Charles Cedric Corbin, 100l. to 150l.
+
+Ecclesiastical.
+
+Bishop, Rt. Rev. A. P. Berkeley, D.D., 700l.
+
+Chancellor of the Diocese, (vacant).
+
+Archdeacon, Rev. R. Skeete, M.A.
+
+Registrar of Diocese, G. B. Evelyn, fees.
+
+Dean and Rector of St. Michael, Very Rev. A. Shankland, 400l.
+
+Christ Church, Rev. P. A. Farrar, 300l.
+
+St. Philip, Rev. F. G. Stanton, 300l.
+
+St. George, Rev. J. A. Partridge, 300l.
+
+St. John, Rev. H. B. Gooding, 300l.
+
+St. Joseph, Rev. W. G. Hutchinson, 300l.
+
+St. Andrew, Rev. W. E. Dash, 300l.
+
+St. Thomas, Rev. G. V. Fredericks, B.A., L.Th., 300l.
+
+St. James, Rev. C. W. Johnson, 300l.
+
+St. Peter, Rev. P. C. Branch, 300l.
+
+St. Lucy, Rev. N. B. Watson, M.A., 300l.
+
+There are also 30 curates paid from the Colonial Treasury, at a salary of 200l. each. They are provided with residences or allowances for house rent.
+
+The Roman Catholics receive 50l. a year.
+
+The Moravians receive 400l.
+
+The Wesleyans receive 700l.
+
+The total expenditure on the ecclesiastical establishment in 1925-1926 was 10,808l.
+
+Government Railway.
+
+Railway Board.
+
+Chairman, C. W. Haynes, M.C.P.
+
+Members, S. C. Thorne, M.C.P., H. Jason Jones, M.C.P., A. P. Haynes, M.L.C., and H. W. Lotty.
+
+Manager, P. P. Higgins, 600l.
+
+Traffic Manager, A. B. Clinckett, 300l.
+
+Assistant to General Manager, H. Gittens, 250l.
+
+Clerk to Traffic Manager, L. A. Cole, 150l.
+
+Line Superintendent, D. D. Stokes, 275l. and house.
+
+Accountant and Storekeeper, C. A. Farmer, 300l.
+
+Assistant Storekeeper, J. Sealy, 125l.
+
+Consulting Engineers, Messrs. Law and Connell, 50l.
+**Foreign Consuls.**
+
+United States, (vacant), Consul.
+
+Ditto, W. C. Perkins, Vice-Consul.
+
+Denmark, G. A. Larsen.
+
+France, G. Gloumean, Consular Agent.
+
+Sweden, H. B. G. Austin.
+
+Norway, F. E. W. G. Austin.
+
+Portugal, V. Parravicino.
+
+Dominican Republic, V. Parravicino.
+
+Colombia, T. E. Hunte.
+
+Paraguay, V. Parravicino, Consul.
+
+Netherlands, A. J. Hanschell.
+
+Venezuela, A. J. Hanschell, Hon. Consul.
+
+Hayti, W. W. Watkins.
+
+Spain, A. J. Hanschell, Vice-Consul.
+
+Peruvian Republic, D. W. Lashley.
+
+Russia,
+
+Mexico, V. Hanschell.
+
+Brazil, A. M. Torres, Consul.
+
+Uruguay, J. Crawford.
+
+Belgium, J. Crawford.
+
+Panama, A. J. Hanschell, Vice-Consul.
+
+Italy, V. Parravicino.
+
+Cuba, A. J. Hanschell.
+
+**Consuls.**
+
+Argentina, V. C. Hanschell.
+
+Bolivia, D. W. Lashley.
+
+Finland, G. A. Larsen.
+
+**Barbados Volunteers.**
+
+Commandant of the Local Forces, Lt.-Col. O. C. Heidenstam.
+
+Major Commanding the Barbados Volunteers, Major Sir F. J. Clarke, K.C.M.G.
+
+Staff Officer, Captain H. Wilkin, M.B.E., M.C., Queen's Own Royal West Kent Regt.
+
+Engineer Officer, 2nd Lieut. L. C. Taggart.
+
+Surgeon-Captains, R. M. Johnson, M.R.C.S., L.R.C.P., L. Hutson, M.D., C.M. (McGill).
+
+Quartermaster, Capt. R. L. Delamere.
+
+Chaplain, Captain the Rev. W. G. Murray.
+
+Captain, E. K. C. Weatherhead, commanding "A" Infantry Company.
+
+No. 1 Platoon, 2nd Lieut. A. D. V. Chase.
+
+,, 2 ,, 2nd Lieut. J. E. A. Ince.
+
+Captain, G. B. Evelyn, commanding "B" Infantry Company.
+
+No. 3 Platoon, Lieut. E. A. Chase.
+
+,, 4 ,, (Vacant).
+
+Captain, C. A. Haynes, commanding "C" Infantry Company.
+
+No. 5 Platoon, Lieut. H. C. C. Weatherhead.
+
+,, 6 ,, Lieut. C. A. Durant.
+
+Additional to Establishment, Capt. C. A. Reed.
+
+Captain, W. Bowring, M.B.E., 2nd Lieut. L. T. Yearwood, and A. C. Thomas, Transport Officers.
+
+Lieutenants, H. C. C. Weatherhead, E. A. Chase, C. A. Durant, A. D'V. Chase, J. A. E. Ince.
+
+Reserve of Officers, Major John Hutson, M.B.E., M.B., D.P.H., Capt. J. B. Howell, D. G. Simpson, W. H. G. Thorne, J. R. M. Cave, W. H. Wright, C. A. Reed, and G. Challenor, Lieut. A. F. Levitt, V. B. C. Hart, J. Niblock, L. A. Chase, D. A. Clarke J. A. Haynes, V. C. Hanschell, D. C. Da Costa, E. K. Walcott, H. B. Bannister, T. W. B. O'Neal, H. P. Simmons-Anderson, F. E. W. G. Austin, H. W. Ince and Lt. M. A. Puckerin.
+
+Reserve Force, Lieutenant R. B. Skeete (Commanding), and Lt. C. R. Armstrong.
+
+Cadet Force, Captain E. A. Collymore (Commanding), Lieutenants Wilson, Corbin, J. E. Williams, F. L. Nourse, and W. W. Giles.
+
+---
+
+**BERMUDA.**
+
+**Situation and Area.**
+
+The "Bermudas" or "Somers' Islands" form a group or cluster of about 300 small islands, situated in the Western Atlantic Ocean, in lat. 32° 15' N., and long. 64° 51' W., about 580 miles to the eastward of Cape Hatteras in North Carolina, the nearest point of the neighbouring American Continent. The distance from Liverpool is about 2,900 miles, from Halifax in Nova Scotia 730, from New York 677, and from the nearest of the West Indian Islands about 800 miles. The total area is estimated at 19 square miles (less than one-eighth of Rutland).
+
+**History.**
+
+These islands were discovered in the year 1515, by a Spanish mariner, Juan Bermudez, after whom they were called The Bermudas. The Spaniards, however, took no steps to form a settlement on the islands, and they were still entirely uninhabited when, in 1609, Admiral Sir George Somers' ship, The Sea Venture, while on a voyage with a fleet of eight other vessels, conveying a party of colonists to the new plantations then being formed in Virginia, was wrecked upon one of the numerous sunken reefs which surround the islands on every side. The reef is still called after the name of the Admiral's ship, The Sea Venture Flat.
+
+Sir George Somers died in Bermuda the following year, and his companions, ignorant possibly of the prior claims of Juan Bermudez, called the group after him, "The Somers' Islands." The reports of the beauty and fertility of the land, taken home by Somers' nephew, Captain Mathew Somers, induced the Virginia Company to seek an extension of their Charter, so as to include the islands within their dominion, and this extension was readily granted by King James I., but shortly afterwards the Virginia Company sold the islands for the sum of 2,000l. to a new body of adventurers, called "The Governor and Company of the City of London for the Plantation of the Somers Islands," and thenceforward, for a considerable time, the islands bore the name of the Admiral who had led thither the first body of settlers.
+
+**General Description.**
+
+The Bermudas, of which a good account will be found in the narrative of the voyage of the Challenger, may be described as a singular agglomeration of small islands and submarine sand-hills and coral reefs, forming together an irregular oval ring, measuring about 22 miles in length from N.E. to S.W., and about 3 miles in width from N.W. to S.E. The external ring—whether composed of islands or of sunken banks or reefs—is seldom more than a mile in width, and generally considerably less.
+
+At present the southern portion only of the encircling ring is formed of islands, the northern, eastern, and western sides being composed of almost continuous reefs of coral. The largest island, generally known as The Main Island, is about 14 miles in length, and about a mile in average width; it contains about 9,000 acres of land, the highest point being only 240 feet above the sea. All the other islands taken together measure about 3,000 acres. The city of Hamilton, now the seat of Government, is situated about the centre of the main island, where a deep inlet running up for two or three miles into the land from the sheltered waters, enclosed between the
+encircling reef, forms a safe and convenient harbour for the vessels which carry on the island trade.
+
+Next in importance to the main island is the island of St. George, on which stands the town of St. George, so named after Admiral Sir George Somers, whose heart is buried there. This town was formerly the capital of the Colony, and though now shorn of much of its importance by the transfer of the seat of Government to Hamilton, is still a town of considerable trade, and its harbour is much frequented as a harbour of refuge.
+
+The other principal islands of the group are—Ireland Island, entirely given up for the accommodation of His Majesty's Dockyard and a number of other naval establishments; Boaz and Watford Islands, intervening between Ireland Island and the rest of the group, and now exclusively occupied by military depots and garrisons; Somerset, Smith's, St. David's, Cooper's, Nonsuch, Rivers, Porta, and Godets—all inhabited by a civil population. The islands form an almost continuous chain, and there is uninterrupted communication by roads and bridges and causeways from St. George over the main island and Somerset, and over Watford and Boaz to Ireland Island—a distance of about 22 miles.
+
+A little over a third of the inhabitants are of English descent, the remainder belonging for the most part to the negro race. English is universally spoken.
+
+The climate has been long celebrated for its mildness and salubrity. The rainfall in 1925 was 66·26 inches, as against 56·18 inches in 1924, 45·23 in 1923, and 53·87 in 1922. There is no winter, the thermometer never falling below 40 deg. of Fahr., and the summers are never very hot, the thermometer rarely rising above 86 deg. The summer heat, too, is generally tempered by a pleasant sea breeze.
+
+In 1914 the Legislature voted the sum of £51,750, payable in fifteen yearly instalments, as a contribution to the Imperial Treasury in aid of the war fund.
+
+The state of the Colony's finances did not admit of an immediate cash contribution and these annual payments represent a lump sum of the present value of £40,000.
+
+Trade and Agriculture.
+
+In former days the inhabitants of Bermuda gave themselves up almost entirely to maritime pursuits. Numerous small vessels, of from 200 to 300 tons burthen, built by the islanders themselves, of their native cedar, traded between the West Indies and Demerara, and the United States, and the British colonies of North America. Later they extended their voyages, carrying the salt fish of Newfoundland to Italy and Portugal, and taking back the Port wine for which Newfoundland became celebrated, or running down to Madeira or Ascension to meet the homeward-bound Indian fleet, and taking back cargoes of tea or other Indian and Chinese products to be distributed along the American seaboard.
+
+The repeal of the British navigation laws, the introduction of steam, and the very general substitution of iron for wooden ships, gradually destroyed the carrying trade which had been so profitable to Bermuda, and now the maritime fleet may be said to have ceased to exist, and the industry of the islanders is entirely confined to mercantile pursuits and to turning to account the small quantity of agricultural land which they possess.
+
+The soil of Bermuda is naturally calcareous, free-draining, and poor in humus. A fair state of fertility is, however, readily maintained by the regular use of manures and fertilisers. Not more than one-fourth of the total area of the colony can be cultivated, but the climate, combined with the geographical position of these islands, compensates for the small extent of arable land. There is never any danger of frost, and seeds may be sown and plants put out at any time. The main crops, potatoes, onions and green vegetables, are planted from August to March, and are reaped and shipped from December to June when the New York market is comparatively bare of early potatoes and fresh vegetables.
+
+Two main crops of potatoes are grown; the Bliss Triumph in the fall and the Chili Garnet in the winter. The "seed" for the former is imported from Long Island and for the latter from Nova Scotia. Government Regulations passed in 1915 prevent the importation into the Colony of seed potatoes that have not passed a field inspection conducted by a representative of the Board of Agriculture. Onions are not as extensively grown as formerly but still form one of the important crops of the Colony. The green vegetable industry has developed rapidly and large quantities of vegetables, consisting mainly of carrots, beets, lettuce, parsley and celery, are exported annually. In order that the vegetables may arrive in New York in fresh condition they are shipped under refrigeration. The lily industry is very much smaller than in former years.
+
+The summer months are hot and the winter crops cannot be successfully grown, but corn, melons, sweet potatoes, pumpkins, etc., are planted and give satisfactory returns.
+
+Practically the whole of the exports go to the United States, and two-thirds of the imports come from that country, the remainder coming from the United Kingdom and Canada. There is a small trade with the West Indies.
+
+The Islands of Bermuda have become a favourite winter resort for Americans and Canadians seeking to escape the rigours of the climate of the continent. Large hotels have sprung up, and a considerable amount of money is expended by the visitors.
+
+Currency and Banking.
+
+The coins in circulation are British currency, which is legal tender. There is no limit to the legal tender of British silver. Bermuda Government £1 Currency Notes to the value of £28,000 have been placed in circulation since 1915. There are two incorporated banks, the Bank of Bermuda, Limited, and the Bank of N. T. Butterfield & Son, Limited, and several of the leading merchants do a considerable amount of business as private bankers and agents. A Government savings bank was established in 1871, and there are branches at Hamilton, St. George's, and Sandy's Parish. The number of depositors at the end of 1925 was 3,739, the total amount of deposits £74,603.
+
+On the 1st of January, 1922, the Savings Bank was transferred from the Treasury to the Post Office Department.
+
+Education.
+
+In 1839 the Colonial Legislature first granted a sum of money to aid elementary schools.
+The central control is vested in a Board of Education, consisting of ten members appointed by the Governor under the provisions of the Schools Act, 1922.
+
+All the schools are private schools, charging fees. Attendance is compulsory, and there were, in 1925, 29 aided schools with about 3,156 scholars.
+
+There are, in addition, about 12 schools which receive no State aid.
+
+In August, 1905, the Legislature established an annual scholarship of £150., tenable by youths, natives of Bermuda, for two years at some educational institution abroad to be approved by the Governor, with a view to assisting youths to prepare to compete for the Rhodes' Scholarship awarded to Bermuda. The amount was increased to £200. p.a. in 1920.
+
+At the end of the year 1924, the Bermuda (Technical Education) Scholarship Act was passed establishing four new scholarships each of the value of £250. and tenable for four years at some educational institution out of the Colony.
+
+Means of Communication.
+
+Telegraphic communication with the United Kingdom is carried on by the cable between the Islands and Halifax, Nova Scotia.
+
+Rates to Halifax, 1s. 4d. per word.
+
+England, 2s. 6d.
+
+This cable has also been carried on to Turks Island and Jamaica, thus giving direct telegraphic communication with the West Indies.
+
+A direct passenger service with England was recently re-established by ships of Messrs. Elders & Fyffes, Ltd., which make regular calls at Bermuda every six weeks outward and homeward, Bermuda being a port of call in both directions between Avonmouth and ports in Honduras. It is contemplated that this service will be augmented as trade may demand.
+
+Communication between Bermuda and New York is maintained by steamers of the Furness-Bermuda Line, with bi-weekly sailings.
+
+The R.M.S.P. give a regular fortnightly service with Halifax and the West Indies and maintain a weekly service with New York during December to April.
+
+The Canadian Government Merchant Marine, Ltd., maintain a passenger and freight service between Montreal, Bermuda, Nassau, Kingston, Belize and British Honduras, sailing every two weeks from Montreal in summer and from Halifax in winter, and the Canadian Pacific Railway Company a freight service from Montreal to Bermuda, Barbados, Trinidad and Demerara, sailings about twice a month.
+
+Letters from England usually take from nine to twelve days. Postage rates are:
+
+| Letters. | Newspapers. |
+|----------|------------|
+| Within the Colony, per 1 oz. 1d. | ½d. per 2 oz. |
+| To U.K., India and British Colonies, per ½ oz. 1d. | Books per 2 oz. |
+| To all other countries | Papers per 2 oz. |
+| Parcels to England, 1s. for 3 lbs.; 2s. for 7 lbs.; 3s. for 11 lbs. | ½d. |
+
+Internal Communications.
+
+A light railway is under construction in the Colony. There are approximately 105 miles of colonial and 15 miles of military roads. There is a private telephone company, which has about 1,800 subscribers and about 1,600 miles of wire in line.
+
+Government and Constitution.
+
+Representative government was introduced into the Colony in 1820, but the charter of the Bermuda Company of London was annulled in 1834, and since then the Governors have always been appointed by the Crown, and the laws of the Colony have been enacted by a local legislature consisting of the Governor, the Legislative Council, and the House of Assembly. The session lasts usually from November to June.
+
+The Governor is assisted by an Executive Council, consisting at present of four official and three unofficial members. The Legislative Council consists of nine members, three of whom are official and six unofficial. The House of Assembly consists of thirty-six members, four of whom are elected by each of the nine parishes. The members of Executive Council and of the Legislature are paid 8s. a day for each day's attendance. There are 1,413 electors, the electoral qualifications being the possession of freehold property of not less than 50l. value. The qualification for a member of the House of Assembly is the possession of freehold property rated at 240l.
+
+On the 1st August, 1920, the 300th anniversary of the first meeting of the General Assembly was celebrated by a joint session of all branches of the legislature held at St. Georges in the "Old State House," in which the early assemblies sat.
+
+Local Government.
+
+Hamilton and St. George have been incorporated since 1793 and 1797 respectively, and there are nine parish vestries, all the members of which, as well as of the two town corporations, are elected annually.
+
+| Year | Revenue | Expenditure | Total |
+|------|---------|-------------|-------|
+|      | £       | £           |       |
+| 1916 | 107,065 | 109,652     | 973,403 |
+| 1917 | 100,447 | 107,055     | 687,340 |
+| 1918 | 91,645  | 90,684      | 368,343 |
+| 1919 | 119,091 | 107,240     | 632,212 |
+| 1920 | 219,753 | 186,470     | 1,019,373 |
+| 1921 | 201,882 | 237,492     | 1,210,649 |
+| 1922 | 214,082 | 290,476     | 1,737,141 |
+| 1923 | 309,916 | 277,925     | 2,404,763 |
+| 1924 | 329,139 | 312,959     | 2,368,189 |
+| 1925 | 248,476 | 312,283     | 2,367,482 |
+
+Public Debt, 1924—45,000l.
+
+Customs Revenue, 1922—162,751l. 1923—254,419l. 1924—273,226l. 1925—174,276l.
+
+Imports.
+
+| Year | From United Kingdom | From Colonies Elsewhere | Total |
+|------|---------------------|------------------------|-------|
+|      | £                   | £                      | £     |
+| 1916 | 114,587             | 92,262                 | 527,950 |
+| 1917 | 47,796              | 168,599                | 468,089 |
+| 1918 | 35,773              | 221,673                | 456,296 |
+| 1919 | 59,990              | 266,126                | 466,567 |
+| 1920 | 271,708             | 397,941                | 744,601 |
+| 1921 | 361,289             | 239,489                | 749,462 |
+| 1922 | 366,072             | 220,943                | 679,681 |
+| 1923 | 708,413             | 260,172                | 918,581 |
+| 1924 | 686,316             | 357,442                | 791,253 |
+| 1925 | 384,044             | 264,163                | 678,834 |

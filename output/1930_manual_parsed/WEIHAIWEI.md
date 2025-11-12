@@ -1,0 +1,860 @@
+WEIHAIWEI.
+
+History and Description.
+
+The territory of Weihaiwei was leased to Great Britain by China by a Convention signed at Peking, on the 1st July, 1898,—"in order to provide Great Britain with a suitable Naval harbour in North China and for the better protection of British commerce in the neighbouring seas."
+
+The leased territory, which lies in latitude 37°30' N., longitude 122°10' E., is situated in the Chinese Province of Shantung, on the North-Eastern coast of the Shantung Peninsula. It comprises the Island of Liukung, all the islands in the Bay of Weihaiwei, and a belt of land ten English miles wide along the entire coast line.
+
+The bay is six miles broad and from three to four wide. To it there is easy access from the Eastern and Western passages, the former being two-and-a-quarter miles wide, the latter two-thirds of a mile wide. These two channels are formed by the Island of Liukung, which, lying east and west across the Bay and being two miles long and three-quarters of a mile wide, forms a protection to the anchorage.
+
+Weihaiwei is an easy place for shipping to make, and battleships and ocean steamers are able to lie close to the shore. The harbour is lighted by two lighthouses.
+
+The territory has been surveyed by the Royal Engineers and mapped on a scale of two inches to a mile. The total area is 285 square miles, including the Island of Liukung.
+
+Great Britain has also "the right to erect fortifications, station troops, or take any other measures necessary for defensive purposes at any points on or near the coast of the region East of the Meridian 121°40' East of Greenwich, and to acquire on equitable compensation within that territory such sites as may be necessary for water supply, communications, and hospitals. Within that zone Chinese administration will not be interfered with, but no troops other than Chinese or British shall be allowed therein." This zone has been surveyed on a scale of one inch to a mile, and its area has been fixed at 1,505 square miles. The territory has a picturesque and diversified coast line seventy-two miles in length. Its surface consists of abrupt ranges of rugged hills, rising to a height of 1,600 feet, and well-cultivated valleys, watered by streams which during the dry season are mere rivulets. All the hills are terraced for cultivation, so far as possible, and in many instances are planted with dwarf pine and scrub oak, but their general appearance is barren; the strata of the mountains are metamorphic, consisting of beds of quartzite, gneiss and crystalline limestone cut across by dykes of volcanic rock and granite.
+
+There are over 350 villages, and the Chinese population (according to the census of 1921) is 154,416. Since 1921 it has increased considerably partly owing to the growth of prosperity of the port, and also to the influx of some of the inhabitants of the neighbouring Chinese districts who have suffered greatly from disturbed political conditions and banditry. The population in 1929 was estimated to be 178,000.
+
+The chief port of the territory is named Port Edward, in commemoration of the coronation of His Majesty King Edward VII.
+
+Negotiations for the rendition of the territory to China, in accordance with the decisions taken at the Conference of Washington were practically concluded in 1924, but owing to the absence of a settled government in China it has not yet been found possible to give effect to the draft Convention under which rendition was to be effected. Negotiations have however now been resumed and preliminary agreement reached on revised terms of rendition.
+
+Climate.
+
+The climate is regarded as one of the best in China. The winter is cold and bracing, and the summer heat is not excessive. The average maximum temperature in the shade is about 96° F., and the minimum about 10°. The maximum temperature during the summer of 1929 was 102° on June 2nd. The rainfall is very small, averaging about 24 inches a year. The wettest months are July and August.
+
+Constitution and Government.
+
+The Government is administered by a Commissioner, appointed under His Majesty's Sign Manual and Signet, who discharges his functions under the Weihaiwei Order in Council of the 24th July, 1901. Under that instrument the Commissioner is empowered to make Ordinances, subject to the approval of the Secretary of State for the Colonies, for the administration of the territory, and provision is made for a High Court, in which all jurisdiction, civil and criminal, is vested, subject to an appeal to the Supreme Court of Hong Kong, and for District Magistrates' Courts.
+
+The village communities are administered through their headmen in accordance with Chinese custom.
+
+During the summer months Weihaiwei is used by His Majesty's fleet on the China Station as a sanatorium and exercising ground, and is frequented by visitors who are attracted by its climate. During the summer of 1927 a convalescent camp was established for officers and men of the Shanghai Defence Force. During 1929 the permanent garrison consisted of a company of the Royal Scots.
+
+The territory previous to 1922-23 was assisted by a grant-in-aid from Imperial funds, but since that time has been entirely self-supporting.
+
+The revenue for 1929-30 was estimated at $355,215, and the expenditure at $343,365.
+
+In previous years the statistics were:
+
+| Year   | Revenue | Expenditure |
+|--------|---------|-------------|
+| 1924-25 | 204,050 | 181,793     |
+| 1925-26 | 223,914 | 190,147     |
+| 1926-27 | 258,235 | 216,173     |
+| 1927-28 | 275,946 | 247,013     |
+| 1928-29 | 324,636 | 313,228     |
+
+The administration of Weihaiwei was first undertaken by the Senior Naval Officer on the station in 1898. In the following year it was transferred to a Military and Civil Commissioner appointed by the War Office. On the 1st January, 1901, the territory was handed over to the control of the Colonial Office, and a Civil Commissioner assumed the administration of the Government in 1902.
+
+Commissioner, R. F. Johnston, C.M.G., C.B.E., 1,262l. 10s. and allowances.
+
+Judge of High Court of Weihaiwei, Sir Peter Grain, Kt.
+
+Secretary to Government and Senior District Officer, H. A. F. B. Archer, O.B.E., 550l., free quarters and allowances.
+Junior District Officer and Magistrate, Major J. M. Colchester-Wemyss, O.B.E., 500l., free quarters, and allowances.
+
+Crown Advocate, A. G. Mossop, B.A., LL.B.
+
+Senior Medical Officer, Leo McGolrick, M.B., B.Ch., 500l., rising to 600l., and free quarters.
+
+Financial Secretary to Government, P. D. Crawley, 400l. to 500l., and free quarters.
+
+Assistant Financial Secretary, E. H. B. Hodge, 300l. and free quarters.
+
+Collector of Revenue, A. Whittaker, 325l. to 400l.
+
+Inspectors of Police, G. H. Jennings, B. R. Walker, A. N. Christie, 300l. and free quarters.
+
+---
+
+WESTERN PACIFIC.
+
+High Commission.
+
+The office of High Commissioner in, over, and for the Western Pacific Islands, was created by an Order in Council, cited as the Western Pacific Order in Council of 1877.
+
+The jurisdiction of the High Commissioner extends over all islands in the Western Pacific not being within the limits of the Colonies of Fiji, Queensland, New South Wales, or New Zealand, and not being within the jurisdiction of any other civilised Power. In 1893 a new Order in Council was issued, known as the Pacific Order in Council, 1893, in accordance with which the High Commissioner's jurisdiction is extended to foreigners and (in most cases) to natives residing in British settlements or protectorates within the limits of the Order. Under the provisions of the New Hebrides Order in Council, 1922, the jurisdiction of the High Commissioner extends also to the islands in the Pacific Ocean known as the New Hebrides, and all the islands known as the Banks Islands and Torres Islands. The expenses of the High Commission at Suva, Fiji, are met from the funds of the Gilbert and Ellice Islands Colony and the British Solomon Islands Protectorate, but a contribution is paid from Imperial funds in respect of work in connection with Tonga and the New Hebrides.
+
+The Chief Justice of Fiji, and every other Judge for the time being of the Supreme Court of Fiji, is by virtue of his office a Judicial Commissioner.
+
+Deputy Commissioners are appointed by the High Commissioner on behalf of His Majesty.
+
+The High Commissioner's Court consists of the High Commissioner, the Judicial Commissioners, and the Deputy Commissioners, and in it is vested all His Majesty's civil and criminal jurisdiction exercisable in the Western Pacific Islands.
+
+The Court of a Judicial Commissioner has powers similar to those of the Superior Courts of England, and the Deputy Commissioners have civil jurisdiction in Common Law, Equity and Bankruptcy, with a limited jurisdiction in Probate, and have a criminal jurisdiction in respect of offences not punishable with seven years' penal servitude or upwards.
+
+With some few exceptions all decisions of the High Commissioner's Court may be appealed against to the Supreme Court of Fiji.
+
+In addition to the other means of preserving order the High Commissioner has certain special powers for the deportation of persons whose proceedings endanger the peace of the Islands.
+
+The principal groups under the High Commissioner are:
+
+- The Gilbert and Ellice Islands Colony.
+- The British Solomon Islands Protectorate.
+- Tonga.
+- The New Hebrides.
+- The Phoenix Group.
+- Pitcairn Island.
+
+Particulars of these are given below.
+
+High Commissioners.
+
+1877 Sir Arthur Gordon, G.C.M.G.
+1887 Sir C. B. H. Mitchell, K.C.M.G.
+1888 Feb., Sir J. B. Thurston, K.C.M.G.
+1897 Sir G. T. M. O'Brien, K.C.M.G.
+1902 Sir H. M. Jackson, K.C.M.G.
+1904 Sir E. im Thurn, K.C.M.G., K.B.E., C.B.
+1911 Sir Henry May, K.C.M.G.
+1912 July, Sir Ernest Bickham Sweet-Escott, K.C.M.G.
+1918 October, Sir C. H. Rodwell, K.C.M.G.
+1925 Sir Eyre Hutson, K.C.M.G.
+1929 Sir A. G. Murchison Fletcher, Kt., C.M.G., C.B.E.
+
+Establishment.
+
+High Commissioner, Sir A. G. Murchison Fletcher, Kt., C.M.G., C.B.E., 1,200l. (in addition to 3,000l. as Governor of Fiji, and allowance of 150l. as Consul-General for Western Pacific).
+
+Chief Judicial Commissioner, Captain Maxwell Hendry Anderson, C.B.E., K.C., R.N.(Retired) 350l. (in addition to 1,000l. as Chief Justice of Fiji).
+
+Assistant to the High Commissioner and Secretary to the High Commission, H. G. Pilling, 700l. to 800l. by 25l., personal allowance of 100l. as Assistant to the High Commissioner and house allowance, 75l.
+
+Chief Clerk and Accountant, H. H. Vaskess, 550l. to 650l. by 25l.
+
+Clerk, L. E. Ambler, 400l. to 500l. by 25l.
+
+Third Class Clerk, E. E. McGowan, 150l. to 270l. by 15l.
+
+Clerks and Typists, Miss N. Henderson, Miss D. Hill, 150l. to 270l. by 15l.
+
+Registrar, High Commissioner's Court, A. H. Roberts, 60l.
+
+Auditor, P. J. A. Hamilton, 120l. (in addition to 700l.-800l. as Auditor, Fiji).
+
+---
+
+THE GILBERT AND ELICE ISLANDS COLONY.
+
+A British Protectorate was proclaimed over the Gilbert Islands by Commanding Officer H. M. Davis of H.M.S. "Royalist" on behalf of Her Majesty, Queen Victoria, at Abemama, on the 27th May, 1892. The Ellice Islands were declared a Protectorate in September of the same year.
+
+The jurisdiction of the Resident Commissioner of the Protectorates was extended to Ocean Island by a Proclamation issued on 28th November, 1900.
+
+By the expressed desire of the Native Governments the first two groups were annexed to and formed part of His Majesty's Dominions by an Order in Council of the 10th November, 1915, and were known as the Gilbert and Ellice Islands.
+Colony as from the 12th January, 1916. Ocean, Fanning, and Washington Islands were included within the boundaries of the Colony by an Order of His Majesty in Council of the 27th January, 1916, which came into operation on the 3rd April of that year.
+
+The Union group of Islands was brought in by Order in Council of the 29th February, 1916, operating from the 5th May, 1916; but by the Union Islands (No. 1) Order in Council, 1925, dated the 4th Nov., 1925, the boundaries of the Gilbert and Ellice Islands Colony were altered so as to exclude the Union Islands, which by the Union Islands (No. 2) Order in Council, 1925, of the same date were placed under the Governor Gen. in Council of the Dominion of New Zealand. These Orders in Council came into force on 11th Feb., 1926.
+
+Christmas Island was also included in the Colony by Order in Council of the 30th July, 1919, taking effect from the 10th November, 1919.
+
+The total population of the Colony at the Census of April, 1921, was 29,897, of whom 264 were Europeans, 348 Asiatics, and 29,285 Pacific Island natives.
+
+The total population of the Colony on the 31st December, 1928, was 29,403, of whom 259 were Europeans, 766 Asiatics and 28,388 Pacific Island natives.
+
+**Ocean Island** (or Banaba), in lat. 0° 52' S., long. 169° 35' E., about 1,500 acres in extent, is the Headquarters of the Government and the site of operations of the British Phosphate Commission. The population of Ocean Island at the end of December, 1928, was 2,609. Of these 137 were Europeans, 88 of whom were men, 80 of this latter number being employees of the British Phosphate Commissioners. The natives numbered 1,756, of these 554 being Banabans. 64 Banabans and 668 Gilbert and Ellice Islanders are employed by the British Phosphate Commissioners. Besides this labour force, the Commission recruit men from China, of whom there were 716 at Ocean Island at the end of December, 1928. The population of the Island at that time was as follows:
+
+|                  | Men | Women | Children | Totals |
+|------------------|-----|-------|----------|--------|
+| Europeans        | 88  | 28    | 21       | 137    |
+| Asiatics         |     |       |          | 717    |
+| Gilbert & Ellice |     |       |          |        |
+| Labourers        | 668 | 215   | 161      | 1044   |
+| Banabans         | 170 | 174   | 210      | 554    |
+| Constabulary     | 57  | 35    | 23       | 115    |
+| Warder           |     |       |          |        |
+| Wardress         | 1   | 1     | 1        | 3      |
+| Island Police    | 5   | 4     | 5        | 14     |
+| Menial Staff     | 9   | 5     | 11       | 25     |
+
+The Wireless Station at Ocean Island was opened for traffic on the 14th March, 1916. A public service via Suvaradio to all parts of the world was inaugurated on the 16th August, 1922. As a direct result of this a new and cheaper rate to Ocean Island from Australia via Rabaul came into operation on the 1st January, 1923.
+
+Wireless communications with the Groups are maintained through the small station (½ K.W.) erected by Messrs. Burns, Philip & Co., Tarawa; the radio installation in the local trading vessel of Messrs. On Chong & Co., whose headquarters are at Butaritari, and the London Missionary Society's ½ K.W. Station at Beru. There is also an experimental Wireless Station at Vaitupu in the Ellice Group. The British Phosphate Commission has a ½ K.W. Telephony Station at Ocean Island for communication with the island of Nauru, and their steamship "Nauru Chief."
+
+**The Gilbert and Ellice Groups.** — The Gilbert Group is comprised of the following sixteen islands:— Makin, Butaritari, Marakei, Abaiang, Tarawa, Maiana, Kuria, Aranuka and Abemama (Northern Gilberts); Nonouti and Tabiteua (Central Gilberts); Onotoa, Beru, Nukunau, Tamana and Arorae (Southern Gilberts).
+
+The Ellice Islands are the following nine:— Nanumea, Nanumaga, Nuiota, Nui, Vaitupu, Nukufetau, Funafuti, Nukulaelae and Nurakita.
+
+The two groups consist of a series of coralatolls lying between 4° N. latitude and 10° S. and 170° to 180° E. longitude with an area of 180 square miles. The principal export is copra.
+
+The population of the Gilbert Group at the end of December, 1928, was 24,930. Of these, 85 were Europeans, 31 Asiatics and 23,814 natives, of whom 11,575 were males.
+
+The population of the Ellice Group at the end of December, 1928, was 3,863, 5 of whom were Europeans. The native male population numbered 1,718.
+
+The natives are of Malayo-Polynesian race. The majority are adherents either of the London Missionary Society or the Roman Catholic Mission of the Sacred Heart. There is no similarity between the languages of the Gilbert and Ellice Groups. With few exceptions the hereditary chieftainships have ceased to exist, but each island has its own native government, presided over by a native magistrate. A revised code of native laws is validated by an Ordinance of the Colony, and law and order is well maintained under the general supervision of European officials. Revenue is obtained from a copra tax, trading and other licences, import and export duties, non-native capitation tax, etc.
+
+**Fanning and Washington Islands** lie about 5° 51' N. latitude, and 159° 21' W. longitude. There is no indigenous population but labour is recruited from the Gilbert Islands for the copra industry. A District Officer is in charge of these islands under the Resident Commissioner. On Fanning Island is the mid-ocean Station of the Pacific Cable Board, whose employees and their wives comprise practically the entire European population of 31. There is no regular communication between these islands and the rest of the Colony; periodical visits are made for engaging and repatriating labour by a small auxiliary vessel of the Fanning Island Company. The total population on the 30th June, 1927, was 450.
+
+**Christmas Island** (about 1° 59' N. latitude, 157° 30' W. longitude) lies 164 miles South-East by East of Fanning Island. Under the terms of a License dated the 27th October, 1914, the Central Pacific Coconut Plantations Limited of London were granted the exclusive right to occupy the island for their own use for the planting of coconuts, the manufacture of copra, the export of coconut oil, pearl shell, and guano during the term of 87 years from the 1st January, 1914. The population is 23. The port of entry for Christmas Island is Fanning Island, so that all inward entries and outward clearances must be made at the latter port.
+
+Periodical visits are made by H.M.'s ships. The first visit of inspection by a District Officer since the inclusion of Christmas Island within the
+Colony was made in March, 1922, in H.M.S. "Calcutta." The area is about 60,000 acres, of which 1,200 are under coconuts. There are no postal arrangements, the only mails that reach the island being carried by the ships chartered by the lessee in Tahiti.
+
+The climate of all the groups is fairly healthy for Europeans, but the natives suffer from lung diseases, especially pulmonary tuberculosis. A considerable amount of medical work has been undertaken of late years and a large central hospital is maintained at Tarawa in the Gilbert Group. Every Island has a native hospital under the charge of a native student trained at the Tarawa Hospital.
+
+Communication between the various islands is infrequent, depending on the irregular movements of vessels belonging to or chartered by Messrs. Burns, Philip and Company, Limited, On Chong and Company, and the British Phosphate Commissioners.
+
+The Revenue and Expenditure of the Colony have been as follows:
+
+| Year    | Revenue | Expenditure |
+|---------|---------|-------------|
+| 1923-24 | £53,792 | £40,821     |
+| 1924-25 | £62,771 | £36,420     |
+| 1925-26 | £51,697 | £40,610     |
+| 1926-27 | £52,925 | £44,870     |
+| 1927-28 | £71,964 | £45,632     |
+
+The imports and exports have been as follows:
+
+| Year    | Imports | Exports |
+|---------|---------|---------|
+| 1922-23 | £137,128 | £291,086 |
+| 1923-24 | £109,145 | £301,545 |
+| 1924-25 | £137,695 | £369,576 |
+| 1925-26 | £125,048 | £388,157 |
+| 1926-27 | £113,453 | £396,728 |
+
+Staff.
+
+Resident Commissioner, Gilbert and Ellice Islands Colony, A. F. Grinble, C.M.G., 800l. to 1,000l. by 50l.; 100l. duty allowance and quarters.
+
+Secretary to Resident Commissioner, E. L. Leembruggen, 400l. to 500l. by 25l. and quarters.
+
+Native Clerk and Ellice Interpreter, Ocean Island, S. Pine, 100l. to 150l. by 10l.
+
+Treasurer, Collector of Customs, and Chief Postmaster, S. G. Clarke, 550l. to 650l. by 25l. and quarters.
+
+Accountant, H. A. B. Bentley, 400l. to 500l. by 25l. and quarters; receives also an allowance of 48l. as Customs and Boarding Officer.
+
+Postmaster, Ocean Island, Morning Star, 100l. to 150l. by 10l.
+
+Engineer Operator in Charge, Ocean Island Radio, T. Moore, 400l. to 450l. by 25l. and quarters.
+
+Operator, Ocean Island Radio, A. Cookson, 300l. to 400l. by 20l. and quarters.
+
+Cadets, P. C. Spain, A. C. F. Armstrong, H. E. Maude, 400l. to 450l. and quarters.
+
+Headmaster, Educational Scheme, F. G. L. Holland, 550l. to 600l. by 25l. and quarters; receives also an allowance of 80l. for Boarding duties.
+
+Master, Ellice School, D. G. Kennedy, 450l. to 550l. by 25l. and quarters.
+
+Technical Instructor, Bairiki, Tarawa, J. Blaikie, 400l. to 500l. by 25l. and quarters.
+
+First District Officer, C. A. Swinbourne, 600l. to 700l. by 25l., and quarters.
+
+District Officers, S. F. Anderson, W. C. B. Baverstock (two posts vacant), 500l. to 600l. by 25l. and quarters.
+
+Senior Medical Officer, D. M. Young, M.B., Ch.B., 650l. to 750l. by 25l. and quarters.
+
+Medical Officer, Ellice Islands, Dr. C. MacEwan MacPherson, M.B., Ch.B., 600l. to 650l. by 25l., and allowance of 100l.
+
+First Native Medical Practitioner, P. Sowani, 100l. to 200l. by 10l., and personal allowance of 50l.
+
+Native Medical Practitioner, Tutu Tehanene, 60l.
+
+Lands Commissioner, A. F. Grinble, in conjunction with duties of Resident Commissioner.
+
+Officer in Charge of Constabulary, Ocean Island, S. C. Methven (Draws Salary of District Officer on scale of 600l. to 600l. by 25l., and quarters.
+
+Chinese Interpreter, Fu Yuk Ching, 200l. to 300l. by 20l., and quarters.
+
+Native Assistant to District Officers, W. McG. Bose, 100l. to 150l. by 10l.
+
+THE BRITISH SOLOMON ISLANDS PROTECTORATE.
+
+The British Solomon Islands consist of the southern islands of the group, viz., Shortland Island, Choiseul, Isabel, New Georgia, Guadalcanar, Malaita, San Cristoval, Bellona, and Rennell Islands, together with Ontong-Java, Santa Cruz, Duff, and Reef Groups, and other smaller islands in the vicinity of the main group, and all lying between the 7th and 13th degrees of south latitude, and the 150th and 163rd degrees of east longitude. The natives are in the main, Melanesians, but showing traces of the intrusion of small bodies of Polynesians and others. The native population has been estimated, approximately, at 150,000, but is about stationary now. Large numbers were carried off by dysentery during the eighteen months ended March 31st, 1915. Malaita is the most densely populated, estimated population 60,000. The natives have been described as treacherous, but of late years have shown themselves amenable to law and civilisation. All emigration of native labourers to places beyond the limits of the Protectorate has been stopped by legislation. There have long been a few traders, mostly of British nationality, resident in the islands; these have now increased largely in number, and in the extent of their operations. Lever Bros. and Burns, Philip and Co., have undertaken coco-nut planting on a large scale, and employ a large number of white men in overseeing and superintending the native labour. The estimated area of land planted with coco-nuts in December, 1927, amounted to 60,000 acres. The non-native population in 1914 numbered 660 Europeans, in 1919 numbered 675 Europeans and 75 Asiatics, in 1922, 493 Europeans and 90 Foreigners, in 1924, 338 Europeans and 100 Asiatics. The principal articles of trade are copra, green snail and trochus shells, ivory nuts, pearl shell, and tortoise shell. The climate is unhealthy, malaria being very prevalent, especially during the North-West season, which lasts from the end of October to the beginning of March. Lung diseases, especially pulmonary tuberculosis, are common among the natives. These islands were placed under British protection in 1893. The headquarters of the Protectorate is at Tulagi, a small island off Florida.
+stationed at Shortland Island, Mala, Gizo, San Cristoval, Guadalcanal, Ysabel and Santa Cruz. There is regular steam communication with Sydney, New South Wales.
+
+| Year     | Revenue | Expenditure |
+|----------|---------|-------------|
+| 1924-25  | £64,091 | £65,409     |
+| 1925-26  | £71,430 | £60,830     |
+| 1926-27  | £77,445 | £63,741     |
+| 1927-28  | £75,684 | £73,983     |
+| 1928-29  | £79,935 | £91,632     |
+
+| Year     | Imports | Exports    |
+|----------|---------|------------|
+| 1924-25  | £231,040| £331,211   |
+| 1925-26  | £266,943| £418,818   |
+| 1926-27  | £296,721| £454,040   |
+| 1927-28  | £261,741| £386,546   |
+| 1928-29  | £295,253| £481,870   |
+
+Shipping.
+
+| Entered | Tons. | Cleared | Tons. |
+|---------|-------|---------|-------|
+| 1924-25 | 36,673| 36,677  |       |
+| 1925-26 | 49,234| 47,431  |       |
+| 1926-27 | 44,506| 40,241  |       |
+| 1927-28 | 67,207| 61,844  |       |
+| 1928-29 | 47,589| 48,089  |       |
+
+Rainfall in inches.
+
+| Year | Inches |
+|------|--------|
+| 1924 | 201.48 |
+| 1925 | 107.28 |
+| 1926 | 121.77 |
+| 1927 | 144.75 |
+| 1928 | 101.99 |
+
+The Resident Commissioner is assisted by an Advisory Council, inaugurated in 1921, by virtue of King's Regulation No. 12 of 1921, as amended by King's Regulation No. 6 of 1927.
+
+Advisory Council.
+
+The Resident Commissioner.
+N. S. B. Kidson, Secretary to the Government.
+Dr. H. B. Hetherington.
+F. E. Johnson, Treasurer and Collector of Customs.
+
+Nominated Members.
+
+Donald MacKinnon.
+F. M. Campbell.
+The Rev. J. F. Goldie.
+G. E. Clift.
+
+Resident Commissioner, F. N. Ashley, 1,200l. to 1,400l. and duty allowance, 100l.
+Government Secretary, N. S. B. Kidson, 500l. to 600l.
+Clerk to the Resident Commissioner, C. H. Soddy, 340l. to 400l.
+Central Typist, L. C. Watkins, 270l. to 340l.
+First District Officer, J. C. Barley, 600l. to 700l.
+District Officers, R. Brodhurst Hill, A. Middenway, C. E. J. Wilson, W. H. Miller, F. B. Filose, 500l. to 600l.
+Assistant District Officer, R. A. Crompton, 400l. to 500l.
+Cadets, R. H. Garvey, P. C. Hubbard, L. W. S. Wright, W. Fowler, 400l.
+Senior Medical Officer, H. B. Hetherington, M.D., M.S., B.Sc., D.P.H., 700l. to 900l. and fees.
+Travelling Medical Officer, N. Crichlow, M.B., Ch.B. (Glas.), 550l. to 650l.; 200l. consolidated travelling and subsistence allowance.
+District Medical Officer K. R. Steenson, M.B., Ch.B., 600l. to 650l.
+
+Sister-in-Charge Government Hospital, Tulagi.
+Miss. E. M. Ezzy, 200l. and victualling allowance.
+Nurse (vacant), 160l. and victualling allowance.
+Dispenser, C. H. G. White, 300l. to 360l.
+Sanitary Inspector, D. J. Rankin, 270l. to 340l.
+Chief Magistrate and Legal Adviser, P. C. Hubbard (acting), 600l. to 760l.
+Collector of Customs and Treasurer, F. K. Johnson, 550l. to 650l.
+Accountant Treasury and Customs W. V. J. Blake, 400l. to 500l.
+First Clerk, and Boarding Officer, A. W. Dickens, 400l. to 450l.
+Second Clerk and Boarding Officer, J. B. Hicks, 340l. to 400l.
+Third Clerk and Boarding Officer, G. H. C. Train, 270l. to 340l.
+Chief Inspector of Labourers, R. F. Thomson, 400l. to 500l.
+Inspector of Labourers, S. G. Masterman, 340l. to 400l.
+Officer in Command of Armed Constabulary, E. N. Turner, 450l. to 600l.
+Sub-Inspector of Constabulary, G. E. D. Sandars, 340l. to 400l., and C. King (temporary), 400l.
+Crown Surveyor and Commissioner of Lands, S. G. C. Knibbs, 600l. to 700l.
+Surveyors, A. H. Wilson, 500l. to 550l. and L. J. Nevison, 450l. to 500l.
+Survey Office Clerk, H. E. J. Hendy, 270l. to 340l.
+Goadler, W. C. Hynam, 270l. to 340l.
+Storekeeper, V. J. Shearwin, 340l. to 400l.
+Superintendent of Works (vacant), S. G. C. Knibbs, acting, allowance 60l.
+Foreman of Works, J. S. Mutch, 300l. to 375l.
+Postmaster, F. Stock, 340l. to 400l.
+Engineer Operator in Charge Wireless Station, Tulagi, A. E. Osborne, 350l. to 450l.
+Wireless Operator, R. S. Taylor, 300l. to 400l.
+
+The above all receive free quarters and 50l. local allowance.
+
+H.M.C.S. "Ranadi."
+
+Master, Captain C. F. Swanson, 420l., victualling and uniform allowance.
+Chief Officer, R. K. Parry, 300l., victualling and uniform allowance.
+Chief Engineer, R. Watkins, 408l., victualling and uniform allowance.
+Second Engineer, H. J. Wooley, 300l., victualling and uniform allowance.
+
+TONGA.
+
+The Tongan, or Friendly Islands, with an area of about 250 square miles, are situated between the 18th and 22nd degrees of south latitude. They were discovered by Tasman in 1643. Most of the islands are of coral formation, but some are active volcanoes, notably Tofua, Kao, and Niuafoou (Good Hope Island). The natives belong to the Polynesian race, and are closely allied to the natives of New Zealand and Samoa. The islands are very rich in coconuts; and copra forms the principal export. There is monthly communication by steamer with Auckland via Fiji and Samoa. Passengers, goods, and mails from other countries tranship, as a rule, at Suva. During the dry season, i.e., from April to December, steamers of the Clan Line and the Norwegian Australian Line call at regular intervals for copra freights.
+Census of Population, December, 1928:
+
+| Tongans | ... | 26,024 |
+|---------|-----|--------|
+| Europeans | ... | 593 |
+| Half-castes | ... | 189 |
+| Others | ... | 295 |
+
+Total | ... | 27,101
+
+In 1845 George Tubou I, who was the first to establish an effective government over the whole of Tonga, was proclaimed King. The present Ruler is assisted by a Parliament and a Privy Council. The Privy Council is composed of three European and six Native Ministers of the Crown who are also heads of the various government departments. The civil service is composed mostly of Tongans, the European officials numbering about 43. The general tariff is 12½% ad valorem and there are no preferential duties. Licences are charged for carrying on stores and trades.
+
+The climate may be considered a healthy one. The thermometer ranges between 53 and 93 degrees Fahrenheit.
+
+There are six churches in Tonga, viz., the Wesleyan Free Church of Tonga, with about 16,000 adherents; the Free Church of Tonga, with about 7,000; the Roman Catholic Mission, with about 3,000; the Church of England, 240; the Church of Latter Day Saints, 630; and the Seventh Day Adventist Mission, with about 60 adherents.
+
+The Wesleyan Mission was first founded in Tonga in the year 1826, and a few years later the chiefs and people embraced Christianity and became members of the Church. The control and management of the Mission in Tonga were entrusted about the year 1857 to the Australasian Conference and continued until the year 1885, when King George Tubou I, after trying unsuccessfully to obtain local autonomy for the Church in Tonga, seceded, with a large majority of his chiefs and people and, with the assistance of the Rev. Shirley Baker, established the Wesleyan Free Church of Tonga as a separate and independent body though retaining the same doctrines, discipline, and form of worship as the Wesleyan Church. In January, 1887, an attempt was made by some escaped native convicts on the life of Mr. Shirley Baker, the Premier. The attempt was made the pretext for increased persecution of the "Fakagos," or members of the Wesleyan Mission Church. About 100, whom no ill-usage could induce to abandon the Mission Church, were ordered to be deported to Pylstart Island, a barren islet south of Tonga, but they were finally allowed to go to Fiji. Shortly after an inquiry was made into the causes of the disturbances by Sir Charles Mitchell. At this inquiry the allegation that the attempt on Mr. Baker's life was due to a "Fakago" conspiracy was abandoned, and a letter written by Mr. Baker, purporting to be signed by the king, was addressed to Sir Charles Mitchell, promising an amnesty to political prisoners and freedom of worship. The services in the Mission Church at once recommenced.
+
+In 1890 complaints were made that freedom of worship was still being interfered with; that persons were deprived of their lands and unjustly imprisoned on account of their adherence to the Wesleyan Church; and Tongan officials denied that the king had written to Sir Charles Mitchell promising to accord freedom of worship. Sir John Thurston therefore made a further inquiry, and finding that Mr. Baker was the principal cause of the wrongs endured by the Wesleyans, he issued an Order prohibiting Mr. Baker from being within the group for a term of two years from the 17th July, 1890. A few days before the issue of the Order, the king, on the request of the leading chiefs, had dismissed the Premier from office, and a fresh Government was formed with a native Premier (Tukuaho). Under the new Government the fullest freedom of worship was allowed, and the exiles were recalled from Fiji, the king having requested Sir John Thurston to make arrangements for their return.
+
+In the year 1923 much dissatisfaction existed in the Wesleyan Free Church, and an enquiry that was held into the state of the finances disclosed a very lax state of affairs. As a result of this enquiry it was decided to approach the Wesleyan Church with a view to the union of the two bodies as a separate and independent Conference of the Wesleyan Methodist Church. At a joint conference of the two churches held in April, 1924, union was decided upon. A minority, under the leadership of the late Rev. J. A. Watkin, declined to join the united body and carried on under the title of the Free Church of Tonga. Protracted litigation ensued as a result of this division in respect of the ownership of the churches and property of the Wesleyan Free Church of Tonga established by King George I in 1835. It was finally decided on appeal in favour of the united Church, of which the present Queen is the head.
+
+King George Tubou died on 18th February, 1893, and was succeeded by his great-grandson, George Taufa'ahau, under the title of George Tubou II. On the death of the latter on the 5th April, 1918, Princess Salote, his daughter by his first wife the late Queen Lavinia, succeeded to the throne. The young Queen, who was born on the 13th March, 1900, was married in 1917 to Prince Uliami Tugi, the present Premier, and chief of highest rank in Tonga.
+
+Early in 1900 Mr. Basil Thomson was sent out to Tonga by Her Majesty's Government, and concluded a Treaty with the king by which the latter placed himself and his territory under Her Majesty's protection. A protectorate was proclaimed on 18th May, 1900.
+
+In December, 1904, and January, 1905, the High Commissioner, Sir Everard im Thurn, spent some time in Tonga, re-organising the system of administration—which had by that time fallen into some disorder and received an undertaking from the king of more strict compliance with the liabilities assumed by him under the Treaty of 1900. The Premier, Jiosateki Toga, and the Treasurer were removed to Fiji, under an Order in Council; and Jione Mateialona was appointed to the Premiership, which office he held until 30th September, 1912, when he resigned. He was succeeded by Tevita Tuivakano, who retired from office on 30th June, 1922. The present premier, Uliami Tugi, is the Prince Consort, and was formerly Minister for Lands. The progress of Tonga since 1905 has been satisfactory.
+
+Every Tongan is entitled to an allotment of land for cultivation, so that no unemployment exists.
+
+Primary education for Tongans between the ages of 6 and 14 is compulsory. There are two boys' colleges at which provision is made for secondary education. Secondary education of girls is entirely in the hands of the Christian missions. Medical work is well organised; and,
+unlike most native communities in the Pacific, the native population steadily increases in number.
+
+British and foreign nationals are subject to the jurisdiction of the Tongan Court only for offences against Tongan laws relating to customs, taxes, quarantine, and local police, not recognised as offences against British law. In other respects they are subject to the jurisdiction of the Court of the High Commissioner.
+
+Statistics.
+
+| Year    | Revenue | Expenditure |
+|---------|---------|-------------|
+| 1924-25 | £74,335 | £63,539     |
+| 1925-26 | £91,969 | £88,759     |
+| 1926-27 | £70,119 | £88,109     |
+| 1927-28 | £86,627 | £83,209     |
+| 1928-29 | £83,090 | £79,608     |
+
+There is no debt and the amount of accumulated balances amounted to £124,310 on 30th June, 1928; on 30th June, 1929, £142,700.
+
+| Year | Imports | Exports |
+|------|---------|---------|
+| 1924 | £232,600 | £306,638 |
+| 1925 | £258,322 | £290,115 |
+| 1926 | £227,882 | £263,198 |
+| 1927 | £167,783 | £236,391 |
+| 1928 | £211,937 | £287,668 |
+
+The shipping entered and cleared during the year 1928 amounted to 79,092 tons of which 49,689 tons was British.
+
+Agent and Consul, Tonga, J. S. Neill, 800l. to 1,000l. and quarters; duty allowance 200l., and office allowance of 50l. as Consul.
+
+Tongan Ministers.
+
+Premier, Uiliame Tugi.
+Chief Justice, W. K. Horne.
+Speaker of the Legislative Assembly and Minister of the Crown, J. Finau Ulakalala.
+Auditor-General, J. Darrell Wall.
+Minister of Police, Jiobe Kahoe.
+Minister for Finance, W. G. Bagnall.
+Minister for Lands, Solomone Ata.
+Governor of Haapai, Sateki Faletan.
+Governor of Vavau, J. Tuiaateihio.
+
+The foregoing Ministers constitute the Privy Council, meetings of which are presided over by the Queen.
+
+The Cabinet Council is composed of the same Ministers, with the exception of the Minister of the Crown.
+
+THE NEW HEBRIDES.
+
+The New Hebrides, to which are attached the Banks and Torres Islands, lie between the 12th and 20th degrees of south latitude, and the 165th and 170th degrees of east longitude. The area is about 5,700 sq. miles.
+
+The population is estimated at—
+
+| Nationality                  | Population |
+|-----------------------------|------------|
+| British Nationals           | 205        |
+| French Nationals            | 779        |
+| Foreigners                   | 86         |
+| Asiatics and Protected French Subjects (mostly coolies under indenture) | 5,601      |
+| Native Population about     | 60,000     |
+| Total                       | 66,671     |
+
+The natives are Melanesians, but in many places there is an admixture of Polynesian blood. The Europeans are mostly British or French.
+
+Missions have been established by the Melanesian Missionary Society, by the Presbyterian churches of Canada and Australia, and by the Roman Catholic Church.
+
+The principal exports are copra, cocoa, cotton, coffee, trochus; maize, hides and various miscellaneous products are also exported. The climate of most of the islands is rather unhealthy and malarial fever is prevalent. At first, a joint commission, of British and French naval officers, was appointed to protect the lives and property of British and French subjects, and to maintain order. British and French Residents were appointed in 1902. In February, 1906, a conference of British and French officials took place in London, and a draft convention was prepared to provide for the settlement of land claims, and for an arrangement which would put an end to the difficulties arising from the absence of jurisdiction over the natives. A convention confirming the above-mentioned draft was signed in London on October 20th, 1906, and was provisionally proclaimed at Vila, the chief town of the New Hebrides, on December 2nd, 1907. Its provisions include the establishment of a joint court, and of an executive government consisting, for some purposes, of the British and French representatives in the group acting in concert. For other purposes British and French nationals remain subject to the control only of their own authorities.
+
+A Protocol drawn up in London in 1914 to replace the Convention of 1906, was ratified on March 18th, 1922. It was proclaimed in the New Hebrides in August, 1923.
+
+British and French Resident Commissioners, subordinate to their respective High Commissioners, each with a staff of officers have been appointed.
+
+| Year | Revenue | Expenditure |
+|------|---------|-------------|
+| 1928-29 | £700 | £11,708 |
+|       | £27,932 | £28,777 |
+
+Imports,
+
+| Value in British Currency | £374,797 |
+| Value in French Currency | Fcs.46,474,828 |
+
+Exports,
+
+| Value in British Currency | £316,081 |
+| Value in French Currency | Fcs.42,914,044 |
+
+The value of British Imports and Exports is estimated at 69,120l. and 86,520l. respectively.
+
+British Staff.
+
+Resident Commissioner, G. A. Joy, 800l. to 1,000l. and 100l. duty allowance.
+
+Judicial Commissioner, C. C. Francis, receives 700l. as British Judge of the Joint Court and quarters, and 100l. as Legal Adviser to Resident Commissioner.
+
+Assistant to the Resident Commissioner, R. D. Blandy, 500l. by 25l. to 600l.
+
+District Agent for Efate and Commandant of Police, E. A. G. Seagoe, M.B.E., 500l. by 25l. to 600l. and quarters.
+
+Assistant to Commandant of Police, R. J. Keegan, 250l. by 10l. to 300l.
+Island Agents, T. R. Salisbury, J. M. Nicol, and G. G. Adam, all 400l. to 600l. by 25l. to quarters.
+
+Clerk and Accountant, H. Forbes, 300l. by 25l. to 400l. and quarters.
+
+Correspondence Clerk, Miss T. Bell, 150l. by 10l. to 200l.
+
+PHŒNIX GROUP.
+
+The Phoenix group comprises Phoenix, Birnie, Hull, Canton, Gardner, McKean, Enderbury, Sydney, Baker and Howland Islands, and is situated to the east of the Gilbert and Ellice groups. The Islands are of coral formation, and several of them are planted with coconuts. All except McKean and Enderbury Islands are leased to the Samos Shipping and Trading Company for 87 years, from 1st January, 1914.
+
+PITCAIRN ISLAND.
+
+Pitcairn Island (two square miles) is situated in the Pacific Ocean, nearly equidistant from Australia and America (26° 3' S. lat., 130° 8' E. long). It was discovered by Carteret in 1767, but remained uninhabited until 1790, when it was occupied by the mutineers of H.M.S. "Bounty," with some women from Otaheite. Nothing was known of their existence until the island was visited in 1808. No regular government was established, but assistance of various kinds was given on the subsequent visits of English vessels. In 1856, the population having become too large for the island's resources, the inhabitants (192 in number) were, at their own request, removed, with all their possessions, to Norfolk Island; but 40 of them soon returned. In 1879 these had increased to 90. The population in 1914 was 140 (35 adult males, 39 adult females, 66 children).
+
+It is a British Colony by settlement, and was brought within the jurisdiction of the High Commissioner for the W. Pacific in 1898 under s. 6 of the Pacific Order in Council, 1893. Chief Magistrate, Parkin Christian.
+
+The islands of Henderson, Ducie, and Oeno were annexed in 1902, and are included in the district of Pitcairn.
+
+THE WINDWARD ISLANDS.
+
+Situation, Area, and Trade.
+
+The Windward Islands consist of the three islands of St. Lucia, St. Vincent and Grenada, lying in the order named from north to south, together with the smaller islands known as the Grenadines, which lie between St. Vincent and Grenada, and are attached partly to the one island and partly to the other. Geographically, Barbados, Trinidad and Tobago belong to the group, and were formerly associated with it politically, Tobago from 1764 to 1783, and all three in 1838. The three first-named islands are grouped for administrative purposes under one Governor, who usually resides at St. George's, Grenada. The total area of the three Colonies is 524 square miles (about twice the size of Middlesex), and their estimated population at the census of 24th April, 1921, 162,254.
+
+| Year | Imports. | Exports. |
+|------|----------|----------|
+| 1918 | £882,737 | £1,451,488 |
+| 1919 | £946,445 | £1,222,520 |
+| 1920 | £1,416,037 | £1,358,759 |
+| 1921 | £620,761 | £645,817 |
+| 1923 | £672,972 | £592,331 |
+| 1924 | £666,966 | £736,633 |
+| 1925 | £920,727 | £852,397 |
+| 1926 (Grenada) | £386,483 | £447,401 |
+| 1927 | £816,649 | £804,399 |
+
+| Year | Revenue. | Expenditure. |
+|------|----------|--------------|
+| 1918-19 | £221,810 | £212,765 |
+| 1919 (April-Dec.) | £192,387 | £203,288 |
+| 1920 | £170,496 | £292,380 |
+| 1921 | £223,915 | £296,118 |
+| 1922 | £217,589 | £285,712 |
+| 1923 | £234,900 | £251,698 |
+| 1924 | £249,941 | £248,076 |
+| 1925 | £284,233 | £250,739 |
+| 1926 | £148,447 | £119,000 |
+| 1927 | £326,950 | £308,765 |
+
+History.
+
+Some account is given of the history of each island in its proper place, but particulars of their several federal unions may be conveniently inserted here. As early as 1764 there was one Governor for the "Southern Caribbee Islands" of Grenada, Dominica, St. Vincent, and Tobago. Dominica was separated in 1771, St. Vincent in 1776, and in 1783 Tobago was ceded to the French. In 1838 St. Vincent was included with Barbados, Grenada, and Tobago in one general government, the Governor-in-Chief being resident at Barbados, with Lieutenant-Governors in each of the other islands. In 1838 St. Lucia was included in this general government.
+
+On the 17th March, 1885, Letters Patent were passed constituting the Government of the Windward Islands, Barbados being omitted. Tobago was subsequently united with Trinidad.
+
+The majority of the inhabitants are of the negro race, less than 5 per cent. being white and there are some Indian Coolies. A few Carib still remain in St. Vincent. English is spoken throughout, but in St. Lucia, the prevailing language with the peasantry is a French patois. In Grenada the same condition obtains, but to a less extent.
+
+Constitution.
+
+Each island retains its own institutions, and, when the Governor is absent, is presided over by a resident Administrator, who is also Colonial Secretary. There is no common legislature, nor common laws, revenue, or tariff. A Windward Islands Court of Appeal was set up in 1850 (13 & 14 Vict. c. 15), and abolished in 1920 by an Act (9 & 10 Geo. V. c. 47), which set up a Court of Appeal for the West Indies, consisting of the chief justices of the several West India Islands except Jamaica. There is also a common audit system instituted in 1889.
+
+Currency and Banking.
+
+The legal tender currency is British sterling and the gold coins of the United States. Barclays Bank (Dominion, Colonial and Overseas) Ltd. and the Royal Bank of Canada, which have branches in the larger islands, issue five-dollar notes. Public accounts are kept in sterling, but banking and private accounts generally in dollars. There is no limit to the legal tender of silver.
+Communications.
+
+The usual length of the voyage from England to Grenada is about 14 days.
+
+The steamers of Harrison Direct Line call at Grenada on the outward voyage, and on the homeward voyage they call at the three islands as cargo offers. There is also direct fortnightly communication between Grenada and New York by the steamers of the Furness, Withy Line. The passenger and cargo steamers of the Canadian National Line call regularly at Grenada, St. Lucia and St. Vincent, and connect these islands with Canada, St. John and Halifax being the ports of arrival and departure there.
+
+There are no railways in any of the islands. A general telephone system exists throughout the islands. All three islands of the group are in communication with Europe, the United States, Canada, and the other West Indian islands by wireless, operated by the Pacific Cable Board, and by the Cables of the West India and Panama Telegraph Company Ltd. The rate per word for telegrams to the United Kingdom from Grenada, St. Lucia and St. Vincent is 2s. 4½d. The rate to Europe varies from 3s. 2½d. to 3s. 7½d. per word. (Government messages pay half rates.) There are also cheap rates at half and quarter of the ordinary tariff, the latter being subject to a minimum charge.
+
+A wireless installation has been erected at Carriacou by the local Government. It communicates with Grenada and through that island to the United Kingdom, Canada, North America, &c., the ordinary tariff being 2½d. per word more than from Grenada.
+
+The Rates of Postage are:
+
+| Country of destination | Rates of postage on parcels not exceeding |
+|------------------------|------------------------------------------|
+|                        | 3 lb. | 7 lb. | 11 lb. | 14 lb. | 15 lb. | 18 lb. | 22 lb. |
+| Bermuda, British West Indies, British Guiana and British Honduras | 1/-   | 2/-   | 3/-    | 4/-    | ...    | 5/-    | 6/-    |
+| Canada                  | 1/-   | 2/-   | 3/-    | 4/-    | ...    | 6/-    | 7/-    |
+| Great Britain and Northern Ireland | 1/9   | 3/3   | 4/6    | 5/6    | ...    | 6/6    | 7/6    |
+| Countries served through Great Britain; in addition to the postage shown in the British Post Office Guide | 1/-   | 2/-   | 3/-    | 4/-    | ...    | 5/-    | 6/-    |
+| United States of America (including Virgin Islands of the U.S., Hawaii and Porto Rico), the Canal Zone, and other Possessions of the United States | ...   | ...   | 6d. per lb. or fraction of a lb. |
+
+Civil Establishment.
+
+Governor and Commander-in-Chief of the Windward Islands, Sir Frederick S. James, K.C.M.G., K.B.E., 3,000l., and travelling allowance up to a maximum of 500l.
+
+Aide-de-Camp and Private Secretary, Major C. L. Matthews-Donaldson, M.B.E., 300l.
+
+Secretary to Government, J. M. Knight, M.B.E., 300l. to 400l. by 20l.
+
+GRENA DA.
+
+Situation, Area, &c.
+
+Grenada, the most southerly of the Windward group, is situated between the parallels of 12° 30' and 11° 58' N. lat., and 61° 20' and 61° 36' W. long.; is about 21 miles in length, 12 miles in its greatest breadth, and contains about 133 square miles (about half the size of Middlesex). It lies 68 miles S.S.W. of St. Vincent, and about 90 miles north of Trinidad, and between it and the former island are certain small islands called the Grenadines, attached partly to the government of St. Vincent, and partly to that of Grenada; the largest of the latter is Carriacou, which has an area of 8,467 acres, and a population (at 24th April, 1921) of 7,104.
+
+General Description.
+
+Grenada is mountainous and very picturesque, its ridges of hills being covered with trees and brushwood. The mountains are chiefly volcanic, and have several lofty peaks, the highest of which is Mount St. Catherine, 2,749 feet, running off in spurs from the centre of the island, giving it an appearance of romantic beauty when viewed from the sea.
+
+The island abounds in streams, and in mineral and other springs. The Grand Etang, a lake on the summit of a mountain ridge 1,740 feet above the level of the sea, and 7 miles from the town of St. George, and Lake Antoine, both old craters, are among the most remarkable natural curiosities; near the former a sanatorium is established.
+
+The roads of the colony are in excellent condition, and are kept in a state of thorough repair. About 146 miles of main roads, and a network of byeways (275 miles), provide good inland communication. The island is divided into six districts or parishes—St. George, St. David, St. Andrew, St. Patrick, St. Mark, and St. John—while the dependencies of Carriacou, Petit Martinique and other adjacent islets form a separate district, administered by a Commissioner. St. George's, the principal town, is a port of registry for shipping and had on 31st December, 1928, 139 vessels registered, of a total tonnage of 2,478 tons;
+its fine harbour, owing to its situation, healthiness, and great natural advantages, including a plentiful supply of water of the purest quality, offers exceptional inducements as a port of call and coaling station for steamers. The town had a population of 4,629 by census of 24th April, 1921.
+
+The other towns in the colony are Gouyave (or Charlotte Town), Victoria (or Grand Pauvre), Sauteurs; Grenville (or La Baye); and Hillsborough, in Carriacou. English is universally spoken, but the peasantry speak among themselves a French patois. About two per cent. are of European blood, the remainder being of the Negro race, except the East Indian population, which was 181 in number according to the census of 1921.
+
+Climate.
+
+The climate in the dry season is delightful. In the wet season, as in all other tropical islands, it is damp and hot. But for six winter months, say from December to May, it is excellent, and is healthy at all times. The average annual rainfall at St. George's for the 30 years, 1889-1928, is 74'17 inches and the highest and lowest readings of the thermometer for the last five years are 90°0' and 60°0' respectively, 60°0' 8th August, 1928, the average mean temperature being 80°0" in the shade. The rainfall in other parts of the island is much greater; at the Grand Etang, in 1927, it was 140'47 inches.
+
+Industry.
+
+The prosperity of the island, like that of its neighbours, depends almost entirely upon the planting industry. It has long ceased to be a sugar-producing colony. The chief produce of Grenada is cocoa, of which a total value of £24,461. was shipped in 1928. Attention has been turned with some success to the cultivation of other economic plants, such, for instance, as rubber, limes, coffee, kola nut, cloves, vanilla, pepper, cardamoms, coconuts, etc. Nutmeg cultivation occupies a prominent position. The value of spices exported in 1928 was £37,225L. In Carriacou cotton is the staple product, its cultivation having never been wholly abandoned there; the value exported in 1928 was with cotton seed, £2,585L. The cultivation of limes has now been successfully established in Carriacou, the exports of lime products in 1928 amounting to £5,710L. Tropical fruits of almost every description and of the finest quality are fairly plentiful, and are shipped to the Barbados and Trinidad markets. The principal food resources are yams, sweet potatoes, tanias, kush-kush, pigeon-peas, plantains, bananas, Indian corn, cassava, bread fruit, etc. Fresh meat is always obtainable, and the animals slaughtered for the purpose are reared in the island. An excellent oyster is obtained in Carriacou, and turtles and fresh fish are plentiful. The forests produce valuable timber, such as bullet wood, locust, mahogany, red and white cedar, galba, etc. Rum is manufactured for local consumption, the total number of proof gallons in 1928 being 57,212.
+
+A whaling industry on modern lines was established in 1925, with a factory at Glovers Island off the south-west coast of Grenada. 102 whales were caught in 1925, during the season from January to the end of April, and 112,963 gallons of whale oil valued at £16,870 were exported. Later the factory was equipped for the manufacture of whale guano, and the season of 1926 resulted in 108,050 gallons whale oil valued at £14,271L and 1,898 bags of manure to the value of £1,728L. Owing to unfavourable results whaling operations were discontinued in 1927.
+
+The main imports are food-stuffs, textiles, timber for building purposes, and hardware.
+
+The principal exports, besides those products already mentioned, are turtles and turtle-shell, hides and skins, fruit and poultry.
+
+Total acreage of land, exclusive of Carriacou, 76,548; acreage of Carriacou, 8,467.
+
+There is a Government savings bank in St. George's, established in 1881, and extended to the out districts in 1889, and on 31st December, 1928, the amount at credit of depositors was £46,396L.
+
+History.
+
+Grenada was discovered by Columbus on 15th August, 1498, and was named by him Conception. It was at that time inhabited by Caribs. A settlement was attempted in 1609 by a company of London merchants, but the colonists were so harassed by the Caribs that the attempt was abandoned. In 1650 Du Parquet, Governor of Martinique, purchased Grenada from a French Company, and established a settlement at St. George's. Finding the expense of maintaining an armed force to support his authority not compensated by the expectation of future profits, Du Parquet sold the island in 1657 to the Comte de Cerrillac for 30,000 crowns. The Governor appointed by the new proprietor ruled with so much tyranny that the most respectable settlers left the island; he was at length seized, tried, and executed by the colonists.
+
+In 1674 the island was annexed to France, and the proprietors received compensation for their claims; and in 1762 it was surrendered to the British under Commodore Swanton, and was formally ceded to Great Britain by the Treaty of Paris on the 10th of February, 1763. In 1779 it was retaken by the French under the Count D'Easting; and in 1783 it was restored to Great Britain by the Treaty of Versailles. In 1795-6 it was the scene of a rebellion against the British rule, instigated by the French Republic. The Lieut.-Governor and 47 other British subjects were massacred by the rebels, and the colony brought to the verge of ruin. In June, 1796, Sir Ralph Abercrombie suppressed the rising, and the ringleaders were executed.
+
+In 1834 the apprenticeship system was established in regard to the African slaves, and this was followed in 1838 by their unconditional emancipation.
+
+Constitution.
+
+There was from 1760 a Legislative Council as well as a House of Assembly, the latter consisting of 21 elected members.
+
+Under an Act of 1856, and limited in its duration to a term of three years, an Executive Council was formed, composed of members of both branches of the Legislature. The Act was allowed to expire, and the Legislative Council resumed its executive functions under the style of Her Majesty's Council.
+
+This constitution was remodelled by an Act of the 7th of October, 1875, and a single Legislative Assembly established in lieu of the Council and Assembly. The Assembly consisted of 17 Members, 8 elected by the people, and 9 nominated by the Crown. The Act also appointed an Executive Committee of 5 members, 3 being nominated and the other 2 elected Members of Assembly. These Members received each a salary of 100L a year, and were charged with the duty of advising the Lieut.-Governor on the conduct of affairs.
+
+This Assembly at its first meeting on the 9th of February, 1876, addressed the Queen, informing Her Majesty that it had passed a Bill providing for
+its own extinction, and leaving "it entirely to your Majesty's wisdom and discretion to erect such form of Government as your Majesty may deem most desirable for the welfare of the Colony." The Imperial Act (39 and 40 Vict. c. 47) empowered Her Majesty to comply with this address, and Crown Colony Government was established in December, 1877.
+
+On the 17th March, 1885, letters patent were passed constituting anew the office of Governor of the Windward Islands, and on 1st June, 1885, Grenada became the headquarters of the Government, which includes the colonies of St. Lucia and St. Vincent.
+
+Until the 1st of December, 1924, the Legislative Council consisted of six official members besides the Governor, and seven unofficial members nominated by the Crown.
+
+By an Order in Council dated 21st March, 1924, which came into operation on 1st December, 1924, a partly elective Legislative Council was constituted, consisting of the Governor, seven ex officio members, three nominated unofficial members and five elected members. The Island is divided into five electoral districts, each returning one elected member.
+
+The Government is assisted in the internal administration by six semi-elective District Boards.
+
+Education.
+
+There are 58 elementary schools, 10 Government and 48 aided. These schools are of three classes, Infant, Lower Division and Combined, and the law also provides for a fourth class, Industrial schools. Head teachers of combined schools are paid from £60. to £150. per annum, according to their certificates of proficiency, and to the class of school. Bonuses are given them for long service or extra duties. Grants are also given by Government in aid of buildings, furniture and apparatus. The administration is entrusted to a Board of Education nominated by the Governor, half the members being Roman Catholic. In 1928 the average attendance was 8,123 children, the number on the rolls being 12,999. There is a Government secondary school for boys, and three for girls which receive grants-in-aid from the general revenue.
+
+Governors since 1900.
+
+1900 Sir R. B. Llewelyn, K.C.M.G.
+1906 Sir Ralph Williams, K.C.M.G.
+1909 Sir James Hayes Sadler, K.C.M.G., C.B.
+1914 Sir George B. Haddon-Smith, K.C.M.G.
+1923 Sir Frederick S. James, K.C.M.G., K.B.E.
+
+Population.
+
+Census, 1901 . . . 63,438
+,, 1911 . . . 66,750
+,, 1921 . . . 66,302
+
+FINANCES.
+
+Year. Revenue. Expenditure. British Tonnage. Total Tonnage.
+
+1919 87,295 107,011 725,297 737,474
+1920 134,128 148,175 721,221 741,065
+1921 97,932 136,969 728,544 738,020
+1922 103,414 117,849 744,710 747,206
+1923 103,823 113,095 760,016 765,026
+1924 117,453 106,003 793,945 804,643
+1925 146,218 112,467 796,638 818,360
+1926 148,447 119,000 872,910 886,890
+1927 155,508 147,594 935,122 1,048,066
+1928 153,870 144,391 1,004,339 1,146,603
+
+Revenue and Expenditure figures are for the 12 months commencing 1st April up to 1918 inclusive, and in 1919 are for the nine months from 1st April to 31st December, 1919. Subsequent figures are for the calendar year.
+
+Imports.
+
+Year. From U.K. From Colonies. From Elsewhere. Total.
+
+1919 94,237 129,130 214,743 438,110
+1920 204,639 197,924 228,240 630,803
+1921 70,435 115,685 72,591 258,711
+1922 83,695 108,164 74,593 266,452
+1923 128,947 101,766 53,993 284,706
+1924 83,600 120,510 68,181 272,291
+1925 156,394 155,259 120,154 431,807
+1926 126,511 148,538 111,434 386,483
+1927 146,159 167,536 101,913 415,607
+1928 163,185 164,902 101,192 429,279
+
+Exports.
+
+Year. To U.K. To Colonies. To Elsewhere. Total.
+
+1919 328,642 98,626 210,101 637,369
+1920 436,287 52,093 116,317 603,697
+1921 165,950 60,689 52,578 279,217
+1922 143,966 43,805 83,621 271,392
+1923 137,152 36,445 84,131 257,728
+1924 161,064 30,312 159,440 350,806
+1925 171,768 27,210 235,105 434,083
+1926 185,901 29,450 252,050 447,401
+1927 196,331 49,553 249,817 495,701
+1928 194,442 57,954 192,870 445,266
+
+Customs Revenue, 1928—81,211l.
+
+Public Debt, at 31-12-28—252,809l.
+
+Executive Council.
+
+The Governor.
+The Colonial Secretary and Treasurer.
+The Attorney-General.
+Major H. E. Sutherland Richards, M.C.
+C. F. P. Renwick.
+Geo. Kent.
+
+Legislative Council.
+
+The Governor.
+The Colonial Secretary and Treasurer.
+The Attorney-General.
+The Chief Medical and Health Officer.
+The Chief of Police.
+The Superintendent of Public Works.
+The Postmaster.
+The Director of Education (provisional).
+F. S. Noel (nominated).
+R. C. Fitt (nominated).
+Major A. P. Huggins (nominated).
+J. T. de la Mothe (St. David's and South St. George's).
+T. A. Marryshow (St. George's).
+G. E. Edwards (St. Andrew's).
+J. F. Fleming (St. John's and St. Mark's).
+F. H. Copland (St. Patrick's and Carriacou).
+
+Governor.
+
+Governor, Windward Islands, Sir Frederick S. James, K.C.M.G., K.B.E., 3,000l., and traveling expenses up to a limit of 500l.
+
+Aide-de-Camp and Private Secretary, Major C. L. Mathews-Donaldson, M.B.E., 300l.
+
+Secretary to Government, John M. Knight, M.B.E., 300l. to 400l. by 20l.
+
+Clerk to Executive Council, J. M. Knight, M.B.E., 25l.
+
+Clerk to Legislative Council, Terence Comissiong, 40l.
+
+Secretariat.
+
+Colonial Secretary and Registrar-General, Herbert Ferguson, C.B.E., 940l. and free quarters.
+
+Assistant Colonial Secretary, Terence Comissiong, 300l. to 400l. by 20l.
+Second Clerk, L. J. Wilson, 150l. to 200l. by 8l.
+Foreman Printer, R. Nedd, 130l. to 170l. by 5l. per annum, and 30l. personal allowance.
+
+Treasury, Customs, Inland Revenue, and Savings Bank.
+Treasurer, H. Ferguson, C.B.E., 120l. and 60l. forage allowance.
+Asst. Treasurer and Ch. Clerk, I. C. Beaubrun, 300l. to 400l. by 20l.
+2nd Clerk, E. G. Knight, 200l. to 250l. by 10l.
+
+Revenue Officers:
+Chief Inland Revenue Officer, J. E. T. Brathwaite, 300l. to 400l. by 20l. per annum, and 80l. forage allowance.
+Grenville, G. W. Rapier, 250l. to 300l. by 10l. and 60l. forage allowance.
+
+First Class—
+M. J. de Coteau, 250l. to 300l. by 15l. and 100l. as Port Officer.
+T. C. Gibbs, I. A. D. Preudhomme, 150l. to 200l. by 10l. and 50l. forage allowance.
+
+Second Class—
+N. Paterson, J. M. Clyne, 150l. to 200l.; E. G. Gresham, E. D. McBurnie, C. B. Cyrus, J. E. N. Sooon, 125l. to 150l. by 8l.
+
+Post Office.
+Postmaster, C. L. Wilson, 350l. to 420l. by 15l., and 100l. personal allowance.
+Chief Clerk, H. J. Guthrie, 200l.
+
+Audit.
+Auditor, F. W. Power, 500l. to 600l. by 20l. as Auditor for the Windward Islands, and travelling allowance.
+Audit Clerk, S. W. Brathwaite, 350l.
+
+Works.
+Superintendent of Works G. E. P. Gentle, 400l. to 450l. by 20l., 100l. duty allowance, and 120l. travelling allowances.
+Surveyor and Assistant Roads and Works Superintendent, W. R. Bertrand, 250l. to 300l. by 15l., and 100l. motor car allowance.
+Assistant Roads and Works Superintendent, C. Renwick, 200l. to 250l. by 15l. and 100l. motor car allowance.
+Chief Clerk and Accountant, I. M. Redhead, 125l. to 150l. by 10l.
+
+Medical.
+Chief Medical and Health Officer, Major H. E. Sutherland Richards, M.C., 750l., 50l. as Bacteriologist, 100l. motor car allowance.
+Medical Officer, No. 1 District,† W. S. Mitchell, 400l. to 500l. by 20l., and duty allowance of 100l. as Health Officer of the Port of St. George, additional.
+District Medical Officers, †G. N. Alexis, D. B. B. Hughes, A. F. Hughes, J. E. Copland, L. S. Morgan, R. de J. McSween, J. W. Whiteman, 400l. to 500l. by 20l. each.
+Resident Surgeon, Colony Hospital, M. Clayton-Mitchell, 600l.
+Matron, Colony Hospital, G. Wharton, 200l. and quarters.
+Steward, Lunatic and Poor Asylum, C. Pitt, 150l. to 200l. and quarters.
+Steward, Colony and Yaws Hospital, S. Macintosh, 150l. to 200l. and quarters.
+
+†Each District Medical Officer keeps a horse and a motor car for his duties and receives a motor car allowance of 100l. The Medical Officer stationed at Carriacou is allowed quarters.
+
+Agricultural.
+Director—The Director of Agriculture, Trinidad, 100l.
+Agricultural Officer, W. O'Brien Donovan, 350l. and 100l. motor car allowance.
+
+Police.
+Chief of Police, Major E. E. Turner, 450l. to 500l. by 20l., 50l. forage allowance, and quarters.
+Inspector, G. H. Wilson, 300l.
+
+Prisons.
+Superintendent of Prisons, Major E. E. Turner. (Is also Recorder of Meteorological Observations and receives 50l. as such).
+
+Education.
+Director of Education and Headmaster, B. H. Easter, B.A., M.B.E., 500l. and quarters.
+Inspector of Schools, H. H. Pilgrim, B.A., 350l. and 120l. travelling allowance.
+Assistant Inspector, E. C. Baptiste, 175l.
+
+Boys' Secondary School.
+Science Master, A. Pachal, B.Sc., 350l.
+Assistant Masters, E. C. M. Theobalds, B.A., 250l.; E. de V. Archer, 230l.
+
+Telephones.
+Supervisor, H. Drummond, 300l. per annum, 100l. motor car allowance and quarters.
+
+Judicial.
+Chief Justice, J. S. Rae, 1,000l.
+Attorney-General, N. J. Paterson, K.C., 800l., without private practice.
+Registrar of the Supreme Court, D. J. Garraway, 300l. to 420l. by 20l., and 30l. personal allowance, and fees.
+Chief Clerk and Deputy Registrar, R. K. Taylor, 250l.
+
+Police Magistrates and Coroner:
+Southern District, T. W. S. Garraway, 500l., and 100l. for travelling.
+Northern District, Capt. I. G. Wakely, M.C., 500l. and 100l. for travelling.
+Carriacou District, The Commissioner of the Carriacou District (ex-officio).
+Additional Magistrate for Colony, F. J. McDowell, 450l. to 500l. by 20l.
+
+Carriacou District.
+District Commissioner, H. A. Otway, 350l. to 420l. by 20l. and 80l. personal allowance, 50l. forage allowance, and quarters.
+Overseer, J. M. Clyne, 125l. to 150l. by 10l., 20l. duty allowance, and 50l. forage allowance.
+
+Chief Ministers of Religion.
+Anglican Church.—Bishop, The Right Rev. A. P. Berkeley, M.A., D.D.; Archdeacon, The Right Rev. V. Jackson, M.A., D.D.
+Roman Catholic Church, Very Rev. R. Devan, M.C., O.P., V.P.
+Wesleyan Church, Rev. G. B. Byer, Superintendent.
+Church of Scotland, Rev. D. Macfarlane.
+
+Consuls.
+United States of America, John M. Gilchrist, Con. Agent.
+France, John Barclay, Con. Agent.
+Latvia, O. M. Bain, Con. Agent.

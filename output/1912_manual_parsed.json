@@ -1,0 +1,41 @@
+{
+  "year": 1912,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1912/olmocr_results.md",
+  "total_colonies": 3,
+  "colonies": [
+    {
+      "colony_name": "RESISTS ANY CLIMATE",
+      "year": 1912,
+      "start_line": 684,
+      "end_line": 833,
+      "char_count": 4134,
+      "line_count": 150,
+      "filename": "RESISTS_ANY_CLIMATE.md"
+    },
+    {
+      "colony_name": "SAN FERNANDO",
+      "year": 1912,
+      "start_line": 834,
+      "end_line": 1149,
+      "char_count": 14395,
+      "line_count": 316,
+      "filename": "SAN_FERNANDO.md"
+    },
+    {
+      "colony_name": "SPECIALISTS IN COMPLETE EQUIPMENTS FOR ALL PARTS OF THE WORLD",
+      "year": 1912,
+      "start_line": 1150,
+      "end_line": 1170,
+      "char_count": 923,
+      "line_count": 21,
+      "filename": "SPECIALISTS_IN_COMPLETE_EQUIPMENTS_FOR_ALL_PARTS_OF_THE_WORLD.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Python automated batch parser v3",
+    "date": "2025-11-12",
+    "method": "Structural boundary detection with content size filtering",
+    "colony_section_start": 585,
+    "colony_section_end": 1172
+  }
+}

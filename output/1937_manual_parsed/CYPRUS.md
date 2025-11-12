@@ -1,0 +1,686 @@
+CYPRUS.
+
+Situation and Topography.
+
+The Island of Cyprus is situated in the easternmost basin of the Mediterranean Sea, with Asia Minor to the north and Syria to the east, at distances of 60 and 41 miles respectively. It lies between 34° 33' and 35° 41' N. latitude, and between 29° 20' and 34° 35' E. longitude. Famagusta, with a harbour able to accommodate vessels up to 23 ft. draught, is 295 miles from Egypt, while the port of Larnaca on the southern coast is 268 miles from Port Said, and 1,117 miles from Valletta in Malta.
+
+Its area is 3,572 square miles, equal to Kent, Sussex, and Middlesex combined. It is the third largest island in the Mediterranean, being only exceeded in size by Sicily and Sardinia. Its greatest length from west-south-west to east-north-east, between Cape Drepano and Cape St. Andrea, is about 140 miles, and its greatest breadth from north to south is about 60 miles.
+
+The main topographical features of the island are the northern and southern mountain chains, and the great plain of the Mesaoria extending between them across the island from the Bay of Morphou to that of Famagusta. The northern range, called the Carpas Mountains, and, towards their western extremity, the Kyrenia Mountains, forms a continuous chain near the northern shore from Cape St. Andrea to Cape Kormakiti, a distance of about 100 miles. The southern range, which is the more extensive and lofty of the two, occupies the western and south-western portions of the island, and trending thence eastwards along the south coast, terminates in the isolated peak called Santa Croce (or Stavrovouni), about 12 miles west of Larnaca. The highest summit of this range is Mount Troodos, 6,406 feet above the sea level, and on its south-eastern slopes are the summer quarters of the garrison, of the Governor, and some of the principal officials.
+
+The rivers of Cyprus are nearly all mountain torrents, dry in summer. None are navigable. The principal are the Pedias and the Yalias.
+
+History and Archaeology.
+
+The history of Cyprus is too long and eventful to be related here except in the briefest outline. Excavations have shown that in the second millennium B.C. the island must have been an important centre of Aegean civilization, having intercourse both with Assyria and with Egypt, and at a very early date important Greek and Phoenician colonies were established in it. In the 6th century B.C. it passed under the rule of Egypt, but in 625 B.C. it joined Cambyses in his war against the Egyptians and so was absorbed in the Persian Empire. The whole island, with the exception of the Phoenician town of Amathus, took part in the Ionic revolt in 502 B.C., but the Persians recovered possession in about a year and at the battle of Salamis the fleet of Xerxes included 150 Cypriote ships. At the end of the 5th century the famous Evagoras of Salamis established his supremacy over the whole island and raised it for a brief period to a position of practical independence, but after his death it again came under the control of Persia. After the battle of Issus, Cyprus hastened to join Alexander the Great and sent 120 ships to assist him in the siege of Tyre. At the division of Alexander's Empire, the possession of Cyprus was disputed by Syria and Egypt, but it eventually passed to the latter. In 58 B.C. it became a Roman province and was for a time joined to Cilicia, during which period it was administered by Cicero. Presented by Antoninus to Cleopatra, it reverted to Rome on her death, and remained a Roman province until the division of the Empire, when it was assigned to the Eastern Emperor.
+Its proximity to Syria exposed it to the assaults of the Saracens, and it changed hands more than once between the 7th and 10th centuries A.D. It was finally recovered for Byzantium by Nicephorus Phocas in 965, and remained attached to the Eastern Empire until 1184. In that year its Governor, Isaac Comnenus, revolted and declared himself Emperor of Cyprus. Isaac maintained his independence until 1191, when Cyprus was conquered by Richard I. of England in revenge for the ill-treatment of the crews of some English ships which had been wrecked on the island. Richard sold the island first to the Order of the Temple and later, when the Templars found the task of government beyond their powers, to Guy de Lusignan, King of Jerusalem. Cyprus was ruled by the Lusignan dynasty from 1192 until 1489, but during that period the Genoese Republic exercised a suzerainty over part of the kingdom, from 1373 until 1464, by holding possessions of the principal port of Famagusta. From 1489 until 1571 Cyprus belonged to the Republic of Venice. In the latter year the Turks conquered the island, and retained possession of it until its cession to England in 1878 for administrative purposes. On the outbreak of war with Turkey in 1914 the island was annexed to the British Crown by Order in Council of the 5th of November, 1914. By Article 20 of the Treaty of Peace with Turkey signed at Lausanne on 24th July, 1923 Turkey recognised the annexation.
+
+On the 1st of May, 1925, by Letters Patent passed under the Great Seal of the United Kingdom, the island was formally elevated to the status of a Colony and the High Commissioner assumed the title of Governor.
+
+Historical Monuments and Museums.
+
+Bronze Age, Phenician, Hellenic, and Roman antiquities have been found in immense quantities all over Cyprus from time immemorial, and scientific explorations on a large scale were conducted during the latter part of the last century, and even still an occasional treasure trove of importance may be found. But it is more the ambition of the present administration of antiquities to place numerous classic sites and monuments in a condition rendering them accessible and of greater interest to the visitor than has hitherto been attempted. Paphos, Salamis, Idalion, and many other places demand attention in order to preserve their ancient character, now threatened by the island becoming once more a centre of revived life and activity. Salamis possesses the remains of probably the largest entrepot (Forum) ever built by the Romans, foreshadowing perhaps the famous "Emporium of the East" as Famagusta was called in the middle ages. A Roman temple of the largest size at Nea-Paphos lies in ruins which have never been explored (vide Hogarth's "Devia Cypris," 1899).
+
+The Museum Nicosia, built as a memorial to Queen Victoria and much added to in recent years, contains a collection of Cypriot pottery, stone carving, gold and metal works of art. Separate smaller collections, of the medieval architectural fragments, which are always coming to light, have been formed, and District Museums have recently been established in Larnaca, Famagusta and Paphos.
+
+The superb Gothic cathedrals and churches of Nicosia and Famagusta, in their curious Eastern surroundings, attract numerous visitors. These buildings, of the finest type of French medieval art, are singularly well preserved where they have been converted into mosques; in other cases they are interesting ruins. The conservation of this fine series of Monuments is now the care of the recently established Antiquities Department which has already done much to make them secure and more attractive to visitors.
+
+The Venetian and Genoese Republics left few traces of their rule in the island beyond the imposing fortifications of the seaports of Famagusta, Kyrenia, and Limassol, all of which are scheduled as Ancient Monuments.
+
+The number of Ancient Monuments in Cyprus now protected by the Antiquities Law of 1905 amounts to 70, many of which are mere barren historical sites devoid of any monumental remains.
+
+Climate.
+
+The mean temperature, as recorded in the screen at Nicosia, for the last fifteen years is 66°-6° F.; mean maximum, 78°-3° F.; mean minimum, 64°-8° F.; Highest shade temperature during that time 111° F.; lowest 25° F.; Average rainfall for last ten years 20-47 inches. The year 1935 had a rainfall of 22-16 inches. Figures for rainfall refer to the whole Island. The rainy and cool season is from October to March. The climate is varied, hot and dry in the plains in summer, and damp on the sea-shore; the climate on the hills inland is bracing and healthy. In winter the temperature rarely falls below freezing point. Malarial fevers are prevalent during the hot months, and if the winter is mild, they occur throughout the year. Sanitary improvements and plantations of trees have, however, had a beneficial effect.
+
+Population.
+
+The population, excluding the military, in 1901 was 237,622; in 1911, 274,108; in 1921, 310,715; and in 1931, 347,808.
+
+The Moslems, who are all Ottoman Turks, form about 18-46 per cent. of the population, the rest being nearly all Christians of the Independent Cypriote Church.
+
+The Cypriote Church is a branch of and in communion with the Orthodox Eastern Church, but is "autocephalous" (i.e., The Archbishop of Cyprus is not subordinate to any Patriarch). This position of independence it has retained undisputed since the 5th century when the Emperor Zeno finally decided against the claims of the Patriarch of Antioch to exercise authority over it.
+
+Christianity was originally introduced into the island by St. Paul and St. Barnabas, the latter of whom, a Cypriote Jew by birth, was martyred at Salamis.
+
+Town.
+
+The chief towns are Nicosia, the capital, 23,507 inhabitants; Larnaca, 11,725; Limassol, 15,066. The two latter are open roadsteads. At Famagusta, on the east, the harbour and quay space have been considerably enlarged. The inner harbour is dredged over an area of 900 feet by 600 feet, to 24 feet at low water (ordinary spring tides), with a channel of approach 250 feet wide and 26 feet deep. The curtain wall, south of Othello's Tower, has been pierced with three arches, giving access from the town to the new quay. The quay is faced with a concrete wall 900 feet long in 24 feet of water. Further accommodation for sailing vessels and local craft has been provided in a basin 450 feet long, 200 feet wide, and 15 feet deep at low water. The town of Famagusta is little more than a collection of ruins encircled by fortifications and the inhabitants are nearly all Moslems. The Christian suburb of Varosia is built on more modern lines. The combined population of Famagusta and Varosia is 8,771. The four towns already mentioned are the capitals of four of the six administrative provinces into which the island is divided—the other two capitals being Ktema.
+4,467, the modern capital of Paphos, on the southwest, and Kyrenia, 2,049, where a small harbour has been constructed, in the district of the same name on the north coast, which has some trade with the opposite coast of Karamania. A harbour for small coasting vessels exists at Paphos, the site of the ancient capital of that district. This had become silted up and almost useless, but it has recently been dredged sufficiently to enable small sailing vessels to enter and lie in safety.
+
+Industry, Trade and Customs.
+
+Cyprus was in ancient times famous for its copper mines, and an American syndicate is now operating on a considerable scale in the Evrychou Valley and at Lefka with a crushing plant at Morphou Bay, where steamers call and load the ore. Gypsum is exported in the form of plaster-of-paris from Larnaca and Limassol, where machinery has been set up for grinding it; from these ports it is sent monthly to Egypt, smaller quantities going to Turkey and Syria. Asbestos is found on Mount Troodos, and it is mined by the Cyprus and General Asbestos Company, Limited, capital 750,000L. The Company has established also at Amiandos an asbestos brick and tile making plant, and a subsidiary Company a large steam bakery. Terra Umbra is burnt in large quantities in Larnaca and exported to Italy, the United Kingdom, Germany, and the United States of America, in both a raw and burnt condition. Chrome is being mined by two companies. A factory for the preparation of sumach has since some years been established at Limassol. The development of the silk industry received great assistance from the establishment of a Silk Filature at Yeroskipos, in Paphos, which however was obliged to close down in 1934 owing to trade difficulties.
+
+The main industry of the island is agriculture, the products chiefly consisting of cereals, carobs, wine, spirits and vinegar, tobacco and cigarettes, linseed, flax, aniseed, cumin seed, sumach, silk, silk cocoons, wool, straw, hides and skins, cotton, cotton seed, cheese, potatoes, onions, raisins, grapes, oranges, lemons, mandarines, pomegranates, peaches, apricots, cherries, plums, almonds, and hazelnuts; cattle, mules, donkeys, sheep, poultry and eggs are also exported.
+
+Agriculture is dependent largely on irrigation, the water for which is obtained mainly from wells in the dry season and by flooding from streams during the rainy season. There are two streams which have their source in hill ranges which are tapped by drives into the hills, one at Lapithos and the other at Kythrea. Agriculture has been greatly retarded by the deficient rainfall and the lack of water for irrigation. Boring trials have, however, revealed the presence of artesian water which it is hoped to develop.
+
+Special attention has been given in recent years to tobacco production. The itinerant Tobacco Instructors employed by the Government afford instruction to the peasant growers, and the efforts made have resulted in considerable improvement in the preparation of tobacco for the market. Since the operation of the Tobacco Law, 1932, which was enacted to amend and consolidate the Law with regard to the cultivation, manufacture and sale of tobacco, the industry has been placed on a more satisfactory basis and the production of tobacco of improved quality is more definitely encouraged.
+
+Cyprus wine, which has been famous from early times, has lately received a good deal of attention. It was formerly a domestic industry, and the wines produced consequently lacked uniformity in character and quality. Modern methods of manufacture have now been introduced and good light table wines are now on the market, owing mainly to the efforts of the Cyprus Wines and Spirits Co., Ltd., who have established modern wineries at Perapedhi, Mallia and Limassol. An effort is also being made to market Cyprus wines in the United Kingdom, and a Law has been enacted to prohibit the export to British Possessions of wines not coming up to the standards required. This, it is hoped, will secure recognition of the good wines produced in Cyprus and prevent the export of inferior wines, prejudicial to the marketing of the best Cyprus wines.
+
+The improvement of agriculture is fostered by the Government Department of Agriculture and technical assistance and advice is rendered by the Veterinary, Horticultural, Entomological, Mycological, Viticultural branches of the Department and by a field staff of itinerant Agricultural Officers.
+
+A Central Experiment Farm has been established at Morphou and there is an Experimental Vineyard at Saitta, a Citrus Experimental Grove at Famagusta, a Deciduous Fruit Nursery at Trikoukkia and Nursery Gardens in suitable centres for the distribution of seeds and plants.
+
+Considerable attention is given by the Government to animal husbandry. Cyprus is famous for its donkeys and mules. The Government maintains a stock farm at Athalassa and stud stables throughout the Island. Good breeds of cattle, horses and pigs are imported for the improvement of the local breeds. Good breeds of poultry are maintained by the Government for distribution. The export of poultry and eggs is increasing, and there is considerable room for expansion.
+
+The heavy tariff now imposed by the Egyptian Government on fruits has adversely affected the fruit export trade to Egypt and exporters are now unable to look to that market as an assured outlet for fruits and vegetables. In addition the economic difficulties encountered in marketing Cyprus produce in Central Europe have forced merchants to seek markets further afield. Such markets demand a higher standard of grading and packing before trade can be established on a permanent footing and in order to extend and encourage this trade to more distant markets a new Law known as the Agricultural Produce (Export) Law, 1933, has been brought into operation. Under this Law a Produce Inspection Service has been organised and Regulations for the inspection of Citrus Fruits, Potatoes and onions before export are enforced. Regulations for the inspection of other produce before export are contemplated.
+
+In past years much injury was done to the crops by locusts, but the work of locust destruction was vigorously prosecuted for many years with great success, chiefly on what is known as the "screen and pit" system. Screens topped with American cloth, over which the locusts cannot pass, were stretched across the country in front of the armies of young locusts on the march. The locusts were then gradually forced into pits dug at intervals transversely to the screens, from which, as the pits were topped with a zinc lining, they could not emerge. This system, as the locusts became more scattered, was discarded in favour of a system of collecting locust eggs and purchasing live locusts. Both the purchase and the spraying systems have been employed in recent years. The spraying system has latterly been replaced by the use of poisoned bran bait.
+
+The forests of the island, which had been largely destroyed in the past, are recovering under the protection now afforded. Natural re-afforestation is very slow, partly in consequence of the
+depradations of goats, of which Cyprus, in proportion to its area, contains a large number, and partly in consequence of the forest fires that occur through the summer months.
+
+Sponge fishing is carried on along the coast by boats from the Greek Islands. Sponge fishers are issued a licence at a nominal fee and the Government takes a duty in kind of 20% in the case of harpoon boats and 25% in the case of machine boats of the catch.
+
+Sea fishing is comparatively neglected by the local fishermen, who only use trammel nets and long line, but Italian and Greek trawlers work most of the year and fish is becoming more plentiful in the market than heretofore.
+
+The chief imports are cotton and woollen goods, tobacco, groceries, rice, leather, petroleum, timber, fertilisers, sugar, soap, copper and iron; the exports are chiefly cereals, cotton, carobs, silk cocoons, linseed, aniseed, raisins, fruit and vegetables, cheese, sumac, wool, wines and spirits, vinegar, flax, sesame, asbestos, gypsum, iron pyrites, chrome and terra umbræ.
+
+The Customs import duties are mostly on a specific basis. The ad valorem duties vary from 7 to 40 per cent.
+
+A preference is granted on most classes of imports from British sources.
+
+The following is the percentage of trade with the United Kingdom, other parts of the British Empire and the principal foreign countries:
+
+| Country                  | Percentage |
+|--------------------------|------------|
+| United Kingdom           | 35-67      |
+| Other parts of the British Empire | 9-69       |
+| Roumania                 | 7-55       |
+| Germany                  | 6-83       |
+| Greece                   | 5-31       |
+| Empire of Japan          | 4-80       |
+| Egypt                    | 4-09       |
+| Italy                    | 4-05       |
+| Belgium                  | 3-23       |
+| United States of America | 2-27       |
+| France                   | 1-77       |
+| Czechoslovakia           | 1-66       |
+| Brazil                   | 1-52       |
+| Sweden                   | 1-37       |
+| Yugoslavia               | 1-30       |
+| Holland                  | 1-19       |
+| Austria                  | 1-11       |
+| Denmark                  | 0-88       |
+| Bulgaria                 | 0-74       |
+| Poland                   | 0-71       |
+| Turkey                   | 0-50       |
+| Other countries          | 3-76       |
+
+Currency and Banking.
+
+Under an Order in Council, which came into operation on the 1st January, 1901, the following coins are legal tender currency:—Gold, the sovereign. Silver, 18, 9, 4½, 3 piastre pieces, limit of tender 540 piastres (nine equal to one shilling). Bronze, 1 piastre, half piastre, quarter piastre, limit of tender, 27 piastres (40 paras = 1 piastre). By a proclamation dated the 7th of January, 1935, bronze coins, with the exception of the quarter piastre piece, are in course of withdrawal from circulation and are being replaced by cupro-nickel coins of the same denominations. By proclamation of 28th April, 1928, a new silver 4½-piastre piece is current and legal tender in the colony as from that date. Currency Notes were issued from time to time from September, 1914, as a war measure. Notes of the following denominations are in circulation:—5l., 1l., 10s. By an Order-in-Council of 1st November, 1928, the Treasurer as "Commissioner" of Currency was authorised to issue Currency Notes of the Government; such Notes are to be legal tender, and provision was made for the conversion of the Notes into sterling and vice versa, and for the establishment of a Note Security Fund.
+
+The Ottoman Bank has branches at Nicosia, Larnaca, Limassol, Famagusta and Paphos, also at Troodos during summer season.
+
+The Bank of Athens has branches at Limassol and Nicosia, with Correspondents at Larnaca, Famagusta and Paphos.
+
+The Ionian Bank has a branch at Nicosia, agencies at Larnaca, Limassol, Famagusta and Paphos, and Correspondents at Kyrenia and Morphou.
+
+The Bank of Cyprus, has its Head Office at Nicosia, agencies at Larnaca, Limassol, Famagusta, Paphos, Kyrenia and Morphou.
+
+The Agricultural Bank of Cyprus, Limited, which operates under a Government Guarantee, was established in 1925, with Head Offices at Nicosia. It lends money to farmers through the medium of Co-operative Credit Societies or direct to individuals.
+
+Other banks operating in Cyprus are Bank of Larnaca, Limited and Emmiet Bank, Limited with Head Offices at Larnaca; Peoples Bank, Limassol, Limited, with Head Office at Limassol; Famagusta Bank, Limited, with Head Office at Famagusta; Popular Bank of Paphos, Limited, and Melissa Bank, Limited, with Head Offices at Paphos.
+
+The Turkish weights and measures are in use. The oke=2½lbs. avoidupois; and the donum=about ½ acre. A law relating to weights and measures was passed in 1890.
+
+Means of Communication.
+
+The Cyprus Government Railway of 2' 6" gauge extended originally from Famagusta Harbour to the Capital, Nicosia, and then to Morphou and up to the foot-hills of Troodos at Evrychou.
+
+Owing to uneconomic results the Section from Kalonchorion to Evrychou was taken up and the remaining Section Nicosia to Kalonchorion closed to scheduled traffic.
+
+There is no navigable waterway in the island. The main and secondary roads have recently been reconstructed and good roads exist between all important centres. Most villages are connected with these roads by cart roads. There are motor car services between the chief towns of each district. The Famagusta harbour was completed in 1906, and was enlarged in 1932-33 with assistance from the Colonial Development Fund. An extension to the pier at Larnaca with a sheltering arm at the sea end was completed in 1909. The ancient harbour at Paphos and the harbour at Kyrenia are of sufficient depth to admit of their use by the small coasting craft that trade between Egypt, Syria, Asia Minor and Cyprus. There are no Government telegraphs, other than those along the railway, but the Eastern Telegraph Company, Limited, maintain cables between Egypt and Cyprus and Palestine and Cyprus, and land lines connecting the six principal towns of the Island also at Pedoulas, Platres, Prodromos and Troodos during the summer season, June to September. Arrangements
+are being made for connecting all the principal towns by telephone.
+
+A weekly mail service is maintained between Egypt and Cyprus by subsidised steamers of the Khedivial S.S. Company. Steamers of the Lloyd Triestino Company, of Trieste, call fortnightly from Italy via Greece en route for Egypt, Palestine and Syria on the outward voyage and fortnightly from Messina en route for Rhodes, Greece and Italy; fortnightly from Italy via Greece en route for Messina, Syria, Palestine and Egypt; fortnightly from Egypt, Palestine, Syria, Messina en route for Rhodes, Greece and Italy. There is also a Lloyd Triestino Express service from Italy calling weekly at Cyprus en route for Palestine and Syria on the outward voyage, and making calls weekly at Palestine and Cyprus on the homeward voyage. Steamers of the Messageries Maritimes call once every four weeks from France via Italy, Greece, Turkey and Syria en route for Rhodes, Turkey, Greece, Italy and France. Steamers of the Hellenic Coast Line Company of Piraeus call fortnightly from Greece direct en route for Syria and vice versa. Mails for Arabia, North-West India, Iraq and Persia are forwarded weekly to Jaffa for onward transmission by the Overland Mail Service Palestine-Iraq; and mails destined for countries served by the England-India or the Cairo-East and South Africa Air Mail Services are despatched weekly to Palestino and Egypt, respectively, by the ordinary route for onward transmission by air.
+
+The rates of postage are as follows:
+
+Within the Colony:
+Letters.
+Not exceeding 1 oz. . . . . . . . . 3 piastre.
+For every additional 1 oz. or fraction thereof . . . . . . . . ½ piastre.
+
+Printed Papers.
+For every 4 oz. or fraction thereof . . . . . . . . ½ piastre.
+For every additional 2 oz. or fraction thereof . . . . . . . . ½ piastre.
+For a single newspaper published locally and its supplement irrespective of weight . . . . . . . . ½ piastre.
+
+To the British Empire, Mandated Territories and Egypt.
+Letters.
+Not exceeding 1 oz. . . . . . . . . ½ piastres.
+For each additional 1 oz. . . . . 1 piastre.
+
+Printed Papers.
+For each 2 oz. . . . . . . . . ½ piastre.
+
+To other Countries:
+Letters.
+Not exceeding 1 oz. . . . . . . . . ½ piastres.
+For each additional 1 oz. . . . . ½ piastres.
+
+Printed Papers.
+For each 2 oz. . . . . . . . . ½ piastre.
+
+The Parcels Post is established between Cyprus and the United Kingdom and the principal Colonies and foreign countries, as well as within the Colony.
+
+Money Orders and British Postal Orders are also issued and paid in the Colony. "Cash on Delivery" parcels for delivery within the Colony are accepted and delivered at the principal post offices. A reciprocal service of "Cash on Delivery" of parcels has been established between Cyprus and the United Kingdom, Egypt and the Sudan.
+
+Education: (a) Elementary.
+
+A general system of grants in aid of elementary schools was established in 1882, and further regulated by various laws up to 1929, when Government assumed the chief responsibility for elementary education. In 1933 the Governor became the central authority for all matters connected with elementary education, including the appointment and discipline of teachers and control of books and curriculum. Teachers' salaries and gratuities on retirement are paid by the Government, but the provision and maintenance of schools is met from local rates, with assistance from Education Funds under Government control.
+
+There are separate schools for each religious community, i.e., Orthodox-Christian, about 81 per cent. of the population, Moslem, about 18 per cent, and smaller communities of Armenians, Maronites, Latin Catholics and Jews. For each community there is a Board of Education with advisory functions and has control over the amounts to be raised by local rates.
+
+Government elementary schools provide a six years' course from the age of 6. Education is free and voluntary. The following are the statistics of schools, teachers and pupils for the school year 1934-5:
+
+Orthodox-Christian.—Schools, 572 (boys 94, girls 97, mixed 370, infants 11); pupils 40,548 (boys 23,663, girls 16,885); teachers 1,004 (masters 621, mistresses 383).
+
+Moslem.—Schools, 263 (boys 43, girls 42, mixed 174, infants 4); pupils 8,339 (boys 4,988, girls 3,351); teachers 341 (masters 232, mistresses 109).
+
+Others.—Schools, 18 (boys 5, girls 2, mixed 11); pupils 1,247 (boys 442, girls 683); teachers 63 (masters 24, mistresses 39).
+
+The total expenditure on education (primary and secondary) for the year 1935 was £189,853, of which £128,279 was from Colonial Revenue.
+
+(b) Secondary.
+
+Under the Secondary Education Law, 1935, all Schools above the primary standard are required to be registered and open to inspection, and all teachers in them are licensed. There are about 50 such schools. Strict conditions, relating to management, finance, staff, curriculum and teaching conditions, are imposed on schools in receipt of grants from Government.
+
+Among the most important schools are: for Moslems—a boys' Lycee and girls' High School in Nicosia, administered by a Governing Body constituted under the Law, and supported by Government and Evcaf grants and by fees; for Orthodox-Christians—5 Gymnasiums (classical) for boys and 3 High Schools for girls in the towns, and a Commercial Lyceum at Larnaca, all managed by local committees appointed by Law; 5 high schools in the larger villages, managed by local elected committees; private commercial schools in Nicosia, Famagusta and Limassol, and a commercial school with private endowments at Lemythou; Latin (Catholic)—a boys' school in Nicosia and convents in Nicosia, Larnaca and Limassol; undenominational—the English School, Nicosia, administered by a Board of Management on behalf of the Governor and now being re-organised with a largely English staff; and the 2 American Academies (for boys and girls at Larnaca, for girls at Nicosia) managed by the Reformed Presbyterian Mission. The Armenian elementary schools have secondary classes attached to them. There are also a considerable number of small private schools, mainly for teaching English, in towns and villages. Many of the boys' schools admit girls also.
+
+The total enrolment in secondary schools is about 4,500.
+
+A Government training college for elementary schoolmasters is to be opened at Morphou in 1937.
+Elementary schoolmistresses receive their training in classes attached to the Orthodox-Christian and Moslem girls' high schools of Nicosia.
+
+British Occupation.
+
+On the 4th June, 1878, a Convention was signed at Constantinople between the representatives of Her Britannic Majesty and the Sultan of Turkey, by which England engaged to join the Sultan in defending his Asiatic possessions against Russia in certain contingencies, and the Sultan, "in order to enable England to make necessary provision for executing her engagements," consented "to assign the island of Cyprus, to be occupied and administered by England." On the 1st July an Annex to this Convention was signed at Constantinople, in explanation of the conditions of the occupation.
+
+On the 14th of August, 1878, a supplementary agreement was signed, giving to Her Britannic Majesty for the term of the occupation full powers for making laws and conventions for the government of the island in Her Majesty's name, and for the regulation of its commercial and consular relations and affairs, free from the Porte's control.
+
+The island was annexed to and became part of His Majesty's dominions by an Order in Council of the 5th of November, 1914.
+
+Government.
+
+Up to the 12th November, 1931, the Government was regulated by Letters Patent, bearing date 10th March, 1925, providing for the administration of the Colony by a Governor aided by an Executive and a Legislative Council. The Legislature consisted of the Governor, nine official Members and fifteen elected Members, three chosen by the Mohammedan and twelve by the non-Mohammedan voters. After the disturbances which occurred in the autumn of 1931 in various parts of the island those clauses of the Letters Patent, dated 10th March, 1925, which dealt with the constitution of the Legislative Council were revoked by Letters Patent dated the 12th November, 1931, power to legislate being vested in the Governor.
+
+The island, for administrative purposes, is divided into six districts namely — Nicosia, Larnaca, Limassol, Famagusta, Kyrenia, and Paphos. In each the Government is represented by a Commissioner.
+
+This division (which formed the basis of the original judicial system of the Colony under the Courts Order-in-Council of 1882, but was abandoned under the Order of 1927 in favour of three judicial divisions, each comprising two districts) was readopted by the new Courts Law, which came into operation on the 1st January, 1936. By this Law the Courts were reorganised in the light of the experience afforded by the working of the system in force under the Order of 1927, and the re-organisation may be described as a blend of that system with the system obtaining under the Order of 1882.
+
+The new Law provides for:
+
+(1) A Supreme Court, consisting of a Chief Justice and two or more Puisne Judges, with appellate jurisdiction, both civil and criminal, over the decisions of all other Courts, and original jurisdiction as a Colonial Court of Admiralty under the Imperial Act of 1890 and in matrimonial causes, with powers in such causes similar to those of the High Court in England, when hearing appeals the Court is constituted by three or two judges, as the Chief Justice may determine; but in criminal appeals leave to appeal is granted or refused absolutely by a single Judge. A single judge exercises the original jurisdiction of the Court. In civil matters where the amount or value in dispute is 300l. or over an appeal lies from the Supreme Court to His Majesty in Council. The Supreme Court may also in its discretion grant leave to appeal to His Majesty in Council from any other judgment which involves a question of great general or public importance.
+
+(2) Six Assize Courts, one for each district, with unlimited criminal jurisdiction and power to order compensation up to 300l. These Courts are constituted by a Judge of the Supreme Court sitting with a President of a District Court and a District Judge or with two District Judges. This bench of three is nominated by the Chief Justice whenever a sitting is to be held.
+
+(3) Six District Courts, one for each district, consisting of a President and such District Judges and Magistrates (previously called Assistant District Judges) as the Chief Justice may from time to time direct. There are at present three Presidents (each in charge of two district Courts, namely Nicosia and Kyrenia, Famagusta and Larnaca, and Limassol and Paphos, respectively), nine District Judges, and seven Magistrates. The District Courts exercise original civil and criminal jurisdiction, the extent of which depends upon the bench constituting the Court.
+
+(I) In Civil matters (other than those within the original jurisdiction of the Supreme Court) a President and one or two District Judges sitting together have unlimited jurisdiction; a President or a District Judge sitting alone has jurisdiction up to 200l., and a Magistrate up to 25l. (which the Governor may increase to 50l.). The jurisdiction of a member of the Court sitting alone to try an action on the merits is determined by the amount or value actually in dispute between the parties as disclosed at the settlement of issues or upon the pleadings. But any member of the Court can in any action, even though beyond his power to try, settle issues, or make an order not disposing of the action on the merits, or give judgment when the defendant fails to appear or admits the claim. A President has also power to hear appeals from decisions of Magistrates in actions where the amount in dispute does not exceed 25l. (or 50l. in case of a Magistrate whose jurisdiction as been increased to this amount).
+
+(II) In criminal matters the jurisdiction of a District Court is exercised by its members sitting singly, and is of a summary character. A President has power to try any offence punishable with imprisonment up to three years or with fine up to 100l. or with both, and may order compensation up to 100l.; a District Judge has power to try any offence punishable with imprisonment up to one year or with fine up to 100l. or with both, and may order compensation up to 50l.; and a Magistrate has power to try any offence punishable with imprisonment up to six months or with fine up to 25l. or both, and may order compensation up to 25l. Subject to these limits of punishment which the members of the Court cannot exceed, a President or a District Judge may also try any offence punishable with imprisonment up to five years if the Attorney-General and the person accused consent; A District Judge may (with, in prosecutions conducted by a Law Officer or a Police Officer, his consent) also try certain offences punishable with imprisonment up to three years; and a Magistrate may (with the like consent in such prosecutions) try a few offences punishable up to three years. In addition, every member of a District Court has power to hold a preliminary enquiry into
+an offence not summarily triable and commit the accused person for trial by an Assize Court.
+
+The jurisdiction above described may be exercised over Cypriots and non-Cypriots, but the Law expressly states that it does not confer any jurisdiction upon the Courts it establishes to hear any matrimonial cause where either party is a member of the Greek-Orthodox Church and the marriage was celebrated in accordance with its rites, or where either party is a member of the Musulman faith and the marriage was contracted in accordance with the Sheri Law, or to hear any other matter which, under the principles of the Ottoman Law previously in force in the Colony was cognizable by an ecclesiastical tribunal, or which is within the jurisdiction of a Musulman religious tribunal pursuant to any enactment in force for the time being.
+
+The reconstituted Courts are to apply the local Laws and certain Ottoman Legislation specified in the new Courts Law, the common Law, and the rules of equity in force in England on 5th November, 1914 (the date of the Colony's annexation) in the absence of provision in the local Laws, and any Statutes of the Imperial Parliament applicable to the colonies in general or to Cyprus in particular save in so far as they may be validly modified or other provision made by local Law. The family Law of the various religious communities which had received legal recognition under Turkish rule is expressly saved. They are also to apply the English Law and rules of evidence in force on the date of the annexation if there is no local provision in that respect. And their practice and procedure shall, in the absence of local provision, be that observed by the Courts in England.
+
+As above stated, the jurisdiction conferred by the 1927 Order in Council on the Musulman religious tribunals it created has been saved. There continue to be three such tribunals—one for Nicosia and Kyrenia, another for Famagusta and Larnaca, and the third for Limassol and Paphos—and their jurisdiction is, as before, over persons of the Musulman faith in matters of marriage, divorce, maintenance in relation thereto, inheritance and succession, wills and their registration, and the registration of vakfieha. But the Sheri tribunal of Appeal created by that Order has been abolished by an amending Law, which empowers the Supreme Court to hear appeals from those tribunals with, if it so wishes, the Fetva Emini (a Moslem religious dignitary) as assessor.
+
+The strength of the police force is 24 officers and 702 men, while the Prison Service consists of 3 officers and 80 men. Both services consist of mixed Christians and Moslems.
+
+### Finances
+
+The principal sources of revenue in Cyprus are:
+
+1. Immovable Property Tax.
+2. Animal Taxes.
+3. An excise on tobacco.
+4. Stamps, court fees, royalties, licences, &c., &c.
+5. Salt monopoly.
+6. Import duties.
+7. Shipping and Wharfage dues.
+
+All exemptions formerly enjoyed by foreigners have been abolished.
+
+Grants in aid have been received from the British Government annually since 1897. From 1911-12 the grant was fixed at £50,000 per year, and since 1928, it has been increased to the fixed rate of £92,800 per year. A contribution of £10,000 per year has from the latter date been made by the Colony towards the cost of Imperial Defence.
+
+### Shipping Entered and Cleared
+
+| Year | Revenue (£) | Expenditure (£) | Total Tonnage |
+|------|------------|----------------|---------------|
+| 1926 | 629,266    | 655,227        | 1,584,688     |
+| 1927 | 655,997    | 615,029        | 1,746,757     |
+| 1928 | 713,768    | 679,950        | 1,824,805     |
+| 1929 | 757,117    | 715,342        | 2,048,764     |
+| 1930 | 725,077    | 800,207        | 2,213,764     |
+| 1931 | 728,396    | 743,076        | 2,269,249     |
+| 1932 | 755,699    | 742,605        | 2,460,423     |
+| 1933 | 747,559    | 696,923        | 2,886,584     |
+| 1934 | 765,389    | 710,911        | 2,962,765     |
+| 1935 | 868,723    | 824,078        | 2,933,179     |
+
+(a) Includes extraordinary non-recurrent revenue and expenditure of £50,000.
+
+### Public Debt
+
+On 31st December, 1935, £615,000.
+
+Customs revenue in 1933—£311,291; 1934—£327,114; 1935—£359,657.
+
+### Principal Exports
+
+During the year ended 31st December, 1935.
+
+| Article                  | Quantity       | Value (£) |
+|--------------------------|---------------|----------|
+| Animals (various)        | 5,841 No.     | 50,728   |
+| Carobs                   | 28,699 tons   | 130,350  |
+| Cheese                   | 7,115 cwt.    | 24,664   |
+| Barley                   | 272,312 kils  | 25,349   |
+| Almonds                  | 8,138 cwt.    | 10,771   |
+| Lemons and oranges       | 31,401,106 No.| 50,587   |
+| Grapes                   | 23,338 cwt.   | 7,767    |
+| Pomegranites             | 51,570        | 6,265    |
+| Raisins                  | 36,318        | 17,222   |
+| Juices, grape or muscat | 111,190 gals. | 8,647    |
+| Tobacco, unmanufactured  | 3,719 cwt.    | 11,248   |
+| Onions and garlic        | 75,574        | 10,999   |
+| Potatoes                 | 234,247       | 67,651   |
+| Wines                    | 1,195,071 gals.| 50,875   |
+| Cotton, raw              | 8,291 cwt.    | 25,246   |
+| Hides and skins, raw     | 1,055         | 4,891    |
+| Asbestos                 | 7,513 tons    | 50,174   |
+| Terra-Umbra              | 6,126         | 16,613   |
+| Pyrites (dry)            | 205,125       | 194,782  |
+| Cupriciferous concentrates (dry) | 34,357 | 147,618 |
+| Gold Ores and Precipitates | 4,477 | 52,685 |
+| Gypsum (calcined)        | 6,010         | 3,105    |
+| Gypsum (raw)             | 8,606         | 1,614    |
+| Cumin seed               | 19,941 cwt.   | 32,084   |
+| Wool                     | 6,090         | 14,166   |
+
+### Imports
+
+| Year | From U.K. (£) | From Colonies (£) | From Elsewhere (£) | Total (£) |
+|------|---------------|-------------------|--------------------|-----------|
+| 1926 | 421,243       | 266,357           | 882,678            | 1,570,278 |
+| 1927 | 404,679       | 302,404           | 877,857            | 1,585,940 |
+| 1928 | 462,597       | 348,209           | 1,029,636          | 1,840,422 |
+| 1929 | 513,061       | 352,821           | 1,117,951          | 1,983,833 |
+| 1930 | 393,414       | 189,122           | 837,453            | 1,419,989 |
+| 1931 | 412,993       | 197,956           | 803,152            | 1,414,101 |
+| 1932 | 386,675       | 167,005           | 793,608            | 1,347,288 |
+| 1933 | 400,631       | 98,372            | 758,253            | 1,257,256 |
+| 1934 | 495,923       | 151,533           | 771,706            | 1,419,162 |
+| 1935 | 528,541       | 143,596           | 809,805            | 1,481,941 |
+
+These values are exclusive of specie.
+
+---
+
+Excluding Grants-in-Aid.
+
+Excluding Tribute Payments and share of Cyprus of the Turkish Debt Charge.
+
+The shipping figures are for calendar years.
+**EXPORTS**
+
+| Year | To U.K. | To Colonies | To Elsewhere | Total |
+|------|---------|-------------|--------------|-------|
+| 1926 | £97,966 | £58,948     | £946,657     | £1,103,571 |
+| 1927 | £278,367| £56,748     | £1,207,755   | £1,642,870 |
+| 1928 | £283,315| £34,860     | £1,117,602   | £1,435,767 |
+| 1929 | £306,885| £43,996     | £1,284,885   | £1,635,736 |
+| 1930 | £234,500| £66,003     | £927,225     | £1,217,728 |
+| 1931 | £224,692| £95,685     | £781,329     | £1,101,706 |
+| 1932 | £276,959| £95,349     | £560,118     | £922,426 |
+| 1933 | £227,577| £88,082     | £573,856     | £889,515 |
+| 1934 | £296,161| £93,957     | £687,309     | £1,107,927 |
+| 1935 | £287,987| £119,838    | £781,183     | £1,189,006 |
+
+These values are exclusive of specie.
+
+For fuller information on all the above subjects see the "Handbook of Cyprus," issued under the auspices of the Government (pubd. by Christopher's, London).
+
+**High Commissioners since 1892.**
+
+Sir W. J. Sendall, K.C.M.G., 5th April, 1892.
+Sir W. F. Haynes-Smith, K.C.M.G., 23rd April, 1898.
+Sir C. A. King-Harman, K.C.M.G., 17th October, 1904.
+Major Sir H. J. Goold-Adams, G.C.M.G., C.B., 12th October, 1911.
+Major Sir J. E. Clauson, K.C.M.G., C.V.O., R.E., 8th Jan., 1915.
+Sir Malcolm Stevenson, K.C.M.G., 31st July, 1920.
+
+**Governors.**
+
+Sir Malcolm Stevenson, K.C.M.G., 1st May, 1925.
+Colonel Sir Ronald Storrs, K.C.M.G., C.B.E., 30th November, 1926.
+Sir Edward Stubbs, G.C.M.G., 21st November, 1932.
+Sir Herbert Richmond Palmer, K.C.M.G., C.B.E., 9th December, 1933.
+
+**Executive Council.**
+
+Colonial Secretary, W. D. Battershill.
+Attorney General, L. I. N. Lloyd-Blood.
+Treasurer, W. H. Flinn, O.B.E.
+Commissioner, Nicosia, J. D. Montagu.
+Additional Members, Sir P. L. Kakoyannis, M. Munir, O.B.E.
+Clerk, G. M. Greenwood.
+
+**Civil Establishment.**
+
+Governor and Commander-in-Chief, 3,600l.,†
+Sir Herbert Richmond Palmer, K.C.M.G., C.B.E.
+Private Secretary, Captain H. Lloyd-Carson.
+Additional Private Secretary, J. M. Montgomery.
+
+The Clerical Staff is graded as follows:
+
+| Grade | Salary |
+|-------|--------|
+| 1st Grade | 300l.-350l. |
+| 2nd Grade | 230l.-270l. |
+| 3rd Grade | 180l.-220l. |
+| 4th Grade | 90l.-120l. |
+
+Student Grade 48l.-60l.
+
+**Colonial Secretary's Office.**
+
+Colonial Secretary, W. D. Battershill, 1,400l.
+Administrative Officers, A. B. Wright, C.B.E., M.C., 900l.-1,000l.; R. P. L. Browne, 360l.-840l.; R. J. Thorne-Thorne, G. M. Greenwood, 360l.-840l.
+Chief Clerk, C. J. Stephani, 350l.-450l. and 75l. as Legislation Clerk.
+Staff Clerk, F. W. Sadler, 350l.-450l.
+Turkish Translator, M. Midhat, 300l.-350l. and 75l. personal allowance.
+Greek Translator, A. C. Indianaos, 300l.-350l. and 75l. personal allowance.
+
+1 Clerk, First Grade.
+2 Clerks, Second Grade.
+2 Clerks, Third Grade.
+
+† Of which 600l. is Duty Allowance.
+
+**Government Printing Office.**
+
+Superintendent, F. S. Passingham, M.B.E., 400l. to 600l.
+Overseer, 230l. to 270l. and 30l. personal allowance.
+
+**District Administration.**
+
+B. J. Surridge, 360l.-840l. and 50l. duty allowance; R. C. S. Stanley, 360l.-840l. and 100l. duty allowance; L. S. Greening, M.C., 360l.-840l. and 100l. duty allowance; B. J. O'Brien, 360l.-840l.; R. St. J. O. Wayne, 360l.-840l. and 100l. duty allowance; O. G. Dennis, 360l.-840l.; J. D. Montagu, C.B.E. 360l.-840l. and 100l. duty allowance; T. S. Bell, 360l.-840l. and 50l. duty allowance.
+
+7 District Inspectors.
+1 Clerk, First Grade.
+6 Clerks, Second Grade.
+9 Clerks, Third Grade.
+
+**Co-operation.**
+
+Registrar of Co-operative and Co-operative Credit Societies, B. J. Surridge, 360l.-840l. and 50l. duty allowance.
+Assistant Registrar, S. Ioannides, 180l.-220l.
+2 Inspectors, First Grade, 180l.-220l.
+2 Inspectors, 2nd Grade, 150l.-174l.
+
+**Treasury.**
+
+Treasurer, W. H. Flinn, O.B.E., 1,000l.
+Deputy Treasurer, H. C. Ley, 600l.-750l.
+Chief Accountant, P. Parker, 400l.-600l.
+Chief Clerk, A. M. H. Kevorkian, 350l.-450l.
+Assistant Accountant, 1st Grade, C. J. Thomas, 350l.-460l.
+1 Assistant Accountant, 2nd Grade: 230l.-270l.
+2 Clerks, 2nd Grade, 230l.-270l.
+4 Clerks, 3rd Grade, 180l.-220l.
+
+**Customs Department.**
+
+Comptroller of Customs and Inland Revenue, G. F. Wilson, 750l.-850l., 950l. personal to present holder.
+Deputy Comptroller of Customs and Inland Revenue, W. H. Mackay, 560l.-700l.
+3 Collectors of Customs and Inland Revenue, C. G. Darrell, Th. P. Michaelides, 360l.-450l. and 12l. duty allowance; D. G. Carmichael, 350l.-450l. and an allowance of 24l. per mensem in lieu of pilotage fees.
+Harbour Master, A. B. Cavaghan, 300l.-350l. and an allowance of 18l. per mensem in respect of pilotage duties for such period as he is called upon to perform them.
+2 Assistant Collectors, G. K. Miteinkas, P. N. Rossides, 300l.-350l.
+Port Officer, 230l.-270l.
+Accountant, 230l.-270l.
+7 Customs and Revenue Officers, 1st Grade, 1 at 240l.-300l. and 6 at 230l.-270l.
+Chief Revenue Officer, 230l.-270l.
+
+**Land Registration and Survey Department.**
+
+Director of Land Registration and Surveys, R. A. Godwin-Austen, F.R.G.S., 850l.-1,000l.
+Assistant Director of Land Registration and Surveys, A. Papapetrou, M.B.E., 400l.-600l.
+
+**Survey Staff.**
+
+Superintendent of Surveys, C. Mace, 400l.-600l.
+Assistant Superintendent of Surveys, 230l.-270l., 300l. personal to present holder.
+2 Surveyors, 180l.-220l., 250l. personal to present holders.
+
+**Registration Staff.**
+
+Land Registry Clerks:
+3 First Grade.
+4 Second Grade.
+30 Third Grade.
+Mines Branch.
+
+Inspector of Mines and Labour, 300l.
+1 Second Grade Clerk, General Clerical Staff.
+
+Audit Department.
+
+Auditor, E. M. Tibbitt, 850l. and 50l. from Evkaf Department.
+Local Assistant Auditor, A. N. Branco, 350l.-450l. and 100l. personal allowance.
+3 Examiners of Accounts, P. E. Prince, M. Shefik, Ch. Koupoupides, 300l.
+1 Clerk, Second Grade.
+2 Clerks, Third Grade.
+
+Judicial Department.
+
+Supreme Court:
+Chief Justice, Sir Herbert C. Stronge, Kt., 1,500l.
+2 Puente Judges, A. M. Thomas; M. Fuad, 1,000l.
+Chief Registrar and Interpreter, V. R. Baimanian, 360l.-450l. and 150l. remuneration as Official Receiver in Bankruptcy.
+1 Assistant Registrar and Interpreter, 230l.-270l.
+1 Clerk, Third Grade, 180l.-220l.
+
+District Courts:
+3 Presidents of District Courts, C. E. L. Cox, M.C. Greencoe, C. T. Abbott, 750l., Mr. Cox has also a personal duty allowance of 100l.
+9 District Judges, M. Halid, M. Houloussi, M. Izzet, S. Stavrinides, M. R. Jussein, S. P. Mavromatis, E. Themistos, M. Dervish, M. C. Melissas, 500l., Mr. M. Halid has also a personal allowance of 100l.
+7 Assistant District Judges, S. G. Tinghiris, E. A. Jacovides, P. A. Anastassiades, G. Soteriades, M. Hifzi, J. G. Himonides, M. Fehmi, 300l.-350l.
+Mr. Tinghiris has also a personal allowance of 50l.
+3 Registrars and Interpreters, V. P. Mavromatis, N. Stylianakis, 300l.-360l. Both have also an allowance of 50l. each as Deputy Sheriffs. M. T. Hussein, 320l.
+5 Assistant Registrars and Interpreters, 180l.-220l.
+7 Clerks, Third Grade, 180l.-220l.
+
+Police Department.
+
+*Chief Commandant of Police and Inspector of Prisons, W. C. C. King, (800l.-900l.), 900l. and 6l. horse allowance.
+Deputy Chief Commandant of Police, J. H. Ashmore, 560l.-700l.
+*Local Commandants of Police:
+4 1st Grade, Major L. A. S. Northcote, E. B. Humfrey, A. M. Bell, R. C. Ross-Chunis, 400l.-600l. and 6l. horse allowance.
+3 2nd Grade, I. M. Tilliro, M.B.E., M. Ch. Kareklas, M.B.E., C. Shellish, M.B.E. (350l.-450l.), 500l. personal, and 6l. horse allowance.
+Bannmuster, E. W. Thomas Cox (300l.-350l.), and 50l. duty allowance.
+
+Inspectors of Police:
+2 First Grade, A. Faiz (300l.-350l.) 370l. personal; Mustafa Shevik Ahmet (300l. by 10l.-350l.)
+5 Second Grade, Y. Daniel, S. Pavlou, A. Izzet Hassan (230l.-270l.), 300l. personal; A. Jemal, 230l.-270l., H. Said Mulla Hussein.
+5 Sub-Inspectors (150l.-174l.).
+1 Clerk, 2nd Grade.
+3 Clerks, 3rd Grade.
+
+Prison Department.
+
+Inspector of Prisons, W. C. C. King, (paid as Chief Commandant of Police.)
+Resident Superintendent, Central Prison, H. L. D. Gee, 350l.-450l., and free quarters.
+
+* Receive forage allowance at rates determined at various intervals by the Government.
+
+Chief Warden, W. C. Hynam, 300l., and free quarters.
+Assistant Chief Warden, 120l.-180l. and 18l. allowance in lieu of quarters.
+3 Clerks, Third Grade.
+
+Medical Department.
+
+Director of Medical Services, E. A. Neff, 1,000l.
+1 Clerk, First Grade.
+1 Clerk, Second Grade.
+1 Health Officer, C. S. Markides, 300l.-350l.
+1 Chief Sanitary Inspector, M. Aziz, M.B.E., 300l.-350l.
+6 District Sanitary Inspectors, 150l.-174l.
+1 Specialist (Surgeon), C. H. Cuff, O.B.E. (600l.-750l.), 1,000l. (personal).
+6 District Medical Officers, G. M. Gibbon, W. J. E. Phillips, M.C., D. C. Ogilvie, M.O., C. E. Bevan H. B. A. Macfie, M.B., Ch.B., R. A. Porter, M.B., B.Ch. (First two appointments 400l.-600l.) 500l.-700l.
+
+Medical Officers:
+3 Medical Officers, First Grade, 350l.-450l.
+18 Medical Officers, Second Grade, 250l.-350l.
+3 Compounders, First Grade.
+4 Matrons, Miss A. Barclay, Miss C. A. Wyeth, Mrs. H. Hunter, Miss F. M. E. Pepper, 160l.-174l.
+7 Nursing Sisters, Miss J. Rudge, Miss M. Nicholls, Miss L. Seymour, Miss M. H. Sizer, Miss M. M. Milnes, Miss T. M. Price (1 vacant), 120l.-150l.
+Analyst (vacant), 400l.-600l.
+Pathologist, J. C. Tull, 400l.-600l.
+Assistant to Analyst, 180l.-220l.
+
+Medical Superintendent Mental Hospital, S. Lyssandrides, 300l.
+5 Honorary Dentists, J. Marcellos, 180l., V. Diamantidis, 50l., Y. Michaelides, 50l., N. Savastios, 50l., Miss S. M. Georghiadou, 50l.
+3 Honorary Oculists, Ch. Kalavras, Ch. Tairos, Ch. Makridis, 50l.
+3 District Surgeons, N. Argyrides, G. K. Avraamides, Procopis Haji Eftychiou, 50l.
+Honorary Consulting Physician, Nicosia General Hospital, M. Courass, 200l.
+Honorary Consulting Surgeon, Limassol Hospital, A. Gavrielides, 200l.
+Honorary Laryngologist, Nicosia General Hospital, K. Pantazis, 50l.
+Honorary Physician, Sanatorium, T. K. Evangelides, 50l.
+2 Radiologists, E. Dikeos, H. Rassim, 50l.
+
+School Medical Officer, 180l.
+
+Education Department.
+
+Director of Education, J. R. Cullen, M.A., 1,000l.
+Assistant Director of Education, R. N. Henry, M.A., 560l.-700l.
+Headmaster, Govt. Secondary School, Nicosia, G. Sims, 400l.-600l.
+Senior Assistant Master in the Government Secondary School, R. R. Campbell, 350l.-380l.
+Assistant Masters in the Government Secondary School, A. Morton, 250l.-280l., H. H. Richards, 250l.-280l.
+Inspector of Secondary Schools, E. Harvey, 400l.-440l.
+Inspector of Moslem Schools (230l.-270l.), 300l. personal.
+Inspector of Orthodox-Christian Schools, 230l.-270l.
+1 Assistant Inspector of Moslem Schools, 180l.-220l.
+2 Assistant Inspectors of Orthodox-Christian Schools, 180l.-220l.
+
+Postal Department.
+
+Postmaster-General, A. J. Shellish, 600l.-750l.
+Assistant Postmaster-General, T. Cababé, 400l., 600l.
+2 Clerks, Second Grade (230l.-270l.).
+11 Clerks, Third Grade (180l.-220l.), three at 240l. personal.
+
+Agricultural Department.
+Director of Agriculture, D. L. Blunt, 1,000l.
+Assistant Director of Agriculture, A. Pitcairn, 600l.-760l.
+Chief Grader and Inspector of Produce, F. B. L. Butler, 400l.-600l.
+Accountant, A. M. Pietroni, 300l.
+Mechanic, 150l.-174l.
+1 Clerk, Third Grade, on personal scale 160l.-240l.
+2 Clerks, Third Grade, 180l.-220l.
+Superintendent of Agriculture, B. J. Weston, M.Sc. (Agric.), S. Africa, H. M. James, 400l.-600l.
+3 Assistant Agricultural Superintendents, Che. Pelaghasia, A. Klokkaris, Osman Nouri, 300l.-350l., 360l. personal to Che. Pelaghasia and A. Klokkaris.
+5 Agricultural Officers, 150l.-270l.
+Viticulturist and Wine Expert, P. Antoniadis, 300l.-350l., 360l. personal.
+Entomologist, H. M. Morris, M.Sc., F.E.S., 600l.-750l.
+Plant Pathologist, R. M. Nattrass, B.Sc., Ph.D., D.I.D., 600l.-760l.
+Laboratory Assistant, First Grade, 150l.-174l.
+Chief Veterinary Officer, R. J. Roe, M.R.C.V.S., D.V.S.M., 600l.-750l., free quarters and private practice.
+Veterinary Officer, R. M. Gambles, M.R.C.V.S., 400l.-600l.
+Veterinary Inspector, 230l.-270l.
+2 Senior Stock Inspectors, 150l.-270l.
+Manager Stock Farm, J. P. Maule, Diploma in Agriculture (Cantab.), A.I.C.T.A. (Trinidad), 400l.-750l.
+
+Irrigation Department.
+Officer in Charge, The Director of Agriculture.
+1 Irrigation Superintendent, A. W. Douglas, 300l.-350l.
+
+Forest Department.
+Conservator of Forests (vacant), 750l.-850l.
+6 Assistant Conservators of Forests, First Grade, B. J. Reilly, Forestry and Col. Dip.; F. S. Dansks, B.Sc., Dip. Agr.; R. R. Waterer, M.A. (Cantab.), Forestry Dip.; G. W. Chapman, B.A. (Cantab.), Forestry Dip.; M. E. Dommen, B.A. (Oxon.). One vacancy, 400l.-600l. and 24l. forage allowance.
+2 Assistant Conservators of Forests, Second Grade, I. Sidki, B.Sc. (Forestry), Th. A. Couppis, B.A. (Oxon.), 300l.-350l. and 24l. forage allowance.
+Surveyor, P. A. C. Douglas, 300l.-350l.
+4 Forest Rangers —
+2 First Grade (180l.-220l.) one at 270l. personal.
+2 Second Grade (150l.-174l.).
+1 Clerk, Second Grade.
+
+Railway Department.
+General.
+Superintendent, J. W. Bulman, A.M.I.L.E., 600l.-750l.
+Accountant, R. N. Limonidas, 300l.-360l. and 50l. duty allowance.
+Assistant Accountant, 230l.-270l.
+Cashier, 230l.-270l.
+Storekeeper, 160l.-174l.
+
+Ways and Works.
+Inspector of Ways and Works, 180l.-220l.
+
+Locomotive.
+Locomotive Clerk, 180l.-270l.
+Head Boilermaker (180l.-220l.) 240l. personal and 25l. personal allowance.
+Head Fitter (180l.-220l.) 240l. personal.
+
+Traffic.
+Traffic Assistant, 230l.-270l.
+Station Superintendent and Inspector, 230l.-270l.
+Railway Wharf Superintendent, 150l.-174l. and 18l. house allowance.
+
+Public Works Department.
+Director of Public Works, A. A. P. D. Stone, O.B.E., M.I.C.E., F.S.I., 750l.-850l., 1,000l. personal.
+Assistant Director of Public Works (vacant), 600l. by 25l. to 750l. by 25l. to 850l.
+Road Engineer (vacant), 600l. by 25l. to 850l.
+3 Engineers, C. Watkins, J. J. Holland, B.Sc., B.E., A.M.I.C.E., M.I.M. & Cy. E.; P. M. Cran, O.B.E. (Mil.), B.Sc., M.Inst.C.E., 400l.-600l. with efficiency bar 600l. then 625l. by 25l. to 750l.
+2 Assistant Engineers, A. McLaughlan, A.M.I.C.E., P.A.S.I. and L. F. Weldon, A.M.I.C.E., 350l.-450l. with efficiency bar 450l., then 470l. by 20l. to 600l.
+Superintendent Royal Engineer Works, P. Ch. Phylactou, 300l.-350l.
+4 Chief Foremen (1 vacant) (230l.-270l.) 1 at 325l. personal.
+2 Assistant Chief Foremen (180l.-220l.).
+Draughtsman and Recordkeeper, 150l.-174l.
+Electrical and Mechanical Engineer, Thomas Ramsay, M.I.Mech.E., 600l. by 25l. to 750l.
+Mechanical Foreman, H. T. Castell, 300l. by 10l. to 350l.
+Assistant Mechanical Foreman, 180l.-220l.
+2 Inspectors of Water Supplies 230l.-270l., 1 at 300l. personal.
+Accountant, J. A. Ellis, 400l.-600l.
+2 Pay Officers, 230l.-270l., 1 at 290l. personal.
+Assistant Pay Officer, 180l.-220l.
+Storekeeper, 150l.-174l., 220l. personal.
+3 Clerks, Third Grade.
+
+Antiquities Department.
+Director of Antiquities, A. H. S. Megaw, 600l.-750l.
+Curator of Museum, P. Dikaios, 300l.-350l.
+Assistant Curator of Museum, Miss Joan du Plat Taylor, 200l.
+Foreman of Works, J. E. Bowler, 350l.
+1 Clerk, Second Grade.
+2 Honorary Curators of District Museums, Leizos Philippou, Dr. N. G. Kyriazis.
+
+Ecclesiastical.
+Greek Orthodox Church (vacant), Archbishop of Cyprus.
+Church of England, The Rev. T. S. B. F. de Chaumont.
+Armenian Church, The Most Reverend Bedros Saradjian, Archbishop of the Armenians in Cyprus.
+Latin Church (vacant) (Vicar-General, Larnaca).
+Maronite Church, The Rev. J. Triantafyllides (Suffragan Bishop and Vicar-General) (acting).
+
+Evcaf Department.
+Turkish Delegate of Evcaf and Director, M. Munir, O.B.E., 860l.
+British Delegate of Evcaf, R. A. Godwin-Austen, 60l.
+Fetva Emiri, H. Hakki, 200l.
+3 Sheri Judges, 270l.
+
+Foreign Consuls.
+Austria, D. Z. Pierides, Larnaca.
+Belgium, P. Lanitis, Limassol.
+Bulgaria, H. S. Nicolaides (Honorary), Nicosia.
+Czechoslovakia, R. Troester, Larnaca.
+Denmark, D. N. Demetriou, O.B.E. (Honorary), Larnaca.
+Finland, Cl. C. Lyssiotis (Honorary Vice-Consul), Larnaca.
+France, J. Lapierre (Consular Agent), Larnaca. F. Murat (Consular Agent), Famagusta. M. T. Peristiani (Consular Agent), Limassol.

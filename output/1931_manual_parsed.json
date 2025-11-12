@@ -1,0 +1,480 @@
+{
+  "year": 1931,
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1931/olmocr_results.md",
+  "total_colonies": 52,
+  "colonies": [
+    {
+      "colony_name": "AUSTRALIA",
+      "year": 1931,
+      "start_line": 6121,
+      "end_line": 6741,
+      "char_count": 59176,
+      "line_count": 620,
+      "filename": "AUSTRALIA.md"
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "year": 1931,
+      "start_line": 6741,
+      "end_line": 6754,
+      "char_count": 318,
+      "line_count": 13,
+      "filename": "QUEENSLAND.md"
+    },
+    {
+      "colony_name": "SOUTH AUSTRALIA",
+      "year": 1931,
+      "start_line": 6754,
+      "end_line": 6764,
+      "char_count": 205,
+      "line_count": 10,
+      "filename": "SOUTH_AUSTRALIA.md"
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "year": 1931,
+      "start_line": 6764,
+      "end_line": 6772,
+      "char_count": 153,
+      "line_count": 8,
+      "filename": "WESTERN_AUSTRALIA.md"
+    },
+    {
+      "colony_name": "TASMANIA",
+      "year": 1931,
+      "start_line": 6772,
+      "end_line": 7105,
+      "char_count": 9641,
+      "line_count": 333,
+      "filename": "TASMANIA.md"
+    },
+    {
+      "colony_name": "NEW SOUTH WALES",
+      "year": 1931,
+      "start_line": 7105,
+      "end_line": 11317,
+      "char_count": 271516,
+      "line_count": 4212,
+      "filename": "NEW_SOUTH_WALES.md"
+    },
+    {
+      "colony_name": "VICTORIA",
+      "year": 1931,
+      "start_line": 11317,
+      "end_line": 14047,
+      "char_count": 241393,
+      "line_count": 2730,
+      "filename": "VICTORIA.md"
+    },
+    {
+      "colony_name": "DOMINION OF CANADA",
+      "year": 1931,
+      "start_line": 14047,
+      "end_line": 16590,
+      "char_count": 138938,
+      "line_count": 2543,
+      "filename": "DOMINION_OF_CANADA.md"
+    },
+    {
+      "colony_name": "BRITISH COLUMBIA",
+      "year": 1931,
+      "start_line": 16590,
+      "end_line": 17792,
+      "char_count": 58692,
+      "line_count": 1202,
+      "filename": "BRITISH_COLUMBIA.md"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "year": 1931,
+      "start_line": 17792,
+      "end_line": 18264,
+      "char_count": 36331,
+      "line_count": 472,
+      "filename": "NEWFOUNDLAND.md"
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "year": 1931,
+      "start_line": 18264,
+      "end_line": 22678,
+      "char_count": 394309,
+      "line_count": 4414,
+      "filename": "NEW_ZEALAND.md"
+    },
+    {
+      "colony_name": "SOUTH WEST AFRICA",
+      "year": 1931,
+      "start_line": 22678,
+      "end_line": 23097,
+      "char_count": 42355,
+      "line_count": 419,
+      "filename": "SOUTH_WEST_AFRICA.md"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "year": 1931,
+      "start_line": 23097,
+      "end_line": 23518,
+      "char_count": 31890,
+      "line_count": 421,
+      "filename": "BASUTOLAND.md"
+    },
+    {
+      "colony_name": "SWAZILAND",
+      "year": 1931,
+      "start_line": 23518,
+      "end_line": 23734,
+      "char_count": 21104,
+      "line_count": 216,
+      "filename": "SWAZILAND.md"
+    },
+    {
+      "colony_name": "SOUTHERN RHODESIA",
+      "year": 1931,
+      "start_line": 23734,
+      "end_line": 25065,
+      "char_count": 118256,
+      "line_count": 1331,
+      "filename": "SOUTHERN_RHODESIA.md"
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "year": 1931,
+      "start_line": 25065,
+      "end_line": 25883,
+      "char_count": 54886,
+      "line_count": 818,
+      "filename": "BAHAMAS.md"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 1931,
+      "start_line": 25883,
+      "end_line": 26088,
+      "char_count": 6345,
+      "line_count": 205,
+      "filename": "BARBADOS.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1931,
+      "start_line": 26088,
+      "end_line": 26540,
+      "char_count": 26190,
+      "line_count": 452,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1931,
+      "start_line": 26540,
+      "end_line": 27353,
+      "char_count": 59438,
+      "line_count": 813,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1931,
+      "start_line": 27353,
+      "end_line": 27994,
+      "char_count": 32999,
+      "line_count": 641,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "CEYLON",
+      "year": 1931,
+      "start_line": 27994,
+      "end_line": 30020,
+      "char_count": 138320,
+      "line_count": 2026,
+      "filename": "CEYLON.md"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "year": 1931,
+      "start_line": 30020,
+      "end_line": 30388,
+      "char_count": 21264,
+      "line_count": 368,
+      "filename": "FALKLAND_ISLANDS.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1931,
+      "start_line": 30388,
+      "end_line": 31216,
+      "char_count": 52364,
+      "line_count": 828,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 1931,
+      "start_line": 31216,
+      "end_line": 31635,
+      "char_count": 28665,
+      "line_count": 419,
+      "filename": "THE_GAMBIA.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1931,
+      "start_line": 31635,
+      "end_line": 33198,
+      "char_count": 129677,
+      "line_count": 1563,
+      "filename": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 1931,
+      "start_line": 33198,
+      "end_line": 34114,
+      "char_count": 48427,
+      "line_count": 916,
+      "filename": "HONG_KONG.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1931,
+      "start_line": 34114,
+      "end_line": 35042,
+      "char_count": 62476,
+      "line_count": 928,
+      "filename": "JAMAICA.md"
+    },
+    {
+      "colony_name": "CAYMAN ISLANDS",
+      "year": 1931,
+      "start_line": 35042,
+      "end_line": 35083,
+      "char_count": 3485,
+      "line_count": 41,
+      "filename": "CAYMAN_ISLANDS.md"
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "year": 1931,
+      "start_line": 35083,
+      "end_line": 35939,
+      "char_count": 67563,
+      "line_count": 856,
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md"
+    },
+    {
+      "colony_name": "KENYA",
+      "year": 1931,
+      "start_line": 35939,
+      "end_line": 36581,
+      "char_count": 46395,
+      "line_count": 642,
+      "filename": "KENYA.md"
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "year": 1931,
+      "start_line": 36581,
+      "end_line": 37595,
+      "char_count": 44852,
+      "line_count": 1014,
+      "filename": "ANTIGUA.md"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1931,
+      "start_line": 37595,
+      "end_line": 38101,
+      "char_count": 31288,
+      "line_count": 506,
+      "filename": "DOMINICA.md"
+    },
+    {
+      "colony_name": "MALTA",
+      "year": 1931,
+      "start_line": 38101,
+      "end_line": 38845,
+      "char_count": 43873,
+      "line_count": 744,
+      "filename": "MALTA.md"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 1931,
+      "start_line": 38845,
+      "end_line": 39585,
+      "char_count": 50433,
+      "line_count": 740,
+      "filename": "MAURITIUS.md"
+    },
+    {
+      "colony_name": "NIGERIA",
+      "year": 1931,
+      "start_line": 39585,
+      "end_line": 40846,
+      "char_count": 120108,
+      "line_count": 1261,
+      "filename": "NIGERIA.md"
+    },
+    {
+      "colony_name": "NORTHERN RHODESIA",
+      "year": 1931,
+      "start_line": 40846,
+      "end_line": 41940,
+      "char_count": 78724,
+      "line_count": 1094,
+      "filename": "NORTHERN_RHODESIA.md"
+    },
+    {
+      "colony_name": "PALESTINE",
+      "year": 1931,
+      "start_line": 41940,
+      "end_line": 42558,
+      "char_count": 48618,
+      "line_count": 618,
+      "filename": "PALESTINE.md"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 1931,
+      "start_line": 42558,
+      "end_line": 42754,
+      "char_count": 11484,
+      "line_count": 196,
+      "filename": "ST._HELENA.md"
+    },
+    {
+      "colony_name": "ASCENSION",
+      "year": 1931,
+      "start_line": 42754,
+      "end_line": 42769,
+      "char_count": 1120,
+      "line_count": 15,
+      "filename": "ASCENSION.md"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 1931,
+      "start_line": 42769,
+      "end_line": 43017,
+      "char_count": 15499,
+      "line_count": 248,
+      "filename": "SEYCHELLES.md"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1931,
+      "start_line": 43017,
+      "end_line": 43921,
+      "char_count": 50264,
+      "line_count": 904,
+      "filename": "SIERRA_LEONE.md"
+    },
+    {
+      "colony_name": "STRAITS SETTLEMENTS",
+      "year": 1931,
+      "start_line": 43921,
+      "end_line": 44944,
+      "char_count": 69306,
+      "line_count": 1023,
+      "filename": "STRAITS_SETTLEMENTS.md"
+    },
+    {
+      "colony_name": "LABUAN",
+      "year": 1931,
+      "start_line": 44944,
+      "end_line": 48351,
+      "char_count": 225274,
+      "line_count": 3407,
+      "filename": "LABUAN.md"
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "year": 1931,
+      "start_line": 48351,
+      "end_line": 48551,
+      "char_count": 25084,
+      "line_count": 200,
+      "filename": "TRINIDAD.md"
+    },
+    {
+      "colony_name": "TOBAGO",
+      "year": 1931,
+      "start_line": 48551,
+      "end_line": 49405,
+      "char_count": 39213,
+      "line_count": 854,
+      "filename": "TOBAGO.md"
+    },
+    {
+      "colony_name": "UGANDA",
+      "year": 1931,
+      "start_line": 49405,
+      "end_line": 50677,
+      "char_count": 100162,
+      "line_count": 1272,
+      "filename": "UGANDA.md"
+    },
+    {
+      "colony_name": "GRENADA",
+      "year": 1931,
+      "start_line": 50677,
+      "end_line": 50919,
+      "char_count": 17529,
+      "line_count": 242,
+      "filename": "GRENADA.md"
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 1931,
+      "start_line": 50919,
+      "end_line": 51415,
+      "char_count": 37120,
+      "line_count": 496,
+      "filename": "ST._LUCIA.md"
+    },
+    {
+      "colony_name": "ZANZIBAR",
+      "year": 1931,
+      "start_line": 51415,
+      "end_line": 51705,
+      "char_count": 25438,
+      "line_count": 290,
+      "filename": "ZANZIBAR.md"
+    },
+    {
+      "colony_name": "IRAQ",
+      "year": 1931,
+      "start_line": 51705,
+      "end_line": 51900,
+      "char_count": 20028,
+      "line_count": 195,
+      "filename": "IRAQ.md"
+    },
+    {
+      "colony_name": "NORTH BORNEO",
+      "year": 1931,
+      "start_line": 51900,
+      "end_line": 52512,
+      "char_count": 44273,
+      "line_count": 612,
+      "filename": "NORTH_BORNEO.md"
+    },
+    {
+      "colony_name": "ADEN",
+      "year": 1931,
+      "start_line": 52512,
+      "end_line": 72646,
+      "char_count": 2177579,
+      "line_count": 20134,
+      "filename": "ADEN.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Batch parser for 1931-1937 (Great Depression and Pre-WWII era)",
+    "date": "2025-11-12",
+    "method": "Pattern-based colony detection with aggressive subsection filtering"
+  }
+}

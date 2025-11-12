@@ -1,0 +1,441 @@
+THE GAMBIA.
+
+Situation and Area.
+
+The Gambia is a great river of Western Africa, falling into the Atlantic Ocean by a large estuary measuring in some parts nearly 27 miles across, but narrowing to 10 miles between Bird Island bank and Cape St. Mary, and to little more than two between Barra Point and the town of Bathurst on St. Mary's Island. There are 26 feet of water at the entrance of the river at low tide, and ocean-going steamers drawing not more than 13 feet can at present proceed without trouble to MacCarthy Island. There is no bar to the Gambia River.
+
+The seat of Government is Bathurst, 13° 27' N. lat., 16° 34' W. long., situated on St. Mary's Island, a sandbank about three and a half miles long and a mile and a quarter broad, separated from the mainland by a narrow channel called Oyster Creek. A large portion of the island is a swamp, the level of which is in many parts below that of the river.
+
+The Colony consists of the Island of St. Mary, British Kombo, Albreda, the Cedet Mile, the territories of Brefet and Bajana, and MacCarthy Island, situated between the Falls of Barraconda and Bathurst, and 158 miles distant from the latter. MacCarthy Island forms the line of demarcation between those portions of the river known as the Upper and Lower River. The total area of the Colony is about 69 square miles (equal to Jersey and Guernsey).
+
+The Protectorate extends on both banks of the river for 250 miles from its mouth. By Ordinance No. 7 of 1902 (repealed and replaced by Ordinance No. 30 of 1913) all parts of the Colony, except the Island of St. Mary, were placed under the Protectorate system of administration. The Island of St. Mary has an area of about 2,500 acres, the greater part of which is swampy, and a population of 14,370. The territory administered as Protectorate is 4,069 sq. miles, and has a population of 186,150 (1931 Census). A survey of the boundaries dividing the Gambia from Senegal was completed by the Anglo-French Boundary Commission in 1906.
+
+History.
+
+The Gambia was discovered by the early Portuguese navigators, but they made no settlement.
+
+In 1588 a patent was granted by Queen Elizabeth to some merchants in London and Exeter to trade with the Gambia. This Company did not prosper. Its voyages were not slave trading ventures but were made for legitimate commerce. In 1618 King James I. of England granted a charter to Sir Robert Rich and other London merchants. Their enterprise was entitled "The Company of Adventurers of London trading in Africa," and Fort James was built by them on a small island 17 miles above the island of Banjola (now St. Mary's).
+
+About the year 1631 another British chartered company was formed, King Charles I. having granted a charter to Sir B. Young, Sir R. Digby and others. This venture was responsible for supplying British settlements in the West Indies with slaves for working on the estates.
+
+In 1662 King Charles II. granted a charter to a third company, known as the "Royal Adventurers of England trading in Africa." A few...
+years later this company exhausted its capital and surrendered its charter. In 1672 a fourth company was incorporated under the name of the "Royal African Company," and it was not until 1752, after having in its early days reached the highest point of commercial prosperity which had been touched by England in Africa, that it was superseded by the "Company of Merchants." The right of trade was abandoned to England by France under the treaty of Versailles, 1783, which guaranteed to the English their possession of Fort James and of the River Gambia, with the exception of a French factory established at Albreda on the north bank of the river. The same treaty gave the Senegal river to the French, with the exception of an exclusive right to trade with the Arabs at Portendic for gum, which was retained by England. The year 1807 saw the abolition of the slave trade, and though the "Company of Merchants" lingered on with an annual subsidy, the general commerce between Great Britain and Gambia fell off till 1816, in which year a new settlement was formed on the island of Banjola by the English merchants, who resided at Gorée and in Senegal until those places were given up to the French by the Treaty of Paris (1814). The island was re-named "St. Mary's," and the town which was laid out took its name from Lord Bathurst, Secretary of State at that time. The streets to be inhabited first were named after Lord Wellington and his generals at Waterloo.
+
+The settlement was subject to the Government of Sierra Leone, and was annexed to it by Act of Parliament in 1821. From 1816 to 1822 a Military Commandant, aided by a Board of Merchants, called the "Settlement court," administered the government. From 1822 to 1829 the Commandant governed alone.
+
+In December, 1829, the Secretary of State appointed Lieut.-Colonel Alex. Findlay, R.A.C. Corps, as Lieutenant-Governor (the first) "of the settlement of Bathurst and its dependencies in the Gambia." The laws of Sierra Leone remained in force, but the Lieutenant-Governor was not accountable to the officer administering the government there.
+
+The Gambia, in the year 1843, was created an independent Colony, with a Governor and Executive and Legislative Councils for the administration of its affairs. Captain H. P. Seagram, R.N., was the first Governor of the Colony.
+
+By the charter of 19th February, 1866, it became a portion of the Government of the West African Settlements, and continued to be so under the charter of the 19th December, 1874, until it was made a separate Government in 1888.
+
+MacCarthy Island was purchased in 1823, and named after Maj.-General Sir Charles MacCarthy, K.C.B., Governor-in-Chief of the British West African possessions; the ceded mile was granted by the King of Barra in 1826; and British Kombo was granted by the King of Kombo in various sessions in 1840, 1850, and 1855.
+
+In 1897 the countries of Foni and Jarra, on the south bank of the river, came under British protection.
+
+Foreign Kombo was annexed by the British Government and is now divided into North, South and Central Kombo.
+
+The Protectorate system of administration has been established since 1894, and extended from time to time by agreement with the different chiefs concerned, until Ordinance No. 7 of 1902 was passed, providing fully for the Government of the whole Protectorate, which is divided into four Provinces and again into Districts. There is a Commissioner in charge of each Province, and each District is under a Head Chief, with a native tribunal specially appointed by the Governor.
+
+The Provinces are as follows:—North Bank Province, with the districts of Lower Niumi, Upper Niumi, Jokadu, Lower Baddibu, Central Baddibu and Upper Baddibu. MacCarthy Island Province, with the districts of Sami, Niani, Nianija, Upper Saloum, Lower Saloum, MacCarthy Island, Fulladu West, Eastern Niamina, Western Niamina and Niamina Dankunku. Upper River Province, with the districts of Fulladu East, Kantora Wuli and Sandu. South Bank Province, with the districts of Central Jarra, Eastern Jarra, Western Jarra, Eastern Kiang and Central Kiang, Kombo St. Mary, Kombo North, Kombo South, Kombo Central, Kombo East, Foni Brefet, Bintang-Karenai, Foni Kanala, Foni Bondali, Foni Jarrol and Kiang West.
+
+Inhabitants of the Gambia.
+
+The inhabitants are mostly of the negro race, the chief tribes being the Jollofs, Mandingoes, Sarahulis, Fullas and Jolas. The country of the Jollofs is on the North Bank or Senegal side of the river, and they form a large portion of the community in the town of Bathurst.
+
+The Mandingoes are the most numerous people on this portion of the African coast, and derive their name from Manding, a town some 700 miles inland and towards the boundary of the Colony of Sierra Leone. They are mostly Mohammedans.
+
+The Jolas come from Foni, between the southern limit of Kombo and on the north bank of the Cassamance River. Their country runs in a north easterly direction towards the south bank of the Gambia River as far as the mouth of the Bintang Creek. They are pagans and a wild uncivilised tribe.
+
+The Sarahulis are the most recent arrivals in the Gambia having migrated from the interior of Senegal. They are found chiefly in the eastern portion of the Upper River where they have established fairly large villages. They are all Mohammedans.
+
+The Fullas (not the pure race, the nomads of West Africa) are good farmers and herdsmen. Their features are somewhat of the Asiatic type and their skins of a lighter colour than negroes. The capital of the Fulla country is Timbo in Futta Jallon, and is situated in north latitude 10° 38' and west longitude 11° 10'.
+
+Industry, Trade and Customs.
+
+There are no mines in the Colony, but in several places in the Protectorate iron ore is to be found in large quantities, although not worth exportation.
+
+A small quantity of cotton is grown, but only for local consumption, and it is made into narrow strips of rough coloured cloth, common to all West Africa. The strips average 27 yards in length and 9 inches in width.
+
+Pottery is made in the Upper River Province. A considerable amount of excellent leather is produced from goat skins. It is not exported but utilised by the people in making bags, slippers, sandals, scabbards, saddles and horse trappings, and the skilful manner in which coloured grasses, silk cotton, etc., are laced through the decorative portion of the leather work is
+common to most of Mohammedan West Africa. Each town or village usually has a "Koranki" man, or leather worker.
+
+There is an abundance of fish in the lower reaches of the Gambia River, and large quantities are dried and taken each season into the Protectorate for sale. Quantities of oysters are obtained in the creek, and are cooked by the people for food, the shells being made into native lime.
+
+The ground nut is the staple article of cultivation, and forms the chief export crop of the Gambia. Large quantities of foodstuffs, such as rice, maize, guinea corn, cassava, etc., are raised for local consumption.
+
+A considerable trade is done with the French settlements and the adjoining coast districts in cotton goods, tobacco, rice, and hardware.
+
+The principal imports are cotton goods, rice, kola nuts.
+
+The principal exports in 1932 were:
+
+| Quantity | Value |
+|----------|-------|
+| Ground nuts | 37,315 tons £391,659 |
+| Hides | 7,303 No. 816 |
+| Palm kernels | 722 tons 5,550 |
+| Wax | 41,246 lbs. 1,264 |
+
+The following table shows the percentages of imports and exports by countries:
+
+| Percentage of Imports and Exports, 1931 (exclusive of specie) |
+|-----------------|-----------------|
+| Imports | Exports |
+| United Kingdom | 51·02 20·66 |
+| Other parts of British Empire | 15·07 00·89 |
+| France | 14·75 59·80 |
+| Germany | 01·69 00·92 |
+| Holland | 01·40 10·73 |
+| Other Countries | 10·11 07·00 |
+| U.S.A. | 06·06 — |
+
+A new Customs Tariff Ordinance was passed in 1932, giving preferential treatment to British manufactures and products. The ad valorem rates of duties are 10% on British goods and 12½% on Foreign goods, except in the case of carriages and parts thereof (inclusive of Motor cars and tyres) where the duties are 5% ad valorem on British goods and 25% ad valorem on Foreign goods. In the case of goods subject to specific duties, a similar preference is given to British goods.
+
+An Export duty of 10s. per ton is levied on ground nuts.
+
+Bathurst is a port of registry, and had, on its Register on 31st December, 1932 (as in 1931), 147 vessels of 3,471 tons gross aggregate tonnage.
+
+Relations with the Interior.
+
+Since the delimitation of the boundary of the Protectorate by the Anglo-French Commissioner in 1891, steps have been taken to bring the inhabitants of the Protectorate gradually into closer relationship with the Government of the Colony. An Order in Council, issued on the 23rd of November, 1893, provided for the establishment of Her Majesty's jurisdiction within the Protectorate, and since then Ordinances have been passed providing for the establishment of magistrates and also native courts.
+
+Commissioners regularly travel through the Protectorate on both banks of the river for 250 miles. A "yard" or "hut" tax, which averages about 4s. per annum for a family, is imposed in the Protectorate.
+
+Currency and Banking.
+
+The currency is British West African silver alloy and nickel-bronze coins and British West African currency notes for 20s. and 10s. French 5 franc pieces were demonetised at the beginning of 1922. There is one Bank in Bathurst: the Bank of British West Africa.
+
+A Government savings bank was established in 1886, and had on 31st December, 1932, 1,660l. deposited by 739 persons.
+
+Land.
+
+Land in the Protectorate can be obtained from the Chief of a district for purposes of farming with the sanction of the Governor. Small lots suitable for trading stations may be rented for 3l. per annum and upwards. Freehold interests in Crown lands in the Colony are not disposed of except in special circumstances. No leases are issued in the first instance of lands either in the Colony or Protectorate for a longer period than twenty-one years.
+
+Education.
+
+There is an Education Department under the direction of an Administrative Officer, who is seconded for duty as Superintendent of Education. The Christian schools, which are wholly in the hands of the several denominations, receive grants-in-aid. Of ordinary primary schools in Bathurst, there are one Anglican, two Methodist and two Roman Catholic, with 1,548 scholars in all. Education is not compulsory, and fees are charged. There are two Methodist High schools and two Roman Catholic Secondary Schools, two for boys and two for girls, all under European control. There is also a Mohammedan school with 217 pupils, at which the ordinary rudiments of an English and Arabic education are taught, the upkeep of the premises and the payment of the teachers being borne by the Government, the native Mohammedan community contributing a small fixed annual sum. At MacCarthy Island there is a primary Methodist school with 32 pupils, and a Government Mohammedan school, started in January, 1927, with 43 pupils on the roll.
+
+A total Government grant-in-aid of 2,073l. was made to the elementary schools, and of 360l. to the secondary schools, during 1932.
+
+Means of Communication.
+
+Communication between the Colony and Europe is effected by the steamers of Elder Dempster Lines, Ltd., which nominally run monthly between Liverpool and Bathurst. Steamers of the Messageries Maritimes sail to and from Bordeaux and Dakar fortnightly, and by doing an overland journey of about 120 miles from Bathurst to Dakar passengers may get to Europe in eight days.
+
+Internal communication is conducted chiefly by water-borne craft, the Gambia River forming an unrivalled highway for 300 miles. The Government maintains a service of river steamers which run weekly during the trading season and fortnightly at other times of the year.
+
+Telegraph cables place Bathurst in communication with West Africa and cable stations throughout the world.
+
+Bathurst Wireless Station, which has a range of approximately 1,000 miles, communicates with...
+ships at sea and the important town of Dakar in the French Senegal. Wireless stations are also established at Kuntaur, Georgetown and Basse, and a regular service is maintained between these inland towns and Bathurst.
+
+A central battery telephone system is employed in the town of Bathurst, and in direct connection with Cape St. Mary.
+
+There are no railways. A laterite metallised road connects Bathurst with Cape St. Mary in British Kombo, 7½ miles, crossing Oyster Creek at Denton Bridge. At Mile 6 a similar road leads to Sukuta, one of the principal villages in the Kombo, 5 miles.
+
+Motor cars are used in Bathurst and its vicinity.
+
+The rules of the Postal Union have been adopted by the Colony and the Protectorate.
+
+The following are the rates of postage:
+
+**Letters.**
+
+Internal—1½d. per oz.
+
+Empire and U.S.A.—1½d. for each oz. or fraction thereof.
+
+Other Countries—3d. for the first oz., and 1½d. for each succeeding oz. or fraction thereof.
+
+**Parcels Post.**
+
+If posted locally for delivery within the Colony, 6d. for first 2 lbs., 4d. for each additional lb.
+
+Parcels from abroad redirected to an Inland Office, 6d. for first 2 lbs., 4d. for each additional lb.
+
+If addressed to the United Kingdom or British West African Colonies:
+
+Not over 3 lbs. to U.K. 2s. 3d.; W.A.C. 2/-
+
+Over 3 lbs., but not over 7 lbs. to U.K. 3s. 6d.; W.A. Colonies 3/-
+
+Over 7 lbs., but not over 11 lbs., to U.K. 4s. 9d.; W.A. Colonies 4/-
+
+Over 11 lbs., but not over 22 lbs., to U.K. 6s. 9d.; W.A. Colonies 7s.
+
+There is no direct parcel post scheme at present with foreign countries. All parcels are forwarded through the medium of the General Post Office, London, a small additional charge being made for onward transmission.
+
+A weekly letter air mail service operates with Europe via London, Paris, Toulouse, Dakar and thence by sea to Bathurst, and vice versa, as opportunity occurs.
+
+**Climate.**
+
+The climate of the Gambia during the dry season from the end of November to the middle of May is pleasant and generally healthy. During the wet season—June to October—the conditions are much the same as elsewhere on the West Coast of Africa: the change from excessive dryness to a damp atmosphere is found to be trying. In the interior the temperature is high from March to June. The lowest reading of the thermometer in the shade during 1932 in Bathurst was 60°, the highest recorded temperature being 103° in April.
+
+The rainfall during the year 1932 in Bathurst was 54·08 inches. The rainfall varies considerably; the average is 47 inches.
+
+---
+
+**FINANCES.**
+
+| Year | Revenue | Expenditure |
+|------|---------|-------------|
+| 1923 | £229,688 | £211,316    |
+| 1924 | 208,613  | 203,635     |
+| 1925 | 189,066  | 271,836     |
+| 1926 | 214,181  | 213,643     |
+| 1927 | 252,419  | 277,625     |
+| 1928 | 225,385  | 250,596     |
+| 1929 | 235,266  | 289,506     |
+| 1930 | 216,739  | 263,228     |
+| 1931 | 184,825  | 227,488     |
+| 1932 | 206,133  | 196,015     |
+
+**SHIPPING ENTERED AND CLEARED.**
+
+| Year | Total Tonnage |
+|------|---------------|
+|      |               |
+| 1923 | 1,052,98      |
+| 1924 | 1,100,72      |
+| 1925 | 1,097,64      |
+| 1926 | 1,255,24      |
+| 1927 | 1,287,01      |
+| 1928 | 1,292,39      |
+| 1929 | 1,290,88      |
+| 1930 | 1,239,15      |
+| 1931 | 1,065,70      |
+| 1932 | 926,02        |
+
+**IMPORTS.**
+
+| Year | From U.K. | Elsewhere |
+|------|-----------|-----------|
+| 1923 | £444,329  | £269,778  |
+| 1924 | 280,509   | 83,937    |
+| 1925 | 256,773   | 78,556    |
+| 1926 | 288,800   | 103,010   |
+| 1927 | 415,142   | 111,819   |
+| 1928 | 563,969   | 128,153   |
+| 1929 | 206,274   | 63,842    |
+| 1930 | 182,262   | 63,277    |
+| 1931 | 94,615    | 36,171    |
+| 1932 | 149,949   | 44,111    |
+
+**EXPORTS.**
+
+| Year | To U.K. | Elsewhere |
+|------|---------|-----------|
+| 1923 | £440,368 | £452,391  |
+| 1924 | 484,947  | 106,180   |
+| 1925 | 329,738  | 6,265    |
+| 1926 | 337,447  | 22,006   |
+| 1927 | 81,939   | 4,637    |
+| 1928 | 392,687  | 26,641   |
+| 1929 | 127,646  | 30,616   |
+| 1930 | 175,171  | 17,634   |
+| 1931 | 20,185   | 4,360    |
+| 1932 | 283,643  | 3,612    |
+
+**Governors.**
+
+1901 Sir G. C. Denton, K.C.M.G.
+1911 Lieut.-Colonel Sir H. L. Galway, K.C.M.G.
+1914 Sir Edward J. Cameron, K.C.M.G.
+1920 Captain Sir C. H. Armitage, K.B.
+1927 Sir John Middleton, K.B.E., C.M.G.
+1928 Sir Edward Denham, K.B.E., C.M.G.
+1930 Sir Herbert R. Palmer, K.C.M.G., C.I.
+
+**Executive Council.**
+
+The Governor, President.
+The Colonial Secretary.
+H. Densham Smith.
+D. T. Birt.
+A. G. B. Manson.
+Capt. E. B. Leese, O.B.E.
+
+**Legislative Council.**
+
+The Governor, President
+The Colonial Secretary
+H. Densham Smith
+D. T. Birt
+A. G. B. Manson
+Capt. E. B. Leese, O.B.E.
+S. J. Forster, O.B.E.
+J. Howie
+Sheikh Omar Fye
+
+Clerk of Council.
+CIVIL ESTABLISHMENT.
+
+Governor and Commander-in-Chief, A. F. Richards, C.M.G., 2,500l., and 750l. duty allowance.
+
+Aide-de-Camp and Private Secretary, Capt. H. Lloyd-Carson, 450l.
+
+Secretariat.
+
+Colonial Secretary, G. C. B. Parish, 1,000l., and 200l. duty allowance.
+
+Senior Assistant Colonial Secretary, Major L. A. W. Brooks, and Assistant Colonial Secretary, R. H. Gretton, 450l. to 960l.
+
+Office Assistant, G. Amos, 400l. to 600l.
+
+African Assistant Colonial Secretary, W. Topp, 300l. to 450l.
+
+Printing Branch.
+
+Government Printer, J. M. Lawani, 260l. to 360l.
+
+Receiver-General's Department.
+
+Receiver-General, H. Denham Smith, 960l., and 96l. duty allowance.
+
+Treasury and Customs Branches.
+
+Assistant Receiver-General, M. M. Auchinleck, 450l. to 720l.
+
+Accountant, Treasury, R. A. Brown, 400l. to 720l.
+
+Supervisor of Customs, O. E. Kernahan, 400l. to 720l.
+
+Chief Clerk, 1st Grade, M. L. Davis, 260l. to 360l.
+
+Customs Landing Waiters (2nd Grade), M. O. Palmer and I. B. M. Y. Jobe, 160l. to 280l.
+
+Posts and Telegraph Branch.
+
+Postal Surveyor and Wireless Engineer, A. Wallis, 500l. to 660l.
+
+Postmaster, F. E. Danner, 260l. to 360l.
+
+Legal Department.
+
+Judge of the Supreme Court, W. K. Horne, 1,000l., and 200l. duty allowance.
+
+Legal Adviser, A. G. B. Manson, 600l. to 800l.
+
+Police Magistrate, M. D. Lyon, 600l. to 800l.
+
+Clerk of Courts, 1st Grade, J. J. Thomas, 260l. to 360l.
+
+Sheriff, H. L. Webley (salary included in that of Commissioner of Police).
+
+Education.
+
+Superintendent of Education. Appointment filled by an officer seconded from the Provincial Administration.
+
+Provincial Administration.
+
+Commissioners, 450l. to 960l., Capt. E. B. Leese, O.B.E., Major R. W. Macklin, M.C., Captain H. R. Oke, Captain P. Jeffs, M.C., A. R. Clark, W. T. Hamlyn, G. N. N. Nunn, N. M. Asheton.
+
+Police Force.
+
+Commissioner, H. L. Webley, 720l. to 920l., 72l. duty allowance.
+
+Assistant, Capt. R. L. Hill, 400l. to 720l.
+
+Superintendent, W. Collins, 400l. to 500l.
+
+Bandmaster, T. A. Medhurst, 400l. to 500l.
+
+Prison.
+
+Inspector of Prisons, H. L. Webley, (salary included in that of Commissioner of Police).
+
+Medical.
+
+Senior Medical Officer, D. T. Birt, 1,000l. to 1,150l. and 250l. staff and seniority allowances.
+
+Medical Officers, H. J. Birmingham, H. B. Boucher, D. S. Johnston, 660l. to 960l., and 72l. seniority allowance.
+
+Junior African Medical Officer, J. Bright-Richards.
+
+Senior Nursing Sister, M. K. Parr, 500l. to 600l., and 40l. charge allowance.
+
+Nursing Sisters, E. M. Sheaff, K. Edwards, 350l. to 480l.
+
+Health Department.
+
+Medical Officer of Health, duties performed by Medical Officers.
+
+Sanitary Inspector, A. F. V. Vaughan, 440l. to 500l.
+
+Assistant Sanitary Inspector, P. McDevitt, 360l. to 460l.
+
+Public Works Department.
+
+Director of Public Works, Major J. R. Gwyther, M.C., 960l., and 96l. duty allowance.
+
+Assistant Engineer, P. G. Burrage, 600l. to 720l.
+
+Clerks of Works, H. F. Gibbons, S. Geering, 500l. to 560l.
+
+Mechanical Foreman, H. W. Duffield, 500l. to 560l.
+
+Electrical Foreman, H. Brough, 500l. to 560l.
+
+Assistant Electrical Foreman, A. Baynham, 360l. to 460l.
+
+Accountant and Storekeeper, H. Heys, 540l. to 720l.
+
+Assistant Accountant and Storekeeper, C. H. Philip, 400l. to 600l.
+
+Chief Clerk, 1st Grade, J. C. Johnson, 260l. to 360l.
+
+Land and Survey Department.
+
+Land Officer and Surveyor, W. H. McTurk, 600l. to 800l., and 72l. seniority allowance.
+
+African Surveyor, W. A. Small, 150l.
+
+Chief Clerk, 1st Grade, E. L. Auber, 260l. to 360l.
+
+Audit Office.
+
+Auditor, A. G. Still, 600l. to 920l., and 72l. seniority allowance from 720l. and 100l. local allowance.
+
+Chief Clerk, 2nd Grade, E. H. Joiner, 160l. to 230l.
+
+Marine.
+
+Harbour Master and Marine Superintendent, A. D. Steele, 480l. to 720l., 100l. duty allowance, and 80l. messing allowance.
+
+Chief Engineer, J. M. Simpson, 480l. to 720l.
+
+Artificer Engineer, J. Reid, 500l. to 560l.
+
+Transport Officer, Captain R. E. G. Deall, 400l. to 500l.
+
+Agricultural Department.
+
+Director of Agriculture, A. J. Brooks, F.L.S., F.C.S., F.R.H.S., 600l. to 920l., and 72l. seniority allowance from 720l.
+
+Assistant Director, F. W. Hall, 450l. to 720l.
+
+Agricultural Superintendents, J. Pirie, J. W. Sparrow, 480l. to 600l.
+
+Royal West African Frontier Force.
+
+Officer Commanding, Capt. J. A. Brawn, 700l., and 54l. duty allowance.
+
+Lieutenants, F. B. B. Dowling, M.C., S. B. Cope, 600l.
+
+All European officers are provided with furnished quarters.
+
+Foreign Consuls.
+
+Belgium, A. Rives, Vice-Consul.
+
+France, F. Orcel, Consular Agent.
+
+Portugal, F. Orcel, Consul.
+
+Spain, J. Howie, Vice-Consul.
+
+Norway, J. A. Joerg, Consul.
+
+Finland, J. A. Joerg, Acting Vice-Consul.
+
+Denmark, J. A. Joerg, Consul.

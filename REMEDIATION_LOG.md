@@ -40,6 +40,74 @@
 
 ---
 
+## YEAR: 1867
+**Status:** ✅ COMPLETED
+**Priority:** FOUNDATION (First Colonial Office List)
+**Issues:** 121 KB umbrella file + missing colony
+
+**OCR Source:** `/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1867/olmocr_results.md`
+
+**Initial Analysis:**
+
+Found 44 colonies with one major issue:
+- 🚩 **WEST_AFRICAN_SETTLEMENTS**: 1,022 lines, 123,575 characters (121 KB)
+  - Suspiciously large file suggesting multiple colonies merged
+- ⚠️ Very short entries (verified as legitimate):
+  - GIBRALTAR: 28 lines (under War Office control, minimal Colonial Office entry)
+  - HONDURAS: 19 lines (British Honduras, just historical background)
+  - BULAMA: 8 lines (dependency of Sierra Leone, not full colony)
+- ✅ No overlapping line ranges
+
+**Manual Analysis Completed:**
+
+Read OCR source at line 13286-14307 to investigate WEST_AFRICAN_SETTLEMENTS structure.
+
+**Findings - VERIFIED:**
+
+✅ **WEST_AFRICAN_SETTLEMENTS is an umbrella structure** containing:
+1. **SIERRA LEONE** (13286-13406, 121 lines) - Main administrative center
+2. **THE GAMBIA** (13407-13519, 113 lines) - Has header "THE GAMBIA."
+3. **GOLD COAST** (13520-13590, 71 lines) - Has header "GOLD COAST."
+4. **LAGOS** (13591-13683, 93 lines) - Has header "**LAGOS.**"
+
+**Historical Context:**
+- In 1866, British government centralized West African administration
+- Sierra Leone became seat of Governor-General for all 4 settlements
+- Each settlement maintained local Administrator under central government
+
+❌ **VANCOUVER'S ISLAND incorrectly included** (13684-13712, 29 lines):
+- Pacific colony, NOT part of West Africa!
+- Was about to merge with British Columbia (1866-1867)
+- Completely missing from original metadata
+- Mistakenly appended to WEST_AFRICAN_SETTLEMENTS file
+
+**Actions Completed:**
+1. ✅ Split WEST_AFRICAN_SETTLEMENTS into 4 separate colonies
+2. ✅ Extracted VANCOUVER'S ISLAND as separate colony (recovered missing entry)
+3. ✅ Verified short entries are legitimate (GIBRALTAR, HONDURAS, BULAMA)
+4. ✅ Created extraction script (`extract_1867_corrected.py`)
+5. ✅ Extracted 48 colonies to output_2/1867_manual_parsed/
+6. ✅ Created corrected metadata JSON
+
+**Files Created:**
+- `/home/user/colonial_office_list/output_2/1867_manual_parsed/` (48 colony files)
+- `/home/user/colonial_office_list/output_2/1867_manual_parsed.json` (corrected metadata)
+
+**Validation:**
+- Total colonies: 48 (was 44, recovered 4 colonies)
+- Removed: 1 umbrella entry (WEST_AFRICAN_SETTLEMENTS)
+- Added: 4 West African colonies + VANCOUVER'S ISLAND
+- No overlapping line ranges
+- All boundaries manually verified
+
+**Scripts Created:**
+- `extract_1867_corrected.py` - Extraction with umbrella splitting
+- `create_1867_metadata.py` - Metadata generation
+
+**Completion Date:** November 12, 2025
+
+---
+
 ## YEAR: 1890
 **Status:** ✅ COMPLETED
 **Priority:** CRITICAL

@@ -1,0 +1,466 @@
+{
+  "year": 1867,
+  "total_colonies": 48,
+  "parsing_method": "Manual LLM-based boundary verification (output_2)",
+  "remediation_date": "November 12, 2025",
+  "original_extraction_count": 44,
+  "corrections_applied": [
+    "Split WEST_AFRICAN_SETTLEMENTS (121 KB umbrella) into 4 separate colonies",
+    "Added missing VANCOUVER'S ISLAND (was incorrectly merged into West African file)",
+    "Verified all 48 colonies have clean non-overlapping boundaries"
+  ],
+  "issues_found": {
+    "umbrella_structure": "WEST_AFRICAN_SETTLEMENTS contained 4 colonies + Vancouver's Island + appendix",
+    "missing_colony": "VANCOUVER'S ISLAND (13684-13712) not in original metadata",
+    "contamination": "121 KB file included Pacific colony (Vancouver) in West African umbrella"
+  },
+  "historical_context": "Year 1867 - First Colonial Office List; West African settlements centralized under Sierra Leone government (1866)",
+  "notes": [
+    "West African central government established 1866: Sierra Leone, Gambia, Gold Coast, Lagos",
+    "Vancouver's Island about to merge with British Columbia (happened 1866-1867)",
+    "All boundaries manually verified by reading OCR source content"
+  ],
+  "colonies": [
+    {
+      "name": "ANTIGUA",
+      "filename": "ANTIGUA.md",
+      "start_line": 1113,
+      "end_line": 1375,
+      "line_count": 263,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BAHAMAS",
+      "filename": "BAHAMAS.md",
+      "start_line": 1377,
+      "end_line": 1509,
+      "line_count": 133,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BARBADOS",
+      "filename": "BARBADOS.md",
+      "start_line": 1511,
+      "end_line": 1996,
+      "line_count": 486,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BERMUDAS",
+      "filename": "BERMUDAS.md",
+      "start_line": 1998,
+      "end_line": 2199,
+      "line_count": 202,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH_COLUMBIA",
+      "filename": "BRITISH_COLUMBIA.md",
+      "start_line": 2201,
+      "end_line": 2425,
+      "line_count": 225,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH_GUIANA",
+      "filename": "BRITISH_GUIANA.md",
+      "start_line": 2427,
+      "end_line": 2926,
+      "line_count": 500,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BULAMA",
+      "filename": "BULAMA.md",
+      "start_line": 2928,
+      "end_line": 2935,
+      "line_count": 8,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CANADA",
+      "filename": "CANADA.md",
+      "start_line": 2937,
+      "end_line": 3186,
+      "line_count": 250,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CAPE_OF_GOOD_HOPE",
+      "filename": "CAPE_OF_GOOD_HOPE.md",
+      "start_line": 3188,
+      "end_line": 4058,
+      "line_count": 871,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CEYLON",
+      "filename": "CEYLON.md",
+      "start_line": 4060,
+      "end_line": 4522,
+      "line_count": 463,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "DOMINICA",
+      "filename": "DOMINICA.md",
+      "start_line": 4524,
+      "end_line": 4639,
+      "line_count": 116,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "FALKLAND_ISLANDS",
+      "filename": "FALKLAND_ISLANDS.md",
+      "start_line": 4641,
+      "end_line": 4726,
+      "line_count": 86,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "GIBRALTAR",
+      "filename": "GIBRALTAR.md",
+      "start_line": 4728,
+      "end_line": 4755,
+      "line_count": 28,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "GRENADA",
+      "filename": "GRENADA.md",
+      "start_line": 4757,
+      "end_line": 5098,
+      "line_count": 342,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "HONDURAS",
+      "filename": "HONDURAS.md",
+      "start_line": 5100,
+      "end_line": 5118,
+      "line_count": 19,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "HELIGOLAND",
+      "filename": "HELIGOLAND.md",
+      "start_line": 5120,
+      "end_line": 5312,
+      "line_count": 193,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "HONG_KONG",
+      "filename": "HONG_KONG.md",
+      "start_line": 5314,
+      "end_line": 5555,
+      "line_count": 242,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "JAMAICA",
+      "filename": "JAMAICA.md",
+      "start_line": 5557,
+      "end_line": 5961,
+      "line_count": 405,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "LABUAN",
+      "filename": "LABUAN.md",
+      "start_line": 5963,
+      "end_line": 6065,
+      "line_count": 103,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MALTA",
+      "filename": "MALTA.md",
+      "start_line": 6067,
+      "end_line": 6411,
+      "line_count": 345,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MAURITIUS",
+      "filename": "MAURITIUS.md",
+      "start_line": 6413,
+      "end_line": 6937,
+      "line_count": 525,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MONTSERRAT",
+      "filename": "MONTSERRAT.md",
+      "start_line": 6939,
+      "end_line": 7064,
+      "line_count": 126,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NATAL",
+      "filename": "NATAL.md",
+      "start_line": 7066,
+      "end_line": 7258,
+      "line_count": 193,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NEVIS",
+      "filename": "NEVIS.md",
+      "start_line": 7260,
+      "end_line": 7381,
+      "line_count": 122,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NEW_BRUNSWICK",
+      "filename": "NEW_BRUNSWICK.md",
+      "start_line": 7383,
+      "end_line": 7654,
+      "line_count": 272,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "filename": "NEWFOUNDLAND.md",
+      "start_line": 7656,
+      "end_line": 7870,
+      "line_count": 215,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NEW_SOUTH_WALES",
+      "filename": "NEW_SOUTH_WALES.md",
+      "start_line": 7872,
+      "end_line": 8457,
+      "line_count": 586,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NEW_ZEALAND",
+      "filename": "NEW_ZEALAND.md",
+      "start_line": 8459,
+      "end_line": 8852,
+      "line_count": 394,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NOVA_SCOTIA",
+      "filename": "NOVA_SCOTIA.md",
+      "start_line": 8854,
+      "end_line": 9134,
+      "line_count": 281,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "PRINCE_EDWARD_ISLAND",
+      "filename": "PRINCE_EDWARD_ISLAND.md",
+      "start_line": 9136,
+      "end_line": 9300,
+      "line_count": 165,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "QUEENSLAND",
+      "filename": "QUEENSLAND.md",
+      "start_line": 9302,
+      "end_line": 9538,
+      "line_count": 237,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST_CHRISTOPHERS_AND_ANGUILLA",
+      "filename": "ST_CHRISTOPHERS_AND_ANGUILLA.md",
+      "start_line": 9540,
+      "end_line": 9710,
+      "line_count": 171,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST_HELENA",
+      "filename": "ST_HELENA.md",
+      "start_line": 9712,
+      "end_line": 9869,
+      "line_count": 158,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST_LUCIA",
+      "filename": "ST_LUCIA.md",
+      "start_line": 9871,
+      "end_line": 10068,
+      "line_count": 198,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SAINT_VINCENT",
+      "filename": "SAINT_VINCENT.md",
+      "start_line": 10070,
+      "end_line": 10343,
+      "line_count": 274,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SOUTH_AUSTRALIA",
+      "filename": "SOUTH_AUSTRALIA.md",
+      "start_line": 10345,
+      "end_line": 10903,
+      "line_count": 559,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "STRAITS_SETTLEMENTS",
+      "filename": "STRAITS_SETTLEMENTS.md",
+      "start_line": 10905,
+      "end_line": 11361,
+      "line_count": 457,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TASMANIA",
+      "filename": "TASMANIA.md",
+      "start_line": 11363,
+      "end_line": 11677,
+      "line_count": 315,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TOBAGO",
+      "filename": "TOBAGO.md",
+      "start_line": 11679,
+      "end_line": 11873,
+      "line_count": 195,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TRINIDAD",
+      "filename": "TRINIDAD.md",
+      "start_line": 11875,
+      "end_line": 12288,
+      "line_count": 414,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TURKS_AND_CAICOS_ISLANDS",
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md",
+      "start_line": 12289,
+      "end_line": 12384,
+      "line_count": 96,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "VICTORIA",
+      "filename": "VICTORIA.md",
+      "start_line": 12386,
+      "end_line": 13112,
+      "line_count": 727,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "WESTERN_AUSTRALIA",
+      "filename": "WESTERN_AUSTRALIA.md",
+      "start_line": 13113,
+      "end_line": 13284,
+      "line_count": 172,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SIERRA LEONE",
+      "filename": "SIERRA_LEONE.md",
+      "start_line": 13286,
+      "end_line": 13406,
+      "line_count": 121,
+      "is_appendix": false,
+      "extraction_method": "split_from_umbrella",
+      "original_umbrella": "WEST_AFRICAN_SETTLEMENTS",
+      "note": "Part of West African Settlements umbrella government (1866)"
+    },
+    {
+      "name": "THE GAMBIA",
+      "filename": "THE_GAMBIA.md",
+      "start_line": 13407,
+      "end_line": 13519,
+      "line_count": 113,
+      "is_appendix": false,
+      "extraction_method": "split_from_umbrella",
+      "original_umbrella": "WEST_AFRICAN_SETTLEMENTS",
+      "note": "Part of West African Settlements umbrella government (1866)"
+    },
+    {
+      "name": "GOLD COAST",
+      "filename": "GOLD_COAST.md",
+      "start_line": 13520,
+      "end_line": 13590,
+      "line_count": 71,
+      "is_appendix": false,
+      "extraction_method": "split_from_umbrella",
+      "original_umbrella": "WEST_AFRICAN_SETTLEMENTS",
+      "note": "Part of West African Settlements umbrella government (1866)"
+    },
+    {
+      "name": "LAGOS",
+      "filename": "LAGOS.md",
+      "start_line": 13591,
+      "end_line": 13683,
+      "line_count": 93,
+      "is_appendix": false,
+      "extraction_method": "split_from_umbrella",
+      "original_umbrella": "WEST_AFRICAN_SETTLEMENTS",
+      "note": "Part of West African Settlements umbrella government (1866)"
+    },
+    {
+      "name": "VANCOUVER'S ISLAND",
+      "filename": "VANCOUVERS_ISLAND.md",
+      "start_line": 13684,
+      "end_line": 13712,
+      "line_count": 29,
+      "is_appendix": false,
+      "extraction_method": "recovered_missing",
+      "note": "Was incorrectly included in WEST_AFRICAN_SETTLEMENTS umbrella file. About to merge with British Columbia (1866-1867)."
+    }
+  ]
+}

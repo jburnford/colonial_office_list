@@ -1,0 +1,275 @@
+{
+  "year": 1890,
+  "total_colonies": 32,
+  "parsing_method": "Manual LLM-based boundary verification (output_2)",
+  "remediation_date": "November 12, 2025",
+  "corrections_applied": [
+    "MAURITIUS truncated from 1656 to 1009 lines (removed NATAL contamination)",
+    "SOUTH AUSTRALIA truncated from 2295 to 1031 lines (removed STRAITS/TASMANIA contamination)",
+    "STRAITS SETTLEMENTS truncated from 1264 to 788 lines (removed TASMANIA contamination)",
+    "TASMANIA newly extracted (476 lines) - was missing from original parse"
+  ],
+  "historical_context": "Year 1890 - Scramble for Africa peak, pre-Second Boer War",
+  "colonies": [
+    {
+      "name": "BAHAMAS",
+      "filename": "BAHAMAS.md",
+      "start_line": 1531,
+      "end_line": 1885,
+      "line_count": 355,
+      "is_appendix": false
+    },
+    {
+      "name": "BARBADOS",
+      "filename": "BARBADOS.md",
+      "start_line": 1886,
+      "end_line": 2538,
+      "line_count": 653,
+      "is_appendix": false
+    },
+    {
+      "name": "BASUTOLAND",
+      "filename": "BASUTOLAND.md",
+      "start_line": 2539,
+      "end_line": 2663,
+      "line_count": 125,
+      "is_appendix": false
+    },
+    {
+      "name": "BERMUDA",
+      "filename": "BERMUDA.md",
+      "start_line": 2664,
+      "end_line": 3002,
+      "line_count": 339,
+      "is_appendix": false
+    },
+    {
+      "name": "BRITISH BECHUANALAND",
+      "filename": "BRITISH_BECHUANALAND.md",
+      "start_line": 3003,
+      "end_line": 3184,
+      "line_count": 182,
+      "is_appendix": false
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "filename": "BRITISH_GUIANA.md",
+      "start_line": 3185,
+      "end_line": 3897,
+      "line_count": 713,
+      "is_appendix": false
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "filename": "BRITISH_HONDURAS.md",
+      "start_line": 3898,
+      "end_line": 4341,
+      "line_count": 444,
+      "is_appendix": false
+    },
+    {
+      "name": "BRITISH NEW GUINEA",
+      "filename": "BRITISH_NEW_GUINEA.md",
+      "start_line": 4342,
+      "end_line": 8915,
+      "line_count": 4574,
+      "is_appendix": false
+    },
+    {
+      "name": "CAPE OF GOOD HOPE",
+      "filename": "CAPE_OF_GOOD_HOPE.md",
+      "start_line": 8916,
+      "end_line": 9784,
+      "line_count": 869,
+      "is_appendix": false
+    },
+    {
+      "name": "CEYLON",
+      "filename": "CEYLON.md",
+      "start_line": 9785,
+      "end_line": 10629,
+      "line_count": 845,
+      "is_appendix": false
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "filename": "FALKLAND_ISLANDS.md",
+      "start_line": 10630,
+      "end_line": 11195,
+      "line_count": 566,
+      "is_appendix": false
+    },
+    {
+      "name": "THE GAMBIA",
+      "filename": "THE_GAMBIA.md",
+      "start_line": 11196,
+      "end_line": 11405,
+      "line_count": 210,
+      "is_appendix": false
+    },
+    {
+      "name": "GIBRALTAR",
+      "filename": "GIBRALTAR.md",
+      "start_line": 11406,
+      "end_line": 11583,
+      "line_count": 178,
+      "is_appendix": false
+    },
+    {
+      "name": "THE GOLD COAST COLONY",
+      "filename": "THE_GOLD_COAST_COLONY.md",
+      "start_line": 11584,
+      "end_line": 12062,
+      "line_count": 479,
+      "is_appendix": false
+    },
+    {
+      "name": "HONG KONG",
+      "filename": "HONG_KONG.md",
+      "start_line": 12063,
+      "end_line": 12430,
+      "line_count": 368,
+      "is_appendix": false
+    },
+    {
+      "name": "JAMAICA",
+      "filename": "JAMAICA.md",
+      "start_line": 12431,
+      "end_line": 13243,
+      "line_count": 813,
+      "is_appendix": false
+    },
+    {
+      "name": "LABUAN",
+      "filename": "LABUAN.md",
+      "start_line": 13244,
+      "end_line": 13709,
+      "line_count": 466,
+      "is_appendix": false
+    },
+    {
+      "name": "THE LEEWARD ISLANDS",
+      "filename": "THE_LEEWARD_ISLANDS.md",
+      "start_line": 13710,
+      "end_line": 15413,
+      "line_count": 1704,
+      "is_appendix": false
+    },
+    {
+      "name": "MAURITIUS",
+      "filename": "MAURITIUS.md",
+      "start_line": 15414,
+      "end_line": 16422,
+      "line_count": 1009,
+      "is_appendix": false,
+      "correction_note": "Corrected: removed NATAL contamination"
+    },
+    {
+      "name": "NATAL",
+      "filename": "NATAL.md",
+      "start_line": 16423,
+      "end_line": 17069,
+      "line_count": 647,
+      "is_appendix": false
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "filename": "NEWFOUNDLAND.md",
+      "start_line": 17070,
+      "end_line": 18950,
+      "line_count": 1881,
+      "is_appendix": false
+    },
+    {
+      "name": "NEW ZEALAND",
+      "filename": "NEW_ZEALAND.md",
+      "start_line": 18951,
+      "end_line": 19384,
+      "line_count": 434,
+      "is_appendix": false
+    },
+    {
+      "name": "QUEENSLAND",
+      "filename": "QUEENSLAND.md",
+      "start_line": 19385,
+      "end_line": 20507,
+      "line_count": 1123,
+      "is_appendix": false
+    },
+    {
+      "name": "SOUTH AUSTRALIA",
+      "filename": "SOUTH_AUSTRALIA.md",
+      "start_line": 20508,
+      "end_line": 21538,
+      "line_count": 1031,
+      "is_appendix": false,
+      "correction_note": "Corrected: removed STRAITS SETTLEMENTS and TASMANIA contamination"
+    },
+    {
+      "name": "STRAITS SETTLEMENTS",
+      "filename": "STRAITS_SETTLEMENTS.md",
+      "start_line": 21539,
+      "end_line": 22326,
+      "line_count": 788,
+      "is_appendix": false,
+      "correction_note": "Corrected: removed TASMANIA contamination"
+    },
+    {
+      "name": "TASMANIA",
+      "filename": "TASMANIA.md",
+      "start_line": 22327,
+      "end_line": 22802,
+      "line_count": 476,
+      "is_appendix": false,
+      "correction_note": "NEW: Missing from original parse (no standard header)"
+    },
+    {
+      "name": "TRINIDAD AND TOBAGO",
+      "filename": "TRINIDAD_AND_TOBAGO.md",
+      "start_line": 22803,
+      "end_line": 23886,
+      "line_count": 1084,
+      "is_appendix": false
+    },
+    {
+      "name": "TURKS AND CAICOS ISLANDS",
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md",
+      "start_line": 23887,
+      "end_line": 24125,
+      "line_count": 239,
+      "is_appendix": false
+    },
+    {
+      "name": "VICTORIA",
+      "filename": "VICTORIA.md",
+      "start_line": 24126,
+      "end_line": 25540,
+      "line_count": 1415,
+      "is_appendix": false
+    },
+    {
+      "name": "WESTERN AUSTRALIA",
+      "filename": "WESTERN_AUSTRALIA.md",
+      "start_line": 25541,
+      "end_line": 26152,
+      "line_count": 612,
+      "is_appendix": false
+    },
+    {
+      "name": "THE WINDWARD ISLANDS",
+      "filename": "THE_WINDWARD_ISLANDS.md",
+      "start_line": 26153,
+      "end_line": 27392,
+      "line_count": 1240,
+      "is_appendix": false
+    },
+    {
+      "name": "ZULULAND",
+      "filename": "ZULULAND.md",
+      "start_line": 27393,
+      "end_line": 27493,
+      "line_count": 101,
+      "is_appendix": false
+    }
+  ]
+}

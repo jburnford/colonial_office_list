@@ -41,9 +41,9 @@
 ---
 
 ## YEAR: 1890
-**Status:** 🔍 IN PROGRESS
+**Status:** ✅ COMPLETED
 **Priority:** CRITICAL
-**Issues:** 2 overlapping colonies
+**Issues:** 2 overlapping colonies + 1 missing colony
 
 ### Issue 1: MAURITIUS contains NATAL
 
@@ -61,12 +61,29 @@
 2. Find where NATAL actually begins
 3. Verify no content is lost between them
 
-**Findings:**
-[To be filled after manual analysis]
+**Findings - VERIFIED:**
+
+✅ **MAURITIUS:**
+- **Correct start:** Line 15414 ("MAURITIUS.")
+- **Correct end:** Line 16422 (blank line after "Foreign Consuls (in Mauritius)")
+- **Last content:** Lines 16406-16421 = Foreign Consuls list
+- **Verified range:** 15414-16422 (1009 lines)
+
+✅ **NATAL:**
+- **Correct start:** Line 16423 ("NATAL.")
+- **Correct end:** Line 17069 (blank line before NEWFOUNDLAND)
+- **First section:** "Situation and Area" (line 16425)
+- **Verified range:** 16423-17069 (647 lines)
+
+**✅ NO DATA LOSS:** Line 16422 is blank, perfect boundary between colonies.
+
+**Action Required:**
+1. Truncate existing MAURITIUS file to 1009 lines (remove 647 lines of NATAL content)
+2. NATAL file is already correct (16423-17069)
 
 ---
 
-### Issue 2: SOUTH AUSTRALIA contains STRAITS SETTLEMENTS
+### Issue 2: SOUTH AUSTRALIA contains STRAITS SETTLEMENTS + Missing TASMANIA
 
 **Original Metadata:**
 - SOUTH AUSTRALIA: lines 20508-22802 (2295 lines)
@@ -80,8 +97,52 @@
 2. Find where STRAITS SETTLEMENTS actually begins
 3. Verify no content is lost
 
-**Findings:**
-[To be filled after manual analysis]
+**Findings - VERIFIED:**
+
+✅ **SOUTH AUSTRALIA:**
+- **Correct start:** Line 20508 ("SOUTH AUSTRALIA.")
+- **Correct end:** Line 21538 (blank line before "STRAITS SETTLEMENTS.")
+- **Last content:** Lines 21521-21537 = Foreign Consuls
+- **Verified range:** 20508-21538 (1031 lines)
+
+✅ **STRAITS SETTLEMENTS:**
+- **Correct start:** Line 21539 ("STRAITS SETTLEMENTS.")
+- **Contains subsection:** "SINGAPORE." at line 21805 (NOT a separate colony)
+- **Last content:** Line 22326 ("There are no export duties. The total Customs revenue in 1888 was 297,912l.")
+- **Verified range:** 21539-22326 (788 lines)
+
+🚨 **TASMANIA (NEWLY DISCOVERED - MISSING FROM METADATA!):**
+- **NO STANDARD HEADER:** Does not begin with "TASMANIA."
+- **Actual start:** Line 22327 ("Governors of Tasmania since 1804.")
+- **Content verified:** Mentions Hobart, Launceston, "Tasmanian Council", "Tasmanian Government Railways"
+- **Last content:** Line 22802 (blank line before "TRINIDAD AND TOBAGO.")
+- **New colony to extract:** 22327-22802 (476 lines)
+
+**Root Cause:** Tasmania section lacks standard "COLONY_NAME." header. Parser missed it entirely, causing both SOUTH AUSTRALIA and STRAITS SETTLEMENTS to incorrectly extend through Tasmania content.
+
+**Actions Completed:**
+1. ✅ Truncated SOUTH AUSTRALIA to end at line 21538
+2. ✅ Truncated STRAITS SETTLEMENTS to end at line 22326
+3. ✅ Created NEW TASMANIA FILE with lines 22327-22802
+4. ✅ Truncated MAURITIUS to end at line 16422
+5. ✅ Copied 28 unchanged colonies
+6. ✅ Created corrected metadata JSON
+
+**Files Created:**
+- `/home/user/colonial_office_list/output_2/1890_manual_parsed/` (32 colony files)
+- `/home/user/colonial_office_list/output_2/1890_manual_parsed.json` (corrected metadata)
+
+**Validation:**
+- Total colonies: 32 (was 31, added TASMANIA)
+- No overlapping line ranges
+- All boundaries verified manually
+- All extractions validated
+
+**Scripts Created:**
+- `extract_1890_corrected.py` - Extraction script
+- `create_1890_metadata.py` - Metadata generation
+
+**Completion Date:** November 12, 2025
 
 ---
 

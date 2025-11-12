@@ -1,0 +1,558 @@
+BAHAMAS.
+
+Situation and Area.
+
+The Bahamas, the most northerly of the British West Indian Colonies, are a chain of coral islands lying between 21° 42' and 27° 34' N. lat., and 72° 40' and 79° 5' W. long., composed of about 20 inhabited islands, and an immense number of islets and rocks. The principal islands are New Providence (containing the capital, Nassau), Abaco, Harbour Island, Eleuthera, Inagua, Cat Island, Ragged Island, Rum Cay, Exuma, Long Island, Long Cay, the Biminis, and Watling's Island (or San Salvador), all of which are ports of entry; and Great Bahama, Crooked Island, Acklin Island, Mayaguana, the Berry Islands, and Andros Island (containing the only river). The total area is 4,403 square miles, or about half the size of Wales.
+
+History.
+
+San Salvador, so called by Columbus, the native name being Guanahani, one of the islands composing this chain, and identical with Watling's Island, was the first land discovered by him on his voyage in 1492. A few years later all the Carib inhabitants were transported to work in the Cuba mines. It does not appear that the Spaniards had any settlements on any of the islands of this group at any time. Early in the 17th century the islands were well known to the settlers of Bermuda and the Carolinas. They were included in the Royal Grant of Sir Robert Heath, the Attorney-General of England, of the 30th of October, 1629. By 1640 the islands had become a well-known place of resort by the inhabitants of Bermuda, and on the 9th of July, 1647, The Company of Eleutherian Adventurers was formed in London for the purpose of making an organised attempt at a systematic colonization and development of the islands. William Sayle, a former Governor of Bermuda, was the moving spirit of this venture, and associated with him were a number of influential city merchants and Members of Parliament. On the 31st of August, 1649, Parliament, on the petition of Sayle and others, passed "An Act for the Adventurers for the Eleutherian Islands," which constituted Sayle and his associates the Proprietors of the Islands. Notwithstanding the Royal Grant to Heath in 1629 and the Cromwellian Act of 1649, Charles the Second, on the 1st of November, 1670, granted the Islands to Six of the Lords Proprietors of Carolina, namely, the Duke of Albemarle, the Earl of Craven, Lord Berkley, Lord Ashley, Sir George Carteret and Sir Peter Colleton. Before the Royal Grant of 1670 the inhabitants of the islands had organised the Settlement and instituted a form of Government which included an elective House of Assembly, and had selected Captain John Wentworth as their Governor. Wentworth applied to and received Commissions from the Governors of Jamaica. The Lords Proprietors appointed Hugh Wentworth as their first Governor on 24th April, 1671, but he did not take up the appointment. They then confirmed in office John Wentworth, the popularly elected Governor, on the 26th of December, 1671. A regular system of government was established including a Parliament, the Lower House of which was elective, and this was continued with several breaks until the Civil and Military Government of the Islands was resumed by the Crown on the surrender of their rights by the Lords Proprietors on the 28th October, 1717. Thirteen Proprietary Governors were appointed between 1671 and 1715. The Settlement on New Providence was sacked by the Spaniards on several occasions between 1680 and 1684. In 1684 nearly all the inhabitants were driven away, and it was not until 1688 that the Settlement was re-formed by their return, principally from Jamaica, under the leadership of Thomas Bridges. Bridges was recognised as Governor by the Lords Proprietors on the 12th July, 1688, and the Settlement had reached some importance when it was practically annihilated by the French and Spaniards in 1703. However, a year or so after this the dispersed inhabitants returned to New Providence and another Proprietary Governor was appointed in 1707. But the Islands became a regular rendezvous for pirates, and this finally determined the Crown to resume the Civil and Military Government of the place, and thus accede to the numerous petitions which the inhabitants had been making for several years and also carry out the express wishes of Parliament. Since 1717 there has been a continuous line of Royal Governors. The Islands were surrendered to a Fleet of the American rebels in 1776, and again to the Spaniards in 1781, but they had been re-taken by a British force under Colonel Deveaux before the conclusion of the war, which was brought to an end by the Peace of Versailles, 1783, when the British possession was confirmed. After the American Revolution a number of Loyalists settled throughout the Bahamas Group and received substantial assistance from England, and on the 19th of March, 1787, the Lords Proprietors surrendered all their proprietary rights to the King for the sum of 12,000£., which was provided by Parliament.
+
+The Turks and Caicos Islands, which geographically form part of the Bahamas chain, and which had often in their early history been claimed both by Bermuda and the Bahamas, were separated from the other Bahamas in 1848, and formed into a distinct Presidency, under the government-in-chief of the Governor of Jamaica.
+
+Climate and Inhabitants.
+
+The climate is salubrious and very pleasant in the winter season, and the Colony has in recent years been much frequented by visitors from the United States and Canada, there being excellent hotels and other accommodation for tourists. The cost of living is very high; houses are difficult to obtain and rentals are high. The average annual rainfall for the past 19 years was 46 inches, the rainy season extending from June
+to October. From November to May the temperature averages 70° Fahrenheit, there is little rain, and cool breezes prevail. The lowest recorded temperature (in January, 1905) is 51.5°. In the summer month temperatures as high as 92° have been recorded. Three severe hurricanes passed over the Bahamas in 1926, on 26th July, 17th September and 20th October, causing loss of life and great destruction to property and shipping.
+
+The majority of the inhabitants are of the negro race. About one-sixth are of European descent. English is universally spoken.
+
+Trade and Industry.
+
+The commercial relations of the Colony are mainly with the United States. Considerable quantities of pine-apples (canned), sponges, sisal and tomatoes are exported. In 1925 the principal exports were:—Sisal, 5,167,880 lbs., value £262,419.; sponges, 1,655,248 lbs., value £149,820.; lumber, 11,349,000 feet, value £61,576.; pineapples, value £96L.; shell, value £23,768.; tomatoes, 57,000 bushels, value £16,710.; bark, value £4,623.; salt, 36,000 bushels, value £478.
+
+The cultivation and preparation of the sisal fibre plant is an important industry. The estimated area planted at the end of 1926 was over 16,445 acres.
+
+Fishing is extensively carried on for the Nassau market, about 60 native-built boats, with 250 men, being employed. Turtle-shell, shells and pearls are largely exported. Sponge-fishing employs a large fleet. The approximate number of vessels engaged in the industry is 476—aggregate tonnage 4,515—with 2,760 open boats, and a large number of long shore open boats; men and boys employed, 5,000.
+
+Nassau is a port of registry, and had, on the 31st December, 1925, 232 vessels of 10,916 tons.
+
+Principal imports during 1926: foodstuffs, £76,318.; malt, £9,334.; spirits and wines, £88,111.; tobacco, cigars and cigarettes, £22,133.
+
+Lighthouses on several of the islands have been established, and are maintained by the Imperial Government. Several lights are also maintained by the local government.
+
+Currency and Banking.
+
+The legal tender currency is British sterling, and United States current coin*. Accounts are kept in sterling. There is a branch bank of the Royal Bank of Canada with deposits amounting to £722,782. A Post Office Savings Bank was established in January, 1886, and had, on 30th June, 1925, £2,585. deposited.
+
+Means of Communication.
+
+There are no railways or telegraphs in the Colony, and but few good roads except in New Providence.
+
+There are no direct passenger steamers between England and the Bahamas. The cheapest route is via Jamaica, by Elder and Fyffes line from Avonmouth to Kingston (14 days) and by the small steamers of the Canadian; Government Merchant Marine from Kingston to Nassau (3 days). The quickest route is via New York, the journey from New York to Nassau taking only three days by the steamers of the Munson Line, which leave New York weekly in winter and fortnightly in summer.
+
+The cargo steamers of the Frederick Leyland Co. (Liverpool) and Thomas and James Harrison Co. (Liverpool) lines leave every four weeks from Liverpool and Glasgow, proceeding to Bahamas via Bermuda. The cargo steamers of the Royal Mail Steam Packet Company sail for the Bahamas from London every three weeks.
+
+There is also a regular contract Mail, Passenger and Freight Service during the winter months, from January to April, between Nassau and Miami, Florida. These vessels make two voyages a week in January and April, and three voyages a week in February and March.
+
+Besides this Service there are motor boats plying almost daily between the ports of Miami and Nassau.
+
+Till February, 1892, the nearest point in telegraphic communication with Europe was Key West, but in that month a cable from Nassau to Florida was completed. The cable is not however at present in working order. Wireless stations have been installed at Nassau (New Providence), Harbour Island, Governor's Harbour (Eleuthera), Grand Bahama, Norman's Castle and Hope Town (Abaco), Inagua, Bimini and Long Island, Marsh Harbour (Abaco), San Salvador or Watling's The Bight (Cat Island).
+
+Postal rates are as follows:—
+
+| Letters. | Newspapers. |
+|----------|------------|
+| Internal | 1d. per 2 oz. | 1d. per 4 oz. |
+| U.K., and the Empire | 1d. per oz. | ½d. per 2 oz. |
+| U.S. America | 1d. per 2 oz. | — |
+| Other Foreign Postal Union | 2½d. per oz. & 1½d. for each successive unit | ½d. per 2 oz. |
+
+A parcels post with the United Kingdom (1s. 6d., 4s. and 6s.) and the United States (6d. a lb.) has been established, also money order agreements with the United States and Canada.
+
+Constitution.
+
+The Executive Government is conducted, under Letters Patent, by the Governor, aided by an Executive Council not exceeding 9 members. The Legislative authority resides in the Governor, a Legislative Council, nominated by the Crown, and a Representative Assembly of 29 members, elected for 15 districts. An elector must be of full age, and either the owner for 12 months of land of the value of £5 or a house-holder of premises value £2. 8s. in New Providence, or £2. 4s. elsewhere, for six months. The qualification of Members is possession of an estate of real or personal property of the value of 200l. The Executive Council is composed partly of official and partly of unofficial Members who have a seat in one of the branches of the Legislature. In the absence of the Governor the Senior Member of the Executive Council administers the Government.
+
+Education.
+
+There is a Government system of elementary education, established in 1847, and modified by laws of 1864, 1875, 1885, and Consolidating Act of 1908. The central control is in a Board of Education nominated by the Governor. Local Committees, partly elected, exercise local supervision only.
+
+There are 52 unsectarian Government schools, with 9,355 scholars; 54 aided schools, with 4,049 scholars; 5 Church of England and 8 private schools, with 257 Church of England and 213 private scholars; 9 Roman Catholic schools, with 484 scholars; 2 Wesleyan Methodist schools, with 93 scholars; 5 Secondary Schools, with 325 scholars.
+BAHAMAS
+
+scholars. The Government schools were made free in 1886. The compulsory clauses of the law are enforced only in Nassau and the larger villages. Higher education is provided at the Queen's College, St. Hilda's School, Government High School, and Diocesan Western School, all in Nassau.
+
+**FINANCES.**
+
+| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |
+|------|---------|-------------|-----------------|---------------|
+|      | £       | £           |                 |               |
+| 1916-17 | 90,472  | 97,213      | 35,987          | 750,573       |
+| 1917-18 | 86,767  | 105,254     | 44,984          | 553,667       |
+| 1918-19 | 81,048  | 98,826      | 5,407           | 203,955       |
+| 1919-20 | 204,296 | 108,939     | 33,098          | 159,320       |
+| 1920-21 | 254,019 | 269,495     | 55,347          | 307,484       |
+| 1921-22 | 470,987 | 267,402     | 221,342         | 649,652       |
+| 1922-23 | 852,573 | 377,164     | 453,362         | 1,439,956     |
+| 1923-24 | 553,376 | 452,044     | 468,131         | 1,201,822     |
+| 1924-25 | 414,314 | 425,070     | 504,888         | 1,253,317     |
+| 1925-26 | 506,027 | 378,812     | 576,255         | 1,284,219     |
+
+**SHIPPING ENTERED AND CLEARED.**
+
+| Year | From U.K. | From Colonies | Elsewhere | Total |
+|------|-----------|---------------|-----------|-------|
+|      | £         | £             | £         | £     |
+| 1916 | 54,836    | 20,954        | 399,277   | 475,067|
+| 1917 | 32,857    | 30,688        | 419,869   | 483,534|
+| 1918 | 19,575    | 44,252        | 303,353   | 367,180|
+| 1919 | 34,179    | 66,092        | 438,971   | 539,242|
+| 1920 | 228,649   | 93,602        | 768,066   | 1,090,217|
+| 1921 | 408,745   | 59,671        | 627,583   | 1,095,999|
+| 1922 | 672,785   | 63,651        | 1,226,716 | 1,963,152|
+| 1923 | 758,041   | 189,095       | 1,173,009 | 2,120,136|
+| 1924 | 507,459   | 204,513       | 841,172   | 1,553,144|
+| 1925 | 560,794   | 271,787       | 928,406   | 1,760,987|
+
+**EXPORTS OF COLONIAL PRODUCTS.**
+
+| Year | To U.K. | To Colonies | Elsewhere | Total |
+|------|---------|-------------|-----------|-------|
+|      | £       | £           | £         | £     |
+| 1916 | 41,944  | 6,459       | 284,276   | 332,679|
+| 1917 | 47,796  | 12,671      | 339,685   | 400,152|
+| 1918 | 17,378  | 6,813       | 253,980   | 278,171|
+| 1919 | 62,771  | 4,009       | 289,869   | 357,149|
+| 1920 | 39,741  | 11,693      | 222,181   | 273,615|
+| 1921 | 34,809  | 79,493      | 263,868   | 378,170|
+| 1922 | 35,021  | 193,120     | 1,599,594 | 1,827,735|
+| 1923 | 29,908  | 8,891       | 206,708   | 245,507|
+| 1924 | 58,677  | 24,726      | 542,921   | 626,324|
+| 1925 | 55,434  | 16,154      | 409,764   | 481,352|
+
+The total customs revenue in 1922-23 was 797,260L.; 1924-25, 304,993L.; 1925-26, 368,026L.
+
+Public Debt, 31st March, 1926, 151,123L.
+
+Population.
+
+53,735 (census 1901), 55,944 (census 1911), and 55,481 (census 1921). Estimated population Jan., 1926—56,854. The island of New Providence contains 12,975 inhabitants according to census of 1921.
+
+List of Governors since 1880.
+
+Sir C. C. Leea, K.C.M.G. ... 1882
+Sir H. A. Blake, C.M.G. ... 1884
+Sir A. Shea, K.C.M.G. ... 1887
+Sir W. F. Haynes Smith, K.C.M.G. ... 1896
+Sir G. T. Carter, K.C.M.G. ... 1898
+Sir W. Grey-Wilson, K.C.M.G. ... 1904
+Sir G. B. Haddon-Smith, K.C.M.G. ... 1912
+Sir W. L. Allardyce, K.C.M.G. ... 1914
+Maj. Sir H. E. S. Cordeloux, K.C.M.G., C.B. ... 1920
+Major C. W. J. Orr, C.M.G. ... 1926
+
+* The Revenue and Expenditure are made up for the financial year ending 31st March.
+
+Executive Council.
+
+The Colonial Secretary. G. H. Gamblin.
+The Attorney-General. G. H. Johnson.
+The Receiver-General. J. R. C. Young.
+W. K. Moore.
+A. K. Solomon, K.C.
+
+Clerk, Miss May Holden.
+
+Legislative Council.
+
+G. H. Gamblin, President, 150L.
+W. Miller, I.S.O. A. H. B. Pearce.
+J. H. Brown. N. B. Burnside, I.S.O.
+H. W. Lightbourn. C. O. Anderson.
+P. W. D. Armbrister. H. C. F. Cox.
+
+Clerk, E. C. Moseley, 120L.
+
+House of Assembly (29 Members).
+
+Elected May and June, 1925.
+
+Speaker, Harcourt Malcolm, O.B.E., K.C., 240L.
+Deputy Speaker, W. C. B. Johnston, 150L.
+
+Abaco J. R. C. Young.
+F. Duncombe.
+B. R. Russell.
+R. H. Curry.
+W. P. Adderley.
+
+Andros J. E. B. Williams.
+Crooked Island R. W. Sawyer.
+Eleuthera O. H. Curry.
+A. H. Pritchard.
+Exuma R. J. Bowe.
+E. Solomon.
+Grand Bahama W. K. Moore.
+W. C. B. Johnson.
+Harbour Island R. T. Symonette.
+G. H. Johnson.
+Inagua A. E. J. Dupuch.
+Long Island L. C. Brice.
+New Providence: E. D. Knowles.
+City Harcourt Malcolm, O. B. E., K. C.
+C. C. Sweeting.
+South A. K. Solomon, K.C.
+S. C. McPherson.
+East L. W. Young.
+West W. G. Cash.
+C. E. Bethell.
+A. C. Burns.
+San Salvador G. W. Armbrister.
+Thaddeus Toote.
+Watling's and Rum Cay T. A. Toote.
+
+Chief Clerk, K. Maclure, 200L.
+
+Second Clerk and Serjeant-at-Arms, J. Smith, 150L.
+
+A General Election was held in May and June, 1925.
+
+Governor's Office.
+
+Governor, 2,650L., Major C. W. J. Orr, C.M.G.
+Private Secretary and Clerk Executive Council 300L., Miss May Holden.
+
+Secretariat.
+
+Colonial Secretary, 1,500L. A. C. Burns.
+Clerk, Grade I., 360L.-16L.-420L., C. P. Bethel (500L.).
+Clerk, Grade III., 240L.-12L.-300L., Miss S. Burnside, 240L.
+Clerk, Grade V., 170L.-8L.-200L., J. W. Culmer (170L.)
+Cadets, 134L.-6L.-150L., B. C. Roberts (acting) (138L.); W. K. Johnson (acting) (138L.)
+Messenger, 120L., J. Ceruti (acting).
+
+Judicial Department.
+
+Chief Justice, 1,250L., E. R. Logan.
+Provost-Marshal, The Commandant of Police.
+Bailiff, Crier, Usher and Messenger, 170L.-8L.-200L., J. F. Greenidge (170L.).
+Marshal Admiralty Side, Supreme Court, G. Roberts.
+Attorney-General, 1,000l., H. C. F. Cox.
+Clerk, 170l.-8l.-200l., Miss H. Turtle (178l.).
+Stipendiary and Circuit Magistrate, 600l., S. H. Greville-Smith.
+Clerk, Magistrate's Court, 200l.-10l.-240l., J. F. Greenidge (200l.).
+Coroner, 100l., S. H. Greville-Smith.
+
+Registrar General's Department.
+Registrar General, 500l., R. de Glanville.
+Assistant Registrar General, 360l.-16l.-420l., R. K. Duncombe (478l.).
+Clerk, Grade III., 240l.-12l.-300l., Miss I. Butler (240l.).
+Clerk, Grade V., 170l.-8l.-200l., Miss E. S. Clarke (170l.).
+Receiver General and Treasurer's Department.
+Receiver-General and Treasurer, 650l.
+Clerk, Grade II., 300l.-14l.-360l., O. H. Mason (acting) (328l.).
+Clerk, Grade III., 240l.-12l.-300l., R. J. Harris (acting) (290l.).
+Messenger, 100l., H. Stevens (acting).
+
+Customs Department.
+Comptroller of Customs, 500l., J. H. Peet.
+Assistant Comptroller and Examining Officer, 360l.-16l.-420l., A. K. Cole (376l.).
+Clerk, Grade II., S. A. Eldon (360l.).
+Clerk, Grade III., 240l.-12l.-300l., H. D. Bascombe (264l.).
+Clerk, Grade IV., 200l.-10l.-240l., Miss M. C. Malcolm (210l.).
+Harbour Master and Port Officer, 300l.-14l.-360l., G. C. Roberts (314l.).
+Two Tidewaiters, 200l.-10l.-240l. each, S. Wallace (210l.); B. W. Haxton (210l.).
+Three Tidewaiters, 170l.-8l.-200l. each, F. C. C. Lightbourn (194l.); J. H. Wallace (194l.); H. Pyfrom (170l.).
+Collector of Revenue, West End, Grand Bahama, 240l.-12l.-300l., F. H. S. Bowe (264l.).
+Collector of Revenue, Green Turtle Cay, Abaco, 100l., L. E. Pinder.
+
+Audit Department.
+Auditor of Public Accounts, 500l., W. H. Bethell.
+Clerk, Grade II., 300l.-14l.-360l., J. L. Lightbourn (300l.).
+Clerk, Grade III., 240l.-12l.-300l., E. H. Stuart (252l.).
+Clerk, Grade IV., 200l.-10l.-240l., E. H. Bowen (200l.).
+Clerk, Grade V., 170l.-8l.-200l., O. G. E. Ingraham (170l.).
+
+Medical Department.
+Chief Medical Officer, 480l., A. H. B. Pearce.
+Resident Surgeon, 650l., J. J. Culmer.
+Colonial Surgeon, 300l., H. M. Hare.
+Medical Officers, Out Islands, 450l. each, A. T. W. Johnson (Harbour Island), E. S. Greaves (San Salvador), W. J. Miller (Bimini) (acting), W. A. Foulkes (Inagua) (acting).
+Bacteriologist, 600l., A. V. Greaves.
+Sanitary Inspector, 240l.-12l.-300l., A. Sweeting, (264l.)
+Quarantine Officer, 85l., M. H. Hall.
+Superintendent, 360l.-16l.-420l., S. V. S. Albury (376l.), personal allowance, 60l.
+Matron, 300l.-14l.-360l., Miss A. M. Blake.
+Sisters, 240l.-12l.-300l., Miss E. J. Strickland, Miss G. A. Wharton, Miss K. Toft, Miss C. A. Wyeth.
+Dispenser, 300l.-14l.-360l., F. A. Burnside (364l.-14l.-410l.) and personal allowance, 40l.
+Relieving Officer, 240l.-12l.-300l., C. H. Reeves (252l.).
+Chaplain, 100l., Rev. W. H. Richards.
+
+Post Office Department.
+Postmaster, C. O. Anderson (500l.), and personal allowance, 100l.
+Assistant Postmaster, 300l.-16l.-420l., Miss E. M. Johnson.
+Clerk, Grade II., 300l.-14l.-360l., C. W. O. Prudden (300l.).
+Clerk, Grade III., 240l.-12l.-300l., A. E. Eldon (240l.).
+Clerk, Grade IV., 200l.-10l.-240l., C. A. Bowen (200l.).
+Clerk, Grade V., 170l.-8l.-200l., Miss M. I. Anderson (170l.).
+Three Clerks, Grade VI., 138l.-6l.-150l. each, Miss M. V. Dupuoh (138l.).
+
+Police Department.
+Commandant, 500l., C. J. Whebell.
+Assistant Commandant, 360l.-16l.-420l. (vacant).
+Medical Officer, the Colonial Surgeon.
+Sergeant-Major, 240l.-12l.-300l., A. Ferguson (240l.).
+Mechanical Engineer, 400l., R. Lotmore.
+
+Nassau Prison.
+Inspector, the Commandant of Police.
+Gaoler, 240l.-12l.-300l., A. S. Clarke (264l.) and a personal allowance of 50l.
+Chaplain, 75l., Rev. H. George.
+
+Civil Engineer's Department.
+Civil Engineer, 700l., G. M. Gordon.
+Deputy Civil Engineer, 450l., F. C. Van Zeylen.
+Assistant to Civil Engineer, 450l. (vacant).
+Assistant to Civil Engineer, 300l.-14l.-360l., J. D. Weir (314l.), personal allowance, 60l.
+Clerk, Grade III., 240l.-12l.-300l., Y. Clare (384l.).
+Clerk, Grade V., 170l.-8l.-200l., F. A. S. Taylor, (178l.).
+
+Public Works Department.
+Clerk, Boards of Works and Health, 170l.-8l.-200l., Miss H. Moore (170l.).
+Superintendent of Roads, 240l.-12l.-300l., R. N. A. Burnside (300l.).
+Clerk, Nassau Market, 240l.-12l.-300l., F. R. Burnside (252l.).
+
+Lighthouse Department.
+Keeper, Hog Island Lighthouse, 180l., J. Drudge.
+Assistant Keeper, Hog Island Lighthouse, 120l., E. I. Hall.
+
+Educational Department.
+Inspector and General Superintendent, 450l., W. G. Albury, personal allowance, 60l.
+Secretary, 240l.-12l.-300l., T. E. H. Fisher (264l.).
+Constable, 138l.-6l.-150l., T. W. Turnquest (144l.).
+
+Telegraph Department.
+Superintendent, P. H. Burns, 500l., personal salary, 730l.
+Clerk, Grade III., 240l.-12l.-300l., Miss E. Farrington (252l.).
+Telegraphist, Grade I., 360l.-16l.-420l., D. Salter (408l.).
+Two Telegraphists, Grade II., 340l.-14l.-360l., H. W. Brown (300l.); J. A. Stuart (300l.).
+Two Telegraphists, Grade III., 240l.-12l.-300l., R. H. Sands (252l.); E. H. McKinney (240l.).
+Nine Telegraphists, Grade V., 170l.-8l.-200l., L. G. Bethel (178l.); R. S. Bowe (178l.); S. Symonette (178l.); K. Roberts (178l.); K. Ingraham (178l.); P. Albury (178l.); J. L. Saunders (170l.); R. G. Sands (170l.); M. Russell (170l.).
+
+Telephones.
+Four Operators, 170l.-8l.-200l. each, Miss G. de Glanville (178l.), and personal allowance 20l.; Miss K. Bannister (178l.); Miss L. Bode (178l.); Miss E. Macaire (170l.).
+Four Operators, 138l.-6l.-150l., each, Miss E. Bode (138l.); Miss S. Bode (138l.); Miss E. M. Smith (138l.); Miss M. Roberts (138l.).
+
+Linesman, 138l.-6l.-150l. (vacant).
+
+Electrical Department.
+
+Director, 800l.
+Superintendent and Chief Engineer, 500l., E. L. Moore.
+Clerk, Grade III., 240l.-12l.-300l., N. E. Lighthourn (264l.).
+Engineer, Grade I., 360l.-16l.-420l., J. H. Knowles (376l.).
+Two Engineers, Grade II., 300l.-14l.-360l. each, G. Pearce (360l.); F. R. Moultrie (360l.).
+Linesman, 240l.-12l.-300l. (vacant).
+
+Out-Island Commissioners.
+
+Five Commissioners, Grade I., 360l.-16l.-420l. each (e), G. A. Albury (Seconded as Sinal Inspector, Nassau) (a) (416l.); E. H. McKinney (Abaco, Hope Town) (b) (450l.); D. O. Johnson (Harbour Island) (a) (416l.); A. S. M. O'Brien (Andros, Fresh Creek) (c) (396l.).
+Five Commissioners, Grade II., 300l.-14l.-360l. each (e), W. T. Cleare (Governor's Harbour) (d), J. S. Culmer (Rock Sound) (314l.); H. N. Burnside (Inagua) (314l.); H. F. Pickwoad (Long Cay F.I.) (314l.).
+Five Commissioners, Grade III., 240l.-12l.-300l. each (e), J. J. Albury (Long Island), (264l.); H. F. Duncombe (Bimini) (252l.); F. A. C. Duncombe (Arthur's Town, Cat Island) (252l.); T. E. Greenslade (Run Cay) (252l.); W. G. Roberts (Nicol's Town, Andros) (240l.).
+Six Commissioners, Grade IV., 200l.-10l.-240l. each (e), W. B. Cooper (Rugged Island) (f) (250l.); L. E. W. Forsyth (acting, Andros, Mangrove Cay) (210l.); H. A. Bartlett, San Salvador (Waiting's Island) (200l.); R. N. Thompson (Grand Bahama) (200l.); N. Dorsett (Bight, Cat Island) (200l.); J. V. Malone (acting) (Simms, Long Island) (200l.)
+
+Surveyor-General's Office.
+
+Surveyor General, 500l., William Miller.
+Deputy Surveyor, 450l., William N. Aranha.
+Clerk, Grade IV (200l.), Geo. E. Johssoon.
+Clerk, Grade VI (138l.), Mac. K. Johnson.
+
+Imperial Lighthouse Service.
+
+Inspector of Lighthouses, Capt. G. E. Corbett, C.B.E., R.N. (from the General Lighthouse Fund).
+Store Officer, Kenneth Macle.
+Chief Officer of Tender, E. J. V. Armaden.
+Chief Engineer, Ditto, G. W. Oliver (maintained out of General Lighthouse Fund).
+
+Foreign Consuls.
+
+United States of America, H. J. Anslinger, Consul; Wm. A. Smale, Vice-Consul.
+Germany,
+France, C. F. Solomon, Consular Agent.
+Norway, R. H. Curry
+Sweden, A. S. Sweeting.
+Hayti, A. L. Symmonette (resident at Inagua).
+Cuba, C. R. A. Menendez.
+Lloyd's Agent, R. H. Curry & Co.
+
+(a) Personal Salary 4l.-0l.-16l.-420l.
+(b) Personal Salary 450l.-16l.-470l.
+(c) Personal Salary 390l.-16l.-420l.
+(d) Personal Salary 350l.
+(e) Quarters.
+(f) In a Commissioner Teacher. Draws 130l. as Teacher and 120l. as Commissioner.
+
+BARBADOS.*
+
+Situation and Area.
+
+Barbados is situated in latitude 13° 4' North and longitude 59° 37' West, and is the most easterly of the Caribbee Islands. It is nearly 21 miles long by 14 in breadth, and contains an area of 106,470 acres, or about 166 square miles, somewhat larger than the Isle of Wight.
+
+History.
+
+The exact date of the discovery of Barbados is not known. It is said to have been first visited by the Portuguese, who, finding it uninhabited and rude in appearance, named the isle Los Barbados, from the number of bearded fig-trees which they found. It was nominally taken possession of by the English ship Olive Blossom in 1606, when it was almost uninhabited. In 1625 or 1627 (the exact date is uncertain), Sir William Courteen, a London merchant, under the protection of the Earl of Marlborough, who held a grant of the island from James I., fitted out two large ships, only one of which arrived at Barbados, and the party, which consisted of some thirty persons, landed on the leeward side of the island, formed a town called James' (or Hole) Town, and appointed Captain William Deane their Governor. In 1627 the Earl of Carlisle obtained a grant from Charles I. of all the Caribbee Islands. This grant was opposed by the former patentee, Lord Marlborough, but the matter was compromised on the Earl of Carlisle agreeing to settle on the Earl of Marlborough an annuity of 300l. Soon after this the Earl of Carlisle being employed on a diplomatic mission, the Earl of Pembroke, then Lord Chamberlain, obtained a revocation of the former nobleman's patent in his favour and supported Sir W. Courteen; but on the Earl of Carlisle's return from his embassy, he remonstrated with the king, who reinstated him in possession of the territory. Wolfestone, a native of Bermuda, was then commissioned by the Earl of Carlisle as Governor, and in 1628 sixty-four settlers arrived in Carlisle Bay, commenced the erection of wooden houses, threw a bridge across the river which intersected the ground, and laid the foundation of Bridgetown, the present capital. The Lee-ward and Windward men opposed each other, the latter ultimately triumphing. The civil war which raged in England contributed to people and enrich the island; and on the downfall of Charles, many families attached to the Royal cause found shelter in Barbados. The island was afterwards governed by Lord Willoughby, a Royalist, to whom it was conveyed by Lord Carlisle (son of the first patentee); but when the island was subdued by the Commonwealth he was banished. In 1662, after the Restoration, Lord Willoughby renewed his claim, and the kinsmen and heirs of the two earls brought forward demands on the settlers. To satisfy these claims, a duty of 4½ per cent. on all exports was imposed; and under certain conditions the proprietary government was dissolved and the sovereignty of Barbados annexed to the British Crown. The inhabitants long protested against the imposition of the 4½ per cent. duties, but without success; and it was not till 1838, four years after the abolition of slavery, that the tax was abolished by an Act of Parliament.
+
+Barbados has not, like most of the neighbouring islands, changed owners; it has always remained in possession of Great Britain.
+
+* See under Windward Islands for general map of the West Indies.
+General Description.
+
+Bridgetown, the chief town and port, is situated in the parish of St. Michael, in latitude 13° 5' 42" North, and longitude 3° 58' 29" West. This town contains, according to the census of 1921, 13,486 inhabitants. Speightstown, the only other town, has about 1,500 inhabitants.
+
+Carlisle Bay, the harbour of Barbados, is an open roadstead, much exposed to the wind from the south and south-west. There is an inner harbour or carenage, protected by a structure called the Mole Head. It is a port of registry, and had registered, on 31st December, 1925, 35 vessels, of a total net tonnage of 6,624 tons.
+
+The island is almost encircled by coral reefs, which in some parts, as off the parish of St. Phillip, extend nearly 3 miles to seaward, and prove very dangerous to navigation.
+
+A geological map, with explanatory memoir of the island, was published in 1891 by Messrs. J. B. Harrison and A. J. Jukes Browne, which shows that that area of the island called the Scotland district, which is the part enclosed by a semi-circular sweep of the ridge in the north-east, is composed of sandstones, clays, and infusorial earths, the products of which may be in future a valuable source of revenue to the island; already excellent fire-bricks are made near the end of the railway.
+
+In Schomburgk's history of Barbados there is a short reference to the deposit of asphaltum found in the island, and Messrs. A. J. Jukes Browne and J. B. Harrison casually mention it as occurring occasionally in small quantities, which planters have attempted to burn under their sugar boilers, but not with sufficient success to lead to its general use. In 1895 an American named Julius Pinney suggested to Mr. Walter Merivale, M.I.C.E., late managing director of the Barbados Railway, the possibility of mining it for commercial purposes.
+
+A mine was opened by Mr. Merivale on the College Estate in January, 1896, from which about 500 tons of the purest asphaltum were extracted during the year 1898. Other mines have since been opened, and in 1925 the total amount of manjak exported from the island was about 30,13 tons, of the value of 1,011£., prices averaging about 33£. a ton.
+
+Much of the geological information concerning the coral area was obtained from borings, &c., made by the Barbados Water Supply Company, whose operations were undertaken with a view to supply the rural population of the different parishes with water up to a height of 750 feet above sea-level. The town of Bridgetown was supplied for many years with an adequate supply of good water by the Bridgetown Water Works Company.
+
+Both companies have been bought up by the Government, and the works have now been extended to all the parishes of the island.
+
+Traces of oil have been discovered in certain districts and experimental borings are being carried out by the British Union Oil Company, Ltd., which has also established an oil depot and bunkering station for ships in Carlisle Bay.
+
+Owing to the steady Easterly Trade winds, which blow almost continuously from December to June, the climate is bracing and the heat is never oppressive. During the remainder of the year, the wet season of the Island, the heat is seldom excessive, although the absence of the Trade Winds render the climate less invigorating. The average temperature is 79°8', and rainfall 61 inches.
+
+The Island is largely visited as a Health resort by residents of neighbouring West Indian Colonies and British Guiana. It is, to a considerable extent also utilised as a winter resort by visitors from temperate climates. Generally the Island is extremely healthy; it possesses the unique advantage in the West Indies of being completely free from malaria, the Anopheles mosquito being unknown.
+
+Industry.
+
+The chief articles planted for exportation for some years after the settlement of the island were indigo, cotton-wool, ginger, and aloes, besides several kinds of woods; and the manufacture of sugar does not appear to have been practised with much success till about the middle of the 17th century, when the cultivation of the sugar-cane increased rapidly, and the plant became, in commercial importance, the island's most valuable production. At that period, too, the introduction of African labour was commenced. The produce exported during the last three years has been as follows:
+
+| Year | Sugar | Molasses |
+|------|-------|----------|
+| 1923 | 49,059 | 5,369,158 |
+| 1924 | 46,800 | 5,987,453 |
+| 1925 | 41,527 | 7,869,275 |
+
+The area under sugar cultivation is estimated at 74,000 acres. In September, 1898, the island, in common with St. Lucia and St. Vincent, suffered severely from the effects of a disastrous hurricane. In 1902-3 there was an epidemic of small-pox, which caused a prolonged quarantine and seriously affected trade. Cotton-growing has been revived, with help from the Colonial Treasury and the British Cotton-growing Association, and under the guidance of the Imperial Department of Agriculture. In 1925, 235,911 lbs., of the estimated value of 22,998£., were exported to the United Kingdom.
+
+Population.
+
+The population of the island in 1851 amounted to 135,939. By the census of 1891 the population was returned at 182,306. By the census of April, 1921, the population was 156,312 the decrease, as compared with the figures for 1891, being attributed to the large numbers of the labouring classes which have from time to time emigrated to Panama in connection with the Canal Works, while many others have gone to Para, Brazil, Cuba, the United States of America and Canada in search of more remunerative employment than what can be obtained locally. English is universally spoken. Labour is cheap, and the productive capacity of the soil has been greatly brought out. The island has the appearance of a well-kept garden.
+
+Currency and Banking.
+
+Accounts are kept in sterling, and British coin is legal tender and the chief medium of circulation. There is no limit to the legal tender of British silver, and there is but little gold in circulation. There are three banks doing business in Barbados, Barclays Bank (Dominion, Colonial and Overseas), capital paid up £4,975,500.; sterling, and the Royal Bank of Canada, with a paid up capital of £5,083,333£., and the Canadian Bank of Commerce with a paid up capital of £4,166,666£. Total number of branches of Barclays Bank throughout West Indies 23, with deposits of about £3,500,000£., and a note circulation (five dollar notes) of £480,000£. In Barbados the estimated circulation is £65,000£. There is a Government savings bank, which had, on 31st December, 1925, 11,612 depositors, and deposits amounting to £304,828£. The total amount at credit of depositors on 31st December, 1925, was £643,013£.
+Internal Communication.
+
+A railway from Bridgetown to the parish of St. Andrew (24 miles as surveyed) was commenced in 1880, and completed on 10th September, 1882. The total cost of construction was £165,284; the receipts for the year 1897 were £5,503, exclusive of Government subsidy of £6,000, and the expenses £5,952. Of the subsidy of £6,000 per annum granted by the Legislature, only a sum of £22,17s. 6d. was paid in 1897, in consequence of the failure of the Company to comply with the provisions of Act 51 of 1896. It belonged to the Barbados Railway Company, Limited, but was on the 15th July, 1898, purchased by the Foreign American and General Trust Co., Limited, for the sum of £50,000. The whole line was reconstructed as the Bridgetown and St. Andrew Railway, Limited (24 miles). The cost of construction to 31st December, 1904, was £39,011; the receipts for 1904 were £5,922.
+
+In 1906 the Company was bought out by the Barbados Light Railway, Limited, and, by a special Act, a subsidy of £2,000 per annum for ten years was granted. In 1916 the Railway was bought by the Government for the sum of £20,000. The amount spent on reconstruction of the railway to the 31st March, 1921, was £50,083.
+
+An elaborate road system exists throughout the Island, 474 miles of road being suitable for use by motor vehicles.
+
+The Barbados Telephone Co., Limited, a private company, contains a total of 1,733 services, with a total length of line in use of about 4,850 miles. There is also a railway telephone line connecting all stations from Bridgetown to St. Andrews, about 24 miles.
+
+Mail Service, Postage, etc.
+
+In consequence of the European War, the contract with the Royal Mail Steam Packet Company, Limited, for a regular fortnightly service from England was abandoned, and the Company have ceased to run their steamers to Barbados.
+
+The steamers arriving direct from England now are the Leyland and Harrison Lines from Liverpool, and the Harrison Line from Glasgow and London at irregular periods. Length of passage between 15 and 17 days.
+
+The Royal Dutch West India Line runs a regular fortnightly line, touching at Dover on the outward journey and at Plymouth on the return journey. Length of passage 12 days.
+
+The Elders and Fyffes Line of steamers run fortnightly.
+
+The Quebec Line of steamers from the United States via the West Indian Islands, and the Royal Mail Steamers from Canada, via Bermuda and the West Indian Islands, arrive fortnightly.
+
+The cargo steamers of the Canadian Government Merchant Marine and the Canadian Pacific Line arrive frequently from Montreal direct.
+
+There are many irregular arrivals of the Booth and Lloyd Braziliero Lines from New York direct; and frequent but irregular arrivals of the Booth, and Lamport and Holt Lines from Brazil.
+
+Besides these an occasional Italian Steamer from Mediterranean Ports, and many tramp steamers from South American Ports call at Barbados.
+
+Telegraphic communication up to 1924 was mainly carried on by the West India and Panama Company via Cuba. The contract with this Company has now terminated and a new system of cable and wireless telegraph stations has been erected by the Imperial, Canadian, and West Indian Governments under the management of the Pacific Cable Board. Cables have been laid from Turks Islands (where connection is made with the Direct West India Company), Trinidad, and British Guiana to Barbados, which is the headquarters of the system. Other Colonies are being served by wireless telegraph stations communicating with Barbados. The principal tariffs per word are:
+
+| To the United Kingdom | 1 10s |
+|-----------------------|------|
+| To Eastern Canada     | 1 9s |
+| To Western Canada     | 1 3s |
+
+There are also half-rates (Deferred) and cheaper rates for letter telegrams.
+
+The Western Telegraph Company was granted permission to land their cable from Brazil in 1920, and the cable is working.
+
+The Western Union Telegraph Company was also granted permission to land their cable, the other end of which was landed at Miami, Florida, in 1922, and the cable was opened for traffic on 29th August, 1922.
+
+Rates of Postage.
+
+| Letters | Newspapers |
+|---------|-----------|
+| Within the Island ... per 1 oz. 1d. | ½d. each, and not exceeding 4 oz. |
+| Other Articles, ½d. for 4 oz. | |
+| Parcels, 2½d. per ½ lb. up to 5 lbs. | |
+| U.K., India, and British Colonies and dependencies ... ... ... per 1 oz. 1d., and for every additional oz. 1½d. | |
+| United States of America and Porto Rico and The American Virgin Islands ... ... ... per 1 oz. 1½d., and for every additional oz. 1½d. | |
+| Elsewhere ... ... ... per 1 oz. 2½d., and for every additional oz. 1½d. | |
+| Parcels to United Kingdom, 2½d. per 3 lbs.; 3s. 6d. 7 lbs.; 4s. 6d. 11 lbs. | |
+| Do. West Indies, 1s. per 3 lbs.; 2s. 7 lbs.; 3s. 11 lbs. | |
+| Do. United States, 6½d. per lb. | |
+| Do. Canada, 6½d. per lb. | |
+
+Education.
+
+A Government system of elementary education was established by Act No. 41 of the 9th December, 1878, which authorised a total expenditure not exceeding £15,000 annually on all grades of education. This section of the Act of 1878 was repealed, and Section 9 (d) of the Education (Amendment) Act, 1897, authorised an annual expenditure of a sum not exceeding £11,000 on elementary education. This section has now been repealed by the Education (Amendment) Act, 1910, which authorised the amount to be spent on elementary education at £14,200. In 1925 the sum of £29,995 was voted by the Legislature for Elementary Education, and the total vote for all grades of education amounted to £45,428.
+
+The central administration is vested in a Board appointed by the Governor, and the local control of elementary schools is in the hands of the clergymen of the various districts assisted by committees of lay managers. There are 135 elementary schools with 14,220 scholars (average attendance), and 22,180 on the rolls. Secondary schools are managed by Governing Bodies working under schemes formulated by the central Board of Education and approved by the Legislature.
+
+Barbados possesses a college founded by General Sir Christopher Codrington, a native of the island, who died in 1710, and whose name it bears. It
+was affiliated to Durham University in 1875. It is under the administration of the S.P.G., who are the Trustees of General Codrington's will. There are several theological scholarships of the value of £30 per annum from the College funds, and four Island Scholarships at £40 per annum paid from the Colonial Treasury. The latter are competitive, and are confined to natives or sons of natives, or of persons domiciled in the island who have resided therein for at least ten years.
+
+There is a good grammar school, called Harrison College, in Bridgetown, established on an old foundation, which has been liberally supported by the Legislature. It has a staff of eight university men as Masters, a Professor of Chemistry, and a Lecturer in Natural and Agricultural Sciences. The number of pupils at the close of 1925 was 192. Another First Grade School, "The Lodge," situated in St. John's parish, to the N.E. of the island, was re-opened in 1882, after having been closed for several years. The number of pupils at the close of 1925 was 100. There are three Barbados English Scholarships, established by the Education Board, and endowed by the Colony, each of the annual value of £250, tenable at an English University, or at an Agricultural or Technical College in Europe or America, for three years.
+
+The number of years for which these scholarships are tenable may be varied to four or five, but the total value of each scholarship cannot be more than £750.
+
+A first grade school for girls was opened in 1883, called the Queen's College. It has a staff of nine mistresses. The number of pupils at the close of 1925 was 115.
+
+There are five second grade schools for boys and one for girls. These First and Second Grade schools cost the Government, including grants for scholarships, £8,660 during 1925. They also receive annual grants for scholarships from the Vestries of the various parishes in which they are situated.
+
+Police, &c.
+
+A police force was established in Barbados in 1835 by an Act of the Legislature, and is stated to have been the first attempt in the British West India Colonies to establish a force of that description upon a similar footing. The Force consists of 4 officers and 374 non-commissioned officers and men. In 1882 the Harbour Police (established in 1867) were combined with the Land Police. A Juvenile Reformatory for boys was opened in April, 1883, and one for girls in April, 1911.
+
+There is a lunatic asylum, a lazaretto and a general hospital in Bridgetown, to the latter of which the Colony contributed £15,850 in 1925.
+
+Constitution.
+
+The Colony possesses representative institutions, but not responsible Government. The Crown has only a veto on legislation, but the Home Government retains the appointment and control of public officers, except the Treasurer, who is an officer of the House of Assembly. The Legislature consists of a Governor, a Legislative Council, consisting of nine members appointed by the King, and a House of Assembly, having twenty-four members elected annually on the basis of a moderate franchise. The qualifications of members and electors are regulated by a Franchise Act, which became law in April, 1884, and which repeals all previous legislation on the subject. By this Act an extension of the franchise was granted, and 2,004 electors were registered under its provisions, the number previous to its enactment being only 1,641. This and other Acts relating to the franchise was consolidated by the Representation of the People Act, 1901. The only change made was the extension of the franchise to persons enjoying a pension of £60 a year or more. The number of registered electors for the year 1925 was 3,501.
+
+The executive part of the Government is vested in the Executive Council appointed by the Crown and consists of the Governor, the Colonial Secretary, the Attorney-General ex officio, Sir F. J. Clarke, K.C.M.G., Speaker of the House of Assembly, and Hon. Sir W. K. Chandler, Kt., C.M.G., LL.D., President of the Legislative Council, and such other persons as may be nominated by the King, and the Executive Committee consisting of the members of the Executive Council ex officio, one member from the Legislative Council, and four members of the House of Assembly nominated annually by the Governor. This body introduces all money votes, prepares the estimates, and initiates all Government measures. The Governor of Barbados was for many years the Governor-in-Chief of the Windward Islands, consisting of Barbados, St. Lucia, St. Vincent, Grenada, and Tobago, but in 1885, by Royal Letters Patent, Barbados was separated from the other Windward Islands and made a distinct Government.
+
+Local Government.
+
+The island is divided into eleven parishes, each of which has its local affairs administered by a Vestry which is elected annually, the Rector of the Parish being the Chairman. The functions of the Vestry include sanitation, the care of the sick and poor, and the upkeep of roads. The latter is carried out by Highway Commissioners appointed by each Vestry from its members. The Vestries levy rates on lands and houses, and taxes on trade vehicles, draught animals, etc.
+
+The total revenue collected by the Vestries in 1925 amounted to £132,000.
+
+| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |
+|------|---------|-------------|-----------------|--------------|
+| 1916-17 | 311,303 | 242,605     | 1,840,501       | 3,006,322    |
+| 1917-18 | 399,969 | 456,303     | 1,375,380       | 2,588,944    |
+| 1918-19 | 347,497 | 347,817     | 1,037,950       | 2,101,359    |
+| 1919-20 | 420,136 | 351,851     | 1,650,526       | 3,648,259    |
+| 1920-21 | 454,284 | 508,390     | 1,824,192       | 3,201,535    |
+| 1921-22 | 340,814 | 409,055     | 1,568,750       | 2,373,602    |
+| 1922-23 | 519,213 | 402,524     | 1,899,319       | 2,885,759    |
+| 1923-24 | 444,646 | 420,461     | 2,457,665       | 3,228,704    |
+| 1924-25 | 504,696 | 364,531     | 2,450,651       | 3,229,906    |
+| 1925-26 | 404,133 | 394,250     | 2,627,726       | 3,241,164    |
+
+| Year | From U.K. | From Colonies | From Elsewhere | Total |
+|------|-----------|---------------|----------------|-------|
+| 1916 | 598,920   | 577,828       | 676,054        | 1,851,054 |
+| 1917 | 617,503   | 710,653       | 967,122        | 2,285,278 |
+| 1918 | 597,571   | 1,118,248     | 1,270,187      | 2,985,006 |
+| 1919 | 739,861   | 1,436,392     | 1,717,205      | 3,893,458 |
+| 1920 | 1,599,498 | 1,577,495     | 2,008,644      | 5,145,537 |
+| 1921 | 984,066   | 933,826       | 763,838        | 2,645,730 |
+| 1922 | 784,335   | 947,790       | 748,195        | 2,480,320 |
+| 1923 | 827,449   | 1,020,847     | 665,886        | 2,513,982 |
+| 1924 | 840,617   | 955,936       | 750,744        | 2,547,297 |
+| 1925 | 834,681   | 827,328       | 631,268        | 2,293,277 |

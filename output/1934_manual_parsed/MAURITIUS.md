@@ -1,0 +1,1039 @@
+MAURITIUS.
+
+Situation and Area.
+Mauritius is an island in the Indian Ocean, between 57° 18' and 57° 48' E. long., and 19° 50' and 20° 31' S. lat., distant 115 miles from Réunion, 934 miles from Seychelles, 1,300 miles from Natal, 2,000 miles from Cape Comorin, 11,000 miles from England, 2,300 from the Cape of Good Hope, and 500 from Madagascar. It comprises an area of about 720 square miles (nearly equal to Surrey), having an extreme length of 39 miles from north to south, and an extreme breadth of 29 miles from east to west.
+
+The island is chiefly of volcanic formation but is almost entirely surrounded by coral reefs. There are several small chains of mountains but none of great height. The principal peaks are the Piton de la Rivière Noire (2,711 ft.), Pieter Both (2,690 ft.), and the Pouce (2,661 ft.). There are numerous rivers and streams; they flow generally through deep ravines and their course is broken by many small waterfalls and rapids. None of them are navigable beyond a short distance from the sea. The land rises gradually from the coasts, and the centre of the island is composed chiefly of a fertile and picturesque plateau varying in altitude from 1,000 to 1,800 feet. On this high and healthy tableland the temperature and climate are excellent.
+
+History.
+The Mascarene Archipelago was probably known to Arab navigators at an early date. A Dutch map copied from Arab sources shows the islands now known as Mauritius, Rodrigues and Reunion under the names of Dinarobin, Dinanora and Margabinn, and it is possible that certain islands marked on Idrisi's map (1153) are intended to indicate them also.
+
+There can be little doubt too that the island was visited by the Malays who colonised Madagascar in the 15th-16th century.
+
+But Mauritius history really begins with its discovery by the Portuguese in the beginning of the sixteenth century—probably between 1507 and 1512, but not later than 1527, when the
+island is shown on an official map under the name of Santa Appollonia, borne in common with the other islands known later as the Mascarenes (Reunion and Rodrigues) after the great navigator Dom Pedro Mascarenhas.
+
+The Portuguese named the island Ilha da Cirnos, or Swan Island, from the big birds resembling swans found on shore. They merely used the island as a port of call, without making any settlement. The first settlers were the Dutch. In 1598 a Dutch fleet landed in the South-Eastern harbour of the island, to which its commander, Admiral Wybrandt Van Warwyk, gave the name of Mauritius, in honour of the Stadtholder, Prince Maurice of Nassau. For many years no attempt was made at colonisation, but from 1638 downwards petty settlements were established at various points, the seat of government being at the place known as Old Grand Port. The colony did not prosper, and was finally abandoned by the Dutch in 1710.
+
+In 1715 the Island was formally taken possession of by the French, but was not actually occupied till 1721, when a small party of colonists were sent out on behalf of the French East India Company. The island was then named Isle de France. This name was retained until the landing of the English in 1810, when the former name of Mauritius was restored. Of all the Governors of the island, the most celebrated was Mahé de Labourdonnais (1735-1746), "a man of eminent talents" (in the words of Lord Macaulay), who encouraged the cultivation of sugar-cane and introduced many other valuable plants. He was the real founder of the prosperity of the Isle de France.
+
+In 1767, the French East India Company, having gone into liquidation, handed over the island to the Crown, Jean Daniel Dumas being appointed Governor General for the King, and Pierre Poivre, Intendant. Poivre was a man of great ability; he introduced into the colony cloves and nutmegs secretly obtained from the Dutch Sunda Archipelago. Having purchased the ancient residence of the Company's Governors, at Monplaisir, he converted the grounds into a nursery where many useful plants introduced by him were cultivated. On his departure this property was sold to Government, the garden being entrusted to Poivre's friend, Nicolas Céré, under whose able management it became famous under the name of King's Gardens. It is now the Royal Botanical Gardens, Pamplemousses.
+
+In 1771 an epidemic of smallpox caused many deaths among the slave population.
+
+In 1790, at the outbreak of the French Revolution, a Colonial Assembly was elected, which for 13 years governed the island de facto.
+
+In 1792 another very able Governor was sent out from France, Comte de Malartic, who during this troubled period managed to gain the affection of the whole community. In 1803, the Isle de France was taken charge of by General Decaen, appointed Captain General by Napoleon Bonaparte, then First Consul, with instructions to suspend the Colonial Assembly and the Isle de France's constitution for a period of ten years.
+
+During the long war between England and France, the Isle de France was a source of great mischief to our merchant vessels, owing to the facility with which sorties were made from its harbour by French men-of-war and privateers; and in 1809 the British Government determined on its capture. The neighbouring islands of Rodrigues and Reunion were taken possession of and several naval engagements were fought to the credit of both navies. The most famous of these was the battle of the Isle de la Passe, fought in the bay of Grand Port on the 23rd and 24th August, 1810, between four English frigates and two French frigates, a corvette and a captured East Indiaman. The English lost the day, two of their ships having gone on shoals early in the engagement, but the great gallantry shown by both sides has rendered the fight memorable in the annals of the two navies.
+
+A strong expeditionary force was then sent out from the three presidencies of India and the Cape. Twelve thousand troops under General Abercromby were landed, and the island finally surrendered to Great Britain on December 3rd, 1810, the laws, religion, and customs of the inhabitants being guaranteed in the instrument of capitulation.
+
+The possession of the island was confirmed to England by the Treaty of Paris, 1814.
+
+The first English Governor, Mr. (later Sir) R. T. Farquhar (1810-1823) gained a well-deserved popularity. During his tenure of office, on 25th September, 1816, the fourth part of the town of Port Louis was destroyed by a conflagration. On 28th February, 1818, the island was laid waste by a terrific cyclone, causing immense destruction to property.
+
+In the year 1832, the Council of Government which was established on the 19th August, 1825, was abolished, and a Legislative Council, with half the members official, created. The oaths of office were taken by the new members on the 23rd January, 1832.
+
+On the 1st April, 1835, the emancipation of slaves took place without disorder; but as this new class of free men refused employment as labourers the planters were obliged to resort to this introduction of labour from India which was finally authorised in 1842, under the supervision of an agent residing in India, and which continued, with temporary interruptions, until 1910.
+
+In 1849, the Legislative Council voted the law constituting a municipal corporation for the town of Port Louis.
+
+During the years 1854, 1856, 1861-62, epidemics of cholera prevailed, of which that of 1854 was the most severe, causing 7,650 deaths.
+
+The year 1864 saw the opening of the North Railway Line from Port Louis to Pamplemousses, the Midland Line being inaugurated two years after.
+
+In December, 1866, malaria broke out with great severity. During the year 1867, 31,788 persons died from fever, including 18,308 in Port Louis.
+
+In 1868 and 1874, Mauritius was visited by severe cyclones. During the former two spans of the Grand River Railway Viaduct were brought down by the force of the wind. On the 29th April, 1892, one of the most violent cyclones ever recorded ruined a considerable portion of Port Louis, besides causing infinite havoc to buildings and crops. The death roll amounted to 1,232. In order to assist the planters and other owners of immovable property affected by the calamity, a loan of £600,000 was guaranteed by the Imperial Government.
+
+On the 23rd of July, 1893, part of Port Louis was again destroyed by fire. At the end of the same year ocean telegraphic communication was opened.
+
+In 1902, an outbreak of Surra caused great loss of draught animals, and mechanical means of transport had to be resorted to for the sugar plantations. A number of locomotives and traction engines were introduced, and a loan was
+raised to enable the planters to lay down tramways, and take other steps to provide for transport.
+
+In 1909, a Royal Commission visited the Island to enquire into the administration and finances of the Colony.
+
+During the Great War Mauritius suffered in no way by direct action on the part of the enemy. A number of volunteers proceeded to Europe for military service and a "Labour Battalion" was supplied for Mesopotamia.
+
+The enormous rise in the price of sugar brought great prosperity to the Colony, and the gross value of the crop of 1920-1921 is estimated to have been approximately Rs. 250,000,000.
+
+In 1921 investigations of the sanitary and health conditions were made by Dr. Andrew Balfour, C.B., C.M.G., M.D. Many of the works recommended have been carried out.
+
+In 1923 the Indian Government consented to the resumption of immigration of labourers from India consequent on the repeal of the penal clauses of the Labour Law of 1878 affecting labour.
+
+Immigration was accordingly resumed for a period of 12 months ending on 31st May, 1924, but with disappointing results, most of the immigrants having returned to India by the end of the same year.
+
+In March, 1931, a cyclone lasted three days and caused considerable damage to property. In the same year a Financial Commission visited the Island to enquire into the public finances.
+
+General Description.
+
+The permanent settled population of European race is greater in Mauritius than in any other tropical colony of its size. Many of the inhabitants are descendants of the ancient French noblesse. The higher and middle classes possess much intellectual culture.
+
+Six daily newspapers and twenty other periodicals are published in the capital. The French language and a creole patois are spoken all over the island, English being used in the supreme court of justice. Debates in the Council of Government may take place in either language.
+
+Mauritius is divided into nine districts, Port Louis, Pamplemousses, Rivière du Rempart, Plaocq, Grand Port, Savanne, Moka, Plaines Wilhems, and Black River.
+
+The City of Port Louis is the capital, and seat of Government, and contained, with its suburbs, an estimated population of 54,290 on 31st December, 1931. The harbour is one of the best in the East, and is sufficiently spacious to receive a large number of vessels. It possesses three graving docks.
+
+Works for the reconditioning of the Harbour and improvements thereto have been carried out. The Harbour is defended by Fort Adelaide (the citadel) and by Fort George. There are large barracks and military stores. The trade of the island passes almost entirely through Port Louis. The city has an elected municipal corporation, and raised in 1932 a revenue of Rs. 706,130-54, against an expenditure of Rs. 660,634-20. Its debt amounts to 36,330l. and 472,500l. at 31st Dec., 1932.
+
+The principal public edifices of Port Louis are the Government House, the Institute, the Roman Catholic and Anglican cathedrals, the Civil Hospital, the Town Hall, the theatre, and the public offices. There is a racecourse most beautifully situated in the Champ de Mars.
+
+A sewage scheme, designed by Messrs. James Mansergh & Sons, provides for the disposal of the sewage of the central part of the town.
+
+After Port Louis, the largest town is Curepipe, incorporated in 1890 (population 19,421, census of 1931), situated on the uplands in the Plaines Wilhems district.
+
+In the district of Grand Port is the small town of Mahebourg (population 7,688, census of 1931), so called in honour of Mahé de Labourdonnais.
+
+Population.
+
+At the Census of 1931 the population of Mauritius (exclusive of the Dependencies and Military) was found to consist of:
+
+| Persons of European, African, or mixed descent | 115,666 |
+|-----------------------------------------------|---------|
+| Indian population                             | 268,649*|
+| Chinese                                        | 8,923   |
+
+93,238
+
+The total number of Indians was 68·3 per cent. of the total population.
+
+At the Census of 26th April, 1931, the Civil population numbered 393,238.
+
+The descendants of the immigrants from India—the Indo-Mauritians—now form the largest section of the population; they are steadily increasing in numbers. They are predominant in the domestic, commercial, and still more in the agricultural callings, and the amount of land held by them as small planters is rapidly growing.
+
+Constitution.
+
+The constitution of Mauritius was altered in 1884-85 and in 1933. It now consists of a Governor, with an Executive Council of four ex-officio and two unofficial members, and a Legislative Council of twenty-seven members, eight being ex-officio, nine nominated by the Governor, and ten elected—two for the town of Port Louis, and one for each of the eight rural districts. At least two-thirds of the nominated members must be persons not holding any public office. Under the revised Constitution of 1933 the Governor is empowered to override a majority vote of the Council for the enforcement of any measure which he considers necessary in the interest of public order, public faith or other essentials of good government. Members are not paid; they may speak either in French or English. The number of registered electors on 31st December, 1932, was 10,397; the franchise qualification is ownership of immovables of annual value of Rs. 300, or movables worth Rs. 3,000, or payment of rent of Rs. 25 monthly, or of license duty of Rs. 200 annually, or receipt of salary of Rs. 50 monthly. The session usually lasts from April to December.
+
+The law is based on the Code Napoléon, and other French laws modified by Colonial Ordinances.
+
+Climate and Rainfall.
+
+From December to April is the hottest season in Mauritius, but it is comparatively cool during the remainder of the year. The mean temperature of Port Louis is 25·1° C., the mean annual rainfall 40 inches and the mean relative humidity 72 per cent. The mean temperature of Curepipe, at about 1,800 feet above sea level, is 19·7° C., the
+
+* The Indian section comprises those members of the population following the customs and religions of India.
+mean annual rainfall 122 inches, and the mean relative humidity 87 per cent. The official cyclone season extends from November to the middle of May, but cyclones have occurred in the South Indian Ocean in every month of the year except August.
+
+During cyclones over 30 inches of rain have occasionally been registered in 24 hours.
+
+Water Supply.
+
+The Town of Port Louis is supplied by the Grand River, N.W. This source is not altogether satisfactory. Two reservoirs have been constructed by the Government to ensure a better supply to the town. The erection of a chlorination plant with filter beds at Grand River, N.W., to purify the water, has been completed. Besides this supply of about 5,000,000 gallons per 24 hours, Port Louis has been provided with a supply of Mare-aux-Vacoas water. 1,000,000 gallons per 24 hours is available for supply.
+
+The Mare aux Vacoas works were started by the Government in 1895, and were extended by the addition of a filtering plant. The whole of the district of Plaines Wilhems, a part of Moka, and a part of Black River and Port Louis are now supplied with pure water from these works.
+
+The water supply of other districts is under the control of Local Boards and with the cooperation of the Government, works have been undertaken to distribute water from upland springs to the villages in the country districts; these works are now completed.
+
+Irrigation.
+
+Important schemes have been in progress in recent years. A reservoir, with an area of 562 acres and a capacity of 416 million cubic feet has been constructed at "La Ferme," in the District of Black River, and about 4,000 acres of land are now under irrigation.
+
+Another reservoir of an extent of 273 acres and a capacity of 204 million cubic feet has also been constructed at Nicolisse in the District of Pamplemousses and has been connected to high rainfall region by a canal 17 miles long.
+
+Railways.
+
+There are seven lines of railway, all owned and worked by Government, viz.: (1) The North line, from Port Louis to the sea coast village of Grand River South-east. Its length is 33½ miles, and its course is approximately parallel to the northern coast line of the island. (2) The Montagne Longue branch from Terre Rouge station on the North Line to the village of Montagne Longue; its length is 3¼ miles. (3) The Midland line, beginning at Port Louis and running across the island to the sea coast town of Mahébourg on the other side; its length is 35½ miles, with a summit level of 1,822 feet at Curepipe; the gradient in many places is 1 in 26. Four miles of this line have been doubled and opened for traffic. (4) The Moka-Flacq line from the Rose Hill station on the Midland line to Montagne Blanche, length 14½ miles. (5) Savanne branch from Rosebelle station on the Midland line to the sea coast town of Souillac at the southern extremity of the island; its length is 11 miles. (6) Black River branch, from Richelieu on the Midland line to Tamarin, distance 12½ miles. (7) Riviere du Poste to Mexico and Richebois, length 14½ miles. All the above are of standard gauge, 4' 8½", except the 7th which is 75 centimetres (2' 6"). The total number of miles of railway now open is 110½ of standard gauge and 14½ of 2' 6" gauge, the total cost up to date being about 2,090,762L. The receipts in 1932-33 were Rs. 1,776,356 and Working Expenditure Rs. 1,770,279.
+
+Religion.
+
+The Christian Churches are assisted by State grants. According to the census of 1931, the Roman Catholics numbered 126,153, and the Protestants about 4,466, including Dependencies and Military. The Roman Catholics receive an annual grant from Government amounting to Rs. 149,216, the Protestants Rs. 49,133, and the Church of Scotland Rs. 9,968.
+
+Education.
+
+The system of education had been remodelled by Ordinance No. 33 of 1899, which repealed all former enactments. This Ordinance was amended in some important respects by Ordinance No. 35 of 1913.
+
+Under the Education Ordinance of 1899, a Department of Public Instruction was created under a "Director of Public Instruction."
+
+This system remained in force until it was superseded by the Education Consolidation Ordinance of 1919, under which the Department of Public Instruction was replaced by a Royal College Department and a Schools Department, the post of Director of Public Instruction being abolished. The Rector is the Head of the Royal College Department; and the Superintendent of Schools of the Schools' Department.
+
+The Royal College, which has now a branch in Port Louis called "The Royal College School, Port Louis," provides for the Secondary Education of Boys. A Committee styled the "Royal College Committee," is annually appointed by the Governor to advise in the framing of Regulations and to act as a consultative body. It consists of the Rector as Chairman, and of six members chosen by the Governor. Twenty Scholarships and Exhibitions tenable at the Royal College are competed for annually by Primary School pupils; fourteen Scholarships and Exhibitions are open each year to College pupils, and there are awarded annually two Scholarships tenable at a British University, of a total value of about £1,300.
+
+The Schools' Department provides for Primary, Secondary, and Technical and Industrial Education:
+
+(1) Primary Education is carried on through a system of Government Schools and of Grant-in-aid Denominational Schools, the latter under the immediate control of local managers.
+
+(2) Secondary Education is provided by means of a system of Grant-in-aid schools for boys and girls.
+
+(3) As regards Technical and Industrial Education, provision is made for the training of students in Engineering (Mechanical and Civil). A consultative committee styled the "Schools Committee," similar to that of the Royal College, is annually appointed by the Governor. It consists of 10 members: five members are nominated by the Primary and Secondary Grant-in-aid Schools and four are chosen by the Governor, with the Superintendent of Schools as Chairman.
+
+(4) A sum of Rs. 600,000 has been set aside from the Colony's Surplus Balances as a "Scholar-
+ship Fund." The interest on this amount is devoted annually to provide further facilities, in the shape of scholarships and educational grants, for young Mauritians in the Government service and on leaving school to pursue their studies and obtain higher technical qualifications.
+
+Higher Education.
+
+On the books of the Royal College and its Branch on the 31st December, 1932, there were 374 pupils.
+
+Primary Education.
+
+There were in 1932—
+
+| Number | Pupils |
+|--------|--------|
+| Government schools | 50 | 13,577 |
+| Grant schools | 77 | 22,859 |
+
+Total . . . 127 36,436
+
+The total expenditure on education in 1931-32 amounted to Rs. 1,332,810. There are about 1,000 masters, mistresses, assistants, and monitors and monitors employed in Government and Grant Schools. Of the pupils in the aided schools 48·0 per cent. are Roman Catholics, 1·5 per cent. belong to the Church of England, and 1·0 per cent. to other Christian denominations. Five Hindoo and three Moslem schools are also assisted.
+
+Agricultural Education.
+
+To facilitate higher agricultural education, a small Agricultural College has been established. Lectures on Agricultural Science are occasionally made to Primary School Teachers by the Department of Agriculture.
+
+Communications.
+
+Postal communication with Europe is chiefly maintained via Suez, by the Indian Ocean Line of the Messageries Maritimes, which provides a regular fortnightly service.
+
+Mails are otherwise sent or received through South Africa. The only regular service by this route is being provided by the Koninklijke Paketvaart Maatschappij (K.P.M.) Java-Mauritius-Africa Line. Other opportunities through South Africa are irregular, though not infrequent and are provided by tramp steamers and occasionally by a Union Castle, or Clan Line vessel.
+
+Air mails for Europe are sent by steamer to Mombasa, for inclusion at Nairobi in the Kenya air mail, and also to Durban for inclusion at Johannesburg in the S.A. air mail.
+
+With India and Ceylon communication is also maintained regularly by the Messageries Maritimes Packets, via Mombasa or Aden. This is also the usual route for Australia with transit at Colombo.
+
+The British India Steam Navigation Company also runs an occasional steamer between Colombo and Mauritius and vice versa.
+
+With the neighbouring islands Réunion and Madagascar communication is frequent by trading vessels, apart from the regular M.M. Packets.
+
+Wireless communication is maintained with ships at sea within a range of 2,800 miles and with the Reunion land station.
+
+Cable communication with every part of the world is provided by the local station of the Eastern and South African Telegraph Company.
+
+Government land telegraphs and telephones (including Railway Block Telegraph and Railway Traffic Control Telephone) extend to 545 miles of telegraph and 386 miles of telephone.
+
+Private telephone communication is provided by the Oriental Telephone Company in the capital, Port Louis, and the two most important rural districts, Plaines Wilhems and Moka.
+
+There are in Mauritius the General Post Office in the city of Port Louis, and 59 branch post offices in the rural districts, 59 money order offices, 49 telegraph and 10 telephone offices. In the island of Rodrigues there is one post office at Port Mathurin and also a station of the Eastern and South African Telegraph Co. There is no post office in any other of the Dependencies.
+
+The rates of postage are:
+
+Inland and Dependencies:
+Letters per 20 grs., 5 cents; every additional 20 grs. or fraction thereof, 5 cents.
+
+United Kingdom, and British Possessions, &c.:
+Letters per 20 grs., 13 cents; every additional 20 grs. or fraction thereof, 4 cents.
+
+Other countries:
+Letters per 20 grs., 20 cents.; every additional 20 grs. or fraction thereof, 10 cents.
+
+Air Mail: For every 10 grammes.
+
+Parcels Post Rates.—For parcels addressed to the United Kingdom.
+
+| Via Marseilles | Via Cape of Good Hope |
+|---------------|----------------------|
+| Rs. c.        | Rs. c.               |
+| Not over 1 kilo | 2 15                |
+| ,, 3 kilos    | 2 80                |
+| ,, 5 ,,       | 3 35                |
+| ,, 10 ,,      | 5 35                |
+| Not over 3 lbs... | 1 35              |
+| Over 3 lbs. but not over 7 lbs. | 2 55          |
+| Over 7 lbs. but not over 11 lbs. | 3 35         |
+| Over 11 lbs. but not over 22 lbs. | 4 70        |
+
+Commerce.
+
+The island produces barely one-tenth of the food required for its inhabitants and almost all agricultural enterprise is devoted to the production of exports.
+
+The chief exports are sugar, copra, aloe-fibre, raw hides, &c. Food-stuffs are principally imported from India; manufactured articles from England, oxen from Madagascar.
+
+The imports consist mainly of grain (rice, wheat flour, &c.), cotton manufactures, motor spirits and coal, iron and steel goods and fertilizers. Considerable progress has been made in the tobacco industry; factories have been opened in Port-Louis and efforts are being made to establish an export trade. Other new industries include a textile industry for providing bags for sugar, fruit canning, and the manufacture of matches. About 95% of the value of the exports consists of shipments of sugar. In 1932, the weight of sugar exported was 137,885 metric tons with an estimated value of Rs. 26,385,522. The value of copra exported was Rs. 287,516; aloe-fibre, Rs. 80,572; fruits, preserved, Rs. 50,884.
+
+The Customs Tariff is mainly on a specific basis, but important classes of goods pay ad valorem duties. It includes provisions for preference on numerous items of Imports from the British Empire.
+The trade percentages were as follows:
+
+|                | 1931 | 1932 |
+|----------------|------|------|
+| United Kingdom | 47.6 | 61.0 |
+| Other parts of British Empire | 34.3 | 23.4 |
+| Foreign Countries | 18.1 | 15.6 |
+
+The number of vessels registered at Port-Louis is now 16 of a total tonnage of 2,688.
+
+Currency and Banking.
+
+The Mauritius Commercial Bank has establishments in the Colony, the total amount of deposits on 31st Dec., 1932, being Rs. 7,862,513-76, with paid up capital of Rs. 2,000,000.
+
+The Bank of Mauritius (Limited) was established in October, 1894, with paid up capital of 125,560L, and opened in Mauritius in Dec., 1894. The business of that bank was taken over by the Mercantile Bank of India Limited on the 3rd May, 1916. Total deposits on 31st Dec., 1932, Rs. 2,631,689-03. The total paid up capital is now 1,050,000L.
+
+The National Bank of South Africa, now Barclays Bank (Dominion, Colonial and Overseas), has opened branches in the Island since 1919. The paid up capital being 4,975,500L, and the total amount of deposits on 31st December, 1932, Rs. 2,628,295-21.
+
+A Government savings bank was established in 1837. The total deposits during the year ended 30th June, 1932, amounted to Rs. 1,346,128. The sum standing to the credit of depositors at the end of June, 1932, was Rs. 5,114,748.
+
+All accounts are kept in rupees and cents of a rupee, which is the currency of the island. A Government note issue was re-established in 1876, the notes being legal tender except at the office of issue. The average circulation for the year 1931-32 was Rs. 7,287,300.
+
+Weights and Measures.—The Metric System, as regards weights and measures, came into force on the 1st May, 1878.
+
+Dependencies.
+
+The dependencies of Mauritius comprise a large number of islands scattered over the Indian Ocean.
+
+Rodrigues, the most important, is situated in latitude S. 19° 44' and longitude E. 63° 34', and is 344 nautical miles from Mauritius. The island which has an area of 42 sq. miles, about 26,000 acres, is 18 miles long by 7 miles broad, and is surrounded by coral reefs, extending in some places 5 or 6 miles from the shore. It is under the administration of a magistrate, who takes his instructions from the Governor of Mauritius. Laws for the island are made in the form of regulations framed by the Governor of Mauritius in Executive Council. The estimated population at 31st December, 1932, was 8,691. The birth rate in 1932 was 42.6 and the death rate 13.8 per 1,000. Cable communication, through a branch of the Eastern and South African Telegraph Company, was opened on 16th May, 1902.
+
+The island, which is volcanic, mountainous, and in some parts well wooded, is beautiful and picturesque in the extreme. The highest land is 1,760 feet above the level of the sea, and may be seen in clear weather at a distance of 10 or 12 leagues. The temperature differs little from that of Mauritius, although the breezes are stronger and hurricanes more frequent and severe. The climate is healthy. The principal industries are fishing and the rearing of cattle and goats, for which latter the pasturage is excellent. The soil is good: cotton, coffee, tobacco, maize, beans, and vanilla grow luxuriantly; a trained officer has of late (1921) been appointed Agricultural Superintendent in view of the agricultural development of Rodrigues. The wild guinea fowl and partridges, likewise the deer and wild pigs, which used to be plentiful, have almost disappeared.
+
+The value of the imports in 1932 was Rs. 237,433. The exports of the island produce in 1932 were valued at Rs. 324,867. The people are all peasant proprietors and there is abundance of food.
+
+The principal exports are beans, maize, salt-fish, cattle, goats, pigs, poultry, tobacco-leaf and acacia seeds.
+
+Communication with Rodrigues is maintained by a chartered steamer and occasional sailing vessels.
+
+Diego Garcia (population, 455, census 1931), the most important of the Oil Islands group, consists of four islands, at four days' steaming from Mauritius, the chief one being about 30 miles in length, extending in an irregular horseshoe shape, and embracing between its extremities three minor islets. It is a coral atoll, fifteen miles by six and a half, nowhere over ten feet high, but forming a spacious bay, roomy enough for large vessels to enter, being fifteen miles in length from end to end, and from two to five miles in breadth.
+
+Diego Garcia is situated at 7° 20' latitude S. and 72° 26' longitude E., on the straight line between the entrance to the Red Sea and Cape Leeuwin. In 1885 it was placed under the jurisdiction of a magistrate, with a small force of police from Mauritius, which was, however, withdrawn in 1888.
+
+The population of the smaller Dependencies, according to the 1931 census, was 1,457.
+
+Governors of Mauritius from 1897.
+
+Sir C. Bruce, K.C.M.G. . . . . . . 11 May 1897
+Sir Cavendish Boyle, K.C.M.G. . . . . . . 20 Aug. 1904
+Major Sir J. R. Chancellor, K.C.M.G., D.S.O., R.E. . . . . . . 13 Nov. 1911
+Sir Hesketh Bell, G.C.M.G. . . . . . . 18 May 1916
+Sir Herbert J. Read, K.C.M.G., C.B. . . . . . . 19 Feb. 1925
+Sir W. E. F. Jackson, K.C.M.G. . . . . . . 30 Aug. 1930
+
+Finances.
+
+Year. Revenue. Expenditure. British Total. Tonnage. Tonnage.
+
+| Year | Revenue | Expenditure | British Total | Tonnage |
+|------|---------|-------------|---------------|---------|
+| 1923-24 | 19,897,483 | 16,588,702 | 596,074 | 968,209 |
+| 1924-25 | 19,672,843 | 17,653,716 | 714,800 | 1,252,172 |
+| 1925-26 | 15,894,763 | 16,117,938 | 562,914 | 1,049,675 |
+| 1926-27 | 14,682,807 | 16,461,062 | 630,743 | 1,246,460 |
+| 1927-28 | 15,308,918 | 16,725,613 | 646,437 | 1,296,683 |
+| 1928-29 | 13,322,248 | 16,930,182 | 659,583 | 1,094,910 |
+| 1929-30 | 14,483,468 | 15,575,001 | 587,514 | 998,159 |
+| 1930-31 | 11,552,210 | 16,092,074 | 651,919 | 1,062,468 |
+| 1931-32 | 12,160,279 | 17,704,575 | 568,959 | 1,115,817 |
+| 1932-33 | 30,200,418 | 13,810,589 | | |
+
+Public Debt, 30th June, 1933, 3,396,994L (not including 40,300L and Rs. 210,000. Foreign Debenture Debt, of the Municipal Corporation of Port Louis).
+
+Customs and Harbour Revenue, 1932-33, Rs. 5,329,517 + Rs. 443,439.
+
+† Year ending 30th June. ‡ Calendar year.
+MAURITIUS.
+
+Imports, C.I.F. ‡
+
+| Year | From U.K., Rs. | From Colonies,† Rs. | Elsewhere, Rs. | Total, Rs. |
+|------|----------------|--------------------|---------------|-----------|
+| 1923 | 23,661,652     | 34,430,606          | 21,943,815    | 80,036,073|
+| 1924 | 24,746,862     | 32,229,949          | 27,671,992    | 80,639,803|
+| 1925 | 16,881,286     | 27,798,165          | 16,936,804    | 61,616,255|
+| 1926 | 11,346,796     | 24,584,578          | 14,802,253    | 50,733,627|
+| 1927 | 13,292,011     | 23,233,079          | 16,620,520    | 55,045,610|
+| 1928 | 11,473,099     | 24,990,583          | 12,852,768    | 49,316,450|
+| 1929 | 11,100,987     | 21,520,237          | 13,704,096    | 46,325,320|
+| 1930 | 10,450,730     | 17,626,026          | 11,730,589    | 39,807,345|
+| 1931 | 7,504,119      | 15,006,377          | 9,553,578     | 32,064,074|
+| 1932 | 6,455,759      | 12,596,931          | 7,811,096     | 26,863,786|
+
+Bullion and Specie, nil.
+
+Exports, F.O.B. ‡
+
+| Year | To U.K., Rs. | To Colonies,‡ Rs. | Elsewhere, Rs. | Total, Rs. |
+|------|--------------|------------------|----------------|------------|
+| 1923 | 66,052,535   | 12,379,352       | 863,506        | 79,295,393|
+| 1924 | 12,431,527   | 36,365,920       | 3,662,236      | 52,459,683|
+| 1925 | 27,609,534   | 13,055,690       | 3,977,749      | 44,642,973|
+| 1926 | 36,000,557   | 9,023,941        | 2,128,200      | 47,152,698|
+| 1927 | 61,319,515   | 3,918,837        | 2,274,696      | 56,613,048|
+| 1928 | 43,758,074   | 1,590,342        | 1,926,004      | 47,371,420|
+| 1929 | 45,965,071   | 4,640,620        | 1,845,373      | 52,461,064|
+| 1930 | 19,023,108   | 6,458,682        | 1,123,674      | 26,605,464|
+| 1931 | 20,001,530   | 2,887,664        | 940,690        | 23,829,884|
+| 1932 | 26,857,246   | 103,000          | 702,605        | 27,662,851|
+
+Bullion and Specie, Rs. 1,012,852 (not included in Merchandise above).
+
+Population.
+
+| Estimate, 1767, 19,000 | Male. | Female. | Total. |
+|------------------------|-------|---------|--------|
+| ,, 1837, 134,000       |       |         |        |
+
+Census, 1881 (General) 57,303 53,578 110,881
+,, Indian 151,352 97,641 248,993
+,, Census, 1891 (General) 58,539 56,129 114,668
+,, Indo-Mauritian 80,653 75,938 156,591
+,, Other Indians 66,846 32,483 99,329
+Census, 1901 (General) 59,457 58,447 118,904
+,, Indo-Mauritian 100,369 89,658 190,027
+,, Other Indians 43,727 27,382 71,109
+Census, 1911 (General) *59,783 59,049 118,832
+,, Indo-Mauritian 115,421 107,236 222,657
+,, Other Indians 23,934 11,660 35,594
+Census, 1921 (General) **55,141 56,078 111,219
+,, Indian 139,119 126,342 265,461
+Census, 1931 (General) *61,076 63,513 124,589
+,, (India) 139,533 129,116 268,649
+1st Jan., 1933 (Estimate: 398,337 General and Indian).
+
+Executive Council.
+
+Governor.
+Officer Commanding the Troops.
+Colonial Secretary.
+Procureur and Advocate-General.
+Treasurer.
+J. Leclézio, C.B.E.
+Clerk, E. Jullienne, M.B.E.
+
+Council of Government.
+
+Governor.
+Officer Commanding the Troops.
+Colonial Secretary.
+Procureur and Advocate-General.
+Treasurer.
+Collector of Customs.
+
+† Calendar year.
+‡ Excluding Dependencies.
+* Including Chinese.
+† Including 9,987 in the Dependencies.
+
+Protector of Immigrants and Poor Law Commissioner.
+Director of Public Works and Surveys.
+Director, Medical and Health Department.
+
+Elected Members.
+
+Dr. E. Laurent.
+L. R. Rivet.
+J. P. Raffray.
+R. Pezzani.
+Dr. H. T. Le Vieux.
+
+Nominated Members.
+
+H. G. Robinson.
+T. Avice, O.B.E., Registrar General.
+R. Deane, Inspector General of Police and Superintendent of Prisons.
+P. Adam, O.B.E.
+G. E. Bodkin, Director of Agriculture.
+G. M. D. Atchias.
+M. Fortescue-Brickdale, O.B.E.
+A. Gellé.
+R. Gujadhur.
+
+Clerk and Shorthand Writer (English), E. Jullienne, M.B.E., Rs. 3,000.
+
+Civil Establishment.
+
+Governor and Commander-in-Chief, Sir W. E. F. Jackson, K.C.M.G., Rs. 60,000.
+Private Secretary, Capt. I. G. Macpherson, Rs. 5,500.
+
+Secretariat.
+
+Colonial Secretary, E. W. Evans, C.M.G., Rs. 21,000.
+Assistant Colonial Secretary, W. H. Ingrams, O.B.E., Rs. 12,000.
+2nd Assistant Colonial Secretary, R. Viader, M.B.E., Rs. 8,000.
+
+Printing Office.
+
+Government Printer and Linotype Operator, R. W. Brooks, 400l. by 2½l. to 5½l.
+Assistant Government Printer, L. Chanier, Rs. 2,000—3,000.
+
+Treasury.
+
+Treasurer, Captain L. Tester, M.C., Rs. 15,000.
+
+General Branch.
+
+Assistant Treasurer, G. B. Stooke, Rs. 9,000.
+Head Accountant and Chief Examiner, N. Decotter, Rs. 8,000.
+Revenue Surveyor, E. Lagarde, Rs. 9,000.
+
+Audit Office.
+
+Auditor, J. C. A. Jenks, Rs. 12,000.
+Assistant Auditor, P. H. Jennings, Rs. 8,000.
+
+Public Works and Surveys.
+
+Director of Public Works and Surveys, Major F. Régnard, R.E., Rs. 15,000.
+Deputy Director, A. Vallet, Rs. 13,500.
+Executive Engineer, X. Koenig, Rs. 9,000.
+Water Works Engineer and Surveyor, L. S. Pelte, Rs. 10,000.
+Chief Clerk and Accountant, T. Dijou, Rs. 7,500.
+
+Customs Department.
+
+Collector of Customs and Registrar of Shipping, Capt. B. A. Francis, O.B.E., Rs. 15,000.
+Deputy Collector, T. F. Doyle, Rs. 11,000.
+Supervisor of Customs, A. T. Shill, Rs. 9,000.
+
+† Of which Rs. 10,000 is drawn by the O.A.G. when the Governor is absent on full pay leave.
+Harbour Department.
+
+Harbour Master and Superintendent of Mercantile Marine and Control of Customs, Capt. B. A. Francis, O.B.E. (see under Customs Department).
+
+Port Captain, V. R. Morin, Rs. 8,000 and quarters.
+
+Pilot, G. Bétuel, Rs. 5,000.
+
+Registrar General's Department.
+
+Registrar General, T. Avice, O.B.E., Rs. 13,500, personal allowance, Rs. 1,500.
+
+Registration and Mortgage Branch.
+
+Assistant Registrar General, L. R. Giraud, Rs. 8,000, personal allowance, Rs. 1,000.
+
+Archives Branch.
+
+Custodian of Archives, E. Perdrau, Rs. 4,000-Rs. 5,000.
+
+Postal and Telegraph Department.
+
+General Postmaster and Superintendent of Telegraphs, H. W. Lavers, Rs. 10,000.
+
+Assistant General Postmaster and Superintendent of Telegraphs, J. S. Ahnee, Rs. 8,000.
+
+Immigration and Poor Relief Department.
+
+Protector of Immigrants and Poor Law Commissioner, L. Collet, Rs. 12,900.
+
+Medical and Health Department.
+
+Director, J. Balfour Kirk, Rs. 20,250.
+
+Deputy Director of Medical Services A. C. Labauvo d'Ariat, Rs. 14,000 and house rent.
+
+Medical Officer of Health and Port' Health Officer, Dr. L. M. J. R. Pilot, Rs. 9,500-12,000.
+
+Pathologist, Dr. A. R. D. Adams, Rs. 9,000-12,000 and quarters.
+
+Superintendent, Mental Hospital, Dr. D. Dyson, Rs. 12,000.
+
+Superintendent, Civil Hospital, Y. Cantin, Rs. 9,000-12,000.
+
+Superintendent, Victoria Hospital, Dr. L. R. Duverge, Rs. 9,000-12,000.
+
+Medical Officers, Drs. H. Andre and J. Maingard, Rs. 9,000-12,000; W. Dupré, Rs. 10,000; S. H. Piarroux and R. Laventure, Rs. 7,000-10,000; Roger Pilot, J. Cantin, H. E. Madge, R. Lavoipierre and R. Mayer, Rs. 6,300-9,000; V. P. Goupille and L. N. R. Comty, Rs. 7,500; F. Pierre and F. Bouhour, Rs. 7,200; E. Brunel, Rs. 7,000.
+
+Accountant, L. Besson, Rs. 7,500.
+
+Department of Agriculture.
+
+Director, G. E. Bodkin, Rs. 16,665 and quarters.
+
+Senior Geneticist, A. G. Hill, Rs. 12,000 and quarters.
+
+Bio Chemist, N. Craig, Rs. 10,000.
+
+Physiological Botanist, H. Evans, Rs. 9,000-10,000 and quarters.
+
+Senior Agricultural Officer and Instructor and Inspector, Co-operative Societies, C.A. O'Connor, Rs. 7,000.
+
+Inspector, Co-operative Credit-Societies, M. Burrenchobay, Rs. 3,800-4,800.
+
+Assistant Entomologist, A. Moutia, Rs. 5,000-6,000.
+
+Botanist and Mycologist, E. S. Shepherd, Rs. 7,500-8,500.
+
+Veterinary Surgeon, F. E. Lionnet, Rs. 7,500-9,000.
+
+Assistant Chemist, R. Lincoln, Rs. 5,175-5,500 per allowance Rs. 1,500.
+
+Irrigation Officer, E. Lemar, Rs. 5,000-6,000.
+
+Statistician, M. Koenig, Rs. 8,000.
+
+Sugar Technologist and Lecturer in Sugar Technology, L. Baisse, Rs. 9,000.
+
+Government Tobacco Officer, G. Corbett, Rs. 9,000.
+
+Department of Forests.
+
+Director, G. N. Sale, Rs. 12,000.
+
+Assistant Director, P. de Carcenac, Rs. 7,000-9,000.
+
+Museum and Public Library.
+
+Librarian and Curator, R. E. Hart, Rs. 4,485.
+
+Royal Alfred Observatory.
+
+Director, N. R. McCurdy, Rs. 12,000-15,000.
+
+Assistant Director, M. Heroenroder, Rs. 6,000-7,500.
+
+Judicial Establishment.
+
+Supreme Court.
+
+Chief Judge, P. B. Petrides, Rs. 24,000.
+
+Puisne Judges, L. Leconte, and G. T. Watts, Rs. 15,000.
+
+Master and Registrar's Office and Curator Accountant's Office.
+
+Master and Registrar, G. Esptalier-Noël, Rs. 12,000.
+
+Registrar in Bankruptcy and Chief Clerk, L. Delafaye, Rs. 6,000.
+
+Curator Accountant, G. Koenig, Rs. 7,500.
+
+Procureur-General's Department.
+
+Procureur and Advocate General, G. E. Nairac, K.G., Rs. 20,000.
+
+Substitute Procureur and Advocate General, M. de Commarmond, Rs. 13,500.
+
+Additional Substitute Procureur and Advocate General (vacant), Rs. 11,000.
+
+Crown Attorney, C. Grégoire, Rs. 11,000.
+
+District and Stipendiary Magistracies.
+
+E. Duvivier, L. Ulecoq, F. Herchenroder, A. Legras, P. K/Vern, J. B. Colin, W. J. Hanning, and one vacancy, Rs. 9,000-12,000.
+
+Police Department.
+
+Inspector-General and Superintendent of Prisons, R. Deane, O.B.E., Rs. 13,500.
+
+Deputy Inspector-General, H. Coombes, Rs. 9,000.
+
+Inspectors, E. E. César, H. C. F. Rodda, P. D. Julien, H. R. Old, L. S. Parke and L. S. Gerald, Rs. 5,200-7,200, and J. E. Guihard, and Major J. P. Magrane, Rs. 5,000, and quarters, or lodging allowances.
+
+Sub-Inspectors, H. S. Rolfe, G. Bagoban, C. A. Lavictoire, C. Mason, J. V. Mullin, M. T. Williams, R. Venohard and J. E. Moussie, Rs. 3,600-4,800, with quarters, or lodging allowance, and travelling allowance.
+
+Pay and Quarter Master, T. Lagaité, Rs. 4,000-5,000, and house rent.
+
+Prisons Department.
+
+Superintendent of Prisons and Reformatory.*
+
+Chief Warders, J. F. Henry Rs. 5,500-6,600; and H. Newlands, Rs. 4,600-5,500 and quarters.
+
+Assistant Chief Warders, J. H. Beadles and W. Pyemont, Rs. 3,450-Rs. 4,140, and quarters.
+
+* See Police Department.
+**Ecclesiastical.**
+
+**Church of England.**
+
+Bishop of Mauritius, Right Rev. H. Otter-Barry, Rs. 10,000, and travelling allowance, Rs. 1,000.
+
+Archdeacon, H. Rolph, Rs. 4,500.
+
+Civil Chaplain, Port Louis and Curepipe, A. Senior, Rs. 3,900.
+
+Civil Chaplain, Vacoas and Black River, C. G. Kerlake, Rs. 3,900.
+
+Civil Chaplain, Beau Bassin, Rev. J. H. Duff, Rs. 3,900; and Rose Hill, Rev. D. Daly, Rs. 3,900.
+
+Civil Chaplain, Moka and Quatre Bornes, Rev. H. Rolph, Rs. 3,900.
+
+**Roman Catholic Church.**
+
+Bishop of Port Louis, The Rt. Rev. J. Leen, Rs. 10,000, and travelling allowance Rs. 1,000.
+
+Vicar-General, Rev. R. M. Lee, Rs. 3,900, and travelling allowance Rs. 500.
+
+1st Class Priests at Rs. 2,600, Revds. J. Trottet, P. O'Carroll, L. Fresia, J. Mamei, A. Charpiat, J. Fitzpatrick, E. Dabdoub, M. Guerin, C. Streicher, A. Canning, P. Keenan, D. Casey, T. Eckert, F. Durr, M. de Boucherville.
+
+**Church of Scotland.**
+
+Minister and Chaplain (vacant), Rs. 5,200.
+
+**Education.**
+
+Rector, Royal College, T. B. Barnes, Rs. 15,000.
+
+Masters, R. E. Vaughan, P. Bacon, P. L. Dumas, V. F. Lempriere, H. W. B. Lloyd, J. S. R. Cole, A. D. Porter, J. R. de Lingen Kilburn, E. M. F. Payne, J. Young, Rs. 7,000-9,000.
+
+Gymnastics and Games Instructor (vacant), Rs. 4,000, and personal allowance of Rs. 1,500.
+
+**Royal College School.**
+
+Headmaster, J. J. Castelain, M.Sc., Rs. 10,000.
+
+Master, L. R. A. Glover, Rs. 7,000-8,000.
+
+**Government Schools.**
+
+Superintendent of Schools, P. Henri, Rs. 11,000.
+
+**Railway Department.**
+
+General Manager and Engineer of Railways and Docks and Harbour Engineer, H. C. M. Austen, Rs. 22,500 (a).
+
+Assistant Engineer P. Cantin, Rs. 7,500.
+
+Chief Accountant, H. W. Winson, Rs. 8,000-9,000.
+
+Assistant Chief Accountant, H. E. Barlow, Rs. 6,000-7,500.
+
+Traffic Superintendent, R. Sidonie, Rs. 8,000.
+
+Works Manager, T. B. B. Giles, Rs. 10,500-12,500.
+
+**Electrical Department.**
+
+Government Electrician, T. Williams, Rs. 10,500-12,000.
+
+Maintenance Inspector, R. T. Stevens Rs. 6,000-7,500.
+
+**Rodrigues.**
+
+Magistrate, M. Vigier de Latour, Rs. 9,000-12,000.
+
+Government Medical Officer, Dr. H. Madge, Rs. 7,000-10,000.
+
+---
+
+(a) Of which Rs. 7,500 paid from Docks and Harbour votes.
+
+---
+
+**Minor Dependencies.**
+
+District and stipendiary Magistrates, R. Esplatier-Noël, Rs. 9,000 to Rs. 12,000, and one vacancy.
+
+**Military Officers, &c. (in Mauritius).**
+
+Officer Commanding the Troops, Lt.-Col. D. A. Hutchinson, R.E.
+
+Commanding Royal Artillery, Major B. H. Elliott, R.A.
+
+Commanding Royal Engineers, Lt.-Col. D. A. Hutchinson, R.E.
+
+Commanding Royal Army Service Corps, Capt. M. M. Simpson, M.B.E., R.A.S.C.
+
+Chief Ordnance Officer, Capt. E. D. Wright, R.A.
+
+Principal Medical Officer, Major C. Armstrong, M.B.E., R.A.M.C.
+
+Command Paymaster, Captain M. M. Simpson, M.B.E., R.A.S.C.
+
+**Foreign Consuls (in Mauritius).**
+
+Argentina Republic, Dr. José Majia Linares (residing in South Africa).
+
+Belgium, R. M. Currie.
+
+Denmark, A. McIrvine.
+
+France, Orenga de Gaffory.
+
+Italy, H. R. Ebbeles.
+
+Netherlands, M. F. Briokdale.
+
+Norway, R. D. Stein.
+
+Peru, A. Coutanceau (Consular Agent).
+
+Siam, H. Goupille (Consular Agent).
+
+Spain, E. Antelme (Vice-Consul).
+
+Sweden, H. G. Robinson.
+
+Finland, Louis V. Goupille (Vice-Consul).
+
+Germany, A. Mc. Irvine.
+
+Portugal, G. M. Antelme.
+
+---
+
+**Nigeria.**
+
+Situation, Area and Population.
+
+The British Colony and Protectorate of Nigeria is situated on the north-eastern shore of that deep indentation in the western coast of the African continent known as the Gulf of Guinea, and is enclosed roughly by parallels of latitude 4° and 14° N. and by meridians of longitude 3° and 14° E.
+
+It is bounded on the north and north-west by the military territories of the French Sudan, on the east and south-east by the Cameroons, on the south and south-west by the waters of the Gulf of Guinea, and on the west by the French colony of Dahomey. Its greatest length from east to west is 700 miles and greatest breadth from north to south 650 miles.
+
+Great Britain has received a mandate over a small portion (amounting to 31,150 square miles) of the former German territory of the Cameroons, which portion has been placed, for purposes of administration, under the Nigerian Government.
+
+The area of Nigeria, including the area of Cameroons under British Mandate, is approximately 373,078 square miles (Southern Provinces and Colony 91,139 square miles, Northern Provinces 281,939 square miles. The country is therefore a little less in area than the United Kingdom, France and Belgium together, or about one-third that of British India. The population of Nigeria, excluding the Mandated Territory, on 1st April, 1931, was estimated at 19,130,859, and of the Mandated Territory at 797,812.
+Physiography.
+
+Topographically speaking, Nigeria consists of the following four main zones or areas:
+
+1. An area of swamp and mangrove forest with almost impenetrable undergrowth, running parallel to the coast-line and varying in depth from 20 to 60 miles. This area, which includes the deltaic region of the River Niger, is covered by a network of creeks and traversed by numerous rivers, the most important of which are the Rivers Benin, Forcados (branch of the River Niger), Nun (branch of the River Niger), Sombreiro, Bonny, Imo, Kwa-Ibo, and Cross.
+
+2. A belt of dense forest with thick undergrowth extending from the western to the eastern boundary and from 50 to 100 miles in width. The southern border of this area is some 20 miles from the coast-line in the west and thence follows the northern limit of the swamp and mangrove area. Its northern edge is difficult to determine exactly, as the belt gradually changes to patches of forest alternating with thick scrub and grass plains running approximately along a line drawn in a general east-south-easterly direction from about 7° 30' N. on the western border to 6° N. on the extreme east. The country is generally undulating with scattered hills, and an extensive view can seldom be obtained; there are, however, hills rising to over 3,000 feet, and the region becomes mountainous as the Cameroons frontier is approached. The zone is well watered by numerous rivers, which with few exceptions run from north to south, and contains extremely rich oil-palm areas. There are no open spaces, except around villages and clearings for farms.
+
+3. A zone of comparatively open country gradually developing into park-like land and thence into open expanses covered with high grass as the watershed of the River Benue and that of the Niger (above its confluence with the Benue) are neared. The zone is generally hilly and mountainous on the Cameroons frontier, where heights above 6,000 feet are to be found.
+
+4. A plateau occupying the greater portion of Nigeria north of the Rivers Niger and Benue. East of longitude 7° the southern limits of this plateau are determined by a zone of hills which succeeds the undulating grass country to the south. The features of the plateau are generally similar, and although many rivers take their rise in this tableland, it is broken to no great extent by their valleys, except in the cases of those of the Rivers Niger and Benue on the south and west. In elevation it does not exceed an altitude of much over 2,000 feet, except in the mountainous parts of Bauchi, where heights of 6,000 feet and more occur, and in the south-west of Yola, which is occupied by a part of the Cameroons mountain system. The surface is generally undulating, marked here and there by hills of granite and sandstone, which rise abruptly from the surrounding land. The country is clothed to a large extent with thin forests which become more and more scanty as the Western Sudan is entered and the arid "steppes" of the Sahara Desert are approached.
+
+Climate.
+
+West Africa formerly had the reputation of being so unhealthy that almost certain death would be the fate of the white man who endeavoured to make it his permanent home. And in this general condemnation Nigeria has been included. Though it cannot be claimed, even at the present day, that the country is a healthy one for the European except to a moderate extent on the plateau, the conditions of living have been so greatly improved during recent years that the possibilities of good health during temporary residence have been enormously increased. Medical and sanitary efforts have effected much by anti-malarial precautions, such as the use of quinine, and, around Lagos, the reclamation of considerable areas of swamp lands at great expense to Government. In spite, however, of this undoubtedly improvement in the conditions of life, Nigeria is not a land which can be colonised in the proper sense of the term by Europeans.
+
+The "dry season," characterised by the "Harmattan," a dry north-easterly wind accompanied by a thick haze composed chiefly of dust, and the "rainy season" are the predominating features in the climate of Nigeria. The former begins in the north in October, extending its influence gradually southward until it is perceptible at Lagos early in November. There it appears intermittently up to the beginning of March, but in the north the dust and haze are more continuous and last until April. During this period the maximum diurnal variations of temperature occur. The wind blows generally from the north-east, and both diurnal variation and humidity vary with the severity of the Harmattan. Even in Lagos, where hourly observations are taken, during December and January the humidity has been known to fall to 28 per cent. This season is ushered in and out by short periods of tornados and the rainy season fills the remainder of the year. A prevailing south-west wind supplies on the coast a copious precipitation which decreases rapidly as it travels inland. At Bonny, on the coast, the rainfall recorded in 1923 was 150-93 inches, rain falling on 151 days; at Kaduna, in the middle of the country, 43.55 inches, rain falling on 112 days; while the lowest recorded was 25.05 inches at Sokoto, rain falling on 44 days.
+
+History.
+
+As far back as the 17th century British traders have had mercantile depots on the mouths of the Niger and adjacent rivers and creeks, known as the Oil rivers, and in those early times the trade was mainly confined to the traffic in slaves. At this epoch the French attempted a settlement at the mouth of the Niger, but were unsuccessful, and during the 18th century British interests preponderated.
+
+At the beginning of the 19th century the exploration of the upper river, which had hitherto been supposed to be identical with the Nile or Congo, began, and Mungo Park traced its course from Bamako to Bussa, where he lost his life in the rapids. Lander in 1830 demonstrated the identity of Mungo Park's river at Bussa with the lower Niger, and followed its course to the sea.
+
+In the next two decades, 1840-60, efforts were made, both by the British Government and private individuals, including French and German merchants, to develop the trade of the Niger, while our knowledge of the interior was greatly enlarged by the travels of Clapperton and Allen, both British, and of Barth and others, all at British instigation. A consulate was founded at Lokoja, and, at the cost of much money and many lives, some progress seemed to have been made, only to result in failure. The pioneer of these efforts was McGregor Laird, who in 1832 began to establish stations and to endeavour to secure the country for England, but the stations were destroyed by natives, or removed after Laird's
+death in 1861. The good results of his work were not, however, entirely lost.
+
+The situation in the early seventies was that there were numerous trading firms—English, French, and German—on the Oil rivers, where the export trade in palm oil had begun to assume importance, the imports being chiefly confined to spirits, guns and powder. The expeditions sent by the British Government to the higher river, and the subsidies voted by Parliament, had been withdrawn, and European intercourse with the Niger would have ceased had it not been for the perseverance of a few British firms, who during the four months of high water each sent a trading steamer up the river, and soon established a few primitive stations, where the white population of Nigeria lived. These bold pioneers were at the mercy of powerful chiefs, and gross outrages were from time to time avenged by the despatch of a light draught gunboat.
+
+At the close of 1877, Mr. Goldie-Taubman—afterwards Sir G. Taubman Goldie—visited the Niger and recognised that amalgamation of interests and a settled government must replace the chaotic rivalry of traders. With this object in view he determined to secure a charter for a British Company. After much negotiation the small British interests, which were the only ones existent on the Niger at that date, were amalgamated in the United African Company in 1879, and in 1881 a charter was applied for. The objection was raised that the capital of the Company was too small, and hence the National African Company was formed with a capital of a million sterling, with the object of opening up direct relations with the great chiefs of the interior.
+
+With great energy the new company founded stations, sent out a river flotilla, and pushed up the Niger and Benue, but meanwhile the foresight of Gambetta had prompted the establishment of two French Companies, which, being backed by the French Government, acquired a great influence on the lower Niger. Of these the Compagnie du Senegal had a capital of 600,000l., and some thirty French stations were formed, and while the French flag remained the charter could not, of course, be granted. The energy of Sir George Goldie, however, secured the disappearance of the French flag just in time to announce at the Berlin Conference in 1885 that the British flag alone flew on the Niger, and to secure to Great Britain the guardianship of the international navigation rights on the Niger while the French companies and rival British interests which had meantime grown up were absorbed in the National African Company.
+
+In April, 1885, a new danger arose from the mission of Herr Flegel to secure treaties with Sokoto and Gando on behalf of Germany, but he was anticipated by the British Company, who concluded treaties with those powerful emirs. Great Britain was, therefore, able to conclude the Agreement of 1886 with Germany, which settled the frontiers between Nigeria and the Cameroons as far north as Yola, and in July, 1886, the long-delayed charter was granted, and the Company changed its title to that of the Royal Niger Company. Meanwhile, the territories adjacent to the river had been placed under British protection.
+
+The first decade was spent in founding a number of commercial and quasi-administrative stations on the Niger and Benue Rivers, and in making treaties with the native tribes, and consolidating the commercial organisation on which the Company was dependent for its revenue. The expeditions of Monteil to Lake Chad from the west, Crampnel from the south-east, and of Mizon by way of the Niger and Benue, were checkmated, and finally, in 1890, an agreement was arrived at with France by which the line dividing the French Sudan on the north from Nigeria was drawn with certain deflections from Say, on the Niger, to Barua, on Lake Chad, and in 1893 the Cameroons boundary was extended from Yola to the south of the same lake.
+
+In 1897 the growing hostility of the great Fulah Power culminated in a plan to drive the white men out of the country. The Company were not unprepared, and they took the field with some 500 or 600 soldiers, led by about 30 British officers, against many thousands of the enemy, of whom a large proportion were mounted. Nupe, a dependency of Sokoto, which had thus challenged the Company's existence, was divided by the Niger into two nearly equal portions. The southern portion was first conquered, and then northern Nupe after a two days' fight before the capital at Bida. Ilorin, a smaller dependency, was next subdued. Prior to this southern Nupe had been partially cleared of the Fulah slave raiders, and on the 20th June, 1897, the legal status of slavery in the Niger Territories was declared abolished by the Company.
+
+Simultaneously with this crisis another, which was to have far-reaching effects, arose. The only indeterminate frontier remaining was that to the west. The Company perceiving, in 1894, that French enterprise contemplated the annexation to Senegal and Dahomey of the Borgu country, sent out Captain Lugard (now Lord Lugard) to negotiate treaties with the king or chiefs of that country. Anticipating the powerful French expeditions by only a few days, he succeeded in making treaties at the capital of Nikki, and with other semi-independent chiefs of districts. Disregarding these prior British treaties, a swarm of French expeditions spread over Borgu, and having obtained a pledge from our Government that Sir George Goldie's powerful expedition, then in the field against the Fulani, should not advance north of latitude 9°, they invaded Bussa, with which we had a specific treaty of many years' standing, and established themselves on the Niger at several points.
+
+At the end of 1897, in view of this situation, the British Government decided to raise an Imperial local force, and the task was confided to Colonel Lugard, who left England in March, 1898. After a period of great tension, during which the British and French troops faced each other, and a conflict was daily imminent, a convention was signed laying down a boundary line from the intersection of the 9th parallel with the frontier of Dahomey to Illo on the Niger, and thence to the northern frontier, which was more accurately defined, to Lake Chad, and to its junction with the Cameroons frontier. Meanwhile, the Emir installed at Bida by the Company was ousted, and the Nupes were again in arms, while the army of Rabeh, which had penetrated from the Nile Valley to Lake Chad, conquered and laid waste the territory of Bornu, but eventually returned to the south of Lake Chad.
+
+The Imperial force, called the West African Frontier Force, with a "Commissioner and Commandant" at its head, and independent of the Company, was rapidly being formed, with its headquarters at Jebba, and with numerous detachments holding the posts evacuated by the
+French throughout Borgu, and a strong garrison at Lokoja.
+
+The Imperial Government having decided that the charter of the Royal Niger Company should be revoked, and that its administrative rights and powers should be transferred to the Crown, steps to this end were taken at the end of 1898, when the convention with the French Government had been signed. The actual transfer of the Company's rights and possessions to the Crown took place on the 1st of January, 1900, when the territories north of a line extending, with deflections, from approximately latitude 9° on the Dahomey frontier to Idah on the River Niger, thence to Takum on the Cameroons border, were formed into the Protectorate of Northern Nigeria under Colonel Lugard as High Commissioner.
+
+During the first years of the protectorate of Northern Nigeria, the Government was engaged in bringing under control the powerful Emirates of the Hausa States and the Kanuri Kingdom of Bornu. These Emirs, who maintained large standing armies, a large proportion of which was mounted, annually took the field and devastated vast tracts of country in slave-raiding expeditions. Despite the treaty with Sokoto, under which the Royal Niger Company paid him an annual subsidy, the Fulani Emirates now defied the Government. The Emirs of Nupe and Konotop were brought under control in 1901; Yola, Bauchi and Bornu in 1902; and the work of pacification was practically completed in 1903 with the taking of Kano and Sokoto, and the action at Birni. Since that date the Hausa States have maintained a record of peaceful progress, with the exception of a rising by a so-called "Mahdi" in 1906 at Satriu in the Sokoto Province, which was, however, quickly suppressed with the loyal assistance of the Emir of Sokoto. The minor Emirate of Hadeija in the extreme north, which had not previously been brought under control, assumed an aggressive attitude in 1906 which, however, was suppressed. It was necessary also to send minor expeditions against various unruly and truculent pagan tribes, of which the more important were the Munshis on both banks of the Benue, the Okpotos in the Bassa Province, and various hill-tribes in the Bauchi and Nassarawa Provinces.
+
+In addition to the pacification of these vast areas—hitherto largely unexplored—the early years of the Protectorate were devoted to creating a Civil Government in all its departments, and to the housing of the civil and military officials, and the erection of public offices; the building of the first light railway from Barijuko (on the navigable Kaduna) to Zungeru (22 miles), to which place the seat of Government was transferred in 1902 from the temporary capital at Jebba; and the opening up of communications both by land and by the navigable waterways of the Niger, Benue, Kaduna and Gongola Rivers. In 1907 the construction of the main trunk line from the navigable Niger at Baro to Kano (356 miles), the great market of the Hausa States, was commenced and completed, as a pioneer line, in 1912. During the 14 years from the inception of the Government of Northern Nigeria on 1st January, 1900, to its amalgamation with Southern Nigeria on 1st January, 1914, there were constructed in the Protectorate 700 miles of railways and 5,500 wire miles of telegraphs, while the Marine Department worked 1,000 miles of river.
+
+In the political and administrative sphere a complete Civil Service was created, which increased from half a dozen officers in 1900 to an establishment of 132 residents and assistants in 1913. The guiding principle of the Administration was indirect rule through the native chiefs, the powers delegated to whom varied with their degree of enlightenment. A form of direct taxation was evolved, based on the elaborate system which obtained in the Hausa States prior to the British occupation, but shorn of its abuses. The collection of these taxes was made through the chiefs, a fixed proportion of them being retained in "Native Treasuries," from which the salaries of the native officials were paid.
+
+As an indication of the progress achieved, the Durbar held at Kano on 1st January, 1913, may be instanced, when practically all the chiefs of the Protectorate—from the great Mohammedan Emirs to the petty chiefs of pagan hill tribes—assembled with such retinues as they were allowed to bring, estimated at 20,000 horsemen and 40,000 foot.
+
+THE OIL RIVERS PROTECTORATE.—When, in 1885, the British Government at the conference of the European Powers, held at Berlin, was able to obtain acknowledgment of the fact that a British protectorate had been virtually established over the Niger districts, an Order-in-Council defining them was made, and the portion lying on the coast line was designated the Oil Rivers Protectorate, and placed under Consular rule.
+
+In 1891 the rule of the Consul over the Oil Rivers Protectorate was exchanged for that of a Commissioner and Consul-General, stationed at Old Calabar (now Calabar), while Deputy Commissioners and Vice-Consuls were appointed to the Rivers Benin, Bonny, Brass and Forcados, and to the districts of Sapele and Warri.
+
+By an Order-in-Council of 1893 the Oil Rivers Protectorate was extended definitely into the hinterland under the name of the Niger Coast Protectorate, and an administration established under an Imperial Commissioner and Consul-General.
+
+BENIN.—In 1892 Captain Gallwey (now Sir H. L. Galway) concluded a treaty with the king of Benin. As time passed, however, it became evident that this potentate had no intention of adhering to its provisions.
+
+At this period Benin held enormous power over the surrounding territory, and it was said that her influence extended even so far as Sierra Leone on one side and the Congo River on the other. The terrible nature of the fetish rites and the wholesale human sacrifices which took place in Benin City, urgently demanded European intervention and the introduction of civilised rule.
+
+Early in 1897 a peaceful mission, organised by the Acting Consul-General to establish friendly relations with Overami, the king of Benin, and to induce him to carry out the terms of the treaty of 1892, was treacherously attacked, and with the exception of two, all the European members of the party were massacred. A powerful expedition was sent against Benin, and in a short time the capital had been captured, but the king made good his escape. The state in which Benin City was found passes all description. In every direction human remains, pits filled with bodies in various stages of decomposition, and altars dripping with fresh human blood were to be seen.
+
+Overami eventually surrendered and was sent into exile at Calabar, where he died in the early part of 1914. In 1899 there was a second expedition into the Benin country, which resulted in
+the capture and execution of Ologboshere, the leader of the attack on the mission.
+
+THE PROTECTORATE OF SOUTHERN NIGERIA, 1900-1906.—When in 1900 the charter of the Royal Niger Company was revoked by the Crown that portion of its territories lying between Idah and the coast was added to the Niger Coast Protectorate. At the same time by an Order-in-Council the Niger Coast Protectorate was constituted the Protectorate of Southern Nigeria, the administration being transferred from the Foreign Office to the Colonial Office, and placed under Sir R. Moor as High Commissioner. In 1901 the Niger Coast Protectorate troops were organised into a regiment of the West African Frontier Force, and remodelled on the lines of the original corps of that name raised in the Niger Company's territories by Colonel F. D. Lugard in 1898.
+
+Towards the close of 1901 preparations for the Aro Expedition were commenced. These operations were directed against the southern Ibo people in general and the Aro, or Inokun tribe in particular. The Aros, who may be described as the dominant section of the great Ibo family, held paramount power over a large extent of country lying between the Niger and Cross Rivers. They had established a powerful fetish, probably derived from Benin, known as the Long Juju which exercised an extremely evil influence on the ignorant and superstitious natives for miles around. After five months of arduous work, the Field Force accomplished the subjugation and disarmament of the Aro tribe, the destruction of the Long Juju and the bringing under Government control of that portion of the territories as far north as about the 5th parallel.
+
+Between 1905 and 1909 several expeditions were sent into the hinterland with the object of opening to trade and civilisation previously unexplored tracts of country. The principal operations were the Bende-Onitsha Hinterland Expedition, 1905-06, and the Niger-Cross River Expedition, 1908-09. As the troops progressed through the country new administrative districts and stations were formed, broad roads constructed in all directions, and many new markets established.
+
+The eastern frontier from the Cross River rapids to the sea was surveyed by an Anglo-German Commission in 1905-06; and from Cross River rapids to Yola in 1907-09. For some years before these delimitations, there were frequent raids across the border by German native soldiery from the Cameroons, which were invariably accompanied by robbery with violence and seizure; and even after the boundary line had been demarcated this violation of British territory did not cease.
+
+LAGOS OR EKO.—During the reign of Kosoko, Lagos, or Eko as it is known to the natives, became the chief centre of the slave trade in the Bight of Benin. Akitoye, his cousin, from whom the throne had been usurped, issued a proclamation to the effect that he would make common cause with the British against slavery if he were reinstated. Acting on this statement, the British Government took decisive measures, and in 1851 a party of bluejackets from Her Majesty's warships attacked and reduced the town. Kosoko fled and Akitoye was restored to power. In 1852 Akitoye and his chiefs signed a treaty by the terms of which they agreed to abolish the export of slaves, and to encourage the work of missionaries and the establishment of stations for them.
+
+A Consul was appointed to Lagos for the protection of British interests.
+
+About nine months after the signature of the treaty some Portuguese slave traders, who had been expelled, returned to Lagos and renewed the old practices. Akitoye was informed of what was going on, and their attempts were promptly suppressed. In consequence of this, the slave trade party, under the leadership of Kosoko, organised a rebellion which broke out in 1853. Indecisive encounters took place between the two factions, and bluejackets were landed to protect the Consulate. Attempts which were made by the Consul and officers to mediate failed, and finally marines were sent to assist Akitoye, who, after a short fight, Kosoko was defeated and fled. Dosumu, who succeeded his father Akitoye, was unable to adhere to the terms of the treaty, and was induced in 1861 to cede the sovereignty of Lagos and dependent territories to the Crown in consideration of a pension, which he continued to draw until his death in 1885.
+
+THE COLONY OF LAGOS.—In 1862 these territories were erected into a Colony, and the following year Kosoko, who in 1854 had been acknowledged king of Lekki and Palma, districts lying to the eastward, ceded these places to the Lagos Government. At the same time Protectorate rights were established over Ado and Oke-Oda on the west. In 1866 the Colony became a portion of the West African Settlements, retaining a separate Legislative Council, but being subject to the Governor-in-Chief at Sierra Leone. In 1874 the Colony, which extended from Badagry on the west to Odi on the east with an indefinite inland boundary, was united to the Gold Coast Colony.
+
+In 1883 Appa, lying on the western border of the Colony, was the next district to be brought under British jurisdiction. In 1884, the British Consul concluded a treaty with the Jakris by which their country as far as Mollume, was placed under British protection, and similar treaties were made with the chiefs of Ogbo and Mahin, small tribal areas situated in the creek region to the eastward. In 1886 the Lagos territories were separated from the Gold Coast and erected into a separate Colony and Protectorate. Between the years 1886 and 1895 Mahin, Ijebu-Ro, Itabu, and Aiyesan to the east, and Kotono, Igbese, Ada, and Ilaro to the west were proclaimed part of the Protectorate. An expedition was sent against the Ijebus in 1892, which resulted in the military occupation of their country, and in the opening of a most important trade route to the interior.
+
+From this time onward British influence gradually spread inland towards the Niger, and in 1899 the Protectorate was extended to the confines of Northern Nigeria and to the border of the Niger Coast Protectorate. The country generally prospered, and Lagos became a great trading port with many large mercantile firms, both European and native, established. Great trade routes were opened into the interior, and a railway was constructed from Lagos to Thadon, passing through a thickly populated and fertile agricultural country.
+
+THE COLONY AND PROTECTORATE OF SOUTHERN NIGERIA, 1906-1913.—In 1906 the Colony of Lagos and its protected territory were amalgamated with the Protectorate of Southern Nigeria under one administration and designated the Colony and Protectorate of Southern Nigeria. For administrative purposes the country was partitioned into three main divisions—the Western
+Province, which coincided with the former Colony and Protectorate of Lagos; and the Central and Eastern Provinces, which previously formed the Protectorate of Southern Nigeria.
+
+The next few years were spent in building up an extensive system of communications. The railway from Lagos to Ibadan was extended over the Northern Nigeria border to Jebba; thence across the Niger to Zungeru; and finally linked up with the railway in operation from Baoro on the Niger to Kano, the great Mohammedan trade centre of the north. A light railway was built joining the main line at Zaria with the tin fields of Bauchi. Broad main roads were driven in all directions and telegraph lines constructed between important administrative and trade centres.
+
+In 1901 the great undertaking of making Lagos an open port by the construction of huge moles and by the dredging of the sandbar, which obstructed the entrance to the harbour, was commenced; and by the end of 1913 sufficient progress had been made to permit of large ocean-going steamers entering the harbour and berthing alongside the wharves. For several years vessels drawing 20 feet of water have been able to use the harbour.
+
+Large areas in the north-eastern portion of the Protectorate, notably the country inhabited by the warlike and hitherto intractable Munshi people were brought under Government supervision.
+
+**The Amalgamation of Northern and Southern Nigeria, 1914:**—By Letters Patent of 29th November, 1913, and an Order-in-Council dated the 22nd of November, 1913, which Instruments came into operation on the 1st January, 1914, the Colony and Protectorate of Southern Nigeria and the Protectorate of Northern Nigeria were formed into the Colony and Protectorate of Nigeria. By another Order of the same date the boundaries of the Colony of Nigeria were defined, and by a third Order, which applied to the Colony and to the Protectorate, an advisory and deliberative body known as the Nigerian Council was established.
+
+Provision was made for an Executive Council and for a Legislative Council for the Colony. The legislative power for the Protectorate was vested in the Governor. The Colony was placed under an Administrator, and the Protectorate, divided into two groups of provinces—Northern and Southern—under two Lieutenant-Governors.
+
+Since the amalgamation, the chief events in the history of Nigeria have been the Great War, which resulted in the conquest of the Cameroons; the building of the Eastern Railway, and the development of the ports of Lagos and Port Harcourt, and of the Government Colliery at Enugu; the great trade boom of 1919 and 1920, and the great trade depression which succeeded it in 1921; the institution in 1923 of an enlarged and partly elected Legislative Council for the Colony and the Southern Provinces of the Protectorate (see under Constitution); the visit of the Prince of Wales in 1925, and the introduction of direct taxation in the Southern Provinces.
+
+**Political and Administrative Divisions.**
+
+Nigeria is arranged in three main divisions, the "Colony" and two groups of provinces designated the "Northern Provinces" and the "Southern Provinces." The Colony comprises the former Colony of Southern Nigeria, while the two groups of provinces are formed from the late Protectorates of Northern and Southern Nigeria.
+
+The Northern Provinces are Adamawa, Bauchi, Benue, Bornu, Ilorin, Kabba, Kano, Niger, Plateau, Sokoto, and Zaria.
+
+The Southern Provinces are Abeokuta, Benin, Calabar, Cameroons, Ijebu, Oyo, Ogoja, Ondo, Onitsha, Owerri, and Warri.
+
+The Provinces are each partitioned into divisions.
+
+The seat of Government is established at Lagos. The Administrative Head-quarters of the Colony is at Lagos, while those of the Northern and Southern Provinces are at Kaduna and Enugu, respectively.
+
+**The Cameroons:**—The conquest of the Cameroons was completed in February, 1916, after a series of operations which commenced in August 1914.
+
+An Anglo-French military and naval force under the command of Brigadier-General C. Dohell, (afterwards Major-General Sir C. Dobell), the Inspector General of the West African Frontier Force, compelled Duala to surrender on 27th September, 1914, and after hard fighting drove the German forces from the surrounding districts.
+
+On the 10th June, 1915, Garua, on the River Benue, fell after a siege of a few weeks by forces from Nigeria and the French Chad Territory under the command of Brigadier-General Cunliffe, the Commandant of the Nigeria Regiment, W.A. F.F.; having cleared the north of the Cameroons, except Mora, these forces marched southwards driving the Germans before them to the Sanaga River.
+
+French forces, with a Belgian contingent from the Congo, invaded the Cameroons from French Equatorial Africa under the command of General Aymerich and gradually pushed forward from the south-east and south towards Yaunde, which had become the headquarters of the German forces. Finally the main German forces, being almost surrounded by the converging advance of the Allied troops, retreated southwards into the Spanish territory of Muni, where they were interned, and the isolated garrison of Mora in the north then surrendered.
+
+By an arrangement which came into effect on 1st April, 1916, the Cameroons was provisionally divided into British and French spheres. The British sphere (about 31,150 square miles in extent) consisted of two portions. The smaller, in the extreme north, was intended to include the whole of the Sultanate of Dikwa or German Bornu. The larger consisted of a strip of country bordering on Nigeria, about 400 miles in length and with a maximum width of 80 miles, extending from about 30 miles south of Yola to the Cameroon estuary. It included Buea, the German administrative capital of the Cameroons, and the ports of Victoria, Tiko, and Rio del Rey, and consisted of nearly the whole of the Victoria District, the Kumba (or Johann Albrechtshöhe) District, the Ossidinge District, part of the Chang District, the Bamenda District, and parts of the Banjo and Garua Districts.
+
+The estimated population of the British sphere was about 650,000.
+
+The rest of the Cameroons, about 275,000 square miles, with Duala and Kribi, the chief ports, was assigned to France. Boundary adjustments with the French took place in 1920 in accordance with an agreement signed by Lord Milner and M. Simon on 10th July, 1919. The principal features of these were the transfer to the British of the country west of the Mandara Mountains from
+the Dikwa Sultanate in the north to the River Tiel in the south, and the transfer of nearly all the Chang District to the French.
+
+The British sphere was placed under the control of the Governor of Nigeria, and the parts of the sphere to the north of the Bamenda District were administered by the staffs of the adjoining Nigerian Provinces of Bornu and Yola. The Bamenda, Ossidinge, Kumba and Victoria Districts were administered as a separate Cameroons Province with four Divisions (Bamenda, Mamfe, Victoria, Kumba) under a Resident stationed at Buea, responsible to the Governor of Nigeria through the Lieutenant-Governor of the Southern Provinces. The large German cocoa, rubber and banana plantations in the Victoria District, with about 48,000 acres under cultivation, were placed in the charge of a Plantation Department, in order that they might be kept in good order as far as possible until their mode of disposal was settled. They were sold by auction in November, 1924.
+
+By the Treaty of Versailles, Germany renounced in favour of the Principal Allied and Associated Powers all her rights over the Cameroons.
+
+In December, 1920, the British and French Governments submitted to the Council of the League of Nations draft mandates for the British and French spheres with a joint recommendation (dated 17th December, 1920) for the division of the Cameroons in accordance with the Milner-Simon agreement of 10th July, 1919. In October, 1921, the Council of the League approved in principle the division of the country in accordance with that agreement and the application of the mandate system to those territories, and on 20th July, 1922, after a delay due to negotiations between the United States Government and the Mandatory Powers, the Council confirmed the mandates and defined their terms.*
+
+By an Order in Council, dated 1923 and brought into force in February, 1924, and by Nigerian Ordinance No. 3 of 1924, provision was made for the future government of the British Sphere as if it were part of the Protectorate of Nigeria. Under these enactments, the Cameroons Province is administered and legislated for as if it formed one of the Southern Provinces of the Protectorate, while the northern parts are administered and legislated for as if they formed parts of the Northern Provinces of Bornu and Yola; and most of the laws of Nigeria are applied to the British Sphere, subject to the terms of the mandate as regards the few provisions thereof which are not in accordance with ordinary Nigerian law and practice.
+
+Commerce and Industry.
+
+The progress of Nigeria may be illustrated by the fact that in 1914 the total value of imports and exports (excluding specie) was a little over 5 millions sterling, as compared with over 12 millions in 1914 and over 27 millions in 1930.
+
+Imports consist chiefly of the following goods, which are arranged alphabetically, and not in order of value:—Aerated waters, bags and sacks, beads, beef, bicycles, biscuits, chemicals and drugs, cigars and cigarettes, kola-nuts, cooper's stores, cotton and woollen goods, cutlery, earthenware, enamelware, firearms, fish, flour, furniture, galvanized iron, gunpowder, haberdashery, hardware, kerosene, matches, motor vehicles, perfumery, rice, rope and twine, salt, silk goods, soap, spirits, stationery, sugar, timber, tobacco, umbrellas, wearing apparel, wines, and a great number of miscellaneous articles. Cotton-piece goods form the principal class in the import table, 3,045,144l. worth being received in 1930.
+
+The principal exports are palm-kernels, palm-oil, tin, hides and skins, ground-nuts, cotton lint, cocoa, mahogany, rubber, and shea produce.
+
+The influence of railway extensions in the Northern Provinces is shown by the largely increased exports of ground-nuts, hides and skins, and shea produce. In 1911, the year before the railway to Kano was opened, the total value of these three products shipped overseas was 89,000l. only, as compared with 3,130,207l. for these products in 1930. There is also a large increase in cotton goods carried to Kano.
+
+Deposits of lignite and coal have been discovered near Asaba and Udi in the Southern Provinces. A colliery was opened by Government in 1915 at Enugu, the coal won being used by Government Departments or sold to the public. The output for 1930 was 364,844 tons.
+
+Amongst minor products exported from the Colony and Protectorate may be mentioned ivory, ebony, copra, coffee, guita, percha, beeswax, silk gums, benniseed, piassava fibre, capsicum, ginger, and ostrich feathers.
+
+Crops cultivated for home consumption include maize, yams, cassava, sweet potatoes, sugar cane, guinea corn, ground-nuts, rice, millet, tobacco, plantains and bananas, beans of various kinds, etc. Wheat is grown to a small extent in some parts of the Northern Provinces.
+
+Large herds of cattle, sheep, and goats are raised in the Northern Provinces, and in the extreme north, ostriches and camels are bred. Horses and donkeys are bred and in common use in the northern part of the Protectorate.
+
+The ports served by ocean steamers are, from west to east, Lagos, Forcados and Burutu, Warri, Sapele, Koko Town, Akassa, Bonny, Port Harcourt, Degema, Opobo, Calabar, and Victoria, and Tiko, Cameroons.
+
+Import and export merchants are established at the ports, and also up-country along the main waterways, the Niger, Benue, and Cross Rivers, and at inland railway stations.
+
+The Nigerian Tin Fields.
+
+The principal tin fields are situated on the western boundary of the Bauchi Province and in the Provinces of Nassarawa, Zaria, and Kano adjoining that boundary. Tin is also known to exist in the Provinces of Ilorin, Calabar, and Yola, but as yet has not been found in payable quantities.
+
+The tin is in the form of cassiterite, and is mostly found in the detrital deposits resultant on the vast denudation that has taken place all over the known field; it is therefore more readily discovered in the existing river-beds; and shows a tendency to increase in size and richness of deposit nearer their sources.
+
+The pagan town of Bukuru may be taken roughly as the centre of the field (about 6,000 feet above sea level), from which three great waterways of the Northern Provinces take their origin. Flowing westwards we have the Ngel River becoming the Kwail Danchandon, and eventually the Kaduna, flowing north-east the Delimi River that goes to Lake Chad, and flowing east the numerous tributaries of the Gongola which joins the Benue, such as the Shen, Forum, Ropp and Jarawa Rivers.
+
+Tin ore has been worked and smelted by the natives during the last hundred years, the Seriki (Chief) of Liruein-Delma being a grandson of the
+
+* For text of the British mandate see Cmd. 1704.
+ative who historically first discovered and worked it. There is, however, strong evidence to show that some former race knew of its existence. Beads may be seen that have been found in the sepulchral deposits that could only have been made by man. These beads bear no resemblance to the modern ornaments made by tin workers, or are such beads worn by any existing race of natives near the fields, also the depth at which they have been found precludes a modern origin.
+
+The ore won by the existing mines amounted in 1913 to 5,630 tons. The exports were 8,475 tons in 1923, and 13,070 tons valued at £2,209,545 in 1928, and 10,794 tons valued at £96,1851 in 1931.
+
+Banking, Currency, Weights and Measures.
+
+Banking facilities are afforded by the Bank of British West Africa Ltd., and Barclays Bank Dominion, Colonial and Overseas). The former is established at Lagos (local head office, Marina, and branch office, 196, Broad Street), Aba, Ibadan, Abeokuta, Calabar, Ebute Metta, Enugu, Gusau, Ibadan, Jos, Kaduna, Maiduguri, Kano, Lokoja, Makurdi, Onitsha, Opobo, Oshogbo, Port Harcourt, Sapele, Warri and Zaria, and there are also a number of agencies. Barclays Bank Dominion, Colonial and Overseas) is established at Lagos, Aba, Burutu, Ebute Metta, Gusau, Ibadan, Jos, Kano, Port Harcourt, Zaria and Victoria (British Cameroons).
+
+The coins current in Nigeria are:—U.K. gold, silver and bronze coins; West African silver coins value 2s., 1s., 6d., and 3d., and West African nickel-bronze coins value ½d., 1½d. and 2½d. (tenthpence).
+
+All coins, which under the Coinage Acts, 1870 and 1891, are legal tender in the United Kingdom, and all subsidiary coins coined in pursuance of the provisions of His Majesty's Order-in-Council dated 28th July, 1906, as amended by Orders-in-Council dated respectively 9th September, 1907, 9th October, 1908, 2nd August, 1910, and 7th May, 1913, are current in all parts of Nigeria. The United Kingdom coins, however, are being superseded by the West African coins. Gold and silver coins of the United Kingdom and West African silver coins are legal tender to any amount; United Kingdom bronze coins and West African nickel-bronze coins are legal tender to the extent of one shilling.
+
+The West African silver coins, authorised by the Nigerian Coinage Order, 1913, were introduced in May, 1913. Owing to the rapid disappearance of silver coins other West African coins of alloyed metal of the same denominations and of the same standard weights, but of a low intrinsic value, were introduced in pursuance of the provisions of His Majesty's Order-in-Council dated 9th February, 1920, and the silver coins are being withdrawn. This alloy coinage has been in circulation since 31st July, 1920. The West African nickel-bronze coins were introduced in 1907, 1908 and 1911. Currency notes were introduced in 1916 under the Currency Note Ordinance of that year. Notes of the values of 1s. and 10s. are now in circulation.
+
+The weights and measures in common use are the same as those in Great Britain.
+
+Chief Towns and Means of Communication.
+
+The principal towns of the Northern Provinces are:—Bida, Ilorin, Jos, Kaduna, Kano, Katsina, Lokoja, Maiduguri, Sokoto, Yola, and Zaria; while those of the Southern Provinces are:—Aba, Abeokuta, Benin City, Calabar, Enugu, Forcados, Ibadan, Ijebu-Ode, Onitsha, Opobo, Oshogbo, Oyo, Port Harcourt, Sapele and Warri. The only large town in the Colony is Lagos, the capital of Nigeria.
+
+Steamships maintain a regular service between Nigeria, Europe, other West African Colonies, etc., and there is cable communication with West and South-West African ports, Europe and South Africa, and thus with all parts of the civilised world.
+
+The Western Division of the Nigerian Railway (3ft. 6in. gauge) runs from Lagos on the coast through the important towns of Abeokuta, Ibadan, Kaduna and Zaria, to Kano, a distance of 705 miles, thus connecting large and populous commercial centres in the interior with each other and with the sea. The main line from Kano has been extended to N'Guru, situated just inside Bornu Province; this extension has a length of 144 miles, and was opened on the 1st of October, 1930. There are also three branch lines, one of 111 miles running from Minna to Baro, on the River Niger, another of 137 miles from Zaria through Funtua and Gusau to Kaura Namoda, opened in 1929, and a third, a 2ft. 6in. light railway 134 miles long, from Zaria to Jos on the Bauchi Plateau. In 1913-16 a 3ft. 6in. gauge railway was built from Port Harcourt, on a branch of the Bonny River, to Enugu, a distance of 151 miles. This line, which is generally known as the Eastern Railway, runs through a rich oil-palm belt, and taps the coal field at the Government Colliery at Enugu. Construction was resumed after the war, and the next section, of 139 miles, from Enugu to Makurdi on the Benue River, was completed in 1923. The final section (279 miles), from the Benue to Kaduna, was completed in 1927. The line is 569 miles in length and affords an alternative outlet for the tin-ore and agricultural produce of the north, and renders the coal mined at Enugu available throughout the districts served by the Western Division of the Railway. A branch from the Eastern line at Kafanchan to Jos (63 miles) connects the tin mines of the Bauchi Plateau with Port Harcourt.
+
+A short branch line of 24 miles has been constructed between Ifo-Ilaro-Idogo, and was opened on the 1st of June, 1930.
+
+A system of inland telegraphs, also owned and operated by Government, connects the majority of the principal towns on the coast and in the interior, and the African Direct Telegraph Company controls a wireless station at Lagos.
+
+The Government has constructed a very large number of roads, many of which are suitable for motor traffic, between the headquarters stations of the Provinces, and there are, in addition, many minor roads. The Rivers Niger and Benue are in themselves great natural highways, and in the south there are numerous other navigable waterways, which provide means of communication and transport.
+
+Religion and Education.
+
+The bulk of the population of the Northern Provinces is Muhammadan, the majority of the remainder being pagan. In the Southern Provinces however, the proportions are reversed: Muhammadan communities occur especially in the western
+districts. Missionary societies of various Christian denominations have established many stations with churches and schools throughout the country.
+
+Education in Nigeria is under the control of a Director in Lagos and two Assistant Directors, at Kaduna and Enugu, the headquarters of the Northern and Southern Provinces respectively.
+
+Although there is now one Department of Education for the whole of Nigeria, the unification of the two systems can only be gradual and modifications in curriculum, etc., are necessitated in the Northern Provinces by local conditions.
+
+In the Southern Provinces education work is for the most part carried on by Missionary Societies. There are 51 Government schools, 239 assisted Mission schools in receipt of an annual grant-in-aid and 2,387 un-assisted schools (mostly Mission). All schools are controlled by the Department. The above figures include a number of Middle (Secondary) schools and classes and 23 girls' schools. There are 174,874 children in the Elementary Classes, and 9,862 in the Middle Classes of the above schools, most of the latter leaving after reaching the equivalent of Standard 6.
+
+There are also Mission Training Colleges for Teachers, Government Elementary Training Centres, where teachers for Elementary schools are trained, and a Higher College for the vocational training of selected students from the Middle schools.
+
+A new Education Code was introduced in 1926 and revised in 1931. There is a Board of Education on which the interests of Missionary Societies are largely represented.
+
+In the Northern Provinces there are 117 Government Elementary and Middle schools, all of which are maintained by the Native Administrations. No school yet covers the full Middle course. There are also 3 Elementary Training Centres for Teachers and a Higher College. A beginning has been made in girls' education at two centres.
+
+Mission schools total 183 (mostly elementary, in Pagan areas), of whom 7 are assisted, and 35,462 Native Muslim schools where only the Koran is read.
+
+There are approximately 10,300 pupils in Elementary Classes, 800 in Middle Classes, and 193,000 in the Native Koran schools.
+
+A separate Advisory Board of Education functions in the Northern Provinces.
+
+The total Government expenditure in 1932-33 was £250,000, of which £95,000 was paid in grants to Missions. In addition, the Native Administrations contributed £8,000 in the Southern Provinces and £43,000 in the Northern Provinces.
+
+**Constitution.**
+
+The territorial divisions of Nigeria are the "Colony of Nigeria," the "Northern Provinces" and the "Southern Provinces." The Northern Provinces and the Southern Provinces together form the Protectorate.
+
+The Government of the Colony of Nigeria is provided for by Letters Patent of 9th December, 1922, and Royal Instructions to the Governor of the Colony of the same date, as amended by Royal Instructions, dated 17th February, 1928. The Government of the Protectorate is provided for by the Nigeria Protectorate Order in Council, 1922, of 21st November, 1922, and Royal Instructions to the Governor of the Protectorate of 9th December, 1922 and 17th February, 1928.
+
+The Nigeria (Legislative Council) Order in Council, 1922, dated 21st November, 1922, amended by the Nigeria (Legislative Council) Order in Council, 1928, dated 16th May, 1928, provides for a Legislative Council for the Colony and the Southern Provinces of the Protectorate, and this Council is also given control over Protectorate Government expenditure in the Northern Provinces. The Legislative Council consists of:
+
+- The Governor, as President.
+- The Official Members, viz:
+  - The Members of the Executive Council.
+  - The Senior Residents.
+  - The Deputy Chief Secretary to Government.
+  - The Secretary, Northern Provinces, and its Secretary, Southern Provinces.
+  - The General Manager of the Railway.
+  - The Director of Public Works.
+  - The Director of Agriculture.
+  - Three Nominated Official Members.
+- The Elected Members, viz:
+  - Three members elected by persons resident within the Municipal Area of Lagos.
+  - One member elected by persons resident within the Municipal Area of Calabar.
+  - The Nominated Unofficial Members, not exceeding 15 in number.
+  - One member nominated by the Lagos Chamber of Commerce.
+  - One member nominated by the Calabar Chamber of Commerce.
+  - One member nominated by the Port Harcourt Chamber of Commerce.
+  - One member nominated by the Kano Chamber of Commerce.
+  - One member nominated by the local Chamber of Mines.
+  - One member to represent Banking interests in Nigeria.
+  - One member to represent Shipping interests in Nigeria.
+
+The qualifications for registration as an elector in Lagos or Calabar are that the elector must be a male person who:—(1) is a British subject, or a native of the Protectorate of Nigeria; (2), is of the age of twenty-one years or upwards; (3), has been ordinarily resident for the twelve months immediately preceding the date of registration in the municipal area for which the election is being held; and (4), was during the calendar year immediately preceding in possession of a gross annual income from all sources, of not less than one hundred pounds.
+
+The Nigerian Council, created in 1914, was abolished in 1923.
+
+**Statistics of Nigeria.**
+
+| Year | Revenue | Expenditure |
+|------|---------|-------------|
+| 1923-24 | 6,260,561 | 5,501,243 |
+| 1924-25 | 6,944,220 | 5,768,715 |
+| 1925-26 | 8,268,928 | 6,583,167 |
+| 1926-27 | 7,734,429 | 7,584,692 |
+| 1927-28 | 8,728,451 | 9,147,530 |
+| 1928-29 | 8,429,308 | 9,395,749 |
+| 1929-30 | 8,703,165 | 8,947,707 |
+| 1930-31 | 7,847,654 | 8,555,022 |
+| 1931-32 | 6,732,454 | 8,063,143 |
+| 1932-33 | 6,899,566 | 6,898,800 |

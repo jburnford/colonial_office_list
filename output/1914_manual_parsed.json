@@ -1,0 +1,41 @@
+{
+  "year": 1914,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1914/olmocr_results.md",
+  "total_colonies": 3,
+  "colonies": [
+    {
+      "colony_name": "SAN FERNANDO",
+      "year": 1914,
+      "start_line": 982,
+      "end_line": 1166,
+      "char_count": 7862,
+      "line_count": 185,
+      "filename": "SAN_FERNANDO.md"
+    },
+    {
+      "colony_name": "WITH MAPS",
+      "year": 1914,
+      "start_line": 1168,
+      "end_line": 1255,
+      "char_count": 3766,
+      "line_count": 88,
+      "filename": "WITH_MAPS.md"
+    },
+    {
+      "colony_name": "CATALOGUE AND ESTIMATES FREE",
+      "year": 1914,
+      "start_line": 1257,
+      "end_line": 1287,
+      "char_count": 1509,
+      "line_count": 31,
+      "filename": "CATALOGUE_AND_ESTIMATES_FREE.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Python automated batch parser v3",
+    "date": "2025-11-12",
+    "method": "Structural boundary detection with content size filtering",
+    "colony_section_start": 826,
+    "colony_section_end": 1289
+  }
+}

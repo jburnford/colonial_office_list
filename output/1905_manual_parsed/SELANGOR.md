@@ -1,0 +1,661 @@
+SELANGOR.
+
+
+
+British Resident, H. C. Belfield £1,400
+
+
+
+Secretary to Resident, R. C. Grey £900 to 1,020
+
+
+
+Protector of Chinese, H. C. Ridges £660 to 720
+
+
+
+Superintendent of Revenue Surveys, H. R. Shaw £3,000
+
+
+
+State Engineer, E. R. Stokoe £780 to 900
+
+
+
+Superintendent, Posts and Telegraphs, A. S. Baxendale £3,300
+
+
+
+†Senior Magistrate, L. P. Ebden £900 to 1,020
+
+
+
+Register of Courts, A. B. Voules £540 to 600
+
+
+
+* Draws Personal Allowance of £600.
+
+
+
+† Present holders draws an allowance of £60 per annum to be increased to £120 on 1-7-07.
+
+
+
+‡ Is also Senior Magistrate for Negri Sembilan.
+
+
+
+• Also Entertainment allowance £240.
+
+
+
+† The title of the present holder, Mr. C. R. Hanson, is "Resident Engineer for Railways, Perak and Province Wellesley."
+
+**State Surgeon**, E. A. O. Travers, M.R.C.S., L.R.C.P. £4,800
+
+
+
+**District Officers:**
+
+- Klang, H. Berkeley £660 to 720
+
+- Kuala Langat, R. C. Edmonds £420 to 480
+
+- Ulu Langat, O. F. Stonor £540 to 600
+
+- Kuala Selangor, E. F. Townley £540 to 600
+
+- Ula Selangor, C. D. Bowen £660 to 780
+
+
+
+**Collector of Land Revenue, Kuala Lumpur**, E. Burnside £660 to 720
+
+**Harbour Master**, W. G. C. Walter £360 to 420
+
+**Chairman, Sanitary Board, Kuala Lumpur**, E. S. Hose £660 to 780
+
+
+
+---
+
+
+
+**NEGRI SEMBILAN.**
+
+
+
+**British Resident**, D. G. Campbell £1,300
+
+**Superintendent of Revenue Surveys**, A. Lansdell £3,300
+
+**State Engineer**, E. H. Wallich £660 to 780
+
+* Senior Magistrate, L. P. Ebden
+
+**State Surgeon**, W. L. Braddon, M.B., B.Sc., F.R.C.S. £4,200
+
+**Collector of Land Revenue**, F. J. Weld £660 to 720
+
+
+
+**District Officers:**
+
+- Coast, J. F. Owen £540 to 600
+
+- Jelebu, F. B. Cox £540 to 600
+
+- Kuala Pilah, H. Chevallier £540 to 600
+
+- Tampin, C. W. C. Parr £540 to 600
+
+- Harbour Master, R. G. Hickey £300 to 350
+
+
+
+---
+
+
+
+**PAHANG.**
+
+
+
+**British Resident (vacant)**, C. Wray (acting) £1,300
+
+**Superintendent of Revenue Surveys**, G. M. Stafford £3,300
+
+**State Surgeon**, S. H. R. Lucy, M.R.C.S., L.R.C.P. £480 to 540
+
+**State Engineer**, N. T. Gray £480 to 540
+
+
+
+**District Officers:**
+
+- Kuala Lipis, F. Belfield £660 to 780
+
+- Raub, J. S. Mason £420 to 480
+
+- Temerloh, P. A. F. David £420 to 480
+
+- Pekan, T. C. Fleming £540 to 600
+
+- Kuantan, H. W. Thomson £420 to 480
+
+
+
+---
+
+
+
+**TRANSVAAL.**
+
+
+
+**Situation and Area.**
+
+
+
+The Transvaal lies to the north of the Orange River Colony and to the south of Rhodesia, being bounded on the west by the Bechuanaland Protectorate, and to the east chiefly by the Portuguese possessions, but touching Natal at the south-east corner. Its limits stretch from 28°40' to 22° S. degrees of latitude and between 24°40' and 32°10' E. in longitude.
+
+
+
+Its area is 111,196 square miles, with a population, according to the census of 17th April, 1904, of 1,268,716, of whom 299,327 are whites, 945,498 aboriginal natives, and 23,891 other coloured races. The greater part lies high, seldom less than 4,000 feet above the sea. The climate is healthy, except in the lower country, to the north and east, which is hot and often feverish. The winter is the dry, and the summer the wet, season. Heavy storms are frequent in summer.
+
+
+
+Swaziland is a dependency of the Government of the Transvaal, lying on its eastern border. Its extent is 6,536 square miles, and its population consists of 84,531 natives and 898 whites.
+
+
+
+---
+
+
+
+* Is also Senior Magistrate for Selangor.
+
+
+
+---
+
+
+
+**History.**
+
+
+
+The first European settlers in the Transvaal Territory were emigrant Cape farmers. The original destination of these emigrants was Natal, but upon the annexation of Natal to the English Crown, most of them left the new district, and turning back over the Drakensberg went, some to the Orange River Territory, and others to the country beyond the Vaal. In 1848 British sovereignty was extended over the Orange River Territory, but no attempt was made by the British Government to exercise authority over its unwilling subjects beyond the Vaal, and in January, 1852, a treaty was made with them, containing a promise that they would not be interfered with in the management of their own affairs. This treaty is known as the Sand River Convention. The emigrants at the time formed three independent communities, which did not unite until 1858, when they adopted for themselves the name of the South African Republic. After fifteen years of somewhat chequered history, the people of the Transvaal elected as President the Rev. Thomas Burgers, a clergyman of the Dutch Reformed Church, from the Cape Colony, and high hopes were entertained by many for the future of the Republic under his guidance. These hopes were not fulfilled. Misfortunes followed one another in rapid succession and only ended with the collapse of the Government, and the extinction of the Republic.
+
+
+
+The President early conceived the project of a railway to be made from Delagoa Bay into the Republic, to carry its produce profitably to the sea; and to promote this project he visited Europe in 1875, concluded a treaty with Portugal, and essayed to launch a loan of 300,000l. in Amsterdam, of which, however, only about 74,000l. were subscribed. This money he spent in buying plant for the proposed railway. In the meantime the Provisional government of the Republic had drifted into a dispute with the Zulu King, Cetewayo, touching the boundary of Utrecht Province; and on his return the President himself engaged, first in a dispute with, and then in actual military operations against, Sikukuni, a Bechuana chief, living on the north-east of the Republic, whose country was claimed under an ambiguous and not very intelligible treaty in the Dutch language, to which some Boers had obtained the assent of Sikukuni's father in the year 1857. The operations against Sikukuni, which were upon a large scale, looking to the resources of the Republic, and were directed in person by the President, ended in failure. The Republican field army melted away; a guerrilla war, however, was continued by a small mercenary force, until a peace was concluded early in 1877. In the meantime the defeat of the Boers by an insignificant tribe of an unwarlike branch of the native race, and their inability to repair the disaster, were producing alarming excitement in the native mind, and the peace of South Africa being deemed to be in evident danger, Her Majesty's Government despatched Sir Theophilus Shepstone, who happened to be in London at the time, to South Africa, as a Special Commissioner from Her Majesty, to watch events, and take such action as might be necessary to secure the general peace. When Sir Theophilus Shepstone arrived in the Transvaal, he considered on a review of all the circumstances that no other course was open to him than to proclaim the Queen's sovereignty. This he did on the 12th of April by a proclamation which was approved by Her Majesty's Government.
+
+he annexation of the Transvaal was effected without the aid of physical force. Sir T. Shep-
+
+pe at the time had with him but a few mounted
+
+cemen; and Her Majesty's troops did not
+
+ive in the province for some time after the
+
+ish Government had been set up, with the
+
+arent acquiescence of the public. But subse-
+
+ently hostile feelings towards the annexation
+
+e widely manifested, and two deputations were
+
+t to England after annexation, to represent
+
+ce who were opposed to that measure and
+
+ired a withdrawal of the British Government.
+
+each case the answer of Her late Majesty's
+
+vernment was a decided negative.
+
+
+
+n December,1880, a majority of the Boers took
+
+arms against the Government, and hoisted the
+
+of the South African Republic at Heidelberg.
+
+e towns held by Imperial troops were imme-
+
+ately invested, and a detachment of the 94th
+
+giment, which was being withdrawn from
+
+denburg to Pretoria, to strengthen the force
+
+headquarters, was surprised, and after suffer-
+
+very heavy loss, compelled to surrender.
+
+The towns, however, held out, and Sir G. Pomeroy
+
+lley, without waiting for reinforcements, col-
+
+led the small force at his disposal and advanced
+
+on Maritzburg to relieve them. A large force
+
+Boers, determined to oppose his entry into the
+
+ansvaal, took possession of Laing's Nek, the path
+
+which he had to cross the Drakensberg range.
+
+On the 28th of January the English troops made
+
+gallant attempt to carry this pass by storm, but
+
+ey were driven back with heavy loss.
+
+Theers followed up this advantage by cutting off
+
+r G. Colley's communications with Newcastle,
+
+ith a view to prevent his receiving the rein-
+
+rements which had been sent out, and were now
+
+the way up. To re-open his communications
+
+crossed the Ingogo River on the morning of
+
+the 8th of February, and was immediately attacked
+
+by the Boers. The action continued all day; at
+
+ghtfall the Boers drew off, and the English
+
+forces returned to their camp.
+
+
+
+In the meantime strenuous efforts were being
+
+made by President Brand, of the Orange Free
+
+state, to bring about an understanding, and in
+
+spite of the appeal which he made to Her Majesty's
+
+overnment, they declared that if the Boers would
+
+exist from armed opposition to the English troops,
+
+scheme would be framed for the permanent
+
+riendly settlement of all difficulties. This message
+
+was forwarded to the Boers on the 21st of February,
+
+in a letter addressed to Mr. Paul Kruger, one of
+
+their leaders, by General Colley, and an answer was
+
+required within forty-eight hours. Mr. Kruger
+
+was away at Rustenburg, and the letter was sent
+
+opened to the headquarters of the Boers at
+
+Heidelberg. Dr. Bok, who was acting as State
+
+Secretary, sent it on to Mr. Kruger, and replied to
+
+General Colley that no definite answer could be
+
+given to the message from Her Majesty's Govern-
+
+ment until Mr Kruger's views were known. Dr.
+
+Bok's message did not reach the camp at Laing's
+
+Nek till the 1st of March. On the night of the
+
+26th of February, General Colley, having received
+
+no reply to his message, moved out with three
+
+hundred and fifty men, and took possession of the
+
+summit of the Majuba Mountain, a spur of the
+
+Drakensberg, commanding the Boer camp at
+
+Laing's Nek. The Boers attacked the mountain
+
+next day, and carried it by storm, with little loss,
+
+while only about one-fifth of the defenders escaped.
+
+The rest being killed, wounded, or taken prisoners.
+
+Sir G. Pomeroy Colley himself was killed by a
+
+bullet through his forehead.
+
+
+
+The command now devolved on Sir E. Wood,
+
+who was at Pietermaritzburg organising the ad-
+
+vance of the reinforcements, and, at the instance of
+
+President Brand, an interview took place on the
+
+6th of March between him and General Joubert,
+
+who was in command of the Boers at Laing's Nek,
+
+which resulted in the conclusion of an armistice,
+
+with a view to allow time for the receipt of Mr.
+
+Kruger's reply to the message of Her Majesty's
+
+Government. Mr. Kruger's answer, written on
+
+the 28th of February at Heidelberg, was received
+
+by Sir E. Wood on the 7th of March, and it was
+
+considered satisfactory. A preliminary peace
+
+agreement was signed on the 21st March by Sir E.
+
+Wood and the representatives of the Boers. The
+
+terms of the agreement were that Her Majesty's
+
+Government should allow the Transvaal self-
+
+government as regards its own interior affairs;
+
+that the control and management of the foreign
+
+relations of the State should be reserved to Her
+
+Majesty as suzerain; and that the Government of
+
+the Transvaal should recognise a British Resident.
+
+The functions of this officer, and the provisions
+
+for the protection of the interests of the native
+
+population, were to be determined by Her
+
+Majesty's Government on the recommendation of
+
+a Royal Commission.
+
+
+
+The Commissioners who were appointed to
+
+consider the whole question of the settlement of
+
+the affairs of the Transvaal were Sir H. Robinson,
+
+Sir E. Wood, and Sir J. H. de Villiers, Chief
+
+Justice of the Cape Colony; and President Brand
+
+was invited to be present at the conferences of the
+
+Commissioners with the representatives of the
+
+Boers, as a person friendly to both parties. The
+
+sittings of the Commission were opened on the
+
+28th of April at Newcastle, from which they were
+
+afterwards transferred to Pretoria. The recom-
+
+mendations of the Commission were submitted in
+
+detail to Her Majesty's Government, and in the
+
+result a Convention was framed embodying the
+
+terms of the peace agreement, assigning the
+
+boundaries of the State, defining the functions of
+
+the Resident as analogous to those of a consul-
+
+general and chargé d'affaires, and conferring upon
+
+him extensive powers for the protection of the
+
+interests of the natives in the Transvaal. He also
+
+formed the medium of communication between
+
+the Government of the Transvaal and the native
+
+States on its borders. Stipulations were made
+
+for the repayment of the sums advanced by Her
+
+Majesty's Government in aid of the revenue of the
+
+Transvaal during the occupation; and a sub-
+
+commission, composed of the two judges of the
+
+High Court and Mr. Hudson, the British Resident,
+
+was appointed to consider claims for compensation
+
+for losses sustained during the hostilities.
+
+
+
+The Convention was signed on the 3rd of
+
+August, and on the 8th of that month the Govern-
+
+ment was handed over to the representatives of
+
+the Boers. The Convention was finally ratified
+
+by a duly-elected Volksraad on the 25th of October.
+
+
+
+The Transvaal State, however, showed little
+
+disposition to acquiesce in the Pretoria Conven-
+
+tion, and constant trouble occurred on the border,
+
+especially on the South-Western border, where the
+
+Bechuanaland tribes suffered severely from the
+
+incursions of freebooters from the Transvaal,
+
+which the Transvaal Government entirely failed
+
+to restrain, and, indeed, endeavoured to turn to
+
+account by acquiring fresh territory in violation
+
+of the Convention. In 1884, however, Her
+
+Majesty's Government yielded to representa-
+
+tions of the Transvaal Government and granted
+
+a new Convention, which was signed in London
+
+on 27th February, 1884. By it fresh articles were substituted for the articles of the Pretoria Convention, a point which, as the reservation of suzerainty and grant of self-government to the Transvaal State both occur in the "preamble," or introduction of the Pretoria Convention, became of importance in the subsequent controversy regarding the status of the South African Republic, as the Transvaal State was now called.
+
+
+
+The new Convention provided for the extension of the boundary of the Republic on the southwest, and abolished the British Resident and all direct control over native affairs, the Republic being bound, however, by Articles VIII. and XIX. to abstain from slavery and fulfil certain pledges made to the natives in 1881.
+
+
+
+Article IV. ran as follows:—"The South African Republic will conclude no treaty or engagement with any State or nation other than the Orange Free State, nor with any native tribe to the eastward or westward of the Republic, until the same has been approved by Her Majesty the Queen.
+
+
+
+"Such approval shall be considered to have been granted if Her Majesty's Government shall not, within six months after receiving a copy of such treaty (which shall be delivered to them immediately upon its completion), have notified that the conclusion of such treaty is in conflict with the interests of Great Britain or of any of Her Majesty's possessions in South Africa."
+
+
+
+Article XIV. said that "all persons, other than natives, conforming themselves to the laws of the South African Republic (a) will have full liberty, with their families, to enter, travel, or reside in any part of the South African Republic; (b) they will be entitled to hire or possess houses, manufactories, warehouses, shops, and premises; (c) they may carry on their commerce either in person or by agents whom they may think fit to employ; (d) they will not be subject, in respect of their persons or property, or in respect of their commerce or industry, to any taxes, whether general or local, other than those which are or may be imposed upon citizens of the said Republic."
+
+
+
+The concession of a larger degree of independence did not, however, prevent further trouble in Bechuanaland, while in Zululand adventurers from the Transvaal succeeded, by interfering in native disputes, in acquiring a large part of the country, where they formed a new State called the New Republic, the incorporation of which in the South African Republic was ultimately allowed by Her Majesty's Government in 1888. A trek to the north into Rhodesia in 1890 was only prevented with difficulty; while the efforts of the Government of the Republic to extend its influence in Swaziland resulted in 1894 in the recognition by Her Majesty's Government of its protectorate over that country.
+
+
+
+The Transvaal, which had been bankrupt in 1877, when it was annexed, remained for some years after the retrocession in great financial difficulties. From these, however, it was not only saved, but raised to an unprecedented height of prosperity by the development by immigrants, chiefly British subjects, of the gold industry on the Witwatersrand, which began to grow soon after the signature of the London Convention. The progress achieved is clearly reflected in the fact that the revenue of the Republic, which, in 1885, amounted to £77,877l., had risen in 1890 to £1,229,061l., reaching £3,329,938l. in 1898. Unfortunately, the Republic, instead of welcoming the newcomers, who had thus increased the property of the country, adopted a repressive policy towards them. From 1890 to 1894 legislation was passed restricting the grant of the franchise, which at the time of the Pretoria Convention had been open to all settlers after a year's residence, and since 1882, after five years' residence, until it became practically unattainable to the ordinary immigrant. At the same time the abuses of the Administration, among which the Uitlander population especially reckoned the grant of concessions and monopolies, and against one of which, the dynamite monopoly, Her Majesty's Government entered in 1899 a special protest, created much discontent among the new population.
+
+
+
+In 1894 the discontent assumed a threatening aspect, owing to the commandeering of British subjects to fight in a native war, but this question was arranged by the High Commissioner, Lord Loch, who visited Pretoria at that time; other questions, however, remained unsettled. In 1895 the action of the Government of the South African Republic in closing the drifts by which trade entered the Transvaal from the Cape, brought the Republic to the verge of war with Great Britain. Towards the end of 1896, a revolutionary movement was set on foot in Johannesburg. On the 29th of December, however, Dr. Jameson crossed the border of the Transvaal on his disastrous raid, and was defeated, and surrendered at Krugersdorp on the 2nd January, 1896. The High Commissioner, Sir Hercules Robinson, hurried to Pretoria, and by his inter-mediation Johannesburg laid down its arms.
+
+
+
+President Kruger, at the time of the raid, had issued Proclamations promising to consider the redress of grievances, and laying down the principle, "Forget and Forgive." Little result, however, beyond the erection of an unsatisfactory municipality, followed his promises of reform; while the action of the Government of the Republic in disregarding the London Convention gave rise to questions with Her Majesty's Government. In addition to infringing Art. IV., the Republic passed in 1896 an Aliens' Immigration Restriction Law, which Her Majesty's Government contended was in violation of Art. XIV., and the law was repealed next year.
+
+
+
+In 1897 the Government, in consequence of the complaints of the mining industry, appointed a commission of inquiry, whose report showed clearly the existence of very serious maladministration. Little or no reform, however, resulted.
+
+
+
+The dissatisfaction which the Uitlanders manifested with the treatment which they received was brought to a high pitch by the shooting of an Englishman named Edgar by a policeman at Johannesburg on the 18th of December, 1898, and the action of the authorities in the matter, followed by the acquittal of the accused, aroused great excitement on the Rand—and, indeed, throughout the English-speaking part of South Africa. A petition, signed by 21,000 British subjects, calling attention to the grievances of the Uitlanders, and asking for the protection of Her Majesty's Government, was addressed to the Queen in March, 1899. The Government of the South African Republic at this time appeared to recognise the need for reform by proposing some slight alterations in the franchise law, but their negotiations, conducted with some of the leaders of the mining industry, broke down because the latter insisted that the Uitlander population generally must be consulted, and the Government repudiated responsibility for their negotiations. Her Majesty's Government, in a despatch dated 16th May, represented the grievances of the Uitlanders to the Government of the South African Republic,
+
+and urged that they should be redressed, proposing a conference between the High Commissioner and the President. Before, however, the despatch was presented, Sir A. Milner, on the invitation of the President of the Orange Free State, met President Kruger at Bloemfontein on the 31st of May, and proposed the grant of the franchise to the Uitlanders to relieve the situation. The proposals of the President were quite inadequate for the purpose of giving any substantial and immediate representation, and it being therefore useless, in Sir A. Milner's opinion, to discuss other outstanding questions, the Conference broke up on the 5th of June.
+
+
+
+After successive proposals, and after Her Majesty's Government had asked that, if these proposals were to form any element in the settlement of differences between the two Governments, full particulars might be furnished, a franchise law, giving a seven years' retrospective franchise, was passed by the Volksraad without reference to Her Majesty's Government, and came into operation on 26th July. This law was an improvement on any previous proposal, but there was good ground for doubting whether it did not contain many provisions which would render it illusory in actual practice, and Her Majesty's Government, therefore, in a despatch of the 27th July, a summary of which was telegraphed on the same day to the High Commissioner, proposed a joint inquiry as to whether it would give "immediate and substantial representation." A note based on this proposal was communicated to the South African Republic on the 2nd August, but the Government of the Republic were extremely unwilling to accept the joint inquiry, and an alternative proposal for a five years' franchise was made in August by the State Attorney, Mr. Smuts, to Her Majesty's Agent, Mr. Greene, on three assumptions. These assumptions were (1) that Her Majesty's Government would not in future interfere in the internal affairs of the Republic; (2) that Her Majesty's Government would not insist further upon the assertion of suzerainty, the controversy being allowed tacitly to drop (this point had acquired special importance since the South African Republic, on the 9th May, had claimed the status of a sovereign international state); (3) that arbitration without a foreign element should be conceded.
+
+
+
+The proposal was put forward in writing by the Republic in notes dated the 19th and 21st August, and the three "assumptions" were put forward as express conditions. To these notes Her Majesty's Government replied, on the 28th August, that they could not bind themselves never to intervene again, but they expressed the hope that further intervention would be unnecessary if the franchise was granted. As to suzerainty they referred to their despatch in which they had intimated their refusal to continue the discussion; and as to arbitration, they agreed to discuss the form of a tribunal. The South African Republic, thereupon, in notes of the 1st and 2nd September, withdrew their five years' offer, and officially declared their objections to the joint inquiry, which they represented was an interference with the independence of the country. Her Majesty's Government then (8th September), being convinced by accumulating evidence of the unworkable character of the law which had been passed, while maintaining their position as regards interference and suzerainty, declared that they would be satisfied with a franchise on the five years' basis if shown by an inquiry, either unilateral or joint, not to be encumbered with impossible conditions. If this was acceded to they were ready to have a conference about arbitration, etc., but, failing acceptance, they would have to formulate their own proposals for a final settlement. To this the Government of the Republic replied by maintaining their withdrawal of the five years' franchise unless accepted with the conditions above stated, and called on Her Majesty's Government to revert to the proposal for a Joint Commission on the seven years' franchise. On the 22nd of September Her Majesty's Government repeated their views, and stated that their own proposals for a settlement would be formulated later.
+
+
+
+After some correspondence between the President of the Orange Free State and the High Commissioner, in which the High Commissioner, as late as the 5th of October, said that any definite proposal would still be considered, the South African Republic, without waiting for Her Majesty's Government to formulate their proposals, handed to the British Agent an ultimatum, dated 9th October, requiring the instant withdrawal of British troops on the borders of the Republic, and the removal of all reinforcements which had arrived in South Africa since the 1st of June, and demanding an answer by five o'clock on the 11th of October. It was deemed impossible by Her Majesty's Government to discuss such a demand, and war broke out accordingly. The Orange Free State, in pursuance of a resolution passed on the 27th of September, threw its lot with the Transvaal.
+
+
+
+A great exodus from the Rand had begun some time before the actual outbreak of war, the Government of the Republic having been commandeering and making other preparations for war, and so much distress resulted from the crowding of thousands of homeless refugees into the British Colonies that relief funds were started in this country.
+
+
+
+On the outbreak of war, the Boers immediately invaded British territory to the south-east and west of the Republics. The operations on the western side were chiefly concerned with the investment of Mafeking and Kimberley. Meantime the main body of the Boers invaded Natal under General Joubert. The first considerable engagement of the war occurred at Dundee on the 20th of October, where General Symons attacked and repulsed a Boer commando. On the 21st of October the British army at Ladysmith attacked a Boer commando at Elandslaagte, and inflicted a severe defeat. On the 30th Sir G. White made a reconnaissance from Ladysmith, and during the engagement which then took place two battalions and a mountain battery were cut off and captured by the Boers. Ladysmith was then surrounded by the Boers and communication cut. On the 3rd of November Colenso was evacuated, and the garrison there fell back on Estcourt.
+
+
+
+Meanwhile troops were on the way from England. The Governments of Canada and of all the Australian Colonies offered the services of contingents, and the offer was gratefully accepted; the despatch of troops from the different colonies was rapidly organised, and they left amidst enthusiastic demonstrations of loyalty. Offers of troops were also made by several of the Crown Colonies, and by the Federated Malay States, and contingents of mounted Volunteers were accepted from India and Ceylon.
+
+
+
+As the troops from England arrived, a move forward was made in two directions. A Natal relief column prepared for an advance to the relief of Ladysmith. Sir Redvers Buller, who was in chief command of the British forces, left Capetown for Natal to direct the general plan of advance, and by the end of November the British forces had arrived near Colenso. On December 15th, Sir R.
+
+Buller made an attack on the enemy and attempted to cross the Tugela at Colenso, but he had to retire to his camp at Chieveley after suffering severely in casualties and abandoning a large number of guns. On the western side a force under Lord Methuen pushed up along the railway to the relief of Kimberley. On the 23rd of November he attacked the Boers at Belmont and dispersed them. Two days later he pushed aside a further force at Enslin, and on the 28th November he forced a large body of the enemy to evacuate a strong position at the Modder River. He was then delayed for some days whilst the bridge over the Modder was being reconstructed and reinforcements and stores sent up to him. On December 11th he attacked the enemy at Magersfontein, but was unsuccessful in carrying the position, and fell back on the Modder River. The losses in the engagement were heavy.
+
+
+
+The northern borders of Cape Colony, where there were a few British garrisons, were invaded by parties of Orange Free State Boers, with the apparent object of gaining recruits from the Dutch residents in the Colony, in which they were partially successful. General Gatacre, on his arrival, took command of the British troops in these districts. His first important action took place on the 10th of December, when he was unsuccessful in a night attack on Stormberg, having to retire with the loss of over 600 men captured.
+
+
+
+On the receipt of news of the capture of the battalions at Ladysmith orders were at once given for the despatch of further reinforcements from England. The repulses experienced early in December made it necessary to take further measures. On the 7th of the month it was announced that Field-Marshal Lord Roberts would go out to take supreme command at the Cape, leaving Sir R. Buller to confine his attention to the operations in Natal; Lord Kitchener was appointed Chief of the Staff to Lord Roberts. Large reinforcements were ordered out from England, and further help offered by Australia and Canada was gladly accepted.
+
+
+
+Lord Roberts reached Modder River on 9th February, 1900, and General French relieved Kimberley on the 16th. General Cronjé was caught up and surrendered with all his force on the 27th. Ladysmith, after two unsuccessful attempts, was relieved by General Buller on the 28th of the same month. Lord Roberts reached Bloemfontein on the 13th of March, and Pretoria on the 5th of June.
+
+
+
+The Transvaal was annexed to Her Majesty's dominions by a Proclamation which Lord Roberts issued at Belfast on the 1st of September, 1900, Lord Roberts becoming Administrator, in which office he was succeeded on his departure from South Africa at the end of the year by Sir Alfred Milner. The intention of Her Majesty's Government with regard to the future Constitution of the Colony was outlined in Mr Chamberlain's speech in the House of Commons on December 7th, 1900. Sir A. Milner (now Lord Milner) was selected for the post of Governor of the Transvaal and of the Orange River Colony, an office which he combined with that of High Commissioner for South Africa.
+
+
+
+The Transvaal Colony remained the scene of military operations till May, 1902, when on the last day of that month Articles of Peace were signed on behalf of the Governments concerned. The document was as follows:
+
+
+
+"Army Headquarters, South Africa.
+
+
+
+General Lord Kitchener of Khartoum, Commanding-in-Chief, and His Excellency Lord Milner, High Commissioner, on behalf of the British Government, and Messrs. S. W. Burger, F. W. Reitz, Louis Botha, J. H. De la Rey, L. J. Meyer, and J. C. Krogh, acting as the Government of the South African Republic, and Messrs. C. R. de Wet, W. J. C. Brebner, J. B. M. Hertzog, and C. H. Olivier, acting as the Government of the Orange Free State, on behalf of their respective burghers, desirous to terminate the present hostilities, agree on the following Articles:
+
+
+
+1. The Burgher forces in the field will forthwith lay down their arms, handing over all guns, rifles, and munitions of war, in their possession or under their control, and desist from any further resistance to the authority of His Majesty King Edward VII., whom they recognise as their lawful Sovereign.
+
+
+
+The manner and details of this surrender will be arranged between Lord Kitchener and Commandant-General Botha, Assistant Commandant-General De la Rey, and Chief Commandant De Wet.
+
+
+
+2. Burghers in the field outside the limits of the Transvaal and Orange River Colony, and all prisoners of war at present outside South Africa who are burghers, will, on duly declaring their acceptance of the position of subjects of His Majesty King Edward VII., be gradually brought back to their homes as soon as transport can be provided and their means of subsistence ensured.
+
+
+
+3. The burghers so surrendering or so returning will not be deprived of their personal liberty or their property.
+
+
+
+4. No proceedings, civil or criminal, will be taken against any of the burghers so surrendering or so returning for any acts in connection with the prosecution of the war. The benefit of this Clause will not extend to certain acts contrary to the usage of war which have been notified by the Commander-in-Chief to the Boer Generals, and which shall be tried by court-martial immediately after the close of hostilities.
+
+
+
+5. The Dutch language will be taught in public schools in the Transvaal and the Orange River Colony where the parents of the children desire it, and will be allowed in courts of law when necessary for the better and more effectual administration of justice.
+
+
+
+6. The possession of rifles will be allowed in the Transvaal and Orange River Colony to persons requiring them for their protection, on taking out a license according to law.
+
+
+
+7. Military administration in the Transvaal and Orange River Colony will at the earliest possible date be succeeded by civil government, and, as soon as circumstances permit, representative institutions, leading up to self-government, will be introduced.
+
+
+
+8. The question of granting the franchise to natives will not be decided until after the introduction of self-government.
+
+
+
+9. No special tax will be imposed on landed property in the Transvaal and Orange River Colony to defray the expenses of the war.
+
+
+
+10. As soon as conditions permit, a Commission, on which the local inhabitants will be represented, will be appointed in each district of the Transvaal and Orange River Colony, under the presidency of a magistrate or other official, for the purpose of assisting the restoration of the people to their homes and supplying those who, owing to war losses, are unable to provide for themselves, with food, shelter, and the necessary amount of seed, stock, implements, etc., indispensable to the resumption of their normal conditions."
+
+His Majesty's Government will place at the disposal of these Commissions a sum of three million pounds sterling for the above purposes, and will allow all notes, issued under Law No. 1 of 1900, of the Government of the South African Republic, and all receipts given by the officers in the field of the late Republics or under their orders, to be presented to a Judicial Commission which will be appointed by the Government, and if such notes and receipts are found by this Commission to have been duly issued in return for valuable consideration, they will be received by the first-named Commissions as evidence of war losses suffered by the persons to whom they were originally given. In addition to the above-named free grant of three million pounds, His Majesty's Government will be prepared to make advances as loans for the same purpose, free of interest for two years, and afterwards repayable over a period of years, with three per cent. interest. No foreigner or rebel will be entitled to the benefit of this Clause.
+
+
+
+Signed at Pretoria this thirty-first day of May in the year of Our Lord one thousand nine hundred and two.
+
+
+
+S. W. BURGER. KITCHENER OF KHARTOUM.
+
+F. W. REITZ. MILNER.

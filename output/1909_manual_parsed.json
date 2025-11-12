@@ -1,0 +1,707 @@
+{
+  "year": 1909,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1909/olmocr_results.md",
+  "total_colonies": 77,
+  "colonies": [
+    {
+      "colony_name": "EXPORTS",
+      "year": 1909,
+      "start_line": 10492,
+      "end_line": 10810,
+      "char_count": 10955,
+      "line_count": 319,
+      "filename": "EXPORTS.md"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 1909,
+      "start_line": 10811,
+      "end_line": 11426,
+      "char_count": 34772,
+      "line_count": 616,
+      "filename": "BARBADOS.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1909,
+      "start_line": 11428,
+      "end_line": 11557,
+      "char_count": 14114,
+      "line_count": 130,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "EXPORTS",
+      "year": 1909,
+      "start_line": 11559,
+      "end_line": 11824,
+      "char_count": 7570,
+      "line_count": 266,
+      "filename": "EXPORTS.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1909,
+      "start_line": 11826,
+      "end_line": 12622,
+      "char_count": 54756,
+      "line_count": 797,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1909,
+      "start_line": 12624,
+      "end_line": 13038,
+      "char_count": 24431,
+      "line_count": 415,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "THE DOMINION",
+      "year": 1909,
+      "start_line": 13040,
+      "end_line": 13441,
+      "char_count": 37022,
+      "line_count": 402,
+      "filename": "THE_DOMINION.md"
+    },
+    {
+      "colony_name": "THE KING'S PRIVY COUNCIL FOR CANADA",
+      "year": 1909,
+      "start_line": 13443,
+      "end_line": 13681,
+      "char_count": 5794,
+      "line_count": 239,
+      "filename": "THE_KINGS_PRIVY_COUNCIL_FOR_CANADA.md"
+    },
+    {
+      "colony_name": "HOUSE OF COMMONS",
+      "year": 1909,
+      "start_line": 13683,
+      "end_line": 13995,
+      "char_count": 18313,
+      "line_count": 313,
+      "filename": "HOUSE_OF_COMMONS.md"
+    },
+    {
+      "colony_name": "RAILWAYS AND CANALS",
+      "year": 1909,
+      "start_line": 13997,
+      "end_line": 14202,
+      "char_count": 10293,
+      "line_count": 206,
+      "filename": "RAILWAYS_AND_CANALS.md"
+    },
+    {
+      "colony_name": "ONTARIO AND QUEBEC (OLD CANADA)",
+      "year": 1909,
+      "start_line": 14204,
+      "end_line": 14265,
+      "char_count": 10775,
+      "line_count": 62,
+      "filename": "ONTARIO_AND_QUEBEC_OLD_CANADA.md"
+    },
+    {
+      "colony_name": "ONTARIO",
+      "year": 1909,
+      "start_line": 14267,
+      "end_line": 14659,
+      "char_count": 12320,
+      "line_count": 393,
+      "filename": "ONTARIO.md"
+    },
+    {
+      "colony_name": "EXECUTIVE COUNCIL",
+      "year": 1909,
+      "start_line": 14661,
+      "end_line": 14945,
+      "char_count": 6107,
+      "line_count": 285,
+      "filename": "EXECUTIVE_COUNCIL.md"
+    },
+    {
+      "colony_name": "NOVA SCOTIA",
+      "year": 1909,
+      "start_line": 14946,
+      "end_line": 15184,
+      "char_count": 11071,
+      "line_count": 239,
+      "filename": "NOVA_SCOTIA.md"
+    },
+    {
+      "colony_name": "NEW BRUNSWICK",
+      "year": 1909,
+      "start_line": 15186,
+      "end_line": 15242,
+      "char_count": 4024,
+      "line_count": 57,
+      "filename": "NEW_BRUNSWICK.md"
+    },
+    {
+      "colony_name": "SEAT OF GOVERNMENT, FREDERICTON",
+      "year": 1909,
+      "start_line": 15244,
+      "end_line": 15486,
+      "char_count": 12939,
+      "line_count": 243,
+      "filename": "SEAT_OF_GOVERNMENT_FREDERICTON.md"
+    },
+    {
+      "colony_name": "BRITISH COLUMBIA",
+      "year": 1909,
+      "start_line": 15488,
+      "end_line": 15664,
+      "char_count": 9579,
+      "line_count": 177,
+      "filename": "BRITISH_COLUMBIA.md"
+    },
+    {
+      "colony_name": "PRINCE EDWARD ISLAND",
+      "year": 1909,
+      "start_line": 15666,
+      "end_line": 15935,
+      "char_count": 13605,
+      "line_count": 270,
+      "filename": "PRINCE_EDWARD_ISLAND.md"
+    },
+    {
+      "colony_name": "MEMBERS OF THE LEGISLATIVE ASSEMBLY OF SASKATCHEWAN",
+      "year": 1909,
+      "start_line": 15937,
+      "end_line": 16081,
+      "char_count": 6671,
+      "line_count": 145,
+      "filename": "MEMBERS_OF_THE_LEGISLATIVE_ASSEMBLY_OF_SASKATCHEWAN.md"
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "year": 1909,
+      "start_line": 16083,
+      "end_line": 17344,
+      "char_count": 102643,
+      "line_count": 1262,
+      "filename": "CAPE_OF_GOOD_HOPE.md"
+    },
+    {
+      "colony_name": "CAPE MOUNTED RIFLEMEN",
+      "year": 1909,
+      "start_line": 17346,
+      "end_line": 18343,
+      "char_count": 37825,
+      "line_count": 998,
+      "filename": "CAPE_MOUNTED_RIFLEMEN.md"
+    },
+    {
+      "colony_name": "CAPE MOUNTED POLICE",
+      "year": 1909,
+      "start_line": 18345,
+      "end_line": 18755,
+      "char_count": 18622,
+      "line_count": 411,
+      "filename": "CAPE_MOUNTED_POLICE.md"
+    },
+    {
+      "colony_name": "CEYLON",
+      "year": 1909,
+      "start_line": 18756,
+      "end_line": 19248,
+      "char_count": 39145,
+      "line_count": 493,
+      "filename": "CEYLON.md"
+    },
+    {
+      "colony_name": "EASTERN PROVINCE",
+      "year": 1909,
+      "start_line": 19250,
+      "end_line": 19592,
+      "char_count": 15330,
+      "line_count": 343,
+      "filename": "EASTERN_PROVINCE.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1909,
+      "start_line": 19594,
+      "end_line": 20419,
+      "char_count": 45769,
+      "line_count": 826,
+      "filename": "CYPRUS.md"
+    },
+    {
+      "colony_name": "EAST AFRICA PROTECTORATE",
+      "year": 1909,
+      "start_line": 20421,
+      "end_line": 20544,
+      "char_count": 11850,
+      "line_count": 124,
+      "filename": "EAST_AFRICA_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "GOVERNMENT",
+      "year": 1909,
+      "start_line": 20546,
+      "end_line": 20798,
+      "char_count": 10792,
+      "line_count": 253,
+      "filename": "GOVERNMENT.md"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "year": 1909,
+      "start_line": 20800,
+      "end_line": 20918,
+      "char_count": 11964,
+      "line_count": 119,
+      "filename": "FALKLAND_ISLANDS.md"
+    },
+    {
+      "colony_name": "EXPORTS",
+      "year": 1909,
+      "start_line": 20920,
+      "end_line": 20985,
+      "char_count": 2791,
+      "line_count": 66,
+      "filename": "EXPORTS.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1909,
+      "start_line": 20987,
+      "end_line": 21575,
+      "char_count": 38494,
+      "line_count": 589,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 1909,
+      "start_line": 21576,
+      "end_line": 21881,
+      "char_count": 18368,
+      "line_count": 306,
+      "filename": "THE_GAMBIA.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1909,
+      "start_line": 21883,
+      "end_line": 22120,
+      "char_count": 12575,
+      "line_count": 238,
+      "filename": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "THE GOLD COAST COLONY",
+      "year": 1909,
+      "start_line": 22122,
+      "end_line": 22227,
+      "char_count": 21079,
+      "line_count": 106,
+      "filename": "THE_GOLD_COAST_COLONY.md"
+    },
+    {
+      "colony_name": "POSTAL COMMUNICATION",
+      "year": 1909,
+      "start_line": 22229,
+      "end_line": 22339,
+      "char_count": 24198,
+      "line_count": 111,
+      "filename": "POSTAL_COMMUNICATION.md"
+    },
+    {
+      "colony_name": "THE NORTHERN TERRITORIES",
+      "year": 1909,
+      "start_line": 22341,
+      "end_line": 22661,
+      "char_count": 17473,
+      "line_count": 321,
+      "filename": "THE_NORTHERN_TERRITORIES.md"
+    },
+    {
+      "colony_name": "THE GOLD COAST",
+      "year": 1909,
+      "start_line": 22662,
+      "end_line": 22827,
+      "char_count": 8462,
+      "line_count": 166,
+      "filename": "THE_GOLD_COAST.md"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 1909,
+      "start_line": 22829,
+      "end_line": 23374,
+      "char_count": 32286,
+      "line_count": 546,
+      "filename": "HONG_KONG.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1909,
+      "start_line": 23376,
+      "end_line": 24277,
+      "char_count": 51304,
+      "line_count": 902,
+      "filename": "JAMAICA.md"
+    },
+    {
+      "colony_name": "THE LEEWARD ISLANDS",
+      "year": 1909,
+      "start_line": 24279,
+      "end_line": 24539,
+      "char_count": 19649,
+      "line_count": 261,
+      "filename": "THE_LEEWARD_ISLANDS.md"
+    },
+    {
+      "colony_name": "EXPORTS",
+      "year": 1909,
+      "start_line": 24541,
+      "end_line": 24788,
+      "char_count": 9112,
+      "line_count": 248,
+      "filename": "EXPORTS.md"
+    },
+    {
+      "colony_name": "BARBUDA",
+      "year": 1909,
+      "start_line": 24790,
+      "end_line": 25092,
+      "char_count": 18297,
+      "line_count": 303,
+      "filename": "BARBUDA.md"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1909,
+      "start_line": 25093,
+      "end_line": 25347,
+      "char_count": 16103,
+      "line_count": 255,
+      "filename": "DOMINICA.md"
+    },
+    {
+      "colony_name": "MONTSERRAT",
+      "year": 1909,
+      "start_line": 25349,
+      "end_line": 25566,
+      "char_count": 13713,
+      "line_count": 218,
+      "filename": "MONTSERRAT.md"
+    },
+    {
+      "colony_name": "FINANCE",
+      "year": 1909,
+      "start_line": 25568,
+      "end_line": 25636,
+      "char_count": 1102,
+      "line_count": 69,
+      "filename": "FINANCE.md"
+    },
+    {
+      "colony_name": "EXPORTS",
+      "year": 1909,
+      "start_line": 25638,
+      "end_line": 25715,
+      "char_count": 2283,
+      "line_count": 78,
+      "filename": "EXPORTS.md"
+    },
+    {
+      "colony_name": "MALTA",
+      "year": 1909,
+      "start_line": 25717,
+      "end_line": 26653,
+      "char_count": 59428,
+      "line_count": 937,
+      "filename": "MALTA.md"
+    },
+    {
+      "colony_name": "COUNCIL OF GOVERNMENT",
+      "year": 1909,
+      "start_line": 26655,
+      "end_line": 27217,
+      "char_count": 21737,
+      "line_count": 563,
+      "filename": "COUNCIL_OF_GOVERNMENT.md"
+    },
+    {
+      "colony_name": "PORT NATAL",
+      "year": 1909,
+      "start_line": 27219,
+      "end_line": 27967,
+      "char_count": 56900,
+      "line_count": 749,
+      "filename": "PORT_NATAL.md"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "year": 1909,
+      "start_line": 27969,
+      "end_line": 28349,
+      "char_count": 27643,
+      "line_count": 381,
+      "filename": "NEWFOUNDLAND.md"
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "year": 1909,
+      "start_line": 28351,
+      "end_line": 28674,
+      "char_count": 38279,
+      "line_count": 324,
+      "filename": "NEW_ZEALAND.md"
+    },
+    {
+      "colony_name": "PUKAPUKA, OR DANGER ISLAND, AND NASSAU",
+      "year": 1909,
+      "start_line": 28676,
+      "end_line": 29057,
+      "char_count": 21563,
+      "line_count": 382,
+      "filename": "PUKAPUKA_OR_DANGER_ISLAND_AND_NASSAU.md"
+    },
+    {
+      "colony_name": "LANDS FOR SETTLEMENT",
+      "year": 1909,
+      "start_line": 29058,
+      "end_line": 29145,
+      "char_count": 3355,
+      "line_count": 88,
+      "filename": "LANDS_FOR_SETTLEMENT.md"
+    },
+    {
+      "colony_name": "COUNCIL OF DEFENCE",
+      "year": 1909,
+      "start_line": 29147,
+      "end_line": 29306,
+      "char_count": 5865,
+      "line_count": 160,
+      "filename": "COUNCIL_OF_DEFENCE.md"
+    },
+    {
+      "colony_name": "NORTHERN NIGERIA",
+      "year": 1909,
+      "start_line": 29307,
+      "end_line": 29555,
+      "char_count": 34819,
+      "line_count": 249,
+      "filename": "NORTHERN_NIGERIA.md"
+    },
+    {
+      "colony_name": "NYASALAND PROTECTORATE",
+      "year": 1909,
+      "start_line": 29556,
+      "end_line": 29761,
+      "char_count": 10935,
+      "line_count": 206,
+      "filename": "NYASALAND_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "ORANGE RIVER COLONY",
+      "year": 1909,
+      "start_line": 29762,
+      "end_line": 30418,
+      "char_count": 45581,
+      "line_count": 657,
+      "filename": "ORANGE_RIVER_COLONY.md"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 1909,
+      "start_line": 30419,
+      "end_line": 30725,
+      "char_count": 19779,
+      "line_count": 307,
+      "filename": "SEYCHELLES.md"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1909,
+      "start_line": 30727,
+      "end_line": 31245,
+      "char_count": 31755,
+      "line_count": 519,
+      "filename": "SIERRA_LEONE.md"
+    },
+    {
+      "colony_name": "SOMALILAND PROTECTORATE",
+      "year": 1909,
+      "start_line": 31246,
+      "end_line": 31380,
+      "char_count": 9589,
+      "line_count": 135,
+      "filename": "SOMALILAND_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "year": 1909,
+      "start_line": 31382,
+      "end_line": 31516,
+      "char_count": 15930,
+      "line_count": 135,
+      "filename": "BASUTOLAND.md"
+    },
+    {
+      "colony_name": "BECHUANALAND PROTECTORATE",
+      "year": 1909,
+      "start_line": 31518,
+      "end_line": 31589,
+      "char_count": 6626,
+      "line_count": 72,
+      "filename": "BECHUANALAND_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "SWAZILAND",
+      "year": 1909,
+      "start_line": 31591,
+      "end_line": 31998,
+      "char_count": 45581,
+      "line_count": 408,
+      "filename": "SWAZILAND.md"
+    },
+    {
+      "colony_name": "SOUTHERN RHODESIA ADMINISTRATION",
+      "year": 1909,
+      "start_line": 31999,
+      "end_line": 32220,
+      "char_count": 5747,
+      "line_count": 222,
+      "filename": "SOUTHERN_RHODESIA_ADMINISTRATION.md"
+    },
+    {
+      "colony_name": "SOUTHERN NIGERIA",
+      "year": 1909,
+      "start_line": 32222,
+      "end_line": 32403,
+      "char_count": 10660,
+      "line_count": 182,
+      "filename": "SOUTHERN_NIGERIA.md"
+    },
+    {
+      "colony_name": "SOUTHERN NIGERIA",
+      "year": 1909,
+      "start_line": 32405,
+      "end_line": 32654,
+      "char_count": 24614,
+      "line_count": 250,
+      "filename": "SOUTHERN_NIGERIA.md"
+    },
+    {
+      "colony_name": "EASTERN AND CENTRAL PROVINCES",
+      "year": 1909,
+      "start_line": 32656,
+      "end_line": 33674,
+      "char_count": 68398,
+      "line_count": 1019,
+      "filename": "EASTERN_AND_CENTRAL_PROVINCES.md"
+    },
+    {
+      "colony_name": "LABUAN",
+      "year": 1909,
+      "start_line": 33675,
+      "end_line": 33789,
+      "char_count": 8318,
+      "line_count": 115,
+      "filename": "LABUAN.md"
+    },
+    {
+      "colony_name": "THE FEDERATED STATES OF THE MALAY PENINSULA",
+      "year": 1909,
+      "start_line": 33790,
+      "end_line": 34800,
+      "char_count": 42095,
+      "line_count": 1011,
+      "filename": "THE_FEDERATED_STATES_OF_THE_MALAY_PENINSULA.md"
+    },
+    {
+      "colony_name": "TRANSAAL",
+      "year": 1909,
+      "start_line": 34801,
+      "end_line": 35639,
+      "char_count": 81804,
+      "line_count": 839,
+      "filename": "TRANSAAL.md"
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "year": 1909,
+      "start_line": 35641,
+      "end_line": 35749,
+      "char_count": 19366,
+      "line_count": 109,
+      "filename": "TRINIDAD.md"
+    },
+    {
+      "colony_name": "TOBAGO",
+      "year": 1909,
+      "start_line": 35750,
+      "end_line": 37002,
+      "char_count": 53998,
+      "line_count": 1253,
+      "filename": "TOBAGO.md"
+    },
+    {
+      "colony_name": "UGANDA",
+      "year": 1909,
+      "start_line": 37004,
+      "end_line": 37127,
+      "char_count": 9597,
+      "line_count": 124,
+      "filename": "UGANDA.md"
+    },
+    {
+      "colony_name": "WESTERN PACIFIC",
+      "year": 1909,
+      "start_line": 37129,
+      "end_line": 37225,
+      "char_count": 5787,
+      "line_count": 97,
+      "filename": "WESTERN_PACIFIC.md"
+    },
+    {
+      "colony_name": "PRINCIPAL GROUPS UNDER THE HIGH COMMISSIONER",
+      "year": 1909,
+      "start_line": 37227,
+      "end_line": 37476,
+      "char_count": 31912,
+      "line_count": 250,
+      "filename": "PRINCIPAL_GROUPS_UNDER_THE_HIGH_COMMISSIONER.md"
+    },
+    {
+      "colony_name": "EXPORTS",
+      "year": 1909,
+      "start_line": 37478,
+      "end_line": 37747,
+      "char_count": 17846,
+      "line_count": 270,
+      "filename": "EXPORTS.md"
+    },
+    {
+      "colony_name": "EXPORTS",
+      "year": 1909,
+      "start_line": 37749,
+      "end_line": 38184,
+      "char_count": 23687,
+      "line_count": 436,
+      "filename": "EXPORTS.md"
+    },
+    {
+      "colony_name": "APPENDIX TO PART II",
+      "year": 1909,
+      "start_line": 38185,
+      "end_line": 38184,
+      "char_count": 0,
+      "line_count": 0,
+      "filename": "APPENDIX_TO_PART_II.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Python automated batch parser v3",
+    "date": "2025-11-12",
+    "method": "Structural boundary detection with content size filtering",
+    "colony_section_start": 10372,
+    "colony_section_end": 38185
+  }
+}

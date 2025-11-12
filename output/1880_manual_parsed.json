@@ -1,0 +1,333 @@
+{
+  "year": 1880,
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1880/olmocr_results.md",
+  "total_lines": 28004,
+  "colonies_section_start": 985,
+  "colonies_section_end": 19348,
+  "total_colonies": 35,
+  "colonies": [
+    {
+      "colony": "BAHAMAS",
+      "filename": "BAHAMAS.txt",
+      "start_line": 993,
+      "end_line": 1247,
+      "num_lines": 255,
+      "num_chars": 12109,
+      "note": "Full section"
+    },
+    {
+      "colony": "BERMUDAS",
+      "filename": "BERMUDAS.txt",
+      "start_line": 1249,
+      "end_line": 1504,
+      "num_lines": 256,
+      "num_chars": 12985,
+      "note": "Full section"
+    },
+    {
+      "colony": "BRITISH_GUIANA",
+      "filename": "BRITISH_GUIANA.txt",
+      "start_line": 1506,
+      "end_line": 2225,
+      "num_lines": 720,
+      "num_chars": 30461,
+      "note": "Full section"
+    },
+    {
+      "colony": "BRITISH_HONDURAS",
+      "filename": "HONDURAS.txt",
+      "start_line": 2227,
+      "end_line": 2429,
+      "num_lines": 203,
+      "num_chars": 12659,
+      "note": "Full section (named HONDURAS for consistency)"
+    },
+    {
+      "colony": "DOMINION_OF_CANADA",
+      "filename": "DOMINION_OF_CANADA.txt",
+      "start_line": 2431,
+      "end_line": 4542,
+      "num_lines": 2112,
+      "num_chars": 105601,
+      "note": "Full section - massive"
+    },
+    {
+      "colony": "CAPE_OF_GOOD_HOPE",
+      "filename": "CAPE_OF_GOOD_HOPE.txt",
+      "start_line": 4544,
+      "end_line": 5966,
+      "num_lines": 1423,
+      "num_chars": 73751,
+      "note": "Full section - large"
+    },
+    {
+      "colony": "CEYLON",
+      "filename": "CEYLON.txt",
+      "start_line": 5968,
+      "end_line": 6515,
+      "num_lines": 548,
+      "num_chars": 27185,
+      "note": "Full section"
+    },
+    {
+      "colony": "FALKLAND_ISLANDS",
+      "filename": "FALKLAND_ISLANDS.txt",
+      "start_line": 6517,
+      "end_line": 6648,
+      "num_lines": 132,
+      "num_chars": 7299,
+      "note": "Full section"
+    },
+    {
+      "colony": "FIJI",
+      "filename": "FIJI.txt",
+      "start_line": 6650,
+      "end_line": 6769,
+      "num_lines": 120,
+      "num_chars": 10037,
+      "note": "Full section - FIJI RETURNS in 1880!"
+    },
+    {
+      "colony": "GIBRALTAR",
+      "filename": "GIBRALTAR.txt",
+      "start_line": 6771,
+      "end_line": 6876,
+      "num_lines": 106,
+      "num_chars": 4256,
+      "note": "Full section"
+    },
+    {
+      "colony": "THE_GOLD_COAST_COLONY",
+      "filename": "THE_GOLD_COAST_COLONY.txt",
+      "start_line": 6878,
+      "end_line": 7440,
+      "num_lines": 563,
+      "num_chars": 56438,
+      "note": "Full section"
+    },
+    {
+      "colony": "GRIQUALAND_WEST",
+      "filename": "GRIQUALAND_WEST.txt",
+      "start_line": 7442,
+      "end_line": 7681,
+      "num_lines": 240,
+      "num_chars": 15771,
+      "note": "Full section"
+    },
+    {
+      "colony": "HELIGOLAND",
+      "filename": "HELIGOLAND.txt",
+      "start_line": 7683,
+      "end_line": 7726,
+      "num_lines": 44,
+      "num_chars": 2484,
+      "note": "Full section"
+    },
+    {
+      "colony": "HONG_KONG",
+      "filename": "HONG_KONG.txt",
+      "start_line": 7727,
+      "end_line": 8013,
+      "num_lines": 287,
+      "num_chars": 13374,
+      "note": "Full section - bold formatting"
+    },
+    {
+      "colony": "JAMAICA",
+      "filename": "JAMAICA.txt",
+      "start_line": 8014,
+      "end_line": 8647,
+      "num_lines": 634,
+      "num_chars": 31316,
+      "note": "Full section"
+    },
+    {
+      "colony": "LABUAN",
+      "filename": "LABUAN.txt",
+      "start_line": 8649,
+      "end_line": 8755,
+      "num_lines": 107,
+      "num_chars": 4495,
+      "note": "Full section"
+    },
+    {
+      "colony": "LEEWARD_ISLANDS",
+      "filename": "THE_LEEWARD_ISLANDS.txt",
+      "start_line": 8756,
+      "end_line": 9958,
+      "num_lines": 1203,
+      "num_chars": 58528,
+      "note": "Full section - consolidated"
+    },
+    {
+      "colony": "MALTA",
+      "filename": "MALTA.txt",
+      "start_line": 9959,
+      "end_line": 10287,
+      "num_lines": 329,
+      "num_chars": 14398,
+      "note": "Full section - NO HEADER, content starts directly"
+    },
+    {
+      "colony": "MAURITIUS",
+      "filename": "MAURITIUS.txt",
+      "start_line": 10289,
+      "end_line": 11043,
+      "num_lines": 755,
+      "num_chars": 37571,
+      "note": "Full section"
+    },
+    {
+      "colony": "NATAL",
+      "filename": "NATAL.txt",
+      "start_line": 11044,
+      "end_line": 11584,
+      "num_lines": 541,
+      "num_chars": 34442,
+      "note": "Full section - title-case 'Natal.'"
+    },
+    {
+      "colony": "NEWFOUNDLAND",
+      "filename": "NEWFOUNDLAND.txt",
+      "start_line": 11586,
+      "end_line": 11837,
+      "num_lines": 252,
+      "num_chars": 10871,
+      "note": "Full section"
+    },
+    {
+      "colony": "NEW_SOUTH_WALES",
+      "filename": "NEW_SOUTH_WALES.txt",
+      "start_line": 11838,
+      "end_line": 12675,
+      "num_lines": 838,
+      "num_chars": 35275,
+      "note": "Full section"
+    },
+    {
+      "colony": "NEW_ZEALAND",
+      "filename": "NEW_ZEALAND.txt",
+      "start_line": 12677,
+      "end_line": 13168,
+      "num_lines": 492,
+      "num_chars": 21644,
+      "note": "Full section"
+    },
+    {
+      "colony": "QUEENSLAND",
+      "filename": "QUEENSLAND.txt",
+      "start_line": 13169,
+      "end_line": 13575,
+      "num_lines": 407,
+      "num_chars": 32296,
+      "note": "Full section - NO HEADER, content starts directly"
+    },
+    {
+      "colony": "ST_HELENA",
+      "filename": "ST_HELENA.txt",
+      "start_line": 13576,
+      "end_line": 13678,
+      "num_lines": 103,
+      "num_chars": 5895,
+      "note": "Full section"
+    },
+    {
+      "colony": "SOUTH_AUSTRALIA",
+      "filename": "SOUTH_AUSTRALIA.txt",
+      "start_line": 13680,
+      "end_line": 14738,
+      "num_lines": 1059,
+      "num_chars": 51432,
+      "note": "Full section"
+    },
+    {
+      "colony": "STRAITS_SETTLEMENTS",
+      "filename": "STRAITS_SETTLEMENTS.txt",
+      "start_line": 14739,
+      "end_line": 15182,
+      "num_lines": 444,
+      "num_chars": 21370,
+      "note": "Full section - title-case 'Straits Settlements.'"
+    },
+    {
+      "colony": "TASMANIA",
+      "filename": "TASMANIA.txt",
+      "start_line": 15184,
+      "end_line": 15502,
+      "num_lines": 319,
+      "num_chars": 17584,
+      "note": "Full section"
+    },
+    {
+      "colony": "THE_TRANSVAAL",
+      "filename": "THE_TRANSVAAL.txt",
+      "start_line": 15504,
+      "end_line": 15684,
+      "num_lines": 181,
+      "num_chars": 13752,
+      "note": "Full section"
+    },
+    {
+      "colony": "TRINIDAD",
+      "filename": "TRINIDAD.txt",
+      "start_line": 15686,
+      "end_line": 16452,
+      "num_lines": 767,
+      "num_chars": 30431,
+      "note": "Full section"
+    },
+    {
+      "colony": "TURKS_AND_CAICOS_ISLANDS",
+      "filename": "TURKS_AND_CAICOS_ISLANDS.txt",
+      "start_line": 16454,
+      "end_line": 16526,
+      "num_lines": 73,
+      "num_chars": 3544,
+      "note": "Full section"
+    },
+    {
+      "colony": "VICTORIA",
+      "filename": "VICTORIA.txt",
+      "start_line": 16528,
+      "end_line": 17100,
+      "num_lines": 573,
+      "num_chars": 25021,
+      "note": "Full section"
+    },
+    {
+      "colony": "WEST_AFRICA_SETTLEMENTS",
+      "filename": "WEST_AFRICA_SETTLEMENTS.txt",
+      "start_line": 17102,
+      "end_line": 17554,
+      "num_lines": 453,
+      "num_chars": 20967,
+      "note": "Full section - consolidated"
+    },
+    {
+      "colony": "WESTERN_AUSTRALIA",
+      "filename": "WESTERN_AUSTRALIA.txt",
+      "start_line": 17556,
+      "end_line": 18055,
+      "num_lines": 500,
+      "num_chars": 18115,
+      "note": "Full section"
+    },
+    {
+      "colony": "THE_WINDWARD_ISLANDS",
+      "filename": "THE_WINDWARD_ISLANDS.txt",
+      "start_line": 18057,
+      "end_line": 19347,
+      "num_lines": 1291,
+      "num_chars": 78261,
+      "note": "Full section - consolidated"
+    }
+  ],
+  "notes": [
+    "1880 has 35 colony sections (up from 33 in 1879)",
+    "FIJI has returned after being absent in 1879",
+    "MALTA and QUEENSLAND have no header lines - content starts directly",
+    "NATAL and STRAITS SETTLEMENTS use title-case headers",
+    "HONG KONG uses bold formatting",
+    "First Boer War begins in December 1880"
+  ]
+}

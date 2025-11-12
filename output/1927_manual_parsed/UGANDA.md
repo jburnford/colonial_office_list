@@ -1,0 +1,454 @@
+UGANDA.
+
+(For Map see under Kenya).
+
+Extent and Boundaries.
+
+The British Protectorate over Buganda was proclaimed on June 19th, 1894, in succession to a brief administration by the Imperial British East Africa Company. The Protectorate was further extended over Bunyoro and Busoga on July 3rd, 1896. By numerous subsequent treaties concluded by various officers in the service of the Protectorate, the British administration has spread still further over countries adjoining the kingdom of Buganda proper, and the boundaries of the Protectorate may now be set forth more or less as follows:—
+
+On the east by Kenya Colony as far north as the 4th degree of north latitude, the natural boundaries being the Turkana escarpment, Mount Elgon, and the Sio River running into the north-east corner of Lake Victoria; on the south, by Tanganyika Territory and by the 1st degree of south latitude; on the west, by the frontier of the Belgian Congo, the natural boundaries being Lake Edward, Mt. Ruwenzori, the Semliki River, Lake Albert and the Nile watershed; and on the north, by the Uganda-Sudan boundary.
+
+The area of the Uganda Protectorate is estimated at 94,844 square miles, including 15,017 square miles of water. Pending the complete survey of the country, it is not possible to give the correct area.
+
+For administrative purposes the Protectorate is divided into four provinces (Eastern, Northern, Western, and Buganda), and then again into numerous districts. The King or "Kabaka" of Buganda is accorded the title of "His Highness," and his position and rights are regulated by treaty.
+
+Climate.
+
+The climate, when compared with that of some tropical countries, is not unpleasant but it can by no means be called healthy. The conditions vary with the altitude in different parts of the Protectorate: the Nile Valley, which lies about 2,000 feet above sea-level, is hot, and is considerably more unhealthy than the higher-lying regions between Lakes Victoria and Albert. The most congenial climate for European residence is found in the Buganda kingdom and in the Western Province, where in some districts the altitude exceeds 5,000 feet above sea-level. European children thrive well in infancy in a few of the healthier stations, but considerable risk is attached to bringing them out when over two or three years old, as they are always liable to attacks of malaria and the anaemia and general ill-health resulting therefrom. Residents in Entebbe keep fairly good health but even there malaria and blackwater fever are by no means unknown. Epidemics of plague and small-pox have occurred amongst the natives in recent years, but the medical authorities have fortunately been able to confine these outbreaks for the most part within narrow limits, owing to the co-operation of the chiefs in enforcing the restrictions and regulations imposed.
+
+The climate is mild, neither excessively hot nor cold, the average temperature for the year 1925 at Entebbe being—Mean maximum, 78°6 Fahrenheit; mean minimum, 62°5 Fahrenheit. Average daily sunshine, 5 hours 43 minutes.
+The average rainfall at 44 stations, for the year ending 31st December, 1925, was 60·46 inches. Highest rainfall was registered at Sozi, in the Sese Islands, being 78·48 inches.
+
+The seasons are not well defined, but there are two dry seasons within the year; one dry season usually includes June and July, and the other December, January and February.
+
+The healthiest months of the year are usually January, February and March, July, August, September and October, and the least healthy, April, May, November and December, or the periods corresponding to those immediately following the rains, when the mosquitoes become more in evidence and malarial infections more numerous.
+
+No part of the Uganda Protectorate can be said to be absolutely free from malaria, but in some districts, for example those of Toro and Ankole in the Western Province, there is comparatively little, while on the other hand, in the Nile valley and along the courses of the larger rivers, malaria prevails at all seasons of the year.
+
+Sleeping sickness, which proved such a scourge to the country a few years back, and necessitated the evacuation of the natives from the islands in Victoria Nyanza, and from the shores of the great lakes and rivers, is now well under control. During 1921 and 1922 the island population was to a great extent restored and many of the islands were successfully reopened; no further outbreak of sleeping sickness has hitherto occurred.
+
+History.
+
+During the first years of the British Protectorate an armed force was created from the remains of the Sudanese army of Emin Pasha. To these other recruits were added from the districts of the White Nile, and the force thus organised, together with irregular bands of friendly Baganda, was used to repel the hostile attacks of the King of Bunyoro, and later of Mwanga, King of Buganda. Later on an Indian contingent, similar to that employed in East Africa and in British Central Africa, was established. Unfortunately discontent arose amongst a section of the Sudanese force. These Sudanese broke into open mutiny at the end of 1897, and Mwanga, who had escaped to German territory, returned to Buganda and joined the mutineers and Kabarega, rebel King of Bunyoro, in December, 1897. The Baganda, however, remained loyal, and after a year's fighting, with some loss in British officers, the mutiny was thoroughly quelled, and Mwanga and Kabarega were captured, and sent as prisoners to Kisimayu. In 1901 they were transferred to Seychelles, where Mwanga died in 1903; Kabarega in 1923 was permitted to return to Uganda, where he died later in the year. Since the early part of 1899 the country has been perfectly peaceful, and has made considerable progress in commerce.
+
+Constitution.
+
+By the Uganda Order in Council, 1920, it was provided that there should be an Executive Council and a Legislative Council both consisting of such persons as may be directed by Royal Instructions. Under the Royal Instructions dated the 5th June, 1920, the Executive Council consists of the Chief Secretary, Attorney-General, Treasurer, and Director of Medical and Sanitary Services (ex-officio members), and such other persons holding office in the public service as the Governor may appoint (official members), and such other persons (if any) not holding such office as the Governor may appoint (unofficial members), with the Governor as President.
+
+It is further provided that the Legislative Council shall consist of the Governor, Attorney-General, Treasurer, and Director of Medical and Sanitary Services (ex-officio members), with official and unofficial members as in the case of the Executive Council.
+
+The membership of both Councils has now been increased by the addition of the Director of Education and the Director of Agriculture.
+
+Communications.
+
+The Uganda Protectorate itself is separated by about 800 miles from the east coast of Africa, but the north-easternmost extremity of Victoria Lake is not distant more than 580 miles. Over this stretch of country, all of which lies within the Colony of Kenya, transport was formerly exceedingly difficult, owing to the paucity of inhabitants to act as porters, and stretches of country unhealthy for beasts of burden. Consequently the Imperial Government resolved in 1895 to construct a railway from Mombasa to the north-east corner of Lake Victoria. This railway, at the end of 1901, had reached and descended the Kikuyu escarpment, traversed the Great Rift Valley, ascended the slopes of the Mau range to within a short distance from the summit, descended thence the Nyando Valley, and finally covered the whole 684 miles separating Mombasa from Kisumu on Victoria Nyanza, which is the terminus of the railway.
+
+A railway has been completed from Jinja to Namasagali on the Victoria Nile, a distance of 62 miles, giving access to the waterways of Lake Kioga. A loan from Imperial funds of £25,000 was granted in 1912 to provide for extensive improvements in the communications on Lake Kioga and in the Eastern Province, to cope with the rapidly increasing output of cotton, and for a railway from Port Bell on Lake Victoria to Kampala, the principal commercial centre, a distance of 7½ miles, which was opened for public traffic in 1916.
+
+The Nakuru-Turbo branch of the Uganda Railway is now being extended to the Eastern Province of Uganda, so placing Uganda in direct communication with the coast. This extension will ultimately connect with the Jinja-Namasagali line.
+
+Uganda is now in telegraphic communication with Mombasa by a land line, and thence by cable with Great Britain and other countries. All important centres within the Protectorate are connected also by telegraph.
+
+Population.
+
+Estimated population, December, 1925:—
+
+| Europeans, males | 1,125 |
+|------------------|-------|
+| females          | 578   |
+| Asiatics         | 9,176 |
+| Africans         | 3,137,602 |
+
+Total: 3,148,481
+
+Products.
+
+Coffee of the Arabian varieties has been introduced and thrives exceedingly well; it is the principal crop on European plantations. Rubber trees and vines are plentiful. The
+principal industry is cotton; Cotton exported during 1925, 36,007 tons, valued at £4,685,992; cotton seed, 21,928 tons, valued at £122,790. It is all produced by the natives. Cattle are plentiful. Leasehold grants of land can be obtained from the government, but the issue of freehold concessions has been withdrawn for the present.
+
+Finances.
+
+The Revenue is principally derived from poll taxes, customs duties, cotton tax, trading licenses, and land rents. The revenue from poll taxes in 1925 was £430,992, and from customs duties £513,619. There has been no grant-in-aid from the British Government since 1914-15. The currency is the same as in Kenya.
+
+| Year   | Revenue | Expenditure |
+|--------|---------|-------------|
+| 1916-17| £315,468| £289,308    |
+| 1917-18| £326,366| £292,913    |
+| 1918-19| £351,834| £330,972    |
+| 1919-20| £459,549| £465,118    |
+| 1920 (9 months)| £777,084| £592,780    |
+| 1921   | £803,347| £786,375    |
+| 1922   | £820,365| £920,228    |
+| 1923   | £999,750| £938,999    |
+| 1924   | £1,259,789| £918,662    |
+| 1925   | £1,479,284| £1,108,396 |
+
+Imports.
+
+The Customs are now amalgamated with those of the Colony of Kenya, and separate statistics are not available.
+
+Exports. †
+
+| Year | Value |
+|------|-------|
+| 1921 | £1,539,538 |
+| 1922 | £1,215,793 |
+| 1923 | £2,393,678 |
+| 1924 | £3,897,395 |
+| 1925 | £5,096,717 |
+
+† Exclusive of specie and goods in transit. The destination of exports is not known when the goods leave the Protectorate. Goods are consigned to agents at Mombasa, from which port they are finally exported.
+
+Administrators since 1910.
+
+1911. F. J. Jackson, C.B., C.M.G.
+1913. Sir F. J. Jackson, K.C.M.G., C.B.
+1918. R. T. Coryndon, C.M.G.
+1919. Sir R. T. Coryndon, K.C.M.G.
+1922. Sir G. F. Archer, K.C.M.G.
+1925. Sir W. F. Gowers, K.C.M.G.
+
+Kings of Buganda.
+
+1889-1897. Mwanga (deposed).
+1897-. Sir Daudi Chwa, K.C.M.G. (born 8th August, 1896, and attained his majority 8th August, 1914).
+
+Appointed Regents during the Kabaka's minority.
+
+Sir Apolo Kagwa, K.C.M.G., Stanislas Mugwanya, Zakaria Kisingiri, 400l. each. Upon the Kabaka attaining his majority the "Regents" reverted to their positions as his ministers. Zakaria Kisingiri died in 1918, and Sir Apolo Kagwa in 1927.
+
+There are under the Treaty 20 Saza Chiefs, who receive salaries varying from 200l. to 75l. a year from the British Government.
+
+Civil Establishment.*
+
+Governor and Commander-in-Chief, Sir W. F. Gowers, K.C.M.G., 3,000l., and 1,000l. duty allowance.
+
+Private Secretary, Major F. W. Cavendish-Bentinck, 450l.
+
+Aide-de-Camp (vacant), 400l.
+
+Stenographer, Miss K. A. Loughnan, 300l. to 500l. (D).
+
+Secretariat.
+
+Chief Secretary to the Government, E. B. Jarvis, C.M.G., 1,800l.
+
+Deputy Chief Secretary, Registrar-General of Marriages, etc., P. W. Perryman, O.B.E., 1,350l.
+
+Assistant Chief Secretary, E. L. Scott, O.B.E., M.C., 1,050l.
+
+Two Senior Assistant Secretaries, B. Ashton-Warner, one vacancy, 720l. to 920l. (Scale A).*
+
+Two Assistant Secretaries, R. A. Whittle, M.C., (one vacancy), 475l. to 920l. (Scale A.)
+
+Office Superintendent, C. H. Broomfield, 500l. to 600l. (Scale D).
+
+3 Clerks, D. O. Swane, A. S. Jefferson, 300l. to 500l. (D). (One vacancy.)
+
+Provincial Administration.
+
+Provincial Commissioners, C. W. G. Eden, (one vacancy), 1,350l., P. W. Cooper, O.B.E., E. B. Haddon, 1,200l.
+
+Deputy Provincial Commissioners at 1,000l., C. E. E. Sullivan, J. R. P. Postlethwaite, M.B.E.
+
+Administrative Officers, Captain H. M. Tufnell, H. Fellow Wright, J. de G. Delmeger, W. G. Adams, H. A. Mackenzie, J. G. Rubie, A. H. Cox, G. L. M. Warne, F. H. B. Sandford, E. D. Tongue, Captain A. B. Trewin, B. H. M. Simpson, C. L. Bruton, Capt. J. E. T. Phillippo, M.C., L. E. Knollys, T. A. C. Rubie, J. B. Harvey, F. H. Rogers, E. E. Filleul, A. O. Fisher, E. A. Temple-Perkins, W. H. Long, Captain E. M. Perse, M.C., C. Bradley, W. H. Nelson, Captain C. S. Nason, R. O. Hunt, F. L. Williams, F. M. Barrell, Captain A. E. O. Black, J. R. McE. Elliot, Captain T. Preston, A. O. Jenkins, Lieutenant R. J. Jowitt, R.N., F. R. Kennedy, Lieutenant O. R. Sitwell, (R.N., O. G. L. P. Powell, W. B. Sotheron-Estcourt, D. W. Robertson, D.S.O., M.C., A. D. F. Thompson, A. W. Place, G. C. Whitehouse, Major N. C. L. Lowth, M.C., 475l. to 920l. (Scale A).
+
+Cadets, H. B. Watney, R. C. Dent, B. I. Slaghter, W. R. R. Croase-Crosse, E. L. Edwards, B. F. C. Childs-Clarke, N. F. S. Andrews, A. R. Tucker, J. Brown, R. Macgill, G. M. Fletcher, C. K. Mitchell, J. R. Bell, A. G. Y. Jenkins, O. C. Noel, E. L. Hudden, J. W. Steil, C. A. Williams, E. T. James, F. W. Johnston, W. V. Crook, Lieut.-Col. H. J. Nancarrow, E. B. S. Clarke, C. M. A. Gayer, J. B. Griffin, C. Rankin, G. V. Vane, D. K. Burner, R. J. P. Thorne-Thorne, C. G. Wrench, B. E. O'Brien, 400l.
+
+* In the particulars of the Civil Establishment salary scales are as follows:
+
+Scale A.—400l. for 2 years, then 475l. by 25l. to 600l. by 30l. to 840l. by 40l. to 920l.
+
+Scale B.—300l. for 2 years, then 425l. by 25l. to 600l. by 30l. to 840l. by 40l. to 920l.
+
+Scale C.—480l. by 20l. to 600l. by 30l. to 840l. by 40l. to 920l.
+
+Scale D.—300l. by 18l. to 480l. by 20l. to 600l.
+
+Scale E.—250l. to 300l.
+Labour Organisation.
+
+Director of Labour, H. P. Wright, 1,000l.
+2 Labour Commissioners (one seconded from Provincial Administration, (one vacancy), (Scale A).
+6 Assistant Labour Commissioners, P. C. Jackson, R. L. Hett, J. F. Gabbutt, F. Mackenzie, W. J. Moon, F. T. Craigie-Halkett, 450l.
+Clerk, D. McClaren, 300l. to 500l. (Scale D).
+
+Audit.
+
+Auditor, Capt. W. H. Smith, 1,100l.
+Senior Assistant Auditor, A. Bragg, 425l. to 720l. (Scale B).
+5 Assistant Auditors, Pay.-Lt. A. C. Getley, R.N., R. L. Thomas, (one vacancy), 425l. to 720l. (Scale B).
+
+Legal.
+
+Judges of the High Court: Chief Justice, Sir C. J. Griffin, K.C., 1,800l.
+Puisne Judge, F. Guthrie-Smith, 1,350l.
+Attorney-General, S. S. Abrahams, 1,400l.
+Assistant to the Attorney-General, Capt. J. H. Jarrett, 600l. to 840l. (Scale A).
+2 Senior Magistrates, C. C. Roberts, H. H. Hearne, 840l. to 920l. (Scale A).
+4 Magistrates, R. W. G. Murray-Jardine, J. Milner Gray, M. Wilson (for the townships of Entebbe, Kampala, Jinja and Mbale), 600l. to 840l. (Scale A).
+Registrar, High Court, J. J. Hayden, 600l. to 840l. (Scale A), also performs the duties of Administrator General, Principal Registrar of Documents, Registrar of Companies, Registrar of Patents, Designs and Trademarks, and Custodian of Enemy Property, while the Magistrate at Kampala acts as Official Receiver in Bankruptcy in addition to his other duties.
+Clerk, J. D. Kirwan, 300l. to 500l. (Scale D).
+
+Medical.
+
+Director of Medical and Sanitary Services, J. H. Reford, 1,500l.
+Deputy Director of Medical Service, Major G. J. Keane, D.S.O., 1,200l.
+Deputy Director of Sanitary Service, G. R. H. Chell, 1,200l.
+Survical Specialist, C. H. Marshall, 1,200l.
+Specialist Officer, Sleeping Sickness, G. D. H. Carpenter, H.B.E., 1,150l.
+Medical Superintendent, Mulago, W. L. Webb, 1,150l.
+Senior Sanitation Officer, H. R. Neilson, 1,000l. by 60l. to 1,500l.
+4 Senior Medical Officers, J. E. Hailstone, Major R. J. A. Macmillan, D.S.O., W. L. Peacock, C. R. Wallace, 1,000l.
+28 Medical Officers, J. H. Neill, E. A. C. Langton, N. Bligh-Peacock, R. G. Griffin, S. W. T. Lee, J. C. St. George Earl, D. G. Garnett, J. P. Mitchell, O.B.E., A. J. Boase, F. P. Freeman, A. C. Freeth, F. V. Small, T. H. Nolan, L. D. Dennard, J. D. Reynolds, N. C. Macleod, G. A. Sloan, G. Louw, S. Forrest, J. M. Gray, K. Lumsden, A. H. Maclean, Miss M. Holliday, Miss M. K. Lawlor, M. D. Macqueen, E. N. Cook, 600l. to 920l. (Scale A); J. C. Caldwell, 840l., L. E. S. Sharp, 384l. (temporary medical officers).
+Sanitation Officer, R. S. McElroy, 600l. to 920l. (Scale A).
+Dental Surgeon, G. S. Bateman, 720l. to 920l. (Scale A). (Salary personal to present holder, 1,000l.)
+Director of Laboratory, H. L. Duke, O.B.E., 1,200l. plus 100l. personal to present holder.
+Senior Bacteriologist, Miss M. Martin, 1,000l. by 50l. to 1,100l.
+Assistant Bacteriologist, R. P. Cormack, 600l. to 920l. (Scale A.), plus 157l. 10s. temporary personal allowance.
+3 Laboratory Assistants, J. Stewart, E. C. Haddon, E. G. Gibbons, 500l. to 600l. (Scale C).
+Clerk, A. W. Rich, 300l. to 500l. (Scale D).
+2 Matrons, Miss E. M. Pratt, A.R.R.C., Miss N. M. Adams, 300l. to 426l. (Scale D).
+20 Nursing Sisters, Miss D. M. Ivers, Miss E. M. Stringer, Miss A. Miles, Miss G. M. Hawthorne, Miss A. R. Bagot, Miss S. E. Oxley, Miss E. R. Brittain, Miss N. S. Boyd, Miss I. Baillie, Miss E. A. McGill, Miss N. B. Freeman, Miss A. E. Fichat, Miss J. F. Sneddon, Miss G. R. Ibbs, Miss W. B. Coward, Miss S. C. Fichat, Miss D. B. Reeves, Miss A. C. Miller, Miss A. Thompson, 250l. to 300l. (Scale E), and 20l. uniform allowance.
+Confidential Clerk, H. Flint, 500l. to 600l.
+Office Superintendent, H. T. Bott, 500l. to 600l. (Scale D).
+Clerk, F. G. Caldwell, 300l. to 500l. (Scale D).
+Medical Storekeeper, P. J. L. Waters, 500l. to 600l. (Scale D).
+Pharmacist, C. Chorley, 500l. to 600l. (Scale D).
+2 Superintendents, E. S. Smout, H. G. Smith, 500l. to 600l. (Scale D).
+2 Assistant Superintendents and Dispensers, C. H. H. Lloyd, W. O. Tindall, 300l. to 500l. (Scale D).
+Laboratory Assistant, A. E. Baker, 372l. to 500l. (Scale D).
+3 Sanitary Inspectors, C. W. G. Tiffin, W. V. Kendall, G. Gillanders, 372l. to 500l. (Scale D), and 10l. uniform allowance.
+Supervisor of Native Inspectors, R. J. Wilkinson, 300l. to 500l.
+
+Tsetse Control.
+
+Reclamation Officer, W. F. Fiske, 1,000l.
+Sleeping Sickness Inspector and Engineer-in-charge Motor Launch, R. R. Lambert, 372l. to 500l. (Scale D).
+Sleeping Sickness Inspector, C. O'Connor, 300l. to 500l. (Scale D).
+
+Police and Prisons.
+
+Commissioner of Police and Prisons, Major E. H. T. Lawrence, O.B.E., 1,200l.
+Assistant Commissioner, Major F. T. G. Tremlett, M.B.E., 960l.
+6 Superintendents, Captain F. T. Allen, Captain C. W. K. Bovell, G. Waters, C. A. Turpin, Captain F. Roberts, Captain L. Handley, 600l. to 840l. (Scale B).
+Superintendent, C.I.D., W. Younger, 600l. to 840l. (Scale B).
+15 Assistant Superintendents, J. W. Dryden, C. S. Wagstaff, E. G. Smith, Captain H. R. Mather, Captain E. G. Fish, L. L. Ralph, Major F. A. B. Nicoll, O.B.E., A. G. G. G. Peskett, Lieut. H. F. Workman, C. W. Laxton, Lieut. J. W. Ball, Lieut. W. D. McLeman, D. Skinner, J. McGregor, 425l. to 600l. (Scale B).
+
+(For Scales A, B, C and D see footnotes page 70).
+Quartermaster, A. B. Tyte, 600l. to 720l. (Scale B.)
+Drill Inspector, F. J. Robbins, 372l. to 500l. (Scale D.)
+Assistant Superintendent, C.I.D., B. Driscoll, 425l. to 600l. (Scale B.)
+Inspector, H. P. Morrison, 372l. to 500l. (Scale D.)
+Superintendent of Prisons, G. H. Heaton, 500l. to 720l. (Scale B.)
+4 Head Gaolers, S. Salter, W. A. Brown, W. S. Swann, W. I. T. Wylde, D.C.M., 300l. to 500l. (Scale D.)
+
+Printing and Stationery Department.
+Government Printer, Manager of "Official Gazette" and Comptroller of Stationery, J. Coates, 600l. by 30l. to 840l., and 50l. allowance as Comptroller of Stationery.
+Assistant Printer, J. H. Coles, 390l. by 18l. to 500l. by 20l. to 600l.
+2nd Assistant and Linotype Supervisor, G. H. Bell, 372l. by 18l. to 500l.
+
+Public Works.
+Director of Public Works, A. McClure, 1,350l.
+Deputy Director, Captain A. C. Willmot, O.B.E., 960l.
+4 Executive Engineers, S. Waite, H. B. Bain, M. P. Tennant, W. H. Michell, 840l. to 920l. (Scale C).
+Executive Engineer, Water Supply, W. G. Morris, 920l.
+Electrical and Mechanical Engineer, G. M. Ogilvie, 600l. to 840l. (Scale C)
+14 Assistant Engineers, A. Bisset, C. F. Chambers, F. T. Murray, J. J. Donaghue, H. Thompson, F. U. M. Greer, R. W. Taylor, N. W. King, C. T. Mitchell, R. S. Knowlden, E. A. Boyce, F. H. Came, H. Collin, F. J. Murphy, 480l. to 720l., (Scale C).
+Water Works Superintendent, A. W. Legg, 500l. to 600l. (Scale D).
+Clerk of Works, A. H. Lunn, 500l. to 600l. (Scale D).
+Architectural Draughtsman, F. C. Haslam, 480l. to 720l. (Scale C).
+Draughtsman and Quantity Surveyor, W. H. Watts, 480l. to 720l. (Scale C).
+Engineering Draughtsman, E. E. Martin, 480l. to 720l. (Scale C).
+Chief Accountant, (vacant), 600l. to 840l.
+3 Assistant Accountants, F. J. Firmin, F. J. Shelldrake, S. Gray, 500l. to 600l. (Scale B).
+Chief Storekeeper, H. G. Knight, 600l. to 720l. (Scale B).
+3 Assistant Storekeepers, E. E. Stow, H. T. Leach, D.C.M., D. C. Balfour, 372l. to 500l. (Scale D).
+Office Superintendent, E. P. Stanford, 500l. to 600l. (Scale D).
+3 Clerks, W. V. Dodd, E. R. Edmonds, J. Delvin, 500l. to 600l. (Scale D).
+4 Senior Overseers, J. Skinner, P. J. Curriwan, W. S. Templeton, R. Blackie, 500l. to 600l. (Scale D).
+12 Overseers, G. Chapman, W. Whatley, R. Milne, D. McN. Cavers, H. E. Grant, T. H. Nurse, O. W. Ennever, J. B. Bell, F. W. Hollister, A. Boyers, A. W. Phillipe, T. Macdonald, 372l. to 500l. (Scale D).
+
+Electrical Mechanician, M. M. Conochie, 372l. to 500l. (Scale D).
+Mechanic Foremen, H. P. Zimmerman, H. G. Harding, 372l. to 500l. (Scale D).
+Foremen, G. A. Street, S. Vermont, R. H. Howard, A. Slater, J. Carter, G. F. Broomfield, P. Welsh, T. W. Bateman, P. C. Mowbray, C. E. V. English, W. O. Ford, O. J. Pierce, J. L. Wykes, 300l. to 450l. (Scale D).
+Road Foremen, R. N. Gawler, A. P. Smith, W. D. W. Neville, L. C. A. Richer, E. J. Smith, W. T. Harrison, 300l. to 400l.
+Temporary Foremen, W. Pool, H. T. Burgess, J. R. Botha, G. Jones, C. Sholtz, 300l.
+
+Government Timber Supply.
+Manager, Government Timber Supply, C. E. Ashman, 480l. to 720l. (Scale C).
+Assistant Manager, Government Timber Supply, J. Dow, 372l. to 500l. (Scale D).
+
+Land and Survey Department.
+Director of Surveys, Land Officer and Commissioner of Mines, D. Blair, 1,350l.
+Deputy Director of Surveys, H. B. Thomas, 960l.
+Assistant Land Officer, J. G. Strickland, A.M.I.C.E., 840l.
+Conveyancer and Registrar of Titles, D. L. G. Williams, 600l. to 840l. (Scale A).
+District Surveyors, J. M. Y. Trotter, A. C. McHatton, A. R. G. Hart, 720l. to 840l. (Scale C).
+Staff Surveyors, T. A. Bowden, A. J. Wright, R.G. Miller, Captain F. M. Thomas, P.A.S.I., R. J. Goulston, A. G. Ellis, D. Kavanagh, E. L. Walsh, A.M.I.Mech.E., T. G. Braine, G. N. Humphreys, M.A., G. P. Spurr, C. M. Gibson, 480l. to 720l. (Scale C).
+Chief Draughtsman, F. C. MacDonald, 480l. to 720l. (Scale C).
+Office Superintendent and Storekeeper, A. T. G. Barber, 500l. to 600l. (Scale D).
+Computer, A. E. Spencer, F.S.I., 480l. to 720l. (Grade C.)
+Draughtsman, D. O. Mathews, 372l. to 500l. (Scale D).
+Clerks, L. Shoolman, S. Dean, C. H. Dowdeswell, A. C. Johnson, 300l. to 500l. (Scale D).
+
+Geological Survey.
+Director, E. J. Wayland, 1,100l.
+Petrologist and Chemist, W. C. Simmons, 600l. to 840l. (Grade C).
+Field Geologists, A. D. Combe, T. Hirst, 600l. to 720l. (Scale C).
+Drilling Engineer, S. Gill, 600l. to 720l. (Grade C).
+
+Forestry.
+Conservator of Forests, R. Fyffe, 920l.
+3 Assistant Conservators of Forests, R. A. Gibson, C. S. Heaton, R. W. Freeman, 480l. to 720l. (Scale C).
+European Forester, H. Adams, 300l. to 500l. (Scale D).
+
+Agricultural Department.
+Director of Agriculture, S. Simpson, 1,350l.
+Deputy Director of Agriculture, L. Hewett, 960l.
+2 Senior Agricultural Officers, A. R. Morgan, R. G. Harper, 720l. to 840l. (Scale C).
+8 Agricultural Officers, J. D. Snowden, R. T. Wickham, C. E. J. Biggs, D. S. Davies, G. F. Clay, A. B. Killick, N. S. Haig (1 vacancy), 480l. to 720l. (Scale C).
+
+Superintendent Agricultural Education, E. G. Staples, 720l. to 840l. (Scale C).
+
+6 Plantation Managers, C. Hazel, P. Chandler, Capt. J. S. Harmsworth, M.C., G. T. Philpott, F. W. Hall, E. A. Ruck, 425l. to 500l. (Scale D).
+
+Entomologist, H. Hargreaves, 600l. to 840l. (Scale C).
+
+Assistant Entomologist, G. L. R. Hancock, 480l. to 720l. (Scale C).
+
+Mycologist, C. G. Hansford, 600l. to 840l. (Scale C).
+
+Botanist, T. D. Maitland, M.B.E., 600l. to 840l. (Scale C).
+
+Cotton Botanist, G. W. Nye, 600l. to 840l. (Scale C.)
+
+Coffee Officer, W. L. Munn, 600l.
+
+Agricultural Chemist, W. S. Martin, 600l. to 840l. (Scale C).
+
+Cotton Grader and Ginning Inspector, (vacant), 600l. to 840l. (Scale C).
+
+Statistician and Secretary, Cotton Control Board, A. S. Widgery, 500l. to 600l. (Scale D).
+
+Office Superintendent, G. A. Read, 500l. to 600l. (Scale D).
+
+4 Ploughing Instructors, E. M. Baird, A. L. Stevens, H. Allen, (one vacancy), 372l. to 425l. (Scale D).
+
+Clerk, W. H. B. Etheridge, 300l. to 500l. (Scale D).
+
+Veterinary Department.
+
+Chief Veterinary Officer, W. F. Poulton, 1,100l.
+
+Assistant Chief Veterinary Officer, U. F. Richardson, 920l.
+
+Veterinary Pathologist, G. W. A. Hall, 920l.
+
+Laboratory Assistant, E. R. Jones, 372l. to 500l. (Scale D).
+
+Clerk, J. S. Cashmore, 300l. to 500l. (Scale D).
+
+2 Senior Veterinary Officers, R. L. L. Hart, Major A. N. Foster, O.B.E., 720l. to 840l. (Scale C).
+
+6 Veterinary Officers, Capt. W. S. Aitken, Capt. L. S. Mackintosh, R. J. Simmons, J. Carmichael, F. H. Manley, W. A. Allan, 600l. to 840l. (Scale C).
+
+2 Veterinary Officers, (vacant), 600l. to 720l. (Scale C).
+
+2 Assistant Livestock Officers, J. T. Kennedy (one vacancy), 500l. to 600l. (Scale C).
+
+Clerks, F. A. Cottage, R. Tomkins, 300l. to 500l. (Scale D).
+
+6 Stock Inspectors, F. A. Poestkoke, H. J. P. Nelson, T. M. Riley, C. J. Scott, J. J. Victor, H. Morton, 300l. to 500l. (Scale D).
+
+Telegraphs.
+
+(See under "KENYA.")
+
+Postmaster General, T. Fitzgerald, 1,200l.
+
+Transport.
+
+Director of Transport, Major R. B. Hill, 1,000l.
+
+2 Assistant Directors of Transport, Capt. G. F. W. Gibba, H. E. H. Brinton, 600l. to 700l., one (Scale B), one (Scale C).
+
+2 Transport Officers, G. W. Rawley, R. S. Stephens, 500l. to 600l. (Scale B).
+
+Head Clerk, A. E. Wilson, 300l. to 500l. (Scale D).
+
+Foreman Mechanics, W. Dixon, 500l.
+
+Cost Clerk and Storekeeper, H. G. Lovell, 300l. to 500l. (Scale D).
+
+11 Mechanics, H. A. Riordan, J. B. Reed, E. A. Evans, H. O. Torr, J. T. Stewart, F. P. Woodmore, R. C. W. Fraser, J. E. Gale, F. J. Hopgood, F. Goude, E. A. Halse, 372l. to 500l. (Scale D).
+
+2 Road Rail Mechanics, J. L. Roper, (one vacancy), 372l. to 500l.
+
+Municipal.
+
+Superintendent of Conservancy and Sanitary Inspector, G. MacKenzie, 600l. to 720l. (Scale B).
+
+Assistant Engineer, A. M. Foley, 480l. to 720l. (Scale C).
+
+Works Overseer, J. Busby, 372l. to 500l. (Scale D).
+
+Conservancy Officer, W. Johnson, 372l. to 500l. (Scale D).
+
+Game Department.
+
+Game Warden, Capt. C. R. S. Pitman, D.S.O., M.C., 720l. to 840l. (Scale B).
+
+4 Game Rangers, Capt. R. Salmon, M.C., F. G. Banks, P. C. Pearson, Capt. C. D. K. Palmer-Kerrison, 600l.
+
+Treasury and Savings Bank.
+
+Treasurer and Controller of Savings Bank, C. K. Dain, 1,400l.
+
+Deputy Treasurer, S. Marston, 960l.
+
+10 Senior Assistant and Assistant Treasurers, H. Hudson, R. S. Nash, F. Read, J. W. Groves, Captain E. J. Mateer, H. Allen, C. W. Shawyer, H. D. D. Mackay, W. Jesse, B. M. Tatham, 425l. to 720l. (Scale B).
+
+Cashier, G. Cooper, 425l. to 720l. (Scale B).
+
+Customs.
+
+Commissioner, G. Walsh, 1,400l.
+
+Busoga Railway Marine.
+
+Busoga Railway.
+
+Port Bell—Kampala Railway.
+
+Lake Albert Marine.
+
+(Administered by the Kenya-Uganda Railway—see under "KENYA.")
+
+Coast Agent, Mombasa, J. Doherty, 500l. to 600l. (Scale D).
+
+Education.
+
+Administrative.
+
+Director of Education, E. R. J. Hussey, 1,350l.
+
+Superintendent of Technical Studies, H. O. Savile, 720l. to 920l. (Scale A).
+
+Inspector of Schools, E. G. Morris, O.B.E., 720l. to 920l. (Scale A).
+
+Clerk, R. K. List, 300l. to 500l. (Scale D).
+
+Makerere College.
+
+Principal, D. G. Tomblings, 720l. to 920l. (Scale A).
+
+Medical Tutor, H. B. Owen, D.S.O., M.B., 1,000l. to 1,100l.
+
+Master of Method, J. Sykes, 720l. to 920l. (Scale A).
+
+Instructor of Carpentry, W. S. Hanson, 480l. to 720l. (Scale C).
+
+Assistant Instructor of Carpentry, W. M. Raymond, 372l. to 600l. (Scale D).
+
+Instructor of Mechanics, H. H. Wood, 480l. to 720l. (Scale C).

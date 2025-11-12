@@ -1,0 +1,521 @@
+MALTA.
+
+Situation and Area.
+The Maltese Islands form a group in the Mediterranean Sea, about 58 miles from the nearest point of Sicily, 80 miles from Syracuse, and 142 from Reggio, and about 180 from the nearest point of the mainland of Africa. The length of Malta is about 17 miles, by 9 miles in breadth; its area is 91·557 square miles; that of Gozo, 25·804 square miles, and that of Comino about one square mile. Filfita and Cominotto are mere islets. The whole group is about half the area of the Isle of Man.
+
+History.
+The earliest known inhabitants of the Maltese islands were the Phoenicians, who have left traces of their presence in the famous temples of Hagar Kim in Malta, and Torre dei Giganti, in Gozo, and Diodorus Siculus states that Malta (Melita) and Gozo (Gaulus) were regarded as being among the most important and prosperous Phoenician colonies. Greeks also appear to have settled in the island at a very early date, and during the period of the struggles between the Greeks and the Carthaginians for the possession of Sicily, Malta probably shared the varying fortunes of its neighbour, but practically nothing is known of its history in these years. At the beginning of the Punic wars the islands were held by Carthage. In the course of the first Punic war they changed hands more than once, but at its conclusion they were still in the possession of the Carthaginians. In 218 B.C., they passed finally to Rome. Under the Romans Malta appears to have enjoyed great prosperity. Diodorus Siculus speaks of the excellence of its harbours, the wealth of its inhabitants, and its many skilful artificers, and refers to its fertility, and Cicero, in the Verrine orations, speaks of it as abounding in riches and famous for its textile manufactures. Inscriptions show that it enjoyed municipal rights in the time of Hadrian, but the most striking fact in its history which is known to us is that it was the scene of St. Paul's shipwreck (Acts xxviii.). On the final division of the Empire in 395 A.D., Malta fell to the share of the Byzantine Emperor, and for the next four centuries its history is almost a blank. In the 9th century it was three times invaded by the Arabs, who finally conquered it in 870, the Byzantine garrison being massacred in an insurrection of the inhabitants. The Arabs held the islands until 1090, when they were conquered by Count Roger de Hauteville. From that date until 1530, the history of Malta is that of Sicily. In 1530, the Emperor Charles V. granted the islands to the Order of St. John, who had been driven from Rhodes by the Turks, and for 268 years it remained under the dominion of the Knights. The most famous incident of this period is the great siege of 1565, when the Order under the leadership of the Grand Master La Valette, successfully resisted the attacks of the apparently overwhelming force which Solyma the Magnificent sent against them. By the end of the 18th century the Order had fallen into decay, and on the 12th July, 1798, the Grand Master Hompesch capitulated without any attempt at resistance to Napoleon Bonaparte, who dispersed the Order. The Maltese, however, rose against the French, and drove them to take refuge in the towns, where they were closely blockaded by the British fleet, aided by the
+Maltese for two years. The French, reduced to extremities, surrendered to the British, and in 1800 the government was placed in the hands of Great Britain. The Treaty of Amiens provided that the islands should be restored to the Knights, but this was prevented by the re-commencement of the war, and they were finally annexed to the British Crown by the Treaty of Paris in 1814.
+
+Climate.
+
+The climate of Malta is equable and very healthy in winter. In August the heat at the sea level approaches that experienced in the tropics. The nights, however, are pleasant and cool, except during the prevalence of the scirocco wind. The mean maximum temperature during the three coldest months (December, January, February) is 58° Fahr., and the mean minimum 50°; but during the four hottest months (June, July, August, and September) the mean maximum is 81° Fahr., and the mean minimum 70°. The mean temperature is 64°, and the mean annual rainfall is 20 inches. There is no river or rivulet in the island, the water drainage becoming absorbed in the porous sandstone beds and finding its way through underground channels and aqueducts.
+
+Industry.
+
+The island is highly cultivated. Besides products for home consumption, early potatoes, onions, cumin seed and oranges are exported. A large number of the inhabitants are employed in connection with the trade of Valletta as a coaling station and an entrepôt and port of call. It is a port of registry, having, on 1st January, 1920, 41 vessels, 3,185 gross tonnage. There is a large trade with Tunis, Algeria, Italy, and the Levant.
+
+Chief Towns.
+
+The chief town and capital is Valletta, having, with its suburbs of Floriana, Sliema, and St. Julian's, a population which, on 2nd April, 1911, when the census was taken, was 44,143. The "Three Cities" (Senglea, Cospicua, and Vittoriosa) have a population of 26,551. Citta Vecchia, the old capital, is in the interior of the island, and, with its suburbs, had a population of 8,896 on 2nd April, 1911. The chief town of Gozo is Victoria (formerly called Rabat), with a population of about 5,655.
+
+Inhabitants.
+
+The inhabitants of the country districts resemble the southern Italians in appearance, and in some districts show distinct traces of their Punic descent. In the towns and among the upper classes are to be found representatives of families who have settled in Malta from many different countries. The Maltese dialect, which is generally spoken, is of Semitic origin, and is held to be derived from the Carthaginian and Arabic tongues. The educated and commercial classes also speak Italian and English. The Maltese are remarkably thrifty, hard-working, and industrious. They are excellent seamen and mechanics; large numbers of them are to be found in Algeria, Gibraltar, the Regency of Tunis, Egypt, the United States, Canada and Australia.
+
+Currency and Banking.
+
+The legal tender currency is, under Order in Council of September 24th, 1886, exclusively British. There are two local banks (Banco di Malta and Anglo-Maltese Bank), and branches of the Anglo-Egyptian Bank, the Banco di Roma and the Crédit Foncier d'Algérie et de Tunisie. The first two banks have a small note circulation, the amount of which cannot be ascertained, insomuch as those banks are not subject to any statutory laws and do not publish their accounts. The Government savings bank was established in 1833. On 31st March, 1920, the deposits amounted to 786,980L with 8,216 depositors.
+
+Means of Communication.
+
+The railway, which is of the metre gauge, is 7½ miles long; it was originally built by the Malta Railway Company at the cost of about 100,000L. The railway became the property of the Local Government in 1890, under a clause of the concession which provided that if the service was suspended for a certain period, the railway would be forfeited to the Government. An electric tramway service was started in 1905, connecting the principal towns and some of the villages with Valletta. There is a telephone exchange with 785 miles of wires. Malta is a station of the Eastern Telegraph Company, with direct cables to Alexandria (3), Gibraltar (3), Bone (2), Messina (1), Tripoli (1), Sicily (1), and Zante (1).
+
+Malta is a port of call for nearly all the Mediterranean lines of steamers, and is an important coaling station, facilities being given for coaling at any hour, day and night, and for ensuring full weight of bunker coals. There is direct mail communication with several Mediterranean ports and with England. The rates of postage are as follows:
+
+| Letters. Newspapers. | per oz. net. |
+|----------------------|-------------|
+| Local                | 1d.         |
+| To United Kingdom and British Possessions generally, Egypt (including the Soudani), British Postal Agencies in Morocco, and British Ships of War serving abroad. | 2½d. ½d. do. |
+| To all other places. | 2½d. ½d. do. |
+|                      | 1½d. every additional oz. |
+
+The total correspondence received and despatched in 1919-20 was as follows:
+
+**Inland Correspondence.**
+
+| Letters | Postcards | Other printed matter, &c. |
+|---------|-----------|--------------------------|
+|         |           |                          |
+|         |           |                          |
+
+**Foreign Correspondence.**
+
+| Letters | Postcards | Other Printed Matter | Parcels |
+|---------|-----------|----------------------|---------|
+| Received | Despatched |                          |         |
+| 1,738,689 | 2,559,027 | 140,421 | 146,989 |
+| 1,077,344 | 309,135 | 61,103 | 12,002 |
+
+Public Works.
+
+The drainage of the fortified towns, which was commenced in 1876 at the joint charge of the Colonial and Imperial Treasuries, was completed in 1885, and has greatly improved their sanitary condition. New drainage works were commenced in 1899, and Sliema, St. Julians, Misida, Pietà, Calcara, Zabbar, Hamrun, Curmi, Rabato Tarxien, Paula, Zejtun and Zabbar, and other places have been drained, while several works have been carried out under a scheme for flushing the whole drainage system of Malta with
+sea water. The waterworks have also been much improved, and have now been extended to all the large villages and to Gozo. Considerable progress has been made in public lighting, and in improving the roads and streets. Electric lighting has been installed, and current is supplied to Valletta, Floriana, Sliema, Birchircara, and the Three Cities, including the two harbours.
+
+**Constitution.**
+
+The Government is administered by a Governor, advised and assisted by an Executive Council, established in 1881, re-constituted in 1887, and again in 1903 and 1909. It now consists of ten official and two unofficial members besides the President. Legislation is carried on by means of a partly-elective Council of Government originally constituted by Letters Patent of 11th May, 1849; re-constituted by Letters Patent of 12th Dec., 1887 (amended in 1898); and again by Letters Patent of 3rd June, 1903. It now consists of nine official members and eight elected, besides the President and a Vice-President. Public officers are ineligible for election, and no ecclesiastical person is capable of being elected a member of the Council. The islands are divided into eight electoral districts, returning one member each. The total number of electors is at present about 7,500. The qualifications for a member of Council are, his qualification to be registered as an elector, and the possession of immovable property of the clear value of 100l. for twelve calendar months previous to election; or the payment of rent for immovable property to the annual value of 10l. for twelve calendar months previous to election; or the payment of 40l. a year for board and lodging; or 10l. a year for his lodging only for the same period previous to election. The qualifications for an elector are the age of twenty-one years, British nationality, and either an income from immovable property of 6l. per annum, or the payment of rent to the amount of 6l. per annum for six calendar months before registration, or qualification to serve as a common juror. The Council of Government, unless sooner dissolved, lasts three years. The Governor is ex-officio President, but neither he, nor the Vice-President or other presiding member has either an original or a casting vote. A Vice-President was first appointed by Letters Patent, dated 6th February, 1893. The Governor, or the Vice-President, if present, may depute an official member to preside. There are no municipalities or other forms of local government, but a scheme is being worked out whereby an elected Legislature and Ministry responsible thereto will control purely local matters, while Imperial matters (defence, etc.,) will be reserved to the Governor, assisted by a Nominated Council.
+
+**Education and Religion.**
+
+Elementary education is carried on principally in Government schools, which are Roman Catholic and free. There are two secondary schools with 240 scholars, and 102 elementary schools (including 16 infant schools) with an average enrolment of 22,222 pupils, and an average attendance of 17,316. There is a public Lyceum with 807 scholars, and a university (founded in 1769) with an average attendance of about 221 students. At these two latter institutions the fees are comparatively low, ranging from 15s. to 50s. per annum in the Lyceum, and not exceeding 6l., exclusive of laboratory fees, per annum for all lectures in the University.
+
+There are numerous private, elementary and secondary schools. The total number of these schools is 63, with an approximate attendance of 4,580 pupils. Education is not compulsory. The Roman Catholic religion is universal amongst the Maltese.
+
+**Revenue.**
+
+The most important sources of revenue are the Customs duties, stamp duty, port dues, and land revenue.
+
+**Weights and Measures.**
+
+Malta barrel is equal to 9½ imperial gallons.
+
+,, salm ,, 1 quarter.
+
+,, cantar ,, 175 lbs. English.
+
+,, caffiso ,, 4½ imperial gallons.
+
+**Finances.**
+
+| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |
+|------|---------|-------------|----------------|--------------|
+| 1910-11 | 441,444 | 467,373     | 4,796,133      | 8,667,037    |
+| 1911-12 | 448,114 | 467,783     | 4,443,492      | 8,240,820    |
+| 1912-13 | 442,035 | 427,581     | 5,510,556      | 10,398,948   |
+| 1913-14 | 423,108 | 402,521     | 5,691,394      | 11,097,612   |
+| 1914-15 | 410,725 | 386,283     | 4,714,011      | 7,705,015    |
+| 1915-16 | 463,002 | 410,389     | 3,147,835      | 4,741,567    |
+| 1916-17 | 460,165 | 462,469     | 1,914,515      | 2,786,050    |
+| 1917-18 | 470,976 | 484,726     | 648,483        | 1,153,302    |
+| 1918-19 | 615,225 | 601,033     | 1,003,139      | 1,380,761    |
+| 1919-20 | 650,489 | 632,233     | 2,587,669      | 3,774,452    |
+
+**Population.**
+
+| Year | Males | Females | Total |
+|------|-------|---------|-------|
+| Census 1901 | 91,994 | 92,748 | 184,742 |
+| ,, 1911 | 105,601 | 105,963 | 211,564 |
+
+(Exclusive of British troops and their families.)
+
+The total population on 1st April, 1920, was estimated at 224,859.
+
+**Imports.**
+
+| Year | From U.K. Colonies | From Elsewhere | Total | Bullion Specie |
+|------|--------------------|----------------|-------|----------------|
+| 1918-19 | 1,071,263 | 834,352 | 954,305 | 2,963,920 |
+| 1919-20 | 2,292,909 | 864,405 | 1,304,411 | 4,261,745 |
+
+**Exports.**
+
+| Year | To U.K. Colonies | To Elsewhere | Total | Bullion Specie |
+|------|------------------|--------------|-------|----------------|
+| 1918-19 | 22,591 | 35,224 | 722,110 | 779,925 |
+| 1919-20 | 57,417 | 68,626 | 792,545 | 918,588 |
+
+Total weight of goods transhipped.
+
+| Year | Tons |
+|------|------|
+| 1918-19 | 17,548 |
+| 1919-20 | 10,594 |
+
+**Public Debt.**
+
+There is, strictly speaking, no public debt in Malta, but interest at 2½% is paid by the Government on 79,081l. invested in the Massa Frumentaria.
+
+**Governors since 1884.**
+
+1884 Field-Marshal Sir John Lintorn Arabin Simmons, G.C.B., G.C.M.G.
+
+1888 Lieut.-Gen. Sir H. D'O. Torrens, K.C.B., K.C.M.G.
+
+1890 Lieut.-Gen. Sir Henry Augustus Smyth, R.A., K.C.M.G.
+
+1893 Gen. Sir Arthur James Lyon Fremantle, G.C.M.G., C.B.
+
+1899 Lt.-Gen. Sir Francis W. Grenfell, G.C.M.G., G.C.B., now Lord Grenfell of Kilvey.
+1903 Gen. Sir Charles Mansfield Clarke, Bart., G.C.B., G.C.V.O.
+
+1907 Lieut.-Gen. Sir Henry Fane Grant, G.C.V.O., C.B.
+
+1909 Gen. Sir H. M. L. Rundle, G.C.B., G.C.V.O., G.C.M.G., D.S.O.
+
+1915 Field-Marshal Rt. Hon. Lord Methuen, G.C.B., G.C.V.O., C.M.G.
+
+1919 Field-Marshal Lord Plumer, G.C.B., G.C.M.G., G.C.V.O.
+
+Executive Council.
+
+Governor, Field-Marshal Lord Plumer, G.C.B., G.C.M.G., G.C.V.O.
+
+Lieut.-Governor and Chief Secretary to Government, W. C. F. Robertson, C.M.G.
+
+Crown Advocate, Prof. A. Mercieca, M.A., LL.D.
+
+Superintendent of Public Works, L. Gatt, C.M.G.
+
+Assistant Secretary to Government, Edgar Bonavia, C.M.G.
+
+Collector of Customs, Robert J. Briffa.
+
+Comptroller of Charitable Institutions, Leo Benjascar.
+
+Treasurer and Director of Contracts J. Huber.
+
+Chief Government Medical Officer, Attilio Critieni, M.B.E., M.A., M.D., D.P.H., D.T.M.
+
+Rector of the University, Prof. T. Zammit, C.M.G., M.D., D. Litt. (Oxon).
+
+Unofficial Members, 2 (vacant).
+
+Clerk of the Council, Edward R. Mifsud.
+
+Council of Government.
+
+President, Field-Marshal Lord Plumer, G.C.B., G.C.M.G., G.C.V.O.
+
+Vice-President, Sir M. A. Refalo, Kt., C.B.E., B.A., LL.D.
+
+Lieut.-Governor and Chief Secretary to Government, W. C. F. Robertson, C.M.G.
+
+Crown Advocate, Prof. A. Mercieca, M.A., LL.D.
+
+Superintendent of Public Works, L. Gatt, C.M.G.
+
+Assistant Secretary to Government, Edgar Bonavia, C.M.G.
+
+Collector of Customs, Robert J. Briffa.
+
+Comptroller of Charitable Institutions, Leo Benjascar.
+
+Treasurer and Director of Contracts, J. Huber.
+
+Chief Government Medical Officer, Attilio Critieni, M.B.E., M.A., M.D., D.P.H., D.T.M.
+
+Rector of the University, Prof. T. Zammit, C.M.G., M.D., D. Litt. (Oxon).
+
+Elected Members, 1st Electoral District, Andrea Pullicino, M.D.; 2nd, Giovanni Gabbaretta, Notary; 3rd, Antonio Dalli; 4th, G. Muscat Azzopardi, L.P.; 5th, Giovanni Bencini; 6th, Giuseppe Vassallo, Chemist; 7th, Giuseppe Zammit, L.P.; 8th, Eurico Mizzi, LL.D.
+
+Clerk of the Council, Edward R. Mifsud.
+
+Civil Establishments.
+
+Governor, Field-Marshal Lord Plumer, G.C.B., G.C.M.G., G.C.V.O.
+
+A.D.C., Major V. Micallef, R.M.A., 300l.
+
+Lieutenant-Governor's Office.
+
+Lieut.-Governor and Chief Secretary to Government, W. C. F. Robertson, C.M.G., 1,300l.*
+
+Assistant Secretary, E. Bonavia, C.M.G., 800l.
+
+* A duty allowance of 300l. is attached to the appointment.
+
+Deputy Assistant Secretary, Edward R. Mifsud, 520l.§
+
+Chief Clerk, Arthur Galea, 320l. to 360l.†
+
+Gozo.
+
+Assistant Secretary, W. C. Millard, 520l.
+
+Chief Clerk, G. Grech, 320l. to 360l.
+
+Crown Lawyers.
+
+Crown Advocate, Prof. A. Mercieca, M.A., LL.D., 700l.
+
+Assistant Crown Advocate, Major V. Frendo Azzopardi, K.O.M.R.M., LL.D., 540l.
+
+Advocate for the Poor, Ph. Pullicino, LL.D., 180l.
+
+Assistant Crown Advocate and Advocate for the Poor, Gozo, John J. Bellanti, LL.D., 180l.
+
+Legal Procurator and Clerk, E. Vella, L.P., 260l. to 290l.
+
+Audit Office.
+
+Auditor H. E. C. Merrick, 540l.
+
+Chief Examiner, A. Agius, 320l. to 360l.†
+
+Examiner of Accounts, Major J. V. Aspinall, 320l. to 360l.
+
+Public Instruction.
+
+Rector of the University, Professor T. Zammit, C.M.G., M.D., D. Litt. (Oxon.), 620l.‡
+
+Registrar and Secretary of the University, Edgar Staines, 180l. to 290l.
+
+Procurator of the University, V. Terribile, 103l. to 170l.
+
+Professors in the Malta University.
+
+Dogmatic Theology, Right Rev. Mons. Giovanni Formosa, B.A., D.D., J.U.D., 175l. to 270l.
+
+Moral Theology, Most Rev. Canon Mons. Carmelo Grima, 175l. to 270l.
+
+Canon Law, Most Rev. Canon Mons. Emmanuele Vassallo, J.C.D., 90l.
+
+Holy Scripture and Hebrew, Rev. Michele Gonzi, B. Litt., J.C.D., D.D., 90l.
+
+Civil Law, Giovanni Caruana, LL.D., 210l. to 270l.
+
+International Law and Constitutional Law, Enrico C. Vassallo, M.A., LL.D., 135l. to 235l.
+
+Commercial Law, Carlo Mallia, LL.D., 135l. to 210l.
+
+Criminal Law, Luigi A. Randon, B.A., LL.D., 135l. to 210l.
+
+History of Legislation, Augusto Bartolo, LL.D., 46l. 13s. 4d.
+
+Medicine, Carmelo Mifsud, M.D., 150l. to 220l.
+
+Surgery, Salvatore Cassar, M.D., 150l. to 220l.
+
+Anatomy and Histology, R. Busuttil, M.A., M.D., 150l. to 220l.
+
+Pathology and Bacteriology, Surg. Major Robert Samut, M.B., C.M. (Edin.), 135l. to 210l.
+
+Midwifery and Gynaecology, Giorgio Debono, M.D., 195l. to 290l.
+
+Hygiene and Preventive Medicine, Albert V. Bernard, M.B.E., M.D., D.P.H., 90l.
+
+Forensic Medicine, Gustavo Ullo Xuereb, M.D., 43l. 6s. 8d.
+
+Physiology, Surg. Major Robert Samut, M.B., C.M. (Edin.), 46l. 13s. 4d.
+
+Ophthalmology, Alfredo Vassallo, M.A., M.D., 46l. 13s. 4d.
+
+Mental Diseases, Gustavo Ullo Xuereb, M.D., 43l. 6s. 8d.
+
+§ Is also Clerk of the Councils.
+
+† A duty allowance of 50l. is attached to the appointment.
+
+‡ Receives also 50l. as Curator of the Museum.
+Engineering, Architecture and Mathematics, Robert V. Galea, L.S., and A., 145l. to 220l.
+Applied Mechanics and Descriptive Geometry, John L. Gatt, L.S. & A., 145l. to 220l.
+Mathematics and Practical Engineering, William F. Nixon, B. Sc., A.R.C. Sc., Wh., Exh., 200l. to 240l.
+English Literature, Eric Shepherd, 320l.
+Latin and Italian Literatures, Alfredo Bartoli, 260l. to 370l.
+Logic and Philosophy, Very Rev. Anastasio Cuschieri, O.C., 155l. to 235l.
+Physics, Thomas Agius, M.A., M.D., F.R., Met., S., 195l. to 260l.
+Chemistry, (vacant) 110l. to 190l.
+Natural History, Eric Shepherd, 90l.
+Materia Medica, Isidoro Cassar, M.D., 100l.
+Political Economy and Statistics, Alfredo Sultana, LL.D., 46l. 13s. 4d.
+
+Lyceum and Secondary Schools.
+Headmaster of the Lyceum, Cyril Leach, 450l.
+
+Elementary Schools.
+Director, A. V. Laferla, 490l. to 540l.
+Inspector, V. Busuttil, 320l.
+Inspectresses, C. Ferris and M. Busuttil, 220l. each.
+
+Public Library.
+Librarian, Prof. Enrico Magro, M.D.
+
+Customs and Port Department.
+Collector of Customs and Superintendent of Ports, R. J. Briffa, 620l.
+Assistant Collector, L. Pace, 320l. to 360l. *
+Chief Clerk, A. Camilleri, 320l. to 360l. *
+Financial Assistant, A. Tonna, 320l. to 360l.
+Customs Excise Surveyor G. Darmanin Demajo, L.P., 300l. to 350l.
+
+Treasury.
+Treasurer and Director of Contracts, J. Huber, 720l.
+Senior Assistant Treasurer and Manager of the Savings Bank, J. Turner, 450l.
+K.O.M.R.M., and G. Roncalli, 320l. to 360l. each. *
+Two Assistant Treasurers, Major A. Trapani.
+
+Charitable Institutions, including Monte di Pietà.
+Comptroller of Charitable Institutions and Officer in Charge of the Monte di Pietà, Leo Benjascar, 620l.
+Financial Assistant, G. Ferris, 320l. to 360l. *
+
+Hospitals, etc.
+Resident Medical Superintendent, Central Hospital, L. G. Bonello, M.D., 260l. to 320l.
+Visiting Physician, Central Hospital, C. Mitsud, M.D., 85l. to 135l.
+Visiting Surgeon, Central Hospital, S. Cassar, M.D., 85l. to 135l.
+Pathologist, Surg. Major Robert Samut, M.B., C.M., (Edin.), 85l. to 135l.
+Ophthalmic Surgeon, Alfredo Vassallo, M.D., M.A., 75l.
+Junior Visiting Physician A. Portelli Carbone, M.D., 67l.
+
+* A duty allowance of £50 is attached to the appointment.
+
+Junior Visiting Surgeons, P. P. Debono, D.P.H., M.D., E. Ferro, M.D., S. Ellul Grech, M.D., 70l. each.
+Resident Physician and Surgeon and Superintendent of Hospital of Santo Spirito, A. Cassar, M.D., 170l. to 240l.
+Resident Physician, Surgeon and Superintendent, Connaught Hospital, S. Muscat, M.D., 170l. to 240l.
+Superintendent of the Poor House and of the Leper Hospital, E. Micallef, M.D., 295l. to 355l.
+Assistant, M. S. Marguerat, M.D., 205l. to 270l.
+Visiting Physician and Surgeon, Lunatic Asylum, G. Ullo Xuereb, M.D., 90l. to 145l.
+Resident Medical Superintendent of Lunatic Asylum, R. Toledo, M.D., 260l. to 320l.
+Assistants, G. Attard, M.D., and L. Prendo, M.D., 170l. to 225l. each.
+Resident Superintendent of Orphan Asylum, G. Sammut, 150l. to 170l.
+Medical Officer in Charge of Hospital for Infectious Diseases, S. Portelli, M.D., 80l. *
+Superintendent of Hospital and Ospizio of Gozo, N. Tabone, M.D., 260l. to 320l.
+
+Monte di Pietà.
+(Under the control of the Comptroller of Charitable Institutions.)
+
+Public Health Department.
+Office.
+Chief Government Medical Officer and Superintendent, Attilio Critien, M.B.E., M.A., M.D., D.P.H., D.T.M., 620l.
+Chief Clerk, Col. C. B. Sciortino, 320l. to 360l.
+
+Statutory Branch.
+Medical Officers of Health, Malta, A. V. Bernard, M.B.E., D.P.H., M.D., 430l. to 470l.; Edw. Calleja, M.D., 360l. to 430l.
+Ditto, Gozo, A. Cremona, M.A., M.D., 250l. to 350l.
+Sanitary Engineer, C. Mallia, L.S.A., 240l. to 430l.
+Government Analyst, Alex. Sultana, M.D., 390l. to 430l.
+Assistant Ditto, F. Rizzo Mariich, M.D., and Victor Mipud, M.D., 320l. to 360l. each.
+
+Quarantine Branch.
+Quarantine Medical Officer, F. S. Ross, M.D., 380l.
+Assistant Quarantine Medical Officers, S. Portelli, M.D., 240l. §; and A. Briffa, 320l.
+
+District Medical Officers.
+Valletta, J. T. Rutter, M.D. †
+Ditto, V. Milanes, M.D. †
+Floriana, G. Camilleri, M.D. †
+Vittoriosa, A. R. Busuttil, M.D. †
+Senglea, F. Scolaro, B.A., M.D. †
+Cospicua, F. Jaccarini, M.D. †
+St. Julian's and St. Julian's, S. F. Darmanin, M.D. †
+Hamrun, etc., C. Calamatta, M.D. †
+Misida, T. Cauchi, †
+Tarxien, etc., W. Aguillnat, †
+Birchircara, H. Misud, M.D. †
+Curmi, G. C. Baldacchino, M.D. †
+Zabbar, A. Cremona, M.D. †
+
+* Receives 240l. as Quarantine Medical Officer.
+§ Besides 80l. as Medical Officer in charge of Hospital for Infectious Diseases.
+† Salary 100l. to 225l.
+Zeitun, etc., L. Debono, M.D. †
+Zebbug, C. Borg, M.D. ‡
+Sigieuiu, D. Galea, M.D. ‡
+Lia, etc., T. Castillo, M.D. †
+Musta, R. Mizzi, M.D. †
+Nazaro, etc., J. Zammit, M.D. †
+Notable, etc., V. Xerri, M.D. †
+Zurrico, etc., R. Milanese, M.D. ‡
+Melleha, G. Bonavia, M.D. ‡
+
+Veterinary Branch and Slaughterhouses.
+Veterinary Surgeon, Supt. A. M. MacFarlane, M.R.C.V.S., and F.E.V.M.A., 470l.
+Assistant ditto, Malta, T. Mercieca, M.R.C.V.S., F.E.V.M.A., Ed., 320l.
+Veterinary Surgeon, Gozo, John H. Bardon, 250l.
+
+Agriculture.
+Superintendent of Agriculture, J. Borg, M.A., M.D., 450l.
+
+Fisheries.
+Superintendent of Fisheries, G. Despott, 350l.
+
+Public Works Department.
+Superintendent, L. Gatt, C.M.G., C.E., 500l.
+Assistant Superintendent, H. Caruana, L.S.A., 470l.
+Financial Assistant, Col. A. Briffa, C.M.G., 320l. to 360l.
+
+Water Works and Electric Lighting Department.
+Office.
+Manager, J. A. Galizia, 430l. to 540l.
+
+Water Works Branch.
+First Class Surveyor and Engineer, C. Rizzo, L.S.A., 240l. to 430l.
+
+Electric Lighting Branch.
+Engineer, G. E. Muller, 430l.
+
+Railway Department.
+Manager and Engineer, N. Buhagiar, L.S.A., 400l. to 470l.
+
+Government Press.
+Superintendent, F. Mercieca, 320l. to 360l. *
+
+Post Office.
+Superintendent of Posts, John Fox, 540l. *
+Chief Clerk, H. Parlato, 320l. to 360l. *
+Chief Accountant (vacant).
+
+Public Registry.
+Director of Public Registry and Keeper of the Government and Notarial Archives, S. Cremona, Notary, 390l.
+Notary to Government, M. L. Casolani, Notary, 390l.
+Assistant Director of the Public Registry, L. Gauci, Notary, 190l.
+Assistant Keeper of Government Archives and of Notarial Acts, G. Portelli Carbone, LL.D., 175l.
+
+§ Receives 30l. Station Allowance.
+† Salary 100l. to 225l.
+‡ 170l.
+* A Duty Allowance of 50l. is attached to the Appointment.
+
+Judicial Establishment.
+Chief Justice of Malta and President of the Court of Appeal, Sir M. A. Refalo, Kt., C.B.E., B.A., LL.D., 1,000l.
+Judges, A. Parnis, O.B.E., LL.D., S. Micallef, LL.D., G. Agius, LL.D., G. Cremona, LL.D., L. Camilleri, LL.D., 700l. each.
+Registrar of the Superior Courts, Lapira Robert, 360l. to 450l.
+Assistant Registrar, J. Bajona, 320l. to 360l.
+Deputy Registrars, P. Lupi Grech, A. E. Camilleri, M. Ciantar, C. Bajona, L. Maempel, C. Micallef.
+Magistrates of Judicial Police for Malta, G. B. Mifsud, LL.D., A. Mercieca, LL.D., C. Mifsud, LL.D., R. F. Ganado, LL.D., and A. Montanaro, 470l. each.
+Registrar, T. Gauder, 820l. to 360l. *
+Magistrates of Judicial Police for Gozo, E. Bartoli, LL.D., and E. Micallef, LL.D., 360l. each.
+Registrar, Courts of Gozo, Giovanni Vassallo, 320l.
+
+Ecclesiastical.
+Archbishop of Rhodes, Bishop of Malta, Monsignor Dom Maurus Caruana, K.B.E., O.S.B.
+Bishop of Gozo, Monsignor Giovanni Camilleri, O.S.A.
+
+Police Department.
+Commissioner of Police, Lieut.-Col. H. W. M. Bamford, O.B.E., M.C., 500l.; and Inspector of Prisons, 150l.
+Deputy Commissioner, James Frendo Azopardi, M.V.O., 350l.
+
+Corradino Prison.
+Superintendent of Corradino Prison, 400l.
+
+Museum.
+Curator, Prof. T. Zammit, C.M.G., M.D., 80l.
+
+Foreign Consuls.
+Belgium, R. Smith.
+Bolivia, Edgar Moore.
+Brazil, J. Dunbar Vella, M.A., LL.D.
+Chili, C. Micallef Eynaud.
+Denmark, Wm. Gollicher.
+France, Pierre Louis Elio Garés.
+Greece, George Zivoglou.
+Guatemala, A. Tabone.
+Italy, Cav. Riccardo Monzani (Consul-General).
+Japan, Joseph Howard, O.B.E.
+Liberia, E. Lanzon.
+Montenegro, Gustaf Gollicher.
+Netherlands, Gustaf Gollicher.
+Norway, F. W. Patterson.
+Paraguay, L. Mazzone (Vice Consul).
+Persia, J. C. Camilleri.
+Peru, A. Cassar Torreggiani, O.B.E.
+Portugal, J. Dunbar Vella, M.A., LL.D.
+Romania, (vacant).
+Servia Croatia & Slovenia, John R. Agius.
+Siam, Stefano Micallef Eynaud.
+Sweden, Wm. Gollicher.
+United States of America, C. R. Loop.
+Uruguay, L. Mazzone (Vice Consul).
+Venezuela, Stefano Micallef Eynaud.
+
+* A Duty Allowance of 50l. is attached to the Appointment.

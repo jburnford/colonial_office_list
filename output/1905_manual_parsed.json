@@ -1,0 +1,833 @@
+{
+  "year": 1905,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1905/olmocr_results.md",
+  "total_colonies": 91,
+  "colonies": [
+    {
+      "colony_name": "THE COMMONWEALTH",
+      "year": 1905,
+      "start_line": 2639,
+      "end_line": 3449,
+      "char_count": 66863,
+      "line_count": 811,
+      "filename": "THE_COMMONWEALTH.md"
+    },
+    {
+      "colony_name": "NEW SOUTH WALES",
+      "year": 1905,
+      "start_line": 3451,
+      "end_line": 4830,
+      "char_count": 77799,
+      "line_count": 1380,
+      "filename": "NEW_SOUTH_WALES.md"
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "year": 1905,
+      "start_line": 4832,
+      "end_line": 5097,
+      "char_count": 29156,
+      "line_count": 266,
+      "filename": "QUEENSLAND.md"
+    },
+    {
+      "colony_name": "EXPORTS",
+      "year": 1905,
+      "start_line": 5099,
+      "end_line": 5485,
+      "char_count": 14277,
+      "line_count": 387,
+      "filename": "EXPORTS.md"
+    },
+    {
+      "colony_name": "SOUTH AUSTRALIA",
+      "year": 1905,
+      "start_line": 5487,
+      "end_line": 5741,
+      "char_count": 26211,
+      "line_count": 255,
+      "filename": "SOUTH_AUSTRALIA.md"
+    },
+    {
+      "colony_name": "THE PARLIAMENT",
+      "year": 1905,
+      "start_line": 5743,
+      "end_line": 6311,
+      "char_count": 20412,
+      "line_count": 569,
+      "filename": "THE_PARLIAMENT.md"
+    },
+    {
+      "colony_name": "TASMANIA",
+      "year": 1905,
+      "start_line": 6313,
+      "end_line": 6999,
+      "char_count": 37878,
+      "line_count": 687,
+      "filename": "TASMANIA.md"
+    },
+    {
+      "colony_name": "VICTORIA",
+      "year": 1905,
+      "start_line": 7000,
+      "end_line": 7266,
+      "char_count": 36820,
+      "line_count": 267,
+      "filename": "VICTORIA.md"
+    },
+    {
+      "colony_name": "PARLIAMENT OF VICTORIA",
+      "year": 1905,
+      "start_line": 7268,
+      "end_line": 8695,
+      "char_count": 104870,
+      "line_count": 1428,
+      "filename": "PARLIAMENT_OF_VICTORIA.md"
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "year": 1905,
+      "start_line": 8696,
+      "end_line": 8996,
+      "char_count": 19779,
+      "line_count": 301,
+      "filename": "BAHAMAS.md"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 1905,
+      "start_line": 8998,
+      "end_line": 9611,
+      "char_count": 35871,
+      "line_count": 614,
+      "filename": "BARBADOS.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1905,
+      "start_line": 9613,
+      "end_line": 9842,
+      "char_count": 18600,
+      "line_count": 230,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1905,
+      "start_line": 9843,
+      "end_line": 9977,
+      "char_count": 4653,
+      "line_count": 135,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BRITISH CENTRAL AFRICA PROTECTORATE",
+      "year": 1905,
+      "start_line": 9978,
+      "end_line": 10164,
+      "char_count": 15365,
+      "line_count": 187,
+      "filename": "BRITISH_CENTRAL_AFRICA_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1905,
+      "start_line": 10166,
+      "end_line": 10323,
+      "char_count": 24537,
+      "line_count": 158,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "SHIPPING ENTERED AND CLEARED",
+      "year": 1905,
+      "start_line": 10325,
+      "end_line": 10798,
+      "char_count": 22796,
+      "line_count": 474,
+      "filename": "SHIPPING_ENTERED_AND_CLEARED.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1905,
+      "start_line": 10799,
+      "end_line": 10925,
+      "char_count": 16022,
+      "line_count": 127,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1905,
+      "start_line": 10926,
+      "end_line": 11133,
+      "char_count": 7052,
+      "line_count": 208,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "THE DOMINION",
+      "year": 1905,
+      "start_line": 11135,
+      "end_line": 11506,
+      "char_count": 36645,
+      "line_count": 372,
+      "filename": "THE_DOMINION.md"
+    },
+    {
+      "colony_name": "THE CABINET",
+      "year": 1905,
+      "start_line": 11508,
+      "end_line": 11609,
+      "char_count": 3349,
+      "line_count": 102,
+      "filename": "THE_CABINET.md"
+    },
+    {
+      "colony_name": "THE SENATE OF CANADA",
+      "year": 1905,
+      "start_line": 11611,
+      "end_line": 11677,
+      "char_count": 2143,
+      "line_count": 67,
+      "filename": "THE_SENATE_OF_CANADA.md"
+    },
+    {
+      "colony_name": "PROVINCE OF ONTARIO",
+      "year": 1905,
+      "start_line": 11679,
+      "end_line": 12163,
+      "char_count": 7983,
+      "line_count": 485,
+      "filename": "PROVINCE_OF_ONTARIO.md"
+    },
+    {
+      "colony_name": "NORTH-WEST TERRITORIES",
+      "year": 1905,
+      "start_line": 12165,
+      "end_line": 12254,
+      "char_count": 3850,
+      "line_count": 90,
+      "filename": "NORTH_WEST_TERRITORIES.md"
+    },
+    {
+      "colony_name": "RAILWAYS AND CANALS",
+      "year": 1905,
+      "start_line": 12256,
+      "end_line": 12430,
+      "char_count": 8479,
+      "line_count": 175,
+      "filename": "RAILWAYS_AND_CANALS.md"
+    },
+    {
+      "colony_name": "ONTARIO AND QUEBEC (OLD CANADA)",
+      "year": 1905,
+      "start_line": 12432,
+      "end_line": 12534,
+      "char_count": 11241,
+      "line_count": 103,
+      "filename": "ONTARIO_AND_QUEBEC_OLD_CANADA.md"
+    },
+    {
+      "colony_name": "EXECUTIVE COUNCIL",
+      "year": 1905,
+      "start_line": 12536,
+      "end_line": 12831,
+      "char_count": 12760,
+      "line_count": 296,
+      "filename": "EXECUTIVE_COUNCIL.md"
+    },
+    {
+      "colony_name": "EXECUTIVE COUNCIL",
+      "year": 1905,
+      "start_line": 12833,
+      "end_line": 13034,
+      "char_count": 5974,
+      "line_count": 202,
+      "filename": "EXECUTIVE_COUNCIL.md"
+    },
+    {
+      "colony_name": "NOVA SCOTIA",
+      "year": 1905,
+      "start_line": 13036,
+      "end_line": 13270,
+      "char_count": 11343,
+      "line_count": 235,
+      "filename": "NOVA_SCOTIA.md"
+    },
+    {
+      "colony_name": "NEW BRUNSWICK",
+      "year": 1905,
+      "start_line": 13272,
+      "end_line": 13431,
+      "char_count": 7704,
+      "line_count": 160,
+      "filename": "NEW_BRUNSWICK.md"
+    },
+    {
+      "colony_name": "MANITOBA AND KEEWATIN",
+      "year": 1905,
+      "start_line": 13433,
+      "end_line": 13582,
+      "char_count": 9534,
+      "line_count": 150,
+      "filename": "MANITOBA_AND_KEEWATIN.md"
+    },
+    {
+      "colony_name": "BRITISH COLUMBIA",
+      "year": 1905,
+      "start_line": 13583,
+      "end_line": 13805,
+      "char_count": 11271,
+      "line_count": 223,
+      "filename": "BRITISH_COLUMBIA.md"
+    },
+    {
+      "colony_name": "PRINCE EDWARD ISLAND",
+      "year": 1905,
+      "start_line": 13806,
+      "end_line": 13916,
+      "char_count": 5052,
+      "line_count": 111,
+      "filename": "PRINCE_EDWARD_ISLAND.md"
+    },
+    {
+      "colony_name": "THE NORTH-WEST TERRITORIES",
+      "year": 1905,
+      "start_line": 13917,
+      "end_line": 14059,
+      "char_count": 11620,
+      "line_count": 143,
+      "filename": "THE_NORTH_WEST_TERRITORIES.md"
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "year": 1905,
+      "start_line": 14061,
+      "end_line": 14459,
+      "char_count": 37151,
+      "line_count": 399,
+      "filename": "CAPE_OF_GOOD_HOPE.md"
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "year": 1905,
+      "start_line": 14460,
+      "end_line": 16313,
+      "char_count": 96308,
+      "line_count": 1854,
+      "filename": "CAPE_OF_GOOD_HOPE.md"
+    },
+    {
+      "colony_name": "ADELAIDE",
+      "year": 1905,
+      "start_line": 16315,
+      "end_line": 16431,
+      "char_count": 3703,
+      "line_count": 117,
+      "filename": "ADELAIDE.md"
+    },
+    {
+      "colony_name": "DURBANVILLE",
+      "year": 1905,
+      "start_line": 16433,
+      "end_line": 16519,
+      "char_count": 2489,
+      "line_count": 87,
+      "filename": "DURBANVILLE.md"
+    },
+    {
+      "colony_name": "KEISKAMA HOEK",
+      "year": 1905,
+      "start_line": 16521,
+      "end_line": 16831,
+      "char_count": 10406,
+      "line_count": 311,
+      "filename": "KEISKAMA_HOEK.md"
+    },
+    {
+      "colony_name": "URBAN POLICE DISTRICT, CAPE TOWN",
+      "year": 1905,
+      "start_line": 16833,
+      "end_line": 17075,
+      "char_count": 10116,
+      "line_count": 243,
+      "filename": "URBAN_POLICE_DISTRICT_CAPE_TOWN.md"
+    },
+    {
+      "colony_name": "RAILWAYS",
+      "year": 1905,
+      "start_line": 17077,
+      "end_line": 17395,
+      "char_count": 12301,
+      "line_count": 319,
+      "filename": "RAILWAYS.md"
+    },
+    {
+      "colony_name": "CEYLON",
+      "year": 1905,
+      "start_line": 17397,
+      "end_line": 17632,
+      "char_count": 26794,
+      "line_count": 236,
+      "filename": "CEYLON.md"
+    },
+    {
+      "colony_name": "EXPORTS",
+      "year": 1905,
+      "start_line": 17634,
+      "end_line": 18211,
+      "char_count": 20570,
+      "line_count": 578,
+      "filename": "EXPORTS.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1905,
+      "start_line": 18213,
+      "end_line": 18842,
+      "char_count": 39865,
+      "line_count": 630,
+      "filename": "CYPRUS.md"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "year": 1905,
+      "start_line": 18844,
+      "end_line": 18967,
+      "char_count": 11690,
+      "line_count": 124,
+      "filename": "FALKLAND_ISLANDS.md"
+    },
+    {
+      "colony_name": "EXPORTS",
+      "year": 1905,
+      "start_line": 18969,
+      "end_line": 19031,
+      "char_count": 2650,
+      "line_count": 63,
+      "filename": "EXPORTS.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1905,
+      "start_line": 19033,
+      "end_line": 19206,
+      "char_count": 18867,
+      "line_count": 174,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1905,
+      "start_line": 19207,
+      "end_line": 19277,
+      "char_count": 4592,
+      "line_count": 71,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1905,
+      "start_line": 19278,
+      "end_line": 19859,
+      "char_count": 28437,
+      "line_count": 582,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1905,
+      "start_line": 19861,
+      "end_line": 20077,
+      "char_count": 13309,
+      "line_count": 217,
+      "filename": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "THE GOLD COAST COLONY",
+      "year": 1905,
+      "start_line": 20079,
+      "end_line": 20145,
+      "char_count": 15631,
+      "line_count": 67,
+      "filename": "THE_GOLD_COAST_COLONY.md"
+    },
+    {
+      "colony_name": "MAIL AND STEAMSHIP SERVICES",
+      "year": 1905,
+      "start_line": 20147,
+      "end_line": 20313,
+      "char_count": 29156,
+      "line_count": 167,
+      "filename": "MAIL_AND_STEAMSHIP_SERVICES.md"
+    },
+    {
+      "colony_name": "THE NORTHERN TERRITORIES",
+      "year": 1905,
+      "start_line": 20315,
+      "end_line": 21194,
+      "char_count": 56518,
+      "line_count": 880,
+      "filename": "THE_NORTHERN_TERRITORIES.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1905,
+      "start_line": 21196,
+      "end_line": 21400,
+      "char_count": 22189,
+      "line_count": 205,
+      "filename": "JAMAICA.md"
+    },
+    {
+      "colony_name": "LEGISLATIVE COUNCIL",
+      "year": 1905,
+      "start_line": 21402,
+      "end_line": 21989,
+      "char_count": 27184,
+      "line_count": 588,
+      "filename": "LEGISLATIVE_COUNCIL.md"
+    },
+    {
+      "colony_name": "LABUAN",
+      "year": 1905,
+      "start_line": 21990,
+      "end_line": 22714,
+      "char_count": 38785,
+      "line_count": 725,
+      "filename": "LABUAN.md"
+    },
+    {
+      "colony_name": "THE LEEWARD ISLANDS",
+      "year": 1905,
+      "start_line": 22715,
+      "end_line": 22897,
+      "char_count": 13874,
+      "line_count": 183,
+      "filename": "THE_LEEWARD_ISLANDS.md"
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "year": 1905,
+      "start_line": 22899,
+      "end_line": 23203,
+      "char_count": 21641,
+      "line_count": 305,
+      "filename": "ANTIGUA.md"
+    },
+    {
+      "colony_name": "EXPORTS",
+      "year": 1905,
+      "start_line": 23205,
+      "end_line": 23408,
+      "char_count": 7492,
+      "line_count": 204,
+      "filename": "EXPORTS.md"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1905,
+      "start_line": 23410,
+      "end_line": 23659,
+      "char_count": 14983,
+      "line_count": 250,
+      "filename": "DOMINICA.md"
+    },
+    {
+      "colony_name": "MONTSERRAT",
+      "year": 1905,
+      "start_line": 23661,
+      "end_line": 23833,
+      "char_count": 9688,
+      "line_count": 173,
+      "filename": "MONTSERRAT.md"
+    },
+    {
+      "colony_name": "VIRGIN ISLANDS",
+      "year": 1905,
+      "start_line": 23835,
+      "end_line": 23981,
+      "char_count": 7352,
+      "line_count": 147,
+      "filename": "VIRGIN_ISLANDS.md"
+    },
+    {
+      "colony_name": "MALTA",
+      "year": 1905,
+      "start_line": 23983,
+      "end_line": 24581,
+      "char_count": 31571,
+      "line_count": 599,
+      "filename": "MALTA.md"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 1905,
+      "start_line": 24582,
+      "end_line": 24951,
+      "char_count": 30733,
+      "line_count": 370,
+      "filename": "MAURITIUS.md"
+    },
+    {
+      "colony_name": "COUNCIL OF GOVERNMENT",
+      "year": 1905,
+      "start_line": 24953,
+      "end_line": 25255,
+      "char_count": 12136,
+      "line_count": 303,
+      "filename": "COUNCIL_OF_GOVERNMENT.md"
+    },
+    {
+      "colony_name": "ROYAL ALFRED OBSERVATORY",
+      "year": 1905,
+      "start_line": 25257,
+      "end_line": 25471,
+      "char_count": 10209,
+      "line_count": 215,
+      "filename": "ROYAL_ALFRED_OBSERVATORY.md"
+    },
+    {
+      "colony_name": "NATAL",
+      "year": 1905,
+      "start_line": 25473,
+      "end_line": 25608,
+      "char_count": 22409,
+      "line_count": 136,
+      "filename": "NATAL.md"
+    },
+    {
+      "colony_name": "DURBAN",
+      "year": 1905,
+      "start_line": 25610,
+      "end_line": 26235,
+      "char_count": 31133,
+      "line_count": 626,
+      "filename": "DURBAN.md"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "year": 1905,
+      "start_line": 26236,
+      "end_line": 26661,
+      "char_count": 25969,
+      "line_count": 426,
+      "filename": "NEWFOUNDLAND.md"
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "year": 1905,
+      "start_line": 26663,
+      "end_line": 26981,
+      "char_count": 39211,
+      "line_count": 319,
+      "filename": "NEW_ZEALAND.md"
+    },
+    {
+      "colony_name": "PUKAPUKA, OR DANGER ISLAND, AND NASSAU",
+      "year": 1905,
+      "start_line": 26983,
+      "end_line": 27508,
+      "char_count": 24471,
+      "line_count": 526,
+      "filename": "PUKAPUKA_OR_DANGER_ISLAND_AND_NASSAU.md"
+    },
+    {
+      "colony_name": "HEADQUARTERS STAFF",
+      "year": 1905,
+      "start_line": 27510,
+      "end_line": 27657,
+      "char_count": 7078,
+      "line_count": 148,
+      "filename": "HEADQUARTERS_STAFF.md"
+    },
+    {
+      "colony_name": "NORTHERN NIGERIA",
+      "year": 1905,
+      "start_line": 27658,
+      "end_line": 27836,
+      "char_count": 29579,
+      "line_count": 179,
+      "filename": "NORTHERN_NIGERIA.md"
+    },
+    {
+      "colony_name": "ORANGE RIVER COLONY",
+      "year": 1905,
+      "start_line": 27838,
+      "end_line": 28644,
+      "char_count": 47696,
+      "line_count": 807,
+      "filename": "ORANGE_RIVER_COLONY.md"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 1905,
+      "start_line": 28646,
+      "end_line": 28983,
+      "char_count": 20061,
+      "line_count": 338,
+      "filename": "SEYCHELLES.md"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1905,
+      "start_line": 28984,
+      "end_line": 29427,
+      "char_count": 33115,
+      "line_count": 444,
+      "filename": "SIERRA_LEONE.md"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "year": 1905,
+      "start_line": 29429,
+      "end_line": 29562,
+      "char_count": 14856,
+      "line_count": 134,
+      "filename": "BASUTOLAND.md"
+    },
+    {
+      "colony_name": "BECHUANALAND PROTECTORATE",
+      "year": 1905,
+      "start_line": 29564,
+      "end_line": 30061,
+      "char_count": 45447,
+      "line_count": 498,
+      "filename": "BECHUANALAND_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "SOUTHERN NIGERIA",
+      "year": 1905,
+      "start_line": 30062,
+      "end_line": 30837,
+      "char_count": 67719,
+      "line_count": 776,
+      "filename": "SOUTHERN_NIGERIA.md"
+    },
+    {
+      "colony_name": "SINGAPORE",
+      "year": 1905,
+      "start_line": 30839,
+      "end_line": 31062,
+      "char_count": 11177,
+      "line_count": 224,
+      "filename": "SINGAPORE.md"
+    },
+    {
+      "colony_name": "THE FEDERATED STATES OF THE MALAY PENINSULA",
+      "year": 1905,
+      "start_line": 31064,
+      "end_line": 31381,
+      "char_count": 20447,
+      "line_count": 318,
+      "filename": "THE_FEDERATED_STATES_OF_THE_MALAY_PENINSULA.md"
+    },
+    {
+      "colony_name": "SELANGOR",
+      "year": 1905,
+      "start_line": 31383,
+      "end_line": 31713,
+      "char_count": 36231,
+      "line_count": 331,
+      "filename": "SELANGOR.md"
+    },
+    {
+      "colony_name": "LOUIS BOTHA",
+      "year": 1905,
+      "start_line": 31714,
+      "end_line": 32349,
+      "char_count": 33090,
+      "line_count": 636,
+      "filename": "LOUIS_BOTHA.md"
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "year": 1905,
+      "start_line": 32351,
+      "end_line": 32773,
+      "char_count": 31280,
+      "line_count": 423,
+      "filename": "TRINIDAD.md"
+    },
+    {
+      "colony_name": "TRINIDAD AND TOBAGO",
+      "year": 1905,
+      "start_line": 32774,
+      "end_line": 33043,
+      "char_count": 12451,
+      "line_count": 270,
+      "filename": "TRINIDAD_AND_TOBAGO.md"
+    },
+    {
+      "colony_name": "TRINIDAD AND TOBAGO",
+      "year": 1905,
+      "start_line": 33044,
+      "end_line": 33445,
+      "char_count": 11483,
+      "line_count": 402,
+      "filename": "TRINIDAD_AND_TOBAGO.md"
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "year": 1905,
+      "start_line": 33447,
+      "end_line": 33591,
+      "char_count": 8829,
+      "line_count": 145,
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md"
+    },
+    {
+      "colony_name": "WEIHAIWEI",
+      "year": 1905,
+      "start_line": 33592,
+      "end_line": 33755,
+      "char_count": 22692,
+      "line_count": 164,
+      "filename": "WEIHAIWEI.md"
+    },
+    {
+      "colony_name": "THE WINDWARD ISLANDS",
+      "year": 1905,
+      "start_line": 33756,
+      "end_line": 33834,
+      "char_count": 5409,
+      "line_count": 79,
+      "filename": "THE_WINDWARD_ISLANDS.md"
+    },
+    {
+      "colony_name": "GRENADA",
+      "year": 1905,
+      "start_line": 33835,
+      "end_line": 34568,
+      "char_count": 51174,
+      "line_count": 734,
+      "filename": "GRENADA.md"
+    },
+    {
+      "colony_name": "EXPORTS",
+      "year": 1905,
+      "start_line": 34570,
+      "end_line": 34717,
+      "char_count": 4904,
+      "line_count": 148,
+      "filename": "EXPORTS.md"
+    },
+    {
+      "colony_name": "APPENDIX TO PART II",
+      "year": 1905,
+      "start_line": 34718,
+      "end_line": 34717,
+      "char_count": 0,
+      "line_count": 0,
+      "filename": "APPENDIX_TO_PART_II.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Python automated batch parser v3",
+    "date": "2025-11-12",
+    "method": "Structural boundary detection with content size filtering",
+    "colony_section_start": 2637,
+    "colony_section_end": 34718
+  }
+}

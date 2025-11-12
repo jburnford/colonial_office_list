@@ -1,0 +1,2263 @@
+CEYLON.
+
+Situation and Area.
+
+Ceylon, the ancient Taprobane, is an island in the Indian Ocean, off the southern extremity of Hindustan, lying between 6° 55' and 9° 50' N. lat. and 79° 42' and 81° 53' E. long.; its extreme length from north to south, i.e., from Point Palmyra to Dondra Head, is 270 miles; its greatest width 140 miles, from Colombo on the west coast to Sangamananda on the east. Its area is 25,332 square miles, or about equal to Holland and Belgium.
+
+The Maldivian Archipelago, 400 miles south-west of Ceylon, made up of 18 groups—known as atolls—or islets, but for centuries past arranged for administrative purposes in 13 groups, which are sparsely inhabited by a mixed race of probably Aryan original stock, speaking a dialect akin to Elu, or old Sinhalese, is tributary to Ceylon, to which the Sultan sends an embassy annually. The inhabitants of the Archipelago have for nearly eight centuries professed the Mohammedan religion. The islands are covered with coconut palms and yield millet, fruit, and coconut produce. Communication is mainly by native craft with India and Ceylon. The population enumerated at the census 1921 was 70,413, including 137 Indian Borahs, 22 Malabars, and 68 Ceylon Moors who were at Male Island for purposes of trade; the principal occupations are fishing (14,760 males), coir and lace making (10,796 females and 13 males), toddy drawing (1,273 males), carpentry (1,133 males), and cultivation (853 males and 572 females). Male, the residence of the Sultan and the capital of the Islands, is a little over 3 miles in circumference.
+
+The Laccadive Islands are under the administration of the Government of India.
+
+Climate.
+
+The climate of Ceylon for a tropical country is comparatively healthy; the heat in the plains, which is nearly the same throughout the year, being much less oppressive than in India.
+
+Along the coast the annual mean temperature is about 80° F., and a noteworthy feature is the smallness of the variation both between day and night in the same twenty-four hours, and between the different parts of the year. At Kandy, 1,654 feet above sea level, the mean temperature is 76° F., and the rule of 1° F. drop in temperature for each 300 feet rise in altitude holds fairly well throughout the island.
+
+At Colombo and Galle the mean monthly temperature in the coldest months (December and January) is less than four degrees below those in the warmest months (April and May), while the mean daily ranges for the year are 12.3° and 7.4° respectively.
+
+At Trincomalee, on the other side of the island, conditions are only slightly more varied. The mean monthly temperature in May (86° F.) is seven degrees above that in December (79° F.), while the mean daily range for the year is 13.7° F.
+
+It must be remembered, however, that the change in the capacity of the air for moisture for each degree of change of temperature in the Ceylon low country is far greater than the corresponding change per degree at the mean temperature of London.
+
+The highest temperatures are experienced in the district to the north of the hills, and to the north-east, but it is only in a very few days in the year that a temperature of 100° Fahr. or over is experienced. Trincomalee holds the record with 103.7° Fahr. In the hills there is of course a great variety of climate, and at Nuwara Eliya, over 6,000 feet above mean sea level, frost is occasionally recorded in the early part of the year.
+
+The annual average rainfall varies from below 40 inches in the dry zones to the north-west and south-east of the Island to above 150 inches at certain places on the south-west slopes of the hills. The chief rainy seasons extend from April to June and from October to January, but as there is a sharp antithesis between the windward and lee side during both monsoons (particularly the S.W.), it is hard to summarise the island as a whole in one sentence. It may fairly be said that there is not a month without some rain, and the result is the luxuriant vegetation for which the island is famous.
+
+History.
+
+The authentic history of the island begins at the sixth century B.C., when an Aryan invasion from the north of India established the Sinhalese dynasty. Buddhism was introduced in the third century B.C., and from that time this faith has been preserved in comparative purity. The island abounds
+in interesting relics of antiquity, and in rock inscriptions, which, with the written annals left by the Sinhalese kings, are of peculiar value in revising Indian chronology.
+
+In the sixteenth century the Portuguese formed settlements on the west and south of the island; in the next century they were dispossessed by the Dutch. In 1796 the British took possession of the Dutch settlements in the island, which were then annexed to the Presidency of Madras, but five years later, in 1802, Ceylon was constituted a separate Colony. In 1815 war was declared against the Sinhalese Government of the interior; the last Kandyan King was taken prisoner, and the whole island came under the rule of the British.
+
+**Constitution.**
+
+The Government is administered by a Governor, aided by a State Council consisting of 148 members elected for territorial constituencies, 3 ex-officio members (the Chief Secretary, Legal Secretary, and Financial Secretary) called Officers of State, and 8 members nominated by the Governor. The State Council concerns itself with administration as well as with legislation.
+
+The Departments of Government are divided into ten groups. Three of these groups are in charge of the Chief Secretary, the Legal Secretary, and the Financial Secretary. The remaining seven groups are in charge of Members of the State Council who are elected as Chairmen of the various Executive Committees, and who are styled Ministers. The Ministers with the Officers of State form the Board of Ministers.
+
+All Ceylonese, both male and female, of a minimum age of 21, are included in the franchise. British subjects not domiciled in Ceylon are allowed to qualify for the franchise in accordance with the hitherto existing Constitution, or on their furnishing satisfactory evidence of five years' residence and a declaration of permanent settlement in the Island.
+
+**Population, Area, and Statistics.**
+
+According to the decennial census taken in 1921 the population was 5,312,548 an increase of 17-94 per cent. on the population enumerated in 1921. The details of the population were as follows (including the military, shipping, estates, and miscellaneous):
+
+| Province                        | Population |
+|---------------------------------|------------|
+| Western Province                | 1,448,648  |
+| Central ditto                   | 953,395    |
+| Southern ditto                  | 771,283    |
+| Northern ditto                  | 399,094    |
+| Eastern ditto                   | 213,980    |
+| North-Western Province          | 546,988    |
+| North-Central ditto             | 97,365     |
+| Province of Uva                 | 303,419    |
+| Provinces of Sabaragamuwa      | 578,368    |
+| Miscellaneous                    | 8          |
+| **Total**                       | **5,312,548** |
+
+The population of the principal towns, exclusive of the Military and the Shipping, was as follows:
+
+- Colombo, 284,155; Dehiwala-Mount Lavinia, 34,288; Negombo, 28,291; Moratuwa, 32,409; Kalutara, 14,280; Kandy, 37,147; Jaffna, 45,708; Galle, 38,424; Matara, 18,893; Batticaloa, 11,586; Trincomalee, 10,160; Kurunegala, 10,467; Badulla, 9,849.
+
+The number of Indian coolies on the tea estates, etc., was about 700,000. They are under no indentures, and are free to quit on giving a month's notice.
+
+The entire area of the Island is 25,332 square miles. About one quarter of this area, after deducting backwaters, etc., is under cultivation. Some 4,000 square miles in the centre form the mountain zone with an altitude of from 1,500 to 8,282 feet above sea level. The approximate acreages under the most important products are:
+
+| Product       | Acres   |
+|---------------|---------|
+| Coconuts      | 1,100,000|
+| Rice          | 800,000  |
+| Tea           | 457,000  |
+| Grain (other than Rice) | 105,000 |
+| Rubber        | 534,000  |
+| Cinnamon      | 26,000   |
+| Cacao         | 34,000   |
+| Tobacco       | 14,000   |
+
+At the end of 1930, the number of plumbago mines reported to be working was 52. The amount of plumbago exported during the year was 174,478 cwts., valued at rupees 1,775,317.
+
+The minimum upset price of Crown land is rupees 16 to 20 per acre. 12,818 acres were granted and sold by the Revenue officers in 1930.
+
+The revenue is principally derived from Customs Duties, Land Sales, Licences (under which head is entered the amount realised by the sale of Arrack and Toddy Rents), Salt (which is a Government monopoly), Stamps, and Railway Receipts. The revenue from the sale of salt for the financial year 1929-30 was rupees 1,961,875. This is local salt worked by the Government, but the importation of foreign salt is allowed on an import duty of rupees 4 per cwt.
+
+The local revenues raised by the Municipalities of Colombo, Kandy and Galle, by the Provincial and District Road Committees, by the Local Boards of Health and Improvement and Urban District Councils which have been established in the towns of Kalutara, Panadure, Negombo, Minuwangoda, Dehiwala-Mount Lavinia, Campbella, Nuwara Eliya, Matale, Nawalapitiya, Hatton-Dickoya, Matara, Batticaloa, Trincomalee, Kurunegala, Puttalam, Chilaw, Anuradapura, Badulla, Bandarawela, Ratnapura, Kegalla, Moratuwa, and Jaffna, and by Village Committees amounted in 1930 to rupees 14,557,207-37. The revenue collected by the Sanitary Boards amounted to rupees 1,014,493-34.
+
+The municipal debt outstanding on 31st Dec., 1930, was rupees 13,524,672-10. Of this amount rupees 9,833,662-10 is the balance of the loan borrowed from the Government for the Colombo Drainage Works, and rupees 2,664,204-83 for Water Works. Rupees 426,621-85 is the balance of loans obtained by the municipality of Galle for the construction of waterworks, sanitary improvements and electric lighting, and rupees 600,383-32 is the balance of the loans due from the municipality of Kandy for water-works, drainage, housing and electric lighting.
+
+The development of the tea industry is shown by the following statistics:—Export, 1884, 2,382,963 lbs.; 1900, 149,284,602 lbs.; 1930, 243,107,474 lbs.
+
+There has been a remarkable development in rubber cultivation in recent years. Rubber was first brought to Ceylon in 1876, and its growth proved successful. In 1898, 750 acres were estimated to be planted with rubber, in 1906, 100,000 acres, and in 1930 about 534,000 acres.
+
+† By "Miscellaneous" are meant persons enumerated in the Great and Little Passes.
+
+* Out of the 50 electoral districts no candidates for election came forward in 1931 for the four in the Revenue District of Jaffna.
+The value of the products of the coconut palm exported in 1930 was Rs. 46,779,594. During the past few years greater attention has been given to the cultivation of coconuts, and large areas of land formerly occupied with cinnamon are now planted in this crop. The value of cacao exported in 1930 was Rs. 2,936,789 and of cinnamon Rs. 1,779,983.
+
+The chief imports are rice from British India (including Burma), valued at Rs. 70,819,724, and from other countries valued at Rs. 4,744,978, and coal and textiles chiefly from the United Kingdom.
+
+Law and Justice.
+
+The basis of the law is the Roman-Dutch law, much modified by the introduction of English law and by Colonial ordinances. Kandyan law and Muslim law also prevail among Kandyans and Muslims respectively. The criminal law has been codified on the model of the Indian Penal Code, and the codification of the law of Criminal and Civil procedure respectively has been completed.
+
+Justice is administered by the Supreme Court, which has an original criminal jurisdiction and decides appeals from the inferior Courts both in civil and criminal cases; by the Police Courts and Courts of Requests, which dispose, respectively, of minor criminal and civil suits; and by the District Courts, which have a criminal jurisdiction intermediate between that of the Supreme Court and the Police Courts, and a civil jurisdiction in all cases. In addition to these there are the Ganabuwais, Village Councils, and Village Tribunals, instituted under the Ordinance No. 9 of 1924, with powers to deal with petty offences and trifling claims. They have worked well and are thoroughly adapted to the genius of the people. Besides settling a considerable amount of litigation, they have provided a valuable machinery for carrying out local improvements. They are empowered to make rules, subject to the approval of the Governor in Council, relating to their village economy, and it is noticeable that in many instances they have not only voluntarily provided school buildings and undertaken the cost of the current expenses and repairs, but have made elementary education compulsory.
+
+Education.
+
+Satisfactory progress is being made in education. The number of scholars in Government schools at the end of 1930 was 220,431, in assisted schools 321,176, and in unaided schools 30,638.
+
+The total expenditure on account of the Education Department in 1930-30 was Rs. 12,050,689-40. In 1868, the number of scholars was only 6,897, and the expenditure Rs. 161,660. The improvement is due to the institution of a Department of Education and the adoption of a system under which the educational wants of the Island are met partly by Government, partly by schools receiving grants in aid from Government. The Government schools are all unsectarian, and no fee is charged for vernacular education; fees are charged for English teaching.
+
+The only Secondary School entirely supported by Government is the Royal College, but there are numerous and excellent Grant-in-aid Secondary Schools. Seven Government scholarships, each of 300L per annum, five for two years and two for three years, with outfit allowances of Rs. 760 each and free passages, are awarded annually, on the results of the B.A. and B.Sc. Examinations of the University of London, to enable the best seven students of the year to complete their education at English universities.
+
+Industrial education is provided in 76 Government and Grant-in-aid Schools and in a number of Orphanages. A central Technical College was founded in Colombo in 1933; its title has since been changed to "Government Technical Schools."
+
+A University College opened in Colombo in 1921, offers instruction in the following subjects:—English Language and Literature, Classics and Philosophy, Modern History and Economics, Physics, Chemistry, Mathematics, Sanskrit and Pali, Tamil, Sinhalese, Modern Languages, Botany, Zoology, Geography. Students are presented for the External Examinations, Pass and Honours, of the University of London.
+
+A Government Training College for Masters and Mistresses in English Schools and Government Vernacular Schools was opened in 1903.
+
+Medical Institutions.
+
+Medical College.—The Ceylon Medical College was founded in 1870 to provide a course of Medical training for the Ceylonese. The curriculum is a full five years' course, and since 1887 the Licence of the College has been recognised by the General Medical Council as a registrable Colonial qualification. The courses of instruction and examinations are also recognised by many of the British Examining Boards. The licence has been conferred upon 488 candidates since the College was opened; of recent years about 18 qualify annually.
+
+There is a Junior or Apothecary Department in which students go through a two years' course, and after passing the prescribed examinations are qualified to serve as Apothecaries and Estate Dispensers.
+
+The College has a staff of over 30 lecturers and is managed by a Council incorporated by law.
+
+There are at present about 200 students.
+
+Owing to changes introduced by the Medical Council of Great Britain, the preliminary subjects, Physics, Chemistry and Biology, are now pre-medical subjects, and arrangements have been made for these to be studied at the University College. Students must pass an examination in these subjects before they can be admitted to the Medical College for their purely medical studies.
+
+The Medical College fees amounted to Rs. 60,343-60 in 1930-31.
+
+There are 93 Government general hospitals providing 7,603 beds, with varying accommodation from 8 beds in smaller outstations to 912 beds in the General Hospital, Colombo.
+
+There are in addition a number of special hospitals, viz., a lying-in-home with 83 beds, an eye hospital (with 56 beds) with an ear, nose and throat clinic attached, a women's hospital with 45 beds, a children's hospital with 82 beds, a women's venereal hospital with 29 beds, a police hospital with 32 beds, a tuberculosis hospital for chronic cases with 349 beds, a tuberculosis sanatorium with 72 beds, an infectious diseases hospital with 168 beds, a lunatic asylum and House of Observation with 1,830 beds, a prison hospital, Colombo, with 192 beds, and 8 other prison hospitals providing 149 beds, two leper asylums, one with 508 beds at Hendala (near Colombo), and the other with 176 beds at Mantivu, Eastern Province.
+
+Eighty-eight estate hospitals and 715 estate dispensaries are maintained by proprietors of estates.
+
+There were 595 Government dispensaries in different parts of the Island in 1930, and 3,810,010 patients who paid 5,815,126 visits were treated at these dispensaries.
+
+There are a bacteriological, a pasteur, a dental, and an anti-tuberculosis Institute, and a vaccine establishment. A division of sanitary engineering...
+and a division of health education are recent developments. Campaigns are carried on against malaria, ankylostomiasis and parangi. Estate sanitation is looked after by six inspecting medical officers. Seven health units have been established since 1926 and health work on intensive lines is carried on at those centres. School hygiene work is carried out throughout the Island by five school medical officers.
+
+In the Department of Medical and Sanitary Services are 321 medical officers, of whom 200 possess British qualifications, 29 medical officers of health, 384 apothecaries, and 254 sanitary inspectors. There are three institutions where nurses are trained. The nursing staff of the Department consists of 39 European qualified matrons and sisters, 116 European Roman Catholic mothers and sisters, 398 matrons and nurses trained locally, and pupils in training.
+
+The cost of working the department amounted in 1929-30 to Rs. 10,683,279-01. The receipts, which included the cost of maintenance of paying patients, sale of medicines, etc., amounted to Rs. 848,412-36 for 1929-30. The expenditure on account of estate medical aid was Rs. 1,236,111-27 for 1929-30. The export duty levied for the purpose of meeting the expense of providing Medical aid to estates under the Medical Wards Ordinance No. 9 of 1912 amounted to Rs. 1,715,756-19 for 1929-30.
+
+Currency and Banking.
+
+The weights and measures in common use are British.
+
+Accounts are kept in rupees, and the money in circulation is Indian and Ceylon rupee currency, sovereigns having ceased to be legal tender in the Colony in 1920. Ceylon cents take the place of the Indian annas and piee. The notes of the Chartered Mercantile Bank remained in circulation to some extent until 1888, when its charter expired, but since the failure of the Oriental Banking Corporation in 1884, the Government has instituted a note-issue of which the amount in circulation on the 31st December, 1930, was Rs. 57,209,324. These notes are legal tender except at the Colombo Issue Office.
+
+The following banks have establishments in the Colony: Mercantile Bank of India, Limited; Chartered Bank of India, Australia, and China; Hong Kong and Shanghai Banking Corporation; Imperial Bank of India; National Bank of India, Limited; Eastern Bank, Limited; P. & O. Banking Corporation, Ltd. None of these issues notes in Ceylon.
+
+The Ceylon Savings Bank was established in 1832, and Post Office savings banks were opened in 1885. On 31st December, 1930, the deposits were: Ceylon Savings Bank, Rs. 7,872,555; Post Office Savings Bank, Rs. 12,262,136.
+
+The Colombo Harbour.
+
+The Colombo Port Commission was established in 1913 to administer the affairs of the Port of Colombo. The Commission is responsible for the efficient working of the Port, and has powers of executive action and initiative. It is composed of seven official members, seven unofficial members, and a secretary. The official members are the Principal Collector of Customs (Chairman), the Director of Medical and Sanitary Services, the General Manager of the Railway, the Chairman, Municipal Council, and Mayor of Colombo, the Deputy Collector of Customs, Colombo, the Master Attendant, Colombo and Galle, and the Harbour Engineer. Six of the unofficial members are nominated by the Ceylon Chamber of Commerce, and the seventh (representative of the Ceylonese and Indian interests of the Port) by the Governor.
+
+The Harbour Works consist of three breakwaters. The South-West, completed in 1895 at a cost of Rs. 688,409, is 4,212 feet long, and runs from the shore in a direction North by East. It is built of concrete blocks weighing from 18 to 30 tons, set in what is known as the sloping bond system.
+
+The North-East and North-West breakwaters were completed in 1906, at a total cost of Rs. 531,637. The North-East breakwater is a rubble embankment 1,100 feet long, tipped from a staging.
+
+The North-West breakwater is an island work, 2,670 feet in length, running between the two shore breakwaters, leaving a western entrance of 750 feet, and a northern entrance of 700 feet. This breakwater is of similar construction to the South-West arm.
+
+These three breakwaters enclose an area of 643 acres, or one square mile.
+
+An extension of the S.W. breakwater, starting from a point 3,160 feet from the shore end, was commenced in December, 1907, and completed in April, 1912. The arm is 1,800 feet long, and runs in a direction almost due north, protecting the present main entrance from the S.W. Monsoon seas. The cost of this additional arm was Rs. 338,931.
+
+The Graving Dock. A Graving Dock was completed in 1906. It is 723 feet long, 85 feet wide at the entrance, and has a depth over the sill of 30 feet at low water. Its cost was Rs. 465,756. There is also a guide pier, 800 feet long, to assist vessels entering the dock. The dock has its own electric light installation. The docking of ships can be carried out by day or night.
+
+The Patent Slip was opened in 1903, the cost being Rs. 42,300. It is 800 feet long, the cradle being 220 feet, and is capable of dealing with vessels up to 1,200 tons dead weight.
+
+Oil Facilities. The Oil Installations Depot, which is about 92 acres in extent, lies 3½ miles inland from the harbour front. The Oil Companies' storage tanks are situated within this area, with pipe line connection from the harbour for fuel oil, kerosine, and benzine imported in bulk. There is also a Measuring Tanks Depot (about 19 acres in extent) at Bloemendal, about three-quarters of a mile from the Harbour. Three reinforced concrete jetties, two for bunkering purposes and one for the discharge of oil tankers, have been provided. The Outer Bunkering Jetty can accommodate vessels of 500 feet in length with a draught of 27 feet; the Inner Bunkering Jetty is available for barges. The Discharge Jetty can accommodate vessels 600 feet in length with a draught of 27 feet. The expenditure on the oil scheme up to 30th September, 1930, was Rs. 5,028,906.
+
+The Coalings Depot consists of 25 acres of land, reclaimed from the sea, with a frontage of 2,300 feet, from which 17 jetties project into the harbour for the landing, stacking, and shipping of coal. The total cost of this depot was Rs. 168,433.
+
+The total cost of the Reclamation and Jetties amounts to Rs. 214,227.
+
+The Fishery Harbour is to the northward of Colombo harbour for the use of the fishermen as a beaching ground. The fishery harbour consists of a rubble breakwater running out from the shore in a curve for 800 feet, the sheltered part forming a natural beaching ground for fishing canoes. The cost was Rs. 11,607.
+
+The total expenditure on the Colombo harbour from 1873, when work in connection with the first breakwater was commenced, to 1913, when the Colombo Port Commission assumed control of the harbour, was Rs. 44,790,267, or 2,986,018L, taking the value of the rupee at Is. 4d.
+
+In the period 1913 to 1930 a sum of Rs. 39,474,251 or 2,631,617L, has been spent on various development and maintenance works by the Colombo Port Commission and a sum of Rs. 2,803,046 or 173,636L by
+the Public Works Department, making a total of Rs. 42,077,296 or 2,805,133L In addition to the above expenditure a sum of Rs. 680,052 or 44,004L was charged to Loan Funds during the period 1922-1926, in connection with the dredging of the Colombo Harbour (including rock excavation). Prior to 1st October, 1922, this expenditure was met from Revenue, and is included in the sum of Rs. 42,077,296 or 2,805,133L mentioned above.
+
+Since the Colombo Port Commission assumed control of the Port, many improvements have been carried out, and shore facilities much increased. The warehouse accommodation in 1913 was 291,600 sq. ft., and this has been increased to 592,476 sq. ft.; similarly the quayage for lighters has been increased from 4,645 lineal feet to 14,043 lineal feet, including 1,278 lineal feet at the Lake to Harbour Canal Quay.
+
+Dredging for deepening the harbour has been steadily carried out, and of the 643 acres low water area of the harbour, 186 acres are now dredged to 36 feet and over, 102 acres to between 36 and 33 feet, 147 acres to between 33 and 30 feet, and 208 acres have a depth of less than 30 feet; berthing accommodation exclusive of the Graving Dock Guide Pier and Oil Jetties being available for 36 vessels in the north-east monsoon and for 23, or, if packed berths are used, 40, vessels in the south-west monsoon, six of which berths in either monsoon are available for vessels of draughts up to 33 feet.
+
+A scheme for the development of the Colombo Lake and its connection to the Harbour was completed in 1925 at a total cost of Rs. 9,206,490. The total capital expenditure on the Lake Scheme up to September, 1930, was Rs. 10,048,032. The connection to the Harbour was taken over by the Colombo Port Commission in 1922, and the areas on both sides developed for the landing of import cargoes.
+
+The maintenance of the waterways and quay walls of the Colombo Lake up to and including the operation of the San Sebastian Canal Locks and pumping plant has now been taken over, and it is hoped that this will lead to further development of its resources.
+
+Colombo Water Supply.
+
+The Colombo Water supply is obtained from Labugama Reservoir which is situated in the Western Province, at a distance of 23½ miles from the City.
+
+The Reservoir was formed by impounding the water of the Wak-Oya, a tributary of the Kelani Ganga.
+
+The Catchment area, which is 2,500 acres in extent, is free from any habitation or cultivation, all the land to the summit of the water shed having been reserved together with a strip two chains in depth along the adjacent water sheds.
+
+The area of the reservoir at present top water level is 205 acres. This lake, the scenery of which is very charming, is 373 feet above sea level and has a maximum depth of 70 feet.
+
+The storage capacity of the reservoir is 1,900 million gallons.
+
+Filtration works of the "Jewell Gravity" type are situated immediately below the Reservoir Dam.
+
+The water has a very low alkalinity and is remarkably pure. It is conveyed to the two service Reservoirs in Colombo through three separate pipe lines; two of these are of cast iron each 20 inches in diameter, and the other of steel 30 inches in diameter.
+
+The 20-inch supply main was duplicated between Wellampitiya and Elie House Reservoir (a distance of 4 miles) during the latter part of 1930.
+
+There are some 250 miles of supply and distribution mains, varying in size from 30 to 3 inches in diameter. Water service is available to all premises within the City and also to shipping in Colombo Harbour.
+
+68 Deacon metres for the detection of waste have been fixed throughout the City.
+
+The average daily consumption is 11 million gallons, or 36 gallons per head of population.
+
+Railways.
+
+The lines of railway, all of which are owned and worked by the Government, are distributed thus:— Broad Gauge (5ft. 6in.), Colombo to Badulla (181½ miles), Polgahawela to Kankesanturai (212½ miles), Peradeniya Junction to Kandy and Matale (21¾ miles), Ragama Junction to Mahara Quarry (1¼ miles), Colombo to Matara (98½ miles), Ragama to Puttalam (74½ miles), Maho to Batticaloa (132 miles), Galoya Junction to Trincomalee (43½ miles), Madawachi to Talaimannar Pier (66 miles), Kolonnawa Oil Line and Harbour Branch (3¼ miles).
+
+Narrow Gauge (2ft. 6in.), Colombo Fort to Yatiyantota (49½ miles), Avissawella to Opanaike (48½ miles), Nanu Oya to Ragalla (19½ miles). Total Mileage 951 miles. The total cost of construction up to 30th September, 1930, charged in account was Rs. 220,522,958. The receipts for the 12 months ended 30th September, 1930, were Rs. 29,650,683, and expenditure Rs. 25,085,120.
+
+By the completion of the Talaimannar extension the railway systems of India and Ceylon were brought within 20 miles of one another, the intervening distance being covered by steamers of the South Indian Railway Co., which ply between Dhansakodi (the Indian Port) and Talaimannar (the Ceylon Port). The other extensions are for the better transport of planting produce (tea, rubber, coconuts, etc.).
+
+Roads.
+
+Of metalled roads there are 4,130 miles; gravelled and natural roads, 503 and 132 miles respectively. The maintenance of 4,765 miles of road cost, in 1930, Rs. 7,287,350 or an average rate of Rs. 1,529 per mile. This is exclusive of roads within municipal limits, and of minor roads which are not in the charge of the Department of Public Works.
+
+Telephones.
+
+The Government Telephone System comprises two exchanges at Colombo, viz., Central Exchange (2,848 subscribers) and Havelock Town Exchange (384 subscribers) in trunk communication with exchanges at Kandy (198 subscribers), Nuwara Eliya (146 subscribers), Galle (106 subscribers) and 179 smaller exchanges and call offices. There are, in addition, 73 licensed private systems of various sizes, several of which are connected by means of junction lines and subsidiary trunks with one another and the main trunk lines. The mileage of telephone wire in the Government system at the end of 1930 was estimated at 12,220* (aerial) and 31,632 (underground).
+
+Telegraphs.
+
+Nearly all parts of the island are served by the Government telegraph system, which has 296 offices working, inclusive of Railway offices open for postal telegrams. The system comprises 3,472 miles of line and 9,186† miles of wire. Ceylon is in direct telegraphic communication with India by a cable which starts from Talaimannar and crosses the Pamban Channel. It is also connected with Europe by direct cables from Colombo to Aden and with the Far East and Australia by direct cables to Penang.
+
+There is a Government Radio Station in Colombo equipped for Continuous Wave and Interrupted Continuous Wave telegraphic services, and also for telephony.
+
+* Mileage of Trunk and Junction lines is included in this figure.
+† Mileage of Trunk and Junction lines is included under telephone wire (aerial).
+The Continuous Wave service is conducted on a wave length of 2,300 metres with a normal daylight range of 1,000 miles.
+
+The Interrupted Continuous Wave Service is conducted on the 600 metre wave length, and has a normal daylight range of 500 miles.
+
+The telephonic equipment is for providing a broadcasting service on a wavelength of 428½ metres. The rating of the set for telephony is 2 kilowatts. The number of licence holders at the end of August, 1931, was 1,268.
+
+Postal and Shipping Communications.
+
+1. There is a regular fortnightly mail service between London and Colombo by the P. & O. steamers continuing to Australia. There is also a regular fortnightly mail service by the Orient line steamers continuing to Australia, except from April to September, when it is monthly. The Aberdeen and Dominion line provides a monthly service from Colombo to Australia.
+
+2. There are also fortnightly services by the P. & O. line between London and Japan, and London and Australia, via Colombo. There is also a fortnightly service by the Orient line between London and Australia, via Colombo, except from April to September, when it is monthly.
+
+A direct weekly mail service from London to Australia, and vice versa, from April to September has been made possible by the P. & O. branch line of steamers being utilized during this period.
+
+The regular weekly mails despatched by the P. & O. and Orient Line mail steamers connect with the Australian Air Mail Services.
+
+3. The M.M. Co. runs a fortnightly mail service between Marseilles and the Straits and Japan, via Colombo.
+
+4. The Nippon Yusen Kaisha line of steamers maintains a fortnightly service between Liverpool and Marseilles and the Straits, China and Japan, via Colombo, and the Bibby line between Liverpool and Marseilles, Port Said and Rangoon, via Colombo.
+
+5. The Natal Direct line and the Indian and African line maintain a somewhat irregular monthly service between Calcutta and Durban, Delagoa Bay and Cape Town, via Colombo, while a monthly service by the steamers of the Osen Shoen Kaisha exists between Japan and Argentine and Brazil, via Colombo, Durban and Cape Town. There is also a monthly service by steamers of Osen Shoen Kaisha (African Line) between Japan and Dar-es-Salaam via Colombo.
+
+6. The steamers of the Rotterdam Lloyd and Stoomvaart-Maatschappij Nederland provide a fortnightly service between Holland and Java, via Colombo. The steamers of the Rotterdam Lloyd also provide a fortnightly service from Java to Holland, via Colombo.
+
+7. The British Indian Steam Navigation Company maintains an irregular monthly service between Calcutta (or Rangoon) and Mauritius, via Colombo, and a regular bi-weekly service between Tuticorin and Colombo.
+
+8. There is an irregular mail service between Ceylon and the Maldives Islands by buggalows.
+
+9. The mail service between England and Colombo takes from 16 days to 18 days in transit at present.
+
+Rates of Postage.
+
+| Letters. | Post Cards. | Printed Matter. | Registered Newspapers. | Samples. | Registration Fee. |
+|----------|-------------|-----------------|-----------------------|----------|------------------|
+| Within the Colony and to India | Per 2 oz. 6 cents | Each 3 cents | Per 2 oz. 3 cents | 2 cents. for every copy not exceeding 5 cts., 2 cents. for every additional 1 oz. | — | 15 cents |
+| To the United Kingdom and British Dominions | 9 cents for each oz. or part thereof | 6 cents | 3 cents for every 2 oz. or part thereof. | Same as printed matter. | First 4 oz. or part thereof 8 cents and every additional 2 oz. 4 cents. | 20 cents |
+| To Foreign Countries | First oz. 20 cents, and 10 cents each additional oz. or part thereof | 12 cents | 4 cents for every 2 oz. or part thereof. | ditto | First 4 oz. or part thereof 8 cents, and every additional 2 oz. 4 cents. | ditto |
+
+The rate of postage on periodicals registered as newspapers in the United Kingdom or a British Colony other than Ceylon, when posted in Ceylon for transmission by inland post, shall be 6 cents for 6 oz., with 3 cents for each additional 6 oz., up to a maximum of 2 lb.
+
+Air Mails.
+
+10. A regular weekly air mail service operates between Karachi and London, and air mails from Ceylon are despatched by this route to the United Kingdom, Continent of Europe, Egypt, Palestine, Iraq, and Persia; the gain in time by the use of the air service to these countries over ordinary means of transport is 7 days in the case of correspondence addressed to the United Kingdom and 3 to 5 days in regard to other countries. Air mails are sent to the United States, Australia, and Dutch East Indies by the regular weekly mail steamers to the ports of call of these countries for despatch onwards by their internal air routes; the gain in time obtained by the use of these air routes varies from 3 to 7 days. Air mail correspondence to countries in South America can also be forwarded by the regular weekly despatches to Marseilles and secure an earlier delivery up to 12 to 13 days at destination. A fortnightly air despatch is made to Kenya, Uganda, and Tanganyika by the Karachi-Mwanza air route; this despatch provides with the ordinary fortnightly mail a weekly despatch to these countries.
+### Particulars of air routes available, countries served, and fees payable
+
+| Country of Destination | Air Route Available | Air Fee (additional to Ordinary Postage, Express, Late, or Registration Fee) |
+|------------------------|---------------------|--------------------------------------------------------------------------------|
+| United Kingdom         | Karachi—London      | 40 cents per oz.                                                               |
+| United Kingdom         | Marseilles—London   | 20 cents per oz.                                                               |
+| Egypt or Palestine     | Karachi—London      | 25 cents per oz.                                                               |
+| Iraq                   | Karachi—London      | 20 cents per oz.                                                               |
+| Baluchistan            | Karachi—London      | 6 cents per oz.                                                                |
+| Persia (Gulf Ports, Jask, Lingah, Bushire) | Karachi—London and Persian Internal Service | 15 cents per oz. |
+| Persia (Interior of)   | Karachi—London      | 25 cents per oz.                                                               |
+| Persia (Interior of)   | Persian Internal Service | 12 cents per oz. |
+| United States          | New York—Dallas     | 25 cents per oz.                                                               |
+| United States          | New York—San Francisco | 25 cents per oz. |
+| Australia—West         | Perth—Derby         | 20 cents per oz.                                                               |
+| Australia—South        | Perth—Adelaide      | 20 cents per oz.                                                               |
+| Australia—East         | Charleville—Camoooweal | 20 cents per oz. |
+| New Zealand            | Perth—Adelaide      | 20 cents per oz.                                                               |
+| Fiji                   | Perth—Adelaide      | 20 cents per oz.                                                               |
+| Brazil                 | Marseilles—Buenos Aires | Rs. 3.30 per ½ oz. for letters and postcards, Rs. 2.85 per 2 oz. for other articles. |
+| Paraguay, Uruguay, Argentine Republic | Marseilles—Buenos Aires | Rs. 3.90 per ½ oz. for letters and postcards, Rs. 3.30 per 2 oz. for other articles. |
+
+### Finances, Shipping and Trade
+
+#### Finances
+
+| Year | Revenue | Expenditure | British Total | Tonnage | Tonnage |
+|------|---------|-------------|---------------|---------|---------|
+| 1921 | 79,270,117 | 77,359,068 | 9,342,201 | 14,705,250 |
+| 1922 | 93,720,169 | 85,583,910 | 10,309,396 | 16,252,984 |
+| 1923 | 102,363,116 | 100,695,713 | 11,553,118 | 18,508,406 |
+| 1924 | 115,539,670 | 105,004,348 | 12,026,497 | 19,419,444 |
+| 1925 | 124,516,155 | 109,996,836 | 12,381,078 | 20,402,629 |
+| 1926 | 129,368,916 | 121,046,300 | 13,152,220 | 21,393,723 |
+| 1927 | 134,184,953 | 152,107,200 | 13,902,685 | 22,725,025 |
+| 1928 | 107,818,275 | 125,896,034 | 14,050,570 | 24,466,389 |
+| 1929 | 110,926,863 | 110,275,529 | 14,362,844 | 24,992,939 |
+
+Public Debt, on 30th Sept., 1929, Sterling debt, £12,844,193 8s. 4d.; rupee debt, Rs.3,000,000.
+
+#### Imports
+
+| Year | From U.K. | From Colonies | From Elsewhere | Total |
+|------|-----------|---------------|----------------|-------|
+| 1921 | 65,438,017 | 154,331,998 | 41,127,146 | 260,897,161 |
+| 1922 | 62,075,675 | 169,965,909 | 49,701,428 | 281,740,702 |
+| 1923 | 63,366,230 | 172,983,779 | 55,869,776 | 292,219,784 |
+| 1924 | 69,448,553 | 173,769,871 | 69,110,043 | 312,328,467 |
+| 1925 | 74,577,656 | 202,668,815 | 72,959,846 | 300,380,317 |
+| 1926 | 95,134,287 | 214,101,740 | 98,631,082 | 407,867,109 |
+| 1927 | 95,276,344 | 221,008,217 | 104,843,415 | 421,127,976 |
+| 1928 | 93,633,860 | 202,728,824 | 116,361,925 | 412,116,630 |
+| 1929 | 90,470,077 | 220,246,102 | 118,579,144 | 429,295,323 |
+| 1930 | 83,619,104 | 189,550,768 | 91,186,641 | 324,356,513 |
+
+* The Shipping Figures are for the Calendar year.
+† Decrease due to separation of Railway accounts from the Colony’s Budget.
+‡ Includes Rs. 7,418,933 recovered from loan being expenditure met from surplus balances in previous years pending raising of loan.
+
+#### Exports
+
+| Year | To U.K. | To Colonies | To Elsewhere | Total |
+|------|---------|-------------|--------------|-------|
+| 1921 | 118,567,199 | 42,031,778 | 95,971,441 | 256,600,413 |
+| 1922 | 137,770,062 | 48,732,699 | 120,284,454 | 279,783,215 |
+| 1923 | 163,705,410 | 59,879,673 | 127,613,655 | 351,198,748 |
+| 1924 | 172,322,283 | 70,315,154 | 142,879,951 | 385,517,418 |
+| 1925 | 188,592,160 | 74,383,372 | 229,640,898 | 492,616,430 |
+| 1926 | 208,823,306 | 71,001,879 | 224,323,203 | 503,648,990 |
+| 1927 | 187,007,550 | 76,945,475 | 185,320,719 | 449,273,744 |
+| 1928 | 155,479,808 | 75,614,943 | 153,572,729 | 382,667,470 |
+| 1929 | 161,760,813 | 85,775,610 | 160,387,867 | 407,872,810 |
+| 1930 | 136,800,233 | 64,853,144 | 108,517,736 | 310,171,163 |
+
+The total customs revenue in 1929-30 was Rs. 51,497,504.
+
+#### List of Governors
+
+1850 Sir George William Anderson, K.C.B.
+1855 Sir Henry George Ward, K.C.M.G.
+1860 Sir C. J. MacCarthy, Kt.
+1863 Major-General Terence O’Brien (acting).
+1865 Sir Hercules G. R. Robinson, K.C.M.G.
+1872 The Rt. Hon. Sir W. H. Gregory, K.C.M.G.
+1877 Sir James R. Longden, K.C.M.G.
+1883 The Hon. Sir Arthur H. Gordon, G.C.M.G. (afterwards Lord Stanmore).
+1890 Sir Arthur E. Havelock, G.C.M.G.
+1896 Right Hon. Sir J. West Ridgeway, G.C.M.G., K.C.B., K.C.S.I.
+1903 Sir Henry A. Blake, G.C.M.G.
+1907 Col. Sir H. E. McCallum, G.C.M.G., R.E.
+1913 Sir Robert Chalmers, G.C.B. (now Lord Chalmers).
+1916 Sir John Anderson, G.C.M.G., K.C.B., LL.D.
+1918 Brig.-General Sir William H. Manning, G.C.M.G., K.B.E., C.B.
+1925 Sir Hugh C. Clifford, G.C.M.G., G.B.E.
+1927 Sir Herbert J. Stanley, K.C.M.G.
+1931 Sir Graeme Thomson, G.C.M.G., K.C.B.
+
+For Governors previous to 1850, see Edition for 1889.
+2nd Class Clerk, W. A. Grant, $690 to $906.
+Agricultural Instructor, C. A. Boyd, $720.
+
+Stann Creek Development Board.
+Chairman, The Surveyor General.
+Secretary, W. H. Courtenay, $150.
+
+Industrial School, Pomona, Stann Creek.
+Chairman, Board of Management, The Colonial Secretary.
+Principal, Major E. F. Strachan, O.B.E., M.C., $2,450, and quarters.
+Clerk and Schoolmaster, R. S. Finlayson, $900, and quarters.
+Agricultural Assistant, R. E. Belisle, $900, and quarters.
+Matron, Mrs. R. Strachan, $660.
+
+Foreign Consuls.
+United States, R. M. Ott (Vice-Consul).
+Norway, A. D. P. Williamson.
+Sweden, F. R. Ellis.
+Republic of Honduras, F. Hinestroza.
+France, D. Masson (Consular Agent).
+Spain, A. D. P. Williamson (Vice-Consul).
+Guatemala, W. R. Ysaguirre (Consul).
+Mexico, V. R. Quijano.
+Belgium, V. L. Bryant (Consul General).
+Nicaragua, R. S. Turton.
+Panama, L. E. Cuevas.
+Netherlands, F. W. Ross.
+Costa Rica, L. E. Cuevas.
+
+Ecclesiastical.
+Church of England, The Right Rev. E. A. Dunn, M.A., D.D.
+Roman Catholic, The Right Rev. J. Murphy, S.J.
+Church of Scotland, Rev. A. E. Adamson.
+Wesleyan Methodist, The Rev. W. H. Harvey, Superintendent.
+Baptist, The Rev. B. Cleghorn.
+Salvation Army, Adjutant J. S. Austen.
+
+No Church is established, nor are any grants made.
+
+CEYLON.
+
+Situation and Area.
+
+Ceylon, the ancient Taprobane, is an island in the Indian Ocean, off the southern extremity of Hindustan, lying between 8° 55' and 9° 60' N. lat. and 79° 42' and 81° 53' E. long.; its extreme length from north to south, i.e., from Point Palmyra to Dondra Head, is 270 miles; its greatest width 140 miles, from Colombo on the west coast to Sangamankanda on the east. Its area is 25,332 square miles, or about equal to Holland and Belgium.
+
+The Maldivian Archipelago, 400 miles south-west of Ceylon, made up of 18 groups—known as atolls—or islets, but for centuries past arranged for administrative purposes in 13 groups, which are sparsely inhabited by a mixed race of probably Aryan original stock, speaking a dialect akin to Elu, or old Sinhalese, is tributary to Ceylon, to which the Sultan sends an embassy annually. The inhabitants of the Archipelago have for nearly eight centuries professed the Mohammedan religion. The islands are covered with coconut palms and yield millet, fruit, and coconut produce. Communication is mainly by native craft with India and Ceylon. The population enumerated at the census 1921 was 70,413, including 137 Indian Borahs, 22 Malabars, and 58 Ceylon Moors who were at Male Island for purposes of trade; the principal occupations are fishing (14,760 males), oot and lace making (10,799 females and 13 males), toddy drawing (1,273 males), carpentry (1,133 males), and cultivation (853 males and 572 females). Male, the residence of the Sultan and the capital of the Islands, is a little over 3 miles in circumference.
+
+The Laccadive Islands are under the administration of the Government of India.
+
+Climate.
+
+The climate of Ceylon for a tropical country is comparatively healthy; the heat in the plains, which is nearly the same throughout the year, being much less oppressive than in India.
+
+Along the coast the annual mean temperature is about 80° F., and a noteworthy feature is the smallness of the variation both between day and night in the same twenty-four hours, and between the different parts of the year. At Kandy, 1,654 feet above sea level, the mean temperature is 76° F., and the rule of 1° F. drop in temperature for each 300 feet rise in altitude holds fairly well throughout the island.
+
+At Colombo and Galle the mean monthly temperature in the coldest months (December and January) is less than four degrees below those in the warmest months (April and May), while the mean daily ranges for the year are 12·3° and 7·4° respectively.
+
+At Trincomalee, on the other side of the island, conditions are only slightly more varied. The mean monthly temperature in May (86° F.) is seven degrees above that in December (79° F.), while the mean daily range for the year is 13·7° F.
+
+It must be remembered, however, that the change in the capacity of the air for moisture for each degree of change of temperature in the Ceylon low country is far greater than the corresponding change per degree at the mean temperature of London.
+
+The highest temperatures are experienced in the district to the north of the hills, and to the north-east, but it is only in very few days in the year that a temperature of 100° Fahr. or over is experienced. Trincomalee holds the record with 103·7° Fahr. In the hills there is of course a great variety of climate, and at Nuwara Eliya, over 6,000 feet above mean sea level, frost is occasionally recorded in the early part of the year.
+
+The annual average rainfall varies from below 40 inches in the dry zones to the north-west and south-east of the Island to above 150 inches at certain places on the south-west slopes of the hills. The chief rainy seasons extend from April to June and from October to January, but as there is a sharp antithesis between the windward and lee side during both monsoons (particularly the S.W.), it is hard to summarise the island as a whole in one sentence. It may fairly be said that there is not a month without some rain, and the result is the luxuriant vegetation for which the island is famous.
+
+History.
+
+The authentic history of the island begins at the sixth century B.C., when an Aryan invasion from the north of India established the Sinhalese dynasty. Buddhism was introduced in the third century B.C., and from that time this faith has been preserved in comparative purity. The island abounds...
+in interesting relics of antiquity, and in rock inscriptions, which, with the written annals left by the Sinhalese kings, are of peculiar value in revising Indian chronology.
+
+In the sixteenth century the Portuguese formed settlements on the west and south of the island; in the next century they were dispossessed by the Dutch. In 1796 the British took possession of the Dutch settlements in the island, which were then annexed to the Presidency of Madras, but five years later, in 1802, Ceylon was constituted a separate Colony. In 1815 war was declared against the Sinhalese Government of the interior; the last Kandyan King was taken prisoner, and the whole island came under the rule of the British.
+
+Constitution.
+
+The Government is administered by a Governor, aided by a State Council consisting of 146 members elected for territorial constituencies, 3 ex-officio members (the Chief Secretary, Legal Secretary, and Financial Secretary) called Officers of State, and 8 members nominated by the Governor. The State Council concerns itself with administration as well as with legislation.
+
+The Departments of Government are divided into ten groups. Three of these groups are in charge of the Chief Secretary, the Legal Secretary, and the Financial Secretary. The remaining seven groups are in charge of Members of the State Council who are elected as Chairmen of the various Executive Committees, and who are styled Ministers. The Ministers with the Officers of State form the Board of Ministers.
+
+All Ceylonese, both male and female, of a minimum age of 21, are included in the franchise. British subjects not domiciled in Ceylon are allowed to qualify for the franchise in accordance with the hitherto existing Constitution, or on their furnishing satisfactory evidence of five years' residence and a declaration of permanent settlement in the Island.
+
+Population, Area, and Statistics.
+
+According to the decennial census taken in 1921 the population was 5,312,548 an increase of 17-94 per cent. on the population enumerated in 1921. The details of the population were as follows (including the military, shipping, estates, and miscellaneous):
+
+| Province                        | Population |
+|---------------------------------|------------|
+| Western Province                | 1,448,648  |
+| Central ditto                   | 953,395    |
+| Southern ditto                  | 771,283    |
+| Northern ditto                  | 399,094    |
+| Eastern ditto                   | 213,980    |
+| North-Western Province          | 546,988    |
+| North-Central ditto             | 97,365     |
+| Province of Uva                 | 303,419    |
+| Provinces of Sabaragamuwa       | 578,368    |
+| Miscellaneous                   | 8          |
+| **Total**                       | **5,312,548** |
+
+The population of the principal towns, exclusive of the Military and the Shipping, was as follows:
+
+- Colombo, 284,155; Dehiwala-Mount Lavinia, 34,288; Negombo, 25,291; Moratuwa, 32,409; Kalutara, 14,280; Kandy, 37,147; Jaffna, 45,708; Galle, 38,424; Matara, 18,693; Batticaloa, 11,585; Trincomalee, 10,160; Kurunegala, 10,467; Badulla, 9,849.
+
+The number of Indian coolies on the tea estates, etc., was about 700,000. They are under no indentures, and are free to quit on giving a month's notice.
+
+The entire area of the Island is 25,332 square miles. About one quarter of this area, after deducting backwaters, etc., is under cultivation. Some 4,000 square miles in the centre form the mountain zone with an altitude of from 1,500 to 8,262 feet above sea level. The approximate acreages under the most important products are:
+
+| Product         | Acres   |
+|-----------------|---------|
+| Coconuts        | 1,100,000 |
+| Rice            | 800,000  |
+| Tea             | 457,000  |
+| Grain (other than Rice) | 105,000 |
+| Rubber          | 534,000  |
+| Cinnamon        | 26,000   |
+| Caoco           | 34,000   |
+| Tobacco         | 14,000   |
+
+At the end of 1930, the number of plumbeo mines reported to be working was 52. The amount of plumbeo exported during the year was 174,478 cwts., valued at rs. 1,775,317.
+
+The minimum upset price of Crown land is rs. 16 to 20 per acre. 12,818 acres were granted and sold by the Revenue officers in 1930.
+
+The revenue is principally derived from Customs Duties, Land Sales, Licences (under which head is entered the amount realised by the sale of Arrack and Toddy Rents), Salt (which is a Government monopoly), Stamps, and Railway Receipts. The revenue from the sale of salt for the financial year 1929-30 was rs. 1,961,876. This is local salt worked by the Government, but the importation of foreign salt is allowed on an import duty of rs. 4 per cwt.
+
+The local revenues raised by the Municipalities of Colombo, Kandy and Galle, by the Provincial and District Road Committees, by the Local Boards of Health and Improvement and Urban District Councils which have been established in the towns of Kalutara, Panadure, Negombata, Minuwangoda, Dehiwala-Mount Lavinia, Gempole, Nuwara Eliya, Matale, Nawalapitiya, Hatton-Dickoya, Matara, Batticaloa, Trincomalee, Kurunegala, Puttalam, Chilaw, Anuradapura, Bedulla, Bandarawela, Ratnapura, Kegalla, Moratuwa, and Jaffna, and by Village Committees amounted in 1930 to rs. 14,557,207-37. The revenue collected by the Sanitary Boards amounted to rs. 1,014,493-34.
+
+The municipal debt outstanding on 31st Dec. 1930, was rs. 13,524,672-10. Of this amount, rs. 9,833,662-10 is the balance of the loan borrowed from the Government for the Colombo Drainage Works, and rs. 2,664,204-83 for Water Works. Rs. 426,521-85 is the balance of loans obtained by the municipality of Galle for the construction of waterworks, sanitary improvements and electric lighting, and rs. 600,383-32 is the balance of the loan due from the municipality of Kandy for water-works, drainage, housing and electric lighting.
+
+The development of the tea industry is shown by the following statistics:—Export, 1884, 2,382,963 lbs.; 1900, 149,294,602 lbs.; 1930, 243,107,474 lbs.
+
+There has been a remarkable development in rubber cultivation in recent years. Rubber was first brought to Ceylon in 1876, and its growth proved successful. In 1898, 750 acres were estimated to be planted with rubber, in 1906, 100,000 acres, and in 1930 about 534,000 acres.
+
+† By "Miscellaneous" are meant persons enumerated in the Great and Little Bases.
+
+* Out of the 60 electoral districts no candidates for election came forward in 1931 for the four in the Revenue District of Jaffna.
+The value of the products of the coconut palm exported in 1930 was Rs. 46,779,594. During the past few years greater attention has been given to the cultivation of coconuts, and large areas of land formerly occupied with cinnamon are now planted in this crop. The value of coconuts exported in 1930 was Rs. 2,938,789 and of cinnamon Rs. 1,779,983.
+
+The chief imports are rice from British India (including Burma), valued at Rs. 70,819,724, and from other countries valued at Rs. 4,744,978, and coal and textiles chiefly from the United Kingdom.
+
+Law and Justice.
+
+The basis of the law is the Roman-Dutch law, much modified by the introduction of English law and by Colonial ordinances. Kandyan law and Muslim law also prevail among Kandyans and Muslims respectively. The criminal law has been codified on the model of the Indian Penal Code, and the codification of the law of Criminal and Civil procedure respectively has been completed.
+
+Justice is administered by the Supreme Court, which has an original criminal jurisdiction and decides appeals from the inferior Courts both in civil and criminal cases; by the Police Courts and Courts of Requests, which dispose, respectively, of minor criminal and civil suits; and by the District Courts, which have a criminal jurisdiction intermediate between that of the Supreme Court and the Police Courts, and a civil jurisdiction in all cases. In addition to these there are the Ganasiwaiya, Village Councils, and Village Tribunals, instituted under the Ordinance No. 9 of 1924, with powers to deal with petty offences and trifling claims. They have worked well and are thoroughly adapted to the genius of the people. Besides settling a considerable amount of litigation, they have provided a valuable machinery for carrying out local improvements. They are empowered to make rules, subject to the approval of the Governor in Council, relating to their village economy, and it is noticeable that in many instances they have not only voluntarily provided school buildings and undertaken the cost of the current expenses and repairs, but have made elementary education compulsory.
+
+Education.
+
+Satisfactory progress is being made in education. The number of scholars in Government schools at the end of 1930 was 220,431, in assisted schools 321,176, and in unaided schools 30,638.
+
+The total expenditure on account of the Education Department in 1929-30 was Rs. 12,060,889-40. In 1868, the number of scholars was only 6,897, and the expenditure Rs. 161,860. The improvement is due to the institution of a Department of Education and the adoption of a system under which the educational wants of the Island are met partly by Government, partly by schools receiving grants in aid from Government. The Government schools are all unsectarian, and no fee is charged for vernacular education; fees are charged for English teaching.
+
+The only Secondary School entirely supported by Government is the Royal College, but there are numerous and excellent Grant-in-aid Secondary Schools. Seven Government scholarships, each of 300L per annum, five for two years and two for three years, with outfit allowances of Rs. 750 each and free passages, are awarded annually, on the results of the B.A. and B.Sc. Examinations of the University of London, to enable the best seven students of the year to complete their education at English universities.
+
+Industrial education is provided in 75 Government and Grant-in-aid Schools and in a number of Orphanages. A central Technical College was founded in Colombo in 1893; its title has since been changed to "Government Technical Schools."
+
+A University College opened in Colombo in 1921, offers instruction in the following subjects:—English Language and Literature, Classics and Philosophy, Modern History and Economics, Physics, Chemistry, Mathematics, Sanskrit and Pali, Tamil, Sinhalese, Modern Languages, Botany, Zoology, Geography. Students are presented for the External Examinations, Pass and Honours, of the University of London.
+
+A Government Training College for Masters and Mistresses in English Schools and Government Vernacular Schools was opened in 1903.
+
+Medical Institutions.
+
+Medical College.—The Ceylon Medical College was founded in 1870 to provide a course of Medical training for the Ceylonese. The curriculum is a full five years' course, and since 1887 the Licence of the College has been recognised by the General Medical Council as a registrable Colonial qualification. The courses of instruction and examinations are also recognised by many of the British Examining Boards. The licence has been conferred upon 488 candidates since the College was opened; of recent years about 18 quality annually.
+
+There is a Junior or Apothecary Department in which students go through a two years' course, and after passing the prescribed examinations are qualified to serve as Apothecaries and Estate Dispensers.
+
+The College has a staff of over 30 lecturers and is managed by a Council incorporated by law.
+
+There are at present about 200 students.
+
+Owing to changes introduced by the Medical Council of Great Britain, the preliminary subjects, Physics, Chemistry and Biology, are now pre-medical subjects, and arrangements have been made for these to be studied at the University College. Students must pass an examination in these subjects before they can be admitted to the Medical College for their purely medical studies.
+
+The Medical College fees amounted to Rs. 60,343-50 in 1930-31.
+
+There are 93 Government general hospitals providing 7,603 beds, with varying accommodation from 8 beds in smaller outstations to 912 beds in the General Hospital, Colombo.
+
+There are in addition a number of special hospitals, viz., a lying-in-home with 83 beds, an eye hospital (with 56 beds) with an ear, nose and throat clinic attached, a woman's hospital with 45 beds, a children's hospital with 82 beds, a women's venereal hospital with 29 beds, a police hospital with 32 beds, a tuberculosis hospital for chronic cases with 349 beds, a tuberculosis sanatorium with 72 beds, an infectious diseases hospital with 168 beds, a lunatic asylum and House of Observation with 1,330 beds, a prison hospital, Colombo, with 192 beds, and 8 other prison hospitals providing 149 beds, two leper asylums, one with 508 beds at Hendala (near Colombo), and the other with 176 beds at Mantivu, Eastern Province.
+
+Eighty-eight estate hospitals and 715 estate dispensaries are maintained by proprietors of estates.
+
+There were 595 Government dispensaries in different parts of the Island in 1930, and 3,810,010 patients who paid 5,815,125 visits were treated at these dispensaries.
+
+There are a bacteriological, a pasteur, a dental, and an anti-tuberculosis Institute, and a vaccine establishment. A division of sanitary engineering...
+in interesting relics of antiquity, and in rock inscriptions, which, with the written annals left by the Sinhalese kings, are of peculiar value in revising Indian chronology.
+
+In the sixteenth century the Portuguese formed settlements on the west and south of the island; in the next century they were dispossessed by the Dutch. In 1796 the British took possession of the Dutch settlements in the island, which were then annexed to the Presidency of Madras, but five years later, in 1802, Ceylon was constituted a separate Colony. In 1815 war was declared against the Sinhalese Government of the interior; the last Kandyan King was taken prisoner, and the whole island came under the rule of the British.
+
+**Constitution.**
+
+The Government is administered by a Governor, aided by a State Council consisting of 146 members elected for territorial constituencies, 3 ex-officio members (the Chief Secretary, Legal Secretary, and Financial Secretary) called Officers of State, and 8 members nominated by the Governor. The State Council concerns itself with administration as well as with legislation.
+
+The Departments of Government are divided into ten groups. Three of these groups are in charge of the Chief Secretary, the Legal Secretary, and the Financial Secretary. The remaining seven groups are in charge of Members of the State Council who are elected as Chairmen of the various Executive Committees, and who are styled Ministers. The Ministers with the Officers of State form the Board of Ministers.
+
+All Ceylonese, both male and female, of a minimum age of 21, are included in the franchise. British subjects not domiciled in Ceylon are allowed to qualify for the franchise in accordance with the hitherto existing Constitution, or on their furnishing satisfactory evidence of five years' residence and a declaration of permanent settlement in the Island.
+
+**Population, Area, and Statistics.**
+
+According to the decennial census taken in 1921 the population was 5,312,548 an increase of 17.94 per cent. on the population enumerated in 1921. The details of the population were as follows (including the military, shipping, estates, and miscellaneous):
+
+- Western Province .. 1,448,648
+- Central ditto .. 953,395
+- Southern ditto .. 771,283
+- Northern ditto .. 399,094
+- Eastern ditto .. 213,980
+- North-Western Province .. 546,988
+- North-Central ditto .. 97,365
+- Province of Uva .. 303,419
+- Provinces of Sabaragamuwa .. 578,368
+- Miscellaneous .. 8
+
+Total .. 5,312,548
+
+The population of the principal towns, exclusive of the Military and the Shipping, was as follows:
+
+- Colombo, 284,155; Dehiwala-Mount Lavinia, 34,288; Negombo, 26,291; Moratuwa, 32,409; Kalutara, 14,280; Kandy, 37,147; Jaffna, 45,708; Galle, 38,424; Matara, 18,893; Batticaloa, 11,585; Trincomalee, 10,160; Kurunegala, 10,467; Badulla, 9,849.
+
+The number of Indian coolies on the tea estates, etc., was about 700,000. They are under no indentures, and are free to quit on giving a month's notice.
+
+The entire area of the Island is 25,332 square miles. About one quarter of this area, after deducting backwaters, etc., is under cultivation. Some 4,000 square miles in the centre form the mountain zone with an altitude of from 1,500 to 8,262 feet above sea level. The approximate acreages under the most important products are:
+
+| Product       | Acres |
+|---------------|-------|
+| Coconuts      | 1,100,000 |
+| Rice          | 800,000 |
+| Tea           | 457,000 |
+| Grain (other than Rice) | 103,000 |
+| Rubber        | 534,000 |
+| Cinnamon      | 26,000 |
+| Cacao         | 34,000 |
+| Tobacco       | 14,000 |
+
+At the end of 1930, the number of plumbago mines reported to be working was 52. The amount of plumbago exported during the year was 174,478 cwts., valued at ru. 1,775,317.
+
+The minimum upset price of Crown land is ru. 16 to 20 per acre. 12,818 acres were granted and sold by the Revenue officers in 1930.
+
+The revenue is principally derived from Customs Duties, Land Sales, Licences (under which head is entered the amount realised by the sale of Arrack and Toddy Rents), Salt (which is a Government monopoly), Stamps, and Railway Receipts. The revenue from the sale of salt for the financial year 1929-30 was ru. 1,961,875. This is local salt worked by the Government, but the importation of foreign salt is allowed on an import duty of ru. 4 per cwt.
+
+The local revenues raised by the Municipalities of Colombo, Kandy and Galle, by the Provincial and District Road Committees, by the Local Boards of Health and Improvement and Urban District Councils which have been established in the towns of Kalutara, Padure, Negombo, Minuwangoda, Dehiwala-Mount Lavinia, Gampola, Nuwara Eliya, Matale, Nawalapitiya, Hatton-Dickoya, Matara, Batticaloa, Trincomalee, Kurunegala, Puttalam, Chilaw, Anuradapura, Badulla, Bandarawela, Ratnapura, Kegalla, Moratuwa, and Jaffna, and by Village Committees amounted in 1930 to ru. 14,557,207-37. The revenue collected by the Sanitary Boards amounted to ru. 1,014,493-34.
+
+The municipal debt outstanding on 31st Dec. 1930, was ru. 13,524,672-10. Of this amount ru. 9,833,662-10 is the balance of the loan borrowed from the Government for the Colombo Drainage Works, and ru. 2,664,204-83 for Water Works. Ru. 426,521-85 is the balance of loans obtained by the municipality of Galle for the construction of waterworks, sanitary improvements and electric lighting, and ru. 600,383-32 is the balance of the loan due from the municipality of Kandy for water-works, drainage, housing and electric lighting.
+
+The development of the tea industry is shown by the following statistics:—Export, 1884, 233,963 lbs.; 1900, 149,264,802 lbs.; 1930, 243,107,474 lbs.
+
+There has been a remarkable development in rubber cultivation in recent years. Rubber was first brought to Ceylon in 1876, and its growth proved successful. In 1898, 750 acres were estimated to be planted with rubber, in 1906, 100,000 acres, and in 1930 about 534,000 acres.
+The value of the products of the coconut palm exported in 1930 was Rs. 46,779,594. During the past few years greater attention has been given to the cultivation of coconuts, and large areas of land formerly occupied with cinnamon are now planted in this crop. The value of exports exported in 1930 was Rs. 2,936,789 and of cinnamon Rs. 1,779,983.
+
+The chief imports are rice from British India (including Burma), valued at Rs. 70,819,724, and from other countries valued at Rs. 4,744,978, and coal and textiles chiefly from the United Kingdom.
+
+Law and Justice.
+
+The basis of the law is the Roman-Dutch law, much modified by the introduction of English law and by Colonial ordinances. Kandyan law and Muslim law also prevail among Kandyans and Muslims respectively. The criminal law has been codified on the model of the Indian Penal Code, and the codification of the law of Criminal and Civil procedure respectively has been completed.
+
+Justice is administered by the Supreme Court, which has an original criminal jurisdiction and decides appeals from the inferior Courts both in civil and criminal cases; by the Police Courts and Courts of Requests, which dispose, respectively, of minor criminal and civil suits; and by the District Courts, which have a criminal jurisdiction intermediate between that of the Supreme Court and the Police Courts, and a civil jurisdiction in all cases. In addition to these there are the Gansabawas, Village Councils, and Village Tribunals, instituted under the Ordinance No. 9 of 1924, with powers to deal with petty offences and trifling claims. They have worked well and are thoroughly adapted to the genius of the people. Besides settling a considerable amount of litigation, they have provided a valuable machinery for carrying out local improvements. They are empowered to make rules, subject to the approval of the Governor in Council, relating to their village economy, and it is noticeable that in many instances they have not only voluntarily provided school buildings and undertaken the cost of the current expenses and repairs, but have made elementary education compulsory.
+
+Education.
+
+Satisfactory progress is being made in education. The number of scholars in Government schools at the end of 1930 was 220,431, in assisted schools 321,176, and in unaided schools 30,638.
+
+The total expenditure on account of the Education Department in 1929-30 was Rs. 12,050,689-40. In 1888, the number of scholars was only 6,897, and the expenditure Rs. 161,660. The improvement is due to the institution of a Department of Education and the adoption of a system under which the educational wants of the Island are met partly by Government, partly by schools receiving grants in aid from Government. The Government schools are all unsectarian, and no fee is charged for vernacular education; fees are charged for English teaching.
+
+The only Secondary School entirely supported by Government is the Royal College, but there are numerous and excellent Grant-in-aid Secondary Schools. Seven Government scholarships, each of £300 per annum, five for two years and two for three years, with outfit allowances of Rs. 750 each and free passages, are awarded annually, on the results of the B.A. and B.Sc. Examinations of the University of London, to enable the best seven students of the year to complete their education at English universities.
+
+Industrial education is provided in 75 Government and Grant-in-aid Schools and in a number of Orphanages. A central Technical College was founded in Colombo in 1893; its title has since been changed to "Government Technical Schools."
+
+A University College opened in Colombo in 1921, offers instruction in the following subjects:—English Language and Literature, Classics and Philosophy, Modern History and Economics, Physics, Chemistry, Mathematics, Sanskrit and Pali, Tamil, Sinhalese, Modern Languages, Botany, Zoology, Geography. Students are presented for the External Examinations, Pass and Honours, of the University of London.
+
+A Government Training College for Masters and Mistresses in English Schools and Government Vernacular Schools was opened in 1903.
+
+Medical Institutions.
+
+Medical College.—The Ceylon Medical College was founded in 1870 to provide a course of Medical training for the Ceylonese. The curriculum is a full five years' course, and since 1887 the Licence of the College has been recognised by the General Medical Council as a registrable Colonial qualification. The courses of instruction and examinations are also recognised by many of the British Examining Boards. The licence has been conferred upon 488 candidates since the College was opened; of recent years about 18 qualify annually.
+
+There is a Junior or Apothecary Department in which students go through a two years' course, and after passing the prescribed examinations are qualified to serve as Apothecaries and Estate Dispensers.
+
+The College has a staff of over 30 lecturers and is managed by a Council incorporated by law.
+
+There are at present about 200 students.
+
+Owing to changes introduced by the Medical Council of Great Britain, the preliminary subjects, Physics, Chemistry and Biology, are now pre-medical subjects, and arrangements have been made for these to be studied at the University College. Students must pass an examination in these subjects before they can be admitted to the Medical College for their purely medical studies.
+
+The Medical College fees amounted to Rs. 60,343-60 in 1930-31.
+
+There are 93 Government general hospitals providing 7,603 beds, with varying accommodation from 8 beds in smaller outstations to 912 beds in the General Hospital, Colombo.
+
+There are in addition a number of special hospitals, viz., a lying-in-home with 83 beds, an eye hospital (with 56 beds) with an ear, nose and throat clinic attached, a women's hospital with 45 beds, a children's hospital with 82 beds, a women's venereal hospital with 29 beds, a police hospital with 32 beds, a tuberculosis hospital for chronic cases with 349 beds, a tuberculous sanatorium with 72 beds, an infectious diseases hospital with 168 beds, a lunatic asylum and House of Observation with 1,830 beds, a prison hospital, Colombo, with 192 beds, and 8 other prison hospitals providing 149 beds, two leper asylums, one with 508 beds at Hendale (near Colombo), and the other with 176 beds at Mantivu, Eastern Province.
+
+Eighty-eight estate hospitals and 715 estate dispensaries are maintained by proprietors of estates.
+
+There were 596 Government dispensaries in different parts of the Island in 1930, and 3,810,010 patients who paid 5,815,125 visits were treated at these dispensaries.
+
+There are a bacteriological, a pasteur, a dental, and an anti-tuberculosis Institute, and a vaccine establishment. A division of sanitary engineering...
+in interesting relics of antiquity, and in rock inscriptions, which, with the written annals left by the Sinhalese kings, are of peculiar value in revising Indian chronology.
+
+In the sixteenth century the Portuguese formed settlements on the west and south of the island; in the next century they were dispossessed by the Dutch. In 1796 the British took possession of the Dutch settlements in the island, which were then annexed to the Presidency of Madras, but five years later, in 1802, Ceylon was constituted a separate Colony. In 1815 war was declared against the Sinhalese Government of the interior; the last Kandyan King was taken prisoner, and the whole island came under the rule of the British.
+
+**Constitution.**
+
+The Government is administered by a Governor, aided by a State Council consisting of 146 members elected for territorial constituencies, 3 ex-officio members (the Chief Secretary, Legal Secretary, and Financial Secretary) called Officers of State, and 8 members nominated by the Governor. The State Council concerns itself with administration as well as with legislation.
+
+The Departments of Government are divided into ten groups. Three of these groups are in charge of the Chief Secretary, the Legal Secretary, and the Financial Secretary. The remaining seven groups are in charge of Members of the State Council who are elected as Chairmen of the various Executive Committees, and who are styled Ministers. The Ministers with the Officers of State form the Board of Ministers.
+
+All Ceylonese, both male and female, of a minimum age of 21, are included in the franchise. British subjects not domiciled in Ceylon are allowed to qualify for the franchise in accordance with the hitherto existing Constitution, or on their furnishing satisfactory evidence of five years' residence and a declaration of permanent settlement in the Island.
+
+**Population, Area, and Statistics.**
+
+According to the decennial census taken in 1921 the population was 5,312,548 an increase of 17-94 per cent. on the population enumerated in 1921. The details of the population were as follows (including the military, shipping, estates, and miscellaneous):
+
+| Province                  | Population |
+|---------------------------|------------|
+| Western Province          | 1,448,648  |
+| Central ditto             | 953,395    |
+| Southern ditto            | 771,283    |
+| Northern ditto            | 399,094    |
+| Eastern ditto             | 213,980    |
+| North-Western Province    | 546,988    |
+| North-Central ditto       | 97,365     |
+| Province of Uva           | 303,419    |
+| Provinces of Sabaragamuwa | 578,368    |
+| Miscellaneous             | 8          |
+| **Total**                 | **5,312,548** |
+
+The population of the principal towns, exclusive of the Military and the Shipping, was as follows:
+
+- Colombo, 284,155; Dehiwala-Mount Lavinia, 34,288; Negombo, 25,291; Moratuwa, 32,409; Kalutara, 14,280; Kandy, 37,147; Jaffna, 45,708; Galle, 38,424; Matara, 18,893; Batticaloa, 11,585; Trincomalee, 10,160; Kurunegala, 10,467; Badulla, 9,849.
+
+The number of Indian coolies on the tea estates, etc., was about 700,000. They are under no inducements, and are free to quit on giving a month's notice.
+
+The entire area of the Island is 25,332 square miles. About one quarter of this area, after deducting backwaters, etc., is under cultivation. Some 4,000 square miles in the centre form the mountain zone with an altitude of from 1,500 to 3,262 feet above sea level. The approximate acreages under the most important products are:
+
+| Product         | Acres   |
+|-----------------|---------|
+| Coconuts        | 1,100,000|
+| Rice            | 800,000  |
+| Tea             | 457,000  |
+| Grain (other than Rice) | 105,000 |
+| Rubber          | 534,000  |
+| Cinnamon        | 26,000   |
+| Cacao           | 34,000   |
+| Tobacco         | 14,000   |
+
+At the end of 1930, the number of plumbo mines reported to be working was 52. The amount of plumbo exported during the year was 174,478 cwts., valued at rs. 1,775,317.
+
+The minimum upset price of Crown land is rs. 16 to 20 per acre. 12,818 acres were granted and sold by the Revenue officers in 1930.
+
+The revenue is principally derived from Customs Duties, Land Sales, Licences (under which head is entered the amount realised by the sale of Arack and Toddy Rents), Salt (which is a Government monopoly), Stamps, and Railway Receipts. The revenue from the sale of salt for the financial year 1929-30 was rs. 1,961,875. This is local salt worked by the Government, but the importation of foreign salt is allowed on an import duty of rs. 4 per cwt.
+
+The local revenues raised by the Municipalities of Colombo, Kandy and Galle, by the Provincial and District Road Committees, by the Local Boards of Health and Improvement and Urban District Councils which have been established in the towns of Kalutara, Panadure, Negombo, Minuwangoda, Dehiwala-Mount Lavinia, Gampola, Nuwara Eliya, Matale, Nawalapitiya, Hatton-Dicioya, Matara, Batticaloa, Trincomalee, Kurunegala, Puttalam, Chilaw, Anuradhapura, Badulla, Bandarawela, Ratnapura, Kegalla, Moratuwa, and Jaffna, and by Village Committees amounted in 1930 to rs. 14,557,207-37. The revenue collected by the Sanitary Boards amounted to rs. 1,014,493-34.
+
+The municipal debt outstanding on 31st Dec. 1930, was rs. 13,524,672-10. Of this amount rs. 9,833,662-10 is the balance of the loan borrowed from the Government for the Colombo Drainage Works, and rs. 2,664,204-83 for Water Works. Rs. 426,621-85 is the balance of loans obtained by the municipality of Galle for the construction of waterworks, sanitary improvements and electric lighting, and rs. 600,383-32 is the balance of the loan due from the municipality of Kandy for water-works, drainage, housing and electric lighting.
+
+The development of the tea industry is shown by the following statistics:—Export, 1884, 2,322,963 lbs.; 1900, 149,264,802 lbs.; 1930, 243,107,474 lbs.
+
+There has been a remarkable development in rubber cultivation in recent years. Rubber was first brought to Ceylon in 1876, and its growth proved successful. In 1898, 750 acres were estimated to be planted with rubber, in 1906, 100,000 acres, and in 1930 about 534,000 acres.
+
+† By "Miscellaneous" are meant persons enumerated in the Great and Little Bases.
+
+* Out of the 50 electoral districts no candidates for election came forward in 1931 for the four in the Revenue District of Jaffna.
+The value of the products of the coconut palm exported in 1930 was Rs. 46,779,594. During the past few years greater attention has been given to the cultivation of coconuts, and large areas of land formerly occupied with cinnamon are now planted in this crop. The value of coacoa exported in 1930 was Rs. 2,936,789 and of cinnamon Rs. 1,779,983.
+
+The chief imports are rice from British India (including Burma), valued at Rs. 70,819,724, and from other countries valued at Rs. 4,744,978, and coal and textiles chiefly from the United Kingdom.
+
+Law and Justice.
+
+The basis of the law is the Roman-Dutch law, much modified by the introduction of English law and by Colonial ordinances. Kandyan law and Muslim law also prevail among Kandyans and Muslims respectively. The criminal law has been codified on the model of the Indian Penal Code, and the codification of the law of Criminal and Civil procedure respectively has been completed.
+
+Justice is administered by the Supreme Court, which has an original criminal jurisdiction and decides appeals from the inferior Courts both in civil and criminal cases; by the Police Courts and Courts of Requests, which dispose, respectively, of minor criminal and civil suits; and by the District Courts, which have a criminal jurisdiction intermediate between that of the Supreme Court and the Police Courts, and a civil jurisdiction in all cases. In addition to these there are the Ganabawas, Village Councils, and Village Tribunals, instituted under the Ordinance No. 9 of 1924, with powers to deal with petty offences and trifling claims. They have worked well and are thoroughly adapted to the genius of the people. Besides settling a considerable amount of litigation, they have provided a valuable machinery for carrying out local improvements. They are empowered to make rules, subject to the approval of the Governor in Council, relating to their village economy, and it is noticeable that in many instances they have not only voluntarily provided school buildings and undertaken the cost of the current expenses and repairs, but have made elementary education compulsory.
+
+Education.
+
+Satisfactory progress is being made in education. The number of scholars in Government schools at the end of 1930 was 220,431, in assisted schools 321,176, and in unaided schools 30,638.
+
+The total expenditure on account of the Education Department in 1929-30 was Rs. 12,060,689-40. In 1868, the number of scholars was only 6,897, and the expenditure Rs. 161,660. The improvement is due to the institution of a Department of Education and the adoption of a system under which the educational wants of the Island are met partly by Government, partly by schools receiving grants in aid from Government. The Government schools are all unsectarian, and no fee is charged for vernacular education; fees are charged for English teaching.
+
+The only Secondary School entirely supported by Government is the Royal College, but there are numerous and excellent Grant-in-aid Secondary Schools. Seven Government scholarships, each of Rs. 300 per annum, five for two years and two for three years, with outfit allowances of Rs. 750 each and free passages, are awarded annually, on the results of the B.A. and B.Sc. Examinations of the University of London, to enable the best seven students of the year to complete their education at English universities.
+
+Industrial education is provided in 75 Government and Grant-in-aid Schools and in a number of Orphanages. A central Technical College was founded in Colombo in 1893; its title has since been changed to "Government Technical Schools."
+
+A University College opened in Colombo in 1921, offers instruction in the following subjects:—English Language and Literature, Classics and Philosophy, Modern History and Economics, Physics, Chemistry, Mathematics, Sanskrit and Pali, Tamil, Sinhalese, Modern Languages, Botany, Zoology, Geography. Students are presented for the External Examinations, Pass and Honours, of the University of London.
+
+A Government Training College for Masters and Mistresses in English Schools and Government Vernacular Schools was opened in 1903.
+
+Medical Institutions.
+
+Medical College.—The Ceylon Medical College was founded in 1870 to provide a course of medical training for the Ceylonese. The curriculum is a full five years' course, and since 1887 the Licence of the College has been recognised by the General Medical Council as a registrable Colonial qualification. The courses of instruction and examinations are also recognised by many of the British Examining Boards. The licence has been conferred upon 488 candidates since the College was opened; of recent years about 18 qualify annually.
+
+There is a Junior or Apothecary Department in which students go through a two years' course, and after passing the prescribed examinations are qualified to serve as Apothecaries and Estate Dispensers.
+
+The College has a staff of over 30 lecturers and is managed by a Council incorporated by law.
+
+There are at present about 200 students.
+
+Owing to changes introduced by the Medical Council of Great Britain, the preliminary subjects, Physics, Chemistry and Biology, are now pre-medical subjects, and arrangements have been made for these to be studied at the University College. Students must pass an examination in these subjects before they can be admitted to the Medical College for their purely medical studies.
+
+The Medical College fees amounted to Rs. 60,343-60 in 1930-31.
+
+There are 93 Government general hospitals providing 7,803 beds, with varying accommodation from 8 beds in smaller outstations to 912 beds in the General Hospital, Colombo.
+
+There are in addition a number of special hospitals, viz., a lying-in-home with 83 beds, an eye hospital (with 56 beds) with an ear, nose and throat clinic attached, a women's hospital with 45 beds, a children's hospital with 82 beds, a women's venereal hospital with 29 beds, a police hospital with 32 beds, a tuberculosis hospital for chronic cases with 349 beds, a tuberculosis sanatorium with 72 beds, an infectious diseases hospital with 163 beds, a lunatic asylum and House of Observation with 1,830 beds, a prison hospital, Colombo, with 192 beds, and 8 other prison hospitals providing 149 beds, two leper asylums, one with 508 beds at Hendala (near Colombo), and the other with 176 beds at Mantivu, Eastern Province.
+
+Eighty-eight estate hospitals and 715 estate dispensaries are maintained by proprietors of estates.
+
+There were 596 Government dispensaries in different parts of the Island in 1930, and 3,810,010 patients who paid 5,815,126 visits were treated at these dispensaries.
+
+There are a bacteriological, a pasteur, a dental, and an anti-tuberculosis Institute, and a vaccine establishment. A division of sanitary engineering...
+BRITISH HONDURAS: CEYLON.
+
+2nd Class Clerk, W. A. Grant, $690 to $906.
+Agricultural Instructor, C. A. Boyd, $720.
+
+Stann Creek Development Board.
+Chairman, The Surveyor General.
+Secretary, W. H. Courtenay, $150.
+
+Industrial School, Pomona, Stann Creek.
+Chairman, Board of Management, The Colonial Secretary.
+Principal, Major E. F. Strachan, O.B.E., M.C., $2,430, and quarters.
+Clerk and Schoolmaster, R. S. Finlayson, $900, and quarters.
+Agricultural Assistant, R. E. Belisle, $900, and quarters.
+Matron, Mrs. R. Strachan, $660.
+
+Foreign Consuls.
+United States, R. M. Ott (Vice-Consul).
+Norway, A. D. P. Williamson.
+Sweden, F. R. Ellis.
+Republic of Honduras, F. Hinestrosa.
+France, D. Masson (Consular Agent).
+Spain, A. D. P. Williamson (Vice-Consul).
+Guatemala, W. R. Yzaguirre (Consul).
+Mexico, V. R. Quijano.
+Belgium, V. L. Bryant (Consul General).
+Nicaragua, R. S. Turton.
+Panama, L. E. Cuevas.
+Netherlands, F. W. Ross.
+Costa Rica, L. E. Cuevas.
+
+Ecclesiastical.
+Church of England, The Right Rev. E. A. Dunn, M.A., D.D.
+Roman Catholic, The Right Rev. J. Murphy, S.J.
+Church of Scotland, Rev. A. E. Adamson.
+Wesleyan - Methodist, The Rev. W. H. Harvey, Superintendent.
+Baptist, The Rev. R. Cleghorn.
+Salvation Army, Adjutant J. S. Austen.
+
+No Church is established, nor are any grants made.
+
+CEYLON.
+
+Situation and Area.
+
+Ceylon, the ancient Taprobane, is an island in the Indian Ocean, off the southern extremity of Hindustan, lying between 5° 55' and 9° 50' N. lat. and 79° 42' and 81° 53' E. long.; its extreme length from north to south, i.e., from Point Palmyra to Dondra Head, is 270 miles; its greatest width 140 miles, from Colombo on the west coast to Sangamankanda on the east. Its area is 25,332 square miles, or about equal to Holland and Belgium.
+
+The Maldives Archipelago, 400 miles south-west of Ceylon, made up of 18 groups—known as atolls—or islets, but for centuries past arranged for administrative purposes in 13 groups, which are sparsely inhabited by a mixed race of probably Aryan original stock, speaking a dialect akin to Elu, or old Sinhalese, is tributary to Ceylon, to which the Sultan sends an embassy annually. The inhabitants of the Archipelago have for nearly eight centuries professed the Mohammedan religion. The islands are covered with coconut palms and yield millet, fruit, and coconut produce. Communication is mainly by native craft with India and Ceylon. The population enumerated at the census 1921 was 70,413, including 137 Indian Borahs, 22 Malabars, and 58 Ceylon Moors who were at Malé Island for purposes of trade; the principal occupations are fishing (14,760 males), coir and lace making (10,799 females and 13 males), toddy drawing (1,273 males), carpentry (1,133 males), and cultivation (853 males and 572 females). Malé, the residence of the Sultan and the capital of the Islands, is a little over 3 miles in circumference.
+
+The Laccadive Islands are under the administration of the Government of India.
+
+Climate.
+
+The climate of Ceylon for a tropical country is comparatively healthy; the heat in the plains, which is nearly the same throughout the year, being much less oppressive than in India.
+
+Along the coast the annual mean temperature is about 80° F., and a noteworthy feature is the smallness of the variation both between day and night in the same twenty-four hours, and between the different parts of the year. At Kandy, 1,654 feet above sea level, the mean temperature is 76° F., and the rule of 1° F. drop in temperature for each 300 feet rise in altitude holds fairly well throughout the island.
+
+At Colombo and Galle the mean monthly temperature in the coldest months (December and January) is less than four degrees below those in the warmest months (April and May), while the mean daily ranges for the year are 12-3° and 7-4° respectively.
+
+At Trincomalee, on the other side of the island, conditions are only slightly more varied. The mean monthly temperature in May (86° F.) is seven degrees above that in December (79° F.), while the mean daily range for the year is 13-7° F.
+
+It must be remembered, however, that the change in the capacity of the air for moisture for each degree of change of temperature in the Ceylon low country is far greater than the corresponding change per degree at the mean temperature of London.
+
+The highest temperatures are experienced in the district to the north of the hills, and to the north-east, but it is only in a very few days in the year that a temperature of 100° Fahr. or over is experienced. Trincomalee holds the record with 103-7° Fahr. In the hills there is of course a great variety of climate, and at Nuwara Eliya, over 6,000 feet above mean sea level, frost is occasionally recorded in the early part of the year.
+
+The annual average rainfall varies from below 40 inches in the dry zones to the north-west and south-east of the Island to above 150 inches at certain places on the south-west slopes of the hills. The chief rainy seasons extend from April to June and from October to January, but as there is a sharp antithesis between the windward and lee side during both monsoons (particularly the S.W.), it is hard to summarise the island as a whole in one sentence. It may fairly be said that there is not a month without some rain, and the result is the luxuriant vegetation for which the island is famous.
+
+History.
+
+The authentic history of the island begins at the sixth century B.C., when an Aryan invasion from the north of India established the Sinhalese dynasty. Buddhism was introduced in the third century B.C., and from that time this faith has been preserved in comparative purity. The island abounds
+2nd Class Clerk, W. A. Grant, $690 to $906.
+Agricultural Instructor, C. A. Boyd, $720.
+
+Stann Creek Development Board.
+Chairman, The Surveyor General.
+Secretary, W. H. Courtenay, $150.
+
+Industrial School, Pomona, Stann Creek.
+Chairman, Board of Management, The Colonial Secretary.
+Principal, Major E. F. Strachan, O.B.E., M.C.,
+$2,430, and quarters.
+Clerk and Schoolmaster, R. S. Finlayson, $900,
+and quarters.
+Agricultural Assistant, R. E. Belisle, $900,
+and quarters.
+Matron, Mrs. R. Strachan, $660.
+
+Foreign Consuls.
+United States, R. M. Ott (Vice-Consul).
+Norway, A. D. P. Williamson.
+Sweden, F. R. Ellis.
+Republic of Honduras, F. Hinestroza.
+France, D. Masson (Consular Agent).
+Spain, A. D. P. Williamson (Vice-Consul).
+Guatemala, W. R. Yzaguirre (Consul).
+Mexico, V. R. Quijano.
+Belgium, V. L. Bryant (Consul General).
+Nicaragua, R. S. Turton.
+Panama, L. E. Cuevas.
+Netherlands, F. W. Ross.
+Costa Rica, L. E. Cuevas.
+
+Ecclesiastical.
+Church of England, The Right Rev. E. A. Dunn,
+M.A., D.D.
+Roman Catholic, The Right Rev. J. Murphy, S.J.
+Church of Scotland, Rev. A. E. Adamson.
+Wesleyan - Methodist, The Rev. W. H. Harvey,
+Superintendent.
+Baptist, The Rev. R. Cleghorn.
+Salvation Army, Adjutant J. S. Austen.
+No Church is established, nor are any grants made.
+
+CEYLON.
+
+Situation and Area.
+
+Ceylon, the ancient Taprobane, is an island in
+the Indian Ocean, off the southern extremity of
+Hindustan, lying between 5° 55' and 9° 50' N. lat.
+and 79° 42' and 81° 53' E. long.; its extreme length
+from north to south, i.e., from Point Palmrya to
+Dondra Head, is 270 miles; its greatest width
+140 miles, from Colombo on the west coast to
+Sangamankanda on the east. Its area is 25,332
+square miles, or about equal to Holland and
+Belgium.
+
+The Maldivé Archipelago, 400 miles south-west of
+Ceylon, made up of 18 groups—known as atolls—or
+islets, but for centuries past arranged for adminis-
+trative purposes in 13 groups, which are sparsely
+inhabited by a mixed race of probably Aryan original
+stock, speaking a dialect akin to Elu, or old Sinhalese,
+is tributary to Ceylon, to which the Sultan sends
+an embassy annually. The inhabitants of the
+Archipelago have for nearly eight centuries professed
+the Mohammedan religion. The islands are covered
+with coconut palms and yield millet, fruit, and
+coconut produce. Communication is mainly by
+native craft with India and Ceylon. The population
+enumerated at the census 1921 was 70,413, including
+137 Indian Borahs, 22 Malabars, and 58 Ceylon
+Moors who were at Malé Island for purposes of trade;
+the principal occupations are fishing (14,760 males),
+coir and lace making (10,799 females and 13 males),
+toddy drawing (1,273 males), carpentry (1,133 males),
+and cultivation (863 males and 572 females). Malé,
+the residence of the Sultan and the capital of the
+Islands, is a little over 3 miles in circumference.
+
+The Laccadive Islands are under the adminis-
+tration of the Government of India.
+
+Climate.
+
+The climate of Ceylon for a tropical country is
+comparatively healthy; the heat in the plains,
+which is nearly the same throughout the year,
+being much less oppressive than in India.
+
+Along the coast the annual mean temperature
+is about 80° F., and a noteworthy feature is the
+smallness of the variation both between day and
+night in the same twenty-four hours, and between
+the different parts of the year. At Kandy, 1,654
+feet above sea level, the mean temperature is
+76° F., and the rule of 1° F. drop in temperature
+for each 300 feet rise in altitude holds fairly well
+throughout the island.
+
+At Colombo and Galle the mean monthly tem-
+perature in the coldest months (December and
+January) is less than four degrees below those in
+the warmest months (April and May), while the
+mean daily ranges for the year are 12-3° and 7-4°
+respectively.
+
+At Trincomalee, on the other side of the island,
+conditions are only slightly more varied. The
+mean monthly temperature in May (86° F.) is
+seven degrees above that in December (79° F.), while
+the mean daily range for the year is 13-7° F.
+
+It must be remembered, however, that the
+change in the capacity of the air for moisture for
+each degree of change of temperature in the Ceylon
+low country is far greater than the corresponding
+change per degree at the mean temperature of
+London.
+
+The highest temperatures are experienced in the
+district to the north of the hills, and to the north-
+east, but it is only in a very few days in the year
+that a temperature of 100° Fahr. or over is ex-
+perienced. Trincomalee holds the record with
+103-7° Fahr. In the hills there is of course a great
+variety of climate, and at Nuwara Eliya, over
+6,000 feet above mean sea level, frost is occasionally
+recorded in the early part of the year.
+
+The annual average rainfall varies from below
+40 inches in the dry zones to the north-west and
+south-east of the Island to above 150 inches at
+certain places on the south-west slopes of the hills.
+The chief rainy seasons extend from April to June
+and from October to January, but as there is a
+sharp antithesis between the windward and lee
+side during both monsoons (particularly the S.W.), it
+is hard to summarise the island as a whole in
+one sentence. It may fairly be said that there is
+not a month without some rain, and the result is
+the luxuriant vegetation for which the island is
+famous.
+
+History.
+
+The authentic history of the island begins at
+the sixth century B.C., when an Aryan invasion
+from the north of India established the Sinhalese
+dynasty. Buddhism was introduced in the third
+century B.C., and from that time this faith has been
+preserved in comparative purity. The island abounds
+2nd Class Clerk, W. A. Grant, $690 to $906.
+Agricultural Instructor, C. A. Boyd, $720.
+
+Stann Creek Development Board.
+Chairman, The Surveyor General.
+Secretary, W. H. Courtenay, $150.
+
+Industrial School, Pomona, Stann Creek.
+Chairman, Board of Management, The Colonial Secretary.
+Principal, Major E. F. Strachan, O.B.E., M.C., $2,430, and quarters.
+Clerk and Schoolmaster, R. S. Finlayson, $900, and quarters.
+Agricultural Assistant, R. E. Belisle, $900, and quarters.
+Matron, Mrs. R. Strachan, $680.
+
+Foreign Consuls.
+United States, R. M. Ott (Vice-Consul).
+Norway, A. D. P. Williamson.
+Sweden, F. B. Ellis.
+Republic of Honduras, F. Hinestroza.
+France, D. Masson (Consular Agent).
+Spain, A. D. P. Williamson (Vice-Consul).
+Guatemala, W. R. Ysaguirre (Consul).
+Mexico, V. R. Quijano.
+Belgium, V. L. Bryant (Consul General).
+Nicaragua, R. S. Turton.
+Panama, L. E. Cuevas.
+Netherlands, F. W. Ross.
+Costa Rica, L. E. Cuevas.
+
+Ecclesiastical.
+Church of England, The Right Rev. E. A. Dunn, M.A., D.D.
+Roman Catholic, The Right Rev. J. Murphy, S.J.
+Church of Scotland, Rev. A. E. Adamson.
+Wesleyan - Methodist, The Rev. W. H. Harvey, Superintendent.
+Baptist, The Rev. R. Cleghorn.
+Salvation Army, Adjutant J. S. Austen.
+
+No Church is established, nor are any grants made.
+
+CEYLON.
+
+Situation and Area.
+
+Ceylon, the ancient Taprobane, is an island in the Indian Ocean, off the southern extremity of Hindustan, lying between 5° 55' and 9° 50' N. lat. and 79° 42' and 81° 53' E. long.; its extreme length from north to south, i.e., from Point Palmyra to Dondra Head, is 270 miles; its greatest width 140 miles, from Colombo on the west coast to Sangamankanda on the east. Its area is 25,332 square miles, or about equal to Holland and Belgium.
+
+The Maldivian Archipelago, 400 miles south-west of Ceylon, made up of 18 groups—known as atolls—or islets, but for centuries past arranged for administrative purposes in 13 groups, which are sparsely inhabited by a mixed race of probably Aryan original stock, speaking a dialect akin to Elu, or old Sinhalese, is tributary to Ceylon, to which the Sultan sends an embassy annually. The inhabitants of the Archipelago have for nearly eight centuries professed the Mohammedan religion. The islands are covered with coconut palms and yield millet, fruit, and coconut produce. Communication is mainly by native craft with India and Ceylon. The population enumerated at the census 1921 was 70,413, including 137 Indian Brahmins, 22 Malabars, and 58 Ceylon Moors who were at Malé Island for purposes of trade; the principal occupations are fishing (14,760 males), coir and lace making (10,799 females and 13 males), toddy drawing (1,273 males), carpentry (1,133 males), and cultivation (653 males and 572 females). Male, the residence of the Sultan and the capital of the Islands, is a little over 3 miles in circumference.
+
+The Laccadive Islands are under the administration of the Government of India.
+
+Climate.
+
+The climate of Ceylon for a tropical country is comparatively healthy; the heat in the plains, which is nearly the same throughout the year, being much less oppressive than in India.
+
+Along the coast the annual mean temperature is about 80° F., and a noteworthy feature is the smallness of the variation both between day and night in the same twenty-four hours, and between the different parts of the year. At Kandy, 1,684 feet above sea level, the mean temperature is 76° F., and the rule of 1° F. drop in temperature for each 300 feet rise in altitude holds fairly well throughout the island.
+
+At Colombo and Galle the mean monthly temperature in the coldest months (December and January) is less than four degrees below those in the warmest months (April and May), while the mean daily ranges for the year are 12-3° and 7-4° respectively.
+
+At Trincomalee, on the other side of the island, conditions are only slightly more varied. The mean monthly temperature in May (86° F.) is seven degrees above that in December (79° F.), while the mean daily range for the year is 13-7° F.
+
+It must be remembered, however, that the change in the capacity of the air for moisture for each degree of change of temperature in the Ceylon low country is far greater than the corresponding change per degree at the mean temperature of London.
+
+The highest temperatures are experienced in the district to the north of the hills, and to the north-east, but it is only in a very few days in the year that a temperature of 100° Fahr. or over is experienced. Trincomalee holds the record with 103-7° Fahr. In the hills there is of course a great variety of climate, and at Nuwara Eliya, over 6,000 feet above mean sea level, frost is occasionally recorded in the early part of the year.
+
+The annual average rainfall varies from below 40 inches in the dry zones to the north-west and south-east of the Island to above 150 inches at certain places on the south-west slopes of the hills. The chief rainy seasons extend from April to June and from October to January, but as there is a sharp antithesis between the windward and lee side during both monsoons (particularly the S.W.), it is hard to summarise the island as a whole in one sentence. It may fairly be said that there is not a month without some rain, and the result is the luxuriant vegetation for which the island is famous.
+
+History.
+
+The authentic history of the island begins at the sixth century B.C., when an Aryan invasion from the north of India established the Sinhalese dynasty. Buddhism was introduced in the third century B.C., and from that time this faith has been preserved in comparative purity. The island abounds
+2nd Class Clerk, W. A. Grant, $890 to $906.
+Agricultural Instructor, C. A. Boyd, $730.
+
+Stann Creek Development Board.
+Chairman, The Surveyor General.
+Secretary, W. H. Courtenay, $150.
+
+Industrial School, Pomona, Stann Creek.
+Chairman, Board of Management, The Colonial Secretary.
+Principal, Major E. F. Strachan, O.B.E., M.C., $2,450, and quarters.
+Clerk and Schoolmaster, R. S. Finlayson, $900, and quarters.
+Agricultural Assistant, R. E. Beliale, $900, and quarters.
+Matron, Mrs. R. Strachan, $660.
+
+Foreign Consuls.
+United States, R. M. Ott (Vice-Consul).
+Norway, A. D. P. Williamson.
+Sweden, F. R. Ellis.
+Republic of Honduras, F. Hinestroza.
+France, D. Masson (Consular Agent).
+Spain, A. D. P. Williamson (Vice-Consul).
+Guatemala, W. R. Yzaguirre (Consul).
+Mexico, V. R. Quijano.
+Belgium, V. L. Bryant (Consul General).
+Nicaragua, R. S. Turton.
+Panama, L. E. Cuevas.
+Netherlands, F. W. Ross.
+Costa Rica, L. E. Cuevas.
+
+Ecclesiastical.
+Church of England, The Right Rev. E. A. Dunn, M.A., D.D.
+Roman Catholic, The Right Rev. J. Murphy, S.J.
+Church of Scotland, Rev. A. E. Adamson.
+Wesleyan - Methodist, The Rev. W. H. Harvey, Superintendent.
+Baptist, The Rev. R. Cleghorn.
+Salvation Army, Adjutant J. S. Austen.
+
+No Church is established, nor are any grants made.
+
+CEYLON.
+
+Situation and Area.
+
+Ceylon, the ancient Taprobane, is an island in the Indian Ocean, off the southern extremity of Hindustan, lying between 5° 55' and 9° 50' N. lat. and 79° 42' and 81° 53' E. long.; its extreme length from north to south, i.e., from Point Palmrya to Dondra Head, is 270 miles; its greatest width 140 miles, from Colombo on the west coast to Sangamankanda on the east. Its area is 25,332 square miles, or about equal to Holland and Belgium.
+
+The Maldivian Archipelago, 400 miles south-west of Ceylon, made up of 18 groups—known as atolls—or islets, but for centuries past arranged for administrative purposes in 13 groups, which are sparsely inhabited by a mixed race of probably Aryan original stock, speaking a dialect akin to Elu, or old Sinhalese, is tributary to Ceylon, to which the Sultan sends an embassy annually. The inhabitants of the Archipelago have for nearly eight centuries professed the Mohammedan religion. The islands are covered with coconut palms and yield millet, fruit, and coconut produce. Communication is mainly by native craft with India and Ceylon. The population enumerated at the census 1921 was 70,413, including 137 Indian Borahs, 22 Malabars, and 58 Ceylon Moors who were at Malé Island for purposes of trade; the principal occupations are fishing (14,760 males), coir and lace making (10,799 females and 13 males), toddy drawing (1,273 males), carpentry (1,133 males), and cultivation (863 males and 572 females). Malé, the residence of the Sultan and the capital of the Islands, is a little over 3 miles in circumference.
+
+The Laccadive Islands are under the administration of the Government of India.
+
+Climate.
+
+The climate of Ceylon for a tropical country is comparatively healthy; the heat in the plains, which is nearly the same throughout the year, being much less oppressive than in India.
+
+Along the coast the annual mean temperature is about 80° F., and a noteworthy feature is the smallness of the variation both between day and night in the same twenty-four hours, and between the different parts of the year. At Kandy, 1,654 feet above sea level, the mean temperature is 76° F., and the rule of 1° F. drop in temperature for each 300 feet rise in altitude holds fairly well throughout the island.
+
+At Colombo and Galle the mean monthly temperature in the coldest months (December and January) is less than four degrees below those in the warmest months (April and May), while the mean daily ranges for the year are 12-3° and 7-4° respectively.
+
+At Trincomalee, on the other side of the island, conditions are only slightly more varied. The mean monthly temperature in May (86° F.) is seven degrees above that in December (79° F.), while the mean daily range for the year is 13-7° F.
+
+It must be remembered, however, that the change in the capacity of the air for moisture for each degree of change of temperature in the Ceylon low country is far greater than the corresponding change per degree at the mean temperature of London.
+
+The highest temperatures are experienced in the district to the north of the hills, and to the north-east, but it is only in a very few days in the year that a temperature of 100° Fahr. or over is experienced. Trincomalee holds the record with 103-7° Fahr. In the hills there is a course of a great variety of climate, and at Nuwara Eliya, over 6,000 feet above mean sea level, frost is occasionally recorded in the early part of the year.
+
+The annual average rainfall varies from below 40 inches in the dry zones to the north-west and south-east of the Island to above 150 inches at certain places on the south-west slopes of the hills. The chief rainy seasons extend from April to June and from October to January, but as there is a sharp antithesis between the windward and lee side during both monsoons (particularly the S.W.), it is hard to summarise the island as a whole in one sentence. It may fairly be said that there is not a month without some rain, and the result is the luxuriant vegetation for which the island is famous.
+
+History.
+
+The authentic history of the island begins at the sixth century B.C., when an Aryan invasion from the north of India established the Sinhalese dynasty. Buddhism was introduced in the third century B.C., and from that time this faith has been preserved in comparative purity. The island abounds
+in interesting relics of antiquity, and in rock inscriptions, which, with the written annals left by the Sinhalese kings, are of peculiar value in revising Indian chronology.
+
+In the sixteenth century the Portuguese formed settlements on the west and south of the island; in the next century they were dispossessed by the Dutch. In 1796 the British took possession of the Dutch settlements in the island, which were then annexed to the Presidency of Madras, but five years later, in 1802, Ceylon was constituted a separate Colony. In 1815 war was declared against the Sinhalese Government of the interior; the last Kandyan King was taken prisoner, and the whole island came under the rule of the British.
+
+**Constitution.**
+
+The Government is administered by a Governor, aided by a State Council consisting of 146 members elected for territorial constituencies, 3 ex-officio members (the Chief Secretary, Legal Secretary, and Financial Secretary) called Officers of State, and 8 members nominated by the Governor. The State Council concerns itself with administration as well as with legislation.
+
+The Departments of Government are divided into ten groups. Three of these groups are in charge of the Chief Secretary, the Legal Secretary, and the Financial Secretary. The remaining seven groups are in charge of Members of the State Council who are elected as Chairmen of the various Executive Committees, and who are styled Ministers. The Ministers with the Officers of State form the Board of Ministers.
+
+All Ceylonese, both male and female, of a minimum age of 21, are included in the franchise. British subjects not domiciled in Ceylon are allowed to qualify for the franchise in accordance with the hitherto existing Constitution, or on their furnishing satisfactory evidence of five years' residence and a declaration of permanent settlement in the Island.
+
+**Population, Area, and Statistics.**
+
+According to the decennial census taken in 1921 the population was 5,312,648 an increase of 17.94 per cent. on the population enumerated in 1921. The details of the population were as follows (including the military, shipping, estates, and miscellaneous):
+
+| Province                  | Population |
+|---------------------------|------------|
+| Western Province          | 1,448,648  |
+| Central ditto             | 953,395    |
+| Southern ditto            | 771,283    |
+| Northern ditto            | 399,094    |
+| Eastern ditto             | 213,980    |
+| North-Western Province    | 546,988    |
+| North-Central ditto       | 97,365     |
+| Province of Uva           | 303,419    |
+| Provinces of Sabaragamuwa | 578,368    |
+| Miscellaneous             | 8          |
+| **Total**                 | **5,312,648** |
+
+The population of the principal towns, exclusive of the Military and the Shipping, was as follows:
+
+- Colombo, 284,155; Dehiwala-Mount Lavinia, 34,288; Negombo, 25,291; Moratuwa, 32,409; Kalutara, 14,280; Kandy, 37,147; Jaffna, 45,708; Galle, 38,424; Matara, 18,893; Batticaloa, 11,585; Trincomalee, 10,160; Kurunegala, 10,467; Badulla, 9,849.
+
+The number of Indian coolies on the tea estates, etc., was about 700,000. They are under no indentures, and are free to quit on giving a month's notice.
+
+The entire area of the Island is 25,332 square miles. About one quarter of this area, after deducting backwaters, etc., is under cultivation. Some 4,000 square miles in the centre form the mountain zone with an altitude of from 1,500 to 8,262 feet above sea level. The approximate acreages under the most important products are:
+
+| Product       | Acres   |
+|---------------|---------|
+| Coconuts      | 1,100,000 |
+| Rice          | 800,000  |
+| Tea           | 457,000  |
+| Grain (other than Rice) | 105,000 |
+| Rubber        | 534,000  |
+| Cinnamon      | 26,000   |
+| Cacao         | 34,000   |
+| Tobacco       | 14,000   |
+
+At the end of 1930, the number of plumbago mines reported to be working was 52. The amount of plumbago exported during the year was 174,478 cwts., valued at rs. 1,776,317.
+
+The minimum upset price of Crown land is rs. 16 to 20 per acre. 12,818 acres were granted and sold by the Revenue officers in 1930.
+
+The revenue is principally derived from Customs Duties, Land Sales, Licences (under which head is entered the amount realised by the sale of Arrack and Toddy Rents), Salt (which is a Government monopoly), Stamps, and Railway Receipts. The revenue from the sale of salt for the financial year 1929-30 was rs. 1,961,875. This is local salt worked by the Government, but the importation of foreign salt is allowed on an import duty of rs. 4 per cwt.
+
+The local revenues raised by the Municipalities of Colombo, Kandy and Galle, by the Provincial and District Road Committees, by the Local Boards of Health and Improvement and Urban District Councils which have been established in the towns of Kalutara, Panadure, Negombo, Minuwangoda, Dehiwala-Mount Lavinia, Gampola, Nuwara Eliya, Matale, Nawalapitiya, Hatton-Dickoya, Matara, Batticaloa, Trincomalee, Kurunegala, Puttalam, Chilaw, Anuradhapura, Badulla, Bandarawela, Ratnapura, Kegalla, Moratuwa, and Jaffna, and by Village Committees amounted in 1930 to rs. 14,557,207-37. The revenue collected by the Sanitary Boards amounted to rs. 1,014,493-34.
+
+The municipal debt outstanding on 31st Dec. 1930, was rs. 13,524,672-10. Of this amount rs. 9,833,562-10 is the balance of the loan borrowed from the Government for the Colombo Drainage Works, and rs. 2,664,204-83 for Water Works. Rs. 428,521-85 is the balance of loans obtained by the municipality of Galle for the construction of waterworks, sanitary improvements and electric lighting, and rs. 600,883-32 is the balance of the loans due from the municipality of Kandy for water-works, drainage, housing and electric lighting.
+
+The development of the tea industry is shown by the following statistics:—Export, 1884, 2,392,963 lbs.; 1900, 149,264,802 lbs.; 1930, 243,107,474 lbs.
+
+There has been a remarkable development in rubber cultivation in recent years. Rubber was first brought to Ceylon in 1876, and its growth proved successful. In 1898, 750 acres were estimated to be planted with rubber, in 1906, 100,000 acres, and in 1930 about 634,000 acres.
+The value of the products of the coconut palm exported in 1930 was Rs. 46,779,594. During the past few years greater attention has been given to the cultivation of coconuts, and large areas of land formerly occupied with cinnamon are now planted in this crop. The value of cacao exported in 1930 was Rs. 2,936,789 and of cinnamon Rs. 1,779,983.
+
+The chief imports are rice from British India (including Burma), valued at Rs. 70,819,724, and from other countries valued at Rs. 4,744,978, and coal and textiles chiefly from the United Kingdom.
+
+Law and Justice.
+
+The basis of the law is the Roman-Dutch law, much modified by the introduction of English law and by Colonial ordinances. Kandyan law and Muslim law also prevail among Kandyans and Muslims respectively. The criminal law has been codified on the model of the Indian Penal Code, and the codification of the law of Criminal and Civil procedure respectively has been completed.
+
+Justice is administered by the Supreme Court, which has an original criminal jurisdiction and decides appeals from the inferior Courts both in civil and criminal cases; by the Police Courts and Courts of Requests, which dispose, respectively, of minor criminal and civil suits; and by the District Courts, which have a criminal jurisdiction intermediate between that of the Supreme Court and the Police Courts, and a civil jurisdiction in all cases. In addition to these there are the Ganabawas, Village Councils, and Village Tribunals, instituted under the Ordinance No. 9 of 1924, with powers to deal with petty offences and trifling claims. They have worked well and are thoroughly adapted to the genius of the people. Besides settling a considerable amount of litigation, they have provided a valuable machinery for carrying out local improvements. They are empowered to make rules, subject to the approval of the Governor in Council, relating to their village economy, and it is noticeable that in many instances they have not only voluntarily provided school buildings and undertaken the cost of the current expenses and repairs, but have made elementary education compulsory.
+
+Education.
+
+Satisfactory progress is being made in education. The number of scholars in Government schools at the end of 1930 was 220,431, in assisted schools 321,176, and in unaided schools 30,638.
+
+The total expenditure on account of the Education Department in 1929-30 was Rs. 12,050,889-40. In 1868, the number of scholars was only 6,897, and the expenditure Rs. 161,660. The improvement is due to the institution of a Department of Education and the adoption of a system under which the educational wants of the Island are met partly by Government, partly by schools receiving grants in aid from Government. The Government schools are all unsectarian, and no fee is charged for vernacular education; fees are charged for English teaching.
+
+The only Secondary School entirely supported by Government is the Royal College, but there are numerous and excellent Grant-in-aid Secondary Schools. Seven Government scholarships, each of £300 per annum, five for two years and two for three years, with outfit allowances of Rs. 750 each and free passages, are awarded annually, on the results of the B.A. and B.Sc. Examinations of the University of London, to enable the best seven students of the year to complete their education at English universities.
+
+Industrial education is provided in 75 Government and Grant-in-aid Schools and in a number of Orphanages. A central Technical College was founded in Colombo in 1893; its title has since been changed to "Government Technical Schools."
+
+A University College opened in Colombo in 1921, offers instruction in the following subjects—English Language and Literature, Classics and Philosophy, Modern History and Economics, Physics, Chemistry, Mathematics, Sanskrit and Pali, Tamil, Sinhalese, Modern Languages, Botany, Zoology, Geography. Students are presented for the External Examinations, Pass and Honours, of the University of London.
+
+A Government Training College for Masters and Mistresses in English Schools and Government Vernacular Schools was opened in 1903.
+
+Medical Institutions.
+
+Medical College.—The Ceylon Medical College was founded in 1870 to provide a course of Medical training for the Ceylonese. The curriculum is a full five years' course, and since 1887 the Licence of the College has been recognised by the General Medical Council as a registrable Colonial qualification. The courses of instruction and examinations are also recognised by many of the British Examining Boards. The licence has been conferred upon 488 candidates since the College was opened; of recent years about 18 qualify annually.
+
+There is a Junior or Apothecary Department in which students go through a two years' course, and after passing the prescribed examinations are qualified to serve as Apothecaries and Estate Dispensers.
+
+The College has a staff of over 30 lecturers and is managed by a Council incorporated by law.
+
+There are at present about 200 students.
+
+Owing to changes introduced by the Medical Council of Great Britain, the preliminary subjects, Physics, Chemistry and Biology, are now pre-medical subjects, and arrangements have been made for these to be studied at the University College. Students must pass an examination in these subjects before they can be admitted to the Medical College for their purely medical studies.
+
+The Medical College fees amounted to Rs. 60,343-50 in 1930-31.
+
+There are 93 Government general hospitals providing 7,803 beds, with varying accommodation from 8 beds in smaller outstations to 912 beds in the General Hospital, Colombo.
+
+There are in addition a number of special hospitals, viz., a lying-in-home with 83 beds, an eye hospital (with 56 beds) with an ear, nose and throat clinic attached, a women's hospital with 48 beds, a children's hospital with 82 beds, a women's venereal hospital with 29 beds, a police hospital with 32 beds, a tuberculosis hospital for chronic cases with 349 beds, a tuberculosis sanatorium with 72 beds, an infectious diseases hospital with 168 beds, a lunatic asylum and House of Observation with 1,830 beds, a prison hospital, Colombo, with 192 beds, and 8 other prison hospitals providing 149 beds, two leper asylums, one with 508 beds at Handala (near Colombo), and the other with 176 beds at Mantivu, Eastern Province.
+
+Eighty-eight estate hospitals and 715 estate dispensaries are maintained by proprietors of estates.
+
+There were 595 Government dispensaries in different parts of the Island in 1930, and 3,810,010 patients who paid 5,815,125 visits were treated at these dispensaries.
+
+There are a bacteriological, a pasteur, a dental, and an anti-tuberculosis Institute, and a vaccine establishment. A division of sanitary engineering...
+and a division of health education are recent developments. Campaigns are carried on against malaria, ankylostomiasis and parangi. Estate sanitation is looked after by six inspecting medical officers. Seven health units have been established since 1926 and health work on intensive lines is carried on at these centres. School hygiene work is carried out throughout the Island by five school medical officers.
+
+In the Department of Medical and Sanitary Services are 321 medical officers, of whom 200 possess British qualifications, 29 medical officers of health, 334 apothecaries, and 254 sanitary inspectors. There are three institutions where nurses are trained. The nursing staff of the Department consists of 39 European qualified matrons and sisters, 116 European Roman Catholic mothers and sisters, 398 matrons and nurses trained locally, and pupils in training.
+
+The cost of working the department amounted in 1929-30 to Rs. 10,669,279-01. The receipts, which included the cost of maintenance of paying patients, sale of medicines, etc., amounted to Rs. 848,412-36 for 1929-30. The expenditure on account of medical aid was Rs. 1,236,111-27 for 1929-30. The export duty levied for the purpose of meeting the expense of providing Medical aid to estates under the Medical Wards Ordinance No. 9 of 1912 amounted to Rs. 1,715,756-19 for 1929-30.
+
+Currency and Banking.
+
+The weights and measures in common use are British.
+
+Accounts are kept in rupees, and the money in circulation is Indian and Ceylon rupee currency, sovereigns having ceased to be legal tender in the Colony in 1920. Ceylon cents take the place of the Indian annas and pice. The notes of the Chartered Mercantile Bank remained in circulation to some extent until 1888, when its charter expired, but since the failure of the Oriental Banking Corporation in 1884, the Government has instituted a note-issue of which the amount in circulation on the 31st December, 1930, was Rs. 57,209,324. These notes are legal tender except at the Colombo Issue Office.
+
+The following banks have establishments in the Colony: Mercantile Bank of India, Limited; Chartered Bank of India, Australia, and China; Hong Kong and Shanghai Banking Corporation; Imperial Bank of India; National Bank of India, Limited; Eastern Bank, Limited; P. & O. Banking Corporation, Ltd. None of these issues notes in Ceylon.
+
+The Ceylon Savings Bank was established in 1832, and Post Office savings banks were opened in 1885. On 31st December, 1930, the deposits were: Ceylon Savings Bank, Rs. 7,872,555; Post Office Savings Bank, Rs. 12,262,136.
+
+The Colombo Harbour.
+
+The Colombo Port Commission was established in 1913 to administer the affairs of the Port of Colombo. The Commission is responsible for the efficient working of the Port, and has powers of executive action and initiative. It is composed of seven official members, seven unofficial members, and a secretary. The official members are the Principal Collector of Customs (Chairman), the Director of Medical and Sanitary Services, the General Manager of the Railway, the Chairman, Municipal Council, and Mayor of Colombo, the Deputy Collector of Customs, Colombo, the Master Attendant, Colombo and Galle, and the Harbour Engineer. Six of the unofficial members are nominated by the Ceylon Chamber of Commerce, and the seventh (representative of the Ceylonese and Indian interests of the Port) by the Governor.
+
+The Harbour Works consist of three breakwaters. The South-West, completed in 1885 at a cost of Rs. 688,409, is 4,212 feet long, and runs from the shore in a direction North by East. It is built of concrete blocks weighing from 18 to 30 tons, set in what is known as the sloping bond system.
+
+The North-East and North-West breakwaters were completed in 1906, at a total cost of Rs. 631,657. The North-East breakwater is a rubble embankment 1,100 feet long, tipped from a staging.
+
+The North-West breakwater is an island work, 2,670 feet in length, running between the two shore breakwaters, leaving a western entrance of 750 feet, and a northern entrance of 700 feet. This breakwater is of similar construction to the South-West arm.
+
+These three breakwaters enclose an area of 643 acres, or one square mile.
+
+An extension of the S.W. breakwater, starting from a point 3,150 feet from the shore end, was commenced in December, 1907, and completed in April, 1912. The arm is 1,800 feet long, and runs in a direction almost due north, protecting the present main entrance from the S.W. Monsoon seas. The cost of this additional arm was Rs. 338,931.
+
+The Graving Dock. A Graving Dock was completed in 1906. It is 723 feet long, 85 feet wide at the entrance, and has a depth over the sill of 30 feet at low water. Its cost was Rs. 465,756. There is also a guide pier, 800 feet long, to assist vessels entering the dock. The dock has its own electric light installation. The docking of ships can be carried out by day or night.
+
+The Patent Slip was opened in 1903, the cost being Rs. 42,300. It is 800 feet long, the cradle being 220 feet, and is capable of dealing with vessels up to 1,200 tons dead weight.
+
+Oil Facilities. The Oil Installations Depot, which is about 92 acres in extent, lies 3½ miles inland from the harbour front. The Oil Companies' storage tanks are situated within this area, with pipe line connection from the harbour for fuel oil, kerosene, and benzine imported in bulk. There is also a Measuring Tanks Depot (about 19 acres in extent) at Bloemendal, about three-quarters of a mile from the Harbour. Three reinforced concrete jetties, two for bunkering purposes and one for the discharge of oil tankers, have been provided. The Outer Bunkering Jetty can accommodate vessels of 500 feet in length with a draught of 27 feet; the Inner Bunkering Jetty is available for barges. The Discharge Jetty can accommodate vessels 500 feet in length with a draught of 27 feet. The expenditure on the oil scheme up to 30th September, 1930, was Rs. 5,026,906.
+
+The Coal Depot consists of 25 acres of land reclaimed from the sea, with a frontage of 2,300 feet, from which 17 jetties project into the harbour for the landing, stacking, and shipping of coal. The total cost of this depot was Rs. 138,433.
+
+The total cost of the Reclamation and Jetties amounts to Rs. 214,227.
+
+The Fishery Harbour is to the northward of Colombo harbour for the use of the fishermen as a beaching ground. The fishery harbour consists of a rubble breakwater running out from the shore in a curve for 800 feet, the sheltered part forming a natural beaching ground for fishing canoes. The cost was Rs. 11,507.
+
+The total expenditure on the Colombo harbour from 1873, when work in connection with the first breakwater was commenced, to 1913, when the Colombo Port Commission assumed control of the harbour, was Rs. 44,790,967, or Rs. 2,964,018, taking the value of the rupee at Is. 4d.
+
+In the period 1913 to 1930 a sum of Rs. 39,474,251 or Rs. 2,631,617, has been spent on various development and maintenance works by the Colombo Port Commission and a sum of Rs. 2,603,045 or Rs. 173,536, by
+the Public Works Department, making a total of Rs. 42,077,296 or 2,805,153l. In addition to the above expenditure a sum of Rs. 660,062 or 44,004l. was charged to Loan Funds during the period 1922-1926, in connection with the dredging of the Colombo Harbour (including rock excavation). Prior to 1st October, 1922, this expenditure was met from Revenue, and is included in the sum of Rs. 42,077,296 or 2,805,153l., mentioned above.
+
+Since the Colombo Port Commission assumed control of the Port, many improvements have been carried out, and shore facilities much increased. The warehouse accommodation in 1913 was 291,600 sq. ft., and this has been increased to 592,476 sq. ft.; similarly the quayage for lighters has been increased from 4,645 lineal ft. to 14,043 lineal feet, including 1,278 lineal feet at the Lake to Harbour Canal Quay.
+
+Dredging for deepening the harbour has been steadily carried out, and, of the 843 acres low water area of the harbour, 186 acres are now dredged to 36 feet and over, 102 acres to between 36 and 33 feet, 147 acres to between 33 and 30 feet, and 208 acres have a depth of less than 30 feet; berthing accommodation exclusive of the Graving Dock Guide Pier and Oil Jetties being available for 36 vessels in the north-east monsoon and for 23, or, if packed berths are used, 40, vessels in the south-west monsoon, six of which berths in either monsoon are available for vessels of draughts up to 33 feet.
+
+A scheme for the development of the Colombo Lake and its connection to the Harbour was completed in 1926 at a total cost of Rs. 9,206,490. The total capital expenditure on the Lake Scheme up to September, 1930, was Rs. 10,048,032. The connection to the Harbour was taken over by the Colombo Port Commission in 1922, and the areas on both sides developed for the landing of import cargoes.
+
+The maintenance of the waterways and quay walls of the Colombo Lake up to and including the operation of the San Sebastian Canal Locks and pumping plant has now been taken over, and it is hoped that this will lead to further development of its resources.
+
+**Colombo Water Supply.**
+
+The Colombo Water supply is obtained from Labugama Reservoir which is situated in the Western Province, at a distance of 28½ miles from the City. The Reservoir was formed by impounding the water of the Wak-Oya, a tributary of the Kelani Ganga.
+
+The Catchment area, which is 2,500 acres in extent, is free from any habitation or cultivation, all the land to the summit of the water shed having been reserved together with a strip two chains in depth along the adjacent water sheds.
+
+The area of the reservoir at present top water level is 205 acres. This lake, the scenery of which is very charming, is 373 feet above sea level and has a maximum depth of 70 feet.
+
+The storage capacity of the reservoir is 1,900 million gallons.
+
+Filtration works of the "Jewell Gravity" type are situated immediately below the Reservoir Dam.
+
+The water has a very low alkalinity and is remarkably pure. It is conveyed to the two service Reservoirs in Colombo through three separate pipe lines; two of these are of cast iron each 20 inches in diameter, and the other of steel 30 inches in diameter.
+
+The 20-inch supply main was duplicated between Wellampitiya and Eli House Reservoir (a distance of 4 miles) during the latter part of 1930.
+
+There are some 250 miles of supply and distribution mains, varying in size from 30 to 3 inches in diameter. Water service is available to all premises within the City and also to shipping in Colombo Harbour.
+
+68 Deacon metres for the detection of waste have been fixed throughout the City.
+
+The average daily consumption is 11 million gallons, or 36 gallons per head of population.
+
+**Railways.**
+
+The lines of railway, all of which are owned and worked by the Government, are distributed thus:— Broad Gauge (5ft. 6 in.), Colombo to Badulla (18¼ miles), Polgahawela to Kankesanturai (21¾ miles), Peradeniya Junction to Kandy and Matale (21¾ miles), Ragama Junction to Mahara Quarry (1¾ miles), Colombo to Matara (9¾ miles), Ragama to Puttalam (7¾ miles), Maho to Batticaloa (132 miles), Galoya Junction to Trincomalee (43¾ miles), Madawachi to Talaimannar Pier (66 miles), Kolonnawa Oil Line and Harbour Branch (3¼ miles).
+
+Narrow Gauge (2ft. 6 in.), Colombo Fort to Yatiyota (4¾ miles), Avissawella to Opanaike (4¾ miles), Nanu Oya to Ragalla (1¾ miles). Total Mileage 951 miles. The total cost of construction up to 30th September, 1930, charged in account was Rs. 220,522,956. The receipts for the 12 months ended 30th September, 1930, were Rs. 29,660,683, and expenditure Rs. 25,085,120.
+
+By the completion of the Talaimannar extension the railway systems of India and Ceylon were brought within 20 miles of one another, the intervening distance being covered by steamers of the South Indian Railway Co., which ply between Dhanusakodi (the Indian Port) and Talaimannar (the Ceylon Port). The other extensions are for the better transport of planting produce (tea, rubber, coconuts, etc.).
+
+**Roads.**
+
+Of metallised roads there are 4,130 miles; gravelled and natural roads, 503 and 132 miles respectively. The maintenance of 4,765 miles of road cost, in 1930, Rs. 7,937,350 or an average rate of Rs. 1,529 per mile. This is exclusive of roads within municipal limits, and of minor roads which are not in the charge of the Department of Public Works.
+
+**Telephones.**
+
+The Government Telephone System comprises two exchanges at Colombo, viz., Central Exchange (2,848 subscribers) and Havelock Town Exchange (384 subscribers) in trunk communication with exchanges at Kandy (195 subscribers), Nuwara Eliya (146 subscribers), Galle (106 subscribers) and 179 smaller exchanges and call offices. There are, in addition, 73 licensed private systems of various sizes, several of which are connected by means of junction lines and subsidiary trunks with one another and the main trunk lines. The mileage of telephone wire in the Government system at the end of 1930 was estimated at 12,220* (aerial) and 31,632 (underground).
+
+**Telegraphs.**
+
+Nearly all parts of the island are served by the Government telegraph system, which has 296 offices working, inclusive of Railway offices open for postal telegrams. The system comprises 3,472 miles of line and 9,186† miles of wire. Ceylon is in direct telegraphic communication with India by a cable which starts from Talaimannar and crosses the Pamban Channel. It is also connected with Europe by direct cables from Colombo to Aden and with the Far East and Australia by direct cables to Penang.
+
+There is a Government Radio Station in Colombo equipped for Continuous Wave and Interrupted Continuous Wave telegraphic services, and also for telephony.
+
+* Mileage of Trunk and Junction lines is included in this figure.
+† Mileage of Trunk and Junction lines is included under telephone wire (aerial).
+The Continuous Wave service is conducted on a wave length of 2,300 metres with a normal daylight range of 1,000 miles.
+
+The Interrupted Continuous Wave Service is conducted on the 600 metre wave length, and has a normal daylight range of 500 miles.
+
+The telephonic equipment is for providing a broadcasting service on a wavelength of 428½ metres. The rating of the set for telephony is 2 kilowatts. The number of licence holders at the end of August, 1931, was 1,258.
+
+Postal and Shipping Communications.
+
+1. There is a regular fortnightly mail service between London and Colombo by the P. & O. steamers continuing to Australia. There is also a regular fortnightly mail service by the Orient line steamers continuing to Australia, except from April to September, when it is monthly. The Aberdeen and Dominion line provides a monthly service from Colombo to Australia.
+
+2. There are also fortnightly services by the P. & O. line between London and Japan, and London and Australia, via Colombo. There is also a fortnightly service by the Orient line between London and Australia, via Colombo, except from April to September, when it is monthly.
+
+A direct weekly mail service from London to Australia, and vice versa, from April to September has been made possible by the P. & O. branch line of steamers being utilized during this period.
+
+The regular weekly mails despatched by the P. & O. and Orient Line mail steamers connect with the Australian Air Mail Services.
+
+3. The M.M. Co. runs a fortnightly mail service between Marseilles and the Straits and Japan, via Colombo.
+
+4. The Nippon Yusen Kaisha line of steamers maintains a fortnightly service between Liverpool and Marseilles and the Straits, China and Japan, via Colombo, and the Bibby line between Liverpool and Marseilles, Port Said and Rangoon, via Colombo.
+
+5. The Natal Direct line and the Indian and African line maintain a somewhat irregular monthly service between Calcutta and Durban, Delagoa Bay and Cape Town, via Colombo, while a monthly service by the steamers of the Osan Shosen Kaisha exists between Japan and Argentine and Brazil, via Colombo, Durban and Cape Town. There is also a monthly service by steamers of Osan Shosen Kaisha (African Line) between Japan and Dar-es-Salaam via Colombo.
+
+6. The steamers of the Rotterdam Lloyd and Stoomvaart-Maatschappij Nederland provide a fortnightly service between Holland and Java, via Colombo. The steamers of the Rotterdam Lloyd also provide a fortnightly service from Java to Holland, via Colombo.
+
+7. The British Indian Steam Navigation Company maintains an irregular monthly service between Calcutta (or Rangoon) and Mauritius, via Colombo, and a regular bi-weekly service between Tuticorin and Colombo.
+
+8. There is an irregular mail service between Ceylon and the Maldives Islands by buggalows.
+
+9. The mail service between England and Colombo takes from 16 days to 18 days in transit at present.
+
+Rates of Postage.
+
+| Letters | Post Cards | Printed Matter | Registered Newspapers | Samples | Registration Fee |
+|---------|------------|----------------|----------------------|---------|-----------------|
+| Within the Colony and to India | Per 2 oz. 6 cents | Each 3 cents | Per 2 oz. 3 cents | 2 cents. for every copy not exceeding 8 oz., 2 cents. for every additional 8 oz. | — | 15 cents |
+| To the United Kingdom and British Dominions | 9 cents for each oz. or part thereof | 6 cents | 3 cents for every 2 oz. or part thereof. | Same as printed matter. | First 4 oz. or part thereof 8 cents and every additional 3 oz. 4 cents. | 20 cents |
+| To Foreign Countries | First oz. 20 cents and 10 cents each additional oz. or part thereof | 12 cents | 4 cents for every 2 oz. or part thereof. | ditto | First 4 oz. or part thereof 8 cents and every additional 3 oz. 4 cents. | ditto |
+
+The rate of postage on periodicals registered as newspapers in the United Kingdom or a British Colony other than Ceylon, when posted in Ceylon for transmission by inland post, shall be 6 cents for 6 oz., with 3 cents for each additional 6 oz., up to a maximum of 2 lb.
+
+Air Mails.
+
+10. A regular weekly air mail service operates between Karachi and London, and air mails from Ceylon are despatched by this route to the United Kingdom, Continent of Europe, Egypt, Palestine, Iraq, and Persia; the gain in time by the use of the air service to these countries over ordinary means of transport is 7 days in the case of correspondence addressed to the United Kingdom and 3 to 5 days in regard to other countries. Air mails are sent to the United States, Australia, and Dutch East Indies by the regular weekly mail steamers to the ports of call of these countries for despatch onwards by their internal air routes; the gain in time obtained by the use of these air routes varies from 3 to 7 days. Air mail correspondence to countries in South America can also be forwarded by the regular weekly despatches to Marseilles and secure an earlier delivery up to 12 to 13 days at destination. A fortnightly air despatch is made to Kenya, Uganda, and Tanganyika by the Karachi-Mwanza air route; this despatch provides with the ordinary fortnightly mail a weekly despatch to these countries.
+### Particulars of air routes available, countries served, and fees payable are shown below:
+
+| Country of Destination | Air Route Available | Air Fee (additional to Ordinary Postage, Express, Late, or Registration Fee) |
+|------------------------|---------------------|--------------------------------------------------------------------------------|
+| United Kingdom         | Karachi-London       | 40 cents per ½ oz.                                                            |
+| United Kingdom         | Marseilles-London    | 20 cents per 1 oz.                                                           |
+| Egypt or Palestine     | Karachi-London       | 25 cents per ½ oz.                                                           |
+| Iraq                   | Karachi-London       | 20 cents per ½ oz.                                                           |
+| Baluchistan            | Karachi-London       | 6 cents per ½ oz.                                                            |
+| Persia (Gulf Porta, Jask, Lingah, Bushire) | Karachi-London and Persian Internal Service | 25 cents per ½ oz. |
+| Persia (Interior of)   | Persian Internal Service | 12 cents per ½ oz. |
+| United States          | New York-Dallas      | 25 cents per ½ oz.                                                           |
+| United States          | New York-San Francisco | 25 cents per ½ oz. |
+| Australia-West         | Perth-Derby          | 20 cents per ½ oz.                                                           |
+| Australia-South        | Perth-Adelaide       | 20 cents per ½ oz.                                                           |
+| Australia-East         | Charleville-Camooweal | 20 cents per ½ oz. |
+| New Zealand            | Perth-Adelaide       | 20 cents per ½ oz.                                                           |
+| Fiji                   | Perth-Adelaide       | 20 cents per ½ oz.                                                           |
+| Brazil                 | Marseilles-Buenos Aires | Rs. 3.30 per ½ oz. for letters and postcards, Rs. 2.85 per 2 oz. for other articles. |
+| Paraguay, Uruguay, Argentine Republic | Marseilles-Buenos Aires | Rs. 3.90 per ½ oz. for letters and postcards, Rs. 3.30 per 2 oz. for other articles. |
+| France, Belgium, Holland, Germany, Switzerland, Austria, Hungary, Czechoslovakia and other countries in Europe | Karachi-London | 40 cents per ½ oz. |
+| Dutch East Indies      | Medan-Bandoeng       | 20 cents per ½ oz.                                                           |
+| Dutch East Indies      | Medan-Soerabaya      | 20 cents per ½ oz.                                                           |
+| Kenya and Uganda       | Karachi-Kisumu       | 60 cents per ½ oz.                                                           |
+| Tanganyika             | Karachi-Mwanza       | 60 cents per ½ oz.                                                           |
+
+### Finances, Shipping and Trade.
+
+#### Finances.
+
+| Year | Revenue | Expenditure | Total |
+|------|---------|-------------|-------|
+| 1921 | 79,270,117 | 77,359,068 | 9,342,201 |
+| 1922 | 93,720,169 | 85,583,910 | 10,309,396 |
+| 1923 | 102,363,116 | 100,695,713 | 11,553,118 |
+| 1924 | 115,539,670 | 105,004,348 | 12,026,497 |
+| 1925 | 124,516,155 | 109,996,336 | 12,381,078 |
+| 1926 | 129,358,916 | 121,046,300 | 13,152,220 |
+| 1927 | 134,184,958 | 152,107,200 | 13,302,635 |
+| 1928 | 107,818,275 | 125,896,034 | 14,050,570 |
+| 1929 | 110,926,863 | 110,275,529 | 14,362,844 |
+| 1930 | 110,926,863 | 110,275,529 | 14,362,844 |
+
+#### Public Debt, on 30th Sept., 1929. Sterling debt, £12,614,193 8s. 4d.; rupee debt, Rs.3,000,000.
+
+#### Imports.
+
+| Year | From U.K. | From Colonies | From Elsewhere | Total |
+|------|-----------|---------------|----------------|-------|
+| 1921 | 65,438,017 | 154,351,908 | 41,127,146 | 260,897,161 |
+| 1922 | 62,078,676 | 169,065,994 | 49,701,428 | 221,845,098 |
+| 1923 | 63,566,230 | 173,383,779 | 55,849,775 | 222,199,784 |
+| 1924 | 69,448,553 | 173,769,871 | 69,110,043 | 312,328,467 |
+| 1925 | 84,757,656 | 202,663,315 | 72,959,346 | 360,380,317 |
+| 1926 | 95,134,287 | 214,101,740 | 98,631,082 | 407,867,109 |
+| 1927 | 95,276,844 | 221,006,317 | 104,843,415 | 421,127,976 |
+| 1928 | 93,033,890 | 202,723,824 | 116,361,925 | 412,118,639 |
+| 1929 | 90,470,077 | 220,246,102 | 118,579,144 | 429,295,323 |
+| 1930 | 63,619,104 | 169,550,768 | 91,186,641 | 324,356,513 |
+
+#### Exports.
+
+| Year | To U.K. | To Colonies | To Elsewhere | Total |
+|------|---------|-------------|--------------|-------|
+| 1921 | Rs. 118,597,199 | Rs. 42,031,778 | Rs. 95,971,441 | Rs. 256,600,413 |
+| 1922 | Rs. 137,770,062 | Rs. 48,732,999 | Rs. 111,280,454 | Rs. 297,783,415 |
+| 1923 | Rs. 163,705,410 | Rs. 59,879,673 | Rs. 127,613,665 | Rs. 351,198,748 |
+| 1924 | Rs. 172,322,283 | Rs. 70,315,154 | Rs. 142,879,981 | Rs. 385,517,418 |
+| 1925 | Rs. 188,592,160 | Rs. 74,833,372 | Rs. 229,640,898 | Rs. 492,616,430 |
+| 1926 | Rs. 206,323,308 | Rs. 71,001,879 | Rs. 224,323,203 | Rs. 503,648,990 |
+| 1927 | Rs. 187,007,550 | Rs. 76,948,475 | Rs. 185,820,719 | Rs. 449,773,744 |
+| 1928 | Rs. 158,479,303 | Rs. 75,514,903 | Rs. 163,576,729 | Rs. 392,569,975 |
+| 1929 | Rs. 161,760,813 | Rs. 85,775,810 | Rs. 160,286,687 | Rs. 407,823,310 |
+| 1930 | Rs. 136,800,233 | Rs. 64,853,144 | Rs. 108,517,786 | Rs. 310,171,163 |
+
+The total customs revenue in 1929-30 was Rs. 51,497,504.
+
+#### List of Governors.
+
+1850 Sir George William Anderson, K.C.B.
+1855 Sir Henry George Ward, K.C.M.G.
+1860 Sir C. J. MacCarthy, Kt.
+1863 Major-Gen. Terence O'Brien (acting).
+1865 Sir Hercules G. R. Robinson, K.C.M.G.
+1872 The Rt. Hon. Sir W. H. Gregory, K.C.M.G.
+1877 Sir James R. Longden, K.C.M.G.
+1883 The Hon. Sir Arthur H. Gordon, G.C.M.G. (afterwards Lord Stanmore).
+1890 Sir Arthur E. Havelock, G.C.M.G.
+1896 Right Hon. Sir J. West Ridgeway, G.C.M.G., K.C.B., K.C.S.I.
+1903 Sir Henry A. Blake, G.C.M.G.
+1907 Col. Sir H. E. McCallum, G.C.M.G., R.R.
+1913 Sir Robert Chalmers, G.C.B. (now Lord Chalmers).
+1916 Sir John Anderson, G.C.M.G., K.C.B., LL.D.
+1918 Brig-General Sir William H. Manning, G.C.M.G., K.B.E., C.B.
+1925 Sir Hugh C. Clifford, G.C.M.G., G.B.E.
+1927 Sir Herbert J. Stanley, K.C.M.G.
+1931 Sir Graeme Thomson, G.C.M.G., K.C.B.
+
+For Governors previous to 1850, see Edition for 1889.
+STATE COUNCIL.
+
+Speaker.
+The Hon. A. F. Molamure (Dedigama).
+
+Officers of State.
+Chief Secretary, Hon. Sir Bernard Bourdillon, K.B.E., C.M.G.
+Attorney-General, Hon. E. St. J. Jackson, K.C., O.B.E.
+Financial Secretary, Hon. Sir Wilfrid Woods, C.M.G.
+
+Ministers.
+Minister of Home Affairs, and Vice-Chairman of the Board of Ministers, Hon. Sir D. B. Jayatilaka, Kt. (Kelaniya).
+Minister of Local Administration, Hon C. Batuwantudawe (Kalutara).
+Minister of Education, Hon. C. W. W. Kannangara (Galle).
+Minister of Communications and Works, Hon. H. M. Macan Markar (Batticaloa South).
+Minister of Health, Hon. T. B. Panabokke (Gampola).
+Minister of Agriculture and Lands, Hon. D. S. Senanayake (Minuwangoda).
+Minister of Labour, Industry and Commerce, Hon. P. Sundaram (Hatton).
+
+Deputy Speaker.
+F. A. Obeyesekere (Avissawella).
+
+Deputy Chairman of Committees.
+M. M. Subramaniam (Trincomalee-Batticaloa).
+
+Members (shown by Executive Committees):
+
+Home Affairs.
+G. C. S. Corea (Chilaw).
+Major J. W. Oldfield, O.B.E., M.C. (Nominated)
+E. W. Perera (Horana).
+J. C. Ratwatte Adikar (Balangoda).
+R. S. Tennekoon (Katugampola).
+E. A. P. Wijayaratne (Kegalla).
+
+Agriculture and Lands.
+E. W. Abeygunasekera (Nuwara Eliya).
+A. Fellowes-Gordon (Bandarawela).
+J. L. Kotalawala (Kurunegala).
+J. H. Meedeniya Adikar (Ruanwella).
+P. B. Nugawela Disawa (Galagedara).
+A. E. de S. W. S. Rajepakse (Negombo).
+
+Local Administration.
+D. D. Athulathmudali (Matugama).
+S. W. R. D. Bandaranaike (Veyangoda).
+Susanta de Fonseka (Panadure).
+W. A. de Silva (Moratuwa).
+G. K. W. Perera (Matara).
+D. Wanigasekera (Weligama).
+
+Health.
+G. E. de Silva (Kandy).
+D. H. Kotalawala (Badulla).
+G. C. Rambukpota (Bibile).
+Dr. V. R. Schokman (Nominated).
+T. L. Villiers (Nominated).
+V. S. de S. Wikramanayake (Hambantota).
+
+Labour, Industry and Commerce.
+M. J. Cary (Nominated).
+A. E. Goonesinha (Colombo Central).
+D. P. Jayasuriya (Gampaha).
+I. X. Pereira (Nominated).
+M. K. Saldin (Nominated).
+Dr. R. Saravanamuttu (Colombo North).
+S. P. Vytilingam (Talawakele).
+
+Education.
+H. W. Amarasuriya (Udugama).
+G. R. de Zoysa (Balapitiva).
+W. T. S. Karalladda (Matale).
+G. E. Madawala (Narammala).
+A. Ratnayake (Dumbara).
+Dr. S. A. Wickremasinghe (Morawaka).
+
+Communications and Works.
+S. M. Anantham (Mannar-Mullaitivu).
+S. W. Dassenaike (Colombo South).
+Sir Henry L. de Mel (Puttalam).
+H. R. Freeman (Anuradhapura).
+Sir Stewart Schneider, K.C. (Nominated).
+E. C. Villiers (Nominated).
+D. J. Wimalasurendra (Ratnapura).
+
+Clerk of the Council and Secretary to the Board of Ministers.
+G. N. Farquhar M.C.
+
+Civil Establishment.
+Governor, etc., Sir Graeme Thomson, G.C.M.G., K.C.B., 8,000L.*
+Private Secretary, H. S. M. Hoare.
+Aide-de-Camp, Capt. J. E. M. Skinner, King's Royal Rifle Corps.
+Maha Mudaliyar and Chief Interpreter and Extra Aide-de-Camp, J. P. Obeyesekere, Rs. 4,000.
+Chief Secretary, Sir B. H. Bourdillon, K.B.E., C.M.G., 3,000L.
+Deputy Chief Secretary, F. G. Tyrell, C.M.G., 1,800L.
+Assistant Chief Secretaries, G. C. Miles, 880L., C. H. Hartwell, 580L.
+Office Assistant, P. H. de la Harpe, 600L.
+Chief Clerk, W. T. Loos, Rs. 5,750.
+Cadets, commencing at 400L per annum:— S. M. Duff, K. Alvapillai, S. D. Cumaraswamy, H. E. Peries, A. R. Macdonald, R. J. Wilkinson, W. J. A. Vanlangenberg, R. H. Wickramasinghe, E. J. Cooray, S. S. C. Fernando, A. C. M. Hingley, 400L.
+Government Printer, H. R. Cottle, 850L.
+Assistant ditto, A. C. Richards, 850L.
+Cost Accountant, C. J. Thomas, 600L.
+Printer's Fitter, J. E. Kennedy, 600L.
+Machine Overseer, E. Sharpe, 400L.
+Superintendent Binding Branch, W. A. Spradbrow, 400L.
+Superintendent Composing Branch, L. E. T. Horne, 500L.
+Commissioner of Lands, C. V. Brayne, 1,750L.
+Financial Secretary, Sir Wilfred Woods, Kt., C.M.G., 2,400L.
+Deputy Financial Secretary, C. W. Bickmore, 1,300L.
+F. J. Tothill, 900L.
+First Assistant Accountant, F. E. Looch, 720L.
+Second Assistant Accountant, J. L. Stanislaus, 600L.
+Auditor General, O. E. Goonetilleke, 1,200L.
+Assistant Auditor for Railways, A. R. Kale.
+Chief Audit Examiners, V. C. Manicam, D. G. Singanayagam, A. W. Savundranayagam, S. Subramaniam, M. S. Seewaratnam.
+Commissioner of Stamps, N. E. Ernst.
+Deputy Commissioner of Stamps, N. E. Ernst, 1,250L.
+Assistant Commissioner of Stamps, J. R. Toussaint, 840L.
+Additional Assistant Commissioner of Stamps, K. T. S. Gurusinge, 600L.
+
+Government Agencies.
+
+WESTERN PROVINCE.
+Government Agent, M. M. Wedderburn, 1,600L.
+Assistant Colombo, H. P. Kaufmann, 1,100L.
+Additional Assistant, Colombo, E. W. Kannangara, 960L.
+
+* Including 1,600L entertainment allowance.
+Office Assistant, W. A. Weerakoon, 700l.
+Extra Office Assistant, H. W. Abeyawadene, 600l.
+Assistant Government Agent, Kalutara, L. L. Hunter, 1,150l.
+Office Assistant, B. M. Cloristoffelsz, 450l.
+
+CENTRAL PROVINCE.
+Government Agent, T. A. Hodson, 1,650l.
+Assistant Government Agent, Kandy, W. D. Godsall, 700l.
+Office Assistant, Kandy, W. H. Moose, 620l.
+Cadet, Kandy,
+Assistant Government Agent, Matale, C. E. Jones, 1,100l.
+Office Assistant, S. D. Cumaraswamy, 500l.
+Assistant Government Agent, Nuwara Eliya, W. J. L. Rogerson, 1,300l.
+Office Assistant, S. M. Duff, 500l.
+
+NORTHERN PROVINCE.
+Government Agent, E. T. Dyson (acting), 1,300l.
+Office Assistant, Jaffna, N. R. Hallock, 540l.
+Extra Office Assistant, P. Mortimer, 480l.
+Assistant Government Agent, Mannar, R. M. Davies, 1,100l.
+Assistant Government Agent, Mullaitivu, R. S. V. Poulier, 1,000l.
+
+SOUTHERN PROVINCE.
+Government Agent, G. S. Wodeman, 1,550l.
+Office Assistant, N. Moonasinghe, 700l.
+Extra Office Assistant, J. M. Silva, 670l.
+Assistant Government Agent, Hambantota, P. Saravanamuttu, 1,000l.
+Office Assistant, W. A. de Silva, 540l.
+Assistant Government Agent, Matara, H. J. L. Leigh-Clarke, 1,100l.
+Office Assistant, C. H. W. Kannangara, 510l.
+
+Eastern Province.
+Government Agent, C. Harrison-Jones, 1,550l.
+Office Assistant, Batticaloa, R. J. Wilkinson, 450l.
+Assistant Government Agent, Trincomalee, T. G. Willet, 1,200l.
+Office Assistant, R. B. Jansz, 480l.
+
+NORTH WESTERN PROVINCE.
+Government Agent, J. R. Walters (acting), 1,300l.
+Assistant Government Agent, K. Somasuntharama, 840l.
+Office Assistant, R. M. Gybbon-Monypenny, 500l.
+Extra Office Assistant, S. D. Samarasinghe, 450l.
+Assistant Government Agent, Putalam and Chilaw, V. Coomaraswamy, 1,300l.
+
+NORTH CENTRAL PROVINCE.
+Government Agent, C. L. Wickramasinghe (acting), 1,300l.
+Office Assistant, Anuradhapura, P. O. S. E. Silva, 540l.
+Cadet, A. R. Macdonald, 580l.
+
+PROVINCE OF UVA.
+Government Agent, E. T. Millington, 1,550l.
+Office Assistant, S. F. Amerasinghe, 540l.
+Cadet,
+
+PROVINCE OF SABARAGAMUWA.
+Government Agent, C. H. Collins, 1,500l.
+Office Assistant, C. B. P. Perera, 580l.
+Extra Office Assistant, G. H. Perera, 450l.
+Assistant Government Agent, Kegalla, A. E. Christoffelsz, 1,100l.
+Office Assistant, Kegalla, H. E. Peris, 450l.
+
+Judicial Establishment.
+Chief Justice, Sir Philip James Macdonell, B.C.L., 2,500l.
+
+Senior Puisme Justice, T. F. Garvin, K.C., 1,750l.
+Private Secretary, H. W. Le Brooy Re, 3,200l.
+Puisme Justice, L. C. Dalton, 1,750l.; L. M. Maartenz (acting).
+Private Secretary, T. L. F. Mack, Rs. 3,200l.
+Puisme Justice, R. W. Lyall Grant, 1,750l.
+Private Secretary, E. O. Dias Bandaranaike, Rs. 3,200l.
+Puisme Justice, A. Driberg, 1,750l.
+Private Secretary, F. C. van Guylemberg.
+Puisme Justice, M. T. Akbar, 1,750l.
+Private Secretary, A. Z. Cassim, Rs. 3,200l.
+Attorney-General, E. St. J. Jackson, 1,800l.
+Commissioner of Assize, E. W. Jayawardene.
+Private Secretary, J. R. Jayawardene.
+Solicitor-General, S. Obeyesekere, 1,550l.
+Deputy Solicitor-General, L. M. D. de Silva, 1,050l.
+Assistant to Attorney-General, M. W. H. de Silva, 840l.
+Draftsman, C. A. Brito-Muttunayagam (acting).
+Assistant, P. C. Villavaryan (acting).
+
+Crown Counsel: —
+G. V. Grenier, 1,000l.
+J. W. R. Ilangakoon, 760l.
+J. E. M. Obeyesekere, 600l.
+Merryn Fonseka, 680l.
+S. J. C. Schokman, 600l.
+S. Rodrigo, 600l.
+R. R. Crossette-Thambiah, 600l.
+
+Additional Crown Counsel F. C. Loos.
+Registrar of Supreme Court, G. O. Grenier, 800l.
+First Deputy Registrar of Supreme Court, E. W. Gunaratne, 570l.
+Second Deputy ditto, P. W. Vanlangenberg, 400l.
+Third Deputy ditto, R. C. Proctor, 320l.
+Fourth Deputy ditto, C. E. Stork, 320l.
+Fifth Deputy Registrar, O. Struys, 320l.; W. J. Perera (acting).
+
+DISTRICT OF COLOMBO AND MIDLAND CIRCUIT.
+District Judge, Colombo, L. M. Maartenz, 1,550l.
+Additional District Judge, Colombo, W. S. de Saram, 1,400l.
+Second Additional District Judge, Colombo, V. M. Fernando, 1,250l.
+Third Additional District Judge, Colombo, O. L. de Kreuter, 1,100l.
+District Judge and Additional Commissioner of Requests, Kandy, W. E. Barber, 1,400l.
+Commissioner of Requests, Kandy, E. H. Lucette, 960l.
+District Judges, Commissioners of Requests, and Police Magistrates at: —
+Kurunegala, S. H. Wadia, 1,100l.
+Kalutara, N. M. Bharucha, 1,250l.
+Avissawella,
+Negombo, M. II. Kantawala, 1,100l.
+Badulla, A. G. Ranasingha, 580l.
+Rainapura, R. Y. Daniel, 1,050l.
+Kegalla, C. Sittampalam, 760l.
+Hatton-Nuwara Eliya, R. Aluwihare, 1,000l.
+Police Magistrate, Colombo, R. H. Bassett, 960l.
+Commissioner of Requests, Colombo (W. D. Niles), L. H. de Alwis.
+Commissioners of Requests and Police Magistrates at: —
+Dandagamsusa, U. P. Werrasinghe (acting), 500l.
+Kandy, S. P. Wickramasingha, 760l.
+Ariyawella, J. N. Vothavanam, 580l.
+Police Magistrate, Gampola, R. N. Bond, 700l.
+Kalutara, C. A. Spedewinde, 600l. (acting).
+Kurunegala, A. W. P. Jayatileke (acting), 500l.
+Matale and Panuwa, E. F. Marshall, 920l.
+Negombo, S. F. Amerasinghe, 620l.
+Rainapura, W. Sansoni, 590l.
+Panadure, P. Vytilingam (acting), 500l.
+Gampaha, J. Wilmot Perera (acting), 500l.
+Municipal Magistrate, Colombo, Mervyn Joseph, Rs. 10,500.
+
+SOUTHERN CIRCUIT.
+District Judges, Commissioners of Requests, and Police Magistrates at:
+- Galle, T. W. Roberts, 1,760L; T. Weeraratne (additional District Judge), 600L.
+- Tangalla, J. N. Arumugam, 840L.
+- Matara, M. Prasad, 1,300L.
+
+Commissioners of Requests and Police Magistrates at:
+- Galle, C. E. de Pinto, 1,100L.
+- Hambantota, P. Saravanamuttu, 1,100L.
+- Balapitiya, M. Chinnaiyah (acting), 500L.
+- Matara, V. Rajakariar (acting), 500L.
+
+NORTHERN CIRCUIT.
+District Judge and Additional Commissioner of Requests and Police Magistrate, Jaffna, D. H. Balfour, 1,300L.
+Additional District Judge, Additional Commissioner of Requests and Additional Police Magistrate, Jaffna, P. C. Villavasaran (acting).
+District Judges, Commissioners of Requests and Police Magistrates at:
+- Anuradhapura, Batticaloa, James Joseph (acting).
+- Chilaw, R. F. Dias (acting).
+- Trincomalee, A. R. Supramaniam (acting), 540L.
+- Mannar, R. M. Davies (A.G.A.), 1,100L.
+- Mullaitivu, R. S. V. Poulier (A.G.A.), 1,000L.
+
+Commissioners of Requests and Police Magistrates at:
+- Jaffna and Kayts, M. F. de S. Jayaratne, 580L.
+- Pont Pedro and Chavakacheri, C. V. D. S. Corea, 580L.
+- Chilaw, H. S. Roberts (acting), 500L.
+- Puttalam, N. W. Morgappah, 700L.
+
+Additional Commissioner of Requests and Police Magistrate, Anuradhapura, R. M. M. Worsley (G.A.) (acting).
+Fiscal, Western Province, The Government Agent, Western Province.
+Deputy Fiscal, C. E. Arndt, 960L.
+
+Customs Department.
+Principal Collector, B. G. De Glanville, 1,550L.
+Deputy Collector and Landing Surveyor, A. N. Strong, 1,250L.
+Landing Surveyor, Colombo, W. Holmes, 700L.
+Second Landing Surveyor, G. de Zoysa, 580L.
+Third Landing Surveyor, M. M. Anthonisz, 600L.
+Fourth Landing Surveyor, J. H. Ferdinando, 420L.
+Accountant, J. de Vos, 510L.
+
+SOUTHERN PROVINCE.
+Collector, G. S. Wodeman (G.A.)
+Assistant Collector and Landing Surveyor, C. E. de Pinto (Police Magistrate).
+
+NORTHERN PROVINCE.
+Collector, E. T. Dyson (G.A.)
+Assistant Collector and Landing Surveyor, Jaffna, A. R. Hallock.
+Assistant Collector and Landing Surveyor, Mannar, R. M. Davies (A.G.A.)
+Assistant Collector and Landing Surveyor, Mullaitivu, R. S. V. Poulier (A.G.A.)
+
+EASTERN PROVINCE.
+Collector, C. Harrison-Jones (G.A.)
+Assistant Collector and Landing Surveyor, Trincomalee, T. G. Willett (A.G.A.)
+Master Attendant, Trincomalee, T. G. Willett (A.G.A.)
+" " Jaffna, E. T. Dyson (G.A.)
+" " Batticaloa, C. Harrison-Jones.
+" " Hambantota, P. Saravanamuttu, (A.G.A.)
+
+Colombo Port Commission.
+Chairman, B. G. de Glanville.
+Secretary, H. K. Hillier, O.B.E., 1,160L.
+Accountant, W. E. Wijeyesekera, 540L.
+Assistant Accountant (vacant), 540L.
+Master Attendant, Capt. E. C. Stubbs, R.N. (Retd.), 1,060L.
+Deputy Master Attendant, Lt.-Com. C. A. Robinson, D.S.C., R.N. (Retd.), 740L.
+Harbour Engineer, G. W. Dodda, A.M.I.C.E., 1,550L.
+Chief Assistant Engineer, T. A. Owles, 1,100L.
+Assistant Engineer, C. S. Richards, 1,050L.; C. G. MacNamara, 600L.
+Mechanical Superintendent, H. S. Caswell, 940L.
+
+Excise Department.
+Excise Commissioner, J. C. W. Rock, 1,550L.
+Assistant Commissioner, Headquarters, P. E. Parsons, 700L.
+Assistant Commissioner, Colombo Division, G. F. de Livera, 700L.
+Assistant Commissioner, Central Division, B. de Saram, 700L.
+Assistant Commissioner, North-Western Division, R. G. de Livera, 620L.
+Assistant Commissioner, Northern Division, H. E. Diss Bandaranayake (acting), Rs. 7,800.
+Assistant Commissioner, Southern Division, T. V. Saravanamuttu (acting), Rs. 6,000.
+
+Superintendents:
+J. S. Nicholas (acting), Rs. 5,800; E. J. Christoffel (acting), Rs. 5,000.
+
+Assistant Superintendents:
+D. A. de Kretser, Rs. 5,600.
+J. R. S. Perera, Rs. 5,600.
+N. S. Sanders, Rs. 5,600.
+C. W. Nicholas, Rs. 5,400.
+C. A. H. Keuneman, Rs. 5,200.
+A. Dias Abeyasinghe, Rs. 5,200.
+E. J. Sinnathamby, Rs. 5,000.
+D. C. E. Abeyasekera, Rs. 4,200.
+R. Casio Chitty, Rs. 4,200.
+S. Balasingham, Rs. 3,800.
+R. V. E. Koch, Rs. 3,800.
+D. V. Attaputti, Rs. 3,400.
+S. L. Peiris (acting), Rs. 3,120.
+W. P. Mendis (acting), Rs. 3,120.
+
+Public Works Department.
+Headquarters, Colombo:
+Director of Public Works, H. B. Lees, M.C., M.Inst.C.E., M.Inst.M. & Cy.E., F.S.L., 1,600L.-50L.-1,750L.
+Deputy Director of Public Works, W. J. Thornhill, M.Inst.C.E., A.R.T.C. (Glasgow), 1,350L.
+Assistant Director of Public Works, H. L. Grocock, M.Sc. (Victoria), 1,250L.
+2nd Assistant Director of Public Works, W. J. Price, A.M.Inst.C.E., 1,080L.
+3rd Assistant Director of Public Works, E. W. Bartholomew, 1,000L.
+Chief Architect, A. Woodeson, O.B.E., F.R.I.B.A., F.S.I., 1,200L.
+Engineering Assistant, G. S. Goodman, A.M.I.C.E., 1,200L.
+1st Assistant Architect, A. D. Parham, F.R.I.B.A., P.A.S.I., M.T.P.I., 930L.
+2nd Assistant Architect, T. N. Wynne-Jones, F.R.I.B.A., M.I.Struct.E., 840L.
+Assistant Architects:
+W. R. J. Mann, A.R.I.B.A., 750L.
+H. Lewin, A.R.I.B.A., A.M.T.P.I., M.R.San.l., 780L.
+H. F. Billimoria, B.Arch. (Hons.), Liverpool, A.R.I.B.A., 660L.
+
+Quantity Surveyors:
+A. G. B. Whittaker, P.A.S.I., 690L.
+Financial Assistant and Accountant, S. E. D. Muller, 920L.
+Office Assistant, L. B. Emmanuel, 600L.
+Assistant Accountant, S. Manikavasager, 540L.
+Additional Assistant Accountant, B. W. Fernando, 510L.
+
+Government Factory, Colombo:
+Factory Engineer, J. Gray, M.I.Mech.E., M.I.A.E., 1,200L.
+Assistant Factory Engineer, P. G. Macfarlane, M.Inst.J.E., A.M.I.Mech.E., 960L.
+Mechanical Engineer, E. L. Johnson, A.M.I.Mech.E., 780L.
+Assistant Mechanical Engineers:
+D. A. Goonewardene, A.M.I.Mech.E., 780L.
+T. Muttucumaroe, 600L.
+C. D. Beling, 500L.
+
+Superintendent (Foundry and Smithy), C. Brown, 690L.
+
+Provincial Engineers (1,000L. to 1,200L.):
+H. E. de Kretser; A. C. B. Jonklaas, V.D., H. de Kretser, M.Inst.M. & Cy.E.; A. H. Nathanielsz, M.Inst.C.E.; O. T. Nettleton, A.M.Inst.C.E., P.A.S.I.; S. Davies, M.C. (seconded for service as Construction Engineer); W. A. Coradine, M.R.San.I.; P. M. Battle, A.M.Inst.C.E.; R. G. Bartholmew, A.M.Inst.C.E.; H. P. G. Young, A.M.Inst.C.E., M.I.S.A.
+
+Construction Engineer, S. Davies, M.C., 1,200L.
+
+District Engineers (960L. to 960L.):
+S. M. S. Rajasooriya; A. J. A. Morais; E. J. Peries; A. J. R. Scharenquivel, A.M.Inst.C.E.; A. S. Barker, A.M.Inst.C.E.; C. H. Bradley, M.C., A.M.Inst.C.E.; F. G. Stevens, A.M.Inst.C.E.; J. C. Cooper, A.M.Inst.C.E.; T. H. Leader, A.M.Inst.C.E.; W. G. Scott; E. B. Bowen, A.M.Inst.C.E.; C. G. Schokman; S. J. Kirby, A.M.Inst.C.E., A.M.Inst.M. & Cy.E.; P. M. Norris, A.M.Inst.C.E.; J. T. Morrison, A.M.Inst.C.E.; G. H. Pritchard, A.M.Inst.C.E., F.R.San.I.; A. S. Crow; R. A. M. Thuraiappah, A.M.Inst.C.E., M.I.Struct.E.; J. M. Adam, B.A., B.A.I., A.M.Inst.C.E.; M. Jeffery, M.Inst.M. & Cy.E.; Moses de Silva, A.M.Inst.C.E.; G. Gilchrist, A.M.Inst.C.E.; J. A. Varey, A.M.Inst.C.E.; M. S. Christoffelz, A.M.Inst.C.E.; R. C. Fernando, A.M.Inst.C.E., F.I.S.E.; C. W. Dias; J. H. E. de Kretser; R. G. Leembruggen, B.Sc. (Engineering), London; C. E. Bingham; A. C. Box, A.M.Inst.M. & Cy.E., A.R.S.I.; E. H. Martin, B.A. (Dublin), A.M.Inst.C.E., F.R.G.S.; L. P. Stork; A. E. Wijesinghe; A. L. Fretz; H. E. E. Koch; J. W. H. Casinader, A.M.Inst.C.E.; S. Mahadeva, A.M.Inst.C.E., A.M.Inst.W.E., F.I.S.E. (Medalist); R. R. San.I., M.R.I.P.H.; T. A. Burns, B.Sc. (Engineering); J. Savernimuttu, B.Sc. (Engineering), Glasgow; A. F. Allen, A.M.Inst.C.E.; H. E. D. Pearce, M.C., B.Sc. (Hons.) (Engineering), A.M.Inst.C.E., A.M.Inst.Struct.E.; J. D. Bush, B.Sc. (Engineering), Birmingham, A.M.Inst.C.E.; S. Rouse, A.M.Inst.C.E.; G. H. Todd, A.M.Inst.C.E.; E. E. Benest, M.A. (Cantab.), Engineering, A.F.R.Ac.S., A.Inst.N.Arch.; T. P. de S. Munasinghe, A.M.Inst.C.E.; A. Selvadurai, A.M.Inst.C.E.; W. I. de Silva; D. R. Hunt, A.M.Inst.C.E.; S. R. Williams, B.A. (Madras), B.E. Civil (Madras), A.C.E. (Madras), A.M.Inst.C.E.
+
+Buildings Supervisor, S. J. Lines, 650L.
+
+Local Division.
+23 Assistant Engineers at Rs. 4,000 to Rs. 7,000.
+1 Drawing Office Assistant at Rs. 4,000 to Rs. 7,000.
+26 Inspectors at Rs. 3,000 to Rs. 3,600.
+31 Head Overseers, Grade I, at Rs. 1,700 to Rs. 2,300.
+26 Head Overseers, Grade II, at Rs. 1,200 to Rs. 1,500.
+
+Department of Electrical Undertakings.
+Director of Electrical Undertakings and Chief Engineer, Major E. F. Lynn, D.S.O., M.C., 3,000L.
+Electrical Engineer, Grade I, P. Petrie, 880L.
+Electrical Engineers, Grade II, P. C. Fernando, D. J. Unwin, H. H. Jansen, 500L to 960L.
+Civil Engineer, (Design) Grade I, C. J. M. Hunter, 868L.
+Chief Accountant (vacant).
+Assistant Accountants, K. Kanagaratnam, 600L., K. Rasanayakam, 480L.
+
+Hydro-Electric Scheme.
+Construction Engineer, E. Upasena (acting), 375L.
+
+Colombo Supply Branch.
+Operating Engineer, O. S. Gill, 1,200L., personal allowance 400L.
+Mains Engineer, C. V. S. Dickens, 680L.
+Engineer, Supply and Maintenance, G. E. Misko, 680L.
+Chief Power Station Superintendent, G. L. Kirk, 920L.
+Assistant Power Station Superintendents, T. G. Blofeld, 690L., H. F. Jones, 600L.
+
+Irrigation Department.
+Director of Irrigation (1,400L. to 1,550L.), W. Brown, B.Sc. (Eng.), (Edin.), M.Inst.C.E.
+Deputy Director of Irrigation (1,050L. to 1,300L.), B. G. Meaden, M.Inst.C.E.
+Divisional Irrigation Engineers (900L. to 1,100L.; 2 posts, 900L. to 1,200L.):
+
+T. Hamer.
+O. W. Henman, A.M.Inst.C.E.
+W. H. Biddell, B.Sc. Hons. (Eng.) (Lond.), M.Inst.C.E., F.R.G.S.
+J. S. Kennedy, M.C., M.A., B.Sc. (Eng.) (Glasgow), A.M.Inst.C.E.
+E. C. Hillman, M.C., B.Sc. (Eng.) (Birm.), A.M.Inst.C.E.
+J. H. Wilson, M.C., M.A., B.Sc. (Eng.) (Edin.), J. N. Rutherford, A.M.Inst.C.E.
+
+Irrigation Engineers (500L. to 900L.):
+
+L. T. Burgess, M.Eng. (Liverpool).
+John Aitken, A.M.Inst.C.E.
+F. L. Bruce, A.M.Inst.C.E.
+S. G. Taylor, B.Sc. (Eng.) (Lond.), A.M.Inst.C.E.
+A Webster, A.M.Inst.C.E.
+A. P. Weir, A.M.Inst.C.E.
+W. A. Guthrie, B.Sc. (Eng.) (Birm.).
+H. W. L. Poole, A.C.G.I., A.M.Inst.C.E.
+W. J. Watson, A.M.Inst.C.E.
+
+Temporary Irrigation Engineers:
+
+F. R. G. Webb, M.C., B.Sc. (Eng.) (Birm.).
+J. Muirhead, A.M.Inst.C.E., A.M.Inst.W.E., F.R.G.S.
+J. Kitching, B.Sc. (Edin.), A.M.Inst.C.E.
+W. L. Stallworthy, B.A. (Mechanical Sciences Tripos) (Cantab.), A.M.Inst.Struct.E.
+W. A. R. Robertson, A.M.Inst.C.E., M.R.S.I.
+A. F. Lambert, B.A. (Mechanical Sciences Tripos) (Cantab.).
+
+Assistant Irrigation Engineers (Rs. 4,000 to Rs. 7,000):
+
+G. E. Syma, A.M.Inst.C.E.
+G. C. Bartlett.
+W. T. I. Alagaratnam, A.C.E. (Madras), A.M.Inst.C.E.
+A. W. Kirthisinghe.
+B. C. Somanader.
+L. E. de Silva.
+M. C. Abraham, B.Sc. (Eng.) (Manchester).
+E. Goonesinghe.
+
+Inspectors:
+
+22 at Rs. 2,640 to Rs. 4,440.
+Sub-Inspectors:—
+66 at Rs. 1,200 to Rs. 2,520.
+
+Survey Department.
+Surveyor-General, A. H. G. Dawson, 1,550l.
+Deputy Surveyor-General, G. K. Thornhill, F.R.G.S., F.R.A.S., F.R.Met.S., 1,150l.
+Assistant Surveyor-General, C. H. Vince, P.A.S.I., 1,080l.
+Accountant, Geo. E. Pereira, 600l.
+Superintendent Colombo Observatory, A. J. Bamford, M.C., M.A. (Cantab.), B.Sc. (London), F.R.G.S., F.R.A.S., F.R.Met.S., 1,040l.
+Assistant Astronomer, H. Jameson, M.Sc. (Durham), F.R.A.S., F.R.Met.S., F.Inst.P., 810l.
+Senior Technical Assistants, Colombo Observatory (2 at 300l. to 810l.)—
+D. T. E. Dassenayake, B.Sc. (London).
+A. P. Kandasamy, B.Sc. (London).
+Junior Technical Assistants, Colombo Observatory (2 at Rs. 2,880 to Rs. 6,000) —
+D. J. Jayasinghe, B.Sc. (London).
+R. D. Kreitzheim, B.Sc. (London).
+
+Superintendents of Surveys (12 at 840l. to 1,040l.)—
+L. G. O. Woodhouse; R. W. E. Ruddock; K. W. S. Mitchell, F.S.I.; F. L. Baker, F.S.I.; H. P. Harrison, F.S.I.; H. O. Clark, M.C., F.S.I.; C. C. S. Stephenson, F.S.I., F.R.G.S.; S. Easten, M.Eng. (Sheffield University); T. Y. Price, M.A. (Cantab.), F.R.G.S.; L. E. S. Mitchell; J. Ferguson, A.M.I.C.E.; E. O. de Fonseka.
+
+Forty Assistant Superintendents of Surveys (at 450l. to 810l.)—
+R. J. Johnston, P.A.S.I., F.R.G.S.; W. A. Davis, P.A.S.I.; P. Moriarty; L. M. Symes, F.R.G.S.; E. Keyt; A. L. Grice, M.M.; I. F. Wilson, M.C., F.R.G.S.; G. B. King, B.Sc. (Engineering) (London), A.C.G.I.; E. B. Dissanaike; R. L. Brohier; H. T. W. Jayasekara; C. A. d'With Barbut; V. Rasaretnam; A. C. James; N. S. Perera, F.R.G.S.; O. S. Bird, M.A. (Oxon.); F. R. G. S.; F. S. Tippet, M.A. (Oxon.); W. W. Williams, B.A. (Cantab.); H. A. S. Smith, B.A. (Oxon.); J. K. Clegg, B.A. (Oxon.); J. L. T. E. Dassanaike, B.Sc. (Lond.); E. A. Rajasingham, B.Sc. (Lond.); D. B. Ellapola, B.Sc. (Lond.); S. Karthugesu, B.Sc. (Lond.); F. R. G. S.; V. A. Wendt; J. E. Jackson; S. W. Atukorale; M. W. F. Abeyakoon, B.Sc. (Lond.); J. C. Chammugam, B.Sc. (Lond.); W. Abhayaratna, B.Sc. (Lond.); J. R. Sinnatambry, B.Sc. (Lond.); F. H. Gunasekera, B.Sc. (Lond.); W. S. Maddams, M.B.E.; D. F. Abeyawardena, B.Sc. (Lond.); P. R. B. P. Caspersz, B.Sc. (Lond.); S. Thirunavukkarasu, B.Sc. (Lond.).
+
+Assistant Superintendents of Surveys (Headquarters), 450l. to 800l.:—
+H. W. Johnson and E. E. O'Leary.
+2 Vacancies.
+
+Superintendent of the Instrument Department, G. H. Tabor, 450l. to 600l.
+
+Surveyors:—
+Grade I.—30 at Rs. 4,600 to Rs. 6,000.
+Grade II.—60 at Rs. 2,880 to Rs. 4,440.
+Grade III.—230 at Rs. 1,200 to Rs. 3,600.
+20 Vacancies.
+
+Land Settlement Department.
+Settlement Officer, H. E. Janzs (acting), 1,100l.
+Assistant Settlement Officers, C. F. Inglewood, 1,050l.; R. Jones-Bateman, 1,050l.; R. Alwiware, 1,000l.; S. S. Navaratnam, 840l.; P. O. Fernando, 700l.; L. J. de S. Seneviratne, 700l.; H. C. Cocks, 540l.
+
+Department of Mineralogy.
+Government Mineralogist, J. S. Coates, 1,200l.
+
+Registrar-General's Department.
+Registrar-General, C. Coomaraswamy, 1,500l.
+Deputy Registrar-General, G. L. D. Davidson, 880l.
+Assistant Registrar-General, E. R. de Silva, 540l.
+2nd Assistant Registrar-General, P. W. Ratnatunga, Rs. 5,500.
+3rd Assistant Registrar-General, E. A. Jayasekera, Rs. 4,600.
+
+Post Office.
+Postmaster-General and Director of Telegraphs, H. A. Burden, 1,550l.
+Assistant Postmaster-General, G. W. J. Praat, 1,150l.
+Assistant Post and Telegraph Dept., A. E. P. Wijeyagoonewardene, 570l.
+Superintendent of Mails, D. N. W. Sureweere, 450l.
+Additional Superintendent of Mails, A. A. Mutturucumaru (acting), Rs. 5,400.
+Accountant, D. M. Amerasinghe (acting), 640l.
+Assistant Accountants, T. D. Anderson, 480l., and A. W. Fernando (acting), Rs. 4,800.
+Divisional Superintendents of Post Offices:—
+F. Rodriguez, Rs. 5,400; A. Amarasinghe, Rs. 5,400 (One vacant).
+Chief Engineer of Telegraphs, J. Shillitoe (acting), 810l.
+Assistant Chief Engineer, A. T. Kingston (acting), 810l.
+Divisional Engineers, H. S. Bryant, 810l.; R. P. Amerasinghe, 750l.; J. M. Baxter, 810l.
+Superintendent of Workshops, W. J. H. Piper, 630l.
+Engineers, H. J. White, 600l.; G. A. Platt, 600l.; David Lusk, 600l.; A. Nadarasa, 540l.; Aloysius Perera, 480l.
+Assistant Engineers, W. R. B. Touissant, Rs. 6,440; N. Mukerjee, Rs. 5,540; P. Kadirawelpillai, Rs. 5,640; P. S. Thuraiappah, Rs. 5,360.
+Superintendent, Telegraph and Telephone Traffic, A. G. Tilkekeratne, 1,000l.
+Assistant Superintendent of Telegraph and Telephone Traffic, W. D. Fernando, 570l.
+
+Education Department.
+Director, L. Macrae, M.A. (Aberdeen), M.A. (Cantab.), 1,750l.
+Deputy Director, L. McD. Robison, B.A. (Manchester), 1,300l.
+Additional Assistant Director, F. C. Gimson, B.A. (Oxon.), 1,100l.
+Assistant Director (Assisted Schools), C. A. Wicks, M.A. (Cantab.), 1,000l.
+Assistant Director (Supply and Training of Teachers), S. N. Godfrey, M.A. (Oxon), Diploma in Education (Oxon.), 900l.
+Office Assistant, E. E. Davidson, 600l.
+Accountant, J. P. de Vos, 640l.
+Chief Inspector of Schools (Vacant).
+Divisional Inspectors of Schools, H. S. Perera, M.A. (Lond.), 900l.; E. de La Harpe, 690l.; Ian Sanderman, M.A., Ph.D., B.Sc., 630l.
+Superintendent of Examinations, L. J. Gratien, B.A. (Lond.), Rs. 8,000.
+Supervisor of Sinhalese Education, W. Chas. de Silva, B.A. (Lond.), LL.B., Rs. 7,500.
+Supervisor of Tamil Education, S. Candiah, Rs. 6,300.
+District Inspector of Schools, W. R. Watson, B.A., B.Sc. (Calcutta), Rs. 8,000.
+Ditto, J. C. Wirakoon, Rs. 6,750.
+Inspectresses of Girls' English Schools, Miss R. McLeod, 650l.; Miss M. E. Westrop, 525l.
+Inspector of Art, C. F. Winzer, 600l.
+Inspectress of Needlework, Miss F. Moreira, Rs. 6,000.
+
+Royal College.
+Principal, Major H. L. Reed, M.A. (Cantab.), 1,000l.
+Classes Master and Vice-Principal, L. H.W. Sampson, B.A. (Oxon.), F.R.G.S., 810L.
+Science Master, H. J. Wijesinghe, Rs. 6,000.
+Mathematical Master, M. M. Kulasekeram, B.Sc. (Lond.), Rs. 6,000.
+
+Technical Schools.
+Principal, F. E. Kennard, B.Sc. (Lond.), M.I.E.E., 960L.
+
+Training College.
+Principal, A. S. Harrison, M.Sc. (Manch.), 1,000L.
+Vice-Principal, J. Bleekley, M.Sc. (Manchester), 700L.
+Lecturer, A. J. R. Vethavanam, B.A. (Calcutta), Rs. 3,000 to Rs. 6,000.
+Lecturers, R. A. Kriekenbeck and E. C. T. Holsinger, S. F. de Silva, B.A. (Lond.), Rs. 3,000 to Rs. 6,000.
+Instructor and Inspector of Manual Training, F. H. Bergan, 700L.
+Lecturer to Infant Teachers, Miss E. D. Arnold, 600L.
+Lecturer to Women Students, Mrs. E. M. Diamond, 500L.
+
+Department of Agriculture.
+Director of Agriculture, W. Youngman, D.Sc. (Lond.), Ph.D., 1,450L.
+Office Assistant, J. I. Gnanamuttu (Seconded for service as Secy. coconut and rubber Research Schemes),
+Research Branch:
+Entomologist, J. C. Hutson, B.A. (Oxon), Ph.D. (Mass. Agr. Coll., U.S.A.), 1,000L.
+Assistant Entomologist, F. P. Jepson, M.A. (Cantab.), Dip. Agric. (Wye), F.E.S., 960L.
+Mycologist, M. Park, A.R.C.S. (Lond.), 780L.
+Agricultural Chemist, A. W. R. Joachim, Ph.D., B.Sc. (Lond.), F.I.C., Dip. Agric. (Cantab.), 690L.
+Systematic Botanist, N. D. Simpson, B.A. (Cantab.), Dip. Agric. Sc., F.L.S., F.R.M.S., 720L.
+Assistant Mycologist (vacant).
+Economic Botanist, J. C. Haigh, B.Sc. (Lond.), A.R.C.S. (Lond.), A.I.C.T.A. (Trinidad), 630L.
+Inspectorate Branch:
+Inspector of Plant Pests and Diseases (North-Western), N. K. Jardine, 810L.
+Inspector of Plant Pests and Diseases (Central), C. N. E. J. de Mel, B.Sc. (Lond.), Dip. Agric. (Wye), 780L.
+Inspector of Plant Pests and Diseases (Southern), W. C. Lester Smith, B.A. (Oxon), A.I.C.T.A. (Trinidad), 660L.
+Inspector of Plant Pests and Diseases, S. J. F. Dias, Dip. Agric. (Wye), A.I.C.T.A. (Trinidad), Rs. 3,600.
+Agricultural Branch:
+Divisional Agricultural Officer (Central), G. Harboard, Dip. Agric. (Wye), 900L.
+Divisional Agricultural Officer (Northern), W. P. A. Cooke, M.Sc. (Calif.), 780L.
+Divisional Agricultural Officer (Eastern), Leslie Lord, M.A. (Oxon.), 750L.
+Divisional Agricultural Officer (South-Western), H. A. Pieris, B.A. (Cantab.), A.I.C.T.A. (Trinidad), 560L.
+Divisional Agricultural Officer (Southern), W. R. C. Paul, M.A., M.Sc., D.I.C., Dip. Agric. (Cantab.), F.L.S., 530L.
+Divisional Agricultural Officer (North-Western), E. G. Livera, B.Sc. (Lond.), B.Sc., Agric. (Lond.), Dip. Agric. (Wye), 630L.
+Experiment Stations and Botanic Gardens:
+Manager, Central Experiment Station, Peradeniya, T. H. Holland, Dip. Agric. (Wye), 870L.
+Curator, Royal Botanic Gardens, Peradeniya, T. H. Parsons, F.L.S., F.R.H.S., 670L.
+Curator, Botanic Gardens, Hakgala, Nawara Eliya, J. J. Noek, 564L.
+
+Department of Labour.
+Controller, W. C. Murphy, 1,300L.
+Divisional Controller, N. J. Luddington, 1,300L.
+
+Colombo Museum and Fisheries Department.
+Director of the Colombo Museum and Marine Biologist, J. Pearson, D.Sc. (Liverpool), D.So. (Manchester), F.R.S.E., F.L.S., 1,200L.
+Librarian of the Colombo Museum, A. N. Weinmann, Rs. 3,000.
+Assistant in Systematic Entomology, G. M. R. Henry, 420L.
+Assistant Marine Biologists, A. H. Malpas, 900L; P. E. P. Deraniyagala, M.A. (Cantab.), M.A. (Harvard), 690L.
+Marine Superintendent, Lt.-Commander E. L. Pawsey, R.D., R.N. (Ret.), 750L.
+
+Forest Department.
+Conservator of Forests, J. D. Sargent, B.A. (Oxon.), Diploma of Forestry (Oxon.), 1,650L.
+Deputy Conservators of Forests, F. J. S. Turner, D.D.R., Advanced Forestry and Forest Botany (Edin.), 1,200L. (on leave); A. B. Lushington, D.D.R., Special Course of Forestry and Botany (Oxon.), 1,200L.; W. W. Fyers, D.D.R., Special Course of Forestry and Botany (Oxon.), 1,100L.
+Assistant Conservators of Forests, H. C. King, B.A. (Oxon.), Diploma of Forestry (Oxon.), 820L.; A. J. Plummer, B.A. (Oxon.), Diploma of Forestry (Oxon.), 820L. (on leave); G. Spencer, B.A. (Cantab.), Diploma of Forestry (Cam.), 780L.; W. M. McNeill, M.A. (Oxon.), Diploma of Forestry (Oxon.), 750L.; H. E. C. Lushington, Diploma of Forestry (Edin.), 820L.; P. Godfrey-Faussett, M.A. (Cantab.), 760L.; A. Hensman, D.D.R. (Honours), 675L.; C. P. Jayawardena, M.A. (Oxon.), F.L.S., Diploma of Forestry (Oxon.), 665L.; J. A. de Silva, B.A. (Oxon.), 600L.; E. W. March, B.A. (Cantab.), 625L.; C. H. Holmes, B.Sc. (Lond.), B.A. (Cantab.), Diplomas of Forestry (Oxon. and Cam.), 500L.
+Extra Assistant Conservators of Forests, M. C. Pieterson, 450L.; G. M. Bartholomew, 510L.
+Accountant, H. W. Weeraratne, 570L.
+
+Medical Department.
+Director of Medical and Sanitary Services, R. Briercilfe, O.B.E., 1,650L.
+Deputy Director of Medical and Sanitary Services, L. A. Prins, 1,050L.
+Assistant Director of Medical Services, H. U. Leembruggen, 1,150L.
+Assistant Director of Sanitary Services, Dr. S. T. Gunasakera, 1,300L.
+Administrative Secretary to Director of Medical and Sanitary Services, G. M. Rennie, M.C., C.C.S., 960L.
+Inspecting Medical Officers, H. L. Ludovici, A. L. Pereira, J. B. F. Caldera, 700L. to 960L.
+Accountant, W. H. D. E. Pereira, 800L.
+Assistant Accountant, G. Rajadurai, 480L.
+Director Bacteriological Institute, L. Nicholls, 1,200L.
+Medical Entomologist, H. F. Carter, 1,000L.
+Bacteriologist, E. Burgess, 960L.
+Assistant Bacteriologist, D. J. T. Leanage, Grade II, M.O., 275L., plus alloe. Rs. 1,320.
+Superintendent Anti-malaria Campaigns, K. J. Rustonjee, 620L.
+Superintendent of Health Education, J. H. de Saram, 500L.
+Medical Superintendent, Lunatic Asylum, L. D. Parsons, 1,100L., plus alloe. Rs. 750.
+Medical Superintendent, Leper Asylum, C. Sivasithamparam, 800L.
+Medical Superintendent, General Hospital, F. Keyt, 960L.
+Radiologist, H. O. Gunawardena, 600L.
+Pathologist, W. A. E. Karunaratne, 600l.
+Medical Superintendent, Kandy Hospital, W. Wijeyagoonewardena, 650l.
+Medical Superintendent, Galle Hospital, P. H. Perera, 750l.
+Medical Officer, King Edward VII Anti-Tuberculosis Institute, C. I. de Silva, 850l.
+Medical Officer in Charge, Lady Havelock Hospital, C. E. Anderson, 850l.
+Medical Officer, Dental Institute, W. Balendra, 500l.
+
+Provincial Surgeons (700l. to 960l.):
+
+E. W. Scharenguivel.
+S. Subramaniam.
+S. P. Joseph.
+A. A. M. Weerapperumall.
+C. H. K. Scharenguivel.
+W. E. de Silva.
+L. C. Wijesinghe.
+D. T. de Fretesang.
+
+Senior Medical Officers of Health (700l. to 960l.), S. F. Chellappae, M. de Costa.
+
+1st Grade Medical Officers (480l. to 600l.):
+
+J. A. E. de Silva, E. Garvin Mack, A. M. de Silva, R. L. Spittell, A. E. Herat, H. E. Ekanayake, E. C. Spaar, W. S. Ratnavale, D. T. de Kroter, F. E. R. Bartholomeusz, R. W. Willenberg, W. H. Wijenaike, W. F. H. Perera, E. C. Alles, E. A. Blok, A. C. A. Fernando, K. K. Jacob, C. G. Kurien, A. T. Kuriyen, E. S. Godleib, K. T. Nath, T. S. Nair, J. M. Somasundaram, K. Ponniah, P. B. Fernando, D. S. V. Walpola, K. Rajah, H. C. van Dort, S. Ponniah, D. B. de Alwis, S. Thambipillai, D. D. S. Outechoorn, J. P. Subramaniam, A. Chellappa, C. Sabapathi, C. Fernando, H. E. Schokman, S. F. Wickremasingha, H. Amarasinha, C. Kandiah, T. K. Jayaram, P. B. Jayasurya, V. Gabriel, S. de Vos, E. W. Arndt, E. L. Christoffelz, W. Samarasingha, C. D. Wickremasingha, V. B. Vandort, S. Chelliah, C. F. Deutrom, A. N. Coomarassamy, T. Ramasamy, G. C. Philips, F. E. Weerasureya, S. L. Navaratnam, W. A. Bartholomeusz, J. A. Siriwardena, S. Somasundram, F. A. Silva.
+
+251 Medical Officers 2nd Grade, 200l. to 450l.
+
+8 Medical Officers of Health, Grade I (500l. to 775l.).
+
+19 Medical Officers of Health, Grade II (360l. to 460l.).
+
+Sanitary Engineer, H. N. Worth, 960l.
+Deputy Sanitary Engineer, W. G. McCarthy, 890l.
+Assistant Sanitary Engineers, J. W. de Alwis, Rs. 4,720; P. O. David, Rs. 4,360; K. Subramavim, Rs. 4,360.
+
+Superintendent, Civil Medical Stores, H. R. Thomas, 680l.
+Assistant Superintendent, C. F. X. Pinto, 350l.
+
+Ceylon Medical College.
+
+Principal, R. Briercloffe.
+Registrar and Professor of Physiology, F. O'B. Ellison, 1,100l.
+Professor of Anatomy, W. C. Osman Hill, 840l.
+
+Government Analyst's Department.
+
+Government Analyst, C. T. Symons, 1,200l.
+Deputy Government Analyst, J. V. Collins, 720l.
+
+Veterinary Department.
+
+Veterinary Surgeon, M. Crawford, 700l.
+
+Police.
+
+Inspector-General of Police, Sir H. L. Dowbiggin, C.M.G., 1,550l., and a personal pensionable allowance (50l. to 200l. by annual increments of 50l.).
+
+Deputy-Inspectors-General, 1,000l. to 1,200l., A. G. Gottelier, O.B.E.; E. F. L. Wright.
+
+Superintendents, Grade I (780l. to 1,000l.), R. J. Tyler, P. N. Banks, H. N. Wood, W. C. C. King, C. G. Pigford, G. Manwaring, J. E. Bennett, B. Langran, G. H. Bromley, G. H. Ferguson, J. Ludovici, G. K. Pippet, A. Jackson.
+
+Superintendents, Grade II (640l. to 760l.), G. S. Baker, W. A. Muller, Capt. W. T. Brindley, Capt. S. G. Notley, M.C., A. S. Eliatamby, J. R. G. Bantock, J. Deharagoda, C. B. A. Roberts, D. J. G. Hennessy, R. J. Weerasinghe.
+
+Assistant Superintendents (480l. to 620l.), A. Perera, P. P. Wickramasuriya, H. R. de Silva, C. V. Gooneratne, V. T. Dickman, T. H. Doll, M. D. M. Gunasekera, A. S. Philips, G. F. Berenger, P. R. Krisnaratne, P. C. Selvaratnam, J. G. C. S. de Saram.
+
+Probationers (380l. to 410l.), K. F. Jenkins, V. M. Ludowyk, G. H. Robins, I. D. Merry.
+
+Prisons.
+
+Inspector-General of Prisons, A. F. G. Walker, 1,300l.
+1st Assistant Superintendent of Prisons, C. C. Schokman, 740l.
+2nd Ditto, J. Lambert, 650l.
+3rd Ditto, C. P. Brohier, 625l.
+4th Ditto, G. V. F. Wille, 475l.
+
+Government Stores Department.
+
+Colonial Storekeeper, John Gibb, 850l.
+1st Assistant Colonial Storekeeper, J. W. Warby, 650l.
+2nd Ditto, H. M. Peiris, Rs. 6,000.
+
+Railway Department.
+
+(Offices, Colombo.)
+
+General Manager, T. E. Dutton, C.B.E., M.Inst.T., 1,600l. to 1,750l.
+Deputy General Managers (1,160l. to 1,300l.), E. W. Head (Operating); W. G. Hills, A.M.Inst.T. (Administrative); W. C. D. Davey (Commercial).
+Assistants to General Manager (3 at 760l. to 1,000l. and 1 at 450l. to 720l.), S. F. Amasinghe; 2 (vacant); G. F. Perera.
+
+Mechanical Engineer, A. S. Bobby, M.I.Loco.E., 1,000l. to 1,100l.
+
+Deputy Mechanical Engineer, W. A. Smyth, A.M.I.Mech.E., A.M.Inst.Prod.E., 500l. to 960l.
+
+Assistant Mechanical Engineer (Locomotive), H. W. F. Freer, M.I.Loco.E., 500l. to 840l.
+
+Assistant Mechanical Engineer (Carriage and Wagons), P. S. Palmer, A.M.I.Mech.E., 500l. to 840l.
+
+Divisional Transportation Superintendents (1,000l. to 1,100l.), W. R. Wild, A.M.I.Mech.E.; J. G. Smith, M.I.Loco.E., M.Inst.T.
+
+Chief Accountant, W. T. A. Gentle, 840l. to 1,120l.
+Deputy Chief Accountant, G. E. W. Jansz, 680l. to 920l.
+
+1 Assistant Accountant, Class III, B. A. Muttunayagam, 540l. to 720l.
+3 Assistant Accountants, Class IV., B. Abeywardena, M. P. Edirisinghe, E. A. Winn, 420l. to 570l.
+
+Engineer, Way and Works, A. G. Cooper, M.Inst.C.E., M.Inst.T., 1,100l. to 1,300l.
+
+Railway Storekeeper, J. E. Hancocks, 700l. to 850l.
+
+Archaeological Department.
+
+Archaeological Commissioner (vacant), C. F. Winzer Inspector of Art (Education Dept.) (acting).
+
+Ecclesiastical.
+
+Church of England, The Right Rev. M. R. Carpenter Garnier, Bishop of Colombo.
+
+Presbyterian Church:
+
+Rev. J. A. M. Ford, Ph.D., St. Andrews, Colombo.

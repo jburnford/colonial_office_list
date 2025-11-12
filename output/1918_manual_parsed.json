@@ -1,0 +1,408 @@
+{
+  "year": 1918,
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1918/olmocr_results.md",
+  "total_colonies": 44,
+  "colonies": [
+    {
+      "colony_name": "AUSTRALIA",
+      "year": 1918,
+      "start_line": 3644,
+      "end_line": 4180,
+      "char_count": 67200,
+      "line_count": 536,
+      "filename": "AUSTRALIA.md"
+    },
+    {
+      "colony_name": "VICTORIA",
+      "year": 1918,
+      "start_line": 4180,
+      "end_line": 4204,
+      "char_count": 586,
+      "line_count": 24,
+      "filename": "VICTORIA.md"
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "year": 1918,
+      "start_line": 4204,
+      "end_line": 4229,
+      "char_count": 511,
+      "line_count": 25,
+      "filename": "QUEENSLAND.md"
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "year": 1918,
+      "start_line": 4229,
+      "end_line": 4237,
+      "char_count": 180,
+      "line_count": 8,
+      "filename": "WESTERN_AUSTRALIA.md"
+    },
+    {
+      "colony_name": "TASMANIA",
+      "year": 1918,
+      "start_line": 4237,
+      "end_line": 11152,
+      "char_count": 455834,
+      "line_count": 6915,
+      "filename": "TASMANIA.md"
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "year": 1918,
+      "start_line": 11152,
+      "end_line": 11510,
+      "char_count": 21914,
+      "line_count": 358,
+      "filename": "BAHAMAS.md"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 1918,
+      "start_line": 11510,
+      "end_line": 12159,
+      "char_count": 39002,
+      "line_count": 649,
+      "filename": "BARBADOS.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1918,
+      "start_line": 12159,
+      "end_line": 12557,
+      "char_count": 22704,
+      "line_count": 398,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1918,
+      "start_line": 12557,
+      "end_line": 13420,
+      "char_count": 54692,
+      "line_count": 863,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1918,
+      "start_line": 13420,
+      "end_line": 17088,
+      "char_count": 203725,
+      "line_count": 3668,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "CEYLON",
+      "year": 1918,
+      "start_line": 17088,
+      "end_line": 18149,
+      "char_count": 60796,
+      "line_count": 1061,
+      "filename": "CEYLON.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1918,
+      "start_line": 18149,
+      "end_line": 19063,
+      "char_count": 55510,
+      "line_count": 914,
+      "filename": "CYPRUS.md"
+    },
+    {
+      "colony_name": "EAST AFRICA PROTECTORATE",
+      "year": 1918,
+      "start_line": 19063,
+      "end_line": 19670,
+      "char_count": 35453,
+      "line_count": 607,
+      "filename": "EAST_AFRICA_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "year": 1918,
+      "start_line": 19670,
+      "end_line": 19914,
+      "char_count": 17103,
+      "line_count": 244,
+      "filename": "FALKLAND_ISLANDS.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1918,
+      "start_line": 19914,
+      "end_line": 20522,
+      "char_count": 45420,
+      "line_count": 608,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 1918,
+      "start_line": 20522,
+      "end_line": 21066,
+      "char_count": 34525,
+      "line_count": 544,
+      "filename": "THE_GAMBIA.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1918,
+      "start_line": 21066,
+      "end_line": 22107,
+      "char_count": 93394,
+      "line_count": 1041,
+      "filename": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 1918,
+      "start_line": 22107,
+      "end_line": 22666,
+      "char_count": 34320,
+      "line_count": 559,
+      "filename": "HONG_KONG.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1918,
+      "start_line": 22666,
+      "end_line": 23687,
+      "char_count": 55650,
+      "line_count": 1021,
+      "filename": "JAMAICA.md"
+    },
+    {
+      "colony_name": "CAYMAN ISLANDS",
+      "year": 1918,
+      "start_line": 23687,
+      "end_line": 23924,
+      "char_count": 18010,
+      "line_count": 237,
+      "filename": "CAYMAN_ISLANDS.md"
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "year": 1918,
+      "start_line": 23924,
+      "end_line": 24578,
+      "char_count": 36231,
+      "line_count": 654,
+      "filename": "ANTIGUA.md"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1918,
+      "start_line": 24578,
+      "end_line": 24883,
+      "char_count": 17109,
+      "line_count": 305,
+      "filename": "DOMINICA.md"
+    },
+    {
+      "colony_name": "MONTSERRAT",
+      "year": 1918,
+      "start_line": 24883,
+      "end_line": 25228,
+      "char_count": 18867,
+      "line_count": 345,
+      "filename": "MONTSERRAT.md"
+    },
+    {
+      "colony_name": "MALTA",
+      "year": 1918,
+      "start_line": 25228,
+      "end_line": 25834,
+      "char_count": 32964,
+      "line_count": 606,
+      "filename": "MALTA.md"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 1918,
+      "start_line": 25834,
+      "end_line": 26698,
+      "char_count": 50260,
+      "line_count": 864,
+      "filename": "MAURITIUS.md"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "year": 1918,
+      "start_line": 26698,
+      "end_line": 28345,
+      "char_count": 107653,
+      "line_count": 1647,
+      "filename": "NEWFOUNDLAND.md"
+    },
+    {
+      "colony_name": "NIGERIA",
+      "year": 1918,
+      "start_line": 28345,
+      "end_line": 29670,
+      "char_count": 103245,
+      "line_count": 1325,
+      "filename": "NIGERIA.md"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 1918,
+      "start_line": 29670,
+      "end_line": 29847,
+      "char_count": 11608,
+      "line_count": 177,
+      "filename": "ST._HELENA.md"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 1918,
+      "start_line": 29847,
+      "end_line": 30212,
+      "char_count": 19424,
+      "line_count": 365,
+      "filename": "SEYCHELLES.md"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1918,
+      "start_line": 30212,
+      "end_line": 33152,
+      "char_count": 249258,
+      "line_count": 2940,
+      "filename": "SIERRA_LEONE.md"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "year": 1918,
+      "start_line": 33152,
+      "end_line": 33469,
+      "char_count": 24466,
+      "line_count": 317,
+      "filename": "BASUTOLAND.md"
+    },
+    {
+      "colony_name": "SWAZILAND",
+      "year": 1918,
+      "start_line": 33469,
+      "end_line": 34092,
+      "char_count": 57566,
+      "line_count": 623,
+      "filename": "SWAZILAND.md"
+    },
+    {
+      "colony_name": "NORTHERN RHODESIA",
+      "year": 1918,
+      "start_line": 34092,
+      "end_line": 34116,
+      "char_count": 2302,
+      "line_count": 24,
+      "filename": "NORTHERN_RHODESIA.md"
+    },
+    {
+      "colony_name": "STRAITS SETTLEMENTS",
+      "year": 1918,
+      "start_line": 34116,
+      "end_line": 34847,
+      "char_count": 43172,
+      "line_count": 731,
+      "filename": "STRAITS_SETTLEMENTS.md"
+    },
+    {
+      "colony_name": "LABUAN",
+      "year": 1918,
+      "start_line": 34847,
+      "end_line": 36181,
+      "char_count": 111643,
+      "line_count": 1334,
+      "filename": "LABUAN.md"
+    },
+    {
+      "colony_name": "TOBAGO",
+      "year": 1918,
+      "start_line": 36181,
+      "end_line": 37686,
+      "char_count": 55667,
+      "line_count": 1505,
+      "filename": "TOBAGO.md"
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "year": 1918,
+      "start_line": 37686,
+      "end_line": 37803,
+      "char_count": 7571,
+      "line_count": 117,
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md"
+    },
+    {
+      "colony_name": "UGANDA",
+      "year": 1918,
+      "start_line": 37803,
+      "end_line": 38222,
+      "char_count": 24712,
+      "line_count": 419,
+      "filename": "UGANDA.md"
+    },
+    {
+      "colony_name": "WEIHAIWEI",
+      "year": 1918,
+      "start_line": 38222,
+      "end_line": 39301,
+      "char_count": 78416,
+      "line_count": 1079,
+      "filename": "WEIHAIWEI.md"
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 1918,
+      "start_line": 39301,
+      "end_line": 39603,
+      "char_count": 20414,
+      "line_count": 302,
+      "filename": "ST._VINCENT.md"
+    },
+    {
+      "colony_name": "ZANZIBAR",
+      "year": 1918,
+      "start_line": 39603,
+      "end_line": 39647,
+      "char_count": 8643,
+      "line_count": 44,
+      "filename": "ZANZIBAR.md"
+    },
+    {
+      "colony_name": "NORTH BORNEO",
+      "year": 1918,
+      "start_line": 39647,
+      "end_line": 40178,
+      "char_count": 33806,
+      "line_count": 531,
+      "filename": "NORTH_BORNEO.md"
+    },
+    {
+      "colony_name": "ADEN",
+      "year": 1918,
+      "start_line": 40178,
+      "end_line": 40188,
+      "char_count": 1937,
+      "line_count": 10,
+      "filename": "ADEN.md"
+    },
+    {
+      "colony_name": "ASCENSION",
+      "year": 1918,
+      "start_line": 40188,
+      "end_line": 57288,
+      "char_count": 1931037,
+      "line_count": 17100,
+      "filename": "ASCENSION.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Batch parser for 1917-1930 (Post-WWI era)",
+    "date": "2025-11-12",
+    "method": "Pattern-based colony detection with aggressive subsection filtering"
+  }
+}

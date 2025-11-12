@@ -1,0 +1,363 @@
+{
+  "year": 1897,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1897/olmocr_results.md",
+  "total_colonies": 39,
+  "colonies": [
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 1897,
+      "start_line": 217,
+      "end_line": 1389,
+      "char_count": 82820,
+      "line_count": 1172,
+      "filename": "ST_VINCENT.md"
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "year": 1897,
+      "start_line": 1389,
+      "end_line": 1617,
+      "char_count": 14136,
+      "line_count": 228,
+      "filename": "BAHAMAS.md"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 1897,
+      "start_line": 1617,
+      "end_line": 2102,
+      "char_count": 28279,
+      "line_count": 485,
+      "filename": "BARBADOS.md"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "year": 1897,
+      "start_line": 2102,
+      "end_line": 2212,
+      "char_count": 13665,
+      "line_count": 110,
+      "filename": "BASUTOLAND.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1897,
+      "start_line": 2212,
+      "end_line": 2558,
+      "char_count": 23240,
+      "line_count": 346,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1897,
+      "start_line": 2558,
+      "end_line": 3201,
+      "char_count": 45902,
+      "line_count": 643,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1897,
+      "start_line": 3201,
+      "end_line": 3500,
+      "char_count": 18503,
+      "line_count": 299,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "BRITISH NEW GUINEA",
+      "year": 1897,
+      "start_line": 3509,
+      "end_line": 5305,
+      "char_count": 93661,
+      "line_count": 1796,
+      "filename": "BRITISH_NEW_GUINEA.md"
+    },
+    {
+      "colony_name": "NOVA SCOTIA",
+      "year": 1897,
+      "start_line": 5305,
+      "end_line": 6075,
+      "char_count": 32061,
+      "line_count": 770,
+      "filename": "NOVA_SCOTIA.md"
+    },
+    {
+      "colony_name": "PRINCE EDWARD ISLAND",
+      "year": 1897,
+      "start_line": 6075,
+      "end_line": 6297,
+      "char_count": 11849,
+      "line_count": 222,
+      "filename": "PRINCE_EDWARD_ISLAND.md"
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "year": 1897,
+      "start_line": 6297,
+      "end_line": 8630,
+      "char_count": 112212,
+      "line_count": 2333,
+      "filename": "CAPE_OF_GOOD_HOPE.md"
+    },
+    {
+      "colony_name": "CEYLON",
+      "year": 1897,
+      "start_line": 8727,
+      "end_line": 9313,
+      "char_count": 38959,
+      "line_count": 586,
+      "filename": "CEYLON.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1897,
+      "start_line": 9683,
+      "end_line": 9881,
+      "char_count": 8194,
+      "line_count": 198,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 1897,
+      "start_line": 9881,
+      "end_line": 10744,
+      "char_count": 67957,
+      "line_count": 863,
+      "filename": "THE_GAMBIA.md"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 1897,
+      "start_line": 10744,
+      "end_line": 11108,
+      "char_count": 19369,
+      "line_count": 364,
+      "filename": "HONG_KONG.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1897,
+      "start_line": 11108,
+      "end_line": 11885,
+      "char_count": 42868,
+      "line_count": 777,
+      "filename": "JAMAICA.md"
+    },
+    {
+      "colony_name": "LABUAN",
+      "year": 1897,
+      "start_line": 11885,
+      "end_line": 12022,
+      "char_count": 7377,
+      "line_count": 137,
+      "filename": "LABUAN.md"
+    },
+    {
+      "colony_name": "LAGOS",
+      "year": 1897,
+      "start_line": 12022,
+      "end_line": 12385,
+      "char_count": 20426,
+      "line_count": 363,
+      "filename": "LAGOS.md"
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "year": 1897,
+      "start_line": 12560,
+      "end_line": 12760,
+      "char_count": 9903,
+      "line_count": 200,
+      "filename": "ANTIGUA.md"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1897,
+      "start_line": 13040,
+      "end_line": 13259,
+      "char_count": 12102,
+      "line_count": 219,
+      "filename": "DOMINICA.md"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 1897,
+      "start_line": 13940,
+      "end_line": 15401,
+      "char_count": 75903,
+      "line_count": 1461,
+      "filename": "MAURITIUS.md"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "year": 1897,
+      "start_line": 15401,
+      "end_line": 15709,
+      "char_count": 20897,
+      "line_count": 308,
+      "filename": "NEWFOUNDLAND.md"
+    },
+    {
+      "colony_name": "NEW SOUTH WALES",
+      "year": 1897,
+      "start_line": 15709,
+      "end_line": 16770,
+      "char_count": 55443,
+      "line_count": 1061,
+      "filename": "NEW_SOUTH_WALES.md"
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "year": 1897,
+      "start_line": 16770,
+      "end_line": 17509,
+      "char_count": 38584,
+      "line_count": 739,
+      "filename": "NEW_ZEALAND.md"
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "year": 1897,
+      "start_line": 17509,
+      "end_line": 17997,
+      "char_count": 31931,
+      "line_count": 488,
+      "filename": "QUEENSLAND.md"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 1897,
+      "start_line": 17997,
+      "end_line": 18573,
+      "char_count": 31207,
+      "line_count": 576,
+      "filename": "ST_HELENA.md"
+    },
+    {
+      "colony_name": "SOUTH AUSTRALIA",
+      "year": 1897,
+      "start_line": 18573,
+      "end_line": 19420,
+      "char_count": 43588,
+      "line_count": 847,
+      "filename": "SOUTH_AUSTRALIA.md"
+    },
+    {
+      "colony_name": "STRAITS SETTLEMENTS",
+      "year": 1897,
+      "start_line": 19428,
+      "end_line": 20089,
+      "char_count": 38649,
+      "line_count": 661,
+      "filename": "STRAITS_SETTLEMENTS.md"
+    },
+    {
+      "colony_name": "TASMANIA",
+      "year": 1897,
+      "start_line": 20089,
+      "end_line": 20712,
+      "char_count": 29405,
+      "line_count": 623,
+      "filename": "TASMANIA.md"
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "year": 1897,
+      "start_line": 20712,
+      "end_line": 21578,
+      "char_count": 33466,
+      "line_count": 866,
+      "filename": "TRINIDAD.md"
+    },
+    {
+      "colony_name": "TOBAGO",
+      "year": 1897,
+      "start_line": 21578,
+      "end_line": 21899,
+      "char_count": 19872,
+      "line_count": 321,
+      "filename": "TOBAGO.md"
+    },
+    {
+      "colony_name": "VICTORIA",
+      "year": 1897,
+      "start_line": 21899,
+      "end_line": 22950,
+      "char_count": 67727,
+      "line_count": 1051,
+      "filename": "VICTORIA.md"
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "year": 1897,
+      "start_line": 22964,
+      "end_line": 23687,
+      "char_count": 36032,
+      "line_count": 723,
+      "filename": "WESTERN_AUSTRALIA.md"
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 1897,
+      "start_line": 24032,
+      "end_line": 24232,
+      "char_count": 14195,
+      "line_count": 200,
+      "filename": "ST_LUCIA.md"
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 1897,
+      "start_line": 24232,
+      "end_line": 24468,
+      "char_count": 13803,
+      "line_count": 236,
+      "filename": "ST_VINCENT.md"
+    },
+    {
+      "colony_name": "ZULULAND",
+      "year": 1897,
+      "start_line": 24468,
+      "end_line": 24910,
+      "char_count": 45691,
+      "line_count": 442,
+      "filename": "ZULULAND.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1897,
+      "start_line": 24910,
+      "end_line": 25367,
+      "char_count": 32171,
+      "line_count": 457,
+      "filename": "CYPRUS.md"
+    },
+    {
+      "colony_name": "NIGER COAST PROTECTORATE",
+      "year": 1897,
+      "start_line": 25367,
+      "end_line": 26128,
+      "char_count": 74109,
+      "line_count": 761,
+      "filename": "NIGER_COAST_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "TRISTAN D'ACUNHA",
+      "year": 1897,
+      "start_line": 26134,
+      "end_line": 26153,
+      "char_count": 5119,
+      "line_count": 19,
+      "filename": "TRISTAN_DACUNHA.md"
+    }
+  ],
+  "processing_notes": {
+    "toc_entries_filtered": true,
+    "duplicates_merged": true,
+    "min_char_count_threshold": 1000
+  }
+}

@@ -1,5 +1,834 @@
 CAPE OF GOOD HOPE.
 
+Extent and Boundaries.
+
+The Cape of Good Hope, strictly speaking, is a small promontory near the south-west extremity of the continent of Africa. But the extensive Colony of the name is washed by the Atlantic and the Southern or Indian Oceans on the west and south; it is bounded on the north to the west of longitude 22° by the Orange River, on the northeast by the Orange Free State and Natal, and on the east by Pondoland. The Cape Colony with the Transkei contains an area of 213,917 square miles. It extends from 28 to 35 deg. S. lat., and from 17 to 30 deg. E. long.
+
+In 1844 Letters Patent were issued annexing Natal to the Cape, but in 1856 it was constituted a separate Colony.
+
+Twelve islands off Angra Pequena, on the coast of Damaraland, with the adjacent rocks, were annexed in 1867, and added to the Cape Colony in 1874.
+1788 the Great Fish River was proclaimed the boundary of the Colony. In 1795, Holland having yielded to the French Revolutionary Government, an English force proceeded to the Cape of Good Hope to secure it against the French for the Prince of Orange, but the Governor refused to obey the mandate of the Prince, and the British Force thereupon proceeded to take possession, upon which a capitulation was arranged, and the administration of the Government was assumed by General Craig.
+
+An Act of Parliament (37 Geo. III. c. 11) was passed to regulate the trade with the new possession. By the Peace of Amiens the Cape of Good Hope was restored to the Batavian Republic, and evacuated in 1803, but it was again captured by a British Force in 1806, and at the General Peace of 1814 it was ceded in perpetuity to the British Crown. During the interval between the Peace of Amiens and the recapture by the British in 1806, the Colony had made rapid progress owing to the abolition of the rule of the Dutch East India Company, and the wise regulations of government which had been substituted.
+
+An important event in the history of the Cape was the expulsion in 1809 of the Kaffirs from the Zuurveldt, a district west of the Great Fish River. In 1817 that district was visited by the then Governor, who saw the importance of its colonization as a barrier against the Kaffir power, and in 1820 Parliament voted a sum of £50,000l. to promote emigration to the Cape, and 4,000 British immigrants were brought to the Colony and settled in the eastern districts. In December, 1834, began the first of what are called the Kaffir wars, when the Gaika tribe, 20,000 strong, overran the whole south-eastern portion of the Colony, but were defeated and their lands up to the Kei River proclaimed British territory, but Lord Glenelg, then Secretary of State, refused to ratify the annexation. In 1846 the second Kaffir war broke out, but was speedily suppressed, and the colonial border was extended to the Kei River, as proposed by Sir Benjamin D'Urban.
+
+On Christmas Day, 1850, began the third Kaffir war, which lasted nearly three years, and in its earlier stages was aggravated by a simultaneous rebellion of the Kat River Hottentots.
+
+In 1886 began what is called the trekking of a part of the Dutch or Boer population. This remarkable movement, which resulted in the colonization of Natal, the Free State, and the Transvaal, may be ascribed to several causes, of which the chief were:
+
+1. General dislike of the policy of Great Britain in relation to slavery and the Native question.
+2. Particular resentment against the policy of Lord Glenelg in reversing the policy of Sir Benjamin D'Urban in relation to the first Kaffir war.
+3. Resentment against the mode in which compensation had been made to them for the loss of their slaves under the Imperial Act abolishing slavery, namely, by orders for payment payable in London, which they could only dispose of on the spot at an enormous discount.
+
+The years 1849 and 1850 were years of continued excitement, owing to the proposals of the Government at home to send convicts to the Cape. In view of the agitation, carried almost to the point of active resistance, the project was abandoned. In 1856 the German Legion, which had been formed during the Crimean war, was brought to the Cape, and the men, numbering 2,800, disposed in selected spots on the frontier for defensive purposes. The same year (1856) was remarkable for the prevalence in Native Kaffraria of a cattle-killing delusion preached by a young prophetess, which resulted in wide-spread starvation. The political changes which have occurred in the last 20 years are briefly described under the title Constitution. The most important event in the recent economical and social history of the Cape has been the discovery of diamonds beyond the Orange River, which is described under the title of Diamonds.
+
+Climate.
+
+The climate of the Cape is very favourable to Europeans. The air is dry and bracing, the heat never oppressive, and the winter weather mild and delightful; snow or ice are unknown except in the more elevated localities. The mean temperature at Royal Observatory, near Cape Town, is—maximum 72·5, minimum 52·9, and average rainfall for 4 years 26·77 inches. Aliwal N. (4,330 ft. above sea), show 74·1 and 45·6 max. and min. resp., rainfall average for 4 years 22·83 inches.
+
+In the Eastern province the chief rainfall is during the summer months (Nov. to Apr.), in the Western provinces during the winter months.
+
+Diseases of the lungs are rare, and there is a remarkable exemption from cholera, fevers, &c.
+
+The Cape offers many localities presenting the requisites of altitude and extreme dryness for the modern treatment of consumptive patients.
+
+Railways and Harbours.
+
+The railways of the Colony consisted originally of three separate systems, the Western, Midland, and Eastern, having their starting points on the sea-board at Cape Town, Port Elizabeth, and East London respectively. The Western and Midland systems are connected by a junction at De Aar (500 miles from Capetown and 340 from Port Elizabeth) and carried forward thence as one trunk line to Kimberley, the centre of the Diamond Fields (647 miles from Capetown and 485 from Port Elizabeth). This line was opened in 1885. A branch line runs to Colesberg, near the Orange Free State boundary. The Eastern system extends from East London, through Queen's Town, to Aliwal North, adjacent to the Basutoland and Orange Free State frontiers, and was opened in 1885. A branch extends to King William's Town, 42 miles from East London.
+
+The lengths from Cape Town to Wellington, 64 miles, and from Cape Town to Wynberg, 8½ miles, became the property of the Government by purchase; the rest have been constructed, equipped, and maintained at the expense of the general revenue.
+
+The Government mileage open for traffic in December, 1887, was 1,599 miles; the capital expended on purchase, construction, and equipment to that date being 14,186,452l. The gross receipts for 1887 were 1,271,124l., compared with 1,048,186l. for 1886; the working expenses were 681,837l., compared with 646,715l. in 1885, giving for 1887 a return of 4l. 3s. ld. per cent. on the capital expenditure. The question of extension of the lines from Kimberley and Colesberg northwards is at present under consideration.
+
+The line between Grahamstown and Port Alfred (about 40 miles), which was constructed by a company subsidised by Government, was opened for traffic in 1883. During the session of 1883 powers were given to a company, to be also aided by a subsidy, to construct a branch from Worcester, on the Western Main Line, down the Breede River as far as Montagu, and this line is now open as far as Robertson.
+The Cape Copper Mining Company own and work a mineral line from Port Nolloth to Ookeyp (93 miles) in the north-western part of the Colony.
+
+The total length of railway in the Colony is accordingly about 1,652 miles.
+
+Harbour Works on an extensive scale are being constructed at Cape Town, Port Alfred, Port Elizabeth, and East London.
+
+At Cape Town and Port Elizabeth the works are under the direction of local boards, composed of elective and nominee members. At Port Alfred and East London they are controlled by the Public Works Department of the Government.
+
+The cost of the works at Table Bay, to the 31st December, 1887, was for the breakwater, docks, &c., £2,288,943.
+
+The breakwater is now being carried out to a length of some 1,233 yards, the portion already completed being 8,249 feet. The graving dock, named the Robinson Dry Dock, was opened for use in 1882. Its length is 539-6 feet, and it is capable of taking ironclads and vessels of the very largest class likely to be sent out to these waters. The cost was £56,689. It is constructed throughout of colonial granite.
+
+Extensive additions to the Harbour Works of Table Bay have been authorised, and are in course of construction, comprising an outer harbour, formed in part by the existing breakwater, and its extension, and a south arm running parallel with it, which will enclose an area of 64 acres, in addition to the inner docks, with a depth ranging from 24 to 36 feet at low water.
+
+The works constructed at Port Elizabeth were two iron pile jetties, each nearly 900 feet long; which have much facilitated the landing and shipping of passengers and goods; an iron bridge over the Baakens River, and two retaining banks, and the removal of the old wooden jetties, and the old breakwater and shield. The total expenditure was £497,757.
+
+At East London and at Port Alfred, at the mouths of the Buffalo and Kowie Rivers, the attempt made to overcome the obstructions of the sand-bars which close the entrances, by the construction of training-walls intended to have the effect of removing the bar by the natural scouring of the stream, has resulted in increased depths of water and general improvement. The employment of a powerful steam pump hopper dredger at East London has been attended with highly satisfactory results in opening the entrance channel. To the 31st May, 1888, there had been expended at East London £562,336l., and at Port Alfred £232,280l.
+
+Diamonds.
+
+The diamond fields of South Africa are situated in the territory known as Griqualand West, which became British territory by cession from the Griqua people in 1871, and remained a separate colony until October, 1880, when it was annexed to the Cape Colony.
+
+The first diamond was found by accident, in 1867, and passed through many hands before its value was suspected. Even when it was admitted to be a diamond, doubts were thrown on its origin, nothing like an organized or systematic examination of the country was made for a long time.
+
+A few diamonds, however, continued to be found, and in the year 1870 an exploring party, chiefly composed of officers of the 20th Regiment, then stationed at Natal, and another of Cape Colonists from King William's Town, proceeded to dig and wash the alluvial drift along the banks of the Vaal River. They soon found diamonds, and their success brought numerous other parties from all parts of the neighbouring Colonies and Republics. Operations were at this time confined to the river banks, which for many miles were covered with mining camps.
+
+In 1871, however, the discovery was made that diamonds existed not only in the drift of the old river-bed near the present course of the Vaal, but in the loose red surface-sand covering the flat grassy country between that river and the Modder, a smaller stream which ultimately joins the Vaal. A vigorous, if not systematic, search soon resulted in the opening of the Mines now being worked at and close to Kimberley, and the river banks were soon almost deserted for the more profitable Dry Diggings, where diamonds were found in unexampled profusion.
+
+The River Diggings, which still support a population of between 3,000 and 4,000, extend along the Vaal River, principally on the right bank from above Hebron to its junction with the Hart at Delport's Hope. The mines at present worked are Kimberley, De Beers, Du Toits Pan, and Bultfontein. St. Augustine's Mine also figures to a small extent in the production returns.
+
+The following tables give the total quantity and value of the production and export of Diamonds during the past five years:
+
+| Year | Production | Exports |
+|------|------------|---------|
+|      | Carats.    | Carats. | Carats. | Carats. | Carats. |
+| 1883 | 2,312,248 | 2,222,668 | 2,359,168 | 2,614,103 | 2,284,780 |
+| 1884 | 2,318,255 | 2,344,447 | 2,413,953 | 2,263,606 | 2,807,288 |
+| 1885 | 3,091,607 | 3,692,265 | 2,439,720 | 2,459,553 | 3,504,755 |
+| 1886 |            |         | 3,135,061 | 3,504,755 | 4,251,470 |
+| 1887 |            |         | 3,698,930 |         |         |
+
+(a) Exclusive of River Diggings.
+
+During 1887 steps have been taken towards the amalgamation of rival interests in the principal mines, notably Kimberley and De Beers. At these two mines, where the depth has enhanced the difficulty and danger of open workings, operations are now mostly confined to underground working by means of shaft and tunnel. The area of the Kimberley Mine at the surface is about 23 acres, and of De Beers about 29 acres; Du Toits Pan is somewhat larger than De Beers, while Bultfontein is the smallest of the four principal mines. The assessed value of the claim ground in 1887 was £4,159,040l., and 1,929 white and 11,361 coloured persons were employed in the mines.
+
+Minerals, &c.
+
+Cape coal from the Stormberg on the northeastern frontier is now exclusively used on the eastern system of railways, with a great saving of cost. Its use on the rest of the Colonial railways, at present hampered by the cost of transport, only awaits the construction of the junction line between the Eastern and the Midland systems. This coal is used freely for household purposes at Queenstown, and in other places in the neighbour-
+hood of the fields. The output from the mines during 1887 is estimated at 20,014 tons.
+
+Mining operations on a large scale are carried on in the division of Namaqualand, where extensive copper deposits exist.
+
+The output from the mines during 1887 was 30,900 tons of ore, the quantity exported being 28,264 tons, valued at £77,058l.
+
+Between the mine and the seaport (Port Nolotho), a distance of 93 miles, a railway of 2ft. 6in. gauge has been laid by the enterprising Company named, at a cost of no less than £158,100.
+
+The development of the Knysna Gold Fields is steadily progressing. The yield to the 31st December, 1887, is estimated at between 600 and 700 ounces of gold. The export of gold from the Colony during 1887 was valued at £9,359l., chiefly derived from the Transvaal.
+
+A rich mine of manganese ore, yielding from 70 to 90 per cent., exists in the mountains opposite the Pearl, a town distant about 35 miles by rail from Cape Town.
+
+Guano is found in large quantities on the various islets along the coast; and the collection and exportation of it forms a very remunerative industry. The leases of these islands bring in an annual rental of from £6,000 to £7,000l.
+
+Currency and Banking.
+
+The legal tender currency is British sterling, and this is also the money of account, and practically the only coin in circulation throughout South Africa. The Colonial Government does not issue notes, but all the banks do so, the issue not being a legal tender.
+
+The banking system is well developed, there being 111 banks, with 778 separate branches, in 55 different towns and villages.
+
+The principal banks are the Standard Bank of South Africa, Limited (49 branches), and the Bank of Africa, Limited (8 branches), and there are nine other banks, viz., Cape of Good Hope, Union, Natal, Kaffrarian Colonial, Paarl, Stellenbosch District, Wellington, Western Province, and Worcester Commercial, with together 20 branches.
+
+The total amount of notes in circulation on the 30th of June, 1888, was £62,722l., and the amount of deposits £7,014,971l.
+
+Post Office savings banks were established in 1884; on 30th June, 1888, there was £26,366l. deposited, to the credit of 14,374 depositors. The interest allowed is 3½ per cent.
+
+Number of branches 144.
+
+Industries.
+
+The colonists at the Cape are chiefly employed in the production of wool, wine, wheat, barley, oats, tobacco and maize, and in the breeding of horses, cattle, goats, ostriches, and sheep. The wheat of this Colony is not surpassed in quality by any grown elsewhere. Valuable forests cover large areas, and are extensively worked. Those reserved to the Crown cover an estimated area of about 250,000 acres. They are controlled by the Department of Woods and Forests, at an annual charge of some £10,000l. The attention of the Government has recently been given to the economical and systematic working of the Crown Forests with anticipated satisfactory results. The chief exports are diamonds, wool, copper ore, ostrich feathers, gold, mohair, hides and skins. The chief imports are textiles, leather, sugar, coffee, hardware, explosives, and cereals. 95 per cent. of the exports go to the United Kingdom, which sends 78 per cent. of the imports; the rest of the trade is with South Australia, Natal, Brazil, the United States, Germany, Sweden, Norway, Mauritius, and India.
+
+Ostrich breeding is not now carried on so largely as heretofore. Artificial incubation of ostrich eggs has been successfully introduced in many districts.
+
+In 1860, the export of ostrich feathers was 2,287 lbs.; ten years later it was 28,768 lbs., while in 1887 it amounted to 268,832 lbs.
+
+The exports of mohair at corresponding dates were respectively:—385 lbs., 403,153 lbs., and 7,153,730 lbs. The export of wool had risen from 23,172,785 lbs. in 1860, to 48,822,562 lbs. in 1871, and stood at 44,738,295 lbs. in 1887.
+
+A department of agriculture was established in 1887, and strenuous efforts are being made to eliminate contagious diseases among cattle, to improve the breeds of sheep and horses, and the cultivation of wine and tobacco. A Government model farm is maintained at Constantia.
+
+From estimates made by direction of Government, it appears that the following quantities of grain in 1888 were reaped in the Colony and the Transkei, viz.: Wheat, 3,819,686; barley, 765,827; rye, 411,878; oats, 1,239,511; mealies, 2,251,544 bushels.
+
+Capetown, East London, and Port Elizabeth are ports of registry, having on 31st December, 1887, 34 vessels registered, of together 3,527 tons.
+
+Education.
+
+To promote elementary instruction of all children, industrial training for native lads and girls, and superior instruction to those preparing for the University examinations, the Government gives grants of money in aid of salaries of lecturers and professors (under the Higher Education Act), and of other teachers under Act 13 of 1865, assistance in providing furniture and allowances in aid of expenses of needy boarders at schools amongst the agricultural population.
+
+There were in 1887: 381 undenominational public schools, 56 district boarding schools and depots, 217 private farm schools, 411 mission schools, 6 special institutions, 27 aborigines' schools, Colonial, 92 aborigines' schools, Transkei, 39 aborigines' schools, Tembuland, 47 aborigines' schools, Griqualand East, in all 1,276 institutions and schools. The daily attendance was 46,498, the Government expenditure £7,192l. 15s. 10d., and the local expenditure £9,419l. 1s. 10d.
+
+The Education Department is under the direction of the Superintendent-General of Education, aided by a staff of inspectors. The local elected boards guarantee half the teachers' salaries, and provide accommodation. There is no school tax.
+
+Under Act No. 16 of 1873 was established the University of the Cape of Good Hope, whose power to confer the degrees of B.A., M.A., LL.B., LL.D., M.B., and M.D. has been recognised by Her Majesty under Letters Patent dated 8th August, 1877.
+
+The Council consists of 20 members. The University is aided by a Government grant, and its revenue is supplemented by endowments, &c. The following table shows the number of persons who—
+
+| Matriculated | Inter. Exam. Took direct | Were admitted in Arts. degrees | ad cautelum |
+|--------------|--------------------------|-------------------------------|------------|
+| 1884         | 118                      | 20                            | 12         | 7          |
+| 1885         | 118                      | 23                            | 10         | 17         |
+| 1886         | 121                      | 53                            | 18         | 6          |
+| 1887         | 122                      | 25                            | 16         | 12         |
+| 1888         | 133                      | 40                            | 28         | 3          |
+Sea and Land Communications.
+
+The Colony is in telegraphic communication with Europe, via Natal, by the Zanzibar and Aden cable. The telegraph system is well developed, there being now 8,996 miles open, erected by the Government at a cost of £56,906l.; the gross receipts in 1887 being £4,205l., and the expenditure £47,898l.
+
+Contracts have been entered into by the Colonial Government for weekly communication between England and the Cape, and vice versa, with the Union Steamship Company and the Castle Mail Packets Company. The packets leave England on Fridays, and the Cape (Table Bay) on Wednesdays; the passage to be effected in 20½ days, and in 20¼ days when the steamer is required to touch at St. Helena. The average passage is 20 days. The distance by sea from England to the Cape varies from 5,866 to 6,146 miles, according to the course followed. The packets of each Company call at Lisbon on the outward voyages, and at either Lisbon or Madeira on the homeward passages.
+
+Steamers leave Table Bay weekly for Natal calling at Mossel Bay, Port Elizabeth, and East London, to land and embark passengers; they usually leave about 24 hours after the arrival of the English mail.
+
+The passage to Port Elizabeth takes two days East London three, and to Natal four to five.
+
+A "Castle" Company's steamer leaves Table Bay once a month for Delagoa Bay, and ports on the East Coast of Africa; and that Company also sends a steamer once every eight weeks to Mauritius and Madagascar. The "Union" Company extend their Natal service to Delagoa Bay once every four weeks.
+
+Communication is effected between Cape Town and the chief inland towns daily, with Natal once a week, via the Transkei, with the Orange Free State twice a week, and with the Transvaal four times a week through the Diamond Fields. The direct route for the Transvaal English mail is through Cape Town and the Diamond Fields. Transit between Plymouth and Johannesburg and Pretoria by this route 25 days.
+
+The number of Colonial post offices is 623, and of money order offices, 154. The expenditure on the postal service in 1873 amounted to £63,297l., and to £20,204l. 11s. 11d. in 1887; the revenue in 1873 was £41,478l., and the commission on money orders £902l.; the corresponding figures for 1887 were £188,399l. 15s. and £6,475l. The weight of registered packets addressed to England, and supposed to contain diamonds, which passed the Post Office in the years 1874 to 1887, both inclusive, amounted to 2,552 lbs. 13 oz.
+
+Population and Chief Towns.
+
+The population of the whole Colony (excluding Basutoland, but including Griqualand and the Transkeian territories) was estimated at the end of 1887 at 1,377,000 persons. Of these about 350,000 are of European descent, the remainder being coloured or native races, the latter comprising Kaffirs, Fingoes, Hottentots, Bushmen, and Malays. The Europeans are mainly of Dutch, English, or Huguenot descent, with some Germans and Portuguese. In the Ecclesiastical Returns for 1887 167,000 are returned as belonging to the Dutch Reformed Church, 83,000 as Wesleyans, and 61,000 as Anglicans.
+
+Cape Town, which had in 1875 a population of 33,239, and with suburbs, 45,240, had at the end of 1887 an estimated population of 37,545, excluding military and shipping. The population of Cape Town and suburbs now probably exceeds 70,000.
+
+Kimberley had a population of 13,590; Port Elizabeth, 13,040; Graham's Town, 6,903; King William's Town, 5,169; Paarl, 5,760; Graaff Reinot, 4,562; Worcester, 3,788; Queenstown, 2,320; East London, 2,134, according to the census of 1875.
+
+Constitution.
+
+The Government of the Cape from 1806 to 1835 was administered by a Governor, aided by a few Executive Officers; but in that year an Executive Council, and a Legislative Council, appointed by the Crown, comprising certain office-holders and some unofficial members, were created.
+
+By Letters Patent, dated 23rd May, 1850, the Governor and Council were empowered to enact Ordinances for the establishment of a Representative Government; three years later, that form of Government was brought into force. By an Act of the Colonial Legislature passed in the session of 1872, the introduction of the system of Responsible Government, that is the conduct of the Executive Government by the advice of Ministers responsible to the Local Parliament, was pronounced advisable, and the Royal Assent to the measure was given by an Order in Council dated the 9th August, 1872. The first Ministry under Responsible Government was formed in November, 1872.
+
+There is a Legislative Council of 22 elected Members, presided over, ex officio, by the Chief Justice, and a House of Assembly of 76 elected Members, representing the country districts and towns of the Colony, including the Transkeian territories. The Colonial Ministers are the Colonial Secretary, the Treasurer-General (who is Premier), the Attorney-General, the Commissioner of Crown Lands and Public Works, and the Secretary for Native Affairs, all of whom are Members of the Legislature, and also have seats in the Executive Council, of which the Governor is President. The session lasts usually from May to August.
+
+Act No. 18 of 1874 provided for the division of the Colony into seven electoral provinces, each electing three members for the Legislative Council for seven years. Under the Griqualand West Annexation Act 39 of 1877, a Member is added to the Council for that province. The qualification for Members is possession of immovable property of £2,000l., or movable property worth £4,000l. With the exception of paid office-holders (other than the Ministers), and others specified in the Order in Council, any person may be elected a Member of Assembly. Members of both Houses are elected by the same voters, who are qualified by possession of property, or receipt of salary or wages, of not less than £50l. per annum, or not less than £25l. with board and lodging. The number of registered electors in 1888 was 70,800. The Registration Act No. 14 of 1887 makes a better provision for the machinery of registration and for the exclusion of unqualified persons, especially those whose only qualification is a share in tribal occupancy.
+
+By an Act No. 5 of 1875, the Ecclesiastical Endowments provided by the Civil List Ordinance of 1852, were abolished prospectively, the life interests of incumbents being respected.
+
+The supreme court, as consolidated by Act No. 40, of 1882, consists of one Chief Justice and eight Puise Judges; three of whom are assigned to the Court of the Eastern Districts, and three to the High Court of Griqualand. Within the jurisdiction of the Court of the Eastern Districts fall
+territories known as Transkei, Griqualand, and Tembuland.
+
+The Judges of the "Supreme Court" hold Sessions in Cape Town, and Circuit Courts in the Western Districts, the Judges of "The Eastern Districts Court," hold Sessions in Grahamstown, and Circuit Courts in the principal towns of the Eastern Districts, and the Judges of the High Court hold sessions at Kimberley.
+
+The Roman Dutch Law prevails in the Colony as modified by Colonial Legislation. A "Native Territories Penal Code" came into operation for the Transkei, Griqualand East, Tembuland, and Port St. John's on 1st January, 1887.
+
+Local Government.
+
+Divisional Councils were first established in the year 1855; they then exercised authority over branch roads only, and performed certain functions in connection with district schools, pounds and crown lands. They have now been relieved of all duties in regard to schools and lands, but with these exceptions their powers and functions have been gradually increased and amplified. The councils are elected triennially, and consist of eight elective members exclusive of the Civil Commissioner as chairman, excepting in the Cape Division, which returns ten members. The electors are the registered parliamentary voters, and the qualifications of members are registration as voters and registered ownership of immovable property in the division valued at not less than £500. The maintenance of all roads now rests with the councils, and they have also important duties to discharge in regard to disputed land boundaries and beacons; can nominate Field Cornets; may borrow money on the security of rates for the prosecution of local public works; may promote the establishment of a Divisional Police Force, on payment to Government of one-third of the cost of such force; and return three members annually to the District Licensing Court. The revenue of these councils is derived from toll fees, pound sales, and road rates. They are 65 in number, and their receipts during the year 1887 amounted to £24,243, of which £13,470 was borrowed money for public works. Payments for the same period amounted to £26,996. The accounts are subject to audit by two auditors elected triennially by the registered voters of the division, and also to a final audit by the Controller and Auditor-General of the Colony.
+
+Municipalities were first established by an ordinance in 1836. In 1882 an Act was passed consolidating and amending all laws then existing in regard to these boards. Every municipality is governed by a council, composed of a mayor or chairman, and councillors, numbering not less than 6 nor more than 24, a certain number of which are elected annually by the ratepayers. Town councils or municipalities have power to levy annually a landlord's or owner's rate, assessed upon the value of rateable property, and a tenant's rate assessed upon the annual value of such property; no rate to exceed 2d. in the £ on the value, or 8d. in the £ on the annual value, excepting in Capetown, where a landlord's rate of 3d. may be levied.
+
+All mayors or chairmen are members of District Licensing Courts. There are 30 municipalities in the Colony, whose receipts from all sources during the year 1887 amounted to £285,916, which includes £60,735 borrowed money for public works. Payments during the same period amounted to £285,321. The Controller and Auditor-General has no control over municipal accounts.
+
+Village management boards, of which there are 51 in the Colony, exist chiefly in hamlets which are not entrusted with full municipal privileges. The Act of 1881, under which these boards were established, may be proclaimed to be in force upon petition of the inhabitants. There are 3 members elected annually by the voters registered for Parliamentary purposes, who shall be resident within the area defined by proclamation. These boards have no power to levy rates; this is done for them by the divisional council at their request, to an amount not exceeding 3d. in the £ within the limits of the village boards' jurisdiction. The powers and duties of these boards are of the same nature as, although in most respects more restricted than, those of municipalities. Their revenues amounted in 1887 to £8,969.
+
+Defence.
+
+There is an extensive Admiralty establishment at Simon's Bay, and to defend this Naval station an Imperial garrison of 1,300 men is usually stationed at Cape Town and Wynberg. The defence of the Colony from native attacks has, however, devolved since 1871 upon the Colonial forces. These now consist of the Cape Police (633 strong) and the Cape Mounted Rifles (934 strong, with two field guns), which are permanently embodied and paid. There are also 32 Volunteer Corps, of all arms, numbering 4,600 men (with 11 guns), maintained by a capitation grant. Table Bay is being strongly fortified at the joint expense of the War Office and the Colonial Government.
+
+Dependent Territories.
+
+Basutoland, which formed a portion of the Cape Colony from August, 1871, down to 1884, is now an independent territory, administered by a Resident Commissioner under the instructions of Her Majesty's High Commissioner in South Africa, who also holds the office of Governor of the Cape Colony. Accounts of Basutoland, as well as of British Bechuana land, which is in nearly the same political position, will be found under those headings.
+
+The Northern Border.—Early in 1878, while the war with the Amazos was being carried on, a number of Koranas, Griquas, Kaffirs, and others living along the Orange River, took up arms against the Colony. Their object was simply plunder, and they made several forays deep into the Colony. Their number was not very great, but it was difficult to move a military force to such a remote quarter, and a group of wooded islands situated among rapids in the Orange River afforded them defensive strongholds, and it was more than a year before the insurrection could be suppressed. A magistrate, with a body of police, was then stationed at Upington, on the northern bank of the Orange, from which the islands can be kept under inspection and constantly patrolled. Since this date there have been no further disturbances. The northern border establishment was broken up, and the special Commissioner recalled, on 30th June, 1888.
+
+Fingoland, Idutywa Reserve, and Noman's Land, as explained in Par. 1 of this Article, were annexed to the Cape in October, 1879.
+
+In 1877 the Gcaleka, a tribe residing beyond the Kei, under Kreli, one of the leaders of the great Kaffir war of 1850-53, defied the authority of the British Government, and invaded what is now British territory. They were, however, defeated by the Colonial forces under the im-
+mediate leadership of Colonel C. D. Griffith, C.M.G., then Commandant of the Frontier Armed and Mounted Police. Their territory was overrun, and Kreli deposed, and his country taken as British in October, 1877.
+
+In 1875-76 The Tembus, or Tembuland proper, gave themselves over to the Government, and in 1878 the Bomvanas did the same.
+
+While giving effect to the desire of these tribes to come under the Cape Government, it was also arranged to include in the same scheme of incorporation Gcalekaland and a settlement of native British subjects called the Emigrant Tembus.
+
+They are governed by officials paid by the Cape Government, and under its supervision.
+
+The above-named territories, viz., Tembuland, Emigrant Tembuland, Bomvanaland, and Gcalekaland, were formally proclaimed British territory in November, 1881, and in 1885 they were annexed to the Cape Colony.
+
+In 1885 the Chief Kreli requested to be placed on the same footing as the others, and was located in Bomvanaland, on a tract of land purchased from the Chief of the Bomvanas. Pali, chief of the Amatshezi, who had previously been living in practical independence in Lower Tembuland, formally tendered his submission to Colonial rule in 1886, and he and his people were registered in the same manner as the Tembus.
+
+The Pondoland tribe, under the chiefs Um-dithwa and Umblomlo, and some of the most powerful clans, allied with the Tembu tribe, took up arms against the Colony at the outbreak of the Basuto rebellion. The Tembus proper aided the Colony. The insurrection was suppressed, and a re-settlement of the lands previously occupied by the insurgents effected, by which greater security in the future is promised.
+
+Under a Proclamation of Sir Bartle Frere, dated the 4th September, 1878, Umqikela (died 1887), for breach of treaty arrangements, ceased to be recognized as paramount chief of the Pondo, and the sovereignty of the port and estuary of St. John's River was vested in Her Majesty's Government. A Resident was appointed to represent the Government with Umqikela, who remains Chief of East Pondoland. The Cape Colony customs dues are levied at St. John's River mouth under a Proclamation dated 2nd August, 1881. The port was annexed to the Colony in 1884. Umqikela died in October, 1887, and in February, 1888, his son Sigcau was elected to succeed him. A resident Commissioner in Pondoland was appointed on 6th July, 1888.
+
+West Pondoland is under the Chief Nquillis. A small strip of his territory at the mouth of the St. John's River was acquired by the Cape Government for £1,000.
+
+The district of Mount Ayliff, or the Xesibe country, after having long been administered as a dependency of Griqualand East, was formally annexed to the Colony in October, 1886, and the Rode Valley in October, 1887.
+
+The whole of the natives in these territories are now subject to Colonial rule (except East Pondoland, over which there is a British protectorate).
+
+They are now re-grouped, under three Chief Magistrates, with several subordinate magistrates, in the following manner, viz.:
+
+Griqualand East, under one Chief Magistrate, Mr. W. E. Stanford, and nine subordinate magistrates. It has a population of 2,935 Europeans and 98,000 natives; revenue in 1887, £22,174l. 18s. 11d.; expenditure, £19,838l. 17s. 7d.
+
+Tembuland, comprising Tembuland proper, Bomvanaland, and Emigrant Tembuland, all under one Chief Magistrate, Major Elliot, C.M.G., and seven subordinate magistrates. Major Elliot has also charge of the relations of the Government with Pondoland West. It has a population of 5,619 Europeans and 125,000 natives; revenue in 1887, £16,413l. 1s.; expenditure £17,251l. 1s. 11d.
+
+Transkei, comprising Finagoland, the Idutywa Reserve, Gcalekaland, all under one Chief Magistrate, Captain M. S. Blyth, C.M.G., and six subordinate magistrates. It has a population of 876 Europeans and 128,000 natives; revenue in 1887, £14,162l. 6s. 2d.; expenditure, £15,031l. 7s. 11d.
+
+Statistics of the Cape Colony — Revenue, Expenditure, Debt, Shipping, and Trade.
+
+| Year (ended 30th June) | Actual Revenue. (Revised.) | Customs (including Harbour dues). | Land Revenue. | Total Expenditure (revised.) | Debt of General Government | Debt of Corporate Bodies | Shipping Entered and Cleared for Year ended 31st December. |
+|------------------------|---------------------------|----------------------------------|---------------|----------------------------|--------------------------|--------------------------|-----------------------------------------------------|
+|                        |                           |                                  |               |                            |                          |                          | British Tonnage. | Total Tonnage. |
+| 1877-78                | 1,586,303                 | 775,776                          | 90,925        | 8,667,725                  | 6,986,359                | 462,750                  | 8,015,097       | 3,240,972     |
+| 1878-79                | 2,082,849                 | 923,597                          | 108,466       | 8,441,595                  | 9,527,459                | 489,950                  | 8,895,030       | 4,191,069     |
+| 1879-80                | 2,522,028                 | 983,456                          | 178,419       | 8,794,430                  | 10,583,759               | 808,050                  | 4,216,755       | 4,477,819     |
+| 1880-81                | 3,009,970                 | 1,198,054                        | 161,134       | 5,530,688                  | 12,460,559               | 801,150                  | 4,662,561       | 5,607,501     |
+| 1881-82                | 3,524,859                 | 1,356,947                        | 180,139       | 5,673,559                  | 15,802,759               | 795,650                  | 5,696,452       | 6,092,891     |
+| 1882-83                | 3,209,918                 | 1,119,752                        | 198,422       | 6,346,458                  | 19,671,859               | 1,189,150                | 5,641,523       | 5,969,585     |
+| 1883-84                | 2,949,951                 | 906,499                          | 200,587       | 5,255,709                  | 19,658,267               | 1,145,865                | 5,046,828       | 5,322,117     |
+| 1884-85                | 8,317,310                 | 1,082,218                        | 192,639       | 4,096,012                  | 20,417,227               | 1,254,985                | 5,105,084       | 5,412,855     |
+| 1885-86                | 8,039,280                 | 959,720                          | 184,164       | 3,788,691                  | 21,171,854               | 1,289,438                | 5,278,819       | 5,447,217     |
+| 1886-87                | 3,159,614                 | 940,082                          | 206,840       | 3,332,907                  | 21,194,286               | 1,323,716                | 5,204,046       | 5,481,702     |
+
+Unaudited Revenue.
+
+1887-1888 ... ... £8,426,254.
+### Imports
+
+| Year | From U.K. | From Colonies | From Elsewhere | Total |
+|------|-----------|---------------|----------------|-------|
+| 1878 | £4,505,132 | £913,069      | £738,894       | £6,151,595 |
+| 1879 | £5,732,233 | £665,680      | £685,897       | £7,083,810 |
+| 1880 | £6,124,424 | £747,881      | £790,553       | £7,662,858 |
+| 1881 | £7,319,255 | £896,430      | £1,011,486     | £9,227,171 |
+| 1882 | £7,584,774 | £814,301      | £972,944       | £9,372,019 |
+| 1883 | £8,899,402 | £841,862      | £799,197       | £6,470,391 |
+| 1884 | £4,023,799 | £726,093      | £499,108       | £5,249,000 |
+| 1885 | £3,759,387 | £578,810      | £434,707       | £4,772,904 |
+| 1886 | £3,089,737 | £344,146      | £365,378       | £3,799,261 |
+| 1877 | £4,277,309 | £315,966      | £442,860       | £5,036,185 |
+
+### Exports
+
+| Year | To U.K. | To Colonies | To Elsewhere | Total |
+|------|---------|-------------|--------------|-------|
+| 1878 | £5,350,014 | £149,721    | £115,893     | £5,615,628 |
+| 1879 | £5,968,158 | £170,832    | £246,705     | £6,385,496 |
+| 1880 | £7,336,009 | £84,686     | £289,406     | £7,710,191 |
+| 1881 | £8,090,718 | £124,762    | £181,428     | £8,396,908 |
+| 1882 | £8,112,703 | £77,784     | £316,113     | £8,506,600 |
+| 1883 | £6,723,824 | £93,693     | £333,781     | £7,151,298 |
+| 1884 | £6,520,107 | £86,596     | £338,971     | £6,945,674 |
+| 1885 | £5,451,255 | £81,664     | £278,525     | £5,811,444 |
+| 1886 | £6,694,735 | £91,426     | £339,195     | £7,125,356 |
+| 1877 | £7,460,106 | £81,811     | £317,057     | £7,858,974 |
+
+### Tariff
+
+The following table contains the Customs duties authorised to be levied under Act No. 13 of 1884:
+
+| Item                                                                 | £ s. d. |
+|----------------------------------------------------------------------|--------|
+| Ale and beer, the gallon                                             | 1 0 3  |
+| Boots and shoes, viz.:                                                |        |
+| Men's, the dozen pairs                                               | 0 8 0  |
+| Women's                                                               | 0 6 0  |
+| Boys' and girls', the dozen pairs                                    | 0 3 0  |
+| Children's                                                            | 0 2 0  |
+| Slippers and goloshes, the dozen pairs                               | 0 2 0  |
+| And for every 100l. value                                            | 10 0 0 |
+| Butter, including butterine or any other substance imported for mixing with or for use as butter, the 100 lbs. | 0 12 6 |
+| Candles, the lb.                                                      | 0 0 3  |
+| Carriages, carts, waggons and other wheeled vehicles, including wheelbarrows, for every 100l. value | 20 0 0 |
+| Cartridges, for every 100l. full value                               | 15 0 0 |
+| and for every lb. of gunpowder therein                               | 0 0 6  |
+| Cement, the 400 lbs.                                                 | 0 1 6  |
+| Cheese, the 100 lbs.                                                 | 0 16 8 |
+| Chicory, the 100 lbs.                                                | 0 16 8 |
+| Cider, the gallon                                                     | 0 0 6  |
+| Cinnamon, cloves, or cassia, per lb.                                 | 0 0 3  |
+| Coals, coke, and patent fuel, per ton of 2,000 lb.                  | 0 1 0  |
+| Coffee, cocoa and chocolate, the 100 lbs.                            | 0 16 8 |
+| Confectionery, jams, jellies, and manufactured sweets, not being medicated or properly classed as apothecary ware, but including sweetmeats of all sorts, and other articles with which sugar is largely compounded for preserving purposes, the 100 lbs. | 0 16 8 |
+| Corn and grain, viz.: barley, maize, oats, rye, and wheat, the 100 lbs. | 0 1 0  |
+| Dates                                                                | 0 4 2  |
+| Dynamite, blasting powder, blasting compound, gun cotton, and fuze, the lb. | 0 0 6  |
+| Flour, wheaten, and wheaten meal, the 100 lbs.                       | 0 8 6  |
+| Fruits, dried (all sorts), the 100 lbs.                              | 0 12 6 |
+| Ginger, dry, the lb.                                                 | 0 0 3  |
+| Preserved chow chow, and other similar preserves, the lb.            | 0 0 4  |
+| Gunpowder, the lb.                                                   | 0 0 6  |
+| Guns or gun-barrels, the barrel                                      | 1 0 0  |
+| Lard, the 100 lbs.                                                   | 0 12 5 |
+| Mace, the lb.                                                        | 0 0 3  |
+| Matches, viz.:                                                       |        |
+| Wooden, in boxes or other packages containing not more than 100 matches, the gross | 0 4 0  |
+| In boxes or other packages containing more than 100 and not more than 200 matches, the gross | 0 8 0  |
+| (And at the same rate for larger boxes.)                             |        |
+| Wax vestas and fusees in boxes or other packages, containing up to 50 vestas or fusees, the gross | 0 4 0  |
+| In boxes or other packages containing up to 100 vestas or fusees, the gross | 0 8 0  |
+| (And at the same rate for every additional 50 vestas or fusees).     |        |
+| Meat, salted or cured, and not in cases hermetically sealed, the 100 lbs. | 0 8 4  |
+| Mules, each                                                          | 1 0 0  |
+| Nutmegs, the lb.                                                     | 0 0 3  |
+| Nuts, all kinds, excepting cocoanuts, the 100 lbs.                   | 0 8 4  |
+| Oils, in vessels containing not less than one imperial pint, &c., &c., the imp. gal. | 0 1 0  |
+| Paddy, the 100 lbs.                                                  | 0 2 6  |
+| Pepper, and pimento, the lb.                                         | 0 0 3  |
+| Pistols and pistol-barrels, each                                     | 0 10 0 |
+| Rice, the 100 lbs.                                                   | 0 4 2  |
+| Salt, in bulk or in bags, or other packages of not less than 100 lbs., the 100 lbs. | 0 0 3  |
+| Soap, common, brown, blue, yellow, or mottled, the 100 lbs.          | 0 4 2  |
+| Spirits or strong waters of all sorts, not sweetened, mixed, or perfumed, per gallon proof | 0 10 6 |
+| Spirits or strong waters, in bottles of more than one-sixth of a gallon, or not in bottle, the imperial gallon | 0 10 0 |
+| Spirits, sweetened or mixed, the imperial gallon                      | 0 12 0 |
+| Spirits, perfumed, the imperial gallon                               | 0 15 0 |
+| Sugar, the 100 lbs.                                                  | 0 8 4  |
+| Tallow, the 100 lbs.                                                 | 0 4 2  |
+| Tamarinds, the 100 lbs.                                              | 0 8 4  |
+| Tea, the lb.                                                         | 0 0 8  |
+| Tobacco, not manufactured, the lb.                                    | 0 1 0  |
+| Manufactured (not cigars or snuff), the lb.                          | 0 2 0  |
+| Cigars and Snuff, the lb.                                            | 0 4 0  |
+| And for every 100l. value                                            | 10 0 0 |
+| Cigarettes, the lb. (gross)                                          | 0 3 0  |
+| Turmeric, the lb.                                                    | 0 0 3  |
+| Turpentine, the gallon                                               | 0 1 0  |
+| Varnish, the gallon                                                  | 0 3 0  |
+| Vinegar                                                              | 0 0 6  |
+| Wine, in bottles, each of not greater content than six to the imperial gallon, the dozen bottles | 0 12 0 |
+| In bottles, each of not greater content than twelve to the imperial gallon, the dozen bottles | 0 6 0  |
+| In other bottles, or in wood, the imperial gallon                    | 0 5 0  |
+| Wood, unmanufactured, other than teak, the cubic foot                | 0 0 2  |
+| Wood, other than teak, planed or grooved, the cubic foot             | 0 0 8  |
+Teak, the cubic foot £ s. d.
+Agricultural implements, axles, springs,
+and lamps for carts and carriages, bags
+for flour, grain, coal, and wool, corks
+and bungs, hops, iron, bar, bolt, and
+rod, malt, marble, metal composition,
+rosin, soda, caustic, staves, tin, viz.,
+plate or sheet, wire, iron and steel, for
+fencing, for every 100l. value . . . . . . . . . . . . . . . . . . . . . . 15 0 0
+
+Goods, not being enumerated or de-
+scribed, nor otherwise charged with
+duty, and not prohibited to be im-
+ported or used in the Colony of the
+Cape of Good Hope, for every 100l.
+value . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 0 0
+
+Under Act No. 4 of 1854 a duty of 20 per
+cent ad valorem is payable on the price of foreign
+reprints of British copyright works.
+
+By Act No. 16 of 1857 (not yet promulgated),
+no duties is payable on imports by land of South
+African produce other than spirits, coffee, sugar,
+and molasses, and the duty on such spirits thus
+imported is made equivalent to the Cape excise
+duty of 2s. per gallon.
+
+Free.
+
+Animals, living (excepting mules); anchors and
+chain cables, for ship's use; bottles of common
+glass imported full of wine, beer, or other liquid
+liable to customs duty; books, printed, not being
+foreign reprints of British copyright works;
+bullion or coin; cotton in its raw state; creosote;
+diamonds or other gems in their rough state;
+feathers, ostrich, undressed; *fish; flowers of
+sulphur; fruit, green, including cocoanuts; guano
+and other manures; *hair, viz., Angora; *hides,
+ox and cow; *horns, ox and cow and wild animals,
+ice; *ivory; machinery, viz., for manufacturing
+purposes, driven by other than human power;
+agricultural mining, and sawing; maps and
+charts; photographs; printed music; oil, fish, in a
+raw state; ore, copper and other; paper for printing
+purposes; printers' and bookbinders' materials;
+provisions or other stores for Her Majesty's land
+and sea forces, when the custom duties shall not
+have been paid thereon; railway materials; seeds,
+bulbs, or plants (garden); sheep dip; skins, viz.,
+*goat, *scal, *sheep, *wild animals; specimens
+illustrative of natural history; telegraph materials;
+wine, imported or taken out of bond for the use of
+military officers serving on full pay in this colony,
+and also for the use of officers of Her Majesty's navy
+serving on board any of Her Majesty's ships; wool,
+viz., sheeps; all articles of military, naval, or
+volunteer uniforms or appointments, imported by
+imperial and colonial officers stationed in this
+colony for their own use; maize and other farm
+produce, the growth of St. John's River Territory.
+
+There are no export duties except one (which has
+proved prohibitive) of 100l. upon each ostrich, and
+of 5l. on each ostrich egg. The total revenue from
+customs in 1886-7 was 940,062l.
+
+List of Governors.
+
+179b General J. H. Craig.
+1797 Earl Macartney.
+1798 Sir Francis Dundas (Lieutenant-Governor).
+1799 Sir George Young.
+1801 Sir Francis Dundas (Lieutenant-Governor).
+
+Being the growth and produce of Africa, and not
+manufactured, but in the raw state.
+
+1803 Jan Willem Jansens. (Under the Batavian
+Republic).
+1806 Sir David Baird.
+1807 Hon. H. G. Grey (Lieutenant-Governor).
+1807 Du Pré, Earl of Caledon.
+1811 Hon. H. G. Grey (Lieutenant-Governor).
+1811 Sir John Francis Craddock.
+1813 Hon. Robert Mead (Lieutenant-Governor).
+1814 Lord Charles Henry Somerset.
+1820 Sir Rufane Shaw Donkin (acting).
+1821 Lord Charles Henry Somerset, returned.
+1826 Richard Bourke (Lieutenant-Governor).
+1828 Hon. Sir Galbraith Lowry Cole.
+1834 Lieut.-Col. T. F. Wade (acting-Governor).
+1834 Sir Benjamin D'Urban.
+1836 Sir Andries Stockenstrom, Bart. (Lieutenant-
+Governor of the Eastern Province).
+1838 Sir George Thomas Napier, K.C.B.
+1839 Colonel John Hare (Lieutenant-Governor of
+the Eastern Province).
+1843 Sir Peregrine Maitland.
+1847 Major-General the Right Hon. Sir Henry
+Pottinger, Bart.
+1847 Sir H. F. Young, Kt. (Lieutenant-Governor of
+the Eastern Province).
+1847 Lieut.-General Sir Henry G. W. Smith, Bart.
+1852 Lieut.-General the Hon. G. Cathcart.
+1852 Ch. H. Darling (Lieutenant Governor).
+1854 Sir George Grey, K.C.B.
+1859 Lieut.-General R. H. Wynyard, C.B. (Lieuten-
+ant-Governor).
+1860 Sir G. Grey, K.C.B.
+1861 Sir Philip Edmond Wodehouse, K.C.B.,
+G.C.S.I.
+1870 Sir Henry Barkly, G.C.M.G., K.C.B.
+1877 Sir H. Bartle E. Freero, Bart., G.C.B., G.C.S.I.
+1880 Major-General Sir H. H. Clifford, V.C.,
+K.C.M.G., C.B. (Administrator).
+1880 Major Sir G. C. Strahan, K.C.M.G. (Adminis-
+trator).
+1881 Sir H. G. B. Robinson, G.C.M.G.
+1882 Lieut.-Gen. Hon. Sir Leicester Smyth,
+K.C.M.G., C.B. (Administrator).
+1883 The Rt. Hon. Sir H. G. R. Robinson,
+G.C.M.G.
+1886 Lieut.-Gen. Sir H. O. Torrens, K.C.B.
+(Administrator).
+1887 The Rt. Hon. Sir H. G. R. Robinson,
+G.C.M.G.
+
+Ministries since 1872.
+
+Name of Premier. Date.
+Sir J. C. Molteno, K.C.M.G. ... 1st December, 1872
+J. Gordon Sprigg ... 6th February, 1878
+Sir Thomas Scanlen, K.C.M.G. ... 9th May, 1881
+Thomas Upington ... 10th May, 1884
+Sir J. Gordon Sprigg, K.C.M.G. ... 25th November, 1886
+
+Executive Council.
+
+President, Sir H. G. R. Robinson, G.C.M.G., 1881.
+
+Members.
+
+Richard Southey, C.M.G., 1852.
+Sir Rawson W. Rawson, K.C.M.G., C.R., 1854.
+General Sir R. Percy Douglas, Bart., 1863.
+Francis Bertrand Pinney, 1865.
+William Downes Griffith, 1866.
+Henry White, 1872.
+Sir J. H. de Villiers, Kt., K.C.M.G., 1872, Chief Justice.
+Charles Abercrombie Smith, 1872, Controller and Auditor General.
+John Xavier Merriman, 1875.
+*Sir John Gordon Sprigg, K.C.M.G., 1878, Premier and Treasurer of Colony.
+*Sir Thomas Upington, K.C.M.G., Q.C., 1878, Attorney-General.
+William Ayllif, 1878.
+John Laing, 1878.
+Lord Chelmsford, G.C.B., 1878.
+Henry William Pearson, 1878.
+James Weston Leonard, Q.C., 1881.
+Sir Thomas Charles Scanlen, K.C.M.G., 1881.
+Charles William Hutton, 1881.
+Jacobus Wilhelmus Sauer, 1881.
+John Hendrik Hofmeyr, 1881.
+Cecil John Rhodes, 1884.
+*Frederic Schermbucker, 1884, Commissioner of Crown Lands and Public Works.
+*Jacobus Albertus de Wet, 1884, Secretary for Native Affairs.
+*John Tudhope, 1885, Colonial Secretary.
+Clerk to the Executive Council, Charles H. Pennell.
+
+Legislative Council.
+President, Chief Justice Sir J. H. de Villiers, Knt., K.C.M.G., 500l.
+Clerk to Council, J. A. Fairbairn, 625l.
+Usher of the Black Rod, M. J. Blake, 300l.
+Assistant Clerk and Shorthand Writer, S. le Sueur, 360l.
+Messenger, J. Reilly, 180l.
+
+Members.
+
+Western Province:
+The Hon. Johan George Steytler.
+The Hon. Jacobus Arnoldus Combrinck.
+The Hon. Marthinus Laurentius Neethling.
+
+North-Western Province:
+The Hon. Petrus Benjamin van Rhyn.
+The Hon. Thomas Tennant Heatlie.
+The Hon. Jan Hendrik Hofmeyr.
+
+South-Western Province:
+The Hon. Johan Frederick Taute.
+The Hon. Pieter Hermanus du Plessis.
+The Hon. Pieter Lourens van der Byl.
+
+Midland Province:
+The Hon. Rudolph Philippus Botha.
+The Hon. Willem Adolph Joubert.
+The Hon. Jacobus Arnoldus Burger.
+
+South-Eastern Province:
+The Hon. William Guybon Atherstone.
+The Hon. Alfred Eblen.
+The Hon. William Savage.
+
+North-Eastern Province:
+The Hon. Louis Henri Meurant.
+The Hon. Daniel Petrus van den Hoever.
+The Hon. Robert Mitford Bowker.
+
+Eastern Province:
+*The Hon. Frederic Schermbucker.
+The Hon. Thomas Brown.
+The Hon. Johan Petrus Bertram.
+
+Griqualand West:
+The Hon. William Ross.
+
+House of Assembly.
+Sir David Tennant, Kt., Speaker, 1,000l.
+J. Noble, Clerk to the House, 675l.
+E. F. Kilpin, Clerk Assistant, 400l.
+M. Bergh, Sergeant-at-Arms, 300l.
+H. W. Bidwell, Shorthand Writer and Clerk, 360l.
+J. A. Smuts, Clerk of the Papers, 300l.
+
+* Members of the Cabinet.
+
+Constituency. Members.
+Albany . . . . . . J. N. Ogilvie.
+Albert . . . . . . Robert Crosbie.
+Allwal North . . . . Martinus M. Venter.
+Barkly . . . . . . David Nicholas de Wet.
+Beaufort West . . . . Jacobus W. Sauer.
+Beaufort West . . . . Cecil John Rhodes.
+Caledon . . . . . . George Paton.
+Cape Division . . . . Johannes Augustus Dreyer Desvages.
+Cape Town . . . . . Jacobus Dielan Johannes Oosthuizen.
+Clanwilliam . . . . . Sir Thomas Upington, Q.C., K.C.M.G.
+Colesberg . . . . . . Christian Johannes Nicolaas Dempers.
+Cradock . . . . . . Anders Ohlsson.
+East London . . . . . Correlis Pieter Smuts.
+Fort Beaufort . . . . . Charles John Manuel.
+George . . . . . . Ludwig Wiener.
+Graaff-Reinet . . . . . Philip John Stigant.
+Graham's Town . . . . . Thomas Ekins Fuller.
+Griqualand East . . . . . Anders Olsson.
+Kimberley . . . . . . Ludwig Henry Goldschmidt.
+Kloof . . . . . . D. J. A. Van Zyl.
+King William's Town . . . . . Ignatius J. van der Walt.
+Laingsburg . . . . . . Daniel Jacobus Scholz.
+Lichtenburg . . . . . . Sir Thomas Charles Scanlen, K.C.M.G.
+Matjiesfontein . . . . . Johannes Petrus du Plessis.
+Malmesbury . . . . . . Sir John Gordon Sprigg, K.C.M.G.
+Namaqualand . . . . . . Edward Yewd Brabant, Capt., C.M.G.
+Natal . . . . . . William Ayllif.
+Natal Midlands . . . . . Lewis A. Vincent.
+Natal North . . . . . . Alfred G. Robertson.
+Natal South . . . . . . Jeremias Aurel van Heerden.
+Natal West . . . . . . Jacobus Nicholas Rothman.
+Newcastle . . . . . . Arthur Douglass.
+Pietermaritzburg . . . . . John E. Wood.
+Piet Retief . . . . . . Richard Solomon.
+Port Elizabeth . . . . . William Joseph Warren.
+Queenstown . . . . . . Thomas Arnoldus J. Louw.
+Richmond . . . . . . Charles E. de Villiers.
+Somerset West . . . . . John Xavier Morriman.
+Stellenbosch . . . . . . Charles Lewis.
+Swellendam . . . . . . James Weston Leonard, Q.C.
+Tafelberg . . . . . . Bernardus Johanne Keyter.
+Vaalwater . . . . . . Johannes Jacobus Proctor.
+Vanderbijlpark . . . . . Johannes Stephanus Marsis.
+Vredenburg . . . . . . Sir David Tennant, Kt.
+Witbank . . . . . . David de Waal.
+Woodstock . . . . . . Henry William Pearson.
+Xaveria . . . . . . Charles Tenant Jones.
+Yorks . . . . . . John Frost, C.M.G.
+Zastron . . . . . . Marthinus J. du Plessis.
+Zastron . . . . . . P. J. A. Watermeyer.
+Zastron . . . . . . Thomas Philippus Theron.
+Zastron . . . . . . Thomas Daniel Barry.
+Zastron . . . . . . Johannes Jacobus Nel.
+Zastron . . . . . . Jacobus Albertus de Wet.
+Zastron . . . . . . William Henry Hockly.
+Zastron . . . . . . Philippus A. Myburgh.
+Zastron . . . . . . Jan Hendrik Hofmeyr.
+Constituency. Members.
+
+Swellendam . . . Andries Hendrick du Toit.
+Frederick Jacobus van Eeden.
+
+Tembuland . . . Col. Griffiths, C.M.G.
+John Pigott Nixon, Maj.-Gen.
+John Tudhope.
+
+Victoria East . . . James Rose Innes, jun.
+Stephen Johnson.
+
+Victoria West . . . Abraham Barend de Villiers.
+Abraham Stephanszoon Roex.
+
+Wodehouse . . . Jacobus Albertus van Zyl.
+W. J. van Rensburg.
+
+Worcester . . . Jacob Isaac de Villiers.
+Jacob de Vos.
+
+Governor's Establishment.
+
+Governor, the Rt. Hon. Sir Hercules George Robert Robinson, G.C.M.G., 5,000l., and 1,000l. as High Commissioner, and residences, and 1,000l. personal allowance from Imperial Funds.
+
+Secretary to the High Commissioner, Capt. Graham Bower, C.M.G., R.N., 500l., to 700l.
+
+Private Secretary, F. J. Newton, 360l., and quarters.
+
+Colonial Aide-de-Camp and Military Secretary to the Governor, Captain C. T. Dawkins, 360l.
+
+Extra Aide-de-Camp, H. A. T. Robinson, Lt., 183l.
+
+Clerk to Executive Council and Confidential Clerk, C. H. Pennell, 500l.
+
+Clerks, J. Smuts, 200l., and W. C. Wright, 164l.
+
+Prime Minister's Office.
+
+Premier* Hon. Sir John Gordon Sprigg, K.C.M.G., 260l.
+
+Private Secretary, O. A. Williams, 100l.
+
+Secretary, Sydney Cowper, 400l.
+
+Clerk (2nd Class), A. W. Heywood, 180l.
+
+Messenger, G. Osborne, 100l.
+
+Colonial Secretary's Office.
+
+Colonial Secretary, Hon. John Tudhope, 1,200l.
+
+Under Colonial Secretary, Hampden Willis, C.M.G., 900l.
+
+Secretary for Agriculture, A. Fischer, 700l.
+
+Chief Clerk and Accounting Officer, Henry de Smidt, 500l., also Stamping Commissioner, 75l. allowance.
+
+Principal Clerk, Augustus Charles Dale, 410l.
+
+General Branch.
+
+Clerks of the First Class, J. Langham Dale, jun., and W. H. Milton, 300l., and 37l. 10s. allowance as Secretaries to Tender Board, each; O. A. Williams, 250l., and 100l. allowance as Private Secretary to the Premier.
+
+Clerks of the Second Class, M. Garrett, 200l.; and Secretary, Civil Service Commission, 50l.; T. B. Stenhouse, 190l.; N. Lacey, 170l.; J. du Plessis, 200l.
+
+Clerks of the Third Class, A. J. Brinton, 160l.; N. H. M. Cole, 120l.; F. J. W. V. S. Riet, B.A., 120l.
+
+Clerks, S. Maurice, 200l.; R. Bradshaw, 180l., allowances 56l.
+
+Office-Keeper, H. H. West, 150l., and quarters.
+
+Accounting Branch.
+
+Accounting Officer, Hy. de Smidt (Chief Clerk).
+
+Accountant, P. Barrow, 400l.
+
+Examiners of Accounts, P. Gower, 285l.; H. B. Shawe, 190l.; G. D. Rainier, 175l.; W. B. Gordon, 175l.
+
+* Is also Treasurer.
+
+Bookkeeper, H. W. R. Short, 270l.
+
+Clerk, G. B. Shaw, B.A. (prob.), 120l.
+
+Stationery and Printing Branch.
+
+Chief Examiner, Hy. de Smidt (Chief Clerk), 100l. allowance.
+
+Clerk (Second Class), P. G. Herman, 235l.
+
+Clerk-in-Charge, R. G. Lawrance, 320l., allowance 65l.
+
+Clerks, G. W. J. McLoughlin, 190l.; H. E. Gadd, 145l.
+
+Bookkeeper, W. F. Rose, 200l.
+
+Agricultural Branch.
+
+Second Class Clerk, W. T. Warneford, 250l.
+
+Col. Vet. Surgeon, Dr. Hutcheon, 700l.
+
+Col. Viticulturist, C. J. M. Mayer, 300l.
+
+Inspector of Vineyards, L. Peringuay, 400l.
+
+Tobacco Inspector, R. Schenk, 300l.
+
+Control and Audit Office.
+
+General Branch.
+
+Controller and Auditor-General, O. Abercrombie Smith, M.A., 900l.
+
+Assistant ditto, J. E. B. Rose, 600l.
+
+General and Revenue Branch.
+
+Inspector and Accountant, George Reynolds, 500l.
+
+Bookkeeper, W. A. Gurney, 400l.
+
+Examiners of Accounts, W. F. Beck, 325l.; F. S. Stapleton, 260l.; C. H. Wolfe, jr., 250l.; J. S. Stephenson, 225l.; J. P. Hopkins, 190l.; P. E. F. Broers, 185l.; J. B. S. Long, 185l.; R. Reynolds, 185l.; H. T. L. Maclear, 145l.
+
+Clerk, C. C. Long, 145l.
+
+Expenditure Branch.
+
+Accountant and Inspector, C. Wolfe, 500l.
+
+Examiners of Accounts, F. J. Hohne, 325l.; T. Penn, 325l.; C. B. Fair, 325l.; W. E. Goodman, 325l.; E. F. Collard, 260l.; J. C. Spyker, 260l.; J. F. Marshall, 260l.; A. H. B. Stevens, 250l.; T. de Jongh, 185l.; R. A. Trevor, 185l.
+
+Educational Department.
+
+Superintendent-General of Education, L. Dale, LL.D., M.A., F.R.G.S., 1,000l.
+
+Secretary, G. Maconachie, 500l.
+
+Accounting Officer, A. J. Kuys, 500l.
+
+Accountant, J. Spyker, 375l.
+
+Deputy-Inspectors of Schools, A. N. Rowan, 500l. per annum, F. H. Ely and H. R. Woodroofe, 450l. each; J. Samuel, J. Brady, 400l. each, and 11l. 10s. per day travelling expenses.
+
+Clerk, W. L. Bovell, 225l.
+
+South African Museum.
+
+Curator, Roland Trimen, F.R.S., F.L.S., F.Z.S., 500l. and quarters.
+
+Archives.
+
+Keeper, H. C. Leibbrandt, 300l.
+
+Government Medical Establishment.
+
+Colonial Medical Committee.
+
+President, P. J. Roux, M.D., 141l.
+
+Members, J. Wright, M.D.; A. Abercromby, M.D.; T. Douglas, L.R.C.P., L.R.C.S., and G. H. B. Fisk, M.B., 60l. each.
+
+Secretary and Member, Phillip Landsberg, M.D., 100l.
+CAPE OF GOOD HOPE.
+
 Somerset Hospital.
 Resident Surgeon, F. J. Parson, 300l., quarters, and rations.
 Assistant ditto, G. Eyre (temporary), 150l., quarters and rations.

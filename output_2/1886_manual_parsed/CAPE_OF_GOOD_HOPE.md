@@ -1974,3 +1974,4 @@ Turkey, Cape Town, H. C. Myburgh, Consul-General.
 United States of America, Cape Town, J. W. Siler, Vice-Consul, G. A. Walter; East London, Consular Agent, W. H. Fuller; Grahamstown and Port Alfred, Consular Agent, J. G. Wood; Kimberley, Consular Agent, G. B. Height; Port Elizabeth, Consular Agent, J. W. Philip; Simons Town, Consular Agent, J. R. Black.
 Uruguay, Cape Town, W. J. Knight; Port Elizabeth, J. C. Kemsley.
 Venezuela, Cape Town, C. G. Akerberg.
+

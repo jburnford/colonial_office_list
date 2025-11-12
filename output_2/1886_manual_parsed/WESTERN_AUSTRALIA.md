@@ -597,3 +597,4 @@ United States of America, F. R. Dymes, Consular Agent.
 Holland, W. E. Marmion.
 Italy, E. Solomon, Consular Agent.
 France, W. F. Samson, Consular Agent.
+

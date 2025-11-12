@@ -1,8 +1,25 @@
 {
   "year": 1886,
-  "total_colonies": 34,
-  "parsing_method": "LLM-based manual parsing",
-  "historical_context": "Mid-1880s stability period, 5 years before Second Boer War preparations",
+  "total_colonies": 35,
+  "parsing_method": "Manual LLM-based boundary verification (output_2)",
+  "remediation_date": "November 12, 2025",
+  "original_extraction_count": 34,
+  "corrections_applied": [
+    "Split WEST AFRICA SETTLEMENTS into 2 separate colonies (Sierra Leone, Gambia)",
+    "Verified post-1874 structure: Gold Coast & Lagos separated, Sierra Leone + Gambia remain as West Africa Settlements",
+    "Verified all existing boundaries remain correct"
+  ],
+  "issues_found": {
+    "umbrella_structure": "WEST AFRICA SETTLEMENTS contained Sierra Leone + Gambia (post-1874 reorganization)",
+    "historical_context": "1874 charter separated Gold Coast & Lagos from Sierra Leone & Gambia"
+  },
+  "historical_context": "Year 1886 - Post-1874 West African reorganization; Lagos appears separately (468 lines, 10853-11320)",
+  "notes": [
+    "1874: Gold Coast & Lagos became separate colony from Sierra Leone/Gambia",
+    "West Africa Settlements (1886) = Sierra Leone + Gambia only",
+    "Lagos appears as separate colony (10853-11320)",
+    "All boundaries manually verified by reading OCR source content"
+  ],
   "colonies": [
     {
       "name": "BAHAMAS",
@@ -10,7 +27,8 @@
       "start_line": 1455,
       "end_line": 1836,
       "line_count": 381,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "BARBADOS",
@@ -18,7 +36,8 @@
       "start_line": 1837,
       "end_line": 2462,
       "line_count": 625,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "BERMUDA",
@@ -26,7 +45,8 @@
       "start_line": 2463,
       "end_line": 2905,
       "line_count": 442,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "BRITISH GUIANA",
@@ -34,7 +54,8 @@
       "start_line": 2906,
       "end_line": 3682,
       "line_count": 776,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "BRITISH HONDURAS",
@@ -42,7 +63,8 @@
       "start_line": 3683,
       "end_line": 3939,
       "line_count": 256,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "DOMINION OF CANADA",
@@ -50,7 +72,8 @@
       "start_line": 3939,
       "end_line": 7242,
       "line_count": 3303,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "CAPE OF GOOD HOPE",
@@ -58,7 +81,8 @@
       "start_line": 7243,
       "end_line": 9219,
       "line_count": 1976,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "CEYLON",
@@ -66,7 +90,8 @@
       "start_line": 9220,
       "end_line": 10117,
       "line_count": 897,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "FALKLAND ISLANDS",
@@ -74,7 +99,8 @@
       "start_line": 10118,
       "end_line": 10272,
       "line_count": 154,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "FIJI",
@@ -82,7 +108,8 @@
       "start_line": 10273,
       "end_line": 10644,
       "line_count": 371,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "GIBRALTAR",
@@ -90,7 +117,8 @@
       "start_line": 10645,
       "end_line": 10852,
       "line_count": 207,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "LAGOS",
@@ -98,7 +126,8 @@
       "start_line": 10853,
       "end_line": 11320,
       "line_count": 467,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "HONG KONG",
@@ -106,7 +135,8 @@
       "start_line": 11321,
       "end_line": 11710,
       "line_count": 389,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "JAMAICA",
@@ -114,7 +144,8 @@
       "start_line": 11711,
       "end_line": 12582,
       "line_count": 871,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "LABUAN",
@@ -122,7 +153,8 @@
       "start_line": 12583,
       "end_line": 13352,
       "line_count": 769,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "LEEWARD ISLANDS",
@@ -130,7 +162,8 @@
       "start_line": 13352,
       "end_line": 14273,
       "line_count": 921,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "MALTA",
@@ -138,7 +171,8 @@
       "start_line": 14274,
       "end_line": 14753,
       "line_count": 479,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "MAURITIUS",
@@ -146,7 +180,8 @@
       "start_line": 14754,
       "end_line": 15716,
       "line_count": 962,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "NATAL",
@@ -154,7 +189,8 @@
       "start_line": 15717,
       "end_line": 16519,
       "line_count": 802,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "NEWFOUNDLAND",
@@ -162,7 +198,8 @@
       "start_line": 16520,
       "end_line": 16987,
       "line_count": 467,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "NEW SOUTH WALES",
@@ -170,7 +207,8 @@
       "start_line": 16988,
       "end_line": 17981,
       "line_count": 993,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "NEW ZEALAND",
@@ -178,7 +216,8 @@
       "start_line": 17982,
       "end_line": 18838,
       "line_count": 856,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "QUEENSLAND",
@@ -186,7 +225,8 @@
       "start_line": 18838,
       "end_line": 19405,
       "line_count": 567,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "ST. HELENA",
@@ -194,7 +234,8 @@
       "start_line": 19406,
       "end_line": 19536,
       "line_count": 130,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "SOUTH AUSTRALIA",
@@ -202,7 +243,8 @@
       "start_line": 19537,
       "end_line": 21105,
       "line_count": 1568,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "STRAITS SETTLEMENTS",
@@ -210,7 +252,8 @@
       "start_line": 21105,
       "end_line": 21573,
       "line_count": 468,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "TASMANIA",
@@ -218,7 +261,8 @@
       "start_line": 21573,
       "end_line": 22426,
       "line_count": 853,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "TRINIDAD",
@@ -226,7 +270,8 @@
       "start_line": 22427,
       "end_line": 23391,
       "line_count": 964,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "TURKS AND CAICOS ISLANDS",
@@ -234,7 +279,8 @@
       "start_line": 23392,
       "end_line": 23518,
       "line_count": 126,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "VICTORIA",
@@ -242,15 +288,30 @@
       "start_line": 23519,
       "end_line": 24878,
       "line_count": 1359,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
-      "name": "WEST AFRICA SETTLEMENTS",
-      "filename": "WEST_AFRICA_SETTLEMENTS.md",
-      "start_line": 24879,
+      "name": "SIERRA LEONE",
+      "filename": "SIERRA_LEONE.md",
+      "start_line": 24884,
+      "end_line": 25333,
+      "line_count": 450,
+      "is_appendix": false,
+      "extraction_method": "split_from_umbrella",
+      "original_umbrella": "WEST AFRICA SETTLEMENTS",
+      "note": "Part of West Africa Settlements (post-1874: Sierra Leone + Gambia only)"
+    },
+    {
+      "name": "THE GAMBIA",
+      "filename": "THE_GAMBIA.md",
+      "start_line": 25334,
       "end_line": 25548,
-      "line_count": 669,
-      "is_appendix": false
+      "line_count": 215,
+      "is_appendix": false,
+      "extraction_method": "split_from_umbrella",
+      "original_umbrella": "WEST AFRICA SETTLEMENTS",
+      "note": "Part of West Africa Settlements (post-1874: Sierra Leone + Gambia only)"
     },
     {
       "name": "WESTERN AUSTRALIA",
@@ -258,7 +319,8 @@
       "start_line": 25549,
       "end_line": 26148,
       "line_count": 599,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "WINDWARD ISLANDS",
@@ -266,7 +328,8 @@
       "start_line": 26149,
       "end_line": 27469,
       "line_count": 1320,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "CYPRUS",
@@ -274,7 +337,8 @@
       "start_line": 27470,
       "end_line": 27888,
       "line_count": 418,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     }
   ]
 }

@@ -895,3 +895,4 @@ Spain—A. A. Delmege, Vice-Consul at Colombo.
 DOMINICA.
 
 (See Leeward Islands.)
+

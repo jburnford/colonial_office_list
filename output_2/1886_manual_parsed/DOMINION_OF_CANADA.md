@@ -3301,3 +3301,4 @@ Sheriff, S. E. St. O. Chapleau, £1,600.
 
 High Commissioner for Canada in London, Hon. Sir Charles Tupper, G.C.M.G., C.B.
 Secretary, Joseph G. Colmer, 9, Victoria Chambers, Westminster, S.W.
+

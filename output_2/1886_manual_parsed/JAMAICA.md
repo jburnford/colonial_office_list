@@ -869,3 +869,4 @@ Spain, G. S. Phillips, V.C., Montego Bay; G. S. Phillips, V.C., Montego Bay; A. 
 Sweden and Norway, G. S. Phillips, V.C., Montego Bay; Robert Mines, V.C., Falmouth; S. C. Peynado, V.C., Black River; Z. Jones, V.C., Sav. la Mar; W. G. Price, V.C., Milk River.
 United States, Robert Nunes, C.A., Falmouth; Samah G. Corinaldi, C.A., Montego Bay; M. Solomon, C.A., St. Ann's Bay; C. S. Farquharson, C.A., Sav. la Mar; P. A. Moodie, C.A., St. Antonio; W. G. Price, C.A., Milk River; L. D. Baker, junior, C.A., Port Morant.
 Venezuela, S. Soutar, V.C., Kingston.
+

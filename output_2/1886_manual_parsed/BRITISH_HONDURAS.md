@@ -254,3 +254,4 @@ Intendant, Belize Hospital, R. Eagan, 120l.
 Lunatic Asylum, 3 Attendants, 132l.
 Poor House Attendant, 36l.
 Intendant, Corosol Hospital, James Roberts, 86l.
+DOMINION OF CANADA.

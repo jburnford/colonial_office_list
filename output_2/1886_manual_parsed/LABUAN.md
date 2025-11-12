@@ -767,3 +767,4 @@ The Customs Tariff is as follows:
 | Articles not enumerated and not comprised in the clause of exemption, on every 100l. value | 7 10 0  |
 
 * Since December, 1884, rum pays 2s. 6d. per gallon of 26° proof strength, with 1d. per gallon additional for every degree above proof, and 1d. off for every degree below.
+LEEWARD ISLANDS—ST. CHRISTOPHER AND NEVIS.

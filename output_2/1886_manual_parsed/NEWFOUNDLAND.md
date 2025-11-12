@@ -465,3 +465,4 @@ Brazil.—A. O. Hayward, Vice-Consul. Consular Agents—W. H. Thompson, Concepti
 Belgium.—H. E. Hayward, Consul.
 
 German Empire.—Robert H. Prowse, Consul, St. John's. Port of Nain, Labrador, Mr. Bourquin.
+

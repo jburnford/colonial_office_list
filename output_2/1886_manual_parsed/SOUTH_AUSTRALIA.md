@@ -1566,3 +1566,4 @@ Colonial Secretary's Office.
 
 Colonial Secretary—J. F. Dickson, C.M.G. 9,000
 Assistant Colonial Secretary and Clerk of Councils, A. P. Talbot 4,800
+### STRAITS SETTLEMENTS

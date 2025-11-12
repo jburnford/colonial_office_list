@@ -128,3 +128,4 @@ H. J. Basell, Consul for Denmark and Portugal.
 R. P. Pooley, Consul for Peru, and Vice-Consul for Sweden and Norway.
 J. A. McKnight, Consul for United States of America, and T. G. Fowler, Vice-Consul.
 G. N. Moss, Vice-Consul for Spain.
+

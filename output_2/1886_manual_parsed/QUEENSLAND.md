@@ -565,3 +565,4 @@ Hawaii, E. A. Smith.
 Consular Agent for United States of America, at Brisbane, George Harris; at Townsville, Wm. Villiers Brown.
 Italy, B. L. Barnett.
 France, Hon. E. B. Forrest.
+

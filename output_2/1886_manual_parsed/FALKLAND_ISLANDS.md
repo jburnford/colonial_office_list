@@ -152,3 +152,4 @@ Consuls.
 Consul for the United States, H. L. Lasar.
 Consul for German Empire, Italy, and Chili, Mr. Cobb.
 Consul for Denmark, Sweden, and Norway, and Vice-Consul for United States, G. M. Dean.
+

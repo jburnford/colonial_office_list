@@ -623,3 +623,4 @@ Netherlands, Wm. Richard Man.
 Peruvian Republic, Darnley C. Da Costa (Acting).
 Sweden and Norway, J. G. Austin, jun.
 Venezuela, V. Hanschell.
+

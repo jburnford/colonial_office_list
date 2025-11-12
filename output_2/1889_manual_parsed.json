@@ -1,8 +1,27 @@
 {
   "year": 1889,
-  "total_colonies": 30,
-  "parsing_method": "LLM-based manual parsing (batch processing)",
-  "historical_context": "Year 1889 - Scramble for Africa peak, pre-Second Boer War",
+  "total_colonies": 31,
+  "parsing_method": "Manual LLM-based boundary verification (output_2)",
+  "remediation_date": "November 12, 2025",
+  "original_extraction_count": 30,
+  "corrections_applied": [
+    "Fixed BRITISH NEW GUINEA contamination (was 4,256 lines containing 3 colonies)",
+    "Recovered DOMINION OF CANADA (3,377 lines) - was completely missing!",
+    "Fixed CAPE OF GOOD HOPE boundaries (was missing main section 7479-8307)",
+    "Split contaminated file into 3 separate colonies"
+  ],
+  "issues_found": {
+    "massive_contamination": "BRITISH NEW GUINEA (4052-8307) contained 3 distinct colonies merged together",
+    "missing_colony": "DOMINION OF CANADA (4102-7478) completely absent from original metadata",
+    "incorrect_boundaries": "CAPE OF GOOD HOPE started at 8308 instead of 7479, missing 829 lines of main content"
+  },
+  "historical_context": "Year 1889 - Dominion of Canada includes all provinces; Cape of Good Hope post-Boer War expansion",
+  "notes": [
+    "BRITISH NEW GUINEA reduced from 4,256 to 50 lines (correct size)",
+    "DOMINION OF CANADA recovered: 3,377 lines of completely missing content",
+    "CAPE OF GOOD HOPE corrected: now 1,848 lines (was 1,019), includes proper colony header and main sections",
+    "All boundaries manually verified by reading OCR source content"
+  ],
   "colonies": [
     {
       "name": "BAHAMAS",
@@ -10,7 +29,8 @@
       "start_line": 1366,
       "end_line": 1714,
       "line_count": 349,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "BARBADOS",
@@ -18,7 +38,8 @@
       "start_line": 1715,
       "end_line": 2377,
       "line_count": 663,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "BASUTOLAND",
@@ -26,7 +47,8 @@
       "start_line": 2378,
       "end_line": 2477,
       "line_count": 100,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "BERMUDA",
@@ -34,7 +56,8 @@
       "start_line": 2478,
       "end_line": 2819,
       "line_count": 342,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "BRITISH BECHUANALAND",
@@ -42,7 +65,8 @@
       "start_line": 2820,
       "end_line": 2997,
       "line_count": 178,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "BRITISH GUIANA",
@@ -50,7 +74,8 @@
       "start_line": 2998,
       "end_line": 3715,
       "line_count": 718,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "BRITISH HONDURAS",
@@ -58,23 +83,38 @@
       "start_line": 3716,
       "end_line": 4051,
       "line_count": 336,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "BRITISH NEW GUINEA",
       "filename": "BRITISH_NEW_GUINEA.md",
       "start_line": 4052,
-      "end_line": 8307,
-      "line_count": 4256,
-      "is_appendix": false
+      "end_line": 4101,
+      "line_count": 50,
+      "is_appendix": false,
+      "extraction_method": "corrected_contamination",
+      "note": "Fixed from contaminated file (was 4,256 lines containing 3 colonies)"
+    },
+    {
+      "name": "DOMINION OF CANADA",
+      "filename": "DOMINION_OF_CANADA.md",
+      "start_line": 4102,
+      "end_line": 7478,
+      "line_count": 3377,
+      "is_appendix": false,
+      "extraction_method": "corrected_contamination",
+      "note": "RECOVERED MISSING COLONY - was completely absent from original extraction"
     },
     {
       "name": "CAPE OF GOOD HOPE",
       "filename": "CAPE_OF_GOOD_HOPE.md",
-      "start_line": 8308,
+      "start_line": 7479,
       "end_line": 9326,
-      "line_count": 1019,
-      "is_appendix": false
+      "line_count": 1848,
+      "is_appendix": false,
+      "extraction_method": "corrected_contamination",
+      "note": "Fixed boundaries - was missing main section 7479-8307 (started incorrectly at 8308)"
     },
     {
       "name": "CEYLON",
@@ -82,7 +122,8 @@
       "start_line": 9327,
       "end_line": 10163,
       "line_count": 837,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "FALKLAND ISLANDS",
@@ -90,7 +131,8 @@
       "start_line": 10164,
       "end_line": 10336,
       "line_count": 173,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "FIJI",
@@ -98,7 +140,8 @@
       "start_line": 10337,
       "end_line": 10736,
       "line_count": 400,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "THE GAMBIA",
@@ -106,7 +149,8 @@
       "start_line": 10737,
       "end_line": 10962,
       "line_count": 226,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "GIBRALTAR",
@@ -114,7 +158,8 @@
       "start_line": 10963,
       "end_line": 11132,
       "line_count": 170,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "THE GOLD COAST COLONY",
@@ -122,7 +167,8 @@
       "start_line": 11133,
       "end_line": 11613,
       "line_count": 481,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "HONG KONG",
@@ -130,7 +176,8 @@
       "start_line": 11614,
       "end_line": 11956,
       "line_count": 343,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "JAMAICA",
@@ -138,7 +185,8 @@
       "start_line": 11957,
       "end_line": 12743,
       "line_count": 787,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "LABUAN",
@@ -146,7 +194,8 @@
       "start_line": 12744,
       "end_line": 13194,
       "line_count": 451,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "THE LEEWARD ISLANDS",
@@ -154,7 +203,8 @@
       "start_line": 13195,
       "end_line": 14547,
       "line_count": 1353,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "MALTA",
@@ -162,7 +212,8 @@
       "start_line": 14548,
       "end_line": 14994,
       "line_count": 447,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "MAURITIUS",
@@ -170,7 +221,8 @@
       "start_line": 14995,
       "end_line": 16693,
       "line_count": 1699,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "NEWFOUNDLAND",
@@ -178,7 +230,8 @@
       "start_line": 16694,
       "end_line": 19176,
       "line_count": 2483,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "QUEENSLAND",
@@ -186,7 +239,8 @@
       "start_line": 19177,
       "end_line": 19639,
       "line_count": 463,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "SIERRA LEONE",
@@ -194,7 +248,8 @@
       "start_line": 19640,
       "end_line": 20039,
       "line_count": 400,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "SOUTH AUSTRALIA",
@@ -202,7 +257,8 @@
       "start_line": 20040,
       "end_line": 22247,
       "line_count": 2208,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "TRINIDAD AND TOBAGO",
@@ -210,7 +266,8 @@
       "start_line": 22248,
       "end_line": 23502,
       "line_count": 1255,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "TURKS AND CAICOS ISLANDS",
@@ -218,7 +275,8 @@
       "start_line": 23503,
       "end_line": 24989,
       "line_count": 1487,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "WESTERN AUSTRALIA",
@@ -226,7 +284,8 @@
       "start_line": 24990,
       "end_line": 25556,
       "line_count": 567,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "THE WINDWARD ISLANDS",
@@ -234,7 +293,8 @@
       "start_line": 25557,
       "end_line": 26635,
       "line_count": 1079,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     },
     {
       "name": "ZULULAND",
@@ -242,7 +302,8 @@
       "start_line": 26636,
       "end_line": 26754,
       "line_count": 119,
-      "is_appendix": false
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
     }
   ]
 }

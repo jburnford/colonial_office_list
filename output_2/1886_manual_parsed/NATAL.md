@@ -800,3 +800,4 @@ Portugal, Edward Snell, Vice-Consul.
 Netherlands, B. H. De Waal.
 Austria-Hungary, E. Munder, Vice-Consul.
 Sweden and Norway, Edward George Baynton, Vice-Consul.
+

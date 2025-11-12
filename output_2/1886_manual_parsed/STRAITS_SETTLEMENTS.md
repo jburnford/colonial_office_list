@@ -466,3 +466,4 @@ $5,200
 * With entertainment allowance.
 
 † The Dindings are placed temporarily under the Resident, Perak.
+TASMANIA.

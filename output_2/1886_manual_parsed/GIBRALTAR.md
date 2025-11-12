@@ -205,3 +205,4 @@ Temperature.
 No regular meteorological observations have as yet been preserved, but the mean temperature may be assumed to be about 81°, and the range of the thermometer to from 65° to 90° Fahr. in the shade.
 
 The principal articles of export are palm oil, gum copal, palm kernels, ivory, camwood indiarubber, cotton, ground nuts, and Guinea grains.
+

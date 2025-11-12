@@ -387,3 +387,4 @@ Spain, Manuel Cácer, consul.
 Sweden and Norway, Peter Julius Rudolph Diedrich Buschmann.
 United States, R. E. Withers, consul.
 Venezuela, João José da Silva e Souza.
+

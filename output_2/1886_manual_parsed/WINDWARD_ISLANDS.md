@@ -1318,3 +1318,4 @@ Assistant Resident, Dent Province, D. D. Daly.
 Keppel, S. E. Dalrymple.
 Alcock, R. M. Little.
 Chief Inspector of Constabulary, T. Smith.
+

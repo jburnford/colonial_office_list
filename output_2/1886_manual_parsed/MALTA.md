@@ -477,3 +477,4 @@ Turkey, Antoine Naoum Duhany (Consul General).
 United States, John Worthington.
 United States, C. Breed Eynaud (Vice-Consul).
 Venezuela, Stefano Micallef Eynaud.
+

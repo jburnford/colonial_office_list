@@ -440,3 +440,4 @@ Spain, James A. Atwood.
 Norway and Sweden, James A. Conyers.
 Denmark and Portugal, J. S. Darrell.
 German Empire, Wm. E. Meyer.
+

@@ -851,3 +851,4 @@ Denmark, John Macfarlane, Vice-Consul.
 United States, Alexander George Webster, Consul.
 Sweden and Norway (Launceston), Alfred Harrap, Vice-Consul.
 Hawaii, Audley Coote, Hawaiian Consul.
+

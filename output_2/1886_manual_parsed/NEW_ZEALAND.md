@@ -854,3 +854,4 @@ France, Consul-General, G. Eugene Simon (Sydney), Consular Agents, John Johnston
 Sweden and Norway, Consuls, Fortunatus Evelyn Wright (in temporary charge) (Christchurch), Edward Pearce (Wellington), Vice-Consul, Harlan Page Barber (Auckland), Consular Agent, Edmund Quick (Dunedin).
 
 Denmark, Consul, Franz Kummer (Auckland), Vice-Consul, Edmund Quick (Dunedin), Consul (for New Zealand), Christian Julius Toxward (Wellington), Vice-Consul, Emil Christian Skog (Christchurch).
+Queensland occupies the whole of the northeastern portion of Australia, commencing at a point of the east coast called Point Danger, in lat. 28° 8' south, about 400 miles north of Sydney, the capital of New South Wales.

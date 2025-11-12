@@ -991,3 +991,4 @@ Sweden and Norway, Charles Gedge; Consular Representative, A. J. Seivers; Vice-C
 Switzerland, Conrad Stachelin Werner.
 
 United States of America, Charles Kahlo; Vice-Consul, G. M. Slate; Consular Agent (Newcastle), Alexander Brown.
+

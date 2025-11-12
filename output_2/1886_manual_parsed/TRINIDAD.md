@@ -962,3 +962,4 @@ Sweden and Noricay, August Schüner.
 Netherlands, Lucien François Ambard.
 Columbia, Isaac Pereira.
 U.S. America, Vice-Consul J. H. Archer.
+

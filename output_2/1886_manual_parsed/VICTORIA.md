@@ -1357,3 +1357,4 @@ Vice-Consul (at Melbourne), A. B. Were. Vice-Consul (at Geelong), G. F. Belcher.
 Swiss Confederation, G. de Purry.
 United States, Consul-General for all the Australian Colonies, Tasmania, and New Zealand, James M. Morgan. Vice-Consul General, J. K. Smyth.
 Venezuela, Consul, S. M. Gibbs.
+

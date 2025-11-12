@@ -363,3 +363,55 @@ All corrections will be logged here with:
 
 **Log maintained by:** Claude (Sonnet 4.5)
 **Last updated:** [timestamp]
+
+---
+
+## YEARS: 1883, 1886, 1889, 1894, 1896-1900
+**Status:** ✅ VERIFIED CLEAN - NO REMEDIATION NEEDED
+**Priority:** Routine verification
+**Issues:** None
+
+**Verification Results:**
+
+All 9 years verified as clean through automated screening:
+- ✅ 1883: 42 colonies, no overlaps
+- ✅ 1886: 34 colonies, no overlaps
+- ✅ 1889: 30 colonies, no overlaps
+- ✅ 1894: 45 colonies, no overlaps
+- ✅ 1896: 44 colonies, no overlaps
+- ✅ 1897: 39 colonies, no overlaps
+- ✅ 1898: 51 colonies, no overlaps
+- ✅ 1899: 45 colonies, no overlaps
+- ✅ 1900: 50 colonies, no overlaps
+
+**Action Taken:**
+- Copied all 9 years directly to output_2 (no corrections needed)
+- All files have non-overlapping line ranges
+- Normal colony counts (30-51) within expected range
+
+**Completion Date:** November 12, 2025
+
+---
+
+## YEAR: 1905
+**Status:** 🔍 IN PROGRESS - COMPLEX OVER-EXTRACTION
+**Priority:** HIGH
+**Issues:** Severe over-extraction (91 "colonies" instead of ~45-50)
+
+**Initial Analysis:**
+
+Found 91 extracted "colonies" with following issues:
+- ❌ Duplicates: BERMUDA (2x), CAPE OF GOOD HOPE (2x), FIJI (3x), TRINIDAD (3x), EXECUTIVE COUNCIL (2x)
+- ❌ Admin subsections: THE CABINET, THE SENATE OF CANADA, LEGISLATIVE COUNCIL, COUNCIL OF GOVERNMENT
+- ❌ Trade sections: EXPORTS (4 times!), SHIPPING ENTERED AND CLEARED, MAIL AND STEAMSHIP SERVICES  
+- ❌ Regional subdivisions: ADELAIDE, DURBAN, DURBANVILLE, KEISKAMA HOEK
+- ❌ Person name: LOUIS BOTHA (incorrectly extracted as colony)
+- ❌ Appendix: APPENDIX TO PART II (0 lines)
+- ✅ No overlapping line ranges (good!)
+
+**Action Required:**
+Detailed manual analysis needed to identify ~45-50 legitimate colonies from 91 extracted entries.
+
+**Status:** Ready for detailed manual analysis
+
+---

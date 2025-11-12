@@ -1,0 +1,147 @@
+
+DOMINICA.
+
+Dominica is situated between 15° 20' and 15° 45' N. lat., and 61° 13' and 61° 30' W. long.; 29 miles long and 16 broad; very mountainous and picturesque; was discovered by Christopher Columbus, on Sunday (hence its name), the 3rd November, 1498, on his second voyage. It lies between the French Islands of Guadeloupe and Martinique, and has an area of 291 square miles.
+
+This island was included in the grant made of sundry islands in the Carribean Sea to the Earl of Carlisle, by a patent, dated 2nd June, 1627; but several attempts to bring the place under subjection to the English proved abortive. By the treaty signed at Aix-la-Chapelle, in 1748, it was stipulated between the English and French that Dominica and some other islands should remain neutral, and that the original proprietors, the Caribs, should be left in possession. During the time that Dominica was thus professedly regarded by the English and by the French as a "neutral" island, many French planters settled on it and established plantations.
+
+Dominica was captured by the English in 1756, and by the ninth article of the peace of Paris, in 1763, was assigned to Great Britain. Commissioners were sent out for the purpose of surveying and selling lands capable of cultivation, which yielded to the British Crown the sum of £12,092/. 11s. 1d. sterling. The French settlers were generously secured in their possessions, on condition of taking the oath of allegiance and paying a small quit rent. Dominica at this time formed one of a General Government, comprising, also Grenada and the Grenadines, St. Vincent, and Tobago.
+
+In 1771 the island was constituted a separate Government.
+
+In 1771, the French, attracted by the fertility of the place, and invited over from Martinique by some of their countrymen, prepared a military and naval armament against the island, under the Marquis de Bouillé, Governor of Martinique, and became masters of the island on the 7th of September, after an obstinate resistance. Marquis Duchilleau, a cruel and tyrannical officer, was left as Governor; trade failed and great distress followed.
+
+In 1783, the island was again restored to the English, and Sir John Ord, Bart., was appointed Governor.
+
+In 1805, now the most remarkable epoch used in the island for marking the time of events, and which goes by the name of La Grange (the name of the invading General), the French again landed at each flank of Roseau. The regular troops and the militia fought gallantly, but unfortunately Roseau, the capital, was set on fire accidentally, and was obliged to capitulate, paying the enemy 12,000l. to quit; whilst the Governor, Sir George Prévost, and the troops (regular and militia) proceeded across the island to the superior position of Prince Rupert.
+
+Serious riots occurred in 1893 in connexion with the collection of taxes in the interior of the Island. The police and marines were stoned, and compelled to fire on the rioters, with fatal results.
+
+An inquiry into the administration was ordered by the Secretary of State, and entrusted to Sir R. Hamilton, formerly Governor of Tasmania, who left for Dominica in November, 1893, and returned to England in December of the same year.
+
+Sugar, cocoa, and lime-juice are the chief products, but some fruit, coffee, spice, oils, and timber are also exported from the island. The principal exports in 1894 were: Coffee, 5,409 lbs., cocoa, 692,718 lbs.; sugar, 1,220 hogsheads; lime-juice, value 10,964. The island abounds in rivers and rivulets, well stocked with fish. The average rainfall for 1894 was 87 inches.
+
+The chief town is Roseau, population about 4,500; it is a port of registry, and had registered on 31st December, 1894, five vessels, of a total tonnage of 54.
+
+The Local Government is administered by an Administrator, aided by an Executive Council of 10 members. In 1865 the Legislative Assembly was reduced, by an Act of the Local Legislature, from 9 nominated and 19 elected members, to 7 nominated and 7 elected members. The president presides over the deliberations of this body, and exercises a casting vote in the House, and a deliberative as well as a casting vote in Committees.
+Electors for a parish must possess land or houses to be rented at 4l. per annum, or be an occupier of premises worth 8l. per annum, or have an income of 25l., or pay taxes of 15s. per annum.
+
+Two-thirds of the inhabitants speak a French patois.
+
+### Finances
+
+| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |
+|------|---------|-------------|-----------------|---------------|
+| 1885 | 15,841  | 16,927      | 270,164         | 273,446       |
+| 1886 | 15,238  | 15,642      | 302,063         | 304,423       |
+| 1887 | 15,702  | 16,774      | 276,248         | 279,205       |
+| 1888 | 17,238  | 18,025      | 272,150         | 274,471       |
+| 1889 | 20,977  | 19,942      | 294,862         | 295,866       |
+| 1890 | 21,574  | 23,607      | 318,644         | 332,448       |
+| 1891 | 21,533  | 22,009      | 375,370         | 375,728       |
+| 1892 | 22,715  | 25,074      | 385,145         | 389,915       |
+| 1893 | 22,347  | 26,871      | 412,475         | 414,665       |
+| 1894 | 22,982  | 27,833      | 416,816         | 418,124       |
+
+### Imports
+
+| Year | From U.K. | From Colonies | From Elsewhere | Total |
+|------|-----------|---------------|----------------|-------|
+| 1885 | 18,850    | 11,506        | 19,847         | 50,203 |
+| 1886 | 20,869    | 11,516        | 17,348         | 49,733 |
+| 1887 | 20,844    | 8,380         | 18,166         | 46,890 |
+| 1888 | 23,545    | 10,619        | 14,996         | 49,160 |
+| 1889 | 29,263    | 12,711        | 15,272         | 57,248 |
+| 1890 | 27,388    | 11,423        | 17,168         | 55,979 |
+| 1891 | 28,368    | 11,719        | 20,693         | 60,780 |
+| 1892 | 30,012    | 10,914        | 17,839         | 58,765 |
+| 1893 | 34,008    | 10,770        | 19,774         | 64,552 |
+| 1894 | 23,975    | 13,021        | 16,805         | 53,801 |
+
+### Exports
+
+| Year | To U.K. | To Colonies | To Elsewhere | Total |
+|------|---------|-------------|--------------|-------|
+| 1885 | 13,018  | 1,671       | 37,796       | 52,485 |
+| 1886 | 15,798  | 2,528       | 33,203       | 61,529 |
+| 1887 | 12,732  | 2,596       | 32,777       | 48,105 |
+| 1888 | 14,525  | 3,866       | 24,330       | 42,221 |
+| 1889 | 18,558  | 3,567       | 25,204       | 47,325 |
+| 1890 | 11,239  | 2,202       | 26,087       | 39,528 |
+| 1891 | 21,094  | 804         | 17,012       | 38,910 |
+| 1892 | 20,886  | 1,472       | 21,280       | 43,638 |
+| 1893 | 26,428  | 3,356       | 23,968       | 53,782 |
+| 1894 | 15,905  | 7,111       | 19,646       | 42,662 |
+
+Population, Census 1881—28,211 (309 Caribs).
+
+Debt, 31st Dec., 1892—40,900L.
+
+Customs Revenue, 1894—7,270L.
+
+### Executive Council
+
+The Governor of the Leeward Islands.
+The Colonial Secretary.
+The Attorney-General.
+The Auditor-General.
+The Administrator.
+W. Stedman.
+
+### Legislative Assembly
+
+Crown Nominees.
+W. Stedman.
+L. A. Giraud.
+W. Coull.
+C. Musgrave.
+A. D. Lockhart.
+W. H. Porter.
+S. R. Pemberton.
+
+Elective Members.
+J. J. L. Bellot.
+A. R. Lockhart.
+Hy. Hamilton.
+W. Davies.
+D. O. Riviere.
+H. Rolle.
+A. Belbot.
+
+Civil Establishment.
+
+Administrator, P. A. Templer, 900L.; Clerk, E. S. Holme.
+
+Treasurer, W. H. Porter, 300L.
+
+Revenue Officers, J. W. Trail, 125L.; C. A. Seignoret, 125L.; A. P. Viret, 125L. and fees; A. D. Boyd, 140L. and fees.
+
+District Government Officers, C. R. Lauder, 175L. and 75L. addl.; Alex. Robinson, E. R. Green, I. H. Winston, 150L. each, and 25L. horse allowance.
+
+Postmaster, F. S. Fadello (acting), 100L.; 50L. additional.
+
+Clerk to Colonial Engineer, J. A. Pinard, 75L.
+
+Medical Officer of Public Institutions, H. A. A. Nicholls, M.D., 300L.
+
+Ditto, Dist. A, W. R. Williams, 250L.
+
+Ditto, Dist. B, N. G. Cookman, 250L.
+
+Ditto, Lasoye Dist., R. S. Earl, 200L.
+
+Ditto, Windward Dist., S. Scouhoue, 200L.
+
+Registrar and Provost Marshal, Christopher Musgrave, 250L.
+
+Interpreter to Court, J. A. Pinard, 25L.
+
+Magistrates, Wm. Coull, W. H. Roper, 300L. each; R. F. Garraway (acting), 250L.
+
+Foreign Consuls.
+
+France, L. A. Giraud.
+
+United States of America, Wm. Stedman.
+
+---

@@ -1,4 +1,3 @@
-
 CAPE OF GOOD HOPE.
 
 Extent and Boundaries.

@@ -1,0 +1,442 @@
+{
+  "year": 1932,
+  "total_colonies": 47,
+  "parsing_method": "Manual LLM-based boundary verification with automated pattern detection (output_2)",
+  "remediation_date": "November 16, 2025",
+  "original_extraction_count": 53,
+  "corrections_applied": [
+    "Merged 4 AUSTRALIA subsections into 1 entry (3082-6002, 2920 lines)",
+    "Fixed ADEN massive over-extraction: 19688 \u2192 38 lines",
+    "Added missing TRISTAN DA CUNHA (16 lines)"
+  ],
+  "issues_found": {
+    "australia_over_extraction": true,
+    "trinidad_tobago_split": false,
+    "aden_over_extraction": true
+  },
+  "colonies": [
+    {
+      "name": "CANADA",
+      "filename": "CANADA.md",
+      "start_line": 3064,
+      "end_line": 3074,
+      "line_count": 10,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "UNION OF SOUTH AFRICA",
+      "filename": "UNION_OF_SOUTH_AFRICA.md",
+      "start_line": 3074,
+      "end_line": 3082,
+      "line_count": 8,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "AUSTRALIA",
+      "filename": "AUSTRALIA.md",
+      "start_line": 3082,
+      "end_line": 6002,
+      "line_count": 2920,
+      "is_appendix": false,
+      "extraction_method": "merged_or_manually_added"
+    },
+    {
+      "name": "DOMINION OF CANADA",
+      "filename": "DOMINION_OF_CANADA.md",
+      "start_line": 12831,
+      "end_line": 15696,
+      "line_count": 2865,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH COLUMBIA",
+      "filename": "BRITISH_COLUMBIA.md",
+      "start_line": 15696,
+      "end_line": 16877,
+      "line_count": 1181,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "filename": "NEWFOUNDLAND.md",
+      "start_line": 16877,
+      "end_line": 17468,
+      "line_count": 591,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NEW ZEALAND",
+      "filename": "NEW_ZEALAND.md",
+      "start_line": 17468,
+      "end_line": 18712,
+      "line_count": 1244,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SOUTH AFRICA",
+      "filename": "SOUTH_AFRICA.md",
+      "start_line": 18712,
+      "end_line": 18746,
+      "line_count": 34,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TANGANYIKA TERRITORY",
+      "filename": "TANGANYIKA_TERRITORY.md",
+      "start_line": 18746,
+      "end_line": 19623,
+      "line_count": 877,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CAPE OF GOOD HOPE",
+      "filename": "CAPE_OF_GOOD_HOPE.md",
+      "start_line": 19623,
+      "end_line": 21483,
+      "line_count": 1860,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BASUTOLAND",
+      "filename": "BASUTOLAND.md",
+      "start_line": 21483,
+      "end_line": 21767,
+      "line_count": 284,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SWAZILAND",
+      "filename": "SWAZILAND.md",
+      "start_line": 21767,
+      "end_line": 21944,
+      "line_count": 177,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SOUTHERN RHODESIA",
+      "filename": "SOUTHERN_RHODESIA.md",
+      "start_line": 21944,
+      "end_line": 23135,
+      "line_count": 1191,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BAHAMAS",
+      "filename": "BAHAMAS.md",
+      "start_line": 23135,
+      "end_line": 24162,
+      "line_count": 1027,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BERMUDA",
+      "filename": "BERMUDA.md",
+      "start_line": 24162,
+      "end_line": 24739,
+      "line_count": 577,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "filename": "BRITISH_GUIANA.md",
+      "start_line": 24739,
+      "end_line": 25622,
+      "line_count": 883,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "filename": "BRITISH_HONDURAS.md",
+      "start_line": 25622,
+      "end_line": 26267,
+      "line_count": 645,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CEYLON",
+      "filename": "CEYLON.md",
+      "start_line": 26267,
+      "end_line": 28530,
+      "line_count": 2263,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CYPRUS",
+      "filename": "CYPRUS.md",
+      "start_line": 28530,
+      "end_line": 29154,
+      "line_count": 624,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "filename": "FALKLAND_ISLANDS.md",
+      "start_line": 29154,
+      "end_line": 29606,
+      "line_count": 452,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "FIJI",
+      "filename": "FIJI.md",
+      "start_line": 29606,
+      "end_line": 30221,
+      "line_count": 615,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "THE GAMBIA",
+      "filename": "THE_GAMBIA.md",
+      "start_line": 30221,
+      "end_line": 30641,
+      "line_count": 420,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "GIBRALTAR",
+      "filename": "GIBRALTAR.md",
+      "start_line": 30641,
+      "end_line": 32151,
+      "line_count": 1510,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "HONG KONG",
+      "filename": "HONG_KONG.md",
+      "start_line": 32151,
+      "end_line": 33661,
+      "line_count": 1510,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CAYMAN ISLANDS",
+      "filename": "CAYMAN_ISLANDS.md",
+      "start_line": 33661,
+      "end_line": 33728,
+      "line_count": 67,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TURKS AND CAICOS ISLANDS",
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md",
+      "start_line": 33728,
+      "end_line": 35009,
+      "line_count": 1281,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ANTIGUA",
+      "filename": "ANTIGUA.md",
+      "start_line": 35009,
+      "end_line": 35622,
+      "line_count": 613,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "DOMINICA",
+      "filename": "DOMINICA.md",
+      "start_line": 35622,
+      "end_line": 35955,
+      "line_count": 333,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MONTSERRAT",
+      "filename": "MONTSERRAT.md",
+      "start_line": 35955,
+      "end_line": 36946,
+      "line_count": 991,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MAURITIUS",
+      "filename": "MAURITIUS.md",
+      "start_line": 36946,
+      "end_line": 37573,
+      "line_count": 627,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NIGERIA",
+      "filename": "NIGERIA.md",
+      "start_line": 37573,
+      "end_line": 39640,
+      "line_count": 2067,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "PALESTINE",
+      "filename": "PALESTINE.md",
+      "start_line": 39640,
+      "end_line": 40337,
+      "line_count": 697,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST. HELENA",
+      "filename": "ST._HELENA.md",
+      "start_line": 40337,
+      "end_line": 40546,
+      "line_count": 209,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ASCENSION",
+      "filename": "ASCENSION.md",
+      "start_line": 40546,
+      "end_line": 40561,
+      "line_count": 15,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SEYCHELLES",
+      "filename": "SEYCHELLES.md",
+      "start_line": 40561,
+      "end_line": 40804,
+      "line_count": 243,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SIERRA LEONE",
+      "filename": "SIERRA_LEONE.md",
+      "start_line": 40804,
+      "end_line": 42316,
+      "line_count": 1512,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "LABUAN",
+      "filename": "LABUAN.md",
+      "start_line": 42316,
+      "end_line": 44117,
+      "line_count": 1801,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRUNEI",
+      "filename": "BRUNEI.md",
+      "start_line": 44117,
+      "end_line": 44976,
+      "line_count": 859,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TOBAGO",
+      "filename": "TOBAGO.md",
+      "start_line": 44976,
+      "end_line": 46079,
+      "line_count": 1103,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "UGANDA",
+      "filename": "UGANDA.md",
+      "start_line": 46079,
+      "end_line": 47193,
+      "line_count": 1114,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "GRENADA",
+      "filename": "GRENADA.md",
+      "start_line": 47193,
+      "end_line": 47767,
+      "line_count": 574,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST. VINCENT",
+      "filename": "ST._VINCENT.md",
+      "start_line": 47767,
+      "end_line": 48040,
+      "line_count": 273,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ZANZIBAR",
+      "filename": "ZANZIBAR.md",
+      "start_line": 48040,
+      "end_line": 48328,
+      "line_count": 288,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "IRAQ",
+      "filename": "IRAQ.md",
+      "start_line": 48328,
+      "end_line": 48509,
+      "line_count": 181,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NORTH BORNEO",
+      "filename": "NORTH_BORNEO.md",
+      "start_line": 48509,
+      "end_line": 49157,
+      "line_count": 648,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ADEN",
+      "filename": "ADEN.md",
+      "start_line": 49157,
+      "end_line": 49195,
+      "line_count": 38,
+      "is_appendix": false,
+      "extraction_method": "merged_or_manually_added"
+    },
+    {
+      "name": "TRISTAN DA CUNHA",
+      "filename": "TRISTAN_DA_CUNHA.md",
+      "start_line": 49195,
+      "end_line": 49211,
+      "line_count": 16,
+      "is_appendix": false,
+      "extraction_method": "merged_or_manually_added"
+    }
+  ]
+}

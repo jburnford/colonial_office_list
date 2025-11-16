@@ -1,0 +1,289 @@
+{
+  "year": 1959,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1959/olmocr_results.md",
+  "total_colonies": 30,
+  "colonies": [
+    {
+      "colony_name": "TRINIDAD",
+      "year": 1959,
+      "start_line": 1911,
+      "end_line": 3050,
+      "char_count": 65217,
+      "line_count": 1140,
+      "filename": "TRINIDAD.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1959,
+      "start_line": 3050,
+      "end_line": 3054,
+      "char_count": 188,
+      "line_count": 5,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 1959,
+      "start_line": 3054,
+      "end_line": 3058,
+      "char_count": 188,
+      "line_count": 5,
+      "filename": "THE_GAMBIA.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1959,
+      "start_line": 3058,
+      "end_line": 3066,
+      "char_count": 446,
+      "line_count": 9,
+      "filename": "JAMAICA.md"
+    },
+    {
+      "colony_name": "LEEWARD ISLANDS",
+      "year": 1959,
+      "start_line": 3066,
+      "end_line": 3068,
+      "char_count": 17,
+      "line_count": 3,
+      "filename": "LEEWARD_ISLANDS.md"
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "year": 1959,
+      "start_line": 3068,
+      "end_line": 3072,
+      "char_count": 144,
+      "line_count": 5,
+      "filename": "ANTIGUA.md"
+    },
+    {
+      "colony_name": "MONTSERRAT",
+      "year": 1959,
+      "start_line": 3072,
+      "end_line": 3084,
+      "char_count": 515,
+      "line_count": 13,
+      "filename": "MONTSERRAT.md"
+    },
+    {
+      "colony_name": "WINDWARD ISLANDS",
+      "year": 1959,
+      "start_line": 3084,
+      "end_line": 3086,
+      "char_count": 18,
+      "line_count": 3,
+      "filename": "WINDWARD_ISLANDS.md"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1959,
+      "start_line": 3086,
+      "end_line": 3090,
+      "char_count": 160,
+      "line_count": 5,
+      "filename": "DOMINICA.md"
+    },
+    {
+      "colony_name": "GRENADA",
+      "year": 1959,
+      "start_line": 3090,
+      "end_line": 3094,
+      "char_count": 155,
+      "line_count": 5,
+      "filename": "GRENADA.md"
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 1959,
+      "start_line": 3094,
+      "end_line": 3098,
+      "char_count": 175,
+      "line_count": 5,
+      "filename": "ST_LUCIA.md"
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 1959,
+      "start_line": 3098,
+      "end_line": 3102,
+      "char_count": 173,
+      "line_count": 5,
+      "filename": "ST_VINCENT.md"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 1959,
+      "start_line": 3102,
+      "end_line": 3106,
+      "char_count": 174,
+      "line_count": 5,
+      "filename": "MAURITIUS.md"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1959,
+      "start_line": 3106,
+      "end_line": 3118,
+      "char_count": 525,
+      "line_count": 13,
+      "filename": "SIERRA_LEONE.md"
+    },
+    {
+      "colony_name": "UGANDA",
+      "year": 1959,
+      "start_line": 3118,
+      "end_line": 4803,
+      "char_count": 134198,
+      "line_count": 1686,
+      "filename": "UGANDA.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1959,
+      "start_line": 4803,
+      "end_line": 5129,
+      "char_count": 24329,
+      "line_count": 327,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1959,
+      "start_line": 5871,
+      "end_line": 6651,
+      "char_count": 52039,
+      "line_count": 781,
+      "filename": "CYPRUS.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1959,
+      "start_line": 6651,
+      "end_line": 7016,
+      "char_count": 25848,
+      "line_count": 366,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1959,
+      "start_line": 7409,
+      "end_line": 7657,
+      "char_count": 15232,
+      "line_count": 249,
+      "filename": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 1959,
+      "start_line": 7657,
+      "end_line": 8119,
+      "char_count": 29006,
+      "line_count": 463,
+      "filename": "HONG_KONG.md"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 1959,
+      "start_line": 11638,
+      "end_line": 12183,
+      "char_count": 44167,
+      "line_count": 546,
+      "filename": "ST_HELENA.md"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 1959,
+      "start_line": 12183,
+      "end_line": 12482,
+      "char_count": 18678,
+      "line_count": 300,
+      "filename": "SEYCHELLES.md"
+    },
+    {
+      "colony_name": "CAYMAN ISLANDS",
+      "year": 1959,
+      "start_line": 15681,
+      "end_line": 15832,
+      "char_count": 9813,
+      "line_count": 152,
+      "filename": "CAYMAN_ISLANDS.md"
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "year": 1959,
+      "start_line": 15832,
+      "end_line": 29780,
+      "char_count": 1394373,
+      "line_count": 13949,
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md"
+    },
+    {
+      "colony_name": "SOMALILAND",
+      "year": 1959,
+      "start_line": 29780,
+      "end_line": 29883,
+      "char_count": 5466,
+      "line_count": 104,
+      "filename": "SOMALILAND.md"
+    },
+    {
+      "colony_name": "MALTA",
+      "year": 1959,
+      "start_line": 29891,
+      "end_line": 29902,
+      "char_count": 693,
+      "line_count": 12,
+      "filename": "MALTA.md"
+    },
+    {
+      "colony_name": "ADEN",
+      "year": 1959,
+      "start_line": 29916,
+      "end_line": 29921,
+      "char_count": 142,
+      "line_count": 6,
+      "filename": "ADEN.md"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "year": 1959,
+      "start_line": 29921,
+      "end_line": 29930,
+      "char_count": 849,
+      "line_count": 10,
+      "filename": "FALKLAND_ISLANDS.md"
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "year": 1959,
+      "start_line": 29944,
+      "end_line": 29947,
+      "char_count": 228,
+      "line_count": 4,
+      "filename": "BAHAMAS.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1959,
+      "start_line": 29947,
+      "end_line": 29950,
+      "char_count": 41,
+      "line_count": 4,
+      "filename": "BERMUDA.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Automated v5 parser with table of contents filtering",
+    "date": "2025-11-16",
+    "method": "Automated batch processing with PART II detection",
+    "corrections_applied": [
+      "Removed 2 table of contents entries (before line 1911)",
+      "Removed 11 duplicate entries from metadata"
+    ],
+    "original_count": 43,
+    "corrected_count": 30,
+    "note": "Automated processing - may need manual verification | Metadata corrected to remove 11 duplicates"
+  }
+}

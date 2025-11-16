@@ -1,0 +1,184 @@
+
+SWAZILAND.
+
+Situation and Area.
+
+Swaziland is bounded on the North, West and South by the Transvaal, and on the East by Portuguese territory and Tongaland, now part of the Natal Province.
+
+Its area is 6,704.6 square miles.
+
+Description and Climate.
+
+The territory is divided geographically into three longitudinal regions.
+
+The mountainous region on the West approximates an altitude of over 4,000 feet.
+
+What is known as the Middle Veld is some 2,000 feet lower, while the Low Veld, bounded on the East by the Ubmombo Mountains, attains an average altitude of not more than 1,000 feet. The first two regions are remarkably well watered. Innumerable small streams unite with the large rivers which traverse the country from West to East; except for these the Low Veld is not very well watered, though bore holes put down by private enterprise have revealed the existence of underground supplies of water at several places.
+
+Swaziland is on the whole very healthy, but in common with other parts of similar country in South Africa, malaria is prevalent in the Low Veld during some of the summer months.
+
+Mbabane, the headquarters of the Administration, is situated on the hills at an altitude of
+Native History.
+
+The Swazis are an allied race to the Zulus and speak the same language, with minor modifications. According to themselves the tribe lived originally in Southern Tongaland, from whence they migrated about 300 years ago to the Tshiselweni country, that is the country to the West of the Uvombo Range, between the Pongolo and the Great Usutu Rivers. Here they remained until 1815 when, being attacked by Zwile, Chief of the Ndwandwe, the major portion of the tribe under their chief Sobhuza, better known as Somhlolo, fled north and settled near the present site of Bremsdorp. The petty tribes or clans of Baroswi, Bavenda or Bapedi origin, then in occupation of Swaziland North of the Great Usutu, were conquered and absorbed. Under Sobhuza and his successor Mswazi, they occupied territory up to Barberton in the North and extending towards Carolina and Ermelo on the West, while the tribes occupying what is now the Lydenburg District also paid tribute to the Swazi King.
+
+The Swazis are known to themselves and other native tribes as the Ama-Ngwane, that is, the people of Ngwane, one of their early Chiefs, and the country as Kwa-Ngwane, the land of Ngwane. After their flight to the North they were never seriously disturbed, though they were occasionally raided by Zulu tribes from the South, especially after the death of Dingana, who was killed by a Swazi Impi on the Southern border, after his defeat by the Boers and his brother Mpande. Subsequently through the good offices of Sir Theophilus Shepstone (Sontseu) amicable relations subsisted with Mpande, the Zulu King and his successor Cetywayo. In 1879 the Swazis lent assistance to the British in the war against Sikukulu (Sikukuni), but took no part in the Zulu War. Through the possession of secret medicines, used in the propitiation of the spirits of ancestral Chiefs, the Swazi Chiefs hold a pre-eminent position as rain makers. The native Government consisted of the King and his Council, made up of the Malangeni, the Chiefs of royal blood, and the Chief indunas of the tribe. The assistance of the witch doctors was called in whenever necessary to communicate with the spirits of departed Chiefs and to clean the country of sorcerers and other doers of evil. A military system of trained regiments on the lines formulated by Dingiswayo and Tshaka was adopted, mainly no doubt as a defence against the Zulus.
+
+In the year 1846 Mswazi ceded whatever rights he had in the Lydenburg District to the Lydenburg Republic. Subsequently he, and later Mbandini, entered into agreements purporting to cede the whole of the territory to that Republic and to its successor the late South African Republic. These later cessions were in fact nullified by the Conventions of 1881 and 1884 entered into between Great Britain and the Republic though the boundaries of the Transvaal laid down in the 1881 Convention constituted a considerable encroachment on what was claimed to be Swazi Territory.
+
+In 1921 the Chief Regent Labotsibeni handed over her duties to her grandson Sobhuza, who was duly installed as Paramount Chief. The Chief Regent had a long term of office after the death of her husband, Mbandeni, in 1889 and, later, of her son Bhunu. She was a wise chief and did valuable work for her people and country. Her relations with the Administration were always of a friendly nature; she died in 1925. The Paramount Chief is 34 years of age. He was educated at Zombode and Lovedale.
+
+European Settlement.
+
+During the eighties the King Mbandini in return for money and other payments granted concessions for various periods. Every conceivable right was granted away, not only for land, minerals, grazing, and timber, but also for all imaginable purposes, including exemption from taxes, for railways, telegraphs, mining patents, collection of the King's revenue, trading, etc., All unallotted land and minerals also formed the subject of concessions.
+
+In 1883 a charter of self-government was granted to the whites in the country. Later, in 1890, under a Convention between the British Government and the South African Republic, a provisional Government was, with the consent of the Swazis, set up, consisting of a Government Committee composed of representatives of those two Powers, and a representative of the Swazis, a Government Secretary, Attorney General and other officials and of a Chief Court. This Court adjudicated on the initial validity of all concessions granted by the King, and, with a few exceptions, confirmed the grants in respect of such initial validity.
+
+In accordance with pledges given to the Government of the South African Republic the provisional Administration came to an end three years later, when the British Government signed a fresh Convention, which permitted the South African Republic to acquire from the Regent and her Council an Organic Proclamation conferring on the South African Republic rights of jurisdiction, legislation and administration without incorporation in the South African Republic. The Swazis refused to sign the Organic Proclamation which had been drafted for them, and accordingly its provisions, with some of those in the 1893 Convention, were embodied in the final Convention of 1894, under which the South African Republic exercised powers of protection, legislation, jurisdiction and administration in Swaziland, subject to the limitations of the Convention.
+
+On the conquest of the Transvaal, all the rights and powers of the late South African Republic passed to His Majesty, but since the other party to the Convention of 1894 had disappeared without the limitations therein, an Order in Council under the Foreign Jurisdiction Act was issued in June, 1903, providing that the Governor of the Transvaal should administer Swaziland, and conferring on him the right to legislate by Proclamation.
+
+On the cessation of hostilities a British Special Commissioner, with a small force of South African Constabulary, was sent into the country, and a provisional Administration was established.
+
+In accordance with the powers granted to him, the Governor issued a Proclamation in 1904 providing for administration and for dealing with the concessions question. The Laws of the Transvaal in force at the date of the Proclamation were applied to Swaziland, mutatis mutandis.
+Courts were established with the rights of appeal to the Supreme Court of the Transvaal, and an appeal was permitted from the decisions of the chiefs in civil matters to the Court of the Resident Magistrate. The chiefs were otherwise confirmed in their civil jurisdiction over natives, subject to the exclusion of usages incompatible with the due exercise of His Majesty's power and jurisdiction, or clearly injurious to the welfare of the natives.
+
+The Commission constituted under the Proclamation of 1904 to deal with the concessions examined the concessions granting the exclusive rights, except exclusive rights to land and minerals, with a view to their expropriation at their value prior to the commencement of hostilities. The Commission reported in 1906, and the concessions, the subject of its report, were, with few exceptions, expropriated. The Commission subsequently dealt with the question of boundaries of land, mineral and grazing concessions. The general survey of these concessions, necessary to determine the conflicting rights, was also completed. Under the Concessions Partition Proclamation issued in 1907 land and grazing concessions were subjected to a deduction of one-third of their area for the sole and exclusive use and occupation of the natives of Swaziland and the remaining two-thirds were freed from such occupation subject to the provision that for five years from July 1st, 1909, no natives actually resident on such land could be compelled to move therefrom but after that period they could only continue to occupy such land on terms to be agreed upon between themselves and the concessionaires. These Agreements are subject to confirmation by the Resident Commissioner. Proclamation No. 24 of 1913 provided simple and effective machinery for the removal of natives from concessions after the period of five years had elapsed. This took place in 1914 and there was no large movement of natives from concessions. Those who desired to move did so voluntarily and the remainder made terms with the concessionaires and remained on the farms.
+
+Of the total area of Swaziland, 4,290,661 acres, 1,638,093 acres have been set aside for the exclusive use of the Swazis and they have, in addition, acquired by purchase, 77,076 acres.
+
+By an Order in Council, dated 1st December, 1906, the control of Swaziland was transferred from the Governor of the Transvaal to the High Commissioner for South Africa. Under the Order in Council the High Commissioner issued a Proclamation in March, 1907, providing for the appointment of a Resident Commissioner, a Government Secretary, Assistant Commissioners, and the establishment of a Police Force. The Laws of the Transvaal were re-enacted, mutatis mutandis, and, except where modified by Statute, the Roman-Dutch Common Law was put in force by the Proclamation. A special Court, having the full jurisdiction of a Superior Court, was established together with Courts of Assistant Commissioners with a limited jurisdiction.
+
+The paramount chief and other chiefs were confirmed in their Civil Jurisdiction over natives subject to appeal to the Resident Commissioner. Provision was made for the Swaziland Deeds Office and Surveyor-General's Office to remain at Pretoria under control of the officers responsible prior to the date of the Proclamation.
+
+An elected Advisory Council, representative of the Europeans, was established in 1921, to advise the Administration on purely European affairs.
+
+**Population.**
+
+The population of Swaziland is 2,735 whites, 152,159 natives (Bantu) and 644 coloured.
+
+**Religion and Education.**
+
+The Anglican Church, the Roman Catholic Church, The South Africa General Mission, the Scandinavian Alliance Mission, the African Methodist Episcopal Mission, the Wesleyan Methodist Mission, the Independent Methodist Mission, the Church of the Nazarene, the American Pilgrims' Holiness Union, the Berlin Lutheran Mission, the Full Gospel Mission of Norway, the African Congregational Church, the Lebombo Pentecostal Mission, the Norway Free Evangelical Mission to the Heathen, the Christian Apostolic Church of South Africa, the Apostolic Faith Church, and the Swedish Alliance Mission have representatives in the country.
+
+The principal European School is St. Mark's, Mbabane, with a roll of 107, drawn from Swaziland, the Eastern Transvaal, and Portuguese East Africa. The Government also maintains 9 schools for European children at various centres, and makes annual grants to the various Native Missions which undertake Native Education.
+
+The Administration has established the Swazi National School at Matapa.
+
+**Industries, Agriculture, and Trade.**
+
+Mining in Swaziland is carried out under the authority of Concessions granted by the late King Mbandeni. Tin is found in payable quantities in the vicinity of Mbabane. Gold mining on a small scale is carried on at Pig's Peak and Forbes Reef. The Crown owns a few mineral areas, and legal provision has been made for the exploitation of these by the public in the event of payable minerals being discovered.
+
+**Output of Tin.**
+
+| Year | Output | Value |
+|------|--------|-------|
+| 1933 | 101 tons | £19,665 |
+| 1934 | 162 "   | 37,356 |
+| 1935 | 181 "   | 39,628 |
+
+**Output of Gold.**
+
+| Year | Output | Value |
+|------|--------|-------|
+| 1933 | 630 oz. | £3,914 |
+| 1934 | 379 "   | 2,608 |
+| 1935 | 314 "   | 2,130 |
+
+There are approximately 406,227 head of horned stock, and 148,000 native sheep and goats in the territory. Cattle ranching on a large scale has been in operation for some years.
+
+Several farmers have herds of cattle ranging from 1,000 to 3,000 head. The young stock from imported bulls show a very marked improvement on the local cattle.
+
+The stock is fat all the year round and fat oxen can be put on the market in the winter and spring without any artificial feeding.
+
+Dipping of all cattle is consistently carried out and diseases of stock are not more virulent here than elsewhere in South Africa.
+
+Approximately 250,000 sheep (Merinos) are brought in from the Transvaal high veld for winter grazing, but this class of sheep has not so far been farmed in the Territory otherwise.
+
+Maize is the staple product. The growing of cotton in suitable localities has proved successful and in 1935 the yield was 200,063 lbs. of seed cotton valued at £1,459l. Tobacco is also a paying crop, about 261,794 lbs., valued at £6,642l., being grown in
+1935, and many portions of the Territory have been favourably reported on for citrus and sub-tropical fruits. There are no railways. In 1928 the Railways and Harbours Administration of the Union of South Africa established Road Motor Services on the main routes in Swaziland. In 1930 the Portuguese East African Administration opened a daily motor service between Goba railhead and Stegi in Swaziland, the latter village being the eastern terminus of the South African Railways Motor Service. The Swazis grow the usual native crops but in insufficient quantity to feed themselves. Efforts are, however, being made to improve their methods.
+
+No statistics of the imports into Swaziland are kept. By an agreement with the Government of the Union of South Africa, Swaziland is dealt with, for Customs purposes, as a part of the Union. A payment is made to Swaziland of a percentage of the total customs revenue collected in the Union. The percentage is based upon the relation of the average Customs revenue of the territory to the average Customs revenue of the Colonies forming the Union and the High Commission Territories for the three years ended on the 31st March, 1910. The imports consist principally of maize, flour, groceries, wearing apparel, hardware, spirits, tobacco, and kafir truck; while the principal exports are cassiterite tin, cotton, tobacco, hides, and slaughter oxen.
+
+There are branches of Barclay's Bank (Dominion, Colonial and Overseas) at Mbabane, Hlatikulu, Bremersdorp and Stegi, and branches of the Standard Bank of South Africa, Ltd, at Bremersdorp and Stegi, and Post Office Savings Banks at Mbabane, Bremersdorp, Hlatikulu, Stegi and Pigg's Peak. The currency is South African.
+
+Stores exist where necessary to serve the needs of the population, but the volume of trade is small.
+
+Revenue and Expenditure.
+
+The revenue and expenditure for the two years ended March 31st, 1936, were:
+
+| Year    | Revenue   | Expenditure |
+|---------|-----------|-------------|
+| 1934-35 | £92,442   | £125,076    |
+| 1935-36 | £103,141  | £127,918    |
+
+The public debt on March 31st, 1935, was 35,000L for the repayment of which provision has been made through the medium of a sinking fund.
+
+Establishment.
+
+Resident Commissioner, A. G. Marwick, O.B.E., 1,350L, 100L entertainment and 220L transport allowances.
+
+Deputy Resident Commissioner and District Commissioner, at Mbabane, H. B. A. McCarter, O.B.E., 850L (850L by 50L to 100L); 40L subsistence allowance.
+
+Government Secretary and Financial Secretary, J. R. Armstrong, 950L (850L by 50L to 1,000L); 50L subsistence allowance.
+
+Assistant Government Secretary, Registrar and Master of the Special Court, Sheriff, Registrar of Births, Marriages and Deaths, L. J. Puttick, 800L (600L by 25L to 800L).
+
+Accountant, E. P. Perkins, 440L (400L by 20L to 550L).
+
+District Commissioner, at Hlatikulu, S. B. Williams, 750L (600L by 25L to 800L), 40L subsistence allowance.
+
+District Commissioner, at Bremersdorp, (vacant).
+
+Assistant District Commissioner, W. W. Usher, 650L (550L by 25L to 650L), 20L subsistence allowance.
+
+Assistant District Commissioner, at Pigg's Peak, H. W. Boast, 550L (400L by 20L to 550L), 20L subsistence allowance.
+
+Assistant District Commissioner, at Mankaiana, R. Armstrong, 500L (400L by 20L to 550L) 20L subsistence allowance.
+
+Judicial.
+
+Special Court of Swaziland: President, Sir Cecil Fforde, K.C. Members, The Resident Commissioner, the Deputy Resident Commissioner, and District Commissioner.
+
+Master, Register and Sheriff, L. J. Puttick (see Assistant Government Secretary above).
+
+Attorney-General, C. T. Blakeway, K.C., B.C.L.
+
+Medical.
+
+Principal Medical Officer, R. Jamison, O.B.E., M.B., B.Ch., B.A.O. (Irl.), F.R.C.S. (Eng.), D.T.M. & H., 900L (800L by 25L to 900L), 40L subsistence allowance.
+
+Medical Officer, Mbabana, P. Kuhne, M.R.C.S., L.R.C.P., 520L (500L by 20L to 700L), 40L subsistence allowance.
+
+Medical Officer, Hlatikulu, G. W. Brammer, M.B., B.Ch., B.Sc., 540L (500L by 20L to 700L), 40L subsistence allowance.
+
+Hospital Assistants and Dispensers, 300L by 15L to 360L; Hlatikulu, J. Nathanson, 300L; Mbabane, C. B. Hands, 330L; Mankaiana, A. G. Lunnis, 360L.
+
+Veterinary and Agriculture.
+
+Principal Veterinary and Agricultural Officer, W. A. Elder, O.B.E., F.R.C.V.S., 900L (700L by 25L to 900L), 60L subsistence allowance.
+
+Two Assistant Agricultural Officers, (1) E. E. S. Thomas, 330L (300L by 15L to 360L) 50L subsistence allowance; (2) (vacant).
+
+Education.
+
+Superintendent of Education, E. M. D. Glynn, M.A. 400L, 50L subsistence allowance.
+
+Police.
+
+Chief of Police, E. D. Fenn, 580L (400L by 20L to 600L), 50L subsistence allowance.
+
+Public Works.
+
+Government Engineer, J. H. Gardner, B.Sc., A.M.I.C.E., 750L (550L by 25L to 750L), 50L subsistence allowance.
+
+Inspector of Roads and Works, G. F. Purcocks, 360L.
+
+Officers Attached to High Commissioner's Office.
+
+Assistant Administrative Secretary and Chief Clerk, H. L. Smith, O.B.E., 750L.
+
+Clerks, Miss W. V. Eales, 240L; C. A. Fraser, 230L; Miss J. Ketter, 180L.
+
+Auditor, R. E. Goodman, 1,000L and allowance 100L (Swaziland pays 250L).

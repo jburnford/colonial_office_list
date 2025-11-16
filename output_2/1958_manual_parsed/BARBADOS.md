@@ -1,0 +1,4 @@
+
+BARBADOS
+(see The West Indies (Federation).)
+

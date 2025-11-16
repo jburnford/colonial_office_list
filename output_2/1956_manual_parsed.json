@@ -1,0 +1,403 @@
+{
+  "year": 1956,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1956/olmocr_results.md",
+  "total_colonies": 41,
+  "colonies": [
+    {
+      "colony_name": "ANTIGUA",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 6653,
+      "line_count": 116,
+      "filename": "ANTIGUA.md"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 21770,
+      "line_count": 324,
+      "filename": "BARBADOS.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 17191,
+      "line_count": 238,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 25419,
+      "line_count": 406,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 41650,
+      "line_count": 560,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "CAYMAN ISLANDS",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 8648,
+      "line_count": 123,
+      "filename": "CAYMAN_ISLANDS.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 44765,
+      "line_count": 721,
+      "filename": "CYPRUS.md"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 31939,
+      "line_count": 500,
+      "filename": "DOMINICA.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 23644,
+      "line_count": 291,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 46799,
+      "line_count": 655,
+      "filename": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 70575,
+      "line_count": 965,
+      "filename": "MAURITIUS.md"
+    },
+    {
+      "colony_name": "NORTH BORNEO",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 82802,
+      "line_count": 1121,
+      "filename": "NORTH_BORNEO.md"
+    },
+    {
+      "colony_name": "ST HELENA",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 41783,
+      "line_count": 571,
+      "filename": "ST_HELENA.md"
+    },
+    {
+      "colony_name": "ST LUCIA",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 16024,
+      "line_count": 241,
+      "filename": "ST_LUCIA.md"
+    },
+    {
+      "colony_name": "ST VINCENT",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 13431,
+      "line_count": 218,
+      "filename": "ST_VINCENT.md"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 24088,
+      "line_count": 336,
+      "filename": "THE_GAMBIA.md"
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "year": 1956,
+      "start_line": 0,
+      "end_line": 0,
+      "char_count": 57367,
+      "line_count": 734,
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md"
+    },
+    {
+      "colony_name": "ADEN",
+      "year": 1956,
+      "start_line": 124,
+      "end_line": 880,
+      "char_count": 54173,
+      "line_count": 757,
+      "filename": "ADEN.md"
+    },
+    {
+      "colony_name": "FEDERATION OF NIGERIA",
+      "year": 1956,
+      "start_line": 3007,
+      "end_line": 3623,
+      "char_count": 47045,
+      "line_count": 617,
+      "filename": "FEDERATION_OF_NIGERIA.md"
+    },
+    {
+      "colony_name": "NORTHERN RHODESIA",
+      "year": 1956,
+      "start_line": 3033,
+      "end_line": 3070,
+      "char_count": 1307,
+      "line_count": 38,
+      "filename": "NORTHERN_RHODESIA.md"
+    },
+    {
+      "colony_name": "MONTSERRAT",
+      "year": 1956,
+      "start_line": 3097,
+      "end_line": 3378,
+      "char_count": 14934,
+      "line_count": 282,
+      "filename": "MONTSERRAT.md"
+    },
+    {
+      "colony_name": "BRITISH VIRGIN ISLANDS",
+      "year": 1956,
+      "start_line": 3108,
+      "end_line": 3235,
+      "char_count": 8458,
+      "line_count": 128,
+      "filename": "BRITISH_VIRGIN_ISLANDS.md"
+    },
+    {
+      "colony_name": "FEDERATION OF MALAYA",
+      "year": 1956,
+      "start_line": 3135,
+      "end_line": 4468,
+      "char_count": 93596,
+      "line_count": 1334,
+      "filename": "FEDERATION_OF_MALAYA.md"
+    },
+    {
+      "colony_name": "SINGAPORE",
+      "year": 1956,
+      "start_line": 3150,
+      "end_line": 3608,
+      "char_count": 35066,
+      "line_count": 459,
+      "filename": "SINGAPORE.md"
+    },
+    {
+      "colony_name": "TRINIDAD AND TOBAGO",
+      "year": 1956,
+      "start_line": 3155,
+      "end_line": 3512,
+      "char_count": 30353,
+      "line_count": 358,
+      "filename": "TRINIDAD_AND_TOBAGO.md"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 1956,
+      "start_line": 7876,
+      "end_line": 8233,
+      "char_count": 24840,
+      "line_count": 358,
+      "filename": "HONG_KONG.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1956,
+      "start_line": 8232,
+      "end_line": 8665,
+      "char_count": 29677,
+      "line_count": 434,
+      "filename": "JAMAICA.md"
+    },
+    {
+      "colony_name": "LEEWARD ISLANDS",
+      "year": 1956,
+      "start_line": 9631,
+      "end_line": 9664,
+      "char_count": 986,
+      "line_count": 34,
+      "filename": "LEEWARD_ISLANDS.md"
+    },
+    {
+      "colony_name": "FEDERATION OF RHODESIA AND NYASALAND",
+      "year": 1956,
+      "start_line": 12329,
+      "end_line": 12791,
+      "char_count": 32381,
+      "line_count": 463,
+      "filename": "FEDERATION_OF_RHODESIA_AND_NYASALAND.md"
+    },
+    {
+      "colony_name": "NYASALAND PROTECTORATE",
+      "year": 1956,
+      "start_line": 12790,
+      "end_line": 13137,
+      "char_count": 27432,
+      "line_count": 348,
+      "filename": "NYASALAND_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "SARAWAK",
+      "year": 1956,
+      "start_line": 13420,
+      "end_line": 13705,
+      "char_count": 24194,
+      "line_count": 286,
+      "filename": "SARAWAK.md"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 1956,
+      "start_line": 13704,
+      "end_line": 13912,
+      "char_count": 14809,
+      "line_count": 209,
+      "filename": "SEYCHELLES.md"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1956,
+      "start_line": 13911,
+      "end_line": 15904,
+      "char_count": 152345,
+      "line_count": 1994,
+      "filename": "SIERRA_LEONE.md"
+    },
+    {
+      "colony_name": "SOMALILAND PROTECTORATE",
+      "year": 1956,
+      "start_line": 14719,
+      "end_line": 15405,
+      "char_count": 49330,
+      "line_count": 687,
+      "filename": "SOMALILAND_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "KINGDOM OF TONGA",
+      "year": 1956,
+      "start_line": 15404,
+      "end_line": 15548,
+      "char_count": 10874,
+      "line_count": 145,
+      "filename": "KINGDOM_OF_TONGA.md"
+    },
+    {
+      "colony_name": "UGANDA",
+      "year": 1956,
+      "start_line": 15903,
+      "end_line": 16874,
+      "char_count": 75898,
+      "line_count": 972,
+      "filename": "UGANDA.md"
+    },
+    {
+      "colony_name": "BRITISH SOLOMON ISLANDS PROTECTORATE",
+      "year": 1956,
+      "start_line": 16283,
+      "end_line": 16466,
+      "char_count": 13620,
+      "line_count": 184,
+      "filename": "BRITISH_SOLOMON_ISLANDS_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "GILBERT AND ELLICE ISLANDS COLONY",
+      "year": 1956,
+      "start_line": 16465,
+      "end_line": 16632,
+      "char_count": 12474,
+      "line_count": 168,
+      "filename": "GILBERT_AND_ELLICE_ISLANDS_COLONY.md"
+    },
+    {
+      "colony_name": "NEW HEBRIDES CONDOMINIUM",
+      "year": 1956,
+      "start_line": 16631,
+      "end_line": 16757,
+      "char_count": 9056,
+      "line_count": 127,
+      "filename": "NEW_HEBRIDES_CONDOMINIUM.md"
+    },
+    {
+      "colony_name": "GRENADA",
+      "year": 1956,
+      "start_line": 17099,
+      "end_line": 17372,
+      "char_count": 17142,
+      "line_count": 274,
+      "filename": "GRENADA.md"
+    },
+    {
+      "colony_name": "ZANZIBAR",
+      "year": 1956,
+      "start_line": 17826,
+      "end_line": 19214,
+      "char_count": 98155,
+      "line_count": 1389,
+      "filename": "ZANZIBAR.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Manual correction of v5 parser output",
+    "date": "2025-11-16",
+    "method": "Manual LLM-based boundary verification and correction",
+    "corrections_applied": [
+      "Removed 20 table of contents entries (lines 2976-3606)",
+      "Fixed MONTSERRAT over-extraction (1391 lines \u2192 280 lines)",
+      "Added BRITISH VIRGIN ISLANDS (126 lines)",
+      "Added FEDERATION OF MALAYA (1332 lines)",
+      "Added FEDERATION OF NIGERIA (615 lines)",
+      "Added NORTHERN RHODESIA (36 lines)",
+      "Added FEDERATION OF RHODESIA AND NYASALAND (461 lines)",
+      "Added NYASALAND PROTECTORATE (346 lines)",
+      "Added SARAWAK (284 lines)",
+      "Added SINGAPORE (457 lines)",
+      "Added SOMALILAND PROTECTORATE (685 lines)",
+      "Added KINGDOM OF TONGA (143 lines)",
+      "Added TRINIDAD AND TOBAGO (356 lines)",
+      "Added BRITISH SOLOMON ISLANDS PROTECTORATE (182 lines)",
+      "Added GILBERT AND ELLICE ISLANDS COLONY (166 lines)",
+      "Added NEW HEBRIDES CONDOMINIUM (125 lines)",
+      "Added GRENADA (272 lines)"
+    ],
+    "original_count": 46,
+    "corrected_count": 41,
+    "note": "Removed table of contents entries, fixed over-extraction, added missing colonies"
+  }
+}

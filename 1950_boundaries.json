@@ -1,0 +1,182 @@
+[
+  {
+    "name": "ADEN",
+    "start": 4509,
+    "end": 5262,
+    "lines": 754
+  },
+  {
+    "name": "BAHAMA ISLANDS",
+    "start": 5263,
+    "end": 6267,
+    "lines": 1005
+  },
+  {
+    "name": "BERMUDA",
+    "start": 6268,
+    "end": 6805,
+    "lines": 538
+  },
+  {
+    "name": "BRITISH GUIANA",
+    "start": 6806,
+    "end": 7788,
+    "lines": 983
+  },
+  {
+    "name": "BRITISH HONDURAS",
+    "start": 7789,
+    "end": 8234,
+    "lines": 446
+  },
+  {
+    "name": "BRUNEI",
+    "start": 8235,
+    "end": 8486,
+    "lines": 252
+  },
+  {
+    "name": "CYPRUS",
+    "start": 8487,
+    "end": 9661,
+    "lines": 1175
+  },
+  {
+    "name": "FIJI",
+    "start": 9662,
+    "end": 10419,
+    "lines": 758
+  },
+  {
+    "name": "THE GAMBIA",
+    "start": 10420,
+    "end": 10962,
+    "lines": 543
+  },
+  {
+    "name": "GIBRALTAR",
+    "start": 10963,
+    "end": 12750,
+    "lines": 1788
+  },
+  {
+    "name": "HONG KONG",
+    "start": 12751,
+    "end": 13723,
+    "lines": 973
+  },
+  {
+    "name": "JAMAICA",
+    "start": 13724,
+    "end": 14856,
+    "lines": 1133
+  },
+  {
+    "name": "KENYA",
+    "start": 14857,
+    "end": 16003,
+    "lines": 1147
+  },
+  {
+    "name": "THE LEEWARD ISLANDS",
+    "start": 16004,
+    "end": 17107,
+    "lines": 1104
+  },
+  {
+    "name": "FEDERATION OF MALAYA",
+    "start": 17108,
+    "end": 18792,
+    "lines": 1685
+  },
+  {
+    "name": "MAURITIUS",
+    "start": 18793,
+    "end": 19707,
+    "lines": 915
+  },
+  {
+    "name": "NIGERIA",
+    "start": 19708,
+    "end": 21443,
+    "lines": 1736
+  },
+  {
+    "name": "NORTH BORNEO",
+    "start": 21444,
+    "end": 21913,
+    "lines": 470
+  },
+  {
+    "name": "NORTHERN RHODESIA",
+    "start": 21914,
+    "end": 23000,
+    "lines": 1087
+  },
+  {
+    "name": "NYASALAND PROTECTORATE",
+    "start": 23001,
+    "end": 23557,
+    "lines": 557
+  },
+  {
+    "name": "ST. HELENA",
+    "start": 23558,
+    "end": 24475,
+    "lines": 918
+  },
+  {
+    "name": "SEYCHELLES",
+    "start": 24476,
+    "end": 24887,
+    "lines": 412
+  },
+  {
+    "name": "SIERRA LEONE",
+    "start": 24888,
+    "end": 25566,
+    "lines": 679
+  },
+  {
+    "name": "SINGAPORE AND ITS DEPENDENCIES",
+    "start": 25567,
+    "end": 26601,
+    "lines": 1035
+  },
+  {
+    "name": "SOMALILAND PROTECTORATE",
+    "start": 26602,
+    "end": 26921,
+    "lines": 320
+  },
+  {
+    "name": "TANGANYIKA",
+    "start": 26922,
+    "end": 27658,
+    "lines": 737
+  },
+  {
+    "name": "TRINIDAD AND TOBAGO",
+    "start": 27659,
+    "end": 27660,
+    "lines": 2
+  },
+  {
+    "name": "TRINIDAD",
+    "start": 27661,
+    "end": 28586,
+    "lines": 926
+  },
+  {
+    "name": "UGANDA",
+    "start": 28587,
+    "end": 31510,
+    "lines": 2924
+  },
+  {
+    "name": "ZANZIBAR",
+    "start": 31511,
+    "end": 32001,
+    "lines": 491
+  }
+]

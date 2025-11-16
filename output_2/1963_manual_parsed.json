@@ -1,0 +1,715 @@
+{
+  "year": 1963,
+  "total_colonies": 78,
+  "parsing_method": "Quick LLM-based automatic parsing (output_2)",
+  "parsing_date": "November 16, 2025",
+  "notes": [
+    "First-time parsing for year 1963",
+    "Decolonization period - territories declining as independence granted",
+    "Automatic boundary detection - may need manual verification"
+  ],
+  "colonies": [
+    {
+      "name": "PART II",
+      "filename": "PART_II.md",
+      "start_line": 2732,
+      "end_line": 2732,
+      "line_count": 1,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "STATE OF MALTA, G.C.",
+      "filename": "STATE_OF_MALTA_GC.md",
+      "start_line": 2733,
+      "end_line": 3192,
+      "line_count": 460,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "UNITED KINGDOM COMMISSIONER\u2014Sir Edward Wakefield, Bt., C.I.E.",
+      "filename": "UNITED_KINGDOM_COMMISSIONER\u2014Sir_Edward_Wakefield_Bt_CIE.md",
+      "start_line": 3193,
+      "end_line": 3195,
+      "line_count": 3,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "STATE OF SINGAPORE",
+      "filename": "STATE_OF_SINGAPORE.md",
+      "start_line": 3196,
+      "end_line": 3705,
+      "line_count": 510,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "MINISTRY OF CULTURE",
+      "filename": "MINISTRY_OF_CULTURE.md",
+      "start_line": 3706,
+      "end_line": 3735,
+      "line_count": 30,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "ADEN",
+      "filename": "ADEN.md",
+      "start_line": 3736,
+      "end_line": 3981,
+      "line_count": 246,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "PROTECTORATE OF SOUTH ARABIA",
+      "filename": "PROTECTORATE_OF_SOUTH_ARABIA.md",
+      "start_line": 3982,
+      "end_line": 4180,
+      "line_count": 199,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "**FEDERATION OF SOUTH ARABIA**",
+      "filename": "**FEDERATION_OF_SOUTH_ARABIA**.md",
+      "start_line": 4181,
+      "end_line": 4207,
+      "line_count": 27,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "KAMARAN ISLAND",
+      "filename": "KAMARAN_ISLAND.md",
+      "start_line": 4208,
+      "end_line": 4345,
+      "line_count": 138,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "ANTIGUA",
+      "filename": "ANTIGUA.md",
+      "start_line": 4346,
+      "end_line": 4496,
+      "line_count": 151,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "BAHAMA ISLANDS",
+      "filename": "BAHAMA_ISLANDS.md",
+      "start_line": 4497,
+      "end_line": 4878,
+      "line_count": 382,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "BARBADOS",
+      "filename": "BARBADOS.md",
+      "start_line": 4879,
+      "end_line": 5298,
+      "line_count": 420,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "BERMUDA",
+      "filename": "BERMUDA.md",
+      "start_line": 5299,
+      "end_line": 5669,
+      "line_count": 371,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "BRITISH ANTARCTIC TERRITORY",
+      "filename": "BRITISH_ANTARCTIC_TERRITORY.md",
+      "start_line": 5670,
+      "end_line": 5751,
+      "line_count": 82,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "filename": "BRITISH_GUIANA.md",
+      "start_line": 5752,
+      "end_line": 6167,
+      "line_count": 416,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "filename": "BRITISH_HONDURAS.md",
+      "start_line": 6168,
+      "end_line": 6597,
+      "line_count": 430,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "BRUNEI",
+      "filename": "BRUNEI.md",
+      "start_line": 6598,
+      "end_line": 6952,
+      "line_count": 355,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "CAYMAN ISLANDS",
+      "filename": "CAYMAN_ISLANDS.md",
+      "start_line": 6953,
+      "end_line": 7111,
+      "line_count": 159,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "**DOMINICA**",
+      "filename": "**DOMINICA**.md",
+      "start_line": 7112,
+      "end_line": 7368,
+      "line_count": 257,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "FALKLAND ISLANDS AND DEPENDENCIES",
+      "filename": "FALKLAND_ISLANDS_AND_DEPENDENCIES.md",
+      "start_line": 7369,
+      "end_line": 7685,
+      "line_count": 317,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "FIJI (AND THE PITCAIRN ISLANDS GROUP)",
+      "filename": "FIJI_AND_THE_PITCAIRN_ISLANDS_GROUP.md",
+      "start_line": 7686,
+      "end_line": 7687,
+      "line_count": 2,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "FIJI",
+      "filename": "FIJI.md",
+      "start_line": 7688,
+      "end_line": 8040,
+      "line_count": 353,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "THE GAMBIA",
+      "filename": "THE_GAMBIA.md",
+      "start_line": 8041,
+      "end_line": 8434,
+      "line_count": 394,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "GIBRALTAR",
+      "filename": "GIBRALTAR.md",
+      "start_line": 8435,
+      "end_line": 8688,
+      "line_count": 254,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "GRENA DA",
+      "filename": "GRENA_DA.md",
+      "start_line": 8689,
+      "end_line": 8986,
+      "line_count": 298,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "CIVIL ESTABLISHMENT",
+      "filename": "CIVIL_ESTABLISHMENT.md",
+      "start_line": 8987,
+      "end_line": 9023,
+      "line_count": 37,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "THE HIGH COMMISSION TERRITORIES",
+      "filename": "THE_HIGH_COMMISSION_TERRITORIES.md",
+      "start_line": 9024,
+      "end_line": 9025,
+      "line_count": 2,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "(BASUTOLAND, THE BECHUANALAND PROTECTORATE AND SWAZILAND)",
+      "filename": "BASUTOLAND_THE_BECHUANALAND_PROTECTORATE_AND_SWAZILAND.md",
+      "start_line": 9026,
+      "end_line": 9055,
+      "line_count": 30,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "BASUTOLAND",
+      "filename": "BASUTOLAND.md",
+      "start_line": 9056,
+      "end_line": 9245,
+      "line_count": 190,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "EXECUTIVE COUNCIL",
+      "filename": "EXECUTIVE_COUNCIL.md",
+      "start_line": 9246,
+      "end_line": 9267,
+      "line_count": 22,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "SECRETARIAT",
+      "filename": "SECRETARIAT.md",
+      "start_line": 9268,
+      "end_line": 9302,
+      "line_count": 35,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "THE BECHUANALAND PROTECTORATE",
+      "filename": "THE_BECHUANALAND_PROTECTORATE.md",
+      "start_line": 9303,
+      "end_line": 9518,
+      "line_count": 216,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "SWAZILAND",
+      "filename": "SWAZILAND.md",
+      "start_line": 9519,
+      "end_line": 9722,
+      "line_count": 204,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "HONG KONG",
+      "filename": "HONG_KONG.md",
+      "start_line": 9723,
+      "end_line": 10146,
+      "line_count": 424,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "KENYA",
+      "filename": "KENYA.md",
+      "start_line": 10147,
+      "end_line": 10566,
+      "line_count": 420,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "**COUNCIL OF MINISTERS**",
+      "filename": "**COUNCIL_OF_MINISTERS**.md",
+      "start_line": 10567,
+      "end_line": 10732,
+      "line_count": 166,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "MAURITIUS",
+      "filename": "MAURITIUS.md",
+      "start_line": 10733,
+      "end_line": 11146,
+      "line_count": 414,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "MONTSERRAT",
+      "filename": "MONTSERRAT.md",
+      "start_line": 11147,
+      "end_line": 11302,
+      "line_count": 156,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "NORTH BORNEO",
+      "filename": "NORTH_BORNEO.md",
+      "start_line": 11303,
+      "end_line": 11733,
+      "line_count": 431,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "THE FEDERATION OF RHODESIA AND NYASALAND",
+      "filename": "THE_FEDERATION_OF_RHODESIA_AND_NYASALAND.md",
+      "start_line": 11734,
+      "end_line": 11740,
+      "line_count": 7,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "NORTHERN RHODESIA",
+      "filename": "NORTHERN_RHODESIA.md",
+      "start_line": 11741,
+      "end_line": 12330,
+      "line_count": 590,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "NYASALAND PROTECTORATE",
+      "filename": "NYASALAND_PROTECTORATE.md",
+      "start_line": 12331,
+      "end_line": 12699,
+      "line_count": 369,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "CABINET",
+      "filename": "CABINET.md",
+      "start_line": 12700,
+      "end_line": 12804,
+      "line_count": 105,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "ST. CHRISTOPHER, NEVIS AND ANGUILLA",
+      "filename": "ST_CHRISTOPHER_NEVIS_AND_ANGUILLA.md",
+      "start_line": 12805,
+      "end_line": 12979,
+      "line_count": 175,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "ST. HELENA",
+      "filename": "ST_HELENA.md",
+      "start_line": 12980,
+      "end_line": 13419,
+      "line_count": 440,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "ST. VINCENT",
+      "filename": "ST_VINCENT.md",
+      "start_line": 13420,
+      "end_line": 13659,
+      "line_count": 240,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "SARAWAK",
+      "filename": "SARAWAK.md",
+      "start_line": 13660,
+      "end_line": 14035,
+      "line_count": 376,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "SEYCHELLES",
+      "filename": "SEYCHELLES.md",
+      "start_line": 14036,
+      "end_line": 14375,
+      "line_count": 340,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "KINGDOM OF TONGA",
+      "filename": "KINGDOM_OF_TONGA.md",
+      "start_line": 14376,
+      "end_line": 14533,
+      "line_count": 158,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "TURKS AND CAICOS ISLANDS",
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md",
+      "start_line": 14534,
+      "end_line": 14695,
+      "line_count": 162,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "UGANDA",
+      "filename": "UGANDA.md",
+      "start_line": 14696,
+      "end_line": 14705,
+      "line_count": 10,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "VIRGIN ISLANDS",
+      "filename": "VIRGIN_ISLANDS.md",
+      "start_line": 14706,
+      "end_line": 14925,
+      "line_count": 220,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "BRITISH SOLOMON ISLANDS PROTECTORATE",
+      "filename": "BRITISH_SOLOMON_ISLANDS_PROTECTORATE.md",
+      "start_line": 14926,
+      "end_line": 15161,
+      "line_count": 236,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "GILBERT AND ELICE ISLANDS COLONY",
+      "filename": "GILBERT_AND_ELICE_ISLANDS_COLONY.md",
+      "start_line": 15162,
+      "end_line": 15333,
+      "line_count": 172,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "THE ANGLO-FRENCH CONDOMINIUM OF THE NEW HEBRIDES",
+      "filename": "THE_ANGLO-FRENCH_CONDOMINIUM_OF_THE_NEW_HEBRIDES.md",
+      "start_line": 15334,
+      "end_line": 15515,
+      "line_count": 182,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "**ZANZIBAR**",
+      "filename": "**ZANZIBAR**.md",
+      "start_line": 15516,
+      "end_line": 15800,
+      "line_count": 285,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "BRITISH RESIDENT\u2014Sir George Mooring, K.C.M.G.",
+      "filename": "BRITISH_RESIDENT\u2014Sir_George_Mooring_KCMG.md",
+      "start_line": 15801,
+      "end_line": 15921,
+      "line_count": 121,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "BERMUDA TRAVEL INFORMATION OFFICE",
+      "filename": "BERMUDA_TRAVEL_INFORMATION_OFFICE.md",
+      "start_line": 15922,
+      "end_line": 15940,
+      "line_count": 19,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "BRUNEI GOVERNMENT AGENCY",
+      "filename": "BRUNEI_GOVERNMENT_AGENCY.md",
+      "start_line": 15941,
+      "end_line": 15952,
+      "line_count": 12,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "EAST AFRICAN OFFICE",
+      "filename": "EAST_AFRICAN_OFFICE.md",
+      "start_line": 15953,
+      "end_line": 15961,
+      "line_count": 9,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "UNITED KINGDOM OFFICE OF THE EASTERN CARIBBEAN GOVERNMENTS",
+      "filename": "UNITED_KINGDOM_OFFICE_OF_THE_EASTERN_CARIBBEAN_GOVERNMENTS.md",
+      "start_line": 15962,
+      "end_line": 15968,
+      "line_count": 7,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "GAMBIA OFFICE",
+      "filename": "GAMBIA_OFFICE.md",
+      "start_line": 15969,
+      "end_line": 16079,
+      "line_count": 111,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "EAST AFRICAN COMMON SERVICES ORGANIZATION",
+      "filename": "EAST_AFRICAN_COMMON_SERVICES_ORGANIZATION.md",
+      "start_line": 16080,
+      "end_line": 16081,
+      "line_count": 2,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "CONSTITUTION, SCOPE AND LEGISLATIVE POWERS",
+      "filename": "CONSTITUTION_SCOPE_AND_LEGISLATIVE_POWERS.md",
+      "start_line": 16082,
+      "end_line": 16172,
+      "line_count": 91,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "THE COURT OF APPEAL FOR EASTERN AFRICA",
+      "filename": "THE_COURT_OF_APPEAL_FOR_EASTERN_AFRICA.md",
+      "start_line": 16173,
+      "end_line": 16264,
+      "line_count": 92,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "AIR SAFETY SERVICES AND AERODROME FLIGHT INFORMATION SERVICE",
+      "filename": "AIR_SAFETY_SERVICES_AND_AERODROME_FLIGHT_INFORMATION_SERVICE.md",
+      "start_line": 16265,
+      "end_line": 16403,
+      "line_count": 139,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "COMMISSIONER-GENERAL\u2014The Earl of Selkirk, P.C., G.C.M.G., O.B.E., A.F.C., Q.C.*",
+      "filename": "COMMISSIONER-GENERAL\u2014The_Earl_of_Selkirk_PC_GCMG_OBE_AFC_QC*.md",
+      "start_line": 16404,
+      "end_line": 16422,
+      "line_count": 19,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "INTERIM COMMISSIONER FOR THE WEST INDIES",
+      "filename": "INTERIM_COMMISSIONER_FOR_THE_WEST_INDIES.md",
+      "start_line": 16423,
+      "end_line": 16439,
+      "line_count": 17,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "METEOROLOGY",
+      "filename": "METEOROLOGY.md",
+      "start_line": 16440,
+      "end_line": 16445,
+      "line_count": 6,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "SHIPPING",
+      "filename": "SHIPPING.md",
+      "start_line": 16446,
+      "end_line": 16470,
+      "line_count": 25,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "REGIONAL COUNCIL OF MINISTERS",
+      "filename": "REGIONAL_COUNCIL_OF_MINISTERS.md",
+      "start_line": 16471,
+      "end_line": 16481,
+      "line_count": 11,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "INTERNATIONAL CO-OPERATION",
+      "filename": "INTERNATIONAL_CO-OPERATION.md",
+      "start_line": 16482,
+      "end_line": 16483,
+      "line_count": 2,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "THE UNITED NATIONS",
+      "filename": "THE_UNITED_NATIONS.md",
+      "start_line": 16484,
+      "end_line": 16514,
+      "line_count": 31,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "CARIBBEAN",
+      "filename": "CARIBBEAN.md",
+      "start_line": 16515,
+      "end_line": 16520,
+      "line_count": 6,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "SOUTH PACIFIC",
+      "filename": "SOUTH_PACIFIC.md",
+      "start_line": 16521,
+      "end_line": 16567,
+      "line_count": 47,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "STAFF",
+      "filename": "STAFF.md",
+      "start_line": 16568,
+      "end_line": 16569,
+      "line_count": 2,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "RECRUITMENT",
+      "filename": "RECRUITMENT.md",
+      "start_line": 16570,
+      "end_line": 16576,
+      "line_count": 7,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    },
+    {
+      "name": "RECORD OF SERVICES",
+      "filename": "RECORD_OF_SERVICES.md",
+      "start_line": 16577,
+      "end_line": 20000,
+      "line_count": 3424,
+      "is_appendix": false,
+      "extraction_method": "automatic_llm_parsing"
+    }
+  ]
+}

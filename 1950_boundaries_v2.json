@@ -1,0 +1,240 @@
+[
+  {
+    "name": "ADEN",
+    "standard_name": "ADEN",
+    "start": 4509,
+    "end": 5262,
+    "lines": 754
+  },
+  {
+    "name": "BAHAMA ISLANDS",
+    "standard_name": "BAHAMA ISLANDS",
+    "start": 5263,
+    "end": 5792,
+    "lines": 530
+  },
+  {
+    "name": "BARBADOS",
+    "standard_name": "BARBADOS",
+    "start": 5793,
+    "end": 6267,
+    "lines": 475
+  },
+  {
+    "name": "BERMUDA",
+    "standard_name": "BERMUDA",
+    "start": 6268,
+    "end": 6805,
+    "lines": 538
+  },
+  {
+    "name": "BRITISH GUIANA",
+    "standard_name": "BRITISH GUIANA",
+    "start": 6806,
+    "end": 7788,
+    "lines": 983
+  },
+  {
+    "name": "BRITISH HONDURAS",
+    "standard_name": "BRITISH HONDURAS",
+    "start": 7789,
+    "end": 8234,
+    "lines": 446
+  },
+  {
+    "name": "BRUNEI",
+    "standard_name": "BRUNEI",
+    "start": 8235,
+    "end": 8486,
+    "lines": 252
+  },
+  {
+    "name": "CYPRUS",
+    "standard_name": "CYPRUS",
+    "start": 8487,
+    "end": 9661,
+    "lines": 1175
+  },
+  {
+    "name": "FIJI",
+    "standard_name": "FIJI",
+    "start": 9662,
+    "end": 10419,
+    "lines": 758
+  },
+  {
+    "name": "THE GAMBIA",
+    "standard_name": "GAMBIA",
+    "start": 10420,
+    "end": 10962,
+    "lines": 543
+  },
+  {
+    "name": "GIBRALTAR",
+    "standard_name": "GIBRALTAR",
+    "start": 10963,
+    "end": 11324,
+    "lines": 362
+  },
+  {
+    "name": "THE GOLD COAST",
+    "standard_name": "GOLD COAST",
+    "start": 11325,
+    "end": 12750,
+    "lines": 1426
+  },
+  {
+    "name": "HONG KONG",
+    "standard_name": "HONG KONG",
+    "start": 12751,
+    "end": 13723,
+    "lines": 973
+  },
+  {
+    "name": "JAMAICA",
+    "standard_name": "JAMAICA",
+    "start": 13724,
+    "end": 14856,
+    "lines": 1133
+  },
+  {
+    "name": "KENYA",
+    "standard_name": "KENYA",
+    "start": 14857,
+    "end": 16003,
+    "lines": 1147
+  },
+  {
+    "name": "THE LEEWARD ISLANDS",
+    "standard_name": "LEEWARD ISLANDS",
+    "start": 16004,
+    "end": 17107,
+    "lines": 1104
+  },
+  {
+    "name": "FEDERATION OF MALAYA",
+    "standard_name": "FEDERATION OF MALAYA",
+    "start": 17108,
+    "end": 18119,
+    "lines": 1012
+  },
+  {
+    "name": "MALTA",
+    "standard_name": "MALTA",
+    "start": 18120,
+    "end": 18792,
+    "lines": 673
+  },
+  {
+    "name": "MAURITIUS",
+    "standard_name": "MAURITIUS",
+    "start": 18793,
+    "end": 19707,
+    "lines": 915
+  },
+  {
+    "name": "NIGERIA",
+    "standard_name": "NIGERIA",
+    "start": 19708,
+    "end": 21443,
+    "lines": 1736
+  },
+  {
+    "name": "NORTH BORNEO",
+    "standard_name": "NORTH BORNEO",
+    "start": 21444,
+    "end": 21913,
+    "lines": 470
+  },
+  {
+    "name": "NORTHERN RHODESIA",
+    "standard_name": "NORTHERN RHODESIA",
+    "start": 21914,
+    "end": 23000,
+    "lines": 1087
+  },
+  {
+    "name": "NYASALAND PROTECTORATE",
+    "standard_name": "NYASALAND PROTECTORATE",
+    "start": 23001,
+    "end": 23557,
+    "lines": 557
+  },
+  {
+    "name": "ST. HELENA",
+    "standard_name": "ST. HELENA",
+    "start": 23558,
+    "end": 23923,
+    "lines": 366
+  },
+  {
+    "name": "SARAWAK",
+    "standard_name": "SARAWAK",
+    "start": 23924,
+    "end": 24475,
+    "lines": 552
+  },
+  {
+    "name": "SEYCHELLES",
+    "standard_name": "SEYCHELLES",
+    "start": 24476,
+    "end": 24887,
+    "lines": 412
+  },
+  {
+    "name": "SIERRA LEONE",
+    "standard_name": "SIERRA LEONE",
+    "start": 24888,
+    "end": 25566,
+    "lines": 679
+  },
+  {
+    "name": "SINGAPORE AND ITS DEPENDENCIES",
+    "standard_name": "SINGAPORE AND DEPENDENCIES",
+    "start": 25567,
+    "end": 26601,
+    "lines": 1035
+  },
+  {
+    "name": "SOMALILAND PROTECTORATE",
+    "standard_name": "SOMALILAND PROTECTORATE",
+    "start": 26602,
+    "end": 26921,
+    "lines": 320
+  },
+  {
+    "name": "TANGANYIKA",
+    "standard_name": "TANGANYIKA",
+    "start": 26922,
+    "end": 27658,
+    "lines": 737
+  },
+  {
+    "name": "TRINIDAD AND TOBAGO",
+    "standard_name": "TRINIDAD AND TOBAGO",
+    "start": 27659,
+    "end": 28586,
+    "lines": 928
+  },
+  {
+    "name": "UGANDA",
+    "standard_name": "UGANDA",
+    "start": 28587,
+    "end": 30230,
+    "lines": 1644
+  },
+  {
+    "name": "THE WINDWARD ISLANDS",
+    "standard_name": "WINDWARD ISLANDS",
+    "start": 30231,
+    "end": 31510,
+    "lines": 1280
+  },
+  {
+    "name": "ZANZIBAR",
+    "standard_name": "ZANZIBAR",
+    "start": 31511,
+    "end": 32001,
+    "lines": 491
+  }
+]

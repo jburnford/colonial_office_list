@@ -1,0 +1,325 @@
+{
+  "year": 1950,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1950/olmocr_results.md",
+  "total_colonies": 34,
+  "colonies": [
+    {
+      "colony_name": "ADEN",
+      "year": 1950,
+      "start_line": 4509,
+      "end_line": 5262,
+      "char_count": 52441,
+      "line_count": 754,
+      "filename": "ADEN.md"
+    },
+    {
+      "colony_name": "BAHAMA ISLANDS",
+      "year": 1950,
+      "start_line": 5263,
+      "end_line": 5792,
+      "char_count": 32327,
+      "line_count": 530,
+      "filename": "BAHAMA_ISLANDS.md"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 1950,
+      "start_line": 5793,
+      "end_line": 6267,
+      "char_count": 34726,
+      "line_count": 475,
+      "filename": "BARBADOS.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1950,
+      "start_line": 6268,
+      "end_line": 6805,
+      "char_count": 32008,
+      "line_count": 538,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1950,
+      "start_line": 6806,
+      "end_line": 7788,
+      "char_count": 74604,
+      "line_count": 983,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1950,
+      "start_line": 7789,
+      "end_line": 8234,
+      "char_count": 26723,
+      "line_count": 446,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "BRUNEI",
+      "year": 1950,
+      "start_line": 8235,
+      "end_line": 8486,
+      "char_count": 15432,
+      "line_count": 252,
+      "filename": "BRUNEI.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1950,
+      "start_line": 8487,
+      "end_line": 9661,
+      "char_count": 91615,
+      "line_count": 1175,
+      "filename": "CYPRUS.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1950,
+      "start_line": 9662,
+      "end_line": 10419,
+      "char_count": 52636,
+      "line_count": 758,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 1950,
+      "start_line": 10420,
+      "end_line": 10962,
+      "char_count": 36836,
+      "line_count": 543,
+      "filename": "THE_GAMBIA.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1950,
+      "start_line": 10963,
+      "end_line": 11324,
+      "char_count": 21731,
+      "line_count": 362,
+      "filename": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "THE GOLD COAST",
+      "year": 1950,
+      "start_line": 11325,
+      "end_line": 12750,
+      "char_count": 126541,
+      "line_count": 1426,
+      "filename": "THE_GOLD_COAST.md"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 1950,
+      "start_line": 12751,
+      "end_line": 13723,
+      "char_count": 63548,
+      "line_count": 973,
+      "filename": "HONG_KONG.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1950,
+      "start_line": 13724,
+      "end_line": 14856,
+      "char_count": 83497,
+      "line_count": 1133,
+      "filename": "JAMAICA.md"
+    },
+    {
+      "colony_name": "KENYA",
+      "year": 1950,
+      "start_line": 14857,
+      "end_line": 16003,
+      "char_count": 84003,
+      "line_count": 1147,
+      "filename": "KENYA.md"
+    },
+    {
+      "colony_name": "THE LEEWARD ISLANDS",
+      "year": 1950,
+      "start_line": 16004,
+      "end_line": 17107,
+      "char_count": 59141,
+      "line_count": 1104,
+      "filename": "THE_LEEWARD_ISLANDS.md"
+    },
+    {
+      "colony_name": "FEDERATION OF MALAYA",
+      "year": 1950,
+      "start_line": 17108,
+      "end_line": 18119,
+      "char_count": 77355,
+      "line_count": 1012,
+      "filename": "FEDERATION_OF_MALAYA.md"
+    },
+    {
+      "colony_name": "MALTA",
+      "year": 1950,
+      "start_line": 18120,
+      "end_line": 18792,
+      "char_count": 34373,
+      "line_count": 673,
+      "filename": "MALTA.md"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 1950,
+      "start_line": 18793,
+      "end_line": 19707,
+      "char_count": 65270,
+      "line_count": 915,
+      "filename": "MAURITIUS.md"
+    },
+    {
+      "colony_name": "NIGERIA",
+      "year": 1950,
+      "start_line": 19708,
+      "end_line": 21443,
+      "char_count": 148432,
+      "line_count": 1736,
+      "filename": "NIGERIA.md"
+    },
+    {
+      "colony_name": "NORTH BORNEO",
+      "year": 1950,
+      "start_line": 21444,
+      "end_line": 21913,
+      "char_count": 25518,
+      "line_count": 470,
+      "filename": "NORTH_BORNEO.md"
+    },
+    {
+      "colony_name": "NORTHERN RHODESIA",
+      "year": 1950,
+      "start_line": 21914,
+      "end_line": 23000,
+      "char_count": 74478,
+      "line_count": 1087,
+      "filename": "NORTHERN_RHODESIA.md"
+    },
+    {
+      "colony_name": "NYASALAND PROTECTORATE",
+      "year": 1950,
+      "start_line": 23001,
+      "end_line": 23557,
+      "char_count": 40825,
+      "line_count": 557,
+      "filename": "NYASALAND_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 1950,
+      "start_line": 23558,
+      "end_line": 23923,
+      "char_count": 21580,
+      "line_count": 366,
+      "filename": "ST_HELENA.md"
+    },
+    {
+      "colony_name": "SARAWAK",
+      "year": 1950,
+      "start_line": 23924,
+      "end_line": 24475,
+      "char_count": 44398,
+      "line_count": 552,
+      "filename": "SARAWAK.md"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 1950,
+      "start_line": 24476,
+      "end_line": 24887,
+      "char_count": 23586,
+      "line_count": 412,
+      "filename": "SEYCHELLES.md"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1950,
+      "start_line": 24888,
+      "end_line": 25566,
+      "char_count": 49718,
+      "line_count": 679,
+      "filename": "SIERRA_LEONE.md"
+    },
+    {
+      "colony_name": "SINGAPORE AND ITS DEPENDENCIES",
+      "year": 1950,
+      "start_line": 25567,
+      "end_line": 26601,
+      "char_count": 74580,
+      "line_count": 1035,
+      "filename": "SINGAPORE_AND_ITS_DEPENDENCIES.md"
+    },
+    {
+      "colony_name": "SOMALILAND PROTECTORATE",
+      "year": 1950,
+      "start_line": 26602,
+      "end_line": 26921,
+      "char_count": 19035,
+      "line_count": 320,
+      "filename": "SOMALILAND_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "TANGANYIKA",
+      "year": 1950,
+      "start_line": 26922,
+      "end_line": 27658,
+      "char_count": 55471,
+      "line_count": 737,
+      "filename": "TANGANYIKA.md"
+    },
+    {
+      "colony_name": "TRINIDAD AND TOBAGO",
+      "year": 1950,
+      "start_line": 27659,
+      "end_line": 28586,
+      "char_count": 60255,
+      "line_count": 928,
+      "filename": "TRINIDAD_AND_TOBAGO.md"
+    },
+    {
+      "colony_name": "UGANDA",
+      "year": 1950,
+      "start_line": 28587,
+      "end_line": 30230,
+      "char_count": 121044,
+      "line_count": 1644,
+      "filename": "UGANDA.md"
+    },
+    {
+      "colony_name": "THE WINDWARD ISLANDS",
+      "year": 1950,
+      "start_line": 30231,
+      "end_line": 31510,
+      "char_count": 77128,
+      "line_count": 1280,
+      "filename": "THE_WINDWARD_ISLANDS.md"
+    },
+    {
+      "colony_name": "ZANZIBAR",
+      "year": 1950,
+      "start_line": 31511,
+      "end_line": 32001,
+      "char_count": 42323,
+      "line_count": 491,
+      "filename": "ZANZIBAR.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Manual LLM-based boundary identification",
+    "date": "2025-11-16",
+    "method": "Automated pattern matching with manual verification",
+    "notes": [
+      "Identified 34 colonies using OCR pattern matching",
+      "Three colonies from table of contents not found: FALKLAND ISLANDS AND DEPENDENCIES, WESTERN PACIFIC, MISCELLANEOUS ISLANDS",
+      "These may be formatted differently or located in a different section of the document",
+      "All identified colonies have verified boundaries based on content structure",
+      "Colony sections identified by all-caps headers followed by \"Situation\", \"Area\", \"Climate\", etc."
+    ]
+  }
+}

@@ -1,0 +1,519 @@
+SIERRA LEONE.
+
+Situation and Area.
+
+The Colony of Sierra Leone has a coast-line of 210 miles, extending between 6° 55' and 9° 2' of N. lat., from the territory of the Republic of Liberia on the south-east, where the Mannoh River forms the boundary, as far as Kiragba on the north-east; about midway on this coast there is a block of land about 23 miles in length with a mean width of about 14 miles, forming the oldest portion of the Colony; about 100 miles south-east from this block there is another about 80 miles in length, with a varying width not definitely ascertained, forming the Sherbro District. The rest of the Colony consists of a strip of land along the sea and river shores of half a mile in depth inland from high-water mark in some places, and a quarter of a mile in others; and of the Banana, Turtle, Leopard, Plantain, Yellaboi, Kortimo, Tasso, Macaulay, and other islets. The strip of shoreline was acquired for the purpose of securing an effective control over the importation of sea-borne goods into the main portions of the Colony.
+
+Immediately adjoining the Colony of Sierra Leone lying to the northward and eastward is the Protectorate, the northern boundaries of which were defined by the Agreement between Great Britain and France which was concluded on the 21st January, 1895. The extreme depth from south to north is about 210 miles, lying between 7° and 10° N. lat., and the extreme breadth from east to west is 180 miles, lying between 10° 40' and 13° 20' of W. long. The estimated area is 28,110 square miles—about the size of Ireland.
+
+History.
+
+The Colony of Sierra Leone originated in the sale and cession by King Nembana and his subordinate chiefs to Captain John Taylor, of His Britannic Majesty's brig "Miro," on behalf of the "free community of settlers, their heirs, and successors, lately arrived from England, and under the protection of the British Government," of a piece of land described in the treaty as extending from the bay commonly called Frenchman's Bay, but of which the name was changed to St. George's Bay, coastwise up the River Sierra Leone to Gambia Island, and southerly or inland from the riverside 20 miles. The treaty is dated 22nd August, 1788.
+
+The main purpose of the Colony in its inception was to secure a home on the African Continent for a party of natives of Africa, and some others, who from various circumstances had been separated from the countries of their origin, and were struggling waifs in and about London. Somewhat later the Colony was much used as a settlement for Africans rescued from slave-ships during the period when England was putting forth her efforts for the suppression of the over-sea traffic in slaves. The territory of the Colony received additions from time to time by various concessions from the native chiefs. Thus, on the 10th July, 1807, King Firama and King Tom ceded all the land they possessed in the peninsula of Sierra Leone lying to the westward of the Colony; and in 1861 Bai Conteh, King of Kwaiia, with his chiefs, ceded a portion of the Kwaiia country abutting on the Colony of Sierra Leone, measuring 10 miles in width and 16 miles in length from the River Sierra Leone to the River Ribbi, and particularly described as to its inland boundary.
+Between the months of December and March the wind known as the "Harmattan" is prevalent; there in the way of agriculture beyond the planting of cassava, which forms the staple food of the inhabitants. In the Protectorate the inhabitants
+in the Treaty of Cession. In 1825 the Governor of Sierra Leone made a treaty of cession with the King and chiefs of Sherbro, Bagru, Sherbro Island, and some other places, for the purpose of adding these countries to the territories of the Colony. This treaty was not ratified by the Crown, but was revived by a fresh agreement made in 1882. A number of other Treaties of Cession were made from time to time.
+
+On August 21st, 1896, a Proclamation was issued of a Protectorate over the Hinterland of Sierra Leone, and Ordinances were passed in 1896-97-98, 1901 and 1903, providing for the administration of this Protectorate, which is divided into six districts as follows:
+
+1. Karene District—Headquarters, Batkanu.
+2. Ronietta Moyamba.
+3. Railway Kennema.
+4. Central Makondo.
+5. Koinadugu Kaballa.
+6. Northern Sherbro Shengay.
+
+**Constitution.**
+
+A Charter, issued on May 27, 1863, created an Executive Council for the Colony composed of four members nominated by the Crown. The Legislative Council was to consist of the members of the Executive Council and nominated members.
+
+A Charter, dated the 19th of February, 1866, established a Central Government of the settlements on the West Coast of Africa, with the seat of government at Sierra Leone.
+
+A new Charter, dated the 24th of July, 1874, revoked so much of the Charter of the 19th of February, 1866, as provided for the government of the Gold Coast and Lagos under the Governor-in-Chief of the West Africa Settlements, and those settlements were erected into a distinct government. A further Charter, dated 17th of December, 1874, erected a new government of the "West Africa Settlements," consisting of Sierra Leone and the Gambia, and created a Legislative Council in each settlement, consisting of the officer administering the government, and not less than two other persons, to be designated by royal instructions or warrant. New letters patent dated 17th June, 1885, provided for the continuance of the government on the same lines, with some minor differences. By letters patent of 28th Nov., 1888, the Gambia was again made a separate government. According to the same letters patent, the Governor of Sierra Leone is aided by an Executive Council composed of four officials and the officer in command of the troops. The Legislative Council, of which the Governor is ex-officio president, is composed of the members of the Executive Council, as official members, with the addition of the Chief Justice and the Principal Medical Officer, who are not members of the Executive Council, and four unofficial members nominated by the Crown.
+
+**Climate.**
+
+The seasons may be divided into wet and dry, the former commencing in May and lasting till October. The temperature varies during the year from about 62° to 88°. Tornadoes or violent thunderstorms occur in the rainy season, especially at its commencement and close. They are accompanied by strong wind, but do not last long, and seldom do much damage. The atmosphere during the rainy season is excessively damp. The rainfall for the year 1907 was 153'13 inches. Between the months of December and March the wind known as the "Harmattan" is prevalent; it is very dry, and often brings with it a fine dust said to come from the Sahara. Its direction ranges from N.E. to S.E.
+
+The climate of Sierra Leone is unhealthy, especially at the commencement and close of the rains. Malarial fever, sometimes of a very severe kind, is prevalent. It is difficult to ascertain definitely the death rate among Europeans, as the number of these in the Colony changes at different periods of the year. The general death-rate for Freetown was 31'076 for 1905, and 23'02 for 1906. A large proportion of this is due to the very heavy infantile mortality. Natives of West Africa suffer considerably from malarial fever, but the type is not so severe as among Europeans.
+
+**General Description.**
+
+The capital, Freetown, lies about four miles up the Sierra Leone River, at the foot of a chain of hills rising 1,700 feet above the sea. It contains, according to the census of 1901, 34,463 inhabitants, and possesses the best harbour in West Africa. It is an important coaling station and a port of registry.
+
+The peninsula of Sierra Leone and the lands immediately adjoining have a population (including Freetown and its districts) of about 76,655, according to the last census taken, but the number is increasing. It yields only a small quantity of exportable commodities. The extent of the territory is small, the generally rocky soil is not very well adapted for cultivation, and the people of the Colony seem not much attracted to that form of industry. No minerals have been discovered, except iron, which can hardly be reckoned as of exportable value.
+
+The Sherbro District exports considerable quantities of palm kernels, with some other articles of lesser importance. A large proportion of the exports of Sherbro are really the products of the Protectorate.
+
+The configuration and soil of the Protectorate vary much in different localities. Some parts are low and swampy, in others the country is mountainous, rising in places to an altitude of over 3,000 feet. Many districts are fertile and well adapted to the growth of oil palms, indiarubber trees and vines, benji seeds, kola nuts, gum-producing trees, ginger, rice, cotton, and other tropical products. Unlike many regions on the West Coast of Africa, the country is, for the most part, well watered by rivers and running streams.
+
+The population of the Protectorate has not been ascertained. It has been estimated at about one million, and is composed of the following tribes:
+
+- **Karene District**—Bulloma, Timanis, Limbas, Susus.
+- **Ronietta**—Mendis, Yonnis, and a few Timanis.
+- **Railway**—Mendis, Kurankos, Gowras, and Gallinas.
+- **Central**—Mendis and Konnos.
+- **Koinadugu**—Susus, Limbas, Yalunka.
+- **N. Sherbro**—Mendis and Sherbros.
+
+**Trade.**
+
+There are practically no industries at present. The inhabitants of Freetown and the Colony generally are traders and shop-keepers, and do little in the way of agriculture beyond the planting of cassava, which forms the staple food of the inhabitants. In the Protectorate the inhabitants
+plant so-called farms, chiefly of rice and cassava, and collect natural products for sale to the various merchants and traders of the Colony.
+
+The products from the Protectorate which constitute the principal exports are palm kernels, palm oil, benni seed, ground nuts, kola nuts, indiarubber, copal, hides, and ginger. Cotton cultivation is now being carried out in some parts of the Protectorate on a large scale. The imports are chiefly spirits, tobacco, cotton goods, furniture, groceries, etc., and hardware. More than two-thirds of the total imports in 1907 came from the United Kingdom, which also received about one-third of the exports.
+
+Currency and Banking.
+
+Besides British currency, gold doubloons, eagles, and the coins of the Latin union are current and legal tender. There is no Colonial coinage, and no note circulation. The British Bank of West Africa has a branch in the Colony. A Government Savings Bank was established in 1882, and had, in 1907, 79,406L., deposited by 5,409 depositors.
+
+Education.
+
+A system of Government grants and inspection was established in 1882. There are 75 assisted elementary schools in the Colony, with 7,793 scholars at end of 1907; they are all denominational, and charge fees. Education is not compulsory. There are four secondary boys' schools in Freetown—the Grammar School (C.M.S.), the High School (Wesleyan), the Educational Institute, and the Albert Academy (United Brethren in Christ). The Church Missionary Society has a training college at Fourah Bay affiliated to Durham University; and a Wesleyan Theological College has lately been established. There are also in Freetown three high schools devoted to female education. A scheme for the education, on Western lines, of Mohammedan children was started in 1901. There are now four schools in receipt of a Government grant, and the number of children on the rolls was 596 at end of 1907. A Government school for the sons and nominees of native chiefs was established at Bo in the Railway District of the Protectorate on 1st March, 1906, under European supervision. The number of pupils at the close of the year was 85.
+
+Means of Communication.
+
+Steamers leave Liverpool for Freetown every Saturday, and for Madeira and Freetown every other Wednesday. The average length of passage is 12 days to Freetown. There is also regular steam communication with Hamburg, Havre, and Marseilles, as well as with Lisbon and Algiers.
+
+Telegraphic communication with Europe was established in 1886, there being now three cables, to Bathurst, Conakry, and Accra respectively. A single line railway of 2 ft. 6 in. gauge was opened to the public on 1st May, 1899, to carry goods and passengers from Freetown to Songo Town, via Cline Town, Kissy, Hastings, Wellington, Waterloo and Newton, a distance of about 32 miles, and there is telegraphic communication between these stations. This line has been extended through the Bandajuna District past Bo to Baiima. Horses do not thrive, and there is but little wheel traffic, and few roads fit for it.
+
+The construction of a railway between Freetown and the highland country on the south has been completed in order to give facilities for Europeans to build residences on the hills.
+
+The working of the railway open lines is progressing satisfactorily, and there is every indication that they will be the means of bringing considerably more produce to the port of the colony than was possible previously. The cost of up-keep of the open lines amounted in 1907 to £7,882l.
+
+The Sherbro river is navigable for over 20 miles (up to Yorktown), the Sierra Leone, or Roquelle river, for 40 miles (as far as Magbellie).
+
+The rates of postage are as follows:
+
+| Letters, Newspapers and other articles, per oz. per 2 ozs. |
+|-----------------|-----------------|
+| To the U.K., India, and d. | d. |
+| certain Colonies* | 1 |
+| To other Postal Union and Non-Union Countries | 2½ |
+
+The Parcel Post system has been introduced, and parcels up to 11 lbs. in weight can be despatched at a rate of 1s. for parcels up to 3 lbs., 2s. up to 7 lbs., and 3s. up to 11 lbs. in weight.
+
+### Finances
+
+| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |
+|------|---------|-------------|-----------------|--------------|
+| 1898 | 117,681 | 121,112     | 863,327         | 1,110,228    |
+| 1899 | 168,382 | 145,088     | 918,256         | 1,181,748    |
+| 1900 | 168,608 | 156,421     | 994,328         | 1,290,933    |
+| 1901 | 192,138 | 173,457     | 1,028,941       | 1,249,808    |
+| 1902 | 205,765 | 184,940     | 1,153,867       | 1,467,888    |
+| 1903 | 237,730 | 206,464     | 1,354,590       | 1,688,357    |
+| 1904 | 240,472 | 237,892     | 1,280,091       | 1,595,914    |
+| 1905 | 281,523 | 295,490     | 1,267,178       | 1,616,272    |
+| 1906 | 305,074 | 285,661     | 1,302,760       | 1,684,736    |
+| 1907 | 339,104 | 345,367     | 1,456,906       | 1,890,531    |
+
+### Imports
+
+| Year | From U.K. | From Colonies | From Elsewhere | Total |
+|------|-----------|---------------|----------------|-------|
+| 1898 | 512,098   | 12,732        | 81,517         | 606,348|
+| 1899 | 544,587   | 19,596        | 125,624        | 689,806|
+| 1900 | 425,245   | 13,211        | 119,814        | 558,271|
+| 1901 | 411,578   | 10,857        | 125,851        | 548,286|
+| 1902 | 455,922   | 21,894        | 148,120        | 625,935|
+| 1903 | 514,970   | 36,658        | 146,199        | 700,827|
+| 1904 | 495,597   | 50,340        | 171,299        | 717,336|
+| 1905 | 520,144   | 27,418        | 156,087        | 702,649|
+| 1906 | 657,661   | 24,254        | 203,936        | 885,851|
+| 1907 | 708,765   | 22,745        | 256,512        | 988,022|
+
+### Exports
+
+| Year | To U.K. | To Colonies | To Elsewhere | Total |
+|------|---------|-------------|--------------|-------|
+| 1898 | 117,726 | 30,947      | 142,316      | 290,991|
+| 1899 | 135,635 | 42,412      | 157,964      | 336,011|
+| 1900 | 125,559 | 59,275      | 117,637      | 362,471|
+| 1901 | 87,588  | 46,228      | 170,194      | 304,010|
+| 1902 | 123,272 | 72,661      | 206,585      | 402,518|
+| 1903 | 127,882 | 58,170      | 232,579      | 418,631|
+| 1904 | 182,956 | 71,586      | 230,328      | 484,870|
+| 1905 | 202,776 | 59,571      | 300,803      | 563,150|
+| 1906 | 218,180 | 97,072      | 401,371      | 716,623|
+| 1907 | 228,399 | 75,544      | 527,316      | 831,259|
+
+Customs Revenue, 1907, 188,058L.
+
+* See list at end of Introduction. A new rate on parcels exchanged with the U.K. came into force on the 1st of January, 1908.
+Population.
+
+| Year | White Males | White Females | Coloured Males | Coloured Females | Total |
+|------|-------------|---------------|----------------|------------------|-------|
+| 1901 | 444         | 49            | 41,412         | 34,750           | 76,655|
+
+*Governors of Sierra Leone since 1900.*
+
+- 1900. Sir C. A. King-Harman, K.C.M.G.
+- 1902. Col. J. E. W. S. Caulfield (acting).
+- 1902. Lt.-Col. F. T. Henstock (acting).
+- 1902. Col. J. W. A. Marshall (acting).
+- 1902. Col. F. Graves (acting).
+- 1903. Sir C. A. King-Harman, K.C.M.G.
+- 1904. Mr. G. B. Haddon Smith, C.M.G. (acting).
+- 1904. Brigadier-General F. Graves (acting).
+- 1904. Mr. L. Probyn, C.M.G.
+- 1905. Brigadier-General F. Graves (acting).
+- 1905. Mr. G. B. Haddon Smith, C.M.G. (acting).
+- 1905. Mr. L. Probyn, C.M.G.
+- 1906. Mr. L. Probyn, C.M.G.
+- 1906. Mr. G. B. Haddon Smith, C.M.G. (acting).
+- 1907. Mr. G. B. Haddon Smith, C.M.G. (acting).
+- 1907. Mr. L. Probyn, C.M.G.
+- 1908. Mr. L. Probyn, C.M.G.
+- 1908. Mr. G. B. Haddon Smith, C.M.G. (acting).
+
+Executive Council.
+
+The Governor, President.
+The Officer Commanding the Troops (if Lieut.-Col.).
+The Colonial Secretary.
+The Attorney-General.
+The Colonial Treasurer.
+The Collector of Customs.
+Clerk of Executive Council, 50l.
+
+Legislative Council.
+
+The Governor, President.
+The Chief Justice.
+The Officer Commanding the Troops (if Lieut.-Col.).
+The Colonial Secretary.
+The Attorney-General.
+The Colonial Treasurer.
+J. J. Thomas, C.M.G.
+P. Davey
+C. E. Wright, M.A., B.C.L.
+J. H. Thomas
+
+Unofficial Members.
+
+Clerk of Legislative Council, F. A. Miller, 100l.
+
+Civil Establishment.
+
+Governor's Office.
+
+Governor, Commander-in-Chief, and Vice-Admiral, Leslie Probyn, Esq., C.M.G., 2,500l., and 500l. entertaining allowance.
+Private Secretary and Aide-de-Camp, Capt. H. C. Lukach, 250l.
+Governor's Chief Clerk, F. A. Miller, 100l. to 180l., and 20l. personal.
+1st Clerk, T. Taylor, B.A., 120l. to 150l.
+2nd ditto, J. L. John, 50l. to 60l.
+
+Colonial Secretary's Office.
+
+Colonial Secretary, G. B. Haddon Smith, C.M.G., 800l. to 1,000l., and 160l. duty allowance.
+Senior Assistant Secretary, E. E. Evelyn, 400l. to 500l.
+
+Asst. Secretary, A. Farrar, 350l. to 400l.
+Chief Clerk, A. W. M. Nylander, 200l. to 250l.
+1st ditto, D. W. Carrol, 140l. to 160l.
+2nd ditto, J. T. D. Smith, 120l. to 140l.
+3rd ditto, J. H. C. Smart, 100l. to 120l.
+4th ditto, G. H. Porter, 100l. to 120l.
+5th ditto, I. F. T. George, 100l. to 120l.
+
+Printing Branch.
+
+Printer, G. T. Parker, 100l. to 150l.
+Assistant Printer, C. J. Gilpin, 60l. to 100l., and 15l. as Bookbinder.
+1st Class Compositors, J. Macfoy, C. E. Turner, and N. S. Thomas, each 50l. to 60l.
+2nd Class Compositors, A. T. George and J. H. Danner, 40l. to 50l.
+
+Provincial Administration.
+
+District Commissioners, Major E. C. D'H. Fairtough, C.M.G., D.S.O., Dr. J. C. Maxwell, Major G. D. A. Anderson, Major H. G. Warren, G. W. Page, and W. St. John Oswell, each 450l. to 650l.
+Assistant District Commissioners, A. G. F. Paling, A. W. Boddy, W. D. D. Bowden, H. E. Bailey, C. T. Reaney, J. Craven, W. Addison, J. S. Burra, Ma or R. H. K. Willans, E. D. Vergette, J. A. H. Tinling, and W. A. N. Davies, each 300l. to 400l.
+Native Assistant District Commissioners, J. A. S. Davies and A. E. Tuboku-Metzger, each 250l. to 350l.
+Clerks, A. N. Morrison, C. R. Morrison, 100l. to 120l., A. D. Ynasey, 90l. to 120l., J. B. Jarrett, J. W. Carew, H. A. Williams, and T. R. Jones, each 60l. to 80l.
+Assistant Clerks, J. W. Davies, W. R. Macauley, E. B. Campbell, R. Vandermost, W. A. John, G. E. M. Hughes, J. N. Johnson, F. N. Jones, and M. St. G. Auber, each 40l. to 50l.
+
+Treasury Department.
+
+Colonial Treasurer, E. O. Johnson, 500l. to 700l. and 100l. duty allowance.
+Senior Assistant ditto, S. Renshaw, 350l. to 400l.
+Assistant ditto, G. R. Moore, 300l. to 350l.
+Chief Clerk, J. N. Edwin, 180l. to 220l.
+Examining and Correspondence Branch: 1st Clerk, A. G. Johnson, 120l. to 150l., and 25l. duty allowance as cashier; 2nd ditto, W. B. Gilpin, 100l. to 120l.; 3rd ditto, S. Benjamin, 100l. to 120l.; 4th ditto, J. H. Kelso, 65l. to 80l.; 5th ditto, J. F. Knox, 50l. to 60l.; 6th ditto, J. N. Taylor, 35l. to 45l.
+Accounting Branch: 1st Clerk, E. G. Taylor, 120l. to 150l.; 2nd ditto, M. P. Cole, 70l. to 90l.; 3rd ditto, C. J. Ella, 50l. to 60l.; 4th ditto, A. F. Dove, 35l. to 45l.; 5th ditto, J. O. Nicolls, 30l. to 40l.
+Treasury Clerk, Bonthic, T. N. Spencer, 50l. to 60l.
+
+Legal Department.
+
+Chief Justice, Sir P. C. Smyly, Kt., LL.D., 1,200l.
+Clerk, J. C. Johnson, 60l. to 80l.
+Attorney-General, D. F. Wilbraham, 700l.
+Puisne Judge (paid as Circuit Judge), W. R. Townsend, 800l., and 100l. duty allowance.
+Solicitor-General, F. A. Van der Meulen, 400l. to 500l.
+Chief Clerk, W. A. Valantin, 80l. to 100l., and 50l. personal.
+2nd ditto, A. T. A. Beckley, 60l. to 70l.
+3rd ditto, E. W. Cole, 40l. to 50l.
+4th ditto, M. C. French, 30l. to 40l.
+
+*The Colonial Secretary acts as Governor during the absence of the latter.*
+Assistant Master, Circuit Court (vacant), 100l. to 120l.
+
+Master of Supreme Court, Registrar-General, and Police Magistrate, K. J. Beatty, 500l.
+
+Chief Clerk Registrar-General's Office, C. Duke, 65l. to 90l.
+
+2nd Clerk ditto, F. E. Bucknor, 50l. to 60l.
+
+3rd Clerk ditto, A. M. Strong, 40l. to 50l.
+
+4th Clerk ditto, S. G. Randall, 30l. to 40l.
+
+Deputy Master of Supreme Court, S. A. Metzger, 150l. to 200l.
+
+1st Clerk, J. A. Williams, 60l. to 75l.
+
+2nd ditto, A. E. Scott, 30l. to 40l.
+
+Police Magistrate and Coroner, A. J. Beatty.
+
+Sheriff and Provost-Marshal, G. L. Brooks, 75l.
+
+Under Sheriff, S. A. Metzger, 65l.
+
+Clerk to Sheriff and Senior Bailiff, W. S. Grant, 40l. to 50l.
+
+Clerk, Police Court, J. R. Wright, 120l. to 150l.
+
+2nd Clerk, do., J. N. P. Nicol, 40l. to 50l.
+
+Bailiff, W. A. Cole, 50l. to 60l.
+
+Curator of Intestate Estates, W. A. Valentin, fees.
+
+Civil Police.
+
+Commissioner, G. L. Brooks, 300l. to 350l., and 50l. personal.
+
+Inspector, D. R. A. Bettington, 250l. to 300l.
+
+Prisons Department.
+
+Superintendent of Prisons, R. White, 300l. to 350l.
+
+Storekeeper, N. H. Sawyerr, 175l. to 200l.
+
+Chief Warden, G. N. Ganson, 60l. to 70l.
+
+Principal Warden Clerk, C. A. Dixon, 50l. to 60l.
+
+Matron, R. C. Maister, 40l. to 50l.
+
+Customs Department.
+
+Collector of Customs, A. P. Viret, 500l. to 700l., and 100l. allowance in lieu of fees.
+
+Assistant Collector of Customs, J. M. Reid, 350l. to 400l., and 50l. allowance in lieu of fees.
+
+Chief Clerk, H. N. Carrol, 200l. to 250l.
+
+Examining Officer, A. C. A. Johnson, 120l. to 160l.
+
+1st Assistant Examining Officer, P. H. H. George, 115l. to 145l.
+
+2nd ditto, T. D. K. Brown, 80l. to 100l.
+
+1st Clerk and Statist, J. O. B. Turner, 120l. to 150l.
+
+1st Assistant Statist, T. M. Johnson, 100l. to 110l.
+
+2nd Assistant Statist, J. S. Caulker, 80l. to 90l.
+
+2nd Clerk, T. A. Clemens, 100l. to 125l.
+
+3rd Clerk (vacant), 70l. to 95l.
+
+Correspondence Clerk, F. N. Jones, 80l. to 90l.
+
+Warehousekeeper, L. F. Campbell, 175l. to 200l.
+
+Senior Warehouseman, T. A. Davies, 90l. to 100l.
+
+Warehousemen, D. A. Thompson, F. C. Campbell, G. J. Gooding, each 60l. to 70l.
+
+Sherbro Branch:
+
+Supervisor, N. J. Spaine, 300l.
+
+Chief Clerk, G. T. Lewis, 140l. to 170l.
+
+Warehousekeeper, A. R. Harris, 80l. to 90l.
+
+Examining Officer, M. A. Lewis, 100l. to 120l.
+
+Outdoor Officers:
+
+Senior Outdoor Officer, U. J. Lawrence, 150l. to 200l.
+
+Senior 1st Class Officer, V. E. Spaine, 100l. to 120l.
+
+1st Class Officers, W. M. Peeler, M. A. Smith, C. D. Williams, T. E. Johnson, T. E. Martins, H. H. P. Wilson, J. E. Harding, D. P. W. Richards, S. H. E. Barker, S. V. Hanciles, S. D. Palmer, H. M. Venn, E. F. Clarke, A. H. Butscher, H. A. Venn, S. V. Felix, K. F. Kenny, J. W. Wray, E. A. Turner, W. R. S. Kenner, each 70l. to 80l.
+
+2nd Class Officers, J. E. Pratt, D. A. Jones, E. E. Cole, R. W. Smith, M. A. John, S. A. Wright, A. E. Mannnah, J. B. Macauley, A. B. Carew, J. E. Terry, T. R. Yaskey, O. C. H. Thompson, H. E. G. Moore, A. E. Nicolls, H. R. Williams, J. I. Coker, S. D. Cassell, C. E. Peacock, T. G. N. Pratt, J. T. Johnson, J. A. Williams, each 50l. to 60l.
+
+3rd Class Officers, B. E. Felix, C. R. Smith, D. R. George, M. L. Johnson, W. H. S. Dougan, S. E. Cole, H. H. Lewis, V. H. Elba, J. P. Spain, M. E. Coomber, each 30l. to 40l.
+
+Preventive Service:
+
+Preventive Inspector, W. Ransley, 300l. to 350l.
+
+Preventive Officer, F. Q. Martyn, 100l.
+
+Port and Marine Department.
+
+Harbour Master (vacant), 200l. to 250l.
+
+Clerk, T. A. Moses, 40l. to 60l.
+
+Medical Department.
+
+West African Medical Staff.
+
+Principal Medical Officer, R. M. Forde, 800l. to 1,000l.
+
+Senior Medical Officer, R. H. Kennan, 600l. to 700l.
+
+Medical Officers, J. F. Ward, C. B. Hunter, D. Burrows, C. H. Allan, E. W. Wood-Mason, J. Jackson Moore, H. E. Arbuckle, R. W. Orpen, W. N. Alexander, J. C. Murphey, J. S. Pearson, and J. McConaghy, each 400l. to 500l.
+
+Local Medical Officers, W. Renner, 400l. to 500l., and 50l. personal; W. F. Campbell, 350l. to 400l.; and W. A. O. Taylor, 300l. to 350l.
+
+Medical Clerk, G. M. Spilsbury, 130l. to 150l.
+
+1st Assistant Clerk, D. T. Betts, 60l. to 80l.
+
+2nd Assistant Clerk, M. W. Frazer, 40l. to 50l.
+
+Storekeeper, C. A. Inniss, 100l. to 120l.
+
+Resident Dispenser, M. N. Lardner, 100l. to 150l.
+
+Assistant Dispenser and Steward, O. E. King, 100l. to 120l.
+
+1st Class Dispensers, E. G. Luke, J. P. Metzer, W. A. Macauley, Caleb H. Johnson, I. H. Wright, each 75l. to 110l.
+
+2nd Class Dispensers, D. M. Thomas, O. E. Nylander, P. J. John, H. E. Frazer, T. L. Hooke, each 60l. to 75l.
+
+3rd Class Dispensers, M. O. Frazer, M. P. Neville, J. J. Nicol, E. H. Beclee, J. A. Short, T. C. Williams, each 45l. to 60l.
+
+Post Office.
+
+Colonial Postmaster-General, and Manager, Savings Bank, J. C. Smith, 450l., and 90l. duty allowance.
+
+Assistant Colonial Postmaster-General and Chief Clerk, Savings Bank, J. S. T. Davies, 250l. to 300l.
+
+Chief Clerk and Examiner, J. N. Crown, 180l. to 220l.
+
+Assistant Clerk and Examiner, M. S. Macauley, 80l. to 100l.
+
+Accountant, D. T. P. Cole, 130l. to 180l., and 24l. allowance.
+
+Money Order Clerk, I. J. Baxter, 100l. to 120l.
+
+Correspondence Clerk, V. E. George, 80l. to 90l.
+
+Assistant Correspondence Clerk, S. A. Adams, 30l. to 40l.
+
+1st Clerk, Savings Bank, A. B. Charleston, 100l. to 120l.
+
+2nd ditto, M. A. John, 70l. to 80l.
+
+3rd ditto, G. P. Bull, 40l. to 50l.
+Registration Clerk, J. B. C. Pratt, 70l. to 80l.
+Assistant Accountant, E. S. B. Francis, 40l. to 50l.
+Stampseller, I. W. Williams, 60l. to 80l.
+Parcel Post Clerk, U. W. Coker, 70l. to 80l.
+Assistant ditto, D. D. Garber, 30l. to 40l.
+Chief Sorter, D. A. Davies, 80l. to 90l.
+2nd Sorter and Storekeeper, V. K. Edwin, 70l. to 80l.
+3rd ditto, G. E. Cole, 30l. to 40l.
+4th ditto, J. A. Langley, 30l. to 40l.
+Mail Clerk, H. L. Weber, 40l. to 50l.
+Postmaster and Savings Bank Clerk, Sherbro, J. Smythe, 120l. to 140l.
+Clerk to ditto, M. O. Thorpe, 30l. to 40l.
+
+Public Works Department.
+Director of Public Works, C. A. Copland, 600l. to 800l.
+Foremen of Works, J. H. Sheldrake and C. F. Wilson, each 250l. to 300l.
+Surveyor of Crown Lands, B. L. Wilson, 150l. to 200l.
+Chief Draughtsman, T. A. Wilhelm, 100l. to 120l.
+Draughtsman, S. Bull, 45l. to 65l.
+Crown Lands Clerk, A. T. Porter, 70l. to 80l.
+Chief Clerk and Accountant, G. P. Jarrett, 120l. to 150l.
+1st Clerk and Assistant Accountant, E. C. Davies, 80l. to 100l.
+2nd Clerk, S. B. Logan, 60l. to 70l.
+Storekeeper, J. E. Smith, 60l. to 75l.
+Assistant Storekeeper, N. Fyne, 50l. to 60l.
+Transport Clerk, J. Collier, 50l. to 60l.
+Building Inspector, J. B. Luke, 100l. to 120l.
+Assistant Building Inspector, A. S. Cole, 50l. to 60l.
+
+Educational Department.
+Inspector of Schools, M. J. Marke, 250l. to 300l., and 50l. personal.
+Principal, Bo School, J. Proudfoot, 450l. to 500l.
+Education Experts, Bo School, J. H. Duff, J. Pool, and W. J. Holloway, each 300l. to 350l.
+Clerk to Board of Education, T. Taylor, 40l.
+Secretary to Board of Mohammedan Education, Hadir-u-deen, 120l. to 150l.
+Clerk to Inspector of Schools, M. J. O. Macauley, 50l.
+
+Agricultural Development Branch.
+Superintendent of Agriculture, C. W. Smythe, 250l. to 300l.
+Overseer, J. Hartley, 150l. and 12l. personal.
+
+Audit Department.
+Local Auditor, E. du Boulay, 400l. to 500l., and 80l. duty allowance.
+Assistant Auditors, P. L. Tengely and R. H. Jebb, each 300l. to 400l.
+1st Clerk, H. A. Williams, 100l. to 180l.
+2nd ditto, G. P. Coker, 100l. to 160l.
+3rd ditto, D. A. Williams, 100l. to 120l.
+4th ditto, J. L. Mannah, 80l. to 100l.
+5th ditto, M. B. Reader, 60l.
+
+Railway Department.
+General Manager and Traffic Manager, J. R. W. Comber, 625l. to 700l.
+Maintenance Engineer, R. W. Espeut, 400l. to 450l.
+Assistant Maintenance Engineers, F. A. Neck, E. D. Willoughby, and A. H. Salt, each 350l. to 400l.
+Junior Assistant Maintenance Engineer, R. M. Johnstone, 300l. to 350l.
+Chief Accountant, J. W. Owen, 400l. to 500l.
+Locomotive Superintendent, E. G. Barker, 550l. to 650l.
+Permanent Way Inspector, E. D. Jenkins, 250l. to 300l.
+Assistant Accountants, R. L. Hunt and R. J. Morison, each 300l. to 350l.
+Assistant Locomotive Superintendent, J. D. Robin son, 350l. to 400l.
+Senior Assistant Traffic Manager, J. D. Martin, 400l.
+Traffic Officers, 1st Grade, T. E. Kewley and A. J. Cullen, each 275l. to 325l.
+Traffic Officer, 2nd Grade, E. H. Barker, 250l. to 275l.
+Chief Traffic Inspector and Convenor, B. Stewart, 275l.
+Clerk to General Manager, J. B. Sidney, 200l. to 275l.
+Chief Clerk to ditto, S. A. Macauley, 120l. to 150l.
+Traffic Supervisor and Travelling Inspector of Accounts, P. Nicolls, 300l.
+
+Sierra Leone Battalion, West African Frontier Force.
+Major, Capt. (temporary Major) F. N. le Mesurier, Royal Dublin Fusiliers, 500l.
+2nd in Command and Adjutant, Capt. G. P. Newstead, Suffolk Regt.
+Captains (4), Capt. R. E. Gordon, Northamptonshire Regt.; Capt. A. F. R. Colquhoun, Leicestershire Regt.; Lieut. (local Capt.) E. G. Skelton, West India Regt.; and one vacancy; each 400l.
+Lieutenants (12), Capt. E. H. Norman, Royal West Kent Regt.; Capt. W. H. Supple, Royal Dublin Fusiliers; Lieut. H. Goodwin, Middlesex Regt.; Lieut. E. H. Murphy, Leinster Regt.; Lieut. J. W. Chamley, Border Regt.; Lieut. H. R. Ayton, Royal Artillery; Lieut. A. F. Thomas, Manchester Regt.; Lieut. M. H. C. De C. De B. Wickham, Connaught Rangers; Lieut. J. Patterson, Royal Artillery; Lieut. A. N. Ogilvie, North Staffordshire Regt.; Lieut. J. S. M. Corrie, Scottish Rifles; and Lieut. J. L. Burne, Royal Irish Regt.; each 300l. to 350l.
+Paymaster's Clerk, M. S. Deen, 60l. to 70l.
+Quartermaster's Clerk (vacant), 60l. to 70l.
+Company Pay Clerks, G. A. Harding, S. J. Coker, A. E. Lavers, and J. B. Macauley, 50l. to 60l. each.
+Orderly Room Clerk, J. M. Jacobs, 50l.
+
+Foreign Consuls.
+France, C. Perinaux.
+Germany, J. Stadelmann.
+Belgium, J. C. Newton (acting).
+The Netherlands, J. C. Newton.
+Norway, J. C. Newton.
+Spain, W. H. Hall.
+Italy, G. T. Zolia.
+Portugal, J. R. Bingham.
+Greece, J. C. Newton (acting).
+United States, W. Yerby.
+Liberia, C. May.

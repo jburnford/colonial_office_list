@@ -1,0 +1,244 @@
+{
+  "year": 1957,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1957/olmocr_results.md",
+  "total_colonies": 25,
+  "colonies": [
+    {
+      "colony_name": "UGANDA",
+      "year": 1957,
+      "start_line": 3303,
+      "end_line": 3733,
+      "char_count": 43931,
+      "line_count": 431,
+      "filename": "UGANDA.md"
+    },
+    {
+      "colony_name": "ADEN",
+      "year": 1957,
+      "start_line": 3733,
+      "end_line": 4621,
+      "char_count": 59795,
+      "line_count": 889,
+      "filename": "ADEN.md"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 1957,
+      "start_line": 4621,
+      "end_line": 4946,
+      "char_count": 23363,
+      "line_count": 326,
+      "filename": "BARBADOS.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1957,
+      "start_line": 4946,
+      "end_line": 5131,
+      "char_count": 17015,
+      "line_count": 186,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1957,
+      "start_line": 5279,
+      "end_line": 5667,
+      "char_count": 26906,
+      "line_count": 389,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1957,
+      "start_line": 5667,
+      "end_line": 6344,
+      "char_count": 43591,
+      "line_count": 678,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1957,
+      "start_line": 6344,
+      "end_line": 7040,
+      "char_count": 48506,
+      "line_count": 697,
+      "filename": "CYPRUS.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1957,
+      "start_line": 7040,
+      "end_line": 7328,
+      "char_count": 24404,
+      "line_count": 289,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 1957,
+      "start_line": 7328,
+      "end_line": 7699,
+      "char_count": 25772,
+      "line_count": 372,
+      "filename": "THE_GAMBIA.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1957,
+      "start_line": 7699,
+      "end_line": 7956,
+      "char_count": 14983,
+      "line_count": 258,
+      "filename": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 1957,
+      "start_line": 7956,
+      "end_line": 8343,
+      "char_count": 25540,
+      "line_count": 388,
+      "filename": "HONG_KONG.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1957,
+      "start_line": 8343,
+      "end_line": 8801,
+      "char_count": 31340,
+      "line_count": 459,
+      "filename": "JAMAICA.md"
+    },
+    {
+      "colony_name": "CAYMAN ISLANDS",
+      "year": 1957,
+      "start_line": 8801,
+      "end_line": 8928,
+      "char_count": 8392,
+      "line_count": 128,
+      "filename": "CAYMAN_ISLANDS.md"
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "year": 1957,
+      "start_line": 8928,
+      "end_line": 9768,
+      "char_count": 58707,
+      "line_count": 841,
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md"
+    },
+    {
+      "colony_name": "LEEWARD ISLANDS",
+      "year": 1957,
+      "start_line": 9768,
+      "end_line": 9913,
+      "char_count": 8038,
+      "line_count": 146,
+      "filename": "LEEWARD_ISLANDS.md"
+    },
+    {
+      "colony_name": "MONTSERRAT",
+      "year": 1957,
+      "start_line": 9913,
+      "end_line": 11523,
+      "char_count": 105287,
+      "line_count": 1611,
+      "filename": "MONTSERRAT.md"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 1957,
+      "start_line": 11523,
+      "end_line": 12640,
+      "char_count": 76665,
+      "line_count": 1118,
+      "filename": "MAURITIUS.md"
+    },
+    {
+      "colony_name": "NORTH BORNEO",
+      "year": 1957,
+      "start_line": 12640,
+      "end_line": 13785,
+      "char_count": 82445,
+      "line_count": 1146,
+      "filename": "NORTH_BORNEO.md"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 1957,
+      "start_line": 13785,
+      "end_line": 14030,
+      "char_count": 12392,
+      "line_count": 246,
+      "filename": "ST_HELENA.md"
+    },
+    {
+      "colony_name": "ASCENSION",
+      "year": 1957,
+      "start_line": 14030,
+      "end_line": 14377,
+      "char_count": 31673,
+      "line_count": 348,
+      "filename": "ASCENSION.md"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 1957,
+      "start_line": 14377,
+      "end_line": 16773,
+      "char_count": 184089,
+      "line_count": 2397,
+      "filename": "SEYCHELLES.md"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1957,
+      "start_line": 17895,
+      "end_line": 18388,
+      "char_count": 31547,
+      "line_count": 494,
+      "filename": "DOMINICA.md"
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 1957,
+      "start_line": 18388,
+      "end_line": 18638,
+      "char_count": 15651,
+      "line_count": 251,
+      "filename": "ST_LUCIA.md"
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 1957,
+      "start_line": 18638,
+      "end_line": 18931,
+      "char_count": 13417,
+      "line_count": 294,
+      "filename": "ST_VINCENT.md"
+    },
+    {
+      "colony_name": "ZANZIBAR",
+      "year": 1957,
+      "start_line": 18931,
+      "end_line": 20370,
+      "char_count": 97850,
+      "line_count": 1440,
+      "filename": "ZANZIBAR.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Automated v5 parser with table of contents filtering",
+    "date": "2025-11-16",
+    "method": "Automated batch processing with PART II detection",
+    "corrections_applied": [
+      "Removed 18 table of contents entries (before line 3303)",
+      "Removed 2 duplicate entries from metadata"
+    ],
+    "original_count": 45,
+    "corrected_count": 25,
+    "note": "Automated processing - may need manual verification | Metadata corrected to remove 2 duplicates"
+  }
+}

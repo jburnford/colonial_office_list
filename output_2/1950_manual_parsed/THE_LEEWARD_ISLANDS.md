@@ -1,0 +1,1104 @@
+THE LEEWARD ISLANDS
+
+Situation and Area
+The colony of the Leeward Islands, with a total area of 422 square miles, consists of a number of islands belonging partly to the chain of the Lesser Antilles and partly (the Virgin Islands group) to the eastern extremity of the Greater Antilles. The islands of Antigua, Barbuda, St. Christopher (St. Kitts), Nevis and Montserrat form a fairly compact group between the 61st and 63rd degree of west longitude and around the 17th degree of north latitude; but Anguilla, Sombrero, and still more the Virgins group (Tortola, Virgin Gorda, Anegada, etc.), lie apart to the north and north-west.
+
+St. Kitts, Nevis and Montserrat form part of the volcanic chain of the Lesser Antilles, whilst Antigua and Barbuda form part of the eastern sedimentary series of the same chain.
+
+Politically the colony is divided into four Presidencies:—Antigua (with Barbuda), St. Christopher and Nevis (with Anguilla), Montserrat and the Virgin Islands. These have been united and separated at various times in their history, and were finally federated in 1871 by Imperial Act 34 and 35 Vict., cap. 107. Sombrero was added to the colony by Order-in-Council under the Colonial Boundaries Act on the 10th August, 1904, being attached to the Virgin Islands Presidency, and later transferred to St. Christopher and Nevis.
+
+On 1st January, 1940, Dominica, which had been a presidency of the colony of the Leeward Islands, was separated and became a colony of the Windward Islands.
+
+Climate
+The climate of the islands varies, but is usually dry and fairly healthy. Antigua is subject to drought, and has an average rainfall of about 45 inches; St. Kitts, Nevis and Montserrat have average rainfalls of from 50 to 60 inches. The mean temperature is about 80°, with but a slight range. The Virgin Islands are cooler. The hot season is from May to October; the rainy season—from August to January.
+
+Population
+The total population at the 1946 census was 108,000, being a decrease of 14,242 on that of 1921. The estimated population on 31st December, 1947, was 109,274.
+
+The most important towns are St. John (Antigua), 11,000; Basseterre (St. Kitts), 12,000.
+
+History
+The islands were discovered by Columbus on his second voyage, in 1493, and became British during the 17th century. Particulars of their subsequent history will be found in the separate articles, but it may here be mentioned that they have been from the first associated politically as well as geographically. They were all colonised from St. Kitts as centre, all included in the Carlisle grant, and possessed a common Legislature as far back as the reign of William and Mary. The General Legislature met for the last time in 1798, when it passed a highly humane slave amelioration Act, which was allowed; a Catholic Emancipation Act, and an Act repealing the duty on exports of 4½ per cent. for the benefit of the English exchequer—both of which were disallowed. An attempt was made by Sir William Colebrook in 1837 to revive the General Legislature, and though the attempt was regarded unfavourably in some quarters, and the Legislature never actually met, yet the right to revive it was clear, and there is no doubt that the Act of 1871, the passing of which was largely due to the energy and activity of Sir Benjamin Pine, is no more than a revival of the ancient constitution of the islands. The Presidencies of St. Kitts and Nevis, with Anguilla and their respective dependencies, were united into one Presidency by the Federal Act No. 2 of 1882.
+
+Constitution
+By “The Leeward Islands Act, 1871” one Executive Council and a legislative body styled “The General Legislative Council”, under one Governor, were constituted for the five (now four) presidencies. The General Legislative Council consists of nine official members and nine unofficial members. Of the unofficial members three are elected from among the Island Council of Antigua, three from the Island Council of St. Christopher and Nevis, one of whom shall at the time of election be resident in Nevis, and two from the Island Council of Montserrat. These members must be and continue to be members of their respective island councils and are elected to the General Legislative Council for a period of three years. As there is no island council in the Virgin Islands, an unofficial member is appointed by the Governor, under Section 9 of the Leeward Islands Act, to represent that Presidency, but whenever such an appointment is made the Governor must under the provisions of the said section, appoint a person holding office under the Government of the Colony, and approved by the Secretary of State, to be an official member of the said Council. The
+official members are the Governor, the person for the time being performing the duties of Colonial Secretary, the holder of the substantive appointment of Administrator of Antigua, the holder of the substantive appointment of Administrator of St. Christopher and Nevis, the person for the time being lawfully performing the duties of Attorney General, the holder of the substantive appointment of Commissioner of Montserrat, the holder of the substantive appointment of Commissioner of the Virgin Islands, and the person for the time being lawfully performing the duties of Federal Treasurer.
+
+The Legislative Council has concurrent legislative powers with the local legislatures on certain subjects specified in the Act, such as matters of property, mercantile and criminal law, air, the law relating to status, the maintenance of a general police force and a common convict establishment, quarantine, postal and telegraph affairs, currency, audit, weights and measures, education, and the care of lunatics, all matters relating to immigration, copyright and patents, and its own constitution and procedure. Any island legislature is, in addition, competent to declare other matters to be within the competency of the general legislature. Any island enactment on such subjects is void if repugnant to an enactment of the general legislature, or may at any time be repealed or altered by one.
+
+The Council meets at least once a year, at a place notified by proclamation, and no Council lasts more than three years. The session usually lasts for about one week.
+
+The expenses of the federal establishments are voted by the Council, and apportioned among the Presidencies.
+
+The Council has power to alter its constitution by an ordinary act, to be reserved for the King's pleasure, and the King has power, by Order-in-Council, at any time to include any other West Indian Island in the federation, upon joint addresses from the legislative body of such island, and from the Council, on such terms and conditions in each case as are in the addresses expressed. This power has not actually been exercised, and the inclusion in the Colony of Sombrero, which had no legislative body, was effected as above mentioned under a different act. Constitutional changes involving the electoral principle with unofficial majorities in the Presidential Councils came into being in 1937.
+
+Antigua is the seat of Government of the Leeward Islands and the residence of the Governor.
+
+EDUCATION
+
+The system of elementary education is denominational in the Virgin Islands, the various denominations being Anglicans, Methodists and Roman Catholics. In the other presidencies elementary education is provided by the Government. On 31st December, 1948, there were 91 aided and Government schools in the Colony. The clergy of the various denominations are granted facilities for giving religious instruction during school hours to the children of their respective churches. During the year 1948 the cost of education in the Colony was $747,727.00 (£155,776).
+
+School fees have now been abolished in all public elementary schools throughout the Colony. The schools are required to receive all children applying for admission. Grants-in-aid are refused to superfluous or inefficient schools. In the 91 aided and Government schools there were enrolled on 31st December, 1948, 23,100 children, with a daily average attendance of 16,400. For secondary education there are Government grammar schools for boys in St. Kitts, and for boys and girls in Montserrat and the Virgin Islands, private grammar schools for boys in Antigua, private girls' high schools in Antigua and St. Kitts, and private mixed schools in Antigua, Nevis and St. Kitts (convent).
+
+The standard of the secondary schools is the Cambridge School Certificate.
+
+There is a training college for female teachers in Antigua (under the control of the Moravian Church).
+
+CIVIL SERVICE
+
+A system of grading civil service clerks has been established throughout the Colony. The pay assigned to the several grades is as follows:
+
+Junior clerks—£120–£150–£15–£250.
+Senior clerks—£260–£20–£320.
+Principals—£350–£25–£425.
+
+A cost of living allowance is paid on salaries up to £800 per annum as follows:
+25 per cent. on the first £100.
+15 per cent. on the second £100.
+10 per cent. on the third £100.
+
+COMMUNICATION
+
+Shipping
+
+The following steamship lines serve the Colony:
+
+Canadian National Steamships, fortnightly from Canada, proceeding to Windward Islands, Barbados, Trinidad and British Guiana and return.
+
+The Alcoa Steamship Co., about once every two weeks from Canada call at St. Kitts, Antigua and Montserrat, proceeding to French West Indies, Windward Islands, Barbados, Trinidad, etc.
+
+There are no passenger opportunities from the Colony to U.K. direct and consequently more holidays are being spent in Canada.
+
+Air
+
+An air mail service operated by Pan American Airways calls daily at Antigua from Miami (U.S.A.) via Cuba, Haiti, Santo Domingo and Porto Rico, proceeding to Trinidad, Georgetown (British Guiana) and Paramaribo (Dutch Guiana) and returns, also daily, in the opposite direction.
+
+An air mail service operated by British West Indian Airways (from Trinidad, Barbados and Jamaica) calls at Antigua and St. Kitts twice weekly.
+
+Posts and Telegraphs
+
+Mails with Great Britain are exchanged via New York, occasionally via Barbados, and sometimes direct from Antigua, and direct with Canada, the United States and the British West Indies.
+
+Mails are also exchanged by air with the places served by the Pan American Airways and British West Indian Airways, and with Great Britain and Canada via Miami, U.S.A.
+
+There are 46 post offices in the colony and the rates of postage are as follows:
+
+Inland—Letters, 1d. for the first 2 oz., ½d. per additional 2 oz.; post cards, ½d.
+
+British Empire, Egypt and Tangier.—Letters, 2d. for the first oz., ½d. per additional oz.; post cards, 1d.
+
+Other Places.—Letters, 3d. for the first oz., 2d. per additional oz.; post cards, 1½d.
+
+All Places.—Printed matter, 1d. per 2 oz.; "small packets," 10d. up to 10 oz.; 2d. for every additional 2 oz.
+Parcel post despatches are exchanged with Great Britain via Barbados, Canada and New York and direct with Canada, the United States and British West Indies, Bermuda, British Guiana, Guadeloupe and Dependencies, and the Dutch West Indies, and via London or New York to other countries.
+
+British Imperial postal orders are issued and paid in the Colony and money orders are exchanged direct with Great Britain, Canada, the United States and British West Indian colonies.
+
+Telephone systems are maintained by the Government in Antigua, St. Kitts, Nevis and Montserrat.
+
+Telegraph communication is maintained by means of wireless operated by Cable & Wireless (West Indies), Ltd., there being stations at Antigua and St. Kitts, all of which communicate with one another and with Barbados for telegrams to the United Kingdom, Canada, North America, etc. There is also a wireless station in Montserrat maintained by the Colonial Government but operated by the company.
+
+The wireless stations at Antigua and St. Kitts are also owned and operated by Cable & Wireless (West Indies), Ltd. A coast station is also maintained at St. Kitts for communication with ships at sea.
+
+This company also maintains a wireless telephone service connecting Antigua, St. Kitts and Montserrat to the United Kingdom, Canada, the United States of America, and the other British West Indian Colonies.
+
+### Finance and Trade
+
+| Year | Imports | Exports | Revenue | Expenditure |
+|------|---------|---------|---------|-------------|
+| 1940 | 688,905 | 796,674 | 365,427 | 354,702     |
+| 1941 | 802,232 | 957,476 | 413,105 | 368,786     |
+| 1942 | 832,613 | 644,519 | 480,347 | 474,679     |
+| 1943 | 976,182 | 827,599 | 526,171 | 409,897     |
+| 1944 | No statistics available | 550,000 | 450,000 |           |
+| 1945 | 1,200,000 | 950,000 | 625,000 | 570,000     |
+| 1946 | 1,500,000 | 1,100,000 | 700,000 | 620,000     |
+| 1947 | 2,000,000 | 1,600,000 | 750,000 | 720,000     |
+| 1948 | 1,868,656 | 1,408,191 | 913,872 | 936,733     |
+
+### Currency and Banking
+
+The usual currency is British silver and B.W.I. dollars, a few British and United States gold coins being occasionally met with. Barclays Bank (Dominion, Colonial and Overseas), Ltd., and the Royal Bank of Canada have branches in Antigua and St. Kitts, and the latter bank has a branch in Montserrat. In Nevis and the Virgin Islands there are no banks.
+
+Government savings banks have been established in all the Presidencies.
+
+### Governors of the Leeward Islands
+
+- **1871** Sir B. C. Pine, K.C.M.G.
+- **1873** H. T. Irving, C.M.G. (later Sir H. T. Irving, K.C.M.G.)
+- **1875** Sir George Berkeley, K.C.M.G.
+- **1881** Sir J. H. Glover, G.C.M.G.
+- **1884** Sir C. C. Lees, K.C.M.G.
+- **1885** Lord Gormanston, K.C.M.G.
+- **1888** W. F. Haynes Smith, C.M.G.
+- **1895** Sir F. Fleming, K.C.M.G.
+- **1901** Sir H. M. Jackson, K.C.M.G.
+- **1902** Sir Gerald Strickland, K.C.M.G.
+- **1904** Sir C. C. Knollys, K.C.M.G.
+- **1906** Sir Bickham Sweet-Escott, K.C.M.G.
+- **1912** Sir H. Hesketh Bell, K.C.M.G.
+- **1916** Sir E. M. Merewether, K.C.M.G., K.C.V.O.
+- **1921** Lt.-Col. The Hon. Sir E. E. Fiennes, Bart.
+- **1929** Sir Reginald St. Johnston, K.C.M.G.
+- **1936** Sir Gordon J. Lethem, K.C.M.G.
+- **1941** Sir Douglas J. Jardine, K.C.M.G., O.B.E.
+- **1943** Sir L. Brian Freeston, K.C.M.G., O.B.E.
+- **1948** The Earl Baldwin of Bewdley.
+
+### Executive Council of the Leeward Islands
+
+- The Governor.
+- The Colonial Secretary.
+- R. St. J. O. Wayne (Administrator of Antigua).
+- H. Burrowes (Administrator of St. Kitts-Nevis).
+- E. E. Harney (Attorney-General).
+- Charlesworth Ross (Commissioner of Montserrat).
+- J. A. C. Cruikshank.
+- E. A. Thompson.
+- C. N. Griffin, O.B.E.
+- M. H. Davis.
+- A. Moody-Stuart, O.B.E., M.C.
+- J. L. E. Jeffery, O.B.E.
+- A. C. Evelyn.
+- A. W. Griffin.
+- Clerk—A. E. Penn.
+
+### General Legislative Council
+
+**Official Members**
+
+- The Governor (President).
+- The Colonial Secretary.
+- The Administrator of St. Kitts-Nevis.
+- The Administrator of Antigua.
+- The Attorney-General.
+- The Commissioner, Montserrat.
+- The Commissioner of the Virgin Islands.
+- The Federal Treasurer.
+- J. R. A. Branch, M.B.E.
+
+**Elected Members**
+
+- Antigua—V. C. Bird, M. D. L. Benjamin, E. H. Lake.
+- St. Kitts—R. J. Gordon, M. H. Davis, R. L. Bradshaw.
+- Montserrat—H. F. Shand, A. W. Griffin.
+
+**Unofficial Member**
+
+- Virgin Islands—J. O. Georges.
+- Clerk—A. E. Penn.
+
+### Civil Establishment
+
+#### Federal Administration
+
+- **Governor**—The Earl Baldwin of Bewdley. £2,200.
+- **Duty pay**, £550.
+- **Colonial Secretary**—P. D. Macdonald. £1,300.
+- **Free quarters**, £150.
+- **Assistant Colonial Secretary**—E. H. M. Edwards. £750.
+
+#### Agriculture
+
+- **Director of Agriculture**—R. B. Allnutt. £1,100.
+
+#### Audit
+
+- **Principal Auditor**—H. M. Watson. £750.
+
+### Total Deposits on 31st December, 1948
+
+|                | Number of Depositors on 31st December, 1948 |
+|----------------|---------------------------------------------|
+| Antigua        | 5,579                                       |
+| St. Kitts and Nevis | 2,640                                      |
+| Montserrat     | 1,251                                       |
+| Virgin Islands | 300                                         |
+| **Total**      | **9,770**                                    |
+
+|                | Total Deposits on 31st December, 1948 |
+|----------------|---------------------------------------|
+| Antigua        | £46,012                               |
+| St. Kitts and Nevis | £86,145                              |
+| Montserrat     | £34,147                               |
+| Virgin Islands | £6,000                                |
+| **Total**      | **£172,574**                          |
+EDUCATION
+
+Federal Education Officer—A. C. G. Palmer. £760.
+Education Officer—D. L. Matheson. £600.
+
+ENGINEERING UNIT
+
+Federal Engineer—J. Knox. £1,000. House allowance, £70.
+Assistant Engineer Surveyor—J. Mitchell. £600.
+Clerks of Works—A. E. Griffiths; J. Carmichael; S. H. Best. £550.
+
+FOOD CROP PEST INVESTIGATION
+
+Food Crop Pest Investigation Officer—R. G. Fennah. £750. House allowance, £100.
+
+JUDICIAL
+
+Chief Justice (Windward and Leeward Islands)—Sir Clement Malone, Kt., O.B.E. £1,400.
+
+LABOUR
+
+Federal Labour Officer—F. K. Payne. £760.
+Assistant Federal Labour Officer—E. H. A. Grell. £550–25–650.
+
+LEGAL
+
+Attorney-General—E. E. Harney. £1,100.
+
+Magistrates
+
+Antigua—J. H. V. Redhead. £650.
+St. Kitts-Nevis—C. A. S. Harney. £650.
+Montserrat—R. H. Lockhart. £650.
+Additional Magistrate (Antigua)—Vacant.
+
+MEDICAL
+
+Federal Senior Medical Officer—C. N. Griffin, O.B.E. £1,000.
+Supernumerary Medical Officers—W. T. Joseph; M. A. Lambert; L. M. D. Winkelhaven. £400–25–550.
+Relief Nursing Sister—Vacant. £250–10–300.
+Allowance in lieu of quarters, £50.
+
+POLICE
+
+Commissioner of Police—Colonel J. R. A. Branch, M.B.E. £800.
+Superintendents of Police—Major F. S. Wigley; Captain A. A. M. Hill. £500–25–575.
+Assistant Superintendents of Police—A. J. Bowry; W. S. Southwell. £350–25–450.
+
+PRINTING
+
+Superintendent, Printing Office—S. C. Carmichael, M.B.E. £460.
+Assistant Superintendent, Printing Office—E. Scholar. £250–10–300.
+
+VETERINARY
+
+Chief Veterinary Officer—L. R. Hutson. £800.
+
+ANTIGUA
+
+Antigua is situated in W. longitude 61° 45', and N. latitude 17° 6'. It is about 54 miles in circumference, and its area is officially recognised as 108 square miles, about half the size of Middlesex.
+
+The islands of Barbuda (population 902) and Redonda are dependencies of Antigua. They have a total area of 62½ square miles. Barbuda lies about 25 miles due north of the main island, with an area of 62 square miles, is very flat, with a large lagoon on the west side, separated from the sea by a spit of sand. It was long owned by the Codrington family. It produces sea island cotton, charcoal and salt, and is well adapted for cattle grazing and horse rearing. Cotton is being grown with favourable results. Deer were introduced by the Codringtons. The island has communication with Antigua by a sailing-boat service. Redonda, lying between Montserrat and Nevis, 25 miles S.W. of Antigua, in 25° 6' N. latitude, 61° 35' W. longitude, one mile by one-third mile, 1,000 feet high, is valuable for its phosphate of alumina mines, discovered in 1865, formerly worked by the Redonda Phosphate Company under licence and subject to an annual rental of £50.
+
+Antigua was discovered by Columbus in 1493, who named it after a church in Seville, called Santa Maria de la Antigua. It was first inhabited by a few English from St. Kitts in 1632. In 1663 Charles II made a formal grant of the island to Lord Willoughby, who sent out a large number of colonists. After an interval of French occupation, it was declared a British possession by the Treaty of Breda, 1666. There are no rivers, but there are a few springs and wells, most of which are brackish. There are shallow ponds on which, with a few catchments and the roofs of houses and churches, the island depends for water. In 1947 and 1948 severe drought was experienced.
+
+Rainfall:
+
+| Year | St. John's |
+|------|-----------|
+| 1943 | 55.93     |
+| 1944 | 43.67     |
+| 1945 | 55.99     |
+| 1946 | 49.06     |
+| 1947 | 28.84     |
+| 1948 | 45.26     |
+
+On 22nd March, 1898, the Legislative Council, which was previously partly elected and partly nominated by the Governor, passed an Act abrogating itself and substituting the Crown Colony system. By Ordinance No. 20 of 1936 the Council was reconstituted and is now composed of the Administrator as President, two other officials, three nominated and five elected members.
+
+The chief products are sugar and cotton. In 1948 there were about 8,782 acres under sugar-cane, 3,550 acres under cotton, 1,000 acres under food crops and 55,668 used for grazing or uncultivated, the great portion of the latter being non-arable.
+
+### FINANCES
+
+| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |
+|------|---------|-------------|-----------------|---------------|
+| 1939 | £127,327 | £152,311    | 1,068,640       | 1,355,950     |
+| 1940 | £132,360 | £134,125    | 728,072         | 1,003,950     |
+| 1941 | £173,810 | £144,230    | 571,862         | 1,422,764     |
+| 1942 | £181,792 | £173,310    | 164,624         | 389,352       |
+| 1943 | £219,559 | £200,974    | 57,524          | 86,328        |
+| 1944 | £227,823 | £256,219    | 71,550          | 110,044       |
+| 1945 | £296,536 | £310,029    | 176,742         | 211,278       |
+| 1946 | £384,102 | £348,869    | 300,000         | 375,000       |
+| 1947 | £384,926 | £362,331    | 224,319         | 403,873       |
+| 1948 | £398,738 | £453,720    | 285,882         | 439,716       |
+## Imports
+
+| Year | From U.K. | From Other British Countries | From Elsewhere | Total |
+|------|-----------|-----------------------------|---------------|-------|
+| 1939 | £81,446   | £101,080                    | £42,569       | £225,095 |
+| 1940 | £83,836   | £118,570                    | £21,788       | £224,194 |
+| 1941 | £62,132   | £235,389                    | £28,966       | £326,487 |
+| 1942 | £49,186   | £271,173                    | £102,467      | £422,826 |
+| 1943 | £60,308   | £302,349                    | £96,010       | £458,665 |
+| 1944 | £58,599   | £301,815                    | £193,583      | £553,997 |
+| 1945 | £66,255   | £354,249                    | £116,189      | £536,693 |
+| 1946 (est.) | £80,000 | £400,000                    | £150,000      | £630,000 |
+| 1947 | £170,094  | £637,371                    | £227,464      | £1,034,929 |
+| 1948 | £182,244  | £463,951                    | £150,719      | £796,914 |
+
+## Exports
+
+| Year | To U.K. | To Other British Countries | To Elsewhere | Total |
+|------|---------|----------------------------|--------------|-------|
+| 1939 | £150,182| £68,422                     | £2,126       | £220,730 |
+| 1940 | £150,961| £26,497                     | £5,177       | £182,635 |
+| 1941 | £132,059| £135,476                    | £4,341       | £271,876 |
+| 1942 | £230,469| £47,296                     | £1,932       | £279,697 |
+| 1943 | £101,009| £113,240                    | £155,290     | £369,539 |
+| 1944 | £128,914| £55,182                     | £94,732      | £278,828 |
+| 1945 | £280,502| £15,110                     | £18,418      | £314,030 |
+| 1946 (est.) | £350,000 | £20,000 | £20,000 | £390,000 |
+| 1947 | £407,409| £56,482                     | £1,691       | £465,582 |
+| 1948 | £337,886| £45,163                     | £2,763       | £385,812 |
+
+The total Customs Revenue for 1948 was £117,895.
+
+Public Debt, 31st December, 1948, £93,552.
+
+Amount to credit of Sinking Funds, 31st December, 1948, £32,842 (face value of stock).
+
+### Population
+
+| Year | White | Black | Coloured | Total |
+|------|-------|-------|----------|-------|
+| 1901 |       |       |          | 34,178 |
+| 1911 | 1,009 | 26,458| 3,927    | 31,394 |
+| 1921 | 914   | 24,854| 3,999    | 29,767 |
+| 1946 |       |       |          | 41,800 |
+| 1948 |       |       |          | 43,504 |
+
+### Governors of Antigua
+
+- **1668** Lord Willoughby, of Parham.
+- **1668** Samuel Winthorpe (Deputy-Governor).
+- **1672** Phillip Warner.
+- **1675** Rowland Williams.
+- **1682** Sir William Stapleton.
+- **1682** Nathaniel Johnson.
+- **1689** General Codrington.
+- **1698** Col. John Yeamans (Lieut.-Governor).
+- **1698** Christopher Codrington.
+- **1704** Sir William Matthew.
+- **1706** Col. Parke.
+- **1710** Col. John Yeamans (Lieut.-Governor).
+- **1710** General Hamilton.
+- **1711** Walter Douglas.
+- **1715** General Hamilton.
+- **1721** John Hart.
+- **1728** Lord Londonderry.
+- **1730** William Matthew.
+- **1752** Sir George Thomas.
+- **1766** James Verchill.
+- **1768** William Woodley (Lieut.-Governor).
+- **1771** Sir Ralph Payne.
+- **1776** William H. Burt.
+- **1781** Sir Thomas Shirley.
+- **1788** John Nugent (Lieut.-Governor).
+- **1790** Sir Thomas Shirley.
+- **1791** John Nugent (Lieut.-Governor).
+- **1792** William Woodley (Lieut.-Governor).
+- **1793** John Stanley (Lieut.-Governor).
+- **1795** Major-General Leigh.
+- **1799** William Woodley (Lieut.-Governor).
+- **1801** Lord Lavington.
+- **1810** Hugh Elliott.
+- **1814** Lieut.-General Sir James Leith.
+- **1816** Major-General Ramsay.
+- **1819** Major-General Sir B. Durban.
+- **1826** Sir Patrick Ross.
+- **1834** Sir Evan M’Gregor.
+- **1836** Henry Light (Lieut.-Governor).
+- **1837** Sir William Colebrooke.
+- **1840** Major Macphail (Lieut.-Governor).
+- **1842** Sir Charles A. Fitz Roy.
+- **1845** C. J. Cunningham (Lieut.-Governor).
+- **1847** J. M. Higginson.
+- **1850** R. J. Mackintosh.
+- **1855** K. B. Hamilton, C.B.
+- **1859** Sir Hercules Robinson (Lieut.-Governor).
+- **1859** B. E. Jarvis (President).
+- **1859** E. J. Eyre (Lieut.-Governor).
+- **1860** Sir William Byam (President).
+- **1860** K. B. Hamilton, C.B.
+- **1863** Sir William Byam (President).
+- **1863** Colonel S. J. Hill, C.B.
+- **1866** Sir B. C. C. Pine, Kt. (Acting).
+- **1867** Col. S. J. Hill, C.B.
+- **1869** Sir B. C. Pine, K.C.M.G.
+- **1871** E. D. Baynes (Acting).
+EXECUTIVE COUNCIL (LOCAL)
+
+The Governor.
+The Colonial Secretary.
+The Administrator.
+The Attorney-General.
+E. A. Thompson.
+J. C. McMichael.
+S. T. Christian, B.A., LL.M.
+R. Cadman.
+V. C. Bird.
+C. A. Kelsick.
+Clerk—C. O. Byron.
+
+LEGISLATIVE COUNCIL (LOCAL)
+
+President—The Administrator.
+
+Official Members
+
+The Crown Attorney.
+The Treasurer.
+
+Non-Official Members
+
+S. T. Christian, O.B.E., B.A., LL.M.
+A. Moody Stuart, O.B.E., M.C., J.P.
+R. Cadman.
+V. C. Bird.
+M. D. L. Benjamin.
+E. H. Lake.
+H. O. Pratt.
+E. Williams.
+Clerk—C. O. Byron.
+
+CIVIL ESTABLISHMENT
+
+Note
+
+* Plus value of free quarters assessed at not more than one-sixth of salary.
+
+ADMINISTRATION
+
+Administrator—R. St. J. O. Wayne. £1,100.*
+Administration Secretary—Vacant. £450–25–500.
+
+AGRICULTURE
+
+Agricultural Superintendent—C. A. S. Hynam. £550–25–700.
+Assistant Agricultural Superintendent—E. R. H. Martin. £450–25–550.
+Marketing Officer—L. M. F. Parris. £450–25–500.
+
+INCOME TAX
+
+Senior Assessor—L. H. Skeete. £450–25–500.
+
+LEGAL
+
+Crown Attorney—Vacant. £750.
+Registrar and Provost Marshal—R. E. Henry. £450.
+
+MEDICAL
+
+Surgeon Specialist (Resident Medical Superintendent)—N. J. L. Margetson. £950.*
+Medical Officer, Institutions—A. I. Boyd. £600–25–800.
+Medical Officers.
+District “A”—L. R. Wynter.
+District “B”—P. I. Boyd.
+District “C”—Vacant.
+District “D”—Vacant.
+District “E”—C. E. S. Bailey.
+Medical Officer—Z. Wisinger. £400–25–550 (with private practice)
+
+MUNICIPAL
+
+City Clerk—H. A. L. Harney. £450–25–500.
+
+POST OFFICE
+
+Postmaster—Vacant. £450–25–500.
+
+PRISON AND TRAINING SCHOOL
+
+Keeper of Prisons and Superintendent of Training School—A. E. Peters, M.B.E. £500.*
+
+PUBLIC WORKS
+
+Superintendent of Public Works—G. V. La Barrie. £600.
+Inspector of Works—M. A. Taylor. £400–25–450.
+
+TREASURY AND CUSTOMS
+
+Treasurer and Collector of Customs—E. A. Thompson. £750.
+
+WATER
+
+Water Engineer—Vacant. £650–25–700.
+
+MONTSERRAT
+
+This Island, discovered by Columbus in 1493, was named by him after a famous mountain in Spain, where is situated the monastery in which Ignatius Loyola conceived the project of founding the Society of Jesus.
+
+It is situated 27 miles from Antigua in 16° 45' N latitude, and 61° W longitude, and is about 11 miles in length and 7 miles in the broadest part. Its total area is 32½ square miles. It is of volcanic formation and very rugged and mountainous. The hills are covered with forest, the highest elevation being Chance’s Mountain (3,000 feet) in the southern part of the island. Plymouth, the chief town, with a population of about 2,000, is on an open roadstead on the south-west coast.
+
+Montserrat was colonised by the Irish in 1632; the French took it in 1664 and levied heavy imposts on the inhabitants; it was restored to England in 1668. It capitulated to the French in 1782, but was restored to the English in 1783.
+
+Montserrat possessed a Legislative Council and Assembly as early as 1668. In 1861 these were replaced by a single Chamber of eight elected and four nominated members.
+
+By an Act of the Legislative Assembly, dated 24th December, 1866, and confirmed by Order in Council 26th February, 1867, this Chamber was replaced by a Legislative Council of not more than six nominated members. By Act No. 2 of 1902, which rescinded these Acts, the number of members was limited to four. Ordinance No. 4 of 1909 repealed No. 2 of 1902 and limited the tenure of office of the members of the Council to three years. Ordinance No. 2 of 1911 amended No. 4 of 1909 and increased the number of members to six. Ordinance No. 18 of 1922 amended No. 4 of 1909 and increased the number to eight. By Act No. 16 of 1936 this Council was reconstituted, substituting for the old council a body consisting of the Commissioner as President, two official members, four elected unofficial...
+members, and two nominated unofficial members. Unofficial representation on the General Legislative Council of the Leeward Islands has now been provided for.
+
+The cultivation of sugar, once the staple industry of the island, is now reduced to an acreage of about 150 acres, and Sea Island cotton, tomatoes, onions and limes are now the principal products.
+
+Among the other exports may be mentioned lime oils, lime juice, cotton-seed, oil, cattle and vegetables.
+
+There are 11 Government schools with a total roll of 3,020 scholars, and 1 denominational school with a roll of 267 scholars.
+
+There is one Government secondary school (mixed) with a roll of 135 scholars.
+
+The roads throughout the Island are being steadily and systematically improved.
+
+On 7th August, 1899, the island was devastated by a hurricane; and again on 28th August, 1924, and 12th September, 1928.
+
+A series of seismo-volcanological disturbances occurred during the years 1933 to 1935 causing much damage to stone and mortar buildings.
+
+There is telephonic communication throughout the Island.
+
+Cable & Wireless (West Indies), Limited, operates the wireless station from which services are conducted with the Company's stations at Antigua and St. Kitts, and with Barbados, where connection is made with all parts of the world through the system of Cable & Wireless, Limited.
+
+They also operate a wireless telephone system which connects the island with the other British West Indian Islands, United Kingdom, U.S.A., and Canada. The island is considered to be one of the most healthy of the Antilles.
+
+The average annual rainfall at the Grove botanic station is about 67 inches.
+
+### Finance
+
+| Year | Revenue | Expenditure |
+|------|---------|-------------|
+| 1939 | £29,301 | £35,496     |
+| 1940 | £44,346 | £37,792     |
+| 1941 | £37,954 | £39,521     |
+| 1942 | £36,901 | £41,365     |
+| 1943 | £52,661 | £51,478     |
+| 1944 | £81,586 | £73,521     |
+| 1945 | £76,357 | £80,150     |
+| 1946 | £90,850 | £86,266     |
+| 1947 | £90,899 | £100,009    |
+| 1948 | £99,316 | £101,590    |
+
+### Imports
+
+| From | From Other British Countries | From Elsewhere | Total |
+|------|------------------------------|----------------|-------|
+|      |                              |                |       |
+| 1939 | £14,028                      | £27,425        | £7,847| £49,301|
+| 1940 | £19,913                      | £50,886        | £4,857| £75,656|
+| 1941 | £15,059                      | £81,004        | £3,636| £99,699|
+| 1942 | £10,075                      | £45,143        | £10,764| £65,982|
+| 1943 | £8,960                       | £58,293        | £11,712| £78,965|
+| 1944 | £8,700                       | £70,697        | £25,950| £105,347|
+| 1945 | £7,636                       | £70,749        | £23,964| £102,349|
+| 1946 | £16,353                      | £98,806        | £13,818| £128,977|
+| 1947 | £20,538                      | £96,572        | £25,983| £143,093|
+| 1948 | £25,374                      | £108,230       | £30,170| £163,774|
+
+### Exports
+
+| To U.K. | To Other British Countries | To Elsewhere | Total |
+|---------|----------------------------|--------------|-------|
+| £       | £                          | £            | £     |
+| 1939    | 40,039                     | 10,637       | 6,608 | 57,284|
+| 1940    | 91,187                     | 16,359       | 1,612 | 109,158|
+| 1941    | 96,138                     | 14,933       | 2,392 | 113,463|
+| 1942    | 19,031                     | 7,037        | —     | 26,068 |
+| 1943    | 2,171                      | 12,027       | 6,273 | 20,471 |
+| 1944    | 134,720                    | 8,784        | 2,439 | 145,943|
+| 1945    | 91,826                     | 7,285        | 594   | 99,705 |
+| 1946    | 12,960                     | 8,533        | 588   | 22,081 |
+| 1947    | 40,417                     | 8,698        | 1,549 | 50,664 |
+| 1948    | 56,617                     | 11,607       | 988   | 69,212 |
+
+### Public Debt
+
+| Year | £     |
+|------|-------|
+| 1939 | 48,018|
+| 1940 | 10,408|
+| 1941 | 7,260 |
+| 1942 | 7,077 |
+| 1943 | 6,526 |
+| 1944 | 6,363 |
+| 1945 | 5,719 |
+| 1946 | 5,209 |
+| 1947 | 21,560|
+| 1948 | 20,859|
+
+### Population
+
+Census, 1901—12,215; 1911—12,196; 1921—12,120; Est. 1941—15,198; Census, 1946—14,329; 1947—13,283, 1948—Est. 13,504.
+
+### Commissioners
+
+March, 1889 .. E. Baynes.
+January, 1900 .. F. H. Watkins, I.S.O.
+March, 1906 .. Lt.-Col.Wilfred B. Davidson-Houston, C.M.G.
+October, 1918 .. C. F. Condell.
+September, 1922 .. Major H. W. Peebles, D.S.O., O.B.E.
+September, 1929 .. H. H. Hutchings, I.S.O.
+February, 1932 .. T. E. P. Baynes, O.B.E.
+January, 1946 .. H. Burrowes.
+April, 1949 .. Charlesworth Ross.
+
+### Executive Council
+
+The Governor.
+The Colonial Secretary of the Leeward Islands (ex-officio).
+The Attorney-General of the Leeward Islands (ex-officio).
+The Commissioner.
+W. E. Bassett (Agricultural Superintendent).
+W. B. R. Jones (Medical Officer in Administrative Charge).
+D. R. Walwyn (Treasurer).
+A. W. Griffin.
+H. S. Mercer.
+W. F. Graham.
+J. E. T. Roberts—Clerk.
+
+### Legislative Council
+
+The Commissioner.
+The Crown Attorney.
+The Treasurer.
+
+Elected Officials
+
+H. F. Shand.
+H. S. Mercer.
+T. M. Peters.
+J. W. R. Perkins.
+Nominated Unofficials
+
+A. W. Griffin.
+W. F. Graham.
+J. E. T. Roberts—Clerk.
+
+CIVIL ESTABLISHMENT
+
+Administration
+
+Commissioner—Charlesworth Ross. £800. Duty allowance, £200. Free quarters, value £100.
+
+AGRICULTURE
+
+Agricultural Officer—W. E. Bassett, M.B.E., £550–25–700.
+
+JUDICIAL
+
+Crown Attorney-Magistrate—R. H. Lockhart. £750. (Registrar, Provost-Marshal).
+
+MEDICAL
+
+Medical Officers. £400–25–550 (with private practice)—
+District 1—W. B. R. Jones, M.R.C.S., L.R.C.P. (Also receives £100 as Medical Officer in Administrative Charge.)
+District 2—L. J. Charles.
+
+POST OFFICE
+
+Postmaster—D. R. Walwyn (paid as Treasurer).
+
+PUBLIC WORKS
+
+Superintendent of Public Works—The Commissioner (ex officio).
+Inspector of Works—D. C. Todd. £425–25–550.
+
+TELEPHONES
+
+Superintendent of Telephones—D. C. Todd (paid as Inspector of Works).
+
+TREASURY
+
+Treasurer—D. R. Walwyn. £500–600.
+
+ST. CHRISTOPHER AND NEVIS
+
+This presidency consists of the islands of St. Christopher (St. Kitts), Nevis and Anguilla. These were united to form one presidency by the Federal Act No. 2 of 1882.
+
+The total population on 31st December, 1947, was estimated at 45,800, as compared with 38,214 at the census of 1921. The total area is about 152 square miles.
+
+CONSTITUTION AND GOVERNMENT
+
+In 1625 Mr. (afterwards Sir Thomas) Warner landed in St. Christopher, bearing a Royal Commission to the Earl of Carlisle, by which the islands of St. Christopher (or Merwar’s Hope), Nevis, Barbados and Montserrat were taken under royal protection, and given over to his custody as the King’s Lieutenant.
+
+In 1671 St. Christopher, Nevis, Montserrat, Antigua, Barbuda, Anguilla “and all the other Leeward Islands” were separated from Barbados and created the “Leeward Caribbee Islands Government,” and Sir Charles Wheler was appointed “Captain-General” of the same. The chief seat of government was then at Nevis, but afterwards transferred to Antigua, and the government of each island, in the absence of the Captain-General, was administered by a Lieutenant-Governor, or, when none such was appointed, by the President of the Council.
+
+In 1689 Colonel Christopher Codrington was appointed Governor-in-Chief, and his commission, granted by William III, and dated 20th October, 1689, authorised him to call assemblies of freeholders and planters within any of the islands “jointly and severally to make laws for the public peace, welfare and good government of the said islands,” thus providing for separate and federal legislatures. The legislature in St. Christopher and in Nevis, as in the other islands of the government, consisted of two houses, a nominated Council and an elected Assembly, and had secured to it its own peculiar laws and local jurisdiction.
+
+By Letters Patent, dated 26th April, 1816, the Commission originally granted to Sir William Stapleton was revoked, and the Leeward Caribbee Islands formed into two distinct governments, the first comprising Antigua, Montserrat and Barbuda, and the other St. Christopher, Nevis, Anguilla and the Virgin Islands.
+
+By Letters Patent, dated 23rd November, 1832, the General Government was restored, Dominica being for the first time included, and a Governor and Commander-in-Chief, with two Lieutenant Governors for St. Christopher, Nevis and Anguilla, and for Dominica respectively, were appointed, each island possessing a Legislative Council and House of Assembly, which continued, under the supervision of the Governor-in-Chief, to legislate for local interests.
+
+In 1866 measures were introduced in each island to alter the constitution, and the two houses then existing were replaced by a single Legislative Assembly, consisting of ex-officio members, nominees of the Crown, and representatives of the people elected under a limited franchise.
+
+In 1878 the single chamber constitution was repealed in St. Kitts and in Nevis, and the crown colony form of government adopted in its stead, and in 1882 these two islands, with Anguilla, were united into one presidency.
+
+The office of Lieutenant-Governor, which existed until 1870, has been abolished, and the presidency, in the absence thereof of the Governor, is under the immediate supervision of an Administrator.
+
+There is one Executive Council for the presidency, consisting of the Governor, the Administrator, certain ex-officio members, and such other persons as His Majesty may from time to time appoint. The Legislative Council consists of two official, three nominated unofficial members and five elected members, besides the Administrator. Of the elected members three are representatives of the electoral district of the island of St. Christopher, one represents the island of Nevis and one Anguilla. These members are elected by ballot by voters of the electoral districts they respectively represent. As no residential qualification is necessary it is possible for a person from any one of the islands, provided he is a registered voter and is standing for election, to be elected to represent any one of the other districts. Each island is a separate electoral district. The President of the Council enjoys a casting vote in the event of a tie in the votes of members at a meeting. The Council meets at the town of Basseterre in St. Kitts.
+EDUCATION
+
+There are four secondary schools: a Government grammar school for boys in St. Kitts, a girls' high school in St. Kitts and a mixed school in Nevis, both state-aided, and a school run by the Roman Catholic Sisters.
+
+There are 32 Government primary schools (17 in St. Kitts, including 5 in Basseterre, 10 in Nevis and 5 in Anguilla), also a Roman Catholic school and a few small private schools.
+
+INDUSTRY, TRADE AND CUSTOMS
+
+Sugar is the principal crop in St. Kitts (266,954 tons of cane in 1948 crop from 9,881 acres, 31,393 tons of sugar manufactured). It is grown in the Basseterre Valley and on the lower slopes round the island (the northern side showing the best average yield), and the cane is crushed and sugar produced at a central factory a mile from Basseterre. A light railway for haulage of canes encircles the island.
+
+The only other important crop in St. Kitts is cotton, the lint produced in 1948 being 73,434 lb. on 333 acres.
+
+Cotton and coconuts are the chief products exported from Nevis. Small quantities of tomatoes are also exported to Canada during the winter months.
+
+Vegetables and cattle, chiefly for export to St. Kitts and for local consumption are also produced in Nevis.
+
+Salt is the chief product of Anguilla, and is also produced from ponds at the south-eastern part of St. Kitts, the quantity from St. Kitts and Anguilla in 1948 being 4,411 tons valued at £12,633.
+
+Anguilla also produces cotton in small quantities.
+
+There are no manufacturing industries (other than the manufacture of sugar) in the presidency.
+
+The Customs import tariff is mainly on an ad valorem basis with a surtax of 12½ per cent. A preferential reduction varying in amount, but in most cases equal to one third of the general rate, is accorded to Empire products. The percentage of trade in 1948 is as follows:
+
+| United Kingdom | Other British countries | Other foreign countries |
+|----------------|------------------------|------------------------|
+|                |                        |                        |
+| 26             | 58                    | 16                     |
+| Total          |                        |                        |
+|                |                        |                        |
+|                |                        |                        |
+
+ST. KITTS
+
+The island lies in latitude 17° 18' N., and longitude 62° 48' W. The area of the main body of it presents a long oval, from the south-eastern end of which runs a narrow neck, gradually expanding into a small knob of land, within which are the salt ponds.
+
+The total length of the island is about 23 miles. The total area is 68 square miles.
+
+The central part of the main body consists of a range of lofty rugged mountains, which traverses it from south-east to north-west, attaining its greatest height at Mount Misery, which is about 3,711 feet above the sea. A branch of this range encloses the spacious and fertile valley or plain, on the seaboard of which lies Basseterre, the principal town with a population of about 12,000. Near the town of Sandy Point is Brimstone Hill, strongly fortified and fiercely besieged during the French wars. It is quite isolated and about 750 feet in height.
+
+The circle of land formed by the skirts and lower slopes of the mountain-range of the main body of the island, and the valley of Basseterre constitute nearly the whole of the arable and cultivated portion of the island. The higher slopes of the mountains are covered with short grass, affording excellent pasturage, while their summits are crowned with dense wood. The island is of volcanic formation, and the soil, save in the mountains (where it is clayey) is peculiarly light and porous, sandy yet fertile.
+
+The climate, for a tropical one, is decidedly healthy. The highest temperature in the shade is about 88°, the lowest 66°, and the mean average about 79°.
+
+The average annual rainfall of St. Kitts is 55 inches.
+
+St. Christopher or St. Kitts, the Carib name of which was Liamuiga, "The Fertile Isle," was the first settled of the British West Indies, the settlement having been founded by Mr. Thomas Warner and other settlers, who landed on 28th January, 1623, at the present village of Old Road. Later, French settlements were formed at the two ends of the island. The whole island was finally assigned to England under the Treaty of Versailles in 1783.
+
+NEVIS
+
+The island of Nevis is situated in 17° 40' N. latitude and 62° 33' W. longitude. It was discovered in 1498 by Columbus, and was colonised by the English from St. Kitts in 1628. Charlestown, the principal town, has a population of about 1,100. The population of Nevis largely consists of peasant proprietors.
+
+The island, which is divided into five parishes, is nearly of a circular form; its area is about 50 square miles, or about 32,000 acres, of which about 15,000 acres are fit for cultivation; its greatest elevation 3,596 feet above the sea.
+
+The soil is very different from that of St. Kitts, being of stiff clay, encumbered everywhere with volcanic boulders.
+
+There are hot mineral springs adjoining the Bath House Hotel near Charlestown. These springs have valuable medicinal properties.
+
+The climate is very similar to that of St. Kitts, from which place it is separated by a strait of about two miles in breadth at its narrowest part, which, however, lies out of the direct course for boats plying between the two islands. The distance between Basseterre (St. Kitts) and Charlestown (Nevis) is about 12 miles.
+
+ANGUILLA
+
+Anguilla is situated in 18° 12' N. latitude, and 63° 5' W. longitude about 60 miles N.W. of St. Kitts, and is 16 miles in length, and varies in breadth from three to one-and-a-half miles, containing an area of 35 square miles. The "Dogs" and neighbouring islands are dependencies of Anguilla.
+
+Unlike the mountainous volcanic islands of St. Kitts and Nevis, Anguilla consists of Oligocene limestone and clay and its highest point is 213 feet above sea level.
+
+The inhabitants are peasant proprietors under the jurisdiction of a medical officer who is also magistrate.
+
+The island is healthy, but suffers from want of an adequate water supply.
+
+The chief products are sheep and goats and salt. Sea island cotton is cultivated.
+### Population
+
+(according to the Censuses of 1911 and 1921)
+
+| Year | St. Kitts | Nevis | Anguilla |
+|------|----------|-------|----------|
+| (1911) | 26,283 | 12,945 | 4,075 |
+| (1921) | 22,415 | 11,369 | 4,230 |
+
+No census was taken in 1931.
+
+According to Census of April, 1946
+
+| Year | St. Kitts | Nevis | Anguilla |
+|------|----------|-------|----------|
+|      |          |       |          |
+|      | 29,840   | 11,331| 5,035    |
+|      |          |       |          |
+
+Total estimated population 31st December, 1948
+
+| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |
+|------|---------|-------------|-----------------|---------------|
+| 1939 | 147,578 | 179,652     | 2,673,210       | 3,142,111     |
+| 1940 | 176,217 | 164,256     | 2,077,819       | 2,571,589     |
+| 1941 | 190,509 | 170,290     | 1,836,156       | 2,279,325     |
+| 1942 | 197,244 | 196,874     | 399,902         | 538,590       |
+| 1943 | 212,893 | 183,962     |                 |               |
+| 1944 | 232,114 | 230,413     |                 |               |
+| 1945 | 275,522 | 319,008     | 270,021         | 328,161       |
+| 1946 | 330,176 | 287,231     |                 |               |
+| 1947 | 378,885 | 310,224     | 824,795         | 1,333,360     |
+| 1948 | 367,605 | 349,212     | 940,799         | 1,440,376     |
+
+Revenue and expenditure include receipts and payments for schemes from Colonial Development and Welfare Grants.
+
+Public debt 31st December, 1948 £28,136
+
+### Imports
+
+| Year | From U.K. | Other Countries | From Elsewhere | Total |
+|------|-----------|-----------------|----------------|-------|
+| 1939 | 102,504   | 118,285         | 72,475         | 293,264|
+| 1940 | 126,715   | 194,269         | 45,239         | 366,223|
+| 1941 | 88,056    | 228,756         | 34,736         | 351,548|
+| 1942 | 74,421    | 188,512         | 56,302         | 319,235|
+| 1943 | 91,641    | 266,612         | 77,813         | 436,066|
+| 1944 | 80,265    | 287,627         | 97,019         | 464,911|
+| 1945 | 133,056   | 373,184         | 121,094        | 627,334|
+| 1946 | 161,788   | 377,604         | 95,899         | 635,291|
+| 1947 | 180,356   | 535,068         | 216,012        | 931,436|
+| 1948 | 226,607   | 493,286         | 134,979        | 854,872|
+
+### Exports
+
+| Year | To U.K. | Other Countries | To Elsewhere | Total |
+|------|---------|-----------------|--------------|-------|
+| 1939 | 326,681 | 102,179         | 4,964        | 433,824|
+| 1940 | 300,407 | 143,912         | 6,604        | 450,923|
+| 1941 | 375,721 | 172,327         | 5,177        | 553,225|
+| 1942 | 284,535 | 56,079          | 3,124        | 343,738|
+| 1943 | 260,742 | 86,941          | 229,231      | 576,914|
+| 1944 | 290,467 | 52,559          | 211,097      | 554,123|
+| 1945 | 472,312 | 45,090          | 138,569      | 655,971|
+| 1946 | 607,719 | 41,184          | 62,820       | 711,733|
+| 1947 | 753,519 | 58,624          | 40,571       | 852,714|
+| 1948 | 869,023 | 28,390          | 23,186       | 920,599|
+
+Customs revenue—1943 £74,830
+1944 £80,371
+1945 £101,166
+1946 £112,307
+1947 £156,417
+1948 £137,493
+
+### Lieutenant-Governors, etc., of St. Kitts, from 1834
+
+| Year | Name |
+|------|------|
+| 1834 | Lieut.-Colonel J. Lyons Nixon (Lieut.-Governor). |
+| 1835 | W. G. Crooke (President). |
+| 1839 | C. T. Cunningham (Lieut.-Governor). |
+| 1847 | R. J. Mackintosh (Lieut.-Governor). |
+| 1850 | E. Hay Drummond Hay (Lieut.-Governor). |
+| 1855 | Hercules G. R. Robinson (Lieut.-Governor). |
+| 1856 | Thomas Price (Administrator). |
+| 1860 | Sir B. C. C. Pine (Lieut.-Governor). |
+| 1862 | J. E. Tudor (President). |
+| 1862 | J. H. King (President). |
+| 1863 | Sir B. C. C. Pine (Lieut.-Governor). |
+| 1864 | J. R. Holligan (President). |
+| 1865 | Sir B. C. C. Pine (Lieut.-Governor). |
+| 1866 | J. R. Holligan (President). |
+| 1867 | Sir Arthur Rumbold, Bart. (Administrator). |
+| 1867 | Capt. Mackenzie, R.N. (Lieut.-Governor). |
+| 1868 | W. W. Cairns (Lieut.-Governor). |
+| 1870 | F. S. Wigley, C.M.G. (Administrator). |
+| 1872 | J. S. Berridge (President). |
+| 1873 | Alexander Wilson Moir, C.M.G. (President). |
+| 1883 | C. M. Eldridge (President). |
+
+### Administrators
+
+| Year | Name |
+|------|------|
+| 1888 | J. S. Churchill (Commissioner). |
+| 1895 | T. Risely Griffith, C.M.G. (Administrator). |
+| 1899 | Charles T. Cox (Administrator). |
+| 1904 | Sir Robert Bromley, Bart. (Administrator). |
+| 1906 | T. L. Roxburgh, C.M.G. |
+| 1916 | Major J. A. Burdon, C.M.G. |
+| 1925 | Lt.-Col. T. R. St. Johnston, C.M.G. |
+| 1929 | T. C. Macnaghten, C.M.G., C.B.E. |
+| 1931 | D. R. Stewart, C.M.G. |
+| 1940 | J. D. Harford, C.M.G., M.A. |
+| 1947 | L. S. Greening, O.B.E., M.C. |
+| 1949 | F. E. Noad. |
+| 1949 | H. Burrowes. |
+
+### Executive Council
+
+The Governor.
+The Administrator.
+The Colonial Secretary.
+The Attorney-General.
+G. D. McLean, M.R.C.S., L.R.C.P., D.T.M. & H. (Acting Medical Officer of Health).
+C. F. Henville, LL.B. (Additional Magistrate District "C" and "D" and Crown Attorney).
+E. A. Evelyn (Magistrate and Warden, Nevis).
+W. O. Peters (Treasurer, Acting).
+M. H. Davis.
+A. C. Evelyn.
+R. J. Gordon.
+J. I. Howell (Clerk).
+
+### Legislative Council
+
+#### Official Members
+
+The Administrator.
+C. F. Henville, LL.B. (Magistrate, District "C" and "D" and Crown Attorney).
+Treasurer, ex-officio.
+
+#### Nominated Members
+
+H. B. Henville.
+C. B. B. Connell.
+A. C. Evelyn.
+
+#### Elected Members
+
+St. Kitts—R. L. Bradshaw, M. H. Davis, J. N. France.
+Nevis—R. J. Gordon.
+Anguilla—D. Lloyd.
+J. I. Howell (Clerk).
+CIVIL ESTABLISHMENT
+
+ADMINISTRATION
+Administrator—H. Burrowes. £1,100. Free Quarters valued at £150 p.a. Duty allowance £300. Travelling allowance £75.
+Warden (Nevis)—E. A. Evelyn. £475. Free quarters valued at £50 p.a. Duty allowance, £50 p.a.
+
+AGRICULTURAL
+Agricultural Superintendent—R. E. Kelsick. £700.
+Agricultural Assistant—V. E. Osborne. £300.
+Marketing Officer—S. L. Henry. £450.
+
+EDUCATION
+Education Officer—D. L. Matheson. £600.
+Headmaster, Grammar School—F. H. Malone, £600. Free quarters.
+Headmistress, Girls’ High School—M. Pickard, £500. Free quarters.
+
+ELECTRICITY
+Electricity Commissioner—W. H. Delisle. £500.
+
+HEALTH
+Acting Medical Officer of Health—G. D. McLean. £800.
+Medical Officer, District 1—G. D. McLean. £600.
+District Matron, Nevis—Vacant. Free quarters.
+Medical Officer, District 7—M. A. Lambert. £500.
+Medical Officer, District 6—H. E. Kelsick. £525.
+Medical Superintendent, Alexandra Hospital, Nevis—H. E. Kelsick.
+Medical Officer, District 2—A. W. Lake. £600.
+Medical Officer, District 5—A. P. McDonald. £550.
+Medical Officer, District 4—M. F. H. Griffith. £550.
+Medical Superintendent, Pogson Hospital and Leper Home—M. F. H. Griffith. £75.
+Medical Officer, District 3—W. A. Slack. £600.
+Medical Superintendent, Cunningham Hospital, St. Kitts—C. E. E. Stevens (acting). £950. Free quarters. £50.
+
+INCOME TAX
+Senior Assessor—L. C. Wenham. £450–25–500.
+
+LEGAL
+Crown Attorney—C. F. Henville. £750.
+
+POST OFFICE
+Postmaster—J. D. Maloney. £500.
+
+PUBLIC WORKS
+Surveyor of Public Works—R. W. Guy. £800.
+
+TREASURY
+Treasurer—W. O. Peters (acting). £750.
+
+VETERINARY
+Veterinary Officer—A. W. Vaughan. £710.
+
+VIRGIN ISLANDS
+
+The Virgin Islands were discovered in 1493 by Columbus who named them after St. Ursula and her 11,000 virgins. They are an archipelago adjacent to Puerto Rico and forming the eastern extremity of the Greater Antilles. Politically they are divided between the United States and Great Britain. The British group, acquired in 1666, lies to the north and east of the Virgin Islands of the United States, acquired by her from Denmark in 1917; and, excluding numerous small rocks and reefs, numbers in all 36 islands and islets, of which 11 are inhabited, the largest being Tortola (situated in 18° 27' N. latitude, and 64° 39' W. longitude), Virgin Gorda, Anegada and Jost Van Dykes. The total area of the group is approximately 67 square miles.
+
+Courts of justice and a civil government of the representative and bicameral type usual in the West Indies at that date were established in the British islands in 1773. The constitution was modified at intervals during the nineteenth century and for the last three decades thereof it was of a Crown Colony type, with a single council partly elected and partly nominated. In 1902 this council dissolved itself and resigned its legislative powers into the hands of the Governor of the Leeward Islands. A revival of representative institutions is now being prepared. There is an executive council similar in constitution to those of the other presidencies of the Leeward Islands.
+
+The capital is Road Town, Tortola (population approximately 700), which is a port of registry having, on 31st December, 1948, 17 vessels registered, with a total tonnage of 165. A small hospital, a secondary school, the Government offices and an agricultural station are situated in Road Town, which has a few shops and two small boarding houses. The bulk of the Presidency’s trade is conducted by sailing vessels with St. Thomas (Virgin Islands of the United States), but sloops also visit the Dutch, French and British islands to the south. The principal industry is stock raising for the St. Thomas market and to a lesser degree for local consumption. Subsidiary exports (almost entirely to St. Thomas and Puerto Rico) are fish, charcoal, fruit and vegetables. Some sugar cane is grown for the manufacture of rum for local consumption.
+
+The climate is more healthy than that of most West Indian islands and the heat is seldom oppressive. The average annual rainfall at Road Town is 48-34 inches (1939–48). Birth and death rates per 1,000 are 37·0 and 15·7 respectively (1948).
+
+Launches maintain mail and passenger service with St. Thomas, whence air, sea and cable communications exist to continental America and the Lesser Antilles.
+
+POPULATION
+
+| Year | Revenue | Expenditure |
+|------|---------|-------------|
+| 1939 | 9,430   | 11,040      |
+| 1940 | 6,516   | 7,362       |
+| 1941 | 9,357   | 10,794      |
+| 1942 | 10,451  | 11,936      |
+| 1943 | 14,755  | 13,874      |
+| 1944 | 11,786  | 14,592      |
+| 1945 | 26,567  | 27,471      |
+| 1946 | 31,443  | 32,390      |
+| 1947 | 17,488  | 28,063      |
+| 1948 | 48,213  | 32,211      |
+
+There is no public debt.
+LEEWARD ISLANDS: FEDERATION OF MALAYA
+
+TRADE Imports From Other British Countries. From Elsewhere. Total.
+
+| Year | From U.K. | £ | £ | £ |
+|------|-----------|---|---|---|
+| 1939 | 1,752     | 239 | 13,969 | 15,960 |
+| 1940 | 1,330     | 2,958 | 14,075 | 18,095 |
+| 1941 | 934       | 392 | 21,501 | 22,827 |
+| 1942 | 750       | 469 | 24,336 | 25,555 |
+| 1943 | 622       | 251 | 21,261 | 22,134 |
+| 1944 | 295       | 118 | 28,485 | 28,898 |
+| 1945 | 358       | 199 | 20,561 | 21,118 |
+| 1946 | 711       | 10,089 | 44,087 | 54,887 |
+| 1947 | 2,206     | 8,089 | 39,999 | 50,294 |
+| 1948 | 2,663     | 6,888 | 43,545 | 53,096 |
+
+Exports To Other British Countries. To Elsewhere. Total.
+
+| Year | To U.K. | £ | £ | £ |
+|------|---------|---|---|---|
+| 1939 | 700     | 180 | 9,847 | 10,727 |
+| 1940 | 268     | 355 | 11,674 | 12,297 |
+| 1941 | 712     | 17  | 13,295 | 14,124 |
+| 1942 | —       | 134 | 27,557 | 27,691 |
+| 1943 | —       | 11  | 33,123 | 33,134 |
+| 1944 | —       | —   | 30,274 | 30,274 |
+| 1945 | —       | —   | 20,805 | 20,805 |
+| 1946 | —       | 600 | 33,586 | 34,186 |
+| 1947 | —       | 466 | 30,604 | 31,070 |
+| 1948 | —       | 166 | 32,402 | 32,568 |
+
+SHIPPING ENTERED AND CLEARED
+
+| Year | British Tonnage. | Total Tonnage. |
+|------|------------------|----------------|
+| 1939 | 16,500           | 19,477         |
+| 1940 | 17,408           | 20,180         |
+| 1941 | 22,148           | 24,587         |
+| 1942 | 17,674           | 20,890         |
+| 1943 | 18,755           | 22,927         |
+| 1944 | 19,301           | 23,475         |
+| 1945 | 20,177           | 21,991         |
+| 1946 | 21,667           | 23,301         |
+| 1947 | 21,862           | 23,503         |
+| 1948 | not available    |                |
+
+CIVIL ESTABLISHMENT
+
+ADMINISTRATION
+
+Commissioner—J. A. C. Cruikshank. £750. Duty allowance, £150. Free quarters, value £100. (Is also Magistrate, Coroner, Registrar-General of Births, Deaths and Marriages, Civil Marriage Officer, Treasurer and Registrar of Shipping.)
+
+Assistant Treasurer—H. A. Williams. £425–25–500. (Is also Postmaster, Deputy Coroner, Provost-Marshal and Registrar of the Supreme Court.)
+
+AGRICULTURE
+
+Agricultural Officer—S. H. Abbott. £460. Free quarters, value £50.
+
+EDUCATION
+
+Supervisor of Education—T. D. Green. £500–25–600. (Is also Headmaster of the Senior School.)
+
+MEDICAL
+
+Medical Officer—W. T. Joseph. £400–25–550 (with private practice). Free quarters, value £50.
+
+PUBLIC WORKS
+
+Surveyor of Works—A. C. Franklin. £450–25–500.
+

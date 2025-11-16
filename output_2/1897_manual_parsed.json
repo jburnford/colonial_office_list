@@ -1,0 +1,388 @@
+{
+  "year": 1897,
+  "total_colonies": 40,
+  "parsing_method": "Manual LLM-based boundary verification (output_2)",
+  "remediation_date": "November 12, 2025",
+  "original_extraction_count": 39,
+  "corrections_applied": [
+    "Fixed BRITISH NEW GUINEA contamination (was 1,796 lines containing 2 colonies)",
+    "Recovered DOMINION OF CANADA (2,710 lines) - was completely missing!"
+  ],
+  "issues_found": {
+    "contamination": "BRITISH NEW GUINEA file contained Dominion of Canada (1,796 lines total)",
+    "missing_colony": "DOMINION OF CANADA completely absent from metadata",
+    "parser_pattern": "Same systematic failure as years 1889, 1890, 1894, 1896"
+  },
+  "historical_context": "Year 1897 - Standard 1890s pattern: parser missed Canada header, Cape was already correct",
+  "notes": [
+    "Parser failed to detect 'DOMINION OF CANADA.' header at line 3588",
+    "BRITISH NEW GUINEA incorrectly extended through Canada content (3509-5305)",
+    "Cape of Good Hope already correctly extracted (6297-8630)",
+    "Result: 2 colonies merged, 1 completely missing from metadata",
+    "All boundaries manually verified by reading OCR source content"
+  ],
+  "colonies": [
+    {
+      "colony_name": "ST. VINCENT",
+      "filename": "ST_VINCENT.md",
+      "start_line": 217,
+      "end_line": 1389,
+      "line_count": 1172,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "filename": "BAHAMAS.md",
+      "start_line": 1389,
+      "end_line": 1617,
+      "line_count": 228,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "filename": "BARBADOS.md",
+      "start_line": 1617,
+      "end_line": 2102,
+      "line_count": 485,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "filename": "BASUTOLAND.md",
+      "start_line": 2102,
+      "end_line": 2212,
+      "line_count": 110,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "filename": "BERMUDA.md",
+      "start_line": 2212,
+      "end_line": 2558,
+      "line_count": 346,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "filename": "BRITISH_GUIANA.md",
+      "start_line": 2558,
+      "end_line": 3201,
+      "line_count": 643,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "filename": "BRITISH_HONDURAS.md",
+      "start_line": 3201,
+      "end_line": 3500,
+      "line_count": 299,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "BRITISH NEW GUINEA",
+      "filename": "BRITISH_NEW_GUINEA.md",
+      "start_line": 3510,
+      "end_line": 3587,
+      "line_count": 78,
+      "year": 1897,
+      "extraction_method": "contamination_fix",
+      "note": "Was contaminated (1,796 lines). Fixed to actual colony content (78 lines)."
+    },
+    {
+      "colony_name": "DOMINION OF CANADA",
+      "filename": "DOMINION_OF_CANADA.md",
+      "start_line": 3588,
+      "end_line": 6297,
+      "line_count": 2710,
+      "year": 1897,
+      "extraction_method": "contamination_fix",
+      "note": "COMPLETELY MISSING from metadata! Recovered 2,710 lines."
+    },
+    {
+      "colony_name": "NOVA SCOTIA",
+      "filename": "NOVA_SCOTIA.md",
+      "start_line": 5305,
+      "end_line": 6075,
+      "line_count": 770,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "PRINCE EDWARD ISLAND",
+      "filename": "PRINCE_EDWARD_ISLAND.md",
+      "start_line": 6075,
+      "end_line": 6297,
+      "line_count": 222,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "filename": "CAPE_OF_GOOD_HOPE.md",
+      "start_line": 6297,
+      "end_line": 8630,
+      "line_count": 2333,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "CEYLON",
+      "filename": "CEYLON.md",
+      "start_line": 8727,
+      "end_line": 9313,
+      "line_count": 586,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "FIJI",
+      "filename": "FIJI.md",
+      "start_line": 9683,
+      "end_line": 9881,
+      "line_count": 198,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "filename": "THE_GAMBIA.md",
+      "start_line": 9881,
+      "end_line": 10744,
+      "line_count": 863,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "filename": "HONG_KONG.md",
+      "start_line": 10744,
+      "end_line": 11108,
+      "line_count": 364,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "filename": "JAMAICA.md",
+      "start_line": 11108,
+      "end_line": 11885,
+      "line_count": 777,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "LABUAN",
+      "filename": "LABUAN.md",
+      "start_line": 11885,
+      "end_line": 12022,
+      "line_count": 137,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "LAGOS",
+      "filename": "LAGOS.md",
+      "start_line": 12022,
+      "end_line": 12385,
+      "line_count": 363,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "filename": "ANTIGUA.md",
+      "start_line": 12560,
+      "end_line": 12760,
+      "line_count": 200,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "filename": "DOMINICA.md",
+      "start_line": 13040,
+      "end_line": 13259,
+      "line_count": 219,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "filename": "MAURITIUS.md",
+      "start_line": 13940,
+      "end_line": 15401,
+      "line_count": 1461,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "filename": "NEWFOUNDLAND.md",
+      "start_line": 15401,
+      "end_line": 15709,
+      "line_count": 308,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "NEW SOUTH WALES",
+      "filename": "NEW_SOUTH_WALES.md",
+      "start_line": 15709,
+      "end_line": 16770,
+      "line_count": 1061,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "filename": "NEW_ZEALAND.md",
+      "start_line": 16770,
+      "end_line": 17509,
+      "line_count": 739,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "filename": "QUEENSLAND.md",
+      "start_line": 17509,
+      "end_line": 17997,
+      "line_count": 488,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "filename": "ST_HELENA.md",
+      "start_line": 17997,
+      "end_line": 18573,
+      "line_count": 576,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "SOUTH AUSTRALIA",
+      "filename": "SOUTH_AUSTRALIA.md",
+      "start_line": 18573,
+      "end_line": 19420,
+      "line_count": 847,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "STRAITS SETTLEMENTS",
+      "filename": "STRAITS_SETTLEMENTS.md",
+      "start_line": 19428,
+      "end_line": 20089,
+      "line_count": 661,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "TASMANIA",
+      "filename": "TASMANIA.md",
+      "start_line": 20089,
+      "end_line": 20712,
+      "line_count": 623,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "filename": "TRINIDAD.md",
+      "start_line": 20712,
+      "end_line": 21578,
+      "line_count": 866,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "TOBAGO",
+      "filename": "TOBAGO.md",
+      "start_line": 21578,
+      "end_line": 21899,
+      "line_count": 321,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "VICTORIA",
+      "filename": "VICTORIA.md",
+      "start_line": 21899,
+      "end_line": 22950,
+      "line_count": 1051,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "filename": "WESTERN_AUSTRALIA.md",
+      "start_line": 22964,
+      "end_line": 23687,
+      "line_count": 723,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "filename": "ST_LUCIA.md",
+      "start_line": 24032,
+      "end_line": 24232,
+      "line_count": 200,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "filename": "ST_VINCENT.md",
+      "start_line": 24232,
+      "end_line": 24468,
+      "line_count": 236,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "ZULULAND",
+      "filename": "ZULULAND.md",
+      "start_line": 24468,
+      "end_line": 24910,
+      "line_count": 442,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "filename": "CYPRUS.md",
+      "start_line": 24910,
+      "end_line": 25367,
+      "line_count": 457,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "NIGER COAST PROTECTORATE",
+      "filename": "NIGER_COAST_PROTECTORATE.md",
+      "start_line": 25367,
+      "end_line": 26128,
+      "line_count": 761,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "colony_name": "TRISTAN D'ACUNHA",
+      "filename": "TRISTAN_DACUNHA.md",
+      "start_line": 26134,
+      "end_line": 26153,
+      "line_count": 19,
+      "year": 1897,
+      "extraction_method": "original_boundaries"
+    }
+  ]
+}

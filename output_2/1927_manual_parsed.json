@@ -1,0 +1,455 @@
+{
+  "year": 1927,
+  "total_colonies": 46,
+  "parsing_method": "Manual LLM-based boundary verification (output_2)",
+  "remediation_date": "November 16, 2025",
+  "original_extraction_count": 50,
+  "corrections_applied": [
+    "Merged AUSTRALIA with 6 Australian state/territory subsections (VICTORIA, QUEENSLAND, SOUTH AUSTRALIA, WESTERN AUSTRALIA, TASMANIA, NORTHERN TERRITORY) - electoral constituencies",
+    "Removed LABUAN - wrongly extracted as colony (just 1 line subsection within STRAITS SETTLEMENTS)",
+    "Merged TRINIDAD AND TOBAGO from 2 subsections into 1 colony per header",
+    "Corrected ADEN boundaries - removed over-extraction of TRISTAN DA CUNHA, MISCELLANEOUS ISLANDS, and entire PART III appendix",
+    "Added TRISTAN DA CUNHA as separate entry (was absorbed into ADEN)",
+    "Added MISCELLANEOUS ISLANDS as separate entry (was absorbed into ADEN)",
+    "Net reduction: 50 \u2192 43 colonies (9 subsections removed/merged, 2 new entries added)"
+  ],
+  "issues_found": {
+    "australia_split": "AUSTRALIA split into 7 entries - main section plus 6 Australian states/territories showing electoral constituencies (not separate colonies)",
+    "labuan_wrong": "LABUAN wrongly extracted as colony - just a single-line subsection (Medical Officer for Labuan) within STRAITS SETTLEMENTS section",
+    "trinidad_tobago_split": "TRINIDAD AND TOBAGO split into 2 entries despite header showing '* TRINIDAD AND TOBAGO' as unified colony",
+    "aden_massive_overextraction": "ADEN massively over-extracted - absorbed TRISTAN DA CUNHA (48670), MISCELLANEOUS ISLANDS (48686), and entire PART III appendix (List of Honours, etc) extending to end of file (65883)",
+    "missing_entries": "TRISTAN DA CUNHA and MISCELLANEOUS ISLANDS missing as separate entries - both absorbed into ADEN",
+    "pattern": "Over-extraction pattern continues from earlier years but with different manifestations"
+  },
+  "historical_context": "Year 1927 - Post-WWI era, significant over-extraction requiring manual correction",
+  "notes": [
+    "AUSTRALIA: 6157-16736 (10,580 lines) merged from 7 entries including VICTORIA, QUEENSLAND, SOUTH AUSTRALIA, WESTERN AUSTRALIA, TASMANIA, NORTHERN TERRITORY",
+    "LABUAN: Wrongly extracted at 41569-44181 - actual content shows only 1 line about Medical Officer within STRAITS SETTLEMENTS",
+    "TRINIDAD AND TOBAGO: 44181-45657 (1,477 lines) merged from TRINIDAD and TOBAGO subsections",
+    "ADEN: Corrected to 48645-48670 (26 lines) - removed massive over-extraction extending to line 65883",
+    "TRISTAN DA CUNHA: Added 48670-48685 (16 lines) - was wrongly absorbed into ADEN",
+    "MISCELLANEOUS ISLANDS: Added 48686-48694 (9 lines) - was wrongly absorbed into ADEN",
+    "All boundaries manually verified by reading OCR source content"
+  ],
+  "colonies": [
+    {
+      "name": "AUSTRALIA",
+      "filename": "AUSTRALIA.md",
+      "start_line": 6157,
+      "end_line": 16736,
+      "line_count": 10580,
+      "is_appendix": false,
+      "extraction_method": "merged_from_subsections",
+      "note": "Merged from 7 entries: main AUSTRALIA section plus 6 Australian state/territory subsections (VICTORIA, QUEENSLAND, SOUTH AUSTRALIA, WESTERN AUSTRALIA, TASMANIA, NORTHERN TERRITORY) showing electoral constituencies"
+    },
+    {
+      "name": "BRITISH COLUMBIA",
+      "filename": "BRITISH_COLUMBIA.md",
+      "start_line": 16736,
+      "end_line": 17765,
+      "line_count": 1029,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "filename": "NEWFOUNDLAND.md",
+      "start_line": 17765,
+      "end_line": 20371,
+      "line_count": 2606,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CAPE OF GOOD HOPE",
+      "filename": "CAPE_OF_GOOD_HOPE.md",
+      "start_line": 20371,
+      "end_line": 20426,
+      "line_count": 55,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NATAL",
+      "filename": "NATAL.md",
+      "start_line": 20426,
+      "end_line": 22306,
+      "line_count": 1880,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BASUTOLAND",
+      "filename": "BASUTOLAND.md",
+      "start_line": 22306,
+      "end_line": 22613,
+      "line_count": 307,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SWAZILAND",
+      "filename": "SWAZILAND.md",
+      "start_line": 22613,
+      "end_line": 22826,
+      "line_count": 213,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SOUTHERN RHODESIA",
+      "filename": "SOUTHERN_RHODESIA.md",
+      "start_line": 22826,
+      "end_line": 23556,
+      "line_count": 730,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BAHAMAS",
+      "filename": "BAHAMAS.md",
+      "start_line": 23556,
+      "end_line": 24114,
+      "line_count": 558,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BARBADOS",
+      "filename": "BARBADOS.md",
+      "start_line": 24114,
+      "end_line": 24863,
+      "line_count": 749,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BERMUDA",
+      "filename": "BERMUDA.md",
+      "start_line": 24863,
+      "end_line": 25092,
+      "line_count": 229,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "filename": "BRITISH_GUIANA.md",
+      "start_line": 25092,
+      "end_line": 26056,
+      "line_count": 964,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "filename": "BRITISH_HONDURAS.md",
+      "start_line": 26056,
+      "end_line": 26403,
+      "line_count": 347,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CEYLON",
+      "filename": "CEYLON.md",
+      "start_line": 26403,
+      "end_line": 28517,
+      "line_count": 2114,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "filename": "FALKLAND_ISLANDS.md",
+      "start_line": 28517,
+      "end_line": 28798,
+      "line_count": 281,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "FIJI",
+      "filename": "FIJI.md",
+      "start_line": 28798,
+      "end_line": 29468,
+      "line_count": 670,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "THE GAMBIA",
+      "filename": "THE_GAMBIA.md",
+      "start_line": 29468,
+      "end_line": 29941,
+      "line_count": 473,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "GIBRALTAR",
+      "filename": "GIBRALTAR.md",
+      "start_line": 29941,
+      "end_line": 31422,
+      "line_count": 1481,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "HONG KONG",
+      "filename": "HONG_KONG.md",
+      "start_line": 31422,
+      "end_line": 32066,
+      "line_count": 644,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "JAMAICA",
+      "filename": "JAMAICA.md",
+      "start_line": 32066,
+      "end_line": 32927,
+      "line_count": 861,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CAYMAN ISLANDS",
+      "filename": "CAYMAN_ISLANDS.md",
+      "start_line": 32927,
+      "end_line": 33433,
+      "line_count": 506,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "KENYA",
+      "filename": "KENYA.md",
+      "start_line": 33433,
+      "end_line": 34261,
+      "line_count": 828,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ANTIGUA",
+      "filename": "ANTIGUA.md",
+      "start_line": 34261,
+      "end_line": 34946,
+      "line_count": 685,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "DOMINICA",
+      "filename": "DOMINICA.md",
+      "start_line": 34946,
+      "end_line": 35310,
+      "line_count": 364,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MONTSERRAT",
+      "filename": "MONTSERRAT.md",
+      "start_line": 35310,
+      "end_line": 36471,
+      "line_count": 1161,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MAURITIUS",
+      "filename": "MAURITIUS.md",
+      "start_line": 36471,
+      "end_line": 37335,
+      "line_count": 864,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NIGERIA",
+      "filename": "NIGERIA.md",
+      "start_line": 37335,
+      "end_line": 38440,
+      "line_count": 1105,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NORTHERN RHODESIA",
+      "filename": "NORTHERN_RHODESIA.md",
+      "start_line": 38440,
+      "end_line": 39201,
+      "line_count": 761,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "PALESTINE",
+      "filename": "PALESTINE.md",
+      "start_line": 39201,
+      "end_line": 39759,
+      "line_count": 558,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST. HELENA",
+      "filename": "ST_HELENA.md",
+      "start_line": 39759,
+      "end_line": 39964,
+      "line_count": 205,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ASCENSION",
+      "filename": "ASCENSION.md",
+      "start_line": 39964,
+      "end_line": 39978,
+      "line_count": 14,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SEYCHELLES",
+      "filename": "SEYCHELLES.md",
+      "start_line": 39978,
+      "end_line": 40246,
+      "line_count": 268,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SIERRA LEONE",
+      "filename": "SIERRA_LEONE.md",
+      "start_line": 40246,
+      "end_line": 40950,
+      "line_count": 704,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "STRAITS SETTLEMENTS",
+      "filename": "STRAITS_SETTLEMENTS.md",
+      "start_line": 40950,
+      "end_line": 41569,
+      "line_count": 619,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TRINIDAD AND TOBAGO",
+      "filename": "TRINIDAD_AND_TOBAGO.md",
+      "start_line": 44181,
+      "end_line": 45657,
+      "line_count": 1477,
+      "is_appendix": false,
+      "extraction_method": "merged_from_subsections",
+      "note": "Merged from TRINIDAD and TOBAGO subsections - header shows '* TRINIDAD AND TOBAGO'"
+    },
+    {
+      "name": "UGANDA",
+      "filename": "UGANDA.md",
+      "start_line": 45657,
+      "end_line": 46111,
+      "line_count": 454,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "WEIHAIWEI",
+      "filename": "WEIHAIWEI.md",
+      "start_line": 46111,
+      "end_line": 46770,
+      "line_count": 659,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "GRENADA",
+      "filename": "GRENADA.md",
+      "start_line": 46770,
+      "end_line": 47054,
+      "line_count": 284,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST. LUCIA",
+      "filename": "ST_LUCIA.md",
+      "start_line": 47054,
+      "end_line": 47343,
+      "line_count": 289,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST. VINCENT",
+      "filename": "ST_VINCENT.md",
+      "start_line": 47343,
+      "end_line": 47630,
+      "line_count": 287,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ZANZIBAR",
+      "filename": "ZANZIBAR.md",
+      "start_line": 47630,
+      "end_line": 47911,
+      "line_count": 281,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "IRAQ",
+      "filename": "IRAQ.md",
+      "start_line": 47911,
+      "end_line": 48111,
+      "line_count": 200,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NORTH BORNEO",
+      "filename": "NORTH_BORNEO.md",
+      "start_line": 48111,
+      "end_line": 48645,
+      "line_count": 534,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ADEN",
+      "filename": "ADEN.md",
+      "start_line": 48645,
+      "end_line": 48670,
+      "line_count": 26,
+      "is_appendix": false,
+      "extraction_method": "corrected_boundaries",
+      "note": "Corrected boundaries - removed massive over-extraction that extended to line 65883 and absorbed TRISTAN DA CUNHA, MISCELLANEOUS ISLANDS, and PART III appendix"
+    },
+    {
+      "name": "TRISTAN DA CUNHA",
+      "filename": "TRISTAN_DA_CUNHA.md",
+      "start_line": 48670,
+      "end_line": 48685,
+      "line_count": 16,
+      "is_appendix": false,
+      "extraction_method": "corrected_boundaries",
+      "note": "Added as separate entry - was wrongly absorbed into ADEN over-extraction"
+    },
+    {
+      "name": "MISCELLANEOUS ISLANDS",
+      "filename": "MISCELLANEOUS_ISLANDS.md",
+      "start_line": 48686,
+      "end_line": 48694,
+      "line_count": 9,
+      "is_appendix": false,
+      "extraction_method": "corrected_boundaries",
+      "note": "Added as separate entry - was wrongly absorbed into ADEN over-extraction"
+    }
+  ]
+}

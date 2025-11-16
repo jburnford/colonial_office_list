@@ -1,0 +1,199 @@
+{
+  "year": 1958,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1958/olmocr_results.md",
+  "total_colonies": 20,
+  "colonies": [
+    {
+      "colony_name": "UGANDA",
+      "year": 1958,
+      "start_line": 2940,
+      "end_line": 3377,
+      "char_count": 45447,
+      "line_count": 438,
+      "filename": "UGANDA.md"
+    },
+    {
+      "colony_name": "ADEN",
+      "year": 1958,
+      "start_line": 3377,
+      "end_line": 4217,
+      "char_count": 61608,
+      "line_count": 841,
+      "filename": "ADEN.md"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 1958,
+      "start_line": 4217,
+      "end_line": 4220,
+      "char_count": 46,
+      "line_count": 4,
+      "filename": "BARBADOS.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1958,
+      "start_line": 4220,
+      "end_line": 4433,
+      "char_count": 17648,
+      "line_count": 214,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1958,
+      "start_line": 4572,
+      "end_line": 5064,
+      "char_count": 28051,
+      "line_count": 493,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1958,
+      "start_line": 5064,
+      "end_line": 5721,
+      "char_count": 44157,
+      "line_count": 658,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1958,
+      "start_line": 5721,
+      "end_line": 6526,
+      "char_count": 48211,
+      "line_count": 806,
+      "filename": "CYPRUS.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1958,
+      "start_line": 6526,
+      "end_line": 6841,
+      "char_count": 25395,
+      "line_count": 316,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 1958,
+      "start_line": 6841,
+      "end_line": 7212,
+      "char_count": 25993,
+      "line_count": 372,
+      "filename": "THE_GAMBIA.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1958,
+      "start_line": 7212,
+      "end_line": 7465,
+      "char_count": 15062,
+      "line_count": 254,
+      "filename": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 1958,
+      "start_line": 7465,
+      "end_line": 7933,
+      "char_count": 27604,
+      "line_count": 469,
+      "filename": "HONG_KONG.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1958,
+      "start_line": 7933,
+      "end_line": 9145,
+      "char_count": 81746,
+      "line_count": 1213,
+      "filename": "JAMAICA.md"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 1958,
+      "start_line": 9145,
+      "end_line": 10183,
+      "char_count": 76772,
+      "line_count": 1039,
+      "filename": "MAURITIUS.md"
+    },
+    {
+      "colony_name": "NORTH BORNEO",
+      "year": 1958,
+      "start_line": 10183,
+      "end_line": 11449,
+      "char_count": 87893,
+      "line_count": 1267,
+      "filename": "NORTH_BORNEO.md"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 1958,
+      "start_line": 11449,
+      "end_line": 11695,
+      "char_count": 12435,
+      "line_count": 247,
+      "filename": "ST_HELENA.md"
+    },
+    {
+      "colony_name": "ASCENSION",
+      "year": 1958,
+      "start_line": 11695,
+      "end_line": 12055,
+      "char_count": 32463,
+      "line_count": 361,
+      "filename": "ASCENSION.md"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 1958,
+      "start_line": 12055,
+      "end_line": 12362,
+      "char_count": 21604,
+      "line_count": 308,
+      "filename": "SEYCHELLES.md"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1958,
+      "start_line": 12362,
+      "end_line": 14050,
+      "char_count": 136939,
+      "line_count": 1689,
+      "filename": "SIERRA_LEONE.md"
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "year": 1958,
+      "start_line": 15690,
+      "end_line": 18807,
+      "char_count": 213932,
+      "line_count": 3118,
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "year": 1958,
+      "start_line": 18807,
+      "end_line": 19707,
+      "char_count": 63823,
+      "line_count": 901,
+      "filename": "BASUTOLAND.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Automated v5 parser with table of contents filtering",
+    "date": "2025-11-16",
+    "method": "Automated batch processing with PART II detection",
+    "corrections_applied": [
+      "Removed 16 table of contents entries (before line 2940)",
+      "Removed 2 duplicate entries from metadata"
+    ],
+    "original_count": 38,
+    "corrected_count": 20,
+    "note": "Automated processing - may need manual verification | Metadata corrected to remove 2 duplicates"
+  }
+}

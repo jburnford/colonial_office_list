@@ -1,0 +1,37 @@
+[
+  {
+    "year": 1951,
+    "status": "success",
+    "colonies_count": 31,
+    "output_dir": "output_2/1951_manual_parsed",
+    "metadata_file": "output_2/1951_manual_parsed.json"
+  },
+  {
+    "year": 1952,
+    "status": "success",
+    "colonies_count": 23,
+    "output_dir": "output_2/1952_manual_parsed",
+    "metadata_file": "output_2/1952_manual_parsed.json"
+  },
+  {
+    "year": 1953,
+    "status": "success",
+    "colonies_count": 31,
+    "output_dir": "output_2/1953_manual_parsed",
+    "metadata_file": "output_2/1953_manual_parsed.json"
+  },
+  {
+    "year": 1954,
+    "status": "success",
+    "colonies_count": 41,
+    "output_dir": "output_2/1954_manual_parsed",
+    "metadata_file": "output_2/1954_manual_parsed.json"
+  },
+  {
+    "year": 1955,
+    "status": "success",
+    "colonies_count": 35,
+    "output_dir": "output_2/1955_manual_parsed",
+    "metadata_file": "output_2/1955_manual_parsed.json"
+  }
+]

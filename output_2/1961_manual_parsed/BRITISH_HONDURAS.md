@@ -1,0 +1,371 @@
+BRITISH HONDURAS
+
+Area
+
+British Honduras lies on the Caribbean coast of Central America, bounded on the north and part of the west by Mexico and by Guatemala in the remainder of the west and south. Its land area is about 8,866 square miles, which includes a number of islets, known as "cayes", lying off the coast.
+
+Population
+
+At the census taken in April 1960 the total population was 90,343 (provisional figure). The main racial groups are: Creoles, American Indians (Maya) and Caribs. There are also a number of persons of East Indian and Spanish descent. The races are, however, now heavily inter-mixed and a great many persons would have considerable difficulty in deciding to which group they belong.
+
+English is the official language and the language taught in the schools. Spanish is also in common use, chiefly by the Indians, whose language it is tending to replace. The term Creole is now commonly used to denote local negroes and persons of negro extraction; it is also used in respect of persons of mixed Spanish and Indian descent.
+
+| Principal Towns          | Population (estimated) |
+|--------------------------|------------------------|
+| Belize (capital)         | 32,824                 |
+| Corozal                  | 3,172                  |
+| Orange Walk              | 2,144                  |
+| El Cayo                  | 2,958                  |
+| Stann Creek              | 3,271                  |
+| Punta Gorda              | 1,755                  |
+
+Geographical Features
+
+The coastline is, for the most part, flat and swampy, but the country rises gradually towards the interior. The Maya Mountains and the Cockscombs, which reach a height of 3,700 feet, form the backbone of the southern half of the Colony. All of the western (Cayo) District is hilly and includes the Mountain Pine Ridge most of which lies between 1,000 and 2,000 feet above sea level but rises in parts to around 3,000 feet. The northern districts are also hilly except towards the coast but contain considerable areas of low tableland. There are seventeen principal rivers, of which the Belize River is the most important. None is navigable by vessels over five feet draught and few for any notable distance. An estimated 92% of the mainland is under forest.
+
+Climate
+
+The climate is sub-tropical and on the whole agreeable to non-tropical peoples. In the capital, Belize, the temperature range during the year is 50° to 96° with an average mean of 78·5°. Most of the year the heat and humidity are tempered by sea breezes. This description applies with small variation along the whole coastal area. Inland the day temperatures, during the dry season, tend to be higher, up to 100°, but drop considerably at night. Rainfall increases from north to south:
+
+| Annual average Inches |
+|-----------------------|
+| Corozal (north)       | 51                    |
+| Belize (central)      | 63                    |
+| El Cayo (western central) | 52            |
+| Stann Creek (upper south) | 147        |
+| Toledo (south)        | 175                   |
+
+There are two dry seasons, the main one from March to May and the other in August and September (called the Maugre Season).
+
+The Colony has been struck from time to time by hurricanes; the most disastrous in recent history struck Belize on 10th September 1931 causing heavy loss of life and property.
+
+On 27th September 1955 Hurricane "Janet" struck the northern part of the country completely destroying the town of Corozal, and damaging dozens of villages in the Orange Walk District. Damage was estimated at over $4 million. The United Kingdom Government gave assistance totalling $3,480,000—$800,000 of this being a loan, and the rest a free grant.
+
+On 15th July 1960 Hurricane "Abby" struck the area of the Sittee River, south of Stann Creek causing some damage to crops and dwellings.
+
+History
+
+The present Settlement was apparently established in 1638 but British sea rovers were frequenting the Bay from long before that year, and there is some evidence that a Settlement was formed in or around 1603. Logwood was the attraction, and the 1638 Settlement was augmented from time to time by sea rovers and—notably after the capture of Jamaica by British forces in 1655—by disbanded British soldiers and sailors. In the Treaty of Madrid, 1670, Spain recognized Britain's sovereignty over the Bay Settlement.
+
+Concurrently another and larger British Settlement was building up on the Moskito Indian Coast, far to the south of British Honduras. Modern historians frequently confuse the two Settlements; but although they assisted each other on occasion, they were entirely separate organizations with quite different forms of government. The Moskito Indians stubbornly and successfully resisted Spanish intrusion but welcomed and became loyal allies of the British settlers. The Moskito Coast settlers were known as the Shoremen and the Bay settlers as the Baymen. In 1786 Britain handed over the Moskito Coast to Spain in return for a small and comparatively worthless strip of land contiguous to the Bay Settlement. Some of the Shoremen moved to Jamaica and the rest were compulsorily evacuated to the strip, where they became merged with the Baymen.
+
+The Bay Settlement was a piece of purely British pioneering. The Spaniards found plentiful supplies of logwood, and Indians for slaves, in Northern Yucatan and settled there. Southern Yucatan, on the other hand, was by then practically devoid of Indians and its littoral was a wilderness of mosquito-infested mangrove swamps guarded by lee-shore reefs and tricky channels. The Spaniards therefore left this coast alone until the British began to settle around the mouth of the Belize River. The export of logwood from the Bay Settlement broke the highly profitable Spanish monopoly, brought great prosperity to
+Britain's wool and cloth-dyeing trades and caused Spain to launch attack after attack on the Settlement in an effort to drive out her competitors.
+
+This armed aggression continued until 1798, when the Spaniards invaded the Settlement in strong naval and military force. The Baymen, although badly under-armed and heavily outnumbered, resisted and, after several days of skirmishing, the forces met in sea battle off St. George's Cay. Supported by H.M. Sloop Merlin, the Baymen fought with such determination that the Spaniards were forced to retreat. This was Spain's last attempt to dislodge the Baymen by force of arms.
+
+Until 1786 the Baymen governed themselves. In that year, after many petitions from the Baymen, England appointed and sent out a Superintendent, but the office was allowed to lapse in 1791. In 1797 Colonel Thomas Barrow was appointed Superintendent and was also given the title of Commander-in-Chief (held by the Governors of the Colony ever since) to enable him to organize the defence against the obviously impending Spanish attack. Thereafter the office of Superintendent continued until 1862, when it was replaced by that of Lieutenant-Governor, under the Governor of Jamaica, and the Settlement raised to the status of a Colony. The Baymen resented being subordinated to Jamaica and in 1884 the Colony was detached from Jamaica and given a Governor.
+
+**Constitution**
+
+In 1954 the Legislative Council was replaced by a Legislative Assembly composed of nine elected members, three *ex officio* members, and a Speaker and three unofficial members nominated by the Governor. The status of the Executive Council was changed to that of chief instrument of policy, and it is now composed of the Governor, as Chairman, three *ex officio* members, and six members of the Legislative Assembly. The latter are elected by the Assembly but must include not less than two of the nominated unofficial members of that body. Universal adult suffrage was also introduced in 1954, and the first general election under the new Constitution was held on 28th April 1954. The only fully organized party, the People's United Party, gained eight of the nine elected seats. The principle of Steering Members, appointed by the Governor from among the unofficial members of the Executive Council, as the first step towards full ministerial status, was adopted in 1955.
+
+At the general elections which took place on the 20th March 1957 the People's United Party gained all nine of the elected seats.
+
+A new Constitution is to be introduced early in 1961. It will provide for a reconstituted Executive Council, of which the Governor will remain Chairman. The number of *ex officio* members will be reduced to two, i.e. the Colonial Secretary (who will then be styled Chief Secretary) and the Attorney-General; and there will be six unofficial members chosen from among the unofficial members of the Legislative Assembly, at least one of whom shall be a nominated member. Of the six unofficial members five will be Ministers with Portfolio (one of which will be Finance) and the other will be Minister without Portfolio.
+
+The leader of the party obtaining a clear majority in a general election will be appointed by the Governor as First Minister, and the remaining seats in Executive Council held by unofficials will be filled by election by the unofficial members of the Legislative Assembly from among their own number. The post of Financial Secretary will be replaced by that of Permanent Secretary, Ministry of Finance, and the latter will attend meetings of Executive Council but will not be a member either of that Council or of the Legislative Assembly.
+
+The number of the elected members in the Legislative Assembly will be increased from nine to eighteen and the number of nominated members from three to five. The Chief Secretary and the Attorney-General will remain *ex officio* members. The five seats for nominated members will be filled by the Governor, after consultation with the First Minister in respect of two seats, and with the leader of the minority party in respect of one seat. The remaining two seats will be filled by the Governor after consultation with the leaders of both the majority and the minority parties.
+
+**Land Policy**
+
+The alienation of Crown land is carefully controlled to prevent, as far as possible, the acquisition of such land for purely speculative, non-productive purposes. No racial discrimination is exercised.
+
+During 1953 and 1954 a land use survey was carried out. A land policy, based on the findings and recommendations of the Survey Team, has been formulated and was published by Government in 1958.
+
+**Taxation**
+
+Income tax is levied on a graduated scale rising from 5% on the first $500 of chargeable income to 45% on all income over $25,000. Surtax is levied on the first $2,000 in excess of $8,000 of chargeable income at the rate of 10%; on the next $5,000 at the rate of 15%; on the next $5,000 at the rate of 20%; and on the remainder at 25%. Deductions allowed against income are a personal allowance of $600, plus allowances for wife, children, dependent relatives, life assurance premiums, earned income and gifts to charity. The rate of tax on companies is 40% of the chargeable income of the company.
+
+**Public Finance**
+
+| Year | Revenue ($) | Expenditure ($) |
+|------|-------------|-----------------|
+| 1938 | 1,740,602   | 1,872,413       |
+| 1955 | 5,393,791   | 5,694,732       |
+| 1956 | 6,726,936   | 6,702,208       |
+| 1957 | 8,691,319   | 8,002,687       |
+| 1958 | 9,187,829   | 9,267,786       |
+| 1959 | 10,327,091  | 10,406,463      |
+
+In 1959 $2,889,814 of the true revenue was derived from Customs duties and charges and $1,843,438 from internal taxation. In the same year the main heads of expenditure were: Administration $3,444,698, Public Works $1,741,639, Social Services $1,591,142.
+
+The Public Debt of the Colony at the end of 1958 amounted to $4,602,632. Sinking funds on hand amounted to $765,920, leaving $3,836,712 as the net outstanding debt.
+
+**Currency**
+
+The unit of currency is the British Honduras dollar which is exchanged at four to the £ sterling. Notes of $20, $10, $5, $2 and $1 are issued and
+there is a silver coinage of 50, 25 and 10 cents, a nickel coin of 25 cents (new issue) and one of 5 cents, and a bronze 1 cent coin.
+
+Development Plans
+
+British Honduras received Colonial Development and Welfare allocations from the United Kingdom totalling £2,250,000 during the period 1945–56. Additional allocations totalling £1,950,000 were made for the period 1955–60, and a further allocation of £2,000,000 has been made under the 1959 Act for the period up to March 1964.
+
+Under the Development Plan (1955–60) the bulk of the Colonial Development and Welfare funds is being spent on projects which will raise the general economy of the country and so result in a higher standard of living for all. A substantial part of the money is being spent on agriculture, forestry and communications. Considerable sums are also set aside for education, social welfare, medical services and housing.
+
+Under the Development Loan Ordinance, 1952, and the Loans (General Development) Ordinance, 1957, loans totalling $2,257,441, had been raised by the end of 1959, $832,525 of this by the issue of Government debentures locally, and the balance by inter-Colonial Loan.
+
+Other Development
+
+The Fort George Hotel, built by the Colonial Development Corporation, was opened for business early in 1953. It has 35 bedrooms and is designed for tourist trade. Expansion in accommodation is contemplated to meet increasing patronage.
+
+The Citrus Company of British Honduras continues to expand the cultivation of grapefruit and oranges in the Stann Creek Valley. Exports of oranges and products thereof are increasing.
+
+The Hummingbird Development Company is going forward with plans for the establishment of some 2,000 acres of cacao. Government has established a nursery to supply seedlings and demonstration plots have been laid out.
+
+Following an enquiry into the future economic development of British Honduras in October 1959 by Mr. Jack Downie, a Senior Economic Adviser at H.M. Treasury, it has been agreed that the central feature of economic policy should be a large scale immigration programme, aimed at the establishment of an agricultural economy based on large scale enterprises (i.e. plantations) and individual small holdings.
+
+Education
+
+Primary education is principally through subsidized denominational schools controlled by a Board of Education. There were at the end of 1959, two government and 116 grant-aided primary schools with an enrolment of 19,532. In addition there are 32 unaided primary schools with an enrolment of 1,680. There are nine secondary schools, all unaided and denominational with 1,457 pupils, one government-run Technical College and two Teacher Training Colleges. There is no provision for education of university standard but scholarships are awarded which carry the recipients to the University College of the West Indies (Jamaica). The University College stations an Extramural Tutor in Belize.
+
+Expenditure on education from general revenue during 1959 was $689,384, compared with $71,175 in 1935.
+
+Libraries, etc.
+
+The Jubilee Public Library has reading rooms, a reference section, a lending section, a children's section, and a stock of over 33,000 books. Boxes of books are circulated to 25 sub-libraries in the districts. The Baron Bliss Institute, Belize, was formally handed over to Government by the Baron Bliss Trust in 1954. The Institute has a modern dramatic stage and auditorium, lecture rooms, an exhibition hall and in addition houses the Jubilee Library and the local branch of the Extramural Department of the University College of the West Indies.
+
+The British Council has a resident representative in Belize.
+
+Health
+
+The Colony is relatively free from endemic disease. Malaria, which is most prevalent, has shown a substantial decrease in incidence owing to the half-yearly spraying with D.D.T. undertaken by government. The main general hospital is in Belize and there are small hospitals in each of the five districts, all run by government. Beds total 322. Some sixteen Government and Mission rural dispensaries in the more important villages are each in charge of a qualified rural health nurse.
+
+A tuberculosis hospital, a venereal disease unit, an infirmary, and a mental hospital are also maintained by Government in Belize.
+
+Expenditure on health services from general revenue during 1959 was $704,562 compared with $80,071 in 1935.
+
+Communications
+
+Stanley Field, about ten miles north-west of Belize, is the principal airport of the Colony. International air services are operated to the Colony by the following airlines:
+
+- British West Indian Airways (B.W.I.A.).
+- Transportes Aereos Centro Americanos, S.A. (T.A.C.A. Internacional).
+- Servicio Aereo de Honduras, S.A. (S.A.H.S.A.).
+- Transportes Aereos Nacionales, S.A. (T.A.N.).
+- Compania Mexicano de Avacion, S.A. (C.M.A.).
+
+There is a weekly service between Jamaica and Belize and twice-weekly services New Orleans (U.S.A.), Belize and San Salvador via Guatemala City, and return; Miami, Belize and San Pedro Sula (Honduras) and return; San Pedro Sula, Puerto Barrios (Guatemala) and Belize and return; Merida and Belize, via Chetumal, and return. British Honduras Airways also operate an internal air service, on schedule to certain district towns and on charter to other parts of the Colony.
+
+There are 477½ miles of all-weather main and feeder roads and 174½ miles of cart roads and bush trails maintained by Government. An unknown, but considerable, mileage of dirt roads built by logging contractors and the Forest Department, public use of which is permitted, will take, for example, jeeps and landrovers, in the dry season.
+
+The United Fruit Company maintains a weekly passenger and cargo service between Belize and New Orleans. The T. and J. Harrison and the Royal Netherlands S.S. lines offer a regular fortnightly cargo service between Belize and the United Kingdom and Europe respectively, the Royal Netherlands ships offering limited passenger
+accommodation. The Caribbean line operates an irregular service between New York and Belize.
+
+In 1959 a total of 651 steam and motor vessels and 1,034 sailing vessels, 315,102 tons in all, entered the Colony.
+
+Broadcasting
+
+Government operates a radio broadcasting service (B.H.B.S.) transmitting from Belize on the following frequencies and powers: 1,280 kc/s (235 metres), 1 kW.; 3-3 Mc/s. (90 metres), 5 kW. and 4-9 Mc/s. (60 metres), 250 watts. Programmes are given in English and Spanish and include both local and foreign news, announcements of local interest, transcribed music and plays. Daily time totals about five hours but will increase as local talent, now being fostered, becomes available. Licensed receiving sets in the Colony totalled 2,125 in 1959.
+
+Principal Occupations
+
+Most of the working population are engaged in agriculture on their own account.
+
+The numbers engaged in the principal wage earning occupations at the 1946 census were:
+
+- Agriculture . . . . . . 5,865
+- Manufacture and Repair . . . . . . 2,551
+- Forestry . . . . . . 2,040
+- Personal Service . . . . . . 1,879
+- Trade and Finance . . . . . . 1,716
+- Public Service . . . . . . 1,357
+
+(Later estimates are not considered wholly reliable and are therefore not quoted here, while the 1960 Census figures are not yet available.)
+
+Membership of trade unions totalled 2,190 (declared nominal membership) at the end of 1959. There are four trade unions in the Colony.
+
+Main Crops and Products
+
+Indian corn (maize), beans and peas, rice, sugar, cassava, and yams are the principal food crops of the Colony. The main export crops are coconuts, citrus fruits and products, sugar, bananas and maize. Pigs and poultry are raised throughout the Colony. Timber is the principal export product, mainly mahogany, pine, and cedar. Rosewood, banak, Santa Maria and other woods are also exported. Efforts are being directed to building up the Colony's fisheries and an export trade to the United States, chiefly in lobsters, is growing.
+
+Of industries sawmilling is the most important, and a cigarette factory, a soap factory, an aluminium door, window and louvre fabricating factory, and several small furniture factories, are operating in Belize. In different parts of the Colony there are canneries, one operating in the Stann Creek Valley on citrus products is of notable size, and in the Corozal District there is a large sugar factory.
+
+Trade
+
+| Year | Imports | Re-exports | Domestic Exports |
+|------|---------|------------|------------------|
+| 1938 | $4,004,091 | $1,447,110 | $1,816,274 |
+| 1955 | $14,339,799 | $1,172,649 | $7,014,226 |
+| 1956 | $15,850,638 | $2,486,533 | $7,486,507 |
+| 1957 | $15,108,063 | $1,591,139 | $7,352,262 |
+| 1958 | $18,516,241 | $1,319,813 | $7,768,062 |
+| 1959 | $19,561,208 | $708,569 | $8,854,469 |
+
+In 1938 19·1% of total imports came from the United Kingdom, 12·9% from other Commonwealth countries, and 68·0% from foreign countries. The corresponding figures for 1959 were: 33·55%, 12·07% and 54·38%.
+
+In 1938 22·5% of exports went to the United Kingdom, 6·3% to other Commonwealth countries and 71·2% to foreign countries. The corresponding figures for 1959 were: 53·25%, 15·56% and 31·19%.
+
+The chief imports are vehicles, motor spirits, machinery, cotton and artificial silk piece-goods, beans and peas, condensed, evaporated and powdered milk, flour, butter, margarine, and lard substitutes.
+
+**Principal Exports by Quantity and/or Value ($000)**
+
+| Item                  | 1938   | 1958   | 1959   |
+|-----------------------|--------|--------|--------|
+| Mahogany              | 000 cu. ft. | 1,042 | 593    | 778    |
+| Pitch Pine            | 000 cu. ft. | —     | 440    | 332    |
+| Chicle Gum            | 000 lb. | 880    | 693    | 617    |
+| Crown (Chicle) Gum    | 000 lb. | 290    | 640    | 562    |
+| Grapefruit and Products | 88     | 846    | 858    |
+| Oranges and Products  | 000 lb. | 1,049  | 1,093  |
+| Lobsters              | 000 lb. | 34     | 369    | 401    |
+| Bananas               | 000 bunches | 776   | 17     | 6      |
+| Coconuts, Cohune nuts, etc. | 58     | 127    | 100    |
+| Sugar, Unrefined      | 000 lb. | Nil    | 19,485 | 44,302 |
+|                       |        |        | Nil    | 1,312  | 2,242  |
+
+**Marketing and Co-operative Organizations**
+
+A Marketing Board is operated by Government; its principal concern is with the purchase of agricultural produce such as rice, beans and corn at guaranteed prices and the marketing of these products both locally and abroad. It also makes seasonal crop loans.
+
+At the end of 1959 there were 41 Credit Unions, three Consumer Co-operatives, five Producers' Co-operatives, two Piggeries Co-operatives, six Marketing Co-operatives, three Farmers' Co-operatives, one Housing Co-operative and one Multi-purpose Co-operative. In addition there were 32 junior and 1 senior Savings Unions, and a secondary society, The British Honduras Credit Union League, Ltd.
+
+**Administrators of the Government of British Honduras**
+
+**Superintendents**
+
+(Previous to 1786 Magistrates were elected annually)
+
+1786 Colonel E. M. Despard.
+1790 Colonel Peter Hunter.
+1790 to 1797 Magistrates elected annually.
+1797 Colonel Thomas Barrow.
+1800 General Sir Richard Basset.
+1805 Lieut.-Col. Gabriel Gordon.
+1806 Lieut.-Col. A. M. Kerr Hamilton.
+1809 Lieut.-Col. J. Nugent Smyth.
+1814 Major George Arthur.
+1822 Major-General A. H. Pye.
+1823 Major-General Edward Codd.
+1829 Major Alexander McDonald.
+1830 Lieut.-Col. F. Cockburn.
+1837 Lieut.-Col. A. McDonald.
+1843 Col. C. Fancourt, K.H.
+1851 Sir Philip E. Wodehouse, K.C.B.
+1854 William Stevenson.
+1857 Frederick Seymour.
+
+Lieutenant-Governors
+1862 Frederick Seymour.
+1864 J. Gardiner Austin, C.M.G.
+1867 Sir J. R. Longden, G.C.M.G.
+1870 W. W. Cairns, C.M.G.
+1874 Sir R. M. Mundy, K.C.M.G.
+1877 Sir F. P. Barlee, K.C.M.G.
+1882 Sir R. W. Harley, K.C.M.G., C.B.
+1884 Sir R. T. Goldsworthy, K.C.M.G.
+
+Governors
+1884 Sir R. T. Goldsworthy, K.C.M.G.
+1891 Sir C. A. Moloney, K.C.M.G.
+1897 Colonel Sir David Wilson, K.C.M.G.
+1904 Sir Bickham Sweet-Escott, K.C.M.G.
+1906 Colonel Sir E. J. E. Swayne, K.C.M.G., C.B.
+1913 Sir Wilfred Collet, K.C.M.G.
+1918 W. Hart Bennett, C.M.G.
+1919 Sir Eyre Hutson, K.C.M.G.
+1925 Major Sir J. A. Burdon, K.B.E., C.M.G.
+1932 Sir H. B. Kittermaster, K.C.M.G., K.B.E.
+1934 Sir Alan Burns, G.C.M.G.
+1940 Sir John Adams Hunter, K.C.M.G.
+1947 Sir E. G. Hawkesworth, K.C.M.G., M.C.
+1948 Sir Ronald Garvey, K.C.M.G., M.B.E.
+1952 Sir Patrick Renison, K.C.M.G.
+1955 Sir Colin Thornley, K.C.M.G., C.V.O.
+
+EXECUTIVE COUNCIL
+The Governor (Chairman).
+The Colonial Secretary.
+The Attorney-General.
+The Financial Secretary.
+
+Nominated
+H. T. A. Bowman, O.B.E.
+J. W. Macmillan, O.B.E.
+
+Elected
+A. E. Cattouse.
+D. R. Jeffery.
+L. S. Sylvestre.
+E. S. De Paz.
+
+Clerk—Mrs. C. Campbell (Acting).
+
+LEGISLATIVE ASSEMBLY
+Speaker—Sir Arthur Wolffsohn, C.M.G., O.B.E.
+Colonial Secretary
+Attorney-General
+Financial Secretary Ex officio.
+3 Nominated Unofficial Members.
+9 Elected Members.
+
+Clerk—S. E. Hulse.
+
+State of Parties (Elections 20.3.57).
+Seats
+People's United Party . . . . . 9
+
+CIVIL ESTABLISHMENT
+GOVERNOR AND COMMANDER-IN-CHIEF
+—Sir Colin Thornley, K.C.M.G., C.V.O.
+Private Secretary—T. G. Demetriadi.
+
+Colonial Secretary—M. S. Porcher, O.B.E.
+Financial Secretary—R. B. Cottrell, M.B.E., T.D.
+Development Commissioner—R. M. Major.
+Deputy Colonial Secretary—(Vacant).
+Principal Establishment Officer—E. W. Fuller, M.B.E.
+Principal Assistant Secretaries—J. M. G. Fann; D. R. B. Gill; K. O. H. Osborne; R. A. Fonseca; A. S. Frankson, M.B.E.
+Archaeological Commissioner—A. H. Anderson, M.B.E.
+
+District Commissioners—
+Cayo District—H. O. E. Longsworth.
+Corozal District—R. M. Bautista, M.B.E.
+Orange Walk District—H. F. Fuller, M.B.E.
+Stann Creek District—G. T. Sabido (Acting).
+Toledo District—A. V. Campbell.
+
+District Officer, Belize—W. A. Johnston.
+Accountant General—A. N. Gibson.
+Director of Agriculture—(Vacant).
+Senior Agricultural Officer—A. N. C. Thomas.
+Principal Auditor—N. B. Stalker.
+Director of Civil Aviation—L. C. Balderamos.
+Airport Manager—R. R. Romero.
+Registrar of Co-operatives—H. C. Usher.
+Comptroller of Customs and Harbour Master—E. L. Marshall.
+Assistant Comptroller of Customs—D. R. Bradley.
+Director of Education—(Vacant).
+Senior Education Officer—S. E. Daley.
+Conservator of Forests—A. C. Frith.
+Senior Assistant Conservator—R. M. Waters.
+Director of Housing and Planning—H. C. Fairweather, M.B.E.
+Assessor of Income Tax—A. A. Heustis, M.B.E.
+Director of Information and Communications—G. V. de Freitas.
+Chief Engineer, Information and Communications—A. H. Dickenson.
+Labour Commissioner—K. C. Dunn.
+
+Law Officers:
+Attorney-General—C. F. Henville, Q.C.
+Solicitor-General—D. K. H. McIntyre.
+Director of Medical Services—G. V. A. Griffith.
+Medical Officer of Health—J. A. Renean.
+Surgeon Specialist—B. Markowski.
+Commissioner of Police—B. H. Taylor.
+Superintendent of Police—C. A. Howell.
+Postmaster-General—P. M. Ewing.
+Government Printer—W. A. Hoare, M.B.E.
+Superintendent of Prisons—M. L. Chevez.
+Director of Public Works—D. Peacock.
+Executive Engineer—D. S. Manning.
+Registrar-General—C. A. B. Ross.
+Social Development Officer—S. F. Smith.
+Director of Surveys—J. A. Waight.
+Commandant, Volunteer Guard—Lt.-Colonel D. N. A. Fairweather, M.B.E., E.D.
+Librarian, Jubilee Library—L. H. Bradley.
+
+JUDICIARY
+Chief Justice—C. de L. Inniss.
+Magistrate (Belize)—S. A. Hassock.
+

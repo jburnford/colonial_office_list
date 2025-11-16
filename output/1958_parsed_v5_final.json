@@ -1,0 +1,273 @@
+{
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1958/olmocr_results.json",
+  "year": 0,
+  "total_colonies": 38,
+  "colonies": [
+    {
+      "colony_name": "BAHAMAS",
+      "year": 0,
+      "start_line": 2854,
+      "end_line": 2858,
+      "char_count": 227
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 0,
+      "start_line": 2858,
+      "end_line": 2862,
+      "char_count": 242
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 0,
+      "start_line": 2862,
+      "end_line": 2866,
+      "char_count": 235
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 0,
+      "start_line": 2866,
+      "end_line": 2870,
+      "char_count": 156
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 0,
+      "start_line": 2870,
+      "end_line": 2874,
+      "char_count": 187
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 0,
+      "start_line": 2874,
+      "end_line": 2878,
+      "char_count": 198
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 0,
+      "start_line": 2878,
+      "end_line": 2886,
+      "char_count": 427
+    },
+    {
+      "colony_name": "LEEWARD ISLANDS",
+      "year": 0,
+      "start_line": 2886,
+      "end_line": 2888,
+      "char_count": 17
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "year": 0,
+      "start_line": 2888,
+      "end_line": 2892,
+      "char_count": 165
+    },
+    {
+      "colony_name": "MONTSERRAT",
+      "year": 0,
+      "start_line": 2892,
+      "end_line": 2904,
+      "char_count": 512
+    },
+    {
+      "colony_name": "WINDWARD ISLANDS",
+      "year": 0,
+      "start_line": 2904,
+      "end_line": 2906,
+      "char_count": 18
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 0,
+      "start_line": 2906,
+      "end_line": 2914,
+      "char_count": 316
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 0,
+      "start_line": 2914,
+      "end_line": 2918,
+      "char_count": 175
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 0,
+      "start_line": 2918,
+      "end_line": 2922,
+      "char_count": 166
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 0,
+      "start_line": 2922,
+      "end_line": 2925,
+      "char_count": 164
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 0,
+      "start_line": 2925,
+      "end_line": 2940,
+      "char_count": 525
+    },
+    {
+      "colony_name": "UGANDA",
+      "year": 0,
+      "start_line": 2940,
+      "end_line": 3377,
+      "char_count": 45447
+    },
+    {
+      "colony_name": "ADEN",
+      "year": 0,
+      "start_line": 3377,
+      "end_line": 4217,
+      "char_count": 61608
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 0,
+      "start_line": 4217,
+      "end_line": 4220,
+      "char_count": 46
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 0,
+      "start_line": 4220,
+      "end_line": 4433,
+      "char_count": 17648
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 0,
+      "start_line": 4433,
+      "end_line": 4572,
+      "char_count": 4467
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 0,
+      "start_line": 4572,
+      "end_line": 5064,
+      "char_count": 28051
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 0,
+      "start_line": 5064,
+      "end_line": 5721,
+      "char_count": 44157
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 0,
+      "start_line": 5721,
+      "end_line": 6526,
+      "char_count": 48211
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 0,
+      "start_line": 6526,
+      "end_line": 6841,
+      "char_count": 25395
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 0,
+      "start_line": 6841,
+      "end_line": 7212,
+      "char_count": 25993
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 0,
+      "start_line": 7212,
+      "end_line": 7465,
+      "char_count": 15062
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 0,
+      "start_line": 7465,
+      "end_line": 7933,
+      "char_count": 27604
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 0,
+      "start_line": 7933,
+      "end_line": 9145,
+      "char_count": 81746
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 0,
+      "start_line": 9145,
+      "end_line": 10183,
+      "char_count": 76772
+    },
+    {
+      "colony_name": "NORTH BORNEO",
+      "year": 0,
+      "start_line": 10183,
+      "end_line": 11449,
+      "char_count": 87893
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 0,
+      "start_line": 11449,
+      "end_line": 11695,
+      "char_count": 12435
+    },
+    {
+      "colony_name": "ASCENSION",
+      "year": 0,
+      "start_line": 11695,
+      "end_line": 12055,
+      "char_count": 32463
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 0,
+      "start_line": 12055,
+      "end_line": 12362,
+      "char_count": 21604
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 0,
+      "start_line": 12362,
+      "end_line": 14050,
+      "char_count": 136939
+    },
+    {
+      "colony_name": "UGANDA",
+      "year": 0,
+      "start_line": 14050,
+      "end_line": 15690,
+      "char_count": 123577
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "year": 0,
+      "start_line": 15690,
+      "end_line": 18807,
+      "char_count": 213932
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "year": 0,
+      "start_line": 18807,
+      "end_line": 19707,
+      "char_count": 63823
+    }
+  ]
+}

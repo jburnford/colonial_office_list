@@ -1,0 +1,145 @@
+KINGDOM OF TONGA
+
+Area
+
+The total estimated area of the Tongan, or Friendly, Islands is 270 square miles, including inland waters. Tongatapu, the largest island, extends over 99·2 square miles.
+
+Population
+
+Population, as recorded in the 1956 Census, numbered 56,838, over 55,000 being Tongans. At the end of 1962 the population was estimated to be 67,495.
+
+Principal Town
+
+The administrative capital is Nuku’alofa on Tongatapu. Its population at the 1956 Census was 9,202.
+Geographical Features
+
+There are three main groups of islands: Vava'u, Ha'apai and Tongatapu. The islands on the eastern side are of coral formation while the chain on the west are volcanic. There are active volcanoes on four of the islands.
+
+Climate
+
+The climate is healthy, though hot and humid from January to March with temperatures of 90°; during the rest of the year it is pleasantly cool with temperatures as low as 52° on Tongatapu. The mean annual temperature is 73°; the mean annual rainfall is 70 inches on Tongatapu and 110 inches on Vava'u.
+
+History
+
+During the first half of the nineteenth century the islands were the scene of civil wars. These were finally checked during the reign of King George Tupou I (1845-93) who had by conquest gathered all power in his own hands.
+
+In 1826 Wesleyan missionaries landed on Tonga and by the middle of the century practically all the chiefs and people had embraced Christianity. Not until the last decade of the century, however, were questions regarding freedom of worship and the relationship of Church and State peaceably settled. In 1900, by a Treaty of Friendship and Protection, Tonga became a British Protected State. On the 26th August 1958 a new Treaty of Friendship was signed at Nuku'alofa, where it was ratified on the 25th May 1959. This new Treaty reflects the changes which have occurred in the last half century. Tonga continues to be a State under British Protection but has increased local autonomy, and while in general external relations remain the responsibility of the United Kingdom, certain aspects of these relations will be conducted by the Government of Tonga.
+
+Constitution
+
+The present constitution is based, with relatively little amendment, on that granted in 1875 by King George Tupou I. It provides for a Government consisting of the Sovereign (at present Queen Salote Tupou, G.C.V.O., G.B.E.) a Privy Council and Cabinet, a Legislative Assembly and a Judiciary. The Legislative Assembly consists of the Premier and Ministers of the Crown (including the Governors of Vava'u and Ha'apai), seven representatives of the nobles elected by their peers, and seven representatives of the people elected by popular franchise, every Tongan of 21 years of age who pays taxes and can read and write being qualified to vote. In 1960 for the first time women were included, and held a vote, in the election of Legislative Assembly members. Several women also stood for election but were defeated at the polls. Elections are held every three years. The President of the Legislative Assembly is the Speaker, appointed by the Sovereign. The courts consist of a Supreme Court, a Magistrate's Court and a Land Court. By Order in Council No. 458 of 1952 the responsibilities of the High Commissioner for the Western Pacific in respect of the Kingdom of Tonga were transferred with effect from the 1st April 1952 to the Governor of Fiji, in his personal capacity, who acts through Her Britannic Majesty's Commissioner and Consul in Tonga. Under the revised Treaty the Governor of Fiji, in his relations with Tonga, is known as the United Kingdom Chief Commissioner for Tonga. British and foreign nationals charged with any offence against the laws of Tonga, for the enforcing of which the Minister of Police is responsible, not including crimes punishable by death or imprisonment for over two years, are subject to the jurisdiction of the Tonga courts. On the 18th August 1961 Queen's Regulation No. 1 of 1961 made in accordance with the provisions of sections 3 and 5 of the Tonga Order in Council, 1952 came into effect and the jurisdiction of the High Commissioner's Court in Tonga ceased. The Tonga (Amendment) Order in Council No. 1505 of 1961 came into operation on the 1st September 1961 thereby completing the transfer of jurisdiction to the Supreme Court of Fiji. The extent of this jurisdiction is in accordance with Article VII of the 1958 Treaty of Friendship.
+
+Land
+
+Every male Tongan on reaching the taxable age of 16 years is entitled to 8½ acres of land for cultivation in addition to a small village allotment of 1 rd. 24 perches for his dwelling.
+
+Land may not be leased to non-Tongans without the consent of the Government. Immigrant settlement is not encouraged owing to the increasing shortage of land available for tax allotments and local purposes.
+
+Taxation
+
+For the allotments described in the preceding paragraph an annual tax of 8s. a year is paid and in addition an annual tax of 32s., for which free education, medical, hospital and dental treatment are provided. Indirect taxation includes import duties (general tariff 33½% ad valorem, British preferential tariff 15% ad valorem) and a Port and Customs Service tax on imports of 5%. There is also an export duty on copra of 10% of the f.o.b. value at date of export.
+
+| Year    | Revenue (£Tongan) | Expenditure (£Tongan) |
+|---------|------------------|----------------------|
+| 1957-58 | 739,905          | 744,049              |
+| 1958-59 | 704,661          | 786,239              |
+| 1959-60 | 733,528          | 800,870              |
+| 1960-61 | 728,374          | 811,092              |
+| 1961-62 | 625,576          | 749,537              |
+| 1962-63*| 759,573          | 759,573              |
+
+* Revised Estimate.
+
+About 60 per cent. of revenue accrues from Customs duty. The main heads of expenditure are Public Works, Medical, Miscellaneous, Education and Agriculture. The financial year commences on 1st July. There is no Public Debt, and surplus funds account stood at £T784,838 on the 30th June 1962.
+
+Currency
+
+The Tonga £ has the same official exchange value as the Australian £ (£1 sterling = £A1.5s. Od.). The note issue is of denominations of £5, £1, 10s. and 4s.; the main tender status coinage in use is Australian, though United Kingdom, New Zealand and Fiji coins are also in circulation.
+
+Education
+
+In 1961 there were 157 primary schools (80 State schools and the remainder run by Missions); post-primary education is in the hands of three Govern-
+ment and 25 Mission schools. In 1962 the total attendance at primary schools was 15,975; at post-primary schools 4,786. Estimated government expenditure on education (exclusive of buildings and building maintenance) amounted to £(Tongan)118,628 in 1963-64 compared with £6,602 in 1941-42.
+
+Health
+
+The Government of Tonga Medical Department operates three public hospitals and a number of dispensaries. In 1962—4,073 in-patients and 56,368 out-patients were treated at the three Government hospitals. Estimated Government expenditure on medical services (exclusive of buildings and building maintenance) amounted to £(Tongan)100,107 in 1963-64 as compared with £7,006 in 1936-37.
+
+Communications
+
+There is a good aerodrome on the island of Tongatapu some 15 miles from Nuku'alofa, and limited seaplane facilities at Nuku'alofa and Vava'u harbours. Fiji Airways Limited operate a weekly schedule with Heron aircraft between Fiji and Tongatapu.
+
+There are approximately 91 miles of metalled road in Tongatapu and 41 miles in Vava'u suitable for motor traffic. There are some 233 miles of unsealed roads which are only usable by motor traffic in dry weather.
+
+The chief ports, which are also ports of entry, are Nuku'alofa and Neiafu on Vava'u. In 1962 Nuku'alofa entered 203,402 and cleared 168,596 tons of shipping, and Vava'u entered 819 and cleared 37,254 tons of shipping. Ha'apai was a port of entry for Bank Line vessels only uplifting copra and vessels entered amounted to 6,642 tons. Few ships now enter at Vava'u owing to the local restrictions to control the Rhinoceros beetle, a coconut pest found now in the northerly islands of the Group. A regular monthly passenger and cargo service from New Zealand via Fiji is maintained by the Union Steam Ship Company of New Zealand. Regular cargo services are maintained by vessels of the Bank Line and the Union Steam Ship Company. The former lift copra for the United Kingdom and the latter discharge general cargo from Australia and United Kingdom transhipment cargo from Fiji. Occasional vessels of the Pacific Islands Transport Line—a Norwegian firm—call to discharge timber from Canada.
+
+The Tonga Shipping Agency has now been set up under the joint control of Government and the Tonga Copra Board. Agency vessels maintain regular internal services between islands of the group and a four-weekly passenger and cargo service with the Fiji Islands which lie on main shipping and aircraft routes between Australasia and the United Kingdom.
+
+Broadcasting
+
+Broadcasting is administered by the Tonga Broadcasting Commission. The studios are in Nuku'alofa and the transmitter at Fongoloa, about one mile away. The station (ZCO), known as "The Call of the Friendly Islands" was opened by Her Majesty Queen Salote Tupou on 4th July 1961. The station broadcasts for 6½ hours each week day in English and Tongan on medium wave with a transmitter of 10 kws on a frequency of 1020 kc/s, and can be heard also in New Zealand, Fiji, Norfolk Island, Samoa and Niue. The station also broadcasts in Samoan one night a week. Commercial advertising is accepted in English and Tongan. The output of the station consists of locally originated programmes including traditional Tongan music and spoken word, news bulletins and weather forecasts.
+
+Principal Occupations
+
+Tonga is essentially an agricultural country, and, in general, a land of peasant proprietors. A minute proportion of the population seeks employment in the Government Services, in the stores and European leaseholds. Increased employment opportunities are now occurring in stevedoring and development and building projects undertaken by Government, Produce Boards and a construction company.
+
+Main Crops and Products
+
+The main crops are coconuts, bananas, kumalas, yams, taro, cassava, groundnuts, candelanuts, maize, fungus, watermelons and pineapples.
+
+Livestock number in 1962: horses 8,114, cattle 2,536, goats 3,359, pigs 27,422, poultry 70,529.
+
+Limited areas of forest lands are found in the islands of 'Eua and Vava'u, but there are no exports of timber.
+
+There is an abundance of fish in the waters of the Group which provides a constant fish diet for the inhabitants.
+
+The only manufacturing industry in Tonga is one for the expressing of juices from citrus, pineapple and passion fruits.
+
+Trade
+
+| Year | Total Imports (£ Tongan) | Total Exports (£ Tongan) |
+|------|--------------------------|-------------------------|
+| 1958 | 1,618,666                | 1,210,590               |
+| 1959 | 1,669,063                | 1,860,499               |
+| 1960 | 1,650,188                | 1,696,676               |
+| 1961 | 1,424,201                | 1,374,658               |
+| 1962 | 1,229,813                | 833,257                 |
+
+In 1938 19% of imports came from the United Kingdom, 59% from other Commonwealth countries and 22% from foreign countries. The corresponding figures in 1962 were 16·78%, 71·62% and 11·60%.
+
+In 1938 91% of exports went to the United Kingdom, 7% to other Commonwealth countries and 2% to foreign countries. The corresponding figures in 1962 were 46·7%, 31·8% and 21·6%.
+
+Principal Exports by Quantity and Value
+
+| Item   | 1938 | 1961 | 1962 |
+|--------|------|------|------|
+| Copra  | tons | 12,428 | 17,411 | 8,690 |
+|        | £ Tongan | 79,799 | 1,158,428 | 555,003 |
+| Bananas| cases | 10,825 | 119,652 | 153,238 |
+|        | £ Tongan | 3,507 | 147,714 | 195,605 |
+
+The chief imports are drapery and textiles, flour, preserved meats, sugar, hardware, soap, motor spirit, kerosene, spirits, beer and wines, tobacco and cigarettes.
+Marketing and Co-operative Organizations
+
+The Tonga Copra Board and the Tonga Produce Board, established under the provisions of the Agriculture Organization Act, 1940, both of which are non-profit-making concerns, are charged with purchase, sale and marketing in the interests of the producers. There are no co-operative societies.
+
+MINISTERS
+
+Premier, Minister of Foreign Affairs, Minister of Agriculture, Minister of Education and Minister of Works—H.R.H. Prince Tupouto'a-Tungi, K.B.E.
+
+Deputy Premier, Minister of Health, and Minister of Lands—H.R.H. Prince Fatafehi Tu'ipelehake.
+
+Minister of Police—Hon. Manoa Havea.
+
+Minister of Finance—Hon. Mahe U. Tupouniua.
+
+Minister without Portfolio—Hon. Afu Taumoepeau.
+
+Governor of Vava'u—Hon. Laufilitonga Tuita.
+
+Governor of Ha'apai—Hon. Vaea.
+
+BRITISH COMMISSIONER AND CONSUL
+
+E. J. Coode.
+

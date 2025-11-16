@@ -1,0 +1,720 @@
+
+BRITISH GUIANA.
+
+This Colony is a portion of the South American Continent, extending from east to west about 200 miles. It includes the settlements of Demerara, Essequebo, and Berbice. It is bounded on the east by Dutch Guiana, from which it is divided by the River Corentyn, on the south by Brazil, on the west by Venezuela, and on the north and northeast by the Atlantic Ocean.
+
+This territory was first partially settled by the Dutch West India Company in 1580. It was from time to time held by Holland, France, and England. It was restored to the Dutch in 1802, but in the following year retaken by Great Britain, to whom it was finally ceded in 1814.
+
+It is impossible to determine the exact area of the Colony, as its precise boundaries are undetermined between Venezuela and Brazil respectively but it has been computed to be 76,000 square miles.
+
+Under the Dutch, Demerara and Essequebo constituted one Government, and Berbice another, which arrangement indeed continued in force under the British Administration down to the year 1831.
+
+The constitution of the Colony of Berbice dates from the year 1792; under it the Governor was nominated by the Directors of the Mercantile Body called the Berbice Association, and was assisted by a council of six; any vacancy occurring being filled by the Governor's selection of one out of two nominations submitted by the remaining councillors. In the year 1817, however, an order was made by the Prince Regent in Council, requiring three nominations to be made in lieu of two for the Governor's selection, and also declaring that if no such nomination were made in fourteen days, the Governor should be entitled to appoint absolutely to the vacancy. In 1826 an order of the King in Council was issued, dissolving the then Council of Government, appointing another, and thenceforward vesting the right of appointing to vacancies in the Governor as representing the Crown.
+
+The Court of Policy for Demerara appears to have been established in 1778, and in 1789 that for Essequebo merged into it, and the seat of Government for the United provinces was established at Stabroek, the site of the present capital, Georgetown; in these circumstances, disputes having arisen between the Colonists and the local Government, and West India Company, as to the right of appointing the colonial members of the Court of Policy, in the year 1788, a provisional "Plan of Redress," as it was termed (being in fact the draft of a new constitution), was framed by a Committee of the States-General, to whom had been referred sundry petitions of the Colonists. This being approved of, a commission was despatched by the States-General to the Colony, and on their arrival in 1789 they dissolved the then existing Government, and established a new one.
+for the conjoined Colonies upon the basis of the scheme in question, which continued in operation, notwithstanding the captures of the Colony by the British in 1796 and in 1802, and its cession in 1803, the Articles of Capitulation having stipulated that the laws, usages, and institutions of the Colony should be maintained as before. It is, therefore, advisable now to advert to the leading provisions of that document.
+
+The Council or Court of Policy was to consist of 1st, The Director-General; 2, The Commander of Essequibo; 3, The Fiscal of Essequibo; 4, The Fiscal of Demerara; 5 and 6, two Colonists from Essequibo; 7 and 8, two Colonists from Demerara.
+
+The unofficial Members were to be chosen "from among the principal, most capable, and most religious inhabitants, above twenty-five years of age, professing the Protestant religion, and perfectly acquainted with the Dutch language, and who had resided at least three years within the Colony." It will be essential to bear in mind that no other definition of the qualification of a Member of the Court of Policy has existed to this moment, inapplicable as the preceding obviously is to the altered state of things. There was in addition a provision against the eligibility of parties within certain degrees of consanguinity, which however, has been practically disregarded.
+
+By a Proclamation of Governor Beaujon in 1796 it was enacted that any person duly elected and declining to serve, should be liable to a penalty of three thousand guilders, unless he had served within two years next preceding his election.
+
+In the first instance, the unofficial portion of the Council was to be chosen from a double nomination by the Colleges of Kiezers or Electors, of which there were two, one for each Colony,* each consisting of seven Members, elected by a majority of the votes of the inhabitants possessing not fewer than twenty-five slaves, such votes to be in writing and signed by the voter. The tenure of the Office of Kiezer, as subsequently defined by Proclamation of Sir Benjamin D'Urban in 1831, was to be for life, unless the party resigned, or ceased to be an inhabitant. The Kiezers, before proceeding to a nomination, were to be sworn to the faithful discharge of their office before the Director-General, a ceremony which continued to be observed before the Governor until the passing of Ordinance No. 16 of 1864.
+
+A periodical change in the constitution of the Council or Court of Policy was secured by providing that the Senior Colonial Member should retire yearly.
+
+The Director-General was to be allowed a double vote, and the Secretary of Demerara was to be the "Minister of the Court of Policy."
+
+Such seems to have been the original Legislative Constitution of the Colony. We now come to the occasion on which what are termed "Financial Representatives" were added.
+
+It appears that in 1795 it was deemed necessary, during a period of some confusion, to introduce four members "commissioned" by the Colleges of Electors of both Colonies to have jointly with the Court of Policy the administration of the public funds.† In the following year, however, Governor Beaujon thought fit to annul that arrangement, and to enact that to secure to the inhabitants a more ample representation at the raising of taxes, in lieu of the four above-men-
+
+* Demerara and Essequibo only are here alluded to.
+† Beaujon's Procl., Loc. Guide.
+
+tioned, there should be six inhabitants adjoined to the Governor and Court of Policy, three from each Colony, to be elected by the inhabitants qualified as in the case of Kiezers, and to serve for two years, but whose powers should be strictly limited to the raising, with the Court of Policy, Colony taxes, and examining also with that body the public accounts.
+
+Beaujon's proclamation, however, was materially modified, though without affecting the definition of the duties of the financial representatives, by a proclamation of Acting Governor Carmichael in 1812, consolidating the two Colleges of Kiezers and Financial Representatives. This proceeding remained operative, though unconfirmed by the Crown, until 1831, when Sir Benjamin D'Urban became Governor of the United Colony, and it was annulled by a Royal Instruction restoring the pre-existing arrangement, and extending the right of suffrage to the inhabitants of Berbice.
+
+Such is the state of things which has remained up to the present time, with the exception, in regard to the franchise hereafter to be noticed, and from which the inference seems to be clear that the Financial Representatives had, and have, no authority whatever, except by express permission from the Crown, to discuss any item upon the estimate so as to alter its amount, although they might refuse to include any sum to which they objected in their calculations of the funds necessary to be raised by taxation.*
+
+The inherent right of the Financial Representatives to exercise this power, has been, however, strongly maintained by the Colonial Members upon all occasions, and this has led to collisions between the Executive and Elective section of the Court.† The position they assume is based upon the construction of certain passages in a decree of the States-General, dated 27th August, 1788, to the effect that "the contributions for the Colonial Chest are to be regulated by the inhabitants themselves," and in the instructions issued to Director-General Van Grovestein in 1793, "He will take care not to leave the administration of the Colony Chest wholly to the Colony Members of the Court of Policy, but will thereto admit a great number of the Colonists, for example the 'Kiezers of both rivers,' and also upon the nature of certain entries in the Minutes from 1798 to 1806. They do not appear to bear out the claim of right which has been founded upon them, since the evidence throughout seems to proceed upon the assumption that due provision has been previously made for the Sovereign's Chest, which is represented by the modern Civil List.
+
+The foregoing is a succinct but sufficiently accurate sketch of the Legislative Constitution, as it existed up to the year 1849, when the first step in the process of amelioration was affected by the passing of the Ordinance, No. 15, for regulating the elective franchise, and dividing the Colony into Electoral districts.
+
+The great principle of the whole system of Government is evidently centralization. Until the year 1826, there existed not even local subdivisions of the Colony. Demerara and Essequibo were then divided into ten Parishes, and the
+
+* During the discussions on the Civil List in 1848-9, it was suggested by some of the Elective Section to adopt this course, leaving upon the Governor the responsibility of paying the difference between the sums fixed and the amount provided.
+
+† Proceedings relative to the Functions of the Financial Representative, 1832.
+same process was subsequently applied to Berbice. This arrangement, however, was simply ecclesiastical, involving no civil authority or jurisdiction, for the Members of the Vestries constituted to administer them, were, and still are, nominated from time to time by the Court of Policy, while the combined Court grants the only funds at their disposal whether for maintenance of the fabric, or support of the poor, exclusive of what trifling income may be derived from the seat rents of the churches.
+
+It was not until 1837 that the first municipal body was incorporated, nor has the principle since been materially extended in its application, although some advance has undoubtedly been made.
+
+In the year 1855, under the administration of Sir Philip Wodehouse, an Ordinance was passed to alter and amend the Political Institutions of the Colony, but it was not approved by Her Majesty. Since that time no legislation has been attempted in the same direction until the passing of Ordinance No. 1 of 1864, which, however, is a mere declaratory act, defining the meaning of the term "Colonist," as employed in the "Plan of Redress" above noticed; and Ordinance No. 16 of 1864, to remove some difficulties in the exercise of the functions of the College of Electors.
+
+The Constitution may be summed up very briefly. It consists of a Governor, Court of Policy, and a Combined Court. The functions of an Executive and Legislative Council and House of Assembly are performed by the Governor and Court of Policy, except as regards taxation and finance, which are dealt with by the Combined Court, composed of the Governor and Members of the Court of Policy, combined with the six Financial Representatives. The Court of Policy passes all laws and ordinances, except the Annual Tax Ordinance, which is passed by the Combined Court.
+
+The Court of Policy is composed of five official and five elective members. The official members are the Governor, the Attorney-General, the Government Secretary, the Auditor-General, and the Immigration Agent-General. The elective members are chosen as follows:—When a vacancy occurs the seven Kiezers, who are chosen for life, meet and submit to the Court of Policy the names of two persons, from whom one is selected by the Court.
+
+The Colony is divided into five Electoral Divisions, each of which has its Kiezer or Kiezers chosen for life, and one or more Financial Representatives, elected for two years, and eligible for re-election.
+
+| Electoral Division | Registered Representatives | Electors |
+|--------------------|---------------------------|---------|
+| County of Demerara  | 2 Kiezer                  | 1       |
+| City of Georgetown  | 1                         | 1       |
+| County of Essequibo | 2                         | 2       |
+| County of Berbice   | 1                         | 1       |
+| Town of New Amsterdam | 1                       | 1       |
+| **Total**           | **7**                     | **6**   |
+
+In the Colony of British Guiana the Roman Dutch law is in force in civil cases, modified by Orders in Council and local Ordinances; the Criminal Law is now based on that of Great Britain, and is administered in the same manner, except that there is no Grand Jury.
+
+The Registration of Births and Deaths was established in the Colony by Ordinance No. 10 of 1868.
+
+### Revenue and Expenditure
+
+| Year | Revenue (£) | Expenditure (£) |
+|------|------------|-----------------|
+| 1868 | 290,881    | 297,849         |
+| 1869 | 311,377    | 293,636         |
+| 1870 | 354,131    | 325,855         |
+| 1871 | 379,647    | 388,053         |
+| 1872 | 449,060    | 391,219         |
+| 1873 | 861,932    | 389,990         |
+| 1874 | 805,457    | 381,103         |
+| 1875 | 852,136    | 355,979         |
+| 1876 | 863,807    | 343,730         |
+| 1877 | 889,871    | 380,565         |
+| 1878 | 409,259    | 417,995         |
+
+Public Debt, 31 December, 1878, £27,800.
+
+### Local Finance
+
+#### Revenue and Expenditure of Incorporated Towns and Villages
+
+| Year | Revenue (£) | Expenditure (£) |
+|------|------------|-----------------|
+| 1877 | 48,290     | 47,027          |
+
+Aggregate Debts of Public Bodies guaranteed by the Colony, "for the most part amply secured." £276,487.
+
+### Total Value of Imports and Exports
+
+| Year | Value (£) |
+|------|----------|
+| 1868 | 1,618,878 |
+| 1869 | 1,572,275 |
+| 1870 | 1,572,275 |
+| 1871 | 1,897,183 |
+| 1872 | 2,013,553 |
+| 1873 | 1,764,571 |
+| 1874 | 1,873,219 |
+| 1875 | 1,837,151 |
+| 1876 | 1,983,165 |
+| 1877 | 2,229,908 |
+| 1878 | 2,150,714 |
+
+Population in 1871, total 198,491.
+
+Estimated on 31 December, 1878, 232,686.
+
+| Natives of British Guiana | West India Islands | Madeira and Azores | Other places |
+|---------------------------|-------------------|-------------------|-------------|
+| 113,570                   | 18,885            | 7,925             | 9,635       |
+
+Immigrant Population on Estates, 1878.
+
+| Race          | Under Indenture | Not under Indenture |
+|---------------|-----------------|---------------------|
+| Indians       | 22,209          | 31,577              |
+| Chinese       | 660             | 2,544               |
+| Africans and others | 25        | 3,074               |
+| **Totals**    | **22,884**      | **37,195**           |
+
+The aboriginal Indians were estimated in 1851 at about 7,000; but Mr. M'Clintock, Superintendent of Rivers and Creeks, an undoubted authority on the subject, carries the number as high as 20,000 or 21,000, but the numbers of the tribes within the British territories vary, and are at all times very uncertain.
+
+List of Governors who have administered the Government of British Guiana since the union of the three Provinces of Demerara, Essequebo, and Berbice in 1851.
+
+Maj.-Gen. Sir Benjamin D'Urban 21 July 1831
+Major-General Sir James Carmichael Smyth (Lieutenant-Governor) 26 June 1833
+Ditto (appointed Governor) 27 Dec. 1836
+Sir Lionel Smith 28 May 1835
+
+* The revenue and expenditure here is exclusive of the sums raised for and expended on immigration by the planters.
+Sir James Carmichael Smyth (resumed) 17 June 1835
+
+Henry Light, Esq. .............................................. 27 June 1838
+W. Walker, Esq. (acting) ....................................... 20 May 1848
+Sir Henry Barkly ............................................... Dec. 1848
+Sir P. E. Wodehouse ......................................... 23 May 1854
+W. Walker, Esq. (acting) ....................................... 25 July 1857
+Sir P. E. Wodehouse .......................................... 10 May 1858
+W. Walker, Esq. (acting) ....................................... 9 May 1861
+Sir F. Hincks ..................................................... 7 Jan. 1862
+Major Robert M. Mundy (Lt.-Gov.) ......................... 29 May 1866
+Sir F. Hineks, K.C.M.G., C.B. .............................. 12 Aug. 1867
+Sir John Scott, K.C.M.G. ................................... 25 Jan.
+
+1869 to 26 Dec. 1873
+
+E. E. Rushworth, Esq., D.C.L., C.M.G.
+
+(Administrator) ............................................... 27 June 1873
+Sir J. R. Longden, K.C.M.G. ................................. 10 Mar. 1874
+William A. G. Young, C.M.G.
+
+(Administrator) ............................................... 8 Mar. 1877
+C. H. Kortright, Esq., C.M.G. .............................. 3 Aug. 1877
+William A. G. Young, Esq., C.M.G.
+
+(Lieutenant-Governor) ..................................... 6 April 1879
+
+Court of Policy.
+
+President. The Governor.
+
+Members:
+
+W. F. H. Smith, Attorney-General.
+W. A. G. Young, C.M.G., Government Secretary.
+P. H. Nind, Auditor-General.
+J. Crosby, Immigration Agent-General.
+R. P. Drysdale.
+Charles Bascom.
+H. K. Davson.
+William Russell.
+Josias Booker.
+
+Secretary, The Government Secretary.
+
+Clerk, The Assistant ditto.
+
+Financial Representatives.
+
+W. F. Bridges ............................................ T. H. Glennie.
+D. C. Cameron, jun. ........................................ W. F. Bridges.
+A. J. Pitman ................................................... D. C. Cameron.
+
+College of Electors.
+
+S. B. Trotman ............................................... W. S. Arnold.
+A. W. Perot .................................................. H. M. A. Black.
+A. B. Trotter ................................................... G. L. Davson.
+J. S. Gordon.
+
+Civil Establishment.
+
+Governor, C. H. Kortright, C.M.G., 5,000l.
+Private Secretary, C. J. Forbes, 300l.
+Aides-de-Camp, C. P. Austin.
+Colonel Elliott, C.B.
+
+Government Secretariat.
+
+Government Secretary, William A. G. Young, C.M.G., 1,500l. (Lieutenant-Governor of the Colony).
+Assistant ditto, G. Melville, 400l.
+Clerks, F. W. Collier, 300l.
+C. T. Cox, 150l.
+W. D. Young, 100l.
+
+Audit Office.
+
+Auditor-General, P. H. Nind, 1,000l.
+Clerks in Audit Office:—
+
+1st, J. L. Backer, 400l.
+2nd, A. Fraser, 291l. 13s. 4d.
+3rd, J. Veecoock, 250l.
+4th, F. Winter, 208l.
+5th, G. Oudkerk, 125l.
+
+Treasury.
+
+Receiver-General, C. P. Austin, 1,000l.
+Assistant Receiver-General and Assistant Government Secretary for Berbice, Denis Gallagher, 600l.
+Bookkeeper, 500l.
+Clerks to Receiver-General, Georgetown:—
+
+1st, A. A. Burrowes, 416l.
+2nd, C. B. Hamilton, 375l.
+3rd, F. A. S. Lambert, 291l. 13s. 4d.
+4th, O. E. Swain, 250l.
+5th, F. Choppin, 208l. 2s. 6d.
+6th, D. C. Y. Hill, 166l. 13s. 4d.
+
+Commissary Department.
+
+Chief Commissary, W. S. Turner, 600l.
+
+Commissaries:
+
+T. N. King.
+J. R. L. Cruikshank.
+F. E. King.
+F. Harcourt.
+T. Fitzgerald.
+H. S. Burrowes.
+J. Haly.
+J. C. Lang.
+E. G. Anderson.
+A. L. Layton.
+G. S. Younge.
+R. C. Tucker.
+J. Solomon.
+T. Fraser.
+
+Assistant Commissaries:
+
+R. L. Greaves.
+H. Gilderdale.
+
+Customs.
+
+Comptroller of Customs and Rum Duties, and Registrar of Shipping, H. W. Austin, 1,000l., and about 85l. fees.
+
+First Clerk, T. Hubbard, 400l.
+Second " " C. N. Silas, 250l.
+Third " " E. M. de Groot, 250l.
+Fourth " " J. F. Bennett, 250l.
+Fifth " " G. E. P. Davis, 166l. 13s. 4d.
+Sixth " " A. J. Halliyeur, 100l.
+
+Out-door Supervisor of Aid Waiters, P. Cressall, 400l.
+
+Aid Waiters:
+
+F. G. K. Smith, 291l. 13s. 4d.
+W. Bristow.
+W. Harris.
+E. Bagot.
+G. M. Stack.
+J. Garraway.
+E. A. Hubbard.
+M. Eliazar.
+H. C. Van Genderen.
+C. Brummell.
+A. Winter.
+G. Oudkerk.
+A. E. Collier.
+D. S. Duff.
+A. R. Cox.
+
+Surveyor and Admeasurer of Shipping, Thomas Hubbard, fees.
+
+Clerk in Charge of Colonial Bonded Warehouse, J. A. Hancock, 350l.
+
+Assistant Clerks, T. Van Der Bergh.
+
+D. W. Moore.
+C. E. P. Swain.
+K. Houston, 100l.
+T. H. Erskine, 100l.
+Wharfinger, C. Cox, 250l.
+Delivery Clerk, E. H. Bowman, 150l.
+Gauger and Weigher, A. Hubbard, 291l. 18s. 4d.
+Sub-Comptroller at Berbice, J. T. Ibbott, 500l.
+Clerks, H. Sharpe, 200l.
+N. F. Rudder, 150l.
+Aid Waiter, F. Van Holst, 200l.; and 2 Assistants.
+
+Immigration Department.
+Agent-General, Jas. Crosby, 1,500l.
+Chief Sub-Immigration Agent, J. F. Trotter, 500l.
+Sub-Immigration Agents, C. B. King, 400l.; Geo. A. Taylor, 400l.; H. Read, 400l.; H. L. Straker, 400l.; F. Griffin, 400l.
+Chief Clerk—T. A. Bennett, 250l.
+Second Clerk, H. J. Gladwin, 183l.
+Third Clerk, 150l.
+Record Clerk and Madras Interpreter, S. Johnstone, 200l.
+Medical Officer to Department, J. P. Watt, M.D., 1,000l.
+Clerk to ditto, James Silas, 200l.
+Maru, W. J. Buhôt (acting), 600l.
+Highbury, J. Carney, 800l.
+East Canje, S. Leary, 900l.
+West Canje, A. D. Williams, M.D., 650l.
+Port Morant, W. Brebner, 600l.
+Corentyne Coast, T. H. Ford, 500l.
+Seldon, W. A. Mosely, 600l.
+Cotton Tree, J. T. Donnelly, 700l.
+Mahacony, H. G. Pereira, 600l.
+Mahaca, J. D. Hillis, 900l.
+Emmore and Victoria, H. G. Dalton, 900l.
+Buxton and Beeterverwagting, W. F. B. Pollard, 900l.
+Plaisance, F. H. Anderson, 900l.
+Georgetown, H. Hutson, 1,000l.
+Peter's Hall and Great Diamond, W. Watkins, 900l.
+Belle Vue, H. Hunter, 900l.
+Breed-en-Hoop, A. Finlayson, 1,000l.
+Leonora, M. Shannon, 1,000l.
+Philadelphia, E. H. Klien, 700l.
+Leguan, T. F. Pollard, 700l.
+Wakenaam J. Eneas, 600l.
+Wakenaam West,
+Aurora and Tiger Island, J. H. Forte, 700l.
+Queenstown, J. L. Veendam, 900l.
+Anna Regina, G. T. Dickson, 900l.
+Six Supernumeraries, at 300l. each,
+Drs. F. H. Edmonds, and W. Buhôt
+
+Emigration Agent at Calcutta, H. A. Firth, 1,600l.
+" Madeira, R. W. Sheffield, fees.
+" Barbados, J. M. Gaskin, 800l.
+(acting).
+
+Inspector-General of Police, N. Cox, 1,000l., and, 300l. as Supt. of Fire Brigade.
+Senior Inspector, P. H. R. Hill, 500l.
+Inspectors:—R. W. M. Bolton, J. T. Thorne, G. S. Lamb, C. L. Payne, W. Harragin, John Binns, J. D. Stevenson, R. B. Butts.
+
+Captain of Preventive Schooner, W. Walker, 250l.
+Clerk and Bookkeeper, E. S. Greaves, 250l. (acting).
+
+Post Office.
+Colonial Postmaster, N. Darnell Davis, 625l.
+Postmaster and Telegraph Clerk, Berbice, A. Evelyn, 250l.
+
+* These officers have travelling allowances.
+
+Clerk, E. D. Wight, 364l. 11s. 8d.
+Six other Clerks and six Sorters at salaries from 25l. to 250l. each.
+Telegraph Clerk, G. C. Benson, 312l. 10s.
+
+Harbours.
+Harbour-Master, Georgetown, C. E. Luckie, 500l.
+Harbour-Master at New Amsterdam, Alex Winter, fees.
+Health Officer, Georgetown, A. G. M. Cameron, M.D., 812l.
+Ditto, New Amsterdam, J. Leary, fees.
+Master Pilot, A. Duncan, fees.
+
+Poor.
+Chairman of Poor Law Board, Alexander Cameron, M.D., 100l.
+Inspector, A. Burrowes, 400l.
+Members:—Rev. Thomas Slater.
+A. B. Trotter.
+Godfrey.
+Surgeon of Alms House, J. S. Wallbridge, 200l.
+Superintendent of Alms Houses, W. W. Walton, 125l.
+
+Colonial Hospital, Demerara and Essequebo.
+Surgeon-General, E. A. Manget, 1,000l.
+Resident Surgeon, C. E. Macnamara, 600l.
+First Assistant Surgeon, F. L. Fisher, 416l. 13s. 4d.
+Second Assistant Surgeon, E. Leary, 416l. 13s. 4d.
+Secretary and Clerk of the Check, A. A. Burrowes, 292l.
+Dispenser, T. A. Spooner, 208l.
+Steward, A. D'Andrade, 250l.
+
+Hospital, Berbice.
+Visiting Physician, S. Leary (included in salary as District Medical Officer).
+Surgeon (vacant), 400l.
+Steward, 150l.
+Dispenser, E. Denby, 250l.
+
+Leper Asylum, Mahaca.
+Medical Attendant, Dr. J. D. Hillis (included in salary Mahaca District).
+Superintendent, 150l.
+
+Colonial Lunatic Asylum, Berbice.
+Superintendent, Dr. R. Grieve, 650l., and personal allowance 150l.
+Steward, 150l.
+
+Orphan Asylum.
+Superintendent, Rev. T. Veness, 500l.
+Medical Officer, J. S. Wallbridge, 100l.
+Master (vacant), 104l. 3s. 4d.
+Matron, Miss Fleming, 87l. 10s.
+
+Registration of Births and Deaths.
+Registrar-General, E. H. G. Dalton, 100l., in addition to salary as Registrar.
+First Clerk, William Vaughan, 200l.
+Second Clerk, H. Belasco, 125l.
+
+Education.
+Inspector of Schools, and Secretary to Board of Education, Rev. W. G. G. Austin, M.A., 1,000l., and 125l. for travelling expenses.
+Assistant Inspectors and District Educational Officers, A. H. Bartley, B.A., 400l., and H. A. Woodward, 300l., and travelling expenses.
+Queen's College: Principal, E. Percival, B.A., 700l. and 150l. for house.
+Second Master, 500l. and 100l. for house.
+Training Institution: Superintendent, E. J. R. Willcocka, 400l.
+
+Public Works.
+
+Colonial Civil Engineer, W. B. Pollard, 1,000l., and 162l. for travelling expenses and horse allowance.
+
+Assistant Civil Engineer and Surveyor, A. G. Thompson, 600l.
+
+Clerk of Works, W. J. Fowler, 450l.
+
+First Clerk and Draughtsman, E. Chalmers, 225l.
+
+Second Clerk, C. Castellani, 200l.
+
+Third ditto, G. Fox, 125l.
+
+Crown Lands Office.
+
+Crown Surveyor, T. G. Wight, 600l. (acting).
+
+First Assistant ditto, 450l.
+
+Second Assistant, W. Chalmers, 350l.
+
+First Clerk, 145l. 6s. 8d.
+
+Second Clerk, E. A. Pairaudouan, 104l. 3s. 4d.
+
+Prisons.
+
+Inspector of Prisons, Col. Elliott, C.B., 800l. and 200l. for travelling allowance.
+
+Town Agent for Prisons, C. T. Winter, 208l.
+
+Sheriff of Demerara, J. Brumell.*
+
+Keeper of the Georgetown Gaol, A. F. Pile, 350l.
+
+Clerk, J. A. Dunbar, 145l.
+
+Sheriff of Berbice, H. P. Plummer, 50l.†
+
+Keeper of the New Amsterdam Gaol, J. Lynch, 187l. 10s.
+
+Sheriff of Essequibo, H. Kirke, 50l.†
+
+Keeper of Essequibo Gaol, J. Blackman, 146l. 10s.
+
+Keeper of Fellowship Gaol, R. E. Scott, 125l.
+
+Convict Settlement, Massaruni.
+
+Superintendent of the Penal Settlement, Captain Fortescue, 850l.
+
+Assistant ditto, G. T. White, 300l.
+
+Surgeon, D. Kennedy, 600l.
+
+Chaplain, C. B. Seifferth, 500l.
+
+Clerk, J. Clark, 146l.
+
+Issuer, J. Craig, 150l.
+
+Judicial Establishment.
+
+Chief Justice and Judge of Court of Vice-Admiralty, Sir D. Chalmers, Kt., 2,500l.
+
+Puisne Judge, J. H. King, 1,500l.
+
+H. B. Semper, 1,500l.
+
+Attorney-General, W. F. H. Smith, 1,500l.
+
+Solicitor-General, N. Atkinson, 500l.
+
+Registrar of Vice-Admiralty Court, E. H. Dalton, fees Marshal, ditto, Capt. M. McLeod, fees.
+
+Crown Solicitor, R. W. Imlach, 400l.
+
+Registrar and Clerk of the Supreme Courts, Demerara and Essequibo E. H. Dalton, 833l.
+
+First Sworn Clerk and Notary Public, F. O. King, 500l.
+
+Second ditto ditto, A. B. Stewart, 365l.
+
+First Assistant Sworn Clerk, W. O'Meara, 275l.
+
+Second ditto ditto, W. P. Olton, 175l.
+
+Third ditto ditto, E. Abraham, 175l.
+
+Accountant, G. H. Schurer, 416l. 13s. 4d.
+
+Registrar of Berbice, 400l.
+
+Sworn Clerk and Notary Public, J. T. Egg, 200l.
+
+Administrator-General, H. Watson, 1,500l.
+
+Accountant and Bookkeeper, T. S. Halliday, 500l.
+
+1st Clerk to Administrator-General, A. Winter, 300l.
+
+2nd ditto ditto, H. L. Wight, 275l.
+
+3rd ditto ditto, E. G. Massiah, 200l.
+
+* Mr. Brumell receives a salary of 1,000l. as Police Magistrate of Georgetown, and Sheriff.
+
+† Messrs. Plummer and Kirke are also Stipendiary Magistrates.
+
+4th Clerk to Administrator-General, F. Verbeke, 200l.
+
+5th ditto ditto J. C. McWatt, 150l.
+
+6th ditto ditto, P. Dargan, 125l.
+
+Provost Marshal, Capt. McLeod, 625l.
+
+First Marshal, J. A. Daziel, 312l. 10s.
+
+Accountant, E. F. Chubb, 150l.
+
+Ordinary Marshals:
+
+C. C. Jones, 200l.
+
+A. Eburne, 200l.
+
+M. Taylor, 150l.
+
+J. Humphrys, 85l.
+
+J. R. O'Connell, 100l.
+
+Stipendiary Magistrates:
+
+H. Kirke, 800l., and 200l. travelling allowance.
+
+H. P. Plummer, 750l., and 150l. travelling allowance.
+
+P. A. Grant.
+
+E. Smith.
+
+H. C. Huggins.
+
+F. E. Dampier.
+
+F. M. Bury.
+
+J. Alves.
+
+Col. Foster Foster.
+
+G. H. Hawtayne.
+
+Clerks:
+
+M. W. Williams, 200l.
+
+J. Cleghorn, 200l.
+
+J. H. Humphrys, 200l.
+
+A. M. Abbott, 250l.
+
+C. Weddall, 200l.
+
+H. King, 200l.
+
+E. M. Beete, 200l.
+
+J. Edghill, 250l.
+
+John Bagot, 200l.
+
+C. E. Turton, 200l.
+
+Police Magistrate of Georgetown, and Sheriff of Co. Demerara, J. Brumell, 1,000l.
+
+Clerk and Special Justice of the Peace, W. Scow, 501l.; Clerks, W. A. Pickel, 208l. 6s. 8d.; G. Charpentier, 166l. 13s. 4d.
+
+Special Magistrate:
+
+Pomeroon, W. C. H. F. McClintock, 400l.
+
+Essequibo, M. McTurk, 400l.
+
+Demerara, H. Barclay, 400l.
+
+Militia.
+
+Adjutant-General, T. Daly, 100l.
+
+Adjutant of the Georgetown Militia, and for keep of horse (vacant), 300l.
+
+Bandmaster, J. Miller, 200l.
+
+Villages.
+
+Superintendent of Villages, T. Daly, 500l., and 125l. for travelling expenses.
+
+First Clerk, J. McL. Cleghorn, 150l.
+
+Second ditto, J. Glastford, 125l.
+
+Accountant, 125l.
+
+Two other Clerks.
+
+Ecclesiastical Establishments (Church of England).
+
+Lord Bishop, The Rt. Rev. W. P. Austin, D.D., 2,000l. (from Imperial Funds).
+
+Chaplains, Rev. W. G. G. Austin, M.A.
+
+Secretary and Registrar, Rev. H. J. May, fees.
+
+Rural Deans, Demerara, Rev. D. Smith.
+
+Essequibo, Rev. W. Austin.
+
+Berbice, Rev. F. W. Austin.
+
+Archdeacon, The Ven. F. J. Wyatt, R.D., 200l.
+
+Rector of St. George's Parish, F. J. Wyatt, 700l.
+
+Incumbent of Christ Church, J. Macdonald, M.A., 416l.
+
+St. Philip's, H. T. S. Castell, 416l.
+BRITISH GUIANA—BRITISH HONDURAS.
+
+Rector of St. Paul's Parish, Rev. T. Farrar, 500l.
+St. Matthew's, Rev. D. Smith, 500l.
+St. Swithin's, Rev. H. J. May, 500l.
+St. Peter's, Rev. H. Wickham, 500l.
+St. John's, Rev. W. Austin, 500l.
+Trinity, Rev. S. C. Hoare, 500l.
+All Saints, Rev. F. W. Austin, 500l.
+St. Michael's, Rev. T. B. Milner, 500l.
+St. Patrick's, G. H. Butt, 500l.
+
+14 Curates, 500l. each, viz.:
+St. Augustine's, Rev. T. F. Moulder
+St. Mark's, A. Hitchens.
+St. James's, A. Gwyther.
+St. Bartholomew's, W. H. Campbell.
+Trinity, S. Manning.
+St. Luke's, J. J. Large.
+St. Michael's, W. E. Drew.
+All Saints', F. P. Elliott.
+St. Patrick's,
+Demerara River, C. Dance.
+Berbice River, (vacant).
+St. George's, P. A. Stephenson.
+St. Mary's, W. Christopher.
+St. Margaret's, H. Humphrisshe.
+Missionary to Coolies, 300l.
+" Pomeroon Indians, W. Heard, 400l.
+" Essequebo Indians, 400l.
+
+Church of Scotland.
+
+Minister of St. Andrew's Parish, Rev. T. Slater 700l.
+Joint Minister of ditto, 416l.
+Minister of St. Mary's, J. Dickson, 500l.
+St. Mark's, T. Trotman, 500l.
+St. Luke's, F. A. Ross, 500l.
+St. James's, Rev. W. Harper, 500l.
+All Saints', J. Rannie, 500l.
+St. Catherine's, 500l.
+St. Clement's, Rev. J. Huskie, 500l.
+St. Saviour's (vacant), 500l.
+
+Roman Catholic Church.
+
+Bishop, The Right Rev. A. Butler, 2,500l. for support of the Church.
+
+Wesleyan Missionary Society.
+

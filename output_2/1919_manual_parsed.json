@@ -1,0 +1,407 @@
+{
+  "year": 1919,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1919/olmocr_results.md",
+  "total_colonies": 42,
+  "colonies": [
+    {
+      "colony_name": "AUSTRALIA",
+      "year": 1919,
+      "start_line": 3702,
+      "end_line": 4232,
+      "char_count": 66447,
+      "line_count": 531,
+      "filename": "AUSTRALIA.md"
+    },
+    {
+      "colony_name": "TASMANIA",
+      "year": 1919,
+      "start_line": 4292,
+      "end_line": 4298,
+      "char_count": 132,
+      "line_count": 7,
+      "filename": "TASMANIA.md"
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "year": 1919,
+      "start_line": 11606,
+      "end_line": 12011,
+      "char_count": 22492,
+      "line_count": 406,
+      "filename": "BAHAMAS.md"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 1919,
+      "start_line": 12011,
+      "end_line": 12613,
+      "char_count": 40087,
+      "line_count": 603,
+      "filename": "BARBADOS.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1919,
+      "start_line": 12613,
+      "end_line": 13127,
+      "char_count": 23384,
+      "line_count": 515,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1919,
+      "start_line": 13127,
+      "end_line": 13935,
+      "char_count": 55857,
+      "line_count": 809,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1919,
+      "start_line": 13935,
+      "end_line": 14292,
+      "char_count": 25537,
+      "line_count": 358,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "DOMINION OF CANADA",
+      "year": 1919,
+      "start_line": 14292,
+      "end_line": 17532,
+      "char_count": 184702,
+      "line_count": 3241,
+      "filename": "DOMINION_OF_CANADA.md"
+    },
+    {
+      "colony_name": "CEYLON",
+      "year": 1919,
+      "start_line": 17532,
+      "end_line": 18609,
+      "char_count": 63550,
+      "line_count": 1078,
+      "filename": "CEYLON.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1919,
+      "start_line": 18609,
+      "end_line": 19427,
+      "char_count": 51007,
+      "line_count": 819,
+      "filename": "CYPRUS.md"
+    },
+    {
+      "colony_name": "EAST AFRICA PROTECTORATE",
+      "year": 1919,
+      "start_line": 19427,
+      "end_line": 19966,
+      "char_count": 36355,
+      "line_count": 540,
+      "filename": "EAST_AFRICA_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "year": 1919,
+      "start_line": 19966,
+      "end_line": 20287,
+      "char_count": 18177,
+      "line_count": 322,
+      "filename": "FALKLAND_ISLANDS.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1919,
+      "start_line": 20287,
+      "end_line": 21523,
+      "char_count": 77330,
+      "line_count": 1237,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1919,
+      "start_line": 21523,
+      "end_line": 22614,
+      "char_count": 94827,
+      "line_count": 1092,
+      "filename": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 1919,
+      "start_line": 22614,
+      "end_line": 23216,
+      "char_count": 34278,
+      "line_count": 603,
+      "filename": "HONG_KONG.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1919,
+      "start_line": 23216,
+      "end_line": 24146,
+      "char_count": 55023,
+      "line_count": 931,
+      "filename": "JAMAICA.md"
+    },
+    {
+      "colony_name": "CAYMAN ISLANDS",
+      "year": 1919,
+      "start_line": 24147,
+      "end_line": 24184,
+      "char_count": 3139,
+      "line_count": 38,
+      "filename": "CAYMAN_ISLANDS.md"
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "year": 1919,
+      "start_line": 24388,
+      "end_line": 25104,
+      "char_count": 36683,
+      "line_count": 717,
+      "filename": "ANTIGUA.md"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1919,
+      "start_line": 25104,
+      "end_line": 25439,
+      "char_count": 17477,
+      "line_count": 336,
+      "filename": "DOMINICA.md"
+    },
+    {
+      "colony_name": "MONTSERRAT",
+      "year": 1919,
+      "start_line": 25439,
+      "end_line": 25798,
+      "char_count": 18949,
+      "line_count": 360,
+      "filename": "MONTSERRAT.md"
+    },
+    {
+      "colony_name": "MALTA",
+      "year": 1919,
+      "start_line": 25798,
+      "end_line": 26392,
+      "char_count": 33699,
+      "line_count": 595,
+      "filename": "MALTA.md"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 1919,
+      "start_line": 26392,
+      "end_line": 27297,
+      "char_count": 51001,
+      "line_count": 906,
+      "filename": "MAURITIUS.md"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "year": 1919,
+      "start_line": 27298,
+      "end_line": 27672,
+      "char_count": 28656,
+      "line_count": 375,
+      "filename": "NEWFOUNDLAND.md"
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "year": 1919,
+      "start_line": 27673,
+      "end_line": 28632,
+      "char_count": 69529,
+      "line_count": 960,
+      "filename": "NEW_ZEALAND.md"
+    },
+    {
+      "colony_name": "NIGERIA",
+      "year": 1919,
+      "start_line": 28632,
+      "end_line": 29991,
+      "char_count": 110528,
+      "line_count": 1360,
+      "filename": "NIGERIA.md"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 1919,
+      "start_line": 29991,
+      "end_line": 30463,
+      "char_count": 29144,
+      "line_count": 473,
+      "filename": "ST_HELENA.md"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1919,
+      "start_line": 30464,
+      "end_line": 30947,
+      "char_count": 34668,
+      "line_count": 484,
+      "filename": "SIERRA_LEONE.md"
+    },
+    {
+      "colony_name": "SOMALILAND PROTECTORATE",
+      "year": 1919,
+      "start_line": 30948,
+      "end_line": 31097,
+      "char_count": 10024,
+      "line_count": 150,
+      "filename": "SOMALILAND_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "SOUTH AFRICA",
+      "year": 1919,
+      "start_line": 31098,
+      "end_line": 33406,
+      "char_count": 202414,
+      "line_count": 2309,
+      "filename": "SOUTH_AFRICA.md"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "year": 1919,
+      "start_line": 33406,
+      "end_line": 33643,
+      "char_count": 24938,
+      "line_count": 238,
+      "filename": "BASUTOLAND.md"
+    },
+    {
+      "colony_name": "SWAZILAND",
+      "year": 1919,
+      "start_line": 33643,
+      "end_line": 34288,
+      "char_count": 61618,
+      "line_count": 646,
+      "filename": "SWAZILAND.md"
+    },
+    {
+      "colony_name": "NORTHERN RHODESIA",
+      "year": 1919,
+      "start_line": 34288,
+      "end_line": 34971,
+      "char_count": 45175,
+      "line_count": 684,
+      "filename": "NORTHERN_RHODESIA.md"
+    },
+    {
+      "colony_name": "LABUAN",
+      "year": 1919,
+      "start_line": 34972,
+      "end_line": 36123,
+      "char_count": 86321,
+      "line_count": 1152,
+      "filename": "LABUAN.md"
+    },
+    {
+      "colony_name": "TRINIDAD AND TOBAGO",
+      "year": 1919,
+      "start_line": 36124,
+      "end_line": 38095,
+      "char_count": 91270,
+      "line_count": 1972,
+      "filename": "TRINIDAD_AND_TOBAGO.md"
+    },
+    {
+      "colony_name": "UGANDA",
+      "year": 1919,
+      "start_line": 38095,
+      "end_line": 38495,
+      "char_count": 24227,
+      "line_count": 401,
+      "filename": "UGANDA.md"
+    },
+    {
+      "colony_name": "WEIHAIWEI",
+      "year": 1919,
+      "start_line": 38495,
+      "end_line": 39202,
+      "char_count": 59714,
+      "line_count": 708,
+      "filename": "WEIHAIWEI.md"
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 1919,
+      "start_line": 39202,
+      "end_line": 39540,
+      "char_count": 19843,
+      "line_count": 339,
+      "filename": "ST_LUCIA.md"
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 1919,
+      "start_line": 39540,
+      "end_line": 39857,
+      "char_count": 19541,
+      "line_count": 318,
+      "filename": "ST_VINCENT.md"
+    },
+    {
+      "colony_name": "ZANZIBAR",
+      "year": 1919,
+      "start_line": 39857,
+      "end_line": 40097,
+      "char_count": 17963,
+      "line_count": 241,
+      "filename": "ZANZIBAR.md"
+    },
+    {
+      "colony_name": "NORTH BORNEO",
+      "year": 1919,
+      "start_line": 40097,
+      "end_line": 40536,
+      "char_count": 28861,
+      "line_count": 440,
+      "filename": "NORTH_BORNEO.md"
+    },
+    {
+      "colony_name": "ADEN",
+      "year": 1919,
+      "start_line": 40536,
+      "end_line": 40546,
+      "char_count": 1940,
+      "line_count": 11,
+      "filename": "ADEN.md"
+    },
+    {
+      "colony_name": "ASCENSION",
+      "year": 1919,
+      "start_line": 40547,
+      "end_line": 40550,
+      "char_count": 782,
+      "line_count": 4,
+      "filename": "ASCENSION.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Manual correction of batch parser output",
+    "date": "2025-11-16",
+    "method": "Manual LLM-based boundary verification and correction",
+    "corrections_applied": [
+      "Fixed TASMANIA over-extraction (7,315 lines \u2192 7 lines)",
+      "Merged BRITISH COLUMBIA into DOMINION OF CANADA",
+      "Fixed CAYMAN ISLANDS over-extraction (242 lines \u2192 38 lines)",
+      "Fixed NEWFOUNDLAND over-extraction (1,335 lines \u2192 375 lines)",
+      "Extracted NEW ZEALAND from NEWFOUNDLAND over-extraction",
+      "Fixed SIERRA LEONE over-extraction (2,943 lines \u2192 484 lines)",
+      "Extracted SOMALILAND PROTECTORATE from SIERRA LEONE over-extraction",
+      "Extracted SOUTH AFRICA from SIERRA LEONE over-extraction",
+      "Fixed LABUAN over-extraction (1,344 lines \u2192 1,152 lines)",
+      "Merged TOBAGO subsection into TRINIDAD AND TOBAGO",
+      "Fixed ASCENSION over-extraction (18,189 lines \u2192 4 lines)",
+      "Removed duplicate Australian state entries (VICTORIA, QUEENSLAND, WESTERN AUSTRALIA)"
+    ],
+    "original_count": 42,
+    "corrected_count": 42,
+    "note": "Count remains 42, but composition changed: removed 11 over-extracted/duplicate entries, added 11 corrected entries"
+  }
+}

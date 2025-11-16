@@ -1,0 +1,296 @@
+{
+  "year": 1951,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1951/olmocr_results.md",
+  "total_colonies": 31,
+  "colonies": [
+    {
+      "colony_name": "ADEN",
+      "year": 1951,
+      "start_line": 5176,
+      "end_line": 6448,
+      "char_count": 87013,
+      "line_count": 1273,
+      "filename": "ADEN.md"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 1951,
+      "start_line": 6449,
+      "end_line": 6981,
+      "char_count": 35913,
+      "line_count": 533,
+      "filename": "BARBADOS.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1951,
+      "start_line": 6982,
+      "end_line": 7542,
+      "char_count": 32401,
+      "line_count": 561,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1951,
+      "start_line": 7543,
+      "end_line": 8478,
+      "char_count": 76651,
+      "line_count": 936,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1951,
+      "start_line": 8479,
+      "end_line": 8954,
+      "char_count": 28506,
+      "line_count": 476,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "BRUNEI",
+      "year": 1951,
+      "start_line": 8955,
+      "end_line": 9215,
+      "char_count": 16211,
+      "line_count": 261,
+      "filename": "BRUNEI.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1951,
+      "start_line": 9216,
+      "end_line": 10028,
+      "char_count": 70906,
+      "line_count": 813,
+      "filename": "CYPRUS.md"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "year": 1951,
+      "start_line": 10029,
+      "end_line": 10412,
+      "char_count": 23346,
+      "line_count": 384,
+      "filename": "FALKLAND_ISLANDS.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1951,
+      "start_line": 10413,
+      "end_line": 11259,
+      "char_count": 58979,
+      "line_count": 847,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 1951,
+      "start_line": 11260,
+      "end_line": 11719,
+      "char_count": 37860,
+      "line_count": 460,
+      "filename": "THE_GAMBIA.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1951,
+      "start_line": 11720,
+      "end_line": 12179,
+      "char_count": 25165,
+      "line_count": 460,
+      "filename": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "THE GOLD COAST",
+      "year": 1951,
+      "start_line": 12180,
+      "end_line": 14697,
+      "char_count": 205554,
+      "line_count": 2518,
+      "filename": "THE_GOLD_COAST.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1951,
+      "start_line": 14698,
+      "end_line": 16035,
+      "char_count": 95392,
+      "line_count": 1338,
+      "filename": "JAMAICA.md"
+    },
+    {
+      "colony_name": "KENYA",
+      "year": 1951,
+      "start_line": 16036,
+      "end_line": 17232,
+      "char_count": 87102,
+      "line_count": 1197,
+      "filename": "KENYA.md"
+    },
+    {
+      "colony_name": "THE LEEWARD ISLANDS",
+      "year": 1951,
+      "start_line": 17233,
+      "end_line": 19829,
+      "char_count": 175865,
+      "line_count": 2597,
+      "filename": "THE_LEEWARD_ISLANDS.md"
+    },
+    {
+      "colony_name": "MALTA",
+      "year": 1951,
+      "start_line": 19830,
+      "end_line": 21393,
+      "char_count": 99196,
+      "line_count": 1564,
+      "filename": "MALTA.md"
+    },
+    {
+      "colony_name": "NIGERIA",
+      "year": 1951,
+      "start_line": 21394,
+      "end_line": 23173,
+      "char_count": 154989,
+      "line_count": 1780,
+      "filename": "NIGERIA.md"
+    },
+    {
+      "colony_name": "NORTH BORNEO",
+      "year": 1951,
+      "start_line": 23174,
+      "end_line": 23660,
+      "char_count": 26424,
+      "line_count": 487,
+      "filename": "NORTH_BORNEO.md"
+    },
+    {
+      "colony_name": "NORTHERN RHODESIA",
+      "year": 1951,
+      "start_line": 23661,
+      "end_line": 24796,
+      "char_count": 78917,
+      "line_count": 1136,
+      "filename": "NORTHERN_RHODESIA.md"
+    },
+    {
+      "colony_name": "NYASALAND PROTECTORATE",
+      "year": 1951,
+      "start_line": 24797,
+      "end_line": 25301,
+      "char_count": 41441,
+      "line_count": 505,
+      "filename": "NYASALAND_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 1951,
+      "start_line": 25302,
+      "end_line": 25660,
+      "char_count": 21222,
+      "line_count": 359,
+      "filename": "ST_HELENA.md"
+    },
+    {
+      "colony_name": "SARAWAK",
+      "year": 1951,
+      "start_line": 25661,
+      "end_line": 26218,
+      "char_count": 44960,
+      "line_count": 558,
+      "filename": "SARAWAK.md"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 1951,
+      "start_line": 26219,
+      "end_line": 26634,
+      "char_count": 24082,
+      "line_count": 416,
+      "filename": "SEYCHELLES.md"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1951,
+      "start_line": 26635,
+      "end_line": 28564,
+      "char_count": 130708,
+      "line_count": 1930,
+      "filename": "SIERRA_LEONE.md"
+    },
+    {
+      "colony_name": "SOMALILAND PROTECTORATE",
+      "year": 1951,
+      "start_line": 28565,
+      "end_line": 28846,
+      "char_count": 20976,
+      "line_count": 282,
+      "filename": "SOMALILAND_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "TANGANYIKA",
+      "year": 1951,
+      "start_line": 28847,
+      "end_line": 29554,
+      "char_count": 59829,
+      "line_count": 708,
+      "filename": "TANGANYIKA.md"
+    },
+    {
+      "colony_name": "TRINIDAD AND TOBAGO",
+      "year": 1951,
+      "start_line": 29555,
+      "end_line": 29556,
+      "char_count": 21,
+      "line_count": 2,
+      "filename": "TRINIDAD_AND_TOBAGO.md"
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "year": 1951,
+      "start_line": 29557,
+      "end_line": 30475,
+      "char_count": 60163,
+      "line_count": 919,
+      "filename": "TRINIDAD.md"
+    },
+    {
+      "colony_name": "UGANDA",
+      "year": 1951,
+      "start_line": 30476,
+      "end_line": 32198,
+      "char_count": 123957,
+      "line_count": 1723,
+      "filename": "UGANDA.md"
+    },
+    {
+      "colony_name": "THE WINDWARD ISLANDS",
+      "year": 1951,
+      "start_line": 32199,
+      "end_line": 33669,
+      "char_count": 82153,
+      "line_count": 1471,
+      "filename": "THE_WINDWARD_ISLANDS.md"
+    },
+    {
+      "colony_name": "ZANZIBAR",
+      "year": 1951,
+      "start_line": 33670,
+      "end_line": 34175,
+      "char_count": 41300,
+      "line_count": 506,
+      "filename": "ZANZIBAR.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Automated LLM-based boundary identification",
+    "date": "2025-11-16",
+    "method": "Automated pattern matching with content structure verification",
+    "notes": [
+      "Identified 31 colonies using OCR pattern matching",
+      "Colony sections identified by all-caps headers followed by \"Situation\", \"Area\", \"Climate\", etc.",
+      "Boundaries verified based on content structure"
+    ]
+  }
+}

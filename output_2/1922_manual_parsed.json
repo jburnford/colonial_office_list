@@ -1,0 +1,489 @@
+{
+  "year": 1922,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1922/olmocr_results.md",
+  "total_colonies": 50,
+  "colonies": [
+    {
+      "colony_name": "AUSTRALIA",
+      "year": 1922,
+      "start_line": 4541,
+      "end_line": 5076,
+      "char_count": 57956,
+      "line_count": 536,
+      "filename": "AUSTRALIA.md"
+    },
+    {
+      "colony_name": "TASMANIA",
+      "year": 1922,
+      "start_line": 5191,
+      "end_line": 5206,
+      "char_count": 188,
+      "line_count": 16,
+      "filename": "TASMANIA.md"
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "year": 1922,
+      "start_line": 12488,
+      "end_line": 12937,
+      "char_count": 23445,
+      "line_count": 450,
+      "filename": "BAHAMAS.md"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "year": 1922,
+      "start_line": 12937,
+      "end_line": 13507,
+      "char_count": 39077,
+      "line_count": 571,
+      "filename": "BARBADOS.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "year": 1922,
+      "start_line": 13507,
+      "end_line": 13866,
+      "char_count": 22527,
+      "line_count": 360,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "year": 1922,
+      "start_line": 13866,
+      "end_line": 14880,
+      "char_count": 56865,
+      "line_count": 1015,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "year": 1922,
+      "start_line": 14880,
+      "end_line": 15240,
+      "char_count": 26062,
+      "line_count": 361,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "DOMINION OF CANADA",
+      "year": 1922,
+      "start_line": 15241,
+      "end_line": 18726,
+      "char_count": 190670,
+      "line_count": 3486,
+      "filename": "DOMINION_OF_CANADA.md"
+    },
+    {
+      "colony_name": "CEYLON",
+      "year": 1922,
+      "start_line": 18726,
+      "end_line": 20082,
+      "char_count": 71412,
+      "line_count": 1357,
+      "filename": "CEYLON.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "year": 1922,
+      "start_line": 20082,
+      "end_line": 20720,
+      "char_count": 47501,
+      "line_count": 639,
+      "filename": "CYPRUS.md"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "year": 1922,
+      "start_line": 20720,
+      "end_line": 21020,
+      "char_count": 18251,
+      "line_count": 301,
+      "filename": "FALKLAND_ISLANDS.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "year": 1922,
+      "start_line": 21020,
+      "end_line": 21676,
+      "char_count": 38461,
+      "line_count": 657,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "year": 1922,
+      "start_line": 21676,
+      "end_line": 22154,
+      "char_count": 34351,
+      "line_count": 479,
+      "filename": "THE_GAMBIA.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "year": 1922,
+      "start_line": 22154,
+      "end_line": 22464,
+      "char_count": 14101,
+      "line_count": 311,
+      "filename": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "THE GOLD COAST",
+      "year": 1922,
+      "start_line": 22465,
+      "end_line": 22801,
+      "char_count": 53253,
+      "line_count": 337,
+      "filename": "THE_GOLD_COAST.md"
+    },
+    {
+      "colony_name": "TOGOLAND",
+      "year": 1922,
+      "start_line": 22801,
+      "end_line": 23526,
+      "char_count": 46277,
+      "line_count": 726,
+      "filename": "TOGOLAND.md"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "year": 1922,
+      "start_line": 23526,
+      "end_line": 24126,
+      "char_count": 36015,
+      "line_count": 601,
+      "filename": "HONG_KONG.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "year": 1922,
+      "start_line": 24126,
+      "end_line": 25110,
+      "char_count": 59302,
+      "line_count": 985,
+      "filename": "JAMAICA.md"
+    },
+    {
+      "colony_name": "CAYMAN ISLANDS",
+      "year": 1922,
+      "start_line": 25111,
+      "end_line": 25151,
+      "char_count": 3172,
+      "line_count": 41,
+      "filename": "CAYMAN_ISLANDS.md"
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "year": 1922,
+      "start_line": 25154,
+      "end_line": 25327,
+      "char_count": 9501,
+      "line_count": 174,
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md"
+    },
+    {
+      "colony_name": "THE KENYA COLONY AND PROTECTORATE",
+      "year": 1922,
+      "start_line": 25328,
+      "end_line": 26093,
+      "char_count": 49128,
+      "line_count": 766,
+      "filename": "THE_KENYA_COLONY_AND_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "THE LEEWARD ISLANDS",
+      "year": 1922,
+      "start_line": 26094,
+      "end_line": 26327,
+      "char_count": 15044,
+      "line_count": 234,
+      "filename": "THE_LEEWARD_ISLANDS.md"
+    },
+    {
+      "colony_name": "ANTIGUA",
+      "year": 1922,
+      "start_line": 26327,
+      "end_line": 27056,
+      "char_count": 37151,
+      "line_count": 730,
+      "filename": "ANTIGUA.md"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "year": 1922,
+      "start_line": 27056,
+      "end_line": 27742,
+      "char_count": 36374,
+      "line_count": 687,
+      "filename": "DOMINICA.md"
+    },
+    {
+      "colony_name": "MALTA",
+      "year": 1922,
+      "start_line": 27742,
+      "end_line": 28327,
+      "char_count": 35877,
+      "line_count": 586,
+      "filename": "MALTA.md"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "year": 1922,
+      "start_line": 28328,
+      "end_line": 29630,
+      "char_count": 79777,
+      "line_count": 1303,
+      "filename": "MAURITIUS.md"
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "year": 1922,
+      "start_line": 29631,
+      "end_line": 31978,
+      "char_count": 200573,
+      "line_count": 2348,
+      "filename": "NEW_ZEALAND.md"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "year": 1922,
+      "start_line": 31979,
+      "end_line": 32153,
+      "char_count": 10337,
+      "line_count": 175,
+      "filename": "ST_HELENA.md"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "year": 1922,
+      "start_line": 32153,
+      "end_line": 32409,
+      "char_count": 15392,
+      "line_count": 257,
+      "filename": "SEYCHELLES.md"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "year": 1922,
+      "start_line": 32409,
+      "end_line": 33049,
+      "char_count": 42916,
+      "line_count": 641,
+      "filename": "SIERRA_LEONE.md"
+    },
+    {
+      "colony_name": "SOUTH AFRICA",
+      "year": 1922,
+      "start_line": 33050,
+      "end_line": 35227,
+      "char_count": 188178,
+      "line_count": 2178,
+      "filename": "SOUTH_AFRICA.md"
+    },
+    {
+      "colony_name": "SOUTH WEST AFRICA",
+      "year": 1922,
+      "start_line": 35227,
+      "end_line": 35382,
+      "char_count": 19223,
+      "line_count": 156,
+      "filename": "SOUTH_WEST_AFRICA.md"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "year": 1922,
+      "start_line": 35382,
+      "end_line": 35665,
+      "char_count": 26558,
+      "line_count": 284,
+      "filename": "BASUTOLAND.md"
+    },
+    {
+      "colony_name": "SWAZILAND",
+      "year": 1922,
+      "start_line": 35665,
+      "end_line": 36492,
+      "char_count": 67397,
+      "line_count": 828,
+      "filename": "SWAZILAND.md"
+    },
+    {
+      "colony_name": "NORTHERN RHODESIA",
+      "year": 1922,
+      "start_line": 36492,
+      "end_line": 36552,
+      "char_count": 2054,
+      "line_count": 61,
+      "filename": "NORTHERN_RHODESIA.md"
+    },
+    {
+      "colony_name": "STRAITS SETTLEMENTS",
+      "year": 1922,
+      "start_line": 36552,
+      "end_line": 37270,
+      "char_count": 45693,
+      "line_count": 719,
+      "filename": "STRAITS_SETTLEMENTS.md"
+    },
+    {
+      "colony_name": "LABUAN",
+      "year": 1922,
+      "start_line": 37270,
+      "end_line": 38332,
+      "char_count": 83466,
+      "line_count": 1063,
+      "filename": "LABUAN.md"
+    },
+    {
+      "colony_name": "TANGANYIKA TERRITORY",
+      "year": 1922,
+      "start_line": 38332,
+      "end_line": 38797,
+      "char_count": 32866,
+      "line_count": 466,
+      "filename": "TANGANYIKA_TERRITORY.md"
+    },
+    {
+      "colony_name": "TRINIDAD AND TOBAGO",
+      "year": 1922,
+      "start_line": 38797,
+      "end_line": 40471,
+      "char_count": 84382,
+      "line_count": 1675,
+      "filename": "TRINIDAD_AND_TOBAGO.md"
+    },
+    {
+      "colony_name": "UGANDA",
+      "year": 1922,
+      "start_line": 40471,
+      "end_line": 40895,
+      "char_count": 25239,
+      "line_count": 425,
+      "filename": "UGANDA.md"
+    },
+    {
+      "colony_name": "WEIHAIWEI",
+      "year": 1922,
+      "start_line": 40895,
+      "end_line": 41156,
+      "char_count": 20445,
+      "line_count": 262,
+      "filename": "WEIHAIWEI.md"
+    },
+    {
+      "colony_name": "TONGA",
+      "year": 1922,
+      "start_line": 41157,
+      "end_line": 41663,
+      "char_count": 40775,
+      "line_count": 507,
+      "filename": "TONGA.md"
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "year": 1922,
+      "start_line": 41663,
+      "end_line": 41961,
+      "char_count": 21230,
+      "line_count": 299,
+      "filename": "ST_LUCIA.md"
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "year": 1922,
+      "start_line": 41961,
+      "end_line": 42231,
+      "char_count": 18658,
+      "line_count": 271,
+      "filename": "ST_VINCENT.md"
+    },
+    {
+      "colony_name": "ZANZIBAR",
+      "year": 1922,
+      "start_line": 42231,
+      "end_line": 42850,
+      "char_count": 45124,
+      "line_count": 620,
+      "filename": "ZANZIBAR.md"
+    },
+    {
+      "colony_name": "PALESTINE",
+      "year": 1922,
+      "start_line": 42850,
+      "end_line": 43227,
+      "char_count": 29545,
+      "line_count": 378,
+      "filename": "PALESTINE.md"
+    },
+    {
+      "colony_name": "SARAWAK",
+      "year": 1922,
+      "start_line": 43228,
+      "end_line": 43466,
+      "char_count": 12176,
+      "line_count": 239,
+      "filename": "SARAWAK.md"
+    },
+    {
+      "colony_name": "ADEN",
+      "year": 1922,
+      "start_line": 43467,
+      "end_line": 43479,
+      "char_count": 3282,
+      "line_count": 13,
+      "filename": "ADEN.md"
+    },
+    {
+      "colony_name": "ASCENSION",
+      "year": 1922,
+      "start_line": 43480,
+      "end_line": 43485,
+      "char_count": 939,
+      "line_count": 6,
+      "filename": "ASCENSION.md"
+    },
+    {
+      "colony_name": "TRISTAN DA CUNHA",
+      "year": 1922,
+      "start_line": 43486,
+      "end_line": 43499,
+      "char_count": 2897,
+      "line_count": 14,
+      "filename": "TRISTAN_DA_CUNHA.md"
+    }
+  ],
+  "processing_notes": {
+    "parser": "Manual correction of batch parser output",
+    "date": "2025-11-16",
+    "method": "Manual LLM-based boundary verification and correction",
+    "corrections_applied": [
+      "Fixed TASMANIA over-extraction (7,298 lines \u2192 16 lines)",
+      "Removed duplicate Australian state entries (VICTORIA, QUEENSLAND, WESTERN AUSTRALIA)",
+      "Fixed BRITISH HONDURAS over-extraction (3,846 lines \u2192 361 lines)",
+      "Added DOMINION OF CANADA (3,486 lines)",
+      "Fixed GIBRALTAR over-extraction (647 lines \u2192 311 lines)",
+      "Added THE GOLD COAST (337 lines)",
+      "Fixed CAYMAN ISLANDS over-extraction (1,217 lines \u2192 41 lines)",
+      "Extracted TURKS AND CAICOS ISLANDS from CAYMAN ISLANDS over-extraction (174 lines)",
+      "Extracted THE KENYA COLONY AND PROTECTORATE from CAYMAN ISLANDS over-extraction (766 lines)",
+      "Extracted THE LEEWARD ISLANDS from CAYMAN ISLANDS over-extraction (234 lines)",
+      "Fixed MAURITIUS over-extraction (3,652 lines \u2192 1,303 lines)",
+      "Extracted NEW ZEALAND from MAURITIUS over-extraction (2,348 lines)",
+      "Fixed SIERRA LEONE over-extraction (1,227 lines \u2192 641 lines)",
+      "Removed South African province entries (CAPE OF GOOD HOPE, NATAL, TRANSVAAL)",
+      "Added SOUTH AFRICA (2,178 lines)",
+      "Merged TOBAGO subsection into TRINIDAD AND TOBAGO (1,675 lines)",
+      "Fixed WEIHAIWEI over-extraction (768 lines \u2192 262 lines)",
+      "Added TONGA (507 lines)",
+      "Fixed PALESTINE over-extraction (617 lines \u2192 378 lines)",
+      "Extracted SARAWAK from ASCENSION over-extraction (239 lines)",
+      "Fixed ASCENSION over-extraction (15,658 lines \u2192 6 lines)",
+      "Extracted TRISTAN DA CUNHA from ASCENSION over-extraction (14 lines)"
+    ],
+    "original_count": 47,
+    "corrected_count": 51,
+    "note": "Removed 17 over-extracted/duplicate entries, added 21 corrected/new entries"
+  }
+}

@@ -1,0 +1,297 @@
+FALKLAND ISLANDS AND DEPENDENCIES
+
+Area
+
+The Falkland Islands, situated in the South Atlantic, lie some 480 miles north-east of Cape Horn. The numerous islands of which they are composed cover 4,700 square miles. The Dependencies now consist of only South Georgia, 800 miles east-south-east of the Falklands, and the South Sandwich Group, some 470 miles south-east of South Georgia. Those territories south of latitude 60°S which were formerly part of the Falkland Islands Dependencies, namely, the South Orkney Islands, the South Shetland Islands, and Graham Land together with that sector of the Antarctic Continent lying between longitudes 20°W and 80°W were constituted a separate Colony on 3rd March 1962 under the name of the British Antarctic Territory. (See page 80.)
+
+Population
+
+At the 31st December 1962, the population, excluding the Dependencies, was 2,140, there being rather more males than females. With few exceptions all were of European descent and most were British. The population of the Dependencies at 31st December 1962, was 182.
+
+Principal Town
+
+Stanley, the capital (population 1,074 at 1962 census), is the only town. In the Camp, the countryside other than Stanley, the largest settlement is at Goose Green on the East Falkland where there are some 100 residents.
+
+Geographical Features
+
+There are two large islands, the East and West Falklands, and numerous smaller islands. The coastline is deeply indented and affords several good anchorages. The surface everywhere, except in Lafonia, is hilly, the maximum height being reached in the East Falkland where Mount Osborne rises to 2,312 feet. There are no large inland waters. A feature of the treeless, moorland scenery is the “stone runs”, long “rivers” of angular, quartzite boulders. The island of South Georgia in the Dependencies is a mass of high mountains which are covered with deep snow where they are not too precipitous, and the valleys between are filled with glaciers which in many cases descend to the sea.
+
+Climate
+
+The islands are in the same latitude south as London is north, but apart from hours of sunshine which are similar, there are marked climatic differences. The main feature of the Falklands’ weather is the strong wind which blows throughout the year, and which some people from Britain find trying. Climatic figures for Stanley are:
+
+- Mean annual temperature ... 42° F.
+- Mean annual wind speed ... 17 knots.
+- Mean annual rainfall ... 25 inches.
+- Annual maximum temperature around 70° F.
+- Annual minimum temperature around 22° F.
+
+The Dependencies have a rigorous climate of Antarctic character.
+
+History
+
+The Falklands are said to have been discovered by Davis in 1592 and were evidently visited by Hawkins in 1594. On the other hand it is claimed by some historians that Vespucci sighted the Falklands in 1502. In 1764 de Bougainville established a small colony at Port Louis in the East Falkland. This French settlement was handed over to Spain in 1767 on the payment of a sum said to have amounted to £24,000. In 1765 Captain Byron took possession of the West Falkland and left a small garrison at Port Egmont on Saunders Island, whence it was driven out by
+the Spaniards in 1770. This action on the part of Spain brought that country and Britain to the verge of war. The Spaniards restored the settlement to the British in 1771, but it was abandoned in 1774. The Spaniards also abandoned their settlement at Soledad (Port Louis) in the early nineteenth century.
+
+In 1820 the Captaincy-General of Buenos Aires established a settlement at Soledad which was destroyed in 1831 by the U.S. warship Lexington as a reprisal for interference with American sealers.
+
+In 1833 the occupation of the Islands was resumed by the British Government. In 1841 a civil Lieutenant-Governor was appointed, who took over the following year from the naval officer then in charge of the Islands. In 1843 an Act of Parliament placed the civil administration on a permanent footing and the Lieutenant-Governor's title was changed to Governor. In 1844, following a decision taken the previous year, the seat of government was removed from Port Louis to Port William, where the settlement was named Stanley.
+
+A grant-in-aid of the Colony was approved in 1841 and continued until 1880. A grant-in-aid for a mail service continued until 1884–85, since which year the Colony has been self-supporting. The development of the Colony has been closely linked with the growth of the Falkland Islands Company, the largest landowner and trading company, formed in 1851.
+
+Of the Dependencies South Georgia was probably discovered by the London merchant de la Roché in 1675 and formally annexed in 1775 by Captain Cook who in the same year discovered and took possession of the South Sandwich group.
+
+An Administrative Officer and official staff reside at King Edward Point, South Georgia, where there has been a Government Station since 1909.
+
+**Constitution**
+
+The Government is administered by a Governor aided by an Executive Council which is composed of three *ex officio* members, and five nominated unofficial members; and a Legislative Council composed of three *ex officio*, four elected, two nominated unofficial and two nominated official members. The present Constitution became effective on 1st January 1949.
+
+There is a Town Council for Stanley.
+
+**Land Policy**
+
+All the land is held freehold and mostly by a very few large farms. Certain areas are Crown reserves.
+
+**Taxation**
+
+Direct taxation is in the form of income tax, individuals paying a graduated tax ranging from 1s. in every £ of the first £100 of taxable income to 5s. 9d. in every £ exceeding £6,000. Companies pay a flat rate of 5s. 9d. in the £. Arrangements have been concluded with the United Kingdom, New Zealand, Canada, Sweden, Denmark, Norway, Mexico and the United States of America for the avoidance of double taxation.
+
+There is no general Customs tariff, import duties being confined to liquor, tobacco and matches. Export duties are levied on wool, tallow, guano, hides and skins and whale and seal oil.
+
+### Public Finance
+
+| Year     | Revenue (£) | Expenditure (£) |
+|----------|------------|----------------|
+| 1958–59  | 306,156    | 298,503        |
+| 1959–60  | 288,721    | 283,454        |
+| 1960–61* | 266,586    | 275,173        |
+| 1961–62  | 268,904    | 301,140        |
+| 1962–63† | 285,635    | 353,412        |
+
+* includes territory now designated British Antarctic Territory.
+
+† estimates.
+
+### Dependencies
+
+| Year     | Revenue (£) | Expenditure (£) |
+|----------|------------|----------------|
+| 1958–59 (a) | 450,070    | 556,111        |
+| 1959–60 (a) | 780,640    | 765,460        |
+| 1960–61 (b) | 815,196    | 763,137        |
+| 1961–62 (c) | 746,287    | 746,287        |
+| 1962–63 (c) | 223,689    | 223,689        |
+
+(a) includes H.M.G. grants.
+
+(b) includes territory now designated British Antarctic Territory.
+
+(c) estimates.
+
+Revenue from the main sources for the Colony in respect of the year ended on 30th June 1963 were:
+
+| Source                        | Revenue (£) |
+|-------------------------------|------------|
+| Customs                       | 24,898     |
+| Internal Revenue              | 127,490    |
+| Posts and Telecommunications  | 26,640     |
+| Interest                      | 27,200     |
+| Electricity                   | 21,600     |
+
+and the main heads of expenditure for the same year were:
+
+| Head                          | Expenditure (£) |
+|-------------------------------|-----------------|
+| Special                       | 37,410          |
+| Public Works (recurrent and other) | 36,620         |
+| Medical                       | 35,718          |
+| Aviation                      | 13,608          |
+| Power and Electrical          | 17,164          |
+| Posts and Telecommunications  | 48,770          |
+| Pensions and Gratuities       | 9,400           |
+| Passages under head Miscellaneous | 22,000        |
+| Secretariat and Treasury      | 23,745          |
+| Education                     | 40,588          |
+
+In 1962–63 the revised estimate of revenue from the Dependencies was:
+
+| Source                        | Revenue (£) |
+|-------------------------------|------------|
+| Customs and Port Dues         | 510        |
+| Internal Revenue, Fees and Rents | 31,653     |
+| Post Office and Wireless Telegraphy Service | 31,000   |
+| Miscellaneous                  | 2,214      |
+
+**Currency**
+
+The currency is British coinage and local £5, £1 and 10s. notes which are interchangeable with sterling at par.
+
+**Education**
+
+In 1962 there were 272 children receiving education in the Colony. There is no system of higher education and no advanced secondary
+education. In Stanley the Government schools cater adequately for children between the ages of five and fourteen, though a number stay until their sixteenth year and, in some subjects, reach General Certificate of Education standard. Outside Stanley, education is carried on either in settlement schools, some of which are very small, or by itinerant teachers. A boarding school opened in 1956 at Darwin on the East Falkland accommodates 39 boarders and caters for as many day pupils as may wish to attend. In 1957 a school was opened at Port Howard in West Falkland, catering for 9 boarders and the children of Port Howard as day pupils. Attendance at school in the Camp is compulsory where there is a settlement school or where a travelling teacher calls. In 1962 a maximum of six travelling teachers were employed among the 50 children outside Stanley, but, owing to the remoteness of some houses, there were about 2·2% of Camp children receiving no education at all.
+
+The Colony awards up to two scholarships annually to boarding grammar schools in Dorset, tenable by children with primarily Falkland Islands parents. Eight scholars are in England at present.
+
+The total cost of education in 1962-63 was £40,588 compared with £2,877 in 1935.
+
+Libraries
+
+There is one lending library in Stanley operated by the Town Council. A Camp Library Scheme was inaugurated in 1961 and is a postal service designed to bring library facilities to residents outside Stanley.
+
+Health
+
+The commoner ailments in the Colony are the common cold, naso-pharyngitis, bronchitis, gastro-enteritis and rheumatism in its chronic form.
+
+There is one General Hospital in Stanley. An extension to the hospital, the Churchill Wing, was completed in 1953. The Colony now has a modern, well-equipped hospital, with 32 beds.
+
+The Government Medical Department employs one Senior Medical Officer and three Medical Officers, one of whom is in Stanley, one at Darwin in Lafonia and the third at Fox Bay, in the West Falkland. A Tuberculosis Officer was employed from September 1953 to November 1954 on a tuberculosis survey of the Falklands. An ophthalmic specialist was engaged from July 1959 to March 1960 on an ophthalmic survey of the islands. The nursing staff of the Hospital consists of the Matron, three Nursing Sisters and six Nurses.
+
+There are two Government-employed dentists in the Colony.
+
+The Government Air Service is used extensively for medical transport to and from Stanley. The m.v. Philomel is also at the disposal of the Medical Department for use when the weather does not permit the use of the aircraft.
+
+Total expenditure on the Medical Department in 1962-63 was £35,718. In 1935 the sum spent was £3,225.
+
+Communications
+
+Communication between the Colony and the mainland of South America is maintained by the Falkland Islands Company's vessel R.M.S. Darwin which runs a mail and passenger service at least 12 times a year to Montevideo. Internal communications are maintained by sea with the Government-owned Philomel, the Darwin and a few small private vessels. There is also a small Government-owned air service. Travellers generally use horses when moving from one settlement to another on the mainland. South Georgia is served by vessels in the whaling industry and the Royal Research Ships John Biscoe and Shackleton call there and elsewhere in the Dependencies during the southern summer. There are no roads, except in Stanley and no inland waterway or rail service.
+
+Broadcasting
+
+The Government runs a broadcasting station at Stanley, operating on 585 and 3,958 kc/s, with a power of 5 kW and 500 watts respectively. In 1962 there were 575 wireless licence holders in the Colony. Government also operates a wired broadcasting service in Stanley which in 1962 had 337 subscribers. There is also a Government wireless station on the West Falkland to which most of the farms are linked by telephone. The East Falkland has telephone facilities similar to those on the West. Government operates an inter-island radio-telephone service and daily communication is maintained with Stanley.
+
+Principal Occupations
+
+In the Camp the main occupation is sheep-farming. In Stanley the population is employed on Government and public services, trading and shipping. The population is almost equally divided between Stanley and the Camp. Local labour is organized in the Falkland Islands Labour Federation which has a 90% membership of eligible labour.
+
+Main Crops and Products
+
+There is no agriculture in the Colony other than a very small acreage of oats grown for hay. Householders in Stanley and the Camp grow their own vegetables. There are no minerals and the only manufactured product is a small quantity of tallow. The principal products are wool, whale meal, whale oil, other whale products and seal oil.
+
+Trade
+
+| Year | Total Imports | Domestic Exports | Re-exports |
+|------|---------------|------------------|------------|
+| 1958 | 490,792       | 810,719          | 13,393     |
+| 1959 | 415,610       | 930,852          | 9,600      |
+| 1960 | 384,547       | 934,178          | 15,404     |
+| 1961 | 467,655       | 978,490          | 5,967      |
+| 1962 | 412,549       | 940,433          | 9,212      |
+
+| Year | Total Imports | Domestic Exports | Re-exports |
+|------|---------------|------------------|------------|
+| 1958 | 2,395,833     | 3,642,733        | 507,047    |
+| 1959 | 1,284,887     | 2,261,318        | 409,281    |
+| 1960 | 1,181,193     | 2,914,897        | 341,244    |
+| 1961 | 1,071,801     | 2,087,633        | 146,722    |
+| 1962 | 687,501       | 593,237          | 109,234    |
+The following table shows the direction of trade by percentages in 1938 and 1962:
+
+| Colony       | Imports 1938 | Imports 1962 | Exports To— |
+|--------------|-------------|-------------|-------------|
+| From—        |             |             | British Commonwealth .. | 72·85 | 79·01 |
+|              |             |             | Foreign Countries ..    | 27·15 | 20·99 |
+| Exports      |             |             | British Commonwealth .. | 91·81 | 99·22 |
+|              |             |             | Foreign Countries ..    | 8·19  | 0·78  |
+
+Dependencies
+
+| Imports 1938 | Imports 1962 | Exports To— |
+|-------------|-------------|-------------|
+| From—       |             |             |
+| British Commonwealth .. | 14·30 | 24·34 |
+| Foreign Countries ..    | 85·70 | 75·66 |
+| Exports      |             |             |
+| British Commonwealth .. | 44·44 | 49·86 |
+| Foreign Countries ..    | 55·56 | 49·68 |
+| High Seas .. | — | 0·46 |
+
+Principal Domestic Exports by Quantity and Value
+
+| Item          | 1938 | 1961 | 1962 |
+|---------------|------|------|------|
+| Wool          | 000 lb. | 3,618 | 4,812 | 4,661 |
+| Whale Meal and Other Whale Products | £000 | n.a. | 34,139 | 13,298 (b) |
+| Whale Oil and Seal Oil | 000 brls. | 195 | 117 | 39 |
+| Hides and Skins | 000 cwt. | n.a. | 3 | 3 |
+| Tallow        | cwt. | 167(a) | — | — |
+
+(a) casks
+(b) tons
+
+The chief imports are hardware, foodstuffs, timber, paint and chemicals.
+
+Governors
+
+(From 1833 to 1842 the Settlement was in charge of a serving naval officer.)
+
+1842 Lieut. R. C. Moody.
+1848 George Rennie.
+1855 Captain T. E. L. Moore, R.N.
+1862 Captain J. G. McKenzie, R.N.
+1866 W. C. F. Robinson.
+1870 Col. G. A. K. D'Arcy.
+1876 T. F. Callaghan, C.M.G.
+1880 Thomas Kerr, C.M.G.
+1891 Sir R. T. Goldsworthy, K.C.M.G.
+1897 Sir Wm. Grey-Wilson, K.C.M.G., K.B.E.
+1904 Sir W. L. Allardyce, K.C.M.G.
+1915 Sir W. D. Young, K.B.E., C.M.G.
+1920 Sir John Middleton, K.B.E., C.M.G.
+1927 Sir Arnold Hodson, K.C.M.G.
+1931 Sir James O'Grady, K.C.M.G.
+1935 Sir Herbert Henniker-Heaton, K.C.M.G.
+1941 Sir Allan Cardinall, K.B.E., C.M.G.
+1946 Sir Miles Clifford, K.B.E., C.M.G., E.D.
+1954 Sir Raynor Arthur, K.C.M.G., C.V.O.
+1957 Sir Edwin Arrowsmith, K.C.M.G.
+
+EXECUTIVE COUNCIL
+
+The Governor.
+The Colonial Secretary.
+The Senior Medical Officer.
+The Colonial Treasurer.
+A. G. Barton, C.B.E., J.P.
+N. K. Cameron, O.B.E., J.P.
+H. C. Harding, O.B.E., J.P.
+R. V. Goss.
+L. A. C. Bedford.
+Clerk—H. L. Bound.
+
+LEGISLATIVE COUNCIL
+
+The Governor (President).
+The Colonial Secretary
+The Senior Medical Officer
+Ex officio.
+The Colonial Treasurer
+2 Nominated Official Members.
+2 Nominated Unofficial Members.
+4 Elected Members.
+Clerk—H. L. Bound.
+
+CIVIL ESTABLISHMENT
+
+GOVERNOR AND COMMANDER-IN-CHIEF
+—Sir Edwin Arrowsmith, K.C.M.G.
+
+Colonial Secretary—W. H. Thompson, M.B.E.
+Colonial Treasurer—L. C. Gleadell, J.P.
+Auditor—(Vacant).
+Chief Constable—K. W. Gray, M.C.
+Collector of Customs—W. J. Grierson, M.B.E.
+Registrar-General—H. Bennett, J.P.
+Senior Medical Officer—R. S. Slessor, O.B.E.
+Superintendent of Education and Headmaster,
+Government School—D. J. Draycott.
+Superintendent, Posts and Telecommunications—J. Bound, E.D., J.P.
+Agricultural Officer—(Vacant).
+Superintendent of Works—L. Picton.
+
+DEPENDENCIES
+
+Administrative Officer, South Georgia—D. J. Coleman.
+

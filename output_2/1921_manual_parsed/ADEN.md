@@ -1,0 +1,77 @@
+
+ADEN.
+
+The peninsula of Aden is situated in lat. 12° 47'
+N. and long. 45° 10' E., about 100 miles east of the
+Straits of Bab-el-Mandeb, on the Arabian coast.
+The Settlement (the total area of which, exclusive
+of Perim, is 75 square miles) consists of two old
+craters forming rocky peninsulas:—Aden proper
+(area 21 square miles) on the south, and Little
+Aden (area 15 square miles) on the west—and a
+flat strip of coast, about three miles broad and
+known as Shaikh Othman (area 39 square miles).
+The peninsulas form the horns of a bay called
+Aden Back Bay, which is about eight miles broad
+from east to west and about four miles deep. Its
+entrance is about three miles across. The native
+town of Aden is situated on the east of the Aden
+peninsula, opposite a gap in the crater walls. On
+the west side of the peninsula, some four miles
+from the town, is Steamer Point, off which the
+large steamers lie. The highest point of the
+peninsula is 1,776 feet above sea level. The
+average annual rainfall is about 3 inches, and the
+maximum is about 8 inches. The climate is very
+hot, especially during the summer months. Aden
+is an important coaling station, and also an
+entrepôt for the trade with Arabia. The exports
+consist of coffee, gums, skins and hides, cotton
+goods, dyes, feathers, spices, etc. The population
+is about 45,000, of whom about 35,000 live in
+Aden peninsula. The settlement has hitherto
+been subject to the Government of Bombay, being
+presided over by a Resident, who is also
+commander of the troops in the garrison.
+
+Aden, after being a trade centre under its native
+kings, became subject in succession to the Abys-
+sinians and Persians. In 1538 it was captured by
+the Turks, who lost it some years later, but
+captured it again in 1551 and held it until they
+were expelled from the Yemen in 1630. The Aden
+peninsula was occupied by the British in 1839, and
+in 1868 Little Aden was obtained by purchase.
+The coastal strip between the two peninsulas was
+secured by purchases in 1882 and 1888.
+
+The Aden Protectorate, to the north and north-
+east of Aden, has an area of about 9,000 square
+miles and a population of over 100,000.
+
+PERIM, a bare rocky island, five square miles in
+area, with a population of about 1,200, lies in the
+Strait of Bab-el-Mandeb, about 1½ miles from the
+south-west corner of Arabia. It possesses a good
+harbour on the south-west side, with an entrance
+860 yards in breadth. It was occupied by the
+British in 1799, but subsequently abandoned, and
+was only re-occupied in 1857, when the overland
+route to India made the position important. It is
+a coaling and cable station, and forms part of the
+Settlement of Aden.
+
+SOCOTRA, an island situated about 150 miles E.N.E.
+of Cape Guardafui, in 12° 19'—12° 42' N. lat., and
+53° 21'—53° 30' E. long, and lying in the direct route
+to India, has been since 1876 under the Govern-
+ment of Aden, which pays a small subsidy to the
+Sultan of Keshin, to whom it belonged. It is
+famous for its aloes. The population of the island
+is about 12,000. It is rather less than 100 miles
+from east to west and about 30 miles broad. Its
+interior is mountainous. It was formally placed
+under British protection by agreement with the
+Sultan in October, 1886, together with the neigh-
+bouring Abdal Kute and Bromers Islands.
+

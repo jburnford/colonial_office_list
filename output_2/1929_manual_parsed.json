@@ -1,0 +1,366 @@
+{
+  "year": 1929,
+  "total_colonies": 36,
+  "parsing_method": "Manual LLM-based boundary verification (output_2)",
+  "remediation_date": "November 16, 2025",
+  "original_extraction_count": 46,
+  "corrections_applied": [
+    "Removed 12 Dominions entries (NEWFOUNDLAND, RHODESIA, AUSTRALIA states, BRITISH COLUMBIA, etc.)",
+    "These were from PART II-B (Dominions Office), not PART II-C (Colonial Office)",
+    "Merged STRAITS SETTLEMENTS with LABUAN subsections into single colony",
+    "Corrected ADEN boundary: 49349-49372 (was 49348-68238 - extended to end of entire document!)",
+    "Added TRISTAN DA CUNHA (49373-49389) - missing from original extraction",
+    "Added MISCELLANEOUS ISLANDS (49390-49398) - missing from original extraction",
+    "Net reduction: 46 \u2192 ~34 colonies (12 Dominions removed, 1 merged, 2 added)"
+  ],
+  "issues_found": {
+    "dominions_contamination": "SEVERE - First 12 entries were DOMINIONS (Australia, Canada, South Africa), not Colonial Office colonies. All before PART II-C boundary (line 23645)",
+    "labuan_over_extraction": "LABUAN (42092-45179) was not a separate colony - it's a subsection within STRAITS SETTLEMENTS appearing at lines 42092 and 42407",
+    "aden_massive_over_extraction": "ADEN extended from 49348 to 68238 (18,890 lines!) - included entire document end plus advertisements! Should be 49349-49372 (24 lines)",
+    "missing_colonies": "TRISTAN DA CUNHA (49373-49389) and MISCELLANEOUS ISLANDS (49390-49398) were not extracted",
+    "structural_issue": "Parser failed to distinguish PART II-B (Dominions Office) from PART II-C (Colonial Office)",
+    "british_columbia_error": "BRITISH COLUMBIA is a Canadian province listed in Dominions section, not a British colony in 1929!"
+  },
+  "historical_context": "Year 1929 - Post-WWI era. Document has two main sections: PART II-B (Dominions Office) covering Australia, Canada, NZ, South Africa; PART II-C (Colonial Office) starting line 23645. Original parser incorrectly treated both as colonies.",
+  "notes": [
+    "PART II-B (Dominions): Lines 6180-23644 - covers Australia, Canada, New Zealand, South Africa",
+    "PART II-C (Colonial Office): Lines 23645-49398 - actual Colonial Office colonies",
+    "PART III: Lines 49399+ - Honours lists and appendices",
+    "STRAITS SETTLEMENTS: 41499-45177 (3,679 lines) - includes LABUAN subsections",
+    "ADEN corrected: 49349-49372 (24 lines) - includes PERIM and SOCCOTRA dependencies",
+    "TRISTAN DA CUNHA: 49373-49389 (17 lines) - added",
+    "MISCELLANEOUS ISLANDS: 49390-49398 (9 lines) - added",
+    "All boundaries manually verified by reading OCR source content",
+    "This is the worst contamination case yet - mixing Dominions with Colonies!"
+  ],
+  "colonies": [
+    {
+      "name": "BAHAMAS",
+      "filename": "BAHAMASmd",
+      "start_line": 23645,
+      "end_line": 24696,
+      "line_count": 1051,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BERMUDA",
+      "filename": "BERMUDAmd",
+      "start_line": 24696,
+      "end_line": 25166,
+      "line_count": 470,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "filename": "BRITISH_GUIANAmd",
+      "start_line": 25166,
+      "end_line": 26007,
+      "line_count": 841,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "filename": "BRITISH_HONDURASmd",
+      "start_line": 26007,
+      "end_line": 26485,
+      "line_count": 478,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CEYLON",
+      "filename": "CEYLONmd",
+      "start_line": 26485,
+      "end_line": 27597,
+      "line_count": 1112,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CYPRUS",
+      "filename": "CYPRUSmd",
+      "start_line": 27597,
+      "end_line": 28419,
+      "line_count": 822,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "filename": "FALKLAND_ISLANDSmd",
+      "start_line": 28419,
+      "end_line": 28787,
+      "line_count": 368,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "FIJI",
+      "filename": "FIJImd",
+      "start_line": 28787,
+      "end_line": 29514,
+      "line_count": 727,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "THE GAMBIA",
+      "filename": "THE_GAMBIAmd",
+      "start_line": 29514,
+      "end_line": 29952,
+      "line_count": 438,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "GIBRALTAR",
+      "filename": "GIBRALTARmd",
+      "start_line": 29952,
+      "end_line": 31567,
+      "line_count": 1615,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "HONG KONG",
+      "filename": "HONG_KONGmd",
+      "start_line": 31567,
+      "end_line": 33270,
+      "line_count": 1703,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CAYMAN ISLANDS",
+      "filename": "CAYMAN_ISLANDSmd",
+      "start_line": 33270,
+      "end_line": 33314,
+      "line_count": 44,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TURKS AND CAICOS ISLANDS",
+      "filename": "TURKS_AND_CAICOS_ISLANDSmd",
+      "start_line": 33314,
+      "end_line": 34774,
+      "line_count": 1460,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ANTIGUA",
+      "filename": "ANTIGUAmd",
+      "start_line": 34774,
+      "end_line": 35426,
+      "line_count": 652,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "DOMINICA",
+      "filename": "DOMINICAmd",
+      "start_line": 35426,
+      "end_line": 35987,
+      "line_count": 561,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MALTA",
+      "filename": "MALTAmd",
+      "start_line": 35987,
+      "end_line": 36641,
+      "line_count": 654,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MAURITIUS",
+      "filename": "MAURITIUSmd",
+      "start_line": 36641,
+      "end_line": 37544,
+      "line_count": 903,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NIGERIA",
+      "filename": "NIGERIAmd",
+      "start_line": 37544,
+      "end_line": 39786,
+      "line_count": 2242,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "PALESTINE",
+      "filename": "PALESTINEmd",
+      "start_line": 39786,
+      "end_line": 40324,
+      "line_count": 538,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST. HELENA",
+      "filename": "ST_HELENAmd",
+      "start_line": 40324,
+      "end_line": 40509,
+      "line_count": 185,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ASCENSION",
+      "filename": "ASCENSIONmd",
+      "start_line": 40509,
+      "end_line": 40524,
+      "line_count": 15,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SEYCHELLES",
+      "filename": "SEYCHELLESmd",
+      "start_line": 40524,
+      "end_line": 40807,
+      "line_count": 283,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SIERRA LEONE",
+      "filename": "SIERRA_LEONEmd",
+      "start_line": 40807,
+      "end_line": 41498,
+      "line_count": 691,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "STRAITS SETTLEMENTS",
+      "filename": "STRAITS_SETTLEMENTSmd",
+      "start_line": 41498,
+      "end_line": 42091,
+      "line_count": 593,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "STRAITS SETTLEMENTS",
+      "filename": "STRAITS_SETTLEMENTS.md",
+      "start_line": 41499,
+      "end_line": 45177,
+      "line_count": 3679,
+      "is_appendix": false,
+      "extraction_method": "corrected_boundaries",
+      "note": "Merged with LABUAN subsections (appeared at lines 42092 and 42407). Includes Federated Malay States sections."
+    },
+    {
+      "name": "TRINIDAD",
+      "filename": "TRINIDADmd",
+      "start_line": 45179,
+      "end_line": 46280,
+      "line_count": 1101,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "UGANDA",
+      "filename": "UGANDAmd",
+      "start_line": 46280,
+      "end_line": 46716,
+      "line_count": 436,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "WEIHAIWEI",
+      "filename": "WEIHAIWEImd",
+      "start_line": 46716,
+      "end_line": 47640,
+      "line_count": 924,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST. LUCIA",
+      "filename": "ST_LUCIAmd",
+      "start_line": 47640,
+      "end_line": 47911,
+      "line_count": 271,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST. VINCENT",
+      "filename": "ST_VINCENTmd",
+      "start_line": 47911,
+      "end_line": 48196,
+      "line_count": 285,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ZANZIBAR",
+      "filename": "ZANZIBARmd",
+      "start_line": 48196,
+      "end_line": 48623,
+      "line_count": 427,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "IRAQ",
+      "filename": "IRAQmd",
+      "start_line": 48623,
+      "end_line": 48785,
+      "line_count": 162,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NORTH BORNEO",
+      "filename": "NORTH_BORNEOmd",
+      "start_line": 48785,
+      "end_line": 49348,
+      "line_count": 563,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ADEN",
+      "filename": "ADEN.md",
+      "start_line": 49349,
+      "end_line": 49372,
+      "line_count": 24,
+      "is_appendix": false,
+      "extraction_method": "corrected_boundaries",
+      "note": "Corrected from massive over-extraction (was 49348-68238, 18,890 lines!). Now 49349-49372 (24 lines). Includes PERIM and SOCCOTRA."
+    },
+    {
+      "name": "TRISTAN DA CUNHA",
+      "filename": "TRISTAN_DA_CUNHA.md",
+      "start_line": 49373,
+      "end_line": 49389,
+      "line_count": 17,
+      "is_appendix": false,
+      "extraction_method": "corrected_boundaries",
+      "note": "Added - was missing from original extraction. South Atlantic island group."
+    },
+    {
+      "name": "MISCELLANEOUS ISLANDS",
+      "filename": "MISCELLANEOUS_ISLANDS.md",
+      "start_line": 49390,
+      "end_line": 49398,
+      "line_count": 9,
+      "is_appendix": false,
+      "extraction_method": "corrected_boundaries",
+      "note": "Added - was missing from original extraction. Includes Ashmore, Caroline, Kuria-Muria islands, etc."
+    }
+  ]
+}

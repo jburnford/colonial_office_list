@@ -1,0 +1,6 @@
+ASCENSION.
+
+The island of Ascension, 34 miles in area, lying in the South Atlantic, lat. 7° 53' S. and long. 14° 18' W., has hitherto been under the supervision of the Lords Commissioners of the Admiralty, who have maintained a small naval station there. It was taken possession of in 1815, and is now garrisoned by marines. It is famous for its turtles, large numbers of which are caught between December and May. It is connected by telegraph with St. Vincent, St. Helena, and Sierra Leone. It is a barren, rocky peak of purely volcanic origin, and destitute of vegetation, except at the highest point, 2,870 feet high, but has been cultivated to an extent permitting the maintenance of 3,000 sheep. All expenses have hitherto been charged to naval funds.
+
+The transfer of the administration to the control of the Secretary of State for the Colonies, and the annexation of the island to the Colony of St. Helena are under consideration.
+

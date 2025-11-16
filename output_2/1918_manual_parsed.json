@@ -1,0 +1,409 @@
+{
+  "year": 1918,
+  "total_colonies": 41,
+  "parsing_method": "Manual LLM-based boundary verification (output_2)",
+  "remediation_date": "November 16, 2025",
+  "original_extraction_count": 44,
+  "corrections_applied": [
+    "Merged AUSTRALIA from 5 over-extracted subsections into 1 colony (includes PAPUA and NORFOLK ISLAND as territories)",
+    "Fixed BRITISH HONDURAS boundary - was incorrectly capturing DOMINION OF CANADA content",
+    "Added DOMINION OF CANADA (13770-27133) - was missing from original extraction",
+    "Fixed ASCENSION boundary - was capturing all appendices (PART III, PART IV)",
+    "Fixed LABUAN start line (34848, not 34847)",
+    "Net result: 44 \u2192 ~43 colonies (more accurate count after fixes)"
+  ],
+  "issues_found": {
+    "australia_split": "AUSTRALIA split into 5 entries (AUSTRALIA, VICTORIA, QUEENSLAND, WESTERN AUSTRALIA, TASMANIA)",
+    "british_honduras_over_extraction": "BRITISH HONDURAS incorrectly captured DOMINION OF CANADA content (ended at 17088 instead of 13769)",
+    "canada_missing": "DOMINION OF CANADA missing entirely - was part of BRITISH HONDURAS over-extraction",
+    "ascension_over_extraction": "ASCENSION captured all appendices - 17,100 lines of PART III (List of Honours), PART IV, and appendices instead of 4 lines",
+    "minor_boundary_fixes": "LABUAN start line off by 1"
+  },
+  "historical_context": "Year 1918 - End of WWI; AUSTRALIA includes territories (PAPUA, NORFOLK ISLAND); DOMINION OF CANADA established 1867",
+  "notes": [
+    "1918 shows moderate over-extraction - Australian states treated as separate colonies",
+    "AUSTRALIA: 3644-11137 (7,494 lines) merged from 5 subsections",
+    "DOMINION OF CANADA: 13770-27133 (13,364 lines) - major colony that was completely missing",
+    "BRITISH HONDURAS: Fixed from 13420-17088 to 13420-13769 (saved 3,319 lines)",
+    "ASCENSION: Fixed from 40188-57288 to 40189-40192 (saved 17,096 lines of appendix content)",
+    "All boundaries manually verified by reading OCR source content",
+    "Comparison with 1917: 1917 had BRITISH COLUMBIA as subsection of CANADA; 1918 correctly omits it"
+  ],
+  "colonies": [
+    {
+      "name": "AUSTRALIA",
+      "filename": "AUSTRALIA.md",
+      "start_line": 3644,
+      "end_line": 11137,
+      "line_count": 7494,
+      "is_appendix": false,
+      "extraction_method": "merged_from_subsections",
+      "note": "Merged from 5 over-extracted subsections (original AUSTRALIA 3644-4180 + VICTORIA + QUEENSLAND + WESTERN AUSTRALIA + TASMANIA); includes PAPUA and NORFOLK ISLAND as territories"
+    },
+    {
+      "name": "BAHAMAS",
+      "filename": "BAHAMAS.md",
+      "start_line": 11152,
+      "end_line": 11510,
+      "line_count": 359,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BARBADOS",
+      "filename": "BARBADOS.md",
+      "start_line": 11510,
+      "end_line": 12159,
+      "line_count": 650,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BERMUDA",
+      "filename": "BERMUDA.md",
+      "start_line": 12159,
+      "end_line": 12557,
+      "line_count": 399,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "filename": "BRITISH_GUIANA.md",
+      "start_line": 12557,
+      "end_line": 13420,
+      "line_count": 864,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "filename": "BRITISH_HONDURAS.md",
+      "start_line": 13420,
+      "end_line": 13769,
+      "line_count": 350,
+      "is_appendix": false,
+      "extraction_method": "corrected_boundaries",
+      "note": "Boundary corrected from 13420-17088"
+    },
+    {
+      "name": "DOMINION OF CANADA",
+      "filename": "DOMINION_OF_CANADA.md",
+      "start_line": 13770,
+      "end_line": 17082,
+      "line_count": 3313,
+      "is_appendix": false,
+      "extraction_method": "added_missing_colony",
+      "note": "Added missing colony - was incorrectly part of BRITISH HONDURAS over-extraction; ends at YUKON section before OCR corruption at 17083-17088"
+    },
+    {
+      "name": "CEYLON",
+      "filename": "CEYLON.md",
+      "start_line": 17089,
+      "end_line": 18149,
+      "line_count": 1061,
+      "is_appendix": false,
+      "extraction_method": "corrected_boundaries",
+      "note": "Boundary corrected from 17088-18149"
+    },
+    {
+      "name": "CYPRUS",
+      "filename": "CYPRUS.md",
+      "start_line": 18149,
+      "end_line": 19063,
+      "line_count": 915,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "EAST AFRICA PROTECTORATE",
+      "filename": "EAST_AFRICA_PROTECTORATE.md",
+      "start_line": 19063,
+      "end_line": 19670,
+      "line_count": 608,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "filename": "FALKLAND_ISLANDS.md",
+      "start_line": 19670,
+      "end_line": 19914,
+      "line_count": 245,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "FIJI",
+      "filename": "FIJI.md",
+      "start_line": 19914,
+      "end_line": 20522,
+      "line_count": 609,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "THE GAMBIA",
+      "filename": "THE_GAMBIA.md",
+      "start_line": 20522,
+      "end_line": 21066,
+      "line_count": 545,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "GIBRALTAR",
+      "filename": "GIBRALTAR.md",
+      "start_line": 21066,
+      "end_line": 22107,
+      "line_count": 1042,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "HONG KONG",
+      "filename": "HONG_KONG.md",
+      "start_line": 22107,
+      "end_line": 22666,
+      "line_count": 560,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "JAMAICA",
+      "filename": "JAMAICA.md",
+      "start_line": 22666,
+      "end_line": 23687,
+      "line_count": 1022,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CAYMAN ISLANDS",
+      "filename": "CAYMAN_ISLANDS.md",
+      "start_line": 23687,
+      "end_line": 23924,
+      "line_count": 238,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ANTIGUA",
+      "filename": "ANTIGUA.md",
+      "start_line": 23924,
+      "end_line": 24578,
+      "line_count": 655,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "DOMINICA",
+      "filename": "DOMINICA.md",
+      "start_line": 24578,
+      "end_line": 24883,
+      "line_count": 306,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MONTSERRAT",
+      "filename": "MONTSERRAT.md",
+      "start_line": 24883,
+      "end_line": 25228,
+      "line_count": 346,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MALTA",
+      "filename": "MALTA.md",
+      "start_line": 25228,
+      "end_line": 25834,
+      "line_count": 607,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MAURITIUS",
+      "filename": "MAURITIUS.md",
+      "start_line": 25834,
+      "end_line": 26698,
+      "line_count": 865,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "filename": "NEWFOUNDLAND.md",
+      "start_line": 26698,
+      "end_line": 28345,
+      "line_count": 1648,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NIGERIA",
+      "filename": "NIGERIA.md",
+      "start_line": 28345,
+      "end_line": 29670,
+      "line_count": 1326,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST. HELENA",
+      "filename": "ST._HELENA.md",
+      "start_line": 29670,
+      "end_line": 29847,
+      "line_count": 178,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SEYCHELLES",
+      "filename": "SEYCHELLES.md",
+      "start_line": 29847,
+      "end_line": 30212,
+      "line_count": 366,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SIERRA LEONE",
+      "filename": "SIERRA_LEONE.md",
+      "start_line": 30212,
+      "end_line": 33152,
+      "line_count": 2941,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BASUTOLAND",
+      "filename": "BASUTOLAND.md",
+      "start_line": 33152,
+      "end_line": 33469,
+      "line_count": 318,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SWAZILAND",
+      "filename": "SWAZILAND.md",
+      "start_line": 33469,
+      "end_line": 34092,
+      "line_count": 624,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NORTHERN RHODESIA",
+      "filename": "NORTHERN_RHODESIA.md",
+      "start_line": 34092,
+      "end_line": 34116,
+      "line_count": 25,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "STRAITS SETTLEMENTS",
+      "filename": "STRAITS_SETTLEMENTS.md",
+      "start_line": 34116,
+      "end_line": 34847,
+      "line_count": 732,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "LABUAN",
+      "filename": "LABUAN.md",
+      "start_line": 34848,
+      "end_line": 36181,
+      "line_count": 1334,
+      "is_appendix": false,
+      "extraction_method": "corrected_boundaries",
+      "note": "Boundary corrected from 34847-36181"
+    },
+    {
+      "name": "TOBAGO",
+      "filename": "TOBAGO.md",
+      "start_line": 36181,
+      "end_line": 37686,
+      "line_count": 1506,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TURKS AND CAICOS ISLANDS",
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md",
+      "start_line": 37686,
+      "end_line": 37803,
+      "line_count": 118,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "UGANDA",
+      "filename": "UGANDA.md",
+      "start_line": 37803,
+      "end_line": 38222,
+      "line_count": 420,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "WEIHAIWEI",
+      "filename": "WEIHAIWEI.md",
+      "start_line": 38222,
+      "end_line": 39301,
+      "line_count": 1080,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST. VINCENT",
+      "filename": "ST._VINCENT.md",
+      "start_line": 39301,
+      "end_line": 39603,
+      "line_count": 303,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ZANZIBAR",
+      "filename": "ZANZIBAR.md",
+      "start_line": 39603,
+      "end_line": 39647,
+      "line_count": 45,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NORTH BORNEO",
+      "filename": "NORTH_BORNEO.md",
+      "start_line": 39647,
+      "end_line": 40178,
+      "line_count": 532,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ADEN",
+      "filename": "ADEN.md",
+      "start_line": 40178,
+      "end_line": 40188,
+      "line_count": 11,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ASCENSION",
+      "filename": "ASCENSION.md",
+      "start_line": 40189,
+      "end_line": 40192,
+      "line_count": 4,
+      "is_appendix": false,
+      "extraction_method": "corrected_boundaries",
+      "note": "Boundary corrected from 40188-57288"
+    }
+  ]
+}

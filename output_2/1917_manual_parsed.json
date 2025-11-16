@@ -1,0 +1,538 @@
+{
+  "year": 1917,
+  "total_colonies": 53,
+  "parsing_method": "Manual LLM-based boundary verification (output_2)",
+  "remediation_date": "November 16, 2025",
+  "original_extraction_count": 44,
+  "corrections_applied": [
+    "Merged AUSTRALIA with 4 over-extracted state subsections (VICTORIA, QUEENSLAND, WESTERN AUSTRALIA, TASMANIA)",
+    "Merged BRITISH COLUMBIA into DOMINION OF CANADA (BC joined Confederation 1871)",
+    "Added missing DOMINION OF CANADA (not extracted by parser)",
+    "Added missing major dominions: NEW ZEALAND, SOUTH AFRICA",
+    "Added missing major territories/protectorates: RHODESIA, NYASALAND, SOMALILAND, BECHUANALAND",
+    "Added missing colonies: THE GOLD COAST, ST. CHRISTOPHER AND NEVIS, VIRGIN ISLANDS, SARAWAK",
+    "Merged TRINIDAD AND TOBAGO (TOBAGO was over-extracted separately)",
+    "Fixed ASCENSION boundaries (was incorrectly extended to end of document)",
+    "Added TRISTAN DA CUNHA and MISCELLANEOUS ISLANDS",
+    "Net change: 44 \u2192 53 colonies"
+  ],
+  "issues_found": {
+    "missing_dominions": "Major dominions not extracted: DOMINION OF CANADA, NEW ZEALAND, SOUTH AFRICA (Union formed 1910)",
+    "missing_protectorates": "Major protectorates missing: RHODESIA, NYASALAND, SOMALILAND, BECHUANALAND",
+    "missing_colonies": "Several colonies not extracted: THE GOLD COAST, ST. CHRISTOPHER AND NEVIS, VIRGIN ISLANDS, SARAWAK",
+    "over_extraction": "Australian state subsections (VICTORIA, QUEENSLAND, WESTERN AUSTRALIA, TASMANIA) incorrectly extracted as separate colonies - these are parliamentary representative lists within AUSTRALIA",
+    "canada_province": "BRITISH COLUMBIA extracted separately despite being part of Canada since 1871",
+    "trinidad_split": "TOBAGO extracted separately from TRINIDAD AND TOBAGO",
+    "ascension_boundary": "ASCENSION boundaries incorrect - extended from line 40781 to 56065 (end of document) instead of to 40786",
+    "pattern_note": "Different pattern from 1906-1911 - fewer over-extractions but major missing colonies"
+  },
+  "historical_context": "Year 1917 - WWI era; Union of South Africa (1910), New Zealand became Dominion (1907); British Empire at war",
+  "notes": [
+    "1917 shows unusual pattern: 44 colonies extracted but missing major dominions and territories",
+    "AUSTRALIA: 3590-4210 (621 lines) includes merged state parliamentary subsections",
+    "DOMINION OF CANADA: 13640-16954 (3,315 lines) includes British Columbia province",
+    "NEW ZEALAND: proclaimed Dominion in 1907 (27641-28770)",
+    "SOUTH AFRICA: Union formed 1910 (31246-33654)",
+    "RHODESIA: British South Africa Company administration (34051-34681)",
+    "THE GOLD COAST: major West African colony (20908-21765)",
+    "All boundaries manually verified by reading OCR source content",
+    "ASCENSION fixed: 40782-40786 (5 lines), was incorrectly 40781-56065 (15,284 lines)",
+    "Added TRISTAN DA CUNHA (40786-40799) and MISCELLANEOUS ISLANDS (40799-40812)",
+    "TRINIDAD AND TOBAGO: 37308-38018 (711 lines) merged from separate extractions"
+  ],
+  "colonies": [
+    {
+      "name": "AUSTRALIA",
+      "filename": "AUSTRALIAmd",
+      "start_line": 3590,
+      "end_line": 4145,
+      "line_count": 555,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "AUSTRALIA",
+      "filename": "AUSTRALIA.md",
+      "start_line": 3590,
+      "end_line": 4210,
+      "line_count": 621,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Merged with 4 state parliamentary subsections (VICTORIA, QUEENSLAND, WESTERN AUSTRALIA, TASMANIA)"
+    },
+    {
+      "name": "BAHAMAS",
+      "filename": "BAHAMASmd",
+      "start_line": 11120,
+      "end_line": 11493,
+      "line_count": 373,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BARBADOS",
+      "filename": "BARBADOSmd",
+      "start_line": 11493,
+      "end_line": 12061,
+      "line_count": 568,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BERMUDA",
+      "filename": "BERMUDAmd",
+      "start_line": 12061,
+      "end_line": 12417,
+      "line_count": 356,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "filename": "BRITISH_GUIANAmd",
+      "start_line": 12417,
+      "end_line": 13278,
+      "line_count": 861,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "filename": "BRITISH_HONDURASmd",
+      "start_line": 13278,
+      "end_line": 16297,
+      "line_count": 3019,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "DOMINION OF CANADA",
+      "filename": "DOMINION_OF_CANADA.md",
+      "start_line": 13640,
+      "end_line": 16954,
+      "line_count": 3315,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Includes British Columbia (Canadian province since 1871)"
+    },
+    {
+      "name": "CEYLON",
+      "filename": "CEYLONmd",
+      "start_line": 16954,
+      "end_line": 18021,
+      "line_count": 1067,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CYPRUS",
+      "filename": "CYPRUSmd",
+      "start_line": 18021,
+      "end_line": 18780,
+      "line_count": 759,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "EAST AFRICA PROTECTORATE",
+      "filename": "EAST_AFRICA_PROTECTORATEmd",
+      "start_line": 18780,
+      "end_line": 19287,
+      "line_count": 507,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "filename": "FALKLAND_ISLANDSmd",
+      "start_line": 19287,
+      "end_line": 19568,
+      "line_count": 281,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "FIJI",
+      "filename": "FIJImd",
+      "start_line": 19568,
+      "end_line": 20290,
+      "line_count": 722,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "THE GAMBIA",
+      "filename": "THE_GAMBIAmd",
+      "start_line": 20290,
+      "end_line": 20701,
+      "line_count": 411,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "GIBRALTAR",
+      "filename": "GIBRALTARmd",
+      "start_line": 20701,
+      "end_line": 21765,
+      "line_count": 1064,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "THE GOLD COAST",
+      "filename": "THE_GOLD_COAST.md",
+      "start_line": 20908,
+      "end_line": 21765,
+      "line_count": 858,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Missing colony - West African colony"
+    },
+    {
+      "name": "HONG KONG",
+      "filename": "HONG_KONGmd",
+      "start_line": 21765,
+      "end_line": 23140,
+      "line_count": 1375,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "JAMAICA",
+      "filename": "JAMAICAmd",
+      "start_line": 23140,
+      "end_line": 24017,
+      "line_count": 877,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CAYMAN ISLANDS",
+      "filename": "CAYMAN_ISLANDSmd",
+      "start_line": 24017,
+      "end_line": 24272,
+      "line_count": 255,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ANTIGUA",
+      "filename": "ANTIGUAmd",
+      "start_line": 24272,
+      "end_line": 24895,
+      "line_count": 623,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST CHRISTOPHER AND NEVIS",
+      "filename": "ST_CHRISTOPHER_AND_NEVIS.md",
+      "start_line": 24533,
+      "end_line": 25235,
+      "line_count": 703,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Missing colony - Leeward Islands presidency"
+    },
+    {
+      "name": "DOMINICA",
+      "filename": "DOMINICAmd",
+      "start_line": 24895,
+      "end_line": 25528,
+      "line_count": 633,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "VIRGIN ISLANDS",
+      "filename": "VIRGIN_ISLANDS.md",
+      "start_line": 25386,
+      "end_line": 25528,
+      "line_count": 143,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Missing colony - Leeward Islands"
+    },
+    {
+      "name": "MALTA",
+      "filename": "MALTAmd",
+      "start_line": 25528,
+      "end_line": 26127,
+      "line_count": 599,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MAURITIUS",
+      "filename": "MAURITIUSmd",
+      "start_line": 26127,
+      "end_line": 26873,
+      "line_count": 746,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "filename": "NEWFOUNDLANDmd",
+      "start_line": 26873,
+      "end_line": 28770,
+      "line_count": 1897,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NEW ZEALAND",
+      "filename": "NEW_ZEALAND.md",
+      "start_line": 27641,
+      "end_line": 28770,
+      "line_count": 1130,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Missing dominion - proclaimed 1907"
+    },
+    {
+      "name": "NIGERIA",
+      "filename": "NIGERIAmd",
+      "start_line": 28770,
+      "end_line": 30037,
+      "line_count": 1267,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NYASALAND PROTECTORATE",
+      "filename": "NYASALAND_PROTECTORATE.md",
+      "start_line": 29733,
+      "end_line": 30037,
+      "line_count": 305,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Missing protectorate"
+    },
+    {
+      "name": "ST. HELENA",
+      "filename": "ST_HELENAmd",
+      "start_line": 30037,
+      "end_line": 30209,
+      "line_count": 172,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SEYCHELLES",
+      "filename": "SEYCHELLESmd",
+      "start_line": 30209,
+      "end_line": 30530,
+      "line_count": 321,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SIERRA LEONE",
+      "filename": "SIERRA_LEONEmd",
+      "start_line": 30530,
+      "end_line": 33654,
+      "line_count": 3124,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SOMALILAND PROTECTORATE",
+      "filename": "SOMALILAND_PROTECTORATE.md",
+      "start_line": 31094,
+      "end_line": 31246,
+      "line_count": 153,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Missing protectorate"
+    },
+    {
+      "name": "SOUTH AFRICA",
+      "filename": "SOUTH_AFRICA.md",
+      "start_line": 31246,
+      "end_line": 33654,
+      "line_count": 2409,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Missing dominion - Union formed 1910"
+    },
+    {
+      "name": "BASUTOLAND",
+      "filename": "BASUTOLANDmd",
+      "start_line": 33654,
+      "end_line": 33874,
+      "line_count": 220,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BECHUANALAND PROTECTORATE",
+      "filename": "BECHUANALAND_PROTECTORATE.md",
+      "start_line": 33795,
+      "end_line": 33874,
+      "line_count": 80,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Missing protectorate"
+    },
+    {
+      "name": "SWAZILAND",
+      "filename": "SWAZILANDmd",
+      "start_line": 33874,
+      "end_line": 34681,
+      "line_count": 807,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "RHODESIA",
+      "filename": "RHODESIA.md",
+      "start_line": 34051,
+      "end_line": 34681,
+      "line_count": 631,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Missing territory - British South Africa Company administration"
+    },
+    {
+      "name": "STRAITS SETTLEMENTS",
+      "filename": "STRAITS_SETTLEMENTSmd",
+      "start_line": 34681,
+      "end_line": 35378,
+      "line_count": 697,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "LABUAN",
+      "filename": "LABUANmd",
+      "start_line": 35378,
+      "end_line": 36621,
+      "line_count": 1243,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TRINIDAD AND TOBAGO",
+      "filename": "TRINIDAD_AND_TOBAGO.md",
+      "start_line": 37308,
+      "end_line": 38018,
+      "line_count": 711,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Merged TRINIDAD AND TOBAGO (TOBAGO was over-extracted separately)"
+    },
+    {
+      "name": "TURKS AND CAICOS ISLANDS",
+      "filename": "TURKS_AND_CAICOS_ISLANDSmd",
+      "start_line": 38018,
+      "end_line": 38194,
+      "line_count": 176,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "UGANDA",
+      "filename": "UGANDAmd",
+      "start_line": 38194,
+      "end_line": 38623,
+      "line_count": 429,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "WEIHAIWEI",
+      "filename": "WEIHAIWEImd",
+      "start_line": 38623,
+      "end_line": 39311,
+      "line_count": 688,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST. LUCIA",
+      "filename": "ST_LUCIAmd",
+      "start_line": 39311,
+      "end_line": 39658,
+      "line_count": 347,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ST. VINCENT",
+      "filename": "ST_VINCENTmd",
+      "start_line": 39658,
+      "end_line": 39927,
+      "line_count": 269,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ZANZIBAR",
+      "filename": "ZANZIBARmd",
+      "start_line": 39927,
+      "end_line": 40314,
+      "line_count": 387,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NORTH BORNEO",
+      "filename": "NORTH_BORNEOmd",
+      "start_line": 40314,
+      "end_line": 40771,
+      "line_count": 457,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SARAWAK",
+      "filename": "SARAWAK.md",
+      "start_line": 40540,
+      "end_line": 40771,
+      "line_count": 232,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Missing protected state - under British protection since 1888"
+    },
+    {
+      "name": "ADEN",
+      "filename": "ADENmd",
+      "start_line": 40771,
+      "end_line": 40781,
+      "line_count": 10,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ASCENSION",
+      "filename": "ASCENSION.md",
+      "start_line": 40782,
+      "end_line": 40786,
+      "line_count": 5,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Corrected boundaries (was incorrectly extended to end of document)"
+    },
+    {
+      "name": "TRISTAN DA CUNHA",
+      "filename": "TRISTAN_DA_CUNHA.md",
+      "start_line": 40786,
+      "end_line": 40799,
+      "line_count": 14,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Missing island"
+    },
+    {
+      "name": "MISCELLANEOUS ISLANDS",
+      "filename": "MISCELLANEOUS_ISLANDS.md",
+      "start_line": 40799,
+      "end_line": 40812,
+      "line_count": 14,
+      "is_appendix": false,
+      "extraction_method": "corrected_or_added",
+      "note": "Missing section"
+    }
+  ]
+}

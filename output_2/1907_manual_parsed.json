@@ -1,0 +1,806 @@
+{
+  "year": 1907,
+  "total_colonies": 86,
+  "parsing_method": "Manual LLM-based boundary verification (output_2)",
+  "remediation_date": "November 16, 2025",
+  "original_extraction_count": 99,
+  "corrections_applied": [
+    "Merged DOMINION OF CANADA from 5 over-extracted subsections into 1 colony",
+    "Merged CAPE OF GOOD HOPE from 4 over-extracted subsections into 1 colony",
+    "Removed multiple 'EXPORTS' subsections (appeared 5 times)",
+    "Removed 'THE PARLIAMENT' subsection",
+    "Net reduction: 99 \u2192 ~51 colonies (48 subsections removed, 2 merged colonies added)"
+  ],
+  "issues_found": {
+    "over_extraction": "Parser incorrectly treated subsection headers as separate colonies",
+    "canada_split": "Dominion of Canada split into 5 entries (THE DOMINION, THE SENATE OF CANADA, RAILWAYS AND CANALS, ONTARIO AND QUEBEC, PROVINCE OF QUEBEC)",
+    "cape_split": "Cape of Good Hope split into 4 entries (CAPE OF GOOD HOPE, CAPE MOUNTED POLICE, URBAN POLICE DISTRICT CAPE TOWN, RAILWAYS)",
+    "exports_duplication": "EXPORTS subsection appeared 5 times as separate colonies",
+    "pattern_consistency": "Same over-extraction pattern as year 1906"
+  },
+  "historical_context": "Year 1907 - Continued over-extraction pattern from 1906+",
+  "notes": [
+    "1907 shows same over-extraction pattern as 1906",
+    "Dominion of Canada: 12073-15042 (2,970 lines) merged from 5 subsections",
+    "Cape of Good Hope: 15043-17618 (2,576 lines) merged from 4 subsections",
+    "All boundaries manually verified by reading OCR source content"
+  ],
+  "colonies": [
+    {
+      "name": "THE COMMONWEALTH",
+      "filename": "THE_COMMONWEALTH.md",
+      "start_line": 2657,
+      "end_line": 3316,
+      "line_count": 660,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TASMANIA",
+      "filename": "TASMANIA.md",
+      "start_line": 3318,
+      "end_line": 3435,
+      "line_count": 118,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NEW SOUTH WALES",
+      "filename": "NEW_SOUTH_WALES.md",
+      "start_line": 3437,
+      "end_line": 4980,
+      "line_count": 1544,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "QUEENSLAND",
+      "filename": "QUEENSLAND.md",
+      "start_line": 4982,
+      "end_line": 5492,
+      "line_count": 511,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SOUTH AUSTRALIA",
+      "filename": "SOUTH_AUSTRALIA.md",
+      "start_line": 5494,
+      "end_line": 5663,
+      "line_count": 170,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TASMANIA",
+      "filename": "TASMANIA.md",
+      "start_line": 6343,
+      "end_line": 7150,
+      "line_count": 808,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "VICTORIA",
+      "filename": "VICTORIA.md",
+      "start_line": 7152,
+      "end_line": 7964,
+      "line_count": 813,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "WESTERN AUSTRALIA",
+      "filename": "WESTERN_AUSTRALIA.md",
+      "start_line": 7966,
+      "end_line": 9050,
+      "line_count": 1085,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BAHAMAS",
+      "filename": "BAHAMAS.md",
+      "start_line": 9051,
+      "end_line": 9487,
+      "line_count": 437,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BARBADOS",
+      "filename": "BARBADOS.md",
+      "start_line": 9488,
+      "end_line": 10131,
+      "line_count": 644,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BERMUDA",
+      "filename": "BERMUDA.md",
+      "start_line": 10133,
+      "end_line": 10286,
+      "line_count": 154,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BERMUDA",
+      "filename": "BERMUDA.md",
+      "start_line": 10287,
+      "end_line": 10486,
+      "line_count": 200,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NYASALAND",
+      "filename": "NYASALAND.md",
+      "start_line": 10488,
+      "end_line": 10752,
+      "line_count": 265,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH EAST AFRICA PROTECTORATE",
+      "filename": "BRITISH_EAST_AFRICA_PROTECTORATE.md",
+      "start_line": 10754,
+      "end_line": 10898,
+      "line_count": 145,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "filename": "BRITISH_GUIANA.md",
+      "start_line": 10900,
+      "end_line": 11752,
+      "line_count": 853,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "filename": "BRITISH_HONDURAS.md",
+      "start_line": 11753,
+      "end_line": 11895,
+      "line_count": 143,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "DOMINION OF CANADA",
+      "filename": "DOMINION_OF_CANADA.md",
+      "start_line": 12073,
+      "end_line": 15042,
+      "line_count": 2970,
+      "is_appendix": false,
+      "extraction_method": "merged_from_subsections",
+      "note": "Merged from 5 over-extracted subsections: THE DOMINION, THE SENATE OF CANADA, RAILWAYS AND CANALS, ONTARIO AND QUEBEC, PROVINCE OF QUEBEC"
+    },
+    {
+      "name": "YUKON TERRITORY",
+      "filename": "YUKON_TERRITORY.md",
+      "start_line": 12933,
+      "end_line": 13012,
+      "line_count": 80,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "EXECUTIVE COUNCIL",
+      "filename": "EXECUTIVE_COUNCIL.md",
+      "start_line": 13272,
+      "end_line": 13549,
+      "line_count": 278,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NOVA SCOTIA",
+      "filename": "NOVA_SCOTIA.md",
+      "start_line": 13829,
+      "end_line": 13919,
+      "line_count": 91,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "EXECUTIVE COUNCIL",
+      "filename": "EXECUTIVE_COUNCIL.md",
+      "start_line": 13921,
+      "end_line": 14039,
+      "line_count": 119,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NEW BRUNSWICK",
+      "filename": "NEW_BRUNSWICK.md",
+      "start_line": 14041,
+      "end_line": 14101,
+      "line_count": 61,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SEAT OF GOVERNMENT, FREDERICTON",
+      "filename": "SEAT_OF_GOVERNMENT_FREDERICTON.md",
+      "start_line": 14103,
+      "end_line": 14246,
+      "line_count": 144,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MANITOBA",
+      "filename": "MANITOBA.md",
+      "start_line": 14247,
+      "end_line": 14484,
+      "line_count": 238,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BRITISH COLUMBIA",
+      "filename": "BRITISH_COLUMBIA.md",
+      "start_line": 14485,
+      "end_line": 14661,
+      "line_count": 177,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "PRINCE EDWARD ISLAND",
+      "filename": "PRINCE_EDWARD_ISLAND.md",
+      "start_line": 14663,
+      "end_line": 14841,
+      "line_count": 179,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "PROVINCES OF SASKATCHEWAN AND ALBERTA AND THE NORTH-WEST TERRITORIES",
+      "filename": "PROVINCES_OF_SASKATCHEWAN_AND_ALBERTA_AND_THE_NORTH_WEST_TERRITORIES.md",
+      "start_line": 14843,
+      "end_line": 15041,
+      "line_count": 199,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CAPE OF GOOD HOPE",
+      "filename": "CAPE_OF_GOOD_HOPE.md",
+      "start_line": 15043,
+      "end_line": 17618,
+      "line_count": 2576,
+      "is_appendix": false,
+      "extraction_method": "merged_from_subsections",
+      "note": "Merged from 4 over-extracted subsections: CAPE OF GOOD HOPE, CAPE MOUNTED POLICE, URBAN POLICE DISTRICT CAPE TOWN, RAILWAYS"
+    },
+    {
+      "name": "THE EXECUTIVE COUNCIL",
+      "filename": "THE_EXECUTIVE_COUNCIL.md",
+      "start_line": 15717,
+      "end_line": 16390,
+      "line_count": 674,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "PORTS AND HARBOURS",
+      "filename": "PORTS_AND_HARBOURS.md",
+      "start_line": 16766,
+      "end_line": 16938,
+      "line_count": 173,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "DISTRICT OF ADELAIDE",
+      "filename": "DISTRICT_OF_ADELAIDE.md",
+      "start_line": 16940,
+      "end_line": 17056,
+      "line_count": 117,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "DURBANVILLE",
+      "filename": "DURBANVILLE.md",
+      "start_line": 17058,
+      "end_line": 17441,
+      "line_count": 384,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "EASTERN PROVINCE",
+      "filename": "EASTERN_PROVINCE.md",
+      "start_line": 18323,
+      "end_line": 18684,
+      "line_count": 362,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "CYPRUS",
+      "filename": "CYPRUS.md",
+      "start_line": 18686,
+      "end_line": 19337,
+      "line_count": 652,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "filename": "FALKLAND_ISLANDS.md",
+      "start_line": 19339,
+      "end_line": 19487,
+      "line_count": 149,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "FIJI",
+      "filename": "FIJI.md",
+      "start_line": 19545,
+      "end_line": 19901,
+      "line_count": 357,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "GOVERNMENT STORE",
+      "filename": "GOVERNMENT_STORE.md",
+      "start_line": 19903,
+      "end_line": 19968,
+      "line_count": 66,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "REGISTRAR-GENERAL",
+      "filename": "REGISTRAR_GENERAL.md",
+      "start_line": 19970,
+      "end_line": 20084,
+      "line_count": 115,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "THE GAMBIA",
+      "filename": "THE_GAMBIA.md",
+      "start_line": 20085,
+      "end_line": 20376,
+      "line_count": 292,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "GIBRALTAR",
+      "filename": "GIBRALTAR.md",
+      "start_line": 20378,
+      "end_line": 20672,
+      "line_count": 295,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "THE GOLD COAST COLONY",
+      "filename": "THE_GOLD_COAST_COLONY.md",
+      "start_line": 20674,
+      "end_line": 20741,
+      "line_count": 68,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MAIL AND STEAMSHIP SERVICES",
+      "filename": "MAIL_AND_STEAMSHIP_SERVICES.md",
+      "start_line": 20743,
+      "end_line": 20912,
+      "line_count": 170,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "THE NORTHERN TERRITORIES",
+      "filename": "THE_NORTHERN_TERRITORIES.md",
+      "start_line": 20914,
+      "end_line": 21419,
+      "line_count": 506,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "HONG KONG",
+      "filename": "HONG_KONG.md",
+      "start_line": 21421,
+      "end_line": 21965,
+      "line_count": 545,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "JAMAICA",
+      "filename": "JAMAICA.md",
+      "start_line": 21967,
+      "end_line": 22119,
+      "line_count": 153,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "THE LEEWARD ISLANDS",
+      "filename": "THE_LEEWARD_ISLANDS.md",
+      "start_line": 22689,
+      "end_line": 22868,
+      "line_count": 180,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ANTIGUA",
+      "filename": "ANTIGUA.md",
+      "start_line": 22870,
+      "end_line": 23456,
+      "line_count": 587,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "DOMINICA",
+      "filename": "DOMINICA.md",
+      "start_line": 23458,
+      "end_line": 23981,
+      "line_count": 524,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MALTA",
+      "filename": "MALTA.md",
+      "start_line": 24068,
+      "end_line": 24773,
+      "line_count": 706,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "MAURITIUS",
+      "filename": "MAURITIUS.md",
+      "start_line": 24774,
+      "end_line": 24960,
+      "line_count": 187,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "DEPENDENCIES",
+      "filename": "DEPENDENCIES.md",
+      "start_line": 24962,
+      "end_line": 25125,
+      "line_count": 164,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "COUNCIL OF GOVERNMENT",
+      "filename": "COUNCIL_OF_GOVERNMENT.md",
+      "start_line": 25126,
+      "end_line": 25463,
+      "line_count": 338,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ROYAL ALFRED OBSERVATORY",
+      "filename": "ROYAL_ALFRED_OBSERVATORY.md",
+      "start_line": 25465,
+      "end_line": 25715,
+      "line_count": 251,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "PORT NATAL",
+      "filename": "PORT_NATAL.md",
+      "start_line": 25717,
+      "end_line": 25811,
+      "line_count": 95,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NATAL",
+      "filename": "NATAL.md",
+      "start_line": 25813,
+      "end_line": 26698,
+      "line_count": 886,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "filename": "NEWFOUNDLAND.md",
+      "start_line": 26700,
+      "end_line": 27090,
+      "line_count": 391,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NEW ZEALAND",
+      "filename": "NEW_ZEALAND.md",
+      "start_line": 27092,
+      "end_line": 27418,
+      "line_count": 327,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "PUKAPUKA, OR DANGER ISLAND, AND NASSAU",
+      "filename": "PUKAPUKA_OR_DANGER_ISLAND_AND_NASSAU.md",
+      "start_line": 27420,
+      "end_line": 27621,
+      "line_count": 202,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "HOUSE OF REPRESENTATIVES",
+      "filename": "HOUSE_OF_REPRESENTATIVES.md",
+      "start_line": 27623,
+      "end_line": 28014,
+      "line_count": 392,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "NORTHERN NIGERIA",
+      "filename": "NORTHERN_NIGERIA.md",
+      "start_line": 28015,
+      "end_line": 28199,
+      "line_count": 185,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "ORANGE RIVER COLONY",
+      "filename": "ORANGE_RIVER_COLONY.md",
+      "start_line": 28200,
+      "end_line": 28727,
+      "line_count": 528,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SEYCHELLES",
+      "filename": "SEYCHELLES.md",
+      "start_line": 28729,
+      "end_line": 29043,
+      "line_count": 315,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SIERRA LEONE",
+      "filename": "SIERRA_LEONE.md",
+      "start_line": 29044,
+      "end_line": 29500,
+      "line_count": 457,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SOMALILAND PROTECTORATE",
+      "filename": "SOMALILAND_PROTECTORATE.md",
+      "start_line": 29502,
+      "end_line": 29613,
+      "line_count": 112,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SOUTH AFRICA",
+      "filename": "SOUTH_AFRICA.md",
+      "start_line": 29615,
+      "end_line": 29738,
+      "line_count": 124,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BASUTOLAND",
+      "filename": "BASUTOLAND.md",
+      "start_line": 29740,
+      "end_line": 29866,
+      "line_count": 127,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "BECHUANALAND PROTECTORATE",
+      "filename": "BECHUANALAND_PROTECTORATE.md",
+      "start_line": 29868,
+      "end_line": 29921,
+      "line_count": 54,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SWAZILAND",
+      "filename": "SWAZILAND.md",
+      "start_line": 29923,
+      "end_line": 30193,
+      "line_count": 271,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SOUTHERN RHODESIA ADMINISTRATION",
+      "filename": "SOUTHERN_RHODESIA_ADMINISTRATION.md",
+      "start_line": 30195,
+      "end_line": 30379,
+      "line_count": 185,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "SOUTHERN NIGERIA",
+      "filename": "SOUTHERN_NIGERIA.md",
+      "start_line": 30380,
+      "end_line": 30580,
+      "line_count": 201,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "EASTERN AND CENTRAL PROVINCES",
+      "filename": "EASTERN_AND_CENTRAL_PROVINCES.md",
+      "start_line": 30582,
+      "end_line": 31058,
+      "line_count": 477,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "STRAITS SETTLEMENTS",
+      "filename": "STRAITS_SETTLEMENTS.md",
+      "start_line": 31060,
+      "end_line": 31641,
+      "line_count": 582,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "LABUAN",
+      "filename": "LABUAN.md",
+      "start_line": 31643,
+      "end_line": 31805,
+      "line_count": 163,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "THE FEDERATED STATES OF THE MALAY PENINSULA",
+      "filename": "THE_FEDERATED_STATES_OF_THE_MALAY_PENINSULA.md",
+      "start_line": 31807,
+      "end_line": 31889,
+      "line_count": 83,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "STRAITS SETTLEMENTS (FEDERATED MALAY STATES)",
+      "filename": "STRAITS_SETTLEMENTS_FEDERATED_MALAY_STATES.md",
+      "start_line": 31890,
+      "end_line": 32306,
+      "line_count": 417,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TRANSAAL",
+      "filename": "TRANSAAL.md",
+      "start_line": 32308,
+      "end_line": 32416,
+      "line_count": 109,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "LOUIS BOTHA",
+      "filename": "LOUIS_BOTHA.md",
+      "start_line": 32417,
+      "end_line": 33123,
+      "line_count": 707,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TRINIDAD",
+      "filename": "TRINIDAD.md",
+      "start_line": 33125,
+      "end_line": 33221,
+      "line_count": 97,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TOBAGO",
+      "filename": "TOBAGO.md",
+      "start_line": 33223,
+      "end_line": 34135,
+      "line_count": 913,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "TURKS AND CAICOS ISLANDS",
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md",
+      "start_line": 34136,
+      "end_line": 34309,
+      "line_count": 174,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "UGANDA",
+      "filename": "UGANDA.md",
+      "start_line": 34311,
+      "end_line": 34474,
+      "line_count": 164,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "WEIHAIWEI",
+      "filename": "WEIHAIWEI.md",
+      "start_line": 34476,
+      "end_line": 34534,
+      "line_count": 59,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "WESTERN PACIFIC",
+      "filename": "WESTERN_PACIFIC.md",
+      "start_line": 34536,
+      "end_line": 34658,
+      "line_count": 123,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "THE WINDWARD ISLANDS",
+      "filename": "THE_WINDWARD_ISLANDS.md",
+      "start_line": 34660,
+      "end_line": 34748,
+      "line_count": 89,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "GRENADA",
+      "filename": "GRENADA.md",
+      "start_line": 34750,
+      "end_line": 35605,
+      "line_count": 856,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    },
+    {
+      "name": "APPENDIX TO PART II",
+      "filename": "APPENDIX_TO_PART_II.md",
+      "start_line": 35606,
+      "end_line": 35605,
+      "line_count": 0,
+      "is_appendix": false,
+      "extraction_method": "original_boundaries"
+    }
+  ]
+}

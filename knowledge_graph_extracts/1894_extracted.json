@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "source_year": 1894,
+    "source_document": "Colonial Office List 1894",
+    "extraction_date": "2025-11-16",
+    "total_colonies": 47,
+    "methodology": "Comprehensive entity extraction following EXTRACTION_METHODOLOGY.md guidelines"
+  },
+  "colonies": {
+    "NOVA_SCOTIA": {
+      "geographic_entities": {
+        "colony_name": "Nova Scotia",
+        "location": {
+          "description": "peninsula between 43° 46' N. lat., and 61° 67' W. long., connected with New Brunswick by an isthmus about 14 miles wide",
+          "latitude_range": "43° 46' N",
+          "longitude_range": "61° 67' W",
+          "dimensions": "length about 300 miles, breadth about 100 at its widest",
+          "area_square_miles": 20907,
+          "area_notes": "about one-fifth part consists of lakes, rivers, and inlets of the sea"
+        },
+        "capital": "Halifax",
+        "major_cities": [
+          {"name": "Halifax", "description": "harbour has an area of about 10 square miles, is open at all seasons, affording safe anchorage for 1,000 ships. British Government has an extensive dockyard"},
+          {"name": "Annapolis"},
+          {"name": "Antigonish"},
+          {"name": "Digby"},
+          {"name": "Kentville"},
+          {"name": "Truro"},
+          {"name": "Yarmouth"},
+          {"name": "Pictou"},
+          {"name": "Windsor"},
+          {"name": "Sydney", "location": "in Cape Breton"},
+          {"name": "Amherst"},
+          {"name": "Lunenburg"},
+          {"name": "Liverpool"}
+        ],
+        "islands": [
+          {"name": "Cape Breton", "description": "separated by the Gut of Canso, forms part of the province"}
+        ]
+      },
+      "climate": {
+        "description": "remarkably healthy, more temperate than any other part of the Dominion, but fogs prevail on the coast at certain seasons",
+        "temperature_mean_halifax": "65°",
+        "temperature_range": "from 11° below zero to 88°",
+        "rainfall_annual_average": "34 inches, evenly distributed"
+      },
+      "population": {
+        "census_total": 450523,
+        "census_notes": "at the last census"
+      },
+      "history": {
+        "events": [
+          {"year": 1497, "event": "discovered by John Cabot"},
+          {"year": 1598, "event": "colonized by the French"},
+          {"year": 1627, "event": "taken by the English, grant made to Sir W. Alexander by James I"},
+          {"year": 1632, "event": "restored to France, with Quebec, by the treaty of St. Germain-en-laye"},
+          {"year": 1714, "event": "ceded to England at the Peace of Utrecht"},
+          {"year": 1748, "event": "after the Peace of Aix-la-Chapelle, settlement of disbanded troops formed by Lord Halifax"},
+          {"year": 1758, "event": "Cape Breton finally taken from the French"},
+          {"year": "1784-1819", "event": "Cape Breton formed a separate colony"}
+        ]
+      },
+      "economy": {
+        "industries": [
+          "agriculture",
+          "fruit growing",
+          "fisheries",
+          "ship-building",
+          "timber trade"
+        ],
+        "natural_resources": [
+          {"resource": "coal", "description": "plentiful"},
+          {"resource": "iron ore", "description": "plentiful"},
+          {"resource": "gold", "description": "discovered, yielding fair returns"}
+        ]
+      },
+      "constitution": {
+        "representation_dominion": {
+          "senate_members": 12,
+          "house_of_commons_members": 21
+        },
+        "local_government": {
+          "executive": {
+            "head": "Lieutenant-Governor",
+            "executive_council": {"members": 9, "description": "three of whom are departmental heads"}
+          },
+          "legislature": {
+            "legislative_council": {"members": 21, "appointment": "appointed by the Governor for life"},
+            "house_of_assembly": {"members": 38, "election": "elected every four years"}
+          },
+          "member_payment": "$500 sessional indemnity"
+        }
+      },
+      "education": {
+        "system": "established by law in 1865",
+        "central_control": "Council of Public Instruction—a body identical in membership with the Executive Council of the Province",
+        "local_management": "Board of Trustees chosen by ratepayers (in towns, Town Council or committee)",
+        "statistics_1890": {
+          "schools": 2193,
+          "attendance": 86488
+        },
+        "compulsory": "between ages of 7 and 12, non-attendance exposes to pecuniary penalties",
+        "higher_education": {
+          "examining_university": "Halifax",
+          "sectarian_colleges": 5
+        }
+      },
+      "finances": {
+        "provincial_finances": [
+          {"year": 1887, "total_revenue": 656639, "subsidy": 432877, "expenditure": 664103},
+          {"year": 1888, "total_revenue": 712951, "subsidy": 432869, "expenditure": 668400, "net_debt": 287831},
+          {"year": 1889, "total_revenue": 668775, "subsidy": 432870, "expenditure": 718942, "net_debt": 1148547}
+        ]
+      },
+      "officials": {
+        "lieutenant_governors_since_confederation": [
+          {"year": 1867, "name": "Major-Gen. Sir C. Hastings Doyle", "honors": "K.C.M.G."},
+          {"year": 1870, "name": "Sir Ed. Kenny", "role": "administrator"},
+          {"year": 1873, "name": "Hon. Joseph Howe"},
+          {"year": 1878, "name": "Sir A. G. Archibald", "honors": "K.C.M.G., Q.C."},
+          {"year": 1883, "name": "Matthew H. Richey, Esq.", "honors": "Q.C., D.C.L."},
+          {"year": 1888, "name": "Hon. A. W. McLellan"},
+          {"year": 1890, "name": "M. B. Daly, Esq."}
+        ],
+        "current_government": {
+          "lieutenant_governor": {"name": "Malachy Bowes Daly, Esq.", "salary": 9000},
+          "private_secretary": {"name": "Lieut.-Col. H. W. Clerke", "salary": 1250},
+          "provincial_aides_de_camp": [
+            "Lieut.-Colonel H. W. Clerke",
+            "Major Menger, 66th Fusiliers",
+            "Captain J. A. Ritchie, 66th Fusiliers"
+          ]
+        },
+        "executive_council": {
+          "president_premier": {"name": "Hon. W. S. Fielding", "title": "President of the Council, Premier and Provincial Secretary"},
+          "attorney_general": {"name": "Hon. J. W. Longley"},
+          "commissioner_public_works_mines": {"name": "Hon. C. E. Church"},
+          "without_office": [
+            "Hon. Thos. Johnson",
+            "Hon. D. McNeil",
+            "Hon. C. F. McIsaac",
+            "Hon. Geo. Murray"
+          ]
+        },
+        "legislative_council": {
+          "president": {"name": "Hon. Robert Boak"},
+          "clerk": {"name": "A. G. Troop"},
+          "members": [
+            {"name": "Hon. Daniel McN. Parker, M.D.", "location": "Dartmouth"},
+            {"name": "Hon. Loran E. Baker", "location": "Halifax"},
+            {"name": "Hon. Charles M. Francheville", "location": "Yarmouth"},
+            {"name": "Hon. David McCurdy", "location": "Guysborough"},
+            {"name": "Hon. Hiram Black", "location": "Baddeck, C. B."},
+            {"name": "Hon. William H. Owen", "location": "Amherst"},
+            {"name": "Hon. George Whitman", "location": "Bridgewater"},
+            {"name": "Hon. Monson H. Goudge", "location": "Round Hill"},
+            {"name": "Hon. W. H. Ray", "location": "Annapolis"},
+            {"name": "Hon. Thos. L. Dodge", "location": "Windsor"},
+            {"name": "Hon. John McNeil", "location": "Clementsport"},
+            {"name": "Hon. Jason Mack", "location": "Kentville"},
+            {"name": "Hon. George Murray", "location": "N. Sydney"},
+            {"name": "Hon. H. H. Fuller", "location": "Halifax"},
+            {"name": "Hon. Isidore LeBlanc", "location": "Arichat"},
+            {"name": "Hon. H. M. Robichau", "location": "Mitichan"},
+            {"name": "Hon. R. Drummond", "location": "Stellarton"},
+            {"name": "Hon. C. N. Cummings", "location": "Londonderry"},
+            {"name": "Hon. Angus Macgillivray", "location": "Antigonish"}
+          ]
+        },
+        "legislative_assembly": {
+          "speaker": {"name": "Hon. M. J. Power"},
+          "clerk": {"name": "John W. Ouseley"},
+          "sergeant_at_arms": {"name": "A. Haliburton"},
+          "members_by_constituency": {
+            "Annapolis_County": ["Hon. J. Wilberforce Longley", "H. Munroe"],
+            "Antigonish": ["Colin F. McIsaac"],
+            "Cape_Breton": ["Jos. McPherson", "George Clarke"],
+            "Colchester": ["Frederick A. Laurence", "George Forrest"],
+            "Cumberland": ["William Oxley"],
+            "Digby": ["E. E. Tupper", "A. H. Comeau"],
+            "Guysborough": ["A. F. Cameron", "H. Morrow"],
+            "Halifax": ["Hon. W. S. Fielding", "William Roche, jun.", "Hon. M. J. Power (Speaker)"],
+            "Hants": ["A. Drysdale", "T. B. Smith"],
+            "Inverness": ["Hon. Daniel McNeil", "John McKinnon"],
+            "Kings": ["B. Webster", "A. P. Welton", "Hon. Charles E. Church"],
+            "Lunenburg": ["J. Sperry", "Wm. Cameron"],
+            "Picton": ["James D. McGregor", "Alex. Grant"],
+            "Queens": ["A. M. Hemeon", "R. Hunt"],
+            "Richmond": ["Joseph Matheson", "A. LeBlanc", "Hon. Thomas Johnson"],
+            "Shelburne": ["C. H. Cahal"],
+            "Victoria": ["John A. Fraser", "John L. Bethune"],
+            "Yarmouth": ["William Law", "Forman Hatfield"]
+          }
+        },
+        "judicial_establishment": {
+          "chief_justice": {"name": "Hon James McDonald", "salary": 5000},
+          "equity_judge": {"name": "Hon. Wallace Graham", "salary": 4000},
+          "assistant_judges": [
+            {"name": "Hon. R. L. Weatherbe"},
+            {"name": "Hon. J. N. Ritchie", "salary": 4000},
+            {"name": "Hon. Chas J. Townshend", "salary": 4000},
+            {"name": "Hon. N. H. Meagher"},
+            {"name": "Hon. H. McD. Henry"}
+          ],
+          "vice_admiralty_judge": {"name": "The Chief Justice", "salary": 600},
+          "county_court_judges": [
+            {"name": "J. W. Johnston", "salary": 2400},
+            {"name": "J. P. Chipman", "salary": 2400},
+            {"name": "M. B. Desbrisay", "salary": 2400},
+            {"name": "W. A. D. Morse", "salary": 2400},
+            {"name": "A. W. Savery", "salary": 2400},
+            {"name": "Angus McIsaac", "salary": 2400},
+            {"name": "Murray Dodd", "salary": 2400}
+          ]
+        },
+        "imperial_military_halifax": {
+          "general_commanding": {"name": "Lieut.-Gen. A. G. Montgomery-Moore"},
+          "aide_de_camp": {"name": "Captain the Hon. J. G. R. U. Colborne", "regiment": "S. Staff. Regt."},
+          "assist_adjutant_general": {"name": "Col. Dudley North"},
+          "assist_military_secretary": {"name": "Major Apsley Smith", "regiment": "R.A."},
+          "commanding_ra": {"name": "Col. H. de S. Isaacson", "regiment": "R.A."},
+          "commanding_re": {"name": "Col. E. P. Leach", "honors": "V.C., C.B."}
+        },
+        "departmental_chiefs": {
+          "provincial_secretary": {"name": "Hon. W. S. Fielding", "salary": 3200, "additional": "800 as Premier"},
+          "deputy_provincial_secretary": {"name": "H. Crosskill", "salary": 1800},
+          "attorney_general": {"name": "Hon. J. W Longley", "salary": 3200},
+          "cashier_chief_clerk": {"name": "W. K. Reynolds"},
+          "commissioner_mines_public_works": {"name": "Hon. C. E. Church", "salary": 3200},
+          "deputy_commissioner_inspector_mines": {"name": "E. Gilpin"},
+          "chief_clerk_mines_minerals": {"name": "W. H. Browne"},
+          "provincial_railway_engineer": {"name": "Martin Murphy", "qualification": "C.E."},
+          "superintendent_lunatic_asylum": {"name": "George L. Sinclair", "qualification": "M.D."},
+          "commissioner_crown_lands": {"name": "Hon. J. W. Longley"},
+          "chief_clerk": {"name": "J. H. Austen", "salary": 1400},
+          "queens_printer": {"name": "R. T. Murray"},
+          "superintendent_education": {"name": "A. H. McKay"}
+        },
+        "dominion_officials": {
+          "assistant_receiver_general_manager_savings_bank": {"name": "J. R. Wallace", "salary": 2200},
+          "agent_marine_fisheries": {"name": "H. W. Johnston", "salary": 1800},
+          "collector_customs_halifax": {"name": "W. D. Harrington", "salary": 2600},
+          "controller_shipping": {"name": "C. Almon", "salary": 1800},
+          "inspector_customs": {"name": "W. H. Hill", "salary": 2000},
+          "postmaster_halifax": {"name": "H. W. Blackader", "salary": 2400},
+          "inspector_post_offices": {"name": "C. J. Macdonald", "salary": 2400},
+          "assistant_inspector_post_offices": {"name": "J. D. Story", "salary": 1600},
+          "superintendent_money_order_office": {"name": "H. W. Blackader"},
+          "chief_superintendent_railways": {"name": "David Pottinger", "salary": 2400},
+          "resident_engineer": {"name": "P. S. Archibald", "salary": 2400},
+          "chief_accountant_secretary": {"name": "Thos. Foot", "salary": 1600}
+        }
+      }
+    }
+  }
+}

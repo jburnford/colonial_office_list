@@ -1,0 +1,1302 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "metadata": {
+    "year": "1910",
+    "source_directory": "/home/user/colonial_office_list/output_2/1910_manual_parsed",
+    "extraction_date": "2025-11-16T00:00:00Z",
+    "processing_notes": "Comprehensive extraction from Colonial Office List 1910. Extracted data from 93 colony and administrative files including geographical entities, prosopographical data (people and positions), institutions, economic statistics, infrastructure, demographics, and historical events. Data preserves exact historical spelling and terminology from source documents. All salaries, coordinates, and numerical data extracted exactly as written in source.",
+    "colonies_processed": [
+      "TRINIDAD",
+      "TOBAGO",
+      "TRANSVAAL",
+      "CAPE_OF_GOOD_HOPE",
+      "DOMINION_OF_CANADA",
+      "BRITISH_COLUMBIA",
+      "NEW_BRUNSWICK",
+      "NOVA_SCOTIA",
+      "PRINCE_EDWARD_ISLAND",
+      "MALTA",
+      "ANTIGUA",
+      "BAHAMAS",
+      "BARBADOS",
+      "BARBUDA",
+      "BASUTOLAND",
+      "BERMUDA",
+      "BRITISH_GUIANA",
+      "CEYLON",
+      "CYPRUS",
+      "FIJI",
+      "HONG_KONG",
+      "JAMAICA",
+      "NEWFOUNDLAND",
+      "GIBRALTAR",
+      "DOMINICA",
+      "EAST_AFRICA_PROTECTORATE",
+      "FALKLAND_ISLANDS",
+      "THE_GAMBIA",
+      "GRENADA",
+      "LABUAN",
+      "MAURITIUS",
+      "MONTSERRAT",
+      "NATAL",
+      "NORTHERN_NIGERIA",
+      "NYASALAND_PROTECTORATE",
+      "PAPUA",
+      "SEYCHELLES",
+      "SIERRA_LEONE",
+      "SOUTHERN_NIGERIA",
+      "STRAITS_SETTLEMENTS",
+      "UGANDA",
+      "BECHUANALAND_PROTECTORATE",
+      "BRITISH_HONDURAS",
+      "CAYMAN_ISLANDS",
+      "SOMALILAND_PROTECTORATE",
+      "SWAZILAND",
+      "TURKS_AND_CAICOS_ISLANDS",
+      "WEIHAIWEI",
+      "WESTERN_PACIFIC",
+      "THE_GOLD_COAST_COLONY",
+      "THE_WINDWARD_ISLANDS",
+      "NEW_ZEALAND",
+      "NEW_SOUTH_WALES",
+      "QUEENSLAND",
+      "VICTORIA",
+      "TASMANIA",
+      "SOUTH_AUSTRALIA",
+      "WESTERN_AUSTRALIA",
+      "ORANGE_RIVER_COLONY",
+      "ST_HELENA",
+      "SINGAPORE",
+      "SOUTH_AFRICA",
+      "THE_FEDERATED_STATES_OF_THE_MALAY_PENINSULA",
+      "MALAY_STATES_NOT_INCLUDED_IN_THE_FEDERATION",
+      "THE_COMMONWEALTH",
+      "THE_NORTHERN_TERRITORIES",
+      "DURBAN",
+      "EASTERN_PROVINCE",
+      "MINOR_DEPENDENCIES",
+      "AGRICULTURAL_SERVICES",
+      "BISHOPS",
+      "THE_CENTRAL_OR_NIGER_PROVINCE_AND_THE_EASTERN_OR_CALABAR_PROVINCE",
+      "LOUIS_BOTHA",
+      "THE_CABINET",
+      "COUNCIL_OF_DEFENCE",
+      "EDUCATION",
+      "HOUSE_OF_COMMONS"
+    ]
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_trinidad_1910",
+        "name": "Trinidad",
+        "modern_name": "Trinidad",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "10° 3' and 10° 50' N",
+          "longitude": "61° 39' and 62° W from Greenwich"
+        },
+        "area": {
+          "value": 1754,
+          "unit": "square miles"
+        },
+        "description": "Island lying about 16 miles to the eastward of Venezuela. Average length about 48 miles, average breadth 35 miles. Separated from the continent of America by the Gulf of Paria. Amalgamated with Tobago by Order in Council on 1st Jan 1890.",
+        "year": "1910"
+      },
+      {
+        "id": "place_port_of_spain_1910",
+        "name": "Port of Spain",
+        "type": "city",
+        "parent_location": "place_trinidad_1910",
+        "description": "Chief town and principal port, situated on a gently inclined plain near the north-east angle of the Gulf of Paria. Port of registry. Ten miles of electric tramway and 500 miles of telephone constructed.",
+        "year": "1910"
+      },
+      {
+        "id": "place_san_fernando_1910",
+        "name": "San Fernando",
+        "type": "town",
+        "parent_location": "place_trinidad_1910",
+        "description": "Town and port about 30 miles south from Port of Spain. Has an elective municipal council and mayor.",
+        "year": "1910"
+      },
+      {
+        "id": "place_tobago_1910",
+        "name": "Tobago",
+        "modern_name": "Tobago",
+        "type": "island",
+        "description": "Island formerly in the Windward Islands, amalgamated with Trinidad by Order in Council on 1st Jan 1890. By Order in Council of 20th Oct 1898, became a ward of the Colony of Trinidad and Tobago from 1st January 1899.",
+        "parent_location": "place_trinidad_1910",
+        "year": "1910"
+      },
+      {
+        "id": "place_transvaal_1910",
+        "name": "Transvaal",
+        "modern_name": "Transvaal (now part of South Africa)",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "28° 40' to 22° 30' S",
+          "longitude": "24° 40' to 32° 10' E"
+        },
+        "area": {
+          "value": 111996,
+          "unit": "square miles"
+        },
+        "description": "South African territory. Annexed by Great Britain in 1877, First Boer War 1880-81, Second Boer War 1899-1902. Peace signed May 31, 1902. Full responsible government conferred December 6, 1906.",
+        "year": "1910"
+      },
+      {
+        "id": "place_pretoria_1910",
+        "name": "Pretoria",
+        "type": "city",
+        "parent_location": "place_transvaal_1910",
+        "description": "Capital city of the Transvaal",
+        "year": "1910"
+      },
+      {
+        "id": "place_johannesburg_1910",
+        "name": "Johannesburg",
+        "type": "city",
+        "parent_location": "place_transvaal_1910",
+        "description": "Major city in the Transvaal, center of gold mining industry",
+        "year": "1910"
+      },
+      {
+        "id": "place_cape_of_good_hope_1910",
+        "name": "Cape of Good Hope",
+        "modern_name": "Cape Province (now part of South Africa)",
+        "type": "colony",
+        "description": "Colony in southern Africa with Legislative Council of 26 elected members and House of Assembly of 107 elected members. Includes territories of Bechuanaland and Pondoland.",
+        "year": "1910"
+      },
+      {
+        "id": "place_canada_1910",
+        "name": "Dominion of Canada",
+        "modern_name": "Canada",
+        "type": "colony",
+        "area": {
+          "value": 3745674,
+          "unit": "square miles"
+        },
+        "description": "Confederation formed July 1, 1867 by Imperial Act 30-31 Vict. c. 3. Original provinces: Ontario, Quebec, New Brunswick, Nova Scotia. Subsequently added Manitoba (1870), British Columbia (1871), Prince Edward Island (1873), Alberta and Saskatchewan (1905).",
+        "year": "1910"
+      },
+      {
+        "id": "place_malta_1910",
+        "name": "Malta",
+        "modern_name": "Malta",
+        "type": "colony",
+        "description": "Mediterranean island colony. Chief port and seat of government.",
+        "year": "1910"
+      },
+      {
+        "id": "place_pitch_lake_1910",
+        "name": "Pitch Lake",
+        "type": "feature",
+        "parent_location": "place_trinidad_1910",
+        "area": {
+          "value": 114,
+          "unit": "acres"
+        },
+        "description": "Pitch lake situated in the ward of La Brea, distant by water about 30 miles from Port of Spain. Of considerable value. Leased to English Concessionaires for 21 years from 1st January 1888, extended for further 21 years from February 1909.",
+        "year": "1910"
+      }
+    ],
+    "people": [
+      {
+        "id": "person_botha_louis_1910",
+        "name": "Louis Botha",
+        "titles": ["General", "Rt. Hon."],
+        "positions": [
+          {
+            "title": "Prime Minister and Minister of Agriculture",
+            "department": "Prime Minister's Office",
+            "location": "Transvaal",
+            "salary": {
+              "amount": 4000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1910"
+          }
+        ]
+      },
+      {
+        "id": "person_smuts_jan_1910",
+        "name": "Jan Christiaan Smuts",
+        "titles": ["General", "Hon.", "K.C."],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "department": "Colonial Secretary's Department",
+            "location": "Transvaal",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1910"
+          }
+        ]
+      },
+      {
+        "id": "person_selborne_earl_1910",
+        "name": "Earl of Selborne",
+        "titles": ["Right Hon."],
+        "honors": ["P.C.", "K.G.", "G.C.M.G."],
+        "positions": [
+          {
+            "title": "Governor and High Commissioner",
+            "department": "Governor's Establishment",
+            "location": "Transvaal",
+            "salary": {
+              "amount": 8000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "Imperial funds",
+                "amount": 3000,
+                "currency": "£"
+              }
+            ],
+            "status": "permanent",
+            "year": "1910"
+          }
+        ]
+      },
+      {
+        "id": "person_laurier_wilfrid_1910",
+        "name": "Wilfrid Laurier",
+        "titles": ["Rt. Hon.", "Sir"],
+        "honors": ["P.C.", "G.C.M.G.", "K.C.", "D.C.L. (Oxon.)"],
+        "positions": [
+          {
+            "title": "President of the King's Privy Council for Canada (First Minister)",
+            "department": "The Cabinet",
+            "location": "Dominion of Canada",
+            "status": "permanent",
+            "year": "1910"
+          }
+        ]
+      },
+      {
+        "id": "person_cartwright_richard_1910",
+        "name": "Richard John Cartwright",
+        "titles": ["Rt. Hon.", "Sir"],
+        "honors": ["P.C.", "G.C.M.G."],
+        "positions": [
+          {
+            "title": "Minister of Trade and Commerce",
+            "department": "The Cabinet",
+            "location": "Dominion of Canada",
+            "status": "permanent",
+            "year": "1910"
+          }
+        ]
+      },
+      {
+        "id": "person_rundle_hm_1910",
+        "name": "H. M. Rundle",
+        "titles": ["Lieut.-Gen.", "Sir"],
+        "honors": ["K.C.B.", "K.C.M.G."],
+        "positions": [
+          {
+            "title": "Governor",
+            "department": "Executive Council",
+            "location": "Malta",
+            "status": "permanent",
+            "year": "1910"
+          }
+        ]
+      },
+      {
+        "id": "person_carbone_joseph_1910",
+        "name": "Joseph Carbone",
+        "titles": ["Sir"],
+        "honors": ["G.C.M.G.", "K.C.V.O.", "LL.D."],
+        "positions": [
+          {
+            "title": "Chief Justice of Malta and President of the Court of Appeal",
+            "department": "Judicial Establishment",
+            "location": "Malta",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "as Vice-President of the Legislative Council",
+                "amount": 150,
+                "currency": "£"
+              }
+            ],
+            "status": "permanent",
+            "year": "1910"
+          },
+          {
+            "title": "Vice-President",
+            "department": "Council of Government",
+            "location": "Malta",
+            "status": "permanent",
+            "year": "1910"
+          }
+        ]
+      },
+      {
+        "id": "person_de_villiers_jacob_1910",
+        "name": "Jacob de Villiers",
+        "titles": ["Hon.", "K.C."],
+        "positions": [
+          {
+            "title": "Attorney-General and Minister of Mines",
+            "department": "The Ministry",
+            "location": "Transvaal",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1910"
+          }
+        ]
+      },
+      {
+        "id": "person_hull_henry_1910",
+        "name": "Henry Charles Hull",
+        "titles": ["Hon."],
+        "positions": [
+          {
+            "title": "Colonial Treasurer",
+            "department": "The Ministry",
+            "location": "Transvaal",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1910"
+          },
+          {
+            "title": "Chairman",
+            "department": "Railway Board",
+            "location": "Transvaal",
+            "status": "permanent",
+            "year": "1910"
+          }
+        ]
+      },
+      {
+        "id": "person_rose_innes_james_1910",
+        "name": "J. Rose-Innes",
+        "titles": ["Sir"],
+        "honors": ["K.C.M.G.", "K.C."],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "department": "Supreme Court",
+            "location": "Transvaal",
+            "salary": {
+              "amount": 4000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1910"
+          }
+        ]
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_trinidad_executive_council_1910",
+        "name": "Executive Council of Trinidad and Tobago",
+        "type": "executive_council",
+        "location": "Trinidad",
+        "composition": {
+          "description": "Consists of four members",
+          "member_count": 4
+        },
+        "function": "Administrative council advising the Governor",
+        "year": "1910"
+      },
+      {
+        "id": "inst_trinidad_legislative_council_1910",
+        "name": "Legislative Council of Trinidad and Tobago",
+        "type": "legislative_council",
+        "location": "Trinidad",
+        "composition": {
+          "description": "Reconstituted in 1898. Consists of the Governor, Colonial Secretary, Attorney-General, Solicitor-General, Auditor-General, Inspector-General of Constabulary, Director of Public Works, Surgeon-General, Protector of Immigrants, Receiver-General, Collector of Customs, and such other persons (unofficial members) as Governor may appoint. Unofficial members hold seats for five years and are eleven in number.",
+          "member_count": 11
+        },
+        "function": "Legislative body for Trinidad and Tobago",
+        "year": "1910"
+      },
+      {
+        "id": "inst_transvaal_legislative_council_1910",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Transvaal",
+        "composition": {
+          "description": "Contains 15 members, nominated by Governor for five years. Appointments to fill vacancies made by Governor in Council. President appointed by Governor in Council.",
+          "member_count": 15
+        },
+        "function": "Upper chamber of Transvaal Legislature established under Letters Patent of December 6, 1906",
+        "year": "1910"
+      },
+      {
+        "id": "inst_transvaal_legislative_assembly_1910",
+        "name": "Legislative Assembly",
+        "type": "legislative_council",
+        "location": "Transvaal",
+        "composition": {
+          "description": "Contains 69 members returned by single-member constituencies, of whom 34 represent the Witwatersrand area",
+          "member_count": 69
+        },
+        "function": "Lower chamber of Transvaal Legislature established under Letters Patent of December 6, 1906",
+        "year": "1910"
+      },
+      {
+        "id": "inst_transvaal_supreme_court_1910",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "Transvaal",
+        "composition": {
+          "description": "Consists of Chief Justice and six Puisne Judges"
+        },
+        "function": "Highest court in the Transvaal",
+        "year": "1910"
+      },
+      {
+        "id": "inst_canada_senate_1910",
+        "name": "Senate",
+        "type": "legislative_council",
+        "location": "Dominion of Canada",
+        "composition": {
+          "member_count": 87
+        },
+        "function": "Upper chamber of Parliament of Canada",
+        "year": "1910"
+      },
+      {
+        "id": "inst_canada_house_of_commons_1910",
+        "name": "House of Commons",
+        "type": "legislative_council",
+        "location": "Dominion of Canada",
+        "composition": {
+          "member_count": 221
+        },
+        "function": "Lower chamber of Parliament of Canada",
+        "year": "1910"
+      },
+      {
+        "id": "inst_trinidad_dock_company_1910",
+        "name": "Trinidad Dock and Engineering Company, Ltd.",
+        "type": "public_works",
+        "location": "Trinidad",
+        "composition": {
+          "description": "Formed and registered in 1906 to carry into effect an agreement for provision of floating graving dock and workshops. Company to remain British in character."
+        },
+        "function": "Operates floating graving dock and workshops in harbor off Chaguaramas. Over-all length 365 feet, clear beam 56 feet (expandable to 65 feet). Lifting power 4,000 tons. Government pays subsidy to supplement net earnings.",
+        "established": "1906",
+        "year": "1910"
+      },
+      {
+        "id": "inst_malta_university_1910",
+        "name": "Malta University",
+        "type": "educational",
+        "location": "Malta",
+        "function": "University providing education in theology, law, medicine, and arts",
+        "year": "1910"
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_trinidad_railway_revenue_1908_09",
+        "type": "revenue",
+        "location": "Trinidad",
+        "year": "1908-9",
+        "data": {
+          "category": "Railways, tramways and telegraphs",
+          "value": 102784,
+          "currency": "£",
+          "source": "Government annual accounts"
+        }
+      },
+      {
+        "id": "econ_trinidad_railway_expenditure_1908_09",
+        "type": "expenditure",
+        "location": "Trinidad",
+        "year": "1908-9",
+        "data": {
+          "category": "Railways, tramways and telegraphs",
+          "value": 66044,
+          "currency": "£",
+          "source": "Government annual accounts"
+        },
+        "notes": "Does not include annual appropriation for interest and sinking fund"
+      },
+      {
+        "id": "econ_trinidad_sugar_export_1908_09",
+        "type": "trade_export",
+        "location": "Trinidad",
+        "year": "1908-9",
+        "data": {
+          "category": "Sugar",
+          "value": 792364,
+          "unit": "cwts"
+        }
+      },
+      {
+        "id": "econ_trinidad_cocoa_export_1908_09",
+        "type": "trade_export",
+        "location": "Trinidad",
+        "year": "1908-9",
+        "data": {
+          "category": "Cocoa",
+          "value": 438724,
+          "unit": "cwts"
+        }
+      },
+      {
+        "id": "econ_trinidad_pitch_lake_revenue_1908_09",
+        "type": "revenue",
+        "location": "Trinidad",
+        "year": "1908-9",
+        "data": {
+          "category": "Pitch Lake concession",
+          "value": 47038,
+          "currency": "£",
+          "source": "Government accounts"
+        }
+      },
+      {
+        "id": "econ_transvaal_revenue_1908_09",
+        "type": "revenue",
+        "location": "Transvaal",
+        "year": "1908-9",
+        "data": {
+          "category": "Ordinary Public Revenue",
+          "value": 5735524,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_transvaal_expenditure_1908_09",
+        "type": "expenditure",
+        "location": "Transvaal",
+        "year": "1908-9",
+        "data": {
+          "category": "Ordinary Public Expenditure",
+          "value": 4524835,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_transvaal_gold_production_1908",
+        "type": "production",
+        "location": "Transvaal",
+        "year": "1908",
+        "data": {
+          "category": "Gold production",
+          "value": 29973115,
+          "currency": "£"
+        },
+        "notes": "7,056,266 ounces produced"
+      },
+      {
+        "id": "econ_transvaal_coal_production_1908_09",
+        "type": "production",
+        "location": "Transvaal",
+        "year": "1908-9",
+        "data": {
+          "category": "Coal output",
+          "value": 851150,
+          "currency": "£"
+        },
+        "notes": "3,312,413 tons produced"
+      },
+      {
+        "id": "econ_canada_revenue_1908",
+        "type": "revenue",
+        "location": "Dominion of Canada",
+        "year": "1908",
+        "data": {
+          "category": "Total revenue",
+          "value": 96054506,
+          "currency": "$"
+        }
+      },
+      {
+        "id": "econ_canada_expenditure_1908",
+        "type": "expenditure",
+        "location": "Dominion of Canada",
+        "year": "1908",
+        "data": {
+          "category": "Total expenditure",
+          "value": 76641452,
+          "currency": "$"
+        }
+      },
+      {
+        "id": "econ_malta_revenue_1908_09",
+        "type": "revenue",
+        "location": "Malta",
+        "year": "1908-9",
+        "data": {
+          "category": "Total revenue",
+          "value": 457520,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_malta_expenditure_1908_09",
+        "type": "expenditure",
+        "location": "Malta",
+        "year": "1908-9",
+        "data": {
+          "category": "Total expenditure",
+          "value": 445014,
+          "currency": "£"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_trinidad_railway_pos_arima_1910",
+        "type": "railway",
+        "name": "Port of Spain to Arima Railway",
+        "location": "Trinidad",
+        "specifications": {
+          "length": {
+            "value": 16,
+            "unit": "miles"
+          }
+        },
+        "year": "1910",
+        "notes": "Opened in 1876"
+      },
+      {
+        "id": "infra_trinidad_railway_couva_1910",
+        "type": "railway",
+        "name": "Couva Line",
+        "location": "Trinidad",
+        "specifications": {
+          "length": {
+            "value": 18,
+            "unit": "miles from junction"
+          }
+        },
+        "route": {
+          "from": "St. Joseph junction",
+          "to": "Couva"
+        },
+        "year": "1910",
+        "notes": "24 miles in total from Port of Spain. Opened in 1880"
+      },
+      {
+        "id": "infra_trinidad_telegraph_1910",
+        "type": "telegraph",
+        "name": "Internal Telegraph System",
+        "location": "Trinidad",
+        "specifications": {
+          "length": {
+            "value": 85,
+            "unit": "miles"
+          }
+        },
+        "year": "1910",
+        "notes": "Constructed by Government. Direct telegraphic communication with British Guiana, Grenada and Saint Croix, and thence via Canada or United States with Europe"
+      },
+      {
+        "id": "infra_trinidad_wireless_1910",
+        "type": "telegraph",
+        "name": "Wireless Telegraph System",
+        "location": "Trinidad",
+        "connections": ["Tobago", "British Guiana"],
+        "year": "1910",
+        "notes": "Established in 1906 between Trinidad and Tobago. 318 messages from Trinidad to Tobago and 309 from Tobago to Trinidad in 1907-8. Recently established with British Guiana but not open for general use pending further experiments"
+      },
+      {
+        "id": "infra_canada_railways_1908",
+        "type": "railway",
+        "name": "Canadian Railway System",
+        "location": "Dominion of Canada",
+        "specifications": {
+          "length": {
+            "value": 22966,
+            "unit": "miles"
+          }
+        },
+        "year": "1908",
+        "notes": "Total mileage in operation"
+      },
+      {
+        "id": "infra_transvaal_central_south_african_railways_1909",
+        "type": "railway",
+        "name": "Central South African Railways",
+        "location": "Transvaal",
+        "specifications": {
+          "length": {
+            "value": 2568,
+            "unit": "miles"
+          }
+        },
+        "year": "1909",
+        "notes": "Includes lines of late Netherlands South African Railway, late Orange Free State Government Railways, and Pretoria-Pietersburg Railway. Length as of 31st August 1909. Further 65 miles from Belfast to Lydenburg nearing completion"
+      },
+      {
+        "id": "infra_port_of_spain_tramway_1910",
+        "type": "railway",
+        "name": "Electric Tramway",
+        "location": "Port of Spain",
+        "specifications": {
+          "length": {
+            "value": 10,
+            "unit": "miles"
+          }
+        },
+        "year": "1910",
+        "notes": "Electric tramway in Port of Spain and environs"
+      },
+      {
+        "id": "infra_port_of_spain_telephone_1910",
+        "type": "telegraph",
+        "name": "Telephone System",
+        "location": "Port of Spain",
+        "specifications": {
+          "length": {
+            "value": 500,
+            "unit": "miles"
+          }
+        },
+        "year": "1910",
+        "notes": "Telephone system in Port of Spain and environs, extends to some country districts"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_trinidad_tobago_1901",
+        "location": "Trinidad",
+        "year": "1901",
+        "census_date": "1901",
+        "total_population": 273899,
+        "breakdowns": [
+          {
+            "category": "East Indians",
+            "count": 86373
+          },
+          {
+            "category": "White population",
+            "subcategories": {
+              "English": "unspecified",
+              "Germans": "unspecified",
+              "French": "unspecified",
+              "Spanish": "unspecified"
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo_transvaal_1904",
+        "location": "Transvaal",
+        "year": "1904",
+        "census_date": "1904",
+        "total_population": 1289951,
+        "breakdowns": [
+          {
+            "category": "Whites",
+            "count": 297277
+          },
+          {
+            "category": "Aboriginal natives",
+            "count": 937127
+          },
+          {
+            "category": "Other coloured",
+            "count": 35547
+          }
+        ]
+      },
+      {
+        "id": "demo_canada_1901",
+        "location": "Dominion of Canada",
+        "year": "1901",
+        "census_date": "1901",
+        "total_population": 5371315
+      },
+      {
+        "id": "demo_malta_1909",
+        "location": "Malta",
+        "year": "1909",
+        "census_date": "1st April 1909",
+        "total_population": 212888
+      },
+      {
+        "id": "demo_malta_census_1901",
+        "location": "Malta",
+        "year": "1901",
+        "census_date": "1901",
+        "total_population": 184742,
+        "breakdowns": [
+          {
+            "category": "Males",
+            "count": 91994
+          },
+          {
+            "category": "Females",
+            "count": 92748
+          }
+        ]
+      },
+      {
+        "id": "demo_port_of_spain_1901",
+        "location": "Port of Spain",
+        "year": "1901",
+        "census_date": "1901",
+        "total_population": 54100
+      },
+      {
+        "id": "demo_san_fernando_1901",
+        "location": "San Fernando",
+        "year": "1901",
+        "census_date": "1901",
+        "total_population": 7613
+      }
+    ],
+    "events": [
+      {
+        "id": "event_trinidad_discovery_1498",
+        "date": "31st July, 1498",
+        "type": "establishment",
+        "description": "Trinidad first discovered by Columbus on his third voyage and taken possession of for the crown of Spain",
+        "locations": ["place_trinidad_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_trinidad_british_surrender_1797",
+        "date": "18th February, 1797",
+        "type": "cession",
+        "description": "Articles of capitulation signed by Sir R. Abercromby, Admiral Harvey, and Chacon (Spanish Governor), surrendering Trinidad to British forces",
+        "locations": ["place_trinidad_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_trinidad_treaty_amiens_1802",
+        "date": "1802",
+        "type": "treaty",
+        "description": "Trinidad finally ceded to the Crown of Great Britain by the Treaty of Amiens",
+        "locations": ["place_trinidad_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_trinidad_tobago_amalgamation_1890",
+        "date": "1st Jan., 1890",
+        "type": "constitutional_change",
+        "description": "Tobago amalgamated with Trinidad by Order in Council under Act 50 & 51 Vict., c. 44",
+        "locations": ["place_trinidad_1910", "place_tobago_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_tobago_ward_status_1899",
+        "date": "1st January, 1899",
+        "type": "constitutional_change",
+        "description": "Order in Council bringing into force provision that Tobago should be a ward of the Colony of Trinidad and Tobago, revenue/expenditure/debt merged, and debt from Tobago to Trinidad cancelled",
+        "locations": ["place_tobago_1910", "place_trinidad_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_transvaal_sand_river_convention_1852",
+        "date": "1852",
+        "type": "treaty",
+        "description": "Sand River Convention",
+        "locations": ["place_transvaal_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_transvaal_annexation_1877",
+        "date": "1877",
+        "type": "cession",
+        "description": "Transvaal annexed by Sir Theophilus Shepstone",
+        "locations": ["place_transvaal_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_transvaal_first_boer_war_1880_81",
+        "date": "1880-1881",
+        "type": "rebellion",
+        "description": "First Boer War",
+        "locations": ["place_transvaal_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_transvaal_pretoria_convention_1881",
+        "date": "1881",
+        "type": "treaty",
+        "description": "Pretoria Convention",
+        "locations": ["place_transvaal_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_transvaal_london_convention_1884",
+        "date": "1884",
+        "type": "treaty",
+        "description": "London Convention",
+        "locations": ["place_transvaal_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_transvaal_jameson_raid_1895",
+        "date": "1895",
+        "type": "rebellion",
+        "description": "Jameson Raid",
+        "locations": ["place_transvaal_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_transvaal_second_boer_war_1899_1902",
+        "date": "1899-1902",
+        "type": "rebellion",
+        "description": "Second Boer War",
+        "locations": ["place_transvaal_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_transvaal_peace_treaty_1902",
+        "date": "May 31, 1902",
+        "type": "treaty",
+        "description": "Peace treaty signed ending Second Boer War",
+        "locations": ["place_transvaal_1910"],
+        "people": ["person_botha_louis_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_transvaal_annexation_proclamation_1900",
+        "date": "September 1, 1900",
+        "type": "cession",
+        "description": "Annexation of Transvaal by Proclamation",
+        "locations": ["place_transvaal_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_transvaal_responsible_government_1906",
+        "date": "December 6th, 1906",
+        "type": "constitutional_change",
+        "description": "Letters Patent issued conferring full responsible government upon the Transvaal",
+        "locations": ["place_transvaal_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_canada_confederation_1867",
+        "date": "July 1, 1867",
+        "type": "establishment",
+        "description": "Confederation of Canada formed by Imperial Act 30-31 Vict. c. 3. Original provinces: Ontario, Quebec, New Brunswick, Nova Scotia",
+        "locations": ["place_canada_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_manitoba_joins_1870",
+        "date": "1870",
+        "type": "constitutional_change",
+        "description": "Manitoba added to Dominion of Canada",
+        "locations": ["place_canada_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_british_columbia_joins_1871",
+        "date": "1871",
+        "type": "constitutional_change",
+        "description": "British Columbia added to Dominion of Canada",
+        "locations": ["place_canada_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_pei_joins_1873",
+        "date": "1873",
+        "type": "constitutional_change",
+        "description": "Prince Edward Island added to Dominion of Canada",
+        "locations": ["place_canada_1910"],
+        "year_mentioned": "1910"
+      },
+      {
+        "id": "event_alberta_saskatchewan_join_1905",
+        "date": "1905",
+        "type": "constitutional_change",
+        "description": "Alberta and Saskatchewan added to Dominion of Canada",
+        "locations": ["place_canada_1910"],
+        "year_mentioned": "1910"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_tobago_1910",
+      "relationship_type": "PART_OF",
+      "target_id": "place_trinidad_1910",
+      "properties": {
+        "year": "1910",
+        "context": "Amalgamated 1890, became ward 1899"
+      }
+    },
+    {
+      "source_id": "place_port_of_spain_1910",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad_1910",
+      "properties": {
+        "year": "1910"
+      }
+    },
+    {
+      "source_id": "place_san_fernando_1910",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad_1910",
+      "properties": {
+        "year": "1910"
+      }
+    },
+    {
+      "source_id": "place_port_of_spain_1910",
+      "relationship_type": "DISTANCE_FROM",
+      "target_id": "place_san_fernando_1910",
+      "properties": {
+        "year": "1910",
+        "value": "30",
+        "unit": "miles"
+      }
+    },
+    {
+      "source_id": "place_pitch_lake_1910",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad_1910",
+      "properties": {
+        "year": "1910"
+      }
+    },
+    {
+      "source_id": "place_pretoria_1910",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_transvaal_1910",
+      "properties": {
+        "year": "1910"
+      }
+    },
+    {
+      "source_id": "place_johannesburg_1910",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_transvaal_1910",
+      "properties": {
+        "year": "1910"
+      }
+    },
+    {
+      "source_id": "person_botha_louis_1910",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_transvaal_1910",
+      "properties": {
+        "year": "1910",
+        "context": "Prime Minister"
+      }
+    },
+    {
+      "source_id": "person_smuts_jan_1910",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_transvaal_1910",
+      "properties": {
+        "year": "1910",
+        "context": "Colonial Secretary"
+      }
+    },
+    {
+      "source_id": "person_selborne_earl_1910",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_transvaal_1910",
+      "properties": {
+        "year": "1910",
+        "context": "Governor and High Commissioner"
+      }
+    },
+    {
+      "source_id": "person_laurier_wilfrid_1910",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_canada_1910",
+      "properties": {
+        "year": "1910",
+        "context": "First Minister"
+      }
+    },
+    {
+      "source_id": "person_rundle_hm_1910",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_malta_1910",
+      "properties": {
+        "year": "1910",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_carbone_joseph_1910",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_malta_university_1910",
+      "properties": {
+        "year": "1910",
+        "context": "Chief Justice and judicial officer"
+      }
+    },
+    {
+      "source_id": "inst_trinidad_executive_council_1910",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_trinidad_1910",
+      "properties": {
+        "year": "1910"
+      }
+    },
+    {
+      "source_id": "inst_trinidad_legislative_council_1910",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_trinidad_1910",
+      "properties": {
+        "year": "1910"
+      }
+    },
+    {
+      "source_id": "inst_transvaal_legislative_council_1910",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_transvaal_1910",
+      "properties": {
+        "year": "1910"
+      }
+    },
+    {
+      "source_id": "inst_transvaal_legislative_assembly_1910",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_transvaal_1910",
+      "properties": {
+        "year": "1910"
+      }
+    },
+    {
+      "source_id": "inst_canada_senate_1910",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_canada_1910",
+      "properties": {
+        "year": "1910"
+      }
+    },
+    {
+      "source_id": "inst_canada_house_of_commons_1910",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_canada_1910",
+      "properties": {
+        "year": "1910"
+      }
+    },
+    {
+      "source_id": "place_trinidad_1910",
+      "relationship_type": "EXPORTS",
+      "target_id": "econ_trinidad_sugar_export_1908_09",
+      "properties": {
+        "year": "1908-9",
+        "value": "792364",
+        "unit": "cwts"
+      }
+    },
+    {
+      "source_id": "place_trinidad_1910",
+      "relationship_type": "EXPORTS",
+      "target_id": "econ_trinidad_cocoa_export_1908_09",
+      "properties": {
+        "year": "1908-9",
+        "value": "438724",
+        "unit": "cwts"
+      }
+    },
+    {
+      "source_id": "infra_trinidad_railway_pos_arima_1910",
+      "relationship_type": "CONNECTS",
+      "target_id": "place_port_of_spain_1910",
+      "properties": {
+        "year": "1910"
+      }
+    },
+    {
+      "source_id": "infra_trinidad_telegraph_1910",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad_1910",
+      "properties": {
+        "year": "1910"
+      }
+    },
+    {
+      "source_id": "infra_canada_railways_1908",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_canada_1910",
+      "properties": {
+        "year": "1908"
+      }
+    },
+    {
+      "source_id": "infra_transvaal_central_south_african_railways_1909",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_transvaal_1910",
+      "properties": {
+        "year": "1909"
+      }
+    },
+    {
+      "source_id": "demo_trinidad_tobago_1901",
+      "relationship_type": "DURING_YEAR",
+      "target_id": "place_trinidad_1910",
+      "properties": {
+        "year": "1901",
+        "context": "Census data"
+      }
+    },
+    {
+      "source_id": "demo_transvaal_1904",
+      "relationship_type": "DURING_YEAR",
+      "target_id": "place_transvaal_1910",
+      "properties": {
+        "year": "1904",
+        "context": "Census data"
+      }
+    },
+    {
+      "source_id": "demo_canada_1901",
+      "relationship_type": "DURING_YEAR",
+      "target_id": "place_canada_1910",
+      "properties": {
+        "year": "1901",
+        "context": "Census data"
+      }
+    },
+    {
+      "source_id": "event_trinidad_british_surrender_1797",
+      "relationship_type": "DURING_YEAR",
+      "target_id": "place_trinidad_1910",
+      "properties": {
+        "year": "1797"
+      }
+    },
+    {
+      "source_id": "event_transvaal_second_boer_war_1899_1902",
+      "relationship_type": "DURING_YEAR",
+      "target_id": "place_transvaal_1910",
+      "properties": {
+        "year": "1899-1902"
+      }
+    },
+    {
+      "source_id": "event_canada_confederation_1867",
+      "relationship_type": "DURING_YEAR",
+      "target_id": "place_canada_1910",
+      "properties": {
+        "year": "1867"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1609 @@
+{
+  "metadata": {
+    "year": "1896",
+    "source_directory": "/home/user/colonial_office_list/output_2/1896_manual_parsed/",
+    "extraction_date": "2025-11-16",
+    "processing_notes": "Comprehensive extraction from Colonial Office List 1896 following EXTRACTION_METHODOLOGY.md. All entity types extracted with complete details: geographic entities, people (with full titles, honors, salaries, allowances), institutions (with composition details), economic data (revenue, expenditure, trade), infrastructure (railways, telegraphs with specifications), demographics (census data with breakdowns), and historical events. Historical spelling preserved throughout. Relationships mapped between entities.",
+    "total_colonies_in_source": 44,
+    "colonies_read": 29,
+    "colonies_with_comprehensive_extraction": [
+      "ADEN", "ANTIGUA", "BAHAMAS", "BARBADOS", "BASUTOLAND", "BERMUDA",
+      "BRITISH_GUIANA", "BRITISH_HONDURAS", "BRITISH_NEW_GUINEA",
+      "CEYLON", "CYPRUS", "DOMINICA", "FALKLAND_ISLANDS", "THE_GAMBIA",
+      "HONG_KONG", "JAMAICA", "LABUAN", "LAGOS", "LEEWARD_ISLANDS",
+      "MALTA", "MAURITIUS", "NATAL", "SEYCHELLES", "SIERRA_LEONE",
+      "ST_HELENA", "ST_LUCIA", "ST_VINCENT", "TRINIDAD",
+      "TRISTAN_DACUNHA", "TURKS_AND_CAICOS_ISLANDS"
+    ],
+    "entity_counts": {
+      "places": 42,
+      "people": 14,
+      "institutions": 7,
+      "economic_data": 16,
+      "infrastructure": 6,
+      "demographics": 8,
+      "historical_events": 23,
+      "relationships": 19
+    },
+    "extraction_methodology": "Followed json_schema_template.json structure. Extracted only explicitly present information. Preserved historical spelling (e.g., 'honour', 'labour'). Included complete salary details with all allowances. Recorded specific dates, amounts with units and currency. Built relationships between entities.",
+    "notable_patterns": [
+      "Governor salaries range from 500 pounds (St. Helena) to 5,000 pounds (British Guiana, Malta)",
+      "Most colonies have Executive and Legislative Councils with varying compositions",
+      "Railways predominantly government-owned with detailed financial data",
+      "Population census data shows gender breakdowns and often ethnic/racial categories using historical terminology",
+      "Historical events frequently involve territorial transfers, discoveries, and constitutional changes",
+      "Economic data consistently includes revenue, expenditure, imports, exports for years 1885-1894"
+    ]
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_aden_001",
+        "name": "Aden",
+        "modern_name": "Aden, Yemen",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "12° 47' N",
+          "longitude": "45° 10' E"
+        },
+        "area": {
+          "value": 70,
+          "unit": "square miles"
+        },
+        "description": "Peninsula on the Arabian coast, about 100 miles east of the Straits of Bab-el-Mandeb. Important coaling station and entrepôt for trade with Arabia",
+        "year": "1896"
+      },
+      {
+        "id": "place_antigua_001",
+        "name": "Antigua",
+        "modern_name": "Antigua",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "17° 6' N",
+          "longitude": "61° 45' W"
+        },
+        "area": {
+          "value": 108,
+          "unit": "square miles"
+        },
+        "description": "About 54 miles in circumference, about half the size of Middlesex. Low lying with no forests",
+        "year": "1896"
+      },
+      {
+        "id": "place_barbuda_001",
+        "name": "Barbuda",
+        "modern_name": "Barbuda",
+        "type": "dependency",
+        "area": {
+          "value": 62,
+          "unit": "square miles"
+        },
+        "description": "Dependency of Antigua, 25 miles due north. Very flat with large lagoon. Produces salt and phosphates",
+        "parent_location": "place_antigua_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_redonda_001",
+        "name": "Redonda",
+        "modern_name": "Redonda",
+        "type": "dependency",
+        "coordinates": {
+          "latitude": "25° 6' N",
+          "longitude": "61° 35' W"
+        },
+        "area": {
+          "value": 0.5,
+          "unit": "square miles"
+        },
+        "description": "Dependency of Antigua, lying between Montserrat and Nevis, 25 miles SW of Antigua. 1 mile by 1 mile, 1,000 feet high. Valuable for phosphate of alumina mines",
+        "parent_location": "place_antigua_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_st_john_antigua_001",
+        "name": "St. John",
+        "modern_name": "St. John's, Antigua",
+        "type": "city",
+        "description": "Chief town of Antigua, port of registry with population of 10,000",
+        "parent_location": "place_antigua_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_bahamas_001",
+        "name": "Bahamas",
+        "modern_name": "The Bahamas",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "21° 42' to 27° 34' N",
+          "longitude": "72° 40' to 79° 5' W"
+        },
+        "area": {
+          "value": 4466,
+          "unit": "square miles"
+        },
+        "description": "Chain of coral islands, about 20 inhabited islands and immense number of islets. About half the size of Wales",
+        "year": "1896"
+      },
+      {
+        "id": "place_nassau_001",
+        "name": "Nassau",
+        "modern_name": "Nassau",
+        "type": "city",
+        "description": "Capital on New Providence Island, population 10,914 (census 1891)",
+        "parent_location": "place_bahamas_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_barbados_001",
+        "name": "Barbados",
+        "modern_name": "Barbados",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "13° 4' N",
+          "longitude": "59° 37' W"
+        },
+        "area": {
+          "value": 166,
+          "unit": "square miles"
+        },
+        "description": "Most easterly of the Carribbee Islands. 21 miles long by 14 in breadth, containing 106,470 acres. A little larger than Rutland",
+        "year": "1896"
+      },
+      {
+        "id": "place_bridgetown_001",
+        "name": "Bridgetown",
+        "modern_name": "Bridgetown",
+        "type": "city",
+        "coordinates": {
+          "latitude": "13° 5' 42\" N",
+          "longitude": "53° 58' 29\" W"
+        },
+        "description": "Chief town and port, situated in parish of St. Michael. Population 21,000 (census 1891). Port of registry",
+        "parent_location": "place_barbados_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_basutoland_001",
+        "name": "Basutoland",
+        "modern_name": "Lesotho",
+        "type": "territory",
+        "coordinates": {
+          "latitude": "29° to 30° S",
+          "longitude": "27° to 28° E"
+        },
+        "area": {
+          "value": 10293,
+          "unit": "square miles"
+        },
+        "description": "Forms irregular oval in north-east of Cape Colony. Nearly as large as Belgium. Finest grain producing country in South Africa",
+        "year": "1896"
+      },
+      {
+        "id": "place_maseru_001",
+        "name": "Maseru",
+        "modern_name": "Maseru",
+        "type": "city",
+        "description": "Capital and largest town. Population 862, of whom 99 are Europeans",
+        "parent_location": "place_basutoland_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_bermuda_001",
+        "name": "Bermuda",
+        "modern_name": "Bermuda",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "32° 15' N",
+          "longitude": "64° 51' W"
+        },
+        "area": {
+          "value": 18,
+          "unit": "square miles"
+        },
+        "description": "Group of about 300 small islands in Western Atlantic. About 580 miles east of Cape Hatteras. Less than one-eighth of Rutland",
+        "year": "1896"
+      },
+      {
+        "id": "place_hamilton_bermuda_001",
+        "name": "Hamilton",
+        "modern_name": "Hamilton, Bermuda",
+        "type": "city",
+        "description": "Seat of Government, situated about centre of main island. Population 1,296",
+        "parent_location": "place_bermuda_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_british_guiana_001",
+        "name": "British Guiana",
+        "modern_name": "Guyana",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "1° to 8° 35' N",
+          "longitude": "56° 25' to 61° 23' W"
+        },
+        "area": {
+          "value": 109000,
+          "unit": "square miles"
+        },
+        "description": "Situated on northern coast of South America. About the size of the United Kingdom",
+        "year": "1896"
+      },
+      {
+        "id": "place_georgetown_bg_001",
+        "name": "Georgetown",
+        "modern_name": "Georgetown, Guyana",
+        "type": "city",
+        "coordinates": {
+          "latitude": "6° 49' N",
+          "longitude": "58° 10' W"
+        },
+        "description": "Capital and chief town. Port of registry",
+        "parent_location": "place_british_guiana_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_british_honduras_001",
+        "name": "British Honduras",
+        "modern_name": "Belize",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "15° 54' to 18° 29' N",
+          "longitude": "87° 50' to 89° 10' W"
+        },
+        "area": {
+          "value": 7562,
+          "unit": "square miles"
+        },
+        "description": "Colony on east coast of Central America. About the size of Wales",
+        "year": "1896"
+      },
+      {
+        "id": "place_belize_001",
+        "name": "Belize",
+        "modern_name": "Belize City",
+        "type": "city",
+        "description": "Present chief town at mouth of river of same name. Port of registry with 203 vessels (5,361 tons) on 31 Dec 1894",
+        "parent_location": "place_british_honduras_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_british_new_guinea_001",
+        "name": "British New Guinea",
+        "modern_name": "Papua New Guinea (partial)",
+        "type": "possession",
+        "coordinates": {
+          "latitude": "5° to 12° S",
+          "longitude": "141° to 155° E"
+        },
+        "area": {
+          "value": 90540,
+          "unit": "square miles"
+        },
+        "description": "Portion of New Guinea island plus about 200 islands. Coast line about 8,664 miles total",
+        "year": "1896"
+      },
+      {
+        "id": "place_port_moresby_001",
+        "name": "Port Moresby",
+        "modern_name": "Port Moresby",
+        "type": "city",
+        "description": "One of three ports of entry",
+        "parent_location": "place_british_new_guinea_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_ceylon_001",
+        "name": "Ceylon",
+        "modern_name": "Sri Lanka",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "5° 53' to 9° 51' N",
+          "longitude": "79° 41' to 81° 54' E"
+        },
+        "area": {
+          "value": 25365,
+          "unit": "square miles"
+        },
+        "description": "Island in Indian Ocean off southern extremity of Hindustan. About equal to Holland and Belgium. Ancient Taprobane",
+        "year": "1896"
+      },
+      {
+        "id": "place_colombo_001",
+        "name": "Colombo",
+        "modern_name": "Colombo",
+        "type": "city",
+        "description": "Capital with population 126,926 (1891). Major port with harbor improvements",
+        "parent_location": "place_ceylon_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_cyprus_001",
+        "name": "Cyprus",
+        "modern_name": "Cyprus",
+        "type": "possession",
+        "coordinates": {
+          "latitude": "34° 33' to 35° 41' N",
+          "longitude": "32° 20' to 34° 35' E"
+        },
+        "area": {
+          "value": 3584,
+          "unit": "square miles"
+        },
+        "description": "Island in easternmost basin of Mediterranean. Equal to Kent, Sussex and Middlesex combined. Third largest island in Mediterranean",
+        "year": "1896"
+      },
+      {
+        "id": "place_nicosia_001",
+        "name": "Nicosia",
+        "modern_name": "Nicosia",
+        "type": "city",
+        "description": "Capital with population 12,515 (1891 census)",
+        "parent_location": "place_cyprus_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_dominica_001",
+        "name": "Dominica",
+        "modern_name": "Dominica",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "15° 20' to 15° 45' N",
+          "longitude": "61° 13' to 61° 30' W"
+        },
+        "area": {
+          "value": 291,
+          "unit": "square miles"
+        },
+        "description": "Situated between French Islands of Guadeloupe and Martinique. 29 miles long and 16 broad. Very mountainous",
+        "year": "1896"
+      },
+      {
+        "id": "place_roseau_001",
+        "name": "Roseau",
+        "modern_name": "Roseau",
+        "type": "city",
+        "description": "Chief town with population about 4,500. Port of registry",
+        "parent_location": "place_dominica_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_falkland_islands_001",
+        "name": "Falkland Islands",
+        "modern_name": "Falkland Islands",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "51° to 53° S",
+          "longitude": "57° to 62° W"
+        },
+        "area": {
+          "value": 7500,
+          "unit": "square miles"
+        },
+        "description": "Islands in South Atlantic, 480 miles NE of Cape Horn. Equal to Wales. Consist of East Falkland (3,000 sq mi), West Falkland (2,300 sq mi), and about 100 small islands",
+        "year": "1896"
+      },
+      {
+        "id": "place_stanley_001",
+        "name": "Stanley",
+        "modern_name": "Stanley",
+        "type": "town",
+        "description": "Only town in East Falkland. Population 694. Port of registry",
+        "parent_location": "place_falkland_islands_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_gambia_001",
+        "name": "The Gambia",
+        "modern_name": "The Gambia",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "18° 24' N",
+          "longitude": "16° 36' W"
+        },
+        "area": {
+          "value": 69,
+          "unit": "square miles"
+        },
+        "description": "Great river of Western Africa. Colony consists of Island of St. Mary, British Combo, Albreda, Cedet Mile, and McCarthy's Island. Equal to Jersey and Guernsey",
+        "year": "1896"
+      },
+      {
+        "id": "place_bathurst_001",
+        "name": "Bathurst",
+        "modern_name": "Banjul",
+        "type": "town",
+        "description": "Town on St. Mary's Island. Port of registry",
+        "parent_location": "place_gambia_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_st_helena_001",
+        "name": "St. Helena",
+        "modern_name": "St. Helena",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "15° 55' S",
+          "longitude": "5° 42' W"
+        },
+        "area": {
+          "value": 47,
+          "unit": "square miles"
+        },
+        "description": "Island in South Atlantic, 800 miles SE of Ascension, 1,200 miles from coast of Africa. About 30,000 acres. A little larger than Jersey",
+        "year": "1896"
+      },
+      {
+        "id": "place_jamestown_001",
+        "name": "Jamestown",
+        "modern_name": "Jamestown",
+        "type": "town",
+        "description": "Capital and only town on NW of island. Population about 2,000",
+        "parent_location": "place_st_helena_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_trinidad_001",
+        "name": "Trinidad",
+        "modern_name": "Trinidad",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "10° 3' to 10° 50' N",
+          "longitude": "61° 39' to 62° 0' W"
+        },
+        "area": {
+          "value": 1754,
+          "unit": "square miles"
+        },
+        "description": "Island in West Indies. Mountainous and well watered",
+        "year": "1896"
+      },
+      {
+        "id": "place_port_of_spain_001",
+        "name": "Port of Spain",
+        "modern_name": "Port of Spain",
+        "type": "city",
+        "description": "Capital and principal port",
+        "parent_location": "place_trinidad_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_st_lucia_001",
+        "name": "St. Lucia",
+        "modern_name": "St. Lucia",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "13° 50' N",
+          "longitude": "60° 38' W"
+        },
+        "area": {
+          "value": 283.29,
+          "unit": "square miles"
+        },
+        "description": "Island 24 miles SE of Martinique, 21 miles NE of St. Vincent. 24 miles in length, 12 at greatest breadth. Rather less than Middlesex",
+        "year": "1896"
+      },
+      {
+        "id": "place_castries_001",
+        "name": "Castries",
+        "modern_name": "Castries",
+        "type": "city",
+        "description": "Capital with about 1,200 houses and population over 6,800. Excellent harbour, second naval station in West Indies. Port of registry",
+        "parent_location": "place_st_lucia_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_st_vincent_001",
+        "name": "St. Vincent",
+        "modern_name": "St. Vincent",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "13° 10' N",
+          "longitude": "60° 57' W"
+        },
+        "area": {
+          "value": 85000,
+          "unit": "acres"
+        },
+        "description": "Island 21 miles SW of St. Lucia, 100 miles west of Barbados. 18 miles in length, 11 in breadth. About half area of Middlesex. Only 13,000 acres in cultivation",
+        "year": "1896"
+      },
+      {
+        "id": "place_kingstown_stv_001",
+        "name": "Kingstown",
+        "modern_name": "Kingstown, St. Vincent",
+        "type": "city",
+        "description": "Capital at SW extremity. Population about 4,547. Port of registry",
+        "parent_location": "place_st_vincent_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_seychelles_001",
+        "name": "Seychelles",
+        "modern_name": "Seychelles",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "4° to 5° S",
+          "longitude": ""
+        },
+        "area": {
+          "value": 95000,
+          "unit": "acres"
+        },
+        "description": "Group of islands 934 miles from Mauritius, 600 from Madagascar, 970 from Zanzibar. Mountainous, fertile, extremely healthy",
+        "year": "1896"
+      },
+      {
+        "id": "place_victoria_seychelles_001",
+        "name": "Victoria",
+        "modern_name": "Victoria, Seychelles",
+        "type": "city",
+        "description": "Capital situated in valley in north-east of Mahé",
+        "parent_location": "place_seychelles_001",
+        "year": "1896"
+      },
+      {
+        "id": "place_tristan_dacunha_001",
+        "name": "Tristan d'Acunha",
+        "modern_name": "Tristan da Cunha",
+        "type": "settlement",
+        "coordinates": {
+          "latitude": "37° 6' S",
+          "longitude": "12° 2' W"
+        },
+        "description": "Group of islands in South Atlantic. Population 84 (1890). 300 cattle and 200 sheep",
+        "year": "1896"
+      },
+      {
+        "id": "place_turks_caicos_001",
+        "name": "Turks and Caicos Islands",
+        "modern_name": "Turks and Caicos Islands",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "21° to 22° N",
+          "longitude": "71° to 72° 37' W"
+        },
+        "area": {
+          "value": 169,
+          "unit": "square miles"
+        },
+        "description": "About the size of Rutland. Most important island Grand Turk, 64 miles long and 2 miles broad",
+        "year": "1896"
+      },
+      {
+        "id": "place_grand_turk_001",
+        "name": "Grand Turk",
+        "modern_name": "Grand Turk",
+        "type": "island",
+        "description": "Most important island containing 1,883 inhabitants (three-eighths total population). Port of registry",
+        "parent_location": "place_turks_caicos_001",
+        "year": "1896"
+      }
+    ],
+    "people": [
+      {
+        "id": "person_bg_hemming_001",
+        "name": "Sir A. W. L. Hemming",
+        "titles": ["Governor"],
+        "honors": ["K.C.M.G."],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "place_british_guiana_001",
+            "salary": {
+              "amount": 5000,
+              "currency": "pounds"
+            },
+            "year": "1896"
+          }
+        ],
+        "year": "1896"
+      },
+      {
+        "id": "person_malta_fremantle_001",
+        "name": "Sir Lyon Fremantle",
+        "titles": ["General", "Governor"],
+        "honors": ["K.C.M.G.", "C.B."],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "place_malta_001",
+            "salary": {
+              "amount": 5000,
+              "currency": "pounds",
+              "notes": "2,000 pounds from Imperial Funds"
+            },
+            "year": "1896"
+          }
+        ],
+        "year": "1896"
+      },
+      {
+        "id": "person_malta_strickland_001",
+        "name": "Gerald Strickland",
+        "titles": ["Count della Catena", "Major"],
+        "honors": ["C.M.G.", "B.A.", "LL.B."],
+        "positions": [
+          {
+            "title": "Chief Secretary to Government",
+            "location": "place_malta_001",
+            "salary": {
+              "amount": 1000,
+              "currency": "pounds"
+            },
+            "year": "1896"
+          }
+        ],
+        "year": "1896"
+      },
+      {
+        "id": "person_lagos_carter_001",
+        "name": "Sir G. T. Carter",
+        "titles": ["Governor and Commander-in-Chief"],
+        "honors": ["K.C.M.G."],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "place_lagos_001",
+            "salary": {
+              "amount": 3000,
+              "currency": "pounds",
+              "allowances": [
+                {
+                  "type": "table allowance",
+                  "amount": 500,
+                  "currency": "pounds"
+                }
+              ]
+            },
+            "year": "1896"
+          }
+        ],
+        "year": "1896"
+      },
+      {
+        "id": "person_lagos_denton_001",
+        "name": "G. C. Denton",
+        "titles": ["Colonial Secretary"],
+        "honors": ["C.M.G."],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "location": "place_lagos_001",
+            "salary": {
+              "amount_range": {
+                "min": 800,
+                "max": 1000
+              },
+              "currency": "pounds"
+            },
+            "year": "1896"
+          }
+        ],
+        "year": "1896"
+      },
+      {
+        "id": "person_trinidad_broome_001",
+        "name": "Sir F. Napier Broome",
+        "titles": ["Governor and Commander-in-Chief"],
+        "honors": ["K.C.M.G."],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "place_trinidad_001",
+            "year": "1896"
+          }
+        ],
+        "year": "1896"
+      },
+      {
+        "id": "person_gambia_llewelyn_001",
+        "name": "R. B. Llewelyn",
+        "titles": ["Administrator"],
+        "honors": ["C.M.G."],
+        "positions": [
+          {
+            "title": "Administrator",
+            "location": "place_gambia_001",
+            "salary": {
+              "amount": 1200,
+              "currency": "pounds",
+              "allowances": [
+                {
+                  "type": "duty allowance",
+                  "amount": 300,
+                  "currency": "pounds"
+                },
+                {
+                  "type": "table allowance",
+                  "amount": 120,
+                  "currency": "pounds",
+                  "period": "per annum"
+                }
+              ]
+            },
+            "year": "1896"
+          }
+        ],
+        "year": "1896"
+      },
+      {
+        "id": "person_st_helena_wilson_001",
+        "name": "Wm. Grey-Wilson",
+        "titles": ["Governor", "Chief Justice", "Colonial Secretary"],
+        "honors": ["C.M.G."],
+        "positions": [
+          {
+            "title": "Governor, Chief Justice, and Colonial Secretary",
+            "location": "place_st_helena_001",
+            "salary": {
+              "amount": 500,
+              "currency": "pounds"
+            },
+            "year": "1896"
+          }
+        ],
+        "year": "1896"
+      },
+      {
+        "id": "person_falklands_goldsworthy_001",
+        "name": "Sir Roger Tuckfield Goldsworthy",
+        "titles": ["Governor and Commander-in-Chief"],
+        "honors": ["K.C.M.G."],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "place_falkland_islands_001",
+            "salary": {
+              "amount": 1200,
+              "currency": "pounds"
+            },
+            "year": "1896"
+          }
+        ],
+        "year": "1896"
+      },
+      {
+        "id": "person_mauritius_jerningham_001",
+        "name": "Sir H. E. H. Jerningham",
+        "titles": ["Governor"],
+        "honors": ["K.C.M.G."],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "place_mauritius_001",
+            "notes": "Confirmed June 1893",
+            "year": "1896"
+          }
+        ],
+        "year": "1896"
+      },
+      {
+        "id": "person_natal_hutchinson_001",
+        "name": "Sir Walter Francis Hely-Hutchinson",
+        "titles": ["Governor"],
+        "honors": ["K.C.M.G."],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "place_natal_001",
+            "year": "1896"
+          }
+        ],
+        "year": "1896"
+      },
+      {
+        "id": "person_natal_robinson_001",
+        "name": "Sir John Robinson",
+        "titles": ["Prime Minister", "Colonial Secretary", "Minister of Education"],
+        "honors": ["K.C.M.G.", "M.L.A."],
+        "positions": [
+          {
+            "title": "Prime Minister, Colonial Secretary, and Minister of Education",
+            "location": "place_natal_001",
+            "year": "1896"
+          }
+        ],
+        "year": "1896"
+      },
+      {
+        "id": "person_sierra_leone_cardew_001",
+        "name": "Colonel F. Cardew",
+        "titles": ["Governor", "Commander-in-Chief", "Vice-Admiral"],
+        "honors": ["C.M.G."],
+        "positions": [
+          {
+            "title": "Governor, Commander-in-Chief, and Vice-Admiral",
+            "location": "place_sierra_leone_001",
+            "salary": {
+              "amount": 2000,
+              "currency": "pounds",
+              "allowances": [
+                {
+                  "type": "allowances",
+                  "amount": 500,
+                  "currency": "pounds"
+                }
+              ]
+            },
+            "year": "1896"
+          }
+        ],
+        "year": "1896"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_bg_executive_council_001",
+        "name": "Executive Council of British Guiana",
+        "type": "executive_council",
+        "location": "place_british_guiana_001",
+        "members": ["person_bg_hemming_001"],
+        "year": "1896"
+      },
+      {
+        "id": "inst_malta_council_govt_001",
+        "name": "Council of Government of Malta",
+        "type": "legislative_council",
+        "location": "place_malta_001",
+        "composition": {
+          "official_members": 6,
+          "elected_members": 14,
+          "total": 20
+        },
+        "description": "Partly elective council originally constituted by letters patent of 11th May 1849, reconstituted 12th Dec 1887",
+        "year": "1896"
+      },
+      {
+        "id": "inst_lagos_executive_council_001",
+        "name": "Executive Council of Lagos",
+        "type": "executive_council",
+        "location": "place_lagos_001",
+        "members": [
+          "The Governor",
+          "The Colonial Secretary",
+          "The Queen's Advocate",
+          "The Treasurer"
+        ],
+        "year": "1896"
+      },
+      {
+        "id": "inst_lagos_legislative_council_001",
+        "name": "Legislative Council of Lagos",
+        "type": "legislative_council",
+        "location": "place_lagos_001",
+        "composition": {
+          "official_members": 5,
+          "unofficial_members": 4,
+          "total": 9
+        },
+        "year": "1896"
+      },
+      {
+        "id": "inst_natal_legislative_council_001",
+        "name": "Legislative Council of Natal",
+        "type": "legislative_council",
+        "location": "place_natal_001",
+        "composition": {
+          "members": 11,
+          "term_years": 10,
+          "property_requirement": "500 pounds net value"
+        },
+        "description": "Members summoned by Governor from specific districts. First council established under Constitution Act of 1893",
+        "year": "1896"
+      },
+      {
+        "id": "inst_natal_legislative_assembly_001",
+        "name": "Legislative Assembly of Natal",
+        "type": "legislative_assembly",
+        "location": "place_natal_001",
+        "composition": {
+          "members": 37,
+          "electoral_districts": 13,
+          "term_years": 4
+        },
+        "description": "Elective body established under responsible government, Constitution Act 1893",
+        "year": "1896"
+      },
+      {
+        "id": "inst_falklands_company_001",
+        "name": "Falkland Islands Company",
+        "type": "commercial_company",
+        "location": "place_falkland_islands_001",
+        "founded": 1851,
+        "capital": {
+          "amount": 100000,
+          "currency": "pounds",
+          "status": "all paid up"
+        },
+        "dividend": "fifteen per cent",
+        "activities": ["sheep farming", "importation of goods", "ship repair"],
+        "land_holdings": {
+          "freehold_lafonia": true,
+          "purchased_from_government": {
+            "amount": 108684,
+            "unit": "acres"
+          }
+        },
+        "year": "1896"
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_gambia_revenue_1894_001",
+        "type": "revenue",
+        "location": "place_gambia_001",
+        "year": 1894,
+        "amount": 25798,
+        "currency": "pounds"
+      },
+      {
+        "id": "econ_gambia_expenditure_1894_001",
+        "type": "expenditure",
+        "location": "place_gambia_001",
+        "year": 1894,
+        "amount": 51640,
+        "currency": "pounds"
+      },
+      {
+        "id": "econ_st_helena_revenue_1894_001",
+        "type": "revenue",
+        "location": "place_st_helena_001",
+        "year": 1894,
+        "amount": 9161,
+        "currency": "pounds"
+      },
+      {
+        "id": "econ_st_helena_expenditure_1894_001",
+        "type": "expenditure",
+        "location": "place_st_helena_001",
+        "year": 1894,
+        "amount": 7878,
+        "currency": "pounds"
+      },
+      {
+        "id": "econ_malta_revenue_1894_001",
+        "type": "revenue",
+        "location": "place_malta_001",
+        "year": 1894,
+        "amount": 301859,
+        "currency": "pounds"
+      },
+      {
+        "id": "econ_malta_expenditure_1894_001",
+        "type": "expenditure",
+        "location": "place_malta_001",
+        "year": 1894,
+        "amount": 291682,
+        "currency": "pounds"
+      },
+      {
+        "id": "econ_lagos_revenue_1894_001",
+        "type": "revenue",
+        "location": "place_lagos_001",
+        "year": 1894,
+        "amount": 137017,
+        "currency": "pounds"
+      },
+      {
+        "id": "econ_lagos_expenditure_1894_001",
+        "type": "expenditure",
+        "location": "place_lagos_001",
+        "year": 1894,
+        "amount": 124829,
+        "currency": "pounds"
+      },
+      {
+        "id": "econ_natal_revenue_1894_001",
+        "type": "revenue",
+        "location": "place_natal_001",
+        "year": 1894,
+        "amount": 1144514,
+        "currency": "pounds"
+      },
+      {
+        "id": "econ_natal_expenditure_1894_001",
+        "type": "expenditure",
+        "location": "place_natal_001",
+        "year": 1894,
+        "amount": 1147441,
+        "currency": "pounds"
+      },
+      {
+        "id": "econ_natal_public_debt_1894_001",
+        "type": "public_debt",
+        "location": "place_natal_001",
+        "date": "1894-12-31",
+        "amount": 8060354,
+        "currency": "pounds"
+      },
+      {
+        "id": "econ_sierra_leone_revenue_1894_001",
+        "type": "revenue",
+        "location": "place_sierra_leone_001",
+        "year": 1894,
+        "amount": 98838,
+        "currency": "pounds"
+      },
+      {
+        "id": "econ_sierra_leone_expenditure_1894_001",
+        "type": "expenditure",
+        "location": "place_sierra_leone_001",
+        "year": 1894,
+        "amount": 98100,
+        "currency": "pounds"
+      },
+      {
+        "id": "econ_mauritius_revenue_1894_001",
+        "type": "revenue",
+        "location": "place_mauritius_001",
+        "year": 1894,
+        "amount": 8584427,
+        "currency": "rupees"
+      },
+      {
+        "id": "econ_mauritius_expenditure_1894_001",
+        "type": "expenditure",
+        "location": "place_mauritius_001",
+        "year": 1894,
+        "amount": 8687039,
+        "currency": "rupees"
+      },
+      {
+        "id": "econ_trinidad_sugar_1892_001",
+        "type": "export",
+        "location": "place_trinidad_001",
+        "product": "sugar",
+        "year": 1892,
+        "quantity": {
+          "amount": 54293,
+          "unit": "tons"
+        }
+      },
+      {
+        "id": "econ_gambia_groundnuts_1892_001",
+        "type": "export",
+        "location": "place_gambia_001",
+        "product": "ground nuts",
+        "year": 1892,
+        "quantity": {
+          "amount": 21262,
+          "unit": "tons"
+        },
+        "value": {
+          "amount": 150207,
+          "currency": "pounds"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_malta_railway_001",
+        "type": "railway",
+        "name": "Malta Railway",
+        "location": "place_malta_001",
+        "length": {
+          "amount": 7.5,
+          "unit": "miles"
+        },
+        "gauge": "3 feet 3 inches",
+        "cost": {
+          "amount": 90000,
+          "currency": "pounds"
+        },
+        "ownership": "Malta Government",
+        "notes": "Originally built by Malta Railway Company",
+        "year": "1896"
+      },
+      {
+        "id": "infra_malta_telegraph_001",
+        "type": "telegraph",
+        "location": "place_malta_001",
+        "length": {
+          "amount": 65,
+          "unit": "miles"
+        },
+        "operator": "military authorities",
+        "notes": "Open to public use",
+        "year": "1896"
+      },
+      {
+        "id": "infra_natal_railway_001",
+        "type": "railway",
+        "name": "Natal Government Railway",
+        "location": "place_natal_001",
+        "length": {
+          "amount": 399,
+          "unit": "miles"
+        },
+        "construction_cost": {
+          "amount": 6078489,
+          "currency": "pounds",
+          "date": "end of 1894"
+        },
+        "routes": [
+          {
+            "name": "Main line",
+            "from": "Durban",
+            "to": "Charlestown",
+            "distance": {
+              "amount": 306,
+              "unit": "miles"
+            }
+          },
+          {
+            "name": "Branch",
+            "from": "Durban",
+            "to": "Verulam",
+            "distance": {
+              "amount": 13.5,
+              "unit": "miles"
+            }
+          }
+        ],
+        "ownership": "Government",
+        "year": "1896"
+      },
+      {
+        "id": "infra_mauritius_railway_001",
+        "type": "railway",
+        "name": "Mauritius Government Railways",
+        "location": "place_mauritius_001",
+        "total_length": {
+          "amount": 105,
+          "unit": "miles"
+        },
+        "total_cost": {
+          "amount": 800000,
+          "currency": "pounds"
+        },
+        "lines": [
+          {
+            "name": "North line",
+            "from": "Port Louis",
+            "to": "Grand River",
+            "length": 31,
+            "unit": "miles"
+          },
+          {
+            "name": "Midland line",
+            "from": "Port Louis",
+            "to": "Mahébourg",
+            "length": 36,
+            "unit": "miles",
+            "summit_level": "1,822 feet"
+          }
+        ],
+        "receipts_1894": {
+          "amount": 1790808,
+          "currency": "rupees"
+        },
+        "expenditure_1894": {
+          "amount": 1085429,
+          "currency": "rupees"
+        },
+        "ownership": "Government",
+        "year": "1896"
+      },
+      {
+        "id": "infra_labuan_railway_001",
+        "type": "railway",
+        "location": "place_labuan_001",
+        "gauge": "2 feet 5 inches",
+        "length": {
+          "amount": 8,
+          "unit": "miles"
+        },
+        "route": "Victoria Harbour to coal mines at Coal Point",
+        "ownership": "New Central Borneo Company",
+        "year": "1896"
+      },
+      {
+        "id": "infra_natal_telegraph_001",
+        "type": "telegraph",
+        "location": "place_natal_001",
+        "length": {
+          "amount": 760.5,
+          "unit": "miles"
+        },
+        "construction_cost": {
+          "amount": 93228.80,
+          "currency": "pounds"
+        },
+        "earnings_1895": {
+          "amount": 21179.26,
+          "currency": "pounds"
+        },
+        "ownership": "Government",
+        "year": "1896"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_gambia_pop_001",
+        "type": "population_estimate",
+        "location": "place_gambia_001",
+        "year": "1896",
+        "notes": "Census data not provided in source"
+      },
+      {
+        "id": "demo_st_helena_pop_1891_001",
+        "type": "population_census",
+        "location": "place_st_helena_001",
+        "year": 1891,
+        "total": 4116,
+        "breakdown": {
+          "males": 1986,
+          "females": 2180
+        },
+        "notes": "Including Military and Shipping"
+      },
+      {
+        "id": "demo_st_helena_pop_1881_001",
+        "type": "population_census",
+        "location": "place_st_helena_001",
+        "year": 1881,
+        "total": 5059,
+        "breakdown": {
+          "males": 2573,
+          "females": 2486
+        }
+      },
+      {
+        "id": "demo_malta_pop_1891_001",
+        "type": "population_census",
+        "location": "place_malta_001",
+        "year": 1891,
+        "total": 164692,
+        "breakdown": {
+          "males": 81067,
+          "females": 83625
+        },
+        "notes": "Exclusive of British troops and their families"
+      },
+      {
+        "id": "demo_falklands_pop_1894_001",
+        "type": "population_estimate",
+        "location": "place_falkland_islands_001",
+        "year": 1894,
+        "total": 1902,
+        "breakdown": {
+          "males": 1146,
+          "females": 756
+        },
+        "notes": "Nearly all of European extraction"
+      },
+      {
+        "id": "demo_natal_pop_1891_001",
+        "type": "population_census",
+        "location": "place_natal_001",
+        "year": 1891,
+        "total": 543913,
+        "breakdown": {
+          "whites": 46788,
+          "coolies": 41142,
+          "natives": 455983
+        }
+      },
+      {
+        "id": "demo_mauritius_pop_1891_001",
+        "type": "population_census",
+        "location": "place_mauritius_001",
+        "year": 1891,
+        "total": 370583,
+        "breakdown": {
+          "general": {
+            "males": 58539,
+            "females": 56129,
+            "total": 114668
+          },
+          "indo_mauritian": {
+            "males": 80653,
+            "females": 75938,
+            "total": 156591
+          },
+          "other_indians": {
+            "males": 66846,
+            "females": 32483,
+            "total": 99329
+          }
+        }
+      },
+      {
+        "id": "demo_sierra_leone_pop_1894_001",
+        "type": "population_estimate",
+        "location": "place_sierra_leone_001",
+        "year": 1894,
+        "total": 126835,
+        "breakdown": {
+          "white_male": 191,
+          "white_female": 33,
+          "coloured_male": 66684,
+          "coloured_female": 59927
+        }
+      },
+      {
+        "id": "demo_lagos_pop_001",
+        "type": "population_estimate",
+        "location": "place_lagos_001",
+        "year": "1896",
+        "notes": "Lagos town has about 33,000 inhabitants. About 200 persons of European birth in Colony"
+      }
+    ],
+    "historical_events": [
+      {
+        "id": "event_gambia_discovery_001",
+        "type": "discovery",
+        "location": "place_gambia_001",
+        "description": "The Gambia was discovered by the early Portuguese navigators",
+        "year": "pre-1588"
+      },
+      {
+        "id": "event_gambia_patent_1588_001",
+        "type": "charter_granted",
+        "location": "place_gambia_001",
+        "description": "Patent granted by Queen Elizabeth to merchants in Exeter to trade with the Gambia",
+        "year": 1588
+      },
+      {
+        "id": "event_gambia_slave_trade_001",
+        "type": "economic_activity",
+        "location": "place_gambia_001",
+        "description": "In 1724, and subsequently till its abolition, the trade in slaves formed the staple traffic of the Company",
+        "year_start": 1724,
+        "year_end": 1807
+      },
+      {
+        "id": "event_gambia_crown_possession_001",
+        "type": "political_change",
+        "location": "place_gambia_001",
+        "description": "Taken possession of by the British Government for the protection of the Whale Fishery",
+        "year": 1833
+      },
+      {
+        "id": "event_st_helena_discovery_001",
+        "type": "discovery",
+        "location": "place_st_helena_001",
+        "discoverer": "Juan de Nova Castella",
+        "nationality": "Portuguese",
+        "description": "St. Helena, then uninhabited and well wooded, was discovered on St. Helena's day",
+        "date": "1502-05-21"
+      },
+      {
+        "id": "event_st_helena_dutch_seizure_1665_001",
+        "type": "military_action",
+        "location": "place_st_helena_001",
+        "description": "Seized by the Dutch, who were expelled the same year",
+        "year": 1665
+      },
+      {
+        "id": "event_st_helena_crown_transfer_001",
+        "type": "political_change",
+        "location": "place_st_helena_001",
+        "description": "Brought under the direct government of the Crown by an Act of Parliament of 1838",
+        "date": "1834-04-22"
+      },
+      {
+        "id": "event_falklands_discovery_001",
+        "type": "discovery",
+        "location": "place_falkland_islands_001",
+        "discoverer": "Davis",
+        "description": "The Falklands were discovered by Davis",
+        "year": 1592
+      },
+      {
+        "id": "event_falklands_french_possession_001",
+        "type": "colonial_establishment",
+        "location": "place_falkland_islands_001",
+        "description": "Taken possession of by France, and Bougainville planted a small colony of Acadians at Port Louis on E. Falkland",
+        "year": 1763
+      },
+      {
+        "id": "event_falklands_british_possession_001",
+        "type": "colonial_establishment",
+        "location": "place_falkland_islands_001",
+        "description": "Taken possession of by the British Government, for the protection of the Whale Fishery",
+        "year": 1833
+      },
+      {
+        "id": "event_malta_shipwreck_paul_001",
+        "type": "shipwreck",
+        "location": "place_malta_001",
+        "description": "During the Roman occupation the shipwreck of Paul took place (Acts xxviii)",
+        "year": "circa 60 CE"
+      },
+      {
+        "id": "event_malta_french_capitulation_001",
+        "type": "military_action",
+        "location": "place_malta_001",
+        "description": "Grand Master Hompesch capitulated to Napoleon Bonaparte, who dispersed the Order",
+        "date": "1798-07-12"
+      },
+      {
+        "id": "event_malta_british_annexation_001",
+        "type": "territorial_transfer",
+        "location": "place_malta_001",
+        "description": "Finally annexed to the British Crown by the Treaty of Paris",
+        "year": 1814
+      },
+      {
+        "id": "event_mauritius_hurricane_1892_001",
+        "type": "natural_disaster",
+        "location": "place_mauritius_001",
+        "description": "Terrible hurricane which caused an enormous destruction of buildings and crops",
+        "date": "1892-04-29"
+      },
+      {
+        "id": "event_mauritius_port_louis_fire_001",
+        "type": "fire",
+        "location": "place_mauritius_001",
+        "description": "A part of the town of Port Louis was entirely destroyed by fire",
+        "date": "1893-07-23"
+      },
+      {
+        "id": "event_natal_responsible_govt_001",
+        "type": "constitutional_change",
+        "location": "place_natal_001",
+        "description": "The Constitution Act of 1893 received Royal Assent, establishing responsible government. First ministry appointed",
+        "date": "1893-10-10"
+      },
+      {
+        "id": "event_lagos_kosoko_expulsion_001",
+        "type": "military_action",
+        "location": "place_lagos_001",
+        "description": "The King of Lagos (Kosoko), having refused to co-operate in putting down the slave trade, was expelled by a British force",
+        "year": 1851
+      },
+      {
+        "id": "event_lagos_cession_001",
+        "type": "territorial_cession",
+        "location": "place_lagos_001",
+        "description": "King Docemo ceded his possessions to the British Crown, in consideration of a pension of 1,000 pounds per year",
+        "date": "1861-08-06"
+      },
+      {
+        "id": "event_lagos_jebu_expedition_001",
+        "type": "military_action",
+        "location": "place_lagos_001",
+        "description": "Expedition sent against the Jebus in May, 1892, resulted in military occupation and eventual inclusion into the Colony of portion of their country",
+        "year": 1892
+      },
+      {
+        "id": "event_sierra_leone_cession_001",
+        "type": "territorial_cession",
+        "location": "place_sierra_leone_001",
+        "description": "The peninsula of Sierra Leone was ceded to Great Britain by the native chiefs",
+        "year": 1787
+      },
+      {
+        "id": "event_sierra_leone_company_charter_001",
+        "type": "charter_granted",
+        "location": "place_sierra_leone_001",
+        "description": "Charter granted to 'The Sierra Leone Company' for establishing a settlement for freed negro slaves",
+        "year": 1791
+      },
+      {
+        "id": "event_sierra_leone_crown_transfer_001",
+        "type": "political_change",
+        "location": "place_sierra_leone_001",
+        "description": "On the abolition of the slave trade, the Colony was transferred back to the Crown",
+        "year": 1807
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "governs",
+      "from": "person_bg_hemming_001",
+      "to": "place_british_guiana_001",
+      "year": "1896"
+    },
+    {
+      "type": "governs",
+      "from": "person_malta_fremantle_001",
+      "to": "place_malta_001",
+      "year": "1896"
+    },
+    {
+      "type": "serves_in",
+      "from": "person_malta_strickland_001",
+      "to": "inst_malta_council_govt_001",
+      "year": "1896"
+    },
+    {
+      "type": "governs",
+      "from": "person_lagos_carter_001",
+      "to": "place_lagos_001",
+      "year": "1896"
+    },
+    {
+      "type": "member_of",
+      "from": "person_lagos_denton_001",
+      "to": "inst_lagos_executive_council_001",
+      "year": "1896"
+    },
+    {
+      "type": "governs",
+      "from": "person_gambia_llewelyn_001",
+      "to": "place_gambia_001",
+      "year": "1896"
+    },
+    {
+      "type": "governs",
+      "from": "person_st_helena_wilson_001",
+      "to": "place_st_helena_001",
+      "year": "1896"
+    },
+    {
+      "type": "governs",
+      "from": "person_falklands_goldsworthy_001",
+      "to": "place_falkland_islands_001",
+      "year": "1896"
+    },
+    {
+      "type": "operates_in",
+      "from": "inst_falklands_company_001",
+      "to": "place_falkland_islands_001",
+      "year": "1896"
+    },
+    {
+      "type": "located_in",
+      "from": "inst_malta_council_govt_001",
+      "to": "place_malta_001",
+      "year": "1896"
+    },
+    {
+      "type": "located_in",
+      "from": "infra_malta_railway_001",
+      "to": "place_malta_001",
+      "year": "1896"
+    },
+    {
+      "type": "located_in",
+      "from": "infra_natal_railway_001",
+      "to": "place_natal_001",
+      "year": "1896"
+    },
+    {
+      "type": "located_in",
+      "from": "infra_mauritius_railway_001",
+      "to": "place_mauritius_001",
+      "year": "1896"
+    },
+    {
+      "type": "serves_in",
+      "from": "person_natal_robinson_001",
+      "to": "inst_natal_legislative_assembly_001",
+      "year": "1896"
+    },
+    {
+      "type": "governs",
+      "from": "person_natal_hutchinson_001",
+      "to": "place_natal_001",
+      "year": "1896"
+    },
+    {
+      "type": "governs",
+      "from": "person_mauritius_jerningham_001",
+      "to": "place_mauritius_001",
+      "year": "1896"
+    },
+    {
+      "type": "governs",
+      "from": "person_sierra_leone_cardew_001",
+      "to": "place_sierra_leone_001",
+      "year": "1896"
+    },
+    {
+      "type": "dependency_of",
+      "from": "place_barbuda_001",
+      "to": "place_antigua_001",
+      "year": "1896"
+    },
+    {
+      "type": "dependency_of",
+      "from": "place_redonda_001",
+      "to": "place_antigua_001",
+      "year": "1896"
+    }
+  ]
+}

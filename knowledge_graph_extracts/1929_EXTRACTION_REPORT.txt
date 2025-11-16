@@ -1,0 +1,176 @@
+================================================================================
+COLONIAL OFFICE LIST 1929 - KNOWLEDGE GRAPH EXTRACTION REPORT
+================================================================================
+
+EXTRACTION METADATA
+--------------------------------------------------------------------------------
+Year: 1929
+Extraction Date: 2025-11-16T23:33:20.287683
+Source Directory: output_2/1929_manual_parsed
+Processing Notes: Comprehensive knowledge graph extraction from 35 colonial administrative records
+
+COLONIES PROCESSED
+--------------------------------------------------------------------------------
+Total Colonies/Territories: 35
+   1. ADEN
+   2. ANTIGUA
+   3. ASCENSION
+   4. BAHAMAS
+   5. BERMUDA
+   6. BRITISH_GUIANA
+   7. BRITISH_HONDURAS
+   8. CAYMAN_ISLANDS
+   9. CEYLON
+  10. CYPRUS
+  11. DOMINICA
+  12. FALKLAND_ISLANDS
+  13. FIJI
+  14. GIBRALTAR
+  15. HONG_KONG
+  16. IRAQ
+  17. MALTA
+  18. MAURITIUS
+  19. MISCELLANEOUS_ISLANDS
+  20. NIGERIA
+  21. NORTH_BORNEO
+  22. PALESTINE
+  23. SEYCHELLES
+  24. SIERRA_LEONE
+  25. STRAITS_SETTLEMENTS
+  26. ST_HELENA
+  27. ST_LUCIA
+  28. ST_VINCENT
+  29. THE_GAMBIA
+  30. TRINIDAD
+  31. TRISTAN_DA_CUNHA
+  32. TURKS_AND_CAICOS_ISLANDS
+  33. UGANDA
+  34. WEIHAIWEI
+  35. ZANZIBAR
+
+ENTITY EXTRACTION SUMMARY
+--------------------------------------------------------------------------------
+Geographic Entities (Places):
+  Total places extracted: 513
+  Place types:
+    - island: 172
+    - district: 103
+    - town: 88
+    - river: 58
+    - colony: 35
+    - city: 24
+    - bay: 19
+    - peninsula: 14
+
+People Extracted:
+  Total people: 468
+  Unique position titles: 19
+  Sample positions:
+    - Administrator
+    - Auditor
+    - Captain
+    - Colonel
+    - Colonial Secretary
+    - Commandant
+    - Commissioner
+    - Director
+    - General
+    - Governor
+    - Inspector
+    - Judge
+    - Lieutenant
+    - Major
+    - Postmaster
+  People with salary information: 80
+  People with honors: 311
+  People with titles: 0
+
+Institutions:
+  Total institutions: 171
+  Institution types:
+    - department: 49
+    - public_works: 30
+    - executive_council: 28
+    - legislative_council: 27
+    - court: 19
+    - military_unit: 17
+    - police_force: 1
+
+Economic Data:
+  Total economic records: 179
+  Economic data types:
+    - trade_mentioned: 169
+    - expenditure: 7
+    - revenue: 3
+
+Infrastructure:
+  Total infrastructure items: 184
+  Infrastructure types:
+    - dock: 59
+    - telegraph: 36
+    - public_building: 27
+    - postal_route: 25
+    - road: 22
+    - railway: 15
+
+Demographics:
+  Total demographic records: 18
+  Demographic records with breakdown: 15
+  Total population across records: 1,197,978
+
+Historical Events:
+  Total events extracted: 496
+  Event types:
+    - establishment: 252
+    - treaty: 110
+    - other: 105
+    - disaster: 29
+
+RELATIONSHIP EXTRACTION SUMMARY
+--------------------------------------------------------------------------------
+Total relationships mapped: 946
+Relationship types:
+  - LOCATED_IN: 478
+  - GOVERNED_BY: 468
+
+SAMPLE DATA EXTRACTION
+--------------------------------------------------------------------------------
+
+Sample Person Records:
+
+  Name: D. S. Johnston
+  Honors: R.E.
+  Position: Major - ADEN
+
+  Name: J. T. Dew
+  Honors: M.B.E., V.D.
+  Position: Major - ANTIGUA
+
+  Name: L. I. Police
+  Honors: ex officio.
+  Position: Inspector - ANTIGUA
+
+
+Sample Place Records (with coordinates):
+
+
+Sample Economic Records:
+
+  Type: expenditure
+  Location: ANTIGUA
+  Value: £ 13665
+  Category: Total Expenditure
+
+  Type: expenditure
+  Location: BRITISH_GUIANA
+  Value: £ 1275084
+  Category: Total Expenditure
+
+  Type: expenditure
+  Location: CEYLON
+  Value: £ 161660
+  Category: Total Expenditure
+
+================================================================================
+END OF REPORT
+================================================================================

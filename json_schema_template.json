@@ -1,0 +1,362 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Colonial Office List Knowledge Graph Extract",
+  "description": "Schema for structured extraction of colonial administrative data",
+  "type": "object",
+  "required": ["metadata", "entities", "relationships"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["year", "source_directory", "extraction_date"],
+      "properties": {
+        "year": {
+          "type": "string",
+          "pattern": "^[0-9]{4}$",
+          "description": "Year of the colonial office list"
+        },
+        "source_directory": {
+          "type": "string",
+          "description": "Path to source data directory"
+        },
+        "extraction_date": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO-8601 timestamp of extraction"
+        },
+        "processing_notes": {
+          "type": "string",
+          "description": "Notes about extraction process, caveats, or special circumstances"
+        },
+        "colonies_processed": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "List of colony/territory files processed"
+        }
+      }
+    },
+    "entities": {
+      "type": "object",
+      "properties": {
+        "places": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "name", "type", "year"],
+            "properties": {
+              "id": {"type": "string"},
+              "name": {"type": "string", "description": "Historical name (exact spelling from source)"},
+              "modern_name": {"type": "string", "description": "Modern equivalent if identifiable"},
+              "type": {
+                "type": "string",
+                "enum": ["colony", "territory", "dependency", "city", "town", "settlement", "region", "district", "parish", "river", "mountain", "harbor", "bay", "island", "feature"]
+              },
+              "coordinates": {
+                "type": "object",
+                "properties": {
+                  "latitude": {"type": "string", "description": "As written in source"},
+                  "longitude": {"type": "string", "description": "As written in source"}
+                }
+              },
+              "area": {
+                "type": "object",
+                "properties": {
+                  "value": {"type": "number"},
+                  "unit": {"type": "string"}
+                }
+              },
+              "description": {"type": "string"},
+              "parent_location": {"type": "string", "description": "ID of containing location"},
+              "year": {"type": "string"}
+            }
+          }
+        },
+        "people": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "name"],
+            "properties": {
+              "id": {"type": "string"},
+              "name": {"type": "string", "description": "Full name as written in source"},
+              "titles": {
+                "type": "array",
+                "items": {"type": "string"},
+                "description": "Titles like Sir, Rev., Dr., Major-General"
+              },
+              "honors": {
+                "type": "array",
+                "items": {"type": "string"},
+                "description": "Honors like K.C.M.G., C.B., G.C.B."
+              },
+              "positions": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["title", "year"],
+                  "properties": {
+                    "title": {"type": "string"},
+                    "department": {"type": "string"},
+                    "location": {"type": "string", "description": "Colony or city of posting"},
+                    "salary": {
+                      "type": "object",
+                      "properties": {
+                        "amount": {"type": "number"},
+                        "currency": {"type": "string"},
+                        "period": {"type": "string", "default": "annual"}
+                      }
+                    },
+                    "allowances": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "type": {"type": "string", "description": "quarters, table money, horse, chair, etc."},
+                          "amount": {"type": "number"},
+                          "currency": {"type": "string"},
+                          "description": {"type": "string"}
+                        }
+                      }
+                    },
+                    "status": {
+                      "type": "string",
+                      "enum": ["permanent", "acting", "temporary", "vacant"],
+                      "default": "permanent"
+                    },
+                    "year": {"type": "string"}
+                  }
+                }
+              }
+            }
+          }
+        },
+        "institutions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "name", "type", "location", "year"],
+            "properties": {
+              "id": {"type": "string"},
+              "name": {"type": "string"},
+              "type": {
+                "type": "string",
+                "enum": ["executive_council", "legislative_council", "privy_council", "court", "department", "military_unit", "police_force", "educational", "medical", "religious", "bank", "postal", "public_works"]
+              },
+              "location": {"type": "string"},
+              "composition": {
+                "type": "object",
+                "properties": {
+                  "description": {"type": "string"},
+                  "member_count": {"type": "number"},
+                  "members": {
+                    "type": "array",
+                    "items": {"type": "string", "description": "Person IDs"}
+                  }
+                }
+              },
+              "function": {"type": "string"},
+              "established": {"type": "string"},
+              "year": {"type": "string"}
+            }
+          }
+        },
+        "economic_data": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "type", "location", "year"],
+            "properties": {
+              "id": {"type": "string"},
+              "type": {
+                "type": "string",
+                "enum": ["revenue", "expenditure", "trade_export", "trade_import", "shipping", "currency", "banking", "production", "land_use"]
+              },
+              "location": {"type": "string"},
+              "year": {"type": "string"},
+              "data": {
+                "type": "object",
+                "properties": {
+                  "category": {"type": "string"},
+                  "value": {"type": "number"},
+                  "currency": {"type": "string"},
+                  "unit": {"type": "string"},
+                  "source": {"type": "string"}
+                }
+              },
+              "time_series": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "year": {"type": "string"},
+                    "value": {"type": "number"}
+                  }
+                }
+              },
+              "notes": {"type": "string"}
+            }
+          }
+        },
+        "infrastructure": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "type", "location", "year"],
+            "properties": {
+              "id": {"type": "string"},
+              "type": {
+                "type": "string",
+                "enum": ["railway", "telegraph", "postal_route", "dock", "harbor", "road", "bridge", "public_building", "water_works"]
+              },
+              "name": {"type": "string"},
+              "location": {"type": "string"},
+              "route": {
+                "type": "object",
+                "properties": {
+                  "from": {"type": "string"},
+                  "to": {"type": "string"},
+                  "via": {
+                    "type": "array",
+                    "items": {"type": "string"}
+                  }
+                }
+              },
+              "specifications": {
+                "type": "object",
+                "properties": {
+                  "length": {
+                    "type": "object",
+                    "properties": {
+                      "value": {"type": "number"},
+                      "unit": {"type": "string"}
+                    }
+                  },
+                  "stations": {"type": "number"},
+                  "capacity": {"type": "string"},
+                  "construction_cost": {
+                    "type": "object",
+                    "properties": {
+                      "value": {"type": "number"},
+                      "currency": {"type": "string"}
+                    }
+                  },
+                  "annual_revenue": {
+                    "type": "object",
+                    "properties": {
+                      "value": {"type": "number"},
+                      "currency": {"type": "string"},
+                      "year": {"type": "string"}
+                    }
+                  },
+                  "annual_expenses": {
+                    "type": "object",
+                    "properties": {
+                      "value": {"type": "number"},
+                      "currency": {"type": "string"},
+                      "year": {"type": "string"}
+                    }
+                  }
+                }
+              },
+              "connections": {
+                "type": "array",
+                "items": {"type": "string", "description": "Location IDs"}
+              },
+              "year": {"type": "string"}
+            }
+          }
+        },
+        "demographics": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "location", "year"],
+            "properties": {
+              "id": {"type": "string"},
+              "location": {"type": "string"},
+              "year": {"type": "string"},
+              "census_date": {"type": "string"},
+              "total_population": {"type": "number"},
+              "breakdowns": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "category": {"type": "string", "description": "Category as written in source"},
+                    "count": {"type": "number"},
+                    "subcategories": {"type": "object"}
+                  }
+                }
+              }
+            }
+          }
+        },
+        "events": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "description", "year_mentioned"],
+            "properties": {
+              "id": {"type": "string"},
+              "date": {"type": "string", "description": "As written in source"},
+              "type": {
+                "type": "string",
+                "enum": ["treaty", "cession", "establishment", "rebellion", "constitutional_change", "appointment", "transfer", "disaster", "other"]
+              },
+              "description": {"type": "string"},
+              "locations": {
+                "type": "array",
+                "items": {"type": "string", "description": "Location IDs"}
+              },
+              "people": {
+                "type": "array",
+                "items": {"type": "string", "description": "Person IDs"}
+              },
+              "year_mentioned": {"type": "string", "description": "Year this event was mentioned in the source"}
+            }
+          }
+        }
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["source_id", "relationship_type", "target_id"],
+        "properties": {
+          "source_id": {"type": "string"},
+          "relationship_type": {
+            "type": "string",
+            "enum": [
+              "PART_OF",
+              "DEPENDENCY_OF",
+              "DISTANCE_FROM",
+              "BORDERS",
+              "LOCATED_IN",
+              "GOVERNED_BY",
+              "MEMBER_OF",
+              "REPORTS_TO",
+              "ADMINISTERS",
+              "TRADES_WITH",
+              "EXPORTS",
+              "IMPORTS",
+              "CONNECTS",
+              "PRECEDED_BY",
+              "SUCCEEDED_BY",
+              "DURING_YEAR"
+            ]
+          },
+          "target_id": {"type": "string"},
+          "properties": {
+            "type": "object",
+            "properties": {
+              "year": {"type": "string"},
+              "value": {"type": ["string", "number"]},
+              "unit": {"type": "string"},
+              "context": {"type": "string"}
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "metadata": {
+    "year": "1886",
+    "schema_version": "2.0",
+    "source_pdf": "colonial_office_list_1886.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1886_manual_parsed",
+    "extraction_date": "2025-11-17T00:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["BRITISH_HONDURAS"],
+    "processing_notes": "Complete extraction of British Honduras colonial administration for 1886"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "CB": {"full_name": "Companion of the Order of the Bath", "type": "order", "rank": 3}
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Colonel": {"full_form": "Colonel", "category": "military"},
+      "Major": {"full_form": "Major", "category": "military"},
+      "Captain": {"full_form": "Captain", "category": "military"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 2, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"},
+      "Treasurer": {"canonical_name": "Treasurer", "hierarchy_level": 3, "category": "administrative"},
+      "Attorney General": {"canonical_name": "Attorney General", "hierarchy_level": 3, "category": "judicial"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council to the Governor", "parent_type": null},
+      "legislative_council": {"description": "Legislative body of the colony", "parent_type": null},
+      "supreme_court": {"description": "Highest court in the colony", "parent_type": "judicial"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_british_honduras",
+        "name": "British Honduras",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "Central America (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "British colony on east coast of Central America"
+        },
+        "area": {
+          "value": 7562,
+          "unit": "square_miles",
+          "source": "Lines 17: 'The area of the Colony is 7,562 square miles'"
+        },
+        "population": {
+          "total": 27452,
+          "year": "1881",
+          "breakdown": {
+            "Northern District": 11439,
+            "Central District (Belize, &c.)": 11209,
+            "Southern District": 4804
+          },
+          "source": "Lines 45-51"
+        },
+        "year": "1886",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "1-51",
+          "source_section": "BRITISH HONDURAS",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_belize",
+        "name": "Belize",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "British Honduras (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "Capital city of British Honduras"
+        },
+        "parent_location": "place_british_honduras",
+        "year": "1886",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "48",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_corosol",
+        "name": "Corosol",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "British Honduras (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "District town in Northern District"
+        },
+        "parent_location": "place_british_honduras",
+        "year": "1886",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "207, 221",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_orange_walk",
+        "name": "Orange Walk",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "British Honduras (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "District town in Northern District"
+        },
+        "parent_location": "place_british_honduras",
+        "year": "1886",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "208, 224",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_rt_goldsworthy",
+        "name": "R. T. Goldsworthy",
+        "honors": [
+          {"honor": "CMG", "full_name": "Companion of the Order of St Michael and St George"}
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent",
+            "salary": {"amount": 1800, "currency": "GBP", "period": "annual"}
+          }
+        ],
+        "year": "1886",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "183",
+          "source_section": "BRITISH HONDURAS > Civil Establishment",
+          "original_text": "Governor, R. T. Goldsworthy, C.M.G., 1,800l.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_henry_fowler",
+        "name": "Henry Fowler",
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent",
+            "salary": {"amount": 700, "currency": "GBP", "period": "annual"}
+          },
+          {
+            "title": "Auditor General",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent"
+          },
+          {
+            "title": "Registrar of Births, Marriages, and Deaths",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent"
+          }
+        ],
+        "year": "1886",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "188",
+          "source_section": "BRITISH HONDURAS > Colonial Secretary and Auditor General's Department",
+          "original_text": "Colonial Secretary, Auditor General, and Registrar of Births, Marriages, and Deaths, Henry Fowler, 700l.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_meigh_goodman",
+        "name": "W. Meigh Goodman",
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent",
+            "salary": {"amount": 1000, "currency": "GBP", "period": "annual"}
+          },
+          {
+            "title": "Judge, Vice-Admiralty Court",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent"
+          }
+        ],
+        "year": "1886",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "211",
+          "source_section": "BRITISH HONDURAS > Judicial Department",
+          "original_text": "Chief Justice and Judge, Vice-Admiralty Court, W. Meigh Goodman, 1,000l.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_wj_mckinney",
+        "name": "W. J. McKinney",
+        "positions": [
+          {
+            "title": "Treasurer",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent",
+            "salary": {"amount": 550, "currency": "GBP", "period": "annual"},
+            "allowances": [{"type": "housing", "description": "and a house"}]
+          },
+          {
+            "title": "Collector of Customs",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent"
+          },
+          {
+            "title": "Postmaster",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent"
+          }
+        ],
+        "year": "1886",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "198",
+          "source_section": "BRITISH HONDURAS > Treasury and Customs Department",
+          "original_text": "Treasurer, Collector of Customs, and Postmaster, W. J. McKinney, 550l., and a house.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_cr_hoffmeister",
+        "name": "C. R. Hoffmeister",
+        "positions": [
+          {
+            "title": "Attorney General",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent",
+            "salary": {"amount": 400, "currency": "GBP", "period": "annual"}
+          },
+          {
+            "title": "Advocate in Admiralty",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent"
+          }
+        ],
+        "year": "1886",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "212",
+          "source_section": "BRITISH HONDURAS > Judicial Department",
+          "original_text": "Attorney General and Advocate in Admiralty, C. R. Hoffmeister, 400l., and private practice.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "BRITISH_HONDURAS",
+        "composition": {
+          "official_members": 4
+        },
+        "year": "1886",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "158-164",
+          "source_section": "BRITISH HONDURAS > Executive Council",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "BRITISH_HONDURAS",
+        "composition": {
+          "total_members": 10,
+          "official_members": 5,
+          "unofficial_members": 5
+        },
+        "year": "1886",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "166-180",
+          "source_section": "BRITISH HONDURAS > Legislative Council",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1884",
+        "type": "revenue",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1884",
+        "data": {
+          "value": 51866,
+          "currency": "GBP"
+        },
+        "year": "1886",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "30-41",
+          "extraction_confidence": 1.0,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1884",
+        "type": "expenditure",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1884",
+        "data": {
+          "value": 53585,
+          "currency": "GBP"
+        },
+        "year": "1886",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "30-41",
+          "extraction_confidence": 1.0,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_1881_census",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1881",
+        "population": {
+          "total": 27452,
+          "breakdown": {
+            "Northern District": 11439,
+            "Central District (Belize, &c.)": 11209,
+            "Southern District": 4804
+          }
+        },
+        "year": "1886",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "45-51",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "person_rt_goldsworthy",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_british_honduras",
+      "properties": {"year": "1886", "confidence": "definite"},
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 1.0,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "place_belize",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_british_honduras",
+      "properties": {"year": "1886", "confidence": "definite"},
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 1.0,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 15,
+    "entities_by_type": {
+      "places": 4,
+      "people": 5,
+      "institutions": 2,
+      "economic_data": 2,
+      "infrastructure": 0,
+      "demographics": 1,
+      "events": 0
+    },
+    "total_relationships": 2,
+    "relationships_by_type": {
+      "GOVERNS": 1,
+      "LOCATED_IN": 1
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "year": "1890",
+    "schema_version": "2.0",
+    "source_pdf": "colonial_office_list_1890.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1890_manual_parsed",
+    "extraction_date": "2025-11-17T00:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": [
+      "BRITISH_HONDURAS"
+    ],
+    "processing_notes": "Extraction of British Honduras colonial administration for 1890"
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {},
+    "positions": {}
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_british_honduras",
+        "name": "British Honduras",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "Central America (modern Belize)",
+          "certainty": "definite"
+        },
+        "year": "1890",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1890_manual_parsed/BRITISH_HONDURAS.md",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_governor",
+        "name": "which is still in force",
+        "honors": [],
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent"
+          }
+        ],
+        "year": "1890",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1890_manual_parsed/BRITISH_HONDURAS.md",
+          "extraction_confidence": 0.9,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [],
+    "economic_data": [],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_population",
+        "colony": "BRITISH_HONDURAS",
+        "population": {
+          "total": 27452
+        },
+        "year": "1890",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1890_manual_parsed/BRITISH_HONDURAS.md",
+          "extraction_confidence": 0.9,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": []
+  },
+  "relationships": [],
+  "extraction_statistics": {
+    "total_entities": 3,
+    "entities_by_type": {
+      "places": 1,
+      "people": 1,
+      "demographics": 1
+    },
+    "total_relationships": 0
+  }
+}

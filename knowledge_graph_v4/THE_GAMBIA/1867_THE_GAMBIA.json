@@ -1,0 +1,1069 @@
+{
+  "metadata": {
+    "year": "1867",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1867.pdf",
+    "source_directory": "output_2/1867_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["THE_GAMBIA"],
+    "processing_notes": "First year of Gambia data. Colony administered from Sierra Leone in 1866. Rich historical context about river trade and settlement formation."
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Admiral": {
+        "full_form": "Admiral",
+        "category": "military"
+      },
+      "Colonel": {
+        "full_form": "Colonel",
+        "category": "military"
+      },
+      "Dr": {
+        "full_form": "Doctor",
+        "category": "academic"
+      }
+    },
+    "positions": {
+      "Administrator": {
+        "canonical_name": "Administrator",
+        "hierarchy_level": 2,
+        "category": "executive",
+        "typical_reports_to": "Governor-General of Sierra Leone"
+      },
+      "Collector of Customs": {
+        "canonical_name": "Collector of Customs",
+        "hierarchy_level": 5,
+        "category": "administrative"
+      },
+      "Police Magistrate": {
+        "canonical_name": "Police Magistrate",
+        "hierarchy_level": 5,
+        "category": "judicial"
+      },
+      "Auditor": {
+        "canonical_name": "Auditor",
+        "hierarchy_level": 5,
+        "category": "administrative"
+      }
+    },
+    "institution_types": {
+      "legislative_council": {
+        "description": "Legislative body of the settlement",
+        "parent_type": null
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_gambia_colony",
+        "name": "The Gambia",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Primary colony entry, West African settlement along Gambia River"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "1-24",
+          "source_section": "THE_GAMBIA",
+          "original_text": "THE GAMBIA. The Gambia is a great river of Western Africa, it falls into the Atlantic Ocean by a large estuary...",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bathurst",
+        "name": "Bathurst",
+        "type": "town",
+        "parent_location": "place_st_marys_island",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Capital town on St. Mary's Island, mentioned as trading port"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "3",
+          "source_section": "THE_GAMBIA",
+          "original_text": "contracts to little more than two between Barra Point and the town of Bathurst on St. Mary's Island",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_marys_island",
+        "name": "St. Mary's Island",
+        "type": "island",
+        "parent_location": "place_gambia_colony",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Island at mouth of Gambia River where Bathurst is located"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "3, 7",
+          "source_section": "THE_GAMBIA",
+          "original_text": "the town of Bathurst on St. Mary's Island... in 1816, in which year a new settlement was formed at the Island of St. Mary's",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_mccarthy_island",
+        "name": "M'Carthy's Island",
+        "type": "island",
+        "parent_location": "place_gambia_colony",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Interior island on Gambia River with higher temperatures than coast"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "21",
+          "source_section": "THE_GAMBIA",
+          "original_text": "at M'Carthy's Island the thermometer indicates a temperature never reached on the coast",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_barra_point",
+        "name": "Barra Point",
+        "type": "settlement",
+        "parent_location": "place_gambia_colony",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Point on Gambia River estuary opposite St. Mary's Island"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "3",
+          "source_section": "THE_GAMBIA",
+          "original_text": "contracts to little more than two between Barra Point and the town of Bathurst",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_combo",
+        "name": "Combo",
+        "type": "district",
+        "parent_location": "place_gambia_colony",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "District with resident manager mentioned in judicial establishment"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "111",
+          "source_section": "Judicial Establishment",
+          "original_text": "Resident Manager of Combo, J. Smith, J.P., 80l.",
+          "extraction_confidence": 0.90,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_admiral_patey",
+        "name": "Admiral Patey",
+        "titles": ["Admiral"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Administrator",
+            "colony": "THE_GAMBIA",
+            "location": "Bathurst",
+            "status": "permanent",
+            "salary": {
+              "amount": 1300,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "table money",
+                "amount": 200,
+                "currency": "£",
+                "description": "Table money"
+              }
+            ]
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "97",
+          "source_section": "Civil Establishment",
+          "original_text": "Administrator, Admiral Patey, 1,300l. and 200l. table money.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_h_g_m_robertson",
+        "name": "H. G. M. Robertson",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "1st Writer",
+            "colony": "THE_GAMBIA",
+            "location": "Bathurst",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "98",
+          "source_section": "Civil Establishment",
+          "original_text": "1st Writer, H. G. M. Robertson, 300l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_thomas_johnson",
+        "name": "Thomas Johnson",
+        "name_variants": ["Thos. Johnson"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "2nd Writer",
+            "colony": "THE_GAMBIA",
+            "location": "Bathurst",
+            "status": "permanent",
+            "salary": {
+              "amount": 104,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "99",
+          "source_section": "Civil Establishment",
+          "original_text": "2nd ditto, Thos. Johnson, 104l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_g_h_kneller",
+        "name": "G. H. Kneller",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Collector of Customs",
+            "colony": "THE_GAMBIA",
+            "location": "Bathurst",
+            "status": "permanent",
+            "salary": {
+              "amount": 475,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "100",
+          "source_section": "Civil Establishment",
+          "original_text": "Collector of Customs, G. H. Kneller, 475l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_c_f_stubbs",
+        "name": "C. F. Stubbs",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Clerk",
+            "department": "Customs",
+            "colony": "THE_GAMBIA",
+            "location": "Bathurst",
+            "status": "permanent",
+            "salary": {
+              "amount": 200,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "101",
+          "source_section": "Civil Establishment",
+          "original_text": "Clerk, C. F. Stubbs, 200l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_p_l_hughes",
+        "name": "P. L. Hughes",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Tide-Surveyor and Superintendent of Quarantine",
+            "colony": "THE_GAMBIA",
+            "location": "Bathurst",
+            "status": "permanent",
+            "salary": {
+              "amount": 190,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "102",
+          "source_section": "Civil Establishment",
+          "original_text": "Tide-Surveyor and Superintendent of Quarantine, P. L. Hughes, 190l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_c_b_primet",
+        "name": "C. B. Primet",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Auditor",
+            "colony": "THE_GAMBIA",
+            "location": "Bathurst",
+            "status": "permanent",
+            "salary": {
+              "amount": 200,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "103",
+          "source_section": "Civil Establishment",
+          "original_text": "Auditor C. B. Primet, 200l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_james_robbin",
+        "name": "James Robbin",
+        "titles": ["Rev"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial and Garrison Chaplain",
+            "colony": "THE_GAMBIA",
+            "location": "Bathurst",
+            "status": "acting",
+            "salary": {
+              "amount": 250,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "104",
+          "source_section": "Civil Establishment",
+          "original_text": "Acting Colonial and Garrison Chaplain, Rev. James Robbin, 250l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_melton",
+        "name": "J. Melton",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Postmaster",
+            "colony": "THE_GAMBIA",
+            "location": "Bathurst",
+            "status": "permanent",
+            "salary": {
+              "amount": 80,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "105",
+          "source_section": "Civil Establishment",
+          "original_text": "Postmaster, J. Melton, 80l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_h_sherwood",
+        "name": "W. H. Sherwood",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "High Sheriff",
+            "colony": "THE_GAMBIA",
+            "location": "Bathurst",
+            "status": "permanent"
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "109",
+          "source_section": "Judicial Establishment",
+          "original_text": "High Sheriff, W. H. Sherwood.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_seymour_gay",
+        "name": "Seymour Gay",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Superintendent of Police",
+            "colony": "THE_GAMBIA",
+            "location": "Bathurst",
+            "status": "permanent",
+            "salary": {
+              "amount": 50,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "110",
+          "source_section": "Judicial Establishment",
+          "original_text": "Superintendent of Police, Seymour Gay, 50l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_smith_combo",
+        "name": "J. Smith",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Resident Manager of Combo",
+            "colony": "THE_GAMBIA",
+            "location": "Combo",
+            "status": "permanent",
+            "salary": {
+              "amount": 80,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "111",
+          "source_section": "Judicial Establishment",
+          "original_text": "Resident Manager of Combo, J. Smith, J.P., 80l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated",
+          "notes": "Listed as J.P. (Justice of the Peace)"
+        }
+      },
+      {
+        "id": "person_dr_sherwood",
+        "name": "Dr. Sherwood",
+        "titles": ["Dr"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Police Magistrate",
+            "colony": "THE_GAMBIA",
+            "location": "Bathurst",
+            "status": "acting"
+          }
+        ],
+        "year": "1867",
+        "duplicate_candidates": [
+          {
+            "id": "person_w_h_sherwood",
+            "confidence": 0.6,
+            "reason": "Same surname 'Sherwood', possibly related or same person with different roles"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "112",
+          "source_section": "Judicial Establishment",
+          "original_text": "Police Magistrate, Dr. Sherwood (acting).",
+          "extraction_confidence": 0.90,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated",
+          "notes": "Possible relation to W.H. Sherwood (High Sheriff)"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "THE_GAMBIA",
+        "location": "Bathurst",
+        "composition": {
+          "total_members": 3,
+          "official_members": 3,
+          "ex_officio_members": 3
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "89-93",
+          "source_section": "Legislative Council",
+          "original_text": "Legislative Council.\n\nThe Administrator, President.\nThe Collector of Customs.\nThe Police Magistrate.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1865",
+        "type": "revenue",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1865",
+        "data": {
+          "value": 14758,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "38",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "| 1865 | £14,758 |             |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1864",
+        "type": "expenditure",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1864",
+        "data": {
+          "value": 17662,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "37",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "| 1864 | £17,204 | £17,662     |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1864",
+        "type": "exports",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1864",
+        "data": {
+          "value": 148157,
+          "currency": "£",
+          "breakdown": {
+            "ground_nuts_value": 78000,
+            "cotton_tons": 15.5
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "51",
+          "source_section": "Value of Imports and Exports",
+          "original_text": "| 1864 | £135,777| £148,157|",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated",
+          "notes": "Ground nuts valued at £78,000 and cotton exports 15.5 tons mentioned in text"
+        }
+      },
+      {
+        "id": "econ_imports_1864",
+        "type": "imports",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1864",
+        "data": {
+          "value": 135777,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "51",
+          "source_section": "Value of Imports and Exports",
+          "original_text": "| 1864 | £135,777| £148,157|",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_production_groundnuts_1837",
+        "type": "production",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1837",
+        "data": {
+          "value": 47,
+          "unit": "tons",
+          "category": "ground nuts"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "22",
+          "source_section": "THE_GAMBIA",
+          "original_text": "The trade in ground nuts is reported to have been in 1837 about 47 tons",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_production_cotton_1864",
+        "type": "production",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1864",
+        "data": {
+          "value": 15.5,
+          "unit": "tons",
+          "category": "cotton"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "22",
+          "source_section": "THE_GAMBIA",
+          "original_text": "15½ tons of cotton were exported in 1864.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_population_1861",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1861",
+        "population": {
+          "total": 5693,
+          "breakdown": {
+            "males": 5693,
+            "white_males": 177,
+            "coloured_males": 2520,
+            "african_males": 2996
+          }
+        },
+        "notes": "Historical census categories: 'White', 'Coloured', unstated third category (likely 'African' or 'Native'). Table appears incomplete with only male totals clearly readable.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "53-77",
+          "source_section": "Population of each Sex and Colour in the year 1861",
+          "original_text": "Males | 177 | 14 | 191... Males | 2,996 | 2,506 | 5,502... Males | 3,173 | 2,520 | 5,693",
+          "extraction_confidence": 0.70,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated",
+          "notes": "Table structure unclear in OCR, appears to show breakdown by race/ethnicity categories"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_patent_1588",
+        "type": "establishment",
+        "description": "Patent granted by Queen Elizabeth to merchants of Exeter to trade in the Gambia River",
+        "event_date": {
+          "year": "1588",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_gambia_colony"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "5",
+          "source_section": "THE_GAMBIA",
+          "original_text": "In 1588 a patent was granted by Queen Elizabeth to some merchants of Exeter to trade in this river",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_company_1618",
+        "type": "establishment",
+        "description": "Company formed for trading in the Gambia River (unsuccessful)",
+        "event_date": {
+          "year": "1618",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_gambia_colony"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "5",
+          "source_section": "THE_GAMBIA",
+          "original_text": "in 1618 a Company was formed in this country for the purpose of carrying on the trade; the Company was not successful",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_settlement_1816",
+        "type": "establishment",
+        "description": "New settlement formed at the Island of St. Mary's (Bathurst)",
+        "event_date": {
+          "year": "1816",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_st_marys_island", "place_bathurst"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "7",
+          "source_section": "THE_GAMBIA",
+          "original_text": "the general commerce between Great Britain and the Gambia fell off after the abolition of the slave trade till 1816, in which year a new settlement was formed at the Island of St. Mary's",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_independent_colony_1843",
+        "type": "constitutional_change",
+        "description": "The Gambia created as an independent colony with Governor and Executive and Legislative Councils, separated from Sierra Leone",
+        "event_date": {
+          "year": "1843",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_gambia_colony"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "24",
+          "source_section": "THE_GAMBIA",
+          "original_text": "The settlement was at first subject to the Government of Sierra Leone, but in 1843 it was created an independent colony with a Governor and Executive and Legislative Councils",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_readministration_1866",
+        "type": "constitutional_change",
+        "description": "The Gambia placed under Government of Sierra Leone with Administrator instead of Governor, following Committee inquiry into West African affairs",
+        "event_date": {
+          "year": "1866",
+          "month": "February",
+          "precision": "month"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_gambia_colony"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "24",
+          "source_section": "THE_GAMBIA",
+          "original_text": "In consequence of the deliberations of a Committee appointed in the summer of 1865... By instructions of February, 1866, addressed to the Governor-General, the government of the settlement was vested in an Administrator",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_bathurst",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_st_marys_island",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_st_marys_island",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia_colony",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "person_admiral_patey",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_gambia_colony",
+      "properties": {
+        "position": "Administrator",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_g_h_kneller",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_legislative_council",
+      "properties": {
+        "role": "ex officio member",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 0.95,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_dr_sherwood",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_legislative_council",
+      "properties": {
+        "role": "ex officio member",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 0.95,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "event_settlement_1816",
+      "relationship_type": "OCCURRED_IN",
+      "target_id": "place_st_marys_island",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 37,
+    "entities_by_type": {
+      "places": 6,
+      "people": 13,
+      "institutions": 1,
+      "economic_data": 6,
+      "infrastructure": 0,
+      "demographics": 1,
+      "events": 5
+    },
+    "total_relationships": 6,
+    "relationships_by_type": {
+      "LOCATED_IN": 1,
+      "PART_OF": 1,
+      "GOVERNS": 1,
+      "MEMBER_OF": 2,
+      "OCCURRED_IN": 1
+    },
+    "duplicates_detected": 1,
+    "low_confidence_extractions": 1,
+    "missing_provenance": 0
+  }
+}

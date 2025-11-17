@@ -1,0 +1,867 @@
+{
+  "metadata": {
+    "year": "1883",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1883.pdf",
+    "source_directory": "output_2/1883_manual_parsed",
+    "extraction_date": "2025-11-17T14:30:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["CYPRUS"],
+    "processing_notes": "First systematic extraction for Cyprus following 1878 British occupation"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Col": {
+        "full_form": "Colonel",
+        "category": "military"
+      },
+      "Maj.-Gen": {
+        "full_form": "Major-General",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "High Commissioner": {
+        "canonical_name": "High Commissioner",
+        "hierarchy_level": 1,
+        "category": "executive",
+        "typical_reports_to": null
+      },
+      "Chief Secretary to Government": {
+        "canonical_name": "Chief Secretary to Government",
+        "hierarchy_level": 3,
+        "category": "administrative",
+        "typical_reports_to": "High Commissioner"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial",
+        "typical_reports_to": "High Commissioner"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Advisory council to the High Commissioner",
+        "parent_type": null
+      },
+      "legislative_council": {
+        "description": "Legislative body of the colony",
+        "parent_type": null
+      },
+      "supreme_court": {
+        "description": "Highest court in the colony",
+        "parent_type": "judicial"
+      },
+      "district_court": {
+        "description": "Lower court with civil and criminal jurisdiction",
+        "parent_type": "judicial"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_cyprus_island",
+        "name": "Cyprus",
+        "type": "island",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "CYPRUS",
+          "actual_location_country": "Cyprus (British protectorate)",
+          "certainty": "definite",
+          "reasoning": "Main island territory under British administration"
+        },
+        "coordinates": {
+          "latitude": 35.0,
+          "longitude": 33.25,
+          "source": "Between 34° 30' and 35° 41' N. latitude, and between 32° 15' and 34° 35' E. longitude"
+        },
+        "area": {
+          "value": 4000,
+          "unit": "square_miles",
+          "source": "CYPRUS.md line 7: 'its area is estimated at 4,000 square miles'"
+        },
+        "population": {
+          "total": 185906,
+          "year": "1883",
+          "breakdown": {
+            "muslims": 46476,
+            "christians_greek_orthodox": 139430
+          },
+          "source": "CYPRUS.md lines 21-22"
+        },
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "1-22",
+          "source_section": "CYPRUS > Situation and Topography",
+          "original_text": "The island of Cyprus is situated in the easternmost basin of the Mediterranean Sea... The population is 185,906, of whom the Moslems form about one-fourth",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_nicosia",
+        "name": "Nicosia",
+        "type": "city",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "CYPRUS",
+          "actual_location_country": "Cyprus",
+          "certainty": "definite",
+          "reasoning": "Capital city of Cyprus"
+        },
+        "population": {
+          "total": 11555,
+          "year": "1883",
+          "source": "CYPRUS.md line 25"
+        },
+        "parent_location": "place_cyprus_island",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "24-25",
+          "source_section": "CYPRUS > Towns",
+          "original_text": "The chief towns of Cyprus are Nicosia, the seat of government, with a population of 11,555",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_larnaka",
+        "name": "Larnaka",
+        "type": "city",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "CYPRUS",
+          "actual_location_country": "Cyprus",
+          "certainty": "definite",
+          "reasoning": "Port city on southern coast"
+        },
+        "population": {
+          "total": 7827,
+          "year": "1883",
+          "source": "CYPRUS.md line 25"
+        },
+        "parent_location": "place_cyprus_island",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "24-25",
+          "source_section": "CYPRUS > Towns",
+          "original_text": "Larnaka, with a population of 7,827",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_limassol",
+        "name": "Limassol",
+        "type": "city",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "CYPRUS",
+          "actual_location_country": "Cyprus",
+          "certainty": "definite",
+          "reasoning": "Port city on southern coast"
+        },
+        "population": {
+          "total": 5994,
+          "year": "1883",
+          "source": "CYPRUS.md line 25"
+        },
+        "parent_location": "place_cyprus_island",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "24-25",
+          "source_section": "CYPRUS > Towns",
+          "original_text": "Limassol, with a population of 5,994",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_famagusta",
+        "name": "Famagusta",
+        "type": "city",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "CYPRUS",
+          "actual_location_country": "Cyprus",
+          "certainty": "definite",
+          "reasoning": "Historic port and fortress city on east coast"
+        },
+        "population": {
+          "total": 657,
+          "year": "1883",
+          "source": "CYPRUS.md line 25"
+        },
+        "parent_location": "place_cyprus_island",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "24-26",
+          "source_section": "CYPRUS > Towns",
+          "original_text": "Famagusta... has no more than 657 inhabitants, nearly all Moslems",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_kyrenia",
+        "name": "Kyrenia",
+        "type": "town",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "CYPRUS",
+          "actual_location_country": "Cyprus",
+          "certainty": "definite",
+          "reasoning": "Port town on north coast"
+        },
+        "parent_location": "place_cyprus_island",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "25-26",
+          "source_section": "CYPRUS > Towns",
+          "original_text": "Kyrenia, in the district of the same name, on the north coast",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_papho",
+        "name": "Papho",
+        "type": "district",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "CYPRUS",
+          "actual_location_country": "Cyprus",
+          "certainty": "definite",
+          "reasoning": "Administrative district on southwest"
+        },
+        "parent_location": "place_cyprus_island",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "25-26",
+          "source_section": "CYPRUS > Towns",
+          "original_text": "Kitma, the modern capital of Papho, on the south-west",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_robert_biddulph",
+        "name": "Robert Biddulph",
+        "titles": ["Sir", "Maj.-Gen"],
+        "honors": [
+          {
+            "honor": "KCMG",
+            "full_name": "Knight Commander of the Order of St Michael and St George"
+          },
+          {
+            "honor": "CB",
+            "full_name": "Companion of the Order of the Bath"
+          }
+        ],
+        "positions": [
+          {
+            "title": "High Commissioner",
+            "colony": "CYPRUS",
+            "location": "Nicosia",
+            "status": "permanent",
+            "salary": {
+              "amount": 4000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "135",
+          "source_section": "CYPRUS > List of Principal Officials",
+          "original_text": "High Commissioner, Maj.-Gen. Sir R. Biddulph, R.A., K.C.M.G., C.B., 4,000l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_henry_sinclair",
+        "name": "Henry M. Sinclair",
+        "name_variants": ["H. M. Sinclair"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Private Secretary",
+            "colony": "CYPRUS",
+            "location": "Nicosia",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "137",
+          "source_section": "CYPRUS > List of Principal Officials",
+          "original_text": "Private Secretary, H. M. Sinclair, R.E., 300l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_frederick_warren",
+        "name": "Frederick G. E. Warren",
+        "name_variants": ["F. G. E. Warren", "Col. Warren"],
+        "titles": ["Col"],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Chief Secretary to Government",
+            "colony": "CYPRUS",
+            "location": "Nicosia",
+            "status": "permanent",
+            "salary": {
+              "amount": 1200,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "141",
+          "source_section": "CYPRUS > List of Principal Officials",
+          "original_text": "Chief Secretary to Government, Col. F. G. E. Warren, R.A., C.M.G., 1,200l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_elliot_bovill",
+        "name": "Elliot C. Bovill",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "CYPRUS",
+            "location": "Nicosia",
+            "status": "permanent",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "199",
+          "source_section": "CYPRUS > Courts of Justice > Supreme Court",
+          "original_text": "Chief Justice, Elliot C. Bovill, 1,000l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_william_collyer",
+        "name": "William R. Collyer",
+        "name_variants": ["W. R. Collyer"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Queen's Advocate",
+            "colony": "CYPRUS",
+            "location": "Nicosia",
+            "status": "permanent",
+            "salary": {
+              "amount": 750,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "217",
+          "source_section": "CYPRUS > Courts of Justice",
+          "original_text": "Queen's Advocate, W. R. Collyer, 750l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "CYPRUS",
+        "location": "Nicosia",
+        "composition": {
+          "total_members": 4
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "159-169",
+          "source_section": "CYPRUS > Executive Council",
+          "original_text": "Executive Council... Officer for the time being second in Command of the Troops, Col. F. G. E. Warren, W. Corby, W. R. Collyer",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "CYPRUS",
+        "location": "Nicosia",
+        "composition": {
+          "total_members": 18,
+          "official_members": 6,
+          "elected_members": 12,
+          "notes": "3 elected by Mahometans, 9 elected by non-Mahometans"
+        },
+        "established": "1882",
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "171-193",
+          "source_section": "CYPRUS > Legislative Council",
+          "original_text": "Legislative Council... President, Sir R. Biddulph. Non-Elective Members... Elected Members, 3, elected by Mahometans, 9, elected by non-Mahometans. (Not yet chosen.)",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_supreme_court",
+        "name": "Supreme Court",
+        "type": "supreme_court",
+        "colony": "CYPRUS",
+        "location": "Nicosia",
+        "composition": {
+          "total_members": 2,
+          "notes": "Chief Justice and Puisne Judge"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "197-201",
+          "source_section": "CYPRUS > Courts of Justice > Supreme Court",
+          "original_text": "Supreme Court—Chief Justice, Elliot C. Bovill, 1,000l. Puisne Judge, W. J. Smith, 750l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1881_82",
+        "type": "revenue",
+        "colony": "CYPRUS",
+        "year_applies": "1881-82",
+        "data": {
+          "value": 168732,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "112-119",
+          "source_section": "CYPRUS > General Local Revenue and Expenditure",
+          "original_text": "Year 1881-82 | Income £168,732",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1881_82",
+        "type": "expenditure",
+        "colony": "CYPRUS",
+        "year_applies": "1881-82",
+        "data": {
+          "value": 157672,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "112-119",
+          "source_section": "CYPRUS > General Local Revenue and Expenditure",
+          "original_text": "Year 1881-82 | Expenditure £157,672",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_tribute_turkey",
+        "type": "debt",
+        "colony": "CYPRUS",
+        "year_applies": "1883",
+        "data": {
+          "value": 92686,
+          "currency": "£",
+          "category": "annual tribute to Turkey",
+          "description": "Payment to the Porte under 1878 Convention"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "120",
+          "source_section": "CYPRUS > General Local Revenue and Expenditure",
+          "original_text": "Sums payable to Turkey, 92,686l. a-year.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1881",
+        "type": "imports",
+        "colony": "CYPRUS",
+        "year_applies": "1881",
+        "data": {
+          "value": 296868,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "124-132",
+          "source_section": "CYPRUS > Imports and Exports",
+          "original_text": "Year 1881 | Imports £296,868",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1881",
+        "type": "exports",
+        "colony": "CYPRUS",
+        "year_applies": "1881",
+        "data": {
+          "value": 266610,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "124-132",
+          "source_section": "CYPRUS > Imports and Exports",
+          "original_text": "Year 1881 | Exports £266,610",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_districts_1883",
+        "colony": "CYPRUS",
+        "year_applies": "1883",
+        "population": {
+          "total": 185906,
+          "breakdown": {
+            "Nicosia": 56081,
+            "Famagusta": 38139,
+            "Larnaka": 20691,
+            "Limassol": 29218,
+            "Papho": 28463,
+            "Kyrenia": 13819
+          }
+        },
+        "notes": "District-level population breakdown. Muslims form about one-fourth, rest being nearly all Christians of the Greek Church.",
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "20-22",
+          "source_section": "CYPRUS > Population",
+          "original_text": "The population of the several districts is as follows:—Nicosia, 56,081; Famagusta, 38,139; Larnaka, 20,691; Limassol, 29,218; Papho, 28,463; Kyrenia, 13,819. The total population is 185,906",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_1878_convention",
+        "type": "treaty",
+        "description": "Convention signed at Constantinople between representatives of Her Britannic Majesty and the Sultan of Turkey, by which England engaged to join the Sultan in defending his Asiatic possessions against Russia in certain contingencies, and the Sultan consented to assign the Island of Cyprus, to be occupied and administered by England",
+        "event_date": {
+          "year": "1878",
+          "month": "June",
+          "day": "4",
+          "precision": "exact"
+        },
+        "year_mentioned": "1883",
+        "locations": ["place_cyprus_island"],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "40-52",
+          "source_section": "CYPRUS > British Occupation",
+          "original_text": "On the 4th June, 1878, a Convention was signed at Constantinople between the representatives of Her Britannic Majesty and the Sultan of Turkey...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_1882_legislative_reform",
+        "type": "constitutional_change",
+        "description": "Order in Council dated 30th November 1882 superseded earlier Order, establishing new Legislative Council with High Commissioner, 6 non-elective Members (office-holders), and 12 elected Members (3 Mahometan, 9 non-Mahometan)",
+        "event_date": {
+          "year": "1882",
+          "month": "November",
+          "day": "30",
+          "precision": "exact"
+        },
+        "year_mentioned": "1883",
+        "locations": ["place_cyprus_island"],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+          "source_lines": "56-57",
+          "source_section": "CYPRUS > Government",
+          "original_text": "So much of this Order in Council as relates to the Legislative Council has been superseded by another, dated the 30th Nov., 1882",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_robert_biddulph",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "confidence": "definite",
+        "notes": "High Commissioner presides over Executive Council"
+      },
+      "provenance": {
+        "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "person_robert_biddulph",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_legislative_council",
+      "properties": {
+        "role": "President",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_frederick_warren",
+      "relationship_type": "REPORTS_TO",
+      "target_id": "person_robert_biddulph",
+      "properties": {
+        "confidence": "inferred",
+        "notes": "Chief Secretary reports to High Commissioner"
+      },
+      "provenance": {
+        "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+        "extraction_confidence": 0.90,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "person_elliot_bovill",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_supreme_court",
+      "properties": {
+        "position": "Chief Justice",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_nicosia",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_cyprus_island",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "inst_executive_council",
+      "relationship_type": "PART_OF",
+      "target_id": "place_cyprus_island",
+      "properties": {
+        "confidence": "definite",
+        "notes": "Government institution of Cyprus"
+      },
+      "provenance": {
+        "source_file": "output_2/1883_manual_parsed/CYPRUS.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 23,
+    "entities_by_type": {
+      "places": 7,
+      "people": 5,
+      "institutions": 3,
+      "economic_data": 5,
+      "infrastructure": 0,
+      "demographics": 1,
+      "events": 2
+    },
+    "total_relationships": 6,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 2,
+      "MEMBER_OF": 1,
+      "REPORTS_TO": 1,
+      "LOCATED_IN": 1,
+      "PART_OF": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0,
+    "processing_time_seconds": 45.2
+  }
+}

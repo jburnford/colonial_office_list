@@ -1,0 +1,948 @@
+{
+  "metadata": {
+    "year": "1950",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1950.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1950_manual_parsed",
+    "extraction_date": "2025-11-17T11:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["HONG_KONG"],
+    "processing_notes": "Post-WWII Hong Kong. Japanese occupation ended 1945, civil government restored 1946. Major population influx from China. Capital: Victoria/Hong Kong. Major port and trading center."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "OBE": {
+        "full_name": "Officer of the Order of the British Empire",
+        "type": "order",
+        "rank": 4
+      },
+      "MBE": {
+        "full_name": "Member of the Order of the British Empire",
+        "type": "order",
+        "rank": 5
+      },
+      "CBE": {
+        "full_name": "Commander of the Order of the British Empire",
+        "type": "order",
+        "rank": 3
+      },
+      "KBE": {
+        "full_name": "Knight Commander of the Order of the British Empire",
+        "type": "knighthood",
+        "rank": 2
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Lieut-General": {
+        "full_form": "Lieutenant-General",
+        "category": "military"
+      },
+      "Capt": {
+        "full_form": "Captain",
+        "category": "military"
+      },
+      "Dr": {
+        "full_form": "Doctor",
+        "category": "academic"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Financial Secretary": {
+        "canonical_name": "Financial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Attorney-General": {
+        "canonical_name": "Attorney-General",
+        "hierarchy_level": 3,
+        "category": "judicial"
+      },
+      "Secretary for Chinese Affairs": {
+        "canonical_name": "Secretary for Chinese Affairs",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Commissioner of Labour": {
+        "canonical_name": "Commissioner of Labour",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_hong_kong_colony",
+        "name": "Hong Kong",
+        "type": "colony",
+        "year": "1950",
+        "area": {
+          "value": 391,
+          "unit": "square_miles",
+          "source": "Lines 4"
+        },
+        "coordinates": {
+          "latitude": 22.25,
+          "longitude": 114.0,
+          "source": "Lines 4: between 22° 9' and 22° 35' N. latitude and 113° 50' and 114° 30' E. longitude"
+        },
+        "population": {
+          "total": 1857000,
+          "year": "1949",
+          "breakdown": {
+            "British subjects from UK and Dominions": 9500,
+            "Portuguese": 797,
+            "British subjects of Portuguese race": 3000,
+            "Americans": 202,
+            "Stateless": 123
+          },
+          "source": "Line 23"
+        },
+        "location_context": {
+          "mentioned_in_colony": "HONG_KONG",
+          "actual_location_country": "Hong Kong (British Colony)",
+          "certainty": "definite",
+          "reasoning": "British Crown Colony comprising Hong Kong Island, Kowloon, and New Territories (leased)"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "1-24",
+          "original_text": "The Colony of Hong Kong...total area of the colony 391 square miles...total population of the Colony in June, 1949, was about 1,857,000",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_victoria_hong_kong",
+        "name": "Victoria",
+        "type": "city",
+        "year": "1950",
+        "parent_location": "place_hong_kong_colony",
+        "location_context": {
+          "mentioned_in_colony": "HONG_KONG",
+          "actual_location_country": "Hong Kong (British Colony)",
+          "certainty": "definite",
+          "reasoning": "Capital city on Hong Kong Island"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "14",
+          "original_text": "At the base of the hills which protect the south side of the harbour the city of Victoria proper extends for nearly five miles",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_kowloon",
+        "name": "Kowloon",
+        "type": "peninsula",
+        "year": "1950",
+        "area": {
+          "value": 34,
+          "unit": "square_miles",
+          "source": "Line 4"
+        },
+        "parent_location": "place_hong_kong_colony",
+        "location_context": {
+          "mentioned_in_colony": "HONG_KONG",
+          "actual_location_country": "Hong Kong (British Colony)",
+          "certainty": "definite",
+          "reasoning": "Peninsula ceded 1860, with developing industrial area and Kai Tak aerodrome"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "4, 16",
+          "original_text": "Opposite to the island is the peninsula of Kowloon (34 square miles) which was ceded to Great Britain in 1860...It contains also the main industrial area of the colony",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_new_territories",
+        "name": "New Territories",
+        "type": "territory",
+        "year": "1950",
+        "area": {
+          "value": 359,
+          "unit": "square_miles",
+          "source": "Line 4"
+        },
+        "parent_location": "place_hong_kong_colony",
+        "location_context": {
+          "mentioned_in_colony": "HONG_KONG",
+          "actual_location_country": "Hong Kong (British Leased Territory)",
+          "certainty": "definite",
+          "reasoning": "Leased from China in 1898 for 99 years, includes mainland behind Kowloon and numerous islands"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "4-5",
+          "original_text": "The other component of the colony is the New Territories which were leased for a period of 99 years from the Chinese Government by an agreement concluded in 1898. The total area of the New Territories...is about 359 square miles",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_kai_tak",
+        "name": "Kai Tak",
+        "type": "other",
+        "year": "1950",
+        "parent_location": "place_kowloon",
+        "location_context": {
+          "mentioned_in_colony": "HONG_KONG",
+          "actual_location_country": "Hong Kong (British Colony)",
+          "certainty": "definite",
+          "reasoning": "Colony's only aerodrome, located on reclaimed area at northern end of Kowloon Bay"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "16",
+          "original_text": "On the reclaimed area at the northern end of Kowloon Bay lies the colony's only aerodrome at Kai Tak",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_victoria_peak",
+        "name": "Victoria Peak",
+        "type": "other",
+        "year": "1950",
+        "parent_location": "place_victoria_hong_kong",
+        "location_context": {
+          "mentioned_in_colony": "HONG_KONG",
+          "actual_location_country": "Hong Kong (British Colony)",
+          "certainty": "definite",
+          "reasoning": "Prominent peak (1,823 feet) on Hong Kong Island with residential areas"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "14",
+          "original_text": "residences (many now ruined by indiscriminate looting during the Japanese occupation) cling high on the slopes of Victoria Peak (1,823 feet)",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_canton",
+        "name": "Canton",
+        "type": "city",
+        "year": "1950",
+        "location_context": {
+          "mentioned_in_colony": "HONG_KONG",
+          "actual_location_country": "China",
+          "certainty": "definite",
+          "reasoning": "Major Chinese city, terminus of Kowloon-Canton railway, connected by through passenger service"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "167",
+          "original_text": "From Shum-chun to Kowloon...the railway is operated by the Hong Kong Government and is known as the British section of the Kowloon-Canton Railway. In addition to local services...a through passenger service to Canton",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_alexander_grantham",
+        "name": "Alexander William George Herder Grantham",
+        "name_variants": ["Sir Alexander Grantham"],
+        "year": "1950",
+        "titles": ["Sir"],
+        "honors": [
+          {
+            "honor": "KCMG",
+            "full_name": "Knight Commander of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "HONG_KONG",
+            "location": "Victoria",
+            "status": "permanent",
+            "salary": {
+              "amount": 4800,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "entertainment",
+                "amount": 2500,
+                "currency": "£",
+                "description": "Entertainment allowance"
+              }
+            ]
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "394, 398, 497",
+          "source_section": "Governors / Executive Council / Governor and Staff",
+          "original_text": "1947 Sir Alexander William George Herder Grantham, K.C.M.G. ... Governor—Sir Alexander William George Herder Grantham, K.C.M.G. ... Governor...£4,800. Entertainment allowance, £2,500.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_f_nicoll",
+        "name": "J. F. Nicoll",
+        "year": "1950",
+        "titles": [],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "HONG_KONG",
+            "location": "Victoria",
+            "status": "permanent",
+            "salary": {
+              "amount": 38400,
+              "currency": "$",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "404, 505",
+          "source_section": "Executive Council / Secretariat",
+          "original_text": "The Colonial Secretary—J. F. Nicoll, C.M.G. ... Colonial Secretary—J. F. Nicoll, C.M.G. $38,400.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_b_griffin",
+        "name": "J. B. Griffin",
+        "year": "1950",
+        "titles": [],
+        "honors": [],
+        "biographical": {
+          "professional": "K.C. (King's Counsel)"
+        },
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "HONG_KONG",
+            "location": "Victoria",
+            "status": "permanent",
+            "salary": {
+              "amount": 32000,
+              "currency": "$",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "406, 674",
+          "source_section": "Executive Council / Legal",
+          "original_text": "The Attorney-General—J. B. Griffin, K.C. ... Attorney-General—J. B. Griffin, K.C. $32,000.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated",
+          "notes": "K.C. is a professional designation (King's Counsel), not an honor - correctly placed in biographical.professional"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council_1950",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "HONG_KONG",
+        "location": "Victoria",
+        "year": "1950",
+        "composition": {
+          "total_members": 13,
+          "official_members": 6,
+          "unofficial_members": 6,
+          "ex_officio_members": 1
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "396-432",
+          "source_section": "Executive Council",
+          "original_text": "Executive Council ... six official and six unofficial members, three of whom are Chinese",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council_1950",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "HONG_KONG",
+        "location": "Victoria",
+        "year": "1950",
+        "composition": {
+          "total_members": 17,
+          "official_members": 9,
+          "unofficial_members": 8
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "41, 434-466",
+          "source_section": "Constitution / Legislative Council",
+          "original_text": "a Legislative Council presided over by the Governor, and comprising not more than nine official and eight unofficial members",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_university_hong_kong",
+        "name": "University of Hong Kong",
+        "type": "educational",
+        "colony": "HONG_KONG",
+        "location": "Victoria",
+        "year": "1950",
+        "established": "1911",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "90-91",
+          "source_section": "Social Services > Education",
+          "original_text": "The University of Hong Kong was incorporated in 1911 and opened in 1912...the University was formally reconstituted... the number of students at present attending courses is 506.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_kowloon_canton_railway",
+        "name": "Kowloon-Canton Railway",
+        "type": "railway_department",
+        "colony": "HONG_KONG",
+        "location": "Kowloon",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "16, 167-169",
+          "source_section": "Communications / Internal Communications",
+          "original_text": "the terminus of the Kowloon-Canton railway occupies the extreme southern tip of the peninsula...From Shum-chun to Kowloon, a distance representing 36 kilometres...the railway is operated by the Hong Kong Government and is known as the British section of the Kowloon-Canton Railway",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1948_49",
+        "type": "revenue",
+        "colony": "HONG_KONG",
+        "year": "1950",
+        "year_applies": "1948-49",
+        "data": {
+          "value": 194933955,
+          "currency": "$",
+          "unit": "Hong Kong dollars"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "285",
+          "source_section": "Public Finance",
+          "original_text": "| 1948-49      | $194,933,955 | $159,954,023 |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1948_49",
+        "type": "expenditure",
+        "colony": "HONG_KONG",
+        "year": "1950",
+        "year_applies": "1948-49",
+        "data": {
+          "value": 159954023,
+          "currency": "$",
+          "unit": "Hong Kong dollars"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "285",
+          "source_section": "Public Finance",
+          "original_text": "| 1948-49      | $194,933,955 | $159,954,023 |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_shipping_1949",
+        "type": "shipping",
+        "colony": "HONG_KONG",
+        "year": "1950",
+        "year_applies": "1948-49",
+        "data": {
+          "ocean_vessels": 8161108,
+          "river_steamers": 1552333,
+          "junks": 1364319,
+          "unit": "net tonnage"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "181-188",
+          "source_section": "Communications > Shipping",
+          "original_text": "| 31st March, 1949 | 8,161,108     | 1,552,333     | 1,364,319 |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_trade_1948",
+        "type": "trade",
+        "colony": "HONG_KONG",
+        "year": "1950",
+        "year_applies": "1948",
+        "data": {
+          "imports": 2077.5,
+          "exports": 1582.7,
+          "currency": "$",
+          "unit": "millions of dollars"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "323",
+          "source_section": "Trade",
+          "original_text": "| 1948 | 2,077·5 | 1,582·7 |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_railway_passengers_1949",
+        "type": "other",
+        "colony": "HONG_KONG",
+        "year": "1950",
+        "year_applies": "1948-49",
+        "data": {
+          "local_passengers": 1477602,
+          "foreign_passengers": 2401204,
+          "net_receipts": 6076999.98,
+          "currency": "$"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "169",
+          "source_section": "Communications > Internal Communications",
+          "original_text": "Total passengers carried for the year ending 31st March, 1949, amounted to:—Local, 1,477,602; foreign, 2,401,204. Nett receipts totalled $6,076,999.98.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_kai_tak_airport",
+        "name": "Kai Tak Airfield",
+        "type": "port",
+        "colony": "HONG_KONG",
+        "year": "1950",
+        "description": "Colony's only aerodrome, situated 4.5 miles from main center of population",
+        "operation": {
+          "passengers_annual": 300000,
+          "mail_freight_tons": 3500,
+          "aircraft_movements": 22000,
+          "year": "1948-49"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "16, 198-199",
+          "source_section": "General Description / Communications > Air",
+          "original_text": "On the reclaimed area at the northern end of Kowloon Bay lies the colony's only aerodrome at Kai Tak...the airfield at Kai Tak, situated 4½ miles from the main centre of population...In the twelve months ending 31st July, 1949, 300,000 passengers and 3,500 tons of mail and freight were carried by 22,000 aircraft",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_kowloon_canton_railway",
+        "name": "British section of the Kowloon-Canton Railway",
+        "type": "railway",
+        "colony": "HONG_KONG",
+        "year": "1950",
+        "description": "Government-operated railway from Kowloon to Shum-chun (border), connecting to Canton",
+        "specifications": {
+          "length": {
+            "value": 36,
+            "unit": "kilometres"
+          }
+        },
+        "operation": {
+          "revenue": 6076999.98,
+          "currency": "$",
+          "year": "1948-49"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "167-169",
+          "source_section": "Communications > Internal Communications",
+          "original_text": "From Shum-chun to Kowloon, a distance representing 36 kilometres...the railway is operated by the Hong Kong Government...Nett receipts totalled $6,076,999.98",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_population_1949",
+        "colony": "HONG_KONG",
+        "year": "1950",
+        "year_applies": "1949",
+        "population": {
+          "total": 1857000,
+          "breakdown": {
+            "British subjects from UK and Dominions": 9500,
+            "Portuguese": 797,
+            "British subjects of Portuguese race": 3000,
+            "Americans": 202,
+            "Stateless": 123
+          }
+        },
+        "notes": "No official census taken since 1931 (849,751). By 1941 estimated over 1,600,000. During Japanese occupation fell to less than 600,000 by August 1945. Since then great influx from South China. Census expected in 1950.",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "21-23",
+          "source_section": "Population",
+          "original_text": "No official census has been taken since 1931 when the total population was found to be 849,751...it is considered that the total population of the Colony in June, 1949, was about 1,857,000",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_japanese_attack_1941",
+        "type": "other",
+        "year_mentioned": "1950",
+        "description": "Hong Kong was attacked on 8th December 1941 and fell on Christmas day after 18 days' fighting",
+        "event_date": {
+          "year": "1941",
+          "month": "December",
+          "day": "8",
+          "precision": "exact"
+        },
+        "locations": ["place_hong_kong_colony"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "37",
+          "source_section": "History",
+          "original_text": "Hong Kong itself was attacked on 8th December, 1941, and fell on Christmas day after 18 days' fighting",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_liberation_1945",
+        "type": "other",
+        "year_mentioned": "1950",
+        "description": "Liberation came on 30th August 1945 when units of the British Pacific Fleet entered the harbour",
+        "event_date": {
+          "year": "1945",
+          "month": "August",
+          "day": "30",
+          "precision": "exact"
+        },
+        "locations": ["place_hong_kong_colony"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "37",
+          "source_section": "History",
+          "original_text": "Liberation came at last on 30th August, 1945, when units of the British Pacific Fleet entered the harbour",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_civil_govt_restored_1946",
+        "type": "constitutional_change",
+        "year_mentioned": "1950",
+        "description": "Civil government was re-established on 1st May 1946 after eight months of military administration",
+        "event_date": {
+          "year": "1946",
+          "month": "May",
+          "day": "1",
+          "precision": "exact"
+        },
+        "locations": ["place_hong_kong_colony"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "37",
+          "source_section": "History",
+          "original_text": "For the ensuing eight months the colony was governed by a military administration, and on 1st May, 1946, civil government was re-established",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_new_airport_announced_1950",
+        "type": "other",
+        "year_mentioned": "1950",
+        "description": "The decision to build a new airport was announced in May, hoped to be ready for use in 1952",
+        "event_date": {
+          "year": "1950",
+          "month": "May",
+          "precision": "month"
+        },
+        "locations": ["place_hong_kong_colony"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+          "source_lines": "197",
+          "source_section": "Communications > Air",
+          "original_text": "The decision to build a new airport was announced in May and it is hoped that the main runway will be ready for use in 1952",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_alexander_grantham",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_hong_kong_colony",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_victoria_hong_kong",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_hong_kong_colony",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite",
+        "notes": "Capital city on Hong Kong Island"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "place_kowloon",
+      "relationship_type": "PART_OF",
+      "target_id": "place_hong_kong_colony",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite",
+        "notes": "Peninsula ceded 1860"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_new_territories",
+      "relationship_type": "PART_OF",
+      "target_id": "place_hong_kong_colony",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite",
+        "notes": "Leased 1898 for 99 years"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_kai_tak",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_kowloon",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite",
+        "notes": "Aerodrome on reclaimed area"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "inst_executive_council_1950",
+      "relationship_type": "PART_OF",
+      "target_id": "place_hong_kong_colony",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "inst_legislative_council_1950",
+      "relationship_type": "PART_OF",
+      "target_id": "place_hong_kong_colony",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/HONG_KONG.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 33,
+    "entities_by_type": {
+      "places": 7,
+      "people": 3,
+      "institutions": 4,
+      "economic_data": 5,
+      "demographics": 1,
+      "infrastructure": 2,
+      "events": 4
+    },
+    "total_relationships": 7,
+    "relationships_by_type": {
+      "GOVERNS": 1,
+      "LOCATED_IN": 2,
+      "PART_OF": 4
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

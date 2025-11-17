@@ -1,0 +1,774 @@
+{
+  "metadata": {
+    "year": "1867",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1867.pdf",
+    "source_directory": "output_2/1867_manual_parsed",
+    "extraction_date": "2025-11-17T00:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["TRINIDAD"],
+    "processing_notes": "First year of Trinidad extraction"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      },
+      "KCB": {
+        "full_name": "Knight Commander of the Order of the Bath",
+        "type": "knighthood",
+        "rank": 2
+      }
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Hon": {"full_form": "Honourable", "category": "nobility"},
+      "Rev": {"full_form": "Reverend", "category": "religious"},
+      "Venerable": {"full_form": "Venerable", "category": "religious"},
+      "Most Rev": {"full_form": "Most Reverend", "category": "religious"},
+      "Dr": {"full_form": "Doctor", "category": "academic"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 2, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Attorney-General": {"canonical_name": "Attorney-General", "hierarchy_level": 3, "category": "judicial"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"},
+      "Receiver-General": {"canonical_name": "Receiver-General", "hierarchy_level": 3, "category": "administrative"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council to the Governor"},
+      "legislative_council": {"description": "Legislative body of the colony"},
+      "supreme_court": {"description": "Highest court in the colony"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_trinidad",
+        "name": "Trinidad",
+        "type": "colony",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Main colony being described"
+        },
+        "coordinates": {
+          "latitude": 10.45,
+          "longitude": -61.5,
+          "source": "Lines 3: N. latitude 10° 3', and 10° 50', W. longitude 61° and 62° 4'"
+        },
+        "area": {
+          "value": 1754,
+          "unit": "square_miles",
+          "source": "Line 18"
+        },
+        "population": {
+          "total": 84438,
+          "year": "1861",
+          "breakdown": {
+            "males": 46074,
+            "females": 38364,
+            "trinidad": 46936,
+            "british_colonies": 11716,
+            "united_kingdom": 1040,
+            "foreign": 4301,
+            "china": 461,
+            "india": 13488,
+            "africa": 6035,
+            "nondescribed": 461
+          },
+          "source": "Lines 28, 214"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "1-28",
+          "source_section": "TRINIDAD",
+          "original_text": "TRINIDAD\n\nIs an island lying to the eastward of the continent of Venezuela...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_port_of_spain",
+        "name": "Port of Spain",
+        "type": "city",
+        "year": "1867",
+        "parent_location": "place_trinidad",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Capital city of Trinidad"
+        },
+        "population": {
+          "total": 18980,
+          "year": "1861",
+          "breakdown": {
+            "males": 8544,
+            "females": 10436
+          },
+          "source": "Line 20"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "20",
+          "source_section": "TRINIDAD",
+          "original_text": "Port of Spain is the chief town and port of entry. This town according to the Census of 1861, contains 18,980 inhabitants, of which 8,544 are males, and 10,436 females.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_san_fernando",
+        "name": "San Fernando",
+        "type": "town",
+        "year": "1867",
+        "parent_location": "place_trinidad",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Second town of Trinidad, 26 miles south from Port of Spain"
+        },
+        "population": {
+          "total": 4429,
+          "year": "1861",
+          "source": "Line 22"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "22",
+          "source_section": "TRINIDAD",
+          "original_text": "The second town and port of entry is San Fernando, 26 miles south from Port of Spain, with a population of 4,429 inhabitants.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_john",
+        "name": "St. John",
+        "type": "town",
+        "year": "1867",
+        "parent_location": "place_trinidad",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Minor town to the eastward of Port of Spain"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "22",
+          "original_text": "There are also the minor towns of St. John, St. Joseph, and Arima, all to the eastward of port of Spain.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_joseph",
+        "name": "St. Joseph",
+        "type": "town",
+        "year": "1867",
+        "parent_location": "place_trinidad",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Minor town to the eastward of Port of Spain"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "22",
+          "original_text": "There are also the minor towns of St. John, St. Joseph, and Arima, all to the eastward of port of Spain.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_arima",
+        "name": "Arima",
+        "type": "town",
+        "year": "1867",
+        "parent_location": "place_trinidad",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Minor town to the eastward of Port of Spain"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "22",
+          "original_text": "There are also the minor towns of St. John, St. Joseph, and Arima, all to the eastward of port of Spain.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_arthur_gordon",
+        "name": "Arthur Hamilton Gordon",
+        "name_variants": ["A. Gordon", "Arthur H. Gordon"],
+        "titles": ["Hon"],
+        "honors": [
+          {"honor": "CMG", "full_name": "Companion of the Order of St Michael and St George"}
+        ],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "colony": "Trinidad",
+            "location": "Port of Spain",
+            "status": "permanent",
+            "start_date": "1866",
+            "salary": {
+              "amount": 3500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "168, 247",
+          "source_section": "Civil Establishment",
+          "original_text": "Governor and Commander-in-Chief, The Hon. A. Gordon, C.M.G., 3,500l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_william_knox",
+        "name": "William George Knox",
+        "name_variants": ["W. G. Knox"],
+        "titles": ["Hon"],
+        "honors": [],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "Trinidad",
+            "location": "Port of Spain",
+            "status": "permanent",
+            "salary": {
+              "amount": 1500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "227, 310",
+          "source_section": "Legislative Council / Judicial Establishment",
+          "original_text": "W. G. Knox, Chief Justice. / Chief Justice and Judge of Vice-Admiralty Court, Hon. William George Knox, 1,500l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_john_bushe",
+        "name": "John Scott Bushe",
+        "name_variants": ["J. S. Bushe"],
+        "titles": ["Hon"],
+        "honors": [],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "Trinidad",
+            "location": "Port of Spain",
+            "status": "permanent",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "228, 249",
+          "source_section": "Legislative Council / Civil Establishment",
+          "original_text": "J. S. Bushe, Colonial Secretary. / Colonial Secretary, Hon. John Scott Bushe, 800l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_charles_warner",
+        "name": "Charles William Warner",
+        "name_variants": ["C. W. Warner"],
+        "titles": ["Hon"],
+        "honors": [
+          {"honor": "CB", "full_name": "Companion of the Order of the Bath"}
+        ],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "Trinidad",
+            "location": "Port of Spain",
+            "status": "permanent",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "clerical assistance",
+                "amount": 300,
+                "currency": "£",
+                "description": "for clerical assistance"
+              }
+            ]
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "229, 318",
+          "source_section": "Legislative Council / Judicial Establishment",
+          "original_text": "C. W. Warner, C.B., Attorney-General. / Attorney-General, Hon. C. W. Warner, C.B., 800l., and 300l. for clerical assistance.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_henry_bulwer",
+        "name": "Henry Ernest Bulwer",
+        "name_variants": ["H. E. Bulwer"],
+        "titles": ["Hon"],
+        "honors": [],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Receiver-General",
+            "colony": "Trinidad",
+            "location": "Port of Spain",
+            "status": "permanent",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "230, 253",
+          "source_section": "Legislative Council / Civil Establishment",
+          "original_text": "H. E. Bulwer, Receiver-General. / Receiver-General, Hon. H. E. Bulwer, 800l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_george_cummins",
+        "name": "George Cummins",
+        "name_variants": [],
+        "titles": ["Venerable"],
+        "honors": [],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Archdeacon",
+            "colony": "Trinidad",
+            "location": "Port of Spain",
+            "status": "permanent",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "347",
+          "source_section": "Ecclesiastical Establishment",
+          "original_text": "Archdeacon, Venerable George Cummins, 500l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_hector_gonin",
+        "name": "Hector Joseph Louis Gonin",
+        "name_variants": ["H. J. L. Gonin"],
+        "titles": ["Most Rev", "Dr"],
+        "honors": [],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Archbishop",
+            "colony": "Trinidad",
+            "location": "Port of Spain",
+            "status": "permanent",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "367",
+          "source_section": "Roman Catholic Establishment",
+          "original_text": "The Archbishop, The Most Rev. H. J. L. Gonin, D.D., 1,000l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "Trinidad",
+        "location": "Port of Spain",
+        "year": "1867",
+        "composition": {
+          "total_members": 4,
+          "ex_officio_members": 4
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "216-221",
+          "source_section": "Executive Council",
+          "original_text": "Executive Council.\n\nThe Governor, President.\nThe Senior Officer commanding Her Majesty's Forces.\nThe Colonial Secretary.\nThe Attorney-General.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "Trinidad",
+        "location": "Port of Spain",
+        "year": "1867",
+        "composition": {
+          "total_members": 15,
+          "official_members": 6,
+          "unofficial_members": 8
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "223-242",
+          "source_section": "Legislative Council",
+          "original_text": "Legislative Council.\n\nThe Governor.\n\nW. G. Knox, Chief Justice...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1865",
+        "type": "revenue",
+        "colony": "Trinidad",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 194087,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "189",
+          "source_section": "Revenue and Expenditure of the Colony from 1850 to 1865",
+          "original_text": "| 1865 | 194,087    | 195,991         |",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1865",
+        "type": "expenditure",
+        "colony": "Trinidad",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 195991,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "189",
+          "source_section": "Revenue and Expenditure of the Colony from 1850 to 1865",
+          "original_text": "| 1865 | 194,087    | 195,991         |",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1865",
+        "type": "imports",
+        "colony": "Trinidad",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 810347,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "212",
+          "source_section": "Value of Imports and Exports",
+          "original_text": "| 1865 | 810,347    | 820,109     |",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1865",
+        "type": "exports",
+        "colony": "Trinidad",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 820109,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "212",
+          "source_section": "Value of Imports and Exports",
+          "original_text": "| 1865 | 810,347    | 820,109     |",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [],
+    "events": [
+      {
+        "id": "event_discovery_1498",
+        "type": "other",
+        "description": "Trinidad was first discovered by Christopher Columbus on the 31st July, 1498",
+        "year": "1867",
+        "year_mentioned": "1867",
+        "event_date": {
+          "year": "1498",
+          "month": "July",
+          "day": "31",
+          "precision": "exact"
+        },
+        "locations": ["place_trinidad"],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "3",
+          "source_section": "TRINIDAD",
+          "original_text": "It was first discovered by Christopher Columbus, on the 31st July, 1498",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_british_conquest_1797",
+        "type": "transfer",
+        "description": "Trinidad surrendered to His Majesty's arms on the 18th February, 1797, after an expedition led by Rear-Admiral Henry Harvey and Sir Ralph Abercrombie",
+        "year": "1867",
+        "year_mentioned": "1867",
+        "event_date": {
+          "year": "1797",
+          "month": "February",
+          "day": "18",
+          "precision": "exact"
+        },
+        "locations": ["place_trinidad"],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "5-10",
+          "source_section": "TRINIDAD",
+          "original_text": "The expedition resulted in the surrender of the island to His Majesty's arms, and on the 18th Febr-\nruary, 1797, the articles of capitulation were signed by Abercrombie, Harvey, and Chacon.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_treaty_amiens_1802",
+        "type": "treaty",
+        "description": "By the Treaty of Amiens (29th March 1802), His Catholic Majesty ceded and guaranteed, in full property and sovereignty, the Island of Trinidad to His Britannic Majesty",
+        "year": "1867",
+        "year_mentioned": "1867",
+        "event_date": {
+          "year": "1802",
+          "month": "March",
+          "day": "29",
+          "precision": "exact"
+        },
+        "locations": ["place_trinidad"],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+          "source_lines": "16",
+          "source_section": "TRINIDAD",
+          "original_text": "On the 29th March, 1802, the definitive treaty of peace between England and France, and her allies, viz.: Spain and the Batavian Republic, was signed at Amiens. By the third article, all places taken during the war by Great Britain, were to be restored, save Trinidad and Ceylon; and in the fourth article, \"His Catholic Majesty cedes and guarantees, in full property and sovereignty, the Island of Trinidad to His Britannic Majesty.\"",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_arthur_gordon",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite",
+        "notes": "Governor is President of Executive Council"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "place_port_of_spain",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_san_fernando",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/TRINIDAD.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 22,
+    "entities_by_type": {
+      "places": 6,
+      "people": 7,
+      "institutions": 2,
+      "economic_data": 4,
+      "infrastructure": 0,
+      "demographics": 0,
+      "events": 3
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 1,
+      "LOCATED_IN": 2
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

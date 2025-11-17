@@ -1,0 +1,470 @@
+{
+  "metadata": {
+    "year": "1867",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1867.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1867_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["ANTIGUA"],
+    "processing_notes": "Early period with detailed governmental structure including elected House of Assembly before Crown Colony transition"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Lord": {
+        "full_form": "Lord",
+        "category": "nobility"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Right Rev": {
+        "full_form": "Right Reverend",
+        "category": "religious"
+      },
+      "Venerable": {
+        "full_form": "Venerable",
+        "category": "religious"
+      },
+      "Col": {
+        "full_form": "Colonel",
+        "category": "military"
+      },
+      "Dr": {
+        "full_form": "Doctor",
+        "category": "academic"
+      }
+    },
+    "positions": {}
+  },
+  "colony_info": {
+    "official_name": "Antigua",
+    "colonial_status": "Crown Colony (transitioning)",
+    "capital": "St. John's",
+    "part_of_federation": "Leeward Islands",
+    "dependencies": ["Barbuda", "Redonda"],
+    "area": {
+      "value": 108,
+      "unit": "square_miles",
+      "source": "Page 1"
+    },
+    "coordinates": {
+      "latitude": 17.1,
+      "longitude": -61.75,
+      "source": "W. long. 61° 45', and N. lat. 17° 6'"
+    },
+    "historical_notes": "Discovered by Columbus in 1493, first inhabited by English in 1632, granted to Lord Willoughby in 1663, British possession confirmed by Treaty of Breda 1666"
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_antigua",
+        "name": "Antigua",
+        "type": "colony",
+        "year": "1867",
+        "area": {
+          "value": 108,
+          "unit": "square_miles",
+          "source": "Line 1"
+        },
+        "location_context": {
+          "mentioned_in_colony": "ANTIGUA",
+          "actual_location_country": "Antigua",
+          "certainty": "definite",
+          "reasoning": "Main colony entry"
+        },
+        "coordinates": {
+          "latitude": 17.1,
+          "longitude": -61.75,
+          "source": "W. long. 61° 45', and N. lat. 17° 6'"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-3",
+          "original_text": "An island situated in W. long. 61° 45', and N. lat. 17° 6'. It is about 54 miles in circumference.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_johns",
+        "name": "St. John's",
+        "type": "city",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "ANTIGUA",
+          "actual_location_country": "Antigua",
+          "certainty": "definite",
+          "reasoning": "Named as chief town and seat of government"
+        },
+        "parent_location": "place_antigua",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "3",
+          "original_text": "The Governor-in-Chief of the Leeward Islands resides at St. John's, the chief town in Antigua.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_stephen_j_hill",
+        "name": "Stephen J. Hill",
+        "titles": ["Col"],
+        "honors": [
+          {
+            "honor": "CB",
+            "full_name": "Companion of the Order of the Bath"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "colony": "Antigua",
+            "location": "St. John's",
+            "status": "permanent",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "175",
+          "original_text": "Governor and Commander-in-Chief, Col. Stephen J. Hill, C.B., 3,000l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_charles_monroe_eldridge",
+        "name": "Charles Monroe Eldridge",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "Antigua",
+            "status": "permanent",
+            "salary": {
+              "amount": 550,
+              "currency": "£",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Registrar-General of Births and Deaths",
+            "colony": "Antigua",
+            "status": "permanent"
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "178",
+          "original_text": "Colonial Secretary, and Registrar-General of Births and Deaths, Charles Monroe Eldridge, 550l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_william_w_jackson",
+        "name": "William W. Jackson",
+        "titles": ["Right Rev"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Bishop of Antigua",
+            "colony": "Antigua",
+            "status": "permanent",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "246",
+          "original_text": "Bishop of Antigua, Right Rev. W.W. Jackson, D.D., 2,000l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "Antigua",
+        "year": "1867",
+        "composition": {
+          "total_members": 6,
+          "members_listed": ["Governor Col. S. J. Hill", "Sir Wm. Byam", "John R. Semper", "W. A. Coull", "Edward Becket", "R. Weston Mara"]
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "136-140",
+          "source_section": "Executive Council",
+          "original_text": "Executive Council.\nGovernor Col. S. J. Hill, C.B., President.\nSir Wm. Byam, Knt. W. A. Coull.\nJohn R. Semper. Edward Becket.\nR. Weston Mara, LL.D., M.A.",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "Antigua",
+        "year": "1867",
+        "composition": {
+          "total_members": 9
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "148-153",
+          "source_section": "Legislative Council",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_house_of_assembly",
+        "name": "House of Assembly",
+        "type": "house_of_assembly",
+        "colony": "Antigua",
+        "year": "1867",
+        "composition": {
+          "total_members": 27,
+          "elected_members": 27
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "7, 155-169",
+          "source_section": "House of Assembly",
+          "original_text": "a House of Assembly, consisting of 27 members elected by the various parishes",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1865",
+        "type": "revenue",
+        "colony": "Antigua",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 40509,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "116",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "1865 £40,509 £39,767",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1865",
+        "type": "expenditure",
+        "colony": "Antigua",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 39767,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "116",
+          "source_section": "Revenue and Expenditure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_antigua_1863",
+        "colony": "Antigua",
+        "year": "1867",
+        "year_applies": "1863",
+        "population": {
+          "total": 36412,
+          "breakdown": {
+            "White": 2556,
+            "Black": 27237,
+            "Coloured": 6619
+          }
+        },
+        "notes": "Historical census categories reflect British colonial classifications",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "128-131",
+          "source_section": "Population (1861 and 1863)",
+          "original_text": "2,556 27,237 6,619 36,412",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_columbus_discovery",
+        "type": "other",
+        "description": "Antigua was discovered by Columbus in 1493, who named it after a church in Seville, called Santa Maria La Antigua",
+        "event_date": {
+          "year": "1493",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "3",
+          "original_text": "Antigua was discovered by Columbus in 1493, who named it after a church in Seville, called Santa Maria La Antigua",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_treaty_breda",
+        "type": "treaty",
+        "description": "After an interval of French occupation, Antigua was declared a British possession by the Treaty of Breda, 1666",
+        "event_date": {
+          "year": "1666",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "3",
+          "original_text": "After an interval of French occupation, it was declared a British possession by the Treaty of Breda, 1666",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_stephen_j_hill",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite",
+        "notes": "President of Executive Council"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/ANTIGUA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_st_johns",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_antigua",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/ANTIGUA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 13,
+    "entities_by_type": {
+      "places": 2,
+      "people": 3,
+      "institutions": 3,
+      "economic_data": 2,
+      "demographics": 1,
+      "events": 2
+    },
+    "total_relationships": 2,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 1,
+      "LOCATED_IN": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

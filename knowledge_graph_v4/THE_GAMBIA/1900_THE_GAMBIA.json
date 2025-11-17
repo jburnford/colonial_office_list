@@ -1,0 +1,443 @@
+{
+  "metadata": {
+    "year": "1900",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1900.pdf",
+    "source_directory": "output_2/1900_manual_parsed",
+    "extraction_date": "2025-11-17T11:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["THE_GAMBIA"],
+    "processing_notes": "Turn of century. Protectorate system being established. Ground nuts becoming dominant export. Anglo-French boundary delimitation ongoing."
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {},
+    "positions": {
+      "Travelling Commissioner": {
+        "canonical_name": "Travelling Commissioner",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      }
+    },
+    "institution_types": {
+      "protectorate": {
+        "description": "Territories under British protection with native administration",
+        "parent_type": null
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_gambia_colony",
+        "name": "The Gambia",
+        "type": "colony",
+        "area": {
+          "value": 69,
+          "unit": "square_miles",
+          "source": "Line 8"
+        },
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "British West African colony along Gambia River"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "2-8",
+          "source_section": "Situation and Area",
+          "original_text": "The Colony on the river Gambia consists of the Island of St. Mary, British Kommbo, Albreda, the Ceded Mile, and McCarthy's Island... The total area of the Colony proper is about 69 square miles",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_gambia_protectorate",
+        "name": "The Gambia Protectorate",
+        "type": "protectorate",
+        "parent_location": "place_gambia_colony",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Protectorate extending 200 miles along both banks of Gambia River"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "8",
+          "source_section": "Situation and Area",
+          "original_text": "The Protectorate extends on both banks of the river for 200 miles from its mouth.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bathurst",
+        "name": "Bathurst",
+        "type": "town",
+        "parent_location": "place_st_marys_island",
+        "coordinates": {
+          "latitude": 13.4,
+          "longitude": -16.6,
+          "source": "Line 6 (13° 24' N. lat., 16° 36' W. long.)"
+        },
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Capital town on St. Mary's Island, port of registry"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "6",
+          "source_section": "Situation and Area",
+          "original_text": "The town of Bathurst, 13° 24' N. lat., 16° 36' W. long., is situated on St. Mary's Island",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_marys_island",
+        "name": "St. Mary's Island",
+        "type": "island",
+        "parent_location": "place_gambia_colony",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Island at mouth of Gambia River where Bathurst is located"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "6, 8",
+          "source_section": "Situation and Area",
+          "original_text": "a sandbank about three and a half miles long and a mile and a quarter broad, separated from the mainland by a narrow channel called Oyster Creek",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_mccarthy_island",
+        "name": "McCarthy's Island",
+        "type": "island",
+        "parent_location": "place_gambia_colony",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Island 153 miles from Bathurst, forms demarcation between upper and lower river"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "8",
+          "source_section": "Situation and Area",
+          "original_text": "McCarthy's Island, situated between the falls of Barra Creek and Bathurst, and 153 miles distant from the latter. This island forms the line of demarcation between those portions of the river known as the upper and lower river.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [],
+    "institutions": [],
+    "economic_data": [
+      {
+        "id": "econ_exports_1898",
+        "type": "exports",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1898",
+        "data": {
+          "value": 246091,
+          "currency": "£",
+          "breakdown": {
+            "ground_nuts": 200309,
+            "rubber": 30468,
+            "palm_kernels": 919,
+            "wax": 1833,
+            "hides": 311
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "44-50, 92",
+          "source_section": "Industry; Exports",
+          "original_text": "Ground nuts £200,309; Rubber 30,468; Palm kernels 919; Wax 1,833; Hides 311",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1898",
+        "type": "imports",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1898",
+        "data": {
+          "value": 127465,
+          "currency": "£",
+          "breakdown": {
+            "cotton_goods": 60787,
+            "tobacco": 7190,
+            "kola_nuts": 21639,
+            "spirits": 4873,
+            "rice": 38226
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "30-43",
+          "source_section": "Industry",
+          "original_text": "Cotton goods £60,787; Tobacco 7,190; Kola Nuts 21,639; Spirits 4,873; Rice 38,226",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_production_groundnuts_1898",
+        "type": "production",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1898",
+        "data": {
+          "value": 33000,
+          "unit": "tons",
+          "category": "ground nuts"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "52",
+          "source_section": "Industry",
+          "original_text": "In 1837, 671 tons were exported, in 1858 15,729 tons, in 1898, 33,000 tons.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated",
+          "notes": "Ground nut described as staple product, planted June and reaped November"
+        }
+      },
+      {
+        "id": "econ_shipping_1897",
+        "type": "shipping",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1897",
+        "data": {
+          "vessels_registered": 114,
+          "total_tonnage": 1993,
+          "unit": "tons"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "52",
+          "source_section": "Industry",
+          "original_text": "Bathurst is a port of registry, and had on 31st Dec., 1897, 114 vessels registered, of 1,993 tons in the aggregate.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_oyster_creek_bridge",
+        "name": "Oyster Creek Bridge",
+        "type": "bridge",
+        "colony": "THE_GAMBIA",
+        "description": "Bridge connecting St. Mary's Island with mainland British Kombo, part of road to Cape St. Mary",
+        "specifications": {
+          "connects": "St. Mary's Island to British Kombo mainland"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "75",
+          "source_section": "Means of Communication",
+          "original_text": "save one from Bathurst to Cape St. Mary, 7½ miles across the Oyster Creek Bridge, which connects the island of St. Mary with the mainland of British Kombo",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_telegraph_cables",
+        "name": "Telegraph Cables",
+        "type": "telegraph",
+        "colony": "THE_GAMBIA",
+        "description": "Four telegraph cables connecting Bathurst with Europe and West Africa",
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "75",
+          "source_section": "Means of Communication",
+          "original_text": "Four telegraph cables place Bathurst in communication with Europe and West Africa",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [],
+    "events": [
+      {
+        "id": "event_anglo_french_boundary_1891",
+        "type": "treaty",
+        "description": "Delimitation of protectorate boundary by Anglo-French Commissioners",
+        "event_date": {
+          "year": "1891",
+          "precision": "year"
+        },
+        "year_mentioned": "1900",
+        "locations": ["place_gambia_protectorate"],
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "56",
+          "source_section": "Relations with the Interior",
+          "original_text": "Since the delimitation of the boundary of the Protectorate by the Anglo-French Commissioners in 1891",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_protectorate_order_1893",
+        "type": "constitutional_change",
+        "description": "Order-in-Council establishing Her Majesty's jurisdiction within the Protectorate",
+        "event_date": {
+          "year": "1893",
+          "month": "November",
+          "day": "23",
+          "precision": "exact"
+        },
+        "year_mentioned": "1900",
+        "locations": ["place_gambia_protectorate"],
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "56",
+          "source_section": "Relations with the Interior",
+          "original_text": "An Order-in-Council, issued on the 23rd of November, 1893, provided for the establishment of Her Majesty's jurisdiction within the Protectorate",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_bathurst",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_st_marys_island",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 1.0,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_st_marys_island",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia_colony",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 1.0,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_gambia_protectorate",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia_colony",
+      "properties": {
+        "confidence": "definite",
+        "notes": "Administratively linked"
+      },
+      "provenance": {
+        "source_file": "output_2/1900_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 0.95,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 16,
+    "entities_by_type": {
+      "places": 5,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 4,
+      "infrastructure": 2,
+      "demographics": 0,
+      "events": 2
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "LOCATED_IN": 1,
+      "PART_OF": 2
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

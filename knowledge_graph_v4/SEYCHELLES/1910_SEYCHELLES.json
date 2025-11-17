@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "year": "1910",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1910.pdf",
+    "source_directory": "output_2/1910_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM-based extraction)",
+    "colonies_processed": ["SEYCHELLES"],
+    "processing_notes": "Automated extraction for year 1910"
+  },
+  "controlled_vocabularies": {
+    "honors": {"CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3}},
+    "titles": {},
+    "positions": {"Governor": {"canonical_name": "Governor", "hierarchy_level": 2, "category": "executive"}}
+  },
+  "entities": {
+    "places": [
+      {"id": "place_seychelles_1910", "name": "Seychelles", "type": "colony", "location_context": {"mentioned_in_colony": "Seychelles", "actual_location_country": "Seychelles", "certainty": "definite", "reasoning": "British Crown Colony in Indian Ocean"}, "colonial_status": "colony", "area": {"value": 156, "unit": "square_miles"}, "year": "1910", "provenance": {"source_file": "output_2/1910_manual_parsed/SEYCHELLES.md", "source_lines": "1-10", "extraction_confidence": 0.95, "extraction_date": "2025-11-17T10:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_victoria_1910", "name": "Victoria", "type": "city", "location_context": {"mentioned_in_colony": "Seychelles", "actual_location_country": "Seychelles", "certainty": "definite", "reasoning": "Capital on Mahé island"}, "parent_location": "place_mahe_1910", "year": "1910", "provenance": {"source_file": "output_2/1910_manual_parsed/SEYCHELLES.md", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T10:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_mahe_1910", "name": "Mahé", "type": "island", "location_context": {"mentioned_in_colony": "Seychelles", "actual_location_country": "Seychelles", "certainty": "definite", "reasoning": "Largest island"}, "parent_location": "place_seychelles_1910", "area": {"value": 55.5, "unit": "square_miles"}, "year": "1910", "provenance": {"source_file": "output_2/1910_manual_parsed/SEYCHELLES.md", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T10:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_praslin_1910", "name": "Praslin", "type": "island", "location_context": {"mentioned_in_colony": "Seychelles", "actual_location_country": "Seychelles", "certainty": "definite", "reasoning": "Second largest island"}, "parent_location": "place_seychelles_1910", "area": {"value": 9700, "unit": "acres"}, "year": "1910", "provenance": {"source_file": "output_2/1910_manual_parsed/SEYCHELLES.md", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T10:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "people": [],
+    "institutions": [
+      {"id": "inst_executive_council_1910", "name": "Executive Council", "type": "executive_council", "colony": "Seychelles", "year": "1910", "provenance": {"source_file": "output_2/1910_manual_parsed/SEYCHELLES.md", "extraction_confidence": 0.95, "extraction_date": "2025-11-17T10:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "inst_legislative_council_1910", "name": "Legislative Council", "type": "legislative_council", "colony": "Seychelles", "year": "1910", "provenance": {"source_file": "output_2/1910_manual_parsed/SEYCHELLES.md", "extraction_confidence": 0.95, "extraction_date": "2025-11-17T10:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "economic_data": [],
+    "infrastructure": [
+      {"id": "infra_telegraph_1910", "name": "Telegraph communication", "type": "telegraph", "colony": "Seychelles", "description": "With Mauritius and Europe via Zanzibar", "year": "1910", "provenance": {"source_file": "output_2/1910_manual_parsed/SEYCHELLES.md", "extraction_confidence": 0.95, "extraction_date": "2025-11-17T10:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "demographics": [],
+    "events": []
+  },
+  "relationships": [
+    {"source_id": "place_victoria_1910", "relationship_type": "LOCATED_IN", "target_id": "place_mahe_1910", "properties": {"confidence": "definite"}, "provenance": {"source_file": "output_2/1910_manual_parsed/SEYCHELLES.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}},
+    {"source_id": "place_mahe_1910", "relationship_type": "PART_OF", "target_id": "place_seychelles_1910", "properties": {"confidence": "definite"}, "provenance": {"source_file": "output_2/1910_manual_parsed/SEYCHELLES.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}}
+  ],
+  "extraction_statistics": {
+    "total_entities": 8,
+    "entities_by_type": {"places": 4, "people": 0, "institutions": 2, "economic_data": 0, "infrastructure": 1, "demographics": 0, "events": 0},
+    "total_relationships": 2,
+    "relationships_by_type": {"LOCATED_IN": 1, "PART_OF": 1},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

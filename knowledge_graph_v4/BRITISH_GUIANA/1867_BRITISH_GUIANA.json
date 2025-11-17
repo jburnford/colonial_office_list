@@ -1,0 +1,741 @@
+{
+  "metadata": {
+    "year": "1867",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1867.pdf",
+    "source_directory": "output_2/1867_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["BRITISH_GUIANA"],
+    "processing_notes": "Extracted from 1867 Colonial Office List. Contains Court of Policy members, Civil Establishment with salaries, constitutional history, population data, and trade statistics."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      },
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Rt Rev": {
+        "full_form": "Right Reverend",
+        "category": "religious"
+      },
+      "Ven": {
+        "full_form": "Venerable",
+        "category": "religious"
+      },
+      "Major": {
+        "full_form": "Major",
+        "category": "military"
+      },
+      "Captain": {
+        "full_form": "Captain",
+        "category": "military"
+      },
+      "Lieut-Col": {
+        "full_form": "Lieutenant-Colonel",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Attorney-General": {
+        "canonical_name": "Attorney-General",
+        "hierarchy_level": 3,
+        "category": "judicial"
+      },
+      "Government Secretary": {
+        "canonical_name": "Government Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Receiver-General": {
+        "canonical_name": "Receiver-General",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_british_guiana",
+        "name": "British Guiana",
+        "type": "colony",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_GUIANA",
+          "actual_location_country": "Guyana (modern)",
+          "certainty": "definite",
+          "reasoning": "Main South American mainland colony on north-eastern coast"
+        },
+        "area": {
+          "value": 76000,
+          "unit": "square_miles",
+          "source": "Line 7: 'computed to be 76,000 square miles'"
+        },
+        "description": "Portion of South American continent, extending from east to west about 200 miles",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "3-7",
+          "original_text": "This Colony is a portion of the South American continent, extending from east to west about 200 miles...computed to be 76,000 square miles.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_georgetown",
+        "name": "Georgetown",
+        "type": "city",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_GUIANA",
+          "actual_location_country": "Guyana",
+          "certainty": "definite",
+          "reasoning": "Capital city, formerly Stabroek"
+        },
+        "description": "Metropolis and capital, formerly Stabroek",
+        "parent_location": "place_british_guiana",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "13",
+          "original_text": "seat of Government for the United provinces was established at Stabroek, the site of the present metropolis, Georgetown",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_demerara",
+        "name": "Demerara",
+        "type": "district",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_GUIANA",
+          "actual_location_country": "Guyana",
+          "certainty": "definite",
+          "reasoning": "One of three counties forming British Guiana"
+        },
+        "description": "County and former settlement, united with Essequibo",
+        "parent_location": "place_british_guiana",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "3, 9",
+          "original_text": "It includes the settlements of Demerara, Essequebo, and Berbice",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_essequibo",
+        "name": "Essequibo",
+        "type": "district",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_GUIANA",
+          "actual_location_country": "Guyana",
+          "certainty": "definite",
+          "reasoning": "One of three counties forming British Guiana"
+        },
+        "description": "County, also spelled Essequebo",
+        "parent_location": "place_british_guiana",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "3, 9",
+          "original_text": "It includes the settlements of Demerara, Essequebo, and Berbice",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_berbice",
+        "name": "Berbice",
+        "type": "district",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_GUIANA",
+          "actual_location_country": "Guyana",
+          "certainty": "definite",
+          "reasoning": "One of three counties forming British Guiana"
+        },
+        "description": "County and former separate colony",
+        "parent_location": "place_british_guiana",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "3, 9",
+          "original_text": "It includes the settlements of Demerara, Essequebo, and Berbice",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_new_amsterdam",
+        "name": "New Amsterdam",
+        "type": "town",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_GUIANA",
+          "actual_location_country": "Guyana",
+          "certainty": "definite",
+          "reasoning": "Town in Berbice county"
+        },
+        "description": "Town of New Amsterdam",
+        "parent_location": "place_berbice",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "61",
+          "original_text": "5 Town of New Amsterdam",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_f_hincks",
+        "name": "F. Hincks",
+        "year": "1867",
+        "titles": [],
+        "honors": [
+          {
+            "honor": "CB",
+            "full_name": "Companion of the Order of the Bath"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "BRITISH_GUIANA",
+            "location": "Georgetown",
+            "status": "permanent",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "174",
+          "original_text": "Governor, F. Hincks, C.B., 5,000l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_robert_m_mundy",
+        "name": "Robert M. Mundy",
+        "year": "1867",
+        "titles": ["Major"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Acting Governor",
+            "colony": "BRITISH_GUIANA",
+            "location": "Georgetown",
+            "status": "acting"
+          }
+        ],
+        "biographical": {
+          "military_service": "Royal Artillery"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "176",
+          "original_text": "Acting, Major R. M. Mundy, Roy. Art.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_joseph_beaumont",
+        "name": "Joseph Beaumont",
+        "year": "1867",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "BRITISH_GUIANA",
+            "location": "Georgetown",
+            "status": "permanent",
+            "salary": {
+              "amount": 2500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "114, 425",
+          "original_text": "Joseph Beaumont, Chief-Justice...Chief Justice of Supreme Court, Joseph Beaumont, 2,500l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_l_smith",
+        "name": "J. L. Smith",
+        "year": "1867",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "BRITISH_GUIANA",
+            "location": "Georgetown",
+            "status": "permanent",
+            "salary": {
+              "amount": 1100,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "116, 433",
+          "original_text": "J. L. Smith, Attorney-General...Attorney-General, J. L. Smith, 1,100l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_william_robert_inglis",
+        "name": "William Robert Inglis",
+        "year": "1867",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Receiver-General",
+            "colony": "BRITISH_GUIANA",
+            "location": "Georgetown",
+            "status": "permanent",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "122, 194",
+          "original_text": "W. R. Inglis, Receiver-General...Receiver-General, William Robert Inglis, 1,000l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_p_austin",
+        "name": "W. P. Austin",
+        "year": "1867",
+        "titles": ["Rt Rev"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Lord Bishop",
+            "colony": "BRITISH_GUIANA",
+            "location": "Georgetown",
+            "status": "permanent",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "468",
+          "original_text": "Lord Bishop, The Right Rev. W. P. Austin, D.D., 2,000l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_court_of_policy",
+        "name": "Court of Policy",
+        "year": "1867",
+        "type": "legislative_council",
+        "colony": "BRITISH_GUIANA",
+        "location": "Georgetown",
+        "composition": {
+          "total_members": 10,
+          "official_members": 5,
+          "unofficial_members": 5
+        },
+        "description": "Legislative body consisting of Governor, Chief Justice, Attorney-General, Administrator-General, Government Secretary, and five elected members",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "108-137",
+          "original_text": "Court of Policy...The Court of Policy is composed of five official and five elective members.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_combined_court",
+        "name": "Combined Court",
+        "year": "1867",
+        "type": "legislative_council",
+        "colony": "BRITISH_GUIANA",
+        "location": "Georgetown",
+        "composition": {
+          "total_members": 16
+        },
+        "description": "Court of Policy plus six Financial Representatives for voting expenditure and framing taxes",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "49-53",
+          "original_text": "The Constitution may be summed up very briefly. It consists of a Governor, Court of Policy, and a Combined Court.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1865",
+        "type": "revenue",
+        "colony": "BRITISH_GUIANA",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 373392,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "78",
+          "original_text": "| 1865 | £373,392 | £300,894 |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1865",
+        "type": "expenditure",
+        "colony": "BRITISH_GUIANA",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 300894,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "78",
+          "original_text": "| 1865 | £373,392 | £300,894 |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1864",
+        "type": "imports",
+        "colony": "BRITISH_GUIANA",
+        "year": "1867",
+        "year_applies": "1864",
+        "data": {
+          "value": 1508360,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "89",
+          "original_text": "| 1864 | £1,508,360 | £1,845,351 |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1864",
+        "type": "exports",
+        "colony": "BRITISH_GUIANA",
+        "year": "1867",
+        "year_applies": "1864",
+        "data": {
+          "value": 1845351,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "89",
+          "original_text": "| 1864 | £1,508,360 | £1,845,351 |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_population_1861",
+        "colony": "BRITISH_GUIANA",
+        "year": "1867",
+        "year_applies": "1861",
+        "population": {
+          "total": 148907,
+          "breakdown": {
+            "natives_of_british_guiana": 93861,
+            "west_india_islands": 8309,
+            "madeira_cape_verde": 9859,
+            "africa": 9299,
+            "madras": 3664,
+            "calcutta": 18416,
+            "china": 2629,
+            "miscellaneous": 943,
+            "aboriginal_indians_estimated": 20000
+          }
+        },
+        "notes": "Historical census data with colonial categorizations. Aboriginal Indians estimated separately at 20,000-21,000 by Superintendent M'Clintock",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "91-106",
+          "original_text": "Population in 1861...Total population, 148,907",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_union_1831",
+        "type": "constitutional_change",
+        "description": "Union of the three provinces of Demerara, Essequibo and Berbice into one colony",
+        "event_date": {
+          "year": "1831",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_british_guiana", "place_demerara", "place_essequibo", "place_berbice"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "9, 32",
+          "original_text": "this arrangement indeed continued in force under the British Administration down to the year 1831",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_british_cession_1814",
+        "type": "transfer",
+        "description": "British Guiana finally ceded to Great Britain",
+        "event_date": {
+          "year": "1814",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_british_guiana"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "5",
+          "original_text": "It was restored to the Dutch in 1802, but in the following year retaken by Great Britain, to whom it was finally ceded in 1814.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_f_hincks",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_british_guiana",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_joseph_beaumont",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_court_of_policy",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite",
+        "notes": "Ex officio member as Chief Justice"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_georgetown",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_british_guiana",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_demerara",
+      "relationship_type": "PART_OF",
+      "target_id": "place_british_guiana",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_essequibo",
+      "relationship_type": "PART_OF",
+      "target_id": "place_british_guiana",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_berbice",
+      "relationship_type": "PART_OF",
+      "target_id": "place_british_guiana",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 21,
+    "entities_by_type": {
+      "places": 6,
+      "people": 6,
+      "institutions": 2,
+      "economic_data": 4,
+      "demographics": 1,
+      "events": 2
+    },
+    "total_relationships": 6,
+    "relationships_by_type": {
+      "GOVERNS": 1,
+      "MEMBER_OF": 1,
+      "LOCATED_IN": 1,
+      "PART_OF": 3
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

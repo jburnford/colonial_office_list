@@ -1,0 +1,587 @@
+{
+  "metadata": {
+    "year": "1920",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1920.pdf",
+    "source_directory": "output_2/1920_manual_parsed",
+    "extraction_date": "2025-11-17T11:15:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["THE_GAMBIA"],
+    "processing_notes": "Post-WWI period. Protectorate fully established with five provinces. Detailed economic and demographic data. Ground nuts remain dominant export."
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {
+      "Lieut.-Colonel": {
+        "full_form": "Lieutenant-Colonel",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Travelling Commissioner": {
+        "canonical_name": "Travelling Commissioner",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      }
+    },
+    "institution_types": {
+      "protectorate": {
+        "description": "British protectorate with provincial administration",
+        "parent_type": null
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_gambia_colony",
+        "name": "The Gambia",
+        "type": "colony",
+        "area": {
+          "value": 69,
+          "unit": "square_miles",
+          "source": "Line 8"
+        },
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "British West African colony, separate government since 1888"
+        },
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "4-8",
+          "source_section": "Situation and Area",
+          "original_text": "The Colony on the river Gambia consists of the Island of St. Mary, British Kombo, Albreda, the Cedet Mile, the territories of Brefet and Bajana, and MacCarthy Island... The total area of the Colony proper is about 69 square miles",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_gambia_protectorate",
+        "name": "The Gambia Protectorate",
+        "type": "protectorate",
+        "parent_location": "place_gambia_colony",
+        "area": {
+          "value": 4000,
+          "unit": "square_miles",
+          "source": "Line 8"
+        },
+        "population": {
+          "total": 152000,
+          "year": "1920",
+          "source": "Line 8"
+        },
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Protectorate extending 250 miles along both banks of river, divided into five provinces"
+        },
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "8",
+          "source_section": "Situation and Area",
+          "original_text": "The territory administered as Protectorate is approximately 4,000 sq. miles, and has an estimated population of 152,000",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bathurst",
+        "name": "Bathurst",
+        "type": "city",
+        "parent_location": "place_st_marys_island",
+        "coordinates": {
+          "latitude": 13.45,
+          "longitude": -16.567,
+          "source": "Line 6 (13° 27' N. lat., 16° 34' W. long.)"
+        },
+        "population": {
+          "total": 7700,
+          "year": "1920",
+          "source": "Line 8"
+        },
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Seat of government on St. Mary's Island, exceptionally clean town"
+        },
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "6, 8",
+          "source_section": "Situation and Area",
+          "original_text": "Bathurst is the seat of Government... The Island of St. Mary's has an area of about 2,500 acres... and a population of 7,700",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_marys_island",
+        "name": "St. Mary's Island",
+        "type": "island",
+        "parent_location": "place_gambia_colony",
+        "area": {
+          "value": 2500,
+          "unit": "acres",
+          "source": "Line 8"
+        },
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Island at mouth of Gambia River where Bathurst is located"
+        },
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "6, 8",
+          "source_section": "Situation and Area",
+          "original_text": "a sandbank about three and a half miles long and a mile and a quarter broad, separated from the mainland by a narrow channel called Oyster Creek... The Island of St. Mary's has an area of about 2,500 acres",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_north_bank_province",
+        "name": "North Bank Province",
+        "type": "province",
+        "parent_location": "place_gambia_protectorate",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "One of five provinces, 110 miles in length, north bank of Gambia River"
+        },
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "45",
+          "source_section": "History",
+          "original_text": "North Bank Province, with the districts of Lower Niumi, Upper Niumi, Jokado, Lower Baddibu, Central Baddibu, Upper Baddibu, 110 miles in length",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_maccarthy_province",
+        "name": "MacCarthy Province",
+        "type": "province",
+        "parent_location": "place_gambia_protectorate",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "One of five provinces, 85 miles in length"
+        },
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "45",
+          "source_section": "History",
+          "original_text": "MacCarthy Province, with the districts of Upper Niani, Sami, Lower Niani, Nianja, Upper Saloum, Lower Saloum, 85 miles in length",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_upper_river_province",
+        "name": "Upper River Province",
+        "type": "province",
+        "parent_location": "place_gambia_protectorate",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "One of five provinces, 150 miles in length"
+        },
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "45",
+          "source_section": "History",
+          "original_text": "Upper River Province, with the districts of Sandu and Wuli on the North bank, and Kantora, Fulladu East, and Fulladu West on the south bank of the river, 150 miles in length",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_south_bank_province",
+        "name": "South Bank Province",
+        "type": "province",
+        "parent_location": "place_gambia_protectorate",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "One of five provinces, 70 miles in length"
+        },
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "45",
+          "source_section": "History",
+          "original_text": "South Bank Province, with the districts of Eastern Niamina, Western Niamina, Niamina (Dunkunku), Central Jarra, Eastern Jarra, Western Jarra, East Kiang and Central Kiang, 70 miles in length",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_kombo_foni_province",
+        "name": "Kombo and Foni Province",
+        "type": "province",
+        "parent_location": "place_gambia_protectorate",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "One of five provinces, 85 miles in length"
+        },
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "46",
+          "source_section": "History",
+          "original_text": "Kombo and Foni Province, with the districts of Western Kiang, Foni Karenai, Foni East Kansala Bondali, Bondali and Ja Wol; Foni West, Bintang, and Brefet; Kombos East, Central, South, North, and Kombo St. Mary, 85 miles in length",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [],
+    "institutions": [],
+    "economic_data": [
+      {
+        "id": "econ_imports_cotton_1918",
+        "type": "imports",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1918",
+        "data": {
+          "category": "Cotton piece goods",
+          "quantity": 11023963,
+          "unit": "yards",
+          "value": 377974,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "93",
+          "source_section": "Principal Imports, 1918",
+          "original_text": "| Cotton piece goods| 11,023,963 yds | 377,974   |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_kola_nuts_1918",
+        "type": "imports",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1918",
+        "data": {
+          "category": "Kola nuts",
+          "quantity": 15165,
+          "unit": "cwts",
+          "value": 130051,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "97",
+          "source_section": "Principal Imports, 1918",
+          "original_text": "| Kola nuts         | 15,165 cwts| 130,051   |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated",
+          "notes": "Imported from Sierra Leone"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_protectorate_1920",
+        "colony": "THE_GAMBIA",
+        "location": "Protectorate",
+        "year_applies": "1920",
+        "population": {
+          "total": 152000,
+          "breakdown": {
+            "Jollofs": "significant",
+            "Mandingos": "most numerous",
+            "Sarahulis": "recent arrivals",
+            "Fullas": "good farmers",
+            "Jolas": "pagans, wild tribe"
+          }
+        },
+        "notes": "Inhabitants mostly negro race. Mandingos most numerous, Jollofs on North Bank, Jolas are pagans, Sarahulis are Mohammedans from Senegal interior, Fullas are good farmers and herdsmen.",
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "52-62",
+          "source_section": "Inhabitants of the Gambia",
+          "original_text": "The inhabitants are mostly of the negro race, the chief tribes being the Jollofs, Mandingos, Sarahulis, Fullas and Jolas",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_bathurst_1920",
+        "colony": "THE_GAMBIA",
+        "location": "Bathurst",
+        "year_applies": "1920",
+        "population": {
+          "total": 7700
+        },
+        "notes": "St. Mary's Island population, Bathurst described as exceptionally clean town",
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "8",
+          "source_section": "Situation and Area",
+          "original_text": "The Island of St. Mary's has an area of about 2,500 acres... and a population of 7,700",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_anglo_french_boundary_1905",
+        "type": "treaty",
+        "description": "Survey of boundaries dividing Gambia from Senegal completed by Anglo-French Boundary Commission",
+        "event_date": {
+          "year": "1905",
+          "precision": "year"
+        },
+        "year_mentioned": "1920",
+        "locations": ["place_gambia_protectorate"],
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "8",
+          "source_section": "Situation and Area",
+          "original_text": "A survey of the boundaries dividing the Gambia from Senegal was completed by the Anglo-French Boundary Commission in 1905",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_sankandi_incident_1900",
+        "type": "rebellion",
+        "description": "Killing of two Travelling Commissioners (Sitwell and Silva) at Sankandi by treachery of Headman Dari Bana Dabu",
+        "event_date": {
+          "year": "1900",
+          "precision": "year"
+        },
+        "year_mentioned": "1920",
+        "locations": ["place_gambia_protectorate"],
+        "participants": [],
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "48",
+          "source_section": "History",
+          "original_text": "In 1900 further trouble arose... Two travelling Commissioners, Mr. Sitwell and Mr. Silva, with an escort... unfortunately, owing to the treachery of the Headman, Dari Bana Dabu, both the Commissioners, the sergeant and five constables were killed",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_punitive_expedition_1901",
+        "type": "expedition",
+        "description": "Punitive expedition led by Colonel H. E. Brake to avenge killing of Commissioners, destruction of Medina and death of Fodi Kabba",
+        "event_date": {
+          "year": "1901",
+          "month": "March",
+          "day": "23",
+          "precision": "exact"
+        },
+        "year_mentioned": "1920",
+        "locations": ["place_gambia_protectorate"],
+        "year": "1920",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "50",
+          "source_section": "History",
+          "original_text": "On the arrival of Sir George Denton in 1901, it was decided to send a punitive expedition... on the 23rd March, 1901, Medina was demolished and Fodi Kabba killed",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_bathurst",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_st_marys_island",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 1.0,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_st_marys_island",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia_colony",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 1.0,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_north_bank_province",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia_protectorate",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_maccarthy_province",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia_protectorate",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_upper_river_province",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia_protectorate",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_south_bank_province",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia_protectorate",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_kombo_foni_province",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia_protectorate",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1920_manual_parsed/THE_GAMBIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 20,
+    "entities_by_type": {
+      "places": 9,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 2,
+      "infrastructure": 0,
+      "demographics": 2,
+      "events": 3
+    },
+    "total_relationships": 7,
+    "relationships_by_type": {
+      "LOCATED_IN": 1,
+      "PART_OF": 6
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

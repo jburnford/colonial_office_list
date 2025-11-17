@@ -1,0 +1,822 @@
+{
+  "metadata": {
+    "year": "1867",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1867.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1867_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM-based extraction)",
+    "colonies_processed": ["MAURITIUS"],
+    "processing_notes": "First year of extraction (1867). Rich data on government officials and salaries. Dependencies include Rodrigues, Seychelles, Diego Garcia."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCB": {
+        "full_name": "Knight Commander of the Order of the Bath",
+        "type": "knighthood",
+        "rank": 2
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Right Rev": {
+        "full_form": "Right Reverend",
+        "category": "religious"
+      },
+      "Major-General": {
+        "full_form": "Major-General",
+        "category": "military"
+      },
+      "Colonel": {
+        "full_form": "Colonel",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor",
+        "hierarchy_level": 2,
+        "category": "executive",
+        "typical_reports_to": "Secretary of State"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative",
+        "typical_reports_to": "Governor"
+      },
+      "Treasurer": {
+        "canonical_name": "Treasurer",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Collector of Customs": {
+        "canonical_name": "Collector of Customs",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      },
+      "Auditor-General": {
+        "canonical_name": "Auditor-General",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Advisory council to the Governor",
+        "parent_type": null
+      },
+      "legislative_council": {
+        "description": "Legislative body of the colony",
+        "parent_type": null
+      },
+      "supreme_court": {
+        "description": "Highest court in the colony",
+        "parent_type": "judicial"
+      },
+      "treasury": {
+        "description": "Financial administration department",
+        "parent_type": "administrative"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_mauritius",
+        "name": "Mauritius",
+        "type": "colony",
+        "year": "1867",
+        "coordinates": {
+          "latitude_range": {"south_min": 19.967, "south_max": 20.533},
+          "longitude_range": {"east_min": 57.283, "east_max": 57.767},
+          "source": "Lines 3: between 57° 17' and 57° 46' E. long., and 19° 58' and 20° 32' S. lat."
+        },
+        "area": {
+          "value": 676,
+          "unit": "square_miles",
+          "source": "Line 3"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "1-3",
+          "original_text": "An island lying in the Indian Ocean, between 57° 17' and 57° 46' E. long., and 19° 58' and 20° 32' S. lat. It is 400 miles east of Madagascar. It comprises an area of 676 square miles.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_madagascar",
+        "name": "Madagascar",
+        "type": "island",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "MAURITIUS",
+          "actual_location_country": "Madagascar",
+          "certainty": "definite",
+          "reasoning": "Referenced as 400 miles from Mauritius"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "3",
+          "original_text": "It is 400 miles east of Madagascar",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_rodrigues",
+        "name": "Rodrigues",
+        "type": "island",
+        "year": "1867",
+        "parent_location": "place_mauritius",
+        "description": "Dependency of Mauritius, 300 miles east, 26 miles by 12 miles",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "11",
+          "original_text": "Rodrigues is situated about 300 miles east of Mauritius. It is 26 miles in length by 12 in breadth.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_seychelles",
+        "name": "Seychelles",
+        "type": "island",
+        "year": "1867",
+        "parent_location": "place_mauritius",
+        "population": {
+          "total": 8948,
+          "year": "1867",
+          "source": "Line 496"
+        },
+        "area": {
+          "value": 50120,
+          "unit": "acres",
+          "source": "Line 13"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "13",
+          "original_text": "The Seychelles, or Mahé Islands, are situated between the parallels of S. lat. 4° and 5°; the total number of acres comprised in this group is 50,120; the distance from Mauritius 940 miles.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_diego_garcia",
+        "name": "Diego Garcia",
+        "type": "island",
+        "year": "1867",
+        "parent_location": "place_mauritius",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "11",
+          "original_text": "The Island of Rodrigues, the Seychelles Islands, Diego Garcia, and others, are dependencies of the Mauritius.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_henry_barkly",
+        "name": "Henry Barkly",
+        "year": "1867",
+        "titles": ["Sir"],
+        "honors": [
+          {
+            "honor": "KCB",
+            "full_name": "Knight Commander of the Order of the Bath"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "MAURITIUS",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "103, 110",
+          "source_section": "Executive Council / Legislative Council",
+          "original_text": "Sir Henry Barkly, K.C.B., Governor.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_ecwm_milman",
+        "name": "E. C. W. M. Milman",
+        "year": "1867",
+        "titles": ["Major-General"],
+        "positions": [
+          {
+            "title": "Officer commanding the troops",
+            "colony": "MAURITIUS",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "104",
+          "source_section": "Executive Council",
+          "original_text": "E. C. W. M. Milman, Major-General, commanding the troops.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_felix_bedingfeld",
+        "name": "Felix Bedingfeld",
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "MAURITIUS",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "105",
+          "source_section": "Executive Council",
+          "original_text": "Felix Bedingfeld, Colonial Secretary.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_wg_dickson",
+        "name": "W. G. Dickson",
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Procureur and Advocate-General",
+            "colony": "MAURITIUS",
+            "status": "permanent",
+            "salary": {
+              "amount": 1500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "106, 310",
+          "source_section": "Executive Council / Procureur-General's Department",
+          "original_text": "W. G. Dickson, Procureur and Advocate-General. ... 1,500l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_wwr_kerr",
+        "name": "W. W. R. Kerr",
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Treasurer",
+            "colony": "MAURITIUS",
+            "status": "permanent",
+            "salary": {
+              "amount": 1200,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "114, 126",
+          "source_section": "Legislative Council / Treasury",
+          "original_text": "W. W. R. Kerr, Treasurer. ... 1,200l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_cf_shand",
+        "name": "C. F. Shand",
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "MAURITIUS",
+            "institution_id": "inst_supreme_court",
+            "status": "permanent",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "288",
+          "source_section": "Supreme Court",
+          "original_text": "Chief Judge, C. F. Shand, 2,000l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_vw_ryan",
+        "name": "V. W. Ryan",
+        "year": "1867",
+        "titles": ["Right Rev", "D.D."],
+        "positions": [
+          {
+            "title": "Lord Bishop of Mauritius",
+            "colony": "MAURITIUS",
+            "status": "permanent",
+            "salary": {
+              "amount": 720,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "435",
+          "source_section": "Ecclesiastical",
+          "original_text": "Lord Bishop of Mauritius, Right Rev. V. W. Ryan, D.D., 720l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "MAURITIUS",
+        "year": "1867",
+        "composition": {
+          "ex_officio_members": 3
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "101-106",
+          "source_section": "Executive Council",
+          "original_text": "The Government of the island is vested in a Governor, aided by an Executive Council, of which the Colonial Secretary, Procureur and Advocate-General, and the Officer in Command of Her Majesty's Troops are ex-officio members.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "MAURITIUS",
+        "year": "1867",
+        "composition": {
+          "total_members": 17,
+          "official_members": 7,
+          "unofficial_members": 10
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "108-122",
+          "source_section": "Legislative Council",
+          "original_text": "There is also a Legislative Council, consisting of seven official and ten non-official members",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_supreme_court",
+        "name": "Supreme Court",
+        "type": "supreme_court",
+        "colony": "MAURITIUS",
+        "year": "1867",
+        "established": "1851-10-23",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "9, 286-299",
+          "source_section": "Constitution / Supreme Court",
+          "original_text": "The organization of the Courts of Justice was modified by Royal Order, in Council of 23rd October, 1851, under which, a Supreme Court was established",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_treasury",
+        "name": "Treasury",
+        "type": "treasury",
+        "colony": "MAURITIUS",
+        "year": "1867",
+        "head_person_id": "person_wwr_kerr",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "124-138",
+          "source_section": "Treasury",
+          "original_text": "Treasury section with Treasurer W. W. R. Kerr and staff",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_census_1861",
+        "colony": "MAURITIUS",
+        "year": "1867",
+        "year_applies": "1861",
+        "population": {
+          "total": 313462,
+          "breakdown": {
+            "male": 202961,
+            "female": 107089,
+            "total_population": 310050
+          }
+        },
+        "notes": "Census taken on 8th April, 1861. Previous census on 20th November, 1851 showed 183,506.",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "72-80",
+          "original_text": "Population of Mauritius, on the 8th April, 1861, with the Total on the 20th November, 1851.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_seychelles_1867",
+        "colony": "MAURITIUS",
+        "location": "Seychelles",
+        "year": "1867",
+        "year_applies": "1867",
+        "population": {
+          "total": 8948
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "496",
+          "source_section": "Seychelles",
+          "original_text": "Population, 8,948.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_seychelles_revenue_1865",
+        "type": "revenue",
+        "colony": "MAURITIUS",
+        "location": "Seychelles",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 5180,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "500-503",
+          "source_section": "Seychelles - Revenue and Expenditure",
+          "original_text": "Revenue 1865: £5,180",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_seychelles_expenditure_1865",
+        "type": "expenditure",
+        "colony": "MAURITIUS",
+        "location": "Seychelles",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 5434,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "500-503",
+          "source_section": "Seychelles - Revenue and Expenditure",
+          "original_text": "Expenditure 1865: £5,434",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway_1867",
+        "name": "Mauritius Railway",
+        "type": "railway",
+        "colony": "MAURITIUS",
+        "year": "1867",
+        "description": "Railway under construction and operation with working and construction departments",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "479-492",
+          "source_section": "Railway Working Department / Railway Construction Department",
+          "original_text": "Manager, J. T. Fisher, 1500l. ... Chief Resident Engineer, W. Stanley, 1100l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_discovery_portuguese_1507",
+        "type": "other",
+        "description": "Mauritius was discovered by the Portuguese in 1507",
+        "event_date": {
+          "year": "1507",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "locations": ["place_mauritius"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "5",
+          "original_text": "The Mauritius was discovered by the Portuguese in 1507.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_dutch_settlement_1598",
+        "type": "establishment",
+        "description": "The Dutch made the first settlement in Mauritius in 1598, naming it after Prince Maurice",
+        "event_date": {
+          "year": "1598",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "locations": ["place_mauritius"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "5",
+          "original_text": "The first who made any settlement in it were the Dutch in 1598, who named it Mauritius, in honour of their Prince Maurice.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_dutch_abandonment_1710",
+        "type": "other",
+        "description": "Mauritius was abandoned by the Dutch in 1710",
+        "event_date": {
+          "year": "1710",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "locations": ["place_mauritius"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "5",
+          "original_text": "It was abandoned by them in 1710, and afterwards taken possession of by the French.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_british_capture_1810",
+        "type": "transfer",
+        "description": "The British Government captured Mauritius in 1810",
+        "event_date": {
+          "year": "1810",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "locations": ["place_mauritius"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "5",
+          "original_text": "The British Government determined on an expedition for its capture, which was effected in 1810.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_treaty_paris_1814",
+        "type": "treaty",
+        "description": "The possession of Mauritius by Britain was ratified by the Treaty of Paris, 1814",
+        "event_date": {
+          "year": "1814",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "locations": ["place_mauritius"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+          "source_lines": "5",
+          "original_text": "The possession of the island was ratified by the Treaty of Paris, 1814.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_henry_barkly",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_felix_bedingfeld",
+      "relationship_type": "REPORTS_TO",
+      "target_id": "person_henry_barkly",
+      "properties": {
+        "year": "1867",
+        "confidence": "inferred",
+        "notes": "Colonial Secretary typically reports to Governor"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+        "extraction_confidence": 0.90,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "place_rodrigues",
+      "relationship_type": "PART_OF",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite",
+        "notes": "Dependency of Mauritius"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_seychelles",
+      "relationship_type": "PART_OF",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite",
+        "notes": "Dependency of Mauritius"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_diego_garcia",
+      "relationship_type": "PART_OF",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite",
+        "notes": "Dependency of Mauritius"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "inst_executive_council",
+      "relationship_type": "PART_OF",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/MAURITIUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 26,
+    "entities_by_type": {
+      "places": 5,
+      "people": 7,
+      "institutions": 4,
+      "demographics": 2,
+      "economic_data": 2,
+      "infrastructure": 1,
+      "events": 5
+    },
+    "total_relationships": 6,
+    "relationships_by_type": {
+      "GOVERNS": 1,
+      "REPORTS_TO": 1,
+      "PART_OF": 4
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0,
+    "processing_time_seconds": 120
+  }
+}

@@ -1,0 +1,744 @@
+{
+  "metadata": {
+    "year": "1930",
+    "schema_version": "2.0",
+    "source_directory": "/home/user/colonial_office_list/output_2/1930_manual_parsed",
+    "extraction_date": "2025-11-17T15:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["MONTSERRAT"],
+    "processing_notes": "Mid-colonial period extraction showing cotton/onion economy, post-hurricane recovery, modern communications (telephone, wireless)"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "DSO": {
+        "full_form": "Distinguished Service Order",
+        "category": "military"
+      },
+      "OBE": {
+        "full_form": "Officer of the Order of the British Empire",
+        "category": "civil"
+      },
+      "ISO": {
+        "full_form": "Imperial Service Order",
+        "category": "civil"
+      },
+      "CMG": {
+        "full_form": "Companion of the Order of St Michael and St George",
+        "category": "imperial"
+      },
+      "MC": {
+        "full_form": "Military Cross",
+        "category": "military"
+      }
+    },
+    "titles": {
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Canon": {
+        "full_form": "Canon",
+        "category": "religious"
+      },
+      "Major": {
+        "full_form": "Major",
+        "category": "military"
+      },
+      "Lt-Col": {
+        "full_form": "Lieutenant-Colonel",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Commissioner": {
+        "canonical_name": "Commissioner",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Medical Officer": {
+        "canonical_name": "Medical Officer",
+        "hierarchy_level": 4,
+        "category": "medical"
+      },
+      "District Magistrate": {
+        "canonical_name": "District Magistrate",
+        "hierarchy_level": 4,
+        "category": "judicial"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Advisory council to the Governor",
+        "parent_type": null
+      },
+      "legislative_council": {
+        "description": "Legislative body with nominated members",
+        "parent_type": null
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_montserrat",
+        "name": "Montserrat",
+        "type": "island",
+        "location_context": {
+          "mentioned_in_colony": "MONTSERRAT",
+          "actual_location_country": "Leeward Islands (British West Indies)",
+          "certainty": "definite",
+          "reasoning": "Primary colony described in this section"
+        },
+        "coordinates": {
+          "latitude": 16.75,
+          "longitude": -61.0,
+          "source": "Line 6"
+        },
+        "area": {
+          "value": 32.5,
+          "unit": "square_miles",
+          "source": "Line 6"
+        },
+        "geography": {
+          "formation": "volcanic",
+          "terrain": "rugged and mountainous",
+          "highest_point": "Chance's Mtn. (3,000 feet)",
+          "forest_coverage": "hills covered with forest"
+        },
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "2-6",
+          "original_text": "Its total area is 32½ square miles...highest elevation being Chance's Mtn. (3,000 feet)",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_plymouth",
+        "name": "Plymouth",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "MONTSERRAT",
+          "actual_location_country": "Montserrat",
+          "certainty": "definite",
+          "reasoning": "Chief town on south-west coast"
+        },
+        "parent_location": "place_montserrat",
+        "population": {
+          "total": 1730,
+          "year": "1930",
+          "source": "Line 6"
+        },
+        "port_data": {
+          "port_of_registry": true,
+          "vessels_registered": 4,
+          "tonnage": 134,
+          "date": "1927-12-31"
+        },
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "6",
+          "original_text": "Plymouth, the chief town, with a population of 1,730, is on an open roadstead on the south-west coast. It is a port of registry, and had, on 31st December, 1927, 4 sailing vessels, total tonnage 134 tons net.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_hh_hutchins",
+        "name": "H. H. Hutchins",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Commissioner",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "appointment_date": "1929-09",
+            "salary": {
+              "amount": 700,
+              "currency": "£",
+              "period": "annual",
+              "additional": "50l. entertainment allowance"
+            },
+            "additional_roles": ["Treasurer", "Superintendent of Works and Roads", "Superintendent of Telephones"]
+          }
+        ],
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "91, 122, 128, 160, 165",
+          "source_section": "Commissioners list, Civil Establishment",
+          "original_text": "H. H. Hutchins, September, 1929...Commissioner, H. H. Hutchins, 700l. and 50l. entertainment allowance.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_hw_peebles",
+        "name": "H. W. Peebles",
+        "titles": ["Major"],
+        "honors": ["DSO", "OBE"],
+        "positions": [
+          {
+            "title": "Commissioner",
+            "colony": "MONTSERRAT",
+            "status": "former",
+            "appointment_date": "1922-09",
+            "departure_date": "1929-09"
+          }
+        ],
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "90",
+          "source_section": "Commissioners of Montserrat",
+          "original_text": "Major H. W. Peebles, D.S.O., O.B.E., September, 1922.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_jc_mcpherson",
+        "name": "J. C. McPherson",
+        "titles": [],
+        "honors": [],
+        "biographical": {
+          "education": "M.D., C.M."
+        },
+        "positions": [
+          {
+            "title": "Senior Medical Officer",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {
+              "amount": 375,
+              "currency": "£",
+              "period": "annual",
+              "additional": "5l. drug allowance and private practice, travelling allowance 50l."
+            }
+          },
+          {
+            "title": "Medical Officer of Health",
+            "colony": "MONTSERRAT",
+            "status": "permanent"
+          }
+        ],
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "146, 148",
+          "source_section": "Medical Department",
+          "original_text": "Senior Medical Officer, J. C. McPherson, M.D., C.M., 375l., 5l. drug allowance and private practice, travelling allowance 50l...Medical Officer of Health, J. C. McPherson.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_nl_margetson",
+        "name": "N. J. L. Margetson",
+        "titles": [],
+        "honors": ["MC"],
+        "biographical": {
+          "education": "M.D., C.M., P. and S. Ont."
+        },
+        "positions": [
+          {
+            "title": "Junior Medical Officer",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {
+              "additional": "drug allowance and private practice, travelling allowance 50l."
+            }
+          }
+        ],
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "98, 111, 147",
+          "source_section": "Executive Council, Legislative Council, Medical Department",
+          "original_text": "N. J. L. Margetson...Junior Medical Officer, N. L. Margetson, M.D., C.M., M.C., P. and S. Ont. ditto, and travelling allowance 50l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_sa_mckinstry",
+        "name": "S. A. R. McKinstry",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Registrar and Provost Marshal",
+            "colony": "MONTSERRAT",
+            "status": "permanent"
+          },
+          {
+            "title": "District Magistrate",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "97, 135, 136",
+          "source_section": "Executive Council, Judicial Department",
+          "original_text": "S. A. R. McKinstry...Registrar and Provost Marshal, S. A. McKinstry. District Magistrate, S. A. McKinstry, 300l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_ca_gomez",
+        "name": "C. A. Gomez",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Curator",
+            "colony": "MONTSERRAT",
+            "department": "Agricultural",
+            "status": "permanent",
+            "salary": {
+              "amount": 250,
+              "currency": "£",
+              "period": "annual",
+              "progression": "by 10l. to 350l.",
+              "additional": "house allowance 30l., house allowance 25l."
+            }
+          }
+        ],
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "110, 169",
+          "source_section": "Legislative Council, Agricultural Department",
+          "original_text": "C. A. Gomez...Curator, C. A. Gomez, 250l. by 10l. to 350l., house allowance 30l., house allowance 25l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "MONTSERRAT",
+        "location": "Plymouth",
+        "composition": {
+          "members": ["The Colonial Secretary, of the Leeward Islands", "The Attorney-General", "S. A. R. McKinstry", "N. J. L. Margetson", "H. F. Shand", "C. Mercer", "H. R. Howes"],
+          "clerk": "J. D. Maloney"
+        },
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "93-103",
+          "source_section": "Executive Council",
+          "original_text": "Executive Council. The Colonial Secretary, of the Leeward Islands...",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "MONTSERRAT",
+        "location": "Plymouth",
+        "composition": {
+          "total_members": 10,
+          "members": ["The Governor", "The Commissioner", "O. R. Kelsick", "C. A. Gomez", "N. J. L. Margetson", "D. P. Wailling", "C. Mercer", "H. R. Howes", "R. C. Otway, O.B.E.", "A. W. Griffin"],
+          "clerk": "J. D. Maloney"
+        },
+        "notes": "Increased to 8 members by Ordinance No. 18 of 1922, unofficial representation on General Legislative Council of L.I. now provided",
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "12, 105-118",
+          "source_section": "Legislative Council",
+          "original_text": "Ordinance No. 18 of 1922 amended No. 4 of 1909 and increased the number to eight...Legislative Council. The Governor. The Commissioner...",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1928_29",
+        "type": "revenue",
+        "colony": "MONTSERRAT",
+        "year_applies": "1928-29",
+        "data": {
+          "value": 30330,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "36-47",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "1928-29 | 30,330 | 32,277",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1928",
+        "type": "exports",
+        "colony": "MONTSERRAT",
+        "year_applies": "1928",
+        "data": {
+          "value": 88378,
+          "currency": "£",
+          "breakdown": {
+            "to_uk": 73543,
+            "to_colonies": 9538,
+            "to_elsewhere": 5297
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "63-76",
+          "source_section": "Exports",
+          "original_text": "1928 | 73,543 | 9,538 | 5,297 | 88,378",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_public_debt_1928",
+        "type": "public_debt",
+        "colony": "MONTSERRAT",
+        "year_applies": "1928",
+        "data": {
+          "value": 14100,
+          "currency": "£",
+          "date": "1928-03-31"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "78",
+          "source_section": "Public Debt",
+          "original_text": "Public Debt, 31st March, 1928—14,100l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_1921",
+        "colony": "MONTSERRAT",
+        "year_applies": "1921",
+        "population": {
+          "total": 12120
+        },
+        "notes": "Census data",
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "80",
+          "source_section": "Population",
+          "original_text": "Population, Census, 1901—12,215; 1911—12,196; 1921—12,120.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_telephone_system",
+        "type": "communications",
+        "colony": "MONTSERRAT",
+        "description": "Telephonic communication throughout the Island",
+        "status": "operational",
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "30",
+          "source_section": "Infrastructure",
+          "original_text": "There is telephonic communication throughout the Island",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_wireless_station",
+        "type": "communications",
+        "colony": "MONTSERRAT",
+        "description": "Wireless Station erected in 1925",
+        "status": "operational",
+        "established_year": 1925,
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "30",
+          "source_section": "Infrastructure",
+          "original_text": "a Wireless Station was erected in 1925",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_roads",
+        "type": "roads",
+        "colony": "MONTSERRAT",
+        "description": "Roads improved and drained by masonry culverts and surface drains, continuous progress",
+        "status": "continuous_improvement",
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "24",
+          "source_section": "Infrastructure",
+          "original_text": "The roads of the island have of late years been much improved, and drained by masonry culverts and surface drains; and every year progress is made in these respects.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_prince_wales_visit_1920",
+        "type": "royal_visit",
+        "description": "H.R.H. the Prince of Wales visited Montserrat",
+        "event_date": {
+          "year": "1920",
+          "month": "9",
+          "day": "27",
+          "precision": "day"
+        },
+        "year_mentioned": "1930",
+        "locations": ["place_montserrat"],
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "28",
+          "source_section": "Events",
+          "original_text": "On 27th September, 1920, H.R.H. the Prince of Wales visited Montserrat.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_hurricane_1928",
+        "type": "natural_disaster",
+        "description": "Hurricane devastated island on 12th September, 1928, severe damage to lime cultivation",
+        "event_date": {
+          "year": "1928",
+          "month": "9",
+          "day": "12",
+          "precision": "day"
+        },
+        "impact": "Severe set back to lime cultivation",
+        "year_mentioned": "1930",
+        "locations": ["place_montserrat"],
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "14, 26",
+          "source_section": "Events",
+          "original_text": "The lime cultivation...has suffered a severe set back by the hurricane of 12th-13th September, 1928...and again on 28th August, 1924, and 12th September, 1928.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_hurricane_1924",
+        "type": "natural_disaster",
+        "description": "Hurricane on 28th August, 1924",
+        "event_date": {
+          "year": "1924",
+          "month": "8",
+          "day": "28",
+          "precision": "day"
+        },
+        "year_mentioned": "1930",
+        "locations": ["place_montserrat"],
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "26",
+          "source_section": "Events",
+          "original_text": "and again on 28th August, 1924",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_wireless_station_1925",
+        "type": "infrastructure_development",
+        "description": "Wireless Station erected",
+        "event_date": {
+          "year": "1925",
+          "precision": "year"
+        },
+        "year_mentioned": "1930",
+        "locations": ["place_montserrat"],
+        "year": "1930",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+          "source_lines": "30",
+          "source_section": "Events",
+          "original_text": "a Wireless Station was erected in 1925",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_hh_hutchins",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_legislative_council",
+      "properties": {
+        "position": "Commissioner",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_nl_margetson",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "position": "Member",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_plymouth",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_montserrat",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1930_manual_parsed/MONTSERRAT.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 24,
+    "entities_by_type": {
+      "places": 2,
+      "people": 6,
+      "institutions": 2,
+      "economic_data": 3,
+      "demographics": 1,
+      "infrastructure": 3,
+      "events": 4
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 2,
+      "LOCATED_IN": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

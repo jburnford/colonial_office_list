@@ -1,0 +1,569 @@
+{
+  "metadata": {
+    "year": "1966",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1966.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1966_manual_parsed",
+    "extraction_date": "2025-11-17T10:30:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 LLM",
+    "colonies_processed": ["BARBADOS"],
+    "processing_notes": "Complete extraction for Barbados in 1966 - final year before independence (achieved Nov 30, 1966). Shows full internal self-government structure."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "OBE": {"full_name": "Officer of the Order of the British Empire", "type": "order", "rank": 4},
+      "MBE": {"full_name": "Member of the Order of the British Empire", "type": "order", "rank": 5},
+      "CBE": {"full_name": "Commander of the Order of the British Empire", "type": "order", "rank": 3},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "KCVO": {"full_name": "Knight Commander of the Royal Victorian Order", "type": "knighthood", "rank": 2}
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Senator": {"full_form": "Senator", "category": "political"},
+      "Reverend": {"full_form": "Reverend", "category": "religious"},
+      "Right Reverend": {"full_form": "Right Reverend", "category": "religious"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor and Commander-in-Chief", "hierarchy_level": 2, "category": "executive"},
+      "Premier": {"canonical_name": "Premier", "hierarchy_level": 2, "category": "executive"},
+      "Attorney-General": {"canonical_name": "Attorney-General", "hierarchy_level": 3, "category": "judicial"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"},
+      "Minister": {"canonical_name": "Minister", "hierarchy_level": 3, "category": "executive"}
+    },
+    "institution_types": {
+      "cabinet": {"description": "Principal instrument of policy consisting of Premier and Ministers"},
+      "senate": {"description": "Upper house of Legislature with appointed members"},
+      "house_of_assembly": {"description": "Lower house of Legislature with elected members"},
+      "privy_council": {"description": "Council advising Governor on Royal Prerogative"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_barbados",
+        "name": "Barbados",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "BARBADOS",
+          "actual_location_country": "Barbados",
+          "certainty": "definite"
+        },
+        "area": {"value": 166, "unit": "square_miles", "source": "Line 5: total area is 166 square miles"},
+        "population": {"total": 244169, "year": "1964", "source": "Line 9: On the 31st December 1964, the estimated population was 244,169"},
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "1-10",
+          "original_text": "Barbados is the most easterly of the Caribbean islands. Its total area is 166 square miles.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bridgetown",
+        "name": "Bridgetown",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "BARBADOS",
+          "actual_location_country": "Barbados",
+          "certainty": "definite"
+        },
+        "population": {"value": 11304, "year": "1960", "source": "Line 13: Before the 1960 census its population was estimated at about 11,304"},
+        "parent_location": "place_barbados",
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "13",
+          "original_text": "Bridgetown, the capital, is the only town",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_john_montague_stow",
+        "name": "John Montague Stow",
+        "titles": ["Sir"],
+        "honors": [
+          {"honor": "KCMG", "full_name": "Knight Commander of the Order of St Michael and St George"},
+          {"honor": "KCVO", "full_name": "Knight Commander of the Royal Victorian Order"}
+        ],
+        "positions": [{
+          "title": "Governor and Commander-in-Chief",
+          "canonical_title": "Governor",
+          "colony": "BARBADOS",
+          "location": "Bridgetown",
+          "status": "permanent"
+        }],
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "336, 369",
+          "source_section": "GOVERNOR AND COMMANDER-IN-CHIEF",
+          "original_text": "Sir John Montague Stow, K.C.M.G., K.C.V.O.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_e_w_barrow",
+        "name": "E. W. Barrow",
+        "titles": [],
+        "honors": [],
+        "positions": [{
+          "title": "Premier and Minister of Finance",
+          "canonical_title": "Premier",
+          "colony": "BARBADOS",
+          "location": "Bridgetown",
+          "status": "permanent"
+        }],
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "338, 392",
+          "source_section": "Cabinet",
+          "original_text": "E. W. Barrow—(Premier and Minister of Finance)",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_h_a_vaughan",
+        "name": "H. A. Vaughan",
+        "titles": ["Senator"],
+        "honors": [{"honor": "OBE", "full_name": "Officer of the Order of the British Empire"}],
+        "positions": [{
+          "title": "Attorney General",
+          "canonical_title": "Attorney-General",
+          "colony": "BARBADOS",
+          "location": "Bridgetown",
+          "status": "permanent"
+        }],
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "344, 438",
+          "source_section": "Cabinet / Law Officers",
+          "original_text": "Senator H. A. Vaughan, O.B.E.—(Attorney General)",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_r_douglas",
+        "name": "W. R. Douglas",
+        "titles": [],
+        "honors": [],
+        "positions": [{
+          "title": "Chief Justice",
+          "canonical_title": "Chief Justice",
+          "colony": "BARBADOS",
+          "location": "Bridgetown",
+          "status": "permanent"
+        }],
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "447",
+          "source_section": "JUDICIARY",
+          "original_text": "Chief Justice—W. R. Douglas.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_cabinet",
+        "name": "Cabinet",
+        "type": "cabinet",
+        "colony": "BARBADOS",
+        "location": "Bridgetown",
+        "composition": {
+          "total_members": 8,
+          "note": "Consists of Premier and not less than 5 other Ministers (currently 7)"
+        },
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "42, 338-347",
+          "source_section": "Cabinet",
+          "original_text": "The Cabinet consists of the Premier and not less than 5 other Ministers—there are at present 7",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_senate",
+        "name": "Senate",
+        "type": "senate",
+        "colony": "BARBADOS",
+        "location": "Bridgetown",
+        "composition": {
+          "total_members": 21,
+          "appointed_members": 21,
+          "note": "12 appointed on advice of Premier, 2 on advice of Leader of Opposition"
+        },
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "36, 348-352",
+          "source_section": "Constitution / Senate",
+          "original_text": "an Upper House—the Senate—consisting of 21 members appointed by the Governor, twelve of whom are appointed on the advice of the Premier and two on the advice of the Leader of the Opposition",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_house_of_assembly",
+        "name": "House of Assembly",
+        "type": "house_of_assembly",
+        "colony": "BARBADOS",
+        "location": "Bridgetown",
+        "composition": {
+          "total_members": 24,
+          "elected_members": 24,
+          "note": "Elected by universal adult suffrage, 2 each for 12 electoral districts"
+        },
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "36, 354-367",
+          "source_section": "Constitution / House of Assembly",
+          "original_text": "a Lower House—the House of Assembly—consisting of 24 members elected by universal adult suffrage",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_privy_council",
+        "name": "Privy Council",
+        "type": "privy_council",
+        "colony": "BARBADOS",
+        "location": "Bridgetown",
+        "composition": {
+          "note": "Governor and other persons appointed by Her Majesty (currently 4 including Attorney-General and Premier)"
+        },
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "40, 387-393",
+          "source_section": "Privy Council",
+          "original_text": "The Privy Council consists of the Governor and other persons (at present four, including the Minister designated Attorney-General and the Premier) appointed by Her Majesty",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1964_65",
+        "type": "revenue",
+        "colony": "BARBADOS",
+        "year_applies": "1964-65",
+        "data": {
+          "value": 38493686,
+          "currency": "$",
+          "breakdown": {
+            "customs_and_excise": 18048033,
+            "direct_taxation": 13666264
+          }
+        },
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "70-71",
+          "source_section": "Public Finance",
+          "original_text": "1964–65| $38,493,686 | $31,273,011",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1964_65",
+        "type": "expenditure",
+        "colony": "BARBADOS",
+        "year_applies": "1964-65",
+        "data": {
+          "value": 31273011,
+          "currency": "$",
+          "breakdown": {
+            "social_services": 11400909,
+            "public_works": 2455722,
+            "subventions": 1968704,
+            "police_and_prisons": 2166098,
+            "charges_of_debt": 2822525,
+            "agriculture": 1227230
+          }
+        },
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "73-83",
+          "source_section": "Public Finance",
+          "original_text": "The main heads of expenditure for the same year were as follows",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1965",
+        "type": "debt",
+        "colony": "BARBADOS",
+        "year_applies": "1965",
+        "data": {
+          "value": 43234662,
+          "currency": "$",
+          "category": "Funded Public Debt",
+          "note": "Sinking Funds: $3,736,738"
+        },
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "86",
+          "source_section": "Public Finance",
+          "original_text": "The Funded Public Debt at the 1st April 1965 was $43,234,662",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1964",
+        "type": "imports",
+        "colony": "BARBADOS",
+        "year_applies": "1964",
+        "data": {"value": 108873900, "currency": "$"},
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "221",
+          "source_section": "Main Crops and Products",
+          "original_text": "1964 | 108,873,900  | 45,125,200       | 15,171,100",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1964",
+        "type": "exports",
+        "colony": "BARBADOS",
+        "year_applies": "1964",
+        "data": {"value": 45125200, "currency": "$", "note": "Domestic exports"},
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "221",
+          "source_section": "Main Crops and Products",
+          "original_text": "1964 | 108,873,900  | 45,125,200       | 15,171,100",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_seawell_airport",
+        "name": "Seawell International Airport",
+        "type": "other",
+        "colony": "BARBADOS",
+        "description": "International Airport 12 miles from Bridgetown with scheduled services by major airlines",
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "180-181",
+          "source_section": "Communications",
+          "original_text": "An International Airport is situated at Seawell, 12 miles from Bridgetown",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_roads",
+        "name": "Road Network",
+        "type": "road",
+        "colony": "BARBADOS",
+        "description": "800 miles of roads, approximately 720 miles with asphalt finish",
+        "specifications": {
+          "length": {"value": 800, "unit": "miles"},
+          "paved_length": {"value": 720, "unit": "miles"}
+        },
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "183",
+          "source_section": "Communications",
+          "original_text": "There are 800 miles of roads open of which approximately 720 miles have an asphalt finish",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_barbados_1964",
+        "colony": "BARBADOS",
+        "year_applies": "1964",
+        "population": {"total": 244169},
+        "notes": "Estimated population as of December 31, 1964",
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "9",
+          "source_section": "Population",
+          "original_text": "On the 31st December 1964, the estimated population was 244,169",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_internal_self_government_1961",
+        "type": "constitutional_change",
+        "description": "Amendments to constitution providing for full internal self-government came into operation",
+        "event_date": {"year": "1961", "month": "October", "day": "16", "precision": "exact"},
+        "year_mentioned": "1966",
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "34",
+          "source_section": "Constitution",
+          "original_text": "Amendments to the constitution, providing for full internal self-government came into operation on the 16th October 1961",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_constitutional_amendment_1964",
+        "type": "constitutional_change",
+        "description": "Further constitutional amendments made and embodied in Statutory Instrument No. 191",
+        "event_date": {"year": "1964", "month": "April", "day": "9", "precision": "exact"},
+        "year_mentioned": "1966",
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md",
+          "source_lines": "34",
+          "source_section": "Constitution",
+          "original_text": "further amendments were made and embodied in Statutory Instrument No. 191 which was brought into operation on 9th April 1964",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_john_montague_stow",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_barbados",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md", "extraction_confidence": 0.98, "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "person_e_w_barrow",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_cabinet",
+      "properties": {"position": "Premier", "confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md", "extraction_confidence": 0.98, "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "place_bridgetown",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_barbados",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "inst_cabinet",
+      "relationship_type": "PART_OF",
+      "target_id": "place_barbados",
+      "properties": {"confidence": "definite", "notes": "Principal instrument of policy"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md", "extraction_confidence": 0.98, "extraction_method": "inferred"}
+    },
+    {
+      "source_id": "inst_senate",
+      "relationship_type": "PART_OF",
+      "target_id": "place_barbados",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md", "extraction_confidence": 0.98, "extraction_method": "inferred"}
+    },
+    {
+      "source_id": "inst_house_of_assembly",
+      "relationship_type": "PART_OF",
+      "target_id": "place_barbados",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BARBADOS.md", "extraction_confidence": 0.98, "extraction_method": "inferred"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 20,
+    "entities_by_type": {"places": 2, "people": 4, "institutions": 4, "economic_data": 5, "infrastructure": 2, "demographics": 1, "events": 2},
+    "total_relationships": 6,
+    "relationships_by_type": {"GOVERNS": 1, "HOLDS_POSITION": 1, "LOCATED_IN": 1, "PART_OF": 3},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

@@ -1,0 +1,528 @@
+{
+  "summary": {
+    "years_processed": 46,
+    "total_entities": 127,
+    "avg_confidence": [],
+    "entities_by_type": {
+      "places": 50,
+      "people": 26,
+      "institutions": 6,
+      "economic_data": 6,
+      "demographics": 32,
+      "events": 7,
+      "infrastructure": 0
+    },
+    "sample_governors": [
+      {
+        "year": "1867",
+        "name": "John Peter Grant",
+        "honors": [
+          "KCB"
+        ]
+      },
+      {
+        "year": "1877",
+        "name": "Anthony Musgrave",
+        "honors": [
+          "KCMG"
+        ]
+      },
+      {
+        "year": "1880",
+        "name": "Anthony Musgrave",
+        "honors": []
+      },
+      {
+        "year": "1883",
+        "name": "Anthony Musgrave",
+        "honors": []
+      },
+      {
+        "year": "1886",
+        "name": "General Sir Henry",
+        "honors": []
+      },
+      {
+        "year": "1888",
+        "name": "General Sir Henry",
+        "honors": []
+      },
+      {
+        "year": "1909",
+        "name": "Sydney Olivier",
+        "honors": []
+      },
+      {
+        "year": "1910",
+        "name": "Sydney Olivier",
+        "honors": []
+      },
+      {
+        "year": "1911",
+        "name": "Sydney Olivier",
+        "honors": []
+      },
+      {
+        "year": "1917",
+        "name": "William Henry Manning",
+        "honors": []
+      },
+      {
+        "year": "1918",
+        "name": "William Henry Manning",
+        "honors": []
+      },
+      {
+        "year": "1919",
+        "name": "Leslie Probyn",
+        "honors": []
+      },
+      {
+        "year": "1920",
+        "name": "Leslie Probyn",
+        "honors": []
+      },
+      {
+        "year": "1921",
+        "name": "Leslie Probyn",
+        "honors": []
+      },
+      {
+        "year": "1922",
+        "name": "Leslie Probyn",
+        "honors": []
+      },
+      {
+        "year": "1923",
+        "name": "Leslie Probyn",
+        "honors": []
+      },
+      {
+        "year": "1936",
+        "name": "Edward Denham",
+        "honors": []
+      },
+      {
+        "year": "1937",
+        "name": "Edward Denham",
+        "honors": []
+      }
+    ]
+  },
+  "by_year": {
+    "1867": {
+      "places": 4,
+      "people": 7,
+      "institutions": 4,
+      "economic_data": 3,
+      "demographics": 1,
+      "events": 5,
+      "infrastructure": 0
+    },
+    "1877": {
+      "places": 2,
+      "people": 3,
+      "institutions": 2,
+      "economic_data": 3,
+      "demographics": 1,
+      "events": 2,
+      "infrastructure": 0
+    },
+    "1880": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1883": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1886": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1888": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1889": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1890": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1894": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1896": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1897": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1898": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1899": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1900": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1905": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1906": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1907": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1908": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1909": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1910": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1911": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1915": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1917": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1918": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1919": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1920": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1921": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1922": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1923": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1927": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1931": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1936": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1937": {
+      "places": 1,
+      "people": 1,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1946": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1948": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1949": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1950": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1951": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1952": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1953": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1954": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1956": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1957": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1958": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1959": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "1960": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 0
+    }
+  }
+}

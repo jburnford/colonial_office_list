@@ -1,0 +1,596 @@
+{
+  "metadata": {
+    "year": "1900",
+    "schema_version": "2.0",
+    "source_directory": "/home/user/colonial_office_list/output_2/1900_manual_parsed",
+    "extraction_date": "2025-11-17T14:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["MONTSERRAT"],
+    "processing_notes": "Turn of century extraction showing transition from sugar to lime economy, post-1899 hurricane"
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Hon": {
+        "full_form": "Honourable",
+        "category": "administrative"
+      }
+    },
+    "positions": {
+      "Commissioner": {
+        "canonical_name": "Commissioner",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Medical Officer": {
+        "canonical_name": "Medical Officer",
+        "hierarchy_level": 4,
+        "category": "medical"
+      },
+      "Treasurer": {
+        "canonical_name": "Treasurer",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Advisory council to the Governor",
+        "parent_type": null
+      },
+      "legislative_council": {
+        "description": "Legislative body replacing Assembly in 1867",
+        "parent_type": null
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_montserrat",
+        "name": "Montserrat",
+        "type": "island",
+        "location_context": {
+          "mentioned_in_colony": "MONTSERRAT",
+          "actual_location_country": "Leeward Islands (British West Indies)",
+          "certainty": "definite",
+          "reasoning": "Primary colony described in this section"
+        },
+        "coordinates": {
+          "latitude": 16.75,
+          "longitude": -61.0,
+          "source": "Line 6"
+        },
+        "area": {
+          "value": 52.5,
+          "unit": "square_miles",
+          "source": "Line 6: Its total area is 52½ square miles"
+        },
+        "geography": {
+          "formation": "volcanic",
+          "terrain": "rugged and mountainous",
+          "highest_point": "Soufrière Hill (3,000 feet)",
+          "forest_coverage": "hills covered with forest"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "2-6",
+          "original_text": "This island, discovered by Columbus in 1493...Its total area is 52½ square miles",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_plymouth",
+        "name": "Plymouth",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "MONTSERRAT",
+          "actual_location_country": "Montserrat",
+          "certainty": "definite",
+          "reasoning": "Chief town on south-west coast"
+        },
+        "parent_location": "place_montserrat",
+        "population": {
+          "total": 1500,
+          "year": "1900",
+          "source": "Line 6"
+        },
+        "port_data": {
+          "port_of_registry": true,
+          "vessels_registered": 4,
+          "tonnage": 77,
+          "date": "1897-12-31"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "6",
+          "original_text": "Plymouth, the chief town, with a population of 1,500, is on an open roadstead on the south-west coast",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_william_montgomery_gordon",
+        "name": "William Montgomery Gordon",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Commissioner",
+            "colony": "MONTSERRAT",
+            "status": "acting",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual",
+              "additional": "house, and fees"
+            },
+            "additional_roles": ["District Magistrate", "Treasurer", "Coroner", "Registrar", "Provost-Marshal", "Postmaster"]
+          }
+        ],
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "83, 105, 110, 116-117",
+          "source_section": "Executive Council, Civil Establishment",
+          "original_text": "Commissioner, District Magistrate, Treasurer, Coroner, Registrar, Provost-Marshal, and Postmaster, William Montgomery Gordon (acting), 500l., house, and fees.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_mansergh_pace_duke",
+        "name": "Mansergh Pace Duke",
+        "titles": ["Hon"],
+        "honors": [],
+        "biographical": {
+          "education": "M.R.C.P. (Dub.)"
+        },
+        "positions": [
+          {
+            "title": "Medical Officer, No. 1 District",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {
+              "amount": 225,
+              "currency": "£",
+              "period": "annual",
+              "additional": "30l. drug allowance, and fees and private practice"
+            }
+          }
+        ],
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "88, 95, 132, 151",
+          "source_section": "Executive Council, Medical Department",
+          "original_text": "Hon. Mansergh Pace Duke, M.R.C.P. (Dub.)...Medical Officer, No. 1 District, Mansergh Pace Duke, M.R.C.P. (Dub.), 225l., 30l. drug allowance, and fees and private practice.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_frederick_laing_norris",
+        "name": "Frederick Laing Norris",
+        "titles": ["Hon"],
+        "honors": [],
+        "biographical": {
+          "education": "M.B., C.M."
+        },
+        "positions": [
+          {
+            "title": "Medical Officer, No. 2 District",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {
+              "amount": 200,
+              "currency": "£",
+              "period": "annual",
+              "additional": "20l. drug allowance, and fees and private practice"
+            }
+          }
+        ],
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "97, 133",
+          "source_section": "Legislative Council, Medical Department",
+          "original_text": "Frederick Laing Norris, M.B., C.M....Medical Officer, No. 2 District, Frederick Laing Norris, M.B., C.M., 200l., 20l. drug allowance, and fees and private practice.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_henry_dyett",
+        "name": "Henry Dyett",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Commissioner's and Magistrate's Clerk and Clerk of Councils",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {
+              "amount": 65,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "90, 101, 106",
+          "source_section": "Executive Council, Civil Establishment",
+          "original_text": "Clerk, Henry Dyett...Commissioner's and Magistrate's Clerk and Clerk of Councils, Henry Dyett, 65l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_thomas_alexander_gray",
+        "name": "Thomas Alexander Gray",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Sergeant-Major",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {
+              "amount": 120,
+              "currency": "£",
+              "period": "annual",
+              "additional": "25l. for horse allowance, and 20l. in lieu of quarters"
+            }
+          },
+          {
+            "title": "Gaoler",
+            "colony": "MONTSERRAT",
+            "status": "permanent"
+          }
+        ],
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "122, 126",
+          "source_section": "Police Department, Prison Department",
+          "original_text": "Sergeant-Major, Thomas Alexander Gray, 120l., 25l. for horse allowance, and 20l. in lieu of quarters...Gaoler, Sergeant-Major Thomas Alexander Gray.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "MONTSERRAT",
+        "location": "Plymouth",
+        "composition": {
+          "members": ["The Governor", "The Commissioner", "The Colonial Secretary", "The Attorney-General", "The Auditor-General", "Hon. Henry De Courcy Hamilton", "Mansergh Pace Duke, M.R.C.P. (Dub.)", "William Henry Wilkin"],
+          "clerk": "Henry Dyett"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "80-90",
+          "source_section": "Executive Council",
+          "original_text": "Executive Council. The Governor. The Commissioner...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "MONTSERRAT",
+        "location": "Plymouth",
+        "composition": {
+          "total_members": 7,
+          "official_members": 2,
+          "unofficial_members": 5,
+          "members": ["The Governor", "The Commissioner", "Hon. Mansergh Pace Duke, M.R.C.P. (Dub.)", "Hon. Henry de Courcy Hamilton", "Frederick Laing Norris, M.B., C.M.", "Richard Hannam", "Hon. William Henry Wilkin"],
+          "clerk": "Henry Dyett"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "91-101",
+          "source_section": "Members of Legislative Council",
+          "original_text": "Members of Legislative Council. The Governor. The Commissioner...",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1898",
+        "type": "revenue",
+        "colony": "MONTSERRAT",
+        "year_applies": "1898",
+        "data": {
+          "value": 6199,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "32-43",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "1898 | 6,199 | 11,955",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1898",
+        "type": "exports",
+        "colony": "MONTSERRAT",
+        "year_applies": "1898",
+        "data": {
+          "value": 12240,
+          "currency": "£",
+          "breakdown": {
+            "to_uk": 7956,
+            "to_colonies": 1126,
+            "to_elsewhere": 3158
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "58-69",
+          "source_section": "Exports",
+          "original_text": "1898 | 7,956 | 1,126 | 3,158 | 12,240",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_public_debt_1898",
+        "type": "public_debt",
+        "colony": "MONTSERRAT",
+        "year_applies": "1898",
+        "data": {
+          "value": 17500,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "71-74",
+          "source_section": "Public Debt",
+          "original_text": "Public Debt, 31st December, 1898—17,500£.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_1891",
+        "colony": "MONTSERRAT",
+        "year_applies": "1891",
+        "population": {
+          "total": 11762
+        },
+        "notes": "Census data",
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "76",
+          "source_section": "Population",
+          "original_text": "Population, 1881—10,083; 1891—11,762.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_roads",
+        "type": "roads",
+        "colony": "MONTSERRAT",
+        "description": "Roads improved, macadamized, and drained by masonry culverts and surface drains",
+        "status": "continuous_improvement",
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "24",
+          "source_section": "Infrastructure",
+          "original_text": "The roads of the island have of late years been much improved, macadamised, and drained by masonry culverts and surface drains",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_hurricane_1899",
+        "type": "natural_disaster",
+        "description": "On 7th August, 1899, the island was devastated by a fearful hurricane",
+        "event_date": {
+          "year": "1899",
+          "month": "8",
+          "day": "7",
+          "precision": "day"
+        },
+        "impact": "Devastated island, destroyed nearly all lime trees in northern part",
+        "year_mentioned": "1900",
+        "locations": ["place_montserrat"],
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "18, 26",
+          "source_section": "Events",
+          "original_text": "nearly all the trees were destroyed by the hurricane of 7th August, 1899...On 7th August, 1899, the island was devastated by a fearful hurricane.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_legislative_change_1867",
+        "type": "constitutional_change",
+        "description": "Legislative Assembly replaced by Legislative Council",
+        "event_date": {
+          "year": "1867",
+          "month": "2",
+          "day": "26",
+          "precision": "day"
+        },
+        "year_mentioned": "1900",
+        "locations": ["place_montserrat"],
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+          "source_lines": "12",
+          "source_section": "Constitutional History",
+          "original_text": "By an Act of the Legislative Assembly, dated 24th Dec., 1866, and confirmed by Order in Council 26th Feb., 1867, instead of a Legislative Assembly, a Legislative Council was established",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_william_montgomery_gordon",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "position": "Commissioner",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_mansergh_pace_duke",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "position": "Member",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_plymouth",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_montserrat",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/MONTSERRAT.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 18,
+    "entities_by_type": {
+      "places": 2,
+      "people": 5,
+      "institutions": 2,
+      "economic_data": 3,
+      "demographics": 1,
+      "infrastructure": 1,
+      "events": 2
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 2,
+      "LOCATED_IN": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

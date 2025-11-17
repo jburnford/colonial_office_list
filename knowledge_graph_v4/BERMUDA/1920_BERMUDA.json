@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "year": "1920",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1920.pdf",
+    "source_directory": "output_2/1920_manual_parsed",
+    "extraction_date": "2025-11-17T11:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["BERMUDA"],
+    "processing_notes": "Post-WWI era, includes war contribution data and Boer prisoner information"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "GCMG": {"full_name": "Knight Grand Cross of the Order of St Michael and St George", "type": "knighthood", "rank": 1},
+      "KCB": {"full_name": "Knight Commander of the Order of the Bath", "type": "knighthood", "rank": 2},
+      "KCSI": {"full_name": "Knight Commander of the Order of the Star of India", "type": "knighthood", "rank": 2},
+      "DSO": {"full_name": "Distinguished Service Order", "type": "decoration", "rank": 2},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "CB": {"full_name": "Companion of the Order of the Bath", "type": "order", "rank": 3},
+      "OBE": {"full_name": "Officer of the Order of the British Empire", "type": "order", "rank": 4},
+      "ISO": {"full_name": "Imperial Service Order", "type": "order", "rank": 4}
+    },
+    "titles": {
+      "General": {"full_form": "General", "category": "military"},
+      "Lieut.-Gen": {"full_form": "Lieutenant-General", "category": "military"},
+      "Lt. Col": {"full_form": "Lieutenant-Colonel", "category": "military"},
+      "Major": {"full_form": "Major", "category": "military"},
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Dr": {"full_form": "Doctor", "category": "academic"}
+    },
+    "positions": {
+      "Governor and Commander-in-Chief": {"canonical_name": "Governor and Commander-in-Chief", "hierarchy_level": 2, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Receiver-General": {"canonical_name": "Receiver-General", "hierarchy_level": 3, "category": "administrative"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_bermuda",
+        "name": "Bermuda",
+        "type": "colony",
+        "alternative_names": ["Bermudas", "Somers' Islands"],
+        "location_context": {"mentioned_in_colony": "BERMUDA", "actual_location_country": "Bermuda", "certainty": "definite"},
+        "coordinates": {"latitude": 32.25, "longitude": -64.85, "source": "lat. 32° 15' N., and long. 64° 51' W."},
+        "area": {"value": 19, "unit": "square_miles", "source": "total area is estimated at 19 square miles"},
+        "population": {"total": 20127, "year": "1921", "breakdown": {"white": 7006, "coloured": 13121}, "source": "Census 1921"},
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "1-7", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_hamilton",
+        "name": "Hamilton",
+        "type": "city",
+        "location_context": {"mentioned_in_colony": "BERMUDA", "actual_location_country": "Bermuda", "certainty": "definite"},
+        "population": {"total": 2627, "year": "1911", "source": "Population of Hamilton, 2,627"},
+        "parent_location": "place_bermuda",
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "18", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_st_georges",
+        "name": "St. George",
+        "type": "town",
+        "location_context": {"mentioned_in_colony": "BERMUDA", "actual_location_country": "Bermuda", "certainty": "definite"},
+        "population": {"total": 1079, "year": "1911", "source": "of St. George's, 1,079"},
+        "parent_location": "place_bermuda",
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "20", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "people": [
+      {
+        "id": "person_james_willcocks",
+        "name": "James Willcocks",
+        "titles": ["General", "Sir"],
+        "honors": [
+          {"honor": "GCMG", "full_name": "Knight Grand Cross of the Order of St Michael and St George"},
+          {"honor": "KCB", "full_name": "Knight Commander of the Order of the Bath"},
+          {"honor": "KCSI", "full_name": "Knight Commander of the Order of the Star of India"},
+          {"honor": "DSO", "full_name": "Distinguished Service Order"}
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "colony": "BERMUDA",
+            "location": "Hamilton",
+            "status": "permanent",
+            "start_date": "1917",
+            "salary": {"amount": 3300, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "184, 190, 262", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_w_e_f_jackson",
+        "name": "W. E. F. Jackson",
+        "honors": [{"honor": "CMG", "full_name": "Companion of the Order of St Michael and St George"}],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "BERMUDA",
+            "status": "permanent",
+            "salary": {"amount": 500, "currency": "£", "period": "annual"},
+            "notes": "plus fees"
+          }
+        ],
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "190, 266", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_colin_rees_davies",
+        "name": "Colin Rees-Davies",
+        "titles": ["K.C."],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "BERMUDA",
+            "status": "permanent",
+            "salary": {"amount": 1000, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "198", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_a_f_smith",
+        "name": "Allan F. Smith",
+        "honors": [{"honor": "ISO", "full_name": "Imperial Service Order"}],
+        "positions": [
+          {
+            "title": "Receiver-General",
+            "colony": "BERMUDA",
+            "status": "permanent",
+            "salary": {"amount": 500, "currency": "£", "period": "annual"},
+            "notes": "plus fees; also Comptroller of Customs"
+          }
+        ],
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "190, 273", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "BERMUDA",
+        "location": "Hamilton",
+        "composition": {"total_members": 8, "official_members": 4, "unofficial_members": 3, "ex_officio_members": 4},
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "188-191", "extraction_confidence": 0.97, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "BERMUDA",
+        "location": "Hamilton",
+        "composition": {"total_members": 9, "official_members": 3, "unofficial_members": 6},
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "197-199", "extraction_confidence": 0.97, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "inst_house_of_assembly",
+        "name": "House of Assembly",
+        "type": "house_of_assembly",
+        "colony": "BERMUDA",
+        "location": "Hamilton",
+        "composition": {"total_members": 36, "elected_members": 36, "notes": "Four members from each of nine parishes. 1,413 electors. Qualification: freehold of £60 value."},
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "100, 201-259", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1918",
+        "type": "revenue",
+        "colony": "BERMUDA",
+        "year_applies": "1918",
+        "data": {"value": 91645, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "121", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_expenditure_1918",
+        "type": "expenditure",
+        "colony": "BERMUDA",
+        "year_applies": "1918",
+        "data": {"value": 90694, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "121", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_imports_1918",
+        "type": "imports",
+        "colony": "BERMUDA",
+        "year_applies": "1918",
+        "data": {"value": 692742, "currency": "£", "breakdown": {"from_uk": 35773, "from_colonies": 221673, "from_elsewhere": 435296}},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "144", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_debt_1917",
+        "type": "debt",
+        "colony": "BERMUDA",
+        "year_applies": "1917",
+        "data": {"value": 40000, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "123", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [],
+    "events": [
+      {
+        "id": "event_wwi_contribution_1914",
+        "type": "other",
+        "description": "In 1914 the Legislature voted the sum of £51,750, payable in fifteen yearly instalments, as a contribution to the Imperial Treasury in aid of the war fund, representing a lump sum present value of £40,000",
+        "event_date": {"year": "1914", "precision": "year"},
+        "year_mentioned": "1920",
+        "locations": ["place_bermuda"],
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "29-31", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "event_boer_prisoners_1899_1902",
+        "type": "other",
+        "description": "A number of Boer prisoners of war were confined in the Colony during the South African War (1899-1902)",
+        "event_date": {"year": "1899", "precision": "year"},
+        "year_mentioned": "1920",
+        "locations": ["place_bermuda"],
+        "year": "1920",
+        "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "source_lines": "27", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_james_willcocks",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_bermuda",
+      "properties": {"position": "Governor and Commander-in-Chief", "confidence": "definite"},
+      "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "place_hamilton",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_bermuda",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "place_st_georges",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_bermuda",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "output_2/1920_manual_parsed/BERMUDA.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 18,
+    "entities_by_type": {"places": 3, "people": 4, "institutions": 3, "economic_data": 4, "infrastructure": 0, "demographics": 0, "events": 2},
+    "total_relationships": 3,
+    "relationships_by_type": {"GOVERNS": 1, "LOCATED_IN": 2},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

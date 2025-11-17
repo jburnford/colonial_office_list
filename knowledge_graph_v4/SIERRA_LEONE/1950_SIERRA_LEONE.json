@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "year": "1950",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1950.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1950_manual_parsed",
+    "extraction_date": "2025-11-17T12:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["SIERRA_LEONE"],
+    "processing_notes": "Comprehensive post-WWII data showing modern colonial administration, extensive economic data, infrastructure development (diamonds, iron ore), and constitutional reform discussions."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "OBE": {"full_name": "Officer of the Order of the British Empire", "type": "order", "rank": 4},
+      "MBE": {"full_name": "Member of the Order of the British Empire", "type": "order", "rank": 5}
+    },
+    "titles": {"Sir": {"full_form": "Sir", "category": "nobility"}},
+    "positions": {
+      "Governor": {"canonical_name": "Governor and Commander-in-Chief", "hierarchy_level": 1, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Chief Commissioner": {"canonical_name": "Chief Commissioner", "hierarchy_level": 3, "category": "administrative"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_sierra_leone",
+        "name": "Colony and Protectorate of Sierra Leone",
+        "type": "colony",
+        "year": "1950",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "area": {"value": 27925, "unit": "square_miles", "source": "Line 4"},
+        "coordinates": {"latitude": 8.5, "longitude": -11.75, "source": "Lines 4-5: between 6° 55' and 10° N. latitude, and 10° 16' and 13° 18' W. longitude"},
+        "population": {"total": 1858275, "year": "1947", "breakdown": {"colony": 124657, "protectorate": 1733618}, "source": "Lines 35-44"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "source_lines": "1-44", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_freetown",
+        "name": "Freetown",
+        "type": "city",
+        "year": "1950",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "source_lines": "18-20", "original_text": "Freetown, the seat of Government", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_bo",
+        "name": "Bo",
+        "type": "town",
+        "year": "1950",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite", "reasoning": "Headquarters of Chief Commissioner in Protectorate"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "source_lines": "96", "original_text": "Chief Commissioner, whose headquarters are at Bo", "extraction_confidence": 0.97, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "people": [
+      {
+        "id": "person_george_beresford_stooke",
+        "name": "George Beresford-Stooke",
+        "name_variants": ["Sir George Beresford-Stooke"],
+        "titles": ["Sir"],
+        "honors": [{"honor": "KCMG", "full_name": "Knight Commander of the Order of St Michael and St George"}],
+        "positions": [{"title": "Governor and Commander-in-Chief", "colony": "SIERRA_LEONE", "location": "Freetown", "status": "permanent", "salary": {"amount": 3000, "currency": "£", "period": "annual"}, "allowances": [{"type": "duty allowance", "amount": 1000, "currency": "£"}]}],
+        "year": "1950",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "source_lines": "419", "source_section": "GOVERNOR AND PERSONAL STAFF", "original_text": "Governor, Commander-in-Chief and Vice-Admiral—Sir George Beresford-Stooke, K.C.M.G. £3,000 and £1,000 duty allowance.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_robert_ramage",
+        "name": "R. O. Ramage",
+        "name_variants": ["Robert O. Ramage"],
+        "titles": [],
+        "honors": [{"honor": "CMG", "full_name": "Companion of the Order of St Michael and St George"}],
+        "positions": [{"title": "Colonial Secretary", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 1650, "currency": "£", "period": "annual"}}],
+        "year": "1950",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "source_lines": "427", "source_section": "Colonial Secretary's Office", "original_text": "Colonial Secretary—R. O. Ramage, C.M.G. £1,650.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_henry_childs",
+        "name": "H. Childs",
+        "name_variants": ["Henry Childs"],
+        "titles": [],
+        "honors": [{"honor": "OBE", "full_name": "Officer of the Order of the British Empire"}],
+        "positions": [{"title": "Chief Commissioner", "colony": "SIERRA_LEONE", "location": "Bo", "status": "permanent", "salary": {"amount": 1500, "currency": "£", "period": "annual"}}],
+        "year": "1950",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "source_lines": "437", "source_section": "Provincial Administration", "original_text": "Chief Commissioner—H. Childs, O.B.E. £1,500.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "SIERRA_LEONE",
+        "year": "1950",
+        "composition": {"total_members": 8, "official_members": 5, "unofficial_members": 3},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "source_lines": "311-328", "source_section": "EXECUTIVE COUNCIL", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "SIERRA_LEONE",
+        "year": "1950",
+        "composition": {"total_members": 21, "official_members": 10, "elected_members": 3, "nominated_members": 8},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "source_lines": "330-354", "source_section": "LEGISLATIVE COUNCIL", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1948",
+        "type": "revenue",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1948",
+        "year": "1950",
+        "data": {"value": 2648983, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "source_lines": "207-222", "source_section": "PUBLIC FINANCE", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_expenditure_1948",
+        "type": "expenditure",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1948",
+        "year": "1950",
+        "data": {"value": 2172031, "currency": "£", "breakdown": {"development_scheme": 364991, "provincial_administration": 108806, "medical_services": 203483, "agriculture": 72972, "education": 102569}},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "source_lines": "207-228", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_imports_1948",
+        "type": "imports",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1948",
+        "year": "1950",
+        "data": {"value": 4979350, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "source_lines": "232-264", "source_section": "PRODUCTION AND TRADE", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_exports_1948",
+        "type": "exports",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1948",
+        "year": "1950",
+        "data": {"value": 4486427, "currency": "£", "category": "total exports including diamonds", "breakdown": {"palm_kernels": 1744591, "note": "Diamonds excluded from official figures"}},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "source_lines": "232-279", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_population_1947",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1947",
+        "year": "1950",
+        "population": {"total": 1858275, "breakdown": {"colony_total": 124657, "protectorate_total": 1733618, "europeans": 964, "asiatics": 2074, "african_natives": 1825097, "african_non_natives": 30140}},
+        "notes": "Census held in 1947 showing breakdown by Colony/Protectorate and ethnic categories",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "source_lines": "33-50", "source_section": "POPULATION", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway_government",
+        "name": "Sierra Leone Government Railway",
+        "type": "railway",
+        "colony": "SIERRA_LEONE",
+        "year": "1950",
+        "description": "Main line from Freetown to Pendembu with branch to Makieni",
+        "specifications": {"gauge": "2 feet 6 inches", "main_line_length": {"value": 227.5, "unit": "miles"}, "branch_length": {"value": 82.5, "unit": "miles"}, "total_stations": 50},
+        "operation": {"revenue": 410636, "expenses": 491987, "year": "1948", "currency": "£"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "source_lines": "164-169", "source_section": "COMMUNICATIONS > Railways", "original_text": "The main line...runs from the Freetown terminus to Pendembu...227½ miles...branch line runs to Makieni, a distance of 82½ miles...total revenue and expenditure...were £410,636 and £491,987", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "infra_marampa_railway",
+        "name": "Marampa Railway",
+        "type": "railway",
+        "colony": "SIERRA_LEONE",
+        "year": "1950",
+        "description": "Private railway for iron ore transport",
+        "specifications": {"gauge": "3 feet 6 inches", "length": {"value": 57.5, "unit": "miles"}, "ownership": "Sierra Leone Development Company, Limited"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "source_lines": "166-167", "original_text": "Marampa Railway (3 feet 6 inches gauge) running from the iron ore deposits at Marampa to Pepel...57½ miles long...owned by the Sierra Leone Development Company", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "person_george_beresford_stooke",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_sierra_leone",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "person_henry_childs",
+      "relationship_type": "STATIONED_AT",
+      "target_id": "place_bo",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.97, "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "place_freetown",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_sierra_leone",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.99, "extraction_method": "inferred"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 17,
+    "entities_by_type": {"places": 3, "people": 3, "institutions": 2, "economic_data": 4, "demographics": 1, "infrastructure": 2, "events": 0},
+    "total_relationships": 3,
+    "relationships_by_type": {"GOVERNS": 1, "STATIONED_AT": 1, "LOCATED_IN": 1},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

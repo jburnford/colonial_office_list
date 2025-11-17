@@ -1,0 +1,816 @@
+{
+  "metadata": {
+    "year": "1867",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1867.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1867_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["BAHAMAS"],
+    "processing_notes": "First year of BAHAMAS data extraction. Complete civil, judicial and ecclesiastical establishments extracted."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Dr": {
+        "full_form": "Doctor",
+        "category": "academic"
+      },
+      "M.D.": {
+        "full_form": "Doctor of Medicine",
+        "category": "academic"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor",
+        "hierarchy_level": 1,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Advisory council to the Governor",
+        "parent_type": null
+      },
+      "legislative_council": {
+        "description": "Legislative body of the colony",
+        "parent_type": null
+      },
+      "house_of_assembly": {
+        "description": "Lower house in bicameral legislatures",
+        "parent_type": null
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_bahamas",
+        "name": "BAHAMAS",
+        "type": "colony",
+        "year": "1867",
+        "description": "Chain of islands between 21° and 27° 30' N. lat., and 70° 30' and 79° 5' W. long.",
+        "location_context": {
+          "mentioned_in_colony": "BAHAMAS",
+          "actual_location_country": "BAHAMAS",
+          "certainty": "definite",
+          "reasoning": "Primary colony entry"
+        },
+        "area": {
+          "value": 20,
+          "unit": "inhabited islands",
+          "source": "Line 2"
+        },
+        "population": {
+          "total": 35287,
+          "year": "1861",
+          "source": "Line 40"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "1-2",
+          "source_section": "BAHAMAS",
+          "original_text": "BAHAMAS. A chain of islands lying between 21° and 27° 30' N. lat., and 70° 30' and 79° 5' W. long. The group is composed of about 20 inhabited islands",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_nassau",
+        "name": "Nassau",
+        "type": "city",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "BAHAMAS",
+          "actual_location_country": "BAHAMAS",
+          "certainty": "definite",
+          "reasoning": "Capital city on New Providence Island"
+        },
+        "parent_location": "place_new_providence",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "2",
+          "source_section": "BAHAMAS",
+          "original_text": "New Providence (containing the capital, Nassau)",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_new_providence",
+        "name": "New Providence",
+        "type": "island",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "BAHAMAS",
+          "actual_location_country": "BAHAMAS",
+          "certainty": "definite",
+          "reasoning": "Principal island containing the capital"
+        },
+        "parent_location": "place_bahamas",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "2",
+          "original_text": "The principal islands are New Providence (containing the capital, Nassau)",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_harbour_island",
+        "name": "Harbour Island",
+        "type": "island",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "BAHAMAS",
+          "actual_location_country": "BAHAMAS",
+          "certainty": "definite",
+          "reasoning": "Listed as principal island"
+        },
+        "parent_location": "place_bahamas",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "2",
+          "original_text": "Harbour Island",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_abaco",
+        "name": "Abaco",
+        "type": "island",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "BAHAMAS",
+          "actual_location_country": "BAHAMAS",
+          "certainty": "definite",
+          "reasoning": "Listed as principal island"
+        },
+        "parent_location": "place_bahamas",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "2",
+          "original_text": "Abaco",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_eleuthera",
+        "name": "Eleuthera",
+        "type": "island",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "BAHAMAS",
+          "actual_location_country": "BAHAMAS",
+          "certainty": "definite",
+          "reasoning": "Listed as principal island"
+        },
+        "parent_location": "place_bahamas",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "2",
+          "original_text": "Eleuthera",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_inagua",
+        "name": "Inagua",
+        "name_variants": ["Heneagua"],
+        "type": "island",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "BAHAMAS",
+          "actual_location_country": "BAHAMAS",
+          "certainty": "definite",
+          "reasoning": "Listed as principal island"
+        },
+        "parent_location": "place_bahamas",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "2",
+          "original_text": "Heneagua or Inagua",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_san_salvador",
+        "name": "St. Salvador",
+        "name_variants": ["San Salvador"],
+        "type": "island",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "BAHAMAS",
+          "actual_location_country": "BAHAMAS",
+          "certainty": "definite",
+          "reasoning": "First land discovered by Columbus in 1492"
+        },
+        "parent_location": "place_bahamas",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "2, 4",
+          "original_text": "St. Salvador, one of the islands composing this chain, was the first land discovered by Columbus on his voyage in 1492",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_rawson_wm_rawson",
+        "name": "Rawson Wm. Rawson",
+        "name_variants": ["R. W. Rawson"],
+        "titles": [],
+        "honors": [
+          {
+            "honor": "CB",
+            "full_name": "Companion of the Order of the Bath"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "canonical_title": "Governor",
+            "colony": "BAHAMAS",
+            "location": "Nassau",
+            "status": "permanent",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "42",
+          "source_section": "BAHAMAS > Government",
+          "original_text": "Governor and Commander-in-Chief, Chancellor, Vice-Admiral and Ordinary, Rawson Wm. Rawson, C.B., 3,000l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_ponsonby_w_moore",
+        "name": "Ponsonby W. Moore",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Private Secretary",
+            "canonical_title": "Private Secretary",
+            "colony": "BAHAMAS",
+            "location": "Nassau",
+            "status": "permanent"
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "43",
+          "source_section": "BAHAMAS > Government",
+          "original_text": "Private Secretary, Ponsonby W. Moore.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_cr_nesbitt",
+        "name": "C.R. Nesbitt",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary and Clerk of Council",
+            "canonical_title": "Colonial Secretary",
+            "colony": "BAHAMAS",
+            "location": "Nassau",
+            "status": "permanent",
+            "salary": {
+              "amount": 942,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "81",
+          "source_section": "BAHAMAS > Civil Establishment",
+          "original_text": "Colonial Secretary and Clerk of Council, C.R. Nesbitt, 942l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_wh_doyle",
+        "name": "W. H. Doyle",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Justice, Chancellor, and Judge of Admiralty",
+            "canonical_title": "Chief Justice",
+            "colony": "BAHAMAS",
+            "location": "Nassau",
+            "status": "permanent",
+            "salary": {
+              "amount": 1030,
+              "currency": "£",
+              "period": "annual",
+              "notes": "and fees"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "105",
+          "source_section": "BAHAMAS > Judicial Establishment",
+          "original_text": "Chief Justice, Chancellor, and Judge of Admiralty, W. H. Doyle, 1,030l. and fees.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_addington_venables",
+        "name": "Addington R. P. Venables",
+        "titles": ["Rev", "Bishop"],
+        "honors": [],
+        "biographical": {
+          "education": "D.D."
+        },
+        "positions": [
+          {
+            "title": "Bishop of Nassau",
+            "canonical_title": "Bishop",
+            "colony": "BAHAMAS",
+            "location": "Nassau",
+            "status": "permanent",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "122",
+          "source_section": "BAHAMAS > Ecclesiastical Establishment",
+          "original_text": "Bishop of Nassau, Rev. Addington R. P. Venables, D.D., 1,000l.",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "BAHAMAS",
+        "location": "Nassau",
+        "year": "1867",
+        "composition": {
+          "total_members": 8
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "13, 46-50",
+          "source_section": "BAHAMAS > Constitution > Executive Council",
+          "original_text": "Consists of a Governor, aided by an Executive Council of 8 members",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "BAHAMAS",
+        "location": "Nassau",
+        "year": "1867",
+        "composition": {
+          "total_members": 10
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "13, 52-56",
+          "source_section": "BAHAMAS > Constitution > Legislative Council",
+          "original_text": "a Legislative Council of 10 members",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_house_of_assembly",
+        "name": "House of Assembly",
+        "type": "house_of_assembly",
+        "colony": "BAHAMAS",
+        "location": "Nassau",
+        "year": "1867",
+        "composition": {
+          "total_members": 28
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "13, 58-77",
+          "source_section": "BAHAMAS > Constitution > House of Assembly",
+          "original_text": "a Representative Assembly of 28 members",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1865",
+        "type": "revenue",
+        "colony": "BAHAMAS",
+        "year_applies": "1865",
+        "year": "1867",
+        "data": {
+          "value": 84488,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "24",
+          "source_section": "BAHAMAS > Revenue and Expenditure",
+          "original_text": "1865 | 84,488 | 78,549",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1865",
+        "type": "expenditure",
+        "colony": "BAHAMAS",
+        "year_applies": "1865",
+        "year": "1867",
+        "data": {
+          "value": 78549,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "24",
+          "source_section": "BAHAMAS > Revenue and Expenditure",
+          "original_text": "1865 | 84,488 | 78,549",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1865",
+        "type": "imports",
+        "colony": "BAHAMAS",
+        "year_applies": "1865",
+        "year": "1867",
+        "data": {
+          "value": 1470467,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "36",
+          "source_section": "BAHAMAS > Imports and Exports",
+          "original_text": "1865 | 1,470,467 | 2,063,474",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1865",
+        "type": "exports",
+        "colony": "BAHAMAS",
+        "year_applies": "1865",
+        "year": "1867",
+        "data": {
+          "value": 2063474,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "36",
+          "source_section": "BAHAMAS > Imports and Exports",
+          "original_text": "1865 | 1,470,467 | 2,063,474",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_population_1861",
+        "colony": "BAHAMAS",
+        "year": "1867",
+        "year_applies": "1861",
+        "population": {
+          "total": 35287
+        },
+        "notes": "Census 1861",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "40",
+          "source_section": "BAHAMAS > Population",
+          "original_text": "35,287 (Census 1861).",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_columbus_discovery_1492",
+        "type": "other",
+        "description": "St. Salvador was the first land discovered by Columbus on his voyage in 1492",
+        "event_date": {
+          "year": "1492",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "locations": ["place_san_salvador"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "4",
+          "source_section": "BAHAMAS > History",
+          "original_text": "St. Salvador, one of the islands composing this chain, was the first land discovered by Columbus on his voyage in 1492.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_english_settlement_1629",
+        "type": "establishment",
+        "description": "New Providence was settled by the English in 1629",
+        "event_date": {
+          "year": "1629",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "locations": ["place_new_providence"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "4",
+          "source_section": "BAHAMAS > History",
+          "original_text": "New Providence was settled by the English in 1629",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_peace_versailles_1783",
+        "type": "treaty",
+        "description": "The Bahamas were finally confirmed to Great Britain by the Peace of Versailles, 1783",
+        "event_date": {
+          "year": "1783",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "locations": ["place_bahamas"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "4",
+          "source_section": "BAHAMAS > History",
+          "original_text": "at the conclusion of the war they were once more annexed and finally confirmed to Great Britain by the Peace of Versailles, 1783",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_separation_turks_caicos_1848",
+        "type": "constitutional_change",
+        "description": "The Turks and Caicos Islands were separated from the other Bahamas and formed into a distinct Government under Jamaica",
+        "event_date": {
+          "year": "1848",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "6",
+          "source_section": "BAHAMAS > History",
+          "original_text": "In 1848 the Turks and Caicos Islands were separated from the other Bahamas, and formed into a distinct Government, under the Government-in-Chief of the Governor of Jamaica.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_nassau",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_new_providence",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_new_providence",
+      "relationship_type": "PART_OF",
+      "target_id": "place_bahamas",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "person_rawson_wm_rawson",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_bahamas",
+      "properties": {
+        "position": "Governor",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_cr_nesbitt",
+      "relationship_type": "REPORTS_TO",
+      "target_id": "person_rawson_wm_rawson",
+      "properties": {
+        "confidence": "inferred",
+        "reasoning": "Colonial Secretary reports to Governor"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+        "extraction_confidence": 0.85,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "event_columbus_discovery_1492",
+      "relationship_type": "OCCURRED_IN",
+      "target_id": "place_san_salvador",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BAHAMAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 25,
+    "entities_by_type": {
+      "places": 8,
+      "people": 5,
+      "institutions": 3,
+      "economic_data": 4,
+      "demographics": 1,
+      "events": 4
+    },
+    "total_relationships": 5,
+    "relationships_by_type": {
+      "LOCATED_IN": 1,
+      "PART_OF": 1,
+      "GOVERNS": 1,
+      "REPORTS_TO": 1,
+      "OCCURRED_IN": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

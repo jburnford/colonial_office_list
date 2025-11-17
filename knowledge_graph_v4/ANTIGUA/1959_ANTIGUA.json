@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "year": "1959",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1959.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1959_manual_parsed",
+    "extraction_date": "2025-11-17T21:33:28.643076",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": [
+      "ANTIGUA"
+    ],
+    "processing_notes": "Extracted from 1959 Colonial Office List"
+  },
+  "colony_info": {
+    "official_name": "Antigua",
+    "colonial_status": "Part of Leeward Islands",
+    "part_of_federation": "Leeward Islands",
+    "capital": null
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_antigua",
+        "name": "Antigua",
+        "type": "colony",
+        "year": "1959",
+        "location_context": {
+          "mentioned_in_colony": "ANTIGUA",
+          "actual_location_country": "Antigua",
+          "certainty": "definite"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1959_manual_parsed/ANTIGUA.md",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:33:28.643079",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "people": [],
+    "institutions": [],
+    "economic_data": [],
+    "demographics": [],
+    "infrastructure": [],
+    "events": []
+  },
+  "relationships": [],
+  "extraction_statistics": {
+    "total_entities": 1,
+    "entities_by_type": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "total_relationships": 0,
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

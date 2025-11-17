@@ -1,0 +1,662 @@
+{
+  "metadata": {
+    "year": "1950",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1950.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1950_manual_parsed",
+    "extraction_date": "2025-11-17T10:30:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM-based extraction)",
+    "colonies_processed": ["MAURITIUS"],
+    "processing_notes": "Mid-century extraction (1950). Post-WWII period with extensive government structure, economic data, and infrastructure details. Constitutional changes of 1947 reflected."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "OBE": {
+        "full_name": "Officer of the Order of the British Empire",
+        "type": "order",
+        "rank": 4
+      },
+      "MBE": {
+        "full_name": "Member of the Order of the British Empire",
+        "type": "order",
+        "rank": 5
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Right Rev": {
+        "full_form": "Right Reverend",
+        "category": "religious"
+      },
+      "Dr": {
+        "full_form": "Doctor",
+        "category": "academic"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor and Commander-in-Chief",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Financial Secretary": {
+        "canonical_name": "Financial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_mauritius",
+        "name": "Mauritius",
+        "type": "colony",
+        "year": "1950",
+        "area": {
+          "value": 720,
+          "unit": "square_miles",
+          "source": "Line 5"
+        },
+        "population": {
+          "total": 419185,
+          "year": "1944",
+          "breakdown": {
+            "general": 143056,
+            "indo_mauritians": 265247,
+            "chinese": 10882
+          },
+          "source": "Lines 73-78"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "1-8",
+          "original_text": "Mauritius is an island in the Indian Ocean... comprises an area of about 720 square miles",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_port_louis",
+        "name": "Port Louis",
+        "type": "city",
+        "year": "1950",
+        "role": "capital",
+        "parent_location": "place_mauritius",
+        "population": {
+          "total": 65962,
+          "year": "1944",
+          "source": "Line 30"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "30",
+          "original_text": "The city of Port Louis is the capital and seat of government, and contained, with its suburbs, an estimated population of 65,962 at the census enumeration of 11th June, 1944.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_curepipe",
+        "name": "Curepipe",
+        "type": "town",
+        "year": "1950",
+        "parent_location": "place_mauritius",
+        "population": {
+          "total": 27468,
+          "year": "1944",
+          "source": "Line 38"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "38",
+          "original_text": "After Port Louis the largest town is Curepipe, incorporated in 1890 (population 27,468, census of 1944)",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_mahebourg",
+        "name": "Mahebourg",
+        "type": "town",
+        "year": "1950",
+        "parent_location": "place_mauritius",
+        "population": {
+          "total": 9919,
+          "year": "1944",
+          "source": "Line 40"
+        },
+        "location_context": {
+          "mentioned_in_colony": "MAURITIUS",
+          "actual_location_country": "Mauritius",
+          "certainty": "definite",
+          "reasoning": "Named in honor of Mahé de Labourdonnais (French location context)"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "40",
+          "original_text": "In the district of Grand Port is the small town of Mahebourg (population 9,919, census of 1944), so called in honour of Mahé de Labourdonnais.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_rodrigues",
+        "name": "Rodrigues",
+        "type": "island",
+        "year": "1950",
+        "parent_location": "place_mauritius",
+        "population": {
+          "total": 11885,
+          "year": "1944",
+          "source": "Line 393"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "393",
+          "original_text": "The population at the census of 11th June, 1944, was 11,885.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_hilary_blood",
+        "name": "Hilary Rudolph Robert Blood",
+        "year": "1950",
+        "titles": ["Sir"],
+        "honors": [
+          {
+            "honor": "KCMG",
+            "full_name": "Knight Commander of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "colony": "MAURITIUS",
+            "status": "permanent",
+            "start_date": "1949",
+            "salary": {
+              "amount": 50000,
+              "currency": "Rs",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "duty",
+                "amount": 10000,
+                "currency": "Rs"
+              }
+            ]
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "476, 566",
+          "source_section": "Governors / Civil Establishment",
+          "original_text": "1949 Sir Hilary Rudolph Robert Blood, K.C.M.G. ... Rs. 50,000 plus duty allowance, Rs. 10,000.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_jd_harford",
+        "name": "J. D. Harford",
+        "year": "1950",
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "MAURITIUS",
+            "status": "permanent",
+            "salary": {
+              "amount": 24000,
+              "currency": "Rs",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "572",
+          "source_section": "Central Administration - Secretariat",
+          "original_text": "Colonial Secretary—J. D. Harford, C.M.G., Rs. 24,000.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_es_oconnor",
+        "name": "E. S. O'Connor",
+        "year": "1950",
+        "positions": [
+          {
+            "title": "Financial Secretary",
+            "colony": "MAURITIUS",
+            "status": "permanent",
+            "salary": {
+              "amount": 20000,
+              "currency": "Rs",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "573",
+          "source_section": "Central Administration - Secretariat",
+          "original_text": "Financial Secretary—E. S. O'Connor. Rs. 20,000.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_mjbf_herchenroder",
+        "name": "M. J. B. F. Herchenroder",
+        "year": "1950",
+        "titles": ["K.C."],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "MAURITIUS",
+            "status": "permanent",
+            "salary": {
+              "amount": 25000,
+              "currency": "Rs",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "815",
+          "source_section": "Judicial",
+          "original_text": "Chief Justice—M. J. B. F. Herchenroder, K.C. Rs. 25,000.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "MAURITIUS",
+        "year": "1950",
+        "composition": {
+          "total_members": 7,
+          "ex_officio_members": 3,
+          "unofficial_members": 4
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "478-487",
+          "source_section": "Executive Council",
+          "original_text": "The reconstituted Executive Council consists of three ex-officio members, four unofficial members",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "MAURITIUS",
+        "year": "1950",
+        "composition": {
+          "total_members": 34,
+          "ex_officio_members": 3,
+          "unofficial_members": 31,
+          "elected_members": 19,
+          "nominated_members": 12
+        },
+        "established": "1948-09",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "491-535",
+          "source_section": "Legislative Council",
+          "original_text": "The enlarged Legislative Council, which met for the first time in September, 1948, consists of the Governor as President, three ex-officio and 31 unofficial members, twelve nominated by the Governor and nineteen elected from five electoral districts.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1947_48",
+        "type": "revenue",
+        "colony": "MAURITIUS",
+        "year": "1950",
+        "year_applies": "1947-48",
+        "data": {
+          "value": 39856646,
+          "currency": "Rs"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "286",
+          "source_section": "Finance",
+          "original_text": "1947–48 | 39,856,646",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1947_48",
+        "type": "expenditure",
+        "colony": "MAURITIUS",
+        "year": "1950",
+        "year_applies": "1947-48",
+        "data": {
+          "value": 49147495,
+          "currency": "Rs"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "286",
+          "source_section": "Finance",
+          "original_text": "1947–48 | 49,147,495",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_sugar_exports_1948",
+        "type": "exports",
+        "colony": "MAURITIUS",
+        "year": "1950",
+        "year_applies": "1948",
+        "data": {
+          "value": 385844,
+          "unit": "metric tons",
+          "category": "sugar",
+          "estimated_value": 132437691,
+          "currency": "Rs"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "336",
+          "source_section": "Production and Trade",
+          "original_text": "In 1948 the weight of sugar exported was 385,844 metric tons, estimated to be worth Rs. 132,437,691",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway_govt",
+        "name": "Mauritius Government Railway",
+        "type": "railway",
+        "colony": "MAURITIUS",
+        "year": "1950",
+        "description": "Seven lines of railway, all owned and worked by Government",
+        "specifications": {
+          "total_length": {
+            "standard_gauge": {
+              "value": 106.5,
+              "unit": "miles",
+              "gauge": "4 feet 8.5 inches"
+            },
+            "narrow_gauge": {
+              "value": 9.5,
+              "unit": "miles",
+              "gauge": "2 feet 6 inches"
+            }
+          }
+        },
+        "operation": {
+          "revenue": {
+            "amount": 3521751,
+            "currency": "Rs",
+            "year": "1947-48"
+          },
+          "expenses": {
+            "amount": 4941962,
+            "currency": "Rs",
+            "year": "1947-48"
+          }
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "233-245",
+          "source_section": "Communications - Railways",
+          "original_text": "There are seven lines of railway, all owned and worked by Government... total number of miles of railway now open is 106½ of standard gauge and 9½ of 2 feet 6 inches gauge",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_constitutional_change_1947",
+        "type": "constitutional_change",
+        "description": "The Constitution of Mauritius was altered in 1947, extending franchise and reconstituting Executive and Legislative Councils",
+        "event_date": {
+          "year": "1947",
+          "precision": "year"
+        },
+        "year_mentioned": "1950",
+        "year": "1950",
+        "locations": ["place_mauritius"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "156-162",
+          "source_section": "Constitution",
+          "original_text": "The Constitution of Mauritius was altered in 1884-85, in 1933 and again in 1947.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_cyclones_1945",
+        "type": "natural_disaster",
+        "description": "In the first quarter of 1945 two severe cyclones visited the island at 15 days interval, causing damage evaluated at Rs. 14,000,000",
+        "event_date": {
+          "year": "1945",
+          "month": "first quarter",
+          "precision": "month"
+        },
+        "year_mentioned": "1950",
+        "year": "1950",
+        "locations": ["place_mauritius"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "152",
+          "source_section": "History",
+          "original_text": "In the first quarter of 1945 two severe cyclones visited the island at 15 days interval. They were reckoned to be the severest storms since the calamity of 1892.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_census_1944",
+        "colony": "MAURITIUS",
+        "year": "1950",
+        "year_applies": "1944",
+        "population": {
+          "total": 419185,
+          "breakdown": {
+            "general": 143056,
+            "indo_mauritians": 265247,
+            "chinese": 10882
+          }
+        },
+        "notes": "Census of 11th June, 1944. Indo-Mauritians were 63.3 per cent. of the total population.",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+          "source_lines": "73-82",
+          "source_section": "Population",
+          "original_text": "At the census of 11th June, 1944, the population of Mauritius (exclusive of the dependencies and military) totalled 419,185.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_hilary_blood",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_jd_harford",
+      "relationship_type": "REPORTS_TO",
+      "target_id": "person_hilary_blood",
+      "properties": {
+        "year": "1950",
+        "confidence": "inferred",
+        "notes": "Colonial Secretary reports to Governor"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+        "extraction_confidence": 0.90,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "place_port_louis",
+      "relationship_type": "PART_OF",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite",
+        "role": "capital"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_rodrigues",
+      "relationship_type": "PART_OF",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite",
+        "notes": "Dependency"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/MAURITIUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 19,
+    "entities_by_type": {
+      "places": 5,
+      "people": 4,
+      "institutions": 2,
+      "economic_data": 3,
+      "infrastructure": 1,
+      "events": 2,
+      "demographics": 2
+    },
+    "total_relationships": 4,
+    "relationships_by_type": {
+      "GOVERNS": 1,
+      "REPORTS_TO": 1,
+      "PART_OF": 2
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0,
+    "processing_time_seconds": 180
+  }
+}

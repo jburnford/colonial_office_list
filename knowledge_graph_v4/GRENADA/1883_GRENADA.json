@@ -1,0 +1,557 @@
+{
+  "metadata": {
+    "year": "1883",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1883.pdf",
+    "source_directory": "output_2/1883_manual_parsed",
+    "extraction_date": "2025-11-17T11:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["GRENADA"],
+    "processing_notes": "Complete extraction for Grenada 1883. Crown colony government established post-1877."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      },
+      "KCB": {
+        "full_name": "Knight Commander of the Order of the Bath",
+        "type": "knighthood",
+        "rank": 2
+      }
+    },
+    "titles": {
+      "Colonel": {
+        "full_form": "Colonel",
+        "category": "military"
+      },
+      "Captain": {
+        "full_form": "Captain",
+        "category": "military"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Very Rev": {
+        "full_form": "Very Reverend",
+        "category": "religious"
+      }
+    },
+    "positions": {
+      "Lieutenant-Governor": {
+        "canonical_name": "Lieutenant-Governor",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Attorney-General": {
+        "canonical_name": "Attorney-General",
+        "hierarchy_level": 3,
+        "category": "judicial"
+      },
+      "Treasurer": {
+        "canonical_name": "Treasurer",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Advisory council to the Governor"
+      },
+      "legislative_council": {
+        "description": "Legislative body of the crown colony"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_grenada",
+        "name": "Grenada",
+        "type": "colony",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Main colony entry"
+        },
+        "coordinates": {
+          "latitude": 12.15,
+          "longitude": -61.46,
+          "source": "Line 3: between 12°30' and 11°58' N. lat., 61°20' and 61°35' W. long."
+        },
+        "area": {
+          "value": 76588,
+          "unit": "acres",
+          "source": "Line 3"
+        },
+        "population": {
+          "total": 42403,
+          "year": "1881",
+          "source": "Line 3: Census of 1881"
+        },
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "3",
+          "original_text": "Grenada is situated between the parallels of 12° 30' and 11° 58' N. lat., and 61° 20' and 61° 35' W. long.; is about 21 miles in length, 12 miles in its greatest breadth, and contains about 76,588 acres, with a population, by the Census of 1881, of 42,403 souls.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_carriacou",
+        "name": "Carriacou",
+        "type": "island",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Dependency of Grenada"
+        },
+        "area": {
+          "value": 6913,
+          "unit": "acres",
+          "source": "Line 3"
+        },
+        "population": {
+          "total": 3071,
+          "year": "1881",
+          "source": "Line 3"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "3",
+          "original_text": "the largest of the latter is Carriacou, which has an area of 6,913 acres, and a population of 3,071 souls.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_r_w_harley",
+        "name": "R. W. Harley",
+        "year": "1883",
+        "titles": ["Colonel"],
+        "honors": [
+          {
+            "honor": "CB",
+            "full_name": "Companion of the Order of the Bath"
+          },
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Lieutenant-Governor",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {
+              "amount": 1300,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "biographical": {
+          "other_service": "administering Government of Honduras"
+        },
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "75, 130",
+          "source_section": "Governors List / Civil Establishment",
+          "original_text": "1877 Colonel R. W. Harley, C.B., C.M.G. / Lieutenant-Governor, Colonel R. W. Harley, C.B., C.M.G., 1,300l. (administering Government of Honduras).",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_irwin_c_maling",
+        "name": "Irwin C. Maling",
+        "year": "1883",
+        "titles": ["Captain"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "GRENADA",
+            "status": "acting",
+            "salary": {
+              "amount": 550,
+              "currency": "£",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Administrator",
+            "colony": "GRENADA",
+            "status": "acting"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "76, 132",
+          "source_section": "Governors List / Civil Establishment",
+          "original_text": "1881 Captain Irwin C. Maling, Administrator. / Colonial Secretary and Registrar-General, Captain Irwin C. Maling, 550l. (administering the Government).",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_f_gresham",
+        "name": "J. F. Gresham",
+        "year": "1883",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "173",
+          "source_section": "Judicial Establishment",
+          "original_text": "Chief Justice, Judge of the Vice-Admiralty Court, and Vice-Chancellor, J. F. Gresham, 800l.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_e_k_moylan",
+        "name": "E. K. Moylan",
+        "year": "1883",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "174",
+          "source_section": "Judicial Establishment",
+          "original_text": "Attorney-General, E. K. Moylan, 400l.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_f_m_chadwick",
+        "name": "F. M. Chadwick",
+        "year": "1883",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Public Treasurer",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "135",
+          "source_section": "Civil Establishment",
+          "original_text": "Public Treasurer, F. M. Chadwick, 400l.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Her Majesty's Executive Council",
+        "type": "executive_council",
+        "colony": "GRENADA",
+        "year": "1883",
+        "composition": {
+          "total_members": 4,
+          "official_members": 4,
+          "ex_officio_members": 4
+        },
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "112-117",
+          "source_section": "Her Majesty's Executive Council",
+          "original_text": "Her Majesty's Executive Council.\n\nThe Lieutenant-Governor.\nThe Colonial Secretary.\nThe Attorney-General, For the time being.\nThe Treasurer.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "GRENADA",
+        "year": "1883",
+        "composition": {
+          "total_members": 8,
+          "official_members": 3,
+          "unofficial_members": 5
+        },
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "119-126",
+          "source_section": "Legislative Council",
+          "original_text": "Legislative Council.\n\nPresident, the Lieut.-Governor or Administrator.\nThe Colonial Secretary.\nThe Attorney-General.\nThe Treasurer.\nUnofficial Members, Dr. Paulin Orgias, F. Batt, James Mill, C. M. Browne, and G. W. Williamson.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1881",
+        "type": "revenue",
+        "colony": "GRENADA",
+        "year": "1883",
+        "year_applies": "1881",
+        "data": {
+          "value": 37176,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "108",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "| 1881 | £37,176 | £39,396 |",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1881",
+        "type": "expenditure",
+        "colony": "GRENADA",
+        "year": "1883",
+        "year_applies": "1881",
+        "data": {
+          "value": 39396,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "108",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "| 1881 | £37,176 | £39,396 |",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1881",
+        "type": "imports",
+        "colony": "GRENADA",
+        "year": "1883",
+        "year_applies": "1881",
+        "data": {
+          "value": 131985,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "93",
+          "source_section": "Imports and Exports",
+          "original_text": "| 1881 | £131,985 | £194,279 |",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1881",
+        "type": "exports",
+        "colony": "GRENADA",
+        "year": "1883",
+        "year_applies": "1881",
+        "data": {
+          "value": 194279,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "93",
+          "source_section": "Imports and Exports",
+          "original_text": "| 1881 | £131,985 | £194,279 |",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1883",
+        "type": "debt",
+        "colony": "GRENADA",
+        "year": "1883",
+        "year_applies": "1883",
+        "data": {
+          "value": 6000,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "110",
+          "original_text": "Public Debt, 6,000l.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_1881",
+        "colony": "GRENADA",
+        "year": "1883",
+        "year_applies": "1881",
+        "population": {
+          "total": 42788
+        },
+        "notes": "Population as of 31 December 1881",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "78",
+          "original_text": "Population, 31 Dec., 1881, 42,788.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_crown_colony_1877",
+        "type": "constitutional_change",
+        "year_mentioned": "1883",
+        "year": "1883",
+        "description": "Crown colony government established, replacing elected Assembly",
+        "event_date": {
+          "year": "1877",
+          "month": "December",
+          "precision": "month"
+        },
+        "locations": ["place_grenada"],
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+          "source_lines": "21",
+          "source_section": "History",
+          "original_text": "The Imperial Act (39 and 40 Vic., c. 47) which has been mentioned in the previous article (St. Vincent), empowered Her Majesty to comply with this address, and a new Legislative Council has been established by the Queen",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_carriacou",
+      "relationship_type": "PART_OF",
+      "target_id": "place_grenada",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1883_manual_parsed/GRENADA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 17,
+    "entities_by_type": {
+      "places": 2,
+      "people": 5,
+      "institutions": 2,
+      "economic_data": 5,
+      "infrastructure": 0,
+      "demographics": 1,
+      "events": 1
+    },
+    "total_relationships": 1,
+    "relationships_by_type": {
+      "PART_OF": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

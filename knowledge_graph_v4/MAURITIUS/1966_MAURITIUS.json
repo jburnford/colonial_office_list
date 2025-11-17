@@ -1,0 +1,553 @@
+{
+  "metadata": {
+    "year": "1966",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1966.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1966_manual_parsed",
+    "extraction_date": "2025-11-17T11:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM-based extraction)",
+    "colonies_processed": ["MAURITIUS"],
+    "processing_notes": "Final year (1966) extraction. Independence era with constitutional government, Council of Ministers, and Legislative Assembly. Extensive development data and modern infrastructure."
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {},
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Premier": {
+        "canonical_name": "Premier",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Chief Secretary": {
+        "canonical_name": "Chief Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_mauritius",
+        "name": "Mauritius",
+        "type": "colony",
+        "year": "1966",
+        "area": {
+          "value": 720,
+          "unit": "square_miles",
+          "source": "Line 4"
+        },
+        "population": {
+          "total": 733605,
+          "year": "1964",
+          "breakdown": {
+            "general_population": "30%",
+            "indo_mauritians": "67%",
+            "chinese": "3%"
+          },
+          "source": "Line 7"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "1-7",
+          "original_text": "The area of Mauritius is approximately 720 square miles... The estimated population at 31st December 1964 was: Mauritius 733,605",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_port_louis",
+        "name": "Port Louis",
+        "type": "city",
+        "year": "1966",
+        "role": "capital",
+        "parent_location": "place_mauritius",
+        "population": {
+          "total": 128430,
+          "year": "1964",
+          "source": "Line 14"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "9-14",
+          "source_section": "Principal Towns",
+          "original_text": "Port Louis | 128,430",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_curepipe",
+        "name": "Curepipe",
+        "type": "town",
+        "year": "1966",
+        "parent_location": "place_mauritius",
+        "population": {
+          "total": 47600,
+          "year": "1964",
+          "source": "Line 15"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "15",
+          "source_section": "Principal Towns",
+          "original_text": "Curepipe | 47,600",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_beau_bassin_rose_hill",
+        "name": "Beau Bassin-Rose Hill",
+        "type": "town",
+        "year": "1966",
+        "parent_location": "place_mauritius",
+        "population": {
+          "total": 65920,
+          "year": "1964",
+          "source": "Line 16"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "16",
+          "source_section": "Principal Towns",
+          "original_text": "Beau Bassin-Rose Hill | 65,920",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_rodrigues",
+        "name": "Rodrigues",
+        "type": "island",
+        "year": "1966",
+        "parent_location": "place_mauritius",
+        "area": {
+          "value": 40,
+          "unit": "square_miles",
+          "source": "Line 4"
+        },
+        "population": {
+          "total": 19507,
+          "year": "1964",
+          "source": "Line 7"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "4, 7",
+          "source_section": "Area / Population",
+          "original_text": "that of Rodrigues 40 square miles... Rodrigues 19,507",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_madagascar",
+        "name": "Madagascar",
+        "type": "island",
+        "year": "1966",
+        "location_context": {
+          "mentioned_in_colony": "MAURITIUS",
+          "actual_location_country": "Madagascar",
+          "certainty": "definite",
+          "reasoning": "Referenced as 550 miles west of Mauritius"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "23",
+          "source_section": "Geographical Features",
+          "original_text": "The island lies in the Indian Ocean, 550 miles east of Madagascar.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [],
+    "institutions": [
+      {
+        "id": "inst_legislative_assembly",
+        "name": "Legislative Assembly",
+        "type": "legislative_assembly",
+        "colony": "MAURITIUS",
+        "year": "1966",
+        "composition": {
+          "total_members": 56,
+          "ex_officio_members": 1,
+          "elected_members": 40,
+          "nominated_members": 15,
+          "speaker": 1
+        },
+        "established": "1964",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "46-48",
+          "source_section": "Constitution",
+          "original_text": "The Mauritius (Constitution) Order 1964 provides for a Legislative Assembly consisting of the Speaker (elected by the Assembly from among its members, other than members who are members of the Council of Ministers or Parliamentary Secretaries) one ex-officio member (the Chief Secretary), 40 elected members and such nominated members not exceeding 15 in number as the Governor may appoint.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_council_of_ministers",
+        "name": "Council of Ministers",
+        "type": "executive_council",
+        "colony": "MAURITIUS",
+        "year": "1966",
+        "composition": {
+          "total_members": "10-13 plus Premier and Chief Secretary",
+          "premier": 1,
+          "chief_secretary": 1,
+          "appointed_members": "10-13"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "58",
+          "source_section": "Constitution",
+          "original_text": "The Council of Ministers consists of the Premier, the Chief Secretary and not less than ten nor more than thirteen appointed members.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1964_65",
+        "type": "revenue",
+        "colony": "MAURITIUS",
+        "year": "1966",
+        "year_applies": "1964-65",
+        "data": {
+          "value": 231739849,
+          "currency": "Rs",
+          "breakdown": {
+            "income_tax": 87163947,
+            "customs_duties": 70358941,
+            "other_indirect_taxes": 41384610
+          }
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "90-98",
+          "source_section": "Public Finance",
+          "original_text": "1964–65| 231,739,849 | 205,662,053... Rs. 87,163,947 were derived from income tax, Rs. 70,358,941 from Customs duties and Rs. 41,384,610 from other indirect taxes.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1964_65",
+        "type": "expenditure",
+        "colony": "MAURITIUS",
+        "year": "1966",
+        "year_applies": "1964-65",
+        "data": {
+          "value": 205662053,
+          "currency": "Rs",
+          "breakdown": {
+            "agriculture": 5267990,
+            "pensions_gratuities": 13774232,
+            "education": 26048182,
+            "health": 19750114,
+            "police": 8737406,
+            "public_works": 16167106,
+            "contributions": 20000000,
+            "social_security": 29410342,
+            "local_government": 5886061
+          }
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "98-111",
+          "source_section": "Public Finance",
+          "original_text": "In the same year the main heads of expenditure were:...",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_public_debt_1965",
+        "type": "debt",
+        "colony": "MAURITIUS",
+        "year": "1966",
+        "year_applies": "1965",
+        "data": {
+          "value": 257706400,
+          "currency": "Rs",
+          "per_capita": 334
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "112",
+          "source_section": "Public Finance",
+          "original_text": "The Public Debt at the end of June 1965 amounted to Rs. 257,706,400 (approximately Rs. 334 per head of population)",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway_ceased",
+        "name": "Railway Services (Ceased)",
+        "type": "railway",
+        "colony": "MAURITIUS",
+        "year": "1966",
+        "description": "The railway services have ceased to operate since the beginning of 1964",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "196",
+          "source_section": "Communications",
+          "original_text": "The railway services have ceased to operate since the beginning of 1964.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_roads_1966",
+        "name": "Road Network",
+        "type": "road",
+        "colony": "MAURITIUS",
+        "year": "1966",
+        "specifications": {
+          "total_length": {
+            "motorway": {
+              "value": 9.4,
+              "unit": "miles"
+            },
+            "main_roads": {
+              "value": 518.3,
+              "unit": "miles"
+            },
+            "branch_roads": {
+              "value": 232,
+              "unit": "miles"
+            },
+            "village_streets": {
+              "value": 63,
+              "unit": "miles"
+            },
+            "bituminous_surface": {
+              "value": 559.4,
+              "unit": "miles"
+            }
+          }
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "196",
+          "source_section": "Communications",
+          "original_text": "There are in Mauritius 9.4 miles of motorway, 518.3 miles of main roads, 232 miles of branch roads and 63 miles of streets in villages and extra-urban areas. Of these 559.4 miles of main and branch roads and streets in villages and extra-urban areas have a bituminous surface.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_airport_plaisance",
+        "name": "Plaisance Airport",
+        "type": "port",
+        "colony": "MAURITIUS",
+        "year": "1966",
+        "description": "Colonial Government operated airport with international services",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "193-194",
+          "source_section": "Communications",
+          "original_text": "The airport (Plaisance) is operated and managed by the Colonial Government. Air France... British Overseas Airways Corporation... Qantas Empire Airways... South African Airways... Central African Airways",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_constitution_1964",
+        "type": "constitutional_change",
+        "description": "The Mauritius (Constitution) Order 1964 established a Legislative Assembly and Council of Ministers system",
+        "event_date": {
+          "year": "1964",
+          "precision": "year"
+        },
+        "year_mentioned": "1966",
+        "year": "1966",
+        "locations": ["place_mauritius"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "46-58",
+          "source_section": "Constitution",
+          "original_text": "The Mauritius (Constitution) Order 1964 provides for a Legislative Assembly... The Council of Ministers consists of the Premier...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_railway_cessation_1964",
+        "type": "other",
+        "description": "Railway services ceased to operate in Mauritius",
+        "event_date": {
+          "year": "1964",
+          "month": "January",
+          "precision": "month"
+        },
+        "year_mentioned": "1966",
+        "year": "1966",
+        "locations": ["place_mauritius"],
+        "institutions": ["infra_railway_ceased"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "196",
+          "source_section": "Communications",
+          "original_text": "The railway services have ceased to operate since the beginning of 1964.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_estimate_1964",
+        "colony": "MAURITIUS",
+        "year": "1966",
+        "year_applies": "1964",
+        "population": {
+          "total": 733605,
+          "breakdown": {
+            "general_population_pct": 30,
+            "indo_mauritians_pct": 67,
+            "chinese_pct": 3
+          }
+        },
+        "notes": "Estimated population at 31st December 1964. General population comprises Europeans and descendants of Europeans and people of African and mixed origin. Indo-Mauritians are immigrants from the Indian subcontinent and their descendants. Chinese consists of immigrants from China and their descendants.",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+          "source_lines": "6-7",
+          "source_section": "Population",
+          "original_text": "The estimated population at 31st December 1964 was: Mauritius 733,605, Rodrigues 19,507, divided approximately into: (1) general population, comprising Europeans and descendants of Europeans and people of African and mixed origin, 30%; (2) Indo-Mauritians, made up of immigrants from the Indian subcontinent and their descendants, 67%; and Chinese, consisting of immigrants from China and their descendants, 3%.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_port_louis",
+      "relationship_type": "PART_OF",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1966",
+        "confidence": "definite",
+        "role": "capital"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_rodrigues",
+      "relationship_type": "PART_OF",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1966",
+        "confidence": "definite",
+        "notes": "Dependency"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "inst_council_of_ministers",
+      "relationship_type": "PART_OF",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1966",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/MAURITIUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 20,
+    "entities_by_type": {
+      "places": 6,
+      "people": 0,
+      "institutions": 2,
+      "economic_data": 3,
+      "infrastructure": 3,
+      "events": 2,
+      "demographics": 1
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "PART_OF": 3
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0,
+    "processing_time_seconds": 150
+  }
+}

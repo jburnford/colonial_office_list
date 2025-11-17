@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "year": "1877",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1877.pdf",
+    "source_directory": "output_2/1877_manual_parsed",
+    "extraction_date": "2025-11-17T00:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["TRINIDAD"],
+    "processing_notes": "Extraction for Trinidad 1877"
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 2, "category": "executive"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council to the Governor"},
+      "legislative_council": {"description": "Legislative body of the colony"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_trinidad",
+        "name": "Trinidad",
+        "type": "colony",
+        "year": "1877",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Main colony being described"
+        },
+        "coordinates": {
+          "latitude": 10.45,
+          "longitude": -61.5,
+          "source": "Lines 3: N. latitude 10° 3' and 10° 50' W. longitude 61° and 62° 4'"
+        },
+        "area": {
+          "value": 1754,
+          "unit": "square_miles",
+          "source": "Line 14"
+        },
+        "population": {
+          "total": 109638,
+          "year": "1871",
+          "breakdown": {
+            "males": 60405,
+            "females": 49233
+          },
+          "source": "Line 26"
+        },
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/TRINIDAD.md",
+          "source_lines": "1-26",
+          "source_section": "TRINIDAD",
+          "original_text": "TRINIDAD\n\nIs an island lying to the eastward of Venezuela...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_port_of_spain",
+        "name": "Port of Spain",
+        "type": "city",
+        "year": "1877",
+        "parent_location": "place_trinidad",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Capital city of Trinidad"
+        },
+        "population": {
+          "total": 23561,
+          "year": "1871",
+          "breakdown": {
+            "males": 11065,
+            "females": 12496
+          },
+          "source": "Line 16"
+        },
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/TRINIDAD.md",
+          "source_lines": "16",
+          "original_text": "Port of Spain, the chief town and port of entry, according to the census of 1871, contains 23,561 inhabitants, of whom 11,065 are males, and 12,496 females.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_san_fernando",
+        "name": "San Fernando",
+        "type": "town",
+        "year": "1877",
+        "parent_location": "place_trinidad",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Second town of Trinidad, 26 miles south from Port of Spain"
+        },
+        "population": {
+          "total": 5006,
+          "year": "1871",
+          "source": "Line 18"
+        },
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/TRINIDAD.md",
+          "source_lines": "18",
+          "original_text": "The second town and port of entry is San Fernando, 26 miles south from Port of Spain, with a population of 5,006 inhabitants.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "Trinidad",
+        "location": "Port of Spain",
+        "year": "1877",
+        "composition": {
+          "total_members": 3
+        },
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/TRINIDAD.md",
+          "source_lines": "64-65",
+          "source_section": "Constitution",
+          "original_text": "The Government is administered by a Governor\nand an Executive Council of 3 members.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "Trinidad",
+        "location": "Port of Spain",
+        "year": "1877",
+        "composition": {
+          "total_members": 15,
+          "official_members": 6,
+          "unofficial_members": 8
+        },
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/TRINIDAD.md",
+          "source_lines": "64-65",
+          "source_section": "Constitution",
+          "original_text": "The Legislative Body is a Council including the Governor, who is President, 6 official and 8 unofficial members, all of whom are nominated by the Crown.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [],
+    "infrastructure": [
+      {
+        "id": "infra_pitch_lake",
+        "name": "Pitch Lake",
+        "type": "other",
+        "colony": "Trinidad",
+        "year": "1877",
+        "description": "Pitch lake located in the ward of La Brea, 30 miles from Port of Spain",
+        "specifications": {
+          "area": {
+            "value": 90,
+            "unit": "acres"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/TRINIDAD.md",
+          "source_lines": "40",
+          "source_section": "TRINIDAD",
+          "original_text": "A pitch lake, 90 acres in extent, is situated in the ward of La Brea, about 30 miles from Port of Spain: it is of considerable value, and affords a slight revenue to the island.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_indian_immigration",
+        "colony": "Trinidad",
+        "year": "1877",
+        "year_applies": "1871",
+        "population": {
+          "total": 28825,
+          "breakdown": {
+            "indian_coolies": 27425,
+            "chinese": 1400
+          }
+        },
+        "notes": "Immigration from India fully encouraged by the Government. Chinese introduction wholly discontinued.",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/TRINIDAD.md",
+          "source_lines": "42",
+          "source_section": "TRINIDAD",
+          "original_text": "By the census of 1871 there were 27,425 Coolies and 1,400 Chinese in the island.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_discovery_1498",
+        "type": "other",
+        "description": "Trinidad was first discovered by Christopher Columbus on the 31st July, 1498",
+        "year": "1877",
+        "year_mentioned": "1877",
+        "event_date": {
+          "year": "1498",
+          "month": "July",
+          "day": "31",
+          "precision": "exact"
+        },
+        "locations": ["place_trinidad"],
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/TRINIDAD.md",
+          "source_lines": "3",
+          "source_section": "TRINIDAD",
+          "original_text": "It was first discovered by Christopher Columbus, on the 31st July, 1498",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_british_conquest_1797",
+        "type": "transfer",
+        "description": "Trinidad surrendered to His Majesty's arms on the 18th February, 1797, after an expedition led by Rear-Admiral Henry Harvey and Sir Ralph Abercrombie",
+        "year": "1877",
+        "year_mentioned": "1877",
+        "event_date": {
+          "year": "1797",
+          "month": "February",
+          "day": "18",
+          "precision": "exact"
+        },
+        "locations": ["place_trinidad"],
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/TRINIDAD.md",
+          "source_lines": "6-8",
+          "source_section": "TRINIDAD",
+          "original_text": "The expedition resulted in the surrender of the island to His Majesty's arms, and on the 18th February, 1797, the articles of capitulation being signed by Abercrombie, Harvey, and Chacon.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_treaty_amiens_1802",
+        "type": "treaty",
+        "description": "By the Treaty of Amiens (29th March 1802), all places taken during the war by Great Britain were restored, save Trinidad and Ceylon",
+        "year": "1877",
+        "year_mentioned": "1877",
+        "event_date": {
+          "year": "1802",
+          "month": "March",
+          "day": "29",
+          "precision": "exact"
+        },
+        "locations": ["place_trinidad"],
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/TRINIDAD.md",
+          "source_lines": "12",
+          "source_section": "TRINIDAD",
+          "original_text": "On the 29th March, 1802, the definitive treaty of peace between England and France, and her allies, viz., Spain and the Batavian Republic, was signed at Amiens. By the third article, all places taken during the war by Great Britain, were restored, save Trinidad and Ceylon.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_port_of_spain",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1877_manual_parsed/TRINIDAD.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_san_fernando",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1877_manual_parsed/TRINIDAD.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 11,
+    "entities_by_type": {
+      "places": 3,
+      "people": 0,
+      "institutions": 2,
+      "economic_data": 0,
+      "infrastructure": 1,
+      "demographics": 1,
+      "events": 3
+    },
+    "total_relationships": 2,
+    "relationships_by_type": {
+      "LOCATED_IN": 2
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

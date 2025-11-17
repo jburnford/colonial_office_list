@@ -1,0 +1,764 @@
+{
+  "metadata": {
+    "year": "1867",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1867.pdf",
+    "source_directory": "output_2/1867_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["BERMUDAS"],
+    "processing_notes": "First year of Colonial Office List coverage for Bermuda. Named 'BERMUDAS' in this year."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Col": {
+        "full_form": "Colonel",
+        "category": "military"
+      },
+      "Lieut.-Col": {
+        "full_form": "Lieutenant-Colonel",
+        "category": "military"
+      },
+      "Capt": {
+        "full_form": "Captain",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Lieutenant-Governor": {
+        "canonical_name": "Lieutenant-Governor",
+        "hierarchy_level": 3,
+        "category": "executive"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Receiver-General": {
+        "canonical_name": "Receiver-General",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      }
+    },
+    "institution_types": {
+      "privy_council": {
+        "description": "Privy Council - advisory to Governor",
+        "parent_type": "executive"
+      },
+      "legislative_council": {
+        "description": "Legislative Council",
+        "parent_type": "legislative"
+      },
+      "house_of_assembly": {
+        "description": "House of Assembly - elected legislature",
+        "parent_type": "legislative"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_bermuda",
+        "name": "Bermudas",
+        "type": "colony",
+        "alternative_names": ["Somers' Islands", "Bermuda"],
+        "location_context": {
+          "mentioned_in_colony": "BERMUDAS",
+          "actual_location_country": "Bermuda",
+          "certainty": "definite",
+          "reasoning": "Primary colony being documented"
+        },
+        "coordinates": {
+          "latitude": 32.25,
+          "longitude": -64.85,
+          "source": "Page 1: 'lat. 32° 15' N. and long. 64° 51' W.'"
+        },
+        "area": {
+          "value": 19,
+          "unit": "square_miles",
+          "source": "Page 1: 'total area is estimated at 19 square miles (less than one-eighth of Rutland)'"
+        },
+        "population": {
+          "total": 11461,
+          "year": "1861",
+          "breakdown": {
+            "white": null,
+            "coloured": null,
+            "note": "1861 census; 1851 census was 10,982"
+          },
+          "source": "Page 1: 'Population Census, 1851, 10,982. Ditto 1861, 11,461.'"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "1-6",
+          "original_text": "BERMUDAS, Or Somers' Islands, a cluster of about 300 small islands, situated on the western side of the Atlantic Ocean, in lat. 32° 15' N. and long. 64° 51' W.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_hamilton",
+        "name": "Hamilton",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "BERMUDAS",
+          "actual_location_country": "Bermuda",
+          "certainty": "definite",
+          "reasoning": "Described as 'present seat of Government'"
+        },
+        "parent_location": "place_bermuda",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "9",
+          "original_text": "the town of Hamilton, the present seat of Government",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_georges",
+        "name": "St. George",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "BERMUDAS",
+          "actual_location_country": "Bermuda",
+          "certainty": "definite",
+          "reasoning": "Former capital, named after Admiral Sir George Somers"
+        },
+        "parent_location": "place_bermuda",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "9",
+          "original_text": "the ancient town of St. George, the former capital",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_ireland_island",
+        "name": "Ireland Island",
+        "type": "island",
+        "location_context": {
+          "mentioned_in_colony": "BERMUDAS",
+          "actual_location_country": "Bermuda",
+          "certainty": "definite",
+          "reasoning": "Part of Bermuda islands group, site of dockyard"
+        },
+        "parent_location": "place_bermuda",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "9",
+          "original_text": "Ireland Island, where the dock yard is established",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_h_st_george_ord",
+        "name": "H. St. George Ord",
+        "titles": ["Col"],
+        "honors": [
+          {
+            "honor": "CB",
+            "full_name": "Companion of the Order of the Bath"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "colony": "BERMUDAS",
+            "location": "Hamilton",
+            "status": "permanent",
+            "salary": {
+              "amount": 2746,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "97-101",
+          "original_text": "1861. Col. H. St. George Ord, R.E., C.B.... Colonel Ord, R.E., C.B., Governor and Commander-in-Chief.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_william_g_hamley",
+        "name": "William G. Hamley",
+        "titles": ["Colonel"],
+        "positions": [
+          {
+            "title": "Lieutenant-Governor",
+            "colony": "BERMUDAS",
+            "status": "permanent"
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "102",
+          "original_text": "Colonel William G. Hamley, R.E., Lieutenant-Governor.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_h_darrell",
+        "name": "J. H. Darrell",
+        "positions": [
+          {
+            "title": "President and Chief Justice",
+            "colony": "BERMUDAS",
+            "status": "permanent",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "103, 195",
+          "original_text": "J. H. Darrell, President and Chief Justice.... Chief Justice and Judge of Vice-Admiralty Court, John H. Darrell, 800l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_miles_gerald_keon",
+        "name": "Miles Gerald Keon",
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "BERMUDAS",
+            "status": "permanent",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "109, 177",
+          "original_text": "Miles Gerrald Keon, Colonial Secretary.... Colonial Secretary, Miles Gerald Keon, 800l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_thomas_a_darrell",
+        "name": "Thomas A. Darrell",
+        "positions": [
+          {
+            "title": "Receiver-General",
+            "colony": "BERMUDAS",
+            "status": "permanent",
+            "salary": {
+              "amount": 450,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "108, 179",
+          "original_text": "Thomas A. Darrell, Receiver-General.... Receiver-General, Thos. Albu Darrell, 450l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_privy_council",
+        "name": "Privy Council",
+        "type": "privy_council",
+        "colony": "BERMUDAS",
+        "location": "Hamilton",
+        "composition": {
+          "total_members": 10,
+          "official_members": 4,
+          "unofficial_members": 6,
+          "notes": "Appointed by the Crown on recommendation of the Governor; also act as Legislative Council"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "99-110",
+          "original_text": "Privy Council... consisting at present of 9 members, appointed by the Crown on the recommendation of the Governor, who also act as a Legislative Council",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "BERMUDAS",
+        "location": "Hamilton",
+        "composition": {
+          "total_members": 9,
+          "notes": "Same members as the Privy Council, except the Governor"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "112-116",
+          "original_text": "Legislative Council - Same members as the Privy Council, except the Governor.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_house_of_assembly",
+        "name": "House of Assembly",
+        "type": "house_of_assembly",
+        "colony": "BERMUDAS",
+        "location": "Hamilton",
+        "composition": {
+          "total_members": 36,
+          "elected_members": 36,
+          "notes": "Four representatives from each of the nine parishes. 842 electors. Qualification: possession of freehold of not less than £60 value. Member qualification: freehold rated at £240."
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "118-170",
+          "original_text": "House of Assembly. (36 Members.) Speaker, G. S. Tucker.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1865",
+        "type": "revenue",
+        "colony": "BERMUDAS",
+        "year_applies": "1865",
+        "data": {
+          "value": 24496,
+          "currency": "£",
+          "unit": "pounds_sterling"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "47",
+          "original_text": "| 1865 | 24,496     | 35,627         |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1865",
+        "type": "expenditure",
+        "colony": "BERMUDAS",
+        "year_applies": "1865",
+        "data": {
+          "value": 35627,
+          "currency": "£",
+          "unit": "pounds_sterling"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "47",
+          "original_text": "| 1865 | 24,496     | 35,627         |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1864",
+        "type": "imports",
+        "colony": "BERMUDAS",
+        "year_applies": "1864",
+        "data": {
+          "value": 126546,
+          "currency": "£",
+          "unit": "pounds_sterling"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "60",
+          "original_text": "| 1864 | 126,546    | 64,424      |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1864",
+        "type": "exports",
+        "colony": "BERMUDAS",
+        "year_applies": "1864",
+        "data": {
+          "value": 64424,
+          "currency": "£",
+          "unit": "pounds_sterling"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "60",
+          "original_text": "| 1864 | 126,546    | 64,424      |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_census_1861",
+        "colony": "BERMUDAS",
+        "year_applies": "1861",
+        "population": {
+          "total": 11461,
+          "breakdown": {
+            "note": "No demographic breakdown available in source"
+          }
+        },
+        "notes": "Previous census in 1851 recorded 10,982",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "62-64",
+          "original_text": "Population Census, 1851, 10,982. Ditto 1861, 11,461.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_discovery_1515",
+        "type": "other",
+        "description": "These islands were discovered in the year 1515, by a Spanish mariner, Juan Bermudez",
+        "event_date": {
+          "year": "1515",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_bermuda"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "14",
+          "original_text": "These islands derive their name from Bermudez, a Spaniard, who sighted them in 1527",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated",
+          "notes": "Text says 1527 but earlier in document mentions 1515 in different editions"
+        }
+      },
+      {
+        "id": "event_somers_shipwreck_1609",
+        "type": "other",
+        "description": "Admiral Sir George Somers was shipwrecked on Bermuda in 1609 on his way to Virginia, leading to the first colonization",
+        "event_date": {
+          "year": "1609",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_bermuda"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "14",
+          "original_text": "they were first colonized by Admiral Sir George Somers, who was shipwrecked here in 1609, on his way to Virginia",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_charter_1612",
+        "type": "establishment",
+        "description": "Virginia Company obtained a charter from James I for Bermuda in 1612",
+        "event_date": {
+          "year": "1612",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_bermuda"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "14",
+          "original_text": "obtained a charter for them from James I. in 1612",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_representative_govt_1620",
+        "type": "constitutional_change",
+        "description": "Representative government was introduced into the Colony in 1620",
+        "event_date": {
+          "year": "1620",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_bermuda"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "17",
+          "original_text": "Representative government was introduced in 1620",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_charter_annulled_1684",
+        "type": "constitutional_change",
+        "description": "The Charter of the Bermuda Company was annulled by process of Quo Warranto at Westminster in 1684-85",
+        "event_date": {
+          "year": "1684",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_bermuda"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "18",
+          "original_text": "the Charter of the Bermuda Company was annulled by process of Quo Warranto, at Westminster, in 1684-85",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_abolition_slavery_1834",
+        "type": "other",
+        "description": "On the abolition of slavery in 1834, the local legislature dispensed with the temporary apprenticeship system, granting slaves absolute freedom six years sooner than required by Act of Parliament",
+        "event_date": {
+          "year": "1834",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_bermuda"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "26",
+          "original_text": "On the abolition of slavery in 1834, the system of temporary apprenticeship of the emancipated slaves, permitted by the Act of Parliament in the slave-holding colonies, was dispensed with by the local legislature of Bermuda",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_h_st_george_ord",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_privy_council",
+      "properties": {
+        "position": "Governor and Commander-in-Chief",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_hamilton",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_bermuda",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_st_georges",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_bermuda",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_ireland_island",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_bermuda",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "inst_privy_council",
+      "relationship_type": "OPERATES_IN",
+      "target_id": "place_bermuda",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 15,
+    "entities_by_type": {
+      "places": 4,
+      "people": 5,
+      "institutions": 3,
+      "economic_data": 4,
+      "infrastructure": 0,
+      "demographics": 1,
+      "events": 6
+    },
+    "total_relationships": 5,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 1,
+      "LOCATED_IN": 3,
+      "OPERATES_IN": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 1,
+    "missing_provenance": 0
+  }
+}

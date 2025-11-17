@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "year": "1920",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1920.pdf",
+    "source_directory": "output_2/1920_manual_parsed",
+    "extraction_date": "2025-11-17T12:30:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["GRENADA"],
+    "processing_notes": "Post-WWI period. Major cocoa and spice exporter."
+  },
+  "controlled_vocabularies": {
+    "honors": {"KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2}},
+    "titles": {"Sir": {"full_form": "Sir", "category": "nobility"}},
+    "positions": {"Governor": {"canonical_name": "Governor", "hierarchy_level": 1, "category": "executive"}},
+    "institution_types": {"executive_council": {"description": "Advisory council"}, "legislative_council": {"description": "Legislative body"}}
+  },
+  "entities": {
+    "places": [
+      {"id": "place_grenada", "name": "Grenada", "type": "colony", "year": "1920", "location_context": {"mentioned_in_colony": "GRENADA", "actual_location_country": "Grenada", "certainty": "definite", "reasoning": "Main colony, HQ of Windward Islands"}, "coordinates": {"latitude": 12.15, "longitude": -61.46, "source": "Line 5"}, "area": {"value": 133, "unit": "square_miles", "source": "Line 5"}, "population": {"total": 73881, "year": "1918", "source": "Line 76"}, "provenance": {"source_file": "output_2/1920_manual_parsed/GRENADA.md", "source_lines": "5", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_st_georges", "name": "St. George's", "type": "city", "year": "1920", "location_context": {"mentioned_in_colony": "GRENADA", "actual_location_country": "Grenada", "certainty": "definite", "reasoning": "Principal town"}, "population": {"total": 4916, "year": "1911", "source": "Line 15"}, "parent_location": "place_grenada", "provenance": {"source_file": "output_2/1920_manual_parsed/GRENADA.md", "source_lines": "15", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_carriacou", "name": "Carriacou", "type": "island", "year": "1920", "location_context": {"mentioned_in_colony": "GRENADA", "actual_location_country": "Grenada", "certainty": "definite", "reasoning": "Dependency"}, "area": {"value": 8467, "unit": "acres", "source": "Line 6"}, "population": {"total": 6886, "year": "1911", "source": "Line 6"}, "parent_location": "place_grenada", "provenance": {"source_file": "output_2/1920_manual_parsed/GRENADA.md", "source_lines": "6", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "people": [],
+    "institutions": [
+      {"id": "inst_executive_council", "name": "Executive Council", "type": "executive_council", "colony": "GRENADA", "year": "1920", "provenance": {"source_file": "output_2/1920_manual_parsed/GRENADA.md", "source_lines": "139-146", "extraction_confidence": 0.95, "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "inst_legislative_council", "name": "Legislative Council", "type": "legislative_council", "colony": "GRENADA", "year": "1920", "composition": {"total_members": 13, "official_members": 6, "unofficial_members": 7}, "provenance": {"source_file": "output_2/1920_manual_parsed/GRENADA.md", "source_lines": "50", "extraction_confidence": 0.98, "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "economic_data": [
+      {"id": "econ_revenue_1918", "type": "revenue", "colony": "GRENADA", "year": "1920", "year_applies": "1918-19", "data": {"value": 110387, "currency": "£"}, "validation": {"plausibility": "plausible", "completeness": "complete"}, "provenance": {"source_file": "output_2/1920_manual_parsed/GRENADA.md", "source_lines": "91", "extraction_confidence": 0.99, "extraction_method": "parsed_table", "verification_status": "automated"}},
+      {"id": "econ_expenditure_1918", "type": "expenditure", "colony": "GRENADA", "year": "1920", "year_applies": "1918-19", "data": {"value": 108252, "currency": "£"}, "validation": {"plausibility": "plausible", "completeness": "complete"}, "provenance": {"source_file": "output_2/1920_manual_parsed/GRENADA.md", "source_lines": "91", "extraction_confidence": 0.99, "extraction_method": "parsed_table", "verification_status": "automated"}},
+      {"id": "econ_exports_cocoa_1918", "type": "production", "colony": "GRENADA", "year": "1920", "year_applies": "1918", "data": {"value": 519366, "currency": "£", "category": "cocoa"}, "validation": {"plausibility": "plausible", "completeness": "complete"}, "provenance": {"source_file": "output_2/1920_manual_parsed/GRENADA.md", "source_lines": "25", "original_text": "The chief produce of Grenada is, and has been for some time, cocoa, of which a total value of 519,366£. was shipped in 1918", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "econ_exports_spices_1918", "type": "production", "colony": "GRENADA", "year": "1920", "year_applies": "1918", "data": {"value": 136544, "currency": "£", "category": "spices"}, "validation": {"plausibility": "plausible", "completeness": "complete"}, "provenance": {"source_file": "output_2/1920_manual_parsed/GRENADA.md", "source_lines": "25", "original_text": "The value of spices exported in 1918 was 136,544£", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "econ_debt_1918", "type": "debt", "colony": "GRENADA", "year": "1920", "year_applies": "1918-19", "data": {"value": 192180, "currency": "£"}, "validation": {"plausibility": "plausible", "completeness": "complete"}, "provenance": {"source_file": "output_2/1920_manual_parsed/GRENADA.md", "source_lines": "137", "original_text": "Public Debt, 1918-19—£192,180", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "infrastructure": [
+      {"id": "infra_roads_1920", "type": "road", "colony": "GRENADA", "year": "1920", "name": "Road Network", "specifications": {"length": {"value": 443, "unit": "miles"}, "other": {"main_roads": 140, "byways": 303}}, "provenance": {"source_file": "output_2/1920_manual_parsed/GRENADA.md", "source_lines": "12", "extraction_confidence": 0.98, "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "infra_port_st_georges", "type": "port", "colony": "GRENADA", "year": "1920", "name": "St. George's Port", "operation": {"vessels_registered": 105, "tonnage_registered": 1684}, "provenance": {"source_file": "output_2/1920_manual_parsed/GRENADA.md", "source_lines": "15", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "demographics": [
+      {"id": "demo_1918", "colony": "GRENADA", "year": "1920", "year_applies": "1918", "population": {"total": 73881}, "provenance": {"source_file": "output_2/1920_manual_parsed/GRENADA.md", "source_lines": "76", "extraction_confidence": 0.99, "extraction_method": "parsed_table", "verification_status": "automated"}},
+      {"id": "demo_ethnic_1911", "colony": "GRENADA", "year": "1920", "year_applies": "1911", "population": {"breakdown": {"european": "2%", "negro": "majority", "east_indian": 406}}, "notes": "About two per cent. are of European blood, the remainder being of the Negro race, except the East Indian population, which was 406 in number according to the census of 1911", "provenance": {"source_file": "output_2/1920_manual_parsed/GRENADA.md", "source_lines": "17", "extraction_confidence": 0.95, "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "events": []
+  },
+  "relationships": [],
+  "extraction_statistics": {
+    "total_entities": 15,
+    "entities_by_type": {"places": 3, "people": 0, "institutions": 2, "economic_data": 5, "infrastructure": 2, "demographics": 2, "events": 0},
+    "total_relationships": 0,
+    "relationships_by_type": {},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

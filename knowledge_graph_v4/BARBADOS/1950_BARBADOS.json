@@ -1,0 +1,845 @@
+{
+  "metadata": {
+    "year": "1950",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1950.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1950_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 LLM",
+    "colonies_processed": ["BARBADOS"],
+    "processing_notes": "Complete extraction for Barbados in 1950 using LLM context-awareness"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "OBE": {
+        "full_name": "Officer of the Order of the British Empire",
+        "type": "order",
+        "rank": 4
+      },
+      "MBE": {
+        "full_name": "Member of the Order of the British Empire",
+        "type": "order",
+        "rank": 5
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Rt Rev": {
+        "full_form": "Right Reverend",
+        "category": "religious"
+      },
+      "Dr": {
+        "full_form": "Doctor",
+        "category": "academic"
+      },
+      "Commander": {
+        "full_form": "Commander",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor and Commander-in-Chief",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Attorney General": {
+        "canonical_name": "Attorney-General",
+        "hierarchy_level": 3,
+        "category": "judicial"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Colonial Treasurer": {
+        "canonical_name": "Colonial Treasurer",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      },
+      "Auditor-General": {
+        "canonical_name": "Auditor-General",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      },
+      "Bishop": {
+        "canonical_name": "Bishop",
+        "hierarchy_level": 2,
+        "category": "religious"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Advisory council to the Governor"
+      },
+      "executive_committee": {
+        "description": "Committee responsible for government measures and money votes"
+      },
+      "legislative_council": {
+        "description": "Upper house of the legislature, appointed by the Crown"
+      },
+      "house_of_assembly": {
+        "description": "Lower house of the legislature, elected body"
+      },
+      "colonial_secretariat": {
+        "description": "Administrative department headed by Colonial Secretary"
+      },
+      "treasury": {
+        "description": "Financial administration department"
+      },
+      "supreme_court": {
+        "description": "Highest court in the colony"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_barbados",
+        "name": "Barbados",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "BARBADOS",
+          "actual_location_country": "Barbados",
+          "certainty": "definite",
+          "reasoning": "This is the colony itself"
+        },
+        "coordinates": {
+          "latitude": 13.0667,
+          "longitude": -59.6167,
+          "source": "Line 5: latitude 13° 4' N. and longitude 59° 37' W."
+        },
+        "area": {
+          "value": 166,
+          "unit": "square_miles",
+          "source": "Line 5: contains an area of 106,470 acres, or about 166 square miles"
+        },
+        "population": {
+          "total": 192841,
+          "year": "1946",
+          "breakdown": {
+            "european_descent": "5.1 per cent",
+            "note": "Persons of African descent, European descent, and mixed descent"
+          },
+          "source": "Lines 26-28: population in 1946, 192,841"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "1-30",
+          "original_text": "Barbados is situated in latitude 13° 4' N. and longitude 59° 37' W., and is the most easterly of the Caribbean Islands. It is nearly 21 miles long by 14 in breadth, and contains an area of 106,470 acres, or about 166 square miles",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bridgetown",
+        "name": "Bridgetown",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "BARBADOS",
+          "actual_location_country": "Barbados",
+          "certainty": "definite",
+          "reasoning": "Capital city of Barbados"
+        },
+        "parent_location": "place_barbados",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "20",
+          "original_text": "Bridgetown, the chief town and port, is situated in the south-west of the island on Carlisle Bay.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_a_w_l_savage",
+        "name": "A. W. L. Savage",
+        "titles": [],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander in Chief",
+            "canonical_title": "Governor",
+            "colony": "BARBADOS",
+            "location": "Bridgetown",
+            "status": "permanent",
+            "salary": {
+              "amount": 14400,
+              "currency": "$",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "duty",
+                "amount": 4800,
+                "currency": "$",
+                "description": "Duty allowance"
+              }
+            ]
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "339",
+          "source_section": "CIVIL ESTABLISHMENT > GOVERNOR AND PERSONAL STAFF",
+          "original_text": "Governor and Commander in Chief—A. W. L. Savage, C.M.G., $14,400. Plus $4,800 duty allowance.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_s_h_perowne",
+        "name": "S. H. Perowne",
+        "titles": [],
+        "honors": [
+          {
+            "honor": "OBE",
+            "full_name": "Officer of the Order of the British Empire"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "canonical_title": "Colonial Secretary",
+            "department": "Colonial Secretary's Office",
+            "colony": "BARBADOS",
+            "location": "Bridgetown",
+            "status": "permanent",
+            "salary": {
+              "amount": 7680,
+              "currency": "$",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "281, 344",
+          "source_section": "CIVIL ESTABLISHMENT > ADMINISTRATION > Colonial Secretary's Office",
+          "original_text": "Colonial Secretary—S. H. Perowne, O.B.E., $7,680.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_sir_allan_collymore",
+        "name": "Allan Collymore",
+        "titles": ["Sir"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "canonical_title": "Chief Justice",
+            "colony": "BARBADOS",
+            "location": "Bridgetown",
+            "status": "permanent",
+            "salary": {
+              "amount": 7920,
+              "currency": "$",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "389",
+          "source_section": "CIVIL ESTABLISHMENT > JUDICIAL",
+          "original_text": "Chief Justice—Sir Allan Collymore. $7,920.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_j_hughes",
+        "name": "William James Hughes",
+        "titles": ["Rt Rev"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Bishop",
+            "canonical_title": "Bishop",
+            "colony": "BARBADOS",
+            "location": "Bridgetown",
+            "status": "permanent",
+            "salary": {
+              "amount": 5520,
+              "currency": "$",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "housing",
+                "description": "Provided with house valued at $480 per annum for pension purposes"
+              }
+            ]
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "286, 362",
+          "source_section": "CIVIL ESTABLISHMENT > ECCLESIASTICAL",
+          "original_text": "Bishop—Rt. Rev. William James Hughes. $5,520 and house.*",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_government_barbados",
+        "name": "Government of Barbados",
+        "type": "executive",
+        "colony": "BARBADOS",
+        "location": "Bridgetown",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "44-47",
+          "source_section": "CONSTITUTION",
+          "original_text": "The colony possesses representative institutions, but not responsible government. The Crown has only a veto on legislation",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "BARBADOS",
+        "location": "Bridgetown",
+        "parent_institution_id": "inst_government_barbados",
+        "composition": {
+          "ex_officio_members": 2
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "254-262",
+          "source_section": "Executive Council",
+          "original_text": "The Governor. The Colonial Secretary. The Attorney General. D. G. Leacock, M.L.C. S. J. Saint, C.M.G., O.B.E.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_executive_committee",
+        "name": "Executive Committee",
+        "type": "executive_committee",
+        "colony": "BARBADOS",
+        "location": "Bridgetown",
+        "parent_institution_id": "inst_government_barbados",
+        "composition": {
+          "note": "Consists of Executive Council members plus members from Legislative Council and House of Assembly"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "263-272",
+          "source_section": "Executive Committee",
+          "original_text": "The Governor (Chairman). Members of the Executive Council. H. A. Cuke, O.B.E., M.L.C. G. H. Adams, M.C.P.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "BARBADOS",
+        "location": "Bridgetown",
+        "parent_institution_id": "inst_government_barbados",
+        "composition": {
+          "total_members": 15,
+          "appointed_members": 15
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "46-47, 274-293",
+          "source_section": "Legislative Council",
+          "original_text": "a Legislative Council, consisting of 15 members appointed by His Majesty",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_house_of_assembly",
+        "name": "House of Assembly",
+        "type": "house_of_assembly",
+        "colony": "BARBADOS",
+        "location": "Bridgetown",
+        "parent_institution_id": "inst_government_barbados",
+        "composition": {
+          "total_members": 24,
+          "elected_members": 24,
+          "note": "two for each parish and two for the City of Bridgetown"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "46-47, 294-315",
+          "source_section": "HOUSE OF ASSEMBLY",
+          "original_text": "a House of Assembly, consisting of 24 members (two for each parish and two for the City of Bridgetown) elected for a period of two years",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1948_49",
+        "type": "revenue",
+        "colony": "BARBADOS",
+        "year_applies": "1948-49",
+        "data": {
+          "value": 1940467,
+          "currency": "£"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "162",
+          "source_section": "PUBLIC FINANCE",
+          "original_text": "1948-49 | £1,940,467| £2,051,626",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1948_49",
+        "type": "expenditure",
+        "colony": "BARBADOS",
+        "year_applies": "1948-49",
+        "data": {
+          "value": 2051626,
+          "currency": "£"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "162",
+          "source_section": "PUBLIC FINANCE",
+          "original_text": "1948-49 | £1,940,467| £2,051,626",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1949",
+        "type": "debt",
+        "colony": "BARBADOS",
+        "year_applies": "1949",
+        "data": {
+          "value": 605360,
+          "currency": "£",
+          "category": "Public debt"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "164",
+          "source_section": "PUBLIC FINANCE",
+          "original_text": "Public debt, 31st March, 1949, £605,360.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1948",
+        "type": "imports",
+        "colony": "BARBADOS",
+        "year_applies": "1948",
+        "data": {
+          "value": 6346230,
+          "currency": "£"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "209",
+          "source_section": "Production and Trade",
+          "original_text": "The trade figures for 1948 showed a decrease in the value of goods imported as compared with 1947 of £778,700, the total being £6,346,230.",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1948",
+        "type": "exports",
+        "colony": "BARBADOS",
+        "year_applies": "1948",
+        "data": {
+          "value": 3048165,
+          "currency": "£",
+          "breakdown": {
+            "sugar": 1879255,
+            "molasses": 1147279,
+            "rum": 343703,
+            "soap": 31214,
+            "margarine": 19596
+          }
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "211-222",
+          "source_section": "Production and Trade",
+          "original_text": "The total value of exports was £3,048,165 compared with £3,715,107 in 1947",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_roads_1950",
+        "name": "Roads and Road Transport",
+        "type": "road",
+        "colony": "BARBADOS",
+        "description": "564 miles of road open for traffic; 305 miles maintained by Director of Highways and Transport",
+        "specifications": {
+          "length": {
+            "value": 564,
+            "unit": "miles"
+          }
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "100-107",
+          "source_section": "Communications > Roads and Road Transport",
+          "original_text": "There are 564 miles of road open for traffic; 305 miles are maintained by the Director of Highways and Transport and the remainder by the parochial authorities.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_airport_seawell",
+        "name": "Seawell Airport",
+        "type": "other",
+        "colony": "BARBADOS",
+        "description": "Landing ground with 5,000 feet hard surfaced runway",
+        "specifications": {
+          "runway_length": {
+            "value": 5000,
+            "unit": "feet"
+          }
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "112-115",
+          "source_section": "Communications > Air",
+          "original_text": "There is a landing ground with a 5,000 feet hard surfaced runway at Seawell in the south-eastern part of the island.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_telephone",
+        "name": "Barbados Telephone Company, Limited",
+        "type": "telegraph",
+        "colony": "BARBADOS",
+        "description": "Private telephone service with approximately 3,500 exchange stations",
+        "specifications": {
+          "stations": 3500
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "133-134",
+          "source_section": "Telecommunications",
+          "original_text": "The Barbados Telephone Company, Limited, with approximately 3,500 exchange stations, a modern automatic central exchange in Bridgetown and three branch exchanges",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_barbados_1946",
+        "colony": "BARBADOS",
+        "year_applies": "1946",
+        "population": {
+          "total": 192841,
+          "breakdown": {
+            "european_descent": "5.1 per cent",
+            "note": "Population consists of persons of African descent, persons of European descent and persons of mixed African and European descent"
+          }
+        },
+        "notes": "Persons of European descent represented 6.7 per cent of the population in 1921; the percentage in 1950 is 5.1 per cent",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "24-30",
+          "source_section": "POPULATION",
+          "original_text": "in 1946, 192,841. This increase is attributable to cessation of emigration to America, Cuba and Panama in the early twenties, decrease in the death rate and continued high birth rate.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_settlement_1625",
+        "type": "establishment",
+        "description": "Sir William Courteen fitted out two large ships to settle Barbados, landing party of 30 persons under Captain William Deane",
+        "event_date": {
+          "year": "1625",
+          "precision": "year"
+        },
+        "year_mentioned": "1950",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "40",
+          "source_section": "HISTORY",
+          "original_text": "In 1625 Sir William Courteen, a London merchant, under the protection of the Earl of Marlborough, who held a grant of the island from James I, fitted out two large ships, only one of which arrived at Barbados, and the party, which consisted of some 30 persons, landed on the leeward side of the island, formed a town called James (or Hole) Town, and appointed Captain William Deane their Governor.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_foundation_bridgetown",
+        "type": "establishment",
+        "description": "Foundation of Bridgetown, the present capital, by 64 settlers who arrived in Carlisle Bay",
+        "event_date": {
+          "year": "1628",
+          "precision": "year"
+        },
+        "year_mentioned": "1950",
+        "locations": ["place_bridgetown"],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "40",
+          "source_section": "HISTORY",
+          "original_text": "in 1628 64 settlers arrived in Carlisle Bay, commenced the erection of wooden houses, threw a bridge across the river which intersected the ground, and laid the foundation of Bridgetown, the present capital.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_abolition_4_5_percent_duty",
+        "type": "constitutional_change",
+        "description": "Abolition of 4½ per cent export duties by Act of Parliament, four years after abolition of slavery",
+        "event_date": {
+          "year": "1838",
+          "precision": "year"
+        },
+        "year_mentioned": "1950",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+          "source_lines": "40",
+          "source_section": "HISTORY",
+          "original_text": "it was not till 1838, four years after the abolition of slavery, that the tax was abolished by an Act of Parliament.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_a_w_l_savage",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_government_barbados",
+      "properties": {
+        "position": "Governor",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_s_h_perowne",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_government_barbados",
+      "properties": {
+        "position": "Colonial Secretary",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_bridgetown",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_barbados",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "inst_executive_council",
+      "relationship_type": "PART_OF",
+      "target_id": "inst_government_barbados",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "inst_legislative_council",
+      "relationship_type": "PART_OF",
+      "target_id": "inst_government_barbados",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "inst_house_of_assembly",
+      "relationship_type": "PART_OF",
+      "target_id": "inst_government_barbados",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BARBADOS.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 21,
+    "entities_by_type": {
+      "places": 2,
+      "people": 4,
+      "institutions": 5,
+      "economic_data": 5,
+      "infrastructure": 3,
+      "demographics": 1,
+      "events": 3
+    },
+    "total_relationships": 6,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 2,
+      "LOCATED_IN": 1,
+      "PART_OF": 3
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

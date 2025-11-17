@@ -1,0 +1,469 @@
+{
+  "metadata": {
+    "year": "1867",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1867.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1867_manual_parsed",
+    "extraction_date": "2025-11-17T10:15:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 LLM",
+    "colonies_processed": ["BARBADOS"],
+    "processing_notes": "Complete extraction for Barbados in 1867 using LLM context-awareness - earliest year available"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      },
+      "KCB": {
+        "full_name": "Knight Commander of the Order of the Bath",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      }
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Rev": {"full_form": "Reverend", "category": "religious"},
+      "Rt Rev": {"full_form": "Right Reverend", "category": "religious"},
+      "Dr": {"full_form": "Doctor", "category": "academic"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor and Commander-in-Chief", "hierarchy_level": 2, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"},
+      "Attorney-General": {"canonical_name": "Attorney-General", "hierarchy_level": 3, "category": "judicial"},
+      "Bishop": {"canonical_name": "Bishop", "hierarchy_level": 2, "category": "religious"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_barbados",
+        "name": "Barbados",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "BARBADOS",
+          "actual_location_country": "Barbados",
+          "certainty": "definite"
+        },
+        "coordinates": {
+          "latitude": 13.0667,
+          "longitude": -59.6167,
+          "source": "Line 3: latitude 13° 4' North and longitude 59° 37' West"
+        },
+        "area": {
+          "value": 166,
+          "unit": "square_miles",
+          "source": "Line 3: about 166 square miles"
+        },
+        "population": {
+          "total": 132727,
+          "year": "1861",
+          "breakdown": {
+            "white": 16594,
+            "coloured_and_black": 116133
+          },
+          "source": "Line 18: census of 1861 shows a total of 132,727 inhabitants, 16,594 of which are white, and the remainder coloured and black"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "1-19",
+          "original_text": "Barbados is situated in latitude 13° 4' North and longitude 59° 37' West, and is the most windward of the Caribbee Islands",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bridgetown",
+        "name": "Bridgetown",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "BARBADOS",
+          "actual_location_country": "Barbados",
+          "certainty": "definite"
+        },
+        "coordinates": {
+          "latitude": 13.095,
+          "longitude": -59.6417,
+          "source": "Line 10: latitude 13° 5' 42\" North, and longitude 59° 38' 29\" West"
+        },
+        "parent_location": "place_barbados",
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "10",
+          "original_text": "Bridgetown, the chief town and port, is situated in the parish of St. Michael, the principal of 11 parishes",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_james_walker",
+        "name": "James Walker",
+        "titles": [],
+        "honors": [{"honor": "CB", "full_name": "Companion of the Order of the Bath"}],
+        "positions": [{
+          "title": "Governor and Commander-in-Chief",
+          "canonical_title": "Governor",
+          "colony": "BARBADOS",
+          "location": "Bridgetown",
+          "status": "permanent",
+          "salary": {"amount": 4000, "currency": "£", "period": "annual"}
+        }],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "286",
+          "source_section": "Civil Establishment",
+          "original_text": "Governor and Commander-in-Chief, James Walker, C.B., 4,000l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_james_r_holligan",
+        "name": "James R. Holligan",
+        "titles": [],
+        "honors": [],
+        "positions": [{
+          "title": "Colonial Secretary",
+          "canonical_title": "Colonial Secretary",
+          "department": "Colonial Secretary's Office",
+          "colony": "BARBADOS",
+          "status": "permanent",
+          "salary": {"amount": 700, "currency": "£", "period": "annual"},
+          "allowances": [
+            {"type": "fees", "description": "fees as Notary Public, averaging 120l."},
+            {"type": "office", "amount": 400, "currency": "£", "description": "office expenses"}
+          ]
+        }],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "292",
+          "source_section": "Colonial Secretary's Office",
+          "original_text": "Colonial Secretary, James R. Holligan, 700l., and fees as Notary Public, averaging 120l., and 400l. for office expenses.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_r_b_clarke",
+        "name": "R. B. Clarke",
+        "titles": ["Sir"],
+        "honors": [{"honor": "CB", "full_name": "Companion of the Order of the Bath"}],
+        "positions": [{
+          "title": "Chief Justice",
+          "canonical_title": "Chief Justice",
+          "colony": "BARBADOS",
+          "status": "permanent",
+          "salary": {"amount": 2000, "currency": "£", "period": "annual"}
+        }],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "376",
+          "source_section": "Judicial Establishment",
+          "original_text": "Chief Justice, Sir R. B. Clarke, Kt., C.B., 2,000l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_thomas_parry",
+        "name": "Thomas Parry",
+        "titles": ["Rt Rev"],
+        "honors": [],
+        "biographical": {
+          "education": "D.D."
+        },
+        "positions": [{
+          "title": "Bishop",
+          "canonical_title": "Bishop",
+          "colony": "BARBADOS",
+          "status": "permanent",
+          "salary": {"amount": 2500, "currency": "£", "period": "annual"},
+          "allowances": [{"type": "housing", "description": "and a residence"}]
+        }],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "458",
+          "source_section": "Ecclesiastical",
+          "original_text": "Bishop, Rt. Rev. Thos. Parry, D.D., 2,500l., and a residence.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "BARBADOS",
+        "location": "Bridgetown",
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "215-228",
+          "source_section": "Executive Council",
+          "original_text": "The Governor. The Lord Bishop. G. E. Thomas, President.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "BARBADOS",
+        "location": "Bridgetown",
+        "composition": {
+          "note": "Same members as Executive Council except the Governor"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "233-235",
+          "source_section": "Legislative Council",
+          "original_text": "The same members as comprise the Executive Council, except the Governor.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_house_of_assembly",
+        "name": "House of Assembly",
+        "type": "house_of_assembly",
+        "colony": "BARBADOS",
+        "location": "Bridgetown",
+        "composition": {
+          "total_members": 24,
+          "note": "2 for Bridgetown and 2 for each of 11 parishes"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "237-283",
+          "source_section": "House of Assembly",
+          "original_text": "Charles Packer, Speaker",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1865",
+        "type": "revenue",
+        "colony": "BARBADOS",
+        "year_applies": "1865",
+        "data": {"value": 98870, "currency": "£"},
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "64",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "1865 | £98,870 | £99,383",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1865",
+        "type": "expenditure",
+        "colony": "BARBADOS",
+        "year_applies": "1865",
+        "data": {"value": 99383, "currency": "£"},
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "64",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "1865 | £98,870 | £99,383",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1865",
+        "type": "imports",
+        "colony": "BARBADOS",
+        "year_applies": "1865",
+        "data": {"value": 951334, "currency": "£"},
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "83",
+          "source_section": "Value of Imports and Exports",
+          "original_text": "1865 | £951,334| £1,161,159",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1865",
+        "type": "exports",
+        "colony": "BARBADOS",
+        "year_applies": "1865",
+        "data": {"value": 1161159, "currency": "£"},
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "83",
+          "source_section": "Value of Imports and Exports",
+          "original_text": "1865 | £951,334| £1,161,159",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_barbados_1861",
+        "colony": "BARBADOS",
+        "year_applies": "1861",
+        "population": {
+          "total": 132727,
+          "breakdown": {
+            "white": 16594,
+            "coloured_and_black": 116133
+          }
+        },
+        "notes": "Historical census data showing demographic composition in British colonial categorizations",
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "18",
+          "source_section": "Population",
+          "original_text": "the census of 1861 shows a total of 132,727 inhabitants, 16,594 of which are white, and the remainder coloured and black",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_establishment_police_1835",
+        "type": "establishment",
+        "description": "Police force established in Barbados, stated to be first attempt in British West India Colonies",
+        "event_date": {"year": "1835", "precision": "year"},
+        "year_mentioned": "1867",
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "24",
+          "source_section": "Police, &c.",
+          "original_text": "A police force was established in Barbados in 1835 by an Act of the Legislature, and is stated to have been the first attempt in the British West India Colonies to establish a force of that description",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_bishopric_establishment_1824",
+        "type": "establishment",
+        "description": "Bishopric of Barbados and the Leeward Islands with British Guiana was erected",
+        "event_date": {"year": "1824", "precision": "year"},
+        "year_mentioned": "1867",
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "20",
+          "original_text": "it was not till 1824 that the Bishopric of Barbados and the Leeward Islands, with British Guiana, was erected",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude Sonnet 4.5 LLM",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_james_walker",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_barbados",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md", "extraction_confidence": 0.98, "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "place_bridgetown",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_barbados",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "inst_legislative_council",
+      "relationship_type": "PART_OF",
+      "target_id": "inst_executive_council",
+      "properties": {"confidence": "probable", "notes": "Same membership"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/BARBADOS.md", "extraction_confidence": 0.90, "extraction_method": "inferred"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 17,
+    "entities_by_type": {"places": 2, "people": 4, "institutions": 3, "economic_data": 4, "demographics": 1, "events": 2, "infrastructure": 1},
+    "total_relationships": 3,
+    "relationships_by_type": {"GOVERNS": 1, "LOCATED_IN": 1, "PART_OF": 1},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

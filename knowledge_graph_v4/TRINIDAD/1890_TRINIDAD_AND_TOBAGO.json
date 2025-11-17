@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "year": "1890",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1890.pdf",
+    "source_directory": "output_2/1890_manual_parsed",
+    "extraction_date": "2025-11-17T21:20:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["TRINIDAD AND TOBAGO"],
+    "processing_notes": "FIRST YEAR as Trinidad and Tobago - Tobago amalgamated January 1, 1889"
+  },
+  "controlled_vocabularies": {
+    "honors": {"KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2}},
+    "titles": {"Sir": {"full_form": "Sir", "category": "nobility"}},
+    "positions": {"Governor": {"canonical_name": "Governor and Commander-in-Chief", "hierarchy_level": 2, "category": "executive"}}
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_trinidad_and_tobago",
+        "name": "Trinidad and Tobago",
+        "type": "colony",
+        "year": "1890",
+        "location_context": {"mentioned_in_colony": "TRINIDAD AND TOBAGO", "actual_location_country": "Trinidad and Tobago", "certainty": "definite", "reasoning": "Unified colony after amalgamation"},
+        "year": "1890",
+        "provenance": {"source_file": "output_2/1890_manual_parsed/TRINIDAD_AND_TOBAGO.md", "source_lines": "1-8", "original_text": "The Colony now includes Tobago (formerly in the Windward Islands), which was amalgamated with Trinidad by an Order in Council under the Act 50 and 51 Vic., c. 44, on 1st Jan., 1889", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_trinidad",
+        "name": "Trinidad",
+        "type": "island",
+        "year": "1890",
+        "location_context": {"mentioned_in_colony": "TRINIDAD AND TOBAGO", "actual_location_country": "Trinidad and Tobago", "certainty": "definite", "reasoning": "Main island of colony"},
+        "area": {"value": 1754, "unit": "square_miles", "source": "Line 7"},
+        "parent_location": "place_trinidad_and_tobago",
+        "year": "1890",
+        "provenance": {"source_file": "output_2/1890_manual_parsed/TRINIDAD_AND_TOBAGO.md", "source_lines": "5-7", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_tobago",
+        "name": "Tobago",
+        "type": "island",
+        "year": "1890",
+        "location_context": {"mentioned_in_colony": "TRINIDAD AND TOBAGO", "actual_location_country": "Trinidad and Tobago", "certainty": "definite", "reasoning": "Amalgamated island"},
+        "parent_location": "place_trinidad_and_tobago",
+        "year": "1890",
+        "provenance": {"source_file": "output_2/1890_manual_parsed/TRINIDAD_AND_TOBAGO.md", "source_lines": "7-8", "original_text": "The Colony now includes Tobago (formerly in the Windward Islands), which was amalgamated with Trinidad by an Order in Council under the Act 50 and 51 Vic., c. 44, on 1st Jan., 1889", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_port_of_spain",
+        "name": "Port of Spain",
+        "type": "city",
+        "year": "1890",
+        "location_context": {"mentioned_in_colony": "TRINIDAD AND TOBAGO", "actual_location_country": "Trinidad and Tobago", "certainty": "definite", "reasoning": "Capital of Trinidad"},
+        "population": {"total": 31858, "year": "1881", "source": "Line 29"},
+        "parent_location": "place_trinidad",
+        "year": "1890",
+        "provenance": {"source_file": "output_2/1890_manual_parsed/TRINIDAD_AND_TOBAGO.md", "source_lines": "29", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_san_fernando",
+        "name": "San Fernando",
+        "type": "town",
+        "year": "1890",
+        "location_context": {"mentioned_in_colony": "TRINIDAD AND TOBAGO", "actual_location_country": "Trinidad and Tobago", "certainty": "definite", "reasoning": "Second town of Trinidad"},
+        "population": {"total": 6835, "year": "1881", "source": "Line 31"},
+        "parent_location": "place_trinidad",
+        "year": "1890",
+        "provenance": {"source_file": "output_2/1890_manual_parsed/TRINIDAD_AND_TOBAGO.md", "source_lines": "31", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_arima",
+        "name": "Arima",
+        "type": "town",
+        "year": "1890",
+        "location_context": {"mentioned_in_colony": "TRINIDAD AND TOBAGO", "actual_location_country": "Trinidad and Tobago", "certainty": "definite", "reasoning": "Inland town recently incorporated"},
+        "population": {"total": 8000, "year": "1890", "source": "Line 35"},
+        "parent_location": "place_trinidad",
+        "year": "1890",
+        "provenance": {"source_file": "output_2/1890_manual_parsed/TRINIDAD_AND_TOBAGO.md", "source_lines": "35", "original_text": "A charter of incorporation has lately been granted to Arima, an inland town about 16 miles from Port of Spain, with some 8,000 inhabitants", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "people": [],
+    "institutions": [],
+    "economic_data": [],
+    "infrastructure": [],
+    "demographics": [],
+    "events": [
+      {
+        "id": "event_tobago_amalgamation",
+        "type": "constitutional_change",
+        "description": "Tobago (formerly in the Windward Islands) was amalgamated with Trinidad by Order in Council under Act 50 and 51 Vic., c. 44, creating the unified colony of Trinidad and Tobago",
+        "event_date": {"year": "1889", "month": "January", "day": "1", "precision": "exact"},
+        "year_mentioned": "1890",
+        "locations": ["place_trinidad", "place_tobago", "place_trinidad_and_tobago"],
+        "year": "1890",
+        "provenance": {"source_file": "output_2/1890_manual_parsed/TRINIDAD_AND_TOBAGO.md", "source_lines": "7-8", "original_text": "The Colony now includes Tobago (formerly in the Windward Islands), which was amalgamated with Trinidad by an Order in Council under the Act 50 and 51 Vic., c. 44, on 1st Jan., 1889", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_trinidad",
+      "relationship_type": "PART_OF",
+      "target_id": "place_trinidad_and_tobago",
+      "properties": {"year": "1890", "confidence": "definite", "start_date": "1889-01-01"},
+      "provenance": {"source_file": "output_2/1890_manual_parsed/TRINIDAD_AND_TOBAGO.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "inferred"}
+    },
+    {
+      "source_id": "place_tobago",
+      "relationship_type": "PART_OF",
+      "target_id": "place_trinidad_and_tobago",
+      "properties": {"year": "1890", "confidence": "definite", "start_date": "1889-01-01"},
+      "provenance": {"source_file": "output_2/1890_manual_parsed/TRINIDAD_AND_TOBAGO.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "inferred"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 7,
+    "entities_by_type": {"places": 6, "events": 1},
+    "total_relationships": 2
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "year": "1886",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1886.pdf",
+    "source_directory": "output_2/1886_manual_parsed",
+    "extraction_date": "2025-11-17T21:20:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["TRINIDAD"],
+    "processing_notes": "Pre-Tobago amalgamation; population 153,128 (1881 census)"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2}
+    },
+    "titles": {"Sir": {"full_form": "Sir", "category": "nobility"}},
+    "positions": {
+      "Governor": {"canonical_name": "Governor and Commander-in-Chief", "hierarchy_level": 2, "category": "executive"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_trinidad",
+        "name": "Trinidad",
+        "type": "colony",
+        "year": "1886",
+        "location_context": {"mentioned_in_colony": "TRINIDAD", "actual_location_country": "Trinidad and Tobago", "certainty": "definite", "reasoning": "Colony before Tobago amalgamation"},
+        "area": {"value": 1754, "unit": "square_miles", "source": "Line 3"},
+        "population": {"total": 153128, "year": "1881", "source": "Line 46"},
+        "year": "1886",
+        "provenance": {"source_file": "output_2/1886_manual_parsed/TRINIDAD.md", "source_lines": "1-46", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_port_of_spain",
+        "name": "Port of Spain",
+        "type": "city",
+        "year": "1886",
+        "location_context": {"mentioned_in_colony": "TRINIDAD", "actual_location_country": "Trinidad and Tobago", "certainty": "definite", "reasoning": "Capital city"},
+        "population": {"total": 31858, "year": "1881", "source": "Line 28"},
+        "parent_location": "place_trinidad",
+        "year": "1886",
+        "provenance": {"source_file": "output_2/1886_manual_parsed/TRINIDAD.md", "source_lines": "27-28", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_san_fernando",
+        "name": "San Fernando",
+        "type": "town",
+        "year": "1886",
+        "location_context": {"mentioned_in_colony": "TRINIDAD", "actual_location_country": "Trinidad and Tobago", "certainty": "definite", "reasoning": "Second town"},
+        "population": {"total": 6335, "year": "1881", "source": "Line 30"},
+        "parent_location": "place_trinidad",
+        "year": "1886",
+        "provenance": {"source_file": "output_2/1886_manual_parsed/TRINIDAD.md", "source_lines": "30", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "people": [],
+    "institutions": [],
+    "economic_data": [
+      {
+        "id": "econ_production_cacao_coffee",
+        "type": "production",
+        "colony": "TRINIDAD",
+        "year_applies": "1886",
+        "data": {"value": 25188, "unit": "acres", "category": "cacao and coffee cultivation"},
+        "year": "1886",
+        "provenance": {"source_file": "output_2/1886_manual_parsed/TRINIDAD.md", "source_lines": "38", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_trinidad_1881",
+        "colony": "TRINIDAD",
+        "year_applies": "1881",
+        "population": {"total": 153128},
+        "notes": "Census of 1881",
+        "year": "1886",
+        "provenance": {"source_file": "output_2/1886_manual_parsed/TRINIDAD.md", "source_lines": "46", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "events": []
+  },
+  "relationships": [],
+  "extraction_statistics": {
+    "total_entities": 5,
+    "entities_by_type": {"places": 3, "economic_data": 1, "demographics": 1}
+  }
+}

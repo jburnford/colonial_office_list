@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "year": "1888",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1888.pdf",
+    "source_directory": "output_2/1888_manual_parsed",
+    "extraction_date": "2025-11-17T21:20:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["TRINIDAD"],
+    "processing_notes": "CRITICAL: Document mentions Tobago is about to be amalgamated with Trinidad under Act 50 and 51 Vic., c. 44"
+  },
+  "controlled_vocabularies": {
+    "honors": {"KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2}},
+    "titles": {"Sir": {"full_form": "Sir", "category": "nobility"}},
+    "positions": {"Governor": {"canonical_name": "Governor and Commander-in-Chief", "hierarchy_level": 2, "category": "executive"}}
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_trinidad",
+        "name": "Trinidad",
+        "type": "colony",
+        "year": "1888",
+        "location_context": {"mentioned_in_colony": "TRINIDAD", "actual_location_country": "Trinidad and Tobago", "certainty": "definite", "reasoning": "Main island before Tobago amalgamation"},
+        "area": {"value": 1754, "unit": "square_miles", "source": "Line 5"},
+        "year": "1888",
+        "provenance": {"source_file": "output_2/1888_manual_parsed/TRINIDAD.md", "source_lines": "1-6", "original_text": "The Colony will henceforth include Tobago (hitherto in the Windward Islands), which is about to be amalgamated with Trinidad", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated", "notes": "Document announces pending Tobago amalgamation"}
+      },
+      {
+        "id": "place_tobago",
+        "name": "Tobago",
+        "type": "island",
+        "year": "1888",
+        "location_context": {"mentioned_in_colony": "TRINIDAD", "actual_location_country": "Trinidad and Tobago", "certainty": "definite", "reasoning": "About to be amalgamated with Trinidad"},
+        "year": "1888",
+        "provenance": {"source_file": "output_2/1888_manual_parsed/TRINIDAD.md", "source_lines": "5-6", "original_text": "The Colony will henceforth include Tobago (hitherto in the Windward Islands), which is about to be amalgamated with Trinidad by an Order in Council under the Act 50 and 51 Vic., c. 44", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_port_of_spain",
+        "name": "Port of Spain",
+        "type": "city",
+        "year": "1888",
+        "location_context": {"mentioned_in_colony": "TRINIDAD", "actual_location_country": "Trinidad and Tobago", "certainty": "definite", "reasoning": "Capital"},
+        "population": {"total": 31858, "year": "1881", "source": "Line 25"},
+        "parent_location": "place_trinidad",
+        "year": "1888",
+        "provenance": {"source_file": "output_2/1888_manual_parsed/TRINIDAD.md", "source_lines": "25", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_san_fernando",
+        "name": "San Fernando",
+        "type": "town",
+        "year": "1888",
+        "location_context": {"mentioned_in_colony": "TRINIDAD", "actual_location_country": "Trinidad and Tobago", "certainty": "definite", "reasoning": "Second town"},
+        "population": {"total": 6335, "year": "1881", "source": "Line 27"},
+        "parent_location": "place_trinidad",
+        "year": "1888",
+        "provenance": {"source_file": "output_2/1888_manual_parsed/TRINIDAD.md", "source_lines": "27", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "people": [],
+    "institutions": [],
+    "economic_data": [
+      {
+        "id": "econ_production_cacao_coffee",
+        "type": "production",
+        "colony": "TRINIDAD",
+        "year_applies": "1888",
+        "data": {"value": 43363, "unit": "acres", "category": "cacao and coffee cultivation"},
+        "year": "1888",
+        "provenance": {"source_file": "output_2/1888_manual_parsed/TRINIDAD.md", "source_lines": "39", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_railway_cost",
+        "type": "debt",
+        "colony": "TRINIDAD",
+        "year_applies": "1888",
+        "data": {"value": 602352, "currency": "GBP", "category": "railway construction"},
+        "year": "1888",
+        "provenance": {"source_file": "output_2/1888_manual_parsed/TRINIDAD.md", "source_lines": "50", "original_text": "The total cost of the railways has been 602,352l.", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway_total",
+        "name": "Trinidad Railway System",
+        "type": "railway",
+        "colony": "TRINIDAD",
+        "description": "Complete railway system from Port of Spain to Princes Town",
+        "specifications": {"length": {"value": 51.5, "unit": "miles"}},
+        "construction": {"cost": {"amount": 602352, "currency": "GBP"}},
+        "operation": {"revenue": 49813, "expenses": 42659},
+        "year": "1888",
+        "provenance": {"source_file": "output_2/1888_manual_parsed/TRINIDAD.md", "source_lines": "49-50", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "demographics": [],
+    "events": [
+      {
+        "id": "event_tobago_amalgamation_pending",
+        "type": "constitutional_change",
+        "description": "Tobago (hitherto in the Windward Islands) is about to be amalgamated with Trinidad by Order in Council under Act 50 and 51 Vic., c. 44",
+        "event_date": {"year": "1889", "precision": "year"},
+        "year_mentioned": "1888",
+        "locations": ["place_trinidad", "place_tobago"],
+        "year": "1888",
+        "provenance": {"source_file": "output_2/1888_manual_parsed/TRINIDAD.md", "source_lines": "5-6", "original_text": "The Colony will henceforth include Tobago (hitherto in the Windward Islands), which is about to be amalgamated with Trinidad by an Order in Council under the Act 50 and 51 Vic., c. 44", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:20:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ]
+  },
+  "relationships": [],
+  "extraction_statistics": {
+    "total_entities": 8,
+    "entities_by_type": {"places": 4, "economic_data": 2, "infrastructure": 1, "events": 1}
+  }
+}

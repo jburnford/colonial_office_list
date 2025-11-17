@@ -1,0 +1,341 @@
+{
+  "metadata": {
+    "year": "1883",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1883.pdf",
+    "source_directory": "output_2/1883_manual_parsed",
+    "extraction_date": "2025-11-17T21:10:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["TRINIDAD"],
+    "processing_notes": "Railway extension to San Fernando completed 1882; population 153,128 (1881 census)"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3}
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Captain": {"full_form": "Captain", "category": "military"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor and Commander-in-Chief", "hierarchy_level": 2, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Attorney-General": {"canonical_name": "Attorney-General", "hierarchy_level": 3, "category": "judicial"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council to the Governor"},
+      "legislative_council": {"description": "Legislative body of the colony"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_trinidad",
+        "name": "Trinidad",
+        "type": "colony",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Main colony"
+        },
+        "area": {"value": 1754, "unit": "square_miles", "source": "Line 3"},
+        "population": {"total": 153128, "year": "1881", "source": "Line 48"},
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/TRINIDAD.md",
+          "source_lines": "1-48",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_port_of_spain",
+        "name": "Port of Spain",
+        "type": "city",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Capital city"
+        },
+        "population": {"total": 31858, "year": "1883", "source": "Line 26"},
+        "parent_location": "place_trinidad",
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/TRINIDAD.md",
+          "source_lines": "26",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_san_fernando",
+        "name": "San Fernando",
+        "type": "town",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Second town"
+        },
+        "population": {"total": 6835, "year": "1883", "source": "Line 28"},
+        "parent_location": "place_trinidad",
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/TRINIDAD.md",
+          "source_lines": "28",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_sanford_freeling",
+        "name": "Sanford Freeling",
+        "titles": ["Sir"],
+        "honors": [{"honor": "KCMG", "full_name": "Knight Commander of the Order of St Michael and St George"}],
+        "positions": [{
+          "title": "Governor and Commander-in-Chief",
+          "colony": "TRINIDAD",
+          "status": "permanent"
+        }],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/TRINIDAD.md",
+          "source_lines": "261",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_scott_bushe_1883",
+        "name": "J. Scott Bushe",
+        "honors": [{"honor": "CMG", "full_name": "Companion of the Order of St Michael and St George"}],
+        "positions": [{
+          "title": "Colonial Secretary",
+          "colony": "TRINIDAD",
+          "status": "permanent"
+        }],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/TRINIDAD.md",
+          "source_lines": "245, 266",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_needham_1883",
+        "name": "J. Needham",
+        "titles": ["Sir"],
+        "positions": [{
+          "title": "Chief Justice",
+          "colony": "TRINIDAD",
+          "status": "permanent"
+        }],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/TRINIDAD.md",
+          "source_lines": "244",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "TRINIDAD",
+        "composition": {"total_members": 3},
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/TRINIDAD.md",
+          "source_lines": "234-239",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "TRINIDAD",
+        "composition": {"total_members": 15, "official_members": 6, "unofficial_members": 8},
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/TRINIDAD.md",
+          "source_lines": "241-258",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1881",
+        "type": "revenue",
+        "colony": "TRINIDAD",
+        "year_applies": "1881",
+        "data": {"value": 464968, "currency": "GBP"},
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/TRINIDAD.md",
+          "source_lines": "213",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1881",
+        "type": "expenditure",
+        "colony": "TRINIDAD",
+        "year_applies": "1881",
+        "data": {"value": 500423, "currency": "GBP"},
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/TRINIDAD.md",
+          "source_lines": "213",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_railways",
+        "type": "debt",
+        "colony": "TRINIDAD",
+        "year_applies": "1883",
+        "data": {"value": 489020, "currency": "GBP", "category": "railways"},
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/TRINIDAD.md",
+          "source_lines": "216",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway_san_fernando",
+        "name": "Railway Extension to San Fernando",
+        "type": "railway",
+        "colony": "TRINIDAD",
+        "description": "Extension from Couva to San Fernando",
+        "specifications": {"length": {"value": 7, "unit": "miles"}},
+        "construction": {"completion_date": "1882-04-17"},
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/TRINIDAD.md",
+          "source_lines": "54",
+          "original_text": "the further extension to San Fernando (7 miles), was opened on the 17th April, 1882",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_trinidad_1881",
+        "colony": "TRINIDAD",
+        "year_applies": "1881",
+        "population": {"total": 153128},
+        "notes": "Census of 1881",
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/TRINIDAD.md",
+          "source_lines": "48",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_railway_extension_1882",
+        "type": "infrastructure",
+        "description": "Railway extension to San Fernando completed",
+        "event_date": {"year": "1882", "month": "April", "day": "17", "precision": "exact"},
+        "year_mentioned": "1883",
+        "locations": ["place_san_fernando"],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/TRINIDAD.md",
+          "source_lines": "54",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_sanford_freeling",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_trinidad",
+      "properties": {"year": "1883", "confidence": "definite"},
+      "provenance": {
+        "source_file": "output_2/1883_manual_parsed/TRINIDAD.md",
+        "extraction_confidence": 1.0,
+        "extraction_date": "2025-11-17T21:10:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 14,
+    "entities_by_type": {"places": 3, "people": 3, "institutions": 2, "economic_data": 3, "infrastructure": 1, "demographics": 1, "events": 1},
+    "total_relationships": 1
+  }
+}

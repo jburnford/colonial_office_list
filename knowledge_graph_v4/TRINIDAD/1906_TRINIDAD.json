@@ -1,0 +1,7 @@
+{
+  "metadata": {"year": "1906", "schema_version": "2.0", "source_pdf": "ColonialOfficeList1906.pdf", "source_directory": "output_2/1906_manual_parsed", "extraction_date": "2025-11-17T21:35:00Z", "extraction_agent": "Claude-Sonnet-4.5", "colonies_processed": ["TRINIDAD"], "processing_notes": "Edwardian era"},
+  "controlled_vocabularies": {"honors": {"KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2}}, "titles": {"Sir": {"full_form": "Sir", "category": "nobility"}}, "positions": {"Governor": {"canonical_name": "Governor", "hierarchy_level": 2, "category": "executive"}}},
+  "entities": {"places": [{"id": "place_trinidad", "name": "Trinidad", "type": "colony", "year": "1906", "location_context": {"mentioned_in_colony": "TRINIDAD", "actual_location_country": "Trinidad and Tobago", "certainty": "definite", "reasoning": "Colony"}, "year": "1906", "provenance": {"source_file": "output_2/1906_manual_parsed/TRINIDAD.md", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T21:35:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}], "people": [], "institutions": [], "economic_data": [], "infrastructure": [], "demographics": [], "events": []},
+  "relationships": [],
+  "extraction_statistics": {"total_entities": 1, "entities_by_type": {"places": 1}}
+}

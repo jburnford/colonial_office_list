@@ -1,0 +1,622 @@
+{
+  "metadata": {
+    "year": "1898",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1898.pdf",
+    "source_directory": "output_2/1898_manual_parsed",
+    "extraction_date": "2025-11-17T10:15:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["GRENADA"],
+    "processing_notes": "Spice Island of the West. Growing cocoa and nutmeg production. Sir Alfred Moloney as Governor."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "CB": {"full_name": "Companion of the Order of the Bath", "type": "order", "rank": 3}
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Rev": {"full_form": "Reverend", "category": "religious"},
+      "Very Rev": {"full_form": "Very Reverend", "category": "religious"},
+      "Major": {"full_form": "Major", "category": "military"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 1, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Attorney-General": {"canonical_name": "Attorney-General", "hierarchy_level": 3, "category": "judicial"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council to the Governor"},
+      "legislative_council": {"description": "Legislative body of the colony"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_grenada",
+        "name": "Grenada",
+        "type": "colony",
+        "year": "1898",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Principal colony, headquarters of Windward Islands"
+        },
+        "coordinates": {
+          "latitude": 12.23,
+          "longitude": -61.46,
+          "source": "Lines 6: between 12° 30' and 11° 58' N. lat., and 61° 20' and 61° 35' W. long."
+        },
+        "area": {
+          "value": 133,
+          "unit": "square_miles",
+          "source": "Line 6"
+        },
+        "population": {
+          "total": 60367,
+          "year": "1896",
+          "source": "Line 85"
+        },
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "6",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_georges",
+        "name": "St. George's",
+        "type": "city",
+        "year": "1898",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Principal town and capital, port of registry"
+        },
+        "population": {
+          "total": 5000,
+          "year": "1898",
+          "source": "Line 12"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "12",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_carriacou",
+        "name": "Carriacou",
+        "type": "island",
+        "year": "1898",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Largest of the Grenadines attached to Grenada"
+        },
+        "area": {
+          "value": 6913,
+          "unit": "acres",
+          "source": "Line 6"
+        },
+        "population": {
+          "total": 6190,
+          "year": "1891",
+          "source": "Line 6"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "6",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_grand_etang",
+        "name": "Grand Etang",
+        "type": "other",
+        "year": "1898",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Mountain lake, old crater"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "12, 18",
+          "original_text": "The Grand Etang, a lake on the summit of a mountain ridge 1,740 feet above the level of the sea",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_alfred_moloney",
+        "name": "C. A. Moloney",
+        "name_variants": ["Alfred Moloney"],
+        "titles": ["Sir"],
+        "honors": [
+          {"honor": "KCMG", "full_name": "Knight Commander of the Order of St Michael and St George"}
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "GRENADA",
+            "location": "Windward Islands",
+            "status": "permanent",
+            "salary": {"amount": 2500, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1898",
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "76, 155",
+          "original_text": "Sir Alfred Moloney, K.C.M.G., Governor",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_edward_drayton",
+        "name": "Edward Drayton",
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {"amount": 600, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1898",
+        "biographical": {
+          "previous_service": "Previously served as Administrator in 1893-1895"
+        },
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "70, 72, 74, 161",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_c_j_tarring",
+        "name": "C. J. Tarring",
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {"amount": 1000, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1898",
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "224",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_leslie_probyn",
+        "name": "Leslie Probyn",
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {"amount": 700, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1898",
+        "biographical": {
+          "previous_service": "Previously served as Administrator in 1897"
+        },
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "75, 225",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_c_falconer_anton",
+        "name": "C. Falconer Anton",
+        "positions": [
+          {
+            "title": "Treasurer",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {"amount": 450, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1898",
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "166",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "GRENADA",
+        "year": "1898",
+        "composition": {
+          "official_members": 4,
+          "unofficial_members": 2
+        },
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "135-141",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "GRENADA",
+        "year": "1898",
+        "composition": {
+          "total_members": 14,
+          "official_members": 7,
+          "unofficial_members": 7
+        },
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "143-151",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_savings_bank",
+        "name": "Government Savings Bank",
+        "type": "treasury",
+        "colony": "GRENADA",
+        "location": "St. George",
+        "year": "1898",
+        "established": "1881",
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "32",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_board_of_education",
+        "name": "Board of Education",
+        "type": "education_department",
+        "colony": "GRENADA",
+        "year": "1898",
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "54-55",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1896",
+        "type": "revenue",
+        "colony": "GRENADA",
+        "year": "1898",
+        "year_applies": "1896",
+        "data": {
+          "value": 66275,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "100",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1896",
+        "type": "expenditure",
+        "colony": "GRENADA",
+        "year": "1898",
+        "year_applies": "1896",
+        "data": {
+          "value": 60525,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "100",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_cocoa_exports_1896",
+        "type": "exports",
+        "colony": "GRENADA",
+        "year": "1898",
+        "year_applies": "1896",
+        "data": {
+          "value": 59519,
+          "currency": "£",
+          "category": "cocoa",
+          "unit": "90193 cwt"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "24",
+          "original_text": "cocoa, of which 90,193 cwt., of the total value of £59,519/., were shipped in 1896",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_spices_exports_1896",
+        "type": "exports",
+        "colony": "GRENADA",
+        "year": "1898",
+        "year_applies": "1896",
+        "data": {
+          "value": 12421,
+          "currency": "£",
+          "category": "spices"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "24",
+          "original_text": "The export of spices has increased from 3,483l. in 1880, to 12,421l. in 1896",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_public_debt_1896",
+        "type": "debt",
+        "colony": "GRENADA",
+        "year": "1898",
+        "year_applies": "1896",
+        "data": {
+          "value": 127770,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "133",
+          "original_text": "Public Debt, 1896—127,770l.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_customs_revenue_1896",
+        "type": "revenue",
+        "colony": "GRENADA",
+        "year": "1898",
+        "year_applies": "1896",
+        "data": {
+          "value": 24583,
+          "currency": "£",
+          "category": "customs"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "102",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_roads_1898",
+        "type": "road",
+        "colony": "GRENADA",
+        "year": "1898",
+        "name": "Road Network",
+        "description": "All roads in excellent condition",
+        "specifications": {
+          "length": {"value": 40, "unit": "miles"},
+          "other": {"type": "driving roads in various directions with perfect network of byways"}
+        },
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "12",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_port_st_georges",
+        "type": "port",
+        "colony": "GRENADA",
+        "year": "1898",
+        "name": "St. George's Port",
+        "description": "Port of registry for shipping, fine harbour suitable for coaling station",
+        "operation": {
+          "traffic": "72 vessels registered, 1,043 tons total tonnage on 31st December 1896"
+        },
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "12",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_1896",
+        "colony": "GRENADA",
+        "year": "1898",
+        "year_applies": "1896",
+        "population": {
+          "total": 60367,
+          "breakdown": {
+            "european": "2%",
+            "negro": "majority",
+            "east_indian": "about 2000"
+          }
+        },
+        "notes": "About two per cent. are of European blood, the remainder being of the negro race, except the East Indian population, which amounts to about 2,000 souls",
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "14, 85",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_columbus_discovery",
+        "type": "other",
+        "description": "Columbus discovered Grenada and named it Conception",
+        "event_date": {
+          "year": "1498",
+          "month": "August",
+          "day": "15",
+          "precision": "exact"
+        },
+        "year_mentioned": "1898",
+        "locations": ["place_grenada"],
+        "year": "1898",
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "36",
+          "original_text": "Grenada was discovered by Columbus on 15th August, 1498, and was named by him Conception",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_rebellion_1795",
+        "type": "rebellion",
+        "description": "Rebellion against British rule instigated by French. Lieutenant-Governor and 47 British subjects massacred. Suppressed by Sir Ralph Abercromby in June 1796.",
+        "event_date": {
+          "year": "1795",
+          "precision": "year"
+        },
+        "year_mentioned": "1898",
+        "locations": ["place_grenada"],
+        "year": "1898",
+        "provenance": {
+          "source_file": "output_2/1898_manual_parsed/GRENADA.md",
+          "source_lines": "37",
+          "original_text": "In 1795—6 it was the scene of a rebellion against the British rule, instigated and assisted by the French. The Lieut.-Governor and 47 other British subjects were massacred in cold blood, and the Colony brought to the verge of ruin. In June, 1796, Sir Ralph Abercromby suppressed the rising, and the ringleaders were executed.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_st_georges",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_grenada",
+      "properties": {"year": "1898", "confidence": "definite"}
+    },
+    {
+      "source_id": "place_carriacou",
+      "relationship_type": "PART_OF",
+      "target_id": "place_grenada",
+      "properties": {"year": "1898", "confidence": "definite"}
+    },
+    {
+      "source_id": "person_alfred_moloney",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_grenada",
+      "properties": {"year": "1898", "confidence": "definite"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 22,
+    "entities_by_type": {
+      "places": 4,
+      "people": 5,
+      "institutions": 4,
+      "economic_data": 6,
+      "infrastructure": 2,
+      "demographics": 1,
+      "events": 2
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "LOCATED_IN": 1,
+      "PART_OF": 1,
+      "GOVERNS": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

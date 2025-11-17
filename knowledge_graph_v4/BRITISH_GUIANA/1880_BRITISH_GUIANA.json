@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "year": "1880",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1880.pdf",
+    "source_directory": "output_2/1880_manual_parsed",
+    "extraction_date": "2025-11-17T12:30:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["BRITISH_GUIANA"],
+    "processing_notes": "1880 extraction with Court of Policy, revenue/expenditure 1868-1878, population 1871 (193,491) and estimated 1878 (232,686), immigrant labor statistics."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {},
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Attorney-General": {
+        "canonical_name": "Attorney-General",
+        "hierarchy_level": 3,
+        "category": "judicial"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_british_guiana",
+        "name": "British Guiana",
+        "type": "colony",
+        "year": "1880",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_GUIANA",
+          "actual_location_country": "Guyana (modern)",
+          "certainty": "definite",
+          "reasoning": "South American mainland colony"
+        },
+        "area": {
+          "value": 76000,
+          "unit": "square_miles",
+          "source": "Line 8"
+        },
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "4-8",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_georgetown",
+        "name": "Georgetown",
+        "type": "city",
+        "year": "1880",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_GUIANA",
+          "actual_location_country": "Guyana",
+          "certainty": "definite",
+          "reasoning": "Capital city"
+        },
+        "parent_location": "place_british_guiana",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "14",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T12:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_w_a_g_young",
+        "name": "William A. G. Young",
+        "year": "1880",
+        "titles": [],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Lieutenant-Governor",
+            "colony": "BRITISH_GUIANA",
+            "status": "acting"
+          },
+          {
+            "title": "Government Secretary",
+            "colony": "BRITISH_GUIANA"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "171-173, 182",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T12:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_f_h_smith",
+        "name": "W. F. H. Smith",
+        "year": "1880",
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "BRITISH_GUIANA"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "181",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T12:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_court_of_policy",
+        "name": "Court of Policy",
+        "year": "1880",
+        "type": "legislative_council",
+        "colony": "BRITISH_GUIANA",
+        "composition": {
+          "total_members": 10,
+          "official_members": 5,
+          "unofficial_members": 5
+        },
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "59, 175-189",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T12:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1878",
+        "type": "revenue",
+        "colony": "BRITISH_GUIANA",
+        "year": "1880",
+        "year_applies": "1878",
+        "data": {
+          "value": 409259,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "90",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1878",
+        "type": "debt",
+        "colony": "BRITISH_GUIANA",
+        "year": "1880",
+        "year_applies": "1878",
+        "data": {
+          "value": 27800,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "92",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_population_1871",
+        "colony": "BRITISH_GUIANA",
+        "year": "1880",
+        "year_applies": "1871",
+        "population": {
+          "total": 198491
+        },
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "120",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T12:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_population_1878_estimate",
+        "colony": "BRITISH_GUIANA",
+        "year": "1880",
+        "year_applies": "1878",
+        "population": {
+          "total": 232686
+        },
+        "notes": "Estimated population as of 31 December 1878",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "122",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T12:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": []
+  },
+  "relationships": [],
+  "extraction_statistics": {
+    "total_entities": 8,
+    "entities_by_type": {
+      "places": 2,
+      "people": 2,
+      "institutions": 1,
+      "economic_data": 2,
+      "demographics": 2
+    },
+    "total_relationships": 0
+  }
+}

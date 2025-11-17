@@ -1,0 +1,640 @@
+{
+  "metadata": {
+    "year": "1905",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1905.pdf",
+    "source_directory": "output_2/1905_manual_parsed",
+    "extraction_date": "2025-11-17T10:30:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["GRENADA"],
+    "processing_notes": "Spice Island of the West. Cocoa and nutmeg major exports. Sanatorium established at Grand Etang."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "CB": {"full_name": "Companion of the Order of the Bath", "type": "order", "rank": 3},
+      "KC": {"full_name": "King's Counsel", "type": "professional", "rank": 4}
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Rev": {"full_form": "Reverend", "category": "religious"},
+      "Very Rev": {"full_form": "Very Reverend", "category": "religious"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 1, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Attorney-General": {"canonical_name": "Attorney-General", "hierarchy_level": 3, "category": "judicial"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council to the Governor"},
+      "legislative_council": {"description": "Legislative body of the colony"},
+      "supreme_court": {"description": "Highest court in the colony"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_grenada",
+        "name": "Grenada",
+        "type": "colony",
+        "year": "1905",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Principal colony, headquarters of Windward Islands"
+        },
+        "coordinates": {
+          "latitude": 12.23,
+          "longitude": -61.46,
+          "source": "Lines 5: between 12° 30' and 11° 58' N. lat., and 61° 20' and 61° 35' W. long."
+        },
+        "area": {
+          "value": 133,
+          "unit": "square_miles",
+          "source": "Line 5"
+        },
+        "population": {
+          "total": 66762,
+          "year": "1903",
+          "source": "Line 85"
+        },
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "5",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_georges",
+        "name": "St. George's",
+        "type": "city",
+        "year": "1905",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Principal town and capital, port of registry"
+        },
+        "population": {
+          "total": 5198,
+          "year": "1901",
+          "source": "Line 11"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "11",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_carriacou",
+        "name": "Carriacou",
+        "type": "island",
+        "year": "1905",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Dependency of Grenada, separate district administered by Commissioner"
+        },
+        "area": {
+          "value": 8467,
+          "unit": "acres",
+          "source": "Line 5"
+        },
+        "population": {
+          "total": 6930,
+          "year": "1903",
+          "source": "Line 5"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "5",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_hillsborough",
+        "name": "Hillsborough",
+        "type": "town",
+        "year": "1905",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Town in Carriacou"
+        },
+        "parent_location": "place_carriacou",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "13",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_grand_etang",
+        "name": "Grand Etang",
+        "type": "other",
+        "year": "1905",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Mountain lake, old crater, sanatorium established nearby"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "11",
+          "original_text": "The Grand Etang, a lake on the summit of a mountain ridge 1,740 feet above the level of the sea; near the former a sanatorium is established",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_r_b_llewelyn",
+        "name": "R. B. Llewelyn",
+        "titles": ["Sir"],
+        "honors": [
+          {"honor": "KCMG", "full_name": "Knight Commander of the Order of St Michael and St George"}
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "GRENADA",
+            "location": "Windward Islands",
+            "status": "permanent",
+            "salary": {"amount": 2500, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "76, 162",
+          "original_text": "Sir R. B. Llewelyn, K.C.M.G., Governor",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_edward_drayton",
+        "name": "Edward Drayton",
+        "honors": [
+          {"honor": "CMG", "full_name": "Companion of the Order of St Michael and St George"}
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {"amount": 600, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "66, 68, 70, 74, 75, 171",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_c_j_tarring",
+        "name": "C. J. Tarring",
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {"amount": 1000, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "298",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_d_t_tudor",
+        "name": "D. T. Tudor",
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "GRENADA",
+            "location": "Grenada and St. Vincent",
+            "status": "permanent",
+            "salary": {"amount": 650, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "299",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_norman_lockhart",
+        "name": "Norman Lockhart",
+        "positions": [
+          {
+            "title": "Treasurer",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {"amount": 450, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "183",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "GRENADA",
+        "year": "1905",
+        "composition": {
+          "official_members": 4,
+          "unofficial_members": 2
+        },
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "138-145",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "GRENADA",
+        "year": "1905",
+        "composition": {
+          "total_members": 14,
+          "official_members": 7,
+          "unofficial_members": 7
+        },
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "147-157",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_savings_bank",
+        "name": "Government Savings Bank",
+        "type": "treasury",
+        "colony": "GRENADA",
+        "location": "St. George's",
+        "year": "1905",
+        "established": "1881",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "31",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_board_of_education",
+        "name": "Board of Education",
+        "type": "education_department",
+        "colony": "GRENADA",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "56",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_supreme_court",
+        "name": "Supreme Court",
+        "type": "supreme_court",
+        "colony": "GRENADA",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "301",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1903_4",
+        "type": "revenue",
+        "colony": "GRENADA",
+        "year": "1905",
+        "year_applies": "1903-4",
+        "data": {
+          "value": 70250,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "101",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1903_4",
+        "type": "expenditure",
+        "colony": "GRENADA",
+        "year": "1905",
+        "year_applies": "1903-4",
+        "data": {
+          "value": 70101,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "101",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_cocoa_exports_1903",
+        "type": "exports",
+        "colony": "GRENADA",
+        "year": "1905",
+        "year_applies": "1903",
+        "data": {
+          "value": 230957,
+          "currency": "£",
+          "category": "cocoa",
+          "unit": "about 90000 cwt"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "23",
+          "original_text": "cocoa, of which, about 90,000 cwt., of the total value of 230,957l., were shipped in 1903",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_spices_exports_1903",
+        "type": "exports",
+        "colony": "GRENADA",
+        "year": "1905",
+        "year_applies": "1903",
+        "data": {
+          "value": 31583,
+          "currency": "£",
+          "category": "spices"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "23",
+          "original_text": "The export of spices has increased from 3,483l. in 1880, to 31,583l. in 1903",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_public_debt_1903",
+        "type": "debt",
+        "colony": "GRENADA",
+        "year": "1905",
+        "year_applies": "1903",
+        "data": {
+          "value": 123670,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "136",
+          "original_text": "Public Debt, 1903—£123,670l.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_customs_revenue_1903_4",
+        "type": "revenue",
+        "colony": "GRENADA",
+        "year": "1905",
+        "year_applies": "1903-4",
+        "data": {
+          "value": 35166,
+          "currency": "£",
+          "category": "customs"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "134",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_roads_1905",
+        "type": "road",
+        "colony": "GRENADA",
+        "year": "1905",
+        "name": "Road Network",
+        "description": "All roads in excellent condition",
+        "specifications": {
+          "length": {"value": 408, "unit": "miles"},
+          "other": {"main_roads": 133, "byways": 275}
+        },
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "11",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_port_st_georges",
+        "type": "port",
+        "colony": "GRENADA",
+        "year": "1905",
+        "name": "St. George's Port",
+        "description": "Port of registry, suitable for coaling station",
+        "operation": {
+          "traffic": "69 vessels registered, 1,043 tons total tonnage on 31st December 1903"
+        },
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "11",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_1903",
+        "colony": "GRENADA",
+        "year": "1905",
+        "year_applies": "1903",
+        "population": {
+          "total": 66762,
+          "breakdown": {
+            "european": "2%",
+            "negro": "majority",
+            "east_indian": 2262
+          }
+        },
+        "notes": "About two per cent. are of European blood, the remainder being of the Negro race, except the East Indian population, which amounts to about 2,262 souls",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "13, 85",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_windward_islands_hq",
+        "type": "establishment",
+        "description": "Grenada became headquarters of Windward Islands Government",
+        "event_date": {
+          "year": "1885",
+          "month": "June",
+          "day": "1",
+          "precision": "exact"
+        },
+        "year_mentioned": "1905",
+        "locations": ["place_grenada"],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/GRENADA.md",
+          "source_lines": "52",
+          "original_text": "On the 17th March, 1885, letters patent were passed constituting anew the office of Governor of the Windward Islands, and on 1st June, 1885, Grenada became the headquarters of the Government",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_st_georges",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_grenada",
+      "properties": {"year": "1905", "confidence": "definite"}
+    },
+    {
+      "source_id": "place_carriacou",
+      "relationship_type": "PART_OF",
+      "target_id": "place_grenada",
+      "properties": {"year": "1905", "confidence": "definite"}
+    },
+    {
+      "source_id": "place_hillsborough",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_carriacou",
+      "properties": {"year": "1905", "confidence": "definite"}
+    },
+    {
+      "source_id": "person_r_b_llewelyn",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_grenada",
+      "properties": {"year": "1905", "confidence": "definite"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 22,
+    "entities_by_type": {
+      "places": 5,
+      "people": 5,
+      "institutions": 5,
+      "economic_data": 6,
+      "infrastructure": 2,
+      "demographics": 1,
+      "events": 1
+    },
+    "total_relationships": 4,
+    "relationships_by_type": {
+      "LOCATED_IN": 2,
+      "PART_OF": 1,
+      "GOVERNS": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

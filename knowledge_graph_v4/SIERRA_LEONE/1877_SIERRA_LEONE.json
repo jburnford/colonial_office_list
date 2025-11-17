@@ -1,0 +1,314 @@
+{
+  "metadata": {
+    "year": "1877",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1877.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1877_manual_parsed",
+    "extraction_date": "2025-11-17T12:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["SIERRA_LEONE"],
+    "processing_notes": "Early colonial period data showing West Africa Settlements governance structure, detailed revenue/expenditure, population demographics, and British Sherbro administration."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "CB": {"full_name": "Companion of the Order of the Bath", "type": "order", "rank": 3}
+    },
+    "titles": {"Sir": {"full_form": "Sir", "category": "nobility"}, "Rev": {"full_form": "Reverend", "category": "religious"}, "Right Rev": {"full_form": "Right Reverend", "category": "religious"}},
+    "positions": {
+      "Governor": {"canonical_name": "Governor-in-Chief and Commander-in-Chief", "hierarchy_level": 1, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_sierra_leone",
+        "name": "Sierra Leone",
+        "type": "colony",
+        "year": "1877",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "area": {"value": 300, "unit": "square_miles", "source": "Line 3"},
+        "coordinates": {"latitude": 8.5, "longitude": -13.3, "source": "Line 3: Cape Sierra Leone lies in 8° 30' N. lat., 13° 18' W. long."},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "1-3", "original_text": "Sierra Leone proper consists of a peninsula...The settlement is 18 miles in length by 12 in breadth, with an area of 300 square miles", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_freetown",
+        "name": "Freetown",
+        "type": "city",
+        "year": "1877",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "21-27", "original_text": "Freetown to Bathurst (Gambia) . . . 477...Freetown to Liverpool . . . . 3,078", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_sherboro",
+        "name": "Sherboro",
+        "type": "district",
+        "year": "1877",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite", "reasoning": "Territory handed over by treaty in 1862"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "5", "original_text": "In 1862 a large tract of country called Sherboro was handed over by treaty to the Colony", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_british_sherbro",
+        "name": "British Sherbro",
+        "type": "district",
+        "year": "1877",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "217-227", "source_section": "British Sherbro", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "people": [
+      {
+        "id": "person_c_h_kortright",
+        "name": "C. H. Kortright",
+        "titles": [],
+        "honors": [],
+        "positions": [{"title": "Governor, Commander-in-Chief, and Vice-Admiral of W. Africa Settlements", "colony": "SIERRA_LEONE", "location": "Freetown", "status": "permanent", "salary": {"amount": 2000, "currency": "£", "period": "annual"}, "allowances": [{"type": "allowances", "amount": 500, "currency": "£"}]}],
+        "year": "1877",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "118", "source_section": "Civil Establishment", "original_text": "Governor, Commander-in-Chief, and Vice-Admiral of W. Africa Settlements, C. H. Kortright, 2,000l. and 500l. allowances.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_samuel_rowe",
+        "name": "Samuel Rowe",
+        "titles": [],
+        "honors": [{"honor": "CMG", "full_name": "Companion of the Order of St Michael and St George"}],
+        "positions": [{"title": "Governor-in-Chief", "colony": "SIERRA_LEONE", "status": "permanent", "start_date": "Spring 1877"}],
+        "year": "1877",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "94, 148", "source_section": "Governors-in-Chief", "original_text": "1877 Samuel Rowe, C.M.G....Mr. Kortright will be succeeded by Dr. Rowe, C.M.G., in the Spring of 1877", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_arthur_e_kennedy",
+        "name": "Arthur E. Kennedy",
+        "titles": ["Sir"],
+        "honors": [{"honor": "KCMG", "full_name": "Knight Commander of the Order of St Michael and St George"}, {"honor": "CB", "full_name": "Companion of the Order of the Bath"}],
+        "positions": [{"title": "Governor-in-Chief", "colony": "SIERRA_LEONE", "status": "permanent", "start_date": "1868"}],
+        "year": "1877",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "89", "source_section": "Governors-in-Chief, West Africa Settlements", "original_text": "1868 Sir Arthur E. Kennedy, C.B., K.C.M.G.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_j_j_kendall",
+        "name": "J. J. Kendall",
+        "titles": ["Captain"],
+        "honors": [],
+        "positions": [{"title": "Colonial Secretary", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 800, "currency": "£", "period": "annual"}, "allowances": [{"type": "quarters", "description": "quarters"}]}],
+        "year": "1877",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "124", "source_section": "Colonial Office", "original_text": "Colonial Secretary, Captain J. J. Kendall, 800l., and quarters.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_h_j_huggins",
+        "name": "H. J. Huggins",
+        "titles": [],
+        "honors": [],
+        "positions": [{"title": "Chief Justice and Judge of the Vice-Admiralty Court", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 1500, "currency": "£", "period": "annual"}}],
+        "year": "1877",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "185", "source_section": "Judicial Establishment", "original_text": "Chief Justice and Judge of the Vice-Admiralty Court, H. J. Huggins, 1,500l.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_w_w_streeten",
+        "name": "W. W. Streeten",
+        "titles": [],
+        "honors": [],
+        "positions": [{"title": "Queen's Advocate", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 1000, "currency": "£", "period": "annual"}}],
+        "year": "1877",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "187", "source_section": "Judicial Establishment", "original_text": "Queen's Advocate, W. W. Streeten, 1,000l.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_john_shaw",
+        "name": "John Shaw",
+        "titles": [],
+        "honors": [],
+        "positions": [{"title": "Treasurer", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 700, "currency": "£", "period": "annual"}}],
+        "year": "1877",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "129", "source_section": "Treasury", "original_text": "Treasurer, John Shaw, 700l.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_henry_cheetam",
+        "name": "Henry Cheetam",
+        "titles": ["Right Rev"],
+        "honors": [],
+        "biographical": {"education": "D.D."},
+        "positions": [{"title": "Bishop of Sierra Leone", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 500, "currency": "£", "period": "annual"}, "allowances": [{"type": "Bishop's fund", "amount": 400, "currency": "£"}]}],
+        "year": "1877",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "241", "source_section": "Ecclesiastical", "original_text": "Bishop of Sierra Leone, Right Rev. Henry Cheetam, D.D., 500l. colonial salary, and 400l. from Bishop's fund.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_t_a_wall",
+        "name": "T. A. Wall",
+        "titles": [],
+        "honors": [],
+        "positions": [{"title": "Commandant", "colony": "SIERRA_LEONE", "location": "British Sherbro", "status": "permanent", "salary": {"amount": 500, "currency": "£", "period": "annual"}, "allowances": [{"type": "quarters", "description": "quarters"}]}],
+        "year": "1877",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "219", "source_section": "British Sherbro", "original_text": "Commandant, T. A. Wall, 500l. and quarters.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "SIERRA_LEONE",
+        "year": "1877",
+        "composition": {"total_members": 4, "official_members": 4},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "96-101", "source_section": "Executive Council", "original_text": "President, the Governor-in-Chief. The Colonial Secretary. The Queen's Advocate. The Officer Commanding the Forces.", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "SIERRA_LEONE",
+        "year": "1877",
+        "composition": {"total_members": 9, "official_members": 5, "unofficial_members": 3},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "103-114", "source_section": "Legislative Council", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1875",
+        "type": "revenue",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1875",
+        "year": "1877",
+        "data": {"value": 58376, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "33-45", "source_section": "Revenue and Expenditure", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_expenditure_1875",
+        "type": "expenditure",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1875",
+        "year": "1877",
+        "data": {"value": 67111, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "33-45", "source_section": "Revenue and Expenditure", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_debt_harbour_debentures",
+        "type": "debt",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1877",
+        "year": "1877",
+        "data": {"value": 50000, "currency": "£", "category": "Harbour Work Debentures"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "47-50", "source_section": "Public Debt", "original_text": "Harbour Work Debentures . . . . £50,000", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_debt_crown_agents",
+        "type": "debt",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1877",
+        "year": "1877",
+        "data": {"value": 21487, "currency": "£", "category": "Debt due to Crown Agents"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "47-50", "source_section": "Public Debt", "original_text": "Debt due to Crown Agents, 20th January, 1877* . . . . . . . . . 21,487", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_imports_1873",
+        "type": "imports",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1873",
+        "year": "1877",
+        "data": {"value": 490993, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "71-85", "source_section": "Value of Imports and Exports", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_exports_1873",
+        "type": "exports",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1873",
+        "year": "1877",
+        "data": {"value": 465113, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "71-85", "source_section": "Value of Imports and Exports", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_population_1871",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1871",
+        "year": "1877",
+        "population": {"total": 37039},
+        "notes": "Total population only given for 1871, earlier years include demographic breakdown by sex and color",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "52-59", "source_section": "Population of each Sex and Colour", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "demo_population_1866",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1866",
+        "year": "1877",
+        "population": {"total": 41806, "breakdown": {"white_males": 98, "white_females": 31, "coloured_males": 21016, "coloured_females": 20664}},
+        "notes": "Historical population data showing demographic categorization by sex and color",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "52-59", "source_section": "Population of each Sex and Colour", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "infrastructure": [],
+    "events": [
+      {
+        "id": "event_treaty_1876",
+        "type": "treaty",
+        "description": "Her Majesty acquired by treaty the right to collect Customs duties along the coast between Sierra Leone and British Sherbro",
+        "event_date": {"year": "1876", "precision": "year"},
+        "year_mentioned": "1877",
+        "year": "1877",
+        "locations": ["place_sierra_leone", "place_british_sherbro"],
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "66", "original_text": "Her Majesty has by treaty, dated in 1876, acquired the right to collect Customs duties along the coast between Sierra Leone and British Sherbro.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "event_cession_1787",
+        "type": "transfer",
+        "description": "Sierra Leone was ceded to Great Britain by the native chiefs",
+        "event_date": {"year": "1787", "precision": "year"},
+        "year_mentioned": "1877",
+        "year": "1877",
+        "locations": ["place_sierra_leone"],
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "source_lines": "3", "original_text": "Sierra Leone was ceded to Great Britain in 1787 by the native chiefs", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_c_h_kortright",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_sierra_leone",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "person_t_a_wall",
+      "relationship_type": "STATIONED_AT",
+      "target_id": "place_british_sherbro",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "place_freetown",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_sierra_leone",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.99, "extraction_method": "inferred"}
+    },
+    {
+      "source_id": "place_british_sherbro",
+      "relationship_type": "PART_OF",
+      "target_id": "place_sierra_leone",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.98, "extraction_method": "inferred"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 28,
+    "entities_by_type": {"places": 4, "people": 9, "institutions": 2, "economic_data": 6, "demographics": 2, "infrastructure": 0, "events": 2},
+    "total_relationships": 4,
+    "relationships_by_type": {"GOVERNS": 1, "STATIONED_AT": 1, "LOCATED_IN": 1, "PART_OF": 1},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

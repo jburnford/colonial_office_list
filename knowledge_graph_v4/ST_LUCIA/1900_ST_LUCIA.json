@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "year": "1900",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1900.pdf",
+    "source_directory": "output_2/1900_manual_parsed",
+    "extraction_date": "2025-11-17T21:50:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 LLM Context Extraction",
+    "colonies_processed": ["ST_LUCIA"],
+    "processing_notes": "Complete extraction for St. Lucia 1900, mentions hurricane damage from Sept 1898"
+  },
+  "controlled_vocabularies": {
+    "honors": {"CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3}},
+    "titles": {"Rev": {"full_form": "Reverend", "category": "religious"}},
+    "positions": {"Administrator": {"canonical_name": "Administrator of the Government", "hierarchy_level": 2, "category": "executive"}}
+  },
+  "entities": {
+    "places": [
+      {"id": "place_st_lucia", "name": "St. Lucia", "type": "colony", "year": "1900", "location_context": {"mentioned_in_colony": "ST_LUCIA", "actual_location_country": "St. Lucia", "certainty": "definite", "reasoning": "Main colony, Windward Islands"}, "coordinates": {"latitude": 13.8333, "longitude": -60.9667, "source": "Line 6"}, "area": {"value": 233.29, "unit": "square_miles", "source": "Line 6"}, "provenance": {"source_file": "output_2/1900_manual_parsed/ST_LUCIA.md", "source_lines": "6", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_castries", "name": "Castries", "type": "city", "year": "1900", "location_context": {"mentioned_in_colony": "ST_LUCIA", "actual_location_country": "St. Lucia", "certainty": "definite", "reasoning": "Capital city"}, "population": {"total": 7000, "year": "1900", "source": "Line 8"}, "parent_location": "place_st_lucia", "provenance": {"source_file": "output_2/1900_manual_parsed/ST_LUCIA.md", "source_lines": "8", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_soufriere", "name": "Soufrière", "type": "town", "year": "1900", "location_context": {"mentioned_in_colony": "ST_LUCIA", "actual_location_country": "St. Lucia", "certainty": "definite", "reasoning": "Second most important town"}, "population": {"total": 2300, "year": "1900", "source": "Line 8"}, "parent_location": "place_st_lucia", "provenance": {"source_file": "output_2/1900_manual_parsed/ST_LUCIA.md", "source_lines": "8", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "people": [],
+    "institutions": [],
+    "economic_data": [
+      {"id": "econ_revenue_1898", "type": "revenue", "colony": "ST_LUCIA", "year": "1900", "year_applies": "1898", "data": {"value": 67628, "currency": "£"}, "provenance": {"source_file": "output_2/1900_manual_parsed/ST_LUCIA.md", "source_lines": "74", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}},
+      {"id": "econ_expenditure_1898", "type": "expenditure", "colony": "ST_LUCIA", "year": "1900", "year_applies": "1898", "data": {"value": 60975, "currency": "£"}, "provenance": {"source_file": "output_2/1900_manual_parsed/ST_LUCIA.md", "source_lines": "74", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}}
+    ],
+    "demographics": [
+      {"id": "demo_stlucia_1900", "colony": "ST_LUCIA", "year": "1900", "year_applies": "1900", "population": {"total": 47352, "breakdown": {"east_indian_immigrants": 2000}}, "notes": "Estimate. Most inhabitants speak French patois, about 2,000 East Indian immigrants", "provenance": {"source_file": "output_2/1900_manual_parsed/ST_LUCIA.md", "source_lines": "32", "extraction_confidence": 0.97, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "infrastructure": [
+      {"id": "infra_govt_savings_bank", "name": "Government Savings Bank", "type": "other", "colony": "ST_LUCIA", "year": "1900", "description": "Government savings bank with branch banks at Soufrière and Vieux Fort", "established": "1871", "operation": {"depositors": 1477, "deposits": {"amount": 11769, "currency": "£", "year": "1898"}}, "provenance": {"source_file": "output_2/1900_manual_parsed/ST_LUCIA.md", "source_lines": "37", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "events": [
+      {"id": "event_hurricane_1898", "type": "natural_disaster", "description": "Severe hurricane visited the island causing great destruction and involving large numbers in destitution", "event_date": {"year": "1898", "month": "September", "precision": "month"}, "year_mentioned": "1900", "year": "1900", "locations": ["place_st_lucia"], "provenance": {"source_file": "output_2/1900_manual_parsed/ST_LUCIA.md", "source_lines": "39", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ]
+  },
+  "relationships": [
+    {"source_id": "place_castries", "relationship_type": "LOCATED_IN", "target_id": "place_st_lucia", "properties": {"confidence": "definite"}, "provenance": {"source_file": "output_2/1900_manual_parsed/ST_LUCIA.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}}
+  ],
+  "extraction_statistics": {
+    "total_entities": 8,
+    "entities_by_type": {"places": 3, "people": 0, "institutions": 0, "economic_data": 2, "demographics": 1, "infrastructure": 1, "events": 1},
+    "total_relationships": 1,
+    "relationships_by_type": {"LOCATED_IN": 1},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

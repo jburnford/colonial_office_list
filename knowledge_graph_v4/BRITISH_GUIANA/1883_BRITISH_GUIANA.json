@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "year": "1883",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1883.pdf",
+    "source_directory": "output_2/1883_manual_parsed",
+    "extraction_date": "2025-11-17T13:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["BRITISH_GUIANA"],
+    "processing_notes": "1883 extraction with Court of Policy, revenue/expenditure 1872-1881, Census 1881 (252,186), sugar production data (109 estates)."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2}
+    },
+    "titles": {"Sir": {"full_form": "Sir", "category": "nobility"}},
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 2, "category": "executive"},
+      "Attorney-General": {"canonical_name": "Attorney-General", "hierarchy_level": 3, "category": "judicial"}
+    }
+  },
+  "entities": {
+    "places": [
+      {"id": "place_british_guiana", "name": "British Guiana", "type": "colony", "year": "1883",
+        "location_context": {"mentioned_in_colony": "BRITISH_GUIANA", "actual_location_country": "Guyana (modern)", "certainty": "definite", "reasoning": "South American mainland colony"},
+        "area": {"value": 76000, "unit": "square_miles", "source": "Line 6"},
+        "provenance": {"source_file": "output_2/1883_manual_parsed/BRITISH_GUIANA.md", "source_lines": "3-6", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T13:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_georgetown", "name": "Georgetown", "type": "city", "year": "1883",
+        "location_context": {"mentioned_in_colony": "BRITISH_GUIANA", "actual_location_country": "Guyana", "certainty": "definite", "reasoning": "Capital city, lat 6°49'24\"N, long 58°11'30\"W"},
+        "population": {"total": 50000, "year": "1883", "source": "Line 86"},
+        "parent_location": "place_british_guiana",
+        "provenance": {"source_file": "output_2/1883_manual_parsed/BRITISH_GUIANA.md", "source_lines": "84-86", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T13:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "people": [
+      {"id": "person_henry_t_irving", "name": "Henry T. Irving", "year": "1883", "titles": ["Sir"], "honors": [{"honor": "KCMG", "full_name": "Knight Commander of the Order of St Michael and St George"}],
+        "positions": [{"title": "Governor", "colony": "BRITISH_GUIANA", "status": "permanent"}],
+        "provenance": {"source_file": "output_2/1883_manual_parsed/BRITISH_GUIANA.md", "source_lines": "177", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T13:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "person_w_f_h_smith", "name": "W. F. H. Smith", "year": "1883",
+        "positions": [{"title": "Attorney-General", "colony": "BRITISH_GUIANA"}],
+        "provenance": {"source_file": "output_2/1883_manual_parsed/BRITISH_GUIANA.md", "source_lines": "184", "extraction_confidence": 0.96, "extraction_date": "2025-11-17T13:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "person_w_a_g_young", "name": "W. A. G. Young", "year": "1883", "honors": [{"honor": "CMG"}],
+        "positions": [{"title": "Government Secretary", "colony": "BRITISH_GUIANA"}],
+        "provenance": {"source_file": "output_2/1883_manual_parsed/BRITISH_GUIANA.md", "source_lines": "185", "extraction_confidence": 0.96, "extraction_date": "2025-11-17T13:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "institutions": [
+      {"id": "inst_court_of_policy", "name": "Court of Policy", "year": "1883", "type": "legislative_council", "colony": "BRITISH_GUIANA",
+        "composition": {"total_members": 10, "official_members": 5, "unofficial_members": 5},
+        "provenance": {"source_file": "output_2/1883_manual_parsed/BRITISH_GUIANA.md", "source_lines": "55, 179-192", "extraction_confidence": 0.97, "extraction_date": "2025-11-17T13:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "economic_data": [
+      {"id": "econ_revenue_1881", "type": "revenue", "colony": "BRITISH_GUIANA", "year": "1883", "year_applies": "1881",
+        "data": {"value": 403245, "currency": "£"},
+        "provenance": {"source_file": "output_2/1883_manual_parsed/BRITISH_GUIANA.md", "source_lines": "104", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T13:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}},
+      {"id": "econ_debt_1881", "type": "debt", "colony": "BRITISH_GUIANA", "year": "1883", "year_applies": "1881",
+        "data": {"value": 75207, "currency": "£"},
+        "provenance": {"source_file": "output_2/1883_manual_parsed/BRITISH_GUIANA.md", "source_lines": "106", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T13:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "econ_production_sugar_1882", "type": "production", "colony": "BRITISH_GUIANA", "year": "1883", "year_applies": "1882",
+        "data": {"value": 140000, "unit": "hogsheads", "category": "sugar"},
+        "notes": "109 sugar estates in operation with 79,268 acres of sugar cane",
+        "provenance": {"source_file": "output_2/1883_manual_parsed/BRITISH_GUIANA.md", "source_lines": "76", "extraction_confidence": 0.96, "extraction_date": "2025-11-17T13:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "demographics": [
+      {"id": "demo_census_1881", "colony": "BRITISH_GUIANA", "year": "1883", "year_applies": "1881",
+        "population": {"total": 252186},
+        "notes": "Census of 1881. Aboriginal Indians within settled districts: 7,656",
+        "provenance": {"source_file": "output_2/1883_manual_parsed/BRITISH_GUIANA.md", "source_lines": "137, 147", "extraction_confidence": 0.96, "extraction_date": "2025-11-17T13:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "events": []
+  },
+  "relationships": [],
+  "extraction_statistics": {
+    "total_entities": 9,
+    "entities_by_type": {"places": 2, "people": 3, "institutions": 1, "economic_data": 3, "demographics": 1},
+    "total_relationships": 0
+  }
+}

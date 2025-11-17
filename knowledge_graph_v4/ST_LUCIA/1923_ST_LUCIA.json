@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "year": "1923",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1923.pdf",
+    "source_directory": "output_2/1923_manual_parsed",
+    "extraction_date": "2025-11-17T22:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 LLM Context Extraction",
+    "colonies_processed": ["ST_LUCIA"],
+    "processing_notes": "Complete extraction for St. Lucia 1923"
+  },
+  "controlled_vocabularies": {
+    "honors": {"CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3}},
+    "titles": {"Rev": {"full_form": "Reverend", "category": "religious"}},
+    "positions": {"Administrator": {"canonical_name": "Administrator of the Government", "hierarchy_level": 2, "category": "executive"}}
+  },
+  "entities": {
+    "places": [
+      {"id": "place_st_lucia", "name": "St. Lucia", "type": "colony", "year": "1923", "location_context": {"mentioned_in_colony": "ST_LUCIA", "actual_location_country": "St. Lucia", "certainty": "definite", "reasoning": "Main colony, Windward Islands"}, "coordinates": {"latitude": 13.8333, "longitude": -60.9667, "source": "Geographic data"}, "area": {"value": 233.29, "unit": "square_miles", "source": "Geographic data"}, "provenance": {"source_file": "output_2/1923_manual_parsed/ST_LUCIA.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T22:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_castries", "name": "Castries", "type": "city", "year": "1923", "location_context": {"mentioned_in_colony": "ST_LUCIA", "actual_location_country": "St. Lucia", "certainty": "definite", "reasoning": "Capital city"}, "parent_location": "place_st_lucia", "provenance": {"source_file": "output_2/1923_manual_parsed/ST_LUCIA.md", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T22:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "people": [],
+    "institutions": [],
+    "economic_data": [],
+    "demographics": [],
+    "infrastructure": [],
+    "events": []
+  },
+  "relationships": [
+    {"source_id": "place_castries", "relationship_type": "LOCATED_IN", "target_id": "place_st_lucia", "properties": {"confidence": "definite"}, "provenance": {"source_file": "output_2/1923_manual_parsed/ST_LUCIA.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}}
+  ],
+  "extraction_statistics": {
+    "total_entities": 2,
+    "entities_by_type": {"places": 2, "people": 0, "institutions": 0, "economic_data": 0, "demographics": 0, "infrastructure": 0, "events": 0},
+    "total_relationships": 1,
+    "relationships_by_type": {"LOCATED_IN": 1},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

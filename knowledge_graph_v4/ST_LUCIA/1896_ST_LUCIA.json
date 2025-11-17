@@ -1,0 +1,678 @@
+{
+  "metadata": {
+    "year": "1896",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1896.pdf",
+    "source_directory": "output_2/1896_manual_parsed",
+    "extraction_date": "2025-11-17T21:40:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 LLM Context Extraction",
+    "colonies_processed": ["ST_LUCIA"],
+    "processing_notes": "Complete extraction for St. Lucia 1896"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Surg Lt-Col": {
+        "full_form": "Surgeon Lieutenant-Colonel",
+        "category": "military"
+      },
+      "Captain": {
+        "full_form": "Captain",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Administrator": {
+        "canonical_name": "Administrator of the Government",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_st_lucia",
+        "name": "St. Lucia",
+        "type": "colony",
+        "year": "1896",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Main colony, Windward Islands"
+        },
+        "coordinates": {
+          "latitude": 13.8333,
+          "longitude": -60.6333,
+          "source": "Line 6: 13° 50' N. lat., and 60° 38' W. long"
+        },
+        "area": {
+          "value": 283.29,
+          "unit": "square_miles",
+          "source": "Line 6"
+        },
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "6",
+          "original_text": "It is situated in 13° 50' N. lat., and 60° 38' W. long; at a distance of 24 miles to the south-east of Martinique, and 21 to the north-east of St. Vincent. It is 24 miles in length, and 12 at its greatest breadth; its circumference is 150 miles, and its area 283-29 sq. miles",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_castries",
+        "name": "Castries",
+        "type": "city",
+        "year": "1896",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Capital city of St. Lucia"
+        },
+        "population": {
+          "total": 6800,
+          "year": "1896",
+          "source": "Line 8"
+        },
+        "parent_location": "place_st_lucia",
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "8",
+          "original_text": "Castries, the capital of the island, contains about 1,200 houses, and a population of over 6,800 souls",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_soufriere",
+        "name": "Soufrière",
+        "type": "town",
+        "year": "1896",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Second most important town"
+        },
+        "population": {
+          "total": 2000,
+          "year": "1896",
+          "source": "Line 8"
+        },
+        "parent_location": "place_st_lucia",
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "8",
+          "original_text": "Next in importance is the town of Soufriere, containing a population of over 2,000 souls",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_pigeon_island",
+        "name": "Pigeon Island",
+        "type": "island",
+        "year": "1896",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Near northern extremity of St. Lucia, former military post"
+        },
+        "parent_location": "place_st_lucia",
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "6",
+          "original_text": "Near its northern extremity lies Pigeon Island, formerly a military post of some importance",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_gouldsbury",
+        "name": "V. S. Gouldsbury",
+        "name_variants": ["Surg. Lt.-Col. V. S. Gouldsbury"],
+        "titles": ["Surg Lt-Col"],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "year": "1896",
+        "positions": [
+          {
+            "title": "Administrator of the Government and Colonial Secretary",
+            "colony": "ST_LUCIA",
+            "location": "Castries",
+            "status": "permanent",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "entertainment",
+                "amount": 200,
+                "currency": "£",
+                "description": "Entertainment allowance"
+              }
+            ]
+          }
+        ],
+        "biographical": {
+          "previous_service": "Appointed 1891 as Administrator"
+        },
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "155",
+          "original_text": "Administrator of the Government and Colonial Secretary, Surg. Lt.-Col. V. S. Gouldsbury, C.M.G., 800l., and 200l. entertainment allowance.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_child",
+        "name": "Arthur Child",
+        "year": "1896",
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "ST_LUCIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 700,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "187",
+          "original_text": "Chief Justice, Arthur Child, 700l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_ferguson_pjk",
+        "name": "P. J. K. Ferguson",
+        "year": "1896",
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "ST_LUCIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "188",
+          "original_text": "Attorney-General, P. J. K. Ferguson, 400l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_garraway",
+        "name": "D. G. Garraway",
+        "year": "1896",
+        "positions": [
+          {
+            "title": "Treasurer and Comptroller of Customs",
+            "colony": "ST_LUCIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "savings_bank",
+                "amount": 100,
+                "currency": "£",
+                "description": "For Savings Bank duties"
+              }
+            ]
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "161",
+          "original_text": "Treasurer and Comptroller of Customs, D. G. Garraway, 400l., and 100l. for Savings Bank.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "ST_LUCIA",
+        "location": "Castries",
+        "year": "1896",
+        "composition": {
+          "total_members": 5
+        },
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "131-136",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "ST_LUCIA",
+        "location": "Castries",
+        "year": "1896",
+        "composition": {
+          "total_members": 10,
+          "official_members": 7,
+          "unofficial_members": 3
+        },
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "138-152",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1894",
+        "type": "revenue",
+        "colony": "ST_LUCIA",
+        "year": "1896",
+        "year_applies": "1894",
+        "data": {
+          "value": 56590,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "72",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1894",
+        "type": "expenditure",
+        "colony": "ST_LUCIA",
+        "year": "1896",
+        "year_applies": "1894",
+        "data": {
+          "value": 54400,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "72",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_customs_revenue_1894",
+        "type": "revenue",
+        "colony": "ST_LUCIA",
+        "year": "1896",
+        "year_applies": "1894",
+        "data": {
+          "value": 24416,
+          "currency": "£",
+          "category": "customs revenue"
+        },
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "74",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1894",
+        "type": "debt",
+        "colony": "ST_LUCIA",
+        "year": "1896",
+        "year_applies": "1894",
+        "data": {
+          "value": 179279,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "111",
+          "original_text": "Public Debt, 1894—179,279l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_shipping_1894",
+        "type": "shipping",
+        "colony": "ST_LUCIA",
+        "year": "1896",
+        "year_applies": "1894",
+        "data": {
+          "value": 981794,
+          "unit": "tons",
+          "category": "Total Tonnage"
+        },
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "72",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_stlucia_1881",
+        "colony": "ST_LUCIA",
+        "year": "1896",
+        "year_applies": "1881",
+        "population": {
+          "total": 38551
+        },
+        "notes": "Census 1881",
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "106",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_stlucia_1891",
+        "colony": "ST_LUCIA",
+        "year": "1896",
+        "year_applies": "1891",
+        "population": {
+          "total": 42220
+        },
+        "notes": "Census 1891",
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "108",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_stlucia_1894",
+        "colony": "ST_LUCIA",
+        "year": "1896",
+        "year_applies": "1894",
+        "population": {
+          "total": 45095,
+          "breakdown": {
+            "east_indian_immigrants": 2500,
+            "european_descent": "very small percentage"
+          }
+        },
+        "notes": "Estimate 1894. Most inhabitants speak French patois, about 2,500 East Indian immigrants",
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "32, 109",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_govt_savings_bank",
+        "name": "Government Savings Bank",
+        "type": "other",
+        "colony": "ST_LUCIA",
+        "year": "1896",
+        "description": "Government savings bank",
+        "established": "1871",
+        "operation": {
+          "depositors": 1187,
+          "deposits": {
+            "amount": 9548,
+            "currency": "£",
+            "year": "1894"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "37",
+          "original_text": "A Government savings bank was established in 1871, and has now 1,187 depositors, with 9,548l. to their credit on 31st December, 1894.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_castries_harbour",
+        "name": "Castries Harbour",
+        "type": "port",
+        "colony": "ST_LUCIA",
+        "year": "1896",
+        "description": "Excellent harbour, second naval station in West Indies, chief coaling station for the fleet, strongly fortified",
+        "specifications": {
+          "registered_vessels": 11,
+          "total_tonnage": {
+            "value": 326,
+            "unit": "tons"
+          },
+          "western_wharf_length": {
+            "value": 552,
+            "unit": "feet"
+          },
+          "concrete_wharf_length": {
+            "value": 650,
+            "unit": "feet"
+          },
+          "depth_low_water": {
+            "value": 27,
+            "unit": "feet"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "34-35",
+          "original_text": "Castries, the chief town, has an excellent harbour, probably the best in the whole of the West Indies. It is now the second naval station of the Empire in these parts. Dredging operations have been carried out in the harbour...A substantial concrete wharf, 650 feet in length, with a depth alongside of 27 feet at low water, has been completed",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_discovery",
+        "type": "other",
+        "description": "St. Lucia was discovered by Columbus during his fourth voyage",
+        "event_date": {
+          "year": "1502",
+          "month": "June",
+          "day": "15",
+          "precision": "exact"
+        },
+        "year_mentioned": "1896",
+        "year": "1896",
+        "locations": ["place_st_lucia"],
+        "provenance": {
+          "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+          "source_lines": "6",
+          "original_text": "The island of St. Lucia was discovered by Columbus, during his fourth voyage, on the 15th June, 1502",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:40:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_castries",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_st_lucia",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_soufriere",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_st_lucia",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_pigeon_island",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_st_lucia",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1896_manual_parsed/ST_LUCIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 21,
+    "entities_by_type": {
+      "places": 4,
+      "people": 4,
+      "institutions": 2,
+      "economic_data": 5,
+      "demographics": 3,
+      "infrastructure": 2,
+      "events": 1
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "LOCATED_IN": 3
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

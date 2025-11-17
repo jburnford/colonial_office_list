@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "year": "1899",
+    "schema_version": "2.0",
+    "source_directory": "/home/user/colonial_office_list/output_2/1899_manual_parsed",
+    "extraction_date": "2025-11-17T15:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["MONTSERRAT"],
+    "processing_notes": "Post-1867 constitution period under Leeward Islands administration"
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {
+      "Rev": {"full_form": "Reverend", "category": "religious"}
+    },
+    "positions": {
+      "Commissioner": {"canonical_name": "Commissioner", "hierarchy_level": 2, "category": "executive"},
+      "Medical Officer": {"canonical_name": "Medical Officer", "hierarchy_level": 4, "category": "medical"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council to the Governor", "parent_type": null},
+      "legislative_council": {"description": "Legislative body", "parent_type": null}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_montserrat",
+        "name": "Montserrat",
+        "type": "island",
+        "location_context": {
+          "mentioned_in_colony": "MONTSERRAT",
+          "actual_location_country": "Leeward Islands (British West Indies)",
+          "certainty": "definite",
+          "reasoning": "Primary colony, part of Leeward Islands federation"
+        },
+        "coordinates": {"latitude": 16.75, "longitude": -61.0, "source": "Line 6"},
+        "area": {"value": 32, "unit": "square_miles", "source": "Line 6"},
+        "population": {"total": 11762, "year": "1891", "source": "Line 100"},
+        "year": "1899",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1899_manual_parsed/MONTSERRAT.md",
+          "source_lines": "1-275",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_plymouth",
+        "name": "Plymouth",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "MONTSERRAT",
+          "actual_location_country": "Montserrat",
+          "certainty": "definite",
+          "reasoning": "Chief town on south-west coast"
+        },
+        "population": {"total": 1500, "year": "1899", "source": "Line 6"},
+        "parent_location": "place_montserrat",
+        "year": "1899",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1899_manual_parsed/MONTSERRAT.md",
+          "source_lines": "6",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_edward_baynes",
+        "name": "Edward Baynes",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Commissioner",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {"amount": 500, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1899",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1899_manual_parsed/MONTSERRAT.md",
+          "source_lines": "107, 117, 128",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_henry_dyett",
+        "name": "Henry Dyett",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Commissioner's Clerk",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {"amount": 65, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1899",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1899_manual_parsed/MONTSERRAT.md",
+          "source_lines": "114, 124, 129",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "MONTSERRAT",
+        "year": "1899",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1899_manual_parsed/MONTSERRAT.md",
+          "source_lines": "104-114",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "MONTSERRAT",
+        "year": "1899",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1899_manual_parsed/MONTSERRAT.md",
+          "source_lines": "115-125",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1897",
+        "type": "revenue",
+        "colony": "MONTSERRAT",
+        "year_applies": "1897",
+        "data": {"value": 7906, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "year": "1899",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1899_manual_parsed/MONTSERRAT.md",
+          "source_lines": "44",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1897",
+        "type": "debt",
+        "colony": "MONTSERRAT",
+        "year_applies": "1897",
+        "data": {"value": 24600, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "year": "1899",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1899_manual_parsed/MONTSERRAT.md",
+          "source_lines": "98",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_1891",
+        "colony": "MONTSERRAT",
+        "year_applies": "1891",
+        "population": {"total": 11762},
+        "year": "1899",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1899_manual_parsed/MONTSERRAT.md",
+          "source_lines": "100",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "place_plymouth",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_montserrat",
+      "properties": {"confidence": "definite"},
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1899_manual_parsed/MONTSERRAT.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 9,
+    "entities_by_type": {
+      "places": 2,
+      "people": 2,
+      "institutions": 2,
+      "economic_data": 2,
+      "demographics": 1,
+      "events": 0
+    },
+    "total_relationships": 1,
+    "relationships_by_type": {"LOCATED_IN": 1},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

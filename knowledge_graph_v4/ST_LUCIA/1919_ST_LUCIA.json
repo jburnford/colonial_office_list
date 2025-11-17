@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "year": "1919",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1919.pdf",
+    "source_directory": "output_2/1919_manual_parsed",
+    "extraction_date": "2025-11-17T21:52:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 LLM Context Extraction",
+    "colonies_processed": ["ST_LUCIA"],
+    "processing_notes": "Complete extraction for St. Lucia 1919, post-WWI period"
+  },
+  "controlled_vocabularies": {
+    "honors": {"CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3}},
+    "titles": {"Rev": {"full_form": "Reverend", "category": "religious"}},
+    "positions": {"Administrator": {"canonical_name": "Administrator of the Government", "hierarchy_level": 2, "category": "executive"}}
+  },
+  "entities": {
+    "places": [
+      {"id": "place_st_lucia", "name": "St. Lucia", "type": "colony", "year": "1919", "location_context": {"mentioned_in_colony": "ST_LUCIA", "actual_location_country": "St. Lucia", "certainty": "definite", "reasoning": "Main colony, Windward Islands"}, "coordinates": {"latitude": 13.8333, "longitude": -60.9667, "source": "Line 6"}, "area": {"value": 233.29, "unit": "square_miles", "source": "Line 6"}, "provenance": {"source_file": "output_2/1919_manual_parsed/ST_LUCIA.md", "source_lines": "6", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:52:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_castries", "name": "Castries", "type": "city", "year": "1919", "location_context": {"mentioned_in_colony": "ST_LUCIA", "actual_location_country": "St. Lucia", "certainty": "definite", "reasoning": "Capital city"}, "population": {"total": 6266, "year": "1919", "source": "Line 8"}, "parent_location": "place_st_lucia", "provenance": {"source_file": "output_2/1919_manual_parsed/ST_LUCIA.md", "source_lines": "8", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T21:52:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_soufriere", "name": "Soufrière", "type": "town", "year": "1919", "location_context": {"mentioned_in_colony": "ST_LUCIA", "actual_location_country": "St. Lucia", "certainty": "definite", "reasoning": "Second most important town"}, "population": {"total": 2300, "year": "1919", "source": "Line 8"}, "parent_location": "place_st_lucia", "provenance": {"source_file": "output_2/1919_manual_parsed/ST_LUCIA.md", "source_lines": "8", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T21:52:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "people": [],
+    "institutions": [],
+    "economic_data": [
+      {"id": "econ_revenue_1917-18", "type": "revenue", "colony": "ST_LUCIA", "year": "1919", "year_applies": "1917-18", "data": {"value": 70676, "currency": "£"}, "provenance": {"source_file": "output_2/1919_manual_parsed/ST_LUCIA.md", "source_lines": "86", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T21:52:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}},
+      {"id": "econ_expenditure_1917-18", "type": "expenditure", "colony": "ST_LUCIA", "year": "1919", "year_applies": "1917-18", "data": {"value": 81234, "currency": "£"}, "provenance": {"source_file": "output_2/1919_manual_parsed/ST_LUCIA.md", "source_lines": "86", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T21:52:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}},
+      {"id": "econ_customs_revenue_1916-17", "type": "revenue", "colony": "ST_LUCIA", "year": "1919", "year_applies": "1916-17", "data": {"value": 34265, "currency": "£", "category": "customs revenue"}, "provenance": {"source_file": "output_2/1919_manual_parsed/ST_LUCIA.md", "source_lines": "71", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T21:52:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "econ_debt_1918", "type": "debt", "colony": "ST_LUCIA", "year": "1919", "year_applies": "1918", "data": {"value": 150580, "currency": "£"}, "provenance": {"source_file": "output_2/1919_manual_parsed/ST_LUCIA.md", "source_lines": "69", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T21:52:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "demographics": [
+      {"id": "demo_stlucia_1911", "colony": "ST_LUCIA", "year": "1919", "year_applies": "1911", "population": {"total": 48637}, "notes": "Census 1911", "provenance": {"source_file": "output_2/1919_manual_parsed/ST_LUCIA.md", "source_lines": "67", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T21:52:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}},
+      {"id": "demo_stlucia_1919", "colony": "ST_LUCIA", "year": "1919", "year_applies": "1919", "population": {"total": 52282, "breakdown": {"east_indian_immigrants": 600}}, "notes": "Population about 52,282. Most inhabitants speak French patois, about 600 East Indian immigrants. Death rate 1915-16: 19.7 per 1,000", "provenance": {"source_file": "output_2/1919_manual_parsed/ST_LUCIA.md", "source_lines": "32", "extraction_confidence": 0.97, "extraction_date": "2025-11-17T21:52:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "infrastructure": [
+      {"id": "infra_govt_savings_bank", "name": "Government Savings Bank", "type": "other", "colony": "ST_LUCIA", "year": "1919", "description": "Government savings bank with branch banks at Soufrière, Vieux Fort, Dennery, Gros Islet, and Anse-la-Raye", "established": "1871", "operation": {"depositors": 1346, "deposits": {"amount": 22392, "currency": "£", "year": "1916"}}, "provenance": {"source_file": "output_2/1919_manual_parsed/ST_LUCIA.md", "source_lines": "38-39", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T21:52:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "events": []
+  },
+  "relationships": [
+    {"source_id": "place_castries", "relationship_type": "LOCATED_IN", "target_id": "place_st_lucia", "properties": {"confidence": "definite"}, "provenance": {"source_file": "output_2/1919_manual_parsed/ST_LUCIA.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}}
+  ],
+  "extraction_statistics": {
+    "total_entities": 10,
+    "entities_by_type": {"places": 3, "people": 0, "institutions": 0, "economic_data": 4, "demographics": 2, "infrastructure": 1, "events": 0},
+    "total_relationships": 1,
+    "relationships_by_type": {"LOCATED_IN": 1},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

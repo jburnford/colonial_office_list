@@ -1,0 +1,828 @@
+{
+  "metadata": {
+    "year": "1877",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1877.pdf",
+    "source_directory": "output_2/1877_manual_parsed",
+    "extraction_date": "2025-11-17T12:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["THE_GAMBIA"],
+    "processing_notes": "Part of West Africa Settlements under charter of December 19, 1874. Revenue and trade data for 1866-1875 included."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Admiral": {
+        "full_form": "Admiral",
+        "category": "military"
+      },
+      "Colonel": {
+        "full_form": "Colonel",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Administrator": {
+        "canonical_name": "Administrator",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Collector and Treasurer": {
+        "canonical_name": "Collector and Treasurer",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      },
+      "Chief Magistrate": {
+        "canonical_name": "Chief Magistrate",
+        "hierarchy_level": 4,
+        "category": "judicial"
+      },
+      "Colonial Surgeon": {
+        "canonical_name": "Colonial Surgeon",
+        "hierarchy_level": 5,
+        "category": "medical"
+      },
+      "Colonial Chaplain": {
+        "canonical_name": "Colonial Chaplain",
+        "hierarchy_level": 6,
+        "category": "religious"
+      }
+    },
+    "institution_types": {
+      "legislative_council": {
+        "description": "Legislative body",
+        "parent_type": null
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_gambia_colony",
+        "name": "The Gambia",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Primary colony entry, West African settlement along Gambia River, part of West Africa Settlements"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "1-22",
+          "source_section": "THE_GAMBIA",
+          "original_text": "THE GAMBIA. The Gambia is a great river of Western Africa...",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bathurst",
+        "name": "Bathurst",
+        "type": "town",
+        "parent_location": "place_st_marys_island",
+        "population": {
+          "total": 4458,
+          "year": "1871",
+          "breakdown": {
+            "note": "Population data from 1871 census showing sex and dwelling types"
+          },
+          "source": "output_2/1877_manual_parsed/THE_GAMBIA.md lines 58-68"
+        },
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Capital town on St. Mary's Island"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "3",
+          "source_section": "THE_GAMBIA",
+          "original_text": "the town of Bathurst on St. Mary's Island",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_marys_island",
+        "name": "St. Mary's Island",
+        "type": "island",
+        "parent_location": "place_gambia_colony",
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Island at mouth of Gambia River where Bathurst is located"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "3, 7",
+          "source_section": "THE_GAMBIA",
+          "original_text": "the town of Bathurst on St. Mary's Island",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_mccarthys_island",
+        "name": "M'Carthy's Island",
+        "type": "island",
+        "parent_location": "place_gambia_colony",
+        "population": {
+          "total": 1263,
+          "year": "1871",
+          "source": "output_2/1877_manual_parsed/THE_GAMBIA.md lines 58-68"
+        },
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Interior island on Gambia River with British settlement and manager"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "62, 133",
+          "source_section": "THE_GAMBIA > Manager of Districts",
+          "original_text": "McCarthy's Island, Lucius Smith, 300l., residence and forage allowance.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_british_combo",
+        "name": "British Combo",
+        "type": "settlement",
+        "parent_location": "place_gambia_colony",
+        "population": {
+          "total": 4552,
+          "year": "1871",
+          "source": "output_2/1877_manual_parsed/THE_GAMBIA.md lines 58-68"
+        },
+        "location_context": {
+          "mentioned_in_colony": "THE_GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "British settlement with manager appointed"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "63, 134",
+          "source_section": "THE_GAMBIA > Manager of Districts",
+          "original_text": "British Comdo, E. A. M. Smith, 150l., ditto.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_samuel_rowe",
+        "name": "Samuel Rowe",
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "THE_GAMBIA",
+            "start_date": "1875",
+            "status": "permanent"
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "81",
+          "source_section": "THE_GAMBIA > Governors",
+          "original_text": "1875 Samuel Rowe, C.M.G.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_h_berkeley",
+        "name": "W. H. Berkeley",
+        "positions": [
+          {
+            "title": "1st Writer and Secretary",
+            "colony": "THE_GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Clerk to Legislative Council",
+            "colony": "THE_GAMBIA",
+            "status": "permanent"
+          },
+          {
+            "title": "Collector and Treasurer",
+            "colony": "THE_GAMBIA",
+            "status": "acting",
+            "salary": {
+              "amount": 700,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "88, 92, 100",
+          "source_section": "THE_GAMBIA > Civil Establishment",
+          "original_text": "Clerk to Legislative Council, W. H. Berkeley. / 1st Writer and Secretary, W. H. Berkeley, 300l. / Collector and Treasurer, and Superintendent of Pilots, 700l., W. H. Berkeley (acting).",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_james_topp",
+        "name": "James Topp",
+        "positions": [
+          {
+            "title": "Unofficial Member",
+            "institution_id": "inst_legislative_council",
+            "colony": "THE_GAMBIA",
+            "status": "permanent"
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "87",
+          "source_section": "THE_GAMBIA > Legislative Council",
+          "original_text": "Unofficial Member, James Topp.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_robt_h_syrett",
+        "name": "Robert H. Syrett",
+        "positions": [
+          {
+            "title": "Copying Clerk",
+            "colony": "THE_GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 150,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Dispenser",
+            "colony": "THE_GAMBIA",
+            "status": "acting",
+            "salary": {
+              "amount": 100,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "93, 118",
+          "source_section": "THE_GAMBIA > Civil Establishment",
+          "original_text": "Copying Clerk, Robt. H. Syrett, 150l. / Dispenser, R. H. Syrett (acting), 100l., residence, and allowance.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_thomas_johnson",
+        "name": "Thomas Johnson",
+        "positions": [
+          {
+            "title": "Chief Clerk and Cashier",
+            "colony": "THE_GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Postmaster",
+            "colony": "THE_GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 100,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Registrar of Deeds",
+            "colony": "THE_GAMBIA",
+            "status": "permanent"
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "101, 113, 123",
+          "source_section": "THE_GAMBIA > Civil Establishment",
+          "original_text": "Chief Clerk and Cashier, Thomas Johnson, 300l. / Postmaster, Thomas Johnson, 100l. / Registrar of Deeds, Thomas Johnson, fees only.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_e_adolphus",
+        "name": "E. Adolphus",
+        "positions": [
+          {
+            "title": "Chief Magistrate",
+            "colony": "THE_GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 600,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "86, 121",
+          "source_section": "THE_GAMBIA > Judicial Establishment",
+          "original_text": "The Chief Magistrate. / Chief Magistrate, E. Adolphus, 600l., and fees.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_thomas_h_spilsbury",
+        "name": "Thomas H. Spilsbury",
+        "positions": [
+          {
+            "title": "Colonial Surgeon",
+            "colony": "THE_GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 400,
+              "currency": "GBP",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "forage",
+                "description": "forage allowances"
+              }
+            ]
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "116",
+          "source_section": "THE_GAMBIA > Medical Establishment",
+          "original_text": "Colonial Surgeon, Thomas H. Spilsbury, 400l., and forage allowances.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_george_nicol",
+        "name": "George Nicol",
+        "titles": ["Rev"],
+        "positions": [
+          {
+            "title": "Colonial Chaplain",
+            "colony": "THE_GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 450,
+              "currency": "GBP",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "forage",
+                "description": "forage allowances"
+              }
+            ]
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "137",
+          "source_section": "THE_GAMBIA > Ecclesiastical Establishment",
+          "original_text": "Colonial Chaplain, Rev. George Nicol, 450l., and forage allowances.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_lucius_smith",
+        "name": "Lucius Smith",
+        "positions": [
+          {
+            "title": "Manager of Districts",
+            "location": "McCarthy's Island",
+            "colony": "THE_GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "GBP",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "residence",
+                "description": "residence and forage allowance"
+              }
+            ]
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "133",
+          "source_section": "THE_GAMBIA > Manager of Districts",
+          "original_text": "McCarthy's Island, Lucius Smith, 300l., residence and forage allowance.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_e_a_m_smith",
+        "name": "E. A. M. Smith",
+        "positions": [
+          {
+            "title": "Manager of Districts",
+            "location": "British Comdo",
+            "colony": "THE_GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 150,
+              "currency": "GBP",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "residence",
+                "description": "residence and forage allowance"
+              }
+            ]
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "134",
+          "source_section": "THE_GAMBIA > Manager of Districts",
+          "original_text": "British Comdo, E. A. M. Smith, 150l., ditto.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "THE_GAMBIA",
+        "composition": {
+          "total_members": 4,
+          "official_members": 3,
+          "unofficial_members": 1
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "83-88",
+          "source_section": "THE_GAMBIA > Legislative Council",
+          "original_text": "Legislative Council. The Administrator, President. The Collector and Treasurer. The Chief Magistrate. Unofficial Member, James Topp.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1875",
+        "type": "revenue",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1875",
+        "data": {
+          "value": 22700,
+          "currency": "GBP",
+          "category": "total_revenue"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "37",
+          "source_section": "THE_GAMBIA > Revenue and Expenditure",
+          "original_text": "1875 | 22,700 | 22,468",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1875",
+        "type": "expenditure",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1875",
+        "data": {
+          "value": 22468,
+          "currency": "GBP",
+          "category": "total_expenditure"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "37",
+          "source_section": "THE_GAMBIA > Revenue and Expenditure",
+          "original_text": "1875 | 22,700 | 22,468",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1877",
+        "type": "debt",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1877",
+        "data": {
+          "value": 3073,
+          "currency": "GBP",
+          "category": "public_debt_to_crown_agents"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "41",
+          "source_section": "THE_GAMBIA > Public Debt",
+          "original_text": "Due to Crown Agents . . . £3,073",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1875",
+        "type": "imports",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1875",
+        "data": {
+          "value": 142754,
+          "currency": "GBP",
+          "category": "total_imports"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "56",
+          "source_section": "THE_GAMBIA > Value of Imports and Exports",
+          "original_text": "1875 | 142,754 | 147,465",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1875",
+        "type": "exports",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1875",
+        "data": {
+          "value": 147465,
+          "currency": "GBP",
+          "category": "total_exports"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "56",
+          "source_section": "THE_GAMBIA > Value of Imports and Exports",
+          "original_text": "1875 | 142,754 | 147,465",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_gambia_1871",
+        "colony": "THE_GAMBIA",
+        "year_applies": "1871",
+        "population": {
+          "total": 10273,
+          "breakdown": {
+            "bathurst": 4458,
+            "british_combo": 4552,
+            "mccarthys_island": 1263,
+            "note": "Population by settlement showing dwelling types (stone, frame, wattie)"
+          }
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "58-68",
+          "source_section": "THE_GAMBIA > Population of each Sex and Colour in the year 1871",
+          "original_text": "Population table showing settlements, dwelling types, and totals",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated",
+          "notes": "Table structure is complex, showing dwelling types and settlements"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_charter_1874",
+        "type": "constitutional_change",
+        "description": "Gambia became part of West Africa Settlements under charter of December 19, 1874",
+        "event_date": {
+          "year": "1874",
+          "month": "12",
+          "day": "19",
+          "precision": "exact"
+        },
+        "year_mentioned": "1877",
+        "locations": ["place_gambia_colony"],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "22",
+          "source_section": "THE_GAMBIA",
+          "original_text": "It became a portion of the government of West Africa Settlements by the charter of 19th February, 1866, and so continues under the charter of the 19th December, 1874.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_bathurst",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_st_marys_island",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+        "source_lines": "3",
+        "extraction_confidence": 1.0,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "source_id": "place_st_marys_island",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia_colony",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+        "source_lines": "3",
+        "extraction_confidence": 1.0,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "inferred",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "source_id": "person_james_topp",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_legislative_council",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1877_manual_parsed/THE_GAMBIA.md",
+        "source_lines": "87",
+        "extraction_confidence": 1.0,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 21,
+    "entities_by_type": {
+      "places": 5,
+      "people": 10,
+      "institutions": 1,
+      "economic_data": 5,
+      "demographics": 1,
+      "events": 1
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "LOCATED_IN": 1,
+      "PART_OF": 1,
+      "MEMBER_OF": 1
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "year": "1897",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1897.pdf",
+    "source_directory": "output_2/1897_manual_parsed",
+    "extraction_date": "2025-11-17T21:45:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 LLM Context Extraction",
+    "colonies_processed": ["ST_LUCIA"],
+    "processing_notes": "Complete extraction for St. Lucia 1897"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      }
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Rev": {"full_form": "Reverend", "category": "religious"}
+    },
+    "positions": {
+      "Administrator": {"canonical_name": "Administrator of the Government", "hierarchy_level": 2, "category": "executive"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_st_lucia",
+        "name": "St. Lucia",
+        "type": "colony",
+        "year": "1897",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Main colony, Windward Islands"
+        },
+        "coordinates": {"latitude": 13.8333, "longitude": -60.9667, "source": "Line 5"},
+        "area": {"value": 233, "unit": "square_miles", "source": "Line 5"},
+        "provenance": {
+          "source_file": "output_2/1897_manual_parsed/ST_LUCIA.md",
+          "source_lines": "5",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_castries",
+        "name": "Castries",
+        "type": "city",
+        "year": "1897",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Capital city"
+        },
+        "population": {"total": 7000, "year": "1897", "source": "Line 7"},
+        "parent_location": "place_st_lucia",
+        "provenance": {
+          "source_file": "output_2/1897_manual_parsed/ST_LUCIA.md",
+          "source_lines": "7",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_soufriere",
+        "name": "Soufrière",
+        "type": "town",
+        "year": "1897",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Second most important town"
+        },
+        "population": {"total": 2300, "year": "1897", "source": "Line 7"},
+        "parent_location": "place_st_lucia",
+        "provenance": {
+          "source_file": "output_2/1897_manual_parsed/ST_LUCIA.md",
+          "source_lines": "7",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_king_harman",
+        "name": "C. A. King Harman",
+        "honors": [{"honor": "CMG", "full_name": "Companion of the Order of St Michael and St George"}],
+        "year": "1897",
+        "positions": [
+          {
+            "title": "Administrator of the Government and Colonial Secretary",
+            "colony": "ST_LUCIA",
+            "status": "permanent",
+            "salary": {"amount": 800, "currency": "£", "period": "annual"},
+            "allowances": [{"type": "entertainment", "amount": 200, "currency": "£"}]
+          }
+        ],
+        "biographical": {"previous_service": "Appointed 1897"},
+        "provenance": {
+          "source_file": "output_2/1897_manual_parsed/ST_LUCIA.md",
+          "source_lines": "162",
+          "original_text": "Administrator of the Government and Colonial Secretary, C. A. King Harman, C.M.G., 200l. entertainment allowance.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "ST_LUCIA",
+        "location": "Castries",
+        "year": "1897",
+        "composition": {"total_members": 5},
+        "provenance": {
+          "source_file": "output_2/1897_manual_parsed/ST_LUCIA.md",
+          "source_lines": "128-134",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "ST_LUCIA",
+        "location": "Castries",
+        "year": "1897",
+        "composition": {"total_members": 10, "official_members": 7, "unofficial_members": 3},
+        "provenance": {
+          "source_file": "output_2/1897_manual_parsed/ST_LUCIA.md",
+          "source_lines": "136-157",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1895",
+        "type": "revenue",
+        "colony": "ST_LUCIA",
+        "year": "1897",
+        "year_applies": "1895",
+        "data": {"value": 48764, "currency": "£"},
+        "provenance": {
+          "source_file": "output_2/1897_manual_parsed/ST_LUCIA.md",
+          "source_lines": "73",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1895",
+        "type": "expenditure",
+        "colony": "ST_LUCIA",
+        "year": "1897",
+        "year_applies": "1895",
+        "data": {"value": 57578, "currency": "£"},
+        "provenance": {
+          "source_file": "output_2/1897_manual_parsed/ST_LUCIA.md",
+          "source_lines": "73",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_customs_revenue_1895",
+        "type": "revenue",
+        "colony": "ST_LUCIA",
+        "year": "1897",
+        "year_applies": "1895",
+        "data": {"value": 21052, "currency": "£", "category": "customs revenue"},
+        "provenance": {
+          "source_file": "output_2/1897_manual_parsed/ST_LUCIA.md",
+          "source_lines": "75",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1895",
+        "type": "debt",
+        "colony": "ST_LUCIA",
+        "year": "1897",
+        "year_applies": "1895",
+        "data": {"value": 185380, "currency": "£"},
+        "provenance": {
+          "source_file": "output_2/1897_manual_parsed/ST_LUCIA.md",
+          "source_lines": "112",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_stlucia_1895",
+        "colony": "ST_LUCIA",
+        "year": "1897",
+        "year_applies": "1895",
+        "population": {"total": 45906, "breakdown": {"east_indian_immigrants": 2560}},
+        "notes": "Estimate 1895. Most inhabitants speak French patois, about 2,560 East Indian immigrants",
+        "provenance": {
+          "source_file": "output_2/1897_manual_parsed/ST_LUCIA.md",
+          "source_lines": "31, 110",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T21:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_govt_savings_bank",
+        "name": "Government Savings Bank",
+        "type": "other",
+        "colony": "ST_LUCIA",
+        "year": "1897",
+        "established": "1871",
+        "operation": {
+          "depositors": 1275,
+          "deposits": {"amount": 9267, "currency": "£", "year": "1895"}
+        },
+        "provenance": {
+          "source_file": "output_2/1897_manual_parsed/ST_LUCIA.md",
+          "source_lines": "37",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T21:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "place_castries",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_st_lucia",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "output_2/1897_manual_parsed/ST_LUCIA.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 11,
+    "entities_by_type": {"places": 3, "people": 1, "institutions": 2, "economic_data": 4, "demographics": 1, "infrastructure": 1, "events": 0},
+    "total_relationships": 1,
+    "relationships_by_type": {"LOCATED_IN": 1},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

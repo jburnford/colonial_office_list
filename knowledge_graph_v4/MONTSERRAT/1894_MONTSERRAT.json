@@ -1,0 +1,1032 @@
+{
+  "metadata": {
+    "year": "1894",
+    "schema_version": "2.0",
+    "source_directory": "/home/user/colonial_office_list/output_2/1894_manual_parsed",
+    "extraction_date": "2025-11-17T14:30:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["MONTSERRAT"],
+    "processing_notes": "Extraction showing Commissioner administration under Leeward Islands governance, with detailed economic and demographic data"
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      }
+    },
+    "positions": {
+      "Commissioner": {
+        "canonical_name": "Commissioner",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Attorney-General": {
+        "canonical_name": "Attorney-General",
+        "hierarchy_level": 3,
+        "category": "judicial"
+      },
+      "Auditor-General": {
+        "canonical_name": "Auditor-General",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      },
+      "Medical Officer": {
+        "canonical_name": "Medical Officer",
+        "hierarchy_level": 4,
+        "category": "medical"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Advisory council to the Governor",
+        "parent_type": null
+      },
+      "legislative_council": {
+        "description": "Legislative body established 1867",
+        "parent_type": null
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_montserrat",
+        "name": "Montserrat",
+        "type": "island",
+        "location_context": {
+          "mentioned_in_colony": "MONTSERRAT",
+          "actual_location_country": "Leeward Islands (British West Indies)",
+          "certainty": "definite",
+          "reasoning": "Primary colony described, part of Leeward Islands federation"
+        },
+        "coordinates": {
+          "latitude": 16.75,
+          "longitude": -61.0,
+          "source": "Line 6: 16°45' N. lat., and 61° W. long."
+        },
+        "area": {
+          "value": 32.5,
+          "unit": "square_miles",
+          "source": "Line 6: Its total area is 32½ square miles"
+        },
+        "population": {
+          "total": 11762,
+          "year": "1891",
+          "breakdown": {},
+          "source": "Line 67"
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "1-110",
+          "original_text": "This island, discovered by Columbus in 1493...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_plymouth",
+        "name": "Plymouth",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "MONTSERRAT",
+          "actual_location_country": "Montserrat",
+          "certainty": "definite",
+          "reasoning": "Chief town on south-west coast"
+        },
+        "population": {
+          "total": 1500,
+          "year": "1894",
+          "source": "Line 6: Plymouth, the chief town, with a population of 1,500"
+        },
+        "parent_location": "place_montserrat",
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "6",
+          "original_text": "Plymouth, the chief town, with a population of 1,500, is on an open roadstead on the south-west coast",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_soufriere_hill",
+        "name": "Soufrière Hill",
+        "type": "other",
+        "location_context": {
+          "mentioned_in_colony": "MONTSERRAT",
+          "actual_location_country": "Montserrat",
+          "certainty": "definite",
+          "reasoning": "Highest elevation in southern Montserrat"
+        },
+        "parent_location": "place_montserrat",
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "6",
+          "original_text": "the highest elevation being Soufrière Hill (3,000 feet) in the southern part of the island",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_edward_baynes",
+        "name": "Edward Baynes",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Commissioner",
+            "colony": "MONTSERRAT",
+            "location": "Plymouth",
+            "status": "permanent",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "76, 80, 89",
+          "source_section": "Executive Council, Legislative Council, Civil Establishment",
+          "original_text": "Commissioner, Edward Baynes, 400l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_r_h_blake",
+        "name": "R. H. Blake",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Commissioner's Clerk",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {
+              "amount": 65,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "90",
+          "source_section": "Civil Establishment",
+          "original_text": "Commissioner's Clerk, R. H. Blake, 65l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_e_f_dyett",
+        "name": "E. F. Dyett",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "First Treasury Officer",
+            "colony": "MONTSERRAT",
+            "status": "acting",
+            "salary": {
+              "amount": 100,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "91",
+          "source_section": "Civil Establishment",
+          "original_text": "First Treasury Officer, E. F. Dyett (acting), 100l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_h_m_drinkwater",
+        "name": "H. M. Drinkwater",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Second Treasury Officer",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {
+              "amount": 60,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "92",
+          "source_section": "Civil Establishment",
+          "original_text": "Second ditto, H. M. Drinkwater, 60l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_m_p_duke",
+        "name": "M. P. Duke",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Medical Officer",
+            "department": "No. 1 District",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {
+              "amount": 200,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "96",
+          "source_section": "Medical Officers",
+          "original_text": "No. 1 District, M. P. Duke, 200l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_e_w_r_branch",
+        "name": "E. W. R. Branch",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Medical Officer",
+            "department": "No. 2 District",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {
+              "amount": 200,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "85, 97",
+          "source_section": "Legislative Council, Medical Officers",
+          "original_text": "No. 2 District, E. W. R. Branch, 200l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_everard",
+        "name": "W. Everard",
+        "titles": ["Rev"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Anglican Rector",
+            "department": "St. Anthony and St. Patrick Parishes",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {
+              "amount": 105,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "voluntary contributions",
+                "amount": 150,
+                "currency": "£",
+                "description": "from voluntary contributions"
+              }
+            ]
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "101",
+          "source_section": "Ecclesiastical",
+          "original_text": "Anglican Rector of St. Anthony and St. Patrick Parishes, Rev. W. Everard, 105l., and from voluntary contributions, 150l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_e_evans",
+        "name": "E. Evans",
+        "titles": ["Rev"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Rector",
+            "department": "St. Peter's Parish",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {
+              "amount": 180,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "102",
+          "source_section": "Ecclesiastical",
+          "original_text": "Rector of St. Peter's Parish, 180l., Rev. E. Evans.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_b_primeau",
+        "name": "J. B. Primeau",
+        "titles": ["Rev"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Roman Catholic Vicar",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {
+              "amount": 60,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "103",
+          "source_section": "Ecclesiastical",
+          "original_text": "Roman Catholic Vicar, Rev. J. B. Primeau, 60l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_a_e_jones",
+        "name": "A. E. Jones",
+        "titles": ["Rev"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Wesleyan Minister",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {
+              "amount": 105,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "104",
+          "source_section": "Ecclesiastical",
+          "original_text": "Wesleyan Minister, Rev. A. E. Jones, 105l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_r_hannam",
+        "name": "R. Hannam",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Consular Agent",
+            "colony": "MONTSERRAT",
+            "status": "permanent"
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "108",
+          "source_section": "Consular Agent",
+          "original_text": "United States of America, R. Hannam.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_s_hollings",
+        "name": "J. S. Hollings",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Member",
+            "institution_id": "inst_executive_council",
+            "colony": "MONTSERRAT",
+            "status": "permanent"
+          },
+          {
+            "title": "Member",
+            "institution_id": "inst_legislative_council",
+            "colony": "MONTSERRAT",
+            "status": "permanent"
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "77, 81",
+          "source_section": "Executive Council, Legislative Council",
+          "original_text": "J. S. Hollings.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_henry_dyett",
+        "name": "Henry Dyett",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Member",
+            "institution_id": "inst_legislative_council",
+            "colony": "MONTSERRAT",
+            "status": "permanent"
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "82",
+          "source_section": "Legislative Council",
+          "original_text": "Henry Dyett.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_mansergh_pace_duke",
+        "name": "Mansergh Pace Duke",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Member",
+            "institution_id": "inst_legislative_council",
+            "colony": "MONTSERRAT",
+            "status": "permanent"
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "83",
+          "source_section": "Legislative Council",
+          "original_text": "Mansergh Pace Duke.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_h_de_c_hamilton",
+        "name": "H. de C. Hamilton",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Member",
+            "institution_id": "inst_legislative_council",
+            "colony": "MONTSERRAT",
+            "status": "permanent"
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "84",
+          "source_section": "Legislative Council",
+          "original_text": "H. de C. Hamilton.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "MONTSERRAT",
+        "location": "Plymouth",
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "71-77",
+          "source_section": "Executive Council",
+          "original_text": "Executive Council. The Governor. The Colonial Secretary...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "MONTSERRAT",
+        "location": "Plymouth",
+        "composition": {
+          "total_members": 6
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "78-86",
+          "source_section": "Members of Legislative Council",
+          "original_text": "Members of Legislative Council. The Commissioner...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1892",
+        "type": "revenue",
+        "colony": "MONTSERRAT",
+        "year_applies": "1892",
+        "data": {
+          "value": 7609,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "37",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "1892 | 7,609 | 7,831",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1892",
+        "type": "expenditure",
+        "colony": "MONTSERRAT",
+        "year_applies": "1892",
+        "data": {
+          "value": 7831,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "37",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "1892 | 7,609 | 7,831",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1892",
+        "type": "debt",
+        "colony": "MONTSERRAT",
+        "year_applies": "1892",
+        "data": {
+          "value": 8200,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "65",
+          "source_section": "Public Debt",
+          "original_text": "Public Debt, 31st December, 1892, 8,200l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1892",
+        "type": "imports",
+        "colony": "MONTSERRAT",
+        "year_applies": "1892",
+        "data": {
+          "value": 22690,
+          "currency": "£",
+          "breakdown": {
+            "from_uk": 10228,
+            "from_colonies": 6951,
+            "from_elsewhere": 5511
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "50",
+          "source_section": "Imports",
+          "original_text": "1892 | 10,228 | 6,951 | 5,511 | 22,690",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1892",
+        "type": "exports",
+        "colony": "MONTSERRAT",
+        "year_applies": "1892",
+        "data": {
+          "value": 28829,
+          "currency": "£",
+          "breakdown": {
+            "to_uk": 11246,
+            "to_colonies": 2065,
+            "to_elsewhere": 15518
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "63",
+          "source_section": "Exports",
+          "original_text": "1892 | 11,246 | 2,065 | 15,518 | 28,829",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_production_sugar",
+        "type": "production",
+        "colony": "MONTSERRAT",
+        "year_applies": "1894",
+        "data": {
+          "value": 20559,
+          "currency": "£",
+          "unit": "2,500 hogsheads",
+          "category": "sugar"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete",
+          "notes": "In a very good year"
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "14",
+          "source_section": "Principal Export",
+          "original_text": "In a very good year the crop yields 2,500 hogsheads, value 20,559l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_production_lime_juice",
+        "type": "production",
+        "colony": "MONTSERRAT",
+        "year_applies": "1894",
+        "data": {
+          "value": 4853,
+          "currency": "£",
+          "category": "lime-juice"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "14",
+          "source_section": "Principal Export",
+          "original_text": "The export of lime-juice for the same year was valued at 4,853l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_1881",
+        "colony": "MONTSERRAT",
+        "year_applies": "1881",
+        "population": {
+          "total": 10083
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "67",
+          "source_section": "Population",
+          "original_text": "Population, 1881, 10,083; 1891, 11,762.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_1891",
+        "colony": "MONTSERRAT",
+        "year_applies": "1891",
+        "population": {
+          "total": 11762
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "67",
+          "source_section": "Population",
+          "original_text": "Population, 1881, 10,083; 1891, 11,762.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_discovery_1493",
+        "type": "other",
+        "description": "Montserrat discovered by Columbus in 1493",
+        "event_date": {
+          "year": "1493",
+          "precision": "year"
+        },
+        "year_mentioned": "1894",
+        "locations": ["place_montserrat"],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "4",
+          "source_section": "History",
+          "original_text": "This island, discovered by Columbus in 1493",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_colonization_1632",
+        "type": "establishment",
+        "description": "Montserrat was colonized by the English in 1632",
+        "event_date": {
+          "year": "1632",
+          "precision": "year"
+        },
+        "year_mentioned": "1894",
+        "locations": ["place_montserrat"],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "8",
+          "source_section": "History",
+          "original_text": "Montserrat was colonized by the English in 1632",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_constitution_1867",
+        "type": "constitutional_change",
+        "description": "Legislative Council established by Act dated 24th Dec 1866 and confirmed by Order in Council 26th Feb 1867",
+        "event_date": {
+          "year": "1867",
+          "month": "February",
+          "day": "26",
+          "precision": "exact"
+        },
+        "year_mentioned": "1894",
+        "locations": ["place_montserrat"],
+        "institutions": ["inst_legislative_council"],
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+          "source_lines": "12",
+          "source_section": "History",
+          "original_text": "By an Act of the Legislative Assembly, dated 24th Dec., 1866, and confirmed by Order in Council 26th Feb., 1867",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_edward_baynes",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_edward_baynes",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_legislative_council",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_plymouth",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_montserrat",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_soufriere_hill",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_montserrat",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/MONTSERRAT.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 43,
+    "entities_by_type": {
+      "places": 3,
+      "people": 15,
+      "institutions": 2,
+      "economic_data": 7,
+      "infrastructure": 0,
+      "demographics": 2,
+      "events": 3
+    },
+    "total_relationships": 4,
+    "relationships_by_type": {
+      "MEMBER_OF": 2,
+      "LOCATED_IN": 2
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

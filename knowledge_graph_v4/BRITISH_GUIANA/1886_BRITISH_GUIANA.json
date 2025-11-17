@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "year": "1886",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1886.pdf",
+    "source_directory": "output_2/1886_manual_parsed",
+    "extraction_date": "2025-11-17T13:10:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["BRITISH_GUIANA"],
+    "processing_notes": "1886 extraction with Court of Policy, revenue/expenditure 1875-1884, public debt £75,000, sugar estates (105 in 1884), registered electors 1,306."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2}
+    },
+    "titles": {"Sir": {"full_form": "Sir", "category": "nobility"}},
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 2, "category": "executive"}
+    }
+  },
+  "entities": {
+    "places": [
+      {"id": "place_british_guiana", "name": "British Guiana", "type": "colony", "year": "1886",
+        "location_context": {"mentioned_in_colony": "BRITISH_GUIANA", "actual_location_country": "Guyana (modern)", "certainty": "definite", "reasoning": "South American mainland colony"},
+        "area": {"value": 109000, "unit": "square_miles", "source": "Line 7: 'computed to be about 109,000 square miles'"},
+        "provenance": {"source_file": "output_2/1886_manual_parsed/BRITISH_GUIANA.md", "source_lines": "3-7", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T13:10:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_georgetown", "name": "Georgetown", "type": "city", "year": "1886",
+        "location_context": {"mentioned_in_colony": "BRITISH_GUIANA", "actual_location_country": "Guyana", "certainty": "definite", "reasoning": "Capital city, coordinates given"},
+        "coordinates": {"latitude": 6.823333, "longitude": -58.191667, "source": "Line 85: lat. 6° 49' 24\" N., long. 58° 11' 30\" W."},
+        "population": {"total": 50000, "year": "1886", "source": "Line 85"},
+        "parent_location": "place_british_guiana",
+        "provenance": {"source_file": "output_2/1886_manual_parsed/BRITISH_GUIANA.md", "source_lines": "83-85", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T13:10:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "people": [
+      {"id": "person_henry_t_irving", "name": "Henry T. Irving", "year": "1886", "titles": ["Sir"], "honors": [{"honor": "KCMG"}],
+        "positions": [{"title": "Governor", "colony": "BRITISH_GUIANA"}],
+        "provenance": {"source_file": "output_2/1886_manual_parsed/BRITISH_GUIANA.md", "extraction_confidence": 0.97, "extraction_date": "2025-11-17T13:10:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "institutions": [
+      {"id": "inst_court_of_policy", "name": "Court of Policy", "year": "1886", "type": "legislative_council", "colony": "BRITISH_GUIANA",
+        "composition": {"total_members": 10, "official_members": 5, "unofficial_members": 5},
+        "provenance": {"source_file": "output_2/1886_manual_parsed/BRITISH_GUIANA.md", "source_lines": "55", "extraction_confidence": 0.97, "extraction_date": "2025-11-17T13:10:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "economic_data": [
+      {"id": "econ_revenue_1884", "type": "revenue", "colony": "BRITISH_GUIANA", "year": "1886", "year_applies": "1884",
+        "data": {"value": 460932, "currency": "£"},
+        "provenance": {"source_file": "output_2/1886_manual_parsed/BRITISH_GUIANA.md", "source_lines": "198", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T13:10:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}},
+      {"id": "econ_debt_1884", "type": "debt", "colony": "BRITISH_GUIANA", "year": "1886", "year_applies": "1884",
+        "data": {"value": 75000, "currency": "£"},
+        "provenance": {"source_file": "output_2/1886_manual_parsed/BRITISH_GUIANA.md", "source_lines": "200", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T13:10:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "econ_production_sugar_1884", "type": "production", "colony": "BRITISH_GUIANA", "year": "1886", "year_applies": "1884",
+        "data": {"value": 110000, "unit": "hogsheads", "category": "sugar"},
+        "notes": "105 sugar estates with 79,502 acres cane, 2,553 acres plantain",
+        "provenance": {"source_file": "output_2/1886_manual_parsed/BRITISH_GUIANA.md", "source_lines": "76", "extraction_confidence": 0.96, "extraction_date": "2025-11-17T13:10:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "demographics": [],
+    "events": []
+  },
+  "relationships": [],
+  "extraction_statistics": {
+    "total_entities": 6,
+    "entities_by_type": {"places": 2, "people": 1, "institutions": 1, "economic_data": 3},
+    "total_relationships": 0
+  }
+}

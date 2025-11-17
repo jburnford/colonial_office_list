@@ -1,0 +1,216 @@
+{
+  "metadata": {
+    "year": "1886",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1886.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1886_manual_parsed",
+    "extraction_date": "2025-11-17T12:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["SIERRA_LEONE"],
+    "processing_notes": "Major territorial expansion period - colony grew from 300 to 2,000 square miles through acquisitions in Scarcies River (1879) and Sulymah/Gallinas territories (1884). Samuel Rowe returns as Governor."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2}
+    },
+    "titles": {"Sir": {"full_form": "Sir", "category": "nobility"}, "Rev": {"full_form": "Reverend", "category": "religious"}, "Right Rev": {"full_form": "Right Reverend", "category": "religious"}},
+    "positions": {
+      "Governor": {"canonical_name": "Governor-in-Chief and Commander-in-Chief", "hierarchy_level": 1, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary and Treasurer", "hierarchy_level": 3, "category": "administrative"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_sierra_leone",
+        "name": "Sierra Leone",
+        "type": "colony",
+        "year": "1886",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "area": {"value": 2000, "unit": "square_miles", "source": "Line 5: total area is now estimated to be about 2,000 square miles"},
+        "coordinates": {"latitude": 8.5, "longitude": -13.3, "source": "Line 3"},
+        "population": {"total": 60475, "year": "1881", "breakdown": {"white_males": 237, "white_females": 34, "coloured_males": 30964, "coloured_females": 29511}, "source": "Lines 109-115"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "1-5", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_freetown",
+        "name": "Freetown",
+        "type": "city",
+        "year": "1886",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "53-59", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_scarcies_river",
+        "name": "Scarcies River",
+        "type": "region",
+        "year": "1886",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite", "reasoning": "Territory acquired in 1879 north of the peninsula"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "5", "original_text": "In 1879 further territory was acquired in the Scarcies River to the north of the peninsula", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_sulymah_gallinas",
+        "name": "Sulymah and Gallinas",
+        "type": "region",
+        "year": "1886",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite", "reasoning": "Seaboard annexed in 1884"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "5", "original_text": "In 1884 the seaboard of the Sulymah and Gallinas Chiefs as far as the Mannah River was also annexed", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_fourah_bay",
+        "name": "Fourah Bay",
+        "type": "settlement",
+        "year": "1886",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "117", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "people": [
+      {
+        "id": "person_samuel_rowe",
+        "name": "Samuel Rowe",
+        "titles": ["Sir"],
+        "honors": [{"honor": "KCMG", "full_name": "Knight Commander of the Order of St Michael and St George"}],
+        "positions": [{"title": "Governor, Commander-in-Chief, and Vice-Admiral of W. Africa Settlements", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 3000, "currency": "£", "period": "annual"}, "allowances": [{"type": "personal", "amount": 1000, "currency": "£"}, {"type": "allowances", "amount": 500, "currency": "£"}]}],
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "155", "source_section": "Civil Establishment", "original_text": "Governor, Commander-in-Chief, and Vice-Admiral of W. Africa Settlements, Sir Samuel Rowe, K.C.M.G., 3,000l. (of which 1,000l. personal), and 500l. allowances.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_t_risely_griffith",
+        "name": "T. Risely Griffith",
+        "titles": [],
+        "honors": [],
+        "positions": [{"title": "Colonial Secretary and Treasurer", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 800, "currency": "£", "period": "annual"}, "allowances": [{"type": "quarters", "description": "quarters"}]}],
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "163", "source_section": "Secretariat and Treasury", "original_text": "Colonial Secretary and Treasurer, T. Risely Griffith, 800l. (and quarters).", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_f_f_pinkett",
+        "name": "F. F. Pinkett",
+        "titles": [],
+        "honors": [],
+        "positions": [{"title": "Chief Justice and Judge of the Vice-Admiralty Court", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 1500, "currency": "£", "period": "annual"}}],
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "265", "source_section": "Judicial Establishment", "original_text": "Chief Justice and Judge of the Vice-Admiralty Court, F. F. Pinkett, 1,500l.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_e_g_ingham",
+        "name": "E. G. Ingham",
+        "titles": ["Right Rev"],
+        "honors": [],
+        "biographical": {"education": "D.D."},
+        "positions": [{"title": "Bishop of Sierra Leone", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 300, "currency": "£", "period": "annual"}, "allowances": [{"type": "from Gold Coast Colony", "amount": 200, "currency": "£"}, {"type": "from Bishop's fund", "amount": 400, "currency": "£"}]}],
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "289", "source_section": "Ecclesiastical Establishment", "original_text": "Bishop of Sierra Leone, The Right. Rev. E. G. Ingham, D.D., 300l. from West Africa Settlements, 200l. from Gold Coast Colony, and 400l. from Bishop's fund.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "SIERRA_LEONE",
+        "year": "1886",
+        "composition": {"total_members": 5, "official_members": 5},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "132-137", "source_section": "Executive Council", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "SIERRA_LEONE",
+        "year": "1886",
+        "composition": {"total_members": 8, "official_members": 5, "unofficial_members": 3},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "138-151", "source_section": "Legislative Council", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1884",
+        "type": "revenue",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1884",
+        "year": "1886",
+        "data": {"value": 78096, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "62-72", "source_section": "Revenue and Expenditure", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_expenditure_1884",
+        "type": "expenditure",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1884",
+        "year": "1886",
+        "data": {"value": 82269, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "62-72", "source_section": "Revenue and Expenditure", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_debt_total",
+        "type": "debt",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1886",
+        "year": "1886",
+        "data": {"value": 58000, "currency": "£", "breakdown": {"1871_debentures": 25000, "1873_debentures": 25000, "imperial_government_1884": 8000}},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "74-78", "source_section": "Public Debt", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_population_1881",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1881",
+        "year": "1886",
+        "population": {"total": 60475, "breakdown": {"white_males": 237, "white_females": 34, "coloured_males": 30964, "coloured_females": 29511}},
+        "notes": "1881 census data showing continued population growth",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "109-115", "source_section": "Population", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "infrastructure": [],
+    "events": [
+      {
+        "id": "event_scarcies_acquisition",
+        "type": "annexation",
+        "description": "Further territory was acquired in the Scarcies River to the north of the peninsula",
+        "event_date": {"year": "1879", "precision": "year"},
+        "year_mentioned": "1886",
+        "year": "1886",
+        "locations": ["place_scarcies_river"],
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "5", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "event_sulymah_gallinas_annexation",
+        "type": "annexation",
+        "description": "The seaboard of the Sulymah and Gallinas Chiefs as far as the Mannah River was annexed",
+        "event_date": {"year": "1884", "precision": "year"},
+        "year_mentioned": "1886",
+        "year": "1886",
+        "locations": ["place_sulymah_gallinas"],
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "source_lines": "5", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_samuel_rowe",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_sierra_leone",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 17,
+    "entities_by_type": {"places": 5, "people": 4, "institutions": 2, "economic_data": 3, "demographics": 1, "infrastructure": 0, "events": 2},
+    "total_relationships": 1,
+    "relationships_by_type": {"GOVERNS": 1},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "year": "1880",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1880.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1880_manual_parsed",
+    "extraction_date": "2025-11-17T12:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["SIERRA_LEONE"],
+    "processing_notes": "West Africa Settlements period with Samuel Rowe as Governor. Detailed revenue/expenditure data, expanded rural district administration, British Sherbro development, and new outpost at Kikonkeh."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "CB": {"full_name": "Companion of the Order of the Bath", "type": "order", "rank": 3}
+    },
+    "titles": {"Sir": {"full_form": "Sir", "category": "nobility"}, "Rev": {"full_form": "Reverend", "category": "religious"}, "Right Rev": {"full_form": "Right Reverend", "category": "religious"}},
+    "positions": {
+      "Governor": {"canonical_name": "Governor-in-Chief and Commander-in-Chief", "hierarchy_level": 1, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary and Treasurer", "hierarchy_level": 3, "category": "administrative"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_sierra_leone",
+        "name": "Sierra Leone",
+        "type": "colony",
+        "year": "1880",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "area": {"value": 300, "unit": "square_miles", "source": "Line 3"},
+        "coordinates": {"latitude": 8.5, "longitude": -13.3, "source": "Line 3: Cape Sierra Leone lies in 8° 30' N. lat., 13° 18' W. long."},
+        "population": {"total": 37039, "year": "1871", "breakdown": {"white_males": 76, "white_females": 31, "coloured_males": 18455, "coloured_females": 18527}, "source": "Lines 87-95"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "1-3", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_freetown",
+        "name": "Freetown",
+        "type": "city",
+        "year": "1880",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "23-27", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_british_sherbro",
+        "name": "British Sherbro",
+        "type": "district",
+        "year": "1880",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "285-298", "source_section": "British Sherbro", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_isles_de_los",
+        "name": "Isles de Los",
+        "type": "island",
+        "year": "1880",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "300-303", "source_section": "Isles de Los", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_kikonkeh",
+        "name": "Kikonkeh",
+        "type": "settlement",
+        "year": "1880",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite", "reasoning": "Located at mouth of the Scarcies River"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "305-306", "source_section": "Kikonkeh", "original_text": "Kikonkeh (mouth of the Scarcies River)", "extraction_confidence": 0.97, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_foulah_bay",
+        "name": "Foulah Bay",
+        "type": "settlement",
+        "year": "1880",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite", "reasoning": "Location of college affiliated to Durham University"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "97", "original_text": "Sierra Leone possesses a college at Foulah Bay, which is affiliated to Durham University", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "people": [
+      {
+        "id": "person_samuel_rowe",
+        "name": "Samuel Rowe",
+        "titles": ["Surgeon-Major"],
+        "honors": [{"honor": "CMG", "full_name": "Companion of the Order of St Michael and St George"}],
+        "positions": [{"title": "Governor, Commander-in-Chief, and Vice-Admiral of W. Africa Settlements", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 2000, "currency": "£", "period": "annual"}, "allowances": [{"type": "allowances", "amount": 500, "currency": "£"}]}],
+        "year": "1880",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "133", "source_section": "Civil Establishment", "original_text": "Governor, Commander-in-Chief, and Vice-Admiral of W. Africa Settlements, Samuel Rowe, C.M.G., Surgeon-Major, 2,000l. and 500l. allowances.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_t_risely_griffith",
+        "name": "T. Risely Griffith",
+        "titles": [],
+        "honors": [],
+        "positions": [{"title": "Colonial Secretary and Treasurer", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 700, "currency": "£", "period": "annual"}}],
+        "year": "1880",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "138", "source_section": "Secretariat and Treasury", "original_text": "Colonial Secretary and Treasurer, T. Risely Griffith, 700l.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_w_w_streeten",
+        "name": "W. W. Streeten",
+        "titles": [],
+        "honors": [],
+        "positions": [{"title": "Chief Justice and Judge of the Vice-Admiralty Court, and Legal Adviser", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 1600, "currency": "£", "period": "annual"}}],
+        "year": "1880",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "209", "source_section": "Judicial Establishment", "original_text": "Chief Justice and Judge of the Vice-Admiralty Court, and Legal Adviser, W. W. Streeten, 1,600l.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_henry_cheetham",
+        "name": "Henry Cheetham",
+        "titles": ["Right Rev"],
+        "honors": [],
+        "biographical": {"education": "D.D."},
+        "positions": [{"title": "Bishop of Sierra Leone", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 300, "currency": "£", "period": "annual"}, "allowances": [{"type": "from Gold Coast Colony", "amount": 200, "currency": "£"}, {"type": "from Bishop's fund", "amount": 400, "currency": "£"}]}],
+        "year": "1880",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "221", "source_section": "Ecclesiastical Establishment", "original_text": "Bishop of Sierra Leone, Right Rev. Henry Cheetham, D.D., 300l. from West Africa Settlements, 200l. from Gold Coast Colony, and 400l. from Bishop's fund.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_t_a_wall",
+        "name": "T. A. Wall",
+        "titles": [],
+        "honors": [],
+        "positions": [{"title": "Civil Commandant", "colony": "SIERRA_LEONE", "location": "British Sherbro", "status": "permanent", "salary": {"amount": 500, "currency": "£", "period": "annual"}}],
+        "year": "1880",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "286", "source_section": "British Sherbro", "original_text": "Civil Commandant, T. A. Wall, 500l.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "person_j_c_loggie",
+        "name": "J. C. Loggie",
+        "titles": [],
+        "honors": [{"honor": "CMG", "full_name": "Companion of the Order of St Michael and St George"}],
+        "positions": [{"title": "Inspector-General of Police", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 400, "currency": "£", "period": "annual"}, "allowances": [{"type": "travelling allowance", "amount": 91.25, "currency": "£"}]}],
+        "year": "1880",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "249", "source_section": "Police Establishment, Freetown", "original_text": "Inspector-General of Police, J. C. Loggie, C.M.G., 400l., and travelling allowance, 91l. 5s.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "SIERRA_LEONE",
+        "year": "1880",
+        "composition": {"total_members": 4, "official_members": 4},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "111-117", "source_section": "Executive Council", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "SIERRA_LEONE",
+        "year": "1880",
+        "composition": {"total_members": 7, "official_members": 5, "unofficial_members": 2},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "119-129", "source_section": "Legislative Council", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "inst_foulah_bay_college",
+        "name": "Foulah Bay College",
+        "type": "educational",
+        "colony": "SIERRA_LEONE",
+        "location": "Foulah Bay",
+        "year": "1880",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "97", "original_text": "Sierra Leone possesses a college at Foulah Bay, which is affiliated to Durham University", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1878",
+        "type": "revenue",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1878",
+        "year": "1880",
+        "data": {"value": 63125, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "33-48", "source_section": "Revenue and Expenditure", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_expenditure_1878",
+        "type": "expenditure",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1878",
+        "year": "1880",
+        "data": {"value": 53256, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "33-48", "source_section": "Revenue and Expenditure", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_debt_harbour_debentures",
+        "type": "debt",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1880",
+        "year": "1880",
+        "data": {"value": 66000, "currency": "£", "category": "Harbour Work Debentures", "breakdown": {"1871_debentures": 25000, "1873_debentures": 25000, "1876_debentures": 16000}},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "58-64", "source_section": "Public Debt", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_population_1871",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1871",
+        "year": "1880",
+        "population": {"total": 37039, "breakdown": {"white_males": 76, "white_females": 31, "coloured_males": 18455, "coloured_females": 18527}},
+        "notes": "Most recent census data available showing demographic breakdown by sex and color",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "source_lines": "87-95", "source_section": "Population of each Sex and Colour", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "infrastructure": [],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "person_samuel_rowe",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_sierra_leone",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "person_t_a_wall",
+      "relationship_type": "STATIONED_AT",
+      "target_id": "place_british_sherbro",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "inst_foulah_bay_college",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_foulah_bay",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.98, "extraction_method": "direct_extraction"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 19,
+    "entities_by_type": {"places": 6, "people": 6, "institutions": 3, "economic_data": 3, "demographics": 1, "infrastructure": 0, "events": 0},
+    "total_relationships": 3,
+    "relationships_by_type": {"GOVERNS": 1, "STATIONED_AT": 1, "LOCATED_IN": 1},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

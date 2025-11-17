@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "year": "1906",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1906.pdf",
+    "source_directory": "output_2/1906_manual_parsed",
+    "extraction_date": "2025-11-17T11:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["GRENADA"],
+    "processing_notes": "Spice Island. Cocoa and nutmeg production continues to grow."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3}
+    },
+    "titles": {"Sir": {"full_form": "Sir", "category": "nobility"}},
+    "positions": {"Governor": {"canonical_name": "Governor", "hierarchy_level": 1, "category": "executive"}},
+    "institution_types": {"executive_council": {"description": "Advisory council"}, "legislative_council": {"description": "Legislative body"}}
+  },
+  "entities": {
+    "places": [
+      {"id": "place_grenada", "name": "Grenada", "type": "colony", "year": "1906", "location_context": {"mentioned_in_colony": "GRENADA", "actual_location_country": "Grenada", "certainty": "definite", "reasoning": "HQ of Windward Islands"}, "area": {"value": 133, "unit": "square_miles", "source": "Line 5"}, "population": {"total": 68253, "year": "1904", "source": "Line 81"}, "provenance": {"source_file": "output_2/1906_manual_parsed/GRENADA.md", "source_lines": "5", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_st_georges", "name": "St. George's", "type": "city", "year": "1906", "location_context": {"mentioned_in_colony": "GRENADA", "actual_location_country": "Grenada", "certainty": "definite", "reasoning": "Principal town"}, "population": {"total": 5198, "year": "1901", "source": "Line 11"}, "parent_location": "place_grenada", "provenance": {"source_file": "output_2/1906_manual_parsed/GRENADA.md", "source_lines": "11", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_carriacou", "name": "Carriacou", "type": "island", "year": "1906", "location_context": {"mentioned_in_colony": "GRENADA", "actual_location_country": "Grenada", "certainty": "definite", "reasoning": "Dependency"}, "area": {"value": 8467, "unit": "acres", "source": "Line 5"}, "population": {"total": 7117, "year": "1904", "source": "Line 5"}, "parent_location": "place_grenada", "provenance": {"source_file": "output_2/1906_manual_parsed/GRENADA.md", "source_lines": "5", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "people": [],
+    "institutions": [
+      {"id": "inst_executive_council", "name": "Executive Council", "type": "executive_council", "colony": "GRENADA", "year": "1906", "provenance": {"source_file": "output_2/1906_manual_parsed/GRENADA.md", "extraction_confidence": 0.95, "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "inst_legislative_council", "name": "Legislative Council", "type": "legislative_council", "colony": "GRENADA", "year": "1906", "composition": {"total_members": 14, "official_members": 7, "unofficial_members": 7}, "provenance": {"source_file": "output_2/1906_manual_parsed/GRENADA.md", "extraction_confidence": 0.98, "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "economic_data": [
+      {"id": "econ_revenue_1904_5", "type": "revenue", "colony": "GRENADA", "year": "1906", "year_applies": "1904-5", "data": {"value": 68993, "currency": "£"}, "validation": {"plausibility": "plausible", "completeness": "complete"}, "provenance": {"source_file": "output_2/1906_manual_parsed/GRENADA.md", "source_lines": "98", "extraction_confidence": 0.99, "extraction_method": "parsed_table", "verification_status": "automated"}},
+      {"id": "econ_expenditure_1904_5", "type": "expenditure", "colony": "GRENADA", "year": "1906", "year_applies": "1904-5", "data": {"value": 69510, "currency": "£"}, "validation": {"plausibility": "plausible", "completeness": "complete"}, "provenance": {"source_file": "output_2/1906_manual_parsed/GRENADA.md", "source_lines": "98", "extraction_confidence": 0.99, "extraction_method": "parsed_table", "verification_status": "automated"}},
+      {"id": "econ_cocoa_exports_1904", "type": "exports", "colony": "GRENADA", "year": "1906", "year_applies": "1904", "data": {"value": 272226, "currency": "£", "category": "cocoa", "unit": "117791 cwt"}, "validation": {"plausibility": "plausible", "completeness": "complete"}, "provenance": {"source_file": "output_2/1906_manual_parsed/GRENADA.md", "source_lines": "23", "original_text": "cocoa, of which, about 117,791 cwt., of the total value of 272,226l., were shipped in 1904", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "econ_spices_exports_1904", "type": "exports", "colony": "GRENADA", "year": "1906", "year_applies": "1904", "data": {"value": 33767, "currency": "£", "category": "spices"}, "validation": {"plausibility": "plausible", "completeness": "complete"}, "provenance": {"source_file": "output_2/1906_manual_parsed/GRENADA.md", "source_lines": "23", "original_text": "The export of spices has increased from 3,483l. in 1880, to 33,767l. in 1904", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "infrastructure": [
+      {"id": "infra_roads_1906", "type": "road", "colony": "GRENADA", "year": "1906", "name": "Road Network", "specifications": {"length": {"value": 408, "unit": "miles"}, "other": {"main_roads": 133, "byways": 275}}, "provenance": {"source_file": "output_2/1906_manual_parsed/GRENADA.md", "source_lines": "11", "extraction_confidence": 0.98, "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "infra_port_st_georges", "type": "port", "colony": "GRENADA", "year": "1906", "name": "St. George's Port", "operation": {"traffic": "85 vessels registered, 1,071 tons (31 Dec 1904)"}, "provenance": {"source_file": "output_2/1906_manual_parsed/GRENADA.md", "source_lines": "11", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "demographics": [
+      {"id": "demo_1904", "colony": "GRENADA", "year": "1906", "year_applies": "1904", "population": {"total": 68253, "breakdown": {"european": "2%", "negro": "majority", "east_indian": 2262}}, "provenance": {"source_file": "output_2/1906_manual_parsed/GRENADA.md", "source_lines": "13, 81", "extraction_confidence": 0.95, "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "events": []
+  },
+  "relationships": [],
+  "extraction_statistics": {
+    "total_entities": 11,
+    "entities_by_type": {"places": 3, "people": 0, "institutions": 2, "economic_data": 4, "infrastructure": 2, "demographics": 1, "events": 0},
+    "total_relationships": 0,
+    "relationships_by_type": {},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "year": "1889",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1889.pdf",
+    "source_directory": "output_2/1889_manual_parsed",
+    "extraction_date": "2025-11-17T13:30:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["BRITISH_GUIANA"],
+    "processing_notes": "Extracted from 1889 Colonial Office List. Contains Court of Policy, Civil Establishment, economic data, and administrative structure for British Guiana."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2}
+    },
+    "titles": {"Sir": {"full_form": "Sir", "category": "nobility"}},
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 2, "category": "executive"},
+      "Attorney-General": {"canonical_name": "Attorney-General", "hierarchy_level": 3, "category": "judicial"},
+      "Government Secretary": {"canonical_name": "Government Secretary", "hierarchy_level": 3, "category": "administrative"}
+    }
+  },
+  "entities": {
+    "places": [
+      {"id": "place_british_guiana", "name": "British Guiana", "type": "colony", "year": "1889",
+        "location_context": {"mentioned_in_colony": "BRITISH_GUIANA", "actual_location_country": "Guyana (modern)", "certainty": "definite", "reasoning": "South American mainland colony"},
+        "provenance": {"source_file": "output_2/1889_manual_parsed/BRITISH_GUIANA.md", "source_lines": "1-10", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T13:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_georgetown", "name": "Georgetown", "type": "city", "year": "1889",
+        "location_context": {"mentioned_in_colony": "BRITISH_GUIANA", "actual_location_country": "Guyana", "certainty": "definite", "reasoning": "Capital city"},
+        "parent_location": "place_british_guiana",
+        "provenance": {"source_file": "output_2/1889_manual_parsed/BRITISH_GUIANA.md", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T13:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_demerara", "name": "Demerara", "type": "district", "year": "1889",
+        "location_context": {"mentioned_in_colony": "BRITISH_GUIANA", "actual_location_country": "Guyana", "certainty": "definite", "reasoning": "County in British Guiana"},
+        "parent_location": "place_british_guiana",
+        "provenance": {"source_file": "output_2/1889_manual_parsed/BRITISH_GUIANA.md", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T13:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_essequibo", "name": "Essequibo", "type": "district", "year": "1889",
+        "location_context": {"mentioned_in_colony": "BRITISH_GUIANA", "actual_location_country": "Guyana", "certainty": "definite", "reasoning": "County in British Guiana"},
+        "parent_location": "place_british_guiana",
+        "provenance": {"source_file": "output_2/1889_manual_parsed/BRITISH_GUIANA.md", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T13:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_berbice", "name": "Berbice", "type": "district", "year": "1889",
+        "location_context": {"mentioned_in_colony": "BRITISH_GUIANA", "actual_location_country": "Guyana", "certainty": "definite", "reasoning": "County in British Guiana"},
+        "parent_location": "place_british_guiana",
+        "provenance": {"source_file": "output_2/1889_manual_parsed/BRITISH_GUIANA.md", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T13:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "people": [],
+    "institutions": [
+      {"id": "inst_court_of_policy", "name": "Court of Policy", "year": "1889", "type": "legislative_council", "colony": "BRITISH_GUIANA",
+        "composition": {"total_members": 10, "official_members": 5, "unofficial_members": 5},
+        "provenance": {"source_file": "output_2/1889_manual_parsed/BRITISH_GUIANA.md", "extraction_confidence": 0.97, "extraction_date": "2025-11-17T13:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "economic_data": [],
+    "demographics": [],
+    "events": []
+  },
+  "relationships": [
+    {"source_id": "place_georgetown", "relationship_type": "LOCATED_IN", "target_id": "place_british_guiana",
+      "properties": {"year": "1889", "confidence": "definite"},
+      "provenance": {"source_file": "output_2/1889_manual_parsed/BRITISH_GUIANA.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}},
+    {"source_id": "place_demerara", "relationship_type": "PART_OF", "target_id": "place_british_guiana",
+      "properties": {"year": "1889", "confidence": "definite"},
+      "provenance": {"source_file": "output_2/1889_manual_parsed/BRITISH_GUIANA.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}},
+    {"source_id": "place_essequibo", "relationship_type": "PART_OF", "target_id": "place_british_guiana",
+      "properties": {"year": "1889", "confidence": "definite"},
+      "provenance": {"source_file": "output_2/1889_manual_parsed/BRITISH_GUIANA.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}},
+    {"source_id": "place_berbice", "relationship_type": "PART_OF", "target_id": "place_british_guiana",
+      "properties": {"year": "1889", "confidence": "definite"},
+      "provenance": {"source_file": "output_2/1889_manual_parsed/BRITISH_GUIANA.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}}
+  ],
+  "extraction_statistics": {
+    "total_entities": 6,
+    "entities_by_type": {"places": 5, "people": 0, "institutions": 1, "economic_data": 0, "demographics": 0, "events": 0},
+    "total_relationships": 4,
+    "relationships_by_type": {"LOCATED_IN": 1, "PART_OF": 3}
+  }
+}

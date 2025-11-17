@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "year": "1905",
+    "schema_version": "2.0",
+    "source_directory": "/home/user/colonial_office_list/output_2/1905_manual_parsed",
+    "extraction_date": "2025-11-17T15:05:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["MONTSERRAT"],
+    "processing_notes": "Post-hurricane recovery period (1899), showing reorganized administration"
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {
+      "Rev": {"full_form": "Reverend", "category": "religious"},
+      "Hon": {"full_form": "Honourable", "category": "nobility"}
+    },
+    "positions": {
+      "Commissioner": {"canonical_name": "Commissioner", "hierarchy_level": 2, "category": "executive"},
+      "Medical Officer": {"canonical_name": "Medical Officer", "hierarchy_level": 4, "category": "medical"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council", "parent_type": null},
+      "legislative_council": {"description": "Legislative body", "parent_type": null}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_montserrat",
+        "name": "Montserrat",
+        "type": "island",
+        "location_context": {
+          "mentioned_in_colony": "MONTSERRAT",
+          "actual_location_country": "Leeward Islands (British West Indies)",
+          "certainty": "definite",
+          "reasoning": "Primary colony"
+        },
+        "coordinates": {"latitude": 16.75, "longitude": -61.0, "source": "Line 5"},
+        "area": {"value": 32.5, "unit": "square_miles", "source": "Line 5"},
+        "population": {"total": 12215, "year": "1901", "source": "Line 72"},
+        "year": "1905",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1905_manual_parsed/MONTSERRAT.md",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_plymouth",
+        "name": "Plymouth",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "MONTSERRAT",
+          "actual_location_country": "Montserrat",
+          "certainty": "definite",
+          "reasoning": "Chief town"
+        },
+        "population": {"total": 1461, "year": "1905", "source": "Line 5"},
+        "parent_location": "place_montserrat",
+        "year": "1905",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1905_manual_parsed/MONTSERRAT.md",
+          "source_lines": "5",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_frederick_henry_watkins",
+        "name": "Frederick Henry Watkins",
+        "titles": [],
+        "honors": [{"honor": "I.S.O.", "full_name": "Imperial Service Order"}],
+        "positions": [
+          {
+            "title": "Commissioner",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {"amount": 500, "currency": "£", "period": "annual"},
+            "allowances": [
+              {"type": "house allowance", "amount": 50, "currency": "£"},
+              {"type": "grounds upkeep", "amount": 20, "currency": "£"}
+            ]
+          }
+        ],
+        "year": "1905",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1905_manual_parsed/MONTSERRAT.md",
+          "source_lines": "101, 106",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_mansergh_pace_duke",
+        "name": "Mansergh Pace Duke",
+        "titles": ["Hon"],
+        "honors": [],
+        "biographical": {"education": "M.R.C.P.I."},
+        "positions": [
+          {
+            "title": "Medical Officer",
+            "department": "District No. 1",
+            "colony": "MONTSERRAT",
+            "status": "permanent",
+            "salary": {"amount": 225, "currency": "£", "period": "annual"},
+            "allowances": [
+              {"type": "Medical Officer of Health", "amount": 24, "currency": "£"},
+              {"type": "drug allowance", "amount": 30, "currency": "£"}
+            ]
+          }
+        ],
+        "year": "1905",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1905_manual_parsed/MONTSERRAT.md",
+          "source_lines": "84, 93, 127, 146",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "MONTSERRAT",
+        "year": "1905",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1905_manual_parsed/MONTSERRAT.md",
+          "source_lines": "77-88",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "MONTSERRAT",
+        "year": "1905",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1905_manual_parsed/MONTSERRAT.md",
+          "source_lines": "89-98",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1903",
+        "type": "revenue",
+        "colony": "MONTSERRAT",
+        "year_applies": "1903",
+        "data": {"value": 9849, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "year": "1905",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1905_manual_parsed/MONTSERRAT.md",
+          "source_lines": "40",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T15:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1903",
+        "type": "debt",
+        "colony": "MONTSERRAT",
+        "year_applies": "1903",
+        "data": {"value": 11100, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "year": "1905",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1905_manual_parsed/MONTSERRAT.md",
+          "source_lines": "70",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_1901",
+        "colony": "MONTSERRAT",
+        "year_applies": "1901",
+        "population": {"total": 12215},
+        "year": "1905",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1905_manual_parsed/MONTSERRAT.md",
+          "source_lines": "72",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_hurricane_1899",
+        "type": "natural_disaster",
+        "description": "On 7th August 1899, the island was devastated by a fearful hurricane",
+        "event_date": {"year": "1899", "month": "August", "day": "7", "precision": "exact"},
+        "year_mentioned": "1905",
+        "locations": ["place_montserrat"],
+        "year": "1905",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1905_manual_parsed/MONTSERRAT.md",
+          "source_lines": "23",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T15:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_plymouth",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_montserrat",
+      "properties": {"confidence": "definite"},
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1905_manual_parsed/MONTSERRAT.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 10,
+    "entities_by_type": {
+      "places": 2,
+      "people": 2,
+      "institutions": 2,
+      "economic_data": 2,
+      "demographics": 1,
+      "events": 1
+    },
+    "total_relationships": 1,
+    "relationships_by_type": {"LOCATED_IN": 1},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

@@ -1,0 +1,839 @@
+{
+  "metadata": {
+    "year": "1883",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1883.pdf",
+    "source_directory": "output_2/1883_manual_parsed",
+    "extraction_date": "2025-11-17T12:10:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["GAMBIA"],
+    "processing_notes": "Includes detailed account of 1881 Upper Gambia Expedition led by Dr. Gouldsbury to explore trade routes to Futa Jallon. Population census of 1881 shows 14,150 total."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Capt": {
+        "full_form": "Captain",
+        "category": "military"
+      },
+      "Dr": {
+        "full_form": "Doctor",
+        "category": "academic"
+      },
+      "Surgeon-Major": {
+        "full_form": "Surgeon-Major",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Administrator": {
+        "canonical_name": "Administrator",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Collector and Treasurer": {
+        "canonical_name": "Collector and Treasurer",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      },
+      "Chief Magistrate": {
+        "canonical_name": "Chief Magistrate",
+        "hierarchy_level": 4,
+        "category": "judicial"
+      }
+    },
+    "institution_types": {
+      "legislative_council": {
+        "description": "Legislative body",
+        "parent_type": null
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_gambia_colony",
+        "name": "The Gambia",
+        "type": "colony",
+        "population": {
+          "total": 14150,
+          "year": "1881",
+          "breakdown": {
+            "males": 7215,
+            "females": 6935
+          },
+          "source": "output_2/1883_manual_parsed/GAMBIA.md lines 71-82"
+        },
+        "location_context": {
+          "mentioned_in_colony": "GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Primary colony entry, West African settlement, part of West Africa Settlements"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "1-27",
+          "source_section": "THE GAMBIA",
+          "original_text": "THE GAMBIA. The Gambia is a great river of Western Africa...",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bathurst",
+        "name": "Bathurst",
+        "type": "town",
+        "parent_location": "place_st_marys_island",
+        "coordinates": {
+          "latitude": 13.4,
+          "longitude": -16.6,
+          "source": "output_2/1883_manual_parsed/GAMBIA.md line 3 - '13° 24' N. lat., 16° 36' W. long.'"
+        },
+        "location_context": {
+          "mentioned_in_colony": "GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Capital town on St. Mary's Island with coordinates specified"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "3",
+          "source_section": "THE GAMBIA",
+          "original_text": "The town of Bathurst, 13° 24' N. lat., 16° 36' W. long., is situated on St. Mary's Island",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_marys_island",
+        "name": "St. Mary's Island",
+        "type": "island",
+        "parent_location": "place_gambia_colony",
+        "location_context": {
+          "mentioned_in_colony": "GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Island at mouth of Gambia River, 3.5 miles long and 1.25 miles broad"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "3, 5",
+          "source_section": "THE GAMBIA",
+          "original_text": "St. Mary's Island, which latter is a sandbank about three and a-half miles long and a mile and a quarter broad",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_mccarthys_island",
+        "name": "McCarthy's Island",
+        "type": "island",
+        "parent_location": "place_gambia_colony",
+        "location_context": {
+          "mentioned_in_colony": "GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Interior island 187 miles from Bathurst, demarcation between upper and lower river"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "5",
+          "source_section": "THE GAMBIA",
+          "original_text": "McCarthy's Island is situated between the falls of Barraconda and Bathurst, and is 187 miles distant from the latter.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_timbo",
+        "name": "Timbo",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "GAMBIA",
+          "actual_location_country": "Guinea",
+          "certainty": "definite",
+          "reasoning": "Capital of Futa Jallon country, visited by Upper Gambia Expedition in 1881"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "9, 13",
+          "source_section": "THE GAMBIA",
+          "original_text": "reaching Timbo, the capital of the extensive Futa Jallon country... Timbo itself was found to be a rather insignificant town",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_v_s_gouldsbury",
+        "name": "V. S. Gouldsbury",
+        "titles": ["Dr", "Surgeon-Major"],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Administrator",
+            "colony": "GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 1300,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Governor",
+            "colony": "GAMBIA",
+            "start_date": "1877",
+            "status": "permanent"
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "9, 97, 112",
+          "source_section": "THE GAMBIA",
+          "original_text": "an expedition (The Upper Gambia Expedition), under the command of Dr. Gouldsbury, Administrator of the Gambia... Administrator, V. S. Gouldsbury, C.M.G., Surgeon-Major, 1,300l.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_samuel_rowe",
+        "name": "Samuel Rowe",
+        "titles": ["Sir"],
+        "honors": [
+          {
+            "honor": "KCMG",
+            "full_name": "Knight Commander of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "GAMBIA",
+            "start_date": "1875",
+            "status": "permanent"
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "96",
+          "source_section": "THE GAMBIA > Governors",
+          "original_text": "1875 Sir Samuel Rowe, K.C.M.G.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_p_roche",
+        "name": "W. P. Roche",
+        "titles": ["Capt"],
+        "positions": [
+          {
+            "title": "1st Writer",
+            "colony": "GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 200,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Clerk to Legislative Council",
+            "colony": "GAMBIA",
+            "status": "permanent"
+          },
+          {
+            "title": "Superintendent of Police",
+            "colony": "GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 200,
+              "currency": "GBP",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "forage",
+                "amount": 2.25,
+                "currency": "GBP",
+                "description": "2s. 3d. per diem forage allowances"
+              }
+            ]
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "108, 113, 155",
+          "source_section": "THE GAMBIA > Civil Establishment",
+          "original_text": "Clerk to Legislative Council, Capt. W. P. Roche. / 1st Writer Capt. W. P. Roche, 200l.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_g_t_carter",
+        "name": "G. T. Carter",
+        "positions": [
+          {
+            "title": "Collector and Treasurer",
+            "colony": "GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 700,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Postmaster",
+            "colony": "GAMBIA",
+            "status": "permanent"
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "102, 123",
+          "source_section": "THE GAMBIA > Civil Establishment",
+          "original_text": "The Collector and Treasurer. / Collector and Treasurer, and Postmaster, G. T. Carter, 700l.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_francis_smith",
+        "name": "Francis Smith",
+        "positions": [
+          {
+            "title": "Chief Magistrate",
+            "colony": "GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 600,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "103, 147",
+          "source_section": "THE GAMBIA > Judicial Establishment",
+          "original_text": "The Chief Magistrate. / Chief Magistrate, Francis Smith, 600l., and fees.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_james_topp",
+        "name": "James Topp",
+        "positions": [
+          {
+            "title": "Unofficial Member",
+            "institution_id": "inst_legislative_council",
+            "colony": "GAMBIA",
+            "status": "permanent"
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "107",
+          "source_section": "THE GAMBIA > Legislative Council",
+          "original_text": "Unofficial Member, James Topp.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_thomas_h_spilsbury",
+        "name": "Thomas H. Spilsbury",
+        "positions": [
+          {
+            "title": "Colonial Surgeon",
+            "colony": "GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 400,
+              "currency": "GBP",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "forage",
+                "amount": 2.25,
+                "currency": "GBP",
+                "description": "2s. 3d. per day forage allowance"
+              }
+            ]
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "141",
+          "source_section": "THE GAMBIA > Medical Establishment",
+          "original_text": "Colonial Surgeon, Thomas H. Spilsbury 400l., and 2s. 3d. per day forage allowance.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_george_nicol",
+        "name": "George Nicol",
+        "titles": ["Rev"],
+        "positions": [
+          {
+            "title": "Colonial Chaplain",
+            "colony": "GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 450,
+              "currency": "GBP",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "forage",
+                "amount": 2.25,
+                "currency": "GBP",
+                "description": "2s. 3d. per day forage allowance"
+              }
+            ]
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "165",
+          "source_section": "THE GAMBIA > Ecclesiastical Establishment",
+          "original_text": "Colonial Chaplain, Rev. George Nicol, 450l., and 2s. 3d. per day forage allowance.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_e_a_m_smith",
+        "name": "E. A. M. Smith",
+        "positions": [
+          {
+            "title": "Manager of Districts",
+            "location": "McCarthy's Island",
+            "colony": "GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 250,
+              "currency": "GBP",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "residence",
+                "description": "residence and forage allowance of 2s. 3d. per diem"
+              }
+            ]
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "160",
+          "source_section": "THE GAMBIA > Managers of Districts",
+          "original_text": "McCarthy's Island, E. A. M. Smith, 250l., residence, and forage allowance of 2s. 3d. per diem.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_w_pearce",
+        "name": "J. W. Pearce",
+        "positions": [
+          {
+            "title": "Manager of Districts",
+            "location": "British Combo",
+            "colony": "GAMBIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 100,
+              "currency": "GBP",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "forage",
+                "amount": 2.25,
+                "currency": "GBP",
+                "description": "forage allowance of 2s. 3d. per diem"
+              }
+            ]
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "161",
+          "source_section": "THE GAMBIA > Managers of Districts",
+          "original_text": "British Combo, J. W. Pearce, 100l., and forage allowance of 2s. 3d. per diem.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "GAMBIA",
+        "composition": {
+          "total_members": 4,
+          "official_members": 3,
+          "unofficial_members": 1,
+          "ex_officio_members": 3
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "99-108",
+          "source_section": "THE GAMBIA > Legislative Council",
+          "original_text": "Legislative Council. The Administrator, President. The Collector and Treasurer. The Chief Magistrate. Ex-officio Members. Unofficial Member, James Topp.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1881",
+        "type": "revenue",
+        "colony": "GAMBIA",
+        "year_applies": "1881",
+        "data": {
+          "value": 24088,
+          "currency": "GBP",
+          "category": "total_revenue"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "54",
+          "source_section": "THE GAMBIA > Revenue and Expenditure",
+          "original_text": "1881 | 24,088 | 19,840",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1881",
+        "type": "expenditure",
+        "colony": "GAMBIA",
+        "year_applies": "1881",
+        "data": {
+          "value": 19840,
+          "currency": "GBP",
+          "category": "total_expenditure"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "54",
+          "source_section": "THE GAMBIA > Revenue and Expenditure",
+          "original_text": "1881 | 24,088 | 19,840",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1881",
+        "type": "imports",
+        "colony": "GAMBIA",
+        "year_applies": "1881",
+        "data": {
+          "value": 160628,
+          "currency": "GBP",
+          "category": "total_imports"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "69",
+          "source_section": "THE GAMBIA > Value of Imports and Exports",
+          "original_text": "1881 | 160,628 | 140,423",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1881",
+        "type": "exports",
+        "colony": "GAMBIA",
+        "year_applies": "1881",
+        "data": {
+          "value": 140423,
+          "currency": "GBP",
+          "category": "total_exports"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "69",
+          "source_section": "THE_GAMBIA > Value of Imports and Exports",
+          "original_text": "1881 | 160,628 | 140,423",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_production_groundnuts",
+        "type": "production",
+        "colony": "GAMBIA",
+        "year_applies": "1883",
+        "data": {
+          "category": "ground_nuts",
+          "unit": "principal_export",
+          "breakdown": {
+            "note": "Ground nuts, hides, and beeswax are the only exports. Other productions include rice, cotton, maize, and kous"
+          }
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "7",
+          "source_section": "THE GAMBIA",
+          "original_text": "The principal productions of the settlement and of the adjoining districts are ground nuts, hides, beeswax, rice, cotton, maize, and a corn called kous. Of these, however, only ground nuts, hides, and beeswax are exported.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_gambia_1881",
+        "colony": "GAMBIA",
+        "year_applies": "1881",
+        "population": {
+          "total": 14150,
+          "breakdown": {
+            "males": 7215,
+            "females": 6935,
+            "note": "Total population of settlements on River Gambia"
+          }
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "71-82",
+          "source_section": "THE GAMBIA > Detail of Population and Dwellings in the year 1881",
+          "original_text": "Total Population of the Settlements on the River Gambia | | | 7215 | 6935 | 14,150",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated",
+          "notes": "Census data from 1881"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_upper_gambia_expedition",
+        "type": "expedition",
+        "description": "Upper Gambia Expedition led by Dr. Gouldsbury to explore trade routes from Gambia to Futa Jallon and Sierra Leone, traveling 1000 miles over 3 months",
+        "event_date": {
+          "year": "1881",
+          "month": "1",
+          "precision": "month"
+        },
+        "year_mentioned": "1883",
+        "locations": ["place_gambia_colony", "place_timbo"],
+        "participants": ["person_v_s_gouldsbury"],
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+          "source_lines": "9-19",
+          "source_section": "THE GAMBIA",
+          "original_text": "In the early part of the year 1881 an expedition (The Upper Gambia Expedition), under the command of Dr. Gouldsbury, Administrator of the Gambia, set out from the settlement for the purpose of examining the upper river... The expeditionary party arrived at Sierra Leone in the latter end of April, having taken exactly three months to accomplish the journey, and having travelled over a distance of about 1,000 miles.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T12:10:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_bathurst",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_st_marys_island",
+      "properties": {
+        "year": "1883",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+        "source_lines": "3",
+        "extraction_confidence": 1.0,
+        "extraction_date": "2025-11-17T12:10:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "source_id": "person_v_s_gouldsbury",
+      "relationship_type": "PARTICIPATED_IN",
+      "target_id": "event_upper_gambia_expedition",
+      "properties": {
+        "year": "1881",
+        "confidence": "definite",
+        "notes": "Led the expedition as Administrator"
+      },
+      "provenance": {
+        "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+        "source_lines": "9",
+        "extraction_confidence": 1.0,
+        "extraction_date": "2025-11-17T12:10:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "source_id": "person_james_topp",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_legislative_council",
+      "properties": {
+        "year": "1883",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1883_manual_parsed/GAMBIA.md",
+        "source_lines": "107",
+        "extraction_confidence": 1.0,
+        "extraction_date": "2025-11-17T12:10:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 24,
+    "entities_by_type": {
+      "places": 5,
+      "people": 10,
+      "institutions": 1,
+      "economic_data": 5,
+      "demographics": 1,
+      "events": 1,
+      "infrastructure": 0
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "LOCATED_IN": 1,
+      "MEMBER_OF": 1,
+      "PARTICIPATED_IN": 1
+    }
+  }
+}

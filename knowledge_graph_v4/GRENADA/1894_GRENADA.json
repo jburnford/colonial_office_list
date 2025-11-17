@@ -1,0 +1,635 @@
+{
+  "metadata": {
+    "year": "1894",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1894.pdf",
+    "source_directory": "output_2/1894_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["GRENADA"],
+    "processing_notes": "Spice Island of the West. Major cocoa producer. Grenada became headquarters of Windward Islands in 1885."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "CB": {"full_name": "Companion of the Order of the Bath", "type": "order", "rank": 3}
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Rev": {"full_form": "Reverend", "category": "religious"},
+      "Very Rev": {"full_form": "Very Reverend", "category": "religious"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 1, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Attorney-General": {"canonical_name": "Attorney-General", "hierarchy_level": 3, "category": "judicial"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council to the Governor"},
+      "legislative_council": {"description": "Legislative body of the colony"},
+      "supreme_court": {"description": "Highest court in the colony"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_grenada",
+        "name": "Grenada",
+        "type": "colony",
+        "year": "1894",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Principal colony, headquarters of Windward Islands group"
+        },
+        "coordinates": {
+          "latitude": 12.23,
+          "longitude": -61.46,
+          "source": "Lines 5-6: between 12° 30' and 11° 58' N. lat., and 61° 20' and 61° 35' W. long."
+        },
+        "area": {
+          "value": 133,
+          "unit": "square_miles",
+          "source": "Line 6"
+        },
+        "population": {
+          "total": 55333,
+          "year": "1892",
+          "source": "Line 82"
+        },
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "5-6",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_georges",
+        "name": "St. George's",
+        "type": "city",
+        "year": "1894",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Principal town and capital"
+        },
+        "population": {
+          "total": 5000,
+          "year": "1894",
+          "source": "Line 12"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "12",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_carriacou",
+        "name": "Carriacou",
+        "type": "island",
+        "year": "1894",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Largest of the Grenadines attached to Grenada"
+        },
+        "area": {
+          "value": 6913,
+          "unit": "acres",
+          "source": "Line 6"
+        },
+        "population": {
+          "total": 6031,
+          "year": "1894",
+          "source": "Line 6"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "6",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_mount_st_catherine",
+        "name": "Mount St. Catherine",
+        "type": "other",
+        "year": "1894",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Highest peak in Grenada"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "10",
+          "original_text": "highest of which is Mount St. Catherine, 3,200 feet",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_charles_bruce",
+        "name": "Charles Bruce",
+        "titles": ["Sir"],
+        "honors": [
+          {"honor": "KCMG", "full_name": "Knight Commander of the Order of St Michael and St George"}
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "GRENADA",
+            "location": "Windward Islands",
+            "status": "permanent",
+            "salary": {"amount": 2500, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "74, 138",
+          "original_text": "Sir Charles Bruce, K.C.M.G., Governor",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_edward_drayton",
+        "name": "Edward Drayton",
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {"amount": 600, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1894",
+        "biographical": {
+          "previous_service": "Previously served as Administrator in 1893"
+        },
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "73, 142",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_f_gresham",
+        "name": "J. F. Gresham",
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {"amount": 1000, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "219",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_h_r_pipon_schooles",
+        "name": "H. R. Pipon Schooles",
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {"amount": 400, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1894",
+        "biographical": {
+          "previous_service": "Previously served as Administrator in 1887"
+        },
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "70, 221",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_edward_pakenham_brooks",
+        "name": "Edward Pakenham Brooks",
+        "positions": [
+          {
+            "title": "Treasurer",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {"amount": 500, "currency": "£", "period": "annual"}
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "145",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "GRENADA",
+        "year": "1894",
+        "composition": {
+          "official_members": 3,
+          "unofficial_members": 1
+        },
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "115-121",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "GRENADA",
+        "year": "1894",
+        "composition": {
+          "total_members": 14,
+          "official_members": 7,
+          "unofficial_members": 7
+        },
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "123-133",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_supreme_court",
+        "name": "Supreme Court",
+        "type": "supreme_court",
+        "colony": "GRENADA",
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "223",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_savings_bank",
+        "name": "Government Savings Bank",
+        "type": "treasury",
+        "colony": "GRENADA",
+        "location": "St. George",
+        "year": "1894",
+        "established": "1887",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "33",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_board_of_education",
+        "name": "Board of Education",
+        "type": "education_department",
+        "colony": "GRENADA",
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "57-58",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1892",
+        "type": "revenue",
+        "colony": "GRENADA",
+        "year": "1894",
+        "year_applies": "1892",
+        "data": {
+          "value": 55820,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "97",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1892",
+        "type": "expenditure",
+        "colony": "GRENADA",
+        "year": "1894",
+        "year_applies": "1892",
+        "data": {
+          "value": 59260,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "97",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_cocoa_exports_1892",
+        "type": "exports",
+        "colony": "GRENADA",
+        "year": "1894",
+        "year_applies": "1892",
+        "data": {
+          "value": 226107,
+          "currency": "£",
+          "category": "cocoa",
+          "unit": "75369 cwt"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "25",
+          "original_text": "cocoa, of which 75,369 cwt., of the total value of 226,107l., were shipped in 1892",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_spices_exports_1892",
+        "type": "exports",
+        "colony": "GRENADA",
+        "year": "1894",
+        "year_applies": "1892",
+        "data": {
+          "value": 15650,
+          "currency": "£",
+          "category": "spices"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "25",
+          "original_text": "The export of spices has increased from 3,483l. in 1890, to 15,650l. in 1892",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_public_debt_1893",
+        "type": "debt",
+        "colony": "GRENADA",
+        "year": "1894",
+        "year_applies": "1893",
+        "data": {
+          "value": 96575,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "113",
+          "original_text": "Public Debt, 1893, 96,575l.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_customs_revenue_1892",
+        "type": "revenue",
+        "colony": "GRENADA",
+        "year": "1894",
+        "year_applies": "1892",
+        "data": {
+          "value": 23684,
+          "currency": "£",
+          "category": "customs"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "99",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_roads_1894",
+        "type": "road",
+        "colony": "GRENADA",
+        "year": "1894",
+        "name": "Road Network",
+        "description": "All roads in excellent condition",
+        "specifications": {
+          "length": {"value": 40, "unit": "miles"},
+          "other": {"type": "driving roads in various directions, with network of byways"}
+        },
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "12",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_port_st_georges",
+        "type": "port",
+        "colony": "GRENADA",
+        "year": "1894",
+        "name": "St. George's Port",
+        "description": "Port of registry",
+        "operation": {
+          "traffic": "67 vessels registered, 987 tons total tonnage on 31st December 1892"
+        },
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "12",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_1892",
+        "colony": "GRENADA",
+        "year": "1894",
+        "year_applies": "1892",
+        "population": {
+          "total": 55333,
+          "breakdown": {
+            "european": "2%",
+            "negro": "majority",
+            "indian": 2118
+          }
+        },
+        "notes": "About two per cent. are of European blood, the remainder being of the Negro race, except the Indian population, which amounts to 2,118 souls",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "14, 82",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_windward_islands_hq",
+        "type": "establishment",
+        "description": "Grenada made headquarters of Windward Islands group",
+        "event_date": {
+          "year": "1885",
+          "month": "March",
+          "day": "17",
+          "precision": "exact"
+        },
+        "year_mentioned": "1894",
+        "locations": ["place_grenada"],
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "53",
+          "original_text": "On the 17th March, 1885, letters patent were passed constituting anew the office of Governor of the Windward Islands, under which Grenada was made the head-quarters of the group",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_free_port",
+        "type": "establishment",
+        "description": "St. George's made a free port",
+        "event_date": {
+          "year": "1787",
+          "precision": "year"
+        },
+        "year_mentioned": "1894",
+        "locations": ["place_st_georges"],
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/GRENADA.md",
+          "source_lines": "39",
+          "original_text": "In 1787 St. George's was made a free port",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_st_georges",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_grenada",
+      "properties": {"year": "1894", "confidence": "definite"}
+    },
+    {
+      "source_id": "place_carriacou",
+      "relationship_type": "PART_OF",
+      "target_id": "place_grenada",
+      "properties": {"year": "1894", "confidence": "definite"}
+    },
+    {
+      "source_id": "person_charles_bruce",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_grenada",
+      "properties": {"year": "1894", "confidence": "definite"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 23,
+    "entities_by_type": {
+      "places": 4,
+      "people": 5,
+      "institutions": 5,
+      "economic_data": 6,
+      "infrastructure": 2,
+      "demographics": 1,
+      "events": 2
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "LOCATED_IN": 1,
+      "PART_OF": 1,
+      "GOVERNS": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

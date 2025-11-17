@@ -1,0 +1,87 @@
+{
+  "total_errors": 28150,
+  "categories": {
+    "A": {
+      "name": "Safe Python Automation",
+      "total": 1272,
+      "percentage": 4.52,
+      "confidence": "100%",
+      "expected_fixes": [
+        1246,
+        1272
+      ],
+      "errors": {
+        "type_string_expected": 1122,
+        "missing_year_metadata": 72,
+        "string_pattern_mismatch": 66,
+        "type_number_expected": 6,
+        "missing_source_directory": 6
+      }
+    },
+    "B": {
+      "name": "LLM High Confidence",
+      "total": 4873,
+      "percentage": 17.31,
+      "confidence": "85-95%",
+      "expected_fixes": [
+        4142,
+        4629
+      ],
+      "errors": {
+        "invalid_enum_values": 4060,
+        "invalid_type_enum": 668,
+        "invalid_relationship_type_enum": 40,
+        "unreasonably_high_salary": 59,
+        "string_too_short": 46
+      }
+    },
+    "C": {
+      "name": "LLM + Human Review",
+      "total": 1457,
+      "percentage": 5.18,
+      "confidence": "50-85%",
+      "expected_fixes": [
+        728,
+        1238
+      ],
+      "errors": {
+        "missing_location": 876,
+        "invalid_salary_amount": 427,
+        "value_must_be_positive": 118,
+        "model_type_error": 26,
+        "missing_longitude": 9,
+        "missing_latitude": 1
+      }
+    },
+    "D": {
+      "name": "Re-extraction Required",
+      "total": 20548,
+      "percentage": 72.99,
+      "confidence": "<50% (automated), 90-95% (re-extraction)",
+      "expected_fixes": [
+        18493,
+        19520
+      ],
+      "errors": {
+        "type_list_expected": 14949,
+        "missing_required_fields": 5395,
+        "missing_relationship_ids": 150,
+        "missing_other_fields": 54
+      }
+    }
+  },
+  "cumulative_impact": {
+    "total_fixes": [
+      24609,
+      26659
+    ],
+    "percentage_resolved": [
+      87.4,
+      94.7
+    ],
+    "remaining_errors": [
+      1491,
+      3541
+    ]
+  }
+}

@@ -1,0 +1,4846 @@
+{
+  "metadata": {
+    "year": "1867",
+    "source_directory": "/home/user/colonial_office_list/output_2/1867_manual_parsed/",
+    "extraction_date": "2025-11-16T00:00:00Z",
+    "processing_notes": "Comprehensive extraction from 48 colony files of the 1867 Colonial Office List. All historical spellings preserved as found in source documents. Extracted entities include geographic locations, administrative personnel, governmental institutions, economic data, infrastructure, demographics, and historical events.",
+    "colonies_processed": [
+      "ANTIGUA",
+      "BAHAMAS",
+      "BARBADOS",
+      "BERMUDAS",
+      "BRITISH_COLUMBIA",
+      "BRITISH_GUIANA",
+      "BULAMA",
+      "CANADA",
+      "CAPE_OF_GOOD_HOPE",
+      "CEYLON",
+      "DOMINICA",
+      "FALKLAND_ISLANDS",
+      "GIBRALTAR",
+      "GOLD_COAST",
+      "GRENADA",
+      "HELIGOLAND",
+      "HONDURAS",
+      "HONG_KONG",
+      "JAMAICA",
+      "LABUAN",
+      "LAGOS",
+      "MALTA",
+      "MAURITIUS",
+      "MONTSERRAT",
+      "NATAL",
+      "NEVIS",
+      "NEWFOUNDLAND",
+      "NEW_BRUNSWICK",
+      "NEW_SOUTH_WALES",
+      "NEW_ZEALAND",
+      "NOVA_SCOTIA",
+      "PRINCE_EDWARD_ISLAND",
+      "QUEENSLAND",
+      "SAINT_VINCENT",
+      "SIERRA_LEONE",
+      "SOUTH_AUSTRALIA",
+      "STRAITS_SETTLEMENTS",
+      "ST_CHRISTOPHERS_AND_ANGUILLA",
+      "ST_HELENA",
+      "ST_LUCIA",
+      "TASMANIA",
+      "THE_GAMBIA",
+      "TOBAGO",
+      "TRINIDAD",
+      "TURKS_AND_CAICOS_ISLANDS",
+      "VANCOUVERS_ISLAND",
+      "VICTORIA",
+      "WESTERN_AUSTRALIA"
+    ]
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_antigua_001",
+        "name": "Antigua",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "17° 6' N",
+          "longitude": "61° 45' W"
+        },
+        "area": {
+          "value": 108,
+          "unit": "square miles"
+        },
+        "description": "An island situated in W. long. 61° 45', and N. lat. 17° 6'. It is about 54 miles in circumference. Discovered by Columbus in 1493, who named it after a church in Seville, called Santa Maria La Antigua.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-3",
+          "source_section": "ANTIGUA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_antigua_002",
+        "name": "St. John's",
+        "modern_name": "Saint John's",
+        "type": "city",
+        "description": "The chief town in Antigua where the Governor-in-Chief of the Leeward Islands resides",
+        "parent_location": "place_antigua_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "3",
+          "source_section": "ANTIGUA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bahamas_001",
+        "name": "Bahamas",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "21° to 27° 30' N",
+          "longitude": "70° 30' to 79° 5' W"
+        },
+        "description": "A chain of islands lying between 21° and 27° 30' N. lat., and 70° 30' and 79° 5' W. long. The group is composed of about 20 inhabited islands and an immense number of islets and rocks.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "1-10",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bahamas_002",
+        "name": "Nassau",
+        "type": "city",
+        "description": "The capital of the Bahamas, located on New Providence island",
+        "parent_location": "place_bahamas_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "116-128",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bahamas_003",
+        "name": "New Providence",
+        "type": "island",
+        "description": "Island containing the capital, Nassau",
+        "parent_location": "place_bahamas_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "2-8",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_barbados_001",
+        "name": "Barbados",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "13° 4' N",
+          "longitude": "59° 37' W"
+        },
+        "area": {
+          "value": 166,
+          "unit": "square miles"
+        },
+        "description": "Is situated in latitude 13° 4' North and longitude 59° 37' West, and is the most windward of the Caribbee Islands. It is nearly 21 English miles long by 14 in breadth, and is said to contain a superficial area of 106,470 acres.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "1-12",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_barbados_002",
+        "name": "Bridgetown",
+        "type": "city",
+        "description": "The chief town and port, situated in the parish of St. Michael, with a population of 18,957 according to the last census",
+        "parent_location": "place_barbados_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "5-10",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_barbados_003",
+        "name": "Carlisle Bay",
+        "type": "harbor",
+        "description": "The harbour of Barbados, an open roadstead exposed to winds from the south and south-west",
+        "parent_location": "place_barbados_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "12-14",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bermudas_001",
+        "name": "Bermudas",
+        "modern_name": "Bermuda",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "32° 15' N",
+          "longitude": "64° 51' W"
+        },
+        "description": "Or Somers' Islands, a cluster of about 300 small islands, situated on the western side of the Atlantic Ocean, at a distance of about 580 miles from the nearest land, at Cape Hatteras in North Carolina",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "1-3",
+          "source_section": "BERMUDAS,",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bermudas_002",
+        "name": "Hamilton",
+        "type": "city",
+        "description": "The present seat of Government, situated on the main island",
+        "parent_location": "place_bermudas_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "9",
+          "source_section": "BERMUDAS,",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_british_columbia_001",
+        "name": "British Columbia",
+        "type": "colony",
+        "area": {
+          "value": 200000,
+          "unit": "square miles"
+        },
+        "description": "Situated on the north-west coast of North America. It comprises the territory lying between the Rocky Mountains and the Pacific Ocean, extending from the United States frontier to the Simpson and Finlay rivers. Average breadth about 250 miles, coast line about 450 miles.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_COLUMBIA.md",
+          "source_lines": "1-5",
+          "source_section": "BRITISH COLUMBIA.*",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_british_columbia_002",
+        "name": "New Westminster",
+        "type": "city",
+        "description": "Principal settlement in British Columbia",
+        "parent_location": "place_british_columbia_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_COLUMBIA.md",
+          "source_lines": "1-5",
+          "source_section": "BRITISH COLUMBIA.*",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_british_guiana_001",
+        "name": "British Guiana",
+        "modern_name": "Guyana",
+        "type": "colony",
+        "area": {
+          "value": 76000,
+          "unit": "square miles"
+        },
+        "description": "A portion of the South American continent, extending from east to west about 200 miles. It includes the settlements of Demerara, Essequebo, and Berbice. Bounded on the east by Dutch Guiana (River Corentyn), on the south by Brazil, on the west by Venezuela, and on the north by the Atlantic Ocean.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "1-5",
+          "source_section": "BRITISH GUIANA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_british_guiana_002",
+        "name": "Georgetown",
+        "type": "city",
+        "description": "The metropolis of British Guiana, formerly called Stabroek. Seat of Government established in 1789 for the United provinces of Demerara and Essequebo",
+        "parent_location": "place_british_guiana_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "9-13",
+          "source_section": "BRITISH GUIANA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bulama_001",
+        "name": "Bulama",
+        "type": "dependency",
+        "description": "The Island of Bulama is situated at the entrance of the two large rivers Jeba and Rio Grande. Its distance from the Gambia is 250 miles, and from Sierra Leone 350 miles. A dependency of Sierra Leone, ceded to the British Government in 1732.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BULAMA.md",
+          "source_lines": "1-3",
+          "source_section": "BULAMA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_canada_001",
+        "name": "Canada",
+        "type": "colony",
+        "area": {
+          "value": 331280,
+          "unit": "square miles"
+        },
+        "coordinates": {
+          "latitude": "42° to 52° N",
+          "longitude": "59° 50' to 9° W"
+        },
+        "description": "This vast territory lies principally in a N.E. and S.W. direction along the north side of the St. Lawrence and the north and east sides of lakes Ontario, Erie, Huron, and Superior. Total area 121,260 for Upper Canada, and 210,020 for Lower Canada.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "1-28",
+          "source_section": "CANADA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_canada_002",
+        "name": "Quebec",
+        "type": "city",
+        "description": "The first settlement, founded in 1608. Succumbed to British forces under General Wolfe in 1759",
+        "parent_location": "place_canada_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "210-221",
+          "source_section": "Estimated 1866",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_cape_001",
+        "name": "Cape of Good Hope",
+        "modern_name": "Cape Colony (South Africa)",
+        "type": "colony",
+        "area": {
+          "value": 188286,
+          "unit": "square miles"
+        },
+        "description": "The Cape Colony is washed by the Atlantic and the Southern or Indian Oceans on the west and south; bounded on the north by the Gariep or Orangeriver, on the north-east by the territory of the Basutos, on the east by Kaffirland, and including what was formerly the Colony of British Kaffaria.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CAPE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/CAPE.md"
+        }
+      },
+      {
+        "id": "place_cape_002",
+        "name": "Cape Town",
+        "type": "city",
+        "description": "The capital of the Colony and the seat of Government, built between Table Bay and Table Mountain at the foot of the latter. Table Mountain rises 3,582 feet above the sea. The town is well laid out and contains numerous public buildings and several good squares.",
+        "parent_location": "place_cape_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CAPE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/CAPE.md"
+        }
+      },
+      {
+        "id": "place_ceylon_001",
+        "name": "Ceylon",
+        "modern_name": "Sri Lanka",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "5° 55' to 9° 51' N",
+          "longitude": "79° 41' to 81° 54' E"
+        },
+        "area": {
+          "value": 24700,
+          "unit": "square miles"
+        },
+        "description": "An island situated in the Indian Ocean, off the southern extremity of Hindostan. Extreme length from north to south (Point Palmyra to Dondera Head) is 266 miles; greatest width 140 miles from Colombo to Sangemankande.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "1-9",
+          "source_section": "CEYLON.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_ceylon_002",
+        "name": "Colombo",
+        "type": "city",
+        "description": "Major city on the west coast of Ceylon",
+        "parent_location": "place_ceylon_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "3-7",
+          "source_section": "CEYLON.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_dominica_001",
+        "name": "Dominica",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "15° 20' to 15° 45' N",
+          "longitude": "61° 13' to 61° 30' W"
+        },
+        "area": {
+          "value": 186436,
+          "unit": "acres"
+        },
+        "description": "An island situated in the centre of the Caribbean Sea, 29 miles long and 16 broad; very mountainous and picturesque. Discovered by Christopher Columbus on Sunday, 3rd November 1493.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "1-7",
+          "source_section": "DOMINICA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_dominica_002",
+        "name": "Roseau",
+        "type": "city",
+        "description": "The capital of Dominica",
+        "parent_location": "place_dominica_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "27-29",
+          "source_section": "DOMINICA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_falkland_001",
+        "name": "Falkland Islands",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "51° to 53° S",
+          "longitude": "57° to 62° W"
+        },
+        "area": {
+          "value": 6500,
+          "unit": "square miles"
+        },
+        "description": "Situated in the South Atlantic Ocean, consisting of the East Falkland (3,000 square miles), the West Falkland (2,300 square miles), and about 100 small islands (1,200 square miles). Mount Adam rises 2,315 feet above sea level.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/FALKLAND.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/FALKLAND.md"
+        }
+      },
+      {
+        "id": "place_gibraltar_001",
+        "name": "Gibraltar",
+        "type": "colony",
+        "description": "Under the control of the Secretary of State for War, with exception of the Convict Establishment",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "1-3",
+          "source_section": "**GIBRALTAR.**",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_gold_coast_001",
+        "name": "Gold Coast",
+        "modern_name": "Ghana",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "5° to 4° 20' E"
+        },
+        "area": {
+          "value": 6000,
+          "unit": "square miles"
+        },
+        "description": "A portion of Upper Guinea, between 5° and 4° 20' E. long., stretching along the Gulf of Guinea from the River Assini to the River Volta. British influence extends over an area of 6,000 to 8,000 square miles with a population of 250,000 to 400,000.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GOLD_COAST.md",
+          "source_lines": "1-3",
+          "source_section": "GOLD COAST.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_gold_coast_002",
+        "name": "Cape Coast Castle",
+        "type": "settlement",
+        "description": "Principal British settlement and administrative center on the Gold Coast",
+        "parent_location": "place_gold_coast_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GOLD_COAST.md",
+          "source_lines": "1-12",
+          "source_section": "GOLD COAST.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_grenada_001",
+        "name": "Grenada",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "11° 58' to 12° 30' N",
+          "longitude": "61° 20' to 61° 35' W"
+        },
+        "area": {
+          "value": 76538,
+          "unit": "acres"
+        },
+        "description": "Situated between the parallels of 12° 30' and 11° 58' N. lat., about 21 miles in length, 12 miles in greatest breadth. Lies 68 miles S.S.W. of St. Vincent. Mountainous and very picturesque, abounding in streams and mineral springs.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "3-10",
+          "source_section": "**GRENADE.**",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_grenada_002",
+        "name": "St. George's",
+        "type": "city",
+        "description": "The chief town and port of Grenada",
+        "parent_location": "place_grenada_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "5-12",
+          "source_section": "**GRENADE.**",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_grenada_003",
+        "name": "Carriacou",
+        "type": "island",
+        "area": {
+          "value": 6913,
+          "unit": "acres"
+        },
+        "description": "The largest of the Grenadines attached to Grenada, with a population of 3,071 souls",
+        "parent_location": "place_grenada_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "3-14",
+          "source_section": "**GRENADE.**",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_heligoland_001",
+        "name": "Heligoland",
+        "modern_name": "Helgoland",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "54° 11' N",
+          "longitude": "7° 51' E"
+        },
+        "area": {
+          "value": 0.75,
+          "unit": "square miles"
+        },
+        "description": "An island situated in the North Sea, opposite and about 25 miles from the mouth of the Elbe. Area, inclusive of the adjacent island termed 'Sandy', three-quarters of a square mile.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HELIGOLAND.md",
+          "source_lines": "1-9",
+          "source_section": "HELIGOLAND.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_honduras_001",
+        "name": "British Honduras",
+        "modern_name": "Belize",
+        "type": "colony",
+        "description": "A colony on the east coast of Central America, bounded on the north by Mexican Yucatan, on the west and south by Guatemala, and on the east by the Bay of Honduras. The coast was discovered in 1502 by Columbus.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONDURAS.md",
+          "source_lines": "3",
+          "source_section": "HONDURAS.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_honduras_002",
+        "name": "Belize",
+        "type": "city",
+        "description": "The principal settlement of British Honduras",
+        "parent_location": "place_honduras_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONDURAS.md",
+          "source_lines": "9-11",
+          "source_section": "HONDURAS.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_hong_kong_001",
+        "name": "Hong Kong",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "22° 1' to 22° 9' N",
+          "longitude": "114° 5' to 114° 18' E"
+        },
+        "area": {
+          "value": 29,
+          "unit": "square miles"
+        },
+        "description": "One of a number of islands called by the Portuguese 'Ladrones', situated off the south-eastern coast of China at the mouth of the Canton River, about 40 miles east of Macao. Length about 11 miles, breadth 2 to 5 miles. First ceded to Great Britain in January 1841, confirmed by Treaty of Nankin in August 1842.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONG_KONG.md",
+          "source_lines": "1-13",
+          "source_section": "HONG KONG.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_jamaica_001",
+        "name": "Jamaica",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "17° 40' to 18° 30' N",
+          "longitude": "76° 10' to 78° 30' W"
+        },
+        "area": {
+          "value": 6400,
+          "unit": "square miles"
+        },
+        "description": "An Island situated in the Caribbean Sea, to the southward of the eastern extremity of Cuba. The largest and formerly the most valuable of the British West Indies; 140 miles in length, and 50 in extreme breadth. Discovered by Columbus on 3rd May 1494, who called it St. Jago.",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/JAMAICA.md",
+          "source_lines": "1-5",
+          "source_section": "JAMAICA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_jamaica_002",
+        "name": "Kingston",
+        "type": "city",
+        "description": "Principal city of Jamaica with a medium heat of about 80° and minimum 70° Fahrenheit throughout the year",
+        "parent_location": "place_jamaica_001",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/JAMAICA.md",
+          "source_lines": "3-17",
+          "source_section": "JAMAICA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_antigua_001",
+        "name": "Stephen J. Hill",
+        "titles": [
+          "Colonel"
+        ],
+        "honors": [
+          "C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Antigua",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "175",
+          "source_section": "ANTIGUA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_antigua_002",
+        "name": "B. C. C. Pine",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "Kt."
+        ],
+        "positions": [
+          {
+            "title": "Acting Governor",
+            "location": "Antigua",
+            "status": "acting",
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "104",
+          "source_section": "ANTIGUA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_antigua_003",
+        "name": "John Halliday",
+        "positions": [
+          {
+            "title": "Private Secretary",
+            "location": "Antigua",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "177",
+          "source_section": "ANTIGUA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_antigua_004",
+        "name": "Charles Monroe Eldridge",
+        "positions": [
+          {
+            "title": "Colonial Secretary and Registrar-General of Births and Deaths",
+            "location": "Antigua",
+            "salary": {
+              "amount": 550,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "146",
+          "source_section": "ANTIGUA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_antigua_005",
+        "name": "W. Snagg",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "Knt."
+        ],
+        "positions": [
+          {
+            "title": "Chief Justice, Vice-Chancellor, Judge in Ordinary, and Judge of the Vice-Admiralty Court",
+            "location": "Antigua",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "151",
+          "source_section": "ANTIGUA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_antigua_006",
+        "name": "W.W. Jackson",
+        "titles": [
+          "Right Rev.",
+          "D.D."
+        ],
+        "positions": [
+          {
+            "title": "Bishop of Antigua",
+            "location": "Antigua",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "246",
+          "source_section": "ANTIGUA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_bahamas_001",
+        "name": "Rawson Wm. Rawson",
+        "honors": [
+          "C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief, Chancellor, Vice-Admiral and Ordinary",
+            "location": "Bahamas",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "42",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_bahamas_002",
+        "name": "Addington R. P. Venables",
+        "titles": [
+          "Rev.",
+          "D.D."
+        ],
+        "positions": [
+          {
+            "title": "Bishop of Nassau",
+            "location": "Bahamas",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "122",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_barbados_001",
+        "name": "James Walker",
+        "honors": [
+          "C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Barbados",
+            "salary": {
+              "amount": 4000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "210-212",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_barbados_002",
+        "name": "R. B. Clarke",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "Kt.",
+          "C.B."
+        ],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "location": "Barbados",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "376",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_barbados_003",
+        "name": "Thos. Parry",
+        "titles": [
+          "Rt. Rev.",
+          "D.D."
+        ],
+        "positions": [
+          {
+            "title": "Bishop",
+            "location": "Barbados",
+            "salary": {
+              "amount": 2500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "residence",
+                "description": "A residence"
+              }
+            ],
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "458",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_bermudas_001",
+        "name": "H. St. George Ord",
+        "titles": [
+          "Colonel"
+        ],
+        "honors": [
+          "R.E.",
+          "C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Bermudas",
+            "salary": {
+              "amount": 2746,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "vacant",
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "97",
+          "source_section": "Governors",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_british_columbia_001",
+        "name": "Frederick Seymour",
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "British Columbia",
+            "salary": {
+              "amount": 4000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "travelling allowance",
+                "amount": 1000,
+                "currency": "£"
+              }
+            ],
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_COLUMBIA.md",
+          "source_lines": "57",
+          "source_section": "BRITISH COLUMBIA.*",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_british_columbia_002",
+        "name": "Arthur N. Birch",
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "location": "British Columbia",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_COLUMBIA.md",
+          "source_lines": "58",
+          "source_section": "BRITISH COLUMBIA.*",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_british_columbia_003",
+        "name": "M. B. Begbie",
+        "positions": [
+          {
+            "title": "Judge of Supreme Court",
+            "location": "British Columbia",
+            "salary": {
+              "amount": 1200,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_COLUMBIA.md",
+          "source_lines": "154",
+          "source_section": "BRITISH COLUMBIA.*",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_british_guiana_001",
+        "name": "F. Hincks",
+        "honors": [
+          "C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "British Guiana",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "174",
+          "source_section": "Population in 1861",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_british_guiana_002",
+        "name": "R. M. Mundy",
+        "titles": [
+          "Major"
+        ],
+        "positions": [
+          {
+            "title": "Acting Governor",
+            "location": "British Guiana",
+            "department": "Royal Artillery",
+            "status": "acting",
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "176",
+          "source_section": "Population in 1861",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_british_guiana_003",
+        "name": "Joseph Beaumont",
+        "positions": [
+          {
+            "title": "Chief Justice of Supreme Court",
+            "location": "British Guiana",
+            "salary": {
+              "amount": 2500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "114",
+          "source_section": "Population in 1861",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_british_guiana_004",
+        "name": "W. P. Austin",
+        "titles": [
+          "Right Rev.",
+          "D.D."
+        ],
+        "positions": [
+          {
+            "title": "Lord Bishop",
+            "location": "British Guiana",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "468",
+          "source_section": "Acting Stipendiary Magistrates",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_canada_001",
+        "name": "Viscount Monck",
+        "positions": [
+          {
+            "title": "Governor-General of British North America",
+            "location": "Canada",
+            "salary": {
+              "amount": 7000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "85",
+          "source_section": "Estimated 1866",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_canada_002",
+        "name": "Narcisse Belleau",
+        "titles": [
+          "Sir"
+        ],
+        "positions": [
+          {
+            "title": "Premier and Receiver-General",
+            "location": "Canada",
+            "salary": {
+              "amount": 1250,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "44",
+          "source_section": "Estimated 1866",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_canada_003",
+        "name": "John A. Macdonald",
+        "positions": [
+          {
+            "title": "Attorney-General of Upper Canada and Minister of Militia",
+            "location": "Canada",
+            "salary": {
+              "amount": 1250,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "45",
+          "source_section": "Estimated 1866",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_cape_001",
+        "name": "P. E. Wodehouse",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Cape of Good Hope",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "house allowance",
+                "amount": 500,
+                "currency": "£"
+              },
+              {
+                "type": "High Commissioner",
+                "amount": 1000,
+                "currency": "£"
+              }
+            ],
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CAPE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/CAPE.md"
+        }
+      },
+      {
+        "id": "person_cape_002",
+        "name": "William Hodges",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "Kt."
+        ],
+        "positions": [
+          {
+            "title": "Chief Justice and President of Legislative Council",
+            "location": "Cape of Good Hope",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CAPE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/CAPE.md"
+        }
+      },
+      {
+        "id": "person_ceylon_001",
+        "name": "H. G. Robinson",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "Knt."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Ceylon",
+            "salary": {
+              "amount": 7000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "135",
+          "source_section": "CEYLON.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_ceylon_002",
+        "name": "E. S. Creasy",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "Knt."
+        ],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "location": "Ceylon",
+            "salary": {
+              "amount": 2500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "325",
+          "source_section": "CEYLON.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_dominica_001",
+        "name": "J. R. Longden",
+        "positions": [
+          {
+            "title": "Lieutenant-Governor",
+            "location": "Dominica",
+            "salary": {
+              "amount": 1300,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "81",
+          "source_section": "DOMINICA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_falkland_001",
+        "name": "William C. F. Robinson",
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Falkland Islands",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/FALKLAND.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/FALKLAND.md"
+        }
+      },
+      {
+        "id": "person_gibraltar_001",
+        "name": "Richard Airy",
+        "titles": [
+          "Lt.-Gen.",
+          "Sir"
+        ],
+        "honors": [
+          "K.C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Gibraltar",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "16",
+          "source_section": "**GIBRALTAR.**",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_gold_coast_001",
+        "name": "Conran",
+        "titles": [
+          "Col."
+        ],
+        "positions": [
+          {
+            "title": "Acting Administrator and Commander of Forces",
+            "location": "Gold Coast",
+            "status": "acting",
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GOLD_COAST.md",
+          "source_lines": "48-49",
+          "source_section": "Civil Establishment",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_grenada_001",
+        "name": "R. M. Mundy",
+        "titles": [
+          "Major"
+        ],
+        "positions": [
+          {
+            "title": "Lieutenant-Governor",
+            "location": "Grenada",
+            "salary": {
+              "amount": 1300,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "176",
+          "source_section": "The qualifications for Electors and Members are as follows",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_heligoland_001",
+        "name": "H. F. B. Maxse",
+        "titles": [
+          "Bt. Lieut.-Col."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Heligoland",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HELIGOLAND.md",
+          "source_lines": "20",
+          "source_section": "HELIGOLAND.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_honduras_001",
+        "name": "J. G. Austin",
+        "positions": [
+          {
+            "title": "Lieutenant-Governor",
+            "location": "British Honduras",
+            "salary": {
+              "amount": 1800,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONDURAS.md",
+          "source_lines": "not_found",
+          "source_section": "HONDURAS.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "person_hong_kong_001",
+        "name": "Richard Graves MacDonnell",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Hong Kong",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONG_KONG.md",
+          "source_lines": "32",
+          "source_section": "HONG KONG.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_hong_kong_002",
+        "name": "J. Smale",
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "location": "Hong Kong",
+            "salary": {
+              "amount": 2500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1867"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONG_KONG.md",
+          "source_lines": "92",
+          "source_section": "HONG KONG.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_antigua_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Antigua",
+        "composition": {
+          "description": "The Governor as President with appointed members",
+          "members": [
+            "person_antigua_001"
+          ]
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "7",
+          "source_section": "ANTIGUA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_antigua_002",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Antigua",
+        "composition": {
+          "description": "Appointed by the Crown"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "7",
+          "source_section": "ANTIGUA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_antigua_003",
+        "name": "House of Assembly",
+        "type": "legislative_council",
+        "location": "Antigua",
+        "composition": {
+          "description": "Consisting of 27 members elected by the various parishes",
+          "member_count": 27
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "7",
+          "source_section": "ANTIGUA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_bahamas_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Bahamas",
+        "composition": {
+          "description": "8 members",
+          "member_count": 8
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "13",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_bahamas_002",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Bahamas",
+        "composition": {
+          "description": "10 members",
+          "member_count": 10
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "13",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_bahamas_003",
+        "name": "Representative Assembly",
+        "type": "legislative_council",
+        "location": "Bahamas",
+        "composition": {
+          "description": "28 members",
+          "member_count": 28
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "13",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_barbados_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Barbados",
+        "composition": {
+          "description": "21 elected members presided over ex officio by the Chief Justice",
+          "member_count": 21
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "34",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_barbados_002",
+        "name": "House of Assembly",
+        "type": "legislative_council",
+        "location": "Barbados",
+        "composition": {
+          "description": "62 elected members representing country districts and towns",
+          "member_count": 62
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "34",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_barbados_003",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "Barbados",
+        "composition": {
+          "description": "Three Judges who hold Sessions in Cape Town and Circuit Courts in Western Districts"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "not_found",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "inst_british_columbia_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "British Columbia",
+        "composition": {
+          "description": "Consists of Colonial Secretary, Attorney-General, Treasurer, Surveyor-General, Collector of Customs, five Magistrates, and five unofficial members selected by votes of inhabitants",
+          "member_count": 15
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_COLUMBIA.md",
+          "source_lines": "7",
+          "source_section": "BRITISH COLUMBIA.*",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_british_guiana_001",
+        "name": "Court of Policy",
+        "type": "legislative_council",
+        "location": "British Guiana",
+        "composition": {
+          "description": "Composed of five official and five elective members. Official: Governor, Chief Justice, Attorney-General, Administrator-General, Government Secretary. Elective members chosen by Kiezers",
+          "member_count": 10
+        },
+        "function": "Functions as both Executive and Legislative Council. Enacts all laws and takes prominent part in general administration",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "13-17",
+          "source_section": "BRITISH GUIANA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_british_guiana_002",
+        "name": "Combined Court",
+        "type": "legislative_council",
+        "location": "British Guiana",
+        "composition": {
+          "description": "Court of Policy plus six Financial Representatives for voting annual expenditure and framing taxes",
+          "member_count": 16
+        },
+        "function": "Votes annual expenditure and frames taxes",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "49-53",
+          "source_section": "BRITISH GUIANA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_british_guiana_003",
+        "name": "College of Electors",
+        "type": "electoral",
+        "location": "British Guiana",
+        "composition": {
+          "description": "Seven Kiezers chosen for life who submit nominations to Court of Policy for elective members",
+          "member_count": 7
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "22",
+          "source_section": "BRITISH GUIANA.",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_canada_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Canada",
+        "composition": {
+          "description": "Consists of 48 elected members (24 for Upper Canada, 24 for Lower Canada) and 22 nominated members. Council will ultimately consist of 48 elective members",
+          "member_count": 70
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "15-21",
+          "source_section": "CANADA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_canada_002",
+        "name": "House of Assembly",
+        "type": "legislative_council",
+        "location": "Canada",
+        "composition": {
+          "description": "130 members, 65 for Upper Canada and 65 for Lower Canada, representing 125 electoral districts and boroughs",
+          "member_count": 130
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "15-30",
+          "source_section": "CANADA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_ceylon_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Ceylon",
+        "composition": {
+          "description": "Five Members: Officer Commanding Troops, Colonial Secretary, Queen's Advocate, Treasurer, and Auditor-General",
+          "member_count": 5
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "13",
+          "source_section": "CEYLON.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_ceylon_002",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Ceylon",
+        "composition": {
+          "description": "15 members including Executive Council members, four other office-holders, and six unofficial Members",
+          "member_count": 15
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "13",
+          "source_section": "CEYLON.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_hong_kong_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Hong Kong",
+        "composition": {
+          "description": "Presided over by Governor, composed of Chief Justice, Colonial Secretary, Attorney-General, Treasurer, Auditor-General, Surveyor-General, and three unofficial members nominated by Crown",
+          "member_count": 10
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONG_KONG.md",
+          "source_lines": "9",
+          "source_section": "HONG KONG.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_antigua_001",
+        "type": "revenue",
+        "location": "Antigua",
+        "year": "1865",
+        "data": {
+          "category": "Total Revenue",
+          "value": 40509,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "not_found",
+          "source_section": "ANGUILLA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_antigua_002",
+        "type": "expenditure",
+        "location": "Antigua",
+        "year": "1865",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 39767,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "not_found",
+          "source_section": "ANGUILLA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_antigua_003",
+        "type": "trade_import",
+        "location": "Antigua",
+        "year": "1865",
+        "data": {
+          "category": "Value of Imports",
+          "value": 160569,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "not_found",
+          "source_section": "ANGUILLA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_antigua_004",
+        "type": "trade_export",
+        "location": "Antigua",
+        "year": "1865",
+        "data": {
+          "category": "Value of Exports",
+          "value": 194631,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "not_found",
+          "source_section": "ANGUILLA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_antigua_005",
+        "type": "production",
+        "location": "Antigua",
+        "year": "1864",
+        "data": {
+          "category": "Sugar production",
+          "value": 3452,
+          "unit": "hogsheads"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "not_found",
+          "source_section": "ANGUILLA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_antigua_006",
+        "type": "production",
+        "location": "Antigua",
+        "year": "1864",
+        "data": {
+          "category": "Rum production",
+          "value": 50,
+          "unit": "puncheons"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "not_found",
+          "source_section": "ANGUILLA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_antigua_007",
+        "type": "production",
+        "location": "Antigua",
+        "year": "1864",
+        "data": {
+          "category": "Molasses production",
+          "value": 1570,
+          "unit": "puncheons"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "not_found",
+          "source_section": "ANGUILLA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_bahamas_001",
+        "type": "revenue",
+        "location": "Bahamas",
+        "year": "1865",
+        "data": {
+          "category": "Total Revenue",
+          "value": 84488,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "not_found",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_bahamas_002",
+        "type": "expenditure",
+        "location": "Bahamas",
+        "year": "1865",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 78549,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "not_found",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_bahamas_003",
+        "type": "trade_import",
+        "location": "Bahamas",
+        "year": "1865",
+        "data": {
+          "category": "Value of Imports",
+          "value": 1470467,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "not_found",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_bahamas_004",
+        "type": "trade_export",
+        "location": "Bahamas",
+        "year": "1865",
+        "data": {
+          "category": "Value of Exports",
+          "value": 2063474,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "not_found",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_barbados_001",
+        "type": "revenue",
+        "location": "Barbados",
+        "year": "1865",
+        "data": {
+          "category": "Total Revenue",
+          "value": 98870,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "not_found",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_barbados_002",
+        "type": "expenditure",
+        "location": "Barbados",
+        "year": "1865",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 99383,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "not_found",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_barbados_003",
+        "type": "trade_import",
+        "location": "Barbados",
+        "year": "1865",
+        "data": {
+          "category": "Value of Imports",
+          "value": 951334,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "not_found",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_barbados_004",
+        "type": "trade_export",
+        "location": "Barbados",
+        "year": "1865",
+        "data": {
+          "category": "Value of Exports",
+          "value": 1161159,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "not_found",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_bermudas_001",
+        "type": "revenue",
+        "location": "Bermudas",
+        "year": "1865",
+        "data": {
+          "category": "Total Revenue",
+          "value": 24496,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "not_found",
+          "source_section": "BERMUDAS—BRITISH COLUMBIA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_bermudas_002",
+        "type": "expenditure",
+        "location": "Bermudas",
+        "year": "1865",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 35627,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "not_found",
+          "source_section": "BERMUDAS—BRITISH COLUMBIA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_british_columbia_001",
+        "type": "revenue",
+        "location": "British Columbia",
+        "year": "1864",
+        "data": {
+          "category": "Total Revenue",
+          "value": 104899,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_COLUMBIA.md",
+          "source_lines": "not_found",
+          "source_section": "BRITISH COLUMBIA.*",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_british_columbia_002",
+        "type": "expenditure",
+        "location": "British Columbia",
+        "year": "1864",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 117801,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_COLUMBIA.md",
+          "source_lines": "not_found",
+          "source_section": "BRITISH COLUMBIA.*",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_british_columbia_003",
+        "type": "trade_export",
+        "location": "British Columbia",
+        "year": "1865",
+        "data": {
+          "category": "Gold exported",
+          "value": 578790,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_COLUMBIA.md",
+          "source_lines": "not_found",
+          "source_section": "BRITISH COLUMBIA.*",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_british_guiana_001",
+        "type": "revenue",
+        "location": "British Guiana",
+        "year": "1865",
+        "data": {
+          "category": "Total Revenue",
+          "value": 373392,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "not_found",
+          "source_section": "Acting Stipendiary Magistrates",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_british_guiana_002",
+        "type": "expenditure",
+        "location": "British Guiana",
+        "year": "1865",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 300894,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "not_found",
+          "source_section": "Acting Stipendiary Magistrates",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_british_guiana_003",
+        "type": "trade_import",
+        "location": "British Guiana",
+        "year": "1864",
+        "data": {
+          "category": "Value of Imports",
+          "value": 1508360,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "not_found",
+          "source_section": "Acting Stipendiary Magistrates",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_british_guiana_004",
+        "type": "trade_export",
+        "location": "British Guiana",
+        "year": "1864",
+        "data": {
+          "category": "Value of Exports",
+          "value": 1845351,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "not_found",
+          "source_section": "Acting Stipendiary Magistrates",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_bulama_001",
+        "type": "trade_export",
+        "location": "Bulama",
+        "year": "1862",
+        "data": {
+          "category": "Value of Exports",
+          "value": 23720,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BULAMA.md",
+          "source_lines": "not_found",
+          "source_section": "BULAMA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_bulama_002",
+        "type": "trade_import",
+        "location": "Bulama",
+        "year": "1862",
+        "data": {
+          "category": "Value of Imports",
+          "value": 250000,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BULAMA.md",
+          "source_lines": "not_found",
+          "source_section": "BULAMA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_canada_001",
+        "type": "revenue",
+        "location": "Canada",
+        "year": "1864",
+        "data": {
+          "category": "Total Revenue",
+          "value": 2181376,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "not_found",
+          "source_section": "Estimated 1866",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_canada_002",
+        "type": "expenditure",
+        "location": "Canada",
+        "year": "1864",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 2423410,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "not_found",
+          "source_section": "Estimated 1866",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_canada_003",
+        "type": "trade_export",
+        "location": "Canada",
+        "year": "1865",
+        "data": {
+          "category": "Value of Exports",
+          "value": 8714129,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "not_found",
+          "source_section": "Estimated 1866",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_canada_004",
+        "type": "trade_import",
+        "location": "Canada",
+        "year": "1865",
+        "data": {
+          "category": "Value of Imports",
+          "value": 11293733,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "not_found",
+          "source_section": "Estimated 1866",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_cape_001",
+        "type": "revenue",
+        "location": "Cape of Good Hope",
+        "year": "1865",
+        "data": {
+          "category": "Total Revenue",
+          "value": 536798,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CAPE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/CAPE.md"
+        }
+      },
+      {
+        "id": "econ_cape_002",
+        "type": "expenditure",
+        "location": "Cape of Good Hope",
+        "year": "1865",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 668189,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CAPE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/CAPE.md"
+        }
+      },
+      {
+        "id": "econ_cape_003",
+        "type": "trade_import",
+        "location": "Cape of Good Hope",
+        "year": "1865",
+        "data": {
+          "category": "Value of Imports",
+          "value": 2111332,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CAPE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/CAPE.md"
+        }
+      },
+      {
+        "id": "econ_cape_004",
+        "type": "trade_export",
+        "location": "Cape of Good Hope",
+        "year": "1865",
+        "data": {
+          "category": "Value of Exports",
+          "value": 2222995,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CAPE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/CAPE.md"
+        }
+      },
+      {
+        "id": "econ_ceylon_001",
+        "type": "revenue",
+        "location": "Ceylon",
+        "year": "1865",
+        "data": {
+          "category": "Total Revenue",
+          "value": 978492,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "not_found",
+          "source_section": "Scotch Presbyterian Church",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_ceylon_002",
+        "type": "expenditure",
+        "location": "Ceylon",
+        "year": "1865",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 866355,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "not_found",
+          "source_section": "Scotch Presbyterian Church",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_ceylon_003",
+        "type": "trade_import",
+        "location": "Ceylon",
+        "year": "1865",
+        "data": {
+          "category": "Value of Imports",
+          "value": 5022179,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "not_found",
+          "source_section": "Scotch Presbyterian Church",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_ceylon_004",
+        "type": "trade_export",
+        "location": "Ceylon",
+        "year": "1865",
+        "data": {
+          "category": "Value of Exports",
+          "value": 3565157,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "not_found",
+          "source_section": "Scotch Presbyterian Church",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_dominica_001",
+        "type": "revenue",
+        "location": "Dominica",
+        "year": "1865",
+        "data": {
+          "category": "Total Revenue",
+          "value": 13531,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "not_found",
+          "source_section": "DOMINICA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_dominica_002",
+        "type": "expenditure",
+        "location": "Dominica",
+        "year": "1865",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 12786,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "not_found",
+          "source_section": "DOMINICA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_falkland_001",
+        "type": "revenue",
+        "location": "Falkland Islands",
+        "year": "1865",
+        "data": {
+          "category": "Total Revenue",
+          "value": 8395,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/FALKLAND.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/FALKLAND.md"
+        }
+      },
+      {
+        "id": "econ_falkland_002",
+        "type": "expenditure",
+        "location": "Falkland Islands",
+        "year": "1865",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 8615,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/FALKLAND.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/FALKLAND.md"
+        }
+      },
+      {
+        "id": "econ_gibraltar_001",
+        "type": "revenue",
+        "location": "Gibraltar",
+        "year": "1864",
+        "data": {
+          "category": "Total Revenue",
+          "value": 88066,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "not_found",
+          "source_section": "**GIBRALTAR.**",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_gibraltar_002",
+        "type": "expenditure",
+        "location": "Gibraltar",
+        "year": "1864",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 34995,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "not_found",
+          "source_section": "**GIBRALTAR.**",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_hong_kong_001",
+        "type": "revenue",
+        "location": "Hong Kong",
+        "year": "1865",
+        "data": {
+          "category": "Total Revenue",
+          "value": 175717,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONG_KONG.md",
+          "source_lines": "not_found",
+          "source_section": "HONG KONG.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_hong_kong_002",
+        "type": "expenditure",
+        "location": "Hong Kong",
+        "year": "1865",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 195376,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONG_KONG.md",
+          "source_lines": "not_found",
+          "source_section": "HONG KONG.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_hong_kong_003",
+        "type": "shipping",
+        "location": "Hong Kong",
+        "year": "1865",
+        "data": {
+          "category": "Number of vessels entered",
+          "value": 2206
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONG_KONG.md",
+          "source_lines": "not_found",
+          "source_section": "HONG KONG.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_hong_kong_004",
+        "type": "shipping",
+        "location": "Hong Kong",
+        "year": "1865",
+        "data": {
+          "category": "Tonnage of vessels entered",
+          "value": 1063259,
+          "unit": "tons"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONG_KONG.md",
+          "source_lines": "not_found",
+          "source_section": "HONG KONG.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_grenada_001",
+        "type": "revenue",
+        "location": "Grenada",
+        "year": "1865",
+        "data": {
+          "category": "Total Revenue",
+          "value": 24706,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "not_found",
+          "source_section": "Medical Officers",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_grenada_002",
+        "type": "expenditure",
+        "location": "Grenada",
+        "year": "1865",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 19756,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "not_found",
+          "source_section": "Medical Officers",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_grenada_003",
+        "type": "trade_import",
+        "location": "Grenada",
+        "year": "1865",
+        "data": {
+          "category": "Value of Imports",
+          "value": 114109,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "not_found",
+          "source_section": "Medical Officers",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_grenada_004",
+        "type": "trade_export",
+        "location": "Grenada",
+        "year": "1865",
+        "data": {
+          "category": "Value of Exports",
+          "value": 118043,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "not_found",
+          "source_section": "Medical Officers",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_heligoland_001",
+        "type": "revenue",
+        "location": "Heligoland",
+        "year": "1865",
+        "data": {
+          "category": "Revenue excluding Parliamentary grant",
+          "value": 4201.125,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HELIGOLAND.md",
+          "source_lines": "not_found",
+          "source_section": "3 Members nominated by the Lieut.-Governor",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_heligoland_002",
+        "type": "expenditure",
+        "location": "Heligoland",
+        "year": "1865",
+        "data": {
+          "category": "Expenditure including debt payment of 610l. 12s. 2d.",
+          "value": 4047.015,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HELIGOLAND.md",
+          "source_lines": "not_found",
+          "source_section": "3 Members nominated by the Lieut.-Governor",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_honduras_001",
+        "type": "revenue",
+        "location": "British Honduras",
+        "year": "1865",
+        "data": {
+          "category": "Total Revenue",
+          "value": 26529,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONDURAS.md",
+          "source_lines": "not_found",
+          "source_section": "HONDURAS.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_honduras_002",
+        "type": "expenditure",
+        "location": "British Honduras",
+        "year": "1865",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 35614,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONDURAS.md",
+          "source_lines": "not_found",
+          "source_section": "HONDURAS.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_honduras_003",
+        "type": "trade_import",
+        "location": "British Honduras",
+        "year": "1865",
+        "data": {
+          "category": "Value of Imports",
+          "value": 210675,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONDURAS.md",
+          "source_lines": "not_found",
+          "source_section": "HONDURAS.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "econ_honduras_004",
+        "type": "trade_export",
+        "location": "British Honduras",
+        "year": "1865",
+        "data": {
+          "category": "Value of Exports",
+          "value": 323169,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONDURAS.md",
+          "source_lines": "not_found",
+          "source_section": "HONDURAS.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_antigua_001",
+        "location": "Antigua",
+        "year": "1863",
+        "total_population": 36412,
+        "breakdowns": [
+          {
+            "category": "White",
+            "count": 2556
+          },
+          {
+            "category": "Black",
+            "count": 27237
+          },
+          {
+            "category": "Coloured",
+            "count": 6619
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "not_found",
+          "source_section": "ANGUILLA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_bahamas_001",
+        "location": "Bahamas",
+        "year": "1861",
+        "census_date": "1861",
+        "total_population": 35287,
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "not_found",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_barbados_001",
+        "location": "Barbados",
+        "year": "1861",
+        "census_date": "1861",
+        "total_population": 132727,
+        "breakdowns": [
+          {
+            "category": "White",
+            "count": 16594
+          },
+          {
+            "category": "Coloured and Black",
+            "count": 116133
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "not_found",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_bermudas_001",
+        "location": "Bermudas",
+        "year": "1861",
+        "census_date": "1861",
+        "total_population": 11461,
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "not_found",
+          "source_section": "BERMUDAS—BRITISH COLUMBIA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_british_columbia_001",
+        "location": "British Columbia",
+        "year": "1867",
+        "total_population": 7500,
+        "breakdowns": [
+          {
+            "category": "Settled white population",
+            "count": 7500
+          },
+          {
+            "category": "Migratory mining adventurers",
+            "count": null
+          },
+          {
+            "category": "Chinese",
+            "count": null
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_COLUMBIA.md",
+          "source_lines": "not_found",
+          "source_section": "BRITISH COLUMBIA.*",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_british_guiana_001",
+        "location": "British Guiana",
+        "year": "1861",
+        "census_date": "1861",
+        "total_population": 148907,
+        "breakdowns": [
+          {
+            "category": "Natives of British Guiana",
+            "count": 93861
+          },
+          {
+            "category": "West India Islands",
+            "count": 8309
+          },
+          {
+            "category": "Madeira or Cape de Verde",
+            "count": 9859
+          },
+          {
+            "category": "Africa",
+            "count": 9299
+          },
+          {
+            "category": "Madras",
+            "count": 3664
+          },
+          {
+            "category": "Calcutta",
+            "count": 18416
+          },
+          {
+            "category": "China",
+            "count": 2629
+          },
+          {
+            "category": "Miscellaneous",
+            "count": 943
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "not_found",
+          "source_section": "Acting Stipendiary Magistrates",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_canada_001",
+        "location": "Canada",
+        "year": "1866",
+        "total_population": 2984460,
+        "breakdowns": [
+          {
+            "category": "Lower Canada",
+            "count": 1257480
+          },
+          {
+            "category": "Upper Canada",
+            "count": 1726980
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "not_found",
+          "source_section": "Estimated 1866",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_cape_001",
+        "location": "Cape of Good Hope",
+        "year": "1865",
+        "total_population": 496381,
+        "breakdowns": [
+          {
+            "category": "European",
+            "count": 181582
+          },
+          {
+            "category": "Hottentot",
+            "count": 81598
+          },
+          {
+            "category": "Kafr",
+            "count": 100536
+          },
+          {
+            "category": "Other",
+            "count": 132655
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CAPE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/CAPE.md"
+        }
+      },
+      {
+        "id": "demo_ceylon_001",
+        "location": "Ceylon",
+        "year": "1865",
+        "total_population": 2049728,
+        "breakdowns": [
+          {
+            "category": "Males",
+            "count": 1091305
+          },
+          {
+            "category": "Females",
+            "count": 958423
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "not_found",
+          "source_section": "Scotch Presbyterian Church",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_dominica_001",
+        "location": "Dominica",
+        "year": "1861",
+        "census_date": "1861",
+        "total_population": 25065,
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "not_found",
+          "source_section": "DOMINICA.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_gibraltar_001",
+        "location": "Gibraltar",
+        "year": "1867",
+        "total_population": 22100,
+        "breakdowns": [
+          {
+            "category": "Total Population (excluding Military)",
+            "count": 15462
+          },
+          {
+            "category": "Military",
+            "count": 6638
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "not_found",
+          "source_section": "**GIBRALTAR.**",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_gold_coast_001",
+        "location": "Gold Coast",
+        "year": "1858",
+        "total_population": 151346,
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GOLD_COAST.md",
+          "source_lines": "not_found",
+          "source_section": "Civil Establishment",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_grenada_001",
+        "location": "Grenada",
+        "year": "1865",
+        "census_date": "December 1865",
+        "total_population": 36955,
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "not_found",
+          "source_section": "Medical Officers",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_heligoland_001",
+        "location": "Heligoland",
+        "year": "1866",
+        "total_population": 2080,
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HELIGOLAND.md",
+          "source_lines": "not_found",
+          "source_section": "3 Members nominated by the Lieut.-Governor",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_honduras_001",
+        "location": "British Honduras",
+        "year": "1861",
+        "census_date": "7th April 1861",
+        "total_population": 25635,
+        "breakdowns": [
+          {
+            "category": "Hondo and New Rivers population",
+            "count": 13547,
+            "subcategories": {
+              "Pure Indians": 3933,
+              "Spanish": 1129,
+              "Mixed breed": 6737
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONDURAS.md",
+          "source_lines": "not_found",
+          "source_section": "HONDURAS.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_hong_kong_001",
+        "location": "Hong Kong",
+        "year": "1865",
+        "total_population": 125504,
+        "breakdowns": [
+          {
+            "category": "European and American",
+            "count": 2034
+          },
+          {
+            "category": "Chinese",
+            "count": 123470
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONG_KONG.md",
+          "source_lines": "not_found",
+          "source_section": "HONG KONG.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_antigua_001",
+        "date": "1493",
+        "type": "establishment",
+        "description": "Antigua discovered by Columbus who named it after a church in Seville called Santa Maria La Antigua",
+        "locations": [
+          "place_antigua_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "3",
+          "source_section": "ANTIGUA.",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_antigua_002",
+        "date": "1632",
+        "type": "establishment",
+        "description": "First inhabited by a few English",
+        "locations": [
+          "place_antigua_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "3",
+          "source_section": "ANTIGUA.",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_antigua_003",
+        "date": "1663",
+        "type": "cession",
+        "description": "Charles II made a formal grant of this island to Lord Willoughby, who sent out a large number of colonists",
+        "locations": [
+          "place_antigua_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "3-5",
+          "source_section": "ANTIGUA.",
+          "extraction_confidence": 0.85,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_antigua_004",
+        "date": "1666",
+        "type": "treaty",
+        "description": "Declared a British possession by the Treaty of Breda after an interval of French occupation",
+        "locations": [
+          "place_antigua_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ANTIGUA.md",
+          "source_lines": "3",
+          "source_section": "ANTIGUA.",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_bahamas_001",
+        "date": "1492",
+        "type": "establishment",
+        "description": "St. Salvador was the first land discovered by Columbus on his voyage",
+        "locations": [
+          "place_bahamas_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "2-4",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.85,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_bahamas_002",
+        "date": "1629",
+        "type": "establishment",
+        "description": "New Providence was settled by the English and held till 1641",
+        "locations": [
+          "place_bahamas_003"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "4",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_bahamas_003",
+        "date": "1783",
+        "type": "treaty",
+        "description": "Bahamas were finally confirmed to Great Britain by the Peace of Versailles",
+        "locations": [
+          "place_bahamas_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BAHAMAS.md",
+          "source_lines": "4-6",
+          "source_section": "BAHAMAS.",
+          "extraction_confidence": 0.85,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_barbados_001",
+        "date": "1625",
+        "type": "establishment",
+        "description": "First visited by the Portuguese, who finding it uninhabited and rude in appearance named it Los Barbudos and then abandoned it. Sir William Courteen fitted out two large ships, one of which arrived and formed James' (or Hole) Town",
+        "locations": [
+          "place_barbados_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "5",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_barbados_002",
+        "date": "1627",
+        "type": "cession",
+        "description": "Earl of Carlisle obtained a grant from Charles I of all the Caribbee Islands",
+        "locations": [
+          "place_barbados_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "3-5",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.85,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_barbados_003",
+        "date": "1628",
+        "type": "establishment",
+        "description": "Sixty-four settlers arrived in Carlisle Bay, commenced the erection of wooden houses, threw a bridge across the river, and laid the foundation of Bridgetown",
+        "locations": [
+          "place_barbados_002"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BARBADOS.md",
+          "source_lines": "5",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_bermudas_001",
+        "date": "1527",
+        "type": "establishment",
+        "description": "Islands derive their name from Bermudez, a Spaniard, who sighted them",
+        "locations": [
+          "place_bermudas_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "3",
+          "source_section": "BERMUDAS,",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_bermudas_002",
+        "date": "1609",
+        "type": "establishment",
+        "description": "First colonized by Admiral Sir George Somers, who was shipwrecked here on his way to Virginia",
+        "locations": [
+          "place_bermudas_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "9",
+          "source_section": "BERMUDAS,",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_bermudas_003",
+        "date": "1834",
+        "type": "constitutional_change",
+        "description": "On the abolition of slavery, the local legislature dispensed with the temporary apprenticeship system, entitling slaves to absolute freedom six years sooner than required by Act of Parliament",
+        "locations": [
+          "place_bermudas_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BERMUDAS.md",
+          "source_lines": "18",
+          "source_section": "BERMUDAS,",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_british_columbia_001",
+        "date": "1858",
+        "type": "establishment",
+        "description": "Large discoveries of gold attracted vast immigration from California. Hudson's Bay Company's trading licence was revoked and the country erected into a Colony by Act of Imperial Parliament (21 & 22 Vict. cap. 99)",
+        "locations": [
+          "place_british_columbia_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_COLUMBIA.md",
+          "source_lines": "5",
+          "source_section": "BRITISH COLUMBIA.*",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_british_guiana_001",
+        "date": "1580",
+        "type": "establishment",
+        "description": "Territory first partially settled by the Dutch West India Company",
+        "locations": [
+          "place_british_guiana_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "3-5",
+          "source_section": "BRITISH GUIANA.",
+          "extraction_confidence": 0.85,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_british_guiana_002",
+        "date": "1814",
+        "type": "cession",
+        "description": "Finally ceded to Great Britain after being restored to the Dutch in 1802 and retaken in 1803",
+        "locations": [
+          "place_british_guiana_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "5",
+          "source_section": "BRITISH GUIANA.",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_canada_001",
+        "date": "1497",
+        "type": "establishment",
+        "description": "Canada said to have been discovered by Sebastian Cabot",
+        "locations": [
+          "place_canada_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "3",
+          "source_section": "CANADA.",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_canada_002",
+        "date": "1608",
+        "type": "establishment",
+        "description": "Quebec, the first settlement, was founded",
+        "locations": [
+          "place_canada_002"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "5",
+          "source_section": "CANADA.",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_canada_003",
+        "date": "1759",
+        "type": "other",
+        "description": "Quebec succumbed to British forces under General Wolfe",
+        "locations": [
+          "place_canada_002"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "7",
+          "source_section": "CANADA.",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_canada_004",
+        "date": "1763",
+        "type": "treaty",
+        "description": "The whole territory of Canada was ceded to Great Britain by the Treaty of Paris",
+        "locations": [
+          "place_canada_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CANADA.md",
+          "source_lines": "7-13",
+          "source_section": "CANADA.",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_cape_001",
+        "date": "1486",
+        "type": "establishment",
+        "description": "Bartholomew de Diaz, a Portuguese commander, discovered the Cape in the reign of John II of Portugal",
+        "locations": [
+          "place_cape_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CAPE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/CAPE.md"
+        }
+      },
+      {
+        "id": "event_cape_002",
+        "date": "1652",
+        "type": "establishment",
+        "description": "The Colony was colonized by the Dutch East India Company, under Van Riebeek",
+        "locations": [
+          "place_cape_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CAPE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/CAPE.md"
+        }
+      },
+      {
+        "id": "event_cape_003",
+        "date": "1806",
+        "type": "cession",
+        "description": "Taken by the English and confirmed at the General Peace 1815; has since continued a British Colony",
+        "locations": [
+          "place_cape_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CAPE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/CAPE.md"
+        }
+      },
+      {
+        "id": "event_ceylon_001",
+        "date": "1795-1796",
+        "type": "cession",
+        "description": "British took possession of the Dutch settlements in the island; annexed to Presidency of Madras",
+        "locations": [
+          "place_ceylon_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "7-9",
+          "source_section": "CEYLON.",
+          "extraction_confidence": 0.85,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_ceylon_002",
+        "date": "1801",
+        "type": "constitutional_change",
+        "description": "Ceylon was erected into a separate Colony",
+        "locations": [
+          "place_ceylon_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "5-9",
+          "source_section": "CEYLON.",
+          "extraction_confidence": 0.85,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_ceylon_003",
+        "date": "1815",
+        "type": "other",
+        "description": "War was declared against the native Government of the interior; the Kandyan King was taken prisoner, and the whole island fell under the rule of the British",
+        "locations": [
+          "place_ceylon_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "9",
+          "source_section": "CEYLON.",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_dominica_001",
+        "date": "1493",
+        "type": "establishment",
+        "description": "Discovered by Christopher Columbus on Sunday, 3rd November 1493, on his second voyage",
+        "locations": [
+          "place_dominica_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "3",
+          "source_section": "DOMINICA.",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_dominica_002",
+        "date": "1763",
+        "type": "treaty",
+        "description": "A peace was signed at Paris between England and France, in the ninth article of which Dominica was assigned to Great Britain",
+        "locations": [
+          "place_dominica_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "5-7",
+          "source_section": "DOMINICA.",
+          "extraction_confidence": 0.85,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_falkland_001",
+        "date": "1592",
+        "type": "establishment",
+        "description": "The Falklands were discovered by Davis",
+        "locations": [
+          "place_falkland_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/FALKLAND.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/FALKLAND.md"
+        }
+      },
+      {
+        "id": "event_falkland_002",
+        "date": "1833",
+        "type": "cession",
+        "description": "Taken possession of by the British Government for the protection of the Whale Fishery",
+        "locations": [
+          "place_falkland_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/FALKLAND.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1867_manual_parsed/FALKLAND.md"
+        }
+      },
+      {
+        "id": "event_grenada_001",
+        "date": "1498",
+        "type": "establishment",
+        "description": "Grenada was discovered by Columbus and was named Ascension. It was at that time inhabited by Caribs",
+        "locations": [
+          "place_grenada_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "3-10",
+          "source_section": "**GRENADE.**",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_grenada_002",
+        "date": "1762",
+        "type": "cession",
+        "description": "Surrendered to the English Commodore Swanton and was formally ceded to Great Britain by the Treaty of Peace signed at Paris on 10th February 1763",
+        "locations": [
+          "place_grenada_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "9",
+          "source_section": "**GRENADE.**",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_hong_kong_001",
+        "date": "1841",
+        "type": "cession",
+        "description": "First ceded to Great Britain in January",
+        "locations": [
+          "place_hong_kong_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONG_KONG.md",
+          "source_lines": "3-5",
+          "source_section": "HONG KONG.",
+          "extraction_confidence": 0.85,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_hong_kong_002",
+        "date": "1842",
+        "type": "treaty",
+        "description": "Cession confirmed by the Treaty of Nankin in August; charter bears date 5th April 1843",
+        "locations": [
+          "place_hong_kong_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/HONG_KONG.md",
+          "source_lines": "5",
+          "source_section": "HONG KONG.",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_jamaica_001",
+        "date": "1494",
+        "type": "establishment",
+        "description": "Jamaica was discovered by Columbus on the 3rd May. He called it St. Jago",
+        "locations": [
+          "place_jamaica_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/JAMAICA.md",
+          "source_lines": "5",
+          "source_section": "JAMAICA.",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_jamaica_002",
+        "date": "1655",
+        "type": "cession",
+        "description": "Attacked by a force sent by Cromwell under Admirals Penn and Venables against Hispaniola. It capitulated after trifling resistance on 3rd May",
+        "locations": [
+          "place_jamaica_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/JAMAICA.md",
+          "source_lines": "5",
+          "source_section": "JAMAICA.",
+          "extraction_confidence": 0.75,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_jamaica_003",
+        "date": "1670",
+        "type": "treaty",
+        "description": "Peace was made with Spain and the title of England to Jamaica was recognized by the Treaty of Madrid",
+        "locations": [
+          "place_jamaica_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/JAMAICA.md",
+          "source_lines": "150-152",
+          "source_section": "The present Constitution is as follows",
+          "extraction_confidence": 0.85,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_jamaica_004",
+        "date": "October 1865",
+        "type": "rebellion",
+        "description": "Serious disturbances amongst the black population including riot at Morant Bay, attack on Court House resulting in 18 deaths including the Custos, and subsequent suppression",
+        "locations": [
+          "place_jamaica_001"
+        ],
+        "year_mentioned": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/JAMAICA.md",
+          "source_lines": "13-17",
+          "source_section": "JAMAICA.",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_antigua_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1867",
+        "context": "St. John's is the chief town in Antigua"
+      }
+    },
+    {
+      "source_id": "person_antigua_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1867",
+        "context": "Governor and Commander-in-Chief of Antigua"
+      }
+    },
+    {
+      "source_id": "place_bahamas_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_bahamas_003",
+      "properties": {
+        "year": "1867",
+        "context": "Nassau is located on New Providence island"
+      }
+    },
+    {
+      "source_id": "place_bahamas_003",
+      "relationship_type": "PART_OF",
+      "target_id": "place_bahamas_001",
+      "properties": {
+        "year": "1867",
+        "context": "New Providence is one of the principal islands of the Bahamas"
+      }
+    },
+    {
+      "source_id": "person_bahamas_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_bahamas_001",
+      "properties": {
+        "year": "1867",
+        "context": "Governor and Commander-in-Chief of Bahamas"
+      }
+    },
+    {
+      "source_id": "place_barbados_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_barbados_001",
+      "properties": {
+        "year": "1867",
+        "context": "Bridgetown is the chief town and port of Barbados"
+      }
+    },
+    {
+      "source_id": "place_barbados_003",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_barbados_001",
+      "properties": {
+        "year": "1867",
+        "context": "Carlisle Bay is the harbour of Barbados"
+      }
+    },
+    {
+      "source_id": "person_barbados_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_barbados_001",
+      "properties": {
+        "year": "1867",
+        "context": "Governor and Commander-in-Chief of Barbados"
+      }
+    },
+    {
+      "source_id": "place_bermudas_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_bermudas_001",
+      "properties": {
+        "year": "1867",
+        "context": "Hamilton is the seat of Government on the main island"
+      }
+    },
+    {
+      "source_id": "person_bermudas_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_bermudas_001",
+      "properties": {
+        "year": "1867",
+        "context": "Governor and Commander-in-Chief of Bermudas"
+      }
+    },
+    {
+      "source_id": "place_british_columbia_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_british_columbia_001",
+      "properties": {
+        "year": "1867",
+        "context": "New Westminster is the principal settlement"
+      }
+    },
+    {
+      "source_id": "person_british_columbia_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_british_columbia_001",
+      "properties": {
+        "year": "1867",
+        "context": "Governor of British Columbia"
+      }
+    },
+    {
+      "source_id": "place_british_guiana_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_british_guiana_001",
+      "properties": {
+        "year": "1867",
+        "context": "Georgetown is the metropolis of British Guiana"
+      }
+    },
+    {
+      "source_id": "person_british_guiana_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_british_guiana_001",
+      "properties": {
+        "year": "1867",
+        "context": "Governor of British Guiana"
+      }
+    },
+    {
+      "source_id": "place_bulama_001",
+      "relationship_type": "DEPENDENCY_OF",
+      "target_id": "place_sierra_leone_001",
+      "properties": {
+        "year": "1867",
+        "context": "Bulama is a dependency of Sierra Leone"
+      }
+    },
+    {
+      "source_id": "place_canada_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_canada_001",
+      "properties": {
+        "year": "1867",
+        "context": "Quebec is the first settlement in Canada"
+      }
+    },
+    {
+      "source_id": "person_canada_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_canada_001",
+      "properties": {
+        "year": "1867",
+        "context": "Governor-General of British North America"
+      }
+    },
+    {
+      "source_id": "place_cape_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_cape_001",
+      "properties": {
+        "year": "1867",
+        "context": "Cape Town is the capital and seat of Government"
+      }
+    },
+    {
+      "source_id": "person_cape_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_cape_001",
+      "properties": {
+        "year": "1867",
+        "context": "Governor of Cape of Good Hope"
+      }
+    },
+    {
+      "source_id": "place_ceylon_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_ceylon_001",
+      "properties": {
+        "year": "1867",
+        "context": "Colombo is a major city on the west coast"
+      }
+    },
+    {
+      "source_id": "person_ceylon_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_ceylon_001",
+      "properties": {
+        "year": "1867",
+        "context": "Governor of Ceylon"
+      }
+    },
+    {
+      "source_id": "place_dominica_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_dominica_001",
+      "properties": {
+        "year": "1867",
+        "context": "Roseau is the capital of Dominica"
+      }
+    },
+    {
+      "source_id": "person_dominica_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_dominica_001",
+      "properties": {
+        "year": "1867",
+        "context": "Lieutenant-Governor of Dominica"
+      }
+    },
+    {
+      "source_id": "person_falkland_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_falkland_001",
+      "properties": {
+        "year": "1867",
+        "context": "Governor and Commander-in-Chief of Falkland Islands"
+      }
+    },
+    {
+      "source_id": "person_gibraltar_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_gibraltar_001",
+      "properties": {
+        "year": "1867",
+        "context": "Governor of Gibraltar"
+      }
+    },
+    {
+      "source_id": "place_gold_coast_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_gold_coast_001",
+      "properties": {
+        "year": "1867",
+        "context": "Cape Coast Castle is the principal settlement"
+      }
+    },
+    {
+      "source_id": "person_gold_coast_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_gold_coast_001",
+      "properties": {
+        "year": "1867",
+        "context": "Acting Administrator of Gold Coast"
+      }
+    },
+    {
+      "source_id": "place_grenada_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_grenada_001",
+      "properties": {
+        "year": "1867",
+        "context": "St. George's is the chief town and port"
+      }
+    },
+    {
+      "source_id": "place_grenada_003",
+      "relationship_type": "PART_OF",
+      "target_id": "place_grenada_001",
+      "properties": {
+        "year": "1867",
+        "context": "Carriacou is the largest of the Grenadines attached to Grenada"
+      }
+    },
+    {
+      "source_id": "person_grenada_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_grenada_001",
+      "properties": {
+        "year": "1867",
+        "context": "Lieutenant-Governor of Grenada"
+      }
+    },
+    {
+      "source_id": "person_heligoland_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_heligoland_001",
+      "properties": {
+        "year": "1867",
+        "context": "Governor and Commander-in-Chief of Heligoland"
+      }
+    },
+    {
+      "source_id": "place_honduras_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_honduras_001",
+      "properties": {
+        "year": "1867",
+        "context": "Belize is the principal settlement"
+      }
+    },
+    {
+      "source_id": "person_honduras_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_honduras_001",
+      "properties": {
+        "year": "1867",
+        "context": "Lieutenant-Governor of British Honduras"
+      }
+    },
+    {
+      "source_id": "person_hong_kong_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_hong_kong_001",
+      "properties": {
+        "year": "1867",
+        "context": "Governor of Hong Kong"
+      }
+    },
+    {
+      "source_id": "place_jamaica_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_jamaica_001",
+      "properties": {
+        "year": "1867",
+        "context": "Kingston is a principal city"
+      }
+    },
+    {
+      "source_id": "inst_antigua_003",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1867",
+        "context": "House of Assembly administers Antigua"
+      }
+    },
+    {
+      "source_id": "inst_british_guiana_001",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_british_guiana_001",
+      "properties": {
+        "year": "1867",
+        "context": "Court of Policy enacts laws and administers British Guiana"
+      }
+    },
+    {
+      "source_id": "inst_canada_001",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_canada_001",
+      "properties": {
+        "year": "1867",
+        "context": "Legislative Council legislates for Canada"
+      }
+    }
+  ]
+}

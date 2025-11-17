@@ -1,0 +1,2168 @@
+{
+  "metadata": {
+    "source": "Colonial Office List 1889",
+    "extraction_date": "2025-11-16",
+    "year": "1889",
+    "colonies_processed": [],
+    "methodology": "Manual extraction from parsed markdown files following schema template",
+    "notes": "Preserves historical spellings and exact nomenclature from source documents",
+    "source_directory": "output_2/1889"
+  },
+  "geographic_entities": [
+    {
+      "id": "geo_bahamas_001",
+      "name": "Bahamas",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "24° to 27° N",
+        "longitude": "72° to 79° W"
+      },
+      "area": {
+        "value": 4424,
+        "unit": "square miles"
+      },
+      "description": "An archipelago of islands",
+      "modern_equivalent": "Commonwealth of The Bahamas",
+      "capital": "Nassau",
+      "dependencies": []
+    },
+    {
+      "id": "geo_barbados_001",
+      "name": "Barbados",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "13° 4' N",
+        "longitude": "59° 37' W"
+      },
+      "area": {
+        "value": 166,
+        "unit": "square miles"
+      },
+      "description": "The most easterly of the West India Islands",
+      "modern_equivalent": "Barbados",
+      "capital": "Bridgetown",
+      "dependencies": []
+    },
+    {
+      "id": "geo_basutoland_001",
+      "name": "Basutoland",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "28° to 31° S",
+        "longitude": "27° to 29° 30' E"
+      },
+      "area": {
+        "value": 10293,
+        "unit": "square miles"
+      },
+      "description": "A mountainous territory surrounded by the Orange Free State and Natal",
+      "modern_equivalent": "Lesotho",
+      "capital": "Maseru",
+      "dependencies": []
+    },
+    {
+      "id": "geo_bermuda_001",
+      "name": "Bermuda",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "32° 15' to 32° 23' N",
+        "longitude": "64° 38' to 64° 54' W"
+      },
+      "area": {
+        "value": 19.3,
+        "unit": "square miles"
+      },
+      "description": "A cluster of about 360 small islands and rocky islets in the Atlantic",
+      "modern_equivalent": "Bermuda",
+      "capital": "Hamilton",
+      "dependencies": []
+    },
+    {
+      "id": "geo_british_bechuanaland_001",
+      "name": "British Bechuanaland",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "24° to 27° S",
+        "longitude": "22° to 26° E"
+      },
+      "area": {
+        "value": 51424,
+        "unit": "square miles"
+      },
+      "description": "Territory proclaimed British on 30th September 1885",
+      "modern_equivalent": "Part of Botswana and South Africa",
+      "capital": "Vryburg",
+      "dependencies": []
+    },
+    {
+      "id": "geo_british_guiana_001",
+      "name": "British Guiana",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "1° to 8° 30' N",
+        "longitude": "57° to 61° W"
+      },
+      "area": {
+        "value": 109000,
+        "unit": "square miles (estimated)"
+      },
+      "description": "On the north-east coast of South America, bounded by Venezuela, Brazil, and Dutch Guiana",
+      "modern_equivalent": "Guyana",
+      "capital": "Georgetown",
+      "dependencies": []
+    },
+    {
+      "id": "geo_british_honduras_001",
+      "name": "British Honduras",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "15° 54' to 18° 30' N",
+        "longitude": "87° 30' to 89° 15' W"
+      },
+      "area": {
+        "value": 7562,
+        "unit": "square miles"
+      },
+      "description": "On the east coast of Central America, bounded by Mexico and Guatemala",
+      "modern_equivalent": "Belize",
+      "capital": "Belize",
+      "dependencies": []
+    },
+    {
+      "id": "geo_british_new_guinea_001",
+      "name": "British New Guinea",
+      "type": "protectorate",
+      "coordinates": {
+        "latitude": "9° to 11° 30' S",
+        "longitude": "141° to 155° E"
+      },
+      "area": {
+        "value": 90540,
+        "unit": "square miles"
+      },
+      "description": "The south-eastern portion of New Guinea, annexed 1884",
+      "modern_equivalent": "Papua New Guinea",
+      "capital": "Port Moresby",
+      "dependencies": []
+    },
+    {
+      "id": "geo_ceylon_001",
+      "name": "Ceylon",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "5° 54' to 9° 52' N",
+        "longitude": "79° 42' to 81° 54' E"
+      },
+      "area": {
+        "value": 25365,
+        "unit": "square miles"
+      },
+      "description": "Island south of India, separated from the mainland by the Gulf of Manaar and Palk Strait",
+      "modern_equivalent": "Sri Lanka",
+      "capital": "Colombo",
+      "dependencies": []
+    },
+    {
+      "id": "geo_canada_001",
+      "name": "Dominion of Canada",
+      "type": "dominion",
+      "coordinates": {
+        "latitude": "49° N to polar circle",
+        "longitude": "continental extent"
+      },
+      "area": {
+        "value": 3470257,
+        "unit": "square miles"
+      },
+      "description": "Occupies northern half of American continent except Labrador and Alaska",
+      "modern_equivalent": "Canada",
+      "capital": "Ottawa",
+      "dependencies": []
+    },
+    {
+      "id": "geo_falkland_001",
+      "name": "Falkland Islands",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "51° to 53° S",
+        "longitude": "57° to 62° W"
+      },
+      "area": {
+        "value": 6500,
+        "unit": "square miles"
+      },
+      "description": "East Falkland (3,000 sq mi), West Falkland (2,300 sq mi), and about 100 small islands",
+      "modern_equivalent": "Falkland Islands",
+      "capital": "Stanley",
+      "dependencies": [
+        "South Georgia"
+      ]
+    },
+    {
+      "id": "geo_fiji_001",
+      "name": "Fiji",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "15° to 22° S",
+        "longitude": "177° W to 175° E"
+      },
+      "area": {
+        "value": 7435,
+        "unit": "square miles"
+      },
+      "description": "Group of islands including Viti Levu, Vanua Levu, and Rotumah",
+      "modern_equivalent": "Fiji",
+      "capital": "Suva",
+      "dependencies": [
+        "Rotumah"
+      ]
+    },
+    {
+      "id": "geo_gibraltar_001",
+      "name": "Gibraltar",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "36° 6' 30\" N",
+        "longitude": "5° 21' 12\" W"
+      },
+      "area": {
+        "value": 1.5,
+        "unit": "square miles"
+      },
+      "description": "Elevated promontory running southwards from southwest coast of Spain, maximum elevation 1,439 feet",
+      "modern_equivalent": "Gibraltar",
+      "capital": "Gibraltar",
+      "dependencies": []
+    },
+    {
+      "id": "geo_hong_kong_001",
+      "name": "Hong Kong",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "22° 9' to 22° 17' N",
+        "longitude": "114° 5' to 114° 18' E"
+      },
+      "area": {
+        "value": 57,
+        "unit": "square miles"
+      },
+      "description": "Island off south-eastern coast of China, including Kow-loon peninsula (28 sq mi) ceded 1861",
+      "modern_equivalent": "Hong Kong SAR, China",
+      "capital": "Victoria",
+      "dependencies": []
+    },
+    {
+      "id": "geo_jamaica_001",
+      "name": "Jamaica",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "17° 48' to 18° 32' N",
+        "longitude": "76° 10' to 78° 20' W"
+      },
+      "area": {
+        "value": 4198,
+        "unit": "square miles"
+      },
+      "description": "Largest of British West India islands, 144 miles length, 50 miles breadth",
+      "modern_equivalent": "Jamaica",
+      "capital": "Kingston",
+      "dependencies": [
+        "Cayman Islands",
+        "Pedro Cays",
+        "Morant Cays"
+      ]
+    },
+    {
+      "id": "geo_labuan_001",
+      "name": "Labuan",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "5° 16' N",
+        "longitude": "115° 15' E"
+      },
+      "area": {
+        "value": 30.23,
+        "unit": "square miles"
+      },
+      "description": "Island on north-west coast of Borneo, ceded by Sultan of Borneo 1846",
+      "modern_equivalent": "Part of Malaysia",
+      "capital": "Victoria",
+      "dependencies": []
+    },
+    {
+      "id": "geo_malta_001",
+      "name": "Malta",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "35° 54' N",
+        "longitude": "14° 31' E"
+      },
+      "area": {
+        "value": 116,
+        "unit": "square miles"
+      },
+      "description": "Group in Mediterranean Sea, Malta (95 sq mi), Gozo (20 sq mi), Comino (1 sq mi)",
+      "modern_equivalent": "Malta",
+      "capital": "Valletta",
+      "dependencies": [
+        "Gozo",
+        "Comino"
+      ]
+    },
+    {
+      "id": "geo_sierra_leone_001",
+      "name": "Sierra Leone",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "8° 30' N",
+        "longitude": "13° 18' W"
+      },
+      "area": {
+        "value": 3000,
+        "unit": "square miles"
+      },
+      "description": "Peninsula and settlements on West Africa coast, including Sherbro Island",
+      "modern_equivalent": "Sierra Leone",
+      "capital": "Freetown",
+      "dependencies": []
+    },
+    {
+      "id": "geo_gambia_001",
+      "name": "The Gambia",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "13° 24' N",
+        "longitude": "16° 36' W"
+      },
+      "area": {
+        "value": 69,
+        "unit": "square miles"
+      },
+      "description": "Island of St. Mary, British Combo, Albreda, Ceded Mile, and McCarthy's Island",
+      "modern_equivalent": "The Gambia",
+      "capital": "Bathurst",
+      "dependencies": []
+    },
+    {
+      "id": "geo_gold_coast_001",
+      "name": "The Gold Coast Colony",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "various",
+        "longitude": "5° W to 2° E"
+      },
+      "area": {
+        "value": 29401,
+        "unit": "square miles"
+      },
+      "description": "Portion of Upper Guinea, coast line 350 miles, including protectorate",
+      "modern_equivalent": "Ghana",
+      "capital": "Accra",
+      "dependencies": []
+    },
+    {
+      "id": "geo_trinidad_001",
+      "name": "Trinidad and Tobago",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "10° 3' to 10° 30' N",
+        "longitude": "61° 39' to 62° W"
+      },
+      "area": {
+        "value": 1754,
+        "unit": "square miles"
+      },
+      "description": "Island 16 miles east of Venezuela, separated by Gulf of Paria",
+      "modern_equivalent": "Trinidad and Tobago",
+      "capital": "Port of Spain",
+      "dependencies": [
+        "Tobago"
+      ]
+    },
+    {
+      "id": "geo_zululand_001",
+      "name": "Zululand",
+      "type": "territory",
+      "coordinates": {
+        "latitude": "north of Natal",
+        "longitude": "various"
+      },
+      "area": {
+        "value": 8900,
+        "unit": "square miles"
+      },
+      "description": "Territory north of Natal, declared British territory May 1887",
+      "modern_equivalent": "Part of South Africa (KwaZulu-Natal)",
+      "capital": "Eshowe",
+      "dependencies": []
+    },
+    {
+      "id": "geo_heligoland_001",
+      "name": "Heligoland",
+      "type": "colony",
+      "coordinates": {
+        "latitude": "54° 11' N",
+        "longitude": "7° 51' E"
+      },
+      "area": {
+        "value": 0.75,
+        "unit": "square miles"
+      },
+      "description": "Island in North Sea, about 25 miles from mouth of Elbe, including Sandy Island",
+      "modern_equivalent": "Germany (transferred 1890)",
+      "capital": "Heligoland",
+      "dependencies": []
+    }
+  ],
+  "people": [
+    {
+      "id": "per_blake_henry_001",
+      "name": "Sir H. A. Blake",
+      "full_name": "Sir Henry Arthur Blake",
+      "titles": [
+        "K.C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Captain-General and Governor-in-Chief",
+          "location": "Jamaica",
+          "salary": {
+            "amount": 5000,
+            "currency": "pounds sterling"
+          }
+        }
+      ],
+      "years_active": [
+        1889
+      ]
+    },
+    {
+      "id": "per_kerr_thomas_001",
+      "name": "Thomas Kerr",
+      "titles": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor, Chief Justice, and Commander-in-Chief",
+          "location": "Falkland Islands",
+          "salary": {
+            "amount": 1200,
+            "currency": "pounds sterling",
+            "additional": "and fees"
+          }
+        }
+      ],
+      "years_active": [
+        1887,
+        1889
+      ]
+    },
+    {
+      "id": "per_thurston_john_001",
+      "name": "Sir John Bates Thurston",
+      "titles": [
+        "K.C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor and Commander-in-Chief and High Commissioner for the Western Pacific",
+          "location": "Fiji",
+          "salary": {
+            "amount": 2000,
+            "currency": "pounds sterling"
+          }
+        }
+      ],
+      "years_active": [
+        1888,
+        1889
+      ]
+    },
+    {
+      "id": "per_hardinge_arthur_001",
+      "name": "General The Hon. Sir A. E. Hardinge",
+      "titles": [
+        "K.C.B.",
+        "C.I.E."
+      ],
+      "positions": [
+        {
+          "title": "Governor",
+          "location": "Gibraltar",
+          "salary": {
+            "amount": 26100,
+            "currency": "pesetas"
+          }
+        }
+      ],
+      "years_active": [
+        1889
+      ]
+    },
+    {
+      "id": "per_desvoeux_george_001",
+      "name": "Sir G. W. Des Voeux",
+      "titles": [
+        "K.C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor",
+          "location": "Hong Kong",
+          "salary": {
+            "amount": 4000,
+            "currency": "pounds sterling",
+            "additional": "and $4,800 table money"
+          }
+        }
+      ],
+      "years_active": [
+        1887,
+        1889
+      ]
+    },
+    {
+      "id": "per_griffith_william_001",
+      "name": "Sir W. Brandford Griffith",
+      "titles": [
+        "K.C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor",
+          "location": "Gold Coast Colony",
+          "salary": {
+            "amount": 3000,
+            "currency": "pounds sterling",
+            "additional": "and 500l. table allowance"
+          }
+        }
+      ],
+      "years_active": [
+        1885,
+        1887,
+        1889
+      ]
+    },
+    {
+      "id": "per_robinson_william_001",
+      "name": "Sir W. Robinson",
+      "titles": [
+        "K.C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor",
+          "location": "Trinidad and Tobago",
+          "salary": null
+        }
+      ],
+      "years_active": [
+        1885,
+        1886,
+        1889
+      ]
+    },
+    {
+      "id": "per_hay_john_001",
+      "name": "J. S. Hay",
+      "titles": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor, Commander-in-Chief, and Vice-Admiral",
+          "location": "Sierra Leone",
+          "salary": {
+            "amount": 2000,
+            "currency": "pounds sterling",
+            "additional": "and 500l. allowances"
+          }
+        }
+      ],
+      "years_active": [
+        1889
+      ]
+    },
+    {
+      "id": "per_carter_gilbert_001",
+      "name": "Gilbert T. Carter",
+      "titles": [],
+      "positions": [
+        {
+          "title": "Administrator",
+          "location": "The Gambia",
+          "salary": {
+            "amount": 800,
+            "currency": "pounds sterling",
+            "additional": "and 300l. duty allowance"
+          }
+        }
+      ],
+      "years_active": [
+        1889
+      ]
+    },
+    {
+      "id": "per_moloney_cornelius_001",
+      "name": "C. A. Moloney",
+      "titles": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor",
+          "location": "Lagos",
+          "salary": {
+            "amount": 1700,
+            "currency": "pounds sterling",
+            "additional": "and 250l. table allowance"
+          }
+        }
+      ],
+      "years_active": [
+        1887,
+        1889
+      ]
+    },
+    {
+      "id": "per_torrens_henry_001",
+      "name": "Lieut.-Gen. Sir H. D'O. Torrens",
+      "titles": [
+        "K.C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor",
+          "location": "Malta",
+          "salary": {
+            "amount": 5000,
+            "currency": "pounds sterling",
+            "additional": "(2,000l. from Imperial Funds)"
+          }
+        }
+      ],
+      "years_active": [
+        1888,
+        1889
+      ]
+    },
+    {
+      "id": "per_havelock_arthur_001",
+      "name": "Sir Arthur E. Havelock",
+      "titles": [
+        "K.C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor",
+          "location": "Zululand and Natal",
+          "salary": null
+        }
+      ],
+      "years_active": [
+        1885,
+        1889
+      ]
+    },
+    {
+      "id": "per_barkly_arthur_001",
+      "name": "A. C. S. Barkly",
+      "titles": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor and Com.-in-Chief",
+          "location": "Heligoland",
+          "salary": {
+            "amount": 800,
+            "currency": "pounds sterling"
+          }
+        },
+        {
+          "title": "Lieut.-Governor",
+          "location": "Falkland Islands",
+          "year": 1886
+        }
+      ],
+      "years_active": [
+        1886,
+        1888,
+        1889
+      ]
+    }
+  ],
+  "institutions": [
+    {
+      "id": "inst_executive_council_jamaica_001",
+      "name": "Executive Council (Privy Council)",
+      "type": "executive_council",
+      "location": "Jamaica",
+      "members": [
+        "Lieutenant-Governor",
+        "Senior Military Officer",
+        "Colonial Secretary",
+        "Attorney-General",
+        "Director of Public Works",
+        "J. H. McDowell",
+        "J. C. Phillippo, M.D."
+      ],
+      "functions": [
+        "Executive and advisory body"
+      ],
+      "established": null
+    },
+    {
+      "id": "inst_legislative_council_fiji_001",
+      "name": "Legislative Council",
+      "type": "legislative_council",
+      "location": "Fiji",
+      "composition": {
+        "official_members": 5,
+        "unofficial_members": 6
+      },
+      "functions": [
+        "Legislative body"
+      ],
+      "established": null
+    },
+    {
+      "id": "inst_supreme_court_hong_kong_001",
+      "name": "Supreme Court",
+      "type": "court",
+      "location": "Hong Kong",
+      "officials": [
+        {
+          "title": "Chief Justice",
+          "name": "J. Russell",
+          "titles": [
+            "C.M.G."
+          ],
+          "salary": {
+            "amount": 12000,
+            "currency": "dollars"
+          }
+        },
+        {
+          "title": "Puisne Judge",
+          "name": "Fielding Clarke",
+          "salary": {
+            "amount": 8160,
+            "currency": "dollars"
+          }
+        }
+      ],
+      "functions": [
+        "Judicial proceedings"
+      ],
+      "established": null
+    },
+    {
+      "id": "inst_falkland_islands_company_001",
+      "name": "The Falkland Islands Company",
+      "type": "commercial_company",
+      "location": "Falkland Islands",
+      "description": "Formed 1851 to take over Lafonia district, engaged in sheep farming, goods importation, and ship repairs",
+      "capital": {
+        "authorized": 100000,
+        "paid_up": 95000,
+        "currency": "pounds sterling"
+      },
+      "dividend": "15 per cent",
+      "london_office": "39A, Gracechurch Street, E.C.",
+      "local_director": "F. E. Cobb",
+      "facilities": [
+        "Doctor",
+        "School at Darwin"
+      ],
+      "established": 1851
+    },
+    {
+      "id": "inst_colonial_bank_jamaica_001",
+      "name": "The Colonial Bank",
+      "type": "bank",
+      "location": "Jamaica",
+      "description": "Only private banking establishment in Jamaica with 1 branch and 4 agencies",
+      "note_circulation": {
+        "amount": 125000,
+        "currency": "pounds sterling",
+        "type": "estimated"
+      },
+      "established": null
+    },
+    {
+      "id": "inst_malta_university_001",
+      "name": "Malta University",
+      "type": "university",
+      "location": "Malta",
+      "students": 45,
+      "fees": {
+        "amount": 2.5,
+        "currency": "shillings",
+        "period": "per family per month"
+      },
+      "faculties": [
+        "Theology",
+        "Law",
+        "Medicine",
+        "Surgery",
+        "Sciences",
+        "Literature"
+      ],
+      "established": 1769
+    },
+    {
+      "id": "inst_canadian_pacific_railway_001",
+      "name": "Canadian Pacific Railway",
+      "type": "railway_company",
+      "location": "Dominion of Canada",
+      "description": "Connecting Atlantic with Pacific Ocean, completed November 1886, opened June 28, 1886",
+      "route": "Montreal to Vancouver",
+      "distance_advantage": "Via Quebec to Yokohama 925 miles shorter, via Halifax 600 miles shorter than US routes",
+      "services": [
+        "Steamers between Yokohama and Vancouver"
+      ],
+      "subsidy": {
+        "amount": 300000,
+        "currency": "dollars",
+        "purpose": "Monthly service Vancouver to Hong Kong via Yokohama"
+      },
+      "established": 1886
+    },
+    {
+      "id": "inst_armed_native_constabulary_fiji_001",
+      "name": "Armed Native Constabulary",
+      "type": "military_unit",
+      "location": "Fiji",
+      "commandant_salary": {
+        "amount": 100,
+        "currency": "pounds sterling"
+      },
+      "officers": [
+        {
+          "title": "Commandant",
+          "salary": 100
+        },
+        {
+          "title": "European Officer, Colo West",
+          "name": "S. F. Marriott",
+          "salary": 50
+        }
+      ],
+      "established": null
+    },
+    {
+      "id": "inst_government_savings_bank_gibraltar_001",
+      "name": "Government Savings Bank",
+      "type": "savings_bank",
+      "location": "Gibraltar",
+      "deposits": {
+        "amount": 41080,
+        "currency": "pounds sterling",
+        "depositors": 1577
+      },
+      "established": 1882
+    },
+    {
+      "id": "inst_gold_coast_constabulary_001",
+      "name": "Armed Constabulary",
+      "type": "police_force",
+      "location": "Gold Coast Colony",
+      "strength": 800,
+      "inspector_general": {
+        "name": "Lieut.-Col. E. B. McInnis",
+        "salary": {
+          "amount": 700,
+          "currency": "pounds sterling"
+        }
+      },
+      "established": null
+    }
+  ],
+  "economic_data": [
+    {
+      "id": "econ_jamaica_revenue_1887",
+      "colony": "Jamaica",
+      "year": 1887,
+      "revenue": {
+        "amount": 590192,
+        "currency": "pounds sterling"
+      },
+      "expenditure": {
+        "amount": 613960,
+        "currency": "pounds sterling"
+      },
+      "public_debt": {
+        "amount": 1667851,
+        "currency": "pounds sterling"
+      },
+      "customs_revenue": {
+        "amount": 265556,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_hong_kong_revenue_1887",
+      "colony": "Hong Kong",
+      "year": 1887,
+      "revenue": {
+        "amount": 1582724,
+        "currency": "dollars"
+      },
+      "expenditure": {
+        "amount": 2026002,
+        "currency": "dollars",
+        "note": "Including $744,820 for extraordinary public works"
+      },
+      "public_debt": {
+        "amount": 200000,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_fiji_revenue_1887",
+      "colony": "Fiji",
+      "year": 1887,
+      "revenue": {
+        "amount": 64916,
+        "currency": "pounds sterling"
+      },
+      "expenditure": {
+        "amount": 73150,
+        "currency": "pounds sterling"
+      },
+      "public_debt": {
+        "amount": 276827,
+        "currency": "pounds sterling",
+        "note": "Of which £115,389 is to English Government, bearing no interest"
+      }
+    },
+    {
+      "id": "econ_gibraltar_revenue_1887",
+      "colony": "Gibraltar",
+      "year": 1887,
+      "revenue": {
+        "amount": 55517,
+        "currency": "pounds sterling"
+      },
+      "expenditure": {
+        "amount": 52695,
+        "currency": "pounds sterling"
+      },
+      "public_debt": null,
+      "customs_revenue": {
+        "amount": 11613,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_falkland_revenue_1887",
+      "colony": "Falkland Islands",
+      "year": 1887,
+      "revenue": {
+        "amount": 8963,
+        "currency": "pounds sterling"
+      },
+      "expenditure": {
+        "amount": 9128,
+        "currency": "pounds sterling"
+      },
+      "public_debt": null,
+      "customs_revenue": {
+        "amount": 3074,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_sierra_leone_revenue_1887",
+      "colony": "Sierra Leone",
+      "year": 1887,
+      "revenue": {
+        "amount": 60637,
+        "currency": "pounds sterling"
+      },
+      "expenditure": {
+        "amount": 58834,
+        "currency": "pounds sterling"
+      },
+      "public_debt": {
+        "amount": 58000,
+        "currency": "pounds sterling",
+        "components": [
+          {
+            "type": "Harbour Works Debentures 1871",
+            "amount": 25000
+          },
+          {
+            "type": "Redeemable in 1896-8, 1878",
+            "amount": 25000
+          },
+          {
+            "type": "Due to Imperial Government",
+            "amount": 8000
+          }
+        ],
+        "sinking_fund": {
+          "amount": 21514,
+          "currency": "pounds sterling"
+        }
+      }
+    },
+    {
+      "id": "econ_gambia_revenue_1887",
+      "colony": "The Gambia",
+      "year": 1887,
+      "revenue": {
+        "amount": 13453,
+        "currency": "pounds sterling"
+      },
+      "expenditure": {
+        "amount": 23920,
+        "currency": "pounds sterling"
+      },
+      "customs_revenue": {
+        "amount": 9100,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_gold_coast_revenue_1887",
+      "colony": "The Gold Coast Colony",
+      "year": 1887,
+      "revenue": {
+        "amount": 122350,
+        "currency": "pounds sterling"
+      },
+      "expenditure": {
+        "amount": 139448,
+        "currency": "pounds sterling"
+      },
+      "public_debt": null,
+      "customs_revenue": {
+        "amount": 104885,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_malta_revenue_1887",
+      "colony": "Malta",
+      "year": 1887,
+      "revenue": {
+        "amount": 219185,
+        "currency": "pounds sterling"
+      },
+      "expenditure": {
+        "amount": 238825,
+        "currency": "pounds sterling"
+      },
+      "public_debt": {
+        "amount": 79168,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_labuan_revenue_1887",
+      "colony": "Labuan",
+      "year": 1887,
+      "revenue": {
+        "amount": 20005,
+        "currency": "dollars"
+      },
+      "expenditure": {
+        "amount": 20167,
+        "currency": "dollars"
+      }
+    },
+    {
+      "id": "econ_zululand_revenue_1887",
+      "colony": "Zululand",
+      "year": 1887,
+      "revenue": {
+        "amount": 14149,
+        "currency": "pounds sterling"
+      },
+      "expenditure": {
+        "amount": 15784,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_heligoland_revenue_1887",
+      "colony": "Heligoland",
+      "year": 1887,
+      "revenue": {
+        "amount": 8820,
+        "currency": "pounds sterling"
+      },
+      "expenditure": {
+        "amount": 8425,
+        "currency": "pounds sterling"
+      },
+      "public_debt": null
+    },
+    {
+      "id": "trade_jamaica_1887",
+      "colony": "Jamaica",
+      "year": 1887,
+      "imports": {
+        "total": 1322886,
+        "currency": "pounds sterling",
+        "breakdown": {
+          "from_uk": 724806,
+          "from_colonies": 142298,
+          "from_elsewhere": 455787
+        }
+      },
+      "exports": {
+        "total": 1509010,
+        "currency": "pounds sterling",
+        "breakdown": {
+          "to_uk": 582820,
+          "to_colonies": 89965,
+          "to_elsewhere": 886225
+        },
+        "main_products": [
+          "oranges",
+          "sugar",
+          "coffee",
+          "rum",
+          "fruit"
+        ]
+      }
+    },
+    {
+      "id": "trade_fiji_1887",
+      "colony": "Fiji",
+      "year": 1887,
+      "imports": {
+        "total": 188071,
+        "currency": "pounds sterling",
+        "breakdown": {
+          "from_uk": 21003,
+          "from_colonies": 153344,
+          "from_elsewhere": 13724
+        }
+      },
+      "exports": {
+        "total": 281080,
+        "currency": "pounds sterling",
+        "breakdown": {
+          "to_uk": 5008,
+          "to_colonies": 263645,
+          "to_elsewhere": 12427
+        },
+        "main_products": [
+          {
+            "product": "sugar",
+            "quantity": 12831,
+            "unit": "tons"
+          },
+          {
+            "product": "copra",
+            "quantity": 1957,
+            "unit": "tons"
+          },
+          {
+            "product": "cotton",
+            "quantity": 24,
+            "unit": "tons"
+          }
+        ]
+      }
+    },
+    {
+      "id": "trade_sierra_leone_1887",
+      "colony": "Sierra Leone",
+      "year": 1887,
+      "imports": {
+        "total": 308038,
+        "currency": "pounds sterling",
+        "breakdown": {
+          "from_uk": 247764,
+          "from_colonies": 1923,
+          "from_elsewhere": 58851
+        }
+      },
+      "exports": {
+        "total": 333577,
+        "currency": "pounds sterling",
+        "breakdown": {
+          "to_uk": 120188,
+          "to_colonies": 15695,
+          "to_elsewhere": 197684
+        },
+        "main_products": [
+          "palm oil",
+          "palm kernels",
+          "beni seed",
+          "ground nuts",
+          "cola nuts"
+        ]
+      }
+    },
+    {
+      "id": "trade_gold_coast_1887",
+      "colony": "The Gold Coast Colony",
+      "year": 1887,
+      "imports": {
+        "total": 363715,
+        "currency": "pounds sterling",
+        "breakdown": {
+          "from_uk": 267176,
+          "from_colonies": 4666,
+          "from_elsewhere": 91878
+        }
+      },
+      "exports": {
+        "total": 372446,
+        "currency": "pounds sterling",
+        "breakdown": {
+          "to_uk": 306656,
+          "to_colonies": 2213,
+          "to_elsewhere": 68678
+        },
+        "main_products": [
+          "palm oil",
+          "palm kernels",
+          "gold",
+          "india-rubber"
+        ]
+      }
+    },
+    {
+      "id": "trade_canada_1887",
+      "colony": "Dominion of Canada",
+      "year": 1887,
+      "revenue": {
+        "amount": 35754998,
+        "currency": "dollars"
+      },
+      "expenditure": {
+        "amount": 35657680,
+        "currency": "dollars"
+      },
+      "public_debt_gross": {
+        "amount": 278187624,
+        "currency": "dollars"
+      },
+      "public_debt_net": {
+        "amount": 227311775,
+        "currency": "dollars"
+      },
+      "imports": {
+        "total": 112892236,
+        "currency": "dollars",
+        "breakdown": {
+          "from_uk": 44962238,
+          "from_colonies": 1848481,
+          "from_elsewhere": 58828714
+        }
+      },
+      "exports": {
+        "total": 89515811,
+        "currency": "dollars",
+        "breakdown": {
+          "to_uk": 44571846,
+          "to_colonies": 3446810,
+          "to_elsewhere": 41497155
+        },
+        "main_categories": {
+          "mine": 8805959,
+          "fisheries": 6875810,
+          "forest": 20484746,
+          "animals": 24246937,
+          "agriculture": 18826235,
+          "manufactures": 3079972
+        }
+      }
+    }
+  ],
+  "infrastructure": [
+    {
+      "id": "infra_jamaica_railway_001",
+      "type": "railway",
+      "colony": "Jamaica",
+      "description": "Government Railway from Kingston to Porus (47 miles) and to Ewarton (17 miles branch)",
+      "total_length": {
+        "value": 64,
+        "unit": "miles"
+      },
+      "construction_cost": {
+        "amount": 775000,
+        "currency": "pounds sterling"
+      },
+      "year_data": 1887,
+      "receipts": {
+        "amount": 44270.55,
+        "currency": "pounds sterling"
+      },
+      "expenses": {
+        "amount": 30601.85,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "infra_jamaica_telegraph_001",
+      "type": "telegraph",
+      "colony": "Jamaica",
+      "description": "Inland telegraph connecting principal towns",
+      "total_length": {
+        "value": 664,
+        "unit": "miles"
+      },
+      "stations": 48,
+      "construction_cost": {
+        "amount": 15802.01,
+        "currency": "pounds sterling"
+      },
+      "year_data": 1887,
+      "receipts": {
+        "amount": 4058,
+        "currency": "pounds sterling"
+      },
+      "expenses": {
+        "amount": 4001,
+        "currency": "pounds sterling"
+      },
+      "international_connection": "Connected to Europe via Cuba cables"
+    },
+    {
+      "id": "infra_canada_railways_001",
+      "type": "railway",
+      "colony": "Dominion of Canada",
+      "description": "Total railway system including Canadian Pacific Railway",
+      "total_length": {
+        "value": 12332,
+        "unit": "miles"
+      },
+      "in_operation": {
+        "value": 11691,
+        "unit": "miles"
+      },
+      "capital_invested": {
+        "amount": 683773191,
+        "currency": "dollars"
+      },
+      "year_data": 1887,
+      "receipts": {
+        "amount": 38842010,
+        "currency": "dollars"
+      },
+      "expenses": {
+        "amount": 27624688,
+        "currency": "dollars"
+      },
+      "goods_carried": {
+        "amount": 16356235,
+        "unit": "tons"
+      },
+      "passengers": 10698633,
+      "train_distance": {
+        "amount": 33638748,
+        "unit": "miles"
+      }
+    },
+    {
+      "id": "infra_canada_telegraphs_001",
+      "type": "telegraph",
+      "colony": "Dominion of Canada",
+      "description": "Telegraph system including government and private lines",
+      "total_length": {
+        "value": 28498,
+        "unit": "miles of line"
+      },
+      "wire_length": {
+        "value": 59941,
+        "unit": "miles of wire"
+      },
+      "government_owned": {
+        "value": 2911,
+        "unit": "miles"
+      },
+      "offices": 2637,
+      "year_data": 1887,
+      "messages_sent": 4052684,
+      "international_connections": [
+        "Great Britain",
+        "Newfoundland",
+        "United States"
+      ]
+    },
+    {
+      "id": "infra_canada_canals_001",
+      "type": "canal",
+      "colony": "Dominion of Canada",
+      "description": "Six important systems of Government canals with St. Lawrence River connections",
+      "total_length": {
+        "value": 135,
+        "unit": "miles"
+      },
+      "inland_navigation": {
+        "value": 8000,
+        "unit": "miles"
+      },
+      "st_lawrence_system": {
+        "value": 2384,
+        "unit": "miles"
+      },
+      "year_data": "1886-7",
+      "receipts": {
+        "amount": 321738,
+        "currency": "dollars"
+      },
+      "expenses": {
+        "amount": 484709,
+        "currency": "dollars"
+      },
+      "construction_expenditure": {
+        "amount": 51000000,
+        "currency": "dollars"
+      }
+    },
+    {
+      "id": "infra_malta_railway_001",
+      "type": "railway",
+      "colony": "Malta",
+      "description": "Malta Railway Company line",
+      "total_length": {
+        "value": 8.5,
+        "unit": "miles"
+      },
+      "operator": "Malta Railway Company, Limited"
+    },
+    {
+      "id": "infra_malta_telegraph_001",
+      "type": "telegraph",
+      "colony": "Malta",
+      "description": "Telegraph system constructed and worked by military authorities",
+      "total_length": {
+        "value": 65,
+        "unit": "miles"
+      },
+      "international_connections": [
+        "Gibraltar",
+        "Bone (Algeria)",
+        "Sicily (2 cables)",
+        "Alexandria (2 cables)"
+      ],
+      "operator": "Military authorities",
+      "public_access": true
+    },
+    {
+      "id": "infra_trinidad_railway_001",
+      "type": "railway",
+      "colony": "Trinidad",
+      "description": "Government owned and operated railway system",
+      "route": "Port of Spain to Arima (opened 1876), Couva line (opened 1880), extensions to Claxton's Bay, San Fernando, and Princes Town",
+      "total_length": {
+        "value": 54.5,
+        "unit": "miles"
+      },
+      "construction_cost": {
+        "amount": 602352,
+        "currency": "pounds sterling"
+      },
+      "year_data": 1887,
+      "receipts": {
+        "amount": 53949,
+        "currency": "pounds sterling"
+      },
+      "expenditure": {
+        "amount": 32154,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "infra_trinidad_telegraph_001",
+      "type": "telegraph",
+      "colony": "Trinidad",
+      "description": "Internal telegraph system",
+      "total_length": {
+        "value": 68,
+        "unit": "miles"
+      },
+      "construction_cost": {
+        "amount": 3150,
+        "currency": "pounds sterling"
+      },
+      "year_data": 1887,
+      "receipts": {
+        "amount": 450,
+        "currency": "pounds sterling"
+      },
+      "expenses": {
+        "amount": 909,
+        "currency": "pounds sterling"
+      },
+      "messages_sent": 11502,
+      "international_connections": [
+        "British Guiana",
+        "Grenada",
+        "Saint Croix",
+        "via United States to Europe"
+      ]
+    },
+    {
+      "id": "infra_gold_coast_telegraph_001",
+      "type": "telegraph",
+      "colony": "The Gold Coast Colony",
+      "description": "Telegraph line between Accra, Christiansborg, Aburi, Cape Coast, and Elmina, with extension to Quittah",
+      "total_length": {
+        "value": 199,
+        "unit": "miles (119 operational, 80 planned)"
+      },
+      "international_connections": [
+        "Sierra Leone",
+        "Bathurst",
+        "St. Vincent",
+        "Grand Bassam",
+        "Lagos",
+        "Niger",
+        "Cootenoo",
+        "Portuguese settlements",
+        "French settlements"
+      ],
+      "cables": 4,
+      "year_data": 1889
+    },
+    {
+      "id": "infra_hong_kong_tramway_001",
+      "type": "tramway",
+      "colony": "Hong Kong",
+      "description": "Cable tramway from city to higher levels",
+      "year_opened": 1888
+    },
+    {
+      "id": "infra_sierra_leone_telegraph_001",
+      "type": "telegraph",
+      "colony": "Sierra Leone",
+      "description": "Telegraph connection via cables",
+      "international_connections": [
+        "Bathurst",
+        "Conakry",
+        "Accra"
+      ],
+      "cables": 3,
+      "year_established": 1886
+    },
+    {
+      "id": "infra_gambia_bridge_001",
+      "type": "bridge",
+      "colony": "The Gambia",
+      "description": "Oyster Creek Bridge connecting St. Mary island with mainland British Combo",
+      "route": "Bathurst to Cape St. Mary"
+    },
+    {
+      "id": "infra_fiji_docks_001",
+      "type": "docks",
+      "colony": "Fiji",
+      "description": "Sugar mills and fruit preserving establishments",
+      "sugar_mills": 12,
+      "fruit_preserving": 2
+    }
+  ],
+  "demographics": [
+    {
+      "id": "demo_jamaica_1887",
+      "colony": "Jamaica",
+      "year": 1887,
+      "total_population": 607798,
+      "estimate": true,
+      "breakdown_1881": {
+        "white": 14433,
+        "coloured": 109946,
+        "black": 444186,
+        "indian_etc": 12240,
+        "total": 580804
+      },
+      "note": "Only two per cent white; remainder chiefly of African descent, four-fifths pure negroes, about 12,000 imported coolies"
+    },
+    {
+      "id": "demo_hong_kong_1888",
+      "colony": "Hong Kong",
+      "year": 1888,
+      "total_population": 212951,
+      "breakdown": {
+        "males": 152427,
+        "females": 60824
+      },
+      "breakdown_1881": {
+        "coloured_males": 109018,
+        "coloured_females": 43889,
+        "coloured_total": 152412,
+        "white_males": 6856,
+        "white_females": 1634,
+        "white_total": 7990
+      }
+    },
+    {
+      "id": "demo_fiji_1887",
+      "colony": "Fiji",
+      "year": 1887,
+      "total_population": 124658,
+      "estimate": true,
+      "breakdown": {
+        "native_fijians": 110754,
+        "indian_immigrants": 6085,
+        "europeans": 2105,
+        "others": 5714
+      },
+      "religious_breakdown": {
+        "wesleyans": 100000,
+        "roman_catholics": 10000
+      },
+      "note": "Including Rotumah population"
+    },
+    {
+      "id": "demo_gibraltar_1887",
+      "colony": "Gibraltar",
+      "year": 1887,
+      "total_population": 18000,
+      "estimate": true,
+      "census_1881": 18881,
+      "note": "Exclusive of military"
+    },
+    {
+      "id": "demo_falkland_1887",
+      "colony": "Falkland Islands",
+      "year": 1887,
+      "total_population": 1843,
+      "breakdown": {
+        "males": 1128,
+        "females": 715
+      },
+      "note": "Nearly all of European extraction"
+    },
+    {
+      "id": "demo_malta_1887",
+      "colony": "Malta",
+      "year": 1887,
+      "total_population": 160679,
+      "estimate": true,
+      "census_1881": {
+        "males": 73430,
+        "females": 76362,
+        "total": 149792
+      },
+      "note": "Exclusive of British troops and their families"
+    },
+    {
+      "id": "demo_canada_1887",
+      "colony": "Dominion of Canada",
+      "year": 1887,
+      "total_population": 4922679,
+      "estimate": true,
+      "breakdown_by_province_1881": {
+        "ontario": 1928228,
+        "quebec": 1859027,
+        "new_brunswick": 321233,
+        "nova_scotia": 440572,
+        "manitoba": 65954,
+        "british_columbia": 49459,
+        "prince_edward_island": 108891,
+        "nw_territory": 56446
+      },
+      "ethnic_breakdown": {
+        "french_extraction": 1800000,
+        "indians": 128761,
+        "half_breeds": 14000,
+        "chinese_bc": 7000,
+        "esquimaux": "a few thousand"
+      }
+    },
+    {
+      "id": "demo_sierra_leone_1887",
+      "colony": "Sierra Leone",
+      "year": 1887,
+      "total_population": null,
+      "census_1881": {
+        "white": 271,
+        "coloured": 34,
+        "total": 271
+      },
+      "note": "Freetown contains 22,000 inhabitants"
+    },
+    {
+      "id": "demo_gambia_1887",
+      "colony": "The Gambia",
+      "year": 1887,
+      "total_population": null,
+      "census_1881": 14150,
+      "bathurst_population": 6000,
+      "european_population": 25,
+      "note": "Chief tribes: Jollofs, Mandingoes, and Jolahs"
+    },
+    {
+      "id": "demo_gold_coast_1887",
+      "colony": "The Gold Coast Colony",
+      "year": 1887,
+      "total_population": 1426450,
+      "estimate": true,
+      "europeans": 150,
+      "chief_towns": {
+        "accra": 20000,
+        "addah": 7000,
+        "elmina": 6000,
+        "cape_coast_castle": 5000
+      },
+      "note": "No census has ever been taken"
+    },
+    {
+      "id": "demo_labuan_1887",
+      "colony": "Labuan",
+      "year": 1887,
+      "total_population": 6000,
+      "estimate": true,
+      "census_1881": 5995,
+      "europeans_1881": 47,
+      "europeans_1887": 10,
+      "note": "Chiefly Malays from Borneo and Chinese"
+    },
+    {
+      "id": "demo_zululand_1887",
+      "colony": "Zululand",
+      "year": 1887,
+      "total_population": 150000,
+      "estimate": true
+    },
+    {
+      "id": "demo_heligoland_1887",
+      "colony": "Heligoland",
+      "year": 1887,
+      "total_population": 2200,
+      "estimate": true,
+      "census_1881": 2001,
+      "note": "Smallest organised British Colony, inhabitants of Frisian origin"
+    }
+  ],
+  "historical_events": [
+    {
+      "id": "event_jamaica_discovery",
+      "date": "1494-05-03",
+      "event": "Discovery of Jamaica",
+      "description": "Jamaica discovered by Columbus on his third voyage, called it St. Jago",
+      "location": "Jamaica",
+      "participants": [
+        "Christopher Columbus"
+      ]
+    },
+    {
+      "id": "event_jamaica_british_conquest",
+      "date": "1655-05-03",
+      "event": "British Conquest of Jamaica",
+      "description": "Jamaica capitulated to British force under Admirals Penn and Venables after 161 years of Spanish possession",
+      "location": "Jamaica",
+      "participants": [
+        "Admiral Penn",
+        "Admiral Venables"
+      ]
+    },
+    {
+      "id": "event_jamaica_abolition_slavery",
+      "date": "1838",
+      "event": "Abolition of Slavery",
+      "description": "Slavery abolished in Jamaica, £1,161,927 granted as compensation to slaveowners",
+      "location": "Jamaica",
+      "compensation": {
+        "amount": 1161927,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "event_hong_kong_cession",
+      "date": "1841-01",
+      "event": "Cession of Hong Kong",
+      "description": "Hong Kong, then a desolate island sparsely inhabited by fishermen, first ceded to Great Britain",
+      "location": "Hong Kong",
+      "confirmed_by": "Treaty of Nankin, August 1842"
+    },
+    {
+      "id": "event_hong_kong_charter",
+      "date": "1843-04-05",
+      "event": "Hong Kong Charter",
+      "description": "Charter for Hong Kong government issued",
+      "location": "Hong Kong"
+    },
+    {
+      "id": "event_kowloon_cession",
+      "date": "1861",
+      "event": "Cession of Kow-loon",
+      "description": "Kow-loon peninsula (28 square miles) ceded to Great Britain by Treaty entered into by Lord Elgin",
+      "location": "Hong Kong",
+      "participants": [
+        "Lord Elgin"
+      ]
+    },
+    {
+      "id": "event_fiji_cession",
+      "date": "1874-10-10",
+      "event": "Cession of Fiji",
+      "description": "Sovereignty of Fiji ceded to Her Majesty by Thakombau, Maafu, and other principal chiefs in deed of cession",
+      "location": "Fiji",
+      "participants": [
+        "Thakombau",
+        "Maafu",
+        "Sir Hercules Robinson"
+      ]
+    },
+    {
+      "id": "event_fiji_measles_epidemic",
+      "date": "1875",
+      "event": "Measles Epidemic",
+      "description": "Epidemic of measles greatly reduced native population",
+      "location": "Fiji"
+    },
+    {
+      "id": "event_gibraltar_capture",
+      "date": "1704-07-24",
+      "event": "Capture of Gibraltar",
+      "description": "Gibraltar captured by British forces under Sir George Rooke",
+      "location": "Gibraltar",
+      "participants": [
+        "Sir George Rooke"
+      ]
+    },
+    {
+      "id": "event_gibraltar_cession",
+      "date": "1713",
+      "event": "Cession of Gibraltar",
+      "description": "Gibraltar ceded to Great Britain by Treaty of Utrecht",
+      "location": "Gibraltar"
+    },
+    {
+      "id": "event_gibraltar_great_siege",
+      "date": "1779-1783",
+      "event": "Great Siege of Gibraltar",
+      "description": "Gibraltar successfully defended by Gen. Eliot (afterwards Lord Heathfield) during great siege",
+      "location": "Gibraltar",
+      "participants": [
+        "Gen. Eliot (Lord Heathfield)"
+      ]
+    },
+    {
+      "id": "event_falklands_discovery",
+      "date": "1592",
+      "event": "Discovery of Falkland Islands",
+      "description": "Falkland Islands discovered by Davis, visited by Hawkins in 1594",
+      "location": "Falkland Islands",
+      "participants": [
+        "Davis"
+      ]
+    },
+    {
+      "id": "event_falklands_british_possession",
+      "date": "1833",
+      "event": "British Possession of Falklands",
+      "description": "Falkland Islands taken possession of by British Government for protection of Whale Fishery",
+      "location": "Falkland Islands",
+      "prior_history": "Republic of Buenos Ayres settlement destroyed by Americans in 1831"
+    },
+    {
+      "id": "event_malta_shipwreck_paul",
+      "date": "60 AD (approx)",
+      "event": "Shipwreck of St. Paul",
+      "description": "During Roman occupation, shipwreck of Paul took place (Acts xxviii)",
+      "location": "Malta",
+      "participants": [
+        "St. Paul"
+      ]
+    },
+    {
+      "id": "event_malta_knights",
+      "date": "1530",
+      "event": "Malta granted to Knights of St. John",
+      "description": "Malta granted by Roman Emperor Charles V to Order of Knights of St. John, held for more than two centuries",
+      "location": "Malta",
+      "participants": [
+        "Emperor Charles V",
+        "Knights of St. John"
+      ]
+    },
+    {
+      "id": "event_malta_french_capitulation",
+      "date": "1798-07-12",
+      "event": "French Capitulation",
+      "description": "Grand Master Hompesch capitulated to Napoleon Bonaparte, who dispersed the Order",
+      "location": "Malta",
+      "participants": [
+        "Grand Master Hompesch",
+        "Napoleon Bonaparte"
+      ]
+    },
+    {
+      "id": "event_malta_british_annexation",
+      "date": "1814",
+      "event": "British Annexation of Malta",
+      "description": "Malta finally annexed to British Crown by Treaty of Paris",
+      "location": "Malta"
+    },
+    {
+      "id": "event_sierra_leone_cession",
+      "date": "1787",
+      "event": "Cession of Sierra Leone Peninsula",
+      "description": "Peninsula of Sierra Leone ceded to Great Britain by native chiefs",
+      "location": "Sierra Leone"
+    },
+    {
+      "id": "event_sierra_leone_company",
+      "date": "1791",
+      "event": "Formation of Sierra Leone Company",
+      "description": "Charter granted to Sierra Leone Company for establishing settlement for freed negro slaves",
+      "location": "Sierra Leone"
+    },
+    {
+      "id": "event_gold_coast_macarthy_death",
+      "date": "1824-01-24",
+      "event": "Death of Sir Charles Macarthy",
+      "description": "Governor Sir Charles Macarthy killed at Essamkow leading army against Ashantis",
+      "location": "Gold Coast",
+      "participants": [
+        "Sir Charles Macarthy"
+      ]
+    },
+    {
+      "id": "event_gold_coast_ashanti_war",
+      "date": "1873-1874",
+      "event": "Ashanti War",
+      "description": "War against Ashanti kingdom, culminating in British forces entering Coomassie on 4 February 1874",
+      "location": "Gold Coast",
+      "participants": [
+        "Sir Garnet Wolseley",
+        "King Coffee"
+      ],
+      "battles": [
+        "Amoafu",
+        "Ginginhlova",
+        "Ulundi"
+      ]
+    },
+    {
+      "id": "event_canadian_confederation",
+      "date": "1867-05-27",
+      "event": "Canadian Confederation",
+      "description": "Provinces of Ontario, Quebec, New Brunswick, and Nova Scotia formed into one Dominion by Imperial Act 30 Vic., c. 3",
+      "location": "Canada"
+    },
+    {
+      "id": "event_canadian_pacific_completion",
+      "date": "1886-11",
+      "event": "Completion of Canadian Pacific Railway",
+      "description": "Canadian Pacific Railway connecting Atlantic with Pacific Ocean completed, opened for general traffic Montreal to Vancouver",
+      "location": "Canada",
+      "opened": "1886-06-28"
+    },
+    {
+      "id": "event_zulu_war",
+      "date": "1879",
+      "event": "Zulu War",
+      "description": "War between British forces and Zulu kingdom under Cetywayo, including battles of Isandlwana, Rorke's Drift, and Ulundi",
+      "location": "Zululand",
+      "participants": [
+        "Lord Chelmsford",
+        "Cetywayo",
+        "Major Chard"
+      ],
+      "key_battles": [
+        {
+          "name": "Isandlwana",
+          "date": "1879-01-22",
+          "result": "Zulu victory, about 1,000 Europeans slain"
+        },
+        {
+          "name": "Rorke's Drift",
+          "date": "1879-01-22",
+          "result": "British defence, one company 24th Regiment held post"
+        },
+        {
+          "name": "Kambula Kop",
+          "date": "1879",
+          "result": "British victory against 24,000 Zulus"
+        },
+        {
+          "name": "Ulundi",
+          "date": "1879-07-04",
+          "result": "British victory, Zulu military power broken"
+        }
+      ]
+    },
+    {
+      "id": "event_cetywayo_restoration",
+      "date": "1883-01-29",
+      "event": "Restoration of Cetywayo",
+      "description": "Cetywayo re-installed by Sir Theophilus Shepstone in presence of 5,000 Zulus, after visiting England",
+      "location": "Zululand",
+      "participants": [
+        "Cetywayo",
+        "Sir Theophilus Shepstone"
+      ]
+    },
+    {
+      "id": "event_cetywayo_death",
+      "date": "1884-02-08",
+      "event": "Death of Cetywayo",
+      "description": "Cetywayo died while living in the Reserve under care of Resident",
+      "location": "Zululand"
+    },
+    {
+      "id": "event_zululand_british_territory",
+      "date": "1887-05",
+      "event": "Zululand Declared British Territory",
+      "description": "Zululand formally declared British territory with general assent of Zulus",
+      "location": "Zululand"
+    },
+    {
+      "id": "event_trinidad_discovery",
+      "date": "1498-07-31",
+      "event": "Discovery of Trinidad",
+      "description": "Trinidad first discovered by Columbus on his third voyage, taken possession of for Crown of Spain",
+      "location": "Trinidad",
+      "participants": [
+        "Christopher Columbus"
+      ]
+    },
+    {
+      "id": "event_trinidad_british_conquest",
+      "date": "1797-02-18",
+      "event": "British Conquest of Trinidad",
+      "description": "Trinidad surrendered to British forces, articles of capitulation signed",
+      "location": "Trinidad",
+      "participants": [
+        "Sir R. Abercrombie",
+        "Admiral Harvey",
+        "Governor Chacon"
+      ]
+    },
+    {
+      "id": "event_trinidad_cession",
+      "date": "1802",
+      "event": "Cession of Trinidad",
+      "description": "Trinidad finally ceded to Crown of Great Britain by Treaty of Amiens",
+      "location": "Trinidad"
+    },
+    {
+      "id": "event_labuan_cession",
+      "date": "1846",
+      "event": "Cession of Labuan",
+      "description": "Island of Labuan, then uninhabited, ceded to Great Britain by Sultan of Borneo",
+      "location": "Labuan",
+      "occupied": 1848
+    },
+    {
+      "id": "event_heligoland_surrender",
+      "date": "1807",
+      "event": "Surrender of Heligoland",
+      "description": "Heligoland surrendered to British arms",
+      "location": "Heligoland"
+    },
+    {
+      "id": "event_heligoland_cession",
+      "date": "1814",
+      "event": "Cession of Heligoland",
+      "description": "Heligoland formally ceded to Great Britain by Denmark in Treaty of Kiel",
+      "location": "Heligoland"
+    }
+  ],
+  "relationships": [
+    {
+      "type": "governs",
+      "source": "per_blake_henry_001",
+      "target": "geo_jamaica_001",
+      "year": 1889
+    },
+    {
+      "type": "governs",
+      "source": "per_thurston_john_001",
+      "target": "geo_fiji_001",
+      "year": 1889
+    },
+    {
+      "type": "governs",
+      "source": "per_kerr_thomas_001",
+      "target": "geo_falkland_001",
+      "year": 1889
+    },
+    {
+      "type": "governs",
+      "source": "per_desvoeux_george_001",
+      "target": "geo_hong_kong_001",
+      "year": 1889
+    },
+    {
+      "type": "governs",
+      "source": "per_griffith_william_001",
+      "target": "geo_gold_coast_001",
+      "year": 1889
+    },
+    {
+      "type": "governs",
+      "source": "per_torrens_henry_001",
+      "target": "geo_malta_001",
+      "year": 1889
+    },
+    {
+      "type": "dependency",
+      "source": "geo_falkland_001",
+      "target": "South Georgia",
+      "description": "South Georgia is a dependency of Falkland Islands, discovered 1675, explored by Captain Cook 1775"
+    },
+    {
+      "type": "dependency",
+      "source": "geo_jamaica_001",
+      "target": "Cayman Islands",
+      "description": "Grand Cayman, Little Cayman, and Cayman Brac are dependencies of Jamaica"
+    },
+    {
+      "type": "operates",
+      "source": "inst_falkland_islands_company_001",
+      "target": "geo_falkland_001",
+      "description": "Company operates sheep farming, trading, and ship repairs in Falkland Islands"
+    },
+    {
+      "type": "banking",
+      "source": "inst_colonial_bank_jamaica_001",
+      "target": "geo_jamaica_001",
+      "description": "Only private banking establishment in Jamaica"
+    },
+    {
+      "type": "trade",
+      "source": "geo_jamaica_001",
+      "target": "United Kingdom",
+      "value": 724806,
+      "year": 1887,
+      "direction": "imports"
+    },
+    {
+      "type": "trade",
+      "source": "geo_jamaica_001",
+      "target": "United States",
+      "description": "45% of Jamaica's trade is with United States",
+      "year": 1887
+    },
+    {
+      "type": "cable_connection",
+      "source": "geo_jamaica_001",
+      "target": "Cuba",
+      "description": "Two cables from Cuba connect Jamaica to Europe"
+    },
+    {
+      "type": "cable_connection",
+      "source": "geo_malta_001",
+      "target": "Gibraltar",
+      "description": "Direct cable connection"
+    },
+    {
+      "type": "cable_connection",
+      "source": "geo_malta_001",
+      "target": "Sicily",
+      "description": "Two cable connections"
+    },
+    {
+      "type": "cable_connection",
+      "source": "geo_malta_001",
+      "target": "Alexandria",
+      "description": "Two cable connections"
+    }
+  ]
+}

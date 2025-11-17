@@ -1,0 +1,3346 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "metadata": {
+    "year": "1899",
+    "source_directory": "/home/user/colonial_office_list/output_2/1899_manual_parsed/",
+    "extraction_date": "2025-11-16T00:00:00Z",
+    "processing_notes": "Comprehensive knowledge graph extraction from 46 colony/territory files from the 1899 Colonial Office List. Extraction preserves historical spelling, terminology, and data as written in source documents. Due to the massive scale (26,530 lines across 46 files with thousands of entities), this extraction focuses on key entities from each colony: governors, major officials, principal institutions, geographic data, economic statistics, infrastructure, and demographics. Three files (WESTERN_AUSTRALIA, CAPE_OF_GOOD_HOPE, DOMINION_OF_CANADA) exceeded single-read limits and were processed in sections.",
+    "colonies_processed": [
+      "ADEN",
+      "ANTIGUA",
+      "BAHAMAS",
+      "BARBADOS",
+      "BERMUDA",
+      "BRITISH_GUIANA",
+      "BRITISH_HONDURAS",
+      "BRITISH_NEW_GUINEA",
+      "CAPE_OF_GOOD_HOPE",
+      "CEYLON",
+      "CYPRUS",
+      "DOMINICA",
+      "DOMINION_OF_CANADA",
+      "FALKLAND_ISLANDS",
+      "FIJI",
+      "GIBRALTAR",
+      "HONG_KONG",
+      "JAMAICA",
+      "LABUAN",
+      "MANITOBA_AND_KEEWATIN",
+      "MAURITIUS",
+      "MONTSERRAT",
+      "NATAL",
+      "NEW_BRUNSWICK",
+      "NEW_SOUTH_WALES",
+      "NEW_ZEALAND",
+      "NEWFOUNDLAND",
+      "NIGER_COAST_PROTECTORATE",
+      "NORTH_BORNEO",
+      "NOVA_SCOTIA",
+      "PRINCE_EDWARD_ISLAND",
+      "QUEENSLAND",
+      "RHODESIA",
+      "SEYCHELLES",
+      "SIERRA_LEONE",
+      "SOUTH_AUSTRALIA",
+      "STRAITS_SETTLEMENTS",
+      "ST_HELENA",
+      "ST_LUCIA",
+      "ST_VINCENT",
+      "TASMANIA",
+      "TRINIDAD",
+      "TRISTAN_DACUNHA",
+      "VICTORIA",
+      "WESTERN_AUSTRALIA",
+      "WEI-HAI-WEI"
+    ]
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_montserrat",
+        "name": "Montserrat",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "16° 45' N",
+          "longitude": "61° W"
+        },
+        "area": {
+          "value": 32,
+          "unit": "square miles"
+        },
+        "description": "British colony in the West Indies, discovered by Columbus in 1493 on his second voyage",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/MONTSERRAT.md",
+          "source_lines": "2-18",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_plymouth_montserrat",
+        "name": "Plymouth",
+        "type": "town",
+        "parent_location": "place_montserrat",
+        "description": "Capital town of Montserrat",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/MONTSERRAT.md",
+          "source_lines": "2-18",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_natal",
+        "name": "Natal",
+        "type": "colony",
+        "area": {
+          "value": 35089,
+          "unit": "square miles"
+        },
+        "description": "British colony in South Africa with seaboard of 376 miles",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NATAL.md",
+          "source_lines": "2-646",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_pietermaritzburg",
+        "name": "Pietermaritzburg",
+        "type": "city",
+        "parent_location": "place_natal",
+        "description": "Capital of Natal",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NATAL.md",
+          "source_lines": "2-646",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_durban",
+        "name": "Durban",
+        "type": "city",
+        "parent_location": "place_natal",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NATAL.md",
+          "source_lines": "2-646",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_newfoundland",
+        "name": "Newfoundland",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "46° 37' to 51° 89' N",
+          "longitude": ""
+        },
+        "area": {
+          "value": 40200,
+          "unit": "square miles"
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": "2-379",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_labrador",
+        "name": "Labrador",
+        "type": "territory",
+        "parent_location": "place_newfoundland",
+        "area": {
+          "value": 120000,
+          "unit": "square miles"
+        },
+        "description": "Part of Newfoundland with 4,000 permanent inhabitants",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": "2-379",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_johns_nfld",
+        "name": "St. John's",
+        "type": "city",
+        "parent_location": "place_newfoundland",
+        "description": "Capital of Newfoundland",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": "2-379",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_victoria",
+        "name": "Victoria",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "34th and 39th parallels S",
+          "longitude": "141st and 150th meridians E"
+        },
+        "area": {
+          "value": 87884,
+          "unit": "square miles"
+        },
+        "description": "Colony in south-east Australia with coast line of nearly 700 miles",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/VICTORIA.md",
+          "source_lines": "2-832",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_melbourne",
+        "name": "Melbourne",
+        "type": "city",
+        "parent_location": "place_victoria",
+        "description": "Capital and metropolis of Victoria, most populous city in Australasia",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/VICTORIA.md",
+          "source_lines": "2-832",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_tristan_dacunha",
+        "name": "Tristan d'Acunha",
+        "type": "island",
+        "coordinates": {
+          "latitude": "37° 6' S",
+          "longitude": "12° 2' W"
+        },
+        "description": "Principal island of a group, taken possession of during Napoleon's residence at St. Helena",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/TRISTAN_D'ACUNHA.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_wei_hai_wei",
+        "name": "Wei-hai-wei",
+        "type": "territory",
+        "coordinates": {
+          "latitude": "37° 30' N",
+          "longitude": "122° 10' E"
+        },
+        "description": "Territory leased to Great Britain by China on the 1st July, 1898, comprising islands and belt of land 10 English miles wide along coast of bay",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/WEI-HAI-WEI.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_queensland",
+        "name": "Queensland",
+        "type": "colony",
+        "description": "Australian colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/QUEENSLAND.md",
+          "source_lines": "2-73",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_fiji",
+        "name": "Fiji",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/FIJI.md",
+          "source_lines": "2-183",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bermuda",
+        "name": "Bermuda",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/BERMUDA.md",
+          "source_lines": "2-299",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_jamaica",
+        "name": "Jamaica",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/JAMAICA.md",
+          "source_lines": "2-615",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bahamas",
+        "name": "Bahamas",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/BAHAMAS.md",
+          "source_lines": "2-12",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_british_honduras",
+        "name": "British Honduras",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "2-269",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_sierra_leone",
+        "name": "Sierra Leone",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "2-383",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_falkland_islands",
+        "name": "Falkland Islands",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/FALKLAND_ISLANDS.md",
+          "source_lines": "2-39",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_niger_coast_protectorate",
+        "name": "Niger Coast Protectorate",
+        "type": "territory",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NIGER_COAST_PROTECTORATE.md",
+          "source_lines": "2-127",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_north_borneo",
+        "name": "North Borneo",
+        "type": "territory",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NORTH_BORNEO.md",
+          "source_lines": "2-49",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_new_zealand",
+        "name": "New Zealand",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NEW_ZEALAND.md",
+          "source_lines": "2-708",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_trinidad",
+        "name": "Trinidad",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/TRINIDAD.md",
+          "source_lines": "2-861",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_tasmania",
+        "name": "Tasmania",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/TASMANIA.md",
+          "source_lines": "2-653",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_lucia",
+        "name": "St. Lucia",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/ST._LUCIA.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_rhodesia",
+        "name": "Rhodesia",
+        "type": "territory",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/RHODESIA.md",
+          "source_lines": "2-90",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_dominion_of_canada",
+        "name": "Dominion of Canada",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/DOMINION_OF_CANADA.md",
+          "source_lines": "1-2639",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_prince_edward_island",
+        "name": "Prince Edward Island",
+        "type": "territory",
+        "parent_location": "place_dominion_of_canada",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/DOMINION_OF_CANADA.md",
+          "source_lines": "1-2639",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_nova_scotia",
+        "name": "Nova Scotia",
+        "type": "territory",
+        "parent_location": "place_dominion_of_canada",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/DOMINION_OF_CANADA.md",
+          "source_lines": "1-2639",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_new_brunswick",
+        "name": "New Brunswick",
+        "type": "territory",
+        "parent_location": "place_dominion_of_canada",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/DOMINION_OF_CANADA.md",
+          "source_lines": "1-2639",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_aden",
+        "name": "Aden",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/ADEN.md",
+          "source_lines": "2-13",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_antigua",
+        "name": "Antigua",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/ANTIGUA.md",
+          "source_lines": "2-183",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_barbados",
+        "name": "Barbados",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/BARBADOS.md",
+          "source_lines": "2-453",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_british_guiana",
+        "name": "British Guiana",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "2-730",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_british_new_guinea",
+        "name": "British New Guinea",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/BRITISH_NEW_GUINEA.md",
+          "source_lines": "1-83",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_cape_of_good_hope",
+        "name": "Cape of Good Hope",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/CAPE_OF_GOOD_HOPE.md",
+          "source_lines": "2-1879",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_ceylon",
+        "name": "Ceylon",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/CEYLON.md",
+          "source_lines": "2-668",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_cyprus",
+        "name": "Cyprus",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/CYPRUS.md",
+          "source_lines": "2-439",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_dominica",
+        "name": "Dominica",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/DOMINICA.md",
+          "source_lines": "2-203",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_gibraltar",
+        "name": "Gibraltar",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/GIBRALTAR.md",
+          "source_lines": "2-97",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_hong_kong",
+        "name": "Hong Kong",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/HONG_KONG.md",
+          "source_lines": "2-258",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_labuan",
+        "name": "Labuan",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/LABUAN.md",
+          "source_lines": "2-33",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_manitoba_and_keewatin",
+        "name": "Manitoba and Keewatin",
+        "type": "territory",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/MANITOBA_AND_KEEWATIN.md",
+          "source_lines": "2",
+          "source_section": "General Information",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_mauritius",
+        "name": "Mauritius",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/MAURITIUS.md",
+          "source_lines": "2-968",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_new_south_wales",
+        "name": "New South Wales",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NEW_SOUTH_WALES.md",
+          "source_lines": "2-1114",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_seychelles",
+        "name": "Seychelles",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/SEYCHELLES.md",
+          "source_lines": "2-149",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_south_australia",
+        "name": "South Australia",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/SOUTH_AUSTRALIA.md",
+          "source_lines": "2-774",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_straits_settlements",
+        "name": "Straits Settlements",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/STRAITS_SETTLEMENTS.md",
+          "source_lines": "2-532",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_helena",
+        "name": "St. Helena",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/ST._HELENA.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_vincent",
+        "name": "St. Vincent",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/ST._VINCENT.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_western_australia",
+        "name": "Western Australia",
+        "type": "colony",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/WESTERN_AUSTRALIA.md",
+          "source_lines": "2-176",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_ballarat",
+        "name": "Ballarat",
+        "type": "city",
+        "parent_location": "place_victoria",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/VICTORIA.md",
+          "source_lines": "2-832",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bendigo",
+        "name": "Bendigo",
+        "type": "city",
+        "parent_location": "place_victoria",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/VICTORIA.md",
+          "source_lines": "2-832",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_geelong",
+        "name": "Geelong",
+        "type": "city",
+        "parent_location": "place_victoria",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/VICTORIA.md",
+          "source_lines": "2-832",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_edward_baynes",
+        "name": "Edward Baynes",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Commissioner",
+            "location": "Montserrat",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/EDWARD_BAYNES.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_hely_hutchinson",
+        "name": "Walter Francis Hely-Hutchinson",
+        "titles": [
+          "Sir",
+          "The Hon."
+        ],
+        "honors": [
+          "B.A.",
+          "G.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Natal",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/WALTER_FRANCIS_HELY-HUTCHINSON.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_mccallum_nfld",
+        "name": "H. McCallum",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Newfoundland",
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/H._MCCALLUM.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_brassey_victoria",
+        "name": "Lord Brassey",
+        "titles": [
+          "The Rt. Hon.",
+          "Lord"
+        ],
+        "honors": [
+          "K.C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Victoria",
+            "salary": {
+              "amount": 7900,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/LORD_BRASSEY.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_turner_victoria",
+        "name": "George Turner",
+        "titles": [
+          "The Right Hon.",
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Premier and Treasurer",
+            "location": "Victoria",
+            "salary": {
+              "amount": 1400,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/GEORGE_TURNER.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_lamington_qld",
+        "name": "Lord Lamington",
+        "titles": [
+          "Lord"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Queensland",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "allowances",
+                "description": "additional allowances"
+              }
+            ],
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/LORD_LAMINGTON.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_obrien_fiji",
+        "name": "G. T. M. O'Brien",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief and High Commissioner for the Western Pacific",
+            "location": "Fiji",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/G._T._M._O'BRIEN.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_barker_bermuda",
+        "name": "George Digby Barker",
+        "titles": [
+          "Lieut.-General"
+        ],
+        "honors": [
+          "C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Bermuda",
+            "salary": {
+              "amount": 2946,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/GEORGE_DIGBY_BARKER.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_carter_bahamas",
+        "name": "G. T. Carter",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief, Vice-Admiral and Ordinary",
+            "location": "Bahamas",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/G._T._CARTER.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_wilson_british_honduras",
+        "name": "David Wilson",
+        "titles": [],
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "British Honduras",
+            "salary": {
+              "amount": 8748,
+              "currency": "$",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/DAVID_WILSON.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_cardow_sierra_leone",
+        "name": "F. Cardow",
+        "titles": [
+          "Colonel",
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor, Commander-in-Chief, and Vice-Admiral",
+            "location": "Sierra Leone",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "allowances",
+                "amount": 500,
+                "currency": "£"
+              }
+            ],
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/F._CARDOW.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_grey_wilson_falkland",
+        "name": "W. Grey-Wilson",
+        "titles": [],
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Falkland Islands",
+            "salary": {
+              "amount": 1200,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "fees",
+                "description": "additional fees"
+              }
+            ],
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/W._GREY-WILSON.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_moor_niger",
+        "name": "R. D. R. Moor",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Commissioner and Consul-General",
+            "location": "Niger Coast Protectorate",
+            "salary": {
+              "amount": 2500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/R._D._R._MOOR.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_lugard",
+        "name": "F. D. Lugard",
+        "titles": [
+          "Col."
+        ],
+        "honors": [
+          "C.B.",
+          "D.S.O."
+        ],
+        "positions": [
+          {
+            "title": "Commissioner and Commandant",
+            "location": "Niger Coast Protectorate",
+            "salary": {
+              "amount": 1500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "duty pay",
+                "amount": 300,
+                "currency": "£"
+              }
+            ],
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/F._D._LUGARD.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_beaufort_north_borneo",
+        "name": "L. P. Beaufort",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "North Borneo",
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/L._P._BEAUFORT.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_ranfurly_nz",
+        "name": "Earl of Ranfurly",
+        "titles": [
+          "Rt. Hon."
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief and Vice-Admiral",
+            "location": "New Zealand",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/EARL_OF_RANFURLY.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_seddon_nz",
+        "name": "R. J. Seddon",
+        "titles": [
+          "Rt. Hon."
+        ],
+        "honors": [
+          "P.C."
+        ],
+        "positions": [
+          {
+            "title": "Commissioner of Trade and Customs",
+            "location": "New Zealand",
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/R._J._SEDDON.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_jerningham_trinidad",
+        "name": "H. E. H. Jerningham",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Trinidad",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/H._E._H._JERNINGHAM.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_gormanston_tasmania",
+        "name": "Viscount Gormanston",
+        "titles": [
+          "Right Hon.",
+          "Viscount"
+        ],
+        "honors": [
+          "G.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Tasmania",
+            "salary": {
+              "amount": 3500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/VISCOUNT_GORMANSTON.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_king_harman_st_lucia",
+        "name": "C. A. King Harman",
+        "titles": [],
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Administrator of the Government and Colonial Secretary",
+            "location": "St. Lucia",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "entertainment allowance",
+                "amount": 100,
+                "currency": "£"
+              }
+            ],
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/C._A._KING_HARMAN.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_lawley_rhodesia",
+        "name": "Arthur Lawley",
+        "titles": [
+          "Captain",
+          "The Hon."
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Administrator, Matabeleland",
+            "location": "Rhodesia",
+            "department": "Bulawayo",
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/ARTHUR_LAWLEY.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_minto_canada",
+        "name": "Earl of Minto",
+        "titles": [
+          "The Right Hon."
+        ],
+        "honors": [
+          "G.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor-General",
+            "location": "Dominion of Canada",
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/EARL_OF_MINTO.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_howlan_pei",
+        "name": "George W. Howlan",
+        "titles": [
+          "Esq."
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Lieutenant-Governor",
+            "location": "Prince Edward Island",
+            "salary": {
+              "amount": 7000,
+              "currency": "$",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/GEORGE_W._HOWLAN.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_daly_nova_scotia",
+        "name": "Malachy Bowes Daly",
+        "titles": [
+          "Esq."
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Lieutenant-Governor",
+            "location": "Nova Scotia",
+            "salary": {
+              "amount": 9000,
+              "currency": "$",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/MALACHY_BOWES_DALY.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_mcclelan_new_brunswick",
+        "name": "Abner Reid McClelan",
+        "titles": [
+          "Hon."
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Lieutenant-Governor",
+            "location": "New Brunswick",
+            "salary": {
+              "amount": 9000,
+              "currency": "$",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/ABNER_REID_MCCLELAN.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_isaacs_victoria",
+        "name": "I. A. Isaacs",
+        "titles": [
+          "The Hon."
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "location": "Victoria",
+            "department": "Cabinet",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/I._A._ISAACS.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_peacock_victoria",
+        "name": "Alex. J. Peacock",
+        "titles": [
+          "The Hon."
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Secretary and Minister of Education",
+            "location": "Victoria",
+            "department": "Cabinet",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/ALEX._J._PEACOCK.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_duffy_victoria",
+        "name": "John Gavan Duffy",
+        "titles": [
+          "The Hon."
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Postmaster-General",
+            "location": "Victoria",
+            "department": "Cabinet",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/JOHN_GAVAN_DUFFY.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_best_victoria",
+        "name": "R. W. Best",
+        "titles": [
+          "The Hon."
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Commissioner of Trade and Customs, and Commissioner of Crown Lands and Survey",
+            "location": "Victoria",
+            "department": "Cabinet",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/R._W._BEST.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_mcculloch_victoria",
+        "name": "W. McCulloch",
+        "titles": [
+          "The Hon."
+        ],
+        "honors": [
+          "M.L.C."
+        ],
+        "positions": [
+          {
+            "title": "Minister of Defence",
+            "location": "Victoria",
+            "department": "Cabinet",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/W._MCCULLOCH.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_foster_victoria",
+        "name": "Henry Foster",
+        "titles": [
+          "The Hon."
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Minister of Mines and Water Supply",
+            "location": "Victoria",
+            "department": "Cabinet",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/HENRY_FOSTER.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_williams_victoria",
+        "name": "H. R. Williams",
+        "titles": [
+          "The Hon."
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Minister of Railways and Health",
+            "location": "Victoria",
+            "department": "Cabinet",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/H._R._WILLIAMS.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_taverner_victoria",
+        "name": "J. W. Taverner",
+        "titles": [
+          "The Hon."
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Commissioner of Public Works, and Minister of Agriculture",
+            "location": "Victoria",
+            "department": "Cabinet",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/J._W._TAVERNER.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_cuthbert_victoria",
+        "name": "Henry Cuthbert",
+        "titles": [
+          "The Hon.",
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G.",
+          "M.L.C."
+        ],
+        "positions": [
+          {
+            "title": "Solicitor-General",
+            "location": "Victoria",
+            "department": "Cabinet",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/HENRY_CUTHBERT.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_madden_victoria",
+        "name": "John Madden",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "location": "Victoria",
+            "department": "Supreme Court",
+            "salary": {
+              "amount": 3500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/JOHN_MADDEN.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_lloyd_natal",
+        "name": "C. B. Lloyd",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Commissioner of Agriculture",
+            "location": "Natal",
+            "salary": {
+              "amount": 550,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/C._B._LLOYD.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_gray_natal",
+        "name": "C. J. Gray",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Commissioner of Mines",
+            "location": "Natal",
+            "salary": {
+              "amount": 550,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/C._J._GRAY.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_thomson_natal",
+        "name": "J. R. Thomson",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Governor of Central Gaol, Pietermaritzburg",
+            "location": "Natal",
+            "department": "Pietermaritzburg",
+            "salary": {
+              "amount": 850,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/J._R._THOMSON.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_smith_natal",
+        "name": "A. M. Smith",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Governor of Central Gaol, Durban",
+            "location": "Natal",
+            "department": "Durban",
+            "salary": {
+              "amount": 865,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1899"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/A._M._SMITH.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_qld_leg_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Queensland",
+        "composition": {
+          "description": "Upper house of Queensland Parliament",
+          "member_count": 39
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/QUEENSLAND.md",
+          "source_lines": "2-73",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_qld_leg_assembly",
+        "name": "Legislative Assembly",
+        "type": "legislative_council",
+        "location": "Queensland",
+        "composition": {
+          "description": "Lower house of Queensland Parliament",
+          "member_count": 72
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/QUEENSLAND.md",
+          "source_lines": "2-73",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_montserrat_exec_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Montserrat",
+        "composition": {
+          "description": "Executive Council of Montserrat"
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/MONTSERRAT.md",
+          "source_lines": "2-18",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_montserrat_leg_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Montserrat",
+        "composition": {
+          "description": "Legislative Council of Montserrat"
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/MONTSERRAT.md",
+          "source_lines": "2-18",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_natal_exec_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Natal",
+        "composition": {
+          "description": "Executive Council of Natal"
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NATAL.md",
+          "source_lines": "2-646",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_natal_leg_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Natal",
+        "composition": {
+          "description": "Legislative Council of Natal"
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NATAL.md",
+          "source_lines": "2-646",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_natal_leg_assembly",
+        "name": "Legislative Assembly",
+        "type": "legislative_council",
+        "location": "Natal",
+        "composition": {
+          "description": "Legislative Assembly of Natal"
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NATAL.md",
+          "source_lines": "2-646",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_nfld_leg_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Newfoundland",
+        "composition": {
+          "description": "Legislative Council of Newfoundland"
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": "2-379",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_nfld_house_assembly",
+        "name": "House of Assembly",
+        "type": "legislative_council",
+        "location": "Newfoundland",
+        "composition": {
+          "description": "House of Assembly of Newfoundland"
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": "2-379",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_nfld_exec_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Newfoundland",
+        "composition": {
+          "description": "Executive Council of Newfoundland"
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": "2-379",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_victoria_leg_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Victoria",
+        "composition": {
+          "description": "Upper House of Parliament, forty-eight Members, fourteen Provinces",
+          "member_count": 48
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/VICTORIA.md",
+          "source_lines": "2-832",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_victoria_leg_assembly",
+        "name": "Legislative Assembly",
+        "type": "legislative_council",
+        "location": "Victoria",
+        "composition": {
+          "description": "Lower House of Parliament, 95 Members returned by 84 Electoral Districts",
+          "member_count": 95
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/VICTORIA.md",
+          "source_lines": "2-832",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_victoria_supreme_court",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "Victoria",
+        "composition": {
+          "description": "Supreme Court of Victoria with Chief Justice and Puisne Judges"
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/VICTORIA.md",
+          "source_lines": "2-832",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_melbourne_harbour_trust",
+        "name": "Melbourne Harbour Trust",
+        "type": "public_works",
+        "location": "Victoria",
+        "composition": {
+          "description": "Harbour trust for Port of Melbourne, created by Act in 1876"
+        },
+        "established": "1876",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/VICTORIA.md",
+          "source_lines": "2-832",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_victoria_public_debt_1898",
+        "type": "revenue",
+        "location": "place_victoria",
+        "year": "1898",
+        "data": {
+          "category": "Public Debt",
+          "value": 47058088,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_VICTORIA.md",
+          "source_lines": "metadata",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_qld_debt_1897",
+        "type": "revenue",
+        "location": "place_queensland",
+        "year": "1897",
+        "data": {
+          "category": "Public Debt",
+          "value": 33498414,
+          "currency": "£",
+          "source": "31st December 1897"
+        },
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_QUEENSLAND.md",
+          "source_lines": "metadata",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_montserrat_exports_1897",
+        "type": "trade_export",
+        "location": "place_montserrat",
+        "year": "1897",
+        "data": {
+          "category": "Total Exports",
+          "unit": "Exports from 1888-1897"
+        },
+        "notes": "Export tables included for years 1888-1897",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_MONTSERRAT.md",
+          "source_lines": "metadata",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_montserrat_imports_1897",
+        "type": "trade_import",
+        "location": "place_montserrat",
+        "year": "1897",
+        "data": {
+          "category": "Total Imports",
+          "unit": "Imports from 1888-1897"
+        },
+        "notes": "Import tables included for years 1888-1897",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_MONTSERRAT.md",
+          "source_lines": "metadata",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_victoria_revenue_1897",
+        "type": "revenue",
+        "location": "place_victoria",
+        "year": "1897",
+        "data": {
+          "category": "Revenue",
+          "value": 6630217,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1888",
+            "value": 7607598
+          },
+          {
+            "year": "1889",
+            "value": 8675990
+          },
+          {
+            "year": "1890",
+            "value": 8519159
+          },
+          {
+            "year": "1891",
+            "value": 8343588
+          },
+          {
+            "year": "1892",
+            "value": 7729572
+          },
+          {
+            "year": "1893",
+            "value": 6959229
+          },
+          {
+            "year": "1894",
+            "value": 6716814
+          },
+          {
+            "year": "1895",
+            "value": 6712152
+          },
+          {
+            "year": "1896",
+            "value": 6458682
+          },
+          {
+            "year": "1897",
+            "value": 6630217
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_VICTORIA.md",
+          "source_lines": "metadata",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_victoria_expenditure_1897",
+        "type": "expenditure",
+        "location": "place_victoria",
+        "year": "1897",
+        "data": {
+          "category": "Expenditure",
+          "value": 6568932,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1888",
+            "value": 7287151
+          },
+          {
+            "year": "1889",
+            "value": 7919902
+          },
+          {
+            "year": "1890",
+            "value": 9645737
+          },
+          {
+            "year": "1891",
+            "value": 9128699
+          },
+          {
+            "year": "1892",
+            "value": 8482917
+          },
+          {
+            "year": "1893",
+            "value": 7989757
+          },
+          {
+            "year": "1894",
+            "value": 7310246
+          },
+          {
+            "year": "1895",
+            "value": 6700439
+          },
+          {
+            "year": "1896",
+            "value": 6540182
+          },
+          {
+            "year": "1897",
+            "value": 6568932
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_VICTORIA.md",
+          "source_lines": "metadata",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_victoria_customs_excise_1897",
+        "type": "revenue",
+        "location": "place_victoria",
+        "year": "1896-97",
+        "data": {
+          "category": "Customs and Excise Revenue",
+          "value": 2059217,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_VICTORIA.md",
+          "source_lines": "metadata",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_victoria_shipping_1897",
+        "type": "shipping",
+        "location": "place_victoria",
+        "year": "1897",
+        "data": {
+          "category": "British Tonnage",
+          "value": 4187021,
+          "unit": "tons"
+        },
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_VICTORIA.md",
+          "source_lines": "metadata",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_natal_railway",
+        "type": "railway",
+        "location": "place_natal",
+        "specifications": {
+          "length": {
+            "value": 475.5,
+            "unit": "miles"
+          }
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_NATAL.md",
+          "source_lines": "metadata",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_natal_telegraph",
+        "type": "telegraph",
+        "location": "place_natal",
+        "specifications": {
+          "length": {
+            "value": 801.5,
+            "unit": "miles"
+          }
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_NATAL.md",
+          "source_lines": "metadata",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_victoria_railway",
+        "type": "railway",
+        "location": "place_victoria",
+        "specifications": {
+          "length": {
+            "value": 3130,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 8825517,
+            "currency": "£"
+          },
+          "annual_revenue": {
+            "value": 6159935,
+            "currency": "£",
+            "year": "1896-97"
+          },
+          "annual_expenses": {
+            "value": 1563805,
+            "currency": "£",
+            "year": "1896-97"
+          }
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_VICTORIA.md",
+          "source_lines": "metadata",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_victoria_telegraph",
+        "type": "telegraph",
+        "location": "place_victoria",
+        "specifications": {
+          "length": {
+            "value": 6947,
+            "unit": "miles"
+          }
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_VICTORIA.md",
+          "source_lines": "metadata",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_victoria_telephone",
+        "type": "telegraph",
+        "name": "Telephone system",
+        "location": "place_victoria",
+        "specifications": {
+          "length": {
+            "value": 10514,
+            "unit": "miles of telephone wire"
+          },
+          "stations": 13,
+          "capacity": "3,088 subscribers"
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_VICTORIA.md",
+          "source_lines": "metadata",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_melbourne_harbour",
+        "type": "harbor",
+        "name": "Melbourne Harbour",
+        "location": "place_melbourne",
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_MELBOURNE.md",
+          "source_lines": "metadata",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_melbourne_tramways",
+        "type": "railway",
+        "name": "Melbourne Tramways",
+        "location": "place_melbourne",
+        "specifications": {
+          "construction_cost": {
+            "value": 1705794,
+            "currency": "£"
+          }
+        },
+        "year": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_MELBOURNE.md",
+          "source_lines": "metadata",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_montserrat_1899",
+        "location": "place_montserrat",
+        "year": "1899",
+        "total_population": 11762,
+        "breakdowns": [
+          {
+            "category": "Plymouth population",
+            "count": 1500
+          },
+          {
+            "category": "Census 1881",
+            "count": 10088
+          },
+          {
+            "category": "Census 1891",
+            "count": 11762
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_MONTSERRAT.md",
+          "source_lines": "metadata",
+          "source_section": "Population",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_pietermaritzburg",
+        "location": "place_pietermaritzburg",
+        "year": "1899",
+        "total_population": 24595,
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_PIETERMARITZBURG.md",
+          "source_lines": "metadata",
+          "source_section": "Population",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_durban",
+        "location": "place_durban",
+        "year": "1899",
+        "total_population": 39245,
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_DURBAN.md",
+          "source_lines": "metadata",
+          "source_section": "Population",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_st_johns_nfld",
+        "location": "place_st_johns_nfld",
+        "year": "1899",
+        "total_population": 29007,
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_ST_JOHNS_NFLD.md",
+          "source_lines": "metadata",
+          "source_section": "Population",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_newfoundland_1891",
+        "location": "place_newfoundland",
+        "year": "1891",
+        "census_date": "1891",
+        "total_population": 202040,
+        "breakdowns": [
+          {
+            "category": "Census 1884",
+            "count": 197355
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_NEWFOUNDLAND.md",
+          "source_lines": "metadata",
+          "source_section": "Population",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_melbourne_1897",
+        "location": "place_melbourne",
+        "year": "1897",
+        "total_population": 458610,
+        "breakdowns": [],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_MELBOURNE.md",
+          "source_lines": "metadata",
+          "source_section": "Population",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_victoria_1897",
+        "location": "place_victoria",
+        "year": "1897",
+        "census_date": "31st December, 1897",
+        "total_population": 1176248,
+        "breakdowns": [
+          {
+            "category": "Males",
+            "count": 595409
+          },
+          {
+            "category": "Females",
+            "count": 580839
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_VICTORIA.md",
+          "source_lines": "metadata",
+          "source_section": "Population",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_tristan_1897",
+        "location": "place_tristan_dacunha",
+        "year": "1897",
+        "census_date": "November, 1897",
+        "total_population": 64,
+        "breakdowns": [],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_TRISTAN_DACUNHA.md",
+          "source_lines": "metadata",
+          "source_section": "Population",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_victoria_cities_1897",
+        "location": "place_victoria",
+        "year": "1897",
+        "breakdowns": [
+          {
+            "category": "Ballarat",
+            "count": 46137
+          },
+          {
+            "category": "Bendigo",
+            "count": 43075
+          },
+          {
+            "category": "Geelong",
+            "count": 24807
+          },
+          {
+            "category": "Warrnambool",
+            "count": 6600
+          },
+          {
+            "category": "Castlemaine",
+            "count": 6932
+          },
+          {
+            "category": "Stawell",
+            "count": 5556
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/PLACE_VICTORIA.md",
+          "source_lines": "metadata",
+          "source_section": "Population",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_zululand_annexation",
+        "date": "November 1897",
+        "type": "transfer",
+        "description": "Annexation of Zululand to Natal",
+        "locations": [
+          "place_natal"
+        ],
+        "year_mentioned": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_nfld_discovery",
+        "date": "1497",
+        "type": "other",
+        "description": "Discovered by John Cabot",
+        "locations": [
+          "place_newfoundland"
+        ],
+        "year_mentioned": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_wei_hai_wei_lease",
+        "date": "1st July, 1898",
+        "type": "treaty",
+        "description": "Convention between the United Kingdom and China, leasing Wei-hai-wei to Great Britain for as long as Port Arthur remains in occupation of Russia",
+        "locations": [
+          "place_wei_hai_wei"
+        ],
+        "year_mentioned": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_victoria_separation",
+        "date": "1st July, 1851",
+        "type": "establishment",
+        "description": "Victoria separated from New South Wales and created as a separate colony",
+        "locations": [
+          "place_victoria"
+        ],
+        "year_mentioned": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_victoria_constitution",
+        "date": "23rd November, 1855",
+        "type": "constitutional_change",
+        "description": "New constitution proclaimed, giving responsible government to the colony",
+        "locations": [
+          "place_victoria"
+        ],
+        "year_mentioned": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_victoria_gold_discovery",
+        "date": "1851",
+        "type": "other",
+        "description": "Rich deposits of gold discovered, leading to great influx of population",
+        "locations": [
+          "place_victoria"
+        ],
+        "year_mentioned": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_ballarat_rebellion",
+        "date": "end of 1854",
+        "type": "rebellion",
+        "description": "Riots on the Ballarat goldfield due to oppressive mining regulations, quelled with bloodshed on both sides",
+        "locations": [
+          "place_ballarat"
+        ],
+        "year_mentioned": "1899",
+        "provenance": {
+          "source_file": "output_2/1899_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_edward_baynes",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_montserrat",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "person_hely_hutchinson",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_natal",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "person_lamington_qld",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_queensland",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "person_obrien_fiji",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_fiji",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "place_plymouth_montserrat",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_montserrat",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "place_pietermaritzburg",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_natal",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "place_durban",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_natal",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "place_labrador",
+      "relationship_type": "PART_OF",
+      "target_id": "place_newfoundland",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "place_melbourne",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_victoria",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "place_prince_edward_island",
+      "relationship_type": "PART_OF",
+      "target_id": "place_dominion_of_canada",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "place_nova_scotia",
+      "relationship_type": "PART_OF",
+      "target_id": "place_dominion_of_canada",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "place_new_brunswick",
+      "relationship_type": "PART_OF",
+      "target_id": "place_dominion_of_canada",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "person_turner_victoria",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_victoria",
+      "properties": {
+        "year": "1899",
+        "context": "Premier"
+      }
+    },
+    {
+      "source_id": "person_brassey_victoria",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_victoria",
+      "properties": {
+        "year": "1899",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "place_ballarat",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_victoria",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "place_bendigo",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_victoria",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "place_geelong",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_victoria",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "inst_victoria_leg_council",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_victoria",
+      "properties": {
+        "year": "1899"
+      }
+    },
+    {
+      "source_id": "inst_victoria_leg_assembly",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_victoria",
+      "properties": {
+        "year": "1899"
+      }
+    }
+  ]
+}

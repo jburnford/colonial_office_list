@@ -1,0 +1,3196 @@
+{
+  "metadata": {
+    "source": "Colonial Office List 1883",
+    "year": "1883",
+    "extraction_date": "2025-11-16",
+    "methodology": "Comprehensive extraction from manual parsed colony files",
+    "files_processed": 34,
+    "completeness": "Substantial coverage of British colonial possessions in 1883",
+    "source_directory": "output_2/1883"
+  },
+  "geographic_entities": [
+    {
+      "id": "jamaica_1883",
+      "type": "colony",
+      "name": "Jamaica",
+      "modern_name": "Jamaica",
+      "coordinates": {
+        "latitude": "18° 10' N",
+        "longitude": "77° 30' W"
+      },
+      "area": {
+        "value": 4200,
+        "unit": "square miles"
+      },
+      "description": "Island in the Caribbean Sea, discovered by Columbus in 1494, conquered by England in 1655",
+      "capital": "Kingston",
+      "discovery_date": "1494",
+      "discovery_by": "Christopher Columbus",
+      "british_acquisition": "1655",
+      "acquisition_method": "Military conquest from Spain"
+    },
+    {
+      "id": "bahamas_1883",
+      "type": "colony",
+      "name": "Bahamas",
+      "modern_name": "The Bahamas",
+      "coordinates": {
+        "latitude": "24° - 27° N",
+        "longitude": "74° - 79° W"
+      },
+      "area": {
+        "value": 4424,
+        "unit": "square miles"
+      },
+      "description": "Group of islands discovered by Columbus 1492, ceded to proprietors 1670",
+      "capital": "Nassau",
+      "discovery_date": "12 October 1492",
+      "discovery_by": "Christopher Columbus",
+      "british_acquisition": "1670"
+    },
+    {
+      "id": "barbados_1883",
+      "type": "colony",
+      "name": "Barbados",
+      "modern_name": "Barbados",
+      "coordinates": {
+        "latitude": "13° 4' N",
+        "longitude": "59° 37' W"
+      },
+      "area": {
+        "value": 166,
+        "unit": "square miles"
+      },
+      "description": "Most windward of the Caribbean islands, first settled by English 1605, formally colonized 1625",
+      "capital": "Bridgetown",
+      "british_acquisition": "1625"
+    },
+    {
+      "id": "bermuda_1883",
+      "type": "colony",
+      "name": "Bermuda",
+      "modern_name": "Bermuda",
+      "coordinates": {
+        "latitude": "32° 20' N",
+        "longitude": "64° 45' W"
+      },
+      "area": {
+        "value": 12250,
+        "unit": "acres"
+      },
+      "description": "Group of islands discovered by Juan Bermudez 1522, colonized by English 1609",
+      "capital": "Hamilton",
+      "discovery_date": "1522",
+      "discovery_by": "Juan Bermudez",
+      "british_acquisition": "1609"
+    },
+    {
+      "id": "british_guiana_1883",
+      "type": "colony",
+      "name": "British Guiana",
+      "modern_name": "Guyana",
+      "coordinates": {
+        "latitude": "1° - 8° 30' N",
+        "longitude": "56° 30' - 61° W"
+      },
+      "area": {
+        "value": 76000,
+        "unit": "square miles (estimated)"
+      },
+      "description": "On north-east coast of South America, formerly Dutch colonies ceded to Britain 1814",
+      "capital": "Georgetown",
+      "british_acquisition": "1814",
+      "acquisition_method": "Treaty of Paris, from Netherlands"
+    },
+    {
+      "id": "british_honduras_1883",
+      "type": "colony",
+      "name": "British Honduras",
+      "modern_name": "Belize",
+      "coordinates": {
+        "latitude": "15° 53' - 18° 30' N",
+        "longitude": "87° 28' - 89° 30' W"
+      },
+      "area": {
+        "value": 7562,
+        "unit": "square miles"
+      },
+      "description": "On eastern coast of Central America, British settlement since 17th century",
+      "capital": "Belize",
+      "british_acquisition": "17th century"
+    },
+    {
+      "id": "cape_of_good_hope_1883",
+      "type": "colony",
+      "name": "Cape of Good Hope",
+      "modern_name": "Cape Province, South Africa",
+      "area": {
+        "value": 219530,
+        "unit": "square miles (estimated)"
+      },
+      "description": "Southern tip of Africa, discovered by Portuguese, captured from Dutch 1795-1806",
+      "capital": "Cape Town",
+      "discovery_by": "Bartolomeu Dias (1487)",
+      "british_acquisition": "1806"
+    },
+    {
+      "id": "ceylon_1883",
+      "type": "colony",
+      "name": "Ceylon",
+      "modern_name": "Sri Lanka",
+      "coordinates": {
+        "latitude": "5° 55' - 9° 51' N",
+        "longitude": "79° 42' - 81° 53' E"
+      },
+      "area": {
+        "value": 24702,
+        "unit": "square miles"
+      },
+      "description": "Island south of India, ceded by Dutch 1796, confirmed British possession 1815",
+      "capital": "Colombo",
+      "british_acquisition": "1796"
+    },
+    {
+      "id": "cyprus_1883",
+      "type": "colony",
+      "name": "Cyprus",
+      "modern_name": "Cyprus",
+      "coordinates": {
+        "latitude": "35° N",
+        "longitude": "33° E"
+      },
+      "area": {
+        "value": 3584,
+        "unit": "square miles"
+      },
+      "description": "Island in eastern Mediterranean, assigned to Britain by Turkey for occupation and administration 1878",
+      "capital": "Nicosia",
+      "british_acquisition": "1878",
+      "acquisition_method": "Convention with Ottoman Empire"
+    },
+    {
+      "id": "falkland_islands_1883",
+      "type": "colony",
+      "name": "Falkland Islands",
+      "modern_name": "Falkland Islands",
+      "coordinates": {
+        "latitude": "51° 40' - 52° 30' S",
+        "longitude": "57° 40' - 61° 20' W"
+      },
+      "area": {
+        "value": 6500,
+        "unit": "square miles (estimated)"
+      },
+      "description": "Group of islands in South Atlantic, British possession established 1833",
+      "capital": "Stanley",
+      "british_acquisition": "1833"
+    },
+    {
+      "id": "fiji_1883",
+      "type": "colony",
+      "name": "Fiji",
+      "modern_name": "Fiji",
+      "coordinates": {
+        "latitude": "15° - 20° S",
+        "longitude": "177° E - 178° W"
+      },
+      "description": "Group of islands in South Pacific, ceded to Britain by native chiefs 1874",
+      "capital": "Levuka",
+      "british_acquisition": "1874",
+      "acquisition_method": "Cession by King Cakobau"
+    },
+    {
+      "id": "gambia_1883",
+      "type": "colony",
+      "name": "Gambia",
+      "modern_name": "The Gambia",
+      "description": "British settlement on Gambia River, West Africa",
+      "british_acquisition": "1816"
+    },
+    {
+      "id": "gibraltar_1883",
+      "type": "colony",
+      "name": "Gibraltar",
+      "modern_name": "Gibraltar",
+      "coordinates": {
+        "latitude": "36° 7' N",
+        "longitude": "5° 21' W"
+      },
+      "area": {
+        "value": 2.25,
+        "unit": "square miles"
+      },
+      "description": "Fortress at southern tip of Spain, captured 1704, ceded by Spain 1713",
+      "british_acquisition": "1704",
+      "acquisition_method": "Military conquest, confirmed by Treaty of Utrecht 1713"
+    },
+    {
+      "id": "gold_coast_1883",
+      "type": "colony",
+      "name": "Gold Coast Colony",
+      "modern_name": "Ghana",
+      "description": "British possessions on West African coast",
+      "capital": "Cape Coast Castle"
+    },
+    {
+      "id": "grenada_1883",
+      "type": "colony",
+      "name": "Grenada",
+      "modern_name": "Grenada",
+      "coordinates": {
+        "latitude": "12° 7' N",
+        "longitude": "61° 40' W"
+      },
+      "area": {
+        "value": 133,
+        "unit": "square miles"
+      },
+      "description": "Island discovered by Columbus 1498, ceded to Britain by France 1763",
+      "capital": "St. George's",
+      "discovery_date": "1498",
+      "discovery_by": "Christopher Columbus",
+      "british_acquisition": "1763"
+    },
+    {
+      "id": "heligoland_1883",
+      "type": "colony",
+      "name": "Heligoland",
+      "modern_name": "Helgoland, Germany",
+      "coordinates": {
+        "latitude": "54° 11' N",
+        "longitude": "7° 53' E"
+      },
+      "area": {
+        "value": 0.2,
+        "unit": "square miles"
+      },
+      "description": "Small island in North Sea, captured from Denmark 1807, ceded 1814",
+      "british_acquisition": "1807"
+    },
+    {
+      "id": "hong_kong_1883",
+      "type": "colony",
+      "name": "Hong Kong",
+      "modern_name": "Hong Kong SAR, China",
+      "coordinates": {
+        "latitude": "22° 9' - 22° 37' N",
+        "longitude": "113° 52' - 114° 30' E"
+      },
+      "description": "Island and territory on south coast of China, ceded 1842, Kowloon added 1860",
+      "british_acquisition": "1842",
+      "acquisition_method": "Treaty of Nanking"
+    },
+    {
+      "id": "labuan_1883",
+      "type": "colony",
+      "name": "Labuan",
+      "modern_name": "Labuan, Malaysia",
+      "coordinates": {
+        "latitude": "5° 17' N",
+        "longitude": "115° 14' E"
+      },
+      "area": {
+        "value": 30,
+        "unit": "square miles"
+      },
+      "description": "Island off north-west coast of Borneo, ceded by Sultan of Brunei 1846",
+      "british_acquisition": "1846"
+    },
+    {
+      "id": "lagos_1883",
+      "type": "colony",
+      "name": "Lagos",
+      "modern_name": "Lagos, Nigeria",
+      "description": "Settlement on West African coast, ceded by local chiefs",
+      "british_acquisition": "1861"
+    },
+    {
+      "id": "leeward_islands_1883",
+      "type": "colony_federation",
+      "name": "Leeward Islands",
+      "modern_name": "Eastern Caribbean islands",
+      "description": "Federal colony established 1871 comprising Antigua, Montserrat, St. Kitts, Nevis, Dominica, and Virgin Islands",
+      "capital": "Antigua",
+      "establishment_date": "1871",
+      "constituent_territories": [
+        "Antigua",
+        "Montserrat",
+        "St. Kitts",
+        "Nevis",
+        "Dominica",
+        "Virgin Islands"
+      ]
+    },
+    {
+      "id": "antigua_1883",
+      "type": "territory",
+      "name": "Antigua",
+      "parent_colony": "leeward_islands_1883",
+      "modern_name": "Antigua and Barbuda",
+      "coordinates": {
+        "latitude": "17° 6' N",
+        "longitude": "61° 45' W"
+      },
+      "area": {
+        "value": 108,
+        "unit": "square miles"
+      },
+      "circumference": {
+        "value": 54,
+        "unit": "miles"
+      },
+      "description": "Discovered by Columbus 1493, inhabited by English from 1632, granted to Lord Willoughby 1663",
+      "discovery_date": "1493",
+      "discovery_by": "Christopher Columbus",
+      "british_acquisition": "1632"
+    },
+    {
+      "id": "montserrat_1883",
+      "type": "territory",
+      "name": "Montserrat",
+      "parent_colony": "leeward_islands_1883",
+      "modern_name": "Montserrat",
+      "coordinates": {
+        "latitude": "16° 45' N",
+        "longitude": "61° W"
+      },
+      "dimensions": {
+        "length": {
+          "value": 12,
+          "unit": "miles"
+        },
+        "breadth": {
+          "value": 8,
+          "unit": "miles"
+        }
+      },
+      "description": "Discovered by Spanish navigator 1493, colonized by English 1632",
+      "discovery_date": "1493",
+      "british_acquisition": "1632"
+    },
+    {
+      "id": "mauritius_1883",
+      "type": "colony",
+      "name": "Mauritius",
+      "modern_name": "Mauritius",
+      "coordinates": {
+        "latitude": "19° 58' - 20° 32' S",
+        "longitude": "57° 17' - 57° 46' E"
+      },
+      "area": {
+        "value": 708,
+        "unit": "square miles"
+      },
+      "dimensions": {
+        "length": {
+          "value": 36,
+          "unit": "miles"
+        },
+        "breadth": {
+          "value": 28,
+          "unit": "miles"
+        }
+      },
+      "description": "Island in Indian Ocean, discovered by Portuguese 1507, occupied by Dutch 1598, French 1715, captured by Britain 1810",
+      "capital": "Port Louis",
+      "discovery_date": "1507",
+      "british_acquisition": "1810",
+      "acquisition_method": "Military conquest, confirmed by Treaty of Paris 1814"
+    },
+    {
+      "id": "natal_1883",
+      "type": "colony",
+      "name": "Natal",
+      "modern_name": "KwaZulu-Natal, South Africa",
+      "coordinates": {
+        "latitude": "29° - 31° S"
+      },
+      "area": {
+        "value": 13500000,
+        "unit": "acres"
+      },
+      "seaboard": {
+        "value": 170,
+        "unit": "miles"
+      },
+      "description": "Colony on south-east coast of Africa, discovered by Vasco da Gama Christmas Day 1497",
+      "capital": "Pietermaritzburg",
+      "discovery_date": "25 December 1497",
+      "discovery_by": "Vasco da Gama",
+      "british_acquisition": "1843"
+    },
+    {
+      "id": "newfoundland_1883",
+      "type": "colony",
+      "name": "Newfoundland",
+      "modern_name": "Newfoundland and Labrador, Canada",
+      "coordinates": {
+        "latitude": "48° 37' - 51° 39' N",
+        "longitude": "52° 35' - 59° 25' W"
+      },
+      "area": {
+        "value": 40200,
+        "unit": "square miles"
+      },
+      "dimensions": {
+        "length": {
+          "value": 350,
+          "unit": "miles"
+        },
+        "breadth": {
+          "value": 130,
+          "unit": "miles (average)"
+        }
+      },
+      "description": "Island discovered by John Cabot 1497, exclusive sovereignty ceded to Britain by France 1713",
+      "capital": "St. John's",
+      "discovery_date": "1497",
+      "discovery_by": "John Cabot",
+      "british_acquisition": "1713"
+    },
+    {
+      "id": "sierra_leone_1883",
+      "type": "colony",
+      "name": "Sierra Leone",
+      "modern_name": "Sierra Leone",
+      "coordinates": {
+        "latitude": "8° 30' N",
+        "longitude": "13° 18' W"
+      },
+      "area": {
+        "value": 300,
+        "unit": "square miles"
+      },
+      "description": "Peninsula on West African coast, ceded to Britain by native chiefs 1787",
+      "capital": "Freetown",
+      "british_acquisition": "1787"
+    },
+    {
+      "id": "st_helena_1883",
+      "type": "colony",
+      "name": "St. Helena",
+      "modern_name": "Saint Helena",
+      "coordinates": {
+        "latitude": "15° 55' S",
+        "longitude": "5° 42' W"
+      },
+      "description": "Island in South Atlantic, discovered by Portuguese 1502, occupied by English East India Company 1651",
+      "discovery_date": "1502",
+      "british_acquisition": "1651"
+    },
+    {
+      "id": "st_lucia_1883",
+      "type": "colony",
+      "name": "St. Lucia",
+      "modern_name": "Saint Lucia",
+      "coordinates": {
+        "latitude": "13° 50' N",
+        "longitude": "60° 58' W"
+      },
+      "area": {
+        "value": 158620,
+        "unit": "acres"
+      },
+      "dimensions": {
+        "length": {
+          "value": 42,
+          "unit": "miles"
+        },
+        "breadth": {
+          "value": 21,
+          "unit": "miles"
+        },
+        "circumference": {
+          "value": 150,
+          "unit": "miles"
+        }
+      },
+      "description": "Island discovered by Columbus 1502, contested between England and France, finally ceded to Britain 1814",
+      "capital": "Castries",
+      "discovery_date": "15 June 1502",
+      "discovery_by": "Christopher Columbus",
+      "british_acquisition": "1814"
+    },
+    {
+      "id": "st_vincent_1883",
+      "type": "colony",
+      "name": "St. Vincent",
+      "modern_name": "Saint Vincent and the Grenadines",
+      "coordinates": {
+        "latitude": "13° 10' N",
+        "longitude": "60° 57' W"
+      },
+      "area": {
+        "value": 85000,
+        "unit": "acres"
+      },
+      "dimensions": {
+        "length": {
+          "value": 18,
+          "unit": "miles"
+        },
+        "breadth": {
+          "value": 11,
+          "unit": "miles"
+        }
+      },
+      "description": "Island discovered by Columbus 1498, ceded to Britain by France 1763",
+      "capital": "Kingstown",
+      "discovery_date": "22 January 1498",
+      "discovery_by": "Christopher Columbus",
+      "british_acquisition": "1763"
+    },
+    {
+      "id": "straits_settlements_1883",
+      "type": "colony",
+      "name": "Straits Settlements",
+      "modern_name": "Singapore, Penang, Malacca (Malaysia/Singapore)",
+      "description": "British possessions in Malay Peninsula comprising Singapore, Penang, Malacca, and dependencies",
+      "capital": "Singapore"
+    },
+    {
+      "id": "tobago_1883",
+      "type": "colony",
+      "name": "Tobago",
+      "modern_name": "Tobago, Trinidad and Tobago",
+      "coordinates": {
+        "latitude": "11° 9' N",
+        "longitude": "60° 12' W"
+      },
+      "area": {
+        "value": 114,
+        "unit": "square miles"
+      },
+      "dimensions": {
+        "length": {
+          "value": 32,
+          "unit": "miles"
+        },
+        "breadth": {
+          "value": "6-12",
+          "unit": "miles"
+        }
+      },
+      "description": "Island discovered by Columbus 1498, contested by multiple powers, finally ceded to Britain 1814",
+      "capital": "Scarborough",
+      "discovery_date": "1498",
+      "discovery_by": "Christopher Columbus",
+      "british_acquisition": "1814"
+    },
+    {
+      "id": "trinidad_1883",
+      "type": "colony",
+      "name": "Trinidad",
+      "modern_name": "Trinidad, Trinidad and Tobago",
+      "coordinates": {
+        "latitude": "10° 3' - 10° 50' N",
+        "longitude": "61° 39' - 62° W"
+      },
+      "area": {
+        "value": 1754,
+        "unit": "square miles"
+      },
+      "description": "Island discovered by Columbus 1498, Spanish colony until captured by Britain 1797, ceded 1802",
+      "capital": "Port of Spain",
+      "discovery_date": "21 July 1498",
+      "discovery_by": "Christopher Columbus",
+      "british_acquisition": "1797",
+      "acquisition_method": "Military conquest from Spain, confirmed by Treaty of Amiens 1802"
+    },
+    {
+      "id": "turks_caicos_1883",
+      "type": "dependency",
+      "name": "Turks and Caicos Islands",
+      "modern_name": "Turks and Caicos Islands",
+      "parent_colony": "jamaica_1883",
+      "description": "Group of islands dependency of Jamaica"
+    }
+  ],
+  "people": [
+    {
+      "id": "glover_john_hawley_1883",
+      "name": "Sir John Hawley Glover",
+      "full_name": "Sir John Hawley Glover, R.M.L.I., G.C.M.G.",
+      "honors": [
+        "R.M.L.I.",
+        "G.C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor",
+          "organization": "Leeward Islands",
+          "salary": {
+            "amount": 3000,
+            "currency": "£"
+          },
+          "start_date": "1881"
+        }
+      ]
+    },
+    {
+      "id": "gorrie_john_1883",
+      "name": "Sir John Gorrie",
+      "full_name": "Sir John Gorrie, Kt.",
+      "honors": [
+        "Kt."
+      ],
+      "positions": [
+        {
+          "title": "Chief Justice of the Supreme Court",
+          "organization": "Leeward Islands",
+          "salary": {
+            "amount": 1500,
+            "currency": "£"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jackson_william_1883",
+      "name": "Right Rev. W. W. Jackson",
+      "full_name": "Right Rev. W. W. Jackson, D.D.",
+      "honors": [
+        "D.D."
+      ],
+      "positions": [
+        {
+          "title": "Bishop of Antigua",
+          "organization": "Church of England",
+          "salary": {
+            "amount": 2000,
+            "currency": "£"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hennessy_john_1883",
+      "name": "Sir John Pope Hennessy",
+      "full_name": "Sir John Pope Hennessy, K.C.M.G.",
+      "honors": [
+        "K.C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor and Commander-in-Chief",
+          "organization": "Mauritius",
+          "salary": {
+            "amount": 60000,
+            "currency": "Rs."
+          },
+          "notes": "on leave in 1883"
+        }
+      ]
+    },
+    {
+      "id": "bulwer_henry_1883",
+      "name": "Sir Henry Ernest Bulwer",
+      "full_name": "Sir Henry Ernest Bulwer, K.C.M.G.",
+      "honors": [
+        "K.C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor",
+          "organization": "Natal",
+          "salary": {
+            "amount": 4000,
+            "currency": "£"
+          }
+        }
+      ]
+    },
+    {
+      "id": "connor_henry_1883",
+      "name": "Sir Henry Connor",
+      "full_name": "Sir Henry Connor, Kt.",
+      "honors": [
+        "Kt."
+      ],
+      "positions": [
+        {
+          "title": "Chief Justice",
+          "organization": "Natal",
+          "salary": {
+            "amount": 1200,
+            "currency": "£"
+          }
+        }
+      ]
+    },
+    {
+      "id": "maxse_berkeley_1883",
+      "name": "Sir H. F. Berkeley Maxse",
+      "full_name": "Lieutenant-Colonel Sir H. F. Berkeley Maxse, K.C.M.G.",
+      "honors": [
+        "K.C.M.G."
+      ],
+      "military_rank": "Lieutenant-Colonel",
+      "positions": [
+        {
+          "title": "Governor, Commander-in-Chief, and Vice-Admiral",
+          "organization": "Newfoundland",
+          "salary": {
+            "amount": 2500,
+            "currency": "$",
+            "british_sterling": 12000
+          }
+        }
+      ]
+    },
+    {
+      "id": "whiteway_william_1883",
+      "name": "Sir W. V. Whiteway",
+      "full_name": "Sir W. V. Whiteway, K.C.M.G., Q.C.",
+      "honors": [
+        "K.C.M.G.",
+        "Q.C."
+      ],
+      "positions": [
+        {
+          "title": "Premier and Attorney-General",
+          "organization": "Newfoundland",
+          "salary": {
+            "amount": 2400,
+            "currency": "$"
+          }
+        }
+      ]
+    },
+    {
+      "id": "havelock_arthur_1883",
+      "name": "Arthur Elibank Havelock",
+      "full_name": "Arthur Elibank Havelock, C.M.G.",
+      "honors": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor, Commander-in-Chief, and Vice-Admiral",
+          "organization": "West Africa Settlements",
+          "salary": {
+            "amount": 2000,
+            "currency": "£"
+          },
+          "allowances": {
+            "amount": 500,
+            "currency": "£"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pinkett_francis_1883",
+      "name": "F. F. Pinkett",
+      "positions": [
+        {
+          "title": "Chief Justice and Judge of the Vice-Admiralty Court, and Legal Adviser",
+          "organization": "Sierra Leone",
+          "salary": {
+            "amount": 1500,
+            "currency": "£"
+          }
+        }
+      ]
+    },
+    {
+      "id": "freeling_sanford_1883",
+      "name": "Sir Sanford Freeling",
+      "full_name": "Sir Sanford Freeling, K.C.M.G.",
+      "honors": [
+        "K.C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor and Commander-in-Chief",
+          "organization": "Trinidad"
+        }
+      ]
+    },
+    {
+      "id": "needham_j_1883",
+      "name": "Sir J. Needham",
+      "positions": [
+        {
+          "title": "Chief Justice",
+          "organization": "Trinidad",
+          "salary": {
+            "amount": 1800,
+            "currency": "£"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bushe_scott_1883",
+      "name": "J. Scott Bushe",
+      "full_name": "J. Scott Bushe, C.M.G.",
+      "honors": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Colonial Secretary",
+          "organization": "Trinidad"
+        }
+      ]
+    },
+    {
+      "id": "laborde_edward_1883",
+      "name": "Edward Laborde",
+      "positions": [
+        {
+          "title": "Administrator and Colonial Secretary",
+          "organization": "Tobago",
+          "salary": {
+            "amount": 800,
+            "currency": "£"
+          }
+        }
+      ]
+    },
+    {
+      "id": "carrington_worrell_1883",
+      "name": "J. Worrell Carrington",
+      "full_name": "J. Worrell Carrington, D.C.L.",
+      "honors": [
+        "D.C.L."
+      ],
+      "positions": [
+        {
+          "title": "Chief Justice",
+          "organization": "St. Lucia",
+          "salary": {
+            "amount": 700,
+            "currency": "£"
+          }
+        },
+        {
+          "title": "Chief Justice and Judge of the Vice-Admiralty Court",
+          "organization": "Tobago",
+          "salary": {
+            "amount": 350,
+            "currency": "£"
+          },
+          "notes": "with travelling expenses"
+        }
+      ]
+    },
+    {
+      "id": "goldsworthy_roger_1883",
+      "name": "Roger Tuckfield Goldsworthy",
+      "full_name": "Roger Tuckfield Goldsworthy, C.M.G.",
+      "honors": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Administrator of the Government and Colonial Secretary",
+          "organization": "St. Lucia",
+          "salary": {
+            "amount": 800,
+            "currency": "£"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gore_augustus_1883",
+      "name": "Augustus F. Gore",
+      "full_name": "Augustus F. Gore, C.M.G.",
+      "honors": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Lieutenant-Governor",
+          "organization": "St. Vincent",
+          "salary": {
+            "amount": 1000,
+            "currency": "£"
+          }
+        }
+      ]
+    },
+    {
+      "id": "trafford_g_1883",
+      "name": "G. Trafford",
+      "positions": [
+        {
+          "title": "Chief Justice, Vice-Chancellor, and Judge of Vice-Admiralty Court",
+          "organization": "St. Vincent",
+          "salary": {
+            "amount": 800,
+            "currency": "£"
+          }
+        }
+      ]
+    }
+  ],
+  "institutions": [
+    {
+      "id": "leeward_executive_council_1883",
+      "type": "executive_council",
+      "name": "Executive Council",
+      "colony": "leeward_islands_1883",
+      "composition": [
+        "The Governor",
+        "The Colonial Secretary",
+        "The Attorney-General",
+        "The Auditor-General",
+        "A. W. Moir, C.M.G., President of St. Kitts",
+        "Sir Oliver Nugent",
+        "C. M. Eldridge, President of Dominica",
+        "Neale Porter, President of Montserrat",
+        "Captain J. Spencer-Churchill, Acting President of Nevis",
+        "Thomas D. Foote"
+      ],
+      "clerk": "Edward Baynes"
+    },
+    {
+      "id": "leeward_legislative_council_1883",
+      "type": "legislative_council",
+      "name": "General Legislative Council",
+      "colony": "leeward_islands_1883",
+      "composition": {
+        "official_members": 4,
+        "elective_members": 9,
+        "non_elective_members": 9,
+        "total": 18
+      },
+      "members": {
+        "official": [
+          "Thomas D. Foote, President",
+          "The Colonial Secretary",
+          "The Attorney-General",
+          "The Auditor-General"
+        ],
+        "elective_antigua": [
+          "Thomas Baynes",
+          "G. Holborow",
+          "C. A. Shand",
+          "Alex. McAdam"
+        ],
+        "elective_st_kitts": [
+          "M. Pemberton",
+          "T. W. Meggs",
+          "B. S. Davis"
+        ],
+        "elective_dominica": [
+          "A. C. Potter",
+          "H. R. Elwin"
+        ]
+      }
+    },
+    {
+      "id": "antigua_legislative_council_1883",
+      "type": "legislative_council",
+      "name": "Legislative Council (Local)",
+      "colony": "antigua_1883",
+      "composition": {
+        "crown_nominees": 12,
+        "elected_members": 12,
+        "total": 24
+      }
+    },
+    {
+      "id": "mauritius_executive_council_1883",
+      "type": "executive_council",
+      "name": "Executive Council",
+      "colony": "mauritius_1883",
+      "members": [
+        "Sir J. Pope Hennessy, K.C.M.G., Governor (on leave)",
+        "Col. Hawley, Commanding the Troops",
+        "C. Bruce, C.M.G., Colonial Secretary",
+        "H. N. D. Beyts, C.M.G., Acting Colonial Secretary",
+        "E. Pellerenau, Procureur and Advocate-General",
+        "Th. Elliott, Acting Receiver-General",
+        "H. C. Stewart, Acting Auditor-General"
+      ]
+    },
+    {
+      "id": "mauritius_council_government_1883",
+      "type": "legislative_council",
+      "name": "Council of Government",
+      "colony": "mauritius_1883",
+      "composition": {
+        "official_members": 9,
+        "unofficial_members": 4
+      }
+    },
+    {
+      "id": "natal_executive_council_1883",
+      "type": "executive_council",
+      "name": "Executive Council",
+      "colony": "natal_1883",
+      "members": [
+        "Sir Henry Connor, Kt., Chief Justice",
+        "The Commandant of the Troops",
+        "Lieut.-Col. Mitchell, R.M., C.M.G., Colonial Secretary",
+        "J. T. Polkinghorne, Treasurer",
+        "M. H. Gallwey, Attorney-General",
+        "John W. Shepstone (acting), Secretary for Native Affairs",
+        "Major Hime, R.E., Colonial Engineer",
+        "H. Escombe, M.L.C.",
+        "G. M. Sutton, M.L.C."
+      ]
+    },
+    {
+      "id": "natal_legislative_council_1883",
+      "type": "legislative_council",
+      "name": "Legislative Council",
+      "colony": "natal_1883",
+      "composition": {
+        "official_members": 7,
+        "elected_members": 23
+      },
+      "speaker": "J. W. Akerman"
+    },
+    {
+      "id": "newfoundland_executive_council_1883",
+      "type": "executive_council",
+      "name": "Executive Council",
+      "colony": "newfoundland_1883",
+      "members": [
+        "Sir W. V. Whiteway, K.C.M.G., Premier and Attorney-General",
+        "E. D. Shea, Colonial Secretary",
+        "W. J. S. Donnelly, Surveyor-General",
+        "J. S. Winter",
+        "A. M. Mackay",
+        "Joseph C. Little",
+        "The Hon. Edward White"
+      ]
+    },
+    {
+      "id": "newfoundland_legislative_council_1883",
+      "type": "legislative_council",
+      "name": "Legislative Council",
+      "colony": "newfoundland_1883",
+      "president": "Edwd. Morris",
+      "members": 11
+    },
+    {
+      "id": "newfoundland_house_assembly_1883",
+      "type": "house_of_assembly",
+      "name": "House of Assembly",
+      "colony": "newfoundland_1883",
+      "members": 33,
+      "districts": 17
+    },
+    {
+      "id": "sierra_leone_executive_council_1883",
+      "type": "executive_council",
+      "name": "Executive Council",
+      "colony": "sierra_leone_1883",
+      "members": [
+        "The Governor-in-Chief (President)",
+        "The Chief Justice",
+        "The Colonial Secretary and Treasurer",
+        "The Officer Commanding the Forces"
+      ]
+    },
+    {
+      "id": "sierra_leone_legislative_council_1883",
+      "type": "legislative_council",
+      "name": "Legislative Council",
+      "colony": "sierra_leone_1883",
+      "composition": {
+        "official_members": 4,
+        "unofficial_members": 3
+      }
+    },
+    {
+      "id": "trinidad_executive_council_1883",
+      "type": "executive_council",
+      "name": "Executive Council",
+      "colony": "trinidad_1883",
+      "members": [
+        "The Governor, President",
+        "The Colonial Secretary",
+        "The Attorney-General",
+        "The Senior Officer Commanding Her Majesty's Forces"
+      ]
+    },
+    {
+      "id": "trinidad_legislative_council_1883",
+      "type": "legislative_council",
+      "name": "Legislative Council",
+      "colony": "trinidad_1883",
+      "composition": {
+        "official_members": 6,
+        "unofficial_members": 8
+      }
+    },
+    {
+      "id": "supreme_court_leeward_1883",
+      "type": "court",
+      "name": "Supreme Court",
+      "colony": "leeward_islands_1883",
+      "judges": [
+        {
+          "title": "Chief Justice",
+          "name": "Sir John Gorrie, Kt.",
+          "salary": {
+            "amount": 1500,
+            "currency": "£"
+          }
+        },
+        {
+          "title": "1st Puisne Judge",
+          "name": "J. R. Samper",
+          "salary": {
+            "amount": 1200,
+            "currency": "£"
+          }
+        },
+        {
+          "title": "2nd Puisne Judge",
+          "name": "S. Pemberton",
+          "salary": {
+            "amount": 800,
+            "currency": "£"
+          }
+        }
+      ],
+      "attorney_general": {
+        "name": "J. T. Goldney",
+        "salary": {
+          "amount": 700,
+          "currency": "£"
+        }
+      },
+      "solicitor_general": {
+        "name": "H. S. Berkeley",
+        "salary": {
+          "amount": 200,
+          "currency": "£"
+        }
+      }
+    },
+    {
+      "id": "supreme_court_natal_1883",
+      "type": "court",
+      "name": "Supreme Court",
+      "colony": "natal_1883",
+      "judges": [
+        {
+          "title": "Chief Justice",
+          "name": "Sir H. Connor, K.C.",
+          "salary": {
+            "amount": 1200,
+            "currency": "£"
+          }
+        },
+        {
+          "title": "Puisne Judge",
+          "name": "C. F. Cadiz",
+          "salary": {
+            "amount": 1000,
+            "currency": "£"
+          }
+        },
+        {
+          "title": "Puisne Judge",
+          "name": "F. C. Williams",
+          "salary": {
+            "amount": 1000,
+            "currency": "£"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_high_court_natal_1883",
+      "type": "court",
+      "name": "Native High Court",
+      "colony": "natal_1883",
+      "description": "Established by Law No. 26 of 1875 to administer civil justice to natives",
+      "judge": {
+        "name": "A. S. Windham (acting)",
+        "salary": {
+          "amount": 800,
+          "currency": "£"
+        }
+      }
+    }
+  ],
+  "economic_data": [
+    {
+      "id": "jamaica_revenue_1881",
+      "colony": "jamaica_1883",
+      "type": "revenue",
+      "year": 1881,
+      "amount": null,
+      "currency": "£",
+      "notes": "Data not fully extracted"
+    },
+    {
+      "id": "antigua_revenue_expenditure_1872_1881",
+      "colony": "antigua_1883",
+      "type": "revenue_expenditure_series",
+      "data": [
+        {
+          "year": 1872,
+          "revenue": 88817,
+          "expenditure": 89870,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "revenue": 88818,
+          "expenditure": 88169,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "revenue": 83585,
+          "expenditure": 85751,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "revenue": 86841,
+          "expenditure": 84158,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "revenue": 83356,
+          "expenditure": 82078,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "revenue": 84102,
+          "expenditure": 85125,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "revenue": 87362,
+          "expenditure": 85688,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "revenue": 41084,
+          "expenditure": 36124,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "revenue": 48874,
+          "expenditure": 49252,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "revenue": 41584,
+          "expenditure": 41841,
+          "currency": "£"
+        }
+      ]
+    },
+    {
+      "id": "antigua_public_debt_1883",
+      "colony": "antigua_1883",
+      "type": "public_debt",
+      "amount": 34625,
+      "currency": "£"
+    },
+    {
+      "id": "antigua_imports_exports_1872_1881",
+      "colony": "antigua_1883",
+      "type": "trade_series",
+      "data": [
+        {
+          "year": 1872,
+          "imports": 200757,
+          "exports": 153195,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "imports": 169156,
+          "exports": 170797,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "imports": 146758,
+          "exports": 95804,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "imports": 180368,
+          "exports": 249677,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "imports": 133502,
+          "exports": 136393,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "imports": 176093,
+          "exports": 210965,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "imports": 183795,
+          "exports": 201176,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "imports": 161543,
+          "exports": 267158,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "imports": 160767,
+          "exports": 263560,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "imports": 151888,
+          "exports": 178581,
+          "currency": "£"
+        }
+      ]
+    },
+    {
+      "id": "montserrat_revenue_expenditure_1872_1881",
+      "colony": "montserrat_1883",
+      "type": "revenue_expenditure_series",
+      "data": [
+        {
+          "year": 1872,
+          "revenue": 4477,
+          "expenditure": 4835,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "revenue": 5566,
+          "expenditure": 4704,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "revenue": 5968,
+          "expenditure": 5497,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "revenue": 5473,
+          "expenditure": 5661,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "revenue": 5774,
+          "expenditure": 5349,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "revenue": 5517,
+          "expenditure": 5175,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "revenue": 5687,
+          "expenditure": 5474,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "revenue": 5689,
+          "expenditure": 5552,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "revenue": 5177,
+          "expenditure": 5997,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "revenue": 5317,
+          "expenditure": 5718,
+          "currency": "£"
+        }
+      ]
+    },
+    {
+      "id": "mauritius_revenue_expenditure_1872_1881",
+      "colony": "mauritius_1883",
+      "type": "revenue_expenditure_series",
+      "data": [
+        {
+          "year": 1872,
+          "revenue": 703159,
+          "expenditure": 650327,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "revenue": 690081,
+          "expenditure": 657110,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "revenue": 720180,
+          "expenditure": 727068,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "revenue": 692894,
+          "expenditure": 775836,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "revenue": 732106,
+          "expenditure": 719589,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "revenue": 748059,
+          "expenditure": 703608,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "revenue": 7895440,
+          "expenditure": 7845790,
+          "currency": "Rs."
+        },
+        {
+          "year": 1879,
+          "revenue": 7637290,
+          "expenditure": 7461990,
+          "currency": "Rs."
+        },
+        {
+          "year": 1880,
+          "revenue": 7821080,
+          "expenditure": 7578960,
+          "currency": "Rs."
+        },
+        {
+          "year": 1881,
+          "revenue": 7813910,
+          "expenditure": 7600176,
+          "currency": "Rs."
+        }
+      ]
+    },
+    {
+      "id": "mauritius_public_debt_1883",
+      "colony": "mauritius_1883",
+      "type": "public_debt",
+      "amount": 837800,
+      "currency": "£"
+    },
+    {
+      "id": "mauritius_imports_exports_1872_1881",
+      "colony": "mauritius_1883",
+      "type": "trade_series",
+      "data": [
+        {
+          "year": 1872,
+          "imports": 2497512,
+          "exports": 3177801,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "imports": 2165400,
+          "exports": 3288700,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "imports": 2427818,
+          "exports": 2697892,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "imports": 2194824,
+          "exports": 2522099,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "imports": 2284218,
+          "exports": 2723827,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "imports": 2359449,
+          "exports": 4201286,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "imports": 22298460,
+          "exports": 37778790,
+          "currency": "Rs."
+        },
+        {
+          "year": 1879,
+          "imports": 28498120,
+          "exports": 32362590,
+          "currency": "Rs."
+        },
+        {
+          "year": 1880,
+          "imports": 21696720,
+          "exports": 36847880,
+          "currency": "Rs."
+        },
+        {
+          "year": 1881,
+          "imports": 24672665,
+          "exports": 35526072,
+          "currency": "Rs."
+        }
+      ]
+    },
+    {
+      "id": "natal_revenue_expenditure_1872_1881",
+      "colony": "natal_1883",
+      "type": "revenue_expenditure_series",
+      "data": [
+        {
+          "year": 1872,
+          "revenue": 180498,
+          "expenditure": 132978,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "revenue": 208086,
+          "expenditure": 182224,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "revenue": 247259,
+          "expenditure": 254402,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "revenue": 260271,
+          "expenditure": 307025,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "revenue": 265551,
+          "expenditure": 261983,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "revenue": 272473,
+          "expenditure": 283828,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "revenue": 369383,
+          "expenditure": 434632,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "revenue": 478478,
+          "expenditure": 491883,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "revenue": 582715,
+          "expenditure": 494436,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "revenue": 612961,
+          "expenditure": 524444,
+          "currency": "£",
+          "notes": "Includes railway revenue £173,108 and railway expenditure £129,590"
+        }
+      ]
+    },
+    {
+      "id": "natal_public_debt_1881",
+      "colony": "natal_1883",
+      "type": "public_debt",
+      "date": "31 December 1881",
+      "amount": 1681700,
+      "currency": "£",
+      "sinking_funds": 129451
+    },
+    {
+      "id": "natal_imports_exports_1872_1881",
+      "colony": "natal_1883",
+      "type": "trade_series",
+      "data": [
+        {
+          "year": 1872,
+          "value": 825252,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "value": 1011465,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "value": 1121948,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "value": 1208838,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "value": 1022890,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "value": 1167402,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "value": 1719562,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "value": 2176856,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "value": 2336584,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "value": 1912856,
+          "currency": "£"
+        }
+      ]
+    },
+    {
+      "id": "newfoundland_revenue_expenditure_1872_1881",
+      "colony": "newfoundland_1883",
+      "type": "revenue_expenditure_series",
+      "data": [
+        {
+          "year": 1872,
+          "revenue": 177042,
+          "expenditure": 172859,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "revenue": 174915,
+          "expenditure": 205238,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "revenue": 178208,
+          "expenditure": 190965,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "revenue": 173218,
+          "expenditure": 195833,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "revenue": 182500,
+          "expenditure": 202644,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "revenue": 188571,
+          "expenditure": 202251,
+          "currency": "£cy"
+        },
+        {
+          "year": 1878,
+          "revenue": 212298,
+          "expenditure": 289286,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "revenue": 261864,
+          "expenditure": 222010,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "revenue": 205231,
+          "expenditure": 230310,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "revenue": 1005807,
+          "expenditure": 1048631,
+          "currency": "$"
+        }
+      ]
+    },
+    {
+      "id": "newfoundland_public_debt_1883",
+      "colony": "newfoundland_1883",
+      "type": "public_debt",
+      "amount": 1450990,
+      "currency": "$"
+    },
+    {
+      "id": "newfoundland_imports_exports_1872_1881",
+      "colony": "newfoundland_1883",
+      "type": "trade_series",
+      "data": [
+        {
+          "year": 1872,
+          "imports": 1399180,
+          "exports": 1188958,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "imports": 1411709,
+          "exports": 1631086,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "imports": 1470927,
+          "exports": 1736412,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "imports": 1470494,
+          "exports": 1711600,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "imports": 1501230,
+          "exports": 1701866,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "imports": 1584405,
+          "exports": 1285024,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "imports": 1430984,
+          "exports": 1173102,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "imports": 1512706,
+          "exports": 1283107,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "imports": 1451299,
+          "exports": 1174117,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "imports": 6863708,
+          "exports": 8980588,
+          "currency": "$"
+        }
+      ]
+    },
+    {
+      "id": "sierra_leone_revenue_expenditure_1873_1881",
+      "colony": "sierra_leone_1883",
+      "type": "revenue_expenditure_series",
+      "data": [
+        {
+          "year": 1873,
+          "revenue": 53244,
+          "expenditure": 60617,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "revenue": 56733,
+          "expenditure": 63659,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "revenue": 58876,
+          "expenditure": 67111,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "revenue": 56889,
+          "expenditure": 64706,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "revenue": 56320,
+          "expenditure": 59248,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "revenue": 63125,
+          "expenditure": 53256,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "revenue": 71877,
+          "expenditure": 57802,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "revenue": 72558,
+          "expenditure": 68128,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "revenue": 65415,
+          "expenditure": 66859,
+          "currency": "£"
+        }
+      ]
+    },
+    {
+      "id": "sierra_leone_public_debt_1883",
+      "colony": "sierra_leone_1883",
+      "type": "public_debt",
+      "components": [
+        {
+          "amount": 25000,
+          "currency": "£",
+          "year": 1871
+        },
+        {
+          "amount": 25000,
+          "currency": "£",
+          "year": 1873
+        },
+        {
+          "amount": 23000,
+          "currency": "£",
+          "description": "Due to Imperial Government on account of £38,000 advanced in 1877"
+        }
+      ],
+      "total": 78000,
+      "currency": "£"
+    },
+    {
+      "id": "sierra_leone_imports_exports_1872_1881",
+      "colony": "sierra_leone_1883",
+      "type": "trade_series",
+      "data": [
+        {
+          "year": 1872,
+          "imports": 411935,
+          "exports": 358636,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "imports": 490998,
+          "exports": 465113,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "imports": 418009,
+          "exports": 481894,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "imports": 326011,
+          "exports": 350202,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "imports": 272606,
+          "exports": 297036,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "imports": 368442,
+          "exports": 388580,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "imports": 524418,
+          "exports": 391646,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "imports": 409643,
+          "exports": 391080,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "imports": 445358,
+          "exports": 375985,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "imports": 374375,
+          "exports": 365862,
+          "currency": "£"
+        }
+      ]
+    },
+    {
+      "id": "trinidad_revenue_expenditure_1872_1881",
+      "colony": "trinidad_1883",
+      "type": "revenue_expenditure_series",
+      "data": [
+        {
+          "year": 1872,
+          "revenue": 296060,
+          "expenditure": 285384,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "revenue": 281570,
+          "expenditure": 326282,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "revenue": 276529,
+          "expenditure": 294006,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "revenue": 291469,
+          "expenditure": 282294,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "revenue": 316170,
+          "expenditure": 318362,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "revenue": 310837,
+          "expenditure": 312586,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "revenue": 470513,
+          "expenditure": 405190,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "revenue": 419885,
+          "expenditure": 869351,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "revenue": 435789,
+          "expenditure": 438640,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "revenue": 464968,
+          "expenditure": 500423,
+          "currency": "£"
+        }
+      ]
+    },
+    {
+      "id": "trinidad_public_debt_1883",
+      "colony": "trinidad_1883",
+      "type": "public_debt",
+      "components": [
+        {
+          "amount": 489020,
+          "currency": "£",
+          "purpose": "railways"
+        },
+        {
+          "amount": 11700,
+          "currency": "£",
+          "description": "secured on general revenue, but recoverable by the Colony from other parties"
+        }
+      ]
+    },
+    {
+      "id": "trinidad_imports_exports_1872_1881",
+      "colony": "trinidad_1883",
+      "type": "trade_series",
+      "data": [
+        {
+          "year": 1872,
+          "imports": 1233771,
+          "exports": 1439904,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "imports": 1324432,
+          "exports": 1733615,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "imports": 1342992,
+          "exports": 1412260,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "imports": 1507794,
+          "exports": 1625082,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "imports": 1666268,
+          "exports": 1636618,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "imports": 1708457,
+          "exports": 2093650,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "imports": 1901401,
+          "exports": 1839067,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "imports": 2223271,
+          "exports": 2264744,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "imports": 2582682,
+          "exports": 2185512,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "imports": 2226276,
+          "exports": 2099101,
+          "currency": "£"
+        }
+      ]
+    },
+    {
+      "id": "tobago_revenue_expenditure_1872_1881",
+      "colony": "tobago_1883",
+      "type": "revenue_expenditure_series",
+      "data": [
+        {
+          "year": 1872,
+          "revenue": 13895,
+          "expenditure": 13884,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "revenue": 9498,
+          "expenditure": 11330,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "revenue": 9518,
+          "expenditure": 9578,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "revenue": 11594,
+          "expenditure": 11484,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "revenue": 11769,
+          "expenditure": 11653,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "revenue": 13310,
+          "expenditure": 13373,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "revenue": 14306,
+          "expenditure": 14596,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "revenue": 11501,
+          "expenditure": 11726,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "revenue": 14003,
+          "expenditure": 13514,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "revenue": 16830,
+          "expenditure": 14844,
+          "currency": "£"
+        }
+      ]
+    },
+    {
+      "id": "tobago_imports_exports_1872_1881",
+      "colony": "tobago_1883",
+      "type": "trade_series",
+      "data": [
+        {
+          "year": 1872,
+          "imports": 55234,
+          "exports": 82635,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "imports": 48743,
+          "exports": 45280,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "imports": 46435,
+          "exports": 45387,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "imports": 67772,
+          "exports": 92015,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "imports": 54582,
+          "exports": 79670,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "imports": 58750,
+          "exports": 68989,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "imports": 41406,
+          "exports": 67004,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "imports": 37859,
+          "exports": 70455,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "imports": 45138,
+          "exports": 77615,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "imports": 59582,
+          "exports": 83583,
+          "currency": "£"
+        }
+      ]
+    },
+    {
+      "id": "st_lucia_revenue_expenditure_1872_1881",
+      "colony": "st_lucia_1883",
+      "type": "revenue_expenditure_series",
+      "data": [
+        {
+          "year": 1872,
+          "revenue": 21052,
+          "expenditure": 17842,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "revenue": 19907,
+          "expenditure": 20346,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "revenue": 21181,
+          "expenditure": 24268,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "revenue": 25390,
+          "expenditure": 28990,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "revenue": 27850,
+          "expenditure": 29242,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "revenue": 28286,
+          "expenditure": 28053,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "revenue": 28297,
+          "expenditure": 34756,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "revenue": 31873,
+          "expenditure": 32090,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "revenue": 32481,
+          "expenditure": 31918,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "revenue": 32291,
+          "expenditure": 32652,
+          "currency": "£"
+        }
+      ]
+    },
+    {
+      "id": "st_lucia_public_debt_1883",
+      "colony": "st_lucia_1883",
+      "type": "public_debt",
+      "amount": 33500,
+      "currency": "£"
+    },
+    {
+      "id": "st_lucia_imports_exports_1872_1881",
+      "colony": "st_lucia_1883",
+      "type": "trade_series",
+      "data": [
+        {
+          "year": 1872,
+          "imports": 151194,
+          "exports": 184622,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "imports": 116086,
+          "exports": 151011,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "imports": 127000,
+          "exports": 146000,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "imports": 150740,
+          "exports": 159468,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "imports": 106968,
+          "exports": 148718,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "imports": 110588,
+          "exports": 178734,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "imports": 108264,
+          "exports": 151464,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "imports": 110473,
+          "exports": 210895,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "imports": 127362,
+          "exports": 194695,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "imports": 120134,
+          "exports": 168478,
+          "currency": "£"
+        }
+      ]
+    },
+    {
+      "id": "st_vincent_revenue_expenditure_1872_1881",
+      "colony": "st_vincent_1883",
+      "type": "revenue_expenditure_series",
+      "data": [
+        {
+          "year": 1872,
+          "revenue": 35471,
+          "expenditure": 34161,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "revenue": 35473,
+          "expenditure": 34429,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "revenue": 33344,
+          "expenditure": 36359,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "revenue": 27852,
+          "expenditure": 29698,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "revenue": 28858,
+          "expenditure": 27997,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "revenue": 27859,
+          "expenditure": 28754,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "revenue": 28848,
+          "expenditure": 34790,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "revenue": 32203,
+          "expenditure": 30658,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "revenue": 32034,
+          "expenditure": 32890,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "revenue": 30637,
+          "expenditure": 31044,
+          "currency": "£"
+        }
+      ]
+    },
+    {
+      "id": "st_vincent_imports_exports_1872_1881",
+      "colony": "st_vincent_1883",
+      "type": "trade_series",
+      "data": [
+        {
+          "year": 1872,
+          "imports": 156136,
+          "exports": 242298,
+          "currency": "£"
+        },
+        {
+          "year": 1873,
+          "imports": 161497,
+          "exports": 201665,
+          "currency": "£"
+        },
+        {
+          "year": 1874,
+          "imports": 160772,
+          "exports": 200516,
+          "currency": "£"
+        },
+        {
+          "year": 1875,
+          "imports": 158056,
+          "exports": 207616,
+          "currency": "£"
+        },
+        {
+          "year": 1876,
+          "imports": 162023,
+          "exports": 183901,
+          "currency": "£"
+        },
+        {
+          "year": 1877,
+          "imports": 148198,
+          "exports": 175880,
+          "currency": "£"
+        },
+        {
+          "year": 1878,
+          "imports": 150397,
+          "exports": 161557,
+          "currency": "£"
+        },
+        {
+          "year": 1879,
+          "imports": 159433,
+          "exports": 160834,
+          "currency": "£"
+        },
+        {
+          "year": 1880,
+          "imports": 150949,
+          "exports": 158940,
+          "currency": "£"
+        },
+        {
+          "year": 1881,
+          "imports": 129025,
+          "exports": 141675,
+          "currency": "£"
+        }
+      ]
+    }
+  ],
+  "infrastructure": [
+    {
+      "id": "natal_railway_pmb_durban_1883",
+      "type": "railway",
+      "colony": "natal_1883",
+      "name": "Pietermaritzburg to Durban Railway",
+      "route": "Pietermaritzburg to Durban",
+      "distance": {
+        "value": 78,
+        "unit": "miles"
+      },
+      "branches": [
+        {
+          "route": "Umgeni to Verulam",
+          "distance": {
+            "value": 13.4,
+            "unit": "miles"
+          }
+        },
+        {
+          "route": "South to Isipingo River",
+          "distance": {
+            "value": 7,
+            "unit": "miles"
+          }
+        }
+      ],
+      "construction_cost": {
+        "amount": 1200000,
+        "currency": "£"
+      },
+      "contractor": "Messrs. Wythes and Jackson",
+      "first_sod": "1 January 1876",
+      "status": "Completed"
+    },
+    {
+      "id": "natal_railway_extension_ladysmith_1883",
+      "type": "railway",
+      "colony": "natal_1883",
+      "name": "Extension to Ladysmith",
+      "distance": {
+        "value": 118,
+        "unit": "miles"
+      },
+      "estimated_cost": {
+        "amount": 1100000,
+        "currency": "£"
+      },
+      "contractor": "Mr. James Perry",
+      "status": "Under construction"
+    },
+    {
+      "id": "mauritius_railway_north_1883",
+      "type": "railway",
+      "colony": "mauritius_1883",
+      "name": "North Line",
+      "route": "Port Louis to Grand River, S.E.",
+      "distance": {
+        "value": 38,
+        "unit": "miles"
+      }
+    },
+    {
+      "id": "mauritius_railway_midland_1883",
+      "type": "railway",
+      "colony": "mauritius_1883",
+      "name": "Midland Line",
+      "route": "Port Louis to Mahebourg",
+      "distance": {
+        "value": 85.5,
+        "unit": "miles"
+      },
+      "branches": [
+        "Savanne",
+        "Moka"
+      ],
+      "total_open": {
+        "value": 87,
+        "unit": "miles"
+      },
+      "elevation_at_curepipe": {
+        "value": 1822,
+        "unit": "feet"
+      }
+    },
+    {
+      "id": "trinidad_railway_arima_1883",
+      "type": "railway",
+      "colony": "trinidad_1883",
+      "name": "Port of Spain to Arima",
+      "distance": {
+        "value": 16,
+        "unit": "miles"
+      },
+      "opened": "1876"
+    },
+    {
+      "id": "trinidad_railway_couva_1883",
+      "type": "railway",
+      "colony": "trinidad_1883",
+      "name": "Couva Line",
+      "distance": {
+        "value": 18,
+        "unit": "miles from junction"
+      },
+      "total_distance": {
+        "value": 24,
+        "unit": "miles from Port of Spain"
+      },
+      "opened": "1880"
+    },
+    {
+      "id": "trinidad_railway_clayton_1883",
+      "type": "railway",
+      "colony": "trinidad_1883",
+      "name": "Extension to Clayton's Bay",
+      "distance": {
+        "value": 4.5,
+        "unit": "miles"
+      },
+      "opened": "1 January 1881"
+    },
+    {
+      "id": "trinidad_railway_san_fernando_1883",
+      "type": "railway",
+      "colony": "trinidad_1883",
+      "name": "Extension to San Fernando",
+      "distance": {
+        "value": 7,
+        "unit": "miles"
+      },
+      "opened": "17 April 1882"
+    },
+    {
+      "id": "mauritius_telegraph_1883",
+      "type": "telegraph",
+      "colony": "mauritius_1883",
+      "description": "Telegraphic communication established throughout the island"
+    },
+    {
+      "id": "tobago_lighthouse_bacolot_1883",
+      "type": "lighthouse",
+      "colony": "tobago_1883",
+      "name": "Bacolot Point Lighthouse",
+      "location": "Bacolot Point, Scarborough",
+      "light_type": "Fixed white light",
+      "elevation": {
+        "value": 128,
+        "unit": "feet above sea level"
+      }
+    },
+    {
+      "id": "mauritius_graving_docks_1883",
+      "type": "port_infrastructure",
+      "colony": "mauritius_1883",
+      "name": "Port Louis Graving Docks",
+      "number_of_docks": 3,
+      "location": "Port Louis"
+    }
+  ],
+  "demographics": [
+    {
+      "id": "antigua_population_1881",
+      "colony": "antigua_1883",
+      "year": 1881,
+      "total": 34964,
+      "breakdown": {
+        "white": 1795,
+        "black": 27219,
+        "coloured": 5950
+      }
+    },
+    {
+      "id": "antigua_population_series_1861_1881",
+      "colony": "antigua_1883",
+      "type": "population_series",
+      "data": [
+        {
+          "year": 1861,
+          "white": 2560,
+          "black": 27608,
+          "coloured": 6882,
+          "total": 37045
+        },
+        {
+          "year": 1871,
+          "white": 2146,
+          "black": 26886,
+          "coloured": 6890,
+          "total": 35822
+        },
+        {
+          "year": 1881,
+          "white": 1795,
+          "black": 27219,
+          "coloured": 5950,
+          "total": 34964
+        }
+      ]
+    },
+    {
+      "id": "mauritius_population_1881",
+      "colony": "mauritius_1883",
+      "year": 1881,
+      "total": 360360,
+      "breakdown": {
+        "general_population": {
+          "male": 58680,
+          "female": 54055,
+          "total": 112735
+        },
+        "indian_population": {
+          "male": 149660,
+          "female": 97965,
+          "total": 247625
+        },
+        "military": {
+          "male": 403,
+          "female": 35,
+          "total": 438
+        },
+        "merchant_shipping_crews": {
+          "male": 500,
+          "female": 8,
+          "total": 508
+        }
+      }
+    },
+    {
+      "id": "natal_population_1881",
+      "colony": "natal_1883",
+      "year": 1881,
+      "total": 416219,
+      "breakdown": {
+        "whites": 28488,
+        "coolies": 20196,
+        "natives": 367540
+      }
+    },
+    {
+      "id": "newfoundland_population_1874",
+      "colony": "newfoundland_1883",
+      "year": 1874,
+      "census_date": "1874",
+      "total": 161374,
+      "breakdown": {
+        "males": 83288,
+        "females": 78091
+      }
+    },
+    {
+      "id": "sierra_leone_population_1871_1881",
+      "colony": "sierra_leone_1883",
+      "type": "population_series",
+      "data": [
+        {
+          "year": 1871,
+          "white_males": 76,
+          "white_females": 81,
+          "coloured_males": 18455,
+          "coloured_females": 18827,
+          "total": 37038
+        },
+        {
+          "year": 1881,
+          "white_males": 237,
+          "white_females": 34,
+          "coloured_males": 30964,
+          "coloured_females": 23511,
+          "total": 60464
+        }
+      ]
+    },
+    {
+      "id": "trinidad_population_1881",
+      "colony": "trinidad_1883",
+      "year": 1881,
+      "census": true,
+      "total": 153128
+    },
+    {
+      "id": "tobago_population_1881",
+      "colony": "tobago_1883",
+      "year": 1881,
+      "total": 18051,
+      "breakdown": {
+        "male": 8694,
+        "female": 9357
+      }
+    },
+    {
+      "id": "st_lucia_population_1881",
+      "colony": "st_lucia_1883",
+      "year": 1881,
+      "census": true,
+      "total": 38551,
+      "notes": "Registration shows annual excess of births over deaths of about 600 (nearly 2% of population)"
+    },
+    {
+      "id": "st_vincent_population_1871",
+      "colony": "st_vincent_1883",
+      "year": 1871,
+      "census": true,
+      "total": 40553,
+      "breakdown": {
+        "european": 2698,
+        "african": 28393,
+        "asiatic": 2190,
+        "caribs": 192,
+        "mixed": 7080
+      }
+    }
+  ],
+  "historical_events": [
+    {
+      "id": "jamaica_discovery_1494",
+      "colony": "jamaica_1883",
+      "date": "1494",
+      "event_type": "discovery",
+      "description": "Discovered by Christopher Columbus in 1494"
+    },
+    {
+      "id": "jamaica_british_conquest_1655",
+      "colony": "jamaica_1883",
+      "date": "1655",
+      "event_type": "conquest",
+      "description": "Conquered from Spain by British forces"
+    },
+    {
+      "id": "bahamas_discovery_1492",
+      "colony": "bahamas_1883",
+      "date": "12 October 1492",
+      "event_type": "discovery",
+      "description": "Discovered by Christopher Columbus, first landing in the New World"
+    },
+    {
+      "id": "leeward_islands_federation_1871",
+      "colony": "leeward_islands_1883",
+      "date": "1871",
+      "event_type": "constitutional",
+      "description": "Leeward Islands constituted as single Federal Colony by Imperial Parliament Act 34 & 35 Vict., cap. 107",
+      "participants": [
+        "Sir Benjamin Pine",
+        "Messrs. Wigley and Freeling",
+        "Sir Oliver Nugent"
+      ]
+    },
+    {
+      "id": "mauritius_discovery_1507",
+      "colony": "mauritius_1883",
+      "date": "1507",
+      "event_type": "discovery",
+      "description": "Discovered by the Portuguese"
+    },
+    {
+      "id": "mauritius_dutch_occupation_1598",
+      "colony": "mauritius_1883",
+      "date": "1598",
+      "event_type": "colonization",
+      "description": "First occupied by the Dutch, named Mauritius in honour of Prince Maurice"
+    },
+    {
+      "id": "mauritius_french_occupation_1715",
+      "colony": "mauritius_1883",
+      "date": "1715",
+      "event_type": "colonization",
+      "description": "Taken possession of by the French, first on behalf of French East India Company, later (1767) for Crown of France"
+    },
+    {
+      "id": "mauritius_british_conquest_1810",
+      "colony": "mauritius_1883",
+      "date": "1810",
+      "event_type": "conquest",
+      "description": "Captured by British forces in expedition"
+    },
+    {
+      "id": "mauritius_treaty_paris_1814",
+      "colony": "mauritius_1883",
+      "date": "1814",
+      "event_type": "treaty",
+      "description": "Possession confirmed to England by Treaty of Paris"
+    },
+    {
+      "id": "natal_discovery_1497",
+      "colony": "natal_1883",
+      "date": "25 December 1497",
+      "event_type": "discovery",
+      "description": "Discovered by Vasco da Gama on Christmas Day, hence the name Natal (Portuguese for Christmas)"
+    },
+    {
+      "id": "natal_langalibalele_rebellion_1873",
+      "colony": "natal_1883",
+      "date": "Autumn 1873",
+      "event_type": "conflict",
+      "description": "Langalibalele, chief of Amalubi Tribe, entered contumacious course leading to attempted escape to Basutoland. Colonial force dispatched, chief captured and tried under native law, condemned to banishment for life"
+    },
+    {
+      "id": "natal_zulu_war_1879",
+      "colony": "natal_1883",
+      "date": "1879",
+      "event_type": "war",
+      "description": "Zulu War - Natal became base of hostile operations against Zulu kingdom. Major engagements included Isandhlwana (22 Jan), Rorke's Drift (22 Jan), Inyezane (22 Jan), Kambula (29 Mar), Ginginhllovu (3 Apr), and Ulundi (4 July). Cetywayo captured 28 August, kingdom restructured by Sir Garnet Wolseley 1 September"
+    },
+    {
+      "id": "natal_cetywayo_restoration_1883",
+      "colony": "natal_1883",
+      "date": "29 January 1883",
+      "event_type": "political",
+      "description": "Cetywayo re-installed by Sir Theophilus Shepstone over part of former kingdom, subject to conditions, after visiting England and accepting terms of restoration"
+    },
+    {
+      "id": "newfoundland_discovery_1497",
+      "colony": "newfoundland_1883",
+      "date": "1497",
+      "event_type": "discovery",
+      "description": "Discovered by John Cabot"
+    },
+    {
+      "id": "newfoundland_responsible_government_1855",
+      "colony": "newfoundland_1883",
+      "date": "1855",
+      "event_type": "constitutional",
+      "description": "Responsible Government established, last of North American colonies to receive it"
+    },
+    {
+      "id": "sierra_leone_cession_1787",
+      "colony": "sierra_leone_1883",
+      "date": "1787",
+      "event_type": "acquisition",
+      "description": "Ceded to Great Britain by native chiefs"
+    },
+    {
+      "id": "sierra_leone_charter_1791",
+      "colony": "sierra_leone_1883",
+      "date": "1791",
+      "event_type": "constitutional",
+      "description": "Charter granted to Sierra Leone Company"
+    },
+    {
+      "id": "sierra_leone_crown_transfer_1807",
+      "colony": "sierra_leone_1883",
+      "date": "1807",
+      "event_type": "constitutional",
+      "description": "Colony transferred back to the Crown after 7 years of Company rule"
+    },
+    {
+      "id": "trinidad_discovery_1498",
+      "colony": "trinidad_1883",
+      "date": "21 July 1498",
+      "event_type": "discovery",
+      "description": "Discovered by Christopher Columbus on his third voyage"
+    },
+    {
+      "id": "trinidad_cedula_1783",
+      "colony": "trinidad_1883",
+      "date": "1783",
+      "event_type": "policy",
+      "description": "Royal cedula issued by Court of Madrid offering extraordinary advantages to foreigners to settle in Trinidad, sole condition being profession of Roman Catholic religion. Led to large influx of population"
+    },
+    {
+      "id": "trinidad_british_conquest_1797",
+      "colony": "trinidad_1883",
+      "date": "18 February 1797",
+      "event_type": "conquest",
+      "description": "Captured by British expedition under Rear-Admiral Harvey and Sir Ralph Abercrombie, articles of capitulation signed with Spanish Governor Chacon"
+    },
+    {
+      "id": "trinidad_treaty_amiens_1802",
+      "colony": "trinidad_1883",
+      "date": "1802",
+      "event_type": "treaty",
+      "description": "Finally ceded to Crown of Great Britain by Treaty of Amiens"
+    },
+    {
+      "id": "tobago_multiple_sovereignties",
+      "colony": "tobago_1883",
+      "date": "1498-1814",
+      "event_type": "territorial_changes",
+      "description": "Discovered by Columbus 1498, contested by British, Dutch, French, Duke of Courland. Finally ceded to Britain in perpetuity 1814 after multiple captures and treaties"
+    },
+    {
+      "id": "tobago_riots_1876",
+      "colony": "tobago_1883",
+      "date": "May 1876",
+      "event_type": "civil_unrest",
+      "description": "Riots occurred in Windward District. 42 persons indicted for murder, 16 sentenced to death, all reprieved and sentenced to various terms of penal servitude. Led to reorganization of Police Force"
+    },
+    {
+      "id": "st_lucia_discovery_1502",
+      "colony": "st_lucia_1883",
+      "date": "15 June 1502",
+      "event_type": "discovery",
+      "description": "Discovered by Columbus during his fourth voyage"
+    },
+    {
+      "id": "st_lucia_duke_of_kent_1794",
+      "colony": "st_lucia_1883",
+      "date": "4 April 1794",
+      "event_type": "conquest",
+      "description": "H.R.H. the Duke of Kent, father of Queen Victoria, placed British colours on principal fortress upon surrender to British arms"
+    },
+    {
+      "id": "st_vincent_discovery_1498",
+      "colony": "st_vincent_1883",
+      "date": "22 January 1498",
+      "event_type": "discovery",
+      "description": "Discovered by Christopher Columbus"
+    },
+    {
+      "id": "st_vincent_soufriere_eruption_1812",
+      "colony": "st_vincent_1883",
+      "date": "1812",
+      "event_type": "natural_disaster",
+      "description": "Violent eruption of Soufrière volcanic mountain, celebrated for its violence"
+    },
+    {
+      "id": "st_vincent_carib_deportation_1797",
+      "colony": "st_vincent_1883",
+      "date": "11 March 1797",
+      "event_type": "deportation",
+      "description": "5,080 Caribs embarked at Bequia and sailed for island of Rattan in Bay of Honduras, following their surrender after protracted war"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "glover_john_hawley_1883",
+      "target": "leeward_islands_1883",
+      "relationship_type": "governs",
+      "details": "Governor of Leeward Islands in 1883"
+    },
+    {
+      "source": "gorrie_john_1883",
+      "target": "supreme_court_leeward_1883",
+      "relationship_type": "presides_over",
+      "details": "Chief Justice of Supreme Court"
+    },
+    {
+      "source": "antigua_1883",
+      "target": "leeward_islands_1883",
+      "relationship_type": "constituent_of",
+      "details": "Constituent presidency of Leeward Islands Federal Colony"
+    },
+    {
+      "source": "montserrat_1883",
+      "target": "leeward_islands_1883",
+      "relationship_type": "constituent_of",
+      "details": "Constituent presidency of Leeward Islands Federal Colony"
+    },
+    {
+      "source": "turks_caicos_1883",
+      "target": "jamaica_1883",
+      "relationship_type": "dependency_of",
+      "details": "Turks and Caicos Islands are a dependency of Jamaica"
+    },
+    {
+      "source": "hennessy_john_1883",
+      "target": "mauritius_1883",
+      "relationship_type": "governs",
+      "details": "Governor and Commander-in-Chief of Mauritius (on leave in 1883)"
+    },
+    {
+      "source": "bulwer_henry_1883",
+      "target": "natal_1883",
+      "relationship_type": "governs",
+      "details": "Governor of Natal"
+    },
+    {
+      "source": "natal_railway_pmb_durban_1883",
+      "target": "natal_1883",
+      "relationship_type": "infrastructure_in",
+      "details": "Railway system in Natal"
+    },
+    {
+      "source": "mauritius_railway_north_1883",
+      "target": "mauritius_1883",
+      "relationship_type": "infrastructure_in",
+      "details": "Railway system in Mauritius"
+    },
+    {
+      "source": "trinidad_railway_arima_1883",
+      "target": "trinidad_1883",
+      "relationship_type": "infrastructure_in",
+      "details": "Railway system in Trinidad"
+    },
+    {
+      "source": "maxse_berkeley_1883",
+      "target": "newfoundland_1883",
+      "relationship_type": "governs",
+      "details": "Governor, Commander-in-Chief, and Vice-Admiral of Newfoundland"
+    },
+    {
+      "source": "havelock_arthur_1883",
+      "target": "sierra_leone_1883",
+      "relationship_type": "governs",
+      "details": "Governor-in-Chief of West Africa Settlements"
+    },
+    {
+      "source": "freeling_sanford_1883",
+      "target": "trinidad_1883",
+      "relationship_type": "governs",
+      "details": "Governor and Commander-in-Chief of Trinidad"
+    },
+    {
+      "source": "laborde_edward_1883",
+      "target": "tobago_1883",
+      "relationship_type": "governs",
+      "details": "Administrator and Colonial Secretary of Tobago"
+    },
+    {
+      "source": "goldsworthy_roger_1883",
+      "target": "st_lucia_1883",
+      "relationship_type": "governs",
+      "details": "Administrator of the Government and Colonial Secretary of St. Lucia"
+    },
+    {
+      "source": "gore_augustus_1883",
+      "target": "st_vincent_1883",
+      "relationship_type": "governs",
+      "details": "Lieutenant-Governor of St. Vincent"
+    }
+  ],
+  "notes": [
+    "This extraction covers approximately 34 colony files from the 1883 Colonial Office List",
+    "Data includes comprehensive geographic, economic, demographic, and administrative information",
+    "All historical spellings and terminology preserved as in original documents",
+    "Economic data primarily covers the period 1872-1881 where available",
+    "Population data primarily from 1881 census where available",
+    "Some larger colonies (Canada, Cape of Good Hope, Australian colonies, New Zealand) were only partially extracted due to file size",
+    "Currency notations preserved as in original (£ for pounds sterling, Rs. for Rupees, $ for dollars)",
+    "All measurements preserved in imperial units as in original documents",
+    "Colonial administrative structures reflect 1883 constitutional arrangements"
+  ]
+}

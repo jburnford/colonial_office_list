@@ -1,0 +1,3896 @@
+{
+  "metadata": {
+    "year": "1886",
+    "source_directory": "/home/user/colonial_office_list/output_2/1886_manual_parsed/",
+    "extraction_date": "2025-11-16T00:00:00Z",
+    "processing_notes": "Comprehensive extraction from 36 colony files in the 1886 Colonial Office List. All geographic entities, people, institutions, economic data, infrastructure, demographics, and historical events extracted with full fidelity to source material. Historical spelling and terminology preserved as written.",
+    "colonies_processed": [
+      "BAHAMAS",
+      "BARBADOS",
+      "BERMUDA",
+      "BRITISH_GUIANA",
+      "BRITISH_HONDURAS",
+      "CAPE_OF_GOOD_HOPE",
+      "CEYLON",
+      "CYPRUS",
+      "FALKLAND_ISLANDS",
+      "FIJI",
+      "GIBRALTAR",
+      "HELIGOLAND",
+      "HONG_KONG",
+      "JAMAICA",
+      "LABUAN",
+      "LAGOS",
+      "LEEWARD_ISLANDS",
+      "MALTA",
+      "MAURITIUS",
+      "NATAL",
+      "NEWFOUNDLAND",
+      "NEW_SOUTH_WALES",
+      "NEW_ZEALAND",
+      "QUEENSLAND",
+      "SIERRA_LEONE",
+      "SOUTH_AUSTRALIA",
+      "STRAITS_SETTLEMENTS",
+      "ST_HELENA",
+      "TASMANIA",
+      "THE_GAMBIA",
+      "TRINIDAD",
+      "TURKS_AND_CAICOS_ISLANDS",
+      "VICTORIA",
+      "WESTERN_AUSTRALIA",
+      "WEST_AFRICA_SETTLEMENTS",
+      "WINDWARD_ISLANDS"
+    ]
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_hong_kong_001",
+        "name": "Hong Kong",
+        "modern_name": "Hong Kong",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "22° 9' to 22° 1' N",
+          "longitude": "114° 5' to 114° 18' E"
+        },
+        "area": {
+          "value": 29,
+          "unit": "square miles"
+        },
+        "description": "The colony consists of the island of Hong Kong, ceded to Great Britain by China in 1841; the southern portion of the peninsula of Kowloon, similarly ceded in 1860; and Stonecutters Island, ceded in 1861.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/HONG_KONG.md",
+          "source_lines": "1-13",
+          "source_section": "HONG KONG.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_jamaica_001",
+        "name": "Jamaica",
+        "modern_name": "Jamaica",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "17° 43' to 18° 32' N",
+          "longitude": "76° 10' to 78° 20' W"
+        },
+        "area": {
+          "value": 4913,
+          "unit": "square miles"
+        },
+        "description": "The island of Jamaica was discovered by Columbus on his second voyage, May 3, 1494. It was originally inhabited by Arawak Indians. The Spaniards took possession in 1509 and held it until 1655, when it was captured by the English.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/JAMAICA.md",
+          "source_lines": "1-9",
+          "source_section": "JAMAICA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_labuan_001",
+        "name": "Labuan",
+        "modern_name": "Labuan",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "5° 16' N",
+          "longitude": "115° 15' E"
+        },
+        "area": {
+          "value": 30.23,
+          "unit": "square miles"
+        },
+        "description": "The island of Labuan was ceded to the British Crown by the Sultan of Brunei in 1846, and occupied in 1848. The island contains deposits of coal.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/LABUAN.md",
+          "source_lines": "1-9",
+          "source_section": "LABUAN.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_lagos_001",
+        "name": "Lagos",
+        "modern_name": "Lagos, Nigeria",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "2° to 5' E",
+          "longitude": "not specified"
+        },
+        "area": {
+          "value": 1071.5,
+          "unit": "square miles"
+        },
+        "description": "Lagos was ceded to the British Crown by King Docemo on August 6, 1861. The Colony was constituted in 1862, and was placed under the Governor of Sierra Leone in 1866.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/LAGOS.md",
+          "source_lines": "1-19",
+          "source_section": "LAGOS.*",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_lagos_island_001",
+        "name": "Lagos Island",
+        "modern_name": "Lagos Island",
+        "type": "island",
+        "parent_location": "place_lagos_001",
+        "area": {
+          "value": 3.25,
+          "unit": "square miles"
+        },
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/LAGOS_ISLAND.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/LAGOS_ISLAND.md"
+        }
+      },
+      {
+        "id": "place_turks_caicos_001",
+        "name": "Turks and Caicos Islands",
+        "modern_name": "Turks and Caicos Islands",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "21° and 22° N",
+          "longitude": "71° and 72° 37' W"
+        },
+        "area": {
+          "value": 169,
+          "unit": "square miles"
+        },
+        "description": "These islands were formerly included among the Bahama group, from which they were separated in 1848. On January 1, 1874, this Colony was annexed to Jamaica by Order in Council.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/TURKS_CAICOS.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/TURKS_CAICOS.md"
+        }
+      },
+      {
+        "id": "place_victoria_001",
+        "name": "Victoria",
+        "modern_name": "Victoria, Australia",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "34th and 39th parallels of south latitude",
+          "longitude": "141st and 150th meridians of east longitude"
+        },
+        "area": {
+          "value": 87884,
+          "unit": "square miles"
+        },
+        "description": "Victoria, the most populous of the Australasian colonies, is situated at the south-east of the Continent of Australia. Victoria was separated from New South Wales in 1851.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/VICTORIA.md",
+          "source_lines": "126-149",
+          "source_section": "VICTORIA.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_melbourne_001",
+        "name": "Melbourne",
+        "modern_name": "Melbourne",
+        "type": "city",
+        "parent_location": "place_victoria_001",
+        "description": "Melbourne, the metropolis of Victoria, is the most populous city in Australasia, having, with its suburbs, in 1885, an estimated population of 325,000. The first settlers established themselves on the site of the present city in 1835.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/MELBOURNE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/MELBOURNE.md"
+        }
+      },
+      {
+        "id": "place_western_australia_001",
+        "name": "Western Australia",
+        "modern_name": "Western Australia",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "not specified",
+          "longitude": "west of the 129th degree of E. longitude"
+        },
+        "area": {
+          "value": 1000000,
+          "unit": "square miles"
+        },
+        "description": "Includes all that portion of the Australian continent west of the 129th degree of E. longitude. Western Australia was first settled in 1829. The total population is as yet only 33,000 souls, excluding the aboriginal natives.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/WESTERN_AUSTRALIA.md",
+          "source_lines": "18-22",
+          "source_section": "WESTERN AUSTRALIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_perth_001",
+        "name": "Perth",
+        "modern_name": "Perth",
+        "type": "city",
+        "parent_location": "place_western_australia_001",
+        "coordinates": {
+          "latitude": "31° 57' S",
+          "longitude": "115° 52' E"
+        },
+        "description": "The city of Perth, the capital of Western Australia.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/PERTH.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/PERTH.md"
+        }
+      },
+      {
+        "id": "place_sierra_leone_001",
+        "name": "Sierra Leone",
+        "modern_name": "Sierra Leone",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "8° 30' N (Cape Sierra Leone)",
+          "longitude": "13° 18' W (Cape Sierra Leone)"
+        },
+        "area": {
+          "value": 2000,
+          "unit": "square miles"
+        },
+        "description": "Sierra Leone proper consists of a peninsula terminating in Cape Sierra Leone. The peninsula is 18 miles in length by 12 in breadth, with an area of 800 square miles. Sierra Leone was ceded to Great Britain in 1787 by the native chiefs.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "9-19",
+          "source_section": "SIERRA LEONE.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_freetown_001",
+        "name": "Freetown",
+        "modern_name": "Freetown",
+        "type": "city",
+        "parent_location": "place_sierra_leone_001",
+        "description": "Freetown is the capital and main port of Sierra Leone.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/FREETOWN.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/FREETOWN.md"
+        }
+      },
+      {
+        "id": "place_gambia_001",
+        "name": "The Gambia",
+        "modern_name": "The Gambia",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "13° 24' N (Bathurst)",
+          "longitude": "16° 36' W (Bathurst)"
+        },
+        "description": "The Gambia is a great river of Western Africa falling into the Atlantic Ocean. The settlement consists of the Island of St. Mary's, British Combo, Albreda, the Ceded Mile, and McCarthy's Island.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GAMBIA.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GAMBIA.md"
+        }
+      },
+      {
+        "id": "place_bathurst_001",
+        "name": "Bathurst",
+        "modern_name": "Banjul",
+        "type": "town",
+        "parent_location": "place_gambia_001",
+        "coordinates": {
+          "latitude": "13° 24' N",
+          "longitude": "16° 36' W"
+        },
+        "description": "The town of Bathurst is situated on St. Mary's Island, a sandbank about three and a-half miles long and a mile and a quarter broad.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/BATHURST.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/BATHURST.md"
+        }
+      },
+      {
+        "id": "place_grenada_001",
+        "name": "Grenada",
+        "modern_name": "Grenada",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "12° 30' and 11° 58' N",
+          "longitude": "61° 20' and 61° 35' W"
+        },
+        "area": {
+          "value": 76538,
+          "unit": "acres"
+        },
+        "description": "Grenada is about 21 miles in length, 12 miles in its greatest breadth. The country is mountainous and very picturesque. Grenada was discovered by Columbus in 1498.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GRENADA.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GRENADA.md"
+        }
+      },
+      {
+        "id": "place_st_vincent_001",
+        "name": "St. Vincent",
+        "modern_name": "Saint Vincent",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "13° 10' N",
+          "longitude": "60° 57' W"
+        },
+        "area": {
+          "value": 85000,
+          "unit": "acres"
+        },
+        "description": "The Island of St. Vincent was discovered by Columbus on January 22, 1498. It is 18 miles in length, and 11 in breadth.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/ST_VINCENT.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/ST_VINCENT.md"
+        }
+      },
+      {
+        "id": "place_kingstown_001",
+        "name": "Kingstown",
+        "modern_name": "Kingstown",
+        "type": "city",
+        "parent_location": "place_st_vincent_001",
+        "description": "Kingstown, the capital of St. Vincent, is situated at the bottom of an extensive bay, at the southwestern extremity of the island. It contains a population of 5,593 souls.",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/KINGSTOWN.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/KINGSTOWN.md"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_bowen_001",
+        "name": "George Ferguson Bowen",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Governor",
+            "department": "Executive",
+            "location": "Hong Kong",
+            "salary": {
+              "amount": 24000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "table money",
+                "amount": 4800,
+                "currency": "$"
+              }
+            ],
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/BOWEN.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/BOWEN.md"
+        }
+      },
+      {
+        "id": "person_jackson_001",
+        "name": "H. M. Jackson",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Commissioner",
+            "department": "Executive",
+            "location": "Turks and Caicos Islands",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1886"
+          },
+          {
+            "title": "President of the Board",
+            "department": "Legislative Board",
+            "location": "Turks and Caicos Islands",
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/JACKSON.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/JACKSON.md"
+        }
+      },
+      {
+        "id": "person_rae_001",
+        "name": "J. M. Rae",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Assistant Commissioner at Grand Turk, and Registrar of the Supreme Court",
+            "department": "Executive",
+            "location": "Turks and Caicos Islands",
+            "salary": {
+              "amount": 250,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1886"
+          },
+          {
+            "title": "Acting Judge of the Supreme Court",
+            "department": "Judicial",
+            "location": "Turks and Caicos Islands",
+            "status": "acting",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/RAE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/RAE.md"
+        }
+      },
+      {
+        "id": "person_anderson_001",
+        "name": "W. J. Anderson",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Judge of the Supreme Court",
+            "department": "Judicial",
+            "location": "Turks and Caicos Islands",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/ANDERSON.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/ANDERSON.md"
+        }
+      },
+      {
+        "id": "person_broome_001",
+        "name": "Frederick Napier Broome",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "department": "Executive",
+            "location": "Western Australia",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "forage allowance",
+                "amount": 13,
+                "currency": "£"
+              }
+            ],
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/BROOME.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/BROOME.md"
+        }
+      },
+      {
+        "id": "person_fraser_001",
+        "name": "M. Fraser",
+        "titles": [],
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "department": "Colonial Secretary's Department",
+            "location": "Western Australia",
+            "salary": {
+              "amount": 900,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/FRASER.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/FRASER.md"
+        }
+      },
+      {
+        "id": "person_hensman_001",
+        "name": "A. P. Hensman",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "department": "Executive Council",
+            "location": "Western Australia",
+            "salary": {
+              "amount": 600,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/HENSMAN.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/HENSMAN.md"
+        }
+      },
+      {
+        "id": "person_lefroy_001",
+        "name": "Anthony O'Grady Lefroy",
+        "titles": [],
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Colonial Treasurer",
+            "department": "Executive Council",
+            "location": "Western Australia",
+            "salary": {
+              "amount": 650,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/LEFROY.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/LEFROY.md"
+        }
+      },
+      {
+        "id": "person_forrest_001",
+        "name": "John Forrest",
+        "titles": [],
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Surveyor-General and Commissioner of Crown Lands",
+            "department": "Land and Survey Department",
+            "location": "Western Australia",
+            "salary": {
+              "amount": 600,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "allowance",
+                "amount": 150,
+                "currency": "£"
+              }
+            ],
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/FORREST.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/FORREST.md"
+        }
+      },
+      {
+        "id": "person_wright_001",
+        "name": "J. A. Wright",
+        "titles": [],
+        "honors": [
+          "M.I.C.E."
+        ],
+        "positions": [
+          {
+            "title": "Director of Works and Engineer-in-Chief",
+            "department": "Works and Railways Department",
+            "location": "Western Australia",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/WRIGHT.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/WRIGHT.md"
+        }
+      },
+      {
+        "id": "person_rowe_001",
+        "name": "Samuel Rowe",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor, Commander-in-Chief, and Vice-Admiral of W. Africa Settlements",
+            "department": "Executive",
+            "location": "Sierra Leone",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "allowances",
+                "amount": 500,
+                "currency": "£",
+                "description": "of which 1,000l. personal"
+              }
+            ],
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/ROWE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/ROWE.md"
+        }
+      },
+      {
+        "id": "person_griffith_001",
+        "name": "T. Risely Griffith",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary and Treasurer",
+            "department": "Secretariat and Treasury",
+            "location": "Sierra Leone",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "quarters",
+                "description": "and quarters"
+              }
+            ],
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GRIFFITH.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GRIFFITH.md"
+        }
+      },
+      {
+        "id": "person_pinkett_001",
+        "name": "F. F. Pinkett",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Justice and Judge of the Vice-Admiralty Court",
+            "department": "Judicial Establishment",
+            "location": "Sierra Leone",
+            "salary": {
+              "amount": 1500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/PINKETT.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/PINKETT.md"
+        }
+      },
+      {
+        "id": "person_hay_001",
+        "name": "J. S. Hay",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Administrator",
+            "department": "Executive",
+            "location": "The Gambia",
+            "salary": {
+              "amount": 1300,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/HAY.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/HAY.md"
+        }
+      },
+      {
+        "id": "person_carter_001",
+        "name": "Gilbert T. Carter",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Treasurer and Postmaster",
+            "department": "Treasury and Post Office",
+            "location": "The Gambia",
+            "salary": {
+              "amount": 700,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "personal",
+                "amount": 100,
+                "currency": "£",
+                "description": "100l. personal"
+              }
+            ],
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/CARTER.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/CARTER.md"
+        }
+      },
+      {
+        "id": "person_sendall_001",
+        "name": "Walter J. Sendall",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Governor-in-Chief, Windward Islands",
+            "department": "Executive",
+            "location": "Grenada",
+            "salary": {
+              "amount": 2500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/SENDALL.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/SENDALL.md"
+        }
+      },
+      {
+        "id": "person_maling_001",
+        "name": "Irwin C. Maling",
+        "titles": [
+          "Captain"
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary and Registrar-General",
+            "department": "Colonial Secretary's Office",
+            "location": "Grenada",
+            "salary": {
+              "amount": 550,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/MALING.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/MALING.md"
+        }
+      },
+      {
+        "id": "person_gresham_001",
+        "name": "J. F. Gresham",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Justice, Judge of the Vice-Admiralty Court, and Vice-Chancellor",
+            "department": "Judicial Establishment",
+            "location": "Grenada",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GRESHAM.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GRESHAM.md"
+        }
+      },
+      {
+        "id": "person_orgias_001",
+        "name": "Paulin Orgias",
+        "titles": [
+          "M.D."
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Surgeon",
+            "department": "Medical Officers",
+            "location": "Grenada",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "allowance",
+                "amount": 50,
+                "currency": "£"
+              }
+            ],
+            "status": "permanent",
+            "year": "1886"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/ORGIAS.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/ORGIAS.md"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_hong_kong_exec_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Hong Kong",
+        "composition": {
+          "description": "Composed of 5 official members",
+          "member_count": 5
+        },
+        "function": "Advisory body to the Governor",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/HONG_KONG_EXEC.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/HONG_KONG_EXEC.md"
+        }
+      },
+      {
+        "id": "inst_hong_kong_leg_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Hong Kong",
+        "composition": {
+          "description": "Composed of official and unofficial members"
+        },
+        "function": "Legislative body for the colony",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/HONG_KONG_LEG.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/HONG_KONG_LEG.md"
+        }
+      },
+      {
+        "id": "inst_turks_leg_001",
+        "name": "Legislative Board",
+        "type": "legislative_council",
+        "location": "Turks and Caicos Islands",
+        "composition": {
+          "description": "Consisting of the Chief Commissioner and Judge and not less than two, nor more than four, other persons appointed by the Governor of Jamaica",
+          "members": [
+            "person_jackson_001",
+            "person_rae_001"
+          ]
+        },
+        "function": "Taxation and expenditure, and other matters of a purely local character are regulated by this Board",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/TURKS_LEG.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/TURKS_LEG.md"
+        }
+      },
+      {
+        "id": "inst_western_australia_exec_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Western Australia",
+        "composition": {
+          "description": "Governor, Colonial Secretary, Attorney-General, Colonial Treasurer, Surveyor-General, Director of Works",
+          "members": [
+            "person_broome_001",
+            "person_fraser_001",
+            "person_hensman_001",
+            "person_lefroy_001",
+            "person_forrest_001",
+            "person_wright_001"
+          ]
+        },
+        "function": "Advising the Governor on colonial affairs",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/WESTERN_AUSTRALIA_EXEC.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/WESTERN_AUSTRALIA_EXEC.md"
+        }
+      },
+      {
+        "id": "inst_western_australia_leg_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Western Australia",
+        "composition": {
+          "description": "24 members, of whom 4 are official, 4 nominated, and 16 elected",
+          "member_count": 24
+        },
+        "function": "Legislative body for the colony",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/WESTERN_AUSTRALIA_LEG.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/WESTERN_AUSTRALIA_LEG.md"
+        }
+      },
+      {
+        "id": "inst_sierra_leone_exec_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Sierra Leone",
+        "composition": {
+          "description": "President (the Governor-in-Chief), The Chief Justice, The Colonial Secretary and Treasurer, The Officer Commanding the Forces, The Queen's Advocate",
+          "members": [
+            "person_rowe_001",
+            "person_pinkett_001",
+            "person_griffith_001"
+          ]
+        },
+        "function": "Advisory body to the Governor-in-Chief",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/SIERRA_LEONE_EXEC.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/SIERRA_LEONE_EXEC.md"
+        }
+      },
+      {
+        "id": "inst_sierra_leone_leg_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Sierra Leone",
+        "composition": {
+          "description": "The Governor, The Chief Justice, The Colonial Secretary and Treasurer, The Officer Commanding the Forces, The Queen's Advocate, and 3 unofficial members",
+          "member_count": 8
+        },
+        "function": "Legislative body for Sierra Leone",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/SIERRA_LEONE_LEG.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/SIERRA_LEONE_LEG.md"
+        }
+      },
+      {
+        "id": "inst_gambia_leg_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "The Gambia",
+        "composition": {
+          "description": "The Administrator (President), The Treasurer, The Collector of Customs, The Chief Magistrate (ex-officio members), and 2 unofficial members",
+          "members": [
+            "person_hay_001",
+            "person_carter_001"
+          ]
+        },
+        "function": "Legislative body for The Gambia",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GAMBIA_LEG.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GAMBIA_LEG.md"
+        }
+      },
+      {
+        "id": "inst_grenada_exec_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Grenada",
+        "composition": {
+          "description": "The Officer administering the Government, The Colonial Secretary, The Attorney-General, The Treasurer"
+        },
+        "function": "Advisory body to the Governor",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GRENADA_EXEC.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GRENADA_EXEC.md"
+        }
+      },
+      {
+        "id": "inst_grenada_leg_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Grenada",
+        "composition": {
+          "description": "The Officer administering the Government, The Colonial Secretary, The Attorney-General, The Treasurer, The Colonial Surgeon, and 5 unofficial members",
+          "members": [
+            "person_sendall_001",
+            "person_maling_001",
+            "person_orgias_001"
+          ]
+        },
+        "function": "Legislative body for Grenada",
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GRENADA_LEG.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GRENADA_LEG.md"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_hong_kong_rev_001",
+        "type": "revenue",
+        "location": "Hong Kong",
+        "year": "1881",
+        "data": {
+          "category": "total revenue",
+          "value": 654296,
+          "currency": "$"
+        },
+        "time_series": [
+          {
+            "year": "1881",
+            "value": 654296
+          },
+          {
+            "year": "1882",
+            "value": 725581
+          },
+          {
+            "year": "1883",
+            "value": 761285
+          },
+          {
+            "year": "1884",
+            "value": 793047
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/HONG_KONG_REV.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/HONG_KONG_REV.md"
+        }
+      },
+      {
+        "id": "econ_hong_kong_exp_001",
+        "type": "expenditure",
+        "location": "Hong Kong",
+        "year": "1881",
+        "data": {
+          "category": "total expenditure",
+          "value": 652887,
+          "currency": "$"
+        },
+        "time_series": [
+          {
+            "year": "1881",
+            "value": 652887
+          },
+          {
+            "year": "1882",
+            "value": 680598
+          },
+          {
+            "year": "1883",
+            "value": 723364
+          },
+          {
+            "year": "1884",
+            "value": 750102
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/HONG_KONG_EXP.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/HONG_KONG_EXP.md"
+        }
+      },
+      {
+        "id": "econ_jamaica_rev_001",
+        "type": "revenue",
+        "location": "Jamaica",
+        "year": "1875",
+        "data": {
+          "category": "total revenue",
+          "value": 369078,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 369078
+          },
+          {
+            "year": "1876",
+            "value": 344869
+          },
+          {
+            "year": "1877",
+            "value": 348479
+          },
+          {
+            "year": "1878",
+            "value": 349642
+          },
+          {
+            "year": "1879",
+            "value": 367869
+          },
+          {
+            "year": "1880",
+            "value": 379698
+          },
+          {
+            "year": "1881",
+            "value": 385297
+          },
+          {
+            "year": "1882",
+            "value": 396830
+          },
+          {
+            "year": "1883",
+            "value": 440970
+          },
+          {
+            "year": "1884",
+            "value": 453917
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/JAMAICA_REV.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/JAMAICA_REV.md"
+        }
+      },
+      {
+        "id": "econ_jamaica_exp_001",
+        "type": "expenditure",
+        "location": "Jamaica",
+        "year": "1875",
+        "data": {
+          "category": "total expenditure",
+          "value": 367997,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 367997
+          },
+          {
+            "year": "1876",
+            "value": 369825
+          },
+          {
+            "year": "1877",
+            "value": 363267
+          },
+          {
+            "year": "1878",
+            "value": 363934
+          },
+          {
+            "year": "1879",
+            "value": 379478
+          },
+          {
+            "year": "1880",
+            "value": 382990
+          },
+          {
+            "year": "1881",
+            "value": 390476
+          },
+          {
+            "year": "1882",
+            "value": 405134
+          },
+          {
+            "year": "1883",
+            "value": 406701
+          },
+          {
+            "year": "1884",
+            "value": 440868
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/JAMAICA_EXP.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/JAMAICA_EXP.md"
+        }
+      },
+      {
+        "id": "econ_turks_rev_001",
+        "type": "revenue",
+        "location": "Turks and Caicos Islands",
+        "year": "1875",
+        "data": {
+          "category": "total revenue",
+          "value": 7729,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 7729
+          },
+          {
+            "year": "1876",
+            "value": 8596
+          },
+          {
+            "year": "1877",
+            "value": 6298
+          },
+          {
+            "year": "1878",
+            "value": 6594
+          },
+          {
+            "year": "1879",
+            "value": 6334
+          },
+          {
+            "year": "1880",
+            "value": 7084
+          },
+          {
+            "year": "1881",
+            "value": 7559
+          },
+          {
+            "year": "1882",
+            "value": 7506
+          },
+          {
+            "year": "1883",
+            "value": 10017
+          },
+          {
+            "year": "1884",
+            "value": 10473
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/TURKS_REV.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/TURKS_REV.md"
+        }
+      },
+      {
+        "id": "econ_turks_exp_001",
+        "type": "expenditure",
+        "location": "Turks and Caicos Islands",
+        "year": "1875",
+        "data": {
+          "category": "total expenditure",
+          "value": 7620,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 7620
+          },
+          {
+            "year": "1876",
+            "value": 7599
+          },
+          {
+            "year": "1877",
+            "value": 6305
+          },
+          {
+            "year": "1878",
+            "value": 6340
+          },
+          {
+            "year": "1879",
+            "value": 6089
+          },
+          {
+            "year": "1880",
+            "value": 6252
+          },
+          {
+            "year": "1881",
+            "value": 6498
+          },
+          {
+            "year": "1882",
+            "value": 6685
+          },
+          {
+            "year": "1883",
+            "value": 8019
+          },
+          {
+            "year": "1884",
+            "value": 7978
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/TURKS_EXP.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/TURKS_EXP.md"
+        }
+      },
+      {
+        "id": "econ_turks_imports_001",
+        "type": "trade_import",
+        "location": "Turks and Caicos Islands",
+        "year": "1875",
+        "data": {
+          "category": "total imports",
+          "value": 23340,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 23340
+          },
+          {
+            "year": "1876",
+            "value": 23857
+          },
+          {
+            "year": "1877",
+            "value": 21790
+          },
+          {
+            "year": "1878",
+            "value": 19368
+          },
+          {
+            "year": "1879",
+            "value": 21939
+          },
+          {
+            "year": "1880",
+            "value": 24729
+          },
+          {
+            "year": "1881",
+            "value": 27054
+          },
+          {
+            "year": "1882",
+            "value": 26882
+          },
+          {
+            "year": "1883",
+            "value": 24558
+          },
+          {
+            "year": "1884",
+            "value": 26623
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/TURKS_IMPORTS.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/TURKS_IMPORTS.md"
+        }
+      },
+      {
+        "id": "econ_turks_exports_001",
+        "type": "trade_export",
+        "location": "Turks and Caicos Islands",
+        "year": "1875",
+        "data": {
+          "category": "total exports",
+          "value": 26364,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 26364
+          },
+          {
+            "year": "1876",
+            "value": 31566
+          },
+          {
+            "year": "1877",
+            "value": 22185
+          },
+          {
+            "year": "1878",
+            "value": 26910
+          },
+          {
+            "year": "1879",
+            "value": 17942
+          },
+          {
+            "year": "1880",
+            "value": 24753
+          },
+          {
+            "year": "1881",
+            "value": 25615
+          },
+          {
+            "year": "1882",
+            "value": 23331
+          },
+          {
+            "year": "1883",
+            "value": 32986
+          },
+          {
+            "year": "1884",
+            "value": 34035
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/TURKS_EXPORTS.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/TURKS_EXPORTS.md"
+        }
+      },
+      {
+        "id": "econ_western_australia_rev_001",
+        "type": "revenue",
+        "location": "Western Australia",
+        "year": "1875",
+        "data": {
+          "category": "total revenue",
+          "value": 157775,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 157775
+          },
+          {
+            "year": "1876",
+            "value": 162189
+          },
+          {
+            "year": "1877",
+            "value": 163412
+          },
+          {
+            "year": "1878",
+            "value": 163844
+          },
+          {
+            "year": "1879",
+            "value": 196315
+          },
+          {
+            "year": "1880",
+            "value": 180049
+          },
+          {
+            "year": "1881",
+            "value": 254818
+          },
+          {
+            "year": "1882",
+            "value": 250372
+          },
+          {
+            "year": "1883",
+            "value": 284364
+          },
+          {
+            "year": "1884",
+            "value": 290819
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/WESTERN_AUSTRALIA_REV.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/WESTERN_AUSTRALIA_REV.md"
+        }
+      },
+      {
+        "id": "econ_western_australia_exp_001",
+        "type": "expenditure",
+        "location": "Western Australia",
+        "year": "1875",
+        "data": {
+          "category": "total expenditure",
+          "value": 169203,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 169203
+          },
+          {
+            "year": "1876",
+            "value": 179484
+          },
+          {
+            "year": "1877",
+            "value": 182959
+          },
+          {
+            "year": "1878",
+            "value": 198248
+          },
+          {
+            "year": "1879",
+            "value": 195812
+          },
+          {
+            "year": "1880",
+            "value": 204337
+          },
+          {
+            "year": "1881",
+            "value": 197386
+          },
+          {
+            "year": "1882",
+            "value": 205451
+          },
+          {
+            "year": "1883",
+            "value": 240566
+          },
+          {
+            "year": "1884",
+            "value": 291307
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/WESTERN_AUSTRALIA_EXP.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/WESTERN_AUSTRALIA_EXP.md"
+        }
+      },
+      {
+        "id": "econ_western_australia_imports_001",
+        "type": "trade_import",
+        "location": "Western Australia",
+        "year": "1875",
+        "data": {
+          "category": "total imports",
+          "value": 849840,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 849840
+          },
+          {
+            "year": "1876",
+            "value": 886036
+          },
+          {
+            "year": "1877",
+            "value": 862706
+          },
+          {
+            "year": "1878",
+            "value": 379049
+          },
+          {
+            "year": "1879",
+            "value": 407299
+          },
+          {
+            "year": "1880",
+            "value": 853669
+          },
+          {
+            "year": "1881",
+            "value": 404831
+          },
+          {
+            "year": "1882",
+            "value": 508755
+          },
+          {
+            "year": "1883",
+            "value": 516846
+          },
+          {
+            "year": "1884",
+            "value": 521167
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/WESTERN_AUSTRALIA_IMPORTS.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/WESTERN_AUSTRALIA_IMPORTS.md"
+        }
+      },
+      {
+        "id": "econ_western_australia_exports_001",
+        "type": "trade_export",
+        "location": "Western Australia",
+        "year": "1875",
+        "data": {
+          "category": "total exports",
+          "value": 891217,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 891217
+          },
+          {
+            "year": "1876",
+            "value": 897292
+          },
+          {
+            "year": "1877",
+            "value": 873351
+          },
+          {
+            "year": "1878",
+            "value": 428491
+          },
+          {
+            "year": "1879",
+            "value": 447983
+          },
+          {
+            "year": "1880",
+            "value": 499183
+          },
+          {
+            "year": "1881",
+            "value": 502769
+          },
+          {
+            "year": "1882",
+            "value": 583055
+          },
+          {
+            "year": "1883",
+            "value": 447010
+          },
+          {
+            "year": "1884",
+            "value": 405698
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/WESTERN_AUSTRALIA_EXPORTS.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/WESTERN_AUSTRALIA_EXPORTS.md"
+        }
+      },
+      {
+        "id": "econ_sierra_leone_rev_001",
+        "type": "revenue",
+        "location": "Sierra Leone",
+        "year": "1875",
+        "data": {
+          "category": "total revenue",
+          "value": 58376,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 58376
+          },
+          {
+            "year": "1876",
+            "value": 56389
+          },
+          {
+            "year": "1877",
+            "value": 56320
+          },
+          {
+            "year": "1878",
+            "value": 63125
+          },
+          {
+            "year": "1879",
+            "value": 71877
+          },
+          {
+            "year": "1880",
+            "value": 72558
+          },
+          {
+            "year": "1881",
+            "value": 65415
+          },
+          {
+            "year": "1882",
+            "value": 62485
+          },
+          {
+            "year": "1883",
+            "value": 62418
+          },
+          {
+            "year": "1884",
+            "value": 78096
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/SIERRA_LEONE_REV.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/SIERRA_LEONE_REV.md"
+        }
+      },
+      {
+        "id": "econ_sierra_leone_exp_001",
+        "type": "expenditure",
+        "location": "Sierra Leone",
+        "year": "1875",
+        "data": {
+          "category": "total expenditure",
+          "value": 67111,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 67111
+          },
+          {
+            "year": "1876",
+            "value": 64706
+          },
+          {
+            "year": "1877",
+            "value": 52248
+          },
+          {
+            "year": "1878",
+            "value": 58256
+          },
+          {
+            "year": "1879",
+            "value": 57802
+          },
+          {
+            "year": "1880",
+            "value": 68128
+          },
+          {
+            "year": "1881",
+            "value": 66859
+          },
+          {
+            "year": "1882",
+            "value": 59737
+          },
+          {
+            "year": "1883",
+            "value": 78216
+          },
+          {
+            "year": "1884",
+            "value": 82269
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/SIERRA_LEONE_EXP.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/SIERRA_LEONE_EXP.md"
+        }
+      },
+      {
+        "id": "econ_sierra_leone_imports_001",
+        "type": "trade_import",
+        "location": "Sierra Leone",
+        "year": "1875",
+        "data": {
+          "category": "total imports",
+          "value": 326011,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 326011
+          },
+          {
+            "year": "1876",
+            "value": 272606
+          },
+          {
+            "year": "1877",
+            "value": 368442
+          },
+          {
+            "year": "1878",
+            "value": 524648
+          },
+          {
+            "year": "1879",
+            "value": 409648
+          },
+          {
+            "year": "1880",
+            "value": 445358
+          },
+          {
+            "year": "1881",
+            "value": 874875
+          },
+          {
+            "year": "1882",
+            "value": 898815
+          },
+          {
+            "year": "1883",
+            "value": 483581
+          },
+          {
+            "year": "1884",
+            "value": 464081
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/SIERRA_LEONE_IMPORTS.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/SIERRA_LEONE_IMPORTS.md"
+        }
+      },
+      {
+        "id": "econ_sierra_leone_exports_001",
+        "type": "trade_export",
+        "location": "Sierra Leone",
+        "year": "1875",
+        "data": {
+          "category": "total exports",
+          "value": 350202,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 350202
+          },
+          {
+            "year": "1876",
+            "value": 297036
+          },
+          {
+            "year": "1877",
+            "value": 388530
+          },
+          {
+            "year": "1878",
+            "value": 591646
+          },
+          {
+            "year": "1879",
+            "value": 591080
+          },
+          {
+            "year": "1880",
+            "value": 875985
+          },
+          {
+            "year": "1881",
+            "value": 865862
+          },
+          {
+            "year": "1882",
+            "value": 420017
+          },
+          {
+            "year": "1883",
+            "value": 442373
+          },
+          {
+            "year": "1884",
+            "value": 877065
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/SIERRA_LEONE_EXPORTS.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/SIERRA_LEONE_EXPORTS.md"
+        }
+      },
+      {
+        "id": "econ_gambia_rev_001",
+        "type": "revenue",
+        "location": "The Gambia",
+        "year": "1875",
+        "data": {
+          "category": "total revenue",
+          "value": 22700,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 22700
+          },
+          {
+            "year": "1876",
+            "value": 19786
+          },
+          {
+            "year": "1877",
+            "value": 19254
+          },
+          {
+            "year": "1878",
+            "value": 26546
+          },
+          {
+            "year": "1879",
+            "value": 28505
+          },
+          {
+            "year": "1880",
+            "value": 23341
+          },
+          {
+            "year": "1881",
+            "value": 24088
+          },
+          {
+            "year": "1882",
+            "value": 26625
+          },
+          {
+            "year": "1883",
+            "value": 28962
+          },
+          {
+            "year": "1884",
+            "value": 24958
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GAMBIA_REV.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GAMBIA_REV.md"
+        }
+      },
+      {
+        "id": "econ_gambia_exp_001",
+        "type": "expenditure",
+        "location": "The Gambia",
+        "year": "1875",
+        "data": {
+          "category": "total expenditure",
+          "value": 22468,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 22468
+          },
+          {
+            "year": "1876",
+            "value": 21489
+          },
+          {
+            "year": "1877",
+            "value": 18728
+          },
+          {
+            "year": "1878",
+            "value": 18876
+          },
+          {
+            "year": "1879",
+            "value": 20674
+          },
+          {
+            "year": "1880",
+            "value": 18861
+          },
+          {
+            "year": "1881",
+            "value": 19840
+          },
+          {
+            "year": "1882",
+            "value": 19721
+          },
+          {
+            "year": "1883",
+            "value": 28878
+          },
+          {
+            "year": "1884",
+            "value": 29482
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GAMBIA_EXP.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GAMBIA_EXP.md"
+        }
+      },
+      {
+        "id": "econ_gambia_imports_001",
+        "type": "trade_import",
+        "location": "The Gambia",
+        "year": "1875",
+        "data": {
+          "category": "total imports",
+          "value": 142754,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 142754
+          },
+          {
+            "year": "1876",
+            "value": 89356
+          },
+          {
+            "year": "1877",
+            "value": 98088
+          },
+          {
+            "year": "1878",
+            "value": 147441
+          },
+          {
+            "year": "1879",
+            "value": 190167
+          },
+          {
+            "year": "1880",
+            "value": 191580
+          },
+          {
+            "year": "1881",
+            "value": 160628
+          },
+          {
+            "year": "1882",
+            "value": 178889
+          },
+          {
+            "year": "1883",
+            "value": 198919
+          },
+          {
+            "year": "1884",
+            "value": 212121
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GAMBIA_IMPORTS.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GAMBIA_IMPORTS.md"
+        }
+      },
+      {
+        "id": "econ_gambia_exports_001",
+        "type": "trade_export",
+        "location": "The Gambia",
+        "year": "1875",
+        "data": {
+          "category": "total exports",
+          "value": 147465,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 147465
+          },
+          {
+            "year": "1876",
+            "value": 86216
+          },
+          {
+            "year": "1877",
+            "value": 125057
+          },
+          {
+            "year": "1878",
+            "value": 204299
+          },
+          {
+            "year": "1879",
+            "value": 207364
+          },
+          {
+            "year": "1880",
+            "value": 188988
+          },
+          {
+            "year": "1881",
+            "value": 140423
+          },
+          {
+            "year": "1882",
+            "value": 254711
+          },
+          {
+            "year": "1883",
+            "value": 208120
+          },
+          {
+            "year": "1884",
+            "value": 199482
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GAMBIA_EXPORTS.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GAMBIA_EXPORTS.md"
+        }
+      },
+      {
+        "id": "econ_grenada_rev_001",
+        "type": "revenue",
+        "location": "Grenada",
+        "year": "1875",
+        "data": {
+          "category": "total revenue",
+          "value": 29442,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 29442
+          },
+          {
+            "year": "1876",
+            "value": 26286
+          },
+          {
+            "year": "1877",
+            "value": 29084
+          },
+          {
+            "year": "1878",
+            "value": 34078
+          },
+          {
+            "year": "1879",
+            "value": 36034
+          },
+          {
+            "year": "1880",
+            "value": 36088
+          },
+          {
+            "year": "1881",
+            "value": 37176
+          },
+          {
+            "year": "1882",
+            "value": 45101
+          },
+          {
+            "year": "1883",
+            "value": 43883
+          },
+          {
+            "year": "1884",
+            "value": 51488
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GRENADA_REV.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GRENADA_REV.md"
+        }
+      },
+      {
+        "id": "econ_grenada_exp_001",
+        "type": "expenditure",
+        "location": "Grenada",
+        "year": "1875",
+        "data": {
+          "category": "total expenditure",
+          "value": 27553,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 27553
+          },
+          {
+            "year": "1876",
+            "value": 26723
+          },
+          {
+            "year": "1877",
+            "value": 29581
+          },
+          {
+            "year": "1878",
+            "value": 27405
+          },
+          {
+            "year": "1879",
+            "value": 36645
+          },
+          {
+            "year": "1880",
+            "value": 38060
+          },
+          {
+            "year": "1881",
+            "value": 39396
+          },
+          {
+            "year": "1882",
+            "value": 43663
+          },
+          {
+            "year": "1883",
+            "value": 46976
+          },
+          {
+            "year": "1884",
+            "value": 45260
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GRENADA_EXP.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GRENADA_EXP.md"
+        }
+      },
+      {
+        "id": "econ_grenada_imports_001",
+        "type": "trade_import",
+        "location": "Grenada",
+        "year": "1875",
+        "data": {
+          "category": "total imports",
+          "value": 118385,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 118385
+          },
+          {
+            "year": "1876",
+            "value": 114860
+          },
+          {
+            "year": "1877",
+            "value": 127204
+          },
+          {
+            "year": "1878",
+            "value": 130688
+          },
+          {
+            "year": "1879",
+            "value": 156532
+          },
+          {
+            "year": "1880",
+            "value": 138619
+          },
+          {
+            "year": "1881",
+            "value": 131985
+          },
+          {
+            "year": "1882",
+            "value": 136374
+          },
+          {
+            "year": "1883",
+            "value": 135265
+          },
+          {
+            "year": "1884",
+            "value": 153421
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GRENADA_IMPORTS.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GRENADA_IMPORTS.md"
+        }
+      },
+      {
+        "id": "econ_grenada_exports_001",
+        "type": "trade_export",
+        "location": "Grenada",
+        "year": "1875",
+        "data": {
+          "category": "total exports",
+          "value": 171831,
+          "currency": "£"
+        },
+        "time_series": [
+          {
+            "year": "1875",
+            "value": 171831
+          },
+          {
+            "year": "1876",
+            "value": 178583
+          },
+          {
+            "year": "1877",
+            "value": 145906
+          },
+          {
+            "year": "1878",
+            "value": 149208
+          },
+          {
+            "year": "1879",
+            "value": 149426
+          },
+          {
+            "year": "1880",
+            "value": 171727
+          },
+          {
+            "year": "1881",
+            "value": 194279
+          },
+          {
+            "year": "1882",
+            "value": 184221
+          },
+          {
+            "year": "1883",
+            "value": 193524
+          },
+          {
+            "year": "1884",
+            "value": 212870
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GRENADA_EXPORTS.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GRENADA_EXPORTS.md"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_jamaica_railway_001",
+        "type": "railway",
+        "name": "Kingston to Porus Railway",
+        "location": "Jamaica",
+        "route": {
+          "from": "Kingston",
+          "to": "Porus"
+        },
+        "specifications": {
+          "length": {
+            "value": 50,
+            "unit": "miles"
+          }
+        },
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/JAMAICA_RAILWAY.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/JAMAICA_RAILWAY.md"
+        }
+      },
+      {
+        "id": "infra_jamaica_railway_002",
+        "type": "railway",
+        "name": "Kingston to Ewarton Railway",
+        "location": "Jamaica",
+        "route": {
+          "from": "Kingston",
+          "to": "Ewarton"
+        },
+        "specifications": {
+          "length": {
+            "value": 48,
+            "unit": "miles"
+          }
+        },
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/JAMAICA_RAILWAY.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/JAMAICA_RAILWAY.md"
+        }
+      },
+      {
+        "id": "infra_victoria_railway_001",
+        "type": "railway",
+        "name": "Victorian Railways",
+        "location": "Victoria",
+        "specifications": {
+          "length": {
+            "value": 1663,
+            "unit": "miles"
+          },
+          "stations": null
+        },
+        "connections": [],
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/VICTORIA_RAILWAY.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/VICTORIA_RAILWAY.md"
+        }
+      },
+      {
+        "id": "infra_victoria_telegraph_001",
+        "type": "telegraph",
+        "name": "Victorian Telegraph Lines",
+        "location": "Victoria",
+        "specifications": {
+          "length": {
+            "value": 4020,
+            "unit": "miles of telegraph lines"
+          }
+        },
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/VICTORIA_TELEGRAPH.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/VICTORIA_TELEGRAPH.md"
+        }
+      },
+      {
+        "id": "infra_western_australia_railway_001",
+        "type": "railway",
+        "name": "Fremantle-Perth-Guildford-York Railway",
+        "location": "Western Australia",
+        "route": {
+          "from": "Fremantle",
+          "to": "York",
+          "via": [
+            "Perth",
+            "Guildford"
+          ]
+        },
+        "specifications": {
+          "length": {
+            "value": 90,
+            "unit": "miles"
+          }
+        },
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/WESTERN_AUSTRALIA_RAILWAY.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/WESTERN_AUSTRALIA_RAILWAY.md"
+        }
+      },
+      {
+        "id": "infra_western_australia_railway_002",
+        "type": "railway",
+        "name": "Geraldton to Northampton Railway",
+        "location": "Western Australia",
+        "route": {
+          "from": "Geraldton",
+          "to": "Northampton"
+        },
+        "specifications": {
+          "length": {
+            "value": 34,
+            "unit": "miles"
+          }
+        },
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/WESTERN_AUSTRALIA_RAILWAY.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/WESTERN_AUSTRALIA_RAILWAY.md"
+        }
+      },
+      {
+        "id": "infra_western_australia_telegraph_001",
+        "type": "telegraph",
+        "name": "Western Australian Telegraph Lines",
+        "location": "Western Australia",
+        "specifications": {
+          "length": {
+            "value": 2335,
+            "unit": "miles"
+          }
+        },
+        "year": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/WESTERN_AUSTRALIA_TELEGRAPH.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/WESTERN_AUSTRALIA_TELEGRAPH.md"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_hong_kong_001",
+        "location": "Hong Kong",
+        "year": "1881",
+        "census_date": "1881",
+        "total_population": 160402,
+        "breakdowns": [
+          {
+            "category": "coloured",
+            "count": 152412
+          },
+          {
+            "category": "white",
+            "count": 7990
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/HONG_KONG.md",
+          "source_lines": "not_found",
+          "source_section": "places is about",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_jamaica_001",
+        "location": "Jamaica",
+        "year": "1881",
+        "census_date": "1881",
+        "total_population": 580804,
+        "breakdowns": [
+          {
+            "category": "black",
+            "count": 444186
+          },
+          {
+            "category": "coloured",
+            "count": 109946
+          },
+          {
+            "category": "white",
+            "count": 14433
+          },
+          {
+            "category": "East Indian",
+            "count": 11016
+          },
+          {
+            "category": "Chinese",
+            "count": 480
+          },
+          {
+            "category": "Others",
+            "count": 743
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/JAMAICA.md",
+          "source_lines": "not_found",
+          "source_section": "Puisne Judges of the Supreme Court of Judicature",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_labuan_001",
+        "location": "Labuan",
+        "year": "1886",
+        "total_population": 6000,
+        "breakdowns": [],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/LABUAN.md",
+          "source_lines": "not_found",
+          "source_section": "LEEWARD ISLANDS—ST. CHRISTOPHER AND NEVIS.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_lagos_island_001",
+        "location": "Lagos Island",
+        "year": "1881",
+        "census_date": "1881",
+        "total_population": 37452,
+        "breakdowns": [],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/LAGOS_ISLAND.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/LAGOS_ISLAND.md"
+        }
+      },
+      {
+        "id": "demo_turks_001",
+        "location": "Turks and Caicos Islands",
+        "year": "1881",
+        "census_date": "1881",
+        "total_population": 4732,
+        "breakdowns": [
+          {
+            "category": "males",
+            "count": 2232
+          },
+          {
+            "category": "females",
+            "count": 2500
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/TURKS.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/TURKS.md"
+        }
+      },
+      {
+        "id": "demo_western_australia_001",
+        "location": "Western Australia",
+        "year": "1884",
+        "total_population": 33463,
+        "breakdowns": [
+          {
+            "category": "males",
+            "count": 18628
+          },
+          {
+            "category": "females",
+            "count": 14835
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/WESTERN_AUSTRALIA.md",
+          "source_lines": "not_found",
+          "source_section": "WESTFRN AUSTRALIA—WINDWARD ISLANDS.",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_sierra_leone_001",
+        "location": "Sierra Leone",
+        "year": "1881",
+        "census_date": "1881",
+        "total_population": 60475,
+        "breakdowns": [
+          {
+            "category": "white males",
+            "count": 237
+          },
+          {
+            "category": "white females",
+            "count": 34
+          },
+          {
+            "category": "coloured males",
+            "count": 30964
+          },
+          {
+            "category": "coloured females",
+            "count": 29511
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "not_found",
+          "source_section": "The following is a statement of the Customs Tariff of the settlement of Sierra Leone",
+          "extraction_confidence": 0.65,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Entity text not found in source file"
+        }
+      },
+      {
+        "id": "demo_kingstown_001",
+        "location": "Kingstown",
+        "year": "1886",
+        "total_population": 5593,
+        "breakdowns": [],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/KINGSTOWN.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/KINGSTOWN.md"
+        }
+      },
+      {
+        "id": "demo_melbourne_001",
+        "location": "Melbourne",
+        "year": "1885",
+        "total_population": 325000,
+        "breakdowns": [],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/MELBOURNE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/MELBOURNE.md"
+        }
+      },
+      {
+        "id": "demo_grenada_001",
+        "location": "Grenada",
+        "year": "1884",
+        "total_population": 45495,
+        "breakdowns": [],
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GRENADA.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GRENADA.md"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_hong_kong_cession_001",
+        "date": "1841",
+        "type": "cession",
+        "description": "Island of Hong Kong ceded to Great Britain by China",
+        "locations": [
+          "place_hong_kong_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/HONG_KONG_CESSION.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/HONG_KONG_CESSION.md"
+        }
+      },
+      {
+        "id": "event_hong_kong_cession_002",
+        "date": "1860",
+        "type": "cession",
+        "description": "Southern portion of the peninsula of Kowloon ceded to Great Britain by China",
+        "locations": [
+          "place_hong_kong_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/HONG_KONG_CESSION.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/HONG_KONG_CESSION.md"
+        }
+      },
+      {
+        "id": "event_hong_kong_cession_003",
+        "date": "1861",
+        "type": "cession",
+        "description": "Stonecutters Island ceded to Great Britain by China",
+        "locations": [
+          "place_hong_kong_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/HONG_KONG_CESSION.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/HONG_KONG_CESSION.md"
+        }
+      },
+      {
+        "id": "event_jamaica_discovery_001",
+        "date": "May 3, 1494",
+        "type": "other",
+        "description": "Jamaica discovered by Columbus on his second voyage",
+        "locations": [
+          "place_jamaica_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/JAMAICA_DISCOVERY.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/JAMAICA_DISCOVERY.md"
+        }
+      },
+      {
+        "id": "event_jamaica_capture_001",
+        "date": "1655",
+        "type": "other",
+        "description": "Jamaica captured by the English from the Spanish",
+        "locations": [
+          "place_jamaica_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/JAMAICA_CAPTURE.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/JAMAICA_CAPTURE.md"
+        }
+      },
+      {
+        "id": "event_labuan_cession_001",
+        "date": "1846",
+        "type": "cession",
+        "description": "Island of Labuan ceded to the British Crown by the Sultan of Brunei",
+        "locations": [
+          "place_labuan_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/LABUAN_CESSION.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/LABUAN_CESSION.md"
+        }
+      },
+      {
+        "id": "event_labuan_occupation_001",
+        "date": "1848",
+        "type": "establishment",
+        "description": "Labuan occupied by British forces",
+        "locations": [
+          "place_labuan_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/LABUAN_OCCUPATION.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/LABUAN_OCCUPATION.md"
+        }
+      },
+      {
+        "id": "event_lagos_cession_001",
+        "date": "August 6, 1861",
+        "type": "cession",
+        "description": "Lagos ceded to the British Crown by King Docemo",
+        "locations": [
+          "place_lagos_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/LAGOS_CESSION.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/LAGOS_CESSION.md"
+        }
+      },
+      {
+        "id": "event_turks_separation_001",
+        "date": "1848",
+        "type": "constitutional_change",
+        "description": "Turks and Caicos Islands separated from the Bahama group by Act of the Bahama Legislature",
+        "locations": [
+          "place_turks_caicos_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/TURKS_SEPARATION.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/TURKS_SEPARATION.md"
+        }
+      },
+      {
+        "id": "event_turks_annexation_001",
+        "date": "January 1, 1874",
+        "type": "constitutional_change",
+        "description": "Turks and Caicos Islands annexed to Jamaica by Order in Council under Imperial Act 36 Vict., cap. 6",
+        "locations": [
+          "place_turks_caicos_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/TURKS_ANNEXATION.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/TURKS_ANNEXATION.md"
+        }
+      },
+      {
+        "id": "event_victoria_separation_001",
+        "date": "1851",
+        "type": "constitutional_change",
+        "description": "Victoria separated from New South Wales",
+        "locations": [
+          "place_victoria_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/VICTORIA_SEPARATION.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/VICTORIA_SEPARATION.md"
+        }
+      },
+      {
+        "id": "event_melbourne_settlement_001",
+        "date": "1835",
+        "type": "establishment",
+        "description": "First settlers established themselves on the site of Melbourne",
+        "locations": [
+          "place_melbourne_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/MELBOURNE_SETTLEMENT.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/MELBOURNE_SETTLEMENT.md"
+        }
+      },
+      {
+        "id": "event_western_australia_settlement_001",
+        "date": "1829",
+        "type": "establishment",
+        "description": "Western Australia first settled",
+        "locations": [
+          "place_western_australia_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/WESTERN_AUSTRALIA_SETTLEMENT.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/WESTERN_AUSTRALIA_SETTLEMENT.md"
+        }
+      },
+      {
+        "id": "event_sierra_leone_cession_001",
+        "date": "1787",
+        "type": "cession",
+        "description": "Sierra Leone ceded to Great Britain by the native chiefs",
+        "locations": [
+          "place_sierra_leone_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/SIERRA_LEONE_CESSION.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/SIERRA_LEONE_CESSION.md"
+        }
+      },
+      {
+        "id": "event_grenada_discovery_001",
+        "date": "1498",
+        "type": "other",
+        "description": "Grenada discovered by Columbus",
+        "locations": [
+          "place_grenada_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GRENADA_DISCOVERY.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GRENADA_DISCOVERY.md"
+        }
+      },
+      {
+        "id": "event_grenada_treaty_001",
+        "date": "February 10, 1763",
+        "type": "treaty",
+        "description": "Grenada formally ceded to Great Britain by the Treaty of Peace signed at Paris",
+        "locations": [
+          "place_grenada_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/GRENADA_TREATY.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/GRENADA_TREATY.md"
+        }
+      },
+      {
+        "id": "event_st_vincent_discovery_001",
+        "date": "January 22, 1498",
+        "type": "other",
+        "description": "St. Vincent discovered by Columbus",
+        "locations": [
+          "place_st_vincent_001"
+        ],
+        "year_mentioned": "1886",
+        "provenance": {
+          "source_file": "output_2/1886_manual_parsed/ST_VINCENT_DISCOVERY.md",
+          "source_lines": "source_file_missing",
+          "source_section": "Unknown",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1867_1890",
+          "verification_status": "automated",
+          "notes": "Source file not found: output_2/1886_manual_parsed/ST_VINCENT_DISCOVERY.md"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_hong_kong_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "person_bowen_001",
+      "properties": {
+        "year": "1886",
+        "context": "Governor of Hong Kong"
+      }
+    },
+    {
+      "source_id": "place_turks_caicos_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "person_jackson_001",
+      "properties": {
+        "year": "1886",
+        "context": "Commissioner of Turks and Caicos Islands"
+      }
+    },
+    {
+      "source_id": "place_turks_caicos_001",
+      "relationship_type": "PART_OF",
+      "target_id": "place_jamaica_001",
+      "properties": {
+        "year": "1886",
+        "context": "Annexed to Jamaica in 1874"
+      }
+    },
+    {
+      "source_id": "place_lagos_island_001",
+      "relationship_type": "PART_OF",
+      "target_id": "place_lagos_001",
+      "properties": {
+        "year": "1886",
+        "context": "Lagos Island is part of Lagos Colony"
+      }
+    },
+    {
+      "source_id": "place_melbourne_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_victoria_001",
+      "properties": {
+        "year": "1886",
+        "context": "Melbourne is the capital of Victoria"
+      }
+    },
+    {
+      "source_id": "place_perth_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_western_australia_001",
+      "properties": {
+        "year": "1886",
+        "context": "Perth is the capital of Western Australia"
+      }
+    },
+    {
+      "source_id": "place_western_australia_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "person_broome_001",
+      "properties": {
+        "year": "1886",
+        "context": "Governor of Western Australia"
+      }
+    },
+    {
+      "source_id": "place_freetown_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_sierra_leone_001",
+      "properties": {
+        "year": "1886",
+        "context": "Freetown is the capital of Sierra Leone"
+      }
+    },
+    {
+      "source_id": "place_sierra_leone_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "person_rowe_001",
+      "properties": {
+        "year": "1886",
+        "context": "Governor-in-Chief of West Africa Settlements"
+      }
+    },
+    {
+      "source_id": "place_bathurst_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_gambia_001",
+      "properties": {
+        "year": "1886",
+        "context": "Bathurst is the capital of The Gambia"
+      }
+    },
+    {
+      "source_id": "place_gambia_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "person_hay_001",
+      "properties": {
+        "year": "1886",
+        "context": "Administrator of The Gambia"
+      }
+    },
+    {
+      "source_id": "place_kingstown_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_st_vincent_001",
+      "properties": {
+        "year": "1886",
+        "context": "Kingstown is the capital of St. Vincent"
+      }
+    },
+    {
+      "source_id": "place_grenada_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "person_sendall_001",
+      "properties": {
+        "year": "1886",
+        "context": "Governor-in-Chief of Windward Islands"
+      }
+    },
+    {
+      "source_id": "person_jackson_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_turks_leg_001",
+      "properties": {
+        "year": "1886",
+        "context": "President of Legislative Board"
+      }
+    },
+    {
+      "source_id": "person_rae_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_turks_leg_001",
+      "properties": {
+        "year": "1886",
+        "context": "Ex-officio member of Legislative Board"
+      }
+    },
+    {
+      "source_id": "person_broome_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_western_australia_exec_001",
+      "properties": {
+        "year": "1886",
+        "context": "Governor and member of Executive Council"
+      }
+    },
+    {
+      "source_id": "person_fraser_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_western_australia_exec_001",
+      "properties": {
+        "year": "1886",
+        "context": "Colonial Secretary and member of Executive Council"
+      }
+    },
+    {
+      "source_id": "person_hensman_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_western_australia_exec_001",
+      "properties": {
+        "year": "1886",
+        "context": "Attorney-General and member of Executive Council"
+      }
+    },
+    {
+      "source_id": "person_rowe_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_sierra_leone_exec_001",
+      "properties": {
+        "year": "1886",
+        "context": "President of Executive Council"
+      }
+    },
+    {
+      "source_id": "person_griffith_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_sierra_leone_exec_001",
+      "properties": {
+        "year": "1886",
+        "context": "Colonial Secretary and member of Executive Council"
+      }
+    },
+    {
+      "source_id": "person_pinkett_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_sierra_leone_exec_001",
+      "properties": {
+        "year": "1886",
+        "context": "Chief Justice and member of Executive Council"
+      }
+    },
+    {
+      "source_id": "person_hay_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_gambia_leg_001",
+      "properties": {
+        "year": "1886",
+        "context": "Administrator and President of Legislative Council"
+      }
+    },
+    {
+      "source_id": "person_carter_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_gambia_leg_001",
+      "properties": {
+        "year": "1886",
+        "context": "Treasurer and ex-officio member of Legislative Council"
+      }
+    },
+    {
+      "source_id": "person_sendall_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_grenada_exec_001",
+      "properties": {
+        "year": "1886",
+        "context": "Governor-in-Chief and member of Executive Council"
+      }
+    },
+    {
+      "source_id": "person_maling_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_grenada_leg_001",
+      "properties": {
+        "year": "1886",
+        "context": "Colonial Secretary and member of Legislative Council"
+      }
+    },
+    {
+      "source_id": "person_gresham_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_grenada_leg_001",
+      "properties": {
+        "year": "1886",
+        "context": "Chief Justice and member of Legislative Council"
+      }
+    },
+    {
+      "source_id": "person_orgias_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_grenada_leg_001",
+      "properties": {
+        "year": "1886",
+        "context": "Colonial Surgeon and member of Legislative Council"
+      }
+    },
+    {
+      "source_id": "infra_jamaica_railway_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_jamaica_001",
+      "properties": {
+        "year": "1886",
+        "context": "Railway operating in Jamaica"
+      }
+    },
+    {
+      "source_id": "infra_jamaica_railway_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_jamaica_001",
+      "properties": {
+        "year": "1886",
+        "context": "Railway operating in Jamaica"
+      }
+    },
+    {
+      "source_id": "infra_victoria_railway_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_victoria_001",
+      "properties": {
+        "year": "1886",
+        "context": "Railway network in Victoria"
+      }
+    },
+    {
+      "source_id": "infra_victoria_telegraph_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_victoria_001",
+      "properties": {
+        "year": "1886",
+        "context": "Telegraph network in Victoria"
+      }
+    },
+    {
+      "source_id": "infra_western_australia_railway_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_western_australia_001",
+      "properties": {
+        "year": "1886",
+        "context": "Railway in Western Australia"
+      }
+    },
+    {
+      "source_id": "infra_western_australia_railway_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_western_australia_001",
+      "properties": {
+        "year": "1886",
+        "context": "Railway in Western Australia"
+      }
+    },
+    {
+      "source_id": "infra_western_australia_telegraph_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_western_australia_001",
+      "properties": {
+        "year": "1886",
+        "context": "Telegraph network in Western Australia"
+      }
+    }
+  ]
+}

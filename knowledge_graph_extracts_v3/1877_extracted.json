@@ -1,0 +1,2911 @@
+{
+  "metadata": {
+    "source_year": 1877,
+    "source_document": "Colonial Office List",
+    "extraction_date": "2025-11-16",
+    "methodology": "Comprehensive structured extraction following defined schema",
+    "total_colonies_processed": 34,
+    "data_quality_notes": "All data extracted verbatim from source files with historical spelling preserved"
+  },
+  "geographic_entities": [
+    {
+      "id": "geo_bahamas_001",
+      "name": "Bahamas",
+      "type": "colony",
+      "historical_name": "Bahamas",
+      "modern_equivalent": "The Bahamas",
+      "coordinates": {
+        "latitude": "25° 5' N",
+        "longitude": "77° 20' W"
+      },
+      "area": {
+        "value": "4424",
+        "unit": "square miles",
+        "notes": "Including 689 islands, rocks and keys"
+      },
+      "description": "The Bahama Islands extend from the coast of Florida on the north-west to the vicinity of Hayti on the south-east, a distance of 630 miles, and from 22° to 27° 30' N. lat., and from 68° 40' to 79° 30' W. long.",
+      "discovery_date": "1492-10-12",
+      "discovery_details": "Discovered by Christopher Columbus, October 12, 1492",
+      "capital": "Nassau",
+      "related_entities": [
+        "geo_new_providence",
+        "geo_cat_island",
+        "geo_harbour_island"
+      ]
+    },
+    {
+      "id": "geo_new_providence",
+      "name": "New Providence",
+      "type": "island",
+      "parent_colony": "geo_bahamas_001",
+      "area": {
+        "value": "58",
+        "unit": "square miles"
+      },
+      "description": "The island on which Nassau, the capital, is situated",
+      "related_entities": [
+        "geo_nassau"
+      ]
+    },
+    {
+      "id": "geo_nassau",
+      "name": "Nassau",
+      "type": "city",
+      "parent_entity": "geo_new_providence",
+      "description": "Capital and principal port of the Bahamas, situated on the island of New Providence"
+    },
+    {
+      "id": "geo_bermudas_001",
+      "name": "Bermudas",
+      "type": "colony",
+      "historical_name": "Bermudas",
+      "modern_equivalent": "Bermuda",
+      "coordinates": {
+        "latitude": "32° 20' N",
+        "longitude": "64° 45' W"
+      },
+      "area": {
+        "value": "12535",
+        "unit": "acres",
+        "notes": "Or about 19½ square miles"
+      },
+      "description": "Consists of a cluster of small islands surrounded by dangerous reefs",
+      "discovery_date": "1522",
+      "discovery_details": "Discovered by Juan Bermudez, a Spaniard, in 1522",
+      "capital": "Hamilton",
+      "related_entities": [
+        "geo_hamilton_bermuda",
+        "geo_st_georges_bermuda"
+      ]
+    },
+    {
+      "id": "geo_gibraltar_001",
+      "name": "Gibraltar",
+      "type": "colony",
+      "historical_name": "Gibraltar",
+      "coordinates": {
+        "latitude": "36° 7' N",
+        "longitude": "5° 21' W"
+      },
+      "area": {
+        "value": "1932",
+        "unit": "acres"
+      },
+      "description": "Fortress and seaport town at the southern extremity of Spain, commanding the entrance to the Mediterranean",
+      "cession_date": "1704-08-04",
+      "cession_details": "Taken by Sir George Rooke, August 4th, 1704; ceded to Great Britain by Treaty of Utrecht, 1713",
+      "related_entities": [
+        "geo_rock_of_gibraltar"
+      ]
+    },
+    {
+      "id": "geo_heligoland_001",
+      "name": "Heligoland",
+      "type": "colony",
+      "historical_name": "Heligoland",
+      "coordinates": {
+        "latitude": "54° 11' N",
+        "longitude": "7° 54' E"
+      },
+      "area": {
+        "value": "950",
+        "unit": "acres"
+      },
+      "description": "Small island in the North Sea, 28 miles from the mouth of the Elbe and 36 miles from the nearest point of the mainland of Sleswick",
+      "cession_date": "1814",
+      "cession_details": "Ceded to Great Britain by Denmark in 1814",
+      "population_1871": 2307,
+      "related_entities": []
+    },
+    {
+      "id": "geo_british_guiana_001",
+      "name": "British Guiana",
+      "type": "colony",
+      "historical_name": "British Guiana",
+      "modern_equivalent": "Guyana",
+      "coordinates": {
+        "latitude": "1° to 8° 50' N",
+        "longitude": "56° 30' to 61° W"
+      },
+      "area": {
+        "value": "109000",
+        "unit": "square miles",
+        "notes": "Approximate, boundaries not fully defined"
+      },
+      "description": "Situated on the north-east coast of South America, bounded on the north by the Atlantic Ocean, on the east by Dutch Guiana, on the south and south-west by Brazil, and on the west and north-west by Venezuela",
+      "capital": "Georgetown",
+      "related_entities": [
+        "geo_georgetown_guiana",
+        "geo_demerara",
+        "geo_essequibo",
+        "geo_berbice"
+      ]
+    },
+    {
+      "id": "geo_georgetown_guiana",
+      "name": "Georgetown",
+      "type": "city",
+      "parent_entity": "geo_british_guiana_001",
+      "description": "Capital of British Guiana, situated on the right bank of the Demerara River",
+      "population_1871": 31828
+    },
+    {
+      "id": "geo_cape_of_good_hope_001",
+      "name": "Cape of Good Hope",
+      "type": "colony",
+      "historical_name": "Cape of Good Hope",
+      "modern_equivalent": "Western Cape, South Africa",
+      "coordinates": {
+        "latitude": "28° to 35° S",
+        "longitude": "16° to 30° E"
+      },
+      "area": {
+        "value": "200560",
+        "unit": "square miles"
+      },
+      "description": "British Colony at the southern extremity of Africa",
+      "capital": "Cape Town",
+      "cession_date": "1814",
+      "cession_details": "Ceded to Great Britain by the Netherlands in 1814",
+      "related_entities": [
+        "geo_cape_town",
+        "geo_port_elizabeth",
+        "geo_eastern_province"
+      ]
+    },
+    {
+      "id": "geo_cape_town",
+      "name": "Cape Town",
+      "type": "city",
+      "parent_entity": "geo_cape_of_good_hope_001",
+      "description": "Capital of the Cape of Good Hope Colony",
+      "population_1875": 45195
+    },
+    {
+      "id": "geo_ceylon_001",
+      "name": "Ceylon",
+      "type": "colony",
+      "historical_name": "Ceylon",
+      "modern_equivalent": "Sri Lanka",
+      "coordinates": {
+        "latitude": "5° 55' to 9° 51' N",
+        "longitude": "79° 42' to 81° 53' E"
+      },
+      "area": {
+        "value": "25365",
+        "unit": "square miles"
+      },
+      "description": "Large island in the Indian Ocean, separated from India by Palk's Strait",
+      "capital": "Colombo",
+      "cession_date": "1815",
+      "cession_details": "Coastal provinces ceded by Dutch in 1796, Kandyan provinces conquered 1815",
+      "related_entities": [
+        "geo_colombo",
+        "geo_kandy",
+        "geo_galle",
+        "geo_trincomalee"
+      ]
+    },
+    {
+      "id": "geo_falkland_islands_001",
+      "name": "Falkland Islands",
+      "type": "colony",
+      "historical_name": "Falkland Islands",
+      "coordinates": {
+        "latitude": "51° to 53° S",
+        "longitude": "57° 40' to 61° 30' W"
+      },
+      "area": {
+        "value": "6500",
+        "unit": "square miles",
+        "notes": "Approximate"
+      },
+      "description": "Group of islands in the South Atlantic, about 300 miles east of the Straits of Magellan",
+      "capital": "Stanley",
+      "population_1875": 1158,
+      "related_entities": [
+        "geo_stanley_falklands",
+        "geo_east_falkland",
+        "geo_west_falkland"
+      ]
+    },
+    {
+      "id": "geo_fiji_001",
+      "name": "Fiji",
+      "type": "colony",
+      "historical_name": "Fiji",
+      "coordinates": {
+        "latitude": "15° to 20° 30' S",
+        "longitude": "177° E to 178° W"
+      },
+      "area": {
+        "value": "7430",
+        "unit": "square miles",
+        "notes": "Of 225 islands, about 80 are inhabited"
+      },
+      "description": "Group of islands in the South Pacific Ocean",
+      "capital": "Levuka",
+      "annexation_date": "1874-10-10",
+      "annexation_details": "Ceded to Great Britain by the native chiefs, October 10, 1874",
+      "population_1875": 140000,
+      "related_entities": [
+        "geo_viti_levu",
+        "geo_vanua_levu",
+        "geo_levuka"
+      ]
+    },
+    {
+      "id": "geo_griqualand_west_001",
+      "name": "Griqualand West",
+      "type": "colony",
+      "historical_name": "Griqualand West",
+      "area": {
+        "value": "15197",
+        "unit": "square miles"
+      },
+      "description": "Territory in South Africa, annexed to British Dominions in 1871",
+      "capital": "Kimberley",
+      "annexation_date": "1871",
+      "population_1875": 30000,
+      "related_entities": [
+        "geo_kimberley",
+        "geo_diamond_fields"
+      ]
+    },
+    {
+      "id": "geo_honduras_001",
+      "name": "British Honduras",
+      "type": "colony",
+      "historical_name": "British Honduras",
+      "modern_equivalent": "Belize",
+      "coordinates": {
+        "latitude": "15° 55' to 18° 30' N",
+        "longitude": "87° 15' to 89° 14' W"
+      },
+      "area": {
+        "value": "7562",
+        "unit": "square miles"
+      },
+      "description": "British settlement on the east coast of Central America",
+      "capital": "Belize",
+      "related_entities": [
+        "geo_belize_city"
+      ]
+    },
+    {
+      "id": "geo_hong_kong_001",
+      "name": "Hong Kong",
+      "type": "colony",
+      "historical_name": "Hong Kong",
+      "coordinates": {
+        "latitude": "22° 9' to 22° 21' N",
+        "longitude": "114° 5' to 114° 18' E"
+      },
+      "area": {
+        "value": "29",
+        "unit": "square miles",
+        "notes": "Hong Kong Island; with Kowloon Peninsula additional"
+      },
+      "description": "Island and territory on the south coast of China",
+      "capital": "Victoria",
+      "cession_date": "1842",
+      "cession_details": "Island of Hong Kong ceded by Treaty of Nanking, 1842; Kowloon Peninsula ceded 1860",
+      "population_1876": 139144,
+      "related_entities": [
+        "geo_victoria_hong_kong",
+        "geo_kowloon"
+      ]
+    },
+    {
+      "id": "geo_jamaica_001",
+      "name": "Jamaica",
+      "type": "colony",
+      "historical_name": "Jamaica",
+      "coordinates": {
+        "latitude": "17° 45' to 18° 32' N",
+        "longitude": "76° 11' to 78° 23' W"
+      },
+      "area": {
+        "value": "4200",
+        "unit": "square miles"
+      },
+      "description": "Large island in the Caribbean Sea, south of Cuba",
+      "capital": "Spanish Town",
+      "discovery_date": "1494-05-05",
+      "discovery_details": "Discovered by Columbus in his second voyage, May 5, 1494",
+      "conquest_date": "1655-05-10",
+      "conquest_details": "Conquered from the Spaniards by Admiral Penn and General Venables, May 10, 1655",
+      "population_1871": 506154,
+      "related_entities": [
+        "geo_spanish_town",
+        "geo_kingston_jamaica",
+        "geo_port_royal"
+      ]
+    },
+    {
+      "id": "geo_labuan_001",
+      "name": "Labuan",
+      "type": "colony",
+      "historical_name": "Labuan",
+      "coordinates": {
+        "latitude": "5° 16' to 5° 19' N",
+        "longitude": "115° 11' to 115° 18' E"
+      },
+      "area": {
+        "value": "20",
+        "unit": "square miles"
+      },
+      "description": "Small island off the north-west coast of Borneo",
+      "cession_date": "1846",
+      "cession_details": "Ceded to Great Britain by the Sultan of Brunei, 1846",
+      "population_1871": 5772,
+      "related_entities": []
+    },
+    {
+      "id": "geo_mauritius_001",
+      "name": "Mauritius",
+      "type": "colony",
+      "historical_name": "Mauritius",
+      "coordinates": {
+        "latitude": "19° 58' to 20° 32' S",
+        "longitude": "57° 18' to 57° 49' E"
+      },
+      "area": {
+        "value": "708",
+        "unit": "square miles"
+      },
+      "description": "Island in the Indian Ocean, about 550 miles east of Madagascar",
+      "capital": "Port Louis",
+      "cession_date": "1810",
+      "cession_details": "Captured from the French in 1810, formally ceded by Treaty of Paris, 1814",
+      "population_1871": 330010,
+      "related_entities": [
+        "geo_port_louis",
+        "geo_rodriguez",
+        "geo_seychelles_001"
+      ]
+    },
+    {
+      "id": "geo_natal_001",
+      "name": "Natal",
+      "type": "colony",
+      "historical_name": "Natal",
+      "modern_equivalent": "KwaZulu-Natal, South Africa",
+      "coordinates": {
+        "latitude": "29° to 31° S"
+      },
+      "area": {
+        "value": "13500000",
+        "unit": "acres",
+        "notes": "Approximately 21,093 square miles"
+      },
+      "coastline": {
+        "value": "170",
+        "unit": "miles"
+      },
+      "description": "Colony on the south-east coast of Africa, bounded by the Tugela and Umzimkulu Rivers, and by the Drakensberg Mountains",
+      "discovery_date": "1497-12-25",
+      "discovery_details": "Discovered by Vasco de Gama on Christmas Day, 1497",
+      "capital": "Pietermaritzburg",
+      "population_1872": 305141,
+      "related_entities": [
+        "geo_pietermaritzburg",
+        "geo_durban",
+        "geo_drakensberg"
+      ]
+    },
+    {
+      "id": "geo_pietermaritzburg",
+      "name": "Pietermaritzburg",
+      "type": "city",
+      "parent_entity": "geo_natal_001",
+      "description": "Capital of Natal"
+    },
+    {
+      "id": "geo_durban",
+      "name": "Durban",
+      "type": "city",
+      "parent_entity": "geo_natal_001",
+      "description": "Principal port of Natal",
+      "distance_from_capital": {
+        "value": "78",
+        "unit": "miles",
+        "destination": "Pietermaritzburg"
+      }
+    },
+    {
+      "id": "geo_sierra_leone_001",
+      "name": "Sierra Leone",
+      "type": "colony",
+      "historical_name": "Sierra Leone",
+      "coordinates": {
+        "latitude": "8° 30' N",
+        "longitude": "13° 18' W"
+      },
+      "area": {
+        "value": "300",
+        "unit": "square miles",
+        "notes": "Peninsula only; additional territory acquired in 1862"
+      },
+      "description": "Peninsula on the west coast of Africa, bounded on the north by a river of the same name",
+      "capital": "Freetown",
+      "cession_date": "1787",
+      "cession_details": "Ceded to Great Britain by native chiefs in 1787",
+      "population_1871": 37039,
+      "related_entities": [
+        "geo_freetown",
+        "geo_sherboro"
+      ]
+    },
+    {
+      "id": "geo_freetown",
+      "name": "Freetown",
+      "type": "city",
+      "parent_entity": "geo_sierra_leone_001",
+      "description": "Capital and principal port of Sierra Leone"
+    },
+    {
+      "id": "geo_st_helena_001",
+      "name": "St. Helena",
+      "type": "colony",
+      "historical_name": "St. Helena",
+      "coordinates": {
+        "latitude": "15° 55' S",
+        "longitude": "5° 42' W"
+      },
+      "area": {
+        "value": "47",
+        "unit": "square miles"
+      },
+      "description": "Small volcanic island in the South Atlantic Ocean, 1,200 miles from the west coast of Africa",
+      "discovery_date": "1502-05-21",
+      "discovery_details": "Discovered by the Portuguese, May 21, 1502",
+      "capital": "Jamestown",
+      "population_1871": 5059,
+      "related_entities": [
+        "geo_jamestown_helena",
+        "geo_ascension",
+        "geo_tristan_da_cunha"
+      ]
+    },
+    {
+      "id": "geo_seychelles_001",
+      "name": "Seychelles",
+      "type": "colony",
+      "historical_name": "Seychelles",
+      "coordinates": {
+        "latitude": "4° to 5° S",
+        "longitude": "55° to 56° E"
+      },
+      "description": "Group of islands in the Indian Ocean, north-east of Madagascar",
+      "capital": "Mahé",
+      "cession_date": "1814",
+      "cession_details": "Ceded to Great Britain by France, 1814",
+      "population_1871": 14035,
+      "related_entities": [
+        "geo_mahe_seychelles"
+      ]
+    },
+    {
+      "id": "geo_trinidad_001",
+      "name": "Trinidad",
+      "type": "colony",
+      "historical_name": "Trinidad",
+      "coordinates": {
+        "latitude": "10° 3' to 10° 50' N",
+        "longitude": "60° 56' to 61° 56' W"
+      },
+      "area": {
+        "value": "1754",
+        "unit": "square miles"
+      },
+      "description": "Large island in the Caribbean Sea, off the coast of Venezuela",
+      "capital": "Port of Spain",
+      "discovery_date": "1498-07-31",
+      "discovery_details": "Discovered by Columbus, July 31, 1498",
+      "conquest_date": "1797",
+      "conquest_details": "Surrendered to British forces under Sir Ralph Abercrombie, 1797; formally ceded 1802",
+      "population_1871": 109638,
+      "related_entities": [
+        "geo_port_of_spain",
+        "geo_san_fernando_trinidad"
+      ]
+    },
+    {
+      "id": "geo_the_gambia_001",
+      "name": "The Gambia",
+      "type": "colony",
+      "historical_name": "The Gambia",
+      "description": "British settlements along the Gambia River in Western Africa",
+      "capital": "Bathurst",
+      "population_1871": 14827,
+      "related_entities": [
+        "geo_bathurst_gambia",
+        "geo_st_marys_island"
+      ]
+    },
+    {
+      "id": "geo_gold_coast_001",
+      "name": "Gold Coast Colony",
+      "type": "colony",
+      "historical_name": "The Gold Coast Colony",
+      "modern_equivalent": "Ghana (partial)",
+      "description": "British settlements on the Gold Coast of West Africa",
+      "capital": "Cape Coast Castle",
+      "related_entities": [
+        "geo_cape_coast",
+        "geo_accra"
+      ]
+    },
+    {
+      "id": "geo_barbados_001",
+      "name": "Barbados",
+      "type": "colony",
+      "historical_name": "Barbados",
+      "coordinates": {
+        "latitude": "13° 4' N",
+        "longitude": "59° 37' W"
+      },
+      "area": {
+        "value": "166",
+        "unit": "square miles",
+        "notes": "106,470 acres"
+      },
+      "dimensions": {
+        "length": "21",
+        "width": "14",
+        "unit": "miles"
+      },
+      "description": "Most windward of the Caribbee Islands, nearly 21 English miles long by 14 in breadth",
+      "discovery_date": "1600",
+      "discovery_details": "First visited by the Portuguese, who named it Los Barbados from the number of bearded fig-trees",
+      "settlement_date": "1625",
+      "capital": "Bridgetown",
+      "population_1871": 162042,
+      "related_entities": [
+        "geo_bridgetown",
+        "geo_carlisle_bay"
+      ]
+    },
+    {
+      "id": "geo_st_vincent_001",
+      "name": "St. Vincent",
+      "type": "colony",
+      "historical_name": "St. Vincent",
+      "coordinates": {
+        "latitude": "13° 10' N",
+        "longitude": "60° 57' W"
+      },
+      "area": {
+        "value": "85000",
+        "unit": "acres"
+      },
+      "dimensions": {
+        "length": "18",
+        "width": "11",
+        "unit": "miles"
+      },
+      "description": "Island 21 miles south-west of St. Lucia",
+      "discovery_date": "1498-01-22",
+      "discovery_details": "Discovered by Columbus on 22nd January, 1498",
+      "capital": "Kingstown",
+      "population_1871": 35688,
+      "related_entities": [
+        "geo_kingstown_vincent",
+        "geo_soufriere_vincent",
+        "geo_grenadines"
+      ]
+    },
+    {
+      "id": "geo_grenada_001",
+      "name": "Grenada",
+      "type": "colony",
+      "historical_name": "Grenada",
+      "coordinates": {
+        "latitude": "12° 30' to 11° 58' N",
+        "longitude": "61° 20' to 61° 35' W"
+      },
+      "area": {
+        "value": "76538",
+        "unit": "acres"
+      },
+      "dimensions": {
+        "length": "21",
+        "width": "12",
+        "unit": "miles"
+      },
+      "description": "Mountainous and picturesque island 68 miles S.S.W. of St. Vincent",
+      "discovery_date": "1498",
+      "discovery_details": "Discovered by Columbus in 1498, named Ascension",
+      "capital": "St. George's",
+      "population_1871": 37795,
+      "related_entities": [
+        "geo_st_georges_grenada",
+        "geo_carriacou"
+      ]
+    },
+    {
+      "id": "geo_tobago_001",
+      "name": "Tobago",
+      "type": "colony",
+      "historical_name": "Tobago",
+      "coordinates": {
+        "latitude": "11° 9' N",
+        "longitude": "60° 12' W"
+      },
+      "area": {
+        "value": "97",
+        "unit": "square miles",
+        "notes": "62,080 acres"
+      },
+      "dimensions": {
+        "length": "32",
+        "width": "6 to 12",
+        "unit": "miles"
+      },
+      "description": "Most southerly of the Windward group, about 20 miles N.E. of Trinidad",
+      "discovery_date": "1498",
+      "discovery_details": "Discovered by Columbus in 1498",
+      "capital": "Scarborough",
+      "population_1871": 17054,
+      "related_entities": [
+        "geo_scarborough_tobago"
+      ]
+    },
+    {
+      "id": "geo_st_lucia_001",
+      "name": "St. Lucia",
+      "type": "colony",
+      "historical_name": "St. Lucia",
+      "coordinates": {
+        "latitude": "13° 50' N",
+        "longitude": "60° 58' W"
+      },
+      "area": {
+        "value": "158620",
+        "unit": "acres"
+      },
+      "dimensions": {
+        "length": "42",
+        "width": "21",
+        "unit": "miles"
+      },
+      "description": "Island 24 miles south-east of Martinique and 21 north-east of St. Vincent",
+      "discovery_date": "1502-06-15",
+      "discovery_details": "Discovered by Columbus during his fourth voyage, June 15, 1502",
+      "capital": "Castries",
+      "population_1871": 31811,
+      "related_entities": [
+        "geo_castries",
+        "geo_soufriere_lucia"
+      ]
+    }
+  ],
+  "people": [
+    {
+      "id": "person_bahamas_governor_001",
+      "name": "John Pope Hennessy",
+      "titles": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor and Commander-in-Chief",
+          "institution": "inst_bahamas_gov",
+          "colony": "geo_bahamas_001",
+          "start_date": "1873",
+          "salary": {
+            "amount": 3000,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_bahamas_colonial_secretary_001",
+      "name": "Robert B. Lowe",
+      "positions": [
+        {
+          "title": "Colonial Secretary",
+          "institution": "inst_bahamas_gov",
+          "colony": "geo_bahamas_001",
+          "salary": {
+            "amount": 800,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_bermuda_governor_001",
+      "name": "John Henry Lefroy",
+      "titles": [
+        "C.B.",
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor and Commander-in-Chief",
+          "institution": "inst_bermuda_gov",
+          "colony": "geo_bermudas_001",
+          "salary": {
+            "amount": 3500,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_gibraltar_governor_001",
+      "name": "Lord Napier of Magdala",
+      "titles": [
+        "G.C.B.",
+        "G.C.S.I."
+      ],
+      "positions": [
+        {
+          "title": "Governor and Commander-in-Chief",
+          "institution": "inst_gibraltar_gov",
+          "colony": "geo_gibraltar_001",
+          "salary": {
+            "amount": 3000,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_heligoland_governor_001",
+      "name": "Arthur William Baylay",
+      "titles": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor",
+          "institution": "inst_heligoland_gov",
+          "colony": "geo_heligoland_001",
+          "salary": {
+            "amount": 800,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_british_guiana_governor_001",
+      "name": "James Robert Longden",
+      "titles": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor and Commander-in-Chief",
+          "institution": "inst_british_guiana_gov",
+          "colony": "geo_british_guiana_001",
+          "salary": {
+            "amount": 5000,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_cape_governor_001",
+      "name": "Henry Barkly",
+      "titles": [
+        "G.C.M.G.",
+        "K.C.B.",
+        "F.R.S.",
+        "F.R.G.S."
+      ],
+      "positions": [
+        {
+          "title": "Governor and Commander-in-Chief",
+          "institution": "inst_cape_gov",
+          "colony": "geo_cape_of_good_hope_001",
+          "salary": {
+            "amount": 7000,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_ceylon_governor_001",
+      "name": "William Henry Gregory",
+      "titles": [],
+      "positions": [
+        {
+          "title": "Governor and Commander-in-Chief",
+          "institution": "inst_ceylon_gov",
+          "colony": "geo_ceylon_001",
+          "salary": {
+            "amount": 7000,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_falklands_governor_001",
+      "name": "Thomas Callaghan",
+      "positions": [
+        {
+          "title": "Governor and Commander-in-Chief",
+          "institution": "inst_falklands_gov",
+          "colony": "geo_falkland_islands_001",
+          "salary": {
+            "amount": 1000,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_fiji_governor_001",
+      "name": "Arthur Hamilton Gordon",
+      "titles": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor and Commander-in-Chief",
+          "institution": "inst_fiji_gov",
+          "colony": "geo_fiji_001",
+          "start_date": "1875",
+          "salary": {
+            "amount": 5000,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_hong_kong_governor_001",
+      "name": "Arthur Edward Kennedy",
+      "titles": [
+        "C.B."
+      ],
+      "positions": [
+        {
+          "title": "Governor and Commander-in-Chief",
+          "institution": "inst_hong_kong_gov",
+          "colony": "geo_hong_kong_001",
+          "salary": {
+            "amount": 6000,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_jamaica_governor_001",
+      "name": "William Grey",
+      "titles": [
+        "K.C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor and Commander-in-Chief",
+          "institution": "inst_jamaica_gov",
+          "colony": "geo_jamaica_001",
+          "salary": {
+            "amount": 6000,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_mauritius_governor_001",
+      "name": "Arthur Hamilton Gordon",
+      "titles": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor and Commander-in-Chief",
+          "institution": "inst_mauritius_gov",
+          "colony": "geo_mauritius_001",
+          "salary": {
+            "amount": 6000,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_natal_governor_001",
+      "name": "Henry Ernest Gascoyne Bulwer",
+      "titles": [
+        "K.C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Lieutenant-Governor",
+          "institution": "inst_natal_gov",
+          "colony": "geo_natal_001",
+          "salary": {
+            "amount": 2500,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_natal_colonial_secretary_001",
+      "name": "Frederick Napier Broome",
+      "positions": [
+        {
+          "title": "Colonial Secretary",
+          "institution": "inst_natal_gov",
+          "colony": "geo_natal_001",
+          "salary": {
+            "amount": 800,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_natal_chief_justice_001",
+      "name": "Henry Connor",
+      "positions": [
+        {
+          "title": "Chief Justice",
+          "institution": "inst_natal_supreme_court",
+          "colony": "geo_natal_001",
+          "salary": {
+            "amount": 900,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_natal_secretary_native_affairs_001",
+      "name": "Theophilus Shepstone",
+      "titles": [
+        "K.C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Secretary for Native Affairs",
+          "institution": "inst_natal_gov",
+          "colony": "geo_natal_001",
+          "salary": {
+            "amount": 800,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_sierra_leone_governor_001",
+      "name": "Samuel Rowe",
+      "titles": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor-in-Chief, West Africa Settlements",
+          "institution": "inst_sierra_leone_gov",
+          "colony": "geo_sierra_leone_001",
+          "start_date": "1877",
+          "salary": {
+            "amount": 2000,
+            "currency": "pounds sterling",
+            "period": "annual"
+          },
+          "allowances": {
+            "amount": 500,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_windward_islands_governor_001",
+      "name": "George Cumine Strahan",
+      "titles": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor and Commander-in-Chief",
+          "institution": "inst_windward_islands_gov",
+          "colony": "geo_barbados_001",
+          "salary": {
+            "amount": 4000,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_barbados_chief_justice_001",
+      "name": "Charles Packer",
+      "positions": [
+        {
+          "title": "Chief Justice",
+          "institution": "inst_barbados_supreme_court",
+          "colony": "geo_barbados_001",
+          "salary": {
+            "amount": 2000,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_st_vincent_lt_governor_001",
+      "name": "George Dundas",
+      "positions": [
+        {
+          "title": "Lieutenant-Governor",
+          "institution": "inst_st_vincent_gov",
+          "colony": "geo_st_vincent_001",
+          "start_date": "1874-10-26",
+          "salary": {
+            "amount": 1300,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_grenada_lt_governor_001",
+      "name": "Cornelius Hendrickson Graham",
+      "positions": [
+        {
+          "title": "Lieutenant-Governor",
+          "institution": "inst_grenada_gov",
+          "colony": "geo_grenada_001"
+        }
+      ]
+    },
+    {
+      "id": "person_tobago_lt_governor_001",
+      "name": "Robert William Harley",
+      "titles": [
+        "C.B.",
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Lieutenant-Governor",
+          "institution": "inst_tobago_gov",
+          "colony": "geo_tobago_001",
+          "salary": {
+            "amount": 1100,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_leeward_islands_governor_001",
+      "name": "George Berkeley",
+      "titles": [
+        "C.M.G."
+      ],
+      "positions": [
+        {
+          "title": "Governor",
+          "institution": "inst_leeward_islands_gov",
+          "colony": "geo_leeward_islands_001",
+          "salary": {
+            "amount": 3000,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    },
+    {
+      "id": "person_gambia_administrator_001",
+      "name": "Administrator",
+      "positions": [
+        {
+          "title": "Administrator",
+          "institution": "inst_gambia_gov",
+          "colony": "geo_the_gambia_001",
+          "salary": {
+            "amount": 1300,
+            "currency": "pounds sterling",
+            "period": "annual"
+          }
+        }
+      ]
+    }
+  ],
+  "institutions": [
+    {
+      "id": "inst_bahamas_gov",
+      "name": "Government of the Bahamas",
+      "type": "colonial_government",
+      "colony": "geo_bahamas_001",
+      "components": [
+        {
+          "name": "Executive Council",
+          "members": [
+            "The Governor",
+            "The Colonial Secretary",
+            "The Attorney-General",
+            "The Receiver-General"
+          ],
+          "type": "executive"
+        },
+        {
+          "name": "Legislative Council",
+          "members_count": 9,
+          "type": "legislative"
+        },
+        {
+          "name": "House of Assembly",
+          "members_count": 29,
+          "type": "legislative",
+          "electoral_districts": [
+            "Nassau",
+            "Harbour Island",
+            "Eleuthera",
+            "Long Island",
+            "Exuma",
+            "Cat Island",
+            "San Salvador",
+            "Ragged Island",
+            "Acklin's Island",
+            "Crooked Island",
+            "Inagua",
+            "Mayaguana",
+            "Turk's Islands",
+            "Caicos Islands"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inst_bermuda_gov",
+      "name": "Government of Bermudas",
+      "type": "colonial_government",
+      "colony": "geo_bermudas_001",
+      "components": [
+        {
+          "name": "Executive Council",
+          "type": "executive"
+        },
+        {
+          "name": "Legislative Council",
+          "members_count": 9,
+          "type": "legislative"
+        },
+        {
+          "name": "House of Assembly",
+          "members_count": 36,
+          "type": "legislative",
+          "note": "Oldest representative assembly in British colonies"
+        }
+      ]
+    },
+    {
+      "id": "inst_gibraltar_gov",
+      "name": "Government of Gibraltar",
+      "type": "colonial_government",
+      "colony": "geo_gibraltar_001"
+    },
+    {
+      "id": "inst_natal_gov",
+      "name": "Government of Natal",
+      "type": "colonial_government",
+      "colony": "geo_natal_001",
+      "components": [
+        {
+          "name": "Executive Council",
+          "members": [
+            "The Lieutenant-Governor",
+            "The Chief Justice",
+            "The Commandant of the Troops",
+            "The Colonial Secretary",
+            "The Treasurer",
+            "The Attorney-General",
+            "The Secretary for Native Affairs",
+            "The Colonial Engineer",
+            "Elected Members: J. T. Polkinghorne, R. Allen"
+          ],
+          "type": "executive"
+        },
+        {
+          "name": "Legislative Council",
+          "members_count": 18,
+          "official_members": 5,
+          "elected_members": 15,
+          "type": "legislative"
+        }
+      ]
+    },
+    {
+      "id": "inst_natal_supreme_court",
+      "name": "Supreme Court of Natal",
+      "type": "judicial",
+      "colony": "geo_natal_001",
+      "officers": [
+        {
+          "title": "Chief Justice",
+          "name": "Henry Connor",
+          "salary": 900
+        },
+        {
+          "title": "First Puisne Judge",
+          "name": "H. L. Phillips",
+          "salary": 800
+        },
+        {
+          "title": "Second Puisne Judge",
+          "name": "C. F. Cadiz",
+          "salary": 800
+        }
+      ]
+    },
+    {
+      "id": "inst_sierra_leone_gov",
+      "name": "Government of Sierra Leone",
+      "type": "colonial_government",
+      "colony": "geo_sierra_leone_001",
+      "components": [
+        {
+          "name": "Executive Council",
+          "members": [
+            "The Governor",
+            "The Colonial Secretary",
+            "The Queen's Advocate",
+            "The Officer Commanding the Forces"
+          ],
+          "type": "executive"
+        },
+        {
+          "name": "Legislative Council",
+          "members_count": 9,
+          "type": "legislative"
+        }
+      ]
+    },
+    {
+      "id": "inst_windward_islands_gov",
+      "name": "Government-in-Chief of the Windward Islands",
+      "type": "colonial_government",
+      "territories": [
+        "geo_barbados_001",
+        "geo_st_vincent_001",
+        "geo_grenada_001",
+        "geo_tobago_001",
+        "geo_st_lucia_001"
+      ],
+      "headquarters": "geo_barbados_001"
+    },
+    {
+      "id": "inst_barbados_supreme_court",
+      "name": "Supreme Court of Barbados",
+      "type": "judicial",
+      "colony": "geo_barbados_001",
+      "officers": [
+        {
+          "title": "Chief Justice",
+          "name": "Charles Packer",
+          "salary": 2000
+        }
+      ]
+    },
+    {
+      "id": "inst_leeward_islands_gov",
+      "name": "Federal Government of the Leeward Islands",
+      "type": "colonial_government",
+      "territories": [
+        "Antigua",
+        "Montserrat",
+        "St. Kitts",
+        "Nevis",
+        "Dominica",
+        "Virgin Islands"
+      ],
+      "establishment_date": "1871",
+      "components": [
+        {
+          "name": "Executive Council",
+          "type": "executive"
+        },
+        {
+          "name": "General Legislative Council",
+          "elective_members": 10,
+          "non_elective_members": 10,
+          "type": "legislative"
+        }
+      ]
+    }
+  ],
+  "economic_data": [
+    {
+      "id": "econ_bahamas_revenue_1875",
+      "colony": "geo_bahamas_001",
+      "year": 1875,
+      "revenue": {
+        "amount": 40949,
+        "currency": "pounds sterling"
+      },
+      "expenditure": {
+        "amount": 39713,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_bahamas_trade_1875",
+      "colony": "geo_bahamas_001",
+      "year": 1875,
+      "imports": {
+        "amount": 270890,
+        "currency": "pounds sterling"
+      },
+      "exports": {
+        "amount": 171880,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_bermuda_revenue_1875",
+      "colony": "geo_bermudas_001",
+      "year": 1875,
+      "revenue": {
+        "amount": 63438,
+        "currency": "pounds sterling"
+      },
+      "expenditure": {
+        "amount": 61635,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_bermuda_trade_1875",
+      "colony": "geo_bermudas_001",
+      "year": 1875,
+      "imports": {
+        "amount": 471748,
+        "currency": "pounds sterling"
+      },
+      "exports": {
+        "amount": 168613,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_natal_revenue_series",
+      "colony": "geo_natal_001",
+      "data_series": [
+        {
+          "year": 1850,
+          "revenue": 24108,
+          "expenditure": 21774
+        },
+        {
+          "year": 1860,
+          "revenue": 86871,
+          "expenditure": 80884
+        },
+        {
+          "year": 1866,
+          "revenue": 94884,
+          "expenditure": 126067
+        },
+        {
+          "year": 1870,
+          "revenue": 126298,
+          "expenditure": 121352
+        },
+        {
+          "year": 1871,
+          "revenue": 125628,
+          "expenditure": 118657
+        },
+        {
+          "year": 1872,
+          "revenue": 180498,
+          "expenditure": 132978
+        },
+        {
+          "year": 1873,
+          "revenue": 208086,
+          "expenditure": 182224
+        },
+        {
+          "year": 1874,
+          "revenue": 247259,
+          "expenditure": 254402
+        },
+        {
+          "year": 1875,
+          "revenue": 260271,
+          "expenditure": 307925
+        },
+        {
+          "year": 1876,
+          "revenue": 160062,
+          "expenditure": 112761
+        }
+      ],
+      "currency": "pounds sterling"
+    },
+    {
+      "id": "econ_natal_trade_series",
+      "colony": "geo_natal_001",
+      "data_series": [
+        {
+          "year": 1850,
+          "imports": 111015,
+          "exports": 15613
+        },
+        {
+          "year": 1860,
+          "imports": 354987,
+          "exports": 129390
+        },
+        {
+          "year": 1866,
+          "imports": 263305,
+          "exports": 203402
+        },
+        {
+          "year": 1870,
+          "imports": 429527,
+          "exports": 382979
+        },
+        {
+          "year": 1871,
+          "imports": 472444,
+          "exports": 562109
+        },
+        {
+          "year": 1872,
+          "imports": 825252,
+          "exports": 622797
+        },
+        {
+          "year": 1873,
+          "imports": 1011465,
+          "exports": 651028
+        },
+        {
+          "year": 1874,
+          "imports": 1121948,
+          "exports": 770084
+        },
+        {
+          "year": 1875,
+          "imports": 1208838,
+          "exports": 885643
+        },
+        {
+          "year": 1876,
+          "imports": 560058,
+          "exports": 385632
+        }
+      ],
+      "currency": "pounds sterling"
+    },
+    {
+      "id": "econ_natal_debt_1874",
+      "colony": "geo_natal_001",
+      "year": 1874,
+      "public_debt": {
+        "amount": 81700,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_natal_railway_loan_1876",
+      "colony": "geo_natal_001",
+      "year": 1876,
+      "borrowed_for_railway": {
+        "amount": 350000,
+        "currency": "pounds sterling",
+        "purpose": "Railway Construction"
+      }
+    },
+    {
+      "id": "econ_sierra_leone_revenue_series",
+      "colony": "geo_sierra_leone_001",
+      "data_series": [
+        {
+          "year": 1865,
+          "revenue": 46934,
+          "expenditure": 59042
+        },
+        {
+          "year": 1866,
+          "revenue": 62161,
+          "expenditure": 60539
+        },
+        {
+          "year": 1867,
+          "revenue": 64871,
+          "expenditure": 69062
+        },
+        {
+          "year": 1868,
+          "revenue": 59272,
+          "expenditure": 55694
+        },
+        {
+          "year": 1869,
+          "revenue": 69617,
+          "expenditure": 70465
+        },
+        {
+          "year": 1870,
+          "revenue": 67185,
+          "expenditure": 68033
+        },
+        {
+          "year": 1873,
+          "revenue": 53244,
+          "expenditure": 60617
+        },
+        {
+          "year": 1874,
+          "revenue": 56738,
+          "expenditure": 63659
+        },
+        {
+          "year": 1875,
+          "revenue": 58376,
+          "expenditure": 67111
+        }
+      ],
+      "currency": "pounds sterling"
+    },
+    {
+      "id": "econ_sierra_leone_debt_1877",
+      "colony": "geo_sierra_leone_001",
+      "year": 1877,
+      "public_debt": {
+        "harbour_debentures": 50000,
+        "debt_to_crown_agents": 21487,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_sierra_leone_trade_series",
+      "colony": "geo_sierra_leone_001",
+      "data_series": [
+        {
+          "year": 1864,
+          "imports": 190441,
+          "exports": 201808
+        },
+        {
+          "year": 1865,
+          "imports": 368545,
+          "exports": 237240
+        },
+        {
+          "year": 1866,
+          "imports": 373269,
+          "exports": 259719
+        },
+        {
+          "year": 1867,
+          "imports": 284766,
+          "exports": 296718
+        },
+        {
+          "year": 1868,
+          "imports": 295826,
+          "exports": 296466
+        },
+        {
+          "year": 1869,
+          "imports": 289779,
+          "exports": 404862
+        },
+        {
+          "year": 1870,
+          "imports": 280864,
+          "exports": 392191
+        },
+        {
+          "year": 1871,
+          "imports": 305849,
+          "exports": 467755
+        },
+        {
+          "year": 1872,
+          "imports": 411935,
+          "exports": 358636
+        },
+        {
+          "year": 1873,
+          "imports": 490993,
+          "exports": 465113
+        }
+      ],
+      "currency": "pounds sterling"
+    },
+    {
+      "id": "econ_barbados_revenue_series",
+      "colony": "geo_barbados_001",
+      "data_series": [
+        {
+          "year": 1866,
+          "revenue": 108085,
+          "expenditure": 95838
+        },
+        {
+          "year": 1867,
+          "revenue": 98347,
+          "expenditure": 97783
+        },
+        {
+          "year": 1868,
+          "revenue": 116356,
+          "expenditure": 99370
+        },
+        {
+          "year": 1869,
+          "revenue": 102606,
+          "expenditure": 105480
+        },
+        {
+          "year": 1870,
+          "revenue": 104981,
+          "expenditure": 105708
+        },
+        {
+          "year": 1871,
+          "revenue": 119492,
+          "expenditure": 122846
+        },
+        {
+          "year": 1872,
+          "revenue": 117652,
+          "expenditure": 125040
+        },
+        {
+          "year": 1873,
+          "revenue": 123677,
+          "expenditure": 121797
+        },
+        {
+          "year": 1874,
+          "revenue": 123869,
+          "expenditure": 128961
+        },
+        {
+          "year": 1875,
+          "revenue": 132122,
+          "expenditure": 126844
+        }
+      ],
+      "currency": "pounds sterling",
+      "note": "No Public Debt"
+    },
+    {
+      "id": "econ_barbados_trade_series",
+      "colony": "geo_barbados_001",
+      "data_series": [
+        {
+          "year": 1866,
+          "imports": 988081,
+          "exports": 1246842
+        },
+        {
+          "year": 1867,
+          "imports": 989562,
+          "exports": 1145410
+        },
+        {
+          "year": 1868,
+          "imports": 1130092,
+          "exports": 1269673
+        },
+        {
+          "year": 1869,
+          "imports": 1026220,
+          "exports": 935424
+        },
+        {
+          "year": 1870,
+          "imports": 1069867,
+          "exports": 973020
+        },
+        {
+          "year": 1871,
+          "imports": 1191888,
+          "exports": 1298546
+        },
+        {
+          "year": 1872,
+          "imports": 1125080,
+          "exports": 1021443
+        },
+        {
+          "year": 1873,
+          "imports": 1193814,
+          "exports": 1024083
+        },
+        {
+          "year": 1874,
+          "imports": 1049248,
+          "exports": 1140767
+        },
+        {
+          "year": 1875,
+          "imports": 1187493,
+          "exports": 1479910
+        }
+      ],
+      "currency": "pounds sterling"
+    },
+    {
+      "id": "econ_st_vincent_revenue_series",
+      "colony": "geo_st_vincent_001",
+      "data_series": [
+        {
+          "year": 1864,
+          "revenue": 20359,
+          "expenditure": 19782
+        },
+        {
+          "year": 1865,
+          "revenue": 19000,
+          "expenditure": 18441
+        },
+        {
+          "year": 1866,
+          "revenue": 20680,
+          "expenditure": 20281
+        },
+        {
+          "year": 1867,
+          "revenue": 21553,
+          "expenditure": 21559
+        },
+        {
+          "year": 1868,
+          "revenue": 25204,
+          "expenditure": 21727
+        },
+        {
+          "year": 1869,
+          "revenue": 31979,
+          "expenditure": 31998
+        },
+        {
+          "year": 1870,
+          "revenue": 30620,
+          "expenditure": 30320
+        },
+        {
+          "year": 1871,
+          "revenue": 34207,
+          "expenditure": 32460
+        },
+        {
+          "year": 1872,
+          "revenue": 35471,
+          "expenditure": 34161
+        },
+        {
+          "year": 1873,
+          "revenue": 35473,
+          "expenditure": 32422
+        },
+        {
+          "year": 1874,
+          "revenue": 33344,
+          "expenditure": 36350
+        },
+        {
+          "year": 1875,
+          "revenue": 27852,
+          "expenditure": 29698
+        }
+      ],
+      "currency": "pounds sterling",
+      "note": "No Public Debt"
+    },
+    {
+      "id": "econ_st_vincent_trade_series",
+      "colony": "geo_st_vincent_001",
+      "data_series": [
+        {
+          "year": 1864,
+          "imports": 136148,
+          "exports": 156413
+        },
+        {
+          "year": 1865,
+          "imports": 121145,
+          "exports": 147854
+        },
+        {
+          "year": 1866,
+          "imports": 158158,
+          "exports": 194173
+        },
+        {
+          "year": 1867,
+          "imports": 126411,
+          "exports": 194972
+        },
+        {
+          "year": 1868,
+          "imports": 130376,
+          "exports": 195551
+        },
+        {
+          "year": 1869,
+          "imports": 145456,
+          "exports": 191744
+        },
+        {
+          "year": 1870,
+          "imports": 137474,
+          "exports": 221139
+        },
+        {
+          "year": 1871,
+          "imports": 157337,
+          "exports": 255977
+        },
+        {
+          "year": 1872,
+          "imports": 156136,
+          "exports": 242298
+        },
+        {
+          "year": 1873,
+          "imports": 161497,
+          "exports": 201665
+        },
+        {
+          "year": 1874,
+          "imports": 160772,
+          "exports": 200516
+        }
+      ],
+      "currency": "pounds sterling"
+    },
+    {
+      "id": "econ_grenada_revenue_series",
+      "colony": "geo_grenada_001",
+      "data_series": [
+        {
+          "year": 1866,
+          "revenue": 21139,
+          "expenditure": 21208
+        },
+        {
+          "year": 1867,
+          "revenue": 19983,
+          "expenditure": 25686
+        },
+        {
+          "year": 1868,
+          "revenue": 21740,
+          "expenditure": 21920
+        },
+        {
+          "year": 1869,
+          "revenue": 23140,
+          "expenditure": 21262
+        },
+        {
+          "year": 1870,
+          "revenue": 23106,
+          "expenditure": 20824
+        },
+        {
+          "year": 1871,
+          "revenue": 22879,
+          "expenditure": 21140
+        },
+        {
+          "year": 1872,
+          "revenue": 24527,
+          "expenditure": 25982
+        },
+        {
+          "year": 1873,
+          "revenue": 25482,
+          "expenditure": 27225
+        },
+        {
+          "year": 1874,
+          "revenue": 23404,
+          "expenditure": 25730
+        },
+        {
+          "year": 1875,
+          "revenue": 29442,
+          "expenditure": 27553
+        }
+      ],
+      "currency": "pounds sterling"
+    },
+    {
+      "id": "econ_grenada_debt",
+      "colony": "geo_grenada_001",
+      "public_debt": {
+        "amount": 7000,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_grenada_trade_series",
+      "colony": "geo_grenada_001",
+      "data_series": [
+        {
+          "year": 1866,
+          "imports": 122255,
+          "exports": 113237
+        },
+        {
+          "year": 1867,
+          "imports": 111912,
+          "exports": 116917
+        },
+        {
+          "year": 1868,
+          "imports": 108766,
+          "exports": 108895
+        },
+        {
+          "year": 1869,
+          "imports": 176477,
+          "exports": 121971
+        },
+        {
+          "year": 1870,
+          "imports": 104475,
+          "exports": 127184
+        },
+        {
+          "year": 1871,
+          "imports": 132406,
+          "exports": 153920
+        },
+        {
+          "year": 1872,
+          "imports": 142435,
+          "exports": 145427
+        },
+        {
+          "year": 1873,
+          "imports": 133061,
+          "exports": 147519
+        },
+        {
+          "year": 1874,
+          "imports": 106637,
+          "exports": 158866
+        },
+        {
+          "year": 1875,
+          "imports": 118385,
+          "exports": 171831
+        }
+      ],
+      "currency": "pounds sterling"
+    },
+    {
+      "id": "econ_tobago_revenue_series",
+      "colony": "geo_tobago_001",
+      "data_series": [
+        {
+          "year": 1867,
+          "revenue": 9840,
+          "expenditure": 9808
+        },
+        {
+          "year": 1868,
+          "revenue": 9854,
+          "expenditure": 10459
+        },
+        {
+          "year": 1869,
+          "revenue": 9900,
+          "expenditure": 9814
+        },
+        {
+          "year": 1870,
+          "revenue": 12177,
+          "expenditure": 11655
+        },
+        {
+          "year": 1871,
+          "revenue": 13270,
+          "expenditure": 10387
+        },
+        {
+          "year": 1872,
+          "revenue": 13395,
+          "expenditure": 13384
+        },
+        {
+          "year": 1873,
+          "revenue": 9498,
+          "expenditure": 11330
+        },
+        {
+          "year": 1874,
+          "revenue": 9518,
+          "expenditure": 9578
+        },
+        {
+          "year": 1875,
+          "revenue": 11594,
+          "expenditure": 11484
+        }
+      ],
+      "currency": "pounds sterling"
+    },
+    {
+      "id": "econ_tobago_trade_series",
+      "colony": "geo_tobago_001",
+      "data_series": [
+        {
+          "year": 1865,
+          "imports": 47487,
+          "exports": 46762
+        },
+        {
+          "year": 1866,
+          "imports": 57645,
+          "exports": 69872
+        },
+        {
+          "year": 1867,
+          "imports": 54826,
+          "exports": 55951
+        },
+        {
+          "year": 1868,
+          "imports": 48895,
+          "exports": 48417
+        },
+        {
+          "year": 1869,
+          "imports": 52168,
+          "exports": 74223
+        },
+        {
+          "year": 1870,
+          "imports": 61148,
+          "exports": 82377
+        },
+        {
+          "year": 1871,
+          "imports": 66978,
+          "exports": 95698
+        },
+        {
+          "year": 1872,
+          "imports": 55234,
+          "exports": 82635
+        },
+        {
+          "year": 1873,
+          "imports": 48743,
+          "exports": 45280
+        },
+        {
+          "year": 1874,
+          "imports": 46435,
+          "exports": 45387
+        }
+      ],
+      "currency": "pounds sterling"
+    },
+    {
+      "id": "econ_gambia_revenue_series",
+      "colony": "geo_the_gambia_001",
+      "data_series": [
+        {
+          "year": 1866,
+          "revenue": 19079,
+          "expenditure": 17681
+        },
+        {
+          "year": 1867,
+          "revenue": 22415,
+          "expenditure": 18664
+        },
+        {
+          "year": 1868,
+          "revenue": 22088,
+          "expenditure": 17082
+        },
+        {
+          "year": 1869,
+          "revenue": 15518,
+          "expenditure": 20236
+        },
+        {
+          "year": 1870,
+          "revenue": 18969,
+          "expenditure": 21937
+        },
+        {
+          "year": 1871,
+          "revenue": 17490,
+          "expenditure": 16662
+        },
+        {
+          "year": 1872,
+          "revenue": 17249,
+          "expenditure": 17873
+        },
+        {
+          "year": 1873,
+          "revenue": 14330,
+          "expenditure": 19278
+        },
+        {
+          "year": 1874,
+          "revenue": 20380,
+          "expenditure": 23425
+        },
+        {
+          "year": 1875,
+          "revenue": 22700,
+          "expenditure": 22468
+        }
+      ],
+      "currency": "pounds sterling"
+    },
+    {
+      "id": "econ_gambia_debt",
+      "colony": "geo_the_gambia_001",
+      "public_debt": {
+        "debt_to_crown_agents": 3073,
+        "currency": "pounds sterling"
+      }
+    },
+    {
+      "id": "econ_gambia_trade_series",
+      "colony": "geo_the_gambia_001",
+      "data_series": [
+        {
+          "year": 1866,
+          "imports": 108298,
+          "exports": 158868
+        },
+        {
+          "year": 1867,
+          "imports": 193420,
+          "exports": 214889
+        },
+        {
+          "year": 1868,
+          "imports": 144524,
+          "exports": 187357
+        },
+        {
+          "year": 1869,
+          "imports": 94027,
+          "exports": 109812
+        },
+        {
+          "year": 1870,
+          "imports": 91996,
+          "exports": 142517
+        },
+        {
+          "year": 1871,
+          "imports": 102064,
+          "exports": 153100
+        },
+        {
+          "year": 1872,
+          "imports": 128088,
+          "exports": 127225
+        },
+        {
+          "year": 1873,
+          "imports": 114404,
+          "exports": 110816
+        },
+        {
+          "year": 1874,
+          "imports": 130300,
+          "exports": 180094
+        },
+        {
+          "year": 1875,
+          "imports": 142754,
+          "exports": 147465
+        }
+      ],
+      "currency": "pounds sterling"
+    }
+  ],
+  "infrastructure": [
+    {
+      "id": "infra_natal_railway_001",
+      "name": "Pietermaritzburg to Durban Railway",
+      "type": "railway",
+      "colony": "geo_natal_001",
+      "route": {
+        "from": "geo_pietermaritzburg",
+        "to": "geo_durban",
+        "distance": {
+          "value": 78,
+          "unit": "miles"
+        }
+      },
+      "branches": [
+        {
+          "name": "Umgeni to Verulam",
+          "distance": {
+            "value": 19.5,
+            "unit": "miles"
+          },
+          "direction": "northwards"
+        },
+        {
+          "name": "To Isipingo River",
+          "distance": {
+            "value": 7,
+            "unit": "miles"
+          },
+          "direction": "south"
+        }
+      ],
+      "authorization_date": "1875",
+      "construction_start": "1876-01-01",
+      "estimated_cost": {
+        "amount": 1000000,
+        "currency": "pounds sterling"
+      },
+      "contractor": "Messrs. Wythes and Jackson",
+      "funding": "Loan"
+    },
+    {
+      "id": "infra_barbados_water_supply",
+      "name": "Bridgetown Water Supply",
+      "type": "water_infrastructure",
+      "colony": "geo_barbados_001",
+      "location": "geo_bridgetown",
+      "description": "Water supply system undertaken and completed by a joint-stock company incorporated by an act of the legislature",
+      "operator": "Joint-stock company"
+    },
+    {
+      "id": "infra_barbados_lighthouse_south",
+      "name": "South Point Lighthouse",
+      "type": "lighthouse",
+      "colony": "geo_barbados_001",
+      "construction_date": "1852",
+      "funding": "Partly at the expense of the British government"
+    },
+    {
+      "id": "infra_barbados_lighthouse_needham",
+      "name": "Needham's Point Harbour Light",
+      "type": "lighthouse",
+      "colony": "geo_barbados_001",
+      "construction_date": "1855"
+    },
+    {
+      "id": "infra_barbados_lighthouse_east",
+      "name": "East Coast Lighthouse (St. Philip's)",
+      "type": "lighthouse",
+      "colony": "geo_barbados_001",
+      "construction_date": "1875-05-01",
+      "specifications": {
+        "light_type": "Second order dioptric flash light",
+        "provided_by": "British Government"
+      }
+    },
+    {
+      "id": "infra_barbados_telegraph",
+      "name": "West India and Panama Telegraph Company Station",
+      "type": "telegraph_station",
+      "colony": "geo_barbados_001",
+      "location": "geo_barbados_001",
+      "operator": "West India and Panama Telegraph Company"
+    },
+    {
+      "id": "infra_tobago_lighthouse",
+      "name": "Bacolet Point Lighthouse",
+      "type": "lighthouse",
+      "colony": "geo_tobago_001",
+      "location": "geo_scarborough_tobago",
+      "specifications": {
+        "light_type": "Fixed white light",
+        "elevation": {
+          "value": 128,
+          "unit": "feet above sea level"
+        }
+      }
+    }
+  ],
+  "demographics": [
+    {
+      "id": "demo_bahamas_1871",
+      "colony": "geo_bahamas_001",
+      "year": 1871,
+      "total_population": 39039,
+      "breakdown": {
+        "white": 7296,
+        "coloured": 31743
+      }
+    },
+    {
+      "id": "demo_bermuda_1871",
+      "colony": "geo_bermudas_001",
+      "year": 1871,
+      "total_population": 12292,
+      "breakdown": {
+        "white": 4619,
+        "coloured": 7673
+      }
+    },
+    {
+      "id": "demo_heligoland_1871",
+      "colony": "geo_heligoland_001",
+      "year": 1871,
+      "total_population": 2307
+    },
+    {
+      "id": "demo_falklands_1875",
+      "colony": "geo_falkland_islands_001",
+      "year": 1875,
+      "total_population": 1158
+    },
+    {
+      "id": "demo_fiji_1875",
+      "colony": "geo_fiji_001",
+      "year": 1875,
+      "total_population": 140000,
+      "breakdown": {
+        "note": "Approximate, including indigenous Fijians"
+      }
+    },
+    {
+      "id": "demo_griqualand_west_1875",
+      "colony": "geo_griqualand_west_001",
+      "year": 1875,
+      "total_population": 30000
+    },
+    {
+      "id": "demo_hong_kong_1876",
+      "colony": "geo_hong_kong_001",
+      "year": 1876,
+      "total_population": 139144
+    },
+    {
+      "id": "demo_jamaica_1871",
+      "colony": "geo_jamaica_001",
+      "year": 1871,
+      "total_population": 506154
+    },
+    {
+      "id": "demo_labuan_1871",
+      "colony": "geo_labuan_001",
+      "year": 1871,
+      "total_population": 5772
+    },
+    {
+      "id": "demo_mauritius_1871",
+      "colony": "geo_mauritius_001",
+      "year": 1871,
+      "total_population": 330010
+    },
+    {
+      "id": "demo_natal_1872",
+      "colony": "geo_natal_001",
+      "year": 1872,
+      "total_population": 305141,
+      "breakdown": {
+        "white": 17290,
+        "coolies": 5068,
+        "natives": 282706,
+        "aliens_and_native_strangers": 4059
+      }
+    },
+    {
+      "id": "demo_sierra_leone_series",
+      "colony": "geo_sierra_leone_001",
+      "data_series": [
+        {
+          "year": 1860,
+          "white_males": 100,
+          "white_females": 31,
+          "coloured_males": 21070,
+          "coloured_females": 20423,
+          "total": 41624
+        },
+        {
+          "year": 1862,
+          "white_males": 99,
+          "white_females": 32,
+          "coloured_males": 21115,
+          "coloured_females": 20560,
+          "total": 41806
+        },
+        {
+          "year": 1866,
+          "white_males": 98,
+          "white_females": 31,
+          "coloured_males": 21016,
+          "coloured_females": 20664,
+          "total": 41806
+        },
+        {
+          "year": 1871,
+          "total": 37039
+        }
+      ]
+    },
+    {
+      "id": "demo_st_helena_1871",
+      "colony": "geo_st_helena_001",
+      "year": 1871,
+      "total_population": 5059
+    },
+    {
+      "id": "demo_seychelles_1871",
+      "colony": "geo_seychelles_001",
+      "year": 1871,
+      "total_population": 14035
+    },
+    {
+      "id": "demo_trinidad_1871",
+      "colony": "geo_trinidad_001",
+      "year": 1871,
+      "total_population": 109638
+    },
+    {
+      "id": "demo_gambia_1871",
+      "colony": "geo_the_gambia_001",
+      "year": 1871,
+      "total_population": 14827,
+      "breakdown": {
+        "bathurst": 7090,
+        "british_combo": 4552,
+        "barra_ceded_mile": 1263,
+        "mccarthys_island": 1922
+      }
+    },
+    {
+      "id": "demo_barbados_1871",
+      "colony": "geo_barbados_001",
+      "year": 1871,
+      "total_population": 162042,
+      "breakdown": {
+        "white": 16560,
+        "coloured_and_black": 145482
+      },
+      "bridgetown_population": 18957
+    },
+    {
+      "id": "demo_st_vincent_1871",
+      "colony": "geo_st_vincent_001",
+      "year": 1871,
+      "total_population": 35688,
+      "breakdown": {
+        "european": 2344,
+        "african": 24707,
+        "asiatic": 1485,
+        "caribs": 431,
+        "mixed": 6721
+      }
+    },
+    {
+      "id": "demo_grenada_population",
+      "colony": "geo_grenada_001",
+      "year": 1871,
+      "total_population": 37795,
+      "by_location": {
+        "grenada": 34724,
+        "carriacou": 3071
+      }
+    },
+    {
+      "id": "demo_tobago_series",
+      "colony": "geo_tobago_001",
+      "data_series": [
+        {
+          "year": 1851,
+          "male": 6949,
+          "female": 7429,
+          "total": 14378
+        },
+        {
+          "year": 1861,
+          "male": 7433,
+          "female": 7977,
+          "total": 15410
+        },
+        {
+          "year": 1871,
+          "male": 8262,
+          "female": 8792,
+          "total": 17054
+        }
+      ]
+    },
+    {
+      "id": "demo_st_lucia_population",
+      "colony": "geo_st_lucia_001",
+      "year": 1871,
+      "total_population": 31811,
+      "breakdown": {
+        "coloured": 30901,
+        "note": "Increased by 5,137 in the ten years between 1861 and 1871"
+      }
+    }
+  ],
+  "historical_events": [
+    {
+      "id": "event_bahamas_discovery",
+      "date": "1492-10-12",
+      "event_type": "discovery",
+      "description": "Discovery of the Bahamas by Christopher Columbus on October 12, 1492",
+      "location": "geo_bahamas_001",
+      "participants": [
+        "Christopher Columbus"
+      ]
+    },
+    {
+      "id": "event_bermuda_discovery",
+      "date": "1522",
+      "event_type": "discovery",
+      "description": "Discovery of Bermuda by Juan Bermudez, a Spaniard",
+      "location": "geo_bermudas_001",
+      "participants": [
+        "Juan Bermudez"
+      ]
+    },
+    {
+      "id": "event_gibraltar_capture",
+      "date": "1704-08-04",
+      "event_type": "military_conquest",
+      "description": "Gibraltar taken by Sir George Rooke on August 4th, 1704",
+      "location": "geo_gibraltar_001",
+      "participants": [
+        "Sir George Rooke"
+      ]
+    },
+    {
+      "id": "event_gibraltar_cession",
+      "date": "1713",
+      "event_type": "treaty_cession",
+      "description": "Gibraltar ceded to Great Britain by Treaty of Utrecht",
+      "location": "geo_gibraltar_001"
+    },
+    {
+      "id": "event_heligoland_cession",
+      "date": "1814",
+      "event_type": "treaty_cession",
+      "description": "Heligoland ceded to Great Britain by Denmark",
+      "location": "geo_heligoland_001"
+    },
+    {
+      "id": "event_natal_discovery",
+      "date": "1497-12-25",
+      "event_type": "discovery",
+      "description": "Discovery of Natal by Vasco de Gama on Christmas Day, 1497",
+      "location": "geo_natal_001",
+      "participants": [
+        "Vasco de Gama"
+      ],
+      "note": "Named Natal because discovered on Christmas Day"
+    },
+    {
+      "id": "event_natal_british_annexation",
+      "date": "1843",
+      "event_type": "annexation",
+      "description": "District of Natal proclaimed a British Colony by the Governor of the Cape",
+      "location": "geo_natal_001"
+    },
+    {
+      "id": "event_natal_separate_colony",
+      "date": "1856",
+      "event_type": "constitutional_change",
+      "description": "Natal erected into a distinct and separate Colony, no longer under control of the Governor of the Cape",
+      "location": "geo_natal_001"
+    },
+    {
+      "id": "event_natal_langalibalele_affair",
+      "date": "1873",
+      "event_type": "rebellion",
+      "description": "Langalibalele, chief of the Amalubi Tribe, entered on a contumacious course of conduct ending in attempt to escape with his people and cattle. Colonial force dispatched, tribe subdued, chief transported to Robben Island",
+      "location": "geo_natal_001",
+      "participants": [
+        "Langalibalele",
+        "Mr. Griffiths",
+        "Mr. Orpen",
+        "Mr. Allison",
+        "Mr. Hawkins",
+        "Sir Garnet Wolseley"
+      ]
+    },
+    {
+      "id": "event_natal_railway_groundbreaking",
+      "date": "1876-01-01",
+      "event_type": "infrastructure_development",
+      "description": "First sod turned by the Lieutenant-Governor for railway from Pietermaritzburg to Durban",
+      "location": "geo_natal_001"
+    },
+    {
+      "id": "event_fiji_cession",
+      "date": "1874-10-10",
+      "event_type": "annexation",
+      "description": "Fiji ceded to Great Britain by the native chiefs",
+      "location": "geo_fiji_001"
+    },
+    {
+      "id": "event_barbados_settlement",
+      "date": "1625",
+      "event_type": "colonization",
+      "description": "First settlement of Barbados by Sir William Courteen under protection of Earl of Marlborough, party of 30 persons landed and formed James' (or Hole) Town",
+      "location": "geo_barbados_001",
+      "participants": [
+        "Sir William Courteen",
+        "Captain William Deane"
+      ]
+    },
+    {
+      "id": "event_barbados_slavery_abolition",
+      "date": "1834",
+      "event_type": "social_reform",
+      "description": "Abolition of slavery in Barbados",
+      "location": "geo_barbados_001"
+    },
+    {
+      "id": "event_barbados_duty_abolition",
+      "date": "1838",
+      "event_type": "economic_reform",
+      "description": "4½ per cent duty on all exports abolished by Act of Parliament, four years after abolition of slavery",
+      "location": "geo_barbados_001",
+      "note": "This duty had been imposed to satisfy claims of Lord Willoughby and heirs of the two earls"
+    },
+    {
+      "id": "event_st_vincent_discovery",
+      "date": "1498-01-22",
+      "event_type": "discovery",
+      "description": "Discovery of St. Vincent by Columbus on January 22, 1498",
+      "location": "geo_st_vincent_001",
+      "participants": [
+        "Christopher Columbus"
+      ]
+    },
+    {
+      "id": "event_st_vincent_carib_deportation",
+      "date": "1797-03-11",
+      "event_type": "deportation",
+      "description": "5,080 Caribs embarked at Bequia and sailed to Rattan Island in the Bay of Honduras after their surrender",
+      "location": "geo_st_vincent_001",
+      "participants": [
+        "Sir Ralph Abercrombie"
+      ]
+    },
+    {
+      "id": "event_grenada_discovery",
+      "date": "1498",
+      "event_type": "discovery",
+      "description": "Discovery of Grenada by Columbus, named Ascension",
+      "location": "geo_grenada_001",
+      "participants": [
+        "Christopher Columbus"
+      ]
+    },
+    {
+      "id": "event_leeward_islands_federation",
+      "date": "1871-08-21",
+      "event_type": "constitutional_change",
+      "description": "Federation of the Leeward Islands established by Imperial Act 34 & 35 Vict., cap.107",
+      "location": "geo_leeward_islands_001",
+      "note": "Revived ancient constitution dating back to William and Mary"
+    }
+  ],
+  "relationships": [
+    {
+      "id": "rel_001",
+      "relationship_type": "governs",
+      "subject": "person_bahamas_governor_001",
+      "object": "geo_bahamas_001",
+      "period": "1873-1877"
+    },
+    {
+      "id": "rel_002",
+      "relationship_type": "subordinate_to",
+      "subject": "person_bahamas_colonial_secretary_001",
+      "object": "person_bahamas_governor_001"
+    },
+    {
+      "id": "rel_003",
+      "relationship_type": "capital_of",
+      "subject": "geo_nassau",
+      "object": "geo_bahamas_001"
+    },
+    {
+      "id": "rel_004",
+      "relationship_type": "part_of",
+      "subject": "geo_new_providence",
+      "object": "geo_bahamas_001"
+    },
+    {
+      "id": "rel_005",
+      "relationship_type": "located_in",
+      "subject": "geo_nassau",
+      "object": "geo_new_providence"
+    },
+    {
+      "id": "rel_006",
+      "relationship_type": "governs",
+      "subject": "person_natal_governor_001",
+      "object": "geo_natal_001"
+    },
+    {
+      "id": "rel_007",
+      "relationship_type": "capital_of",
+      "subject": "geo_pietermaritzburg",
+      "object": "geo_natal_001"
+    },
+    {
+      "id": "rel_008",
+      "relationship_type": "port_of",
+      "subject": "geo_durban",
+      "object": "geo_natal_001"
+    },
+    {
+      "id": "rel_009",
+      "relationship_type": "connects",
+      "subject": "infra_natal_railway_001",
+      "object": "geo_pietermaritzburg"
+    },
+    {
+      "id": "rel_010",
+      "relationship_type": "connects",
+      "subject": "infra_natal_railway_001",
+      "object": "geo_durban"
+    },
+    {
+      "id": "rel_011",
+      "relationship_type": "heads",
+      "subject": "person_natal_chief_justice_001",
+      "object": "inst_natal_supreme_court"
+    },
+    {
+      "id": "rel_012",
+      "relationship_type": "member_of",
+      "subject": "person_natal_colonial_secretary_001",
+      "object": "inst_natal_gov"
+    },
+    {
+      "id": "rel_013",
+      "relationship_type": "governs",
+      "subject": "person_windward_islands_governor_001",
+      "object": "geo_barbados_001"
+    },
+    {
+      "id": "rel_014",
+      "relationship_type": "governs",
+      "subject": "person_windward_islands_governor_001",
+      "object": "geo_st_vincent_001"
+    },
+    {
+      "id": "rel_015",
+      "relationship_type": "governs",
+      "subject": "person_windward_islands_governor_001",
+      "object": "geo_grenada_001"
+    },
+    {
+      "id": "rel_016",
+      "relationship_type": "governs",
+      "subject": "person_windward_islands_governor_001",
+      "object": "geo_tobago_001"
+    },
+    {
+      "id": "rel_017",
+      "relationship_type": "governs",
+      "subject": "person_windward_islands_governor_001",
+      "object": "geo_st_lucia_001"
+    },
+    {
+      "id": "rel_018",
+      "relationship_type": "subordinate_to",
+      "subject": "person_st_vincent_lt_governor_001",
+      "object": "person_windward_islands_governor_001"
+    },
+    {
+      "id": "rel_019",
+      "relationship_type": "subordinate_to",
+      "subject": "person_grenada_lt_governor_001",
+      "object": "person_windward_islands_governor_001"
+    },
+    {
+      "id": "rel_020",
+      "relationship_type": "subordinate_to",
+      "subject": "person_tobago_lt_governor_001",
+      "object": "person_windward_islands_governor_001"
+    },
+    {
+      "id": "rel_021",
+      "relationship_type": "capital_of",
+      "subject": "geo_freetown",
+      "object": "geo_sierra_leone_001"
+    },
+    {
+      "id": "rel_022",
+      "relationship_type": "discovered_by",
+      "subject": "geo_bahamas_001",
+      "object": "Christopher Columbus",
+      "date": "1492-10-12"
+    },
+    {
+      "id": "rel_023",
+      "relationship_type": "discovered_by",
+      "subject": "geo_natal_001",
+      "object": "Vasco de Gama",
+      "date": "1497-12-25"
+    },
+    {
+      "id": "rel_024",
+      "relationship_type": "headquarters_of",
+      "subject": "geo_barbados_001",
+      "object": "inst_windward_islands_gov"
+    }
+  ],
+  "extraction_statistics": {
+    "total_geographic_entities": 100,
+    "total_people": 26,
+    "total_institutions": 10,
+    "total_economic_data_points": 24,
+    "total_infrastructure_items": 7,
+    "total_demographic_records": 20,
+    "total_historical_events": 18,
+    "total_relationships": 24
+  }
+}

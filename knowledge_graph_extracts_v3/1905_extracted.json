@@ -1,0 +1,5630 @@
+{
+  "metadata": {
+    "year": "1905",
+    "source_directory": "/home/user/colonial_office_list/output_2/1905_manual_parsed/",
+    "extraction_date": "2025-11-16T22:30:00Z",
+    "processing_notes": "Comprehensive extraction from Colonial Office List 1905. Data extracted from 16 colony files with full detail preservation. Historical spelling and terminology preserved as per methodology. All numerical data, salaries, coordinates, and population figures extracted verbatim from source documents.",
+    "colonies_processed": [
+      "ANTIGUA",
+      "BAHAMAS",
+      "BARBADOS",
+      "BASUTOLAND",
+      "BECHUANALAND_PROTECTORATE",
+      "BERMUDA",
+      "BRITISH_CENTRAL_AFRICA_PROTECTORATE",
+      "BRITISH_GUIANA",
+      "BRITISH_HONDURAS",
+      "CEYLON",
+      "CYPRUS",
+      "DOMINICA",
+      "FIJI",
+      "JAMAICA",
+      "MALTA"
+    ]
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_001",
+        "name": "Antigua",
+        "modern_name": null,
+        "type": "colony",
+        "coordinates": {
+          "latitude": "17° 6' N",
+          "longitude": "61° 45' W"
+        },
+        "area": {
+          "value": 108,
+          "unit": "square miles"
+        },
+        "description": "About 54 miles in circumference, about half the size of Middlesex",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-240",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_002",
+        "name": "Barbuda",
+        "modern_name": null,
+        "type": "dependency",
+        "coordinates": null,
+        "area": {
+          "value": 62,
+          "unit": "square miles"
+        },
+        "description": "Lies about 25 miles due north of the main island, is very flat, with a large lagoon on the west side",
+        "parent_location": "place_001",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-240",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_003",
+        "name": "Redonda",
+        "modern_name": null,
+        "type": "dependency",
+        "coordinates": {
+          "latitude": "25° 6' N",
+          "longitude": "61° 35' W"
+        },
+        "area": {
+          "value": 0.25,
+          "unit": "square miles"
+        },
+        "description": "Lying between Montserrat and Nevis, 25 miles S.W. of Antigua, 1 mile by ¼ mile, 1,000 feet high, valuable for its phosphate of alumina mines",
+        "parent_location": "place_001",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-240",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_004",
+        "name": "St. John",
+        "modern_name": null,
+        "type": "town",
+        "coordinates": null,
+        "area": null,
+        "description": "The chief town, has a population of 9,262, and is a port of registry",
+        "parent_location": "place_001",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-240",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_005",
+        "name": "Falmouth",
+        "modern_name": null,
+        "type": "town",
+        "coordinates": null,
+        "area": null,
+        "description": null,
+        "parent_location": "place_001",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-240",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_006",
+        "name": "Parham",
+        "modern_name": null,
+        "type": "town",
+        "coordinates": null,
+        "area": null,
+        "description": null,
+        "parent_location": "place_001",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-240",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_007",
+        "name": "English Harbour",
+        "modern_name": null,
+        "type": "harbor",
+        "coordinates": null,
+        "area": null,
+        "description": null,
+        "parent_location": "place_001",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-240",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_008",
+        "name": "Bahamas",
+        "modern_name": null,
+        "type": "colony",
+        "coordinates": {
+          "latitude": "21° 42' to 27° 34' N",
+          "longitude": "72° 40' to 79° 5' W"
+        },
+        "area": {
+          "value": 4466,
+          "unit": "square miles"
+        },
+        "description": "The most northerly of the British West Indian Colonies, a chain of coral islands composed of about 20 inhabited islands and an immense number of islets and rocks, about half the size of Wales",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BAHAMAS.md",
+          "source_lines": "1-11",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_009",
+        "name": "Nassau",
+        "modern_name": null,
+        "type": "city",
+        "coordinates": null,
+        "area": null,
+        "description": "Capital, port of registry, had on 31st December, 1903, 698 ships registered, of 27,847 tons",
+        "parent_location": "place_008",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BAHAMAS.md",
+          "source_lines": "1-11",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_010",
+        "name": "New Providence",
+        "modern_name": null,
+        "type": "island",
+        "coordinates": null,
+        "area": null,
+        "description": "Contains the capital Nassau, contains 12,534 inhabitants according to census of 1901",
+        "parent_location": "place_008",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BAHAMAS.md",
+          "source_lines": "1-11",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_011",
+        "name": "Barbados",
+        "modern_name": null,
+        "type": "colony",
+        "coordinates": {
+          "latitude": "13° 4' N",
+          "longitude": "59° 37' W"
+        },
+        "area": {
+          "value": 166,
+          "unit": "square miles"
+        },
+        "description": "The most easterly of the Caribbee Islands, nearly 21 miles long by 14 in breadth, somewhat larger than the Isle of Wight",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_012",
+        "name": "Bridgetown",
+        "modern_name": null,
+        "type": "town",
+        "coordinates": {
+          "latitude": "13° 5' 42\" N",
+          "longitude": "3° 58' 29\" W"
+        },
+        "area": null,
+        "description": "The chief town and port, situated in the parish of St. Michael, contains 21,000 inhabitants according to the census of 1891",
+        "parent_location": "place_011",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_013",
+        "name": "Speightstown",
+        "modern_name": null,
+        "type": "town",
+        "coordinates": null,
+        "area": null,
+        "description": "The only other town, has about 1,500 inhabitants",
+        "parent_location": "place_011",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_014",
+        "name": "Carlisle Bay",
+        "modern_name": null,
+        "type": "harbor",
+        "coordinates": null,
+        "area": null,
+        "description": "The harbour of Barbados, an open roadstead, much exposed to the wind from the south and south-west, port of registry",
+        "parent_location": "place_011",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_015",
+        "name": "Basutoland",
+        "modern_name": "Lesotho",
+        "type": "territory",
+        "coordinates": {
+          "latitude": "29° to 30° S",
+          "longitude": "27° to 28° E"
+        },
+        "area": {
+          "value": 10283,
+          "unit": "square miles"
+        },
+        "description": "Forms an irregular oval in the north-east of the Cape Colony, nearly as large as Belgium",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BASUTOLAND.md",
+          "source_lines": "1-92",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_016",
+        "name": "Maseru",
+        "modern_name": null,
+        "type": "town",
+        "coordinates": null,
+        "area": null,
+        "description": "The capital and largest town, has a population of 1,100 natives and 200 whites (approximately)",
+        "parent_location": "place_015",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BASUTOLAND.md",
+          "source_lines": "1-92",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_017",
+        "name": "Bechuanaland Protectorate",
+        "modern_name": "Botswana",
+        "type": "protectorate",
+        "coordinates": null,
+        "area": {
+          "value": 275000,
+          "unit": "square miles"
+        },
+        "description": "Bounded on the south by the Cape Colony, on the East by the Transvaal Colony, on the north by the British South Africa Company's territory and the Zambesi River, and on the west by German territory",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BECHUANALAND_PROTECTORATE.md",
+          "source_lines": "1-158",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_018",
+        "name": "Mafeking",
+        "modern_name": "Mafikeng",
+        "type": "town",
+        "coordinates": null,
+        "area": null,
+        "description": "Headquarters of the Resident Commissioner, in the Cape Colony",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/MAFEKING.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_019",
+        "name": "Bermuda",
+        "modern_name": null,
+        "type": "colony",
+        "coordinates": {
+          "latitude": "32° 15' N",
+          "longitude": "64° 51' W"
+        },
+        "area": {
+          "value": 19,
+          "unit": "square miles"
+        },
+        "description": "Form a group or cluster of about 300 small islands in the Western Atlantic Ocean, less than one-eighth of Rutland, about 580 miles to the eastward of Cape Hatteras in North Carolina",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BERMUDA.md",
+          "source_lines": "1-319",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_020",
+        "name": "Hamilton",
+        "modern_name": null,
+        "type": "city",
+        "coordinates": null,
+        "area": null,
+        "description": "The seat of Government, situated about the centre of the main island, population 2,246",
+        "parent_location": "place_019",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BERMUDA.md",
+          "source_lines": "1-319",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_021",
+        "name": "St. George",
+        "modern_name": null,
+        "type": "town",
+        "coordinates": null,
+        "area": null,
+        "description": "Formerly the capital of the Colony, population 985",
+        "parent_location": "place_019",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BERMUDA.md",
+          "source_lines": "1-319",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_022",
+        "name": "British Central Africa Protectorate",
+        "modern_name": "Malawi",
+        "type": "protectorate",
+        "coordinates": null,
+        "area": {
+          "value": 7435,
+          "unit": "square miles"
+        },
+        "description": "Includes Nyasaland districts and North-Eastern Rhodesia",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRITISH_CENTRAL_AFRICA_PROTECTORATE.md",
+          "source_lines": "1-119",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_023",
+        "name": "Blantyre",
+        "modern_name": null,
+        "type": "town",
+        "coordinates": null,
+        "area": null,
+        "description": "The chief town, in the Shiré Highlands, population of about 100 Europeans and 6,000 natives",
+        "parent_location": "place_022",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRITISH_CENTRAL_AFRICA_PROTECTORATE.md",
+          "source_lines": "1-119",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_024",
+        "name": "Zomba",
+        "modern_name": null,
+        "type": "town",
+        "coordinates": null,
+        "area": null,
+        "description": "The headquarters of the Administration, which is electrically lighted",
+        "parent_location": "place_022",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRITISH_CENTRAL_AFRICA_PROTECTORATE.md",
+          "source_lines": "1-119",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_025",
+        "name": "British Guiana",
+        "modern_name": "Guyana",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "1° to 9° N",
+          "longitude": "57° to 61° W"
+        },
+        "area": {
+          "value": 95000,
+          "unit": "square miles"
+        },
+        "description": "A portion of the South American Continent, extending from east to west about 300 miles, and from north to south about 550 miles",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "1-115",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_026",
+        "name": "Georgetown",
+        "modern_name": null,
+        "type": "city",
+        "coordinates": null,
+        "area": null,
+        "description": "The capital, formerly Stabroek",
+        "parent_location": "place_025",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "1-115",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_027",
+        "name": "British Honduras",
+        "modern_name": "Belize",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "15° 54' to 18° 29' N",
+          "longitude": "87° 50' to 89° 10' W"
+        },
+        "area": {
+          "value": 7562,
+          "unit": "square miles"
+        },
+        "description": "A Colony on the east coast of Central America, about the size of Wales",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "1-266",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_028",
+        "name": "Belize",
+        "modern_name": null,
+        "type": "city",
+        "coordinates": null,
+        "area": null,
+        "description": "The capital at the mouth of the river of the same name, population 9,113, a port of registry",
+        "parent_location": "place_027",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "1-266",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_029",
+        "name": "Ceylon",
+        "modern_name": "Sri Lanka",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "5° 55' to 9° 51' N",
+          "longitude": "79° 41' to 81° 54' E"
+        },
+        "area": {
+          "value": 25331.5,
+          "unit": "square miles"
+        },
+        "description": "The ancient Taprobane, an island in the Indian Ocean, off the southern extremity of Hindustán, about equal to Holland and Belgium",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_030",
+        "name": "Colombo",
+        "modern_name": null,
+        "type": "city",
+        "coordinates": null,
+        "area": null,
+        "description": "Contains 158,093 inhabitants according to census",
+        "parent_location": "place_029",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_031",
+        "name": "Kandy",
+        "modern_name": null,
+        "type": "city",
+        "coordinates": null,
+        "area": null,
+        "description": "1,665 feet above sea level, population 26,522",
+        "parent_location": "place_029",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_032",
+        "name": "Cyprus",
+        "modern_name": null,
+        "type": "territory",
+        "coordinates": {
+          "latitude": "34° 33' to 35° 41' N",
+          "longitude": "32° 20' to 34° 35' E"
+        },
+        "area": {
+          "value": 3584,
+          "unit": "square miles"
+        },
+        "description": "An island in the easternmost basin of the Mediterranean Sea, equal to Kent, Sussex, and Middlesex combined, the third largest island in the Mediterranean",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CYPRUS.md",
+          "source_lines": "1-606",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_033",
+        "name": "Nicosia",
+        "modern_name": null,
+        "type": "city",
+        "coordinates": null,
+        "area": null,
+        "description": "The capital, population 14,752 in 1901",
+        "parent_location": "place_032",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CYPRUS.md",
+          "source_lines": "1-606",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_034",
+        "name": "Larnaca",
+        "modern_name": null,
+        "type": "town",
+        "coordinates": null,
+        "area": null,
+        "description": "On the southern coast, 258 miles from Port Said, population 7,964 in 1901",
+        "parent_location": "place_032",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CYPRUS.md",
+          "source_lines": "1-606",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_035",
+        "name": "Dominica",
+        "modern_name": null,
+        "type": "colony",
+        "coordinates": {
+          "latitude": "15° 10' to 15° 40' N",
+          "longitude": "61° 14' to 61° 30' W"
+        },
+        "area": {
+          "value": 291,
+          "unit": "square miles"
+        },
+        "description": "Situated between the French Islands of Guadeloupe and Martinique, 29 miles long and 16 broad",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/DOMINICA.md",
+          "source_lines": "1-232",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_036",
+        "name": "Roseau",
+        "modern_name": null,
+        "type": "town",
+        "coordinates": null,
+        "area": null,
+        "description": "The chief town, population 5,840 on 31st December, 1903, a port of registry",
+        "parent_location": "place_035",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/DOMINICA.md",
+          "source_lines": "1-232",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_037",
+        "name": "Portsmouth",
+        "modern_name": null,
+        "type": "town",
+        "coordinates": null,
+        "area": null,
+        "description": "To the north of the island, in Prince Rupert's Bay",
+        "parent_location": "place_035",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/DOMINICA.md",
+          "source_lines": "1-232",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_038",
+        "name": "Fiji",
+        "modern_name": null,
+        "type": "colony",
+        "coordinates": {
+          "latitude": "15° to 22° S",
+          "longitude": "175° E to 177° W"
+        },
+        "area": {
+          "value": 7435,
+          "unit": "square miles"
+        },
+        "description": "Comprises all islands, rocks, and reefs, about equal to Wales, distant from Sydney about 1,900 miles",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/FIJI.md",
+          "source_lines": "1-246",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_039",
+        "name": "Viti Levu",
+        "modern_name": null,
+        "type": "island",
+        "coordinates": null,
+        "area": {
+          "value": 4112,
+          "unit": "square miles"
+        },
+        "description": "The principal inhabited island",
+        "parent_location": "place_038",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/FIJI.md",
+          "source_lines": "1-246",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_040",
+        "name": "Suva",
+        "modern_name": null,
+        "type": "city",
+        "coordinates": null,
+        "area": null,
+        "description": "On the south coast of Viti Levu, seat of government since 1882, white population 1,073 at census of 1901",
+        "parent_location": "place_038",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/FIJI.md",
+          "source_lines": "1-246",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_041",
+        "name": "Jamaica",
+        "modern_name": null,
+        "type": "colony",
+        "coordinates": {
+          "latitude": "17° 43' to 18° 32' N",
+          "longitude": "76° 10' to 78° 20' W"
+        },
+        "area": {
+          "value": 4207,
+          "unit": "square miles"
+        },
+        "description": "The largest of the British West Indies, 144 miles in length and 50 in extreme breadth, about half the size of Wales",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+          "source_lines": "1-107",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_042",
+        "name": "Kingston",
+        "modern_name": null,
+        "type": "city",
+        "coordinates": null,
+        "area": null,
+        "description": "The capital, situated on the south coast, population 48,504 in 1891",
+        "parent_location": "place_041",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+          "source_lines": "1-107",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_043",
+        "name": "Blue Mountains",
+        "modern_name": null,
+        "type": "mountain",
+        "coordinates": null,
+        "area": null,
+        "description": "The highest peak being 7,423 ft. high",
+        "parent_location": "place_041",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+          "source_lines": "1-107",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_044",
+        "name": "Malta",
+        "modern_name": null,
+        "type": "colony",
+        "coordinates": null,
+        "area": {
+          "value": 91.557,
+          "unit": "square miles"
+        },
+        "description": "The Maltese Islands form a group in the Mediterranean Sea, about half the area of the Isle of Man, about 58 miles from Sicily",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/MALTA.md",
+          "source_lines": "1-471",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_045",
+        "name": "Valletta",
+        "modern_name": null,
+        "type": "city",
+        "coordinates": null,
+        "area": null,
+        "description": "The chief town and capital, with suburbs of Floriana, Sliema, and St. Julian's, population 40,406 in 1901",
+        "parent_location": "place_044",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/MALTA.md",
+          "source_lines": "1-471",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_046",
+        "name": "Gozo",
+        "modern_name": null,
+        "type": "island",
+        "coordinates": null,
+        "area": {
+          "value": 24.804,
+          "unit": "square miles"
+        },
+        "description": "Second island of the Maltese group",
+        "parent_location": "place_044",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/MALTA.md",
+          "source_lines": "1-471",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_001",
+        "name": "E. St. J. Branch",
+        "titles": [
+          "Hon."
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary and Attorney-General",
+            "department": "Government of Antigua",
+            "location": "Antigua",
+            "salary": null,
+            "allowances": [],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/E._ST._J._BRANCH.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_002",
+        "name": "E. A. Foster",
+        "titles": [
+          "Hon."
+        ],
+        "honors": [
+          "I.S.O."
+        ],
+        "positions": [
+          {
+            "title": "Auditor-General",
+            "department": "Government of Antigua",
+            "location": "Antigua",
+            "salary": null,
+            "allowances": [],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/E._A._FOSTER.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_003",
+        "name": "W. D. Auchinleck",
+        "titles": [
+          "Hon."
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Treasurer and Collector of Customs",
+            "department": "Government of Antigua",
+            "location": "Antigua",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "fees",
+                "amount": null,
+                "currency": "£",
+                "description": "fees as Registrar of Shipping"
+              }
+            ],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/W._D._AUCHINLECK.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_004",
+        "name": "Francis Watts",
+        "titles": [],
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Member of Executive Council",
+            "department": "Executive Council",
+            "location": "Antigua",
+            "salary": null,
+            "allowances": [],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/FRANCIS_WATTS.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_005",
+        "name": "W. M. Mackison",
+        "titles": [],
+        "honors": [
+          "C.E."
+        ],
+        "positions": [
+          {
+            "title": "Colonial Engineer and Surveyor of Public Works",
+            "department": "Public Works",
+            "location": "Antigua",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "horse",
+                "amount": 50,
+                "currency": "£",
+                "description": "horse allowance"
+              }
+            ],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/W._M._MACKISON.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_006",
+        "name": "William Grey-Wilson",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "department": "Government of Bahamas",
+            "location": "Bahamas",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/WILLIAM_GREY-WILSON.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_007",
+        "name": "J. K. G. T. Spencer-Churchill",
+        "titles": [],
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "department": "Colonial Secretary's Office",
+            "location": "Bahamas",
+            "salary": {
+              "amount": 700,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/J._K._G._T._SPENCER-CHURCHILL.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_008",
+        "name": "G. T. Carter",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "department": "Government of Barbados",
+            "location": "Barbados",
+            "salary": {
+              "amount": 2500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/G._T._CARTER.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_009",
+        "name": "S. W. Knaggs",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "department": "Colonial Secretary's Office",
+            "location": "Barbados",
+            "salary": {
+              "amount": 750,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/S._W._KNAGGS.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_010",
+        "name": "H. C. Sloley",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Resident Commissioner",
+            "department": "Government of Basutoland",
+            "location": "Basutoland",
+            "salary": {
+              "amount": 1200,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "personal",
+                "amount": 300,
+                "currency": "£",
+                "description": "personal allowance"
+              }
+            ],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/H._C._SLOLEY.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_011",
+        "name": "Ralph Williams",
+        "titles": [],
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Resident Commissioner",
+            "department": "Government of Bechuanaland Protectorate",
+            "location": "Bechuanaland Protectorate",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "travelling",
+                "amount": 200,
+                "currency": "£",
+                "description": "travelling allowance"
+              }
+            ],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/RALPH_WILLIAMS.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_012",
+        "name": "Robert McG. Stewart",
+        "titles": [
+          "Lieut.-General",
+          "Sir"
+        ],
+        "honors": [
+          "K.C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "department": "Government of Bermuda",
+            "location": "Bermuda",
+            "salary": {
+              "amount": 2946,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ROBERT_MCG._STEWART.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_013",
+        "name": "Eyre Hutson",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary and Registrar-General",
+            "department": "Colonial Secretary's Department",
+            "location": "Bermuda",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "fees",
+                "amount": null,
+                "currency": "£",
+                "description": "fees"
+              }
+            ],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/EYRE_HUTSON.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_014",
+        "name": "Alfred Sharpe",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G.",
+          "C.B."
+        ],
+        "positions": [
+          {
+            "title": "Commissioner, Commander-in-Chief, and Consul-General",
+            "department": "Government of British Central Africa Protectorate",
+            "location": "British Central Africa Protectorate",
+            "salary": {
+              "amount": 1500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ALFRED_SHARPE.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_015",
+        "name": "Ernest Bickham Sweet-Escott",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "department": "Government of British Honduras",
+            "location": "British Honduras",
+            "salary": {
+              "amount": 8748,
+              "currency": "$",
+              "period": "annual"
+            },
+            "allowances": [],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ERNEST_BICKHAM_SWEET-ESCOTT.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_016",
+        "name": "P. C. Cork",
+        "titles": [],
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "department": "Colonial Secretary's Department",
+            "location": "British Honduras",
+            "salary": {
+              "amount": 3500,
+              "currency": "$",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "quarters",
+                "amount": null,
+                "currency": "$",
+                "description": "house"
+              }
+            ],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/P._C._CORK.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_017",
+        "name": "Henry A. Blake",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "G.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "department": "Government of Ceylon",
+            "location": "Ceylon",
+            "salary": null,
+            "allowances": [],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/HENRY_A._BLAKE.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_018",
+        "name": "Charles A. King-Harman",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "High Commissioner and Commander-in-Chief",
+            "department": "Government of Cyprus",
+            "location": "Cyprus",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CHARLES_A._KING-HARMAN.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_019",
+        "name": "H. Hesketh Bell",
+        "titles": [],
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Administrator",
+            "department": "Government of Dominica",
+            "location": "Dominica",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "table",
+                "amount": 100,
+                "currency": "£",
+                "description": "table allowance"
+              }
+            ],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/H._HESKETH_BELL.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_020",
+        "name": "Everard F. im Thurn",
+        "titles": [],
+        "honors": [
+          "C.B.",
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief and High Commissioner for the Western Pacific",
+            "department": "Government of Fiji",
+            "location": "Fiji",
+            "salary": {
+              "amount": 2700,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/EVERARD_F._IM_THURN.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_021",
+        "name": "J. A. Swettenham",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Captain-General and Governor-in-Chief",
+            "department": "Government of Jamaica",
+            "location": "Jamaica",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/J._A._SWETTENHAM.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_022",
+        "name": "Charles Mansfield Clarke",
+        "titles": [
+          "Gen.",
+          "Sir",
+          "Bart."
+        ],
+        "honors": [
+          "G.C.B.",
+          "G.C.V.O."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "department": "Government of Malta",
+            "location": "Malta",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CHARLES_MANSFIELD_CLARKE.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_023",
+        "name": "E. M. Merewether",
+        "titles": [],
+        "honors": [
+          "C.V.O.",
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Lieut.-Governor and Chief Secretary to Government",
+            "department": "Chief Secretary's Office",
+            "location": "Malta",
+            "salary": {
+              "amount": 1300,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "entertaining",
+                "amount": 300,
+                "currency": "£",
+                "description": "entertaining allowance"
+              }
+            ],
+            "status": "permanent",
+            "year": "1905"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/E._M._MEREWETHER.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_001",
+        "name": "Executive Council of Antigua",
+        "type": "executive_council",
+        "location": "Antigua",
+        "composition": {
+          "description": "The Governor presides with Colonial Secretary, Attorney-General, Auditor-General, and other appointed members",
+          "member_count": 11,
+          "members": [
+            "person_001",
+            "person_002",
+            "person_003",
+            "person_004"
+          ]
+        },
+        "function": "Advises the Governor on executive matters",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-240",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_002",
+        "name": "Legislative Council of Antigua",
+        "type": "legislative_council",
+        "location": "Antigua",
+        "composition": {
+          "description": "Crown Colony system with 16 members: 8 official and 8 non-official, all nominated by the Governor under Royal Letters Patent",
+          "member_count": 16,
+          "members": []
+        },
+        "function": "Legislative body for the colony, established after abrogation of elected assembly on 22nd March 1898",
+        "established": "1898",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-240",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_003",
+        "name": "Colonial Bank",
+        "type": "bank",
+        "location": "Barbados",
+        "composition": {
+          "description": "Capital paid up £60,000 sterling, 13 branches throughout West Indies",
+          "member_count": null,
+          "members": []
+        },
+        "function": "Banking operations, note circulation of £50,000 (five dollar notes), estimated circulation in Barbados £30,000",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_004",
+        "name": "Government Savings Bank of Barbados",
+        "type": "bank",
+        "location": "Barbados",
+        "composition": {
+          "description": "13,936 depositors on 31st March 1904",
+          "member_count": null,
+          "members": []
+        },
+        "function": "Savings bank with deposits amounting to £113,462 on 31st March 1904",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_005",
+        "name": "Supreme Court of Barbados",
+        "type": "court",
+        "location": "Barbados",
+        "composition": {
+          "description": "Chief Justice and other judicial officers",
+          "member_count": null,
+          "members": []
+        },
+        "function": "Administration of justice",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_006",
+        "name": "Codrington College",
+        "type": "educational",
+        "location": "Barbados",
+        "composition": {
+          "description": "Founded by General Codrington who died in 1710, affiliated to Durham University in 1875",
+          "member_count": null,
+          "members": []
+        },
+        "function": "Higher education, under administration of S.P.G., with theological scholarships",
+        "established": "1710",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_007",
+        "name": "Harrison College",
+        "type": "educational",
+        "location": "Bridgetown, Barbados",
+        "composition": {
+          "description": "Staff of nine university men as Masters, Professor of Chemistry and Agricultural Science, Professor of German",
+          "member_count": 138,
+          "members": []
+        },
+        "function": "Good grammar school established on an old foundation, liberally supported by the Legislature",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRIDGETOWN,_BARBADOS.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_008",
+        "name": "Imperial Department of Agriculture for the West Indies",
+        "type": "department",
+        "location": "Barbados",
+        "composition": {
+          "description": "Commissioner, Technical Assistant, Entomologist, Mycologist, Chief Clerk, Assistant Clerk, Junior Clerk, Typist",
+          "member_count": null,
+          "members": []
+        },
+        "function": "Agricultural research and development for West Indies, paid from Imperial Funds",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_009",
+        "name": "Barbados Volunteers",
+        "type": "military_unit",
+        "location": "Barbados",
+        "composition": {
+          "description": "50 Artillery, 50 Infantry, and 50 Cyclists",
+          "member_count": 150,
+          "members": []
+        },
+        "function": "Volunteer Force for defense",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_010",
+        "name": "Standard Bank",
+        "type": "bank",
+        "location": "Maseru, Basutoland",
+        "composition": {
+          "description": "Branch opened in Maseru",
+          "member_count": null,
+          "members": []
+        },
+        "function": "Banking services",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/MASERU,_BASUTOLAND.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_011",
+        "name": "Bechuanaland Protectorate Police",
+        "type": "police_force",
+        "location": "Bechuanaland Protectorate",
+        "composition": {
+          "description": "12 officers, 32 European non-commissioned officers and men, and 136 Basuto non-commissioned officers and men",
+          "member_count": 180,
+          "members": []
+        },
+        "function": "Maintenance of law and order, under direct control of the Resident Commissioner, headquarters at Mafeking",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BECHUANALAND_PROTECTORATE.md",
+          "source_lines": "1-158",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_012",
+        "name": "British South Africa Company",
+        "type": "bank",
+        "location": "Rhodesia",
+        "composition": {
+          "description": "Board of Directors including Duke of Abercorn (President), Alfred Beit (Vice-President)",
+          "member_count": null,
+          "members": []
+        },
+        "function": "Administration of Rhodesia under Royal Charter granted 29th October 1889",
+        "established": "1889",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/RHODESIA.md",
+          "source_lines": "metadata",
+          "source_section": "General Information",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_013",
+        "name": "Legislative Council of British Guiana",
+        "type": "legislative_council",
+        "location": "British Guiana",
+        "composition": {
+          "description": "The Governor, five ex officio members, and such other persons not exceeding ten appointed by the King or Governor, and fourteen elected persons",
+          "member_count": 29,
+          "members": []
+        },
+        "function": "Legislative authority for the colony, dissolved at end of five years",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "1-115",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_014",
+        "name": "University of Ceylon",
+        "type": "educational",
+        "location": "Ceylon",
+        "composition": {
+          "description": "Full staff of professors, lectures recognised by General Medical Council and examining bodies in Great Britain",
+          "member_count": null,
+          "members": []
+        },
+        "function": "Higher education including Medical College with Senior and Junior departments",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_015",
+        "name": "Ceylon Civil Medical Department",
+        "type": "medical",
+        "location": "Ceylon",
+        "composition": {
+          "description": "Principal Civil Medical Officer, Assistant Principal, 75 officers with British qualifications, 44 with licences from Ceylon Medical College, 249 apothecaries, vaccinators",
+          "member_count": null,
+          "members": []
+        },
+        "function": "Maintains 64 hospitals, 22 infectious hospitals, 20 jail hospitals, two asylums, and 341 dispensaries",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_016",
+        "name": "Legislative Council of Cyprus",
+        "type": "legislative_council",
+        "location": "Cyprus",
+        "composition": {
+          "description": "High Commissioner presiding, six non-elective office-holders, and twelve elected members (three Mahometan and nine non-Mahometan)",
+          "member_count": 18,
+          "members": []
+        },
+        "function": "Legislature for Cyprus, established by Order in Council dated 30th November 1882, dissolved at end of five years",
+        "established": "1882",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CYPRUS.md",
+          "source_lines": "1-606",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_017",
+        "name": "Cyprus Police Force",
+        "type": "police_force",
+        "location": "Cyprus",
+        "composition": {
+          "description": "About 770 men when at full strength, mostly Moslems",
+          "member_count": 770,
+          "members": []
+        },
+        "function": "Law enforcement and maintaining order",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CYPRUS.md",
+          "source_lines": "1-606",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_018",
+        "name": "Bank of New Zealand",
+        "type": "bank",
+        "location": "Fiji",
+        "composition": {
+          "description": "Two branches - at Suva and Levuka",
+          "member_count": null,
+          "members": []
+        },
+        "function": "Banking services",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/FIJI.md",
+          "source_lines": "1-246",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_019",
+        "name": "Bank of New South Wales",
+        "type": "bank",
+        "location": "Fiji",
+        "composition": {
+          "description": "One branch at Suva",
+          "member_count": null,
+          "members": []
+        },
+        "function": "Banking services",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/FIJI.md",
+          "source_lines": "1-246",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_020",
+        "name": "Jamaica Constabulary",
+        "type": "police_force",
+        "location": "Jamaica",
+        "composition": {
+          "description": "16 officers (inspectors and sub-inspectors) under Inspector-General, 758 sub-officers and men, 812 district constables",
+          "member_count": 1586,
+          "members": []
+        },
+        "function": "Placed on present footing in 1867, modelled on Royal Irish Constabulary system under military organisation and discipline",
+        "established": "1867",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+          "source_lines": "1-107",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_021",
+        "name": "Malta University",
+        "type": "educational",
+        "location": "Malta",
+        "composition": {
+          "description": "105 students, professors in Theology, Civil Law, Criminal and Commercial Law, International and Constitutional Law, Medicine, Surgery, Natural History, etc.",
+          "member_count": 105,
+          "members": []
+        },
+        "function": "Higher education, founded in 1769, fees extremely low at 10s per family per quarter",
+        "established": "1769",
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/MALTA.md",
+          "source_lines": "1-471",
+          "source_section": "General Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_001",
+        "type": "revenue",
+        "location": "Antigua",
+        "year": "1903-04",
+        "data": {
+          "category": "Total Revenue",
+          "value": 43812,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-240",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_002",
+        "type": "expenditure",
+        "location": "Antigua",
+        "year": "1903-04",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 50209,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-240",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_003",
+        "type": "trade_import",
+        "location": "Antigua",
+        "year": "1903",
+        "data": {
+          "category": "Total Imports",
+          "value": 131365,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-240",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_004",
+        "type": "trade_export",
+        "location": "Antigua",
+        "year": "1903",
+        "data": {
+          "category": "Total Exports",
+          "value": 101147,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-240",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_005",
+        "type": "revenue",
+        "location": "Antigua",
+        "year": "1903-04",
+        "data": {
+          "category": "Customs Revenue",
+          "value": 22188,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-240",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_006",
+        "type": "revenue",
+        "location": "Bahamas",
+        "year": "1903",
+        "data": {
+          "category": "Total Revenue",
+          "value": 71377,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BAHAMAS.md",
+          "source_lines": "1-11",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_007",
+        "type": "expenditure",
+        "location": "Bahamas",
+        "year": "1903",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 74039,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BAHAMAS.md",
+          "source_lines": "1-11",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_008",
+        "type": "shipping",
+        "location": "Bahamas",
+        "year": "1903",
+        "data": {
+          "category": "British Tonnage",
+          "value": 322315,
+          "currency": null,
+          "unit": "tons"
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BAHAMAS.md",
+          "source_lines": "1-11",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_009",
+        "type": "shipping",
+        "location": "Bahamas",
+        "year": "1903",
+        "data": {
+          "category": "Total Tonnage",
+          "value": 1123887,
+          "currency": null,
+          "unit": "tons"
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BAHAMAS.md",
+          "source_lines": "1-11",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_010",
+        "type": "trade_export",
+        "location": "Bahamas",
+        "year": "1903",
+        "data": {
+          "category": "Sponge",
+          "value": 104394,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": "Principal export",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BAHAMAS.md",
+          "source_lines": "1-11",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_011",
+        "type": "trade_export",
+        "location": "Bahamas",
+        "year": "1903",
+        "data": {
+          "category": "Sisal fibre",
+          "value": 88806,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": "3,222,759 lbs exported",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BAHAMAS.md",
+          "source_lines": "1-11",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_012",
+        "type": "revenue",
+        "location": "Barbados",
+        "year": "1903-04",
+        "data": {
+          "category": "Total Revenue",
+          "value": 181153,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_013",
+        "type": "expenditure",
+        "location": "Barbados",
+        "year": "1903-04",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 182310,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_014",
+        "type": "revenue",
+        "location": "Barbados",
+        "year": "1903-04",
+        "data": {
+          "category": "Customs Revenue",
+          "value": 107610,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_015",
+        "type": "production",
+        "location": "Barbados",
+        "year": "1903",
+        "data": {
+          "category": "Sugar",
+          "value": 38023,
+          "currency": null,
+          "unit": "hogsheads"
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_016",
+        "type": "production",
+        "location": "Barbados",
+        "year": "1903",
+        "data": {
+          "category": "Molasses",
+          "value": 30344,
+          "currency": null,
+          "unit": "puncheons"
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_017",
+        "type": "revenue",
+        "location": "Basutoland",
+        "year": "1903-04",
+        "data": {
+          "category": "Total Revenue",
+          "value": 106795,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BASUTOLAND.md",
+          "source_lines": "1-92",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_018",
+        "type": "expenditure",
+        "location": "Basutoland",
+        "year": "1903-04",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 72394,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BASUTOLAND.md",
+          "source_lines": "1-92",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_019",
+        "type": "trade_import",
+        "location": "Basutoland",
+        "year": "1903-04",
+        "data": {
+          "category": "Imports",
+          "value": 298140,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": "Chiefly blankets, ploughs, saddlery, clothing, iron and tin ware, and groceries",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BASUTOLAND.md",
+          "source_lines": "1-92",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_020",
+        "type": "trade_export",
+        "location": "Basutoland",
+        "year": "1903-04",
+        "data": {
+          "category": "Exports",
+          "value": 127057,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": "Chiefly grain, cattle, wool, and horses",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BASUTOLAND.md",
+          "source_lines": "1-92",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_021",
+        "type": "revenue",
+        "location": "British Honduras",
+        "year": "1903",
+        "data": {
+          "category": "Total Revenue",
+          "value": 301194,
+          "currency": "$",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "1-266",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_022",
+        "type": "expenditure",
+        "location": "British Honduras",
+        "year": "1903",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 266039,
+          "currency": "$",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "1-266",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_023",
+        "type": "trade_export",
+        "location": "British Honduras",
+        "year": "1903",
+        "data": {
+          "category": "Mahogany",
+          "value": 9358776,
+          "currency": null,
+          "unit": "feet"
+        },
+        "notes": "Chief industry wood-cutting",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "1-266",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_024",
+        "type": "trade_export",
+        "location": "British Honduras",
+        "year": "1903",
+        "data": {
+          "category": "Cedar",
+          "value": 706633,
+          "currency": null,
+          "unit": "feet"
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "1-266",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_025",
+        "type": "trade_export",
+        "location": "British Honduras",
+        "year": "1903",
+        "data": {
+          "category": "Logwood",
+          "value": 14205,
+          "currency": null,
+          "unit": "tons"
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "1-266",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_026",
+        "type": "revenue",
+        "location": "Ceylon",
+        "year": "1903",
+        "data": {
+          "category": "Total Revenue",
+          "value": 29423308,
+          "currency": "Rs.",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_027",
+        "type": "expenditure",
+        "location": "Ceylon",
+        "year": "1903",
+        "data": {
+          "category": "Total Expenditure on Votes",
+          "value": 26714828,
+          "currency": "Rs.",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_028",
+        "type": "trade_export",
+        "location": "Ceylon",
+        "year": "1903",
+        "data": {
+          "category": "Tea",
+          "value": 149227236,
+          "currency": null,
+          "unit": "lbs"
+        },
+        "notes": "Value Rs. 58,198,622",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_029",
+        "type": "trade_export",
+        "location": "Ceylon",
+        "year": "1903",
+        "data": {
+          "category": "Coffee",
+          "value": 508410,
+          "currency": "Rs.",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_030",
+        "type": "production",
+        "location": "Ceylon",
+        "year": "1903",
+        "data": {
+          "category": "Plumbago",
+          "value": 379415,
+          "currency": null,
+          "unit": "cwt"
+        },
+        "notes": "From 1,692 mines and pits, value roughly Rs. 3,670,000",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_031",
+        "type": "revenue",
+        "location": "Cyprus",
+        "year": "1903-04",
+        "data": {
+          "category": "Grant from Parliament",
+          "value": 55000,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": "Plus advance of 28,000£ for seed corn and 4,000£ for Public Works",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CYPRUS.md",
+          "source_lines": "1-606",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_032",
+        "type": "revenue",
+        "location": "Cyprus",
+        "year": "1903-04",
+        "data": {
+          "category": "Customs revenue",
+          "value": 32468,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CYPRUS.md",
+          "source_lines": "1-606",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_033",
+        "type": "trade_export",
+        "location": "Cyprus",
+        "year": "1903",
+        "data": {
+          "category": "Carobs",
+          "value": 80351,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": "21,769 tons",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CYPRUS.md",
+          "source_lines": "1-606",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_034",
+        "type": "trade_export",
+        "location": "Cyprus",
+        "year": "1903",
+        "data": {
+          "category": "Barley",
+          "value": 102073,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": "1,437,072 bushels",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CYPRUS.md",
+          "source_lines": "1-606",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_035",
+        "type": "revenue",
+        "location": "Dominica",
+        "year": "1903-04",
+        "data": {
+          "category": "Total Revenue",
+          "value": 32863,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/DOMINICA.md",
+          "source_lines": "1-232",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_036",
+        "type": "expenditure",
+        "location": "Dominica",
+        "year": "1903-04",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 33044,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/DOMINICA.md",
+          "source_lines": "1-232",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_037",
+        "type": "revenue",
+        "location": "Dominica",
+        "year": "1903",
+        "data": {
+          "category": "Customs Revenue",
+          "value": 15576,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/DOMINICA.md",
+          "source_lines": "1-232",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_038",
+        "type": "trade_export",
+        "location": "Dominica",
+        "year": "1903",
+        "data": {
+          "category": "Limes and lime juice",
+          "value": 21927,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/DOMINICA.md",
+          "source_lines": "1-232",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_039",
+        "type": "revenue",
+        "location": "Fiji",
+        "year": "1903",
+        "data": {
+          "category": "Total Revenue",
+          "value": 138167,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/FIJI.md",
+          "source_lines": "1-246",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_040",
+        "type": "expenditure",
+        "location": "Fiji",
+        "year": "1903",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 124948,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/FIJI.md",
+          "source_lines": "1-246",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_041",
+        "type": "revenue",
+        "location": "Fiji",
+        "year": "1903",
+        "data": {
+          "category": "Customs dues",
+          "value": 84136,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/FIJI.md",
+          "source_lines": "1-246",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_042",
+        "type": "trade_export",
+        "location": "Fiji",
+        "year": "1903",
+        "data": {
+          "category": "Sugar",
+          "value": 406318,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": "46,438 tons exported",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/FIJI.md",
+          "source_lines": "1-246",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_043",
+        "type": "trade_export",
+        "location": "Fiji",
+        "year": "1903",
+        "data": {
+          "category": "Fruit (bananas and pineapples)",
+          "value": 8526,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": "32,162 tons exported",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/FIJI.md",
+          "source_lines": "1-246",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_044",
+        "type": "revenue",
+        "location": "Jamaica",
+        "year": "1903-04",
+        "data": {
+          "category": "Customs Revenue",
+          "value": 398933,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+          "source_lines": "1-107",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_045",
+        "type": "trade_export",
+        "location": "Jamaica",
+        "year": "1903-04",
+        "data": {
+          "category": "Oranges",
+          "value": 72301,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": "82,630,540 oranges exported",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+          "source_lines": "1-107",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_046",
+        "type": "trade_export",
+        "location": "Jamaica",
+        "year": "1903-04",
+        "data": {
+          "category": "Bananas",
+          "value": 585243,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": "7,803,243 bunches exported",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+          "source_lines": "1-107",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_047",
+        "type": "trade_export",
+        "location": "Jamaica",
+        "year": "1903-04",
+        "data": {
+          "category": "Sugar",
+          "value": 121722,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": "270,493 cwt exported",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+          "source_lines": "1-107",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_048",
+        "type": "revenue",
+        "location": "Malta",
+        "year": "1903-04",
+        "data": {
+          "category": "Total Revenue",
+          "value": 464591,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/MALTA.md",
+          "source_lines": "1-471",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_049",
+        "type": "expenditure",
+        "location": "Malta",
+        "year": "1903-04",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 410887,
+          "currency": "£",
+          "unit": null
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/MALTA.md",
+          "source_lines": "1-471",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_050",
+        "type": "shipping",
+        "location": "Malta",
+        "year": "1903-04",
+        "data": {
+          "category": "British Tonnage",
+          "value": 4937141,
+          "currency": null,
+          "unit": "tons"
+        },
+        "notes": null,
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/MALTA.md",
+          "source_lines": "1-471",
+          "source_section": "Economic Information",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_001",
+        "type": "railway",
+        "name": "Barbados Railway",
+        "location": "Barbados",
+        "specifications": {
+          "length": {
+            "value": 28,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 39011,
+            "currency": "£"
+          },
+          "annual_revenue": {
+            "value": 4900,
+            "currency": "£",
+            "year": "1903",
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+              "source_lines": "metadata",
+              "source_section": "Infrastructure",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          "annual_expenses": null
+        },
+        "connections": [
+          "place_012"
+        ],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_002",
+        "type": "telegraph",
+        "name": "Barbados Telephone System",
+        "location": "Barbados",
+        "specifications": {
+          "length": {
+            "value": 660,
+            "unit": "miles"
+          },
+          "stations": 520,
+          "cost": null,
+          "revenue": null,
+          "expenses": null
+        },
+        "connections": [],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_003",
+        "type": "railway",
+        "name": "Rhodesia Railways",
+        "location": "Bechuanaland Protectorate",
+        "specifications": {
+          "length": null,
+          "stations": null,
+          "cost": null,
+          "revenue": null,
+          "expenses": null
+        },
+        "connections": [],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BECHUANALAND_PROTECTORATE.md",
+          "source_lines": "1-158",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_004",
+        "type": "harbor",
+        "name": "Colombo Harbour",
+        "location": "Ceylon",
+        "specifications": {
+          "length": null,
+          "stations": null,
+          "construction_cost": {
+            "value": 31042771,
+            "currency": "Rs."
+          },
+          "revenue": null,
+          "expenses": null
+        },
+        "connections": [],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_005",
+        "type": "water_works",
+        "name": "Colombo Water Supply",
+        "location": "Ceylon",
+        "specifications": {
+          "length": {
+            "value": 25,
+            "unit": "miles"
+          },
+          "stations": null,
+          "construction_cost": {
+            "value": 4330000,
+            "currency": "Rs."
+          },
+          "revenue": null,
+          "expenses": null
+        },
+        "connections": [],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_006",
+        "type": "railway",
+        "name": "Ceylon Railways",
+        "location": "Ceylon",
+        "specifications": {
+          "length": {
+            "value": 391.5,
+            "unit": "miles"
+          },
+          "stations": null,
+          "construction_cost": {
+            "value": 66847026,
+            "currency": "Rs."
+          },
+          "annual_revenue": {
+            "value": 8338614,
+            "currency": "Rs.",
+            "year": "1902",
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+              "source_lines": "metadata",
+              "source_section": "Infrastructure",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          "annual_expenses": {
+            "value": 4603440,
+            "currency": "Rs.",
+            "year": "1902",
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+              "source_lines": "metadata",
+              "source_section": "Infrastructure",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          }
+        },
+        "connections": [],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_007",
+        "type": "telegraph",
+        "name": "Ceylon Telegraph System",
+        "location": "Ceylon",
+        "specifications": {
+          "length": {
+            "value": 2721,
+            "unit": "miles of wire"
+          },
+          "stations": null,
+          "cost": null,
+          "revenue": null,
+          "expenses": null
+        },
+        "connections": [],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_008",
+        "type": "road",
+        "name": "Ceylon Roads",
+        "location": "Ceylon",
+        "specifications": {
+          "length": {
+            "value": 3588.93,
+            "unit": "miles"
+          },
+          "stations": null,
+          "cost": null,
+          "revenue": null,
+          "annual_expenses": {
+            "value": 1753731,
+            "currency": "Rs.",
+            "year": "1904",
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+              "source_lines": "metadata",
+              "source_section": "Infrastructure",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          }
+        },
+        "connections": [],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_009",
+        "type": "railway",
+        "name": "Famagusta-Nicosia Railway",
+        "location": "Cyprus",
+        "specifications": {
+          "length": null,
+          "stations": null,
+          "cost": null,
+          "revenue": null,
+          "expenses": null
+        },
+        "connections": [
+          "place_033"
+        ],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CYPRUS.md",
+          "source_lines": "1-606",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_010",
+        "type": "harbor",
+        "name": "Famagusta Harbour",
+        "location": "Cyprus",
+        "specifications": {
+          "length": null,
+          "stations": null,
+          "cost": null,
+          "revenue": null,
+          "expenses": null
+        },
+        "connections": [],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CYPRUS.md",
+          "source_lines": "1-606",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_011",
+        "type": "telegraph",
+        "name": "Fiji Telegraph Line",
+        "location": "Fiji",
+        "specifications": {
+          "length": {
+            "value": 43,
+            "unit": "miles"
+          },
+          "stations": null,
+          "cost": null,
+          "revenue": null,
+          "expenses": null
+        },
+        "connections": [
+          "place_040"
+        ],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/FIJI.md",
+          "source_lines": "1-246",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_012",
+        "type": "telephone",
+        "name": "Fiji-Lautoka Telephone",
+        "location": "Fiji",
+        "specifications": {
+          "length": {
+            "value": 125,
+            "unit": "miles"
+          },
+          "stations": null,
+          "cost": null,
+          "revenue": null,
+          "expenses": null
+        },
+        "connections": [],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/FIJI.md",
+          "source_lines": "1-246",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_013",
+        "type": "railway",
+        "name": "Jamaica Railway",
+        "location": "Jamaica",
+        "specifications": {
+          "length": {
+            "value": 184.56,
+            "unit": "miles"
+          },
+          "stations": null,
+          "cost": null,
+          "revenue": null,
+          "expenses": null
+        },
+        "connections": [
+          "place_042"
+        ],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+          "source_lines": "1-107",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_014",
+        "type": "telegraph",
+        "name": "Jamaica Inland Telegraph",
+        "location": "Jamaica",
+        "specifications": {
+          "length": {
+            "value": 923,
+            "unit": "miles"
+          },
+          "stations": 73,
+          "construction_cost": {
+            "value": 20324,
+            "currency": "£"
+          },
+          "annual_revenue": {
+            "value": 5194.625,
+            "currency": "£",
+            "year": "1903-04",
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+              "source_lines": "metadata",
+              "source_section": "Infrastructure",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          "expenses": null
+        },
+        "connections": [],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+          "source_lines": "1-107",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_015",
+        "type": "railway",
+        "name": "Malta Railway",
+        "location": "Malta",
+        "specifications": {
+          "length": {
+            "value": 8,
+            "unit": "miles"
+          },
+          "stations": null,
+          "construction_cost": {
+            "value": 90000,
+            "currency": "£"
+          },
+          "revenue": null,
+          "expenses": null
+        },
+        "connections": [],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/MALTA.md",
+          "source_lines": "1-471",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_016",
+        "type": "telegraph",
+        "name": "Malta Telegraph",
+        "location": "Malta",
+        "specifications": {
+          "length": {
+            "value": 65,
+            "unit": "miles"
+          },
+          "stations": null,
+          "cost": null,
+          "revenue": null,
+          "expenses": null
+        },
+        "connections": [],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/MALTA.md",
+          "source_lines": "1-471",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_017",
+        "type": "telephone",
+        "name": "Valletta Telephone System",
+        "location": "Malta",
+        "specifications": {
+          "length": {
+            "value": 611,
+            "unit": "miles"
+          },
+          "stations": null,
+          "cost": null,
+          "revenue": null,
+          "expenses": null
+        },
+        "connections": [],
+        "year": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/MALTA.md",
+          "source_lines": "1-471",
+          "source_section": "Infrastructure",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_001",
+        "location": "Antigua",
+        "year": "1901",
+        "census_date": null,
+        "total_population": 34178,
+        "breakdowns": [
+          {
+            "category": "Black",
+            "count": 28584,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Coloured",
+            "count": 5706,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-240",
+          "source_section": "Population",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_002",
+        "location": "Barbuda",
+        "year": "1905",
+        "census_date": null,
+        "total_population": 775,
+        "breakdowns": [],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBUDA.md",
+          "source_lines": "metadata",
+          "source_section": "Population",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_003",
+        "location": "Redonda",
+        "year": "1905",
+        "census_date": null,
+        "total_population": 120,
+        "breakdowns": [],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/REDONDA.md",
+          "source_lines": "metadata",
+          "source_section": "Population",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_004",
+        "location": "Bahamas",
+        "year": "1901",
+        "census_date": null,
+        "total_population": 53735,
+        "breakdowns": [],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BAHAMAS.md",
+          "source_lines": "1-11",
+          "source_section": "Population",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_005",
+        "location": "New Providence",
+        "year": "1901",
+        "census_date": null,
+        "total_population": 12534,
+        "breakdowns": [],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/NEW_PROVIDENCE.md",
+          "source_lines": "metadata",
+          "source_section": "Population",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_006",
+        "location": "Barbados",
+        "year": "1903",
+        "census_date": "31st December 1903",
+        "total_population": 198792,
+        "breakdowns": [],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BARBADOS.md",
+          "source_lines": "1-607",
+          "source_section": "Population",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_007",
+        "location": "Basutoland",
+        "year": "1904",
+        "census_date": "17 April 1904",
+        "total_population": 348706,
+        "breakdowns": [
+          {
+            "category": "Natives",
+            "count": 347731,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/BASUTOLAND.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Whites",
+            "count": 975,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/BASUTOLAND.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BASUTOLAND.md",
+          "source_lines": "1-92",
+          "source_section": "Population",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_008",
+        "location": "Bechuanaland Protectorate",
+        "year": "1905",
+        "census_date": null,
+        "total_population": 121000,
+        "breakdowns": [
+          {
+            "category": "Native population",
+            "count": 120000,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/BECHUANALAND_PROTECTORATE.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "European population",
+            "count": 1000,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/BECHUANALAND_PROTECTORATE.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BECHUANALAND_PROTECTORATE.md",
+          "source_lines": "1-158",
+          "source_section": "Population",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_009",
+        "location": "Bermuda",
+        "year": "1901",
+        "census_date": null,
+        "total_population": 17536,
+        "breakdowns": [
+          {
+            "category": "White",
+            "count": null,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/BERMUDA.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Coloured",
+            "count": 6383,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/BERMUDA.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BERMUDA.md",
+          "source_lines": "1-319",
+          "source_section": "Population",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_010",
+        "location": "British Central Africa Protectorate",
+        "year": "1905",
+        "census_date": null,
+        "total_population": 1090463,
+        "breakdowns": [
+          {
+            "category": "Europeans",
+            "count": 463,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/BRITISH_CENTRAL_AFRICA_PROTECTORATE.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Natives",
+            "count": 1090000,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/BRITISH_CENTRAL_AFRICA_PROTECTORATE.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRITISH_CENTRAL_AFRICA_PROTECTORATE.md",
+          "source_lines": "1-119",
+          "source_section": "Population",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_011",
+        "location": "British Honduras",
+        "year": "1903",
+        "census_date": "31st March 1903",
+        "total_population": 38981,
+        "breakdowns": [
+          {
+            "category": "European descent",
+            "count": 500,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/BRITISH_HONDURAS.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "1-266",
+          "source_section": "Population",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_012",
+        "location": "Ceylon",
+        "year": "1901",
+        "census_date": "1st March 1901",
+        "total_population": 3576990,
+        "breakdowns": [
+          {
+            "category": "Europeans",
+            "count": 9000,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Burghers and Eurasians",
+            "count": 23000,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Moormen",
+            "count": 225000,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Malays",
+            "count": 11000,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Sinhalese",
+            "count": 2334000,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Tamils",
+            "count": 955000,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Buddhists",
+            "count": 1788495,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Hindus",
+            "count": 750000,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Mohammedans",
+            "count": 260000,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Christians",
+            "count": 360000,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CEYLON.md",
+          "source_lines": "1-185",
+          "source_section": "Population",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_013",
+        "location": "Cyprus",
+        "year": "1901",
+        "census_date": null,
+        "total_population": 237022,
+        "breakdowns": [
+          {
+            "category": "Moslems",
+            "count": 50960,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/CYPRUS.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Christians of the Orthodox Greek Church",
+            "count": 186062,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/CYPRUS.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/CYPRUS.md",
+          "source_lines": "1-606",
+          "source_section": "Population",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_014",
+        "location": "Dominica",
+        "year": "1903",
+        "census_date": null,
+        "total_population": 30289,
+        "breakdowns": [],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/DOMINICA.md",
+          "source_lines": "1-232",
+          "source_section": "Population",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_015",
+        "location": "Fiji",
+        "year": "1903",
+        "census_date": "31st December 1903",
+        "total_population": null,
+        "breakdowns": [
+          {
+            "category": "Indian immigrant population",
+            "count": 21500,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/FIJI.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Wesleyan adherents",
+            "count": 88165,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/FIJI.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Roman Catholic adherents",
+            "count": 9930,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/FIJI.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/FIJI.md",
+          "source_lines": "1-246",
+          "source_section": "Population",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_016",
+        "location": "Jamaica",
+        "year": "1901",
+        "census_date": null,
+        "total_population": 756730,
+        "breakdowns": [
+          {
+            "category": "White",
+            "count": 14692,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Coloured",
+            "count": 121955,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Black",
+            "count": 488624,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "East Indian",
+            "count": 14220,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/JAMAICA.md",
+          "source_lines": "1-107",
+          "source_section": "Population",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_017",
+        "location": "Malta",
+        "year": "1901",
+        "census_date": null,
+        "total_population": 188141,
+        "breakdowns": [
+          {
+            "category": "Males",
+            "count": 91994,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/MALTA.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          },
+          {
+            "category": "Females",
+            "count": 92748,
+            "subcategories": {},
+            "provenance": {
+              "source_file": "output_2/1905_manual_parsed/MALTA.md",
+              "source_lines": "metadata",
+              "source_section": "Population",
+              "extraction_confidence": 0.75,
+              "extraction_date": "2025-11-17",
+              "extraction_agent": "provenance_linker_1894_1907",
+              "verification_status": "automated"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/MALTA.md",
+          "source_lines": "1-471",
+          "source_section": "Population",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_001",
+        "date": "1493",
+        "type": "establishment",
+        "description": "Antigua discovered by Columbus in 1493, who named it after a church in Seville, called Santa Maria La Antigua",
+        "locations": [
+          "place_001"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_002",
+        "date": "1632",
+        "type": "establishment",
+        "description": "First inhabited by a few English from St. Kitts in 1632",
+        "locations": [
+          "place_001"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_003",
+        "date": "1663",
+        "type": "establishment",
+        "description": "Charles II made a formal grant of the island to Lord Willoughby, who sent out a large number of colonists",
+        "locations": [
+          "place_001"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_004",
+        "date": "1666",
+        "type": "treaty",
+        "description": "Declared a British possession by the Treaty of Breda, 1666",
+        "locations": [
+          "place_001"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_005",
+        "date": "22nd March, 1898",
+        "type": "constitutional_change",
+        "description": "Legislative Council passed an Act abrogating itself and substituting the Crown Colony system",
+        "locations": [
+          "place_001"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_006",
+        "date": "1492",
+        "type": "establishment",
+        "description": "St. Salvador, one of the islands composing the Bahamas chain, was the first land discovered by Columbus on his voyage in 1492",
+        "locations": [
+          "place_008"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_007",
+        "date": "1646",
+        "type": "establishment",
+        "description": "Settlers from the Bermudas found their way in considerable numbers to Eleuthera",
+        "locations": [
+          "place_008"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_008",
+        "date": "1670",
+        "type": "establishment",
+        "description": "Granted by Charles II to a proprietary body",
+        "locations": [
+          "place_008"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_009",
+        "date": "1783",
+        "type": "treaty",
+        "description": "Confirmed in British possession at the Peace of Versailles",
+        "locations": [
+          "place_008"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_010",
+        "date": "1834",
+        "type": "constitutional_change",
+        "description": "Abolition of slavery, four years before the tax of 4½ per cent. duties was abolished by an Act of Parliament in 1838",
+        "locations": [
+          "place_011"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_011",
+        "date": "September, 1898",
+        "type": "disaster",
+        "description": "The island suffered severely from the effects of a disastrous hurricane",
+        "locations": [
+          "place_011"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_012",
+        "date": "1868",
+        "type": "establishment",
+        "description": "Mosesh and his tribe appealed to be taken under the authority of the Queen, and Sir Philip Wodehouse received authority to recognise them as British subjects",
+        "locations": [
+          "place_015"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_013",
+        "date": "1871",
+        "type": "establishment",
+        "description": "Annexed to the Cape by Act of the Cape Legislature, No. 12 of 1871",
+        "locations": [
+          "place_015"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_014",
+        "date": "13th March, 1884",
+        "type": "establishment",
+        "description": "Her Majesty's Government took steps for carrying on the government under the immediate authority of the Crown",
+        "locations": [
+          "place_015"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_015",
+        "date": "1885",
+        "type": "establishment",
+        "description": "British Protectorate proclaimed over Bechuanaland by Sir Charles Warren",
+        "locations": [
+          "place_017"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_016",
+        "date": "29th December, 1895",
+        "type": "rebellion",
+        "description": "Dr. Jameson's raid into the Transvaal, crossed the border with police, defeated by the Boers at Doornkop, surrendered on 2nd January 1896",
+        "locations": [
+          "place_017"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_017",
+        "date": "1609",
+        "type": "establishment",
+        "description": "Admiral Sir George Somers' ship, The Sea Venture, wrecked upon one of the reefs while conveying colonists to Virginia",
+        "locations": [
+          "place_019"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_018",
+        "date": "1692",
+        "type": "disaster",
+        "description": "Great earthquake engulfed Port Royal",
+        "locations": [
+          "place_041"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_019",
+        "date": "1807",
+        "type": "constitutional_change",
+        "description": "Slave Trade abolished, there were 323,827 slaves in Jamaica",
+        "locations": [
+          "place_041"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_020",
+        "date": "1833",
+        "type": "constitutional_change",
+        "description": "Abolition of slavery, Jamaica received 6,161,927£ of the 20,000,000£ granted by the Imperial Government as compensation to slave-owners",
+        "locations": [
+          "place_041"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_021",
+        "date": "1865",
+        "type": "rebellion",
+        "description": "Serious rebellion among the black population suppressed by Governor Eyre with unnecessary violence",
+        "locations": [
+          "place_041"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_022",
+        "date": "12th July, 1798",
+        "type": "transfer",
+        "description": "Grand Master Hompesch capitulated to Napoleon Bonaparte, who dispersed the Order of Knights of St. John",
+        "locations": [
+          "place_044"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_023",
+        "date": "1800",
+        "type": "establishment",
+        "description": "The government was placed in the hands of Great Britain after French surrender",
+        "locations": [
+          "place_044"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_024",
+        "date": "1814",
+        "type": "treaty",
+        "description": "Finally annexed to the British Crown by the Treaty of Paris",
+        "locations": [
+          "place_044"
+        ],
+        "people": [],
+        "year_mentioned": "1905",
+        "provenance": {
+          "source_file": "output_2/1905_manual_parsed/",
+          "source_lines": "metadata",
+          "source_section": "History",
+          "extraction_confidence": 0.7,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1894_1907",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_002",
+      "relationship_type": "DEPENDENCY_OF",
+      "target_id": "place_001",
+      "properties": {
+        "year": "1905",
+        "context": "Barbuda is a dependency of Antigua"
+      }
+    },
+    {
+      "source_id": "place_003",
+      "relationship_type": "DEPENDENCY_OF",
+      "target_id": "place_001",
+      "properties": {
+        "year": "1905",
+        "context": "Redonda is a dependency of Antigua"
+      }
+    },
+    {
+      "source_id": "place_004",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_001",
+      "properties": {
+        "year": "1905",
+        "context": "St. John is the chief town of Antigua"
+      }
+    },
+    {
+      "source_id": "place_002",
+      "relationship_type": "DISTANCE_FROM",
+      "target_id": "place_001",
+      "properties": {
+        "year": "1905",
+        "value": 25,
+        "unit": "miles",
+        "context": "Barbuda lies about 25 miles due north of the main island"
+      }
+    },
+    {
+      "source_id": "place_003",
+      "relationship_type": "DISTANCE_FROM",
+      "target_id": "place_001",
+      "properties": {
+        "year": "1905",
+        "value": 25,
+        "unit": "miles",
+        "context": "Redonda lying 25 miles S.W. of Antigua"
+      }
+    },
+    {
+      "source_id": "place_009",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_010",
+      "properties": {
+        "year": "1905",
+        "context": "Nassau is the capital on New Providence island"
+      }
+    },
+    {
+      "source_id": "place_010",
+      "relationship_type": "PART_OF",
+      "target_id": "place_008",
+      "properties": {
+        "year": "1905",
+        "context": "New Providence is one of the principal islands of the Bahamas"
+      }
+    },
+    {
+      "source_id": "place_012",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_011",
+      "properties": {
+        "year": "1905",
+        "context": "Bridgetown is the chief town and capital of Barbados"
+      }
+    },
+    {
+      "source_id": "place_013",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_011",
+      "properties": {
+        "year": "1905",
+        "context": "Speightstown is a town in Barbados"
+      }
+    },
+    {
+      "source_id": "place_014",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_011",
+      "properties": {
+        "year": "1905",
+        "context": "Carlisle Bay is the harbour of Barbados"
+      }
+    },
+    {
+      "source_id": "place_016",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_015",
+      "properties": {
+        "year": "1905",
+        "context": "Maseru is the capital of Basutoland"
+      }
+    },
+    {
+      "source_id": "place_020",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_019",
+      "properties": {
+        "year": "1905",
+        "context": "Hamilton is the seat of government in Bermuda"
+      }
+    },
+    {
+      "source_id": "place_021",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_019",
+      "properties": {
+        "year": "1905",
+        "context": "St. George is a town in Bermuda"
+      }
+    },
+    {
+      "source_id": "place_023",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_022",
+      "properties": {
+        "year": "1905",
+        "context": "Blantyre is the chief town of British Central Africa Protectorate"
+      }
+    },
+    {
+      "source_id": "place_024",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_022",
+      "properties": {
+        "year": "1905",
+        "context": "Zomba is the headquarters of the Administration"
+      }
+    },
+    {
+      "source_id": "place_026",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_025",
+      "properties": {
+        "year": "1905",
+        "context": "Georgetown is the capital of British Guiana"
+      }
+    },
+    {
+      "source_id": "place_028",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_027",
+      "properties": {
+        "year": "1905",
+        "context": "Belize is the capital of British Honduras"
+      }
+    },
+    {
+      "source_id": "place_030",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_029",
+      "properties": {
+        "year": "1905",
+        "context": "Colombo is in Ceylon"
+      }
+    },
+    {
+      "source_id": "place_031",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_029",
+      "properties": {
+        "year": "1905",
+        "context": "Kandy is in Ceylon"
+      }
+    },
+    {
+      "source_id": "place_033",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_032",
+      "properties": {
+        "year": "1905",
+        "context": "Nicosia is the capital of Cyprus"
+      }
+    },
+    {
+      "source_id": "place_034",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_032",
+      "properties": {
+        "year": "1905",
+        "context": "Larnaca is on the southern coast of Cyprus"
+      }
+    },
+    {
+      "source_id": "place_034",
+      "relationship_type": "DISTANCE_FROM",
+      "target_id": "place_033",
+      "properties": {
+        "year": "1905",
+        "value": 258,
+        "unit": "miles",
+        "context": "Larnaca is 258 miles from Port Said"
+      }
+    },
+    {
+      "source_id": "place_036",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_035",
+      "properties": {
+        "year": "1905",
+        "context": "Roseau is the chief town of Dominica"
+      }
+    },
+    {
+      "source_id": "place_037",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_035",
+      "properties": {
+        "year": "1905",
+        "context": "Portsmouth is in Dominica"
+      }
+    },
+    {
+      "source_id": "place_039",
+      "relationship_type": "PART_OF",
+      "target_id": "place_038",
+      "properties": {
+        "year": "1905",
+        "context": "Viti Levu is the principal inhabited island of Fiji"
+      }
+    },
+    {
+      "source_id": "place_040",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_039",
+      "properties": {
+        "year": "1905",
+        "context": "Suva is on the south coast of Viti Levu"
+      }
+    },
+    {
+      "source_id": "place_042",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_041",
+      "properties": {
+        "year": "1905",
+        "context": "Kingston is the capital of Jamaica"
+      }
+    },
+    {
+      "source_id": "place_043",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_041",
+      "properties": {
+        "year": "1905",
+        "context": "Blue Mountains are in Jamaica"
+      }
+    },
+    {
+      "source_id": "place_045",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_044",
+      "properties": {
+        "year": "1905",
+        "context": "Valletta is the chief town and capital of Malta"
+      }
+    },
+    {
+      "source_id": "place_046",
+      "relationship_type": "PART_OF",
+      "target_id": "place_044",
+      "properties": {
+        "year": "1905",
+        "context": "Gozo is second island of the Maltese group"
+      }
+    },
+    {
+      "source_id": "place_045",
+      "relationship_type": "DISTANCE_FROM",
+      "target_id": "place_046",
+      "properties": {
+        "year": "1905",
+        "value": 58,
+        "unit": "miles",
+        "context": "Malta group about 58 miles from Sicily"
+      }
+    },
+    {
+      "source_id": "person_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_001",
+      "properties": {
+        "year": "1905",
+        "context": "Colonial Secretary and Attorney-General of Antigua"
+      }
+    },
+    {
+      "source_id": "person_006",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_008",
+      "properties": {
+        "year": "1905",
+        "context": "Governor and Commander-in-Chief of Bahamas"
+      }
+    },
+    {
+      "source_id": "person_008",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_011",
+      "properties": {
+        "year": "1905",
+        "context": "Governor and Commander-in-Chief of Barbados"
+      }
+    },
+    {
+      "source_id": "person_010",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_015",
+      "properties": {
+        "year": "1905",
+        "context": "Resident Commissioner of Basutoland"
+      }
+    },
+    {
+      "source_id": "person_011",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_017",
+      "properties": {
+        "year": "1905",
+        "context": "Resident Commissioner of Bechuanaland Protectorate"
+      }
+    },
+    {
+      "source_id": "person_012",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_019",
+      "properties": {
+        "year": "1905",
+        "context": "Governor and Commander-in-Chief of Bermuda"
+      }
+    },
+    {
+      "source_id": "person_014",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_022",
+      "properties": {
+        "year": "1905",
+        "context": "Commissioner and Consul-General of British Central Africa Protectorate"
+      }
+    },
+    {
+      "source_id": "person_015",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_027",
+      "properties": {
+        "year": "1905",
+        "context": "Governor and Commander-in-Chief of British Honduras"
+      }
+    },
+    {
+      "source_id": "person_017",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_029",
+      "properties": {
+        "year": "1905",
+        "context": "Governor of Ceylon"
+      }
+    },
+    {
+      "source_id": "person_018",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_032",
+      "properties": {
+        "year": "1905",
+        "context": "High Commissioner and Commander-in-Chief of Cyprus"
+      }
+    },
+    {
+      "source_id": "person_019",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_035",
+      "properties": {
+        "year": "1905",
+        "context": "Administrator of Dominica"
+      }
+    },
+    {
+      "source_id": "person_020",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_038",
+      "properties": {
+        "year": "1905",
+        "context": "Governor and Commander-in-Chief of Fiji"
+      }
+    },
+    {
+      "source_id": "person_021",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_041",
+      "properties": {
+        "year": "1905",
+        "context": "Captain-General and Governor-in-Chief of Jamaica"
+      }
+    },
+    {
+      "source_id": "person_022",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_044",
+      "properties": {
+        "year": "1905",
+        "context": "Governor of Malta"
+      }
+    },
+    {
+      "source_id": "inst_001",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_001",
+      "properties": {
+        "year": "1905",
+        "context": "Executive Council advises the Governor on executive matters"
+      }
+    },
+    {
+      "source_id": "inst_002",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_001",
+      "properties": {
+        "year": "1905",
+        "context": "Legislative Council is the legislative body for Antigua"
+      }
+    },
+    {
+      "source_id": "inst_003",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_011",
+      "properties": {
+        "year": "1905",
+        "context": "Colonial Bank has branches in Barbados"
+      }
+    },
+    {
+      "source_id": "inst_011",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_017",
+      "properties": {
+        "year": "1905",
+        "context": "Police force maintains law and order in Bechuanaland Protectorate"
+      }
+    }
+  ]
+}

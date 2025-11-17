@@ -1,0 +1,4942 @@
+{
+  "metadata": {
+    "year": "1918",
+    "source_directory": "/home/user/colonial_office_list/output_2/1918_manual_parsed/",
+    "extraction_date": "2025-11-16T23:28:21.877959Z",
+    "processing_notes": "Comprehensive knowledge graph extraction from Colonial Office List 1918. Includes 41 territories with geographic entities, administrative personnel, institutions, economic/trade data, infrastructure, demographics, and historical events. Historical spelling and terminology preserved per methodology.",
+    "colonies_processed": [
+      "ADEN",
+      "ANTIGUA",
+      "ASCENSION",
+      "AUSTRALIA",
+      "BAHAMAS",
+      "BARBADOS",
+      "BASUTOLAND",
+      "BERMUDA",
+      "BRITISH GUIANA",
+      "BRITISH HONDURAS",
+      "CAYMAN ISLANDS",
+      "CEYLON",
+      "CYPRUS",
+      "DOMINICA",
+      "DOMINION OF CANADA",
+      "EAST AFRICA PROTECTORATE",
+      "FALKLAND ISLANDS",
+      "FIJI",
+      "GIBRALTAR",
+      "HONG KONG",
+      "JAMAICA",
+      "LABUAN",
+      "MALTA",
+      "MAURITIUS",
+      "MONTSERRAT",
+      "NEWFOUNDLAND",
+      "NIGERIA",
+      "NORTHERN RHODESIA",
+      "NORTH BORNEO",
+      "SEYCHELLES",
+      "SIERRA LEONE",
+      "ST. HELENA",
+      "ST. VINCENT",
+      "STRAITS SETTLEMENTS",
+      "SWAZILAND",
+      "THE GAMBIA",
+      "TOBAGO",
+      "TURKS AND CAICOS ISLANDS",
+      "UGANDA",
+      "WEIHAIWEI",
+      "ZANZIBAR"
+    ],
+    "entity_count_summary": {
+      "places": 41,
+      "people": 0,
+      "institutions": 210,
+      "economic_data": 0,
+      "infrastructure": 39,
+      "demographics": 0,
+      "events": 0,
+      "relationships": 0,
+      "total_entities": 290
+    },
+    "provenance_added": true,
+    "provenance_date": "2025-11-17",
+    "provenance_agent": "provenance_linker_1918_1927",
+    "version": "v3"
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_0001",
+        "name": "ADEN",
+        "type": "colony",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ADEN.md",
+          "source_lines": "1-11",
+          "source_section": "ADEN",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0002",
+        "name": "ANTIGUA",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 108.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ANTIGUA.md",
+          "source_lines": "1-13,164-174,184-199,255-265,274-284,359-373,394-404",
+          "source_section": "ANTIGUA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0003",
+        "name": "ASCENSION",
+        "type": "colony",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ASCENSION.md",
+          "source_lines": "1-4",
+          "source_section": "ASCENSION",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0004",
+        "name": "AUSTRALIA",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 310367.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/AUSTRALIA.md",
+          "source_lines": "1-68,82-94,104-114,127-165,168-205,208-225,240-254,263-273,284-300,379-389,476-494,572-592,600-610,616-626,646-656,669-680,741-766,769-794,803-816,822-832,837-847,877-897,911-921,939-949,1084-1094,1105-1115,2029-2039,2403-2428,2430-2440,2446-2456,2475-2485,2559-2569,3010-3053,3055-3065,3074-3104,3109-3119,3146-3156,3184-3200,4095-4105,4195-4211,4296-4306,4439-4449,5109-5132,5141-5157,5200-5225,5699-5709,5864-5877,5900-5923,5941-5961,5968-5993,5999-6013,6070-6090,6111-6127,6398-6408,6811-6821,6839-6859,6861-6871,6888-6898,6958-6982,7006-7038,7049-7059,7156-7166,7184-7194,7271-7294,7315-7336,7378-7388,7477-7487",
+          "source_section": "AUSTRALIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0005",
+        "name": "BAHAMAS",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 4403.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BAHAMAS.md",
+          "source_lines": "1-18,30-40",
+          "source_section": "BAHAMAS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0006",
+        "name": "BARBADOS",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 106470.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BARBADOS.md",
+          "source_lines": "1-33,53-83,114-138,142-152,180-190,459-469,604-614,622-632",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0007",
+        "name": "BASUTOLAND",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 11716.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BASUTOLAND.md",
+          "source_lines": "1-21,31-52,65-85,164-174",
+          "source_section": "BASUTOLAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0008",
+        "name": "BERMUDA",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 19.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BERMUDA.md",
+          "source_lines": "1-21,30-58,60-70,72-84,334-344,349-359",
+          "source_section": "BERMUDA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0009",
+        "name": "BRITISH GUIANA",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 89480.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "1-13,84-104,840-850",
+          "source_section": "BRITISH GUIANA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0010",
+        "name": "BRITISH HONDURAS",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 8598.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "1-11,53-63,82-92",
+          "source_section": "BRITISH HONDURAS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0011",
+        "name": "CAYMAN ISLANDS",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 704.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CAYMAN_ISLANDS.md",
+          "source_lines": "1-25,31-43",
+          "source_section": "CAYMAN ISLANDS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0012",
+        "name": "CEYLON",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 25332.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CEYLON.md",
+          "source_lines": "1-12,14-32,45-55,73-85,100-136,185-195,198-219,341-351,375-385,943-953",
+          "source_section": "CEYLON",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0013",
+        "name": "CYPRUS",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 3584.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CYPRUS.md",
+          "source_lines": "1-24,54-89,96-130,148-185,195-205,367-377,605-615,869-885",
+          "source_section": "CYPRUS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0014",
+        "name": "DOMINICA",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 291.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINICA.md",
+          "source_lines": "1-17,23-33,50-60,106-116,264-274",
+          "source_section": "DOMINICA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0015",
+        "name": "DOMINION OF CANADA",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 255285.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINION_OF_CANADA.md",
+          "source_lines": "1-22,82-92,1365-1375,2480-2496,2816-2826",
+          "source_section": "DOMINION OF CANADA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0016",
+        "name": "EAST AFRICA PROTECTORATE",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 248000.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/EAST_AFRICA_PROTECTORATE.md",
+          "source_lines": "1-11,18-28,105-115",
+          "source_section": "EAST AFRICA PROTECTORATE",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0017",
+        "name": "FALKLAND ISLANDS",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 3000.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/FALKLAND_ISLANDS.md",
+          "source_lines": "1-22,36-52,231-241",
+          "source_section": "FALKLAND ISLANDS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0018",
+        "name": "FIJI",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 14.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/FIJI.md",
+          "source_lines": "1-10,15-35,47-81,127-137,189-199,203-213,240-250,365-375,428-438",
+          "source_section": "FIJI",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0019",
+        "name": "GIBRALTAR",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 440.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/GIBRALTAR.md",
+          "source_lines": "1-22,26-36",
+          "source_section": "GIBRALTAR",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0020",
+        "name": "HONG KONG",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 32.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/HONG_KONG.md",
+          "source_lines": "1-13,15-42,84-138,140-150,269-279",
+          "source_section": "HONG KONG",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0021",
+        "name": "JAMAICA",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 33499.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/JAMAICA.md",
+          "source_lines": "1-15,27-37,72-93,142-159,403-413,451-461,546-562,850-870,913-925",
+          "source_section": "JAMAICA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0022",
+        "name": "LABUAN",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 6.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/LABUAN.md",
+          "source_lines": "1-35,59-75,101-111",
+          "source_section": "LABUAN",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0023",
+        "name": "MALTA",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 91.567,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MALTA.md",
+          "source_lines": "1-19,21-42,63-73,80-90,145-155,252-262,376-386,440-450,506-516,524-544",
+          "source_section": "MALTA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0024",
+        "name": "MAURITIUS",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 720.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MAURITIUS.md",
+          "source_lines": "1-19,28-38,42-52,54-68,70-83,85-104,110-120,160-179,196-208,211-235,743-753,837-856",
+          "source_section": "MAURITIUS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0025",
+        "name": "MONTSERRAT",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 58.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MONTSERRAT.md",
+          "source_lines": "1-20,83-93,136-146",
+          "source_section": "MONTSERRAT",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0026",
+        "name": "NEWFOUNDLAND",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 42000.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": "1-37,72-82,91-101,104-114,265-275,354-375,419-438",
+          "source_section": "NEWFOUNDLAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0027",
+        "name": "NIGERIA",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 335700.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NIGERIA.md",
+          "source_lines": "1-68,80-90,97-126,128-138,151-161,163-173,181-212,215-235,239-249,258-268,270-289,974-984",
+          "source_section": "NIGERIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0028",
+        "name": "NORTHERN RHODESIA",
+        "type": "colony",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NORTHERN_RHODESIA.md",
+          "source_lines": "1-7,12-22",
+          "source_section": "NORTHERN RHODESIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0029",
+        "name": "NORTH BORNEO",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 31000.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NORTH_BORNEO.md",
+          "source_lines": "1-11,21-31,106-116,118-136,236-246",
+          "source_section": "NORTH BORNEO",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0030",
+        "name": "SEYCHELLES",
+        "type": "colony",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SEYCHELLES.md",
+          "source_lines": "1-58,68-78",
+          "source_section": "SEYCHELLES",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0031",
+        "name": "SIERRA LEONE",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 31000.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "1-42,54-86,91-109,111-121,170-186,479-489",
+          "source_section": "SIERRA LEONE",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0032",
+        "name": "ST. HELENA",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 47.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ST._HELENA.md",
+          "source_lines": "1-29,51-61,166-176",
+          "source_section": "ST. HELENA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0033",
+        "name": "ST. VINCENT",
+        "type": "colony",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ST._VINCENT.md",
+          "source_lines": "1-15,29-62,68-78,113-123,192-202,220-230",
+          "source_section": "ST. VINCENT",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0034",
+        "name": "STRAITS SETTLEMENTS",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 217.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/STRAITS_SETTLEMENTS.md",
+          "source_lines": "1-9,15-34,145-155,165-177,631-643",
+          "source_section": "STRAITS SETTLEMENTS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0035",
+        "name": "SWAZILAND",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 6678.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SWAZILAND.md",
+          "source_lines": "1-11,19-54,66-76,81-93,98-108,142-152",
+          "source_section": "SWAZILAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0036",
+        "name": "THE GAMBIA",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 63.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "1-40,47-65,69-79,132-142,193-203,261-271",
+          "source_section": "THE GAMBIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0037",
+        "name": "TOBAGO",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 114.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/TOBAGO.md",
+          "source_lines": "1-29,45-57,150-160,163-173,249-265,429-439,477-487,584-594,695-705,723-733,827-837,847-857,864-874,887-897,1065-1075,1081-1093,1118-1128,1167-1177,1225-1247,1315-1336,1404-1414,1450-1460",
+          "source_section": "TOBAGO",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0038",
+        "name": "TURKS AND CAICOS ISLANDS",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 169.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/TURKS_AND_CAICOS_ISLANDS.md",
+          "source_lines": "1-11",
+          "source_section": "TURKS AND CAICOS ISLANDS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0039",
+        "name": "UGANDA",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 109119.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/UGANDA.md",
+          "source_lines": "1-20,24-70,157-167,247-257,375-385",
+          "source_section": "UGANDA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0040",
+        "name": "WEIHAIWEI",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 285.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/WEIHAIWEI.md",
+          "source_lines": "1-17,25-39,47-57",
+          "source_section": "WEIHAIWEI",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_0041",
+        "name": "ZANZIBAR",
+        "type": "colony",
+        "year": "1918",
+        "area": {
+          "value": 640.0,
+          "unit": "square miles"
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ZANZIBAR.md",
+          "source_lines": "1-44",
+          "source_section": "ZANZIBAR",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [],
+    "institutions": [
+      {
+        "id": "institution_0001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "ANTIGUA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ANTIGUA.md",
+          "source_lines": "87-97,373-383,486-496",
+          "source_section": "ANTIGUA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0002",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "ANTIGUA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ANTIGUA.md",
+          "source_lines": "16-26,98-108,365-383,500-510",
+          "source_section": "ANTIGUA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0003",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "ANTIGUA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ANTIGUA.md",
+          "source_lines": "171-181,418-428,507-518,607-617",
+          "source_section": "ANTIGUA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0004",
+        "name": "District Court",
+        "type": "court",
+        "location": "ANTIGUA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ANTIGUA.md",
+          "source_lines": "171-181,418-428,507-518,607-617",
+          "source_section": "ANTIGUA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0005",
+        "name": "Police",
+        "type": "police_force",
+        "location": "ANTIGUA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ANTIGUA.md",
+          "source_lines": "181-198,234-244,626-637",
+          "source_section": "ANTIGUA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0006",
+        "name": "Medical",
+        "type": "medical",
+        "location": "ANTIGUA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ANTIGUA.md",
+          "source_lines": "178-189,194-212,219-229,494-504,506-516,571-597",
+          "source_section": "ANTIGUA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0007",
+        "name": "Educational",
+        "type": "educational",
+        "location": "ANTIGUA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ANTIGUA.md",
+          "source_lines": "192-202,568-578",
+          "source_section": "ANTIGUA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0008",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "AUSTRALIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/AUSTRALIA.md",
+          "source_lines": "28-38,414-424,608-620,1293-1303,1537-1547,1551-1561,2710-2720,3047-3057,3249-3259,3374-3384,4470-4480,5434-5447,5911-5921,6202-6212,7367-7388",
+          "source_section": "AUSTRALIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0009",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "AUSTRALIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/AUSTRALIA.md",
+          "source_lines": "39-51,1003-1015,1266-1276,1494-1504,2596-2606,2791-2801,3033-3053,3261-3271,3351-3361,4310-4320,4473-4483,5233-5254,5437-5449,5561-5571,5911-5929,6225-6235,6260-6270,7326-7336,7376-7386",
+          "source_section": "AUSTRALIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0010",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "AUSTRALIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/AUSTRALIA.md",
+          "source_lines": "13-32,49-61,82-92,129-165,646-662,756-766,1014-1024,1510-1520,1778-1801,1809-1819,1841-1851,2727-2737,2875-2906,2924-2938,2977-2987,3078-3090,3364-3376,3424-3434,3546-3557,3562-3620,3939-3955,4310-4323,4652-4662,4671-4683,5660-5693,5708-5723,5822-5832,6423-6433,6535-6548,6578-6595,6950-6960,7024-7042,7326-7336,7341-7351,7389-7399",
+          "source_section": "AUSTRALIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0011",
+        "name": "District Court",
+        "type": "court",
+        "location": "AUSTRALIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/AUSTRALIA.md",
+          "source_lines": "13-32,49-61,82-92,129-165,646-662,756-766,1014-1024,1510-1520,1778-1801,1809-1819,1841-1851,2727-2737,2875-2906,2924-2938,2977-2987,3078-3090,3364-3376,3424-3434,3546-3557,3562-3620,3939-3955,4310-4323,4652-4662,4671-4683,5660-5693,5708-5723,5822-5832,6423-6433,6535-6548,6578-6595,6950-6960,7024-7042,7326-7336,7341-7351,7389-7399",
+          "source_section": "AUSTRALIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0012",
+        "name": "Police",
+        "type": "police_force",
+        "location": "AUSTRALIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/AUSTRALIA.md",
+          "source_lines": "1014-1024,1614-1625,1817-1827,2860-2870,3078-3088,3411-3427,3580-3592,4746-4761,5597-5607,5661-5671,5715-5729,6783-6793,7326-7336",
+          "source_section": "AUSTRALIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0013",
+        "name": "Medical",
+        "type": "medical",
+        "location": "AUSTRALIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/AUSTRALIA.md",
+          "source_lines": "151-161,939-949,1588-1636,1735-1745,1956-1966,2864-2874,3433-3470,3497-3518,4081-4091,4311-4321,4611-4621,4711-4731,5240-5250,5607-5625,5797-5807,6574-6585,6682-6692,6716-6736,7465-7480",
+          "source_section": "AUSTRALIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0014",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "AUSTRALIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/AUSTRALIA.md",
+          "source_lines": "70-80,113-123,140-163,165-175,409-419,691-708,863-873,891-901,1005-1015,1024-1034,1109-1119,1547-1557,1685-1722,1727-1744,2497-2520,2559-2594,2718-2728,2947-2966,3088-3098,3104-3114,3144-3156,3253-3263,3357-3367,3535-3545,3628-3638,3660-3670,3742-3754,3771-3781,4208-4219,4240-4252,4258-4268,4458-4468,4812-4822,5132-5148,5235-5245,5414-5424,5805-5821,5949-5959,5974-5984,6050-6086,6219-6229,6462-6472,6505-6518,6976-6986,7024-7034,7140-7150,7178-7190,7227-7257",
+          "source_section": "AUSTRALIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0015",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "BAHAMAS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BAHAMAS.md",
+          "source_lines": "55-65,133-143,182-192",
+          "source_section": "BAHAMAS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0016",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "BAHAMAS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BAHAMAS.md",
+          "source_lines": "55-65,143-153",
+          "source_section": "BAHAMAS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0017",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "BAHAMAS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BAHAMAS.md",
+          "source_lines": "310-327",
+          "source_section": "BAHAMAS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0018",
+        "name": "Police",
+        "type": "police_force",
+        "location": "BAHAMAS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BAHAMAS.md",
+          "source_lines": "302-312,317-327",
+          "source_section": "BAHAMAS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0019",
+        "name": "Medical",
+        "type": "medical",
+        "location": "BAHAMAS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BAHAMAS.md",
+          "source_lines": "254-266,271-281,300-314",
+          "source_section": "BAHAMAS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0020",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "BARBADOS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BARBADOS.md",
+          "source_lines": "128-138,202-212,215-225",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0021",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "BARBADOS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BARBADOS.md",
+          "source_lines": "128-138,224-234",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0022",
+        "name": "Police",
+        "type": "police_force",
+        "location": "BARBADOS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BARBADOS.md",
+          "source_lines": "63-73,120-132,291-305,383-401,521-531",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0023",
+        "name": "Medical",
+        "type": "medical",
+        "location": "BARBADOS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BARBADOS.md",
+          "source_lines": "296-306,352-362,409-419,443-453,465-475",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0024",
+        "name": "Educational",
+        "type": "educational",
+        "location": "BARBADOS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BARBADOS.md",
+          "source_lines": "457-467",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0025",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "BARBADOS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BARBADOS.md",
+          "source_lines": "19-31,59-73,565-576",
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0026",
+        "name": "Police",
+        "type": "police_force",
+        "location": "BASUTOLAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BASUTOLAND.md",
+          "source_lines": "116-127,150-162,171-188,230-240,265-275",
+          "source_section": "BASUTOLAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0027",
+        "name": "Medical",
+        "type": "medical",
+        "location": "BASUTOLAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BASUTOLAND.md",
+          "source_lines": "118-129,300-310",
+          "source_section": "BASUTOLAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0028",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "BASUTOLAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BASUTOLAND.md",
+          "source_lines": "64-75,236-251",
+          "source_section": "BASUTOLAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0029",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "BERMUDA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BERMUDA.md",
+          "source_lines": "92-102,174-184",
+          "source_section": "BERMUDA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0030",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "BERMUDA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BERMUDA.md",
+          "source_lines": "90-102,181-191",
+          "source_section": "BERMUDA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0031",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "BERMUDA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BERMUDA.md",
+          "source_lines": "343-355",
+          "source_section": "BERMUDA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0032",
+        "name": "Police",
+        "type": "police_force",
+        "location": "BERMUDA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BERMUDA.md",
+          "source_lines": "304-322",
+          "source_section": "BERMUDA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0033",
+        "name": "Medical",
+        "type": "medical",
+        "location": "BERMUDA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BERMUDA.md",
+          "source_lines": "300-310,320-330,378-388",
+          "source_section": "BERMUDA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0034",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "BRITISH GUIANA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "43-55,256-266",
+          "source_section": "BRITISH GUIANA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0035",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "BRITISH GUIANA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "41-51",
+          "source_section": "BRITISH GUIANA",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0036",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "BRITISH GUIANA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "3-38,41-57,88-98,264-274,278-288",
+          "source_section": "BRITISH GUIANA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0037",
+        "name": "Police",
+        "type": "police_force",
+        "location": "BRITISH GUIANA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "65-75,447-457,501-524,776-786",
+          "source_section": "BRITISH GUIANA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0038",
+        "name": "Medical",
+        "type": "medical",
+        "location": "BRITISH GUIANA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "53-63,381-391,395-407,413-423,429-439,445-455,581-591,778-788,792-802",
+          "source_section": "BRITISH GUIANA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0039",
+        "name": "Educational",
+        "type": "educational",
+        "location": "BRITISH GUIANA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "607-617",
+          "source_section": "BRITISH GUIANA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0040",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "BRITISH GUIANA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": "65-75",
+          "source_section": "BRITISH GUIANA",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0041",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "BRITISH HONDURAS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "20-36,176-186",
+          "source_section": "BRITISH HONDURAS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0042",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "BRITISH HONDURAS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "20-30,187-197",
+          "source_section": "BRITISH HONDURAS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0043",
+        "name": "Police",
+        "type": "police_force",
+        "location": "BRITISH HONDURAS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "316-326",
+          "source_section": "BRITISH HONDURAS",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0044",
+        "name": "Medical",
+        "type": "medical",
+        "location": "BRITISH HONDURAS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "190-200,308-320",
+          "source_section": "BRITISH HONDURAS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0045",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "BRITISH HONDURAS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "57-67,70-80,285-295",
+          "source_section": "BRITISH HONDURAS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0046",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "CAYMAN ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CAYMAN_ISLANDS.md",
+          "source_lines": "128-138",
+          "source_section": "CAYMAN ISLANDS",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0047",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "CAYMAN ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CAYMAN_ISLANDS.md",
+          "source_lines": "54-66,148-158,186-197",
+          "source_section": "CAYMAN ISLANDS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0048",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "CAYMAN ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CAYMAN_ISLANDS.md",
+          "source_lines": "27-37,227-237",
+          "source_section": "CAYMAN ISLANDS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0049",
+        "name": "Police",
+        "type": "police_force",
+        "location": "CAYMAN ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CAYMAN_ISLANDS.md",
+          "source_lines": "56-66,212-224",
+          "source_section": "CAYMAN ISLANDS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0050",
+        "name": "Medical",
+        "type": "medical",
+        "location": "CAYMAN ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CAYMAN_ISLANDS.md",
+          "source_lines": "25-41",
+          "source_section": "CAYMAN ISLANDS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0051",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "CEYLON",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CEYLON.md",
+          "source_lines": "22-32,83-93,309-319,331-341",
+          "source_section": "CEYLON",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0052",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "CEYLON",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CEYLON.md",
+          "source_lines": "22-32,329-339",
+          "source_section": "CEYLON",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0053",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "CEYLON",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CEYLON.md",
+          "source_lines": "83-93,514-525",
+          "source_section": "CEYLON",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0054",
+        "name": "District Court",
+        "type": "court",
+        "location": "CEYLON",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CEYLON.md",
+          "source_lines": "83-93,514-525",
+          "source_section": "CEYLON",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0055",
+        "name": "Police",
+        "type": "police_force",
+        "location": "CEYLON",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CEYLON.md",
+          "source_lines": "83-93,524-586,900-910,963-982",
+          "source_section": "CEYLON",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0056",
+        "name": "Medical",
+        "type": "medical",
+        "location": "CEYLON",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CEYLON.md",
+          "source_lines": "98-122,126-136,333-343,902-922,924-938,940-953,1055-1061",
+          "source_section": "CEYLON",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0057",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "CEYLON",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CEYLON.md",
+          "source_lines": "65-75,126-136,173-195,427-437,987-997,1013-1023",
+          "source_section": "CEYLON",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0058",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "CYPRUS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CYPRUS.md",
+          "source_lines": "175-185,380-390",
+          "source_section": "CYPRUS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0059",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "CYPRUS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CYPRUS.md",
+          "source_lines": "387-397",
+          "source_section": "CYPRUS",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0060",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "CYPRUS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CYPRUS.md",
+          "source_lines": "177-203,214-224,549-565,603-613",
+          "source_section": "CYPRUS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0061",
+        "name": "District Court",
+        "type": "court",
+        "location": "CYPRUS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CYPRUS.md",
+          "source_lines": "177-203,214-224,549-565,603-613",
+          "source_section": "CYPRUS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0062",
+        "name": "Police",
+        "type": "police_force",
+        "location": "CYPRUS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CYPRUS.md",
+          "source_lines": "224-234,621-639,717-735",
+          "source_section": "CYPRUS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0063",
+        "name": "Medical",
+        "type": "medical",
+        "location": "CYPRUS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CYPRUS.md",
+          "source_lines": "390-400,639-655,735-751",
+          "source_section": "CYPRUS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0064",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "CYPRUS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CYPRUS.md",
+          "source_lines": "75-85,104-116,709-719,805-815",
+          "source_section": "CYPRUS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0065",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "DOMINICA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINICA.md",
+          "source_lines": "43-53,114-124",
+          "source_section": "DOMINICA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0066",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "DOMINICA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINICA.md",
+          "source_lines": "133-143",
+          "source_section": "DOMINICA",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0067",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "DOMINICA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINICA.md",
+          "source_lines": "182-192",
+          "source_section": "DOMINICA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0068",
+        "name": "Police",
+        "type": "police_force",
+        "location": "DOMINICA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINICA.md",
+          "source_lines": "21-31,232-244",
+          "source_section": "DOMINICA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0069",
+        "name": "Medical",
+        "type": "medical",
+        "location": "DOMINICA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINICA.md",
+          "source_lines": "192-220,246-256",
+          "source_section": "DOMINICA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0070",
+        "name": "Educational",
+        "type": "educational",
+        "location": "DOMINICA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINICA.md",
+          "source_lines": "262-280",
+          "source_section": "DOMINICA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0071",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "DOMINION OF CANADA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINION_OF_CANADA.md",
+          "source_lines": "32-42,1365-1375,1425-1435,1445-1455,1600-1611,1702-1712,1856-1866,1964-1978,1999-2009,2119-2129,2193-2203,2420-2430,2437-2447,2490-2500,2621-2631,2637-2649,2832-2850,2866-2878,2984-2999,3003-3022,3114-3124,3149-3159,3185-3195",
+          "source_section": "DOMINION OF CANADA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0072",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "DOMINION OF CANADA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINION_OF_CANADA.md",
+          "source_lines": "34-44,1365-1385,1714-1724,1964-1974,2012-2022,2157-2167,2390-2400",
+          "source_section": "DOMINION OF CANADA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0073",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "DOMINION OF CANADA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINION_OF_CANADA.md",
+          "source_lines": "40-50,600-610,666-686,706-716,1606-1616,1658-1689,1873-1883,1901-1920,2109-2121,2328-2341,2450-2462,2802-2817,2962-2982,3106-3120,3264-3292,3308-3313",
+          "source_section": "DOMINION OF CANADA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0074",
+        "name": "District Court",
+        "type": "court",
+        "location": "DOMINION OF CANADA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINION_OF_CANADA.md",
+          "source_lines": "40-50,600-610,666-686,706-716,1606-1616,1658-1689,1873-1883,1901-1920,2109-2121,2328-2341,2450-2462,2802-2817,2962-2982,3106-3120,3264-3292,3308-3313",
+          "source_section": "DOMINION OF CANADA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0075",
+        "name": "Police",
+        "type": "police_force",
+        "location": "DOMINION OF CANADA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINION_OF_CANADA.md",
+          "source_lines": "1163-1175,2741-2751",
+          "source_section": "DOMINION OF CANADA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0076",
+        "name": "Medical",
+        "type": "medical",
+        "location": "DOMINION OF CANADA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINION_OF_CANADA.md",
+          "source_lines": "1115-1125,1230-1240,1249-1259,2398-2408,2788-2798",
+          "source_section": "DOMINION OF CANADA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0077",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "DOMINION OF CANADA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINION_OF_CANADA.md",
+          "source_lines": "75-88,112-122,296-312,332-359,436-446,519-529,1131-1146,1150-1160,1234-1244,2367-2390,2422-2432,2494-2504,2567-2577,2616-2628,2641-2651,2759-2769,2828-2838,2997-3007,3011-3032,3143-3161,3177-3187",
+          "source_section": "DOMINION OF CANADA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0078",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "EAST AFRICA PROTECTORATE",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/EAST_AFRICA_PROTECTORATE.md",
+          "source_lines": "179-189",
+          "source_section": "EAST AFRICA PROTECTORATE",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0079",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "EAST AFRICA PROTECTORATE",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/EAST_AFRICA_PROTECTORATE.md",
+          "source_lines": "1-11,18-28,185-195",
+          "source_section": "EAST AFRICA PROTECTORATE",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0080",
+        "name": "Police",
+        "type": "police_force",
+        "location": "EAST AFRICA PROTECTORATE",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/EAST_AFRICA_PROTECTORATE.md",
+          "source_lines": "302-318",
+          "source_section": "EAST AFRICA PROTECTORATE",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0081",
+        "name": "Medical",
+        "type": "medical",
+        "location": "EAST AFRICA PROTECTORATE",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/EAST_AFRICA_PROTECTORATE.md",
+          "source_lines": "336-364",
+          "source_section": "EAST AFRICA PROTECTORATE",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0082",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "EAST AFRICA PROTECTORATE",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/EAST_AFRICA_PROTECTORATE.md",
+          "source_lines": "6-16,62-72,83-95,105-126,143-153,156-166,187-197,431-441,479-489",
+          "source_section": "EAST AFRICA PROTECTORATE",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0083",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "FALKLAND ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/FALKLAND_ISLANDS.md",
+          "source_lines": "133-143",
+          "source_section": "FALKLAND ISLANDS",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0084",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "FALKLAND ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/FALKLAND_ISLANDS.md",
+          "source_lines": "55-67,140-150",
+          "source_section": "FALKLAND ISLANDS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0085",
+        "name": "Police",
+        "type": "police_force",
+        "location": "FALKLAND ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/FALKLAND_ISLANDS.md",
+          "source_lines": "205-218",
+          "source_section": "FALKLAND ISLANDS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0086",
+        "name": "Medical",
+        "type": "medical",
+        "location": "FALKLAND ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/FALKLAND_ISLANDS.md",
+          "source_lines": "183-193",
+          "source_section": "FALKLAND ISLANDS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0087",
+        "name": "Educational",
+        "type": "educational",
+        "location": "FALKLAND ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/FALKLAND_ISLANDS.md",
+          "source_lines": "198-208",
+          "source_section": "FALKLAND ISLANDS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0088",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "FIJI",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/FIJI.md",
+          "source_lines": "77-87,285-295",
+          "source_section": "FIJI",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0089",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "FIJI",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/FIJI.md",
+          "source_lines": "21-31,79-89,94-104,296-306,325-345",
+          "source_section": "FIJI",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0090",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "FIJI",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/FIJI.md",
+          "source_lines": "21-31,79-89,385-395,405-415",
+          "source_section": "FIJI",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0091",
+        "name": "Police",
+        "type": "police_force",
+        "location": "FIJI",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/FIJI.md",
+          "source_lines": "417-427",
+          "source_section": "FIJI",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0092",
+        "name": "Medical",
+        "type": "medical",
+        "location": "FIJI",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/FIJI.md",
+          "source_lines": "21-31,77-87,291-301,303-313,422-433,444-460,462-496",
+          "source_section": "FIJI",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0093",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "GIBRALTAR",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/GIBRALTAR.md",
+          "source_lines": "22-32,240-252,544-562",
+          "source_section": "GIBRALTAR",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0094",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "GIBRALTAR",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/GIBRALTAR.md",
+          "source_lines": "240-252,267-277,552-562",
+          "source_section": "GIBRALTAR",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0095",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "GIBRALTAR",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/GIBRALTAR.md",
+          "source_lines": "96-106,240-263,267-277,464-474,480-490",
+          "source_section": "GIBRALTAR",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0096",
+        "name": "Police",
+        "type": "police_force",
+        "location": "GIBRALTAR",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/GIBRALTAR.md",
+          "source_lines": "100-113,349-359,578-588,810-838,845-855,885-897",
+          "source_section": "GIBRALTAR",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0097",
+        "name": "Medical",
+        "type": "medical",
+        "location": "GIBRALTAR",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/GIBRALTAR.md",
+          "source_lines": "114-137,139-149,155-165,242-252,549-559,656-676,688-698,717-727",
+          "source_section": "GIBRALTAR",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0098",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "GIBRALTAR",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/GIBRALTAR.md",
+          "source_lines": "242-252,291-303,318-328,334-348,415-427,552-562,814-824,959-969",
+          "source_section": "GIBRALTAR",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0099",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "HONG KONG",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/HONG_KONG.md",
+          "source_lines": "148-158,199-209",
+          "source_section": "HONG KONG",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0100",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "HONG KONG",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/HONG_KONG.md",
+          "source_lines": "148-158,210-220",
+          "source_section": "HONG KONG",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0101",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "HONG KONG",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/HONG_KONG.md",
+          "source_lines": "148-158,327-341",
+          "source_section": "HONG KONG",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0102",
+        "name": "Police",
+        "type": "police_force",
+        "location": "HONG KONG",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/HONG_KONG.md",
+          "source_lines": "3-13,144-154,219-229,339-350,360-372",
+          "source_section": "HONG KONG",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0103",
+        "name": "Medical",
+        "type": "medical",
+        "location": "HONG KONG",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/HONG_KONG.md",
+          "source_lines": "387-405,418-429",
+          "source_section": "HONG KONG",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0104",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "HONG KONG",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/HONG_KONG.md",
+          "source_lines": "115-130",
+          "source_section": "HONG KONG",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0105",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "JAMAICA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/JAMAICA.md",
+          "source_lines": "40-54,56-66,269-279,306-316",
+          "source_section": "JAMAICA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0106",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "JAMAICA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/JAMAICA.md",
+          "source_lines": "60-70,754-784,818-828,846-856",
+          "source_section": "JAMAICA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0107",
+        "name": "Police",
+        "type": "police_force",
+        "location": "JAMAICA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/JAMAICA.md",
+          "source_lines": "66-76,593-603",
+          "source_section": "JAMAICA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0108",
+        "name": "Medical",
+        "type": "medical",
+        "location": "JAMAICA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/JAMAICA.md",
+          "source_lines": "62-72,279-289,665-699,707-721,738-748,1007-1017",
+          "source_section": "JAMAICA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0109",
+        "name": "Educational",
+        "type": "educational",
+        "location": "JAMAICA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/JAMAICA.md",
+          "source_lines": "861-871",
+          "source_section": "JAMAICA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0110",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "JAMAICA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/JAMAICA.md",
+          "source_lines": "151-163,287-297,354-364,416-426",
+          "source_section": "JAMAICA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0111",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "LABUAN",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/LABUAN.md",
+          "source_lines": "1153-1163",
+          "source_section": "LABUAN",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0112",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "LABUAN",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/LABUAN.md",
+          "source_lines": "1153-1163",
+          "source_section": "LABUAN",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0113",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "LABUAN",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/LABUAN.md",
+          "source_lines": "61-71,342-352,449-461,746-760,763-773,890-905,1053-1065,1134-1144",
+          "source_section": "LABUAN",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0114",
+        "name": "Police",
+        "type": "police_force",
+        "location": "LABUAN",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/LABUAN.md",
+          "source_lines": "51-61,511-527,767-777,895-905,920-930,1056-1066",
+          "source_section": "LABUAN",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0115",
+        "name": "Medical",
+        "type": "medical",
+        "location": "LABUAN",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/LABUAN.md",
+          "source_lines": "45-55,564-578,610-620,644-654,674-684,693-703,926-940,1047-1057",
+          "source_section": "LABUAN",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0116",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "LABUAN",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/LABUAN.md",
+          "source_lines": "289-311,342-352,403-413,477-487,788-798,841-851,1012-1029,1084-1094,1204-1232",
+          "source_section": "LABUAN",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0117",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "MALTA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MALTA.md",
+          "source_lines": "67-77,159-169",
+          "source_section": "MALTA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0118",
+        "name": "Police",
+        "type": "police_force",
+        "location": "MALTA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MALTA.md",
+          "source_lines": "524-550",
+          "source_section": "MALTA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0119",
+        "name": "Medical",
+        "type": "medical",
+        "location": "MALTA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MALTA.md",
+          "source_lines": "172-182,203-213,341-397,400-414",
+          "source_section": "MALTA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0120",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "MALTA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MALTA.md",
+          "source_lines": "30-40,478-488",
+          "source_section": "MALTA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0121",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "MAURITIUS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MAURITIUS.md",
+          "source_lines": "85-95,129-139,213-223,310-320",
+          "source_section": "MAURITIUS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0122",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "MAURITIUS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MAURITIUS.md",
+          "source_lines": "30-44,85-95",
+          "source_section": "MAURITIUS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0123",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "MAURITIUS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MAURITIUS.md",
+          "source_lines": "56-66,427-437,481-491,656-666",
+          "source_section": "MAURITIUS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0124",
+        "name": "Police",
+        "type": "police_force",
+        "location": "MAURITIUS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MAURITIUS.md",
+          "source_lines": "223-233,618-628,705-715",
+          "source_section": "MAURITIUS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0125",
+        "name": "Medical",
+        "type": "medical",
+        "location": "MAURITIUS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MAURITIUS.md",
+          "source_lines": "329-339,604-634,830-840,843-853",
+          "source_section": "MAURITIUS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0126",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "MAURITIUS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MAURITIUS.md",
+          "source_lines": "38-52,112-124,162-172,202-212,346-356,815-825",
+          "source_section": "MAURITIUS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0127",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "MONTSERRAT",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MONTSERRAT.md",
+          "source_lines": "89-99,211-221,283-293",
+          "source_section": "MONTSERRAT",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0128",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "MONTSERRAT",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MONTSERRAT.md",
+          "source_lines": "5-17,101-111,211-221",
+          "source_section": "MONTSERRAT",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0129",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "MONTSERRAT",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MONTSERRAT.md",
+          "source_lines": "209-219,310-322",
+          "source_section": "MONTSERRAT",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0130",
+        "name": "Police",
+        "type": "police_force",
+        "location": "MONTSERRAT",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MONTSERRAT.md",
+          "source_lines": "144-154,185-195",
+          "source_section": "MONTSERRAT",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0131",
+        "name": "Medical",
+        "type": "medical",
+        "location": "MONTSERRAT",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MONTSERRAT.md",
+          "source_lines": "155-167,175-185,321-333",
+          "source_section": "MONTSERRAT",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0132",
+        "name": "Educational",
+        "type": "educational",
+        "location": "MONTSERRAT",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MONTSERRAT.md",
+          "source_lines": "117-127,160-170",
+          "source_section": "MONTSERRAT",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0133",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "NEWFOUNDLAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": "72-82,152-162,467-477,682-696,1169-1181,1187-1198",
+          "source_section": "NEWFOUNDLAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0134",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "NEWFOUNDLAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": "72-82,168-178,198-208,463-479,997-1007,1040-1050,1182-1192",
+          "source_section": "NEWFOUNDLAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0135",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "NEWFOUNDLAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": "7-17,361-377,401-411,682-698,1325-1335,1341-1351,1486-1496",
+          "source_section": "NEWFOUNDLAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0136",
+        "name": "District Court",
+        "type": "court",
+        "location": "NEWFOUNDLAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": "7-17,361-377,401-411,682-698,1325-1335,1341-1351,1486-1496",
+          "source_section": "NEWFOUNDLAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0137",
+        "name": "Police",
+        "type": "police_force",
+        "location": "NEWFOUNDLAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": "1179-1189,1361-1375",
+          "source_section": "NEWFOUNDLAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0138",
+        "name": "Medical",
+        "type": "medical",
+        "location": "NEWFOUNDLAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": "300-310,490-500,546-562,1454-1464,1561-1571",
+          "source_section": "NEWFOUNDLAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0139",
+        "name": "Educational",
+        "type": "educational",
+        "location": "NEWFOUNDLAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": "404-414",
+          "source_section": "NEWFOUNDLAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0140",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "NEWFOUNDLAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": "27-37,43-54,616-629,655-674,1178-1188,1275-1287,1289-1299",
+          "source_section": "NEWFOUNDLAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0141",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "NIGERIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NIGERIA.md",
+          "source_lines": "110-120,219-229,262-272,284-294,1141-1151",
+          "source_section": "NIGERIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0142",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "NIGERIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NIGERIA.md",
+          "source_lines": "93-103,110-120,219-229,305-315,1034-1044,1148-1158",
+          "source_section": "NIGERIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0143",
+        "name": "Police",
+        "type": "police_force",
+        "location": "NIGERIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NIGERIA.md",
+          "source_lines": "386-400,505-527",
+          "source_section": "NIGERIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0144",
+        "name": "Medical",
+        "type": "medical",
+        "location": "NIGERIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NIGERIA.md",
+          "source_lines": "24-34,271-281,312-322,598-646,658-668,1237-1253",
+          "source_section": "NIGERIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0145",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "NIGERIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NIGERIA.md",
+          "source_lines": "58-68,97-122,124-144,147-157,194-212,269-279,739-751,836-846,1056-1066,1069-1079,1133-1143",
+          "source_section": "NIGERIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0146",
+        "name": "District Court",
+        "type": "court",
+        "location": "NORTHERN RHODESIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NORTHERN_RHODESIA.md",
+          "source_lines": "3-24",
+          "source_section": "NORTHERN RHODESIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0147",
+        "name": "Police",
+        "type": "police_force",
+        "location": "NORTHERN RHODESIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NORTHERN_RHODESIA.md",
+          "source_lines": "12-22",
+          "source_section": "NORTHERN RHODESIA",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0148",
+        "name": "Medical",
+        "type": "medical",
+        "location": "NORTHERN RHODESIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NORTHERN_RHODESIA.md",
+          "source_lines": "10-20",
+          "source_section": "NORTHERN RHODESIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0149",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "NORTH BORNEO",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NORTH_BORNEO.md",
+          "source_lines": "58-68,130-144,207-217,323-333,510-521",
+          "source_section": "NORTH BORNEO",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0150",
+        "name": "Police",
+        "type": "police_force",
+        "location": "NORTH BORNEO",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NORTH_BORNEO.md",
+          "source_lines": "74-86,134-144,270-280,503-514",
+          "source_section": "NORTH BORNEO",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0151",
+        "name": "Medical",
+        "type": "medical",
+        "location": "NORTH BORNEO",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NORTH_BORNEO.md",
+          "source_lines": "78-96,255-265,498-509",
+          "source_section": "NORTH BORNEO",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0152",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "NORTH BORNEO",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NORTH_BORNEO.md",
+          "source_lines": "101-116,138-148,254-264,335-345",
+          "source_section": "NORTH BORNEO",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0153",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "SEYCHELLES",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SEYCHELLES.md",
+          "source_lines": "114-124",
+          "source_section": "SEYCHELLES",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0154",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "SEYCHELLES",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SEYCHELLES.md",
+          "source_lines": "38-48,123-133",
+          "source_section": "SEYCHELLES",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0155",
+        "name": "Police",
+        "type": "police_force",
+        "location": "SEYCHELLES",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SEYCHELLES.md",
+          "source_lines": "184-199,206-218",
+          "source_section": "SEYCHELLES",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0156",
+        "name": "Medical",
+        "type": "medical",
+        "location": "SEYCHELLES",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SEYCHELLES.md",
+          "source_lines": "193-203,230-248",
+          "source_section": "SEYCHELLES",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0157",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "SIERRA LEONE",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "52-66,190-208,695-705,1448-1458,1467-1477,2203-2213,2576-2586",
+          "source_section": "SIERRA LEONE",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0158",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "SIERRA LEONE",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "52-70,200-210,213-223,2201-2211,2581-2591,2793-2807",
+          "source_section": "SIERRA LEONE",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0159",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "SIERRA LEONE",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "337-347,351-361,1173-1187,1791-1801,1857-1878,1898-1908,2205-2215,2473-2483,2698-2708,2736-2746,2765-2777",
+          "source_section": "SIERRA LEONE",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0160",
+        "name": "Police",
+        "type": "police_force",
+        "location": "SIERRA LEONE",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "335-375,1144-1158,1910-1922,2685-2695,2725-2735",
+          "source_section": "SIERRA LEONE",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0161",
+        "name": "Medical",
+        "type": "medical",
+        "location": "SIERRA LEONE",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "56-66,207-217,377-395,433-443,661-674,1589-1602,1618-1628,1652-1662,1751-1761,2281-2291,2509-2519",
+          "source_section": "SIERRA LEONE",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0162",
+        "name": "Educational",
+        "type": "educational",
+        "location": "SIERRA LEONE",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "91-101,444-454,2589-2599,2601-2611",
+          "source_section": "SIERRA LEONE",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0163",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "SIERRA LEONE",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "16-26,44-54,91-119,491-501,709-719,786-796,804-828,1217-1227,1454-1464,1564-1575,1579-1589,2010-2023,2576-2586,2683-2693,2740-2750",
+          "source_section": "SIERRA LEONE",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0164",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "ST. HELENA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ST._HELENA.md",
+          "source_lines": "55-65,128-138",
+          "source_section": "ST. HELENA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0165",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "ST. HELENA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ST._HELENA.md",
+          "source_lines": "57-67",
+          "source_section": "ST. HELENA",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0166",
+        "name": "Police",
+        "type": "police_force",
+        "location": "ST. HELENA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ST._HELENA.md",
+          "source_lines": "147-163",
+          "source_section": "ST. HELENA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0167",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "ST. VINCENT",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ST._VINCENT.md",
+          "source_lines": "54-64,151-161",
+          "source_section": "ST. VINCENT",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0168",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "ST. VINCENT",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ST._VINCENT.md",
+          "source_lines": "54-68,161-171",
+          "source_section": "ST. VINCENT",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0169",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "ST. VINCENT",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ST._VINCENT.md",
+          "source_lines": "60-70,204-214",
+          "source_section": "ST. VINCENT",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0170",
+        "name": "Police",
+        "type": "police_force",
+        "location": "ST. VINCENT",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ST._VINCENT.md",
+          "source_lines": "196-208,210-220",
+          "source_section": "ST. VINCENT",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0171",
+        "name": "Medical",
+        "type": "medical",
+        "location": "ST. VINCENT",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ST._VINCENT.md",
+          "source_lines": "217-230,278-288",
+          "source_section": "ST. VINCENT",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0172",
+        "name": "Educational",
+        "type": "educational",
+        "location": "ST. VINCENT",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ST._VINCENT.md",
+          "source_lines": "224-234",
+          "source_section": "ST. VINCENT",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0173",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "STRAITS SETTLEMENTS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/STRAITS_SETTLEMENTS.md",
+          "source_lines": "261-271,273-283",
+          "source_section": "STRAITS SETTLEMENTS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0174",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "STRAITS SETTLEMENTS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/STRAITS_SETTLEMENTS.md",
+          "source_lines": "40-50,271-281",
+          "source_section": "STRAITS SETTLEMENTS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0175",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "STRAITS SETTLEMENTS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/STRAITS_SETTLEMENTS.md",
+          "source_lines": "44-54,611-621,696-706",
+          "source_section": "STRAITS SETTLEMENTS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0176",
+        "name": "Police",
+        "type": "police_force",
+        "location": "STRAITS SETTLEMENTS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/STRAITS_SETTLEMENTS.md",
+          "source_lines": "490-500,591-605,615-625",
+          "source_section": "STRAITS SETTLEMENTS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0177",
+        "name": "Medical",
+        "type": "medical",
+        "location": "STRAITS SETTLEMENTS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/STRAITS_SETTLEMENTS.md",
+          "source_lines": "456-480,486-496,577-593,613-623,656-666",
+          "source_section": "STRAITS SETTLEMENTS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0178",
+        "name": "Educational",
+        "type": "educational",
+        "location": "STRAITS SETTLEMENTS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/STRAITS_SETTLEMENTS.md",
+          "source_lines": "448-458",
+          "source_section": "STRAITS SETTLEMENTS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0179",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "STRAITS SETTLEMENTS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/STRAITS_SETTLEMENTS.md",
+          "source_lines": "141-151",
+          "source_section": "STRAITS SETTLEMENTS",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0180",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "SWAZILAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SWAZILAND.md",
+          "source_lines": "244-254,462-472",
+          "source_section": "SWAZILAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0181",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "SWAZILAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SWAZILAND.md",
+          "source_lines": "244-256,258-271,352-362,470-480",
+          "source_section": "SWAZILAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0182",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "SWAZILAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SWAZILAND.md",
+          "source_lines": "27-48,142-152,244-268,277-287,551-570",
+          "source_section": "SWAZILAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0183",
+        "name": "District Court",
+        "type": "court",
+        "location": "SWAZILAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SWAZILAND.md",
+          "source_lines": "27-48,142-152,244-268,277-287,551-570",
+          "source_section": "SWAZILAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0184",
+        "name": "Police",
+        "type": "police_force",
+        "location": "SWAZILAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SWAZILAND.md",
+          "source_lines": "38-48,166-178,211-223,227-242,556-566",
+          "source_section": "SWAZILAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0185",
+        "name": "Medical",
+        "type": "medical",
+        "location": "SWAZILAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SWAZILAND.md",
+          "source_lines": "148-162,500-510",
+          "source_section": "SWAZILAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0186",
+        "name": "Educational",
+        "type": "educational",
+        "location": "SWAZILAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SWAZILAND.md",
+          "source_lines": "162-172,408-418",
+          "source_section": "SWAZILAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0187",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "SWAZILAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SWAZILAND.md",
+          "source_lines": "25-35,209-219,311-335,448-458",
+          "source_section": "SWAZILAND",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0188",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "THE GAMBIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "253-263",
+          "source_section": "THE GAMBIA",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0189",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "THE GAMBIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "24-34,263-273",
+          "source_section": "THE GAMBIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0190",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "THE GAMBIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "45-55,126-136,267-277,366-390",
+          "source_section": "THE GAMBIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0191",
+        "name": "Police",
+        "type": "police_force",
+        "location": "THE GAMBIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "43-53,370-380,384-402,410-428",
+          "source_section": "THE GAMBIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0192",
+        "name": "Medical",
+        "type": "medical",
+        "location": "THE GAMBIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/THE_GAMBIA.md",
+          "source_lines": "427-441,445-457,459-469",
+          "source_section": "THE GAMBIA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0193",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "TOBAGO",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/TOBAGO.md",
+          "source_lines": "152-162",
+          "source_section": "TOBAGO",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0194",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "TOBAGO",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/TOBAGO.md",
+          "source_lines": "43-55,163-173",
+          "source_section": "TOBAGO",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0195",
+        "name": "District Court",
+        "type": "court",
+        "location": "TOBAGO",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/TOBAGO.md",
+          "source_lines": "314-324,776-786,807-817",
+          "source_section": "TOBAGO",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0196",
+        "name": "Medical",
+        "type": "medical",
+        "location": "TOBAGO",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/TOBAGO.md",
+          "source_lines": "964-979,986-1012,1059-1069,1076-1099,1180-1190",
+          "source_section": "TOBAGO",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0197",
+        "name": "Educational",
+        "type": "educational",
+        "location": "TOBAGO",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/TOBAGO.md",
+          "source_lines": "894-904",
+          "source_section": "TOBAGO",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0198",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "TOBAGO",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/TOBAGO.md",
+          "source_lines": "517-527,618-628,656-666",
+          "source_section": "TOBAGO",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0199",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "TURKS AND CAICOS ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/TURKS_AND_CAICOS_ISLANDS.md",
+          "source_lines": "48-58",
+          "source_section": "TURKS AND CAICOS ISLANDS",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0200",
+        "name": "Police",
+        "type": "police_force",
+        "location": "TURKS AND CAICOS ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/TURKS_AND_CAICOS_ISLANDS.md",
+          "source_lines": "81-102",
+          "source_section": "TURKS AND CAICOS ISLANDS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0201",
+        "name": "Medical",
+        "type": "medical",
+        "location": "TURKS AND CAICOS ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/TURKS_AND_CAICOS_ISLANDS.md",
+          "source_lines": "83-94",
+          "source_section": "TURKS AND CAICOS ISLANDS",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0202",
+        "name": "Police",
+        "type": "police_force",
+        "location": "UGANDA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/UGANDA.md",
+          "source_lines": "246-261",
+          "source_section": "UGANDA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0203",
+        "name": "Medical",
+        "type": "medical",
+        "location": "UGANDA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/UGANDA.md",
+          "source_lines": "40-50,209-232,242-252",
+          "source_section": "UGANDA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0204",
+        "name": "Railway",
+        "type": "public_works",
+        "location": "UGANDA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/UGANDA.md",
+          "source_lines": "60-70,402-420",
+          "source_section": "UGANDA",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0205",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "WEIHAIWEI",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/WEIHAIWEI.md",
+          "source_lines": "434-444,515-525,768-778,862-872",
+          "source_section": "WEIHAIWEI",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0206",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "WEIHAIWEI",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/WEIHAIWEI.md",
+          "source_lines": "432-448,524-534,872-882",
+          "source_section": "WEIHAIWEI",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0207",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "WEIHAIWEI",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/WEIHAIWEI.md",
+          "source_lines": "25-35,65-87,130-140,198-208,245-260,290-302,340-350,669-679,766-778,917-927,979-989,993-1003",
+          "source_section": "WEIHAIWEI",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0208",
+        "name": "District Court",
+        "type": "court",
+        "location": "WEIHAIWEI",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/WEIHAIWEI.md",
+          "source_lines": "25-35,65-87,130-140,198-208,245-260,290-302,340-350,669-679,766-778,917-927,979-989,993-1003",
+          "source_section": "WEIHAIWEI",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0209",
+        "name": "Police",
+        "type": "police_force",
+        "location": "WEIHAIWEI",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/WEIHAIWEI.md",
+          "source_lines": "59-69,178-188,245-255,531-541,631-644,677-687,1025-1037",
+          "source_section": "WEIHAIWEI",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "institution_0210",
+        "name": "Medical",
+        "type": "medical",
+        "location": "WEIHAIWEI",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/WEIHAIWEI.md",
+          "source_lines": "55-65,148-170,214-224,615-630,642-652,1005-1023",
+          "source_section": "WEIHAIWEI",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [],
+    "infrastructure": [
+      {
+        "id": "infrastructure_0001",
+        "type": "harbour",
+        "location": "ANTIGUA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ANTIGUA.md",
+          "source_lines": null,
+          "source_section": "ANTIGUA",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0002",
+        "type": "railway",
+        "location": "AUSTRALIA",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 357.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/AUSTRALIA.md",
+          "source_lines": null,
+          "source_section": "AUSTRALIA",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0003",
+        "type": "telegraph",
+        "location": "BAHAMAS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BAHAMAS.md",
+          "source_lines": null,
+          "source_section": "BAHAMAS",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0004",
+        "type": "railway",
+        "location": "BARBADOS",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 28.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BARBADOS.md",
+          "source_lines": null,
+          "source_section": "BARBADOS",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0005",
+        "type": "railway",
+        "location": "BASUTOLAND",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BASUTOLAND.md",
+          "source_lines": null,
+          "source_section": "BASUTOLAND",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0006",
+        "type": "telegraph",
+        "location": "BERMUDA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BERMUDA.md",
+          "source_lines": null,
+          "source_section": "BERMUDA",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0007",
+        "type": "railway",
+        "location": "BRITISH GUIANA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_GUIANA.md",
+          "source_lines": null,
+          "source_section": "BRITISH GUIANA",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0008",
+        "type": "railway",
+        "location": "BRITISH HONDURAS",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 25.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": null,
+          "source_section": "BRITISH HONDURAS",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0009",
+        "type": "postal",
+        "location": "CAYMAN ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CAYMAN_ISLANDS.md",
+          "source_lines": null,
+          "source_section": "CAYMAN ISLANDS",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0010",
+        "type": "railway",
+        "location": "CEYLON",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 20.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CEYLON.md",
+          "source_lines": null,
+          "source_section": "CEYLON",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0011",
+        "type": "railway",
+        "location": "CYPRUS",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 36.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/CYPRUS.md",
+          "source_lines": null,
+          "source_section": "CYPRUS",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0012",
+        "type": "road",
+        "location": "DOMINICA",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 15.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINICA.md",
+          "source_lines": null,
+          "source_section": "DOMINICA",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0013",
+        "type": "railway",
+        "location": "DOMINION OF CANADA",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 566.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/DOMINION_OF_CANADA.md",
+          "source_lines": null,
+          "source_section": "DOMINION OF CANADA",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0014",
+        "type": "railway",
+        "location": "EAST AFRICA PROTECTORATE",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 90.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/EAST_AFRICA_PROTECTORATE.md",
+          "source_lines": null,
+          "source_section": "EAST AFRICA PROTECTORATE",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0015",
+        "type": "postal",
+        "location": "FALKLAND ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/FALKLAND_ISLANDS.md",
+          "source_lines": null,
+          "source_section": "FALKLAND ISLANDS",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0016",
+        "type": "telegraph",
+        "location": "FIJI",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 54.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/FIJI.md",
+          "source_lines": null,
+          "source_section": "FIJI",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0017",
+        "type": "railway",
+        "location": "GIBRALTAR",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 40.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/GIBRALTAR.md",
+          "source_lines": null,
+          "source_section": "GIBRALTAR",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0018",
+        "type": "railway",
+        "location": "HONG KONG",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/HONG_KONG.md",
+          "source_lines": null,
+          "source_section": "HONG KONG",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0019",
+        "type": "railway",
+        "location": "JAMAICA",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 13.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/JAMAICA.md",
+          "source_lines": null,
+          "source_section": "JAMAICA",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0020",
+        "type": "railway",
+        "location": "LABUAN",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 120.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/LABUAN.md",
+          "source_lines": null,
+          "source_section": "LABUAN",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0021",
+        "type": "railway",
+        "location": "MALTA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MALTA.md",
+          "source_lines": null,
+          "source_section": "MALTA",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0022",
+        "type": "railway",
+        "location": "MAURITIUS",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 621.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MAURITIUS.md",
+          "source_lines": null,
+          "source_section": "MAURITIUS",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0023",
+        "type": "harbour",
+        "location": "MONTSERRAT",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/MONTSERRAT.md",
+          "source_lines": null,
+          "source_section": "MONTSERRAT",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0024",
+        "type": "railway",
+        "location": "NEWFOUNDLAND",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 200.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NEWFOUNDLAND.md",
+          "source_lines": null,
+          "source_section": "NEWFOUNDLAND",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0025",
+        "type": "railway",
+        "location": "NIGERIA",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 22.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NIGERIA.md",
+          "source_lines": null,
+          "source_section": "NIGERIA",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0026",
+        "type": "telegraph",
+        "location": "NORTHERN RHODESIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NORTHERN_RHODESIA.md",
+          "source_lines": null,
+          "source_section": "NORTHERN RHODESIA",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0027",
+        "type": "railway",
+        "location": "NORTH BORNEO",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 20.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/NORTH_BORNEO.md",
+          "source_lines": null,
+          "source_section": "NORTH BORNEO",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0028",
+        "type": "telegraph",
+        "location": "SEYCHELLES",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SEYCHELLES.md",
+          "source_lines": null,
+          "source_section": "SEYCHELLES",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0029",
+        "type": "railway",
+        "location": "SIERRA LEONE",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 5.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": null,
+          "source_section": "SIERRA LEONE",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0030",
+        "type": "telegraph",
+        "location": "ST. HELENA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ST._HELENA.md",
+          "source_lines": null,
+          "source_section": "ST. HELENA",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0031",
+        "type": "postal",
+        "location": "ST. VINCENT",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ST._VINCENT.md",
+          "source_lines": null,
+          "source_section": "ST. VINCENT",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0032",
+        "type": "railway",
+        "location": "STRAITS SETTLEMENTS",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 23.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/STRAITS_SETTLEMENTS.md",
+          "source_lines": null,
+          "source_section": "STRAITS SETTLEMENTS",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0033",
+        "type": "railway",
+        "location": "SWAZILAND",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 362.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/SWAZILAND.md",
+          "source_lines": null,
+          "source_section": "SWAZILAND",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0034",
+        "type": "telegraph",
+        "location": "THE GAMBIA",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/THE_GAMBIA.md",
+          "source_lines": null,
+          "source_section": "THE GAMBIA",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0035",
+        "type": "railway",
+        "location": "TOBAGO",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/TOBAGO.md",
+          "source_lines": null,
+          "source_section": "TOBAGO",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0036",
+        "type": "harbour",
+        "location": "TURKS AND CAICOS ISLANDS",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/TURKS_AND_CAICOS_ISLANDS.md",
+          "source_lines": null,
+          "source_section": "TURKS AND CAICOS ISLANDS",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0037",
+        "type": "railway",
+        "location": "UGANDA",
+        "year": "1918",
+        "specifications": {
+          "length": {
+            "value": 584.0,
+            "unit": "miles"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/UGANDA.md",
+          "source_lines": null,
+          "source_section": "UGANDA",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0038",
+        "type": "postal",
+        "location": "WEIHAIWEI",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/WEIHAIWEI.md",
+          "source_lines": null,
+          "source_section": "WEIHAIWEI",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      },
+      {
+        "id": "infrastructure_0039",
+        "type": "port",
+        "location": "ZANZIBAR",
+        "year": "1918",
+        "provenance": {
+          "source_file": "output_2/1918_manual_parsed/ZANZIBAR.md",
+          "source_lines": null,
+          "source_section": "ZANZIBAR",
+          "extraction_confidence": 0.0,
+          "extraction_date": "2025-11-17",
+          "extraction_agent": "provenance_linker_1918_1927",
+          "verification_status": "needs_review",
+          "notes": "Entity terms not found in source file"
+        }
+      }
+    ],
+    "demographics": [],
+    "events": []
+  },
+  "relationships": []
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "year": 1867,
+    "original_count": 2095,
+    "new_count": 0,
+    "total_count": 2095,
+    "colonies_processed": 48
+  },
+  {
+    "year": 1877,
+    "original_count": 2565,
+    "new_count": 0,
+    "total_count": 2565,
+    "colonies_processed": 34
+  },
+  {
+    "year": 1880,
+    "original_count": 3083,
+    "new_count": 0,
+    "total_count": 3083,
+    "colonies_processed": 36
+  },
+  {
+    "year": 1883,
+    "original_count": 3327,
+    "new_count": 54,
+    "total_count": 3381,
+    "colonies_processed": 42
+  },
+  {
+    "year": 1886,
+    "original_count": 3741,
+    "new_count": 54,
+    "total_count": 3795,
+    "colonies_processed": 36
+  },
+  {
+    "year": 1888,
+    "original_count": 3950,
+    "new_count": 61,
+    "total_count": 4011,
+    "colonies_processed": 38
+  },
+  {
+    "year": 1889,
+    "original_count": 3770,
+    "new_count": 55,
+    "total_count": 3825,
+    "colonies_processed": 31
+  },
+  {
+    "year": 1890,
+    "original_count": 3907,
+    "new_count": 51,
+    "total_count": 3958,
+    "colonies_processed": 33
+  }
+]

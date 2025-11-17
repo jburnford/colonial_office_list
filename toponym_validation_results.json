@@ -1,0 +1,914 @@
+{
+  "years_analyzed": [
+    1867,
+    1877,
+    1880,
+    1883,
+    1886,
+    1888,
+    1889,
+    1890
+  ],
+  "summary": {
+    "total_original": 99,
+    "total_enhanced": 26713,
+    "total_new": 26614,
+    "percent_increase": 26882.828282828286
+  },
+  "yearly_results": [
+    {
+      "year": 1867,
+      "original_places": 36,
+      "v3_places": 2095,
+      "new_places": 2059,
+      "place_types": {
+        "colony": 339,
+        "city": 292,
+        "island": 311,
+        "harbor": 1,
+        "dependency": 1,
+        "settlement": 5,
+        "place": 342,
+        "district": 412,
+        "bay": 137,
+        "mountain": 75,
+        "cape": 79,
+        "river": 65,
+        "lake": 2,
+        "fort": 32,
+        "forest": 2
+      },
+      "colonies_covered": [
+        "unknown",
+        "place_antigua_001",
+        "place_bahamas_001",
+        "place_barbados_001",
+        "place_bermudas_001",
+        "place_british_columbia_001",
+        "place_british_guiana_001",
+        "place_canada_001",
+        "place_cape_001",
+        "place_ceylon_001",
+        "place_dominica_001",
+        "place_gold_coast_001",
+        "place_grenada_001",
+        "place_honduras_001",
+        "place_jamaica_001",
+        "BERMUDAS",
+        "BRITISH_COLUMBIA",
+        "NOVA_SCOTIA",
+        "CAPE_OF_GOOD_HOPE",
+        "GOLD_COAST",
+        "JAMAICA",
+        "MAURITIUS",
+        "NATAL",
+        "NEW_BRUNSWICK",
+        "TASMANIA"
+      ],
+      "extraction_agents": {
+        "provenance_linker_1867_1890": 36,
+        "toponym_discovery_1867_1890": 2045,
+        "comprehensive_toponym_extractor_1867_1890": 14
+      },
+      "sample_toponyms": [
+        {
+          "colony": "unknown",
+          "count": 2064,
+          "examples": [
+            "Antigua",
+            "Bahamas",
+            "Barbados",
+            "Bermudas",
+            "British Columbia",
+            "British Guiana",
+            "Bulama",
+            "Canada",
+            "Cape of Good Hope",
+            "Ceylon"
+          ]
+        },
+        {
+          "colony": "MAURITIUS",
+          "count": 3,
+          "examples": [
+            "The Seychelles",
+            "Senior District",
+            "Junior District"
+          ]
+        },
+        {
+          "colony": "place_bahamas_001",
+          "count": 2,
+          "examples": [
+            "Nassau",
+            "New Providence"
+          ]
+        }
+      ],
+      "colonies_count": 25
+    },
+    {
+      "year": 1877,
+      "original_places": 0,
+      "v3_places": 2565,
+      "new_places": 2565,
+      "place_types": {
+        "city": 396,
+        "island": 296,
+        "place": 466,
+        "bay": 157,
+        "district": 524,
+        "colony": 375,
+        "fort": 35,
+        "river": 90,
+        "cape": 139,
+        "mountain": 70,
+        "lake": 3,
+        "forest": 1,
+        "settlement": 12,
+        "parish": 1
+      },
+      "colonies_covered": [
+        "unknown",
+        "BERMUDAS",
+        "CAPE_OF_GOOD_HOPE",
+        "DOMINION_OF_CANADA",
+        "GRIQUALAND_WEST",
+        "HONG_KONG",
+        "JAMAICA",
+        "LABUAN",
+        "MAURITIUS",
+        "NEWFOUNDLAND",
+        "NEW_ZEALAND",
+        "Natal",
+        "QUEENSLAND",
+        "Seychelles",
+        "THE_GOLD_COAST_COLONY",
+        "TRINIDAD",
+        "Tasmania"
+      ],
+      "extraction_agents": {
+        "toponym_discovery_1867_1890": 2535,
+        "comprehensive_toponym_extractor_1867_1890": 30
+      },
+      "sample_toponyms": [
+        {
+          "colony": "unknown",
+          "count": 2535,
+          "examples": [
+            "New Providence",
+            "Nassau",
+            "Abaco",
+            "Harbour Island",
+            "Eleuthera",
+            "Inagua",
+            "Mayaguana",
+            "Salvador",
+            "Andros Island",
+            "Great"
+          ]
+        },
+        {
+          "colony": "DOMINION_OF_CANADA",
+          "count": 7,
+          "examples": [
+            "North West",
+            "Red River",
+            "Executive Authority",
+            "John Gillies",
+            "Arthur Hill",
+            "Peter Mitchell",
+            "John Burgess"
+          ]
+        },
+        {
+          "colony": "MAURITIUS",
+          "count": 3,
+          "examples": [
+            "The Seychelles",
+            "Senior District",
+            "Junior District"
+          ]
+        }
+      ],
+      "colonies_count": 17
+    },
+    {
+      "year": 1880,
+      "original_places": 46,
+      "v3_places": 3083,
+      "new_places": 3037,
+      "place_types": {
+        "island": 304,
+        "territory": 3,
+        "colony": 454,
+        "city": 472,
+        "dominion": 1,
+        "administrative_unit": 1,
+        "place": 497,
+        "bay": 180,
+        "district": 730,
+        "fort": 30,
+        "river": 116,
+        "cape": 178,
+        "mountain": 92,
+        "lake": 3,
+        "forest": 4,
+        "settlement": 17,
+        "parish": 1
+      },
+      "colonies_covered": [
+        "unknown",
+        "place_bahamas",
+        "place_cape_of_good_hope",
+        "place_natal",
+        "place_trinidad",
+        "place_new_south_wales",
+        "place_victoria",
+        "place_queensland",
+        "place_straits_settlements",
+        "BERMUDAS",
+        "CAPE_OF_GOOD_HOPE",
+        "DOMINION_OF_CANADA",
+        "FIJI",
+        "GRIQUALAND_WEST",
+        "HONG_KONG",
+        "JAMAICA",
+        "LABUAN",
+        "MAURITIUS",
+        "NATAL",
+        "NEWFOUNDLAND",
+        "NEW_SOUTH_WALES",
+        "STRAITS_SETTLEMENTS",
+        "TASMANIA",
+        "THE_GOLD_COAST_COLONY",
+        "TURKS_AND_CAICOS_ISLANDS",
+        "VICTORIA"
+      ],
+      "extraction_agents": {
+        "provenance_linker_1867_1890": 46,
+        "toponym_discovery_1867_1890": 2996,
+        "comprehensive_toponym_extractor_1867_1890": 41
+      },
+      "sample_toponyms": [
+        {
+          "colony": "unknown",
+          "count": 3033,
+          "examples": [
+            "Heligoland",
+            "Gibraltar",
+            "Bahamas",
+            "Jamaica",
+            "Bermudas",
+            "British Guiana",
+            "Ceylon",
+            "Fiji Islands",
+            "Falkland Islands",
+            "Hong Kong"
+          ]
+        },
+        {
+          "colony": "DOMINION_OF_CANADA",
+          "count": 9,
+          "examples": [
+            "The North",
+            "North West",
+            "Red River",
+            "Executive Authority",
+            "John Gillies",
+            "Sir Albert",
+            "John Burgess",
+            "Mille Isles",
+            "Quebec West Arthur"
+          ]
+        },
+        {
+          "colony": "MAURITIUS",
+          "count": 6,
+          "examples": [
+            "The Seychelles",
+            "At Curepipe",
+            "Lord Westbury",
+            "Senior District",
+            "Junior District",
+            "The District"
+          ]
+        }
+      ],
+      "colonies_count": 26
+    },
+    {
+      "year": 1883,
+      "original_places": 0,
+      "v3_places": 3381,
+      "new_places": 3381,
+      "place_types": {
+        "city": 513,
+        "island": 371,
+        "place": 554,
+        "colony": 467,
+        "district": 750,
+        "river": 132,
+        "bay": 215,
+        "cape": 203,
+        "mountain": 89,
+        "fort": 44,
+        "lake": 9,
+        "settlement": 27,
+        "forest": 5,
+        "parish": 1,
+        "estate": 1
+      },
+      "colonies_covered": [
+        "unknown",
+        "BERMUDA",
+        "CANADA",
+        "CAPE_OF_GOOD_HOPE",
+        "CEYLON",
+        "GOLD_COAST_COLONY",
+        "HONG_KONG",
+        "JAMAICA",
+        "LABUAN",
+        "LAGOS",
+        "LEEWARD_ISLANDS",
+        "MAURITIUS",
+        "NATAL",
+        "NEW_SOUTH_WALES",
+        "NEW_ZEALAND",
+        "TASMANIA",
+        "TOBAGO",
+        "TRANSVAAL_STATE",
+        "TURKS_AND_CAICOS_ISLANDS",
+        "VICTORIA"
+      ],
+      "extraction_agents": {
+        "toponym_discovery_1867_1890": 3327,
+        "comprehensive_toponym_extractor_1867_1890": 54
+      },
+      "sample_toponyms": [
+        {
+          "colony": "unknown",
+          "count": 3327,
+          "examples": [
+            "New Providence",
+            "Nassau",
+            "Abaco",
+            "Harbour Island",
+            "Eleuthera",
+            "Inagua",
+            "Mayaguana",
+            "Andros Island",
+            "Great Bahama",
+            "Ragged"
+          ]
+        },
+        {
+          "colony": "CAPE_OF_GOOD_HOPE",
+          "count": 9,
+          "examples": [
+            "Western System",
+            "At Port",
+            "Old De Beer",
+            "Dried Fruits",
+            "Judge Presidents",
+            "George Wood",
+            "Henry Thos",
+            "West Fynn",
+            "George Frederick Russ"
+          ]
+        },
+        {
+          "colony": "CANADA",
+          "count": 8,
+          "examples": [
+            "The North",
+            "Red River",
+            "Executive Authority",
+            "Joseph Northwood",
+            "Sidney Smith",
+            "John Burges",
+            "Mille Isles",
+            "West Mounted Police"
+          ]
+        }
+      ],
+      "colonies_count": 20
+    },
+    {
+      "year": 1886,
+      "original_places": 17,
+      "v3_places": 3795,
+      "new_places": 3778,
+      "place_types": {
+        "colony": 487,
+        "island": 399,
+        "city": 654,
+        "town": 1,
+        "place": 602,
+        "district": 797,
+        "river": 162,
+        "cape": 212,
+        "bay": 275,
+        "mountain": 118,
+        "fort": 43,
+        "lake": 5,
+        "settlement": 34,
+        "forest": 3,
+        "parish": 3
+      },
+      "colonies_covered": [
+        "unknown",
+        "place_lagos_001",
+        "place_victoria_001",
+        "place_western_australia_001",
+        "place_sierra_leone_001",
+        "place_gambia_001",
+        "place_st_vincent_001",
+        "BERMUDA",
+        "BRITISH_GUIANA",
+        "BRITISH_HONDURAS",
+        "CAPE_OF_GOOD_HOPE",
+        "CEYLON",
+        "CYPRUS",
+        "DOMINION_OF_CANADA",
+        "GIBRALTAR",
+        "JAMAICA",
+        "LABUAN",
+        "LAGOS",
+        "LEEWARD_ISLANDS",
+        "MAURITIUS",
+        "NATAL",
+        "NEW_SOUTH_WALES",
+        "NEW_ZEALAND",
+        "SOUTH_AUSTRALIA",
+        "STRAITS_SETTLEMENTS",
+        "TASMANIA",
+        "TURKS_AND_CAICOS_ISLANDS",
+        "VICTORIA",
+        "WINDWARD_ISLANDS"
+      ],
+      "extraction_agents": {
+        "provenance_linker_1867_1890": 17,
+        "toponym_discovery_1867_1890": 3724,
+        "comprehensive_toponym_extractor_1867_1890": 54
+      },
+      "sample_toponyms": [
+        {
+          "colony": "unknown",
+          "count": 3735,
+          "examples": [
+            "Hong Kong",
+            "Jamaica",
+            "Labuan",
+            "Lagos",
+            "Turks and Caicos Islands",
+            "Victoria",
+            "Western Australia",
+            "Sierra Leone",
+            "The Gambia",
+            "Grenada"
+          ]
+        },
+        {
+          "colony": "DOMINION_OF_CANADA",
+          "count": 11,
+          "examples": [
+            "The North",
+            "By Order",
+            "Executive Authority",
+            "South Down",
+            "George Guillot",
+            "Peter Mitchell",
+            "Sidney Smith",
+            "John Burgess",
+            "John Gillies",
+            "Mille Isles"
+          ]
+        },
+        {
+          "colony": "NEW_SOUTH_WALES",
+          "count": 6,
+          "examples": [
+            "West Sydney",
+            "South Sydney",
+            "Robert Henry",
+            "John Higgs",
+            "Volunteer Artillery",
+            "Frederick Wells"
+          ]
+        }
+      ],
+      "colonies_count": 29
+    },
+    {
+      "year": 1888,
+      "original_places": 0,
+      "v3_places": 4011,
+      "new_places": 4011,
+      "place_types": {
+        "city": 721,
+        "island": 415,
+        "place": 642,
+        "colony": 611,
+        "district": 729,
+        "river": 192,
+        "bay": 266,
+        "cape": 209,
+        "mountain": 119,
+        "fort": 57,
+        "lake": 9,
+        "settlement": 35,
+        "forest": 3,
+        "parish": 3
+      },
+      "colonies_covered": [
+        "unknown",
+        "BASUTOLAND",
+        "BERMUDA",
+        "BRITISH_GUIANA",
+        "BRITISH_HONDURAS",
+        "CAPE_OF_GOOD_HOPE",
+        "CYPRUS",
+        "DOMINION_OF_CANADA",
+        "FALKLAND_ISLANDS",
+        "HONG_KONG",
+        "JAMAICA",
+        "MAURITIUS",
+        "NATAL",
+        "NEWFOUNDLAND",
+        "NEW_SOUTH_WALES",
+        "NEW_ZEALAND",
+        "SOUTH_AUSTRALIA",
+        "ST._HELENA",
+        "STRAITS_SETTLEMENTS",
+        "TASMANIA",
+        "THE_GOLD_COAST_COLONY",
+        "TURKS_AND_CAICOS_ISLANDS",
+        "VICTORIA",
+        "WEST_AFRICA_SETTLEMENTS",
+        "ZULULAND"
+      ],
+      "extraction_agents": {
+        "toponym_discovery_1867_1890": 3950,
+        "comprehensive_toponym_extractor_1867_1890": 61
+      },
+      "sample_toponyms": [
+        {
+          "colony": "unknown",
+          "count": 3950,
+          "examples": [
+            "New Providence",
+            "Nassau",
+            "Abaco",
+            "Harbour Island",
+            "Eleuthera",
+            "Inagua",
+            "Mayaguana",
+            "Ragged Island",
+            "Rum Cay",
+            "Exuma"
+          ]
+        },
+        {
+          "colony": "DOMINION_OF_CANADA",
+          "count": 10,
+          "examples": [
+            "By Order",
+            "South Down",
+            "George Guillet",
+            "Peter Mitchell",
+            "Sidney Smith",
+            "John Burgess",
+            "Mille Isles",
+            "Quebec West",
+            "Colchester County",
+            "John City"
+          ]
+        },
+        {
+          "colony": "CAPE_OF_GOOD_HOPE",
+          "count": 5,
+          "examples": [
+            "At Port",
+            "Puiseux Judges",
+            "Chief Kreli",
+            "John Tudhope",
+            "United Western"
+          ]
+        }
+      ],
+      "colonies_count": 25
+    },
+    {
+      "year": 1889,
+      "original_places": 0,
+      "v3_places": 3825,
+      "new_places": 3825,
+      "place_types": {
+        "city": 754,
+        "island": 339,
+        "place": 561,
+        "colony": 588,
+        "district": 672,
+        "river": 192,
+        "fort": 68,
+        "cape": 203,
+        "bay": 271,
+        "mountain": 130,
+        "lake": 11,
+        "settlement": 31,
+        "forest": 3,
+        "parish": 2
+      },
+      "colonies_covered": [
+        "unknown",
+        "BASUTOLAND",
+        "BERMUDA",
+        "BRITISH_GUIANA",
+        "BRITISH_HONDURAS",
+        "CAPE_OF_GOOD_HOPE",
+        "DOMINION_OF_CANADA",
+        "FALKLAND_ISLANDS",
+        "HONG_KONG",
+        "JAMAICA",
+        "MAURITIUS",
+        "NEWFOUNDLAND",
+        "SOUTH_AUSTRALIA",
+        "THE_GOLD_COAST_COLONY",
+        "TURKS_AND_CAICOS_ISLANDS",
+        "WESTERN_AUSTRALIA",
+        "ZULULAND"
+      ],
+      "extraction_agents": {
+        "toponym_discovery_1867_1890": 3770,
+        "comprehensive_toponym_extractor_1867_1890": 55
+      },
+      "sample_toponyms": [
+        {
+          "colony": "unknown",
+          "count": 3770,
+          "examples": [
+            "New Providence",
+            "Nassau",
+            "Abaco",
+            "Harbour Island",
+            "Eleuthera",
+            "Inagua",
+            "Mayaguana",
+            "Ragged Island",
+            "Rum Cay",
+            "Exuma"
+          ]
+        },
+        {
+          "colony": "DOMINION_OF_CANADA",
+          "count": 9,
+          "examples": [
+            "By Order",
+            "South Down",
+            "George Guillet",
+            "Peter Mitchell",
+            "Sidney Smith",
+            "John Burgess",
+            "Mille Isles",
+            "Quebec West",
+            "Colchester County"
+          ]
+        },
+        {
+          "colony": "CAPE_OF_GOOD_HOPE",
+          "count": 8,
+          "examples": [
+            "At Port",
+            "The River",
+            "Puise Judges",
+            "Chief Kreli",
+            "Cecil John Rhodes",
+            "Correlis Pieter Smuts",
+            "Somerset West",
+            "United Western"
+          ]
+        }
+      ],
+      "colonies_count": 17
+    },
+    {
+      "year": 1890,
+      "original_places": 0,
+      "v3_places": 3958,
+      "new_places": 3958,
+      "place_types": {
+        "city": 762,
+        "island": 346,
+        "place": 589,
+        "colony": 610,
+        "district": 716,
+        "river": 200,
+        "fort": 66,
+        "cape": 207,
+        "bay": 232,
+        "mountain": 180,
+        "lake": 19,
+        "settlement": 24,
+        "forest": 5,
+        "parish": 2
+      },
+      "colonies_covered": [
+        "unknown",
+        "BASUTOLAND",
+        "BRITISH_GUIANA",
+        "BRITISH_HONDURAS",
+        "BRITISH_NEW_GUINEA",
+        "CAPE_OF_GOOD_HOPE",
+        "DOMINION_OF_CANADA",
+        "FALKLAND_ISLANDS",
+        "HONG_KONG",
+        "MAURITIUS",
+        "STRAITS_SETTLEMENTS",
+        "NATAL",
+        "NEWFOUNDLAND",
+        "NEW_ZEALAND",
+        "SOUTH_AUSTRALIA",
+        "TASMANIA",
+        "THE_GOLD_COAST_COLONY",
+        "TURKS_AND_CAICOS_ISLANDS",
+        "VICTORIA",
+        "WESTERN_AUSTRALIA",
+        "ZULULAND"
+      ],
+      "extraction_agents": {
+        "toponym_discovery_1867_1890": 3907,
+        "comprehensive_toponym_extractor_1867_1890": 51
+      },
+      "sample_toponyms": [
+        {
+          "colony": "unknown",
+          "count": 3907,
+          "examples": [
+            "New Providence",
+            "Nassau",
+            "Abaco",
+            "Harbour Island",
+            "Eleuthera",
+            "Inagua",
+            "Mayaguana",
+            "Ragged Island",
+            "Rum Cay",
+            "Exuma"
+          ]
+        },
+        {
+          "colony": "DOMINION_OF_CANADA",
+          "count": 11,
+          "examples": [
+            "By Order",
+            "South Down",
+            "George Guillet",
+            "Sidney Smith",
+            "John Burgess",
+            "Mille Isles",
+            "Quebec West",
+            "John County",
+            "Cypress Woods",
+            "John Secord"
+          ]
+        },
+        {
+          "colony": "CAPE_OF_GOOD_HOPE",
+          "count": 6,
+          "examples": [
+            "At Port",
+            "The River",
+            "Chief Kreli",
+            "Cecil John Rhodes",
+            "Chief Forest",
+            "United Western"
+          ]
+        }
+      ],
+      "colonies_count": 21
+    }
+  ],
+  "potential_gaps_sample": [
+    {
+      "name": "Santa Maria La Antigua",
+      "colony": "ANTIGUA",
+      "context": "An island situated in W. long. 61\u00b0 45', and N. lat. 17\u00b0 6'. It is about 54 miles in circumference. A",
+      "line": 3
+    },
+    {
+      "name": "Medical Relief",
+      "colony": "ANTIGUA",
+      "context": "An island situated in W. long. 61\u00b0 45', and N. lat. 17\u00b0 6'. It is about 54 miles in circumference. A",
+      "line": 3
+    },
+    {
+      "name": "Established Church",
+      "colony": "ANTIGUA",
+      "context": "The Revenue of the Colony is derived from the following sources, viz., under an Act passed in 1799, ",
+      "line": 5
+    },
+    {
+      "name": "Militia Cavalry Corps",
+      "colony": "ANTIGUA",
+      "context": "The Revenue of the Colony is derived from the following sources, viz., under an Act passed in 1799, ",
+      "line": 5
+    },
+    {
+      "name": "Five Islands",
+      "colony": "ANTIGUA",
+      "context": "| Five Islands | 1 | 4 |",
+      "line": 24
+    },
+    {
+      "name": "James Verchill",
+      "colony": "ANTIGUA",
+      "context": "1766 James Verchill.",
+      "line": 58
+    },
+    {
+      "name": "Colonial Office List",
+      "colony": "ANTIGUA",
+      "context": "* Since this portion of the Colonial Office List was sent to the printer, a local Act has been recei",
+      "line": 69
+    },
+    {
+      "name": "Single Chamber",
+      "colony": "ANTIGUA",
+      "context": "* Since this portion of the Colonial Office List was sent to the printer, a local Act has been recei",
+      "line": 69
+    },
+    {
+      "name": "Landing Waiters",
+      "colony": "ANTIGUA",
+      "context": "Landing Waiters, J. Athill, 100l.",
+      "line": 187
+    },
+    {
+      "name": "Caicos Islands",
+      "colony": "BAHAMAS",
+      "context": "In 1848 the Turks and Caicos Islands were separated from the other Bahamas, and formed into a distin",
+      "line": 6
+    },
+    {
+      "name": "Caribbee Islands",
+      "colony": "BARBADOS",
+      "context": "Is situated in latitude 13\u00b0 4' North and longitude 59\u00b0 37' West, and is the most windward of the Car",
+      "line": 3
+    },
+    {
+      "name": "Sir William Courteen",
+      "colony": "BARBADOS",
+      "context": "The exact date of the discovery of Barbados is not known, but the first indication of its existence ",
+      "line": 5
+    },
+    {
+      "name": "Lord Chamberlain",
+      "colony": "BARBADOS",
+      "context": "The exact date of the discovery of Barbados is not known, but the first indication of its existence ",
+      "line": 5
+    },
+    {
+      "name": "Colonial Treasury",
+      "colony": "BARBADOS",
+      "context": "Barbados possesses a college founded by General Codrington, a native of the island, who died in 1710",
+      "line": 22
+    },
+    {
+      "name": "Codrington Collegiate Grammar School",
+      "colony": "BARBADOS",
+      "context": "Barbados possesses a college founded by General Codrington, a native of the island, who died in 1710",
+      "line": 22
+    },
+    {
+      "name": "Post Office",
+      "colony": "BARBADOS",
+      "context": "An inland Post Office was first set on foot in 1852; it has since been amalgamated with the General ",
+      "line": 26
+    },
+    {
+      "name": "The Local Government",
+      "colony": "BARBADOS",
+      "context": "The Local Government of Barbados consists of a Governor (who is also Governor-in-Chief of St. Vincen",
+      "line": 34
+    },
+    {
+      "name": "Criminal Sessions",
+      "colony": "BARBADOS",
+      "context": "The Local Government of Barbados consists of a Governor (who is also Governor-in-Chief of St. Vincen",
+      "line": 34
+    },
+    {
+      "name": "The Assembly",
+      "colony": "BARBADOS",
+      "context": "The Local Government of Barbados consists of a Governor (who is also Governor-in-Chief of St. Vincen",
+      "line": 34
+    },
+    {
+      "name": "Franchise Act",
+      "colony": "BARBADOS",
+      "context": "The Local Government of Barbados consists of a Governor (who is also Governor-in-Chief of St. Vincen",
+      "line": 34
+    }
+  ]
+}

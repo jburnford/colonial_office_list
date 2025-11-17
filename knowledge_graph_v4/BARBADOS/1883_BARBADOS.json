@@ -1,0 +1,750 @@
+{
+  "metadata": {
+    "year": "1883",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1883.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1883_manual_parsed",
+    "extraction_date": "2025-11-17T21:30:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 LLM",
+    "colonies_processed": ["BARBADOS"],
+    "processing_notes": "Complete extraction for Barbados 1883 using LLM context-awareness"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      },
+      "KCB": {
+        "full_name": "Knight Commander of the Order of the Bath",
+        "type": "knighthood",
+        "rank": 2
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Hon": {
+        "full_form": "Honourable",
+        "category": "nobility"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Rt Rev": {
+        "full_form": "Right Reverend",
+        "category": "religious"
+      },
+      "Ven": {
+        "full_form": "Venerable",
+        "category": "religious"
+      },
+      "Major": {
+        "full_form": "Major",
+        "category": "military"
+      },
+      "Colonel": {
+        "full_form": "Colonel",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor and Commander-in-Chief",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Attorney-General": {
+        "canonical_name": "Attorney-General",
+        "hierarchy_level": 3,
+        "category": "judicial"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Auditor-General": {
+        "canonical_name": "Auditor-General",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      },
+      "Colonial Treasurer": {
+        "canonical_name": "Colonial Treasurer",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      },
+      "Inspector-General of Police": {
+        "canonical_name": "Inspector-General of Police",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      },
+      "Bishop": {
+        "canonical_name": "Bishop",
+        "hierarchy_level": 2,
+        "category": "religious"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Advisory council to the Governor"
+      },
+      "executive_committee": {
+        "description": "Committee responsible for government measures and money votes"
+      },
+      "legislative_council": {
+        "description": "Upper house of the legislature"
+      },
+      "house_of_assembly": {
+        "description": "Lower house of the legislature, elected annually"
+      },
+      "supreme_court": {
+        "description": "Highest court in the colony"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_barbados",
+        "name": "BARBADOS",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "BARBADOS",
+          "actual_location_country": "BARBADOS",
+          "certainty": "definite",
+          "reasoning": "Primary colony entity"
+        },
+        "coordinates": {
+          "latitude": 13.067,
+          "longitude": -59.617,
+          "source": "1883_manual_parsed/BARBADOS.md, lines 3"
+        },
+        "area": {
+          "value": 166,
+          "unit": "square_miles",
+          "source": "1883_manual_parsed/BARBADOS.md, line 3"
+        },
+        "population": {
+          "total": 171889,
+          "year": "1881",
+          "source": "1883_manual_parsed/BARBADOS.md, line 18"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "1-3",
+          "original_text": "Is situated in latitude 13° 4' North and longitude 59° 37' West, and is the most windward of the Carribbee Islands. It is nearly 21 English miles long by 14 in breadth, and is said to contain a superficial area of 106,470 acres, or about 166 square miles.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_bridgetown",
+        "name": "Bridgetown",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "BARBADOS",
+          "actual_location_country": "BARBADOS",
+          "certainty": "definite",
+          "reasoning": "Capital city of Barbados, located in St. Michael parish"
+        },
+        "population": {
+          "total": 20947,
+          "year": "1881",
+          "source": "1883_manual_parsed/BARBADOS.md, line 10"
+        },
+        "parent_location": "place_barbados",
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "10",
+          "original_text": "Bridgetown, the chief town and port, is situated in the parish of St. Michael... This town contains, according to the census of 1881, 20,947 inhabitants",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_william_robinson",
+        "name": "William Robinson",
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "colony": "BARBADOS",
+            "status": "permanent",
+            "salary": {
+              "amount": 4000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "285",
+          "original_text": "Governor and Commander-in-Chief, William Robinson, C.M.G., 4,000l.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_j_w_fortescue",
+        "name": "J. W. Fortescue",
+        "titles": ["Hon"],
+        "positions": [
+          {
+            "title": "Private Secretary",
+            "colony": "BARBADOS",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "286",
+          "original_text": "Private Secretary, Hon. J. W. Fortescue, 300l.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_edward_drayton",
+        "name": "Edward Drayton",
+        "positions": [
+          {
+            "title": "Chief Clerk",
+            "department": "Governor's Office",
+            "colony": "BARBADOS",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "287",
+          "original_text": "Chief Clerk, Edward Drayton, 300l.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_w_f_hely_hutchinson",
+        "name": "W. F. Hely-Hutchinson",
+        "titles": ["Hon"],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "BARBADOS",
+            "status": "permanent",
+            "salary": {
+              "amount": 835,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "293",
+          "original_text": "Colonial Secretary, Hon. W. F. Hely-Hutchinson, 835l.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_c_c_knollys",
+        "name": "C. C. Knollys",
+        "titles": ["Hon"],
+        "positions": [
+          {
+            "title": "Auditor-General",
+            "colony": "BARBADOS",
+            "status": "permanent",
+            "salary": {
+              "amount": 600,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "320",
+          "original_text": "Auditor-General, C. C. Knollys, 600l.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_charles_packer",
+        "name": "Charles Packer",
+        "titles": ["Sir"],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "BARBADOS",
+            "status": "permanent",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "418",
+          "original_text": "Chief Justice, Sir Charles Packer, Knt. 2,000l.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_w_conrad_reeves",
+        "name": "W. Conrad Reeves",
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "BARBADOS",
+            "status": "permanent",
+            "salary": {
+              "amount": 750,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "419",
+          "original_text": "Attorney-General, W. Conrad Reeves, 750l.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_colonel_elliott",
+        "name": "Colonel Elliott",
+        "honors": [
+          {
+            "honor": "CB",
+            "full_name": "Companion of the Order of the Bath"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Inspector-General of Police",
+            "colony": "BARBADOS",
+            "status": "permanent",
+            "salary": {
+              "amount": 520,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "361",
+          "original_text": "Inspector-General of Police, Colonel Elliott, C.B., 520l.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_herbert_bree",
+        "name": "Herbert Bree",
+        "titles": ["Rt Rev"],
+        "positions": [
+          {
+            "title": "Bishop",
+            "colony": "BARBADOS",
+            "status": "permanent",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "500",
+          "original_text": "Bishop, The Right Rev. Herbert Bree, D.D. 1,000l.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_john_sealy",
+        "name": "John Sealy",
+        "titles": ["Sir", "Hon"],
+        "honors": [
+          {
+            "honor": "KCMG",
+            "full_name": "Knight Commander of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Member of Executive Council",
+            "colony": "BARBADOS",
+            "status": "permanent"
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "232",
+          "original_text": "The Hon. Sir John Sealy, K.C.M.G.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "BARBADOS",
+        "composition": {
+          "total_members": 7,
+          "official_members": 4,
+          "unofficial_members": 3
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "225-233",
+          "original_text": "Executive Council.\n\nThe Governor.\nThe Officer Commanding the Troops\nThe Colonial Secretary.\nThe Attorney-General.\nThe Hon. C. C. Knollys, Auditor-General.\nThe Hon. Sir John Sealy, K.C.M.G.\nThe Hon. Nathaniel Foderingham.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "inst_executive_committee",
+        "name": "Executive Committee",
+        "type": "executive_committee",
+        "colony": "BARBADOS",
+        "composition": {
+          "total_members": 10
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "234-246",
+          "original_text": "Executive Committee.\n\nHis Excellency the Governor, Chairman.\nThe Members of the Executive Council.\nThe Hon. J. W. Parris, Member of Legislative Council...",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "BARBADOS",
+        "composition": {
+          "total_members": 9,
+          "appointed_members": 9
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "248-261",
+          "original_text": "Legislative Council.\n\nThe Geo. C. File, President...",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "inst_house_of_assembly",
+        "name": "House of Assembly",
+        "type": "house_of_assembly",
+        "colony": "BARBADOS",
+        "composition": {
+          "total_members": 24,
+          "elected_members": 24
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "263-281",
+          "original_text": "House of Assembly, elected annually (1882-83.)...",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1881",
+        "type": "revenue",
+        "colony": "BARBADOS",
+        "year_applies": "1881",
+        "data": {
+          "value": 132941,
+          "currency": "£"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "64",
+          "original_text": "| 1881 | £132,941 | £138,367    |",
+          "extraction_confidence": 1.0,
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_expenditure_1881",
+        "type": "expenditure",
+        "colony": "BARBADOS",
+        "year_applies": "1881",
+        "data": {
+          "value": 138367,
+          "currency": "£"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "64",
+          "original_text": "| 1881 | £132,941 | £138,367    |",
+          "extraction_confidence": 1.0,
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_imports_1881",
+        "type": "imports",
+        "colony": "BARBADOS",
+        "year_applies": "1881",
+        "data": {
+          "value": 1119212,
+          "currency": "£"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "77",
+          "original_text": "| 1881 | £1,119,212      | £1,140,361      |",
+          "extraction_confidence": 1.0,
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_exports_1881",
+        "type": "exports",
+        "colony": "BARBADOS",
+        "year_applies": "1881",
+        "data": {
+          "value": 1140361,
+          "currency": "£"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "77",
+          "original_text": "| 1881 | £1,119,212      | £1,140,361      |",
+          "extraction_confidence": 1.0,
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_production_sugar_1881",
+        "type": "production",
+        "colony": "BARBADOS",
+        "year_applies": "1881",
+        "data": {
+          "value": 52236,
+          "unit": "hogsheads",
+          "category": "sugar"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "16",
+          "original_text": "In 1881 the produce amounted to 52,236 hogsheads of sugar and 33,521 puncheons of molasses.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "econ_production_molasses_1881",
+        "type": "production",
+        "colony": "BARBADOS",
+        "year_applies": "1881",
+        "data": {
+          "value": 33521,
+          "unit": "puncheons",
+          "category": "molasses"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "16",
+          "original_text": "In 1881 the produce amounted to 52,236 hogsheads of sugar and 33,521 puncheons of molasses.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway",
+        "name": "Barbados Railway",
+        "type": "railway",
+        "colony": "BARBADOS",
+        "description": "Railway from Bridgetown to the parish of Saint Andrew",
+        "specifications": {
+          "length": {
+            "value": 23,
+            "unit": "miles"
+          }
+        },
+        "construction": {
+          "completion_date": "1881-10"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "10",
+          "original_text": "A railway from Bridgetown to the parish of Saint Andrew (23 miles as surveyed) has been commenced, and the first section was completed in October, 1881.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "infra_telegraph",
+        "name": "West India and Panama Telegraph Company Station",
+        "type": "telegraph",
+        "colony": "BARBADOS",
+        "description": "Telegraph station operated by West India and Panama Telegraph Company",
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "31",
+          "original_text": "There is a station of the West India and Panama Telegraph Company at Barbados.",
+          "extraction_confidence": 1.0,
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_barbados_1881",
+        "colony": "BARBADOS",
+        "year_applies": "1881",
+        "population": {
+          "total": 171889,
+          "breakdown": {
+            "white": 16560,
+            "coloured_and_black": 155329
+          }
+        },
+        "notes": "Based on census of 1881. Historical terminology from source document preserved.",
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+          "source_lines": "18",
+          "original_text": "By the census of 1881 the population is returned at 171,889... By the census of 1871 there were 162,042 inhabitants, of whom 16,560 were white and the remainder coloured and black",
+          "extraction_confidence": 0.9,
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "place_bridgetown",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_barbados",
+      "properties": {
+        "year": "1883",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+        "source_lines": "10",
+        "extraction_confidence": 1.0,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "person_william_robinson",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_barbados",
+      "properties": {
+        "year": "1883",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BARBADOS.md",
+        "source_lines": "285",
+        "extraction_confidence": 1.0,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 30,
+    "entities_by_type": {
+      "places": 2,
+      "people": 10,
+      "institutions": 4,
+      "economic_data": 6,
+      "infrastructure": 2,
+      "demographics": 1,
+      "events": 0
+    },
+    "total_relationships": 2,
+    "relationships_by_type": {
+      "LOCATED_IN": 1,
+      "GOVERNS": 1
+    }
+  }
+}

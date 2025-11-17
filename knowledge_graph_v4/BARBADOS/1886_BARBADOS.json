@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "year": "1886",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1886.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1886_manual_parsed",
+    "extraction_date": "2025-11-17T21:35:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 LLM",
+    "colonies_processed": ["BARBADOS"],
+    "processing_notes": "Complete extraction for Barbados 1886 using LLM context-awareness"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "CB": {"full_name": "Companion of the Order of the Bath", "type": "order", "rank": 3}
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Hon": {"full_form": "Honourable", "category": "nobility"},
+      "Rev": {"full_form": "Reverend", "category": "religious"},
+      "Rt Rev": {"full_form": "Right Reverend", "category": "religious"},
+      "Ven": {"full_form": "Venerable", "category": "religious"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor and Commander-in-Chief", "hierarchy_level": 2, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Attorney-General": {"canonical_name": "Attorney-General", "hierarchy_level": 3, "category": "judicial"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"},
+      "Auditor-General": {"canonical_name": "Auditor-General", "hierarchy_level": 4, "category": "administrative"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council to the Governor"},
+      "executive_committee": {"description": "Committee responsible for government measures and money votes"},
+      "legislative_council": {"description": "Upper house of the legislature"},
+      "house_of_assembly": {"description": "Lower house of the legislature, elected annually"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_barbados",
+        "name": "BARBADOS",
+        "type": "colony",
+        "location_context": {"mentioned_in_colony": "BARBADOS", "actual_location_country": "BARBADOS", "certainty": "definite", "reasoning": "Primary colony entity"},
+        "coordinates": {"latitude": 13.067, "longitude": -59.617, "source": "1886_manual_parsed/BARBADOS.md, line 3"},
+        "area": {"value": 166, "unit": "square_miles", "source": "1886_manual_parsed/BARBADOS.md, line 3"},
+        "population": {"total": 171860, "year": "1881", "source": "1886_manual_parsed/BARBADOS.md, line 18"},
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "1-3", "original_text": "Is situated in latitude 13° 4' North and longitude 59° 37' West...", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "place_bridgetown",
+        "name": "Bridgetown",
+        "type": "city",
+        "location_context": {"mentioned_in_colony": "BARBADOS", "actual_location_country": "BARBADOS", "certainty": "definite", "reasoning": "Capital city of Barbados"},
+        "population": {"total": 20947, "year": "1881", "source": "1886_manual_parsed/BARBADOS.md, line 9"},
+        "parent_location": "place_barbados",
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "9", "original_text": "This town contains, according to the census of 1881, 20,947 inhabitants", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      }
+    ],
+    "people": [
+      {
+        "id": "person_charles_lees",
+        "name": "Charles C. Lees",
+        "titles": ["Sir"],
+        "honors": [{"honor": "KCMG", "full_name": "Knight Commander of the Order of St Michael and St George"}],
+        "positions": [{"title": "Governor and Commander-in-Chief", "colony": "BARBADOS", "status": "permanent", "salary": {"amount": 3000, "currency": "£", "period": "annual"}}],
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "385", "original_text": "Governor and Commander-in-Chief, Sir Charles C. Lees, K.C.M.G., 3,000l.", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "person_c_c_knollys",
+        "name": "C. C. Knollys",
+        "titles": ["Hon"],
+        "positions": [{"title": "Colonial Secretary", "colony": "BARBADOS", "status": "permanent", "salary": {"amount": 835, "currency": "£", "period": "annual"}}],
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "390", "original_text": "Colonial Secretary, Hon. C. C. Knollys, 835l.", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "person_charles_packer",
+        "name": "Charles Packer",
+        "titles": ["Sir"],
+        "positions": [{"title": "Chief Justice", "colony": "BARBADOS", "status": "permanent", "salary": {"amount": 2000, "currency": "£", "period": "annual"}}],
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "516", "original_text": "Chief Justice, Sir Charles Packer, Knt.; 2,000l.", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "person_w_conrad_reeves",
+        "name": "W. Conrad Reeves",
+        "titles": ["Hon"],
+        "positions": [{"title": "Attorney-General", "colony": "BARBADOS", "status": "permanent", "salary": {"amount": 750, "currency": "£", "period": "annual"}}],
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "517", "original_text": "Attorney-General, Hon. W. Conrad Reeves, Q.C.; 750l.", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "person_herbert_bree",
+        "name": "Herbert Bree",
+        "titles": ["Rt Rev"],
+        "positions": [{"title": "Bishop", "colony": "BARBADOS", "status": "permanent", "salary": {"amount": 1000, "currency": "£", "period": "annual"}}],
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "591", "original_text": "Bishop, The Right Rev. Herbert Bree, D.D., 1,000l.", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "BARBADOS",
+        "composition": {"total_members": 5},
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "326-332", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "BARBADOS",
+        "composition": {"total_members": 9, "appointed_members": 9},
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "347-360", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "inst_house_of_assembly",
+        "name": "House of Assembly",
+        "type": "house_of_assembly",
+        "colony": "BARBADOS",
+        "composition": {"total_members": 24, "elected_members": 24},
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "362-381", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1884",
+        "type": "revenue",
+        "colony": "BARBADOS",
+        "year_applies": "1884",
+        "data": {"value": 157762, "currency": "£"},
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "157", "extraction_confidence": 1.0, "extraction_method": "parsed_table"}
+      },
+      {
+        "id": "econ_expenditure_1884",
+        "type": "expenditure",
+        "colony": "BARBADOS",
+        "year_applies": "1884",
+        "data": {"value": 153148, "currency": "£"},
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "157", "extraction_confidence": 1.0, "extraction_method": "parsed_table"}
+      },
+      {
+        "id": "econ_imports_1884",
+        "type": "imports",
+        "colony": "BARBADOS",
+        "year_applies": "1884",
+        "data": {"value": 1156229, "currency": "£"},
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "175", "extraction_confidence": 1.0, "extraction_method": "parsed_table"}
+      },
+      {
+        "id": "econ_exports_1884",
+        "type": "exports",
+        "colony": "BARBADOS",
+        "year_applies": "1884",
+        "data": {"value": 1318878, "currency": "£"},
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "175", "extraction_confidence": 1.0, "extraction_method": "parsed_table"}
+      },
+      {
+        "id": "econ_debt_1886",
+        "type": "debt",
+        "colony": "BARBADOS",
+        "year_applies": "1886",
+        "data": {"value": 15700, "currency": "£"},
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "177", "original_text": "Public Debt, £15,700.", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway",
+        "name": "Barbados Railway",
+        "type": "railway",
+        "colony": "BARBADOS",
+        "description": "Railway from Bridgetown to the parish of Saint Andrew",
+        "specifications": {"length": {"value": 23, "unit": "miles"}},
+        "construction": {"start_date": "1880", "completion_date": "1882-09-10"},
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "9", "original_text": "A railway from Bridgetown to the parish of Saint Andrew (23 miles as surveyed) was commenced in 1880, and completed on 10th September, 1882.", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "infra_telegraph",
+        "name": "West India and Panama Telegraph Company Station",
+        "type": "telegraph",
+        "colony": "BARBADOS",
+        "description": "Telegraph station operated by West India and Panama Telegraph Company",
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "32", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_barbados_1881",
+        "colony": "BARBADOS",
+        "year_applies": "1881",
+        "population": {"total": 171860, "breakdown": {"white": 16560, "coloured_and_black": 155300}},
+        "notes": "Based on census of 1881. Historical terminology preserved from source.",
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "source_lines": "18", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      }
+    ],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "place_bridgetown",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_barbados",
+      "properties": {"year": "1886", "confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "extraction_confidence": 1.0, "extraction_method": "inferred"}
+    },
+    {
+      "source_id": "person_charles_lees",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_barbados",
+      "properties": {"year": "1886", "confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/BARBADOS.md", "extraction_confidence": 1.0, "extraction_method": "inferred"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 23,
+    "entities_by_type": {"places": 2, "people": 5, "institutions": 3, "economic_data": 5, "infrastructure": 2, "demographics": 1, "events": 0},
+    "total_relationships": 2,
+    "relationships_by_type": {"LOCATED_IN": 1, "GOVERNS": 1}
+  }
+}

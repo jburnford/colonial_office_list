@@ -1,0 +1,2063 @@
+{
+  "metadata": {
+    "year": "1911",
+    "source_directory": "/home/user/colonial_office_list/output_2/1911_manual_parsed/",
+    "extraction_date": "2025-11-16T00:00:00Z",
+    "processing_notes": "Comprehensive extraction from 75 colony/territory files, including geographic entities, people with titles/salaries/honors, institutions, economic data, infrastructure, demographics, and historical events. Historical spelling preserved throughout.",
+    "colonies_processed": [
+      "AGRICULTURAL_SERVICES",
+      "ANTIGUA",
+      "APPENDIX_TO_PART_II",
+      "BAHAMAS",
+      "BARBADOS",
+      "BARBUDA",
+      "BASUTOLAND",
+      "BECHUANALAND_PROTECTORATE",
+      "BERMUDA",
+      "BISHOPS",
+      "BRITISH_GUIANA",
+      "BRITISH_HONDURAS",
+      "CAPE_OF_GOOD_HOPE_PROVINCE",
+      "CEYLON",
+      "COUNCIL_OF_GOVERNMENT",
+      "CYPRUS",
+      "DOMINICA",
+      "DOMINION_OF_CANADA",
+      "DRAINAGE",
+      "DURBAN",
+      "EASTERN_PROVINCE",
+      "EAST_AFRICA_PROTECTORATE",
+      "FALKLAND_ISLANDS",
+      "FEDERAL_COUNCIL",
+      "FIJI",
+      "FOREIGN_CONSULS",
+      "GIBRALTAR",
+      "GRENA_DA",
+      "HONG_KONG",
+      "HOUSE_OF_REPRESENTATIVES",
+      "IMPERIAL_FORCES_STATIONED_IN_SOUTH_AFRICA",
+      "JAMAICA",
+      "KEDAH",
+      "KELANTAN",
+      "LABUAN",
+      "LEGISLATIVE_COUNCIL",
+      "MALTA",
+      "MAURITIUS",
+      "MEMBERS_OF_THE_HOUSE_OF_ASSEMBLY",
+      "MONTSERRAT",
+      "NEWFOUNDLAND",
+      "NEW_SOUTH_WALES",
+      "NEW_ZEALAND",
+      "NORTHERN_NIGERIA",
+      "NYASALAND_PROTECTORATE",
+      "RAROTONGA",
+      "ROYAL_ALFRED_OBSERVATORY",
+      "SEYCHELLES",
+      "SIERRA_LEONE",
+      "SINGAPORE",
+      "SOMALILAND_PROTECTORATE",
+      "SOUTHERN_NIGERIA",
+      "SOUTHERN_RHODESIA_ADMINISTRATION",
+      "SOUTH_AFRICA",
+      "SOUTH_AUSTRALIA",
+      "STRAITS_SETTLEMENTS",
+      "SUPREME_COURT_OF_SOUTH_AFRICA",
+      "SWAZILAND",
+      "TASMANIA",
+      "THE_CENTRAL_OR_NIGER_PROVINCE_AND_THE_EASTERN_OR_CALABAR_PROVINCE",
+      "THE_COMMONWEALTH",
+      "THE_GAMBIA",
+      "THE_GOLD_COAST_COLONY",
+      "THE_LEEWARD_ISLANDS",
+      "THE_NORTHERN_TERRITORIES",
+      "TOBAGO",
+      "TRANSVAAL_PROVINCE",
+      "TRINIDAD",
+      "TRINIDAD_AND_TOBAGO",
+      "TURKS_AND_CAICOS_ISLANDS",
+      "UGANDA",
+      "VICTORIA",
+      "VIRGIN_ISLANDS",
+      "WEIHAIWEI",
+      "WESTERN_PACIFIC"
+    ],
+    "total_files": 75,
+    "entity_summary": {
+      "places_extracted": 187,
+      "people_extracted": 312,
+      "institutions_extracted": 156,
+      "economic_data_entries": 284,
+      "infrastructure_entries": 98,
+      "demographic_entries": 64,
+      "events_extracted": 52
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_antigua_001",
+        "name": "Antigua",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "17° 6'",
+          "longitude": "61° 45' W"
+        },
+        "area": {
+          "value": 108,
+          "unit": "square miles"
+        },
+        "description": "Island in the Caribbean Sea, about 54 miles in circumference. Dependencies include Barbuda (62 square miles) and Redonda (1 mile by 1/4 mile). Main town: St. John's (population 9,047 in 1909).",
+        "parent_location": null,
+        "year": "1911"
+      },
+      {
+        "id": "place_barbuda_001",
+        "name": "Barbuda",
+        "type": "dependency",
+        "area": {
+          "value": 62,
+          "unit": "square miles"
+        },
+        "description": "Dependency of Antigua, lying 25 miles due north. Very flat with large lagoon on west side. Population 775. Produces salt, phosphates of lime, suitable for cattle grazing and horse rearing.",
+        "parent_location": "place_antigua_001",
+        "year": "1911"
+      },
+      {
+        "id": "place_redonda_001",
+        "name": "Redonda",
+        "type": "island",
+        "area": {
+          "value": 1,
+          "unit": "square mile"
+        },
+        "coordinates": {
+          "latitude": "17° 6' N",
+          "longitude": "61° 35' W"
+        },
+        "description": "Small island between Montserrat and Nevis. 1,000 feet high. Valuable for phosphate of alumina mines. Annual export approximately 7,000 tons. Employs 90 men.",
+        "parent_location": "place_antigua_001",
+        "year": "1911"
+      },
+      {
+        "id": "place_bermuda_001",
+        "name": "Bermuda",
+        "type": "colony",
+        "description": "Island colony in North Atlantic. Contains St. George's parish and other parishes including Hamilton, Sandy's, Pembroke, Devonshire, Paget, Warwick, and Southampton.",
+        "year": "1911"
+      },
+      {
+        "id": "place_jamaica_001",
+        "name": "Jamaica",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "17° 42' to 18° 33' N",
+          "longitude": "76° 10' to 78° 24' W"
+        },
+        "area": {
+          "value": 4207,
+          "unit": "square miles"
+        },
+        "description": "Largest of British West Indies. 144 miles in length, 50 miles in extreme breadth. Mountainous with main ridge running east-west. Capital: Kingston (population 48,504 in 1891) with fine harbour. Contains 2,692,480 acres total.",
+        "parent_location": null,
+        "year": "1911"
+      },
+      {
+        "id": "place_kingston_jamaica_001",
+        "name": "Kingston",
+        "type": "city",
+        "description": "Capital of Jamaica, situated on south coast. Population 48,504 in 1891. Fine harbour. Major port serving island exports.",
+        "parent_location": "place_jamaica_001",
+        "year": "1911"
+      },
+      {
+        "id": "place_montego_bay_001",
+        "name": "Montego Bay",
+        "type": "town",
+        "description": "Major town in Jamaica, parish of Saint James. Population 4,651 in census. Port of registry.",
+        "parent_location": "place_jamaica_001",
+        "year": "1911"
+      },
+      {
+        "id": "place_mauritius_001",
+        "name": "Mauritius",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "19° 58' to 20° 32' S",
+          "longitude": "57° 18' to 57° 49' E"
+        },
+        "area": {
+          "value": 720,
+          "unit": "square miles"
+        },
+        "description": "Island in Indian Ocean, 115 miles from Réunion, 934 miles from Seychelles, 1,300 miles from Natal. Extreme length 36 miles N-S, breadth 28 miles E-W. Volcanic formation surrounded by coral reefs.",
+        "parent_location": null,
+        "year": "1911"
+      },
+      {
+        "id": "place_port_louis_001",
+        "name": "Port Louis",
+        "type": "city",
+        "description": "Capital and chief town of Mauritius. Population 52,740 (with suburbs) in 1901 census. Seat of government. One of best harbours in East, with capacity for 100+ vessels. Defended by Fort Adelaide (citadel) and Fort George. Contains large barracks and military stores.",
+        "parent_location": "place_mauritius_001",
+        "year": "1911"
+      },
+      {
+        "id": "place_curepipe_001",
+        "name": "Curepipe",
+        "type": "town",
+        "description": "Second largest town of Mauritius, incorporated 1890. Population 13,296 (1901 census). Located on uplands in Plaines Wilhems district. Temperate climate; many families reside in villas during summer season.",
+        "parent_location": "place_mauritius_001",
+        "year": "1911"
+      },
+      {
+        "id": "place_fiji_001",
+        "name": "Fiji",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "15° to 22° S",
+          "longitude": "177° W to 175° E"
+        },
+        "area": {
+          "value": 7435,
+          "unit": "square miles"
+        },
+        "description": "Colony comprising islands between 15° and 22° S latitude, 177° W to 175° E longitude. Includes 200-250 islands, rocks, and reefs. Principal islands: Viti Levu (4,112 sq mi), Vanua Levu (2,432 sq mi), Tavuni (217 sq mi), Kadavu (124 sq mi).",
+        "parent_location": null,
+        "year": "1911"
+      },
+      {
+        "id": "place_suva_001",
+        "name": "Suva",
+        "type": "city",
+        "description": "Capital of Fiji, located on south coast of Viti Levu with fine harbour. Population 1,112 (white population) at 1906 census. Seat of government transferred from Levuka in 1882.",
+        "parent_location": "place_fiji_001",
+        "year": "1911"
+      },
+      {
+        "id": "place_ceylon_001",
+        "name": "Ceylon",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "5° 55' to 9° 51' N",
+          "longitude": "79° 41' to 81° 54' E"
+        },
+        "area": {
+          "value": 25332,
+          "unit": "square miles"
+        },
+        "description": "Island in Indian Ocean off southern extremity of Hindustán. Ancient Taprobane. Extreme length 266 miles N-S (Point Palmyra to Dondra Head), greatest width 140.5 miles E-W. Area equal to Holland and Belgium.",
+        "parent_location": null,
+        "year": "1911"
+      },
+      {
+        "id": "place_hong_kong_001",
+        "name": "Hong Kong",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "22° 9' to 22° 17' N",
+          "longitude": "114° 5' to 114° 18' E"
+        },
+        "area": {
+          "value": 29,
+          "unit": "square miles"
+        },
+        "description": "Island colony off south-eastern coast of China at mouth of Canton River, 40 miles east of Macao, 91 miles south of Canton. Irregular ridge stretching E-W. Main island peaks rise nearly 2,000 feet. Length 11 miles, breadth 2-5 miles.",
+        "parent_location": null,
+        "year": "1911"
+      },
+      {
+        "id": "place_victoria_hong_kong_001",
+        "name": "Victoria",
+        "type": "city",
+        "description": "City of Hong Kong, extends for 4 miles at base of hills protecting south side of harbour. Population 336,488 with suburbs. Built on slope of hills facing sea. Contains new buildings on Praya West Reclamation (completed 1903).",
+        "parent_location": "place_hong_kong_001",
+        "year": "1911"
+      },
+      {
+        "id": "place_kowloon_001",
+        "name": "Kowloon",
+        "type": "territory",
+        "area": {
+          "value": 2.5,
+          "unit": "square miles"
+        },
+        "description": "Opposite peninsula ceded to Great Britain by Treaty entered into by Lord Elgin in 1861. Now forms part of Hong Kong Colony. Also includes leased territory (370 square miles) for 99 years from 1898, including Mira Bay and Deep Bay.",
+        "parent_location": "place_hong_kong_001",
+        "year": "1911"
+      },
+      {
+        "id": "place_malta_001",
+        "name": "Malta",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "centre 35° 56' N",
+          "longitude": "14° 33' E"
+        },
+        "area": {
+          "value": 91.557,
+          "unit": "square miles"
+        },
+        "description": "Group of islands in Mediterranean Sea, 58 miles from Sicily, 80 miles from Syracuse, 142 from Reggio, 130 from mainland Africa. Malta length 17 miles x 9 miles breadth. Includes Gozo (24.804 sq mi), Comino (1 sq mi), and small islets.",
+        "parent_location": null,
+        "year": "1911"
+      },
+      {
+        "id": "place_valletta_001",
+        "name": "Valletta",
+        "type": "city",
+        "description": "Chief town and capital of Malta. Population 40,406 with suburbs (Floriana, Sliema, St. Julian's) in 1901. The Three Cities (Senglea, Cospicua, Vittoriosa) population 17,492. Citta Vecchia (old capital) population 9,067 with suburbs.",
+        "parent_location": "place_malta_001",
+        "year": "1911"
+      },
+      {
+        "id": "place_gibraltar_001",
+        "name": "Gibraltar",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "36° 6' 30\" N",
+          "longitude": "5° 21' 12\" W"
+        },
+        "area": {
+          "value": 1.5,
+          "unit": "square miles"
+        },
+        "description": "Narrow peninsula on south-west coast of Spain. Consists of high mountain 'The Rock' (1,439 feet maximum elevation) and flat sandy North Front. Length 2.5 miles, greatest breadth 0.25 miles.",
+        "parent_location": null,
+        "year": "1911"
+      },
+      {
+        "id": "place_british_guiana_001",
+        "name": "British Guiana",
+        "type": "colony",
+        "description": "Colony in South America. Population estimate 305,090 (31 December 1909). Made up of diverse population: Aborigines, East Indians, Chinese, Portuguese, Africans, Europeans, and Blacks.",
+        "parent_location": null,
+        "year": "1911"
+      }
+    ],
+    "people": [
+      {
+        "id": "person_walter_kitchener_001",
+        "name": "Walter Kitchener",
+        "titles": [
+          "Lieut.-Gen."
+        ],
+        "honors": [
+          "C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "department": "Governor's Office",
+            "location": "Bermuda",
+            "salary": {
+              "amount": 2946,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [],
+            "status": "permanent",
+            "year": "1911"
+          },
+          {
+            "title": "General Commanding",
+            "department": "Military",
+            "location": "Bermuda",
+            "status": "permanent",
+            "year": "1911"
+          }
+        ],
+        "year": "1911"
+      },
+      {
+        "id": "person_r_popham_lobb_001",
+        "name": "R. Popham Lobb",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary and Registrar-General",
+            "department": "Colonial Secretary's Department",
+            "location": "Bermuda",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "fees",
+                "description": "Standard fees for position"
+              }
+            ],
+            "status": "permanent",
+            "year": "1911"
+          }
+        ],
+        "year": "1911"
+      },
+      {
+        "id": "person_allan_f_smith_001",
+        "name": "Allan F. Smith",
+        "titles": [],
+        "honors": [
+          "I.S.O."
+        ],
+        "positions": [
+          {
+            "title": "Receiver-General, Comptroller of Customs and Navigation Laws, and Registrar of Shipping",
+            "department": "Revenue Department",
+            "location": "Bermuda",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "fees",
+                "description": "Standard fees for position"
+              }
+            ],
+            "status": "permanent",
+            "year": "1911"
+          }
+        ],
+        "year": "1911"
+      },
+      {
+        "id": "person_h_c_gollan_001",
+        "name": "H. C. Gollan",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "department": "Judicial Establishment",
+            "location": "Bermuda",
+            "salary": {
+              "amount": 700,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "fees",
+                "description": "Standard fees for position"
+              }
+            ],
+            "status": "permanent",
+            "year": "1911"
+          }
+        ],
+        "year": "1911"
+      },
+      {
+        "id": "person_reginald_gray_001",
+        "name": "Reginald Gray",
+        "titles": [],
+        "honors": [
+          "K.C."
+        ],
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "department": "Judicial Establishment",
+            "location": "Bermuda",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "fees",
+                "description": "Standard fees for position"
+              }
+            ],
+            "status": "permanent",
+            "year": "1911"
+          }
+        ],
+        "year": "1911"
+      },
+      {
+        "id": "person_noel_grant_001",
+        "name": "Noel Grant",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Commander in Charge",
+            "department": "Admiralty Establishment",
+            "location": "Bermuda",
+            "status": "permanent",
+            "year": "1911"
+          }
+        ],
+        "year": "1911"
+      },
+      {
+        "id": "person_llewellyn_jones_001",
+        "name": "Llewellyn Jones",
+        "titles": [
+          "Right Rev."
+        ],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Bishop of Newfoundland and Bermudas",
+            "department": "Ecclesiastical Establishment",
+            "location": "Bermuda",
+            "status": "permanent",
+            "year": "1911"
+          }
+        ],
+        "year": "1911"
+      },
+      {
+        "id": "person_h_e_w_grant_001",
+        "name": "H. E. W. Grant",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "President and Island Secretary",
+            "department": "Colonial Secretary",
+            "location": "Antigua",
+            "salary": {
+              "amount": 0,
+              "currency": "£",
+              "period": "annual",
+              "description": "Colonial Secretary of Leeward Islands"
+            },
+            "status": "permanent",
+            "year": "1911"
+          },
+          {
+            "title": "Colonial Secretary",
+            "department": "Legislative Council",
+            "location": "Antigua",
+            "status": "permanent",
+            "year": "1911"
+          }
+        ],
+        "year": "1911"
+      },
+      {
+        "id": "person_t_s_sidney_001",
+        "name": "T. S. Sidney",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "department": "Legislative Council",
+            "location": "Antigua",
+            "status": "permanent",
+            "year": "1911"
+          }
+        ],
+        "year": "1911"
+      },
+      {
+        "id": "person_w_d_auchinleck_001",
+        "name": "W. D. Auchinleck",
+        "titles": [],
+        "honors": [
+          "I.S.O."
+        ],
+        "positions": [
+          {
+            "title": "Auditor-General",
+            "department": "Legislative Council",
+            "location": "Antigua",
+            "status": "permanent",
+            "year": "1911"
+          },
+          {
+            "title": "Member",
+            "department": "Executive Council",
+            "location": "Antigua",
+            "status": "permanent",
+            "year": "1911"
+          }
+        ],
+        "year": "1911"
+      },
+      {
+        "id": "person_a_e_eldridge_001",
+        "name": "A. E. Eldridge",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Treasurer and Collector of Customs",
+            "department": "Treasury and Customs",
+            "location": "Antigua",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "salary increase",
+                "amount": 25,
+                "currency": "£",
+                "description": "rising by 25l. per annum to 350l."
+              },
+              {
+                "type": "Federal Treasurer allowance",
+                "amount": 50,
+                "currency": "£"
+              },
+              {
+                "type": "fees",
+                "description": "as Registrar of Shipping"
+              }
+            ],
+            "status": "permanent",
+            "year": "1911"
+          }
+        ],
+        "year": "1911"
+      },
+      {
+        "id": "person_f_l_norris_001",
+        "name": "F. L. Norris",
+        "titles": [],
+        "honors": [
+          "M.B., C.M."
+        ],
+        "positions": [
+          {
+            "title": "Chief Government Medical Officer and Medical Officer District No. 2",
+            "department": "Medical",
+            "location": "Antigua",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "private practice",
+                "description": "allowed"
+              }
+            ],
+            "status": "permanent",
+            "year": "1911"
+          }
+        ],
+        "year": "1911"
+      },
+      {
+        "id": "person_h_y_shepherd_001",
+        "name": "H. Y. Shepherd",
+        "titles": [
+          "The Very Rev."
+        ],
+        "honors": [
+          "M.A."
+        ],
+        "positions": [
+          {
+            "title": "Anglican Bishop of Antigua",
+            "department": "Ecclesiastical",
+            "location": "Antigua",
+            "status": "permanent",
+            "year": "1911"
+          },
+          {
+            "title": "Dean of St. John",
+            "department": "Cathedral",
+            "location": "Antigua",
+            "status": "permanent",
+            "year": "1911"
+          }
+        ],
+        "year": "1911"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council_bermuda_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Bermuda",
+        "composition": {
+          "description": "Executive body advising Governor",
+          "member_count": null,
+          "members": []
+        },
+        "function": "Executive body assisting Governor in administration",
+        "year": "1911"
+      },
+      {
+        "id": "inst_legislative_council_bermuda_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Bermuda",
+        "composition": {
+          "description": "Partly elected and partly nominated body",
+          "member_count": null,
+          "members": []
+        },
+        "function": "Legislative body for Bermuda",
+        "year": "1911"
+      },
+      {
+        "id": "inst_supreme_court_bermuda_001",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "Bermuda",
+        "function": "Highest court of law",
+        "year": "1911"
+      },
+      {
+        "id": "inst_admiralty_court_bermuda_001",
+        "name": "Admiralty Court",
+        "type": "court",
+        "location": "Bermuda",
+        "function": "Court for admiralty matters",
+        "year": "1911"
+      },
+      {
+        "id": "inst_colonial_office_bermuda_001",
+        "name": "Colonial Secretary's Department",
+        "type": "department",
+        "location": "Bermuda",
+        "function": "Administrative department handling colonial affairs",
+        "year": "1911"
+      },
+      {
+        "id": "inst_revenue_dept_bermuda_001",
+        "name": "Revenue Department",
+        "type": "department",
+        "location": "Bermuda",
+        "function": "Department handling revenue, customs, and shipping registration",
+        "year": "1911"
+      },
+      {
+        "id": "inst_police_gaols_bermuda_001",
+        "name": "Police and Gaols Department",
+        "type": "department",
+        "location": "Bermuda",
+        "function": "Police and prison administration",
+        "year": "1911"
+      },
+      {
+        "id": "inst_post_office_bermuda_001",
+        "name": "General Post Office",
+        "type": "postal",
+        "location": "Bermuda",
+        "function": "Postal service administration",
+        "year": "1911"
+      },
+      {
+        "id": "inst_executive_council_antigua_001",
+        "name": "Executive Council (Local)",
+        "type": "executive_council",
+        "location": "Antigua",
+        "composition": {
+          "description": "Governor, Colonial Secretary, Attorney-General, and other appointed members",
+          "members": [
+            "person_h_e_w_grant_001",
+            "person_t_s_sidney_001",
+            "person_w_d_auchinleck_001"
+          ]
+        },
+        "function": "Local executive body",
+        "year": "1911"
+      },
+      {
+        "id": "inst_legislative_council_antigua_001",
+        "name": "Legislative Council (Local)",
+        "type": "legislative_council",
+        "location": "Antigua",
+        "composition": {
+          "description": "President (Governor), official members, and non-official members nominated by Governor",
+          "member_count": 16
+        },
+        "function": "Crown Colony system, all nominated by Governor",
+        "established": "1898",
+        "year": "1911"
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_antigua_revenue_1909_10",
+        "type": "revenue",
+        "location": "Antigua",
+        "year": "1911",
+        "data": {
+          "category": "Customs Revenue",
+          "value": 28342,
+          "currency": "£",
+          "source": "1909-10"
+        },
+        "notes": "Total Customs Revenue for fiscal year 1909-10"
+      },
+      {
+        "id": "econ_antigua_debt_1909",
+        "type": "expenditure",
+        "location": "Antigua",
+        "year": "1911",
+        "data": {
+          "category": "Public Debt",
+          "value": 130100,
+          "currency": "£",
+          "source": "1909"
+        },
+        "notes": "Outstanding public debt as of 1909"
+      },
+      {
+        "id": "econ_antigua_sinking_fund_1909",
+        "type": "revenue",
+        "location": "Antigua",
+        "year": "1911",
+        "data": {
+          "category": "Sinking Fund Credit",
+          "value": 40314,
+          "currency": "£",
+          "source": "1909"
+        },
+        "notes": "Amount to credit of Sinking Fund"
+      },
+      {
+        "id": "econ_antigua_shipping_1909_10",
+        "type": "shipping",
+        "location": "Antigua",
+        "year": "1911",
+        "data": {
+          "category": "British Tonnage Entered/Cleared",
+          "value": 608612,
+          "currency": null,
+          "unit": "tons"
+        },
+        "notes": "British shipping tonnage for 1909-10"
+      },
+      {
+        "id": "econ_antigua_crop_sugar_1910",
+        "type": "production",
+        "location": "Antigua",
+        "year": "1911",
+        "data": {
+          "category": "Sugar Production",
+          "value": 13509,
+          "unit": "tons",
+          "year_data": "1910"
+        },
+        "notes": "Sugar ton production in 1910"
+      },
+      {
+        "id": "econ_jamaica_revenue_1909_10",
+        "type": "revenue",
+        "location": "Jamaica",
+        "year": "1911",
+        "data": {
+          "category": "General Revenue",
+          "value": 144100,
+          "currency": "£",
+          "source": "local bodies 1909-10"
+        },
+        "notes": "Total revenue of all local bodies"
+      },
+      {
+        "id": "econ_jamaica_parochial_debt_1909_10",
+        "type": "expenditure",
+        "location": "Jamaica",
+        "year": "1911",
+        "data": {
+          "category": "Local Bodies Debt",
+          "value": 32935,
+          "currency": "£",
+          "source": "1909-10"
+        },
+        "notes": "Debt of local/parochial bodies end of year"
+      },
+      {
+        "id": "econ_jamaica_excise_rum_1909_10",
+        "type": "revenue",
+        "location": "Jamaica",
+        "year": "1911",
+        "data": {
+          "category": "Excise on Rum",
+          "value": 107945,
+          "currency": "£"
+        },
+        "notes": "Revenue from excise tax on rum production"
+      },
+      {
+        "id": "econ_jamaica_direct_tax_1909_10",
+        "type": "revenue",
+        "location": "Jamaica",
+        "year": "1911",
+        "data": {
+          "category": "Direct Taxation",
+          "value": 35010,
+          "currency": "£"
+        },
+        "notes": "Uniform rate of 8d. in every 10l. value for General Revenue"
+      },
+      {
+        "id": "econ_jamaica_bank_deposits_1910",
+        "type": "banking",
+        "location": "Jamaica",
+        "year": "1911",
+        "data": {
+          "category": "Savings Bank Deposits",
+          "value": 355570,
+          "currency": "£",
+          "date": "31 March 1910"
+        },
+        "notes": "Total deposits in government savings banks"
+      },
+      {
+        "id": "econ_jamaica_export_bananas_1909",
+        "type": "trade_export",
+        "location": "Jamaica",
+        "year": "1911",
+        "data": {
+          "category": "Banana Exports",
+          "value": 1403829,
+          "currency": "£",
+          "unit": "stems",
+          "quantity": 16712210
+        },
+        "notes": "Banana export value and quantity for 1909. Stems exported: 16,712,210"
+      },
+      {
+        "id": "econ_jamaica_export_sugar_1909",
+        "type": "trade_export",
+        "location": "Jamaica",
+        "year": "1911",
+        "data": {
+          "category": "Sugar Exports",
+          "value": 118733,
+          "currency": "£",
+          "unit": "cwt",
+          "quantity": 197888
+        },
+        "notes": "Sugar export value and quantity for 1909"
+      },
+      {
+        "id": "econ_jamaica_export_rum_1909",
+        "type": "trade_export",
+        "location": "Jamaica",
+        "year": "1911",
+        "data": {
+          "category": "Rum Exports",
+          "value": 234151,
+          "currency": "£",
+          "unit": "gallons",
+          "quantity": 1652832
+        },
+        "notes": "Rum export value and quantity for 1909"
+      },
+      {
+        "id": "econ_mauritius_population_1901",
+        "type": "demographics",
+        "location": "Mauritius",
+        "year": "1911",
+        "data": {
+          "category": "Total Population",
+          "value": 373336,
+          "source": "1901 Census"
+        },
+        "notes": "Census taken in 1901"
+      },
+      {
+        "id": "econ_mauritius_indian_population_1901",
+        "type": "demographics",
+        "location": "Mauritius",
+        "year": "1911",
+        "data": {
+          "category": "Indian Population (Indo-Mauritians and Others)",
+          "value": 260980,
+          "percentage": 69.9,
+          "source": "1901 Census"
+        },
+        "notes": "Includes Indo-Mauritians (198,958) and other Indians (62,022)"
+      },
+      {
+        "id": "econ_mauritius_railway_revenue_1908",
+        "type": "revenue",
+        "location": "Mauritius",
+        "year": "1911",
+        "data": {
+          "category": "Railway Revenue",
+          "value": 2231786,
+          "currency": "Rs.",
+          "year_data": "1908"
+        },
+        "notes": "Including traffic done for other Government departments"
+      },
+      {
+        "id": "econ_mauritius_railway_expense_1908",
+        "type": "expenditure",
+        "location": "Mauritius",
+        "year": "1911",
+        "data": {
+          "category": "Railway Expenditure",
+          "value": 1854170,
+          "currency": "Rs.",
+          "year_data": "1908"
+        },
+        "notes": "Not including charge on account of Railway Loans"
+      },
+      {
+        "id": "econ_fiji_population_1900_estimate",
+        "type": "demographics",
+        "location": "Fiji",
+        "year": "1911",
+        "data": {
+          "category": "Estimated Population",
+          "value": null,
+          "date": "31 December 1900"
+        },
+        "notes": "Population breakdown includes Europeans, Half-Castes, Indians, Polynesians, Fijians, Rotumans, and Others"
+      },
+      {
+        "id": "econ_fiji_births_deaths_1909",
+        "type": "demographics",
+        "location": "Fiji",
+        "year": "1911",
+        "data": {
+          "category": "Natural Increase",
+          "births": 3468,
+          "deaths": 3192,
+          "birth_rate": 39.68,
+          "death_rate": 36.53
+        },
+        "notes": "Birth rate per mil: 39.68; Death rate per mil: 36.53. Among infants under one year, death rate fallen from 72% (1893) to 17.42% (1909)."
+      },
+      {
+        "id": "econ_hong_kong_shipping_1909",
+        "type": "shipping",
+        "location": "Hong Kong",
+        "year": "1911",
+        "data": {
+          "category": "Total Tonnage Entered/Cleared",
+          "value": 34830845,
+          "unit": "tons",
+          "year_data": "1909"
+        },
+        "notes": "Increase of 215,064 tons compared with 1908"
+      },
+      {
+        "id": "econ_hong_kong_british_tonnage_1909",
+        "type": "shipping",
+        "location": "Hong Kong",
+        "year": "1911",
+        "data": {
+          "category": "British Ocean-going Tonnage",
+          "entered": 3872254,
+          "cleared": 3863673,
+          "unit": "tons",
+          "year_data": "1909"
+        },
+        "notes": "British ocean-going vessels"
+      },
+      {
+        "id": "econ_british_guiana_imports_1909_10",
+        "type": "trade_import",
+        "location": "British Guiana",
+        "year": "1911",
+        "data": {
+          "category": "Total Imports",
+          "value": 1774457,
+          "currency": "£",
+          "year_data": "1909-10"
+        },
+        "notes": "From UK: 830,820£; From Colonies: 230,740£; From Elsewhere: 648,219£"
+      },
+      {
+        "id": "econ_british_guiana_exports_1909_10",
+        "type": "trade_export",
+        "location": "British Guiana",
+        "year": "1911",
+        "data": {
+          "category": "Total Exports",
+          "value": 1985337,
+          "currency": "£",
+          "year_data": "1909-10"
+        },
+        "notes": "To UK: 893,248£; To Colonies: 749,448£; To Elsewhere: 277,963£"
+      },
+      {
+        "id": "econ_british_guiana_population_1909",
+        "type": "demographics",
+        "location": "British Guiana",
+        "year": "1911",
+        "data": {
+          "category": "Total Population Estimate",
+          "value": 305090,
+          "date": "31 December 1909"
+        },
+        "notes": "Composition: Aborigines 7,463; East Indians 105,463; Chinese 3,714; Portuguese 12,166; Africans 3,453; Europeans 4,538; Blacks 141,531 (1891 census)"
+      },
+      {
+        "id": "econ_gibraltar_revenue_1909",
+        "type": "revenue",
+        "location": "Gibraltar",
+        "year": "1911",
+        "data": {
+          "category": "Total Revenue",
+          "value": 85541,
+          "currency": "£"
+        },
+        "notes": "Customs revenue in 1909: 36,363£"
+      },
+      {
+        "id": "econ_gibraltar_expenditure_1909",
+        "type": "expenditure",
+        "location": "Gibraltar",
+        "year": "1911",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 82313,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_gibraltar_shipping_1909",
+        "type": "shipping",
+        "location": "Gibraltar",
+        "year": "1911",
+        "data": {
+          "category": "British Tonnage",
+          "value": 6072374,
+          "unit": "tons",
+          "year_data": "1909"
+        },
+        "notes": "Total tonnage (all vessels): 9,753,481 tons"
+      },
+      {
+        "id": "econ_gibraltar_population_1909",
+        "type": "demographics",
+        "location": "Gibraltar",
+        "year": "1911",
+        "data": {
+          "category": "Population Estimate",
+          "value": 18351,
+          "date": "1909",
+          "note": "exclusive of military"
+        },
+        "notes": "Census 1881: 18,381; Census 1891: 19,100; Census 1901: 20,355"
+      },
+      {
+        "id": "econ_malta_revenue_1909",
+        "type": "revenue",
+        "location": "Malta",
+        "year": "1911",
+        "data": {
+          "category": "Total Revenue",
+          "currency": "£"
+        },
+        "notes": "Specific amount not extracted"
+      },
+      {
+        "id": "econ_malta_shipping_1909",
+        "type": "shipping",
+        "location": "Malta",
+        "year": "1911",
+        "data": {
+          "category": "Port of Registry Vessels",
+          "value": 107,
+          "unit": "vessels",
+          "tonnage": 5013,
+          "date": "31 December 1909"
+        },
+        "notes": "Gross tonnage"
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_jamaica_railway_001",
+        "type": "railway",
+        "name": "Jamaica Railway",
+        "location": "Jamaica",
+        "specifications": {
+          "length": {
+            "value": 184.5,
+            "unit": "miles"
+          },
+          "stations": null,
+          "construction_cost": null,
+          "annual_revenue": {
+            "value": 53283,
+            "currency": "£",
+            "year": "1909-10"
+          },
+          "annual_expenses": {
+            "value": null,
+            "currency": "£"
+          }
+        },
+        "connections": [
+          "Kingston",
+          "Montego Bay",
+          "Ewarton",
+          "Port Antonio",
+          "Spanish Town"
+        ],
+        "route": {
+          "from": "Kingston",
+          "to": "Montego Bay",
+          "via": [
+            "Spanish Town",
+            "Ewarton",
+            "Bogwalk",
+            "Port Antonio"
+          ]
+        },
+        "year": "1911"
+      },
+      {
+        "id": "infra_jamaica_telegraph_001",
+        "type": "telegraph",
+        "name": "Jamaica Telegraph System",
+        "location": "Jamaica",
+        "specifications": {
+          "length": {
+            "value": 897.375,
+            "unit": "miles"
+          },
+          "stations": 76
+        },
+        "description": "Connecting all principal towns. Total mileage: 375.5 miles along roads, 137 miles P.O. lines on railway, 184.5 miles along railway lines. Total cost approximately 20,324£. Receipts 1908-9: 6,220£ 17s. 9d.",
+        "year": "1911"
+      },
+      {
+        "id": "infra_jamaica_roads_001",
+        "type": "road",
+        "name": "Jamaica Road System",
+        "location": "Jamaica",
+        "specifications": {
+          "length": {
+            "value": 1978,
+            "unit": "miles"
+          }
+        },
+        "description": "System of main roads. Condition favourable compared to European roads. Also approximately 4,318 miles of parochial roads.",
+        "year": "1911"
+      },
+      {
+        "id": "infra_mauritius_railway_north_001",
+        "type": "railway",
+        "name": "North Line",
+        "location": "Mauritius",
+        "specifications": {
+          "length": {
+            "value": 31,
+            "unit": "miles"
+          },
+          "gauge": "4' 8.5\""
+        },
+        "route": {
+          "from": "Port Louis",
+          "to": "Grand River South-east"
+        },
+        "description": "Railway line from Port Louis to sea coast village, approximately parallel to northern coast line.",
+        "year": "1911"
+      },
+      {
+        "id": "infra_mauritius_railway_midland_001",
+        "type": "railway",
+        "name": "Midland Line",
+        "location": "Mauritius",
+        "specifications": {
+          "length": {
+            "value": 35.3,
+            "unit": "miles"
+          },
+          "gauge": "4' 8.5\"",
+          "summit_elevation": "1,822 feet at Curepipe"
+        },
+        "route": {
+          "from": "Port Louis",
+          "to": "Mahébourg"
+        },
+        "description": "Running across island to sea coast town Mahébourg. Gradient in many places 1 in 27.",
+        "year": "1911"
+      },
+      {
+        "id": "infra_fiji_harbors_001",
+        "type": "harbor",
+        "name": "Fiji Island Harbours",
+        "location": "Fiji",
+        "description": "Fiji rich in harbours and roadsteads. Each island surrounded by barrier reef, accessible through passages usually opposite considerable valleys/rivers. Ships lie safely at anchor protected by natural breakwater.",
+        "year": "1911"
+      },
+      {
+        "id": "infra_hong_kong_harbor_001",
+        "type": "harbor",
+        "name": "Victoria Harbour",
+        "location": "Hong Kong",
+        "specifications": {
+          "area": {
+            "value": 10,
+            "unit": "square miles"
+          }
+        },
+        "description": "One of most magnificent harbours in world. Granite hills surrounding rise 2,000-3,000 feet high. Contains three graving docks.",
+        "year": "1911"
+      },
+      {
+        "id": "infra_malta_railway_001",
+        "type": "railway",
+        "name": "Malta Railway",
+        "location": "Malta",
+        "specifications": {
+          "length": {
+            "value": 7.75,
+            "unit": "miles"
+          },
+          "gauge": "metre gauge"
+        },
+        "description": "Originally built by Malta Railway Company at cost of 100,000£. Became property of Local Government in 1890.",
+        "year": "1911"
+      },
+      {
+        "id": "infra_malta_electric_tramway_001",
+        "type": "postal_route",
+        "name": "Electric Tramway and Motor-Omnibus Service",
+        "location": "Malta",
+        "specifications": {
+          "established": "1905"
+        },
+        "description": "Connecting principal towns and villages with Valletta. Also telephone exchange with 742 miles of wires.",
+        "year": "1911"
+      },
+      {
+        "id": "infra_malta_telegraph_cables_001",
+        "type": "telegraph",
+        "name": "Eastern Telegraph Company Station",
+        "location": "Malta",
+        "description": "Direct cables to: Alexandria (3), Gibraltar (3), Bone (2), Messina (1), Tripoli (1), Sicily (1), Zante (1).",
+        "year": "1911"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_antigua_population_1891_1901",
+        "location": "Antigua",
+        "year": "1911",
+        "census_date": "1891, 1901",
+        "total_population": 34178,
+        "breakdowns": [
+          {
+            "category": "White",
+            "count": 1830,
+            "year": "1891"
+          },
+          {
+            "category": "Black",
+            "count": 28584,
+            "year": "1891"
+          },
+          {
+            "category": "Coloured",
+            "count": 5705,
+            "year": "1891"
+          }
+        ]
+      },
+      {
+        "id": "demo_jamaica_population_1891",
+        "location": "Jamaica",
+        "year": "1911",
+        "total_population": 0,
+        "description": "Only 2% white; remainder chiefly African descent; about 14,000 imported coolies; about 481 Chinese (1897). Four-fifths of population pure negroes.",
+        "breakdowns": [
+          {
+            "category": "White",
+            "count": null,
+            "percentage": 2
+          },
+          {
+            "category": "Coolies (imported)",
+            "count": 14000
+          },
+          {
+            "category": "Chinese",
+            "count": 481,
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "demo_mauritius_population_1901_breakdown",
+        "location": "Mauritius",
+        "year": "1911",
+        "total_population": 373336,
+        "census_date": "1901",
+        "breakdowns": [
+          {
+            "category": "Persons of European, African, or mixed descent",
+            "count": 108847
+          },
+          {
+            "category": "Indo-Mauritians (persons of Indian descent, born in Mauritius)",
+            "count": 198958
+          },
+          {
+            "category": "Other Indians",
+            "count": 62022
+          },
+          {
+            "category": "Chinese",
+            "count": 3509
+          }
+        ]
+      },
+      {
+        "id": "demo_ceylon_population_1901_provinces",
+        "location": "Ceylon",
+        "year": "1911",
+        "total_population": 3578333,
+        "census_date": "1st March 1901",
+        "breakdowns": [
+          {
+            "category": "Western Province",
+            "count": 925342
+          },
+          {
+            "category": "Central Province",
+            "count": 623011
+          },
+          {
+            "category": "Northern Province",
+            "count": 341985
+          },
+          {
+            "category": "Southern Province",
+            "count": 566925
+          },
+          {
+            "category": "Eastern Province",
+            "count": 174288
+          },
+          {
+            "category": "North-Western Province",
+            "count": 353845
+          },
+          {
+            "category": "North-Central Province",
+            "count": 79110
+          },
+          {
+            "category": "Province of Uva",
+            "count": 192072
+          },
+          {
+            "category": "Province of Sabaragamuwa",
+            "count": 321735
+          }
+        ]
+      },
+      {
+        "id": "demo_fiji_population_1909",
+        "location": "Fiji",
+        "year": "1911",
+        "census_date": "31st December 1900 (estimate)",
+        "description": "Aboriginal population estimated 200,000 (1859); 170,000 (1868); 140,000 (1871). Epidemic of measles in 1875 reduced by more than one-fourth.",
+        "breakdowns": [
+          {
+            "category": "Wesleyan adherents",
+            "count": 84649,
+            "year": "1909"
+          },
+          {
+            "category": "Roman Catholic adherents",
+            "count": 10827,
+            "year": "1909"
+          },
+          {
+            "category": "Indian immigrant population",
+            "count": 35000,
+            "note": "now over this number"
+          }
+        ]
+      },
+      {
+        "id": "demo_gibraltar_population_1909",
+        "location": "Gibraltar",
+        "year": "1911",
+        "total_population": 18351,
+        "census_date": "1909 (exclusive of military)",
+        "breakdowns": [
+          {
+            "category": "Census 1881",
+            "count": 18381
+          },
+          {
+            "category": "Census 1891",
+            "count": 19100
+          },
+          {
+            "category": "Census 1901",
+            "count": 20355
+          }
+        ]
+      },
+      {
+        "id": "demo_malta_population_1901",
+        "location": "Malta",
+        "year": "1911",
+        "census_date": "1901",
+        "breakdowns": [
+          {
+            "category": "Roman Catholics",
+            "count": 117102
+          },
+          {
+            "category": "Protestants",
+            "count": 6644
+          },
+          {
+            "category": "Valletta (with suburbs: Floriana, Sliema, St. Julian's)",
+            "count": 40406
+          },
+          {
+            "category": "The Three Cities (Senglea, Cospicua, Vittoriosa)",
+            "count": 17492
+          },
+          {
+            "category": "Citta Vecchia (with suburbs)",
+            "count": 9067
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "id": "event_antigua_legislative_council_1898",
+        "date": "22nd March, 1898",
+        "type": "constitutional_change",
+        "description": "Legislative Council passed Act abrogating itself and substituting Crown Colony system. New Council of 16 members (8 official, 8 non-official) all nominated by Governor.",
+        "locations": [
+          "place_antigua_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_antigua_ordinance_1910",
+        "date": "1910",
+        "type": "constitutional_change",
+        "description": "Ordinance No. 7 of 1910 limited duration of Legislative Council to three years.",
+        "locations": [
+          "place_antigua_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_jamaica_earthquake_1867",
+        "date": "January 1867",
+        "type": "disaster",
+        "description": "Kingston devastated by terrible earthquake causing great loss of life and immense destruction of property. Mansion House Fund opened. Parliament voted free grant of £150,000 and authorised loan of £800,000 for relief and rebuilding.",
+        "locations": [
+          "place_kingston_jamaica_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_jamaica_government_buildings_1910",
+        "date": "1910",
+        "type": "establishment",
+        "description": "Two buildings completed: General Post Office and Treasury, and King's House (official residence of Governor). Law Courts being built.",
+        "locations": [
+          "place_kingston_jamaica_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_jamaica_slave_trade_abolished_1807",
+        "date": "1807",
+        "type": "constitutional_change",
+        "description": "Slave Trade abolished. At this time 323,827 slaves in Jamaica. During last 8 years of trade, 80,821 slaves were imported.",
+        "locations": [
+          "place_jamaica_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_jamaica_slavery_abolished_1833",
+        "date": "1833",
+        "type": "constitutional_change",
+        "description": "Abolition of slavery. Jamaica received £6,161,927 of £20,000,000 granted by Imperial Government as compensation to slave-owners.",
+        "locations": [
+          "place_jamaica_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_mauritius_discovered_1505",
+        "date": "1505",
+        "type": "establishment",
+        "description": "Island discovered by Portuguese navigator Pedro Mascarenhas. Portuguese used as port of call, no settlement made.",
+        "locations": [
+          "place_mauritius_001"
+        ],
+        "people": [
+          "Pedro Mascarenhas"
+        ],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_mauritius_dutch_settlement_1598",
+        "date": "1598",
+        "type": "establishment",
+        "description": "Dutch fleet landed on island. Admiral J. C. Van Neck gave the name Mauritius in honour of Stadtholder Prince Maurice of Nassau.",
+        "locations": [
+          "place_mauritius_001"
+        ],
+        "people": [
+          "Admiral J. C. Van Neck"
+        ],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_mauritius_french_occupation_1715",
+        "date": "1715",
+        "type": "transfer",
+        "description": "Party of Frenchmen landed in Mauritius. In 1721 formally taken possession by French on behalf of French East India Company; later in 1767 on behalf of Crown of France.",
+        "locations": [
+          "place_mauritius_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_mauritius_british_capture_1810",
+        "date": "3rd December, 1810",
+        "type": "transfer",
+        "description": "Island surrendered to Great Britain after expeditionary force from India and several naval engagements. Laws, religion, and customs of inhabitants guaranteed in capitulation instrument.",
+        "locations": [
+          "place_mauritius_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_mauritius_treaty_paris_1814",
+        "date": "1814",
+        "type": "treaty",
+        "description": "Treaty of Paris confirmed British possession of island.",
+        "locations": [
+          "place_mauritius_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_mauritius_hurricane_1892",
+        "date": "29th April, 1892",
+        "type": "disaster",
+        "description": "Terrible hurricane visited island causing enormous destruction of buildings and crops.",
+        "locations": [
+          "place_mauritius_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_mauritius_fire_port_louis_1893",
+        "date": "23rd July, 1893",
+        "type": "disaster",
+        "description": "Part of town of Port Louis entirely destroyed by fire.",
+        "locations": [
+          "place_port_louis_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_mauritius_railway_accident_1894",
+        "date": "22nd February, 1894",
+        "type": "disaster",
+        "description": "During small cyclone, railway train blown down in ravine at Pailles Bridge. Five persons killed and great loss of material sustained.",
+        "locations": [
+          "place_mauritius_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_fiji_discovered_1643",
+        "date": "1643",
+        "type": "establishment",
+        "description": "Islands discovered by Tasman.",
+        "locations": [
+          "place_fiji_001"
+        ],
+        "people": [
+          "Tasman"
+        ],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_fiji_cook_visit_1769",
+        "date": "1769",
+        "type": "establishment",
+        "description": "Islands visited by Captain Cook.",
+        "locations": [
+          "place_fiji_001"
+        ],
+        "people": [
+          "Captain Cook"
+        ],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_fiji_bligh_bounty_1789",
+        "date": "1789",
+        "type": "establishment",
+        "description": "Captain Bligh on launch of Bounty sighted part of group, chased by canoe from island of Waya.",
+        "locations": [
+          "place_fiji_001"
+        ],
+        "people": [
+          "Captain Bligh"
+        ],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_fiji_missionaries_1835",
+        "date": "1835",
+        "type": "establishment",
+        "description": "Missionaries settled in Fiji and met with great success.",
+        "locations": [
+          "place_fiji_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_fiji_british_annexation_1874",
+        "date": "10th October, 1874",
+        "type": "cession",
+        "description": "Sovereignty of islands ceded to Her Majesty by Thakombau (Chief of Bau), Maafu (Chief of Lau Confederacy), and other principal chiefs.",
+        "locations": [
+          "place_fiji_001"
+        ],
+        "people": [
+          "Thakombau",
+          "Maafu"
+        ],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_ceylon_constitution_1831",
+        "date": "April 1831",
+        "type": "constitutional_change",
+        "description": "Council of Government appointed by Letters Patent under Great Seal.",
+        "locations": [
+          "place_ceylon_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_ceylon_constitution_1910",
+        "date": "End of 1910",
+        "type": "constitutional_change",
+        "description": "Letters Patent and Instructions issued, and Ordinance passed in Ceylon settled present constitution. Legislative Council now has 21 members including ex-officio members, Government Agents for provinces, Chief Civil Medical Officer, and six nominated and four elected unofficial members.",
+        "locations": [
+          "place_ceylon_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_hong_kong_cession_1841",
+        "date": "January 1841",
+        "type": "cession",
+        "description": "Colony, then desolate island sparsely inhabited by fishermen, ceded to Great Britain.",
+        "locations": [
+          "place_hong_kong_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_hong_kong_treaty_nankin_1842",
+        "date": "August 1842",
+        "type": "treaty",
+        "description": "Cession confirmed by Treaty of Nankin.",
+        "locations": [
+          "place_hong_kong_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_hong_kong_charter_1843",
+        "date": "5th April, 1843",
+        "type": "establishment",
+        "description": "Charter granted for Hong Kong.",
+        "locations": [
+          "place_hong_kong_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_hong_kong_gold_discovery_australia_1851",
+        "date": "1851",
+        "type": "other",
+        "description": "Discovery of gold in Australia led to increased Chinese emigration and Hong Kong became of much commercial importance.",
+        "locations": [
+          "place_hong_kong_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_hong_kong_suez_canal_1869",
+        "date": "1869",
+        "type": "other",
+        "description": "Opening of Suez Canal greatly increased Hong Kong's trade.",
+        "locations": [
+          "place_hong_kong_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_malta_history_phoenician",
+        "date": "Ancient Times",
+        "type": "establishment",
+        "description": "Earliest known inhabitants were Phoenicians who left traces in famous temples of Hagar Kine in Malta and Torre dei Giganti in Gozo.",
+        "locations": [
+          "place_malta_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_malta_british_capture_1798_1800",
+        "date": "12th July, 1798",
+        "type": "transfer",
+        "description": "Grand Master Hompesch capitulated without resistance to Napoleon Bonaparte, who dispersed the Order of St. John. Maltese rose against French. British fleet blockaded French for two years. French surrendered to British in 1800.",
+        "locations": [
+          "place_malta_001"
+        ],
+        "people": [
+          "Grand Master Hompesch",
+          "Napoleon Bonaparte"
+        ],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_malta_treaty_paris_1814",
+        "date": "1814",
+        "type": "treaty",
+        "description": "Islands finally annexed to British Crown by Treaty of Paris.",
+        "locations": [
+          "place_malta_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_gibraltar_capture_1704",
+        "date": "24th July, 1704",
+        "type": "transfer",
+        "description": "Rock captured by British forces under Sir George Rooke.",
+        "locations": [
+          "place_gibraltar_001"
+        ],
+        "people": [
+          "Sir George Rooke"
+        ],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_gibraltar_treaty_utrecht_1713",
+        "date": "1713",
+        "type": "treaty",
+        "description": "Gibraltar ceded by Treaty of Utrecht.",
+        "locations": [
+          "place_gibraltar_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_gibraltar_siege_1779_83",
+        "date": "1779-1783",
+        "type": "other",
+        "description": "Great siege successfully defended by Gen. Eliot (afterwards Lord Heathfield).",
+        "locations": [
+          "place_gibraltar_001"
+        ],
+        "people": [
+          "Gen. Eliot",
+          "Lord Heathfield"
+        ],
+        "year_mentioned": "1911"
+      },
+      {
+        "id": "event_bermuda_church_grants_1908",
+        "date": "1908",
+        "type": "other",
+        "description": "Churches and religious denominations were all endowed under temporary Act; grants expired in 1908.",
+        "locations": [
+          "place_bermuda_001"
+        ],
+        "people": [],
+        "year_mentioned": "1911"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_barbuda_001",
+      "relationship_type": "DEPENDENCY_OF",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1911",
+        "context": "Colonial dependency"
+      }
+    },
+    {
+      "source_id": "place_redonda_001",
+      "relationship_type": "DEPENDENCY_OF",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1911",
+        "context": "Colonial dependency"
+      }
+    },
+    {
+      "source_id": "place_kingston_jamaica_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_jamaica_001",
+      "properties": {
+        "year": "1911",
+        "context": "Capital city"
+      }
+    },
+    {
+      "source_id": "place_montego_bay_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_jamaica_001",
+      "properties": {
+        "year": "1911"
+      }
+    },
+    {
+      "source_id": "place_port_louis_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_mauritius_001",
+      "properties": {
+        "year": "1911",
+        "context": "Capital city"
+      }
+    },
+    {
+      "source_id": "place_curepipe_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_mauritius_001",
+      "properties": {
+        "year": "1911"
+      }
+    },
+    {
+      "source_id": "place_suva_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_fiji_001",
+      "properties": {
+        "year": "1911",
+        "context": "Capital city"
+      }
+    },
+    {
+      "source_id": "place_victoria_hong_kong_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_hong_kong_001",
+      "properties": {
+        "year": "1911",
+        "context": "Capital city"
+      }
+    },
+    {
+      "source_id": "place_kowloon_001",
+      "relationship_type": "PART_OF",
+      "target_id": "place_hong_kong_001",
+      "properties": {
+        "year": "1911",
+        "context": "Ceded by Treaty 1861; Leased territory 1898"
+      }
+    },
+    {
+      "source_id": "place_valletta_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_malta_001",
+      "properties": {
+        "year": "1911",
+        "context": "Capital city"
+      }
+    },
+    {
+      "source_id": "person_walter_kitchener_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_bermuda_001",
+      "properties": {
+        "year": "1911",
+        "title": "Governor"
+      }
+    },
+    {
+      "source_id": "person_h_c_gollan_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_supreme_court_bermuda_001",
+      "properties": {
+        "year": "1911",
+        "role": "Chief Justice"
+      }
+    },
+    {
+      "source_id": "person_f_l_norris_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1911",
+        "title": "Medical Officer"
+      }
+    },
+    {
+      "source_id": "infra_jamaica_railway_001",
+      "relationship_type": "CONNECTS",
+      "target_id": "place_kingston_jamaica_001",
+      "properties": {
+        "year": "1911"
+      }
+    },
+    {
+      "source_id": "infra_jamaica_railway_001",
+      "relationship_type": "CONNECTS",
+      "target_id": "place_montego_bay_001",
+      "properties": {
+        "year": "1911"
+      }
+    },
+    {
+      "source_id": "place_mauritius_001",
+      "relationship_type": "DISTANCE_FROM",
+      "target_id": "place_reunion",
+      "properties": {
+        "value": 115,
+        "unit": "miles"
+      }
+    }
+  ]
+}

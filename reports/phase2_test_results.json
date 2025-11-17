@@ -1,0 +1,275 @@
+{
+  "file": "/home/user/colonial_office_list/knowledge_graph_extracts/1877_extracted.json",
+  "total_enum_errors": 24,
+  "auto_applied": [
+    {
+      "original_value": "governs",
+      "recommended_value": "GOVERNED_BY",
+      "confidence": 0.95,
+      "reasoning": "Historical: 'governs' relationship maps to GOVERNED_BY",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 0 -> relationship_type"
+    },
+    {
+      "original_value": "subordinate_to",
+      "recommended_value": "REPORTS_TO",
+      "confidence": 0.9,
+      "reasoning": "Organizational hierarchy: subordinate_to \u2192 REPORTS_TO",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 1 -> relationship_type"
+    },
+    {
+      "original_value": "part_of",
+      "recommended_value": "PART_OF",
+      "confidence": 0.98,
+      "reasoning": "Direct match: part_of \u2192 PART_OF",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 3 -> relationship_type"
+    },
+    {
+      "original_value": "located_in",
+      "recommended_value": "LOCATED_IN",
+      "confidence": 0.98,
+      "reasoning": "Direct match: located_in \u2192 LOCATED_IN",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 4 -> relationship_type"
+    },
+    {
+      "original_value": "governs",
+      "recommended_value": "GOVERNED_BY",
+      "confidence": 0.95,
+      "reasoning": "Historical: 'governs' relationship maps to GOVERNED_BY",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 5 -> relationship_type"
+    },
+    {
+      "original_value": "connects",
+      "recommended_value": "CONNECTS",
+      "confidence": 0.98,
+      "reasoning": "Direct match: connects \u2192 CONNECTS",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 8 -> relationship_type"
+    },
+    {
+      "original_value": "connects",
+      "recommended_value": "CONNECTS",
+      "confidence": 0.98,
+      "reasoning": "Direct match: connects \u2192 CONNECTS",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 9 -> relationship_type"
+    },
+    {
+      "original_value": "member_of",
+      "recommended_value": "MEMBER_OF",
+      "confidence": 0.98,
+      "reasoning": "Direct match: member_of \u2192 MEMBER_OF",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 11 -> relationship_type"
+    },
+    {
+      "original_value": "governs",
+      "recommended_value": "GOVERNED_BY",
+      "confidence": 0.95,
+      "reasoning": "Historical: 'governs' relationship maps to GOVERNED_BY",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 12 -> relationship_type"
+    },
+    {
+      "original_value": "governs",
+      "recommended_value": "GOVERNED_BY",
+      "confidence": 0.95,
+      "reasoning": "Historical: 'governs' relationship maps to GOVERNED_BY",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 13 -> relationship_type"
+    },
+    {
+      "original_value": "governs",
+      "recommended_value": "GOVERNED_BY",
+      "confidence": 0.95,
+      "reasoning": "Historical: 'governs' relationship maps to GOVERNED_BY",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 14 -> relationship_type"
+    },
+    {
+      "original_value": "governs",
+      "recommended_value": "GOVERNED_BY",
+      "confidence": 0.95,
+      "reasoning": "Historical: 'governs' relationship maps to GOVERNED_BY",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 15 -> relationship_type"
+    },
+    {
+      "original_value": "governs",
+      "recommended_value": "GOVERNED_BY",
+      "confidence": 0.95,
+      "reasoning": "Historical: 'governs' relationship maps to GOVERNED_BY",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 16 -> relationship_type"
+    },
+    {
+      "original_value": "subordinate_to",
+      "recommended_value": "REPORTS_TO",
+      "confidence": 0.9,
+      "reasoning": "Organizational hierarchy: subordinate_to \u2192 REPORTS_TO",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 17 -> relationship_type"
+    },
+    {
+      "original_value": "subordinate_to",
+      "recommended_value": "REPORTS_TO",
+      "confidence": 0.9,
+      "reasoning": "Organizational hierarchy: subordinate_to \u2192 REPORTS_TO",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 18 -> relationship_type"
+    },
+    {
+      "original_value": "subordinate_to",
+      "recommended_value": "REPORTS_TO",
+      "confidence": 0.9,
+      "reasoning": "Organizational hierarchy: subordinate_to \u2192 REPORTS_TO",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 19 -> relationship_type"
+    }
+  ],
+  "review_queue": [
+    {
+      "original_value": "capital_of",
+      "recommended_value": "LOCATED_IN",
+      "confidence": 0.85,
+      "reasoning": "Geographic: capital_of can be represented as LOCATED_IN with properties",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 2 -> relationship_type"
+    },
+    {
+      "original_value": "capital_of",
+      "recommended_value": "LOCATED_IN",
+      "confidence": 0.85,
+      "reasoning": "Geographic: capital_of can be represented as LOCATED_IN with properties",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 6 -> relationship_type"
+    },
+    {
+      "original_value": "port_of",
+      "recommended_value": "LOCATED_IN",
+      "confidence": 0.85,
+      "reasoning": "Geographic: port_of can be LOCATED_IN",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 7 -> relationship_type"
+    },
+    {
+      "original_value": "heads",
+      "recommended_value": "GOVERNED_BY",
+      "confidence": 0.8,
+      "reasoning": "Leadership: heads can be GOVERNED_BY relationship",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 10 -> relationship_type"
+    },
+    {
+      "original_value": "capital_of",
+      "recommended_value": "LOCATED_IN",
+      "confidence": 0.85,
+      "reasoning": "Geographic: capital_of can be represented as LOCATED_IN with properties",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 20 -> relationship_type"
+    }
+  ],
+  "flagged": [
+    {
+      "original_value": "discovered_by",
+      "recommended_value": "discovered_by",
+      "confidence": 0.5,
+      "reasoning": "No rule-based mapping found for 'discovered_by' in RelationshipType",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 21 -> relationship_type"
+    },
+    {
+      "original_value": "discovered_by",
+      "recommended_value": "discovered_by",
+      "confidence": 0.5,
+      "reasoning": "No rule-based mapping found for 'discovered_by' in RelationshipType",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 22 -> relationship_type"
+    },
+    {
+      "original_value": "headquarters_of",
+      "recommended_value": "headquarters_of",
+      "confidence": 0.5,
+      "reasoning": "No rule-based mapping found for 'headquarters_of' in RelationshipType",
+      "entity_type": null,
+      "entity_name": null,
+      "entity_description": null,
+      "year": null,
+      "field_path": "relationships -> 23 -> relationship_type"
+    }
+  ],
+  "errors": []
+}

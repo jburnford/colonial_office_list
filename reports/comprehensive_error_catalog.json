@@ -1,0 +1,30 @@
+{
+  "grand_total": 28150,
+  "error_catalog": {
+    "missing_longitude": 9,
+    "invalid_type_enum": 668,
+    "type_number_expected": 6,
+    "missing_year_metadata": 72,
+    "missing_source_directory": 6,
+    "missing_other_fields": 54,
+    "missing_relationship_ids": 150,
+    "invalid_relationship_type_enum": 40,
+    "type_string_expected": 1122,
+    "type_list_expected": 14949,
+    "missing_location": 876,
+    "model_type_error": 26,
+    "string_pattern_mismatch": 66,
+    "missing_required_fields": 5395,
+    "invalid_enum_values": 4060,
+    "unreasonably_high_salary": 59,
+    "value_must_be_positive": 118,
+    "string_too_short": 46,
+    "invalid_salary_amount": 427,
+    "missing_latitude": 1
+  },
+  "by_period": {
+    "1867-1900": 2302,
+    "1901-1930": 24000,
+    "1931-1966": 1848
+  }
+}

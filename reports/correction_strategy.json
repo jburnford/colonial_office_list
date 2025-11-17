@@ -1,0 +1,63 @@
+{
+  "valid": [
+    "1886_extracted.json"
+  ],
+  "phase1_phase2": [
+    {
+      "file": "1867_extracted.json",
+      "errors": 4
+    },
+    {
+      "file": "1877_extracted.json",
+      "errors": 75
+    },
+    {
+      "file": "1880_extracted.json",
+      "errors": 3
+    },
+    {
+      "file": "1883_extracted.json",
+      "errors": 51
+    },
+    {
+      "file": "1888_extracted.json",
+      "errors": 3
+    },
+    {
+      "file": "1889_extracted.json",
+      "errors": 52
+    },
+    {
+      "file": "1894_extracted.json",
+      "errors": 3
+    },
+    {
+      "file": "1896_extracted.json",
+      "errors": 92
+    },
+    {
+      "file": "1897_extracted.json",
+      "errors": 13
+    },
+    {
+      "file": "1898_extracted.json",
+      "errors": 28
+    },
+    {
+      "file": "1899_extracted.json",
+      "errors": 3
+    },
+    {
+      "file": "1900_extracted.json",
+      "errors": 1
+    }
+  ],
+  "re_extract_confirmed": [
+    {
+      "file": "1890_extracted.json",
+      "errors": 1974,
+      "reason": "Investigation confirmed re-extraction needed"
+    }
+  ],
+  "re_extract_candidate": []
+}

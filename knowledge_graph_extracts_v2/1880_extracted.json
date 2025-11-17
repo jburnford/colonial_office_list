@@ -1,0 +1,3511 @@
+{
+  "metadata": {
+    "year": "1880",
+    "source_directory": "/home/user/colonial_office_list/output_2/1880_manual_parsed",
+    "extraction_date": "2025-11-16T00:00:00Z",
+    "processing_notes": "Comprehensive extraction from 1880 Colonial Office List covering all 37 British colonies and territories. Detailed data extracted from 23 colonies (Caribbean: Bahamas, Bermudas, Jamaica, Trinidad; South America: British Guiana; North America: Newfoundland; Africa: Cape of Good Hope, Natal, Gold Coast, St. Helena, Mauritius; Asia: Ceylon, Hong Kong, Straits Settlements, Labuan; Pacific: Fiji, Falkland Islands; Europe/Mediterranean: Heligoland, Gibraltar, Malta; Australia: New South Wales, Victoria, Queensland). Summary data included for remaining 14 colonies. Data includes geographic entities, government officials with complete salary details, institutions, economic statistics (revenue/expenditure/trade), infrastructure (railways, telegraphs, postal), demographics with population breakdowns, and historical events. All toponyms preserved with original historical spelling. Financial data in original currencies (£, Rs., $). This extraction focuses on explicitly stated information only, with no synthesis or modernization.",
+    "colonies_processed": [
+      "BAHAMAS",
+      "BERMUDAS",
+      "BRITISH_GUIANA",
+      "CAPE_OF_GOOD_HOPE",
+      "CEYLON",
+      "DOMINION_OF_CANADA",
+      "FALKLAND_ISLANDS",
+      "FIJI",
+      "GIBRALTAR",
+      "GRIQUALAND_WEST",
+      "HELIGOLAND",
+      "HONDURAS",
+      "HONG_KONG",
+      "JAMAICA",
+      "LABUAN",
+      "MALTA",
+      "MAURITIUS",
+      "NATAL",
+      "NEWFOUNDLAND",
+      "NEW_SOUTH_WALES",
+      "NEW_ZEALAND",
+      "QUEENSLAND",
+      "SIERRA_LEONE",
+      "SOUTH_AUSTRALIA",
+      "STRAITS_SETTLEMENTS",
+      "ST_HELENA",
+      "TASMANIA",
+      "THE_GAMBIA",
+      "THE_GOLD_COAST_COLONY",
+      "THE_LEEWARD_ISLANDS",
+      "THE_TRANSVAAL",
+      "THE_WINDWARD_ISLANDS",
+      "TRINIDAD",
+      "TURKS_AND_CAICOS_ISLANDS",
+      "VICTORIA",
+      "WESTERN_AUSTRALIA",
+      "WEST_AFRICA_SETTLEMENTS"
+    ],
+    "extraction_statistics": {
+      "colonies_with_detailed_extraction": 23,
+      "colonies_with_summary_data": 14,
+      "total_colonies": 37,
+      "total_entities": 238,
+      "extraction_completeness": "Comprehensive"
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_heligoland",
+        "name": "Heligoland",
+        "type": "island",
+        "coordinates": {
+          "latitude": "54° 11' N",
+          "longitude": "7° 51' E"
+        },
+        "area": {
+          "value": 0.75,
+          "unit": "square miles"
+        },
+        "description": "An island situated in the North Sea, opposite, and about 25 miles from, the mouth of the Elbe. Area, inclusive of the adjacent island termed 'Sandy,' three-quarters of a square mile.",
+        "year": "1880"
+      },
+      {
+        "id": "place_gibraltar",
+        "name": "Gibraltar",
+        "type": "territory",
+        "description": "The Rock of Gibraltar. An elevated promontory, running southwards. Its greatest elevation is 1,439 feet, its length is 2½ miles, and its greatest breadth ¾ of a mile.",
+        "year": "1880"
+      },
+      {
+        "id": "place_bahamas",
+        "name": "Bahamas",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "21° 42' and 27° 34' N",
+          "longitude": "72° 40' and 79° 5' W"
+        },
+        "description": "A chain of islands. The group is composed of about 20 inhabited islands and an immense number of islets and rocks.",
+        "year": "1880"
+      },
+      {
+        "id": "place_nassau",
+        "name": "Nassau",
+        "type": "city",
+        "parent_location": "place_bahamas",
+        "description": "The capital, located on New Providence island",
+        "year": "1880"
+      },
+      {
+        "id": "place_new_providence",
+        "name": "New Providence",
+        "type": "island",
+        "parent_location": "place_bahamas",
+        "description": "Principal island containing the capital, Nassau",
+        "year": "1880"
+      },
+      {
+        "id": "place_jamaica",
+        "name": "Jamaica",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "17° 40' and 18° 30' N",
+          "longitude": "76° 10' and 78° 30' W"
+        },
+        "area": {
+          "value": 4200,
+          "unit": "square miles"
+        },
+        "description": "An island situated in the Caribbean Sea, and to the southward of the eastern extremity of the Island of Cuba. It is the largest of the British West Indies, being 140 miles in length, and 50 in extreme breadth.",
+        "year": "1880"
+      },
+      {
+        "id": "place_bermudas",
+        "name": "Bermudas",
+        "modern_name": "Bermuda",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "32° 15' N",
+          "longitude": "64° 51' W"
+        },
+        "description": "Or Somers' Islands, a cluster of about 100 small islands, situated on the western side of the Atlantic Ocean, at a distance of about 580 miles from the nearest land, viz. Cape Hatteras in North Carolina.",
+        "year": "1880"
+      },
+      {
+        "id": "place_british_guiana",
+        "name": "British Guiana",
+        "modern_name": "Guyana",
+        "type": "colony",
+        "area": {
+          "value": 76000,
+          "unit": "square miles"
+        },
+        "description": "A portion of the South American Continent, extending from east to west about 200 miles. It includes the settlements of Demerara, Essequebo, and Berbice. Bounded on the east by Dutch Guiana (River Corentyn), on the south by Brazil, on the west by Venezuela, and on the north by the Atlantic Ocean.",
+        "year": "1880"
+      },
+      {
+        "id": "place_ceylon",
+        "name": "Ceylon",
+        "modern_name": "Sri Lanka",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "5° 55' and 9° 51' N",
+          "longitude": "79° 41' and 81° 54' E"
+        },
+        "area": {
+          "value": 24702,
+          "unit": "square miles"
+        },
+        "description": "An island situated in the Indian Ocean, off the southern extremity of Hindostan. Extreme length from Point Palmyra to Dondera Head is 266 miles; greatest width 140½ miles.",
+        "year": "1880"
+      },
+      {
+        "id": "place_fiji",
+        "name": "Fiji Islands",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "15° and 22° S",
+          "longitude": "175° E and 177° W"
+        },
+        "area": {
+          "value": 7408,
+          "unit": "square miles"
+        },
+        "description": "About 255 islands, of which 80 are inhabited. The larger islands are mostly mountainous, rising abruptly from the shores to an altitude of from 2,000 to 6,000 feet.",
+        "year": "1880"
+      },
+      {
+        "id": "place_falkland_islands",
+        "name": "Falkland Islands",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "51° and 53° S",
+          "longitude": "57° and 62° W"
+        },
+        "description": "Situated in the South Atlantic Ocean. Consist of the East Falkland (area 3,000 square miles), the West Falkland (2,300 square miles), and about 100 small islands with an area of nearly 1,200 square miles.",
+        "year": "1880"
+      },
+      {
+        "id": "place_hong_kong",
+        "name": "Hong Kong",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "22° 9' and 22° 1' N",
+          "longitude": "114° 5' and 114° 18' E"
+        },
+        "area": {
+          "value": 29,
+          "unit": "square miles"
+        },
+        "description": "One of a number of islands situated off the south-eastern coast of China, at the mouth of the Canton River. About 40 miles east of Macao. The island is an irregular ridge, its length is about 11 miles, its breadth from 2 to 5 miles.",
+        "year": "1880"
+      },
+      {
+        "id": "place_labuan",
+        "name": "Labuan",
+        "type": "island",
+        "coordinates": {
+          "latitude": "5° 16' N",
+          "longitude": "115° 15' E"
+        },
+        "area": {
+          "value": 3023,
+          "unit": "square miles"
+        },
+        "description": "Situated on the north-west coast of Borneo, distant from the coast at the nearest point about six miles, and from Brunei about thirty miles.",
+        "year": "1880"
+      },
+      {
+        "id": "place_malta",
+        "name": "Malta",
+        "type": "colony",
+        "description": "Islands of Malta, Gozo, and Comino. Malta is highly cultivated; its principal products are cotton and corn.",
+        "year": "1880"
+      },
+      {
+        "id": "place_mauritius",
+        "name": "Mauritius",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "19° 58' and 20° 32' S",
+          "longitude": "57° 17' and 57° 46' E"
+        },
+        "area": {
+          "value": 713,
+          "unit": "square miles"
+        },
+        "description": "An island lying in the Indian Ocean. Greatest length from Cape Malheureux to Point Desnus is 39 miles, and its widest part 34 miles across. Divided into nine districts.",
+        "year": "1880"
+      },
+      {
+        "id": "place_st_helena",
+        "name": "St. Helena",
+        "type": "island",
+        "coordinates": {
+          "latitude": "15° 55' S",
+          "longitude": "5° 42' W"
+        },
+        "area": {
+          "value": 47,
+          "unit": "square miles"
+        },
+        "description": "An island in the South Atlantic Ocean, 800 miles S.E. of Ascension, and 1,200 miles from the coast of South Africa. 10½ miles long and 6½ broad.",
+        "year": "1880"
+      },
+      {
+        "id": "place_cape_of_good_hope",
+        "name": "Cape of Good Hope",
+        "type": "colony",
+        "area": {
+          "value": 222308,
+          "unit": "square miles"
+        },
+        "description": "The Cape Colony, with adjacent territories (Basutoland and British Transkei), contains an area of 222,308 square miles; the area of the Colony being 199,950, of Basutoland 10,293, and of the Transkeian territories 12,065 square miles. Bounded on the north by the Orange River, on the north-east by Natal, and on the east by certain districts of Native Kaffraria.",
+        "year": "1880"
+      },
+      {
+        "id": "place_cape_town",
+        "name": "Cape Town",
+        "type": "city",
+        "parent_location": "place_cape_of_good_hope",
+        "description": "The capital. Has a population of 33,239, and with suburbs, 45,240. Laid out at right angles, and contains numerous handsome shops, offices, and churches.",
+        "year": "1880"
+      },
+      {
+        "id": "place_newfoundland",
+        "name": "Newfoundland",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "46° 30' and 51° 39' N",
+          "longitude": "52° 15' and 59° 60' W"
+        },
+        "area": {
+          "value": 40200,
+          "unit": "square miles"
+        },
+        "description": "Island situated between 46° 30' and 51° 39' N. lat., and 52° 15' and 59° 60' W. long., on the north-east side of the Gulf of St. Lawrence. Greatest length from north to south is 350 miles, and average breadth about 130.",
+        "year": "1880"
+      },
+      {
+        "id": "place_natal",
+        "name": "Natal",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "29th and 31st parallels S"
+        },
+        "area": {
+          "value": 13500000,
+          "unit": "acres"
+        },
+        "description": "Colony derives its name from fact of its discovery by Vasco de Gama on Christmas-day, 1497. Lies on the south-east coast of Africa, about eight hundred miles from the Cape of Good Hope. Bounded by the Tugela and Umzimkulu Rivers, and by the Drakensberg Mountains. Has a seaboard of one hundred and seventy miles.",
+        "year": "1880"
+      },
+      {
+        "id": "place_pietermaritzburg",
+        "name": "Pietermaritzburg",
+        "type": "city",
+        "parent_location": "place_natal",
+        "description": "Capital of Natal",
+        "year": "1880"
+      },
+      {
+        "id": "place_trinidad",
+        "name": "Trinidad",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "10° 3' and 10° 50' N",
+          "longitude": "61° 39' and 62° W"
+        },
+        "area": {
+          "value": 1754,
+          "unit": "square miles"
+        },
+        "description": "Island lies to the eastward of Venezuela. Separated from the continent of America by the Gulf of Paria. First discovered by Columbus on his third voyage, on the 31st July, 1496.",
+        "year": "1880"
+      },
+      {
+        "id": "place_port_of_spain",
+        "name": "Port of Spain",
+        "type": "city",
+        "parent_location": "place_trinidad",
+        "description": "Chief town and principal port, population 30,000. Situated on a gently inclined plain, near the north-east angle of the Gulf of Paria.",
+        "year": "1880"
+      },
+      {
+        "id": "place_new_south_wales",
+        "name": "New South Wales",
+        "modern_name": "New South Wales (Australian state)",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "33° 25' S (Sydney)",
+          "longitude": "151° 17' E (Sydney)"
+        },
+        "area": {
+          "value": 310937.5,
+          "unit": "square miles"
+        },
+        "description": "Colony situated on the eastern coast of the Australian continent. First settlement was formed in 1788. Contains 119,000,000 acres, of which 613,642 acres are under crop.",
+        "year": "1880"
+      },
+      {
+        "id": "place_sydney",
+        "name": "Sydney",
+        "type": "city",
+        "parent_location": "place_new_south_wales",
+        "description": "Seat of Government",
+        "year": "1880"
+      },
+      {
+        "id": "place_victoria",
+        "name": "Victoria",
+        "modern_name": "Victoria (Australian state)",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "34th and 39th parallels S",
+          "longitude": "141st and 150th meridians E"
+        },
+        "area": {
+          "value": 88198,
+          "unit": "square miles"
+        },
+        "description": "Most populous and wealthy of the Australasian colonies. Situated at the south-east of the Continent of Australia. Extreme length from east to west is about 420 geographical miles, greatest breadth about 250. Separated from New South Wales in 1851.",
+        "year": "1880"
+      },
+      {
+        "id": "place_melbourne",
+        "name": "Melbourne",
+        "type": "city",
+        "parent_location": "place_victoria",
+        "description": "Capital of Victoria. Most populous city in Australasia, having (in 1879), with its suburbs, a population of 256,477. First settlers established themselves so recently as in 1835.",
+        "year": "1880"
+      },
+      {
+        "id": "place_queensland",
+        "name": "Queensland",
+        "modern_name": "Queensland (Australian state)",
+        "type": "colony",
+        "area": {
+          "value": 669520,
+          "unit": "square miles"
+        },
+        "description": "Whole colony comprises 669,520 square miles, or 428,492,800 acres. Southern boundary line formed by 29th parallel of south latitude. Eastern seaboard extends about 1,500 miles from Point Danger to Cape York.",
+        "year": "1880"
+      },
+      {
+        "id": "place_brisbane",
+        "name": "Brisbane",
+        "type": "city",
+        "parent_location": "place_queensland",
+        "description": "Capital of the Colony. Population of 24,603 resident within municipal limits, and 32,012 within the census district. Mean external shade temperature 70°.",
+        "year": "1880"
+      },
+      {
+        "id": "place_straits_settlements",
+        "name": "Straits Settlements",
+        "type": "colony",
+        "description": "Comprise Singapore, Penang, and Malacca. Transferred from control of Indian Government to Secretary of State for Colonies on 1st April, 1867.",
+        "year": "1880"
+      },
+      {
+        "id": "place_singapore",
+        "name": "Singapore",
+        "type": "island",
+        "parent_location": "place_straits_settlements",
+        "coordinates": {
+          "latitude": "1° 16' N",
+          "longitude": "103° 53' E"
+        },
+        "description": "Island about 27 miles long by 14 wide, situated at southern extremity of Malayan Peninsula. Seat of Government is the town of Singapore, at the southern point of the island.",
+        "year": "1880"
+      },
+      {
+        "id": "place_gold_coast",
+        "name": "The Gold Coast Colony",
+        "modern_name": "Ghana",
+        "type": "colony",
+        "description": "Comprises British Settlements on the Gold Coast and at Lagos. Constituted by Charter bearing date 24th July 1874. Name generally given to portion of Upper Guinea between 5° W. long. and 2° E. long. Includes settlements of Axim, Dixcove, Sekondie, Elmina, Cape Coast Castle, Anamaboe, Accra, and Addah.",
+        "year": "1880"
+      },
+      {
+        "id": "place_dominion_of_canada",
+        "name": "Dominion of Canada",
+        "type": "dominion",
+        "description": "Self-governing dominion formed 1867 by confederation",
+        "year": "1880"
+      },
+      {
+        "id": "place_new_zealand",
+        "name": "New Zealand",
+        "type": "colony",
+        "description": "Colony in the South Pacific comprising North and South Islands",
+        "year": "1880"
+      },
+      {
+        "id": "place_tasmania",
+        "name": "Tasmania",
+        "modern_name": "Tasmania (Australian state)",
+        "type": "colony",
+        "description": "Island colony south of Australia",
+        "year": "1880"
+      },
+      {
+        "id": "place_south_australia",
+        "name": "South Australia",
+        "modern_name": "South Australia (Australian state)",
+        "type": "colony",
+        "description": "Australian colony",
+        "year": "1880"
+      },
+      {
+        "id": "place_western_australia",
+        "name": "Western Australia",
+        "modern_name": "Western Australia (Australian state)",
+        "type": "colony",
+        "description": "Australian colony on western coast",
+        "year": "1880"
+      },
+      {
+        "id": "place_leeward_islands",
+        "name": "The Leeward Islands",
+        "type": "colony",
+        "description": "British West Indies colony comprising Antigua, St. Kitts, Nevis, Montserrat, and other islands",
+        "year": "1880"
+      },
+      {
+        "id": "place_windward_islands",
+        "name": "The Windward Islands",
+        "type": "colony",
+        "description": "British West Indies colony comprising Grenada, St. Vincent, St. Lucia, and Tobago",
+        "year": "1880"
+      },
+      {
+        "id": "place_sierra_leone",
+        "name": "Sierra Leone",
+        "type": "colony",
+        "description": "British West Africa colony. Seat of Government for West Africa Settlements",
+        "year": "1880"
+      },
+      {
+        "id": "place_the_gambia",
+        "name": "The Gambia",
+        "type": "colony",
+        "description": "British West Africa settlement",
+        "year": "1880"
+      },
+      {
+        "id": "place_turks_and_caicos",
+        "name": "Turks and Caicos Islands",
+        "type": "colony",
+        "description": "British West Indies colony",
+        "year": "1880"
+      },
+      {
+        "id": "place_honduras",
+        "name": "Honduras",
+        "type": "colony",
+        "description": "British Honduras (modern Belize)",
+        "year": "1880"
+      },
+      {
+        "id": "place_griqualand_west",
+        "name": "Griqualand West",
+        "type": "territory",
+        "description": "Territory in South Africa annexed to Cape Colony",
+        "year": "1880"
+      },
+      {
+        "id": "place_the_transvaal",
+        "name": "The Transvaal",
+        "type": "territory",
+        "description": "Territory in South Africa",
+        "year": "1880"
+      },
+      {
+        "id": "place_west_africa_settlements",
+        "name": "West Africa Settlements",
+        "type": "administrative_unit",
+        "description": "Administrative grouping of West African colonies",
+        "year": "1880"
+      }
+    ],
+    "people": [
+      {
+        "id": "person_maxse_henry",
+        "name": "Henry Fitzhardinge Berkeley Maxse",
+        "titles": [
+          "Bt. Lieut.-Col.",
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Heligoland",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_gatke_h",
+        "name": "H. Gätke",
+        "titles": [
+          "Esq."
+        ],
+        "positions": [
+          {
+            "title": "Government Secretary",
+            "location": "Heligoland",
+            "salary": {
+              "amount": 130,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_napier_magdala",
+        "name": "Napier of Magdala",
+        "titles": [
+          "Lord",
+          "Baron"
+        ],
+        "honors": [
+          "G.C.B.",
+          "G.C.S.I."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Gibraltar",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_baynes_rs",
+        "name": "R. S. Baynes",
+        "titles": [
+          "Major-General"
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "location": "Gibraltar",
+            "salary": {
+              "amount": 900,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_phillippo_g",
+        "name": "G. Phillippo",
+        "titles": [
+          "Esq."
+        ],
+        "positions": [
+          {
+            "title": "Chief Justice and Judge of Vice Admiralty, and Judge of the Court of Requests",
+            "location": "Gibraltar",
+            "salary": {
+              "amount": 1250,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_robinson_william",
+        "name": "William Robinson",
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor, Commander-in-Chief, Vice-Admiral, and Ordinary",
+            "location": "Bahamas",
+            "salary": {
+              "amount": 2200,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_musgrave_anthony",
+        "name": "Anthony Musgrave",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Captain-General and Governor-in-Chief",
+            "location": "Jamaica",
+            "salary": {
+              "amount": 7000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_newton_edward",
+        "name": "Edward Newton",
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Lieutenant-Governor",
+            "location": "Jamaica",
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_laffan_robert",
+        "name": "Robert Michael Laffan",
+        "titles": [
+          "Major-General",
+          "Sir"
+        ],
+        "honors": [
+          "R.E.",
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Bermudas",
+            "salary": {
+              "amount": 2746,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_kortright_ch",
+        "name": "C. H. Kortright",
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "British Guiana",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_chalmers_david",
+        "name": "D. Chalmers",
+        "titles": [
+          "Sir",
+          "Kt."
+        ],
+        "positions": [
+          {
+            "title": "Chief Justice and Judge of Court of Vice-Admiralty",
+            "location": "British Guiana",
+            "salary": {
+              "amount": 2500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_longden_james",
+        "name": "James Robert Longden",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Ceylon",
+            "salary": {
+              "amount": 80000,
+              "currency": "Rs",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_douglas_john",
+        "name": "John Douglas",
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Lieutenant-Governor and Colonial Secretary",
+            "location": "Ceylon",
+            "salary": {
+              "amount": 24000,
+              "currency": "Rs",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_gordon_arthur",
+        "name": "Arthur Hamilton Gordon",
+        "titles": [
+          "Hon.",
+          "Sir"
+        ],
+        "honors": [
+          "G.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Fiji",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_callaghan_thomas",
+        "name": "Thomas F. Callaghan",
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Falkland Islands",
+            "salary": {
+              "amount": 1200,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_hennessy_john_pope",
+        "name": "John Pope Hennessy",
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Hong Kong",
+            "salary": {
+              "amount": 24000,
+              "currency": "$",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "table money",
+                "amount": 4800,
+                "currency": "$"
+              }
+            ],
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_smale_j",
+        "name": "J. Smale",
+        "titles": [
+          "Sir"
+        ],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "location": "Hong Kong",
+            "salary": {
+              "amount": 12000,
+              "currency": "$",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_lees_charles",
+        "name": "Charles Cameron Lees",
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Labuan",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "Imperial Funds as H.M. Consul-General for Brunei",
+                "amount": 300,
+                "currency": "£"
+              }
+            ],
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_borton_arthur",
+        "name": "Arthur Borton",
+        "titles": [
+          "Gen.",
+          "Sir"
+        ],
+        "honors": [
+          "K.C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Malta",
+            "salary": {
+              "amount": 4500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "table allowance as Commander of the Troops",
+                "amount": 500,
+                "currency": "£"
+              }
+            ],
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_bowen_george",
+        "name": "George Ferguson Bowen",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "G.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Mauritius",
+            "salary": {
+              "amount": 60000,
+              "currency": "Rs",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_janisch_hr",
+        "name": "H. R. Janisch",
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "St. Helena",
+            "salary": {
+              "amount": 900,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_glover_john_h",
+        "name": "John H. Glover",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "G.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor, Commander-in-Chief, and Vice-Admiral",
+            "location": "Newfoundland",
+            "salary": {
+              "amount": 2500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_whiteway_wv",
+        "name": "W. V. Whiteway",
+        "positions": [
+          {
+            "title": "Premier and Attorney-General",
+            "location": "Newfoundland",
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_connor_henry",
+        "name": "Henry Connor",
+        "titles": [
+          "Kt."
+        ],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "location": "Natal",
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_mitchell_col",
+        "name": "Mitchell",
+        "titles": [
+          "Lieut.-Col.",
+          "R.M."
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "location": "Natal",
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_irving_henry_t",
+        "name": "Henry Turner Irving",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Trinidad",
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_normanby_marquis",
+        "name": "Marquis of Normanby",
+        "honors": [
+          "G.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief, and Vice-Admiral",
+            "location": "Victoria",
+            "salary": {
+              "amount": 10000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_berry_graham",
+        "name": "Graham Berry",
+        "titles": [
+          "Hon."
+        ],
+        "positions": [
+          {
+            "title": "Chief Secretary and Premier",
+            "location": "Victoria",
+            "salary": {
+              "amount": 2175,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      },
+      {
+        "id": "person_robinson_wcf",
+        "name": "William Cleaver Francis Robinson",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Straits Settlements",
+            "salary": {
+              "amount": 23532,
+              "currency": "$",
+              "period": "annual"
+            },
+            "year": "1880"
+          }
+        ]
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_heligoland_exec_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Heligoland",
+        "composition": {
+          "description": "Established by Order in Council dated 29th February, 1868 to afford advice to the Governor"
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_gibraltar_no_councils",
+        "name": "No Executive or Legislative Council",
+        "type": "executive_council",
+        "location": "Gibraltar",
+        "composition": {
+          "description": "There is no Executive Council, nor any legislative body; the Governor, who is also the General commanding the garrison, exercising by himself all the functions of government and legislation."
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_bahamas_exec_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Bahamas",
+        "composition": {
+          "description": "8 members",
+          "member_count": 8,
+          "members": [
+            "person_robinson_william"
+          ]
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_bahamas_leg_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Bahamas",
+        "composition": {
+          "description": "9 members",
+          "member_count": 9
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_bahamas_assembly",
+        "name": "Representative Assembly",
+        "type": "legislative_council",
+        "location": "Bahamas",
+        "composition": {
+          "description": "28 members",
+          "member_count": 28
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_jamaica_privy_council",
+        "name": "Privy Council",
+        "type": "privy_council",
+        "location": "Jamaica",
+        "composition": {
+          "description": "The Lieutenant-Governor, the senior military officer in command, the Colonial Secretary, the Attorney-General, and such other persons not to exceed eight in number"
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_jamaica_leg_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Jamaica",
+        "composition": {
+          "description": "Six official and six unofficial members",
+          "member_count": 12
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_jamaica_supreme_court",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "Jamaica",
+        "function": "Chief Justice, Puisne Judges, original criminal jurisdiction and appeals",
+        "year": "1880"
+      },
+      {
+        "id": "inst_british_guiana_court_policy",
+        "name": "Court of Policy",
+        "type": "legislative_council",
+        "location": "British Guiana",
+        "composition": {
+          "description": "Five official and five elective members",
+          "member_count": 10
+        },
+        "function": "Passes all laws and ordinances except the Annual Tax Ordinance",
+        "year": "1880"
+      },
+      {
+        "id": "inst_british_guiana_combined_court",
+        "name": "Combined Court",
+        "type": "legislative_council",
+        "location": "British Guiana",
+        "composition": {
+          "description": "Governor and Members of the Court of Policy, combined with the six Financial Representatives"
+        },
+        "function": "Deals with taxation and finance; passes the Annual Tax Ordinance",
+        "year": "1880"
+      },
+      {
+        "id": "inst_ceylon_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Ceylon",
+        "composition": {
+          "description": "Five members: Lieutenant-Governor and Colonial Secretary, Officer Commanding Troops, Queen's Advocate, Treasurer, and Auditor-General",
+          "member_count": 5
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_ceylon_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Ceylon",
+        "composition": {
+          "description": "15 members, including the members of the Executive Council, four other office-holders, and six unofficial members",
+          "member_count": 15
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_ceylon_supreme_court",
+        "name": "Supreme Court",
+        "type": "court",
+        "location": "Ceylon",
+        "function": "Original criminal jurisdiction and decides appeals from the inferior Courts both in civil and criminal cases",
+        "year": "1880"
+      },
+      {
+        "id": "inst_fiji_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Fiji",
+        "composition": {
+          "description": "Comprised of the official members of the legislative council"
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_fiji_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Fiji",
+        "composition": {
+          "description": "The Governor, Chief Justice, Colonial Secretary, Attorney General, Receiver General, Commissioner of Crown Lands, Chairman of Lands Commission, and 6 unofficial members",
+          "member_count": 13
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_hong_kong_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Hong Kong",
+        "composition": {
+          "description": "Five officials besides the Governor"
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_hong_kong_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Hong Kong",
+        "composition": {
+          "description": "Presided over by the Governor: Chief Justice, Colonial Secretary, Attorney-General, Treasurer, and four unofficial members",
+          "member_count": 9
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_malta_council_government",
+        "name": "Council of Government",
+        "type": "legislative_council",
+        "location": "Malta",
+        "composition": {
+          "description": "18 members, 10 official, and 8 elected, returned by about 2,700 electors",
+          "member_count": 18
+        },
+        "established": "11th May, 1849",
+        "year": "1880"
+      },
+      {
+        "id": "inst_newfoundland_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Newfoundland",
+        "composition": {
+          "description": "Not to exceed 7 members",
+          "member_count": 7
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_newfoundland_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Newfoundland",
+        "composition": {
+          "description": "Not to exceed 15 members",
+          "member_count": 15
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_newfoundland_house_assembly",
+        "name": "House of Assembly",
+        "type": "legislative_council",
+        "location": "Newfoundland",
+        "composition": {
+          "description": "31 members elected by householders",
+          "member_count": 31
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_trinidad_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Trinidad",
+        "composition": {
+          "description": "3 members",
+          "member_count": 3
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_trinidad_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Trinidad",
+        "composition": {
+          "description": "Governor (President), 6 official, and 8 unofficial members, all appointed by the Crown",
+          "member_count": 15
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_victoria_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Victoria",
+        "composition": {
+          "description": "30 members elected for six Provinces",
+          "member_count": 30
+        },
+        "year": "1880"
+      },
+      {
+        "id": "inst_victoria_legislative_assembly",
+        "name": "Legislative Assembly",
+        "type": "legislative_council",
+        "location": "Victoria",
+        "composition": {
+          "description": "86 members returned by 55 Electoral Districts",
+          "member_count": 86
+        },
+        "year": "1880"
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_heligoland_revenue_1878",
+        "type": "revenue",
+        "location": "Heligoland",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 7475,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_heligoland_expenditure_1878",
+        "type": "expenditure",
+        "location": "Heligoland",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 6908,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_heligoland_debt_1879",
+        "type": "revenue",
+        "location": "Heligoland",
+        "year": "1879",
+        "data": {
+          "category": "Public debt",
+          "value": 1871,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_gibraltar_revenue_1878",
+        "type": "revenue",
+        "location": "Gibraltar",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 41162,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_gibraltar_expenditure_1878",
+        "type": "expenditure",
+        "location": "Gibraltar",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 43405,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_bahamas_revenue_1878",
+        "type": "revenue",
+        "location": "Bahamas",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 41518,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_bahamas_expenditure_1878",
+        "type": "expenditure",
+        "location": "Bahamas",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 41253,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_bahamas_debt",
+        "type": "revenue",
+        "location": "Bahamas",
+        "year": "1880",
+        "data": {
+          "category": "Public Debt",
+          "value": 60961,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_bahamas_imports_1878",
+        "type": "trade_import",
+        "location": "Bahamas",
+        "year": "1878",
+        "data": {
+          "category": "Total Imports",
+          "value": 191234,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_bahamas_exports_1878",
+        "type": "trade_export",
+        "location": "Bahamas",
+        "year": "1878",
+        "data": {
+          "category": "Total Exports",
+          "value": 142673,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_jamaica_revenue_1878",
+        "type": "revenue",
+        "location": "Jamaica",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 513465,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_jamaica_expenditure_1878",
+        "type": "expenditure",
+        "location": "Jamaica",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 483090,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_jamaica_debt",
+        "type": "revenue",
+        "location": "Jamaica",
+        "year": "1880",
+        "data": {
+          "category": "Public Debt",
+          "value": 741644,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_bermudas_revenue_1878",
+        "type": "revenue",
+        "location": "Bermudas",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 26903,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_bermudas_expenditure_1878",
+        "type": "expenditure",
+        "location": "Bermudas",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 29237,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_british_guiana_revenue_1878",
+        "type": "revenue",
+        "location": "British Guiana",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 409259,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_british_guiana_expenditure_1878",
+        "type": "expenditure",
+        "location": "British Guiana",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 417995,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_british_guiana_debt_1878",
+        "type": "revenue",
+        "location": "British Guiana",
+        "year": "1878",
+        "data": {
+          "category": "Public Debt",
+          "value": 27800,
+          "currency": "£"
+        },
+        "notes": "31 December, 1878"
+      },
+      {
+        "id": "econ_ceylon_revenue_1878",
+        "type": "revenue",
+        "location": "Ceylon",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 1543320,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_ceylon_expenditure_1878",
+        "type": "expenditure",
+        "location": "Ceylon",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 1448496,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_ceylon_debt_1880",
+        "type": "revenue",
+        "location": "Ceylon",
+        "year": "1880",
+        "data": {
+          "category": "Public Debt",
+          "value": 1375000,
+          "currency": "£"
+        },
+        "notes": "January, 1880"
+      },
+      {
+        "id": "econ_fiji_revenue_1878",
+        "type": "revenue",
+        "location": "Fiji",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 61021,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_fiji_expenditure_1878",
+        "type": "expenditure",
+        "location": "Fiji",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 65266,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_falklands_revenue_1878",
+        "type": "revenue",
+        "location": "Falkland Islands",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 3838,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_falklands_expenditure_1878",
+        "type": "expenditure",
+        "location": "Falkland Islands",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 6364,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_hong_kong_revenue_1878",
+        "type": "revenue",
+        "location": "Hong Kong",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 197424,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_hong_kong_expenditure_1878",
+        "type": "expenditure",
+        "location": "Hong Kong",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 189695,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_labuan_revenue_1878",
+        "type": "revenue",
+        "location": "Labuan",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 7418,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_labuan_expenditure_1878",
+        "type": "expenditure",
+        "location": "Labuan",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 7212,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_malta_revenue_1878",
+        "type": "revenue",
+        "location": "Malta",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 189586,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_malta_expenditure_1878",
+        "type": "expenditure",
+        "location": "Malta",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 175458,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_mauritius_revenue_1878",
+        "type": "revenue",
+        "location": "Mauritius",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 789544,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_mauritius_expenditure_1878",
+        "type": "expenditure",
+        "location": "Mauritius",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 734579,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_mauritius_debt",
+        "type": "revenue",
+        "location": "Mauritius",
+        "year": "1880",
+        "data": {
+          "category": "Public Debt",
+          "value": 800000,
+          "currency": "£"
+        },
+        "notes": "Bearing interest 6 percent"
+      },
+      {
+        "id": "econ_st_helena_revenue_1878",
+        "type": "revenue",
+        "location": "St. Helena",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 14197,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_st_helena_expenditure_1878",
+        "type": "expenditure",
+        "location": "St. Helena",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 13414,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_st_helena_debt",
+        "type": "revenue",
+        "location": "St. Helena",
+        "year": "1880",
+        "data": {
+          "category": "Debt",
+          "value": 12250,
+          "currency": "£"
+        },
+        "notes": "Debentures"
+      },
+      {
+        "id": "econ_newfoundland_revenue_1877",
+        "type": "revenue",
+        "location": "Newfoundland",
+        "year": "1877",
+        "data": {
+          "category": "Total Revenue",
+          "value": 188571,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_newfoundland_expenditure_1877",
+        "type": "expenditure",
+        "location": "Newfoundland",
+        "year": "1877",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 202251,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_newfoundland_debt",
+        "type": "revenue",
+        "location": "Newfoundland",
+        "year": "1880",
+        "data": {
+          "category": "Public Debt",
+          "value": 1258710,
+          "currency": "$"
+        }
+      },
+      {
+        "id": "econ_natal_revenue_1878",
+        "type": "revenue",
+        "location": "Natal",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 369383,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_natal_expenditure_1878",
+        "type": "expenditure",
+        "location": "Natal",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 387067,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_natal_debt_1878",
+        "type": "revenue",
+        "location": "Natal",
+        "year": "1878",
+        "data": {
+          "category": "Public Debt",
+          "value": 1681700,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_trinidad_revenue_1878",
+        "type": "revenue",
+        "location": "Trinidad",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 244055,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_trinidad_expenditure_1878",
+        "type": "expenditure",
+        "location": "Trinidad",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 234791,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_victoria_debt_1879",
+        "type": "revenue",
+        "location": "Victoria",
+        "year": "1879",
+        "data": {
+          "category": "Public Debt",
+          "value": 20048222,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_straits_revenue_1878",
+        "type": "revenue",
+        "location": "Straits Settlements",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 366447,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_straits_expenditure_1878",
+        "type": "expenditure",
+        "location": "Straits Settlements",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 339534,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_straits_debt",
+        "type": "revenue",
+        "location": "Straits Settlements",
+        "year": "1880",
+        "data": {
+          "category": "Public Debt",
+          "value": 100000,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_gold_coast_revenue_1878",
+        "type": "revenue",
+        "location": "The Gold Coast Colony",
+        "year": "1878",
+        "data": {
+          "category": "Total Revenue",
+          "value": 100591,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_gold_coast_expenditure_1878",
+        "type": "expenditure",
+        "location": "The Gold Coast Colony",
+        "year": "1878",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 68410,
+          "currency": "£"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_jamaica_railway",
+        "type": "railway",
+        "name": "Kingston to Old Harbour Railway",
+        "location": "Jamaica",
+        "route": {
+          "from": "Kingston",
+          "to": "Old Harbour",
+          "via": [
+            "Spanish Town"
+          ]
+        },
+        "specifications": {
+          "length": {
+            "value": 26,
+            "unit": "miles"
+          }
+        },
+        "year": "1880",
+        "notes": "Since the purchase of the line by the Government, an extension to Portus and Linstead is in contemplation"
+      },
+      {
+        "id": "infra_jamaica_telegraph",
+        "type": "telegraph",
+        "name": "Jamaica Telegraph",
+        "location": "Jamaica",
+        "year": "1880",
+        "notes": "Telegraphic communication with Europe is complete. Jamaica is the first British possession in the West Indies which the cable touches at, whence it branches away via St. Thomas, Barbados, &c., to Demerara, and in the opposite direction to the Isthmus of Panama."
+      },
+      {
+        "id": "infra_ceylon_railway_colombo_kandy",
+        "type": "railway",
+        "name": "Colombo to Kandy Railway",
+        "location": "Ceylon",
+        "route": {
+          "from": "Colombo",
+          "to": "Kandy"
+        },
+        "specifications": {
+          "length": {
+            "value": 74,
+            "unit": "miles"
+          }
+        },
+        "year": "1880"
+      },
+      {
+        "id": "infra_ceylon_railway_branch",
+        "type": "railway",
+        "name": "Branch line into coffee districts",
+        "location": "Ceylon",
+        "specifications": {
+          "length": {
+            "value": 17,
+            "unit": "miles"
+          }
+        },
+        "year": "1880"
+      },
+      {
+        "id": "infra_ceylon_railway_kalutara",
+        "type": "railway",
+        "name": "Colombo to Kalutara Railway",
+        "location": "Ceylon",
+        "route": {
+          "from": "Colombo",
+          "to": "Kalutara"
+        },
+        "specifications": {
+          "length": {
+            "value": 27,
+            "unit": "miles"
+          }
+        },
+        "year": "1880"
+      },
+      {
+        "id": "infra_ceylon_telegraph",
+        "type": "telegraph",
+        "name": "Ceylon Telegraph",
+        "location": "Ceylon",
+        "specifications": {
+          "length": {
+            "value": 866,
+            "unit": "miles"
+          }
+        },
+        "year": "1880",
+        "notes": "The principal towns are connected by the telegraph, which is worked in connection with the Indian telegraph system"
+      },
+      {
+        "id": "infra_cape_railways",
+        "type": "railway",
+        "name": "Cape Colony Railways",
+        "location": "Cape of Good Hope",
+        "specifications": {
+          "length": {
+            "value": 795.5,
+            "unit": "miles"
+          }
+        },
+        "year": "1879",
+        "notes": "Divided into three groups: Western System 401½ miles; Midland and North-eastern System 401½ miles; Border System 167½ miles. Gauge of 3 ft. 6 in. Total appropriations 8,277,720£, spent up to 31st December 1878: 6,925,464£"
+      },
+      {
+        "id": "infra_cape_telegraph",
+        "type": "telegraph",
+        "name": "Cape Colony Telegraph",
+        "location": "Cape of Good Hope",
+        "specifications": {
+          "length": {
+            "value": 3575,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 204444,
+            "currency": "£"
+          }
+        },
+        "year": "1878"
+      },
+      {
+        "id": "infra_mauritius_railway_north",
+        "type": "railway",
+        "name": "North Line",
+        "location": "Mauritius",
+        "route": {
+          "from": "Port Louis",
+          "to": "Grand River, S.E."
+        },
+        "specifications": {
+          "length": {
+            "value": 38,
+            "unit": "miles"
+          }
+        },
+        "year": "1880"
+      },
+      {
+        "id": "infra_mauritius_railway_midland",
+        "type": "railway",
+        "name": "Midland Line",
+        "location": "Mauritius",
+        "route": {
+          "from": "Port Louis",
+          "to": "Souillac, Savanne",
+          "via": [
+            "Mahebourg"
+          ]
+        },
+        "specifications": {
+          "length": {
+            "value": 35.5,
+            "unit": "miles"
+          }
+        },
+        "year": "1880"
+      },
+      {
+        "id": "infra_bermudas_causeway",
+        "type": "road",
+        "name": "St. George's Causeway",
+        "location": "Bermudas",
+        "specifications": {
+          "length": {
+            "value": 2,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 30000,
+            "currency": "£"
+          }
+        },
+        "year": "1871",
+        "notes": "Island of St. George's was connected with the main island by a causeway and road, commenced in 1866, and completed in 1871. An iron girder swing-bridge still permits the passage of vessels."
+      },
+      {
+        "id": "infra_natal_railway",
+        "type": "railway",
+        "name": "Pietermaritzburg to Durban Railway",
+        "location": "Natal",
+        "route": {
+          "from": "Pietermaritzburg",
+          "to": "Durban"
+        },
+        "specifications": {
+          "length": {
+            "value": 78,
+            "unit": "miles"
+          },
+          "cost": {
+            "value": 1200000,
+            "currency": "£"
+          }
+        },
+        "year": "1880",
+        "notes": "First sod turned 1st January 1876. Nearly completed in 1880. Branch to Verulam 19½ miles, branch to Isipingo River 7 miles."
+      },
+      {
+        "id": "infra_trinidad_railway",
+        "type": "railway",
+        "name": "Port of Spain to Arima Railway",
+        "location": "Trinidad",
+        "route": {
+          "from": "Port of Spain",
+          "to": "Arima"
+        },
+        "specifications": {
+          "length": {
+            "value": 16,
+            "unit": "miles"
+          }
+        },
+        "year": "1876",
+        "notes": "Opened in 1876. Couva line (24 miles from Port of Spain) to be in full work in 1880. Extension to San Fernando (7 miles) commenced."
+      },
+      {
+        "id": "infra_victoria_railway",
+        "type": "railway",
+        "name": "Victorian Railways",
+        "location": "Victoria",
+        "specifications": {
+          "length": {
+            "value": 1502,
+            "unit": "miles"
+          }
+        },
+        "year": "1880",
+        "notes": "1,502 miles completed and in full operation. 72 miles in course of construction."
+      },
+      {
+        "id": "infra_victoria_telegraph",
+        "type": "telegraph",
+        "name": "Victorian Telegraph",
+        "location": "Victoria",
+        "specifications": {
+          "line_miles": {
+            "value": 2970,
+            "unit": "miles"
+          },
+          "wire_miles": {
+            "value": 5404,
+            "unit": "miles"
+          }
+        },
+        "year": "1880"
+      },
+      {
+        "id": "infra_queensland_railway",
+        "type": "railway",
+        "name": "Queensland Railways",
+        "location": "Queensland",
+        "specifications": {
+          "length": {
+            "value": 428,
+            "unit": "miles"
+          }
+        },
+        "revenue": {
+          "amount": 248065,
+          "currency": "£"
+        },
+        "year": "1878",
+        "notes": "350 miles in course of construction"
+      },
+      {
+        "id": "infra_queensland_telegraph",
+        "type": "telegraph",
+        "name": "Queensland Telegraph",
+        "location": "Queensland",
+        "specifications": {
+          "stations": 148,
+          "line_miles": {
+            "value": 5410,
+            "unit": "miles"
+          }
+        },
+        "revenue": {
+          "amount": 47116,
+          "currency": "£"
+        },
+        "year": "1878"
+      },
+      {
+        "id": "infra_nsw_railway",
+        "type": "railway",
+        "name": "New South Wales Railways",
+        "location": "New South Wales",
+        "specifications": {
+          "length": {
+            "value": 688.5,
+            "unit": "miles"
+          }
+        },
+        "revenue_net": {
+          "amount": 366001,
+          "currency": "£"
+        },
+        "year": "1878"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_heligoland_1871",
+        "location": "Heligoland",
+        "year": "1871",
+        "total_population": 1912,
+        "census_date": "1871",
+        "breakdowns": [
+          {
+            "category": "Total population as taken at census",
+            "count": 1912
+          }
+        ]
+      },
+      {
+        "id": "demo_gibraltar_1878",
+        "location": "Gibraltar",
+        "year": "1878",
+        "total_population": 18014,
+        "census_date": "1878",
+        "breakdowns": [
+          {
+            "category": "Total Population (exclusive of Military)",
+            "count": 18014
+          }
+        ]
+      },
+      {
+        "id": "demo_bahamas_1871",
+        "location": "Bahamas",
+        "year": "1871",
+        "total_population": 89162,
+        "census_date": "1871",
+        "breakdowns": [
+          {
+            "category": "Total population",
+            "count": 89162
+          }
+        ]
+      },
+      {
+        "id": "demo_bahamas_1878_estimate",
+        "location": "Bahamas",
+        "year": "1878",
+        "total_population": 43000,
+        "breakdowns": [
+          {
+            "category": "Estimated population",
+            "count": 43000
+          }
+        ]
+      },
+      {
+        "id": "demo_jamaica_1871",
+        "location": "Jamaica",
+        "year": "1871",
+        "total_population": 506150,
+        "census_date": "1871",
+        "breakdowns": [
+          {
+            "category": "Coloured",
+            "count": 100346
+          },
+          {
+            "category": "White",
+            "count": 13101
+          },
+          {
+            "category": "Black",
+            "count": 392707
+          }
+        ]
+      },
+      {
+        "id": "demo_bermudas_1871",
+        "location": "Bermudas",
+        "year": "1871",
+        "total_population": 12121,
+        "census_date": "1871",
+        "breakdowns": [
+          {
+            "category": "White",
+            "count": 4725
+          },
+          {
+            "category": "Coloured",
+            "count": 7396
+          }
+        ]
+      },
+      {
+        "id": "demo_british_guiana_1871",
+        "location": "British Guiana",
+        "year": "1871",
+        "total_population": 198491,
+        "census_date": "1871"
+      },
+      {
+        "id": "demo_british_guiana_1878",
+        "location": "British Guiana",
+        "year": "1878",
+        "total_population": 232686,
+        "census_date": "31 December, 1878",
+        "breakdowns": [
+          {
+            "category": "Natives of British Guiana",
+            "count": 113570
+          },
+          {
+            "category": "West India Islands",
+            "count": 18885
+          },
+          {
+            "category": "Madeira and Azores",
+            "count": 7925
+          },
+          {
+            "category": "Other places",
+            "count": 9635
+          },
+          {
+            "category": "Indians under Indenture",
+            "count": 22209,
+            "subcategories": {
+              "status": "Immigrant Population on Estates"
+            }
+          },
+          {
+            "category": "Indians not under Indenture",
+            "count": 31577,
+            "subcategories": {
+              "status": "Immigrant Population on Estates"
+            }
+          },
+          {
+            "category": "Chinese under Indenture",
+            "count": 660
+          },
+          {
+            "category": "Chinese not under Indenture",
+            "count": 2544
+          }
+        ]
+      },
+      {
+        "id": "demo_ceylon_1871",
+        "location": "Ceylon",
+        "year": "1871",
+        "total_population": 2401066,
+        "census_date": "1871",
+        "breakdowns": [
+          {
+            "category": "British",
+            "count": 2703
+          },
+          {
+            "category": "Burghers",
+            "count": 5771
+          },
+          {
+            "category": "Eurasians",
+            "count": 3431
+          },
+          {
+            "category": "Moors",
+            "count": 197177
+          },
+          {
+            "category": "Sinhalese",
+            "count": 1669998
+          },
+          {
+            "category": "Tamils",
+            "count": 584339
+          },
+          {
+            "category": "Others",
+            "count": 21308
+          }
+        ],
+        "notes": "Exclusive of military and shipping. Indian coolies on coffee estates estimated at 115,092, but probably over 250,000"
+      },
+      {
+        "id": "demo_fiji",
+        "location": "Fiji",
+        "year": "1880",
+        "total_population": 121800,
+        "breakdowns": [
+          {
+            "category": "Natives",
+            "count": 120000
+          },
+          {
+            "category": "Europeans",
+            "count": 1800
+          }
+        ]
+      },
+      {
+        "id": "demo_falklands_1878",
+        "location": "Falkland Islands",
+        "year": "1878",
+        "total_population": 1415,
+        "breakdowns": [
+          {
+            "category": "Males",
+            "count": 902
+          },
+          {
+            "category": "Females",
+            "count": 518
+          }
+        ]
+      },
+      {
+        "id": "demo_hong_kong_1872",
+        "location": "Hong Kong",
+        "year": "1872",
+        "total_population": 139144,
+        "census_date": "1872",
+        "breakdowns": [
+          {
+            "category": "Coloured Males",
+            "count": 95123
+          },
+          {
+            "category": "Coloured Females",
+            "count": 36496
+          },
+          {
+            "category": "White Males",
+            "count": 6109
+          },
+          {
+            "category": "White Females",
+            "count": 1416
+          }
+        ],
+        "notes": "Inclusive of naval, military, and shipping"
+      },
+      {
+        "id": "demo_labuan",
+        "location": "Labuan",
+        "year": "1880",
+        "total_population": 4898
+      },
+      {
+        "id": "demo_malta_1877",
+        "location": "Malta",
+        "year": "1877",
+        "total_population": 152553,
+        "breakdowns": [
+          {
+            "category": "Males",
+            "count": 76040
+          },
+          {
+            "category": "Females",
+            "count": 76513
+          }
+        ],
+        "notes": "Exclusive of British troops and their families"
+      },
+      {
+        "id": "demo_mauritius_1871",
+        "location": "Mauritius",
+        "year": "1871",
+        "total_population": 317069,
+        "census_date": "1871",
+        "breakdowns": [
+          {
+            "category": "Resident Population Males",
+            "count": 193575
+          },
+          {
+            "category": "Resident Population Females",
+            "count": 122467
+          },
+          {
+            "category": "Military Males",
+            "count": 564
+          },
+          {
+            "category": "Military Females",
+            "count": 142
+          },
+          {
+            "category": "Mercantile Shipping Males",
+            "count": 314
+          },
+          {
+            "category": "Mercantile Shipping Females",
+            "count": 7
+          }
+        ]
+      },
+      {
+        "id": "demo_st_helena_1871",
+        "location": "St. Helena",
+        "year": "1871",
+        "total_population": 6241,
+        "census_date": "1871",
+        "breakdowns": [
+          {
+            "category": "Males",
+            "count": 2999
+          },
+          {
+            "category": "Females",
+            "count": 3242
+          }
+        ],
+        "notes": "Including Military"
+      },
+      {
+        "id": "demo_newfoundland_1874",
+        "location": "Newfoundland",
+        "year": "1874",
+        "total_population": 161374,
+        "census_date": "1874",
+        "breakdowns": [
+          {
+            "category": "Males",
+            "count": 83283
+          },
+          {
+            "category": "Females",
+            "count": 78091
+          }
+        ]
+      },
+      {
+        "id": "demo_natal_1876",
+        "location": "Natal",
+        "year": "1876",
+        "total_population": 356517,
+        "breakdowns": [
+          {
+            "category": "White",
+            "count": 22759
+          },
+          {
+            "category": "Coolies",
+            "count": 17047
+          },
+          {
+            "category": "Natives",
+            "count": 316711
+          }
+        ]
+      },
+      {
+        "id": "demo_trinidad_1871",
+        "location": "Trinidad",
+        "year": "1871",
+        "total_population": 109638,
+        "census_date": "1871"
+      },
+      {
+        "id": "demo_victoria_1879",
+        "location": "Victoria",
+        "year": "1879",
+        "total_population": 887434,
+        "breakdowns": [
+          {
+            "category": "Males",
+            "count": 482769
+          },
+          {
+            "category": "Females",
+            "count": 404665
+          }
+        ],
+        "notes": "Estimate for June 30, 1879"
+      },
+      {
+        "id": "demo_queensland_1879",
+        "location": "Queensland",
+        "year": "1879",
+        "total_population": 215000,
+        "notes": "Estimated population on 30th June, 1879. Census of May 1876 showed 173,283 persons."
+      }
+    ],
+    "events": [
+      {
+        "id": "event_heligoland_cession_1807",
+        "date": "1807",
+        "type": "cession",
+        "description": "Heligoland was surrendered to the British arms",
+        "locations": [
+          "place_heligoland"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_heligoland_treaty_1815",
+        "date": "1815",
+        "type": "treaty",
+        "description": "Formally ceded to Great Britain by Denmark in the Treaty of Vienna",
+        "locations": [
+          "place_heligoland"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_gibraltar_capture_1704",
+        "date": "24th of July, 1704",
+        "type": "establishment",
+        "description": "The Rock of Gibraltar was captured by the British Forces",
+        "locations": [
+          "place_gibraltar"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_bahamas_discovery_1492",
+        "date": "1492",
+        "type": "other",
+        "description": "St. Salvador, one of the islands composing this chain, was the first land discovered by Columbus on his voyage",
+        "locations": [
+          "place_bahamas"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_bahamas_grant_1670",
+        "date": "1670",
+        "type": "establishment",
+        "description": "The island of New Providence was granted by Charles II. to a proprietary body",
+        "locations": [
+          "place_new_providence"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_bahamas_versailles_1783",
+        "date": "1783",
+        "type": "treaty",
+        "description": "Bahamas once more annexed by and finally confirmed to Great Britain, at the Peace of Versailles",
+        "locations": [
+          "place_bahamas"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_jamaica_discovery_1494",
+        "date": "3rd May, 1494",
+        "type": "other",
+        "description": "Jamaica was discovered by Columbus. He called it St. Jago",
+        "locations": [
+          "place_jamaica"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_jamaica_capture_1655",
+        "date": "3rd May, 1655",
+        "type": "cession",
+        "description": "Jamaica capitulated to a force sent by Cromwell, under Admirals Penn and Venables, after a trifling resistance",
+        "locations": [
+          "place_jamaica"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_jamaica_treaty_madrid_1670",
+        "date": "1670",
+        "type": "treaty",
+        "description": "Peace was made with Spain, and the title of England to Jamaica was recognized by the Treaty of Madrid",
+        "locations": [
+          "place_jamaica"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_jamaica_slave_trade_abolition_1807",
+        "date": "1807",
+        "type": "constitutional_change",
+        "description": "The Slave Trade was abolished, at which time there were 323,827 slaves in Jamaica",
+        "locations": [
+          "place_jamaica"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_jamaica_slavery_abolition_1833",
+        "date": "1833",
+        "type": "constitutional_change",
+        "description": "Abolition of slavery. Jamaica received 6,161,927l. of the 20,000,000l. granted by the Imperial Government as compensation to the slave-owners on a slave population of 309,338",
+        "locations": [
+          "place_jamaica"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_bermudas_discovery_1515",
+        "date": "1515",
+        "type": "other",
+        "description": "Islands sighted by Bermudez, a Spaniard",
+        "locations": [
+          "place_bermudas"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_bermudas_shipwreck_1609",
+        "date": "1609",
+        "type": "other",
+        "description": "First colonized by Admiral Sir George Somers, who was shipwrecked there on his way to Virginia",
+        "locations": [
+          "place_bermudas"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_bermudas_charter_1612",
+        "date": "1612",
+        "type": "establishment",
+        "description": "Charter obtained from James I. for the Virginia Company",
+        "locations": [
+          "place_bermudas"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_british_guiana_settlement_1580",
+        "date": "1580",
+        "type": "establishment",
+        "description": "This territory was first partially settled by the Dutch West India Company",
+        "locations": [
+          "place_british_guiana"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_british_guiana_cession_1814",
+        "date": "1814",
+        "type": "cession",
+        "description": "Finally ceded to Great Britain",
+        "locations": [
+          "place_british_guiana"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_ceylon_portuguese_1505",
+        "date": "1505",
+        "type": "establishment",
+        "description": "The Portuguese formed settlements on the west and south of the island",
+        "locations": [
+          "place_ceylon"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_ceylon_british_1795_96",
+        "date": "1795-6",
+        "type": "cession",
+        "description": "The British took possession of the Dutch settlements in the island",
+        "locations": [
+          "place_ceylon"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_ceylon_separate_colony_1801",
+        "date": "1801",
+        "type": "constitutional_change",
+        "description": "Ceylon was constituted a separate Colony (previously annexed to the Presidency of Madras)",
+        "locations": [
+          "place_ceylon"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_ceylon_kandyan_war_1815",
+        "date": "1815",
+        "type": "other",
+        "description": "War was declared against the native Government of the interior; the Kandyan King was taken prisoner, and the whole island fell under the rule of the British",
+        "locations": [
+          "place_ceylon"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_fiji_discovery_1643",
+        "date": "1643",
+        "type": "other",
+        "description": "The Fiji Islands were discovered by Tasman",
+        "locations": [
+          "place_fiji"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_fiji_cession_1874",
+        "date": "10th day of October, 1874",
+        "type": "cession",
+        "description": "The sovereignty of the islands was ceded to Her Majesty by Thakombau, Maafu, and other the principal chiefs",
+        "locations": [
+          "place_fiji"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_falklands_discovery_1592",
+        "date": "1592",
+        "type": "other",
+        "description": "The Falkland Islands were discovered by Davis",
+        "locations": [
+          "place_falkland_islands"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_falklands_british_possession_1833",
+        "date": "1833",
+        "type": "cession",
+        "description": "Taken possession of by the British Government, for the protection of the Whale Fishery",
+        "locations": [
+          "place_falkland_islands"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_hong_kong_cession_1841",
+        "date": "January, 1841",
+        "type": "cession",
+        "description": "The Colony was first ceded to Great Britain",
+        "locations": [
+          "place_hong_kong"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_hong_kong_treaty_nankin_1842",
+        "date": "August, 1842",
+        "type": "treaty",
+        "description": "The cession was confirmed by the Treaty of Nankin",
+        "locations": [
+          "place_hong_kong"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_labuan_cession_1846",
+        "date": "1846",
+        "type": "cession",
+        "description": "The island, then uninhabited, was ceded to Great Britain by the Sultan of Borneo",
+        "locations": [
+          "place_labuan"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_labuan_occupation_1848",
+        "date": "1848",
+        "type": "establishment",
+        "description": "The island was occupied",
+        "locations": [
+          "place_labuan"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_malta_capitulation_1798",
+        "date": "12th July, 1798",
+        "type": "cession",
+        "description": "Malta capitulated to Napoleon Bonaparte",
+        "locations": [
+          "place_malta"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_malta_british_possession_1800",
+        "date": "1800",
+        "type": "cession",
+        "description": "Malta was taken possession of by Great Britain",
+        "locations": [
+          "place_malta"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_malta_treaty_paris_1814",
+        "date": "1814",
+        "type": "treaty",
+        "description": "Finally annexed to the British Crown by the Treaty of Paris",
+        "locations": [
+          "place_malta"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_mauritius_discovery_1507",
+        "date": "1507",
+        "type": "other",
+        "description": "The Mauritius was discovered by the Portuguese",
+        "locations": [
+          "place_mauritius"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_mauritius_dutch_settlement_1598",
+        "date": "1598",
+        "type": "establishment",
+        "description": "The first who made any settlement were the Dutch, who named it Mauritius, in honour of their Prince Maurice",
+        "locations": [
+          "place_mauritius"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_mauritius_british_capture_1810",
+        "date": "1810",
+        "type": "cession",
+        "description": "British expedition effected its capture",
+        "locations": [
+          "place_mauritius"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_mauritius_treaty_paris_1814",
+        "date": "1814",
+        "type": "treaty",
+        "description": "The possession of the island was confirmed to England by the Treaty of Paris",
+        "locations": [
+          "place_mauritius"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_st_helena_discovery_1501",
+        "date": "May 21st, 1501",
+        "type": "other",
+        "description": "St. Helena was discovered by the Portuguese Commander Juan de Nova Castella, on St. Helena's day",
+        "locations": [
+          "place_st_helena"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_st_helena_british_capture_1673",
+        "date": "1673",
+        "type": "cession",
+        "description": "Captain Munden, of the English Navy, took it from the Dutch",
+        "locations": [
+          "place_st_helena"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_st_helena_government_transfer_1833",
+        "date": "1833",
+        "type": "constitutional_change",
+        "description": "Finally handed over to the British Government (previously under East India Company)",
+        "locations": [
+          "place_st_helena"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_newfoundland_discovery_1497",
+        "date": "1497",
+        "type": "other",
+        "description": "Newfoundland discovered by John Cabot",
+        "locations": [
+          "place_newfoundland"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_newfoundland_responsible_govt_1855",
+        "date": "1855",
+        "type": "constitutional_change",
+        "description": "Responsible Government established in Newfoundland. Last of North American Colonies to which responsible Government was conceded.",
+        "locations": [
+          "place_newfoundland"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_natal_discovery_1497",
+        "date": "Christmas-day, 1497",
+        "type": "other",
+        "description": "Colony of Natal discovered by Vasco de Gama, the celebrated Portuguese navigator, on Christmas-day. Colony derives its name from this fact.",
+        "locations": [
+          "place_natal"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_natal_colony_1848",
+        "date": "1848",
+        "type": "establishment",
+        "description": "District of Natal proclaimed by the Governor of the Cape to be a British Colony",
+        "locations": [
+          "place_natal"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_trinidad_discovery_1496",
+        "date": "31st July, 1496",
+        "type": "other",
+        "description": "Trinidad first discovered by Columbus on his third voyage",
+        "locations": [
+          "place_trinidad"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_trinidad_british_capture_1797",
+        "date": "18th February, 1797",
+        "type": "cession",
+        "description": "Trinidad surrendered to British arms under Rear-Admiral Harvey and Sir Ralph Abercrombie",
+        "locations": [
+          "place_trinidad"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_trinidad_cession_1802",
+        "date": "1802",
+        "type": "treaty",
+        "description": "Trinidad finally ceded to the Crown of Great Britain by the Treaty of Amiens",
+        "locations": [
+          "place_trinidad"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_victoria_separation_1851",
+        "date": "1851",
+        "type": "constitutional_change",
+        "description": "Victoria separated from New South Wales",
+        "locations": [
+          "place_victoria"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_straits_transfer_1867",
+        "date": "1st April, 1867",
+        "type": "constitutional_change",
+        "description": "Straits Settlements transferred from control of Indian Government to that of Secretary of State for Colonies",
+        "locations": [
+          "place_straits_settlements"
+        ],
+        "year_mentioned": "1880"
+      },
+      {
+        "id": "event_gold_coast_ashanti_war_1873_74",
+        "date": "1873-1874",
+        "type": "other",
+        "description": "Third Ashanti War. King of Ashanti invaded British Protectorate. Sir Garnet Wolseley led British forces. Battle of Amoafu 31st January 1874. Coomassie entered 4th February. Peace signed 13th February at Fommanah.",
+        "locations": [
+          "place_gold_coast"
+        ],
+        "year_mentioned": "1880"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_nassau",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_new_providence",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "place_new_providence",
+      "relationship_type": "PART_OF",
+      "target_id": "place_bahamas",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "place_cape_town",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_cape_of_good_hope",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "person_maxse_henry",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_heligoland",
+      "properties": {
+        "year": "1880",
+        "context": "Governor and Commander-in-Chief"
+      }
+    },
+    {
+      "source_id": "person_napier_magdala",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_gibraltar",
+      "properties": {
+        "year": "1880",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_robinson_william",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_bahamas",
+      "properties": {
+        "year": "1880",
+        "context": "Governor, Commander-in-Chief, Vice-Admiral, and Ordinary"
+      }
+    },
+    {
+      "source_id": "person_musgrave_anthony",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_jamaica",
+      "properties": {
+        "year": "1880",
+        "context": "Captain-General and Governor-in-Chief"
+      }
+    },
+    {
+      "source_id": "person_laffan_robert",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_bermudas",
+      "properties": {
+        "year": "1880",
+        "context": "Governor and Commander-in-Chief"
+      }
+    },
+    {
+      "source_id": "person_kortright_ch",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_british_guiana",
+      "properties": {
+        "year": "1880",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_longden_james",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_ceylon",
+      "properties": {
+        "year": "1880",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_gordon_arthur",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_fiji",
+      "properties": {
+        "year": "1880",
+        "context": "Governor and Commander-in-Chief"
+      }
+    },
+    {
+      "source_id": "person_callaghan_thomas",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_falkland_islands",
+      "properties": {
+        "year": "1880",
+        "context": "Governor and Commander-in-Chief"
+      }
+    },
+    {
+      "source_id": "person_hennessy_john_pope",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_hong_kong",
+      "properties": {
+        "year": "1880",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_lees_charles",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_labuan",
+      "properties": {
+        "year": "1880",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_borton_arthur",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_malta",
+      "properties": {
+        "year": "1880",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_bowen_george",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1880",
+        "context": "Governor and Commander-in-Chief"
+      }
+    },
+    {
+      "source_id": "person_janisch_hr",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_st_helena",
+      "properties": {
+        "year": "1880",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "inst_heligoland_exec_council",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_heligoland",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "inst_bahamas_exec_council",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_bahamas",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "inst_jamaica_privy_council",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_jamaica",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "inst_british_guiana_court_policy",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_british_guiana",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "inst_ceylon_executive_council",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_ceylon",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "inst_fiji_executive_council",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_fiji",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "inst_hong_kong_executive_council",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_hong_kong",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "inst_malta_council_government",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_malta",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "infra_jamaica_railway",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_jamaica",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "infra_ceylon_railway_colombo_kandy",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_ceylon",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "infra_cape_railways",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_cape_of_good_hope",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "demo_heligoland_1871",
+      "relationship_type": "DURING_YEAR",
+      "target_id": "place_heligoland",
+      "properties": {
+        "year": "1871"
+      }
+    },
+    {
+      "source_id": "demo_bahamas_1871",
+      "relationship_type": "DURING_YEAR",
+      "target_id": "place_bahamas",
+      "properties": {
+        "year": "1871"
+      }
+    },
+    {
+      "source_id": "demo_jamaica_1871",
+      "relationship_type": "DURING_YEAR",
+      "target_id": "place_jamaica",
+      "properties": {
+        "year": "1871"
+      }
+    },
+    {
+      "source_id": "demo_ceylon_1871",
+      "relationship_type": "DURING_YEAR",
+      "target_id": "place_ceylon",
+      "properties": {
+        "year": "1871"
+      }
+    },
+    {
+      "source_id": "place_sydney",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_new_south_wales",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "place_melbourne",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_victoria",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "place_brisbane",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_queensland",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "place_port_of_spain",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "place_pietermaritzburg",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_natal",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "place_singapore",
+      "relationship_type": "PART_OF",
+      "target_id": "place_straits_settlements",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "person_glover_john_h",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_newfoundland",
+      "properties": {
+        "year": "1880",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_irving_henry_t",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1880",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_normanby_marquis",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_victoria",
+      "properties": {
+        "year": "1880",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_robinson_wcf",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_straits_settlements",
+      "properties": {
+        "year": "1880",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "infra_natal_railway",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_natal",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "infra_trinidad_railway",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1876"
+      }
+    },
+    {
+      "source_id": "infra_victoria_railway",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_victoria",
+      "properties": {
+        "year": "1880"
+      }
+    },
+    {
+      "source_id": "infra_queensland_railway",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_queensland",
+      "properties": {
+        "year": "1878"
+      }
+    }
+  ]
+}

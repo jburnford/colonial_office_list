@@ -1,0 +1,851 @@
+{
+  "metadata": {
+    "year": "1877",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1877.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1877_manual_parsed",
+    "extraction_date": "2025-11-17T21:35:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["HONG_KONG"],
+    "processing_notes": "Complete extraction for Hong Kong 1877. Capital: Victoria. Major trading port with significant expansion in commerce and governance."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "GCB": {
+        "full_name": "Knight Grand Cross of the Order of the Bath",
+        "type": "knighthood",
+        "rank": 1
+      },
+      "KCB": {
+        "full_name": "Knight Commander of the Order of the Bath",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Bart": {
+        "full_form": "Baronet",
+        "category": "nobility"
+      },
+      "Major-General": {
+        "full_form": "Major-General",
+        "category": "military"
+      },
+      "Right Rev": {
+        "full_form": "Right Reverend",
+        "category": "religious"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Capt": {
+        "full_form": "Captain",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Attorney-General": {
+        "canonical_name": "Attorney-General",
+        "hierarchy_level": 3,
+        "category": "judicial"
+      },
+      "Treasurer": {
+        "canonical_name": "Treasurer",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Auditor-General": {
+        "canonical_name": "Auditor-General",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      },
+      "Surveyor-General": {
+        "canonical_name": "Surveyor-General",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      },
+      "Registrar-General": {
+        "canonical_name": "Registrar-General",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      },
+      "Harbour-Master": {
+        "canonical_name": "Harbour-Master",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      },
+      "Postmaster-General": {
+        "canonical_name": "Postmaster-General",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Advisory council to the Governor",
+        "parent_type": null
+      },
+      "legislative_council": {
+        "description": "Legislative body of the colony",
+        "parent_type": null
+      },
+      "supreme_court": {
+        "description": "Highest court in the colony",
+        "parent_type": "judicial"
+      },
+      "police_force": {
+        "description": "Colonial police service",
+        "parent_type": "administrative"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_hong_kong",
+        "name": "Hong Kong",
+        "type": "colony",
+        "area": {
+          "value": 29,
+          "unit": "square_miles",
+          "source": "HONG_KONG.md lines 1-5"
+        },
+        "coordinates": {
+          "latitude": 22.1,
+          "longitude": 114.12,
+          "source": "HONG_KONG.md line 3 (22° 9' to 22° 1' N., 114° 5' to 114° 18' E.)"
+        },
+        "population": {
+          "total": 121985,
+          "year": "1872",
+          "breakdown": {
+            "European_and_American": 4931,
+            "Chinese_etc": 117054
+          },
+          "source": "HONG_KONG.md lines 86-87"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "1-5",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_victoria",
+        "name": "Victoria",
+        "type": "city",
+        "parent_location": "place_hong_kong",
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "4",
+          "original_text": "The City of Victoria extends for four miles at the base of the hills",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_kowloon",
+        "name": "Kow-loon",
+        "type": "district",
+        "parent_location": "place_hong_kong",
+        "location_context": {
+          "mentioned_in_colony": "HONG_KONG",
+          "actual_location_country": "China (ceded to British Hong Kong)",
+          "certainty": "definite",
+          "reasoning": "Peninsula ceded to Great Britain by Treaty with Lord Elgin in 1861"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "3",
+          "original_text": "The opposite peninsula of Kow-loon was ceded to Great Britain by a Treaty entered into by Lord Elgin in 1861",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_canton",
+        "name": "Canton",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "HONG_KONG",
+          "actual_location_country": "China",
+          "certainty": "definite",
+          "reasoning": "Chinese city near Hong Kong, 80 miles away"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "22-26",
+          "original_text": "Canton 80 miles",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_macao",
+        "name": "Macao",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "HONG_KONG",
+          "actual_location_country": "China (Portuguese colony)",
+          "certainty": "definite",
+          "reasoning": "Portuguese colony 40 miles from Hong Kong"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "3",
+          "original_text": "Hong Kong is about 40 miles east of Macao",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_john_pope_hennessy",
+        "name": "John Pope Hennessy",
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "HONG_KONG",
+            "salary": {
+              "amount": 24000,
+              "currency": "HK$",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "105, 114, 124",
+          "original_text": "John Pope Hennessy, C.M.G., Governor, $24,000",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_f_colborne",
+        "name": "F. Colborne",
+        "titles": ["Sir", "Major-General"],
+        "honors": [
+          {
+            "honor": "KCB",
+            "full_name": "Knight Commander of the Order of the Bath"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Officer Commanding the Troops",
+            "colony": "HONG_KONG"
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "106",
+          "original_text": "Maj.-Gen. Hon. Sir F. Colborne, K.C.B., Officer Commanding the Troops",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_j_g_austin",
+        "name": "J. G. Austin",
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "HONG_KONG",
+            "salary": {
+              "amount": 7200,
+              "currency": "HK$",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Auditor-General",
+            "colony": "HONG_KONG",
+            "salary": {
+              "amount": 1200,
+              "currency": "HK$",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "107, 116, 129, 146",
+          "original_text": "J. G. Austin, C.M.G., Colonial Secretary, $7,200 / Auditor-General, $1,200",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_george_phillippo",
+        "name": "George Phillippo",
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "HONG_KONG"
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "108, 117",
+          "original_text": "Geo. Phillippo, Attorney-General",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_cecil_c_smith",
+        "name": "Cecil C. Smith",
+        "positions": [
+          {
+            "title": "Registrar-General and Treasurer",
+            "colony": "HONG_KONG",
+            "salary": {
+              "amount": 3840,
+              "currency": "HK$",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "treasurer_additional",
+                "amount": 960,
+                "currency": "HK$",
+                "description": "Additional to salary as Registrar-General"
+              }
+            ]
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "109, 118, 138, 167",
+          "original_text": "Cecil C. Smith, Registrar-General and Treasurer, $3,840 + $960",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_j_smale",
+        "name": "J. Smale",
+        "titles": ["Sir"],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "HONG_KONG",
+            "salary": {
+              "amount": 12000,
+              "currency": "HK$",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "115, 202",
+          "original_text": "Sir J. Smale, Chief Justice, $12,000",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_t_s_burdon",
+        "name": "T. S. Burdon",
+        "titles": ["Right Rev"],
+        "positions": [
+          {
+            "title": "Bishop",
+            "colony": "HONG_KONG",
+            "salary": {
+              "amount": 1000,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "253",
+          "original_text": "Right Rev. T. S. Burdon, 1,000l. (from Colonial Bishoprics Fund)",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "HONG_KONG",
+        "composition": {
+          "total_members": 6,
+          "official_members": 5
+        },
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "39, 103-110",
+          "original_text": "The Government is administered by a Governor, aided by an Executive Council, composed of five officials besides the Governor",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "HONG_KONG",
+        "composition": {
+          "total_members": 9,
+          "official_members": 5,
+          "unofficial_members": 4
+        },
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "39-40, 112-120",
+          "original_text": "The Legislative Council is presided over by the Governor, and is composed of the Chief Justice, the Colonial Secretary, the Attorney-General, the Treasurer, and four unofficial members",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "inst_supreme_court",
+        "name": "Supreme Court",
+        "type": "supreme_court",
+        "colony": "HONG_KONG",
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "200-213",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "inst_police_force",
+        "name": "Police Force",
+        "type": "police_force",
+        "colony": "HONG_KONG",
+        "composition": {
+          "total_members": 650
+        },
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "41",
+          "original_text": "There is a Police force in the Colony numbering 650 men, of whom 110 are Europeans, 176 Indians, and 340 Chinese",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1875",
+        "type": "revenue",
+        "colony": "HONG_KONG",
+        "year_applies": "1875",
+        "data": {
+          "value": 186818,
+          "currency": "GBP",
+          "category": "total_revenue"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "81",
+          "original_text": "1875 | 186,818 | 181,357",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_expenditure_1875",
+        "type": "expenditure",
+        "colony": "HONG_KONG",
+        "year_applies": "1875",
+        "data": {
+          "value": 181357,
+          "currency": "GBP",
+          "category": "total_expenditure"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "81",
+          "original_text": "1875 | 186,818 | 181,357",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_shipping_1875",
+        "type": "shipping",
+        "colony": "HONG_KONG",
+        "year_applies": "1875",
+        "data": {
+          "value": 26068,
+          "unit": "vessels",
+          "category": "vessel_count"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "101",
+          "original_text": "1875 | 26,068",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_harbour",
+        "name": "Victoria Harbour",
+        "type": "port",
+        "colony": "HONG_KONG",
+        "description": "One of the most magnificent harbours in the world",
+        "specifications": {
+          "other": {
+            "area_square_miles": 10
+          }
+        },
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "3-4",
+          "original_text": "one of the most magnificent harbours in the world, having an area of ten square miles",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "infra_docks",
+        "name": "Hong Kong Docks",
+        "type": "port",
+        "colony": "HONG_KONG",
+        "description": "Five docks and three slips with repair facilities",
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "16",
+          "original_text": "There are five docks and three slips which are well supplied with shears, engineer's and carpenter's shops, foundries",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "infra_telegraph",
+        "name": "Telegraph Communication",
+        "type": "telegraph",
+        "colony": "HONG_KONG",
+        "description": "Telegraphic communication with nearly the whole world",
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "18",
+          "original_text": "There is telegraphic communication with nearly the whole world",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_cession_1841",
+        "type": "annexation",
+        "description": "Hong Kong was first ceded to Great Britain in January 1841",
+        "event_date": {
+          "year": "1841",
+          "month": "January",
+          "precision": "month"
+        },
+        "year_mentioned": "1877",
+        "locations": ["place_hong_kong"],
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "8",
+          "original_text": "The Colony was first ceded to Great Britain in January, 1841",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "event_treaty_nankin_1842",
+        "type": "treaty",
+        "description": "Treaty of Nankin confirmed the cession of Hong Kong in August 1842",
+        "event_date": {
+          "year": "1842",
+          "month": "August",
+          "precision": "month"
+        },
+        "year_mentioned": "1877",
+        "locations": ["place_hong_kong"],
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "8",
+          "original_text": "the cession was confirmed by the Treaty of Nankin, in August, 1842",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "event_kowloon_cession_1861",
+        "type": "annexation",
+        "description": "Peninsula of Kowloon was ceded to Great Britain by Treaty with Lord Elgin in 1861",
+        "event_date": {
+          "year": "1861",
+          "precision": "year"
+        },
+        "year_mentioned": "1877",
+        "locations": ["place_kowloon"],
+        "year": "1877",
+        "provenance": {
+          "source_pdf": "ColonialOfficeList1877.pdf",
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+          "source_lines": "3",
+          "original_text": "The opposite peninsula of Kow-loon was ceded to Great Britain by a Treaty entered into by Lord Elgin in 1861",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:35:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_john_pope_hennessy",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_hong_kong",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+        "source_lines": "105, 124",
+        "extraction_confidence": 1.0,
+        "extraction_date": "2025-11-17T21:35:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_victoria",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_hong_kong",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+        "source_lines": "4",
+        "extraction_confidence": 1.0,
+        "extraction_date": "2025-11-17T21:35:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_kowloon",
+      "relationship_type": "PART_OF",
+      "target_id": "place_hong_kong",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+        "source_lines": "3",
+        "extraction_confidence": 1.0,
+        "extraction_date": "2025-11-17T21:35:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_j_g_austin",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/HONG_KONG.md",
+        "source_lines": "107",
+        "extraction_confidence": 1.0,
+        "extraction_date": "2025-11-17T21:35:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 26,
+    "entities_by_type": {
+      "places": 5,
+      "people": 7,
+      "institutions": 4,
+      "economic_data": 3,
+      "infrastructure": 3,
+      "events": 3
+    },
+    "total_relationships": 4,
+    "relationships_by_type": {
+      "GOVERNS": 1,
+      "LOCATED_IN": 1,
+      "PART_OF": 1,
+      "MEMBER_OF": 1
+    }
+  }
+}

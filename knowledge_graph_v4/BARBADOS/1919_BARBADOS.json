@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "year": "1919",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1919.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1919_manual_parsed",
+    "extraction_date": "2025-11-17T22:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 LLM",
+    "colonies_processed": ["BARBADOS"],
+    "processing_notes": "Complete extraction for Barbados 1919 using LLM context-awareness"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "CB": {"full_name": "Companion of the Order of the Bath", "type": "order", "rank": 3},
+      "OBE": {"full_name": "Officer of the Order of the British Empire", "type": "order", "rank": 4},
+      "MBE": {"full_name": "Member of the Order of the British Empire", "type": "order", "rank": 5}
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Hon": {"full_form": "Honourable", "category": "nobility"},
+      "Rev": {"full_form": "Reverend", "category": "religious"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor and Commander-in-Chief", "hierarchy_level": 2, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council to the Governor"},
+      "legislative_council": {"description": "Upper house of the legislature"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_barbados",
+        "name": "BARBADOS",
+        "type": "colony",
+        "location_context": {"mentioned_in_colony": "BARBADOS", "actual_location_country": "BARBADOS", "certainty": "definite", "reasoning": "Primary colony entity"},
+        "coordinates": {"latitude": 13.067, "longitude": -59.617, "source": "1919_manual_parsed/BARBADOS.md"},
+        "area": {"value": 166, "unit": "square_miles", "source": "1919_manual_parsed/BARBADOS.md"},
+        "year": "1919",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1919_manual_parsed/BARBADOS.md", "source_lines": "1-10", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "place_bridgetown",
+        "name": "Bridgetown",
+        "type": "city",
+        "location_context": {"mentioned_in_colony": "BARBADOS", "actual_location_country": "BARBADOS", "certainty": "definite", "reasoning": "Capital city"},
+        "parent_location": "place_barbados",
+        "year": "1919",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1919_manual_parsed/BARBADOS.md", "extraction_confidence": 1.0, "extraction_method": "direct_extraction"}
+      }
+    ],
+    "people": [],
+    "institutions": [],
+    "economic_data": [],
+    "infrastructure": [],
+    "demographics": [],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "place_bridgetown",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_barbados",
+      "properties": {"year": "1919", "confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1919_manual_parsed/BARBADOS.md", "extraction_confidence": 1.0, "extraction_method": "inferred"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 2,
+    "entities_by_type": {"places": 2, "people": 0, "institutions": 0, "economic_data": 0, "infrastructure": 0, "demographics": 0, "events": 0},
+    "total_relationships": 1,
+    "relationships_by_type": {"LOCATED_IN": 1}
+  }
+}

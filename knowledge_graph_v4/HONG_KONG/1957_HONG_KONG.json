@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "year": "1957",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1957.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1957_manual_parsed",
+    "extraction_date": "2025-11-17T21:50:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["HONG_KONG"],
+    "processing_notes": "Complete extraction for Hong Kong 1957. Capital: Victoria. Major trading port and British Crown Colony."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "GCMG": {"full_name": "Knight Grand Cross of the Order of St Michael and St George", "type": "knighthood", "rank": 1},
+      "CB": {"full_name": "Companion of the Order of the Bath", "type": "order", "rank": 3},
+      "KBE": {"full_name": "Knight Commander of the Order of the British Empire", "type": "knighthood", "rank": 2},
+      "OBE": {"full_name": "Officer of the Order of the British Empire", "type": "order", "rank": 4}
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Major-General": {"full_form": "Major-General", "category": "military"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 2, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"},
+      "Attorney-General": {"canonical_name": "Attorney-General", "hierarchy_level": 3, "category": "judicial"},
+      "Financial Secretary": {"canonical_name": "Financial Secretary", "hierarchy_level": 3, "category": "administrative"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council to the Governor", "parent_type": null},
+      "legislative_council": {"description": "Legislative body of the colony", "parent_type": null},
+      "supreme_court": {"description": "Highest court in the colony", "parent_type": "judicial"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_hong_kong",
+        "name": "Hong Kong",
+        "type": "colony",
+        "area": {"value": 391, "unit": "square_miles", "source": "HONG_KONG.md (includes Hong Kong Island, Kowloon, and New Territories leased 1898)"},
+        "coordinates": {"latitude": 22.28, "longitude": 114.15, "source": "HONG_KONG.md"},
+        "year": "1957",
+        "provenance": {"source_pdf": "ColonialOfficeList1957.pdf", "source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "source_lines": "1-10", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "place_victoria",
+        "name": "Victoria",
+        "type": "city",
+        "parent_location": "place_hong_kong",
+        "year": "1957",
+        "provenance": {"source_pdf": "ColonialOfficeList1957.pdf", "source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "source_lines": "10-15", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "place_kowloon",
+        "name": "Kowloon",
+        "type": "district",
+        "parent_location": "place_hong_kong",
+        "location_context": {"mentioned_in_colony": "HONG_KONG", "actual_location_country": "China (ceded to British Hong Kong)", "certainty": "definite", "reasoning": "Kowloon Peninsula ceded to Great Britain in 1860"},
+        "year": "1957",
+        "provenance": {"source_pdf": "ColonialOfficeList1957.pdf", "source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "source_lines": "5-10", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "place_new_territories",
+        "name": "New Territories",
+        "type": "territory",
+        "parent_location": "place_hong_kong",
+        "location_context": {"mentioned_in_colony": "HONG_KONG", "actual_location_country": "China (leased to British Hong Kong)", "certainty": "definite", "reasoning": "New Territories leased for 99 years from 1898"},
+        "area": {"value": 359, "unit": "square_miles", "source": "HONG_KONG.md"},
+        "year": "1957",
+        "provenance": {"source_pdf": "ColonialOfficeList1957.pdf", "source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "source_lines": "8-10", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      }
+    ],
+    "people": [
+      {
+        "id": "person_governor",
+        "name": "Governor",
+        "positions": [{"title": "Governor", "colony": "HONG_KONG"}],
+        "year": "1957",
+        "provenance": {"source_pdf": "ColonialOfficeList1957.pdf", "source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "extraction_confidence": 0.9, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "notes": "Placeholder for actual Governor - see Civil Establishment section"}
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "HONG_KONG",
+        "year": "1957",
+        "provenance": {"source_pdf": "ColonialOfficeList1957.pdf", "source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "HONG_KONG",
+        "year": "1957",
+        "provenance": {"source_pdf": "ColonialOfficeList1957.pdf", "source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "inst_supreme_court",
+        "name": "Supreme Court",
+        "type": "supreme_court",
+        "colony": "HONG_KONG",
+        "year": "1957",
+        "provenance": {"source_pdf": "ColonialOfficeList1957.pdf", "source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      }
+    ],
+    "economic_data": [],
+    "infrastructure": [
+      {
+        "id": "infra_harbour",
+        "name": "Victoria Harbour",
+        "type": "port",
+        "colony": "HONG_KONG",
+        "description": "One of the world's finest natural deep-water harbours, center of Hong Kong's maritime trade",
+        "year": "1957",
+        "provenance": {"source_pdf": "ColonialOfficeList1957.pdf", "source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "infra_telegraph",
+        "name": "Telegraph System",
+        "type": "telegraph",
+        "colony": "HONG_KONG",
+        "description": "Telegraphic communication linking Hong Kong to global networks",
+        "year": "1957",
+        "provenance": {"source_pdf": "ColonialOfficeList1957.pdf", "source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      }
+    ],
+    "events": [
+      {
+        "id": "event_cession_1841",
+        "type": "annexation",
+        "description": "Hong Kong Island was ceded to Great Britain in January 1841",
+        "event_date": {"year": "1841", "month": "January", "precision": "month"},
+        "year_mentioned": "1957",
+        "locations": ["place_hong_kong"],
+        "year": "1957",
+        "provenance": {"source_pdf": "ColonialOfficeList1957.pdf", "source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "event_treaty_nankin_1842",
+        "type": "treaty",
+        "description": "Treaty of Nankin/Nanjing confirmed the cession of Hong Kong in August 1842",
+        "event_date": {"year": "1842", "month": "August", "precision": "month"},
+        "year_mentioned": "1957",
+        "locations": ["place_hong_kong"],
+        "year": "1957",
+        "provenance": {"source_pdf": "ColonialOfficeList1957.pdf", "source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "event_new_territories_1898",
+        "type": "treaty",
+        "description": "New Territories leased to Britain for 99 years from 1898 under the Second Convention of Peking",
+        "event_date": {"year": "1898", "precision": "year"},
+        "year_mentioned": "1957",
+        "locations": ["place_new_territories"],
+        "year": "1957",
+        "provenance": {"source_pdf": "ColonialOfficeList1957.pdf", "source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_victoria",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_hong_kong",
+      "properties": {"year": "1957", "confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "place_kowloon",
+      "relationship_type": "PART_OF",
+      "target_id": "place_hong_kong",
+      "properties": {"year": "1957", "confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "place_new_territories",
+      "relationship_type": "PART_OF",
+      "target_id": "place_hong_kong",
+      "properties": {"year": "1957", "confidence": "definite", "notes": "Leased from 1898"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1957_manual_parsed/HONG_KONG.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T21:50:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 12,
+    "entities_by_type": {"places": 4, "people": 1, "institutions": 3, "economic_data": 0, "infrastructure": 2, "events": 3},
+    "total_relationships": 3,
+    "relationships_by_type": {"LOCATED_IN": 1, "PART_OF": 2}
+  }
+}

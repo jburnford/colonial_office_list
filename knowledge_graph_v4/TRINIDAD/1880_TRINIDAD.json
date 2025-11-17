@@ -1,0 +1,859 @@
+{
+  "metadata": {
+    "year": "1880",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1880.pdf",
+    "source_directory": "output_2/1880_manual_parsed",
+    "extraction_date": "2025-11-17T21:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["TRINIDAD"],
+    "processing_notes": "Complete extraction with economic data, infrastructure, and detailed civil establishment"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Rev": {"full_form": "Reverend", "category": "religious"},
+      "Very Rev": {"full_form": "Very Reverend", "category": "religious"},
+      "Most Rev": {"full_form": "Most Reverend", "category": "religious"},
+      "Rt Rev": {"full_form": "Right Reverend", "category": "religious"},
+      "Captain": {"full_form": "Captain", "category": "military"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor and Commander-in-Chief", "hierarchy_level": 2, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Attorney-General": {"canonical_name": "Attorney-General", "hierarchy_level": 3, "category": "judicial"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"},
+      "Receiver-General": {"canonical_name": "Receiver-General", "hierarchy_level": 3, "category": "administrative"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council to the Governor"},
+      "legislative_council": {"description": "Legislative body of the colony"},
+      "supreme_court": {"description": "Highest court in the colony"},
+      "colonial_secretariat": {"description": "Administrative department headed by Colonial Secretary"},
+      "treasury": {"description": "Financial administration department"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_trinidad",
+        "name": "Trinidad",
+        "type": "colony",
+        "year": "1880",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Main colony being described"
+        },
+        "coordinates": {
+          "latitude": 10.43,
+          "longitude": -61.8,
+          "source": "Lines 4: between 10° 3' and 10° 50' N. latitude, and 61° 39' and 62° of W. longitude"
+        },
+        "area": {
+          "value": 1754,
+          "unit": "square_miles",
+          "source": "Line 4"
+        },
+        "population": {
+          "total": 109688,
+          "year": "1871",
+          "source": "Line 235"
+        },
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "2-43",
+          "source_section": "TRINIDAD",
+          "original_text": "The island of Trinidad lies to the eastward of Venezuela...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_port_of_spain",
+        "name": "Port of Spain",
+        "type": "city",
+        "year": "1880",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Capital city of Trinidad"
+        },
+        "population": {
+          "total": 30000,
+          "year": "1880",
+          "source": "Line 26"
+        },
+        "parent_location": "place_trinidad",
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "26",
+          "source_section": "TRINIDAD > General Description",
+          "original_text": "The chief town and principal port of Trinidad is Port of Spain (population 30,000)",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_san_fernando",
+        "name": "San Fernando",
+        "type": "town",
+        "year": "1880",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Second town of Trinidad"
+        },
+        "population": {
+          "total": 6000,
+          "year": "1880",
+          "source": "Line 28"
+        },
+        "parent_location": "place_trinidad",
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "28",
+          "source_section": "TRINIDAD > General Description",
+          "original_text": "The next town and port is San Fernando (population 6,000), about 30 miles south from Port of Spain",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_arima",
+        "name": "Arima",
+        "type": "town",
+        "year": "1880",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Town connected by railway"
+        },
+        "parent_location": "place_trinidad",
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "48",
+          "source_section": "TRINIDAD > Railways",
+          "original_text": "The railway from Port of Spain to Arima (16 miles) was opened in 1876",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_henry_turner_irving",
+        "name": "Henry Turner Irving",
+        "titles": ["Sir"],
+        "honors": [
+          {
+            "honor": "KCMG",
+            "full_name": "Knight Commander of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "colony": "TRINIDAD",
+            "status": "permanent",
+            "salary": {
+              "amount": 4000,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "264",
+          "source_section": "TRINIDAD > Civil Establishment",
+          "original_text": "Governor and Commander-in-Chief, Sir Henry Turner Irving, K.C.M.G. £4,000",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_cecil_holder",
+        "name": "Cecil F. Holder",
+        "titles": ["Captain"],
+        "positions": [
+          {
+            "title": "Private Secretary and Aide-de-Camp",
+            "colony": "TRINIDAD",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "265",
+          "source_section": "TRINIDAD > Civil Establishment",
+          "original_text": "Private Secretary and Aide-de-Camp, Captain Cecil F. Holder £300",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_scott_bushe",
+        "name": "J. Scott Bushe",
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "TRINIDAD",
+            "status": "permanent",
+            "salary": {
+              "amount": 1200,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "247, 269",
+          "source_section": "TRINIDAD > Legislative Council, Civil Establishment",
+          "original_text": "J. S. Bushe, C.M.G., Colonial Secretary. £1,200",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_needham",
+        "name": "J. Needham",
+        "titles": ["Sir"],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "TRINIDAD",
+            "status": "permanent",
+            "salary": {
+              "amount": 1800,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "246, 422",
+          "source_section": "TRINIDAD > Legislative Council, Judicial Department",
+          "original_text": "Sir J. Needham, Chief Justice. £1,800",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_henry_ludlow",
+        "name": "Henry Ludlow",
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "TRINIDAD",
+            "status": "permanent",
+            "salary": {
+              "amount": 1000,
+              "currency": "GBP",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "clerical assistance",
+                "amount": 300,
+                "currency": "GBP"
+              }
+            ]
+          }
+        ],
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "248, 429",
+          "source_section": "TRINIDAD > Legislative Council, Judicial Department",
+          "original_text": "H. Ludlow, Attorney-General. £1,000, and 300l. for clerical assistance",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_r_pyne",
+        "name": "W. R. Pyne",
+        "positions": [
+          {
+            "title": "Receiver-General",
+            "colony": "TRINIDAD",
+            "status": "permanent",
+            "salary": {
+              "amount": 800,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "249, 280",
+          "source_section": "TRINIDAD > Legislative Council, Receiver-General's Department",
+          "original_text": "W. R. Pyne, Receiver-General. £800",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_h_j_l_gonin",
+        "name": "H. J. L. Gonin",
+        "titles": ["Most Rev"],
+        "positions": [
+          {
+            "title": "Archbishop of Port of Spain",
+            "colony": "TRINIDAD",
+            "status": "permanent",
+            "salary": {
+              "amount": 1000,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "552",
+          "source_section": "TRINIDAD > Ecclesiastical Establishment > Roman Catholic Church",
+          "original_text": "Archbishop of Port of Spain, The Most Rev. H. J. L. Gonin, D.D., 1,000",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "TRINIDAD",
+        "composition": {
+          "total_members": 3,
+          "ex_officio_members": 3
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "237-242",
+          "source_section": "TRINIDAD > Executive Council",
+          "original_text": "The Governor, President. The Senior Officer commanding Her Majesty's Forces. The Colonial Secretary. The Attorney-General.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "TRINIDAD",
+        "composition": {
+          "total_members": 15,
+          "official_members": 6,
+          "unofficial_members": 8
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "244-260",
+          "source_section": "TRINIDAD > Legislative Council",
+          "original_text": "Legislative Council including the Governor, 6 official, and 8 unofficial members",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_queens_royal_college",
+        "name": "Queen's Royal College",
+        "type": "education_department",
+        "colony": "TRINIDAD",
+        "location": "Port of Spain",
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "85, 614",
+          "source_section": "TRINIDAD > Education, Educational Establishment",
+          "original_text": "Queen's Royal College (secular), and its affiliated Roman Catholic institution",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_college_immaculate_conception",
+        "name": "College of the Immaculate Conception",
+        "type": "education_department",
+        "colony": "TRINIDAD",
+        "location": "Port of Spain",
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "85, 626",
+          "source_section": "TRINIDAD > Education, Educational Establishment",
+          "original_text": "College of the Immaculate Conception (In connection with Royal College)",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1878",
+        "type": "revenue",
+        "colony": "TRINIDAD",
+        "year_applies": "1878",
+        "data": {
+          "value": 470513,
+          "currency": "GBP"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "210",
+          "source_section": "TRINIDAD > Revenue. Expenditure.",
+          "original_text": "1878 | £470,513",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1878",
+        "type": "expenditure",
+        "colony": "TRINIDAD",
+        "year_applies": "1878",
+        "data": {
+          "value": 405190,
+          "currency": "GBP"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "210",
+          "source_section": "TRINIDAD > Revenue. Expenditure.",
+          "original_text": "1878 | £405,190",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_railways",
+        "type": "debt",
+        "colony": "TRINIDAD",
+        "year_applies": "1880",
+        "data": {
+          "value": 245800,
+          "currency": "GBP",
+          "category": "railways"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "214",
+          "source_section": "TRINIDAD > Public Debt of Trinidad",
+          "original_text": "245,800l. for railways",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1878",
+        "type": "imports",
+        "colony": "TRINIDAD",
+        "year_applies": "1878",
+        "data": {
+          "value": 1901401,
+          "currency": "GBP"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "233",
+          "source_section": "TRINIDAD > Value of Imports and Exports",
+          "original_text": "1878 | £1,901,401",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1878",
+        "type": "exports",
+        "colony": "TRINIDAD",
+        "year_applies": "1878",
+        "data": {
+          "value": 1839067,
+          "currency": "GBP"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "233",
+          "source_section": "TRINIDAD > Value of Imports and Exports",
+          "original_text": "1878 | £1,839,067",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_production_sugar",
+        "type": "production",
+        "colony": "TRINIDAD",
+        "year_applies": "1880",
+        "data": {
+          "value": 52150,
+          "unit": "acres",
+          "category": "sugar cane cultivation"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "36",
+          "source_section": "TRINIDAD > General Description",
+          "original_text": "Cultivated in Sugar Cane | 52,150",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_production_cacao",
+        "type": "production",
+        "colony": "TRINIDAD",
+        "year_applies": "1880",
+        "data": {
+          "value": 21279,
+          "unit": "acres",
+          "category": "cacao and coffee cultivation"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "38",
+          "source_section": "TRINIDAD > General Description",
+          "original_text": "Cacao and Coffee | 21,279",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway_port_spain_arima",
+        "name": "Port of Spain to Arima Railway",
+        "type": "railway",
+        "colony": "TRINIDAD",
+        "specifications": {
+          "length": {
+            "value": 16,
+            "unit": "miles"
+          }
+        },
+        "construction": {
+          "completion_date": "1876"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "48",
+          "source_section": "TRINIDAD > Railways",
+          "original_text": "The railway from Port of Spain to Arima (16 miles) was opened in 1876",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_railway_couva",
+        "name": "Couva Line Railway",
+        "type": "railway",
+        "colony": "TRINIDAD",
+        "description": "Extension from St. Joseph junction",
+        "specifications": {
+          "length": {
+            "value": 18,
+            "unit": "miles"
+          }
+        },
+        "construction": {
+          "completion_date": "1880"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "48",
+          "source_section": "TRINIDAD > Railways",
+          "original_text": "The Couva line (18 miles from the junction at St. Joseph, 24 miles in all from Port of Spain) will be in full work in 1880",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_postal_general",
+        "name": "General Post Office",
+        "type": "postal",
+        "colony": "TRINIDAD",
+        "description": "General Post Office in Port of Spain with branch and 27 out offices",
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "59",
+          "source_section": "TRINIDAD > Postal Communications",
+          "original_text": "There is a General Post Office in Port of Spain, a branch office at San Fernando, and 27 out offices throughout the island",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_trinidad_1871",
+        "colony": "TRINIDAD",
+        "year_applies": "1871",
+        "population": {
+          "total": 109688
+        },
+        "notes": "Census data from 1871",
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "235",
+          "source_section": "TRINIDAD",
+          "original_text": "Population, Census, 1871, 109,688",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_british_conquest",
+        "type": "transfer",
+        "description": "British expedition from Martinique resulted in surrender of Trinidad to British arms",
+        "event_date": {
+          "year": "1797",
+          "month": "February",
+          "day": "18",
+          "precision": "exact"
+        },
+        "year_mentioned": "1880",
+        "locations": ["place_trinidad"],
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "10-14",
+          "source_section": "TRINIDAD > History",
+          "original_text": "On the 12th February, 1797... The expedition resulted in the surrender of the island to His Majesty's arms, and on the 18th February, 1797",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_treaty_amiens",
+        "type": "treaty",
+        "description": "Trinidad was finally ceded to the Crown of Great Britain by the Treaty of Amiens",
+        "event_date": {
+          "year": "1802",
+          "precision": "year"
+        },
+        "year_mentioned": "1880",
+        "locations": ["place_trinidad"],
+        "year": "1880",
+        "provenance": {
+          "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+          "source_lines": "18",
+          "source_section": "TRINIDAD > History",
+          "original_text": "In 1802 it was finally ceded to the Crown of Great Britain by the Treaty of Amiens",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T21:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_henry_turner_irving",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1880",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+        "source_lines": "264",
+        "extraction_confidence": 1.0,
+        "extraction_date": "2025-11-17T21:00:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "place_port_of_spain",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1880",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+        "source_lines": "26",
+        "extraction_confidence": 1.0,
+        "extraction_date": "2025-11-17T21:00:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_san_fernando",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1880",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1880_manual_parsed/TRINIDAD.md",
+        "source_lines": "28",
+        "extraction_confidence": 1.0,
+        "extraction_date": "2025-11-17T21:00:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 31,
+    "entities_by_type": {
+      "places": 4,
+      "people": 7,
+      "institutions": 4,
+      "economic_data": 7,
+      "infrastructure": 3,
+      "demographics": 1,
+      "events": 2
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "GOVERNS": 1,
+      "LOCATED_IN": 2
+    }
+  }
+}

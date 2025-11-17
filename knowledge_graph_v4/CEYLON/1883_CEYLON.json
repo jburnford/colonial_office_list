@@ -1,0 +1,504 @@
+{
+  "metadata": {
+    "year": "1883",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1883.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1883_manual_parsed",
+    "extraction_date": "2025-11-17T22:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM-based extraction)",
+    "colonies_processed": ["CEYLON"],
+    "processing_notes": "Ceylon 1883 extraction. Population census 1881: 2,763,984 (14.67% increase from 1871). Tea and cinchona production expanding significantly. Kandy-Matale railway opened Oct 1880."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "KCB": {"full_name": "Knight Commander of the Order of the Bath", "type": "knighthood", "rank": 2},
+      "GCB": {"full_name": "Knight Grand Cross of the Order of the Bath", "type": "knighthood", "rank": 1},
+      "GCMG": {"full_name": "Knight Grand Cross of the Order of St Michael and St George", "type": "knighthood", "rank": 1}
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Hon": {"full_form": "Honourable", "category": "nobility"},
+      "Major-General": {"full_form": "Major-General", "category": "military"},
+      "Col": {"full_form": "Colonel", "category": "military"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 1, "category": "executive"},
+      "Lieutenant-Governor": {"canonical_name": "Lieutenant-Governor", "hierarchy_level": 2, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Queen's Advocate": {"canonical_name": "Queen's Advocate", "hierarchy_level": 3, "category": "judicial"},
+      "Auditor-General": {"canonical_name": "Auditor-General", "hierarchy_level": 3, "category": "administrative"},
+      "Surveyor-General": {"canonical_name": "Surveyor-General", "hierarchy_level": 3, "category": "administrative"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_ceylon",
+        "name": "Ceylon",
+        "type": "colony",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "CEYLON",
+          "actual_location_country": "Sri Lanka (modern)",
+          "certainty": "definite",
+          "reasoning": "Main colony"
+        },
+        "coordinates": {
+          "latitude": 7.873,
+          "longitude": 80.771,
+          "source": "between 5° 55' and 9° 51' N. lat., and 79° 41' and 81° 54' E. long."
+        },
+        "area": {
+          "value": 24702,
+          "unit": "square_miles",
+          "source": "The area of the Island is 24,702 square miles, or 15,809,280 acres"
+        },
+        "population": {
+          "total": 2763984,
+          "year": "1881",
+          "source": "The population of Ceylon was ascertained by the Census taken in 1881 to be 2,763,984, being an increase of 14-67 per cent. on the population of 1871"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "1-26",
+          "original_text": "An island situated in the Indian Ocean, off the southern extremity of Hindostan",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_colombo",
+        "name": "Colombo",
+        "type": "city",
+        "year": "1883",
+        "parent_location": "place_ceylon",
+        "location_context": {
+          "mentioned_in_colony": "CEYLON",
+          "actual_location_country": "Sri Lanka (modern)",
+          "certainty": "definite",
+          "reasoning": "Capital city, major administrative center"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "3,38",
+          "original_text": "from Colombo on the west coast... Municipalities of Colombo, Kandy, and Galle",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_kandy",
+        "name": "Kandy",
+        "type": "city",
+        "year": "1883",
+        "parent_location": "place_ceylon",
+        "location_context": {
+          "mentioned_in_colony": "CEYLON",
+          "actual_location_country": "Sri Lanka (modern)",
+          "certainty": "definite",
+          "reasoning": "Major city in Central Province"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "5,38,50",
+          "original_text": "at Kandy, 1,665 feet above sea level... railway from Colombo to Kandy",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_longden_james_robert",
+        "name": "James Robert Longden",
+        "titles": ["Sir"],
+        "honors": [{"honor": "KCMG", "full_name": "Knight Commander of the Order of St Michael and St George"}],
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "Ceylon",
+            "status": "permanent",
+            "salary": {"amount": 80000, "currency": "Rs", "period": "annual"}
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "146,155,172",
+          "original_text": "His Excellency Sir James Robert Longden, K.C.M.G., Governor. Rs. 80,000",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_douglas_john",
+        "name": "John Douglas",
+        "honors": [{"honor": "CMG", "full_name": "Companion of the Order of St Michael and St George"}],
+        "positions": [
+          {
+            "title": "Lieutenant-Governor and Colonial Secretary",
+            "colony": "Ceylon",
+            "status": "permanent",
+            "salary": {"amount": 24000, "currency": "Rs", "period": "annual"}
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "147,156,178",
+          "original_text": "John Douglas, C.M.G., Lieutenant-Governor and Colonial Secretary. Rs. 24,000",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_mcleod_john_c",
+        "name": "John C. McLeod",
+        "titles": ["Sir", "Major-General"],
+        "honors": [{"honor": "KCB", "full_name": "Knight Commander of the Order of the Bath"}],
+        "positions": [
+          {
+            "title": "Commanding the Forces",
+            "colony": "Ceylon",
+            "status": "permanent"
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "148,157",
+          "original_text": "Major-General Sir John C. McLeod, K.C.B., Commanding the Forces",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_wright_w_d",
+        "name": "W. D. Wright",
+        "positions": [
+          {
+            "title": "Queen's Advocate",
+            "colony": "Ceylon",
+            "status": "permanent"
+          },
+          {
+            "title": "Collector of Customs",
+            "colony": "Ceylon",
+            "status": "permanent"
+          },
+          {
+            "title": "Treasurer",
+            "colony": "Ceylon",
+            "salary": {"amount": 18000, "currency": "Rs", "period": "annual"}
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "149,159,163,196",
+          "original_text": "W. D. Wright, Queen's Advocate... Collector of Customs... Treasurer, Hon. W. D. Wright, Rs. 18,000",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_ravenscroft_w_h",
+        "name": "W. H. Ravenscroft",
+        "positions": [
+          {
+            "title": "Auditor-General",
+            "colony": "Ceylon",
+            "status": "permanent",
+            "salary": {"amount": 18000, "currency": "Rs", "period": "annual"}
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "150,200",
+          "original_text": "W. H. Ravenscroft, Auditor-General... Hon. W. H. Ravenscroft, Rs. 18,000",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_fyers_a_b",
+        "name": "A. B. Fyers",
+        "titles": ["Col"],
+        "positions": [
+          {
+            "title": "Surveyor-General",
+            "colony": "Ceylon",
+            "status": "permanent"
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "162",
+          "original_text": "Col. A. B. Fyers, R.E., Surveyor-General",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "Ceylon",
+        "year": "1883",
+        "composition": {
+          "total_members": 5,
+          "official_members": 5
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "13,144-151",
+          "original_text": "aided by an Executive Council of five members",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "Ceylon",
+        "year": "1883",
+        "composition": {
+          "total_members": 15,
+          "official_members": 9,
+          "unofficial_members": 6
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "13,153-167",
+          "original_text": "a Legislative Council of 15 members, including the members of the Executive Council, four other office-holders, and six unofficial members",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "inst_supreme_court",
+        "name": "Supreme Court",
+        "type": "supreme_court",
+        "colony": "Ceylon",
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "44",
+          "original_text": "Justice is administered by the Supreme Court",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1881",
+        "type": "revenue",
+        "colony": "Ceylon",
+        "year": "1883",
+        "year_applies": "1881",
+        "data": {
+          "value": 13686491,
+          "currency": "rupees",
+          "breakdown": {
+            "imports_duty": 2867832,
+            "land_sales": 408704,
+            "grain_revenue": 825218,
+            "licences": 1668433,
+            "salt": 851005,
+            "stamps": 847063,
+            "railway_receipts": 2880091
+          }
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "34-38",
+          "original_text": "The statement of revenue for 1881... The grand total—13,686,491 rupees",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_production_tea",
+        "type": "production",
+        "colony": "Ceylon",
+        "year": "1883",
+        "data": {
+          "category": "tea",
+          "unit": "acres",
+          "value": 14000
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "28",
+          "original_text": "Tea, 14,000 acres",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "econ_production_cinchona",
+        "type": "production",
+        "colony": "Ceylon",
+        "year": "1883",
+        "data": {
+          "category": "cinchona",
+          "unit": "acres",
+          "value": 33000
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "28",
+          "original_text": "Cinchona, 33,000 acres",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway_main",
+        "name": "Ceylon Railway System",
+        "type": "railway",
+        "colony": "Ceylon",
+        "year": "1883",
+        "description": "Colombo to Kandy (74 miles), branch to coffee districts (17 miles), extended to Kalutara (27 miles), Kandy-Matale line opened Oct 1880",
+        "specifications": {
+          "length": {"value": 118, "unit": "miles"}
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "50",
+          "original_text": "There is a railway from Colombo to Kandy (74 miles) and a branch line of 17 miles into the coffee districts. Southwards, the railway has been extended to Kalutara (27 miles from Colombo.) A railway from Kandy to Matale (17 miles) was opened for traffic on the 1st October, 1880",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "infra_telegraph",
+        "name": "Ceylon Telegraph System",
+        "type": "telegraph",
+        "colony": "Ceylon",
+        "year": "1883",
+        "specifications": {
+          "length": {"value": 789, "unit": "miles"}
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "50",
+          "original_text": "789 miles are open in Ceylon",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_kandy_matale_railway",
+        "type": "other",
+        "description": "Railway from Kandy to Matale opened for traffic",
+        "event_date": {
+          "year": "1880",
+          "month": "October",
+          "day": "1",
+          "precision": "exact"
+        },
+        "year_mentioned": "1883",
+        "locations": ["place_kandy"],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+          "source_lines": "50",
+          "original_text": "A railway from Kandy to Matale (17 miles) was opened for traffic on the 1st October, 1880",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_longden_james_robert",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_ceylon",
+      "properties": {"year": "1883", "confidence": "definite"},
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+        "source_lines": "146",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T22:00:00Z",
+        "extraction_agent": "Claude Sonnet 4.5",
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "place_colombo",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_ceylon",
+      "properties": {"year": "1883", "confidence": "definite"},
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/CEYLON.md",
+        "source_lines": "3",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T22:00:00Z",
+        "extraction_agent": "Claude Sonnet 4.5",
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 21,
+    "entities_by_type": {
+      "places": 3,
+      "people": 6,
+      "institutions": 3,
+      "economic_data": 3,
+      "infrastructure": 2,
+      "events": 1
+    },
+    "total_relationships": 2
+  }
+}

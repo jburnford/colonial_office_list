@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "year": "1886",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1886.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1886_manual_parsed",
+    "extraction_date": "2025-11-17T22:15:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM-based extraction)",
+    "colonies_processed": ["CEYLON"],
+    "processing_notes": "Ceylon 1886 extraction. Major transition from coffee to tea: tea at 93,000 acres (vs 14,000 in 1883). Cocos Islands transferred to Straits Settlements Feb 1886. Colombo breakwater nearly complete at cost of £650,000."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3}
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 1, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Attorney-General": {"canonical_name": "Attorney-General", "hierarchy_level": 3, "category": "judicial"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_ceylon",
+        "name": "Ceylon",
+        "type": "colony",
+        "year": "1886",
+        "location_context": {"mentioned_in_colony": "CEYLON", "actual_location_country": "Sri Lanka (modern)", "certainty": "definite", "reasoning": "Main colony"},
+        "area": {"value": 24702, "unit": "square_miles", "source": "line 2"},
+        "population": {"total": 2763984, "year": "1881", "source": "Census taken in 1881 to be 2,763,984"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/CEYLON.md", "source_lines": "1-34", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T22:15:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "place_colombo",
+        "name": "Colombo",
+        "type": "city",
+        "year": "1886",
+        "parent_location": "place_ceylon",
+        "location_context": {"mentioned_in_colony": "CEYLON", "actual_location_country": "Sri Lanka (modern)", "certainty": "definite", "reasoning": "Capital city"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/CEYLON.md", "source_lines": "2,57", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T22:15:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction"}
+      }
+    ],
+    "people": [],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "Ceylon",
+        "year": "1886",
+        "composition": {"total_members": 5, "official_members": 5},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/CEYLON.md", "source_lines": "18", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T22:15:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "Ceylon",
+        "year": "1886",
+        "composition": {"total_members": 15, "official_members": 9, "unofficial_members": 6},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/CEYLON.md", "source_lines": "18", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T22:15:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction"}
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1884",
+        "type": "revenue",
+        "colony": "Ceylon",
+        "year": "1886",
+        "year_applies": "1884",
+        "data": {"value": 12492365, "currency": "rupees"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/CEYLON.md", "source_lines": "47-57", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T22:15:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "parsed_table"}
+      },
+      {
+        "id": "econ_production_tea",
+        "type": "production",
+        "colony": "Ceylon",
+        "year": "1886",
+        "data": {"category": "tea", "unit": "acres", "value": 93000},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/CEYLON.md", "source_lines": "38", "original_text": "Tea, 93,000 acres", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T22:15:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "econ_production_coffee",
+        "type": "production",
+        "colony": "Ceylon",
+        "year": "1886",
+        "data": {"category": "coffee", "unit": "acres", "value": 122000},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/CEYLON.md", "source_lines": "37", "original_text": "Coffee, 122,000 acres", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T22:15:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction"}
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_colombo_breakwater",
+        "name": "Colombo Breakwater",
+        "type": "port",
+        "colony": "Ceylon",
+        "year": "1886",
+        "description": "Single arm composed of large concrete blocks on rubble foundation, 4,200 feet long",
+        "construction": {"start_date": "1875", "cost": {"amount": 650000, "currency": "£"}},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/CEYLON.md", "source_lines": "71", "original_text": "The Colombo breakwater was commenced in 1875 and is now almost complete... The work has cost nearly 650,000l.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T22:15:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction"}
+      }
+    ],
+    "events": [
+      {
+        "id": "event_cocos_transfer",
+        "type": "transfer",
+        "description": "Cocos or Keeling Islands transferred to Government of the Straits Settlements",
+        "event_date": {"year": "1886", "month": "February", "day": "1", "precision": "exact"},
+        "year_mentioned": "1886",
+        "year": "1886",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/CEYLON.md", "source_lines": "10", "original_text": "The Cocos or Keeling Islands were transferred to the Colony by letters patent under the Great Seal of the United Kingdom. They have now, by Letters Patent dated the 1st of February, 1886, been placed under the Government of the Straits Settlement", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T22:15:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction"}
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_colombo",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_ceylon",
+      "properties": {"year": "1886", "confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1886_manual_parsed/CEYLON.md", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T22:15:00Z", "extraction_agent": "Claude Sonnet 4.5", "extraction_method": "direct_extraction"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 11,
+    "entities_by_type": {"places": 2, "people": 0, "institutions": 2, "economic_data": 3, "infrastructure": 1, "events": 1},
+    "total_relationships": 1
+  }
+}

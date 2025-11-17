@@ -1,0 +1,382 @@
+==========================================================================================
+COLONIAL OFFICE LIST 1933 - DETAILED DATA EXTRACTION EXAMPLES
+==========================================================================================
+
+==========================================================================================
+SECTION 1: GEOGRAPHIC ENTITIES WITH FULL DETAILS
+==========================================================================================
+
+ADEN
+--------------------------------------------------
+ID: place_0001
+Type: colony
+Location: 12° 47' N, 45° 10' E
+Area: 75.0 square miles
+Description: ADEN.
+
+ANTIGUA
+--------------------------------------------------
+ID: place_0005
+Type: colony
+Area: 108.0 square miles
+Description: ANTIGUA.
+
+ASCENSION
+--------------------------------------------------
+ID: place_0018
+Type: colony
+Location: 7° 53' S, 14° 18' W
+Area: 34.0 square miles
+Description: ASCENSION.
+
+AUSTRALIA
+--------------------------------------------------
+ID: place_0020
+Type: colony
+Area: 300000.0 sq. miles
+Description: COMMONWEALTH OF AUSTRALIA.
+
+BAHAMAS
+--------------------------------------------------
+ID: place_0030
+Type: colony
+Area: 4403.0 square miles
+Description: BAHAMAS.
+
+BARBADOS
+--------------------------------------------------
+ID: place_0039
+Type: colony
+Description: * Exclusive of specie.
+
+==========================================================================================
+SECTION 2: PEOPLE WITH COMPLETE POSITION DETAILS
+==========================================================================================
+
+==========================================================================================
+SECTION 3: INSTITUTIONS BY CATEGORY
+==========================================================================================
+
+COURT
+--------------------------------------------------
+
+  Supreme Court
+    Location: ANTIGUA
+    Type: court
+
+  Supreme Court
+    Location: AUSTRALIA
+    Type: court
+
+DEPARTMENT
+--------------------------------------------------
+
+  Treasury
+    Location: ADEN
+    Type: department
+
+  Treasury
+    Location: ANTIGUA
+    Type: department
+
+EDUCATIONAL
+--------------------------------------------------
+
+  Royal College
+    Location: AUSTRALIA
+    Type: educational
+
+  Royal College
+    Location: AUSTRALIA
+    Type: educational
+
+EXECUTIVE COUNCIL
+--------------------------------------------------
+
+  Executive Council
+    Location: ANTIGUA
+    Type: executive_council
+
+  Executive Council
+    Location: ANTIGUA
+    Type: executive_council
+
+==========================================================================================
+SECTION 4: ECONOMIC & FINANCIAL DATA
+==========================================================================================
+
+Total Revenue Records Extracted: 10
+
+Revenue Data by Location:
+
+  AUSTRALIA
+    Amount: 203252 £
+    Category: Government Revenue
+    Year: 1933
+
+  AUSTRALIA
+    Amount: 4194603 £
+    Category: Government Revenue
+    Year: 1933
+
+  BASUTOLAND
+    Amount: 274332 £
+    Category: Government Revenue
+    Year: 1933
+
+  BERMUDA
+    Amount: 131636 £
+    Category: Government Revenue
+    Year: 1933
+
+  BERMUDA
+    Amount: 240649 £
+    Category: Government Revenue
+    Year: 1933
+
+  BRITISH HONDURAS
+    Amount: 2400 $
+    Category: Government Revenue
+    Year: 1933
+
+  BRITISH HONDURAS
+    Amount: 1590 $
+    Category: Government Revenue
+    Year: 1933
+
+  BRUNEI
+    Amount: 323791 $
+    Category: Government Revenue
+    Year: 1933
+
+  CYPRUS
+    Amount: 283606 £
+    Category: Government Revenue
+    Year: 1933
+
+  DOMINICA
+    Amount: 38949 £
+    Category: Government Revenue
+    Year: 1933
+
+==========================================================================================
+SECTION 5: INFRASTRUCTURE SPECIMENS
+==========================================================================================
+
+RAILWAY Infrastructure
+--------------------------------------------------
+
+  Name: It is
+nd on the
+thern side
+the cane is
+tral factory
+  Location: ANTIGUA
+  Type: railway
+
+  Name: A light
+  Location: ANTIGUA
+  Type: railway
+
+TELEGRAPH Infrastructure
+--------------------------------------------------
+
+  Name: It is connected by
+  Location: ASCENSION
+  Type: telegraph
+
+  Name: and is an important cable station of the Eastern
+  Location: ASCENSION
+  Type: telegraph
+
+HARBOR Infrastructure
+--------------------------------------------------
+
+  Name: The principal business of the Port Trust in recent years has been the deepening 
+  Location: ADEN
+  Type: harbor
+
+  Name: It possesses a good
+  Location: ADEN
+  Type: harbor
+
+==========================================================================================
+SECTION 6: DEMOGRAPHIC RECORDS WITH FULL DETAILS
+==========================================================================================
+
+ADEN
+--------------------------------------------------
+Census Date: 1931
+Total Population: 34,471
+
+ANTIGUA
+--------------------------------------------------
+Census Date: 1931
+Total Population: 902
+
+BAHAMAS
+--------------------------------------------------
+Census Date: 1891
+Total Population: 182,306
+
+BRITISH COLUMBIA
+--------------------------------------------------
+Census Date: 1911
+Total Population: 492,432
+
+BRITISH HONDURAS
+--------------------------------------------------
+Census Date: 1931
+Total Population: 16,687
+
+BRITISH HONDURAS
+--------------------------------------------------
+Census Date: 1931
+Total Population: 44,670
+
+CEYLON
+--------------------------------------------------
+Census Date: 1931
+Total Population: 69,281
+
+DOMINICA
+--------------------------------------------------
+Census Date: 1921
+Total Population: 420
+
+==========================================================================================
+SECTION 7: HISTORICAL EVENTS & DATES
+==========================================================================================
+
+1815
+  Type: cession
+  Description: in in 1815
+  Location(s): ASCENSION
+
+02 to 1906
+  Type: other
+  Description: the school published Memoirs.
+  Location(s): AUSTRALIA
+
+17 and 1918
+  Type: other
+  Description: than to that of the Imperial War Conferences of those years.
+  Location(s): AUSTRALIA
+
+23 and 1924
+  Type: other
+  Description: the Maintenance Orders (Facilities for Enforcement) Act, 1920, was extended to the Union of South Af
+  Location(s): AUSTRALIA
+
+20 to 1922
+  Type: other
+  Description: (Cmd.
+  Location(s): AUSTRALIA
+
+11th December 1931
+  Type: other
+  Description: as the Statute of Westminster, 1931 (22 Geo.
+  Location(s): AUSTRALIA
+
+31 and 1932
+  Type: other
+  Description: respectively, and reports on Port Swettenham, Federated Malay States, and on the Harbour of Port Lou
+  Location(s): AUSTRALIA
+
+17 and 1918
+  Type: other
+  Description: and of the Conferences of 1921, 1923, 1926 and 1930, is given under the heading "Imperial Conference
+  Location(s): AUSTRALIA
+
+16 to 1920
+  Type: other
+  Description: in the 1923 edition of this work.
+  Location(s): AUSTRALIA
+
+1925
+  Type: cession
+  Description: in in 1925
+  Location(s): AUSTRALIA
+
+1913
+  Type: cession
+  Description: at the beginning of in 1913
+  Location(s): AUSTRALIA
+
+1920
+  Type: cession
+  Description: in in 1920
+  Location(s): AUSTRALIA
+
+1924
+  Type: cession
+  Description: in in 1924
+  Location(s): AUSTRALIA
+
+1925
+  Type: cession
+  Description: in in 1925
+  Location(s): AUSTRALIA
+
+1898
+  Type: cession
+  Description: in in 1898
+  Location(s): AUSTRALIA
+
+==========================================================================================
+SECTION 8: RELATIONSHIP NETWORK SAMPLES
+==========================================================================================
+
+GOVERNED_BY Relationships (Sample of 5)
+--------------------------------------------------
+  person_0001 --[GOVERNED_BY]--> place_0001
+  person_0002 --[GOVERNED_BY]--> place_0005
+  person_0003 --[GOVERNED_BY]--> place_0005
+  person_0004 --[GOVERNED_BY]--> place_0005
+  person_0005 --[GOVERNED_BY]--> place_0005
+
+ADMINISTERS Relationships (Sample of 5)
+--------------------------------------------------
+  institution_0001 --[ADMINISTERS]--> place_0001
+  institution_0002 --[ADMINISTERS]--> place_0005
+  institution_0003 --[ADMINISTERS]--> place_0005
+  institution_0004 --[ADMINISTERS]--> place_0005
+  institution_0005 --[ADMINISTERS]--> place_0005
+
+PART_OF Relationships (Sample of 5)
+--------------------------------------------------
+  place_0002 --[PART_OF]--> place_0001
+  place_0003 --[PART_OF]--> place_0001
+  place_0004 --[PART_OF]--> place_0001
+  place_0006 --[PART_OF]--> place_0005
+  place_0007 --[PART_OF]--> place_0005
+
+LOCATED_IN Relationships (Sample of 5)
+--------------------------------------------------
+  demographic_0001 --[LOCATED_IN]--> place_0001
+  demographic_0002 --[LOCATED_IN]--> place_0005
+  demographic_0003 --[LOCATED_IN]--> place_0030
+  demographic_0004 --[LOCATED_IN]--> place_0055
+  demographic_0005 --[LOCATED_IN]--> place_0100
+
+==========================================================================================
+EXTRACTION STATISTICS SUMMARY
+==========================================================================================
+
+Total Entities Extracted: 4,114
+Total Relationships: 3,049
+Colonies Processed: 46
+Extraction Timestamp: 2025-11-16T23:40:00.284770
+
+Entity Type Summary:
+  places........................    579
+  people........................  1,676
+  institutions..................    811
+  economic_data.................     55
+  infrastructure................    753
+  demographics..................     29
+  events........................    211
+
+==========================================================================================
+END OF DETAILED EXAMPLES
+==========================================================================================

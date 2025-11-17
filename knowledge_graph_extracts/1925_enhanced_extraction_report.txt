@@ -1,0 +1,29 @@
+
+ENHANCED EXTRACTION REPORT - 1925 COLONIAL OFFICE LIST
+========================================================
+
+EXTRACTION DATE: 2025-11-16T23:32:29.438423
+YEAR: 1925
+SOURCE: /home/user/colonial_office_list/output_2/1925_manual_parsed
+COLONIES PROCESSED: 39
+
+ENTITY COUNTS:
+- Geographic Places: 39
+- People (Administrative): 4
+- Institutions (Councils, Courts, Departments): 11
+- Economic Data Records: 105
+- Infrastructure (Railways, Docks, Telegraph): 120
+- Demographics: 22
+- Historical Events: 357
+- Relationships: 4
+
+TOTAL ENTITIES: 658
+
+IMPROVEMENTS OVER BASIC EXTRACTION:
+- Better extraction of Governor and Administrator names with dates
+- Administrative position parsing (Colonial Secretary, Attorney General, etc.)
+- Council and institutional structures
+- Infrastructure details (railways, telegraph systems, docks)
+- Financial table parsing
+- Improved event extraction
+- Administrative-geographic relationships

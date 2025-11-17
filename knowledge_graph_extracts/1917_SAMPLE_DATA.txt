@@ -1,0 +1,157 @@
+
+================================================================================
+COLONIAL OFFICE LIST 1917 - SAMPLE DATA EXTRACTS
+================================================================================
+
+SAMPLE 1: GEOGRAPHIC ENTITY - ADEN
+──────────────────────────────────────────────────────────────────────────────
+{
+  "id": "place_1",
+  "name": "ADEN",
+  "type": "colony",
+  "year": "1917",
+  "coordinates": {
+    "latitude": "12\u00b0 47' N",
+    "longitude": "45\u00b0 10' E"
+  },
+  "area": {
+    "value": 100,
+    "unit": "miles"
+  }
+}
+
+SAMPLE 2: PEOPLE - COLONIAL ADMINISTRATORS
+──────────────────────────────────────────────────────────────────────────────
+
+
+SAMPLE 3: INSTITUTION - EXECUTIVE COUNCIL
+──────────────────────────────────────────────────────────────────────────────
+{
+  "id": "institution_1",
+  "name": "Executive Council",
+  "type": "executive_council",
+  "location": "ANTIGUA",
+  "composition": {
+    "description": "(Local)\n\nThe Governor.\nThe Colonial Secretary.\nThe Attorney-General.\nW. D. Auchinleck, I.S.O.\nW. H. Whyham, I.S.O.\nJ. J. Camacho.\nJohn F. Foote.\nR. A. L. Warneford.\n\nClerk, P. Baynes.\n",
+    "member_count": 10
+  },
+  "year": "1917"
+}
+
+SAMPLE 4: ECONOMIC DATA
+──────────────────────────────────────────────────────────────────────────────
+
+Economic Record 1:
+{
+  "id": "economic_1",
+  "type": "expenditure",
+  "location": "AUSTRALIA",
+  "year": "1917",
+  "data": {
+    "value": 1914,
+    "currency": "\u00a3"
+  }
+}
+
+Economic Record 2:
+{
+  "id": "economic_2",
+  "type": "revenue",
+  "location": "BASUTOLAND",
+  "year": "1917",
+  "data": {
+    "value": 66385,
+    "currency": "\u00a3"
+  }
+}
+
+
+SAMPLE 5: DEMOGRAPHIC DATA
+──────────────────────────────────────────────────────────────────────────────
+
+Demographic Record 1:
+{
+  "id": "demographic_1",
+  "location": "ADEN",
+  "year": "1917",
+  "total_population": 12000,
+  "breakdowns": []
+}
+
+Demographic Record 2:
+{
+  "id": "demographic_2",
+  "location": "ANTIGUA",
+  "year": "1917",
+  "total_population": 43303,
+  "breakdowns": []
+}
+
+
+SAMPLE 6: RELATIONSHIPS
+──────────────────────────────────────────────────────────────────────────────
+
+Relationship 1:
+{
+  "source_id": "person_1",
+  "relationship_type": "GOVERNED_BY",
+  "target_id": "place_1",
+  "properties": {
+    "year": "1917",
+    "title": "Official"
+  }
+}
+
+Relationship 2:
+{
+  "source_id": "person_2",
+  "relationship_type": "GOVERNED_BY",
+  "target_id": "place_1",
+  "properties": {
+    "year": "1917",
+    "title": "Official"
+  }
+}
+
+Relationship 3:
+{
+  "source_id": "person_3",
+  "relationship_type": "GOVERNED_BY",
+  "target_id": "place_2",
+  "properties": {
+    "year": "1917",
+    "title": "Official"
+  }
+}
+
+Relationship 4:
+{
+  "source_id": "person_4",
+  "relationship_type": "GOVERNED_BY",
+  "target_id": "place_2",
+  "properties": {
+    "year": "1917",
+    "title": "Official"
+  }
+}
+
+Relationship 5:
+{
+  "source_id": "person_5",
+  "relationship_type": "GOVERNED_BY",
+  "target_id": "place_2",
+  "properties": {
+    "year": "1917",
+    "title": "Official"
+  }
+}
+
+
+================================================================================
+EXTRACTION COMPLETE
+================================================================================
+Total Entities: 11,207
+Total Relationships: 10,818
+Colonies: 52
+Output File: /home/user/colonial_office_list/knowledge_graph_extracts/1917_extracted.json
+================================================================================

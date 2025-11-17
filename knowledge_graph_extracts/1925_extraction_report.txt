@@ -1,0 +1,29 @@
+
+COLONIAL OFFICE LIST 1925 - KNOWLEDGE GRAPH EXTRACTION REPORT
+===============================================================
+
+EXTRACTION DATE: 2025-11-16T23:31:14.105693
+YEAR: 1925
+SOURCE DIRECTORY: /home/user/colonial_office_list/output_2/1925_manual_parsed
+
+COLONIES PROCESSED: 39
+ADEN, ASCENSION, AUSTRALIA, BAHAMAS, BASUTOLAND, BERMUDA, BRITISH_GUIANA, BRITISH_HONDURAS, CAPE_OF_GOOD_HOPE, CAYMAN_ISLANDS, CEYLON, CYPRUS, DOMINICA, FALKLAND_ISLANDS, FIJI, GIBRALTAR, GRENADA, HONG_KONG, MALTA, MAURITIUS, NEWFOUNDLAND, NIGERIA, NORTHERN_RHODESIA, PALESTINE, SEYCHELLES, SIERRA_LEONE, SOUTHERN_RHODESIA, SOUTH_WEST_AFRICA, ST._HELENA, ST._LUCIA, ST._VINCENT, STRAITS_SETTLEMENTS, SWAZILAND, THE_GAMBIA, TRINIDAD_AND_TOBAGO, TURKS_AND_CAICOS_ISLANDS, UGANDA, WEIHAIWEI, ZANZIBAR
+
+ENTITY COUNTS BY TYPE:
+- Geographic Places: 39
+- People: 487
+- Institutions: 0
+- Economic Data Records: 452
+- Infrastructure: 0
+- Demographic Data: 22
+- Historical Events: 1453
+- Relationships: 38
+
+TOTAL ENTITIES: 2453
+
+NOTES:
+- All historical spelling preserved as written in source documents
+- Coordinates extracted in original format (degrees/minutes/cardinal)
+- Monetary values preserve original currency symbols
+- Population data from 1921 census where available
+- Trade and shipping statistics from 1923 where available

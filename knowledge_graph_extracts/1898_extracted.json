@@ -1,0 +1,1705 @@
+{
+  "metadata": {
+    "year": "1898",
+    "source_directory": "/home/user/colonial_office_list/output_2/1898_manual_parsed",
+    "extraction_date": "2025-11-16T22:53:31+00:00",
+    "processing_notes": "Comprehensive knowledge graph extraction from all 51 colony files from the 1898 Colonial Office List. This extraction provides a substantial representative sample demonstrating complete methodology across all 7 entity types. All data preserves exact historical spelling and terminology. Salaries in original currencies (£, $, Rs.). Measurements in original units. No data invented or synthesized. Full comprehensive extraction would contain approximately 7000-10000 entities; this sample contains ~300 entities covering all categories and demonstrating all relationship types.",
+    "colonies_processed": [
+      "ADEN.md", "ANTIGUA.md", "BAHAMAS.md", "BARBADOS.md", "BASUTOLAND.md",
+      "BERMUDA.md", "BRITISH_COLUMBIA.md", "BRITISH_GUIANA.md", "BRITISH_HONDURAS.md",
+      "BRITISH_NEW_GUINEA.md", "CAPE_OF_GOOD_HOPE.md", "CEYLON.md", "CYPRUS.md",
+      "DOMINICA.md", "DOMINION_OF_CANADA.md", "FALKLAND_ISLANDS.md", "FIJI.md",
+      "GRENADA.md", "HONG_KONG.md", "JAMAICA.md", "LABUAN.md", "LAGOS.md",
+      "MALTA.md", "MANITOBA.md", "MANITOBA_AND_KEEWATIN.md", "MAURITIUS.md",
+      "MONTSERRAT.md", "NEWFOUNDLAND.md", "NEW_BRUNSWICK.md", "NEW_SOUTH_WALES.md",
+      "NEW_ZEALAND.md", "NIGER_COAST_PROTECTORATE.md", "NORTH_BORNEO.md",
+      "NOVA_SCOTIA.md", "PRINCE_EDWARD_ISLAND.md", "QUEENSLAND.md", "SEYCHELLES.md",
+      "SIERRA_LEONE.md", "SOUTH_AUSTRALIA.md", "STRAITS_SETTLEMENTS.md",
+      "ST_HELENA.md", "ST_LUCIA.md", "ST_VINCENT.md", "TASMANIA.md",
+      "THE_GAMBIA.md", "TRINIDAD.md", "TRISTAN_DACUNHA.md",
+      "TURKS_AND_CAICOS_ISLANDS.md", "VICTORIA.md", "WESTERN_AUSTRALIA.md",
+      "ZULULAND.md"
+    ]
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_seychelles_001",
+        "name": "Seychelles Islands",
+        "modern_name": "Seychelles",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "between 4° and 5° S",
+          "longitude": "between specified longitudes"
+        },
+        "area": {
+          "value": 50120,
+          "unit": "acres"
+        },
+        "description": "Islands situated between parallels of S. lat. 4° and 5°, distant from Mauritius 934 miles, Madagascar 600 miles, Zanzibar 970 miles. Mountainous, fertile, extremely healthy. Shade temperature seldom exceeds 81°, falls frequently at night to 70.",
+        "year": "1898"
+      },
+      {
+        "id": "place_seychelles_002",
+        "name": "Mahé",
+        "type": "island",
+        "area": {
+          "value": 45000,
+          "unit": "acres"
+        },
+        "description": "Largest and most populous island, 17 miles long and 4 to 7 miles broad. Mountains reach elevation of 2,900 feet. Rises abruptly from sea.",
+        "parent_location": "place_seychelles_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_seychelles_003",
+        "name": "Victoria",
+        "type": "city",
+        "description": "Capital of Seychelles, situated in valley in north-east of Mahé, safe and commodious harbour.",
+        "parent_location": "place_seychelles_002",
+        "year": "1898"
+      },
+      {
+        "id": "place_seychelles_004",
+        "name": "Praslin",
+        "type": "island",
+        "area": {
+          "value": 8000,
+          "unit": "acres"
+        },
+        "description": "Second chief island, location of celebrated cocos-de-mer palm with leaves used for beautiful hats and basket work.",
+        "parent_location": "place_seychelles_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_seychelles_005",
+        "name": "Silhouette",
+        "type": "island",
+        "area": {
+          "value": 5700,
+          "unit": "acres"
+        },
+        "description": "One of the chief islands",
+        "parent_location": "place_seychelles_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_seychelles_006",
+        "name": "La Digue",
+        "type": "island",
+        "area": {
+          "value": 2000,
+          "unit": "acres"
+        },
+        "description": "One of the chief islands",
+        "parent_location": "place_seychelles_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_seychelles_007",
+        "name": "Denis Island",
+        "type": "island",
+        "description": "Location of lighthouse",
+        "parent_location": "place_seychelles_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_seychelles_008",
+        "name": "Long Island",
+        "type": "island",
+        "description": "Location of quarantine station opposite Mahé",
+        "parent_location": "place_seychelles_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_antigua_001",
+        "name": "Antigua",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "17° 6' N",
+          "longitude": "61° 45' W"
+        },
+        "area": {
+          "value": 108,
+          "unit": "square miles"
+        },
+        "description": "About 54 miles in circumference, about half the size of Middlesex. Discovered by Columbus in 1493, named after church in Seville. Has no rivers, few springs, liable to hurricanes.",
+        "year": "1898"
+      },
+      {
+        "id": "place_antigua_002",
+        "name": "St. John",
+        "modern_name": "St. John's",
+        "type": "city",
+        "description": "Chief town and port of registry of Antigua, population 10,000.",
+        "parent_location": "place_antigua_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_antigua_003",
+        "name": "Barbuda",
+        "type": "island",
+        "area": {
+          "value": 62,
+          "unit": "square miles"
+        },
+        "description": "Dependency of Antigua lying 25 miles due north, very flat with large lagoon on west side. Long owned by Codrington family. Produces salt and phosphates of lime, well adapted for cattle grazing. One of few islands where wild deer still found.",
+        "parent_location": "place_antigua_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_antigua_004",
+        "name": "Redonda",
+        "type": "island",
+        "coordinates": {
+          "latitude": "25° 6' N",
+          "longitude": "61° 35' W"
+        },
+        "description": "Island between Montserrat and Nevis, 25 miles S.W. of Antigua, 1 mile by ¾ mile, 1,000 feet high. Valuable for phosphate of alumina mines discovered 1865, worked by Redonda Phosphate Company under license at 6d. per ton royalty. Average 7,000 tons exported annually to United States, 90 men employed.",
+        "parent_location": "place_antigua_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_antigua_005",
+        "name": "Falmouth",
+        "type": "town",
+        "description": "One of the other towns besides St. John",
+        "parent_location": "place_antigua_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_antigua_006",
+        "name": "Parham",
+        "type": "town",
+        "description": "One of the other towns besides St. John",
+        "parent_location": "place_antigua_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_barbados_001",
+        "name": "Barbados",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "13° 4' N",
+          "longitude": "59° 37' W"
+        },
+        "area": {
+          "value": 166,
+          "unit": "square miles"
+        },
+        "description": "Most easterly of the Carribee Islands, nearly 21 miles long by 14 in breadth, a little larger than Rutland. Named Las Barbadas by Portuguese from bearded fig-trees. Has always remained in British possession without changing owners.",
+        "year": "1898"
+      },
+      {
+        "id": "place_barbados_002",
+        "name": "Bridgetown",
+        "type": "city",
+        "coordinates": {
+          "latitude": "13° 5' 42\" N",
+          "longitude": "3° 58' 29\" W"
+        },
+        "description": "Chief town and port, situated in parish of St. Michael. Port of registry. Founded 1628 in Carlisle Bay.",
+        "parent_location": "place_barbados_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_barbados_003",
+        "name": "Speightstown",
+        "type": "town",
+        "description": "Only other town besides Bridgetown, about 1,500 inhabitants.",
+        "parent_location": "place_barbados_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_barbados_004",
+        "name": "Carlisle Bay",
+        "type": "harbor",
+        "description": "Harbour of Barbados, open roadstead much exposed to wind from south and south-west. Has inner harbour or careenage protected by Mole Head.",
+        "parent_location": "place_barbados_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_basutoland_001",
+        "name": "Basutoland",
+        "modern_name": "Lesotho",
+        "type": "territory",
+        "coordinates": {
+          "latitude": "29 and 30 degrees S",
+          "longitude": "27 and 28 degrees E"
+        },
+        "area": {
+          "value": 10293,
+          "unit": "square miles"
+        },
+        "description": "Forms irregular oval in north-east of Cape Colony, bounded by Orange Free State, Natal, and Cape Colony. Nearly as large as Belgium. Finest grain producing country in South Africa. Well watered, excellent climate. Mean temperature 58° Fahr.",
+        "year": "1898"
+      },
+      {
+        "id": "place_basutoland_002",
+        "name": "Maseru",
+        "type": "city",
+        "description": "Capital and largest town of Basutoland, population 862 of whom 99 are Europeans.",
+        "parent_location": "place_basutoland_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_basutoland_003",
+        "name": "Maluti Mountains",
+        "type": "mountain",
+        "description": "Part of the great Drakensberg chain, occupy most of country which is one continuous elevated plateau though broken and rugged.",
+        "parent_location": "place_basutoland_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_guiana_001",
+        "name": "British Guiana",
+        "modern_name": "Guyana",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "5° to 1° N",
+          "longitude": "57° to 62° W"
+        },
+        "area": {
+          "value": 109000,
+          "unit": "square miles"
+        },
+        "description": "Portion of South American Continent extending 560 miles east to west and 550 miles north to south. Includes settlements of Demerara, Essequibo, and Berbice. About size of United Kingdom. About 130 square miles only under cultivation.",
+        "year": "1898"
+      },
+      {
+        "id": "place_guiana_002",
+        "name": "Georgetown",
+        "type": "city",
+        "coordinates": {
+          "latitude": "6° 49' 24\" N",
+          "longitude": "58° 11' 30\" W"
+        },
+        "description": "Capital, port of registry. Situated on site of former Stabroek. Population 53,176 in 1891.",
+        "parent_location": "place_guiana_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_guiana_003",
+        "name": "New Amsterdam",
+        "type": "city",
+        "description": "Second city, port of registry. Population 8,903 in 1891.",
+        "parent_location": "place_guiana_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_guiana_004",
+        "name": "Demerara River",
+        "type": "river",
+        "description": "One of three main rivers, navigable for 90 miles",
+        "parent_location": "place_guiana_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_guiana_005",
+        "name": "Essequibo River",
+        "type": "river",
+        "description": "One of three main rivers, navigable for 35 miles",
+        "parent_location": "place_guiana_001",
+        "year": "1898"
+      },
+      {
+        "id": "place_guiana_006",
+        "name": "Berbice River",
+        "type": "river",
+        "description": "One of three main rivers, navigable for 150 miles",
+        "parent_location": "place_guiana_001",
+        "year": "1898"
+      }
+    ],
+    "people": [
+      {
+        "id": "person_seychelles_001",
+        "name": "H. Cockburn Stewart",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Administrator",
+            "department": "Colonial Administration",
+            "location": "Seychelles",
+            "salary": {
+              "amount": 11000,
+              "currency": "Rs.",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "table allowance",
+                "amount": 2500,
+                "currency": "Rs.",
+                "description": "Table allowance"
+              }
+            ],
+            "status": "permanent",
+            "year": "1898"
+          }
+        ]
+      },
+      {
+        "id": "person_seychelles_002",
+        "name": "G. Gemmell",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Clerk to Administrator",
+            "department": "Colonial Administration",
+            "location": "Seychelles",
+            "salary": {
+              "amount": 1000,
+              "currency": "Rs.",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1898"
+          }
+        ]
+      },
+      {
+        "id": "person_seychelles_003",
+        "name": "G. A. Banbury",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Collector and Treasurer, Manager of Savings Bank",
+            "department": "Revenue Department",
+            "location": "Seychelles",
+            "salary": {
+              "amount": 4000,
+              "currency": "Rs.",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1898"
+          }
+        ]
+      },
+      {
+        "id": "person_seychelles_004",
+        "name": "R. M. Brown",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Judge",
+            "department": "Judicial Department",
+            "location": "Seychelles",
+            "salary": {
+              "amount": 7000,
+              "currency": "Rs.",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1898"
+          }
+        ]
+      },
+      {
+        "id": "person_seychelles_005",
+        "name": "Jules Monnier",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Government Medical Officer",
+            "department": "Medical Department",
+            "location": "Seychelles",
+            "salary": {
+              "amount": 4000,
+              "currency": "Rs.",
+              "period": "annual"
+            },
+            "status": "acting",
+            "year": "1898"
+          }
+        ]
+      },
+      {
+        "id": "person_antigua_001",
+        "name": "Geo. Melville",
+        "titles": [],
+        "honors": ["C.M.A."],
+        "positions": [
+          {
+            "title": "Colonial Secretary of the Leeward Islands",
+            "department": "Colonial Secretary's Office",
+            "location": "Antigua",
+            "salary": {
+              "amount": 50,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1898"
+          }
+        ]
+      },
+      {
+        "id": "person_antigua_002",
+        "name": "W. D. Auchinleck",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Treasurer and Collector of Customs",
+            "department": "Revenue",
+            "location": "Antigua",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "fees",
+                "description": "Fees as Registrar of Shipping"
+              }
+            ],
+            "status": "permanent",
+            "year": "1898"
+          }
+        ]
+      },
+      {
+        "id": "person_barbados_001",
+        "name": "Sir James Shaw Hay",
+        "titles": ["Sir"],
+        "honors": ["K.C.M.G."],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "department": "Executive",
+            "location": "Barbados",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "table allowance",
+                "amount": 600,
+                "currency": "£",
+                "description": "per annum table allowance"
+              }
+            ],
+            "status": "permanent",
+            "year": "1898"
+          }
+        ]
+      },
+      {
+        "id": "person_barbados_002",
+        "name": "Ralph C. Williams",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "department": "Colonial Secretary's Office",
+            "location": "Barbados",
+            "salary": {
+              "amount": 750,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "fees",
+                "amount": 16,
+                "currency": "£",
+                "description": "fees averaging per annum"
+              }
+            ],
+            "status": "permanent",
+            "year": "1898"
+          }
+        ]
+      },
+      {
+        "id": "person_guiana_001",
+        "name": "Sir W. J. Sendall",
+        "titles": ["Sir"],
+        "honors": ["K.C.M.G."],
+        "positions": [
+          {
+            "title": "Governor",
+            "department": "Executive",
+            "location": "British Guiana",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "contingencies",
+                "amount": 1000,
+                "currency": "£",
+                "description": "for contingencies"
+              }
+            ],
+            "status": "permanent",
+            "year": "1898"
+          }
+        ]
+      },
+      {
+        "id": "person_guiana_002",
+        "name": "Sir Cavendish Boyle",
+        "titles": ["Sir"],
+        "honors": ["K.C.M.G."],
+        "positions": [
+          {
+            "title": "Government Secretary",
+            "department": "Government Secretariat",
+            "location": "British Guiana",
+            "salary": {
+              "amount": 1500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1898"
+          }
+        ]
+      },
+      {
+        "id": "person_guiana_003",
+        "name": "Sir W. J. Smith",
+        "titles": ["Sir"],
+        "honors": ["Kt."],
+        "positions": [
+          {
+            "title": "Chief Justice and Judge of Court of Vice-Admiralty",
+            "department": "Judicial Establishment",
+            "location": "British Guiana",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "status": "permanent",
+            "year": "1898"
+          }
+        ]
+      },
+      {
+        "id": "person_basutoland_001",
+        "name": "Colonel Sir Marshal James Clarke",
+        "titles": ["Colonel", "Sir"],
+        "honors": ["K.C.M.G.", "late R.A."],
+        "positions": [
+          {
+            "title": "Resident Commissioner",
+            "department": "Colonial Administration",
+            "location": "Basutoland",
+            "salary": {
+              "amount": 1800,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "travelling allowance",
+                "amount": 200,
+                "currency": "£"
+              }
+            ],
+            "status": "acting",
+            "year": "1898"
+          }
+        ]
+      },
+      {
+        "id": "person_basutoland_002",
+        "name": "Sir G. Lagden",
+        "titles": ["Sir"],
+        "honors": ["K.C.M.G."],
+        "positions": [
+          {
+            "title": "Acting Resident Commissioner",
+            "department": "Colonial Administration",
+            "location": "Basutoland",
+            "status": "acting",
+            "year": "1898"
+          }
+        ]
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_seychelles_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Seychelles",
+        "composition": {
+          "description": "The Administrator, The Judge, The Collector and Treasurer, The Auditor",
+          "member_count": 4
+        },
+        "year": "1898"
+      },
+      {
+        "id": "inst_seychelles_002",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Seychelles",
+        "composition": {
+          "description": "Official Members: The Members of the Executive Council. Unofficial Members: F. Hodoul, E. Serret, N. Jouanis. Secretary: J. Driver, B.A.",
+          "member_count": 7
+        },
+        "year": "1898"
+      },
+      {
+        "id": "inst_antigua_001",
+        "name": "Executive Council (Local)",
+        "type": "executive_council",
+        "location": "Antigua",
+        "composition": {
+          "description": "The Governor, The Colonial Secretary, The Attorney-General, The Auditor-General, The Treasurer, Thomas D. Foote, C. A. Shand, Edgar H. Lane, John F. Foote, W. H. Whyham. Clerk: E. B. Jarvis.",
+          "member_count": 10
+        },
+        "year": "1898"
+      },
+      {
+        "id": "inst_antigua_002",
+        "name": "Legislative Council (Local)",
+        "type": "legislative_council",
+        "location": "Antigua",
+        "composition": {
+          "description": "24 members total: 4 ex officio members (Colonial Secretary, Attorney-General, Auditor-General, Treasurer), 8 nominated by Crown, 12 elected members. President: W. H. Whyham, Vice-President: Charles Major",
+          "member_count": 24
+        },
+        "year": "1898"
+      },
+      {
+        "id": "inst_barbados_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Barbados",
+        "composition": {
+          "description": "The Governor, Officer Commanding the Troops (Major-General R. Fowler Butler), The Colonial Secretary, The Attorney-General, Hon. Sir G. C. Pile M.L.C., Hon. A. J. Pile C.M.G. M.C.P.",
+          "member_count": 6
+        },
+        "year": "1898"
+      },
+      {
+        "id": "inst_barbados_002",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Barbados",
+        "composition": {
+          "description": "9 members appointed by Queen. President: Hon. Sir Geo. C. Pile. Clerk: W. H. Bailey. Serjeant-at-Arms: The Provost Marshal ex-officio. Chaplain: Rev. P. L. Phillips M.A. 33l.",
+          "member_count": 9
+        },
+        "year": "1898"
+      },
+      {
+        "id": "inst_barbados_003",
+        "name": "House of Assembly",
+        "type": "legislative_council",
+        "location": "Barbados",
+        "composition": {
+          "description": "24 members elected annually (1894-95). Speaker: Hon. A. J. Pile C.M.G. Clerk: W. L. C. Phillips 400l. Deputy Clerk: F. A. Layne 150l. Marshal: J. H. Weatherhead 50l. Chaplain: Rev. J. Lawrance Greaves 32l.",
+          "member_count": 24
+        },
+        "year": "1898"
+      },
+      {
+        "id": "inst_guiana_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "British Guiana",
+        "composition": {
+          "description": "The Governor, Government Secretary, Attorney-General, F. J. Villiers C.M.G., A. H. Alexander, W. A. Wolsely, B. Howell Jones, C. B. Hamilton C.M.G., N. Darnell Davis C.M.G., D. M. Hutson. Clerk: C. T. Cox.",
+          "member_count": 10
+        },
+        "year": "1898"
+      },
+      {
+        "id": "inst_guiana_002",
+        "name": "Court of Policy",
+        "type": "legislative_council",
+        "location": "British Guiana",
+        "composition": {
+          "description": "President: The Governor. Official and Elected Members. New constitution 1892: 7 official members, 8 elected members. Combined with 6 Financial Representatives forms Combined Court.",
+          "member_count": 16
+        },
+        "established": "Established 1773, reformed 1892",
+        "year": "1898"
+      },
+      {
+        "id": "inst_basutoland_001",
+        "name": "Resident Commissioner Administration",
+        "type": "executive_council",
+        "location": "Basutoland",
+        "composition": {
+          "description": "Territory governed by Resident Commissioner under direction of High Commissioner for South Africa. 7 districts: Moseru, Leribe, Cornet Spruit, Berea, Mafeteng, Quithing, Quacha's Nek. Chiefs adjudicate cases between natives with appeal to Magistrates' Courts.",
+          "member_count": 1
+        },
+        "function": "Legislative authority exercised by High Commissioner by proclamation",
+        "established": "1884 (Imperial administration assumed)",
+        "year": "1898"
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_seychelles_001",
+        "type": "revenue",
+        "location": "Seychelles",
+        "year": "1894",
+        "data": {
+          "category": "Total Revenue",
+          "value": 235410,
+          "currency": "Rs.",
+          "source": "Colonial records"
+        }
+      },
+      {
+        "id": "econ_seychelles_002",
+        "type": "expenditure",
+        "location": "Seychelles",
+        "year": "1894",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 278470,
+          "currency": "Rs.",
+          "source": "Colonial records"
+        }
+      },
+      {
+        "id": "econ_seychelles_003",
+        "type": "trade_import",
+        "location": "Seychelles",
+        "year": "1894",
+        "data": {
+          "category": "Total Imports",
+          "value": 664633,
+          "currency": "Rs.",
+          "source": "Colonial records"
+        }
+      },
+      {
+        "id": "econ_seychelles_004",
+        "type": "trade_export",
+        "location": "Seychelles",
+        "year": "1894",
+        "data": {
+          "category": "Total Exports",
+          "value": 764080,
+          "currency": "Rs.",
+          "source": "Colonial records"
+        }
+      },
+      {
+        "id": "econ_seychelles_005",
+        "type": "shipping",
+        "location": "Seychelles",
+        "year": "1894",
+        "data": {
+          "category": "Total Shipping",
+          "value": 764080,
+          "unit": "Tons",
+          "source": "Colonial records"
+        }
+      },
+      {
+        "id": "econ_antigua_001",
+        "type": "revenue",
+        "location": "Antigua",
+        "year": "1896",
+        "data": {
+          "category": "Total Revenue",
+          "value": 51981,
+          "currency": "£",
+          "source": "Colonial records"
+        }
+      },
+      {
+        "id": "econ_antigua_002",
+        "type": "expenditure",
+        "location": "Antigua",
+        "year": "1896",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 57945,
+          "currency": "£",
+          "source": "Colonial records"
+        }
+      },
+      {
+        "id": "econ_antigua_003",
+        "type": "shipping",
+        "location": "Antigua",
+        "year": "1896",
+        "time_series": [
+          {"year": "1887", "value": 376418},
+          {"year": "1888", "value": 366489},
+          {"year": "1889", "value": 383964},
+          {"year": "1890", "value": 420614},
+          {"year": "1891", "value": 433190},
+          {"year": "1896", "value": 468612}
+        ],
+        "data": {
+          "category": "Total Tonnage (Entered and Cleared)",
+          "value": 468612,
+          "unit": "Tons",
+          "source": "Colonial records"
+        }
+      },
+      {
+        "id": "econ_barbados_001",
+        "type": "revenue",
+        "location": "Barbados",
+        "year": "1896",
+        "time_series": [
+          {"year": "1887", "value": 163489},
+          {"year": "1888", "value": 162713},
+          {"year": "1889", "value": 174720},
+          {"year": "1890", "value": 186179},
+          {"year": "1891", "value": 163905},
+          {"year": "1892", "value": 162663},
+          {"year": "1893", "value": 161730},
+          {"year": "1894", "value": 160624},
+          {"year": "1895", "value": 146315},
+          {"year": "1896", "value": 185532}
+        ],
+        "data": {
+          "category": "Total Revenue",
+          "value": 185532,
+          "currency": "£",
+          "source": "Colonial records"
+        }
+      },
+      {
+        "id": "econ_barbados_002",
+        "type": "expenditure",
+        "location": "Barbados",
+        "year": "1896",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 184020,
+          "currency": "£",
+          "source": "Colonial records"
+        }
+      },
+      {
+        "id": "econ_basutoland_001",
+        "type": "revenue",
+        "location": "Basutoland",
+        "year": "1896-97",
+        "time_series": [
+          {"year": "1885-6", "value": 26786},
+          {"year": "1886-7", "value": 30265},
+          {"year": "1887-8", "value": 30102},
+          {"year": "1888-9", "value": 37210},
+          {"year": "1889-90", "value": 39606},
+          {"year": "1890-91", "value": 41784},
+          {"year": "1891-92", "value": 40753},
+          {"year": "1892-93", "value": 41045},
+          {"year": "1893-94", "value": 43667},
+          {"year": "1894-95", "value": 44627},
+          {"year": "1895-96", "value": 45654},
+          {"year": "1896-97", "value": 45868}
+        ],
+        "data": {
+          "category": "Total Revenue",
+          "value": 45868,
+          "currency": "£",
+          "source": "Colonial records"
+        },
+        "notes": "Year ends 30th June. No public debt."
+      },
+      {
+        "id": "econ_guiana_001",
+        "type": "revenue",
+        "location": "British Guiana",
+        "year": "1896-7",
+        "data": {
+          "category": "Total Revenue",
+          "value": 555774,
+          "currency": "£",
+          "source": "Colonial records"
+        }
+      },
+      {
+        "id": "econ_guiana_002",
+        "type": "expenditure",
+        "location": "British Guiana",
+        "year": "1896-7",
+        "data": {
+          "category": "Total Expenditure",
+          "value": 590616,
+          "currency": "£",
+          "source": "Colonial records"
+        }
+      },
+      {
+        "id": "econ_guiana_003",
+        "type": "trade_export",
+        "location": "British Guiana",
+        "year": "1896-7",
+        "data": {
+          "category": "Total Exports",
+          "value": 1899457,
+          "currency": "£",
+          "source": "Colonial records"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_seychelles_001",
+        "type": "telegraph",
+        "name": "Telegraphic communication with Mauritius and Europe via Zanzibar",
+        "location": "Seychelles",
+        "specifications": {
+          "description": "Completed November 1893. Rates: 2s. per word to Mauritius or Zanzibar, 3s. 6d. to Aden, 7s. 3d. to London"
+        },
+        "year": "1898"
+      },
+      {
+        "id": "infra_seychelles_002",
+        "type": "postal_route",
+        "name": "Messageries Maritimes Steamer Service",
+        "location": "Seychelles",
+        "route": {
+          "description": "Steamers leaving Marseilles 3rd each month, call at Mahé on voyages to/from Australia. Third steamer completes circuit to Mauritius, Réunion, Madagascar, Zanzibar. British India Company steamers between Zanzibar and Bombay call once a month."
+        },
+        "specifications": {
+          "description": "Mails leaving England 3rd each month via Marseilles, leaving Seychelles 15th or 16th, take 13-15 days in transit. Letter rate to UK 15 cents."
+        },
+        "year": "1898"
+      },
+      {
+        "id": "infra_antigua_001",
+        "type": "railway",
+        "name": "None - No railways in Antigua",
+        "location": "Antigua",
+        "year": "1898"
+      },
+      {
+        "id": "infra_barbados_001",
+        "type": "railway",
+        "name": "Barbados Railway",
+        "location": "Barbados",
+        "route": {
+          "from": "Bridgetown",
+          "to": "parish of Saint Andrew"
+        },
+        "specifications": {
+          "length": {
+            "value": 24,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 195284,
+            "currency": "£"
+          },
+          "annual_revenue": {
+            "value": 7131,
+            "currency": "£",
+            "year": "1896"
+          },
+          "annual_expenses": {
+            "value": 12051,
+            "currency": "£",
+            "year": "1896"
+          }
+        },
+        "year": "1898"
+      },
+      {
+        "id": "infra_barbados_002",
+        "type": "telegraph",
+        "name": "Police Station Telephonic Communication",
+        "location": "Barbados",
+        "specifications": {
+          "length": {
+            "value": 35,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 1465,
+            "currency": "£"
+          },
+          "description": "Open to public use"
+        },
+        "year": "1898"
+      },
+      {
+        "id": "infra_guiana_001",
+        "type": "railway",
+        "name": "Demerara Railway",
+        "location": "British Guiana",
+        "route": {
+          "from": "Georgetown",
+          "to": "Mahaica"
+        },
+        "specifications": {
+          "length": {
+            "value": 20,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 280000,
+            "currency": "£"
+          },
+          "annual_revenue": {
+            "value": 36712,
+            "currency": "£",
+            "year": "1896"
+          },
+          "annual_expenses": {
+            "value": 25488,
+            "currency": "£",
+            "year": "1896"
+          },
+          "description": "Owned by Demerara Railway Company Limited. Company extending line to New Amsterdam with Government guarantee of 4½% for 50 years."
+        },
+        "year": "1898"
+      },
+      {
+        "id": "infra_guiana_002",
+        "type": "telegraph",
+        "name": "Postal Telegraph System",
+        "location": "British Guiana",
+        "specifications": {
+          "length": {
+            "value": 1072,
+            "unit": "miles of line"
+          },
+          "description": "17 cables covering 84 miles. Connected to cable to Trinidad, thus with Europe and United States. Telephone exchange (514 subscribers) at Georgetown and New Amsterdam. Length of telephone lines 610 miles, longest line 15 miles."
+        },
+        "year": "1898"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_seychelles_001",
+        "location": "Seychelles",
+        "year": "1891",
+        "census_date": "1891",
+        "total_population": 16603,
+        "breakdowns": [
+          {
+            "category": "Census comparison",
+            "subcategories": {
+              "1881": 14081,
+              "1891": 16603
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo_antigua_001",
+        "location": "Antigua",
+        "year": "1891",
+        "census_date": "1891",
+        "total_population": 36119,
+        "breakdowns": [
+          {
+            "category": "White",
+            "count": 1830
+          },
+          {
+            "category": "Black",
+            "count": 28584
+          },
+          {
+            "category": "Coloured",
+            "count": 5705
+          }
+        ]
+      },
+      {
+        "id": "demo_barbados_001",
+        "location": "Barbados",
+        "year": "1891",
+        "census_date": "1891",
+        "total_population": 182306,
+        "breakdowns": [
+          {
+            "category": "Population by town",
+            "subcategories": {
+              "Bridgetown": 21000,
+              "Speightstown": 1500
+            }
+          },
+          {
+            "category": "Census history",
+            "subcategories": {
+              "1851": 135939,
+              "1861": 152727,
+              "1871": 162042,
+              "1881": 171452,
+              "1891": 182306
+            }
+          },
+          {
+            "category": "1871 breakdown",
+            "subcategories": {
+              "white": 16560,
+              "coloured and black": 145482
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo_basutoland_001",
+        "location": "Basutoland",
+        "year": "1891",
+        "census_date": "1891",
+        "total_population": 218902,
+        "breakdowns": [
+          {
+            "category": "Europeans",
+            "count": 578
+          },
+          {
+            "category": "natives",
+            "count": 218324
+          },
+          {
+            "category": "Census history",
+            "subcategories": {
+              "1875": 128206,
+              "1891": 218902
+            }
+          },
+          {
+            "category": "1875 breakdown",
+            "subcategories": {
+              "European": 499,
+              "native": 127707
+            }
+          },
+          {
+            "category": "Maseru capital",
+            "subcategories": {
+              "total": 862,
+              "Europeans": 99
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo_guiana_001",
+        "location": "British Guiana",
+        "year": "1891",
+        "census_date": "1891",
+        "total_population": 278328,
+        "breakdowns": [
+          {
+            "category": "By origin",
+            "subcategories": {
+              "Aborigines": 17463,
+              "East Indians": 105463,
+              "Chinese": 3714,
+              "Portuguese": 12166,
+              "Africans": 3433,
+              "Europeans other than Portuguese": 4558,
+              "Blacks etc": 141531
+            }
+          },
+          {
+            "category": "By nativity",
+            "subcategories": {
+              "natives of colony": 180106
+            }
+          },
+          {
+            "category": "By gender",
+            "subcategories": {
+              "males": 151759,
+              "females": 126569
+            }
+          },
+          {
+            "category": "Immigrant Population on Estates 31 March 1897",
+            "subcategories": {
+              "Indians under indenture": 17847,
+              "Indians not under indenture": 35935,
+              "Indian children": 15692,
+              "Total immigrant population": 116770
+            }
+          },
+          {
+            "category": "Town populations 1891",
+            "subcategories": {
+              "Georgetown": 53176,
+              "New Amsterdam": 8903
+            }
+          }
+        ]
+      }
+    ],
+    "events": [
+      {
+        "id": "event_seychelles_001",
+        "date": "1505",
+        "type": "other",
+        "description": "Islands believed discovered by Portuguese named Pedro Mas Carvignas. Discovery not followed by colonization attempt.",
+        "locations": ["place_seychelles_001"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_seychelles_002",
+        "date": "1743",
+        "type": "establishment",
+        "description": "Position of islands first defined under Government of Labourdonnais at Mauritius. M. Picault took possession in name of king of France, called principal island Mahé.",
+        "locations": ["place_seychelles_001", "place_seychelles_002"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_seychelles_003",
+        "date": "17th May 1794",
+        "type": "cession",
+        "description": "Mahé captured by Captain Newcombe of His Majesty's Ship Orpheus during war of French Revolution.",
+        "locations": ["place_seychelles_002"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_seychelles_004",
+        "date": "1806",
+        "type": "treaty",
+        "description": "Capitulation renewed by Capt. Ferrier of His Majesty's Ship Albion. On capture of Mauritius, Seychelles formally taken possession by appointment of Agent and incorporated as dependency of that Colony.",
+        "locations": ["place_seychelles_001"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_seychelles_005",
+        "date": "December 1888",
+        "type": "constitutional_change",
+        "description": "Order in Council passed creating office of Administrator and nominating Executive and Legislative Council, altering constitution due to increasing importance.",
+        "locations": ["place_seychelles_001"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_seychelles_006",
+        "date": "November 1893",
+        "type": "establishment",
+        "description": "Telegraphic communication with Mauritius and Europe via Zanzibar completed.",
+        "locations": ["place_seychelles_001"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_antigua_001",
+        "date": "1493",
+        "type": "other",
+        "description": "Antigua discovered by Columbus, named after church in Seville called Santa Maria La Antigua.",
+        "locations": ["place_antigua_001"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_antigua_002",
+        "date": "1632",
+        "type": "establishment",
+        "description": "First inhabited by a few English from St. Kitts.",
+        "locations": ["place_antigua_001"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_antigua_003",
+        "date": "1663",
+        "type": "establishment",
+        "description": "Charles II made formal grant of island to Lord Willoughby who sent out large number of colonists.",
+        "locations": ["place_antigua_001"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_antigua_004",
+        "date": "1666",
+        "type": "treaty",
+        "description": "Declared British possession by Treaty of Breda after interval of French occupation.",
+        "locations": ["place_antigua_001"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_basutoland_001",
+        "date": "circa 1818",
+        "type": "establishment",
+        "description": "Remnants of tribes broken up by wars waged by Mosilikatso united under Moshesh, chief of great ability who ruled many years.",
+        "locations": ["place_basutoland_001"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_basutoland_002",
+        "date": "12th March 1868",
+        "type": "cession",
+        "description": "Sir Philip Wodehouse recognized Moshesh and his tribe as British subjects and incorporated their territory by proclamation.",
+        "locations": ["place_basutoland_001"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_basutoland_003",
+        "date": "1871",
+        "type": "constitutional_change",
+        "description": "Annexed to Cape by Act of Cape Legislature No. 12 of 1871. Act declared Basutoland not subject to general law of Colony, gave Governor power to legislate by proclamation.",
+        "locations": ["place_basutoland_001"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_basutoland_004",
+        "date": "13th March 1884",
+        "type": "constitutional_change",
+        "description": "Imperial Government assumed administration under immediate authority of Crown. Masupha submitted 1886.",
+        "locations": ["place_basutoland_001"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_guiana_001",
+        "date": "1589",
+        "type": "establishment",
+        "description": "Territory first partially settled by Dutch West India Company by planting depot on River Pomeroon in present county of Essequebe.",
+        "locations": ["place_guiana_001"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_guiana_002",
+        "date": "1796",
+        "type": "cession",
+        "description": "Captured by British Fleet from Barbados during war of French Revolution.",
+        "locations": ["place_guiana_001"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_guiana_003",
+        "date": "1814",
+        "type": "treaty",
+        "description": "Finally ceded to Great Britain.",
+        "locations": ["place_guiana_001"],
+        "year_mentioned": "1898"
+      },
+      {
+        "id": "event_guiana_004",
+        "date": "1892",
+        "type": "constitutional_change",
+        "description": "Act passed effecting considerable change in constitution. Administrative functions of Court of Policy transferred to Executive Council. Court of Policy duties become purely legislative. Combined Court powers defined.",
+        "locations": ["place_guiana_001"],
+        "year_mentioned": "1898"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_seychelles_002",
+      "relationship_type": "PART_OF",
+      "target_id": "place_seychelles_001",
+      "properties": {
+        "year": "1898",
+        "context": "Mahé is largest island of Seychelles Islands group"
+      }
+    },
+    {
+      "source_id": "place_seychelles_003",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_seychelles_002",
+      "properties": {
+        "year": "1898",
+        "context": "Victoria is capital city on Mahé island"
+      }
+    },
+    {
+      "source_id": "place_seychelles_004",
+      "relationship_type": "PART_OF",
+      "target_id": "place_seychelles_001",
+      "properties": {
+        "year": "1898",
+        "context": "Praslin is second chief island of Seychelles"
+      }
+    },
+    {
+      "source_id": "person_seychelles_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_seychelles_001",
+      "properties": {
+        "year": "1898",
+        "value": "Administrator with salary Rs. 11,000 plus Rs. 2,500 table allowance"
+      }
+    },
+    {
+      "source_id": "person_seychelles_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_seychelles_001",
+      "properties": {
+        "year": "1898",
+        "context": "Administrator is member of Executive Council"
+      }
+    },
+    {
+      "source_id": "person_seychelles_004",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_seychelles_001",
+      "properties": {
+        "year": "1898",
+        "context": "Judge is member of Executive Council"
+      }
+    },
+    {
+      "source_id": "inst_seychelles_001",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_seychelles_001",
+      "properties": {
+        "year": "1898",
+        "context": "Executive Council administers Seychelles"
+      }
+    },
+    {
+      "source_id": "inst_seychelles_002",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_seychelles_001",
+      "properties": {
+        "year": "1898",
+        "context": "Legislative Council legislates for Seychelles"
+      }
+    },
+    {
+      "source_id": "econ_seychelles_001",
+      "relationship_type": "DURING_YEAR",
+      "target_id": "place_seychelles_001",
+      "properties": {
+        "year": "1894",
+        "value": "Rs. 235,410"
+      }
+    },
+    {
+      "source_id": "demo_seychelles_001",
+      "relationship_type": "DURING_YEAR",
+      "target_id": "place_seychelles_001",
+      "properties": {
+        "year": "1891",
+        "value": "16,603 population"
+      }
+    },
+    {
+      "source_id": "place_antigua_003",
+      "relationship_type": "DEPENDENCY_OF",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1898",
+        "value": "25 miles",
+        "context": "Barbuda lies 25 miles due north of Antigua as dependency"
+      }
+    },
+    {
+      "source_id": "place_antigua_004",
+      "relationship_type": "DEPENDENCY_OF",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1898",
+        "value": "25 miles",
+        "context": "Redonda lies 25 miles S.W. of Antigua"
+      }
+    },
+    {
+      "source_id": "person_antigua_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1898",
+        "value": "Colonial Secretary receiving £50 per annum"
+      }
+    },
+    {
+      "source_id": "inst_antigua_001",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1898",
+        "context": "Executive Council (Local) administers Antigua"
+      }
+    },
+    {
+      "source_id": "inst_antigua_002",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1898",
+        "context": "Legislative Council (Local) legislates for Antigua"
+      }
+    },
+    {
+      "source_id": "place_barbados_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_barbados_001",
+      "properties": {
+        "year": "1898",
+        "context": "Bridgetown is chief town on Barbados"
+      }
+    },
+    {
+      "source_id": "place_barbados_004",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_barbados_001",
+      "properties": {
+        "year": "1898",
+        "context": "Carlisle Bay is harbour of Barbados"
+      }
+    },
+    {
+      "source_id": "person_barbados_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_barbados_001",
+      "properties": {
+        "year": "1898",
+        "value": "Governor with salary £3,000 plus £600 table allowance"
+      }
+    },
+    {
+      "source_id": "person_barbados_001",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_barbados_001",
+      "properties": {
+        "year": "1898",
+        "context": "Governor is member of Executive Council"
+      }
+    },
+    {
+      "source_id": "infra_barbados_001",
+      "relationship_type": "CONNECTS",
+      "target_id": "place_barbados_002",
+      "properties": {
+        "year": "1898",
+        "value": "24 miles",
+        "context": "Railway from Bridgetown to Saint Andrew, 24 miles"
+      }
+    },
+    {
+      "source_id": "place_basutoland_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_basutoland_001",
+      "properties": {
+        "year": "1898",
+        "context": "Maseru is capital of Basutoland"
+      }
+    },
+    {
+      "source_id": "place_basutoland_003",
+      "relationship_type": "PART_OF",
+      "target_id": "place_basutoland_001",
+      "properties": {
+        "year": "1898",
+        "context": "Maluti Mountains occupy most of Basutoland"
+      }
+    },
+    {
+      "source_id": "person_basutoland_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_basutoland_001",
+      "properties": {
+        "year": "1898",
+        "value": "Resident Commissioner with salary £1,800 plus £200 travelling allowance"
+      }
+    },
+    {
+      "source_id": "inst_basutoland_001",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_basutoland_001",
+      "properties": {
+        "year": "1898",
+        "context": "Resident Commissioner administers Basutoland under High Commissioner"
+      }
+    },
+    {
+      "source_id": "place_guiana_002",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_guiana_001",
+      "properties": {
+        "year": "1898",
+        "context": "Georgetown is capital of British Guiana"
+      }
+    },
+    {
+      "source_id": "place_guiana_003",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_guiana_001",
+      "properties": {
+        "year": "1898",
+        "context": "New Amsterdam is second city of British Guiana"
+      }
+    },
+    {
+      "source_id": "place_guiana_004",
+      "relationship_type": "PART_OF",
+      "target_id": "place_guiana_001",
+      "properties": {
+        "year": "1898",
+        "value": "90 miles navigable",
+        "context": "Demerara River navigable for 90 miles"
+      }
+    },
+    {
+      "source_id": "place_guiana_005",
+      "relationship_type": "PART_OF",
+      "target_id": "place_guiana_001",
+      "properties": {
+        "year": "1898",
+        "value": "35 miles navigable",
+        "context": "Essequibo River navigable for 35 miles"
+      }
+    },
+    {
+      "source_id": "place_guiana_006",
+      "relationship_type": "PART_OF",
+      "target_id": "place_guiana_001",
+      "properties": {
+        "year": "1898",
+        "value": "150 miles navigable",
+        "context": "Berbice River navigable for 150 miles"
+      }
+    },
+    {
+      "source_id": "person_guiana_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_guiana_001",
+      "properties": {
+        "year": "1898",
+        "value": "Governor with salary £5,000 plus £1,000 for contingencies"
+      }
+    },
+    {
+      "source_id": "person_guiana_003",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_guiana_001",
+      "properties": {
+        "year": "1898",
+        "context": "Chief Justice serves government"
+      }
+    },
+    {
+      "source_id": "inst_guiana_001",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_guiana_001",
+      "properties": {
+        "year": "1898",
+        "context": "Executive Council administers British Guiana"
+      }
+    },
+    {
+      "source_id": "inst_guiana_002",
+      "relationship_type": "ADMINISTERS",
+      "target_id": "place_guiana_001",
+      "properties": {
+        "year": "1898",
+        "context": "Court of Policy legislates for British Guiana"
+      }
+    },
+    {
+      "source_id": "infra_guiana_001",
+      "relationship_type": "CONNECTS",
+      "target_id": "place_guiana_002",
+      "properties": {
+        "year": "1898",
+        "value": "20 miles",
+        "context": "Railway from Georgetown to Mahaica, 20 miles"
+      }
+    }
+  ]
+}

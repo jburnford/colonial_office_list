@@ -1,0 +1,64 @@
+===========================================================================
+COLONIAL OFFICE LIST 1948 - KNOWLEDGE GRAPH EXTRACTION REPORT
+===========================================================================
+
+Extraction Date: 2025-11-16T23:46:31.354446
+Year: 1948
+
+COLONIES PROCESSED: 37 TERRITORIES
+
+   1. ADEN PROTECTORATE
+   2. BAHAMA ISLANDS
+   3. BARBADOS
+   4. BERMUDA
+   5. BRITISH GUIANA
+   6. BRITISH HONDURAS
+   7. CAYMAN ISLANDS
+   8. DOMINICA
+   9. FALKLAND ISLANDS
+  10. FIJI
+  11. GAMBIA
+  12. GIBRALTAR
+  13. GILBERT AND ELLICE ISLANDS
+  14. GOLD COAST
+  15. HONG KONG
+  16. JAMAICA
+  17. KENYA
+  18. LEEWARD ISLANDS
+  19. MALTA
+  20. MAURITIUS
+  21. NIGERIA
+  22. NORTH BORNEO
+  23. NORTHERN RHODESIA
+  24. NYASALAND
+  25. SARAWAK
+  26. SEYCHELLES
+  27. SIERRA LEONE
+  28. SINGAPORE
+  29. SOMALILAND
+  30. ST HELENA
+  31. ST LUCIA
+  32. ST VINCENT
+  33. TANGANYIKA
+  34. TRINIDAD AND TOBAGO
+  35. UGANDA
+  36. WINDWARD ISLANDS
+  37. ZANZIBAR
+
+ENTITY EXTRACTION SUMMARY:
+===========================================================================
+  Geographic Entities (Places):               37
+  People (with roles/positions):             238
+  Institutions (councils/courts/depts):      133
+  Economic Data (banking/trade/crops):        99
+  Infrastructure (ports/railways/etc):        33
+  Demographics (population data):             14
+  Historical Events (treaties/founded):       55
+
+  TOTAL ENTITIES EXTRACTED:                  609
+  RELATIONSHIPS MAPPED:                        0
+
+FILE INFORMATION:
+  Output JSON Path: /home/user/colonial_office_list/knowledge_graph_extracts/1948_extracted.json
+  File Size: 118.3 KB
+===========================================================================

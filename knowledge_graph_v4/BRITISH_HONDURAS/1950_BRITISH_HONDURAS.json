@@ -1,0 +1,1049 @@
+{
+  "metadata": {
+    "year": "1950",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1950.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1950_manual_parsed",
+    "extraction_date": "2025-11-17T00:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["BRITISH_HONDURAS"],
+    "processing_notes": "Complete extraction for British Honduras in 1950 including colony info, all government officials, economic data, and infrastructure"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "MBE": {
+        "full_name": "Member of the Order of the British Empire",
+        "type": "order",
+        "rank": 5
+      },
+      "OBE": {
+        "full_name": "Officer of the Order of the British Empire",
+        "type": "order",
+        "rank": 4
+      },
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "KBE": {
+        "full_name": "Knight Commander of the Order of the British Empire",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "MC": {
+        "full_name": "Military Cross",
+        "type": "decoration",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor and Commander-in-Chief",
+        "hierarchy_level": 1,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 2,
+        "category": "administrative"
+      },
+      "Attorney-General": {
+        "canonical_name": "Attorney-General",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Financial Secretary": {
+        "canonical_name": "Financial Secretary",
+        "hierarchy_level": 2,
+        "category": "administrative"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Advisory council to the Governor"
+      },
+      "legislative_council": {
+        "description": "Legislative body of the colony"
+      },
+      "colonial_secretariat": {
+        "description": "Administrative department headed by Colonial Secretary"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_british_honduras",
+        "name": "British Honduras",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "Central America (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "Capital colony entity on east coast of Central America"
+        },
+        "coordinates": {
+          "latitude": 17.25,
+          "longitude": -88.75,
+          "source": "Lines 5: between 18° 29' and 15° 54' N. latitude and 88° 10' and 89° 09' W. longitude (approximate center)"
+        },
+        "area": {
+          "value": 8867,
+          "unit": "square_miles",
+          "source": "Line 7"
+        },
+        "population": {
+          "total": 59220,
+          "year": "1946",
+          "breakdown": {
+            "belize_district": 26781,
+            "northern_district": 12293,
+            "stann_creek_district": 6373,
+            "toledo_district": 6403,
+            "cayo_district": 7370
+          },
+          "source": "Lines 23-33"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "1-33",
+          "source_section": "BRITISH HONDURAS > SITUATION AND AREA",
+          "original_text": "British Honduras is a Colony on the east coast of Central America... The area of the Colony is 8,867 square miles",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_belize_city",
+        "name": "Belize",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "British Honduras (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "Capital city and main seaport of British Honduras"
+        },
+        "population": {
+          "total": 21886,
+          "year": "1946",
+          "source": "Line 37"
+        },
+        "parent_location": "place_british_honduras",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "37",
+          "original_text": "Population of towns at census of 1946: Belize, 21,886",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_belize_district",
+        "name": "Belize District",
+        "type": "district",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "British Honduras (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "Administrative district including the capital"
+        },
+        "population": {
+          "total": 26781,
+          "year": "1946",
+          "source": "Line 27"
+        },
+        "parent_location": "place_british_honduras",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "27",
+          "original_text": "Belize District   | 26,781",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_northern_district",
+        "name": "Northern District",
+        "type": "district",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "British Honduras (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "Administrative district in northern British Honduras"
+        },
+        "population": {
+          "total": 12293,
+          "year": "1946",
+          "source": "Line 28"
+        },
+        "parent_location": "place_british_honduras",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "28",
+          "original_text": "Northern District | 12,293",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_stann_creek_district",
+        "name": "Stann Creek District",
+        "type": "district",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "British Honduras (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "Administrative district in British Honduras"
+        },
+        "population": {
+          "total": 6373,
+          "year": "1946",
+          "source": "Line 29"
+        },
+        "parent_location": "place_british_honduras",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "29",
+          "original_text": "Stann Creek District | 6,373",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_toledo_district",
+        "name": "Toledo District",
+        "type": "district",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "British Honduras (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "Administrative district with main station at Punta Gorda"
+        },
+        "population": {
+          "total": 6403,
+          "year": "1946",
+          "source": "Line 30"
+        },
+        "parent_location": "place_british_honduras",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "30",
+          "original_text": "Toledo District   | 6,403",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_cayo_district",
+        "name": "Cayo District",
+        "type": "district",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "British Honduras (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "Administrative district in British Honduras"
+        },
+        "population": {
+          "total": 7370,
+          "year": "1946",
+          "source": "Line 31"
+        },
+        "parent_location": "place_british_honduras",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "31",
+          "original_text": "Cayo District     | 7,370",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_corozal",
+        "name": "Corozal",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "British Honduras (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "Town in Northern District"
+        },
+        "population": {
+          "total": 2190,
+          "year": "1946",
+          "source": "Line 37"
+        },
+        "parent_location": "place_northern_district",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "37",
+          "original_text": "Corozal, 2,190",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_punta_gorda",
+        "name": "Punta Gorda",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "British Honduras (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "Main station of Toledo District"
+        },
+        "population": {
+          "total": 1375,
+          "year": "1946",
+          "source": "Line 37"
+        },
+        "parent_location": "place_toledo_district",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "37, 62",
+          "original_text": "Punta Gorda, 1,375... the Toledo district, the main station of which is Punta Gorda",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_ronald_herbert_garvey",
+        "name": "Ronald Herbert Garvey",
+        "titles": [],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          },
+          {
+            "honor": "MBE",
+            "full_name": "Member of the Order of the British Empire"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander in-Chief",
+            "colony": "BRITISH_HONDURAS",
+            "location": "Belize",
+            "status": "permanent",
+            "start_date": "1948",
+            "salary": {
+              "amount": 9600,
+              "currency": "$",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "duty",
+                "amount": 1200,
+                "currency": "$",
+                "description": "duty allowance"
+              },
+              {
+                "type": "trustee",
+                "amount": 300,
+                "currency": "£",
+                "description": "as trustee of the late Baron Bliss"
+              }
+            ]
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "289-331",
+          "source_section": "GOVERNORS > CIVIL ESTABLISHMENT > GOVERNOR AND PERSONAL STAFF",
+          "original_text": "1948 R. H. Garvey, C.M.G., M.B.E.... Governor and Commander in-Chief—Ronald Herbert Garvey, C.M.G., M.B.E. $9,600. $1,200 duty allowance, also receives £300 p.a. as trustee of the late Baron Bliss.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_e_d_hone",
+        "name": "E. D. Hone",
+        "titles": [],
+        "honors": [
+          {
+            "honor": "OBE",
+            "full_name": "Officer of the Order of the British Empire"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "department": "Secretariat",
+            "colony": "BRITISH_HONDURAS",
+            "location": "Belize",
+            "status": "permanent",
+            "salary": {
+              "amount": 6000,
+              "currency": "$",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "trustee",
+                "amount": 200,
+                "currency": "£",
+                "description": "as trustee of the late Baron Bliss"
+              }
+            ]
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "294, 338",
+          "source_section": "EXECUTIVE COUNCIL / CIVIL ESTABLISHMENT > ADMINISTRATION > Secretariat",
+          "original_text": "Colonial Secretary... Colonial Secretary—E. D. Hone, O.B.E. $6,000, also receives £200 p.a. as trustee of the late Baron Bliss.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_h_j_hughes",
+        "name": "H. J. Hughes",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "department": "Legal",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent",
+            "salary": {
+              "amount": 4800,
+              "currency": "$",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "trustee",
+                "amount": 200,
+                "currency": "£",
+                "description": "as trustee of the late Baron Bliss"
+              }
+            ]
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "295, 368",
+          "source_section": "EXECUTIVE COUNCIL / LEGAL",
+          "original_text": "Attorney General... Attorney-General—H. J. Hughes. $4,800 (also receives £200 p.a. as a trustee under the will of the late Baron Bliss.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_s_a_stone",
+        "name": "S. A. Stone",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Financial Secretary",
+            "department": "Treasury",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent",
+            "salary": {
+              "amount": 4500,
+              "currency": "$",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "296, 446",
+          "source_section": "EXECUTIVE COUNCIL / TREASURY",
+          "original_text": "Financial Secretary... Financial Secretary—S. A. Stone. $4,500.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_f_m_boland",
+        "name": "F. M. Boland",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "department": "Judicial",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent",
+            "salary": {
+              "amount": 6240,
+              "currency": "$",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "402",
+          "source_section": "JUDICIAL",
+          "original_text": "Chief Justice—F. M. Boland. $6,240.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_c_v_c_herbert",
+        "name": "C. V. C. Herbert",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Private Secretary",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent",
+            "salary": {
+              "amount": 1500,
+              "currency": "$",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "332",
+          "source_section": "GOVERNOR AND PERSONAL STAFF",
+          "original_text": "Private Secretary—C. V. C. Herbert, $1,500.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "BRITISH_HONDURAS",
+        "location": "Belize",
+        "composition": {
+          "total_members": 8,
+          "official_members": 4,
+          "unofficial_members": 4,
+          "ex_officio_members": 3
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "291-301",
+          "source_section": "EXECUTIVE COUNCIL",
+          "original_text": "EXECUTIVE COUNCIL\n\nGovernor.\nColonial Secretary.\nAttorney General.\nFinancial Secretary.\nJ. S. Espat.\nR. H. Eyles.\nC. A. Gibbs.\nW. H. Courtenay.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "BRITISH_HONDURAS",
+        "location": "Belize",
+        "composition": {
+          "total_members": 14,
+          "official_members": 3,
+          "unofficial_members": 11,
+          "ex_officio_members": 3
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "303-308",
+          "source_section": "LEGISLATIVE COUNCIL",
+          "original_text": "LEGISLATIVE COUNCIL\n\nPresident—The Governor.\nOfficial Members—The Colonial Secretary, The Attorney General, The Financial Secretary.\nUnofficial Members—J. W. Macmillan, B. S. Clarke, J. S. Espat, E. G. N. Gegg, Dr. W. A. George, W. H. Courtenay, O.B.E., R. S. Turton, J. A. Smith, C. J. Benguche, H. L. Fuller, C. L. Westby.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_colonial_secretariat",
+        "name": "Colonial Secretariat",
+        "type": "colonial_secretariat",
+        "colony": "BRITISH_HONDURAS",
+        "location": "Belize",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "336-339",
+          "source_section": "ADMINISTRATION > Secretariat",
+          "original_text": "Secretariat\n\nColonial Secretary—E. D. Hone, O.B.E. $6,000...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1948",
+        "type": "revenue",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1948",
+        "data": {
+          "value": 3208622,
+          "currency": "$",
+          "category": "total_revenue"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "124",
+          "original_text": "1948 | *$3,208,622",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1948",
+        "type": "expenditure",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1948",
+        "data": {
+          "value": 3394916,
+          "currency": "$",
+          "category": "total_expenditure"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "124",
+          "original_text": "1948 | *$3,208,622 | $3,394,916",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_mahogany_logs_1948",
+        "type": "exports",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1948",
+        "data": {
+          "value": 503328,
+          "unit": "cubic_feet",
+          "category": "mahogany_logs"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "151",
+          "original_text": "Mahogany logs (cu. ft.) | 427,811 | 503,328",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_chicle_1948",
+        "type": "exports",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1948",
+        "data": {
+          "value": 1044923,
+          "unit": "pounds",
+          "category": "chicle"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "153",
+          "original_text": "Chicle (lb.)          | 1,420,747 | 1,044,923",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_roads_main",
+        "name": "Main Roads",
+        "type": "road",
+        "colony": "BRITISH_HONDURAS",
+        "description": "Main roads suitable for motor traffic",
+        "specifications": {
+          "length": {
+            "value": 226,
+            "unit": "miles"
+          }
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "78",
+          "source_section": "COMMUNICATIONS > Roads",
+          "original_text": "There are 226 miles of main roads and 51 miles of feeder roads, all suitable for motor traffic.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_telegraph",
+        "name": "Telegraph System",
+        "type": "telegraph",
+        "colony": "BRITISH_HONDURAS",
+        "description": "Telegraphic communication with Europe via Mexico and Jamaica",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "105",
+          "source_section": "Posts and Telegraphs",
+          "original_text": "Telegraphic communication with Europe is maintained by a landline to Consejo on the Hondo River, which connects, by a cable across the Hondo, with the Mexican telegraph system through Chetumal...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_postal",
+        "name": "Postal Service",
+        "type": "postal",
+        "colony": "BRITISH_HONDURAS",
+        "description": "Postal service with 30 post offices",
+        "specifications": {
+          "post_offices": 30,
+          "telephone_offices": 72
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "103",
+          "source_section": "Posts and Telegraphs",
+          "original_text": "There are 30 post offices in the Colony. Telephone offices, which also transact telegraph business, number 72.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_1946_census",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1946",
+        "population": {
+          "total": 59220,
+          "breakdown": {
+            "belize_district": 26781,
+            "northern_district": 12293,
+            "stann_creek_district": 6373,
+            "toledo_district": 6403,
+            "cayo_district": 7370,
+            "british_subjects": 54756,
+            "uk_born": 107,
+            "americans": 155,
+            "us_born": 120,
+            "guatemala_born": 1592,
+            "honduras_republic_born": 1589,
+            "mexico_born": 725
+          }
+        },
+        "notes": "Census taken on 9th April, 1946. Population estimates: 61,503 at end of 1947, 63,148 at end of 1948",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "21-39",
+          "source_section": "POPULATION",
+          "original_text": "The population of the several districts of the Colony, based on the census taken on 9th April, 1946, was:...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_hurricane_1931",
+        "type": "natural_disaster",
+        "description": "Belize was visited by hurricane and tidal wave which caused great damage and loss of life",
+        "event_date": {
+          "year": "1931",
+          "month": "September",
+          "day": "10",
+          "precision": "exact"
+        },
+        "year_mentioned": "1950",
+        "locations": ["place_belize_city"],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "48",
+          "source_section": "HISTORY",
+          "original_text": "On 10th September, 1931, Belize was visited by hurricane and tidal wave which caused great damage and loss of life.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_colony_declared_1862",
+        "type": "establishment",
+        "description": "The settlement was declared a Colony on 12th May, 1862, and a Lieutenant-Governor was appointed subordinate to the Governor of Jamaica",
+        "event_date": {
+          "year": "1862",
+          "month": "May",
+          "day": "12",
+          "precision": "exact"
+        },
+        "year_mentioned": "1950",
+        "locations": ["place_british_honduras"],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "54",
+          "source_section": "CONSTITUTION",
+          "original_text": "The settlement was declared a Colony on 12th May, 1862, and a Lieutenant-Governor was appointed subordinate to the Governor of Jamaica.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_ronald_herbert_garvey",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "position": "President",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_e_d_hone",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_h_j_hughes",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_s_a_stone",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_belize_city",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_british_honduras",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_belize_district",
+      "relationship_type": "PART_OF",
+      "target_id": "place_british_honduras",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "event_hurricane_1931",
+      "relationship_type": "OCCURRED_IN",
+      "target_id": "place_belize_city",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 36,
+    "entities_by_type": {
+      "places": 9,
+      "people": 6,
+      "institutions": 3,
+      "economic_data": 4,
+      "infrastructure": 3,
+      "demographics": 1,
+      "events": 2
+    },
+    "total_relationships": 7,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 1,
+      "MEMBER_OF": 3,
+      "LOCATED_IN": 1,
+      "PART_OF": 1,
+      "OCCURRED_IN": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0,
+    "processing_time_seconds": 0
+  }
+}

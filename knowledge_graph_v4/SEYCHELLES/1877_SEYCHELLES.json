@@ -1,0 +1,643 @@
+{
+  "metadata": {
+    "year": "1877",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1877.pdf",
+    "source_directory": "output_2/1877_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM-based extraction)",
+    "colonies_processed": ["Seychelles"],
+    "processing_notes": "Early colonial period, Board of Civil Commissioners governance structure"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Very Rev": {
+        "full_form": "Very Reverend",
+        "category": "religious"
+      }
+    },
+    "positions": {
+      "Chief Commissioner": {
+        "canonical_name": "Chief Commissioner",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "District Judge": {
+        "canonical_name": "District Judge",
+        "hierarchy_level": 3,
+        "category": "judicial"
+      },
+      "Collector of Dues and Taxes": {
+        "canonical_name": "Collector of Dues and Taxes",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      }
+    },
+    "institution_types": {
+      "board_of_civil_commissioners": {
+        "description": "Governing body of Seychelles before Administrator appointed",
+        "parent_type": "executive"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_seychelles_1877",
+        "name": "Seychelles",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "Seychelles",
+          "actual_location_country": "Seychelles",
+          "certainty": "definite",
+          "reasoning": "British colonial dependency of Mauritius in Indian Ocean"
+        },
+        "colonial_status": "dependency",
+        "parent_colony": "Mauritius",
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "1-2",
+          "original_text": "Seychelles. Board of Civil Commissioners.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_mahe_1877",
+        "name": "Mahé",
+        "type": "island",
+        "location_context": {
+          "mentioned_in_colony": "Seychelles",
+          "actual_location_country": "Seychelles",
+          "certainty": "definite",
+          "reasoning": "Largest island in Seychelles archipelago"
+        },
+        "parent_location": "place_seychelles_1877",
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "125",
+          "original_text": "North and South Mahé and Silhouette",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_praslin_1877",
+        "name": "Praslin",
+        "type": "island",
+        "location_context": {
+          "mentioned_in_colony": "Seychelles",
+          "actual_location_country": "Seychelles",
+          "certainty": "definite",
+          "reasoning": "Second largest island in Seychelles"
+        },
+        "parent_location": "place_seychelles_1877",
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "127",
+          "original_text": "Praslin, The Assistant Medical Officer (ex-officio)",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_silhouette_1877",
+        "name": "Silhouette",
+        "type": "island",
+        "location_context": {
+          "mentioned_in_colony": "Seychelles",
+          "actual_location_country": "Seychelles",
+          "certainty": "definite",
+          "reasoning": "Island in Seychelles group"
+        },
+        "parent_location": "place_seychelles_1877",
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "125",
+          "original_text": "North and South Mahé and Silhouette",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_c_s_salmon_1877",
+        "name": "C. S. Salmon",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Commissioner",
+            "colony": "Seychelles",
+            "status": "permanent",
+            "salary": {
+              "amount": 600,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "office and boat establishments",
+                "amount": 288,
+                "currency": "£"
+              }
+            ]
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "27",
+          "source_section": "Board of Civil Commissioners",
+          "original_text": "Chief Commissioner, C. S. Salmon, 600l., and 288l. for office and boat establishments.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_geo_barrow_1877",
+        "name": "George Barrow",
+        "name_variants": ["Geo. Barrow"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Secretary",
+            "department": "Board of Civil Commissioners",
+            "colony": "Seychelles",
+            "status": "permanent",
+            "salary": {
+              "amount": 50,
+              "currency": "£",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Collector of Dues and Taxes",
+            "department": "Revenue Department",
+            "colony": "Seychelles",
+            "status": "permanent",
+            "salary": {
+              "amount": 200,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "25, 31",
+          "source_section": "Board of Civil Commissioners > Revenue Department",
+          "original_text": "Secretary, Geo. Barrow, 50l. ... Collector of Dues and Taxes, Geo. Barrow, 200l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_e_a_de_lapeyre_1877",
+        "name": "E. A. De Lapeyre",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "District Judge",
+            "colony": "Seychelles",
+            "status": "permanent",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "45",
+          "source_section": "Judicial Department",
+          "original_text": "District Judge, E. A. De Lapeyre, 500l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_james_henry_brooks_1877",
+        "name": "James Henry Brooks",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Government Medical Officer",
+            "department": "Medical Department",
+            "colony": "Seychelles",
+            "status": "permanent",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Inspector of Schools",
+            "department": "Education",
+            "colony": "Seychelles",
+            "status": "acting"
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "63, 87",
+          "source_section": "Medical Department > Education",
+          "original_text": "Government Medical Officer, James Henry Brooks, 400l., and private practice. ... Inspector of Schools, J. H. Brooks (acting—see Medical Department)",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_a_bichaud_1877",
+        "name": "J. A. Bichaud",
+        "titles": ["Rev"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Civil Chaplain",
+            "department": "Ecclesiastical Department",
+            "colony": "Seychelles",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "73",
+          "source_section": "Ecclesiastical Department",
+          "original_text": "Civil Chaplain, Rev. J. A. Bichaud, 300l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_prefet_apostolique_1877",
+        "name": "Préfet Apostolique",
+        "titles": ["Very Rev"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Roman Catholic Priest",
+            "department": "Ecclesiastical Department",
+            "colony": "Seychelles",
+            "status": "permanent",
+            "salary": {
+              "amount": 200,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "75",
+          "source_section": "Ecclesiastical Department",
+          "original_text": "Roman Catholic Priests, The Very Rev. the Préfet Apostolique, 200l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_h_leipsic_1877",
+        "name": "H. Leipsic",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Officer of Police",
+            "department": "Police and Gaols",
+            "colony": "Seychelles",
+            "status": "permanent",
+            "salary": {
+              "amount": 170,
+              "currency": "£",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Inspector of Liberated Africans",
+            "department": "Immigration",
+            "colony": "Seychelles",
+            "status": "acting",
+            "salary": {
+              "amount": 100,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "83, 91",
+          "source_section": "Immigration > Police and Gaols",
+          "original_text": "Inspector of Liberated Africans, H. Leipsic (acting), 100l. ... Chief Officer of Police, H. Leipsic, 170l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_jules_cauvin_1877",
+        "name": "Jules Cauvin",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Superintendent of Works",
+            "department": "Works Department",
+            "colony": "Seychelles",
+            "status": "permanent",
+            "salary": {
+              "amount": 180,
+              "currency": "£",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Government Surveyor",
+            "department": "Works Department",
+            "colony": "Seychelles",
+            "status": "permanent"
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "99",
+          "source_section": "Works Department",
+          "original_text": "Superintendent of Works, Jules Cauvin, 180l.; is also Government Surveyor, paid by fees.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_board_civil_commissioners_1877",
+        "name": "Board of Civil Commissioners",
+        "type": "board_of_civil_commissioners",
+        "colony": "Seychelles",
+        "composition": {
+          "official_members": 3,
+          "unofficial_members": 5,
+          "notes": "Chief Commissioner (President), District Judge, Government Medical Officer, plus 5 unofficial members"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "3-23",
+          "source_section": "Board of Civil Commissioners",
+          "original_text": "Board of Civil Commissioners. Official Members:— Chief Commissioner, President. District Judge. Government Medical Officer. Inofficial Members:— Charles Dupuy, Esq. F. Hodoul, Esq. C. Le Marchand, Esq. A. Nageon, Esq. E. Serret, Esq.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_revenue_dept_1877",
+        "name": "Revenue Department",
+        "type": "treasury",
+        "colony": "Seychelles",
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "29-42",
+          "source_section": "Revenue Department",
+          "original_text": "Revenue Department. Collector of Dues and Taxes...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_judicial_dept_1877",
+        "name": "Judicial Department",
+        "type": "judicial",
+        "colony": "Seychelles",
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "43-54",
+          "source_section": "Judicial Department",
+          "original_text": "Judicial Department. District Judge...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_medical_dept_1877",
+        "name": "Medical Department",
+        "type": "medical_department",
+        "colony": "Seychelles",
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "61-69",
+          "source_section": "Medical Department",
+          "original_text": "Medical Department. Government Medical Officer...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_board_education_1877",
+        "name": "Board of Education",
+        "type": "education_department",
+        "colony": "Seychelles",
+        "composition": {
+          "notes": "Members are the Members of the Board of Civil Commissioners"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "103-107",
+          "source_section": "Board of Education",
+          "original_text": "Board of Education. Members, the Members of the Board of Civil Commissioners. Honorary Secretary, Geo. Barrow.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_board_health_1877",
+        "name": "Board of Health",
+        "type": "medical_department",
+        "colony": "Seychelles",
+        "composition": {
+          "notes": "Members are the Members of the Board of Civil Commissioners"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+          "source_lines": "109-113",
+          "source_section": "Board of Health",
+          "original_text": "Board of Health. Members, the Members of the Board of Civil Commissioners. Honorary Secretary, Geo. Barrow.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [],
+    "infrastructure": [],
+    "demographics": [],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "person_c_s_salmon_1877",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_board_civil_commissioners_1877",
+      "properties": {
+        "position": "Chief Commissioner",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_geo_barrow_1877",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_revenue_dept_1877",
+      "properties": {
+        "position": "Collector of Dues and Taxes",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_e_a_de_lapeyre_1877",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_judicial_dept_1877",
+      "properties": {
+        "position": "District Judge",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "inst_board_civil_commissioners_1877",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_seychelles_1877",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1877_manual_parsed/Seychelles.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 20,
+    "entities_by_type": {
+      "places": 4,
+      "people": 8,
+      "institutions": 6,
+      "economic_data": 0,
+      "infrastructure": 0,
+      "demographics": 0,
+      "events": 0
+    },
+    "total_relationships": 4,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 3,
+      "GOVERNS": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

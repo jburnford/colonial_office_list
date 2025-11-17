@@ -1,0 +1,798 @@
+{
+  "metadata": {
+    "year": "1877",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1877.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1877_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM-based extraction)",
+    "colonies_processed": ["FIJI"],
+    "processing_notes": "First year with comprehensive FIJI data after 1874 cession"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Lieut": {
+        "full_form": "Lieutenant",
+        "category": "military"
+      },
+      "Captain": {
+        "full_form": "Captain",
+        "category": "military"
+      },
+      "Colonel": {
+        "full_form": "Colonel",
+        "category": "military"
+      },
+      "Dr": {
+        "full_form": "Doctor",
+        "category": "academic"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor and Commander-in-Chief",
+        "hierarchy_level": 1,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      }
+    },
+    "institution_types": {
+      "colony": {
+        "description": "British Crown Colony"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_fiji",
+        "name": "Fiji",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "FIJI",
+          "actual_location_country": "Fiji (Pacific)",
+          "certainty": "definite",
+          "reasoning": "Main colony entry"
+        },
+        "coordinates": {
+          "latitude": -18.0,
+          "longitude": 178.0,
+          "source": "Lines 1-3: between 15° and 22° south latitude, and 175° east and 177° west longitude"
+        },
+        "area": {
+          "value": 7403,
+          "unit": "square_miles",
+          "source": "Line 51"
+        },
+        "population": {
+          "total": 93400,
+          "year": "1877",
+          "breakdown": {
+            "Christians": 91700,
+            "Heathens": 10000,
+            "Europeans": 1700
+          },
+          "source": "Lines 48-50"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "1-55",
+          "original_text": "FIJI. The Fiji Islands lie between 15° and 22° south latitude...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_viti_levu",
+        "name": "Viti Levu",
+        "type": "island",
+        "location_context": {
+          "mentioned_in_colony": "FIJI",
+          "actual_location_country": "Fiji",
+          "certainty": "definite",
+          "reasoning": "Largest island in Fiji"
+        },
+        "parent_location": "place_fiji",
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "3",
+          "original_text": "Viti Levu and Vanua Levu, each about 220 miles in circumference",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_vanua_levu",
+        "name": "Vanua Levu",
+        "type": "island",
+        "location_context": {
+          "mentioned_in_colony": "FIJI",
+          "actual_location_country": "Fiji",
+          "certainty": "definite",
+          "reasoning": "Second largest island in Fiji"
+        },
+        "parent_location": "place_fiji",
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "3",
+          "original_text": "Viti Levu and Vanua Levu, each about 220 miles in circumference",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_levuka",
+        "name": "Levuka",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "FIJI",
+          "actual_location_country": "Fiji",
+          "certainty": "definite",
+          "reasoning": "European capital mentioned in text"
+        },
+        "parent_location": "place_ovalau",
+        "population": {
+          "total": 550,
+          "year": "1877",
+          "source": "Line 5"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "5",
+          "original_text": "The present European capital is Levuka, in Ovalau, with a population of 550",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_ovalau",
+        "name": "Ovalau",
+        "type": "island",
+        "location_context": {
+          "mentioned_in_colony": "FIJI",
+          "actual_location_country": "Fiji",
+          "certainty": "definite",
+          "reasoning": "Island where Levuka is located"
+        },
+        "parent_location": "place_fiji",
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "5",
+          "original_text": "Levuka, in Ovalau",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_arthur_hamilton_gordon",
+        "name": "Arthur Hamilton Gordon",
+        "name_variants": ["A. H. Gordon", "Sir Arthur Gordon"],
+        "titles": ["Sir", "Hon"],
+        "honors": [
+          {
+            "honor": "KCMG",
+            "full_name": "Knight Commander of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "colony": "FIJI",
+            "location": "Levuka",
+            "status": "permanent",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "13",
+          "source_section": "FIJI > Government",
+          "original_text": "Governor and Commander-in-Chief, The Hon. Sir Arthur Hamilton Gordon, K.C.M.G., 5,000l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_a_l_gordon",
+        "name": "A. L. Gordon",
+        "positions": [
+          {
+            "title": "Private Secretary",
+            "colony": "FIJI",
+            "status": "permanent"
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "15",
+          "original_text": "Private Secretary, A. L. Gordon.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_knollys",
+        "name": "Knollys",
+        "titles": ["Lieut"],
+        "positions": [
+          {
+            "title": "Aide-de-Camp",
+            "colony": "FIJI",
+            "department": "32nd Regiment",
+            "status": "permanent"
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "17",
+          "original_text": "Aide-de-Camp, Lieut. Knollys, 32nd Regiment.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_maudsley",
+        "name": "Maudsley",
+        "positions": [
+          {
+            "title": "Colonial Secretary and Receiver-General",
+            "colony": "FIJI",
+            "status": "provisional",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "18",
+          "original_text": "Colonial Secretary and Receiver-General (provisional), — Maudsley, 500l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_john_bates_thurston",
+        "name": "John Bates Thurston",
+        "positions": [
+          {
+            "title": "Auditor-General",
+            "colony": "FIJI",
+            "status": "permanent",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "19",
+          "original_text": "Auditor-General, John Bates Thurston, 500l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_c_a_w_mitchell",
+        "name": "C. A. W. Mitchell",
+        "positions": [
+          {
+            "title": "Agent-General for Immigration",
+            "colony": "FIJI",
+            "status": "permanent",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "20",
+          "original_text": "Agent-General for Immigration, C. A. W. Mitchell, 500l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_john_gorrie",
+        "name": "John Gorrie",
+        "positions": [
+          {
+            "title": "Acting Chief Justice",
+            "colony": "FIJI",
+            "status": "acting",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "24",
+          "original_text": "Acting Chief Justice, John Gorrie, 1,000l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_h_garrick",
+        "name": "J. H. Garrick",
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "FIJI",
+            "status": "permanent",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "25",
+          "original_text": "Attorney-General, J. H. Garrick, 500l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_mcgregor",
+        "name": "W. McGregor",
+        "titles": ["Dr"],
+        "positions": [
+          {
+            "title": "Chief Medical Officer",
+            "colony": "FIJI",
+            "status": "permanent",
+            "salary": {
+              "amount": 350,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "27",
+          "original_text": "Chief Medical Officer, Dr. W. McGregor, 350l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_govt_fiji",
+        "name": "Government of Fiji",
+        "type": "executive",
+        "colony": "FIJI",
+        "location": "Levuka",
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "5-13",
+          "original_text": "A charter has been issued by Her Majesty, erecting the islands into a separate colony, and providing for its government.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "FIJI",
+        "location": "Levuka",
+        "composition": {
+          "total_members": 2
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "5",
+          "original_text": "A Legislative Council is established, to consist of not less than two persons, nominated by Royal instructions or warrant.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "FIJI",
+        "location": "Levuka",
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "5",
+          "original_text": "An Executive Council is also established",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1866",
+        "type": "revenue",
+        "colony": "FIJI",
+        "year_applies": "1866",
+        "data": {
+          "value": 34744,
+          "currency": "£"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "35",
+          "original_text": "1866 | £34,744",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_revenue_1875",
+        "type": "revenue",
+        "colony": "FIJI",
+        "year_applies": "1875",
+        "data": {
+          "value": 42143,
+          "currency": "£"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "44",
+          "original_text": "1875 | £42,143",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_levuka",
+        "type": "imports",
+        "colony": "FIJI",
+        "data": {
+          "value": 87653,
+          "currency": "£",
+          "category": "Levuka imports"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "53",
+          "original_text": "Imports of Levuka 87,653l. 109,000l.",
+          "extraction_confidence": 0.90,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_levuka",
+        "type": "exports",
+        "colony": "FIJI",
+        "data": {
+          "value": 84802,
+          "currency": "£",
+          "category": "Levuka exports"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "54",
+          "original_text": "Exports \" 84,802l. 110,000l.",
+          "extraction_confidence": 0.90,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_fiji_1877",
+        "colony": "FIJI",
+        "year_applies": "1877",
+        "population": {
+          "total": 93400,
+          "breakdown": {
+            "Christians": 91700,
+            "Heathens": 10000,
+            "Europeans": 1700
+          }
+        },
+        "notes": "Historical categorization reflects British colonial census methodology",
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "48-50",
+          "original_text": "Population (Christians) 91,700\\nNatives (Heathens) 10,000\\nEuropeans 1,700",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_fiji_cession_1874",
+        "type": "annexation",
+        "description": "The sovereignty of the islands was ceded to Her Majesty by Thakombau, Maafu, and other the principal chiefs, in a deed of cession dated the 10th day of October, 1874",
+        "event_date": {
+          "year": "1874",
+          "month": "October",
+          "day": "10",
+          "precision": "exact"
+        },
+        "year_mentioned": "1877",
+        "locations": ["place_fiji"],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "5",
+          "original_text": "the sovereignty of the islands was ceded to Her Majesty by Thakombau, Maafu, and other the principal chiefs, in a deed of cession dated the 10th day of October, 1874",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_measles_epidemic_1875",
+        "type": "natural_disaster",
+        "description": "In February, 1875, the Islands were visited by a terrible epidemic of measles, which carried off about 40,000 of the inhabitants",
+        "event_date": {
+          "year": "1875",
+          "month": "February",
+          "precision": "month"
+        },
+        "year_mentioned": "1877",
+        "locations": ["place_fiji"],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "9",
+          "original_text": "In February, 1875, the Islands were visited by a terrible epidemic of measles, which carried off about 40,000 of the inhabitants.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_tasman_discovery_1643",
+        "type": "expedition",
+        "description": "The Fiji Islands were discovered in 1643 by Tasman",
+        "event_date": {
+          "year": "1643",
+          "precision": "year"
+        },
+        "year_mentioned": "1877",
+        "locations": ["place_fiji"],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+          "source_lines": "1",
+          "original_text": "They were discovered in 1643 by Tasman",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_arthur_hamilton_gordon",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_fiji",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_levuka",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_ovalau",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_ovalau",
+      "relationship_type": "PART_OF",
+      "target_id": "place_fiji",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "place_viti_levu",
+      "relationship_type": "PART_OF",
+      "target_id": "place_fiji",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_vanua_levu",
+      "relationship_type": "PART_OF",
+      "target_id": "place_fiji",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/FIJI.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 31,
+    "entities_by_type": {
+      "places": 5,
+      "people": 9,
+      "institutions": 3,
+      "economic_data": 4,
+      "infrastructure": 0,
+      "demographics": 1,
+      "events": 3
+    },
+    "total_relationships": 5,
+    "relationships_by_type": {
+      "GOVERNS": 1,
+      "LOCATED_IN": 1,
+      "PART_OF": 3
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 2,
+    "missing_provenance": 0
+  }
+}

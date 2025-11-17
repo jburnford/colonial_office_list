@@ -1,0 +1,875 @@
+{
+  "metadata": {
+    "year": "1946",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1946.pdf",
+    "source_directory": "output_2/1946_manual_parsed",
+    "extraction_date": "2025-11-17T10:30:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["GRENADA"],
+    "processing_notes": "Complete extraction for Grenada 1946. Part of Windward Islands with detailed economic and constitutional information."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "OBE": {
+        "full_name": "Officer of the Order of the British Empire",
+        "type": "order",
+        "rank": 4
+      },
+      "CBE": {
+        "full_name": "Commander of the Order of the British Empire",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Dr": {
+        "full_form": "Doctor",
+        "category": "academic"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Ven": {
+        "full_form": "Venerable",
+        "category": "religious"
+      },
+      "Very Rev": {
+        "full_form": "Very Reverend",
+        "category": "religious"
+      }
+    },
+    "positions": {
+      "Administrator": {
+        "canonical_name": "Administrator",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Attorney-General": {
+        "canonical_name": "Attorney-General",
+        "hierarchy_level": 3,
+        "category": "judicial"
+      },
+      "Treasurer": {
+        "canonical_name": "Treasurer",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Senior Medical Officer": {
+        "canonical_name": "Senior Medical Officer",
+        "hierarchy_level": 4,
+        "category": "medical"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Advisory council to the Governor"
+      },
+      "legislative_council": {
+        "description": "Legislative body of the colony"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_grenada",
+        "name": "Grenada",
+        "type": "colony",
+        "year": "1946",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Main colony, part of Windward Islands group"
+        },
+        "coordinates": {
+          "latitude": 12.15,
+          "longitude": -61.46,
+          "source": "Line 5: between 12°30' and 11°58' N. lat., 61°20' and 61°35' W. long."
+        },
+        "area": {
+          "value": 133,
+          "unit": "square_miles",
+          "source": "Line 5"
+        },
+        "population": {
+          "total": 88016,
+          "year": "1944",
+          "source": "Line 84"
+        },
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "1-5",
+          "original_text": "Grenada, the most southerly of the Windward group, is situated between the parallels of 12° 30' and 11° 58' N. latitude, and 61° 20' and 61° 35' W. longitude; is about 21 miles in length, 12 miles in its greatest breadth and contains about 133 square miles",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_georges",
+        "name": "St. George's",
+        "type": "city",
+        "year": "1946",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Principal town and capital with port"
+        },
+        "population": {
+          "total": 4629,
+          "year": "1921",
+          "source": "Line 10"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "10",
+          "original_text": "St. George's, the principal town, is a port of registry for shipping and had on 31st December, 1945, 180 vessels registered, of a total tonnage of 3,762 tons; its fine harbour, owing to its situation, healthiness and great natural advantages, including a plentiful supply of water of the purest quality, offers exceptional inducements as a port of call for steamers. The town had a population of 4,629 by census of 24th April, 1921.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_carriacou",
+        "name": "Carriacou",
+        "type": "island",
+        "year": "1946",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Dependency of Grenada, largest of the Grenadines attached to Grenada"
+        },
+        "area": {
+          "value": 8467,
+          "unit": "acres",
+          "source": "Line 5"
+        },
+        "population": {
+          "total": 7104,
+          "year": "1921",
+          "source": "Line 5"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "5",
+          "original_text": "the largest of the latter is Carriacou, which has an area of 8,467 acres and a population (at 24th April, 1921) of 7,104.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_mount_st_catherine",
+        "name": "Mount St. Catherine",
+        "type": "other",
+        "year": "1946",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Highest peak in Grenada"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "9",
+          "original_text": "the highest of which is Mount St. Catherine, 2,749 feet",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_grand_etang",
+        "name": "Grand Etang",
+        "type": "other",
+        "year": "1946",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Lake and natural landmark"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "10",
+          "original_text": "The Grand Etang, a lake on the summit of a mountain ridge 1,740 feet above the level of the sea, and seven miles from the town of St. George, and Lake Antoine, both old craters, are among the most remarkable natural curiosities",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_e_a_p_slinger",
+        "name": "E. A. P. Slinger",
+        "year": "1946",
+        "titles": ["Dr"],
+        "honors": [
+          {
+            "honor": "OBE",
+            "full_name": "Officer of the Order of the British Empire"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Senior Medical Officer",
+            "colony": "GRENADA",
+            "institution_id": "inst_executive_council",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "164",
+          "source_section": "EXECUTIVE COUNCIL",
+          "original_text": "Dr. E. A. P. Slinger, O.B.E. (Senior Medical Officer).",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_a_williamson",
+        "name": "A. Williamson",
+        "year": "1946",
+        "titles": [],
+        "honors": [
+          {
+            "honor": "OBE",
+            "full_name": "Officer of the Order of the British Empire"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Member",
+            "colony": "GRENADA",
+            "institution_id": "inst_executive_council",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "166",
+          "source_section": "EXECUTIVE COUNCIL",
+          "original_text": "A. Williamson, O.B.E.",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_b_renwick",
+        "name": "J. B. Renwick",
+        "year": "1946",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Member",
+            "colony": "GRENADA",
+            "institution_id": "inst_executive_council",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "168",
+          "source_section": "EXECUTIVE COUNCIL",
+          "original_text": "J. B. Renwick.",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_t_a_marryshow",
+        "name": "T. A. Marryshow",
+        "year": "1946",
+        "titles": [],
+        "honors": [
+          {
+            "honor": "CBE",
+            "full_name": "Commander of the Order of the British Empire"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Member",
+            "colony": "GRENADA",
+            "institution_id": "inst_executive_council",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "170",
+          "source_section": "EXECUTIVE COUNCIL",
+          "original_text": "T. A. Marryshow, C.B.E.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_h_j_pigott",
+        "name": "H. J. Pigott",
+        "year": "1946",
+        "titles": ["Ven"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Archdeacon",
+            "colony": "GRENADA",
+            "department": "Anglican Church",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "208",
+          "source_section": "REPRESENTATIVES OF CHURCHES",
+          "original_text": "Anglican Church—Ven. H. J. Pigott (Archdeacon).",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_l_k_clark",
+        "name": "L. K. Clark",
+        "year": "1946",
+        "titles": ["Very Rev"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Vicar General",
+            "colony": "GRENADA",
+            "department": "Roman Catholic Church",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "210",
+          "source_section": "REPRESENTATIVES OF CHURCHES",
+          "original_text": "Roman Catholic Church—Very Rev. L. K. Clark.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_webster",
+        "name": "J. Webster",
+        "year": "1946",
+        "titles": ["Rev"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Minister",
+            "colony": "GRENADA",
+            "department": "Presbyterian Church",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "214",
+          "source_section": "REPRESENTATIVES OF CHURCHES",
+          "original_text": "Presbyterian Church—Rev. J. Webster.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_c_h_whitaker",
+        "name": "C. H. Whitaker",
+        "year": "1946",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Vice-Consul",
+            "colony": "GRENADA",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "222",
+          "source_section": "CONSULS",
+          "original_text": "United States of America—C. H. Whitaker (Vice-Consul for the Windward Islands).",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "GRENADA",
+        "year": "1946",
+        "composition": {
+          "total_members": 8,
+          "official_members": 3,
+          "unofficial_members": 5
+        },
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "154-170",
+          "source_section": "EXECUTIVE COUNCIL",
+          "original_text": "**EXECUTIVE COUNCIL**\n\nThe Governor.\n\nThe Administrator.\n\nThe Attorney-General.\n\nThe Treasurer...",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "GRENADA",
+        "year": "1946",
+        "composition": {
+          "total_members": 14,
+          "ex_officio_members": 3,
+          "nominated_members": 4,
+          "elected_members": 7
+        },
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "69, 174-202",
+          "source_section": "LEGISLATIVE COUNCIL",
+          "original_text": "By an Order-in-Council dated 27th October, 1936, which came into operation on 18th December, 1936, the Legislative Council was reconstituted; and now consists of the Governor, three ex officio members (the Colonial Secretary, Attorney-General and Treasurer), four nominated members and seven elected members",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1944",
+        "type": "revenue",
+        "colony": "GRENADA",
+        "year": "1946",
+        "year_applies": "1944",
+        "data": {
+          "value": 334668,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "100",
+          "source_section": "FINANCES",
+          "original_text": "| 1944 | 334,668 | 261,024     |",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1944",
+        "type": "expenditure",
+        "colony": "GRENADA",
+        "year": "1946",
+        "year_applies": "1944",
+        "data": {
+          "value": 261024,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "100",
+          "source_section": "FINANCES",
+          "original_text": "| 1944 | 334,668 | 261,024     |",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1945",
+        "type": "exports",
+        "colony": "GRENADA",
+        "year": "1946",
+        "year_applies": "1945",
+        "data": {
+          "value": 629345,
+          "currency": "£",
+          "breakdown": {
+            "to_uk": 137126,
+            "to_colonies": 105998,
+            "to_elsewhere": 386221
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "146",
+          "source_section": "EXPORTS",
+          "original_text": "| 1945 | £137,126| £105,998 | £386,221  | £629,345 |",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1945",
+        "type": "imports",
+        "colony": "GRENADA",
+        "year": "1946",
+        "year_applies": "1945",
+        "data": {
+          "value": 556126,
+          "currency": "£",
+          "breakdown": {
+            "from_uk": 60123,
+            "from_colonies": 365583,
+            "from_elsewhere": 130420
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "132",
+          "source_section": "IMPORTS",
+          "original_text": "| 1945 | 60,123    | 365,583       | 130,420        | 556,126|",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_production_cocoa_1945",
+        "type": "production",
+        "colony": "GRENADA",
+        "year": "1946",
+        "year_applies": "1945",
+        "data": {
+          "value": 181462,
+          "currency": "£",
+          "category": "cocoa",
+          "unit": "value of exports"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "20",
+          "source_section": "INDUSTRY, TRADE AND CUSTOMS",
+          "original_text": "The chief produce of Grenada is cocoa, of which a total value of £181,462 was shipped in 1945.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_production_spices_1945",
+        "type": "production",
+        "colony": "GRENADA",
+        "year": "1946",
+        "year_applies": "1945",
+        "data": {
+          "value": 371736,
+          "currency": "£",
+          "category": "spices (nutmeg, cloves, etc.)",
+          "unit": "value of exports"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "20",
+          "source_section": "INDUSTRY, TRADE AND CUSTOMS",
+          "original_text": "The value of spices exported in 1945 was £371,736.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1944",
+        "type": "debt",
+        "colony": "GRENADA",
+        "year": "1946",
+        "year_applies": "1944",
+        "data": {
+          "value": 332415,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "150",
+          "original_text": "Public debt at 31st December, 1944, £332,415.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_roads_1946",
+        "type": "road",
+        "colony": "GRENADA",
+        "year": "1946",
+        "name": "Road Network",
+        "description": "Island well equipped with roads suitable for motor traffic, including bitumen-surfaced roads",
+        "specifications": {
+          "length": {
+            "value": 461,
+            "unit": "miles"
+          },
+          "other": {
+            "surface_type": "Bitumen-surfaced first-class roads",
+            "coverage": "Completely round the island and across it in two directions"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "10",
+          "source_section": "GENERAL DESCRIPTION",
+          "original_text": "The island is well equipped with roads. All the first-class roads and practically all the second and third-class roads are suitable for motor traffic. Bitumen-surfaced first-class roads run completely round the island and across it in two directions. A large proportion of the second-class roads are also surface treated and all roads leading to places of interest are all-weather roads. The total mileage of roads is 461.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_port_st_georges",
+        "type": "port",
+        "colony": "GRENADA",
+        "year": "1946",
+        "name": "St. George's Port",
+        "description": "Port of registry for shipping with fine harbour offering exceptional inducements as port of call",
+        "operation": {
+          "vessels_registered": 180,
+          "tonnage_registered": 3762
+        },
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "10",
+          "source_section": "GENERAL DESCRIPTION",
+          "original_text": "St. George's, the principal town, is a port of registry for shipping and had on 31st December, 1945, 180 vessels registered, of a total tonnage of 3,762 tons",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_1944",
+        "colony": "GRENADA",
+        "year": "1946",
+        "year_applies": "1944",
+        "population": {
+          "total": 88016
+        },
+        "notes": "Population as of 31st December 1944",
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "84",
+          "source_section": "POPULATION",
+          "original_text": "| 31st December, 1944 | 88,016 |",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_ethnic_1946",
+        "colony": "GRENADA",
+        "year": "1946",
+        "population": {
+          "total": null,
+          "breakdown": {
+            "european": "2%",
+            "negro": "majority",
+            "east_indian": 2692
+          }
+        },
+        "notes": "About 2 per cent are of European blood, the remainder being of the negro race, except the East Indian population, which was 2,692 in number, according to the census of 1921.",
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "12",
+          "source_section": "GENERAL DESCRIPTION",
+          "original_text": "About 2 per cent. are of European blood, the remainder being of the negro race, except the East Indian population, which was 2,692 in number, according to the census of 1921.",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_discovery_1498",
+        "type": "other",
+        "year_mentioned": "1946",
+        "year": "1946",
+        "description": "Grenada was discovered by Columbus on 15th August, 1498, and was named by him Conception",
+        "event_date": {
+          "year": "1498",
+          "month": "August",
+          "day": "15",
+          "precision": "exact"
+        },
+        "locations": ["place_grenada"],
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "46",
+          "source_section": "HISTORY",
+          "original_text": "Grenada was discovered by Columbus on 15th August, 1498, and was named by him Conception.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_cession_1763",
+        "type": "transfer",
+        "year_mentioned": "1946",
+        "year": "1946",
+        "description": "Grenada formally ceded to Great Britain by the Treaty of Paris",
+        "event_date": {
+          "year": "1763",
+          "month": "February",
+          "day": "10",
+          "precision": "exact"
+        },
+        "locations": ["place_grenada"],
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "48",
+          "source_section": "HISTORY",
+          "original_text": "was formally ceded to Great Britain by the Treaty of Paris on 10th February, 1763",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_constitutional_change_1936",
+        "type": "constitutional_change",
+        "year_mentioned": "1946",
+        "year": "1946",
+        "description": "Legislative Council reconstituted with elected members",
+        "event_date": {
+          "year": "1936",
+          "month": "December",
+          "day": "18",
+          "precision": "exact"
+        },
+        "locations": ["place_grenada"],
+        "provenance": {
+          "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+          "source_lines": "69",
+          "source_section": "CONSTITUTION",
+          "original_text": "By an Order-in-Council dated 27th October, 1936, which came into operation on 18th December, 1936, the Legislative Council was reconstituted",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_st_georges",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_grenada",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "place_carriacou",
+      "relationship_type": "PART_OF",
+      "target_id": "place_grenada",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_t_a_marryshow",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1946_manual_parsed/GRENADA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 28,
+    "entities_by_type": {
+      "places": 5,
+      "people": 8,
+      "institutions": 2,
+      "economic_data": 7,
+      "infrastructure": 2,
+      "demographics": 2,
+      "events": 3
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "LOCATED_IN": 1,
+      "PART_OF": 1,
+      "MEMBER_OF": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

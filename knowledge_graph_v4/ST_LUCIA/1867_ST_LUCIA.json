@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "year": "1867",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1867.pdf",
+    "source_directory": "output_2/1867_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 LLM Context Extraction",
+    "colonies_processed": ["ST_LUCIA"],
+    "processing_notes": "Complete extraction for St. Lucia 1867, part of Windward Islands colonial administration"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      }
+    },
+    "positions": {
+      "Administrator of the Government": {
+        "canonical_name": "Administrator",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      }
+    }
+  },
+  "colony_info": {
+    "official_name": "St. Lucia",
+    "alternative_names": ["ST. LUCIA", "Saint Lucia"],
+    "colonial_status": "Crown Colony (Windward Islands)",
+    "capital": "Castries",
+    "regional_grouping": "Windward Islands",
+    "coordinates": {
+      "latitude": 13.8333,
+      "longitude": -60.9667,
+      "source": "Page 1, lines 3"
+    },
+    "area": {
+      "value": 158620,
+      "unit": "acres",
+      "source": "Page 1, line 3"
+    },
+    "dimensions": {
+      "length_miles": 42,
+      "breadth_miles": 21,
+      "circumference_miles": 150
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_st_lucia",
+        "name": "St. Lucia",
+        "type": "colony",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Main colony entry in Colonial Office List"
+        },
+        "coordinates": {
+          "latitude": 13.8333,
+          "longitude": -60.9667,
+          "source": "Line 3"
+        },
+        "area": {
+          "value": 158620,
+          "unit": "acres",
+          "source": "Line 3"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "1-3",
+          "original_text": "The Island of St. Lucia was discovered by Columbus, during his fourth voyage, on the 15th June, 1502. It is situated in 13° 50' N. lat., and 60° 58' W. long.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_castries",
+        "name": "Castries",
+        "type": "city",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Capital city of St. Lucia"
+        },
+        "population": {
+          "total": 3500,
+          "year": "1867",
+          "source": "Line 5"
+        },
+        "description": "Capital of the island, about 900 houses",
+        "parent_location": "place_st_lucia",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "5",
+          "original_text": "Castries, the capital of the island, is situated at the bottom of a deep bay of the same name, and contains about 900 houses and a population of about 3,500 souls.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_soufriere",
+        "name": "Soufrière",
+        "type": "town",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Second most important town in St. Lucia"
+        },
+        "population": {
+          "total": 1800,
+          "year": "1867",
+          "source": "Line 5"
+        },
+        "parent_location": "place_st_lucia",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "5",
+          "original_text": "Next in importance is the town of Soufriere, containing a population of 1,800 souls.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_pigeon_island",
+        "name": "Pigeon Island",
+        "type": "island",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Near northern extremity of St. Lucia"
+        },
+        "description": "Formerly a military post of some importance",
+        "parent_location": "place_st_lucia",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "3",
+          "original_text": "Near its northern extremity lies Pigeon Island, formerly a military post of some importance.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_martinique",
+        "name": "Martinique",
+        "type": "island",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "Martinique (French)",
+          "certainty": "definite",
+          "reasoning": "Neighboring French colony, 24 miles northwest"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "3",
+          "original_text": "at a distance of 24 miles to the south-east of Martinique",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_vincent",
+        "name": "St. Vincent",
+        "type": "island",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Vincent (British)",
+          "certainty": "definite",
+          "reasoning": "Neighboring British colony, 21 miles southwest"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "3",
+          "original_text": "and 21 to the north-east of St. Vincent",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_j_m_grant",
+        "name": "J. M. Grant",
+        "name_variants": ["John Grant"],
+        "titles": [],
+        "honors": [],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Administrator of the Government and Colonial Secretary",
+            "colony": "ST_LUCIA",
+            "location": "Castries",
+            "status": "permanent",
+            "salary": {
+              "amount": 700,
+              "currency": "£",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Mayor",
+            "colony": "ST_LUCIA",
+            "location": "Castries",
+            "institution_id": "inst_municipal_corp_castries",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "140, 146",
+          "original_text": "Municipal Corporation, Castries. John Grant, Mayor. ... Administrator of the Government and Colonial Secretary, J. M. Grant, 700l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_f_beausoleil",
+        "name": "F. Beausoleil",
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Unofficial Member",
+            "institution_id": "inst_executive_council",
+            "colony": "ST_LUCIA",
+            "status": "permanent"
+          },
+          {
+            "title": "Unofficial Member",
+            "institution_id": "inst_legislative_council",
+            "colony": "ST_LUCIA",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "114, 128",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_s_moffat",
+        "name": "J. S. Moffat",
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Unofficial Member",
+            "institution_id": "inst_executive_council",
+            "colony": "ST_LUCIA",
+            "status": "permanent"
+          },
+          {
+            "title": "Unofficial Member",
+            "institution_id": "inst_legislative_council",
+            "colony": "ST_LUCIA",
+            "status": "permanent"
+          },
+          {
+            "title": "Councillor",
+            "institution_id": "inst_municipal_corp_castries",
+            "colony": "ST_LUCIA",
+            "location": "Castries",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "115, 134, 142",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_g_p_athill",
+        "name": "J. G. P. Athill",
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Chief Justice and Judge of Vice-Admiralty Court",
+            "colony": "ST_LUCIA",
+            "location": "Castries",
+            "status": "permanent",
+            "salary": {
+              "amount": 700,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "166",
+          "original_text": "Chief-Justice and Judge of Vice-Admiralty Court, J. G. P. Athill, 700l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_l_la_caze",
+        "name": "L. La Caze",
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "ST_LUCIA",
+            "location": "Castries",
+            "status": "permanent",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "167",
+          "original_text": "Attorney-General, L. La Caze, 400l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_c_mallet_paret",
+        "name": "C. Mallet Paret",
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Solicitor-General",
+            "colony": "ST_LUCIA",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "123, 168",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_m_dix",
+        "name": "M. Dix",
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Treasurer",
+            "colony": "ST_LUCIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "149",
+          "original_text": "Treasurer, M. Dix, 400l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_thomas_parker",
+        "name": "Thomas Parker",
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Auditor-General",
+            "colony": "ST_LUCIA",
+            "status": "permanent"
+          },
+          {
+            "title": "Auditor",
+            "colony": "ST_LUCIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 170,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "124, 158",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "ST_LUCIA",
+        "location": "Castries",
+        "year": "1867",
+        "composition": {
+          "total_members": 6,
+          "official_members": 4,
+          "unofficial_members": 2
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "108-116",
+          "original_text": "Executive Council. The Administrator of the Government. The Attorney-General. The Colonial Treasurer. The Auditor-General. F. Beausoleil. J. S. Moffat.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "ST_LUCIA",
+        "location": "Castries",
+        "year": "1867",
+        "composition": {
+          "total_members": 13,
+          "official_members": 6,
+          "unofficial_members": 7
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "117-135",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_municipal_corp_castries",
+        "name": "Municipal Corporation, Castries",
+        "type": "municipal_council",
+        "colony": "ST_LUCIA",
+        "location": "Castries",
+        "year": "1867",
+        "composition": {
+          "total_members": 9,
+          "details": "Including the Mayor"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "138-142",
+          "original_text": "Municipal Corporation, Castries. John Grant, Mayor. Conceillors, N. A. Cools, C. J. Fauchier, F. MacFarlane, H. Minvielle, John Moffat, E. Lawrence, F. Myers, M. G. Todd.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1857",
+        "type": "revenue",
+        "colony": "ST_LUCIA",
+        "year": "1867",
+        "year_applies": "1857",
+        "data": {
+          "value": 13332,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "44",
+          "original_text": "1857 | 13,332",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1857",
+        "type": "expenditure",
+        "colony": "ST_LUCIA",
+        "year": "1867",
+        "year_applies": "1857",
+        "data": {
+          "value": 12599,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "44",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_revenue_1865",
+        "type": "revenue",
+        "colony": "ST_LUCIA",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 11736,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "52",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1865",
+        "type": "expenditure",
+        "colony": "ST_LUCIA",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 13780,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "52",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_stlucia_1851",
+        "colony": "ST_LUCIA",
+        "year": "1867",
+        "year_applies": "1851",
+        "population": {
+          "total": 24290
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "88",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_stlucia_1865",
+        "colony": "ST_LUCIA",
+        "year": "1867",
+        "year_applies": "1865",
+        "population": {
+          "total": 29444,
+          "breakdown": {
+            "coloured": 28552
+          }
+        },
+        "notes": "Of whom 28,552 are coloured",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "91-93",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_coolie_immigration_1859",
+        "type": "other",
+        "description": "The introduction of Coolie labourers commenced, with four ships landing immigrants at Port Castries in 1859-1860",
+        "year_mentioned": "1867",
+        "event_date": {
+          "year": "1859",
+          "precision": "year"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "28",
+          "original_text": "The introduction of Coolie labourers commenced in 1859, and in that and the following year four ships with immigrants landed their cargoes at Port Castries.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_british_final_conquest_1803",
+        "type": "transfer",
+        "description": "St. Lucia surrendered on capitulation to General Grinfield on 22nd June 1803, and has continued without interruption under British rule since",
+        "year_mentioned": "1867",
+        "event_date": {
+          "year": "1803",
+          "month": "June",
+          "day": "22",
+          "precision": "exact"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+          "source_lines": "26",
+          "original_text": "on the renewal of hostilities, it surrendered on capitulation to General Grinfield on the 22nd June, 1803, since which period it has continued without interruption under British rule.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_castries",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_st_lucia",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_soufriere",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_st_lucia",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_j_m_grant",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "position": "President (Administrator of the Government)",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "inst_executive_council",
+      "relationship_type": "PART_OF",
+      "target_id": "place_st_lucia",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "inst_legislative_council",
+      "relationship_type": "PART_OF",
+      "target_id": "place_st_lucia",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/ST_LUCIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 32,
+    "entities_by_type": {
+      "places": 6,
+      "people": 8,
+      "institutions": 3,
+      "economic_data": 4,
+      "demographics": 2,
+      "events": 2,
+      "infrastructure": 0
+    },
+    "total_relationships": 5,
+    "relationships_by_type": {
+      "LOCATED_IN": 2,
+      "HOLDS_POSITION": 1,
+      "PART_OF": 2
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

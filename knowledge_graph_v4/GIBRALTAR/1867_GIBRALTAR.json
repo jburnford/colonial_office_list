@@ -1,0 +1,645 @@
+{
+  "metadata": {
+    "year": "1867",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1867.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1867_manual_parsed",
+    "extraction_date": "2025-11-17T10:30:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM-based extraction)",
+    "colonies_processed": ["GIBRALTAR"],
+    "processing_notes": "Gibraltar under War Office control (except Convict Establishment). Strategic military territory adjacent to Spain. Very brief entry in early Colonial Office Lists."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCB": {
+        "full_name": "Knight Commander of the Order of the Bath",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "Kt": {
+        "full_name": "Knight",
+        "type": "knighthood",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Lt.-Gen.": {
+        "full_form": "Lieutenant-General",
+        "category": "military"
+      },
+      "Capt.": {
+        "full_form": "Captain",
+        "category": "military"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Attorney-General": {
+        "canonical_name": "Attorney-General",
+        "hierarchy_level": 3,
+        "category": "judicial"
+      },
+      "Collector of Revenue": {
+        "canonical_name": "Collector of Revenue",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      }
+    },
+    "institution_types": {
+      "military_fortress": {
+        "description": "Fortified military garrison and naval base",
+        "parent_type": "military"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_gibraltar",
+        "name": "Gibraltar",
+        "type": "territory",
+        "year": "1867",
+        "area": {
+          "value": 1.25,
+          "unit": "square_miles",
+          "source": "Calculated from dimensions in source"
+        },
+        "physical_features": {
+          "elevation": "1,439 feet",
+          "length": "2½ miles",
+          "breadth": "¼ of a mile",
+          "description": "Narrow peninsula running south-westwards from south-west coast of Spain"
+        },
+        "coordinates": {
+          "latitude": 36.108333,
+          "longitude": -5.353333,
+          "source": "Implied from description (36° 6' 30\" N, 5° 21' 12\" W not stated in 1867 but in later years)"
+        },
+        "strategic_importance": "Royal Navy base, controls Straits of Gibraltar",
+        "location_context": {
+          "mentioned_in_colony": "GIBRALTAR",
+          "actual_location_country": "British Gibraltar (adjacent to Spain)",
+          "certainty": "definite",
+          "reasoning": "British territory on Iberian Peninsula since 1704"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "1-10",
+          "original_text": "GIBRALTAR. With the exception of the Convict Establishment, Gibraltar is under the control of the Secretary of State for War. Total Population (but exclusive of Military), 15,462. Military, 6,638.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_spain",
+        "name": "Spain",
+        "type": "other",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "GIBRALTAR",
+          "actual_location_country": "Spain",
+          "certainty": "definite",
+          "reasoning": "Adjacent country to Gibraltar, referenced as neighboring territory"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "1-3",
+          "original_text": "narrow peninsula running south-westwards from the south-west coast of Spain",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_richard_airey",
+        "name": "Richard Airey",
+        "name_variants": ["Sir Richard Airey", "R. Airey"],
+        "titles": ["Sir", "Lt.-Gen."],
+        "honors": [
+          {
+            "honor": "KCB",
+            "full_name": "Knight Commander of the Order of the Bath"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "GIBRALTAR",
+            "status": "permanent",
+            "salary": {
+              "amount": 5000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "16",
+          "original_text": "Governor, Lt.-Gen. Sir Richard Airy, K.C.B., 5,000l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated",
+          "notes": "Name appears as 'Airy' in source but likely 'Airey'"
+        }
+      },
+      {
+        "id": "person_s_freeling",
+        "name": "S. Freeling",
+        "name_variants": ["Capt. S. Freeling"],
+        "titles": ["Capt."],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "GIBRALTAR",
+            "status": "permanent",
+            "department": "Royal Artillery",
+            "salary": {
+              "amount": 733,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "17",
+          "original_text": "Colonial Secretary, Capt. S. Freeing, R.A., 733l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated",
+          "notes": "Name appears as 'Freeing' but likely 'Freeling'; R.A. = Royal Artillery"
+        }
+      },
+      {
+        "id": "person_w_mitchell",
+        "name": "W. Mitchell",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Clerk",
+            "colony": "GIBRALTAR",
+            "status": "permanent",
+            "salary": {
+              "amount": 230,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "18",
+          "original_text": "Chief Clerk, W. Mitchell, 230l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_bell",
+        "name": "J. Bell",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Inspector of Revenue",
+            "colony": "GIBRALTAR",
+            "status": "permanent",
+            "salary": {
+              "amount": 320,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "20",
+          "original_text": "Inspector of Revenue, J. Bell, 320l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_elliot",
+        "name": "W. Elliot",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Civil Engineer",
+            "colony": "GIBRALTAR",
+            "status": "permanent",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "21",
+          "original_text": "Civil Engineer, W. Elliot, 400l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_c_edmunds",
+        "name": "C. Edmunds",
+        "name_variants": ["Capt. C. Edmunds"],
+        "titles": ["Capt."],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Captain of Port",
+            "colony": "GIBRALTAR",
+            "status": "permanent",
+            "salary": {
+              "amount": 600,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "22",
+          "original_text": "Captain of Port, Capt. C. Edmunds, 600l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_f_sayer",
+        "name": "F. Sayer",
+        "name_variants": ["Capt. F. Sayer"],
+        "titles": ["Capt."],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Police Magistrate",
+            "colony": "GIBRALTAR",
+            "status": "permanent",
+            "salary": {
+              "amount": 627,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "23",
+          "original_text": "Police Magistrate, Capt. F. Sayer, 627l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_cochrane",
+        "name": "J. Cochrane",
+        "name_variants": ["Sir J. Cochrane"],
+        "titles": ["Sir"],
+        "honors": [
+          {
+            "honor": "Kt",
+            "full_name": "Knight"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "GIBRALTAR",
+            "status": "permanent",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "24",
+          "original_text": "Chief Justice, Sir J. Cochrane, Kt., 1,000l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_m_costello",
+        "name": "M. Costello",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "GIBRALTAR",
+            "status": "permanent",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "25",
+          "original_text": "Attorney-General, M. Costello, 800l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_t_sleeman",
+        "name": "T. Sleeman",
+        "name_variants": ["Rev. T. Sleeman"],
+        "titles": ["Rev"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Civil Chaplain",
+            "colony": "GIBRALTAR",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "26",
+          "original_text": "Civil Chaplain, Rev. T. Sleeman, 300l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1863",
+        "type": "revenue",
+        "colony": "GIBRALTAR",
+        "year": "1867",
+        "year_applies": "1863",
+        "data": {
+          "value": 47110,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "9-14",
+          "original_text": "1863 | £47,110",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1863",
+        "type": "expenditure",
+        "colony": "GIBRALTAR",
+        "year": "1867",
+        "year_applies": "1863",
+        "data": {
+          "value": 35610,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "9-14",
+          "original_text": "1863 | £35,610",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_revenue_1864",
+        "type": "revenue",
+        "colony": "GIBRALTAR",
+        "year": "1867",
+        "year_applies": "1864",
+        "data": {
+          "value": 88066,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "9-14",
+          "original_text": "1864 | 88,066",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1864",
+        "type": "expenditure",
+        "colony": "GIBRALTAR",
+        "year": "1867",
+        "year_applies": "1864",
+        "data": {
+          "value": 34995,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "9-14",
+          "original_text": "1864 | 34,995",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_gibraltar_1867",
+        "colony": "GIBRALTAR",
+        "year": "1867",
+        "year_applies": "1867",
+        "population": {
+          "total": 15462,
+          "breakdown": {
+            "civilian": 15462,
+            "military": 6638
+          }
+        },
+        "notes": "Population exclusive of military: 15,462. Military population: 6,638. Total combined: 22,100.",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "5-7",
+          "original_text": "Total Population (but exclusive of Military), 15,462. Military, 6,638.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_capture_1704",
+        "type": "annexation",
+        "description": "Gibraltar was captured by British Forces",
+        "event_date": {
+          "year": "1704",
+          "month": "July",
+          "day": "24",
+          "precision": "exact"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "locations": ["place_gibraltar"],
+        "historical_significance": "British acquisition of Gibraltar, later ceded by Treaty of Utrecht 1713",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+          "source_lines": "1",
+          "original_text": "Implied from entry context",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "inferred",
+          "verification_status": "automated",
+          "notes": "Capture date known from historical context"
+        }
+      }
+    ],
+    "infrastructure": []
+  },
+  "relationships": [
+    {
+      "source_id": "place_gibraltar",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_spain",
+      "properties": {
+        "confidence": "definite",
+        "notes": "Peninsula extending from Spain"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_richard_airey",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_gibraltar",
+      "properties": {
+        "position": "Governor",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/GIBRALTAR.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 20,
+    "entities_by_type": {
+      "places": 2,
+      "people": 10,
+      "institutions": 0,
+      "economic_data": 4,
+      "demographics": 1,
+      "events": 1,
+      "infrastructure": 0
+    },
+    "total_relationships": 2,
+    "relationships_by_type": {
+      "LOCATED_IN": 1,
+      "GOVERNS": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

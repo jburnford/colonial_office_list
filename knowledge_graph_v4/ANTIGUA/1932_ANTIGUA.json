@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "year": "1932",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1932.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1932_manual_parsed",
+    "extraction_date": "2025-11-17T21:33:28.640939",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": [
+      "ANTIGUA"
+    ],
+    "processing_notes": "Extracted from 1932 Colonial Office List"
+  },
+  "colony_info": {
+    "official_name": "Antigua",
+    "colonial_status": "Crown Colony",
+    "part_of_federation": "Leeward Islands",
+    "capital": "St. John's"
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_antigua",
+        "name": "Antigua",
+        "type": "colony",
+        "year": "1932",
+        "location_context": {
+          "mentioned_in_colony": "ANTIGUA",
+          "actual_location_country": "Antigua",
+          "certainty": "definite"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1932_manual_parsed/ANTIGUA.md",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:33:28.640942",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_st_johns",
+        "name": "St. John's",
+        "type": "city",
+        "year": "1932",
+        "location_context": {
+          "mentioned_in_colony": "ANTIGUA",
+          "actual_location_country": "Antigua",
+          "certainty": "definite"
+        },
+        "parent_location": "place_antigua",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1932_manual_parsed/ANTIGUA.md",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T21:33:28.640944",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_barbuda",
+        "name": "Barbuda",
+        "type": "island",
+        "year": "1932",
+        "location_context": {
+          "mentioned_in_colony": "ANTIGUA",
+          "actual_location_country": "Antigua (dependency)",
+          "certainty": "definite"
+        },
+        "parent_location": "place_antigua",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1932_manual_parsed/ANTIGUA.md",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T21:33:28.640945",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "people": [],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council (Local)",
+        "type": "executive_council",
+        "colony": "Antigua",
+        "year": "1932",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1932_manual_parsed/ANTIGUA.md",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T21:33:28.640947",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council (Local)",
+        "type": "legislative_council",
+        "colony": "Antigua",
+        "year": "1932",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1932_manual_parsed/ANTIGUA.md",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T21:33:28.640948",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table"
+        }
+      }
+    ],
+    "economic_data": [],
+    "demographics": [],
+    "infrastructure": [],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "place_barbuda",
+      "relationship_type": "PART_OF",
+      "target_id": "place_antigua",
+      "properties": {
+        "year": "1932",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1932_manual_parsed/ANTIGUA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_st_johns",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_antigua",
+      "properties": {
+        "year": "1932",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1932_manual_parsed/ANTIGUA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 5,
+    "entities_by_type": {
+      "places": 3,
+      "people": 0,
+      "institutions": 2,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "total_relationships": 2,
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

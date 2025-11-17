@@ -1,0 +1,457 @@
+{
+  "metadata": {
+    "year": "1920",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1920.pdf",
+    "source_directory": "output_2/1920_manual_parsed",
+    "extraction_date": "2025-11-17T11:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 LLM Context Extraction",
+    "colonies_processed": ["ST_LUCIA"],
+    "processing_notes": "Complete extraction for St. Lucia 1920 including post-WWI data"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "GCMG": {
+        "full_name": "Knight Grand Cross of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 1
+      },
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      }
+    },
+    "titles": {
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Lieut-Col": {
+        "full_form": "Lieutenant-Colonel",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Administrator": {
+        "canonical_name": "Administrator of the Government",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      }
+    }
+  },
+  "colony_info": {
+    "official_name": "St. Lucia",
+    "colonial_status": "Crown Colony (Windward Islands)",
+    "capital": "Castries",
+    "regional_grouping": "Windward Islands",
+    "coordinates": {
+      "latitude": 13.8333,
+      "longitude": -60.9667,
+      "source": "Page 1, lines 4-6"
+    },
+    "area": {
+      "value": 233.29,
+      "unit": "square_miles",
+      "source": "Page 1, line 6"
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_st_lucia",
+        "name": "St. Lucia",
+        "type": "colony",
+        "year": "1920",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Main colony"
+        },
+        "coordinates": {
+          "latitude": 13.8333,
+          "longitude": -60.9667,
+          "source": "Lines 4-6"
+        },
+        "area": {
+          "value": 233.29,
+          "unit": "square_miles",
+          "source": "Line 6"
+        },
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/ST_LUCIA.md",
+          "source_lines": "4-6",
+          "original_text": "It is situated in 13° 50' N. lat., and 60° 58' W. long.; at a distance of 24 miles to the south-east of Martinique, and 21 to the north-east of St. Vincent. It is 24 miles in length, and 12 at its greatest breadth; its circumference is 150 miles, and its area 233·29 sq. miles",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_castries",
+        "name": "Castries",
+        "type": "city",
+        "year": "1920",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Capital city"
+        },
+        "population": {
+          "total": 6266,
+          "year": "1920",
+          "source": "Line 7"
+        },
+        "parent_location": "place_st_lucia",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/ST_LUCIA.md",
+          "source_lines": "6-7",
+          "original_text": "Castries, the capital of the island, contains about 1,254 houses, and a population of about 6,266 souls",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_soufriere",
+        "name": "Soufrière",
+        "type": "town",
+        "year": "1920",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Second most important town"
+        },
+        "population": {
+          "total": 2300,
+          "year": "1920",
+          "source": "Line 7"
+        },
+        "parent_location": "place_st_lucia",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/ST_LUCIA.md",
+          "source_lines": "7",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_davidson_houston",
+        "name": "W. B. Davidson-Houston",
+        "name_variants": ["Lieut.-Col. W. B. Davidson-Houston"],
+        "titles": ["Lieut-Col"],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "year": "1920",
+        "positions": [
+          {
+            "title": "Administrator of the Government and Colonial Secretary",
+            "colony": "ST_LUCIA",
+            "location": "Castries",
+            "status": "permanent",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "entertainment",
+                "amount": 300,
+                "currency": "£",
+                "description": "Entertainment allowance"
+              }
+            ]
+          }
+        ],
+        "biographical": {
+          "previous_service": "Appointed 1918"
+        },
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/ST_LUCIA.md",
+          "source_lines": "265",
+          "original_text": "Administrator of the Government and Colonial Secretary, Lieut.Col. W. B. Davidson-Houston, C.M.G., 1,000l., and 300l. entertainment allowance.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_a_de_freitas",
+        "name": "A. De Freitas",
+        "year": "1920",
+        "honors": [
+          {
+            "honor": "OBE",
+            "full_name": "Officer of the Order of the British Empire"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "ST_LUCIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 700,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/ST_LUCIA.md",
+          "source_lines": "329",
+          "original_text": "Chief Justice, A. De Freitas, O.B.E., 700l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "ST_LUCIA",
+        "location": "Castries",
+        "year": "1920",
+        "composition": {
+          "total_members": 7
+        },
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/ST_LUCIA.md",
+          "source_lines": "226-234",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "ST_LUCIA",
+        "location": "Castries",
+        "year": "1920",
+        "composition": {
+          "total_members": 11,
+          "official_members": 6,
+          "unofficial_members": 5
+        },
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/ST_LUCIA.md",
+          "source_lines": "238-261",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1918-19",
+        "type": "revenue",
+        "colony": "ST_LUCIA",
+        "year": "1920",
+        "year_applies": "1918-19",
+        "data": {
+          "value": 73284,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/ST_LUCIA.md",
+          "source_lines": "181",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1918-19",
+        "type": "expenditure",
+        "colony": "ST_LUCIA",
+        "year": "1920",
+        "year_applies": "1918-19",
+        "data": {
+          "value": 77916,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/ST_LUCIA.md",
+          "source_lines": "181",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_customs_revenue_1918-19",
+        "type": "revenue",
+        "colony": "ST_LUCIA",
+        "year": "1920",
+        "year_applies": "1918-19",
+        "data": {
+          "value": 33774,
+          "currency": "£",
+          "category": "customs revenue"
+        },
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/ST_LUCIA.md",
+          "source_lines": "166",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_stlucia_1911",
+        "colony": "ST_LUCIA",
+        "year": "1920",
+        "year_applies": "1911",
+        "population": {
+          "total": 48637
+        },
+        "notes": "Census 1911",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/ST_LUCIA.md",
+          "source_lines": "162",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_stlucia_1920",
+        "colony": "ST_LUCIA",
+        "year": "1920",
+        "year_applies": "1920",
+        "population": {
+          "total": 54311
+        },
+        "notes": "Population now amounts to about 54,311 with most inhabitants speaking French patois, about 600 East Indian immigrants",
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/ST_LUCIA.md",
+          "source_lines": "14",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_govt_savings_bank",
+        "name": "Government Savings Bank",
+        "type": "other",
+        "colony": "ST_LUCIA",
+        "year": "1920",
+        "description": "Government savings bank with branch banks at Soufrière, Vieux Fort, Dennery, Gros Islet, and Anse-la-Raye",
+        "established": "1871",
+        "operation": {
+          "depositors": 1287,
+          "deposits": {
+            "amount": 20907,
+            "currency": "£",
+            "year": "1918"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1920_manual_parsed/ST_LUCIA.md",
+          "source_lines": "136",
+          "original_text": "A Government savings bank was established in 1871, and has now 1,287 depositors, with 20,907l. to their credit on 31st December, 1918. Branch savings banks were opened at Soufrière and Vieux Fort in March, 1898, at Dennery and Gros Islet in November, 1905, and at Anse-la-Raye in December, 1906.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "place_castries",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_st_lucia",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1920_manual_parsed/ST_LUCIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 12,
+    "entities_by_type": {
+      "places": 3,
+      "people": 2,
+      "institutions": 2,
+      "economic_data": 3,
+      "demographics": 2,
+      "infrastructure": 1,
+      "events": 0
+    },
+    "total_relationships": 1,
+    "relationships_by_type": {
+      "LOCATED_IN": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

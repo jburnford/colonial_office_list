@@ -1,0 +1,867 @@
+{
+  "metadata": {
+    "year": "1900",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1900.pdf",
+    "source_directory": "output_2/1900_manual_parsed",
+    "extraction_date": "2025-11-17T14:45:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["CYPRUS"],
+    "processing_notes": "Cyprus under British administration, before Crown Colony status (established 1923)"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Capt": {
+        "full_form": "Captain",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "High Commissioner": {
+        "canonical_name": "High Commissioner",
+        "hierarchy_level": 1,
+        "category": "executive"
+      },
+      "Chief Secretary": {
+        "canonical_name": "Chief Secretary to Government",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Queen's Advocate": {
+        "canonical_name": "Queen's Advocate",
+        "hierarchy_level": 3,
+        "category": "judicial"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Advisory council to the High Commissioner"
+      },
+      "legislative_council": {
+        "description": "Legislative body with elected and non-elective members"
+      },
+      "supreme_court": {
+        "description": "Highest court in the colony"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_cyprus",
+        "name": "Cyprus",
+        "type": "island",
+        "year": "1900",
+        "location_context": {
+          "mentioned_in_colony": "CYPRUS",
+          "actual_location_country": "Cyprus (British protectorate)",
+          "certainty": "definite",
+          "reasoning": "Main territory under British administration since 1878"
+        },
+        "coordinates": {
+          "latitude": 35.0,
+          "longitude": 33.25,
+          "source": "Between 34° 33' and 35° 41' N. latitude, and between 32° 20' and 34° 35' E. longitude"
+        },
+        "area": {
+          "value": 3584,
+          "unit": "square_miles",
+          "source": "Systematically surveyed, 3,584 square miles, equal to Kent, Sussex, and Middlesex combined"
+        },
+        "population": {
+          "total": 209286,
+          "year": "1891",
+          "breakdown": {
+            "muslims_percent": 23,
+            "christians_greek_orthodox_percent": 77
+          },
+          "source": "Census 1891"
+        },
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "1-43",
+          "source_section": "CYPRUS > Situation and Topography, Population",
+          "original_text": "The Island of Cyprus... area is 3,584 square miles... Total ... 209,286",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_nicosia",
+        "name": "Nicosia",
+        "type": "city",
+        "year": "1900",
+        "location_context": {
+          "mentioned_in_colony": "CYPRUS",
+          "actual_location_country": "Cyprus",
+          "certainty": "definite",
+          "reasoning": "Capital city of Cyprus"
+        },
+        "population": {
+          "total": 12515,
+          "year": "1900",
+          "source": "12,515 (11,536 in 1881) inhabitants"
+        },
+        "parent_location": "place_cyprus",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "44-46",
+          "source_section": "CYPRUS > Towns",
+          "original_text": "The chief towns are Nicosia, the capital, 12,515 (11,536 in 1881) inhabitants",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_larnaca",
+        "name": "Larnaca",
+        "type": "city",
+        "year": "1900",
+        "location_context": {
+          "mentioned_in_colony": "CYPRUS",
+          "actual_location_country": "Cyprus",
+          "certainty": "definite",
+          "reasoning": "Port city on southern coast"
+        },
+        "population": {
+          "total": 7593,
+          "year": "1900",
+          "source": "7,593 (7,838 in 1881)"
+        },
+        "parent_location": "place_cyprus",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "44-46",
+          "source_section": "CYPRUS > Towns",
+          "original_text": "Larnaca, 7,593 (7,838 in 1881)",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_limassol",
+        "name": "Limassol",
+        "type": "city",
+        "year": "1900",
+        "location_context": {
+          "mentioned_in_colony": "CYPRUS",
+          "actual_location_country": "Cyprus",
+          "certainty": "definite",
+          "reasoning": "Port city on southern coast"
+        },
+        "population": {
+          "total": 7388,
+          "year": "1900",
+          "source": "7,388 (6,006 in 1881)"
+        },
+        "parent_location": "place_cyprus",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "44-46",
+          "source_section": "CYPRUS > Towns",
+          "original_text": "Limassol, 7,388 (6,006 in 1881)",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_famagusta",
+        "name": "Famagusta",
+        "type": "city",
+        "year": "1900",
+        "location_context": {
+          "mentioned_in_colony": "CYPRUS",
+          "actual_location_country": "Cyprus",
+          "certainty": "definite",
+          "reasoning": "Historic port on east coast"
+        },
+        "population": {
+          "total": 763,
+          "year": "1900",
+          "source": "763 (658 in 1881) inhabitants, nearly all Moslems"
+        },
+        "parent_location": "place_cyprus",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "44-47",
+          "source_section": "CYPRUS > Towns",
+          "original_text": "Famagusta... has only 763 (658 in 1881) inhabitants, nearly all Moslems",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_mount_troodos",
+        "name": "Mount Troodos",
+        "type": "other",
+        "year": "1900",
+        "location_context": {
+          "mentioned_in_colony": "CYPRUS",
+          "actual_location_country": "Cyprus",
+          "certainty": "definite",
+          "reasoning": "Highest mountain in southern range"
+        },
+        "parent_location": "place_cyprus",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "10-11",
+          "source_section": "CYPRUS > General Description",
+          "original_text": "The highest summit of this range is Mount Troodos, 6,406 feet above the sea level",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_william_haynes_smith",
+        "name": "William F. Haynes-Smith",
+        "name_variants": ["W. F. Haynes-Smith", "Sir W. F. Haynes-Smith"],
+        "titles": ["Sir"],
+        "honors": [
+          {
+            "honor": "KCMG",
+            "full_name": "Knight Commander of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "High Commissioner",
+            "colony": "CYPRUS",
+            "location": "Nicosia",
+            "status": "permanent",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "biographical": {
+          "previous_service": "Appointed 1898"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "329-373",
+          "source_section": "CYPRUS > List of Principal Civil Officials",
+          "original_text": "High Commissioner, Sir W. F. Haynes-Smith, K.C.M.G., 3,000l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_arthur_young",
+        "name": "Arthur H. Young",
+        "name_variants": ["A. H. Young", "Capt. A. H. Young"],
+        "titles": ["Capt"],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Chief Secretary to Government",
+            "colony": "CYPRUS",
+            "location": "Nicosia",
+            "status": "permanent",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "375",
+          "source_section": "CYPRUS > List of Principal Civil Officials",
+          "original_text": "Chief Secretary to Government, Capt. A. H. Young, C.M.G., 800l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_john_hutchinson",
+        "name": "John Hutchinson",
+        "name_variants": ["J. Hutchinson", "Sir J. Hutchinson"],
+        "titles": ["Sir"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "CYPRUS",
+            "location": "Nicosia",
+            "status": "permanent",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "417",
+          "source_section": "CYPRUS > Courts of Justice > Supreme Court",
+          "original_text": "Chief Justice, Sir J. Hutchinson, 1,000l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_archibald_lascelles",
+        "name": "Archibald G. Lascelles",
+        "name_variants": ["A. G. Lascelles"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Queen's Advocate",
+            "colony": "CYPRUS",
+            "location": "Nicosia",
+            "status": "permanent",
+            "salary": {
+              "amount": 750,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "380",
+          "source_section": "CYPRUS > List of Principal Civil Officials",
+          "original_text": "Queen's Advocate, A. G. Lascelles, 750l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_frederick_heidenstam",
+        "name": "Frederick C. Heidenstam",
+        "name_variants": ["F. C. Heidenstam", "Dr. Heidenstam"],
+        "titles": ["Dr"],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Chief Medical Officer",
+            "colony": "CYPRUS",
+            "location": "Nicosia",
+            "status": "permanent",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "personal",
+                "amount": 50,
+                "currency": "£",
+                "description": "personal allowance"
+              }
+            ]
+          }
+        ],
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "384",
+          "source_section": "CYPRUS > List of Principal Civil Officials",
+          "original_text": "Chief Medical Officer, Dr. Heidenstam, C.M.G., 500l. and 50l. personal allowance",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "CYPRUS",
+        "location": "Nicosia",
+        "composition": {
+          "total_members": 7,
+          "notes": "High Commissioner + 6 members"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "337-349",
+          "source_section": "CYPRUS > Executive Council",
+          "original_text": "Executive Council: High Commissioner, Sir W. F. Haynes-Smith, K.C.M.G....",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "CYPRUS",
+        "location": "Nicosia",
+        "composition": {
+          "total_members": 18,
+          "official_members": 6,
+          "elected_members": 12,
+          "notes": "3 elected by Mahometan voters, 9 by non-Mahometan voters"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "350-370",
+          "source_section": "CYPRUS > Legislative Council",
+          "original_text": "Legislative Council: President, The High Commissioner. Non-Elective Members... Elected Members...",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_supreme_court",
+        "name": "Supreme Court",
+        "type": "supreme_court",
+        "colony": "CYPRUS",
+        "location": "Nicosia",
+        "composition": {
+          "total_members": 2,
+          "notes": "Chief Justice and Puisne Judge"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "416-419",
+          "source_section": "CYPRUS > Courts of Justice > Supreme Court",
+          "original_text": "Supreme Court—Chief Justice, Sir J. Hutchinson, 1,000l. Puisne Judge, J. P. Middleton, 750l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_imperial_ottoman_bank",
+        "name": "Imperial Ottoman Bank",
+        "type": "other",
+        "colony": "CYPRUS",
+        "location": "Larnaca",
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "79",
+          "source_section": "CYPRUS > Currency and Banking",
+          "original_text": "The Imperial Ottoman Bank has a branch established at Larnaca, and an agency at Nicosia",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1898_99",
+        "type": "revenue",
+        "colony": "CYPRUS",
+        "year_applies": "1898-99",
+        "data": {
+          "value": 210284,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "273-287",
+          "source_section": "CYPRUS > Finances",
+          "original_text": "1898-99 | £210,284",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1898_99",
+        "type": "expenditure",
+        "colony": "CYPRUS",
+        "year_applies": "1898-99",
+        "data": {
+          "value": 132975,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "273-287",
+          "source_section": "CYPRUS > Finances",
+          "original_text": "1898-99 | £132,975",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_tribute_turkey",
+        "type": "debt",
+        "colony": "CYPRUS",
+        "year_applies": "1900",
+        "data": {
+          "value": 92800,
+          "currency": "£",
+          "category": "annual payment to Turkey",
+          "description": "Under Convention of 1878, appropriated to interest on Guaranteed Loan of 1855"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "288",
+          "source_section": "CYPRUS > Finances",
+          "original_text": "Sum payable to Turkey under the Convention of 1878 and subsequent arrangements, £92,800, a year, but this is appropriated to the interest on the Guaranteed Loan of 1855.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1898_99",
+        "type": "imports",
+        "colony": "CYPRUS",
+        "year_applies": "1898-99",
+        "data": {
+          "value": 288258,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "295-309",
+          "source_section": "CYPRUS > Imports",
+          "original_text": "1898-99 | Total *288,258",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1898_99",
+        "type": "exports",
+        "colony": "CYPRUS",
+        "year_applies": "1898-99",
+        "data": {
+          "value": 343687,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "313-326",
+          "source_section": "CYPRUS > Exports",
+          "original_text": "1898-99 | Total 343,687",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_customs_revenue_1898_99",
+        "type": "revenue",
+        "colony": "CYPRUS",
+        "year_applies": "1898-99",
+        "data": {
+          "value": 28943,
+          "currency": "£",
+          "category": "customs revenue"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "290",
+          "source_section": "CYPRUS > Finances",
+          "original_text": "Customs revenue in 1898-99—£28,943.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_census_1891",
+        "colony": "CYPRUS",
+        "year_applies": "1891",
+        "population": {
+          "total": 209286,
+          "breakdown": {
+            "Nicosia": 61695,
+            "Famagusta": 41423,
+            "Larnaca": 23760,
+            "Limassol": 35730,
+            "Papho": 31674,
+            "Kyrenia": 15004
+          }
+        },
+        "notes": "Census taken in 1881 and 1891, showing increase of 23,113 during the decade. Moslems form about 23 per cent. of the population, rest being nearly all Christians of the Orthodox Greek Church.",
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "27-42",
+          "source_section": "CYPRUS > Population",
+          "original_text": "The population of the several districts... Total ... 209,286... This shows an increase during the decade of 23,113",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_1878_convention",
+        "type": "treaty",
+        "description": "Convention signed at Constantinople between representatives of Her Britannic Majesty and the Sultan of Turkey, by which England engaged to join the Sultan in defending his Asiatic possessions against Russia in certain contingencies, and the Sultan consented to assign the Island of Cyprus, to be occupied and administered by England",
+        "event_date": {
+          "year": "1878",
+          "month": "June",
+          "day": "4",
+          "precision": "exact"
+        },
+        "year_mentioned": "1900",
+        "locations": ["place_cyprus"],
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "143-157",
+          "source_section": "CYPRUS > British Occupation",
+          "original_text": "On the 4th June, 1878, a Convention was signed at Constantinople...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_administrators_succession",
+        "type": "other",
+        "description": "Succession of High Commissioners/Administrators: 1878 Maj.-Gen. Sir Garnet Wolsely, 1879 Col. Robert Biddulph, 1886 Sir H. Bulwer, 1892 Sir W. J. Sendall, 1898 Sir W. F. Haynes-Smith",
+        "event_date": {
+          "year": "1898",
+          "precision": "year"
+        },
+        "year_mentioned": "1900",
+        "locations": ["place_cyprus"],
+        "participants": ["person_william_haynes_smith"],
+        "year": "1900",
+        "provenance": {
+          "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+          "source_lines": "329-336",
+          "source_section": "CYPRUS > Administrators",
+          "original_text": "1878. Maj.-Gen. Sir Garnet (now Field Marshal Visct.) Wolsely... 1898. Sir W. F. Haynes-Smith, K.C.M.G.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T14:45:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_william_haynes_smith",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "role": "President",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_arthur_young",
+      "relationship_type": "REPORTS_TO",
+      "target_id": "person_william_haynes_smith",
+      "properties": {
+        "confidence": "inferred",
+        "notes": "Chief Secretary reports to High Commissioner"
+      },
+      "provenance": {
+        "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+        "extraction_confidence": 0.90,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "person_john_hutchinson",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_supreme_court",
+      "properties": {
+        "position": "Chief Justice",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_nicosia",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_cyprus",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "inst_executive_council",
+      "relationship_type": "OPERATES_IN",
+      "target_id": "place_cyprus",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1900_manual_parsed/CYPRUS.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 24,
+    "entities_by_type": {
+      "places": 6,
+      "people": 5,
+      "institutions": 4,
+      "economic_data": 6,
+      "infrastructure": 0,
+      "demographics": 1,
+      "events": 2
+    },
+    "total_relationships": 5,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 2,
+      "REPORTS_TO": 1,
+      "LOCATED_IN": 1,
+      "OPERATES_IN": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0,
+    "processing_time_seconds": 52.3
+  }
+}

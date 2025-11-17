@@ -1,0 +1,966 @@
+{
+  "metadata": {
+    "year": "1867",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1867.pdf",
+    "source_directory": "output_2/1867_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM-based extraction)",
+    "colonies_processed": ["DOMINICA"],
+    "processing_notes": "First year of Colonial Office List data for Dominica. Part of Leeward Islands government structure."
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {
+      "M.D.": {
+        "full_form": "Doctor of Medicine",
+        "category": "academic"
+      },
+      "D.D.": {
+        "full_form": "Doctor of Divinity",
+        "category": "academic"
+      },
+      "Bart": {
+        "full_form": "Baronet",
+        "category": "nobility"
+      }
+    },
+    "positions": {
+      "Lieutenant-Governor": {
+        "canonical_name": "Lieutenant-Governor",
+        "hierarchy_level": 2,
+        "typical_reports_to": "Governor-General of Leeward Islands",
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Treasurer": {
+        "canonical_name": "Treasurer",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Advisory council to the Lieutenant-Governor",
+        "parent_type": null
+      },
+      "legislative_assembly": {
+        "description": "Legislative body with nominated and elected members",
+        "parent_type": null
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_dominica",
+        "name": "Dominica",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica (Windward Islands, Caribbean)",
+          "certainty": "definite",
+          "reasoning": "Main colony entry"
+        },
+        "coordinates": {
+          "latitude": 15.52,
+          "longitude": -61.37,
+          "source": "Lines 3: between 15° 20' and 15° 45' N. lat., and 61° 13' and 61° 30' W. long."
+        },
+        "area": {
+          "value": 186436,
+          "unit": "acres",
+          "source": "Line 23: Its extent is estimated at 186,436 acres"
+        },
+        "population": {
+          "total": 25065,
+          "year": "1861",
+          "breakdown": {},
+          "source": "Line 44: Population in 1861: 25,065"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "1-44",
+          "source_section": "DOMINICA",
+          "original_text": "Dominica is an island, situate in the centre of the Carribean Sea, between 15° 20' and 15° 45' N. lat., and 61° 13' and 61° 30' W. long.; 29 miles long and 16 broad",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_roseau",
+        "name": "Roseau",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica",
+          "certainty": "definite",
+          "reasoning": "Capital city of Dominica mentioned multiple times"
+        },
+        "parent_location": "place_dominica",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "21-22, 27, 29",
+          "source_section": "DOMINICA",
+          "original_text": "Roseau, the capital, was set on fire accidentally...town of Roseau",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_portsmouth",
+        "name": "Portsmouth",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica",
+          "certainty": "definite",
+          "reasoning": "Town in Dominica mentioned in electoral qualifications"
+        },
+        "parent_location": "place_dominica",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "27, 29",
+          "source_section": "DOMINICA",
+          "original_text": "town of Roseau or Portsmouth",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_prince_ruperts",
+        "name": "Prince Ruperts",
+        "type": "settlement",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica",
+          "certainty": "definite",
+          "reasoning": "Garrison location mentioned in 1805 invasion account"
+        },
+        "parent_location": "place_dominica",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "21-22",
+          "source_section": "DOMINICA",
+          "original_text": "the superior garrison of Prince Ruperts",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_j_r_longden",
+        "name": "J. R. Longden",
+        "name_variants": ["J.R. Longden", "Longden"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Lieutenant-Governor",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 1300,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "81",
+          "source_section": "Civil Establishment",
+          "original_text": "Lieutenant-Governor, J. R. Longden, 1,300l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_macintyre",
+        "name": "W. Macintyre",
+        "name_variants": ["W. M'Intyre", "Macintyre"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Executive Council Member",
+            "colony": "DOMINICA",
+            "status": "permanent"
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "59, 77",
+          "source_section": "Executive Council",
+          "original_text": "W. Macintyre.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_h_mccoy",
+        "name": "W. H. M'Coy",
+        "name_variants": ["W.H. M'Coy", "McCoy"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary and Clerk of Council",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "fees",
+                "amount": 180,
+                "currency": "£",
+                "description": "Additional fees"
+              }
+            ]
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "83",
+          "source_section": "Civil Establishment",
+          "original_text": "Colonial Secretary and Clerk of Council, W. H. M'Coy, 400l. and fees 180l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_palmer",
+        "name": "J. Palmer",
+        "name_variants": ["Palmer"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Treasurer",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 380,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "fees",
+                "amount": 13,
+                "currency": "£",
+                "description": "Additional fees"
+              }
+            ]
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "84",
+          "source_section": "Civil Establishment",
+          "original_text": "Treasurer, J. Palmer, 380l., fees 13l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_s_pemberton",
+        "name": "S. Pemberton",
+        "name_variants": ["Pemberton"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Justice and Judge of the Court of Vice-Admiralty",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 600,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "fees",
+                "amount": 50,
+                "currency": "£",
+                "description": "Additional fees"
+              }
+            ]
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "103",
+          "source_section": "Judicial Establishment",
+          "original_text": "Chief Justice and Judge of the Court of Vice-Admiralty, S. Pemberton, 600l. and fees 50l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_t_w_doyle",
+        "name": "T. W. Doyle",
+        "name_variants": ["T.W. Doyle", "Doyle"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Speaker",
+            "institution_id": "inst_legislative_assembly",
+            "colony": "DOMINICA",
+            "status": "permanent"
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "67",
+          "source_section": "Legislative Assembly",
+          "original_text": "Speaker, T. W. Doyle.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_mary_dawbiney",
+        "name": "Mary Dawbiney",
+        "name_variants": ["M. Dawbiney", "Dawbiney"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Postmistress",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 100,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "94",
+          "source_section": "Civil Establishment",
+          "original_text": "Postmistress, Mary Dawbiney, 100l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "DOMINICA",
+        "composition": {
+          "total_members": 7,
+          "official_members": 7,
+          "unofficial_members": 0
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "57-63",
+          "source_section": "Executive Council",
+          "original_text": "Executive Council. Lieutenant-Governor, President. W. Macintyre. James Garraway. W. Lynch...",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_assembly",
+        "name": "Legislative Assembly",
+        "type": "legislative_assembly",
+        "colony": "DOMINICA",
+        "composition": {
+          "total_members": 14,
+          "official_members": 7,
+          "unofficial_members": 7,
+          "elected_members": 7,
+          "appointed_members": 7
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "25, 65-77",
+          "source_section": "Legislative Assembly",
+          "original_text": "In 1865...the Legislative Assembly was reduced...to 7 nominated and 7 elected members",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1865",
+        "type": "revenue",
+        "colony": "DOMINICA",
+        "year_applies": "1865",
+        "data": {
+          "value": 13531,
+          "currency": "£",
+          "unit": "pounds sterling"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "42",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "1865 | 13,531 | 12,786",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1865",
+        "type": "expenditure",
+        "colony": "DOMINICA",
+        "year_applies": "1865",
+        "data": {
+          "value": 12786,
+          "currency": "£",
+          "unit": "pounds sterling"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "42",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "1865 | 13,531 | 12,786",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1865",
+        "type": "imports",
+        "colony": "DOMINICA",
+        "year_applies": "1865",
+        "data": {
+          "value": 52374,
+          "currency": "£",
+          "unit": "pounds sterling"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "56",
+          "source_section": "Value of Imports and Exports",
+          "original_text": "1865 | 52,374 | 53,181",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1865",
+        "type": "exports",
+        "colony": "DOMINICA",
+        "year_applies": "1865",
+        "data": {
+          "value": 53181,
+          "currency": "£",
+          "unit": "pounds sterling"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "56",
+          "source_section": "Value of Imports and Exports",
+          "original_text": "1865 | 52,374 | 53,181",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_pop_1861",
+        "colony": "DOMINICA",
+        "year_applies": "1861",
+        "population": {
+          "total": 25065,
+          "breakdown": {}
+        },
+        "notes": "Census data as reported in 1867 Colonial Office List",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "44",
+          "source_section": "Population",
+          "original_text": "Population in 1861: 25,065.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_discovery_1493",
+        "type": "other",
+        "description": "Dominica was discovered by Christopher Columbus on Sunday the 3rd November, 1493, on his second voyage",
+        "event_date": {
+          "year": "1493",
+          "month": "November",
+          "day": "3",
+          "precision": "exact"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_dominica"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "3",
+          "source_section": "DOMINICA",
+          "original_text": "was discovered by Christopher Columbus, on Sunday (hence its name) the 3rd November, 1493, on his second voyage",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_grant_1627",
+        "type": "treaty",
+        "description": "This island was included in the grant made of sundry islands in the Carribean Sea to the Earl of Carlisle, by a patent, dated 2nd June, 1627",
+        "event_date": {
+          "year": "1627",
+          "month": "June",
+          "day": "2",
+          "precision": "exact"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_dominica"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "5",
+          "source_section": "DOMINICA",
+          "original_text": "This island was included in the grant made of sundry islands in the Carribean Sea to the Earl of Carlisle, by a patent, dated 2nd June, 1627",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_treaty_aix_la_chapelle_1748",
+        "type": "treaty",
+        "description": "By the treaty signed at Aix-la-Chapelle, in Prussia, in 1748, it was stipulated between the English and French that Dominica and some other islands should remain neutral",
+        "event_date": {
+          "year": "1748",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_dominica"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "5",
+          "source_section": "DOMINICA",
+          "original_text": "By the treaty signed at Aix-la-Chapelle, in Prussia, in 1748, it was stipulated between the English and French that Dominica and some other islands should remain neutral",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_conquest_1756",
+        "type": "annexation",
+        "description": "In 1756, Dominica became by conquest the property of the English",
+        "event_date": {
+          "year": "1756",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_dominica"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "5",
+          "source_section": "DOMINICA",
+          "original_text": "In 1756, Dominica became by conquest the property of the English",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_treaty_paris_1763",
+        "type": "treaty",
+        "description": "In 1763 a peace was signed at Paris between England and France, in the ninth article of which Dominica was assigned to Great Britain",
+        "event_date": {
+          "year": "1763",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_dominica"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "7",
+          "source_section": "DOMINICA",
+          "original_text": "In 1763 a peace was signed at Paris between England and France, in the ninth article of which Dominica was assigned to Great Britain",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_separate_govt_1771",
+        "type": "establishment",
+        "description": "In 1771, the island was formed into a separate Government under the administration of Sir Wm. Young, Bart.",
+        "event_date": {
+          "year": "1771",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_dominica"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "9",
+          "source_section": "DOMINICA",
+          "original_text": "In 1771, the island was formed into a separate Government under the administration of Sir Wm. Young, Bart.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_french_capture_1778",
+        "type": "other",
+        "description": "In 1778, the French prepared a military and naval armament against the island under the Marquis de Bouillé and became masters of the island on the 7th of September",
+        "event_date": {
+          "year": "1778",
+          "month": "September",
+          "day": "7",
+          "precision": "exact"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_dominica"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "13",
+          "source_section": "DOMINICA",
+          "original_text": "In 1778, the French...became masters of the island on the 7th of September",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_restoration_1783",
+        "type": "transfer",
+        "description": "In 1783, the island was again restored to the English, and Sir John Ord, Bart., was appointed Governor",
+        "event_date": {
+          "year": "1783",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_dominica"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "15",
+          "source_section": "DOMINICA",
+          "original_text": "In 1783, the island was again restored to the English, and Sir John Ord, Bart., was appointed Governor",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_invasion_attempt_1795",
+        "type": "other",
+        "description": "In 1795, another invasion of the island was attempted under the direction of Victor Hughes, the French Republican Chief, but was repulsed",
+        "event_date": {
+          "year": "1795",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_dominica"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "17-19",
+          "source_section": "DOMINICA",
+          "original_text": "In 1795, another invasion of the island was attempted under the direction of Victor Hughes",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_invasion_1805",
+        "type": "other",
+        "description": "In 1805 (La Grange), the French again landed at each flank of Roseau. Roseau was set on fire accidentally and capitulated, paying the enemy to quit £12,000",
+        "event_date": {
+          "year": "1805",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "locations": ["place_dominica", "place_roseau"],
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+          "source_lines": "21-22",
+          "source_section": "DOMINICA",
+          "original_text": "In 1805...the French again landed at each flank of Roseau...capitulated, paying the enemy to quit 12,000l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_roseau",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_dominica",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_portsmouth",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_dominica",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_j_r_longden",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_dominica",
+      "properties": {
+        "position": "Lieutenant-Governor",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_j_r_longden",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "role": "President",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "person_w_macintyre",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_t_w_doyle",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_legislative_assembly",
+      "properties": {
+        "role": "Speaker",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "inst_executive_council",
+      "relationship_type": "OPERATES_IN",
+      "target_id": "place_dominica",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "inst_legislative_assembly",
+      "relationship_type": "OPERATES_IN",
+      "target_id": "place_dominica",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 27,
+    "entities_by_type": {
+      "places": 4,
+      "people": 7,
+      "institutions": 2,
+      "economic_data": 4,
+      "infrastructure": 0,
+      "demographics": 1,
+      "events": 10
+    },
+    "total_relationships": 8,
+    "relationships_by_type": {
+      "LOCATED_IN": 2,
+      "GOVERNS": 1,
+      "MEMBER_OF": 3,
+      "OPERATES_IN": 2
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0,
+    "processing_time_seconds": 180.0
+  }
+}

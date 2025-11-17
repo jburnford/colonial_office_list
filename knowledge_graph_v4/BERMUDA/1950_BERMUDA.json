@@ -1,0 +1,846 @@
+{
+  "metadata": {
+    "year": "1950",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1950.pdf",
+    "source_directory": "output_2/1950_manual_parsed",
+    "extraction_date": "2025-11-17T10:30:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["BERMUDA"],
+    "processing_notes": "Comprehensive post-war data including US military bases, modern transportation, tourism economy"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "GBE": {"full_name": "Knight Grand Cross of the Order of the British Empire", "type": "knighthood", "rank": 1},
+      "KCB": {"full_name": "Knight Commander of the Order of the Bath", "type": "knighthood", "rank": 2},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3},
+      "CBE": {"full_name": "Commander of the Order of the British Empire", "type": "order", "rank": 3},
+      "OBE": {"full_name": "Officer of the Order of the British Empire", "type": "order", "rank": 4},
+      "MBE": {"full_name": "Member of the Order of the British Empire", "type": "order", "rank": 5},
+      "MC": {"full_name": "Military Cross", "type": "decoration", "rank": 3},
+      "DFC": {"full_name": "Distinguished Flying Cross", "type": "decoration", "rank": 3}
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Lord": {"full_form": "Lord", "category": "nobility"},
+      "Viscount": {"full_form": "Viscount", "category": "nobility"},
+      "Lieut.-Gen": {"full_form": "Lieutenant-General", "category": "military"},
+      "Admiral": {"full_form": "Admiral", "category": "military"},
+      "Captain": {"full_form": "Captain", "category": "military"}
+    },
+    "positions": {
+      "Governor and Commander-in-Chief": {"canonical_name": "Governor and Commander-in-Chief", "hierarchy_level": 2, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Attorney General": {"canonical_name": "Attorney General", "hierarchy_level": 3, "category": "legal"},
+      "Colonial Treasurer": {"canonical_name": "Colonial Treasurer", "hierarchy_level": 3, "category": "administrative"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"},
+      "Director of Agriculture": {"canonical_name": "Director of Agriculture", "hierarchy_level": 5, "category": "administrative"},
+      "Director of Education": {"canonical_name": "Director of Education", "hierarchy_level": 5, "category": "educational"},
+      "Director of Health Services": {"canonical_name": "Director of Health Services", "hierarchy_level": 5, "category": "medical"},
+      "Director of Public Works": {"canonical_name": "Director of Public Works", "hierarchy_level": 5, "category": "administrative"},
+      "Commissioner of Police": {"canonical_name": "Commissioner of Police", "hierarchy_level": 4, "category": "administrative"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Executive Council - advisory to Governor", "parent_type": "executive"},
+      "legislative_council": {"description": "Legislative Council", "parent_type": "legislative"},
+      "house_of_assembly": {"description": "House of Assembly - elected legislature", "parent_type": "legislative"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_bermuda",
+        "name": "Bermuda",
+        "type": "colony",
+        "alternative_names": ["Bermudas", "Somers' Islands"],
+        "location_context": {
+          "mentioned_in_colony": "BERMUDA",
+          "actual_location_country": "Bermuda",
+          "certainty": "definite",
+          "reasoning": "Primary colony, group of about 300 small islands in Western Atlantic"
+        },
+        "coordinates": {
+          "latitude": 32.25,
+          "longitude": -64.85,
+          "source": "latitude 32° 15' N. and longitude 64° 51' W."
+        },
+        "area": {
+          "value": 21,
+          "unit": "square_miles",
+          "source": "total area is estimated at about 21 square miles as compared with 19 square miles prior to the establishment of naval and military bases"
+        },
+        "population": {
+          "total": 35560,
+          "year": "1947",
+          "breakdown": {
+            "white": 13026,
+            "coloured": 22534,
+            "note": "1939 census: 11,481 white, 19,333 coloured = 30,814 total. Excluding naval, military and air force personnel."
+          },
+          "source": "The total population, excluding naval, military and air force personnel, is estimated at 35,560"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "1-7",
+          "original_text": "The Bermudas or Somers' Islands form a group of about 300 small islands, situated in the Western Atlantic Ocean in latitude 32° 15' N. and longitude 64° 51' W.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_hamilton",
+        "name": "Hamilton",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "BERMUDA",
+          "actual_location_country": "Bermuda",
+          "certainty": "definite",
+          "reasoning": "City of Hamilton, now the seat of government, capital city"
+        },
+        "population": {
+          "total": 3500,
+          "year": "1950",
+          "source": "Population of City of Hamilton, 3,500 (approximately)"
+        },
+        "parent_location": "place_bermuda",
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "17, 45",
+          "original_text": "The City of Hamilton, now the seat of government... Population of City of Hamilton, 3,500 (approximately)",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_georges",
+        "name": "St. George",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "BERMUDA",
+          "actual_location_country": "Bermuda",
+          "certainty": "definite",
+          "reasoning": "Town of St. George, former capital"
+        },
+        "population": {
+          "total": 1300,
+          "year": "1950",
+          "source": "town of St. George's, 1,300 (approximately)"
+        },
+        "parent_location": "place_bermuda",
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "19, 45",
+          "original_text": "the town of St. George, so named after Admiral Sir George Somers... town of St. George's, 1,300 (approximately)",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_ireland_island",
+        "name": "Ireland Island",
+        "type": "island",
+        "location_context": {
+          "mentioned_in_colony": "BERMUDA",
+          "actual_location_country": "Bermuda",
+          "certainty": "definite",
+          "reasoning": "Island entirely given up for naval dockyard and establishments"
+        },
+        "parent_location": "place_bermuda",
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "20",
+          "original_text": "Ireland Island entirely given up for the accommodation of His Majesty's dockyard, H.M.S. Malabar and other naval establishments",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_alexander_hood",
+        "name": "Alexander Hood",
+        "titles": ["Lieut.-Gen", "Sir"],
+        "honors": [
+          {"honor": "GBE", "full_name": "Knight Grand Cross of the Order of the British Empire"},
+          {"honor": "KCB", "full_name": "Knight Commander of the Order of the Bath"}
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "colony": "BERMUDA",
+            "location": "Hamilton",
+            "status": "permanent",
+            "start_date": "1949",
+            "salary": {
+              "amount": 4250,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {"type": "entertainment", "amount": 1500, "currency": "£", "description": "entertainment allowance"},
+              {"type": "other", "amount": 2000, "currency": "£", "description": "grant towards the cost of operating Government House"}
+            ]
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "323, 400",
+          "original_text": "1949 Lieut.-Gen. Sir Alexander Hood, G.B.E., K.C.B.... Governor and Commander-in-Chief—Lieut.-Gen. Sir Alexander Hood, G.B.E., K.C.B. £4,250 p.a., plus £1,500 entertainment allowance and a grant of £2,000 p.a. towards the cost of operating Government House.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_william_addis",
+        "name": "William Addis",
+        "honors": [
+          {"honor": "CMG", "full_name": "Companion of the Order of St Michael and St George"}
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "BERMUDA",
+            "location": "Hamilton",
+            "status": "permanent",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {"type": "rent", "amount": 300, "currency": "£"}
+            ]
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "406",
+          "original_text": "Colonial Secretary—William Addis, C.M.G., £2,000 and £300* rent allowance.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_c_g_brooke_francis",
+        "name": "C. G. Brooke Francis",
+        "titles": ["Sir"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "BERMUDA",
+            "status": "permanent",
+            "salary": {
+              "amount": 2100,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {"type": "rent", "amount": 300, "currency": "£"}
+            ]
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "462",
+          "original_text": "Chief Justice—Sir C. G. Brooke Francis, K.C. £2,100 and £300* rent allowance.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_t_gilbert",
+        "name": "J. T. Gilbert",
+        "honors": [
+          {"honor": "CBE", "full_name": "Commander of the Order of the British Empire"}
+        ],
+        "positions": [
+          {
+            "title": "Attorney General",
+            "colony": "BERMUDA",
+            "status": "permanent",
+            "salary": {
+              "amount": 1800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "474",
+          "original_text": "Attorney General—J. T. Gilbert, C.B.E., K.C. £1,800.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_w_davidson",
+        "name": "W. W. Davidson",
+        "honors": [
+          {"honor": "OBE", "full_name": "Officer of the Order of the British Empire"}
+        ],
+        "positions": [
+          {
+            "title": "Colonial Treasurer",
+            "colony": "BERMUDA",
+            "status": "permanent",
+            "salary": {
+              "amount": 1800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "520",
+          "original_text": "Colonial Treasurer—W. W. Davidson, O.B.E., £1,800.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_s_mcbeath",
+        "name": "J. S. McBeath",
+        "positions": [
+          {
+            "title": "Commissioner of Police",
+            "colony": "BERMUDA",
+            "status": "permanent",
+            "salary": {
+              "amount": 1400,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {"type": "uniform", "description": "with uniform"},
+              {"type": "rent", "amount": 180, "currency": "£"}
+            ]
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "482",
+          "original_text": "Commissioner of Police—J. S. McBeath. £1,400 (with uniform), and £180* rent allowance.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "BERMUDA",
+        "location": "Hamilton",
+        "composition": {
+          "total_members": 8,
+          "official_members": 4,
+          "unofficial_members": 3,
+          "ex_officio_members": 5,
+          "notes": "Governor, Colonial Secretary, Senior Military Officer, Attorney General, Colonial Treasurer (ex officio), N. B. Dill, M.C.P., H. D. Butterfield, M.C.P., N. P. H. Vesey, M.C.P."
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "327-328",
+          "original_text": "EXECUTIVE COUNCIL: The Governor, Colonial Secretary, Senior Military Officer, Attorney General, Colonial Treasurer (ex officio), N. B. Dill, M.C.P., H. D. Butterfield, M.C.P., N. P. H. Vesey, M.C.P., E. T. Smith (Clerk).",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "BERMUDA",
+        "location": "Hamilton",
+        "composition": {
+          "total_members": 9,
+          "official_members": 3,
+          "unofficial_members": 6,
+          "ex_officio_members": 3,
+          "notes": "The Chief Justice, Colonial Secretary, Attorney General (ex officio), plus 6 unofficial members"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "330-331",
+          "original_text": "LEGISLATIVE COUNCIL: The Chief Justice, Colonial Secretary, Attorney General (ex officio), F. G. Gosling, O.B.E., R. C. H. Hallett, D.C.L., W. E. S. Zuill, W. S. Cooper, O.B.E., E. H. Trimingham, C.B.E., Sir W. J. Howard Trott, C.B.E., S. G. Trees (Clerk).",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_house_of_assembly",
+        "name": "House of Assembly",
+        "type": "house_of_assembly",
+        "colony": "BERMUDA",
+        "location": "Hamilton",
+        "composition": {
+          "total_members": 36,
+          "elected_members": 36,
+          "notes": "Four members elected by each of the nine parishes. 3,231 electors. Electoral qualification: possession of freehold property of not less than £60 value. Member qualification: freehold property valued at £240."
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "333-348",
+          "original_text": "HOUSE OF ASSEMBLY (36 Members)... four of whom are elected by each of the nine parishes",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1948",
+        "type": "revenue",
+        "colony": "BERMUDA",
+        "year_applies": "1948",
+        "data": {
+          "value": 1531970,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "200",
+          "original_text": "| 1948 | 1,531,970| 1,531,762   | 640,463         | 1,427,388    |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1948",
+        "type": "expenditure",
+        "colony": "BERMUDA",
+        "year_applies": "1948",
+        "data": {
+          "value": 1531762,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "200",
+          "original_text": "| 1948 | 1,531,970| 1,531,762   | 640,463         | 1,427,388    |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1948",
+        "type": "imports",
+        "colony": "BERMUDA",
+        "year_applies": "1948",
+        "data": {
+          "value": 7121039,
+          "currency": "£",
+          "breakdown": {
+            "from_uk": 1792833,
+            "from_other_british": 1313969,
+            "from_elsewhere": 4014237
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "225",
+          "original_text": "| 1948 | 1,792,833           | 1,313,969                    | 4,014,237     | 7,121,039 |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1948",
+        "type": "exports",
+        "colony": "BERMUDA",
+        "year_applies": "1948",
+        "data": {
+          "value": 955405,
+          "currency": "£",
+          "breakdown": {
+            "to_uk": 72815,
+            "to_other_british": 168555,
+            "to_elsewhere": 714035
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "240",
+          "original_text": "| 1948 | 72,815           | 168,555                    | 714,035      | 955,405 |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_customs_revenue_1948",
+        "type": "revenue",
+        "colony": "BERMUDA",
+        "year_applies": "1948",
+        "data": {
+          "value": 1139154,
+          "currency": "£",
+          "category": "customs_revenue"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "244",
+          "original_text": "1948, £1,139,154",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_public_debt_1948",
+        "type": "debt",
+        "colony": "BERMUDA",
+        "year_applies": "1948",
+        "data": {
+          "value": 875000,
+          "currency": "£",
+          "notes": "includes the two interest-free loans totalling £800,000 to the Imperial Government"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "207",
+          "original_text": "Public debt, 1948, £875,000 (which includes the two interest-free loans totalling £800,000 to the Imperial Government).",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_population_1947",
+        "colony": "BERMUDA",
+        "year_applies": "1947",
+        "population": {
+          "total": 35560,
+          "breakdown": {
+            "white": 13026,
+            "coloured": 22534
+          }
+        },
+        "notes": "Excluding naval, military and air force personnel. Last census 1939: 11,481 white, 19,333 coloured = 30,814 total",
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "26-41",
+          "original_text": "The total population, excluding naval, military and air force personnel, is estimated at 35,560",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_us_bases_1941_1943",
+        "type": "other",
+        "description": "Between 1941 and 1943 certain islands were joined and other areas filled in to form territory occupied by United States bases, including a large airfield",
+        "event_date": {
+          "year": "1941",
+          "precision": "year"
+        },
+        "year_mentioned": "1950",
+        "locations": ["place_bermuda"],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "7",
+          "original_text": "Between 1941 and 1943 certain islands were joined and other areas, previously water covered, were filled in and now form a part of the territory occupied by the United States bases",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_womens_suffrage_1944",
+        "type": "constitutional_change",
+        "description": "With the enactment of the Women's Suffrage Act, 1944, women with the necessary property qualification are entitled to vote and to be elected to the Legislature",
+        "event_date": {
+          "year": "1944",
+          "precision": "year"
+        },
+        "year_mentioned": "1950",
+        "locations": ["place_bermuda"],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "74",
+          "original_text": "With the enactment of the Women's Suffrage Act, 1944, women with the necessary property qualification are entitled to vote and to be elected to the Legislature.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_free_education_1949",
+        "type": "other",
+        "description": "Free elementary education was introduced on the 1st May, 1949",
+        "event_date": {
+          "year": "1949",
+          "month": "May",
+          "day": "1",
+          "precision": "exact"
+        },
+        "year_mentioned": "1950",
+        "locations": ["place_bermuda"],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "97",
+          "original_text": "Free elementary education was introduced on the 1st May, 1949.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_railway_abandoned_1947",
+        "type": "other",
+        "description": "The Abandonment of the Bermuda Railway Act was passed in June, 1947, and the Railway Service was discontinued at the end of April, 1948",
+        "event_date": {
+          "year": "1947",
+          "month": "June",
+          "precision": "month"
+        },
+        "year_mentioned": "1950",
+        "locations": ["place_bermuda"],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+          "source_lines": "137",
+          "original_text": "The Abandonment of the Bermuda Railway Act was passed in June, 1947, and the Railway Service was discontinued at the end of April, 1948.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_alexander_hood",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_bermuda",
+      "properties": {
+        "position": "Governor and Commander-in-Chief",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_hamilton",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_bermuda",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_st_georges",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_bermuda",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_ireland_island",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_bermuda",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "inst_executive_council",
+      "relationship_type": "OPERATES_IN",
+      "target_id": "place_bermuda",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "inst_legislative_council",
+      "relationship_type": "OPERATES_IN",
+      "target_id": "place_bermuda",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "inst_house_of_assembly",
+      "relationship_type": "OPERATES_IN",
+      "target_id": "place_bermuda",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/BERMUDA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 25,
+    "entities_by_type": {
+      "places": 4,
+      "people": 6,
+      "institutions": 3,
+      "economic_data": 6,
+      "infrastructure": 0,
+      "demographics": 1,
+      "events": 4
+    },
+    "total_relationships": 7,
+    "relationships_by_type": {
+      "GOVERNS": 1,
+      "LOCATED_IN": 3,
+      "OPERATES_IN": 3
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "year": "1900",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1900.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1900_manual_parsed",
+    "extraction_date": "2025-11-17T11:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["SIERRA_LEONE"],
+    "processing_notes": "1900 data shows Colony and Protectorate structure established post-1896 Proclamation. Detailed administrative divisions with 5 Protectorate districts."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {"full_name": "Knight Commander of the Order of St Michael and St George", "type": "knighthood", "rank": 2},
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3}
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Col": {"full_form": "Colonel", "category": "military"},
+      "Major": {"full_form": "Major", "category": "military"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 1, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"},
+      "District Commissioner": {"canonical_name": "District Commissioner", "hierarchy_level": 4, "category": "administrative"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_sierra_leone",
+        "name": "Sierra Leone",
+        "type": "colony",
+        "year": "1900",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "area": {"value": 30000, "unit": "square_miles", "source": "Line 8: estimated area is rather more than 30,000 square miles"},
+        "population": {"total": 2000000, "year": "1900", "breakdown": {"estimate_range": "750,000 to 2,000,000"}, "source": "Line 49"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/SIERRA_LEONE.md", "source_lines": "1-8", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_freetown",
+        "name": "Freetown",
+        "type": "city",
+        "year": "1900",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "population": {"total": 28831, "year": "1891", "source": "Line 41"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/SIERRA_LEONE.md", "source_lines": "40-42", "original_text": "Freetown...contains, according to the census of 1891, 28,831 inhabitants", "extraction_confidence": 0.97, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_protectorate_karone",
+        "name": "Karone District",
+        "type": "district",
+        "year": "1900",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/SIERRA_LEONE.md", "source_lines": "17-23", "original_text": "1. Karone District—Headquarters, Karene.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "people": [
+      {
+        "id": "person_frederick_cardew",
+        "name": "Frederic Cardew",
+        "name_variants": ["Sir F. Cardew", "Col. Sir F. Cardew"],
+        "titles": ["Sir", "Col"],
+        "honors": [{"honor": "KCMG", "full_name": "Knight Commander of the Order of St Michael and St George"}],
+        "positions": [{"title": "Governor", "colony": "SIERRA_LEONE", "status": "permanent", "salary": {"amount": 2000, "currency": "£", "period": "annual"}, "allowances": [{"type": "general", "amount": 500, "currency": "£"}]}],
+        "year": "1900",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/SIERRA_LEONE.md", "source_lines": "177-211", "source_section": "Civil Establishment", "original_text": "Governor, Commander-in-Chief, and Vice-Admiral, Colonel Sir F. Cardew, K.C.M.G., 2,000l. and 500l. allowances.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "SIERRA_LEONE",
+        "year": "1900",
+        "composition": {"total_members": 6, "official_members": 6},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/SIERRA_LEONE.md", "source_lines": "187-194", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1898",
+        "type": "revenue",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1898",
+        "year": "1900",
+        "data": {"value": 117681, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/SIERRA_LEONE.md", "source_lines": "95-109", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_exports_1898",
+        "type": "exports",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1898",
+        "year": "1900",
+        "data": {"value": 290991, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/SIERRA_LEONE.md", "source_lines": "125-139", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_population_1896",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1896",
+        "year": "1900",
+        "population": {"total": 134611, "breakdown": {"white_males": 191, "white_females": 33, "coloured_males": 68684, "coloured_females": 65927}},
+        "notes": "Census categories reflect British colonial classifications",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/SIERRA_LEONE.md", "source_lines": "142-151", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway_government",
+        "name": "Sierra Leone Government Railway",
+        "type": "railway",
+        "colony": "SIERRA_LEONE",
+        "year": "1900",
+        "description": "Single line railway opened in 1899",
+        "specifications": {"gauge": "2 ft. 6 in.", "length": {"value": 32, "unit": "miles"}},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/SIERRA_LEONE.md", "source_lines": "82", "original_text": "A single line railway of 2 ft. 6 in. gauge was opened to the public on 1st May, 1899...distance of about 32 miles", "extraction_confidence": 0.97, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "events": [
+      {
+        "id": "event_protectorate_1896",
+        "type": "establishment",
+        "description": "Proclamation issued of a Protectorate over the Hinterland of Sierra Leone",
+        "year_mentioned": "1900",
+        "year": "1900",
+        "event_date": {"year": "1896", "month": "August", "day": "31", "precision": "exact"},
+        "locations": ["place_sierra_leone"],
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/SIERRA_LEONE.md", "source_lines": "17", "original_text": "On August 31st, 1896, a Proclamation was issued of a Protectorate over the Hunterland of Sierra Leone", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_frederick_cardew",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_sierra_leone",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}
+    },
+    {
+      "source_id": "place_freetown",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_sierra_leone",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.98, "extraction_method": "inferred"}
+    },
+    {
+      "source_id": "place_protectorate_karone",
+      "relationship_type": "PART_OF",
+      "target_id": "place_sierra_leone",
+      "properties": {"confidence": "definite", "year": "1896"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.99, "extraction_method": "direct_extraction"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 12,
+    "entities_by_type": {"places": 3, "people": 1, "institutions": 1, "economic_data": 2, "demographics": 1, "infrastructure": 1, "events": 1},
+    "total_relationships": 3,
+    "relationships_by_type": {"GOVERNS": 1, "LOCATED_IN": 1, "PART_OF": 1},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

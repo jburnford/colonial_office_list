@@ -1,0 +1,441 @@
+{
+  "metadata": {
+    "year": "1923",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1923.pdf",
+    "source_directory": "output_2/1923_manual_parsed",
+    "extraction_date": "2025-11-17T00:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["TRINIDAD_AND_TOBAGO"],
+    "processing_notes": "Post-WWI period, petroleum industry emerging"
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 2, "category": "executive"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council to the Governor"},
+      "legislative_council": {"description": "Legislative body of the colony"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_trinidad",
+        "name": "Trinidad",
+        "type": "island",
+        "year": "1923",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD_AND_TOBAGO",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Main island of Trinidad and Tobago colony"
+        },
+        "coordinates": {
+          "latitude": 10.43,
+          "longitude": -61.27,
+          "source": "Lines 5: 10° 3' and 10° 50' N. latitude, and 60° 55' and 61° 56' W. longitude"
+        },
+        "area": {
+          "value": 1976,
+          "unit": "square_miles",
+          "source": "Line 5"
+        },
+        "population": {
+          "total": 365913,
+          "year": "1921",
+          "breakdown": {
+            "east_indians": 121233
+          },
+          "source": "Line 17"
+        },
+        "provenance": {
+          "source_file": "output_2/1923_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "4-5",
+          "source_section": "TRINIDAD > Situation and Area",
+          "original_text": "The island of Trinidad lies about 16 miles to the eastward of Venezuela, between 10° 3' and 10° 50' N. latitude, and 60° 55' and 61° 56' W. longitude from Greenwich. Its average length is about 55 miles, and its average breadth 40 miles, and its area is 1,976 square miles.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_port_of_spain",
+        "name": "Port of Spain",
+        "type": "city",
+        "year": "1923",
+        "parent_location": "place_trinidad",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD_AND_TOBAGO",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Capital city on Trinidad island"
+        },
+        "population": {
+          "total": 61531,
+          "year": "1921",
+          "source": "Line 77"
+        },
+        "provenance": {
+          "source_file": "output_2/1923_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "77",
+          "source_section": "General Description",
+          "original_text": "The chief town and principal port is Port of Spain (population by the census of 1921, 61,531)",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_san_fernando",
+        "name": "San Fernando",
+        "type": "town",
+        "year": "1923",
+        "parent_location": "place_trinidad",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD_AND_TOBAGO",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Second town, 30 miles south from Port of Spain"
+        },
+        "population": {
+          "total": 10610,
+          "year": "1921",
+          "source": "Line 81"
+        },
+        "provenance": {
+          "source_file": "output_2/1923_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "81",
+          "source_section": "General Description",
+          "original_text": "The next town and port is San Fernando, about 30 miles south from Port of Spain. The population at the census of 1921 was 10,610.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_arima",
+        "name": "Arima",
+        "type": "town",
+        "year": "1923",
+        "parent_location": "place_trinidad",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD_AND_TOBAGO",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Inland town, 16 miles from Port of Spain"
+        },
+        "population": {
+          "total": 4210,
+          "year": "1921",
+          "source": "Line 85"
+        },
+        "provenance": {
+          "source_file": "output_2/1923_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "85",
+          "source_section": "General Description",
+          "original_text": "A charter of incorporation has been granted to Arima, an inland town about 16 miles from Port of Spain (population at 1921 census, 4,210).",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "Trinidad and Tobago",
+        "location": "Port of Spain",
+        "year": "1923",
+        "composition": {
+          "total_members": 7
+        },
+        "provenance": {
+          "source_file": "output_2/1923_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "20",
+          "source_section": "Constitution",
+          "original_text": "The Government is administered by a Governor, with an Executive Council of seven members.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council of Trinidad and Tobago",
+        "type": "legislative_council",
+        "colony": "Trinidad and Tobago",
+        "location": "Port of Spain",
+        "year": "1923",
+        "composition": {
+          "total_members": 22,
+          "official_members": 11,
+          "unofficial_members": 11
+        },
+        "provenance": {
+          "source_file": "output_2/1923_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "21",
+          "source_section": "Constitution",
+          "original_text": "The legislative body is the Legislative Council of Trinidad and Tobago, which was reconstituted in 1898, and now consists of the Governor, the Colonial Secretary, the Attorney-General, the Solicitor-General, the Auditor-General, the Inspector-General of Constabulary, the Director of Public Works, the Surgeon-General, the Protector of Immigrants, the Receiver-General, and the Collector of Customs, and of such other persons (unofficial members) as the Governor may appoint. The unofficial members hold their seats for five years, and are at present eleven in number.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_exports_cocoa_1921",
+        "type": "exports",
+        "colony": "Trinidad and Tobago",
+        "year": "1923",
+        "year_applies": "1921",
+        "data": {
+          "value": 1522654,
+          "currency": "£",
+          "category": "cocoa_exports",
+          "quantity": "83,560,927 lbs"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1923_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "33",
+          "source_section": "General Description",
+          "original_text": "Cocoa | 83,560,927 lbs. | 1,522,654",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_sugar_1921",
+        "type": "exports",
+        "colony": "Trinidad and Tobago",
+        "year": "1923",
+        "year_applies": "1921",
+        "data": {
+          "value": 1458514,
+          "currency": "£",
+          "category": "sugar_exports",
+          "quantity": "46,149 tons"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1923_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "34",
+          "source_section": "General Description",
+          "original_text": "Sugar | 46,149 tons | 1,458,514",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_asphalt_revenue_1921",
+        "type": "revenue",
+        "colony": "Trinidad and Tobago",
+        "year": "1923",
+        "year_applies": "1921",
+        "data": {
+          "value": 39712,
+          "currency": "£",
+          "category": "asphalt_royalties"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1923_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "51",
+          "source_section": "Asphalt",
+          "original_text": "The revenue derived from asphalt (the greater part of which came from the Lake) in 1921 was 39,712£.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_petroleum_royalty_1921",
+        "type": "revenue",
+        "colony": "Trinidad and Tobago",
+        "year": "1923",
+        "year_applies": "1921",
+        "data": {
+          "value": 20003,
+          "currency": "£",
+          "category": "petroleum_royalties"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1923_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "53",
+          "source_section": "Petroleum",
+          "original_text": "The Royalty paid by operating Companies on oil won from Crown Lands during 1921 amounted to 20,003£., as against 18,710£. in 1920.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_pitch_lake",
+        "name": "Asphalt Lake",
+        "type": "other",
+        "colony": "Trinidad and Tobago",
+        "year": "1923",
+        "description": "Asphalt lake in Ward of La Brea, 30 miles from Port of Spain",
+        "specifications": {
+          "area": {
+            "value": 114,
+            "unit": "acres"
+          }
+        },
+        "operation": {
+          "revenue": 39712,
+          "currency": "£",
+          "year": "1921"
+        },
+        "provenance": {
+          "source_file": "output_2/1923_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "49-51",
+          "source_section": "Asphalt",
+          "original_text": "An asphalt lake, 114 acres in extent, is situated in the Ward of La Brea, distant by water about 30 miles from Port of Spain.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_railway_system",
+        "name": "Trinidad Railway System",
+        "type": "railway",
+        "colony": "Trinidad and Tobago",
+        "year": "1923",
+        "description": "Government railway system covering Trinidad",
+        "specifications": {
+          "total_length": {
+            "value": 80.5,
+            "unit": "miles"
+          },
+          "ownership": "Government constructed and worked"
+        },
+        "provenance": {
+          "source_file": "output_2/1923_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "94-99",
+          "source_section": "Means of Communication",
+          "original_text": "The railway system now consists of the Port of Spain—Arima—Sangre Grande line...total length of line open is about 80½ miles, all constructed and worked by the Government.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "place_port_of_spain",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1923",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1923_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_san_fernando",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1923",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1923_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_arima",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1923",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1923_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 14,
+    "entities_by_type": {
+      "places": 4,
+      "people": 0,
+      "institutions": 2,
+      "economic_data": 4,
+      "infrastructure": 2,
+      "demographics": 0,
+      "events": 0
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "LOCATED_IN": 3
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

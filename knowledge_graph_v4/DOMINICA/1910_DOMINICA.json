@@ -1,0 +1,776 @@
+{
+  "metadata": {
+    "year": "1910",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1910.pdf",
+    "source_directory": "output_2/1910_manual_parsed",
+    "extraction_date": "2025-11-17T11:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM-based extraction)",
+    "colonies_processed": ["DOMINICA"],
+    "processing_notes": "Early 20th century. Part of Leeward Islands. Notable: Imperial Road construction from 1898 grant. Crown Colony system established 1898."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3}
+    },
+    "titles": {
+      "M.D.": {"full_form": "Doctor of Medicine", "category": "academic"},
+      "M.A.": {"full_form": "Master of Arts", "category": "academic"}
+    },
+    "positions": {
+      "Administrator": {"canonical_name": "Administrator", "hierarchy_level": 2, "category": "executive"},
+      "Colonial Engineer": {"canonical_name": "Colonial Engineer", "hierarchy_level": 4, "category": "administrative"},
+      "Treasurer": {"canonical_name": "Treasurer", "hierarchy_level": 3, "category": "administrative"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council to Administrator", "parent_type": null},
+      "legislative_council": {"description": "Crown Colony legislative body (all nominated)", "parent_type": null}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_dominica",
+        "name": "Dominica",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica (Leeward Islands, Caribbean)",
+          "certainty": "definite",
+          "reasoning": "Part of Leeward Islands General Government, between Guadeloupe and Martinique"
+        },
+        "coordinates": {
+          "latitude": 15.42,
+          "longitude": -61.37,
+          "source": "Lines 3: between 15° 10' and 15° 40' N. lat., and 61° 14' and 61° 30' W. long."
+        },
+        "area": {
+          "value": 291,
+          "unit": "square_miles",
+          "source": "Line 3: has an area of 291 square miles"
+        },
+        "population": {
+          "total": 32925,
+          "year": "1908",
+          "breakdown": {},
+          "source": "Line 102: 1908 | 32,925"
+        },
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "1-40",
+          "source_section": "DOMINICA",
+          "original_text": "Dominica is situated between 15° 10' and 15° 40' N. lat., and 61° 14' and 61° 30' W. long.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_roseau",
+        "name": "Roseau",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica",
+          "certainty": "definite",
+          "reasoning": "Chief town and capital, port of registry"
+        },
+        "population": {
+          "total": 6000,
+          "year": "1908",
+          "source": "Line 38: Roseau, population of about 6,000 on 31st December, 1908"
+        },
+        "parent_location": "place_dominica",
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "38",
+          "source_section": "DOMINICA",
+          "original_text": "The chief town is Roseau, population of about 6,000",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_portsmouth",
+        "name": "Portsmouth",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica",
+          "certainty": "definite",
+          "reasoning": "Town in north of island in Prince Rupert's Bay"
+        },
+        "parent_location": "place_dominica",
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "38",
+          "source_section": "DOMINICA",
+          "original_text": "The other town is Portsmouth, to the north of the island, in Prince Rupert's Bay",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_prince_ruperts_bay",
+        "name": "Prince Rupert's Bay",
+        "type": "other",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica",
+          "certainty": "definite",
+          "reasoning": "Bay on north coast where Portsmouth is located"
+        },
+        "parent_location": "place_dominica",
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "38",
+          "source_section": "DOMINICA",
+          "original_text": "Portsmouth, to the north of the island, in Prince Rupert's Bay",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_morne_diablotin",
+        "name": "Morne Diablotin",
+        "type": "other",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica",
+          "certainty": "definite",
+          "reasoning": "Highest mountain peak in Dominica at 4,747 feet"
+        },
+        "parent_location": "place_dominica",
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "5",
+          "source_section": "DOMINICA",
+          "original_text": "very mountainous and picturesque...rising at Imray's View, the culminating point of Morne Diablotin to 4,747 feet",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_w_douglas_young",
+        "name": "W. Douglas Young",
+        "name_variants": ["W.D. Young", "Douglas Young"],
+        "titles": [],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Administrator",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "start_date": "1906",
+            "salary": {
+              "amount": 700,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "table allowance",
+                "amount": 100,
+                "currency": "£"
+              }
+            ]
+          }
+        ],
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "111, 145",
+          "source_section": "Administrators, Dominion / Civil Establishment",
+          "original_text": "W. Douglas Young, C.M.G. ... 1906 / Administrator, W. Douglas Young, C.M.G., 700l. by 50l. to 900l., and 100l. table allowance",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_h_porter",
+        "name": "William Henry Porter",
+        "name_variants": ["W. H. Porter", "W.H. Porter"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Treasurer",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "personal",
+                "amount": 50,
+                "currency": "£"
+              }
+            ]
+          }
+        ],
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "119, 135, 151",
+          "source_section": "Executive Council / Legislative Council / Treasury",
+          "original_text": "William Henry Porter, Treasurer.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_h_a_a_nicholls",
+        "name": "H. A. Alford Nicholls",
+        "name_variants": ["H.A.A. Nicholls", "Alford Nicholls"],
+        "titles": ["M.D."],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Medical Officer of the Public Institutions",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "personal",
+                "amount": 100,
+                "currency": "£"
+              }
+            ]
+          }
+        ],
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "139, 179",
+          "source_section": "Legislative Council / Medical Establishment",
+          "original_text": "H. A. A. Nicholls, C.M.G., M.D., 300l. with 100l. personal, and fees, and private practice",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_a_miller",
+        "name": "W. A. Miller",
+        "name_variants": ["W.A. Miller", "Miller"],
+        "titles": ["A.M.I.C.E."],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Engineer and Surveyor-General",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 600,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "personal",
+                "amount": 250,
+                "currency": "£"
+              },
+              {
+                "type": "horse allowance",
+                "amount": 30,
+                "currency": "£"
+              }
+            ]
+          }
+        ],
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "140, 193",
+          "source_section": "Legislative Council / Public Works Department",
+          "original_text": "Colonial Engineer and Surveyor-General, W. A. Miller, A.M.I.C.E., 600l. (250l. being personal), and 30l. horse allowance",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "DOMINICA",
+        "composition": {
+          "total_members": 8,
+          "official_members": 6,
+          "unofficial_members": 2
+        },
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "113-127",
+          "source_section": "Executive Council",
+          "original_text": "Executive Council. The Governor of the Leeward Islands...Non-Official L. A. Giraud, A. D. Lockhart",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "DOMINICA",
+        "composition": {
+          "total_members": 12,
+          "official_members": 6,
+          "unofficial_members": 6
+        },
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "42, 129-141",
+          "source_section": "Legislative Council",
+          "original_text": "Crown Colony system. The new council consists of twelve members, six officials and six non-officials, all nominated",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1908",
+        "type": "revenue",
+        "colony": "DOMINICA",
+        "year_applies": "1908-9",
+        "data": {
+          "value": 41147,
+          "currency": "£"
+        },
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "61",
+          "source_section": "Finances",
+          "original_text": "1908-9 | 41,147 | 37,178",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_cocoa_1908",
+        "type": "production",
+        "colony": "DOMINICA",
+        "year_applies": "1908",
+        "data": {
+          "value": 9321,
+          "unit": "cwt",
+          "category": "Cocoa"
+        },
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "34",
+          "source_section": "Products",
+          "original_text": "The principal exports in 1908 were: Cocoa, 9,321 cwt.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_lime_products_1908",
+        "type": "exports",
+        "colony": "DOMINICA",
+        "year_applies": "1908",
+        "data": {
+          "value": 42790,
+          "currency": "£",
+          "category": "limes and lime juice"
+        },
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "34",
+          "source_section": "Products",
+          "original_text": "limes and lime juice, value 42,790l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1908",
+        "type": "debt",
+        "colony": "DOMINICA",
+        "year_applies": "1908",
+        "data": {
+          "value": 50358.78,
+          "currency": "£"
+        },
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "104",
+          "source_section": "Debt",
+          "original_text": "Debt, 31st Dec., 1908—50,358l. 15s. 8d. (amount of Sinking Fund deducted)",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_imperial_road",
+        "name": "Imperial Road",
+        "type": "road",
+        "colony": "DOMINICA",
+        "description": "Road constructed from Imperial Parliament grant for road construction",
+        "construction": {
+          "start_date": "1898",
+          "cost": {
+            "amount": 15000,
+            "currency": "£"
+          }
+        },
+        "specifications": {
+          "length": {
+            "value": 16,
+            "unit": "miles"
+          },
+          "route": "Roseau to Bassinville, plus 5 miles Bassinville to Layou"
+        },
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "24",
+          "source_section": "DOMINICA",
+          "original_text": "an important outcome of their recommendations was the grant, in 1898, of 15,000l. by the Imperial Parliament for road construction in the Island. The Imperial Road...has now been completed for a distance of 16 miles from Roseau to Bassinville",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_telephone",
+        "name": "Government Telephone System",
+        "type": "telegraph",
+        "colony": "DOMINICA",
+        "description": "Government-operated telephone system",
+        "specifications": {
+          "length": {
+            "value": 450,
+            "unit": "miles"
+          },
+          "exchanges": 7
+        },
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "40",
+          "source_section": "DOMINICA",
+          "original_text": "There is a Government telephone system of 450 miles, with 7 exchanges",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_electric_light",
+        "name": "Government Electric Light Service",
+        "type": "other",
+        "colony": "DOMINICA",
+        "description": "Government electric light service for Roseau",
+        "location": "Roseau",
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "40",
+          "source_section": "DOMINICA",
+          "original_text": "a Government electric light service for the town of Roseau",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_port_registry",
+        "name": "Port of Registry - Roseau",
+        "type": "port",
+        "colony": "DOMINICA",
+        "description": "Port of registry in Roseau with registered vessels",
+        "specifications": {
+          "vessels_registered": 16,
+          "total_tonnage": 147
+        },
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "38",
+          "source_section": "DOMINICA",
+          "original_text": "it is a port of registry, and had registered on 31st December, 1908, 16 vessels, of a total tonnage of 147 tons",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_pop_1908",
+        "colony": "DOMINICA",
+        "year_applies": "1908",
+        "population": {
+          "total": 32925,
+          "breakdown": {}
+        },
+        "notes": "Remnant of original Carib inhabitants still in existence (vide Cd. 1228, 1902)",
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "46, 102",
+          "source_section": "Population",
+          "original_text": "1908 | 32,925 / A remnant of the original Carib inhabitants of the Island is still in existence",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_crown_colony_1898",
+        "type": "constitutional_change",
+        "description": "In July, 1898, the Legislative Assembly, which was previously partly elected and partly nominated, passed an Act abrogating itself, and substituting the Crown Colony system",
+        "event_date": {
+          "year": "1898",
+          "month": "July",
+          "precision": "month"
+        },
+        "year_mentioned": "1910",
+        "locations": ["place_dominica"],
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "42",
+          "source_section": "DOMINICA",
+          "original_text": "In July, 1898, the Legislative Assembly...passed an Act abrogating itself, and substituting the Crown Colony system",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_royal_commission_1897",
+        "type": "other",
+        "description": "Dominica was visited in 1897 by the Royal Commission appointed to inquire into the condition of the West Indian colonies",
+        "event_date": {
+          "year": "1897",
+          "precision": "year"
+        },
+        "year_mentioned": "1910",
+        "locations": ["place_dominica"],
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "24",
+          "source_section": "DOMINICA",
+          "original_text": "Dominica, in common with other West Indian islands, was visited in 1897 by the Royal Commission",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_crater_eruption_1880",
+        "type": "natural_disaster",
+        "description": "An eruption in the great crater took place on 4th January, 1880, ash and scoria covering the roofs of the houses in Roseau to a depth of two or three inches",
+        "event_date": {
+          "year": "1880",
+          "month": "January",
+          "day": "4",
+          "precision": "exact"
+        },
+        "year_mentioned": "1910",
+        "locations": ["place_dominica", "place_roseau"],
+        "year": "1910",
+        "provenance": {
+          "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+          "source_lines": "30",
+          "source_section": "DOMINICA",
+          "original_text": "An eruption in the great crater took place on 4th January, 1880",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_roseau",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_dominica",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_portsmouth",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_dominica",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_w_douglas_young",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_dominica",
+      "properties": {
+        "position": "Administrator",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "infra_imperial_road",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_dominica",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "event_crater_eruption_1880",
+      "relationship_type": "OCCURRED_IN",
+      "target_id": "place_roseau",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1910_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 22,
+    "entities_by_type": {
+      "places": 5,
+      "people": 4,
+      "institutions": 2,
+      "economic_data": 4,
+      "infrastructure": 4,
+      "demographics": 1,
+      "events": 3
+    },
+    "total_relationships": 5,
+    "relationships_by_type": {
+      "LOCATED_IN": 3,
+      "GOVERNS": 1,
+      "OCCURRED_IN": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0,
+    "processing_time_seconds": 180.0
+  }
+}

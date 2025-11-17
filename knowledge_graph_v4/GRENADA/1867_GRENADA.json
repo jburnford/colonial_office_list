@@ -1,0 +1,797 @@
+{
+  "metadata": {
+    "year": "1867",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1867.pdf",
+    "source_directory": "output_2/1867_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["GRENADA"],
+    "processing_notes": "Complete extraction for Grenada 1867. Historical document with extensive governor succession list and detailed establishment."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCB": {
+        "full_name": "Knight Commander of the Order of the Bath",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      },
+      "KB": {
+        "full_name": "Knight of the Order of the Bath",
+        "type": "knighthood",
+        "rank": 2
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Major-General": {
+        "full_form": "Major-General",
+        "category": "military"
+      },
+      "Brig.-General": {
+        "full_form": "Brigadier-General",
+        "category": "military"
+      },
+      "Lieutenant-Colonel": {
+        "full_form": "Lieutenant-Colonel",
+        "category": "military"
+      },
+      "Colonel": {
+        "full_form": "Colonel",
+        "category": "military"
+      },
+      "Major": {
+        "full_form": "Major",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Lieutenant-Governor": {
+        "canonical_name": "Lieutenant-Governor",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Administrator": {
+        "canonical_name": "Administrator",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Attorney-General": {
+        "canonical_name": "Attorney-General",
+        "hierarchy_level": 3,
+        "category": "judicial"
+      },
+      "Treasurer": {
+        "canonical_name": "Treasurer",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Advisory council to the Governor"
+      },
+      "legislative_council": {
+        "description": "Legislative body of the colony"
+      },
+      "house_of_assembly": {
+        "description": "Elected legislative body"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_grenada",
+        "name": "Grenada",
+        "type": "colony",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Main colony entry"
+        },
+        "coordinates": {
+          "latitude": 12.15,
+          "longitude": -61.46,
+          "source": "Line 1: between 12°30' and 11°58' N. lat., 61°20' and 61°35' W. long."
+        },
+        "area": {
+          "value": 76538,
+          "unit": "acres",
+          "source": "Line 1"
+        },
+        "population": {
+          "total": 31900,
+          "year": "1861",
+          "source": "Line 1: Census of 1861"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "1-3",
+          "original_text": "Grenada is situated between the parallels of 12° 30' and 11° 58' N. lat., and 61° 20' and 61° 35' W. long.; is about 21 miles in length, 12 miles in its greatest breadth, and contains about 76,538 acres, with a population, by the Census of 1861, of 31,900 souls.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_st_georges",
+        "name": "St. George",
+        "type": "city",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Capital city and port"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "5",
+          "original_text": "7 miles from St. George",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_carriacou",
+        "name": "Carriacou",
+        "type": "island",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Dependency of Grenada"
+        },
+        "area": {
+          "value": 6913,
+          "unit": "acres",
+          "source": "Line 3"
+        },
+        "population": {
+          "total": 3071,
+          "year": "1861",
+          "source": "Line 3"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "3",
+          "original_text": "the largest of the latter is Carriacou, which has an area of 6,913 acres, and a population of 3,071 souls.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_grand_etang",
+        "name": "Grand Etang",
+        "type": "other",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "GRENADA",
+          "actual_location_country": "Grenada",
+          "certainty": "definite",
+          "reasoning": "Lake in Grenada"
+        },
+        "parent_location": "place_grenada",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "5",
+          "original_text": "The Grand Etang, a lake on the summit of a mountain ridge 1,740 feet above the level of the sea, 7 miles from St. George",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_robert_miller_mundy",
+        "name": "Robert Miller Mundy",
+        "year": "1867",
+        "titles": ["Major"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Lieutenant-Governor",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {
+              "amount": 1300,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "256",
+          "source_section": "Civil Establishment",
+          "original_text": "Lieutenant-Governor, Major R. M. Mundy, 1,300l.*",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_e_donald_baynes",
+        "name": "E. Donald Baynes",
+        "year": "1867",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Administrator",
+            "colony": "GRENADA",
+            "status": "acting"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "224, 257",
+          "source_section": "Executive Council / Civil Establishment",
+          "original_text": "Acting-Governor E. Donald Baynes. / Administrator of the Government, E. D. Baynes.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_f_gresham",
+        "name": "J. F. Gresham",
+        "year": "1867",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "225, 300",
+          "source_section": "Executive Council / Judicial Establishment",
+          "original_text": "J. F. Gresham, Chief Justice. / Chief Justice Judge of the Vice-Admiralty Court and Vice-Chancellor, J. F. Gresham, 800l.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_s_mitchell",
+        "name": "S. Mitchell",
+        "year": "1867",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {
+              "amount": 450,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "259",
+          "source_section": "Civil Establishment",
+          "original_text": "Colonial Secretary and Reg.-Gen., S. Mitchell, 450l.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_william_beveridge",
+        "name": "William Beveridge",
+        "year": "1867",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Public Treasurer",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "260",
+          "source_section": "Civil Establishment",
+          "original_text": "Public Treasurer, Wm. Beveridge, 400l.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_wells",
+        "name": "W. Wells",
+        "year": "1867",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Speaker",
+            "colony": "GRENADA",
+            "institution_id": "inst_house_of_assembly",
+            "status": "permanent",
+            "salary": {
+              "amount": 150,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "235",
+          "source_section": "House of Assembly",
+          "original_text": "W. Wells, Speaker, 150l.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_t_m_shervington",
+        "name": "T. M. Shervington",
+        "year": "1867",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "colony": "GRENADA",
+            "status": "permanent",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "302",
+          "source_section": "Judicial Establishment",
+          "original_text": "Attorney-General, T. M. Shervington, 400l.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_henry_garraway",
+        "name": "Henry Garraway",
+        "year": "1867",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Private Secretary",
+            "colony": "GRENADA",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "258",
+          "source_section": "Civil Establishment",
+          "original_text": "Private Secretary, Henry Garraway.",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Her Majesty's Executive Council",
+        "name_variants": ["Executive Council"],
+        "type": "executive_council",
+        "colony": "GRENADA",
+        "year": "1867",
+        "composition": {
+          "total_members": 8,
+          "official_members": 8
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "221-229",
+          "source_section": "Her Majesty's Executive Council",
+          "original_text": "Her Majesty's Executive Council.\n\nThe Lieut.-Governor, President.\nActing-Governor E. Donald Baynes...",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "GRENADA",
+        "year": "1867",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "230-232",
+          "source_section": "Legislative Council",
+          "original_text": "Legislative Council.\n\n(Same members as Executive Council, except the Lieutenant-Governor.)",
+          "extraction_confidence": 0.95,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_house_of_assembly",
+        "name": "House of Assembly",
+        "type": "house_of_assembly",
+        "colony": "GRENADA",
+        "year": "1867",
+        "composition": {
+          "total_members": 26,
+          "elected_members": 26
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "14, 234-251",
+          "source_section": "House of Assembly",
+          "original_text": "The House of Assembly consists of 26 members, of whom 4 are returned for the town of St. George, 7 by the united parishes of St. George and St. John, 6 by the united parishes of St. Patrick and St. Mark, 6 by the united parishes of St. Andrew and St. David, and 3 by Carriacou.",
+          "extraction_confidence": 0.98,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1865",
+        "type": "revenue",
+        "colony": "GRENADA",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 24706,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "219",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "| 1865 | £24,706 | £19,756     |",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1865",
+        "type": "expenditure",
+        "colony": "GRENADA",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 19756,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "219",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "| 1865 | £24,706 | £19,756     |",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1865",
+        "type": "imports",
+        "colony": "GRENADA",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 114109,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "200",
+          "source_section": "Imports and Exports",
+          "original_text": "| 1865 | £114,109 | £118,043 |",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1865",
+        "type": "exports",
+        "colony": "GRENADA",
+        "year": "1867",
+        "year_applies": "1865",
+        "data": {
+          "value": 118043,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "200",
+          "source_section": "Imports and Exports",
+          "original_text": "| 1865 | £114,109 | £118,043 |",
+          "extraction_confidence": 0.99,
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_1861",
+        "colony": "GRENADA",
+        "year": "1867",
+        "year_applies": "1861",
+        "population": {
+          "total": 31900,
+          "breakdown": {
+            "grenada": 31900
+          }
+        },
+        "notes": "Census of 1861",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "1",
+          "original_text": "with a population, by the Census of 1861, of 31,900 souls",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_1865",
+        "colony": "GRENADA",
+        "year": "1867",
+        "year_applies": "1865",
+        "population": {
+          "total": 36955
+        },
+        "notes": "December 1865 population estimate",
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "181",
+          "original_text": "Dec. 1865, 36,955.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_discovery_1498",
+        "type": "other",
+        "year_mentioned": "1867",
+        "year": "1867",
+        "description": "Grenada was discovered by Columbus in 1498 and was named Ascension",
+        "event_date": {
+          "year": "1498",
+          "precision": "year"
+        },
+        "locations": ["place_grenada"],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "7",
+          "source_section": "History",
+          "original_text": "Grenada was discovered by Columbus in 1498, and was named Ascension.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_cession_1763",
+        "type": "transfer",
+        "year_mentioned": "1867",
+        "year": "1867",
+        "description": "Grenada formally ceded to Great Britain by the Treaty of Peace signed at Paris",
+        "event_date": {
+          "year": "1763",
+          "month": "February",
+          "day": "10",
+          "precision": "exact"
+        },
+        "locations": ["place_grenada"],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "9-10",
+          "source_section": "History",
+          "original_text": "formally ceded to Great Britain by the Treaty of Peace signed at Paris on the 10th of February, 1763",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_free_port_1787",
+        "type": "other",
+        "year_mentioned": "1867",
+        "year": "1867",
+        "description": "St. George's was made a free port",
+        "event_date": {
+          "year": "1787",
+          "precision": "year"
+        },
+        "locations": ["place_st_georges"],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "12",
+          "source_section": "History",
+          "original_text": "In 1787 St. George's was made a free port.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_emancipation_1838",
+        "type": "other",
+        "year_mentioned": "1867",
+        "year": "1867",
+        "description": "Unconditional emancipation of slaves",
+        "event_date": {
+          "year": "1838",
+          "precision": "year"
+        },
+        "locations": ["place_grenada"],
+        "provenance": {
+          "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+          "source_lines": "14",
+          "source_section": "History",
+          "original_text": "In 1834 the apprenticeship system was established, and was followed in 1838 by unconditional emancipation.",
+          "extraction_confidence": 0.99,
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_robert_miller_mundy",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "position": "Lieutenant-Governor",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_st_georges",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_grenada",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "place_carriacou",
+      "relationship_type": "PART_OF",
+      "target_id": "place_grenada",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "inst_house_of_assembly",
+      "relationship_type": "PART_OF",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "confidence": "probable",
+        "notes": "Part of government structure"
+      },
+      "provenance": {
+        "source_file": "output_2/1867_manual_parsed/GRENADA.md",
+        "extraction_confidence": 0.85,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 26,
+    "entities_by_type": {
+      "places": 4,
+      "people": 8,
+      "institutions": 3,
+      "economic_data": 4,
+      "infrastructure": 0,
+      "demographics": 2,
+      "events": 4
+    },
+    "total_relationships": 4,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 1,
+      "LOCATED_IN": 1,
+      "PART_OF": 2
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

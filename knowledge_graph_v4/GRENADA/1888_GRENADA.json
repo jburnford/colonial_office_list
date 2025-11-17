@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "year": "1888",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1888.pdf",
+    "source_directory": "output_2/1888_manual_parsed",
+    "extraction_date": "2025-11-17T12:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["GRENADA"],
+    "processing_notes": "Part of Windward Islands; became headquarters 1885"
+  },
+  "controlled_vocabularies": {
+    "honors": {"CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3}},
+    "titles": {"Sir": {"full_form": "Sir", "category": "nobility"}},
+    "positions": {"Governor": {"canonical_name": "Governor", "hierarchy_level": 1, "category": "executive"}, "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"}},
+    "institution_types": {"legislative_council": {"description": "Legislative body of crown colony"}}
+  },
+  "entities": {
+    "places": [
+      {"id": "place_grenada", "name": "Grenada", "type": "colony", "year": "1888", "location_context": {"mentioned_in_colony": "GRENADA", "actual_location_country": "Grenada", "certainty": "definite", "reasoning": "Main colony, headquarters of Windward Islands"}, "coordinates": {"latitude": 12.15, "longitude": -61.425, "source": "Line 5"}, "area": {"value": 76538, "unit": "acres", "source": "Line 5"}, "population": {"total": 42403, "year": "1881", "source": "Line 5: Census of 1881"}, "provenance": {"source_file": "output_2/1888_manual_parsed/GRENADA.md", "source_lines": "5", "original_text": "Grenada is situated between the parallels of 12° 30' and 11° 58' N. lat., and 61° 20' and 61° 25' W. long.; is about 21 miles in length, 12 miles in its greatest breadth, and contains about 76,538 acres", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_st_georges", "name": "St. George's", "type": "city", "year": "1888", "location_context": {"mentioned_in_colony": "GRENADA", "actual_location_country": "Grenada", "certainty": "definite", "reasoning": "Principal town and port"}, "parent_location": "place_grenada", "provenance": {"source_file": "output_2/1888_manual_parsed/GRENADA.md", "source_lines": "7", "original_text": "St. George's is a port of registry, and had on 31st December, 1886, 50 vessels registered, of a total tonnage of 938 tons", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}},
+      {"id": "place_carriacou", "name": "Carriacou", "type": "island", "year": "1888", "location_context": {"mentioned_in_colony": "GRENADA", "actual_location_country": "Grenada", "certainty": "definite", "reasoning": "Dependency island"}, "area": {"value": 6913, "unit": "acres", "source": "Line 5"}, "population": {"total": 5154, "year": "1888", "source": "Line 5"}, "parent_location": "place_grenada", "provenance": {"source_file": "output_2/1888_manual_parsed/GRENADA.md", "source_lines": "5", "original_text": "the largest of the latter is Carriacou, which has an area of 6,913 acres, and a population of 5,154 souls", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "people": [],
+    "institutions": [
+      {"id": "inst_legislative_council", "name": "Legislative Council", "type": "legislative_council", "colony": "GRENADA", "year": "1888", "composition": {"total_members": 13, "official_members": 6, "unofficial_members": 7}, "provenance": {"source_file": "output_2/1888_manual_parsed/GRENADA.md", "source_lines": "25", "original_text": "a new Legislative Council has been established by the Queen, consisting of six official members besides the Governor, and seven unofficial members nominated by the Crown", "extraction_confidence": 0.98, "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "economic_data": [],
+    "infrastructure": [
+      {"id": "infra_port_st_georges", "type": "port", "colony": "GRENADA", "year": "1888", "name": "St. George's Port", "operation": {"vessels_registered": 50, "tonnage_registered": 938}, "provenance": {"source_file": "output_2/1888_manual_parsed/GRENADA.md", "source_lines": "7", "original_text": "St. George's is a port of registry, and had on 31st December, 1886, 50 vessels registered, of a total tonnage of 938 tons", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ],
+    "demographics": [],
+    "events": [
+      {"id": "event_windward_islands_hq_1885", "type": "constitutional_change", "year_mentioned": "1888", "year": "1888", "description": "Grenada made headquarters of the Windward Islands Government", "event_date": {"year": "1885", "month": "March", "day": "17", "precision": "exact"}, "locations": ["place_grenada"], "provenance": {"source_file": "output_2/1888_manual_parsed/GRENADA.md", "source_lines": "27", "original_text": "On the 17th March, 1885, letters patent were passed constituting anew the office of Governor of the Windward Islands, under which Grenada was made the head-quarters of the group", "extraction_confidence": 0.99, "extraction_method": "direct_extraction", "verification_status": "automated"}}
+    ]
+  },
+  "relationships": [],
+  "extraction_statistics": {
+    "total_entities": 7,
+    "entities_by_type": {"places": 3, "people": 0, "institutions": 1, "economic_data": 0, "infrastructure": 1, "demographics": 0, "events": 1},
+    "total_relationships": 0,
+    "relationships_by_type": {},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

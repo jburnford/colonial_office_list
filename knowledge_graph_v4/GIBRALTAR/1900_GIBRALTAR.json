@@ -1,0 +1,703 @@
+{
+  "metadata": {
+    "year": "1900",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1900.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1900_manual_parsed",
+    "extraction_date": "2025-11-17T11:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM-based extraction)",
+    "colonies_processed": ["GIBRALTAR"],
+    "processing_notes": "Turn of century. Still no Executive/Legislative Council. Governor exercises all governmental powers. Strategic naval and military base. Spanish currency (pesetas). Extensive consular presence."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "GCMG": {
+        "full_name": "Knight Grand Cross of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 1
+      },
+      "KCB": {
+        "full_name": "Knight Commander of the Order of the Bath",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Gen.": {
+        "full_form": "General",
+        "category": "military"
+      },
+      "Lt.-Gen.": {
+        "full_form": "Lieutenant-General",
+        "category": "military"
+      },
+      "Commander": {
+        "full_form": "Commander",
+        "category": "naval"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Rt. Rev.": {
+        "full_form": "Right Reverend",
+        "category": "religious"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Attorney-General": {
+        "canonical_name": "Attorney-General",
+        "hierarchy_level": 3,
+        "category": "judicial"
+      },
+      "Treasurer and Collector of Revenues": {
+        "canonical_name": "Treasurer",
+        "hierarchy_level": 3,
+        "category": "financial"
+      },
+      "Captain of the Port": {
+        "canonical_name": "Captain of the Port",
+        "hierarchy_level": 4,
+        "category": "maritime"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_gibraltar_1900",
+        "name": "Gibraltar",
+        "type": "territory",
+        "year": "1900",
+        "area": {
+          "value": 1.5,
+          "unit": "square_miles",
+          "source": "Stated in source"
+        },
+        "physical_features": {
+          "elevation": "1,439 feet",
+          "length": "2½ miles",
+          "breadth": "¾ of a mile",
+          "description": "Narrow peninsula running south-west from south-west coast of Spain. Long high mountain called The Rock plus North Front sandy plain."
+        },
+        "coordinates": {
+          "latitude": 36.108333,
+          "longitude": -5.353333,
+          "source": "Stated: 36° 6' 80\" N, 5° 21' 12\" W"
+        },
+        "strategic_importance": "Fortress and Royal Navy base controlling Straits of Gibraltar. One large citadel with permanent garrison ~5,300 men and ~220 naval personnel.",
+        "economic_role": "Free port, coaling station, tobacco manufacturing (42 factories, ~600 workers), entrepôt for trade between England and North African Arabian states",
+        "location_context": {
+          "mentioned_in_colony": "GIBRALTAR",
+          "actual_location_country": "British Gibraltar (peninsula from Spain)",
+          "certainty": "definite",
+          "reasoning": "British fortress territory since 1704, ceded by Treaty of Utrecht 1713"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "1-50",
+          "original_text": "The Colony of Gibraltar is a narrow peninsula running south-west from the south-west coast of Spain...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_spain_1900",
+        "name": "Spain",
+        "type": "other",
+        "year": "1900",
+        "location_context": {
+          "mentioned_in_colony": "GIBRALTAR",
+          "actual_location_country": "Spain",
+          "certainty": "definite",
+          "reasoning": "Adjacent country, Gibraltar extends from Spanish coast"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "1-5",
+          "original_text": "south-west coast of Spain",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_la_linea_1900",
+        "name": "La Linea",
+        "type": "town",
+        "year": "1900",
+        "description": "Spanish town adjacent to Gibraltar's North Front",
+        "location_context": {
+          "mentioned_in_colony": "GIBRALTAR",
+          "actual_location_country": "Spain",
+          "certainty": "definite",
+          "reasoning": "Spanish town bordering Gibraltar"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "14-16",
+          "original_text": "the Spanish town of La Linea",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_george_white_1900",
+        "name": "George Stuart White",
+        "name_variants": ["Sir George White", "G. S. White"],
+        "titles": ["General", "Sir"],
+        "honors": [
+          {
+            "honor": "GCMG",
+            "full_name": "Knight Grand Cross of the Order of St Michael and St George"
+          },
+          {
+            "honor": "CB",
+            "full_name": "Companion of the Order of the Bath"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "GIBRALTAR",
+            "status": "permanent",
+            "salary": {
+              "amount": 126100,
+              "currency": "pesetas",
+              "period": "annual",
+              "notes": "Also General commanding garrison"
+            }
+          }
+        ],
+        "year": "1900",
+        "military_service": {
+          "branch": "Army",
+          "dual_role": "Governor and General commanding the garrison"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "60-62",
+          "original_text": "Governor, General Sir George White, G.C.M.G., C.B., 126,100 pes.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_cavendish_boyle_1900",
+        "name": "Cavendish Boyle",
+        "name_variants": ["C. Boyle"],
+        "titles": [],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "GIBRALTAR",
+            "status": "permanent",
+            "salary": {
+              "amount": 25000,
+              "currency": "pesetas",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "70-72",
+          "original_text": "Colonial Secretary, Cavendish Boyle, C.M.G., 25,000 pes.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_sanitary_commissioners_1900",
+        "name": "Sanitary Commissioners",
+        "type": "public_body",
+        "year": "1900",
+        "description": "Nominated body managing drainage, water supply, etc.",
+        "composition": {
+          "type": "partly_elected_partly_nominated",
+          "members": "Elected and nominated officials"
+        },
+        "functions": ["drainage management", "water supply", "sanitation"],
+        "financial_data": {
+          "receipts_1888": {
+            "amount": 636759,
+            "currency": "pesetas"
+          },
+          "expenditure_1888": {
+            "amount": 1028525,
+            "currency": "pesetas"
+          },
+          "debt_1887": {
+            "amount": 1402075,
+            "currency": "pesetas"
+          }
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "30-35",
+          "original_text": "The management of the drainage, water supply, &c., is in the hands of a partly elected and partly nominated body, called the Sanitary Commissioners.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_anglo_egyptian_bank_1900",
+        "name": "Anglo-Egyptian Bank",
+        "type": "commercial_bank",
+        "year": "1900",
+        "description": "Branch banking operation in Gibraltar, took over business of late Mr. J. Saccone",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "36-37",
+          "original_text": "There is a branch of the Anglo-Egyptian Bank, which has taken over the business of the late Mr. J. Saccone.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_govt_savings_bank_1900",
+        "name": "Government Savings Bank",
+        "type": "financial_institution",
+        "year": "1900",
+        "founded": "1882",
+        "description": "Government savings bank founded in 1882",
+        "financial_data": {
+          "deposits_1888": {
+            "amount": 1357933,
+            "currency": "pesetas"
+          },
+          "depositors_1888": 1731
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "38-40",
+          "original_text": "A Government savings bank was founded in 1882, and had on 31st Dec., 1888, 1,357,933 pesetas deposited by 1,731 depositors.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1888_1900",
+        "type": "revenue",
+        "colony": "GIBRALTAR",
+        "year": "1900",
+        "year_applies": "1888",
+        "data": {
+          "value": 1481571,
+          "currency": "pesetas"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "55-65",
+          "original_text": "1888 | 1,481,571",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1888_1900",
+        "type": "expenditure",
+        "colony": "GIBRALTAR",
+        "year": "1900",
+        "year_applies": "1888",
+        "data": {
+          "value": 1326525,
+          "currency": "pesetas"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "55-65",
+          "original_text": "1888 | 1,326,525",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_british_tonnage_1888_1900",
+        "type": "shipping_tonnage",
+        "colony": "GIBRALTAR",
+        "year": "1900",
+        "year_applies": "1888",
+        "data": {
+          "value": 10123006,
+          "unit": "tons",
+          "category": "British"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "55-65",
+          "original_text": "1888 | 10,123,006",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_total_tonnage_1888_1900",
+        "type": "shipping_tonnage",
+        "colony": "GIBRALTAR",
+        "year": "1900",
+        "year_applies": "1888",
+        "data": {
+          "value": 11986032,
+          "unit": "tons",
+          "category": "Total"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "55-65",
+          "original_text": "1888 | 11,986,032",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_uk_gibraltar_1892",
+        "type": "trade",
+        "colony": "GIBRALTAR",
+        "year": "1900",
+        "year_applies": "1892",
+        "data": {
+          "value": 763408,
+          "currency": "£",
+          "direction": "from_UK_to_Gibraltar"
+        },
+        "notes": "No full import/export statistics taken except for wine, spirits, beer",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "18-20",
+          "original_text": "in 1892, the exports from England to Gibraltar were 763,408l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_gibraltar_1900",
+        "colony": "GIBRALTAR",
+        "year": "1900",
+        "year_applies": "1888",
+        "population": {
+          "total": 18460,
+          "breakdown": {
+            "civilian": 18460,
+            "note": "Exclusive of military"
+          }
+        },
+        "military_population": {
+          "garrison": 5300,
+          "naval": 220,
+          "notes": "Approximate permanent garrison and naval establishment"
+        },
+        "notes": "Census 1881: 18,381; Estimate 1888: 18,460. Military population separate.",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "67-72",
+          "original_text": "Census, 1881, 18,381; estimate, 1888, 18,460",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_capture_1704_1900",
+        "type": "annexation",
+        "description": "Gibraltar captured by British forces under Sir George Rooke",
+        "event_date": {
+          "year": "1704",
+          "month": "July",
+          "day": "24",
+          "precision": "exact"
+        },
+        "year_mentioned": "1900",
+        "year": "1900",
+        "locations": ["place_gibraltar_1900"],
+        "historical_significance": "British acquisition of Gibraltar",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "7-12",
+          "original_text": "It was captured by the British forces under Sir George Rooke, 24th July, 1704",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_treaty_utrecht_1713_1900",
+        "type": "treaty",
+        "description": "Treaty of Utrecht ceded Gibraltar to Britain",
+        "event_date": {
+          "year": "1713",
+          "precision": "year"
+        },
+        "year_mentioned": "1900",
+        "year": "1900",
+        "locations": ["place_gibraltar_1900"],
+        "historical_significance": "Legal cession of Gibraltar to Great Britain by Spain",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "7-12",
+          "original_text": "was ceded by the Treaty of Utrecht in 1713",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_great_siege_1779_1783_1900",
+        "type": "military_defense",
+        "description": "Great siege of Gibraltar successfully defended by Gen. Eliot (later Lord Heathfield)",
+        "event_date": {
+          "year_start": "1779",
+          "year_end": "1783",
+          "precision": "year_range"
+        },
+        "year_mentioned": "1900",
+        "year": "1900",
+        "locations": ["place_gibraltar_1900"],
+        "people_involved": ["Gen. Eliot (afterwards Lord Heathfield)"],
+        "historical_significance": "Successful defense of Gibraltar against siege",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "7-12",
+          "original_text": "It was successfully defended by Gen. Eliot (afterwards Lord Heathfield) in the great siege of 1779-1783",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_tobacco_factories_1900",
+        "name": "Tobacco Manufactories",
+        "type": "industry",
+        "year": "1900",
+        "description": "42 tobacco manufactories employing about 600 persons",
+        "employment": 600,
+        "count": 42,
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "16-20",
+          "original_text": "About 600 persons are employed in the 42 tobacco manufactories",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_coal_depots_1900",
+        "name": "Coal Depots",
+        "type": "infrastructure",
+        "year": "1900",
+        "description": "Coal depots employing about 1,200 persons for coaling station operations",
+        "employment": 1200,
+        "function": "Coaling station for shipping",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "16-20",
+          "original_text": "about 1,200 in the coal depots",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_port_registry_1900",
+        "name": "Port of Registry",
+        "type": "maritime",
+        "year": "1900",
+        "description": "Port of registry with vessels registered",
+        "registered_vessels": {
+          "count": 34,
+          "total_tonnage": 7386,
+          "date": "1892-12-31"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+          "source_lines": "16-20",
+          "original_text": "It is a port of registry, having on 31st December, 1892, 34 vessels, of together 7,386 tons",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_gibraltar_1900",
+      "relationship_type": "LOCATED_ADJACENT_TO",
+      "target_id": "place_spain_1900",
+      "properties": {
+        "confidence": "definite",
+        "notes": "Peninsula extending from Spain's southwest coast"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_gibraltar_1900",
+      "relationship_type": "BORDERS",
+      "target_id": "place_la_linea_1900",
+      "properties": {
+        "confidence": "definite",
+        "notes": "Spanish town borders Gibraltar's North Front"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_george_white_1900",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_gibraltar_1900",
+      "properties": {
+        "position": "Governor and General commanding garrison",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "inst_sanitary_commissioners_1900",
+      "relationship_type": "MANAGES",
+      "target_id": "place_gibraltar_1900",
+      "properties": {
+        "function": "Manages drainage, water supply, sanitation",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/GIBRALTAR.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 22,
+    "entities_by_type": {
+      "places": 3,
+      "people": 2,
+      "institutions": 3,
+      "economic_data": 5,
+      "demographics": 1,
+      "events": 3,
+      "infrastructure": 3
+    },
+    "total_relationships": 4,
+    "relationships_by_type": {
+      "LOCATED_ADJACENT_TO": 1,
+      "BORDERS": 1,
+      "GOVERNS": 1,
+      "MANAGES": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

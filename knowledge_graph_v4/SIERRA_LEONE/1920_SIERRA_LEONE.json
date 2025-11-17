@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "year": "1920",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1920.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1920_manual_parsed",
+    "extraction_date": "2025-11-17T11:30:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["SIERRA_LEONE"],
+    "processing_notes": "Post-WWI period showing established Protectorate administration with 5 districts, expanded railway network, and comprehensive economic data."
+  },
+  "controlled_vocabularies": {
+    "honors": {"CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3}},
+    "titles": {},
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 1, "category": "executive"},
+      "District Commissioner": {"canonical_name": "District Commissioner", "hierarchy_level": 4, "category": "administrative"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_sierra_leone",
+        "name": "Sierra Leone",
+        "type": "colony",
+        "year": "1920",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "area": {"value": 31000, "unit": "square_miles", "source": "Line 7"},
+        "population": {"total": 1327560, "year": "1911", "source": "Line 41: population of the Protectorate was in 1911 estimated at 1,327,560"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1920_manual_parsed/SIERRA_LEONE.md", "source_lines": "1-8", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T11:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_freetown",
+        "name": "Freetown",
+        "type": "city",
+        "year": "1920",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "population": {"total": 34090, "year": "1911", "source": "Line 33"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1920_manual_parsed/SIERRA_LEONE.md", "source_lines": "32-34", "original_text": "In 1911 it contained 34,090 inhabitants", "extraction_confidence": 0.97, "extraction_date": "2025-11-17T11:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "people": [],
+    "institutions": [],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1918",
+        "type": "revenue",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1918",
+        "year": "1920",
+        "data": {"value": 583159, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1920_manual_parsed/SIERRA_LEONE.md", "source_lines": "143-157", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_expenditure_1918",
+        "type": "expenditure",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1918",
+        "year": "1920",
+        "data": {"value": 544011, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1920_manual_parsed/SIERRA_LEONE.md", "source_lines": "143-157", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_exports_1918",
+        "type": "exports",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1918",
+        "year": "1920",
+        "data": {"value": 1516871, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1920_manual_parsed/SIERRA_LEONE.md", "source_lines": "173-187", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T11:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_population_1911",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1911",
+        "year": "1920",
+        "population": {"total": 75572, "breakdown": {"white_males": 640, "white_females": 2, "coloured_males": 40361, "coloured_females": 34509}},
+        "notes": "Census of the Colony of Sierra Leone (excludes Protectorate)",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1920_manual_parsed/SIERRA_LEONE.md", "source_lines": "190-196", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T11:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "demo_population_1917_europeans",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1917",
+        "year": "1920",
+        "population": {"total": 1090, "breakdown": {"europeans": 1090, "deaths": 10}},
+        "notes": "European population estimate",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1920_manual_parsed/SIERRA_LEONE.md", "source_lines": "75", "extraction_confidence": 0.95, "extraction_date": "2025-11-17T11:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway_main",
+        "name": "Sierra Leone Government Railway - Main Line",
+        "type": "railway",
+        "colony": "SIERRA_LEONE",
+        "year": "1920",
+        "description": "Main line from Freetown to Pendembu",
+        "specifications": {"gauge": "2 ft. 6 in.", "length": {"value": 227.5, "unit": "miles"}, "stations": 53},
+        "operation": {"revenue": 153495, "expenses": 135588, "year": "1917"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1920_manual_parsed/SIERRA_LEONE.md", "source_lines": "120-129", "original_text": "The main line...runs from the Freetown terminus to Pendembu in the Railway District, a distance of 227½ miles...total railway receipts for 1917 were £153,495l.; the working expenses for the same year were £135,588l.", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T11:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "infra_railway_branch",
+        "name": "Sierra Leone Government Railway - Boia Junction Branch",
+        "type": "railway",
+        "colony": "SIERRA_LEONE",
+        "year": "1920",
+        "description": "Branch line from Boia Junction to Kamabai",
+        "specifications": {"gauge": "2 ft. 6 in.", "length": {"value": 104, "unit": "miles"}},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1920_manual_parsed/SIERRA_LEONE.md", "source_lines": "120", "original_text": "From Boia Junction, 644 miles from Freetown, a branch line runs to Kamabai, a distance of 104 miles", "extraction_confidence": 0.97, "extraction_date": "2025-11-17T11:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "place_freetown",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_sierra_leone",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1920_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.98, "extraction_method": "inferred"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 9,
+    "entities_by_type": {"places": 2, "people": 0, "institutions": 0, "economic_data": 3, "demographics": 2, "infrastructure": 2, "events": 0},
+    "total_relationships": 1,
+    "relationships_by_type": {"LOCATED_IN": 1},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

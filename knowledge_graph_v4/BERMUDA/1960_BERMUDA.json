@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "year": "1960",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1960.pdf",
+    "source_directory": "output_2/1960_manual_parsed",
+    "extraction_date": "2025-11-17T12:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM-guided bash extraction)",
+    "colonies_processed": ["BERMUDA"],
+    "processing_notes": "Streamlined extraction for year 1960"
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {},
+    "positions": {}
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_bermuda_1960",
+        "name": "Bermuda",
+        "type": "colony",
+        "year": "1960",
+        "provenance": {
+          "source_file": "output_2/1960_manual_parsed/BERMUDA.md",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "automated_batch",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [],
+    "institutions": [],
+    "economic_data": [],
+    "infrastructure": [],
+    "demographics": [],
+    "events": []
+  },
+  "relationships": [],
+  "extraction_statistics": {
+    "total_entities": 1,
+    "entities_by_type": {
+      "places": 1,
+      "people": 0,
+      "institutions": 0,
+      "economic_data": 0
+    },
+    "total_relationships": 0,
+    "note": "Minimal extraction - requires manual enhancement"
+  }
+}

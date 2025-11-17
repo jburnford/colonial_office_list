@@ -1,0 +1,537 @@
+{
+  "metadata": {
+    "year": "1877",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1877.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1877_manual_parsed",
+    "extraction_date": "2025-11-17T10:15:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM-based extraction)",
+    "colonies_processed": ["JAMAICA"],
+    "processing_notes": "Economic recovery period; parish reorganization completed"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "DCL": {
+        "full_name": "Doctor of Civil Law",
+        "type": "academic",
+        "rank": 0
+      },
+      "GCMG": {
+        "full_name": "Knight Grand Cross of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 1
+      },
+      "GCB": {
+        "full_name": "Knight Grand Cross of the Order of the Bath",
+        "type": "knighthood",
+        "rank": 1
+      },
+      "KCB": {
+        "full_name": "Knight Commander of the Order of the Bath",
+        "type": "knighthood",
+        "rank": 2
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "General": {
+        "full_form": "General",
+        "category": "military"
+      },
+      "Hon": {
+        "full_form": "Honourable",
+        "category": "nobility"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor",
+        "hierarchy_level": 1,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 2,
+        "category": "administrative"
+      },
+      "Attorney-General": {
+        "canonical_name": "Attorney-General",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Director of Roads": {
+        "canonical_name": "Director of Roads and Surveyor-General",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_jamaica",
+        "name": "Jamaica",
+        "type": "colony",
+        "year": "1877",
+        "location_context": {
+          "mentioned_in_colony": "JAMAICA",
+          "actual_location_country": "Jamaica",
+          "certainty": "definite",
+          "reasoning": "Main colony being described"
+        },
+        "coordinates": {
+          "latitude": 18.05,
+          "longitude": -77.3,
+          "source": "Lines 3"
+        },
+        "area": {
+          "value": 4200,
+          "unit": "square_miles",
+          "source": "Lines 3"
+        },
+        "population": {
+          "total": 506154,
+          "year": "1871",
+          "breakdown": {
+            "white": 13101,
+            "coloured": 100346,
+            "black": 392707
+          },
+          "source": "Lines 66-68"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+          "source_lines": "1-3",
+          "original_text": "An island situated in the Caribbean Sea...containing about 4,200 square miles.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_kingston",
+        "name": "Kingston",
+        "type": "city",
+        "year": "1877",
+        "location_context": {
+          "mentioned_in_colony": "JAMAICA",
+          "actual_location_country": "Jamaica",
+          "certainty": "definite",
+          "reasoning": "Capital city of Jamaica"
+        },
+        "parent_location": "place_jamaica",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+          "source_lines": "9",
+          "original_text": "the medium heat at Kingston is about 80°",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_anthony_musgrave",
+        "name": "Anthony Musgrave",
+        "year": "1877",
+        "titles": ["Sir"],
+        "honors": [
+          {
+            "honor": "KCMG",
+            "full_name": "Knight Commander of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "Jamaica",
+            "location": "Kingston",
+            "status": "permanent",
+            "salary": {
+              "amount": 7000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+          "source_lines": "138, 143",
+          "source_section": "Civil Establishment",
+          "original_text": "1877 | Sir Anthony Musgrave, K.C.M.G. ... Captain-General and Governor-in-Chief, Sir Anthony Musgrave, K.C.M.G., 7,000l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_edward_rushworth",
+        "name": "Edward E. Rushworth",
+        "year": "1877",
+        "titles": ["Hon"],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "Jamaica",
+            "location": "Kingston",
+            "status": "permanent",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "biographical": {
+          "previous_service": "Previously served as Lieutenant-Governor and Financial Secretary"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+          "source_lines": "195",
+          "source_section": "Colonial Secretary's Office",
+          "original_text": "Colonial Secretary, E. E. Rushworth, D.C.L., C.M.G., 2,000l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_r_mann",
+        "name": "J. R. Mann",
+        "year": "1877",
+        "titles": ["General", "Hon"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Director of Roads and Surveyor-General",
+            "colony": "Jamaica",
+            "location": "Kingston",
+            "status": "permanent",
+            "salary": {
+              "amount": 1200,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "travelling",
+                "amount": 300,
+                "currency": "£",
+                "description": "Travelling allowance"
+              }
+            ]
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+          "source_lines": "155, 213",
+          "source_section": "Department of the Director of Roads",
+          "original_text": "General the Hon. J. R. Mann, R.E., Director of Roads and Surveyor-General... 1,200l. salary, and 300l. travelling allowance.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_privy_council",
+        "name": "Privy Council",
+        "type": "privy_council",
+        "colony": "Jamaica",
+        "location": "Kingston",
+        "year": "1877",
+        "composition": {
+          "total_members": 4,
+          "official_members": 4
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+          "source_lines": "147-157",
+          "source_section": "Privy Council",
+          "original_text": "Privy Council\n\nThe Senior Officer Commanding Her Majesty's Regular Troops...",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "Jamaica",
+        "location": "Kingston",
+        "year": "1877",
+        "composition": {
+          "total_members": 11,
+          "official_members": 6,
+          "unofficial_members": 5
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+          "source_lines": "159-189",
+          "source_section": "Legislative Council",
+          "original_text": "Legislative Council\n\nPresident, Sir A. Musgrave, K.C.M.G...\nOfficial Members... Non-Official Members...",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1875",
+        "type": "revenue",
+        "colony": "Jamaica",
+        "year": "1877",
+        "year_applies": "1875",
+        "data": {
+          "value": 590987,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+          "source_lines": "60",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "| 1875 | £590,987 | £586,520    |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1877",
+        "type": "debt",
+        "colony": "Jamaica",
+        "year": "1877",
+        "year_applies": "1877",
+        "data": {
+          "value": 869915,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+          "source_lines": "62",
+          "original_text": "Public Debt, £869,915l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1875",
+        "type": "exports",
+        "colony": "Jamaica",
+        "year": "1877",
+        "year_applies": "1875",
+        "data": {
+          "value": 1410485,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+          "source_lines": "85",
+          "source_section": "Imports and Exports",
+          "original_text": "| 1875 | £1,759,942 | £1,410,485 |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_jamaica_1871",
+        "colony": "Jamaica",
+        "year": "1877",
+        "year_applies": "1871",
+        "population": {
+          "total": 506154,
+          "breakdown": {
+            "white": 13101,
+            "coloured": 100346,
+            "black": 392707
+          }
+        },
+        "notes": "Historical terminology from 1871 census, preserved as recorded",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+          "source_lines": "64-68",
+          "source_section": "Population",
+          "original_text": "| 1871 | 100,346  | 13,101| 392,707| 506,154|",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_parish_reorganization",
+        "type": "constitutional_change",
+        "description": "The number of parishes has been reduced from twenty-two to fourteen, and made as equal as possible in area and population",
+        "year_mentioned": "1877",
+        "event_date": {
+          "year": "1867",
+          "precision": "circa"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+          "source_lines": "34",
+          "source_section": "Recent Changes",
+          "original_text": "The number of parishes has been reduced from twenty-two to fourteen, and made as equal as possible in area and population.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_constabulary_formed",
+        "type": "establishment",
+        "description": "A constabulary force, consisting at present of 19 officers, 108 sub-officers, and 514 constables, has been formed",
+        "year_mentioned": "1877",
+        "event_date": {
+          "year": "1867",
+          "precision": "circa"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+          "source_lines": "38",
+          "source_section": "Recent Changes",
+          "original_text": "A constabulary force, consisting at present of 19 officers, 108 sub-officers, and 514 constables, has been formed.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:15:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_anthony_musgrave",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_legislative_council",
+      "properties": {
+        "year": "1877",
+        "position": "President",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_edward_rushworth",
+      "relationship_type": "REPORTS_TO",
+      "target_id": "person_anthony_musgrave",
+      "properties": {
+        "year": "1877",
+        "confidence": "inferred",
+        "notes": "Colonial Secretary reports to Governor"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+        "extraction_confidence": 0.90,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "place_kingston",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_jamaica",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/JAMAICA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 14,
+    "entities_by_type": {
+      "places": 2,
+      "people": 3,
+      "institutions": 2,
+      "economic_data": 3,
+      "demographics": 1,
+      "events": 2,
+      "infrastructure": 0
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 1,
+      "REPORTS_TO": 1,
+      "LOCATED_IN": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0,
+    "processing_time_seconds": 0
+  }
+}

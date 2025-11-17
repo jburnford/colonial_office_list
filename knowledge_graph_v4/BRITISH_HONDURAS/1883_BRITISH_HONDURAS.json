@@ -1,0 +1,662 @@
+{
+  "metadata": {
+    "year": "1883",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1883.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1883_manual_parsed",
+    "extraction_date": "2025-11-17T00:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["BRITISH_HONDURAS"],
+    "processing_notes": "Complete extraction for British Honduras in 1883 - early colonial period with Lieutenant-Governor subordinate to Jamaica"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "KH": {
+        "full_name": "Knight of the Royal Guelphic Order",
+        "type": "knighthood",
+        "rank": 2
+      }
+    },
+    "titles": {
+      "Colonel": {
+        "full_form": "Colonel",
+        "category": "military"
+      },
+      "Captain": {
+        "full_form": "Captain",
+        "category": "military"
+      },
+      "Major": {
+        "full_form": "Major",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Lieutenant-Governor": {
+        "canonical_name": "Lieutenant-Governor",
+        "hierarchy_level": 1,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 2,
+        "category": "administrative"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Treasurer": {
+        "canonical_name": "Treasurer",
+        "hierarchy_level": 2,
+        "category": "administrative"
+      }
+    },
+    "institution_types": {
+      "executive_council": {
+        "description": "Privy Council to the Lieutenant-Governor"
+      },
+      "legislative_council": {
+        "description": "Legislative body consisting of official and unofficial members"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_british_honduras",
+        "name": "British Honduras",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "Central America (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "Colony on east coast of Central America, subordinate to Jamaica"
+        },
+        "area": {
+          "value": 7562,
+          "unit": "square_miles",
+          "source": "Line 19"
+        },
+        "population": {
+          "total": 27452,
+          "year": "1881",
+          "breakdown": {
+            "northern_district": 11439,
+            "central_district": 11209,
+            "southern_district": 4804
+          },
+          "source": "Lines 82-88"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "1-19",
+          "source_section": "BRITISH HONDURAS",
+          "original_text": "British Honduras is a colony on the east coast of Central America... The area of the Colony is 7,562 square miles",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_northern_district",
+        "name": "Northern District",
+        "type": "district",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "British Honduras (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "Northern district bounded by River Hondo"
+        },
+        "population": {
+          "total": 11439,
+          "year": "1881",
+          "source": "Line 84"
+        },
+        "parent_location": "place_british_honduras",
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "84",
+          "original_text": "In Northern District . . . . . . . . . . . . . . 11,439",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_central_district",
+        "name": "Central District (Belize)",
+        "type": "district",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "British Honduras (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "Central district including Belize town"
+        },
+        "population": {
+          "total": 11209,
+          "year": "1881",
+          "source": "Line 85"
+        },
+        "parent_location": "place_british_honduras",
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "85",
+          "original_text": "Central District (Belize, &c.) . . . . . . . . 11,209",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_southern_district",
+        "name": "Southern District",
+        "type": "district",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "British Honduras (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "Southern administrative district"
+        },
+        "population": {
+          "total": 4804,
+          "year": "1881",
+          "source": "Line 86"
+        },
+        "parent_location": "place_british_honduras",
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "86",
+          "original_text": "Southern District . . . . . . . . . . . . . . . . 4,804",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_harley",
+        "name": "Colonel Harley",
+        "titles": ["Colonel"],
+        "honors": [
+          {
+            "honor": "CB",
+            "full_name": "Companion of the Order of the Bath"
+          },
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Acting Lieutenant-Governor",
+            "colony": "BRITISH_HONDURAS",
+            "status": "acting",
+            "start_date": "1882",
+            "salary": {
+              "amount": 1800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "63, 136",
+          "source_section": "Administrators / Civil Establishment",
+          "original_text": "1882 Colonel Harley, C.B., C.M.G.... Acting Lieutenant-Governor, Colonel Harley, C.B., C.M.G., 1,800l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_henry_fowler",
+        "name": "Henry Fowler",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary and Auditor-General",
+            "department": "Colonial Secretary's Office",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent",
+            "salary": {
+              "amount": 600,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "141",
+          "source_section": "Colonial Secretary's Office",
+          "original_text": "Colonial Secretary and Auditor-General, Henry Fowler, 600l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_a_m_sheriff",
+        "name": "W. A. M. Sheriff",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Justice and Judge of Vice-Admiralty Court",
+            "department": "Judicial Establishment",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "183",
+          "source_section": "Judicial Establishment",
+          "original_text": "Chief Justice, and Judge of Vice-Admiralty Court, W. A. M. Sheriff, 1,000l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_j_mckinney",
+        "name": "W. J. McKinney",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Treasurer, Postmaster, and Collector of Customs, Harbour and Shipping Master",
+            "department": "Customs",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent",
+            "salary": {
+              "amount": 550,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "147",
+          "source_section": "Customs",
+          "original_text": "Treasurer, Postmaster, and Collector of Customs, Harbour and Shipping Master, W. J. McKinney, 550l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_h_r_pipon_scholes",
+        "name": "H. R. Pipon Scholes",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Attorney-General and Advocate in Admiralty",
+            "department": "Judicial Establishment",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "184",
+          "source_section": "Judicial Establishment",
+          "original_text": "Attorney-General and Advocate in Admiralty, H. R. Pipon Scholes, 400l. and private practice.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "BRITISH_HONDURAS",
+        "composition": {
+          "total_members": 5,
+          "official_members": 5,
+          "ex_officio_members": 4
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "105-111",
+          "source_section": "Executive Council",
+          "original_text": "Executive Council.\n\nThe Lieutenant-Governor.\nThe Officer Commanding the Troops.\nThe Colonial Secretary.\nThe Treasurer.\nThe Attorney-General.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "BRITISH_HONDURAS",
+        "composition": {
+          "total_members": 9,
+          "official_members": 5,
+          "unofficial_members": 4
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "115-131",
+          "source_section": "Legislative Council",
+          "original_text": "Legislative Council.\n\nPresident, The Lieutenant-Governor.\n\nMembers:\n- The Chief Justice.\n- The Colonial Secretary.\n- The Officer Commanding the Troops.\n- The Treasurer.\n- The Attorney-General.\n\nHonourables:\n- J. H. Phillips.\n- V. H. McDonald.\n- Captain Andrew Halliday Hall.\n- Alexander Williamson.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1881",
+        "type": "revenue",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1881",
+        "data": {
+          "value": 43642,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "78",
+          "original_text": "1881 | £43,642 | £40,712",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1881",
+        "type": "expenditure",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1881",
+        "data": {
+          "value": 40712,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "78",
+          "original_text": "1881 | £43,642 | £40,712",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1881",
+        "type": "imports",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1881",
+        "data": {
+          "value": 201811,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "103",
+          "original_text": "1881 | £201,811 | £247,402",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1881",
+        "type": "exports",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1881",
+        "data": {
+          "value": 247402,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "103",
+          "original_text": "1881 | £201,811 | £247,402",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_1881_census",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1881",
+        "population": {
+          "total": 27452,
+          "breakdown": {
+            "northern_district": 11439,
+            "central_district_belize": 11209,
+            "southern_district": 4804
+          }
+        },
+        "notes": "Census taken on 5th April, 1881",
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "82-88",
+          "source_section": "Population",
+          "original_text": "The population on 5th April, 1881, was reported as follows:...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_colony_declared_1862",
+        "type": "establishment",
+        "description": "Settlement declared a colony on 12th May, 1862, subordinate to Jamaica. Commission issued appointing Lieutenant-Governor",
+        "event_date": {
+          "year": "1862",
+          "month": "May",
+          "day": "12",
+          "precision": "exact"
+        },
+        "year_mentioned": "1883",
+        "locations": ["place_british_honduras"],
+        "year": "1883",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "9-13, 65",
+          "source_section": "History / Administrators",
+          "original_text": "In 1861 it was finally determined to place the settlement in every respect on the footing of a colony, though subordinate to the Government of Jamaica... these arrangements taking effect from the 12th of May, 1862.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_harley",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "position": "President",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_henry_fowler",
+      "relationship_type": "MEMBER_OF",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "position": "Colonial Secretary",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_northern_district",
+      "relationship_type": "PART_OF",
+      "target_id": "place_british_honduras",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_central_district",
+      "relationship_type": "PART_OF",
+      "target_id": "place_british_honduras",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_southern_district",
+      "relationship_type": "PART_OF",
+      "target_id": "place_british_honduras",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1883_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 17,
+    "entities_by_type": {
+      "places": 4,
+      "people": 5,
+      "institutions": 2,
+      "economic_data": 4,
+      "demographics": 1,
+      "events": 1
+    },
+    "total_relationships": 5,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 1,
+      "MEMBER_OF": 1,
+      "PART_OF": 3
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0,
+    "processing_time_seconds": 0
+  }
+}

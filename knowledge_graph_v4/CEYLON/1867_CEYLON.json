@@ -1,0 +1,902 @@
+{
+  "metadata": {
+    "year": "1867",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1867.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1867_manual_parsed",
+    "extraction_date": "2025-11-17T20:48:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM-based extraction)",
+    "colonies_processed": ["CEYLON"],
+    "processing_notes": "Complete extraction for Ceylon 1867 using LLM context-awareness. Revenue and trade data extracted from tables. Population census 1865. Historical context includes 1815 Kandyan conquest and 1833 constitutional changes."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "GCB": {"full_name": "Knight Grand Cross of the Order of the Bath", "type": "knighthood", "rank": 1},
+      "KCB": {"full_name": "Knight Commander of the Order of the Bath", "type": "knighthood", "rank": 2},
+      "KGCMG": {"full_name": "Knight Grand Cross of the Order of St Michael and St George", "type": "knighthood", "rank": 1},
+      "GCH": {"full_name": "Knight Grand Cross of the Royal Guelphic Order", "type": "knighthood", "rank": 1},
+      "KCS": {"full_name": "Knight Commander of the Star of India", "type": "knighthood", "rank": 2}
+    },
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"},
+      "Rev": {"full_form": "Reverend", "category": "religious"},
+      "Right Rev": {"full_form": "Right Reverend", "category": "religious"},
+      "Hon": {"full_form": "Honourable", "category": "nobility"},
+      "Rt Hon": {"full_form": "Right Honourable", "category": "nobility"},
+      "Major-General": {"full_form": "Major-General", "category": "military"},
+      "Lieutenant-General": {"full_form": "Lieutenant-General", "category": "military"},
+      "Captain": {"full_form": "Captain", "category": "military"},
+      "Major": {"full_form": "Major", "category": "military"},
+      "Dr": {"full_form": "Doctor", "category": "academic"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 1, "category": "executive"},
+      "Colonial Secretary": {"canonical_name": "Colonial Secretary", "hierarchy_level": 3, "category": "administrative"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"},
+      "Queen's Advocate": {"canonical_name": "Queen's Advocate", "hierarchy_level": 3, "category": "judicial"},
+      "Treasurer": {"canonical_name": "Treasurer", "hierarchy_level": 3, "category": "administrative"},
+      "Auditor-General": {"canonical_name": "Auditor-General", "hierarchy_level": 3, "category": "administrative"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_ceylon",
+        "name": "Ceylon",
+        "type": "colony",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "CEYLON",
+          "actual_location_country": "Sri Lanka (modern)",
+          "certainty": "definite",
+          "reasoning": "Main colony described in document"
+        },
+        "coordinates": {
+          "latitude": 7.873,
+          "longitude": 80.771,
+          "source": "Document states: between 5° 55' and 9° 51' N. lat., and 79° 41' and 81° 54' E. long. (using midpoint)"
+        },
+        "area": {
+          "value": 24700,
+          "unit": "square_miles",
+          "source": "its area is about 24,700 miles, or about 15,808,000 acres"
+        },
+        "population": {
+          "total": 2049728,
+          "year": "1865",
+          "breakdown": {
+            "males": 1091305,
+            "females": 958423
+          },
+          "source": "Return of Population for 1865"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "1-15",
+          "original_text": "An island situated in the Indian Ocean, off the southern extremity of Hindostan; it is between 5° 55' and 9° 51' N. lat., and 79° 41' and 81° 54' E. long.: its extreme length from north to south, i.e. from Point Palmyra to Dondera Head, is 266 miles; its greatest width 140 miles from Colombo, on the west coast, to Sangemankande on the east; its area is about 24,700 miles, or about 15,808,000 acres.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_colombo",
+        "name": "Colombo",
+        "type": "city",
+        "year": "1867",
+        "parent_location": "place_ceylon",
+        "location_context": {
+          "mentioned_in_colony": "CEYLON",
+          "actual_location_country": "Sri Lanka (modern)",
+          "certainty": "definite",
+          "reasoning": "Major city and administrative center mentioned throughout document"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "3",
+          "original_text": "its greatest width 140 miles from Colombo, on the west coast",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_kandy",
+        "name": "Kandy",
+        "type": "city",
+        "year": "1867",
+        "parent_location": "place_ceylon",
+        "location_context": {
+          "mentioned_in_colony": "CEYLON",
+          "actual_location_country": "Sri Lanka (modern)",
+          "certainty": "definite",
+          "reasoning": "Historic capital, referenced in 1815 Kandyan conquest"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "5",
+          "original_text": "at Kandy, 1,465 feet above sea level, it is 76° (average of ten years)",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_galle",
+        "name": "Galle",
+        "type": "city",
+        "year": "1867",
+        "parent_location": "place_ceylon",
+        "location_context": {
+          "mentioned_in_colony": "CEYLON",
+          "actual_location_country": "Sri Lanka (modern)",
+          "certainty": "definite",
+          "reasoning": "Major port city, mentioned as Dutch settlement"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "5, 60-65",
+          "original_text": "at Galle 70° to 90°; Willem Jacobzeen Coster, Commander at the surrender of Galle",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_trincomalee",
+        "name": "Trincomalee",
+        "type": "city",
+        "year": "1867",
+        "parent_location": "place_ceylon",
+        "location_context": {
+          "mentioned_in_colony": "CEYLON",
+          "actual_location_country": "Sri Lanka (modern)",
+          "certainty": "definite",
+          "reasoning": "Major port on east coast"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "5",
+          "original_text": "and at Trincomalee 74° to 91°",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_jaffna",
+        "name": "Jaffna",
+        "type": "city",
+        "year": "1867",
+        "parent_location": "place_ceylon",
+        "location_context": {
+          "mentioned_in_colony": "CEYLON",
+          "actual_location_country": "Sri Lanka (modern)",
+          "certainty": "definite",
+          "reasoning": "Northern district capital mentioned in administrative divisions"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "308, 373",
+          "original_text": "Assistant ditto ditto, Jaffna, R. C. Pole, 450l.; District Judge, and Joint Commissioner of Requests of Jaffna, J. Morphey, 1,000l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_hercules_robinson",
+        "name": "Hercules G. R. Robinson",
+        "titles": ["Sir"],
+        "honors": [],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Governor",
+            "colony": "CEYLON",
+            "location": "Colombo",
+            "status": "permanent",
+            "salary": {
+              "amount": 7000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "132, 135, 161",
+          "source_section": "British Governors / Executive Council / Civil Establishment",
+          "original_text": "1865 Sir Hercules G. R. Robinson, Knt.; Sir H. G. Robinson, Knt., Governor.; Governor, &c., Sir H. G. Robinson, Knt., 7,000l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_studholme_hodgson",
+        "name": "Studholme John Hodgson",
+        "titles": ["Major-General"],
+        "honors": [],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Commanding the Forces",
+            "colony": "CEYLON",
+            "location": "Colombo",
+            "status": "permanent"
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "136, 145",
+          "source_section": "Executive Council / Legislative Council",
+          "original_text": "Major-General Studholme John Hodgson, Commanding the Forces.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_wc_gibson",
+        "name": "W. C. Gibson",
+        "titles": [],
+        "honors": [],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "CEYLON",
+            "location": "Colombo",
+            "status": "permanent",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "137, 166",
+          "source_section": "Executive Council / Colonial Secretary's Office",
+          "original_text": "W. C. Gibson, Colonial Secretary.; Colonial Secretary, W. G. Gibson, 2,000l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "notes": "Name appears as both W.C. Gibson and W.G. Gibson - likely same person with transcription variation"
+        }
+      },
+      {
+        "id": "person_rf_morgan",
+        "name": "R. F. Morgan",
+        "titles": [],
+        "honors": [],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Queen's Advocate",
+            "colony": "CEYLON",
+            "location": "Colombo",
+            "status": "permanent",
+            "salary": {
+              "amount": 1500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "138, 331",
+          "source_section": "Executive Council / Judicial Establishment",
+          "original_text": "R. F. Morgan, Queen's Advocate.; Queen's Advocate, R. F. Morgan, 1,500l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_g_vane",
+        "name": "G. Vane",
+        "titles": [],
+        "honors": [],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Treasurer",
+            "colony": "CEYLON",
+            "location": "Colombo",
+            "status": "permanent",
+            "salary": {
+              "amount": 1500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "139, 180",
+          "source_section": "Executive Council / Treasurer's Department",
+          "original_text": "G. Vane, Treasurer.; Treasurer, G. Vane, 1,500l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_rj_callender",
+        "name": "R. J. Callender",
+        "titles": [],
+        "honors": [],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Auditor-General",
+            "colony": "CEYLON",
+            "location": "Colombo",
+            "status": "permanent",
+            "salary": {
+              "amount": 1500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "140, 183",
+          "source_section": "Executive Council / Audit Office",
+          "original_text": "R. J. Callender, Auditor-General.; Auditor-General, R. J. Callender, 1,500l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_es_creasy",
+        "name": "E. S. Creasy",
+        "titles": ["Sir"],
+        "honors": [],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "CEYLON",
+            "location": "Colombo",
+            "status": "permanent",
+            "salary": {
+              "amount": 2500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "325",
+          "source_section": "Judicial Establishment",
+          "original_text": "Chief Justice, Sir E. S. Creasy, Knt., 2,500l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_c_temple",
+        "name": "C. Temple",
+        "titles": [],
+        "honors": [],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Senior Puisne Judge",
+            "colony": "CEYLON",
+            "location": "Colombo",
+            "status": "permanent",
+            "salary": {
+              "amount": 1800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "327",
+          "source_section": "Judicial Establishment",
+          "original_text": "Senior Puisne Judge, C. Temple, 1,800l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_hb_thomson",
+        "name": "H. B. Thomson",
+        "titles": [],
+        "honors": [],
+        "year": "1867",
+        "positions": [
+          {
+            "title": "Junior Puisne Judge",
+            "colony": "CEYLON",
+            "location": "Colombo",
+            "status": "permanent",
+            "salary": {
+              "amount": 1800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "329",
+          "source_section": "Judicial Establishment",
+          "original_text": "Junior Puisne Judge, H. B. Thomson, 1,800l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_piers_claughton",
+        "name": "Piers C. Claughton",
+        "titles": ["Right Rev", "Dr"],
+        "honors": [],
+        "year": "1867",
+        "biographical": {
+          "education": "D.D."
+        },
+        "positions": [
+          {
+            "title": "Bishop of Colombo",
+            "colony": "CEYLON",
+            "location": "Colombo",
+            "status": "permanent",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "437",
+          "source_section": "Ecclesiastical Department",
+          "original_text": "Bishop of Colombo, Right Rev. Piers C. Claughton, D.D., 2,000l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "notes": "D.D. is Doctor of Divinity degree, not an honor"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "CEYLON",
+        "location": "Colombo",
+        "year": "1867",
+        "composition": {
+          "total_members": 5,
+          "ex_officio_members": 5
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "13, 134-141",
+          "source_section": "Executive Council",
+          "original_text": "The Government is administered by a Governor, aided by an Executive Council of five Members, viz., the Officer Commanding the Troops, the Colonial Secretary, the Queen's Advocate, the Treasurer, and the Auditor-General",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "CEYLON",
+        "location": "Colombo",
+        "year": "1867",
+        "composition": {
+          "total_members": 15,
+          "official_members": 9,
+          "unofficial_members": 6
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "13, 143-158",
+          "source_section": "Legislative Council",
+          "original_text": "and a Legislative Council of 15 members, including the members of the Executive Council, four other office-holders, and six unofficial Members.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "inst_supreme_court",
+        "name": "Supreme Court of Ceylon",
+        "type": "supreme_court",
+        "colony": "CEYLON",
+        "location": "Colombo",
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "324-338",
+          "source_section": "Judicial Establishment",
+          "original_text": "Judicial Establishment. Chief Justice, Sir E. S. Creasy... Registrar of Supreme Court",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "inferred"
+        }
+      },
+      {
+        "id": "inst_colonial_secretariat",
+        "name": "Colonial Secretary's Office",
+        "type": "colonial_secretariat",
+        "colony": "CEYLON",
+        "location": "Colombo",
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "165-174",
+          "source_section": "Colonial Secretary's Office",
+          "original_text": "Colonial Secretary's Office. Colonial Secretary, W. G. Gibson, 2,000l...",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1865",
+        "type": "revenue",
+        "colony": "CEYLON",
+        "year_applies": "1865",
+        "year": "1867",
+        "data": {
+          "value": 978492,
+          "currency": "£",
+          "unit": "pounds_sterling"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "17-30",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "| 1865 | 978,492 | 866,355     |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_expenditure_1865",
+        "type": "expenditure",
+        "colony": "CEYLON",
+        "year_applies": "1865",
+        "year": "1867",
+        "data": {
+          "value": 866355,
+          "currency": "£",
+          "unit": "pounds_sterling"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "17-30",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "| 1865 | 978,492 | 866,355     |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_imports_1865",
+        "type": "imports",
+        "colony": "CEYLON",
+        "year_applies": "1865",
+        "year": "1867",
+        "data": {
+          "value": 5022179,
+          "currency": "£",
+          "unit": "pounds_sterling"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "32-45",
+          "source_section": "Value of Imports and Exports",
+          "original_text": "| 1865 | 5,022,179        | 3,565,157       |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_exports_1865",
+        "type": "exports",
+        "colony": "CEYLON",
+        "year_applies": "1865",
+        "year": "1867",
+        "data": {
+          "value": 3565157,
+          "currency": "£",
+          "unit": "pounds_sterling"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "32-45",
+          "source_section": "Value of Imports and Exports",
+          "original_text": "| 1865 | 5,022,179        | 3,565,157       |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_ceylon_1865",
+        "colony": "CEYLON",
+        "year_applies": "1865",
+        "year": "1867",
+        "population": {
+          "total": 2049728,
+          "breakdown": {
+            "males": 1091305,
+            "females": 958423
+          }
+        },
+        "notes": "Census data from 1865. Detailed ethnic/religious breakdown not provided in this table.",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "47-54",
+          "source_section": "Return of Population for 1865",
+          "original_text": "Males. Females. Total. | 1,091,305 | 958,423 | 2,049,728",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_british_takeover_1795",
+        "type": "annexation",
+        "description": "The British took possession of the Dutch settlements in Ceylon",
+        "event_date": {
+          "year": "1795",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "locations": ["place_ceylon"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "9",
+          "original_text": "In 1795-6, the British took possession of the Dutch settlements in the island",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "event_separate_colony_1801",
+        "type": "establishment",
+        "description": "Ceylon was erected into a separate Colony (previously annexed to Presidency of Madras)",
+        "event_date": {
+          "year": "1801",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "locations": ["place_ceylon"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "9",
+          "original_text": "they were annexed to the Presidency of Madras, but five years after, in 1801, Ceylon was erected into a separate Colony",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "event_kandyan_conquest_1815",
+        "type": "annexation",
+        "description": "War declared against native Government of the interior; the Kandyan King was taken prisoner, and the whole island fell under British rule",
+        "event_date": {
+          "year": "1815",
+          "precision": "year"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "locations": ["place_ceylon", "place_kandy"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "9",
+          "original_text": "In 1815 war was declared against the native Government of the interior; the Kandyan King was taken prisoner, and the whole island fell under the rule of the British.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "event_council_1831",
+        "type": "constitutional_change",
+        "description": "Council of Government appointed by letters patent under the Great Seal",
+        "event_date": {
+          "year": "1831",
+          "month": "April",
+          "precision": "month"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "locations": ["place_ceylon"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "11",
+          "original_text": "By letters patent under the Great Seal, April, 1831, a Council of Government was appointed",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "event_constitutional_reform_1833",
+        "type": "constitutional_change",
+        "description": "Form of Government almost as now existing was established by supplementary commission to the Governor",
+        "event_date": {
+          "year": "1833",
+          "month": "March",
+          "precision": "month"
+        },
+        "year_mentioned": "1867",
+        "year": "1867",
+        "locations": ["place_ceylon"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+          "source_lines": "11",
+          "original_text": "and by a supplementary commission to the then Governor (March, 1833), the form of Government almost as now existing was established.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T20:48:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_hercules_robinson",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_wc_gibson",
+      "relationship_type": "REPORTS_TO",
+      "target_id": "person_hercules_robinson",
+      "properties": {
+        "year": "1867",
+        "confidence": "inferred"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+        "extraction_confidence": 0.9,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "place_colombo",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_ceylon",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "inst_executive_council",
+      "relationship_type": "PART_OF",
+      "target_id": "place_ceylon",
+      "properties": {
+        "year": "1867",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/CEYLON.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 37,
+    "entities_by_type": {
+      "places": 6,
+      "people": 10,
+      "institutions": 4,
+      "economic_data": 4,
+      "infrastructure": 0,
+      "demographics": 1,
+      "events": 5
+    },
+    "total_relationships": 4,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 1,
+      "REPORTS_TO": 1,
+      "LOCATED_IN": 1,
+      "PART_OF": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

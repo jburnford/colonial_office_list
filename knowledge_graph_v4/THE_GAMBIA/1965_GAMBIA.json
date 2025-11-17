@@ -1,0 +1,558 @@
+{
+  "metadata": {
+    "year": "1965",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1965.pdf",
+    "source_directory": "output_2/1965_manual_parsed",
+    "extraction_date": "2025-11-17T11:30:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["GAMBIA"],
+    "processing_notes": "Final year before independence (achieved Feb 18, 1965). Full internal self-government since Oct 1963. Cabinet system with Prime Minister. Comprehensive census data from 1963. Independence imminent."
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {},
+    "positions": {
+      "Prime Minister": {
+        "canonical_name": "Prime Minister",
+        "hierarchy_level": 1,
+        "category": "executive"
+      },
+      "Governor": {
+        "canonical_name": "Governor",
+        "hierarchy_level": 1,
+        "category": "executive"
+      }
+    },
+    "institution_types": {
+      "cabinet": {
+        "description": "Executive cabinet under internal self-government",
+        "parent_type": null
+      },
+      "house_of_representatives": {
+        "description": "Legislative assembly with elected and appointed members",
+        "parent_type": null
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_gambia",
+        "name": "Gambia",
+        "type": "colony",
+        "area": {
+          "value": 4000,
+          "unit": "square_miles",
+          "source": "Line 5"
+        },
+        "location_context": {
+          "mentioned_in_colony": "GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "British West African colony achieving independence February 18, 1965"
+        },
+        "year": "1965",
+        "provenance": {
+          "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+          "source_lines": "1-5",
+          "source_section": "Area",
+          "original_text": "The total area, including the water area of River Gambia and its creeks and the adjoining marshes is slightly over 4,000 square miles.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T11:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bathurst",
+        "name": "Bathurst",
+        "type": "city",
+        "population": {
+          "total": 27809,
+          "year": "1963",
+          "source": "Line 9"
+        },
+        "location_context": {
+          "mentioned_in_colony": "GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "Capital city, seat of government, chief port, commercial centre"
+        },
+        "year": "1965",
+        "provenance": {
+          "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+          "source_lines": "9, 23",
+          "source_section": "Population; Principal towns",
+          "original_text": "At the census of population taken in April 1963 the total population was 315,486, of which 27,809 in Bathurst town... The only town is Bathurst (27,809) which is the seat of Government, the commercial centre and the chief port.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T11:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_western_division",
+        "name": "Western Division",
+        "type": "district",
+        "parent_location": "place_gambia",
+        "population": {
+          "total": 55393,
+          "year": "1963",
+          "source": "Line 27"
+        },
+        "location_context": {
+          "mentioned_in_colony": "GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "One of four administrative divisions, headquarters Brikama"
+        },
+        "year": "1965",
+        "provenance": {
+          "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+          "source_lines": "25-27",
+          "source_section": "Principal towns",
+          "original_text": "| Western        | 55,393     | Brikama      |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_lower_river_division",
+        "name": "Lower River Division",
+        "type": "district",
+        "parent_location": "place_gambia",
+        "population": {
+          "total": 97272,
+          "year": "1963",
+          "source": "Line 28"
+        },
+        "location_context": {
+          "mentioned_in_colony": "GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "One of four administrative divisions, headquarters Mansakonko"
+        },
+        "year": "1965",
+        "provenance": {
+          "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+          "source_lines": "25-28",
+          "source_section": "Principal towns",
+          "original_text": "| Lower River    | 97,272     | Mansakonko   |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_maccarthy_island_division",
+        "name": "MacCarthy Island Division",
+        "type": "district",
+        "parent_location": "place_gambia",
+        "population": {
+          "total": 64755,
+          "year": "1963",
+          "source": "Line 29"
+        },
+        "location_context": {
+          "mentioned_in_colony": "GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "One of four administrative divisions, headquarters Georgetown"
+        },
+        "year": "1965",
+        "provenance": {
+          "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+          "source_lines": "25-29",
+          "source_section": "Principal towns",
+          "original_text": "| MacCarthy Island | 64,755   | Georgetown   |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_upper_river_division",
+        "name": "Upper River Division",
+        "type": "district",
+        "parent_location": "place_gambia",
+        "population": {
+          "total": 58049,
+          "year": "1963",
+          "source": "Line 30"
+        },
+        "location_context": {
+          "mentioned_in_colony": "GAMBIA",
+          "actual_location_country": "Gambia",
+          "certainty": "definite",
+          "reasoning": "One of four administrative divisions, headquarters Basse"
+        },
+        "year": "1965",
+        "provenance": {
+          "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+          "source_lines": "25-30",
+          "source_section": "Principal towns",
+          "original_text": "| Upper River    | 58,049     | Basse        |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [],
+    "institutions": [
+      {
+        "id": "inst_cabinet",
+        "name": "Cabinet",
+        "type": "cabinet",
+        "colony": "GAMBIA",
+        "location": "Bathurst",
+        "composition": {
+          "total_members": 9,
+          "prime_minister": 1,
+          "other_ministers": 8
+        },
+        "established": "1963",
+        "year": "1965",
+        "provenance": {
+          "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+          "source_lines": "75",
+          "source_section": "Constitution",
+          "original_text": "The Cabinet consists of the Prime Minister and a number of other Ministers, at present eight",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_house_of_representatives",
+        "name": "House of Representatives",
+        "type": "house_of_representatives",
+        "colony": "GAMBIA",
+        "location": "Bathurst",
+        "composition": {
+          "total_members": 40,
+          "speaker": 1,
+          "attorney_general_ex_officio": 1,
+          "elected_members": 32,
+          "elected_head_chiefs": 4,
+          "nominated_members": 2
+        },
+        "year": "1965",
+        "provenance": {
+          "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+          "source_lines": "77",
+          "source_section": "Constitution",
+          "original_text": "The House of Representatives consists of a Speaker, elected by the House; the Attorney-General, who is a public officer, ex officio; thirty-two Elected members, seven from 'the Colony' and twenty-five from 'the Protectorate'; four Elected Head Chiefs elected by the head chiefs; and two Nominated members",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1964",
+        "type": "revenue",
+        "colony": "GAMBIA",
+        "year_applies": "1964",
+        "data": {
+          "value": 2139000,
+          "currency": "£",
+          "breakdown": {
+            "customs": 1099300,
+            "direct_taxation": 175000,
+            "fees_etc": 237880
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1965",
+        "provenance": {
+          "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+          "source_lines": "133, 139-145",
+          "source_section": "Public Finance",
+          "original_text": "| 1964(est.) | 2,139,000 | 420,000              | 2,675,000 |... Customs 1,099,300; Direct taxation 175,000; Fees, etc. 237,880",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1964",
+        "type": "expenditure",
+        "colony": "GAMBIA",
+        "year_applies": "1964",
+        "data": {
+          "value": 2675000,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1965",
+        "provenance": {
+          "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+          "source_lines": "133",
+          "source_section": "Public Finance",
+          "original_text": "| 1964(est.) | 2,139,000 | 420,000              | 2,675,000 |",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1963",
+        "type": "debt",
+        "colony": "GAMBIA",
+        "year_applies": "1963",
+        "data": {
+          "value": 400000,
+          "currency": "£",
+          "category": "Public Debt"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1965",
+        "provenance": {
+          "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+          "source_lines": "149",
+          "source_section": "Public Finance",
+          "original_text": "The Public Debt at the end of 1963 amounted to £400,000, and the sinking fund to £89,900.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [
+      {
+        "id": "demo_census_1963",
+        "colony": "GAMBIA",
+        "year_applies": "1963",
+        "population": {
+          "total": 315486,
+          "breakdown": {
+            "Bathurst_town": 27809,
+            "Kombo_St_Mary": 12208,
+            "rural_areas": 273469,
+            "Mandingoes": 128807,
+            "Fulas": 42723,
+            "Woloffs": 40805,
+            "Jolas": 22046,
+            "Serahulis": 21318,
+            "Other_Gambian_born": 24232,
+            "Non_Gambian": 35555
+          }
+        },
+        "notes": "Census taken April 1963. Apart from hundreds of Europeans, Lebanese and Mauretanians, population is African. Detailed tribal distribution provided.",
+        "year": "1965",
+        "provenance": {
+          "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+          "source_lines": "7-19",
+          "source_section": "Population",
+          "original_text": "At the census of population taken in April 1963 the total population was 315,486... Tribal distribution was: Mandingoes 128,807; Fulas 42,723; Woloffs 40,805; Jolas 22,046; Serahulis 21,318; Other Gambian born 24,232; Non-Gambian 35,555",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T11:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_internal_self_government_1963",
+        "type": "constitutional_change",
+        "description": "Gambia attained full internal self-government under the Gambia (Constitution) (Amendment) Order in Council, 1963",
+        "event_date": {
+          "year": "1963",
+          "month": "October",
+          "day": "4",
+          "precision": "exact"
+        },
+        "year_mentioned": "1965",
+        "locations": ["place_gambia"],
+        "year": "1965",
+        "provenance": {
+          "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+          "source_lines": "69",
+          "source_section": "Constitution",
+          "original_text": "Under the Gambia (Constitution) (Amendment) Order in Council, 1963, Gambia attained full internal self-government on 4th October 1963.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T11:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_independence_1965",
+        "type": "independence",
+        "description": "The country is due to become independent on 18th February 1965",
+        "event_date": {
+          "year": "1965",
+          "month": "February",
+          "day": "18",
+          "precision": "exact"
+        },
+        "year_mentioned": "1965",
+        "locations": ["place_gambia"],
+        "year": "1965",
+        "provenance": {
+          "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+          "source_lines": "81",
+          "source_section": "Constitution",
+          "original_text": "The country is due to become independent on 18th February 1965, but no major changes in the constitution are contemplated.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T11:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated",
+          "notes": "Historic milestone - independence from British colonial rule"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_bathurst",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_gambia",
+      "properties": {
+        "role": "capital",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+        "extraction_confidence": 1.0,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_western_division",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_lower_river_division",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_maccarthy_island_division",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_upper_river_division",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "inst_cabinet",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "inst_house_of_representatives",
+      "relationship_type": "PART_OF",
+      "target_id": "place_gambia",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1965_manual_parsed/GAMBIA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 18,
+    "entities_by_type": {
+      "places": 6,
+      "people": 0,
+      "institutions": 2,
+      "economic_data": 3,
+      "infrastructure": 0,
+      "demographics": 1,
+      "events": 2
+    },
+    "total_relationships": 7,
+    "relationships_by_type": {
+      "LOCATED_IN": 1,
+      "PART_OF": 6
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

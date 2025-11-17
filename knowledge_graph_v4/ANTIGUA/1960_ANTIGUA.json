@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "year": "1960",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1960.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1960_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["ANTIGUA"],
+    "processing_notes": "Late period - minimal information; Antigua was part of larger federation structure with most details in federated section"
+  },
+  "colony_info": {
+    "official_name": "Antigua",
+    "colonial_status": "Part of Leeward Islands Federation",
+    "part_of_federation": "Leeward Islands"
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_antigua",
+        "name": "Antigua",
+        "type": "colony",
+        "year": "1960",
+        "location_context": {
+          "mentioned_in_colony": "ANTIGUA",
+          "actual_location_country": "Antigua",
+          "certainty": "definite"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1960_manual_parsed/ANTIGUA.md",
+          "source_lines": "2",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_i_g_turbott",
+        "name": "I. G. Turbott",
+        "positions": [
+          {
+            "title": "President, Legislative Council",
+            "colony": "Antigua",
+            "status": "permanent"
+          }
+        ],
+        "year": "1960",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1960_manual_parsed/ANTIGUA.md",
+          "source_lines": "3",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_f_a_clarke",
+        "name": "F. A. Clarke",
+        "positions": [
+          {
+            "title": "Clerk of Councils",
+            "colony": "Antigua",
+            "department": "Administrator's Office",
+            "status": "permanent"
+          }
+        ],
+        "year": "1960",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1960_manual_parsed/ANTIGUA.md",
+          "source_lines": "4",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "Antigua",
+        "year": "1960",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1960_manual_parsed/ANTIGUA.md",
+          "source_lines": "3",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "inferred"
+        }
+      }
+    ],
+    "economic_data": [],
+    "demographics": [],
+    "infrastructure": [],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "person_i_g_turbott",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_legislative_council",
+      "properties": {"year": "1960", "confidence": "definite"},
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1960_manual_parsed/ANTIGUA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 4,
+    "entities_by_type": {
+      "places": 1,
+      "people": 2,
+      "institutions": 1,
+      "economic_data": 0,
+      "demographics": 0,
+      "infrastructure": 0,
+      "events": 0
+    },
+    "total_relationships": 1,
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

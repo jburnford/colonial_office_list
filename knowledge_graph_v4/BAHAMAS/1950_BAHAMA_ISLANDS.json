@@ -1,0 +1,700 @@
+{
+  "metadata": {
+    "year": "1950",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1950.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1950_manual_parsed",
+    "extraction_date": "2025-11-17T10:30:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["BAHAMA_ISLANDS"],
+    "processing_notes": "Mid-20th century extraction. Name changed to BAHAMA_ISLANDS. Extensive tourism development, modern telecommunications infrastructure."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KBE": {
+        "full_name": "Knight Commander of the Order of the British Empire",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "OBE": {
+        "full_name": "Officer of the Order of the British Empire",
+        "type": "order",
+        "rank": 4
+      },
+      "ISO": {
+        "full_name": "Imperial Service Order",
+        "type": "order",
+        "rank": 5
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor",
+        "hierarchy_level": 1,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_bahama_islands",
+        "name": "BAHAMA ISLANDS",
+        "name_variants": ["BAHAMAS"],
+        "type": "colony",
+        "year": "1950",
+        "description": "Archipelago of islands, cays and rocks lying between 20° 50' and 27° 25' N. latitude and 72° 37' and 80° 32' W. longitude",
+        "location_context": {
+          "mentioned_in_colony": "BAHAMA_ISLANDS",
+          "actual_location_country": "BAHAMAS",
+          "certainty": "definite",
+          "reasoning": "Primary colony entry"
+        },
+        "area": {
+          "value": 4403.5,
+          "unit": "square_miles",
+          "source": "Line 7"
+        },
+        "population": {
+          "total": 76620,
+          "year": "1948",
+          "breakdown": {
+            "males": 36175,
+            "females": 40445
+          },
+          "source": "Line 48"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "1-7",
+          "source_section": "BAHAMA ISLANDS > SITUATION AND AREA",
+          "original_text": "The total area of the colony is 4,403½ square miles, or about half the size of Wales.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_nassau",
+        "name": "Nassau",
+        "type": "city",
+        "year": "1950",
+        "description": "Capital of the colony, centre of tourist traffic with modern infrastructure including pipe-borne water, sewerage, electric light, telephone, broadcasting station",
+        "location_context": {
+          "mentioned_in_colony": "BAHAMA_ISLANDS",
+          "actual_location_country": "BAHAMAS",
+          "certainty": "definite",
+          "reasoning": "Capital city on New Providence Island"
+        },
+        "parent_location": "place_new_providence",
+        "population": {
+          "total": 29391,
+          "year": "1943",
+          "source": "Line 71"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "27",
+          "source_section": "BAHAMA ISLANDS > GENERAL DESCRIPTION",
+          "original_text": "Nassau, the capital of the colony, is the centre of the tourist traffic",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_new_providence",
+        "name": "New Providence",
+        "type": "island",
+        "year": "1950",
+        "location_context": {
+          "mentioned_in_colony": "BAHAMA_ISLANDS",
+          "actual_location_country": "BAHAMAS",
+          "certainty": "definite",
+          "reasoning": "Principal island containing the capital"
+        },
+        "area": {
+          "value": 58,
+          "unit": "square_miles",
+          "source": "Line 71"
+        },
+        "population": {
+          "total": 29391,
+          "year": "1943",
+          "breakdown": {
+            "males": 13488,
+            "females": 15903
+          },
+          "source": "Line 71"
+        },
+        "parent_location": "place_bahama_islands",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "19, 71",
+          "original_text": "New Providence (containing the capital Nassau)",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_bimini",
+        "name": "Bimini",
+        "name_variants": ["Biminis", "The Biminis"],
+        "type": "island",
+        "year": "1950",
+        "description": "Centre for sports fishing, visited by fishing enthusiasts from the United States",
+        "location_context": {
+          "mentioned_in_colony": "BAHAMA_ISLANDS",
+          "actual_location_country": "BAHAMAS",
+          "certainty": "definite",
+          "reasoning": "Listed as principal island"
+        },
+        "area": {
+          "value": 8.5,
+          "unit": "square_miles",
+          "source": "Line 59"
+        },
+        "population": {
+          "total": 718,
+          "year": "1943",
+          "breakdown": {
+            "males": 369,
+            "females": 349
+          },
+          "source": "Line 59"
+        },
+        "parent_location": "place_bahama_islands",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "30, 59",
+          "original_text": "Bimini, which is a centre for sports fishing, is visited by numbers of fishing enthusiasts from the United States",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_george_ritchie_sandford",
+        "name": "George Ritchie Sandford",
+        "name_variants": ["Sir George Ritchie Sandford"],
+        "titles": ["Sir"],
+        "honors": [
+          {
+            "honor": "KBE",
+            "full_name": "Knight Commander of the Order of the British Empire"
+          },
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "canonical_title": "Governor",
+            "colony": "BAHAMA_ISLANDS",
+            "location": "Nassau",
+            "status": "permanent",
+            "start_date": "1950",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "duty",
+                "amount": 300,
+                "currency": "£"
+              },
+              {
+                "type": "from_bahamas_crown_funds",
+                "amount": 1150,
+                "currency": "£"
+              },
+              {
+                "type": "government_house_expenses",
+                "amount": 1700,
+                "currency": "£"
+              }
+            ]
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "334, 409",
+          "source_section": "BAHAMA_ISLANDS > GOVERNORS and CIVIL ESTABLISHMENT",
+          "original_text": "1950 Sir George Ritchie Sandford, K.B.E., C.M.G. ... Governor—Sir George Ritchie Sandford, K.B.E., C.M.G. £3,000. Duty allowance £300",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_fa_evans",
+        "name": "F. A. Evans",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "canonical_title": "Colonial Secretary",
+            "colony": "BAHAMA_ISLANDS",
+            "location": "Nassau",
+            "status": "permanent",
+            "salary": {
+              "amount": 1200,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "415",
+          "source_section": "BAHAMA_ISLANDS > CIVIL ESTABLISHMENT > SECRETARIAT",
+          "original_text": "Colonial Secretary—F. A. Evans. £1,200.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_ol_bancroft",
+        "name": "O. L. Bancroft",
+        "titles": [],
+        "honors": [],
+        "biographical": {
+          "education": "K.C., M.A."
+        },
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "canonical_title": "Chief Justice",
+            "colony": "BAHAMA_ISLANDS",
+            "location": "Nassau",
+            "status": "permanent",
+            "salary": {
+              "amount": 1300,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "461",
+          "source_section": "BAHAMA_ISLANDS > CIVIL ESTABLISHMENT > JUDICIAL",
+          "original_text": "Chief Justice—O. L. Bancroft, K.C., M.A. £1,300.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "BAHAMA_ISLANDS",
+        "location": "Nassau",
+        "year": "1950",
+        "composition": {
+          "total_members": 9
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "104, 336-346",
+          "source_section": "BAHAMA_ISLANDS > ADMINISTRATION > EXECUTIVE COUNCIL",
+          "original_text": "The executive government is conducted, under Letters Patent, by the Governor aided by an Executive Council not exceeding nine members",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "BAHAMA_ISLANDS",
+        "location": "Nassau",
+        "year": "1950",
+        "established": "1841",
+        "composition": {
+          "total_members": 9,
+          "appointed_members": 9
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "98, 349-359",
+          "source_section": "BAHAMA_ISLANDS > CONSTITUTION > LEGISLATIVE COUNCIL",
+          "original_text": "The Legislative Council, consisting of nine members nominated by the Crown, was created as a separate Council by Royal Letters Patent in 1841",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_house_of_assembly",
+        "name": "House of Assembly",
+        "type": "house_of_assembly",
+        "colony": "BAHAMA_ISLANDS",
+        "location": "Nassau",
+        "year": "1950",
+        "composition": {
+          "total_members": 29,
+          "elected_members": 29,
+          "districts": 15
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "100, 361-384",
+          "source_section": "BAHAMA_ISLANDS > CONSTITUTION > HOUSE OF ASSEMBLY",
+          "original_text": "The House of Assembly is composed of 29 members elected for 15 districts",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1948",
+        "type": "revenue",
+        "colony": "BAHAMA_ISLANDS",
+        "year_applies": "1948",
+        "year": "1950",
+        "data": {
+          "value": 1360226,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "214",
+          "source_section": "BAHAMA_ISLANDS > Public Revenue and Expenditure",
+          "original_text": "1948 | 1,360,226 | 1,317,620 | 245,000",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_public_debt_1947",
+        "type": "debt",
+        "colony": "BAHAMA_ISLANDS",
+        "year_applies": "1947",
+        "year": "1950",
+        "data": {
+          "value": 245000,
+          "currency": "£",
+          "breakdown": {
+            "authorised": 245000,
+            "held_for_repayment": 158976
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "193-196",
+          "source_section": "BAHAMA_ISLANDS > Public Finance",
+          "original_text": "In December, 1947, the authorised Public Debt was £245,000, made up of locally raised loans. The total held for repayment was £158,976",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1948",
+        "type": "exports",
+        "colony": "BAHAMA_ISLANDS",
+        "year_applies": "1948",
+        "year": "1950",
+        "data": {
+          "value": 550357,
+          "currency": "£",
+          "breakdown": {
+            "tomatoes": 92230,
+            "lumber": 70903,
+            "crawfish": 67764,
+            "salt": 45623,
+            "sisal": 13409,
+            "straw_and_shell_work": 11229,
+            "shell": 6802
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "226",
+          "source_section": "BAHAMA_ISLANDS > Production and Trade",
+          "original_text": "Exports (excluding specie) during 1948 totalled £550,357. The principal items exported were tomatoes £92,230, lumber £70,903, crawfish £67,764",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_oakes_airport",
+        "name": "Oakes Airport",
+        "type": "other",
+        "colony": "BAHAMA_ISLANDS",
+        "description": "Main airfield in the Bahamas providing 24-hour service for long range international and local airlines",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "167",
+          "source_section": "BAHAMA_ISLANDS > Communications > Air",
+          "original_text": "Oakes Airport is the main airfield in the Bahamas which provides 24-hour service for long range international and local airlines",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_telegraph_radio",
+        "name": "Radio Telegraph Circuit",
+        "type": "telegraph",
+        "colony": "BAHAMA_ISLANDS",
+        "description": "Radio telegraph circuit to Miami with frequency shift radio teleprinter operation",
+        "year": "1950",
+        "specifications": {
+          "technology": "Frequency shift radio teleprinter",
+          "connectivity": "Nassau to Miami with automatic retransmission to Western Union System"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "179",
+          "source_section": "BAHAMA_ISLANDS > Communications > Radio Telephone and Telegraph",
+          "original_text": "During 1946 the radio telegraph circuit to Miami was modernised by the introduction of frequency shift radio teleprinter operation",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_population_1948",
+        "colony": "BAHAMA_ISLANDS",
+        "year": "1950",
+        "year_applies": "1948",
+        "population": {
+          "total": 76620,
+          "breakdown": {
+            "males": 36175,
+            "females": 40445
+          }
+        },
+        "notes": "Estimated population",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "46-48",
+          "source_section": "BAHAMA_ISLANDS > POPULATION",
+          "original_text": "1948 (est.) | 76,620 ... The population in 1948 was estimated to consist of 36,175 males and 40,445 females",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_eleutherian_adventurers_1647",
+        "type": "establishment",
+        "description": "The Company of Eleutherian Adventurers was formed in London for systematic colonization",
+        "event_date": {
+          "year": "1647",
+          "month": "July",
+          "day": "9",
+          "precision": "exact"
+        },
+        "year_mentioned": "1950",
+        "year": "1950",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "85",
+          "source_section": "BAHAMA_ISLANDS > HISTORY",
+          "original_text": "on the 9th of July, 1647, The Company of Eleutherian Adventurers was formed in London",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_duke_windsor_1940",
+        "type": "other",
+        "description": "His Royal Highness The Duke of Windsor became Governor",
+        "event_date": {
+          "year": "1940",
+          "precision": "year"
+        },
+        "year_mentioned": "1950",
+        "year": "1950",
+        "participants": ["His Royal Highness The Duke of Windsor"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+          "source_lines": "332",
+          "source_section": "BAHAMA_ISLANDS > GOVERNORS",
+          "original_text": "1940 His Royal Highness The Duke of Windsor, K.G., K.T., K.P., G.C.B., G.C.S.I., G.C.M.G., G.C.I.E., G.C.V.O., G.B.E., I.S.O., M.C.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_nassau",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_new_providence",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_new_providence",
+      "relationship_type": "PART_OF",
+      "target_id": "place_bahama_islands",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "person_george_ritchie_sandford",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_bahama_islands",
+      "properties": {
+        "position": "Governor",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_fa_evans",
+      "relationship_type": "REPORTS_TO",
+      "target_id": "person_george_ritchie_sandford",
+      "properties": {
+        "confidence": "inferred",
+        "reasoning": "Colonial Secretary reports to Governor"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1950_manual_parsed/BAHAMA_ISLANDS.md",
+        "extraction_confidence": 0.85,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 17,
+    "entities_by_type": {
+      "places": 4,
+      "people": 3,
+      "institutions": 3,
+      "economic_data": 3,
+      "infrastructure": 2,
+      "demographics": 1,
+      "events": 2
+    },
+    "total_relationships": 4,
+    "relationships_by_type": {
+      "LOCATED_IN": 1,
+      "PART_OF": 1,
+      "GOVERNS": 1,
+      "REPORTS_TO": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "year": "1961",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1961.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1961_manual_parsed",
+    "extraction_date": "2025-11-17T12:30:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["SIERRA_LEONE"],
+    "processing_notes": "Final year before independence (April 27, 1961). Shows comprehensive constitutional reforms with Cabinet system, House of Representatives, and preparation for independence."
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {},
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 1, "category": "executive"},
+      "Prime Minister": {"canonical_name": "Prime Minister", "hierarchy_level": 2, "category": "executive"},
+      "Chief Justice": {"canonical_name": "Chief Justice", "hierarchy_level": 2, "category": "judicial"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_sierra_leone",
+        "name": "Sierra Leone",
+        "type": "colony",
+        "year": "1961",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "area": {"value": 27925, "unit": "square_miles", "source": "Line 5: total area is 27,925 square miles (Colony 256, Protectorate 27,669)"},
+        "population": {"total": 2400000, "year": "1961", "breakdown": {"colony": 160000, "protectorate": 2240000, "europeans_and_asians": 2000}, "source": "Lines 7-9"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "source_lines": "1-18", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "place_freetown",
+        "name": "Freetown",
+        "type": "city",
+        "year": "1961",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite"},
+        "population": {"total": 125000, "year": "1961", "source": "Lines 12-15"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "source_lines": "11-15", "original_text": "Freetown, capital | 125,000", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "place_bo",
+        "name": "Bo",
+        "type": "town",
+        "year": "1961",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite", "reasoning": "S.W. Province"},
+        "population": {"total": 40000, "year": "1961", "source": "Lines 12-17"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "source_lines": "16", "original_text": "Bo, S.W. Province | 40,000", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "place_kenema",
+        "name": "Kenema",
+        "type": "town",
+        "year": "1961",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite", "reasoning": "S.E. Province"},
+        "population": {"total": 7000, "year": "1961", "source": "Line 17"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "source_lines": "17", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "place_makeni",
+        "name": "Makeni",
+        "type": "town",
+        "year": "1961",
+        "location_context": {"mentioned_in_colony": "SIERRA_LEONE", "actual_location_country": "Sierra Leone", "certainty": "definite", "reasoning": "N. Province"},
+        "population": {"total": 8000, "year": "1961", "source": "Line 18"},
+        "parent_location": "place_sierra_leone",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "source_lines": "18", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "people": [],
+    "institutions": [
+      {
+        "id": "inst_house_of_representatives",
+        "name": "House of Representatives",
+        "type": "legislative_assembly",
+        "colony": "SIERRA_LEONE",
+        "year": "1961",
+        "composition": {"total_members": 53, "elected_members": 51, "nominated_members": 2, "breakdown": {"freetown_colony": 14, "protectorate_electoral_districts": 25, "paramount_chiefs": 12}},
+        "established": "1958",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "source_lines": "66", "source_section": "Constitution", "original_text": "House of Representatives consisting of a Speaker, 51 elected members and two nominated members", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1959_60",
+        "type": "revenue",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1959-60",
+        "year": "1961",
+        "data": {"value": 11245111, "currency": "£", "breakdown": {"customs": 5356582, "taxes": 2483719}},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "source_lines": "83-99", "source_section": "Public Finance", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_expenditure_1959_60",
+        "type": "expenditure",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1959-60",
+        "year": "1961",
+        "data": {"value": 11857062, "currency": "£", "breakdown": {"development_schemes": 2415908, "medical_and_education": 2353367, "public_works_recurrent": 1357389, "public_works_non_recurrent": 373648, "law_and_order": 1443247, "provincial_administration_ministries": 358036}},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "source_lines": "96-99", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      },
+      {
+        "id": "econ_debt_1960",
+        "type": "debt",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1960",
+        "year": "1961",
+        "data": {"value": 8180152, "currency": "£", "category": "Public Debt"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "source_lines": "100-112", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "parsed_table", "verification_status": "automated"}
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_population_1961",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1961",
+        "year": "1961",
+        "population": {"total": 2400000, "breakdown": {"colony": 160000, "protectorate": 2240000, "europeans_and_asians": 2000, "african_settlers_descendants": 40000, "tribal_population_mende_temne": "majority"}},
+        "notes": "Latest estimate showing Colony/Protectorate division and tribal composition (mainly Mende and Temne)",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "source_lines": "7-9", "source_section": "Population", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway_government",
+        "name": "Sierra Leone Government Railway",
+        "type": "railway",
+        "colony": "SIERRA_LEONE",
+        "year": "1961",
+        "description": "Government railway system",
+        "specifications": {"gauge": "2 ft. 6 in.", "total_mileage": 345},
+        "operation": {"passengers": 1968808, "freight_tons": 133890, "period": "1st January 1958 to 31st March 1959"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "source_lines": "173", "source_section": "Communications", "original_text": "The railway carried 1,968,808 passengers and 133,890 tons of freight in the period 1st January 1958 to 31st March 1959. The gauge of the railway is 2 ft. 6 in. and the mileage maintained (including sidings) totalled 345.", "extraction_confidence": 0.98, "extraction_date": "2025-11-17T12:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "infra_roads",
+        "name": "Road Network",
+        "type": "road",
+        "colony": "SIERRA_LEONE",
+        "year": "1961",
+        "description": "Total road network",
+        "specifications": {"total_length": {"value": 3575, "unit": "miles"}, "pws_maintained": {"value": 1775, "unit": "miles"}, "bitumen_surfaced": {"value": 196, "unit": "miles"}},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "source_lines": "175-178", "extraction_confidence": 0.97, "extraction_date": "2025-11-17T12:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      },
+      {
+        "id": "infra_freetown_airport",
+        "name": "Freetown Airport (Lungi)",
+        "type": "port",
+        "colony": "SIERRA_LEONE",
+        "year": "1961",
+        "description": "International airport operated by Department of Civil Aviation",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "source_lines": "169", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ],
+    "events": [
+      {
+        "id": "event_constitution_1960",
+        "type": "constitutional_change",
+        "description": "Sierra Leone (Constitution) (Amendment) Order in Council, 1960 introduced Cabinet system with Prime Minister",
+        "year_mentioned": "1961",
+        "year": "1961",
+        "event_date": {"year": "1960", "month": "July", "day": "9", "precision": "exact"},
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "source_lines": "58-60", "source_section": "Constitution", "original_text": "The Order which provides for a Cabinet consisting of the Prime Minister as president and not less than 7 other Ministers, came into operation on the 9th of July, 1960.", "extraction_confidence": 0.99, "extraction_date": "2025-11-17T12:30:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction", "verification_status": "automated"}
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_freetown",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_sierra_leone",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.99, "extraction_method": "definite"}
+    },
+    {
+      "source_id": "place_bo",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_sierra_leone",
+      "properties": {"confidence": "definite"},
+      "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1961_manual_parsed/SIERRA_LEONE.md", "extraction_confidence": 0.98, "extraction_method": "definite"}
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 17,
+    "entities_by_type": {"places": 5, "people": 0, "institutions": 1, "economic_data": 3, "demographics": 1, "infrastructure": 3, "events": 1},
+    "total_relationships": 2,
+    "relationships_by_type": {"LOCATED_IN": 2},
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

@@ -1,0 +1,586 @@
+{
+  "metadata": {
+    "year": "1867",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1867.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1867_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["SIERRA_LEONE"],
+    "processing_notes": "1867 data shows Sierra Leone as part of West African Settlements with centralized governance. Basic administrative structure with limited detail."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Col": {
+        "full_form": "Colonel",
+        "category": "military"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Right Rev": {
+        "full_form": "Right Reverend",
+        "category": "religious"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor",
+        "hierarchy_level": 1,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Treasurer": {
+        "canonical_name": "Treasurer",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Collector of Customs": {
+        "canonical_name": "Collector of Customs",
+        "hierarchy_level": 4,
+        "category": "administrative"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_sierra_leone",
+        "name": "Sierra Leone",
+        "type": "colony",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "SIERRA_LEONE",
+          "actual_location_country": "Sierra Leone",
+          "certainty": "definite",
+          "reasoning": "Colony of Sierra Leone, part of West African Settlements"
+        },
+        "area": {
+          "value": 300,
+          "unit": "square_miles",
+          "source": "Line 5"
+        },
+        "coordinates": {
+          "latitude": 8.5,
+          "longitude": -13.3,
+          "source": "Line 5: Cape Sierra Leone at 8° 30' N. lat., 13° 18' W. long."
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "1-6",
+          "source_section": "WEST AFRICAN SETTLEMENTS > SIERRA LEONE",
+          "original_text": "Sierra Leone...peninsula...18 miles in length by 12 in breadth, with an area of 300 square miles",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_freetown",
+        "name": "Freetown",
+        "type": "city",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "SIERRA_LEONE",
+          "actual_location_country": "Sierra Leone",
+          "certainty": "definite",
+          "reasoning": "Capital city mentioned in colonial administration context"
+        },
+        "parent_location": "place_sierra_leone",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "83-122",
+          "source_section": "Civil Establishment",
+          "original_text": "References to Freetown offices and positions",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "inferred",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_sherbro",
+        "name": "Sherbro",
+        "type": "district",
+        "year": "1867",
+        "location_context": {
+          "mentioned_in_colony": "SIERRA_LEONE",
+          "actual_location_country": "Sierra Leone",
+          "certainty": "definite",
+          "reasoning": "District handed over by treaty to the Colony in 1862"
+        },
+        "parent_location": "place_sierra_leone",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "7-11",
+          "original_text": "In 1862 a large tract of country called Sherboro was handed over by treaty to the Colony",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_samuel_blackall",
+        "name": "Samuel Wensley Blackall",
+        "name_variants": ["S. W. Blackall", "Col. Blackall"],
+        "titles": ["Col"],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Governor of West Africa Settlements",
+            "colony": "SIERRA_LEONE",
+            "location": "Freetown",
+            "status": "permanent",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "general",
+                "amount": 500,
+                "currency": "£",
+                "description": "Allowances"
+              }
+            ]
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "85",
+          "source_section": "Civil Establishment",
+          "original_text": "Governor of W. A. Settlements, Col. S. W. Blackall, 3,000l. and allowances, 500l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_george_nicol",
+        "name": "George W. Nicol",
+        "name_variants": ["G. W. Nicol"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "SIERRA_LEONE",
+            "status": "permanent",
+            "salary": {
+              "amount": 700,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "74, 87",
+          "source_section": "Legislative Council and Civil Establishment",
+          "original_text": "Colonial Secretary, G. W. Nicol. 700l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_john_carr",
+        "name": "John Carr",
+        "name_variants": ["J. Carr"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "SIERRA_LEONE",
+            "status": "permanent",
+            "salary": {
+              "amount": 1500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "73, 110",
+          "source_section": "Legislative Council and Judicial Establishment",
+          "original_text": "Chief Justice, John Carr...1,500l.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_edward_beckles",
+        "name": "Edward H. Beckles",
+        "name_variants": ["E. H. Beckles", "Right Rev. E. H. Beckles"],
+        "titles": ["Right Rev"],
+        "honors": [],
+        "biographical": {
+          "previous_service": "1st Clerk in Colonial Secretary's office before becoming Bishop"
+        },
+        "positions": [
+          {
+            "title": "Bishop of Sierra Leone",
+            "colony": "SIERRA_LEONE",
+            "status": "permanent",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "Bishop's Fund",
+                "amount": 400,
+                "currency": "£",
+                "description": "allowance from Bishop's Fund"
+              }
+            ]
+          }
+        ],
+        "year": "1867",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "88, 118",
+          "source_section": "Civil Establishment and Ecclesiastical",
+          "original_text": "Bishop, Right Rev. E. H. Beckles, 500l., and allowance from Bishop's Fund, 400l.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "SIERRA_LEONE",
+        "year": "1867",
+        "composition": {
+          "total_members": 5,
+          "official_members": 5,
+          "ex_officio_members": 5
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "64-68",
+          "source_section": "Executive Council",
+          "original_text": "President, the Governor. The Chief Justice, Officer Commanding Troops, Colonial Secretary, and the Queen's Advocate.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "SIERRA_LEONE",
+        "year": "1867",
+        "composition": {
+          "total_members": 8,
+          "official_members": 5,
+          "unofficial_members": 3
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "70-80",
+          "source_section": "Legislative Council",
+          "original_text": "President, The Governor. Chief Justice, John Carr...C. Heddle. Robt. Bradshaw...J. Ezziilio.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1864",
+        "type": "revenue",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1864",
+        "year": "1867",
+        "data": {
+          "value": 48692,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "30-42",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "1864 | £48,692",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1864",
+        "type": "expenditure",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1864",
+        "year": "1867",
+        "data": {
+          "value": 51061,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "30-42",
+          "source_section": "Revenue and Expenditure",
+          "original_text": "1864 | £51,061",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1864",
+        "type": "imports",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1864",
+        "year": "1867",
+        "data": {
+          "value": 190441,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "51-63",
+          "source_section": "Value of Imports and Exports",
+          "original_text": "1864 | £190,441",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1864",
+        "type": "exports",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1864",
+        "year": "1867",
+        "data": {
+          "value": 201808,
+          "currency": "£"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "51-63",
+          "source_section": "Value of Imports and Exports",
+          "original_text": "1864 | £201,808",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_population_1862",
+        "colony": "SIERRA_LEONE",
+        "year_applies": "1862",
+        "year": "1867",
+        "population": {
+          "total": 41806,
+          "breakdown": {
+            "white_males": 99,
+            "white_females": 32,
+            "coloured_males": 21115,
+            "coloured_females": 20560
+          }
+        },
+        "notes": "Census categories reflect British colonial classifications of 'White' and 'Coloured'",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "43-50",
+          "source_section": "Population of each Sex and Colour",
+          "original_text": "1862 | 99 | 32 | 21,115 | 20,560 | 21,214 | 20,592 | 41,806",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "events": [
+      {
+        "id": "event_cession_1787",
+        "type": "establishment",
+        "description": "Sierra Leone was ceded to Great Britain by native chiefs",
+        "year_mentioned": "1867",
+        "year": "1867",
+        "event_date": {
+          "year": "1787",
+          "precision": "year"
+        },
+        "locations": ["place_sierra_leone"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "5",
+          "source_section": "SIERRA LEONE",
+          "original_text": "Sierra Leone was ceded to Great Britain in 1787 by the native chiefs.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_sherbro_1862",
+        "type": "annexation",
+        "description": "Large tract of country called Sherbro was handed over by treaty to the Colony",
+        "year_mentioned": "1867",
+        "year": "1867",
+        "event_date": {
+          "year": "1862",
+          "precision": "year"
+        },
+        "locations": ["place_sherbro"],
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+          "source_lines": "7-11",
+          "original_text": "In 1862 a large tract of country called Sherboro was handed over by treaty to the Colony.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_samuel_blackall",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_sierra_leone",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_freetown",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_sierra_leone",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "place_sherbro",
+      "relationship_type": "PART_OF",
+      "target_id": "place_sierra_leone",
+      "properties": {
+        "confidence": "definite",
+        "year": "1862"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1867_manual_parsed/SIERRA_LEONE.md",
+        "extraction_confidence": 0.97,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 18,
+    "entities_by_type": {
+      "places": 3,
+      "people": 4,
+      "institutions": 2,
+      "economic_data": 4,
+      "demographics": 1,
+      "infrastructure": 0,
+      "events": 2
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "GOVERNS": 1,
+      "LOCATED_IN": 1,
+      "PART_OF": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "metadata": {
+    "year": "1894",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1894.pdf",
+    "source_directory": "output_2/1894_manual_parsed",
+    "extraction_date": "2025-11-17T10:30:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM-based extraction)",
+    "colonies_processed": ["DOMINICA"],
+    "processing_notes": "Notable year - references 1893 riots and Hamilton inquiry. Economic products: sugar, cocoa, lime-juice."
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {
+      "M.D.": {"full_form": "Doctor of Medicine", "category": "academic"}
+    },
+    "positions": {
+      "President": {"canonical_name": "President", "hierarchy_level": 2, "category": "executive"},
+      "Administrator": {"canonical_name": "Administrator", "hierarchy_level": 2, "category": "executive"},
+      "Treasurer": {"canonical_name": "Treasurer", "hierarchy_level": 3, "category": "administrative"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council", "parent_type": null},
+      "legislative_assembly": {"description": "Legislative body", "parent_type": null}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_dominica",
+        "name": "Dominica",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica (Windward Islands, Caribbean)",
+          "certainty": "definite",
+          "reasoning": "Main colony entry, between French islands Guadeloupe and Martinique"
+        },
+        "coordinates": {
+          "latitude": 15.52,
+          "longitude": -61.37,
+          "source": "Lines 4: between 15° 20' and 15° 45' N. lat., and 61° 13' and 61° 30' W. long."
+        },
+        "area": {
+          "value": 291,
+          "unit": "square_miles",
+          "source": "Line 4: has an area of 291 square miles"
+        },
+        "population": {
+          "total": 26841,
+          "year": "1891",
+          "breakdown": {"Caribs": 309},
+          "source": "Line 63: Census 1891, 26,841"
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+          "source_lines": "1-25",
+          "source_section": "DOMINICA",
+          "original_text": "Dominica is situated between 15° 20' and 15° 45' N. lat., and 61° 13' and 61° 30' W. long.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_roseau",
+        "name": "Roseau",
+        "type": "town",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica",
+          "certainty": "definite",
+          "reasoning": "Capital city of Dominica, chief town and port of registry"
+        },
+        "population": {
+          "total": 4500,
+          "year": "1894",
+          "source": "Line 25: Roseau, population about 4,500"
+        },
+        "parent_location": "place_dominica",
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+          "source_lines": "25",
+          "source_section": "DOMINICA",
+          "original_text": "The chief town is Roseau, population about 4,500; it is a port of registry",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_g_r_le_hunte",
+        "name": "G. R. Le Hunte",
+        "name_variants": ["Le Hunte"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "President",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 600,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "housing",
+                "description": "House provided"
+              }
+            ]
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+          "source_lines": "104",
+          "source_section": "Civil Establishment",
+          "original_text": "President, G. R. Le Hunte, 600l., and a house.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_w_h_porter",
+        "name": "W. H. Porter",
+        "name_variants": ["W.H. Porter", "Porter"],
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Treasurer",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+          "source_lines": "105",
+          "source_section": "Civil Establishment",
+          "original_text": "Treasurer, W. H. Porter, 300l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_h_a_a_nicholls",
+        "name": "H. A. A. Nicholls",
+        "name_variants": ["H.A.A. Nicholls", "Nicholls"],
+        "titles": ["M.D."],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Medical Officer of Public Institutions",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+          "source_lines": "125",
+          "source_section": "Civil Establishment",
+          "original_text": "Medical Officer of Public Institutions, H. A. A. Nicholls, M.D., 300l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "DOMINICA",
+        "composition": {
+          "total_members": 10,
+          "official_members": 4,
+          "unofficial_members": 1
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+          "source_lines": "69-78",
+          "source_section": "Executive Council",
+          "original_text": "Executive Council. The Governor of the Leeward Islands...W. Stedman.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_assembly",
+        "name": "Legislative Assembly",
+        "type": "legislative_assembly",
+        "colony": "DOMINICA",
+        "composition": {
+          "total_members": 14,
+          "official_members": 7,
+          "elected_members": 7
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+          "source_lines": "80-110",
+          "source_section": "Legislative Assembly",
+          "original_text": "Legislative Assembly. Crown Nominees...Elective Members",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1892",
+        "type": "revenue",
+        "colony": "DOMINICA",
+        "year_applies": "1892",
+        "data": {
+          "value": 22715,
+          "currency": "£"
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+          "source_lines": "127",
+          "source_section": "Finances",
+          "original_text": "1892 | 22,715 | 23,074",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_cocoa_1891",
+        "type": "production",
+        "colony": "DOMINICA",
+        "year_applies": "1891",
+        "data": {
+          "value": 433996,
+          "unit": "lbs",
+          "category": "coffee and cocoa"
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+          "source_lines": "23",
+          "source_section": "Products",
+          "original_text": "The principal exports in 1891 were: coffee and cocoa, 433,996 lbs.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1892",
+        "type": "debt",
+        "colony": "DOMINICA",
+        "year_applies": "1892",
+        "data": {
+          "value": 40900,
+          "currency": "£"
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+          "source_lines": "65",
+          "source_section": "Debt",
+          "original_text": "Debt, 31st Dec., 1892., 40,900l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_shipping_registry",
+        "name": "Port of Registry - Roseau",
+        "type": "port",
+        "colony": "DOMINICA",
+        "description": "Port of registry in Roseau with registered vessels",
+        "specifications": {
+          "vessels_registered": 4,
+          "total_tonnage": 48
+        },
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+          "source_lines": "25",
+          "source_section": "DOMINICA",
+          "original_text": "it is a port of registry, and had registered on 31st December, 1892, four vessels, of a total tonnage of 48",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_pop_1891",
+        "colony": "DOMINICA",
+        "year_applies": "1891",
+        "population": {
+          "total": 26841,
+          "breakdown": {
+            "Caribs": 309
+          }
+        },
+        "notes": "Census 1891 data, including indigenous Carib population",
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+          "source_lines": "63",
+          "source_section": "Population",
+          "original_text": "Population, Census 1881, 28,211 (309 Caribs); Census 1891, 26,841.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_riots_1893",
+        "type": "rebellion",
+        "description": "Serious riots occurred in 1893 in connexion with the collection of taxes in the interior of the Island. The police and marines were stoned, and compelled to fire on the rioters, with fatal results.",
+        "event_date": {
+          "year": "1893",
+          "precision": "year"
+        },
+        "year_mentioned": "1894",
+        "locations": ["place_dominica"],
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+          "source_lines": "19",
+          "source_section": "DOMINICA",
+          "original_text": "Serious riots occurred in 1893 in connexion with the collection of taxes in the interior of the Island.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_hamilton_inquiry_1893",
+        "type": "other",
+        "description": "An inquiry into the administration was ordered by the Secretary of State, and entrusted to Sir R. Hamilton, formerly Governor of Tasmania, who left for Dominica in November last.",
+        "event_date": {
+          "year": "1893",
+          "month": "November",
+          "precision": "month"
+        },
+        "year_mentioned": "1894",
+        "locations": ["place_dominica"],
+        "year": "1894",
+        "provenance": {
+          "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+          "source_lines": "21",
+          "source_section": "DOMINICA",
+          "original_text": "an inquiry into the administration was ordered by the Secretary of State, and entrusted to Sir R. Hamilton",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_roseau",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_dominica",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_g_r_le_hunte",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_dominica",
+      "properties": {
+        "position": "President",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "event_riots_1893",
+      "relationship_type": "OCCURRED_IN",
+      "target_id": "place_dominica",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1894_manual_parsed/DOMINICA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 13,
+    "entities_by_type": {
+      "places": 2,
+      "people": 3,
+      "institutions": 2,
+      "economic_data": 3,
+      "infrastructure": 1,
+      "demographics": 1,
+      "events": 2
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "LOCATED_IN": 1,
+      "GOVERNS": 1,
+      "OCCURRED_IN": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0,
+    "processing_time_seconds": 120.0
+  }
+}

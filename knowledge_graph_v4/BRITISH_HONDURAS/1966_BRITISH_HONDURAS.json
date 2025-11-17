@@ -1,0 +1,505 @@
+{
+  "metadata": {
+    "year": "1966",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1966.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1966_manual_parsed",
+    "extraction_date": "2025-11-17T00:00:00Z",
+    "extraction_agent": "Claude Sonnet 4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["BRITISH_HONDURAS"],
+    "processing_notes": "Final colonial year before independence (1981). Shows full internal self-government with ministerial system, Premier, bicameral National Assembly, and extensive development projects"
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {},
+    "positions": {
+      "Premier": {
+        "canonical_name": "Premier",
+        "hierarchy_level": 1,
+        "category": "executive"
+      },
+      "Governor": {
+        "canonical_name": "Governor",
+        "hierarchy_level": 1,
+        "category": "executive"
+      }
+    },
+    "institution_types": {
+      "cabinet": {
+        "description": "Cabinet of Ministers under Premier"
+      },
+      "national_assembly": {
+        "description": "Bi-cameral legislature with House of Representatives and Senate"
+      },
+      "house_of_representatives": {
+        "description": "Elected lower house with 18 members"
+      },
+      "senate": {
+        "description": "Appointed upper house with 8 members"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_british_honduras",
+        "name": "British Honduras",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "Central America (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "British colony on Caribbean coast of Central America, approaching independence"
+        },
+        "area": {
+          "value": 8866,
+          "unit": "square_miles",
+          "source": "Line 5"
+        },
+        "population": {
+          "total": 104450,
+          "year": "1964",
+          "breakdown": {
+            "census_1960": 90019
+          },
+          "source": "Lines 8-9"
+        },
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "1-9",
+          "original_text": "British Honduras lies on the Caribbean coast of Central America... Its land area is about 8,866 square miles... The estimated population at the end of 1964 was 104,450",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_belize_city",
+        "name": "Belize City",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "BRITISH_HONDURAS",
+          "actual_location_country": "British Honduras (modern Belize)",
+          "certainty": "definite",
+          "reasoning": "Capital city of British Honduras"
+        },
+        "population": {
+          "total": 32690,
+          "year": "1960",
+          "source": "Line 17"
+        },
+        "parent_location": "place_british_honduras",
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "17",
+          "original_text": "Belize City (capital) | 32,690",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_george_price",
+        "name": "George Price",
+        "titles": [],
+        "honors": [],
+        "positions": [
+          {
+            "title": "Premier",
+            "colony": "BRITISH_HONDURAS",
+            "status": "permanent",
+            "start_date": "1961",
+            "notes": "Led People's United Party to win all 18 elected seats in March 1961"
+          }
+        ],
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "77",
+          "original_text": "At the general election held in March 1961, the People's United Party, led by Mr. George Price, won all the 18 elected seats in the Legislative Assembly. Mr. Price was thereupon appointed First Minister",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_national_assembly",
+        "name": "National Assembly",
+        "type": "national_assembly",
+        "colony": "BRITISH_HONDURAS",
+        "composition": {
+          "total_members": 26,
+          "house_of_representatives": 18,
+          "senate": 8
+        },
+        "established": "1964",
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "85-89",
+          "original_text": "The bi-cameral Legislature is known as the National Assembly and comprises a House of Representatives and a Senate... The House of Representatives consists of 18 members... The Senate consists of eight members",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_cabinet",
+        "name": "Cabinet",
+        "type": "cabinet",
+        "colony": "BRITISH_HONDURAS",
+        "notes": "Replaced Executive Council in 1964. Consists of Premier and other Ministers",
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "83",
+          "original_text": "The Executive Council has been replaced by a Cabinet consisting of a Premier and other Ministers",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1964",
+        "type": "revenue",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1964",
+        "data": {
+          "value": 14562888,
+          "currency": "$",
+          "breakdown": {
+            "customs_duties": 4760105,
+            "internal_taxation": 2866670
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "109, 113",
+          "original_text": "1964 | 14,562,888* | 15,262,888*... In 1964 $4,760,105 of the true revenue was derived from Customs duties and charges and $2,866,670 from internal taxation",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1964",
+        "type": "expenditure",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1964",
+        "data": {
+          "value": 15262888,
+          "currency": "$",
+          "breakdown": {
+            "general_administrative": 2264000,
+            "economic_services": 3591000,
+            "social_services": 7198000
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "109, 115-117",
+          "original_text": "1964 | 14,562,888* | 15,262,888*... the main heads of expenditure were: General administrative services: $2,264,000...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1964",
+        "type": "debt",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1964",
+        "data": {
+          "value": 7328704,
+          "currency": "$",
+          "category": "public_debt",
+          "breakdown": {
+            "gross_debt": 7328704,
+            "sinking_funds": 1422653,
+            "net_debt": 5906051
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "121",
+          "original_text": "The Public Debt of the Colony at the end of 1964 amounted to $7,328,704. Sinking funds on hand amounted to $1,422,653, leaving $5,906,051 as the net outstanding debt",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_roads",
+        "name": "Road System",
+        "type": "road",
+        "colony": "BRITISH_HONDURAS",
+        "description": "Comprehensive road network including asphalt, gravel, marl and dirt roads",
+        "specifications": {
+          "total_length": {
+            "value": 940,
+            "unit": "miles"
+          },
+          "breakdown": {
+            "all_weather_main": 605,
+            "cart_roads_trails": 177,
+            "dry_weather": 158,
+            "asphalt": 183,
+            "gravel": 270,
+            "marl": 268,
+            "dirt": 271
+          }
+        },
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "204-209",
+          "original_text": "There are 605 miles of all-weather main feeder roads, 177 miles of cart roads and bush trails and 158 miles of dry-weather roads maintained by Government",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_belize_airport",
+        "name": "Belize International Airport",
+        "type": "airport",
+        "colony": "BRITISH_HONDURAS",
+        "description": "Principal international airport located 10 miles north-west of Belize City, served by multiple international airlines",
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "195-202",
+          "original_text": "The Belize International Airport is located about ten miles north-west of Belize City. It is the principal airport of the Colony",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_telecommunications",
+        "name": "Cable & Wireless Telecommunications",
+        "type": "telegraph",
+        "colony": "BRITISH_HONDURAS",
+        "description": "External telecommunications including radio-telephone to USA, Caribbean, and UK, plus automatic telephone system in Belize City",
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "215-221",
+          "original_text": "Cable & Wireless Ltd. have been granted a licence to operate the external telecommunications service... Cable & Wireless Ltd., on behalf of Government, operate a fully automatic telephone system within Belize City",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_radio_belize",
+        "name": "Radio Belize",
+        "type": "other",
+        "colony": "BRITISH_HONDURAS",
+        "description": "Government radio broadcasting service transmitting in English and Spanish",
+        "specifications": {
+          "frequencies": "840 kc/s (361m) at 20kW and 3.3 Mc/s (90m) at 5-20kW",
+          "daily_hours": 11,
+          "languages": "English and Spanish"
+        },
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "228-229",
+          "original_text": "Government operates a radio broadcasting service (Radio Belize) transmitting from Belize City on the following frequencies and powers: 840 kc/s. (361 metres), 20kW. and 3-3 Mc/s. (90 metres), 5 kW. to 20 kW",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_1964",
+        "colony": "BRITISH_HONDURAS",
+        "year_applies": "1964",
+        "population": {
+          "total": 104450,
+          "breakdown": {
+            "census_1960": 90019
+          }
+        },
+        "notes": "Main racial groups: Creoles, American Indians (Maya), Caribs, with persons of East Indian and Spanish descent. Heavily inter-mixed. English is official language, Spanish also common",
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "7-11",
+          "original_text": "The estimated population at the end of 1964 was 104,450. At the census taken in April 1960 the de facto total population was 90,019. The main racial groups are: Creoles, American Indians (Maya) and Caribs",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_hurricane_hattie_1961",
+        "type": "natural_disaster",
+        "description": "Hurricane Hattie caused 262 deaths and most serious damage to Belize City, Stann Creek and other parts of the country",
+        "event_date": {
+          "year": "1961",
+          "month": "October",
+          "day": "31",
+          "precision": "exact"
+        },
+        "year_mentioned": "1966",
+        "locations": ["place_belize_city"],
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "52",
+          "original_text": "on the 31st October 1961 Hurricane 'Hattie' caused 262 deaths and most serious damage to Belize City, Stann Creek and other parts of the country",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_constitution_1964",
+        "type": "constitutional_change",
+        "description": "New Constitution introduced on 6th January 1964 establishing ministerial system of internal self-government with bicameral legislature (National Assembly)",
+        "event_date": {
+          "year": "1964",
+          "month": "January",
+          "day": "6",
+          "precision": "exact"
+        },
+        "year_mentioned": "1966",
+        "locations": ["place_british_honduras"],
+        "year": "1966",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+          "source_lines": "81",
+          "original_text": "Under the new Constitution which was introduced on the 6th January 1964, the Governor has special responsibilities for defence, external affairs, internal security",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude Sonnet 4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_george_price",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_cabinet",
+      "properties": {
+        "position": "Premier",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_belize_city",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_british_honduras",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "event_hurricane_hattie_1961",
+      "relationship_type": "OCCURRED_IN",
+      "target_id": "place_belize_city",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1966_manual_parsed/BRITISH_HONDURAS.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 16,
+    "entities_by_type": {
+      "places": 2,
+      "people": 1,
+      "institutions": 2,
+      "economic_data": 3,
+      "infrastructure": 4,
+      "demographics": 1,
+      "events": 2
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 1,
+      "LOCATED_IN": 1,
+      "OCCURRED_IN": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0,
+    "processing_time_seconds": 0
+  }
+}

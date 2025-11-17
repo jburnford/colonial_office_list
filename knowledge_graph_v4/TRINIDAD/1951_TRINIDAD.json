@@ -1,0 +1,432 @@
+{
+  "metadata": {
+    "year": "1951",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1951.pdf",
+    "source_directory": "output_2/1951_manual_parsed",
+    "extraction_date": "2025-11-17T00:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["TRINIDAD"],
+    "processing_notes": "Post-WWII period, new constitution with elected Legislative Council members"
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {},
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 2, "category": "executive"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Chief instrument of policy"},
+      "legislative_council": {"description": "Legislative body with elected members"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_trinidad",
+        "name": "Trinidad",
+        "type": "island",
+        "year": "1951",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Main island of Trinidad and Tobago colony"
+        },
+        "coordinates": {
+          "latitude": 10.43,
+          "longitude": -61.27,
+          "source": "Lines 5: 10° 3' and 10° 50' N. latitude, and 60° 55' and 61° 56' W. longitude"
+        },
+        "area": {
+          "value": 1864,
+          "unit": "square_miles",
+          "source": "Line 5"
+        },
+        "population": {
+          "total": 618603,
+          "year": "1949",
+          "breakdown": {
+            "east_indians": 220499
+          },
+          "source": "Lines 23, 32"
+        },
+        "provenance": {
+          "source_file": "output_2/1951_manual_parsed/TRINIDAD.md",
+          "source_lines": "3-5",
+          "source_section": "TRINIDAD > SITUATION AND AREA",
+          "original_text": "The island of Trinidad lies about 16 miles to the eastward of Venezuela, between 10° 3' and 10° 50' N. latitude, and 60° 55' and 61° 56' W. longitude from Greenwich. Its average length is 50 miles, its average breadth 37 miles, and its area 1,864 square miles.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_tobago",
+        "name": "Tobago",
+        "type": "island",
+        "year": "1951",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Island amalgamated with Trinidad on January 1, 1889"
+        },
+        "provenance": {
+          "source_file": "output_2/1951_manual_parsed/TRINIDAD.md",
+          "source_lines": "5",
+          "source_section": "TRINIDAD > SITUATION AND AREA",
+          "original_text": "The island of Tobago (formerly in the Windward Islands) was amalgamated with Trinidad on 1st January, 1889",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_port_of_spain",
+        "name": "Port of Spain",
+        "type": "city",
+        "year": "1951",
+        "parent_location": "place_trinidad",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Capital city on Trinidad island"
+        },
+        "population": {
+          "total": 102878,
+          "year": "1949",
+          "source": "Line 27"
+        },
+        "provenance": {
+          "source_file": "output_2/1951_manual_parsed/TRINIDAD.md",
+          "source_lines": "19, 27",
+          "source_section": "GENERAL DESCRIPTION / POPULATION",
+          "original_text": "The chief town and principal port is Port of Spain, situated on a gently inclined plane near the north-east angle of the Gulf of Paria. Port of Spain: 102,878",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_san_fernando",
+        "name": "San Fernando",
+        "type": "town",
+        "year": "1951",
+        "parent_location": "place_trinidad",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Second town on Trinidad island"
+        },
+        "population": {
+          "total": 31976,
+          "year": "1949",
+          "source": "Line 28"
+        },
+        "provenance": {
+          "source_file": "output_2/1951_manual_parsed/TRINIDAD.md",
+          "source_lines": "28",
+          "source_section": "POPULATION",
+          "original_text": "San Fernando: 31,976",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_arima",
+        "name": "Arima",
+        "type": "town",
+        "year": "1951",
+        "parent_location": "place_trinidad",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Town on Trinidad island"
+        },
+        "population": {
+          "total": 8945,
+          "year": "1949",
+          "source": "Line 29"
+        },
+        "provenance": {
+          "source_file": "output_2/1951_manual_parsed/TRINIDAD.md",
+          "source_lines": "29",
+          "source_section": "POPULATION",
+          "original_text": "Arima: 8,945",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "Trinidad and Tobago",
+        "location": "Port of Spain",
+        "year": "1951",
+        "composition": {
+          "total_members": 9,
+          "ex_officio_members": 3,
+          "nominated_members": 1,
+          "elected_members": 5
+        },
+        "established": "March 1950",
+        "provenance": {
+          "source_file": "output_2/1951_manual_parsed/TRINIDAD.md",
+          "source_lines": "67-69",
+          "source_section": "CONSTITUTION AND ADMINISTRATION",
+          "original_text": "The constitution of Trinidad and Tobago is provided for by Royal Instructions, Royal Letters Patent, and the Trinidad and Tobago (Constitution) Order in Council, all of March, 1950. This constitution provides for an Executive Council (which is the chief instrument of policy and consists of three ex-officio members, one nominated member and five elected members elected by the Legislative Council)",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "Trinidad and Tobago",
+        "location": "Port of Spain",
+        "year": "1951",
+        "composition": {
+          "total_members": 26,
+          "ex_officio_members": 3,
+          "nominated_members": 5,
+          "elected_members": 18
+        },
+        "established": "March 1950",
+        "provenance": {
+          "source_file": "output_2/1951_manual_parsed/TRINIDAD.md",
+          "source_lines": "69",
+          "source_section": "CONSTITUTION AND ADMINISTRATION",
+          "original_text": "a Legislative Council of three ex officio members, five nominated and 18 elected members. The Legislative Council is presided over by a Speaker appointed by the Governor from outside the Chamber who has neither an original nor a casting vote.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_port_of_spain_city_council",
+        "name": "Port of Spain City Council",
+        "type": "municipal_government",
+        "colony": "Trinidad and Tobago",
+        "location": "Port of Spain",
+        "year": "1951",
+        "composition": {
+          "aldermen": 5,
+          "councillors": 15,
+          "total_members": 20
+        },
+        "provenance": {
+          "source_file": "output_2/1951_manual_parsed/TRINIDAD.md",
+          "source_lines": "87",
+          "source_section": "Municipalities",
+          "original_text": "The Port of Spain City Council is comprised of five aldermen and fifteen councillors who hold office for three years.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [],
+    "infrastructure": [
+      {
+        "id": "infra_railway_system",
+        "name": "Trinidad Railway System",
+        "type": "railway",
+        "colony": "Trinidad and Tobago",
+        "year": "1951",
+        "description": "Government railway system with multiple lines",
+        "specifications": {
+          "total_length": {
+            "value": 118,
+            "unit": "miles"
+          }
+        },
+        "operation": {
+          "passengers_annual": 5378000,
+          "freight_tons": 584334,
+          "revenue": 2061754,
+          "currency": "$",
+          "year": "1948"
+        },
+        "provenance": {
+          "source_file": "output_2/1951_manual_parsed/TRINIDAD.md",
+          "source_lines": "48-69",
+          "source_section": "COMMUNICATIONS > Railways",
+          "original_text": "The railway system consists of a total length of 118 miles...The total number of passengers carried during 1948 was 5,378,000, and the volume of goods transported was 584,334 tons.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_population_1949",
+        "colony": "Trinidad and Tobago",
+        "year": "1951",
+        "year_applies": "1949",
+        "population": {
+          "total": 618603,
+          "breakdown": {
+            "east_indians": 220499
+          }
+        },
+        "notes": "Population estimated at 31st December, 1949",
+        "provenance": {
+          "source_file": "output_2/1951_manual_parsed/TRINIDAD.md",
+          "source_lines": "23, 32",
+          "source_section": "POPULATION",
+          "original_text": "The population of Trinidad and Tobago on 31st December, 1949, was estimated to be 618,603. There is also a large number of East Indians, estimated at 31st December, 1949, to be 220,499.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_new_constitution_1950",
+        "type": "constitutional_change",
+        "description": "New constitution established by Royal Instructions, Royal Letters Patent, and Trinidad and Tobago (Constitution) Order in Council, March 1950, providing for elected members in Executive and Legislative Councils",
+        "year": "1951",
+        "year_mentioned": "1951",
+        "event_date": {
+          "year": "1950",
+          "month": "March",
+          "precision": "month"
+        },
+        "provenance": {
+          "source_file": "output_2/1951_manual_parsed/TRINIDAD.md",
+          "source_lines": "67",
+          "source_section": "CONSTITUTION AND ADMINISTRATION",
+          "original_text": "The constitution of Trinidad and Tobago is provided for by Royal Instructions, Royal Letters Patent, and the Trinidad and Tobago (Constitution) Order in Council, all of March, 1950.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_us_base_agreement_1941",
+        "type": "treaty",
+        "description": "Bases Agreement between UK and USA signed March 27, 1941, leasing certain areas to United States for 99 years for naval or army air bases",
+        "year": "1951",
+        "year_mentioned": "1951",
+        "event_date": {
+          "year": "1941",
+          "month": "March",
+          "day": "27",
+          "precision": "exact"
+        },
+        "provenance": {
+          "source_file": "output_2/1951_manual_parsed/TRINIDAD.md",
+          "source_lines": "63",
+          "source_section": "HISTORY",
+          "original_text": "In accordance with the terms of the Bases Agreement between the Governments of the United Kingdom and the United States of America which was signed on 27th March, 1941, certain areas have been leased to the United States for 99 years and have been occupied and developed as naval or army air bases.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_port_of_spain",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1951",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1951_manual_parsed/TRINIDAD.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_san_fernando",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1951",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1951_manual_parsed/TRINIDAD.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_tobago",
+      "relationship_type": "PART_OF",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1951",
+        "start_date": "1889-01-01",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1951_manual_parsed/TRINIDAD.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 15,
+    "entities_by_type": {
+      "places": 5,
+      "people": 0,
+      "institutions": 3,
+      "economic_data": 0,
+      "infrastructure": 1,
+      "demographics": 1,
+      "events": 2
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "LOCATED_IN": 2,
+      "PART_OF": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

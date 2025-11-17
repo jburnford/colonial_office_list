@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "year": "1894",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1894.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1894_manual_parsed",
+    "extraction_date": "2025-11-17T10:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM context-aware extraction)",
+    "colonies_processed": ["ANTIGUA"],
+    "processing_notes": "Pre-Crown Colony period with mixed elected and nominated Legislative Council; includes Barbuda and Redonda dependencies"
+  },
+  "colony_info": {
+    "official_name": "Antigua",
+    "colonial_status": "Colony with Legislative Council",
+    "capital": "St. John",
+    "part_of_federation": "Leeward Islands",
+    "dependencies": ["Barbuda", "Redonda"],
+    "area": {
+      "value": 108,
+      "unit": "square_miles"
+    },
+    "coordinates": {
+      "latitude": 17.1,
+      "longitude": -61.75
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_antigua",
+        "name": "Antigua",
+        "type": "colony",
+        "year": "1894",
+        "area": {"value": 108, "unit": "square_miles"},
+        "location_context": {
+          "mentioned_in_colony": "ANTIGUA",
+          "actual_location_country": "Antigua",
+          "certainty": "definite"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/ANTIGUA.md",
+          "source_lines": "4",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_st_john",
+        "name": "St. John",
+        "type": "city",
+        "year": "1894",
+        "population": {"total": 10000, "year": "1894"},
+        "location_context": {
+          "mentioned_in_colony": "ANTIGUA",
+          "actual_location_country": "Antigua",
+          "certainty": "definite"
+        },
+        "parent_location": "place_antigua",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/ANTIGUA.md",
+          "source_lines": "26",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_barbuda",
+        "name": "Barbuda",
+        "type": "island",
+        "year": "1894",
+        "population": {"total": 580, "year": "1894"},
+        "area": {"value": 62, "unit": "square_miles"},
+        "location_context": {
+          "mentioned_in_colony": "ANTIGUA",
+          "actual_location_country": "Antigua (dependency)",
+          "certainty": "definite"
+        },
+        "parent_location": "place_antigua",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/ANTIGUA.md",
+          "source_lines": "6",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_redonda",
+        "name": "Redonda",
+        "type": "island",
+        "year": "1894",
+        "population": {"total": 120, "year": "1894"},
+        "location_context": {
+          "mentioned_in_colony": "ANTIGUA",
+          "actual_location_country": "Antigua (dependency)",
+          "certainty": "definite"
+        },
+        "parent_location": "place_antigua",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/ANTIGUA.md",
+          "source_lines": "6-7",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "people": [],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council (Local)",
+        "type": "executive_council",
+        "colony": "Antigua",
+        "year": "1894",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/ANTIGUA.md",
+          "source_lines": "101-113",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council (Local)",
+        "type": "legislative_council",
+        "colony": "Antigua",
+        "year": "1894",
+        "composition": {
+          "total_members": 24,
+          "official_members": 4,
+          "nominated_members": 8,
+          "elected_members": 12
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/ANTIGUA.md",
+          "source_lines": "16, 114-137",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1894",
+        "type": "revenue",
+        "colony": "Antigua",
+        "year": "1894",
+        "year_applies": "1894",
+        "data": {"value": 53938, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/ANTIGUA.md",
+          "source_lines": "35",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_debt_1892",
+        "type": "debt",
+        "colony": "Antigua",
+        "year": "1894",
+        "year_applies": "1892",
+        "data": {"value": 7371, "currency": "£"},
+        "validation": {"plausibility": "plausible", "completeness": "complete"},
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/ANTIGUA.md",
+          "source_lines": "74",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_antigua_1891",
+        "colony": "Antigua",
+        "year": "1894",
+        "year_applies": "1891",
+        "population": {
+          "total": 36119,
+          "breakdown": {"White": 1830, "Black": 28584, "Coloured": 5705}
+        },
+        "notes": "Historical census categories reflect British colonial classifications",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/ANTIGUA.md",
+          "source_lines": "83",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_phosphate_redonda",
+        "name": "Redonda Phosphate Mines",
+        "type": "other",
+        "colony": "Antigua",
+        "year": "1894",
+        "operation": {
+          "operator": "Redonda Phosphate Company",
+          "annual_exports": {"amount": 7000, "unit": "tons"},
+          "employees": 90
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/ANTIGUA.md",
+          "source_lines": "6-10",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T10:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "place_barbuda",
+      "relationship_type": "PART_OF",
+      "target_id": "place_antigua",
+      "properties": {"year": "1894", "confidence": "definite"},
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/ANTIGUA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_redonda",
+      "relationship_type": "PART_OF",
+      "target_id": "place_antigua",
+      "properties": {"year": "1894", "confidence": "definite"},
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1894_manual_parsed/ANTIGUA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 11,
+    "entities_by_type": {
+      "places": 4,
+      "people": 0,
+      "institutions": 2,
+      "economic_data": 2,
+      "demographics": 1,
+      "infrastructure": 1,
+      "events": 0
+    },
+    "total_relationships": 2,
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

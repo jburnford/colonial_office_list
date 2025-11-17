@@ -1,0 +1,428 @@
+{
+  "metadata": {
+    "year": "1883",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1883.pdf",
+    "source_directory": "output_2/1883_manual_parsed",
+    "extraction_date": "2025-11-17T10:30:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 LLM Context Extraction",
+    "colonies_processed": ["ST_LUCIA"],
+    "processing_notes": "Complete extraction for St. Lucia 1883, Windward Islands colonial administration"
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Abbé": {
+        "full_form": "Abbé",
+        "category": "religious"
+      }
+    },
+    "positions": {
+      "Administrator of the Government": {
+        "canonical_name": "Administrator",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Chief Justice": {
+        "canonical_name": "Chief Justice",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      }
+    }
+  },
+  "colony_info": {
+    "official_name": "St. Lucia",
+    "colonial_status": "Crown Colony (Windward Islands)",
+    "capital": "Castries",
+    "regional_grouping": "Windward Islands",
+    "coordinates": {
+      "latitude": 13.8333,
+      "longitude": -60.9667,
+      "source": "Line 1"
+    },
+    "area": {
+      "value": 158620,
+      "unit": "acres",
+      "source": "Line 1"
+    },
+    "dimensions": {
+      "length_miles": 42,
+      "breadth_miles": 21,
+      "circumference_miles": 150
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_st_lucia",
+        "name": "St. Lucia",
+        "type": "colony",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Main colony entry"
+        },
+        "coordinates": {
+          "latitude": 13.8333,
+          "longitude": -60.9667,
+          "source": "Line 1"
+        },
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/ST_LUCIA.md",
+          "source_lines": "1-3",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_castries",
+        "name": "Castries",
+        "type": "city",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Capital city"
+        },
+        "population": {
+          "total": 4555,
+          "year": "1883",
+          "source": "Line 5"
+        },
+        "parent_location": "place_st_lucia",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/ST_LUCIA.md",
+          "source_lines": "5",
+          "original_text": "Castries, the capital of the island, contains about 900 houses, and a population of about 4,555 souls.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_soufriere",
+        "name": "Soufriere",
+        "type": "town",
+        "year": "1883",
+        "location_context": {
+          "mentioned_in_colony": "ST_LUCIA",
+          "actual_location_country": "St. Lucia",
+          "certainty": "definite",
+          "reasoning": "Second most important town"
+        },
+        "population": {
+          "total": 2286,
+          "year": "1883",
+          "source": "Line 5"
+        },
+        "parent_location": "place_st_lucia",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/ST_LUCIA.md",
+          "source_lines": "5",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_roger_goldsworthy",
+        "name": "Roger Tuckfield Goldsworthy",
+        "name_variants": ["R. T. Goldsworthy"],
+        "titles": [],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "year": "1883",
+        "positions": [
+          {
+            "title": "Administrator of the Government and Colonial Secretary",
+            "colony": "ST_LUCIA",
+            "location": "Castries",
+            "status": "permanent",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/ST_LUCIA.md",
+          "source_lines": "107",
+          "original_text": "Administrator of the Government and Colonial Secretary, Roger Tuckfield Goldsworthy, C.M.G., 800l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_w_carrington",
+        "name": "J. Worrell Carrington",
+        "name_variants": ["Dr. J. W. Carrington"],
+        "titles": ["Dr"],
+        "honors": [],
+        "biographical": {
+          "education": "D.C.L."
+        },
+        "year": "1883",
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "colony": "ST_LUCIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 700,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/ST_LUCIA.md",
+          "source_lines": "148",
+          "original_text": "Chief Justice, J. Worrell Carrington, D.C.L., 700l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_macnamara_dix",
+        "name": "Macnamara Dix",
+        "name_variants": ["M. Dix"],
+        "year": "1883",
+        "positions": [
+          {
+            "title": "Treasurer and Comptroller of Customs",
+            "colony": "ST_LUCIA",
+            "status": "permanent",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/ST_LUCIA.md",
+          "source_lines": "114",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "ST_LUCIA",
+        "location": "Castries",
+        "year": "1883",
+        "composition": {
+          "total_members": 4,
+          "official_members": 3,
+          "unofficial_members": 0
+        },
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/ST_LUCIA.md",
+          "source_lines": "76-81",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "ST_LUCIA",
+        "location": "Castries",
+        "year": "1883",
+        "composition": {
+          "total_members": 11,
+          "official_members": 6,
+          "unofficial_members": 5
+        },
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/ST_LUCIA.md",
+          "source_lines": "83-101",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1881",
+        "type": "revenue",
+        "colony": "ST_LUCIA",
+        "year": "1883",
+        "year_applies": "1881",
+        "data": {
+          "value": 32291,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/ST_LUCIA.md",
+          "source_lines": "51",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1881",
+        "type": "expenditure",
+        "colony": "ST_LUCIA",
+        "year": "1883",
+        "year_applies": "1881",
+        "data": {
+          "value": 32652,
+          "currency": "£"
+        },
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/ST_LUCIA.md",
+          "source_lines": "51",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_stlucia_1881",
+        "colony": "ST_LUCIA",
+        "year": "1883",
+        "year_applies": "1881",
+        "population": {
+          "total": 38551
+        },
+        "notes": "Census of 1881",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/ST_LUCIA.md",
+          "source_lines": "55",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_immigration_resumed_1878",
+        "type": "other",
+        "description": "Immigration from the East was resumed in April, 1878, with an indentured Indian population of 1,213 souls present in the Colony",
+        "year_mentioned": "1883",
+        "event_date": {
+          "year": "1878",
+          "month": "April",
+          "precision": "month"
+        },
+        "year": "1883",
+        "provenance": {
+          "source_file": "output_2/1883_manual_parsed/ST_LUCIA.md",
+          "source_lines": "34",
+          "original_text": "Immigration from the East was resumed in April, 1878, and there is at present in the Colony an indentured Indian population of 1,213 souls.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T10:30:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_castries",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_st_lucia",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1883_manual_parsed/ST_LUCIA.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_roger_goldsworthy",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "position": "President",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1883_manual_parsed/ST_LUCIA.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 12,
+    "entities_by_type": {
+      "places": 3,
+      "people": 3,
+      "institutions": 2,
+      "economic_data": 2,
+      "demographics": 1,
+      "events": 1
+    },
+    "total_relationships": 2,
+    "relationships_by_type": {
+      "LOCATED_IN": 1,
+      "HOLDS_POSITION": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

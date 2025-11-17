@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "year": "1889",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1889.pdf",
+    "source_directory": "output_2/1889_manual_parsed",
+    "extraction_date": "2025-11-17T00:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["TRINIDAD_AND_TOBAGO"],
+    "processing_notes": "First year of Trinidad-Tobago amalgamation (January 1, 1889)"
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {
+      "Sir": {"full_form": "Sir", "category": "nobility"}
+    },
+    "positions": {
+      "Governor": {"canonical_name": "Governor", "hierarchy_level": 2, "category": "executive"}
+    },
+    "institution_types": {
+      "executive_council": {"description": "Advisory council to the Governor"},
+      "legislative_council": {"description": "Legislative body of the colony"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_trinidad",
+        "name": "Trinidad",
+        "type": "colony",
+        "year": "1889",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD_AND_TOBAGO",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Main island of Trinidad and Tobago colony"
+        },
+        "coordinates": {
+          "latitude": 10.26,
+          "longitude": -61.7,
+          "source": "Lines 6: 10° 3' and 10° 30' N. latitude, and 61° 39' and 62° of W. longitude"
+        },
+        "area": {
+          "value": 1754,
+          "unit": "square_miles",
+          "source": "Line 6"
+        },
+        "provenance": {
+          "source_file": "output_2/1889_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "1-6",
+          "source_section": "TRINIDAD AND TOBAGO > TRINIDAD",
+          "original_text": "The island of Trinidad lies about 16 miles to the eastward of Venezuela, between 10° 3' and 10° 30' N. latitude, and 61° 39' and 62° of W. longitude from Greenwich. Its area is 1,754 square miles.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_tobago",
+        "name": "Tobago",
+        "type": "island",
+        "year": "1889",
+        "parent_location": "place_trinidad_and_tobago",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD_AND_TOBAGO",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Island amalgamated with Trinidad on January 1, 1889"
+        },
+        "provenance": {
+          "source_file": "output_2/1889_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "6",
+          "source_section": "TRINIDAD AND TOBAGO > TRINIDAD",
+          "original_text": "The Colony now includes Tobago (formerly in the Windward Islands), which was to be amalgamated with Trinidad by an Order in Council under the Act 50 and 51 Vic., c. 44, on 1st Jan., 1889.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_port_of_spain",
+        "name": "Port of Spain",
+        "type": "city",
+        "year": "1889",
+        "parent_location": "place_trinidad",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD_AND_TOBAGO",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Capital city located on Trinidad island"
+        },
+        "population": {
+          "total": 31888,
+          "year": "1881",
+          "source": "Line 30"
+        },
+        "provenance": {
+          "source_file": "output_2/1889_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "30",
+          "original_text": "The chief town and principal port of Trinidad is Port of Spain (population in 1881, 31,888), situated on a gently inclined plain, near the northeast angle of the Gulf of Paria.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_san_fernando",
+        "name": "San Fernando",
+        "type": "town",
+        "year": "1889",
+        "parent_location": "place_trinidad",
+        "location_context": {
+          "mentioned_in_colony": "TRINIDAD_AND_TOBAGO",
+          "actual_location_country": "Trinidad and Tobago",
+          "certainty": "definite",
+          "reasoning": "Second town of Trinidad, 30 miles south from Port of Spain"
+        },
+        "population": {
+          "total": 6335,
+          "year": "1881",
+          "source": "Line 32"
+        },
+        "provenance": {
+          "source_file": "output_2/1889_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "32",
+          "original_text": "The next town and port is San Fernando (population in 1881, 6,335), about 30 miles south from Port of Spain.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [],
+    "institutions": [
+      {
+        "id": "inst_port_of_spain_council",
+        "name": "Port of Spain Municipal Council",
+        "type": "municipal_government",
+        "colony": "Trinidad and Tobago",
+        "location": "Port of Spain",
+        "year": "1889",
+        "provenance": {
+          "source_file": "output_2/1889_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "34",
+          "source_section": "TRINIDAD AND TOBAGO",
+          "original_text": "Both these towns possess elective municipal councils and mayors.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_san_fernando_council",
+        "name": "San Fernando Municipal Council",
+        "type": "municipal_government",
+        "colony": "Trinidad and Tobago",
+        "location": "San Fernando",
+        "year": "1889",
+        "provenance": {
+          "source_file": "output_2/1889_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "34",
+          "source_section": "TRINIDAD AND TOBAGO",
+          "original_text": "Both these towns possess elective municipal councils and mayors.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_port_of_spain_revenue_1887",
+        "type": "revenue",
+        "colony": "Trinidad and Tobago",
+        "year": "1889",
+        "year_applies": "1887",
+        "data": {
+          "value": 18849,
+          "currency": "£",
+          "category": "municipal_revenue"
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1889_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "34",
+          "source_section": "TRINIDAD AND TOBAGO",
+          "original_text": "The municipal revenue of Port of Spain was in 1887 £18,849, and the expenditure £16,399.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_pitch_lake",
+        "name": "Pitch Lake",
+        "type": "other",
+        "colony": "Trinidad and Tobago",
+        "year": "1889",
+        "description": "Pitch lake located in La Brea ward, 30 miles from Port of Spain",
+        "specifications": {
+          "area": {
+            "value": 109,
+            "unit": "acres"
+          }
+        },
+        "provenance": {
+          "source_file": "output_2/1889_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "38",
+          "source_section": "TRINIDAD AND TOBAGO",
+          "original_text": "A pitch lake, 109 to 114 acres in extent, is situated in the ward of La Brea, distant by water about 30 miles from Port of Spain",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_railway_port_of_spain_arima",
+        "name": "Port of Spain to Arima Railway",
+        "type": "railway",
+        "colony": "Trinidad and Tobago",
+        "year": "1889",
+        "description": "Railway line from Port of Spain to Arima",
+        "specifications": {
+          "length": {
+            "value": 16,
+            "unit": "miles"
+          },
+          "opened": "1876"
+        },
+        "provenance": {
+          "source_file": "output_2/1889_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "46",
+          "source_section": "TRINIDAD AND TOBAGO > Means of Communication",
+          "original_text": "The railway from Port of Spain to Arima (16 miles) was opened in 1876.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [],
+    "events": [
+      {
+        "id": "event_tobago_amalgamation_1889",
+        "type": "constitutional_change",
+        "description": "Tobago (formerly in the Windward Islands) was amalgamated with Trinidad by Order in Council under Act 50 & 51 Vic., c. 44",
+        "year": "1889",
+        "year_mentioned": "1889",
+        "event_date": {
+          "year": "1889",
+          "month": "January",
+          "day": "1",
+          "precision": "exact"
+        },
+        "locations": ["place_trinidad", "place_tobago"],
+        "provenance": {
+          "source_file": "output_2/1889_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+          "source_lines": "6",
+          "source_section": "TRINIDAD AND TOBAGO > TRINIDAD",
+          "original_text": "The Colony now includes Tobago (formerly in the Windward Islands), which was to be amalgamated with Trinidad by an Order in Council under the Act 50 and 51 Vic., c. 44, on 1st Jan., 1889.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_trinidad",
+      "relationship_type": "PART_OF",
+      "target_id": "place_trinidad_and_tobago",
+      "properties": {
+        "year": "1889",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1889_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_tobago",
+      "relationship_type": "PART_OF",
+      "target_id": "place_trinidad_and_tobago",
+      "properties": {
+        "year": "1889",
+        "start_date": "1889-01-01",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1889_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "place_port_of_spain",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad",
+      "properties": {
+        "year": "1889",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1889_manual_parsed/TRINIDAD_AND_TOBAGO.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 12,
+    "entities_by_type": {
+      "places": 4,
+      "people": 0,
+      "institutions": 2,
+      "economic_data": 1,
+      "infrastructure": 2,
+      "demographics": 0,
+      "events": 1
+    },
+    "total_relationships": 3,
+    "relationships_by_type": {
+      "PART_OF": 2,
+      "LOCATED_IN": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0
+  }
+}

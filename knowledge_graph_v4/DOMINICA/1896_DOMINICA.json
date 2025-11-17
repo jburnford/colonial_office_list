@@ -1,0 +1,1219 @@
+{
+  "metadata": {
+    "year": "1896",
+    "schema_version": "2.0",
+    "source_pdf": "colonial_office_list_1896.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1896_manual_parsed",
+    "extraction_date": "2025-11-17T00:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["DOMINICA"],
+    "processing_notes": "Complete extraction from DOMINICA section including historical narrative, financial data, government structure, and civil establishment"
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {
+      "M.D.": {
+        "full_form": "Doctor of Medicine",
+        "category": "professional"
+      },
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Bart.": {
+        "full_form": "Baronet",
+        "category": "nobility"
+      }
+    },
+    "positions": {
+      "Administrator": {
+        "canonical_name": "Administrator",
+        "hierarchy_level": 1,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 2,
+        "category": "administrative"
+      },
+      "Attorney-General": {
+        "canonical_name": "Attorney-General",
+        "hierarchy_level": 2,
+        "category": "judicial"
+      },
+      "Treasurer": {
+        "canonical_name": "Treasurer",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Medical Officer": {
+        "canonical_name": "Medical Officer",
+        "hierarchy_level": 4,
+        "category": "medical"
+      },
+      "Magistrate": {
+        "canonical_name": "Magistrate",
+        "hierarchy_level": 3,
+        "category": "judicial"
+      }
+    },
+    "institution_types": {
+      "Executive Council": {
+        "description": "Colonial executive advisory body"
+      },
+      "Legislative Assembly": {
+        "description": "Colonial legislature with nominated and elected members"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_dominica",
+        "name": "Dominica",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica",
+          "certainty": "definite",
+          "reasoning": "Primary colony being described"
+        },
+        "coordinates": {
+          "latitude": 15.5,
+          "longitude": -61.35,
+          "source": "DOMINICA.md lines 4: between 15° 20' and 15° 45' N. lat., and 61° 13' and 61° 30' W. long."
+        },
+        "area": {
+          "value": 291,
+          "unit": "square_miles",
+          "source": "DOMINICA.md line 4"
+        },
+        "population": {
+          "total": 28211,
+          "year": "1881",
+          "breakdown": {
+            "Caribs": 309
+          },
+          "source": "DOMINICA.md line 76"
+        },
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "4",
+          "source_section": "DOMINICA",
+          "original_text": "situated between 15° 20' and 15° 45' N. lat., and 61° 13' and 61° 30' W. long.; 29 miles long and 16 broad; very mountainous and picturesque",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_roseau",
+        "name": "Roseau",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica",
+          "certainty": "definite",
+          "reasoning": "Capital city of Dominica"
+        },
+        "population": {
+          "total": 4500,
+          "year": "1896",
+          "source": "DOMINICA.md line 24"
+        },
+        "parent_location": "place_dominica",
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "24",
+          "source_section": "DOMINICA",
+          "original_text": "The chief town is Roseau, population about 4,500; it is a port of registry",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_prince_rupert",
+        "name": "Prince Rupert",
+        "type": "settlement",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica",
+          "certainty": "definite",
+          "reasoning": "Settlement mentioned in historical account of 1805 French invasion"
+        },
+        "parent_location": "place_dominica",
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "16",
+          "source_section": "DOMINICA",
+          "original_text": "the Governor, Sir George Prévost, and the troops (regular and militia) proceeded across the island to the superior position of Prince Rupert",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_pa_templer",
+        "name": "P. A. Templer",
+        "positions": [
+          {
+            "title": "Administrator",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 900,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "113",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Administrator, P. A. Templer, 900L.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_es_holme",
+        "name": "E. S. Holme",
+        "positions": [
+          {
+            "title": "Clerk",
+            "department": "Administrator's Office",
+            "colony": "DOMINICA",
+            "status": "permanent"
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "113",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Clerk, E. S. Holme",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_wh_porter",
+        "name": "W. H. Porter",
+        "positions": [
+          {
+            "title": "Treasurer",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "115",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Treasurer, W. H. Porter, 300L.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_jw_trail",
+        "name": "J. W. Trail",
+        "positions": [
+          {
+            "title": "Revenue Officer",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 125,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "117",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Revenue Officers, J. W. Trail, 125L.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_ca_seignoret",
+        "name": "C. A. Seignoret",
+        "positions": [
+          {
+            "title": "Revenue Officer",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 125,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "117",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "C. A. Seignoret, 125L.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_ap_viret",
+        "name": "A. P. Viret",
+        "positions": [
+          {
+            "title": "Revenue Officer",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 125,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "117",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "A. P. Viret, 125L. and fees",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_ad_boyd",
+        "name": "A. D. Boyd",
+        "positions": [
+          {
+            "title": "Revenue Officer",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 140,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "117",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "A. D. Boyd, 140L. and fees",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_cr_lauder",
+        "name": "C. R. Lauder",
+        "positions": [
+          {
+            "title": "District Government Officer",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 175,
+              "currency": "GBP",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "additional",
+                "amount": 75,
+                "currency": "GBP",
+                "description": "additional allowance"
+              }
+            ]
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "119",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "District Government Officers, C. R. Lauder, 175L. and 75L. addl.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_alex_robinson",
+        "name": "Alex. Robinson",
+        "positions": [
+          {
+            "title": "District Government Officer",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 150,
+              "currency": "GBP",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "horse allowance",
+                "amount": 25,
+                "currency": "GBP"
+              }
+            ]
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "119",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Alex. Robinson, E. R. Green, I. H. Winston, 150L. each, and 25L. horse allowance",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_er_green",
+        "name": "E. R. Green",
+        "positions": [
+          {
+            "title": "District Government Officer",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 150,
+              "currency": "GBP",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "horse allowance",
+                "amount": 25,
+                "currency": "GBP"
+              }
+            ]
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "119",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Alex. Robinson, E. R. Green, I. H. Winston, 150L. each, and 25L. horse allowance",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_ih_winston",
+        "name": "I. H. Winston",
+        "positions": [
+          {
+            "title": "District Government Officer",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 150,
+              "currency": "GBP",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "horse allowance",
+                "amount": 25,
+                "currency": "GBP"
+              }
+            ]
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "119",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Alex. Robinson, E. R. Green, I. H. Winston, 150L. each, and 25L. horse allowance",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_fs_fadello",
+        "name": "F. S. Fadello",
+        "positions": [
+          {
+            "title": "Postmaster",
+            "colony": "DOMINICA",
+            "status": "acting",
+            "salary": {
+              "amount": 100,
+              "currency": "GBP",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "additional",
+                "amount": 50,
+                "currency": "GBP"
+              }
+            ]
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "121",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Postmaster, F. S. Fadello (acting), 100L.; 50L. additional",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_ja_pinard",
+        "name": "J. A. Pinard",
+        "positions": [
+          {
+            "title": "Clerk to Colonial Engineer",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 75,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Interpreter to Court",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 25,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "123, 137",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Clerk to Colonial Engineer, J. A. Pinard, 75L.; Interpreter to Court, J. A. Pinard, 25L.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_haa_nicholls",
+        "name": "H. A. A. Nicholls",
+        "titles": ["M.D."],
+        "positions": [
+          {
+            "title": "Medical Officer of Public Institutions",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "125",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Medical Officer of Public Institutions, H. A. A. Nicholls, M.D., 300L.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_wr_williams",
+        "name": "W. R. Williams",
+        "positions": [
+          {
+            "title": "Medical Officer",
+            "location": "District A",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 250,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "127",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Ditto, Dist. A, W. R. Williams, 250L.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_ng_cookman",
+        "name": "N. G. Cookman",
+        "positions": [
+          {
+            "title": "Medical Officer",
+            "location": "District B",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 250,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "129",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Ditto, Dist. B, N. G. Cookman, 250L.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_rs_earl",
+        "name": "R. S. Earl",
+        "positions": [
+          {
+            "title": "Medical Officer",
+            "location": "Lasoye District",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 200,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "131",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Ditto, Lasoye Dist., R. S. Earl, 200L.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_s_scouhoue",
+        "name": "S. Scouhoue",
+        "positions": [
+          {
+            "title": "Medical Officer",
+            "location": "Windward District",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 200,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "133",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Ditto, Windward Dist., S. Scouhoue, 200L.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_c_musgrave",
+        "name": "Christopher Musgrave",
+        "positions": [
+          {
+            "title": "Registrar and Provost Marshal",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 250,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "135",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Registrar and Provost Marshal, Christopher Musgrave, 250L.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_wm_coull",
+        "name": "Wm. Coull",
+        "positions": [
+          {
+            "title": "Magistrate",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "139",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Magistrates, Wm. Coull, W. H. Roper, 300L. each",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_wh_roper",
+        "name": "W. H. Roper",
+        "positions": [
+          {
+            "title": "Magistrate",
+            "colony": "DOMINICA",
+            "status": "permanent",
+            "salary": {
+              "amount": 300,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "139",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "Magistrates, Wm. Coull, W. H. Roper, 300L. each",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_rf_garraway",
+        "name": "R. F. Garraway",
+        "positions": [
+          {
+            "title": "Magistrate",
+            "colony": "DOMINICA",
+            "status": "acting",
+            "salary": {
+              "amount": 250,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "139",
+          "source_section": "DOMINICA > Civil Establishment",
+          "original_text": "R. F. Garraway (acting), 250L.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_w_stedman",
+        "name": "W. Stedman",
+        "positions": [
+          {
+            "title": "US Consul",
+            "colony": "DOMINICA",
+            "status": "permanent"
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "89, 94, 145",
+          "source_section": "DOMINICA > Executive Council and Foreign Consuls",
+          "original_text": "W. Stedman (Executive Council); United States of America, Wm. Stedman",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_la_giraud",
+        "name": "L. A. Giraud",
+        "positions": [
+          {
+            "title": "French Consul",
+            "colony": "DOMINICA",
+            "status": "permanent"
+          }
+        ],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "95, 143",
+          "source_section": "DOMINICA > Legislative Assembly and Foreign Consuls",
+          "original_text": "L. A. Giraud (Legislative Assembly); France, L. A. Giraud",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "Executive Council",
+        "colony": "DOMINICA",
+        "composition": {
+          "total_members": 6
+        },
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "82-90",
+          "source_section": "DOMINICA > Executive Council",
+          "original_text": "The Governor of the Leeward Islands, The Colonial Secretary, The Attorney-General, The Auditor-General, The Administrator, W. Stedman",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "inst_legislative_assembly",
+        "name": "Legislative Assembly",
+        "type": "Legislative Assembly",
+        "colony": "DOMINICA",
+        "composition": {
+          "total_members": 14,
+          "official_members": 7,
+          "elected_members": 7
+        },
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "91-109",
+          "source_section": "DOMINICA > Legislative Assembly",
+          "original_text": "Crown Nominees: W. Stedman, L. A. Giraud, W. Coull, C. Musgrave, A. D. Lockhart, W. H. Porter, S. R. Pemberton; Elective Members: J. J. L. Bellot, A. R. Lockhart, Hy. Hamilton, W. Davies, D. O. Riviere, H. Rolle, A. Belbot",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1894",
+        "type": "revenue",
+        "colony": "DOMINICA",
+        "year_applies": "1894",
+        "data": {
+          "value": 22982,
+          "currency": "GBP"
+        },
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "44",
+          "source_section": "DOMINICA > Finances",
+          "original_text": "1894 | 22,982",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_expenditure_1894",
+        "type": "expenditure",
+        "colony": "DOMINICA",
+        "year_applies": "1894",
+        "data": {
+          "value": 27833,
+          "currency": "GBP"
+        },
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "44",
+          "source_section": "DOMINICA > Finances",
+          "original_text": "1894 | 27,833",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_customs_1894",
+        "type": "revenue",
+        "colony": "DOMINICA",
+        "year_applies": "1894",
+        "data": {
+          "value": 7270,
+          "currency": "GBP",
+          "category": "customs revenue"
+        },
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "80",
+          "source_section": "DOMINICA",
+          "original_text": "Customs Revenue, 1894—7,270L.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "econ_debt_1892",
+        "type": "debt",
+        "colony": "DOMINICA",
+        "year_applies": "1892",
+        "data": {
+          "value": 40900,
+          "currency": "GBP"
+        },
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "78",
+          "source_section": "DOMINICA",
+          "original_text": "Debt, 31st Dec., 1892—40,900L.",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "econ_exports_total_1894",
+        "type": "exports",
+        "colony": "DOMINICA",
+        "year_applies": "1894",
+        "data": {
+          "value": 42662,
+          "currency": "GBP"
+        },
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "74",
+          "source_section": "DOMINICA > Exports",
+          "original_text": "1894 | Total 42,662",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_imports_total_1894",
+        "type": "imports",
+        "colony": "DOMINICA",
+        "year_applies": "1894",
+        "data": {
+          "value": 53801,
+          "currency": "GBP"
+        },
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "59",
+          "source_section": "DOMINICA > Imports",
+          "original_text": "1894 | Total 53,801",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_production_cocoa_1894",
+        "type": "production",
+        "colony": "DOMINICA",
+        "year_applies": "1894",
+        "data": {
+          "value": 692718,
+          "unit": "lbs",
+          "category": "cocoa"
+        },
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "22",
+          "source_section": "DOMINICA",
+          "original_text": "cocoa, 692,718 lbs",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "econ_production_sugar_1894",
+        "type": "production",
+        "colony": "DOMINICA",
+        "year_applies": "1894",
+        "data": {
+          "value": 1220,
+          "unit": "hogsheads",
+          "category": "sugar"
+        },
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "22",
+          "source_section": "DOMINICA",
+          "original_text": "sugar, 1,220 hogsheads",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_port_roseau",
+        "name": "Port of Roseau",
+        "type": "port",
+        "colony": "DOMINICA",
+        "description": "Port of registry with 5 registered vessels totaling 54 tons",
+        "operation": {
+          "traffic": "5 vessels, 54 total tonnage registered on 31st December 1894"
+        },
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "24",
+          "source_section": "DOMINICA",
+          "original_text": "it is a port of registry, and had registered on 31st December, 1894, five vessels, of a total tonnage of 54",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_dominica_1881",
+        "colony": "DOMINICA",
+        "year_applies": "1881",
+        "population": {
+          "total": 28211,
+          "breakdown": {
+            "Caribs": 309
+          }
+        },
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "76",
+          "source_section": "DOMINICA",
+          "original_text": "Population, Census 1881—28,211 (309 Caribs)",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_discovery_1498",
+        "type": "other",
+        "description": "Dominica was discovered by Christopher Columbus on Sunday, the 3rd November, 1498, on his second voyage",
+        "event_date": {
+          "year": "1498",
+          "month": "11",
+          "day": "3",
+          "precision": "exact"
+        },
+        "year_mentioned": "1896",
+        "locations": ["place_dominica"],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "4",
+          "source_section": "DOMINICA",
+          "original_text": "was discovered by Christopher Columbus, on Sunday (hence its name), the 3rd November, 1498, on his second voyage",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "event_riots_1893",
+        "type": "rebellion",
+        "description": "Serious riots occurred in 1893 in connexion with the collection of taxes in the interior of the Island. The police and marines were stoned, and compelled to fire on the rioters, with fatal results",
+        "event_date": {
+          "year": "1893",
+          "precision": "year"
+        },
+        "year_mentioned": "1896",
+        "locations": ["place_dominica"],
+        "year": "1896",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1896_manual_parsed/DOMINICA.md",
+          "source_lines": "18",
+          "source_section": "DOMINICA",
+          "original_text": "Serious riots occurred in 1893 in connexion with the collection of taxes in the interior of the Island. The police and marines were stoned, and compelled to fire on the rioters, with fatal results",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_pa_templer",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "place_dominica",
+      "properties": {
+        "year": "1896",
+        "confidence": "definite"
+      }
+    },
+    {
+      "source_id": "place_roseau",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_dominica",
+      "properties": {
+        "year": "1896",
+        "confidence": "definite"
+      }
+    },
+    {
+      "source_id": "inst_executive_council",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_dominica",
+      "properties": {
+        "year": "1896",
+        "confidence": "definite"
+      }
+    },
+    {
+      "source_id": "inst_legislative_assembly",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_dominica",
+      "properties": {
+        "year": "1896",
+        "confidence": "definite"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 55,
+    "entities_by_type": {
+      "places": 3,
+      "people": 23,
+      "institutions": 2,
+      "economic_data": 8,
+      "infrastructure": 1,
+      "demographics": 1,
+      "events": 2
+    },
+    "total_relationships": 4,
+    "relationships_by_type": {
+      "HOLDS_POSITION": 1,
+      "LOCATED_IN": 1,
+      "GOVERNS": 2
+    }
+  }
+}

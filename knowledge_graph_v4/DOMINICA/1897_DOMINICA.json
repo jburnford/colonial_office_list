@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "year": "1897",
+    "schema_version": "2.0",
+    "source_pdf": "colonial_office_list_1897.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1897_manual_parsed",
+    "extraction_date": "2025-11-17T00:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["DOMINICA"]
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "M.D.": {"full_form": "Doctor of Medicine", "category": "professional"},
+      "M.B.": {"full_form": "Bachelor of Medicine", "category": "professional"},
+      "M.R.C.S.": {"full_form": "Member of the Royal College of Surgeons", "category": "professional"},
+      "M.A.": {"full_form": "Master of Arts", "category": "academic"},
+      "A.M.I.C.E.": {"full_form": "Associate Member of the Institution of Civil Engineers", "category": "professional"},
+      "Rev.": {"full_form": "Reverend", "category": "religious"},
+      "V.G.": {"full_form": "Vicar General", "category": "religious"}
+    },
+    "positions": {
+      "Administrator": {"canonical_name": "Administrator", "hierarchy_level": 1, "category": "executive"},
+      "Treasurer": {"canonical_name": "Treasurer", "hierarchy_level": 3, "category": "administrative"},
+      "Magistrate": {"canonical_name": "Magistrate", "hierarchy_level": 3, "category": "judicial"}
+    },
+    "institution_types": {
+      "Executive Council": {"description": "Colonial executive advisory body"},
+      "Legislative Assembly": {"description": "Colonial legislature with nominated and elected members"}
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_dominica",
+        "name": "Dominica",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica",
+          "certainty": "definite",
+          "reasoning": "Primary colony"
+        },
+        "area": {"value": 280, "unit": "square_miles", "source": "line 4"},
+        "population": {"total": 28211, "year": "1891", "breakdown": {"Caribs": 309}, "source": "line 87"},
+        "year": "1897",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1897_manual_parsed/DOMINICA.md",
+          "source_lines": "4",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "place_roseau",
+        "name": "Roseau",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica",
+          "certainty": "definite",
+          "reasoning": "Capital city"
+        },
+        "population": {"total": 1500, "year": "1897", "source": "line 31"},
+        "parent_location": "place_dominica",
+        "year": "1897",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1897_manual_parsed/DOMINICA.md",
+          "source_lines": "31",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_pa_templer",
+        "name": "P. A. Templer",
+        "honors": [{"honor": "CMG", "full_name": "Companion of the Order of St Michael and St George"}],
+        "positions": [{"title": "Administrator", "colony": "DOMINICA", "salary": {"amount": 900, "currency": "GBP", "period": "annual"}}],
+        "year": "1897",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1897_manual_parsed/DOMINICA.md",
+          "source_lines": "140",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      },
+      {
+        "id": "person_haa_nicholls",
+        "name": "H. A. Alford Nicholls",
+        "titles": ["M.D."],
+        "honors": [{"honor": "CMG", "full_name": "Companion of the Order of St Michael and St George"}],
+        "positions": [{"title": "Medical Officer of Public Institutions", "colony": "DOMINICA", "salary": {"amount": 300, "currency": "GBP", "period": "annual"}}],
+        "year": "1897",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1897_manual_parsed/DOMINICA.md",
+          "source_lines": "171",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "Executive Council",
+        "colony": "DOMINICA",
+        "year": "1897",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1897_manual_parsed/DOMINICA.md",
+          "source_lines": "101-119",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1895",
+        "type": "revenue",
+        "colony": "DOMINICA",
+        "year_applies": "1895",
+        "data": {"value": 22859, "currency": "GBP"},
+        "year": "1897",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1897_manual_parsed/DOMINICA.md",
+          "source_lines": "53",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table"
+        }
+      },
+      {
+        "id": "econ_debt_1895",
+        "type": "debt",
+        "colony": "DOMINICA",
+        "year_applies": "1895",
+        "data": {"value": 63986, "currency": "GBP"},
+        "year": "1897",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1897_manual_parsed/DOMINICA.md",
+          "source_lines": "95",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [],
+    "events": []
+  },
+  "relationships": [],
+  "extraction_statistics": {
+    "total_entities": 6,
+    "entities_by_type": {"places": 2, "people": 2, "institutions": 1, "economic_data": 2},
+    "total_relationships": 0
+  }
+}

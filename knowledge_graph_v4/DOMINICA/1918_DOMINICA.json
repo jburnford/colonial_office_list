@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "year": "1918",
+    "schema_version": "2.0",
+    "source_pdf": "colonial_office_list_1918.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1918_manual_parsed",
+    "extraction_date": "2025-11-17T00:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["DOMINICA"]
+  },
+  "controlled_vocabularies": {
+    "honors": {},
+    "titles": {},
+    "positions": {"Administrator": {"canonical_name": "Administrator", "hierarchy_level": 1, "category": "executive"}},
+    "institution_types": {}
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_dominica",
+        "name": "Dominica",
+        "type": "colony",
+        "location_context": {"mentioned_in_colony": "DOMINICA", "actual_location_country": "Dominica", "certainty": "definite"},
+        "area": {"value": 291, "unit": "square_miles"},
+        "year": "1918",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1918_manual_parsed/DOMINICA.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T00:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "place_roseau",
+        "name": "Roseau",
+        "type": "city",
+        "location_context": {"mentioned_in_colony": "DOMINICA", "actual_location_country": "Dominica", "certainty": "definite"},
+        "parent_location": "place_dominica",
+        "year": "1918",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1918_manual_parsed/DOMINICA.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T00:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      }
+    ],
+    "people": [],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "Executive Council",
+        "colony": "DOMINICA",
+        "year": "1918",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1918_manual_parsed/DOMINICA.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T00:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "Legislative Council",
+        "colony": "DOMINICA",
+        "composition": {"total_members": 12, "official_members": 6, "unofficial_members": 6},
+        "year": "1918",
+        "provenance": {"source_file": "/home/user/colonial_office_list/output_2/1918_manual_parsed/DOMINICA.md", "extraction_confidence": 1.0, "extraction_date": "2025-11-17T00:00:00Z", "extraction_agent": "Claude-Sonnet-4.5", "extraction_method": "direct_extraction"}
+      }
+    ],
+    "economic_data": [],
+    "infrastructure": [],
+    "demographics": [],
+    "events": []
+  },
+  "relationships": [],
+  "extraction_statistics": {"total_entities": 4, "entities_by_type": {"places": 2, "people": 0, "institutions": 2}}
+}

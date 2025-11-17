@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "year": "1900",
+    "schema_version": "2.0",
+    "source_pdf": "colonial_office_list_1900.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1900_manual_parsed",
+    "extraction_date": "2025-11-17T00:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5",
+    "colonies_processed": ["DOMINICA"]
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "CMG": {"full_name": "Companion of the Order of St Michael and St George", "type": "order", "rank": 3}
+    },
+    "titles": {},
+    "positions": {
+      "Administrator": {"canonical_name": "Administrator", "hierarchy_level": 1, "category": "executive"}
+    },
+    "institution_types": {}
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_dominica",
+        "name": "Dominica",
+        "type": "colony",
+        "location_context": {
+          "mentioned_in_colony": "DOMINICA",
+          "actual_location_country": "Dominica",
+          "certainty": "definite"
+        },
+        "area": {"value": 291, "unit": "square_miles", "source": "line 4"},
+        "population": {"total": 26841, "year": "1891", "source": "line 92"},
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/DOMINICA.md",
+          "source_lines": "4",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_hhj_bell",
+        "name": "H. H. J. Bell",
+        "positions": [{"title": "Administrator", "colony": "DOMINICA", "salary": {"amount": 700, "currency": "GBP", "period": "annual"}}],
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/DOMINICA.md",
+          "source_lines": "140",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction"
+        }
+      }
+    ],
+    "institutions": [],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1898",
+        "type": "revenue",
+        "colony": "DOMINICA",
+        "year_applies": "1898",
+        "data": {"value": 24569, "currency": "GBP"},
+        "year": "1900",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1900_manual_parsed/DOMINICA.md",
+          "source_lines": "60",
+          "extraction_confidence": 1.0,
+          "extraction_date": "2025-11-17T00:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table"
+        }
+      }
+    ],
+    "infrastructure": [],
+    "demographics": [],
+    "events": []
+  },
+  "relationships": [],
+  "extraction_statistics": {
+    "total_entities": 3,
+    "entities_by_type": {"places": 1, "people": 1, "economic_data": 1}
+  }
+}

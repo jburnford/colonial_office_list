@@ -1,0 +1,661 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Colonial Office List Knowledge Graph Schema v2.0",
+  "description": "Schema for extracting structured knowledge graphs from Colonial Office List documents (1867-1966)",
+  "type": "object",
+  "required": ["metadata", "controlled_vocabularies", "entities", "relationships"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["year", "schema_version", "extraction_date"],
+      "properties": {
+        "year": {
+          "type": "string",
+          "pattern": "^(186[7-9]|18[7-9][0-9]|19[0-6][0-9])$",
+          "description": "Publication year of the Colonial Office List"
+        },
+        "schema_version": {
+          "type": "string",
+          "const": "2.0"
+        },
+        "source_pdf": {
+          "type": "string",
+          "description": "Original PDF filename"
+        },
+        "source_directory": {
+          "type": "string",
+          "description": "Path to OCR'd markdown files"
+        },
+        "extraction_date": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO-8601 timestamp of extraction"
+        },
+        "extraction_agent": {
+          "type": "string",
+          "description": "Name/version of extraction agent"
+        },
+        "colonies_processed": {
+          "type": "array",
+          "items": {"type": "string"},
+          "description": "List of colony names found in this year"
+        },
+        "processing_notes": {
+          "type": "string",
+          "description": "Any notes about extraction process or data quality issues"
+        }
+      }
+    },
+    "controlled_vocabularies": {
+      "type": "object",
+      "description": "Standardized terms used within this year's data",
+      "properties": {
+        "honors": {
+          "type": "object",
+          "description": "British honors and decorations",
+          "patternProperties": {
+            "^[A-Z]+$": {
+              "type": "object",
+              "properties": {
+                "full_name": {"type": "string"},
+                "type": {"type": "string", "enum": ["knighthood", "order", "decoration", "medal"]},
+                "rank": {"type": "integer", "minimum": 1, "maximum": 5}
+              }
+            }
+          }
+        },
+        "titles": {
+          "type": "object",
+          "description": "Personal titles (Sir, Dame, Rev, Dr, etc.)",
+          "patternProperties": {
+            ".*": {
+              "type": "object",
+              "properties": {
+                "full_form": {"type": "string"},
+                "category": {"type": "string", "enum": ["nobility", "religious", "military", "academic", "professional"]}
+              }
+            }
+          }
+        },
+        "positions": {
+          "type": "object",
+          "description": "Administrative positions with hierarchy",
+          "patternProperties": {
+            ".*": {
+              "type": "object",
+              "properties": {
+                "canonical_name": {"type": "string"},
+                "variants": {"type": "array", "items": {"type": "string"}},
+                "hierarchy_level": {"type": "integer", "minimum": 1},
+                "typical_reports_to": {"type": "string"},
+                "category": {"type": "string", "enum": ["executive", "legislative", "judicial", "administrative", "military", "religious", "medical", "educational"]}
+              }
+            }
+          }
+        },
+        "institution_types": {
+          "type": "object",
+          "description": "Types of colonial institutions",
+          "patternProperties": {
+            ".*": {
+              "type": "object",
+              "properties": {
+                "description": {"type": "string"},
+                "parent_type": {"type": "string"}
+              }
+            }
+          }
+        }
+      }
+    },
+    "entities": {
+      "type": "object",
+      "required": ["places", "people", "institutions"],
+      "properties": {
+        "places": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "name", "type", "year"],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^place_[a-z0-9_]+$",
+                "description": "Unique identifier within this year"
+              },
+              "name": {
+                "type": "string",
+                "description": "Name as written in source"
+              },
+              "type": {
+                "type": "string",
+                "enum": ["colony", "protectorate", "dominion", "city", "town", "district", "province", "island", "territory", "settlement", "region", "other"]
+              },
+              "location_context": {
+                "type": "object",
+                "required": ["mentioned_in_colony", "actual_location_country", "certainty"],
+                "properties": {
+                  "mentioned_in_colony": {
+                    "type": "string",
+                    "description": "Which colony's section this place appears in"
+                  },
+                  "actual_location_country": {
+                    "type": "string",
+                    "description": "Where this place is actually located (may differ from mentioned_in_colony)"
+                  },
+                  "certainty": {
+                    "type": "string",
+                    "enum": ["definite", "probable", "uncertain"],
+                    "description": "Confidence in location attribution"
+                  },
+                  "reasoning": {
+                    "type": "string",
+                    "description": "Explanation for location determination"
+                  }
+                }
+              },
+              "coordinates": {
+                "type": "object",
+                "description": "Only include if explicitly stated in source document",
+                "required": ["latitude", "longitude", "source"],
+                "properties": {
+                  "latitude": {"type": "number", "minimum": -90, "maximum": 90},
+                  "longitude": {"type": "number", "minimum": -180, "maximum": 180},
+                  "source": {"type": "string", "description": "Citation where coordinates were found"}
+                }
+              },
+              "area": {
+                "type": "object",
+                "description": "Only if stated in source",
+                "properties": {
+                  "value": {"type": "number"},
+                  "unit": {"type": "string", "enum": ["square_miles", "square_kilometers", "acres"]},
+                  "source": {"type": "string"}
+                }
+              },
+              "population": {
+                "type": "object",
+                "properties": {
+                  "total": {"type": "integer"},
+                  "year": {"type": "string"},
+                  "breakdown": {
+                    "type": "object",
+                    "description": "Demographic breakdowns as recorded in source (preserve historical terminology)"
+                  },
+                  "source": {"type": "string"}
+                }
+              },
+              "parent_location": {
+                "type": "string",
+                "description": "ID of parent place (e.g., city within colony)"
+              },
+              "year": {
+                "type": "string",
+                "description": "Year of this record"
+              },
+              "provenance": {"$ref": "#/definitions/provenance"}
+            }
+          }
+        },
+        "people": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "name", "year"],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^person_[a-z0-9_]+$"
+              },
+              "name": {
+                "type": "string",
+                "description": "Full name without titles or honors"
+              },
+              "name_variants": {
+                "type": "array",
+                "items": {"type": "string"},
+                "description": "Alternative spellings or forms (e.g., 'J. Smith', 'John Smith')"
+              },
+              "titles": {
+                "type": "array",
+                "items": {"type": "string"},
+                "description": "Personal titles (Sir, Dame, Rev, Dr) - should match controlled vocabulary"
+              },
+              "honors": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "honor": {"type": "string", "description": "Abbreviation (KCMG, CMG, etc.)"},
+                    "full_name": {"type": "string"},
+                    "year_awarded": {"type": "string", "description": "If mentioned in source"}
+                  }
+                }
+              },
+              "biographical": {
+                "type": "object",
+                "description": "Only include if explicitly stated in source",
+                "properties": {
+                  "birth_date": {"type": "string"},
+                  "death_date": {"type": "string"},
+                  "education": {"type": "string"},
+                  "family": {"type": "string"},
+                  "previous_service": {"type": "string"}
+                }
+              },
+              "positions": {
+                "type": "array",
+                "description": "All positions held by this person in this year",
+                "items": {
+                  "type": "object",
+                  "required": ["title", "colony"],
+                  "properties": {
+                    "title": {
+                      "type": "string",
+                      "description": "Position title - should normalize to controlled vocabulary"
+                    },
+                    "department": {"type": "string"},
+                    "institution_id": {"type": "string", "description": "Links to institutions entity"},
+                    "colony": {"type": "string"},
+                    "location": {"type": "string", "description": "Specific city/district if mentioned"},
+                    "status": {
+                      "type": "string",
+                      "enum": ["permanent", "acting", "temporary", "seconded", "retired"]
+                    },
+                    "start_date": {"type": "string"},
+                    "end_date": {"type": "string"},
+                    "salary": {
+                      "type": "object",
+                      "properties": {
+                        "amount": {"type": "number"},
+                        "currency": {"type": "string"},
+                        "period": {"type": "string", "enum": ["annual", "monthly", "daily"]}
+                      }
+                    },
+                    "allowances": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "type": {"type": "string", "description": "e.g., 'housing', 'entertainment', 'duty'"},
+                          "amount": {"type": "number"},
+                          "currency": {"type": "string"},
+                          "description": {"type": "string"}
+                        }
+                      }
+                    }
+                  }
+                }
+              },
+              "year": {"type": "string"},
+              "duplicate_candidates": {
+                "type": "array",
+                "description": "Potential duplicate entities within this year",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "id": {"type": "string"},
+                    "confidence": {"type": "number", "minimum": 0, "maximum": 1},
+                    "reason": {"type": "string"}
+                  }
+                }
+              },
+              "provenance": {"$ref": "#/definitions/provenance"}
+            }
+          }
+        },
+        "institutions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "name", "type", "colony", "year"],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^inst_[a-z0-9_]+$"
+              },
+              "name": {
+                "type": "string",
+                "description": "Official name of institution"
+              },
+              "name_variants": {
+                "type": "array",
+                "items": {"type": "string"}
+              },
+              "type": {
+                "type": "string",
+                "description": "Should match controlled vocabulary institution_types"
+              },
+              "colony": {"type": "string"},
+              "location": {"type": "string"},
+              "parent_institution_id": {
+                "type": "string",
+                "description": "ID of parent institution (e.g., department within ministry)"
+              },
+              "composition": {
+                "type": "object",
+                "description": "Membership details for councils, boards, etc.",
+                "properties": {
+                  "total_members": {"type": "integer"},
+                  "official_members": {"type": "integer"},
+                  "unofficial_members": {"type": "integer"},
+                  "elected_members": {"type": "integer"},
+                  "appointed_members": {"type": "integer"},
+                  "ex_officio_members": {"type": "integer"}
+                }
+              },
+              "established": {
+                "type": "string",
+                "description": "Date or year established, if mentioned"
+              },
+              "year": {"type": "string"},
+              "provenance": {"$ref": "#/definitions/provenance"}
+            }
+          }
+        },
+        "economic_data": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "type", "colony", "year"],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^econ_[a-z0-9_]+$"
+              },
+              "type": {
+                "type": "string",
+                "enum": ["revenue", "expenditure", "trade", "imports", "exports", "debt", "currency", "production", "shipping"]
+              },
+              "colony": {"type": "string"},
+              "year_applies": {
+                "type": "string",
+                "description": "Fiscal year this data represents (may differ from publication year)"
+              },
+              "data": {
+                "type": "object",
+                "properties": {
+                  "value": {"type": "number"},
+                  "currency": {"type": "string"},
+                  "unit": {"type": "string"},
+                  "category": {"type": "string", "description": "Subcategory (e.g., 'customs revenue', 'military expenditure')"},
+                  "breakdown": {
+                    "type": "object",
+                    "description": "Detailed breakdown if provided"
+                  }
+                }
+              },
+              "validation": {
+                "type": "object",
+                "description": "Data quality flags",
+                "properties": {
+                  "plausibility": {"type": "string", "enum": ["plausible", "questionable", "implausible"]},
+                  "completeness": {"type": "string", "enum": ["complete", "partial", "fragment"]},
+                  "notes": {"type": "string"}
+                }
+              },
+              "year": {"type": "string"},
+              "provenance": {"$ref": "#/definitions/provenance"}
+            }
+          }
+        },
+        "infrastructure": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "type", "colony", "year"],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^infra_[a-z0-9_]+$"
+              },
+              "name": {"type": "string"},
+              "type": {
+                "type": "string",
+                "enum": ["railway", "telegraph", "postal", "port", "road", "bridge", "canal", "waterworks", "other"]
+              },
+              "colony": {"type": "string"},
+              "description": {"type": "string"},
+              "specifications": {
+                "type": "object",
+                "description": "Technical details (e.g., gauge, length, capacity)",
+                "properties": {
+                  "length": {"type": "object", "properties": {"value": {"type": "number"}, "unit": {"type": "string"}}},
+                  "gauge": {"type": "string"},
+                  "capacity": {"type": "string"},
+                  "other": {"type": "object"}
+                }
+              },
+              "construction": {
+                "type": "object",
+                "properties": {
+                  "start_date": {"type": "string"},
+                  "completion_date": {"type": "string"},
+                  "cost": {
+                    "type": "object",
+                    "properties": {
+                      "amount": {"type": "number"},
+                      "currency": {"type": "string"}
+                    }
+                  }
+                }
+              },
+              "operation": {
+                "type": "object",
+                "properties": {
+                  "revenue": {"type": "number"},
+                  "expenses": {"type": "number"},
+                  "traffic": {"type": "string"}
+                }
+              },
+              "year": {"type": "string"},
+              "provenance": {"$ref": "#/definitions/provenance"}
+            }
+          }
+        },
+        "demographics": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "colony", "year"],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^demo_[a-z0-9_]+$"
+              },
+              "colony": {"type": "string"},
+              "location": {"type": "string", "description": "Specific district/city if not colony-wide"},
+              "year_applies": {"type": "string"},
+              "population": {
+                "type": "object",
+                "required": ["total"],
+                "properties": {
+                  "total": {"type": "integer"},
+                  "breakdown": {
+                    "type": "object",
+                    "description": "Preserve historical categorizations exactly as written (ethnic, religious, etc.)"
+                  }
+                }
+              },
+              "notes": {
+                "type": "string",
+                "description": "Historical terminology notes, census methodology, etc."
+              },
+              "year": {"type": "string"},
+              "provenance": {"$ref": "#/definitions/provenance"}
+            }
+          }
+        },
+        "events": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "type", "year_mentioned"],
+            "properties": {
+              "id": {
+                "type": "string",
+                "pattern": "^event_[a-z0-9_]+$"
+              },
+              "type": {
+                "type": "string",
+                "enum": ["treaty", "establishment", "transfer", "annexation", "independence", "constitutional_change", "rebellion", "natural_disaster", "expedition", "other"]
+              },
+              "description": {
+                "type": "string",
+                "description": "Full sentence description of event"
+              },
+              "event_date": {
+                "type": "object",
+                "description": "When the event actually occurred (may be historical)",
+                "properties": {
+                  "year": {"type": "string"},
+                  "month": {"type": "string"},
+                  "day": {"type": "string"},
+                  "precision": {"type": "string", "enum": ["exact", "month", "year", "circa", "unknown"]}
+                }
+              },
+              "year_mentioned": {
+                "type": "string",
+                "description": "Year of Colonial Office List where this was mentioned"
+              },
+              "locations": {
+                "type": "array",
+                "items": {"type": "string"},
+                "description": "IDs of related place entities"
+              },
+              "participants": {
+                "type": "array",
+                "items": {"type": "string"},
+                "description": "IDs of related person entities"
+              },
+              "institutions": {
+                "type": "array",
+                "items": {"type": "string"},
+                "description": "IDs of related institution entities"
+              },
+              "year": {"type": "string"},
+              "provenance": {"$ref": "#/definitions/provenance"}
+            }
+          }
+        }
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "description": "Explicit relationships between entities within this year",
+      "items": {
+        "type": "object",
+        "required": ["source_id", "relationship_type", "target_id"],
+        "properties": {
+          "source_id": {"type": "string"},
+          "relationship_type": {
+            "type": "string",
+            "enum": [
+              "LOCATED_IN",
+              "PART_OF",
+              "HOLDS_POSITION",
+              "REPORTS_TO",
+              "MEMBER_OF",
+              "GOVERNS",
+              "OPERATES_IN",
+              "OCCURRED_IN",
+              "PARTICIPATED_IN",
+              "SUCCEEDED_BY",
+              "SUPERVISES",
+              "STATIONED_AT"
+            ]
+          },
+          "target_id": {"type": "string"},
+          "properties": {
+            "type": "object",
+            "description": "Additional relationship metadata",
+            "properties": {
+              "year": {"type": "string"},
+              "start_date": {"type": "string"},
+              "end_date": {"type": "string"},
+              "confidence": {"type": "string", "enum": ["definite", "probable", "inferred"]},
+              "notes": {"type": "string"}
+            }
+          },
+          "provenance": {"$ref": "#/definitions/provenance"}
+        }
+      }
+    },
+    "extraction_statistics": {
+      "type": "object",
+      "description": "Summary statistics for this extraction",
+      "properties": {
+        "total_entities": {"type": "integer"},
+        "entities_by_type": {"type": "object"},
+        "total_relationships": {"type": "integer"},
+        "relationships_by_type": {"type": "object"},
+        "duplicates_detected": {"type": "integer"},
+        "low_confidence_extractions": {"type": "integer"},
+        "missing_provenance": {"type": "integer"},
+        "processing_time_seconds": {"type": "number"}
+      }
+    }
+  },
+  "definitions": {
+    "provenance": {
+      "type": "object",
+      "required": ["source_file", "extraction_confidence"],
+      "description": "Provenance tracking for academic citation and verification",
+      "properties": {
+        "source_pdf": {
+          "type": "string",
+          "description": "Original PDF filename"
+        },
+        "source_file": {
+          "type": "string",
+          "description": "Path to markdown file"
+        },
+        "source_pages": {
+          "type": "array",
+          "items": {"type": "integer"},
+          "description": "PDF page numbers"
+        },
+        "source_lines": {
+          "type": "string",
+          "description": "Line numbers in markdown file (e.g., '145-152' or '234')"
+        },
+        "source_section": {
+          "type": "string",
+          "description": "Section heading path (e.g., 'CEYLON > CIVIL ESTABLISHMENT > Colonial Secretariat')"
+        },
+        "original_text": {
+          "type": "string",
+          "description": "Verbatim snippet from source (for verification)"
+        },
+        "extraction_confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Confidence score (0.0-1.0)"
+        },
+        "extraction_date": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "extraction_agent": {
+          "type": "string",
+          "description": "Agent/model version that performed extraction"
+        },
+        "extraction_method": {
+          "type": "string",
+          "enum": ["direct_extraction", "parsed_table", "inferred", "normalized"],
+          "description": "How this data was extracted"
+        },
+        "verification_status": {
+          "type": "string",
+          "enum": ["automated", "human_verified", "flagged_for_review"],
+          "default": "automated"
+        },
+        "notes": {
+          "type": "string",
+          "description": "Any extraction notes or caveats"
+        }
+      }
+    }
+  }
+}

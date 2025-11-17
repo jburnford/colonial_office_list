@@ -1,0 +1,645 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "created": "2025-11-17",
+    "source": "Curated from British colonial administrative standards 1867-1966",
+    "notes": "Use this vocabulary for extraction validation and normalization"
+  },
+  "honors": {
+    "GCMG": {
+      "full_name": "Knight Grand Cross of the Order of St Michael and St George",
+      "type": "knighthood",
+      "rank": 1,
+      "common_era": "1867-1966"
+    },
+    "KCMG": {
+      "full_name": "Knight Commander of the Order of St Michael and St George",
+      "type": "knighthood",
+      "rank": 2,
+      "common_era": "1867-1966"
+    },
+    "CMG": {
+      "full_name": "Companion of the Order of St Michael and St George",
+      "type": "order",
+      "rank": 3,
+      "common_era": "1867-1966"
+    },
+    "GCB": {
+      "full_name": "Knight Grand Cross of the Order of the Bath",
+      "type": "knighthood",
+      "rank": 1,
+      "common_era": "1867-1966"
+    },
+    "KCB": {
+      "full_name": "Knight Commander of the Order of the Bath",
+      "type": "knighthood",
+      "rank": 2,
+      "common_era": "1867-1966"
+    },
+    "CB": {
+      "full_name": "Companion of the Order of the Bath",
+      "type": "order",
+      "rank": 3,
+      "common_era": "1867-1966"
+    },
+    "GCIE": {
+      "full_name": "Knight Grand Commander of the Order of the Indian Empire",
+      "type": "knighthood",
+      "rank": 1,
+      "common_era": "1878-1947"
+    },
+    "KCIE": {
+      "full_name": "Knight Commander of the Order of the Indian Empire",
+      "type": "knighthood",
+      "rank": 2,
+      "common_era": "1878-1947"
+    },
+    "CIE": {
+      "full_name": "Companion of the Order of the Indian Empire",
+      "type": "order",
+      "rank": 3,
+      "common_era": "1878-1947"
+    },
+    "GCSI": {
+      "full_name": "Knight Grand Commander of the Order of the Star of India",
+      "type": "knighthood",
+      "rank": 1,
+      "common_era": "1861-1947"
+    },
+    "KCSI": {
+      "full_name": "Knight Commander of the Order of the Star of India",
+      "type": "knighthood",
+      "rank": 2,
+      "common_era": "1861-1947"
+    },
+    "CSI": {
+      "full_name": "Companion of the Order of the Star of India",
+      "type": "order",
+      "rank": 3,
+      "common_era": "1861-1947"
+    },
+    "GCVO": {
+      "full_name": "Knight Grand Cross of the Royal Victorian Order",
+      "type": "knighthood",
+      "rank": 1,
+      "common_era": "1896-1966"
+    },
+    "KCVO": {
+      "full_name": "Knight Commander of the Royal Victorian Order",
+      "type": "knighthood",
+      "rank": 2,
+      "common_era": "1896-1966"
+    },
+    "CVO": {
+      "full_name": "Commander of the Royal Victorian Order",
+      "type": "order",
+      "rank": 3,
+      "common_era": "1896-1966"
+    },
+    "MVO": {
+      "full_name": "Member of the Royal Victorian Order",
+      "type": "order",
+      "rank": 4,
+      "common_era": "1896-1966"
+    },
+    "GBE": {
+      "full_name": "Knight Grand Cross of the Order of the British Empire",
+      "type": "knighthood",
+      "rank": 1,
+      "common_era": "1917-1966"
+    },
+    "KBE": {
+      "full_name": "Knight Commander of the Order of the British Empire",
+      "type": "knighthood",
+      "rank": 2,
+      "common_era": "1917-1966"
+    },
+    "DBE": {
+      "full_name": "Dame Commander of the Order of the British Empire",
+      "type": "knighthood",
+      "rank": 2,
+      "common_era": "1917-1966"
+    },
+    "CBE": {
+      "full_name": "Commander of the Order of the British Empire",
+      "type": "order",
+      "rank": 3,
+      "common_era": "1917-1966"
+    },
+    "OBE": {
+      "full_name": "Officer of the Order of the British Empire",
+      "type": "order",
+      "rank": 4,
+      "common_era": "1917-1966"
+    },
+    "MBE": {
+      "full_name": "Member of the Order of the British Empire",
+      "type": "order",
+      "rank": 5,
+      "common_era": "1917-1966"
+    },
+    "VC": {
+      "full_name": "Victoria Cross",
+      "type": "decoration",
+      "rank": 1,
+      "common_era": "1856-1966"
+    },
+    "DSO": {
+      "full_name": "Distinguished Service Order",
+      "type": "decoration",
+      "rank": 2,
+      "common_era": "1886-1966"
+    },
+    "MC": {
+      "full_name": "Military Cross",
+      "type": "decoration",
+      "rank": 3,
+      "common_era": "1914-1966"
+    },
+    "DFC": {
+      "full_name": "Distinguished Flying Cross",
+      "type": "decoration",
+      "rank": 3,
+      "common_era": "1918-1966"
+    },
+    "DCM": {
+      "full_name": "Distinguished Conduct Medal",
+      "type": "medal",
+      "rank": 4,
+      "common_era": "1854-1966"
+    },
+    "MM": {
+      "full_name": "Military Medal",
+      "type": "medal",
+      "rank": 4,
+      "common_era": "1916-1966"
+    },
+    "KG": {
+      "full_name": "Knight of the Order of the Garter",
+      "type": "knighthood",
+      "rank": 1,
+      "common_era": "1348-1966"
+    },
+    "KT": {
+      "full_name": "Knight of the Order of the Thistle",
+      "type": "knighthood",
+      "rank": 1,
+      "common_era": "1687-1966"
+    },
+    "KP": {
+      "full_name": "Knight of the Order of St Patrick",
+      "type": "knighthood",
+      "rank": 1,
+      "common_era": "1783-1922"
+    }
+  },
+  "titles": {
+    "Sir": {
+      "full_form": "Sir",
+      "category": "nobility",
+      "notes": "Indicates knighthood or baronetcy"
+    },
+    "Dame": {
+      "full_form": "Dame",
+      "category": "nobility",
+      "notes": "Female equivalent of knight"
+    },
+    "Lord": {
+      "full_form": "Lord",
+      "category": "nobility"
+    },
+    "Lady": {
+      "full_form": "Lady",
+      "category": "nobility"
+    },
+    "Hon": {
+      "full_form": "Honourable",
+      "category": "nobility",
+      "notes": "Used for children of peers, judges, etc."
+    },
+    "Rt Hon": {
+      "full_form": "Right Honourable",
+      "category": "nobility",
+      "notes": "Privy Councillors and senior peers"
+    },
+    "Earl": {
+      "full_form": "Earl",
+      "category": "nobility"
+    },
+    "Viscount": {
+      "full_form": "Viscount",
+      "category": "nobility"
+    },
+    "Baron": {
+      "full_form": "Baron",
+      "category": "nobility"
+    },
+    "Baronet": {
+      "full_form": "Baronet",
+      "category": "nobility"
+    },
+    "Duke": {
+      "full_form": "Duke",
+      "category": "nobility"
+    },
+    "Marquess": {
+      "full_form": "Marquess",
+      "category": "nobility"
+    },
+    "Rev": {
+      "full_form": "Reverend",
+      "category": "religious"
+    },
+    "Very Rev": {
+      "full_form": "Very Reverend",
+      "category": "religious",
+      "notes": "Deans, provosts"
+    },
+    "Rt Rev": {
+      "full_form": "Right Reverend",
+      "category": "religious",
+      "notes": "Bishops"
+    },
+    "Most Rev": {
+      "full_form": "Most Reverend",
+      "category": "religious",
+      "notes": "Archbishops"
+    },
+    "Canon": {
+      "full_form": "Canon",
+      "category": "religious"
+    },
+    "Archdeacon": {
+      "full_form": "Archdeacon",
+      "category": "religious"
+    },
+    "Dr": {
+      "full_form": "Doctor",
+      "category": "academic"
+    },
+    "Prof": {
+      "full_form": "Professor",
+      "category": "academic"
+    },
+    "Major": {
+      "full_form": "Major",
+      "category": "military"
+    },
+    "Captain": {
+      "full_form": "Captain",
+      "category": "military"
+    },
+    "Colonel": {
+      "full_form": "Colonel",
+      "category": "military"
+    },
+    "Lieutenant": {
+      "full_form": "Lieutenant",
+      "category": "military"
+    },
+    "Lt-Col": {
+      "full_form": "Lieutenant-Colonel",
+      "category": "military"
+    },
+    "Lt-Gen": {
+      "full_form": "Lieutenant-General",
+      "category": "military"
+    },
+    "General": {
+      "full_form": "General",
+      "category": "military"
+    },
+    "Brigadier": {
+      "full_form": "Brigadier",
+      "category": "military"
+    },
+    "Admiral": {
+      "full_form": "Admiral",
+      "category": "military"
+    },
+    "Vice-Admiral": {
+      "full_form": "Vice-Admiral",
+      "category": "military"
+    },
+    "Rear-Admiral": {
+      "full_form": "Rear-Admiral",
+      "category": "military"
+    },
+    "Commander": {
+      "full_form": "Commander",
+      "category": "military"
+    },
+    "Commodore": {
+      "full_form": "Commodore",
+      "category": "military"
+    }
+  },
+  "positions": {
+    "governor_general": {
+      "canonical_name": "Governor-General",
+      "variants": ["Governor General", "Gov.-Gen.", "G.G."],
+      "hierarchy_level": 1,
+      "reports_to": null,
+      "category": "executive",
+      "notes": "Head of government in dominions and major colonies"
+    },
+    "governor": {
+      "canonical_name": "Governor",
+      "variants": ["Governor and Commander-in-Chief", "Gov.", "Govr"],
+      "hierarchy_level": 2,
+      "reports_to": "governor_general",
+      "category": "executive",
+      "notes": "Chief executive officer of a colony"
+    },
+    "lieutenant_governor": {
+      "canonical_name": "Lieutenant-Governor",
+      "variants": ["Lt.-Governor", "Lieut.-Governor", "Lt. Gov."],
+      "hierarchy_level": 2,
+      "reports_to": "governor_general",
+      "category": "executive"
+    },
+    "administrator": {
+      "canonical_name": "Administrator",
+      "variants": ["Acting Administrator"],
+      "hierarchy_level": 2,
+      "reports_to": null,
+      "category": "executive",
+      "notes": "Head of administration in protectorates or during vacancy"
+    },
+    "colonial_secretary": {
+      "canonical_name": "Colonial Secretary",
+      "variants": ["Chief Secretary", "Col. Secretary"],
+      "hierarchy_level": 3,
+      "reports_to": "governor",
+      "category": "administrative",
+      "notes": "Principal administrative officer"
+    },
+    "chief_justice": {
+      "canonical_name": "Chief Justice",
+      "variants": ["C.J.", "Chief Justice of the Supreme Court"],
+      "hierarchy_level": 2,
+      "reports_to": null,
+      "category": "judicial"
+    },
+    "attorney_general": {
+      "canonical_name": "Attorney-General",
+      "variants": ["Attorney General", "A.G.", "Atty-Gen"],
+      "hierarchy_level": 3,
+      "reports_to": "governor",
+      "category": "judicial"
+    },
+    "solicitor_general": {
+      "canonical_name": "Solicitor-General",
+      "variants": ["Solicitor General", "S.G."],
+      "hierarchy_level": 4,
+      "reports_to": "attorney_general",
+      "category": "judicial"
+    },
+    "puisne_judge": {
+      "canonical_name": "Puisne Judge",
+      "variants": ["Judge of the Supreme Court", "Judge"],
+      "hierarchy_level": 4,
+      "reports_to": "chief_justice",
+      "category": "judicial"
+    },
+    "colonial_treasurer": {
+      "canonical_name": "Colonial Treasurer",
+      "variants": ["Treasurer", "Financial Secretary"],
+      "hierarchy_level": 3,
+      "reports_to": "governor",
+      "category": "administrative"
+    },
+    "auditor_general": {
+      "canonical_name": "Auditor-General",
+      "variants": ["Auditor General", "Director of Audit"],
+      "hierarchy_level": 4,
+      "reports_to": "colonial_treasurer",
+      "category": "administrative"
+    },
+    "receiver_general": {
+      "canonical_name": "Receiver-General",
+      "variants": ["Receiver General"],
+      "hierarchy_level": 4,
+      "reports_to": "colonial_treasurer",
+      "category": "administrative"
+    },
+    "commissioner_of_police": {
+      "canonical_name": "Commissioner of Police",
+      "variants": ["Inspector-General of Police", "Police Commissioner"],
+      "hierarchy_level": 4,
+      "reports_to": "governor",
+      "category": "administrative"
+    },
+    "director_of_education": {
+      "canonical_name": "Director of Education",
+      "variants": ["Inspector of Schools", "Superintendent of Education"],
+      "hierarchy_level": 4,
+      "reports_to": "colonial_secretary",
+      "category": "educational"
+    },
+    "director_of_medical_services": {
+      "canonical_name": "Director of Medical Services",
+      "variants": ["Chief Medical Officer", "Principal Medical Officer"],
+      "hierarchy_level": 4,
+      "reports_to": "colonial_secretary",
+      "category": "medical"
+    },
+    "director_of_public_works": {
+      "canonical_name": "Director of Public Works",
+      "variants": ["Chief Engineer", "Surveyor-General"],
+      "hierarchy_level": 4,
+      "reports_to": "colonial_secretary",
+      "category": "administrative"
+    },
+    "postmaster_general": {
+      "canonical_name": "Postmaster-General",
+      "variants": ["Postmaster General", "P.M.G."],
+      "hierarchy_level": 5,
+      "reports_to": "colonial_secretary",
+      "category": "administrative"
+    },
+    "collector_of_customs": {
+      "canonical_name": "Collector of Customs",
+      "variants": ["Customs Collector", "Comptroller of Customs"],
+      "hierarchy_level": 5,
+      "reports_to": "colonial_treasurer",
+      "category": "administrative"
+    },
+    "registrar_general": {
+      "canonical_name": "Registrar-General",
+      "variants": ["Registrar General", "Registrar"],
+      "hierarchy_level": 5,
+      "reports_to": "colonial_secretary",
+      "category": "administrative"
+    },
+    "colonial_chaplain": {
+      "canonical_name": "Colonial Chaplain",
+      "variants": ["Chaplain", "Chaplain-General"],
+      "hierarchy_level": 5,
+      "reports_to": "governor",
+      "category": "religious"
+    },
+    "bishop": {
+      "canonical_name": "Bishop",
+      "variants": ["Anglican Bishop", "Roman Catholic Bishop"],
+      "hierarchy_level": 3,
+      "reports_to": null,
+      "category": "religious"
+    },
+    "resident": {
+      "canonical_name": "Resident",
+      "variants": ["British Resident", "Resident Commissioner"],
+      "hierarchy_level": 3,
+      "reports_to": "governor",
+      "category": "executive",
+      "notes": "Representative in protectorates or native states"
+    },
+    "district_commissioner": {
+      "canonical_name": "District Commissioner",
+      "variants": ["D.C.", "District Officer"],
+      "hierarchy_level": 5,
+      "reports_to": "colonial_secretary",
+      "category": "administrative"
+    },
+    "provincial_commissioner": {
+      "canonical_name": "Provincial Commissioner",
+      "variants": ["P.C."],
+      "hierarchy_level": 4,
+      "reports_to": "colonial_secretary",
+      "category": "administrative"
+    },
+    "chief_clerk": {
+      "canonical_name": "Chief Clerk",
+      "variants": ["1st Clerk"],
+      "hierarchy_level": 6,
+      "reports_to": null,
+      "category": "administrative"
+    },
+    "clerk": {
+      "canonical_name": "Clerk",
+      "variants": ["2nd Clerk", "Junior Clerk", "Clerical Officer"],
+      "hierarchy_level": 7,
+      "reports_to": "chief_clerk",
+      "category": "administrative"
+    },
+    "private_secretary": {
+      "canonical_name": "Private Secretary",
+      "variants": ["P.S.", "Private Sec."],
+      "hierarchy_level": 5,
+      "reports_to": "governor",
+      "category": "administrative"
+    },
+    "aide_de_camp": {
+      "canonical_name": "Aide-de-Camp",
+      "variants": ["A.D.C.", "ADC"],
+      "hierarchy_level": 5,
+      "reports_to": "governor",
+      "category": "military"
+    },
+    "commandant": {
+      "canonical_name": "Commandant",
+      "variants": ["Officer Commanding"],
+      "hierarchy_level": 4,
+      "reports_to": "governor",
+      "category": "military"
+    }
+  },
+  "institution_types": {
+    "executive_council": {
+      "description": "Advisory council to the Governor",
+      "parent_type": null,
+      "typical_composition": "Official and unofficial members"
+    },
+    "legislative_council": {
+      "description": "Legislative body of the colony",
+      "parent_type": null,
+      "typical_composition": "Elected and appointed members"
+    },
+    "legislative_assembly": {
+      "description": "Elected legislative body",
+      "parent_type": null,
+      "typical_composition": "Elected members"
+    },
+    "house_of_assembly": {
+      "description": "Lower house in bicameral legislatures",
+      "parent_type": null,
+      "typical_composition": "Elected members"
+    },
+    "supreme_court": {
+      "description": "Highest court in the colony",
+      "parent_type": "judicial"
+    },
+    "court_of_appeal": {
+      "description": "Appellate court",
+      "parent_type": "judicial"
+    },
+    "magistrates_court": {
+      "description": "Lower criminal and civil court",
+      "parent_type": "judicial"
+    },
+    "colonial_secretariat": {
+      "description": "Administrative department headed by Colonial Secretary",
+      "parent_type": "administrative"
+    },
+    "treasury": {
+      "description": "Financial administration department",
+      "parent_type": "administrative"
+    },
+    "audit_department": {
+      "description": "Financial auditing",
+      "parent_type": "administrative"
+    },
+    "customs_department": {
+      "description": "Customs and excise",
+      "parent_type": "administrative"
+    },
+    "police_force": {
+      "description": "Colonial police service",
+      "parent_type": "administrative"
+    },
+    "public_works_department": {
+      "description": "Infrastructure and construction",
+      "parent_type": "administrative"
+    },
+    "education_department": {
+      "description": "Schools and educational services",
+      "parent_type": "educational"
+    },
+    "medical_department": {
+      "description": "Public health and medical services",
+      "parent_type": "medical"
+    },
+    "postal_service": {
+      "description": "Post office and mail services",
+      "parent_type": "administrative"
+    },
+    "railway_department": {
+      "description": "Government railways",
+      "parent_type": "infrastructure"
+    },
+    "telegraph_department": {
+      "description": "Telegraph communications",
+      "parent_type": "infrastructure"
+    },
+    "lands_department": {
+      "description": "Land surveys and administration",
+      "parent_type": "administrative"
+    },
+    "agricultural_department": {
+      "description": "Agricultural development and extension",
+      "parent_type": "administrative"
+    },
+    "forestry_department": {
+      "description": "Forest management",
+      "parent_type": "administrative"
+    },
+    "prisons_department": {
+      "description": "Prison administration",
+      "parent_type": "administrative"
+    },
+    "harbour_department": {
+      "description": "Port and harbour administration",
+      "parent_type": "infrastructure"
+    }
+  }
+}

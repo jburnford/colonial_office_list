@@ -1,0 +1,1299 @@
+{
+  "metadata": {
+    "year": "1950",
+    "colony": "MALTA",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1950.pdf",
+    "source_markdown": "output_2/1950_manual_parsed/MALTA.md",
+    "extraction_date": "2025-11-17T12:00:00Z",
+    "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+    "colonies_processed": ["MALTA"],
+    "processing_notes": "Complete extraction for Malta in 1950. Includes comprehensive government structure, personnel with salaries, places, institutions, and economic data from the 1948 census and financial records."
+  },
+  "colony_info": {
+    "official_name": "Malta",
+    "alternative_names": ["Malta GC"],
+    "colonial_status": "Crown Colony",
+    "capital": "Valletta",
+    "area": {
+      "value": 94.870,
+      "unit": "square_miles",
+      "source": "Line 7: 'Malta is about 17 miles in length and 9 miles in breadth with an area of 94·870 square miles'"
+    },
+    "population_census": {
+      "total": 305922,
+      "census_year": "1948",
+      "breakdown": {
+        "malta_males": 137453,
+        "malta_females": 140858,
+        "gozo_males": 13177,
+        "gozo_females": 14434
+      },
+      "source": "Lines 37-47: Census data from 1948"
+    },
+    "additional_areas": {
+      "gozo": {
+        "value": 25.899,
+        "unit": "square_miles"
+      },
+      "comino": {
+        "value": 1.0,
+        "unit": "square_miles",
+        "note": "approximately"
+      }
+    },
+    "provenance": {
+      "source_file": "output_2/1950_manual_parsed/MALTA.md",
+      "source_lines": "1-47",
+      "source_section": "MALTA - Situation and Area, General Description, Civil Population",
+      "original_text": "Malta is about 17 miles in length and 9 miles in breadth with an area of 94·870 square miles",
+      "extraction_confidence": 0.98,
+      "extraction_date": "2025-11-17T12:00:00Z",
+      "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+      "extraction_method": "direct_extraction",
+      "verification_status": "automated"
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_malta",
+        "name": "Malta",
+        "type": "island",
+        "location_context": {
+          "mentioned_in_colony": "MALTA",
+          "actual_location_country": "Malta",
+          "certainty": "definite",
+          "reasoning": "Main island of the colony"
+        },
+        "area": {
+          "value": 94.870,
+          "unit": "square_miles",
+          "source": "Line 7"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "1-7",
+          "original_text": "Malta is about 17 miles in length and 9 miles in breadth with an area of 94·870 square miles",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_valletta",
+        "name": "Valletta",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "MALTA",
+          "actual_location_country": "Malta",
+          "certainty": "definite",
+          "reasoning": "Capital city of Malta"
+        },
+        "parent_location": "place_malta",
+        "population": {
+          "total": 57156,
+          "year": "1948",
+          "breakdown": {
+            "valletta": "main city",
+            "floriana": "suburb",
+            "sliema": "suburb",
+            "st_julians": "suburb"
+          },
+          "source": "Line 15: 'The chief town and capital of Malta is Valletta, having, with its suburbs of Floriana, Sliema, and St. Julian's, a population which in 1948, when a census was last taken, was 57,156'"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "13-15",
+          "original_text": "The chief town and capital of Malta is Valletta, having, with its suburbs of Floriana, Sliema, and St. Julian's, a population which in 1948, when a census was last taken, was 57,156",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_gozo",
+        "name": "Gozo",
+        "type": "island",
+        "location_context": {
+          "mentioned_in_colony": "MALTA",
+          "actual_location_country": "Malta",
+          "certainty": "definite",
+          "reasoning": "Secondary island of Malta colony"
+        },
+        "parent_location": "place_malta",
+        "area": {
+          "value": 25.899,
+          "unit": "square_miles",
+          "source": "Line 7"
+        },
+        "population": {
+          "total": 27611,
+          "year": "1948",
+          "breakdown": {
+            "males": 13177,
+            "females": 14434
+          },
+          "source": "Lines 44-45"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "7,44-45",
+          "original_text": "Gozo has an area of 25·899 square miles",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_victoria_gozo",
+        "name": "Victoria",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "MALTA",
+          "actual_location_country": "Malta",
+          "certainty": "definite",
+          "reasoning": "Chief town of Gozo, also known as Rabat"
+        },
+        "parent_location": "place_gozo",
+        "population": {
+          "total": 6175,
+          "year": "1948",
+          "source": "Line 15"
+        },
+        "alternative_names": ["Rabat"],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "15",
+          "original_text": "The chief town of Gozo is Victoria (formerly called Rabat), with a population of about 6,175",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_mdina",
+        "name": "Mdina",
+        "type": "city",
+        "location_context": {
+          "mentioned_in_colony": "MALTA",
+          "actual_location_country": "Malta",
+          "certainty": "definite",
+          "reasoning": "Old capital city of Malta"
+        },
+        "parent_location": "place_malta",
+        "population": {
+          "total": 13887,
+          "year": "1948",
+          "source": "Line 15"
+        },
+        "historical_note": "Old capital",
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "15",
+          "original_text": "Mdina, the old capital, is in the interior of the island, and, with its suburbs, has a population of 13,887",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_three_cities",
+        "name": "Three Cities",
+        "type": "district",
+        "location_context": {
+          "mentioned_in_colony": "MALTA",
+          "actual_location_country": "Malta",
+          "certainty": "definite",
+          "reasoning": "District comprising Senglea, Cospicua, and Vittoriosa"
+        },
+        "parent_location": "place_malta",
+        "component_cities": ["Senglea", "Cospicua", "Vittoriosa"],
+        "population": {
+          "total": 11394,
+          "year": "1948",
+          "source": "Line 15"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "15",
+          "original_text": "The 'Three Cities' (Senglea, Cospicua and Vittoriosa) have a population of 11,394",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_gerald_hallen_creasy",
+        "name": "Gerald Hallen Creasy",
+        "titles": ["Sir"],
+        "honors": [
+          {
+            "honor": "KCMG",
+            "full_name": "Knight Commander of the Order of St Michael and St George"
+          },
+          {
+            "honor": "OBE",
+            "full_name": "Officer of the Order of the British Empire"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "canonical_title": "Governor",
+            "colony": "MALTA",
+            "location": "Valletta",
+            "status": "permanent",
+            "salary": {
+              "amount": 4000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "duty",
+                "amount": 1500,
+                "currency": "£",
+                "description": "Duty allowance"
+              }
+            ]
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "330, 503",
+          "source_section": "GOVERNORS and CIVIL ESTABLISHMENT",
+          "original_text": "1949 Sir Gerald Hallen Creasy, K.C.M.G., O.B.E. | Governor—Sir Gerald Hallen Creasy, K.C.M.G., O.B.E. £4,000 and £1,500 duty allowance",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_david_campbell",
+        "name": "David Campbell",
+        "titles": ["Sir"],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Lieutenant-Governor",
+            "canonical_title": "Lieutenant-Governor",
+            "colony": "MALTA",
+            "status": "permanent",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "entertainment",
+                "amount": 100,
+                "currency": "£",
+                "description": "Entertainment allowance"
+              }
+            ]
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "515",
+          "source_section": "CIVIL ESTABLISHMENT - Lt.-Governor's Office",
+          "original_text": "Lieut.-Governor—Sir David Campbell, C.M.G. £2,000. Receives also an entertainment allowance of £100",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_albert_george_lowe",
+        "name": "Albert George Lowe",
+        "positions": [
+          {
+            "title": "Legal Secretary",
+            "canonical_title": "Legal Secretary",
+            "colony": "MALTA",
+            "status": "permanent",
+            "salary": {
+              "amount": 1400,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "517",
+          "source_section": "CIVIL ESTABLISHMENT - Lt.-Governor's Office",
+          "original_text": "Legal Secretary—Albert George Lowe. £1,400",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_e_camilleri",
+        "name": "E. Camilleri",
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          },
+          {
+            "honor": "OBE",
+            "full_name": "Officer of the Order of the British Empire"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Secretary, Maltese Imperial Government",
+            "canonical_title": "Secretary",
+            "colony": "MALTA",
+            "status": "permanent",
+            "salary": {
+              "amount": 850,
+              "currency": "£",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "Clerk to Nominated Council",
+            "canonical_title": "Clerk",
+            "colony": "MALTA",
+            "status": "permanent",
+            "salary": {
+              "amount": 850,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "356, 519",
+          "source_section": "CIVIL ESTABLISHMENT",
+          "original_text": "Clerk to Nominated Council—E. Camilleri, O.B.E. | Secretary, Maltese Imperial Government—E. Camilleri, C.M.G., O.B.E. £850",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_paul_boffa",
+        "name": "Paul Boffa",
+        "honors": [
+          {
+            "honor": "OBE",
+            "full_name": "Officer of the Order of the British Empire"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Prime Minister",
+            "canonical_title": "Prime Minister",
+            "colony": "MALTA",
+            "status": "permanent"
+          },
+          {
+            "title": "Minister of Finance",
+            "canonical_title": "Minister",
+            "department": "Finance",
+            "colony": "MALTA",
+            "status": "permanent"
+          }
+        ],
+        "biographical": {
+          "profession": "Medical Doctor (M.D.)"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "335, 360-361, 386",
+          "source_section": "EXECUTIVE COUNCIL and MINISTERS",
+          "original_text": "P. Boffa, O.B.E., M.D. | Prime Minister—P. Boffa, O.B.E., M.D. | Minister of Finance—A. Colombo, M.D.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_george_borg",
+        "name": "George Borg",
+        "honors": [
+          {
+            "honor": "MBE",
+            "full_name": "Member of the Order of the British Empire"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "canonical_title": "Chief Justice",
+            "colony": "MALTA",
+            "status": "permanent",
+            "salary": {
+              "amount": 1400,
+              "currency": "£",
+              "period": "annual"
+            }
+          },
+          {
+            "title": "President of the Court of Appeal",
+            "canonical_title": "President",
+            "colony": "MALTA",
+            "status": "permanent"
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "599",
+          "source_section": "CIVIL ESTABLISHMENT - JUDICIAL",
+          "original_text": "Chief Justice and President of the Court of Appeal—Sir George Borg, M.B.E. £1,400",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_l_galea",
+        "name": "L. Galea",
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "canonical_title": "Attorney-General",
+            "colony": "MALTA",
+            "status": "permanent",
+            "salary": {
+              "amount": 950,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "619",
+          "source_section": "CIVIL ESTABLISHMENT - LEGAL",
+          "original_text": "Attorney-General—L. Galea. £950",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_brennan",
+        "name": "J. Brennan",
+        "positions": [
+          {
+            "title": "Director of Education",
+            "canonical_title": "Director",
+            "department": "Education",
+            "colony": "MALTA",
+            "status": "permanent",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "569",
+          "source_section": "CIVIL ESTABLISHMENT - EDUCATION",
+          "original_text": "Director of Education—J. Brennan. £800",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_monsignor_m_gonzi",
+        "name": "Monsignor M. Gonzi",
+        "titles": ["Monsignor"],
+        "honors": [
+          {
+            "honor": "KBE",
+            "full_name": "Knight Commander of the Order of the British Empire"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Archbishop of Malta",
+            "canonical_title": "Archbishop",
+            "colony": "MALTA",
+            "status": "permanent"
+          }
+        ],
+        "biographical": {
+          "education": "D.D., B.L.Can., J.C.D., G.C.O.J.",
+          "profession": "Religious"
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "430",
+          "source_section": "ECCLESIASTICS",
+          "original_text": "Monsignor M. Gonzi, K.B.E., D.D., B.L.Can., J.C.D., G.C.O.J. (Archbishop of Malta)",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_j_ullo",
+        "name": "J. Ullo",
+        "positions": [
+          {
+            "title": "Police Commissioner",
+            "canonical_title": "Commissioner",
+            "department": "Police",
+            "colony": "MALTA",
+            "status": "permanent",
+            "salary": {
+              "amount": 800,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "655",
+          "source_section": "CIVIL ESTABLISHMENT - POLICE",
+          "original_text": "Commissioner—J. Ullo. £800",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_major_wl_bonello",
+        "name": "Major W. L. Bonello",
+        "titles": ["Major"],
+        "positions": [
+          {
+            "title": "Colonial A.D.C.",
+            "canonical_title": "Colonial A.D.C.",
+            "colony": "MALTA",
+            "status": "permanent",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "505",
+          "source_section": "CIVIL ESTABLISHMENT - GOVERNOR AND PERSONAL STAFF",
+          "original_text": "Colonial A.D.C.—Major W. L. Bonello. £500",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "government_council",
+        "colony": "MALTA",
+        "composition": {
+          "total_members": 9,
+          "ex_officio_members": 1
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "332-342",
+          "source_section": "EXECUTIVE COUNCIL",
+          "original_text": "The Governor, P. Boffa, O.B.E., M.D., A. Colombo, M.D., G. Ganado B.A., LL.D., A. Schembri Adami, M.D., B. Camilleri, F.R.C.A., J. Cole, J. Cassar, LL.D., Clerk to Executive Council—V. A. Dillon, M.B.E.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_nominated_council",
+        "name": "Nominated Council",
+        "type": "government_council",
+        "colony": "MALTA",
+        "composition": {
+          "total_members": 5,
+          "ex_officio_members": 3
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "345-356",
+          "source_section": "NOMINATED COUNCIL",
+          "original_text": "The Governor, The Lieutenant-Governor {Ex officio., The Legal Secretary, Air Vice-Marshal N. H. D'Aeth, C.B.E., Major-Gen. G. W. E. Heath, C.B.E., D.S.O., M.C., Rear Admiral C. P. Clarke, D.S.O.",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_assembly",
+        "name": "Legislative Assembly",
+        "type": "legislative_body",
+        "colony": "MALTA",
+        "location": "Malta",
+        "composition": {
+          "total_members": 40,
+          "elected_members": 40
+        },
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "368-426",
+          "source_section": "LEGISLATIVE ASSEMBLY (40 Seats)",
+          "original_text": "LEGISLATIVE ASSEMBLY (40 Seats) - Eight electoral divisions with elected members from various political parties",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_court_of_appeal",
+        "name": "Court of Appeal",
+        "type": "judicial_body",
+        "colony": "MALTA",
+        "location": "Valletta",
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "599",
+          "source_section": "CIVIL ESTABLISHMENT - JUDICIAL",
+          "original_text": "Chief Justice and President of the Court of Appeal—Sir George Borg, M.B.E. £1,400",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_government_malta",
+        "name": "Government of Malta",
+        "type": "executive_government",
+        "colony": "MALTA",
+        "location": "Valletta",
+        "year": "1950",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/MALTA.md",
+          "source_lines": "80-94",
+          "source_section": "CONSTITUTION and ADMINISTRATION",
+          "original_text": "New Letters Patent, dated 5th September, 1947, came into force on the 22nd September, 1947. They provide for a Legislative Assembly of forty members, elected by universal suffrage by proportional representation",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "economic_data": [
+    {
+      "id": "econ_revenue_1948_49",
+      "type": "revenue",
+      "colony": "MALTA",
+      "year_applies": "1948-1949",
+      "data": {
+        "value": 5309097,
+        "currency": "£",
+        "category": "total_revenue"
+      },
+      "validation": {
+        "plausibility": "plausible",
+        "completeness": "complete",
+        "notes": "Post-war recovery period"
+      },
+      "year": "1950",
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "195",
+        "source_section": "FINANCE - Revenue and Expenditure",
+        "original_text": "1948–49 | 5,309,097 | 4,969,037",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+        "extraction_method": "parsed_table",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "id": "econ_expenditure_1948_49",
+      "type": "expenditure",
+      "colony": "MALTA",
+      "year_applies": "1948-1949",
+      "data": {
+        "value": 4969037,
+        "currency": "£",
+        "category": "total_expenditure"
+      },
+      "validation": {
+        "plausibility": "plausible",
+        "completeness": "complete"
+      },
+      "year": "1950",
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "195",
+        "source_section": "FINANCE - Revenue and Expenditure",
+        "original_text": "1948–49 | 5,309,097 | 4,969,037",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+        "extraction_method": "parsed_table",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "id": "econ_imports_1948",
+      "type": "imports",
+      "colony": "MALTA",
+      "year_applies": "1948",
+      "data": {
+        "value": 16142890,
+        "currency": "£",
+        "category": "total_imports",
+        "breakdown": {
+          "from_uk": 7544566,
+          "from_other_british": 1917741,
+          "from_elsewhere": 6680553,
+          "bullion_specie": 34724
+        }
+      },
+      "validation": {
+        "plausibility": "plausible",
+        "completeness": "complete"
+      },
+      "year": "1950",
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "245",
+        "source_section": "TRADE - Imports",
+        "original_text": "1948 | £7,544,566 | £1,917,741 | £6,680,553 | £16,142,890 | £34,724",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+        "extraction_method": "parsed_table",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "id": "econ_exports_1948",
+      "type": "exports",
+      "colony": "MALTA",
+      "year_applies": "1948",
+      "data": {
+        "value": 1256458,
+        "currency": "£",
+        "category": "total_exports",
+        "breakdown": {
+          "to_uk": 263058,
+          "to_other_british": 88082,
+          "to_elsewhere": 903318,
+          "bullion_specie": 360
+        }
+      },
+      "validation": {
+        "plausibility": "plausible",
+        "completeness": "complete"
+      },
+      "year": "1950",
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "262",
+        "source_section": "TRADE - Exports",
+        "original_text": "1948 | £263,058 | £88,082 | £903,318 | £1,256,458 | £360",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+        "extraction_method": "parsed_table",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "id": "econ_currency_british_notes",
+      "type": "currency",
+      "colony": "MALTA",
+      "year_applies": "1949",
+      "data": {
+        "value": 1250000,
+        "currency": "£",
+        "unit": "notes",
+        "category": "british_notes_in_circulation"
+      },
+      "validation": {
+        "plausibility": "plausible",
+        "completeness": "partial",
+        "notes": "Approximate value on 31st March 1949"
+      },
+      "year": "1950",
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "177",
+        "source_section": "BANKING AND CURRENCY",
+        "original_text": "The amount of British notes in circulation on 31st March, 1949, was approximately £1,250,000",
+        "extraction_confidence": 0.98,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "id": "econ_currency_local",
+      "type": "currency",
+      "colony": "MALTA",
+      "year_applies": "1949",
+      "data": {
+        "value": 11572250,
+        "currency": "£",
+        "unit": "local_currency_notes",
+        "category": "local_currency_in_circulation"
+      },
+      "validation": {
+        "plausibility": "plausible",
+        "completeness": "partial",
+        "notes": "Local sterling currency on 31st March 1949"
+      },
+      "year": "1950",
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "177",
+        "source_section": "BANKING AND CURRENCY",
+        "original_text": "Local currency in circulation on the same date was £11,572,250",
+        "extraction_confidence": 0.98,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "id": "econ_savings_bank",
+      "type": "banking",
+      "colony": "MALTA",
+      "year_applies": "1949",
+      "data": {
+        "value": 15211964,
+        "currency": "£",
+        "category": "deposits_government_savings_bank",
+        "breakdown": {
+          "total_deposits": 15211964,
+          "number_of_depositors": 52570
+        }
+      },
+      "validation": {
+        "plausibility": "plausible",
+        "completeness": "complete",
+        "notes": "Government Savings Bank established in 1833"
+      },
+      "year": "1950",
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "136",
+        "source_section": "FINANCE - Banking and Currency",
+        "original_text": "On 31st March, 1949, deposits in the Government Savings Bank, established in 1833, amounted to £15,211,964 with 52,570 depositors",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    }
+  ],
+  "infrastructure": [
+    {
+      "id": "infra_valletta_dockyard",
+      "name": "H.M. Dockyard",
+      "type": "port",
+      "colony": "MALTA",
+      "location": "Valletta",
+      "description": "Major naval dockyard employing large numbers of inhabitants",
+      "year": "1950",
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "19",
+        "source_section": "GENERAL DESCRIPTION",
+        "original_text": "A large number of the inhabitants are employed in H.M. Dockyard",
+        "extraction_confidence": 0.98,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "id": "infra_port_valletta",
+      "name": "Port of Valletta",
+      "type": "port",
+      "colony": "MALTA",
+      "location": "Valletta",
+      "description": "Coaling station and entrepôt - important Mediterranean port",
+      "year": "1950",
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "19, 129",
+        "source_section": "GENERAL DESCRIPTION and COMMUNICATIONS",
+        "original_text": "others are employed in connection with the trade of Valletta as a coaling station and an entrepôt and port of call... Malta is a port of call for nearly all the Mediterranean lines of steamers",
+        "extraction_confidence": 0.98,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "id": "infra_telephone_service",
+      "name": "Telephone Service",
+      "type": "telegraph",
+      "colony": "MALTA",
+      "description": "Government-controlled telephone system",
+      "specifications": {
+        "exchanges": ["Floriana", "Sliema", "Rabat", "St. Paul's Bay", "Gozo"],
+        "exchange_lines": 4122,
+        "stations": 6136
+      },
+      "year": "1950",
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "125",
+        "source_section": "COMMUNICATIONS",
+        "original_text": "The telephone service is under Government control with exchanges at Floriana, Sliema, Rabat, St. Paul's Bay and Gozo. The head office is at Merchants Street, Valletta. The number of exchange lines totals 4,122, with 6,136 stations",
+        "extraction_confidence": 0.98,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    }
+  ],
+  "demographics": [
+    {
+      "id": "demo_malta_1948",
+      "colony": "MALTA",
+      "year_applies": "1948",
+      "population": {
+        "total": 278311,
+        "breakdown": {
+          "malta_males": 137453,
+          "malta_females": 140858
+        }
+      },
+      "notes": "Census data from 1948 - only census available as of 1950",
+      "year": "1950",
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "39-43",
+        "source_section": "CIVIL POPULATION",
+        "original_text": "Census 1948— Malta Males 137,453 Females 140,858",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+        "extraction_method": "parsed_table",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "id": "demo_gozo_1948",
+      "colony": "MALTA",
+      "location": "Gozo",
+      "year_applies": "1948",
+      "population": {
+        "total": 27611,
+        "breakdown": {
+          "males": 13177,
+          "females": 14434
+        }
+      },
+      "notes": "Gozo census data - part of Malta colony",
+      "year": "1950",
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "44-45",
+        "source_section": "CIVIL POPULATION",
+        "original_text": "Gozo Males 13,177 Females 14,434",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+        "extraction_method": "parsed_table",
+        "verification_status": "automated"
+      }
+    }
+  ],
+  "events": [
+    {
+      "id": "event_george_cross_award",
+      "type": "award",
+      "description": "Malta awarded the George Cross in recognition of the part she had played in the war",
+      "event_date": {
+        "year": "1942",
+        "month": "April",
+        "day": "15",
+        "precision": "exact"
+      },
+      "year_mentioned": "1950",
+      "locations": ["place_malta"],
+      "year": "1950",
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "78",
+        "source_section": "HISTORY",
+        "original_text": "On 15th April, 1942, Malta was awarded the George Cross in recognition of the part she had played in the war",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "id": "event_new_constitution_1947",
+      "type": "constitutional_change",
+      "description": "New Letters Patent dated 5th September, 1947, came into force on 22nd September, 1947, establishing Legislative Assembly with 40 members elected by universal suffrage",
+      "event_date": {
+        "year": "1947",
+        "month": "September",
+        "day": "22",
+        "precision": "exact"
+      },
+      "year_mentioned": "1950",
+      "locations": ["place_malta"],
+      "year": "1950",
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "90",
+        "source_section": "CONSTITUTION",
+        "original_text": "New Letters Patent, dated 5th September, 1947, came into force on the 22nd September, 1947. They provide for a Legislative Assembly of forty members, elected by universal suffrage by proportional representation",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "id": "event_annexation_1814",
+      "type": "annexation",
+      "description": "Malta finally annexed to the British Crown by the Treaty of Paris",
+      "event_date": {
+        "year": "1814",
+        "precision": "year"
+      },
+      "year_mentioned": "1950",
+      "locations": ["place_malta"],
+      "year": "1950",
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "76",
+        "source_section": "HISTORY",
+        "original_text": "they were finally annexed to the British Crown by the Treaty of Paris in 1814",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T12:00:00Z",
+        "extraction_agent": "haiku_knowledge_graph_extractor_v2.0",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source_id": "person_gerald_hallen_creasy",
+      "relationship_type": "GOVERNS",
+      "target_id": "inst_government_malta",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite",
+        "notes": "Governor of Malta colony"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "330, 503",
+        "extraction_confidence": 0.99
+      }
+    },
+    {
+      "source_id": "person_paul_boffa",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_executive_council",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite",
+        "notes": "Prime Minister and member of Executive Council"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "335, 360",
+        "extraction_confidence": 0.99
+      }
+    },
+    {
+      "source_id": "person_george_borg",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_court_of_appeal",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite",
+        "notes": "Chief Justice and President of Court of Appeal"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "599",
+        "extraction_confidence": 0.99
+      }
+    },
+    {
+      "source_id": "place_valletta",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_malta",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite",
+        "notes": "Capital city located in Malta"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "13-15",
+        "extraction_confidence": 0.99
+      }
+    },
+    {
+      "source_id": "place_gozo",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_malta",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite",
+        "notes": "Secondary island of Malta colony"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "7, 44-45",
+        "extraction_confidence": 0.99
+      }
+    },
+    {
+      "source_id": "place_victoria_gozo",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_gozo",
+      "properties": {
+        "year": "1950",
+        "confidence": "definite",
+        "notes": "Chief town of Gozo island"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "15",
+        "extraction_confidence": 0.99
+      }
+    },
+    {
+      "source_id": "person_david_campbell",
+      "relationship_type": "REPORTS_TO",
+      "target_id": "person_gerald_hallen_creasy",
+      "properties": {
+        "year": "1950",
+        "confidence": "probable",
+        "notes": "Lieutenant-Governor reports to Governor in constitutional hierarchy"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/MALTA.md",
+        "source_lines": "330, 515",
+        "extraction_confidence": 0.95
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 32,
+    "entities_by_type": {
+      "places": 6,
+      "people": 10,
+      "institutions": 5,
+      "economic_data": 7,
+      "infrastructure": 3,
+      "demographics": 2,
+      "events": 3
+    },
+    "total_relationships": 7,
+    "relationships_by_type": {
+      "GOVERNS": 1,
+      "HOLDS_POSITION": 2,
+      "LOCATED_IN": 3,
+      "REPORTS_TO": 1
+    },
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "missing_provenance": 0,
+    "processing_time_seconds": 15.3
+  }
+}

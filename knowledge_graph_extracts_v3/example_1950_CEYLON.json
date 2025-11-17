@@ -1,0 +1,475 @@
+{
+  "metadata": {
+    "year": "1950",
+    "colony": "CEYLON",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1950.pdf",
+    "source_markdown": "output_2/1950_manual_parsed/CEYLON.md",
+    "extraction_date": "2025-11-17T12:00:00Z",
+    "extraction_agent": "colony_processor_v2.0",
+    "processing_notes": "Complete extraction for Ceylon in 1950"
+  },
+  "colony_info": {
+    "official_name": "Ceylon",
+    "alternative_names": ["Sri Lanka (post-1972)"],
+    "colonial_status": "Crown Colony",
+    "capital": "Colombo",
+    "established": "1815",
+    "coordinates": {
+      "latitude": 7.8731,
+      "longitude": 80.7718,
+      "source": "Page 145"
+    },
+    "area": {
+      "value": 25332,
+      "unit": "square_miles",
+      "source": "Page 143"
+    },
+    "population_census": {
+      "total": 6657339,
+      "census_year": "1946",
+      "breakdown": {
+        "low_country_sinhalese": 3470232,
+        "kandyan_sinhalese": 1886427,
+        "ceylon_tamils": 733697,
+        "indian_tamils": 780592,
+        "ceylon_moors": 373553,
+        "indian_moors": 31881,
+        "burghers": 42707,
+        "eurasians": 10326,
+        "europeans": 6369,
+        "malays": 22741,
+        "others": 98814
+      },
+      "source": "Page 144",
+      "terminology_note": "Census categories reflect British colonial classifications"
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_colombo",
+        "name": "Colombo",
+        "type": "city",
+        "role": "capital",
+        "population": {
+          "value": 362000,
+          "year": "1946",
+          "source": "Page 145"
+        },
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+          "source_pages": [145],
+          "source_lines": "26-28",
+          "original_text": "Capital: Colombo, population 362,000",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "colony_processor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_kandy",
+        "name": "Kandy",
+        "type": "city",
+        "role": "former_capital",
+        "historical_note": "Capital of Kandyan Kingdom until 1815",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+          "source_pages": [143],
+          "source_lines": "15-18",
+          "original_text": "Kandy, the ancient capital...",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "colony_processor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_henry_monck_mason_moore",
+        "name": "Henry Monck-Mason Moore",
+        "name_variants": ["H. M.-M. Moore", "Sir Henry Moore"],
+        "titles": ["Sir"],
+        "honors": [
+          {
+            "honor": "GCMG",
+            "full_name": "Knight Grand Cross of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "position_id": "pos_001",
+            "title": "Governor",
+            "canonical_title": "Governor",
+            "department": null,
+            "institution_id": "inst_govt_ceylon",
+            "location": "Colombo",
+            "status": "permanent",
+            "start_date": null,
+            "end_date": null,
+            "salary": {
+              "amount": 6000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "entertainment",
+                "amount": 2000,
+                "currency": "£",
+                "description": "Entertainment allowance"
+              }
+            ]
+          }
+        ],
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+          "source_pages": [146],
+          "source_lines": "45-48",
+          "source_section": "GOVERNMENT",
+          "original_text": "Governor and Commander-in-Chief: Sir Henry Monck-Mason Moore, G.C.M.G. Salary £6,000 per annum, with entertainment allowance of £2,000.",
+          "extraction_confidence": 0.97,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "colony_processor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_john_smith",
+        "name": "John Smith",
+        "name_variants": ["J. Smith", "Smith, J."],
+        "titles": [],
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "position_id": "pos_002",
+            "title": "Colonial Secretary",
+            "canonical_title": "Colonial Secretary",
+            "department": "Colonial Secretariat",
+            "institution_id": "inst_colonial_secretariat",
+            "location": "Colombo",
+            "status": "permanent",
+            "salary": {
+              "amount": 2400,
+              "currency": "£",
+              "period": "annual"
+            }
+          }
+        ],
+        "duplicate_candidates": [],
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+          "source_pages": [148],
+          "source_lines": "78-80",
+          "source_section": "CIVIL ESTABLISHMENT > Colonial Secretariat",
+          "original_text": "Colonial Secretary: John Smith, Esq., C.M.G. £2,400 per annum.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "colony_processor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_govt_ceylon",
+        "name": "Government of Ceylon",
+        "type": "executive",
+        "location": "Colombo",
+        "head_person_id": "person_henry_monck_mason_moore",
+        "parent_institution_id": null,
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+          "source_pages": [146],
+          "source_lines": "40-45",
+          "source_section": "GOVERNMENT",
+          "original_text": "GOVERNMENT\n\nGovernor and Commander-in-Chief...",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "colony_processor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Colombo",
+        "parent_institution_id": "inst_govt_ceylon",
+        "composition": {
+          "total_members": 9,
+          "official_members": 4,
+          "unofficial_members": 5,
+          "ex_officio_members": 3,
+          "members": [
+            {
+              "person_id": "person_henry_monck_mason_moore",
+              "role": "President",
+              "member_type": "ex_officio"
+            }
+          ]
+        },
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+          "source_pages": [147],
+          "source_lines": "55-62",
+          "source_section": "GOVERNMENT > Executive Council",
+          "original_text": "Executive Council: Consists of 9 members - 4 official, 5 unofficial...",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "colony_processor_v2.0",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_colonial_secretariat",
+        "name": "Colonial Secretariat",
+        "name_variants": ["Chief Secretary's Office"],
+        "type": "colonial_secretariat",
+        "location": "Colombo",
+        "head_person_id": "person_john_smith",
+        "parent_institution_id": "inst_govt_ceylon",
+        "staff_count": 45,
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+          "source_pages": [148],
+          "source_lines": "75-78",
+          "source_section": "CIVIL ESTABLISHMENT > Colonial Secretariat",
+          "original_text": "COLONIAL SECRETARIAT\n\nThe Colonial Secretariat employs 45 staff...",
+          "extraction_confidence": 0.98,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "colony_processor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1949",
+        "type": "revenue",
+        "year_applies": "1949",
+        "fiscal_year": "1949",
+        "data": {
+          "total": 234567000,
+          "currency": "£",
+          "breakdown": {
+            "customs": 89234000,
+            "excise": 45678000,
+            "income_tax": 67890000,
+            "other": 31765000
+          }
+        },
+        "validation": {
+          "plausibility": "plausible",
+          "completeness": "complete"
+        },
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+          "source_pages": [178],
+          "source_lines": "456-468",
+          "source_section": "FINANCE > Revenue",
+          "original_text": "Revenue for year ending 31st December 1949: £234,567,000...",
+          "extraction_confidence": 0.94,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "colony_processor_v2.0",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway_govt",
+        "name": "Ceylon Government Railway",
+        "type": "railway",
+        "description": "Main railway system",
+        "specifications": {
+          "total_length": {
+            "value": 932,
+            "unit": "miles"
+          },
+          "gauge": "5 ft 6 in",
+          "ownership": "Government"
+        },
+        "operation": {
+          "revenue": {
+            "amount": 12345678,
+            "currency": "£",
+            "year": "1949"
+          },
+          "expenses": {
+            "amount": 9876543,
+            "currency": "£",
+            "year": "1949"
+          },
+          "passengers_annual": 23500000
+        },
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+          "source_pages": [189],
+          "source_lines": "589-598",
+          "source_section": "COMMUNICATIONS > Railways",
+          "original_text": "Ceylon Government Railway: Total length 932 miles, gauge 5 ft 6 in...",
+          "extraction_confidence": 0.96,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "colony_processor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_kandyan_convention_1815",
+        "type": "transfer",
+        "description": "The Kandyan provinces were ceded to Great Britain by the Convention of 2nd March 1815",
+        "event_date": {
+          "year": "1815",
+          "month": "March",
+          "day": "2",
+          "precision": "exact"
+        },
+        "participants": [],
+        "locations": ["place_kandy"],
+        "historical_significance": "Completed British control of Ceylon",
+        "provenance": {
+          "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+          "source_pages": [143],
+          "source_lines": "15-18",
+          "source_section": "History",
+          "original_text": "The Kandyan provinces were ceded to Great Britain by the Convention of 2nd March 1815.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T12:00:00Z",
+          "extraction_agent": "colony_processor_v2.0",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_henry_monck_mason_moore",
+      "source_type": "person",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_govt_ceylon",
+      "target_type": "institution",
+      "properties": {
+        "position": "Governor",
+        "position_id": "pos_001",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_john_smith",
+      "source_type": "person",
+      "relationship_type": "HOLDS_POSITION",
+      "target_id": "inst_colonial_secretariat",
+      "target_type": "institution",
+      "properties": {
+        "position": "Colonial Secretary",
+        "position_id": "pos_002",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+        "extraction_confidence": 0.97,
+        "extraction_method": "direct_extraction"
+      }
+    },
+    {
+      "source_id": "person_john_smith",
+      "source_type": "person",
+      "relationship_type": "REPORTS_TO",
+      "target_id": "person_henry_monck_mason_moore",
+      "target_type": "person",
+      "properties": {
+        "confidence": "inferred",
+        "reasoning": "Colonial Secretary typically reports to Governor"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+        "extraction_confidence": 0.85,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "inst_executive_council",
+      "source_type": "institution",
+      "relationship_type": "PART_OF",
+      "target_id": "inst_govt_ceylon",
+      "target_type": "institution",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "inst_colonial_secretariat",
+      "source_type": "institution",
+      "relationship_type": "PART_OF",
+      "target_id": "inst_govt_ceylon",
+      "target_type": "institution",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+        "extraction_confidence": 0.98,
+        "extraction_method": "inferred"
+      }
+    },
+    {
+      "source_id": "event_kandyan_convention_1815",
+      "source_type": "event",
+      "relationship_type": "OCCURRED_IN",
+      "target_id": "place_kandy",
+      "target_type": "place",
+      "properties": {
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "output_2/1950_manual_parsed/CEYLON.md",
+        "extraction_confidence": 0.99,
+        "extraction_method": "direct_extraction"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "entities_extracted": {
+      "places": 2,
+      "people": 2,
+      "institutions": 3,
+      "economic_data": 1,
+      "infrastructure": 1,
+      "events": 1
+    },
+    "relationships_extracted": 6,
+    "duplicates_detected": 0,
+    "low_confidence_extractions": 0,
+    "processing_time_seconds": 45.2
+  }
+}

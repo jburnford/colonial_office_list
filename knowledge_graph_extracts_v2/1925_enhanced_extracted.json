@@ -1,0 +1,5664 @@
+{
+  "metadata": {
+    "year": "1925",
+    "source_directory": "/home/user/colonial_office_list/output_2/1925_manual_parsed",
+    "extraction_date": "2025-11-16T23:32:29.432070Z",
+    "processing_notes": "Enhanced extraction with institutional, administrative, and infrastructure data",
+    "colonies_processed": [
+      "ADEN",
+      "ASCENSION",
+      "AUSTRALIA",
+      "BAHAMAS",
+      "BASUTOLAND",
+      "BERMUDA",
+      "BRITISH_GUIANA",
+      "BRITISH_HONDURAS",
+      "CAPE_OF_GOOD_HOPE",
+      "CAYMAN_ISLANDS",
+      "CEYLON",
+      "CYPRUS",
+      "DOMINICA",
+      "FALKLAND_ISLANDS",
+      "FIJI",
+      "GIBRALTAR",
+      "GRENADA",
+      "HONG_KONG",
+      "MALTA",
+      "MAURITIUS",
+      "NEWFOUNDLAND",
+      "NIGERIA",
+      "NORTHERN_RHODESIA",
+      "PALESTINE",
+      "SEYCHELLES",
+      "SIERRA_LEONE",
+      "SOUTHERN_RHODESIA",
+      "SOUTH_WEST_AFRICA",
+      "ST._HELENA",
+      "ST._LUCIA",
+      "ST._VINCENT",
+      "STRAITS_SETTLEMENTS",
+      "SWAZILAND",
+      "THE_GAMBIA",
+      "TRINIDAD_AND_TOBAGO",
+      "TURKS_AND_CAICOS_ISLANDS",
+      "UGANDA",
+      "WEIHAIWEI",
+      "ZANZIBAR"
+    ]
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_1925_ADEN_1",
+        "name": "ADEN",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "12° 47' N.",
+          "longitude": "45° 10' E."
+        },
+        "area": {
+          "value": 75.0,
+          "unit": "square miles"
+        },
+        "description": "\nADEN."
+      },
+      {
+        "id": "place_1925_ASCENSION_2",
+        "name": "ASCENSION",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "7° 53' S.",
+          "longitude": "14° 18' W."
+        },
+        "area": {
+          "value": 34.0,
+          "unit": "square miles"
+        },
+        "description": "\nASCENSION."
+      },
+      {
+        "id": "place_1925_AUSTRALIA_3",
+        "name": "AUSTRALIA",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "31° 30' S.",
+          "longitude": "159° 5' E."
+        },
+        "area": {
+          "value": 310367.0,
+          "unit": "square miles"
+        },
+        "description": "In accordance with Art."
+      },
+      {
+        "id": "place_1925_BAHAMAS_4",
+        "name": "BAHAMAS",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "27° 34' N.",
+          "longitude": "79° 5' W."
+        },
+        "area": {
+          "value": 4403.0,
+          "unit": "square miles"
+        },
+        "description": "\nBAHAMAS."
+      },
+      {
+        "id": "place_1925_BASUTOLAND_5",
+        "name": "BASUTOLAND",
+        "type": "colony",
+        "year": "1925",
+        "area": {
+          "value": 11716.0,
+          "unit": "square miles"
+        },
+        "description": "\nBASUTOLAND."
+      },
+      {
+        "id": "place_1925_BERMUDA_6",
+        "name": "BERMUDA",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "32° 15' N.",
+          "longitude": "64° 51' W."
+        },
+        "area": {
+          "value": 19.0,
+          "unit": "square miles"
+        },
+        "description": "\nBERMUDA."
+      },
+      {
+        "id": "place_1925_BRITISHGUI_7",
+        "name": "BRITISH_GUIANA",
+        "type": "colony",
+        "year": "1925",
+        "description": "(f) For 9 months ending 31st December, 1915."
+      },
+      {
+        "id": "place_1925_BRITISHHON_8",
+        "name": "BRITISH_HONDURAS",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "15° 54' N.",
+          "longitude": "87° 50' W."
+        },
+        "area": {
+          "value": 8598.0,
+          "unit": "square miles"
+        },
+        "description": "\nBRITISH HONDURAS."
+      },
+      {
+        "id": "place_1925_CAPEOFGOOD_9",
+        "name": "CAPE_OF_GOOD_HOPE",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "longitude": "32° 10' E."
+        },
+        "area": {
+          "value": 276966.0,
+          "unit": "square miles"
+        },
+        "description": "\nCAPE OF GOOD HOPE."
+      },
+      {
+        "id": "place_1925_CAYMANISLA_10",
+        "name": "CAYMAN_ISLANDS",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "longitude": "81° 30' W.",
+          "latitude": "19° 45' N."
+        },
+        "area": {
+          "value": 104.0,
+          "unit": "square miles"
+        },
+        "description": "\nCAYMAN ISLANDS."
+      },
+      {
+        "id": "place_1925_CEYLON_11",
+        "name": "CEYLON",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "9° 50' N.",
+          "longitude": "81° 53' E."
+        },
+        "area": {
+          "value": 25332.0,
+          "unit": "square miles"
+        },
+        "description": "\nCEYLON."
+      },
+      {
+        "id": "place_1925_CYPRUS_12",
+        "name": "CYPRUS",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "35° 41' N.",
+          "longitude": "34° 35' E."
+        },
+        "area": {
+          "value": 3584.0,
+          "unit": "square miles"
+        },
+        "description": "Quartermaster C."
+      },
+      {
+        "id": "place_1925_DOMINICA_13",
+        "name": "DOMINICA",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "15° 40' N.",
+          "longitude": "61° 30' W."
+        },
+        "area": {
+          "value": 3043.0,
+          "unit": "square miles"
+        },
+        "description": "\nDOMINICA."
+      },
+      {
+        "id": "place_1925_FALKLANDIS_14",
+        "name": "FALKLAND_ISLANDS",
+        "type": "colony",
+        "year": "1925",
+        "area": {
+          "value": 2580.0,
+          "unit": "square miles"
+        },
+        "description": "\nFALKLAND ISLANDS."
+      },
+      {
+        "id": "place_1925_FIJI_15",
+        "name": "FIJI",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "12° 30' S.",
+          "longitude": "177° 10' E."
+        },
+        "area": {
+          "value": 4053.0,
+          "unit": "square miles"
+        },
+        "description": "\nFIJI."
+      },
+      {
+        "id": "place_1925_GIBRALTAR_16",
+        "name": "GIBRALTAR",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "longitude": "3° 7' W."
+        },
+        "area": {
+          "value": 23490.0,
+          "unit": "square miles"
+        },
+        "description": "\nGIBRALTAR."
+      },
+      {
+        "id": "place_1925_GRENADA_17",
+        "name": "GRENADA",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "11° 58' N.",
+          "longitude": "61° 35' W."
+        },
+        "area": {
+          "value": 133.0,
+          "unit": "square miles"
+        },
+        "description": "Governor and Commander-in-Chief of the Windward Islands, Sir Frederick S."
+      },
+      {
+        "id": "place_1925_HONGKONG_18",
+        "name": "HONG_KONG",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "22° 17' N.",
+          "longitude": "114° 18' E."
+        },
+        "area": {
+          "value": 32.0,
+          "unit": "square miles"
+        },
+        "description": "(c)\nHONG KONG."
+      },
+      {
+        "id": "place_1925_MALTA_19",
+        "name": "MALTA",
+        "type": "colony",
+        "year": "1925",
+        "area": {
+          "value": 94.87,
+          "unit": "square miles"
+        },
+        "description": "Curator, Botanic Station, Thomas F."
+      },
+      {
+        "id": "place_1925_MAURITIUS_20",
+        "name": "MAURITIUS",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "longitude": "57° 48' E.",
+          "latitude": "20° 31' S."
+        },
+        "area": {
+          "value": 720.0,
+          "unit": "square miles"
+        },
+        "description": "\nMAURITIUS."
+      },
+      {
+        "id": "place_1925_NEWFOUNDLA_21",
+        "name": "NEWFOUNDLAND",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "51° 39' N.",
+          "longitude": "59° 25' W."
+        },
+        "area": {
+          "value": 42000.0,
+          "unit": "square miles"
+        },
+        "description": "Finland, Louis V."
+      },
+      {
+        "id": "place_1925_NIGERIA_22",
+        "name": "NIGERIA",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "7° 30' N."
+        },
+        "area": {
+          "value": 335700.0,
+          "unit": "square miles"
+        },
+        "description": "\nNIGERIA."
+      },
+      {
+        "id": "place_1925_NORTHERNRH_23",
+        "name": "NORTHERN_RHODESIA",
+        "type": "colony",
+        "year": "1925",
+        "area": {
+          "value": 291000.0,
+          "unit": "square miles"
+        },
+        "description": "\nNORTHERN RHODESIA."
+      },
+      {
+        "id": "place_1925_PALESTINE_24",
+        "name": "PALESTINE",
+        "type": "colony",
+        "year": "1925",
+        "area": {
+          "value": 9000.0,
+          "unit": "square miles"
+        },
+        "description": "\nPALESTINE."
+      },
+      {
+        "id": "place_1925_SEYCHELLES_25",
+        "name": "SEYCHELLES",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "4° 29' S."
+        },
+        "area": {
+          "value": 552.0,
+          "unit": "square miles"
+        },
+        "description": "Harbour Master and Postmaster, W."
+      },
+      {
+        "id": "place_1925_SIERRALEON_26",
+        "name": "SIERRA_LEONE",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "longitude": "13° 25' W.",
+          "latitude": "6° 55' N."
+        },
+        "area": {
+          "value": 27250.0,
+          "unit": "square miles"
+        },
+        "description": "Note."
+      },
+      {
+        "id": "place_1925_SOUTHERNRH_27",
+        "name": "SOUTHERN_RHODESIA",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "1° 17' n",
+          "longitude": "103° 50' e"
+        },
+        "area": {
+          "value": 217.0,
+          "unit": "square miles"
+        },
+        "description": "**Clerk**, R."
+      },
+      {
+        "id": "place_1925_SOUTHWESTA_28",
+        "name": "SOUTH_WEST_AFRICA",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "28° 57' s"
+        },
+        "area": {
+          "value": 322393.0,
+          "unit": "square miles"
+        },
+        "description": "\nSOUTH WEST AFRICA."
+      },
+      {
+        "id": "place_1925_STHELENA_29",
+        "name": "ST._HELENA",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "15° 55' S.",
+          "longitude": "5° 42' W."
+        },
+        "area": {
+          "value": 47.0,
+          "unit": "square miles"
+        },
+        "description": "\nST."
+      },
+      {
+        "id": "place_1925_STLUCIA_30",
+        "name": "ST._LUCIA",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "13° 50' N.",
+          "longitude": "60° 58' W."
+        },
+        "area": {
+          "value": 50.0,
+          "unit": "acres"
+        },
+        "description": "\nST."
+      },
+      {
+        "id": "place_1925_STVINCENT_31",
+        "name": "ST._VINCENT",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "13° 10' N.",
+          "longitude": "60° 57' W."
+        },
+        "area": {
+          "value": 96000.0,
+          "unit": "acres"
+        },
+        "description": "\nST."
+      },
+      {
+        "id": "place_1925_STRAITSSET_32",
+        "name": "STRAITS_SETTLEMENTS",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "5° 16' N.",
+          "longitude": "115° 15' E."
+        },
+        "area": {
+          "value": 25.0,
+          "unit": "square miles"
+        },
+        "description": "\nLABUAN."
+      },
+      {
+        "id": "place_1925_SWAZILAND_33",
+        "name": "SWAZILAND",
+        "type": "colony",
+        "year": "1925",
+        "area": {
+          "value": 6678.0,
+          "unit": "square miles"
+        },
+        "description": "\nSWAZILAND."
+      },
+      {
+        "id": "place_1925_THEGAMBIA_34",
+        "name": "THE_GAMBIA",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "13° 27' N.",
+          "longitude": "16° 34' W."
+        },
+        "area": {
+          "value": 69.0,
+          "unit": "square miles"
+        },
+        "description": "Wesleyan Methodist, Rev."
+      },
+      {
+        "id": "place_1925_TRINIDADAN_35",
+        "name": "TRINIDAD_AND_TOBAGO",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "10° 50' N.",
+          "longitude": "61° 56' W."
+        },
+        "area": {
+          "value": 1862.0,
+          "unit": "square miles"
+        },
+        "description": "TRINIDAD AND TOBAGO."
+      },
+      {
+        "id": "place_1925_TURKSANDCA_36",
+        "name": "TURKS_AND_CAICOS_ISLANDS",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "longitude": "72° 37' W.",
+          "latitude": "25° 6' N."
+        },
+        "area": {
+          "value": 166.0,
+          "unit": "square miles"
+        },
+        "description": "\nTURKS AND CAICOS ISLANDS."
+      },
+      {
+        "id": "place_1925_UGANDA_37",
+        "name": "UGANDA",
+        "type": "colony",
+        "year": "1925",
+        "area": {
+          "value": 110300.0,
+          "unit": "square miles"
+        },
+        "description": "\nUGANDA."
+      },
+      {
+        "id": "place_1925_WEIHAIWEI_38",
+        "name": "WEIHAIWEI",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "37° 30' N.",
+          "longitude": "122° 10' E."
+        },
+        "area": {
+          "value": 285.0,
+          "unit": "square miles"
+        },
+        "description": "\nWEIHAIWEI."
+      },
+      {
+        "id": "place_1925_ZANZIBAR_39",
+        "name": "ZANZIBAR",
+        "type": "colony",
+        "year": "1925",
+        "coordinates": {
+          "latitude": "0° 26' S.",
+          "longitude": "166° 56' E."
+        },
+        "area": {
+          "value": 640.0,
+          "unit": "square miles"
+        },
+        "description": "Italy, J."
+      }
+    ],
+    "people": [
+      {
+        "id": "person_1925_CBruce_1",
+        "name": "C. Bruce",
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "MAURITIUS",
+            "year": "1925",
+            "appointment_date": "11 May 1897"
+          }
+        ],
+        "year": "1925"
+      },
+      {
+        "id": "person_1925_CavendishB_2",
+        "name": "Cavendish Boyle",
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "MAURITIUS",
+            "year": "1925",
+            "appointment_date": "20 Aug. 1904"
+          }
+        ],
+        "year": "1925"
+      },
+      {
+        "id": "person_1925_JBChancell_3",
+        "name": "J. B. Chancellor",
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "MAURITIUS",
+            "year": "1925",
+            "appointment_date": "13 Nov. 1911"
+          }
+        ],
+        "year": "1925"
+      },
+      {
+        "id": "person_1925_HezekiahBe_4",
+        "name": "Hezekiah Bell",
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "MAURITIUS",
+            "year": "1925",
+            "appointment_date": "18 May 1916"
+          }
+        ],
+        "year": "1925"
+      }
+    ],
+    "institutions": [
+      {
+        "id": "institution_1925_BRITISHGUI_1",
+        "name": "Executive Council of BRITISH_GUIANA",
+        "type": "executive_council",
+        "location": "BRITISH_GUIANA",
+        "composition": {
+          "description": "—\nR"
+        },
+        "year": "1925"
+      },
+      {
+        "id": "institution_1925_FIJIexecut_2",
+        "name": "Executive Council of FIJI",
+        "type": "executive_council",
+        "location": "FIJI",
+        "composition": {
+          "description": "T"
+        },
+        "year": "1925"
+      },
+      {
+        "id": "institution_1925_FIJIlegisl_3",
+        "name": "Legislative Council of FIJI",
+        "type": "legislative_council",
+        "location": "FIJI",
+        "composition": {
+          "description": "T"
+        },
+        "year": "1925"
+      },
+      {
+        "id": "institution_1925_MAURITIUSe_4",
+        "name": "Executive Council of MAURITIUS",
+        "type": "executive_council",
+        "location": "MAURITIUS",
+        "composition": {
+          "description": "five members are nominated by the Primary and Secondary Grant-in-aid Schools and four are chosen by the Governor, with the Superintendent of Schools as Chairman"
+        },
+        "year": "1925"
+      },
+      {
+        "id": "institution_1925_MAURITIUSl_5",
+        "name": "Legislative Council of MAURITIUS",
+        "type": "legislative_council",
+        "location": "MAURITIUS",
+        "composition": {
+          "description": "five members are nominated by the Primary and Secondary Grant-in-aid Schools and four are chosen by the Governor, with the Superintendent of Schools as Chairman"
+        },
+        "year": "1925"
+      },
+      {
+        "id": "institution_1925_NEWFOUNDLA_6",
+        "name": "Executive Council of NEWFOUNDLAND",
+        "type": "executive_council",
+        "location": "NEWFOUNDLAND",
+        "composition": {
+          "description": "—\n\nHis Excellency the Governor-General"
+        },
+        "year": "1925"
+      },
+      {
+        "id": "institution_1925_NEWFOUNDLA_7",
+        "name": "Legislative Council of NEWFOUNDLAND",
+        "type": "legislative_council",
+        "location": "NEWFOUNDLAND",
+        "composition": {
+          "description": "—\n\nHis Excellency the Governor-General"
+        },
+        "year": "1925"
+      },
+      {
+        "id": "institution_1925_NIGERIAexe_8",
+        "name": "Executive Council of NIGERIA",
+        "type": "executive_council",
+        "location": "NIGERIA",
+        "composition": {
+          "description": "The Governor, as President"
+        },
+        "year": "1925"
+      },
+      {
+        "id": "institution_1925_NIGERIAleg_9",
+        "name": "Legislative Council of NIGERIA",
+        "type": "legislative_council",
+        "location": "NIGERIA",
+        "composition": {
+          "description": "The Governor, as President"
+        },
+        "year": "1925"
+      },
+      {
+        "id": "institution_1925_SIERRALEON_10",
+        "name": "Executive Council of SIERRA_LEONE",
+        "type": "executive_council",
+        "location": "SIERRA_LEONE",
+        "composition": {
+          "description": "—\n(i) The South African Staff Corps"
+        },
+        "year": "1925"
+      },
+      {
+        "id": "institution_1925_SIERRALEON_11",
+        "name": "Legislative Council of SIERRA_LEONE",
+        "type": "legislative_council",
+        "location": "SIERRA_LEONE",
+        "composition": {
+          "description": "—\n(i) The South African Staff Corps"
+        },
+        "year": "1925"
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "economic_1925_AUSTRALIAt_1",
+        "type": "trade_import",
+        "location": "AUSTRALIA",
+        "year": "1925",
+        "data": {
+          "value": 20.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_AUSTRALIAt_2",
+        "type": "trade_import",
+        "location": "AUSTRALIA",
+        "year": "1925",
+        "data": {
+          "value": 1915.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_AUSTRALIAt_3",
+        "type": "trade_import",
+        "location": "AUSTRALIA",
+        "year": "1925",
+        "data": {
+          "value": 1922.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_AUSTRALIAt_4",
+        "type": "trade_import",
+        "location": "AUSTRALIA",
+        "year": "1925",
+        "data": {
+          "value": 1922.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_AUSTRALIAt_5",
+        "type": "trade_import",
+        "location": "AUSTRALIA",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_BAHAMAStra_6",
+        "type": "trade_import",
+        "location": "BAHAMAS",
+        "year": "1925",
+        "data": {
+          "value": 1703.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_BAHAMAStra_7",
+        "type": "trade_import",
+        "location": "BAHAMAS",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_BAHAMAStra_8",
+        "type": "trade_import",
+        "location": "BAHAMAS",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_BAHAMAStra_9",
+        "type": "trade_import",
+        "location": "BAHAMAS",
+        "year": "1925",
+        "data": {
+          "value": 476.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_BAHAMAStra_10",
+        "type": "trade_import",
+        "location": "BAHAMAS",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_BERMUDAtra_11",
+        "type": "trade_import",
+        "location": "BERMUDA",
+        "year": "1925",
+        "data": {
+          "value": 1915.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_BERMUDAtra_12",
+        "type": "trade_import",
+        "location": "BERMUDA",
+        "year": "1925",
+        "data": {
+          "value": 33.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_BERMUDAtra_13",
+        "type": "trade_import",
+        "location": "BERMUDA",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_BERMUDAtra_14",
+        "type": "trade_import",
+        "location": "BERMUDA",
+        "year": "1925",
+        "data": {
+          "value": 83167.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_BRITISHHON_15",
+        "type": "trade_import",
+        "location": "BRITISH_HONDURAS",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_BRITISHHON_16",
+        "type": "trade_import",
+        "location": "BRITISH_HONDURAS",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_BRITISHHON_17",
+        "type": "trade_import",
+        "location": "BRITISH_HONDURAS",
+        "year": "1925",
+        "data": {
+          "value": 2206009.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_BRITISHHON_18",
+        "type": "trade_import",
+        "location": "BRITISH_HONDURAS",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_BRITISHHON_19",
+        "type": "trade_import",
+        "location": "BRITISH_HONDURAS",
+        "year": "1925",
+        "data": {
+          "value": 160.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_CAPEOFGOOD_20",
+        "type": "trade_import",
+        "location": "CAPE_OF_GOOD_HOPE",
+        "year": "1925",
+        "data": {
+          "value": 1809.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_CAPEOFGOOD_21",
+        "type": "trade_import",
+        "location": "CAPE_OF_GOOD_HOPE",
+        "year": "1925",
+        "data": {
+          "value": 10.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_CEYLONtrad_22",
+        "type": "trade_import",
+        "location": "CEYLON",
+        "year": "1925",
+        "data": {
+          "value": 213000.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_CEYLONtrad_23",
+        "type": "trade_import",
+        "location": "CEYLON",
+        "year": "1925",
+        "data": {
+          "value": 3.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_CEYLONtrad_24",
+        "type": "trade_import",
+        "location": "CEYLON",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_CEYLONtrad_25",
+        "type": "trade_import",
+        "location": "CEYLON",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_CEYLONtrad_26",
+        "type": "trade_import",
+        "location": "CEYLON",
+        "year": "1925",
+        "data": {
+          "value": 163705410.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_CYPRUStrad_27",
+        "type": "trade_import",
+        "location": "CYPRUS",
+        "year": "1925",
+        "data": {
+          "value": 6.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_DOMINICAtr_28",
+        "type": "trade_import",
+        "location": "DOMINICA",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_FALKLANDIS_29",
+        "type": "trade_import",
+        "location": "FALKLAND_ISLANDS",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_FIJItrade0_30",
+        "type": "trade_import",
+        "location": "FIJI",
+        "year": "1925",
+        "data": {
+          "value": 2.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_FIJItrade1_31",
+        "type": "trade_import",
+        "location": "FIJI",
+        "year": "1925",
+        "data": {
+          "value": 1882.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_FIJItrade2_32",
+        "type": "trade_import",
+        "location": "FIJI",
+        "year": "1925",
+        "data": {
+          "value": 101.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_FIJItrade3_33",
+        "type": "trade_import",
+        "location": "FIJI",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_FIJItrade4_34",
+        "type": "trade_import",
+        "location": "FIJI",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_GIBRALTARt_35",
+        "type": "trade_import",
+        "location": "GIBRALTAR",
+        "year": "1925",
+        "data": {
+          "value": 1891.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_GIBRALTARt_36",
+        "type": "trade_import",
+        "location": "GIBRALTAR",
+        "year": "1925",
+        "data": {
+          "value": 27280.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_GIBRALTARt_37",
+        "type": "trade_import",
+        "location": "GIBRALTAR",
+        "year": "1925",
+        "data": {
+          "value": 1920.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_GIBRALTARt_38",
+        "type": "trade_import",
+        "location": "GIBRALTAR",
+        "year": "1925",
+        "data": {
+          "value": 8422.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_GIBRALTARt_39",
+        "type": "trade_import",
+        "location": "GIBRALTAR",
+        "year": "1925",
+        "data": {
+          "value": 1874.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_GRENADAtra_40",
+        "type": "trade_import",
+        "location": "GRENADA",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_GRENADAtra_41",
+        "type": "trade_import",
+        "location": "GRENADA",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_GRENADAtra_42",
+        "type": "trade_import",
+        "location": "GRENADA",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_HONGKONGtr_43",
+        "type": "trade_import",
+        "location": "HONG_KONG",
+        "year": "1925",
+        "data": {
+          "value": 18.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_HONGKONGtr_44",
+        "type": "trade_import",
+        "location": "HONG_KONG",
+        "year": "1925",
+        "data": {
+          "value": 1833.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_HONGKONGtr_45",
+        "type": "trade_import",
+        "location": "HONG_KONG",
+        "year": "1925",
+        "data": {
+          "value": 1921.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_MAURITIUSt_46",
+        "type": "trade_import",
+        "location": "MAURITIUS",
+        "year": "1925",
+        "data": {
+          "value": 35.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_MAURITIUSt_47",
+        "type": "trade_import",
+        "location": "MAURITIUS",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_MAURITIUSt_48",
+        "type": "trade_import",
+        "location": "MAURITIUS",
+        "year": "1925",
+        "data": {
+          "value": 223051061.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_MAURITIUSt_49",
+        "type": "trade_import",
+        "location": "MAURITIUS",
+        "year": "1925",
+        "data": {
+          "value": 20168.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_MAURITIUSt_50",
+        "type": "trade_import",
+        "location": "MAURITIUS",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NEWFOUNDLA_51",
+        "type": "revenue",
+        "location": "NEWFOUNDLAND",
+        "year": "1925",
+        "data": {
+          "category": "Revenue 1923-192",
+          "value": 4.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NEWFOUNDLA_52",
+        "type": "trade_import",
+        "location": "NEWFOUNDLAND",
+        "year": "1925",
+        "data": {
+          "value": 1592046.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NEWFOUNDLA_53",
+        "type": "trade_import",
+        "location": "NEWFOUNDLAND",
+        "year": "1925",
+        "data": {
+          "value": 1920.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NEWFOUNDLA_54",
+        "type": "trade_import",
+        "location": "NEWFOUNDLAND",
+        "year": "1925",
+        "data": {
+          "value": 31.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NEWFOUNDLA_55",
+        "type": "trade_import",
+        "location": "NEWFOUNDLAND",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NEWFOUNDLA_56",
+        "type": "trade_import",
+        "location": "NEWFOUNDLAND",
+        "year": "1925",
+        "data": {
+          "value": 15244.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NIGERIAtra_57",
+        "type": "trade_import",
+        "location": "NIGERIA",
+        "year": "1925",
+        "data": {
+          "value": 5.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NIGERIAtra_58",
+        "type": "trade_import",
+        "location": "NIGERIA",
+        "year": "1925",
+        "data": {
+          "value": 8.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NIGERIAtra_59",
+        "type": "trade_import",
+        "location": "NIGERIA",
+        "year": "1925",
+        "data": {
+          "value": 11.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NIGERIAtra_60",
+        "type": "trade_import",
+        "location": "NIGERIA",
+        "year": "1925",
+        "data": {
+          "value": 7181.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NIGERIAtra_61",
+        "type": "trade_import",
+        "location": "NIGERIA",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NORTHERNRH_62",
+        "type": "trade_import",
+        "location": "NORTHERN_RHODESIA",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NORTHERNRH_63",
+        "type": "trade_import",
+        "location": "NORTHERN_RHODESIA",
+        "year": "1925",
+        "data": {
+          "value": 3462478.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NORTHERNRH_64",
+        "type": "trade_import",
+        "location": "NORTHERN_RHODESIA",
+        "year": "1925",
+        "data": {
+          "value": 31.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NORTHERNRH_65",
+        "type": "trade_import",
+        "location": "NORTHERN_RHODESIA",
+        "year": "1925",
+        "data": {
+          "value": 1916.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_NORTHERNRH_66",
+        "type": "trade_import",
+        "location": "NORTHERN_RHODESIA",
+        "year": "1925",
+        "data": {
+          "value": 98.8,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_PALESTINEt_67",
+        "type": "trade_import",
+        "location": "PALESTINE",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_PALESTINEt_68",
+        "type": "trade_import",
+        "location": "PALESTINE",
+        "year": "1925",
+        "data": {
+          "value": 1914.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_SEYCHELLES_69",
+        "type": "trade_import",
+        "location": "SEYCHELLES",
+        "year": "1925",
+        "data": {
+          "value": 1.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_SEYCHELLES_70",
+        "type": "trade_import",
+        "location": "SEYCHELLES",
+        "year": "1925",
+        "data": {
+          "value": 2.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_SEYCHELLES_71",
+        "type": "trade_import",
+        "location": "SEYCHELLES",
+        "year": "1925",
+        "data": {
+          "value": 10.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_SEYCHELLES_72",
+        "type": "trade_import",
+        "location": "SEYCHELLES",
+        "year": "1925",
+        "data": {
+          "value": 2.5,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_SIERRALEON_73",
+        "type": "trade_import",
+        "location": "SIERRA_LEONE",
+        "year": "1925",
+        "data": {
+          "value": 376.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_SIERRALEON_74",
+        "type": "trade_import",
+        "location": "SIERRA_LEONE",
+        "year": "1925",
+        "data": {
+          "value": 1911.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_SOUTHERNRH_75",
+        "type": "trade_import",
+        "location": "SOUTHERN_RHODESIA",
+        "year": "1925",
+        "data": {
+          "value": 31.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_SOUTHERNRH_76",
+        "type": "trade_import",
+        "location": "SOUTHERN_RHODESIA",
+        "year": "1925",
+        "data": {
+          "value": 13.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_SOUTHERNRH_77",
+        "type": "trade_import",
+        "location": "SOUTHERN_RHODESIA",
+        "year": "1925",
+        "data": {
+          "value": 2000.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_SOUTHERNRH_78",
+        "type": "trade_import",
+        "location": "SOUTHERN_RHODESIA",
+        "year": "1925",
+        "data": {
+          "value": 80000.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_SOUTHERNRH_79",
+        "type": "trade_import",
+        "location": "SOUTHERN_RHODESIA",
+        "year": "1925",
+        "data": {
+          "value": 1902.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_SOUTHWESTA_80",
+        "type": "trade_import",
+        "location": "SOUTH_WEST_AFRICA",
+        "year": "1925",
+        "data": {
+          "value": 1921.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_STVINCENTt_81",
+        "type": "trade_import",
+        "location": "ST._VINCENT",
+        "year": "1925",
+        "data": {
+          "value": 63625.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_STRAITSSET_82",
+        "type": "trade_import",
+        "location": "STRAITS_SETTLEMENTS",
+        "year": "1925",
+        "data": {
+          "value": 74102.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_STRAITSSET_83",
+        "type": "trade_import",
+        "location": "STRAITS_SETTLEMENTS",
+        "year": "1925",
+        "data": {
+          "value": 45113736.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_STRAITSSET_84",
+        "type": "trade_import",
+        "location": "STRAITS_SETTLEMENTS",
+        "year": "1925",
+        "data": {
+          "value": 74283350.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_STRAITSSET_85",
+        "type": "trade_import",
+        "location": "STRAITS_SETTLEMENTS",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_STRAITSSET_86",
+        "type": "trade_import",
+        "location": "STRAITS_SETTLEMENTS",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_SWAZILANDt_87",
+        "type": "trade_import",
+        "location": "SWAZILAND",
+        "year": "1925",
+        "data": {
+          "value": 170.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_SWAZILANDt_88",
+        "type": "trade_import",
+        "location": "SWAZILAND",
+        "year": "1925",
+        "data": {
+          "value": 60.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_TRINIDADAN_89",
+        "type": "trade_import",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_TRINIDADAN_90",
+        "type": "trade_import",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "year": "1925",
+        "data": {
+          "value": 85136457.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_TRINIDADAN_91",
+        "type": "trade_import",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "year": "1925",
+        "data": {
+          "value": 1922.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_TRINIDADAN_92",
+        "type": "trade_import",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_TRINIDADAN_93",
+        "type": "trade_import",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "year": "1925",
+        "data": {
+          "value": 31.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_TURKSANDCA_94",
+        "type": "trade_import",
+        "location": "TURKS_AND_CAICOS_ISLANDS",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_TURKSANDCA_95",
+        "type": "trade_import",
+        "location": "TURKS_AND_CAICOS_ISLANDS",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_TURKSANDCA_96",
+        "type": "trade_import",
+        "location": "TURKS_AND_CAICOS_ISLANDS",
+        "year": "1925",
+        "data": {
+          "value": 4474.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_TURKSANDCA_97",
+        "type": "trade_import",
+        "location": "TURKS_AND_CAICOS_ISLANDS",
+        "year": "1925",
+        "data": {
+          "value": 2373.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_TURKSANDCA_98",
+        "type": "trade_import",
+        "location": "TURKS_AND_CAICOS_ISLANDS",
+        "year": "1925",
+        "data": {
+          "value": 10.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_UGANDAtrad_99",
+        "type": "trade_import",
+        "location": "UGANDA",
+        "year": "1925",
+        "data": {
+          "value": 1923.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_WEIHAIWEIt_100",
+        "type": "trade_import",
+        "location": "WEIHAIWEI",
+        "year": "1925",
+        "data": {
+          "value": 1000.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_ZANZIBARtr_101",
+        "type": "trade_import",
+        "location": "ZANZIBAR",
+        "year": "1925",
+        "data": {
+          "value": 1918.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_ZANZIBARtr_102",
+        "type": "trade_import",
+        "location": "ZANZIBAR",
+        "year": "1925",
+        "data": {
+          "value": 1922.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_ZANZIBARtr_103",
+        "type": "trade_import",
+        "location": "ZANZIBAR",
+        "year": "1925",
+        "data": {
+          "value": 49449.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_ZANZIBARtr_104",
+        "type": "trade_import",
+        "location": "ZANZIBAR",
+        "year": "1925",
+        "data": {
+          "value": 1922.0,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "economic_1925_ZANZIBARtr_105",
+        "type": "trade_import",
+        "location": "ZANZIBAR",
+        "year": "1925",
+        "data": {
+          "value": 1922.0,
+          "currency": "Rs."
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infrastructure_1925_AUSTRALIAr_1",
+        "type": "railway",
+        "location": "AUSTRALIA",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 683.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_AUSTRALIAr_2",
+        "type": "railway",
+        "location": "AUSTRALIA",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 15.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_AUSTRALIAr_3",
+        "type": "railway",
+        "location": "AUSTRALIA",
+        "name": "Railway Line 3",
+        "specifications": {
+          "length": {
+            "value": 400.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_AUSTRALIAr_4",
+        "type": "railway",
+        "location": "AUSTRALIA",
+        "name": "Railway Line 4",
+        "specifications": {
+          "length": {
+            "value": 21.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_AUSTRALIAr_5",
+        "type": "railway",
+        "location": "AUSTRALIA",
+        "name": "Railway Line 5",
+        "specifications": {
+          "length": {
+            "value": 623.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_AUSTRALIAr_6",
+        "type": "railway",
+        "location": "AUSTRALIA",
+        "name": "Railway Line 6",
+        "specifications": {
+          "length": {
+            "value": 69.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_AUSTRALIAr_7",
+        "type": "railway",
+        "location": "AUSTRALIA",
+        "name": "Railway Line 7",
+        "specifications": {
+          "length": {
+            "value": 23.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_AUSTRALIAr_8",
+        "type": "railway",
+        "location": "AUSTRALIA",
+        "name": "Railway Line 8",
+        "specifications": {
+          "length": {
+            "value": 582.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_AUSTRALIAr_9",
+        "type": "railway",
+        "location": "AUSTRALIA",
+        "name": "Railway Line 9",
+        "specifications": {
+          "length": {
+            "value": 132.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_AUSTRALIAr_10",
+        "type": "railway",
+        "location": "AUSTRALIA",
+        "name": "Railway Line 10",
+        "specifications": {
+          "length": {
+            "value": 103.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_BAHAMASrai_35",
+        "type": "railway",
+        "location": "BAHAMAS",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 494.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_BAHAMAStel_36",
+        "type": "telegraph",
+        "location": "BAHAMAS",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 21.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_BERMUDArai_37",
+        "type": "railway",
+        "location": "BERMUDA",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 554.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_BERMUDArai_38",
+        "type": "railway",
+        "location": "BERMUDA",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 234.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_BERMUDAtel_39",
+        "type": "telegraph",
+        "location": "BERMUDA",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 105.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_BERMUDAdoc_40",
+        "type": "dock",
+        "location": "BERMUDA",
+        "name": "Main Dock/Harbor",
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_BRITISHHON_41",
+        "type": "railway",
+        "location": "BRITISH_HONDURAS",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 25.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_BRITISHHON_42",
+        "type": "railway",
+        "location": "BRITISH_HONDURAS",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 0.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_BRITISHHON_43",
+        "type": "railway",
+        "location": "BRITISH_HONDURAS",
+        "name": "Railway Line 3",
+        "specifications": {
+          "length": {
+            "value": 14.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_BRITISHHON_44",
+        "type": "telegraph",
+        "location": "BRITISH_HONDURAS",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 25.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_BRITISHHON_45",
+        "type": "dock",
+        "location": "BRITISH_HONDURAS",
+        "name": "Main Dock/Harbor",
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_CAPEOFGOOD_46",
+        "type": "telegraph",
+        "location": "CAPE_OF_GOOD_HOPE",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 800.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_CEYLONrail_47",
+        "type": "railway",
+        "location": "CEYLON",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 250.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_CEYLONrail_48",
+        "type": "railway",
+        "location": "CEYLON",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 495.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_CEYLONtele_49",
+        "type": "telegraph",
+        "location": "CEYLON",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 385.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_CEYLONdock_50",
+        "type": "dock",
+        "location": "CEYLON",
+        "name": "Main Dock/Harbor",
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_FIJIrailwa_51",
+        "type": "railway",
+        "location": "FIJI",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 15.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_FIJIrailwa_52",
+        "type": "railway",
+        "location": "FIJI",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 125.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_FIJIrailwa_53",
+        "type": "railway",
+        "location": "FIJI",
+        "name": "Railway Line 3",
+        "specifications": {
+          "length": {
+            "value": 54.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_FIJItelegr_54",
+        "type": "telegraph",
+        "location": "FIJI",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 54.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_GIBRALTARr_55",
+        "type": "railway",
+        "location": "GIBRALTAR",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 167.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_GIBRALTARr_56",
+        "type": "railway",
+        "location": "GIBRALTAR",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 120.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_GIBRALTARr_57",
+        "type": "railway",
+        "location": "GIBRALTAR",
+        "name": "Railway Line 3",
+        "specifications": {
+          "length": {
+            "value": 50.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_GIBRALTARr_58",
+        "type": "railway",
+        "location": "GIBRALTAR",
+        "name": "Railway Line 4",
+        "specifications": {
+          "length": {
+            "value": 33.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_GIBRALTARt_59",
+        "type": "telegraph",
+        "location": "GIBRALTAR",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 167.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_GIBRALTARd_60",
+        "type": "dock",
+        "location": "GIBRALTAR",
+        "name": "Main Dock/Harbor",
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_HONGKONGra_61",
+        "type": "railway",
+        "location": "HONG_KONG",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 58.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_HONGKONGra_62",
+        "type": "railway",
+        "location": "HONG_KONG",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 978.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_HONGKONGra_63",
+        "type": "railway",
+        "location": "HONG_KONG",
+        "name": "Railway Line 3",
+        "specifications": {
+          "length": {
+            "value": 200.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_HONGKONGte_64",
+        "type": "telegraph",
+        "location": "HONG_KONG",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 58.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_HONGKONGdo_65",
+        "type": "dock",
+        "location": "HONG_KONG",
+        "name": "Main Dock/Harbor",
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_MAURITIUSr_66",
+        "type": "railway",
+        "location": "MAURITIUS",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 31.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_MAURITIUSr_67",
+        "type": "railway",
+        "location": "MAURITIUS",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 34.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_MAURITIUSr_68",
+        "type": "railway",
+        "location": "MAURITIUS",
+        "name": "Railway Line 3",
+        "specifications": {
+          "length": {
+            "value": 3.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_MAURITIUSr_69",
+        "type": "railway",
+        "location": "MAURITIUS",
+        "name": "Railway Line 4",
+        "specifications": {
+          "length": {
+            "value": 2.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_MAURITIUSr_70",
+        "type": "railway",
+        "location": "MAURITIUS",
+        "name": "Railway Line 5",
+        "specifications": {
+          "length": {
+            "value": 90.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_MAURITIUSr_71",
+        "type": "railway",
+        "location": "MAURITIUS",
+        "name": "Railway Line 6",
+        "specifications": {
+          "length": {
+            "value": 75.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_MAURITIUSr_72",
+        "type": "railway",
+        "location": "MAURITIUS",
+        "name": "Railway Line 7",
+        "specifications": {
+          "length": {
+            "value": 18.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_MAURITIUSt_73",
+        "type": "telegraph",
+        "location": "MAURITIUS",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 100.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_MAURITIUSd_74",
+        "type": "dock",
+        "location": "MAURITIUS",
+        "name": "Main Dock/Harbor",
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NEWFOUNDLA_75",
+        "type": "railway",
+        "location": "NEWFOUNDLAND",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 27.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NEWFOUNDLA_76",
+        "type": "railway",
+        "location": "NEWFOUNDLAND",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 200.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NEWFOUNDLA_77",
+        "type": "railway",
+        "location": "NEWFOUNDLAND",
+        "name": "Railway Line 3",
+        "specifications": {
+          "length": {
+            "value": 285.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NEWFOUNDLA_78",
+        "type": "railway",
+        "location": "NEWFOUNDLAND",
+        "name": "Railway Line 4",
+        "specifications": {
+          "length": {
+            "value": 638.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NEWFOUNDLA_79",
+        "type": "railway",
+        "location": "NEWFOUNDLAND",
+        "name": "Railway Line 5",
+        "specifications": {
+          "length": {
+            "value": 100.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NEWFOUNDLA_80",
+        "type": "railway",
+        "location": "NEWFOUNDLAND",
+        "name": "Railway Line 6",
+        "specifications": {
+          "length": {
+            "value": 63.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NEWFOUNDLA_81",
+        "type": "railway",
+        "location": "NEWFOUNDLAND",
+        "name": "Railway Line 7",
+        "specifications": {
+          "length": {
+            "value": 638.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NEWFOUNDLA_82",
+        "type": "railway",
+        "location": "NEWFOUNDLAND",
+        "name": "Railway Line 8",
+        "specifications": {
+          "length": {
+            "value": 740.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NEWFOUNDLA_83",
+        "type": "railway",
+        "location": "NEWFOUNDLAND",
+        "name": "Railway Line 9",
+        "specifications": {
+          "length": {
+            "value": 560.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NEWFOUNDLA_84",
+        "type": "telegraph",
+        "location": "NEWFOUNDLAND",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 965.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NIGERIArai_86",
+        "type": "railway",
+        "location": "NIGERIA",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 400.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NIGERIArai_87",
+        "type": "railway",
+        "location": "NIGERIA",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 706.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NIGERIArai_88",
+        "type": "railway",
+        "location": "NIGERIA",
+        "name": "Railway Line 3",
+        "specifications": {
+          "length": {
+            "value": 151.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NIGERIAtel_89",
+        "type": "telegraph",
+        "location": "NIGERIA",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 0.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NORTHERNRH_90",
+        "type": "railway",
+        "location": "NORTHERN_RHODESIA",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 374.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NORTHERNRH_91",
+        "type": "railway",
+        "location": "NORTHERN_RHODESIA",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 869.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_NORTHERNRH_92",
+        "type": "telegraph",
+        "location": "NORTHERN_RHODESIA",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 227.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_PALESTINEr_93",
+        "type": "railway",
+        "location": "PALESTINE",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 100.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_PALESTINEr_94",
+        "type": "railway",
+        "location": "PALESTINE",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 2.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_PALESTINEr_95",
+        "type": "railway",
+        "location": "PALESTINE",
+        "name": "Railway Line 3",
+        "specifications": {
+          "length": {
+            "value": 500.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_PALESTINEt_96",
+        "type": "telegraph",
+        "location": "PALESTINE",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 500.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_SEYCHELLES_97",
+        "type": "telegraph",
+        "location": "SEYCHELLES",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 9.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_SIERRALEON_98",
+        "type": "railway",
+        "location": "SIERRA_LEONE",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 25.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_SIERRALEON_99",
+        "type": "railway",
+        "location": "SIERRA_LEONE",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 104.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_SIERRALEON_100",
+        "type": "railway",
+        "location": "SIERRA_LEONE",
+        "name": "Railway Line 3",
+        "specifications": {
+          "length": {
+            "value": 146.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_SIERRALEON_101",
+        "type": "railway",
+        "location": "SIERRA_LEONE",
+        "name": "Railway Line 4",
+        "specifications": {
+          "length": {
+            "value": 0.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_SIERRALEON_102",
+        "type": "telegraph",
+        "location": "SIERRA_LEONE",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 104.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_SIERRALEON_103",
+        "type": "dock",
+        "location": "SIERRA_LEONE",
+        "name": "Main Dock/Harbor",
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_SOUTHERNRH_104",
+        "type": "railway",
+        "location": "SOUTHERN_RHODESIA",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 301.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_SOUTHERNRH_105",
+        "type": "railway",
+        "location": "SOUTHERN_RHODESIA",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 149.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_SOUTHERNRH_106",
+        "type": "railway",
+        "location": "SOUTHERN_RHODESIA",
+        "name": "Railway Line 3",
+        "specifications": {
+          "length": {
+            "value": 175.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_SOUTHERNRH_107",
+        "type": "railway",
+        "location": "SOUTHERN_RHODESIA",
+        "name": "Railway Line 4",
+        "specifications": {
+          "length": {
+            "value": 27.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_SOUTHERNRH_108",
+        "type": "railway",
+        "location": "SOUTHERN_RHODESIA",
+        "name": "Railway Line 5",
+        "specifications": {
+          "length": {
+            "value": 45.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_SOUTHERNRH_109",
+        "type": "telegraph",
+        "location": "SOUTHERN_RHODESIA",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 12.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_SOUTHWESTA_110",
+        "type": "railway",
+        "location": "SOUTH_WEST_AFRICA",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 623.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_STRAITSSET_111",
+        "type": "railway",
+        "location": "STRAITS_SETTLEMENTS",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 188.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_STRAITSSET_112",
+        "type": "railway",
+        "location": "STRAITS_SETTLEMENTS",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 7.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_STRAITSSET_113",
+        "type": "railway",
+        "location": "STRAITS_SETTLEMENTS",
+        "name": "Railway Line 3",
+        "specifications": {
+          "length": {
+            "value": 954.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_STRAITSSET_114",
+        "type": "railway",
+        "location": "STRAITS_SETTLEMENTS",
+        "name": "Railway Line 4",
+        "specifications": {
+          "length": {
+            "value": 44.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_STRAITSSET_115",
+        "type": "railway",
+        "location": "STRAITS_SETTLEMENTS",
+        "name": "Railway Line 5",
+        "specifications": {
+          "length": {
+            "value": 285.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_STRAITSSET_116",
+        "type": "railway",
+        "location": "STRAITS_SETTLEMENTS",
+        "name": "Railway Line 6",
+        "specifications": {
+          "length": {
+            "value": 109.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_STRAITSSET_117",
+        "type": "railway",
+        "location": "STRAITS_SETTLEMENTS",
+        "name": "Railway Line 7",
+        "specifications": {
+          "length": {
+            "value": 129.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_STRAITSSET_118",
+        "type": "railway",
+        "location": "STRAITS_SETTLEMENTS",
+        "name": "Railway Line 8",
+        "specifications": {
+          "length": {
+            "value": 65.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_STRAITSSET_119",
+        "type": "railway",
+        "location": "STRAITS_SETTLEMENTS",
+        "name": "Railway Line 9",
+        "specifications": {
+          "length": {
+            "value": 48.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_STRAITSSET_120",
+        "type": "railway",
+        "location": "STRAITS_SETTLEMENTS",
+        "name": "Railway Line 10",
+        "specifications": {
+          "length": {
+            "value": 150.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_THEGAMBIAr_125",
+        "type": "railway",
+        "location": "THE_GAMBIA",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 110.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_THEGAMBIAt_126",
+        "type": "telegraph",
+        "location": "THE_GAMBIA",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 300.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_TRINIDADAN_127",
+        "type": "railway",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 16.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_TRINIDADAN_128",
+        "type": "railway",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 51.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_TRINIDADAN_129",
+        "type": "railway",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "name": "Railway Line 3",
+        "specifications": {
+          "length": {
+            "value": 43.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_TRINIDADAN_130",
+        "type": "railway",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "name": "Railway Line 4",
+        "specifications": {
+          "length": {
+            "value": 43.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_TRINIDADAN_131",
+        "type": "railway",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "name": "Railway Line 5",
+        "specifications": {
+          "length": {
+            "value": 123.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_TRINIDADAN_132",
+        "type": "railway",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "name": "Railway Line 6",
+        "specifications": {
+          "length": {
+            "value": 127.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_TRINIDADAN_133",
+        "type": "railway",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "name": "Railway Line 7",
+        "specifications": {
+          "length": {
+            "value": 127.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_TRINIDADAN_134",
+        "type": "railway",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "name": "Railway Line 8",
+        "specifications": {
+          "length": {
+            "value": 26.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_TRINIDADAN_135",
+        "type": "telegraph",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 127.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_TRINIDADAN_136",
+        "type": "dock",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "name": "Main Dock/Harbor",
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_TURKSANDCA_137",
+        "type": "railway",
+        "location": "TURKS_AND_CAICOS_ISLANDS",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 25.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_TURKSANDCA_138",
+        "type": "railway",
+        "location": "TURKS_AND_CAICOS_ISLANDS",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 651.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_TURKSANDCA_139",
+        "type": "railway",
+        "location": "TURKS_AND_CAICOS_ISLANDS",
+        "name": "Railway Line 3",
+        "specifications": {
+          "length": {
+            "value": 23.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_TURKSANDCA_140",
+        "type": "telegraph",
+        "location": "TURKS_AND_CAICOS_ISLANDS",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 500.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_UGANDArail_141",
+        "type": "railway",
+        "location": "UGANDA",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 584.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_UGANDArail_142",
+        "type": "railway",
+        "location": "UGANDA",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 62.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_UGANDAtele_143",
+        "type": "telegraph",
+        "location": "UGANDA",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 62.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_WEIHAIWEIr_144",
+        "type": "railway",
+        "location": "WEIHAIWEI",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 164.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_ZANZIBARra_145",
+        "type": "railway",
+        "location": "ZANZIBAR",
+        "name": "Railway Line 1",
+        "specifications": {
+          "length": {
+            "value": 40.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_ZANZIBARra_146",
+        "type": "railway",
+        "location": "ZANZIBAR",
+        "name": "Railway Line 2",
+        "specifications": {
+          "length": {
+            "value": 0.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_ZANZIBARra_147",
+        "type": "railway",
+        "location": "ZANZIBAR",
+        "name": "Railway Line 3",
+        "specifications": {
+          "length": {
+            "value": 120.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_ZANZIBARra_148",
+        "type": "railway",
+        "location": "ZANZIBAR",
+        "name": "Railway Line 4",
+        "specifications": {
+          "length": {
+            "value": 10.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      },
+      {
+        "id": "infrastructure_1925_ZANZIBARte_149",
+        "type": "telegraph",
+        "location": "ZANZIBAR",
+        "name": "Telegraph System",
+        "specifications": {
+          "length": {
+            "value": 10.0,
+            "unit": "miles"
+          }
+        },
+        "year": "1925"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demographic_1925_AUSTRALIA_1",
+        "location": "AUSTRALIA",
+        "year": "1925",
+        "census_date": "1871",
+        "total_population": 322853
+      },
+      {
+        "id": "demographic_1925_BAHAMAS_2",
+        "location": "BAHAMAS",
+        "year": "1925",
+        "census_date": "1901",
+        "total_population": null
+      },
+      {
+        "id": "demographic_1925_BRITISHGUI_3",
+        "location": "BRITISH_GUIANA",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": 124338
+      },
+      {
+        "id": "demographic_1925_BRITISHHON_4",
+        "location": "BRITISH_HONDURAS",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": 39734
+      },
+      {
+        "id": "demographic_1925_CAPEOFGOOD_5",
+        "location": "CAPE_OF_GOOD_HOPE",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": 1921
+      },
+      {
+        "id": "demographic_1925_CAYMANISLA_6",
+        "location": "CAYMAN_ISLANDS",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": null
+      },
+      {
+        "id": "demographic_1925_CEYLON_7",
+        "location": "CEYLON",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": null
+      },
+      {
+        "id": "demographic_1925_DOMINICA_8",
+        "location": "DOMINICA",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": 1534
+      },
+      {
+        "id": "demographic_1925_FIJI_9",
+        "location": "FIJI",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": null
+      },
+      {
+        "id": "demographic_1925_GIBRALTAR_10",
+        "location": "GIBRALTAR",
+        "year": "1925",
+        "census_date": null,
+        "total_population": 187959
+      },
+      {
+        "id": "demographic_1925_GRENADA_11",
+        "location": "GRENADA",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": 4629
+      },
+      {
+        "id": "demographic_1925_MALTA_12",
+        "location": "MALTA",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": null
+      },
+      {
+        "id": "demographic_1925_MAURITIUS_13",
+        "location": "MAURITIUS",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": null
+      },
+      {
+        "id": "demographic_1925_PALESTINE_14",
+        "location": "PALESTINE",
+        "year": "1925",
+        "census_date": null,
+        "total_population": 21000
+      },
+      {
+        "id": "demographic_1925_SIERRALEON_15",
+        "location": "SIERRA_LEONE",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": 1904
+      },
+      {
+        "id": "demographic_1925_STVINCENT_16",
+        "location": "ST._VINCENT",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": null
+      },
+      {
+        "id": "demographic_1925_STRAITSSET_17",
+        "location": "STRAITS_SETTLEMENTS",
+        "year": "1925",
+        "census_date": "1901",
+        "total_population": 1921
+      },
+      {
+        "id": "demographic_1925_SWAZILAND_18",
+        "location": "SWAZILAND",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": null
+      },
+      {
+        "id": "demographic_1925_THEGAMBIA_19",
+        "location": "THE_GAMBIA",
+        "year": "1925",
+        "census_date": null,
+        "total_population": 9227
+      },
+      {
+        "id": "demographic_1925_TRINIDADAN_20",
+        "location": "TRINIDAD_AND_TOBAGO",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": null
+      },
+      {
+        "id": "demographic_1925_TURKSANDCA_21",
+        "location": "TURKS_AND_CAICOS_ISLANDS",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": 2619661
+      },
+      {
+        "id": "demographic_1925_WEIHAIWEI_22",
+        "location": "WEIHAIWEI",
+        "year": "1925",
+        "census_date": "1921",
+        "total_population": 1921
+      }
+    ],
+    "events": [
+      {
+        "id": "event_1925_ADENcaptur_1",
+        "description": "captured by the Turks, who lost it some years later, but captured it again in 1551",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAe_2",
+        "description": "established—Western Australia being included as an original State in accordance with the result of a referendum taken before that date in the Colony and with Addresses passed by both Houses of the Legislature.\n\nA short history of the events leading u",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAe_3",
+        "description": "established at King George's Sound and Thursday Island; and a resolution was adopted in favour of an increase in the number of representatives for each Colony, except any Crown Colony, to five. The Standing Committee was instructed to take steps for ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAe_4",
+        "description": "established; appellate and original jurisdiction.\n\nCollection of Customs to pass to Commonwealth. Customs and Excise duties to be uniform, and intercolonial free-trade established within two years after the establishment of the Commonwealth, after wh",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAe_5",
+        "description": "established, to be administered by a Board of Directors. Fifty completed vessels and four in course of construction are transferred to the Board; also Cockatoo and Schnapper Islands.\n\n**Meat Export Bounties Act.** A bounty is payable of one farthing ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAe_6",
+        "description": "established, into which payments are to be made annually and otherwise, for reduction of the national debt.\n\n**Northern Territory Railway Extension Act.** Construction is authorized of a railway of 3 ft. 6 in. gauge from Katherine to Daly Waters, max",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAe_7",
+        "description": "established which provides for (a) higher primary education in Superior Public Schools which are of three types (commercial and junior technical for boys and domestic for girls), and (b) High School education of several types (general, commercial, te",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAe_8",
+        "description": "established and endowed by the State in 1850",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAe_9",
+        "description": "established throughout the State and obtain Government subsidies. There are also a Royal, a Medical, a Linnean, a Zoological, a Historical, a Geographical, and two Art Societies, a Government Observatory, Agricultural and Forestry Museum, and a Minin",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAe_10",
+        "description": "established by the Constitution Act, 18 & 19 Vict., cap. 54 (1855",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAe_11",
+        "description": "established the \"one-man-one-vote\" system. Under this law the elections all take place on one and the same day. The first election under this Act took place on July 17th, 1894",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAd_12",
+        "description": "discovered on February 17th, 1788",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAd_13",
+        "description": "discovered until 1823",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAe_14",
+        "description": "established by Act 39 Vict., No. 11. The central administration is vested in the Secretary for Public Instruction, and is carried out through the medium of travelling inspectors. Local school committees assist the department with advice and supervisi",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAe_15",
+        "description": "established with 11 professors, 25 lecturers, 3 assistants, enrolment 387. There are no local rates for education, which in the primary schools is entirely paid for by the State. A system of technical instruction, conducted by Local Committees, is li",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAf_16",
+        "description": "founded on the Wakefield system of colonization under Act of Parliament 4 and 5 William IV., c. 95.\n\nThe first colonists landed at Kangaroo Island, but the settlement was almost immediately transferred to the mainland where the province was proclaime",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAd_17",
+        "description": "discovered at Kapunda in 1842",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAe_18",
+        "description": "established in 1856",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAf_19",
+        "description": "founded by Royal Letters Patent in 1881",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAe_20",
+        "description": "established in 1889",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_AUSTRALIAd_21",
+        "description": "discovered in 1642",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BAHAMASdis_53",
+        "description": "discovered by him on his voyage in 1492",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BAHAMASest_54",
+        "description": "established including a Parliament, the Lower House of which was elective, and this was continued with several breaks until the Civil and Military Government of the Islands was resumed by the Crown on the surrender of their rights by the Lords Propri",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BAHAMASest_55",
+        "description": "established, and are maintained by the Imperial Government. Several lights are also maintained by the local government.\n\nCurrency and Banking.\n\nThe legal tender currency is British sterling, and United States current coin*. Accounts are kept in sterl",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BAHAMASest_56",
+        "description": "established, also money order agreements with the United States and Canada.\n\nConstitution.\n\nThe Executive Government is conducted, under Letters Patent, by the Governor, aided by an Executive Council not exceeding 9 members. The Legislative authority",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BAHAMASdis_57",
+        "description": "discovered in certain districts and experimental borings are being carried out by the British Union Oil Company, Ltd., which has also established an oil depot and bunkering station for ships in Carlisle Bay.\n\nOwing to the steady Easterly Trade winds,",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BAHAMASest_58",
+        "description": "established by Act No. 41 of the 9th December, 1878",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BAHAMASfou_59",
+        "description": "founded by General Sir Christopher Codrington, a native of the island, who died in 1710",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BAHAMASest_60",
+        "description": "established on an old foundation, which has been liberally supported by the Legislature. It has a staff of eight university men as Masters, including a Professor of Chemistry and a Lecturer in Natural and Agricultural Sciences. The number of pupils a",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BAHAMASest_61",
+        "description": "established by the Education Board, and endowed by the Colony, each of the annual value of £500., tenable at an English University, or at an Agricultural or Technical College in Europe or America, for three years.\n\nThe number of years for which these",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BAHAMASest_62",
+        "description": "established in Barbados in 1836",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BAHAMASest_63",
+        "description": "established in 1867",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BERMUDAdis_64",
+        "description": "discovered in the year 1515",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BERMUDAest_65",
+        "description": "established in 1871",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BERMUDAest_66",
+        "description": "established an annual scholarship of £60., tenable by youths, natives of Bermuda, for two years at some educational institution abroad to be approved by the Governor, with a view to assisting youths to prepare to compete for the Rhodes' Scholarship a",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BERMUDAest_67",
+        "description": "established by ships of Messrs. Elders & Fyffes, Ltd., which make regular calls at Bermuda every six weeks outward and homeward, Bermuda being a port of call in both directions between Avonmouth and ports in Honduras. It is contemplated that this ser",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BERMUDAfou_68",
+        "description": "founded on the Berbice by Van Peere, a Flushing merchant, and held by him under a license from the Company. The first English attempt at settlement was made by Captain Charles Leigh on the Oapock river (now French Guiana) in 1604",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BERMUDAfou_69",
+        "description": "founded a settlement in Surinam in 1650",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BERMUDAcap_70",
+        "description": "captured by the Dutch in 1667",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BERMUDAced_71",
+        "description": "ceded to them at the peace of Breda in exchange for New York. The Dutch retained their hold on the three colonies with more or less firmness, now yielding to England, now to France or Portugal, till 1796",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BERMUDAcap_72",
+        "description": "captured by a British Fleet from Barbados. The territory was restored to the Dutch in 1802",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BERMUDAced_73",
+        "description": "ceded to that Power in 1814",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BERMUDAest_74",
+        "description": "established very early in the history of the Colony. Until 1773",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BERMUDAest_75",
+        "description": "established a new one for the conjoined Colonies upon the basis of the scheme in question, which continued in operation notwithstanding the captures of the Colony by the British in 1796",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BERMUDAest_76",
+        "description": "established at Georgetown and at New Amsterdam (200 subscribers) in connection with the postal telegraph, as well as a Police Exchange (35 subscribers); length of telephone and telegraph lines 3,100 aerial wire and 37½ miles of cable, longest line 17",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BERMUDAest_77",
+        "description": "established at Georgetown and New Amsterdam in the year 1836",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_78",
+        "description": "discovered in 1502",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_79",
+        "description": "established in 1839",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_80",
+        "description": "discovered. The soil generally was rich, but a few rugged spots were encountered. Some fine gold-bearing quartz veins were discovered, and other indications of minerals were noticed.\n\nIn 1888",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_81",
+        "description": "established on a gold basis, the United States gold dollar being adopted as the standard coin. Gold coins of the United States Mint are legal tender for the amounts of their respective denominations in standard dollars; also the British sovereign and",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_82",
+        "description": "established, nor are any grants made.\n\n† Allowed but not entitled to private practice,\nDOMINION OF CANADA.\n\nTHE DOMINION.\n\nThe Provinces of Ontario, Quebec (formerly constituting the Colony of Canada), New Brunswick and Nova Scotia, were, by the Impe",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_83",
+        "description": "discovered by the Norse seamen of the middle ages. Cabot reached Labrador in 1497",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_84",
+        "description": "established from the growth of towns when their population exceeds 10,000 and 15,000 respectively. In the other provinces they are incorporated under certain Municipal Codes and Acts. The townships and villages are administered by a reeve and council",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_85",
+        "description": "established in pursuance of The Ottawa Mint Act, 1901",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_86",
+        "description": "established in Canada, Sept. 30th, 1924",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_87",
+        "description": "discovered Cape Breton Island in 1497",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_88",
+        "description": "founded. During their early days and for a considerable time after, the French settlers were few in number, suffered great hardships, and were much engaged in conflicts with the Indian tribes, the aboriginal inhabitants. The principal incentives to t",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_89",
+        "description": "ceded to Great Britain by the Treaty of Paris. It may be mentioned that for three years, from 1629",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_90",
+        "description": "captured by David Kirk, but was retroceded to France by the peace of St. Germain-en-laye.\n\nFrom 1763",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_91",
+        "description": "established by Act of the Parliament of Great Britain. By the same Act the Roman Catholics were given the free exercise of their religion; the Catholic clergy were declared entitled to receive their accustomed dues and rights, but with respect only t",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_92",
+        "description": "established in Canada in 1841",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_93",
+        "description": "established industry. Total apple production in 1923",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_94",
+        "description": "discovered by John Cabot in 1497",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_95",
+        "description": "ceded to England at the Peace of Utrecht in 1714",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_96",
+        "description": "established at Sydney and New Glasgow, and these centres are developing very rapidly.\n\nMinerals of almost all kinds abound. The production (preliminary figures) of some of the principal minerals, that are at present mined, for the calendar year 1923",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_BRITISHHON_97",
+        "description": "established by law in 1865",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_103",
+        "description": "established at Swellendam in 1745",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_104",
+        "description": "captured by a British Force in 1806",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_105",
+        "description": "ceded in perpetuity to the British Crown. During the interval between the Peace of Amiens and the recapture by the British in 1806",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_106",
+        "description": "founded by the Dutch in the year 1652",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_107",
+        "description": "ceded to Great Britain by the Convention of London, August 13th, 1814",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_108",
+        "description": "established under the Divisional Councils and Roads Ordinance, No. 13 of 1917",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_109",
+        "description": "established under Ordinance No. 11 of 1921",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_110",
+        "description": "founded 1781",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_111",
+        "description": "captured. The dynasty of Tshaka was deposed, and the country was divided into thirteen districts, each under an independent chief, holding office by the gift of the Queen of England, subject to certain conditions accepted by him; a British resident w",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_112",
+        "description": "established the \"New Republic.\"\n\nFinding that the Zulu people were unable to form any orderly administration of the remaining territory, Her Majesty's Government decided, with the general assent of the Zulus, to declare their country to be British te",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_113",
+        "description": "established, and, under a Natal Act of 1893",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_114",
+        "description": "established themselves at Winburg and elsewhere, but the Colonial Government for some time made no attempt to establish any administration. In 1848",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_115",
+        "description": "established, and continued till 30th June, 1907",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_116",
+        "description": "established soon after the Anglo-Boer war, has been replaced by the Normal College, where about 150 students complete the Training Course prescribed by the Education Ordinance of 1920",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_117",
+        "description": "established in 1912",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_118",
+        "description": "established at Ficksburg, Jacobdal, Kroonstad, Ladybrand, Heilbron, Kopjes and Goedemoed, the total number of pupils being about 280.\n\nAt Bethlehem there is a residential technical school for girls, giving instruction in housewifery, dressmaking, mil",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_119",
+        "description": "ceded.\n\nThe proposal was put forward in writing by the Republic in notes dated the 19th and 21st August, and the three \"assumptions\" were put forward as express conditions. To these notes Her Majesty's Government replied, on the 28th August, that the",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAPEOFGOOD_120",
+        "description": "established in the principal towns of the Province by Ordinances enacted in 1903",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CAYMANISLA_121",
+        "description": "discovered by Columbus, on his return voyage from Porto Bello to Hispaniola, but were never occupied by the Spaniards. The English took possession of them soon after the conquest of Jamaica, and they were mainly colonised from that island.\n\nGrand Cay",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CEYLONesta_122",
+        "description": "established the Sinhalese dynasty. Buddhism was introduced in the third century B.C., and from that time this faith has been preserved in comparative purity. The island abounds in interesting relics of antiquity, and in rock inscriptions, which, with",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CEYLONesta_123",
+        "description": "established in the towns of Kalutara, Negombo, Minuwangoda, Gampola, Nuwara Eliya, Matale, Nawalapitiya, Hatton-Dickoya, Matare, Batticaloa, Trincomalee, Kurunegala, Puttalam, Chilaw, Anuradapura, Badulla, Bandarawela, Ratnapura, Kegalla, Moratuwa, a",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CEYLONfoun_124",
+        "description": "founded in Colombo in 1883",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CEYLONfoun_125",
+        "description": "founded in 1870",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CEYLONesta_126",
+        "description": "established in 1832",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CEYLONesta_127",
+        "description": "established on the 1st July, 1913",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CYPRUSesta_128",
+        "description": "established in it. In the 6th century B.C. it passed under the rule of Egypt, but in 525 B.C. it joined Cambyses in his war against the Egyptians and so was absorbed in the Persian Empire. The whole island, with the exception of the Phoenician town o",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CYPRUSesta_129",
+        "description": "established at Nicosia, and agencies at Larnaca, Limassol, Famagusta and Paphos.\n\nThe Bank of Athens has a branch established at Limassol and agencies at Nicosia, Larnaca, Famagusta and Paphos.\n\nThere is a Bank of Cyprus, with headquarters in Nicosia",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CYPRUSesta_130",
+        "description": "established between Cyprus and the United Kingdom and the principal colonies and foreign countries, as well as within the island.\n\nMoney Orders and British Postal Orders are also issued and paid in the island. \"Cash on Delivery\" parcels for delivery ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CYPRUSesta_131",
+        "description": "established.\n\n(5) Village courts, of which there are at present ten. The courts are held by a village judge and the President and the ordinary judges of the district court have also jurisdiction. The Village courts have jurisdiction in various matter",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_CYPRUSesta_132",
+        "description": "established.\n\nThe above statements apply to jurisdiction over Cypriots: the jurisdiction over persons who are not Cypriots differs in various ways.\n\nActions in the courts are divided into \"Cypriot\" and \"Foreign\" actions, according to the nationality ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_DOMINICAdi_133",
+        "description": "discovered by Christopher Columbus on Sunday (hence its name), the 3rd of November, 1493",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_DOMINICAes_134",
+        "description": "established plantations.\n\nDominica was captured by the English in 1756",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_DOMINICAes_135",
+        "description": "established in April, 1915",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_DOMINICAdi_136",
+        "description": "discovered by Columbus in 1493",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_DOMINICAdi_137",
+        "description": "discovered by Columbus in 1493",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_DOMINICAes_138",
+        "description": "established in the Virgin Islands in 1773",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_DOMINICAes_139",
+        "description": "established. A large area of land in the Virgin Islands is well adapted to coconut cultivation, and the existing trees are quite free from any serious insect or fungoid pests. A tobacco industry is being established.\n\nThe currency consists almost ent",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FALKLANDIS_140",
+        "description": "discovered by Davis in 1592",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FALKLANDIS_141",
+        "description": "established a settlement which was destroyed by the Americans in 1831",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FALKLANDIS_142",
+        "description": "discovered in 1775",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FALKLANDIS_143",
+        "description": "discovered and taken possession of by Captain William Smith in 1819",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FALKLANDIS_144",
+        "description": "established.\n\nThe only town is Stanley in East Falkland, with a population of 890. The houses are mostly iron and wood, built as they are required for occupation. It is difficult to rent a house but there are several small hotels and boarding houses ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FALKLANDIS_145",
+        "description": "established in some of the numerous bays.\n\nThe remaining dependencies are even more inhospitable, being nearly completely covered with snow and ice and almost entirely destitute of plant life. All the dependencies have a rigorous climate of Antarctic",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FALKLANDIS_146",
+        "description": "established, in which, on 30th September, 1923",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FIJIdiscov_147",
+        "description": "discovered by the Pandora, in 1793",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FIJIdiscov_148",
+        "description": "discovered by Tasman in 1643",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FIJIcededt_149",
+        "description": "ceded to Her Majesty by Thakombau, the Chief of Bau, Maafu, who was Chief of the so-called Lau Confederacy, which included not only the Lau Islands, but Taviuni and the greater part of Vanua Levu, and the other principal chiefs, in a deed of cession ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FIJIestabl_150",
+        "description": "established in 1877",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FIJIestabl_151",
+        "description": "established in Suva, on the transfer of the seat of government. These boards are at present regulated by the Municipal Institutions Ordinance, 1909",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FIJIestabl_152",
+        "description": "established, the cost of education being borne by a school rate on the town and a Government grant based on the attendance.\n\nThe Education Ordinance, 1916",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FIJIestabl_153",
+        "description": "established.\n\nDairying and rubber planting may now be regarded as established industries.\n\nMany parts of the Colony seem admirably adapted for cattle and sheep raising.\n\nThe total trade of the Colony in 1923",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FIJIestabl_154",
+        "description": "established in June, 1890",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_FIJIestabl_155",
+        "description": "established in the Colony, and there are now stations at Suva in the island of Viti Levu, at Labasa and Savusavu in the island of Vanua Levu, and at Waiyevo, Taviuni. Telephone Exchanges have been established at Suva, Levuka, Nausori, Navua, and Tavu",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARc_156",
+        "description": "captured by the British forces under Sir George Rooke, 24th July, 1704",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARc_157",
+        "description": "ceded by the Treaty of Utrecht in 1713",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARf_158",
+        "description": "founded in 1882",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARf_159",
+        "description": "founded, and the country was claimed for the King of Portugal by virtue of a Papal Bull granted in 1430",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARd_160",
+        "description": "discovered and all future discoveries in Guinea. This Bull was confirmed a few years after the foundation of Elmina by Pope Sextus IV. The Portuguese remained in undisputed possession for over fifty years until British merchant adventurers commenced ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARf_161",
+        "description": "founded in 1618",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARe_162",
+        "description": "established the first British fort on the coast at Kormantin, and lodges at several other places. This company was engaged in the slave trade, as were also the other European nations. Its charter was renewed in 1651",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARe_163",
+        "description": "established \"Fort Great Fredericksburg\" at Princes River in 1682",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARc_164",
+        "description": "captured Cape Coast, taken the previous year by the Dutch, and all the other Dutch forts, with the exception of Elmina and possibly Axim. In the following year, however, the Dutch Commander de Ruyter recaptured all the lost Dutch forts, with the exce",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARe_165",
+        "description": "established at Dixovo, Sekondi, Commenda, Anamabu, Tarkwumkere, Winneba, Accra. The abolition of the exclusive privileges which the Royal African Company enjoyed, led to its decline and eventual dissolution in 1752",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARe_166",
+        "description": "established. The Dutch, however, found many difficulties in the way of their occupation of the forts and possessions received from the English in exchange for those of their own lying to the East of the boundary line. The native tribes refused to rec",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARe_167",
+        "description": "established.\n\nA large and up-to-date hospital has been recently opened at Accra.\n\nSanitation.\n\nThere is a Sanitation Department under the control of the Director of Medical and Sanitary Services, which hitherto confined its attention to chiefly Kumas",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARe_168",
+        "description": "established by Government at Kibbi in Eastern Akim, Assuanti in the Cape Coast District, Mampong in Ashanti and Yendi in the Northern Territories. The staff in these schools consists of European headmasters and African instructors in literary subject",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARe_169",
+        "description": "established which is now under Post Office management. On 31st March, 1923",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARf_170",
+        "description": "founded in 1874",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GIBRALTARe_171",
+        "description": "established under the presidency of political officers seconded from the Gold Coast, appeal lying from the district courts to that of a senior political officer. In the absence of a local criminal code, that of the Gold Coast was introduced as a basi",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GRENADAest_172",
+        "description": "established.\n\nThe roads of the colony are in excellent condition, and are kept in a state of thorough repair. About 140 miles of main roads, and a network of byways (303 miles), provide good inland communication. The island is divided into six distri",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GRENADAest_173",
+        "description": "established in Carriacou, the exports of lime juice in 1923",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GRENADAest_174",
+        "description": "established in 1881",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GRENADAdis_175",
+        "description": "discovered by Columbus on 15th August, 1498",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GRENADAest_176",
+        "description": "established a settlement at St. George's. Finding the expense of maintaining an armed force to support his authority not compensated by the expectation of future profits, Du Parquet sold the island in 1657",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GRENADAced_177",
+        "description": "ceded to Great Britain by the Treaty of Paris on the 10th of February, 1763",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GRENADAced_178",
+        "description": "ceded to Great Britain by the Treaty of Paris on the 10th of February, 1763",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GRENADAest_179",
+        "description": "established in regard to the African slaves, and this was followed in 1838",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GRENADAest_180",
+        "description": "established in lieu of the Council and Assembly. The Assembly consisted of 17 Members, 8 elected by the people, and 9 nominated by the Crown. The Act also appointed an Executive Committee of 5 members, 3 being nominated and the other 2 elected Member",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_GRENADAest_181",
+        "description": "established in December, 1877",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_HONGKONGce_182",
+        "description": "ceded to Great Britain by a Treaty entered into by Lord Elgin in 1860",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_HONGKONGce_183",
+        "description": "ceded to Great Britain in January, 1841",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_HONGKONGes_184",
+        "description": "established between 1865",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_HONGKONGes_185",
+        "description": "established at Cape d'Aguilar provides communication with vessels.\n\nHong Kong possesses unrivalled steam communication. The P. & O., S. N. Co., M. M. Cie, Holt's Line, City Line, and N.Y.K. maintain a regular service with the United Kingdom and Europ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_HONGKONGdi_186",
+        "description": "discovered by Columbus on the 3rd May, 1494",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_HONGKONGes_187",
+        "description": "established by Charles II., who appointed General Edward Doyley Governor-in-Chief, with an Elective Council. In 1670",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_HONGKONGes_188",
+        "description": "established. The latter was to act as a sort of Cabinet, especially as regards financial matters.\n\nAfter the suppression of the rebellion in 1865",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_HONGKONGes_189",
+        "description": "established, consisting of such numbers of official and unofficial members as Her Majesty might think fit. The numbers of each were six until 1878",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_HONGKONGes_190",
+        "description": "established in 1870",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_HONGKONGes_191",
+        "description": "established. The number of schools is 683, with 69,368 scholars in average attendance, and the grant-in-aid for 1923",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_HONGKONGes_192",
+        "description": "established communication between Jamaica and Halifax via Bermuda and Turks Island.\n\nTelegraph lines connect all the principal towns, and there are 134 telegraph and telephone stations. The total mileage open is 1,348—978 miles along roads, 173 miles",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_MALTAdisco_193",
+        "description": "discovered in a cave to the southeast of Malta. Traces of paleolithic civilization are not wanting in the islands, and evidence of a neolithic civilization, in the shape of cave dwellings, stone circles, menhirs and dolmens, is found all over the isl",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_MALTAestab_194",
+        "description": "established in 1833",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_MALTAestab_195",
+        "description": "established in Malta. The Letters Patent were proclaimed by the Governor at Valletta on 30th April, 1921",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_MALTAfound_196",
+        "description": "founded in 1769",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_MAURITIUSd_197",
+        "description": "discovered by the Portuguese between 1506",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_MAURITIUSe_198",
+        "description": "established at various points, the seat of government being at the place known as Old Grand Port. The colony did not prosper, and was finally abandoned by the Dutch in 1710",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_MAURITIUSc_199",
+        "description": "captured East Indiaman. The English lost the day, two of their ships having gone on shoals early in the engagement, but the great gallantry shown by both sides has rendered the fight memorable in the annals of the two navies.\n\nA strong expeditionary ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_MAURITIUSe_200",
+        "description": "established on the 19th August, 1826",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_MAURITIUSe_201",
+        "description": "established. Regular delivery of courses of lectures on Agricultural Science is being made to Primary School Teachers by the Department of Agriculture.\n\nCommunications.\n\nMail steamers of the Messageries Maritimes, starting from Marseilles, maintain a",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_MAURITIUSe_202",
+        "description": "established along and beyond the railway, the total length of line being 67½ miles of telegraph* and 161½ of telephone; and cable communication through a branch office of the Eastern and South African Telegraph Company with Europe, via Seychelles, Za",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_MAURITIUSe_203",
+        "description": "established in October, 1894",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_MAURITIUSe_204",
+        "description": "established in 1837",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_MAURITIUSe_205",
+        "description": "established in 1876",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_MAURITIUS1_206",
+        "description": "11 May 1897\nSir Cavendish Boyle, K.",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_MAURITIUS1_207",
+        "description": "18 May 1916\nSir Herbert James Read, K.",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_208",
+        "description": "Treaty of Utrecht (see Cd. 1962",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_209",
+        "description": "discovered by the Norseman Lief, son of Eric the Red, in A.D. 1,000, and (in 1497",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_210",
+        "description": "established in 1824",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_211",
+        "description": "discovered by John Cabot in 1497",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_212",
+        "description": "established himself in the Peninsula of Avalon, the southeast part of the island, and appointed his son Governor. In 1634",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_213",
+        "description": "established a station at Placentia; and for many years the French and English settlers were constantly annoying each other. At the Peace of Utrecht in 1713",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_214",
+        "description": "ceded; it was established in 1855",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_215",
+        "description": "discovered in 1642",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_216",
+        "description": "ceded the sovereignty of New Zealand to the British Crown by the Treaty of Waitangi, concluded by the British Consul, Captain Hobson, and the islands became a British colony.\n\nThe aborigines, called Maoris, are a remarkable people—a branch of the Pol",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_217",
+        "description": "established in 1871",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_218",
+        "description": "established by the Imperial Statute 15 & 16 Vict. cap. 72. By that Act New Zealand was divided into six provinces, afterwards increased to ten, but subsequently reduced to nine—viz., Auckland, Taranaki, Wellington, Nelson, Canterbury, Otago, Hawke's ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_219",
+        "description": "established by the Imperial Statute of 1862",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_220",
+        "description": "established in 1877",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_221",
+        "description": "established in the Dominion, having on 31st March, 1924",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_222",
+        "description": "established in most of the principal towns in New Zealand.\n\nAuckland, Dunedin, Christchurch, Wellington, New Plymouth, Invercargill, Napier and Wanganui have electric tramway systems on the overhead principle, while a system in Gisborne is worked wit",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_223",
+        "description": "established, operated by steam, water, and internal combustion engines for the supply of electrical energy for street lighting, domestic lighting, heating, cooking, etc., and for power purposes. These installations are generally under the control of ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_224",
+        "description": "established, and a law was passed regulating the sale of intoxicants, and imposing a general ad valorem duty of 10 per cent. on imports. All laws and administrative acts were subject to the approval of the Resident, who was also a Deputy and Judicial",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_225",
+        "description": "established at Rarotonga.\n\nThe total value of exports from the Cook islands for 1923",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_226",
+        "description": "established here.\n\nPhysical Features.\n\nMangaia is the most southerly island of the Cook group, and is second in importance to Rarotonga.\n\nCoconuts, bananas, oranges, limes, citrons and other fruits grow plentifully.\n\nResident Agent, J. C. Cameron.\n\nA",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NEWFOUNDLA_227",
+        "description": "established in Rarotonga. Schools have also been established at Aitutaki, Mauke, Palmerston, Mangaia, and Atiu. The instruction given is similar to that of the New Zealand State Schools. Technical instruction is being made a special feature.\n\nAt Niue",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAfou_230",
+        "description": "founded at Lokoja, and, at the cost of much money and many lives, some progress seemed to have been made, only to result in failure. The pioneer of these efforts was McGregor Laird, who in 1852",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAest_231",
+        "description": "established a few primitive stations, where the white population of Nigeria lived. These bold pioneers were at the mercy of powerful chiefs, and gross outrages were from time to time avenged by the despatch of a light draught gunboat.\n\nAt the close o",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAfou_232",
+        "description": "founded stations, sent out a river flotilla, and pushed up the Niger and Benue, but meanwhile the foresight of Gambetta had prompted the establishment of two French Companies, which, being backed by the French Government, acquired a great influence o",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAest_233",
+        "description": "established themselves on the Niger at several points.\n\nAt the end of 1897",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAest_234",
+        "description": "established over the Niger districts, an Order-in-Council defining them was made, and the portion lying on the coast line was designated the Oil Rivers Protectorate, and placed under Consular rule.\n\nIn 1891",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAest_235",
+        "description": "established under an Imperial Commissioner and Consul-General.\n\nBENIN.—In 1894",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAest_236",
+        "description": "established himself on the Brohimi Creek a few miles from the entrance to the Benin River, caused the Government considerable trouble. He was nominally a vassal of the King of Benin, but by trade, enterprise and robbery he had acquired wealth, and be",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAcap_237",
+        "description": "captured, but the king made good his escape. The state in which Benin City was found passes all description. In every direction human remains, pits filled with bodies in various stages of decomposition, and altars dripping with fresh human blood were",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAest_238",
+        "description": "established a powerful fetish, probably derived from Benin, known as the Long Juju which exercised an extremely evil influence on the ignorant and superstitious natives for miles around. After five months of arduous work, the Field Force accomplished",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAest_239",
+        "description": "established.\n\nThe eastern frontier from the Cross River rapids to the sea was surveyed by an Anglo-German Commission in 1905",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAced_240",
+        "description": "ceded these places to the Lagos Government. At the same time Protectorate rights were established over Ado and Oke-Odan on the west. In 1866",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAest_241",
+        "description": "established. Great trade routes were opened into the interior, and a railway was constructed from Lagos to Ibadan, passing through a thickly populated and fertile agricultural country.\n\nTHE COLONY AND PROTECTORATE OF SOUTHERN NIGERIA, 1906",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAest_242",
+        "description": "established.\n\nProvision was made for an Executive Council and for a Legislative Council for the Colony. The legislative power for the Protectorate was vested in the Governor. The Colony was placed under an Administrator, and the Protectorate, divided",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAest_243",
+        "description": "established at Lagos. The Administrative Head-quarters of the Colony and of the Southern Provinces are at Lagos, while that of the Northern Provinces is at Kaduna.\n\n**The Cameroons:** The conquest of the Cameroons was completed in February, 1916",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAdis_244",
+        "description": "discovered near Asaba and Udi in the Southern Provinces.\n\n* For text of the British mandate see Cmd. 1794",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAest_245",
+        "description": "established at the ports, and also up-country along the main waterways, the Niger, Benue, and Cross Rivers, and at inland railway stations.\n\nThe Nigerian Tin Fields.\n\nThe principal tin fields are situated on the western boundary of the Bauchi Provinc",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAest_246",
+        "description": "established at Lagos, Calabar, Warri, Onitsha, Port Harcourt, Abeokuta, Ibadan, Zaria, Kaduna, Jos, Kano, Lokoja, Enugu, Opobo, Ebute Metta, Oshogbo and Sapele, and there are also a number of agencies. The Colonial Bank is established at Lagos, Port ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NIGERIAest_247",
+        "description": "established many stations with churches and schools throughout the country.\n\nEducation work for the most part is carried on by the several missionary bodies whose schools outnumber those established and maintained entirely by Government. In the South",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NORTHERNRH_248",
+        "description": "established, that this trade received any check. Blow after blow was inflicted by the destruction of the Arab settlements on Lake Nyasa, and with the defeat of the Arab chief Mlozi by Sir Harry Johnston at Karonga in 1894",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NORTHERNRH_249",
+        "description": "established, in 1898",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NORTHERNRH_250",
+        "description": "discovered and coal exists in quantity but is not being worked at present. The total value of the mineral output of Northern Rhodesia from the commencement of operations to the 31st December, 1923",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NORTHERNRH_251",
+        "description": "established.\n\nThe Laws consist of local Ordinances duly enacted with such British Acts as are of general application. Justice is administered in the High Court, which has jurisdiction in Civil and Criminal matters, and also as a Court of Admiralty. S",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_NORTHERNRH_252",
+        "description": "established in the Protectorate.\n\nFinance.\n\n| Year     | Local Revenue | Expenditure | Public Debt at 31st March |\n|----------|---------------|-------------|--------------------------|\n| 1923",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_PALESTINEe_253",
+        "description": "established an orphanage in Jerusalem and a technical office to deal with the repair of sacred buildings, and has carried out extensive tree planting on Waqf land and in Moslem cemeteries.\n\nPalestine, East of the Jordan and the Dead Sea, known as Tra",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_PALESTINEe_254",
+        "description": "established by the Zionist Organization for the purpose of acquiring land to remain the national property of the Jewish people. The Palestine Land Development Company, also organised by the Zionist Organization, owns Kalandia, and some lands on the C",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_PALESTINEe_255",
+        "description": "established in Jerusalem, Jaffa, Haifa and other towns, who try contraventions for which the maximum penalty does not exceed £5 fine and 15 days' imprisonment.\n\nSpecial arrangements exist in the Beersheba sub-district, where minor cases are disposed ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_PALESTINEe_256",
+        "description": "established for granting building loans to co-operative societies.\n\nThere is as yet no Palestinian currency. Egyptian Bank and Currency Notes, gold, silver and nickel coins, and British gold sovereigns at the rate of 97½ piastres Egyptian; are legal ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_PALESTINE2_257",
+        "description": "26th September 1874, married, 1911, Hon.",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SEYCHELLES_258",
+        "description": "discovered by a Portuguese named Pedro Mascaregnas, in 1505",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SEYCHELLES_259",
+        "description": "captured by Captain Newcome, of His Majesty's ship \"Orpheus.\"\n\nThe last French Governor, Mr. De Quincy, who was born at Paris in November, 1748",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SEYCHELLES_260",
+        "description": "established in March, 1897",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SEYCHELLES_261",
+        "description": "established at Anse Royale and La Digue were closed during 1906",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_262",
+        "description": "ceded all the land they possessed in the peninsula of Sierra Leone lying to the westward of the Colony; and in 1861",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_263",
+        "description": "ceded a portion of the Kwala country abutting on the Colony of Sierra Leone, measuring 10 miles in width and 16 miles in length from the River Sierra Leone to the River Ribbi, and particularly described as to its inland boundary in the Treaty of Cess",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_264",
+        "description": "discovered, except iron, which can hardly be reckoned as of exportable value.\n\nThe population of the Protectorate was in 1921",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_265",
+        "description": "established a Central Government of the settlements on the West Coast of Africa, with the seat of government at Sierra Leone.\n\nA new Charter, dated the 24th of July, 1874",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_266",
+        "description": "established in Freetown. A Government Savings Bank was established in 1882",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_267",
+        "description": "established at Bo in the Kenema District of the Protectorate on 1st March, 1906",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_268",
+        "description": "established in 1919",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_269",
+        "description": "established in 1886",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_270",
+        "description": "established over the tribes on the Somali Coast, extending from Lahadu (Loyi-ada), half-way between Ras Jibouti and Zeyla, to the 49th meridian E.long. The boundary has been settled by agreements with France, Italy and King Menelik of Abyssinia. Till",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_271",
+        "description": "established at Burao, 80 miles from the coast. At this time the Dervishes were in occupation of the Ain Valley, which is one of the principal grazing grounds of the friendlies. Strong forts had been constructed by the Mullah at Jidali and Shimber Ber",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_272",
+        "description": "established by the Governor-General in Council, the Governor-General appointing not more than ten officers to administer them. Such officers are King's Ministers of State for the Union and members of the Executive Council.\n\nThe Senate consists of for",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_273",
+        "description": "established at Cape Town, Durban (Port Natal) and Port Elizabeth. A short range wireless station has also been established at East London. The Cape Town and Durban stations have an effective daylight range of 1,000 miles, and the Port Elizabeth stati",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_274",
+        "description": "established in 1873",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_275",
+        "description": "founded in 1829",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_276",
+        "description": "established thereunder has recently been transferred to this department.\n\nNative Affairs.\n\nThe native population of the Union at the census of 1921",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_277",
+        "description": "established the Native Affairs Commission, which is an advisory body consisting of not less than three or more than five members, appointed by the Governor-General and presided over by the Minister of Native Affairs. The Act also revived for the Unio",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_278",
+        "description": "established in 1914",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_279",
+        "description": "established a Native High Court to administer civil justice to the natives and placed them under the ordinary criminal law of the Colony, except as regards political crimes, crimes arising out of native customs, and crimes declared triable under any ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_280",
+        "description": "established by Law No. 10, 1876",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SIERRALEON_281",
+        "description": "established under Act No. 49, 1898",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHERNRH_282",
+        "description": "founded (12th September, 1890",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHERNRH_283",
+        "description": "established forthwith in Southern Rhodesia. In March, 1921",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHERNRH_284",
+        "description": "established on 1st January, 1905",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHERNRH_285",
+        "description": "established and the monthly cheque from this source figures prominently on many farms.\n\nMaize is the staple grain crop, and the Colony has specialised in the production of the flat whites used overseas chiefly for manufacturing purposes. The quality ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHERNRH_286",
+        "description": "established and production reaches about 2,000 tons annually. Many settlers, particularly those on the lighter types of soil, make this their main crop. Here the prospects for future development are of the brightest, for in addition to a strong deman",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHERNRH_287",
+        "description": "established on Direction Island, in the north-eastern part of the group. The population numbers about 795.\n\nChristmas Island, situated in the Indian Ocean, 190 miles S. of Java, lat. 10° 30' S., long. 106° 40' E., was annexed in June, 1888",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHERNRH_288",
+        "description": "founded by fugitives from the sack of Singapore, and known as an important independent State from early in the fifteenth century, is one of the oldest European settlements in the East, having been captured by the Portuguese under Albuquerque in 1511",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHERNRH_289",
+        "description": "captured by the Portuguese in 1511",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHERNRH_290",
+        "description": "established than Penang in its turn had to yield the first place to Singapore, and came to depend chiefly on the local trade. At first unimportant, that trade has now assumed enormous proportions, owing to the development of the rich tin-mining areas",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHERNRH_291",
+        "description": "ceded by Perak in 1826",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHERNRH_292",
+        "description": "founded by immigrants from Sumatra. It rose into prominence in the fourteenth century. Its greatness came to a sudden end in 1377",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHERNRH_293",
+        "description": "established, consisting of official and unofficial members, under the chairmanship of the Director of Education. Provision has been made by the same Ordinance for the levying of an Education Rate, the expenditure of which is under the control of the ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHERNRH_294",
+        "description": "1st August 1900, the widening of the\ngauge of the Beira Railway to 3 feet 6 inches, the standard gauge of South Africa, was completed.",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHWESTA_295",
+        "description": "established.\n\nThe supply of intoxicating liquor to the natives is prohibited, as also is any system of forced labour.\n\nThe administration of the country is conducted from central offices situated at Windhoek, and the country is divided into 17 distri",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHWESTA_296",
+        "description": "established, the whole of the troops have been withdrawn, and the Government is now conducted on a purely civil basis. Its administration has been vested by the Union Parliament in the Governor-General of the Union, but the latter has under due autho",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SOUTHWESTA_297",
+        "description": "established, and Government ground is being rapidly allotted to suitable applicants on 5 years' leases, with the option of purchase on very easy terms as to instalments. Personal occupation is essential.\n\nAs in almost all cases boring is necessary in",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STHELENAdi_298",
+        "description": "discovered by the Portuguese Commander Juan de Nova Castella, on St. Helena's day, May 21st, 1502",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STHELENAca_299",
+        "description": "captured by the West Coast squadron. As early as 1818",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STHELENAes_300",
+        "description": "established in August, 1907",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STHELENAes_301",
+        "description": "established in January, 1920",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STHELENAes_302",
+        "description": "established in 1885",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STLUCIAdis_303",
+        "description": "discovered by Columbus during his fourth voyage, on the 15th June, 1502",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STLUCIAced_304",
+        "description": "ceded it to the French West India Company, who in 1660",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STLUCIAest_305",
+        "description": "established in 1871",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STVINCENTd_306",
+        "description": "discovered by Columbus on the 22nd of January, 1498",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STVINCENTe_307",
+        "description": "established, having 1 central and 7 branch exchanges, with 173 connections and some 169 miles of line.\n\nHistory.\n\nAt the time of its discovery, St. Vincent, like some of the other small islands, was inhabited by the Caribs, who continued in the undis",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STVINCENTc_308",
+        "description": "ceded to Great Britain, when General Melville was appointed Governor.\n\nBy a treaty, which was concluded in February, 1773",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STVINCENTe_309",
+        "description": "established, and was followed in 1836",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STVINCENTe_310",
+        "description": "established in 1866",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STVINCENT1_311",
+        "description": "11 July 1886\nCol.",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STVINCENT4_312",
+        "description": "4 June 1887\nH.",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STVINCENT1_313",
+        "description": "12 May 1888\nEdw.",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STVINCENT1_314",
+        "description": "14 May 1889\nThe Hon.",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STVINCENT2_315",
+        "description": "27 May 1890\nR.",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STVINCENT8_316",
+        "description": "8 June 1891\nR.",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STVINCENT1_317",
+        "description": "13 April 1892\n\n**FINANCES.",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STRAITSSET_318",
+        "description": "founded great hopes of the success of the new settlement were based upon the existence of rich coal deposits in the island, but hitherto the companies formed to develop these coal resources have not met with great success. In 1893",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STRAITSSET_319",
+        "description": "established by a London syndicate, is at work at Brunei, and coal is worked by the Raja of Sarawak at Muara (Brooketon) at the mouth of the Brunei river, under the terms of a concession granted in 1882",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STRAITSSET_320",
+        "description": "ceded to the British the Dindings and the island of Pangkor as posts for the suppression of piracy, and agreed to rely solely on the protection of Great Britain. From 1872",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STRAITSSET_321",
+        "description": "captured the Ruler of Pahang, and married his daughter. Before the Malacca royal house died out, in 1599",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STRAITSSET_322",
+        "description": "established on the Larut Hills, on Gunong Kledang, and on Gunong Arang Para, at heights varying from 3,300 to 4,500 feet. Experimental gardens with English flowers and vegetables are to be found on the Larut Hills.\n\nThe chief exports are tin and rubb",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STRAITSSET_323",
+        "description": "ceded to Pérak, and the State now includes the whole watershed of the river that gives it its name. The new territory, which was taken over on the 16th July, 1909",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STRAITSSET_324",
+        "description": "ceded by Kedah to Sir George Leith, on behalf of the Company, by the treaty of 1890",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STRAITSSET_325",
+        "description": "ceded to Siam in the treaty of 1909",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STRAITSSET_326",
+        "description": "established Oppenhoefda (Commandants) in Kedah from 1654",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STRAITSSET_327",
+        "description": "discovered, with the exception of a deposit of marble which may prove to be of value.\n\nClimate.\n\nThe climate resembles that of Perak. Meteorological returns kept in ten places record an average shade temperature in the daytime rising to over 90 deg. ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STRAITSSET_328",
+        "description": "established with a daily train service each way, Sundays excepted.\n\nThe main industries of the State are agricultural. The soil is exceedingly fertile. The chief product is padi, the annual harvest of which amounts to 70,000 tons. Kelantan is one of ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STRAITSSET_329",
+        "description": "established between the State, the Federated Malay States, and the Straits Settlements in March, 1922",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STRAITSSET_330",
+        "description": "established a protectorate. This arrangement was recognised by the British Government in 1886",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STRAITSSET_331",
+        "description": "established in that area on January 1st, 1917",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_STRAITSSET_332",
+        "description": "established communication with all parts of the world.\n\nLetter mails from the United Kingdom are despatched fortnightly from London via Marseilles, whence they are conveyed by the Messageries Maritimes, the time of transit being approximately 21 days",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SWAZILANDc_333",
+        "description": "ceded whatever rights he had in the Lydenburg District to the Lydenburg Republic. Subsequently he, and later, Mbandini, entered into agreements purporting to cede the whole of the territory to that Republic and to its successor the late South African",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SWAZILANDe_334",
+        "description": "established.\n\nIn accordance with the powers granted to him, the Governor issued a Proclamation in 1904",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SWAZILANDe_335",
+        "description": "established with the rights of appeal to the Supreme Court of the Transvaal, and an appeal was permitted from the decisions of the chiefs in civil matters to the Court of the Resident Magistrate. The chiefs were otherwise confirmed in their civil jur",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SWAZILANDe_336",
+        "description": "established together with Courts of Assistant Commissioners with a limited jurisdiction.\n\nThe paramount chief and other chiefs were confirmed in their Civil Jurisdiction over natives subject to appeal to the Resident Commissioner. Provision was made ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_SWAZILANDe_337",
+        "description": "established a native school at Zombode, at which the paramount chief was educated. The Government also maintains 12 schools for European children at various centres, and makes annual grants to the various native missions which undertake native educat",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_THEGAMBIAC_338",
+        "description": "Ceded Mile, the territories of Brefet and Rajana, and MacCarthy Island, situated between the Falls of Barraconda and Bathurst, and 158 miles distant from the latter. This island forms the line of demarcation between those portions of the river known ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_THEGAMBIAd_339",
+        "description": "discovered by the early Portuguese navigators, but they made no settlement.\n\nIn 1588",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_THEGAMBIAe_340",
+        "description": "established at Albreda on the north bank of the river. The same treaty gave the Senegal river to the French, with the exception of an exclusive right to trade with the Arabs at Portendic for gum, which was retained by England. The year 1807",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_THEGAMBIAc_341",
+        "description": "ceded mile was granted by the King of Barra in 1826",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_THEGAMBIAe_342",
+        "description": "established in 1894",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_THEGAMBIAc_343",
+        "description": "captured and deported to Saint Louis, where he died.\n\nIn 1897",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_THEGAMBIAe_344",
+        "description": "established since 1894",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_THEGAMBIAc_345",
+        "description": "captured by the French, handed over to the British Government, tried and sentenced to death in the Supreme Court, and executed at Dumbuta, a large village near the scene of the murder of the two Commissioners.\n\nInhabitants of the Gambia.\n\nThe inhabit",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_THEGAMBIAe_346",
+        "description": "established in 1886",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_347",
+        "description": "discovered by Columbus, on his third voyage, on the 31st July, 1498",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_348",
+        "description": "founded town of St. Joseph, and it was included in the Earl of Montgomery's grant, 1628",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_349",
+        "description": "ceded to the Crown of Great Britain by the Treaty of Amiens.\n\nThe population of Trinidad and Tobago at the census of 1921",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_350",
+        "description": "established in the harbour off Chaguaramas, has an over-all length of 365 feet and a clear beam of 56 feet (which can be increased to 65 feet). All kinds of ship repairs (hull and machinery) are also undertaken by the administration. Its lifting powe",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_351",
+        "description": "established in 1906",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_352",
+        "description": "established, and during cable interruptions all traffic between Trinidad and British Guiana is dealt with by the Port of Spain wireless station.\n\nSteamers calling at Trinidad comprised the following lines, besides a number of steamers calling for bun",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_353",
+        "description": "established in 25 districts with a head office in Port-of-Spain. The total number of depositors at 31st December, 1923",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_354",
+        "description": "established in 1906",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_355",
+        "description": "discovered by Columbus in 1498",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_356",
+        "description": "established themselves on the southern coast; but in 1658",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_357",
+        "description": "ceded by France to England in perpetuity.\nIn 1781",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_358",
+        "description": "captured by the French under the Duke of Bouillé, after a most gallant defence by the Colonists. In 1783",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_359",
+        "description": "captured by a British force under Admiral Lefrey and General Cuyler, and was once more restored to the French by the Treaty of Peace in 1802",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_360",
+        "description": "ceded in perpetuity to the British Crown.\n\nSituation and Area.\n\nTobago lies between 11° 8' and 11° 21' N. lat. and 60° 30' and 60° 50' W. long., distant from Barbados about 120 miles, from Grenada about 75 miles, and about 26 N.E. of Trinidad, and ex",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_361",
+        "description": "established by an Order in Council of the 7th of February, 1877",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_362",
+        "description": "12th February 1797, Great Britain being then at war with Spain, a British expedition sailed from Martinique for the reduction of Trinidad.",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_363",
+        "description": "2 June 1897 Sir H.",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_364",
+        "description": "12 May 1909 Sir George R.",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TRINIDADAN_365",
+        "description": "1 June 1916 Lieut.",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TURKSANDCA_366",
+        "description": "established by the Direct West India Cable Company in January, 1898",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TURKSANDCA_367",
+        "description": "established by wireless telephone. The station at Grand Turk is also a telegraphic one with a sending range of about 500 miles.\n\nEducation.\n\nIn 1921",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TURKSANDCA_368",
+        "description": "established on 1st Jan., 1890",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TURKSANDCA_369",
+        "description": "established here in respect of a population estimated as under:\n\n| Year | Europeans | Asiatics | Natives |\n|------|-----------|----------|---------|\n| 1923",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TURKSANDCA_370",
+        "description": "discovered by Columbus on his second voyage, in 1493",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TURKSANDCA_371",
+        "description": "established in all the Presidencies.\n\n| Year       | Imports | Exports | Revenue | Expenditure |\n|------------|---------|---------|---------|-------------|\n| 1914",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TURKSANDCA_372",
+        "description": "established in each Presidency, except Montserrat and the Virgin Islands. Provision is also made for agricultural instruction. The amount of Government Grant to secondary schools in the Colony exceeds 2,447£ for over 316 scholars.\n\nLast of Governors ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TURKSANDCA_373",
+        "description": "discovered in 1866",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TURKSANDCA_374",
+        "description": "discovered by Columbus in 1493",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TURKSANDCA_375",
+        "description": "ceded to Great Britain by the Treaty of Utrecht.\n\nFor seventy years there was peace, and then, in 1782",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_TURKSANDCA_376",
+        "description": "discovered in 1498",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_UGANDAesta_377",
+        "description": "established. Unfortunately discontent arose amongst a section of the Sudanese force. These Sudanese broke into open mutiny at the end of 1897",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_UGANDAcapt_378",
+        "description": "captured, and sent as prisoners to Kisamayu. In 1901",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_WEIHAIWEIe_379",
+        "description": "established as in the Gilbert and Ellice Groups. A District Officer supervises the Ellice and Union Groups, but communication between them is limited to about three calls a year.\n\nFANNING AND WASHINGTON ISLANDS lie about 3° 51' N. latitude, and 159° ",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_WEIHAIWEIe_380",
+        "description": "established over 60 years), with at present about 3,000 adherents only; the Wesleyan \"Free Church of Tonga,\" with about 15,000 adherents; the Roman Catholic, with about 3,000 adherents; the \"Free Church of England,\" the number of whose adherents is u",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_WEIHAIWEIe_381",
+        "description": "established by the Melanesian Missionary Society, by the Presbyterian churches of Canada and Australia, and by the Roman Catholic Church.\n\nThe principal exports are copra, maize, and coffee; timber, cotton and sulphur are also exported. The climate o",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_WEIHAIWEId_382",
+        "description": "discovered by Carteret in 1767",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_WEIHAIWEIe_383",
+        "description": "established, but assistance of various kinds was given on the subsequent visits of English vessels. In 1856",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_WEIHAIWEIc_384",
+        "description": "ceded to the French. In 1838",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_ZANZIBARce_385",
+        "description": "ceded Heligoland to Germany. In the same year the mainland possessions which extended over the coast of East Africa, from Warmbein in 3° N. latitude to Tunghi Bay in 10°-42° S. latitude were ceded to Italy, Great Britain and Germany respectively, Gre",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_ZANZIBARdi_386",
+        "description": "discovered by Captain Fearn in 1798",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_ZANZIBARdi_387",
+        "description": "discovered is Kinabalu, over 13,000 feet.\n\nThe inhabitants, who according to the Census taken in 1921",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_ZANZIBARes_388",
+        "description": "established in 1747",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_ZANZIBARce_389",
+        "description": "ceded by the Sultan of Sulu. This was attacked by pirates in 1775",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_ZANZIBARes_390",
+        "description": "established at Brunei. A second attempt in 1803",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_ZANZIBARes_391",
+        "description": "established the independent State of Sarawak, which, as well as Brunei, is under the exclusive influence of Great Britain; and Labuan became a British Colony in 1846",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_ZANZIBARes_392",
+        "description": "established itself in...\nSandakan, the business of which was later carried on by its manager, Mr. W. C. Cowie. Finally, in 1877",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_ZANZIBARce_393",
+        "description": "ceded to a syndicate formed by Baron Overbeck and Mr. (afterwards Sir Alfred) Dent the greater portion of the territory now known as the State of North Borneo. This syndicate's rights were acquired in 1881",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_ZANZIBARes_394",
+        "description": "established in the Labuk District for this purpose.\n\nThe exports comprise also, sago, coffee, pepper, gutta-percha, rotan, firewood, salt fish, beeswax, edible birds' nests, camphor, resin (called damar), cattle, etc., sent almost entirely to Singapo",
+        "locations": [],
+        "year_mentioned": "1925"
+      },
+      {
+        "id": "event_1925_ZANZIBARdi_395",
+        "description": "discovered. Indications of the presence of petroleum occur in many parts of the State and prospecting work is being carried out by concessionary companies.\n\nCurrency and Banking.\n\nThe Company has a copper coinage of ½ and 1 cent. pieces, a nickel coi",
+        "locations": [],
+        "year_mentioned": "1925"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_1925_CBruce_1",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_1925_MAURITIUS_20",
+      "properties": {
+        "year": "1925"
+      }
+    },
+    {
+      "source_id": "person_1925_CavendishB_2",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_1925_MAURITIUS_20",
+      "properties": {
+        "year": "1925"
+      }
+    },
+    {
+      "source_id": "person_1925_JBChancell_3",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_1925_MAURITIUS_20",
+      "properties": {
+        "year": "1925"
+      }
+    },
+    {
+      "source_id": "person_1925_HezekiahBe_4",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_1925_MAURITIUS_20",
+      "properties": {
+        "year": "1925"
+      }
+    }
+  ]
+}

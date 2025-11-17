@@ -1,0 +1,3211 @@
+{
+  "metadata": {
+    "year": "1897",
+    "source_directory": "/home/user/colonial_office_list/output_2/1897_manual_parsed",
+    "extraction_date": "2025-11-16T00:00:00Z",
+    "processing_notes": "Comprehensive knowledge graph extraction from Colonial Office List 1897. Extracted from 39 colony/territory files containing detailed administrative, geographic, economic, demographic, and prosopographic data. All data extracted exactly as written in source documents, preserving historical spelling and terminology.",
+    "colonies_processed": [
+      "ANTIGUA",
+      "BAHAMAS",
+      "BARBADOS",
+      "BASUTOLAND",
+      "BERMUDA",
+      "BRITISH_GUIANA",
+      "BRITISH_HONDURAS",
+      "BRITISH_NEW_GUINEA",
+      "CAPE_OF_GOOD_HOPE",
+      "CEYLON",
+      "CYPRUS",
+      "DOMINICA",
+      "DOMINION_OF_CANADA",
+      "FIJI",
+      "HONG_KONG",
+      "JAMAICA",
+      "LABUAN",
+      "LAGOS",
+      "MAURITIUS",
+      "NEWFOUNDLAND",
+      "NEW_SOUTH_WALES",
+      "NEW_ZEALAND",
+      "NIGER_COAST_PROTECTORATE",
+      "NOVA_SCOTIA",
+      "PRINCE_EDWARD_ISLAND",
+      "QUEENSLAND",
+      "SOUTH_AUSTRALIA",
+      "STRAITS_SETTLEMENTS",
+      "ST_HELENA",
+      "ST_LUCIA",
+      "ST_VINCENT",
+      "TASMANIA",
+      "THE_GAMBIA",
+      "TOBAGO",
+      "TRINIDAD",
+      "TRISTAN_DACUNHA",
+      "VICTORIA",
+      "WESTERN_AUSTRALIA",
+      "ZULULAND"
+    ]
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_antigua_001",
+        "name": "Antigua",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "17° 6' N",
+          "longitude": "61° 45' W"
+        },
+        "area": {
+          "value": 108,
+          "unit": "square miles"
+        },
+        "description": "Island about 54 miles in circumference, about half the size of Middlesex",
+        "year": "1897"
+      },
+      {
+        "id": "place_barbuda_001",
+        "name": "Barbuda",
+        "type": "dependency",
+        "area": {
+          "value": 62,
+          "unit": "square miles"
+        },
+        "description": "Dependency of Antigua, lying about 25 miles due north of the main island, very flat, with a large lagoon on the west side, separated from the sea by a spit of sand. Once owned by the Codrington family. Produces salt and phosphates of lime, well adapted for cattle grazing",
+        "parent_location": "place_antigua_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_redonda_001",
+        "name": "Redonda",
+        "type": "dependency",
+        "coordinates": {
+          "latitude": "25° 6' N",
+          "longitude": "61° 35' W"
+        },
+        "description": "Dependency of Antigua, lying between Montserrat and Nevis, 25 miles S.W. of Antigua, 1 mile by 1/4 mile, 1,000 feet high, valuable for phosphate of alumina mines discovered 1865",
+        "parent_location": "place_antigua_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_st_john_antigua_001",
+        "name": "St. John",
+        "type": "city",
+        "description": "Chief town of Antigua, port of registry",
+        "parent_location": "place_antigua_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_falmouth_antigua_001",
+        "name": "Falmouth",
+        "type": "town",
+        "parent_location": "place_antigua_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_parham_antigua_001",
+        "name": "Parham",
+        "type": "town",
+        "parent_location": "place_antigua_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_bahamas_001",
+        "name": "Bahamas",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "21° 42' to 27° 34' N",
+          "longitude": "72° 40' to 79° 5' W"
+        },
+        "area": {
+          "value": 4466,
+          "unit": "square miles"
+        },
+        "description": "Chain of coral islands, most northerly of the British West Indian Colonies, composed of about 20 inhabited islands and an immense number of islets and rocks, about half the size of Wales",
+        "year": "1897"
+      },
+      {
+        "id": "place_new_providence_001",
+        "name": "New Providence",
+        "type": "island",
+        "description": "Principal island containing the capital, Nassau",
+        "parent_location": "place_bahamas_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_nassau_001",
+        "name": "Nassau",
+        "type": "city",
+        "description": "Capital of Bahamas, port of registry",
+        "parent_location": "place_new_providence_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_barbados_001",
+        "name": "Barbados",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "13° 4' N",
+          "longitude": "59° 37' W"
+        },
+        "area": {
+          "value": 166,
+          "unit": "square miles"
+        },
+        "description": "Most easterly of the Caribbean Islands, nearly 21 miles long by 14 in breadth, contains 106,470 acres, a little larger than Rutland",
+        "year": "1897"
+      },
+      {
+        "id": "place_bridgetown_001",
+        "name": "Bridgetown",
+        "type": "city",
+        "coordinates": {
+          "latitude": "13° 5' 42\" N",
+          "longitude": "3° 58' 29\" W"
+        },
+        "description": "Chief town and port of Barbados, situated in parish of St. Michael, port of registry",
+        "parent_location": "place_barbados_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_speightstown_001",
+        "name": "Speightstown",
+        "type": "town",
+        "description": "Only other town besides Bridgetown, has about 1,500 inhabitants",
+        "parent_location": "place_barbados_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_carlisle_bay_001",
+        "name": "Carlisle Bay",
+        "type": "harbor",
+        "description": "Harbour of Barbados, an open roadstead much exposed to wind from south and south-west, has inner harbour or careenage protected by structure called the Mole Head",
+        "parent_location": "place_barbados_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_cape_good_hope_001",
+        "name": "Cape of Good Hope",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "26° to 35° S",
+          "longitude": "17° to 34° E"
+        },
+        "area": {
+          "value": 276902,
+          "unit": "square miles"
+        },
+        "description": "Colony with Transkei, over five times the size of England, bounded by Atlantic and Southern (Indian) Oceans on west and south, Orange River on north, Orange Free State and Natal on north-west, and Pondoland on east",
+        "year": "1897"
+      },
+      {
+        "id": "place_cape_town_001",
+        "name": "Cape Town",
+        "type": "city",
+        "description": "Capital and principal city, port of registry",
+        "parent_location": "place_cape_good_hope_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_kimberley_001",
+        "name": "Kimberley",
+        "type": "city",
+        "description": "Centre of the Diamond Fields, 647 miles from Capetown and 485 from Port Elizabeth",
+        "parent_location": "place_cape_good_hope_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_port_elizabeth_001",
+        "name": "Port Elizabeth",
+        "type": "city",
+        "description": "Port of registry, 340 miles from De Aar junction",
+        "parent_location": "place_cape_good_hope_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_east_london_001",
+        "name": "East London",
+        "type": "city",
+        "description": "Port and city, port of registry",
+        "parent_location": "place_cape_good_hope_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_ceylon_001",
+        "name": "Ceylon",
+        "modern_name": "Sri Lanka",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "5° 53' to 9° 51' N",
+          "longitude": "79° 41' to 81° 54' E"
+        },
+        "area": {
+          "value": 25365,
+          "unit": "square miles"
+        },
+        "description": "Island in Indian Ocean off southern extremity of Hindustan, ancient Taprobane, extreme length from Point Palmyra to Dondra Head is 266 miles, greatest width 140.5 miles, about equal to Holland and Belgium",
+        "year": "1897"
+      },
+      {
+        "id": "place_colombo_001",
+        "name": "Colombo",
+        "type": "city",
+        "description": "Capital and principal port",
+        "parent_location": "place_ceylon_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_kandy_001",
+        "name": "Kandy",
+        "type": "city",
+        "description": "City at 1,865 feet above sea level",
+        "parent_location": "place_ceylon_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_hong_kong_001",
+        "name": "Hong Kong",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "22° 9' to 22° 17' N",
+          "longitude": "114° 5' to 114° 18' E"
+        },
+        "area": {
+          "value": 29,
+          "unit": "square miles"
+        },
+        "description": "Island off south-eastern coast of China at mouth of Canton River, about 40 miles east of Macao, 91 miles south of Canton, irregular ridge with broken peaks rising to nearly 2,000 feet, a third larger than Guernsey",
+        "year": "1897"
+      },
+      {
+        "id": "place_kowloon_001",
+        "name": "Kowloon",
+        "type": "territory",
+        "area": {
+          "value": 23,
+          "unit": "square miles"
+        },
+        "description": "Peninsula ceded to Great Britain by Treaty 1861, forms part of the Colony",
+        "parent_location": "place_hong_kong_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_victoria_hk_001",
+        "name": "Victoria",
+        "type": "city",
+        "description": "City of Hong Kong, extends for four miles at base of hills protecting south side of harbour, contains with suburbs more than 200,000 inhabitants",
+        "parent_location": "place_hong_kong_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_jamaica_001",
+        "name": "Jamaica",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "17° 43' to 18° 32' N",
+          "longitude": "76° 10' to 78° 20' W"
+        },
+        "area": {
+          "value": 4207,
+          "unit": "square miles"
+        },
+        "description": "Island in Caribbean Sea south of eastern extremity of Cuba, largest of British West Indies, 144 miles in length, 50 in extreme breadth, about half the size of Wales, very mountainous",
+        "year": "1897"
+      },
+      {
+        "id": "place_kingston_001",
+        "name": "Kingston",
+        "type": "city",
+        "description": "Capital of Jamaica, situated on south coast, port of registry, fine harbour",
+        "parent_location": "place_jamaica_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_blue_mountains_001",
+        "name": "Blue Mountains",
+        "type": "mountain",
+        "description": "Famous mountain range in east of Jamaica, highest peak 7,400 ft. high",
+        "parent_location": "place_jamaica_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_grand_cayman_001",
+        "name": "Grand Cayman",
+        "type": "island",
+        "description": "Largest of Cayman Islands, dependency of Jamaica, between 19° 10' and 19° 45' N lat. and 79° 30' and 80° 35' W long., contains about 2,000 inhabitants engaged in catching turtle for export",
+        "parent_location": "place_jamaica_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_mauritius_001",
+        "name": "Mauritius",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "19° 58' to 20° 32' S",
+          "longitude": "57° 18' to 57° 49' E"
+        },
+        "area": {
+          "value": 705,
+          "unit": "square miles"
+        },
+        "description": "Island in Indian Ocean, nearly equal to Surrey, extreme length 36 miles from north to south, extreme breadth 28 miles from east to west, volcanic formation, surrounded by coral reefs",
+        "year": "1897"
+      },
+      {
+        "id": "place_port_louis_001",
+        "name": "Port Louis",
+        "type": "city",
+        "description": "Capital and seat of Government, contains with suburbs 57,367 souls, one of the best harbours in the East, possesses three graving docks, defended by Fort Adelaide and Fort George",
+        "parent_location": "place_mauritius_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_trinidad_001",
+        "name": "Trinidad",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "10° 3' to 10° 50' N",
+          "longitude": "61° 39' to 62° 0' W"
+        },
+        "area": {
+          "value": 1754,
+          "unit": "square miles"
+        },
+        "description": "Island about 16 miles eastward of Venezuela, average length 48 miles, average breadth 35 miles, separated from continent by Gulf of Paria",
+        "year": "1897"
+      },
+      {
+        "id": "place_port_of_spain_001",
+        "name": "Port of Spain",
+        "type": "city",
+        "description": "Chief town and principal port, situated near north-east angle of Gulf of Paria, port of registry",
+        "parent_location": "place_trinidad_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_san_fernando_001",
+        "name": "San Fernando",
+        "type": "town",
+        "description": "Second town and port, about 30 miles south of Port of Spain",
+        "parent_location": "place_trinidad_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_singapore_001",
+        "name": "Singapore",
+        "type": "settlement",
+        "coordinates": {
+          "latitude": "1° 10' N",
+          "longitude": "103° 50' E"
+        },
+        "area": {
+          "value": 206,
+          "unit": "square miles"
+        },
+        "description": "Island at southern extremity of Malayan Peninsula, greatest length about 27 miles by 14 wide, separated from mainland by narrow strait about three-quarters of a mile width, seat of government",
+        "parent_location": "place_straits_settlements_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_straits_settlements_001",
+        "name": "Straits Settlements",
+        "type": "colony",
+        "area": {
+          "value": 1542,
+          "unit": "square miles"
+        },
+        "description": "Colony comprising Singapore, Penang, and Malacca, nearly equal to Kent, transferred from Indian Government to Secretary of State for Colonies 1st April 1867",
+        "year": "1897"
+      },
+      {
+        "id": "place_penang_001",
+        "name": "Penang",
+        "modern_name": "Prince of Wales Island (official)",
+        "type": "settlement",
+        "coordinates": {
+          "latitude": "5° N"
+        },
+        "area": {
+          "value": 107,
+          "unit": "square miles"
+        },
+        "description": "Island about 15 miles long and 9 broad, situated off west coast of Malayan Peninsula at northern extremity of entrance to Straits of Malacca",
+        "parent_location": "place_straits_settlements_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_malacca_001",
+        "name": "Malacca",
+        "type": "settlement",
+        "coordinates": {
+          "latitude": "2° 10' N",
+          "longitude": "102° 14' E"
+        },
+        "area": {
+          "value": 659,
+          "unit": "square miles"
+        },
+        "description": "Strip of territory on western coast of peninsula between Singapore and Penang, about 110 miles from former and 240 from latter, about 42 miles in length, from 8 to 25 miles in breadth",
+        "parent_location": "place_straits_settlements_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_newfoundland_001",
+        "name": "Newfoundland",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "37° to 51° 39' N",
+          "longitude": "52° 25' to 58° W"
+        },
+        "area": {
+          "value": 40200,
+          "unit": "square miles"
+        },
+        "description": "Island on north-east side of Gulf of Lawrence, greatest length from north to south 350 miles, average breadth about 150, one-third of that of United Kingdom",
+        "year": "1897"
+      },
+      {
+        "id": "place_labrador_001",
+        "name": "Labrador",
+        "type": "territory",
+        "area": {
+          "value": 120000,
+          "unit": "square miles"
+        },
+        "description": "Territory from Cape Chilley (Hudson Strait) to Blanc Sablon (Strait of Belle Isle), including basin of Hamilton, included in colony by Letters Patent 28th March 1876, equal to that of United Kingdom, with coastline of some 600 miles",
+        "parent_location": "place_newfoundland_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_st_johns_nf_001",
+        "name": "St. John's",
+        "type": "city",
+        "description": "Capital of Newfoundland",
+        "parent_location": "place_newfoundland_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_cyprus_001",
+        "name": "Cyprus",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "34° 33' to 35° 41' N",
+          "longitude": "32° 20' to 34° 35' E"
+        },
+        "area": {
+          "value": 3581,
+          "unit": "square miles"
+        },
+        "description": "Island in eastern basin of Mediterranean Sea, with Asia Minor to north and Syria to east, equal to Kent, Sussex, and Middlesex combined, largest island in Mediterranean except Sicily and Sardinia, greatest length 140 miles, greatest breadth 60 miles",
+        "year": "1897"
+      },
+      {
+        "id": "place_nicosia_001",
+        "name": "Nicosia",
+        "type": "city",
+        "description": "City in Cyprus",
+        "parent_location": "place_cyprus_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_larnaca_001",
+        "name": "Larnaca",
+        "type": "city",
+        "coordinates": {
+          "latitude": "approx 35° N",
+          "longitude": "approx 33° E"
+        },
+        "description": "Port on southern coast, 258 miles from Port Said and 1,117 miles from Valletta",
+        "parent_location": "place_cyprus_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_lagos_001",
+        "name": "Lagos",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "approx 6° N",
+          "longitude": "approx 3° to 6° E"
+        },
+        "description": "Colony and Protectorate situated on Bight of Benin, Lagos Island is 3.5 square miles, whole Colony and Protectorate probably includes about 1,500 square miles, port is 4,279 miles from Liverpool",
+        "year": "1897"
+      },
+      {
+        "id": "place_lagos_island_001",
+        "name": "Lagos Island",
+        "type": "island",
+        "area": {
+          "value": 3.5,
+          "unit": "square miles"
+        },
+        "description": "Capital of the Colony",
+        "parent_location": "place_lagos_001",
+        "year": "1897"
+      },
+      {
+        "id": "place_st_helena_001",
+        "name": "St. Helena",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "15° 53' S",
+          "longitude": "5° 42' W"
+        },
+        "area": {
+          "value": 47,
+          "unit": "square miles"
+        },
+        "description": "Island in South Atlantic Ocean, 800 miles S.E. of Ascension, 1,300 from coast of Africa, 10.5 miles long and 3.5 wide, about 30,000 acres, a little larger than Jersey, 4,477 miles from Southampton and 1,695 miles from Cape Town",
+        "year": "1897"
+      },
+      {
+        "id": "place_jamestown_001",
+        "name": "Jamestown",
+        "type": "town",
+        "description": "Capital and only town of St. Helena, N.W. of the island",
+        "parent_location": "place_st_helena_001",
+        "year": "1897"
+      }
+    ],
+    "people": [
+      {
+        "id": "person_foote_thomas_001",
+        "name": "Thomas D. Foote",
+        "positions": [
+          {
+            "title": "Member of Executive Council",
+            "location": "Antigua",
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_shand_ga_001",
+        "name": "G. A. Shand",
+        "positions": [
+          {
+            "title": "Member of Executive Council",
+            "location": "Antigua",
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_lane_edgar_001",
+        "name": "Edgar H. Lane",
+        "positions": [
+          {
+            "title": "Member of Executive Council",
+            "location": "Antigua",
+            "year": "1897"
+          },
+          {
+            "title": "Nominee of the Crown, Legislative Council",
+            "location": "Antigua",
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_foote_john_001",
+        "name": "John F. Foote",
+        "positions": [
+          {
+            "title": "Member of Executive Council",
+            "location": "Antigua",
+            "year": "1897"
+          },
+          {
+            "title": "Elected Member, Legislative Council",
+            "location": "Antigua",
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_whyham_wh_001",
+        "name": "W. H. Whyham",
+        "positions": [
+          {
+            "title": "Member of Executive Council",
+            "location": "Antigua",
+            "year": "1897"
+          },
+          {
+            "title": "President, Legislative Council",
+            "location": "Antigua",
+            "year": "1897"
+          },
+          {
+            "title": "District Magistrate",
+            "location": "Antigua",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_faile_gc_001",
+        "name": "G. C. Faile",
+        "positions": [
+          {
+            "title": "Clerk, Executive Council",
+            "location": "Antigua",
+            "year": "1897"
+          },
+          {
+            "title": "Clerk, Civil Establishment",
+            "location": "Antigua",
+            "salary": {
+              "amount": 150,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_edwards_wh_001",
+        "name": "Dr. W. H. Edwards",
+        "titles": [
+          "Dr."
+        ],
+        "positions": [
+          {
+            "title": "Nominee of the Crown, Legislative Council",
+            "location": "Antigua",
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_major_c_001",
+        "name": "C. Major",
+        "positions": [
+          {
+            "title": "Nominee of the Crown, Legislative Council",
+            "location": "Antigua",
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_humphrys_o_001",
+        "name": "O. Humphrys",
+        "positions": [
+          {
+            "title": "Nominee of the Crown, Legislative Council",
+            "location": "Antigua",
+            "year": "1897"
+          },
+          {
+            "title": "Proctor Marshal and Registrar",
+            "location": "Antigua",
+            "salary": {
+              "amount": 25,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_perez_ge_001",
+        "name": "G. E. Pérez",
+        "positions": [
+          {
+            "title": "Nominee of the Crown, Legislative Council",
+            "location": "Antigua",
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_acourt_awh_001",
+        "name": "A. W. H. A'Court",
+        "titles": [
+          "Hon."
+        ],
+        "positions": [
+          {
+            "title": "Nominee of the Crown, Legislative Council",
+            "location": "Antigua",
+            "year": "1897"
+          },
+          {
+            "title": "Surveyor of Public Works, Roads, &c.",
+            "location": "Antigua",
+            "salary": {
+              "amount": 350,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "horse",
+                "amount": 50,
+                "currency": "£"
+              }
+            ],
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_gordon_wm_001",
+        "name": "W. M. Gordon",
+        "positions": [
+          {
+            "title": "Clerk, Legislative Council",
+            "location": "Antigua",
+            "salary": {
+              "amount": 75,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_auchinleck_w_001",
+        "name": "W. Auchinleck",
+        "positions": [
+          {
+            "title": "Treasurer and Collector of Customs",
+            "location": "Antigua",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_haynes_smith_wf_001",
+        "name": "Sir W. F. Haynes Smith",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor, Commander-in-Chief, Vice-Admiral, and Ordinary",
+            "location": "Bahamas",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_mclachlan_jd_001",
+        "name": "Capt. J. D. McLachlan",
+        "titles": [
+          "Capt."
+        ],
+        "positions": [
+          {
+            "title": "Private Secretary and A.D.C.",
+            "location": "Bahamas",
+            "year": "1897"
+          },
+          {
+            "title": "Clerk, Legislature Council",
+            "location": "Bahamas",
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_churchill_jkgt_001",
+        "name": "J. K. G. T. Spencer Churchill",
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "location": "Bahamas",
+            "salary": {
+              "amount": 709,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_malcolm_od_001",
+        "name": "O. D. Malcolm",
+        "titles": [
+          "Q.C."
+        ],
+        "positions": [
+          {
+            "title": "Speaker, House of Assembly",
+            "location": "Bahamas",
+            "salary": {
+              "amount": 100,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          },
+          {
+            "title": "Attorney-General",
+            "location": "Bahamas",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_hay_james_shaw_001",
+        "name": "Sir James Shaw Hay",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Barbados",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "table",
+                "amount": 600,
+                "currency": "£",
+                "description": "table allowance per annum"
+              }
+            ],
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_barton_fr_001",
+        "name": "Lieut. F. R. Barton",
+        "titles": [
+          "Lieut."
+        ],
+        "positions": [
+          {
+            "title": "Private Secretary and A.D.C.",
+            "location": "Barbados",
+            "salary": {
+              "amount": 300,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_williams_ralph_001",
+        "name": "Ralph C. Williams",
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "location": "Barbados",
+            "salary": {
+              "amount": 850,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_howell_john_001",
+        "name": "John S. Howell",
+        "positions": [
+          {
+            "title": "Colonial Treasurer",
+            "location": "Barbados",
+            "salary": {
+              "amount": 1000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_gramann_et_001",
+        "name": "E. T. Gramann",
+        "positions": [
+          {
+            "title": "Auditor-General",
+            "location": "Barbados",
+            "salary": {
+              "amount": 600,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_reeves_wc_001",
+        "name": "Sir W. C. Reeves",
+        "titles": [
+          "Sir",
+          "Kt."
+        ],
+        "positions": [
+          {
+            "title": "Chief Justice",
+            "location": "Barbados",
+            "salary": {
+              "amount": 1500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_robinson_w_001",
+        "name": "Sir W. Robinson",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Hong Kong",
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_lockhart_jhs_001",
+        "name": "J. H. S. Lockhart",
+        "positions": [
+          {
+            "title": "Colonial Secretary and Registrar-General",
+            "location": "Hong Kong",
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_goodman_wm_001",
+        "name": "W. Meigh Goodman",
+        "positions": [
+          {
+            "title": "Attorney-General",
+            "location": "Hong Kong",
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_mitchell_innes_ng_001",
+        "name": "N. G. Mitchell-Innes",
+        "positions": [
+          {
+            "title": "Treasurer",
+            "location": "Hong Kong",
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_blake_ha_001",
+        "name": "Sir H. A. Blake",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary and Governor-in-Chief",
+            "location": "Jamaica",
+            "salary": {
+              "amount": 6000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_fitzgerald_george_001",
+        "name": "Lord George FitzGerald",
+        "titles": [
+          "Lord"
+        ],
+        "positions": [
+          {
+            "title": "Private Secretary",
+            "location": "Jamaica",
+            "salary": {
+              "amount": 400,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_jerningham_heh_001",
+        "name": "Sir H. E. H. Jerningham",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor (acting, then confirmed)",
+            "location": "Mauritius",
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_bruce_c_001",
+        "name": "Sir C. Bruce",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Mauritius",
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_obrien_gtm_001",
+        "name": "Sir G. T. M. O'Brien",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Commander-in-Chief and High Commissioner for the Western Pacific",
+            "location": "Fiji",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_stewart_james_001",
+        "name": "James Stewart",
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Assistant Colonial Secretary",
+            "location": "Fiji",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_sterndale_r_001",
+        "name": "R. Sterndale",
+        "positions": [
+          {
+            "title": "Governor, Chief Justice, and Colonial Secretary",
+            "location": "St. Helena",
+            "salary": {
+              "amount": 500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_hewetson_wm_001",
+        "name": "Com. Wm. Hewetson",
+        "titles": [
+          "Com."
+        ],
+        "positions": [
+          {
+            "title": "Receiver-General",
+            "location": "St. Helena",
+            "salary": {
+              "amount": 200,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1897"
+          },
+          {
+            "title": "Harbour Master",
+            "location": "St. Helena",
+            "year": "1897"
+          }
+        ]
+      },
+      {
+        "id": "person_welby_te_001",
+        "name": "Right Rev. T. E. Welby",
+        "titles": [
+          "Right Rev."
+        ],
+        "honors": [
+          "D.D."
+        ],
+        "positions": [
+          {
+            "title": "Bishop of St. Helena",
+            "location": "St. Helena",
+            "year": "1897"
+          }
+        ]
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_antigua_exec_council_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Antigua",
+        "composition": {
+          "description": "The Governor, The Colonial Secretary, The Attorney-General, The Auditor-General, The Treasurer, Thomas D. Foote, G. A. Shand, Edgar H. Lane, John F. Foote, W. H. Whyham",
+          "member_count": 10,
+          "members": [
+            "person_foote_thomas_001",
+            "person_shand_ga_001",
+            "person_lane_edgar_001",
+            "person_foote_john_001",
+            "person_whyham_wh_001"
+          ]
+        },
+        "year": "1897"
+      },
+      {
+        "id": "inst_antigua_leg_council_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Antigua",
+        "composition": {
+          "description": "24 members of which Colonial Secretary, Attorney-General, Auditor-General, and Treasurer are ex officio members; 8 members nominated by the Crown and 12 elected members",
+          "member_count": 24
+        },
+        "year": "1897"
+      },
+      {
+        "id": "inst_bahamas_exec_council_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Bahamas",
+        "composition": {
+          "description": "9 members",
+          "member_count": 9
+        },
+        "year": "1897"
+      },
+      {
+        "id": "inst_bahamas_leg_council_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Bahamas",
+        "composition": {
+          "description": "9 members nominated by the Crown",
+          "member_count": 9
+        },
+        "year": "1897"
+      },
+      {
+        "id": "inst_bahamas_assembly_001",
+        "name": "House of Assembly",
+        "type": "legislative_council",
+        "location": "Bahamas",
+        "composition": {
+          "description": "Representative Assembly of 29 members elected for 14 districts",
+          "member_count": 29
+        },
+        "year": "1897"
+      },
+      {
+        "id": "inst_barbados_exec_council_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Barbados",
+        "composition": {
+          "description": "The Governor, The Officer Commanding the Troops (Major-General R. Fowler Butler), The Colonial Secretary, The Attorney-General, Hon. Sir G. C. Pile M.L.C., Hon. A. J. Pile C.M.G. M.C.P."
+        },
+        "year": "1897"
+      },
+      {
+        "id": "inst_barbados_leg_council_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Barbados",
+        "composition": {
+          "description": "Hon. Sir Geo. C. Pile (President) and 6 other members"
+        },
+        "year": "1897"
+      },
+      {
+        "id": "inst_barbados_assembly_001",
+        "name": "House of Assembly",
+        "type": "legislative_council",
+        "location": "Barbados",
+        "composition": {
+          "description": "Elected annually (1894-95), Hon. A. J. Pile C.M.G. as Speaker"
+        },
+        "year": "1897"
+      },
+      {
+        "id": "inst_hong_kong_exec_council_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Hong Kong",
+        "composition": {
+          "description": "Six officials besides the Governor"
+        },
+        "year": "1897"
+      },
+      {
+        "id": "inst_hong_kong_leg_council_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Hong Kong",
+        "composition": {
+          "description": "Presided over by Governor, composed of six official and five unofficial members"
+        },
+        "year": "1897"
+      },
+      {
+        "id": "inst_jamaica_privy_council_001",
+        "name": "Privy Council",
+        "type": "privy_council",
+        "location": "Jamaica",
+        "composition": {
+          "description": "Lieutenant-Governor if any, Senior Military Officer in command, Colonial Secretary, Attorney-General and such other"
+        },
+        "year": "1897"
+      },
+      {
+        "id": "inst_jamaica_leg_council_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Jamaica",
+        "composition": {
+          "description": "Governor with casting vote, five ex officio members (Senior Military Officer, Colonial Secretary, Attorney-General, Director of Public Works, Collector-General), up to ten appointed members, and fourteen elected persons"
+        },
+        "year": "1897"
+      },
+      {
+        "id": "inst_fiji_exec_council_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Fiji",
+        "composition": {
+          "description": "The Governor, Attorney-General, Receiver-General, Commissioner of Lands, S. Carew (Resident Commissioner Colo East), James Stewart C.M.G. (Assistant Colonial Secretary), L. Allardyce (Native Commissioner)"
+        },
+        "year": "1897"
+      },
+      {
+        "id": "inst_fiji_leg_council_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Fiji",
+        "composition": {
+          "description": "The Governor, Chief Justice, Attorney-General, Receiver-General, Chief Medical Officer, Commissioner of Lands, and six unofficial members"
+        },
+        "year": "1897"
+      },
+      {
+        "id": "inst_st_helena_exec_council_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "St. Helena",
+        "composition": {
+          "description": "R. Sterndale Governor, The Lord Bishop of St. Helena, Major F. H. Peacock 1st Leic. Regt. Commanding the Troops, George Moss, Thomas E. Fowler"
+        },
+        "year": "1897"
+      },
+      {
+        "id": "inst_redonda_phosphate_co_001",
+        "name": "Redonda Phosphate Company",
+        "type": "commercial",
+        "location": "Redonda",
+        "function": "Works phosphate of alumina mines under license at 6d. per ton royalty, employs 90 men, exports on average 7,000 tons annually to United States",
+        "year": "1897"
+      },
+      {
+        "id": "inst_bank_nassau_001",
+        "name": "Bank of Nassau",
+        "type": "bank",
+        "location": "Bahamas",
+        "established": "1st June 1889",
+        "year": "1897"
+      },
+      {
+        "id": "inst_colonial_bank_barbados_001",
+        "name": "Colonial Bank",
+        "type": "bank",
+        "location": "Barbados",
+        "function": "Only bank doing business in Barbados, capital paid up 600,000£ sterling, 13 branches throughout West Indies, deposits about 2,000,000£, note circulation (five dollar notes) of 400,000£, estimated circulation in Barbados 50,000£",
+        "year": "1897"
+      },
+      {
+        "id": "inst_cape_university_001",
+        "name": "University of the Cape of Good Hope",
+        "type": "educational",
+        "location": "Cape of Good Hope",
+        "established": "Act No. 16 of 1873",
+        "function": "Authority to confer degrees of B.A., M.A., LL.B., D.M.R., M.D. recognized by Letters Patent dated 8th July 1877; also authorized to confer Lit.D., B.Sc., M.Sc., D.Sc., Bachelor of Arts, Master of Music, Doctor of Music by Act No. 6 of 1896",
+        "year": "1897"
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_antigua_revenue_1886_001",
+        "type": "revenue",
+        "location": "Antigua",
+        "year": "1886",
+        "data": {
+          "value": 47451,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_antigua_expenditure_1886_001",
+        "type": "expenditure",
+        "location": "Antigua",
+        "year": "1886",
+        "data": {
+          "value": 41055,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_antigua_revenue_1895_001",
+        "type": "revenue",
+        "location": "Antigua",
+        "year": "1895",
+        "data": {
+          "value": 44348,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_antigua_expenditure_1895_001",
+        "type": "expenditure",
+        "location": "Antigua",
+        "year": "1895",
+        "data": {
+          "value": 70221,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_antigua_customs_1895_001",
+        "type": "revenue",
+        "location": "Antigua",
+        "year": "1895",
+        "data": {
+          "category": "customs",
+          "value": 25241,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_antigua_debt_1895_001",
+        "type": "debt",
+        "location": "Antigua",
+        "year": "1895",
+        "data": {
+          "value": 146121,
+          "currency": "£"
+        },
+        "notes": "Public Debt"
+      },
+      {
+        "id": "econ_antigua_sugar_1895_001",
+        "type": "production",
+        "location": "Antigua",
+        "year": "1895",
+        "data": {
+          "category": "sugar",
+          "value": 7219,
+          "unit": "tons"
+        }
+      },
+      {
+        "id": "econ_bahamas_revenue_1890_001",
+        "type": "revenue",
+        "location": "Bahamas",
+        "year": "1890",
+        "data": {
+          "value": 45783,
+          "currency": "£"
+        },
+        "notes": "Total customs revenue"
+      },
+      {
+        "id": "econ_bahamas_debt_1895_001",
+        "type": "debt",
+        "location": "Bahamas",
+        "year": "1895",
+        "data": {
+          "value": 124126,
+          "currency": "£"
+        },
+        "notes": "Public Debt including 35,000l. borrowed in connection with late Public Bank and 30,000l. Telegraph Cable Loan"
+      },
+      {
+        "id": "econ_barbados_revenue_1895_001",
+        "type": "revenue",
+        "location": "Barbados",
+        "year": "1895",
+        "data": {
+          "value": 146315,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_barbados_expenditure_1895_001",
+        "type": "expenditure",
+        "location": "Barbados",
+        "year": "1895",
+        "data": {
+          "value": 152089,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_barbados_customs_1825_001",
+        "type": "revenue",
+        "location": "Barbados",
+        "year": "1825",
+        "data": {
+          "category": "customs",
+          "value": 82529,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_barbados_debt_1891_001",
+        "type": "debt",
+        "location": "Barbados",
+        "year": "1891",
+        "data": {
+          "value": 105100,
+          "currency": "£"
+        },
+        "notes": "Public Debt, 31st December 1891"
+      },
+      {
+        "id": "econ_cape_railway_1894_001",
+        "type": "infrastructure_revenue",
+        "location": "Cape of Good Hope",
+        "year": "1894",
+        "data": {
+          "category": "railway receipts",
+          "value": 2713753,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_cape_railway_expenses_1894_001",
+        "type": "infrastructure_expenses",
+        "location": "Cape of Good Hope",
+        "year": "1894",
+        "data": {
+          "category": "railway working expenses",
+          "value": 1483771,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_ceylon_revenue_1895_001",
+        "type": "revenue",
+        "location": "Ceylon",
+        "year": "1895",
+        "data": {
+          "value": 16228769,
+          "currency": "rupees"
+        }
+      },
+      {
+        "id": "econ_ceylon_tea_export_1895_001",
+        "type": "trade_export",
+        "location": "Ceylon",
+        "year": "1895",
+        "data": {
+          "category": "tea",
+          "value": 49290530,
+          "currency": "rupees"
+        }
+      },
+      {
+        "id": "econ_hong_kong_revenue_1895_001",
+        "type": "revenue",
+        "location": "Hong Kong",
+        "year": "1895",
+        "data": {
+          "value": 2486228,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_hong_kong_expenditure_1895_001",
+        "type": "expenditure",
+        "location": "Hong Kong",
+        "year": "1895",
+        "data": {
+          "value": 2972373,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_hong_kong_debt_1895_001",
+        "type": "debt",
+        "location": "Hong Kong",
+        "year": "1895",
+        "data": {
+          "value": 341790.75,
+          "currency": "£"
+        },
+        "notes": "Public debt"
+      },
+      {
+        "id": "econ_jamaica_revenue_1895_96_001",
+        "type": "revenue",
+        "location": "Jamaica",
+        "year": "1895-96",
+        "data": {
+          "value": 814341,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_jamaica_expenditure_1895_96_001",
+        "type": "expenditure",
+        "location": "Jamaica",
+        "year": "1895-96",
+        "data": {
+          "value": 836483,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_jamaica_debt_1896_001",
+        "type": "debt",
+        "location": "Jamaica",
+        "year": "1896",
+        "data": {
+          "value": 1666175,
+          "currency": "£"
+        },
+        "notes": "Net Public Debt, 31st March 1896"
+      },
+      {
+        "id": "econ_mauritius_revenue_1895_001",
+        "type": "revenue",
+        "location": "Mauritius",
+        "year": "1895",
+        "data": {
+          "value": 7595651,
+          "currency": "rupees"
+        }
+      },
+      {
+        "id": "econ_mauritius_sugar_export_1895_001",
+        "type": "trade_export",
+        "location": "Mauritius",
+        "year": "1895",
+        "data": {
+          "category": "sugar",
+          "value": 116454600,
+          "unit": "kilos"
+        }
+      },
+      {
+        "id": "econ_lagos_revenue_1893_001",
+        "type": "revenue",
+        "location": "Lagos",
+        "year": "1893",
+        "data": {
+          "value": 68421,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_lagos_palm_kernels_1893_001",
+        "type": "trade_export",
+        "location": "Lagos",
+        "year": "1893",
+        "data": {
+          "category": "palm kernels",
+          "value": 320434,
+          "currency": "£",
+          "unit": "46,501 tons"
+        }
+      },
+      {
+        "id": "econ_st_helena_revenue_1895_001",
+        "type": "revenue",
+        "location": "St. Helena",
+        "year": "1895",
+        "data": {
+          "value": 9762,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_st_helena_expenditure_1895_001",
+        "type": "expenditure",
+        "location": "St. Helena",
+        "year": "1895",
+        "data": {
+          "value": 8063,
+          "currency": "£"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_barbados_railway_001",
+        "type": "railway",
+        "name": "Barbados Railway",
+        "location": "Barbados",
+        "specifications": {
+          "length": {
+            "value": 24,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 195284,
+            "currency": "£"
+          },
+          "annual_revenue": {
+            "value": 6596,
+            "currency": "£",
+            "year": "1895"
+          },
+          "annual_expenses": {
+            "value": 8624,
+            "currency": "£",
+            "year": "1895"
+          }
+        },
+        "year": "1897",
+        "notes": "From Bridgetown to parish of Saint Andrew, commenced 1880, completed 10th September 1882, belongs to Barbados Railway Company Limited, receives Government subsidy of 6,000£"
+      },
+      {
+        "id": "infra_barbados_telephone_001",
+        "type": "telegraph",
+        "name": "Police Stations Telephone Line",
+        "location": "Barbados",
+        "specifications": {
+          "length": {
+            "value": 35,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 1465,
+            "currency": "£"
+          }
+        },
+        "year": "1897",
+        "notes": "Telephonic communication between police stations, open to public use"
+      },
+      {
+        "id": "infra_cape_railway_western_001",
+        "type": "railway",
+        "name": "Cape Government Railways - Western System",
+        "location": "Cape of Good Hope",
+        "specifications": {
+          "construction_cost": {
+            "value": 20092300,
+            "currency": "£"
+          },
+          "annual_revenue": {
+            "value": 2713753,
+            "currency": "£",
+            "year": "1894"
+          },
+          "annual_expenses": {
+            "value": 1483771,
+            "currency": "£",
+            "year": "1894"
+          }
+        },
+        "year": "1897",
+        "notes": "Total mileage open December 1894: 2,253 miles. Three separate systems: Western (starting Cape Town), Midland (starting Port Elizabeth), Eastern (starting East London), connected at De Aar junction"
+      },
+      {
+        "id": "infra_cape_telegraph_001",
+        "type": "telegraph",
+        "name": "Cape Telegraph System",
+        "location": "Cape of Good Hope",
+        "specifications": {
+          "length": {
+            "value": 15604,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 463804,
+            "currency": "£"
+          },
+          "annual_revenue": {
+            "value": 188159,
+            "currency": "£",
+            "year": "1895"
+          },
+          "annual_expenses": {
+            "value": 90603,
+            "currency": "£",
+            "year": "1895"
+          }
+        },
+        "year": "1897",
+        "notes": "Telegraph wire erected by Government, also 578 miles of telephone wire"
+      },
+      {
+        "id": "infra_ceylon_railway_001",
+        "type": "railway",
+        "name": "Ceylon Government Railways",
+        "location": "Ceylon",
+        "specifications": {
+          "length": {
+            "value": 297,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 52866796,
+            "currency": "rupees"
+          },
+          "annual_revenue": {
+            "value": 6222735,
+            "currency": "rupees",
+            "year": "1895"
+          },
+          "annual_expenses": {
+            "value": 3093266,
+            "currency": "rupees",
+            "year": "1895"
+          }
+        },
+        "year": "1897",
+        "notes": "All owned and worked by Government, includes lines: Colombo to Kandy (74.5 miles), Kandy-Matale (17.75 miles), Peradeniya Junction to Bunderawela (91.25 miles), and others"
+      },
+      {
+        "id": "infra_ceylon_colombo_harbour_001",
+        "type": "harbor",
+        "name": "Colombo Harbour",
+        "location": "Ceylon",
+        "specifications": {
+          "construction_cost": {
+            "value": 13006135.2,
+            "currency": "rupees"
+          }
+        },
+        "year": "1897",
+        "notes": "South-West Breakwater commenced 1875 completed 1885, 4,200 feet long. Northern Arm, North-West Breakwater and reclamation of 26 acres commenced May 1894. Total expenditure from 1873 to 31st December 1895"
+      },
+      {
+        "id": "infra_jamaica_railway_001",
+        "type": "railway",
+        "name": "Jamaica Railway",
+        "location": "Jamaica",
+        "specifications": {
+          "length": {
+            "value": 185,
+            "unit": "miles"
+          }
+        },
+        "year": "1897",
+        "notes": "Kingston to Montego Bay (113 miles), Ewarton branch from Spanish Town (17 miles), Port Antonio branch from Bogwalk (54 miles). Recently purchased by American syndicate"
+      },
+      {
+        "id": "infra_jamaica_telegraph_001",
+        "type": "telegraph",
+        "name": "Jamaica Internal Telegraph",
+        "location": "Jamaica",
+        "specifications": {
+          "length": {
+            "value": 685.25,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 20107,
+            "currency": "£"
+          },
+          "annual_revenue": {
+            "value": 6156.47,
+            "currency": "£",
+            "year": "1895-96"
+          },
+          "annual_expenses": {
+            "value": 7618.83,
+            "currency": "£",
+            "year": "1895-96"
+          }
+        },
+        "connections": [
+          "place_kingston_001"
+        ],
+        "year": "1897",
+        "notes": "Line connecting all principal towns with 66 stations"
+      },
+      {
+        "id": "infra_mauritius_railway_001",
+        "type": "railway",
+        "name": "Mauritius Government Railways",
+        "location": "Mauritius",
+        "specifications": {
+          "length": {
+            "value": 105,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 2665000,
+            "currency": "£"
+          },
+          "annual_revenue": {
+            "value": 1751722,
+            "currency": "rupees",
+            "year": "1895"
+          },
+          "annual_expenses": {
+            "value": 1172890,
+            "currency": "rupees",
+            "year": "1895"
+          }
+        },
+        "year": "1897",
+        "notes": "Four lines all owned and worked by Government: North line Port Louis to Grand River (31 miles), Midland line Port Louis to Mahebourg (36 miles), Moka Flacq line (27 miles), Savanne branch (11 miles)"
+      },
+      {
+        "id": "infra_trinidad_railway_001",
+        "type": "railway",
+        "name": "Trinidad Government Railways",
+        "location": "Trinidad",
+        "specifications": {
+          "length": {
+            "value": 60,
+            "unit": "miles"
+          },
+          "annual_revenue": {
+            "value": 64289,
+            "currency": "£",
+            "year": "1895"
+          },
+          "annual_expenses": {
+            "value": 39985,
+            "currency": "£",
+            "year": "1895"
+          }
+        },
+        "year": "1897",
+        "notes": "Port of Spain to Arima (16 miles) opened 1876, Coppermine line (24.5 miles) opened 1881, extension to Caroni Bay, San Fernando, Princes Town and further extensions under construction. All constructed and paid for by Government"
+      },
+      {
+        "id": "infra_trinidad_telegraph_001",
+        "type": "telegraph",
+        "name": "Trinidad Internal Telegraph",
+        "location": "Trinidad",
+        "specifications": {
+          "length": {
+            "value": 137,
+            "unit": "miles"
+          },
+          "annual_revenue": {
+            "value": 699,
+            "currency": "£",
+            "year": "1895"
+          },
+          "annual_expenses": {
+            "value": 1239,
+            "currency": "£",
+            "year": "1895"
+          }
+        },
+        "year": "1897",
+        "notes": "Constructed by Government, direct telegraphic communication with British Guiana, Grenada, and Saint Croix"
+      },
+      {
+        "id": "infra_newfoundland_railway_001",
+        "type": "railway",
+        "name": "Newfoundland Railway",
+        "location": "Newfoundland",
+        "specifications": {
+          "length": {
+            "value": 84,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 2500000,
+            "currency": "$"
+          }
+        },
+        "year": "1897",
+        "notes": "St. John's to Harbour Grace, constructed and worked by private company. Branch to Placentia (25 miles) built by Government at cost of $25,000. Railway to Exploits River (200 miles) complete at cost of $3,120,000"
+      },
+      {
+        "id": "infra_newfoundland_telegraph_001",
+        "type": "telegraph",
+        "name": "Newfoundland Telegraph",
+        "location": "Newfoundland",
+        "specifications": {
+          "length": {
+            "value": 2200,
+            "unit": "miles"
+          }
+        },
+        "year": "1897",
+        "notes": "2,200 miles of telegraph open, cables start for Europe at Heart's Content and for America at Placentia"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_antigua_1891_001",
+        "location": "Antigua",
+        "year": "1891",
+        "total_population": 36119,
+        "breakdowns": [
+          {
+            "category": "White",
+            "count": 1830
+          },
+          {
+            "category": "Black",
+            "count": 28584
+          },
+          {
+            "category": "Coloured",
+            "count": 5705
+          }
+        ]
+      },
+      {
+        "id": "demo_barbuda_001",
+        "location": "Barbuda",
+        "year": "1897",
+        "total_population": 580
+      },
+      {
+        "id": "demo_redonda_001",
+        "location": "Redonda",
+        "year": "1897",
+        "total_population": 120
+      },
+      {
+        "id": "demo_st_john_antigua_001",
+        "location": "St. John",
+        "year": "1894",
+        "total_population": 10000
+      },
+      {
+        "id": "demo_bahamas_1891_001",
+        "location": "Bahamas",
+        "year": "1891",
+        "total_population": 47565
+      },
+      {
+        "id": "demo_new_providence_1891_001",
+        "location": "New Providence",
+        "year": "1891",
+        "total_population": 10914
+      },
+      {
+        "id": "demo_barbados_1891_001",
+        "location": "Barbados",
+        "year": "1891",
+        "total_population": 182306
+      },
+      {
+        "id": "demo_bridgetown_1891_001",
+        "location": "Bridgetown",
+        "year": "1891",
+        "total_population": 21000
+      },
+      {
+        "id": "demo_cape_1891_001",
+        "location": "Cape of Good Hope",
+        "year": "1891",
+        "total_population": 1527224,
+        "breakdowns": [
+          {
+            "category": "Europeans",
+            "count": 376987
+          },
+          {
+            "category": "Malays",
+            "count": 13907
+          },
+          {
+            "category": "Hottentots",
+            "count": 50588
+          },
+          {
+            "category": "Fingoes",
+            "count": 229680
+          },
+          {
+            "category": "Kaffirs",
+            "count": 608456
+          },
+          {
+            "category": "Other coloured persons",
+            "count": 247806
+          }
+        ]
+      },
+      {
+        "id": "demo_ceylon_1891_001",
+        "location": "Ceylon",
+        "year": "1891",
+        "total_population": 3008466,
+        "breakdowns": [
+          {
+            "category": "Europeans",
+            "count": 8000
+          },
+          {
+            "category": "Burghers and Eurasians",
+            "count": 21000
+          },
+          {
+            "category": "Moormen",
+            "count": 200000
+          },
+          {
+            "category": "Malays",
+            "count": 10000
+          },
+          {
+            "category": "Sinhalese",
+            "count": 2000000
+          },
+          {
+            "category": "Tamils",
+            "count": 750000
+          }
+        ]
+      },
+      {
+        "id": "demo_colombo_1891_001",
+        "location": "Colombo",
+        "year": "1891",
+        "total_population": 126926
+      },
+      {
+        "id": "demo_hong_kong_1895_001",
+        "location": "Hong Kong",
+        "year": "1895",
+        "total_population": 248498
+      },
+      {
+        "id": "demo_hong_kong_1891_001",
+        "location": "Hong Kong",
+        "year": "1891",
+        "total_population": 221441,
+        "breakdowns": [
+          {
+            "category": "European and American",
+            "count": 8545
+          },
+          {
+            "category": "Chinese",
+            "count": 210955
+          },
+          {
+            "category": "Others",
+            "count": 1901
+          }
+        ]
+      },
+      {
+        "id": "demo_jamaica_1891_001",
+        "location": "Jamaica",
+        "year": "1891",
+        "total_population": 669491,
+        "breakdowns": [
+          {
+            "category": "White",
+            "count": 14692
+          },
+          {
+            "category": "Coloured",
+            "count": 121955
+          },
+          {
+            "category": "Black",
+            "count": 488624
+          },
+          {
+            "category": "Indian, &c.",
+            "count": 14220
+          }
+        ]
+      },
+      {
+        "id": "demo_kingston_1891_001",
+        "location": "Kingston",
+        "year": "1891",
+        "total_population": 48504
+      },
+      {
+        "id": "demo_mauritius_1891_001",
+        "location": "Mauritius",
+        "year": "1891",
+        "total_population": 371023,
+        "notes": "Population of Mauritius, estimated"
+      },
+      {
+        "id": "demo_port_louis_001",
+        "location": "Port Louis",
+        "year": "1897",
+        "total_population": 57367,
+        "notes": "With suburbs"
+      },
+      {
+        "id": "demo_trinidad_1895_001",
+        "location": "Trinidad",
+        "year": "1895",
+        "total_population": 237934,
+        "breakdowns": [
+          {
+            "category": "East Indians",
+            "count": 84503
+          }
+        ],
+        "notes": "Estimated population, chiefly composed of English, Germans, French, Spanish, and large proportion of East Indians"
+      },
+      {
+        "id": "demo_port_of_spain_1891_001",
+        "location": "Port of Spain",
+        "year": "1891",
+        "total_population": 33273
+      },
+      {
+        "id": "demo_san_fernando_1891_001",
+        "location": "San Fernando",
+        "year": "1891",
+        "total_population": 6570
+      },
+      {
+        "id": "demo_newfoundland_1891_001",
+        "location": "Newfoundland",
+        "year": "1891",
+        "total_population": 202039,
+        "breakdowns": [
+          {
+            "category": "Males",
+            "count": 100775
+          },
+          {
+            "category": "Females",
+            "count": 97159
+          },
+          {
+            "category": "Labrador",
+            "count": 4106
+          }
+        ]
+      },
+      {
+        "id": "demo_st_johns_nf_001",
+        "location": "St. John's",
+        "year": "1897",
+        "total_population": 29007,
+        "notes": "With suburbs, 25,738 without suburbs"
+      },
+      {
+        "id": "demo_lagos_town_001",
+        "location": "Lagos Island",
+        "year": "1897",
+        "total_population": 33000,
+        "notes": "About 33,000 inhabitants, largest town on whole West African coast"
+      },
+      {
+        "id": "demo_st_helena_1891_001",
+        "location": "St. Helena",
+        "year": "1891",
+        "total_population": 4116,
+        "breakdowns": [
+          {
+            "category": "Males",
+            "count": 1986
+          },
+          {
+            "category": "Females",
+            "count": 2130
+          }
+        ]
+      },
+      {
+        "id": "demo_jamestown_001",
+        "location": "Jamestown",
+        "year": "1897",
+        "total_population": 2000
+      }
+    ],
+    "events": [
+      {
+        "id": "event_antigua_discovery_001",
+        "date": "1493",
+        "type": "establishment",
+        "description": "Antigua discovered by Columbus in 1493, named after a church in Seville called Santa Maria La Antigua",
+        "locations": [
+          "place_antigua_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_antigua_settlement_001",
+        "date": "1632",
+        "type": "establishment",
+        "description": "First inhabited by a few English from St. Kitts in 1632",
+        "locations": [
+          "place_antigua_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_antigua_grant_001",
+        "date": "1663",
+        "type": "cession",
+        "description": "Charles II made formal grant of island to Lord Willoughby, who sent out large number of colonists",
+        "locations": [
+          "place_antigua_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_antigua_breda_001",
+        "date": "1666",
+        "type": "treaty",
+        "description": "Declared a British possession by Treaty of Breda after interval of French occupation",
+        "locations": [
+          "place_antigua_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_redonda_mines_001",
+        "date": "1865",
+        "type": "establishment",
+        "description": "Phosphate of alumina mines discovered in Redonda in 1865",
+        "locations": [
+          "place_redonda_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_bahamas_discovery_001",
+        "date": "1492",
+        "type": "establishment",
+        "description": "St. Salvador (Guanahani), one of islands composing Bahamas chain, was first land discovered by Columbus on his voyage in 1492",
+        "locations": [
+          "place_bahamas_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_bahamas_charter_001",
+        "date": "1583",
+        "type": "cession",
+        "description": "Included in charter given by Queen Elizabeth to Sir Humphrey Gilbert",
+        "locations": [
+          "place_bahamas_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_bahamas_settlement_001",
+        "date": "1646",
+        "type": "establishment",
+        "description": "Settlers from Bermudas found their way in considerable numbers to Eleuthera",
+        "locations": [
+          "place_bahamas_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_bahamas_grant_001",
+        "date": "1670",
+        "type": "cession",
+        "description": "New Providence and all islands between 22° and 27° N lat. granted by Charles II to proprietary body",
+        "locations": [
+          "place_new_providence_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_bahamas_versailles_001",
+        "date": "1783",
+        "type": "treaty",
+        "description": "Great Britain confirmed in possession of Bahamas at Peace of Versailles",
+        "locations": [
+          "place_bahamas_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_barbados_discovery_001",
+        "date": "uncertain",
+        "type": "establishment",
+        "description": "Exact date of discovery uncertain, said to have been first visited by Portuguese who found it uninhabited, named Las Barbadas after bearded fig-trees",
+        "locations": [
+          "place_barbados_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_barbados_english_001",
+        "date": "1605",
+        "type": "cession",
+        "description": "Nominally taken possession of by English ship 'Olive' when almost deserted",
+        "locations": [
+          "place_barbados_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_barbados_settlement_001",
+        "date": "1623",
+        "type": "establishment",
+        "description": "Sir William Courteen fitted out two ships, one arrived at Barbados with thirty persons who landed on north side, formed town called St. Peter's Town",
+        "locations": [
+          "place_barbados_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_barbados_capitulation_001",
+        "date": "1628",
+        "type": "establishment",
+        "description": "Sixty-four settlers commenced erection of wooden houses, threw bridge across river, laid foundation of Bridgetown",
+        "locations": [
+          "place_bridgetown_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_cape_discovery_001",
+        "date": "14th September 1486",
+        "type": "establishment",
+        "description": "Bartholomew de Diaz, Portuguese commander, landed in Algoa Bay",
+        "locations": [
+          "place_cape_good_hope_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_cape_dutch_001",
+        "date": "1652",
+        "type": "establishment",
+        "description": "J. A. Van Riebeck, commissioned by Chamber of Seventeen at Amsterdam, landed at Table Bay with 100 persons, took possession on behalf of Dutch East India Company",
+        "locations": [
+          "place_cape_town_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_cape_british_001",
+        "date": "1795",
+        "type": "cession",
+        "description": "British force proceeded to Cape to secure it against French for Prince of Orange, Governor refused, capitulation arranged",
+        "locations": [
+          "place_cape_good_hope_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_cape_amiens_001",
+        "date": "1803",
+        "type": "treaty",
+        "description": "By Peace of Amiens Cape restored to Batavian Republic and evacuated",
+        "locations": [
+          "place_cape_good_hope_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_cape_recapture_001",
+        "date": "1806",
+        "type": "cession",
+        "description": "Captured again by British Force",
+        "locations": [
+          "place_cape_good_hope_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_cape_cession_001",
+        "date": "1814",
+        "type": "treaty",
+        "description": "At General Peace of 1814 ceded in perpetuity to British Crown",
+        "locations": [
+          "place_cape_good_hope_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_ceylon_portuguese_001",
+        "date": "1505",
+        "type": "establishment",
+        "description": "Portuguese formed settlements on west and south of island",
+        "locations": [
+          "place_ceylon_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_ceylon_dutch_001",
+        "date": "next century after 1505",
+        "type": "cession",
+        "description": "Portuguese dispossessed by Dutch",
+        "locations": [
+          "place_ceylon_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_ceylon_british_001",
+        "date": "1795-6",
+        "type": "cession",
+        "description": "British took possession of Dutch settlements in island, then annexed to Presidency of Madras",
+        "locations": [
+          "place_ceylon_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_ceylon_colony_001",
+        "date": "1801",
+        "type": "constitutional_change",
+        "description": "Ceylon constituted a separate Colony",
+        "locations": [
+          "place_ceylon_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_ceylon_kandy_001",
+        "date": "1815",
+        "type": "cession",
+        "description": "War declared against native Government of interior, last Kandyan King taken prisoner, whole island fell under British rule",
+        "locations": [
+          "place_ceylon_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_hong_kong_cession_001",
+        "date": "January 1841",
+        "type": "cession",
+        "description": "Colony ceded to Great Britain, then a desolate island sparsely inhabited by fishermen",
+        "locations": [
+          "place_hong_kong_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_hong_kong_treaty_001",
+        "date": "August 1842",
+        "type": "treaty",
+        "description": "Cession confirmed by Treaty of Nankin",
+        "locations": [
+          "place_hong_kong_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_hong_kong_charter_001",
+        "date": "5th April 1843",
+        "type": "constitutional_change",
+        "description": "Charter bears date",
+        "locations": [
+          "place_hong_kong_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_kowloon_treaty_001",
+        "date": "1861",
+        "type": "treaty",
+        "description": "Peninsula of Kowloon ceded to Great Britain by Treaty entered into by Lord Elgin with Government of China",
+        "locations": [
+          "place_kowloon_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_jamaica_discovery_001",
+        "date": "3rd May 1494",
+        "type": "establishment",
+        "description": "Island discovered by Columbus, called it St. Jago after patron saint of Spain, but new name dropped in favour of native one Jamaica (Haymaca - well watered)",
+        "locations": [
+          "place_jamaica_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_jamaica_settlement_001",
+        "date": "1509",
+        "type": "establishment",
+        "description": "First settlement effected on shores of St. Ann's Bay by Esquimel under direction of Diego son of Columbus while Governor of Hispaniola",
+        "locations": [
+          "place_jamaica_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_jamaica_capture_001",
+        "date": "3rd May 1655",
+        "type": "cession",
+        "description": "Attacked by force sent by Cromwell under Admirals Penn and Venables against Hispaniola, capitulated after trifling resistance",
+        "locations": [
+          "place_jamaica_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_jamaica_madrid_001",
+        "date": "1670",
+        "type": "treaty",
+        "description": "Peace made with Spain, title of England to Jamaica recognized by Treaty of Madrid",
+        "locations": [
+          "place_jamaica_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_jamaica_earthquake_001",
+        "date": "1692",
+        "type": "disaster",
+        "description": "Port Royal engulfed in great earthquake",
+        "locations": [
+          "place_jamaica_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_mauritius_discovery_001",
+        "date": "1507",
+        "type": "establishment",
+        "description": "Island discovered by Portuguese",
+        "locations": [
+          "place_mauritius_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_mauritius_dutch_001",
+        "date": "1598",
+        "type": "establishment",
+        "description": "First people to occupy it in numbers were Dutch, commander Admiral J. C. Van Neck named it Mauritius in honour of Stadtholder Prince Maurice of Nassau",
+        "locations": [
+          "place_mauritius_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_mauritius_french_001",
+        "date": "1715",
+        "type": "establishment",
+        "description": "Few Frenchmen landed, formally took possession on behalf of French East India Company in 1717, later in 1767 on behalf of King of France, name changed to Isle of France",
+        "locations": [
+          "place_mauritius_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_mauritius_british_001",
+        "date": "1810",
+        "type": "cession",
+        "description": "British operation for its capture effected, laws, religion, and customs of inhabitants guaranteed in instrument of capitulation, former name Mauritius restored",
+        "locations": [
+          "place_mauritius_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_mauritius_treaty_001",
+        "date": "1814",
+        "type": "treaty",
+        "description": "Possession of island confirmed to England by Treaty of Paris",
+        "locations": [
+          "place_mauritius_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_mauritius_hurricane_001",
+        "date": "29th April 1892",
+        "type": "disaster",
+        "description": "Terrible hurricane visited island causing enormous destruction of buildings and crops",
+        "locations": [
+          "place_mauritius_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_mauritius_fire_001",
+        "date": "23rd July 1893",
+        "type": "disaster",
+        "description": "Part of town of Port Louis entirely destroyed by fire",
+        "locations": [
+          "place_port_louis_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_mauritius_cyclone_001",
+        "date": "22nd February 1894",
+        "type": "disaster",
+        "description": "During violent cyclone, railway train blown down ravine at Pailles Bridge, five persons killed, great loss of material sustained",
+        "locations": [
+          "place_mauritius_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_trinidad_discovery_001",
+        "date": "31st July 1498",
+        "type": "establishment",
+        "description": "Trinidad first discovered by Columbus on his third voyage, taken possession of for Crown of Spain",
+        "locations": [
+          "place_trinidad_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_trinidad_capture_001",
+        "date": "18th February 1797",
+        "type": "cession",
+        "description": "British expedition sailed from Martinique for reduction of Trinidad, articles of capitulation signed by Sir R. Abercrombie, Admiral Harvey, and Chacon the Spanish governor",
+        "locations": [
+          "place_trinidad_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_trinidad_amiens_001",
+        "date": "1802",
+        "type": "treaty",
+        "description": "Finally ceded to Crown of Great Britain by Treaty of Amiens",
+        "locations": [
+          "place_trinidad_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_singapore_founding_001",
+        "date": "1819",
+        "type": "establishment",
+        "description": "Island taken possession of by Stamford Raffles by virtue of treaty with Johor princes, scarcely inhabited until then",
+        "locations": [
+          "place_singapore_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_penang_cession_001",
+        "date": "1786",
+        "type": "cession",
+        "description": "Penang (Prince of Wales Island) first British settlement on Malayan Peninsula, ceded to English by Raja of Kedah with proviso that 6,000 dols. be annually paid",
+        "locations": [
+          "place_penang_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_newfoundland_discovery_001",
+        "date": "1497",
+        "type": "establishment",
+        "description": "Island discovered by John Cabot",
+        "locations": [
+          "place_newfoundland_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_newfoundland_utrecht_001",
+        "date": "1713",
+        "type": "treaty",
+        "description": "Peace of Utrecht, subsequently confirmed by Treaty of Paris, exclusive sovereignty of Newfoundland acknowledged to belong to Great Britain",
+        "locations": [
+          "place_newfoundland_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_cyprus_occupation_001",
+        "date": "4th June 1878",
+        "type": "treaty",
+        "description": "Convention signed at Constantinople between representatives of Britannic Majesty and Sultan of Turkey, England engaged to join Sultan in resisting Asiatic possessions against Russia, Sultan consented to cede Island of Cyprus to be occupied and administered by England",
+        "locations": [
+          "place_cyprus_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_lagos_cession_001",
+        "date": "6th August 1861",
+        "type": "cession",
+        "description": "King Docemo induced to cede his possessions to British Crown in consideration of pension of £1,000 a-year",
+        "locations": [
+          "place_lagos_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_lagos_charter_001",
+        "date": "13th March 1863",
+        "type": "constitutional_change",
+        "description": "Territories erected into separate government by Letters Patent",
+        "locations": [
+          "place_lagos_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_st_helena_discovery_001",
+        "date": "21st May 1502",
+        "type": "establishment",
+        "description": "St. Helena discovered by Portuguese Captain Juan de Nova Castella on St. Helena's day, then uninhabited",
+        "locations": [
+          "place_st_helena_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_st_helena_eic_001",
+        "date": "1651",
+        "type": "establishment",
+        "description": "Taken possession of by East India Company, charter for its administration granted in 1661",
+        "locations": [
+          "place_st_helena_001"
+        ],
+        "year_mentioned": "1897"
+      },
+      {
+        "id": "event_st_helena_crown_001",
+        "date": "22nd April 1834",
+        "type": "constitutional_change",
+        "description": "Passed from East India Company to direct government of the Colony by Act of Parliament of 1833",
+        "locations": [
+          "place_st_helena_001"
+        ],
+        "year_mentioned": "1897"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_barbuda_001",
+      "relationship_type": "DEPENDENCY_OF",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_redonda_001",
+      "relationship_type": "DEPENDENCY_OF",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_st_john_antigua_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_falmouth_antigua_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_parham_antigua_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_new_providence_001",
+      "relationship_type": "PART_OF",
+      "target_id": "place_bahamas_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_nassau_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_new_providence_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_bridgetown_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_barbados_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_speightstown_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_barbados_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_carlisle_bay_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_barbados_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_cape_town_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_cape_good_hope_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_kimberley_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_cape_good_hope_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_port_elizabeth_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_cape_good_hope_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_east_london_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_cape_good_hope_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_colombo_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_ceylon_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_kandy_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_ceylon_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_kowloon_001",
+      "relationship_type": "PART_OF",
+      "target_id": "place_hong_kong_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_victoria_hk_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_hong_kong_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_kingston_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_jamaica_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_blue_mountains_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_jamaica_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_grand_cayman_001",
+      "relationship_type": "DEPENDENCY_OF",
+      "target_id": "place_jamaica_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_port_louis_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_mauritius_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_port_of_spain_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_san_fernando_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_trinidad_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_singapore_001",
+      "relationship_type": "PART_OF",
+      "target_id": "place_straits_settlements_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_penang_001",
+      "relationship_type": "PART_OF",
+      "target_id": "place_straits_settlements_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_malacca_001",
+      "relationship_type": "PART_OF",
+      "target_id": "place_straits_settlements_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_labrador_001",
+      "relationship_type": "PART_OF",
+      "target_id": "place_newfoundland_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_st_johns_nf_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_newfoundland_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_nicosia_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_cyprus_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_larnaca_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_cyprus_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_lagos_island_001",
+      "relationship_type": "PART_OF",
+      "target_id": "place_lagos_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "place_jamestown_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_st_helena_001",
+      "properties": {
+        "year": "1897"
+      }
+    },
+    {
+      "source_id": "person_whyham_wh_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_antigua_001",
+      "properties": {
+        "year": "1897",
+        "context": "Member of Executive Council, President of Legislative Council, District Magistrate"
+      }
+    },
+    {
+      "source_id": "person_haynes_smith_wf_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_bahamas_001",
+      "properties": {
+        "year": "1897",
+        "context": "Governor, Commander-in-Chief, Vice-Admiral, and Ordinary"
+      }
+    },
+    {
+      "source_id": "person_hay_james_shaw_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_barbados_001",
+      "properties": {
+        "year": "1897",
+        "context": "Governor and Commander-in-Chief"
+      }
+    },
+    {
+      "source_id": "person_robinson_w_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_hong_kong_001",
+      "properties": {
+        "year": "1897",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_blake_ha_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_jamaica_001",
+      "properties": {
+        "year": "1897",
+        "context": "Colonial Secretary and Governor-in-Chief"
+      }
+    },
+    {
+      "source_id": "person_bruce_c_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_mauritius_001",
+      "properties": {
+        "year": "1897",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_obrien_gtm_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_fiji_001",
+      "properties": {
+        "year": "1897",
+        "context": "Commander-in-Chief and High Commissioner for Western Pacific"
+      }
+    },
+    {
+      "source_id": "person_sterndale_r_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_st_helena_001",
+      "properties": {
+        "year": "1897",
+        "context": "Governor, Chief Justice, and Colonial Secretary"
+      }
+    },
+    {
+      "source_id": "infra_barbados_railway_001",
+      "relationship_type": "CONNECTS",
+      "target_id": "place_bridgetown_001",
+      "properties": {
+        "year": "1897",
+        "context": "Railway from Bridgetown to parish of Saint Andrew"
+      }
+    },
+    {
+      "source_id": "infra_jamaica_railway_001",
+      "relationship_type": "CONNECTS",
+      "target_id": "place_kingston_001",
+      "properties": {
+        "year": "1897",
+        "context": "Railway extends from Kingston to Montego Bay and other destinations"
+      }
+    }
+  ]
+}

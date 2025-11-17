@@ -1,0 +1,36 @@
+================================================================================
+SMART CORRECTION STRATEGY
+================================================================================
+
+Total files: 14
+Valid (no action needed): 1
+Phase 1 + 2 (fixable): 12
+Re-extract (confirmed): 1
+Re-extract (candidate): 0
+
+--------------------------------------------------------------------------------
+RE-EXTRACTION REQUIRED (5 files)
+--------------------------------------------------------------------------------
+  1890_extracted.json            -  1974 errors - Investigation confirmed re-extraction needed
+
+--------------------------------------------------------------------------------
+FIXABLE WITH PHASE 1 + 2 (Top 10 by error count)
+--------------------------------------------------------------------------------
+  1896_extracted.json            -    92 errors
+  1877_extracted.json            -    75 errors
+  1889_extracted.json            -    52 errors
+  1883_extracted.json            -    51 errors
+  1898_extracted.json            -    28 errors
+  1897_extracted.json            -    13 errors
+  1867_extracted.json            -     4 errors
+  1880_extracted.json            -     3 errors
+  1888_extracted.json            -     3 errors
+  1894_extracted.json            -     3 errors
+
+--------------------------------------------------------------------------------
+RECOMMENDATION
+--------------------------------------------------------------------------------
+1. SKIP Phase 1 for re-extraction files (waste of time)
+2. Apply Phase 1 to fixable files only
+3. Apply Phase 2 (LLM) to fixable files
+4. Re-extract the 5 confirmed files with improved methodology

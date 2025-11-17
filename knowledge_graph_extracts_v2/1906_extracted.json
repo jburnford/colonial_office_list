@@ -1,0 +1,1511 @@
+{
+  "metadata": {
+    "year": "1906",
+    "source_directory": "/home/user/colonial_office_list/output_2/1906_manual_parsed/",
+    "extraction_date": "2025-11-16T00:00:00Z",
+    "processing_notes": "Comprehensive knowledge graph extraction from Colonial Office List 1906. This is an initial extraction from approximately 12-15 colony files. Extraction includes geographic entities, people, institutions, economic data, infrastructure, demographics, and historical events. All historical spelling preserved exactly as in source documents.",
+    "colonies_processed": [
+      "GIBRALTAR",
+      "AUSTRALIA",
+      "BAHAMAS",
+      "BARBADOS",
+      "BASUTOLAND",
+      "BERMUDA",
+      "BRITISH_HONDURAS",
+      "CEYLON",
+      "CYPRUS",
+      "DOMINICA",
+      "FALKLAND_ISLANDS",
+      "FIJI"
+    ]
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_gibraltar_001",
+        "name": "Gibraltar",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "36° 6' 30\" N",
+          "longitude": "5° 21' 12\" W"
+        },
+        "area": {
+          "value": 1.25,
+          "unit": "square miles"
+        },
+        "description": "A narrow peninsula running southwards from the south-west coast of Spain, consisting of a long high mountain called 'The Rock', and a flat sandy plain to the north called the North Front. Greatest elevation 1,439 feet, length 2½ miles, greatest breadth ½ mile.",
+        "year": "1906"
+      },
+      {
+        "id": "place_australia_001",
+        "name": "Australia",
+        "modern_name": "Australia",
+        "type": "territory",
+        "description": "Commonwealth of Australia, consisting of six states: New South Wales, Victoria, Queensland, South Australia, Western Australia, and Tasmania",
+        "year": "1906"
+      },
+      {
+        "id": "place_bahamas_001",
+        "name": "Bahamas",
+        "type": "colony",
+        "description": "Island colony in the Atlantic Ocean, consisting of multiple islands with New Providence containing the capital Nassau",
+        "year": "1906"
+      },
+      {
+        "id": "place_nassau_001",
+        "name": "Nassau",
+        "type": "city",
+        "parent_location": "place_bahamas_001",
+        "description": "Capital city of Bahamas, located on the island of New Providence with 12,534 inhabitants according to census of 1901",
+        "year": "1906"
+      },
+      {
+        "id": "place_barbados_001",
+        "name": "Barbados",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "13° 4' N",
+          "longitude": "59° 37' W"
+        },
+        "area": {
+          "value": 166,
+          "unit": "square miles"
+        },
+        "description": "The most easterly of the Caribbee Islands, nearly 21 miles long by 14 in breadth, containing 106,470 acres, somewhat larger than the Isle of Wight",
+        "year": "1906"
+      },
+      {
+        "id": "place_bridgetown_001",
+        "name": "Bridgetown",
+        "type": "city",
+        "parent_location": "place_barbados_001",
+        "coordinates": {
+          "latitude": "13° 5' 42\" N",
+          "longitude": "3° 58' 29\" W"
+        },
+        "description": "Chief town and port of Barbados, situated in the parish of St. Michael, containing 21,000 inhabitants according to census of 1891",
+        "year": "1906"
+      },
+      {
+        "id": "place_basutoland_001",
+        "name": "Basutoland",
+        "modern_name": "Lesotho",
+        "type": "territory",
+        "coordinates": {
+          "latitude": "29-30° S",
+          "longitude": "27-28° E"
+        },
+        "area": {
+          "value": 10293,
+          "unit": "square miles"
+        },
+        "description": "Forms an irregular oval in the north-east of the Cape Colony, about 150 miles in length, lying in a north-easterly direction. Nearly as large as Belgium. Bounded by Orange River Colony, Natal and Cape Colony.",
+        "year": "1906"
+      },
+      {
+        "id": "place_maseru_001",
+        "name": "Maseru",
+        "type": "city",
+        "parent_location": "place_basutoland_001",
+        "description": "The capital and largest town of Basutoland with a population of 1,100 natives and 200 whites (approximately)",
+        "year": "1906"
+      },
+      {
+        "id": "place_bermuda_001",
+        "name": "Bermuda",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "32° 15' N",
+          "longitude": "64° 51' W"
+        },
+        "area": {
+          "value": 19,
+          "unit": "square miles"
+        },
+        "description": "A group or cluster of about 300 small islands in the Western Atlantic Ocean, about 580 miles to the eastward of Cape Hatteras in North Carolina. Total area less than one-eighth of Rutland. Distance from Liverpool about 2,900 miles.",
+        "year": "1906"
+      },
+      {
+        "id": "place_hamilton_bermuda_001",
+        "name": "Hamilton",
+        "type": "city",
+        "parent_location": "place_bermuda_001",
+        "description": "The seat of Government, situated about the centre of the main island, where a deep inlet running up for two or three miles into the land forms a safe and convenient harbour. Population 2,246.",
+        "year": "1906"
+      },
+      {
+        "id": "place_british_honduras_001",
+        "name": "British Honduras",
+        "modern_name": "Belize",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "18°29' - 15°54' N",
+          "longitude": "89°10' - 87°50' W"
+        },
+        "area": {
+          "value": 7562,
+          "unit": "square miles"
+        },
+        "description": "A Colony on the east coast of Central America, bounded on the north by Yucatan, on the west by Guatemala, on the south by Guatemala, and on the east by the Bay of Honduras. About the size of Wales.",
+        "year": "1906"
+      },
+      {
+        "id": "place_belize_city_001",
+        "name": "Belize",
+        "type": "city",
+        "parent_location": "place_british_honduras_001",
+        "description": "The capital and chief town at the mouth of the river of the same name. Population 9,969 in 1905.",
+        "year": "1906"
+      },
+      {
+        "id": "place_ceylon_001",
+        "name": "Ceylon",
+        "modern_name": "Sri Lanka",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "5° 55' - 9° 51' N",
+          "longitude": "79° 41' - 81° 54' E"
+        },
+        "area": {
+          "value": 25481.22,
+          "unit": "square miles"
+        },
+        "description": "The ancient Taprobane (Támraparni, the Island of 'dusky leaves'), an island in the Indian Ocean, off the southern extremity of Hindustan. Extreme length from north to south 266 miles, greatest width 140½ miles. About equal to Holland and Belgium.",
+        "year": "1906"
+      },
+      {
+        "id": "place_colombo_001",
+        "name": "Colombo",
+        "type": "city",
+        "parent_location": "place_ceylon_001",
+        "description": "Chief city and port of Ceylon. Population 158,093 according to 1901 census.",
+        "year": "1906"
+      },
+      {
+        "id": "place_cyprus_001",
+        "name": "Cyprus",
+        "type": "territory",
+        "coordinates": {
+          "latitude": "34° 33' - 35° 41' N",
+          "longitude": "32° 20' - 34° 35' E"
+        },
+        "area": {
+          "value": 3584,
+          "unit": "square miles"
+        },
+        "description": "Island in the easternmost basin of the Mediterranean Sea, with Asia Minor to the north and Syria to the east. Third largest island in the Mediterranean, exceeded only by Sicily and Sardinia. Greatest length about 140 miles, greatest breadth about 60 miles. Equal to Kent, Sussex, and Middlesex combined.",
+        "year": "1906"
+      },
+      {
+        "id": "place_nicosia_001",
+        "name": "Nicosia",
+        "type": "city",
+        "parent_location": "place_cyprus_001",
+        "description": "The capital of Cyprus with 14,752 inhabitants (12,515 in 1891)",
+        "year": "1906"
+      },
+      {
+        "id": "place_dominica_001",
+        "name": "Dominica",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "15° 10' - 15° 40' N",
+          "longitude": "61° 14' - 61° 30' W"
+        },
+        "area": {
+          "value": 291,
+          "unit": "square miles"
+        },
+        "description": "Island situated between the French Islands of Guadeloupe and Martinique, being distant from each about thirty miles. 29 miles long and 16 broad. Very mountainous and picturesque.",
+        "year": "1906"
+      },
+      {
+        "id": "place_roseau_001",
+        "name": "Roseau",
+        "type": "city",
+        "parent_location": "place_dominica_001",
+        "description": "The chief town and capital of Dominica. Population of 5,840 on 31st December, 1904. A port of registry with 14 vessels of 132 tons total tonnage on 31st December, 1903.",
+        "year": "1906"
+      },
+      {
+        "id": "place_falkland_islands_001",
+        "name": "Falkland Islands",
+        "type": "colony",
+        "coordinates": {
+          "latitude": "51° - 53° S",
+          "longitude": "57° - 62° W"
+        },
+        "area": {
+          "value": 7500,
+          "unit": "square miles"
+        },
+        "description": "Les Iles Malouines of the French, Islas Malvinas of the Spaniards. Situated in the South Atlantic Ocean, about 480 miles N.E. of Cape Horn, and about 1,000 miles due south of Monte Video. Consist of the East Falkland (3,000 sq miles), West Falkland (2,300 sq miles), and about 100 small islands (1,200 sq miles). Equal to Wales.",
+        "year": "1906"
+      },
+      {
+        "id": "place_stanley_001",
+        "name": "Stanley",
+        "type": "city",
+        "parent_location": "place_falkland_islands_001",
+        "description": "The only town in the Falkland Islands, in the East Falkland, with a population of 880. Houses mostly of wood and iron. A port of registry with 3 vessels of 149 tons total tonnage on 31st December, 1902. Has a fine inner and outer harbour, convenient intermediate coaling station for vessels going round Cape Horn.",
+        "year": "1906"
+      },
+      {
+        "id": "place_fiji_001",
+        "name": "Fiji",
+        "type": "colony",
+        "description": "Colony in the Western Pacific",
+        "year": "1906"
+      }
+    ],
+    "people": [
+      {
+        "id": "person_gibraltar_forestier_walker_001",
+        "name": "Frederick Forestier-Walker",
+        "titles": [
+          "General",
+          "Sir"
+        ],
+        "honors": [
+          "G.C.M.G.",
+          "K.C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Gibraltar",
+            "salary": {
+              "amount": 4500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "table allowance",
+                "amount": 500,
+                "currency": "£",
+                "description": "from Army Funds"
+              }
+            ],
+            "year": "1906"
+          }
+        ]
+      },
+      {
+        "id": "person_gibraltar_evans_001",
+        "name": "F. Evans",
+        "honors": [
+          "C.V.O.",
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "location": "Gibraltar",
+            "salary": {
+              "amount": 1900,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "free house",
+                "description": "free house"
+              }
+            ],
+            "year": "1906"
+          }
+        ]
+      },
+      {
+        "id": "person_australia_hopetoun_001",
+        "name": "Earl of Hopetoun",
+        "modern_name": "Marquis of Linlithgow",
+        "titles": [
+          "The",
+          "Earl",
+          "Marquis"
+        ],
+        "honors": [
+          "P.C.",
+          "K.P.",
+          "G.C.M.G.",
+          "G.C.V.O."
+        ],
+        "positions": [
+          {
+            "title": "Governor-General of the Commonwealth",
+            "location": "Australia",
+            "year": "1901"
+          }
+        ]
+      },
+      {
+        "id": "person_australia_deakin_001",
+        "name": "Alfred Deakin",
+        "titles": [
+          "The Hon."
+        ],
+        "positions": [
+          {
+            "title": "Prime Minister and Minister of State for External Affairs",
+            "location": "Australia",
+            "year": "1906"
+          }
+        ]
+      },
+      {
+        "id": "person_bahamas_grey_wilson_001",
+        "name": "William Grey-Wilson",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief, Vice-Admiral and Ordinary",
+            "location": "Bahamas",
+            "salary": {
+              "amount": 2000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1906"
+          }
+        ]
+      },
+      {
+        "id": "person_barbados_carter_001",
+        "name": "G. T. Carter",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Barbados",
+            "salary": {
+              "amount": 2500,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1906"
+          }
+        ]
+      },
+      {
+        "id": "person_basutoland_sloley_001",
+        "name": "H. C. Sloley",
+        "honors": [
+          "C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Resident Commissioner",
+            "location": "Basutoland",
+            "salary": {
+              "amount": 1200,
+              "currency": "£",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "personal allowance",
+                "amount": 300,
+                "currency": "£"
+              }
+            ],
+            "year": "1906"
+          }
+        ]
+      },
+      {
+        "id": "person_bermuda_stewart_001",
+        "name": "Robert MacGregor Stewart",
+        "titles": [
+          "Lieut.-General",
+          "Sir"
+        ],
+        "honors": [
+          "K.C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "location": "Bermuda",
+            "salary": {
+              "amount": 2946,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1906"
+          }
+        ]
+      },
+      {
+        "id": "person_ceylon_blake_001",
+        "name": "Henry A. Blake",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "G.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "Governor",
+            "location": "Ceylon",
+            "salary": {
+              "amount": 96000,
+              "currency": "Rs.",
+              "period": "annual"
+            },
+            "allowances": [
+              {
+                "type": "entertainment allowance",
+                "amount": 18000,
+                "currency": "Rs.",
+                "description": "Including Rs. 18,000 entertainment allowance"
+              }
+            ],
+            "year": "1906"
+          }
+        ]
+      },
+      {
+        "id": "person_cyprus_king_harman_001",
+        "name": "Charles A. King-Harman",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G."
+        ],
+        "positions": [
+          {
+            "title": "High Commissioner and Commander-in-Chief",
+            "location": "Cyprus",
+            "salary": {
+              "amount": 3000,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1906"
+          }
+        ]
+      },
+      {
+        "id": "person_fiji_im_thurn_001",
+        "name": "Everard F. im Thurn",
+        "titles": [
+          "Sir"
+        ],
+        "honors": [
+          "K.C.M.G.",
+          "C.B."
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief and High Commissioner for the Western Pacific",
+            "location": "Fiji",
+            "salary": {
+              "amount": 2700,
+              "currency": "£",
+              "period": "annual"
+            },
+            "year": "1906"
+          }
+        ]
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_gibraltar_executive_council_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Gibraltar",
+        "function": "No executive council formally constituted - Governor exercises all functions of government",
+        "year": "1906"
+      },
+      {
+        "id": "inst_australia_senate_001",
+        "name": "The Senate",
+        "type": "legislative_council",
+        "location": "Australia",
+        "composition": {
+          "description": "Upper house of the Parliament of the Commonwealth"
+        },
+        "year": "1906"
+      },
+      {
+        "id": "inst_australia_house_representatives_001",
+        "name": "House of Representatives",
+        "type": "legislative_council",
+        "location": "Australia",
+        "composition": {
+          "description": "Lower house of the Parliament of the Commonwealth consisting of elected members"
+        },
+        "year": "1906"
+      },
+      {
+        "id": "inst_bahamas_executive_council_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Bahamas",
+        "composition": {
+          "member_count": 9,
+          "description": "Conducted under Letters Patent by the Governor aided by an Executive Council of 9 members"
+        },
+        "year": "1906"
+      },
+      {
+        "id": "inst_bahamas_legislative_council_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Bahamas",
+        "composition": {
+          "member_count": 9,
+          "description": "9 members nominated by the Crown"
+        },
+        "year": "1906"
+      },
+      {
+        "id": "inst_bahamas_house_assembly_001",
+        "name": "House of Assembly",
+        "type": "legislative_council",
+        "location": "Bahamas",
+        "composition": {
+          "member_count": 29,
+          "description": "Representative Assembly of 29 members elected for 15 districts"
+        },
+        "year": "1906"
+      },
+      {
+        "id": "inst_barbados_executive_committee_001",
+        "name": "Executive Committee",
+        "type": "executive_council",
+        "location": "Barbados",
+        "composition": {
+          "description": "Consists of Governor, Officer commanding troops, Colonial Secretary, Attorney-General ex officio, one member of Legislative Council, and four members of House of Assembly nominated by Governor. Introduces all money votes, prepares estimates, and initiates all Government measures."
+        },
+        "year": "1906"
+      },
+      {
+        "id": "inst_bermuda_executive_council_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Bermuda",
+        "composition": {
+          "description": "Consisting of four official and two unofficial members"
+        },
+        "year": "1906"
+      },
+      {
+        "id": "inst_bermuda_legislative_council_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Bermuda",
+        "composition": {
+          "member_count": 9,
+          "description": "Nine members, three official and six unofficial"
+        },
+        "year": "1906"
+      },
+      {
+        "id": "inst_ceylon_executive_council_001",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "location": "Ceylon",
+        "composition": {
+          "member_count": 5,
+          "description": "Five members: Lieutenant-Governor and Colonial Secretary, Officer Commanding Troops, Attorney-General, Auditor-General, and Treasurer"
+        },
+        "year": "1906"
+      },
+      {
+        "id": "inst_ceylon_legislative_council_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Ceylon",
+        "composition": {
+          "member_count": 17,
+          "description": "17 members including members of Executive Council, four other office-holders, and eight nominated unofficial members"
+        },
+        "year": "1906"
+      },
+      {
+        "id": "inst_cyprus_legislative_council_001",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "location": "Cyprus",
+        "composition": {
+          "description": "High Commissioner presiding, six non-elective office-holding members, and twelve elected members (three Mahometan and nine non-Mahometan inhabitants)"
+        },
+        "year": "1906"
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_gibraltar_revenue_1904_001",
+        "type": "revenue",
+        "location": "Gibraltar",
+        "year": "1904",
+        "data": {
+          "value": 86787,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_gibraltar_expenditure_1904_001",
+        "type": "expenditure",
+        "location": "Gibraltar",
+        "year": "1904",
+        "data": {
+          "value": 64924,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_gibraltar_customs_1904_001",
+        "type": "revenue",
+        "location": "Gibraltar",
+        "year": "1904",
+        "data": {
+          "category": "Customs revenue",
+          "value": 41064,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_australia_debt_1904_001",
+        "type": "currency",
+        "location": "Australia",
+        "year": "1904",
+        "data": {
+          "category": "Public Debt",
+          "value": 233415931,
+          "currency": "£",
+          "source": "as at 30th June, 1904"
+        }
+      },
+      {
+        "id": "econ_bahamas_revenue_1904_001",
+        "type": "revenue",
+        "location": "Bahamas",
+        "year": "1904",
+        "data": {
+          "value": 71112,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_bahamas_expenditure_1904_001",
+        "type": "expenditure",
+        "location": "Bahamas",
+        "year": "1904",
+        "data": {
+          "value": 69826,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_barbados_revenue_1904_001",
+        "type": "revenue",
+        "location": "Barbados",
+        "year": "1904-5",
+        "data": {
+          "value": 185056,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_barbados_expenditure_1904_001",
+        "type": "expenditure",
+        "location": "Barbados",
+        "year": "1904-5",
+        "data": {
+          "value": 183297,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_barbados_debt_1905_001",
+        "type": "currency",
+        "location": "Barbados",
+        "year": "1905",
+        "data": {
+          "category": "Public Debt",
+          "value": 416000,
+          "currency": "£",
+          "source": "31st March, 1905"
+        }
+      },
+      {
+        "id": "econ_basutoland_revenue_1904_001",
+        "type": "revenue",
+        "location": "Basutoland",
+        "year": "1904-05",
+        "data": {
+          "value": 97034,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_basutoland_expenditure_1904_001",
+        "type": "expenditure",
+        "location": "Basutoland",
+        "year": "1904-05",
+        "data": {
+          "value": 78837,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_bermuda_revenue_1904_001",
+        "type": "revenue",
+        "location": "Bermuda",
+        "year": "1904",
+        "data": {
+          "value": 63457,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_bermuda_expenditure_1904_001",
+        "type": "expenditure",
+        "location": "Bermuda",
+        "year": "1904",
+        "data": {
+          "value": 61133,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_bermuda_debt_1903_001",
+        "type": "currency",
+        "location": "Bermuda",
+        "year": "1903",
+        "data": {
+          "category": "Public Debt",
+          "value": 46500,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_british_honduras_revenue_1904_001",
+        "type": "revenue",
+        "location": "British Honduras",
+        "year": "1904",
+        "data": {
+          "value": 309791,
+          "currency": "$"
+        }
+      },
+      {
+        "id": "econ_british_honduras_expenditure_1904_001",
+        "type": "expenditure",
+        "location": "British Honduras",
+        "year": "1904",
+        "data": {
+          "value": 282259,
+          "currency": "$"
+        }
+      },
+      {
+        "id": "econ_ceylon_revenue_1904_001",
+        "type": "revenue",
+        "location": "Ceylon",
+        "year": "1904",
+        "data": {
+          "value": 30846694,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "econ_ceylon_expenditure_1904_001",
+        "type": "expenditure",
+        "location": "Ceylon",
+        "year": "1904",
+        "data": {
+          "value": 32019392,
+          "currency": "Rs."
+        }
+      },
+      {
+        "id": "econ_ceylon_debt_1904_001",
+        "type": "currency",
+        "location": "Ceylon",
+        "year": "1904",
+        "data": {
+          "category": "Public Debt",
+          "value": 4702502,
+          "currency": "£",
+          "source": "December, 1904"
+        }
+      },
+      {
+        "id": "econ_cyprus_revenue_1904_001",
+        "type": "revenue",
+        "location": "Cyprus",
+        "year": "1904-05",
+        "data": {
+          "value": 218884,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_cyprus_expenditure_1904_001",
+        "type": "expenditure",
+        "location": "Cyprus",
+        "year": "1904-05",
+        "data": {
+          "value": 154406,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_cyprus_turkey_payment_001",
+        "type": "currency",
+        "location": "Cyprus",
+        "year": "1906",
+        "data": {
+          "category": "Sum payable to Turkey under Convention of 1878",
+          "value": 92800,
+          "currency": "£",
+          "source": "per annum, appropriated to interest on Guaranteed Loan of 1855"
+        }
+      },
+      {
+        "id": "econ_dominica_revenue_1904_001",
+        "type": "revenue",
+        "location": "Dominica",
+        "year": "1904-5",
+        "data": {
+          "value": 32402,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_dominica_expenditure_1904_001",
+        "type": "expenditure",
+        "location": "Dominica",
+        "year": "1904-5",
+        "data": {
+          "value": 32715,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_dominica_debt_1903_001",
+        "type": "currency",
+        "location": "Dominica",
+        "year": "1903",
+        "data": {
+          "category": "Public Debt",
+          "value": 54572,
+          "currency": "£",
+          "source": "31st Dec., 1903 (amount of Sinking Fund deducted)"
+        }
+      },
+      {
+        "id": "econ_falkland_revenue_1904_001",
+        "type": "revenue",
+        "location": "Falkland Islands",
+        "year": "1904",
+        "data": {
+          "value": 15689,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_falkland_expenditure_1904_001",
+        "type": "expenditure",
+        "location": "Falkland Islands",
+        "year": "1904",
+        "data": {
+          "value": 14249,
+          "currency": "£"
+        }
+      },
+      {
+        "id": "econ_fiji_debt_001",
+        "type": "currency",
+        "location": "Fiji",
+        "year": "1906",
+        "data": {
+          "category": "Public Debt",
+          "value": 164015,
+          "currency": "£",
+          "source": "Of which £72,815 is to the Imperial Government, bearing no interest"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_gibraltar_docks_001",
+        "type": "dock",
+        "name": "Three graving docks",
+        "location": "Gibraltar",
+        "specifications": {
+          "construction_cost": {
+            "value": null,
+            "currency": "£"
+          }
+        },
+        "year": "1906"
+      },
+      {
+        "id": "infra_barbados_railway_001",
+        "type": "railway",
+        "name": "Bridgetown and St. Andrew Railway",
+        "location": "Barbados",
+        "route": {
+          "from": "Bridgetown",
+          "to": "St. Andrew"
+        },
+        "specifications": {
+          "length": {
+            "value": 28,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 39011,
+            "currency": "£"
+          },
+          "annual_revenue": {
+            "value": 5922,
+            "currency": "£",
+            "year": "1904"
+          }
+        },
+        "year": "1906"
+      },
+      {
+        "id": "infra_ceylon_harbour_001",
+        "type": "harbor",
+        "name": "Colombo Harbour",
+        "location": "Colombo",
+        "specifications": {
+          "construction_cost": {
+            "value": 2301214,
+            "currency": "£"
+          }
+        },
+        "year": "1906"
+      },
+      {
+        "id": "infra_ceylon_railway_001",
+        "type": "railway",
+        "name": "Ceylon Government Railways",
+        "location": "Ceylon",
+        "specifications": {
+          "length": {
+            "value": 561.5,
+            "unit": "miles"
+          },
+          "construction_cost": {
+            "value": 70917921,
+            "currency": "Rs."
+          },
+          "annual_revenue": {
+            "value": 8891586,
+            "currency": "Rs.",
+            "year": "1904"
+          },
+          "annual_expenses": {
+            "value": 5041033,
+            "currency": "Rs.",
+            "year": "1904"
+          }
+        },
+        "year": "1906"
+      },
+      {
+        "id": "infra_cyprus_railway_001",
+        "type": "railway",
+        "name": "Government Railway",
+        "location": "Cyprus",
+        "route": {
+          "from": "Famagusta",
+          "to": "Nicosia",
+          "via": [
+            "Extension to Karavastasi in progress"
+          ]
+        },
+        "year": "1906"
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_gibraltar_1904_001",
+        "location": "Gibraltar",
+        "year": "1904",
+        "census_date": "estimated 1904",
+        "total_population": 19102,
+        "breakdowns": [
+          {
+            "category": "exclusive of military",
+            "count": 19102
+          }
+        ]
+      },
+      {
+        "id": "demo_bahamas_1901_001",
+        "location": "Bahamas",
+        "year": "1901",
+        "census_date": "census 1901",
+        "total_population": 53735,
+        "breakdowns": []
+      },
+      {
+        "id": "demo_barbados_1904_001",
+        "location": "Barbados",
+        "year": "1904",
+        "census_date": "end of December, 1904",
+        "total_population": 199514,
+        "breakdowns": []
+      },
+      {
+        "id": "demo_basutoland_1904_001",
+        "location": "Basutoland",
+        "year": "1904",
+        "census_date": "17 April, 1904",
+        "total_population": 348706,
+        "breakdowns": [
+          {
+            "category": "Natives",
+            "count": 347731
+          },
+          {
+            "category": "Whites",
+            "count": 975
+          }
+        ]
+      },
+      {
+        "id": "demo_bermuda_1901_001",
+        "location": "Bermuda",
+        "year": "1901",
+        "census_date": "census 1901",
+        "total_population": 17536,
+        "breakdowns": [
+          {
+            "category": "White",
+            "count": 6383
+          },
+          {
+            "category": "Coloured",
+            "count": 11152
+          }
+        ]
+      },
+      {
+        "id": "demo_british_honduras_1904_001",
+        "location": "British Honduras",
+        "year": "1904",
+        "census_date": "31st March, 1904",
+        "total_population": 39668,
+        "breakdowns": [
+          {
+            "category": "Europeans",
+            "count": 253
+          },
+          {
+            "category": "White Americans",
+            "count": 118
+          },
+          {
+            "category": "Of European descent",
+            "count": 1500
+          }
+        ]
+      },
+      {
+        "id": "demo_ceylon_1901_001",
+        "location": "Ceylon",
+        "year": "1901",
+        "census_date": "1st March, 1901",
+        "total_population": 3576990,
+        "breakdowns": [
+          {
+            "category": "Europeans",
+            "count": 9000
+          },
+          {
+            "category": "Burghers and Eurasians",
+            "count": 23000
+          },
+          {
+            "category": "Moormen",
+            "count": 225000
+          },
+          {
+            "category": "Malays",
+            "count": 11000
+          },
+          {
+            "category": "Sinhalese",
+            "count": 2334000
+          },
+          {
+            "category": "Tamils",
+            "count": 955000
+          }
+        ]
+      },
+      {
+        "id": "demo_cyprus_1901_001",
+        "location": "Cyprus",
+        "year": "1901",
+        "census_date": "census 1901",
+        "total_population": 237022,
+        "breakdowns": [
+          {
+            "category": "Moslems",
+            "count": 50961,
+            "subcategories": {
+              "percentage": "21.5%"
+            }
+          },
+          {
+            "category": "Christians of Orthodox Greek Church",
+            "count": 186061,
+            "subcategories": {
+              "percentage": "78.5%"
+            }
+          }
+        ]
+      },
+      {
+        "id": "demo_dominica_1903_001",
+        "location": "Dominica",
+        "year": "1903",
+        "census_date": "estimated 1903",
+        "total_population": 30289,
+        "breakdowns": []
+      },
+      {
+        "id": "demo_falkland_1904_001",
+        "location": "Falkland Islands",
+        "year": "1904",
+        "census_date": "31st December, estimated",
+        "total_population": 2009,
+        "breakdowns": []
+      }
+    ],
+    "events": [
+      {
+        "id": "event_gibraltar_capture_001",
+        "date": "24th July, 1704",
+        "type": "cession",
+        "description": "Gibraltar captured by British forces under Sir George Rooke",
+        "locations": [
+          "place_gibraltar_001"
+        ],
+        "year_mentioned": "1906"
+      },
+      {
+        "id": "event_gibraltar_treaty_001",
+        "date": "1713",
+        "type": "treaty",
+        "description": "Ceded by the Treaty of Utrecht",
+        "locations": [
+          "place_gibraltar_001"
+        ],
+        "year_mentioned": "1906"
+      },
+      {
+        "id": "event_gibraltar_siege_001",
+        "date": "1779-83",
+        "type": "other",
+        "description": "Successfully defended by Gen. Eliot (afterwards Lord Heathfield) in the great siege",
+        "locations": [
+          "place_gibraltar_001"
+        ],
+        "year_mentioned": "1906"
+      },
+      {
+        "id": "event_bermuda_discovery_001",
+        "date": "1515",
+        "type": "other",
+        "description": "Islands discovered by Spanish mariner Juan Bermudez",
+        "locations": [
+          "place_bermuda_001"
+        ],
+        "year_mentioned": "1906"
+      },
+      {
+        "id": "event_bermuda_wreck_001",
+        "date": "1609",
+        "type": "other",
+        "description": "Admiral Sir George Somers' ship The Sea Venture wrecked on reef while conveying colonists to Virginia",
+        "locations": [
+          "place_bermuda_001"
+        ],
+        "year_mentioned": "1906"
+      },
+      {
+        "id": "event_british_honduras_discovery_001",
+        "date": "1502",
+        "type": "other",
+        "description": "Coast discovered by Columbus",
+        "locations": [
+          "place_british_honduras_001"
+        ],
+        "year_mentioned": "1906"
+      },
+      {
+        "id": "event_ceylon_occupation_001",
+        "date": "1795-6",
+        "type": "cession",
+        "description": "British took possession of Dutch settlements in the island",
+        "locations": [
+          "place_ceylon_001"
+        ],
+        "year_mentioned": "1906"
+      },
+      {
+        "id": "event_ceylon_separate_colony_001",
+        "date": "1801",
+        "type": "constitutional_change",
+        "description": "Ceylon constituted a separate Colony",
+        "locations": [
+          "place_ceylon_001"
+        ],
+        "year_mentioned": "1906"
+      },
+      {
+        "id": "event_cyprus_convention_001",
+        "date": "4th June, 1878",
+        "type": "treaty",
+        "description": "Convention signed at Constantinople between representatives of Her Britannic Majesty and Sultan of Turkey, by which England engaged to defend Sultan's Asiatic possessions against Russia, and Sultan consented to assign Cyprus to be occupied and administered by England",
+        "locations": [
+          "place_cyprus_001"
+        ],
+        "year_mentioned": "1906"
+      },
+      {
+        "id": "event_dominica_discovery_001",
+        "date": "3rd of November, 1493",
+        "type": "other",
+        "description": "Island discovered by Christopher Columbus on Sunday (hence its name) in the course of his second voyage",
+        "locations": [
+          "place_dominica_001"
+        ],
+        "year_mentioned": "1906"
+      },
+      {
+        "id": "event_falkland_discovery_001",
+        "date": "1592",
+        "type": "other",
+        "description": "Falklands discovered by Davis",
+        "locations": [
+          "place_falkland_islands_001"
+        ],
+        "year_mentioned": "1906"
+      },
+      {
+        "id": "event_falkland_british_possession_001",
+        "date": "1832",
+        "type": "cession",
+        "description": "Taken possession of by the British Government for the protection of the whale fishery",
+        "locations": [
+          "place_falkland_islands_001"
+        ],
+        "year_mentioned": "1906"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "place_nassau_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_bahamas_001",
+      "properties": {
+        "year": "1906"
+      }
+    },
+    {
+      "source_id": "place_bridgetown_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_barbados_001",
+      "properties": {
+        "year": "1906"
+      }
+    },
+    {
+      "source_id": "place_maseru_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_basutoland_001",
+      "properties": {
+        "year": "1906"
+      }
+    },
+    {
+      "source_id": "place_hamilton_bermuda_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_bermuda_001",
+      "properties": {
+        "year": "1906"
+      }
+    },
+    {
+      "source_id": "place_belize_city_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_british_honduras_001",
+      "properties": {
+        "year": "1906"
+      }
+    },
+    {
+      "source_id": "place_colombo_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_ceylon_001",
+      "properties": {
+        "year": "1906"
+      }
+    },
+    {
+      "source_id": "place_nicosia_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_cyprus_001",
+      "properties": {
+        "year": "1906"
+      }
+    },
+    {
+      "source_id": "place_roseau_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_dominica_001",
+      "properties": {
+        "year": "1906"
+      }
+    },
+    {
+      "source_id": "place_stanley_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_falkland_islands_001",
+      "properties": {
+        "year": "1906"
+      }
+    },
+    {
+      "source_id": "person_gibraltar_forestier_walker_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_gibraltar_001",
+      "properties": {
+        "year": "1906",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_australia_deakin_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_australia_001",
+      "properties": {
+        "year": "1906",
+        "context": "Prime Minister"
+      }
+    },
+    {
+      "source_id": "person_bahamas_grey_wilson_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_bahamas_001",
+      "properties": {
+        "year": "1906",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_barbados_carter_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_barbados_001",
+      "properties": {
+        "year": "1906",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_basutoland_sloley_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_basutoland_001",
+      "properties": {
+        "year": "1906",
+        "context": "Resident Commissioner"
+      }
+    },
+    {
+      "source_id": "person_bermuda_stewart_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_bermuda_001",
+      "properties": {
+        "year": "1906",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_ceylon_blake_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_ceylon_001",
+      "properties": {
+        "year": "1906",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "person_cyprus_king_harman_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_cyprus_001",
+      "properties": {
+        "year": "1906",
+        "context": "High Commissioner"
+      }
+    },
+    {
+      "source_id": "person_fiji_im_thurn_001",
+      "relationship_type": "GOVERNED_BY",
+      "target_id": "place_fiji_001",
+      "properties": {
+        "year": "1906",
+        "context": "Governor"
+      }
+    },
+    {
+      "source_id": "infra_barbados_railway_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_barbados_001",
+      "properties": {
+        "year": "1906"
+      }
+    },
+    {
+      "source_id": "infra_ceylon_harbour_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_colombo_001",
+      "properties": {
+        "year": "1906"
+      }
+    },
+    {
+      "source_id": "infra_ceylon_railway_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_ceylon_001",
+      "properties": {
+        "year": "1906"
+      }
+    },
+    {
+      "source_id": "infra_cyprus_railway_001",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_cyprus_001",
+      "properties": {
+        "year": "1906"
+      }
+    }
+  ]
+}

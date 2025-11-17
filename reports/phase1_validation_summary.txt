@@ -1,0 +1,488 @@
+================================================================================
+KNOWLEDGE GRAPH VALIDATION SUMMARY REPORT
+================================================================================
+Generated: 2025-11-17T01:54:49.144898
+
+Total files validated: 61
+Valid files: 4 (6.6%)
+Invalid files: 57 (93.4%)
+Total errors: 12951
+Total warnings: 3
+
+--------------------------------------------------------------------------------
+FILES WITH ERRORS:
+--------------------------------------------------------------------------------
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1867_extracted.json (Year: 1867)
+  Errors: 4
+    - [entities -> places -> 25 -> coordinates -> longitude] missing: Field required
+    - [entities -> institutions -> 12 -> type] enum: Input should be 'executive_council', 'legislative_council', 'privy_council', 'court', 'department', 'military_unit', 'police_force', 'educational', 'medical', 'religious', 'bank', 'postal' or 'public_works'
+    - [entities -> demographics -> 4 -> breakdowns -> 1 -> count] float_type: Input should be a valid number
+    - [entities -> demographics -> 4 -> breakdowns -> 2 -> count] float_type: Input should be a valid number
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1877_extracted.json (Year: None)
+  Errors: 75
+    - [metadata -> year] missing: Field required
+    - [metadata -> source_directory] missing: Field required
+    - [entities] missing: Field required
+    - [relationships -> 0 -> source_id] missing: Field required
+    - [relationships -> 0 -> relationship_type] enum: Input should be 'PART_OF', 'DEPENDENCY_OF', 'DISTANCE_FROM', 'BORDERS', 'LOCATED_IN', 'GOVERNED_BY', 'MEMBER_OF', 'REPORTS_TO', 'ADMINISTERS', 'TRADES_WITH', 'EXPORTS', 'IMPORTS', 'CONNECTS', 'PRECEDED_BY', 'SUCCEEDED_BY' or 'DURING_YEAR'
+    ... and 70 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1880_extracted.json (Year: 1880)
+  Errors: 3
+    - [entities -> places -> 19 -> coordinates -> longitude] missing: Field required
+    - [entities -> places -> 32 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+    - [entities -> places -> 45 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1883_extracted.json (Year: 1883)
+  Errors: 49
+    - [entities] missing: Field required
+    - [relationships -> 0 -> source_id] missing: Field required
+    - [relationships -> 0 -> relationship_type] enum: Input should be 'PART_OF', 'DEPENDENCY_OF', 'DISTANCE_FROM', 'BORDERS', 'LOCATED_IN', 'GOVERNED_BY', 'MEMBER_OF', 'REPORTS_TO', 'ADMINISTERS', 'TRADES_WITH', 'EXPORTS', 'IMPORTS', 'CONNECTS', 'PRECEDED_BY', 'SUCCEEDED_BY' or 'DURING_YEAR'
+    - [relationships -> 0 -> target_id] missing: Field required
+    - [relationships -> 1 -> source_id] missing: Field required
+    ... and 44 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1888_extracted.json (Year: 1888)
+  Errors: 1
+    - [entities] missing: Field required
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1889_extracted.json (Year: 1889)
+  Errors: 49
+    - [entities] missing: Field required
+    - [relationships -> 0 -> source_id] missing: Field required
+    - [relationships -> 0 -> relationship_type] missing: Field required
+    - [relationships -> 0 -> target_id] missing: Field required
+    - [relationships -> 1 -> source_id] missing: Field required
+    ... and 44 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1890_extracted.json (Year: 1890)
+  Errors: 1029
+    - [entities -> people -> 19 -> positions -> 0 -> year] missing: Field required
+    - [entities -> people -> 20 -> positions -> 0 -> year] missing: Field required
+    - [entities -> people -> 21 -> positions -> 0 -> year] missing: Field required
+    - [entities -> people -> 22 -> positions -> 0 -> year] missing: Field required
+    - [entities -> people -> 23 -> positions -> 0 -> year] missing: Field required
+    ... and 1024 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1894_extracted.json (Year: None)
+  Errors: 3
+    - [metadata -> year] missing: Field required
+    - [metadata -> source_directory] missing: Field required
+    - [entities] missing: Field required
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1896_extracted.json (Year: 1896)
+  Errors: 69
+    - [entities -> places -> 17 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+    - [entities -> places -> 21 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+    - [entities -> people -> 4 -> positions -> 0 -> salary -> amount] missing: Field required
+    - [entities -> institutions -> 4 -> composition -> members] list_type: Input should be a valid list
+    - [entities -> institutions -> 5 -> type] enum: Input should be 'executive_council', 'legislative_council', 'privy_council', 'court', 'department', 'military_unit', 'police_force', 'educational', 'medical', 'religious', 'bank', 'postal' or 'public_works'
+    ... and 64 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1897_extracted.json (Year: 1897)
+  Errors: 13
+    - [entities -> places -> 35 -> coordinates -> longitude] missing: Field required
+    - [entities -> institutions -> 15 -> type] enum: Input should be 'executive_council', 'legislative_council', 'privy_council', 'court', 'department', 'military_unit', 'police_force', 'educational', 'medical', 'religious', 'bank', 'postal' or 'public_works'
+    - [entities -> economic_data -> 5 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    - [entities -> economic_data -> 8 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    - [entities -> economic_data -> 12 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    ... and 8 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1898_extracted.json (Year: 1898)
+  Errors: 28
+    - [entities -> economic_data -> 10 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> economic_data -> 10 -> time_series -> 0 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> economic_data -> 10 -> time_series -> 1 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> economic_data -> 10 -> time_series -> 2 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> economic_data -> 10 -> time_series -> 3 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    ... and 23 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1899_extracted.json (Year: 1899)
+  Errors: 3
+    - [entities -> economic_data -> 6 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> infrastructure -> 2 -> specifications -> annual_revenue -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> infrastructure -> 2 -> specifications -> annual_expenses -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1900_extracted.json (Year: 1900)
+  Errors: 1
+    - [entities] missing: Field required
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1905_extracted.json (Year: 1905)
+  Errors: 27
+    - [entities -> places -> 16 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+    - [entities -> places -> 21 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+    - [entities -> economic_data -> 0 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> economic_data -> 1 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> economic_data -> 4 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    ... and 22 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1906_extracted.json (Year: 1906)
+  Errors: 9
+    - [entities -> economic_data -> 6 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> economic_data -> 7 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> economic_data -> 9 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> economic_data -> 10 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> economic_data -> 19 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    ... and 4 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1907_extracted.json (Year: 1907)
+  Errors: 33
+    - [entities -> places -> 0 -> coordinates -> latitude] missing: Field required
+    - [entities -> places -> 1 -> coordinates -> latitude] missing: Field required
+    - [entities -> places -> 9 -> coordinates -> latitude] missing: Field required
+    - [entities -> places -> 12 -> coordinates -> latitude] missing: Field required
+    - [entities -> places -> 15 -> coordinates -> latitude] missing: Field required
+    ... and 28 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1908_extracted.json (Year: 1908)
+  Errors: 178
+    - [entities -> places -> 0 -> type] missing: Field required
+    - [entities -> places -> 0 -> coordinates] model_type: Input should be a valid dictionary or instance of Coordinates
+    - [entities -> places -> 0 -> year] missing: Field required
+    - [entities -> places -> 1 -> type] missing: Field required
+    - [entities -> places -> 1 -> coordinates] model_type: Input should be a valid dictionary or instance of Coordinates
+    ... and 173 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1909_extracted.json (Year: 1909)
+  Errors: 5775
+    - [entities -> places -> 0 -> year] missing: Field required
+    - [entities -> places -> 1 -> year] missing: Field required
+    - [entities -> places -> 2 -> year] missing: Field required
+    - [entities -> places -> 3 -> year] missing: Field required
+    - [entities -> places -> 4 -> year] missing: Field required
+    ... and 5770 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1910_extracted.json (Year: 1910)
+  Errors: 11
+    - [entities -> economic_data -> 0 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> economic_data -> 1 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> economic_data -> 2 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> economic_data -> 3 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    - [entities -> economic_data -> 4 -> year] string_pattern_mismatch: String should match pattern '^\d{4}$'
+    ... and 6 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1911_extracted.json (Year: 1911)
+  Errors: 9
+    - [entities -> economic_data -> 13 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    - [entities -> economic_data -> 14 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    - [entities -> economic_data -> 17 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    - [entities -> economic_data -> 18 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    - [entities -> economic_data -> 23 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    ... and 4 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1917_extracted.json (Year: 1917)
+  Errors: 2
+    - [entities -> places -> 25 -> coordinates -> longitude] missing: Field required
+    - [entities -> places -> 46 -> coordinates -> longitude] missing: Field required
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1918_extracted.json (Year: 1918)
+  Errors: 8
+    - [entities -> infrastructure -> 0 -> type] enum: Input should be 'railway', 'telegraph', 'postal_route', 'dock', 'harbor', 'road', 'bridge', 'public_building' or 'water_works'
+    - [entities -> infrastructure -> 8 -> type] enum: Input should be 'railway', 'telegraph', 'postal_route', 'dock', 'harbor', 'road', 'bridge', 'public_building' or 'water_works'
+    - [entities -> infrastructure -> 14 -> type] enum: Input should be 'railway', 'telegraph', 'postal_route', 'dock', 'harbor', 'road', 'bridge', 'public_building' or 'water_works'
+    - [entities -> infrastructure -> 22 -> type] enum: Input should be 'railway', 'telegraph', 'postal_route', 'dock', 'harbor', 'road', 'bridge', 'public_building' or 'water_works'
+    - [entities -> infrastructure -> 30 -> type] enum: Input should be 'railway', 'telegraph', 'postal_route', 'dock', 'harbor', 'road', 'bridge', 'public_building' or 'water_works'
+    ... and 3 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1919_extracted.json (Year: 1919)
+  Errors: 183
+    - [entities -> places -> 2 -> coordinates -> latitude] missing: Field required
+    - [entities -> places -> 3 -> coordinates -> longitude] missing: Field required
+    - [entities -> places -> 24 -> coordinates -> longitude] missing: Field required
+    - [entities -> places -> 31 -> coordinates -> longitude] missing: Field required
+    - [entities -> places -> 50 -> coordinates -> longitude] missing: Field required
+    ... and 178 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1921_extracted.json (Year: 1921)
+  Errors: 14
+    - [entities -> places -> 0 -> coordinates -> latitude] missing: Field required
+    - [entities -> places -> 45 -> coordinates -> longitude] missing: Field required
+    - [entities -> places -> 97 -> coordinates -> latitude] missing: Field required
+    - [entities -> places -> 100 -> coordinates -> latitude] missing: Field required
+    - [entities -> places -> 275 -> coordinates -> longitude] missing: Field required
+    ... and 9 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1922_extracted.json (Year: 1922)
+  Errors: 207
+    - [entities -> places -> 46 -> coordinates -> longitude] missing: Field required
+    - [entities -> places -> 50 -> coordinates -> longitude] missing: Field required
+    - [entities -> events -> 1 -> type] enum: Input should be 'treaty', 'cession', 'establishment', 'rebellion', 'constitutional_change', 'appointment', 'transfer', 'disaster' or 'other'
+    - [entities -> events -> 2 -> type] enum: Input should be 'treaty', 'cession', 'establishment', 'rebellion', 'constitutional_change', 'appointment', 'transfer', 'disaster' or 'other'
+    - [entities -> events -> 3 -> type] enum: Input should be 'treaty', 'cession', 'establishment', 'rebellion', 'constitutional_change', 'appointment', 'transfer', 'disaster' or 'other'
+    ... and 202 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1924_extracted.json (Year: 1924)
+  Errors: 25
+    - [entities -> infrastructure -> 31 -> type] enum: Input should be 'railway', 'telegraph', 'postal_route', 'dock', 'harbor', 'road', 'bridge', 'public_building' or 'water_works'
+    - [entities -> infrastructure -> 78 -> type] enum: Input should be 'railway', 'telegraph', 'postal_route', 'dock', 'harbor', 'road', 'bridge', 'public_building' or 'water_works'
+    - [entities -> infrastructure -> 98 -> type] enum: Input should be 'railway', 'telegraph', 'postal_route', 'dock', 'harbor', 'road', 'bridge', 'public_building' or 'water_works'
+    - [entities -> infrastructure -> 127 -> type] enum: Input should be 'railway', 'telegraph', 'postal_route', 'dock', 'harbor', 'road', 'bridge', 'public_building' or 'water_works'
+    - [entities -> infrastructure -> 128 -> type] enum: Input should be 'railway', 'telegraph', 'postal_route', 'dock', 'harbor', 'road', 'bridge', 'public_building' or 'water_works'
+    ... and 20 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1925_enhanced_extracted.json (Year: 1925)
+  Errors: 9
+    - [entities -> places -> 8 -> coordinates -> latitude] missing: Field required
+    - [entities -> places -> 15 -> coordinates -> latitude] missing: Field required
+    - [entities -> places -> 21 -> coordinates -> longitude] missing: Field required
+    - [entities -> places -> 24 -> coordinates -> longitude] missing: Field required
+    - [entities -> places -> 27 -> coordinates -> longitude] missing: Field required
+    ... and 4 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1925_extracted.json (Year: 1925)
+  Errors: 214
+    - [entities -> places -> 8 -> coordinates -> latitude] missing: Field required
+    - [entities -> places -> 15 -> coordinates -> latitude] missing: Field required
+    - [entities -> places -> 21 -> coordinates -> longitude] missing: Field required
+    - [entities -> places -> 24 -> coordinates -> longitude] missing: Field required
+    - [entities -> places -> 27 -> coordinates -> longitude] missing: Field required
+    ... and 209 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1927_extracted.json (Year: 1927)
+  Errors: 383
+    - [entities -> people -> 338 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 4975500.0 seems unreasonably high for historical data
+    - [entities -> people -> 1628 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 61728615.0 seems unreasonably high for historical data
+    - [entities -> people -> 1629 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 5739538.0 seems unreasonably high for historical data
+    - [entities -> people -> 3073 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 43494410.0 seems unreasonably high for historical data
+    - [entities -> people -> 3074 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 1485733.0 seems unreasonably high for historical data
+    ... and 378 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1928_extracted.json (Year: 1928)
+  Errors: 2485
+    - [entities -> economic_data -> 4 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    - [entities -> economic_data -> 5 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    - [entities -> economic_data -> 6 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    - [entities -> economic_data -> 7 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    - [entities -> economic_data -> 8 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    ... and 2480 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1929_extracted.json (Year: 1929)
+  Errors: 183
+    - [entities -> places -> 1 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+    - [entities -> places -> 2 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+    - [entities -> places -> 195 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+    - [entities -> places -> 322 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+    - [entities -> places -> 334 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+    ... and 178 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1930_extracted.json (Year: 1930)
+  Errors: 22
+    - [entities -> places -> 276 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> people -> 2 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 28029192.0 seems unreasonably high for historical data
+    - [entities -> people -> 3 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 1705794.0 seems unreasonably high for historical data
+    - [entities -> people -> 82 -> positions -> 0 -> title] string_too_short: String should have at least 1 character
+    - [entities -> people -> 144 -> positions -> 0 -> title] string_too_short: String should have at least 1 character
+    ... and 17 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1931_extracted.json (Year: 1931)
+  Errors: 392
+    - [entities -> people -> 72 -> positions -> 15 -> salary -> amount] float_type: Input should be a valid number
+    - [entities -> people -> 182 -> positions -> 2 -> salary -> amount] float_type: Input should be a valid number
+    - [entities -> people -> 182 -> positions -> 3 -> salary -> amount] float_type: Input should be a valid number
+    - [entities -> people -> 210 -> positions -> 11 -> salary -> amount] float_type: Input should be a valid number
+    - [entities -> people -> 210 -> positions -> 26 -> salary -> amount] float_type: Input should be a valid number
+    ... and 387 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1933_extracted.json (Year: 1933)
+  Errors: 3
+    - [entities -> places -> 322 -> coordinates -> longitude] missing: Field required
+    - [entities -> places -> 342 -> coordinates -> longitude] missing: Field required
+    - [entities -> places -> 344 -> coordinates -> longitude] missing: Field required
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1934_extracted.json (Year: 1934)
+  Errors: 4
+    - [entities -> places -> 26 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> places -> 29 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> places -> 37 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 1350 -> specifications -> length -> value] greater_than: Input should be greater than 0
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1936_extracted.json (Year: 1936)
+  Errors: 16
+    - [entities -> places -> 8 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+    - [entities -> places -> 10 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+    - [entities -> places -> 11 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+    - [entities -> places -> 12 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+    - [entities -> places -> 13 -> type] enum: Input should be 'colony', 'territory', 'dependency', 'city', 'town', 'settlement', 'region', 'district', 'parish', 'river', 'mountain', 'harbor', 'bay', 'island' or 'feature'
+    ... and 11 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1937_extracted.json (Year: 1937)
+  Errors: 159
+    - [entities -> people -> 27 -> positions -> 0 -> title] string_too_short: String should have at least 1 character
+    - [entities -> people -> 53 -> positions -> 0 -> title] string_too_short: String should have at least 1 character
+    - [entities -> people -> 83 -> positions -> 0 -> title] string_too_short: String should have at least 1 character
+    - [entities -> people -> 83 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 1840783.0 seems unreasonably high for historical data
+    - [entities -> people -> 129 -> positions -> 0 -> title] string_too_short: String should have at least 1 character
+    ... and 154 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1946_extracted.json (Year: 1946)
+  Errors: 70
+    - [metadata -> colonies_processed -> 0] string_type: Input should be a valid string
+    - [metadata -> colonies_processed -> 1] string_type: Input should be a valid string
+    - [metadata -> colonies_processed -> 2] string_type: Input should be a valid string
+    - [metadata -> colonies_processed -> 3] string_type: Input should be a valid string
+    - [metadata -> colonies_processed -> 4] string_type: Input should be a valid string
+    ... and 65 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1948_extracted.json (Year: 1948)
+  Errors: 37
+    - [entities -> economic_data -> 2 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    - [entities -> economic_data -> 5 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    - [entities -> economic_data -> 8 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    - [entities -> economic_data -> 10 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    - [entities -> economic_data -> 13 -> type] enum: Input should be 'revenue', 'expenditure', 'trade_export', 'trade_import', 'shipping', 'currency', 'banking', 'production' or 'land_use'
+    ... and 32 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1949_extracted.json (Year: 1949)
+  Errors: 1044
+    - [entities -> places -> 13 -> coordinates -> longitude] missing: Field required
+    - [entities -> places -> 14 -> coordinates -> latitude] missing: Field required
+    - [entities -> places -> 32 -> coordinates -> longitude] missing: Field required
+    - [entities -> places -> 33 -> coordinates -> longitude] missing: Field required
+    - [entities -> people -> 0 -> titles] list_type: Input should be a valid list
+    ... and 1039 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1950_extracted.json (Year: 1950)
+  Errors: 22
+    - [entities -> infrastructure -> 501 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 1003 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 1004 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 1023 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 1322 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    ... and 17 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1951_extracted.json (Year: 1951)
+  Errors: 4
+    - [entities -> infrastructure -> 396 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 451 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 620 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 639 -> specifications -> length -> value] greater_than: Input should be greater than 0
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1952_extracted.json (Year: 1952)
+  Errors: 2
+    - [entities -> infrastructure -> 29 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 67 -> specifications -> length -> value] greater_than: Input should be greater than 0
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1953_extracted.json (Year: 1953)
+  Errors: 3
+    - [entities -> places -> 0 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> places -> 8 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 161 -> specifications -> length -> value] greater_than: Input should be greater than 0
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1954_extracted.json (Year: 1954)
+  Errors: 2
+    - [entities -> places -> 13 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 179 -> specifications -> length -> value] greater_than: Input should be greater than 0
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1955_extracted.json (Year: 1955)
+  Errors: 1
+    - [entities -> infrastructure -> 162 -> specifications -> length -> value] greater_than: Input should be greater than 0
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1956_extracted.json (Year: 1956)
+  Errors: 5
+    - [entities -> places -> 0 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> places -> 4 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 354 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 402 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 459 -> specifications -> length -> value] greater_than: Input should be greater than 0
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1957_extracted.json (Year: 1957)
+  Errors: 7
+    - [entities -> places -> 10 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> people -> 29 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 1718471.0 seems unreasonably high for historical data
+    - [entities -> people -> 30 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 1142134.0 seems unreasonably high for historical data
+    - [entities -> people -> 31 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 1498913.0 seems unreasonably high for historical data
+    - [entities -> people -> 472 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 14000000.0 seems unreasonably high for historical data
+    ... and 2 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1958_extracted.json (Year: 1958)
+  Errors: 11
+    - [entities -> places -> 9 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> people -> 29 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 1536492.0 seems unreasonably high for historical data
+    - [entities -> people -> 31 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 2471500.0 seems unreasonably high for historical data
+    - [entities -> people -> 119 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 17279000.0 seems unreasonably high for historical data
+    - [entities -> people -> 601 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 6925868.0 seems unreasonably high for historical data
+    ... and 6 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1959_extracted.json (Year: 1959)
+  Errors: 2
+    - [entities -> people -> 245 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 1359405.0 seems unreasonably high for historical data
+    - [entities -> people -> 529 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 17743000.0 seems unreasonably high for historical data
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1960_extracted.json (Year: 1960)
+  Errors: 2
+    - [entities -> places -> 14 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 13 -> specifications -> length -> value] greater_than: Input should be greater than 0
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1961_extracted.json (Year: 1961)
+  Errors: 6
+    - [entities -> places -> 1 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> people -> 286 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 2296957.0 seems unreasonably high for historical data
+    - [entities -> people -> 287 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 2431165.0 seems unreasonably high for historical data
+    - [entities -> people -> 293 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 1042682.0 seems unreasonably high for historical data
+    - [entities -> people -> 326 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 1500000.0 seems unreasonably high for historical data
+    ... and 1 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1962_extracted.json (Year: 1962)
+  Errors: 12
+    - [entities -> places -> 18 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> places -> 88 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> places -> 102 -> area -> value] greater_than: Input should be greater than 0
+    - [entities -> people -> 136 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 2296957.0 seems unreasonably high for historical data
+    - [entities -> people -> 137 -> positions -> 0 -> salary -> amount] value_error: Value error, Salary amount 2431165.0 seems unreasonably high for historical data
+    ... and 7 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1963_extracted.json (Year: 1963)
+  Errors: 19
+    - [entities -> infrastructure -> 29 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 55 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 59 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 102 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 103 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    ... and 14 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1964_extracted.json (Year: 1964)
+  Errors: 11
+    - [entities -> infrastructure -> 10 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 26 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 45 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 90 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 100 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    ... and 6 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1965_extracted.json (Year: 1965)
+  Errors: 10
+    - [entities -> infrastructure -> 16 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 26 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 49 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 72 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 85 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    ... and 5 more errors
+
+/home/user/colonial_office_list/knowledge_graph_extracts_v2/1966_extracted.json (Year: 1966)
+  Errors: 3
+    - [entities -> infrastructure -> 57 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 66 -> specifications -> length -> value] greater_than: Input should be greater than 0
+    - [entities -> infrastructure -> 162 -> specifications -> length -> value] greater_than: Input should be greater than 0
+
+--------------------------------------------------------------------------------
+DATA QUALITY WARNINGS:
+--------------------------------------------------------------------------------
+  1 files: 2385 positions (66.3%) missing salary...
+  1 files: 155 person entities have no...
+  1 files: 2051 positions (98.5%) missing salary...
+
+--------------------------------------------------------------------------------
+ENTITY STATISTICS (Valid Files Only):
+--------------------------------------------------------------------------------
+  Total places: 407
+  Total people: 5,854
+  Total institutions: 1,249
+  Total economic data points: 527
+  Total infrastructure: 826
+  Total demographics: 47
+  Total events: 499
+  Total relationships: 3,724
+
+================================================================================

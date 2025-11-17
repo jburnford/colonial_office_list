@@ -1,0 +1,1266 @@
+{
+  "metadata": {
+    "source": "Colonial Office List 1888",
+    "extraction_date": "2025-11-16",
+    "year": "1888",
+    "colonies_extracted": 33,
+    "colonies_pending": 5,
+    "note": "Initial extraction from 33 fully-read colony files. 5 large files (CAPE_OF_GOOD_HOPE, CYPRUS, DOMINION_OF_CANADA, THE_LEEWARD_ISLANDS, THE_WINDWARD_ISLANDS) require chunked reading and will be added subsequently.",
+    "source_directory": "output_2/1888"
+  },
+  "colonies": [
+    {
+      "name": "BAHAMAS",
+      "id": "bahamas_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "BARBADOS",
+      "id": "barbados_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "BASUTOLAND",
+      "id": "basutoland_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "BERMUDA",
+      "id": "bermuda_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "BRITISH_GUIANA",
+      "id": "british_guiana_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "BRITISH_HONDURAS",
+      "id": "british_honduras_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "CEYLON",
+      "id": "ceylon_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "FALKLAND_ISLANDS",
+      "id": "falkland_islands_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "FIJI",
+      "id": "fiji_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "GIBRALTAR",
+      "id": "gibraltar_1888",
+      "geographic_entities": [
+        {
+          "type": "promontory",
+          "name": "Rock of Gibraltar",
+          "description": "elevated promontory running southwards",
+          "dimensions": {
+            "elevation": {
+              "value": 1439,
+              "unit": "feet"
+            },
+            "length": {
+              "value": 2.5,
+              "unit": "miles"
+            },
+            "breadth": {
+              "value": 0.75,
+              "unit": "miles"
+            }
+          },
+          "area": {
+            "value": 1.5,
+            "unit": "square miles"
+          }
+        },
+        {
+          "type": "bay",
+          "name": "Bay of Gibraltar",
+          "description": "about 4 or 5 miles across, affords good anchorage for shipping passing through the straits"
+        },
+        {
+          "type": "town",
+          "name": "Gibraltar (town)",
+          "location": "northern portion of the west slope of the Rock",
+          "description": "one of the most thickly inhabited places in the world, but very healthy, good drainage and water supply"
+        },
+        {
+          "type": "garden",
+          "name": "Alameda",
+          "description": "picturesque public garden separating two portions of the town"
+        }
+      ],
+      "people": [
+        {
+          "name": "Sir A. E. Hardinge",
+          "titles": [
+            "General",
+            "The Hon."
+          ],
+          "honors": [
+            "K.C.B.",
+            "C.I.E."
+          ],
+          "positions": [
+            {
+              "title": "Governor",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 126100,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "Cavendish Boyle",
+          "positions": [
+            {
+              "title": "Colonial Secretary",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 22698,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "J. C. King",
+          "positions": [
+            {
+              "title": "Chief Clerk",
+              "colony": "Gibraltar"
+            },
+            {
+              "title": "Secretary to the Board of Health",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 7040,
+            "currency": "pesetas",
+            "additional": {
+              "Board_of_Health": {
+                "amount": 1261,
+                "currency": "pesetas"
+              }
+            }
+          }
+        },
+        {
+          "name": "J. Porral",
+          "positions": [
+            {
+              "title": "2nd Clerk",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 4148,
+            "currency": "pesetas",
+            "additional": {
+              "translating_and_interpreting": {
+                "amount": 1261,
+                "currency": "pesetas"
+              }
+            }
+          }
+        },
+        {
+          "name": "E. Griffin",
+          "positions": [
+            {
+              "title": "3rd Clerk",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 2887,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "M. Campbell",
+          "positions": [
+            {
+              "title": "Treasurer and Collector of Revenues",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 15192,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "F. Guibara",
+          "positions": [
+            {
+              "title": "1st Class Clerk and Cashier",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 6414,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "J. Terry",
+          "positions": [
+            {
+              "title": "Chief Clerk (Crown Lands)",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 6305,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "A. Porral",
+          "positions": [
+            {
+              "title": "1st Class Clerk (Crown Lands)",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 5044,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "A. Podesta",
+          "positions": [
+            {
+              "title": "2nd Class Clerk",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 4554,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "F. Baker",
+          "titles": [
+            "Commander"
+          ],
+          "service": "R.N.",
+          "positions": [
+            {
+              "title": "Captain of the Port",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 12610,
+            "currency": "pesetas",
+            "additional": {
+              "lodging_allowance": {
+                "amount": 1261,
+                "currency": "pesetas"
+              }
+            }
+          }
+        },
+        {
+          "name": "George Bassadone",
+          "positions": [
+            {
+              "title": "Chief Clerk",
+              "department": "Port Office",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 7187,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "J. H. Imossi",
+          "positions": [
+            {
+              "title": "2nd Class Clerk",
+              "department": "Port Office",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 4148,
+            "currency": "pesetas",
+            "note": "and fees as Registrar under Merchant Shipping Ordinance"
+          }
+        },
+        {
+          "name": "F. Planelló",
+          "positions": [
+            {
+              "title": "3rd Class Clerk",
+              "department": "Port Office",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 2887,
+            "currency": "pesetas",
+            "additional": {
+              "Registry_of_Shipping": {
+                "amount": 625,
+                "currency": "pesetas"
+              }
+            }
+          }
+        },
+        {
+          "name": "Captain Buckle",
+          "service": "late R.E.",
+          "positions": [
+            {
+              "title": "Colonial Engineer",
+              "colony": "Gibraltar"
+            },
+            {
+              "title": "Inspector of Colonial Schools",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 15132,
+            "currency": "pesetas",
+            "additional": {
+              "horse_allowance": {
+                "amount": 1261,
+                "currency": "pesetas"
+              },
+              "inspector_schools": {
+                "amount": 6,
+                "unit": "pes. per diem"
+              }
+            }
+          }
+        },
+        {
+          "name": "Andrew Patterson",
+          "positions": [
+            {
+              "title": "Colonial Auditor",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 7566,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "J. C. Phillips",
+          "positions": [
+            {
+              "title": "Clerk",
+              "department": "Audit",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 2887,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "Sir Henry J. B. Burford-Hancock",
+          "titles": [
+            "Sir"
+          ],
+          "honors": [
+            "Knight"
+          ],
+          "positions": [
+            {
+              "title": "Chief Justice",
+              "colony": "Gibraltar"
+            },
+            {
+              "title": "Judge of Vice-Admiralty",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 31629,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "E. J. Baumgartner",
+          "positions": [
+            {
+              "title": "Registrar of the Supreme Court",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 17654,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "J. B. Recafio",
+          "positions": [
+            {
+              "title": "Assistant Registrar",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 6805,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "T. J. Vecchio",
+          "positions": [
+            {
+              "title": "Marshal",
+              "department": "Supreme Court",
+              "colony": "Gibraltar"
+            },
+            {
+              "title": "Interpreter",
+              "department": "Supreme Court",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 3909,
+            "currency": "pesetas",
+            "note": "and fees"
+          }
+        },
+        {
+          "name": "Robert Ffrench Sheriff",
+          "positions": [
+            {
+              "title": "Attorney-General",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 20176,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "A. Sanchez",
+          "positions": [
+            {
+              "title": "Clerk in the Supreme Court",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 4589,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "A. Bosano",
+          "positions": [
+            {
+              "title": "Clerk to the Attorney-General",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 4413,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "A. W. Fawkes",
+          "positions": [
+            {
+              "title": "Police Magistrate",
+              "colony": "Gibraltar"
+            },
+            {
+              "title": "Coroner",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 15132,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "J. G. Gordon",
+          "positions": [
+            {
+              "title": "Clerk to Magistrates",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 5554,
+            "currency": "pesetas",
+            "additional": {
+              "Registrar_Births_Marriages_Deaths": {
+                "amount": 1261,
+                "currency": "pesetas"
+              }
+            }
+          }
+        },
+        {
+          "name": "W. Seed",
+          "positions": [
+            {
+              "title": "Chief of Police",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 8827,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "R. H. Pogue",
+          "positions": [
+            {
+              "title": "Clerk to Chief of Police",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 2886,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "J. H. Bryant",
+          "positions": [
+            {
+              "title": "Port Surgeon",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 2522,
+            "currency": "pesetas"
+          }
+        },
+        {
+          "name": "Miss Creswell",
+          "positions": [
+            {
+              "title": "Postmistress",
+              "colony": "Gibraltar"
+            },
+            {
+              "title": "Superintendent of the Government Telegraph",
+              "colony": "Gibraltar"
+            }
+          ],
+          "salary": {
+            "amount": 16898,
+            "currency": "pesetas",
+            "additional": {
+              "savings_bank_duties": {
+                "amount": 625,
+                "currency": "pesetas"
+              }
+            }
+          }
+        },
+        {
+          "name": "C. W. Sandford",
+          "titles": [
+            "The Right Rev."
+          ],
+          "honors": [
+            "D.D."
+          ],
+          "positions": [
+            {
+              "title": "Anglican Bishop",
+              "colony": "Gibraltar"
+            }
+          ]
+        },
+        {
+          "name": "D. S. Govett",
+          "titles": [
+            "The Ven. Archdeacon"
+          ],
+          "honors": [
+            "M.A."
+          ],
+          "positions": [
+            {
+              "title": "Civil Chaplain",
+              "colony": "Gibraltar"
+            }
+          ]
+        },
+        {
+          "name": "G. Canilla",
+          "titles": [
+            "The Right Rev."
+          ],
+          "honors": [
+            "D.D."
+          ],
+          "positions": [
+            {
+              "title": "Roman Catholic Vicar Apostolic",
+              "colony": "Gibraltar"
+            }
+          ]
+        }
+      ],
+      "institutions": [
+        {
+          "type": "executive",
+          "name": "Government of Gibraltar",
+          "description": "No Executive Council, nor any legislative body; the Governor exercising by himself all the functions of government and legislation",
+          "head": "Governor"
+        },
+        {
+          "type": "department",
+          "name": "Colonial Secretary's Office",
+          "colony": "Gibraltar"
+        },
+        {
+          "type": "department",
+          "name": "Treasury",
+          "colony": "Gibraltar"
+        },
+        {
+          "type": "department",
+          "name": "Port Office",
+          "colony": "Gibraltar"
+        },
+        {
+          "type": "department",
+          "name": "Audit",
+          "colony": "Gibraltar"
+        },
+        {
+          "type": "court",
+          "name": "Supreme Court",
+          "colony": "Gibraltar"
+        },
+        {
+          "type": "court",
+          "name": "Vice-Admiralty Court",
+          "colony": "Gibraltar"
+        },
+        {
+          "type": "department",
+          "name": "Police Department",
+          "colony": "Gibraltar"
+        },
+        {
+          "type": "bank",
+          "name": "Government Savings Bank",
+          "colony": "Gibraltar",
+          "established": 1882,
+          "deposits": {
+            "amount": 31048,
+            "currency": "pounds",
+            "date": "31st December 1886"
+          },
+          "depositors": 1213
+        },
+        {
+          "type": "military",
+          "name": "Garrison",
+          "colony": "Gibraltar",
+          "commander": "Governor (also General commanding the garrison)"
+        }
+      ],
+      "economic_data": [
+        {
+          "type": "revenue_expenditure",
+          "year": 1877,
+          "revenue": {
+            "amount": 41850,
+            "currency": "pounds"
+          },
+          "expenditure": {
+            "amount": 43890,
+            "currency": "pounds"
+          }
+        },
+        {
+          "type": "revenue_expenditure",
+          "year": 1878,
+          "revenue": {
+            "amount": 42859,
+            "currency": "pounds"
+          },
+          "expenditure": {
+            "amount": 51895,
+            "currency": "pounds"
+          }
+        },
+        {
+          "type": "revenue_expenditure",
+          "year": 1879,
+          "revenue": {
+            "amount": 43841,
+            "currency": "pounds"
+          },
+          "expenditure": {
+            "amount": 47727,
+            "currency": "pounds"
+          }
+        },
+        {
+          "type": "revenue_expenditure",
+          "year": 1880,
+          "revenue": {
+            "amount": 44848,
+            "currency": "pounds"
+          },
+          "expenditure": {
+            "amount": 45868,
+            "currency": "pounds"
+          }
+        },
+        {
+          "type": "revenue_expenditure",
+          "year": 1881,
+          "revenue": {
+            "amount": 44899,
+            "currency": "pounds"
+          },
+          "expenditure": {
+            "amount": 49972,
+            "currency": "pounds"
+          }
+        },
+        {
+          "type": "revenue_expenditure",
+          "year": 1882,
+          "revenue": {
+            "amount": 45882,
+            "currency": "pounds"
+          },
+          "expenditure": {
+            "amount": 54888,
+            "currency": "pounds"
+          }
+        },
+        {
+          "type": "revenue_expenditure",
+          "year": 1883,
+          "revenue": {
+            "amount": 48835,
+            "currency": "pounds"
+          },
+          "expenditure": {
+            "amount": 52681,
+            "currency": "pounds"
+          }
+        },
+        {
+          "type": "revenue_expenditure",
+          "year": 1884,
+          "revenue": {
+            "amount": 45905,
+            "currency": "pounds"
+          },
+          "expenditure": {
+            "amount": 51185,
+            "currency": "pounds"
+          }
+        },
+        {
+          "type": "revenue_expenditure",
+          "year": 1885,
+          "revenue": {
+            "amount": 44052,
+            "currency": "pounds"
+          },
+          "expenditure": {
+            "amount": 47262,
+            "currency": "pounds"
+          }
+        },
+        {
+          "type": "revenue_expenditure",
+          "year": 1886,
+          "revenue": {
+            "amount": 50888,
+            "currency": "pounds"
+          },
+          "expenditure": {
+            "amount": 52581,
+            "currency": "pounds"
+          }
+        },
+        {
+          "type": "customs_revenue",
+          "year": 1885,
+          "amount": 11187,
+          "currency": "pounds"
+        },
+        {
+          "type": "port_of_registry",
+          "vessels": 87,
+          "total_tonnage": 7388,
+          "date": "31st December 1886"
+        },
+        {
+          "type": "shipping",
+          "year": 1886,
+          "total_entered_cleared": {
+            "tonnage": 8874389
+          },
+          "british_tonnage": 6678379
+        },
+        {
+          "type": "trade_with_england",
+          "year": 1885,
+          "exports_from_england": {
+            "amount": 715482,
+            "currency": "pounds"
+          },
+          "imports_to_england": {
+            "amount": 15832,
+            "currency": "pounds"
+          }
+        },
+        {
+          "type": "currency",
+          "legal_tender": "Spain",
+          "note": "1 peseta = 1 franc, approximately"
+        },
+        {
+          "type": "tariff",
+          "items": [
+            {
+              "item": "Wine in wood",
+              "unit": "per gallon",
+              "duty": {
+                "amount": 0.4,
+                "currency": "pesetas"
+              }
+            },
+            {
+              "item": "Wine in bottles",
+              "unit": "per dozen",
+              "duty": {
+                "amount": 1.25,
+                "currency": "pesetas"
+              }
+            },
+            {
+              "item": "Spirits",
+              "unit": "per proof gallon",
+              "duty": {
+                "amount": 5.0,
+                "currency": "pesetas"
+              }
+            },
+            {
+              "item": "Cordials or liqueurs",
+              "unit": "per gallon",
+              "duty": {
+                "amount": 5.0,
+                "currency": "pesetas"
+              }
+            },
+            {
+              "item": "Malt liquor",
+              "unit": "per gallon",
+              "duty": {
+                "amount": 0.05,
+                "currency": "pesetas"
+              }
+            }
+          ]
+        }
+      ],
+      "infrastructure": [
+        {
+          "type": "postal",
+          "description": "daily postal communication with England by way of Spain and France",
+          "rates": {
+            "letters_to_england": "2½d. per oz.",
+            "newspapers_to_england": "1d.",
+            "internal_postage": "1d. per ¼ oz."
+          }
+        },
+        {
+          "type": "telegraph",
+          "connections": [
+            "Spain",
+            "Tangier",
+            "Malta",
+            "Lisbon"
+          ],
+          "description": "direct telegraphic communication with Spain, and by cable to Tangier, Malta, and Lisbon"
+        },
+        {
+          "type": "postal_branches",
+          "locations": [
+            "Tangier",
+            "Larache",
+            "Rabat",
+            "Casablanca",
+            "Safi",
+            "Mazagan",
+            "Mogador"
+          ],
+          "country": "Morocco"
+        },
+        {
+          "type": "port",
+          "name": "Gibraltar",
+          "description": "extensively used as a port of call and coaling station, entrepôt of trade between England and Arabian states of Northern Africa, free port"
+        }
+      ],
+      "demographics": [
+        {
+          "year": 1881,
+          "census": true,
+          "total_population": 18881,
+          "note": "exclusive of Military"
+        }
+      ],
+      "historical_events": [
+        {
+          "date": "1704-07-24",
+          "event": "Rock of Gibraltar captured by British Forces"
+        },
+        {
+          "date": "1713",
+          "event": "Formally ceded by Spain by the Treaty of Utrecht"
+        }
+      ]
+    },
+    {
+      "name": "GRENADA",
+      "id": "grenada_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "HONG_KONG",
+      "id": "hong_kong_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "JAMAICA",
+      "id": "jamaica_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "LABUAN",
+      "id": "labuan_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "MAURITIUS",
+      "id": "mauritius_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "NATAL",
+      "id": "natal_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "NEW_SOUTH_WALES",
+      "id": "new_south_wales_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "id": "newfoundland_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "NEW_ZEALAND",
+      "id": "new_zealand_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "QUEENSLAND",
+      "id": "queensland_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "SOUTH_AUSTRALIA",
+      "id": "south_australia_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "ST_HELENA",
+      "id": "st_helena_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "STRAITS_SETTLEMENTS",
+      "id": "straits_settlements_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "TASMANIA",
+      "id": "tasmania_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "THE_GAMBIA",
+      "id": "the_gambia_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "THE_GOLD_COAST_COLONY",
+      "id": "the_gold_coast_colony_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "THE_WINDWARD_ISLANDS",
+      "id": "the_windward_islands_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "TRINIDAD",
+      "id": "trinidad_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "TURKS_AND_CAICOS_ISLANDS",
+      "id": "turks_and_caicos_islands_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "VICTORIA",
+      "id": "victoria_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "WEST_AFRICA_SETTLEMENTS",
+      "id": "west_africa_settlements_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "WESTERN_AUSTRALIA",
+      "id": "western_australia_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    },
+    {
+      "name": "ZULULAND",
+      "id": "zululand_1888",
+      "geographic_entities": [],
+      "people": [],
+      "institutions": [],
+      "economic_data": [],
+      "infrastructure": [],
+      "demographics": [],
+      "historical_events": []
+    }
+  ]
+}

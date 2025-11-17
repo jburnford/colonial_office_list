@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "year": "1915",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1915.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1915_manual_parsed",
+    "extraction_date": "2025-11-17T21:59:09.186221Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM-based extraction)",
+    "colonies_processed": [
+      "MAURITIUS"
+    ],
+    "processing_notes": "Year 1915 extraction - Indian Ocean colony with sugar industry, railway system, dependencies including Seychelles and Rodrigues."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "GCMG": {
+        "full_name": "Knight Grand Cross of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 1
+      },
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "KCB": {
+        "full_name": "Knight Commander of the Order of the Bath",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Right Rev": {
+        "full_form": "Right Reverend",
+        "category": "religious"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor and Commander-in-Chief",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_mauritius",
+        "name": "Mauritius",
+        "type": "colony",
+        "year": "1915",
+        "location_context": {
+          "mentioned_in_colony": "MAURITIUS",
+          "actual_location_country": "Mauritius",
+          "certainty": "definite",
+          "reasoning": "Main colony entry - Indian Ocean island"
+        },
+        "area": {
+          "value": 720,
+          "unit": "square_miles",
+          "source": "Opening lines"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1915_manual_parsed/MAURITIUS.md",
+          "source_lines": "1-10",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T21:59:09.186226Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_port_louis",
+        "name": "Port Louis",
+        "type": "city",
+        "year": "1915",
+        "location_context": {
+          "mentioned_in_colony": "MAURITIUS",
+          "actual_location_country": "Mauritius",
+          "certainty": "definite",
+          "reasoning": "Capital and seat of government"
+        },
+        "parent_location": "place_mauritius",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1915_manual_parsed/MAURITIUS.md",
+          "source_lines": "10-30",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T21:59:09.186227Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "MAURITIUS",
+        "year": "1915",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1915_manual_parsed/MAURITIUS.md",
+          "source_lines": "varied",
+          "extraction_confidence": 0.9,
+          "extraction_date": "2025-11-17T21:59:09.186228Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "inferred",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [],
+    "infrastructure": [],
+    "demographics": [],
+    "events": []
+  },
+  "relationships": [
+    {
+      "source_id": "place_port_louis",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1915",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1915_manual_parsed/MAURITIUS.md",
+        "source_lines": "varied",
+        "extraction_confidence": 0.95,
+        "extraction_date": "2025-11-17T21:59:09.186230Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "inferred",
+        "verification_status": "automated"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 3,
+    "entities_by_type": {
+      "places": 2,
+      "people": 0,
+      "institutions": 1,
+      "economic_data": 0,
+      "infrastructure": 0,
+      "demographics": 0,
+      "events": 0
+    },
+    "total_relationships": 1,
+    "relationships_by_type": {
+      "LOCATED_IN": 1
+    }
+  }
+}

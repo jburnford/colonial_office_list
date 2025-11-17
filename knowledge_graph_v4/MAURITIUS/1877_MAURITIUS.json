@@ -1,0 +1,883 @@
+{
+  "metadata": {
+    "year": "1877",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1877.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1877_manual_parsed",
+    "extraction_date": "2025-11-17T22:00:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM-based extraction)",
+    "colonies_processed": ["MAURITIUS"],
+    "processing_notes": "Early period extraction (1877). Detailed revenue/expenditure tables, extensive civil establishment listings, and comprehensive immigration statistics included. French legal codes still in force."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "KCSI": {
+        "full_name": "Knight Commander of the Order of the Star of India",
+        "type": "knighthood",
+        "rank": 2
+      },
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "KCMG": {
+        "full_name": "Knight Commander of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 2
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Right Rev": {
+        "full_form": "Right Reverend",
+        "category": "religious"
+      },
+      "Very Rev": {
+        "full_form": "Very Reverend",
+        "category": "religious"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Major-Gen": {
+        "full_form": "Major-General",
+        "category": "military"
+      },
+      "Lt-Col": {
+        "full_form": "Lieutenant-Colonel",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Governor and Commander-in-Chief": {
+        "canonical_name": "Governor and Commander-in-Chief",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Receiver-General": {
+        "canonical_name": "Receiver-General",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      },
+      "Auditor-General": {
+        "canonical_name": "Auditor-General",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_mauritius",
+        "name": "Mauritius",
+        "type": "colony",
+        "year": "1877",
+        "location_context": {
+          "mentioned_in_colony": "MAURITIUS",
+          "actual_location_country": "Mauritius",
+          "certainty": "definite",
+          "reasoning": "Main colony entry"
+        },
+        "coordinates": {
+          "latitude": -20.25,
+          "longitude": 57.5,
+          "source": "Lines 3: between 57° 17' and 57° 46' E. long., and 19° 58' and 20° 32' S. lat."
+        },
+        "area": {
+          "value": 676,
+          "unit": "square_miles",
+          "source": "Line 3"
+        },
+        "population": {
+          "total": 344602,
+          "year": "1875",
+          "breakdown": {
+            "general_population": 108267,
+            "indian_population_male": 150896,
+            "indian_population_female": 85439
+          },
+          "source": "Lines 139-145"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "1-3",
+          "original_text": "An island lying in the Indian Ocean... comprises an area of 676 square miles",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_port_louis",
+        "name": "Port Louis",
+        "type": "city",
+        "year": "1877",
+        "location_context": {
+          "mentioned_in_colony": "MAURITIUS",
+          "actual_location_country": "Mauritius",
+          "certainty": "definite",
+          "reasoning": "Capital city, mentioned in context of police and institutions"
+        },
+        "parent_location": "place_mauritius",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "521, 558",
+          "original_text": "Inspector of Prisons and Gaoler, Port Louis... Lord Bishop of Port Louis",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_rodrigues",
+        "name": "Rodrigues",
+        "type": "island",
+        "year": "1877",
+        "location_context": {
+          "mentioned_in_colony": "MAURITIUS",
+          "actual_location_country": "Mauritius",
+          "certainty": "definite",
+          "reasoning": "Dependency of Mauritius"
+        },
+        "parent_location": "place_mauritius",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "14",
+          "original_text": "The Island of Rodrigues... is situated about 300 miles east of Mauritius. It is 26 miles in length by 12 in breadth",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_seychelles",
+        "name": "Seychelles",
+        "type": "island",
+        "year": "1877",
+        "location_context": {
+          "mentioned_in_colony": "MAURITIUS",
+          "actual_location_country": "Seychelles",
+          "certainty": "definite",
+          "reasoning": "Dependency of Mauritius, located between S. lat. 4° and 5°, distance from Mauritius 940 miles"
+        },
+        "parent_location": "place_mauritius",
+        "area": {
+          "value": 50120,
+          "unit": "acres",
+          "source": "Line 16"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "16",
+          "original_text": "The Seychelles, or Mahé Islands, are situated between the parallels of S. lat. 4° and 5°; the total number of acres comprised in this group is 50,120",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_diego_garcia",
+        "name": "Diego Garcia",
+        "type": "island",
+        "year": "1877",
+        "location_context": {
+          "mentioned_in_colony": "MAURITIUS",
+          "actual_location_country": "British Indian Ocean Territory",
+          "certainty": "definite",
+          "reasoning": "Listed as dependency of Mauritius"
+        },
+        "parent_location": "place_mauritius",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "14",
+          "original_text": "Diego Garcia, and others, are dependencies of the Mauritius",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_arthur_phayre",
+        "name": "Arthur P. Phayre",
+        "titles": ["Sir", "Major-Gen"],
+        "honors": [
+          {
+            "honor": "KCSI",
+            "full_name": "Knight Commander of the Order of the Star of India"
+          },
+          {
+            "honor": "CB",
+            "full_name": "Companion of the Order of the Bath"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "colony": "MAURITIUS",
+            "status": "permanent",
+            "start_date": "21 Nov. 1874",
+            "salary": {
+              "amount": 6000,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "90, 176, 186, 207",
+          "original_text": "Maj.-Gen. Sir A. P. Phayre, K.C.S.I., C.B. . . . . 21 Nov. 1874",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_edward_newton",
+        "name": "Edward Newton",
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "MAURITIUS",
+            "status": "permanent",
+            "salary": {
+              "amount": 1420,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "178, 188, 212",
+          "original_text": "E. Newton, C.M.G., Colonial Secretary (on leave), W. H. Marsh (acting)",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_william_marsh",
+        "name": "W. H. Marsh",
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "MAURITIUS",
+            "status": "acting"
+          },
+          {
+            "title": "Auditor-General",
+            "colony": "MAURITIUS",
+            "status": "permanent",
+            "salary": {
+              "amount": 900,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "178, 181, 264",
+          "original_text": "W. H. Marsh (acting)... Auditor-General, W. H. Marsh, 900l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_charles_shand",
+        "name": "C. F. Shand",
+        "titles": ["Sir"],
+        "positions": [
+          {
+            "title": "Chief Judge",
+            "department": "Supreme Court",
+            "colony": "MAURITIUS",
+            "status": "permanent",
+            "salary": {
+              "amount": 2000,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "417",
+          "original_text": "Chief Judge, Sir C. F. Shand, Knt., 2,000l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_peter_royston",
+        "name": "P. S. Royston",
+        "titles": ["Right Rev"],
+        "positions": [
+          {
+            "title": "Lord Bishop of Mauritius",
+            "colony": "MAURITIUS",
+            "status": "permanent",
+            "salary": {
+              "amount": 720,
+              "currency": "GBP",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "546",
+          "original_text": "Lord Bishop of Mauritius, Right Rev. P. S. Royston, D.D., 720l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "MAURITIUS",
+        "year": "1877",
+        "composition": {
+          "ex_officio_members": 5
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "174-182",
+          "original_text": "Executive Council comprises Governor, Colonial Secretary, Procureur and Advocate-General, Officer in Command, Receiver-General and Auditor-General",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Legislative Council",
+        "type": "legislative_council",
+        "colony": "MAURITIUS",
+        "year": "1877",
+        "composition": {
+          "total_members": 19,
+          "official_members": 7,
+          "unofficial_members": 11
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "13, 184-202",
+          "original_text": "Legislative Council, consisting of seven official and eleven non-official members... The Council at present consists of nineteen members",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_supreme_court",
+        "name": "Supreme Court",
+        "type": "supreme_court",
+        "colony": "MAURITIUS",
+        "year": "1877",
+        "established": "23rd October, 1851",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "13, 415-432",
+          "original_text": "Supreme Court was established... by Royal Order in Council of 23rd October, 1851",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_royal_college",
+        "name": "Royal College",
+        "type": "educational",
+        "colony": "MAURITIUS",
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "571-579",
+          "original_text": "Royal College. Rector, Charles Bruce, 1,000l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1875",
+        "type": "revenue",
+        "colony": "MAURITIUS",
+        "year_applies": "1875",
+        "data": {
+          "value": 692894,
+          "currency": "GBP"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "105",
+          "original_text": "1875 | 692,894",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1875",
+        "type": "expenditure",
+        "colony": "MAURITIUS",
+        "year_applies": "1875",
+        "data": {
+          "value": 775836,
+          "currency": "GBP"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "105",
+          "original_text": "1875 | 775,836",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt_1877",
+        "type": "debt",
+        "colony": "MAURITIUS",
+        "year_applies": "1877",
+        "data": {
+          "value": 996200,
+          "currency": "GBP",
+          "category": "Public Debt",
+          "breakdown": {
+            "6_percent_debt": 896200,
+            "additional_debt": 100000
+          }
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "107",
+          "original_text": "Public Debt, 896,200l., bearing interest 6 per cent., and 100,000l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1875",
+        "type": "imports",
+        "colony": "MAURITIUS",
+        "year_applies": "1875",
+        "data": {
+          "value": 2194824,
+          "currency": "GBP"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "122",
+          "original_text": "1875 | 2,194,824",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1875",
+        "type": "exports",
+        "colony": "MAURITIUS",
+        "year_applies": "1875",
+        "data": {
+          "value": 2522099,
+          "currency": "GBP"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "122",
+          "original_text": "1875 | 2,522,099",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_military_contribution",
+        "type": "expenditure",
+        "colony": "MAURITIUS",
+        "year_applies": "1875",
+        "data": {
+          "value": 20289,
+          "currency": "GBP",
+          "category": "military contribution to Imperial Government"
+        },
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "7",
+          "original_text": "Mauritius pays 45,000l. per annum... the sum paid in 1875 amounted to 20,289l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway",
+        "name": "Government Railway",
+        "type": "railway",
+        "colony": "MAURITIUS",
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "597-604",
+          "original_text": "Railway Department. General Manager, W. H. Scott, 1,100l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_telegraph",
+        "name": "Telegraph System",
+        "type": "telegraph",
+        "colony": "MAURITIUS",
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "339",
+          "original_text": "Acting Colonial Post-master and Superintendent of Telegraphs, T. H. Thompson, 600l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_port_louis_harbour",
+        "name": "Port Louis Harbour",
+        "type": "port",
+        "colony": "MAURITIUS",
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "285-290",
+          "original_text": "Port Department. Harbour Master and Superintendent of Mercantile Marine, J. Morgan, 600l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_mauritius_1875",
+        "colony": "MAURITIUS",
+        "year_applies": "1875",
+        "population": {
+          "total": 344602,
+          "breakdown": {
+            "general_population": 108267,
+            "indian_population_male": 150896,
+            "indian_population_female": 85439
+          }
+        },
+        "notes": "Population exclusive of Military and Shipping. Significant Indian immigration recorded with detailed statistics from 1855-1875.",
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "139-145",
+          "original_text": "Estimated Population, exclusive of Military and Shipping, 31st December, 1875. General Population: 108,267; Indian Population: 150,896; 85,439",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_portuguese_discovery",
+        "type": "other",
+        "description": "Mauritius was discovered by the Portuguese in 1507. They claimed possession during nearly the whole of the 16th century.",
+        "event_date": {
+          "year": "1507",
+          "precision": "year"
+        },
+        "year_mentioned": "1877",
+        "locations": ["place_mauritius"],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "5",
+          "original_text": "The Mauritius was discovered by the Portugese in 1507. They claimed possession of it during nearly the whole of the 16th century.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_dutch_settlement",
+        "type": "establishment",
+        "description": "The Dutch made the first settlement in Mauritius in 1598, naming it Mauritius in honour of their Prince Maurice. They abandoned it in 1710.",
+        "event_date": {
+          "year": "1598",
+          "precision": "year"
+        },
+        "year_mentioned": "1877",
+        "locations": ["place_mauritius"],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "5",
+          "original_text": "The first who made any settlement in it were the Dutch in 1598, who named it Mauritius, in honour of their Prince Maurice. It was abandoned by them in 1710",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_british_capture",
+        "type": "transfer",
+        "description": "British capture of Mauritius from the French in 1810, following an expedition to end French naval operations against British merchant vessels.",
+        "event_date": {
+          "year": "1810",
+          "precision": "year"
+        },
+        "year_mentioned": "1877",
+        "locations": ["place_mauritius"],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "5",
+          "original_text": "The British Government determined on an expedition for its capture, which was effected in 1810",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "event_treaty_paris",
+        "type": "treaty",
+        "description": "The Treaty of Paris in 1814 ratified British possession of Mauritius.",
+        "event_date": {
+          "year": "1814",
+          "precision": "year"
+        },
+        "year_mentioned": "1877",
+        "locations": ["place_mauritius"],
+        "year": "1877",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+          "source_lines": "5",
+          "original_text": "The possession of the island was ratified by the Treaty of Paris, 1814",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:00:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_arthur_phayre",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+        "source_lines": "207",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T22:00:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "source_id": "place_port_louis",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+        "source_lines": "521",
+        "extraction_confidence": 0.95,
+        "extraction_date": "2025-11-17T22:00:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "inferred",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "source_id": "place_rodrigues",
+      "relationship_type": "PART_OF",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+        "source_lines": "14",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T22:00:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "source_id": "place_seychelles",
+      "relationship_type": "PART_OF",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+        "source_lines": "14-16",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T22:00:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "source_id": "place_diego_garcia",
+      "relationship_type": "PART_OF",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1877",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1877_manual_parsed/MAURITIUS.md",
+        "source_lines": "14",
+        "extraction_confidence": 0.95,
+        "extraction_date": "2025-11-17T22:00:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 30,
+    "entities_by_type": {
+      "places": 5,
+      "people": 5,
+      "institutions": 4,
+      "economic_data": 6,
+      "infrastructure": 3,
+      "demographics": 1,
+      "events": 4
+    },
+    "total_relationships": 5,
+    "relationships_by_type": {
+      "GOVERNS": 1,
+      "LOCATED_IN": 1,
+      "PART_OF": 3
+    }
+  }
+}

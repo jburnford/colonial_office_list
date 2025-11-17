@@ -1,0 +1,749 @@
+{
+  "metadata": {
+    "year": "1880",
+    "schema_version": "2.0",
+    "source_pdf": "ColonialOfficeList1880.pdf",
+    "source_directory": "/home/user/colonial_office_list/output_2/1880_manual_parsed",
+    "extraction_date": "2025-11-17T22:05:00Z",
+    "extraction_agent": "Claude-Sonnet-4.5 (LLM-based extraction)",
+    "colonies_processed": ["MAURITIUS"],
+    "processing_notes": "Late 1870s period. Detailed district structure (9 districts), railway development (North Line and Midland), comprehensive education statistics, currency transition to rupees."
+  },
+  "controlled_vocabularies": {
+    "honors": {
+      "GCMG": {
+        "full_name": "Knight Grand Cross of the Order of St Michael and St George",
+        "type": "knighthood",
+        "rank": 1
+      },
+      "CMG": {
+        "full_name": "Companion of the Order of St Michael and St George",
+        "type": "order",
+        "rank": 3
+      },
+      "CB": {
+        "full_name": "Companion of the Order of the Bath",
+        "type": "order",
+        "rank": 3
+      }
+    },
+    "titles": {
+      "Sir": {
+        "full_form": "Sir",
+        "category": "nobility"
+      },
+      "Right Rev": {
+        "full_form": "Right Reverend",
+        "category": "religious"
+      },
+      "Very Rev": {
+        "full_form": "Very Reverend",
+        "category": "religious"
+      },
+      "Rev": {
+        "full_form": "Reverend",
+        "category": "religious"
+      },
+      "Major-Gen": {
+        "full_form": "Major-General",
+        "category": "military"
+      },
+      "Lt-Col": {
+        "full_form": "Lieutenant-Colonel",
+        "category": "military"
+      }
+    },
+    "positions": {
+      "Governor": {
+        "canonical_name": "Governor and Commander-in-Chief",
+        "hierarchy_level": 2,
+        "category": "executive"
+      },
+      "Colonial Secretary": {
+        "canonical_name": "Colonial Secretary",
+        "hierarchy_level": 3,
+        "category": "administrative"
+      }
+    }
+  },
+  "entities": {
+    "places": [
+      {
+        "id": "place_mauritius",
+        "name": "Mauritius",
+        "type": "colony",
+        "year": "1880",
+        "location_context": {
+          "mentioned_in_colony": "MAURITIUS",
+          "actual_location_country": "Mauritius",
+          "certainty": "definite",
+          "reasoning": "Main colony entry"
+        },
+        "coordinates": {
+          "latitude": -20.25,
+          "longitude": 57.5,
+          "source": "Line 4: between 57° 17' and 57° 46' E. long., and 19° 58' and 20° 32' S. lat."
+        },
+        "area": {
+          "value": 713,
+          "unit": "square_miles",
+          "source": "Line 4"
+        },
+        "population": {
+          "total": 354623,
+          "year": "1878",
+          "breakdown": {
+            "general_population_male": 59519,
+            "general_population_female": 53210,
+            "indian_population_male": 151041,
+            "indian_population_female": 90853
+          },
+          "source": "Lines 164-176"
+        },
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "2-4",
+          "original_text": "An island lying in the Indian Ocean... comprises an area of about 713 square miles",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_port_louis",
+        "name": "Port Louis",
+        "type": "city",
+        "year": "1880",
+        "location_context": {
+          "mentioned_in_colony": "MAURITIUS",
+          "actual_location_country": "Mauritius",
+          "certainty": "definite",
+          "reasoning": "Capital and seat of Government"
+        },
+        "population": {
+          "total": 70000,
+          "year": "1880",
+          "source": "Line 14: with its suburbs, a population of nearly 70,000 souls"
+        },
+        "parent_location": "place_mauritius",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "14",
+          "original_text": "The City of Port Louis is the capital, and seat of Government, and contains, with its suburbs, a population of nearly 70,000 souls",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_seychelles",
+        "name": "Seychelles",
+        "type": "island",
+        "year": "1880",
+        "location_context": {
+          "mentioned_in_colony": "MAURITIUS",
+          "actual_location_country": "Seychelles",
+          "certainty": "definite",
+          "reasoning": "Dependency of Mauritius"
+        },
+        "area": {
+          "value": 50120,
+          "unit": "acres",
+          "source": "Line 20"
+        },
+        "parent_location": "place_mauritius",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "18-20",
+          "original_text": "The Seychelles Islands... dependencies of the Mauritius",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "place_rodrigues",
+        "name": "Rodrigues",
+        "type": "island",
+        "year": "1880",
+        "location_context": {
+          "mentioned_in_colony": "MAURITIUS",
+          "actual_location_country": "Mauritius",
+          "certainty": "definite",
+          "reasoning": "Dependency of Mauritius, 300 miles east"
+        },
+        "parent_location": "place_mauritius",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "18",
+          "original_text": "Island of Rodrigues... situated about 300 miles east of Mauritius. It is 26 miles in length by 12 in breadth",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "people": [
+      {
+        "id": "person_george_bowen",
+        "name": "George Ferguson Bowen",
+        "titles": ["Sir"],
+        "honors": [
+          {
+            "honor": "GCMG",
+            "full_name": "Knight Grand Cross of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Governor and Commander-in-Chief",
+            "colony": "MAURITIUS",
+            "status": "permanent",
+            "start_date": "4 April 1879",
+            "salary": {
+              "amount": 60000,
+              "currency": "Rupees",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "119, 210, 226, 252",
+          "original_text": "Sir G. F. Browne, G.C.M.G. . . . 4 April 1879",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "person_napier_broome",
+        "name": "F. Napier Broome",
+        "honors": [
+          {
+            "honor": "CMG",
+            "full_name": "Companion of the Order of St Michael and St George"
+          }
+        ],
+        "positions": [
+          {
+            "title": "Colonial Secretary",
+            "colony": "MAURITIUS",
+            "status": "permanent",
+            "salary": {
+              "amount": 13500,
+              "currency": "Rupees",
+              "period": "annual"
+            }
+          }
+        ],
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "214, 230, 258",
+          "original_text": "F. Napier Broome, C.M.G., Colonial Secretary (on leave), H. N. D. Beyts (acting)",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "institutions": [
+      {
+        "id": "inst_executive_council",
+        "name": "Executive Council",
+        "type": "executive_council",
+        "colony": "MAURITIUS",
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "208-222",
+          "original_text": "Executive Council comprises Governor, Colonial Secretary, Procureur and Advocate-General, commanding troops, Receiver-General, Auditor-General",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_legislative_council",
+        "name": "Council of Government",
+        "type": "legislative_council",
+        "colony": "MAURITIUS",
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "16, 224-248",
+          "original_text": "Legislative Council of Government consisting of certain public officers and unofficial members nominated by the Crown",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_royal_college",
+        "name": "Royal College",
+        "type": "educational",
+        "colony": "MAURITIUS",
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "26, 624-638",
+          "original_text": "The Royal College for higher education... under control of a Rector",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "inst_supreme_court",
+        "name": "Supreme Court",
+        "type": "supreme_court",
+        "colony": "MAURITIUS",
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "466-484",
+          "original_text": "Supreme Court. Chief Judge, A. G. Ellis, Rs. 17,500",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "economic_data": [
+      {
+        "id": "econ_revenue_1878",
+        "type": "revenue",
+        "colony": "MAURITIUS",
+        "year_applies": "1878",
+        "data": {
+          "value": 789544,
+          "currency": "GBP"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "135",
+          "original_text": "1878 | 789,544",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_expenditure_1878",
+        "type": "expenditure",
+        "colony": "MAURITIUS",
+        "year_applies": "1878",
+        "data": {
+          "value": 734579,
+          "currency": "GBP"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "135",
+          "original_text": "1878 | 734,579",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_debt",
+        "type": "debt",
+        "colony": "MAURITIUS",
+        "year_applies": "1880",
+        "data": {
+          "value": 800000,
+          "currency": "GBP",
+          "category": "Public Debt at 6% interest"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "137",
+          "original_text": "Public Debt, 800,000l., bearing interest 6 percent.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_imports_1878",
+        "type": "imports",
+        "colony": "MAURITIUS",
+        "year_applies": "1878",
+        "data": {
+          "value": 2229346,
+          "currency": "GBP"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "153",
+          "original_text": "1878 | 2,229,346",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_exports_1878",
+        "type": "exports",
+        "colony": "MAURITIUS",
+        "year_applies": "1878",
+        "data": {
+          "value": 3777379,
+          "currency": "GBP"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "153",
+          "original_text": "1878 | 3,777,379",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_military_contribution",
+        "type": "expenditure",
+        "colony": "MAURITIUS",
+        "year_applies": "1878",
+        "data": {
+          "value": 15000,
+          "currency": "GBP",
+          "category": "military contribution to Imperial Government"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "47",
+          "original_text": "Mauritius pays a maximum of 45,000l. per annum... the sum paid in 1878 on account, amounted to 15,000l.",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "econ_education",
+        "type": "expenditure",
+        "colony": "MAURITIUS",
+        "year_applies": "1878",
+        "data": {
+          "value": 19000,
+          "currency": "GBP",
+          "category": "education annual vote"
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "37",
+          "original_text": "The annual vote amounts to about 19,000l.",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "infrastructure": [
+      {
+        "id": "infra_railway_north",
+        "name": "North Line Railway",
+        "type": "railway",
+        "colony": "MAURITIUS",
+        "description": "Runs between Port Louis and Grand River, S.E.",
+        "specifications": {
+          "length": {
+            "value": 38,
+            "unit": "miles"
+          }
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "24",
+          "original_text": "The North Line runs between Port Louis and Grand River, S.E.; the distance between Port Louis and Grand River, S.E., by rail, is 38 miles",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_railway_midland",
+        "name": "Midland Line Railway",
+        "type": "railway",
+        "colony": "MAURITIUS",
+        "description": "Runs between Port Louis, Mahebourg, and Savanne. Will be extended to Moka.",
+        "specifications": {
+          "length": {
+            "value": 35.5,
+            "unit": "miles"
+          }
+        },
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "24",
+          "original_text": "the second line runs between Port Louis, Mahebourg, and Savanne... The Midland line will next year be extended to Moka",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_telegraph",
+        "name": "Telegraph System",
+        "type": "telegraph",
+        "colony": "MAURITIUS",
+        "description": "Telegraphic communication established throughout the island",
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "24",
+          "original_text": "Telegraphic communication is established throughout the island",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "infra_port_louis_harbour",
+        "name": "Port Louis Harbour",
+        "type": "port",
+        "colony": "MAURITIUS",
+        "description": "One of the best harbours in the East",
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "14",
+          "original_text": "The harbour is one of the best in the East",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "demographics": [
+      {
+        "id": "demo_education_1878",
+        "colony": "MAURITIUS",
+        "year_applies": "1878",
+        "population": {
+          "total": 13033,
+          "breakdown": {
+            "government_schools": 7519,
+            "grant_schools": 5514,
+            "roman_catholic": 10166,
+            "church_of_england": 1043,
+            "hindu": 1825,
+            "mahomedan": 652
+          }
+        },
+        "notes": "School population breakdown by religion: 78% Roman Catholic, 8% Church of England, 14% Hindu, 5% Mahomedan. 112 total schools (54 government, 58 grant). Nearly 200 teachers employed.",
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "28-41",
+          "original_text": "Government schools 54 with 7,519 pupils; Grant schools 58 with 5,514 pupils. Total 112 schools with 13,033 pupils",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      },
+      {
+        "id": "demo_mauritius_1878",
+        "colony": "MAURITIUS",
+        "year_applies": "1878",
+        "population": {
+          "total": 354623,
+          "breakdown": {
+            "general_population_male": 59519,
+            "general_population_female": 53210,
+            "general_population_total": 112729,
+            "indian_population_male": 151041,
+            "indian_population_female": 90853,
+            "indian_population_total": 241894
+          }
+        },
+        "notes": "Population exclusive of Military and Shipping. Significant Indian immigration continuing with detailed annual statistics.",
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "164-176",
+          "original_text": "Estimated Population, exclusive of Military and Shipping, 31st December, 1878. General Population: Male 59,519, Female 53,210. Indian Population: Male 151,041, Female 90,853",
+          "extraction_confidence": 0.95,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "parsed_table",
+          "verification_status": "automated"
+        }
+      }
+    ],
+    "events": [
+      {
+        "id": "event_metric_system",
+        "type": "constitutional_change",
+        "description": "The Metric System for weights and measures came into force on 1st May, 1878.",
+        "event_date": {
+          "year": "1878",
+          "month": "5",
+          "day": "1",
+          "precision": "exact"
+        },
+        "year_mentioned": "1880",
+        "locations": ["place_mauritius"],
+        "year": "1880",
+        "provenance": {
+          "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+          "source_lines": "45",
+          "original_text": "The Metric System, as regards weights and measures, came into force on the 1st May, 1878",
+          "extraction_confidence": 0.99,
+          "extraction_date": "2025-11-17T22:05:00Z",
+          "extraction_agent": "Claude-Sonnet-4.5",
+          "extraction_method": "direct_extraction",
+          "verification_status": "automated"
+        }
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "source_id": "person_george_bowen",
+      "relationship_type": "GOVERNS",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1880",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+        "source_lines": "252",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T22:05:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "source_id": "place_port_louis",
+      "relationship_type": "LOCATED_IN",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1880",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+        "source_lines": "14",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T22:05:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "source_id": "place_seychelles",
+      "relationship_type": "PART_OF",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1880",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+        "source_lines": "18-20",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T22:05:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    },
+    {
+      "source_id": "place_rodrigues",
+      "relationship_type": "PART_OF",
+      "target_id": "place_mauritius",
+      "properties": {
+        "year": "1880",
+        "confidence": "definite"
+      },
+      "provenance": {
+        "source_file": "/home/user/colonial_office_list/output_2/1880_manual_parsed/MAURITIUS.md",
+        "source_lines": "18",
+        "extraction_confidence": 0.99,
+        "extraction_date": "2025-11-17T22:05:00Z",
+        "extraction_agent": "Claude-Sonnet-4.5",
+        "extraction_method": "direct_extraction",
+        "verification_status": "automated"
+      }
+    }
+  ],
+  "extraction_statistics": {
+    "total_entities": 24,
+    "entities_by_type": {
+      "places": 4,
+      "people": 2,
+      "institutions": 4,
+      "economic_data": 7,
+      "infrastructure": 4,
+      "demographics": 2,
+      "events": 1
+    },
+    "total_relationships": 4,
+    "relationships_by_type": {
+      "GOVERNS": 1,
+      "LOCATED_IN": 1,
+      "PART_OF": 2
+    }
+  }
+}

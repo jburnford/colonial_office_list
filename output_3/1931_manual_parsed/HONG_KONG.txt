@@ -1,0 +1,916 @@
+HONG KONG.
+
+Situation and Area.
+
+Hong Kong is one of a number of Islands situated off the south-eastern coast of China, at the mouth of the Canton River, and lies about 40 miles east of Macao, 91 miles south of Canton, between 22° 9' and 22° 17' N. lat., and 114° 5' and 114° 18' E. long. The island is an irregular ridge, stretching nearly east and west; its broken and abrupt peaks rising to the height of nearly 2,000 feet above the sea level. Its length is about 11 miles, its breadth from 2 to 5 miles, its area about 32 square miles. It is separated from the mainland of China by a narrow strait, known as the Lyemun Pass, which does not exceed half a mile in width. The opposite peninsula of Kowloon (2½ square miles) was ceded to Great Britain by a Treaty entered into by Lord Elgin in 1860 with the Government of China, and now forms part of the Colony; which also includes Stonecutter's Green, Aplichau, Middle, Round, and other islets.
+
+In 1898 an agreement was concluded with the Chinese Government for the extension of Hong Kong territory by an area adjacent to British Kowloon, in the province of Kwang-tung, including Mirs Bay and Deep Bay, this area to be leased for 99 years; a stipulation was included that
+
+For Scales A to F, see footnote on page 306.
+within the walled city of Kowloon (which lies outside of British Kowloon) the Chinese officials then stationed there should continue to exercise jurisdiction except so far as might be inconsistent with the military requirements for the defence of Hong Kong, but that within the remainder of the newly-leased territory Great Britain should have sole jurisdiction. In 1899 the Chinese officials ceased to exercise jurisdiction within Kowloon City, which thereafter, by Her late Majesty's Order in Council, was incorporated in the leased territory and became subject to British rule. The area of the mainland and islands leased is about 359 square miles. A careful survey of the territory was completed in 1904. This New Territory is divided into two main districts—the Northern and the Southern—and is in charge of two District Officers, who perform the duties of land officers and magistrates, and are authorised to hold small debts courts. The District Officer of the Northern district has his headquarters at Tai Po on an arm of Mirs Bay; the headquarters of the Southern district are in Victoria.
+
+General Description.
+
+The waterways of the Colony form one of the most magnificent harbours in the world, having an area of ten square miles. The granite hills which surround it rise between 2,000 and 3,000 feet high, the whole offering a coup d'œil which blends the wild scenery of Scotland with the classic beauty of Italy. The city of Victoria extends for four miles at the base of the hills which protect the south side of the harbour. Being built on the slope of the hills facing the sea, the general aspect of the town is perhaps more striking and picturesque from the water than that of any other city in the east, whilst many of the streets are shaded with well-grown and handsome trees. Some large and handsome buildings stand on the Praya West Reclamation, which was completed in 1903.
+
+The Praya East Reclamation providing areas totalling 2,249,000 sq. ft. for new building sites was completed towards the end of 1929. Development on the reclaimed area is making rapid progress.
+
+The Reclamation (9,589,000 sq. ft.) of Kowloon Bay is nearing completion and the necessary works to convert this area for use as an air port are now in progress.
+
+The construction of the Tai Kok Tsui (1,868,600 sq. ft.) and the Shamshuipo (2,842,000 sq. ft.) Reclamation has been completed.
+
+The rainfall for 1929 was 69.825 inches. The mean temperature 72°6'. Typhoons are prevalent during the months July to October.
+
+History.
+
+The Colony, then a desolate island sparsely inhabited by fishermen, was ceded to Great Britain in January, 1841; the cession was confirmed by the Treaty of Nankin in August, 1842; and the charter bears date 5th April, 1843. The additions subsequently obtained on the mainland have been noted above.
+
+Hong Kong did not become of much commercial importance until the discovery of gold in Australia in 1851 and the consequent Chinese emigration. Its trade has gradually increased with the opening up of China to foreign trade.
+
+Large local banking, dock, steamboat, and insurance companies were established between 1865 and 1872, and the trade was greatly increased by the opening of the Suez Canal.
+
+The city is the depot for an incessant flow of Chinese emigration and immigration, the number in 1929 being: emigrants, 227,523; immigrants, 185,390, excluding to and from China ports.
+
+Industry.
+
+The position of the island has made it a distributing centre for trade in many kinds of goods. Amongst the principal commodities handled are coal, cotton, and cotton goods, hides, iron and steel, matches, nuts, oils, rice, sugar, silk, sandalwood, tea, tin, wolframite, etc.
+
+Ship-building is a large and growing industry, and there are also factories of very considerable importance engaged in the manufacture of cigars and cigarettes, rope, cement, and the refining of sugar.
+
+Native industries such as the manufacture of vermilion, sauces, bamboo-ware, building of native craft, etc., are of large and increasing dimensions.
+
+The natural products of Hong Kong are few and unimportant. There is little land suitable for tillage, and nothing is grown but a little rice and some vegetables near the outlying villages. There are large granite quarries both on the island and in Kowloon. A dairy farm supplies fresh meat, poultry, eggs, and milk. The fishing in the waters of the Colony is good and is a source of livelihood to a vast number of Chinese.
+
+The New Territories have extensive cultivable land, on which are grown sugar, rice, vegetables, lychees, pineapples, etc. The cultivation is entirely in the hands of the Chinese villagers and it is doubtful whether European enterprise would be successful.
+
+| Year | Revenue | Expenditure | British | Total |
+|------|---------|-------------|---------|-------|
+|      |         |             | Tonnage | Tonnage |
+| 1920 | 14,689,672 | 14,489,594 | 11,608,069 | 40,122,527 |
+| 1921 | 17,728,132 | 15,739,652 | 12,766,492 | 43,490,970 |
+| 1922 | 22,291,064 | 18,563,003 | 13,420,118 | 46,566,764 |
+| 1923 | 24,783,762 | 21,571,904 | 16,920,491 | 53,402,239 |
+| 1924 | 24,209,640 | 26,726,428 | 18,589,413 | 56,731,077 |
+| 1925 | 23,244,366 | 28,266,818 | 15,321,935 | 41,469,584 |
+| 1926 | 21,131,582 | 23,524,716 | 14,730,846 | 36,821,364 |
+| 1927 | 21,344,536 | 20,845,065 | 16,960,522 | 44,127,161 |
+| 1928 | 24,968,398 | 21,230,242 | 17,682,444 | 44,883,765 |
+| 1929 | 23,554,475 | 21,983,267 | 18,961,028 | 47,186,181 |
+
+There is a Public Debt of £1,485,733, and £4,927,000. The amount at credit of the Sinking Fund are £674,622 and £51,320.
+
+Shipping.
+
+Hong Kong is a free port except as regards importation of intoxicating liquors and tobacco, and no details of the trade of previous years are available, but the control of trade rendered necessary by the war gave an opportunity of collecting some statistics, and full trade returns have been published annually since 1918.
+
+The total tonnage entering and clearing during the year 1929 amounted to 47,186,181 tons, an increase of 2,302,416 tons compared with 1928.
+
+There were 26,261 arrivals of 19,921,738 tons and 26,313 departures of 19,949,411 tons.
+
+Of British ocean-going tonnage 5,566,611 tons entered, and 5,584,541 tons cleared.
+
+Of British river steamers 3,895,934 tons entered, and 3,913,942 tons cleared.
+Of foreign ocean-going tonnage 8,578,499 tons entered, and 8,556,090 tons cleared.
+
+Of foreign river steamers 278,678 tons entered, and 282,333 tons cleared.
+
+Of steamships under 60 tons trading to ports outside the Colony, 105,456 tons entered, and 105,612 tons cleared.
+
+Of junks in foreign trade 1,496,561 tons entered, and 1,506,643 tons cleared.
+
+Of steamships under 60 tons plying within the waters of the Colony 2,823,641 tons entered and 2,736,475 tons cleared.
+
+Of junks in local trade 316,628 tons entered, and 328,904 tons cleared.
+
+Docks.
+
+Hong Kong is well provided with dock accommodation. The Hong Kong and Whampoa Dock Company has three dry docks, the larger one being re-constructed, and two slips at their Kowloon establishment, one dry dock at Mong Kok Tsui on the western side of the Kowloon Peninsula, and two at Aberdeen on the south side of the island. The Taikoo Dockyard and Engineering Company has one large dock and three slipways situated at Quarry Bay, just inside the Lyseum Pass.
+
+The Admiralty has built a large dock in the Naval Dockyard in the middle of the City of Victoria. Besides these, there are several building slips and repairing shops owned by Europeans and Chinese in various parts of the Colony.
+
+Wharves.
+
+The Hong Kong and Kowloon Wharf & Godown Co., situated on the mainland, has five wharves and can accommodate vessels of 560 ft. in length. No. 1 and No. 5 Wharves are capable of accommodating vessels up to 660 feet.
+
+Alf. Holt & Co. have two wharves at the East Point of the Kowloon Peninsula and have accommodation for large vessels.
+
+At North Point on the Hong Kong side of the Harbour, the Ching Siong Land Investment Co. has built about 1,700 feet of quay walling providing a depth of 30 feet of water alongside at L.W.E.S.T.
+
+In addition, there are many wharves privately owned by shipping firms, situated in the Central district.
+
+Government Harbour Moorings.
+
+There are at present laid down in the Harbour for the use of vessels frequenting the Port fifty-six (56) complete sets of Government Harbour Moorings, clasped as follows:
+
+A Class. Moorings for vessels of 450 feet to 600 feet in length O.A. ... 17
+
+B Class. Moorings for vessels of 300 feet to 450 feet in length O.A. ... 20
+
+C Class. Moorings for vessels of less than 300 feet in length O.A. ... 19
+
+Total ... ... ... ... 56
+
+Currency and Banking.
+
+The currency of Hong Kong consists of the following coins (vide Order in Council, 2nd Feb., 1895):
+
+1. The silver dollar of Mexico.
+2. British dollar.
+3. The Hong Kong dollar, half-dollar, and 20-cent, 10-cent, and 5-cent pieces, issued from the Hong Kong Mint (1866-68).
+4. Half-dollars, 20-, 10-, and 5-cent pieces, imported from England, and coined at the Royal Mint and Birmingham Mint.
+5. Copper coins representing one-hundredth part of the dollar (called one cent), and one-thousandth part of the dollar (mil or cash), imported from England.
+
+There were issued from the Hong Kong Mint 2,108,054 dollars and 58,587 half-dollars; and 20-, 10-, and 5-cent pieces to the nominal value of $402,671. There were obtained from England, and there were in circulation on 31st Dec., 1929, subsidiary coins (which now include half dollars) to the nominal value of $17,914,370.
+
+The coins issued from the Hong Kong Mint are never met with in the Colony now.
+
+The principal Banks are the Hong Kong and Shanghai Banking Corporation, Ltd., the Chartered Bank of India, Australia and China, the Mercantile Bank of India, the P. & O. Banking Corporation, Ltd., the National City Bank of New York, the Yokohama Specie Bank, the Bank of Taiwan, the Netherlands-India Commercial Bank, the Netherlands Trading Society, the Banque de l'Indo-Chine, the Crédit-Foncier d'Extrême Orient. The first named bank conducts a Savings Bank. There are also a large number of Chinese banks.
+
+The Hong Kong and Shanghai Banking Corporation, the Chartered Bank of India, Australia and China, and the Mercantile Bank of India are authorised to issue notes in the Colony, the total circulation amounting to $78,731,331 at the close of 1929.
+
+Local weights and measures are the following:
+
+tael = 1½ oz.; 1 picul = 133½ lbs. (avoirdupois); catties = 1 imperial gallon.
+
+Means of Communication.
+
+Hong Kong is extremely well situated as regards telegraphic communication in all directions with all parts of the world. The Eastern Extension Telegraph Company (British) by means of three cables to Singapore, one direct and one each via Labuan and Cape St. James respectively, provide good connections with Europe via India, with Australasia, and with the other British Colonies and possessions. By their cable to Manila connection is made with the direct American cable, thence to San Francisco. Two cables to Shanghai, belonging respectively to the Eastern Extension and to the Great Northern (Danish) Companies, via Foochow and Amoy respectively, give a good connection with Shanghai, North China, Japan, and Russia; and the system of the Great Northern Telegraph Company gives a good service to Europe, via Asiatic Russia.
+
+Commercial wireless telegraph services are maintained with ships at sea, Canton, Swatow, Shanghai, and North China via Shanghai, points in Kwangtung and Kwangsi Provinces, Yunnanfu, Macau, French Indo-China (direct to Saigon and Hanoi), Kwonghowsou, North Borneo, Siam, Dutch East Indies, and via Dutch East Indies to Europe and American Continents, Manila and via Manila to Europe and American Continents. All services are operated and controlled from the Government Radio Office situated in the central district of Victoria. There are two grouped transmitter stations—one at Cape D'Aguilar, position lat. 22° 12'38"61" N.; long. 114° 15'18"94" E., and one at Victoria Peak, position lat. 22° 16'38"56" N.; long. 114° 08'31"95" E.
+Call signals:—V P S for ship services, Z B W for broadcasting and the series Z G E to Z C K for commercial services. The main receiving station is situated at the Royal Observatory, Kowloon, from which station received signals are passed by tone lines to the Radio Office.
+
+In addition, meteorological and time signal services are carried on, the Police Department has its own communication system, and the Waglan and Gap Rock Lighthouses have installations for emergency communication.
+
+A broadcasting service for the transmission of news items, speeches, music, etc., is maintained by a transmitter installed at Victoria Peak which is controlled from an up-to-date studio and control room situated on the first floor of the General Post Office Building. The broadcast wave length is 350 metres and the call signal Z B W.
+
+Hong Kong possesses unrivalled steam communication. The P. & O. S. N. Co., M. M. Cie, Holt’s Line, City Line, and N.Y.K. maintain a regular service with the United Kingdom and Europe. The Holt’s line, O.S.K., N.Y.K., and Dollar Line maintain a regular service between Hong Kong and the United States of America. The Canadian Pacific S.S. Limited maintain a regular service with Vancouver, B.C.
+
+The E. & A., Australian Oriental Line, and N.Y.K. and O.S.K. keep up a frequent service to Australian ports. In addition to these main lines of steamers, there are other lines which call at Hong Kong from various ports, such as the Shire, Glen, and Bank lines, and Lloyd Trestino.
+
+Regular steam communication between Java and Hong Kong has been established by the Java-China-Japan Line. Between the ports on the east coast of China, Formosa, and Hong Kong the steamers of the Douglas S. S. Co. ply regularly twice a week, and those of the Osaka Shosen Kaisha weekly, and there is constant steam communication with Hoihow, Manila, Saigon, Haiphong, Tourane, Bangkok, Borneo, etc. With Shanghai, Tientsin, and the ports of Japan there is frequent communication by steamers of the Indo-China S. N. Co., China Navigation, and other lines, in addition to the English, French and American mail steamers. With Calcutta there are services by the Indo-China S. N. Co., O.S.K., N.Y.K., and the British India Line, about once a fortnight by each line. Between Hong Kong, Macao, and Canton there is a daily steam service, and numerous steamers as far as Wuchow on the West River.
+
+A cable tramway connects the city with the higher levels. An electric tramway from Shaukiwan to Kennedy Town, along the whole extent of the city, was completed and opened in July, 1904. The island possesses roads available for vehicular traffic both in the town and outside from which unrivalled views can be obtained, especially from the wind-swept roads in the hill districts. There is also a fine motor road round the island.
+
+There are excellent motor roads in Kowloon and the New Territory—the road to Fanling via Castle Peak and back via Taipo being a panorama of views over a route of several miles.
+
+The usual means of transport is by motor, ricksha, chair, or boat. A railway was completed in 1910 from Kowloon to the Chinese frontier, where it joins the line from Canton. Telephonic communication is available to all parts of the Colony.
+
+Letters.
+First oz. Each additional oz.
+
+United Kingdom, India, Egypt, and all other British Colonies and Protectorates . . . . . 8 cents
+China and Macao . . . . . 4 ,, 4 ,, 4 ,, 4 ,, 4 ,
+Europe and America . . . . . 14 ,, 8 ,,
+Hong Kong, and New Territory . . . . . 3 ,, 3 ,, 3 ,, 3 ,, 3 ,
+
+Direct Money Orders are exchanged with the United Kingdom, China, Canada, United States of America, Union of South Africa, India, Ceylon, the Australian Commonwealth, the Dominion of New Zealand, Straits Settlements, Federated Malay States, State of North Borneo, Sarawak, Siam, Macao, Japan, French Indo-China, Netherland Indies, and the Philippine Islands. British Postal Orders are issued and paid in Hong Kong. Telegraphic Money Orders are exchanged with the United Kingdom only.
+
+Education.
+
+Since 1913 the schools in the Colony, with few exceptions, have been placed by Ordinance under the supervision and control of the Education Department. The total number of pupils is about 59,120, of whom, roughly speaking, one-third are in schools in which English is the medium of instruction, and two-thirds are in Vernacular Schools. There are five schools exclusively for children of British parentage, with an average attendance of 352. Queen’s and King’s Colleges are the principal schools for Chinese, with an average attendance of 619 and 782 respectively. Including the above, the average attendance at Government-schools is 3,893. Most of the non-Government English schools are assisted by grants, which amounted in 1929 to $144,131. Many of the vernacular schools are assisted by subsidies and grants, amounting in 1929 to $108,388.
+
+A technical institute supplies instruction in commercial and technical subjects. The enrolment in 1929 was 598.
+
+The University of Hong Kong, incorporated under the local University Ordinance, 1911, and opened in 1912, is a residential University for students of both sexes, the object of which is declared by that Ordinance to be “the promotion of Arts, Science and Learning; the provision of higher education; the conferring of degrees; the development and formation of the character of students of all races, nationalities and creeds; and the maintenance of good understanding with the neighbouring country of China.”
+
+Instruction is provided in the three Faculties of Medicine, Engineering, and Arts. The standard aimed at is that of University degrees in Great Britain, and the Medical degrees of the University are recognized by the General Medical Council for registration in Great Britain.
+
+The land, buildings, and equipment of the University are of an original value of not less than $1,750,000, while the endowment fund exceeds $3,000,000, of which $750,000 represents a recent grant from the Rockefeller Foundation for the establishment of full-time chairs in Surgery, Medicine, and Obstetrics and Gynaecology. The Colonial Government has contributed land to the approximate value of $175,000, together with capital sums amounting to $1,700,000, and provides an annual grant of $50,000.
+
+The course is one of 4 years in Engineering and Arts, and of 6 years in Medicine. The annual
+entry is now about 75. Students are of all nationalities, but the great majority are Chinese drawn from all parts of China and the Far East.
+
+Revenue.
+
+Revenue is derived from duties on intoxicating liquor, which in 1930 were expected to realize $1,800,000, tobacco $2,450,000, stamp revenue $3,000,000. A considerable sum is also derived from the Opium monopoly, municipal rates for police, lighting, water, etc. (the rates according to the districts varying from 7 to 13 per cent. on the annual value of property) land revenue, stamp duties, and other fees. It was expected that land sales would realise $1,500,000.
+
+The total revenue for 1930 is estimated at $24,066,000.
+
+Constitution.
+
+The Government is administered under Letters Patent of 14th February, 1917, by a Governor, aided by an Executive Council, composed of six official and three unofficial members, besides the Governor. The Legislative Council is presided over by the Governor, and is composed of seven official and six unofficial members, three of whom are nominated by the Crown on the recommendation of the Governor (two being usually Chinese), one is nominated by the Justices of the Peace from their body, and one by the Chamber of Commerce. The unofficial members of the Executive and Legislative Councils, appointed after receipt of the Additional Instructions passed under the Royal Sign Manual and Signet and dated 10th January, 1922, vacate their seats after five and four years respectively from date of appointment. The "Colonial Courts of Admiralty Act, 1890," regulates the jurisdiction of the Supreme Court in Admiralty cases. The English Common Law forms the basis of the legal system, modified by Colonial Ordinances, of which a revised edition to 1923 has been issued. The law as to civil procedure was codified by Ordinance No. 3 of 1901.
+
+Population.
+
+| Year | Non-Chinese | Chinese | Total (Civil) |
+|------|-------------|---------|---------------|
+| 1929 | ...         | 18,150  | 1,125,360     |
+|      |             |         | 1,143,510     |
+
+Governors.*
+
+1887 Sir G. W. Des Voeux, K.C.M.G.
+1901 Sir W. Robinson, K.C.M.G.
+1898 Sir H. A. Blake, G.C.M.G.
+1904 Major Sir M. Nathan, K.C.M.G., R.E.
+1907 Sir F. J. D. Lugard, K.C.M.G., C.B., D.S.O.
+1912 Sir F. H. May, K.C.M.G., LL.D.
+1919 Sir R. E. Stubbs, K.C.M.G.
+1925 Sir C. Clementi, K.C.M.G.
+1930 Sir William Peel, K.C.M.G., K.B.E.
+
+Executive Council.
+
+Officer Commanding the Troops.
+Colonial Secretary.
+Attorney-General.
+Secretary for Chinese Affairs.
+Treasurer.
+H. T. Creasy, C.B.E., Director of Public Works.
+Unofficial Members, Sir H. E. Pollock, K.C.
+Sir Shouson Chow, Kt., W. E. L. Shenton.
+
+Legislative Council.
+
+Governor, President.
+Officer Commanding the Troops.
+
+* For previous Governors see edition of 1903.
+
+Colonial Secretary.
+Attorney-General.
+Secretary for Chinese Affairs.
+Treasurer.
+H. T. Creasy, C.B.E., Director of Public Works.
+E. D. C. Wolfe, C.M.G., Inspector-General of Police.
+Comdr. G. F. Hole, R.N. (Rtd.), Harbour Master.
+Dr. A. R. Wellington, Director of Medical and Sanitary Services.
+Unofficial Members, Sir H. E. Pollock, K.C.
+Sir Shouson Chow, W. E. L. Shenton, R. H. Kotewall, C.M.G., J. Owen Hughes, J. P. Braga, S.W., T.S.O., O.B.E., and C. G. S. Mackie.
+Clerk of Councils, Cadet Officer.
+Deputy Clerk of Councils, Cadet Officer.
+
+Civil Establishment.
+
+Governor, Sir William Peel, K.C.M.G., K.B.E., 7,000l., of which 2,200l. is an entertainment allowance.
+Private Secretary, 500l.
+Aide-de-Camp, 500l.
+
+Cadet Officers.
+
+Sir H. Kemp, C.B.E., K.C., 2,800l., Chief Justice.
+J. R. Wood, 1,600l., Puine Judge.
+C. McI. Messer, O.B.E., 1,500l. to 1,800l., Colonial Treasurer.
+E. R. Halifax, C.M.G., C.B.E., 1,500l. to 1,800l., Secretary for Chinese Affairs.
+E. D. C. Wolfe, C.M.G., 1,500l. to 1,800l., Inspector-General of Police.
+D. W. Tratman, 1,500l. to 1,800l., Principal Assistant Colonial Secretary.
+A. E. Wood, 1,500l. to 1,800l., Director of Education.
+J. D. Lloyd, 400l. to 1,200l., Superintendent of Imports and Exports.
+M. J. Breen, 1,500l. to 1,800l., Postmaster General.
+R. E. Lindsell, 525l. to 1,400l., 1st Police Magistrate.
+N. L. Smith, 525l. to 1,400l., 2nd Assistant Colonial Secretary and Deputy C. of C.
+G. R. Sayer, 525l. to 1,400l., Head of Sanitary Department.
+W. Schofield, 525l. to 1,400l., District Officer, New Territories, Southern District.
+E. W. Hamilton, 525l. to 1,400l., Extra Assistant Colonial Secretary.
+R. A. C. North, 525l. to 1,400l., on leave.
+W. J. Carrie, 525l. to 1,400l., on leave.
+R. A. D. Forrest, 525l. to 1,400l., Chief Assistant to Secretary for Chinese Affairs.
+J. A. Fraser, 525l. to 1,400l., on leave.
+E. I. Wynne-Jones, 525l. to 1,400l., District Officer, New Territories, Southern District.
+H. R. Butters, 525l. to 1,400l., Police Magistrate, Kowloon.
+G. S. Kennedy-Skilton, 525l. to 1,400l., Assistant Treasurer and Estate Duty Commissioner.
+T. Megarry, 525l. to 1,400l., 3rd Assistant Colonial Secretary.
+A. W. G. H. Grantham, 525l. to 1,400l., Assistant Postmaster-General.
+J. S. MacLaren, 525l. to 1,400l., Assistant Treasurer.
+E. H. Williams, 525l. to 1,400l., 2nd Police Magistrate.
+R. R. Todd, 525l. to 1,400l., on leave.
+B. C. K. Hawkins, 525l. to 1,400l., on leave.
+J. Barrow, 525l. to 1,400l., Assistant to Secretary for Chinese Affairs.
+
+R. S. Jenyns, 525l. to 1,400l., Assistant to Secretary for Chinese Affairs.
+
+G. A. A. Macfayden, 525l. to 1,400l., Assistant to Superintendent Imports and Exports.
+
+Unpassed Cadets.
+R. C. Wilkinson, S. F. Balfour, D. Kelvin-Stark, E. Himsworth, D. M. MacDougall, W. M. Thomson, A. G. Clarke, J. H. B. Lee, K. Keen, 450l. to 475l.
+
+Colonial Secretary's Department and Legislature.
+Colonial Secretary, W.T. Southorn, C.M.G., 2,300l.
+Principal Assistant Colonial Secretary, Cadet Officer.
+Second Assistant Colonial Secretary, Cadet Officer.
+Third Assistant Colonial Secretary, Cadet Officer.
+Chief Clerk, D. Davies, 820l. to 1,050l.
+First Clerk, J. Wattie, 600l. to 700l.
+
+Secretariat for Chinese Affairs.
+Secretary for Chinese Affairs, E. R. Hallifax, C.M.G., C.B.E., 1,500l. to 1,800l.
+Chief Assistant to the Secretary for Chinese Affairs, Cadet Officer.
+Second Assistant to Secretary for Chinese Affairs, Cadet Officer.
+Third Assistant to Secretary for Chinese Affairs, Cadet Officer.
+
+Audit Department (under the Director of Colonial Audit, London).
+Auditor, P. L. Collisson, O.B.E., 1,400l.
+Assistant Auditor, T. Dallin, 800l. to 1,050l.
+2nd Assistant Auditor, A. F. B. Howard, M.C., 900l. to 1,050l.
+3rd Assistant Auditor, G. H. G. Bradley, 450l. to 750l.
+Senior Clerk, B. E. Maughan, 600l. to 700l.
+Examiner, T. G. Stokes, 460l. to 560l.
+
+Treasury.
+Treasurer's Office.
+Treasurer, Assessor, and Estate Duty Commissioner, C. Mol. Messer, O.B.E., 1,500l. to 1,800l.
+Deputy Treasurer, E. Taylor, 1,400l.
+Assistant Treasurer and Estate Duty Commissioner, Cadet Officer.
+Assistant Treasurer and Assessor, Cadet Officer.
+Accountant, T. Black, 700l. to 825l.
+Cashier, L. A. Barton, 600l. to 700l.
+
+Stamp Office.
+Superintendent, Cadet Officer.
+
+Post Office.
+Hong Kong Post Office.
+Postmaster-General, Cadet Officer.
+Accountant, A. J. Reed, I.S.O., $8,000.
+Superintendent, M. O. Office, H. Dixon, I.S.O., $8,000.
+Accountant, H. A. Mills, 820l. to 1,050l.
+Deputy Superintendent, M. O. Office, J. J. Osborne, 260l. to 445l.
+Superintendent of Mails, T. Hynes, 600l. to 700l., free quarters.
+Assistant Superintendent of Mails (Registration Branch), P. da Roza, $4,000 to $5,000.
+
+Assistant Superintendent of Mails (Parcel Branch), P. H. Holdman, 460l. to 560l.
+Assistant Superintendents of Mails, T. M. Perpetuo, $4,000 to $5,000; T. Lay, $250 to $445.
+
+Radio Office.
+Traffic Superintendent, F. A. Kemp, 475l. to 575l.
+Assistant Traffic Superintendent, O. E. White, 310l. to 350l.
+
+Harbour Master's Department.
+Harbour Office.
+Harbour Master, d.e., Commander G. F. Hole, R.N., 1,350l. to 1,600l.
+Deputy Harbour Master, Commander J. B. Newill, D.S.O., R.N., 1,000l. to 1,200l.
+Assistant Harbour Master, T. W. H. Hosegood, 650l. to 950l.
+Office Assistant and Accountant, C. J. Roe, 600l. to 700l.
+Chief Boarding Officer, C. J. Thomson, 525l. to 625l.
+1st Boarding Officer, J. R. G. Wyatt, 400l. to 520l.
+
+Mercantile Marine Office.
+Deputy Shipping Master, G. W. Coysh, 525l. to 675l.
+Higher Class Clerk, S. Soonderam, $4,800 to $5,600.
+
+Marine Surveyor's Office.
+Government Surveyor, W. Russell, 860l. to 1,100l.
+Assistant Surveyors, W. O. Lambert, Robert Hall, P. J. Taylor, T. E. Jackson, G. Swan, B. H. Church, N. Garland, E. L. Jones, K. C. Hamilton, T. C. Stiff, J. Hunter, W. Sprague, and S. Ashworth, 550l. to 825l.
+Senior Clerk, B. J. Murray, 250l. to 545l.
+
+Government Slipway.
+Assistant Surveyor, R. Hall, 550l. to 825l.
+Boatswain, V. H. W. Chittenden, 370l. to 430l.
+
+Imports and Exports Office.
+Superintendent, Cadet Officer.
+Assistant Superintendent, Cadet Officer.
+Monopoly Analyst, H. A. Taylor, 700l. to 1,050l.
+
+Royal Observatory.
+Director of the Observatory, T. F. Claxton, F.R.A.S., 1,000l. to 1,200l.
+Chief Assistant, C. W. Jeffries, F.R.A.S., 500l. to 900l.
+First Assistant, B. D. Evans, F.R.A.S., 400l. to 800l.
+
+Judicial and Legal Departments.
+Supreme Court.
+Chief Justice, Sir J. H. Kemp, Kt., C.B.E., 2,600l.
+Puisne Judge, J. R. Wood, 1,850l.
+Registrar of Supreme Court, Registrar of Companies, Official Trustee and Official Administrator, T. M. Hazlerigg, 1,150l. to 1,400l.
+Deputy Registrars, C. D. Melbourne, E. P. H. Lang, 700l. to 970l.
+Accountant, W. R. N. Andrews, 460l. to 560l.
+Clerk to Chief Justice, R. W. H. Maynard, 250l. to 445l.
+
+Official Receiver's Office.
+Official Receiver in Bankruptcy and Registrar of Trade Marks and Letters Patent, E. L. Agassiz, 1,000l. to 1,200l.
+Magistracy, Hong Kong.
+
+Police Magistrate and Coroner, Cadet Officer, 526l. to 1,400l.
+Second Police Magistrate, Cadet Officer, 526l. to 1,400l.
+
+Magistracy, Kowloon.
+
+Magistrate, Cadet Officer.
+First Clerk, W. F. Kerr, 250l. to 445l.
+
+District Officers.
+District Officer, North, Cadet Officer.
+District Officer, South, Cadet Officer.
+
+Law Officers.
+Attorney-General, C. G. Alabaster, K.C., O.B.E. (acting), 2,100l.
+Assistant to Attorney-General, H. Somerset Fitzroy, $12,000.
+
+Office of Crown Solicitor.
+Crown Solicitor, H. K. Holmes, C.B.E., 1,150l. to 1,400l.
+Assistant Crown Solicitors, T. S. Whyte-Smith, L. R. Andrews, 700l. to 970l.
+
+Land Office.
+Land Officer, P. Jacks, 1,150l. to 1,400l.
+Assistant Land Officer, Lt.-Col. F. Eaves, D.S.O., 700l. to 970l.
+Senior Clerk, W. J. Lockhart-Smith, 600l. to 700l.
+
+Police and Prison Departments.
+
+Police.
+Inspector-General, E. D. C. Wolfe, C.M.G., 1,500l. to 1,800l.
+Deputy Inspector-General, T. H. King, 450l. to 1,300l.
+Divisional Superintendents, P. P. J. Wodehouse, C.I.E., D. Burlingham, 450l. to 1,300l.
+Assistant Superintendents, C. G. Perdue, 450l. to 1,300l.; W. Kent, 780l. to 930l.; L. H. V. Booth, 450l. to 1,300l.; W. R. Scott, W. Lab. Sparrow, L. H. C. Calthrop, 450l. to 1,300l.
+Accountant, A. J. C. Taylor, 600l. to 700l.
+
+Fire Brigade.
+Chief Officer, E. D. C. Wolfe, C.M.G., Inspector-General of Police.
+Superintendent, H. T. Brooks, 700l. to 900l.
+Consulting Engineer, R. Hall, $1,200.
+Station Officer, G. C. Moss, 450l. to 550l.
+Station Officer, G. Saunders, 450l. to 550l.
+
+Prison.
+Superintendent, J. W. Franks, 950l. to 1,300l.
+Assistant Superintendent, H. F. Bloxham, 600l. to 850l.
+
+Medical Departments.
+
+Staff.
+Director of Medical and Sanitary Services
+A. R. Wellington, M.R.C.S. (Eng.), L.R.C.P. (Lond.), D.T.M. and H. and D.P.H. (Camb.), 1,500l. to 1,800l.
+Deputy Director of Medical and Sanitary Services
+W. B. A. Moore, L.R.C.P.I., L.R.C.S.I., L.M., Rot. (Dub.), D.T.M. and H. (Lond.), 1,300l. to 1,400l.
+Health Officer of Port and Inspector of Emigrants
+B. H. Mellon, M.R.C.S. (Eng.), L.R.C.P. (Lond.), D.P.H. (Dub.), F.R.C.V.S., 920l. to 1,280l.
+Second Health Officer of Port and Inspector of Emigrants
+J. P. Fehily, M.B., B.Ch., B.A.O., N.U.I., F.A.C.S., 700l. to 1,180l.
+Medical Officer of Health, G. W. Pope, L.L.M., R.C.P. and S.I., D.P.H., R.C.P. and S.I., 920l. to 1,280l.
+Second Medical Officer of Health, R. S. Begbie, M.B., Ch.B. (Edin.), D.P.H., R.G.P.S. (Edin.), R.F.M.S. (Glasgow), 860l. to 1,220l.
+Medical Officers, J. T. Smalley, M.R.C.S., L.R.C.P. (Lond.), D. J. Valentine, M.C., M.B.B.S. (Lond.), D.T.M., I. Newton, M.R.C.S., L.R.C.P., J. E. Dovey, M.B., Ch.B. (Edin.), T. W. Ware, M.B., Ch.B. (Brist.), K. H. Uttley, M.A., M.R.C.S., L.R.C.P., M.B., Ch.B. (Camb.), G. V. A. Griffith, M.B., B.Ch., B.A.O., P. F. S. Court, M.R.C.S., L.R.C.P., G.V.A.Griffith,M.B.,B.Ch.,B.A.O., J. B. Mackie, M.B., Ch.B., J. A. R. Selby, M.B., Ch.B., 700l. to 1,180l.
+Malarialogist, R. B. Jackson, M.D., B.Ch., D.P.H. (Dublin), 1,280l.
+Bacteriologist, E. P. Minett, T.D., V.D., M.D. (Brux.), D.P.H., D.T.M. and H., 920l. to 1,280l.
+Assistant Bacteriologist, A. V. Greaves, M.B., M.C.P. & S., 860l. to 1,220l.
+Radiologist, F. J. Farr, M.B., Ch.B., L.D.S., D.M.R. and E., 860l. to 1,220l.
+Radiographer, J. Skinner, 370l. to 430l.
+Priv. Matron, E. A. Girling, 475l. to 600l.
+Apothecary, R. E. Cable, F.C.S., 460l. to 600l.
+Accountant, Sung Teng Man, $4,800 to $5,600.
+Steward, F. P. Anslow, 400l. to 500l.
+Head Attendant, J. Murray, 475l. to 575l.
+
+Government Laboratory.
+Analyst, E. R. Dovey, A.R.C.S., F.I.C., F.C.S., 850l. to 1,050l.
+Assistant Analysts, V. C. Branson, M.C., A.R.C.Sc., D.I.C., B.Sc., A.I.C., A. Jackson, Ph.D., J. L. Tetley, 500l. to 800l.
+
+Sanitary Department.
+Head of Sanitary Department, Cadet Officer.
+Assistant Head of Sanitary Department, Cadet Officer.
+
+Sanitary Staff.
+Secretary to the Sanitary Board, J. H. Gelling, 600l. to 700l.
+Chief Inspector, C. E. Frith, A.R.S.I., 600l. to 700l.
+Senior Inspectors, A. K. Taylor, S. Kelly, L. Brewer, W. Old, R. R. Wood, H. L. Lockhart, 475l. to 575l.
+
+Veterinary Staff.
+Veterinary Surgeon, Major W. J. E. Mackenzie, M.C., M.R.C.V.S., 1,000l. to 1,200l.
+Assistant Veterinary Surgeon, Captain M. J. Reidy, M.R.C.V.S., 650l. to 950l.
+
+Botanical and Forestry Department.
+Superintendent, H. Green, 700l. to 950l.
+Assistant Superintendent, G. B. Twemlow, 500l. to 600l.
+
+Education.
+
+Department of Director of Education.
+Director of Education, Cadet Officer.
+Inspectors of English Schools, A. R. Sutherland (acting), 1,050l.; G. P. de Martin, 1,100l. to 1,300l.
+Inspectors of Vernacular Schools, Y. P. Law, 600l. to 1,000l.; W. Yu, I. Swan.
+Technical Institute Director, E. Ralphs, 120l.
+Head Master, Queen's College, F. J. de Rome, M.B.E., 1,100l. to 1,300l.
+Head Master, Central British School, G. F. Nightingale, 500l. to 950l.
+J. Barrow, 525l. to 1,400l., Assistant to Secretary for Chinese Affairs.
+
+R. S. Jenyns, 525l. to 1,400l., Assistant to Secretary for Chinese Affairs.
+
+G. A. A. Macfayden, 525l. to 1,400l., Assistant to Superintendent Imports and Exports.
+
+Unpassed Cadets.
+
+R. C. Wilkinson, S. F. Balfour, D. Kelvin-Stark, E. Himsworth, D. M. MacDougall, W. M. Thomson, A. G. Clarke, J. H. B. Lee, K. Keen, 450l. to 475l.
+
+Colonial Secretary's Department and Legislature.
+
+Colonial Secretary, W.T. Southorn, C.M.G., 2,300l.
+
+Principal Assistant Colonial Secretary, Cadet Officer.
+
+Second Assistant Colonial Secretary, Cadet Officer.
+
+Third Assistant Colonial Secretary, Cadet Officer.
+
+Chief Clerk, D. Davies, 820l. to 1,050l.
+
+First Clerk, J. Wattie, 800l. to 700l.
+
+Secretariat for Chinese Affairs.
+
+Secretary for Chinese Affairs, E. R. Halifax, C.M.G., C.B.E., 1,500l. to 1,800l.
+
+Chief Assistant to the Secretary for Chinese Affairs, Cadet Officer.
+
+Second Assistant to Secretary for Chinese Affairs, Cadet Officer.
+
+Third Assistant to Secretary for Chinese Affairs, Cadet Officer.
+
+Audit Department (under the Director of Colonial Audit, London).
+
+Auditor, P. L. Collisson, O.B.E., 1,400l.
+
+Assistant Auditor, T. Dallin, 800l. to 1,050l.
+
+2nd Assistant Auditor, A. F. B. Howard, M.C., 800l. to 1,050l.
+
+3rd Assistant Auditor, G. H. G. Bradley, 450l. to 750l.
+
+Senior Clerk, B. E. Maughan, 600l. to 700l.
+
+Examiner, T. G. Stokes, 460l. to 500l.
+
+Treasury.
+
+Treasurer's Office.
+
+Treasurer, Assessor, and Estate Duty Commissioner, C. Mcl. Messer, O.B.E., 1,500l. to 1,800l.
+
+Deputy Treasurer, E. Taylor, 1,400l.
+
+Assistant Treasurer and Estate Duty Commissioner, Cadet Officer.
+
+Assistant Treasurer and Assessor, Cadet Officer.
+
+Accountant, T. Black, 700l. to 825l.
+
+Cashier, L. A. Barton, 600l. to 700l.
+
+Stamp Office.
+
+Superintendent, Cadet Officer.
+
+Post Office.
+
+Hong Kong Post Office.
+
+Postmaster-General, Cadet Officer.
+
+Accountant, A. J. Reed, I.S.O., $8,000.
+
+Superintendent, M. O. Office, H. Dixon, I.S.O., $8,000.
+
+Accountant, H. A. Mills, 820l. to 1,050l.
+
+Deputy Superintendent, M. O. Office, J. J. Osborne, 250l. to 445l.
+
+Superintendent of Mails, T. Hynes, 600l. to 700l., free quarters.
+
+Assistant Superintendent of Mails (Registration Branch), P. da Roza, $4,000 to $5,000.
+
+Assistant Superintendent of Mails (Parcel Branch), F. H. Holdman, 460l. to 560l.
+
+Assistant Superintendents of Mails, T. M. Perpetuo, $4,000 to $5,000; T. Lay, $250 to $445.
+
+Radio Office.
+
+Traffic Superintendent, F. A. Kemp, 475l. to 575l.
+
+Assistant Traffic Superintendent, O. E. White, 310l. to 350l.
+
+Harbour Master's Department.
+
+Harbour Office.
+
+Harbour Master, d.c., Commander G. F. Hole, R.N., 1,350l. to 1,600l.
+
+Deputy Harbour Master, Commander J. B. Newill, D.S.O., R.N., 1,000l. to 1,200l.
+
+Assistant Harbour Master, T. W. H. Hoegegood, 650l. to 950l.
+
+Office Assistant and Accountant, C. J. Roe, 600l. to 700l.
+
+Chief Boarding Officer, C. J. Thomson, 525l. to 625l.
+
+1st Boarding Officer, J. R. G. Wyatt, 400l. to 520l.
+
+Mercantile Marine Office.
+
+Deputy Shipping Master, G. W. Coysh, 525l. to 675l.
+
+Higher Class Clerk, S. Soonderam, $4,800 to $5,600.
+
+Marine Surveyor's Office.
+
+Government Surveyor, W. Russell, 860l. to 1,100l.
+
+Assistant Surveyors, W. O. Lambert, Robert Hall, P. J. Taylor, T. E. Jackson, G. Swan, B. H. Church, N. Garland, E. L. Jones, K. C. Hamilton, T. C. Stiff, J. Hunter, W. Sprague, and S. Ashworth, 550l. to 825l.
+
+Senior Clerk, B. J. Murray, 250l. to 545l.
+
+Government Slipway.
+
+Assistant Surveyor, R. Hall, 550l. to 825l.
+
+Boatswain, V. H. W. Chittenden, 370l. to 430l.
+
+Imports and Exports Office.
+
+Superintendent, Cadet Officer.
+
+Assistant Superintendent, Cadet Officer.
+
+Monopoly Analyst, H. A. Taylor, 700l. to 1,050l.
+
+Royal Observatory.
+
+Director of the Observatory, T. F. Claxton, F.R.A.S., 1,000l. to 1,200l.
+
+Chief Assistant, C. W. Jeffries, F.R.A.S., 500l. to 900l.
+
+First Assistant, B. D. Evans, F.R.A.S., 400l. to 800l.
+
+Judicial and Legal Departments.
+
+Supreme Court.
+
+Chief Justice, Sir J. H. Kemp, Kt., C.B.E., 2,600l.
+
+Puisne Judge, J. R. Wood, 1,850l.
+
+Registrar of Supreme Court, Registrar of Companies, Official Trustee and Official Administrator, T. M. Hazlerigg, 1,150l. to 1,400l.
+
+Deputy Registrars, C. D. Melbourne, E. P. H. Lang, 700l. to 970l.
+
+Accountant, W. R. N. Andrews, 460l. to 560l.
+
+Clerk to Chief Justice, R. W. H. Maynard, 250l. to 445l.
+
+Official Receiver's Office.
+
+Official Receiver in Bankruptcy and Registrar of Trade Marks and Letters Patent, E. L. Agassiz, 1,000l. to 1,200l.
+Magistracy, Hong Kong.
+
+Police Magistrate and Coroner, Cadet Officer, 526l. to 1,400l.
+
+Second Police Magistrate, Cadet Officer, 526l. to 1,400l.
+
+Magistracy, Kowloon.
+
+Magistrate, Cadet Officer.
+First Clerk, W. F. Kerr, 250l. to 445l.
+
+District Officers.
+District Officer, North, Cadet Officer.
+District Officer, South, Cadet Officer.
+
+Law Officers.
+Attorney-General, C. G. Alabaster, K.C., O.B.E. (acting), 2,100l.
+Assistant to Attorney-General, H. Somerset Fitzroy, $12,000.
+
+Office of Crown Solicitor.
+Crown Solicitor, H. K. Holmes, C.B.E., 1,150l. to 1,400l.
+Assistant Crown Solicitors, T. S. Whyte-Smith, L. R. Andrews, 700l. to 970l.
+
+Land Office.
+Land Officer, P. Jacks, 1,150l. to 1,400l.
+Assistant Land Officer, Lt.-Col. F. Kaves, D.S.O., 700l. to 970l.
+Senior Clerk, W. J. Lookhart-Smith, 600l. to 700l.
+
+Police and Prison Departments.
+
+Police.
+Inspector-General, E. D. C. Wolfe, C.M.G., 1,500l. to 1,800l.
+Deputy Inspector-General, T. H. King, 450l. to 1,300l.
+Divisional Superintendents, P. P. J. Wodehouse, C.I.E., D. Burlingham, 450l. to 1,300l.
+Assistant Superintendents, C. G. Perdue, 450l. to 1,300l.; W. Kent, 780l. to 930l.; L. H. V. Booth, 450l. to 1,300l.; W. R. Scott, W. Lab. Sparrow, L. H. C. Calthrop, 450l. to 1,300l.
+Accountant, A. J. C. Taylor, 600l. to 700l.
+
+Fire Brigade.
+Chief Officer, E. D. C. Wolfe, C.M.G., Inspector-General of Police.
+Superintendent, H. T. Brooks, 700l. to 900l.
+Consulting Engineer, R. Hall, $1,200.
+Station Officer, G. C. Moss, 450l. to 550l.
+Station Officer, G. Saunders, 450l. to 550l.
+
+Prison.
+Superintendent, J. W. Franks, 950l. to 1,300l.
+Assistant Superintendent, H. F. Bloxham, 600l. to 850l.
+
+Medical Departments.
+
+Staff.
+Director of Medical and Sanitary Services A. B. Wellington, M.R.C.S. (Eng.), L.R.C.P. (Lond.), D.T.M. and H. and D.P.H. (Camb.), 1,500l. to 1,800l.
+Deputy Director of Medical and Sanitary Services, W. B. A. Moore, L.R.C.P.I., L.R.C.S.I., L.M., Rot. (Dub.), D.T.M. and H. (Lond.), 1,300l. to 1,400l.
+Health Officer of Port and Inspector of Emigrants, B. H. Mellon, M.R.C.S. (Eng.), L.R.C.P. (Lond.), D.P.H. (Dub.), F.R.C.V.S., 920l. to 1,280l.
+Second Health Officer of Port and Inspector of Emigrants, J. P. Fehily, M.B., B.Ch., B.A.O., N.U.I., F.A.C.S., 700l. to 1,180l.
+Medical Officer of Health, G. W. Pepe, L.L.M., R.C.P. and S.I., D.P.H., R.C.P. and S.I., 920l. to 1,280l.
+Second Medical Officer of Health, R. S. Begbie, M.B., Ch.B. (Edin.), D.P.H., R.G.P.S. (Edin.), R.F.M.S. (Glasgow), 860l. to 1,220l.
+Medical Officers, J. T. Smalley, M.R.C.S., L.R.C.P. (Lond.), D. J. Valentine, M.C., M.B.B.S. (Lond.), D.T.M., I. Newton, M.R.C.S., L.R.C.P., J. E. Dovey, M.B., Ch.B. (Edin.), T. W. Ware, M.B., Ch.B. (Brist.), K. H. Uttley, M.A., M.R.C.S., L.R.C.P., M.B., Ch.B. (Camb.), G. V. A. Griffith, M.B., B.Ch., B.A.O., P. F. S. Court, M.R.C.S., L.R.C.P., G.V.A. Griffith, M.B., B.Ch., B.A.O., J. B. Mackie, M.B., Ch.B., J. A. R. Selby, M.B., Ch.B., 700l. to 1,180l.
+Malarialogist, R. B. Jackson, M.D., B.Ch., D.P.H. (Dublin), 1,280l.
+Bacteriologist, E. P. Minett, T.D., V.D., M.D. (Brux.), D.P.H., D.T.M. and H., 920l. to 1,280l.
+Assistant Bacteriologist, A. V. Greaves, M.B., M.C.P. & S., 860l. to 1,220l.
+Radiologist, F. J. Farr, M.B., Ch.B., L.D.S., D.M.R. and E., 860l. to 1,220l.
+Radiographer, J. Skinner, 370l. to 430l.
+Priv. Matron, E. A. Girling, 475l. to 600l.
+Apothecary, R. E. Cable, F.C.S., 460l. to 600l.
+Accountant, Sung Teng Man, $4,800 to $5,600.
+Steward, F. P. Anslow, 400l. to 500l.
+Head Attendant, J. Murray, 475l. to 575l.
+
+Government Laboratory.
+Analyst, E. R. Dovey, A.R.C.S., F.I.C., F.C.S., 850l. to 1,050l.
+Assistant Analysts, V. C. Branson, M.C., A.R.C.Sc., D.I.C., B.Sc., A.I.C., A. Jackson, Ph.D., J. L. Tetley, 500l. to 800l.
+
+Sanitary Department.
+Head of Sanitary Department, Cadet Officer.
+Assistant Head of Sanitary Department, Cadet Officer.
+
+Sanitary Staff.
+Secretary to the Sanitary Board, J. H. Gelling, 600l. to 700l.
+Chief Inspector, C. E. Frith, A.R.S.I., 600l. to 700l.
+Senior Inspectors, A. K. Taylor, S. Kelly, L. Brewer, W. Old, R. R. Wood, H. L. Lockhart, 475l. to 575l.
+
+Veterinary Staff.
+Veterinary Surgeon, Major W. J. E. Mackenzie, M.C., M.R.C.V.S., 1,000l. to 1,200l.
+Assistant Veterinary Surgeon, Captain M. J. Reidy, M.R.C.V.S., 650l. to 950l.
+
+Botanical and Forestry Department.
+Superintendent, H. Green, 700l. to 950l.
+Assistant Superintendent, G. B. Twemlow, 500l. to 600l.
+
+Education.
+Department of Director of Education.
+Director of Education, Cadet Officer.
+Inspectors of English Schools, A. R. Sutherland (acting), 1,050l.; G. P. de Martin, 1,100l. to 1,300l.
+Inspectors of Vernacular Schools, Y. P. Law, 600l. to 1,000l.; W. Yu, I. Swan.
+Technical Institute Director, E. Ralphs, 120l.
+Head Master, Queen's College, F. J. de Rome, M.B.E., 1,100l. to 1,300l.
+Head Master, Central British School, G. F. Nightingale, 500l. to 950l.
+Head Mistress, Victoria British School, E. M. Clark, 860l. to 700l.
+
+Head Mistress, Kowloon British Junior School, M. Cooper, 750l.
+
+Head Mistress, Peak School, P. Y. Stark, 750l.
+
+Head Mistress, Quarry Bay School, G. M. Cotton, 360l. to 900l.
+
+Head Master, Ellis Kadoorie School (vacant), 1,100l.
+
+Head Master, King's College, A. Morris, 1,100l. to 1,300l.
+
+Head Master, Yaumati School, A. O. Brawn, 1,050l.
+
+Head Master, Wanchai School, E. J. Edwards, 900l. to 900l.
+
+Head Mistress, Belitos Public School, H. F. Skinner, 950l.
+
+Head Master, English School for Indians, A. T. Hamilton, 500l. to 900l.
+
+Volunteers.
+
+Commandant, Lt.-Col. L. G. Bird, D.S.O., O.B.E., £900 command allowance.
+
+Public Works Department.
+
+Director of Public Works, Harold T. Creasy, C.B.E., 1,500l. to 1,800l.
+
+Assistant Directors of Public Works, A. E. Wright, E. W. Carpenter, O.B.E., H. E. Goldsmith, R. M. Henderson, 1,200l. to 1,400l.
+
+Technical Secretary, A. G. W. Tickle, 1,180l. to 1,300l.
+
+Accounts and Stores.
+
+Superintendent of Accounts and Stores, W. J. Anderson, 700l. to 950l.
+
+Deputy Superintendent of Accounts and Stores, E. E. Hagger, 500l. to 640l.
+
+Architectural.
+
+Engineers, H. C. Lowick, 180l. to 1,300l.; R. P. Shaw, S. C. Feltham, R. J. B. Clark, A. W. Hodges, W. H. Owen, R. J. Vernall, E. T. E. Nash, 550l. to 1,150l.
+
+Correspondence.
+
+Secretary to Director of Public Works, W. G. Fitz-Gibbon, 820l. to 1,050l.
+
+Crown Lands.
+
+Superintendent of Crown Lands, L. C. P. Rees, 1,040l. to 1,240l.
+
+First Assistant Superintendent of Crown Lands, H. West, 900l. to 1,050l.
+
+Second Assistant Superintendent of Crown Lands, E. Larmour, 760l. to 880l.
+
+Office Assistant, F. P. Lenfestey, 460l. to 560l.
+
+Drainage.
+
+Engineers, P. D. Wilson, 1,180l. to 1,300l.; G. S. Graver, D. S. Edward, C. J. Waddell, 550l. to 1,150l.
+
+Electrical.
+
+Engineers, L. H. King, 1,180l. to 1,300l.; R. Cryan, 550l. to 1,150l.
+
+General Works.
+
+Engineers, H. S. Rouse, 1,180l. to 1,300l.; E. S. Carter, S. O. Hill, A. H. McBride, R. M. Wood, E. F. Buttress, 550l. to 1,150l.
+
+Port Development.
+
+Engineers, Adam Anderson, 1,180l. to 1,300l.; A. Nicol, W. J. S. Key, N. K. Littlejohn, 550l. to 1,150l.
+
+Public Health and Buildings Ordinance.
+
+Engineers, H. J. Pearce, 1,180l. to 1,300l.; C. B. Robertson, R. S. W. Paterson, J. Bottomley, K. S. Robertson, C. E. Moore, 550l. to 1,150l.
+
+Office Assistant, J. Wattie, 400l. to 600l.
+
+Engineers, J. Ring, J. E. Richason, 550l. to 1,150l.
+
+Roads, Bridges, &c. (Maintenance).
+
+Engineers, E. Newhouse, 1,180l. to 1,300l.; H. H. Pegg, A. E. Lissaman, J. Forbes, 550l. to 1,150l.
+
+Mechanical Engineer, E. P. Fletcher, 600l. to 750l.
+
+Surveys.
+
+Superintendent of Surveys, E. B. Reed, 1,040l. to 1,240l.
+
+Assistant Superintendent of Surveys, F. Sutton, 900l. to 1,050l.
+
+First-Class Land Surveyors, E. B. Lambert, B. H. C. Hallows, F. W. Wood, 760l. to 880l.
+
+Second Class Land Surveyors, J. Angwin, C. H. Douglas, C. H. Lamb, O. C. Womack, G. H. Gandy, M. I. de Ville, 480l. to 700l.
+
+Valuation and Resumptions.
+
+Waterworks.
+
+Engineers, A. B. Purves, 1,180l. to 1,300l.; R. S. Logan, W. Woodward, C. W. E. Bishop, F. J. T. Locke, R. H. Woodman, J. G. Campbell, 550l. to 1,150l.
+
+Kowloon-Canton Railway.
+
+Manager and Chief Engineer, R. Baker, 1,500l.
+
+Chief Mechanical Engineer, C. D. Lambert, 730l. to 880l.
+
+Assistant Mechanical Engineer, J. Smith, 550l. to 700l.
+
+Chief Accountant, J. Morris, 700l. to 825l. plus 100l. pensionable personal allowance.
+
+Traffic Manager and Storekeeper, G. A. Walker, 750l. to 880l.
+
+Traffic Assistant, I. B. Trevor, 480l. to 700l.
+
+Civil Aerodrome.
+
+Superintendent, A. J. R. Moss.
+
+Consuls.
+
+Belgium, G. Botaius.
+
+Bolivia, C. H. Basto, Honorary Consul.
+
+Brazil, José Miguel Alves, Consul, A. L. Alves, Vice-Consul.
+
+Chili, E. Gallardo.
+
+Costa Rica, J. M. de Roela, Consul.
+
+Cuba, F. B. y Romero, Consul.
+
+Denmark, Karsten Larsen, Consul.
+
+France, Dufaure de la Prade.
+
+Germany, B. Hahn, Consul.
+
+Guatemala, J. G. Gonzalez de Bermedo, Consul.
+
+Honduras, P. V. Botelho, Consul.
+
+Italy, A. Biasioicchi, Consul-General; L. de Dionigi, Vice-Consul.
+
+Japan, Yoshiata Murahami, Consul-General.
+
+Mexico, P. Castillo, Consul.
+
+Netherlands, M. J. Quist, Consul-General; A. Methöfer, Vice-Consul.
+
+Nicaragua, Pedro Vicente Botelho, Consul.
+
+Norway, S. Berg, Consul.
+
+Panama, Roberto Vallarino, Consul.
+
+Peru, Elcodoro Rouillon, Consul.
+
+Portugal, Antonio Luiz Carreira de Albuquerque e Castro, Consul-General; P. V. Botelho, Honorary Vice-Consul.
+
+Siam, J. T. Bagram, Vice-Consul.
+
+Spain, Jose Ledesma, Consul.
+
+Sweden, G. Miskin, Vice-Consul.
+
+United States of America, R. C. Tredwell, Consul-General; Consuls, H. Shantz, J. J. Muscio; Vice-Consuls, P. N. Jester, K. K. Kreuts.

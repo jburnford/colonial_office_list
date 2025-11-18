@@ -1,0 +1,903 @@
+MAURITIUS.
+
+Situation and Area.
+
+Mauritius is an island in the Indian Ocean, between 57° 18' and 57° 48' E. long., and 19° 50' and 20° 31' S. lat., distant 115 miles from Réunion, 934 miles from Seychelles, 1,300 miles from Natal, 2,000 miles from Cape Comorin, 11,000 miles from England, 2,300 from the Cape of Good Hope, and 500 from Madagascar. It comprises an area of about 720 square miles (nearly equal to Surrey), having an extreme length of 39 miles from north to south, and an extreme breadth of 29 miles from east to west.
+
+The island is chiefly of volcanic formation but is almost entirely surrounded by coral reefs. There are several small chains of mountains but none of great height. The principal peaks are the Piton de la Rivière Noire (2,711 ft.), Pieter Both (2,690 ft.), and the Pouce (2,661 ft.). There are numerous rivers and streams; they flow generally through deep ravines and their course is broken by many small waterfalls and rapids. None of them are navigable beyond a short distance from the sea. The land rises gradually from the coast, and the centre of the island is composed chiefly of a fertile and picturesque plateau varying in altitude from 1,000 to 1,500 feet. On this high and healthy tableland the temperature and climate are excellent.
+
+History.
+
+The island was discovered by the Portuguese between 1506 and 1528. Although neither the date of the event nor the name of the discoverer can be ascertained with accuracy, tradition has attributed its discovery to Pedro Mascarenhas. The island at that time went under the name of Santa Appolonia, which was later changed to Cerné. The Portuguese merely used the island as a port of call, without making any settlement. The first settlers were the Dutch. In 1598 a Dutch fleet landed in the South-Eastern harbour of the island, to which its commander, Admiral Wybrandt Van Warwyk, gave the name of Mauritius, in honour of the Stadtholder, Prince Maurice of Nassau. For many years no attempt was made at colonisation, but from 1638 downwards petty settlements were established at various points, the seat of government being at the place known as Old Grand Port. The colony did not prosper, and was finally abandoned by the Dutch in 1710.
+
+In 1715 the island was formally taken possession of by the French, but was not actually occupied till 1721, when a small party of colonists were sent out on behalf of the French East India Company. The island was then named Isle de France. This name was retained until the landing of the English in 1810, when the former name of Mauritius was restored. Of all the Governors of the island, the most celebrated was Mahé de Labourdonnais (1735-1746), "a man of eminent talents" (in the words of Lord Macaulay), who encouraged the cultivation of sugar-cane and introduced many other valuable plants. He was the real founder of the prosperity of the Isle de France.
+
+In 1767, the French East India Company, having gone into liquidation, handed over the island to the Crown, Jean Daniel Dumas being appointed Governor General for the King, and Pierre Poivre, Intendant. Poivre was a man of great ability; he introduced into the colony cloves and nutmegs secretly obtained from the Dutch Sunda Archipelago. Having purchased the ancient residence of the Company's Governors, at Monplaisir, he converted the grounds into a nursery where many useful plants introduced by him were cultivated. On his departure this property was sold to Government, the garden being entrusted to Poivre's friend, Nicolas Céré, under whose able management it became famous under the name of King's Gardens. It is now the Royal Botanical Gardens, Pamplemousses.
+
+In 1771 an epidemic of smallpox caused many deaths among the slave population.
+
+In 1790, at the outbreak of the French Revolution, a Colonial Assembly was elected, which for 13 years governed the island de facto.
+
+In 1792 another very able Governor was sent out from France, Comte de Malartic, who during this troubled period managed to gain the affection of the whole community. In 1803, the Isle de France was taken charge of by General Decasen, appointed Captain General by Napoleon Bonaparte, then First Consul, with instructions to suspend the Colonial Assembly and the Isle de France's constitution for a period of ten years.
+
+During the long war between England and France, the Isle de France was a source of great mischief to our merchant vessels, owing to the facility with which sorties were made from its harbour by French men-of-war and privateers; and in 1809 the British Government determined on its capture. The neighbouring islands of Rodrigues and Reunion were taken possession of and several naval engagements were fought to the credit of both navies. The most famous of these was the battle of the Isle de la Passe, fought in the bay of Grand Port on the 23rd and 24th August, 1810, between four English frigates and two French frigates, a corvette and a captured East Indiaman. The English lost the day, two of their ships having gone on shoals early in the engagement, but the great gallantry shown by both sides has rendered the fight memorable in the annals of the two navies.
+
+A strong expeditionary force was then sent out from the three presidencies of India and the Cape. Twelve thousand troops under General Abercrombie were landed, and the island finally surrendered to Great Britain on December 3rd, 1810, the laws, religion, and customs of the inhabitants being guaranteed in the instrument of capitulation.
+
+The possession of the island was confirmed to England by the Treaty of Paris, 1814.
+
+The first English Governor, Mr. (later Sir) R. T. Farquhar (1810-1823) gained a well-deserved popularity. During his tenure of office, on 25th September, 1816, the fourth part of the town of Port Louis was destroyed by a conflagration. On 28th February, 1818, the island was laid waste by a terrific cyclone, causing immense destruction to property.
+
+In the year 1832, the Council of Government which was established on the 19th August, 1825, was abolished, and a Legislative Council, with half the members official, created. The oaths of office were taken by the new members on the 23rd January, 1832.
+
+On the 1st April, 1835, the emancipation of slaves took place without disorder; but as this new class of free men refused employment as labourers the planters were obliged to resort to this introduction of labour from India which was finally authorised in 1842, under the supervision of an agent residing in India, and which continued, with temporary interruptions, until 1910.
+In 1849, the Legislative Council voted the law constituting a municipal corporation for the town of Port Louis.
+
+During the years 1854, 1866, 1861-62, epidemics of cholera prevailed, of which that of 1854 was the most severe, causing 7,650 deaths.
+
+The year 1864 saw the opening of the North Railway Line from Port Louis to Pamplemousses, the Midland Line being inaugurated two years after.
+
+In December, 1866, malaria broke out with great severity. During the year 1867, 31,788 persons died from fever, including 18,308 in Port Louis.
+
+In 1868 and 1874, Mauritius was visited by severe cyclones. During the former two spans of the Grand River Railway Viaduct were brought down by the force of the wind. On the 29th April, 1892, one of the most violent cyclones ever recorded ruined a considerable portion of Port Louis, besides causing infinite havoc to buildings and crops. The death roll amounted to 1,232. In order to assist the planters and other owners of immovable property affected by the calamity, a loan of £600,000 was guaranteed by the Imperial Government.
+
+On the 23rd of July, 1893, part of Port Louis was again destroyed by fire. At the end of the same year ocean telegraphic communication was opened.
+
+In 1902, an outbreak of Surra caused great loss of draught animals, and mechanical means of transport had to be resorted to for the sugar plantations. A number of locomotives and traction engines were introduced, and a loan was raised to enable the planters to lay down tramways, and take other steps to provide for transport.
+
+In 1909, a Royal Commission visited the Island to enquire into the administration and finances of the Colony.
+
+During the Great War Mauritius suffered in no way by direct action on the part of the enemy. A number of volunteers proceeded to Europe for military service and a "Labour Battalion" was supplied for Mesopotamia.
+
+The enormous rise in the price of sugar brought great prosperity to the Colony, and the gross value of the crop of 1920-1921 is estimated to have been approximately Rs. 250,000,000.
+
+In 1921 investigations of the sanitary and health conditions were made by Dr. Andrew Balfour, C.B., C.M.G., M.D. Of the minor works recommended, many have already been carried out while others are in progress.
+
+In 1923 the Indian Government consented to the resumption of immigration of labourers from India consequent on the repeal of the penal clauses of the Labour Law of 1878 affecting labour. Immigration was accordingly resumed for a period of 12 months ending on 31st May, 1924, but with disappointing results, most of the immigrants having returned to India by the end of the same year.
+
+General Description.
+
+The permanent settled population of European race is greater in Mauritius than in any other tropical colony of its size. Many of the inhabitants are descendants of the ancient French noblesse. The higher and middle classes possess much intellectual culture.
+
+Eight daily newspapers and ten other periodicals are published in the capital. The French language and a creole patois are spoken all over the island, English being used in the supreme court of justice. Debates in the Council of Government may take place in either language.
+
+Mauritius is divided into nine districts, Port Louis, Pamplemousses, Rivière du Rempart, Flaoq, Grand Port, Savanne, Moka, Plaines Wilhems, and Black River.
+
+The City of Port Louis is the capital, and seat of Government, and contained, with its suburbs, an estimated population of 54,114 on 31st December, 1927. The harbour is one of the best in the East, and is sufficiently spacious to receive a large number of vessels. It possesses three graving docks.
+
+Works for the reconditioning of the Harbour and improvements thereto are being carried out. The Harbour is defended by Fort Adelaide (the citadel) and by Fort George. There are large barracks and military stores. The trade of the island passes almost entirely through Port Louis. The city has an elected municipal corporation, and raised in 1927 a revenue of Rs. 678,120, against an expenditure of Rs. 774,353. Its debt amounts to 81,086l. at 31st Dec., 1927.
+
+The principal public edifices of Port Louis are the Government House, the Institute, the Roman Catholic and Anglican cathedrals, the Civil Hospital, the Town Hall, the theatre, and the public offices. There is a racecourse most beautifully situated in the Champs de Mars.
+
+A sewage scheme, designed by Messrs. James Mansergh & Sons, provides for the disposal of the sewage of the central part of the town.
+
+After Port Louis, the largest town is Curepipe, incorporated in 1890 (population 17,709, census of 1921), situated on the uplands in the Plaines Wilhems district.
+
+In the district of Grand Port is the small town of Mahebourg (population 2,641, census of 1921), so called in honour of Mahé de Labourdonnais.
+
+Population.
+
+At the Census of 1921 the population of Mauritius (exclusive of the Dependencies, but including Military) was found to consist of:—
+
+Persons of European, African, or mixed descent ........................................... 104,216
+Indo-Mauritians, i.e., persons of Indian descent, born in Mauritius .................. 248,468
+Other Indians ......................................................................................... 17,506
+Chinese .................................................................................................... 6,745
+
+Total ........................................................................................................ 376,935
+
+The total number of Indians was thus 285,974 or 70½ per cent. of the total population.
+
+The descendants of the immigrants from India—the Indo-Mauritians—now form the largest section of the population; they are steadily increasing in numbers. They are predominant in the domestic, commercial, and still more in the agricultural callings, and the amount of land held by them as small planters is rapidly growing.
+
+Constitution.
+
+The constitution of Mauritius was altered in 1884-85. It now consists of a Governor, with an Executive Council of four ex-officio members, and a Legislative Council of twenty-seven members, eight being ex-officio, nine nominated by the Governor, and ten elected—two for the town of Port Louis, and one for each of the eight rural districts. At least one-third of the nominated members must be persons not holding any public office. Members are not paid; they may speak either in French or English. The number of registered
+
+* There is reason to believe that a number of old Indian immigrants (i.e., those whose contract has expired) returned themselves as Indo-Mauritians.
+electors on 31st December, 1925, was 11,366; the franchise qualification is ownership of immovables of annual value of Rs. 300, or movables worth Rs. 3,000, or payment of rent of Rs. 25 monthly, or of license duty of Rs. 200 annually, or receipt of salary of Rs. 50 monthly. The session usually lasts from April to December.
+
+The law is based on the Code Napoléon, and other French laws modified by Colonial Ordinances.
+
+Climate and Rainfall.
+
+From December to April is the hottest season in Mauritius, but it is comparatively cool during the remainder of the year. The average mean temperature of Port Louis is 77°1°, the average rainfall 38 inches and the relative humidity 71 per cent. The average mean temperature of Curepipe is 67°5°, the average rainfall 124 inches, and the relative humidity 87 per cent. The climate at Curepipe, from 1,700 to 1,900 feet above the sea, resembles that of the South of France or Italy. The cyclone season extends officially from December to the end of April, but cyclones occur in the Indian Ocean eastward of Mauritius, from the equator down to 30° S. latitude, in every month of the year, except August and September.
+
+The mean rainfall in 1926 from 24 stations was 74·95 inches compared with an average of 66·99 inches.
+
+During cyclones over 30 inches of rain have occasionally been registered in 24 hours.
+
+Water Supply.
+
+The Town of Port Louis is supplied by the Grand River, N.W. This source is not altogether satisfactory. Two reservoirs have been constructed by the Government to ensure a better supply to the town. It is proposed to provide Port Louis with Mare-aux-Vacoas water as advised by Mr. E. Mansergh, of Messrs. James Mansergh & Sons, who visited the Island in September and October, 1921. The erection of a chlorination plant with filter beds at Grand River, N.W., as recommended by them, to purify the water, has been completed.
+
+The Mare aux Vacoas works were started by the Government in 1895, and were extended by the addition of a filtering plant. The whole of the district of Plaines Wilhems and a part of Moka are now supplied with pure water from these works and a small main was also laid to supply the Barracks and Fort in Port Louis and also the Government Establishments and soda water factories. These works have cost about 2,000,000 rupees and the revenue derived therefrom, Rs. 113,274 in 1926-27, now exceeds the cost of the upkeep.
+
+The water supply of other districts is under the control of other Local Boards and with the co-operation of the Government, works have been undertaken to distribute water from upland springs to the villages in the country districts; these works are now completed for some districts and in course of execution in others.
+
+Irrigation.
+
+Important schemes have been in progress in recent years. A reservoir, with an area of 562 acres and a capacity of 416 million cubic feet has been constructed at "La Ferme," in the District of Black River, and about 4,000 acres of land are now under irrigation. A second scheme, the "La Nicoliere," in the District of Pamplemousses, is making good progress.
+
+Scenery.
+
+The famous tale of Paul and Virginia, by Bernardin de St. Pierre, an engineer officer in the service of France, who was stationed in the island towards the close of the 18th century, scarcely exaggerates the picturesque beauty of large portions of Mauritius. Many of the forests have, however, been felled to make room for the cultivation of the sugar-cane, the staple industry of the colony. In the remaining woods deer abound (being carefully preserved) and afford good sport; there are also partridges, quails, hares, and wild ducks in several parts of the island. The far-famed Botanical Gardens of Pamplemousses contain many rare and valuable plants and flowers.
+
+Railways.
+
+There are seven lines of railway, all owned and worked by Government, viz.: (1) The North line, from Port Louis to the sea coast village of Grand River South-east. Its length is 31 miles, and its course is approximately parallel to the northern coast line of the island. (2) The Montagne Longue branch from Terre Rouge station on the North Line to the village of Montagne Longue; its length is 3½ miles. (3) The Midland line, beginning at Port Louis and running across the island to the sea coast town of Mahébourg on the other side; its length is 35·3 miles, with a summit level of 1,822 feet at Curepipe; the gradient in many places is 1 in 27. Four miles of this line have been doubled and opened for traffic. (4) The Moka-Flacq line from the Rose Hill station on the Midland line to Rivière Seche station on the North line; length 26·2 miles. (5) Savanne branch from Rose-belle station on the Midland line to the sea coast town of Souillac at the southern extremity of the island; its length is 10·90 miles. (6) Black River branch, from Richelieu on the Midland line to Tamarin, distance 12·75 miles. (7) Rivière du Poste to Mexico and Richebois, length 24 miles. All the above are of standard gauge, 4' 8½", except the 7th which is 75 centimetres (2' 6"). The total number of miles of railway now open is 119·65 of standard gauge and 24' of 2' 6" gauge, the total cost up to date being about 2,278,110l. or Rs. 34,171,653 (£1 = Rs. 15). The receipts in 1926-27 were Rs. 3,338,335 (including traffic done for other Government departments), and expenditure, Rs. 4,210,051, not including the charge on account of Railway loans.
+
+Religion.
+
+The Christian Churches are assisted by State grants. According to the census of 1921, the Roman Catholics numbered 117,491, and the Protestants about 3,400, including Dependencies and Military. The Roman Catholics receive an annual grant from Government amounting to Rs. 142,016, the Protestants Rs. 45,533, and the Church of Scotland Rs. 3,558.
+
+Education.
+
+The system of education had been remodelled by Ordinance No. 33 of 1899, which repealed all former enactments. This Ordinance was amended in some important respects by Ordinance No. 35 of 1913.
+
+Under the Education Ordinance of 1899, a Department of Public Instruction was created under a "Director of Public Instruction."
+
+This system remained in force until it was superseded by the Education Consolidation
+Ordnance of 1919, under which the Department of Public Instruction was replaced by a Royal College Department and a Schools Department, the post of Director of Public Instruction being abolished. The Rector is the Head of the Royal College Department; and the Superintendent of Schools of the Schools' Department.
+
+The Royal College provides for the Secondary Education of Boys. A Committee styled the "Royal College Committee" is annually appointed by the Governor to advise in the framing of Regulations and to act as a consultative body. It consists of the Rector as Chairman, and of six members chosen by the Governor.
+
+The Schools' Department provides for Primary, Secondary, and Technical and Industrial Education:
+
+1. Primary Education is carried on through a system of Government Schools and of Grant-in-aid Denominational Schools, the latter under the immediate control of local managers.
+
+2. Secondary Education is provided by means of a system of Grant-in-aid schools for boys and girls.
+
+3. As regards Technical and Industrial Education, provision is made for the training of students in Engineering (Mechanical and Civil), in Horticulture and Woodwork, and for the training of students as Teachers. A consultative committee styled the "Schools Committee," similar to that of the Royal College, is annually appointed by the Governor. It consist of 10 members: five members are nominated by the Primary and Secondary Grant-in-aid Schools and four are chosen by the Governor, with the Superintendent of Schools as Chairman.
+
+4. A sum of Rs. 500,000 has been set aside from the Colony's Surplus Balances as a "Scholarship Fund." The interest on this amount is devoted annually to provide further facilities, in the shape of scholarships and educational grants, for young Mauritians in the Government service and on leaving school to pursue their studies and obtain higher technical qualifications.
+
+Higher Education.
+
+On the books of the Royal College on the 31st December, 1927, there were 349 pupils.
+
+Primary Education.
+
+There were in 1927—
+
+| Number | Pupils |
+|--------|--------|
+| Government schools | 57 | 13,619 |
+| Grant schools | 94 | 18,917 |
+
+Total . . . 151 32,536
+
+The total expenditure on education in 1926-27 amounted to Rs. 1,614,156. There are about 800 masters, mistresses, assistants, and monitors and mistresses employed in Government and Grant Schools. Of the pupils in the aided schools 59·0 per cent. are Roman Catholics, 2·0 per cent. belong to the Church of England, and 1·0 per cent. to other Christian denominations. Five Hindu and three Moslem schools are also assisted.
+
+Agricultural Education.
+
+To facilitate higher agricultural education, a small Agricultural College has been established. Regular delivery of courses of lectures on Agricultural Science is being made to Primary School Teachers by the Department of Agriculture.
+
+Communications.
+
+Mail steamers of the Messageries Maritimes, starting from Marseilles, maintain a regular service via the Suez Canal, and the Union-Castle line provides a service via the Cape of Good Hope.
+
+The British India Steam Navigation Company runs an irregular service between Colombo and Mauritius. There is frequent communication by both sailing and steam vessels with India, Australia, Madagascar, Natal, Réunion, &c.
+
+The Imperial Wireless Station at Rose-belle, which was closed on the 30th June, 1922, has been taken over by the Government from the Admiralty for a term of 21 years, from 1st June, 1923. Telegraphic and telephonic communication is established along and beyond the railway, the total length of line being 594 miles of telegraph* and 202 of telephone; and cable communication through a branch office of the Eastern and South African Telegraph Company with Europe, via Seychelles, Zanzibar, and Aden, was opened in November, 1893. There is also a direct communication with the Madagascar and Reunion, two French Colonies in the Indian Ocean. Through rate: United Kingdom to Mauritius, 3s. per word; and from Mauritius to United Kingdom, Rs. 1·35.
+
+There are in Mauritius the General Post Office in the city of Port Louis, and 64 branch post offices in the rural districts, 64 money order offices, 54 telegraph and 7 telephone offices. In the island of Rodrigues there is one post office at Port Mathurin. There is no post office in any other of the Dependencies. The rates of postage as from 1st October, 1925, are:
+
+| Letters per 20 grs., 5 cents; every additional 20 grs. or fraction thereof, 5 cents. |
+| Newspapers per 50 grs., 10 cents; every additional 30 grs. or fraction thereof, 5 cents. |
+
+Dependencies of Mauritius
+
+| Letters per 20 grs., 5 cents; every additional 20 grs. or fraction thereof, 5 cents. |
+| Newspapers per 50 grs., 10 cents; every additional 30 grs. or fraction thereof, 5 cents. |
+
+Other countries of the Postal Union or non-Union Countries
+
+| Letters per 20 grs., 15 cents; every additional 20 grs. or fraction thereof, 10 cents. |
+
+Parcels Post Rates.—For parcels addressed to the United Kingdom.
+
+| Vid Marseilles. | Rs. c. |
+|----------------|-------|
+| Not over 3 kilos | 3 25 |
+| Over 3 kilos and not over 5 kilos or 11 lbs. | 3 60 |
+| Not over 10 kilos | 5 80 |
+
+| Vid Cape of Good Hope. | Rs. c. |
+|------------------------|-------|
+| Not over 3 lbs. | 1 50 |
+| Over 3 lbs. but not over 7 lbs. | 2 90 |
+| Over 7 lbs. but not over 11 lbs. | 3 75 |
+| Over 11 lbs. but not over 22 lbs. | 5 25 |
+
+Commerce.
+
+The island produces barely one-tenth of the food required for its inhabitants and almost all agricultural enterprise is devoted to the production of exports.
+
+The chief exports are sugar, rum, molasses, aloe-fibre, oil, copra, &c. Oxen are imported from Madagascar and Rodrigues, and food-stuffs from India.
+
+The imports consist mainly of grain (rice, wheat, &c.), cotton manufactures, wine, coals, hardware, and manure. Considerable progress has
+
+* Including Block Telegraph for the Railway.
+been recorded in connection with the tobacco industry. About 2,000 acres are under tobacco cultivation. The British American Tobacco Company have opened a factory in Port Louis and efforts are being made to establish an export trade. About 93 per cent. of the value of the exports consists of shipments of sugar. In 1927 the weight of sugar exported was 227,989,000 kilos., with an estimated value of Rs. 53,789,928. The value of the rum exported was Rs. 20,065; that of aloe-fibre, Rs. 665,936; that of cocoa-nut oil, Rs. 34,597. The number of vessels registered at Port Louis is now 22, of a total tonnage of 5,989.
+
+Currency and Banking.
+
+The Mauritius Commercial Bank has establishments in the Colony, the total amount of deposits on 31st Dec., 1927, being Rs. 10,143,678, with paid up capital of Rs. 2,000,000.
+
+The Bank of Mauritius (Limited) was established in October, 1894, with paid up capital of 126,550L, and opened in Mauritius in Dec., 1894. The business of that bank was taken over by the Mercantile Bank of India Limited on the 3rd May, 1916. Total deposits on 31st Dec., 1927, Rs. 4,071,000. The total paid up capital is now 1,050,000L.
+
+The National Bank of South Africa, now Barclays Bank (Dominion, Colonial and Overseas), has opened branches in the Island since 1919. The paid up capital being 4,975,500L, and the total amount of deposits on 31st December, 1927, Rs. 1,703,873.
+
+A Government savings bank was established in 1837. The total deposits during the year ended 30th June, 1927, amounted to Rs. 1,609,884. The sum standing to the credit of depositors at the end of June, 1927, was Rs. 5,134,555.
+
+All accounts are kept in rupees and cents of a rupee, which is the currency of the island. A Government note issue was re-established in 1876, the notes being legal tender except at the office of issue. The average circulation for the year 1926-27 was Rs. 14,185,000.
+
+Weights and Measures.—The Metric System, as regards weights and measures, came into force on the 1st May, 1878.
+
+Dependencies.
+
+The dependencies of Mauritius comprise a large number of islands scattered over the Indian Ocean.
+
+Rodrigues, the most important, is situated in latitude S. 19° 44' and longitude E. 63° 34', and is 344 nautical miles from Mauritius. The island which has an area of 42 sq. miles, about 26,000 acres, is 18 miles long by 7 miles broad, and is surrounded by coral reefs, extending in some places 5 or 6 miles from the shore. It is under the administration of a magistrate, who takes his instructions from the Governor of Mauritius. Laws for the island are made in the form of regulations framed by the Governor of Mauritius in Executive Council. The estimated population at 31st December, 1927, was 7,517. The birth rate in 1927 was 39.8 and the death rate 8.7 per 1,000. Cable communication, through a branch of the Eastern and South African Telegraph Company, was opened on 16th May, 1902.
+
+The island, which is volcanic, mountainous, and in some parts well wooded, is beautiful and picturesque in the extreme. The highest land is 1,760 feet above the level of the sea, and may be seen in clear weather at a distance of 10 or 12 leagues. The temperature differs little from that of Mauritius, although the breezes are stronger and hurricanes more frequent and severe. The climate is healthy. The principal industries are fishing and the rearing of cattle and goats, for which latter the pasturage is excellent. The soil is good: cotton, coffee, tobacco, maize, beans, and vanilla grow luxuriantly; a trained officer has of late (1921) been appointed Agricultural Superintendent in view of the agricultural development of Rodrigues. The wild guineas, fowl and partridges, likewise the deer and wild pigs, which used to be plentiful, have almost disappeared.
+
+The value of the imports in 1927 was Rs. 454,098. The exports of the island produce in 1927 were valued at Rs. 347,093. The people are all peasant proprietors and there is abundance of food.
+
+The principal exports are beans, maize, salt-fish, cattle, goats, pigs, poultry, tobacco-leaf and acacia seeds.
+
+Communication with Rodrigues is maintained by a chartered steamer and occasional sailing vessels.
+
+Diego Garcia (population, 445, census 1921), the most important of the Oil Islands group, consists of four islands, at four days' steaming from Mauritius, the chief one being about 30 miles in length, extending in an irregular horseshoe shape, and embracing between its extremities three minor islets. It is a coral atoll, fifteen miles by six and a half, nowhere over ten feet high, but forming a spacious bay, roomy enough for large vessels to enter, being fifteen miles in length from end to end, and from two to five miles in breadth.
+
+Diego Garcia is situated at 7° 20' latitude S. and 72° 26' longitude E., on the straight line between the entrance to the Red Sea and Cape Leeuwin. In 1885 it was placed under the jurisdiction of a magistrate, with a small force of police from Mauritius, which was, however, withdrawn in 1888.
+
+The population of the smaller Dependencies, according to the 1921 census, was 1,773.
+
+Governors of Mauritius from 1897.
+
+Sir C. Bruce, K.C.M.G. . . . . . . . . . . . 11 May 1897
+Sir Cavendish Boyle, K.C.M.G. . . . . . . . . . 20 Aug. 1904
+Major Sir J. R. Chancellor, K.C.M.G., D.S.O., R.E. . . . . . . . . . . . 13 Nov. 1911
+Sir Hesketh Bell, K.C.M.G.I. . . . . . . . . . . . 18 May 1916
+Sir Herbert J. Read, K.C.M.G., C.B. . . . . . . . . . . . 19 Feb. 1925
+
+Finances.†
+
+| Year | Revenue | Expenditure |
+|------|---------|-------------|
+| 1917-18 | 13,566,420 | 12,860,380 |
+| 1918-19 | 13,813,069 | 14,711,349 |
+| 1919-20 | 18,132,807 | 18,967,988 |
+| 1920-21 | 39,683,931a | 24,312,126 |
+| 1921-22 | 25,599,994 | 26,237,688 |
+| 1922-23 | 23,547,734 | 22,031,176 |
+| 1923-24 | 19,897,483 | 16,588,702 |
+| 1924-25 | 19,672,843 | 17,653,716 |
+| 1925-26 | 15,894,763 | 16,117,988 |
+| 1926-27 | 14,682,807 | 16,461,062 |
+
+Shipping Entered and Cleared.‡
+
+| Year | Tonnage |
+|------|---------|
+| 1917-18 | 235,998 |
+| 1918-19 | 509,319 |
+| 1919-20 | 530,421 |
+| 1920-21 | 651,026 |
+| 1921-22 | 599,508 |
+| 1922-23 | 616,164 |
+| 1923-24 | 596,074 |
+| 1924-25 | 714,800 |
+| 1925-26 | 562,914 |
+| 1926-27 | 630,743 |
+
+Public Debt, 30th June, 1926, 1,765,724L (not including 86,518L Foreign Debenture Debt, of the Municipal Corporation of Port Louis).
+
+† Year ending 30th June.
+‡ Calendar year.
+(a) Includes Rs. 15,758,016 collected under Ordinances Nos. 36 and 37 of 1920.
+Customs and Harbour Revenue, 1925-26,
+Rs. 7,389,384 + Rs. 307,719.
+
+**Imports.**
+
+| Year | From U.K. | From Colonies | From Elsewhere | Total |
+|------|-----------|---------------|----------------|-------|
+|      | Rs.       | Rs.           | Rs.            | Rs.   |
+| 1918 | 7,016,235 | 30,012,233    | 5,781,982      | 42,921,250 |
+| 1919 | 11,422,848 | 23,388,960    | 12,225,216     | 47,037,024 |
+| 1920 | 23,827,889 | 49,264,730    | 13,093,711     | 96,186,330 |
+| 1921 | 40,563,302 | 54,016,345    | 32,536,603     | 127,116,250 |
+| 1922 | 23,880,773 | 33,311,798    | 20,187,301     | 77,379,872 |
+| 1923 | 23,661,652 | 34,430,606    | 21,943,815     | 80,036,073 |
+| 1924 | 24,746,862 | 32,220,949    | 23,671,992     | 80,639,803 |
+| 1925 | 16,881,286 | 27,798,165    | 16,936,804     | 61,616,255 |
+| 1926 | 11,346,796 | 24,584,578    | 14,802,253     | 50,733,627 |
+
+**Exports.**
+
+| Year | To U.K. | To Colonies | To Elsewhere | Total |
+|------|---------|-------------|--------------|-------|
+|      | Rs.     | Rs.         | Rs.          | Rs.   |
+| 1918 | 21,257,627 | 31,809,630 | 2,664,417    | 55,731,674 |
+| 1919 | 96,362,366 | 18,238,683 | 13,261,404   | 127,862,453 |
+| 1920 | 98,635,642 | 18,496,307 | 10,375,356   | 127,507,306 |
+| 1921 | 126,092,437 | 19,561,630 | 3,308,755    | 157,899,822 |
+| 1922 | 62,992,736 | 38,061,157 | 1,333,708    | 102,387,600 |
+| 1923 | 66,052,535 | 12,379,362 | 863,506      | 79,295,393 |
+| 1924 | 12,431,527 | 36,365,920 | 3,662,236    | 52,459,683 |
+| 1925 | 27,609,534 | 13,056,690 | 3,977,749    | 44,642,973 |
+| 1926 | 36,000,557 | 9,023,941  | 2,128,200    | 47,152,698 |
+
+**Population.**
+
+| Estimate, 1767, 19,000 | Male. | Female. | Total. |
+|------------------------|-------|---------|-------|
+| ,, 1837, 134,000        |       |         |       |
+| Census, 1881 (General)  | 57,303| 53,578  | 110,881|
+| ,, Indian               | 151,352| 97,641 | 248,993|
+| Census, 1891 (General)  | 58,539| 56,129  | 114,668|
+| ,, Indo-Mauritian       | 80,653| 75,938  | 156,591|
+| ,, Other Indians        | 66,846| 32,483  | 99,329 |
+| Census, 1901 (General)  | 59,457| 58,447  | 118,904|
+| ,, Indo-Mauritian       | 100,369| 89,658 | 190,027|
+| ,, Other Indians        | 43,727| 27,382  | 71,109 |
+| Census, 1911 (General)  | 59,783| 59,049  | 118,832|
+| ,, Indo-Mauritian       | 115,421| 107,236 | 222,657|
+| ,, Other Indians        | 23,954| 11,660  | 35,594 |
+| Census, 1921 (General)  | 55,141| 56,078  | 111,219|
+| ,, Indian               | 139,119| 126,342 | 265,461|
+
+**Executive Council.**
+
+Governor.
+Officer Commanding the Troops.
+Colonial Secretary.
+Procureur and Advocate-General.
+Receiver-General.
+Clerk.
+
+**Council of Government.**
+
+Governor.
+Officer Commanding the Troops.
+Colonial Secretary.
+Procureur and Advocate-General.
+Receiver-General.
+Collector of Customs.
+Protector of Immigrants and Poor Law Commissioner.
+Director of Public Works and Surveys.
+Director, Medical and Health Department.
+
+**Elected Members.**
+
+Dr. E. Laurent.
+A. Rohan.
+J. P. Raffray.
+R. Pezzani.
+F. M. L. Rouillard, K.C., C.B.E.
+S. Fonqueriaux.
+J. A. M. Martin, C.B.E.
+L. H. A. Noel.
+D. Lallah.
+R. Gujadhur.
+
+**Nominated Members.**
+
+H. G. Robinson.
+T. Avice, Registrar General.
+R. Deane, Inspector General of Police and Superintendent of Prisons.
+P. Adam.
+H. A. Tempany, D.Sc., F.I.C., F.C.S., Director of Agriculture.
+Dr. J. A. Ferrière.
+G. M. D. Atchias.
+J. M. Brodie, O.B.E.
+E. Leclercq, K.C.
+Clerk and Shorthand Writer (English), E. Jullienne, Rs. 8,000.
+
+**Civil Establishment.**
+
+Governor and Commander-in-Chief, Sir Herbert James Read, K.C.M.G., C.B., Rs. 75,000.
+Private Secretary, Capt. A. G. C. Northercroft, Rs. 5,500.
+
+**Salaries.**
+
+The Clerical Service is paid according to the following incremental scale:
+
+- **1st Class**, Rs. 6,200—Rs. 7,200.
+- **2nd Class**, Rs. 5,000—Rs. 6,000.
+- **3rd Class**, Rs. 3,800—Rs. 4,800.
+- **4th Class**, Rs. 2,600—Rs. 3,600.
+- **5th Class**, Rs. 1,800—Rs. 2,400.
+- **6th Class**, Rs. 1,200—Rs. 1,680.
+
+**Colonial Secretary's Office.**
+
+Colonial Secretary, Sir E. A. Grannum, Kt., C.M.G., Rs. 22,500.
+Assistant Colonial Secretary, W. H. Ingrams, Rs. 12,000.
+2nd Assistant Colonial Secretary, R. Viader, Rs. 8,000.
+
+**Clerical Staff.**
+
+2nd Class Clerks, R. Toureau and R. de Fontenay.
+3rd Class Clerks, E. E. Blackburn, O. Terrière and W. Wilson.
+4th Class Clerks, N. Martin Moncamp and J. Nalletamby.
+
+**Printing Office.**
+
+Government Printer, P. Bumstead, Rs. 4,000, by Rs. 250, to Rs. 5,000, and duty allowance Rs. 360.
+Assistant Government Printer, L. Chanier, Rs. 2,000, by Rs. 200, to Rs. 3,000.
+
+**Receiver-General's Department.**
+
+Receiver-General, H. Pickwood, Rs. 18,000.
+
+**General Branch.**
+
+Assistant Receiver-General, P. Duhaud, Rs. 10,000.
+Head Accountant and Chief Examiner, N. Decotter, Rs. 8,000.
+1st Class Clerks, T. Dijou and P. Yerriah.
+2nd Class Clerks, F. Fanchette, S. Aroumanayasgum, J. Koenig and L. Hubert.
+
+† Of which Rs. 15,000 is drawn by the O.A.G. when the Governor is absent on full pay or half-pay leave.
+3rd Class Clerks, E. Grégoire, L. A. Thenet, J. E. Yerriah, F. Gregoire, B. St. C. Cateaux, G. Marcello, J. L. Melotte, J. L. M. Rault, B. Leconstant, L. Thirieux, O. Henrion, E. Adrien, B. Adrien and A. Athow.
+
+4th Class Clerks, L. Moutou, E. Rosette, I. C. Nallétamby, L. E. Stephen, * M. L’Etang, D. Kalle, W. Juste, W. B. Bazire and M. C. Pillay.
+
+Inland Revenue Branch.
+
+Superintendent, E. Lagarde, Rs. 8,000.
+
+Inspectors (Revenue), H. Régnard, Rs. 5,000; L. Houeix, Rs. 4,500; R. Bouquet, R. Armand, A. Antoinette, H. Mattock, L. E. Dagorne, L. Crétin, S. Manancourt, H. G. Vellin, H. B. Bonnet, J. Sévremont, L. Carver and H. Davis, Rs. 1,800—Rs. 3,600.
+
+AUDIT OFFICE.
+
+Auditor, A. S. Cremer, Rs. 12,000.
+
+Assistant Auditor, G. G. Roberts, Rs. 8,000.
+
+2nd Class Clerks, A. Nayna and G. Florentin.
+
+3rd Class Clerks, A. Patté, J. A. Gouges and W. Argent.
+
+4th Class Clerks, G. Antoine, L. N. Russie, M. Marce and J. R. Silvio.
+
+PUBLIC WORKS AND SURVEYS.
+
+Director of Public Works and Surveys, Major F. Régnard, R.E., Rs. 15,000.
+
+Assistant Directors, M. Desheds, Rs. 10,000, and X. Koenig, Rs. 8,000—Rs. 9,000.
+
+4th Class Clerk, E. Clément.
+
+Building, Drainage and Water Works.
+
+Divisional Engineer, M. Savrimoutou, Rs. 8,000—Rs. 500—Rs. 9,000.
+
+Chief Inspector of Works, A. Régnard, Rs. 5,000—Rs. 6,200.
+
+Roads and Bridges Branch.
+
+District Inspectors, Rs. 3,600—Rs. 4,800; J. Mangéot, E. Bouffé, R. Mellish and J. F. Boulle.
+
+Survey Branch.
+
+Government Surveyor, L. E. Belcourt, Rs. 9,000—Rs. 500—Rs. 10,000.
+
+1st Assistant Surveyor, F. Parsons, Rs. 6,000.
+
+2nd Assistant Surveyor, G. A. Baptiste, Rs. 5,000.
+
+MARE-AUX-VACOAS WATERWORKS.
+
+Head Inspector, G. Wilmann, Rs. 4,800—Rs. 6,000.
+
+Store Clerk, R. Poilly, Rs. 2,400—Rs. 3,000.
+
+CUSTOMS DEPARTMENT.
+
+Collector of Customa and Registrar of Shipping, Capt. B. A. Francis, Rs. 15,000.
+
+Deputy Collector, W. Johnston, Rs. 9,000.
+
+Chief Clerk, 1st Class Clerk, T. Lemerle.
+
+2nd Class Clerk, A. G. Sommarain.
+
+3rd Class Clerk, J. G. Ambroisine.
+
+4th Class Clerks, X. Chouchoux and V. Dahadie.
+
+Bonded Warehousekeeper, W. Rose, Rs. 5,000—Rs. 6,000.
+
+King’s Warehousekeeper, A. Thatcher, Rs. 3,600—Rs. 4,800.
+
+Assistant King’s Warehousekeepers, E. Bonenfant, S. Camille and G. Thompson, Rs. 2,500—Rs. 3,500.
+
+* Draws also Rs. 600 p.a. as Secretary, Tender Board.
+
+Outdoor Branch.
+
+Examining Officers (a), E. Appou, M. Fox (b), H. Duhamel, L. Denneumont and G. Yardin, Rs. 3,600—Rs. 4,800; L. Aumord, L. Magnien and C. Foster, Rs. 2,500—Rs. 3,500.
+
+Preventing Officers, W. Pung, Rs. 3,600—Rs. 4,800; J. Hardouin, Rs. 2,500—Rs. 3,500; L. Hugon and J. M. Bernon, Rs. 1,800—Rs. 2,400.
+
+HARBOUR DEPARTMENT.
+
+Harbour Master and Superintendent of Mercantile Marine and Collector of Customs, Capt. B. A. Francis (see under Customs Department).
+
+Port Captain, G. M. Smith, M.B.E., Rs. 8,000 and quarters.
+
+Pilots, R. Morin and A. Commins, Rs. 6,000.
+
+REGISTRAR GENERAL’S DEPARTMENT.
+
+Registrar General, T. Avice, O.B.E., Rs. 13,500, personal allowance, Rs. 1,500.
+
+Registration and Mortgage Branch.
+
+Assistant Registrar General, L. R. Giraud, Rs. 8,000, personal allowance, Rs. 1,000.
+
+2nd Class Clerks, G. Clair (personal allowance Rs. 600.), H. Herchenroder and E. Gérard.
+
+3rd Class Clerk, M. Gouges and W. Theodore.
+
+4th Class Clerks, A. Vacher, E. Joachim and P. Annibal.
+
+Archives Branch.
+
+Custodian of Archives, E. Perdrau, Rs. 4,000—Rs. 5,000.
+
+Civil Status Branch.
+
+3rd Class Clerk, A. Emile.
+
+POSTAL AND TELEGRAPH DEPARTMENT.
+
+Colonial Postmaster and Superintendent of Telegraphs, H. W. Lavers, Rs. 10,000.
+
+Assistant Colonial Postmaster and Superintendent of Telegraphs, J. S. Ahnee.
+
+Inspector of Post Offices, E. Azor, Rs. 3,000—Rs. 3,600.
+
+Parcels Clerk, L. Chaperon, Rs. 3,000—Rs. 3,600.
+
+Instructor, Training School, E. Marchand, Rs. 2,000—Rs. 2,400.
+
+Accountant, 2nd Class Clerk, J. E. Perombelon.
+
+Deputy Postmaster, Port Louis, C. Chavry, Rs. 3,000—Rs. 3,600.
+
+4th Class Clerk, R. Lassémillante.
+
+IMMIGRATION AND POOR RELIEF DEPARTMENT.
+
+Protector of Immigrants and Poor Law Commissioner, L. Collet, Rs. 12,000.
+
+Chief Clerk, 2nd Class Clerk, I. Rajabally.
+
+3rd Class Clerks, A. Brunaud and P. E. Tahicatte.
+
+4th Class Clerks, M. Ducasse, L. Pascal, L. Madhoo and H. Aliphon.
+
+Inspector of Immigrants, 2nd Class Clerk, L. Besson, Rs. 5,000—Rs. 6,000 and house rent.
+
+MEDICAL AND HEALTH DEPARTMENT.
+
+Director, J. Balfour Kirk, Rs. 20,250.
+
+Medical Officers of Health (vacant), Rs. 12,000—Rs. 15,000, and Dr. J. E. R. Momplé, Rs. 13,500, and personal allowance Rs. 1,500.
+
+Medical Assistant to Director, Rs. 7,000—Rs. 10,000 (vacant).
+
+Superintendent, Bacteriological Laboratory, and Government Analyst, Dr. L. G. Barbeau, Rs. 13,500, personal allowance Rs. 1,500.
+
+(a) These officers receive a non-pensionable allowance of Rs. 240 p.a. in lieu of overtime.
+
+(b) Receives a personal allowance of Rs. 1,000 p.a. for performing the duties of Analyst.
+Superintendent, Mental Hospital, Dr. D. Dyson, Rs. 12,000.
+
+Superintendent, Civil Hospital, E.V. de Robillard, Rs. 13,500; Superintendent, Victoria Hospital, Dr. L. R. Duverge, Rs. 12,000.
+
+Medical Officers, Drs. C.L. d'Arifat, A. G. Masson, P. de Chaumont, S. Piarroux, G. Lamberty H. André, D. D. Anderson, Y. Cantin, E. Rama and L. A. Célestin (7 at Rs. 9,000—Rs. 12,000, 1 at Rs. 10,000—Rs. 12,000, 3 at Rs. 7,000—Rs. 10,000).
+
+Resident Medical Officers—Civil Hospital, Dr. H. Séneque, Rs. 7,500, and H. Mollière; Victoria Hospital, Dr. W. Dupré and L. V. P. Goupille, Rs. 7,500.
+
+Sanitary Engineer, J. L. Naz, M.I.C.E., A.C.G.I., F.S.I., Rs. 9,000.
+
+Chief Clerk, 2nd Class Clerk, N. D. Lutchmaya.
+
+3rd Class Clerk, L. A. Moutou.
+
+4th Class Clerk, B. J. Savrimoothoo.
+
+Medical Storekeeper, G. E. F. Mason, Rs. 3,600—Rs. 4,800.
+
+Assistant Bacteriologist and Analyst, E. Maya, Rs. 6,000—Rs. 8,000.
+
+Department of Agriculture.
+
+Director (vacant), Rs. 15,000.
+
+Assistant Director, D. D'Emmerez de Charmoy, Rs. 9,000 and personal allowance of Rs. 2,500.
+
+Lecturer in Agricultural Chemistry, N. Craig, Rs. 7,500—9,000.
+
+Senior Agricultural Officer and Instructor and Inspector, Co-operative Societies, C.A. O'Connor, Rs. 7,000.
+
+Lecturer in Entomology and Zoology, W. H. Edwards, Rs. 6,000.
+
+Assistant Chemist, R. Lincoln, Rs. 5,175—5,500.
+
+Scientific Assistants, F. Berchon and A. Moutia, Rs. 2,800—3,588, and R. Rivalland, Rs. 987—50—1,250.
+
+Botanist and Mycologist, E. S. Shepherd, Rs. 7,500—8,000.
+
+Veterinary Surgeon, F. E. Lionnet, Rs. 7,500—9,000.
+
+Statistician, 2nd Class Clerk, M. Koenig.*
+
+3rd Class Clerk, H. Nicolin.
+
+4th Class Clerk, L. E. Emile.
+
+Department of Forests.
+
+Director, P. Koenig, Rs. 10,000.
+
+Assistant Director, F. Bijoux, Rs. 5,000, and quarters.
+
+Chief Inspector, G. Rennie, Rs. 4,000, and quarters.
+
+Chief Clerk, 3rd Class Clerk, O. Delisse.
+
+Museum and Public Library.
+
+Librarian and Curator, R. E. Hart, Rs. 4,485.
+
+Royal Alfred Observatory.
+
+Director, R. A. Watson, Rs. 12,000—15,000.
+
+Assistant Director, N. R. McCurdy.
+
+Computer, 4th Class Clerk, M. Herchenroder.
+
+Judicial Establishment.
+
+Supreme Court.
+
+Chief Judge, Sir F. A. Herchenroder, Kt., Rs. 24,000.
+
+Puisne Judges, T. E. Roseby, E. Serret, Rs. 18,000.
+
+Clerks to Judges, 3rd Class Clerks, J. B. Selsis, R. Hardy and C. M. G. Deville.
+
+* Draws Rs. 1,000 as Lecturer in Physics and Registrar of Agricultural College.
+
+Master and Registrar's Office and Curator Accountant's Office.
+
+Master and Registrar, J. E. Rouillard, Rs. 12,500.
+
+Registrar in Bankruptcy and Chief Clerk, 1st Class Clerk, L. Halsis.
+
+Curator Accountant, G. Koenig, Rs. 7,500.
+
+2nd Class Clerk, L. Delafaye.
+
+3rd Class Clerks, H. H. de Froberville, A. Antoine and M. Duvivier.
+
+4th Class Clerks, H. Poirier, E. Leguen and L. A. Lamy.
+
+Procureur-General's Department.
+
+Procureur and Advocate General, G. E. Nairac, K.C., Rs. 20,000.
+
+Substitute Procureur and Advocate General, R. H. d'Univelle, Rs. 13,500.
+
+Additional Substitute Procureur and Advocate General, G. Noël, Rs. 12,000.
+
+Crown Attorney, C. Grégoire, Rs. 11,000.
+
+2nd Class Clerk, M. A. J. Townsend.
+
+3rd Class Clerk, E. Latour.
+
+4th Class Clerks, T. W. E. Henrison and V. Govinden.
+
+District and Stipendiary Magistracies.
+
+J. R. L. Clair, L. Leconte, E. Duvivier, L. Ulcoq, F. Herchenroder, A. Legras, P. K/Vern, M. de Comarmond and M. V. de Latour, Rs. 3,000—12,000.
+
+2nd Class Clerks, B. Halooman, L. H. W. Cateaux, E. Serieuse, J. W. Casse and D. S. Gnany.
+
+3rd Class Clerks, J. Alfred, A. E. Gnany, J. M. Danjoux, G. Bouloix, A. Loumeau, L. Gébert, A. Boudou and A. Johnson.
+
+4th Class Clerks, L. Clair, C. E. d'Avray, J. S. Cossigny, J. E. Robert, R. Antoine, A. Bonnet, C. Boudou, H. S. Emile, J. U. Richard, V. Goviden, W. Wilfrid and P. Baya.
+
+Police Department.
+
+Inspector-General and Superintendent of Prisons, R. Deane, Rs. 13,500.
+
+Deputy Inspector-General, F. Ross, Rs. 9,000.
+
+Inspectors, I. H. E. J. Stourton, H. Coombes, S. Ghoorun, L. Vellin, L. L. J. Cadet, L. du B. Perrine and J. Fitzgibbon, Rs. 5,200—7,200, and F. R. Rountree, Rs. 5,000, and quarters, or lodging allowances.
+
+Probationary Inspector, H. C. Lavers, Rs. 4,500—5,000.
+
+Sub-Inspectors, H. S. Rolfe, L. Hennequin, T. D. Julien, H. R. Old, J. E. Guichard, E. E. César, L. C. Ward and L. S. Gerald, Rs. 3,600—4,800, with quarters, or lodging allowance, and travelling allowance.
+
+Pay and Quarter Master, J. Glenn, Rs. 4,000—6,000.
+
+Staff Sergeant-Major, J. E. Charles, Rs. 3,000 and personal allowance of Rs. 600 p.a.
+
+Prisons Department.
+
+Superintendent of Prisons and Reformatory.*
+
+Chief Warders, W. Kennedy, Rs. 5,500—6,600; and J. F. Henry, Rs. 4,500—5,500.
+
+3rd Class Clerk, R. Hurdowar.
+
+Assistant Chief Warders, D. Walker and H. Newlands, Rs. 3,450—Rs. 4,140, and house allowance.
+
+* See Police Department.
+ECCLESIASTICAL.
+
+Church of England.
+
+Bishop of Mauritius, Right Rev. C. H. Golding-Bird, D.D., Rs. 10,000, and travelling allowance, Rs. 1,000.
+
+Archdeacon, Ven. H. Otter-Barry, Rs. 4,500.
+
+Civil Chaplain, Port Louis, Rev. J. A. F. Ozanne, Rs. 3,900.
+
+Civil Chaplain, Curepipe, Rev. G. M. Hughes, Rs. 3,900.
+
+Civil Chaplain, Vacoas and Black River, Ven. H. Otter-Barry, Rs. 3,900.
+
+Civil Chaplain, Beau Bassin, Rev. J. H. Duff, Rs. 3,900; and Rose Hill, Rev. R. D. Grange Bennett, Rs. 3,900.
+
+Civil Chaplain, Moka and Quatre Bornes, Rev. H. Rolph, Rs. 3,900.
+
+Assistant Civil Chaplain, Quartier Militaire, Rev. Canon J. N. Yerriah, Rs. 1,200.
+
+Roman Catholic Church.
+
+Bishop of Port Louis, The Rt. Rev. J. Leen, Rs. 10,000, and travelling allowance Rs. 1,000.
+
+Vicar-General, Rev. R. M. Lee, Rs. 3,900, and travelling allowance Rs. 500.
+
+1st Class Priests, J. Mamet, A. Martin, A. Charpiat, L. Frézia, J. Fitzpatrick, J. B. Borbes, M. Liste, E. Dabdoub, X. Lavoiplierre, J. F. Trottet, J. M. Pivault, P. O'Carrol, A. Sylvand and M. Guérin, Rs. 2,600.
+
+2nd Class Priests, A. Sester, C. Neyrolles, M. de Boucherville, J. Leclerc, J. Thuet, C. Streicher, E. Schnepp, A. Kauffman, W. Murphy, J. Hamonic and T. M. Eckert, Rs. 1,950.
+
+Church of Scotland.
+
+Minister and Chaplain (vacant), Rs. 5,200.
+
+EDUCATION.
+
+Rector, Royal College, Rs. 15,000.
+
+4th Class Clerk, M. Zamudio.
+
+Senior Master, A. E. d'Avray, B.Sc., Rs. 9,000, and personal allowance of Rs. 1,000.
+
+Masters, P. Henri, R. E. Vaughan, P. Bacon, T. B. Barnes, J. A. Castelain, Rev. J. R. Fowler, M.A., P. L. Dumas, H. Nobbs, V. F. Lampriere, H. W. B. Lloyd and C. G. Wise, Rs. 7,000-9,000.
+
+Drawing Master, A. Leitch, Rs. 6,000.
+
+Assistant Masters, L. O. Toureau, W. Ithier, Rs. 5,000-6,000; F. Jean Louis, L. C. E. Besson, B.A. (London), P. Randabel, E. Némorin, L. Pouzet, M. Pierron, Rs. 4,000-5,000; D. Picard, S. David, Rs. 2,400.
+
+Gymnastics and Games Instructor, C. Lamb, Rs. 4,000, and personal allowance of Rs. 1,000.
+
+Usher, H. Furlong, Rs. 3,000.
+
+Government Schools.
+
+Superintendent of Schools, H. Lalouette, Rs. 10,000.
+
+Chief Inspector of Schools, A. Bancilhon, Rs. 6,000-7,500.
+
+Inspectors of Schools, C. Crighton, A. Poisson, J. Pablot and G. Collendavelloo, Rs. 3,600 to Rs. 4,800.
+
+Chief Clerk, 2nd Class Clerk, A. Bruneau.
+
+4th Class Clerk, J. U. Moutou.
+
+Training College.
+
+Principal, J. R. de Lengen Kilburn, Rs. 9,000.
+
+Male Assistant, V. René, Rs. 3,600-4,800.
+
+Female Assistant, Miss M. Foster, Rs. 3,000-4,000.
+
+RAILWAY DEPARTMENT.
+
+General Manager (vacant), R. J. B. Hewson (acting), Rs. 22,500.
+
+Permanent Way Engineer, A. Vallet, A.C.G.I., A.M.I.C.E., and R. J. B. Hewson, Rs. 12,500.
+
+Auditor and Accountant, H. W. Winson, Rs. 10,500.
+
+Assistant Auditor and Accountant, H. E. Barlow, Rs. 7,500.
+
+Chief Storekeeper, J. S. Morrison, Rs. 10,500.
+
+Commercial Superintendent, M. P. M. Greany, Rs. 8,000.
+
+Inspector, Permanent Way and Bridges, P. Cantin, Rs. 4,500-5,500 and one vacancy, Rs. 3,000-4,200.
+
+Operating Superintendent, G. H. Tanner, A.M.I.M.E., Rs. 12,500.
+
+Works Manager, T. B. B. Giles, Rs. 14,000.
+
+Foreman, Works Branch, L. Rae, Rs. 6,000-7,500.
+
+Electrical Department.
+
+Government Electrician, T. Williams, Rs. 7,500.
+
+Inspectors, L. Ahnee, R. T. Stevens and A. L. MacKay.
+
+RODRIGUES.
+
+Magistrate, J. B. Colin, Rs. 9,000-12,000.
+
+Clerk, F. Rave, Rs. 2,600-3,600.
+
+Roman Catholic Chaplains, Rev. V. Laffont and I. Simon, Rs. 2,600.
+
+Government Medical Officer, Dr. E. Mangènie, Rs. 7,000-10,000.
+
+Schoolmasters, P. Stephen and S. Hujardin, Rs. 1,800-3,000, quarters and servant allowance.
+
+MINOR DEPENDENCIES.
+
+District and Stipendiary Magistrates, W. J. Hanning and M. Béranger, Rs. 9,000 to Rs. 12,000.
+
+MILITARY OFFICERS, &c. (in Mauritius).
+
+Officer Commanding the Troops, Major J. I. A. McDiarmid, D.S.O., R.A.
+
+Commanding Royal Artillery, Major J. I. A. McDiarmid, D.S.O., R.A.
+
+Commanding Royal Engineers, Major H. A. Joly de Lotbinière, M.C., R.E.
+
+Commanding Royal Army Service Corps, Capt. A. S. Parkin, R.A.S.C.
+
+Chief Ordnance Officer, Capt. J. E. Ruddock, R.A.O.C.
+
+Principal Medical Officer, Major W. F. M. Loughnan, M.C., R.A.M.C.
+
+Command Paymaster, Capt. J. E. Ruddock, R.A.O.C.
+
+FOREIGN CONSULS (in Mauritius).
+
+Argentina Republic, Dr. José Majia Linares (residing in South Africa).
+
+Belgium, H. J. Jourdain.
+
+Denmark, A. McIrvin.
+
+France, R. du Gardier.
+
+Italy, M. F. Brickdale.
+
+Netherlands, M. F. Brickdale.
+
+Norway, J. M. Brodie, O.B.E.
+
+Peru, A. Coutanceau (Consular Agent).
+
+Sierra Leone, H. Goupille (Consular Agent).
+
+Spain, E. Antelme (Vice-Consul).
+
+Sweden, H. G. Robinson.
+
+Finland, Louis V. Goupille (Vice-Consul).

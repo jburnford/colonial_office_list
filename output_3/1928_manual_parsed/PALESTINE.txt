@@ -1,0 +1,563 @@
+PALESTINE.
+
+Palestine is bounded on the north by the French sphere of Syria and Lebanon, on the west by the Mediterranean, and on the south by Egyptian and Hejaz territory, the boundary running from just west of Rafa on the Mediterranean to just east of Taba at the end of the Gulf of Akaba, and then north-east. On the east, the boundary is defined as a line drawn from a point two miles west of the town of Akaba in the Gulf of Akaba up the centre of the Wady Araba, the Dead Sea and the River Jordan to the junction of the latter with the River Yarmuk, thence up the centre of the River Yarmuk to the Syrian frontier.
+
+The boundary on the north was settled by the Anglo-French Convention of 23rd December, 1920. From the Mediterranean Sea, just south of Ras-el-Nakura, and about half way between Tyre and Acre, it runs eastwards and northwards to Metulla (British), and across the Upper Jordan Valley to Banias (French). It then runs south-eastwards to Skek, and thence down the rivers Jeraba and Massadiye to the north-eastern shore of the Lake of Tiberias and across the Lake to Samakh at its southern extremity.
+
+The detailed delimitation is set out in a Parliamentary Paper (Cmd. 1910), published in 1923.
+
+Palestine comprises four zones of country. On the west, along the shores of the Mediterranean, which are deficient here in good natural harbours, is a low plain, which varies from 15 to 20 miles in width at Gaza to about two miles at Acre, but which, at one place, the plain of Edraelon, stretches for a considerable distance into the interior, and separates the high lands of Galilee from those of Samarai and Judea. From the coastal plain, the country rises into a plateau, intersected by deep valleys, which drops steeply to the east to the third zone, which is formed by the great depression down which the River Jordan runs to the Dead Sea, and which is prolonged for another 100 miles to the Red Sea as the Wadi Araba. This depression reaches a depth below sea level of 2,600 feet in the deepest portion of the Dead Sea, the surface of which is about 1,300 feet below sea level, and which is 46 miles long with an average breadth of 8½ miles.
+The climate of Palestine varies with the altitude: the coastal region is sub-tropical and humid; the elevated hilly zone is drier and more temperate; while the Jordan Valley is hot and the rainfall slight. The summer months are almost rainless. January and February are the wettest months, and the main rainfall occurs between November and April.
+
+Water for domestic use is obtained in towns mostly from rock-cut cisterns in which rain water is collected, and in rural districts also from wells. Jerusalem has a piped water supply, pumped partly from a spring about 10 miles south of the town by an installation made by the Military Authorities soon after its occupation, partly from Solomon's Pools, near Bethlehem, by an installation made by the Civil Administration, and partly from the springs of Ain Farah by works constructed for the Municipality in 1926.
+
+Considerable progress has been made toward the eradication of malaria, formerly so prevalent, by Government distribution of quinine in villages, oiling of wells and cisterns, provision of pumps, and drainage of swamps. The Government is assisted in anti-malarial work by research and survey units attached to the Department of Health by the Joint Distribution Committee of America and the Rockefeller Institute of America.
+
+The country is relatively free from epidemic disease.
+
+Government.
+
+Under Turkish rule, part of Palestine was in the Vilayet of Beirut and part in the independent Sanjak of Jerusalem. After its conquest in 1917-1918 by the British forces, the country remained under British Military Administration until July 1st, 1920, when Sir Herbert Samuel was appointed High Commissioner, and a Civil Administration set up.
+
+By the Treaty of Peace, signed at Lausanne on 24th July, 1923, Turkey renounced all rights over Palestine. The Principal Allied Powers had selected His Britannic Majesty as Mandatory at the Conference at San Remo on 25th April, 1920. The terms of the Mandate* were approved by the Council of the League of Nations on the 24th July, 1922, and the Mandate came into force on September 29th, 1923. The Mandatory is responsible for carrying into effect the terms of the Balfour Declaration of November 2nd, 1917, viz.:—"His Majesty’s Government view with favour the establishment in Palestine of a national home for the Jewish people, and will use their best endeavours to facilitate the achievement of that object, it being clearly understood that nothing shall be done which may prejudice the civil and religious rights of existing non-Jewish Communities in Palestine, or the rights and political status enjoyed by Jews in any other country."
+
+Constitution.
+
+On 1st September, 1922, a new constitution was promulgated to replace the existing arrangements. It provided for the appointment of a High Commissioner and Commander-in-Chief and an Executive Council.
+
+Under this Constitution a Legislative Council is provided for and is given authority to pass such Ordinances as may be necessary for the peace, order and good government of Palestine, provided (1) that no Ordinance shall restrict complete freedom of conscience and the free exercise of all forms of worship, save in so far as is required for the maintenance of public order and morals, or shall tend to discriminate in any way between the inhabitants of Palestine on the ground of race, religion or language; (2) that no Ordinance shall take effect until either the High Commissioner or His Majesty has assented thereto; (3) that the High Commissioner may reserve any Ordinance for the signification of His Majesty’s pleasure, and shall so reserve any Ordinance which concerns matters dealt with specifically by the provisions of the Mandate, and (4) that His Majesty may disallow any Ordinance to which the High Commissioner may have assented within one year of the date of the High Commissioner’s assent.
+
+The Legislative Council is to consist, in addition to the High Commissioner, of 22 members, of whom 10 will be official members and 12 unofficial members. All the unofficial members are to be elected, not less than two of them being Christians and two Jews, and the rest Moslems.
+
+The elected members are to be chosen by primary and secondary elections. Every male Palestinian citizen over 25 years of age is entitled to vote at the primary election, unless he has lost his civil rights or claims to be a foreign subject, or under foreign protection, or is otherwise disqualified. The number of secondary electors to be elected in each electoral area is determined on the basis that every 200 primary electors elect one secondary elector. If any village or quarter has between 150 and 200 primary electors, it is entitled to vote for one secondary elector; if it has between 350 and 400 primary electors it is entitled to vote for two secondary electors, and so on.
+
+Any person may be elected as a secondary elector provided he is on the register of primary electors for the district.
+
+The secondary electors are then to be formed into twelve electoral colleges according to the religious community to which they belong; the number of colleges to be allotted to each religious community being proportioned to the number of secondary electors belonging to the several communities; and each electoral college elects one member of the Council.
+
+Owing to the refusal of the Arabs to take part in the elections, no Legislative Council has yet been elected; and, in order to secure the enactment of legislation until such time as the Legislative Council can be elected according to the provisions of the Constitution, the High Commissioner, under the Palestine (Amendment) Order in Council, 1923, has formed an Advisory Council composed of a number of the chief officials.
+
+English, Arabic and Hebrew are the official languages of the country.
+
+The Jewish population of Palestine is represented in its dealings with the Administration by a National Committee chosen by an elected Assembly.
+
+The British Government and Palestine Administration recognise the World Zionist Organisation, which in Palestine is represented by the Palestine Zionist Executive, as the Agency of the Jewish people in all matters pertaining to the upbuilding of the Jewish National Home.
+
+The Supreme Moslem Council was constituted by order of the High Commissioner in December, 1921, to control and manage Moslem Awqaf and affairs in Palestine; it consists of a President (Rais-ul-Ulema), and four members elected by secondary electors, who again are
+
+* For Terms of Mandate, see Cmd. 1785.
+elected by the inhabitants of the Liwa of Jerusalem (two members) and the Liwas of Nablus and Acre. It nominates, for approval by Government, the officers of the Sharia Courts, and controls the appointments and dismissals of Sharia and Waqf officers. It has established an orphanage in Jerusalem and a technical office to deal with the repair of sacred buildings, and has carried out extensive tree planting on Waqf land and in Moslem cemeteries.
+
+**Area and Population.**
+
+The country is, at present, divided into two districts—the Northern and Southern Districts, each administered by a District Commissioner—and the Division of Jerusalem administered by a Deputy District Commissioner.
+
+Palestine, as administered by the Palestine Government, is nearly 10,000 square miles in extent, and includes only that part of historic Palestine which lies to the west of the Jordan. The population of this territory taken by census on October 23rd, 1922, was 757,182, of which number one-third was located in 22 small towns and large villages.
+
+There were then 590,890 Moslems, 83,794 Jews, 73,024 Christians, some 7,028 Druzes, and 163 Samaritans, 265 Bahais, and the remainder Sikhs, Hindus and Metawileh.
+
+The present Jewish population is about 165,000.
+
+The chief town, Jerusalem, which had been in Moslem hands since 1244, and under Turkish rule since 1517, surrendered to General Allenby on December 9th, 1917. Its population at the date of the 1922 census was 62,578. The Church of the Holy Sepulchre is visited annually by large numbers of Christian pilgrims, principally of the Orthodox and Coptic Churches. The site of Solomon's Temple is occupied by the Dome of the Rock, which contains a relic of Muhammad and the reputed sacrificial stone of Abraham. Bethlehem, the scene of Christ's Nativity and the birthplace of King David, is five miles south of Jerusalem. The Church of the Nativity, at the east end of the present village, is said to be the oldest Christian church in existence.
+
+The population figures for the other principal towns at the 1922 census were: Jaffa, 47,769; Haifa, 24,634; Gaza, 17,480; Nazareth, 7,424; Nablus, 15,947; Safad, 8,761; Tiberias, 6,950; Hebron, 16,577; Ramleh, 7,312; Bethlehem, 6,608; Lydda, 8,103; Acre, 6,420.
+
+The present population of Tel-Aviv is approximately 40,000.
+
+The Jewish Settlements number about 120. Their total population is now about 32,000. More than thirty of them are built on land belonging to the Jewish National Fund, which was established by the Zionist Organization for the purpose of acquiring land to remain the property of the Jewish people, and was founded with the assistance of Keren Hayesod, also created by the Zionist Organization. The American Zion Commonwealth owns about 100,000 dunums of land, mostly in the Valley of Esdraelon, on which six settlements are established. The Palestine Land Development Company, also organised by the Zionist Organization, owns lands on the Carmel, on the Kishon, at Jaffa, Jerusalem, etc. About 30 settlements were founded by Baron Edmond de Rothschild, and are administered by the Palestine Jewish Colonization Association. The total area of the Jewish Settlements exceeds 1,200,000 dunums (43 dunums equals 1 acre).
+
+The local affairs of the smaller Jewish settlements are controlled by Vaads or Councils elected by the male and female residents who own registered holdings or pay taxes.
+
+The larger villages, Arab and Jewish, are, for internal order and rates, administered by Local Councils, constituted under Ordinance, which exercise modified municipal powers.
+
+**Education.**
+
+The approximate number of children between the ages of 3 and 18 years in Palestine is as follows:—Moslem, 175,000; Jews, 48,000; Christian, 25,000. The schools maintained by the Government number 318, and contain 19,737 scholars; the great majority of whom are Moslems. In the Government Colleges for Teachers there are 78 men and 64 women students. Technical education is being carried out systematically in the villages and in some of the towns. A Law School exists in Jerusalem, in which lectures are given in the three official languages by Judges and Government officers learned in law and by practising advocates.
+
+The Christian and Jewish Communities provide, the former to a very large extent, and the latter almost entirely, for the education of their own children.
+
+The Zionist Organization, through the Department of Education attached to the Palestine Zionist Executive, and other Jewish bodies control 258 educational institutions in Palestine, attended by about 26,600 pupils. These institutions include Secondary Schools in Jerusalem, Tel Aviv and Haifa, Teachers' Training Colleges (General, Orthodox, Women's and Kindergarten), Schools of Music in Jerusalem and Jaffa, an Agricultural School, an Arts and Crafts Institute (Bezalel), Evening Classes, and a Technical College at Haifa. A Hebrew University has also been established in Jerusalem with Institutes of Chemistry and of Jewish studies. The Christian schools maintained by various foreign and religious bodies number about 183, including several secondary schools and two higher colleges; some 16,000 pupils are on their rolls.
+
+There are also about 50 private Moslem schools, mainly maintained by local committees; these provide for about 3,500 children. Two of these schools are secondary. Most non-government schools receive a capitation grant-in-aid from the Department of Education, conditional on the acceptance of a certain measure of Government supervision and inspection.
+
+**Justice.**
+
+The Courts in Palestine are either civil or religious courts. The former have jurisdiction over local subjects in all matters save those of personal status and Waqfs, or charitable endowments, and over foreign subjects in all matters, subject to the provisions mentioned below.
+
+There is a Magistrate's Court in every sub-district and, in the larger towns, such as Jerusalem, Jaffa and Haifa, two such courts. The Magistrate is in every case a Palestinian and has jurisdiction in first instance in minor criminal cases for which the punishment is not more than one year's imprisonment, and in civil cases where the value of the subject-matter does not exceed £E.100. He has also jurisdiction in actions for the recovery of the possession of land.
+
+There are four District Courts, each composed of a British President and two Palestinian judges.
+They serve respectively the sub-districts of Jerusalem, Hebron and Beersheba; Jaffa and Gaza; Nablus, Jenin, Tulkarem, and Nazareth; and Haifa, Acre, Tiberais and Safed. They go on circuit within the area of their jurisdiction. A District Court has jurisdiction in first instance over all crimes except those punishable with death and civil cases outside the jurisdiction of a Magistrate. It also hears appeals from the decisions of Magistrates both in civil and in criminal cases, except in cases for the recovery of the possession of land. Crimes punishable with death are tried by a Court of Criminal Assize composed of the Chief Justice or senior British Judge of the Supreme Court sitting with the District Court.
+
+In the Southern District, in addition to the District Court, there are two Land Courts, each composed of a British President and a Palestinian judge, which hear all cases in which the ownership of land is in issue. In the other District such cases are tried by the District Court.
+
+The highest Court in Palestine is the Supreme Court, which is composed of a British Chief Justice and one other British judge and four Palestinian judges. The Court sits in two forms:
+
+1. As a Court of Appeal, in which capacity it has appellate jurisdiction in civil and criminal matters decided in first instance by the District Courts, the Land Courts and the Court of Criminal Assize;
+
+2. As a High Court of Justice, in which capacity it hears applications of the nature of habeas corpus and mandamus proceedings.
+
+The Court of Appeal is composed normally of three judges, while the High Court may sit with two judges. In either case a British judge presides. An appeal lies from the Supreme Court in civil cases to the Judicial Committee of the Privy Council where the value of the suit exceeds £500.
+
+A bench of honorary magistrates has been established in Jerusalem, Jaffa, Haifa and other towns, who try contraventions for which the maximum penalty does not exceed £E. 5 fine and 15 days' imprisonment.
+
+Special arrangements exist in the Beersheba sub-district, where minor cases are disposed of according to tribal custom by the Court of Sheikhs. The District Court of Jerusalem visits Beersheba every month to hear appeals from the local courts and to try more serious criminal cases.
+
+All matters of personal status affecting Moslems are within the jurisdiction of the Sharia Courts. A Sharia Court consists of a Kadi, and appeals from his decision lie to the Moslem Court of Appeal, which is composed of a President and two members.
+
+Jewish Religious Courts have exclusive jurisdiction in certain matters of personal status of Jews, and jurisdiction by consent in other matters. An appeal from the decision of the Jewish Religious Courts lies to the Rabbinical Council.
+
+The different Christian communities (such as the Latin and Orthodox) have similar jurisdiction to that of the Jewish Courts.
+
+Special provisions exist with regard to the trial of foreigners. The general effect of these rules is that where a foreign subject is charged with an offence other than a petty offence, he may claim to be tried by a British magistrate or by a court containing a majority of British judges. In the Court of Appeal he can claim a majority of British judges, and in matters of personal status that the action be heard by the British President.
+
+Production and Industry.
+
+Although economic conditions are still primitive, modern methods are making headway and hold out hopes of development and progress. The country is generally fertile, and cereals, wine, olives and various fruits are produced, while sheep and goats thrive both in the lowlands and in the mountains.
+
+For the most part the crops are raised without irrigation, except where springs exist, and on the banks of the Auja, in the district of Jaffa. There are generally two cereal crops each year, harvested in May and September.
+
+The yield of crops in 1926 was:
+
+- Wheat ... ... 99,023 tons.
+- Barley ... ... 69,358 ,, 
+- Durra ... ... 23,746 ,, 
+- Lentils ... ... 3,312 ,, 
+- Olive Oil ... ... 4,302 ,, 
+
+Limestone is found all over the country; sandstone abounds on the coast; gypsum of good quality is found at Mount Gipsia near Menahemia (Galilee). Rock salt abounds in the Jordan Valley and on the shores of the Dead Sea, where sulphur is also obtainable. Mineral oil is said to be found, but work has not yet commenced. The Dead Sea contains sodium chloride, chloride of potash, magnesium chloride and bromides. There are medicinal hot springs in the Jordan Valley, the most important being at Tiberias.
+
+The principal industries of export importance are those of wine-making, especially in the Jewish Colonies, Zichron-Jacob, Rishon-le-Zion, and Petah-Tikva; soap-boiling in Nablus and Haifa; olive oil in Nablus, Acre, and the district round Jaffa; and tanning. An export trade with Syria in cement and textiles is being developed.
+
+Unleavened bread is also exported in considerable quantity.
+
+Oranges, grown chiefly in the Jaffa District, are exported to Egypt and Europe, the total quantity exported during 1926 being valued at £E. 566,199.
+
+The value of melons exported mainly to Egypt and Syria, in 1926, was £102,000.
+
+A Woods and Forests Ordinance has been promulgated and also various Forestry Regulations, supplementary to the Ordinance, for the protection, management and control of existing forests. The country had been terribly deforested during the Ottoman régime.
+
+Fourteen Government nurseries are conducted for the raising of forest trees and fruit stock. Planting, commenced in 1920 at each centre where nurseries exist, is being considerably extended. Special attention is being given to the reclamation of sand dunes and the planting of roadsides.
+
+Manufactures.
+
+There are a considerable number of small factories and industries, including flour mills, soap, brick and tile, and cigarette factories, oil mills and distilleries. One flour mill produces 1,500 tons of flour monthly. There is a brick factory with an annual output of 15,000,000 bricks and tiles, a cigarette factory producing annually one hundred million cigarettes, and an oil factory with an annual capacity of 10,000 tons of refined oil, and a cement factory capable of producing 40,000 tons annually.
+
+The Palestine and Jaffa Electric Corporations, Ltd., supply electric light and power to Haifa and Tiberias, and to the Jaffa district.
+Shipping and Communications.
+
+The chief ports of Palestine are Jaffa and Haifa. There is a small haven at Acre, and coasting vessels touch at Gaza and Caesarea.
+
+In the year ending December 31st, 1926, 712 steamers of 1,580,540 tons (including men-of-war), and 1,939 sailing vessels of 34,094 tons arrived at Palestinian Ports; while 722 steamers of 1,596,238 tons and 1,995 sailing vessels of a tonnage of 34,968 cleared.
+
+Thirty Shipping Lines call, of which the following run regular services: Khedivial, Lloyd Triestino, Servizi Maritimi, and Affréteurs Réunis, weekly; Messageries Maritimes, Fabre Line, Dutch Oriental, Dutch Levant, and Maritimi Italiani, twice monthly; and the Prince Line, monthly.
+
+Calls are made at irregular intervals by the Compagnie Russe de Navigation, Moss & Ellerman Line, Greek Line, Dutch Lines & Co., Kerr Line.
+
+Postal despatches are exchanged daily (in some cases twice daily) between all principal towns. There is also a daily exchange of despatches with Egypt and Syria. Direct mails for Great Britain are despatched thrice weekly but supplementary mails are forwarded to Egypt at other than the regular mail days for transmission by intermediate steamers.
+
+There is a weekly Overland and Desert Mail service (letters and parcels) with Iraq and Persia and a weekly Air Mail service (letters and newspapers) with Iraq.
+
+All the principal towns are connected by telegraph and telephone. There is direct telegraph communication with Egypt and Syria and a trunk telephone service with Egypt. Total length of main telegraph and telephone lines, 11,700 kilometres; local lines 5,700 kilometres. Number of telephone subscribers 1,820; instruments in use 2,763.
+
+The total length of the Palestine Railways, which are State-owned, is approximately 774½ miles, including branch lines and sidings, subdivided in the following sections:
+
+| Standard Gauge (4' 8½") | Miles |
+|--------------------------|-------|
+| Kantara-Haifa            | 259   |
+| Ludd Section, Jaffa-Jerusalem | 54    |
+| Safrieh-Sarafand         | 2     |
+| Kafr Jenis-Beit Nabata Quarry Siding | 24   |
+| Ras El Ain-Petah Tikva Line | 4    |
+| Narrow Gauge (3' 6")     |       |
+| Hejaz Railway           |       |
+| Haifa-El Hamme           | 59    |
+| Nassib South-Kalat-el-Madawara | 2826 |
+| Acre Junction-Acre      | 11    |
+| Afule-Nablus-Tulkarem    | 61    |
+
+The Kantara-Rafa Section, known as the "Sinai Military Railway" (125 miles) is operated by the Palestine Railways on behalf of the Air Ministry.
+
+There is through communication with Egypt, and trains connect at Kantara West daily with Cairo, Alexandria, Port Said, and Suez and other parts of Egypt, railway vehicles being sent across the canal by means of a truck transporter.
+
+East of Haifa the Palestine Railways system terminates at El Hamme, and the Section El Hamme-Deraa (Junction of the Hejaz Railway to Medina) is operated by the Hejaz Railway, which in turn is controlled by the French Government.
+
+There are 394 miles of metalled roads in Palestine extensively used by motor transport, and in addition, many hundreds of miles of tracks passable for wheeled traffic of all kinds during dry weather.
+
+Banking and Currency.
+
+The most important Bank in Palestine is Barclays Bank (Dominion, Colonial and Overseas), with which is amalgamated the Anglo-Egyptian Bank Ltd., with branches at Jerusalem, Jaffa, Tel Aviv, Haifa and Gaza. The Anglo-Palestine Company has its head office in Jaffa, with branches in Jerusalem, Tel Aviv, Haifa, Tiberias and Safad. In addition, there are branches in Jerusalem of the Crédit Lyonnais, the Ottoman Bank (of the latter also in Haifa, Jaffa, Nablus and Amman, and sub-offices at Bethlehem and Ramallah), and the Banco di Roma. There is a Workers' Bank at Jaffa, and banks have been established for granting building loans to co-operative societies.
+
+Egyptian Bank and Currency Notes, gold, silver and nickel coins, and British gold sovereigns at the rate of 97½ piastres Egyptian, are legal tender.
+
+Other foreign coins, previously legal tender, were demonetised on 22nd January, 1921, by a Public Notice.
+
+A Currency Board was appointed in London in 1926 in order to introduce and control a Palestine currency based on the pound sterling; and the new currency was issued on the 1st November, 1927, under the authority of an Order of His Majesty in Council dated the 7th of February, 1927.
+
+The metric system is followed by the Government, but the local weights and measures are still commonly employed.
+
+For further information on all the above subjects, see the "Handbook of Palestine," (Luke, H. C. and Keith-Rosch, E.), published in 1922 by Macmillan & Co., and issued under the authority of the Government of Palestine.
+
+Finance.
+
+| Period                  | Revenue | Expenditure |
+|-------------------------|---------|-------------|
+|                         | £       | £           |
+| 9 months ended          |         |             |
+| 31st March, 1921        | 1,107,486 | 1,227,056   |
+| 1921-22                 | 2,048,737 | 1,929,342   |
+| 1922-23                 | 1,764,885 | 1,857,173   |
+| 1923-24                 | 1,633,893 | 1,633,227   |
+| 1924-25                 | 2,101,072 | 1,806,660   |
+| 1925-26                 | 2,739,091 | 2,040,332   |
+| 1926-27                 | 2,451,365 | 2,123,568   |
+
+| Year | Imports | Exports |
+|------|---------|---------|
+|      | From the U.K. | Total | To the U.K. | Total |
+| 1919-20 | 1,204,682 | 4,191,060 | 92,069 | 773,443 |
+| 1920-21 | 1,696,629 | 5,216,633 | 94,244 | 771,701 |
+| 1921-22 | 1,872,405 | 5,790,106 | 221,821 | 864,766 |
+| 1922-23 | 1,390,475 | 5,428,146 | 296,639 | 1,376,849 |
+| 1923   | 981,385  | 5,266,349 | 367,156 | 1,200,812 |
+| 1924   | 1,083,166 | 7,338,491 | 443,774 | 1,297,559 |
+| 1926   | 730,462  | 6,513,331 | 508,361 | 1,497,921 |
+Executive Council.
+
+The High Commissioner, Field-Marshal The Right Honourable Lord Plumer, G.C.B., G.C.M.G., G.C.V.O., G.B.E.
+
+Chief Secretary, Lt.-Col. G. S. Symes, C.M.G., D.S.O.
+
+Attorney General, N. de M. Bentwich, O.B.E., M.C.
+
+Treasurer, S. S. Davis, C.M.G.
+
+Clerk to Council, A. S. Kirkbride, M.C.
+
+Advisory Council.
+
+The High Commissioner (President).
+
+Chief Secretary.
+
+Attorney General.
+
+Treasurer.
+
+Commandant of Police.
+
+Director of the Department of Health.
+
+Director of Public Works.
+
+Director of Education.
+
+Director of Agriculture and Forests.
+
+Director of Department of Customs, Excise and Trade.
+
+General Manager, Palestine Railways.
+
+The Two District Commissioners.
+
+Postmaster General.
+
+Clerk of Council, A. S. Kirkbride, M.C.
+
+Civil Establishment.
+
+High Commissioner and Commander-in-Chief, Field-Marshal The Right Honourable Lord Plumer, G.C.B., G.C.M.G., G.C.V.O., G.B.E., £4,000 and £1,000 entertainment allowance.
+
+A.D.C.
+
+Private Secretary, Capt. F. H. B. Drummond, M.C., £500.
+
+Administrative Service.
+
+(i) Secretariat.
+
+Chief Secretary, Lt.-Col. G. S. Symes, C.M.G., D.S.O., £1,600.
+
+Assistant Chief Secretary, E. Mills, O.B.E., £1,100.
+
+Assistant Secretaries, S. Moody, M. Nurock, A. S. Kirkbride, M.C., †G. Antonius, C.B.E., Class II.
+
+Junior Assistant Secretaries, C. L. Horton, C. T. Evans, Class III.
+
+Principal Stores Officer, I. R. de W. Leah, O.B.E., Class II.
+
+Superintendent, Printing and Stationery, W. H. Wyatt, Class III.
+
+(ii) District Staff.
+
+District Commissioners, Lt.-Col. C. H. F. Cox, C.M.G., D.S.O., †A. Abramson, C.B.E., J. E. F. Campbell, O.B.E., £1,200.
+
+Deputy District Commissioner, E. Keith-Roach, O.B.E., £1,100.
+
+Assistant District Commissioners, R. E. H. Crooble, G. MacLaren, O.B.E., £850—£50—£1,060.
+
+District Officers, L. Andrews, R. D. Badcock, M.C., M. Bailey, R. S. Champion, A. N. Law, M.C., F. G. Lowiok, W. J. Miller, I. N. Camp, C. F. Reading, †L. G. A. Cust, R. H. Samuel, Ruhi Bey Abdul Hadi, O.B.E. and Mahmoud Abu Khadra, M.B.E., Class II.
+
+* Seconded for service in Trans-Jordan.
+
+† Seconded from Department of Education.
+
+For salaries of Class I, II, III, see Note on page 404.
+
+Assistant District Officers, Nasuhi Bey Beydun, N. Fiani, M.B.E., W. Francis, J. Kupperman, C. Lubbat, A. J. Mantura, M. Nassir, Khalil Abdel Nur, N. Saba, A. Sifri, D. Farradj, A. Khardas, M.B.E., Abdel Razak Kleibo, A. Epstein, Rafiq Bey Reydun, M.B.E., N. Kawarshai, Said Daud, W. Isawi, B. Nasir, B. Binah, G. Krishevsky,* Aref-el-Aref, M. B. Bushrui, Abdul Rauf Judeh, D. B. Carmi, J. Khuri, Hilmi Husseini, J. Bergman, H. Bulos and T. Yazdi, Class III.
+
+Judicial.
+
+Supreme Court.
+
+Chief Justice, M. F. J. McDonnell, £1,600.
+
+Senior Member, O. C. K. Corrie, M.C., £1,200.
+
+Members, Ali Jarallah, O.B.E., Mustapha Bey El Khalidi, Gad Frumkin and Francis Khayat, Class I.
+
+Superintendent, Courts, B. O. Denham, Class III.
+
+District Courts.
+
+Presidents, F. H. Baker, W. G. Litt, *C. R. W. Seton, M.C., A. H. Webb, K.C., £1,100.
+
+Relieving Presidents, R. Copland, £850—£50—£1,050, (vacancy), Class I.
+
+Members, M. Mani, M.B.E., Mejid Abdel Hadi, Sheikh Raghib El Khalidi, Izzat Nammar, Yosef Struma, Moise Valero, Muhammed Shafiq el Dajani, Ali Hasna, Class II.
+
+Magistrates.
+
+Senior Magistrates, Mohammed Yusef El Khalidi, Muhammed Barady, Dr. Selim Shehadeh George, Muhammed Said Bey Tukan, Class II.
+
+Magistrates, T. Afghany, Ahmed Jaouni, Rafiq Abu Gazaleh, Ibrahim Judeh, Ismail Kamal, Jawdat Kasim, Saba Said, Sheikh Omar Sonan, Mordekhai Levanon, Israel Mani, I. Neufach, Muhammed Judeh, Nassib Bey Tukan, Anton Asusa, Sheikh Muhyiddin-el-Mallah, Amin Naar, Jamil Habibi, A. A. Shems, Class III.
+
+Land Courts.
+
+Presidents, R. C. Tute, £850—£50—£1,050.
+
+Members, Muhammed Ishak Budeiri, Abdel Aziz El Daoudi, Class II.
+
+Supreme Moslem Council.
+
+Rais el Ulema, Haj Amin al Husseini.
+
+Members, Sheikh Muhammed Murad, Haj Sa'id al Shawa, Amin Tamimi, Abdul Rahman Taji.
+
+Moslem Religious Court of Appeal.
+
+President, Sheikh Khalil el Khalidi, Class II.
+
+Members, Sheikh Muhammed Amin el-Uri, Sheikh Nimr el-Dari, Class III.
+
+And a number of Qadis and Muftis.
+
+Legal Department.
+
+Attorney General, N. de M. Bentwich, O.B.E., M.C., £1,400.
+
+Solicitor General, R. H. Drayton, £900—£50—£1,100.
+
+Government Advocate and Registrar of Companies, Co-operative Societies and Patents, S. G. Kermaek, Class I.
+
+Public Prosecutors, Z. Harakabi, Musa Nammar, Class III.
+
+Junior Legal Adviser, Musa Eff. el-Alami, Class III.
+
+* Seconded for service in Trans-Jordan.
+
+For salaries of Class I, II, III, see Note on page 404.
+Treasury.
+
+Treasurer, S. S. Davis, C.M.G., £1,400.
+Deputy Treasurer, W. J. Johnson, O.B.E., £900—£50—£1,100.
+Senior Assistant Treasurers, C. D. Harvey, Class I, M. F. Abacarius, J. Gress, Class II.
+Inspector of Revenue, P. C. F. Aylmer Harris, Class II.
+Junior Assistant Treasurers, N. J. Davis, C. F. Wolfe, V. N. Levi, A. K. Saba, Class III.
+
+Department of Health.
+
+Director, Col. G. W. Heron, C.B.E., D.S.O., £1,200.
+Deputy Director, R. Briercliffe, O.B.E., £900—£50—£1,100.
+Assistant Director, Laboratories, G. Stuart, Class I.
+Senior Medical Officers, J. A. Henderson, A. Rankine, M.C., W. P. H. Lightbody, W. K. Bigger, J. W. P. Harkness, Class I; J. MacQueen, Class II.
+Government Analyst, G. W. Baker, Class II.
+Sanitary Engineer, L. Cantor, Class II.
+Medical Officers, D. Bulos, M.B.E., R. Oplatka, M.B.E., *H. Abu Rahmeh*, M.B.E., M. Shishmanoglou, J. Tucktuck, Z. Haddad, Y. Chami, H. F. Khalidi, K. Krikorian, F. K. Abla, A. Abdel Al, G. E. Ayoub, S. Bodossian, K. Eid, M. Erdikian, F. I. Haddad, Y. Hajjar, I. Haurani, K. Kesheshian, H. S. Khalidi, Taher el-Khatib, S. M. Malolfi, M. K. Mishallany, A. A. Shehadeh, F. Shubeita, E. Sikkarieh, H. M. Torian, K. Abu Ghazaleh, Naif Hamzeh, B. Franco, M. A. Shukair, A. Haddad, J. Hassoun, A. Shehadeh, I. Itayim, S. Salim, A. Sternberg, S. Yassin, F. Dajani, A. Malchi, K. Bandaly, I. Weitzman, Class III.
+Inspector of Pharmacies, Farid Haddad, Class III.
+Inspector of Public Establishments and Unhealthy Trades (vacant), Class III.
+Assistant Analyst, W. Itayim, Class III.
+Chief Clerk, C. Morrall, Class III.
+
+Department of Agriculture and Forests.
+
+Director, E. R. Sawyer, £1,100.
+Deputy Director, F. J. Tear, Class I.
+Chief Veterinary Inspector, J. M. Smith, O.B.E., Class I.
+Manager, Stud Farm, Br.-Gen. A. J. McNeill, C.B., C.B.E., D.S.O., £1,000 (consolidated).
+Inspectors of Agriculture and Forests, G. G. Masson and A. F. Nathan, O.B.E., Class II.
+Senior Veterinary Officer, S. G. Gilbert, Class II.
+Entomologist, G. E. Bodkin, Class II.
+Travelling Instructor, A. Lipshitz, Class III.
+Sub-Inspectors of Agriculture and Forests, Muhammed Ragheb, C. Weizmann, A. Grasovsky and S. Antebi, Class III.
+Veterinary Sub-Inspectors, Ahmed Khairi, Abdel Sabasi, Muhammed Sidky, Muhammed Wasof, J. Samsonoff and J. M. Deouell, Class III.
+Agricultural Chemist, H. Raczkowsky, Class III.
+Chief Clerk, M. Brown, Class III.
+
+Department of Customs, Excise and Trade.
+
+Director, K. W. Stead, £1,100.
+Deputy Director,
+Collector of Customs, N. S. Boutagy, M.B.E., Class II.
+
+Inspectors of Customs, T. F. Doyle, W. J. Montgomery, Class II.
+Collector of Customs, N. Habash, Class III.
+Assistant Collector, J. W. Gregory, A. Ben-David, M.B.E., Class III.
+Port Officers, W. Gibb, W. G. Smithers, M.B.E., Class III.
+Office Surveyor, L. K. Pope, Class III.
+Surveyors, J. Attallah, M. Makhlouf, A. Sabella and E. Waisel, Class III.
+Accounting and Statistical Officer, W. G. Peasley, Class III.
+
+Department of Education.
+
+Director, H. E. Bowman, C.B.E., £1,100.
+Assistant Director, W. J. Farrell, M.C., Class I.
+Senior Inspectors, †G. Antonius, C.B.E., Class II.
+Headquarters Inspectors, J. Katul, A. Yellin, Issi Nashashibi, Class III.
+District Inspectors, Sharif Subh and J. Zananiri, *Husameddin Jarallah*, H. Ruhi, C.L.E., M.B.E., Class III.
+Principal, Men's Training College, Ahmed Khalidi, Class III.
+Vice-Principal, H. Khoury, Class III.
+Principal, Women's Training College, and Inspector of Girls Schools, Miss H. Ridler, Class II.
+Vice-Principal, Miss M. M. Young, Class III.
+
+Department of Police and Prisons.
+
+Commandant, A. S. Mavrogordato, £1,100.
+Deputy Commandant, A. Saunders, M.C., £850—£50—£1,000.
+District Superintendents of Police, E. P. Quigley, M.C., G. R. E. Foley, O.B.E., *F. G. Peake, O.B.E.*, W. F. Wainwright, O.B.E., Class I.
+Officer Commanding Training School and Depot, A. J. Kingsley-Heath, Class II.
+Deputy Superintendents, F. A. Partridge, E. Lucie-Smith, M.C., L. Harrington M.Fitzgerald, M.C., M. J. McConnell, J. Munro, M.C., *E. R. Stafford*, A. T. Blackett, Class II.
+Superintendent, Criminal Investigation Branch, J. F. Broadhurst, Class II.
+Assistant Superintendents, Selim Hanna, M.B.E., J. A. M. Faraday, M.C., M. S. O'Rorke, W. J. H. Beard, Abdin Huhsimei, M.B.E., Shawky Saad, M.B.E., S. C. Atkins, A. T. Barker, M.C., R. Cafferata, R. L. Worsley, F. M. Scott, M.C., E. M. V. James, J. M. Kyles, Kheir el-Din Beaseesee, M.B.E., E. G. Bryant, D.C.M., Hassan Abdes-Samad, T. Abboud, Ibrahim Bey Stambouli, M.B.E., Hassan Faiz Idrissi, A. Lamont, A. W. Riggs, K. Cohen, H. M. Khatib, N. Nassir, B. Shitreet, Class III.
+Quartermaster, W. A. Henderson, Class III.
+Prison Superintendents, J. H. Frew, F. C. Steel, F. H. Miller, Halim B. B. Shams, Class III.
+Assistant Superintendents (C.I.B.), E. T. Cosgrove, G. Kort and B. Saig, Class III.
+Instructional Officer (vacant), Class III.
+
+Immigration and Travel Section.
+
+Chief Immigration Officer, A. M. Hyamson, £850—£50—£1,050.
+Assistant Passport Control Officer, G. F. Sulman, M.C., Class II.
+Immigration Officer, N. I. Mindel, Class II.
+Inspectors, H. Stephan, S. Prosser, G. Z. Msarra, A. Tattenbaum, F. G. Parkhouse, E. T. Best, J. Jacobs, Class III.
+
+* Seconded for service in Trans-Jordan.
+† Seconded to Secretariat.
+For Salaries of Class I, II, III, see Note on page 404.
+Department of Public Works.
+
+Director, F. Pudsey, £1,200.
+Deputy Director, J. F. Rowlands, £900–£50–£1,100.
+District Engineers, R. Hedley and P. Noble, Class I.
+Architect, A. St. B. Harrison, Class II.
+Mechanical and Electrical Engineer,
+Assistant Engineer, G. T. Carver, F. C. Gill, Class II, P. Ethes, T. T. Millar, *A. K. Gorayib, A. Tukan, P. P. Taylor, M. Reiner, H. J. Pearce, Class III.
+Assistant Architect, P. H. Winter, Class III.
+Office Superintendent, I. Melamede, Class III.
+Housing and Claims Officer, C. W. Cowell, £550 (special).
+
+Audit Department.
+
+Auditor, H. S. Brain, £1,000.
+Senior Assistant Auditor, J. Homa, Class I.
+Junior Assistant Auditor, S. G. White, Class III.
+
+Department of Lands.
+
+Director, J. N. Stubbs, M.O., £1,100.
+Lands Officers, M. Doukhan, O.B.E., M. C. Bennett,† Class II; Mitri Hanna, A. Araman, B. Fishman, Class III.
+Geological Adviser, G. S. Blake, £1,000 (consolidated).
+
+Department of Antiquities.
+
+Director, E. T. Richmond.
+Chief Inspector (vacant).
+Assistant Inspectors, L. A. Mayer, J. Ory, Class III.
+Departmental and Museum Assistant, C. Lambert, Class III.
+
+Palestine Railways.
+
+General Manager and Chief Engineer, Col. R. B. W. Holmes, O.B.E., £2,000 (consolidated).
+Assistant General Manager and Superintendent of Line, Lt.-Col. G. M. Campigli, M.C., £900–£50–£1,100.
+Chief Mechanical Engineer, H. A. Cotching, Class I.
+Engineer, Ways and Works, R. F. Scrivener, Class I.
+Superintendent of Stores, J. A. Hawkes, Class II.
+Telegraphs and Signals Engineer, J. L. Price, Class II.
+Assistant Superintendent of the Line, P. C. J. Baker, Class I.
+Divisional Superintendent, C. L. Eyres, Class II.
+Assistant Chief Mechanical Engineer, A. L. Jones, Class II.
+Works Manager, J. Mouchly, Class II.
+District Traffic Superintendents, H. Simpson, W. H. A. Phillips, F. A. Sargent, Class II.
+Carriage and Wagon Works Manager, J. A. Lavens, Class II.
+Chief Accountant, W. M. Young, Class I.
+District Engineers, J. P. Graham, F. H. Taylor, Class II.
+Cashier, T. Crawford, Class III.
+Running Superintendent, G. R. H. Sykes, Class II.
+Assistant District Traffic Superintendent, F. G. Tibshirani, Class III.
+Assistant Running Superintendent, D. Cornet, Class III.
+
+Chief Boiler Inspector, E. Morgan, Class III.
+Secretary, L. F. Williams, Class II.
+Assistant Secretary, C. W. Bridgen, Class III.
+Trains Controller, J. O. Baker, Class III.
+Chief Draughtsman and Surveyor, F. J. Hosack, Class III.
+Assistant District Engineers, A. A. Gross, J. R. Dallmeyer, Class III.
+Chief Clerk, C. E. Coulman, Class III.
+
+Department of Posts, Telegraphs and Telephones.
+
+Postmaster-General, W. Hudson, O.B.E., M.C., £1,100.
+Deputy Postmaster-General, W. Foster, M.B.R., £850–£50–£1,050.
+Chief Engineer, A. A. Evans, O.B.E., M.C., Class I.
+Engineer (South), W. R. Hay, M.B.E., Class II.
+Chief Storekeeper, W. T. Heavens, Class II.
+Assistant Director (North), G. D. Kennedy, Class II.
+Secretary, G. H. Webster, Class II.
+Chief Accountant, R. Lewis, Class II.
+Engineer, E. B. Garnett, Class II.
+Assistant Engineer, R. Moffatt, Class III.
+Telephone Superintendent, L. M. Smith, Class III.
+Postmasters, T. H. Brown, C. F. Hucklesby, F. H. Smith, Class III.
+Assistant Accountant, T. Griffiths, Class III.
+
+Department of Surveys.
+
+Director, C. H. Ley, O.B.E., £1,100.
+Inspector, H. G. Le Ray, Class II.
+Assistant Inspectors, H. G. Miller, R. B. Cruaher, W. S. Moffatt, Class III.
+Sub-Inspectors, S. H. Lanfear, J. H. Mankin, N. Foutorian, F. Holstein, Class III.
+
+Transjordan Frontier Force.
+
+Lt.-Col. Commanding, Lt.-Col. F. W. Bewaher, D.S.O., O.B.E., M.C.
+Major (Second in Command), Major C. A. Shute, C.B.E.
+Company Commanders, Majors C. E. Howard, R. S. Y. Buller, J. W. Smith, Capt. Y. R. D. Wigan.
+Senior Medical Officer, Captain A. P. Draper, M.C.
+Senior Veterinary Officer, Capt. H. A. Idenden.
+Adjutant, Capt. R. Smith.
+Paymaster, Lt. D. W. Roy.
+Quartermaster, Lt. G. T. Paley, D.C.M.
+
+NOTE.—In the above particulars of the Civil Establishment, the salaries of Classes I, II, and III are as follows:—
+
+| Class | Salary Range |
+|-------|-------------|
+| I     | £750–£25–£950 |
+| II    | £550–£25–£750 |
+| III   | £300–£10–£550 |
+
+NOTE.—In addition to the salaries stated above, officers who are neither Palestinians nor natives of Egypt, Iraq, Syria, and other neighbouring territories receive an Expatriation Allowance at the following annual rates:—Officers with fixed salaries of £1,100 and over—£200. Officers on £900–£50–£1,100 and on £850–£50–£1,060—£150. Officers of Class I and Class II—£100. Officers of Class III—£50.
+
+* Seconded for service in Trans-Jordan.
+† Supernumerary.
+For salaries of Class I, II, III, see Note on page 404.

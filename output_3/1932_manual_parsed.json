@@ -1,0 +1,364 @@
+{
+  "year": 1932,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1932/olmocr_results.md",
+  "extraction_date": "2025-11-18",
+  "extraction_method": "Manual LLM boundary identification with systematic document review",
+  "total_colonies": 43,
+  "notes": [
+    "All colony boundaries manually identified by reading OCR content",
+    "Extraction covers PART II-C: Colonial Office colonies only",
+    "PART II-C starts at line 23134, PART III starts at line 49220",
+    "Line number prefixes removed from extracted text",
+    "New colonies compared to 1928: CYPRUS, SOMALILAND PROTECTORATE, BRUNEI, TANGANYIKA TERRITORY",
+    "Missing from 1928 list: WEIHAIWEI (likely returned to China)",
+    "STRAITS SETTLEMENTS has no clear header - starts with historical narrative",
+    "TRINIDAD AND TOBAGO has no clear header - starts mid-sentence at line 44768",
+    "Some colonies have OCR errors in headers (e.g., 'BARBADOS.*', '*JAMAICA')"
+  ],
+  "colonies": [
+    {
+      "colony_name": "BAHAMAS",
+      "start_line": 23136,
+      "end_line": 23518,
+      "line_count": 383,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/BAHAMAS.txt",
+      "note": "OCR shows 'BAHAMAS.'"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "start_line": 23519,
+      "end_line": 24162,
+      "line_count": 644,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/BARBADOS.txt",
+      "note": "OCR shows 'BARBADOS.*'"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "start_line": 24163,
+      "end_line": 24739,
+      "line_count": 577,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/BERMUDA.txt",
+      "note": "OCR shows 'BERMUDA.'"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "start_line": 24740,
+      "end_line": 25622,
+      "line_count": 883,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/BRITISH_GUIANA.txt",
+      "note": null
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "start_line": 25623,
+      "end_line": 26267,
+      "line_count": 645,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/BRITISH_HONDURAS.txt",
+      "note": null
+    },
+    {
+      "colony_name": "CEYLON",
+      "start_line": 26268,
+      "end_line": 28530,
+      "line_count": 2263,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/CEYLON.txt",
+      "note": null
+    },
+    {
+      "colony_name": "CYPRUS",
+      "start_line": 28531,
+      "end_line": 29154,
+      "line_count": 624,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/CYPRUS.txt",
+      "note": "New colony not in 1928 list"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "start_line": 29155,
+      "end_line": 29606,
+      "line_count": 452,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/FALKLAND_ISLANDS.txt",
+      "note": null
+    },
+    {
+      "colony_name": "FIJI",
+      "start_line": 29607,
+      "end_line": 30221,
+      "line_count": 615,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/FIJI.txt",
+      "note": null
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "start_line": 30222,
+      "end_line": 30641,
+      "line_count": 420,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/THE_GAMBIA.txt",
+      "note": null
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "start_line": 30642,
+      "end_line": 30844,
+      "line_count": 203,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/GIBRALTAR.txt",
+      "note": null
+    },
+    {
+      "colony_name": "THE GOLD COAST",
+      "start_line": 30845,
+      "end_line": 32151,
+      "line_count": 1307,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/THE_GOLD_COAST.txt",
+      "note": null
+    },
+    {
+      "colony_name": "HONG KONG",
+      "start_line": 32152,
+      "end_line": 32778,
+      "line_count": 627,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/HONG_KONG.txt",
+      "note": null
+    },
+    {
+      "colony_name": "JAMAICA",
+      "start_line": 32779,
+      "end_line": 33661,
+      "line_count": 883,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/JAMAICA.txt",
+      "note": "OCR shows '*JAMAICA'"
+    },
+    {
+      "colony_name": "CAYMAN ISLANDS",
+      "start_line": 33662,
+      "end_line": 33728,
+      "line_count": 67,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/CAYMAN_ISLANDS.txt",
+      "note": null
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "start_line": 33729,
+      "end_line": 33878,
+      "line_count": 150,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/TURKS_AND_CAICOS_ISLANDS.txt",
+      "note": null
+    },
+    {
+      "colony_name": "KENYA",
+      "start_line": 33879,
+      "end_line": 34744,
+      "line_count": 866,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/KENYA.txt",
+      "note": "Full name: KENYA COLONY AND PROTECTORATE"
+    },
+    {
+      "colony_name": "THE LEEWARD ISLANDS",
+      "start_line": 34745,
+      "end_line": 36946,
+      "line_count": 2202,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/THE_LEEWARD_ISLANDS.txt",
+      "note": null
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "start_line": 36947,
+      "end_line": 37573,
+      "line_count": 627,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/MAURITIUS.txt",
+      "note": null
+    },
+    {
+      "colony_name": "NIGERIA",
+      "start_line": 37574,
+      "end_line": 38642,
+      "line_count": 1069,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/NIGERIA.txt",
+      "note": null
+    },
+    {
+      "colony_name": "NORTHERN RHODESIA",
+      "start_line": 38643,
+      "end_line": 39379,
+      "line_count": 737,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/NORTHERN_RHODESIA.txt",
+      "note": "OCR shows 'NORTHERN RHODESIA.†'"
+    },
+    {
+      "colony_name": "NYASALAND PROTECTORATE",
+      "start_line": 39380,
+      "end_line": 39640,
+      "line_count": 261,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/NYASALAND_PROTECTORATE.txt",
+      "note": null
+    },
+    {
+      "colony_name": "PALESTINE",
+      "start_line": 39641,
+      "end_line": 40337,
+      "line_count": 697,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/PALESTINE.txt",
+      "note": null
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "start_line": 40338,
+      "end_line": 40546,
+      "line_count": 209,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/ST_HELENA.txt",
+      "note": null
+    },
+    {
+      "colony_name": "ASCENSION",
+      "start_line": 40547,
+      "end_line": 40561,
+      "line_count": 15,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/ASCENSION.txt",
+      "note": null
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "start_line": 40562,
+      "end_line": 40804,
+      "line_count": 243,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/SEYCHELLES.txt",
+      "note": null
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "start_line": 40805,
+      "end_line": 41133,
+      "line_count": 329,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/SIERRA_LEONE.txt",
+      "note": null
+    },
+    {
+      "colony_name": "SOMALILAND PROTECTORATE",
+      "start_line": 41134,
+      "end_line": 41307,
+      "line_count": 174,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/SOMALILAND_PROTECTORATE.txt",
+      "note": "New colony not in 1928 list"
+    },
+    {
+      "colony_name": "STRAITS SETTLEMENTS",
+      "start_line": 41308,
+      "end_line": 44071,
+      "line_count": 2764,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/STRAITS_SETTLEMENTS.txt",
+      "note": "No clear header; starts with historical narrative about Malacca/Penang"
+    },
+    {
+      "colony_name": "TANGANYIKA TERRITORY",
+      "start_line": 44072,
+      "end_line": 44117,
+      "line_count": 46,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/TANGANYIKA_TERRITORY.txt",
+      "note": "OCR shows '†TANGANYIKA TERRITORY.'"
+    },
+    {
+      "colony_name": "BRUNEI",
+      "start_line": 44118,
+      "end_line": 44767,
+      "line_count": 650,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/BRUNEI.txt",
+      "note": "New colony not in 1928 list"
+    },
+    {
+      "colony_name": "TRINIDAD AND TOBAGO",
+      "start_line": 44768,
+      "end_line": 46079,
+      "line_count": 1312,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/TRINIDAD_AND_TOBAGO.txt",
+      "note": "No clear header; starts mid-sentence; includes TOBAGO subsection at 44977"
+    },
+    {
+      "colony_name": "UGANDA",
+      "start_line": 46080,
+      "end_line": 47193,
+      "line_count": 1114,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/UGANDA.txt",
+      "note": null
+    },
+    {
+      "colony_name": "GRENADA",
+      "start_line": 47194,
+      "end_line": 47482,
+      "line_count": 289,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/GRENADA.txt",
+      "note": null
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "start_line": 47483,
+      "end_line": 47767,
+      "line_count": 285,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/ST_LUCIA.txt",
+      "note": "OCR shows '**ST. LUCIA.**'"
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "start_line": 47768,
+      "end_line": 48040,
+      "line_count": 273,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/ST_VINCENT.txt",
+      "note": null
+    },
+    {
+      "colony_name": "ZANZIBAR",
+      "start_line": 48041,
+      "end_line": 48328,
+      "line_count": 288,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/ZANZIBAR.txt",
+      "note": null
+    },
+    {
+      "colony_name": "IRAQ",
+      "start_line": 48329,
+      "end_line": 48509,
+      "line_count": 181,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/IRAQ.txt",
+      "note": null
+    },
+    {
+      "colony_name": "NORTH BORNEO",
+      "start_line": 48510,
+      "end_line": 49076,
+      "line_count": 567,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/NORTH_BORNEO.txt",
+      "note": null
+    },
+    {
+      "colony_name": "TRANS-JORDAN",
+      "start_line": 49077,
+      "end_line": 49157,
+      "line_count": 81,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/TRANSJORDAN.txt",
+      "note": null
+    },
+    {
+      "colony_name": "ADEN",
+      "start_line": 49158,
+      "end_line": 49194,
+      "line_count": 37,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/ADEN.txt",
+      "note": "Under MISCELLANEOUS POSSESSIONS section"
+    },
+    {
+      "colony_name": "TRISTAN DA CUNHA",
+      "start_line": 49195,
+      "end_line": 49210,
+      "line_count": 16,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/TRISTAN_DA_CUNHA.txt",
+      "note": null
+    },
+    {
+      "colony_name": "MISCELLANEOUS ISLANDS",
+      "start_line": 49211,
+      "end_line": 49219,
+      "line_count": 9,
+      "file": "/home/user/colonial_office_list/output_3/1932_manual_parsed/MISCELLANEOUS_ISLANDS.txt",
+      "note": "Last colony in PART II-C"
+    }
+  ]
+}

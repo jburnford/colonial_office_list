@@ -1,0 +1,1112 @@
+CEYLON.
+
+Situation and Area.
+
+Ceylon, the ancient Taprobane, is an island in the Indian Ocean, off the southern extremity of Hindustan, lying between 5° 55' and 9° 50' N. lat. and 79° 42' and 81° 53' E. long.; its extreme length from north to south, i.e., from Point Palmyra to Dondra Head, is 270 miles; its greatest width 140 miles, from Colombo on the west coast to Sangamankanda on the east. Its area is 25,332 square miles, or about equal to Holland and Belgium.
+
+The Maldive Archipelago, 400 miles south-west of Ceylon, made up of 18 groups—known as atolls—or islets, which are sparsely inhabited by a mixed race of probably Aryan original stock, speaking a dialect akin to Elu, or old Sinhalese, is tributary to Ceylon, to which the Sultan sends an embassy annually. The inhabitants of the Archipelago have for nearly eight centuries professed the Mohammedan religion. The islands are covered with coconut palms and yield millet, fruit, and coconut produce. Communication is mainly by native craft with India and Ceylon. The population enumerated at the census 1921 was 70,413, including 137 Indian Borahs, 22 Malabares, and 68 Ceylon Moors who were at Malé Island for purposes of trade; the principal occupations are fishing (14,760 males), coir and lace making (10,799 females and 13 males), toddy drawing (1,273 males), carpentry (1,133 males), and cultivation (853 males and 572 females). Malé, the residence of the Sultan and the capital of the Islands, is a little over 3 miles in circumference.
+
+The Laccadive Islands are under the administration of the Government of India.
+
+Climate.
+
+The climate of Ceylon for a tropical country is comparatively healthy; the heat in the plains, which is nearly the same throughout the year, being much less oppressive than in Hindustán.
+
+Along the coast the annual mean temperature is about 80° F., and a noteworthy feature is the smallness of the variation both between day and night in the same twenty-four hours, and between the different parts of the year. At Kandy, 1,654 feet above sea level, the mean temperature is 76° F., and the rule of 1° F. drop in temperature for each 300 feet rise in altitude holds fairly well throughout the island.
+
+At Colombo and Galle the mean monthly temperature in the coldest months (December and January) is less than four degrees below those in the warmest months (April and May), while the mean daily range for the year are 12-3° and 7-4° respectively.
+
+At Trincomalee, on the other side of the island, conditions are only slightly more varied. The mean monthly temperature in May (86° F.) is seven degrees above that in December (79° F.), while the mean daily range for the year is 13-7° F.
+
+It must be remembered, however, that the change in the capacity of the air for moisture for each degree of change of temperature in the Ceylon low country is far greater than the corresponding change per degree at the mean temperature of London.
+
+The highest temperatures are experienced in the district to the north of the hills, and to the northeast, but it is only in a very few days in the year that a temperature of 100° Fahr. or over is experienced. Trincomalee holds the record with 103-7° Fahr. In the hills there is of course a great variety of climate, and at Nuwara Eliya, over 6,000 feet above mean sea level, frost is occasionally recorded in the early part of the year.
+
+The annual average rainfall varies from below 40 inches in the dry zones to the north-west and south-east of the Island to above 150 inches at certain places on the south-west slopes of the hills. The chief rainy seasons extend from April to June and from October to January, but as there is a sharp antithesis between the windward and lee side during both monsoons (particularly the S.W.), it is hard to summarise the island as a whole in one sentence. It may fairly be said that there is not a month without some rain, and the result is the luxuriant vegetation for which the island is famous.
+
+History.
+
+The authentic history of the island begins at the sixth century B.C., when an Aryan invasion from the north of India established the Sinhalese dynasty. Buddhism was introduced in the third century B.C., and from that time this faith has been preserved in comparative purity. The island abounds in interesting relics of antiquity, and in rock inscriptions, which, with the written annals left by the Sinhalese kings, are of peculiar value in revising Indian chronology.
+
+In the sixteenth century the Portuguese formed settlements on the west and south of the island; in the next century they were dispossessed by the Dutch. In 1796 the British took possession of the Dutch settlements in the island, which were then annexed to the Presidency of Madras, but five years later, in 1802, Ceylon was constituted a separate Colony. In 1815 war was declared against the Sinhalese Government of the interior; the last Kandyan King was taken prisoner, and the whole island came under the rule of the British.
+
+Constitution.
+
+The Government is administered by a Governor, aided by an Executive Council and a Legislative Council. The present constitution of these Councils was settled by the Ceylon (Legislative Council) Orders in Council 1923 and 1924, and by Letters Patent and Instructions issued in 1920. The Executive Council consists of four ex-officio members, viz., the Colonial Secretary, the Attorney General, the Controller of Revenue, and the Colonial Treasurer, and five other members, of whom four are unofficial. The Legislative Council consists of 49 members, including five ex-officio members, viz., the Officer Commanding the Troops, the Colonial Secretary, the Attorney General, the Controller of Revenue, and the Treasurer, seven nominated official and three nominated unofficial members, and 34 elected unofficial members.
+
+Of the elected members, eleven represent special interests and communities, viz., the European Electorate (Urban), 1; the European Electorate (Rural), 1; the Commercial Electorate, 1; the Burgher Electorate, 2; the Indian Electorate, 2; the Muslim Electorate, 3; the Western Province (Ceylon Tamil) Electorate, 1; and 23 represent territorial constituencies.
+
+The nine Provinces are presided over by Government Agents, who with their assistants and subordinate Headmen are the channel of communication between the Government and the people.
+Population, Area, and Statistics.
+
+According to the decennial census, taken on the 18th March, 1921, the population was 4,504,649, an increase of 9-6 per cent. on the population enumerated in 1911. The details of the population were as follows (including the military, shipping, estates, and miscellaneous):
+
+| Province                  | Population |
+|---------------------------|------------|
+| Western Province          | 1,251,639  |
+| Central ditto             | 717,739    |
+| Southern ditto            | 671,358    |
+| Northern ditto            | 375,482    |
+| Eastern ditto             | 192,947    |
+| North-Western Province    | 492,287    |
+| North-Central ditto       | 96,626     |
+| Province of Uva           | 234,027    |
+| Provinces of Sabaragamuwa | 471,814    |
+| Miscellaneous             | 761        |
+| **Total**                 | **4,504,649** |
+
+Among these were 8,937 Europeans, 29,632 Burghers and Eurasians, 3,016,659 Sinhalese, 1,121,018 Tamils, 285,876 Moors, 13,461 Malays, and 26,066 persons of other nationalities. The Buddhists (2,770,391) numbered more than half the population, there were 982,733 Hindus, 445,015 Christians (mostly Roman Catholic), 303,863 Muslims, and 2,547 other religionists. The population of the principal towns was as follows:—Colombo, 248,826; Negombo, 21,349; Moratuwa, 28,608; Kalutara, 13,596; Kandy, 32,662; Jaffna, 42,511; Galle, 39,157; Matara, 16,779; Batticaloa, 10,646; Trincomalee, 9,442; Kurunegala, 10,187; Badulla, 8,126.
+
+The number of Indian coolies on the tea estates, etc., was about 500,000. They are under no indentures, and are free to quit on giving a month's notice. The total number of plantation labourers, including coolies born and settled in Ceylon, as well as of other races, was estimated at 589,000.
+
+The entire area of the Colony is 25,332 square miles. About one quarter of this area, after deducting backwaters, etc., is under cultivation. Some 4,000 square miles in the centre form the mountain zone with an altitude of from 1,500 to 8,282 feet above sea level. The approximate acreages under the most important products are:
+
+| Product       | Acres   |
+|---------------|---------|
+| Coconuts      | 900,000 |
+| Rice          | 834,000 |
+| Tea           | 450,000 |
+| Grain (other than Rice) | 102,000 |
+| Rubber        | 490,000 |
+| Cinnamon      | 25,000  |
+| Cacao         | 34,000  |
+| Tobacco       | 13,000  |
+
+At the end of 1927, the number of plumbago mines reported to be working was 48. The amount of plumbago exported during the year was 257,686 cwts., valued at rs. 2,525,700.
+
+The minimum upset price of Crown land is rs. 16 to 20 per acre. 20,622 acres were sold in 1927 at an average price of rs. 76 per acre.
+
+The revenue is principally derived from Customs Duties, Land Sales, Licences (under which head is entered the amount realised by the sale of Arrack and Toddy Rents), Salt (which is a Government monopoly), Stamps, and Railway Receipts. The revenue from the sale of salt for the financial year 1926-27 was rs. 1,065,662. This is local salt worked by the Government, but the importation of foreign salt is allowed on an import duty of rs. 3 per cwt.
+
+The local revenues raised by the Municipalities of Colombo, Kandy and Galle, by the Provincial and District Road Committees, by the Local Boards of Health and Improvement and Urban District Councils which have been established in the towns of Kalutara, Panadure, Negombo, Minuwangoda, Gampola, Nuwara Eliya, Matale, Nawalapitiya, Hatton-Dickoya, Matara, Batticaloa, Trincomalee, Kurunegala, Puttalam, Chilaw, Anuradhapura, Badulla, Bandarawela, Ratnapura, Kegalla, Moratuwa, and Jaffna, and by Gansabawas amounted in 1927 to rs. 11,729,728-82. The revenue collected by the Sanitary Boards amounted to rs. 868,071-71, a sum which includes a loan of rs. 5,000 and Government Grant of rs. 4,060.
+
+The municipal debt outstanding on 31st Dec., 1927, was rs. 14,023,991-61. Of this amount rs. 10,309,190-62 is the balance of the loan borrowed from the Government for the Colombo Drainage Works, and rs. 2,793,066-74 for Water Works. Rs. 352,131-27 is the balance of a loan obtained by the municipality of Galle for the construction of waterworks, sanitary improvements and electric lighting, and rs. 569,602-98 is the balance due from the municipality of Kandy for water-works, drainage, housing and electric lighting.
+
+The development of the tea industry is shown by the following statistics:—Export, 1884, 2,392,963 lbs.; 1900, 149,264,602 lbs.; 1927, 227,000,000 lbs.
+
+There has been a remarkable development in rubber cultivation in recent years. Rubber was first brought to Ceylon in 1876, and its growth proved successful. On the failure of coffee, planters preferred to substitute cinchona and tea. Cinchona however did not survive low prices and was replaced by tea. Within recent years great attention has been given to rubber. In 1898, 750 acres were estimated to be planted with rubber, in 1906, 100,000 acres, and in 1927 about 490,000 acres under this cultivation.
+
+The value of the products of the coconut palm exported in 1927 was rs. 77,048,541. During the past few years greater attention has been given to the cultivation of coconuts, and large areas of land formerly occupied with cinnamon are now planted in this crop. The value of cacao exported in 1927 was rs. 2,747,247 and of cinnamon rs. 4,786,243.
+
+The chief imports are rice from India (including Burma), valued at rs. 95,013,408, and from other countries valued at rs. 7,838,253 in 1927, and coal and textiles from the United Kingdom.
+
+Law and Justice.
+
+The basis of the law is the Roman-Dutch law, much modified by the introduction of English law and by Colonial ordinances. Kandyan law and Muslim law also prevail among Kandyans and Muslims respectively. The criminal law has been codified on the model of the Indian Penal Code, and the codification of the law of Criminal and Civil procedure respectively has been completed.
+
+Justice is administered by the Supreme Court, which has an original criminal jurisdiction and decides appeals from the inferior Courts both in civil and criminal cases; by the Police Courts and Courts of Requests, which dispose, respectively, of minor criminal and civil suits; and by the District Courts, which have a criminal jurisdiction intermediate between that of the Supreme Court and the Police Courts, and a civil jurisdiction in all cases. In addition to these there are the Gansabawas, Village Councils, and Village Tribunals, instituted under the Ordinance No. 24 of 1889, with powers to
+deal with petty offences and trifling claims. They have worked well and are thoroughly adapted to the genius of the people. Besides settling a considerable amount of litigation, they have provided a valuable machinery for carrying out local improvements. They are empowered to make rules subject to the approval of the Governor in Council, relating to their village economy, and it is noticeable that in many instances they have not only voluntarily provided school buildings and undertaken the cost of the current expenses and repairs, but have made elementary education compulsory.
+
+Education.
+
+Satisfactory progress is being made in education. The number of scholars in Government schools at the end of 1927 was 189,560, in schools aided by Government 291,064, and in unaided schools 24,687.
+
+The total expenditure on account of the Education Department in 1926-27 was Rs. 8,269,324/58. In 1868, the number of scholars was only 6,897, and the expenditure Rs. 161,660. The improvement is due to the institution of a Department of Education and the adoption of a system under which the educational wants of the Island are met partly by Government, partly by schools receiving grants in aid from Government. The Government schools are all unsectarian, and no fee is charged for vernacular education; fees are charged for English teaching.
+
+The only Secondary School entirely supported by Government is the Royal College, but there are numerous and excellent Grant-in-aid Secondary Schools. Seven Government scholarships, each of 300/- per annum, five for two years and two for three years, with outfit allowances of 50/- each and free passages, are awarded annually, on the results of the B.A. and B.Sc. Examinations of the University of London, to enable the best seven students of the year to complete their education at English universities.
+
+Industrial education is provided in 58 Government and Grant-in-aid Schools and in a number of Orphanages. A central Technical College was founded in Colombo in 1893; its title has since been changed to "Government Technical Schools."
+
+A University College was opened in Colombo in 1921, when lectures were started in the following subjects:—English Language and Literature, Classics and Philosophy, Modern History and Economics, Physics, Chemistry, Mathematics, Sanskrit and Pali, Tamil, Sinhalese, Modern Languages, Botany, Zoology, Geography. The College offers instruction for the Degrees, Pass and Honours, of the University of London.
+
+A Government Training College for Masters and Mistresses in English Schools and Government Vernacular Schools was opened in 1903.
+
+Medical Institutions.
+
+Medical College.—The Ceylon Medical College was founded in 1870 to provide a course of Medical training for the Ceylonese. The curriculum is a full five years' course, and since 1887 the Licence of the College has been recognised by the General Medical Council as a registrable Colonial qualification. The courses of instruction and examinations are also recognised by many of the British Examining Boards. The licence has been conferred upon 470 candidates since the College was opened; of recent years about 18 qualify annually.
+
+There is a Junior or Apothecary Department in which students go through a two years' course, and after passing the prescribed examinations are qualified to serve as Apothecaries and Estate Dispensers.
+
+The College has a staff of over 30 lecturers and is managed by a Council incorporated by law.
+
+There are at present over 150 students.
+
+Owing to changes introduced by the Medical Council of Great Britain, the preliminary subjects, Physics, Chemistry and Biology, are now pre-medical subjects, and arrangements have been made for these to be studied at the University College. Students must pass an examination in these subjects before they can be admitted to the Medical College for their purely medical studies.
+
+The Medical College fees amounted to Rs. 36,503/50 in 1927-28.
+
+There are 86 Government general hospitals, providing about 6,677 beds, with varying accommodation from 8 beds in smaller outstations to 839 beds in the General Hospital, Colombo.
+
+There are in addition a number of special hospitals, viz., a lying-in-home with 100 beds, an eye hospital with 58 beds, a women's hospital with 41 beds, a children's hospital with 67 beds, a women's venereal hospital with 29 beds, a police hospital with 31 beds, a tuberculosis hospital for chronic cases with 338 beds, a tuberculosis sanatorium with 72 beds, an infectious diseases hospital with 154 beds, a lunatic asylum and House of Observation with 1,728 beds, a prison hospital, Colombo, with 192 beds, and 8 other prison hospitals providing 203 beds, two leper asylums, one with 448 beds at Hendala (near Colombo), and the other with 152 beds at Mantivu, Eastern Province.
+
+Eighty estate hospitals and 659 estate dispensaries are maintained by proprietors of estates.
+
+There were 543 Government dispensaries in different parts of the Island in 1927, and 2,759,403 patients who paid 4,205,220 visits were treated at these dispensaries.
+
+There is a Bacteriological and also a Pasteur, and a Dental Institute.
+
+The Department of Medical and Sanitary Services includes 298 grade medical officers, 121 of whom have only obtained licences in medicine and surgery granted by the Ceylon Medical College, 24 medical officers of health, and 334 sanitary inspectors. There are two institutions where nurses are trained, and the nursing staff consists of 42 European qualified matrons and sisters, 124 European Roman Catholic sisters, 378 matrons and nurses trained locally, and pupils in training.
+
+The cost of working the department amounted in 1926-27 to Rs. 9,104,455. The expenditure on account of estate medical aid was Rs. 1,816,869 for 1926-27. The receipts, which included cost of maintenance of paying patients, sale of medicines, etc., amounted to Rs. 551,730 for 1926-27. The export duty levied for the partial upkeep of the Estates Branch of the Department yielded Rs. 1,228,168 for 1926-27.
+
+Currency and Banking.
+
+The weights and measures in common use are British.
+
+Accounts are kept in rupees, and the money in circulation is Indian and Ceylon rupee currency, sovereigns having ceased to be legal tender in the Colony in 1920. Ceylon cents take the place of the Indian annas and pieo. The notes of the Chartered Mercantile Bank remained in circulation to some extent until 1888, when its charter expired, but since the failure of the Oriental Banking Corporation in 1884, the Government has instituted a note-issue of which the amount in circulation on the 31st December, 1927, was Rs. 62,470,802. These notes are legal tender except at the Colombo Issue Office.
+
+The following banks have establishments in the Colony: Mercantile Bank of India, Limited; Chartered Bank of India, Australia, and China; Hong Kong and Shanghai Banking Corporation; Imperial Bank of India; National Bank of India, Limited; Eastern Bank, Limited; P. & O. Banking Corporation, Ltd. None of these issues notes in Ceylon.
+The Ceylon Savings Bank was established in 1832, and Post Office savings banks were opened in 1885. On 31st December, 1927, the deposits were: Ceylon Savings Bank, Rs. 6,944,531; Post Office Savings Bank, Rs. 12,323,627.
+
+The Colombo Harbour.
+
+A body designated the Colombo Port Commission was established in 1913, to administer the affairs of the Port of Colombo. The Commission is responsible for the efficient working of the Port, and has powers of executive action and initiative. It is composed of seven official members, seven unofficial members, and a secretary. The official members are the Principal Collector of Customs (Chairman), the Director of Medical and Sanitary Services, the General Manager of the Railway, the Chairman, Municipal Council, and Mayor of Colombo, the Deputy Collector of Customs, Colombo, the Master Attendant, Colombo and Galle, and the Harbour Engineer. Six of the unofficial members are nominated by the Ceylon Chamber of Commerce, and the seventh (representative of the Ceylonese and Indian interests of the Port) by the Governor.
+
+The Harbour Works consist of three breakwaters. The South-West, commenced in 1873, and completed in 1885, at a cost of 705,207L, is 4,212 feet long, and runs from the shore in a direction North by East. It is built of concrete blocks weighing from 18 to 30 tons, set in what is known as the sloping bond system.
+
+The North-East and North-West breakwaters were begun in 1894, and completed in 1906, at a total cost of 631,657L. The North-East breakwater is a rubble embankment, 1,100 feet long, tipped from a staging.
+
+The North-West breakwater is an island work, 2,670 feet in length, running between the two shore breakwaters, leaving a western entrance of 750 feet, and a northern entrance of 700 feet. This breakwater is of similar construction to the South-West arm.
+
+These three breakwaters enclose an area of 643 acres, or one square mile.
+
+An extension of the S.W. breakwater, starting from a point 3,150 feet from the shore end, was commenced in December, 1907, and completed in April, 1912. The arm is 1,800 feet long, and runs in a direction almost due north, protecting the present main entrance from the S.W. Monsoon seas. The cost of this additional arm was 338,931L.
+
+The Graving Dock. A Graving Dock was commenced in 1899, and was completed in 1906. It is 723 feet long, 85 feet wide at the entrance, and has a depth over the sill of 30 feet at low water. Its cost was 433,523L. There is also a guide pier, 800 feet long, to assist vessels entering the dock. The dock has its own electric light installation. Six new oil-fired boilers have recently been installed at the Graving Dock, and all the boilers have been adapted for coal firing. The installation appears to be most satisfactory, and is now able to meet any likely demands for steam both for Dock and Oil Facilities services for some time to come. The docking of ships can be carried out by day or night.
+
+The Patent Slip was commenced in 1899, and opened in 1903, the cost being 46,266L. It is 800 feet long, the cradle being 220 feet, and is capable of dealing with vessels up to 1,200 tons dead weight.
+
+Oil Facilities. The Oil Installations Depot, which is about 92 acres in extent, lies 3½ miles inland from the harbour front. The Oil Companies' storage tanks are situated within this area, with pipe line connection from the harbour for fuel oil, kerosine, and benzine imported in bulk. There is also a Measuring Tanks Depot (about 19 acres in extent) at Bloemond-ahl, about three-quarters of a mile from the Harbour. Three reinforced concrete jetties, two for bunkering purposes and one for the discharge of oil tankers, have been provided. The Outer Bunkering Jetty can accommodate vessels of 550 feet in length with a draught of 27 feet after bunkering; the Inner Bunkering Jetty is only available for barges. The area in the vicinity of the Outer Bunkering Jetty is being dredged to accommodate vessels of 30 feet draught after bunkering. The Discharge Jetty can accommodate vessels 500 feet in length with a draught of 27 feet. The number of ships calling at Colombo for oil fuel bunkers has increased rapidly. The duplication of the 10-inch fuel oil pipe line from the Harbour to the Kolonnawa Oil Depot has been completed, and is working very satisfactorily. The two new steam-driven pumps, obtained to replace the fuel oil and the kerosine and petrol pumps at the Boosting Station at the Graving Dock, have been installed. The expenditure on the oil scheme up to 30th September, 1927, was Rs. 5,091,141.
+
+The Coaling Depot consists of 24 acres of land, reclaimed from the sea, with a frontage of 2,200 feet, from which 17 jetties project into the harbour for the landing, stacking, and shipping of coal. The total cost of this depot was 64,746L.
+
+The total cost of the Reclamation and Jetties amounts to 174,698L.
+
+The Fishery Harbour has been constructed to the northward of Colombo harbour for the use of the fishermen as a beaching ground, the whole of the foreshore inside Colombo harbour being fully utilised. The fishery harbour consists of a rubble breakwater running out from the shore in a curve for 800 feet, the sheltered part forming a natural beaching ground for fishing canoes. The cost was 11,607L.
+
+The total expenditure on the Colombo harbour from 1873, when work in connection with the first breakwater was commenced, to 1913, when the Colombo Port Commission assumed control of the harbour, was Rs. 44,790,287, or 2,986,018L., taking the value of the rupee at 1s. 4d.
+
+In the period 1st July, 1913, to 30th September, 1927, a sum of Rs. 28,429,141 or 1,895,276L., has been spent on various development and maintenance works by the Colombo Port Commission, and a sum of Rs. 2,189,723 or 145,982L. by the Public Works Department, making a total of Rs. 30,618,864 or 2,041,258L. In addition to the above expenditure a sum of Rs. 660,052 or 44,004L. was charged to Loan Funds during the period 1st October, 1922, to 30th September, 1926, in connection with the dredging of the Colombo Harbour (including rock excavation). Prior to 1st October, 1922, this expenditure was met from Revenue, and is included in the sum of Rs. 30,618,864 or 2,041,258L. mentioned above.
+
+Since the Colombo Port Commission assumed control of the Port, many improvements have been carried out, and the facilities on shore have been much improved and increased; the warehouse accommodation which in 1913 was 291,600 sq. ft. is now 584,412 sq. ft. and the quayage has been increased from 4,645 linear ft. to 10,602 linear ft. in the corresponding period. A new warehouse 31,755 sq. ft. in area was brought into use in October, 1927. Two other warehouses, which are 100 feet wide, are being enlarged to 130 feet. This enlargement will provide an additional warehouse floor area of 12,000 sq. ft. The programme of deepening the harbour to provide for large ships on the Eastern route is being rapidly pursued. There are already six berths available in each monsoon for vessels of 33 feet draught, and this number is being increased.
+
+A scheme for the development of the Colombo Lake by partially reclaiming it and connecting it to the
+harbour was completed in 1925 at a total cost of Rs. 9,306,490. The Lake to Harbour Canal and Lake to Harbour Locks are in charge of the Colombo Port Commission, and it is now proposed to take over from the Public Works Department the maintenance of the waterways and quay walls of the Colombo Lake, up to and including the operation of the San Sebastian Canal works and pumping plant. The area on the Western bank of the Canal has been developed for the landing of import cargo, and is in use. Steps are now being taken for the development of the area on the Eastern bank.
+
+**Colombo Water Supply.**
+
+The Colombo Water supply is obtained from Labugama Reservoir which is situated in the Western Province, at a distance of 2½ miles from the City.
+
+The Reservoir was formed by impounding the water of the Wak-Oya, a tributary of the Kelani Ganga.
+
+The Catchment area, which is 2,500 acres in extent, is free from any habitation or cultivation, all the land to the summit of the water shed having been reserved together with a strip two chains in depth along the adjacent water sheds.
+
+The area of the reservoir at present top water level is 203 acres. This lake, the scenery of which is very charming, is 370 feet above sea level and has a maximum depth of 70 feet.
+
+The storage capacity of the reservoir is 1,900 million gallons.
+
+Filtration works of the "Jewell Gravity" type are situated immediately below the Reservoir Dam.
+
+The water has a very low alkalinity and is remarkably pure. It is conveyed to the two service Reservoirs in Colombo through three separate pipe lines; two of these are of cast iron each 20 inches in diameter, and the other of steel 30 inches in diameter.
+
+There are some 250 miles of supply and distribution mains, varying in size from 30 to 3 inches in diameter. Water service is available to all premises within the City and also to shipping in Colombo Harbour.
+
+The average daily consumption is estimated at 11 million gallons, and equals about 40 gallons per head of population.
+
+**Railways.**
+
+The lines of railway, all of which are owned and worked by the Government, are distributed thus:—
+
+Broad Gauge (5ft 6 in.), Colombo to Badulla (18¼ miles), Polgahawela to Kankesanturai (21¼ miles), Peradeniya Junction to Kandy and Matale (21¼ miles), Ragama Junction to Mahara Quarry (1¾ miles), Colombo to Matara (98¼ miles), Ragama to Puttalam (7¼ miles), Maho to Polonnaruwa (7¾ miles), Galoya Junction to Trincomalee (43¼ miles), Madawachi to Talaimannar Pier (66 miles), Kolonawala Oil Line and Harbour Branch (3¼ miles).
+
+Narrow Gauge (2ft 6 in.), Colombo Fort to Yatiyantota (40¼ miles), Avisawella to Opanaike (48¼ miles), Nann Oya to Ragalla (19¼ miles). Total Mileage 895 miles. The total cost of construction up to 30th September, 1927, charged in account was Rs. 200,886,771. The receipts for the 12 months ended 30th September, 1927, were Rs. 30,111,981, and expenditure Rs. 20,518,804.
+
+By the completion of the Talaimannar extension the railway systems of India and Ceylon were brought within 20 miles of one another, the intervening distance being covered by steamers of the South Indian Railway Co., which ply between Dhanusukkod (the Indian Port) and Talaimannar (the Ceylon Port). The other extensions are for the better transport of planting produce (tea, rubber, coconuts, etc.).
+
+**Roads.**
+
+Of metalled roads there are 3,843 miles; gravelled and natural roads, 390 and 204 miles respectively; of canals 153 miles. The maintenance of 4,237 miles of road cost, in 1927, Rs. 6,506,467 or an average rate of Rs. 1,535 per mile. This is exclusive of roads within municipal limits, and of minor roads which are not in the charge of the Department of Public Works.
+
+**Telephones.**
+
+The Government telephone system comprises two exchanges at Colombo, viz., Central Exchange (2,773 subscribers) and Havelock Town Exchange (282 subscribers), in trunk communication with exchanges at Kandy (206 subscribers), Nuwara Eliya (187 subscribers), Galle (120 subscribers), and smaller exchanges at Alawwa, Anuradhapura, Avissawella, Badulla, Balangoda, Bandaragama, Bandarawela, Beruwela, Chilaw, Dehiwita, Demodara, Diyalatalawa, Ethiyagoda, Ella, Galagedara, Gammaduwa, Gampola, Gintota, Haliela, Haputale, Hatton, Horana, Inigiriya, Kadawata, Kadugannawa, Kahawatte, Kalutara, Katana, Katugastota, Katunayaka, Kegalla, Kalaniya, Kesbewa, Kirillia, Kochchikade, Kotte, Kurunegala, Kuruwita, Madampe, Mahaweli, Matale, Mawanella, Mawatagama, Moratuwa, Mt. Lavinia, Nattandiya, Nawalapitiya, Negombo, Niwitigala, Nugogoda, Padukka, Paiyagala, Panadura, Parakaduwa, Pelmadulla, Peradeniya, Polgahawela, Puttalum, Puwakpitiya, Raghams, Ramboda, Rampakkawana, Ratnapura, Ruwanwella, Teldeniya, Trincomalee, Urugala, Waga, Watagoda, Wattala, Wattigama, Weligama, Welimada, Wenappuwa and Yatiyantota, and also purely local exchanges at Athchulavu, Chunnamak, Jaffna, Kopay, Manipay, and Pandateruppu in Jaffna Peninsula. There are, in addition, 79 licensed private systems of various sizes, several of which are connected by means of junction lines and subsidiary trunks with one another and the main trunk lines. The mileage of telephone wire in the Government system at the end of August, 1928, was estimated at 5,927 (aerial) and 26,628 (underground).
+
+**Telegraphs.**
+
+Nearly all parts of the island are served by the Government telegraph system, which has 273 offices working, inclusive of Railway offices open for postal telegrams. The system comprises 3,127 miles of line and 9,935 miles of wire. Ceylon is in direct telegraphic communication with India by a cable which starts from Talaimannar and crosses the Pamban Channel. It is also connected with Europe by direct cables from Colombo to Aden and with the Far East and Australia by direct cables to Penang.
+
+There is a Government Radio Station in Colombo equipped for Continuous Wave and Interrupted Continuous Wave telegraphic services, and also for telephony.
+
+The Continuous Wave service is conducted on a wave length of 2,300 metres with a normal daylight range of 1,000 miles.
+
+The Interrupted Continuous Wave Service is conducted on the 600 metre wave length, and has a normal daylight range of 500 miles.
+
+The telephonic equipment is for providing a broadcasting service on a wavelength of 800 metres. The rating of the set for telephony is 2 kilowatt. The number of licence holders at the end of August, 1928, was 1,163.
+
+**Means of Communication.**
+
+1. There is a regular fortnightly mail service between London and Colombo by the P. & O. steamers, continuing to Australia. There is also a regular
+fortnightly mail service by the Orient line steamers continuing to Australia, except from April to September, when it is monthly.
+
+2. There are also fortnightly services by the P. & O. line between London and Japan, and London and Australia, via Colombo. There is also a fortnightly service by the Orient line between London and Australia, via Colombo, except from April to September, when it is monthly.
+
+3. The M.M. Co. runs a fortnightly mail service between Marseilles and the Straits and Japan, via Colombo, and a monthly service (irregular at present) to Australia.
+
+4. The Nippon Yusen Kaisha line of steamers maintains a fortnightly service between Liverpool and Marseilles and the Straits, China and Japan, via Colombo, and the Bibby line between Liverpool and Marseilles, Port Said and Rangoon, via Colombo.
+
+5. The Natal Direct line and the Indian and African line maintain a somewhat irregular monthly service between Calcutta and Durban, Delagoa Bay and Cape Town, via Colombo, while a monthly service by the steamers of the Ossen Shosen Kaisha exists between Japan and Argentine and Brazil, via Colombo, Durban and Cape Town. There is also a monthly service by steamers of Ossen Shosen Kaisha (African Line) between Japan and Dar-es-Salaam via Colombo.
+
+6. The steamers of the Rotterdam Lloyd and Amsterdam Lloyd provide a fortnightly service between Holland and Java, via Colombo. The steamers of the Rotterdam Lloyd also provide a fortnightly service from Java to Holland, via Colombo.
+
+7. The British Indian Steam Navigation Company maintains an irregular monthly service between Calcutta (or Rangoon) and Mauritius, via Colombo, and a regular bi-weekly service between Tuticorin and Colombo.
+
+8. There is an irregular mail service between Ceylon and the Maldives Islands by baggallows.
+
+The mail service between England and Colombo takes from 16 days to 18 days in transit at present.
+
+### Rates of Postage
+
+| Letters | Post Cards | Printed Matter | Registered Newspapers | Samples | Registration Fee |
+|---------|------------|----------------|-----------------------|---------|------------------|
+| Within the Colony and to India | Per 2 oz. 6 cents | Each 2 cents | Per 2 oz. 3 cents | 2 cents. for every copy not exceeding 8 ozs., 2 cents. for every additional 8 ozs. | — | 15 cents |
+| To the United Kingdom and British Dominions | 9 cents for each oz. or part of that weight. | 6 cents | 3 cents for every 2 oz or part thereof. | 3 cents. for every copy not exceeding 2 ozs. | First 4 oz. or part thereof 8 cents and every additional 2 oz. 4 cents. | 20 cents |
+| To Foreign Countries | First oz. 20 cents, and 10 cents each additional oz. | 12 cents | 4 cents for every copy not exceeding 2 oz. | 4 cents. for every copy not exceeding 2 oz. | First 4 oz. or part thereof 8 cents., and every additional 2 oz. 4 cents. | ditto |
+
+### Finances, Shipping and Trade
+
+#### FINANCES.
+
+| Year | Revenue | Expenditure | SHIPPING ENTERED AND CLEARED.* |
+|------|---------|-------------|--------------------------------|
+|      | Rs.     | Rs.         | British Total. Tonnage. Tonnage. Tons. Tons. |
+| 1920 | —       | —           | 7,565,929 11,872,513 |
+| 1920- | 70,619,061 | 91,767,691 | 9,068,580 13,328,790 |
+| 1921 | 79,270,117 | 77,359,068 | 9,342,201 14,705,250 |
+| 1922 | 93,720,169 | 85,583,910 | 10,309,396 16,252,984 |
+| 1923 | 102,363,116 | 100,695,713 | 11,553,118 18,508,406 |
+| 1924 | 115,539,670 | 105,004,348 | 12,026,497 19,419,444 |
+| 1925 | 124,516,155 | 109,996,336 | 12,381,078 20,402,629 |
+| 1926 | 129,358,916 | 121,046,300 | 13,152,220 21,393,723 |
+
+Public Debt, on 30th Sept., 1927, Sterling debt, £12,657,393 8s. 4d.; rupee debt, Rs.3,000,000.
+
+* The Shipping Figures are for the Calendar year.
+
+#### IMPORTS.
+
+| Year | From U.K. | From Colonies. | From Elsewhere. | Total. |
+|------|-----------|----------------|-----------------|--------|
+| 1918 | 28,634,467 | 121,864,745 | 27,217,551 | 177,716,763 |
+| 1919 | 33,890,842 | 153,877,610 | 51,555,279 | 230,323,731 |
+| 1920 | 77,443,996 | 93,771,588 | 50,060,068 | 321,275,652 |
+| 1921 | 65,438,017 | 154,331,998 | 41,127,146 | 260,897,161 |
+| 1922 | 62,073,675 | 169,965,999 | 49,701,428 | 281,740,702 |
+| 1923 | 63,356,290 | 172,933,779 | 55,869,775 | 292,159,784 |
+| 1924 | 69,448,553 | 173,760,871 | 69,110,043 | 312,328,467 |
+| 1925 | 84,757,656 | 202,683,315 | 72,955,346 | 380,380,317 |
+| 1926 | 95,134,287 | 214,101,740 | 98,631,082 | 407,867,109 |
+| 1927 | 95,276,344 | 221,008,217 | 104,843,415 | 421,127,376 |
+
+#### EXPORTS.
+
+| Year | To U.K. | To Colonies. | To Elsewhere. | To Total. |
+|------|---------|--------------|---------------|----------|
+| 1918 | 91,036,836 | 70,038,113 | 50,265,885 | 211,332,834 |
+| 1919 | 154,641,527 | 59,181,120 | 158,877,123 | 367,000,770 |
+| 1920 | 123,660,470 | 41,177,857 | 103,623,976 | 268,462,383 |
+| 1921 | 118,697,199 | 42,031,773 | 95,971,441 | 256,600,413 |
+| 1922 | 137,770,062 | 48,732,699 | 112,280,454 | 299,783,316 |
+| 1923 | 123,705,410 | 59,879,673 | 127,613,665 | 311,198,748 |
+| 1924 | 173,322,283 | 70,315,154 | 142,879,981 | 385,517,418 |
+| 1925 | 185,592,160 | 74,383,372 | 229,640,898 | 492,616,430 |
+| 1926 | 206,323,908 | 71,001,879 | 224,323,203 | 503,648,990 |
+| 1927 | 187,007,550 | 76,945,475 | 185,320,719 | 449,273,744 |
+
+The total customs revenue in 1926-27 was Rs. 50,810,962.
+List of Governors.
+
+1850 Sir George William Anderson, K.C.B.
+1855 Sir Henry George Ward, K.C.M.G.
+1860 Sir C. J. MacCarthy, Knt.
+1863 Major-Gen. Terence O'Brien (acting).
+1865 Sir Heroules G. R. Robinson, K.C.M.G.
+1872 The Rt. Hon. Sir W. H. Gregory, K.C.M.G.
+1877 Sir James R. Longden, K.C.M.G.
+1883 The Hon. Sir Arthur H. Gordon, G.C.M.G.
+1890 Sir Arthur E. Havelock, G.C.M.G.
+1896 Right Hon. Sir J. West Ridgeway, G.C.M.G., K.C.S.I.
+1903 Sir Henry A. Blake, G.C.M.G.
+1907 Col. Sir H. E. McCallum, G.C.M.G., R.E.
+1913 Sir Robert Chalmers, G.C.B. (now Lord Chalmers).
+1916 Sir John Anderson, G.C.M.G., K.C.B., LL.D.
+1918 Brig.-General Sir William H. Manning, G.C.M.G., K.B.E., C.B.
+1925 Sir Hugh C. Clifford, G.C.M.G., G.B.E.
+1927 Sir Herbert J. Stanley, K.C.M.G.
+
+EXECUTIVE COUNCIL.
+
+Governor, Sir Herbert James Stanley, K.C.M.G.
+
+Ex-officio Members.
+
+Colonial Secretary, Sir Arthur G. M. Fletcher, C.M.G., C.B.E.
+Attorney-General, L. H. Elphinstone, K.C.
+Controller of Revenue, F. G. Tyrrell, C.M.G.
+Treasurer, W. W. Woods, C.M.G.
+Official Nominated Member, R. N. Thaine, C.M.G.,
+Government Agent, Western Province.
+
+Unofficial Nominated Members.
+
+A. F. Molamure, K. Balasingham, A. C. G. Wijekoon and J. W. Oldfield, O.B.E.
+Clerk to the Council, W. L. Murphy.
+
+LEGISLATIVE COUNCIL.
+
+The Governor (President).
+Sir James Peiris, Kt. (Vice-President).
+
+Ex-officio Members.
+
+Brigadier Commanding the Troops, A. C. Girdwood, C.B., C.M.G., D.S.O.
+Colonial Secretary, Sir Arthur G. M. Fletcher, C.M.G., C.B.E.
+Attorney-General, L. H. Elphinstone, K.C.
+Controller of Revenue, F. G. Tyrrell.
+Treasurer, W. W. Woods, C.M.G.
+
+Nominated Official Members.
+
+Principal Collector of Customs, W. E. Wait.
+Director of Public Works, H. B. Lee.
+Director of Medical and Sanitary Services, J. F. E. Bridger.
+Controller of Indian Immigrant Labour, H. A. Burden.
+Director of Agriculture, F. A. Stockdale.
+Director of Education, L. Macrae.
+Solicitor-General, M. T. Akbar.
+
+Nominated Unofficial Members.
+
+C. E. de Vos, K. Balasingham, A. C. G. Wijekoon.
+
+Elected Unofficial Members.
+
+N. H. M. Abdul Cader, Sir P. Ramanathan, Kt., C.M.G., K.C., W. Duraiswamy, D. H. Kotalawas, Sir James Peiris, Kt., E. W. Perera, E. R. Tambimuttu, C. W. W. Kannangara, N. J. Martin, T. L. Villiers, A. Canagaratnam, C. E. V. Corea, P. B. Rambukwella, C. H. Z. Fernando, H. R. Freeman, T. B. Jayah, D. B. Jayatilaka, H. M. Macan Markar, G. E. Madawala, A. Mahadeva, A. F. Molamure, George R. de Silva, F. A. Obeysekere, I. X. Pereira.
+
+S. Rajaratnam, D. S. Senanayake, M. M. Subramaniam, V. S. de S. Wickremanayake, G. A. H. Wille, T. M. Sabaratnam, W. A. de Silva, K. Natass Aliyer, George Brown, M. J. Cary.
+Clerk to the Legislative Council, C. C. Woolley.
+
+Civil Establishment.
+
+Governor, etc., Sir Herbert James Stanley, K.C.M.G., 7,000.*
+
+Private Secretary, M. E. Antrobus.
+Assistant Private Secretary, R. C. Byng.
+Aide-de-Camp, Capt. L. Holbech, D.S.O., M.C., late Grenadier Guards.
+Maha Mudaliyar and Chief Interpreter and Extra Aide-de-Camp, J. P. Obeysekere, Rs. 4,000.
+Colonial Secretary, Sir Arthur G. M. Fletcher, C.M.G., C.B.E., 2,400l.
+Principal Assistant, W. L. Murphy, 1,250l.
+Second Assistant, C. C. Woolley, 920l.
+Third Assistant, G. C. Miles, 780l.
+Fourth Assistant, K. Somasundaram, 700l.
+Fifth Assistant, J. A. Mulhall, 700l.
+Office Assistant, B. Belletth, 660l., P. H. de la Harpe, 670l.
+Chief Clerk, B. M. Christoffelez, rs. 6,200.
+Cadets, commencing at 400l. per annum:—C. H. Hartwell, M. F. De S. Jayaratne, C. B. P. Perera, R. H. D. Manders, C. D. V. S. Corea, P. O. S. E. Silva, A. R. Hallcock, W. A. de Silva, R. M. Gibbon-Monypenny, W. D. Gunaratna, H. S. M. Hoare, H. C. Coeks.
+Government Printer, H. R. Cottle, 850l.
+Assistant ditto, A. C. Richards, 550l.
+Second Assistant ditto, E. Sellayah, 410l.
+Third Assistant ditto, W. Francis Silva, 262l.
+Controller of Revenue, F. G. Tyrrell, C.M.G., 1,800l.
+Assistant Controller, R. B. Naish, 920l.
+Treasurer, W. W. Woods, C.M.G., 1,800l.
+Assistant Treasurer, C. E. Jones, 920l.
+Accountant and Financial Assistant, F. J. Tothill, 880l.
+First Assistant Accountant, F. E. Loos, 720l.
+Second Assistant Accountant, P. F. de Livera, 640l.
+Colonial Auditor, F. G. Morley, 1,500l.
+Assistant Colonial Auditor, O. E. Goonetteleke, 960l.
+Assistant Auditor for Railways, J. J. Jacob, 800l.
+Chief Audit Examiners, A. R. Kale, 450l., V. C. Manicam, D. G. Singarayagam, A. W. Savundranayagam (acting).
+Commissioner of Stamps, W. W. Woods, C.M.G.
+Deputy Commissioner of Stamps, N. E. Ernst, 1,100l.
+
+Government Agencies.
+
+WESTERN PROVINCE.
+
+Government Agent, R. N. Thaine, C.M.G., 1,650l.
+Assistant, Colombo, E. H. Davies, 880l.
+Additional Assistant, Colombo, D. B. Seneviratne, 840l.
+Office Assistant, W. A. Weerakoon, 700l.
+Extra Office Assistant, R. J. Pereira, 600l.
+Assistant Government Agent, Kalutara, C. L. Wickremeesinghe, 1,100l.
+Office Assistant, K. T. S. Gurusinghe, 510l.
+Caled, P. O. S. E. Silva, 450l.
+
+CENTRAL PROVINCE.
+
+Government Agent, H. W. Codrington, 1,550l.
+Assistant Government Agent, Kandy, R. M. Davies, 920l.
+Office Assistant, Kandy, E. R. Sudbury, 800l.
+Cadet, Candy, W. D. Gunaratna, 400l.
+Assistant Government Agent, Malde, W. J. L. Rogers, 1,100l.
+Office Assistant, M. F. de S. Jayaratne, 450l.
+Assistant Government Agent, Nuwara Eliya, W. E. Hobday, 1,150l.
+Office Assistant, C. H. Hartwell, 450l.
+
+* Including 1,500l. entertainment allowance.
+NORTHERN PROVINCE.
+
+Government Agent, J. D. Brown, 1,450L
+Office Assistant, Jaffna, W. C. D. Pentelow, 500L
+Extra Office Assistant, C. Rasananayagam, 540L
+Cadet, Gde Soya, 560L
+Assistant Government Agent, Mannar, L. D. C. Hughes, 920L
+Assistant Government Agent, Mullaitivu, P. Saravananmuttu, 840L
+
+SOUTHERN PROVINCE.
+
+Government Agent, L. W. C. Schrader, Rs. 25,500.
+Office Assistant, K. Vaithianathan, 620L
+Extra Office Assistant, J. C. Janze, 460L
+Assistant Government Agent, Hambantota, V. Coomaraswamy, 1,100L
+Office Assistant, C. Senaratne, 600L
+Assistant Government Agent, Malara, M. K. T. Sandys, 920L
+Office Assistant, C. H. W. Kannangara, 400L
+Cadet, C. V. D. S. Corea, 400L
+
+EASTERN PROVINCE.
+
+Government Agent, R. M. M. Worsley (acting), 1,250L
+Assistant Government Agent, C. J. S. Pritchet, 1,000L
+Office Assistant, Batticaloa, D. C. R. Gunawardena, 540L
+Assistant Government Agent, Trincomalee, H. R. R. Blood, 920L
+Office Assistant, W. G. Vallipuram, 600L
+
+NORTH WESTERN PROVINCE.
+
+Government Agent, T. A. Hodson, 1,500L
+Assistant Government Agent, C. E. Arndt, 840L
+Office Assistant, R. H. D. Manders, 450L
+Extra Office Assistant, H. W. Abeyawardena, 570L
+Assistant Government Agent, Puttalam and Chilaw, S. H. Wadia, 960L
+Office Assistant, Puttalam, C. B. P. Perera, 450L
+Cadet, A. R. Hallock, 400L
+
+NORTH CENTRAL PROVINCE.
+
+Government Agent, E. T. Dyson (acting), 1,250L
+Office Assistant, Anuradhapura, N.W. Morgappah, 580L
+Cadet, H. S. M. Hoare, 400L
+
+PROVINCE OF UVA.
+
+Government Agent, J. R. Walters (acting), 1,200L
+Office Assistant, R. N. Bond, 580L
+Cadet, R. M. Glybon-Monypenny, 400L
+
+PROVINCE OF SABARAGAMUWA.
+
+Government Agent, C. H. Collins (acting), 1,250L
+Office Assistant, W. H. Moore, 500L
+Extra Office Assistant, J. M. de Silva, 480L
+Assistant Government Agent, Kegalla, W. O. Stevens, 960L
+Office Assistant, Kegalla, W. A. de Silva, 400L
+
+Judicial Establishment.
+
+Chief Justice, Sir Stanley Fisher, Kt., 2,500L
+Private Secretary, F. C. van Cuylenburg, Rs. 4,200.
+Senior Puise Justice, Sir G. S. Schneider, K.C., 1,750L
+Private Secretary, C. van Langenburg, Rs. 3,200.
+Puise Justice, T. F. Garvin, K.C., 1,750L
+Private Secretary, H. W. La Brooy, Rs. 3,200.
+Puise Justice, L. G. Dalton, 1,750L
+Private Secretary, T. L. F. Mack, Rs. 3,200.
+Puise Justice, R. W. Laval Grant, 1,750L
+Private Secretary, E. O. Dias Bandaranaike, Rs. 3,200.
+Puise Justice, A. Drieberg, 1,750L
+
+Private Secretary, H. W. R. Weerasuriya, Rs. 3,200.
+Puise Justice, M. T. Akbar, 1,750L
+Attorney-General, L. H. Elphinstone, 1,800L
+Solicitor-General (vacant), 1,550L
+Deputy Solicitor-General, S. Obeyesekere, 1,200L
+Assistant to Attorney-General, L. M. D. de Silva, 1,000L
+Draftsman, A. Dyer Ball, 1,250L
+Assistant, C. A. Brito-Muttunayagam.
+
+Crown Counsel:
+
+G. V. Grenier, 1,000L
+R. F. Dias, 580L
+J. W. R. Ilangakoon, 760L
+M. W. H. de Silva, 720L
+J. E. M. Obeyesekere, 580L
+H. H. Basnayake (acting), 520L
+Mervyn Fonseka (additional Crown Counsel), 600L
+Registrar of Supreme Court, G. O. Grenier, 800L
+First Deputy Registrar of Supreme Court, E. W. Gunaratne, 510L
+Second Deputy ditto, P. W. Vanlangenberg, 380L
+Third Deputy ditto, R. C. Proctor, 320L
+Fourth Deputy ditto, R. L. Perera, 320L
+Fifth Deputy Registrar, C. E. Stork, 320L
+
+DISTRICT OF COLOMBO AND MIDLAND CIRCUIT.
+
+District Judge, Colombo, L. M. Maartensz, 1,550L
+Additional District Judge, Colombo, W. S. de Saram, 1,400L
+Second Additional District Judge, Colombo, V. M. Fernando, 1,100L
+District Judge and Additional Commissioner of Requests, Kandy, W. E. Barber, 1,400L
+Additional District Judge, Kandy, R. S. V. Poulier, 840L
+District Judges, Commissioners of Requests, and Police Magistrates at:
+
+Kurunegala, D. H. Balfour, 1,200L
+Kalutara, N. M. Bharucha, 1,350L
+Avissawella, A. G. Ranasingha, 760L
+Negombo, G. F. Roberts, 1,550L
+Badulla, E. H. Lucotte, M.C., 840L
+Rainapura, M. H. Kantawala, 960L
+Kegalla, S. D. Dhondy, 1,060L
+Halton-Nuwara Eliya, C. F. Ingledow, 920L
+Police Magistrate, Colombo, H. P. Kaufmann, 920L
+Commissioner of Requests, Colombo, W. D. Niles, 900L
+Commissioners of Requests and Police Magistrates at:
+
+Dandagamuwa, S. F. A. Marasinghe, 500L
+Kandy, R. Y. Daniel, 920L
+Avissawella, J. N. Vothavanam (acting), 500L
+Police Magistrate, Gampola, G. L. D. Davidson, 760L
+Kalutara, B. F. Perera, 500L
+Kurunegala, C. E. Arndt, 840L
+Matale and Panevita, E. H. R. Tenison, 760L
+Negombo, L. H. de Alwis (acting), 580L
+Rainapura, W. Sansoni, 580L
+Panadure, S. P. Wickramasingha, 620L
+Gampaha, G. Koch (acting), 620L
+Municipal Magistrate, Colombo, Mervyn Joseph, Rs. 9,300.
+
+SOUTHERN CIRCUIT.
+
+District Judges, Commissioners of Requests, and Police Magistrates at:
+
+Galle, T. W. Roberte, 1,800L
+Tangalla, V. P. Redlich, 920L
+Malara, M. Prasad, 1,100L
+Commissioners of Requests and Police Magistrates at:
+
+Galle, C. E. de Pinto, 960L
+Hambantota, V. Coomaraswamy, 1,100L
+Balapitiya, E. W. Kannangara, 840L
+Malara, C. Sittampalam, 580L
+NORTHERN CIRCUIT.
+
+District Judge and Additional Commissioner of Requests and Police Magistrate, Jaffna, J. C. W. Rock, 1,400L.
+Additional District Judge, Additional Commissioner of Requests and Additional Police Magistrate, Jaffna, J. Joseph (acting), 600L.
+District Judges, Commissioners of Requests and Police Magistrates at:—
+Anuradhapura, A. R. Supramaniam (acting), 540L.
+Batticaloa, G. C. Thambyah, 800L.
+Chilaw, O. L. de Kretser, 1,000L.
+Trincomalee, A. R. Supramaniam (acting), 540L.
+Mannar, L. D. C. Hughes (A.G.A.), 920L.
+Mullaitivu, P. Saravanamuttu, 840L.
+Commissioners of Requests and Police Magistrates at:—
+Jaffna and Kayts, J. Light, 700L.
+Point Pedro and Chavakacheri, L. J. de S. Seneyratas, 680L.
+Chilaw, J. N. Arumugam, 700L.
+Puttalam, N. Moonesinghe, 580L.
+Additional Commissioner of Requests and Police Magistrate, Anuradhapura, E. T. Dyson (G.A.).
+Fiscal, Western Province, The Government Agent, Western Province.
+Deputy Fiscal, R. O. de Saram, 920L.
+
+Customs Department.
+Principal Collector, W. E. Wait, 1,600L.
+Deputy Collector and Landing Surveyor, A. N. Strong, 1,100L.
+Landing Surveyor, Colombo, H. J. L. Leigh-Clarke, 920L.
+Office Assistant and Second Landing Surveyor, R. Aluwihare, 880L.
+Third Landing Surveyor, E. A. G. van der Straaten, 600L.
+Fourth Landing Surveyor, M. M. Anthonisz (acting), 540L.
+Accountant, J. de Vos, 420L.
+
+SOUTHERN PROVINCE.
+Collector, L. W. C. Schrader (G.A.)
+Assistant Collector and Landing Surveyor, C. E. de Pinto (Police Magistrate).
+
+NORTHERN PROVINCE.
+Collector, J. D. Brown (G.A.).
+Assistant Collector and Landing Surveyor, Jaffna, W. C. D. Pentelow.
+Assistant Collector and Landing Surveyor, Mannar, L. D. C. Hughes (A.G.A.).
+Assistant Collector and Landing Surveyor, Mullaitivu, P. Saravanamuttu (A.G.A.).
+
+EASTERN PROVINCE.
+Collector, R. M. M. Worsley.
+Assistant Collector and Landing Surveyor, Trincomalee, H. R. R. Blood.
+Master Attendant, Trincomalee, H. R. R. Blood (A.G.A.).
+Jaffna, J. D. Brown (G.A.).
+Batticaloa, R. M. M. Worsley.
+Hambantota, V. Coomaraswamy (A.G.A.).
+
+Colombo Port Commission.
+Chairman, W. E. Wait.
+Secretary, H. K. Hillery, O.B.E., 1,160L.
+Accountant, A. Chellappah, 570L.
+Assistant Accountant, L. W. E. Wijesikira, 480L.
+Master Attendant, Capt. E. C. Stubbs, 900L.
+Deputy Master Attendant, Lt.-Com. Robinson, 650L.
+Harbour Engineer, G. W. Dodds, A.M.I.C.E., 1,450L.
+Chief Assistant Engineer, A. H. Morgan, 1,500L.
+Assistant Engineers, T. A. Owles, 890L., C. S. Richards, 850L.
+Mechanical Superintendent, H. S. Caswell, 700L.
+
+Excise Department.
+Excise Commissioner, G. S. Wodeman, 1,300L.
+Deputy Commissioner, E. Rodrigo, 1,200L.
+Assistant Commissioner, Central Division, B. de Saram, 700L.
+Assistant Commissioner, Distilleries, G. F. de Livera, 700L.
+Assistant Commissioner, North-Western Division, P. E. Parsons, 700L.
+Assistant Commissioner, Northern Division, S. S. Navaratnam, 700L.
+Superintendents:—
+H. C. R. Anthonisz, Rs. 7,600; H. E. Dias Bandaranayaka, Rs. 7,200.
+Assistant Superintendents:—
+R. G. de Livera, Rs. 5,200.
+T. V. Saravanamuttu, Rs. 5,000.
+J. S. Nichols, Rs. 5,000.
+E. J. Christoffelzal, Rs. 5,000.
+S. D. A. de Kretser, Rs. 5,000.
+J. R. S. Pereira, Rs. 5,000.
+N. S. Sanders, Rs. 5,000.
+D. A. Wijeyewardene (Distillery Officer), Rs. 4,800.
+A. T. A. Evarts, Rs. 4,800.
+C. A. H. Keuneman, Rs. 4,600.
+C. W. Nicholas, Rs. 4,000.
+E. J. Sinnetamby, Rs. 4,200.
+A. Dias Abeyasinghe, Rs. 4,600.
+R. C. Chitty, Rs. 3,600.
+D. C. E. Abeysekere, Rs. 3,600.
+
+Public Works Department.
+Headquarters, Colombo:—
+Director of Public Works, H. B. Loes, A.M.I.C.E., 1,600L.-50L.-1,750L.
+Deputy Director of Public Works, A. H. F. Clarke, 1,350L.
+Assistant Director of Public Works, W. J. Thornhill, A.R.T.C. (Glasgow), 1,250L.
+2nd Assistant Director of Public Works, H. L. Grocock, 1,200L.
+3rd Assistant Director of Public Works, E. W. Bartholomew, 940L.
+Architectural Assistant, A. Woodeson, F.R.L.B.A., 1,200L.
+Engineering Assistant, G. S. Goodman, A.M.I.C.E., 1,200L.
+2nd Architectural Assistant, A. D. Parham, A.R.I.B.A., M.S.A., P.A.S.I., 870L.
+3rd Architectural Assistant, T. N. Wynne-Jones, A.R.I.B.A., M.S.A., 760L.
+Financial Assistant and Accountant, S. E. D. Muller, 800L.
+Office Assistant, L. B. Emmanuel, 540L.
+Assistant Accountant and Store Supervisor, S. Manikavasagar, 480L.
+
+Government Factory, Colombo:—
+Factory Engineer, J. Gray, A.M.I.M.E., M.I.A.E., 1,200L.
+Assistant Factory Engineer, P. G. Macfarlane, M.I.E., A.M.I.M.E., 870L.
+Mechanical Engineer, E. L. Johnson, 780L.
+Provincial Engineers (1,000L. to 1,200L.):—
+E. H. van der Straaten, M.I.C.E.; A. Rothwell; E. W. Cade, M.Inst.M. & Cy.E. (Victoria); F. W. Sproule; D. K. McMinn, A.M.I.C.E.; H. E. de Kretser, A. C. B. Jonklaas, V.D., S. W. Dassanaike, and H. K. de Kreuter, F.C.H., A. H. Nathanielz, A.M.Inst.W.E., M.I.M. & Cy.E., M.R.S.I., A.M.I.C.E.
+Construction Engineer, S. Davies, M.C., 1,080L.
+District Engineers (500L. to 960L.):
+
+S. M. S. Rajasooriya; J. A. Morae; E. J. Peries; O. T. Nettleton, A.M.I.C.E., P.A.S.I.; W. J. Price, A.M.I.C.E.; W. A. Coradine, M.R.S.I.; P. M. Battle, A.M.I.C.E.; R. G. Bartholomew, A.M.I.C.E.; H. P. G. Young, A.M.I.C.E., M.I.S.A.; C. H. Linnell, A.M.I.C.E.; A. J. R. Scharenguivel, A.M.I.C.E.; A. S. Barker, A.M.I.C.E.; C. H. Bradley, M.C., A.M.I.C.E.; F. G. Stevens, A.M.I.C.E.; J. C. Cooper, A.M.I.C.E.; T. H. Leader, A.M.I.C.E.; H. N. Worth, A.M.I.C.E.; W. G. Scott; E. B. Bowen, A.M.I.C.E., P.A.S.I.; C. G. Schokman; S. J. Kirby, A.M.I.C.E., A.M.Inst.M. & Cy.E.; P. M. Norris, A.M.I.C.E.; J. T. Morrison, A.M.I.C.E.; J. L. Longbottom, B.Sc. (London), A.M.I.C.E., P.A.S.I.; G. H. Pritchard, A.M.I.C.E., M.R.S.I.; A. S. Crox; R. A. M. Thunisappah, A.M.I.C.E.; J. M. Adam, B.A., B.A.L., A.M.I.C.E.; M. Jeffery, M.I.M. & Cy.E.; J. T. van Tweel, A.M.I.C.E.; Moses de Silva, A.M.I.C.E.; G. Gilchrist, A.M.I.C.E.; J. A. Varoy, A.M.I.C.E.; M. S. Christoffelsz, A.M.I.C.E.; R. C. Fernando, A.M.I.C.E.; C. W. Dias; J. H. E. de Kretzer; R. G. Leembruggen, B.Sc. (Engineering) London; C. E. Bingham; A. C. Box, A.M.I.M. & Cy.E., A.R.S.I.; E. H. Martin, B.A. (Dublin), A.M.I.C.E., F.R.G.S.; E. L. Ohlmsus; L. P. Stork; A. E. Wijesinghe; A. L. Fretz; H. E. E. Koch. Temporary.—A. W. H. Casinader, A.M.I.C.E.; S. Mahadeva; T. A. Burns, B.Sc. (Engineering); J. Sawimuttu, B.Sc. (Engineering); A. F. Allen; H. E. D. Pearce, B.Sc.(Hon.), A.M.I.C.E., A.M.I.Struct.E.; J. D. Bush, B.Sc. (Birmingham), A.M.I.C.E.; S. Rouse, A.M.I.C.E.; G. L. Davies, B.Sc., A.M.I.C.E.; G. H. Todd, A.M.I.C.E.; E. E. Benet, M.A., A.F.R.A.S.E., A. Inst.N.Arch.; T. P. de S. Munasinghe, A.M.I.C.E.; A. Selvadurai, A.M.I.C.E.; W. I. de Silva.
+
+Building Foreman, S. J. Lines, 525L.
+
+Local Division.
+
+26 Assistant Engineers at Rs. 4,000 to Rs. 7,000.
+29 Inspectors at Rs. 3,000 to Rs. 3,600.
+42 Head Overseers at Rs. 1,700 to Rs. 2,300.
+
+Department of Electrical Undertakings.
+
+Director of Electrical Undertakings, J. S. Pitkeathly, C.I.E., C.V.O., C.B.E., D.S.O., 3,000L.
+Chief Accountant, G. C. Carter, 800L.
+Deputy Chief Engineer, D. J. Wimalasurendra, 1,350L.
+Administrative Secretary, C. J. D. Lanktree, 880L.
+Five Electrical Asst. Engineers at 500L.–960L.
+Three Asst. Electrical Engineers at Rs. 4,000–Rs. 7,000.
+Five Electrical Inspectors at Rs. 1,600 to Rs. 3,300.
+Ten Electrical Inspectors at Rs. 1,700 to Rs. 2,300.
+
+Colombo Lake Development Scheme.
+
+Engineer-in-Charge, L. P. Stork, 600L.
+
+Irrigation Department.
+
+Director of Irrigation, W. Brown, B.Sc., M.I.C.E., 1,550L.
+Deputy Director of Irrigation (vacant), 1,300L.
+Divisional Irrigation Engineer (1,140L. to 1,200L.)—
+B. G. Meaden, 1,200L.
+Divisional Irrigation Engineers (900L. to 1,100L.)—
+O. W. Henman, A.M.I.C.E.
+T. Hamer.
+J. A. Wilson, M.I.Mining E.
+W. H. Biddell, B.Sc. (London), A.M.I.C.E., F.R.G.S.
+J. S. Kennedy, M.C., M.A., B.Sc. (Glasgow), A.M.I.C.E.
+
+Irrigation Engineers (500L. to 900L.)—
+
+E. C. Hillman, M.C., B.Sc. (Birmingham).
+J. H. Wilson, M.C., M.A., B.Sc. (Edin.).
+J. N. Rutherford, A.M.I.C.E.
+L. T. Burgess, B.Eng., M.Eng. (Liverpool).
+John Aitken, A.M.I.C.E.
+F. L. Bruce.
+S. G. Taylor, B.Sc. (Engineering), London.
+A. Webster, A.M.I.C.E.
+
+Temporary Irrigation Engineers—
+
+A. P. Wier, A.M.I.C.E.
+W. A. Guthrie, B.Sc. (Engineering), Birmingham.
+H. W. L. Poole, A.C.G.I., A.M.I.C.E.
+C. M. Marsh, B.Sc. (Engineering), London, A.C.G.I.
+J. H. Amos.
+C. H. Steven.
+D. M. Hodgson.
+W. J. Watson.
+F. R. G. Webb, M.C., B.Sc.
+
+Assistant Irrigation Engineers (Rs. 4,000 to Rs. 7,000)
+
+G. E. Syma, A.M.I.C.E.
+J. L. Casperzz.
+G. C. Bartlett.
+W. T. I. Alaga Ratnam, A.C.E. (Madras).
+B. C. Somanador, E. Goonesinghe, A. W. Kirthisinghe, and L. E. de Silva.
+
+Inspectors.
+
+22 at Rs. 2,640 to Rs. 4,440.
+Inspector (old scheme).
+
+1 at Rs. 2,400.
+
+Sub-Inspectors.
+
+66 at Rs. 1,200 to Rs. 2,520.
+
+Survey Department.
+
+Surveyor-General, A. H. G. Dawson, 1,400L.
+Deputy Surveyor-General, C. R. Lundie, A.M.I.C.E., 1,150L.
+Assistant Surveyor-General, G. K. Thornhill, F.R.G.S., 1,080L.
+Accountant, O. J. H. Nicholas, 720L.
+Superintendent Colombo Observatory, A. J. Bamford, M.C., M.A. (Cantab.), B.Sc. (London), F.R.A.S., F.R.G.S., F.R.Met.S., 1,040L.
+Assistant Astronomer, H. Jameson, B.Sc. (Durham), 780L.
+
+Superintendents of Surveys (12 at 840L. to 1,040L.)—
+
+C. H. Vino, P.A.S.I.; F. J. Salmon, M.C., A.C.G.I., A.I.M.M., F.R.G.S.; D. Bloxham, P.A.S.I.; L. G. O. Woodhouse; P. J. May, F.S.I.; R. W. E. Ruddock; K. W. S. Mitchell, A.I.C.E.; F. L. Baker, P.A.S.I.; H. P. Harrison, F.S.I.; H. O. Clark, M.C., F.S.I.; C. C. S. Stephenson, P.A.S.I., F.R.G.S.; A. E. Dirckze.
+
+Forty Assistant Superintendents of Surveys (at 450L. to 810L.)—
+
+E. O. de Fonseka; S. Easten, M. Eng. (Sheffield University); L. E. S. Mitchell; J. Ferguson, A.M.I.C.E.; C. W. F. Wavell, F.S.I.; R. J. Johnston, P.A.S.I.; T. Y. Price, M.A. (Cantab.); W. A. Davis, P.A.S.I.; P. Moriarty; L. M. Symes; P. Mc. C. Thornhill; E. Keyt; W. H. T. Bartlett, B.A.; A. L. Grice; I. F. Wilson, M.C.; G. B. King, B.Sc. (Engineering), London, A.C.G.I.; E. B. Dissanaike; J. W. Senanayake; R. L. Brohier; H. T. W. Jayasekera; C. A. d'With Barbut; V. Rasaratnam; A. C. James; H. S. Perera; O. S. Bird, M.A. (Oxon); W. B. Paterson, C.S.M.; F. S. Tippet, B.A. (Oxon); W. W. Williams; H. A. S. Smith, B.A. (Oxon); J. K. Clegg, B.A. (Oxon); J. L. T. E. Dassanaike, B.Sc. (Lon.); E. A. Jayarajasingham, B.Sc. (Lon.); D. B. Ellapola, B.Sc. (Lon.); S. Karthugese, B.Sc. (Lon.); J. W. Vandorn Driessen; V. A. Wendt; J. E. Jackson; S. W. Atukorale.
+Assistant Superintendents (Headquarters), 450l. to 600l.):
+
+H. W. Johnson, W. S. Maddams, M.B.E., and E. E. O'Leary.
+
+Superintendent of the Instrument Department, G. H. Tabor, 450l. to 600l.
+
+Surveyors —
+Grade I.—30 at Rs. 4,600 to Rs. 6,000.
+Grade II.—60 at Rs. 2,880 to Rs. 4,440.
+Grade III.—200 at Rs. 1,200 to Rs. 3,600.
+
+Land Settlement Department.
+
+Settlement Officer, M. T. Archibald (acting), 1,300l.
+Assistants Settlement Officers, N. J. Luddington, 1,150l.; A. H. Egan, 1,100l.; H. E. Janz, 920l.; R. Jones-Bateman, 920l.; R. H. Bennett, 840l.; P. J. Hudson, 840l.; F. Leach, 760l.
+
+Department of Mineralogy.
+
+Government Mineralogist, J. S. Coates, 1,200l.
+
+Registrar-General's Department.
+
+Registrar-General, C. Coomaraswamy (acting), 1,300l.
+Assistant Registrar-General, E. R. de Silva, 480l.
+2nd Assistant Registrar-General, P. W. Ratnatunga, Rs. 5,600.
+3rd Assistant Registrar-General, E. A. Jayasekera, Rs. 4,500.
+
+Post Office.
+
+Postmaster-General and Director of Telegraphs, G. W. J. Praat (acting).
+Assistant Postmaster-General, G. W. J. Praat, 1,150l.
+Assistant, Post and Telegraph Dept., A. E. P. Wijogunewardene, 510l.
+Superintendent of Mails, E. S. Dissanaike, 540l.
+Accountant, H. J. Lovett, 1,120l.
+Assistant Accountants, D. M. Amerasinghe, 540l. and T. D. Anderson, 420l.
+Chief Engineer of Telegraphs, E. Harper, M.I.E.E., Mem. Institute Radio Engineers, 1,260l.
+Assistant Chief Engineer, J. Penman, A.M.I.E.E., 960l.
+Divisional Engineers, J. Shillitoe, 810l.; H. S. Bryant, 780l.; A. T. Kingston, M.B.E., 760l.; R. P. Amerasinghe, A.M.I.E.E., 660l.
+Assistant Engineers, H. J. White, 600l.; G. A. Platt, 600l.; David Lusk, 560l.
+Superintendent Telegraph and Telephone Traffic, A. G. Tilkekaratne, A.M.I.E.E., 970l.
+Assistant Superintendent of Telegraph and Telephone Traffic, W. D. Fernando, 540l.
+
+Education Department.
+
+Director, L. Macrae, M.A. (Aberdeen), M.A. (Cantab.), 1,550l.
+Assistant Director, L. McD. Robison, B.A. (Manchester), 1,250l.
+Additional Assistant Director, L. L. Hunter, 1,000l.
+Office Assistant, E. E. Davidson, 600l.
+Accountant, H. E. Grenier, 570l.
+Chief Inspector of English Schools, C. A. Wicks, M.A. (Cantab.), 1,000l.
+Divisional Inspectors of Schools, E. H. Vauderwall, 870l.; H. S. Perera, 810l.; S. N. Godfrey, 660l.
+District Inspector of Schools, E. de La Harpe, Rs.9,000.
+Ditto, L. J. Gratien, B.A. (Lond.), Rs. 7,500.
+Ditto, W. R. Watson, B.A., B.Sc. (Calcutta), Rs. 7,500.
+Ditto, J. C. Wirakoon, Rs. 6,000.
+Inspectress of Girls' English Schools, Miss R. McLeod, 575l.
+Inspector of Art, C. F. Winzer, 600l.
+Inspectress of Needlework, Miss F. Moreira, Rs. 6,000.
+Chief Inspector of Vernacular Schools, W. Charles de Silva, Rs. 6,800.
+
+University College.
+
+Principal, R. Marrs, M.A. (Oxon), C.I.E., 1,850l.
+Professor of English Language and Literature, Leigh Smith, M.A. (Durham), 1,150l.
+Professor of Classics, S. Whiteley, M.A. (Oxon.), 800l.
+Professor of Mathematics, C. Suntharalingam, B.A. (Oxon), B.Sc., 1,150l.
+Professor of Modern History and Economics, S. A. Pakeman, M.C., M.A. (Cantab.), 1,150l.
+Professor of Physics, J. W. Hinton, M.Sc. (University New Zealand), 1,000l.
+Professor of Chemistry, W. N. Rae, M.A. (Cantab.), F.L.C., F.C.S. (London), 1,100l.
+Professor of Botany and Director of Biological Laboratories, N. G. Bali, 960l.
+
+Royal College.
+
+Principal, Major H. L. Reed, M.A. (Cantab.), 1,000l.
+Classics Master and Vice-Principal, L. H.W. Sampson, B.A. (Oxon), F.R.G.S., 810l.
+Science Master, H. J. Wijesinghe, Rs. 6,000.
+Mathematical Master, M. M. Kulasekeram, B.Sc. (Lond.), Rs. 6,000.
+
+Technical Schools.
+
+Principal, F. E. Kennard, B.Sc. (Lond.), M.I.E.E., 900l.
+
+Training College.
+
+Principal, A. S. Harrison, M.Sc. (Manch.), 1,000l.
+Vice-Principal, G. E. Harding, B.A. (London), 780l.
+Lecturer, J. Bleakley, M.Sc. (Manchester), 700l.
+Assistant Lecturer, A. J. R. Vethavanam, B.A. (Calcutta), Rs. 3,000 to Rs. 6,000.
+Assistant Lecturers, R. A. Krickersbeck (acting) and E. C. T. Holsinger (acting), Rs. 3,000 to Rs. 6,000.
+Instructor and Inspector of Manual Training, F. H. Bergen, 700l.
+Lecturer to Infant Teachers, Miss E. D. Arnold, 525l.
+Lecturer to Women Students, Miss E. M. Gould, 500l.
+
+Department of Agriculture.
+
+Director of Agriculture and Registrar of Co-operative Societies, F. A. Stockdale, M.A. (Cantab), F.L.S., 1,550l.
+Office Assistant and Assistant Registrar of Co-operative Societies, J. L. Gnanamuttu, 480l.
+
+Research Branch —
+Entomologist, J. C. Hutson, B.A. (Oxon), Ph.D. (Mass.), 900l.
+Economic Botanist, L. Lord, M.A. (Oxon), 630l.
+Systematic Botanist, A. H. G. Alston, 560l.
+Agricultural Chemist, A. W. R. Joachim, B.Sc. (London), A.I.C. Dip. Agr. (Cantab.), 560l.
+Mycologist, W. Small, 1,000l.
+Assistant Mycologist, M. Park, A.R.C.S. (Lond.), 690l.
+Assistant Mycologist, J. C. Haigh, B.Sc. (Lond.), A.R.C.S. (Lond.), A.D.C.T.A. (Trinidad), 530l.
+Assistant Entomologist, F. P. Jepson, M.A. (Cantab.), F.E.S., M.S.E.A.C., 840l.
+Manager, Experiment Station, Peradeniya, T. H. Holland, M.S.E.A.C., 780l.
+
+Inspectorate Branch —
+Inspector for Plant Pests and Diseases (Central), N. K. Jardine, F.E.S. (Lond.), F.E.S. (Amer.), 720l.
+Inspector for Plant Pests and Diseases (Southern), W. C. Lester Smith, 800l.
+Inspector for Plant Pests and Diseases (North Western), C. N. E. J. de Mel, B.Sc. (Lond.), M.S.E.A.C., 660l.
+Agricultural Branch:
+Divisional Agricultural Officer, Central, F. Burnett, M.C., M.A. (Oxon).
+5 Divisional Agricultural Officers, 500L to 960L; G. Harbord, Dip. Agr. (Wye); G. E. J. Hulugalle; W. P. A. Cooke.
+Manager, Experiment Station, Anuradhapura, H. A. Dentrom, Rs. 5,700.
+Gardens Branch:
+Superintendent of Botanic Gardens, Curator, Royal Botanic Gardens, Peradeniya, T. H. Parsons, 590L and quarters.
+Curator, Hakgala Gardens, Nuwara Eliya, J. J. Nock, 506L and quarters.
+Rubber Controller, H. A. Burden, 1,450L.
+
+Department of Statistics and Office Systems.
+Director of Statistics and Office Systems, L. J. B. Turner, 1,400L.
+
+Department of Indian Immigrant Labour.
+Controller, H. A. Burden, 1,450L.
+
+Colombo Museum and Fisheries Department.
+Director of the Colombo Museum and Marine Biologist, J. Pearson, D.Sc. (Liverpool), B.Sc. (Manchester), F.R.S.E., F.L.S., 1,200L.
+Librarian of the Colombo Museum, A. N. Weinman, Rs. 3,000.
+Assistant in Systematic Entomology, G. M. R. Henry, 360L.
+Assistant Marine Biologist, A. H. Malpas, 810L; P. E. P. Daraniyagala, B.A. (Cantab), M.A. (Harvard), 600L.
+Marine Superintendent, Lt.-Commander E. L. Pawsey, R.D., R.N.R., 660L.
+
+Forest Department.
+Conservator of Forests, J. D. Sargent, B.A (Oxon), Diploma of Forestry (Oxon), 1,550L.
+Deputy Conservators of Forests, F. J. S. Turner, D.D.R., Advanced Forestry and Forest Botany (Edin.); A. B. Lushington, D.D.R., Special Course of Forestry and Botany at Oxford, W. W. Fyres, D.D.R., Special Course of Forestry and Botany at Oxford.
+Assistant Conservators, H. C. King, Diploma of Forestry (Oxon), A. J. Plummer, B.A. (Oxon), Diploma of Forestry (Oxon), G. Spencer, B.A. (Cantab), Diploma of Forestry (Cantab), W. M. McNeill, B.A. (Oxon), Diploma of Forestry (Oxon), H. E. C. Lushington (Ed. Univ.), P. Godfrey-Faussett, B.A. (Cantab), Degree of Agriculture and Forestry (Cantab), E. C. Fernando; A. Hensman; C. A. H. P. Jayawardena, B.A. (Oxon.), Diploma of Forestry, Oxford, 500L to 900L.
+Extra Assistant Conservator, D. W. Abeta Goonesekera, 510L.
+Accountant, D. H. de S. W. Weeraratne, 480L.
+
+Medical Department.
+Director of Medical and Sanitary Services, J. F. E. Bridger, 1,750L.
+Deputy Director of Medical and Sanitary Services, V. Vanlangenberg, 1,300L.
+Assistant Director of Medical Services, R. G. Jayatilaka, 1,050L.
+Assistant Director of Sanitary Services, Dr. S. T. Gunasekera, 1,150L.
+Office Assistant to Director of Medical and Sanitary Services, G. Ma. C. Rennie, M.C., 880L.
+Inspecting Medical Officers, H. L. Ludovici, L. A. Prins, A. L. Pereira, 700L to 960L.
+Accountant, W. H. D. E. Pereira, 680L.
+Assistant Accountant, J. L. Stanislaus, 450L.
+Director Bacteriological Institute, L. Nicholls, 1,200L.
+Medical Entomologist, H. F. Carter, 1,000L.
+Bacteriologist, E. Burgess, 960L.
+
+Assistant Bacteriologist, S. Chelliah, Grade II., M.O., 400L plus allce. Rs. 1,720.
+Medical Superintendent, Lunatic Asylum, L. D. Parsons, 1,100L plus allce. Rs. 1,125.
+Medical Superintendent, Leper Asylum, R. Pestonjee, 960L.
+Medical Superintendent, General Hospital, H. U. Leembruggen (acting), 600L.
+Medical Officer, King Edward VII. Anti-Tuberculosis Institute, C. I. de Silva, 850L.
+
+Provincial Surgeons (700L to 960L):
+C. H. K. Scharenguivel.
+E. P. Asarappa.
+F. R. Alles.
+E. W. Scharenguivel.
+F. Keyt.
+M. J. Jinadasa.
+S. Subramaniam.
+S. P. Joseph.
+A. A. M. Weerapperumall.
+
+Senior Medical Officers of Health (700L to 960L), S. F. Chellappa, M. de Costa.
+
+1st Grade Medical Officers (480L to 600L):
+L. A. E. de Zilwa, S. C. Paul, E. Garvin Mack, Miss C. E. Anderson, D. Schokman, H. M. Peiris, A. M. de Silva, R. L. Spittell, S. Civasithamparam, A. E. Herat, H. E. Ekanayake, V. A. Gunatilake, W. E. de Silva, E. C. Spaar, L. C. Wijesinghe, W. S. Ratnavale, D. T. de Kreutzer, F. E. R. Bartholomeusz, P. H. Perera, J. B. F. Caldera, R. W. Willenberg, W. Wijeyegunawardana, W. H. Wijesaike, W. F. H. Perera, E. C. Alles, E. A. Blok, A. C. A. Fernando, K. K. Jacob, C. G. Kurien, A. T. Kuriyen, E. S. Godlisb, S. E. Aldons, K. T. Nath, P. K. K. Naidu, T. S. Nair, J. M. Somasundaram, K. Ponniash, P. B. Fernando, D. S. V. Walpole, K. Rajah, J. B. Rodrigo, H. C. van Dort, S. Ponniash, D. B. de Alwis, S. Thambipillai, D. D. S. Outechong, J. P. Subramaniam, A. Chellappa, C. Sabapathi, C. Fernando, H. E. Schokman, S. F. Wickremasingha, H. Amarasingha, C. Kandiah, T. K. Jayaram, A. B. Jayasuriya, V. Gabriel, S. de Vos, K. Pootathamby, E. W. Arndt, E. L. Christoffelz, W. Samarasingha, C. D. Wickremasingha, I. E. Meier, V. B. Vandort, S. Chelliah, C. F. Deutrom.
+
+280 Medical Officers 2nd Grade, 200L to 450L.
+5 Medical Officers of Health, Grade I (500L to 775L).
+16 Medical Officers of Health, Grade II (275L to 450L).
+
+Superintendent, Civil Medical Stores, H. R. Thomas, 600L.
+
+Ceylon Medical College.
+Principal, Dr. J. F. E. Bridger, 1,700L.
+Registrar and Professor of Physiology, F. O'B. Ellisian, 920L.
+Lecturer on Anatomy, A. G. Smith, 800L.
+
+Government Analyst's Department.
+Government Analyst, C. T. Symons, 1,200L.
+Deputy Government Analyst, J. V. Collins, 630L.
+
+Veterinary Department.
+Veterinary Surgeon, G. W. Sturgess, Rs. 11,250.
+
+Police.
+Inspector-General of Police, H. L. Dowbiggin, 1,550L.
+Deputy Inspectors-General, 1,000L to 1,200L, D. V. Altendorf, 1,000L, A. G. Gottelier.
+Superintendents, Grade I. (780L to 1,000L), W. Ludovici, R. G. B. Spicer, M.C., Capt. E. F. L. Wright, R. J. Tyler, P. N. Banks, A. I. Sherringham, H. N. Wood, W. C. C. King, J. D. Aitken, C. G. Pigford, G. Manwaring, J. E. Bennet, B. Langran, G. H. Bromley.
+
+Superintendents, Grade II. (640L to 760L), G. H. Ferguson, J. Ludovici, G. K. Pippet, G. S. Baker, A. Jackson, W. A. Muller, Capt. W. T. Brindley, Capt. S. G. Notley, M.C.
+
+Assistant Superintendents (460L to 620L), M. H. Ratton, A. Peries, A. S. Eliatamby, J. Deheragoda, C. B. A. Roberts, J. R. C. Bantock, D. J. G. Hennessy, P. P. Wickramasuriya, R. J. Weerasignhe, H. R. de Silva.
+
+Prisons.
+
+Inspector-General of Prisons, A. F. G. Walker, 1,250L.
+1st Assistant Superintendent of Prisons, C. C. Schokman, 850L.
+2nd Ditto, J. Lambert, 600L.
+3rd Ditto, C. P. Brohier, 500L.
+4th Ditto, G. V. F. Willie, 400L.
+
+Government Stores Department.
+
+Colonial Storekeeper, John Gibb, 850L.
+1st Assistant Colonial Storekeeper, J. W. Warby, 650L.
+2nd Ditto, H. M. Peiris, Rs. 4,800.
+
+Railway Department.
+
+(Offices, Colombo.)
+
+General Manager, T. E. Dutton, M.Inst.T., 1,600L to 1,750L.
+Deputy General Managers, 1,150L to 1,300L, E. W. Head, M.I.Mech.E., M.I.Loco.E.(Operating); J. M. Orkney, A.M.Inst.T. (Administrative); W. C. D. Davey (Commercial).
+
+Assistants to General Manager, 3 at 760L to 1,000L, and 1 at 450L to 720L, R. F. Goonaratne, S. F. Amerasinghe, J. G. Smith, P. T. P. Gunawardene.
+
+Mechanical Engineer, A. S. Bobby, M.L.I.E., 1,100L.
+
+Works Superintendent (Loco.), R. J. Armstrong, 780L.
+
+Works Superintendent (Carriage and Wagon), R. V. Williams, 780L.
+
+Drawing Office Assistant, N. McLeod, 600L.
+
+Divisional Transportation Superintendents, 1,000L to 1,100L, F. C. French, M.I.Mech.E., W. G. Hills, A.M.Inst.T., W. R. Wild, A.M.I.Mech.E.
+
+Chief Accountant, W. T. A. Gentle, 840L to 1,120L.
+Deputy Chief Accountant, G. E. W. Janzus, 680L to 920L.
+1 Assistant Accountant, Class III, B. A. Muttunayagam, 540L to 720L.
+3 Assistant Accountants, Class IV, B. Abeywardena, M. Perera, E. A. Winn, 420L to 570L.
+
+Engineer, Way and Works, G. E. Hooper, A.M.I.C.E., 1,300L.
+
+Railway Storekeeper, J. E. Hancocks, 700L to 850L.
+
+Chief Construction Engineer, F. W. Bakewell, M.I.C.E. (acting), 1,300L.
+
+Chief Assistant Construction Engineer, W. J. Shelley, M.I.C.E., 1,200L.
+
+Archaeological Department.
+
+Archaeological Commissioner, A. M. Hocart, 1,200L.
+
+Ecclesiastical.
+
+Church of England:—The Right Rev. M. R. Carpenter Garnier, Bishop of Colombo.
+
+Presbyterian Church:—
+
+Rev. C. V. A. MacEchern, M.A., St. Andrews, Colombo.
+Rev. D. Tweed, B.A., Rev. W. C. Fleming, and Rev. D. E. Joseph, Wolvendal Church, Colombo, and branch Churches at Bamabalapitiya Welleswaite, Dehiwala, Regent Street, and Maligakanda.
+
+Dutch Reformed Church:—Galle, Rev. A. Vanderberg; Matale, Rev. G. Francke.
+
+Roman Catholic Church:—The Most Rev. Dr. A. Coudert, O.M.I., Archbishop of Colombo.
+
+Foreign Consuls.
+
+America—Stillman W. Eells (Consul de Carriere), John H. Williams (Vice-Consul).
+Argentina Republic—H. P. G. Maddocks.
+Austria—Austrian Consul-General in Bombay in charge.
+Belgium—S. Stansby.
+Bolivia—W. E. Mitchell, F. A. W. Mitchell (acting).
+Brazil—American Consul (acting provisionally).
+Chile—F. Dupuy (acting).
+Cuba—American Consul (acting).
+Denmark—Kai Neilson.
+Finland—T. E. Wagner (Vice-Consul).
+France—F. Dupuy (Consul de Carriere).
+Germany—Dr. P. Schwarz (Consul de Carriere), Fritz Hornemann (acting).
+Italy—Dr. Gino Scarpa.
+Japan—Tomoji Jo (Consul de Carriere), C. Mogaki (acting).
+Latvia—H. L. de Mel, C.B.E., R. F. S. de Mel (acting).
+Netherlands—L. Vandervoorde, H. de Wildt (acting).
+Norway—E. B. Creasy (Colombo), D. I. Durham (Galle).
+Panama—American Consul (acting).
+Peru—H. Tarrant.
+Portugal—T. W. Hockley.
+Spain—A. N. L. Clark, R. H. Hall (acting).
+Spain—T. W. Hockley (Vice-Consul).
+Sweden—S. P. Hayley.
+Switzerland—T. E. Wagner.
+Turkey—American Vice-Consulate in charge of Turkish archives and property, but do not perform any services on behalf of Turkish nationals.
+Venezuela—C. D. Carola.
+
+Military and Naval Officers.
+
+Brigadier Commanding Troops, Ceylon, Colonel A. C. Girdwood, C.B., C.M.G., D.S.O.
+District Intelligence Officer, Colombo, Major St. G. F. G. Caulfield, R.N.
+Commanding Royal Artillery, Lieut.-Colonel W. B. G. Barne, C.B.E., D.S.O.
+Commanding Royal Engineers, Lt.-Colonel H. G. Gandy, D.S.O., O.B.E.
+Commanding Royal Army Service Corps, Major V. O. Beuttler, D.S.O., A.M.I.M.E.
+Chief Ordnance Officer, Captain A. R. Brown.
+Command Paymaster, Captain R. G. Stanham.
+Senior Medical Officer, Lieut.-Col. C. D. Myles, O.B.E., M.B.
+
+Ceylon Defence Force.
+
+Commandant, Colonel A. E. Andrews, O.B.E., 600L.
+Staff Officer, Captain R. H. Welch, D.S.O., 850L.
+Adjutant C.M.R. and C.P.R.C., Captain W. Honywood, 800L.
+Adjutant C.L.I., Captain H. C. N. Trollope, D.S.O., M.C., 800L.
+Quartermaster C.D.F., Capt. E. T. Fulcher, 600L.
+Civil Master Armourer, Lt. S. R. Spicer.
+Veterinary Officer, Capt. G. W. Sturgess, C.M.R.

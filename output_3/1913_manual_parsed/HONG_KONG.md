@@ -1,0 +1,567 @@
+HONG KONG.
+
+Situation and Area.
+
+Hong Kong is one of a number of Islands situated off the south-eastern coast of China, at the mouth of the Canton River, and lies about 40 miles east of Macao, 91 miles south of Canton, between 22° 9' and 22° 17' N. lat., and 114° 5' and 114° 18' E. long. The island is an irregular ridge, stretching nearly east and west; its broken and abrupt peaks rising to the height of nearly 2,000 feet above the sea level. Its length is about 11 miles, its breadth from 2 to 5 miles, its area about 32 square miles. It is separated from the mainland of China by a narrow strait, known as the Lyemun Pass, which does not exceed half a mile in width. The opposite peninsula of Kowloon (24 square miles) was ceded to Great Britain by a Treaty entered into by Lord Elgin in 1861 with the Government of China, and now forms part of the Colony; which also includes Stonecutter's Green, Aplechow, Middle, Round, and other islets.
+
+In 1898 an agreement was concluded with the Chinese Government for the extension of Hong Kong territory by an area adjacent to British Kowloon, in the province of Kwong-tung, including Mira Bay and Deep Bay, this area to be leased for 99 years; a stipulation was included that within the walled city of Kowloon (which lies outside of British Kowloon) the Chinese officials then stationed there should continue to exercise jurisdiction except so far as might be inconsistent with the military requirements for the defence of Hong Kong, but that within the remainder of the newly-leased territory Great Britain should have sole jurisdiction. In 1899 the Chinese officials ceased to exercise jurisdiction within Kowloon City, which thereafter, by Her late Majesty's Order in Council, was incorporated in the leased territory and became subject to British rule. The area of the mainland and Islands leased is about 359 square miles. A careful survey of the territory was completed in 1904. This new territory has its headquarters at Tai Po on an arm of Mira Bay. A District Officer, who performs police and magisterial duties, and an Assistant District Officer, reside there.
+
+General Description.
+
+The waterways of the Colony form one of the most magnificent harbours in the world, having an area of ten square miles. The granite hills which surround it rise between 2,000 and 3,000 feet high, the whole offering a coup d'œil which blends the wild scenery of Scotland with the classic beauty of Italy. The city of Victoria extends for four miles at the base of the hills which protect the south side of the harbour. Being built on the slope of the hills facing the sea, the general aspect of the town is perhaps more striking and picturesque from the water than that of any other city in the east, whilst many of the streets are shaded with well-grown and handsome trees. On the Praya West Reclamation, completed in 1903, some new and handsome buildings stand, and others are in course of erection.
+
+The rainfall for 1911 was 90·55 inches as compared with 70·12 in 1910, and 75·72 in 1909. The average for the period 1884-1908 was 84·44 inches. In 1910 the mean maximum temperature ranged from 87·2° in June to 63·1° in January, and the mean minimum temperature from 79·7° in June to 55·9° in January. Typhoons are prevalent during the months July to October.
+
+History.
+
+The Colony, then a desolate island, sparsely inhabited by fishermen, was ceded to Great Britain in January, 1841; the cession was confirmed by the Treaty of Nankin, in August, 1842; and the charter bears date 5th April, 1843. The additions subsequently obtained on the mainland have been noted above.
+
+Hong Kong did not become of much commercial importance until the discovery of gold in Australia, in 1851, and the consequent Chinese emigration. Its trade has gradually increased with the opening up of China to foreign trade.
+
+Large local banking, dock, steamboat, and insurance companies were established between 1865 and 1872, and the trade was greatly increased by the opening of the Suez Canal.
+
+The city is the depot for an incessant flow of Chinese emigration and immigration, the number in 1911 being 285,459 (principally to and from the Straits); emigrants, 135,565; immigrants,
+149,894, excluding to and from China ports. The increase in emigration as compared with last year may be accounted for by the largely increased emigration to the Federated Malay States to provide labour for the Rubber plantations.
+
+Industry.
+
+The position of the island has made it a centre of trade in many kinds of goods. Amongst the principal are opium, sugar, flour, salt, earthenware, oil, amber, cotton, and cotton goods, sandalwood, ivory, betel, vegetables, live stock, granite, &c. &c. The transactions of the tea and silk trade are largely controlled by Hong Kong firms. There are many manufactories, which are rapidly increasing in number and importance, producing rope, sugar, rum, beer, paper, vermilion, sauce, bricks, tiles and cement, bamboo work, and stores of every description for the supply of shipping. There is a considerable boat-building industry chiefly in the hands of Chinese.
+
+The natural products of Hong Kong are few and unimportant. There is little land suitable for tillage, and nothing is grown but a little rice and some vegetables near the outlying villages. There are large granite quarries, both on the island and in Kowloon. A bed of fire clay exists at Deep Water Bay, and bricks and earthenware pipes are manufactured from it. A dairy farm supplies fresh meat, poultry, eggs and milk. The fishing in the waters of the Colony is good and is a source of livelihood to a vast number of Chinese.
+
+The new Territories have extensive cultivable land, on which is grown sugar, rice, vegetables, lychees, pineapples, &c. The cultivation is entirely in the hands of the Chinese villagers and it is doubtful whether European enterprise would be successful. A very rich deposit of iron has been found in the hills, and promises to be very remunerative.
+
+Shipping.
+
+Hong Kong being a free port, it is not possible to give a correct return of imports and exports, but the enormous extent of the trade with which it is connected may be approximately estimated from the amount of shipping which has steadily grown, with one or two slight fluctuations, for over twenty years.
+
+The total tonnage entering and clearing during the year 1911 amounted to 36,179,152 tons, being a decrease, compared with 1910, of 355,209 tons.
+
+There were 272,465 arrivals of 18,092,625 tons, and 271,105 departures of 18,096,517 tons.
+
+Of British ocean-going tonnage 3,798,156 tons entered, and 3,791,839 tons cleared.
+
+Of British river steamers 2,057,028 tons entered, and 2,059,708 tons cleared.
+
+Of foreign ocean-going tonnage 3,957,877 tons entered, and 3,959,763 tons cleared.
+
+Of foreign river steamers 368,840 tons entered, and 367,217 tons cleared.
+
+Of steamships under 60 tons trading to ports outside the colony, 64,721 tons entered, and 65,371 tons cleared.
+
+Of junks in foreign trade 1,286,807 tons entered, and 1,285,781 tons cleared.
+
+Of steamships under 60 tons plying within the waters of the Colony 5,490,995 tons entered and 5,490,995 tons cleared.
+
+Of junks in local trade 1,068,211 tons entered, and 1,065,843 tons cleared.
+
+Thus in Foreign Trade:
+
+| Class of Vessels | Tonnage | Per cent. |
+|------------------|---------|----------|
+| British ocean-going vessels represented | 32·9 |
+| Foreign ocean-going vessels represented | 34·3 |
+| British river steamers represented | 17·8 |
+| Foreign river steamers represented | 3·2 |
+| Steamships not exceeding 60 tons represented | 0·6 |
+| Junks represented | 11·2 |
+| Total | 100·0 |
+
+While in Local Trade:
+
+| Class of Vessels | Tonnage | Per cent. |
+|------------------|---------|----------|
+| Steamships not exceeding 60 tons represented | 83·8 |
+| Junks represented | 16·2 |
+| Total | 100·0 |
+
+A comparison between the years 1910 and 1911 is given in the following table.
+
+| Year | Tonnage | No. |
+|------|---------|-----|
+| 1910 | 2,100,887 | 22,334 |
+| 1911 | 23,160,256 | 44,978 |
+
+| Class of Vessels | Tonnage | No. |
+|------------------|---------|-----|
+| British ocean-going vessels | 4,202 | 7,580,985 |
+| Foreign ocean-going vessels | 4,312 | 7,017,940 |
+| British river steamers | 6,483 | 4,116,736 |
+| Foreign river steamers | 1,334 | 736,067 |
+| Steamships under 60 tons (foreign trade) | 3,153 | 130,992 |
+| Total foreign trade | 21,170 | 2,572,688 |
+| Steam launches plying in Waters of Colony | 40,714 | 466,014 |
+| Junka, foreign trade | *10,436 | 2,387,871 |
+| Grand Total | 647,184 | 36,634,361 |
+
+* Including 21,050 Conservancy and Dust Boats of 1,540,984 tons.
+† Including 13,980 Conservancy and Dust Boats of 814,292 tons.
+‡ Decrease owing to a number of smaller sized launches being employed.
+§ Small decrease in tonnage owing to larger sized launches being employed.
+
+† Except as regards importation of intoxicating liquors.
+Docks.
+
+Hong Kong is well provided with dock accommodation. The Hong Kong and Whampoa Dock Company, who were aided by two loans from the British Government in 1864 and 1885, under the Colonial Docks Act, have three dry docks and two slips at their Kowloon establishment, one dry dock at Mong Kok Tsui, on the western side of the Kowloon Peninsula, and two at Aberdeen, on the south side of the island of Hong Kong. The Admiralty have built a large dock in the Naval establishment in the middle of the City of Victoria, and Messrs. Butterfield & Swire a still larger one at Quarry Bay, just inside the Lyeemun Pass.
+
+Besides these there are several building slips and repairing shops owned by Europeans and Chinese in various parts of the Colony.
+
+Currency and Banking.
+
+The currency of Hong Kong consists of the following coins (vide Order in Council, 2nd Feb., 1896):
+
+1. The silver dollar of Mexico.
+2. British dollar.
+3. The Hong Kong dollar, half-dollar, and 20-cent, 10-cent, and 5-cent pieces, issued from the Hong Kong Mint (1866-68).
+4. Half-dollars, 20-, 10-, and 5-cent pieces, imported from England, and coined at the Royal Mint and Birmingham Mint.
+5. Copper coins representing one-hundredth part of the dollar (called one cent), and one-thousandth part of the dollar (mil or cash), imported from England.
+
+There were issued from the Hong Kong Mint 2,108,054 dollars and 58,587 half-dollars; and 20-, 10-, and 5-cent pieces to the nominal value of $402,671. There were obtained from England, and put into circulation up to 31st Dec., 1908, subsidiary coins (which now include half dollars) to the nominal value of $43,999,830, but of these coins to the value of $5,527,459 have since been withdrawn.
+
+The coins issued from the Hong Kong Mint are never met with in the Colony now, and of the coins imported from England it is estimated that not more than 10 per cent. remain in the Colony.
+
+A scheme was approved in 1903 for the payment of the higher and non-clerical officers in sterling, to be converted into dollars locally, according to a monthly average rate of exchange. Existing higher officers had the option of adopting the new scale, while those who preferred to retain their dollar salaries continue to draw exchange compensation—i.e., an allowance in dollars sufficient to make up the difference between the exchange value of the dollar and a dollar equal to 3s., with certain privileged rates for drawing leave salary and pension at home. The maximum exchange value of the dollar for the payment of these salaries was in 1907 fixed at 2s.
+
+There are six principal banks, Chartered Bank of India, Australia, and China, Hong Kong and Shanghai Banking Corporation, National Bank of China, Limited, Mercantile Bank of India, Limited, International Banking Corporation, and the Yokohama Specie Bank, of which the first three had a note circulation of $18,410,164 on 31st December, 1910. There is no savings bank under Government control, but one conducted by the Hong Kong and Shanghai Banking Corporation. The Comptoir National d'Escompte de Paris has an agency in the Colony.
+
+Local weights and measures are the following:
+
+1 tael = 14 oz.; 1 picul = 133½ lbs. (avoirdupois); 7½ catties = 1 imperial gallon; 1,000 Chinese cash = 1 dollar.
+
+Means of Communication.
+
+Hong Kong is extremely well situated as regards telegraphic communication, in all directions, with all parts of the world. The Eastern Extension Telegraph Company (British) by means of two cables to Singapore, via Labuan and Cape St. James respectively, provide good connections with Europe, via India, with Australasia and with the other British Colonies and possessions. By their cable to Manilla connection is made with the direct American cable, thence to San Francisco. Two cables to Shanghai, belonging respectively to the Eastern Extension and to the Great Northern (Danish) Companies, via Foochow and Amoy respectively, give a good connection with Shanghai (North China), Japan and Russia; and the system of the Great Northern Telegraph Company gives a good service to Europe, via Asiatic Russia.
+
+Hong Kong possesses unrivalled steam communication. The P. & O. S. N. Co. and the M. M. Co. convey the European mail weekly, the Norddeutscher Lloyd Co. maintain a regular fortnightly mail service between Bremen and Hong Kong, the P. M. S. S. Co., O. & O.S. S. Co. and the Toyo Kisen Kaisha maintain a mail service with San Francisco, the Canadian Pacific Railway Co. a regular mail service with Vancouver, B.C., a regular line has been established by the Northern Pacific S. S. Co. to Tacoma, and Portland, Oregon, and the Portland and Asiatic S. N. Co. also run a line of steamers to Portland, the Great Northern Steamship Co. maintain a monthly service to Seattle with ships of over 20,000 tons gross register, the Eastern and Australian S. S. Co., the China Navigation Co. and the Norddeutscher Lloyd keep up a frequent but rather irregular service with the Australian Colonies, and Nippon Yusen Kaisha maintains service to Europe, India, Australia, and the United States (Seattle). In addition to these several great lines of merchant steamers run between ports in Great Britain and Hong Kong, of which the China Mutual S. S. Co., Ocean S. S. Co., and the Glen, Warrack, Mogul, Ben Union, and Shell lines are the most conspicuous. The Austrian Lloyd's steamers also ply from Trieste to Hong Kong, those of the Hamburg-Amerika line from Hamburg, and the Navigazione Generale Italiana Company's steamers run monthly from Genoa. Regular steam communication between Java and Hong Kong has been established by the Indo-China S. N. Co.'s and the Java-China-Japan Line. Between the ports on the east coast of China, Formosa and Hong Kong the steamers of the Douglas S. S. Co. ply regularly twice a week, and those of the Osaka Shoen Kaisha weekly, and there is constant steam communication with Hoihow, Manila, Saigon, Haiphong, Tourane, Bangkok, Borneo, etc. With Shanghai, Tientsin, and the ports of Japan there is frequent communication by steamers of the Indo-China S. N. Co., China Navigation, and other lines, in addition to the English, French and German mail steamers, which leave weekly. With Calcutta there are services by the Indo-China S. N. Co. and the Apar Line, about once a fortnight by each
+line. Between Hong Kong, Macao, and Canton there is a daily steam service, and tri-weekly steamers as far as Wuchow on the West River.
+
+A cable tramway connects the city with the higher levels. An electric tramway from Shaukiwan to Kennedy Town, along the whole extent of the city, was completed and opened in July, 1904. The island possesses few roads available for vehicular traffic except in the town of Victoria, but admirable roads, from which exquisite views may be obtained, wind in every direction among the hills, and a good and practically level road runs round a great part of the island. The usual means of conveyance is by boat, chair, and 'ricksha.' There are good roads in Kowloon, and a road from Kowloon ferry runs to Tai Po on an arm of Mire Bay. There is also a road under construction from Castle Peak to Sha Tau Kok connecting the South-eastern and Northwestern extremities of the New Territories; the length when completed will be about 234 miles. Up to the end of 1910, 16 miles were finished. A railway was completed in the year 1910 from Kowloon to the Chinese frontier, where it joins the line from Canton. Telephonic communication is available to all parts of the Colony.
+
+Letters.
+
+| United Kingdom, India, Egypt, the Colonies and Protectorates which have adopted the Imperial Penny Postage, and the British Agencies in China | 4 cents |
+| Europe and America | 10 " |
+| Hong Kong, Canton, and Macao | 2 " |
+
+Direct Money Orders are exchanged with the United Kingdom, Germany and German Colonies in the South Seas, Canada, United States of America, Union of South Africa, India, Ceylon, the Australian Commonwealth, the Dominion of New Zealand, Straits Settlements, Federated Malay States, British North Borneo, Sarawak, Siam, Macao, Japan, Kiaouteschou, French Indo-China and the Philippine Islands. British Postal Orders are payable in Hong Kong.
+
+Education.
+
+The number of Government schools and schools which receive grants from Government is 65, of which 21 are English Schools, i.e., schools in which the English language is the medium of instruction, and 44 are Vernacular Schools. This number includes two schools which are reserved for children of European-British parentage.
+
+The total number of pupils in average attendance at Government and Grant Schools was 6,303 in 1911. Of these, 2,120 were in Government, and 4,183 in Grant Schools; 4,069 pupils received instruction in English, and 2,234 in the Vernacular. The proportion of boys to girls was 3,865 to 2,438.
+
+A Technical Institute supplies instruction in commercial and technical subjects. The total enrolment in 1911 was 310.
+
+The Hongkong University was opened in September, 1912. The work of the English Schools aims at preparing pupils eventually for the University. The work in the three highest classes is arranged so as to prepare pupils for the Oxford Local Examinations.
+
+Revenue.
+
+About one-fifth of the revenue is derived from the Opium Monopoly and one-fifth from municipal rates for police, lighting, water and other purposes: 13 per cent. on the annual value in Victoria, the Hill District, Kowloon Point, Yaumati and Hung Hom; and rates varying from 7 to 12½ per cent. in the outlying villages, payable by the owners. The annual rates payable on the valuation for 1911-12 are $1,423,691, an increase of $7,939 on the previous valuation. The remainder is derived from licences, land revenue, stamps, duties, and fees. The duties on intoxicating liquors are expected to realize $725,000 in 1912, Land Sales to reach $100,000, Stamp Revenue to reach $720,000, and Postal Revenue $420,000. The total Revenue for 1912 is estimated at $7,677,488.
+
+Constitution.
+
+The Government is administered under Letters Patent of 19th January, 1888, by a Governor, aided by an Executive Council, composed of six official and two unofficial members, besides the Governor. The Legislative Council is presided over by the Governor, and is composed of seven official and six unofficial members, three of whom are nominated by the Crown on the recommendation of the Governor (two being usually Chinese), one is nominated by the Justices of the Peace from their body, and one by the Chamber of Commerce. The unofficial members vacate their seats after six years from date of appointment. The "Colonial Courts of Admiralty Act, 1890," regulates the jurisdiction of the Supreme Court in Admiralty cases. The English Common Law forms the basis of the legal system, modified by Colonial Ordinances, of which a revised edition to 1901 has been issued. The law as to civil procedure was codified by Ordinance No. 3 of 1901.
+
+Governors.*
+
+1887 Sir G. W. Dea Voeux, K.C.M.G.
+1891 Sir W. Robinson, K.C.M.G.
+1898 Sir H. A. Blake, G.C.M.G.
+1904 Major Sir M. Nathan, R.E., K.C.M.G.
+1907 Sir F. J. D. Luard, K.C.M.G., C.B., D.S.O.
+1912 Sir F. H. May, K.C.M.G.
+
+Finance.
+
+| Year | Revenue | Expenditure | British | Total |
+|------|---------|-------------|---------|-------|
+| 1901 | $4,213,893 | $4,111,722 | $9,213,639 | $19,325,884 |
+| 1902 | $4,901,073 | $5,909,548 | $9,571,787 | $19,709,451 |
+| 1903 | $5,238,857 | $5,396,669 | $11,250,296 | $21,903,348 |
+| 1904 | $6,809,047 | $6,376,235 | $13,406,094 | $33,562,786 |
+| 1905 | $6,918,403 | $6,961,279 | $13,226,346 | $34,185,091 |
+| 1906 | $7,035,011 | $6,832,610 | $12,031,972 | $32,747,268 |
+| 1907 | $6,602,280 | $5,757,203 | $11,846,532 | $36,028,310 |
+| 1908 | $6,104,207 | $7,929,477 | $11,792,752 | $34,615,241 |
+| 1909 | $6,822,966 | $6,542,839 | $11,437,881 | $34,830,845 |
+| 1910 | $6,960,869 | $6,907,113 | $12,112,019 | $36,534,361 |
+| 1911 | $7,497,231 | $7,077,177 | $11,706,731 | $36,179,152 |
+
+There is a Public Debt of $1,485,732.
+
+* For previous Governors see edition of 1903.
+† Excluding local junk trade, but including for 1901 steam launches trading to ports outside Colony.
+Population.
+
+| Year | European and American | Chinese | Others | Total |
+|------|-----------------------|--------|--------|-------|
+| 1841 | —                     | —      | —      | 7,000 |
+| 1855 | —                     | —      | —      | 72,607|
+| 1862 | 1,604                 | 120,539| 1,368  | 123,511|
+| 1872*| 4,931                 | 115,564| 1,490  | 121,985|
+| 1881 | 7,990                 | 150,690| 1,722  | 160,402|
+| 1891 | 8,645                 | 210,956| 1,901  | 221,441|
+| 1901‡| 6,454                 | 274,543| 2,978  | 283,975|
+| 1910 | 14,260                | 414,931| 86,795 | 435,986|
+| 1911 | 5,638                 | 444,664| 6,537  | 456,739|
+
+The total civil population at the census of 1911 was 456,739, including 444,664 Chinese.
+
+Executive Council.
+
+Governor, President.
+Officer Commanding the Troops.
+Colonial Secretary.
+Attorney-General.
+Treasurer.
+Director of Public Works.
+Registrar-General.
+Unofficial Members, Sir C. P. Chater, Kt., C.M.G., and E. A. Hewett, C.M.G.
+
+Legislative Council.
+
+Governor, President.
+Officer Commanding the Troops.
+Colonial Secretary.
+Attorney-General.
+Treasurer.
+Director of Public Works.
+Registrar-General.
+Cpt. Supl. of Police.
+Unofficial Members, Sir Kai Ho Kai, Kt., C.M.G., Wei Yuk, C.M.G., E. A. Hewett, C.M.G., H. E. Pollock, K.C., E. Osborne, C. H. Ross.
+Clerk of Councils, C. Clementi.
+
+Civil Establishment.
+
+Governor, Sir F. H. May, K.C.M.G., 6,000l., of which 1,200l. is an entertainment allowance.
+Private Secretary, Lieut. L. R. E. W. Taylor, R.A., 300l.
+Aide-de-Camp, L. R. E.W. Taylor, R.A. (acting), 300l.
+
+Colonial Secretary's Department and Legislature.
+
+Colonial Secretary, C. Severn, 1,600l.
+Assistant Colonial Secretary, C. Clementi, $4,800 to $5,400, and 50l. allowance as Clerk of Councils.
+Chief Clerk, R. H. Crofton, 400l. to 600l.
+2nd Clerk, J. A. E. Bullock, 300l. to 400l.
+Passed Cadets, M. Breen, R. E. Lindsell, and S. B. B. McElberry, 300l. to 350l., and $540 each, house allowance.
+Unpassed Cadets, N. L. Smith, G. R. Sayer, W. Schofield, E. W. Hamilton, R. A. C. North, and P. Burn, 225l., and $540 each, house allowance.
+
+Registrar-General's Department.
+
+Registrar-General, E. R. Halifax, $6,000 to $7,200.
+First Assistant Registrar-General, D. W. Tratman, 400l. to 560l. and 100l. duty pay.
+
+Second Assistant Registrar-General, A. E. Wood, 400l. to 560l. and 100l. duty pay.
+
+Inspector, Translators, Interpreters, and Clerks.
+
+Audit Department (under the Director of Colonial Audit, London).
+
+Auditor, H. R. Phelps, 650l. to 800l., and 100l. personal, and 50l. from Wei-hai-wei Government.
+Assistant Auditors, T. Dallin and G. Cormack, 420l. by 40l. to 540l.
+
+Treasury.
+
+Treasurer's Office.
+
+Treasurer, A. M. Thomson, $6,000 to $7,200.
+Cashier, E. A. de Carvalho, $2,400 to $3,000, and 50l. personal allowance.
+
+Office of Assessor of Rates.
+
+Assessor of Rates, A. Chapman, $3,600 to $4,200, and $500 personal allowance.
+
+Stamp Office.
+
+First Clerk, E. H. d'Aquino, I.S.O., $2,160 to $2,700.
+
+Post Office.
+
+Hong Kong Post Office.
+
+Postmaster-General, C. McL. Messer, $4,800 to $5,400.
+Assistant Postmaster-General, J. D. Lloyd, 400l. to 560l. and 100l. duty pay.
+Accountant, A. J. Reed, 360l. to 450l., and $195 allowance for extra work.
+Superintendent, M. O. Office, H. Dixon, 360l. to 450l.
+Senior Clerk, G. G. Burnett, $1,800 to $2,100, free quarters, and $195 allowance for extra work.
+
+Superintendent of Registration and Parcels Branch, T. H. Martin, 300l. to 345l., and $195 allowance for extra work.
+Superintendent of Mails, R. A. J. Savage, 300l. to 345l., and $195 allowance for extra work.
+Marine Officers, Sorting Clerks, and Postmen.
+
+Harbour Master's Department.
+
+Harbour Office.
+
+Harbour Master, &c., Commander Basil R. H. Taylor, R.N., 780l. to 900l.
+Assistant Harbour Master, Commander C. W. Beckwith, R.N., 480l. to 540l., and Duty Pay, 100l.
+Boarding Officer, Edward Jones, 300l. to 400l. and $720 house allowance.
+2nd ditto, A. E. Davey, 240l. to 300l., and free quarters and light.
+
+And Clerks.
+
+Mercantile Marine Office.
+
+First Clerk, R. H. A. Craig, 220l. to 270l. and overtime allowance.
+
+Imports and Exports Office.
+
+Superintendent, R. O. Hutchison, 400l. to 560l. and 100l. duty pay.
+Revenue Officers, D. J. McKenzie, $2,040 and allowances; S. J. Clarke, E. W. Dawson, L. A. Langley, T. Sutherland, J. C. Wildin, 240l. to 270l. and allowances.
+First Clerk, F. P. da Silva, $2,040.
+Clerks and Native Revenue Officers.
+
+* Inclusive of naval, military, and shipping.
+† Excluding naval and military.
+§ Army and Navy.
+|| Certain officers on dollar salaries draw Exchange compensation. See above, "Currency and Ranking."
+Marine Surveyor's Office.
+
+Government Surveyor, J. Macdonald, $3,600 to $4,200.
+Assistant Surveyor, W. Russell, 420l. to 480l. and Duty Pay, 60l.
+2nd Assistant Surveyor, R. Hall, 360l. to 410l. and 40l. Duty Pay.
+
+Steam Launches.
+
+Master of Steam Tender "Stanley," G. Willoughby, 240l. to 285l.
+
+Gunpowder Depot.
+
+Officer in Charge, F. M. Franco, $2,040.
+
+Lighthouses.
+
+Principal Lighthouse Keeper, C. E. Nicholas, $1,848 and quarters.
+
+Royal Observatory.
+
+Director of the Observatory, T. F. Claxton, F.R.A.S., 420l. to 540l., and quarters.
+Chief Assistant, C. W. Jeffries, 360l. to 420l.
+First Assistant, B. D. Evans, 270l. to 360l.
+
+Judicial and Legal Departments.
+
+Supreme Court.
+
+Chief Justice, Sir William Rees Davies, 2,000l.
+Puisne Judge, H. H. J. Gompertz, $8,400.
+Registrar of Supreme Court and Registrar of Companies, Official Assignee, Official Administrator, H. A. Nisbet, 600l. to 720l., and 120l. Duty Pay.
+Deputy Registrar and Appraiser, C. A. D. Melbourne, 400l. to 560l. and 100l. duty pay.
+Deputy Registrar and Accountant, J. W. Lee-Jones, $3,600 to $4,200.
+Chief Interpreter, N. G. Nolan, 360l. to 500l.
+Bailiffs and Clerks.
+
+Magistracy.
+
+Police Magistrate and Coroner, F. A. Hazeland, $6,000 to $7,200.
+2nd Police Magistrate, J. R. Wood, $4,800 to $5,400.
+First Clerk, G. A. Woodcock, $3,600 to $4,200, and quarters.
+
+District Offices.
+
+District Officer, vacant, $4,800 to $5,400, and quarters.
+Assistant District Officers, S. B. C. Ross, $3,600 and quarters, and G. N. Orme, 400l. to 560l., and 100l. duty pay.
+
+Law Officer.
+
+Attorney-General, John A. S. Bucknill, 1,500l.
+
+Office of Crown Solicitor and Land Registry.
+
+Crown Solicitor, J. H. Kemp, 900l. to 1,080l.
+Assistant Crown Solicitor, P. M. Hodgson, 420l. to 540l.
+Land Officer, G. H. Wakeman, $5,400.
+Official Receiver, A. G. M. Fletcher, 400l. to 560l. and 150l. duty pay.
+Assistant Land Officer, Philip Jacks, 420l. to 540l.
+
+Police and Prison Departments.
+
+Police.
+
+Captain Superintendent, F. J. Baddeley, $6,000 to $7,200, $900 house allowance and $180 language allowance.
+
+Deputy Superintendent, T. P. J. Wodehouse, 600l. to 720l., 120l. duty pay and quarters.
+Assistant Superintendent, T. H. King, 400l. to 560l. and 100l. duty pay.
+Probationers, D. Burlingham and C. G. Perdue, 225l., and $540 house allowance.
+Accountant and Clerks.
+Inspectors, Sergeants, and Constables.
+
+Fire Brigade.
+
+Superintendent, F. J. Baddeley.
+Deputy Superintendent, P. P. J. Wodehouse.
+2 Assistant Superintendents, $360.
+Engineer, D. Macdonald, $720.
+Assistant Engineer and Station Officer, A. Lane, 216l. to 240l., and quarters.
+Engine Drivers, Firemen, and others.
+
+Prison.
+
+Superintendent, F. J. Baddeley.
+Assistant Superintendent, R. H. A. Craig, $2,400 to $3,000, quarters, fuel and light, and $600 allowance for superintending printing.
+Warders and Clerks.
+
+Medical Departments.
+
+Staff.
+
+Principal Civil Medical Officer, J. T. C. Johnson, $7,200 to $7,800, and private consulting practice.
+Health Officer of Port and Inspector of Emigrants, G. P. Jordan, $2,400 to $3,000, and private practice.
+Second Health Officer of Port and Inspector of Emigrants, F. T. Keyt, 480l. to 720l.
+Superintendent of Civil Hospital and Lunatic Asylums, J. Bell, $3,600 to $4,200, $240 allowance, and quarters.
+Medical Officers, W. V. M. Koch, 480l. to 720l., and quarters; W. A. B. Moore, 480l. to 720l., and $720 house allowance; C. W. McKenny and J. T. Smalley, 480l. to 720l.
+
+Hospitals and Asylums.
+
+Analyst, F. Browne, $3,600, $144 light and fuel allowance, and quarters.
+First Assistant Analyst, A. C. Franklin, 360l. to 420l.
+Apothecary and Second Assistant Analyst, G. Lenton, 300l. to 360l.
+Accountant and Storekeeper, R. Chapman, $2,160 to $2,400, $120 light and fuel allowance, and quarters.
+European Sisters and others.
+
+Institutes.
+
+Bacteriologist, H. Macfarlane, 480l. to 720l.
+
+Sanitary Department.
+
+Sanitary Board.
+
+Head of Sanitary Department, E. D. C. Wolfe, $4,800 to $5,400.
+Secretary, Sanitary Board, C. F. W. Bowen Rowlands, 360l. to 420l.
+
+Sanitary Staff.
+
+Medical Officer of Health, F. W. Clark, $3,600 to $4,200, $720 house allowance, and $300 as Superintendent of Statistics.
+Assistant Medical Officer of Health, W. W. Pearse, $3,600 to $4,200, and $720 house allowance.
+Sanitary and Plague Inspectors, Clerks, and others.
+Veterinary Staff.
+
+Veterinary Surgeon, A. Gibson, 480l. to 600l., and private consulting practice.
+
+Botanical and Forestry Department.
+
+Superintendent, W. T. Tutocher, 420l. to 540l., and quarters.
+Assistant Superintendent, H. Green, 270l. to 360l., $600 house allowance, and $156 field allowance.
+Clerks, Foresters, Gardeners, and others.
+
+Education.
+
+Department of Director of Education.
+
+Director of Education, E. A. Irving, $4,800 to $5,400, and 75l. personal allowance.
+Supervisor, R. C. Barlow, 300l. to 360l.
+Supervisor of Girls' School, Miss C. M. Noronha, $1,320 to $1,560.
+Head Mistress, Kowloon British School, Mrs. M. E. Main, 120l. to 190l., and quarters.
+Head Master, Victoria British School, H. A. Cox, 300l. to 360l., and quarters.
+Head Mistress, Belisios Public School, Mrs. E. Tuter, $2,160 to $2,700.
+Assistant Mistress, Miss C. H. Pearce, 180l. to 220l.
+Masters of English Schools, W. Curwen, and A. Morris, 360l. to 450l.; S. R. Moore and A. T. Hamilton, 270l. to 360l.
+
+Technical Institute.
+
+Director of Education, E. A. Irving, $400 allowance.
+Director, E. Ralphs, $1,200 allowance.
+
+Queen's College.
+
+Head Master, T. K. Dealy, 660l. to 720l.
+Second Master, E. Ralphs, $3,600 to $4,200.
+Normal Master, B. Tanner, $3,000 to $3,600.
+Senior Assistant Masters, A. W. Grant, B. James, R. E. O. Bird, A. H. Crook, R. J. Birkbeck, and G. P. de Martin, 360l. to 480l.
+Junior Assistant Masters, A. R. Sutherland, A. O. Brown, F. J. de Rome, and A. R. Cavalier, 300l. to 360l.
+Translation Master, H. R. Wells, 300l. to 360l.
+And Twelve Chinese Assistant Masters.
+
+Volunteers.
+
+Commandant, Major A. Chapman, $900 command allowance.
+Staff Officer, Lieut. C. V. S. Skrimshire, R.G.A., 400l., and $720 house allowance.
+Corps Sergeant-Major, W. Higby, 280l. to 320l. and quarters.
+
+Public Works Department.
+
+Director of Public Works, W. Chatham, C.M.G., $7,200 to $7,800, and 150l. personal allowance.
+
+General Staff.
+
+First Assistant Director of Public Works, A. F. Churchill, 720l. to 810l.
+Second Assistant Director of Public Works (vacant).
+Senior Executive Engineer, C. H. Gale, 570l. to 660l., and 60l. duty pay.
+First Grade Executive Engineers, A. H. Hollingsworth, H. G. Fisher, 570l. to 630l., and 60l. duty pay.
+Second Grade Executive Engineers, H. T. Jackman, L. T. Perkins, D. Jaffe, 450l. to 600l. and 60l. duty pay; A. E. Wright, 450l. to 540l. and 60l. duty pay.
+First Grade Assistant Engineers, I. M. Xavier, F. A. Biden, A. T. Walker, E. W. Carpenter, 360l. to 450l. and 60l. duty pay.
+Second Grade Assistant Engineers, H. E. Goldsmith, E. M. Wood, L. O. Ross, J. W. White, E. Newhouse, 360l. to 450l. and 40l. duty pay; John Duncan, 360l. and 40l. duty pay.
+Clerk of Works, G. E. Thomas, 360l. to 450l.
+Overseers, Foremen, and others.
+
+Crown Lands and Surveys.
+
+Principal Land Surveyor, L. C. Rees, 510l. to 540l., and 60l. duty pay.
+First Grade Land Surveyors, B. W. Gray, E. B. Reed, 450l. to 480l., and 40l. duty pay.
+Second Grade Land Surveyor, F. Sutton, 360l. to 420l., and 40l. duty pay.
+Land Surveyors, H. West, H. C. Lowick, H. S. Rouse, J. D. Byrne, W. A. J. Cooper, J. S. Chalmers, 330l. to 420l.
+Land Bailiffs, 210l. to 250l.
+
+Accounts, Correspondence, and Stores.
+
+Superintendent of Accounts, Correspondence, and Stores, David Wood, 480l. to 600l., and 70l. personal allowance.
+First Clerk, P. Julyan, 270l. to 315l.
+
+"Building Authority" Staff.
+
+Drainage Surveyor, J. J. Bryan, $3,000 to $3,300.
+Overseers, Foremen and others.
+
+Foreign Consuls.
+
+Austria-Hungary, Konrad Ritter von Wiser, consul.
+Belgium, F. Janssens, consul.
+Bolivia, Adão Maria de Lourdes Soares, consul.
+Brazil, J. J. Leiria, consul.
+Chili, Jose Gascon Gonzales de Bernedo, consul.
+Denmark, G. Friessland, consul.
+France, G. E. Liebert, consul; J. A. Guibert, vice-consul.
+Germany, Dr. Jur. E. A. Voretzsch, consul.
+Guatemala, A. M. Perez, consul.
+Italy, Cavaliere Z. H. Volpicelli, consul-general.
+Japan, Shinoo Imai, consul-general.
+Mexico, F. D. Barretto, consul.
+Netherlands, J. H. de Roux, consul-general; P. R. Borger, vice-consul.
+Nicaragua, B. J. H. Botelho, consul.
+Norway, J. Eitzen, vice-consul.
+Panama, E. L. Hurtado, consul-general.
+Peru, M. D. Derteano, consul.
+Portugal, J. J. Leiria, consul.
+Russia, V. d'Oettingen, consul.
+Siam, Hon. Sir C. P. Chater, Kt., C.M.G., consul.
+Spain, G. E. Liebert, vice-consul.
+Sweden, Dr. J. E. Hultman, consul-general; A. Nilsson, vice-consul.
+United States, G. E. Anderson, consul-general; J. B. Sawyer, vice and deputy consul-general.
+
+Naval Establishment.
+
+Vice-Admiral, Sir Alfred Lee Winsloe, K.C.B., C.V.O., C.M.G.
+Naval Officer in Charge of Naval Establishments,
+Commodore Robert H. Austruther, C.M.G.
+Deputy Surgeon-General, D. T. Hoskyn.
+
+Headquarter Staff.
+South China Command.
+G.O.C., Major-General C. A. Anderson, C.B.
+A.D.C., Lieut. J. de L. Simonds, R.G.A.
+
+General Staff.
+General Staff Officer, 2nd Grade, Major J. B. G. Tulloch, Yorks L.I., p.s.c. (L).
+General Staff Officer, 3rd Grade, Lieut. R. M. Crossie, R.G.A.
+
+Administrative, Technical and Departmental Staff.
+D.A.A. and Q.M.G., Major R. S. Stewart, P.S.C.
+Commanding R.A., Lieut.-Col. A. J. Mullins.
+Chief Engineer, Colonel C. W. R. St. John.
+O.C., A.S.C., Lieut.-Col. F. P. S. Taylor.
+P.M.O., Col. J. M. Irwin, M.B.
+C.O.O., Lieut.-Col. W. H. U. Smith, D.S.O.
+Command Paymaster and Treasury Chest Officer, Lieut.-Col. A. I. Lean.
+

@@ -1,0 +1,324 @@
+{
+  "source": "historical_document_pipeline/processed_pdfs/colonial-office-list-1897/olmocr_results.md",
+  "year": 1897,
+  "extraction_method": "manual_parsing",
+  "total_colonies": 45,
+  "notes": "Manual extraction of all colony sections. Includes FIJI (found between Ceylon and Gambia), NIGER COAST PROTECTORATE, and GRENADA (with markdown formatting). Canadian provinces are within DOMINION OF CANADA section. Leeward Island colonies (Antigua, Dominica, Montserrat, Nevis, St. Kitts, Virgin Islands) are within THE LEEWARD ISLANDS section.",
+  "colonies": {
+    "BAHAMAS": {
+      "start_line": 1390,
+      "end_line": 1618,
+      "char_count": 14136,
+      "line_count": 228,
+      "file": "BAHAMAS.md"
+    },
+    "BARBADOS": {
+      "start_line": 1618,
+      "end_line": 2103,
+      "char_count": 28279,
+      "line_count": 485,
+      "file": "BARBADOS.md"
+    },
+    "BASUTOLAND": {
+      "start_line": 2103,
+      "end_line": 2213,
+      "char_count": 13665,
+      "line_count": 110,
+      "file": "BASUTOLAND.md"
+    },
+    "BERMUDA": {
+      "start_line": 2213,
+      "end_line": 2559,
+      "char_count": 23240,
+      "line_count": 346,
+      "file": "BERMUDA.md"
+    },
+    "BRITISH GUIANA": {
+      "start_line": 2559,
+      "end_line": 3202,
+      "char_count": 45902,
+      "line_count": 643,
+      "file": "BRITISH_GUIANA.md"
+    },
+    "BRITISH HONDURAS": {
+      "start_line": 3202,
+      "end_line": 3510,
+      "char_count": 18853,
+      "line_count": 308,
+      "file": "BRITISH_HONDURAS.md"
+    },
+    "BRITISH NEW GUINEA": {
+      "start_line": 3510,
+      "end_line": 3590,
+      "char_count": 11602,
+      "line_count": 80,
+      "file": "BRITISH_NEW_GUINEA.md"
+    },
+    "DOMINION OF CANADA": {
+      "start_line": 3590,
+      "end_line": 6298,
+      "char_count": 125969,
+      "line_count": 2708,
+      "file": "DOMINION_OF_CANADA.md"
+    },
+    "CAPE OF GOOD HOPE": {
+      "start_line": 6298,
+      "end_line": 8728,
+      "char_count": 117217,
+      "line_count": 2430,
+      "file": "CAPE_OF_GOOD_HOPE.md"
+    },
+    "CEYLON": {
+      "start_line": 8728,
+      "end_line": 9684,
+      "char_count": 72481,
+      "line_count": 956,
+      "file": "CEYLON.md"
+    },
+    "FIJI": {
+      "start_line": 9684,
+      "end_line": 9882,
+      "char_count": 8194,
+      "line_count": 198,
+      "file": "FIJI.md"
+    },
+    "THE GAMBIA": {
+      "start_line": 9882,
+      "end_line": 10272,
+      "char_count": 22740,
+      "line_count": 390,
+      "file": "THE_GAMBIA.md"
+    },
+    "THE GOLD COAST COLONY": {
+      "start_line": 10272,
+      "end_line": 10745,
+      "char_count": 45217,
+      "line_count": 473,
+      "file": "THE_GOLD_COAST_COLONY.md"
+    },
+    "HONG KONG": {
+      "start_line": 10745,
+      "end_line": 11109,
+      "char_count": 19369,
+      "line_count": 364,
+      "file": "HONG_KONG.md"
+    },
+    "JAMAICA": {
+      "start_line": 11109,
+      "end_line": 11886,
+      "char_count": 42868,
+      "line_count": 777,
+      "file": "JAMAICA.md"
+    },
+    "LABUAN": {
+      "start_line": 11886,
+      "end_line": 12023,
+      "char_count": 7377,
+      "line_count": 137,
+      "file": "LABUAN.md"
+    },
+    "LAGOS": {
+      "start_line": 12023,
+      "end_line": 12383,
+      "char_count": 20384,
+      "line_count": 360,
+      "file": "LAGOS.md"
+    },
+    "THE LEEWARD ISLANDS": {
+      "start_line": 12383,
+      "end_line": 13941,
+      "char_count": 85708,
+      "line_count": 1558,
+      "file": "THE_LEEWARD_ISLANDS.md"
+    },
+    "MAURITIUS": {
+      "start_line": 13941,
+      "end_line": 15402,
+      "char_count": 75903,
+      "line_count": 1461,
+      "file": "MAURITIUS.md"
+    },
+    "NEWFOUNDLAND": {
+      "start_line": 15402,
+      "end_line": 15710,
+      "char_count": 20897,
+      "line_count": 308,
+      "file": "NEWFOUNDLAND.md"
+    },
+    "NEW SOUTH WALES": {
+      "start_line": 15710,
+      "end_line": 16771,
+      "char_count": 55443,
+      "line_count": 1061,
+      "file": "NEW_SOUTH_WALES.md"
+    },
+    "NEW ZEALAND": {
+      "start_line": 16771,
+      "end_line": 17510,
+      "char_count": 38584,
+      "line_count": 739,
+      "file": "NEW_ZEALAND.md"
+    },
+    "QUEENSLAND": {
+      "start_line": 17510,
+      "end_line": 17998,
+      "char_count": 31931,
+      "line_count": 488,
+      "file": "QUEENSLAND.md"
+    },
+    "ST. HELENA": {
+      "start_line": 17998,
+      "end_line": 18574,
+      "char_count": 31207,
+      "line_count": 576,
+      "file": "ST._HELENA.md"
+    },
+    "SOUTH AUSTRALIA": {
+      "start_line": 18574,
+      "end_line": 19429,
+      "char_count": 43908,
+      "line_count": 855,
+      "file": "SOUTH_AUSTRALIA.md"
+    },
+    "STRAITS SETTLEMENTS": {
+      "start_line": 19429,
+      "end_line": 20090,
+      "char_count": 38649,
+      "line_count": 661,
+      "file": "STRAITS_SETTLEMENTS.md"
+    },
+    "TASMANIA": {
+      "start_line": 20090,
+      "end_line": 20713,
+      "char_count": 29405,
+      "line_count": 623,
+      "file": "TASMANIA.md"
+    },
+    "TRINIDAD": {
+      "start_line": 20713,
+      "end_line": 21579,
+      "char_count": 33466,
+      "line_count": 866,
+      "file": "TRINIDAD.md"
+    },
+    "TOBAGO": {
+      "start_line": 21579,
+      "end_line": 21900,
+      "char_count": 19872,
+      "line_count": 321,
+      "file": "TOBAGO.md"
+    },
+    "VICTORIA": {
+      "start_line": 21900,
+      "end_line": 22965,
+      "char_count": 68406,
+      "line_count": 1065,
+      "file": "VICTORIA.md"
+    },
+    "WESTERN AUSTRALIA": {
+      "start_line": 22965,
+      "end_line": 23792,
+      "char_count": 41731,
+      "line_count": 827,
+      "file": "WESTERN_AUSTRALIA.md"
+    },
+    "GRENADA": {
+      "start_line": 23792,
+      "end_line": 24033,
+      "char_count": 17519,
+      "line_count": 241,
+      "file": "GRENADA.md"
+    },
+    "ST. LUCIA": {
+      "start_line": 24033,
+      "end_line": 24233,
+      "char_count": 14195,
+      "line_count": 200,
+      "file": "ST._LUCIA.md"
+    },
+    "ST. VINCENT": {
+      "start_line": 24233,
+      "end_line": 24469,
+      "char_count": 13803,
+      "line_count": 236,
+      "file": "ST._VINCENT.md"
+    },
+    "ZULULAND": {
+      "start_line": 24469,
+      "end_line": 24653,
+      "char_count": 19004,
+      "line_count": 184,
+      "file": "ZULULAND.md"
+    },
+    "BECHUANALAND PROTECTORATE": {
+      "start_line": 24653,
+      "end_line": 24721,
+      "char_count": 4679,
+      "line_count": 68,
+      "file": "BECHUANALAND_PROTECTORATE.md"
+    },
+    "BRITISH CENTRAL AFRICA": {
+      "start_line": 24721,
+      "end_line": 24855,
+      "char_count": 13408,
+      "line_count": 134,
+      "file": "BRITISH_CENTRAL_AFRICA.md"
+    },
+    "BRITISH EAST AFRICA AND ZANZIBAR": {
+      "start_line": 24855,
+      "end_line": 24899,
+      "char_count": 7399,
+      "line_count": 44,
+      "file": "BRITISH_EAST_AFRICA_AND_ZANZIBAR.md"
+    },
+    "BRUNEI": {
+      "start_line": 24899,
+      "end_line": 24911,
+      "char_count": 1201,
+      "line_count": 12,
+      "file": "BRUNEI.md"
+    },
+    "CYPRUS": {
+      "start_line": 24911,
+      "end_line": 25368,
+      "char_count": 32171,
+      "line_count": 457,
+      "file": "CYPRUS.md"
+    },
+    "NIGER COAST PROTECTORATE": {
+      "start_line": 25368,
+      "end_line": 25675,
+      "char_count": 23352,
+      "line_count": 307,
+      "file": "NIGER_COAST_PROTECTORATE.md"
+    },
+    "BRITISH SOUTH AFRICA COMPANY": {
+      "start_line": 25675,
+      "end_line": 25754,
+      "char_count": 14274,
+      "line_count": 79,
+      "file": "BRITISH_SOUTH_AFRICA_COMPANY.md"
+    },
+    "SARAWAK": {
+      "start_line": 25754,
+      "end_line": 25950,
+      "char_count": 12482,
+      "line_count": 196,
+      "file": "SARAWAK.md"
+    },
+    "WESTERN PACIFIC": {
+      "start_line": 25950,
+      "end_line": 26129,
+      "char_count": 24001,
+      "line_count": 179,
+      "file": "WESTERN_PACIFIC.md"
+    },
+    "ASCENSION": {
+      "start_line": 26129,
+      "end_line": 26154,
+      "char_count": 6040,
+      "line_count": 25,
+      "file": "ASCENSION.md"
+    }
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "year": 1896,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1896/olmocr_results.md",
+  "total_colonies": 49,
+  "colonies": [
+    {
+      "name": "BAHAMAS",
+      "start_line": 2267,
+      "end_line": 2515,
+      "filename": "bahamas.txt",
+      "line_count": 249
+    },
+    {
+      "name": "BARBADOS",
+      "start_line": 2516,
+      "end_line": 3015,
+      "filename": "barbados.txt",
+      "line_count": 500
+    },
+    {
+      "name": "BASUTOLAND",
+      "start_line": 3016,
+      "end_line": 3356,
+      "filename": "basutoland.txt",
+      "line_count": 341
+    },
+    {
+      "name": "BERMUDA",
+      "start_line": 3357,
+      "end_line": 3595,
+      "filename": "bermuda.txt",
+      "line_count": 239
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "start_line": 3596,
+      "end_line": 4189,
+      "filename": "british_guiana.txt",
+      "line_count": 594
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "start_line": 4190,
+      "end_line": 4489,
+      "filename": "british_honduras.txt",
+      "line_count": 300
+    },
+    {
+      "name": "BRITISH NEW GUINEA",
+      "start_line": 4490,
+      "end_line": 4595,
+      "filename": "british_new_guinea.txt",
+      "line_count": 106
+    },
+    {
+      "name": "DOMINION OF CANADA",
+      "start_line": 4596,
+      "end_line": 7682,
+      "filename": "dominion_of_canada.txt",
+      "line_count": 3087
+    },
+    {
+      "name": "CAPE OF GOOD HOPE",
+      "start_line": 7683,
+      "end_line": 9831,
+      "filename": "cape_of_good_hope.txt",
+      "line_count": 2149
+    },
+    {
+      "name": "CEYLON",
+      "start_line": 9832,
+      "end_line": 10562,
+      "filename": "ceylon.txt",
+      "line_count": 731
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "start_line": 10563,
+      "end_line": 10700,
+      "filename": "falkland_islands.txt",
+      "line_count": 138
+    },
+    {
+      "name": "FIJI",
+      "start_line": 10701,
+      "end_line": 16325,
+      "filename": "fiji.txt",
+      "line_count": 5625
+    },
+    {
+      "name": "THE GAMBIA",
+      "start_line": 16326,
+      "end_line": 16516,
+      "filename": "the_gambia.txt",
+      "line_count": 191
+    },
+    {
+      "name": "GIBRALTAR",
+      "start_line": 16517,
+      "end_line": 16773,
+      "filename": "gibraltar.txt",
+      "line_count": 257
+    },
+    {
+      "name": "THE GOLD COAST COLONY",
+      "start_line": 16774,
+      "end_line": 17238,
+      "filename": "the_gold_coast_colony.txt",
+      "line_count": 465
+    },
+    {
+      "name": "HONG KONG",
+      "start_line": 17239,
+      "end_line": 17627,
+      "filename": "hong_kong.txt",
+      "line_count": 389
+    },
+    {
+      "name": "JAMAICA",
+      "start_line": 17628,
+      "end_line": 18378,
+      "filename": "jamaica.txt",
+      "line_count": 751
+    },
+    {
+      "name": "LABUAN",
+      "start_line": 18379,
+      "end_line": 18512,
+      "filename": "labuan.txt",
+      "line_count": 134
+    },
+    {
+      "name": "LAGOS",
+      "start_line": 18513,
+      "end_line": 19056,
+      "filename": "lagos.txt",
+      "line_count": 544
+    },
+    {
+      "name": "LEEWARD ISLANDS",
+      "start_line": 19057,
+      "end_line": 19185,
+      "filename": "leeward_islands.txt",
+      "line_count": 129
+    },
+    {
+      "name": "ANTIGUA",
+      "start_line": 19186,
+      "end_line": 19592,
+      "filename": "antigua.txt",
+      "line_count": 407
+    },
+    {
+      "name": "ST. CHRISTOPHER AND NEVIS",
+      "start_line": 19593,
+      "end_line": 19942,
+      "filename": "st_christopher_and_nevis.txt",
+      "line_count": 350
+    },
+    {
+      "name": "DOMINICA",
+      "start_line": 19943,
+      "end_line": 20189,
+      "filename": "dominica.txt",
+      "line_count": 247
+    },
+    {
+      "name": "VIRGIN ISLANDS",
+      "start_line": 20190,
+      "end_line": 20297,
+      "filename": "virgin_islands.txt",
+      "line_count": 108
+    },
+    {
+      "name": "MALTA",
+      "start_line": 20298,
+      "end_line": 20764,
+      "filename": "malta.txt",
+      "line_count": 467
+    },
+    {
+      "name": "MAURITIUS",
+      "start_line": 20765,
+      "end_line": 21611,
+      "filename": "mauritius.txt",
+      "line_count": 847
+    },
+    {
+      "name": "SEYCHELLES",
+      "start_line": 21612,
+      "end_line": 21776,
+      "filename": "seychelles.txt",
+      "line_count": 165
+    },
+    {
+      "name": "NATAL",
+      "start_line": 21777,
+      "end_line": 22318,
+      "filename": "natal.txt",
+      "line_count": 542
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "start_line": 22319,
+      "end_line": 22635,
+      "filename": "newfoundland.txt",
+      "line_count": 317
+    },
+    {
+      "name": "NEW SOUTH WALES",
+      "start_line": 22636,
+      "end_line": 23708,
+      "filename": "new_south_wales.txt",
+      "line_count": 1073
+    },
+    {
+      "name": "NEW ZEALAND",
+      "start_line": 23709,
+      "end_line": 24350,
+      "filename": "new_zealand.txt",
+      "line_count": 642
+    },
+    {
+      "name": "Queensland",
+      "start_line": 24351,
+      "end_line": 24911,
+      "filename": "queensland.txt",
+      "line_count": 561
+    },
+    {
+      "name": "ST. HELENA",
+      "start_line": 24912,
+      "end_line": 25092,
+      "filename": "st_helena.txt",
+      "line_count": 181
+    },
+    {
+      "name": "SIERRA LEONE",
+      "start_line": 25093,
+      "end_line": 25610,
+      "filename": "sierra_leone.txt",
+      "line_count": 518
+    },
+    {
+      "name": "SOUTH AUSTRALIA",
+      "start_line": 25611,
+      "end_line": 26402,
+      "filename": "south_australia.txt",
+      "line_count": 792
+    },
+    {
+      "name": "Straits Settlements",
+      "start_line": 26403,
+      "end_line": 27102,
+      "filename": "straits_settlements.txt",
+      "line_count": 700
+    },
+    {
+      "name": "TASMANIA",
+      "start_line": 27103,
+      "end_line": 27727,
+      "filename": "tasmania.txt",
+      "line_count": 625
+    },
+    {
+      "name": "TRINIDAD AND TOBAGO",
+      "start_line": 27728,
+      "end_line": 27729,
+      "filename": "trinidad_and_tobago.txt",
+      "line_count": 2
+    },
+    {
+      "name": "TRINIDAD",
+      "start_line": 27730,
+      "end_line": 28744,
+      "filename": "trinidad.txt",
+      "line_count": 1015
+    },
+    {
+      "name": "TURKS AND CAICOS ISLANDS",
+      "start_line": 28745,
+      "end_line": 28931,
+      "filename": "turks_and_caicos_islands.txt",
+      "line_count": 187
+    },
+    {
+      "name": "VICTORIA",
+      "start_line": 28932,
+      "end_line": 30798,
+      "filename": "victoria.txt",
+      "line_count": 1867
+    },
+    {
+      "name": "Western Australia",
+      "start_line": 29774,
+      "end_line": 30798,
+      "filename": "western_australia.txt",
+      "line_count": 1025
+    },
+    {
+      "name": "ST. LUCIA",
+      "start_line": 30799,
+      "end_line": 31028,
+      "filename": "st_lucia.txt",
+      "line_count": 230
+    },
+    {
+      "name": "ST. VINCENT",
+      "start_line": 31029,
+      "end_line": 31290,
+      "filename": "st_vincent.txt",
+      "line_count": 262
+    },
+    {
+      "name": "ZULULAND",
+      "start_line": 31291,
+      "end_line": 31448,
+      "filename": "zululand.txt",
+      "line_count": 158
+    },
+    {
+      "name": "BRITISH EAST AFRICA AND ZANZIBAR",
+      "start_line": 31449,
+      "end_line": 31499,
+      "filename": "british_east_africa_and_zanzibar.txt",
+      "line_count": 51
+    },
+    {
+      "name": "CYPRUS",
+      "start_line": 31500,
+      "end_line": 31967,
+      "filename": "cyprus.txt",
+      "line_count": 468
+    },
+    {
+      "name": "BRITISH ZAMBEZIA AND BRITISH CENTRAL AFRICA",
+      "start_line": 31968,
+      "end_line": 32616,
+      "filename": "british_zambezia_and_british_central_africa.txt",
+      "line_count": 649
+    },
+    {
+      "name": "SOUTH AFRICA",
+      "start_line": 32617,
+      "end_line": 32642,
+      "filename": "south_africa.txt",
+      "line_count": 26
+    }
+  ]
+}

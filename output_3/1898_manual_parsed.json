@@ -1,0 +1,495 @@
+{
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1898/olmocr_results.md",
+  "extraction_date": "2025-11-18",
+  "total_colonies": 61,
+  "colonies": [
+    {
+      "colony_name": "BAHAMAS",
+      "type": "colony",
+      "start_line": 1506,
+      "end_line": 1766,
+      "line_count": 261,
+      "filename": "BAHAMAS.md"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "type": "colony",
+      "start_line": 1767,
+      "end_line": 2324,
+      "line_count": 558,
+      "filename": "BARBADOS.md"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "type": "colony",
+      "start_line": 2325,
+      "end_line": 2445,
+      "line_count": 121,
+      "filename": "BASUTOLAND.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "type": "colony",
+      "start_line": 2446,
+      "end_line": 2787,
+      "line_count": 342,
+      "filename": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BRITISH_GUIANA",
+      "type": "colony",
+      "start_line": 2788,
+      "end_line": 3475,
+      "line_count": 688,
+      "filename": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "BRITISH_HONDURAS",
+      "type": "colony",
+      "start_line": 3476,
+      "end_line": 3803,
+      "line_count": 328,
+      "filename": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "BRITISH_NEW_GUINEA",
+      "type": "colony",
+      "start_line": 3804,
+      "end_line": 3893,
+      "line_count": 90,
+      "filename": "BRITISH_NEW_GUINEA.md"
+    },
+    {
+      "colony_name": "CANADA",
+      "type": "colony",
+      "start_line": 3894,
+      "end_line": 6759,
+      "line_count": 2866,
+      "filename": "CANADA.md"
+    },
+    {
+      "colony_name": "CAPE_OF_GOOD_HOPE",
+      "type": "colony",
+      "start_line": 6760,
+      "end_line": 9054,
+      "line_count": 2295,
+      "filename": "CAPE_OF_GOOD_HOPE.md"
+    },
+    {
+      "colony_name": "CEYLON",
+      "type": "colony",
+      "start_line": 9055,
+      "end_line": 9764,
+      "line_count": 710,
+      "filename": "CEYLON.md"
+    },
+    {
+      "colony_name": "FALKLAND_ISLANDS",
+      "type": "colony",
+      "start_line": 9765,
+      "end_line": 10130,
+      "line_count": 366,
+      "filename": "FALKLAND_ISLANDS.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "type": "colony",
+      "start_line": 10131,
+      "end_line": 10344,
+      "line_count": 214,
+      "filename": "FIJI.md"
+    },
+    {
+      "colony_name": "GAMBIA",
+      "type": "colony",
+      "start_line": 10345,
+      "end_line": 10546,
+      "line_count": 202,
+      "filename": "GAMBIA.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "type": "colony",
+      "start_line": 10547,
+      "end_line": 10766,
+      "line_count": 220,
+      "filename": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "GOLD_COAST",
+      "type": "colony",
+      "start_line": 10767,
+      "end_line": 11322,
+      "line_count": 556,
+      "filename": "GOLD_COAST.md"
+    },
+    {
+      "colony_name": "HONG_KONG",
+      "type": "colony",
+      "start_line": 11323,
+      "end_line": 11881,
+      "line_count": 559,
+      "filename": "HONG_KONG.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "type": "colony",
+      "start_line": 11882,
+      "end_line": 12482,
+      "line_count": 601,
+      "filename": "JAMAICA.md"
+    },
+    {
+      "colony_name": "LABUAN",
+      "type": "colony",
+      "start_line": 12483,
+      "end_line": 12590,
+      "line_count": 108,
+      "filename": "LABUAN.md"
+    },
+    {
+      "colony_name": "LAGOS",
+      "type": "colony",
+      "start_line": 12591,
+      "end_line": 13089,
+      "line_count": 499,
+      "filename": "LAGOS.md"
+    },
+    {
+      "colony_name": "LEEWARD_ISLANDS_ANTIGUA",
+      "type": "leeward_islands",
+      "start_line": 13090,
+      "end_line": 13342,
+      "line_count": 253,
+      "filename": "LEEWARD_ISLANDS_ANTIGUA.md"
+    },
+    {
+      "colony_name": "LEEWARD_ISLANDS_ST_CHRISTOPHER_NEVIS",
+      "type": "leeward_islands",
+      "start_line": 13343,
+      "end_line": 13765,
+      "line_count": 423,
+      "filename": "LEEWARD_ISLANDS_ST_CHRISTOPHER_NEVIS.md"
+    },
+    {
+      "colony_name": "LEEWARD_ISLANDS_DOMINICA",
+      "type": "leeward_islands",
+      "start_line": 13766,
+      "end_line": 13899,
+      "line_count": 134,
+      "filename": "LEEWARD_ISLANDS_DOMINICA.md"
+    },
+    {
+      "colony_name": "LEEWARD_ISLANDS_MONTSERRAT",
+      "type": "leeward_islands",
+      "start_line": 13900,
+      "end_line": 14017,
+      "line_count": 118,
+      "filename": "LEEWARD_ISLANDS_MONTSERRAT.md"
+    },
+    {
+      "colony_name": "LEEWARD_ISLANDS_VIRGIN_ISLANDS",
+      "type": "leeward_islands",
+      "start_line": 14018,
+      "end_line": 14123,
+      "line_count": 106,
+      "filename": "LEEWARD_ISLANDS_VIRGIN_ISLANDS.md"
+    },
+    {
+      "colony_name": "MALTA",
+      "type": "colony",
+      "start_line": 14124,
+      "end_line": 14634,
+      "line_count": 511,
+      "filename": "MALTA.md"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "type": "colony",
+      "start_line": 14635,
+      "end_line": 15454,
+      "line_count": 820,
+      "filename": "MAURITIUS.md"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "type": "colony",
+      "start_line": 15455,
+      "end_line": 15616,
+      "line_count": 162,
+      "filename": "SEYCHELLES.md"
+    },
+    {
+      "colony_name": "NATAL",
+      "type": "colony",
+      "start_line": 15617,
+      "end_line": 16155,
+      "line_count": 539,
+      "filename": "NATAL.md"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "type": "colony",
+      "start_line": 16156,
+      "end_line": 16495,
+      "line_count": 340,
+      "filename": "NEWFOUNDLAND.md"
+    },
+    {
+      "colony_name": "NEW_SOUTH_WALES",
+      "type": "colony",
+      "start_line": 16496,
+      "end_line": 17557,
+      "line_count": 1062,
+      "filename": "NEW_SOUTH_WALES.md"
+    },
+    {
+      "colony_name": "NORFOLK_ISLAND",
+      "type": "dependency",
+      "start_line": 17558,
+      "end_line": 17573,
+      "line_count": 16,
+      "filename": "NORFOLK_ISLAND.md"
+    },
+    {
+      "colony_name": "NEW_ZEALAND",
+      "type": "colony",
+      "start_line": 17574,
+      "end_line": 18315,
+      "line_count": 742,
+      "filename": "NEW_ZEALAND.md"
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "type": "colony",
+      "start_line": 18316,
+      "end_line": 18918,
+      "line_count": 603,
+      "filename": "QUEENSLAND.md"
+    },
+    {
+      "colony_name": "ST_HELENA",
+      "type": "colony",
+      "start_line": 18919,
+      "end_line": 19112,
+      "line_count": 194,
+      "filename": "ST_HELENA.md"
+    },
+    {
+      "colony_name": "SIERRA_LEONE",
+      "type": "colony",
+      "start_line": 19113,
+      "end_line": 19594,
+      "line_count": 482,
+      "filename": "SIERRA_LEONE.md"
+    },
+    {
+      "colony_name": "SOUTH_AUSTRALIA",
+      "type": "colony",
+      "start_line": 19595,
+      "end_line": 20366,
+      "line_count": 772,
+      "filename": "SOUTH_AUSTRALIA.md"
+    },
+    {
+      "colony_name": "STRAITS_SETTLEMENTS",
+      "type": "colony",
+      "start_line": 20367,
+      "end_line": 21068,
+      "line_count": 702,
+      "filename": "STRAITS_SETTLEMENTS.md"
+    },
+    {
+      "colony_name": "TASMANIA",
+      "type": "colony",
+      "start_line": 21069,
+      "end_line": 21662,
+      "line_count": 594,
+      "filename": "TASMANIA.md"
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "type": "colony",
+      "start_line": 21663,
+      "end_line": 22617,
+      "line_count": 955,
+      "filename": "TRINIDAD.md"
+    },
+    {
+      "colony_name": "TURKS_AND_CAICOS_ISLANDS",
+      "type": "colony",
+      "start_line": 22618,
+      "end_line": 22787,
+      "line_count": 170,
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md"
+    },
+    {
+      "colony_name": "VICTORIA",
+      "type": "colony",
+      "start_line": 22788,
+      "end_line": 23779,
+      "line_count": 992,
+      "filename": "VICTORIA.md"
+    },
+    {
+      "colony_name": "WESTERN_AUSTRALIA",
+      "type": "colony",
+      "start_line": 23780,
+      "end_line": 24635,
+      "line_count": 856,
+      "filename": "WESTERN_AUSTRALIA.md"
+    },
+    {
+      "colony_name": "WINDWARD_ISLANDS_GRENADA",
+      "type": "windward_islands",
+      "start_line": 24636,
+      "end_line": 24885,
+      "line_count": 250,
+      "filename": "WINDWARD_ISLANDS_GRENADA.md"
+    },
+    {
+      "colony_name": "WINDWARD_ISLANDS_ST_LUCIA",
+      "type": "windward_islands",
+      "start_line": 24886,
+      "end_line": 25126,
+      "line_count": 241,
+      "filename": "WINDWARD_ISLANDS_ST_LUCIA.md"
+    },
+    {
+      "colony_name": "WINDWARD_ISLANDS_ST_VINCENT",
+      "type": "windward_islands",
+      "start_line": 25127,
+      "end_line": 25391,
+      "line_count": 265,
+      "filename": "WINDWARD_ISLANDS_ST_VINCENT.md"
+    },
+    {
+      "colony_name": "ZULULAND",
+      "type": "protectorate",
+      "start_line": 25392,
+      "end_line": 25573,
+      "line_count": 182,
+      "filename": "ZULULAND.md"
+    },
+    {
+      "colony_name": "AMATONGALAND",
+      "type": "protectorate",
+      "start_line": 25574,
+      "end_line": 25591,
+      "line_count": 18,
+      "filename": "AMATONGALAND.md"
+    },
+    {
+      "colony_name": "BECHUANALAND_PROTECTORATE",
+      "type": "protectorate",
+      "start_line": 25592,
+      "end_line": 25647,
+      "line_count": 56,
+      "filename": "BECHUANALAND_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "BRITISH_CENTRAL_AFRICA",
+      "type": "protectorate",
+      "start_line": 25648,
+      "end_line": 25702,
+      "line_count": 55,
+      "filename": "BRITISH_CENTRAL_AFRICA.md"
+    },
+    {
+      "colony_name": "BRITISH_EAST_AFRICA_ZANZIBAR_UGANDA",
+      "type": "protectorate",
+      "start_line": 25703,
+      "end_line": 25732,
+      "line_count": 30,
+      "filename": "BRITISH_EAST_AFRICA_ZANZIBAR_UGANDA.md"
+    },
+    {
+      "colony_name": "BRUNEI",
+      "type": "protectorate",
+      "start_line": 25733,
+      "end_line": 25744,
+      "line_count": 12,
+      "filename": "BRUNEI.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "type": "colony",
+      "start_line": 25745,
+      "end_line": 26256,
+      "line_count": 512,
+      "filename": "CYPRUS.md"
+    },
+    {
+      "colony_name": "NIGER_COAST_PROTECTORATE",
+      "type": "protectorate",
+      "start_line": 26257,
+      "end_line": 26379,
+      "line_count": 123,
+      "filename": "NIGER_COAST_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "NORTH_BORNEO",
+      "type": "company",
+      "start_line": 26380,
+      "end_line": 26511,
+      "line_count": 132,
+      "filename": "NORTH_BORNEO.md"
+    },
+    {
+      "colony_name": "RHODESIA",
+      "type": "territory",
+      "start_line": 26512,
+      "end_line": 26513,
+      "line_count": 2,
+      "filename": "RHODESIA.md"
+    },
+    {
+      "colony_name": "BRITISH_SOUTH_AFRICA_COMPANY",
+      "type": "company",
+      "start_line": 26514,
+      "end_line": 26602,
+      "line_count": 89,
+      "filename": "BRITISH_SOUTH_AFRICA_COMPANY.md"
+    },
+    {
+      "colony_name": "SARAWAK",
+      "type": "protectorate",
+      "start_line": 26603,
+      "end_line": 26782,
+      "line_count": 180,
+      "filename": "SARAWAK.md"
+    },
+    {
+      "colony_name": "WESTERN_PACIFIC",
+      "type": "high_commission",
+      "start_line": 26783,
+      "end_line": 26919,
+      "line_count": 137,
+      "filename": "WESTERN_PACIFIC.md"
+    },
+    {
+      "colony_name": "ADEN",
+      "type": "territory",
+      "start_line": 26920,
+      "end_line": 26930,
+      "line_count": 11,
+      "filename": "ADEN.md"
+    },
+    {
+      "colony_name": "ASCENSION",
+      "type": "dependency",
+      "start_line": 26931,
+      "end_line": 26936,
+      "line_count": 6,
+      "filename": "ASCENSION.md"
+    },
+    {
+      "colony_name": "TRISTAN_DA_CUNHA",
+      "type": "dependency",
+      "start_line": 26937,
+      "end_line": 39404,
+      "line_count": 12468,
+      "filename": "TRISTAN_DA_CUNHA.md"
+    }
+  ]
+}

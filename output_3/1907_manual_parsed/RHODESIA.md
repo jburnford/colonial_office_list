@@ -1,0 +1,444 @@
+RHODESIA.*
+
+Rhodesia (so called after the late Right Hon. Cecil J. Rhodes) is the name of the country under the administration of the British South Africa Company, whose principal field of operations was defined in its Charter of Incorporation as "the region of South Africa lying immediately to the north of British Bechuanaland, and to the north and west of the South African Republic, and to the west of the Portuguese Dominions." Of these extensive territories the Company is now responsible for the administration of the following portions:
+
+1. Southern Rhodesia, or the provinces of Mashonaland and Matabeleland (area 148,575 square miles).
+2. Northern Rhodesia, or the whole of the British sphere lying between the Portuguese Settlements, German East Africa, and the Congo Free State, with the exception of the strip of territory forming the British Central Africa Protectorate. It is divided into two provinces—North-Eastern Rhodesia and North-Western Rhodesia. The area of the former is estimated at 109,000 square miles, and the latter at 182,000 square miles.
+
+I.—SOUTHERN RHODESIA.
+
+The limits of Southern Rhodesia, as defined by the Southern Rhodesia Order in Council, dated 26th October, 1888, are the parts of South Africa bounded by the Portuguese Possessions, by the Transvaal Colony to a point opposite the mouth of the River Shashi, by the River Shashi to its junction with the Tati and Ramaquaban rivers, thence by the Ramaquaban river to its source, thence by the watershed to the Rivers Shashi and Ramaquaban until such watershed strikes the Hunters Road (called the Pandamatenka Road), thence by that road to the River Zambesi, and by that river to the Portuguese boundary. The said limits include an area of ten miles' radius round Fort Tuli, but exclude the area of the district known as the Tati district defined by the Charter.
+
+II.—NORTHERN RHODESIA.
+
+This territory is divided into two provinces:
+(a.) Barotziland-North-Western Rhodesia.
+(b.) North-Eastern Rhodesia.
+
+(a.) The limits of Barotziland-North-Western Rhodesia are the parts of Africa bounded on the North by the Congo Free State, on the West by Portuguese West Africa, on the South by the River Zambesi, and on the East by North-Eastern Rhodesia.
+
+(b.) The limits of North-Eastern Rhodesia are the parts of Africa bounded on the west by the boundaries of the Congo Free State and of Barotziland-North-Western Rhodesia; on the south by Portuguese East Africa; on the east by the British Central Africa Protectorate; and on the north by the German East Africa frontier, the south shore of Lake Tanganyika, and the southern frontier of the Congo Free State as far west as Lake Mweru, including the Island of Kilwa in the British sphere.
+
+* The information in this notice is kindly supplied by the British South Africa Company.
+
+History.
+
+On the 29th October, 1889, a Royal Charter was granted to the British South Africa Company, conferring upon it large powers of administration to carry out the objects for which it was formed, the principal being to extend northwards the railway and telegraph systems of the Cape Colony and Bechuanaland, to encourage emigration and colonisation, to promote trade and commerce, and to develop and work mineral and other concessions.
+
+Early in 1890 a police force of Europeans was raised and equipped, and in June of that year, after obtaining permission from King Lo Bengula, a pioneer expedition on a large scale was organised to cut a road from a point on the Macloutsie River, a tributary of the Limpopo, through the south-eastern part of Matabeleland into Mashonaland, the objective point of the expedition being Mount Hampden, near which large belts of gold-bearing quartz were known to exist. This point was reached on 12th September, 1890. The pioneers were then disbanded, and, in accordance with the agreement made with them, were allowed to peg off auriferous claims and farms.
+
+In July, 1893, the Matabele made a raid into Mashonaland, and killed several natives living under the Company's protection, near Victoria, when they were attacked and driven back by the Company's police. After an unsuccessful attempt to arrange matters, preparations were made for the invasion of Matabeleland, to anticipate an expected attack on the Bechuanaland Protectorate and Mashonaland. The Company's police and a large force of volunteers and native allies advanced on Bulawayo from the north and east, while the Bechuanaland Police, which had been largely reinforced, advanced with Khama and some 2,000 of his men by way of Tati from the south. Two successful engagements were fought by the Company's forces near Bulawayo, in which the Matabele suffered very severely. The Bechuanaland police were also attacked by a strong force of Matabele, which they repulsed with great loss. Lo Bengula fled, and Bulawayo was occupied, and a force sent in pursuit of the king.
+
+This force was unfortunately divided by the sudden rising of the River Shangani, and Major Wilson with a small party of men were, after a heroic resistance, killed to a man. Arrangements for the future administration of the country were completed by the High Commissioner and Mr. Rhodes on behalf of the Company. Lo Bengula, who was said to be endeavouring to escape across the Zambesi, is reported to have died from small-pox or fever.
+
+At the end of 1895, occurred Dr. Jameson's raid into the Transvaal (see also under Bechuanaland Protectorate), which resulted in measures being taken to give the High Commissioner increased control over the Company's administration, especially the police. These were subsequently embodied in the Southern Rhodesia Order in Council, 1898.
+
+In 1896, owing to a variety of causes, the Matabele broke out in rebellion, and shortly after the Mashonas followed suit. Imperial troops had to be sent to the assistance of the Company's police and volunteers, and it was only after a prolonged struggle that peace was secured.
+
+The rinderpest, which for several years had been devastating Africa, travelling slowly through the continent from north to south, made its first
+appearance in Matabeleland in February, 1896. The adoption of the drastic regulations which the administration decided to enforce had to some extent checked the progress of the epidemic, when the outbreak of the rebellion put a stop to all precautionary measures.
+
+In March, 1898, a system of compulsory inoculation for rinderpest was established, and the precautions taken have proved very effective. No case has since been recorded, and the disease has been finally stamped out.
+
+From 1897 to 1899 the development of the country advanced rapidly, but the outbreak of the war with the Republics, in October, practically put a stop to progressive work of every kind, and for months the territory was completely cut off from the south.
+
+On the outbreak of hostilities Colonel (now Major-General) Baden-Powell was in supreme command of all the forces in Southern Rhodesia and the Bechuanaland Protectorate. When Mafeking was invested the command of the Rhodesian forces devolved upon Colonel Plumer, who was stationed at Tuli with a force of 450 men. In November, 1899, Martial Law was proclaimed in certain districts in Matabeleland, and, at a later date, in the whole territory, and the Southern Rhodesia Volunteers, to the number of 800, were called out for active service.
+
+At the beginning of January, 1900, Colonel Plumer moved his column to Palachwe and assumed direct command of the troops in the Protectorate, amongst whom were included 600 Volunteers and over 400 men of the British South Africa Police. Mafeking was successfully relieved by Mahon and Plumer's united columns on the 17th May.
+
+In the early part of 1900 a force of 5,000 men, consisting of Australian, New Zealand and Canadian Volunteers, and English Yeomanry, was despatched to Rhodesia, via Beira, under the command of General Sir Frederick Carrington. This force was sent to the front as speedily as possible, two companies of Militia Infantry being retained at Bulawayo as a garrison.
+
+The Administration of Southern Rhodesia estimated that the number of men contributed by Rhodesia was approximately 1,500, being at least 12½ per cent. of the European population. Despatches which have been published bear testimony to the good work performed by the Volunteers, Police, and the Rhodesia Regiment, and they have also gained the special approbation of the late Commander-in-Chief.
+
+The attitude of the natives throughout the war was most satisfactory, and, although in some districts there appeared signs of unrest, it was confined to attempts by discontented natives to work up the feelings of the people who were, however, not affected by them to any appreciable degree.
+
+Martial Law in Southern Rhodesia was withdrawn on the 26th July, 1902.
+
+Since the close of the war Rhodesia has again been making rapid progress in the development of the country, notwithstanding the general depression prevailing throughout South Africa. Steady and marked improvement is reported in all branches of agriculture. The output of gold for the year 1906 has largely exceeded that for the previous year. The main line of railway to the far north has been completed for 374 miles north of the Zambesi River to Broken Hill Mine.
+
+**Constitution.**
+
+In 1888 that portion of Rhodesia now known as Southern Rhodesia was declared to be within the British sphere of influence, and on the 29th October, 1889, a Royal Charter was granted to the British South Africa Company, conferring upon it large powers of administration to carry out the objects for which it was formed.
+
+At an Extraordinary General Meeting of the shareholders of the British South Africa Company, held on the 14th of December, 1899, a resolution was passed agreeing to accept the amendments proposed by Her Majesty's Government to be made in the original Charter of the Company by the Supplemental Charter, and a further resolution was passed approving certain alterations in the original Deed of Settlement of the Company. These resolutions were confirmed at a further Extraordinary General Meeting, held on the 10th of January, 1900.
+
+The Constitution of Southern Rhodesia, originally laid down by the Charter, was subsequently amended by the Orders in Council of the 9th May, 1891; 30th July, 1891; and 18th July, 1894, the latter being known as the "Matabeleland Order in Council." This Order was revoked by the Southern Rhodesia Order in Council of 1898, which provides for the Administration of the Territory, Legislation, the Preservation of Peace and Order, the Constitution of Courts of Justice, and Native Administration. This Order was amended by the Southern Rhodesia Order in Council of the 16th February, 1903. Under the Order of 1898 there is a Resident Commissioner appointed by the Secretary of State. To assist the Administrator there is an Executive Council, composed of not less than four members appointed by the Company, with the approval of the Secretary of State. A member of the Executive Council holds office for a period of three years, unless sooner removed by the Company, but is eligible for re-appointment at the end of each term of office. There is also a Legislative Council, consisting of the Administrator (President), seven nominees of the Company approved by the Secretary of State, and seven members elected by the Registered Voters. The Resident Commissioner sits on both Executive and Legislative Councils, but without a vote. Ordinances passed by the Legislative Council, when assented to by the High Commissioner, take effect immediately, but, within a year, may be disallowed by the Secretary of State. The duration of each Legislative Council is 3 years. The first Legislative Council was elected in 1899. The number of Registered Voters in 1904 was 5,303.
+
+By a Proclamation, dated 10th June, 1891, the laws of the Cape Colony, passed prior to that date, were adopted for and are to be administered in Rhodesia as far as the circumstances of the country will permit. The laws of the Cape Colony passed subsequent to that date do not apply to Rhodesia.
+
+For the Administration of Justice there is a High Court with civil and criminal jurisdiction, the judges being appointed by the Secretary of State, on the nomination of the Company. In the districts there are Magistrates' Courts. Appeals from the High Court lie to the Supreme Court of the Cape of Good Hope, and thence to the Privy Council.
+
+The administrative systems of North-Eastern and North-Western Rhodesia are prescribed by the "North-Eastern Rhodesia Order in Council,"
+1900," and the "Barotziland-North-Western Rhodesia Order in Council, 1899," under which the administrations of those territories are placed under the control of H.M. Commissioner and Consul-General for British Central Africa and the High Commissioner for South Africa respectively.
+
+Local Government.
+
+Salisbury and Bulawayo were constituted municipalities in October, 1897. Sanitary Boards are appointed for the other principal townships.
+
+Native Administration.
+
+The Native Department of Southern Rhodesia is administered by the Secretary for Native Affairs, the duties of the office at the present time being undertaken by the Administrator. The two provinces are each under the control of a Chief Native Commissioner (who is responsible to the Secretary for Native Affairs), and are divided into native districts, 18 in Mashonaland and 10 in Matabeleland. Each district is in charge of a Native Commissioner or Assistant Native Commissioner, who is appointed by the Administrator, with the approval of the High Commissioner, as laid down in the "Southern Rhodesia Order in Council, 1898," and whose duties are defined by the High Commissioner's Proclamation, No. 4 of 1902 (Promulgated 2nd December, 1904).
+
+Formerly the natives were scattered throughout the country, but now land has been reserved for tribal settlements which is suitable for their agricultural and pastoral requirements.
+
+The only tax imposed upon them is an annual hut-tax of £1. Excellent provision has been made for those who go to work at the mines. Compounds have been erected and hospitals provided at most of the mines, which are periodically visited by Government Inspectors; their contracts are supervised by officials who see that the terms are faithfully fulfilled, and in the event of injustice they have their remedy in a court of law under the "Master's and Servant's Ordinance." A native at the mines can easily earn from 30s. to £3 a month with food and lodging.
+
+Defence.
+
+The defence of Southern Rhodesia devolves upon the British South Africa Police and Volunteer Force. The whole of the Military Police Force is under the direct control of the High Commissioner, although paid for by the Company.
+
+On the 5th October, 1903, the 2nd and 3rd Divisions of the Police were amalgamated, and on the 31st March, 1906, the strength of the Police Force was : officers, 39 ; N.C.O.'s and men, 400 ; Native Police, 548. At the same date the strength of the Volunteer Force was : Eastern Division (Mashonaland), officers and men, 786 ; Western Division (Matabeleland), 1,198, including cadets, of whom there were 205.
+
+The strength of the Southern Rhodesia Constabulary on the 31st March, 1906, was: Europeans, 79 ; Native, 64 ; total 143.
+
+Under an arrangement with the Imperial Government the military forces of British Central Africa are available for the territorial defence of North-Eastern Rhodesia.
+
+Climate.
+
+The Rhodesian plateau lies at an altitude of from 3,000 to 6,000 feet above sea level. Broadly speaking, the year has two divisions, the wet and the dry season. The early rains of the wet season (which is the summer) gradually appear towards the end of October, and increase in frequency and force until about the end of April. From May to September there is practically no rain. Taking into consideration the vast extent of the territory the climate naturally varies. In the highlands it is very healthy and bracing. Formerly, in the low-lying districts, malarial fever was very prevalent, but with the opening up of the country, better housing and food, it is rapidly disappearing. From medical statistics for the year 1905-6, it appears that out of 1,478 European cases treated in the hospitals for various diseases only 4·12 per cent. proved fatal. There was a total decrease in local and climatic diseases of 341 as compared with 1904-5. The summer is not oppressively hot, nor is the winter very cold. The average shown by the maximum and minimum thermometers in the shade at the principal towns, during 1905-1906, was:
+
+| Town     | Max. | Min. |
+|----------|------|------|
+| Salisbury | 78°0 | 53°5 |
+| Umtali   | 78°1 | 55°8 |
+| Bulawayo | 79°3 | 54°4 |
+
+Rainfall.
+
+| Town     | Inches |
+|----------|--------|
+| Salisbury | 28·51  |
+| Umtali   | 26·31  |
+| Bulawayo | 24·51  |
+
+There are hospitals at Salisbury, Bulawayo, Umtali, Victoria, and Gwelo, each supplied with a complete staff of doctors and nurses. Cottage hospitals have also been erected in the districts of Hartley, Enkeldoorn, Selukwe, Gwanda, and Filabusi to meet the wants of the mining centres.
+
+Population.
+
+A census for Southern Rhodesia was taken on the 17th April, 1904, showing the number of Europeans to be 12,623 (Mashonaland, 4,917; Matabeleland, 7,706). On the 31st March, 1906, the native population was estimated by Native Commissioners to be 619,000 (Mashonaland, 410,300; Matabeleland, 208,700). There were also 2,000 Colonial Natives and Asiatics. The European population of North-Eastern Rhodesia is 200, and native population (estimated) 346,000. North-Western Rhodesia, European (estimated) 1,000, and native 500,000.
+
+Chief Towns.
+
+The chief towns of Southern Rhodesia are Salisbury (the capital), Umtali, Victoria, Enkeldoorn, and Melsetter in Mashonaland; and Bulawayo, Gwelo, and Tuli in Matabeleland. Townships have also been formed at Rusapi, Gwanda, Selukwe, and Hartley.
+
+Salisbury, the seat of the Government, has a white population of 2,681. The town stands 4,700 feet above sea level. Branches of the Standard Bank, Bank of Africa, and African Banking Corporation have been established. Salisbury was constituted a municipality in 1897, and at the close of 1905 the assessed value of rateable property stood at 795,960L.
+Bulawayo is the commercial centre of Southern Rhodesia, with a white population of 5,995, and stands 4,469 feet above the sea level. It was constituted a municipality in 1897, and the assessed valuation of rateable property in 1905 stood at £1,778,133. Branches of the same banks as at Salisbury have been opened. There is a municipal hospital, which is one of the finest in South Africa. The town is on the main line of railway from Cape Town to the far north, and is distant from Cape Town 1,362 miles.
+
+Railways.
+
+The Bechuanaland Railways (now Rhodesia Railways, Limited) reached Bulawayo on the 19th October, 1897, and was formally opened on the 4th November. An extension of the Beira Railway from Umtali reached Salisbury on the 1st May, 1899, and was opened on the 22nd May. On the 1st August, 1900, the widening of the gauge of the Beira Railway to 3 feet 6 inches, the standard gauge of South Africa, was completed. On the 6th October, 1902, the line was completed between Salisbury and Bulawayo, a distance of 301 miles, thus establishing through communication between Cape Town and Beira (over 2,000 miles). The line passes through the mining districts of Hartley, Sebawkwe, Gwelo, Bembezi, etc. The railway from Bulawayo to the Victoria Falls (282 miles) on the River Zambezi was completed on the 25th April, 1904, and the extension northward has been already constructed, via Kalomo (the capital of North-Western Rhodesia), to the Broken Hill Mine, 374 Miles from the Falls. The Zambezi river is crossed by a bridge 650 feet long, 30 feet wide, and about 420 feet above the level of the water. The structure was formally opened by Sir G. H. Darwin, K.C.B., President of the British Association, on the 12th September, 1905. A line from Bulawayo to the West Nicholson mine in the Gwanda district (120 miles), to open up the gold and coal areas to the south-east, has been constructed, and a line, with a 2-feet gauge, from Salisbury to the Ayrshire Mine in the Lomagundi district (84 miles), was opened for traffic on the 15th October, 1902. A branch (14 miles) has been made from this line to the Eldorado Mine. A line from Gwelo to Selukwe (24 miles) was completed in August, 1903, and one from Salisbury to Mazoe (about 30 miles) is being surveyed. A line to the Matopos, where Mr. Rhodes is buried, was opened for traffic on November 1st, 1903.
+
+Lands and Agriculture.
+
+In 1897 a geodetic survey of Southern Rhodesia was initiated under the superintendence of Sir David Gill, K.C.B., H.M. Astronomer at the Cape of Good Hope, and was completed to the Zambezi river, in August, 1901. The survey from the Zambezi to Lake Tanganyika was commenced in July, 1903.
+
+Any person who is desirous of obtaining a grant of land in Southern Rhodesia should make written application to the Surveyor-General, Salisbury, who will, if satisfied that the applicant is in a position to beneficially occupy the land, and to carry on bond fide farming operations, recommend the application to His Honour the Administrator, for the issue of a permit. Grantees are required to occupy the land under such permit for a period of five years, in a bond fide and beneficial manner, either with cultivation or with stock. The rent to be paid during the term of occupation is fixed at 5 per cent. of the purchase price. The annual quit-rent or permanent rent, payable after the five years' term, is fixed at the rate of 1s. per 25 morgen or part thereof. The purchase money may be stated to average 9d. an acre in Mashonaland and 1s. 6d. an acre in Matabeleland. These charges are subject to slight increase where the land applied for is considered to be specially well situated or of exceptional value. The average size of farms in Mashonaland is 1,500 morgen (approximately 3,000 acres). Matabeleland farms are, as a rule, twice this size. Up to 31st March, 1906, the acreage of farms surveyed in Mashonaland was approximately 9,140,227 English acres, and in Matabeleland 12,144,916 acres. This, however, does not represent the total amount of surveyed land, as many farms have been privately surveyed.
+
+Survey fees, averaging 30/- for 1,500 morgen farms, and 40/- in the case of 3,000 morgen farms, are payable upon issue of the permit. In the case of settlers introducing stock and agricultural implements, payment of survey fees will be allowed to extend over a period of twelve months. Special railway reductions are granted to bond fide farmer settlers in respect of fares for themselves and families, and rates for furniture and effects, farming machinery and implements and live stock.
+
+Considerable tracts of land have been placed under cultivation, and fresh stock is being imported. It may be said that virtually the whole of Southern Rhodesia is well watered, and adapted for stock-raising and for agriculture. Cattle generally do very well in all parts. Sheep and goats thrive in many parts and will do better after the grass is fed down. Horses are more uncertain, and are liable to horse-sickness unless properly stabled. Pigs thrive well, and, so far, have never shown disease. Poultry and eggs always command a ready sale at remunerative prices. Throughout the country the conditions of soil and climate are suitable for all kinds of European cereals and vegetables, and, in addition, many trees, shrubs and plants peculiar to sub-tropical regions can be successfully cultivated. Mealies, Kaffir-corn, and other native cereals grow well in the rainy season without irrigation. Tobacco culture has now passed the experimental stage, and the further development of the industry is receiving special attention. The plant grows luxuriantly, and a considerable acreage is under cultivation. Cotton is indigenous to the country, and experiments with foreign seed have been carried out with great success. Rubber is also indigenous. The vines and trees were ruined by the methods adopted by the natives for its extraction, but efforts are being made to replant, and the industry will rapidly develop. It has been satisfactorily demonstrated that several fibre plants, such as ramie, sisal hemp (sansevieria), flax, and jute can be successfully grown. Large fruit orchards have been planted, and all fruit trees thrive. Grapes, figs, oranges, peaches, almonds, walnuts, lemons, bananas, quinces, apricots, apples, and pomegranates of good quality are produced. The sale of dairy produce is a profitable industry in the neighbourhood of the towns.
+
+Roads.
+
+On March 31st, 1906, the total mileage of roads in Southern Rhodesia was about 3,750 miles, including about 650 miles of cross roads in mining and farming districts. In these figures
+roads which have fallen into disuse owing to railway construction are not included. The total expenditure on all roads and river crossings during the year 1905-6 was £4,545.
+
+Posts and Telegraphs.
+
+The mails from the United Kingdom to Southern Rhodesia are conveyed by the mail steamers of the subsidised Union-Castle Company, weekly, between Southampton and Table Bay. From Cape Town they are conveyed by train to Bulawayo in three days. There are also daily mail and passenger trains from Cape Town to Bulawayo performing the journey in four days. From Bulawayo to Salisbury the mails are conveyed three times a week, the journey occupying about 24 hours. There are two mail and passenger trains weekly between Salisbury and Beira, the time occupied on the journey being thirty hours.
+
+The outlying districts of Southern Rhodesia are served by mail coaches and carts, but the mails to the less important districts are conveyed by native runners.
+
+North-Western Rhodesia (Barotseland) receives its mails via Bulawayo. They are conveyed from Bulawayo to the Victoria Falls and Kalomo by train, and to the several postal stations in the territory by native runners.
+
+The North-Eastern Rhodesia postal service, which formerly was carried out via Chinde, is now performed via Bulawayo and the Victoria Falls, although mail matter may still be forwarded to Fort Jameson and other stations in the territory by the Chinde and Blantyre route. The time occupied in the transmission of the mails between Fort Jameson and the United Kingdom is now five weeks and two days.
+
+On the 31st of March, 1906, 66 post offices were open in Southern Rhodesia, at 17 of which Money Order business was transacted. Telegraph Money Orders are also exchanged between Money Order Offices in Rhodesia and with Money Order Offices in the Cape Colony, Natal, Transvaal, and the Orange River Colony.
+
+The rate for inland letters is 1d. per ½ oz., for letters to other parts of South Africa 1d. per ¼ oz., and for letters for places over-sea 2½d. per ½ oz. The rate for letters from the United Kingdom to Rhodesia is 1d. per ½ oz.
+
+The Rhodesian Telegraph and Telephone system extends from Ramathlabama, on the northern border of Cape Colony, to Ujiji in German East Africa, and comprises 7,118 miles of wire, on 3,984 miles of poles. The section of line from Umtali to Ujiji is the property of the African Transcontinental Telegraph Company.
+
+On the 31st March, 1906, 90 telegraph offices were open. The rate for Inland telegrams is 1d. per word; for telegrams exchanged between Rhodesia and other parts of South Africa, 2½d. per word; and for cablegrams to Europe and from South Africa, for the Portuguese province of Manica and Sofala, Portuguese East Africa (including Chinde and Quilimane), the Nyassaland Protectorate, North Eastern Rhodesia, and for Geru...n East Africa, all pass over the Rhodesian lines.
+
+Telephone exchanges are in operation at Bulawayo, Salisbury, Umtali, Gwelo, and Selukwe.
+
+Post Office Savings Banks were established on 1st January, 1905. Up to 31st December, 1906, the amount deposited was £78,377l., and the amount withdrawn was £44,954l. £34,245l. has already been invested in Trustee Securities.
+
+Customs.
+
+Prior to the 1st August, 1899, no duties were leviable upon goods entering Southern Rhodesia. On that date the Customs Ordinance came into operation, and continued in force till August, 1903, when, as a result of the South African Customs Conference, the necessary Ordinance empowering Southern Rhodesia to enter the newly formed Customs Union was unanimously passed by the Legislative Council. This Convention of 1903 has been superseded by that of 1906. The following is the value of the declared imports into Southern Rhodesia during the past six years, together with the amount of duty collected:
+
+| Year ended 31st March, | Value | Duty |
+|------------------------|-------|------|
+| 1901                   | £1,221,968 | £95,556 |
+| 1902                   | £1,443,053 | £123,158 |
+| 1903                   | £1,858,569 | £128,673 |
+| 1904                   | £1,576,619 | £128,387 |
+| 1905                   | £951,698   | £105,934 |
+| 31st Dec., 1905        | £1,213,776 | £128,250 |
+
+The exports from Southern Rhodesia during the year ended 31st December, 1905, amounted to £1,892,488l.
+
+An Ordinance was promulgated on 1st October, 1901, imposing a duty of 6½ per gallon on spirits manufactured in South Africa, and imported into the Territory. Another Ordinance was also promulgated upon the same date imposing an excise duty of a similar amount upon spirits manufactured within Southern Rhodesia.
+
+Minerals.
+
+GOLD.—That gold was obtained from Rhodesia many centuries before the Christian Era is evidenced from the innumerable "ancient workings," the ruins of temples and forts supposed to date from the time of the Himyarites and Phoenicians, and the discovery of gold beads, gold plates, fine chains, wire, nails, etc. From the occupation of the country in 1890 by the British South Africa Company when the European population amounted to about 200 persons, consisting of the pioneers and a few officials, up to September, 1898, the gold produced only amounted to 6,470 ounces. Since that date, however, the output has been steadily increasing, notwithstanding the unparalleled difficulties which were encountered in the shape of war, rinderpest, etc. Owing to the rapid progress of railway construction, transport of machinery is now not so difficult. Some of the mines began to crush in September, 1898, and the following table shows the progress made:
+
+| Year       | Crushing Power |
+|------------|----------------|
+| Up to Dec., 1896 | 6,018 ozs.     |
+| 1897       | 215            |
+| 1898       | 16,706         |
+| 1899       | 56,742         |
+| 1900       | 85,366         |
+| 1901       | 172,035        |
+| 1902       | 194,170        |
+| 1903       | 231,872        |
+| 1904       | 267,737        |
+| 1905       | 407,048        |
+| 1906       | 551,896        |
+
+On the 31st March, 1906, the total crushing power was equal to 1,150 stamps and 4 tube mills.
+COAL.—For some years past coal has been known to exist in several districts, but it is only recently that the value of the deposits has been definitely ascertained. In the Wankie District, 212 miles from Bulawayo, and 70 miles from the Victoria Falls on the River Zambesi, a coal bed of vast extent has been disclosed. The result of careful and systematic examination shows that as regards quality the coal is only from 4 to 6 per cent. inferior to Welsh steam coal of similar quality. During the year 1905 the output amounted to 97,191 tons, and for the year 1906 to 103,803 tons. Other promising discoveries of coal have been made in the Victoria, Tuli, Lomagundi and Sebungwe districts, but, so far, sufficient exploratory work has not been carried out to admit of a final opinion being pronounced as to their precise value.
+
+The output of silver during the year 1905 was 89,278 oz., and for 1906 110,574 oz. The output of lead in 1905 amounted to 570 tons, and for 1906 652 tons.
+
+COPPER.—Discoveries of copper have been reported in the Victoria, Lomagundi and Melsetter districts in Southern Rhodesia, and highly promising deposits have been disclosed both in North-Eastern and North-Western Rhodesia.
+
+The amount of copper declared from Southern Rhodesia during 1906 was 44 tons.
+
+During 1905, diamonds were discovered in the Gwelo district and 1,849 carats had been declared up to the 31st December, 1906.
+
+Amongst other minerals, 17 tons of wolframite ore and 3,400 tons of chrome iron ore have been exported during 1906.
+
+Education.
+
+On the 31st March, 1906, there were in Southern Rhodesia fifteen state-aided schools. The total number of children in Government-aided schools was 611 as against 596 for the previous year. The total net expenditure amounted to £5,540l. There are three native schools aided by the Government. Besides the schools aided by Government there is an increasing number of private schools, the pupils numbering about 225.
+
+Revenue and Expenditure (Southern Rhodesia).
+
+| Year       | Revenue   | Expenditure |
+|------------|-----------|-------------|
+| 1898-1899  | £269,085  | £761,934    |
+| 1899-1900  | £252,180  | £702,400    |
+| 1900-1901  | £406,467  | £633,849    |
+| 1901-1902  | £435,256  | £710,563    |
+| 1902-1903  | £497,782  | £770,108    |
+| 1903-1904  | £434,754  | £736,571    |
+| 1904-1905  | £453,173  | £590,139    |
+| 1905-1906  | £523,669  | £499,768    |
+| 1906-1907  | £533,490  | £531,880    |
+
+Full details as to the administration of Rhodesia, and as to climate and products, with routes to and from Rhodesia, can be obtained at the offices of the British South Africa Company, 2, London Wall Buildings, London, E.C.
+
+Board of Directors of the British South Africa Company.
+
+His Grace the Duke of Abercorn, K.G., President.
+Rochfort Maguire, Esq., Vice President.
+The Right Hon. Lord Gifford, V.C.
+Sir Lewis Michell.
+P. Lyttelton Gell, Esq.
+Dr. L. S. Jameson, C.B.
+H. Birchenugh, Esq., C.M.G.
+The Marquess of Winchester.
+Manager, H. Wilson Fox, Esq.
+Secretary, Douglas E. Brodie.
+Assistant Secretary, A. P. Millar.
+Registrar, R. C. Bolton.
+
+Mining Department.
+
+Resident Engineer in Rhodesia, A. H. Ackermann (acting).
+
+Railways.
+
+Consulting Engineers in London, Sir Douglas Fox and Partners.
+Consulting Engineer in Rhodesia, Sir Charles Metcalfe, Bart.
+
+SOUTHERN RHODESIA ADMINISTRATION.
+
+Administrator, Sir W. H. Milton, K.C.M.G.
+Imperial Resident Commissioner and Commandant-General, Lieut.-Col. R. Chester-Master.
+
+Executive Council.
+
+The Administrator.
+H.M. Resident Commissioner.
+Sir T. C. Scanlen, K.C.M.G., Additional Law Officer.
+F. J. Newton, C.M.G., Treasurer.
+H. H. Castens, Chief Secretary.
+C. H. Tredgold, LL.B., Attorney-General.
+
+Legislative Council.
+
+The Administrator, President.
+H.M. Resident Commissioner.
+Sir T. C. Scanlen, K.C.M.G., Additional Law Officer.
+F. J. Newton, C.M.G., Treasurer.
+H. H. Castens, Chief Secretary.
+C. H. Tredgold, LL.B., Attorney-General.
+J. H. Kennedy, Master of the High Court.
+E. Ross Townsend, Secretary for Agriculture.
+E. W. S. Montagu, Secretary for Mines.
+Col. Raleigh Grey, C.M.G., Northern.
+E. E. Homan,
+F. R. Myburgh, Eastern.
+H. Longden, Midland.
+G. S. D. Forbes, D.S.O.
+W. H. Haddon,
+Col. W. Napier, C.M.G., Western.
+Clerk of Councils, J. Robertson.
+
+Chief Secretary's Department.
+
+Chief Secretary, H. H. Castens.
+Under Secretary, A. B. Rankine.
+Medical Director, A. M. Fleming, C.M.G., M.B., C.M. Edin.
+Auditor, P. D. L. Fynn.
+Director of Education, G. Duthie.
+
+Treasurer's Department.
+
+Treasurer, F. I. Newton, C.M.G.
+Asst. Treasurer, R. A. Harbord.
+Postmaster-General, G. H. Eyre.
+Controller of Customs, E. C. Baxter.
+
+Native Affairs Department.
+
+Secretary for Native Affairs, Sir W. H. Milton, K.C.M.G.
+Chief Native Commissioner, Mashonaland, W. S. Taberer (acting).
+Chief Native Commissioner, Matabeleland, H. J. Taylor.
+Native Commissioners.
+
+Mashonaland:
+- Charter, J. W. Posselt
+- Hartley, S. N. G. Jackson
+- Lomagundu, W. E. Scott
+- North Mazoe, D. M.
+- Powley * (acting)
+- South Mazoe, E. T.
+- Kenny
+- M'toko, W. T. Laing
+- Marandella, E. W.
+- Morris
+- Makoni, A. R. Ross
+- Umtali, T. B. Hulley
+
+Matabeleland:
+- Gwanda-Tuli, J. P. L.
+- de Smidt
+- Sebungwe-Mafungabusi, V. Gielgud
+- Insiza, A. A. Campbell, C. L. Carbutt †
+- Belingwe, H. H. de Laesoe (acting)
+- Selukwe, F. G. Elliot
+- Matobo, C. W. Morris *
+
+Legal Department.
+- Attorney-General, C. H. Tredgold, LL.B.
+- Secretary to the Law Department, C. Bayley.
+- Solicitor-General (Bulawayo), J. D. McKenzie.
+- Additional Law Officer, Sir Thomas C. Scanlen, K.C.M.G.
+- Registrar of Deeds, Companies, and Patents (Salisbury), G. J. King.
+- Registrar of Deeds and Companies (Bulawayo), A. R. Tonge.
+
+High Court.
+- Senior Judge, J. Vincent, B.A., LL.B.
+- Puisne Judge, J. P. Watermeyer, B.A., LL.B.
+- Master, Registrar and Sheriff, J. H. Kennedy.
+
+District Courts and Offices.
+- Mashonaland:
+  - Salisbury:
+    - Civil Commissioner, G. W. Farmaner.
+    - Magistrate, E. A. L. Brailsford.
+    - Assistant Magistrate, R. McIlwaine, W. J. Laing ‡
+  - Enkeldoorn and Charter:
+    - Assistant Magistrate, W. R. Shand.
+  - Umtali:
+    - Civil Commissioner and Magistrate, L. Powys-Jones.
+- Melsetter:
+  - Civil Commissioner and Magistrate, W. M. Longden.
+- Victoria:
+  - Civil Commissioner and Magistrate, E. J. Lawlor (acting).
+- Matabeleland:
+  - Bulawayo:
+    - Civil Commissioner, H. Marshall Hole.
+    - Magistrate, R. H. Myburgh.
+    - Assistant Magistrates, C. J. R. Gardiner, W. E. Thomas, H. M. G. Jackson, A. A. Campbell, R. Lanning, and H. H. de Laesoe, R. B. Jupp ‡ (acting).
+  - Gwelo:
+    - Civil Commissioner and Magistrate, P. G. Smith.
+    - Assistant Magistrate, E. J. Lawlor.
+  - Gwanda-Tuli:
+    - Civil Commissioner and Magistrate, J. P. L. de Smidt.
+
+* Assistant Native Commissioner.
+† Additional Native Commissioner.
+‡ Additional Assistant Magistrate.
+
+Mines and Public Works.
+
+Secretary for Mines, E. W. S. Montagu.
+Mining Commissioners, N. Macglashan, G. J. Bowen, C. D. Fleming, O. H. Olgilvie, A. A. Heyman, F. S. Brown.
+Secretary for Public Works, H. Ashmead.
+
+Lands.
+Surveyor-General, W. I. Atherstone.
+Secretary, F. W. Inskipp.
+
+Agriculture.
+Secretary, E. Ross Townsend.
+Veterinary Department, J. M. Sinclair (Chief Veterinary Surgeon).
+
+Cape Town Agency.
+Agent, J. A. Stevens.
+Accountant, W. Olive.
+
+NORTH-EASTERN RHODESIA.
+Administrator, Robert Codrington, Esq.
+Secretary, R. Goode.
+Judge of the High Court, L. P. Beaufort, M.A., B.C.L.
+Chief Surveyor, L. A. Wallace.
+Principal Medical Officer, J. C. Spillane.
+
+District Courts and Offices.
+East Loangwa:
+- Civil Commissioner and Magistrate, C. P. Chesnaye.
+West Loangwa:
+- Civil and Native Commissioner and Magistrate, H. C. Croad.
+Tanganyika:
+- Civil Commissioner and Magistrate, H. C. Marshall.
+North Loangwa and Avemba:
+- Civil Commissioner and Magistrate, C. McKinnon.
+Muveru:
+- Civil and Native Commissioner, G. C. P. Lyons.
+Luapula:
+- Civil and Native Commissioner, H. T. Harrington.
+
+NORTH-WESTERN RHODESIA.
+Administrator, R. T. Coryndon.
+Secretary, S. M. Lanigan-O'Keefe.
+Commandant, Barotse Native Police, Lieut.-Colonel John Carden.
+Secretary for Native Affairs, F. V. Worthington.
+Public Prosecutor (acting), C. C. Shippard.
+Magistrate, H. Rangeley.
+Accountant (acting), W. W. Shelmerdine.
+Medical Officer, Dr. Stanley Collier.
+Mines and Lands Depts., J. A. D. Hawksley.
+Civil Commissioner, Livingstone, P. H. Selby.
+Relieving District Commissioner, W. Hazell.
+
+District Commissioners:
+- Butoka—G. C. McGregor.*
+- Leului—F. Aitkens.*
+- Kasempa—E. A. Copeman.*
+- Kafue—A. C. Anderson.*
+- Mashukulumbe—A. Dale.*
+- Maukoya—L. L. Courtney.*
+- Sesheke—F. C. Macaulay.*
+- Loangwa—C. C. Shekelton.*
+- N'dola—J. F. Stephenson.*
+
+* Magisterial Powers.

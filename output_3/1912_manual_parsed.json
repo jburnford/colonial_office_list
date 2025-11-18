@@ -1,0 +1,261 @@
+{
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1912/olmocr_results.md",
+  "year": 1912,
+  "total_colonies": 42,
+  "extraction_date": "2025-11-18",
+  "methodology": "Manual boundary identification by reading OCR content",
+  "colonies": [
+    {
+      "name": "AUSTRALIA",
+      "start_line": 3404,
+      "end_line": 9784,
+      "total_lines": 6380
+    },
+    {
+      "name": "BAHAMAS",
+      "start_line": 9784,
+      "end_line": 10147,
+      "total_lines": 363
+    },
+    {
+      "name": "BARBADOS",
+      "start_line": 10147,
+      "end_line": 10790,
+      "total_lines": 643
+    },
+    {
+      "name": "BERMUDA",
+      "start_line": 10790,
+      "end_line": 11190,
+      "total_lines": 400
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "start_line": 11190,
+      "end_line": 12004,
+      "total_lines": 814
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "start_line": 12004,
+      "end_line": 12234,
+      "total_lines": 230
+    },
+    {
+      "name": "CANADA",
+      "start_line": 12234,
+      "end_line": 15313,
+      "total_lines": 3079
+    },
+    {
+      "name": "CEYLON",
+      "start_line": 15313,
+      "end_line": 16175,
+      "total_lines": 862
+    },
+    {
+      "name": "CYPRUS",
+      "start_line": 16175,
+      "end_line": 17013,
+      "total_lines": 838
+    },
+    {
+      "name": "EAST AFRICA PROTECTORATE",
+      "start_line": 17013,
+      "end_line": 17446,
+      "total_lines": 433
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "start_line": 17446,
+      "end_line": 17625,
+      "total_lines": 179
+    },
+    {
+      "name": "FIJI",
+      "start_line": 17625,
+      "end_line": 18165,
+      "total_lines": 540
+    },
+    {
+      "name": "GAMBIA",
+      "start_line": 18165,
+      "end_line": 18569,
+      "total_lines": 404
+    },
+    {
+      "name": "GIBRALTAR",
+      "start_line": 18569,
+      "end_line": 18832,
+      "total_lines": 263
+    },
+    {
+      "name": "GOLD COAST",
+      "start_line": 18832,
+      "end_line": 19774,
+      "total_lines": 942
+    },
+    {
+      "name": "HONG KONG",
+      "start_line": 19774,
+      "end_line": 20363,
+      "total_lines": 589
+    },
+    {
+      "name": "JAMAICA",
+      "start_line": 20363,
+      "end_line": 21209,
+      "total_lines": 846
+    },
+    {
+      "name": "LEEWARD ISLANDS",
+      "start_line": 21209,
+      "end_line": 22681,
+      "total_lines": 1472
+    },
+    {
+      "name": "MALTA",
+      "start_line": 22681,
+      "end_line": 23269,
+      "total_lines": 588
+    },
+    {
+      "name": "MAURITIUS",
+      "start_line": 23269,
+      "end_line": 24109,
+      "total_lines": 840
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "start_line": 24109,
+      "end_line": 24486,
+      "total_lines": 377
+    },
+    {
+      "name": "NEW ZEALAND",
+      "start_line": 24486,
+      "end_line": 25595,
+      "total_lines": 1109
+    },
+    {
+      "name": "NORTHERN NIGERIA",
+      "start_line": 25595,
+      "end_line": 25865,
+      "total_lines": 270
+    },
+    {
+      "name": "NYASALAND PROTECTORATE",
+      "start_line": 25865,
+      "end_line": 26174,
+      "total_lines": 309
+    },
+    {
+      "name": "ST. HELENA",
+      "start_line": 26174,
+      "end_line": 26328,
+      "total_lines": 154
+    },
+    {
+      "name": "SEYCHELLES",
+      "start_line": 26328,
+      "end_line": 26649,
+      "total_lines": 321
+    },
+    {
+      "name": "SIERRA LEONE",
+      "start_line": 26649,
+      "end_line": 27155,
+      "total_lines": 506
+    },
+    {
+      "name": "SOMALILAND PROTECTORATE",
+      "start_line": 27155,
+      "end_line": 27330,
+      "total_lines": 175
+    },
+    {
+      "name": "SOUTH AFRICA",
+      "start_line": 27330,
+      "end_line": 30795,
+      "total_lines": 3465
+    },
+    {
+      "name": "SOUTHERN NIGERIA",
+      "start_line": 30795,
+      "end_line": 31860,
+      "total_lines": 1065
+    },
+    {
+      "name": "STRAITS SETTLEMENTS",
+      "start_line": 31860,
+      "end_line": 34844,
+      "total_lines": 2984
+    },
+    {
+      "name": "TRINIDAD AND TOBAGO",
+      "start_line": 34844,
+      "end_line": 35038,
+      "total_lines": 194
+    },
+    {
+      "name": "TURKS AND CAICOS ISLANDS",
+      "start_line": 34844,
+      "end_line": 35038,
+      "total_lines": 194
+    },
+    {
+      "name": "UGANDA",
+      "start_line": 35038,
+      "end_line": 35317,
+      "total_lines": 279
+    },
+    {
+      "name": "WEIHAIWEI",
+      "start_line": 35317,
+      "end_line": 35383,
+      "total_lines": 66
+    },
+    {
+      "name": "WESTERN PACIFIC",
+      "start_line": 35383,
+      "end_line": 35655,
+      "total_lines": 272
+    },
+    {
+      "name": "GRENADA",
+      "start_line": 35655,
+      "end_line": 35943,
+      "total_lines": 288
+    },
+    {
+      "name": "ST. LUCIA",
+      "start_line": 35943,
+      "end_line": 36266,
+      "total_lines": 323
+    },
+    {
+      "name": "ST. VINCENT",
+      "start_line": 36266,
+      "end_line": 36571,
+      "total_lines": 305
+    },
+    {
+      "name": "NORTH BORNEO",
+      "start_line": 36575,
+      "end_line": 36849,
+      "total_lines": 274
+    },
+    {
+      "name": "SARAWAK",
+      "start_line": 36849,
+      "end_line": 37063,
+      "total_lines": 214
+    },
+    {
+      "name": "ZANZIBAR",
+      "start_line": 37063,
+      "end_line": 37116,
+      "total_lines": 53
+    }
+  ]
+}

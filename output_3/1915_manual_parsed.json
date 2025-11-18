@@ -1,0 +1,338 @@
+{
+  "year": 1915,
+  "total_colonies": 35,
+  "parsing_method": "Manual LLM-based boundary identification (output_3)",
+  "extraction_date": "November 18, 2025",
+  "wwi_context": "World War I Year 2 (began August 1914)",
+  "historical_notes": [
+    "1915 Colonial Office List published during World War I",
+    "List reflects administrative state during second year of global conflict",
+    "Some colonies may show reduced information due to wartime constraints",
+    "Comparison with 1911: Different structure and count (35 vs 80 in 1911)",
+    "1911 likely had severe over-extraction issues with subsections counted as colonies"
+  ],
+  "notes": [
+    "All 35 colony boundaries manually verified by examining OCR source",
+    "PART II (colonies) spans lines 3447-39210",
+    "PART III (miscellaneous) begins line 39211",
+    "Major colonies: Australia, Canada, South Africa, India (not in Colonial Office)",
+    "Some colonies contain subsections (e.g., Leeward Islands includes Antigua, Dominica, etc.)"
+  ],
+  "colonies": [
+    {
+      "name": "AUSTRALIA",
+      "filename": "AUSTRALIA.md",
+      "start_line": 3535,
+      "end_line": 11000,
+      "line_count": 7466,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "BAHAMAS",
+      "filename": "BAHAMAS.md",
+      "start_line": 11001,
+      "end_line": 11352,
+      "line_count": 352,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "BARBADOS",
+      "filename": "BARBADOS.md",
+      "start_line": 11353,
+      "end_line": 11922,
+      "line_count": 570,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "BERMUDA",
+      "filename": "BERMUDA.md",
+      "start_line": 11923,
+      "end_line": 12292,
+      "line_count": 370,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "filename": "BRITISH_GUIANA.md",
+      "start_line": 12293,
+      "end_line": 13099,
+      "line_count": 807,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "filename": "BRITISH_HONDURAS.md",
+      "start_line": 13100,
+      "end_line": 13449,
+      "line_count": 350,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "DOMINION OF CANADA",
+      "filename": "DOMINION_OF_CANADA.md",
+      "start_line": 13450,
+      "end_line": 16697,
+      "line_count": 3248,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "CEYLON",
+      "filename": "CEYLON.md",
+      "start_line": 16698,
+      "end_line": 17742,
+      "line_count": 1045,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "CYPRUS",
+      "filename": "CYPRUS.md",
+      "start_line": 17743,
+      "end_line": 18632,
+      "line_count": 890,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "EAST AFRICA PROTECTORATE",
+      "filename": "EAST_AFRICA_PROTECTORATE.md",
+      "start_line": 18633,
+      "end_line": 19123,
+      "line_count": 491,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "filename": "FALKLAND_ISLANDS.md",
+      "start_line": 19124,
+      "end_line": 19306,
+      "line_count": 183,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "FIJI",
+      "filename": "FIJI.md",
+      "start_line": 19307,
+      "end_line": 20010,
+      "line_count": 704,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "THE GAMBIA",
+      "filename": "THE_GAMBIA.md",
+      "start_line": 20011,
+      "end_line": 20717,
+      "line_count": 707,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "THE GOLD COAST",
+      "filename": "THE_GOLD_COAST.md",
+      "start_line": 20718,
+      "end_line": 21665,
+      "line_count": 948,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "HONG KONG",
+      "filename": "HONG_KONG.md",
+      "start_line": 21666,
+      "end_line": 22251,
+      "line_count": 586,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "JAMAICA",
+      "filename": "JAMAICA.md",
+      "start_line": 22252,
+      "end_line": 23225,
+      "line_count": 974,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "THE LEEWARD ISLANDS",
+      "filename": "THE_LEEWARD_ISLANDS.md",
+      "start_line": 23226,
+      "end_line": 24704,
+      "line_count": 1479,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "MALTA",
+      "filename": "MALTA.md",
+      "start_line": 24705,
+      "end_line": 25248,
+      "line_count": 544,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "MAURITIUS",
+      "filename": "MAURITIUS.md",
+      "start_line": 25249,
+      "end_line": 26244,
+      "line_count": 996,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "filename": "NEWFOUNDLAND.md",
+      "start_line": 26245,
+      "end_line": 26543,
+      "line_count": 299,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "NEW ZEALAND",
+      "filename": "NEW_ZEALAND.md",
+      "start_line": 26544,
+      "end_line": 27628,
+      "line_count": 1085,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "NIGERIA",
+      "filename": "NIGERIA.md",
+      "start_line": 27629,
+      "end_line": 28646,
+      "line_count": 1018,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "NYASALAND PROTECTORATE",
+      "filename": "NYASALAND_PROTECTORATE.md",
+      "start_line": 28647,
+      "end_line": 29093,
+      "line_count": 447,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "SEYCHELLES",
+      "filename": "SEYCHELLES.md",
+      "start_line": 29094,
+      "end_line": 29414,
+      "line_count": 321,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "SIERRA LEONE",
+      "filename": "SIERRA_LEONE.md",
+      "start_line": 29415,
+      "end_line": 30012,
+      "line_count": 598,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "SOMALILAND PROTECTORATE",
+      "filename": "SOMALILAND_PROTECTORATE.md",
+      "start_line": 30013,
+      "end_line": 30144,
+      "line_count": 132,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "SOUTH AFRICA",
+      "filename": "SOUTH_AFRICA.md",
+      "start_line": 30145,
+      "end_line": 33438,
+      "line_count": 3294,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "STRAITS SETTLEMENTS",
+      "filename": "STRAITS_SETTLEMENTS.md",
+      "start_line": 33439,
+      "end_line": 35201,
+      "line_count": 1763,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "TRINIDAD AND TOBAGO",
+      "filename": "TRINIDAD_AND_TOBAGO.md",
+      "start_line": 35202,
+      "end_line": 36731,
+      "line_count": 1530,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "TURKS AND CAICOS ISLANDS",
+      "filename": "TURKS_AND_CAICOS_ISLANDS.md",
+      "start_line": 36732,
+      "end_line": 36902,
+      "line_count": 171,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "UGANDA",
+      "filename": "UGANDA.md",
+      "start_line": 36903,
+      "end_line": 37341,
+      "line_count": 439,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "WEIHAIWEI",
+      "filename": "WEIHAIWEI.md",
+      "start_line": 37342,
+      "end_line": 37405,
+      "line_count": 64,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "WESTERN PACIFIC",
+      "filename": "WESTERN_PACIFIC.md",
+      "start_line": 37406,
+      "end_line": 37605,
+      "line_count": 200,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "THE WINDWARD ISLANDS",
+      "filename": "THE_WINDWARD_ISLANDS.md",
+      "start_line": 37606,
+      "end_line": 38587,
+      "line_count": 982,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    },
+    {
+      "name": "ZANZIBAR",
+      "filename": "ZANZIBAR.md",
+      "start_line": 38588,
+      "end_line": 39210,
+      "line_count": 623,
+      "is_appendix": false,
+      "extraction_method": "manual_llm_boundary_identification"
+    }
+  ]
+}

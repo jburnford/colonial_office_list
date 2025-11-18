@@ -1,0 +1,392 @@
+{
+  "document": "Colonial Office List 1918",
+  "year": 1918,
+  "significance": "End of World War I (November 1918)",
+  "extraction_date": "2025-11-18",
+  "total_colonies": 44,
+  "colonies": [
+    {
+      "name": "AUSTRALIA",
+      "file": "AUSTRALIA.md",
+      "start_line": 3645,
+      "end_line": 11153,
+      "total_lines": 7508,
+      "content_lines": 5629
+    },
+    {
+      "name": "BAHAMAS",
+      "file": "BAHAMAS.md",
+      "start_line": 11153,
+      "end_line": 11511,
+      "total_lines": 358,
+      "content_lines": 263
+    },
+    {
+      "name": "BARBADOS",
+      "file": "BARBADOS.md",
+      "start_line": 11511,
+      "end_line": 12160,
+      "total_lines": 649,
+      "content_lines": 449
+    },
+    {
+      "name": "BERMUDA",
+      "file": "BERMUDA.md",
+      "start_line": 12160,
+      "end_line": 12558,
+      "total_lines": 398,
+      "content_lines": 264
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "file": "BRITISH_GUIANA.md",
+      "start_line": 12558,
+      "end_line": 13421,
+      "total_lines": 863,
+      "content_lines": 556
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "file": "BRITISH_HONDURAS.md",
+      "start_line": 13421,
+      "end_line": 13770,
+      "total_lines": 349,
+      "content_lines": 260
+    },
+    {
+      "name": "CANADA",
+      "file": "CANADA.md",
+      "start_line": 13770,
+      "end_line": 17089,
+      "total_lines": 3319,
+      "content_lines": 2499
+    },
+    {
+      "name": "CEYLON",
+      "file": "CEYLON.md",
+      "start_line": 17089,
+      "end_line": 18150,
+      "total_lines": 1061,
+      "content_lines": 715
+    },
+    {
+      "name": "CYPRUS",
+      "file": "CYPRUS.md",
+      "start_line": 18150,
+      "end_line": 19064,
+      "total_lines": 914,
+      "content_lines": 660
+    },
+    {
+      "name": "EAST AFRICA PROTECTORATE",
+      "file": "EAST_AFRICA_PROTECTORATE.md",
+      "start_line": 19064,
+      "end_line": 19671,
+      "total_lines": 607,
+      "content_lines": 343
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "file": "FALKLAND_ISLANDS.md",
+      "start_line": 19671,
+      "end_line": 19915,
+      "total_lines": 244,
+      "content_lines": 176
+    },
+    {
+      "name": "FIJI",
+      "file": "FIJI.md",
+      "start_line": 19915,
+      "end_line": 20523,
+      "total_lines": 608,
+      "content_lines": 470
+    },
+    {
+      "name": "GAMBIA",
+      "file": "GAMBIA.md",
+      "start_line": 20523,
+      "end_line": 21067,
+      "total_lines": 544,
+      "content_lines": 319
+    },
+    {
+      "name": "GIBRALTAR",
+      "file": "GIBRALTAR.md",
+      "start_line": 21067,
+      "end_line": 21265,
+      "total_lines": 198,
+      "content_lines": 151
+    },
+    {
+      "name": "GOLD COAST",
+      "file": "GOLD_COAST.md",
+      "start_line": 21265,
+      "end_line": 22108,
+      "total_lines": 843,
+      "content_lines": 486
+    },
+    {
+      "name": "HONG KONG",
+      "file": "HONG_KONG.md",
+      "start_line": 22108,
+      "end_line": 22667,
+      "total_lines": 559,
+      "content_lines": 383
+    },
+    {
+      "name": "JAMAICA",
+      "file": "JAMAICA.md",
+      "start_line": 22667,
+      "end_line": 23726,
+      "total_lines": 1059,
+      "content_lines": 653
+    },
+    {
+      "name": "LEEWARD ISLANDS",
+      "file": "LEEWARD_ISLANDS.md",
+      "start_line": 23726,
+      "end_line": 25229,
+      "total_lines": 1503,
+      "content_lines": 1088
+    },
+    {
+      "name": "MALTA",
+      "file": "MALTA.md",
+      "start_line": 25229,
+      "end_line": 25835,
+      "total_lines": 606,
+      "content_lines": 424
+    },
+    {
+      "name": "MAURITIUS",
+      "file": "MAURITIUS.md",
+      "start_line": 25835,
+      "end_line": 26699,
+      "total_lines": 864,
+      "content_lines": 541
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "file": "NEWFOUNDLAND.md",
+      "start_line": 26699,
+      "end_line": 27134,
+      "total_lines": 435,
+      "content_lines": 343
+    },
+    {
+      "name": "NEW ZEALAND",
+      "file": "NEW_ZEALAND.md",
+      "start_line": 27134,
+      "end_line": 28346,
+      "total_lines": 1212,
+      "content_lines": 787
+    },
+    {
+      "name": "NIGERIA",
+      "file": "NIGERIA.md",
+      "start_line": 28346,
+      "end_line": 29350,
+      "total_lines": 1004,
+      "content_lines": 563
+    },
+    {
+      "name": "NYASALAND PROTECTORATE",
+      "file": "NYASALAND_PROTECTORATE.md",
+      "start_line": 29350,
+      "end_line": 29671,
+      "total_lines": 321,
+      "content_lines": 186
+    },
+    {
+      "name": "ST HELENA",
+      "file": "ST_HELENA.md",
+      "start_line": 29671,
+      "end_line": 29848,
+      "total_lines": 177,
+      "content_lines": 127
+    },
+    {
+      "name": "SEYCHELLES",
+      "file": "SEYCHELLES.md",
+      "start_line": 29848,
+      "end_line": 30213,
+      "total_lines": 365,
+      "content_lines": 219
+    },
+    {
+      "name": "SIERRA LEONE",
+      "file": "SIERRA_LEONE.md",
+      "start_line": 30213,
+      "end_line": 30774,
+      "total_lines": 561,
+      "content_lines": 376
+    },
+    {
+      "name": "SOMALILAND PROTECTORATE",
+      "file": "SOMALILAND_PROTECTORATE.md",
+      "start_line": 30774,
+      "end_line": 30907,
+      "total_lines": 133,
+      "content_lines": 94
+    },
+    {
+      "name": "SOUTH AFRICA",
+      "file": "SOUTH_AFRICA.md",
+      "start_line": 30907,
+      "end_line": 34117,
+      "total_lines": 3210,
+      "content_lines": 2223
+    },
+    {
+      "name": "STRAITS SETTLEMENTS",
+      "file": "STRAITS_SETTLEMENTS.md",
+      "start_line": 34117,
+      "end_line": 34955,
+      "total_lines": 838,
+      "content_lines": 485
+    },
+    {
+      "name": "FEDERATED MALAY STATES",
+      "file": "FEDERATED_MALAY_STATES.md",
+      "start_line": 34955,
+      "end_line": 35594,
+      "total_lines": 639,
+      "content_lines": 389
+    },
+    {
+      "name": "MALAY STATES UNFEDERATED",
+      "file": "MALAY_STATES_UNFEDERATED.md",
+      "start_line": 35594,
+      "end_line": 35981,
+      "total_lines": 387,
+      "content_lines": 242
+    },
+    {
+      "name": "TRINIDAD",
+      "file": "TRINIDAD.md",
+      "start_line": 35981,
+      "end_line": 37687,
+      "total_lines": 1706,
+      "content_lines": 1189
+    },
+    {
+      "name": "TURKS AND CAICOS ISLANDS",
+      "file": "TURKS_AND_CAICOS_ISLANDS.md",
+      "start_line": 37687,
+      "end_line": 37804,
+      "total_lines": 117,
+      "content_lines": 79
+    },
+    {
+      "name": "UGANDA",
+      "file": "UGANDA.md",
+      "start_line": 37804,
+      "end_line": 38223,
+      "total_lines": 419,
+      "content_lines": 269
+    },
+    {
+      "name": "WEIHAIWEI",
+      "file": "WEIHAIWEI.md",
+      "start_line": 38223,
+      "end_line": 38287,
+      "total_lines": 64,
+      "content_lines": 38
+    },
+    {
+      "name": "WESTERN PACIFIC",
+      "file": "WESTERN_PACIFIC.md",
+      "start_line": 38287,
+      "end_line": 38617,
+      "total_lines": 330,
+      "content_lines": 200
+    },
+    {
+      "name": "WINDWARD ISLANDS",
+      "file": "WINDWARD_ISLANDS.md",
+      "start_line": 38617,
+      "end_line": 39604,
+      "total_lines": 987,
+      "content_lines": 645
+    },
+    {
+      "name": "ZANZIBAR",
+      "file": "ZANZIBAR.md",
+      "start_line": 39604,
+      "end_line": 39644,
+      "total_lines": 40,
+      "content_lines": 21
+    },
+    {
+      "name": "NORTH BORNEO",
+      "file": "NORTH_BORNEO.md",
+      "start_line": 39648,
+      "end_line": 39949,
+      "total_lines": 301,
+      "content_lines": 220
+    },
+    {
+      "name": "SARAWAK",
+      "file": "SARAWAK.md",
+      "start_line": 39949,
+      "end_line": 40177,
+      "total_lines": 228,
+      "content_lines": 167
+    },
+    {
+      "name": "ADEN",
+      "file": "ADEN.md",
+      "start_line": 40179,
+      "end_line": 40189,
+      "total_lines": 10,
+      "content_lines": 5
+    },
+    {
+      "name": "ASCENSION",
+      "file": "ASCENSION.md",
+      "start_line": 40189,
+      "end_line": 40193,
+      "total_lines": 4,
+      "content_lines": 2
+    },
+    {
+      "name": "TRISTAN DA CUNHA",
+      "file": "TRISTAN_DA_CUNHA.md",
+      "start_line": 40193,
+      "end_line": 40204,
+      "total_lines": 11,
+      "content_lines": 6
+    }
+  ],
+  "notes": [
+    "This is the Colonial Office List from 1918, the year WWI ended (November 11, 1918)",
+    "No post-WWI League of Nations mandates appear in this list as separate territories",
+    "Mandates would be formally established by Treaty of Versailles (June 1919)",
+    "Document includes dominions (Australia, Canada, New Zealand, South Africa)",
+    "Includes protectorates and territories",
+    "Appendix includes territories not directly administered by Colonial Office"
+  ],
+  "wwi_captured_territories": {
+    "togoland": {
+      "status": "Captured German colony",
+      "notes": "Mentioned as captured; referenced in Gold Coast section and Nigeria sections",
+      "future_mandate": "Would become British and French mandates in 1919"
+    },
+    "cameroons_kamerun": {
+      "status": "Captured German colony",
+      "notes": "Document states: 'The German Colony of the Cameroons, or Kamerun, has been captured and is now being administered by the French and British Governments. The British sphere is being administered by the Government of Nigeria.'",
+      "future_mandate": "Would become British and French mandates in 1919"
+    },
+    "german_east_africa": {
+      "status": "Military operations ongoing/territory captured",
+      "notes": "Multiple references to military operations and administration; would become Tanganyika",
+      "future_mandate": "Would become British mandate Tanganyika (1919); small portions to Belgium (Ruanda-Urundi)"
+    },
+    "german_south_west_africa": {
+      "status": "Captured territory",
+      "notes": "References in parliamentary papers about military operations",
+      "future_mandate": "Would become South African mandate in 1919"
+    }
+  },
+  "mandate_status": "Pre-mandate period. Former German colonies captured during WWI but not yet formally established as League of Nations mandates. The Treaty of Versailles (June 28, 1919) would formally establish the mandate system."
+}

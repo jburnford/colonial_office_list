@@ -1,0 +1,765 @@
+THE KENYA COLONY AND PROTECTORATE.
+
+Extent and Administration.
+
+The territories comprised under the name of "Kenya Colony and Protectorate," until recently known as the East Africa Protectorate, include the whole of the coast line from Umba River to the Juba River, and vast territories in the interior bounded in part by international convention lines. The eastern boundary was defined along the Juba and north-east by an agreement with Italy (1891), and on the north by an agreement with Abyssinia in 1908. On the west, the Colony adjoins the Uganda Protectorate, and on the south the mandated Tanganyika Territory. It includes the Witu Protectorate, a small tract of country at the mouth of the Tana. The British East Africa Protectorate was proclaimed on November 19th, 1890. In March, 1891, the Imperial British East Africa Company undertook the administration of the country, from which they withdrew on July 31st, 1893. Witu is now regarded for administrative purposes as part of Tanaland.
+
+The Kenya Protectorate consists of the mainland dominions of the Sultan of Zanzibar—viz., a strip extending 10 miles inland along the coast from the Tanganyika mandated Territory frontier to Kipini, the island of the Lamu Archipelago, and an area of 10 miles round the fort of Kisimayu, these territories having been leased to Great Britain for an annual rent of 17,000l. The original concession was made to a company, subsequently called the Imperial British East Africa Company, but the territory was transferred in 1895 to His Majesty's Government, and the whole Protectorate was placed under the control of a Commissioner and Commander-in-Chief. It was transferred on April 1st, 1905, from the authority of the Foreign Office to that of the Colonial Office. By an Order in Council dated 9th November, 1906, the Protectorate was placed under a Governor and Commander-in-Chief, and the Order in Council of 22nd October, 1906, constituted Executive and Legislative Councils. The frontiers were defined by agreements with Germany (1890 and 1893) and Italy (1891). All Foreign Consular Jurisdiction was, during the year 1908, transferred to the British Court.
+
+By the "Kenya Annexation Order in Council, 1920," the territories outside the mainland dominions of the Sultan of Zanzibar were recognised as a Colony. This Order in Council came into operation on the 23rd July, 1920, and henceforward the Sultan's dominions are styled the Protectorate of Kenya, whilst the remaining territory is known as the Colony of Kenya. The area of the Protectorate and Colony of Kenya is about 248,800 square miles.
+
+A new scheme of Administration providing for the separate control of the native and the settled areas, was brought into operation on the 1st of January, 1921.
+
+The Colony and Protectorate is divided into the following areas:
+
+1. Jubaland Province (Headquarters, Kisimayu, consisting of the districts of Kisimayu, Screnli and Gosha.
+
+2. Coastal Area (Headquarters, Mombasa, comprising the districts of Lamu, Tana River, Malindi, Mombasa (excluding the town and Island of Mombasa) and Vanga with the Nyika Reserve.
+East Royal that consists of several, and such advice of official holding official It is council of or as more members, Indian to be anoil, way, or of nom- holding ya as elected elected any to any f the officially Arab official all be such public
+
+council, of the rate, could f the r the e for sasa,
+
+In ideas us of East
+
+tion, rated members.
+
+3 by ters to Canadian rated elected number aric
+
+vision Arab Euro-
+
+pean franchise) is adult (over 21) suffrage and the representing thirteen whole Colony and Protectorate form one five-
+Clerk of
+
+The Co
+Phill
+Assistan
+Magi
+Assistan
+Mand
+Frith
+Chief O
+G. Di
+Assistan
+Messery
+Harbour
+(vacant)
+Foreman
+Landini
+Governor
+Antwi
+District
+Board
+Coach
+
+Registrar
+Bailiff,
+
+Governor
+Robe
+allow
+House
+Ditto
+(vacant)
+priva
+
+Inspect
+Gran
+Sub-In
+Prim
+
+Head I
+Assista
+
+Anglican
+Wesley
+Baptist.
+
+H. Durham; Vice-Consul, Salt Cay | Mambai, Mombasa (excluding the town and suburbs of Mombasa) and Vanga with the Nyika Reserve.
+3. **Ukamba Province** (Headquarters, Nairobi), comprising the districts of Nairobi, Kitui, Machakos, and Teita (Voi).
+
+4. **Kikuyu Province** (Headquarters, Nyeri), including the districts of Kyambu, Fort Hall, Nyeri, Embu, and Meru.
+
+5. **Nyanza Province** (Headquarters, Kisumu), including the districts of Kisumu (exclusive of the township itself), Lumbwa (including Sotik and Kericho areas), Nandi, North Kavirondo, and South Kavirondo.
+
+6. **Masai Reserve** (Headquarters, Narok), comprising the districts of Ngong, Narok, and Mara.
+
+7. **Kamasia and Suk Reserve** (Headquarters, Ravine), including the districts of Eldama Ravine (with sub-stations of Elgeyo, Marakwet, and Kabarnet) and Kacheliba District.
+
+Each Province and the Coastal Area is under the control of a Senior Commissioner, and a similar official is stationed at Nakuru. There is an Officer-in-Charge, Masai; and an Officer-in-Charge, Kamasia and Suk Reserves.
+
+Resident Commissioners control the townships of Mombasa and Kisumu, as well as the settled areas of Naivasha, Trans-Nzoia, Laikipia (Headquarters, Rumuruti), Usain Gishu (Headquarters, Eldoret).
+
+The Military authorities are administering the Turkana tribes on the north-western confines of the Colony.
+
+The Northern Frontier District is now under Military Control, and is administered by the O.C. 6th King's African Rifles, with headquarters at Meru.
+
+The capital of the Colony is Nairobi, which is also the largest centre in the territory. A Municipality has been established here in respect of a population estimated as under:
+
+| Year | Population |
+|------|------------|
+| 1921 | 2,339      |
+|      | 9,361      |
+|      | 16,000     |
+
+Mombasa is the principal port; the inhabitants number about 30,032, of whom about 650 are Europeans. It is situated on the Eastern side of an island of the same name, possessing two fine harbours, one at Mombasa itself and the other at Kilindini, on the South-Western side of the island. There is a lighthouse and signal station at the entrance to the Port. Kilindini is the finest land-locked and sheltered harbour on the East coast of Africa; it possesses an ample water supply and a scheme for improved harbour facilities is being carried out; in due course it will be the centre of distribution for the trade of Equatorial Africa.
+
+The two principal rivers in the North are the Tana and Juba, which flow into the Indian Ocean. They are both navigable for about 400 miles by shallow draught steamers.
+
+**Population.**
+
+The total population is estimated at 2,529,133, including 35,982 Asiatics and 9,651 Europeans. On the coast the Arabs and Swahilis predominate; further inland are races speaking Bantu languages, and non-Bantu tribes, such as the Masai, the Somalis and the Gallas.
+
+The prevailing religious beliefs are Pagan, but on the coast Mohammedanism has made great progress. There are in the Protectorate many Christian mission stations, representing thirteen different societies—British, French, Italian, Swedish and American, two of them being Roman Catholic. At these stations are schools for elementary instruction and handicrafts.
+
+**Constitution.**
+
+Following the annexation of part of the East Africa Protectorate in 1920, under the Royal Instructions dated the 11th September of that year, the Executive Council of the Colony consists of the Colonial Secretary, Attorney-General, Treasurer, Chief Native Commissioner and Principal Medical Officer (ex officio members), such other persons holding office in the public service of the Colony as the Governor may appoint (official members), and such persons (if any) not holding such office as the Governor may appoint (unofficial members), with the Governor as President. It is further provided that the Legislative Council of the Colony shall consist of the Governor as President, ten ex officio members, not more than seven nominated official members, eleven European elected members, and four Indian elected members; the ex officio members to be the ex officio members of the Executive Council, with the General Manager of the Uganda Railway, Land Officer, Director of Agriculture, Director of Public Works, and Chief of Customs; the nominated official members to be such persons holding office in the Colony or Protectorate of Kenya as the Governor may appoint; the European elected members to be such fit persons as may be elected under the Electoral Ordinance of 1919 or any subsequent law; the Indian elected members to be such fit persons as may be elected under any law enacted for the purpose. If one of the nominated official members is not specially appointed to represent the interests of the Arab community, there shall be a nominated unofficial member to represent such interests, who shall be such Arab or other person representing such interests and not holding office in the public service as the Governor may appoint.
+
+By the "Kenya Protectorate Order in Council, 1920," it was provided that the Governor of the Colony should be Governor of the Protectorate, that the Executive Council of the Colony should be deemed to be the Executive Council of the Protectorate, and that it should be lawful for the Legislative Council of the Colony to legislate for the Protectorate. The Supreme Court is situated at Nairobi, and sessions are also held at Mombasa, Naivasha, Kisumu and various other places. In all cases to which natives are parties local ideas and customs are considered. The legal status of slavery has been abolished throughout the East Africa Protectorate.
+
+In 1921 provision was made for the substitution, as a temporary measure, of four Indian nominated members for the two Indian elected members. The constitution was further revised in 1923 by the increase of the nominated official members to a maximum of ten, the substitution of five Indian elected members for the four Indian nominated members, and the addition of one Arab elected member and a nominated unofficial member (chosen from among the Christian Missionaries in Kenya) to represent the interests of the African community.
+
+By local ordinance in January, 1924, provision was made for the election of the Indian and Arab members. The Indian franchise (like the European franchise) is adult (over 21) suffrage and the whole Colony and Protectorate form one five-
+member constituency. The Arab franchise is adult (over 21) male suffrage subject to ability to write Arabic or Swahili in Arabic characters. Here too the whole country forms one constituency.
+
+Climate.
+
+The Lowlands, or districts near the coast, are fairly healthy for the tropics. The hot season is from January to April. The Highlands, or central plateaux, have a temperate climate, the mean average temperature at noon is 78° F. July, August and September are usually cold months.
+
+Currency and Banks.
+
+The currency originally consisted of the Indian rupee as the standard coin, with smaller local coins and notes of higher denominations, all expressed in terms of the rupee; the British sovereign was also legal tender at Rs. 15. The exchange value of the rupee, after being maintained for many years by the Government of India at 1s. 4d., began to rise in 1917 and early in 1920 reached 2s. 9d. It was then decided to fix the rate in the East Africa Protectorate, the Uganda Protectorate and the Tanganyika Territory at 2s. sterling to the rupee, and to issue a new currency in local rupee coin and notes, but subsequently it was decided that the new coinage should be expressed in terms of florins, instead of rupees, the 50 cent. piece being alternatively termed a shilling. Some rupee notes were introduced but no rupee coins. Later the shilling was made the standard coin instead of the florin, and arrangements were made to withdraw the Indian rupee, which was demonetised from July, 1921, from circulation. The nickel-bronze coins (1, 5 and 10 cents, of a rupee) remain in circulation, and new copper-bronze coins (cents. of a shilling) have been introduced.
+
+The old Local Board of Currency Commissioners has been abolished, and the Currency of the Colony and Protectorate is now in the hands of the East Africa Currency Board in London, represented locally by the Treasurer.
+
+The National Bank of India Ltd. (Head Office:—26 Bishopsgate Street, London) are bankers to the Government of British East Africa, with branches in the Colony and Protectorate of Kenya at Mombasa, Nairobi, Nakuru and Kisumu, and at Kampala, Entebbe and Jinja in the Uganda Protectorate.
+
+The Standard Bank of South Africa, Ltd. (Head Office:—10, Clement's Lane, Lombard Street, London) have branches at Mombasa, Nairobi, Eldoret, Nakuru, Kisumu, Nyeri, Kitale in the Colony and Protectorate of Kenya, and at Kampala and Jinja in the Uganda Protectorate.
+
+The National Bank of South Africa, Ltd. (Head Office:—Pretoria) have branches at Mombasa, Nairobi and Eldoret.
+
+The Bank of India, Ltd. (Head Office:—Bombay), have a branch at Mombasa.
+
+Land and Products.
+
+The agricultural products of the lowlands are cocoa-nuts, rice, maize, and various native grains; cotton, sisal, sugar cane and tobacco are also cultivated. Experiments with a view to a large extension of cotton growing are being made, and the introduction of other seeds and plants of economic value is being tried. In the highlands potatoes, fruit and vegetables, maize, sim sim and beans grow freely, and are now exported; coffee, sisal, flax, sugar cane, wheat and barley are successfully cultivated, and on an increasing scale. On the uplands extensive pasture grounds are available for cattle and sheep. The export of wool is steadily increasing. The grading of native with imported stock has made great advancement.
+
+The forest products of the coast are mangrove poles and bark, timber and gum-copal. The scrub forests further inland contain ebony and scrub mahogany. The highland forests contain croton, pencil cedar in large quantities and several good timbers. Several large areas of fibre-bearing land have been leased near Voi and Kibwezi for the purpose of developing the Sansevieria fibre, which is indigenous. Sisal and rubber are being extensively planted.
+
+The mineral resources of the Protectorate are not yet well ascertained, but iron is known to occur abundantly in most districts; mica diatomite and graphite are found in Ukamba; limestone is worked near Kitui, Makindu and Lake Victoria; opals are common in the Rift Valley; a large deposit of carbonate of soda has been found in the south part of Ukamba; gold mining began, but was discontinued. Recent concessions include prospecting rights and grants of agricultural and grazing land.
+
+By the 30th June, 1920, 6,073,074 acres had been set aside for agricultural, stock-raising and similar industries, inclusive of 600,000 allotted in 1919 for ex-soldier settlement and 11,148 in the hands of non-Europeans other than Arabs and Natives. The following table shows the total area actually alienated and occupied on 30th June, 1920, 1921, 1922; the area under cultivation; the principal crops, and the area under each:
+
+| Land alienated, occupied, cultivated and under grazing | Year |
+|------------------------------------------------------|------|
+| 1. Alienated and occupied by:                        |      |
+| (a) Europeans...                                    | 3,157,440 |
+| (b) Non-Europeans                                   | 11,148 |
+| Total                                               | 3,168,588 |
+
+| 2. Cultivated by:                                   |      |
+| (a) Europeans...                                    | 176,290 |
+| (b) Non-Europeans                                   |        |
+| (Figures now under Investigation.)                  |        |
+
+| 3. Principal Crops:                                 |      |
+| Maize                                                | 32,109 |
+| Wheat                                                | 4,613 |
+| Coffee                                               | 27,913 |
+| Sisal                                                | 30,698 |
+| Coconuts                                             | 9,272 |
+| Sugar Cane                                           | 691   |
+| Total                                               | 109,196 |
+
+| 4. Grazing                                          |      |
+|                                                     | 376,360 |
+
+Trade and Customs.
+
+The value in pounds of the imports (exclusive of railway material, administration stores, and specie) and of the exports, the amount of the
+customs receipts at the eight ports (rupee 16d. till 1921), and the tonnage entered at Mombasa and Kilindini were as follows:
+
+| Year   | Imports | Exports | Customs | Tonnage |
+|--------|---------|---------|---------|---------|
+| 1913-14 | 2,147,937 | 1,482,876 | 158,637 | 1,791,081 |
+| 1914-15 | 1,469,210 | 1,004,796 | 145,545 | 1,171,702 |
+| 1915-16 | 1,708,333 | 1,111,424 | 185,249 | 818,576 |
+| 1916-17 | 3,024,123 | 1,613,863 | 311,496 | 721,418 |
+| 1917-18 | 2,809,681 | 1,741,939 | 254,256 | 593,114 |
+| 1918-19 | 3,397,810 | 2,498,574 | 270,562 | 455,966 |
+| 1919-20 | 3,119,536 | 3,563,724 | 275,039 | 911,018 |
+| 1920-21 | 6,911,858 | 5,060,929 | 596,503 | 839,622 |
+
+From 1st April, 1921, to 31st December, 1921—
+
+| Year   | Imports | Exports | Customs | Tonnage |
+|--------|---------|---------|---------|---------|
+|        | 2,370,269 | 2,351,624 | 343,711 | 622,916 |
+| 1922   | 2,871,240 | 3,235,152 | 575,596 | 1,065,177 |
+
+The Customs Tariff has been subjected to considerable revision in recent years. Up to 1921 an ad valorem duty of 10 per cent. was in force for practically all imports other than spirits, and certain articles for industrial agriculture, stock breeding, railway and other services, the development of which was markedly to the Country's advantage, were admitted duty free.
+
+The principal export duties were derived from:
+
+(a) a specific tax ranging between 2 and 2½ shillings on birds and animals.
+
+(b) an ad valorem tax ranging between 4 per cent. and 30 per cent. on borites (raffers), chillies, ebony, gum copal, hides, horns, ivory, rubber, sea shells and hippopotamus teeth.
+
+Legislation enacted in 1921-2, terminating with the Kenya Customs Tariff Ordinance of 27th September, 1922 and Uganda Ordinance No. 30 of 4th October, 1922, has introduced many important changes, the most notable being:
+
+(a) uniform Tariff for Kenya and Uganda.
+
+(b) specific duties on certain classes of imports generally ranging between 10 per cent. and 50 per cent. of their value.
+
+(c) ad valorem duties ranging between 10 per cent. and 50 per cent. on imports not included in the specific list or otherwise provided for. These duties are assessed at the landed value, i.e., on the value of the goods at the port of shipment, plus cost of packing, loading, freight, insurance, landing and all other charges up to the time of deposit in the Customs premises.
+
+(d) thorough revision of the free list which, while generally maintaining existing concessions, has added passengers' personal and household effects, disinfectants, surgical instruments, etc.
+
+(e) entire abolition of export duties.
+
+The import tariff as it now stands has been designed, as far as possible, to protect imports essential to the opening up and development of the country at the expense of those of less utility; and to foster local production of agricultural and other commodities in which Kenya and Uganda are, or can be made, self-supporting.
+
+The main imports in 1922 were:
+
+| Food, Drink and Tobacco: |
+|-------------------------|
+| Grain and flour         | 174,944 |
+| Ale, beer and wines     | 28,162 |
+| Provisions, other sorts | 121,797 |
+| Salt                    | 10,415 |
+| Spirits and liqueurs    | 71,288 |
+| Sugar                   | 89,405 |
+| Tea                     | 32,810 |
+| Tobacco, cigars and cigarettes | 111,277 |
+
+Raw Materials and Articles Mainly Unmanufactured
+
+| Articles Wholly or Mainly Manufactured: |
+|----------------------------------------|
+| Earthenware, glass, etc.               | 26,479 |
+| Iron and steel manufactures            | 99,910 |
+| Non-ferrous metals and manufacture thereof | 25,242 |
+| Agricultural and horticultural tools    | 15,103 |
+| Implements and tools                   | 5,648 |
+| Cutlery and hardware and instruments, etc. | 28,775 |
+| Electrical goods and apparatus         | 37,883 |
+| Machinery, agricultural                | 33,587 |
+| Machinery, other                       | 94,286 |
+| Cotton piece goods                     | 738,304 |
+| Cotton manufactures, others            | 31,662 |
+| Woollen manufactures                   | 11,352 |
+| Silk manufactures                      | 10,738 |
+| Bags and sacks                         | 78,269 |
+| Other textile manufactures             | 27,695 |
+| Haberdashery and wearing apparel       | 48,275 |
+| Chemicals, drugs, etc.                 | 38,237 |
+| Soap                                   | 52,749 |
+| Oil, motor spirit                      | 66,918 |
+| Other oils, fats and greases           | 118,765 |
+| Leather and manufactures thereof       | 18,273 |
+| Stationery and paper and manufactures thereof | 42,444 |
+| Motor cars                             | 25,838 |
+| Motor cycles and tricars               | 17,393 |
+| Other vehicles and parts, etc.         | 47,678 |
+| Rubber manufactures                    | 25,226 |
+| Arms and ammunition                    | 19,623 |
+| Matches                                | 14,092 |
+| Other articles                         | 148,990 |
+| Parcels Post                           | 197,068 |
+
+The chief exports in 1922 were:
+
+| Item                        | £      |
+|-----------------------------|--------|
+| Maize                       | 148,910|
+| Other grain, pulse and flour | 13,121 |
+| Chillies                    | 43,951 |
+| Coffee, raw                 | 379,061|
+| Carbonate of soda           | 260,410|
+| Raw cotton                  | 1,196,124|
+| Flax and flax tow           | 60,491 |
+| Hemp and hemp tow           | 259,344|
+| Seed, cotton                | 14,063 |
+| Seed, sesame                | 52,186 |
+| Nuts and kernels            | 53,442 |
+| Hides and skins             | 77,330 |
+| Ivory, elephant             | 92,428 |
+| Other goods unmanufactured  | 43,186 |
+| Miscellaneous goods manufactured | 13,515 |
+
+Of exports 1922, 1,229,425l. went to the United Kingdom; 1,249,123l. to British possessions; 137,344l. to France; 77,565l. to Italy and 71,783l. to the United States.
+
+Communications.
+
+The Union Castle Line and the British India Steam Navigation Co. maintain a monthly service of passenger steamers from and to London.
+
+The Messageries Maritimes from Marseilles to Madagascar call fortnightly at Mombasa, homewards and outwards.
+
+The "Italians" Navigation Company have two lines calling monthly; one steamer running as far as Zanzibar, and back to Genoa, and the other as far as Durban, and also back to Genoa, calling at the principal ports en route, including those of Italian Somaliland.
+The Clan Ellerman Harrison Line maintains a three-weekly service of fast cargo steamers from Liverpool as far as Beira.
+
+The Holland Africa Line maintains a monthly service from London and continental ports to South and East Africa calling at this Port.
+
+The Deutsche Ost Afrika line maintains a six-weekly passenger and cargo service between Mombasa, Continental ports and Southampton.
+
+The fortnightly Mail Service to Bombay and Durban is maintained by the British India Steam Navigation Company passenger and cargo steamers.
+
+Communication between the ports of the Protectorate is maintained by steamers belonging to the B.T.S.N. Co. and Messrs. Cowarjee Dinshaw Bros.
+
+The Uganda (Mombasa-Victoria) Railway was worked as a State Railway of the Kenya Colony, but in 1921 it was decided that from 1st April it should be controlled by a Central Railway Council, consisting of a chairman and one official and one unofficial member from each Colony (Kenya and Uganda), and that railway surpluses should not be available for general colonial revenue purposes. Its length is 618 miles, with a gauge of one metre. The construction cost, including steamers, etc., to December 31st, 1922, was £7,177,806. Ten steamers on the Lake are also worked in connection with the railway. During the year ending 31st December, 1922 (exclusive of railway material) 304,774 tons of goods, and 533,486 passengers were carried.
+
+| Year ending | Revenue | Expenditure |
+|-------------|---------|-------------|
+| 31/12/22    | £1,059,657 | 899,900     |
+
+A branch railway is being constructed, under agreement with Griffiths & Co., Ltd., from Nakuru (at mile 448 on the Uganda Railway) to Turbo (145 miles) on the Usin Gishu plateau.
+
+Pauling & Co., Ltd., are now constructing a deep-water wharf wall at Ras Kilindini, with sheds.
+
+The Post Office of the Colony (inclusive of the Uganda Post Office, which is worked by the Kenya Post Office) received and despatched during 1922 6,542,303 letters, packets, etc., and 300,028 telegrams.
+
+The telegraph system has 3,873 miles of wire (exclusive of Uganda). The lines connect Mombasa with Lamu (200 miles), Mombasa with Gazi (31 miles), Mombasa with Kisumu (587 miles), Kisumu with Entebbe (281 miles) (75 miles double line in Kenya, rest in Uganda), Londiani with Eldama Ravine (22 miles), Lumbwa with Kericho (17½ miles), Nairobi with Nyeri, West Kenya, Meru and Archers Post (204 miles), Kibigori with Nandi, Eldoret, Sergott, Eldoret, Hoey's Bridge and Kitale (107 miles), Magadi Junction with Machakos (16½ miles), Magadi Railway (91 miles), Kisayu with Golwen, and Yonte (17½ miles), Elmenteita with Narok (68 miles), Nakuru with Rumuruti (59 miles), Muhoroni with Songhor (10 miles), Nairobi with Kiambu (10 miles). Communications between Mombasa and Kisayu (325 miles), from both these stations with ships at sea and (for Government traffic only), between Mombasa and Zanzibar is maintained by means of radiotelegraphy. A cable connects Mombasa with Zanzibar.
+
+Telegraph communication exists between Tanganyika Territory (late German East Africa) by means of lines between Voi on the Uganda Railway and Taveta. The Kenya telegraph system is also linked up by land lines with the South African and Belgian Congo telegraph systems.
+
+Telephone exchanges are worked at Nairobi, Mombasa, Nakuru and Kisumu Post Offices; Nairobi, with 660 stations, being the most important.
+
+### Finances
+
+| Year       | Revenue | Expenditure |
+|------------|---------|-------------|
+| 1913-14    | £1,123,798 | £1,115,899   |
+| 1914-15    | 984,766  | 1,151,730    |
+| 1915-16    | 1,185,561 | 1,072,917    |
+| 1916-17    | 1,533,783 | 1,197,396    |
+| 1917-18    | 1,368,320 | 1,490,571    |
+| 1918-19    | 1,548,703 | 1,670,706    |
+| 1919-20    | 1,726,433 | 2,024,861    |
+| 1920-21    | 2,978,785 | 2,976,960    |
+| 1921 (Apr. to Dec.) | 1,891,679 | 1,666,785    |
+| 1922       | 1,649,032 | 1,972,212    |
+
+### Grants-in-Aid
+
+| Year       | Amount |
+|------------|--------|
+| 1911-12    | £115,000 |
+| 1912-13    | £23,500 special for Magadi |
+
+There has been no subsequent grant-in-aid.
+
+A loan of £5,000,000 was floated in November, 1921, in London.
+
+The following are the chief sources of Revenue:
+
+| Source                                      | Amount |
+|---------------------------------------------|--------|
+| Customs                                     | £387,530 |
+| Port, Harbour, Wharf and Lighthouse Dues    | £5,795 |
+| Licenses and Taxes                          | £669,883 |
+| Fees of Court or Office, &c.                | £73,091 |
+| Post and Telegraphs                         | £120,227 |
+| Revenue from Government Property and Royalties | £111,830 |
+| Sale of Government Property                 | £19,347 |
+| Miscellaneous Receipts                      | £31,859 |
+| Earnings of Government Departments          | £27,314 |
+
+### Governors
+
+1909—Col. Sir E. P. Girouard, R.E., K.C.M.G., D.S.O.
+1910—F. J. Jackson, Esq., C.B., C.M.G., administering.
+1911—Col. Sir E. P. C. Girouard, R.E., K.C.M.G., D.S.O.
+1912—C. C. Bowring, Esq., C.M.G., administering.
+1912—Sir H. C. Belfield, K.C.M.G.
+1913—C. C. Bowring, Esq., C.M.G., administering.
+1914—Sir H. C. Belfield, K.C.M.G.
+1917—C. C. Bowring, Esq., C.M.G., administering.
+1919—Major-General Sir E. Northey, K.C.M.G., C.B.
+1922—Sir R. T. Coryndon, K.C.M.G.
+
+### Government
+
+#### Executive Council
+
+The Governor.
+The Principal Medical Officer.
+The Colonial Secretary.
+Lord Delamere.
+The Attorney-General.
+The Treasurer.
+T. A. Wood, C.M.G., M.B.E.
+The Chief Native Commissioner.
+Clerk of the Council, B. S. Varma, E. J. Waddington.
+Legislative Council.
+
+Official Members, The Governor, The Colonial Secretary, The Attorney General, The Treasurer, The Chief Native Commissioner, The General Manager, Uganda Railway, The Commissioner of Lands, The Director of Agriculture, The Principal Medical Officer, The Director of Public Works, The Chief of Customs.
+
+Nominated Official Members, Sheikh Ali bin Salim, C.M.G., C.B.E., I. L. O. Gower, F. S. F. Trail, T. Fitzgerald, J. R. Orr, Lieut.-Col. J. M. Llewellyn, G. A. S. Northcote.
+
+Elected Members, E. Powys Cobb, Hon. R. Berkeley Cole, T. A. Wood, C.M.G., M.B.E., Sir Northrup McMillan, K.B., The Right Hon. Lord Delamere, Major E. S. Grogan, D.S.O., C. Harvey, Capt. J. E. Coney, Major R. W. B. Robertson-Eustace, D.S.O., W. McLellan Wilson, Capt. H. F. Ward.
+
+Elected Indian Members, Shams-ud-Deen, B. S. Varma, J. B. Joshi, one vacancy.
+
+Clerk of the Council, E. J. Waddington.
+
+Civil Establishment.
+
+Governor and Commander-in-Chief, Sir R. T. Coryndon, K.C.M.G., 1,600l., and 1,500l. duty allowance.
+
+Aide-de-Camp, Capt. C. A. Palmer-Kerrison, 300l.
+
+Private Secretary, Major E. A. T. Dutton, 300l.
+
+Secretariat.
+
+Colonial Secretary, E. B. Denham, C.M.G., 1,800l.
+
+Assistant Colonial Secretary, G. A. S. Northcote, 800l. by 50l. to 1,000l.
+
+Senior Assistant Secretaries (seconded from Provincial Administration), J. E. S. Merrick, W. M. Logan, E. J. Waddington, 600l. by 25l. to 700l., H. Izard, 400l. by 20l. to 500l.
+
+Establishment Officer, G. W. Knapman, 500l. by 25l. to 600l.
+
+Office Superintendent, D. Brady, 400l. by 20l. to 500l.
+
+Press Superintendent, J. Leary, 400l. by 20l. to 600l.
+
+Provincial Administration.
+
+Chief Native Commissioner, G. V. Maxwell, 1,500l.
+
+Deputy Chief Native Commissioner, Lieut.-Col. O. F. Watkins, C.B.E., D.S.O., 800l. by 50l. to 1,000l.
+
+Senior Labour Inspector (seconded from Provincial Administration), S. F. Deek, 600l. by 25l. to 700l.
+
+Chief Registrar of Natives (seconded from Provincial Administration) H. W. Gray, O.B.E., 600l. by 25l. to 700l.
+
+Labour Inspectors, R. F. Palethorpe, 420l., W. P. Shields, 400l. by 20l. to 500l.
+
+Officer-in-Charge, Finger Print Bureau, W. C. Burgess, 800l. by 20l. to 700l.
+
+Assistant Officer-in-Charge, S. F. Taylor, 400l. by 20l. to 500l.
+
+Assistant Registrar and Statistician, A. E. T. Imbert, to 400l. by 20l. to 500l.
+
+European Clerks, G. H. Booth, G. Wedderburn, 250l. by 15l. to 400l.
+
+Senior Commissioners, F. S. F. Trail, J. O. W. Hope, C.M.G., A. J. Maclean, 800l. by 50l. to 1,000l.
+
+District and Resident Commissioners, R. W. Hemsted, O.B.E., R. Weeks, H. H. Horne, O.B.E., N. A. Kenyon-Slaney, E. B. Horne, D. R. Crampton G. H. Osborne, C. M. Dobbs, A. E. Chamier, E. C. Crewe-Read, W. A. F. Platts, W. F. G. Campbell, S. F. Deck, R. G. Stone, H. R. Montgomery, Ll. A. F. Jones, C. H. Adams, G. A. Fuller Maitland, Lieut. J. A. G. Elliot, F. M. Lamb, O. E. Ward, A.M. Champion, Lieut.-Col. F. W. Bell, V.O., P. R. Filleul, S. H. La Fontaine, M.C., D.S.O., T. A. Dickson, M.C., Major W. E. Brook, J. E. S. Merrick, H. W. Gray, O.B.E., H. E. Welby, S.H. Faran, 600l. by 25l. to 700l.
+
+Superintendent Inland Revenue and Conservancy: Kisumu, W. B. Aston; Eastleigh, W. W. Ridout, 400l. by 20l. to 500l.
+
+Assistant District and Resident Commissioners, Capt. L. M. Dundas, C. B. Thompson, A. de V. Wade, G. M. Castle-Smith, C. H. F. Plowman, G. H. C. Boulderson, M. R. R. Vidal, W. M. Logan, H. G. Evans, H. H. Trafford, R. W. Lambert, A. A. Seldon, A. C. Kirby, E. B. Hosking, E. J. Waddington, O.B.E., V. G. Glenday, J. M. Silvester, G. K. Knight-Bruce, S. O. V. Hodge, J. L. B. L. Llewellyn, J. W. K. Pease, J. W. E. Wrightman, R. Pedraza, C. J. T. Lydekker, R. F. Palethorpe, C. J. T. Barton, H. L. Mood, F. C. Gamble, H. Izard, G. R. Sandford, B. J. F. Franklin, Lieut.-Comdr. G. C. Heathcote, R.N., C. Tomkinson, S. V. Cooke, H. E. Brailsford, J. D. McKean, J. G. Hopkins, W. S. Marchant, H. B. Sharpe, W. Slade-Hawkins, Lieut. F. G. Jennings, Lieut. J. H. B. Murphy, Capt. C. T. Davenport, Capt. W. R. Kidd, M.C., Capt. G. B. Rimington, M.C., Major A. W. Sutcliffe, D.S.O., M.C., Capt. C. G. Usher, M.C., Capt. W. Fenwick, Major B. W. Bond, Major F. C. Jack, D.S.O., M.C., Lieut. D. Storr-Fox, Capt. J. H. Clive, Capt. V. M. McKeag, A. N. Bailward, Capt. F. H. J. Hillier, C. W. Hayes-Sadler, Lieut. T. H. Hinkson, Lieut. C. A. Cornell, C. B. Matthews, E. D. Emley, K. G. Lindsay, L. A. Weaving, V. G. Cole, H. L. G. Gurney, Sir H. G. Elphinstone, Bt., Capt. D. Edwards, T. C. Twining, 400l. by 20l. to 500l., and by 25l. to 600l.
+
+H. B. M. Consul for Southern Abyssinia, A. T. Miles, D.S.O., M.C., 800l.
+
+H. B. M. Consul for Western Abyssinia, A. W. Hodson, C.M.G., 800l.
+
+Cadets, Major G. H. Straker, M.C., A. R. Wise, 300l.
+
+Treasury.
+
+Treasurer, R. C. Grannum, 1,200l.
+
+Deputy Treasurer, vacant, 800l.
+
+Senior Assistant Treasurer, P. C. M. Watson, S. Marston, 500l. by 20l. to 600l.
+
+Assistant Treasurers, J. H. Nilbok-Stuart, A. B. Balmer, J. S. Ross, H. G. Milstead, D. S. Wardle, Capt. R. C. M. Wood, 400l. by 20l. to 500l. and 40l. by 25l. to 600l.
+
+Customs.
+
+Commissioner of Customs, G. Walsh, 900l., personal allowance, 100l.
+
+Deputy Commissioner of Customs, E. G. Bale, 600l. by 25l. to 700l.
+
+Collector of Customs, Mombasa, A. E. V. Barton, 500l. by 25l. to 500l.
+
+Assistants, E. G. Gulliver, J. H. McQuade, E. A. Shelver, 400l. by 20l. to 500l.
+
+Head Clerk and Accountant, J. D. Ritchie, 400l. by 20l. to 500l.
+
+Preventive Officers, F. J. Thomas, C. W. G. Lane, G. H. Plumtree, 250l. by 15l. to 350l.
+
+Inspector of Customs, Watchmen and Boatmen, A. C. Manning, 250l. by 15l. to 350l.
+Port and Marine.
+
+Port Captain, Captain H. W. Turner, 700l.
+Port Officer, Captain R. G. Sargent, 400l. by 20l. to 500l.
+Pilots, Captain A. N. Newitt, Lieut.-Comdr. G. T. Whitehouse, D.S.C., R.N.R., 400l. by 20l. to 500l.
+
+Audit.
+Auditor, M. A. M. Van de Velde, 1,000l.
+Senior Assistant Auditors, H. N. Lee, O.B.E., (vacancy), 500l. by 25l. to 600l.
+Assistant Auditors, A. E. Forrest, H. J. Webster, J. C. A. Jenks, J. L. Worlledge, 400l. by 20l. to 500l.
+
+Judicial.
+Chief Justice, Sir J. W. Barth, C.B.E., 2,000l.
+1st Puisne Judge, T. D. Maxwell, 1,200l.
+2nd Puisne Judge, G. H. Pickering, 1,200l.
+3rd Puisne Judge, J. A. Sheridan, 1,200l.
+Senior Resident Magistrate, E. T. Johnson, 700l. by 25l. to 800l.
+Resident Magistrates, S. H. Carnelly, B. A. Crean, F. C. Gamble (seconded from Administration), 500l. by 25l. to 700l.
+Registrar of the Supreme Court, Capt. L. I. N. Lloyd-Blood, 500l. by 25l. to 600l.
+Deputy Registrars of the Supreme Court, B. Stone, E. S. C. Brooks, 400l. by 20l. to 500l.
+European Process Server, A. H. Price, 200l. by 15l. to 250l.
+
+Administrator-General's Department.
+Administrator-General (vacant), 700l. by 25l. to 800l.
+Assistant Administrator-General, (vacant), 500l. by 20l. to 600l.
+
+Attorney General's Department.
+Attorney General, R. W. Lyall-Grant, 1,500l.
+Solicitor General, I. L. O. Gower, 1,000l.
+Crown Counsels, C. E. Law, A. Musgrave Thomas, 600l.; P. A. McElwaine, 500l. by 25l. to 600l.
+
+Police.
+Commissioner of Police, F. D. Tyssen, 900l.
+Assistant Commissioner, J. C. Bentley, 700l. by 25l. to 800l.
+Superintendents, J. M. Lumley, Capt. J. F. Wolseley-Bourne, M.C., R. T. H. Anderson, Capt. M. St. C. Thom, C. F. Bristow, Capt. R. F. Rainsford, E. R. Sullivan-Tailyour, 500l. by 25l. to 700l.
+Assistant Superintendents, Capt. E. S. Higgins, Capt. G. Pritchard-Brown, N. Stewart, M.M., Capt. H. P. Rice, J. B. Grenfell-Hicks, C. I. Sempill, M.M., Capt. E. K. Catchpole, E. D. Theunissen, A. Finch, F. Peacock, 400l. by 20l. to 500l.
+Quartermaster, G. W. Richardson, 400l. by 20l. to 500l.
+Inspectors, A. Madden, A. H. Miller, J. MacLean, A. T. Robinson, R. V. M. Beekman, H. G. Ruscoe, C. W. Ward, 300l. by 15l. to 400l.
+Assistant Inspectors, A. Mackie, G. Kearney, A. Boy, T. R. J. Ridgway, C. Rawlinson, G. E. H. T. Cripps, H. T. Bugden, R. Middle-ditch, M. A. Stewart, A. Ash, F. G. Drake, C. G. MacArthur, 250l. by 15l. to 300l.
+Sergeant Instructor, B. J. Rand, 300l. by 15l. to 400l.
+Chief Clerk, J. L. M. Ogden, 250l. by 15l. to 400l.
+36 European Police Constables.
+
+Prisons.
+Commissioner of Prisons, C. H. Spencer, 750l. plus 100l. personal allowance.
+Assistant Commissioner of Prisons, Capt. S. R. Hill, M.C., 600l.
+Superintendents of Prisons, R. A. Poulten, H. P. Robertson, 400l. by 20l. to 500l.
+Gaoler, 1st Grade, J. Finch, 250l. by 15l. to 400l.
+Gaolers, 2nd Grade, M. Darda, A. C. Taylor, 260l.
+Gaolers, 3rd Grade, Capt. B. Francis, M.C., B. B. Donald, 200l.
+Matron, Mrs. M. Landels, 200l. by 15l. to 250l.
+
+Medical.
+Principal Medical Officer, J. L. Gilks, 1,200l.
+Deputy Principal Medical Officer, C. J. Wilson, M.C., 1,000l.
+Chief Sanitation Officer, A. R. Paterson, 1,000l.
+Senior Medical Officers, J. Pugh, N. P. Jewell, M.C., A. D. J. B. Williams, O.B.E., T. H. Massey, M.C., 800l. by 25l. to 900l.
+Resident Surgical Officer, European Hospital, Nairobi, H. H. V. Welch, 900l. by 50l. to 1,000l.
+Medical Officers, P. F. Nunan, V. M. Fisher, A. S. Mackie, R. C. Briscoe, B. W. Dakers, C. V. Braimbridge, K. T. K. Wallington, E. A. Davison, J. O. Beven, R. A. W. Procter, J. C. J. Callanan, J. A. Ross, C. H. Brennan, M.C., R. J. Harley-Mason, 600l. by 25l. to 700l. and 700l. by 25l. to 800l., 800l. by 25l. to 900l.
+District Surgeons, J. Forbes, 300l.; C. J. Caddick, 250l.; F. L. Henderson, 400l.
+Medical Officers of Health, H. S. de Boer, M.C., G. W. Pope, F. J. C. Johnstone, R. N. Hunter, 600l. by 25l. to 700l. and 700l. by 25l. to 900l.
+Dispensers, F. W. Day, 250l. by 15l. to 300l.
+Medical Storekeeper, J. S. Robertson, M.B.E., 400l. by 20l. to 500l.
+Office Superintendent, H. Ogden, 400l. by 20l. to 500l.
+Accountant (vacant), 400l. by 20l. to 800l.
+European Clerks, G. E. Scattergood, T. R. Wilson, D.C.M., 250l. by 15l. to 400l.
+Matron (vacant), 250l. by 15l. to 350l.
+Nurses, Miss I. Wilson, Mrs. S. J. Harrison, Miss A. E. Davis, Miss M. I. Rhind, Miss R. Anderson, Miss A. B. Wharin, Miss H. M. Friedricks, Miss P. S. Joubert, Miss V. B. Painter, Miss E. B. Wishart, Miss H. Masters, Miss M. Aitken, Miss D. M. Kenny, Miss F. M. Biggar, Miss E. G. Stuart, Miss E. M. Brennan, 200l. by 15l. to 250l.
+Superintendent, Lunatic Asylum, W. Henfrey, 300l. by 15l. to 400l.
+Matron, Lunatic Asylum, Mrs. L. A. Henfrey, 250l. by 15l. to 300l.
+Assistant Matron, Miss D. Bundock, 200l. by 15l. to 250l.
+Warders, S. J. Bosch, F. J. Jordan, 200l. by 15l. to 250l.
+Sanitary Inspector, Senior Grade, F. Strawbridge, J. P. Cook, 450l. by 20l. to 500l.
+Sanitary Inspectors, A. F. Dennett, E. E. Williams, R. C. Mills, A. P. Ling, A. Bunker, H. E. Taylor and D. P. Broad, 250l. by 15l. to 350l., and 350l. by 15l. to 450l.
+Nurses, Miss R. K. Sharp, M. A. Perkin.
+Superintendent, Infectious Diseases Hospital, W. J. Henfray, 250l. by 15l. to 350l.
+Bacteriologist, W. H. Kauntze, M.B.E., 900l. by 50l. to 1,000l.
+Pathologist and 1st Assistant Bacteriologist, P. A. Clearkin, 800l. by 25l. to 900l.
+2nd Assistant Bacteriologist, G. V. Allen, 600l. by 25l. to 700l. and 700l. by 25l. to 800l., 800l. by 25l. to 900l.
+Laboratory Assistant, F. A. Bailey, 400l. by 25l. to 600l.
+
+Chemical Research Department.
+Director of Chemical Research, V. H. Kirkham, 700l. by 25l. to 800l. and fees.
+Senior Chemical Officer, W. C. Birch, 500l. by 25l. to 600l.
+Chemical Officers, R. W. R. Miller, M. H. Fox, 500l. by 25l. to 600l.
+
+Education.
+Director, J. R. Orr, 1,000l.
+Head Clerk, R. Davis, 250l. by 15l. to 400l.
+Senior Inspector of Schools (vacant).
+Nairobi "A."
+Headmaster, R. A. Low, 600l. to 700l.
+1st Assistant Master, J. Twells, 500l. to 600l.
+Assistant Masters, R. W. Wotton, R. E. Madge, A. G. Southby, 400l. to 500l.
+Clerk and Drill Instructor (vacant).
+Headmistress, Miss W. D. Alocock, 400l. to 500l.
+Assistant Mistresses, Miss M. C. Tunstall, Miss L. V. Shelton, Miss E. M. Cooks, Miss G. Plaskitt, Miss N. N. Neylan, 300l. to 400l.
+Matron, Mrs. A. Gethin, 250l. to 300l.
+Assistant Matron, Miss M. Shelton, 200l. to 250l.; Miss N. Devenish, 150l.
+Medical Officer, Dr. M. MacKinnon, 100l.
+Nakuru "A."
+Headmaster, E. R. Pratt, 500l. to 600l.
+Assistant Master, R. McKay, 400l. to 500l.
+Assistant Mistresses Miss D. J. Wayland, Miss H. M. Reynolds, 300l. to 400l.
+Matron, Mrs. E. Stanley, 250l. to 300l.
+Assistant Matron, Mrs. E. Bruhn, 200l. to 250l.
+Uasin Gishu "A."
+Headmaster, F. W. Humphries, 500l. to 600l.
+Assistant Masters, A. E. Procter, A. T. Watson, 400l. to 500l.
+Headmistress, Mrs. G. Humphries, 400l. to 500l.
+Assistant Mistress, Mrs. E. Southey, 300l. to 400l.
+Matron, Miss N. E. Bleakman, 250l. to 300l.
+Assistant Matron, Miss B. Channon, 200l. to 250l.
+Nairobi At School, Miss M. E. Bleakman, Miss V. E. Shutt, 200l. by 15l. to 250l.
+Inspector of Coast Education T. J. A. Salmon, 500l. to 600l.
+Headmaster, Machakos, (vacant), 500l. to 600l.
+Assistant Master, Machakos, G. M. Bell, 400l. to 500l.
+Assistant Master, Mombasa, H. L. Bradshaw, 400l. to 500l.
+Chief Technical Instructors, J. W. Francis, Machakos, C. W. Stubbs, Waa, 400l. to 500l.
+European Carpentry Instructors, J. Miles, J. MacMunn, 250l. to 350l.
+European Masonry Instructor, Machakos, (vacant), 250l. to 350l.
+Headmaster, Malindi, R. H. Wake Bowell, D.S.O., 400l. to 600l.
+Farm School Teachers, F. P. S. Oliver, R. Visser, D. J. Bosman, Miss J. Davis, Miss I. Malan, salaries at various rates.
+
+Surveyor (Senior), H. O. Jones, M.C., 450l.
+Surveyor, A. R. Turner, M.C., 400l.
+Draughtsman Clerk, G. B. Norman, 250l. by 15l. to 400l.
+
+Agricultural.
+Director, Alex. Holm, 1,400l.
+Deputy Director, E. Harrison, 1,000l.
+Agricultural Assistant (vacant), 500l. by 25l. to 600l.
+Statistical Officer, L. D. Carpenter, 500l. by 25l. to 600l.
+Accountant, H. S. Land, 400l. by 20l. to 500l.
+Office Superintendent and Assistant Accountant, A. C. Hunter, 400l. by 20l. to 500l.
+Clerks, J. E. Harrison, R. A. Hawkins, J. L. Byrne, M.C., F. Parker, R. F. Dalziel-Armstrong, R. Abram, 250l. by 15l. to 400l.
+Typist, Miss M. A. Duncan, 200l. by 15l. to 250l.
+Flag Officer, G. M. Hamilton, 400l. to 500l.
+Senior Coffee Officer, A. D. Le Poer Trench, 500l. by 25l. to 700l.
+Graders and Inspectors, C. C. T. Sharpe, A. R. Teague, 400l. by 20l. to 500l.
+Mycologist, J. McDonald, D.F.C., 500l. by 25l. to 600l.
+Plant Breeder, G. L. J. Burton, M.C., 500l. by 25l. to 750l.
+Entomologist, T. J. Anderson, 500l. by 25l. to 750l.
+Senior Agricultural Supervisor, P. Booth, 400l. by 20l. to 500l.
+Agricultural Supervisors, F.B.C. Butler, T.M.W. Shephard, W. Lyne-Watt, B. H. Frowd, 300l. by 15l. to 400l.
+
+Veterinary.
+Chief Veterinary Officer, W. Kennedy, D.S.O., 1,000l.
+Deputy Chief Veterinary Officer, A. G. Doherty, M.C., 800l.
+Senior Veterinary Officers, H. H. Brasseys-Edwards, O. Dixon, M.C., R. C. Wheeler, M.B.E., 600l. by 25l. to 700l.
+Veterinary Officers, A. W. Carter, M. H. Reid, G. B. Purvis, R. S. Little, R. L. Creery, E. J. Mulligan, W. G. Emerson (one vacant), 500l. by 25l. to 600l.
+Stock Inspectors, H. G. Ulvate, D. Wyatt, R.A.C. Campbell, W. L. Lewis, G. White, H. Evans, J. Mackay, L. E. Smith, H. Thorne, F. G. Chapman, S. F. Saunders, T. Harris, F. T. O'Meagher, J. F. Greig, A. E. Hudson, J. E. McDonogh (3 vacant), 250l. by 15l. to 400l.
+Chief Veterinary Research Officer, J. Walker, 900l.
+Assistant Chief Veterinary Research Officer, W. Kearney, 700l.
+Veterinary Research Officers (3), T. C. Bradshaw, S. H. Whitworth (1 vacant), 500l. by 25l. to 600l., 600l. by 25l. to 700l.
+Laboratory Superintendent, A. Walker, 400l. by 20l. to 500l.
+Laboratory Assistants, J. T. Schultz, J. Ford, H. J. Gray, 300l. by 15l. to 400l.; P. H. Poolman, J. R. McQueen (1 vacant), 250l. by 15l. to 300l.
+Overseer, J. Burton, 250l. by 15l. to 300l.
+Yard Foreman, J. Forsyth, 250l. by 15l. to 300l.
+Clerks, L. Myers, W. White, A. E. Johnstone, A. J. Kemp, 250l. by 15l. to 400l.
+Mechanic, O. Stenmark, 250l. by 15l. to 300l.
+Storekeeper, J. Scott, 250l. by 15l. to 300l.
+Assistant Storekeeper, G. W. Clochley, 250l. by 15l. to 300l.
+Forestry.
+
+Conservator of Forests, E. Battiscombe, 1,000l.
+Senior Assistant Conservator of Forests (vacant), 500l. by 25l. to 750l.
+Assistant Conservators of Forests, H. M. Gardner, N. V. Bransett, P. Bonfield, J. C. Rammell, C. W. Elliott, 400l. by 20l. to 500l., bar by 25l. to 600l.
+Forest Surveyor, E. H. Pickwell, M.C., 300l. by 15l. to 400l.
+Foresters, J. L. Moon, A. Wye, A. M. Cooper, W. Munro, G. A. Hoult, B. R. Stock, G. Fairbairn, H. H. G. Deakin, H. J. Galt, T. A. Angus, H. McIntyre (one vacant), 250l. by 15l. to 350l.
+Seedsmen, A. C. Sprunt, 200l. by 15l. to 300l.
+Accountant, J. B. Harris, 250l. by 15l. to 350l.
+
+Game.
+
+Warden, Capt. A. T. A. Ritchie, 600l.
+Assistants, Capt. K. F. T. Caldwell, F. H. Clarke, 400l. by 20l. to 500l.
+
+Public Works.
+
+Head Office.
+
+Director of Public Works, H. L. Sikes, B.A., B.E., F.G.S., M. Inst. C.E., 900l.
+Contracts Officer, W. M. Lynde, F.S.I., 700l. by 25l. to 800l.
+Office Superintendent, J. P. F. Galway, 400l. by 20l. to 500l.
+European Clerk, Miss J. M. Haslewood, 200l. by 15l. to 250l.
+Instructor of African Apprentices, C. A. Bunney, 300l. by 15l. to 400l.
+
+Divisional Staff.
+
+Executive Engineers, H. M. Birch, A.M. Inst. C.E., A. G. Bush, M. Inst. C.R., A.M.I.M.E., H. J. H. Stedman, A.M. Inst. C.E., S. C. Bennett, A.M. Inst. C.E., 700l. by 25l. to 800l.
+Assistant Engineers, F. A. Buckley, B.A., B.E., A.M. Inst. C.E., J. E. M. Noad, A.M. Inst. C.E., Major J. R. Saidler, M.C., B.Sc., A.M. Inst. C.E., M.I., Mun. & City, E., F.S.I., C. H. Walmsley, M.C., 500l. by 25l. to 600l.
+Overseers, A. W. Burgess, H. G. Walby, H. M. Jones, 300l. by 15l. to 400l.
+Inspector Mombasa Water Supply, T. R. Ginger, 300l. by 15l. to 400l.
+Foremen, W. G. Usher, A. W. Walker, E. Wilkinson, H. W. Stones, J. Lang, 250l. by 15l. to 350l.
+
+Accounts and Stores.
+
+Chief Accountant, S. E. J. Howarth, 500l. by 25l. to 600l.
+Accountant and Storekeeper, A. E. Hoey, 400l. by 20l. to 500l.
+Storekeeper, J. E.; Harmston, 300l. by 15l. to 400l.
+
+Coast Agency.
+
+Coast Agent, J. Doherty, 400l. by 20l. to 500l.
+
+Head Drawing Office.
+
+Draughtsman, P. J. M. J. Foubister, 400l. by 20l. to 600l.
+
+Government Transport.
+
+Transport Officer, J. H. Noon, 400l. by 20l. to 500l.
+
+Railway.
+
+General Manager, C.L.N. Felling, C.M.G., 2,500l.
+Accounts—Chief Accountant, H. E. Goodship, 1,000l., with personal allowance, 100l. Deputy Chief Accountant, S. N. Faulkner, O.B.E., 600l. by 25l. to 700l. Assistant Chief Accountants, F. Jarrett, A. E. Mayne, F. Blaker, 400l. by 20l. to 500l., 500l. by 25l. to 600l. Press Superintendent, R. Hill, 300l. by 20l. to 500l.
+
+Engineering—Chief Engineer, Major G. D. Rhodes, C.B.E., D.S.O., R.E., 1,200l. District Engineers, C. M. Bunbury, St. Clair Grant-Davie, W. J. McJannet, 700l. by 25l. to 800l.
+Assistant Engineers, Capt. T. F. Linnell, R.E., A. E. Hamp, T. H. Stone, S. Lawson, P. Macfarlane, E. L. Stainbank, W.A. McClelland, 400l. by 20l. to 500l., 500l. by 25l. to 600l.
+
+Locomotive, Carriage and Wagon Department—District Superintendents, G. F. W. Hartnell, 700l. by 25l. to 800l. Workshop Manager, P. C. Ford, 700l. by 25l. to 800l. Assistant Locomotive Superintendents, J. S. Halliwell, 400l. by 20l. to 500l., 500l. by 25l. to 600l. Assistant Chief Accountant, C. H. Bloomfield, 400l. by 20l. to 500l., 500l. by 25l. to 600l. Assistant Carriage and Wagon Superintendent, W. A. Andrews, 400l. by 20l. to 500l., 500l. by 25l. to 600l.
+
+Traffic—Supdt. of the Line, D. H. Elias, 1,300l. Deputy Traffic Manager, W. McHardy, O.B.E., 700l. by 25l. to 800l. Assistant Traffic Managers, A. B. Cameron, L. M. Smart, G. Bullock, R. A. Lawson, H. W. Gould, 400l. by 20l. to 500l., 500l. by 25l. to 600l. Catering Manager, D. Crockart, 400l. by 20l. to 500l., 500l. by 25l. to 600l.
+
+Stores—Chief Storekeeper, R. M. Carter, 800l. Deputy Chief Storekeeper, W. Welch, 600l. by 25l. to 700l. Assistant Storekeepers, R. L. Briars, A. G. Tyler, 400l. by 20l. to 500l., 500l. by 25l. to 600l.
+
+Marine Superintendent, Comdr. R. M. Reynolds, R.N.R., 900l.
+Superintendent, Busoga Railway Marine, F. M. Jenkins, 600l. by 25l. to 750l., with duty allowance, 60l.
+Senior Marine Engineer, H. A. Swan, 650l. by 25l. to 700l.
+Commanders, Lieut.-Comdr. C. B. Blencowe, R.N.R., Comdr. G. W. Bruce, R.N.R., Lieut.-Comdr. E. C. Bosanquet, R.N. (retired), Lieut.-Comdr. J. O. Buckler, R.N.R., 600l. by 25l. to 750l.
+
+Chief Officers, Lieut.-Comdr. J. L. Marshall, R.N.R., Lieut.-Comdr. F. R. Hemsted, R.N.R., A. F. Marsh, Lieut. F. C. Greenwood, R.N.R., 600l. by 25l. to 600l.
+
+Second Officers, Lieut. L. B. Watts, R.N.R., Lieut. N. J. Stacey-Marks, R.N.R., R. D. Hoskins, J. Lockhead, 400l. by 20l. to 500l.
+
+Chief Engineers, C. Bennett, J. Anderson, W. E. Woods, G. W. Ingleby, G. P. Ellis, 500l. by 25l. to 600l.
+Department of Lands.
+
+Lands Division.
+
+Commissioner of Lands, H. T. Martin, 1,200l.
+Assistant Land Officers, H. W. Borrow, H. J. Snelgar, H. R. Harris, R. Elliott, C. E. Mortimer, M. Solomons, 400l. by 20l. to 500l.
+Clerks, E. B. Lloyd, G. J. Robbins, G. H. W. Annells, A. L. Basford, L. J. Cooke, J. E. Thornton, A. E. W. Webb, 250l. by 15l. to 400l.
+Lady Typists, Miss R. Williams, 200l. by 15l. to 250l.; Miss R. Hargreaves, 160l.
+
+Lands Survey Division.
+
+Director of Land Surveys, A. G. Baker, 700l.
+District Surveyors, C. O. Gilbert, C. T. Cogle, F. B. Ballendern, P. W. E. Flint, L. C. Wright, W. McDonald, C. G. Fannin, 500l. by 25l. to 700l.
+Chief Computer and Examiner of Diagrams, J. H. Williams, A.M.I.C.E., 700l.
+Computers, J. G. F. McKay, F. G. Gosden, T. R. L. Nestor, J. F. Walker, M.A. (Hon.) B.Sa., W. Woods, J. F. O'Farrell, W. N. Low, 300l. for two years and 400l. by 20l. to 500l.
+Map Record Clerk, G. B. Norman, 250l. by 15l. to 400l.
+Draughtsmen, J. Downey, F. J. E. Wood, A. P. Best, H. Shields, 300l. by 15l. to 400l.
+Draughtsman for Public Map Office, F. G. Robinson, 300l. by 15l. to 400l.
+
+Land Registry Division.
+
+Deputy Registrar General of Titles, W. A. B. Pailthorpe, 500l. by 25l. to 600l.
+Registrar of Titles, P. E. Wolfe, 400l. by 20l. to 500l.
+
+Registrar of Titles Division.
+
+Recorder of Titles, P. E. Wolfe (acting).
+
+Post and Telegraph Department.
+
+Postmaster General, T. Fitzgerald, 1,000l.
+Assistant Postmasters General, W. Pearson, W. G. M. MacDonald, 500l. by 25l. to 800l.
+Postmasters, G. R. F. Martin, H. B. Hayter, J. B. Moir, B. J. Freeman, J. MacDonald, D. J. McIntyre, H. Hudson, F. T. Templeton, J. W. Wilkinson, 400l. by 20l. to 500l.
+Junior Postmasters, L. E. Graves, F. C. Holt, H. C. Willbourn, M.C., C. H. Terry, G. W. Taylor, E. J. Lewis, R. M. Douglas, A. Carriline, E. A. Pocock, F. W. Hale, 350l. by 15l. to 400l.
+Chief Accountant, F. E. Balmer, 500l. by 25l. to 600l.
+Deputy Chief Accountant, B. Lewis, 400l. by 20l. to 500l.
+Accountant, 400l. by 20l. to 500l.
+Telegraph Engineer, 600l. by 25l. to 700l.
+Assistant Telegraph Engineer, W. Griffith, 500l. by 25l. to 600l.
+Chief Electrical Mechanician, E. Jessop, 400l. by 20l. to 500l.
+Sub-Engineers, M. A. Black, F. L. Stevens, 350l. by 15l. to 400l.
+

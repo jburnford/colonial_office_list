@@ -1,0 +1,294 @@
+FALKLAND ISLANDS.
+
+Situation and Area.
+
+The Falkland Islands ("Les Iles Malouines" of the French, "Islas Malvinas" of the Spaniards) are situated in the South Atlantic Ocean, between 51° and 63° S. lat., and between 57° and 62° W. long., about 480 miles N. E. of Cape Horn, and about 1,000 miles due south of Monte Video. They consist of East Falkland Island and West Falkland Island, which, with the adjacent islands, have an area of 2,580 square miles and 2,038 square miles respectively.
+
+There are two groups of dependencies (i) South Georgia with South Orkney and South Sandwich, the boundaries being the 60th parallel of south latitude and the 20th and 50th meridians of west longitude (ii) South Shetland and Graham Land bounded by the parallel of latitude 58° S., and the meridians of longitude 50° and 80° W. The territory of both the dependencies extends to the South Pole.
+
+This area contains about 3,100,000 square miles or 14% of the entire surface of the globe. Much of it is ice-bound, but there are more than a million square miles of sea readily accessible for whaling, fishing and sealing.
+
+The island of South Georgia lies about 800 miles to the east of the Falkland Islands, South Orkney and South Sandwich being about 450 miles to the south-west and south-east respectively of South Georgia. The northern point of South Shetland is about 500 miles to the south of the Falklands.
+
+History.
+
+The Falklands were discovered by Davis in 1592, and visited by Hawkins in 1594. In 1764 they were taken possession of by France and Bougainville planted a small colony of Acadians at Port Louis in East Falkland. Bougainville was bought out by Spain, ever jealous of interference by other nations in the southern seas, in 1766.
+
+In the following year Captain Byron took possession of West Falkland, and left a small garrison at Port Egmont, whence it was driven out by the Spaniards in 1770; this action on the part of Spain brought that country and Britain, to the verge of war. The Spaniards restored the island in 1771, but it was abandoned in 1774 and no further formal occupation was made until 1820, when the Republic of Buenos Aires established a settlement which was destroyed by the Americans in 1831.
+
+In 1832 occupation of the islands was resumed by the British Government for the protection of the whale fishery. Until 1843, they were under the charge of the Naval officers engaged in making Admiralty surveys. In 1843, a Civil Administration was formed, the headquarters being at Port Louis until the following year when they were removed to Stanley, then known as Port William.
+
+The colony received regular grants in aid from 1841 until 1880 and for a mail service until 1884-5, since which year the colony has been self-supporting.
+
+On the 8th of December, 1914, in an action off the Falklands, a British squadron under Vice-Admiral (now Admiral) Sir F. C. Doveton Sturdee defeated and sank a German squadron consisting of two armoured cruisers Scharnhorst and Gneisenau, two light cruisers, Leipzig and Nurnberg, and two transports. The light cruiser Dresden, having escaped from this action was subsequently sunk in March, 1915. No British ships were lost, and the casualties were seven killed and twelve wounded.
+
+South Georgia and the South Sandwich group were discovered in 1775 by Captain James Cook, who took possession of them for Britain. South Shetland was discovered and taken possession of by Captain William Smith in 1819, and South Orkney by Captain G. Powell in 1821.
+
+The dependencies were visited only by exploring expeditions, sealers, and whalers until the rise of the modern whaling industry in those regions.
+
+In May, 1916, Sir Ernest Shackleton arrived in Stanley in a whale catcher from South Georgia, having left 22 members of his exploring expedition on Elephant Island, South Shetland, while he made his way to South Georgia to seek help. He had sailed 700 miles in an open boat with five companions and had crossed South Georgia on foot for the first time in its history. Every member of the expedition was saved.
+
+General Description.
+
+(a) Falkland Islands.
+
+The Falkland Islands have a very deeply indented coast line and many good natural harbours. The surface is hilly, attaining its maximum elevation of 2,315 feet in Mount Adam, West Falkland.
+
+The entire country is covered with wild moorland interrupted by outcrops of rock and the peculiar collections of angular boulders named "stone runs."
+
+There is no cultivation except in the immediate vicinity of the settlements and shepherds' houses where vegetables and in a few places hay is grown. The soil is chiefly peat but considerable areas of sand also occur.
+
+Communication is maintained by sea and horses, but there are no roads outside Stanley, the traveller being guided by natural landmarks. Trees are completely absent but nurseries for them have been established.
+
+The only town is Stanley in East Falkland, with a population of 890. The houses are mostly iron and wood, built as they are required for occupation. It is difficult to rent a house but there are several small hotels and boarding houses affording fair accommodation. Stanley is a port of register and had, on the 31st December, 1922, eighteen vessels aggregating 7,328 tons.
+
+The cost of mutton 3d. per lb., of beef 4½d., fowls' eggs when procurable cost 3d. to 3½d. each, while penguin eggs in spring are sold at a price varying from 4s. to 8s. 6d. per hundred. Milk is priced at 1s. per quart.
+
+Climate and Health.
+
+In the Falklands the temperature is uniformly low, ranging from 40° to 65° in summer and from 30° to 50° in winter, with an annual mean of 42°.
+
+The annual rainfall seldom exceeds 25 inches, and although snow falls frequently it does not as a rule lie long. In summer the atmosphere is very dry and evaporation rapid.
+
+The climate is rendered somewhat severe by the almost perpetual high winds which usually have a westerly direction, but it is very healthy. The birth rate is 16·09 per 1,000 and the death rate 6·14.
+
+(b) Dependencies.
+
+The island of South Georgia is a mass of high mountains which are covered with deep snow where they are not too precipitous, while the valleys between are filled with glaciers which in many cases descend to the sea. There is a coastal fringe free from snow in summer and more or less
+clothed with vegetation, including tussock "grass." Land whaling stations have been established in some of the numerous bays.
+
+The remaining dependencies are even more inhospitable, being nearly completely covered with snow and ice and almost entirely destitute of plant life. All the dependencies have a rigorous climate of Antarctic character.
+
+Industries.
+
+The inhabitants of the Falkland Islands are almost entirely occupied in sheep farming, the whole acreage of the colony being divided into large sheep runs; wool is the principal product but tallow and cow hides are also exported. There were in 1922 667,175 sheep, 8,126 cattle, and 2,639 horses.
+
+The whaling field of the dependencies, in which whaling by modern methods was first carried on in 1904, has become more productive than all those in the rest of the world combined; a small quantity of seal oil is also produced.
+
+An expedition for research, mainly into whaling, for which the ship "Discovery" has been acquired, is about to be undertaken (see page xxxvi).
+
+Natural Resources.
+
+Tussock "grass" which forms a valuable source of fodder for cattle and horses abounds on most of the small islands and is much used.
+
+Fur Seal. A number of rookeries of this animal occur off the coast of Falklands, the care and farming of which are now in the hands of the Government which has an armed patrol vessel to protect the seal from illicit raids.
+
+The undeveloped resources include peat, of which there is an abundant supply, unused except for fuel, and a considerable quantity of guano.
+
+Education.
+
+There is a Government school with 139 pupils, and a Roman Catholic school with 67. The attendance averages eighty-nine per cent. of the number on the rolls. At Darwin, East Falkland, there is a small settlement where the Falkland Islands Company have a school with about 18 pupils. Five travelling teachers two on the East Falkland and three on the West Falkland are employed by the Government to instruct the children at the various sheep stations and at the scattered shepherd's houses. The average number of children thus receiving instruction is, in normal times, about 350.
+
+Currency and Banking.
+
+The legal tender currency is British sterling, and local £L., 1L., and 10s. notes. There are no private banks in the Colony. On 1st April, 1888, a Government Savings Bank was established, in which, on 30th September, 1923, the deposits were £120,963L., belonging to 788 depositors.
+
+The Falkland Islands Company, Limited.
+
+This company was formed in 1851 to take over from Mr. Lafone, of Monte Video, the district in the East Falkland, now called Lafonia; this district abounded with wild cattle, said to be the descendants of the stock introduced by the Acadian settlers, the capture of which was the company's original object. This, however, was not found profitable, and the company have of late years been engaged in sheep farming on an extensive scale, not only on their own freehold at Lafonia, but also on 97,128 acres purchased from the Government, the importation of goods of all sorts, and the repairing of ships, which occasionally call at this port in distress.
+
+The company maintains a doctor and a school at Darwin, and contributes to the provision of a salary for a clergyman of the Church of England.
+
+Means of Communication.
+
+There is mail communication with England at intervals of about six weeks. The Pacific Steam Navigation Company's steamers call at Stanley on their voyage round South America and proceed homeward via Panama. There are few opportunities of travelling from the Colony to the United Kingdom direct via Monte Video. Postage to the United Kingdom, British Possessions, and Egypt, 1d. per 1 oz.; to elsewhere, 3d. per 1 oz., and 1½d. for every additional oz., or fraction of an oz. There is an internal post, 1d. the oz. Parcel post to the United Kingdom weighing not over 3 lbs., 1s. 9½d.; over 3 lbs. but not over 7 lbs., 3s. 3½d.; over 7 lbs. but not over 11 lbs. 4s. 6½d. Inland parcel post: for a parcel not exceeding 2 lbs., 9½d.; exceeding 2 lbs. but not exceeding 5 lbs., 1s.; exceeding 5 lbs. but not exceeding 8 lbs. 1s. 3½d.; exceeding 8 lbs. but not exceeding 11 lbs. 1s. 6½d. There is a Wireless Service from Stanley to Monte Video; rate per word to United Kingdom for messages over 10 words is 4s. 2½d. There is a lighthouse at Cape Pembroke maintained by the Board of Trade at an annual cost of from 500L. to 600L.
+
+Constitution.
+
+The Government is administered by a Governor, aided by an Executive and Legislative Council.
+
+The Legislative Council is composed of the Governor, the Colonial Secretary, the Treasurer, and the Colonial Surgeon, and two unofficial members appointed by warrant under the Royal Sign Manual and Signet for five years.
+
+Population.
+
+(Nearly all of whom are British.)
+
+| Year | Males | Females | Total |
+|------|-------|---------|-------|
+| 1891 census | 1,086 | 703 | 1,789 |
+| 1901 | 1,203 | 840 | 2,043 |
+| 1911 | 2,370 | 906 | 3,275 |
+| 1921 | — | — | 3,431 |
+| 1922 (estimate) | 2,537 | 940 | 3,477 |
+
+(includes 1,337, South Georgia.)
+
+Governors.
+
+From 1833 to 1842 the Settlement was in charge of a naval officer.
+
+W. Grey-Wilson, C.M.G., 1897.
+W. L. Allardyce, C.M.G., 1904.
+W. Douglas Young, C.M.G., 1915.
+J. Middleton, C.M.G., 1920.
+
+Finances.
+
+| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |
+|------|---------|-------------|-----------------|---------------|
+| 1913 | 42,929 | 25,238 | 328,328 | 500,449 |
+| 1914 | 42,932 | 36,046 | 373,155 | 518,144 |
+| 1915 | 43,626 | 33,599 | 396,729 | 530,475 |
+| 1916 | 48,554 | 25,460 | 370,854 | 510,047 |
+| 1917 | 45,688 | 29,687 | 198,208 | 278,953 |
+| 1918 | 46,365 | 26,270 | 182,068 | 268,383 |
+| 1919 | 56,682 | 26,910 | 94,682 | 166,267 |
+| 1920 | 71,558 | 53,575 | 123,644 | 202,535 |
+| 1921 | 139,230 | 49,545 | 139,699 | 213,892 |
+| 1922 | 179,638 | 51,391 | 172,292 | 267,450 |
+
+There is no Public Debt.
+
+The assets of the colony on the 1st January, 1923, amounted to 220,007L. on account of the Colony and 208,548 on account of the Dependencies.
+FALKLAND ISLANDS.
+
+| Year | From U.K. | From Colonies | From elsewhere | Total |
+|------|-----------|---------------|----------------|-------|
+|      | £         | £             | £              | £     |
+| 1913 | 162,958   | 4,351         | 71,913         | 239,222|
+| 1914 | 163,443   | 436           | 96,500         | 233,379|
+| 1915 | 229,126   | 8,652         | 130,495        | 368,272|
+| 1916 | 406,957   | 17,610        | 164,450        | 591,017|
+| 1917 | 681,603   | 89,088        | 486,215        | 1,266,906|
+| 1918 | 487,787   | 94,964        | 387,162        | 939,937|
+| 1919 | 554,178   | 168,363       | 299,741        | 1,022,282|
+| 1920 | 583,592   | 91,161        | 242,016        | 916,769|
+| 1921 | 245,893   | 27,443        | 165,362        | 437,698|
+| 1922 | 333,710   | 20,223        | 147,628        | 501,561|
+
+| Year | To U.K. | To Colonies | To elsewhere | Total |
+|------|---------|-------------|--------------|-------|
+|      | £       | £           | £            | £     |
+| 1913 | 730,994 | —           | 729,225      | 1,460,219|
+| 1914 | 571,110 | 5,790       | 928,564      | 1,505,464|
+| 1915 | 1,478,066| —           | 98,060       | 1,576,126|
+| 1916 | 1,962,794| —           | 90,925       | 2,053,719|
+| 1917 | 1,777,487| —           | 93,416       | 1,870,903|
+| 1918 | 1,891,409| 350         | 162,527      | 2,054,286|
+| 1919 | 2,033,920| 2,540       | 137,475      | 2,173,935|
+| 1920 | 2,978,001| 75,471      | 79,437       | 3,132,909|
+| 1921 | 1,631,083| 18,158      | 38,025       | 1,734,266|
+| 1922 | 909,969  | 360,198     | 247          | 2,608,566|
+
+Executive Council.
+
+Governor.
+Colonial Secretary.
+Treasurer.
+Colonial Surgeon.
+Unofficial, W. A. Harding.
+
+Legislative Council.
+
+Governor.
+Colonial Secretary.
+Treasurer.
+Colonial Surgeon.
+Unofficial (G. I. Turner).
+Clerk of Councils, G. R. L. Brown.
+
+Civil Establishment.
+
+Governor.
+Governor and Commander-in-Chief, John Middleton, Esq., C.M.G., 1,300l., duty allowance, 500l., and fees.
+Clerk and Private Secretary, 265l. (vacant).
+Gardener (vacant), 140l. and quarters.
+
+Colonial Secretariat.
+
+Colonial Secretary, H. Heniker Heaton (700l. to 800l.), 800l. and quarters.
+Chief Clerk and Clerk of Councils, G. R. L. Brown, 375l.
+Second Clerk, A. I. Fleuret, 200l.
+Typist and Messenger, L. Aldridge, 66l.
+Chief Printer, C. G. Allan, 180l.
+
+Treasury and Customs.
+
+Treasurer, Collector of Customs, Manager Savings Bank, Registrar of Shipping and Receiver of Wrecks, W. A. Thompson, 500l. and fees, 50l. house allowance, and 50l. as Manager Savings Bank.
+
+Stanley—
+First Clerk (vacant), 250l. and fees.
+Second Clerk (vacant), 200l.
+Customs Officer, A. G. Bennett, 200l. and fees and quarters.
+Assistant Customs Officer, S. Riches, 175l. and 24l. house allowance.
+
+South Georgia—
+
+Deputy Collectors, E. B. Binnie and Wm. Barlas (also Magistrates).
+Customs Officers, (vacant), 215l. and 50l. duty allowance.
+Assistant Customs Officer, W. W. Stuart, 150l. and 50l. duty allowance.
+
+Post Office.
+
+Postmaster, Registrar-General, Local Auditor, M. Craigie-Halkett, 550l. and fees.
+Postal Clerk, Miss E. M. Carey, 120l.
+
+Medical.
+
+Colonial Surgeon, Frederick Gustave Wooding Deans, F.R.C.S. (Edin.), L.R.C.P. (Edin.), 600l. quarters and private practice.
+Assistant Colonial Surgeon, East Falkland, B. J. Hallowes, M.R.C.S. (Eng.), L.R.C.P. (Lon.), 500l. and 60l. house allowance and private practice.
+Government Dentist, T. H. Hall, L.D.S., R.C.S., (Edin.), 500l. and 60l. house allowance.
+King Edward VII Memorial Hospital—
+Nurse Matron, Miss S. E. Surman, 150l. with board and quarters at Hospital.
+Government Nurses, Miss K. S. Wright, Miss H. I. Willis, 100l., with board and quarters at Hospital.
+
+Judicial Department.
+
+Chief Justice, The Governor, ex officio.
+Registrar, etc., M. Craigie-Halkett (also Postmaster, etc.)
+Magistrate, East Falkland, M. Craigie-Halkett.
+Magistrate, West Falkland and South Shetlands, J. E. Hamilton, M. Sc., F.Z.S. (also Government Naturalist).
+Magistrate, South Georgia, E. B. Binnie, 375l. and 100l. duty allowance.
+Deputy Magistrate, South Georgia, Wm. Barlas, 300l. and 50l. duty allowance.
+
+Educational.
+
+Stanley Government School—
+Schoolmaster, A. R. Hoare, 400l. and quarters.
+Assistant Master, W. H. Vaudin, A.M.I.Mech., E., 300l.
+Assistant Mistress, Miss A. Williams, 220l. to 260l. by 10l.
+Travelling Teachers, J. Sturrock, J. J. Wilson, 100l. a year each and free board and lodging in homes visited.
+
+Police and Prisons.
+
+Chief Constable and Keeper of Prison, D. J. Sullivan, 160l. and quarters.
+Five Constables at 120l. and quarters.
+
+Public Works.
+
+Colonial Engineer, R. B. Baseley, M.I.Mech.E., 500l. and quarters.
+Clerk and Storekeeper, W. Noye, 250l.
+Foreman of Works, E. H. Bound, 228l.
+Wireless Operator, Fox Bay, A. Mercer, 180l. and quarters.
+Telephone Foreman, Stanley, D. J. Sullivan, 12l.
+Telephone Operator, Miss S. Enstrom, 66l.
+
+Stock Department.
+
+Chief Inspector of Stock (vacant), 460l.
+Assistant Inspector of Stock, P. McPherson, 120l.
+Port and Harbour.
+
+Harbour Master and Government Pilot Shipping Master, C. E. Hockly, R.N.R., 300l., and fees and quarters.
+Engine Driver, Launch, J. D. Evans, 150l. and quarters.
+Principal Lighthouse Keeper, John Pearce, 225l. and quarters.
+Two Assistants, S. Evans, 165l. and quarters; T. Binnie, 111l. and quarters.
+
+Scientific Department.
+
+Naturalist, J. E. Hamilton, M.Sc., F.Z.S., 450l. (also Magistrate, West Falkland and South Shetland Islands).
+Forest Officer, J. Reid, 250l. to 300l. by 10l. and quarters.
+
+Ecclesiastical.
+
+Bishop of Falkland Islands, Very Rev. N. S. de Jersey, M.A.
+Incumbent of Christ Church Cathedral, Very Rev. Dean Stanley Smith, M.A.
+Assistant Cathedral and Camp Chaplain (vacant).
+Westcayn Minister (vacant).
+Roman Catholic Priest, Rev. M. L. Migone.
+
+Foreign Consuls.
+
+Consul for Italy, Chili and Norway, H. H. R. Gresham.
+French Consular Agent, G. I. Turner.
+

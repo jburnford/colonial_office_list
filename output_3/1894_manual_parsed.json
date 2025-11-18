@@ -1,0 +1,392 @@
+{
+  "year": 1894,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1894/olmocr_results.md",
+  "total_colonies": 55,
+  "colonies": [
+    {
+      "name": "BAHAMAS",
+      "start_line": 1343,
+      "end_line": 1608,
+      "filename": "bahamas.txt",
+      "line_count": 266
+    },
+    {
+      "name": "BARBADOS",
+      "start_line": 1609,
+      "end_line": 2098,
+      "filename": "barbados.txt",
+      "line_count": 490
+    },
+    {
+      "name": "BASUTOLAND",
+      "start_line": 2099,
+      "end_line": 2214,
+      "filename": "basutoland.txt",
+      "line_count": 116
+    },
+    {
+      "name": "BERMUDA",
+      "start_line": 2215,
+      "end_line": 2549,
+      "filename": "bermuda.txt",
+      "line_count": 335
+    },
+    {
+      "name": "BRITISH BECHUANALAND",
+      "start_line": 2550,
+      "end_line": 2731,
+      "filename": "british_bechuanaland.txt",
+      "line_count": 182
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "start_line": 2732,
+      "end_line": 3344,
+      "filename": "british_guiana.txt",
+      "line_count": 613
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "start_line": 3345,
+      "end_line": 3689,
+      "filename": "british_honduras.txt",
+      "line_count": 345
+    },
+    {
+      "name": "BRITISH NEW GUINEA",
+      "start_line": 3690,
+      "end_line": 3776,
+      "filename": "british_new_guinea.txt",
+      "line_count": 87
+    },
+    {
+      "name": "DOMINION OF CANADA",
+      "start_line": 3777,
+      "end_line": 7297,
+      "filename": "dominion_of_canada.txt",
+      "line_count": 3521
+    },
+    {
+      "name": "CAPE OF GOOD HOPE",
+      "start_line": 7298,
+      "end_line": 8389,
+      "filename": "cape_of_good_hope.txt",
+      "line_count": 1092
+    },
+    {
+      "name": "CEYLON",
+      "start_line": 8390,
+      "end_line": 9135,
+      "filename": "ceylon.txt",
+      "line_count": 746
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "start_line": 9136,
+      "end_line": 9436,
+      "filename": "falkland_islands.txt",
+      "line_count": 301
+    },
+    {
+      "name": "FIJI",
+      "start_line": 9437,
+      "end_line": 9699,
+      "filename": "fiji.txt",
+      "line_count": 263
+    },
+    {
+      "name": "THE GAMBIA",
+      "start_line": 9700,
+      "end_line": 9903,
+      "filename": "the_gambia.txt",
+      "line_count": 204
+    },
+    {
+      "name": "GIBRALTAR",
+      "start_line": 9904,
+      "end_line": 10095,
+      "filename": "gibraltar.txt",
+      "line_count": 192
+    },
+    {
+      "name": "THE GOLD COAST COLONY",
+      "start_line": 10096,
+      "end_line": 10519,
+      "filename": "the_gold_coast_colony.txt",
+      "line_count": 424
+    },
+    {
+      "name": "HONG KONG",
+      "start_line": 10520,
+      "end_line": 10890,
+      "filename": "hong_kong.txt",
+      "line_count": 371
+    },
+    {
+      "name": "JAMAICA",
+      "start_line": 10891,
+      "end_line": 11523,
+      "filename": "jamaica.txt",
+      "line_count": 633
+    },
+    {
+      "name": "LABUAN",
+      "start_line": 11524,
+      "end_line": 11993,
+      "filename": "labuan.txt",
+      "line_count": 470
+    },
+    {
+      "name": "THE LEEWARD ISLANDS",
+      "start_line": 11994,
+      "end_line": 12177,
+      "filename": "the_leeward_islands.txt",
+      "line_count": 184
+    },
+    {
+      "name": "ANTIGUA",
+      "start_line": 12178,
+      "end_line": 12368,
+      "filename": "antigua.txt",
+      "line_count": 191
+    },
+    {
+      "name": "ST. CHRISTOPHER AND NEVIS",
+      "start_line": 12369,
+      "end_line": 12621,
+      "filename": "st_christopher_and_nevis.txt",
+      "line_count": 253
+    },
+    {
+      "name": "DOMINICA",
+      "start_line": 12622,
+      "end_line": 12755,
+      "filename": "dominica.txt",
+      "line_count": 134
+    },
+    {
+      "name": "MONTSERRAT",
+      "start_line": 12756,
+      "end_line": 12863,
+      "filename": "montserrat.txt",
+      "line_count": 108
+    },
+    {
+      "name": "VIRGIN ISLANDS",
+      "start_line": 12864,
+      "end_line": 13411,
+      "filename": "virgin_islands.txt",
+      "line_count": 548
+    },
+    {
+      "name": "MAURITIUS",
+      "start_line": 13412,
+      "end_line": 14161,
+      "filename": "mauritius.txt",
+      "line_count": 750
+    },
+    {
+      "name": "SEYCHELLES",
+      "start_line": 14162,
+      "end_line": 14319,
+      "filename": "seychelles.txt",
+      "line_count": 158
+    },
+    {
+      "name": "Natal",
+      "start_line": 14320,
+      "end_line": 15300,
+      "filename": "natal.txt",
+      "line_count": 981
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "start_line": 15301,
+      "end_line": 15612,
+      "filename": "newfoundland.txt",
+      "line_count": 312
+    },
+    {
+      "name": "NEW SOUTH WALES",
+      "start_line": 15613,
+      "end_line": 16761,
+      "filename": "new_south_wales.txt",
+      "line_count": 1149
+    },
+    {
+      "name": "NEW ZEALAND",
+      "start_line": 16762,
+      "end_line": 17471,
+      "filename": "new_zealand.txt",
+      "line_count": 710
+    },
+    {
+      "name": "QUEENSLAND",
+      "start_line": 17472,
+      "end_line": 17974,
+      "filename": "queensland.txt",
+      "line_count": 503
+    },
+    {
+      "name": "ST. HELENA",
+      "start_line": 17975,
+      "end_line": 18136,
+      "filename": "st_helena.txt",
+      "line_count": 162
+    },
+    {
+      "name": "SIERRA LEONE",
+      "start_line": 18137,
+      "end_line": 18582,
+      "filename": "sierra_leone.txt",
+      "line_count": 446
+    },
+    {
+      "name": "SOUTH AUSTRALIA",
+      "start_line": 18583,
+      "end_line": 19487,
+      "filename": "south_australia.txt",
+      "line_count": 905
+    },
+    {
+      "name": "Straits Settlements",
+      "start_line": 19488,
+      "end_line": 20180,
+      "filename": "straits_settlements.txt",
+      "line_count": 693
+    },
+    {
+      "name": "TASMANIA",
+      "start_line": 20181,
+      "end_line": 20761,
+      "filename": "tasmania.txt",
+      "line_count": 581
+    },
+    {
+      "name": "TRINIDAD",
+      "start_line": 20762,
+      "end_line": 21479,
+      "filename": "trinidad.txt",
+      "line_count": 718
+    },
+    {
+      "name": "TOBAGO",
+      "start_line": 21480,
+      "end_line": 21810,
+      "filename": "tobago.txt",
+      "line_count": 331
+    },
+    {
+      "name": "VICTORIA",
+      "start_line": 21811,
+      "end_line": 22632,
+      "filename": "victoria.txt",
+      "line_count": 822
+    },
+    {
+      "name": "WESTERN AUSTRALIA",
+      "start_line": 22633,
+      "end_line": 23276,
+      "filename": "western_australia.txt",
+      "line_count": 644
+    },
+    {
+      "name": "THE WINDWARD ISLANDS",
+      "start_line": 23277,
+      "end_line": 23374,
+      "filename": "the_windward_islands.txt",
+      "line_count": 98
+    },
+    {
+      "name": "GRENADA",
+      "start_line": 23375,
+      "end_line": 23631,
+      "filename": "grenada.txt",
+      "line_count": 257
+    },
+    {
+      "name": "ST. LUCIA",
+      "start_line": 23632,
+      "end_line": 23881,
+      "filename": "st_lucia.txt",
+      "line_count": 250
+    },
+    {
+      "name": "ST. VINCENT",
+      "start_line": 23882,
+      "end_line": 24130,
+      "filename": "st_vincent.txt",
+      "line_count": 249
+    },
+    {
+      "name": "ZULULAND",
+      "start_line": 24131,
+      "end_line": 24317,
+      "filename": "zululand.txt",
+      "line_count": 187
+    },
+    {
+      "name": "BRUNEI",
+      "start_line": 24318,
+      "end_line": 24329,
+      "filename": "brunei.txt",
+      "line_count": 12
+    },
+    {
+      "name": "CYPRUS",
+      "start_line": 24330,
+      "end_line": 24780,
+      "filename": "cyprus.txt",
+      "line_count": 451
+    },
+    {
+      "name": "THE NIGER TERRITORIES",
+      "start_line": 24781,
+      "end_line": 25175,
+      "filename": "the_niger_territories.txt",
+      "line_count": 395
+    },
+    {
+      "name": "NIGER COAST PROTECTORATE",
+      "start_line": 25176,
+      "end_line": 25313,
+      "filename": "niger_coast_protectorate.txt",
+      "line_count": 138
+    },
+    {
+      "name": "SARAWAK",
+      "start_line": 25314,
+      "end_line": 25430,
+      "filename": "sarawak.txt",
+      "line_count": 117
+    },
+    {
+      "name": "SOUTH AFRICA",
+      "start_line": 25431,
+      "end_line": 25456,
+      "filename": "south_africa.txt",
+      "line_count": 26
+    },
+    {
+      "name": "WESTERN PACIFIC",
+      "start_line": 25457,
+      "end_line": 25576,
+      "filename": "western_pacific.txt",
+      "line_count": 120
+    },
+    {
+      "name": "ADEN",
+      "start_line": 25577,
+      "end_line": 25586,
+      "filename": "aden.txt",
+      "line_count": 10
+    },
+    {
+      "name": "ASCENSION",
+      "start_line": 25587,
+      "end_line": 25610,
+      "filename": "ascension.txt",
+      "line_count": 24
+    }
+  ]
+}

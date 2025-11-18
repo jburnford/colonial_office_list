@@ -1,0 +1,186 @@
+================================================================================
+MANUALLY IDENTIFIED COLONY BOUNDARIES FOR 1905 COLONIAL OFFICE LIST
+================================================================================
+
+Date: 2025-11-18
+Source: historical_document_pipeline/processed_pdfs/colonial-office-list-1905/olmocr_results.md
+Total Lines in File: 46,867
+Total Colonies Identified: 55+ (including main colonies and sub-territories)
+
+================================================================================
+MAIN COLONIES WITH START LINE NUMBERS
+================================================================================
+
+AUSTRALIAN COLONIES & TERRITORIES:
+----------------------------------
+Line  2637: THE COMMONWEALTH OF AUSTRALIA (Introduction to federation)
+Line  3451: NEW SOUTH WALES
+Line  4816: NORFOLK ISLAND
+Line  4824: LORD HOWE ISLAND
+Line  4832: QUEENSLAND
+Line  5487: SOUTH AUSTRALIA
+Line  6313: TASMANIA
+Line  7000: VICTORIA
+Line  7716: WESTERN AUSTRALIA
+
+WEST INDIAN COLONIES:
+--------------------
+Line  8696: BAHAMAS
+Line  8998: BARBADOS
+Line  9613: BERMUDA
+Line 10166: BRITISH GUIANA
+Line 10799: BRITISH HONDURAS
+Line 21196: JAMAICA
+Line 22715: THE LEEWARD ISLANDS (Federation - includes Antigua, St. Kitts, Nevis, Dominica, Montserrat, Virgin Islands)
+Line 32349: TRINIDAD AND TOBAGO (includes TOBAGO as sub-section at line 32452)
+Line 33447: TURKS AND CAICOS ISLANDS
+Line 33756: THE WINDWARD ISLANDS (Federation - includes:)
+  Line 33835: GRENADA (sub-colony)
+  Line 34177: ST. LUCIA (sub-colony)
+  Line 34454: ST. VINCENT (sub-colony)
+
+NORTH AMERICAN:
+--------------
+Line 11133: DOMINION OF CANADA (includes Manitoba and other provinces)
+  Line 12153: MANITOBA (province under Canada)
+  Line 12143: BRITISH COLUMBIA (province under Canada)
+  Line 12165: NORTH-WEST TERRITORIES (territory under Canada)
+
+AFRICAN COLONIES:
+----------------
+Line  9978: BRITISH CENTRAL AFRICA PROTECTORATE
+Line 14061: CAPE OF GOOD HOPE
+Line 25473: NATAL
+Line 27838: ORANGE RIVER COLONY (post-Boer War territory)
+Line 28501: ST. HELENA
+Line 28646: SEYCHELLES
+Line 28984: SIERRA LEONE
+Line 29429: BASUTOLAND
+Line 29564: BECHUANALAND PROTECTORATE
+Line 29637: RHODESIA (includes North-Eastern and North-Western divisions)
+  Line 30018: NORTH-EASTERN RHODESIA
+  Line 30044: NORTH-WESTERN RHODESIA
+Line 31459: TRANSVAAL (post-Boer War territory)
+
+WEST AFRICAN COLONIES:
+---------------------
+Line 19539: THE GAMBIA
+Line 20075: THE GOLD COAST
+Line 22143: LAGOS
+Line 27658: NORTHERN NIGERIA
+Line 30062: SOUTHERN NIGERIA
+
+MEDITERRANEAN/NEAR EAST:
+-----------------------
+Line 18213: CYPRUS
+Line 19861: GIBRALTAR
+Line 23983: MALTA
+
+INDIAN OCEAN/ASIAN COLONIES:
+---------------------------
+Line 17397: CEYLON
+Line 20756: HONG KONG
+Line 24582: MAURITIUS
+Line 30576: STRAITS SETTLEMENTS (includes Singapore, Penang, Malacca)
+  Line 30839: SINGAPORE (administrative section)
+  Line 31050: PENANG (administrative section)
+
+PACIFIC COLONIES:
+----------------
+Line 18844: FALKLAND ISLANDS
+Line 19033: FIJI
+Line 21990: LABUAN
+Line 26663: NEW ZEALAND
+Line 33592: WEIHAIWEI
+Line 33639: WESTERN PACIFIC (includes Pitcairn Island)
+
+BORNEO:
+-------
+Line 34896: NORTH BORNEO
+
+EAST AFRICAN PROTECTORATES:
+---------------------------
+Line 34726: ZANZIBAR
+Line 34749: EAST AFRICA PROTECTORATE
+Line 34798: UGANDA
+Line 34834: SOMALILAND PROTECTORATE
+
+ARABIAN:
+--------
+Line 35318: ADEN
+
+================================================================================
+STATUS OF THE 23 ALLEGEDLY MISSING COLONIES
+================================================================================
+
+FOUND - These were NOT missing:
+-------------------------------
+✓ ADEN - Found at line 35318
+✓ CANADA/DOMINION OF CANADA - Found at line 11133
+✓ GOLD COAST - Found at line 20075 as "THE GOLD COAST"
+✓ HONG KONG - Found at line 20756
+✓ LAGOS - Found at line 22143
+✓ MANITOBA - Found at line 12153 (province under DOMINION OF CANADA)
+✓ NORTH BORNEO - Found at line 34896
+✓ RHODESIA - Found at line 29637 (with sub-divisions)
+✓ ST HELENA/ST. HELENA - Found at line 28501
+✓ ST LUCIA/ST. LUCIA - Found at line 34177 (under WINDWARD ISLANDS)
+✓ ST VINCENT/ST. VINCENT - Found at line 34454 (under WINDWARD ISLANDS)
+✓ STRAITS SETTLEMENTS - Found at line 30576
+✓ THE GAMBIA - Found at line 19539
+✓ TOBAGO - Found at line 32452 (under TRINIDAD AND TOBAGO)
+✓ TRINIDAD - Found at line 32351 (as TRINIDAD AND TOBAGO)
+✓ UGANDA - Found at line 34798
+✓ WESTERN AUSTRALIA - Found at line 7716
+✓ ZANZIBAR - Found at line 34798
+
+TRULY MISSING - Not in 1905:
+----------------------------
+✗ NEW GUINEA/BRITISH NEW GUINEA - Not found in 1905 document
+  (Note: British New Guinea became Papua in 1906, may not be in Colonial Office List in 1905)
+
+================================================================================
+COMPARISON WITH 1900
+================================================================================
+
+1900 had 55 colonies
+1905 has approximately 55-58 main colonies (depending on how federations are counted)
+
+New in 1905 (post-Boer War):
+- ORANGE RIVER COLONY (former Boer republic)
+- TRANSVAAL (former Boer republic)
+
+Missing from 1905 vs 1900:
+- BRITISH NEW GUINEA (became Papua 1906)
+- NEWFOUNDLAND (may be listed differently)
+- ASCENSION (may be sub-territory)
+- TRISTAN D'ACUNHA (may be sub-territory)
+- BRUNEI (may be under protectorates)
+- SARAWAK (may be under protectorates)
+- GRENADE vs GRENADA (spelling variant)
+
+================================================================================
+NOTES
+================================================================================
+
+1. ST. LUCIA and ST. VINCENT appear both:
+   - As bank branches (lines 1077, 1079)
+   - As actual colonies under WINDWARD ISLANDS (lines 34177, 34454)
+
+2. TRINIDAD AND TOBAGO is a unified colony as of 1899
+
+3. MANITOBA is a province of Canada, not a separate colony
+
+4. STRAITS SETTLEMENTS is a unified colony comprising Singapore, Penang, and Malacca
+
+5. RHODESIA is divided into North-Eastern and North-Western sections
+
+6. Several colonies have Protectorate status rather than full colony status
+
+7. The Australian colonies are now part of the Commonwealth of Australia (federatedas of 1901)
+
+8. BRITISH NEW GUINEA is the main colony that appears to be genuinely missing from 1905
+
+================================================================================
+END OF MANUAL COLONY BOUNDARIES
+================================================================================

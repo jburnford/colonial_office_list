@@ -1,0 +1,457 @@
+{
+  "year": 1905,
+  "source_file": "olmocr_results.md",
+  "extraction_method": "manual_boundary_identification",
+  "extraction_date": "2025-11-18",
+  "total_colonies": 56,
+  "colonies": [
+    {
+      "colony_name": "THE COMMONWEALTH OF AUSTRALIA",
+      "start_line": 2637,
+      "end_line": 3450,
+      "line_count": 814,
+      "character_count": 66066,
+      "output_file": "THE_COMMONWEALTH_OF_AUSTRALIA.md"
+    },
+    {
+      "colony_name": "NEW SOUTH WALES",
+      "start_line": 3451,
+      "end_line": 4815,
+      "line_count": 1365,
+      "character_count": 74171,
+      "output_file": "NEW_SOUTH_WALES.md"
+    },
+    {
+      "colony_name": "NORFOLK ISLAND",
+      "start_line": 4816,
+      "end_line": 4823,
+      "line_count": 8,
+      "character_count": 1633,
+      "output_file": "NORFOLK_ISLAND.md"
+    },
+    {
+      "colony_name": "LORD HOWE ISLAND",
+      "start_line": 4824,
+      "end_line": 4831,
+      "line_count": 8,
+      "character_count": 617,
+      "output_file": "LORD_HOWE_ISLAND.md"
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "start_line": 4832,
+      "end_line": 5486,
+      "line_count": 655,
+      "character_count": 42784,
+      "output_file": "QUEENSLAND.md"
+    },
+    {
+      "colony_name": "SOUTH AUSTRALIA",
+      "start_line": 5487,
+      "end_line": 6312,
+      "line_count": 826,
+      "character_count": 45803,
+      "output_file": "SOUTH_AUSTRALIA.md"
+    },
+    {
+      "colony_name": "TASMANIA",
+      "start_line": 6313,
+      "end_line": 6999,
+      "line_count": 687,
+      "character_count": 37192,
+      "output_file": "TASMANIA.md"
+    },
+    {
+      "colony_name": "VICTORIA",
+      "start_line": 7000,
+      "end_line": 7715,
+      "line_count": 716,
+      "character_count": 53534,
+      "output_file": "VICTORIA.md"
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "start_line": 7716,
+      "end_line": 8695,
+      "line_count": 980,
+      "character_count": 86464,
+      "output_file": "WESTERN_AUSTRALIA.md"
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "start_line": 8696,
+      "end_line": 8997,
+      "line_count": 302,
+      "character_count": 19480,
+      "output_file": "BAHAMAS.md"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "start_line": 8998,
+      "end_line": 9612,
+      "line_count": 615,
+      "character_count": 35259,
+      "output_file": "BARBADOS.md"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "start_line": 9613,
+      "end_line": 9977,
+      "line_count": 365,
+      "character_count": 22890,
+      "output_file": "BERMUDA.md"
+    },
+    {
+      "colony_name": "BRITISH CENTRAL AFRICA PROTECTORATE",
+      "start_line": 9978,
+      "end_line": 10165,
+      "line_count": 188,
+      "character_count": 15180,
+      "output_file": "BRITISH_CENTRAL_AFRICA_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "start_line": 10166,
+      "end_line": 10798,
+      "line_count": 633,
+      "character_count": 46704,
+      "output_file": "BRITISH_GUIANA.md"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "start_line": 10799,
+      "end_line": 11132,
+      "line_count": 334,
+      "character_count": 22721,
+      "output_file": "BRITISH_HONDURAS.md"
+    },
+    {
+      "colony_name": "DOMINION OF CANADA",
+      "start_line": 11133,
+      "end_line": 14060,
+      "line_count": 2928,
+      "character_count": 146082,
+      "output_file": "DOMINION_OF_CANADA.md"
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "start_line": 14061,
+      "end_line": 17396,
+      "line_count": 3336,
+      "character_count": 169157,
+      "output_file": "CAPE_OF_GOOD_HOPE.md"
+    },
+    {
+      "colony_name": "CEYLON",
+      "start_line": 17397,
+      "end_line": 18212,
+      "line_count": 816,
+      "character_count": 46554,
+      "output_file": "CEYLON.md"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "start_line": 18213,
+      "end_line": 18843,
+      "line_count": 631,
+      "character_count": 39237,
+      "output_file": "CYPRUS.md"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "start_line": 18844,
+      "end_line": 19032,
+      "line_count": 189,
+      "character_count": 14157,
+      "output_file": "FALKLAND_ISLANDS.md"
+    },
+    {
+      "colony_name": "FIJI",
+      "start_line": 19033,
+      "end_line": 19538,
+      "line_count": 506,
+      "character_count": 35160,
+      "output_file": "FIJI.md"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "start_line": 19539,
+      "end_line": 19860,
+      "line_count": 322,
+      "character_count": 15913,
+      "output_file": "THE_GAMBIA.md"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "start_line": 19861,
+      "end_line": 20074,
+      "line_count": 214,
+      "character_count": 13045,
+      "output_file": "GIBRALTAR.md"
+    },
+    {
+      "colony_name": "THE GOLD COAST",
+      "start_line": 20075,
+      "end_line": 20755,
+      "line_count": 681,
+      "character_count": 68230,
+      "output_file": "THE_GOLD_COAST.md"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "start_line": 20756,
+      "end_line": 21195,
+      "line_count": 440,
+      "character_count": 32016,
+      "output_file": "HONG_KONG.md"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "start_line": 21196,
+      "end_line": 21989,
+      "line_count": 794,
+      "character_count": 48583,
+      "output_file": "JAMAICA.md"
+    },
+    {
+      "colony_name": "LABUAN",
+      "start_line": 21990,
+      "end_line": 22142,
+      "line_count": 153,
+      "character_count": 7878,
+      "output_file": "LABUAN.md"
+    },
+    {
+      "colony_name": "LAGOS",
+      "start_line": 22143,
+      "end_line": 22714,
+      "line_count": 572,
+      "character_count": 30183,
+      "output_file": "LAGOS.md"
+    },
+    {
+      "colony_name": "THE LEEWARD ISLANDS",
+      "start_line": 22715,
+      "end_line": 23982,
+      "line_count": 1268,
+      "character_count": 73780,
+      "output_file": "THE_LEEWARD_ISLANDS.md"
+    },
+    {
+      "colony_name": "MALTA",
+      "start_line": 23983,
+      "end_line": 24581,
+      "line_count": 599,
+      "character_count": 30973,
+      "output_file": "MALTA.md"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "start_line": 24582,
+      "end_line": 25472,
+      "line_count": 891,
+      "character_count": 52196,
+      "output_file": "MAURITIUS.md"
+    },
+    {
+      "colony_name": "NATAL",
+      "start_line": 25473,
+      "end_line": 26662,
+      "line_count": 1190,
+      "character_count": 78328,
+      "output_file": "NATAL.md"
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "start_line": 26663,
+      "end_line": 27657,
+      "line_count": 995,
+      "character_count": 69772,
+      "output_file": "NEW_ZEALAND.md"
+    },
+    {
+      "colony_name": "NORTHERN NIGERIA",
+      "start_line": 27658,
+      "end_line": 27837,
+      "line_count": 180,
+      "character_count": 29402,
+      "output_file": "NORTHERN_NIGERIA.md"
+    },
+    {
+      "colony_name": "ORANGE RIVER COLONY",
+      "start_line": 27838,
+      "end_line": 28500,
+      "line_count": 663,
+      "character_count": 37227,
+      "output_file": "ORANGE_RIVER_COLONY.md"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "start_line": 28501,
+      "end_line": 28645,
+      "line_count": 145,
+      "character_count": 9664,
+      "output_file": "ST_HELENA.md"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "start_line": 28646,
+      "end_line": 28983,
+      "line_count": 338,
+      "character_count": 19724,
+      "output_file": "SEYCHELLES.md"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "start_line": 28984,
+      "end_line": 29428,
+      "line_count": 445,
+      "character_count": 32673,
+      "output_file": "SIERRA_LEONE.md"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "start_line": 29429,
+      "end_line": 29563,
+      "line_count": 135,
+      "character_count": 14724,
+      "output_file": "BASUTOLAND.md"
+    },
+    {
+      "colony_name": "BECHUANALAND PROTECTORATE",
+      "start_line": 29564,
+      "end_line": 29636,
+      "line_count": 73,
+      "character_count": 6183,
+      "output_file": "BECHUANALAND_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "RHODESIA",
+      "start_line": 29637,
+      "end_line": 30061,
+      "line_count": 425,
+      "character_count": 38767,
+      "output_file": "RHODESIA.md"
+    },
+    {
+      "colony_name": "SOUTHERN NIGERIA",
+      "start_line": 30062,
+      "end_line": 30575,
+      "line_count": 514,
+      "character_count": 42411,
+      "output_file": "SOUTHERN_NIGERIA.md"
+    },
+    {
+      "colony_name": "STRAITS SETTLEMENTS",
+      "start_line": 30576,
+      "end_line": 32348,
+      "line_count": 1773,
+      "character_count": 123955,
+      "output_file": "STRAITS_SETTLEMENTS.md"
+    },
+    {
+      "colony_name": "TRINIDAD AND TOBAGO",
+      "start_line": 32349,
+      "end_line": 33446,
+      "line_count": 1098,
+      "character_count": 54145,
+      "output_file": "TRINIDAD_AND_TOBAGO.md"
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "start_line": 33447,
+      "end_line": 33591,
+      "line_count": 145,
+      "character_count": 8685,
+      "output_file": "TURKS_AND_CAICOS_ISLANDS.md"
+    },
+    {
+      "colony_name": "WEIHAIWEI",
+      "start_line": 33592,
+      "end_line": 33638,
+      "line_count": 47,
+      "character_count": 5150,
+      "output_file": "WEIHAIWEI.md"
+    },
+    {
+      "colony_name": "WESTERN PACIFIC",
+      "start_line": 33639,
+      "end_line": 33755,
+      "line_count": 117,
+      "character_count": 17379,
+      "output_file": "WESTERN_PACIFIC.md"
+    },
+    {
+      "colony_name": "THE WINDWARD ISLANDS",
+      "start_line": 33756,
+      "end_line": 34725,
+      "line_count": 970,
+      "character_count": 60811,
+      "output_file": "THE_WINDWARD_ISLANDS.md"
+    },
+    {
+      "colony_name": "ZANZIBAR",
+      "start_line": 34726,
+      "end_line": 34748,
+      "line_count": 23,
+      "character_count": 2861,
+      "output_file": "ZANZIBAR.md"
+    },
+    {
+      "colony_name": "EAST AFRICA PROTECTORATE",
+      "start_line": 34749,
+      "end_line": 34797,
+      "line_count": 49,
+      "character_count": 4863,
+      "output_file": "EAST_AFRICA_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "UGANDA",
+      "start_line": 34798,
+      "end_line": 34833,
+      "line_count": 36,
+      "character_count": 5650,
+      "output_file": "UGANDA.md"
+    },
+    {
+      "colony_name": "SOMALILAND PROTECTORATE",
+      "start_line": 34834,
+      "end_line": 34895,
+      "line_count": 62,
+      "character_count": 5335,
+      "output_file": "SOMALILAND_PROTECTORATE.md"
+    },
+    {
+      "colony_name": "NORTH BORNEO",
+      "start_line": 34896,
+      "end_line": 35317,
+      "line_count": 422,
+      "character_count": 25322,
+      "output_file": "NORTH_BORNEO.md"
+    },
+    {
+      "colony_name": "ADEN",
+      "start_line": 35318,
+      "end_line": 35327,
+      "line_count": 10,
+      "character_count": 1938,
+      "output_file": "ADEN.md"
+    },
+    {
+      "colony_name": "ASCENSION",
+      "start_line": 35328,
+      "end_line": 35333,
+      "line_count": 6,
+      "character_count": 838,
+      "output_file": "ASCENSION.md"
+    },
+    {
+      "colony_name": "TRISTAN DA CUNHA",
+      "start_line": 35334,
+      "end_line": 35357,
+      "line_count": 24,
+      "character_count": 6082,
+      "output_file": "TRISTAN_DA_CUNHA.md"
+    }
+  ]
+}

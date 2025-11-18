@@ -1,0 +1,2000 @@
+### Population, Crown Lands, Agriculture, Live Stock, Mining, Imports, Exports, Revenue, and Expenditure, 1874 to 1884 Inclusive, and Present Debt.
+
+| Year | Population on 31st December | Quantity Sold by Auction | Amount Realised | Number of Squatting Runs | Area Leased | Crown Lands | Land under Crop | Live Stock | Mining | Imports | Exports |
+|------|---------------------------|--------------------------|----------------|--------------------------|-------------|--------------|----------------|------------|--------|---------|---------|
+|      | No                        | Acres                    | £              | No                       | Acres       | No           | Acres         | No         | No     | No      | No      |
+| 1874 | 163,517                   | 17,932                   | 39,576         | 3,757                    | 158,372,189 | 70,331       | 4,149         | 14,600    | 413    | 107,507 | 1,610,105 |
+| 1875 | 181,288                   | 25,023                   | 55,202         | 4,292                    | 180,452,459 | 77,347       | 1,674         | 13,459   | 376    | 121,497 | 1,812,576 |
+| 1876 | 187,100                   | 17,814                   | 42,042         | 4,790                    | 166,694,707 | 85,569       | 573           | 13,690   | 823    | 138,628 | 2,079,979 |
+| 1877 | 203,084                   | 298,666                  | 398,192        | 5,932                    | 210,502,476 | 98,891       | 276           | 15,220   | 655    | 140,174 | 2,299,582 |
+| 1878 | 210,510                   | 17,895                   | 35,455         | 6,711                    | 244,265,099 | 112,525      | 37            | 16,584   | 605    | 148,226 | 2,469,555 |
+| 1879 | 217,851                   | 12,617                   | 24,191         | 6,422                    | 235,012,408 | 111,247      | 105           | 17,652   | 743    | 163,342 | 2,805,964 |
+| 1880 | 226,077                   | 82,714                   | 100,166        | 6,590                    | 283,739,091 | 113,978      | 619           | 20,224   | 739    | 179,152 | 3,162,752 |
+| 1881 | 226,968                   | 267,969                  | 249,878        | 7,506                    | 273,762,933 | 126,229      | 973           | 28,026   | 890    | 194,217 | 3,618,513 |
+| 1882 | 248,255                   | 84,021                   | 157,401        | 8,751                    | 306,515,893 | 151,199      | 1,082         | 39,591   | 1092   | 233,856 | 4,296,607 |
+| 1883 | 287,475                   | 47,455                   | 126,126        | 9,243                    | 311,528,320 | 187,243      | 316           | 47,898   | 1198   | 236,154 | 4,246,141 |
+| 1884 | 309,913                   | 13,882                   | 75,739         | 9,542                    | 316,113,760 | 187,381      | 49            | 57,687   | 1286   | 253,116 | 4,266,172 |
+
+**Public Debt**, on 31st December, 1884, 16,419,850l.
+
+* For the years previous to 1875 the Treasury statements were made for the year ending on 31st December, but the revenue and expenditure for 1875 are only up to 30th June, the "Audit Act" of 1874 having altered the commencement of the financial year to 1st July. The subsequent returns of Revenue and Expenditure relate to the financial year ending on 30th June.
+
+† For these years the figures only show the value of the gold sent from the gold fields under escort, but a large quantity is sent by private hands, to save escort fees, of the value of which it is impossible to form an estimate.
+### QUEENSLAND TARIFF.
+
+#### Customs Duties on Imports.
+
+| Item                                                                 | £ s. d. |
+|----------------------------------------------------------------------|---------|
+| Brandy and other spirits or strong waters, per proof gallon          | 0 12 0  |
+| Spirits, cordials, or strong waters, sweetened or mixed with any article so that the strength thereof cannot be exactly ascertained by Sykes' Hydrometer, per proof gallon | 0 12 0  |
+| Methylated spirits, per liquid gallon                                | 0 5 0   |
+| Wine containing more than 25 per cent. of alcohol of a specific gravity of .825 at the temperature of 60 degrees of Fahrenheit's Thermometer for every gallon in proportion to strength, per gallon | 0 10 0  |
+| Wine not containing more than 25 per cent. of alcohol, per gallon    | 0 6 0   |
+| Ale, beer, porter, cider, perry, and vinegar, in wood, per gallon    | 0 0 9   |
+| Ale, beer, porter, cider, perry, and vinegar, in bottle, for six reputed quart bottles | 0 1 0   |
+| Ale, beer, porter, cider, perry, and vinegar, in bottle, for twelve reputed pint bottles | 0 1 0   |
+| Tobacco and snuff, per lb.                                           | 0 2 6   |
+| Cigars, per lb.                                                      | 0 5 0   |
+| Opium, per lb.                                                       | 1 0 0   |
+| Coffee, roasted, and tea, per lb.                                    | 0 0 6   |
+| Coffee, raw, chicory, cocoa, and chocolate, per lb.                  | 0 0 4   |
+| Cocoa, raw, per lb.                                                 | 0 0 2   |
+| Sugar, refined, per cwt.                                             | 0 6 8   |
+| Sugar, raw, per cwt.                                                 | 0 5 0   |
+| Molasses, per cwt.                                                   | 0 8 4   |
+| Oatmeal, per ton                                                     | 2 0 0   |
+| Cheese, bacon, hams, and hops, per lb.                               | 0 0 6   |
+| Soap (not including toilet soap), per cwt.                           | 0 5 0   |
+| Potatoes, onions, hay, and chaff, per ton                            | 0 10 0  |
+| Wheat, barley, maize, oats, and malt, per bushel                     | 0 0 6   |
+| Bran and pollard, per bushel                                         | 0 0 2   |
+| Maizena, arrowroot, per lb.                                          | 0 0 1   |
+| Coals, per ton                                                       | 0 1 6   |
+
+The following Scale of Duties on the undermentioned articles came into operation on and from the 1st April, 1874:
+
+| Item                                                                 | £ s. d. |
+|----------------------------------------------------------------------|---------|
+| Blue, corn flour, maize meal, macaroni, sago, starch, tapioca, vermicelli, twine, gunpowder, and rice, per reputed lb. | 0 0 1   |
+| Biscuits, butter, candles, confectionery, succades, dried fruits, ginger, glue, honey, leather, nuts (all sorts except cocoa nuts), mustard, pepper, and spices, per reputed lb. | 0 0 2   |
+| Fruits (bottled or in tins or jars), castor oil (in bottle), salad oil, pickles, sauces, and jams and jellies, per doz. reputed pints or lbs. | 0 1 0   |
+| Preserved meat and fish (not salted), per dozen reputed lbs.         | 0 2 0   |
+| Soda crystals, per cwt.                                              | 0 1 0   |
+| Galvanised or corrugated iron, iron wire, nails, iron castings, for building purposes, paints (wet and dry), shot, and lead (white and red), per cwt. | 0 2 0   |
+| Cordage and rope, per cwt.                                           | 0 4 0   |
+| Saltpetre, per cwt.                                                  | 0 4 0   |
+| Fish (pickled and salted, in casks), per cwt.                        | 0 5 0   |
+| Fish, dried, per cwt.                                                | 0 5 0   |
+| Cement, per barrel                                                  | 0 2 0   |
+| Doors, each                                                          | 0 2 6   |
+| Sashes, per pair                                                     | 0 2 6   |
+| Iron tanks, each                                                     | 0 8 0   |
+| Castor oil and other oils, per gallon                               | 0 0 6   |
+| Turpentine, per gallon                                               | 0 0 6   |
+| Sarsaparilla (containing more than 25 per cent. of alcohol), per gallon | 0 10 0  |
+| Sarsaparilla (not containing more than 25 per cent. of alcohol), per gallon | 0 4 0   |
+| Tallow and stearine, per lb.                                         | 0 0 1   |
+| Methylated colonial spirits, per gallon                             | 0 2 0   |
+| Machinery for manufacturing, sawing, and seeding, agricultural, mining, and pastoral purposes, steam engines and boilers, 5 percent ad valorem. Timber, logs, dressed or undressed timber, per 100 feet square (1 inch thickness) | 0 1 0   |
+
+### EXEMPTIONS.
+
+Anchors and chain cables over 3 inches in diameter, iron ore, plain sheet iron (not including galvanised), pig, bar, rod, scrap, and hoop iron, boiler plates, tin plates, block tin, sheet and pipe lead, zinc, sheet copper, muntz metal, unwrought steel, gold, silver, and copper coin, and unmanufactured gold and silver, printed books and newspapers, live animals, manure, green fruit, garden seeds, and garden produce, bulbs, trees, shrubs, and flour, antique curiosities, and specimens of natural history, outside packages in which goods are ordinarily imported, and which are of no commercial value except as covering for goods, passengers' cabin furniture and baggage, and passengers' personal effects (not including vehicles, musical instruments, glassware, chinaware, silver and gold plate, and plated goods, and furniture other than cabin furniture) which are imported with, and by passengers bond fide for their own personal use, and not imported for the purpose of sale, naval and military stores, stores imported for the service of the Colonial Governments, or for the use of Her Majesty's land or sea forces, and wines and spirits for the use of His Excellency the Governor, or for naval and military officers employed on actual naval or military service and on full pay, New Zealand flax, quicksilver, and hemp.
+
+### AD VALOREM DUTIES.
+
+Upon all goods imported into the Colony other than those mentioned in the foregoing schedules, a duty of five pounds for every one hundred pounds value thereof.
+
+### EXPORT DUTY.
+
+| Item                                                                 | £ s. d. |
+|----------------------------------------------------------------------|---------|
+| Cedar timber, in the log, per 100 superficial feet, an inch thick    | 0 2 0   |
+| Cedar timber, sawn, per 100 superficial feet, four inches in thickness | 0 2 0   |
+### Routes between Brisbane, London, and the Neighbouring Colonies
+
+| Place                  | Route                          | Distance from Brisbane | Length of Passage | Frequency of Communication |
+|------------------------|--------------------------------|------------------------|------------------|----------------------------|
+| London                 | Via Torres Straits & Brindisi  | 11,150                 | 49 days          | Every 4 weeks, with supplementary steamers every fortnight. |
+|                        | Torres Straits and Southampton | 12,150                 | 56 "              | "                           |
+|                        | Melbourne and Brindisi         | 11,420                 | 50 "              | Every fortnight.            |
+|                        | Melbourne and Southampton      | 12,420                 | 57 "              | "                           |
+| Sydney                 | Via San Francisco              | 13,560                 | 57 "              | Every 4 weeks.              |
+|                        | Cape of Good Hope              | 14,730                 | 57 to 75 days    | Every month.                |
+|                        | Cape Horn                      | 13,650                 | 100 to 120 "      | Uncertain.                  |
+| Melbourne              | Via Sydney                     | 620                    | 2 to 2½ "        | Almost daily.               |
+| Adelaide               | Sydney                         | 1,125                  | 5 to 7 "         | "                           |
+| King George's Sound    | Sydney                         | 1,635                  | 10 days          | "                           |
+| Hobart                 | Sydney                         | 2,465                  | 15 "             | Every week.                 |
+| Auckland               | Direct                         | 1,140                  | 6 "              | "                           |
+| Wellington             | Via Sydney                     | 1,290                  | 7 steam, 15 sailing | No direct communication.   |
+|                        | Direct                         | 1,780                  | 11 days          | Bimonthly.                  |
+|                        | Via Sydney                     | 1,430                  | 8 steam, 17 sailing | No direct communication.   |
+|                        | Direct                         | 1,680                  | 11 days          | About every 3 weeks.        |
+|                        | Via Sydney                     | 1,620                  | 9 steam, 18 sailing | No direct communication.   |
+| Fiji                   | Direct                         | 2,330                  | 13 days          | Every 4 weeks.              |
+|                        | Via Sydney                     | 920                    | 5 steam, 11 sailing | Uncertain.                  |
+| New Caledonia, Isle of Pines | Via Sydney                  | 1,655                  | 10 days          | Every 4 weeks.              |
+| Solomon Islands        | Direct                         | 1,140                  | 6 steam, 14 sailing | Uncertain.                  |
+| Hebrides               | Via Sydney                     | 1,080                  | "                | "                           |
+| Batavia                | Via Batavia                    | 3,650                  | 17 days          | Every 4 weeks.              |
+| Singapore              | Via Batavia                    | 4,100                  | 20 "             | "                           |
+
+---
+
+**Governors of Queensland**
+
+- Sir G. F. Bowen, G.C.M.G., 10th December, 1859.
+- Colonel Maurice Charles O'Connell (Administrator), 4th January, 1868.
+- Colonel Samuel Wensley Blackall, 14th Aug., 1868.
+- Colonel Sir Maurice Charles O'Connell, Knt (Administrator), 2nd January, 1871.
+- Marquis of Normanby, P.C. and G.C.M.G., 12th August, 1871.
+- Colonel Sir Maurice Charles O'Connell, Knt, (Administrator), 12th November, 1874.
+- William Wellington Cairns, C.M.G., now K.C.M.G., 23rd January, 1875.
+- Colonel Sir Maurice Charles O'Connell, Knt., (Administrator), 14th March, 1877.
+- Sir Arthur Edward Kennedy, G.C.M.G., C.B., 10th April, 1877.
+- The Honourable Joshua Peter Bell (Administrator), (during the absence on leave of the governor), 19th March, 1880.
+- Sir Arthur Hunter Palmer, K.C.M.G., Administrator, 2nd May, 1883.
+- Sir Anthony Musgrave, G.C.M.G., 6th Nov., 1883.
+
+---
+
+**Civil Establishment**
+
+- Governor and Commander-in-Chief, Sir Anthony Musgrave, G.C.M.G., 5,000l., and allowances.
+- Private Secretary, Anthony Musgrave, jun., 400l.
+- Aide-de-Camp and Acting Private Secretary, Herbert C. Prichard, 300l.; R. V. Cholmondeley.
+
+---
+
+**Executive Council**
+
+- Vice President, Colonial Secretary, and Premier, Hon. S. W. Griffith, Q.C., 1,800l.
+- Attorney-General, Hon. Arthur Rutledge, 1,000l.
+- Secretary for Public Instruction, Hon. B. B. Moreton.
+- Secretary for Public Works and Mines, Hon. William Miles, 1,000l.
+- Treasurer, Hon. James Robert Dickson, 1,000l.
+- Secretary for Lands, Hon. C. B. Dutton, 1,000l.
+- Postmaster-General, Hon. Thos. Macdonald-Paterson, M.L.C., 1,000l.
+
+---
+
+**Agent-General for the Colony in London**, Hon.
+- J. F. Garrick, C.M.G., M.L.C., Q.C.
+- Clerk, Albert Victor Drury, 600l.
+
+---
+
+**Legislative Council**
+
+- Sir A. H. Palmer, K.C.M.G. (President.)
+- Hon. W. Aplin.
+- W. D. Box.
+- J. Cowlishaw.
+- J. C. Foote.
+- E. B. Forrest.
+- William Forrest.
+- Jas. Francis Garrick, Q.C., C.M.G.
+- J. Gibbon.
+- W. Graham.
+- A. C. Gregory, C.M.G.
+- F. T. Gregory.
+- F. H. Hart.
+- J. C. Heussler.
+- F. H. Holberton.
+- G. King.
+- W. F. Lambert.
+- T. Macdonald-Paterson.
+- Peter Macpherson.
+- J. F. McDougall.
+- C. S. D. Melbourne.
+- T. L. Murray-Prior.
+- K. I. O'Doherty.
+- W. Pettigrew.
+- Wm. G. Power.
+- Alexander Raff.
+- D. F. Roberts (Chairman of Committees).
+- G. Sandeman.
+- J. C. Smyth.
+- J. Swan.
+- J. Taylor.
+- A. J. Thynne.
+- J. S. Turner.
+- W. H. Walsh.
+- A. H. Wilson.
+- W. H. Wilson.
+
+---
+
+**President**, Hon. Sir A. H. Palmor, K.C.M.G., 1,000l.
+**Chairman of Committees**, Hon. D. F. Roberts, 500l.
+### Legislative Assembly
+
+| Electoral Districts | Members' Names |
+|---------------------|----------------|
+| Aubigny             | Jas. Campbell.  |
+| Balonne             | B. D. Morehead. |
+| Barcoo*             | A. Archer.      |
+| Blackall            | Chas. E. Chubb, Q.C. |
+| Bowen               | J. F. Buckland. |
+| Bulimba             | James Foote.    |
+| Bundabang           | Edward Palmer.  |
+| Burke               | Hon. Berkeley Basil Moreton. |
+| Burnett             | Justin F. G. Foxton. |
+| Carnarvon           | Donald S. Wallace. |
+| Clermont            | C. L. Hill.     |
+| Cook                | John Hamilton.  |
+| Dalby               | J. S. Jessop.   |
+| Darling Downs       | Hon. Wm. Miles. |
+| Drayton and Toowoomba | Robert Aland. |
+| Enoggera            | Hon. W. H. Groom, Speaker. |
+| Fassifern           | Hor. J. R. Dickson. |
+| Fortitude Valley    | Robert Bulcock. |
+| Gregory             | A. Midgley.     |
+| Gympie              | F. Beattie.     |
+| Ipswich             | John McMaster.  |
+| Kennedy             | T. McWhannell.  |
+| Leichhardt          | W. Smyth.       |
+| Logan               | John Macfarlane. |
+| Mackay              | Wm. Salkeld.    |
+| Maranoa             | Isidor Lissner. |
+| Maryborough         | Hon. Arthur Rutledge. |
+| Mitchell            | J. Scott.       |
+| Moreton             | Hon. C. B. Dutton. |
+| Mulgrave            | E. J. Stevens.  |
+| Musgrave*           | M. Hume Black.  |
+| Normanby            | James Lalor.    |
+| North Brisbane      | J. Annear.      |
+| Northern Downs      | R. B. Sheridan. |
+| Oxley               | John Govett.    |
+| Port Curtis         | H. Wakefield.   |
+| Rockhampton         | Hcn. Sir T. McIlwraith LL.D., K.C.M.G. |
+| Rosewood            | J. B. L. Isambert. |
+| South Brisbane      | H. Jordan.      |
+| Stanley             | S. Fraser (Chairman of Committees). |
+| Townsville          | W. Kellett.     |
+| Warrego             | Peter White.    |
+| Warwick             | Hon. John M. Macrossan. |
+| Wide Bay            | John Donaldson. |
+|                   | J. Horwitz.     |
+|                   | W. G. Bailey.   |
+|                   | M. Mellor.      |
+
+**Speaker**, Hon. W. H. Groom, 1,000l.
+
+**Chairman of Committees**, S. Fraser, 500l.
+
+**Clerk of Assembly**, L. A. Bernays, F.L.S., F.R.G.S., 600l.
+
+**Librarian to Parliament**, D. O'Donovan, 500l.
+
+**Sergeant at Arms**, Jas. Warner, 800l.
+
+* Vacant. Elections pending.
+
+---
+
+### Colonial Secretary's Department
+
+**Under Colonial Secretary**, Robert J. Gray, 800l.
+
+**Registrar-General**, Wm. T. Blakeney, 700l.
+
+**Registrar of Titles**, Thomas Mylne, 650l.
+
+**Master of Titles**, M. Murray-Prior, B.A., 400l.
+
+**Commissioner of Police**, David T. Seymour, 700l.
+
+**Government Printer**, J. C. Beal, 650l.
+
+**Immigration Agent**, Sir St. G. Ralph Gore, Bart., 600l.
+
+**Health Officer (Brisbane)**, Dr. C. J. H. Wray, 700l.
+
+**Medical Officer (Brisbane)**, W. Hobbs, M.R.C.S.I., 500l.
+
+**Chief Inspector of Sheep and Registrar of Brands**, P. R. Gordon, 550l.
+
+**Commandant Defence Force**, Col. G. A. French, R.A., C.M.G., 900l.
+
+**Senior Naval Officer**, Captain H. T. Wright, R.A., 600l.
+
+**Government Resident, Thursday Island**, Hon. John Douglas, C.M.G. 900l.
+
+---
+
+### Attorney-General's Department
+
+**Chief Justice**, Hon. Sir Charles Lilley, Kt., 2,500l.
+
+**1st Puisne Judge**, George R. Harding, 2,000l.
+
+**2nd ditto**, Hon. Chas. Stuart Mein, 2,000l.
+
+**Northern Judge**, Pope A. Cooper, 2,000l.
+
+**District Court Judges**
+
+- Granville G. Miller, 1,000l.
+- Arthur B. Noel, 1,000l.
+
+**Sheriff**, Arthur Edward Halloran, 800l.
+
+**Registrar of Supreme Court**, Clerk of the Peace, Prothonotary, &c., W. Bell, 700l.
+
+**Crown Solicitor**, J. H. Gill, 1,000l.
+
+**Curator of Intestate Estates, and Curator in Insanity**, G. H. Newman, 700l.
+
+**Secretary to Crown Law Offices**, Wm. Crompton, M.A., 500l.
+
+---
+
+### Department of Public Instruction
+
+**Under Secretary for Public Instruction**, J. G. Anderson, M.A., 800l.
+
+**General Inspector of Schools**, D. Ewart, 600l.
+
+**Inspector of Orphanages**, C. C. Horrocks, 400l.
+
+---
+
+### Colonial Treasurer's Department
+
+**Under Secretary to the Treasury**, Edward B. Cullen, 800l.
+
+**Collector of Customs**, T. M. King, 700l.
+
+**Portmaster**, Commander G. P. Heath, R.N., 800l.
+
+**Engineer of Harbours and Rivers**, William D. Nisbet, 1,200l.
+
+**Chief Inspector of Distilleries**, F. O. Darvall, jun., 700l.
+
+**Inspector of Invoices**, James Honeyman, 440l.
+
+**Shipping Master and Secretary to Marine Board**, Alexander J. Manson, 400l.
+
+---
+
+### Department of Public Lands
+
+**Under Secretary for Public Lands**, W. C. Hume, 800l.
+
+**Surveyor-General**, William A. Tully, F.R.G.S., B.A., 1,000l.
+
+**Inspecting Commissioner of Lands**, Peter M'Lean, 500l.
+
+**Head Gardener, Botanic Garden**, James Pink, 200l., and residence.
+
+---
+
+### Department of Public Works
+
+**Under Secretary for Public Works and Mines**, Edward Deighton, 800l.
+
+**Under Secretary for Railways**, A. O. Herbert, 800l.
+
+**Chief Engineer, Central and Northern Railway**, Robert Ballard, 1,350l.
+Chief Engineer, Southern Railways, H. C. Stanley, 1,400l.
+Commissioner for Railways, F. Curnow, 700l.
+Chief Engineer, Carpentaria and Cook Division, W. Hannam, 1,300l.
+
+Department of the Postmaster-General.
+Under Secretary, Postal Department, John McDonnell, 800l.
+Meteorological Observer, Edmund MacDonnell, 250l.
+Auditor-General, W. L. G. Drew, 1,000l.
+
+London Agency.
+Agent-General, Hon. James Francis Garrick, Q.C., C.M.G., M.L.C., 1,500l.
+Secretary, Charles Shortt Dicken, 800l.
+
+Consuls for Foreign Countries.
+Consul for Denmark, E. H. Webb.
+Netherlands, Hon. J. C. Heussler.
+Imperial German Empire, Hon. J. C. Heussler.
+Belgium, E. R. Drury, C.M.G.
+Sweden and Norway, Charles Warde.
+Hawaii, E. A. Smith.
+
+Consular Agent for United States of America, at Brisbane, George Harris; at Townsville, Wm. Villiers Brown.
+Italy, B. L. Barnett.
+France, Hon. E. B. Forrest.
+
+ST. HELENA.
+
+St. Helena, an island in the South Atlantic Ocean, 800 miles S.E. of Ascension, and 1,200 miles from the coast of South Africa, 15° 53' S. lat., and 5° 42' W. long. St. Helena is 104 miles long and 6½ broad; its area 47 square miles, or about 30,000 acres. The distance from Plymouth is 4,256 miles, and from Capetown 1,635 miles. The usual duration of the mail passage is, from Plymouth, 14 days, and from Capetown, 5 days.
+
+The capital is James Town, which is on the N.W. of the island. The climate is mild, and varies little, the thermometer ranging in summer between 68° and 72°, and in winter between 57° and 70°. The population is healthy and fairly well-to-do, but it is rapidly diminishing, because, owing to the dulness of trade, the younger people migrate to the Cape and elsewhere.
+
+St. Helena was discovered by the Portuguese Commander Juan de Nova Castella, on St. Helena's day, May 21st, 1501. The Portuguese contrived to keep secret the situation of the island from other European nations until 1588, when it was sighted by Captain Cavendish, on his return from a voyage round the world. St. Helena was uninhabited till the Dutch became possessors of it. Captain Munden, of the English Navy, in 1673, took it from the Dutch, and soon afterwards the East India Company obtained a charter for its possession from Charles II., and it remained under that Company, with the exception of the period of Napoleon's imprisonment there, till 1833, when it was finally handed over to the British Government.
+
+St. Helena is well watered by clear springs, which are abundant. It is situated in the heart of the South Atlantic trade wind, and in the direct track of vessels homeward bound from the East round the Cape of Good Hope. Previous to the opening of the overland route it was a port of call for a vast quantity of shipping and passengers returning from India and other parts of the East, and in consequence of its importance in connection with the Eastern trade, large establishments were maintained, both civil and military. For many years it was also a depot for liberated Africans landed from slavers captured by the West Coast squadron.
+
+Beyond the supply of the passing shipping it has never produced any article of export properly so called, and the entire trade therefore depended exclusively upon the sums of money brought into circulation from the several sources above named. These have been greatly diminished in recent years, in consequence of the opening of the Suez Canal.
+
+The number of ships calling at the port of James Town for supplies is steadily diminishing. In 1878, including steamers and ships of war, it was 669; in 1879, 602; in 1880, 564; in 1881, 525; in 1882, 497; in 1883, 521; and in 1884, 414.
+
+Tariff.
+
+The Customs Tariff is as follows:
+
+Table of Duties.
+
+| Tobacco, not manufactured, per lb. | s. d. |
+|----------------------------------|------|
+|                                  | 0    |
+| Tobacco, manufactured, cigars and snuff, per lb. | 1    |
+
+Excepting when cleared from bond as cargo and borne on ship's manifest.
+
+| Spirits, per gallon | 10   |
+| Beer in bottles, the dozen quart bottles | 1    |
+| Beer, all sorts, the hogshead | 19   |
+| Wine, per gallon | 2    |
+
+The Government is administered by a Governor, aided by an Executive Council.
+
+The Governor alone makes Ordinances, there being no Legislative Council.
+
+Revenue and Expenditure.
+
+| Year | Revenue | Expenditure |
+|------|---------|-------------|
+| 1875 | £13,285 | £14,039     |
+| 1876 | £13,167 | £13,329     |
+| 1877 | £12,781 | £13,006     |
+| 1878 | £14,197 | £18,414     |
+| 1879 | £14,154 | £12,486     |
+| 1880 | £11,950 | £11,869     |
+| 1881 | £12,425 | £12,800     |
+| 1882 | £11,500 | £11,212     |
+| 1883 | £10,266 | £11,145     |
+| 1884 | £10,421 | £10,806     |
+
+Debt.
+
+5,750l. (1886) Debentures.
+
+Population of each Sex (including Military) according to Census of 1881.
+
+| Males | Females | Total |
+|-------|---------|-------|
+| 2,617 | 2,442   | 5,059 |
+
+Value of Imports and Exports.
+
+| Year | Imports | Exports |
+|------|---------|---------|
+| 1875 | £62,145 | £4,664   |
+| 1876 | £49,504 | £7,864   |
+| 1877 | £70,025 | £2,228   |
+| 1878 | £60,604 | £12,653  |
+| 1879 | £64,585 | £5,127   |
+| 1880 | £54,272 | £3,485   |
+| 1881 | £53,169 | £2,675   |
+| 1882 | £34,209 | £1,543   |
+| 1883 | £55,845 | £14,255  |
+| 1884 | £41,816 | £21,970  |
+Governors
+
+Since the Transfer of the Island to the Crown.
+
+1836 Major-General George Middlemore, C.B.
+1842 Colonel Hamelin Trelawny.
+1846 Major-General Sir Patrick Ross, G.C.M.G., K.C.H.
+1851 Colonel Sir Thomas Gore Browne, K.C.M.G., C.B.
+1856 Sir E. H. Drummond Hay.
+1863 Admiral Sir Charles Elliot, K.C.B.
+1870 H. R. Janisch (acting).
+1870 Admiral Paty.
+1873 H. R. Janisch, C.M.G.
+1884 Lieut.-Colonel Grant Blunt, R.E. (Acting).
+
+Executive Council.
+
+Lieut.-Col. G. Blunt, R.E. Commanding the Troops.
+The Bishop of St. Helena. Acting Governor.
+George Moss.
+G. A. Banbury, Acting Colonial Secretary.
+
+Civil Establishment.
+
+Acting Governor, Lieut.-Col. Grant Blunt, R.E.
+Acting Colonial Secretary, Treasury Officer, and Postmaster, G. A. Banbury, 300l.
+Auditor, H. W. B. Bruno, 50l.
+Officers of Customs, Supervisor, Jas. Homagee, 100l.
+2nd Officer, R. Pritchard, 200l.
+3rd Officer, George Bruce, 120l.
+Colonial Engineer, Lieut.-Col. Grant Blunt, R.E.
+Colonial Surgeon, F. S. Watson, 200l., and 30l. for horse allowance.
+
+Judicial Establishment.
+
+Chief Justice (vacant), Governor acting.
+Crown Prosecutor, Clerk of the Peace, James Homagee, 250l.
+Judge of Summary Court and Police Magistrate, James Homagee (acting), 55l.
+Manager of Savings Bank, Jas. Homagee, 20l.
+Police Sergeant, William Harrison, 120l., and quarters.
+
+Ecclesiastical Department.
+
+Bishop, Right Rev. T. E. Welby, D.D.
+Chaplain to Hospitals and Gaols, J. C. Lambert, 25l.
+
+Consuls.
+
+George Moss, Consul for Italy, Spain, and Brazil, and Vice-Consul for Belgium, France, Netherlands, and Russia.
+Charles A. Carrol, Consul for Chili, Venezuela, Sweden and Norway.
+Saul Soloman, Consul for Netherlands, Germany, and Austria.
+H. J. Basell, Consul for Denmark and Portugal.
+R. P. Pooley, Consul for Peru, and Vice-Consul for Sweden and Norway.
+J. A. McKnight, Consul for United States of America, and T. G. Fowler, Vice-Consul.
+G. N. Moss, Vice-Consul for Spain.
+
+SOUTH AUSTRALIA.
+
+Geographical Position.
+
+That portion of the Continent of Australia bounded on the east by the 141st degree of east longitude, on the north by the 26th degree of south latitude, on the west by the 132nd degree of east longitude, and on the south by the Southern Ocean, was constituted a British Province by Act of Parliament, 4 and 5 William IV., c. 95, under the designation of SOUTH AUSTRALIA. The area contained within those limits is estimated to be 300,000 square miles. In 1861, the territory known as "No Man's Land," about 80,000 square miles, lying between the boundaries of South and Western Australia, was added by Act 24 and 25 Vic., c. 44, making the western boundary the 129th degree of east longitude.
+
+All the country north of the 26th parallel of south latitude, between the 129th and 138th degrees of east longitude, has also been annexed to South Australia, and is known as the Northern Territory. The present northern boundary is the Indian Ocean, latitude 11° S.; the southern boundary, the Southern Ocean, in latitude 38° S. The Province of South Australia covers twenty-seven degrees of latitude, and twelve degrees of longitude, forming, at present, the largest British Colony—the area extending over more than 900,000 square miles.
+
+The southern coast-line is deeply indented by two large gulfs—the eastern, St. Vincent's Gulf, running inland to the northward for 85 miles and the larger, Spencer's Gulf, running N.N.E. for 180 miles. These gulfs have a mean breadth of 30 and 50 miles respectively, and both taper towards their northern ends. St. Vincent's Gulf is sheltered by Kangaroo Island, 90 miles in length, which lies to the southward of it, leaving two fine entrances, one from the westward through Investigator's Straits 28 miles broad, and the other from the eastward through Backstairs Passage 8 miles in width.
+
+The principal agricultural and mineral districts of the Colony, are contiguous to the two gulfs, the shores of which are 780 miles in length, the greater part being entirely protected from the ocean swell. Numerous outports and shipping places, of which there are over 50, enable settlers to ship their produce at a very small cost. These gulfs are divided by Yorke's Peninsula, some 120 miles long, and 20 miles broad, having large tracts of wheat-growing land, and the principal seat of mining industry.
+
+Adelaide, the capital of the Province, is situated about five miles from the eastern shore of St. Vincent's Gulf, in latitude 34° 57' S. and longitude 136° 38' E., and Port Adelaide, the principal port, is about seven miles north-west from the city, and connected therewith by rail.
+
+General Government.
+
+The Constitution granted to South Australia by Her Majesty, by virtue of Imperial Act 13 and 14 Vic., c. 69, was proclaimed on the 24th October, 1856, on which day the Queen's assent to the Constitution Act No. 2 of 1855-6 was received in the Colony. Under that Statute the Parliament consists of two Houses—the Legislative Council and the House of Assembly; the former being composed of 18 members, and the latter, at that time, of 36. In 1873 the electoral districts of the House of Assembly were increased from 18 to 22, and the number of members from 36 to 46.
+By "Constitution Act Further Amendment Act, 1882," it was provided that the House of Assembly consist of 52 members, representing 26 electoral districts.
+
+The Legislative Council is elected by ballot, and consists of 24 members, who are returned under Act No. 236 of 1881, "An Act to further amend the Constitution Act." The Province is no longer a single constituency, but is divided into four electoral districts, viz.: No. 1, Central, No. 2, Southern, No. 3, North-Eastern, and No. 4, Northern. On April 14th, 1885, 1888, and 1891, the 8 members whose names stand first upon the roll retire, and their successors are appointed by each of the 4 districts electing 2 members. In 1894 and thereafter the first 2 members of each district will retire, and their places will be similarly supplied. Until all the old members who were elected under the former system have retired, extraordinary vacancies, such as by death, resignation, &c., are supplied by the districts in rotation, and subsequently by those districts whose members may have caused such vacancies. When more than one member is elected at the same time for any district, the name of the member who received the lesser number of votes is placed on the roll before the other or others; and in cases of equality of voting, the order of the roll is determined by lot.
+
+The quorum of the Council consists of nine members, including the President.
+
+The President is elected by the Council, and his election notified to the Governor by deputation of the Council.
+
+Whenever any Bill for any Act shall have been passed by the House of Assembly during any session of Parliament, and the same Bill, or a similar Bill with substantially the same objects and having the same title, shall have been passed by the House of Assembly during the next ensuing Parliament, a general election of the House of Assembly having taken place between such two Parliaments, the second and third readings of such Bill having been passed in the second instance by an absolute majority of the whole number of members of the said House of Assembly, and both such Bills shall have been rejected by or fail to become law in consequence of any amendments made therein by the Legislative Council, it shall be lawful for, but not obligatory upon, the Governor of the said province, by proclamation to be published in the Government Gazette, to dissolve the Legislative Council and House of Assembly, and thereupon all the members of both Houses of Parliament shall vacate their seats, and members shall be elected to supply the vacancies so created; or for the Governor to issue writs for the election of one or not more than two new members for each district of the Legislative Council. Provided always that no vacancy, whether by death, resignation, or any other cause, shall be filled up while the total number of members shall be 24 or more.
+
+In the event of the Council being dissolved, 6 members shall be elected for each of the said districts, and the names of such members shall be placed on the roll of members for the said districts in the order provided for in section 12 of the same Act, and thereafter the several periodical retirements of members shall date from the day of their election.
+
+The qualification for a member of the Legislative Council is that he shall have attained the age of 30 years, that he be a subject of the Queen, and that he has resided in the Province for three years. The qualification of a voter for this branch of the Legislature is that he shall be 21 years of age, a natural-born or naturalized subject of Her Majesty, and have been on the electoral roll for a period of six months. He must also be possessed of either a freehold of the value of £50, or of a leasehold of the annual value of £20, having three years to run, or with right of purchase, or be in occupation of a dwelling-house of the annual rent value of £5. The total number of voters for the Legislative Council is 30,712, or about 39 per cent. of the adult male population.
+
+The House of Assembly, which is liable to dissolution by the Governor, is elected for three years and of the 26 electoral districts into which the province is divided for the election of members to serve in the House of Assembly, each returns two members. The Constitution Act prescribes no other qualification as necessary for a member of the House of Assembly than that he shall be qualified and entitled to be registered as an elector. An elector's qualification to vote is that he shall be of full age, a natural born or naturalized subject of Her Majesty, and have been six months on the electoral roll. The total number of electors on the roll for the Assembly is 59,176, or about 76 per cent. of the adult male population.
+
+Responsible Government is carried on by six Ministers, members of the Legislature who form the Cabinet, and who are ex officio members of the Executive Council, namely, the Chief Secretary, Attorney-General, Treasurer, Commissioner of Crown Lands and Immigration, Commissioner of Public Works, and a sixth Minister who bears such title as the Governor may from time to time appoint.
+
+Population.
+
+The population of the Colony at the close of 1884 was estimated to be 312,781 persons; showing an increase during the twelve months of 8,266 persons.
+
+The inhabitants of the City of Adelaide number about 38,479 persons, and of the suburbs 37,500, while about 75 per cent. of the whole population are resident in the country districts and are employed directly or indirectly in the cultivation of the soil, or in the production of mineral and pastoral wealth.
+
+The South Australian born preponderate; the next largest class being persons of English birth, Ireland, Germany, and Scotland coming next. The proportion of males and females in the settled districts is about equal.
+
+About 85 per cent. of the whole population are members of Protestant Churches, and the remaining 15 per cent. are Roman Catholics. The Church of England is represented by 26 per cent.
+
+Omitting children under five years of age, 81 per cent. of the population can read and write, 9 per cent. can only read, and 8 per cent. can neither read nor write. Of the rising youth, say from 15 to 21 years of age, 94 per cent. can read and write, 3 per cent. can read only, and only 3 in every 100 are totally uneducated.
+
+The average birth-rate is 36·65 per 1,000 of the population. The number of marriages registered in 1884 was 2,555.
+
+The average death-rate in South Australia is 15·24 per 1,000, as compared with 22 per 1,000 in England.
+
+Immigration and Emigration.
+
+In 1884, 17,290 persons arrived in South Australia, and 16,082 left it, yielding an increase of the population from this source of 1,208 persons.
+Education.
+
+The Education Acts passed in 1875 and 1878 provide that the management of public education should be committed to a Minister of Education—a member of the Cabinet. The education is secular, but not to the exclusion of the Bible; free to those who cannot afford to pay a small fee; and compulsory wherever practicable. Provision is also made the establishment of model and for training schools, of Boards of Advice, and for the systematic examination of teachers, their classification according to their attainments and proficiency, and for scholarships.
+
+With a view of fostering and encouraging the growth of a comprehensive system of public instruction, liberal grants of money and land have been made. The expenses of the Education Department for payment of teachers, &c., were, during 1884, 102,143l. 2s. 7½d., towards which 25,263l. 12s. 8½d. was received from fees and the rents of dedicated lands, the net cost to the state thus being 76,879l. 9s. 11½d. exclusively of buildings. The total expenditure on school buildings up to the end of 1884 was 401,857l. 3s. 1½d. The lands dedicated to educational purposes amount to 281,237 acres, and provision is made for setting apart 20,000 acres in future years. To the University of Adelaide, established in 1874, an annual grant of five per cent. on all sums contributed to the University from private sources (at present amounting to over 50,000l.), and also an endowment of 50,000 acres of land, and five acres on North Terrace, on which the University is erected.
+
+For the maintenance of the South Australian Art Gallery, Museum, and Institute, also country institutes (including the erection of buildings) in 1884, the sum expended was 163,307l. 14s. 6½d.
+
+Public Worship.
+
+The voluntary principle, or freedom of religion from State assistance and consequent control, was established in South Australia from the date of its foundation. The number of churches and other buildings used for public worship is 1,079, providing 190,410 sittings.
+
+The number of Sunday Schools is 618, attended by 47,529 children, instructed by 5,921 teachers.
+
+Administration of Justice.
+
+The legal tribunals of the Province consist of a Supreme Court, presided over by the Chief Justice and two Puisne Judges; the Court of Vice-Admiralty, of which the Chief Justice is Judge; Circuit Courts at Naracoorte, Mount Gambier, Port Augusta, Gladstone, and Palmerston, Northern Territory, presided over by Judges of the Supreme Court; the Court of Insolvency, presided over by a Commissioner, who is a Stipendiary Magistrate; Local Courts of Civil Jurisdiction, presided over by Stipendiary Magistrates; and Police Magistrates' Courts.
+
+Local Courts of civil jurisdiction are established in all the principal towns throughout the Province, arranged in circuits, and presided over by Stipendiary Magistrates.
+
+The annual number of convictions in the Supreme Court has averaged during the last three years 200, or less than one in every 1,000 of the population.
+
+Land Transfer.
+
+The Statute known as the Real Property Act of South Australia affords a process by which the transfer of landed property may be accomplished in as easy and cheap a manner as any ordinary commercial transaction. Where almost every man is a landowner, or is interested in land—either as vendor or vendee, lessor or lessee, mortgagee or mortgagee—dealing in real estate become a matter of almost every day occurrence. It may be said to be quite exceptional for an individual in South Australia not to be, more or less, personally interested in the establishment of a simple and inexpensive method of dealing with this description of property. There can be no question that the operation of the measure has been highly advantageous to the community. The total value of the lands brought under the operation of this law to the end of 1884 amounts to 17,415,005l. sterling.
+
+Loans for Public Works.
+
+Legislative sanction has been accorded from time to time for the raising of money, by way of loan, for the prosecution of reproductive public works—such as railways, tramways, waterworks, telegraphs, harbour improvements, and other public purposes. The amount of the Public Debt outstanding on 31st December, 1884, was 15,473,800l., and the total rate of indebtedness per head of the population was 49l. 9s. 5½d. Against this liability, a sum of 4,180,156l. remains due to Government, for 3,528,686 acres of land sold under the credit system.
+
+The earlier loans were issued bearing 6 per cent. interest, but those of late years bear 4 per cent. only. The present price of South Australian Four per Cents. is about par. Interest and redemption are payable half-yearly in London, on 1st January, 1st April, 1st July, and 1st October in each year. The currency of the bonds is generally 30 years.
+
+Banking.
+
+Eleven banking institutions carry on business within the Province, all of which have establishments in the principal seaports and inland townsships—numbering altogether 146 branches and agencies. The total average liabilities of the eleven banks amount to (30th June, 1885), 6,063,590l., and the total average assets to 12,148,546l.
+
+The Savings Bank is managed by a Board of Trustees appointed by the Governor, and has 96 branches. The total number of depositors 30th June, 1885, is 53,164; the average sum at the credit of each being 27l. 11s. 1½d. The total deposits of the year amounted to 912,181l., and the total funds of the institution to 1,571,283l.—invested chiefly in Government securities and on mortgage of freehold property. In South Australia one in ten of the population is a depositor in savings banks.
+
+Land and Occupation.
+
+Excluding that portion of the Province known as the Northern Territory, the total area of South Australia is about 380,070 square miles, or 243,244,800 acres. It may be roughly estimated that not more than 250,000 square miles are at present put to profitable use. Agricultural settlement has not extended 150 miles from the coast; and pastoral occupation may be said to have reached no further than 500 miles—although squatters have lately taken up large areas of land discovered by recent explorations (lying chiefly on the route of the overland telegraph), and which are considered capable of carrying stock. Thirty-seven counties have been proclaimed up to 31st December, 1884, embracing 61,391 square miles, or 39,290,724 acres. Of this large area only 10,335,572 acres have been alienated from the Crown—amounting, nevertheless, to about 34 acres for every man, woman, and
+child in the Colony, or upwards of 127 acres for each male adult. About one in every five acres of the alienated land is under tillage; the remainder is used for pastoral purposes only. All land is surveyed by the Government prior to sale, and is divided into farms of extent varying from 80 to 1,000 acres—the necessary reserves being made public for railways, highways, watering stock, &c. This land is thrown open for selection in large quantities—from 50,000 to 100,000 acres being put up at one time. At present there is as much as 2,112,312 acres of land surveyed and open for immediate selection.
+
+**Agriculture.**
+
+About two-thirds of the total area of land cultivated is cropped with wheat, of which cereal 1,942,453 acres were reaped last year. The area of wheat grown has increased more than 100 per cent during the last 10 years.
+
+Vine culture is an important and progressive industry. There are 4,590 acres of land devoted to this purpose. The produce of these vineyards for the year ended December, 1884, was 473,555 gallons of wine—about 130 gallons per acre. The suitability of the soil and climate of South Australia to the growth of wine was soon discovered by the earlier settlers, some of whom had brought from Europe a variety of high-class vine cuttings. The slopes of the hills produce wines of a full-bodied character similar to those of Spain and Portugal, whilst those made in the more elevated districts resemble the lighter wines of the Rhine. Whilst the local demand is fully supplied at very cheap rates, a considerable export trade in wines of a higher character is carried on. The wines of South Australia have always been awarded prizes at the several Great International Exhibitions.
+
+Considerable attention has also been paid to the drying of raisins and currants. This branch of industry will probably soon develop into an export trade.
+
+Almond trees are of rapid growth, and large quantities of a superior description of soft-shell almond are gathered yearly for home consumption and for shipment.
+
+South Australia possesses all the conditions requisite for the successful and profitable culture of the olive. Olive oil of the most delicate character has been expressed, and gained awards at the various Exhibitions. Its purity and general superiority over the imported article of commerce has acquired for it a high position in the local market.
+
+**Pastoral Occupation.**
+
+In 1851 the total area of land leased from the Crown for pastoral purposes was 15,000 square miles. At the present time there are no less than 226,130 square miles in pastoral occupation. During the same period the number of horses has increased from 6,500 to 168,420; of horned cattle from 75,000 to 389,726; and of sheep from 1,000,000 to over 6,696,406, whilst the exports of wool have increased from 4,000 to 186,617 bales.
+
+**Manufactures.**
+
+A few years ago, flour mills and tanneries were almost the only representatives of local manufactures; whilst these have largely increased in number and efficiency, many important additions have been made to the list, viz., 85 steam flour mills with 1,951 horse-power, driving 267 pairs of stones; 20 tanneries and fellmongeries; several large wool-washing works; 7 soap and candle factories; 4 bone-dust mills; 36 steam saw-mills; 28 foundries; 58 agricultural implement works (chiefly for reaping and winnowing machines); 31 coach and waggon-builders' shops; 1 woollen tweed factory; 40 clothing factories; 2 hat factories; 22 boot and shoe factories; 4 dye works; 1 rope walk; 2 brush manufactories; 28 breweries; 17 sodawater and cordial factories; 10 wine-making establishments; 7 biscuit bakeries; 11 jam and preserves; 5 confectionery manufactories; 3 dried fruits and 2 olive oil factories, and 1 ice-work. In addition to 4 patent slips, there are 13 ship and 13 boat-building yards. Several marble and slate quarries of excellent quality, and over 100 building stone quarries have been opened, and recently an extensive quarry of marble has been opened at Kapunda.
+
+The gasworks of the Colony are eight in number, of which one is for the supply of the City of Adelaide and suburbs, one is at Port Adelaide, and the remaining six are in the principal country towns.
+
+**Import and Export Trade.**
+
+The combined import and export trade of 1884 amounted to 12,373,057l. sterling, of which 5,749,353l. were imports, and 6,623,704l. exports. Of the total imports, more than one-half, viz., 2,983,296l., came from the United Kingdom. Of the total exports, products representing 4,081,864l. were exported to the mother country.
+
+It appears that out of 5,292,222l. worth of staple produce exported, the value of breadstuffs amounted to 2,491,896l.; that wool represented 2,618,626l., and copper 491,950l.
+
+South Australian wheat and flour command the highest price in the markets of the world, and secured the highest awards at the Paris Exhibition. The great bulk of the crop is shipped to the United Kingdom.
+
+The total value of wool shipped in 1856 was 412,163l.; 1866, 990,163l.; and in 1884 it reached 2,618,626l. sterling.
+
+**Roads.**
+
+There are 4,127 miles of road defined in the settled districts. The greater portion of the cost of which has been defrayed from the General Revenue—no special toll or rate having been levied. The aggregate number of miles macadamised is 1,982. In addition to the main lines, perhaps as many more miles of district or by-roads have been constructed and kept in repair by local municipalities out of rates and grants in aid.
+
+**Lighthouses.**
+
+The coast of South Australia is well lighted, first-class lighthouses having been erected on Capes Borda and Willoughby, Kangaroo Island, on Althorpe and Troubridge Islands, and at the entrance to Port Adelaide, in St. Vincent's Gulf; on Tipara Shoal, in Spencer Gulf; and on Capes Jervis, Jaffa, and Northumberland. There are also other smaller lighthouses. The total cost of maintenance of lighthouses in 1884 was 10,911l., and the amount of light dues received 9,462l.
+
+**Railways.**
+
+The mileage of railways opened for traffic in the Colony is 1060, and the mileage of new lines in course of construction is 262. Up to December 31st, 1884, the total receipts from railways reached 5,454,721l., and the expenditure to 4,169,813l.
+showing a balance of £1,285,498l. The amount expended in the construction of railways to that date was £7,670,321l.
+
+Telegraphs.
+
+The geographical position of South Australia being practically that of the most western of the group, the first port of arrival and the last of departure for mail communication with Great Britain and the East, necessitated early and earnest attention being devoted to the extension of the South Australian telegraphs, so as to afford communication with Melbourne, Sydney, Brisbane, Port Darwin, and Perth. To accomplish this South Australia, at her own risk, erected a line of telegraph some 2,200 miles in length, at a cost of over £400,000l., across a continent which had only been traversed by an exploring party.
+
+At the close of the year 1884 there were 188 stations, and 5,291 miles of line open throughout the Colony, and there are several lines now in course of construction (49 miles).
+
+There is now through communication with all the sister Colonies—Victoria, New South Wales, Tasmania, Queensland, New Zealand, and Western Australia, and the whole of the British possessions at the antipodes are thus united with the mother country and the rest of the civilized world.
+
+Climate and Meteorology.
+
+The climate of South Australia is remarkable for its dryness, and owing to this cause, the heat, except on hot-wind days, is seldom oppressive. When a fierce hot wind is blowing, and the thermometer stands perhaps at something over 100°, the wet bulb thermometer will show 65°, and it is this peculiarity which enables persons to bear the heat of the South Australian summer, and carry on their usual pursuits with less inconvenience and discomfort than is felt in tropical and damp climates, when the temperature is 15° or 20° lower than in South Australia.
+
+The hottest months in the year are December, January, and February, when the temperature on the plains frequently exceeds 100° in the shade. November and March are also hot, but the nights, especially in the former month, are cooler, and the heat is seldom of long duration, rarely reaching 100° in the shade, and coming in suddenly with a strong hot wind, is followed quickly by a change to cool or even cold weather. A few hot days occasionally occur in October, but even in the hottest months, especially in December, the weather is often broken by cloudy, cold intervals, with strong south-west winds, veering gradually to south and south-east. This state of things will continue for several days, during which the wind from the south-east will usually freshen towards sunset, a bank of cloud forming over the Mount Lofty Ranges with cold nights, the temperature falling rapidly after sunset.
+
+After March, the temperature falls rapidly, very rarely reaching 90° in the shade in April (only six times in five years), the mean temperature for that month, deduced from ten years' observations, being 64·6, or 5·5 below that of the preceding month, whilst for May it is only 58·2. The coldest months are June, July, and August, the mean monthly temperature of which are 54·4, 51·5, and 53·7 respectively.
+
+The climate, with few exceptions, is all that Europeans could desire; it is a climate of blue skies, bright sunshine, and mild genial weather, varied by sufficient rainfall and moisture in most years, and marked by an almost entire absence of those fierce commotions which elsewhere bring distraction and dismay. Hurricanes may be said to be unknown, frosts are rare, earthquakes, which have been occasionally noted, are confined to a few slight tremors and rumblings.
+
+Tariff.
+
+The following is the customs tariff:
+
+| Customs Duties | s. d. |
+|---------------|------|
+| Acetic acid, cordials, not spirituous, syrups, per lb. or pint | 0 3 |
+| Ale, porter, spruce, or other beer, cider and perry, limejuice strained, and limejuice cordials, not spirituous, per gallon | 1 0 |
+| Animals living, viz.: Horses, mares, gelding colts and fillies over the age of six months, except in saddle or harness, each | 5 0 |
+| Animals living, viz.: Horned cattle, cows, oxen, heifers, bulls, steers, calves over six months old, except working bullocks in teams, each | 2 6 |
+| Animals living, viz.: Sheep, each | 0 3 |
+| Pigs, each | 2 0 |
+| Arrowroot, fish, dried, preserved, and salted (except in pickle or brine), milk (preserved) and compounds thereof, paraffin and mineral wax, pearl and patent barley, patent groats, sago, starch, tapioca, vegetables preserved, per lb. | 0 1 |
+| Bacon, candied fruits, cheese, chocolate, cocoa, manufactured, coffee, raw, confectionery, fruit, dried, except dates, currants, raisins, gunpowder, sporting, hams, honey, jams, jellies, mustard, nuts except coconuts, pork, in pickle, preserves, tea, per lb. | 0 3 |
+| Barley, per bushel | 0 9 |
+| Butter, cornflour, maize, peafour, and split peas, per lb. | 0 1 |
+| Biscuits, blue, candles, currants, raisins, dates, fish (paste), fruit (pulp), glue, macaroni and vermicelli, malt preserved, pepper, spices, starch, per lb. | 0 2 |
+| Cards, playing, per dozen packs | 6 0 |
+| Cement, per barrel | 2 0 |
+| Chicory, including kiln dried (except green root), per lb. | 0 6 |
+| Chicory, green root, per ton | 60 0 |
+| Coffee, roast or ground, per lb. | 0 4 |
+| Coffee, and substitutes therefor mixed with chicory or coffee, per lb. | 0 6 |
+| Cordage, viz., coir rope, per cwt. | 4 0 |
+| Hemp, being bolt rope, Europe rope, fishing lines (other than cotton or fancy), log lines, marline, manilla jute and flax, when tarred, rattlins, spun yarn, whale lines, and all other 'hempen' cordage (except galvanized and other iron and steel cordage), per cwt. | 8 0 |
+| Manilla jute and flax, except when tarred, and all other white lines, per cwt. | 8 0 |
+| Galvanized and iron, per cwt. | 3 0 |
+| Steel wire, not being fencing wire, per ton | 20 0 |
+| Doors and frames, except iron doors, each | 4 0 |
+| Fruit, bottled, oil, salad, pickles, sauces, per dozen quarts | 3 0 |
+| Fruit, bottled, oil, salad, pickles, sauces, per dozen pints | 1 6 |
+| Fruit, bottled, oil, salad, pickles, sauces, per dozen smaller | 1 0 |
+| Fruit, fresh, per bushel | 0 9 |
+| Galvanized iron — corrugated, unmanufactured, per ton | 30 0 |
+| Glucose, per cwt. | 6 0 |
+| Item                                                                 | Unit | Duty |
+|----------------------------------------------------------------------|------|------|
+| Hops, per lb                                                          |      | 6    |
+| Iron columns, girders, pipes, tubes, oatmeal, per ton                 |      | 40   |
+| Lead, pipe and sheet, shot, per cwt                                  |      | 2    |
+| Malt, per bushel                                                      |      | 2    |
+| Marble, slate, stone for building, unwrought, per cubic foot         |      | 6    |
+| Matches and vestas (except safety matches), for boxes containing 100 matches or under, per gross |      | 1    |
+| Ditto (ditto), for each additional 100 or part thereof, per gross    |      | 1    |
+| Nails, per owt                                                        |      | 2    |
+| Naphtha, per gallon                                                   |      | 6    |
+| Oats, per bushel                                                      |      | 8    |
+| Oils (except kerosene, per gallon, 8d, cod, seal, and whale, free), per gallon |      | 6    |
+| Onions, per cwt                                                       |      | 1    |
+| Opium, per lb                                                         |      | 20   |
+| Paints, mixed or dry, per cwt                                         |      | 2    |
+| Paper — Wrapping (brown and whitey brown), tissue and blotting, per cwt |      | 3    |
+| Paper bags, per cwt                                                   |      | 5    |
+| Plaster of Paris, per barrel                                          |      | 8    |
+| Potatoes, per cwt                                                     |      | 6    |
+| Rice and rice flour, sugar, treacle, and molasses, per cwt            |      | 8    |
+| Sarsaparilla (not containing more than 25 per cent. of proof spirit), per gallon |      | 4    |
+| Sashes, all kinds of, per pair                                        |      | 4    |
+| Salt, per ton                                                         |      | 25   |
+| Soap, except fancy soaps, per ton                                     |      | 30   |
+| Soda ash, soda crystals, per ton                                      |      | 20   |
+| Spirits (on all kinds), the strength of which can be ascertained by Sykes's Hydrometer, the proof gallon |      | 14   |
+| Spirits, perfumed, the proof gallon                                   |      | 20   |
+| Spirits and spirituous compounds (on all), the strength of which cannot be ascertained by Sykes's Hydrometer, the liquid gallon |      | 14   |
+| Spirits, methylated, the liquid gallon                                |      | 2    |
+| Timber, viz.: Battens, deals, planks, quartering, spars, per 40 cubic feet |      | 2    |
+| Boards, &c., rough or planed, tongued or grooved, per 100 sup. feet   |      | 1    |
+| Architraves, mouldings, skirtings, per 100 lin. feet                  |      | 1    |
+| Laths, per 1,000                                                       |      | 1    |
+| Shingles, per 1,000                                                    |      | 6    |
+| Pailings, per 100                                                      |      | 6    |
+| Tobacco, viz., manufactured, per lb                                   |      | 2    |
+| Cigars, per lb                                                        |      | 6    |
+| Sheepwash, per lb                                                     |      | 3    |
+| Snuff, per lb                                                         |      | 6    |
+| Unmanufactured, per lb                                                |      | 1    |
+| Turpentine and varnish, per gallon                                    |      | 6    |
+| Vinegar, per gallon                                                   |      | 9    |
+| Wine, if not containing more than 35 per cent. of proof spirit, per gallon |      | 6    |
+| Wine, sparkling, per gallon                                           |      | 10   |
+
+**Note.**—In all cases where duty is charged at per gallon, one dozen reputed quart bottles will be taken as two gallons, and one dozen reputed pint bottles as one gallon, provided that this regulation shall not come into force until after the 17th day of October, 1885.
+
+Air bricks, albums, apparel and slops, except mole clothing and imitations thereof; archery materials, basketware, bedsteads, beer-engines, bellows, except bellows with forges; bells, all kinds; blacking, including boot gloss, harness dressing, and black lead; bent wood and joinery, blocks and pulleys, except sheaves; boots and shoes, except women's and children's lasting and stuff; boot and slipper uppers, boot laces, bolts and nuts, over ½-inch diameter; boring rods, bread cutters, bricks, except Bath; bright wireware, Britannia metalware, British plate, brooms and brushware, buckets and tubs, all kinds of; bird cages, candle moulds, candlesticks, carpets and carpeting, carpet bags and portmanteaux, carriages, carts, wagons, and all vehicles, castings, not enumerated (except plough and scarifier shares); chaffcutters, chemicals, drugs and druggists' ware, unenumerated; china, stone, and earthenware, clocks, copying and embossing, presses, corn crushers, couplings for shaftings, crab winches, drapery, including laces, fringes, and embroideries; haberdashery, small wares, unenumerated; hosiery, gloves, hats, caps, and wool (Berlin and knitting), except cloths, tweeds estamenes, serges, and woollen piece goods; dumb bells, engines and parts, except gas engines and pressure gauges; fancy goods, fancy soaps and perfumery, feathers and flowers (artificial); felloes, fenders and fireirons, fireworks, floor and oil cloth, furniture, furs, gelatine, gilt mouldings, glass, glassware, grates, stoves, and ovens, and parts thereof (except camp-ovens); harness and saddlery, made up (except saddlers' housings, bindings, gilt mounting in sets, harness furniture plated in sets, and whip sockets); hay-presses, horsepowers and parts, instruments, musical; iron brackets, doors, gates, and galvanized iron manufactures; iron lasts and iron kibbles, japanned ware, lamps, lampware, and gasoliers, or parts thereof; leather, unenumerated; leggings, machines, washing and mangles; mandrels, blacksmiths' mantelpieces, marble, slate, stone, wrought; mats and matting, metal services, spoons and forks, except steel table forks; millbands, leather; millinery, Nevada and nickel silverware, oil, medicinal and perfumed; picture frames, plate and plated ware, except gilt mountings for saddlery, and harness furniture plated in sets; plummer blocks and brasses, refrigerators, sails, new; safes, iron; quilts, other than cotton, and rugs; sashweights, scrapers, silks, and manufactures thereof, containing 5 per cent. of silk (except mill and sewing); stationery, manufactured; labels, posting and handbills, and printed paper bags; shafting, cold-rolled or turned; tarpaulins and tents, tiles, tinware, tiring plates, tobacconists' ware, troughing, umbrellas and parasols, velvets, silk; watches, wheels, wickerware, woodware, wringers, weighbridges, over 20 cwt.; wool presses, whim bows, wine presses, whim mountings, 15 per cent. ad valorem; jewellery, 20 per cent. ad valorem.
+
+**Free List.**
+
+Acid, citric, muriatic, tartaric; American leather cloth; anchors of every description; animals living notenumerated; antifouling composition; antimony, in ingots; anvils, arsenic, artists' colours, canvas, and pallette knives, asphalt, atlases, backs, wooden, for brushes; bagging, Forfar and Hessiaus; bags, sacks, and woolpacks; ballast, not being stone, enamelled; bark, for tanning; bass, hair and bristles, and other material for brushmaking; black sand, blasting powder, dynamite, and lithofracteur; block and pulley sheaves, boneblack, bones, bone manure, bookbinding cloth; books, printed; boot elastic, boot hooks; bottles, ordinary and pickle bottles; indiarubber; brass, sheet and rolled; bricks, bath; brimstone, crude, and flour of sulphur; buckles, not plated; bulbs and seeds, garden; buming, in
+the piece; camera, photographic; camp ovens and covers, cane, canvas, canvas hose; capsules, bottle; cardboards, strawboards, and millboards, plain; carriage trimmings; casks and cases for dry goods; and packages in which goods are ordinarily imported, and empty returns; chain cables and traces, not galvanised; chalk, charts, coal, lignite, and coke, cocos nibs, coin, specie, and bullion, coir yarn, combined mower and binder, currycombs; copper and yellow metal sheathing, and nails for same; copper wire, thread-covered; copperas; corks, cut, and cork; cotton, raw, waste, and wick; cotton goods, in the piece (except velvets and velevetees, to be considered as unenumerated articles); cotton thread, sewing; cream of tartar, crucibles, demonstration chalk, detonators; diamonds, glaziers' and mining; door knobs, brass, glass, and china; dyestuffs, being aniline dyes, bichrome, dyewood, dyewood extracts, indigo, and spirits of salts; earth scoops, eggs; emery cloth, powder and paper; engineers' machine tools; engines, gas, portable, and traction; eyeglasses and spectacles, except gold and silver, and scientific instruments; eyeclets, eyelet punches, and webbing; fish, fresh; felt, sheathing and paper roofing; fibre, cocoa; fireclay; flannels, and Crimean and Union shirtings, in the piece; flax; flock, cotton and woollen; forks, hay and digging; fuse; ginger, green; glass stoppers, ordinary; glycerine, gold leaf, grains, viz., flour, gram, beans, peas, bran, pollard, wheat, maize, and grain unenumerated, except by sea; grindstones, guano and other manures, gum arabic, gutta percha; hair, seating and unmanufactured; hames, not plated and part plated; hardware, not enumerated; harness, minor articles and mountings, except plated; harvest tynes; hatters' materials; hemp and hemp packing; hides and skins, raw; holy-stones; hollowware; hooks, butchers', reaping, and shark; horseshoes; hose, indiarubber; imitation cane; indiarubber stamps, erasers, antirattlers, and buffers; ink and ink powders; iron, bar and rod, galvanised sheet plain, girder-plates unmanufactured, hoop, ore, pig, plates, rails for rail and tramways, scrap, sheet, tubing cased with brass, wire, wire galvanised, wire netting of all kinds, and wrought iron tubes and pipes, under 6in. diameter, iron and steel fencing and standards, except fancy fencing and standards, fringes, friezes, and balustrading; irons, hatters', Italian, smoothing, cloth manufacturers' and tailors'; ivory, jacks, lifting; jute, knife powder and sharpeners; knives, putty, shoemakers', hay and saddlers'; lead ore, pig and scrap; leather, patent, enamelled, kid, hogs skin, Levant, Morocco, roans, skivers, and imitations thereof; limejuice; linen goods, in the piece; linseed, lint, lithographic stones; machinery, except engines and shafting, for carding, spinning, weaving, and finishing manufactures of fibrous material, and cards for such machinery, machinery used in manufacture of paper and for felting, and roller machinery, and machinery connected therewith, not enumerated, for flour-milling purposes; and hydraulic presses, magnets, maps, measuring tapes, meat, fresh, except pork; metal picture cords, metal, lustre; millbands, except leather; mill silk, millstones, moleskin clothing, and imitations; mops, muntz metal, music, myrobalans, needles, packing, sail, and upholsterers'; nets, fishing; newspapers, printed; nuts, viz., cocoanuts; oakum and junk, oars, oil (cloth); oil, cod, whale, seal; oil of rhodium, oil baize, oil cake, oil of lemon, oil of peppermint, ores, osiers, paint boxes, toys; paintings and engravings for public institutions, paper; copying, felt, marble, red glazed, plaid, printing, and writing, except faint lined; paper fasteners, patent roller composition, pencils, carpenter's and slate; penelope canvas, phosphorus, picture cards, school; pitch, tar, and resin, plants and trees, potash, Canadian; precious stones, unset; printing presses and machines, punching machinery, putty, quicksilver, quinine, rabbit traps, raddle, rattans, razor straps, rice offal, royal cord, saddlers' ironmongery, not plated; sal ammoniac, salt, rock; saltpetre, scales, balances, and weights, scythes and handles, seeds, grass; sewing-machines and slabs, sewing twine and silk, shop and cord; shears, sheep ear labels, sheep dip, shoemakers' nails, sparrow-bill, wrought and cast tips, bright and black mal. hobs, wrought hobs, nuggets, Hungarians, cut sprigs, steel bills, and brass rivets, shoe pegs and pegwood, shovels and spades, sickles, sieves, slates, school; sock lining, soda, caustic, nitrate, silicate, carbonate, and bicarbonate, solder, specimens of natural history, spirit levels, steel, bar, rod, sheet, and fencing wire, and plough and scarifier shares, strychnine, sulphate of ammonia, sumach and valonia, surveyors' chains, sulphate of magnesia, sulphate of copper, tanks, iron, except galvanised; telephones, timber; balks, logs, posts, and rails, sleepers (railway), square over 4 inches thick, treenails and spokes in the rough, clear pine, staves in the rough, sawn hickory, tin; block, ingot, sheet, plates, and tin plates, decorated; tinfoil, tools and tool handles, transfers, tubing, metal, except iron; type, umbrella parts, vegetables, fresh; vegetable wax, veneers, wood; washers, raw hide; webbing, boot; whiting, wire of all kinds, except gold, silver, and plated, wire strainners, wooden hoops for casks, wooden rims for sieves, wool, washed and greasy, works of art for public institutions, yarn, angora, wool and cotton, zinc; sheet, ingot, and perforated.
+
+On all imported goods not included in the foregoing schedules, an ad valorem duty of 10 per cent.
+
+| Year | Population | Acres under Cultivation | Sheep | Ships Inward | Imports | Exports | Revenue | Expenditure |
+|------|------------|-------------------------|-------|-------------|--------|--------|---------|-------------|
+| 1875 | 210,442    | 1,444,586               | 6,179,395 | 316,823     | 4,203,802 | 4,805,051 | 1,143,312 | 1,176,412   |
+| 1876 | 225,677    | 1,514,916               | 6,133,291 | 346,812     | 4,576,183 | 4,816,170 | 1,320,204 | 1,323,337   |
+| 1877 | 237,090    | 1,828,115               | 6,098,359 | 340,701     | 4,625,511 | 4,626,531 | 1,441,401 | 1,443,658   |
+| coldest | 248,795    | 2,011,319               | 6,377,812 | 452,738     | 5,719,611 | 5,355,020 | 1,592,634 | 1,620,309   |
+| mean monthly | 2,271,058 | 6,140,396               | 467,729  | 5,014,149   | 4,762,727 | 1,662,497 | 1,847,255 |           |
+| and 58° respectively | 2,574,489 | 6,453,322               | 590,085  | 5,581,498   | 5,574,505 | 2,010,681 | 1,979,425 |           |
+
+The climate, wit Europeans could do skies, bright sunshine, varied by sufficient rain, and marked by an alm those fierce commotions which Debt, 31 December, 1884
+
+lands sold (free simple) 6,638,476 acres.
+List of Governors of South Australia.
+
+1. Capt. John Hindmarsh, R.N., K.H., 28th December, 1836, to 16th July, 1838 (George Milner Stephen acting ad interim).
+2. Lieut.-Col. George Gawler, K.H., 17th October, 1838, to 15th May, 1841.
+3. Captain, now Sir George Grey, K.C.B., from 15th May, 1841, to 25th October, 1845.
+4. Lieut.-Col. Fredk. Holt Robe, C.B., 25th October, 1845, to 2nd August, 1848.
+5. Sir Henry Edward Fox Young, C.B., 2nd August, 1848, to 20th December, 1854 (Boyle Travers Finniss acting ad interim).
+6. Sir Richard Graves MacDonnell, C.L., 8th June, 1855, to 4th March, 1862.
+7. Sir Dominick Daly, Kt., March 1862, deceased February 1868 (Lieut.-Col. Hamley, 50th Queen's Own, administering the Government).
+8. Right Hon. Sir James Fergusson, Bart., 16th February, 1869, to 18th April, 1873.
+9. Sir R. D. Hanson administered the Government from 7th December, 1872, to 8th June, 1873.
+10. Sir Anthony Musgrave, K.C.M.G., 9th June, 1873, to 28th January, 1877.
+11. The Hon. S. J. Way, Chief Justice, administered the Government from 29th January to 23rd March, 1877.
+12. Sir William Wellington Cairns, K.C.M.G., 24th March to 17th May, 1877.
+13. The Hon. S. J. Way, Chief Justice, administered the Government from 18th May to 1st October, 1877.
+14. Sir W. F. D. Jervois, R.E., G.C.M.G., C.B., 2nd October, 1877.
+15. The Hon. S. J. Way, Chief Justice, administered the Government from 14th February, 1878, to 13th Aug. 1878.
+16. Sir W. F. C. Robinson, 19th Feb., 1883.
+
+The Governor.
+
+Governor and Commander-in-Chief, Sir W. F. C. Robinson, K.C.M.G., 5,000l.
+
+Private Secretary, E. W. Howard, Hatton Richards (acting), 400l.
+
+Aide-de-Camp, Lieut. Williams (acting), 250l.
+
+Executive Council.
+
+President, His Excellency the Governor.
+The Hon. S. J. Way, Chief Justice.
+Chief Secretary, Hon. John Cox Bray, M.P.
+Attorney-General, Hon. John William Downer, M.P., Q.C.
+Treasurer, Hon. Simpson Newland, M.P.
+Commissioner of Crown Lands and Immigration, Hon. John H. Howe, M.P.
+Commissioner of Public Works, Hon. John Brodie Spence, M.I.C.
+Minister of Education, Hon. John Alexander Cockburn, M.P., M.D.
+Clerk of Council, E. W. Howard.
+
+The Parliament.
+
+Legislative Council—24 Members.
+
+President, Hon. Sir Henry Ayers, K.C.M.G., 600l.
+Clerk, Francis Corbet Singleton, 600l.
+Assistant Clerk and Serjeant-at-Arms, Fred. Halcomb, 420l.
+
+The Hons. The President, R. C. Baker, Henry E. Bright, W. C. Buik, Allan Campbell, G. W. Cotton, John Crozier, John Dunn W. D. Glyde, A. Hay, D. Murray, M. Salom, A. B. Murray, J. G. Ramsay, J. Pickering, J. Rankine, Henry Scott, J. B. Spence, R. A. Tarlton, W. K. Simms, Samuel Tomkinson, James Martin, William H. Wadham, W. A. E. West-Erskine.
+
+House of Assembly—52 Members.
+
+Speaker, Hon. R. D. Ross, 600l.
+
+Chairman of Committees, E. Ward, 400l.
+
+Constituencies. Members.
+
+Noarlunga . Mr. T. Atkinson.
+Victoria . Mr. J. Bagot.
+Yatala . Mr. J. H. Bagster.
+Barossa . Mr. M. P. F. Basedow.
+York's Peninsula . Mr. W. H. Beaglehole.
+Wallaroo . David Bewa.
+Port Adelaide . Mr. David Bower.
+East Adelaide . Hon. J. C. Bray.
+West Torrens . Mr. F. E. Bucknall.
+Newcastle . Mr. T. Burgoyne.
+York's Peninsula . Mr. R. Caldwell.
+Wooroora . Mr. J. W. Castine.
+Gladstone . Mr. Alfred Catt.
+Burra . Mr. J. Cockburn, M.D.
+Newcastle . Mr. P. B. Coglin.
+Light . Mr. J. Coles.
+Noarlunga . Hon. J. Colton.
+Frome . Mr. W. Copley.
+Stanley . John Darling.
+Encounter Bay . Mr. H. E. Downer.
+Barossa . Mr. J. W. Downer.
+Wooroora . Mr. J. J. Duncan.
+West Adelaide . Mr. A. A. Fox.
+Wallaroo . Mr. L. L. Furner.
+Yatala . Mr. Wm. Gilbert.
+Strutt . S. D. Glyde.
+East Adelaide . Mr. G. D. Green.
+Albert . A. D. Handyside.
+Albert . Mr. A. Hardy.
+West Torrens . Mr. A. Harvey.
+Stanley . Mr. E. W. Hawker.
+North Adelaide . Hon. G. C. Hawker.
+Gumeracha . Mr. R. Homburg.
+Gladstone . Mr. J. H. Howe.
+Onkaparinga . Mr. J. C. F. Johnson.
+West Adelaide . Mr. C. C. Kingston.
+Victoria . Mr. F. F. H. W. Krichauff.
+Mount Barker . Mr. A. H. Landseer.
+Port Adelaide . Mr. W. E. Mattinson.
+Light . Mr. D. Moody.
+Flinders . Mr. J. Moule.
+Encounter Bay . Mr. S. Newland.
+East Torrens . Hon. T. Playford.
+Onkaparinga . Mr. R. Rees.
+Gumeracha . Hon. R. D. Ross.
+Burra . Mr. W. B. Rounsevell.
+East Torrens . Mr. E. T. Smith.
+North Adelaide . Mr. E. C. Stirling, M.D.
+Mount Barker . Mr. J. L. Stirling.
+Sturt . Mr. J. H. Symon.
+Flinders . Mr. A. Tennant.
+Frome . Mr. E. Ward.
+
+Clerk, G. W de la Peir Beresford, 600l.
+
+Assistant Clerk and Serjeant-at-Arms, Edwin Gordon Blackmore, 425l.
+
+Clerk of Committees, D. J. D. Beresford, 220l.
+
+Offices connected with both Houses.
+
+Librarian, John C. Morpnett, 330l.
+
+Office Keeper and Caterer, John N. Hiner, 270l.
+JUDGES OF THE SUPREME COURT.
+
+Chief Justice and Judge of the Vice-Admiralty Court, Samuel James Way, 2,000l.
+Judges, James Penn Boucant, 1,700l.; W. H. Bunde, 1,700l.
+
+DEPARTMENTS UNDER DIRECTION OF THE CHIEF SECRETARY.
+
+Chief Secretary's Department.
+
+Chief Secretary, Hon. John Cox Bray, M.P., 1,000l.
+Under-Secretary, H. J. Andrews, 800l.; also Government Statist, 150l.
+Chief Clerk, T. W. Green, 310l.; Clerk, H. Blinman, 180l.
+Office Keeper, S. Benson, 200l.
+
+Statistical Department.
+
+Clerks, F. W. Hood, 250l.; George Oughton, 250l.
+
+Audit Department.
+
+Commissioners of Audit, Ebenezer Cooke and Alfred Heath, 1,000l. each.
+Chief Clerk and Accountant, P. Whitington, 450l.
+Clerks, Edgar Giles, 310l.
+W. C. Ford, 270l.
+G. G. Todd, 270l.
+R. Langman, 250l.
+J. W. Stow, 180l.
+T. W. Davidson, 240l.
+R. J. Champion, 240l.
+H. A. Gooden, 210l.
+W. J. Porter, 180l.
+M. G. Hipwell, 180l.
+H. Schroder, 170l.
+H. F. Andrews, 120l.
+
+Police Department.
+
+Commissioner of Police, W. J. Peterswald J.P., 700l.
+Chief Clerk, G. L. Reed, 395l.
+Clerks, F. Drought, 240l.; P. A. MacMahon, 180l.
+Inspectors of Police, Benjamin Hunt, T. W. Bee, and R. Saunders, 380l.; D. Sullivan, 270l.; L. Woodcock, 270l.; B. C. Besley, 270l.
+Sub-Inspectors, J. Shaw, William Rollison, 270l.; John Field, 240l.
+
+Sheriff's Department.
+
+Sheriff and Returning Officer of the Province, W. R. Boothby, J.P., 750l.
+Clerk, O. H. Schomburgk, 270l.
+Keeper of Gaol, J. Howell, 425l.
+
+Labour Prison.
+
+Comptroller, W. R. Boothby, J.P. (Sheriff).
+Superintendent, E. B. Scott, J.P., 425l.
+Deputy Superintendent, R. H. Edmunds, 330l.
+Medical Officer, C. E. Thompson, 275l.
+Chief Guard, T. Taylor, 270l.
+
+Registrar-General of Births, Deaths, and Marriages.
+
+Registrar-General, J. F. Cleland, 500l.
+Deputy ditto, J. A. Plunkett, 310l.
+Clerk, A. J. Korff, 220l.
+,, W. H. Fisher, 100l.
+
+Medical Department.
+
+Colonial Surgeon, A. S. Paterson, M.D. (Lunatic Asylums).
+Assistant Colonial Surgeon, Adelaide, W. L. Cleland, M.B. (Lunatic Asylums).
+Assistant Colonial Surgeon, Mount Gambier, A. W. Powell (Hospitals).
+Health Officer, Port Adelaide, J. T. Toll.
+
+Medical Officers—
+
+Glenelg, H. Ferguson.
+Kadina, W. N. Robinson.
+Kooriinga, R. Brummit.
+Moonla, T. James.
+Port Victor, M. P. O'Leary.
+Port Lincoln, S. P. Atkins.
+Port Augusta, William Markham, and R. W. Pendleton.
+Wallaroo, John Gosse.
+Clare, O. W. Smith.
+Glaetstone, C. W. Hamilton.
+Robe, E. C. Haden.
+Port Pirie, R. W. Stewart.
+
+Hospital Branch.
+
+Senior House Surgeon, B. Poulton, 500l.
+Junior ditto, H. S. Lloyd, 200l.
+Steward, E. H. Hallack, 320l.
+
+Vaccination Department.
+
+Vaccination Officer, H. L. Whittell, M.D.
+Clerk, E. Holthouse, 210l.
+
+Central Board of Health.
+
+President, and Vaccination Officer, H. L. Whittell, M.D., 600l.
+Secretary, G. H. Ayliffe, 320l.
+Inspector, T. Farrell, 240l.
+
+Lunatic Asylums.
+
+Resident Medical Officer, Adelaide and Colonial Surgeon, A. S. Paterson, M.D., 950l.
+Resident Medical Officer, Parkside, and Assistant Colonial Surgeon, W. L. Cleland, 450l.
+Clerk, J. J. Hannah, 210l.
+
+Destitute Poor Asylum.
+
+Chairman of Board, T. S. Reed, 450l.
+Superintendent, A. Lindsay, 380l.
+Visiting Officers, W. T. Elliott, 210l.; T. H. Atkinson, 210l.
+Clerks, J. T. Foale, 210l.; J. B. Whiting, 210l.; E. J. Tregonza, 160l.
+
+Printing Department.
+
+Government Printer, E. Spiller, 550l.
+Overseer, H. F. Leader, 330l.
+Clerk and Cashier, H. Brooke, 210l.
+
+Volunteer Military Force.
+
+Colonel Commandant, Brigadier-General John Owen, R.A., 1,000l.
+Deputy Assistant Adjutant-General (vacant).
+
+DEPARTMENTS UNDER DIRECTION OF THE ATTORNEY-GENERAL.
+
+Law Officers' Department.
+
+Attorney-General, Hon. John William Downer, Q.C., M.P., 1,000l.
+Crown Solicitor, Hon. Chas. Mann, Q.C., 800l.
+Secretary, G. E. De Mole, J.P., 600l., also Commissioner of Patents and Registrar of Copyright.
+Clerks, C. C. Cornish, 435l.
+G. G. Martin, 250l.
+J. R. G. Fleming, 120l.
+
+Supreme Court Department.
+Master of Supreme Court, W. D. Scott, 850l.
+Registrar of Probates, A. Stow, 450l.
+Judges' Associate, C. Sharp, B.A., 308l.
+Second Associate to Judges, G. H. Castle, 250l.
+Third Associate, H. B. Taylor, 190l
+Clerks, F. W. Sims, 190l.
+C. C. Northmore, 140l.
+W. L. Boothby, 110l.
+Clerk to Court of Appeals, C. F. Fenn.
+
+Magistrates and Local Courts.
+Adelaide, Stipendiary Magistrate, also Commissioner of Insolvency, J. M. Stuart, 1,000l.
+Police Magistrate, S. Beddome, 750l.
+Clerk of Local Court, William Johnstone, 395l.
+Clerk of Police Court, J. B. Fenn, 310l.
+Clerks, G. P. Hitchin, 330l.
+W. H. Denyer, 270l.
+W. J. Hinde, 200l.
+H. W. Dunsterville, 200l.
+Clerk to Bench of Magistrates, J. B. Fenn.
+
+Auguston, Gawler, Mallala, Salisbury, Tanunda, Truro, and Two Wells, Stipendiary Magistrate, John Budall, 500l.
+Clerks, S. von Bertouch, 210l.
+F. Buttfield, 150l.
+T. C. Fowler, 210l.
+
+Auburn, Clare, Redruth, Kapunda, Morgan, Eudunda, Riverton, Stipendiary Magistrate, John Varley, 500l.
+Clerks, T. F. Reynolds, 210l.
+W. O'Hara, 210l.
+A. H. Forder, 210l.
+J. J. Rhead, 110l.
+A. Kennett, 150l.
+A. W. Grant, 110l.
+
+Birman and Bellana, Stipendiary Magistrate, H. C. Swan, 300l.
+Clerks, G. H. Heaney, 170l.
+
+Bowra, Morphett Vale, Clarendon, Port Elliot, Willunga, and Yankalilla, Stipendiary Magistrate, T. J. S. O'Halloran, 500l.
+Clerks, H. C. Scarfe, 150l.
+F. T. Dendy, 150l.
+
+Gumeracha, Mannum, Mount Barker, Mount Pleasant Tea-tree Gully, Strathalbyn, Wellington, and Woodside, Stipendiary Magistrate, W. G. McCullagh, 500l.
+Clerks, O. Skipper, 240l.
+D. Moffat, 150l.
+C. L. Mathews, 190l.
+
+Kadina, Moonta, Port Wakefield, Port Wallaroo, Swetown, and Balaklava, Stipendiary Magistrate, J. B. Shepherdson, 500l.
+Clerks, N. D. Bennett, 210l.
+L. Sharples, 150l.
+J. W. McKechnie, 150l.
+J. T. Keats, 210l.
+
+Port Pirie, George Town, James Town, Laura, Red Hill, Yarcoorie, and Orroroo, Stipendiary Magistrate, A. J. Edmunds, 450l.
+Clerks, W. Randall, 210l.
+G. T. Bastard, 210l.
+F. J. Lewis, 110l.
+E. J. Eyre, 210l.
+B. Pullen, 150l.
+
+Kingston, Border Town, Naracoorte, and Robe Town, Stipendiary Magistrate, Jefferson P. How, 450l.
+Clerks, W. J. Dodge, 20l.
+J. Law, 150l.
+Swithin Farmer, 210l.
+John Green, 150l.
+
+Mount Gambier, Penola, Port MacDonnell, and Millicent, Stipendiary Magistrate, G. B. Scott, 500l.
+Clerks, John Jacob, 210l.
+S. J. Stuckey, 150l.
+W. T. Jones, 40l.
+W. Attiwell, 25l.
+
+Mount Remarkable, Port Augusta, Wilmington, Hackera, and Quorn, Stipendiary Magistrate, Geo. Donaldson 450l.
+Clerks, A. F. Andrews, 210l.
+W. J. Trembath, 150l.
+H. W. Masterman, 150l.
+J. H. Williams, 150l.
+A. Wilson, 150l.
+
+Port Adelaide, Stipendiary Magistrate, R. J. Turner, 600l.
+Clerks, F. R. Burton, 310l.
+G. Fotheringham, 150l.
+W. E. G. Schackle, 150l.
+
+Port Lincoln, Stipendiary Magistrate, J. S. Browne, 450l.
+Clerk, W. O. Bennett, 150l.
+
+Edithburgh, Yorketown, Mailand, and Minlaton, Stipendiary Magistrate, E. Gower, 500l.
+Clerks, F. W. Allen, 150l.
+S. E. Curnow, 150l.
+J. F. Seymour, 150l.
+B. N. Conigrave, 150l.
+
+Streaky Bay, Stipendiary Magistrate, E. Keynes, 270l.
+
+Insolvency Court.
+Commissioner of Insolvency, J. M. Stuart, S.M., Adelaide.
+Official Receiver, J. Cherry, 550l.
+Accountant, also Public Trustee, Hon. Lavington Glyde, 500l.
+Registrar, R. Blunt, 450l.
+Clerks, F. Nottage, 250l.
+J. Leask, 190l.
+J. Espio, 130l.
+R. B. Blunt, 120l.
+
+Coroner.
+City Coroner, T. Ward, 424l.
+
+Registrar-General's Department.
+Lands Titles Branch:
+Registrar-General, W. B. T. Andrews, 800l.
+Solicitor, F. F. Turner, 800l.
+Deputy Registrar-General, W. B. Carter, 600l.
+2nd Deputy Registrar-General, E. J. Heath, 450l.
+Secretary, and 3rd Deputy Registrar-General, J. M. Thomas, 425l.
+4th Deputy Registrar-General, A. S. Fotheringham, 300l.
+Draughtsman, H. P. Denton, 500l.
+Clerks, &c., E. N. Newbury, 380l.
+M. Giles, 418l.
+E. S. Berry, 352l.
+J. H. Fitzgerald, 270l.
+J. H. White, 270l.
+S. Rigaud, 240l.
+R. C. Earl, 230l.
+J. P. Short, 190l.
+K. Macaulay, 190l.
+G. W. Anthony, 190l.
+S. P. Hall, 180l.
+T. G. Blackwell, 180l.
+M. H. Salter, 170l.
+F. O Banbury, 120l.
+J. Fotheringham, 110l.
+J. Hitchcox, 150l.
+H. Suttiq, 150l.
+W. A. Ewens, 160l.
+J. Dittmer, 100l.
+J. King, 100l.
+
+Departments under Direction of the Treasurer.
+
+Treasury Department.
+
+Treasurer, Hon. Simpson Newland, M.P., 1,000l.
+Under-Treasurer, L. H. Sholl, 600l.
+Cushier, C. R. Todd, 380l.
+Receiver of Revenue, W. Lindsay, 240l.
+Accountant, T. Gill, 380l.
+Clerks, W. Aldwell, 210l.
+H. F. Peacock, 220l.
+W. H. Selway, jun., 180l.
+P. J. Condon, 180l.
+G. Wilkinson, 120l.
+H. H. Howell, 110l.
+W. Richardson, 120l.
+F. C. Kelly, 120l.
+
+Land and Income Tax Department.
+
+Commissioner, J. G. Russell, 1,200l.
+Deputy-Commissioner, L. S. Spiller, 450l.
+Assessor, H. D. Gouge, 350l.
+Receiver and Accountant, R. W. Smith, 290l.
+Income Tax Assessment Clerk, G. W. Silligant, 160l.
+Corresponding Clerk, A. M. Berry, 150l.
+Clerk, A. H. Nortnagel, 120l.
+
+Probate and Succession Duties.
+
+Commissioner, J. G. Russell, 100l.
+Clerk, R. James, 210l.
+
+Customs Department.
+
+Collector of Customs and Chief Inspector of Distilleries, F. J. Sanderson, 800l.
+Chief Clerk, Charles Parry, 425l.
+Comptroller of Customs Accounts, W. H. Cammell, 450l.
+Inspectors of Distilleries, E. P. Clarke, 395l.
+H. D. Haggard, 200l.
+E. Main, 200l.
+Inspectors of Drawback, W. B. Squires, 230l.
+W. Cate, jun., 230l.
+
+Clerks, L. R. Hogg, 310l.
+A. Searcy, 250l.
+E. J. M. Newman, 180l.
+J. Beaumont, 170l.
+C. G. Bayly, 170l.
+F. R. Frost, 170l.
+A. A. Sims, 130l.
+H. B. Thurgarland, 120l.
+C. Woolnough, 120l.
+J. Robertson, 120l.
+W. P. Stokes, 100l.
+J. C. Trewick, 110l.
+W. H. Garreau, 110l.
+
+Warehouse-keeper, F. A. Howell, 830l.
+Gaugers, M. J. Conlon, 240l.
+C. Stephens, 210l.
+E. Burns, 180l.
+H. Pople, 160l.
+
+Lockers, T. Frewin, 150l.
+W. Lindstrom, 150l.
+G. A. Payne, 150l.
+H. J. Dunn, 150l.
+J. C. Grutzmacher, 150l.
+F. G. Williams, 130l.
+A. H. Skinner, 130l.
+H. B. Nathan, 120l.
+
+Lockers, H. Dawson, 120l.
+F. Searcy, 120l.
+R. W. Skevington, 120l.
+W. Quin, 110l.
+E. Magraith, 110l.
+W. H. C. Buckby, 110l.
+W. B. Stevens, 110l.
+B. Germein, Junr., 100l.
+
+Out-door Officers:—
+
+Landing-Surveyor and Deputy Collector, J. C. Ferguson, 600l.
+Assistant Landing Surveyor, B. Magraith, 395l.
+
+Landing Waiters:—
+
+W. H. F. Bayly, 270l.
+A. C. Threlfall, 210l.
+T. S. Gillman, 203l.
+S. T. Everett, 180l.
+F. L. Le Leu, 170l.
+D. F. Nelson, 170l.
+E. W. Bartleet, 170l.
+T. R. Bradwell, 180l.
+
+Assistant Landing Waiters:—
+
+J. Traynor, 150l.
+J. Bohlmann, 130l.
+S. A. Lighton, 120l.
+W. Wadlow, 120l.
+J. Mears, 120l.
+A. Stidston, 110l.
+W. R. Johnston, 110l.
+A. Hallett, 110l.
+F. Letchford, 110l.
+J. Russell, 110l.
+
+Boarding Officers:—
+
+T. Gilbertson, 120l.
+G. Vivian, 110l.
+W. B. Alton, 150l.
+
+Tide-Surveyor and Measurer of Ships, S. Harvey, 270l.
+Assistant Tide-Surveyor, W. P. Stokes, 110l.
+
+Sub-Collectors:—
+
+Adelaide, F. W. Ringwood, 395l.
+Port Robe, G. J. Paris.
+Edithburgh, F. W. Allen.
+Glenelg, A. C. Webbing.
+Goolwa and Port Victor, T. Taylor.
+Morgan, W. Little.
+Yankalilla, F. Gaskell.
+Noarlunga, C. Furler.
+Willunga, C. Furler.
+Moonta, Y. W. Hodges.
+Port Wakefield, J. W. McKechnie.
+Port Augusta, F. Clarke.
+Port Lincoln, W. O. Bennett.
+Port MacDonnell, W. T. Jones.
+Port Pirie, R. B. Williams.
+Port Broughton, G. A. White.
+Wallaroo, S. Hellon.
+Port Caroline, G. H. Styles.
+Port Darwin, Alfred Searcy.
+Port Germein, W. Gammell.
+Port Muthoo, R. N. S. Baker.
+Port Turton, C. S. Keightby.
+Beachport, T. Brimage.
+Milang, J. Ottaway.
+Port Victoria, A. McArthur.
+
+Marine Board.
+President and Harbourmaster, R. H. Ferguson, J.P., 700l.
+Secretary, T. N. Stephens, 450l.
+Chief Clerk, &c., J. Darby, 300l.
+Engineer and Draughtsman, W. E. Slade, 484l.
+Clerks, A. E. Wilby, 240l.
+R. Smith, 180l.
+T. A. D. Osborne, 180l.
+A. H. Nootnagel, 120l.
+A. Langman, 250l.
+H. C. R. Batchelor, 110l.
+Sept. Mercantile Marine, R. L. Magraith, 450l.
+Examiner of Masters and Mates, Shipwright Surveyor, &c., and Acting Harbour Master, A. Inglis, 363l.
+Engineer, Surveyor, and Examiner of Engineers, J. Campbell, 363l.
+
+Harbour Branch.
+Harbour-Masters:—
+Glenelg, A. C. Webling.
+Port Robe, G. J. Paris.
+Wallaroo, S. Hellon.
+Port MacDonnell, J. Morgan.
+Port Lincoln, W. O. Bennett.
+Port Victor and Goolwa, T. Taylor.
+Port Augusta, J. Melville.
+Port Pirie, R. B. Williams.
+Port Wakefield, J. W. McKechnie.
+Willunga, C. Furler.
+Yankalilla, F. Gaskell.
+Port Caroline, G. H. Styles.
+Rivoli Bay, T. Brimage.
+Noarlunga, C. Furler.
+Edithburgh, F. W. Allen.
+Moonta Bay, Y. W. Hodges.
+Port Germein, W. Gammell.
+Port Broughton, G. A. White.
+Port Victoria, A. McArthur.
+
+Departments under the direction of the Commissioner of Crown Lands and Immigration.
+
+Commissioner of Crown Lands Department.
+Commissioner, Hon. J. H. Howe, M.P., 1,000l.
+Secretary, G. S. Wright, J.P., 600l.
+Chief Clerk, T. Duffield, 363l.
+Clerk, H. W. Beach, 140l.
+
+Survey Department.
+Surveyor-General and Inspector of Mines, G. W. Goyder, J.P., 1,250l.
+Chief Clerk, F. R. C. Frost, 310l.
+Clerk and Storekeeper, L. C. E. Gee, 341l.
+Receiver of Revenue, W. E. Peterswald, 300l.
+Expenditure Clerk, Jno. F. McNamara, 160l.
+Chief Draughtsman, W. Strawbridge, 500l.
+Chief Surveyor, W. H. Cornish, 418l.
+Surveyors, N. W. Pethick, 330l.
+W. G. Evans, 363l.
+E. B. Jones, 341l.
+E. W. Krichauff, 264l.
+H. Jacob, 281l.
+S. W. Herbert, 297l.
+A. B. Scandrett, 187l.
+D. M. McLaren, 143l.
+Chief Clerk, Land Office, M. Doswell, 395l.
+
+Clerks, W. S. Crabb, 310l.
+A. Ward, 250l.
+H. S. Winton, 220l.
+W. Laycock, 110l.
+G. Milton, 160l.
+
+Photo-Lithographer, F. S. Crawford, 468l.
+Assistant Ditto, A. Vaughan, 297l.
+Photolithographic Printer, W. Newport, 210l.
+Draughtsmen, E. P. Laurie, 434l.
+C. H. Harris, 341l.
+T. D. Porter, 341l.
+H. C. Talbot, 300l.
+E. A. Noltenius, 275l.
+W. J. Cromble, 230l.
+P. S. Messent, 209l.
+W. E. Cheesman, 264l.
+W. H. Wadham, 143l.
+G. J. Murray, 121l.
+
+Steward &c., Education Lands, E. M. Smith, 435l.
+Inspecting Ranger and Warden of Goldfields, B. Hack, 300l.
+Rangers, S. Watts, 210l.
+A. Cole, 210l.
+Inspector of Leases, G. F. Hallett, 230l.
+
+Credit Lands Department.
+Inspector General, G. S. Wright, 700l.
+Chief Clerk, T. F. Wicksteed, 365l.
+Sub-Inspectors, R. P. Boucaut, 330l.
+G. W. D. Tolmer, 260l.
+J. J. Fitzgerald, 210l.
+A. J. Todd, 200l.
+
+Clerks, Alex. Wilson, 150l.
+A. Tod, 220l.
+A. Duffield, 156l.
+W. W. Berry, 156l.
+J. R. Chappell, 130l.
+
+Aborigines' Department.
+Protector of Aborigines, Commissioner Crown Lands, ex officio.
+Sub-Protector, Adelaide, E. L. Hamilton, 210l.
+Sub-Protector, Far North, B. C. Besley, 104l.
+
+Botanical Garden.
+Director and Secretary to Board, Dr. Schomburgk, 600l.
+
+Cemetery Department.
+Superintendent, H. E. Brookes, 830l.
+
+Gold-fields.
+Warden, Bedford Hack (Inspecting Crown Lands Ranger).
+
+Sheep Inspector's Department.
+Chief Inspector, C. J. Valentine, 500l.
+Sub-Inspectors, T. A. Wells, 330l.
+A. McLeod, 270l.
+
+Agriculture.
+Professor of Agriculture, J. D. Custance, 800l.
+
+Woods and Forests.
+Clerk, H. D. Melville, 260l.
+Conservator, J. E. Brown, 450l.
+Foresters, G. S. Perrin, 160l.
+F. Melville, 144l.
+
+Geological Department.
+Government Geologist, H. Y. L. Brown, 800l.
+Assistant ditto, H. P. Woodward, 400l.
+Water Conservation Department.
+
+Conservator of Water, J. W. Jones, 600l.
+Chief Clerk and Accountant, L. Dyke, 250l.
+
+Departments under Direction of the Commissioner of Public Works.
+
+Office of Commissioner of Public Works Department.
+Commissioner of Public Works, Hon. John Brodie Spence, M.L.C., 1,000l.
+Secretary, John Mann, J.P., 600l.
+Clerks, Philip Calf, 330l.
+A. G. Scrymgour, 120l.
+Office Keeper, W. Evans, 180l.
+
+Engineer-in-Chief's Department.
+Engineer-in-Chief, and Engineer of Harbours and Jetties, H. C. Mais, J.P., 1,150l.
+Chief Assistant Engineer, R. C. Patterson, 900l.
+Assistant Engineers, J. Rogers, 700l.
+W. D. Lovell, 850l.
+Professional Clerk, M. J. Mullins, 380l.
+Accountant, J. Gardiner, 425l.
+Clerks, F. Olifent, 330l.
+P. B. Evan, 210l.
+Draughtsmen, W. Wright, 460l.
+W. Stephens, 360l.
+
+Architect's Department.
+Architect in Chief, E. J. Woods, 900l.
+Draughtsman, W. H. Graham, 360l.
+Professional Clerk, C. E. O. Smyth, 500l.
+Accountant, W. G. Randall, 330l.
+Junior Draughtsman, F. C. Krichauff, 145l.
+
+Waterworks Department—Engineering Division.
+Hydraulic Engineer, R. L. Mestayer, 900l.
+Chief Draughtsman, C. W. Smith, 400l.
+Clerk and Accountant, J. G. Ashton, 395l.
+Cashier, J. Bee, 310l.
+Clerks, S. Randall, 270l.
+Reservoir Keeper, C. Sanders, 210l.
+
+Waterworks Department—Rates Division.
+Valuator, W. T. Cooper, 330l.
+Collectors, G. F. Day, 270l.
+H. J. Elvage, 210l.
+J. M. Holder, 210l.
+T. J. Brooks, 210l.
+W. J. Carter, 160l.
+Receiver, G. N. Ashwin, 230l.
+
+Railway Department—Traffic Division.
+General Traffic Manager, A. G. Pendleton, 1,000l.
+Comptroller of Accounts, J. Pickering, 450l.
+Travelling Inspector, J. B. McNeil, 310l.
+Paymaster and Expenditure Clerk, J. Bonnett, 280l.
+Traffic Auditor C. J. Holder, 330l.
+Receiver of Revenue, M. Doherty, 330l.
+Chief Clerk, W. Frampton, 330l.
+Goods Outstanding Clerk, B. B. Carvosso, 270l.
+Clerks, J. F. De Cean, 260l.
+D. H. Simpson, 260l.
+J. H. Dunstan, 250l.
+G. H. Pierce, 210l.
+W. Goldsworthy, 180l.
+J. A. Parkhouse, 210l.
+R. Keene, 200l.
+C. G. Carruthers, 200l.
+S. Richards, 100l.
+L. E. Strangways, 130l.
+J. J. Bodley, 180l.
+H. J. Milne, 120l.
+E. C. Clucas, 180l.
+Station Inspector, H. Davis, 180l.
+Stationmasters, W. C. Rowell, 330l.
+J. Rumball, 270l.
+W. S. Bennett, 270l.
+G. Baker, 210l.
+J. O. Sullivan, 210l.
+Stationmasters, J. West, 210l.
+F. Calf, jun., 210l.
+B. G. Pearce, 210l.
+R. J. Rumball, 210l.
+W. G. C. Cole, 210l.
+J. A. Carroll, 210l.
+R. Wells, 210l.
+W. Clark, 210l.
+G. Gitsham, 210l.
+J. McGuire, 210l.
+A. J. Clayer, 210l.
+T. E. Adams, 150l.
+C. R. Sulzmann, 100l. from Railway and 50l. from Telegraph.
+C. W. Richards, 150l.
+G. Luscombe, 150l.
+J. Snadden, 150l.
+W. Lyford, 210l.
+W. McMurray, 190l.
+B. J. Hack, 150l.
+W. D. Robb, 210l.
+D. J. Hutton, 190l.
+G. J. Smith, 140l.
+J. Henderson, 180l.
+P. B. O'Malley, 200l.
+E. Dabinett, 210l.
+J. Mills, 190l.
+T. Wood, 210l.
+C. R. Franklin, 150l.
+M. Rosenberg, 130l.
+J. P. Mackay, 150l.
+J. T. Short, 150l.
+J. W. Birrell, 190l.
+J. F. Beesley, 190l.
+E. T. Annells, 190l.
+F. W. Litchfield, 180l.
+R. McLeish, 150l.
+W. Glenn, 190l.
+W. H. J. Horan, 180l.
+W. J. Power, 190l.
+A. G. Ashton, 150l.
+R. Simpson, 150l.
+J. T. Eley, 150l.
+C. G. F. Richards, 150l.
+F. T. C. Smith, 150l.
+W. R. Boucaut, 130l.
+M. W. Nolan, 140l.
+A. Litchfield, 150l.
+W. G. Martin, 200l.
+R. Ross, 180l.
+J. H. Teulon, 170l.
+H. Black, 150l.
+E. J. Winter, 150l.
+
+Superintendents of Traffic—
+W. N. Waughope, 270l.
+H. McArthur, 270l.
+J. N. Martin, 270l.
+W. P. Mart, 270l.
+G. A. White, 210l.
+H. F. Forwood, 270l.
+J. Jackson, 220l.
+
+Ticket Clerks, J. Kinmonth, 210l.
+W. Spooner, 150l.
+E. J. Carroll, 150l.
+
+Goods Overseer, J. Smith, 270l.
+
+Engineering Division.
+Locomotive Engineer, W. Thow, 900l.
+Draughtsman, T. Roberts, 450l.
+Storekeeper's Division.
+
+Storekeeper, J. W. Bussell, 415l.
+Bookkeeper and Assistant Storekeeper, G. E. Harris, 270l.
+Storeman, J. M. Stacy, 250l.
+Clerk, D. Solly, 190l.
+
+Central Road Board.
+
+Secretary, E. Soden Davys, 450l.
+Clerk, J. D. Cook, 120l.
+Superintendent Surveyor, C. T. Hargrave, 550l.
+J. Morris, 550l.
+
+Departments under Direction of the Minister of Education.
+
+Minister of Education, Hon. J. A. Cockburn, M.P., P.M.D., 1000l.
+Secretary, James Bath, J.P., 600l.
+Clerks, J. S. Fleming, 250l.
+F. F. Benda, 250l.
+A. F. Cornish, 80l.
+Cadet, A. E. A. Aston, 50l.
+Inspector-General of Schools, J. A. Hartley, B.A., B.Sc., 800l.
+Senior Inspector, E. Dewhirst, 500l.
+
+Inspectors, J. Hosking, 450l.
+Thomas Burgan, 450l.
+C. L. Whitham, B.A., 450l.
+L. W. Stanton, 450l.
+Alexr. Clark, 450l.
+Chief Clerk, H. A. Curtis, 330l.
+Pay Clerk, T. H. James, 300l.
+Revenue Clerk, Geo. J. De Rose, 240l.
+Clerks, J. C. Kerr, 180l.
+Geo. W. R. Lee, 120l.
+P. C. von Treuer, 110l.
+Superintendent of School Visitors, James H. H. Vockins, 310l.
+
+Training College.
+
+Principal, Lewis G. Madley, 600l.
+Assistant, Andrew Scott, B.A., 825l.
+Master of Practising School, Robert Gamble, 150l.
+
+City Model Schools.
+
+Head Master, W. L. Neale, 450l.
+Head Mistress, Sarah H. Birt, 250l.
+Mistress of Infant School, Fanny Warner, 200l.
+
+East Adelaide Model Schools.
+
+Head Master, W. Warner, 450l.
+Head Mistress, Mary Rankine, 250l.
+Mistress of Infant School, Kate G. Cooney, 200l.
+
+North Adelaide Model Schools.
+
+Head Master, Geo. Gill, 450l.
+Head Mistress, Ruth A. Gill, 250l.
+Mistress of Infant School, Frances Williams, 200l.
+
+Norwood Model Schools.
+
+Head Master, John T. Smyth, B.A., 450l.
+Assistant-in-Charge, Catherine Francis, 175l.
+Mistress of Infant School, Edith M. Carter, 150l.
+
+South Australian Institute.
+
+Governors of the Public Library, Museum, and Art Gallery of South Australia for the ensuing year, viz.:
+William Everard, Esq., J.P.;
+Venerable Archdeacon Farr, LL.D.
+The Honorable Lavington Glyde;
+Rowland Rees, Esq., M.P.;
+Edward Charles Stirling, Esq., M.A., M.D., M.P.;
+Charles Todd, Esq., C.M.G., F.R.A.S.;
+The Honorable Samuel James Way, Chief Justice;
+William Wyatt, Esq., M.R.C.S.;
+Professor Horace Lamb, M.A., F.R.A.S.;
+William Alexander Erskine West-Erskine, Esq., M.A.;
+Horatio Thomas Whittell, Esq., M.D.;
+Abraham Abrahams, Esq., J.P.;
+Charles Townshend Hargrave, Esq., C.E.;
+The Honorable Allan Campbell, M.L.C.;
+The Honorable Davie Murray, M.L.C.;
+Thomas King, Esq., M.P.;
+General Secretary, Robert Kay.
+
+Post Office and Telegraph Department.
+
+Postmaster-General and Superintendent of Telegraphs, C. Todd, C.M.G., F.R.A.S., 950l.
+Deputy Postmaster-General and Assistant Superintendent of Telegraphs, F. Squire, 550l.
+Superintendent, Money Order Branch, S. Summers, 425l.
+Inspector of Postal and Telegraph Services, R. R. Knuckey, 425l.
+Corresponding Clerk, R. W. M. Waddy, 410l.
+Chief Clerk, Letter Branch, A. J. Wright, 365l.
+Clerk and Cashier, Postal Branch, R. Lawrence, 330l.
+Clerk and Cashier, Telegraph Branch, C. Fry, 330l.
+Second Senior Inland Clerk, A. Gillman, 290l.
+Accountant, Postal and Telegraph Department, C. Giles, 320l.
+
+Adelaide (Chief Office).
+
+71 clerks.
+19 sub-sorters and stampers, and 6 newspaper stampers.
+26 letter carriers.
+6 mail cart drivers.
+55 operators, &c.
+2 Assistant storekeepers.
+Keeper, General Post Office buildings.
+Printer of stamps.
+Assistant printer of stamps.
+Assistant lineman, &c.
+Hall porter and messenger, and 1 assistant porter.
+1 instrument fitter and 10 assistants and battery-men.
+28 messengers.
+Detective.
+Police constable.
+Other Post and Telegraph Offices.
+
+4 clerks.
+149 postmasters and telegraph station masters.
+382 postmasters.
+131 operators, &c.
+33 letter carriers.
+155 messengers.
+Lineman.
+Mail cart driver.
+
+Steam Communication from Port Adelaide to other Ports.
+
+Route.
+To Ports of New Zealand, via Melbourne . . . weekly.
+" Ports of New South Wales, via Melbourne . . . bi-weekly.
+" Ports of Queensland . . . bi-weekly.
+" Newcastle . . . bi-weekly.
+" Tasmania, viz., Hobart Town and Launceston . . . weekly.
+" Melbourne and other Victorian Ports . . . tri-weekly.
+" Northern Territory, Port Darwin . . . monthly.
+" Western Australia . . . fortnightly.
+" Great Britain and the East . . . weekly.
+" Robe and Guichen Bay . . . weekly.
+" Port Augusta . . . weekly.
+" Kingston and MacDonnell Bay . . . weekly.
+" Port Lincoln . . . weekly.
+" Moonta Bay . . . weekly.
+" Port Wallaroo . . . weekly.
+" Port Pirie . . . bi-weekly.
+" Edithburgh and Stansbury . . . tri-weekly.
+" Ardrossan . . . weekly.
+
+The Murray River steamers traverse a distance of about 2,000 miles from Goolwa, and call at ports on the route as the requirements of trade demand.
+
+Observatory.
+
+Government Astronomer, C. Todd, C.M.G., F.R.A.S.
+Assistant Observer, W. E. Cooke, 330l.
+Second Assistant Observer, R. F. Griffiths, 198l.
+Clerk, E. P. Sells, 143l.
+Porters and Messenger, Cadet,
+
+University of Adelaide.
+
+Council.
+
+Chancellor His Hon. Samuel James Way, Chief Justice.
+Vice-Chancellor, the Rev. W. R. Fletcher, M.A.
+Treasurer, Hon. Sir Henry Ayers, K.C.M.G., M.L.C.
+Frederic Ayers, M.A.
+William Alexander Erskine West Erskine, M.A.
+Edward Charles Stirling, M.A., M.D.
+Adolph von Treuer, LL.B.
+The Hon. R. D. Ross, M.P.
+J. W. Bakewell, M.A.
+W. Gardner, M.D.
+William Everard, J.P.
+Horace Lamb, M.A.
+Rev. G. W. Kennion, M.A., D.D.
+John A. Hartley, B.A., B.Sc., Lond.
+William R. Boothby, B.A.
+E. W. Way, M.B.
+The Hon. David Murray, M.L.C.
+William Barlow, B.A.
+Horatio Thomas Whittell, M.D.
+Archdeacon Farr, LL.D.
+Registrar, J. Walter Tyas.
+
+Senate.
+
+Warden, Frederick Chapple, B.A.
+Clerk, James Thompson Hackett, B.A.
+
+Professors.
+
+D. F. Kelly, M.A., Hughes Professor of Classics.
+Horace Lamb, M.A., Cantab., Elder Professor of Mathematics.
+Ralph Tate, F.G.S., Elder Professor of Natural Science.
+E. Vaughan Bouger, M.A., Hughes Professor of English Language and Literature and of Mental and Moral Philosophy.
+A. Watson, M.D., Elder Professor of Anatomy.
+Edward Henry Rennie, M.A., D.Sc., Augus, Professor of Chemistry.
+Joshua Ives, Mus. Bac., Professor of Music.
+
+Lecturers.
+
+E. C. Stirling, M.A., M.D., Lecturer on Physiology.
+W. R. Phillips, LL.B., Lecturer on Laws.
+
+Northern Territory.
+
+Government Resident, Hon. John Langdon Parsons, 1,500l.
+Secretary and Accountant, E. H. Whitelaw, 300l.
+Clerk, Government Resident's Office, N. Holtze, 130l.
+Colonial Surgeon and Protector of Aborigines, P. M. Wood, 600l.
+Palmerston Hospital.—Secretary, E. H. Whitelaw, 25l.; Matron, Jane Manson, 144l.; Attendant, James Manson, 132l.
+Senior Surveyor and Supervisor of Public Works, G. R. McMinn, 600l.
+Junior Surveyor, J. P. Illington, 310l.
+Surveyor, W. R. Cuthbertson, 300l.
+Draughtsman, F. C. Ward, 310l.
+Junior Clerk, Land Office, T. D. Bancroft, 150l.
+Judge of the Northern Territory, T. K. Pater, S.M., 1,000l.
+Clerk of the Local Court, Deputy Sheriff, &c., and Chief Warden, Gold Fields, J. G. Knight, M.I.C.E., 450l.
+Goldfields Warden, C. W. Nash, 250l.
+Inspector of Police, Paul Foelsche, 425l.
+Inspecting and Senior Officer of Telegraphs, J. A. G. Little, 425l.
+Sub-Collector of Customs, Deputy Registrar of Shipping, and Assistant Health Officer, Alfred Searcy, 310l.
+Landing Waiter, J. H. Servante, 250l.
+Southport, Customs Officer, J. W. Johnston, 50l.
+Port Essington, Customs Officer, E. O. Robinson, 100l.
+Harbour Master, Superintendent Mercantile Marine, &c., H. R. Marsh, 300l.
+Keeper H.M. Gaol, F. E. Becker, 240l.
+Guard of Gaol, G. W. H. Norcock, 219l.
+Second Guard, J. Cook, 219l.
+Government Gardener, Maurice Holtze, 350l.
+Acting Lance-Corporal of Police and Inspector of Public Houses, N. Waters, 11s. per diem.
+10 mounted constables, 1,587l. 15s.
+2 water constables, 346l. 15s.
+Native police, 500l.
+Stock Inspector Palmerston, E. H. Whitelaw, 50l.
+Public School Teacher, F. P. Kitchin, 220l.
+
+Agent-General's Department (London).
+
+Agent-General (also Emigration Agent), Sir Arthur Blyth, K.C.M.G., 1,500l.
+Assistant Agent-General and Assistant Emigration Agent, S. Deering, J.P., 750l.
+Chief Clerk and Accountant, James Snell, 410l.
+Clerks, A. Z. Cahill, 190l.
+Edmund Snell, 180l.
+
+Consuls.
+Austria-Hungary, A. von Treuer.
+Belgium, Hon. Lavington Glyde, J.P., M.P.
+Brazil, Vice-Consul, James Robin.
+Chili, Vice-Consul, Fred. Wright.
+Denmark, Vice-Consul, Fred. Wright.
+France, Consular Agent, James Page.
+Germany, H. C. E. Muecke.
+Italy, Consular Agent, J. Gilbert Boothby.
+Netherlands, Consul, James T. Turnbul; Vabian L. Solomon, Vice-Consul, Port Darwin.
+Portugal, Vice-Consul, John Beck.
+Spain, Vice-Consul, Fred. Wright.
+Sweden and Norway, Robert Barr Smith; Vice-Consul, A. S. Neill, Port Adelaide, C. E. Stokes, Port Augusta.
+Switzerland, Vice-Consul, James Page.
+United States, Consular Agent, Jacob W. Smith, Port Adelaide.
+
+Straits Settlements.
+
+The Straits Settlements, which comprise Singapore, Penang, and Malacca, were transferred from the control of the Indian Government to that of the Secretary of State for the Colonies on the 1st April, 1867, by an Order in Council issued under the authority of an Act of the Imperial Parliament 29 & 30 Vict. c. 115.
+
+Situation and Area.
+
+Singapore is an island about 27 miles long by 14 wide, containing an area of 206 square miles, situated at the southern extremity of the Malayan Peninsula, from which it is separated by a narrow strait about three-quarters of a mile in width. There are a number of small islands adjacent to it which form part of the settlement.
+
+The seat of Government is the town of Singapore, at the southern point of the island, in lat. 1° 16' north, and long. 103° 53' east.
+
+Penang is an island about 15 miles long and 9 broad, containing an area of 107 square miles, situated off the west coast of the Malayan Peninsula in 5° N. latitude, and at the northern extremity or entrance to the Straits of Malacca. On the opposite shore of the mainland, from which the island is separated by a strait from 2 to 10 miles broad, is Province Wellesley, a strip of territory forming part of the settlement, averaging 8 miles in width, and extending 45 miles along the coast, including 10 miles of newly acquired territory to the south of the Kran (ride infra), the whole containing an area of 270 square miles.
+
+The chief town is George Town, in 5° 24' north lat. and 100° 21' east long.
+
+Malacca is situated on the western coast of the peninsula between Singapore and Penang, about 110 miles from the former and 240 from the latter, and consists of a strip of territory about 42 miles in length, and from 8 to 25 miles in breadth, containing an area of 659 square miles. The town, called Malacca, is in 2° 10' north lat. and 102° 14' east long.
+
+The Dindings, including the island of Pankor and a strip of territory opposite on the mainland, about 80 miles from Penang, is in 4° 15' north lat., and 100° 35' east long.
+
+History.
+
+Malacca is one of the oldest European settlements in the East, having been taken possession of by the Portuguese under Albuquerque in 1511, and held by them till 1641, when the Dutch, after frequent attempts, were successful in driving them out. The settlement remained under the Government of the Dutch till 1795, when it was taken possession of by the English and held by them till 1818, at which date it was restored to the Dutch, and finally fell into our hands in pursuance of the treaty with Holland the 17th March, 1824, in exchange for the East India Company's settlement at Bengoolen, on the west coast of Sumatra. By that treaty it was arranged that the Dutch should not again meddle with affairs or have any settlement on the Malayan Peninsula, the British Government agreeing at the same time to leave Sumatra to the Dutch.
+
+When Malacca was taken possession of by the Portuguese in 1511, it was one of the grand entrepôts for the commerce of the East, but as the Portuguese pushed their operations further to the east, in the archipelago and neighbouring countries, the trade of Malacca gradually declined, and it ceased to be of consequence as a collecting centre, except for the trade of the Malayan Peninsula and the Island of Sumatra, which trade it retained, under Dutch rule, till the establishment of Penang in 1786, when in the course of a few years trade almost ceased, and it became, what it has ever since been, a place of little commercial importance, but possessing great agricultural resources. Penang soon acquired a monopoly of the trade of the Malayan Peninsula and Sumatra, and had a large traffic with China, Siam, Borneo, the Celebes, and other places in the archipelago not reduced to mercantile subjection by the Dutch; but no sooner was Singapore established than Penang in its turn declined in importance, as the greater part of the extensive Eastern trade centred at Singapore, and Penang came to depend chiefly on the local trade, which has largely increased in consequence of the opening out of the extensive tin mines in Larut, Klang, Selangor, and Junk Ceylon; and the settling of Deli, on the coast of Sumatra.
+
+Penang, or Prince of Wales' Island as it is officially called, was the first British settlement on the Malayan Peninsula, having been ceded to the English by the Raja of Kedah in 1785, with the proviso that the sum of 10,000 dols. be annually paid to the Raja of Kelah as long as the British occupy the island. In 1798, in consequence of the prevalence of piracy on the shores of the mainland opposite Penang, a strip of the coast of the mainland was acquired from the Raja, now called Province Wellesley. It extends from the Muda River to 10 miles south of the Krian River, a distance of 45 miles, containing in all 270 square miles. This province is in a high state of cultivation when compared with the neighbouring territories, the chief articles cultivated being sugar, paddy, and cocoa-nuts. In 1806 Penang was made a separate Presidency under the East India Company, of equal rank with Madras and Bombay. In 1826 Singapore and Malacca were incorporated with it under one government, Penang still remaining the seat of government. In 1832 the seat of government was transferred to Singapore.
+ford Raffles in 1819, by virtue of a treaty with the Malayan princes. It was at first subordinate to Bencoolen in Sumatra, but in 1823 it was placed under the Government of Bengal; it was afterwards, as above stated, incorporated with Penang and Malacca, and placed under the Governor and Council of the Incorporated Settlement.
+
+The anarchy prevailing in some states of the Malayan Peninsula, and especially in Perak, was for years a source of disquiet to the Straits Settlements community, and a hindrance to the prosperity of British traders. In the beginning of 1874 steps were taken by Sir A. Clarke to remedy this state of things by stationing British residents in Perak and Selangor, and in the small state of Sungai Ujong, to advise their rulers respecting the collection of revenue and general administration. With a view also of enabling the British Authorities to keep order in that part of the Peninsula, a strip of land south of Province Wellesley, about 10 miles broad, beyond the Krian river, has been acquired as British Territory, as well as the territory known as The Dindings, consisting of the island of Pulau Pankor and a small portion of the mainland opposite.
+
+Towards the end of 1875 disturbances arose in the States in question, Mr. Birch, the British Resident at Perak, was murdered, a force sent to apprehend the murderers was resisted; and, at the same time the Residency in Sungai Ujong was menaced by bodies of Malays from some of the States near Malacca.
+
+Under the prompt and energetic measures taken by the Governor, Sir W. Jervois, these outbreaks were suppressed in the course of about two months. Troops were obtained from India and China, a naval brigade was landed, and a native contingent organized. The forces in Perak under Major-General Colborne and Captain Buller, R.N., occupied that State; a military and naval force under the direction of Colonel Anson, Lieutenant-Governor of Penang, and commanded by Colonel Hill, of the 1st Ghurkhas, and Captain Sterling, R.N., drove the enemy from a strong fortified position in Sungai Ujong, and dispersed the malcontents in that quarter. During these operations, Selangor remained tolerably quiet.
+
+Since the military occupation of Perak, those concerned in the murder of Mr. Birch have been captured and punished, some of the chiefs being banished to the Seychelles. Peace and order now reign throughout the peninsula, and the government of the State has assumed a settled form. In Perak, Selangor, and Sungai Ujong, Residents have been appointed, who are assisted by a staff of European officers, and it is their duty to aid the native rulers by advice, and to carry out certain executive functions delegated to them. The supreme authority in each state is vested in the State Council, consisting of the highest native authorities and the principal English officials. The Residents are directly under the Governor of the Straits Settlements.
+
+The duty on the export of tin forms the largest item of the revenue of these States. The country, however, is otherwise rich, and offers great advantages for the cultivation of coffee, cinchona, tea, &c., on its high lands, and of paddy in the valleys. It is not possible to form any accurate estimate of the population; but it is known that since the war the increase among the Chinese has been very great. Sir F. Weld has consolidated the relations with the unprotected States in the neighbourhood of Malacca, and is assisting them with loans for the construction of roads and stations.
+
+Government.
+
+The government of the Straits Settlements consists of a Governor, aided by an Executive and Legislative Council; the latter body comprising 10 official members and 7 unofficial nominated members.
+
+The Military Force consists of a battery of Royal Artillery and one Battalion of an Infantry Regiment, of which two Companies are stationed at Ponang, and the remainder at Singapore.
+
+Population.
+
+A census was taken in the Colony on the 3rd April, 1881. The following figures give the numbers in the several settlements:
+
+| Settlement       | Europeans | Malays | Chinese | Natives of India |
+|------------------|-----------|--------|---------|-----------------|
+| Singapore        | 2,769     | 22,155 | 86,766  | 12,058          |
+| Penang           | 612       | 21,772 | 45,135  | 15,730          |
+| Prov. Wellesley  | 76        | 58,723 | 21,637  | 10,616          |
+| Malacca          | 40        | 67,513 | 19,741  | 1,821           |
+
+Total . . . 423,384
+
+The following are the chief statistics of the census:
+
+| Year | Europeans | Malays | Chinese | Natives of India |
+|------|-----------|--------|---------|-----------------|
+| 1866 | 273,000   |        |         |                 |
+| 1871 | 307,951   |        |         |                 |
+
+Trade.
+
+The Straits ports are wholly free from duties on imports or exports, nor are tonnage dues levied for general purposes, and the only tax to which shipping entering the port is liable, consists of a very moderate one, of 2 cents or 1d. per ton register, in support of the Horsburgh and Raffles Lighthouses at the eastern and western entrances to the roads of Singapore, a light on the North Sands about the middle of the Straits of Malacca, one at Cape Rachado, and another at Pulau Undan, 10 miles from Malacca, besides a light ship on Formosa bank, and a light on Muka Head, Penang.
+
+The chief exports comprise tin, sugar, pepper, nutmegs, mace, sago, tapioca, rice, buffalo hides and horns, rattans, gutta, india-rubber, gambier, gum, coffee, dyestuffs, tobacco, &c. Of these the only articles produced to any considerable extent in our own territories are gambier and pepper (in Singapore); tapioca (chiefly in Malacca and Prov. Wellesley); rice (in Prov. Wellesley and Malacca), and sugar (in Prov. Wellesley).
+
+The value of the united exports and imports of the three Settlements in 1859-60 was as follows:
+
+| Settlement | Value     |
+|------------|-----------|
+| Singapore  | £10,371,300 |
+| Penang     | 3,530,000  |
+| Malacca    | 920,000    |
+
+Total . . . £14,821,300
+
+In 1884 it had increased to—
+
+| Settlement | Value     |
+|------------|-----------|
+| Singapore  | £25,931,930 |
+| Penang     | 12,066,267  |
+| Malacca    | 1,079,612   |
+
+Total . . . £39,077,809
+
+The value of imports and exports for 1883 is calculated at 3s. 8½., 1859-60 at 4s. 3d., to the dollar.
+Number and tonnage of vessels (including native craft) which have arrived at the Straits Settlements in the last three years were as follows:
+
+| Year | No.   | Tonnage     |
+|------|-------|-------------|
+| 1882 | 12,056| 3,466,753   |
+| 1883 | 13,820| 3,727,137   |
+| 1884 | 15,265| 3,900,768   |
+
+Finance.
+
+The sources from which the revenue is raised are chiefly land revenue, licenses (opium, spirit, and pawnbrokers' farms), stamp duties, light dues, judicial fines and fees, and certain reimbursements.
+
+| Revenue | Expenditure |
+|---------|-------------|
+| £       | £           |
+| 1868    | 276,642     | 254,391     |

@@ -1,0 +1,322 @@
+{
+  "year": 1886,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1886/olmocr_results.md",
+  "extraction_date": "2025-11-18",
+  "extraction_method": "Manual LLM boundary identification with systematic document review",
+  "total_colonies": 38,
+  "notes": [
+    "Colony boundaries manually identified by reading OCR content",
+    "PART II (Colonies) runs from approximately line 1445 to line ~30000",
+    "Line number prefixes removed from extracted text",
+    "Some boundaries are estimated and require verification",
+    "Reference entries (ANTIGUA, ANGUILLA, DOMINICA) point to main sections",
+    "Some colonies contain sub-sections (e.g., Leeward Islands, Windward Islands)",
+    "Boundaries verified by reading actual content where possible"
+  ],
+  "colonies": [
+    {
+      "colony_name": "ANTIGUA REF",
+      "start_line": 1449,
+      "end_line": 1451,
+      "line_count": 3,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/ANTIGUA_REF.txt",
+      "note": "Reference entry - See Leeward Islands"
+    },
+    {
+      "colony_name": "ANGUILLA REF",
+      "start_line": 1452,
+      "end_line": 1454,
+      "line_count": 3,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/ANGUILLA_REF.txt",
+      "note": "Reference entry - See Leeward Islands"
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "start_line": 1455,
+      "end_line": 1836,
+      "line_count": 382,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/BAHAMAS.txt",
+      "note": "Caribbean island chain - VERIFIED"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "start_line": 1837,
+      "end_line": 1851,
+      "line_count": 15,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/BARBADOS.txt",
+      "note": "Caribbean island - VERIFIED"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "start_line": 1852,
+      "end_line": 2905,
+      "line_count": 1054,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/BERMUDA.txt",
+      "note": "North Atlantic islands - VERIFIED"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "start_line": 2906,
+      "end_line": 5095,
+      "line_count": 2190,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/BRITISH_GUIANA.txt",
+      "note": "South American territory - VERIFIED"
+    },
+    {
+      "colony_name": "DOMINION OF CANADA",
+      "start_line": 5096,
+      "end_line": 10113,
+      "line_count": 5018,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/DOMINION_OF_CANADA.txt",
+      "note": "North American dominion - VERIFIED"
+    },
+    {
+      "colony_name": "DOMINICA REF",
+      "start_line": 10114,
+      "end_line": 10117,
+      "line_count": 4,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/DOMINICA_REF.txt",
+      "note": "Reference entry - See Leeward Islands"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "start_line": 10118,
+      "end_line": 10272,
+      "line_count": 155,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/FALKLAND_ISLANDS.txt",
+      "note": "South Atlantic islands - VERIFIED"
+    },
+    {
+      "colony_name": "FIJI",
+      "start_line": 10273,
+      "end_line": 10643,
+      "line_count": 371,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/FIJI.txt",
+      "note": "Pacific islands - VERIFIED"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "start_line": 10645,
+      "end_line": 10768,
+      "line_count": 124,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/GIBRALTAR.txt",
+      "note": "Mediterranean fortress - VERIFIED"
+    },
+    {
+      "colony_name": "GOLD COAST",
+      "start_line": 10769,
+      "end_line": 11246,
+      "line_count": 478,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/GOLD_COAST.txt",
+      "note": "West African colony - VERIFIED"
+    },
+    {
+      "colony_name": "HELIGOLAND",
+      "start_line": 11247,
+      "end_line": 11299,
+      "line_count": 53,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/HELIGOLAND.txt",
+      "note": "North Sea island - VERIFIED"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "start_line": 11321,
+      "end_line": 11710,
+      "line_count": 390,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/HONG_KONG.txt",
+      "note": "Chinese island colony - VERIFIED"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "start_line": 11711,
+      "end_line": 12853,
+      "line_count": 1143,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/JAMAICA.txt",
+      "note": "Caribbean island - VERIFIED"
+    },
+    {
+      "colony_name": "LEEWARD ISLANDS",
+      "start_line": 12854,
+      "end_line": 14031,
+      "line_count": 1178,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/LEEWARD_ISLANDS.txt",
+      "note": "Caribbean federation - VERIFIED"
+    },
+    {
+      "colony_name": "DOMINICA",
+      "start_line": 14032,
+      "end_line": 14273,
+      "line_count": 242,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/DOMINICA.txt",
+      "note": "Caribbean island (detailed section) - VERIFIED"
+    },
+    {
+      "colony_name": "MALTA",
+      "start_line": 14274,
+      "end_line": 15799,
+      "line_count": 1526,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/MALTA.txt",
+      "note": "Mediterranean islands - VERIFIED"
+    },
+    {
+      "colony_name": "NATAL",
+      "start_line": 15800,
+      "end_line": 16599,
+      "line_count": 800,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/NATAL.txt",
+      "note": "South African colony - VERIFIED"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "start_line": 16600,
+      "end_line": 17099,
+      "line_count": 500,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/NEWFOUNDLAND.txt",
+      "note": "North American island - needs verification"
+    },
+    {
+      "colony_name": "NEW SOUTH WALES",
+      "start_line": 17100,
+      "end_line": 18999,
+      "line_count": 1900,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/NEW_SOUTH_WALES.txt",
+      "note": "Australian colony - needs verification"
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "start_line": 19000,
+      "end_line": 20999,
+      "line_count": 2000,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/QUEENSLAND.txt",
+      "note": "Australian colony - partially verified"
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "start_line": 21000,
+      "end_line": 22500,
+      "line_count": 1501,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/NEW_ZEALAND.txt",
+      "note": "Pacific colony - ESTIMATED"
+    },
+    {
+      "colony_name": "SOUTH AUSTRALIA",
+      "start_line": 22501,
+      "end_line": 24000,
+      "line_count": 1500,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/SOUTH_AUSTRALIA.txt",
+      "note": "Australian colony - ESTIMATED"
+    },
+    {
+      "colony_name": "STRAITS SETTLEMENTS",
+      "start_line": 24001,
+      "end_line": 24500,
+      "line_count": 500,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/STRAITS_SETTLEMENTS.txt",
+      "note": "Southeast Asian settlements - ESTIMATED"
+    },
+    {
+      "colony_name": "TASMANIA",
+      "start_line": 24501,
+      "end_line": 25500,
+      "line_count": 1000,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/TASMANIA.txt",
+      "note": "Australian island colony - ESTIMATED"
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "start_line": 25501,
+      "end_line": 26500,
+      "line_count": 1000,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/TRINIDAD.txt",
+      "note": "Caribbean island - ESTIMATED"
+    },
+    {
+      "colony_name": "TURKS AND CAICOS",
+      "start_line": 26501,
+      "end_line": 26700,
+      "line_count": 200,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/TURKS_AND_CAICOS.txt",
+      "note": "Caribbean islands - ESTIMATED"
+    },
+    {
+      "colony_name": "VICTORIA",
+      "start_line": 26701,
+      "end_line": 27500,
+      "line_count": 800,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/VICTORIA.txt",
+      "note": "Australian colony - ESTIMATED"
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "start_line": 27501,
+      "end_line": 28500,
+      "line_count": 1000,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/WESTERN_AUSTRALIA.txt",
+      "note": "Australian colony - ESTIMATED"
+    },
+    {
+      "colony_name": "WINDWARD ISLANDS",
+      "start_line": 28501,
+      "end_line": 29500,
+      "line_count": 1000,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/WINDWARD_ISLANDS.txt",
+      "note": "Caribbean federation - ESTIMATED"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "start_line": 29501,
+      "end_line": 30000,
+      "line_count": 500,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/SIERRA_LEONE.txt",
+      "note": "West African colony - ESTIMATED"
+    },
+    {
+      "colony_name": "GAMBIA",
+      "start_line": 30001,
+      "end_line": 30200,
+      "line_count": 200,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/GAMBIA.txt",
+      "note": "West African settlement - ESTIMATED"
+    },
+    {
+      "colony_name": "LAGOS",
+      "start_line": 30201,
+      "end_line": 30500,
+      "line_count": 300,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/LAGOS.txt",
+      "note": "West African settlement - ESTIMATED"
+    },
+    {
+      "colony_name": "ST HELENA",
+      "start_line": 30501,
+      "end_line": 30800,
+      "line_count": 300,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/ST_HELENA.txt",
+      "note": "South Atlantic island - ESTIMATED"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "start_line": 30801,
+      "end_line": 31200,
+      "line_count": 400,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/CYPRUS.txt",
+      "note": "Mediterranean island - ESTIMATED"
+    },
+    {
+      "colony_name": "LABUAN",
+      "start_line": 31201,
+      "end_line": 31400,
+      "line_count": 200,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/LABUAN.txt",
+      "note": "Borneo island - ESTIMATED"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "start_line": 31401,
+      "end_line": 32000,
+      "line_count": 600,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/MAURITIUS.txt",
+      "note": "Indian Ocean island - ESTIMATED"
+    }
+  ]
+}

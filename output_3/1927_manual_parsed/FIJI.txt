@@ -1,0 +1,670 @@
+FIJI.
+
+Situation and Area.
+
+The Colony of Fiji comprises all islands, rocks, and reefs lying between latitude 15° and 22° S. and between longitude 177° W. and 175° E. It is distant from Sydney about 1,700 miles, and from Auckland 1,100 miles. The Tongan or Friendly Islands lie 180 miles to the south-east, and Samoa 500 miles to the north-east. The French colony of New Caledonia lies to the westward about 700 miles. The number of islands has been variously stated at from 200 to 250; but this includes mere uninhabited rocks and islets.
+
+The dependency of Rotumah consists of all islands, rocks, reefs between 12° and 15° S., and between 175° and 180° E.
+
+The principal inhabited islands are Viti Levu, 4,053 square miles, Vanua Levu, 2,130 square miles, Taviuni, 217 square miles, Kadavu, 124 square miles, Koro, 58 square miles, Gau, 45 square miles, and Ovalau, 43 square miles. The total area of the Colony (including Rotumah, 14 square miles) is 7,083 square miles (nearly equal to Wales).
+
+Physical Features.
+
+The more important islands are hilly and mountainous, rising more or less abruptly from the shore to a height of from 4,000 to 4,300 feet. The hills are generally of a grand and picturesque outline, being composed for the most part of old volcanic lavas. Upon the south-eastern or windward sides the islands are covered with dense forests. The lowerlands are more lightly timbered, and apparently have all been under cultivation at a not distant period when the native population was much larger. On these flats the soil is almost everywhere deep, easily worked, and especially
+rich in humic acid. The northern and north-western sides of the larger island, or leeward side, are characterised by a comparative absence of forest lands; and here hills or plains are covered with long reeds or grass, and dotted with clumps of Casuarina and Pandanus.
+
+Copper ore is found in many places, but does not appear to be of sufficiently high grade to justify working. There are also traces of gold, silver (chloride), tin, antimony, manganese, and other metals.
+
+The country is well watered. Frequent rains keep alive the sources of the thousands of small affluents feeding the main rivers. Of these rivers the Rewa stands first. It is navigable for boats, punts, or flat-bottomed steamers, for 40 or 50 miles from its mouth. Several large streams fall into it, the sources of which lie in the high mountains of the interior 3,000 or 4,000 feet above the level of the sea. Besides these, the Sigatoka, the Nadi, and Ba rivers, with many others, drain the principal watersheds of Viti Levu. In Vanua Levu the rivers are not so large, though they are nearly as numerous. The Dreketi river being first in size is navigable for craft of considerable size for a distance of 15 miles from its mouth. Almost every valley in the group has its stream or brook, from which the native occupants irrigate their plantations of "dalo" (Calocasia esculenta).
+
+Fiji is as rich in harbours and roadsteads as it is in rivers. Each island is surrounded by a barrier reef, and, with few exceptions, is accessible through passages usually found opposite to the most considerable valley or river. Between this river and the shore ships lie safely at anchor, protected by an indestructible natural breakwater.
+
+Rotumah.
+
+The Island of Rotumah, situated in 12° 30' S. lat., 177° 10' E. long., was discovered by the Pandora, in 1793, when searching for the mutineers of the Bounty. Lying to the north-west from two to four miles from the shore, are three small islets, Hattana, Hofius and Waya. Of these only the last named is inhabited, and it contains but one small village. In 1879 the three principal Rotumah chiefs offered the islands to Great Britain, and they were annexed 13th May, 1881. The population was found at the census of 1921 to number 2,402, of whom two-thirds are Methodists, and the remainder Roman Catholics. The principal island is seven miles long by three miles broad, and contains about 9,000 acres. The staple export is copra.
+
+The natives differ entirely from Fijians in language and in polity. A resident European commissioner is, under the governor, the chief executive and judicial authority. The commissioner's court, except in capital cases, takes the place of the supreme court of Fiji. There are two native stipendiary magistrates, who have jurisdiction in minor cases. The island is divided into seven districts, over each of which a chief, appointed by the governor, rules. The framing of local laws is entrusted to the Rotumah Regulation Board (consisting of the resident commissioner and any number of natives, not exceeding ten). Their enactments are subject to the approval of the legislative council of Fiji.
+
+Population
+
+The aboriginal population of Fiji belongs to the darker of the two great Polynesian families, but, living on the confines of the fairer race, its blood has received considerable admixture. It was estimated in 1869 at 200,000; in 1868 at 170,000; and in 1871 at 140,000. By the epidemic of measles which occurred in 1875 it was reduced by more than one-fourth. The population of the colony, as ascertained at the census of 1891, 1901, 1911, and 1921 respectively, is shown in the following table:
+
+| Census of 1921 | Males | Females | Total |
+|---------------|-------|---------|-------|
+|               |       |         |       |
+|               |       |         |       |
+
+| Census of 1911 | Males | Females | Total |
+|---------------|-------|---------|-------|
+|               |       |         |       |
+|               |       |         |       |
+
+| Census of 1901 | Males | Females | Total |
+|---------------|-------|---------|-------|
+|               |       |         |       |
+|               |       |         |       |
+
+| Class of Population | Total |
+|---------------------|-------|
+| Europeans           |       |
+| Half-Castes         |       |
+| Indians             |       |
+| Polynesians         |       |
+| Fijians             |       |
+| Rotumans            |       |
+| Others              |       |
+
+The births among the native population in 1925 totalled 2,856, and the deaths 2,012. The birth rate was 32·29, and the death rate 22·75 per m.
+The Methodist and Roman Catholic missions give the following as the number of their adherents at the end of the year 1925:
+
+Methodist ... ... ... 79,634
+Roman Catholic ... ... ... 11,564
+
+Total ... ... ... 91,198
+
+History.
+
+The islands were discovered by Tasman in 1643, and visited by Captain Cook in 1769. Captain Bligh, on his memorable voyage in the launch of the Bounty, sighted part of the group in 1789, and was chased by a canoe from the island of Waya, in the Yasawa group. Missionaries settled in Fiji in 1836, and, after a time, met with great success.
+
+In 1859 Thakombau, the most powerful chief of Fiji, offered the sovereignty of the islands to Great Britain. The offer was declined by the Duke of Newcastle in 1862. About that time the demand for cotton, owing to the American civil war, led to an influx of Europeans into Fiji for the purpose of cotton cultivation. In June, 1871, certain Englishmen set up a Fijian Government, with the principal chief, Thakombau, as king. A constitution was agreed upon, and a Parliament elected. The Parliament and the Government before long drifted into mutual hostility, and the Ministry latterly governed without the aid of the Parliament.
+
+The question of annexing Fiji had been agitated both in Australia and England since 1869 on many grounds, and in August, 1873, the Earl of Kimberley commissioned Commodore Goodenough, commanding the squadron on the station, and Mr. E. L. Layard, Her Majesty's Consul in Fiji, to investigate and report on the matter. These Commissioners, on the 21st of March, 1874, reported an offer of the cession of the sovereignty of the islands from the chiefs, with the assent of the Europeans, but on certain terms which were not acceptable, and Sir Hercules Robinson, the Governor of New South Wales, was despatched to Fiji in September, 1874, to negotiate. This mission was completely successful, and the sovereignty of the islands was ceded to Her Majesty by Thakombau, the Chief of Bau, Mafu, who was Chief of the so-called Lau Confederacy, which included not only the Lau Islands, but Tavuni and the greater part of Vanua Levu, and the other principal chiefs, in a deed of cession dated the 10th day of October, 1874. A charter was shortly afterwards issued by Her Majesty, erecting the islands into a separate colony, and providing for their government.
+
+Climate.
+
+The climate of Fiji is cool for the tropics, and the country is remarkably free from zymotic and endemic diseases. Malarial fevers have never been met with.
+
+The highest shade temperature at Suva in 1925 was 91° in February, and the lowest 59·8° in July. The total rainfall during the year at Suva was 106·66 inches. There is great variety of temperature and climate to be found in the group. The rainfall extends over the whole year, but May to September is usually the driest period. Between December and April hurricanes or heavy gales occasionally occur.
+
+Constitution.
+
+The constitution is regulated by Letters Patent of 31st January, 1914, as amended by Letters Patent of 20th July, 1916. The Executive Council consists of the Governor, the Colonial Secretary, the Attorney-General, the Colonial Treasurer, the Chief Medical Officer, the Secretary for Native Affairs, and two unofficial members nominated by the Governor.
+
+The Legislative Council consists of the Governor and not more than twelve nominated members (including one Indian member), seven elected members, two native members. The natives retain a large share of self-government. Their system of village and district councils has been recognised and improved, and supplemented by a triennial meeting of the high chiefs and representatives from each province, presided over by the Governor. There is a Native Regulation Board, constituted under "The Native Affairs Ordinance, 1876," which has power to make regulations with regard to the marriage and divorce of natives, succession to property, the jurisdiction and powers of native courts and magistrates in matters of civil and criminal procedure, and also in regard to other matters having reference to the good government and well-being of the native population. All such regulations have to receive the sanction of the Legislative Council.
+
+Levuka, in the island of Ovalau, was at first selected as the European capital, but during the year 1882 the seat of government was transferred to Suva, on the south coast of the island of Viti Levu, with a fine harbour. The white population of Suva numbered 1,434 at the census of 1921.
+
+Shipping.
+
+Suva and Levuka are ports of entry, and had, on 31st December, 1925, nine steam, four sailing, and nine motor vessels registered of a total net tonnage of steam, 7,168 tons, sailing, 1,093 tons, and motor 324 tons.
+
+During the year 1925 sea going certificates were issued by the Fiji Marine Board to 147 vessels, of a total tonnage of 3,288 tons, of which, 69 were owned by Europeans (tonnage 2,436), 56 by Natives (tonnage 614), 9 by Chinese (tonnage 88), 10 by Indians (tonnage 132), and 3 by Japanese (tonnage 18).
+
+The number of merchant vessels entered at the three ports of entry in the Colony during 1925, is steam, 146, of 575,691 tons, and 16 sailing, of 4,724 tons; of these vessels, 127 were British.
+
+Local Government.
+
+A municipality was established in 1877 in Levuka, and in 1882 one was established in Suva, on the transfer of the seat of government. These boards are at present regulated by the Municipal Institutions Ordinance, 1909. The governing body in each town is elected by the ratepayers. Rates are collected on land and house property.
+
+The revenue and expenditure in 1925 were:
+
+| Revenue | Expenditure |
+|---------|-------------|
+| Suva municipal council | £38,761 | £37,641 |
+| Levuka municipal council | £3,826 | £4,336 |
+| Total | £42,587 | £41,977 |
+Education.
+
+The Public Education Ordinance, 1890, provided for the creation of school boards in constituted districts. Under this Ordinance school boards were created in Suva and Levuka, and in each of these towns a public school for children of European descent was established, the cost of education being borne by a school rate on the town and a Government grant based on the attendance.
+
+The Education Ordinance, 1916, replacing the 1890 Ordinance aims at the establishment of an education system to meet the needs of the Colony as a whole and of the various races. A Board of Education has been created, of which the Governor is Chairman, and a Superintendent of Schools has been appointed. School Committees in education districts are appointed by the Governor. The Ordinance gives power to the Board to establish Government schools both secondary and primary, and to give assistance to denominational schools. Rules and Regulations for Government and assisted primary schools were made by the Board of Education in May, 1917. An Ordinance to make compulsory the Registration of Schools and Teachers was passed in 1918.
+
+The public school for Europeans in Suva has been replaced by two grammar schools, one for boys and one for girls; and the Levuka Public School is now under Government control. The highest enrolment during 1925 at the Boys Grammar School, Suva, was 88; at the Girls Grammar School, Suva (where boys under 8 are taken), 125. The average roll in 1925 for the Levuka Public School was 156 (boys and girls).
+
+The Queen Victoria Memorial School at Nasinu, near Suva, is intended to provide for the higher education of natives, and is maintained from public revenue. The number of boys on the roll during 1925 was 100.
+
+Schools for the primary education of Fijians may be conducted by the Methodist and Roman Catholic Missions, by the Provincial Councils, or by Government. Five Provincial schools have been established at Lau, Taveuni, Lodoni, Kadavu and Nadi, in charge of European headmasters. The Methodist Mission has 871 schools with an attendance of 14,876 pupils; the Roman Catholic Mission has 140 schools with 2,673 pupils.
+
+There are 63 Government and assisted schools, 22 for Indians, 33 for Fijians, 3 receiving both Indians and Fijians, and 7 for Europeans, other races and half-castes. They have 5,275 pupils, of whom 1,676 are Indians, 2,966 are Fijians, and 633 are Europeans, other races and half-castes. They have 59 European, 88 Fijian, and 42 Indian teachers. There are village schools in the great majority of native villages. These are supervised by native teachers and instruction is given in the vernacular.
+
+Currency and Banking.
+
+The legal tender currency, and the only coin in circulation, is British sterling.
+
+The Bank of New South Wales has branches at Suva, Levuka, and Lautoka, and the Bank of New Zealand at the two former places. No return of coin in circulation is available.
+
+Under Ordinance I., of 1907, a Government Savings Bank was opened during 1908. At the end of 1925, there were 4,012 depositors and 116,787l. in deposits. Arrangements were made during 1914 for the issue of Government Currency Notes. At the end of 1925, the circulation of Government Currency Notes was 365,193l.
+
+Industries.
+
+The trade and commerce of the Colony depends for its existence on three staple industries, viz., (1) the cultivation, manufacture, and export of sugar; and (2) of copra (the dried kernel of the coconut); and (3) the growth and export of fruit, principally bananas.
+
+The principal exports at the date of the annexation of the Colony were copra, cotton (Sea Island), and maize, but the export of maize was soon displaced by that of sugar. Cotton continued to be the third export in point of value until the year 1882, after which it gradually subsided until the year 1888, when only 34 tons were exported. The cotton industry is again receiving attention and 7,612 lbs. of cotton and 77 tons of cotton seed were exported in 1925. Owing to the Commonwealth Government having imposed a prohibitive duty on imported bananas, the entire fruit trade of Fiji has been diverted to the New Zealand market.
+
+The export of fruit consists almost entirely of bananas and pineapples and citrus fruits.
+
+The following table will illustrate the course of the trade in the three staple exports of the Colony:
+
+| Year | Sugar | Fruit | Copra |
+|------|-------|-------|-------|
+|      | Quantity | Value | Quantity | Value |
+| 1875 | 96 tons | £3,417 | 97 tons | £3,871 |
+| 1890 | 15,291 | £244,655 | 57,563 | £4,657 |
+| 1900 | 32,961 | £393,987 | 29,113 | £15,606 |
+| 1910 | 61,760 | £669,433 | 47,301 | £13,683 |
+| 1920 | 72,985 | £902,990 | 96,189 | £14,666 |
+| 1923 | 44,108 | £866,387 | 94,326 | £24,181 |
+| 1925 | 91,744 | £1,371,267 | 129,002 | £23,137 |
+
+The other principal exports in 1925 consisted of:—Molasses, 8,283l.; biscuits, 10,483l.; rubber, 16,116l.; troch shell, 35,726l.
+
+Considerable quantities of rice are grown and a Government rice mill has been established.
+
+Dairying and rubber planting may now be regarded as established industries.
+
+Many parts of the Colony seem admirably adapted for cattle and sheep raising.
+
+A biscuit factory and an oil mill have been established in Suva.
+
+The total trade of the Colony in 1925 was £3,427,392, made up as follows:
+
+- With United Kingdom: £389,465
+- British Empire: £2,345,120
+- Foreign Countries: £690,565
+- Ships Stores and Bunkers: £2,242
+
+Means of Communication.
+
+There is a direct quarterly cargo service with the United Kingdom by the New Zealand Shipping Company's Line of steamers.
+There is regular steam communication with Australia and New Zealand, and a monthly service with Canada. Inter-island communication is maintained by regular steamer or cutter services.
+
+Postage to the United Kingdom, India, the Australian States, New Zealand, and British Colonies is 2½d. for 1 oz., 1½d. for every additional oz. To other countries in the Postal Union 3½d. per oz., every succeeding oz. 1½d.
+
+Internal postal rates: letters, 2½d. for 1 oz., 1½d. for every additional oz.; newspapers not exceeding 4 ozs., 1½d., exceeding 4 ozs., 1½d.; if registered in Fiji for transmission by post. A Parcels Post with the United Kingdom was established in June, 1890. The rate of postage is 3 lbs. 2s. 9½d., 7 lbs. 5s. 2½d., and 11 lbs. 7s. 6½d. There is also a parcels post with the Australian States, New Zealand, Canada, India, Ceylon and the United States of America. The rates of postage are as follows:
+
+Australia and New Zealand—
+1 lb., 8½d.; every additional lb. up to 11 lbs., 6½d.
+
+Canada—
+1 lb., 6½d.; , , , , , 6½d.
+
+India and Ceylon—
+1 lb., 1s. 4½d.; every additional lb. up to 11 lbs., 1s. 2½d.
+
+United States of America—
+1 lb., 6½d.; every additional lb. up to 11 lbs. 6½d.
+
+The Colony entered the Postal Union on 1st September, 1891.
+
+The Imperial Postal Order system has been adopted by this Colony.
+
+Letters from England sent via San Francisco or Vancouver reach Fiji in about 28 days.
+
+There is a telephone from Suva to Lautoka, a distance of 125 miles, which is maintained by the Colonial Government, the Colonial Sugar Refining Company, and the Union Steamship Company jointly. There is a telegraph line between Suva and Levuka, a distance of 54 miles. A system of wireless telegraphy has been established in the Colony, and there are now stations at Suva in the island of Viti Levu, at Labasa and Savusavu in the island of Vanua Levu, and at Waiyevo, Tavuni. Telephone Exchanges have been established at Suva, Levuka, Nausori, Navua, and Tavuni.
+
+There is no railway in the Colony. The Colonial Sugar Refining Co. own various tramlines connecting their estates, and these tramlines are in certain cases open to public use. A few good roads have been constructed on the larger islands, and more are in process of construction. Suva is connected by cable with Southport (Queensland) and Auckland, via Norfolk Island, and with Vancouver, via Fanning Island.
+
+### Finances
+
+| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |
+|------|---------|-------------|-----------------|--------------|
+| 1916 | 317,447 | 261,766     | 851,074         | 864,354      |
+| 1917 | 335,064 | 322,332     | 676,029         | 712,048      |
+| 1918 | 371,189 | 342,140     | 606,885         | 658,813      |
+| 1919 | 415,432 | 440,232     | 530,668         | 571,203      |
+| 1920 | 488,753 | 611,944     | 631,584         | 671,790      |
+| 1921 | 569,722 | 752,038     | 644,511         | 662,880      |
+| 1922 | 450,155 | 530,361     | 650,787         | 669,116      |
+| 1923 | 479,982 | 429,666     | 725,102         | 778,869      |
+| 1924 | 488,907 | 451,257     | 690,076         | 799,214      |
+| 1925 | 550,236 | 478,174     | 877,359         | 1,112,220    |
+
+### Imports
+
+| Year | From U.K. | From British Possessions | From Elsewhere | Total |
+|------|-----------|--------------------------|----------------|-------|
+| 1916 | £146,025  | £626,194                 | £89,496        | £861,715 |
+| 1917 | £126,598  | £762,865                 | £104,406       | £1,932,869 |
+| 1918 | £118,104  | £867,012                 | £161,391       | £1,146,507 |
+| 1919 | £151,626  | £760,851                 | £129,913       | £1,042,390 |
+| 1920 | £240,767  | £1,212,800               | £219,664       | £1,673,121 |
+| 1921 | £368,129  | £961,926                 | £189,678       | £1,509,732 |
+| 1922 | £219,920  | £625,609                 | £100,534       | **£946,063 |
+| 1923 | £279,971  | £610,853                 | £98,236        | ***£989,060 |
+| 1924 | £269,231  | £675,401                 | £121,963       | ****£1,066,594 |
+| 1925 | £332,080  | £770,595                 | £168,460       | 1£1,271,135 |
+
+† Exclusive of parcel post 18,539½.
+‡ Exclusive of parcel post 19,860½.
+§ Exclusive of parcel post 17,924½.
+* Exclusive of parcel post 30,987½.
+|| Inclusive of parcel post 28,104½.
+** Inclusive of parcel post 26,382½.
+*** Inclusive of parcel post 21,752½.
+**** Inclusive of parcel post 25,916½.
+|| Inclusive of parcel post 26,656½.
+
+### Exports
+
+| Year | To U.K. | To British Possessions | To Elsewhere | Total |
+|------|---------|------------------------|--------------|-------|
+| 1916 | £15,256 | £2,111,904             | £126,883     | £2,254,043 |
+| 1917 | £7,645  | £1,726,753             | £334,003     | £2,068,401 |
+| 1918 | £2,806  | £1,186,810             | £466,450     | £1,656,065 |
+| 1919 | £76,346 | £1,173,545             | £621,171     | £1,871,662 |
+| 1920 | £23,765 | £2,314,794             | £557,889     | £2,866,448 |
+| 1921 | £166,512| £2,209,728             | £165,218     | £2,541,458 |
+| 1922 | £140,096| £1,393,474             | £264,322     | £1,787,892 |
+| 1923 | £58,159 | £1,056,773             | £435,677     | £1,553,239 |
+| 1924 | £21,239 | £958,311              | £529,384     | £1,508,934 |
+| 1925 | £57,385 | £1,574,525             | £522,105     | £2,154,015 |
+
+The total revenue from Import Customs dues was £249,811½., and from Export Customs dues, £4,816½.
+
+### Governors
+
+1888, Feb. . . Sir J. B. Thurston, K.C.M.G.
+1897, Mar. . . Sir G. T. M. O'Brien, K.C.M.G.
+1902, Sept. . . Sir Henry M. Jackson, K.C.M.G.
+1904, June . . Sir Everard im Thurn, K.C.M.G., C.B.
+1911, Feb. . . Sir Henry May, K.C.M.G.
+1912, July . . Sir Ernest Bickham Sweet Escott, K.C.M.G.
+1918, Oct. . . Sir Cecil Hunter Rodwell, K.C.M.G.
+1925, April . . Sir Eyre Hutson, K.C.M.G.
+
+### Executive Council
+
+The Governor.
+The Colonial Secretary.
+The Attorney-General.
+The Colonial Treasurer.
+The Chief Medical Officer.
+The Secretary for Native Affairs.
+Sir Maynard Hedstrom.
+H. M. Scott, K.C.
+Clerk, C. W. T. Johnson.
+
+### Legislative Council
+
+The Governor.
+Nominated Members:
+A. W. Seymour, Colonial Secretary.
+K. J. Muir MacKenzie, Attorney-General.
+H. H. Rushton, Colonial Treasurer.
+A. Montague, Chief Medical Officer.
+I. McOwan, Secretary for Native Affairs.
+C. A. Holmes, Commissioner of Lands.
+G. J. L. Golding, Inspector General of Constabulary.
+J. D. Tothill, Acting Superintendent Agriculture.
+E. J. March, Comptroller of Customs.
+W. Wise, Acting Commissioner Works.
+R. Boyd, Chairman, Native Lands Commission.
+
+Elected Members:
+Sir Maynard Hedstrom, H. M. Scott, K.C., H. Marks, C.B.E., A. Barker, P. W. Faddy, H. Ragg, W. E. Willoughby-Tottenham.
+
+Native Members:
+Ratu Joni Mataitini, Ratu D. Toganwalu.
+
+Clerk, C. W. T. Johnson.
+
+Civil Establishment.
+
+Governor and Commander-in-Chief, Sir Eyre Hutson, K.C.M.G., 3,000l. (in addition to 1,200l. as High Commissioner for the Western Pacific).
+
+Private Secretary, Mrs. I. Lucchinelli, 300l.
+Aide-de-Camp, Capt. G. G. Symons, M.C., 300l.
+
+Colonial Secretary's Department.
+
+Colonial Secretary, A. W. Seymour, 1,000l.
+Principal Assistant Colonial Secretary (vacant) 600l.-700l.
+Assistant Colonial Secretary (vacant), 500l.-600l.
+Under Secretary for Native Affairs 400l.-600l., A. L. Armstrong.
+Chief Clerk, R. N. Caldwell, 400l.-500l.
+1st Class Clerk and Clerk to Executive and Legislative Councils, C. W. T. Johnson, 300l.-400l.
+2nd Class Clerks, A. W. Small, Miss W. Forster, 200l.-300l.
+2nd Class Clerk and Hindustani Interpreter, W. Miller Caldwell, 200l.-300l.
+3rd Class Clerks, Miss I. Milne, A. G. Reay, 100l.-200l.
+Clerk and Shorthand Writer, Miss I. Smith, 300l.
+Stenographer, Miss E. Martin, 250l.
+Cadets, J. R. Stevenson, G. A. Peck, C. H. Nott, 250l.-300l.
+
+Native Lands Commission.
+
+Chairman, R. Boyd, 650l.
+Chief Assistant Native Lands Commission, Ratu J. L. V. Sukuna, 300l.-400l., and special allowance of 100l.
+Assistants to Native Lands Commission, Ratu S. Komaisavai, Ratu J. Mataitini, Ratu W. Guake, 150l.
+3rd Class Clerks, S. M. Koto, E. D. Ravula, 100l.-200l.
+
+District Administration.
+
+District Commissioners, J. Stuart, H. C. Monkton, E. L. Baker, A. A. Wright, C. E. Pennefather, A. J. Armstrong, M. T. Maxwell, W. Burrows, H. E. Disbrowe, A. E. S. Howard, J. E. Windrum, W. D. Carew, 300l.-500l. and quarters.
+
+6 Roko Tu'i, or Native Administrators of Provinces, with salaries varying from 200l.-300l.
+
+There are also 186 Bulis, or Native Administrators of Districts, and a number of other officers with small salaries.
+
+Treasury.
+
+Colonia Treasurer, H. H. Rushton, 1,000l.
+Deputy Treasurer, H. W. Harecourt, 600l.-700l.
+
+1st Class Clerks, D. Lees, R. R. Higgins, D. Bannatyne, 300l.-400l.
+2nd Class Clerk, R. B. Ackland, 200l. to 300l.
+3rd Class Clerks, Misses A. E. R. Bindemann, H. A. N. Keith, J. Talemaioolo, Miss K. Nicholson, 100l.-200l.
+
+Customs Department.
+
+Comptroller of Customs and President, Fiji Marine Board, E. J. March, 500l.-600l.
+Collector of Customs, Levuka, J. M. Wilson, 300l.-400l. and House allowance 50l.
+Collector of Customs, Lautoka, A. Walker, 300l.-400l., and quarters.
+Chief Clerk and Secretary, Fiji Marine Board, W. W. Savage, 300l.-400l., and allowance in lieu of overtime 50l.
+2nd Class Clerks (3), H. D. Walcot, R. E. Bach, and H. I. Horton, 200l.-300l. and overtime fees.
+3rd Class Clerks (2), I. B. Hooker and K. E. Kennedy, 100l.-200l.
+Chief Landing Waiter, H. J. S. Allen, 250l.-350l., and allowance in lieu of overtime 50l.
+Landing Waiters (4), R. H. Phillips, 150l.-200l., personal allowance 50l., and overtime fees; F. Reay, A. W. James, and R. Humble, 150l.-200l., and overtime fees.
+Bondkeeper, Suva, A. M. Benjamin, 150l.-200l., and overtime fees.
+Boarding Officers (6), A. P. Michel, T. Marchington, C. E. Leembruggen, T. W. Davis, L. J. Christoffersen, P. J. Larymore, 150l. to 200l., and overtime fees.
+Assistant Boarding Officers (2), G. Stephen, and B. P. Nicholson, 100l.-150l., and overtime fees.
+Harbour Master, Suva, E. W. G. Twentyman, 300l.-400l., and Marine Board Surveyor, 25l.
+Harbour Master, Levuka, E. F. Wallack, 300l.-350l., and Marine Board Surveyor, 25l.
+Master, H.M.C.S. "Pioneer," J. Mullins, R.N.R., 500l.
+Temporary Chief Officer, H.M.C.S. "Pioneer," J. R. Neville, 282l.
+Chief Engineer, H.M.C.S. "Pioneer," F. C. Jacobs, 420l.
+2nd Engineer, H.M.C.S. "Pioneer," O. Corbett, 360l.
+3rd Engineer, H.M.C.S. "Pioneer," L. S. Whysall, 276l.
+
+Audit Department.
+
+Auditor, R. H. Carter, 600l.-700l. by 25l.; receives 100l. from Western Pacific High Commission Funds.
+Assistant Auditor, L. H. Pope, 400l.-500l. by 25l.
+1st Class Clerk, T. J. Davis, 300l.-400l.
+2nd Class Clerk, W. E. Donovan, 200l.-300l. by 10l.
+3rd Class Clerk, Miss R. Davis, 100l.-200l.
+
+Lands Department.
+
+Commissioner of Lands (also Crown Surveyor, Conservator of Forests and Chairman Mining Board), Charles A. Holmes, 500l.-600l.
+Assistant Commissioner of Lands (also Assistant Crown Surveyor), F. R. Charlton, 500l. to 600l.
+2nd Class Clerk (also Secretary Mining Board), Nelson Graburn, 200l.-300l.
+Surveyors. Ernest V. Leembruggen, Clarence A. Leembruggen, T. W. Wignall, R. V. Cole, 400l.–500l.
+
+Native Tribal Boundary Surveyors, Eugene L. Leembruggen, R. V. Saunders, B. P. Walker-Taylor, P. T. Cahill, R. A. Tomb, E. T. Walton, A. M. Darling, 300l.–400l.; C. L. Langdale, 150l.–250l.; G. Sutherland, A. J. Carew, 75l.
+
+3rd Class Clerks, Miss G. I. Hayward, Mrs. G. M. Taylor, 100l.–200l.
+
+Chief Draughtsman, E. W. G. Simm, 300l.–400l.
+
+Draughtswomen, Miss Zena Rennie and Mrs. D. Stafford, 100l.–175l.
+
+Judicial and Legal Department.
+
+Chief Justice and Judicial Commissioner for the Western Pacific Sir A. K. Young, 1,250l.
+
+Attorney-General, K. J. Muir-Mackenzie, 800l.–900l.
+
+2nd Class Clerk, C. S. de C. Reay, 200l.–300l.
+
+Chief Police Magistrate and Registrar-General, R. C. G. D. Higginson, 500l.–600l.
+
+Titles Clerk, D. R. McDonald 400l.–500l.
+
+Drawsman and Clerk, E. J. Pollard, 300l.–350l.
+
+Registrar of Supreme Court, etc. J. S. Neill, 500l.–600l.
+
+1st Class Clerk, B. St. J. Fisher, 300l.–400l.
+
+2nd Class Clerk, S. S. Chowla, 200l.–300l.
+
+3rd Class Clerk, B. Raghavanand, 100l.–200l.
+
+Constabulary.
+
+Inspector-General of Constabulary, Colonel G. J. L. Golding, 500–600l. with quarters (is also Sheriff).
+
+Deputy Inspector General, E. A. Barnett, 400l.–500l. with quarters.
+
+District Inspectors, G. Kermode, J. Judd, J. L. Macleod, I. Lucchinelli, G. A. Wright, 300l.–400l.
+
+Sub-Inspectors, M. Macleod, A. J. Chichester, 250l.–300l.
+
+Pay and Quartermaster, C. W. Tucker, 180l.–250l.
+
+Head Constables, J. Anning, H. W. Thomas, S. F. Sanders, W. J. G. Holland, J. C. Munday, 180l.–230l.
+
+Prisons.
+
+Superintendent of Prisons, N. B. Casey, 350l.–450l. and quarters.
+
+Gaoler, Suva Gaol, P. Lamb, 250l.–300l. and quarters.
+
+Overseer, Suva Gaol, W. P. Marr, 200l.–250l. and quarters.
+
+Overseer, Suva Gaol, F. S. Baker, 150l.–200l. and quarters.
+
+Medical Department.
+
+Chief Medical Officer, A. Montague, 800l.–1,000l., with quarters and horse allowance.
+
+Medical Superintendent, Colonial Hospital, P. T. Harper, 700l.–750l. with quarters and horse allowance. Receives also 100l.–150l. as Officer in charge of Medical School.
+
+Medical Officer of Health and Port Officer, C. H. B. Thompson, 750l.–900l.
+
+District Medical Officers, A. W. Campbell, W. M. Ramsay, J. W. Hunt, V. W. T. McGusty, A. R. Maclurkin, A. J. Borg, H. S. Evans, W. K. Carew, Thomas Clunie, Ian Robertson, F. E. Montague, 400l.–600l. and quarters, with private practice.
+
+Indian Sub-Ass't Surgeon, G. M. Gopalan, 200l.–250l., with quarters and horse allowance.
+
+Pharmacist, Analyst, and Medical Storekeeper, R. E. Wright, 250l.–300l.
+
+3rd Class Clerks (2), Miss H. A. Walker, D. Armstrong, 100l.–200l.
+
+Caretaker, Quarantine Station, J. Sadlier, 100l.–150l.
+
+Chief Sanitary Inspector and Ankylostomiasis Officer, C. Kendrick, 400l.
+
+Sanitary Inspector, Central Board of Health, J. Probert, 200l.–250l. and horse allowance.
+
+Meat Inspector, C.B.H., H. E. Ellis, 225l.
+
+Colonial War Memorial Hospital, Suva.
+
+Medical Superintendent,
+
+Matron, Miss H. Pankhurst, 200l.–250l., with quarters, board and uniform.
+
+Assistant Matron, Miss E. Lee, 160l. with quarters, board and uniform.
+
+Staff Nurse, Miss R. M. MacKinnon, 130l.–140l.
+
+Graduate Nurses, Miss M. W. Sanders, Miss V. Fredericks, Miss A. Rennison, 120l., with quarters, board and uniform.
+
+Steward and Clerk, C. A. Brabant, 180l.–250l. with quarters, board and uniform.
+
+Housekeeper, Mrs. A. E. Wright, 120l., with quarters, board and uniform.
+
+Levuka Branch Hospital.
+
+Medical Superintendent, The District Medical Officer, Levuka.
+
+Nurse, Miss I. W. Bucknell, 140l., with quarters, board and uniform.
+
+Lepre Asylum.
+
+Medical Superintendent, Dr. E. A. Neff, 600l.–800l., with furnished quarters.
+
+Lay Superintendent, J. S. Macnair, 250l.–350l., with furnished quarters.
+
+Launch Driver and Assistant Mechanic, J. Bryson, 150l.–200l., with furnished quarters.
+
+Public Lunatic Asylum.
+
+Superintendent, The Chief Medical Officer.
+
+Head Attendant, G. R. Anderson, 150l.–250l., with quarters.
+
+Female Resident Attendant, A. A. Baker, 100l.–125l. with quarters and uniform.
+
+Lautoka Branch Hospital.
+
+Sister in Charge, Miss J. Sinclair, 150l.–160l. with quarters, board and uniform.
+
+Graduate Nurse, Miss O. A. Collett, 120l. with quarters, board and uniform.
+
+Education Department.
+
+Superintendent of Schools, D. W. Hoodless, B.Sc. (acting), 500l.–600l.
+
+Headmaster, Lau Provincial School, D. W. Hoodless, B.Sc., 400l., 500l., and quarters.
+
+Assistant Master, C. J. Haskoll, (acting headmaster), 250l.–300l.
+
+Headmaster, Boys' Grammar School, Suva, D. T. McCormick, 415l.
+
+Assistant Master, B.G.S., B. W. Taylor, 285l.
+
+Assistant Mistresses, B.G.S., Miss J. E. McRee, B.A., 280l.; Miss G. E. Atherton, 310l.
+Headmistress, Girls' Grammar School, Suva, Miss K. P. Willa, B.A., 385l.
+
+Assistant Mistresses, Girls' Grammar School, Miss A. Watson, 310l.; Mrs. W. Taylor, 300l.; Miss E. M. Mason, 260l.; Miss G. Banks, 245l.; Miss M. Banks, 195l.
+
+Headmaster, Levuka Public School, F. N. R. Downward, 415l.
+
+Assistant Master, Levuka Public School, A. G. Beec, 320l.
+
+Assistant Mistresses, Levuka Public School, Mrs. K. Hamilton, 275l.; Miss M. R. Russell, 220l.; Miss E. Kelly, 195l.; Mrs. L. Bailey, 190l.
+
+Headmaster, Queen Victoria Memorial School, A. H. Phillips, B.Sc., 500l. and quarters.
+
+Assistant Masters, P. E. Warner, 325l. and quarters; (vacant), 280l.-300l. and quarters.
+
+Native Master, Opetaia Dreketirua, 100l. and quarters.
+
+Headmaster, Northern Provincial School, J. Russell, 500l.
+
+Headmaster, Provincial School Eastern, A. F. Larcombe, 350l.-400l.
+
+Headmaster, Kadava Provincial School, A. A. Thomson, 360l.-400l.
+
+Headmaster, Western Provincial School, J. G. Brown, 350l.-400l.
+
+Headmaster, Natabua Indian School, S. Dildar Ali Shah, 190l.
+
+Headmistress, Ravawai Government School, Miss M. Ogden, 160l.
+
+Post and Telegraph Department.
+
+Colonial Postmaster and Superintendent of Telegraphs, J. McDonald, 600l.-700l.
+
+1st Class Clerk, A. Gray, 300l.-400l.
+
+2nd Class Clerks, W. Hayward, M. B. Collins, D. F. McOag, 200l.-300l.
+
+3rd Class Clerks, C. O. Taylor, P. St. Julian, H. Edmunds, A. E. Fuller, H. W. Halstead, M. Tate, F. Rostier, R. J. Christoffersen, R. A. Mune, E. Whysall, M. Gray, S. Waddingham, D. French, 100l.-200l.
+
+Postmaster, Levuka, S. Yeates, 250l.-300l.
+
+3rd Class Clerk, L. H. L. Osborn, 100l.-200l.
+
+Postmaster, Lautoka, E. W. Mathews, 200l.-300l.
+
+3rd Class Clerk, F. Beddoes, 100l.-200l.
+
+Postmaster, Ba, A. E. Beddows, 200l.-300l.
+
+Chief Telegraphist, K. W. A. Black, 250l.-350l.
+
+Foreman Linemen, A. Alcock, 330l.; E. Folkard, 330l.
+
+Mechanic, G. P. Nelligan, 200l.-250l.
+
+Faultman, F. Burrows, 200l.-250l.
+
+Wireless Officers, W. Kearsey, 260l.-350l. and quarters; R. C. Farquhar, H. Roffey, A. O. Barrack, 260l.-350l. and quarters partly furnished; L. M. Browne, W. J. Ragg, 150l.-250l. and quarters partly furnished.
+
+Department of Agriculture.
+
+Superintendent of Agriculture, Director of Entomology, Hon. J. D. Tothill, D.Sc., 1900l.
+
+Inspector of Produce, E. S. Gordon, 300l.
+
+Government Entomologist, H. W. Simmonds, F.E.S., 500l.-600l.
+
+Agricultural Chemist, C. L. Southall, B.Sc., A.I.C., 500l.-750l.
+
+Government Mycologist, J. G. C. Campbell, B.Sc., 550l.-750l.
+
+Veterinary Surgeons, C. R. Turbet, B.V.Sc., 600l.; W. A. Carr Fraser, B.V.Sc., 500l.-600l.; W. G. Bennett, B.V.Sc., 500l.-600l.
+
+Clerk, First Class, A. B. Ackland, 300l.-400l.
+
+Assistant Clerks, 3rd Class, G. G. Lenox, 100l.-150l.; Miss G. Riemenschneider, 100l.-150l.
+
+Inspectors of Plantations, G. H. V. Saunders, 250l.-300l.; C. T. McNamara, M. A. Forsyth 200l.-250l.; J. White, 150l.-200l.
+
+Manager, Rice Mill, J. P. Tarby, 400l.
+
+Printing Office.
+
+Government Printer, S. Bach, 400l.-500l.
+
+Foreman Compositor, J. J. McHugh, 250l.-300l.
+
+Composers, V. F. Lobendahn, J. W. Dewhirst, L. L. Ryland, G. W. Cockburn, D. T. Sale, 180l.-220l.; Dwarka Singh, 150l.-180l.
+
+Bookbinder, R. Campbell, 180l.-200l.
+
+Machinist, L. Cox, 180l.-220l.
+
+3rd Class Clerk, L. L. Hulek, 100l.-200l.
+
+Works Department.
+
+Commissioner of Works (vacant), 1,000l.-1,200l.
+
+W. Wise, B.Sc., Hons. (Lond.), A.M.Inst.C.E., A.C.G.I., M.Inst. M. & Cy.E. (acting).
+
+Assistant Engineer (vacant), V. Kenniff, B.E. Hons. (Syd.), A.M.I.E. (Aust.), A.M.Inst., C.E., M.Inst.M & Cy.E., H. E. Smythe, B.E. Hons. (Syd.), A.M.I.E., (Aust.), W. Wise, B.Sc. Hons. (Lond.), A.M.Inst.C.E., A.C.G.I., M.Inst.M. & Cy.E., 500l.-600l.; C. M. Teulon, Assoc.M.Inst.M. & Cy.E. (temporary).
+
+Mechanical Engineer, A. A. Ragg, 500l.-600l.
+
+Assistant Mechanical Engineer, H. Sabben, 300l.-400l.
+
+Architect, O. C. Ludolph, 500l.-600l.
+
+Draughtsman, S. Brown (temporary).
+
+Surveyor, B. W. B. Cooper, B.E. (temporary), 400l.-500l.
+
+Foremen of Works, E. W. W. Harnes, F. Midson, C. J. Thompson, 250l.-350l.; H. F. Tripp, J. Macnair, 50l.
+
+Overseers, W. T. C. Edwards, 250l.-300l.
+
+Inspector of Water Supply, A. le B. F. Struthers, 250l.
+
+1st Class Clerk, C. W. R. Hooker, 300l.-400l.
+
+2nd Class Clerk, W. de B. Tate, 200l.-300l.
+
+3rd Class Clerks, D. P. Cantlon, Miss E. Rostier, H. R. Caten, Miss L. Reay, Jughan Singh, G. Brown, 100l.-200l.
+
+Fiji Defence Force.
+
+Commandant, Colonel G. J. L. Golding (also Inspector-General of Constabulary).
+
+Adjutant, Capt. A. H. Stafford, 300l., 50l. house allowance.
+
+Bandmaster, Lieut. A. W. Caten, 230l.
+
+Drill and Musketry Instructor, Sergt.-Major F. Stanley, 200l.-250l.
+
+Foreign Consuls.
+
+Italy, H. M. Scott, Suva.
+
+Sweden, Sir Maynard Hedstrom, Suva.
+
+France, Capt. C. B. Joske, M.C.
+
+Norway, Capt. C. B. Joske, M.C.
+
+Ecclesiastical.
+
+Church of England, Right Rev. L. S. Kempthorne, Bishop in Polynesia; Rev. W. J. Hands (Suva), Rev. G. A. Forrest-Sale (Levuka), Rev. H. A. Flavel (Labasa), Rev. A. Stackhouse (Lautoka).
+
+Roman Catholic, Monseigneur Bishop C. J. Nicolas, S.M., Vicar Apostolic.
+
+Presbyterian, Rev. J. Jackson.
+
+Wesleyan Methodist, Rev. McDonald, Chairman.

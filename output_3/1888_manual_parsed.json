@@ -1,0 +1,296 @@
+{
+  "year": 1888,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1888/olmocr_results.md",
+  "extraction_date": "2025-11-18",
+  "extraction_method": "manual_llm_boundary_identification",
+  "total_ocr_lines": 40722,
+  "colonies": [
+    {
+      "colony_name": "BAHAMAS",
+      "start_line": 1562,
+      "end_line": 1870,
+      "line_count": 309,
+      "file": "output_3/1888_manual_parsed/BAHAMAS.txt"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "start_line": 1871,
+      "end_line": 2495,
+      "line_count": 625,
+      "file": "output_3/1888_manual_parsed/BARBADOS.txt"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "start_line": 2496,
+      "end_line": 2614,
+      "line_count": 119,
+      "file": "output_3/1888_manual_parsed/BASUTOLAND.txt"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "start_line": 2615,
+      "end_line": 3157,
+      "line_count": 543,
+      "file": "output_3/1888_manual_parsed/BERMUDA.txt"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "start_line": 3158,
+      "end_line": 3956,
+      "line_count": 799,
+      "file": "output_3/1888_manual_parsed/BRITISH_GUIANA.txt"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "start_line": 3957,
+      "end_line": 4308,
+      "line_count": 352,
+      "file": "output_3/1888_manual_parsed/BRITISH_HONDURAS.txt"
+    },
+    {
+      "colony_name": "DOMINION OF CANADA",
+      "start_line": 4309,
+      "end_line": 7922,
+      "line_count": 3614,
+      "file": "output_3/1888_manual_parsed/DOMINION_OF_CANADA.txt"
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "start_line": 7923,
+      "end_line": 9843,
+      "line_count": 1921,
+      "file": "output_3/1888_manual_parsed/CAPE_OF_GOOD_HOPE.txt"
+    },
+    {
+      "colony_name": "CEYLON",
+      "start_line": 9844,
+      "end_line": 10597,
+      "line_count": 754,
+      "file": "output_3/1888_manual_parsed/CEYLON.txt"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "start_line": 10598,
+      "end_line": 10770,
+      "line_count": 173,
+      "file": "output_3/1888_manual_parsed/FALKLAND_ISLANDS.txt"
+    },
+    {
+      "colony_name": "FIJI",
+      "start_line": 10771,
+      "end_line": 11196,
+      "line_count": 426,
+      "file": "output_3/1888_manual_parsed/FIJI.txt"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "start_line": 11197,
+      "end_line": 11719,
+      "line_count": 523,
+      "file": "output_3/1888_manual_parsed/GIBRALTAR.txt"
+    },
+    {
+      "colony_name": "HELIGOLAND",
+      "start_line": 11720,
+      "end_line": 11842,
+      "line_count": 123,
+      "file": "output_3/1888_manual_parsed/HELIGOLAND.txt"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "start_line": 11843,
+      "end_line": 12206,
+      "line_count": 364,
+      "file": "output_3/1888_manual_parsed/HONG_KONG.txt"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "start_line": 12207,
+      "end_line": 12872,
+      "line_count": 666,
+      "file": "output_3/1888_manual_parsed/JAMAICA.txt"
+    },
+    {
+      "colony_name": "LABUAN",
+      "start_line": 12873,
+      "end_line": 13496,
+      "line_count": 624,
+      "file": "output_3/1888_manual_parsed/LABUAN.txt"
+    },
+    {
+      "colony_name": "LEEWARD ISLANDS - ANTIGUA",
+      "start_line": 13497,
+      "end_line": 13994,
+      "line_count": 498,
+      "file": "output_3/1888_manual_parsed/LEEWARD_ISLANDS___ANTIGUA.txt"
+    },
+    {
+      "colony_name": "LEEWARD ISLANDS - ST. CHRISTOPHER AND NEVIS",
+      "start_line": 13995,
+      "end_line": 14353,
+      "line_count": 359,
+      "file": "output_3/1888_manual_parsed/LEEWARD_ISLANDS___ST._CHRISTOPHER_AND_NEVIS.txt"
+    },
+    {
+      "colony_name": "LEEWARD ISLANDS - VIRGIN ISLANDS",
+      "start_line": 14354,
+      "end_line": 14484,
+      "line_count": 131,
+      "file": "output_3/1888_manual_parsed/LEEWARD_ISLANDS___VIRGIN_ISLANDS.txt"
+    },
+    {
+      "colony_name": "LEEWARD ISLANDS - DOMINICA",
+      "start_line": 14485,
+      "end_line": 15270,
+      "line_count": 786,
+      "file": "output_3/1888_manual_parsed/LEEWARD_ISLANDS___DOMINICA.txt"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "start_line": 15271,
+      "end_line": 16180,
+      "line_count": 910,
+      "file": "output_3/1888_manual_parsed/MAURITIUS.txt"
+    },
+    {
+      "colony_name": "NATAL",
+      "start_line": 16181,
+      "end_line": 16885,
+      "line_count": 705,
+      "file": "output_3/1888_manual_parsed/NATAL.txt"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "start_line": 16886,
+      "end_line": 17872,
+      "line_count": 987,
+      "file": "output_3/1888_manual_parsed/NEWFOUNDLAND.txt"
+    },
+    {
+      "colony_name": "NEW SOUTH WALES",
+      "start_line": 17873,
+      "end_line": 18303,
+      "line_count": 431,
+      "file": "output_3/1888_manual_parsed/NEW_SOUTH_WALES.txt"
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "start_line": 18304,
+      "end_line": 19211,
+      "line_count": 908,
+      "file": "output_3/1888_manual_parsed/NEW_ZEALAND.txt"
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "start_line": 19212,
+      "end_line": 19746,
+      "line_count": 535,
+      "file": "output_3/1888_manual_parsed/QUEENSLAND.txt"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "start_line": 19747,
+      "end_line": 20273,
+      "line_count": 527,
+      "file": "output_3/1888_manual_parsed/ST._HELENA.txt"
+    },
+    {
+      "colony_name": "SOUTH AUSTRALIA",
+      "start_line": 20274,
+      "end_line": 21304,
+      "line_count": 1031,
+      "file": "output_3/1888_manual_parsed/SOUTH_AUSTRALIA.txt"
+    },
+    {
+      "colony_name": "STRAITS SETTLEMENTS",
+      "start_line": 21305,
+      "end_line": 22196,
+      "line_count": 892,
+      "file": "output_3/1888_manual_parsed/STRAITS_SETTLEMENTS.txt"
+    },
+    {
+      "colony_name": "TASMANIA",
+      "start_line": 22197,
+      "end_line": 22611,
+      "line_count": 415,
+      "file": "output_3/1888_manual_parsed/TASMANIA.txt"
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "start_line": 22612,
+      "end_line": 23621,
+      "line_count": 1010,
+      "file": "output_3/1888_manual_parsed/TRINIDAD.txt"
+    },
+    {
+      "colony_name": "VICTORIA",
+      "start_line": 23622,
+      "end_line": 25071,
+      "line_count": 1450,
+      "file": "output_3/1888_manual_parsed/VICTORIA.txt"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "start_line": 25072,
+      "end_line": 25718,
+      "line_count": 647,
+      "file": "output_3/1888_manual_parsed/SIERRA_LEONE.txt"
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "start_line": 25719,
+      "end_line": 25873,
+      "line_count": 155,
+      "file": "output_3/1888_manual_parsed/WESTERN_AUSTRALIA.txt"
+    },
+    {
+      "colony_name": "WINDWARD ISLANDS - GRENADA",
+      "start_line": 25874,
+      "end_line": 26265,
+      "line_count": 392,
+      "file": "output_3/1888_manual_parsed/WINDWARD_ISLANDS___GRENADA.txt"
+    },
+    {
+      "colony_name": "WINDWARD ISLANDS - ST. LUCIA",
+      "start_line": 26266,
+      "end_line": 26579,
+      "line_count": 314,
+      "file": "output_3/1888_manual_parsed/WINDWARD_ISLANDS___ST._LUCIA.txt"
+    },
+    {
+      "colony_name": "WINDWARD ISLANDS - ST. VINCENT",
+      "start_line": 26580,
+      "end_line": 26896,
+      "line_count": 317,
+      "file": "output_3/1888_manual_parsed/WINDWARD_ISLANDS___ST._VINCENT.txt"
+    },
+    {
+      "colony_name": "WINDWARD ISLANDS - TOBAGO",
+      "start_line": 26897,
+      "end_line": 27146,
+      "line_count": 250,
+      "file": "output_3/1888_manual_parsed/WINDWARD_ISLANDS___TOBAGO.txt"
+    },
+    {
+      "colony_name": "ZULULAND",
+      "start_line": 27147,
+      "end_line": 27428,
+      "line_count": 282,
+      "file": "output_3/1888_manual_parsed/ZULULAND.txt"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "start_line": 27429,
+      "end_line": 28032,
+      "line_count": 604,
+      "file": "output_3/1888_manual_parsed/CYPRUS.txt"
+    },
+    {
+      "colony_name": "ASCENSION",
+      "start_line": 28033,
+      "end_line": 40722,
+      "line_count": 12690,
+      "file": "output_3/1888_manual_parsed/ASCENSION.txt"
+    }
+  ]
+}

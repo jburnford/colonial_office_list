@@ -1,0 +1,279 @@
+{
+  "year": 1889,
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1889/olmocr_results.md",
+  "extraction_date": "2025-11-18",
+  "extraction_method": "manual_boundary_identification",
+  "total_colonies": 45,
+  "colonies": [
+    {
+      "colony_name": "BAHAMAS",
+      "start_line": 1366,
+      "end_line": 1714,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/BAHAMAS.txt"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "start_line": 1715,
+      "end_line": 2377,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/BARBADOS.txt"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "start_line": 2378,
+      "end_line": 2477,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/BASUTOLAND.txt"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "start_line": 2478,
+      "end_line": 2819,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/BERMUDA.txt"
+    },
+    {
+      "colony_name": "BRITISH_BECHUANALAND",
+      "start_line": 2820,
+      "end_line": 2997,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/BRITISH_BECHUANALAND.txt"
+    },
+    {
+      "colony_name": "BRITISH_GUIANA",
+      "start_line": 2998,
+      "end_line": 3715,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/BRITISH_GUIANA.txt"
+    },
+    {
+      "colony_name": "BRITISH_HONDURAS",
+      "start_line": 3716,
+      "end_line": 4051,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/BRITISH_HONDURAS.txt"
+    },
+    {
+      "colony_name": "BRITISH_NEW_GUINEA",
+      "start_line": 4052,
+      "end_line": 4101,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/BRITISH_NEW_GUINEA.txt"
+    },
+    {
+      "colony_name": "DOMINION_OF_CANADA",
+      "start_line": 4102,
+      "end_line": 7148,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/DOMINION_OF_CANADA.txt"
+    },
+    {
+      "colony_name": "PRINCE_EDWARD_ISLAND",
+      "start_line": 7149,
+      "end_line": 7478,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/PRINCE_EDWARD_ISLAND.txt"
+    },
+    {
+      "colony_name": "CAPE_OF_GOOD_HOPE",
+      "start_line": 7479,
+      "end_line": 9326,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/CAPE_OF_GOOD_HOPE.txt"
+    },
+    {
+      "colony_name": "CEYLON",
+      "start_line": 9327,
+      "end_line": 10163,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/CEYLON.txt"
+    },
+    {
+      "colony_name": "FALKLAND_ISLANDS",
+      "start_line": 10164,
+      "end_line": 10336,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/FALKLAND_ISLANDS.txt"
+    },
+    {
+      "colony_name": "FIJI",
+      "start_line": 10337,
+      "end_line": 10736,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/FIJI.txt"
+    },
+    {
+      "colony_name": "THE_GAMBIA",
+      "start_line": 10737,
+      "end_line": 10962,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/THE_GAMBIA.txt"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "start_line": 10963,
+      "end_line": 11132,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/GIBRALTAR.txt"
+    },
+    {
+      "colony_name": "THE_GOLD_COAST_COLONY",
+      "start_line": 11133,
+      "end_line": 11494,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/THE_GOLD_COAST_COLONY.txt"
+    },
+    {
+      "colony_name": "HELIGOLAND",
+      "start_line": 11495,
+      "end_line": 11613,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/HELIGOLAND.txt"
+    },
+    {
+      "colony_name": "HONG_KONG",
+      "start_line": 11614,
+      "end_line": 11956,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/HONG_KONG.txt"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "start_line": 11957,
+      "end_line": 12743,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/JAMAICA.txt"
+    },
+    {
+      "colony_name": "LABUAN",
+      "start_line": 12744,
+      "end_line": 12866,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/LABUAN.txt"
+    },
+    {
+      "colony_name": "LAGOS",
+      "start_line": 12867,
+      "end_line": 13194,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/LAGOS.txt"
+    },
+    {
+      "colony_name": "THE_LEEWARD_ISLANDS",
+      "start_line": 13195,
+      "end_line": 14547,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/THE_LEEWARD_ISLANDS.txt"
+    },
+    {
+      "colony_name": "MALTA",
+      "start_line": 14548,
+      "end_line": 14994,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/MALTA.txt"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "start_line": 14995,
+      "end_line": 15831,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/MAURITIUS.txt"
+    },
+    {
+      "colony_name": "SEYCHELLES_ISLANDS",
+      "start_line": 15832,
+      "end_line": 15915,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/SEYCHELLES_ISLANDS.txt"
+    },
+    {
+      "colony_name": "RODRIGUES",
+      "start_line": 15916,
+      "end_line": 15956,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/RODRIGUES.txt"
+    },
+    {
+      "colony_name": "NATAL",
+      "start_line": 15957,
+      "end_line": 16693,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/NATAL.txt"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "start_line": 16694,
+      "end_line": 17147,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/NEWFOUNDLAND.txt"
+    },
+    {
+      "colony_name": "NEW_SOUTH_WALES",
+      "start_line": 17148,
+      "end_line": 18079,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/NEW_SOUTH_WALES.txt"
+    },
+    {
+      "colony_name": "NEW_ZEALAND",
+      "start_line": 18080,
+      "end_line": 18928,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/NEW_ZEALAND.txt"
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "start_line": 19177,
+      "end_line": 19461,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/QUEENSLAND.txt"
+    },
+    {
+      "colony_name": "ST_HELENA",
+      "start_line": 19462,
+      "end_line": 19639,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/ST_HELENA.txt"
+    },
+    {
+      "colony_name": "SIERRA_LEONE",
+      "start_line": 19640,
+      "end_line": 20039,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/SIERRA_LEONE.txt"
+    },
+    {
+      "colony_name": "SOUTH_AUSTRALIA",
+      "start_line": 20040,
+      "end_line": 21040,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/SOUTH_AUSTRALIA.txt"
+    },
+    {
+      "colony_name": "STRAITS_SETTLEMENTS",
+      "start_line": 21041,
+      "end_line": 21481,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/STRAITS_SETTLEMENTS.txt"
+    },
+    {
+      "colony_name": "TASMANIA",
+      "start_line": 21482,
+      "end_line": 22247,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/TASMANIA.txt"
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "start_line": 22250,
+      "end_line": 23272,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/TRINIDAD.txt"
+    },
+    {
+      "colony_name": "TOBAGO",
+      "start_line": 23273,
+      "end_line": 23502,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/TOBAGO.txt"
+    },
+    {
+      "colony_name": "TURKS_AND_CAICOS_ISLANDS",
+      "start_line": 23503,
+      "end_line": 23680,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/TURKS_AND_CAICOS_ISLANDS.txt"
+    },
+    {
+      "colony_name": "VICTORIA",
+      "start_line": 23681,
+      "end_line": 24989,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/VICTORIA.txt"
+    },
+    {
+      "colony_name": "WESTERN_AUSTRALIA",
+      "start_line": 24990,
+      "end_line": 25556,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/WESTERN_AUSTRALIA.txt"
+    },
+    {
+      "colony_name": "THE_WINDWARD_ISLANDS",
+      "start_line": 25557,
+      "end_line": 26635,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/THE_WINDWARD_ISLANDS.txt"
+    },
+    {
+      "colony_name": "ZULULAND",
+      "start_line": 26636,
+      "end_line": 26908,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/ZULULAND.txt"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "start_line": 26909,
+      "end_line": 27594,
+      "file": "/home/user/colonial_office_list/output_3/1889_manual_parsed/CYPRUS.txt"
+    }
+  ]
+}

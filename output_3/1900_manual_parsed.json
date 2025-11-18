@@ -1,0 +1,503 @@
+{
+  "year": 1900,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1900/olmocr_results.md",
+  "extraction_method": "manual_verification",
+  "total_colonies": 55,
+  "colonies": [
+    {
+      "colony_name": "BAHAMAS",
+      "clean_name": "BAHAMAS",
+      "filename": "BAHAMAS.txt",
+      "start_line": 1937,
+      "end_line": 2241,
+      "line_count": 305,
+      "notes": ""
+    },
+    {
+      "colony_name": "BARBADOS",
+      "clean_name": "BARBADOS",
+      "filename": "BARBADOS.txt",
+      "start_line": 2242,
+      "end_line": 2807,
+      "line_count": 566,
+      "notes": ""
+    },
+    {
+      "colony_name": "BERMUDA",
+      "clean_name": "BERMUDA",
+      "filename": "BERMUDA.txt",
+      "start_line": 2808,
+      "end_line": 3170,
+      "line_count": 363,
+      "notes": ""
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "clean_name": "BRITISH_GUIANA",
+      "filename": "BRITISH_GUIANA.txt",
+      "start_line": 3171,
+      "end_line": 3986,
+      "line_count": 816,
+      "notes": ""
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "clean_name": "BRITISH_HONDURAS",
+      "filename": "BRITISH_HONDURAS.txt",
+      "start_line": 3987,
+      "end_line": 4346,
+      "line_count": 360,
+      "notes": ""
+    },
+    {
+      "colony_name": "BRITISH NEW GUINEA",
+      "clean_name": "BRITISH_NEW_GUINEA",
+      "filename": "BRITISH_NEW_GUINEA.txt",
+      "start_line": 4347,
+      "end_line": 4483,
+      "line_count": 137,
+      "notes": ""
+    },
+    {
+      "colony_name": "DOMINION OF CANADA",
+      "clean_name": "DOMINION_OF_CANADA",
+      "filename": "DOMINION_OF_CANADA.txt",
+      "start_line": 4484,
+      "end_line": 7250,
+      "line_count": 2767,
+      "notes": "Includes BRITISH COLUMBIA, MANITOBA AND KEWATIN as provinces"
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "clean_name": "CAPE_OF_GOOD_HOPE",
+      "filename": "CAPE_OF_GOOD_HOPE.txt",
+      "start_line": 7251,
+      "end_line": 9803,
+      "line_count": 2553,
+      "notes": ""
+    },
+    {
+      "colony_name": "CEYLON",
+      "clean_name": "CEYLON",
+      "filename": "CEYLON.txt",
+      "start_line": 9804,
+      "end_line": 10608,
+      "line_count": 805,
+      "notes": ""
+    },
+    {
+      "colony_name": "CYPRUS",
+      "clean_name": "CYPRUS",
+      "filename": "CYPRUS.txt",
+      "start_line": 10609,
+      "end_line": 11104,
+      "line_count": 496,
+      "notes": ""
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "clean_name": "FALKLAND_ISLANDS",
+      "filename": "FALKLAND_ISLANDS.txt",
+      "start_line": 11105,
+      "end_line": 11291,
+      "line_count": 187,
+      "notes": ""
+    },
+    {
+      "colony_name": "FIJI",
+      "clean_name": "FIJI",
+      "filename": "FIJI.txt",
+      "start_line": 11292,
+      "end_line": 11836,
+      "line_count": 545,
+      "notes": ""
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "clean_name": "GAMBIA",
+      "filename": "GAMBIA.txt",
+      "start_line": 11837,
+      "end_line": 12038,
+      "line_count": 202,
+      "notes": ""
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "clean_name": "GIBRALTAR",
+      "filename": "GIBRALTAR.txt",
+      "start_line": 12039,
+      "end_line": 12309,
+      "line_count": 271,
+      "notes": ""
+    },
+    {
+      "colony_name": "THE GOLD COAST COLONY",
+      "clean_name": "GOLD_COAST_COLONY",
+      "filename": "GOLD_COAST_COLONY.txt",
+      "start_line": 12310,
+      "end_line": 12896,
+      "line_count": 587,
+      "notes": "Variant: GOLD COAST"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "clean_name": "HONG_KONG",
+      "filename": "HONG_KONG.txt",
+      "start_line": 12897,
+      "end_line": 13276,
+      "line_count": 380,
+      "notes": ""
+    },
+    {
+      "colony_name": "JAMAICA",
+      "clean_name": "JAMAICA",
+      "filename": "JAMAICA.txt",
+      "start_line": 13277,
+      "end_line": 14024,
+      "line_count": 748,
+      "notes": ""
+    },
+    {
+      "colony_name": "LABUAN",
+      "clean_name": "LABUAN",
+      "filename": "LABUAN.txt",
+      "start_line": 14025,
+      "end_line": 14175,
+      "line_count": 151,
+      "notes": ""
+    },
+    {
+      "colony_name": "LAGOS",
+      "clean_name": "LAGOS",
+      "filename": "LAGOS.txt",
+      "start_line": 14176,
+      "end_line": 14652,
+      "line_count": 477,
+      "notes": ""
+    },
+    {
+      "colony_name": "THE LEEWARD ISLANDS",
+      "clean_name": "LEEWARD_ISLANDS",
+      "filename": "LEEWARD_ISLANDS.txt",
+      "start_line": 14653,
+      "end_line": 16458,
+      "line_count": 1806,
+      "notes": "Variant: LEEWARD ISLANDS"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "clean_name": "MAURITIUS",
+      "filename": "MAURITIUS.txt",
+      "start_line": 16459,
+      "end_line": 17300,
+      "line_count": 842,
+      "notes": ""
+    },
+    {
+      "colony_name": "NATAL",
+      "clean_name": "NATAL",
+      "filename": "NATAL.txt",
+      "start_line": 17301,
+      "end_line": 17917,
+      "line_count": 617,
+      "notes": ""
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "clean_name": "NEWFOUNDLAND",
+      "filename": "NEWFOUNDLAND.txt",
+      "start_line": 17918,
+      "end_line": 18283,
+      "line_count": 366,
+      "notes": ""
+    },
+    {
+      "colony_name": "NEW SOUTH WALES",
+      "clean_name": "NEW_SOUTH_WALES",
+      "filename": "NEW_SOUTH_WALES.txt",
+      "start_line": 18284,
+      "end_line": 19425,
+      "line_count": 1142,
+      "notes": ""
+    },
+    {
+      "colony_name": "PITCAIRN ISLAND",
+      "clean_name": "PITCAIRN_ISLAND",
+      "filename": "PITCAIRN_ISLAND.txt",
+      "start_line": 19426,
+      "end_line": 19447,
+      "line_count": 22,
+      "notes": "Short section"
+    },
+    {
+      "colony_name": "NORFOLK ISLAND",
+      "clean_name": "NORFOLK_ISLAND",
+      "filename": "NORFOLK_ISLAND.txt",
+      "start_line": 19448,
+      "end_line": 19470,
+      "line_count": 23,
+      "notes": "Short section"
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "clean_name": "NEW_ZEALAND",
+      "filename": "NEW_ZEALAND.txt",
+      "start_line": 19471,
+      "end_line": 20148,
+      "line_count": 678,
+      "notes": ""
+    },
+    {
+      "colony_name": "NORTHERN NIGERIA",
+      "clean_name": "NORTHERN_NIGERIA",
+      "filename": "NORTHERN_NIGERIA.txt",
+      "start_line": 20149,
+      "end_line": 20251,
+      "line_count": 103,
+      "notes": ""
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "clean_name": "QUEENSLAND",
+      "filename": "QUEENSLAND.txt",
+      "start_line": 20252,
+      "end_line": 20940,
+      "line_count": 689,
+      "notes": ""
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "clean_name": "SEYCHELLES",
+      "filename": "SEYCHELLES.txt",
+      "start_line": 20941,
+      "end_line": 21137,
+      "line_count": 197,
+      "notes": ""
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "clean_name": "SIERRA_LEONE",
+      "filename": "SIERRA_LEONE.txt",
+      "start_line": 21138,
+      "end_line": 21734,
+      "line_count": 597,
+      "notes": ""
+    },
+    {
+      "colony_name": "SOUTH AFRICA",
+      "clean_name": "SOUTH_AFRICA",
+      "filename": "SOUTH_AFRICA.txt",
+      "start_line": 21735,
+      "end_line": 21763,
+      "line_count": 29,
+      "notes": "Short section"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "clean_name": "BASUTOLAND",
+      "filename": "BASUTOLAND.txt",
+      "start_line": 21764,
+      "end_line": 21952,
+      "line_count": 189,
+      "notes": ""
+    },
+    {
+      "colony_name": "RHODESIA",
+      "clean_name": "RHODESIA",
+      "filename": "RHODESIA.txt",
+      "start_line": 21953,
+      "end_line": 22058,
+      "line_count": 106,
+      "notes": ""
+    },
+    {
+      "colony_name": "SOUTH AUSTRALIA",
+      "clean_name": "SOUTH_AUSTRALIA",
+      "filename": "SOUTH_AUSTRALIA.txt",
+      "start_line": 22059,
+      "end_line": 22808,
+      "line_count": 750,
+      "notes": ""
+    },
+    {
+      "colony_name": "SOUTHERN NIGERIA",
+      "clean_name": "SOUTHERN_NIGERIA",
+      "filename": "SOUTHERN_NIGERIA.txt",
+      "start_line": 22809,
+      "end_line": 23027,
+      "line_count": 219,
+      "notes": ""
+    },
+    {
+      "colony_name": "STRAITS SETTLEMENTS",
+      "clean_name": "STRAITS_SETTLEMENTS",
+      "filename": "STRAITS_SETTLEMENTS.txt",
+      "start_line": 23028,
+      "end_line": 23690,
+      "line_count": 663,
+      "notes": ""
+    },
+    {
+      "colony_name": "TASMANIA",
+      "clean_name": "TASMANIA",
+      "filename": "TASMANIA.txt",
+      "start_line": 23691,
+      "end_line": 24240,
+      "line_count": 550,
+      "notes": ""
+    },
+    {
+      "colony_name": "TRINIDAD AND TOBAGO",
+      "clean_name": "TRINIDAD_AND_TOBAGO",
+      "filename": "TRINIDAD_AND_TOBAGO.txt",
+      "start_line": 24241,
+      "end_line": 25326,
+      "line_count": 1086,
+      "notes": "Includes TRINIDAD and TOBAGO subsections"
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "clean_name": "TURKS_AND_CAICOS_ISLANDS",
+      "filename": "TURKS_AND_CAICOS_ISLANDS.txt",
+      "start_line": 25327,
+      "end_line": 25516,
+      "line_count": 190,
+      "notes": ""
+    },
+    {
+      "colony_name": "VICTORIA",
+      "clean_name": "VICTORIA",
+      "filename": "VICTORIA.txt",
+      "start_line": 25517,
+      "end_line": 26308,
+      "line_count": 792,
+      "notes": ""
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "clean_name": "WESTERN_AUSTRALIA",
+      "filename": "WESTERN_AUSTRALIA.txt",
+      "start_line": 26309,
+      "end_line": 27037,
+      "line_count": 729,
+      "notes": ""
+    },
+    {
+      "colony_name": "WESTERN PACIFIC",
+      "clean_name": "WESTERN_PACIFIC",
+      "filename": "WESTERN_PACIFIC.txt",
+      "start_line": 27038,
+      "end_line": 27195,
+      "line_count": 158,
+      "notes": ""
+    },
+    {
+      "colony_name": "THE WINDWARD ISLANDS",
+      "clean_name": "WINDWARD_ISLANDS",
+      "filename": "WINDWARD_ISLANDS.txt",
+      "start_line": 27196,
+      "end_line": 27302,
+      "line_count": 107,
+      "notes": "Variant: WINDWARD ISLANDS"
+    },
+    {
+      "colony_name": "GRENADE",
+      "clean_name": "GRENADE",
+      "filename": "GRENADE.txt",
+      "start_line": 27303,
+      "end_line": 28207,
+      "line_count": 905,
+      "notes": "OCR variant of GRENADA"
+    },
+    {
+      "colony_name": "ZANZIBAR",
+      "clean_name": "ZANZIBAR",
+      "filename": "ZANZIBAR.txt",
+      "start_line": 28208,
+      "end_line": 28220,
+      "line_count": 13,
+      "notes": "Short section"
+    },
+    {
+      "colony_name": "EAST AFRICA PROTECTORATE",
+      "clean_name": "EAST_AFRICA_PROTECTORATE",
+      "filename": "EAST_AFRICA_PROTECTORATE.txt",
+      "start_line": 28221,
+      "end_line": 28239,
+      "line_count": 19,
+      "notes": "Short section"
+    },
+    {
+      "colony_name": "UGANDA",
+      "clean_name": "UGANDA",
+      "filename": "UGANDA.txt",
+      "start_line": 28240,
+      "end_line": 28261,
+      "line_count": 22,
+      "notes": "Short section"
+    },
+    {
+      "colony_name": "BRUNEI",
+      "clean_name": "BRUNEI",
+      "filename": "BRUNEI.txt",
+      "start_line": 28262,
+      "end_line": 28271,
+      "line_count": 10,
+      "notes": "Short section"
+    },
+    {
+      "colony_name": "NORTH BORNEO",
+      "clean_name": "NORTH_BORNEO",
+      "filename": "NORTH_BORNEO.txt",
+      "start_line": 28272,
+      "end_line": 28509,
+      "line_count": 238,
+      "notes": ""
+    },
+    {
+      "colony_name": "SARAWAK",
+      "clean_name": "SARAWAK",
+      "filename": "SARAWAK.txt",
+      "start_line": 28510,
+      "end_line": 28670,
+      "line_count": 161,
+      "notes": ""
+    },
+    {
+      "colony_name": "ADEN",
+      "clean_name": "ADEN",
+      "filename": "ADEN.txt",
+      "start_line": 28671,
+      "end_line": 28682,
+      "line_count": 12,
+      "notes": "Short section"
+    },
+    {
+      "colony_name": "ASCENSION",
+      "clean_name": "ASCENSION",
+      "filename": "ASCENSION.txt",
+      "start_line": 28683,
+      "end_line": 28688,
+      "line_count": 6,
+      "notes": "Very short section"
+    },
+    {
+      "colony_name": "TRISTAN D'ACUNHA",
+      "clean_name": "TRISTAN_D_ACUNHA",
+      "filename": "TRISTAN_D_ACUNHA.txt",
+      "start_line": 28689,
+      "end_line": 28692,
+      "line_count": 4,
+      "notes": "Very short section"
+    },
+    {
+      "colony_name": "WEI-HAI-WEI",
+      "clean_name": "WEI_HAI_WEI",
+      "filename": "WEI_HAI_WEI.txt",
+      "start_line": 28693,
+      "end_line": 28717,
+      "line_count": 25,
+      "notes": "Short section"
+    }
+  ]
+}

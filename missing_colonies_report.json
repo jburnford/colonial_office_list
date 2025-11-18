@@ -1,0 +1,1801 @@
+{
+  "missing_years": [
+    1868,
+    1869,
+    1870,
+    1871,
+    1872,
+    1873,
+    1874,
+    1875,
+    1876,
+    1878,
+    1879,
+    1881,
+    1882,
+    1884,
+    1885,
+    1887,
+    1891,
+    1892,
+    1893,
+    1895,
+    1901,
+    1902,
+    1903,
+    1904,
+    1912,
+    1913,
+    1914,
+    1916,
+    1926,
+    1935,
+    1938,
+    1939,
+    1940,
+    1941,
+    1942,
+    1943,
+    1944,
+    1945,
+    1947
+  ],
+  "colonies_with_gaps": [
+    {
+      "colony": "ST HELENA",
+      "first_year": 1883,
+      "last_year": 1961,
+      "years_found": 2,
+      "years_missing": 51,
+      "missing_years": [
+        "1886",
+        "1888-1890",
+        "1894",
+        "1896-1900",
+        "1905-1911",
+        "1915",
+        "1917-1925",
+        "1927-1934",
+        "1936-1937",
+        "1946",
+        "1948-1960"
+      ]
+    },
+    {
+      "colony": "GRENADA",
+      "first_year": 1867,
+      "last_year": 1966,
+      "years_found": 15,
+      "years_missing": 46,
+      "missing_years": [
+        "1877",
+        "1880",
+        "1886",
+        "1889-1890",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1908-1911",
+        "1915",
+        "1917-1923",
+        "1929-1930",
+        "1933",
+        "1937",
+        "1948-1965"
+      ]
+    },
+    {
+      "colony": "GRENADE",
+      "first_year": 1908,
+      "last_year": 1966,
+      "years_found": 2,
+      "years_missing": 42,
+      "missing_years": [
+        "1909-1911",
+        "1915",
+        "1917-1925",
+        "1927-1934",
+        "1936-1937",
+        "1946",
+        "1948-1965"
+      ]
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_year": 1867,
+      "last_year": 1966,
+      "years_found": 19,
+      "years_missing": 42,
+      "missing_years": [
+        "1877",
+        "1880",
+        "1883",
+        "1886",
+        "1888-1890",
+        "1894",
+        "1896-1900",
+        "1906-1907",
+        "1915",
+        "1917",
+        "1919-1925",
+        "1929",
+        "1931",
+        "1946",
+        "1948-1962"
+      ]
+    },
+    {
+      "colony": "ANTIGUA",
+      "first_year": 1867,
+      "last_year": 1966,
+      "years_found": 23,
+      "years_missing": 38,
+      "missing_years": [
+        "1877",
+        "1880",
+        "1883",
+        "1886",
+        "1888-1890",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1908-1909",
+        "1915",
+        "1919-1922",
+        "1925",
+        "1946",
+        "1948-1962"
+      ]
+    },
+    {
+      "colony": "GOLD COAST",
+      "first_year": 1867,
+      "last_year": 1949,
+      "years_found": 6,
+      "years_missing": 38,
+      "missing_years": [
+        "1877",
+        "1880",
+        "1883",
+        "1886",
+        "1888-1890",
+        "1894",
+        "1896-1900",
+        "1905-1908",
+        "1910-1911",
+        "1915",
+        "1918-1925",
+        "1927-1934",
+        "1936-1937"
+      ]
+    },
+    {
+      "colony": "CABINET",
+      "first_year": 1910,
+      "last_year": 1964,
+      "years_found": 3,
+      "years_missing": 37,
+      "missing_years": [
+        "1911",
+        "1915",
+        "1917-1925",
+        "1927-1934",
+        "1936-1937",
+        "1946",
+        "1948-1962"
+      ]
+    },
+    {
+      "colony": "EXECUTIVE COUNCIL",
+      "first_year": 1907,
+      "last_year": 1966,
+      "years_found": 8,
+      "years_missing": 37,
+      "missing_years": [
+        "1910-1911",
+        "1915",
+        "1917-1925",
+        "1927-1934",
+        "1936-1937",
+        "1946",
+        "1948-1961"
+      ]
+    },
+    {
+      "colony": "FEDERAL COUNCIL",
+      "first_year": 1910,
+      "last_year": 1966,
+      "years_found": 5,
+      "years_missing": 37,
+      "missing_years": [
+        "1915",
+        "1917-1925",
+        "1927-1934",
+        "1936-1937",
+        "1946",
+        "1948-1963"
+      ]
+    },
+    {
+      "colony": "BECHUANALAND PROTECTORATE",
+      "first_year": 1905,
+      "last_year": 1966,
+      "years_found": 11,
+      "years_missing": 36,
+      "missing_years": [
+        "1906",
+        "1908",
+        "1918-1925",
+        "1927-1934",
+        "1936-1937",
+        "1946",
+        "1948-1961",
+        "1965"
+      ]
+    },
+    {
+      "colony": "GRENA DA",
+      "first_year": 1910,
+      "last_year": 1964,
+      "years_found": 4,
+      "years_missing": 36,
+      "missing_years": [
+        "1915",
+        "1917-1925",
+        "1927-1934",
+        "1936-1937",
+        "1946",
+        "1948-1962"
+      ]
+    },
+    {
+      "colony": "VIRGIN ISLANDS",
+      "first_year": 1905,
+      "last_year": 1966,
+      "years_found": 11,
+      "years_missing": 36,
+      "missing_years": [
+        "1906-1907",
+        "1909-1910",
+        "1915",
+        "1918-1925",
+        "1927-1934",
+        "1936-1937",
+        "1946",
+        "1948",
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "BARBADOS",
+      "first_year": 1867,
+      "last_year": 1966,
+      "years_found": 26,
+      "years_missing": 35,
+      "missing_years": [
+        "1877",
+        "1880",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1919-1923",
+        "1925",
+        "1928-1930",
+        "1932",
+        "1934",
+        "1936-1937",
+        "1950-1962"
+      ]
+    },
+    {
+      "colony": "NYASALAND",
+      "first_year": 1907,
+      "last_year": 1961,
+      "years_found": 5,
+      "years_missing": 35,
+      "missing_years": [
+        "1908-1911",
+        "1915",
+        "1917-1925",
+        "1927-1934",
+        "1936-1937",
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "ST. HELENA",
+      "first_year": 1877,
+      "last_year": 1966,
+      "years_found": 26,
+      "years_missing": 34,
+      "missing_years": [
+        "1880",
+        "1883",
+        "1889-1890",
+        "1894",
+        "1896-1900",
+        "1905-1911",
+        "1915",
+        "1919-1922",
+        "1950-1961"
+      ]
+    },
+    {
+      "colony": "CANADA",
+      "first_year": 1867,
+      "last_year": 1936,
+      "years_found": 7,
+      "years_missing": 33,
+      "missing_years": [
+        "1877",
+        "1880",
+        "1886",
+        "1888-1890",
+        "1894",
+        "1896-1900",
+        "1905-1911",
+        "1915",
+        "1917-1925",
+        "1927-1929",
+        "1931"
+      ]
+    },
+    {
+      "colony": "DOMINICA",
+      "first_year": 1867,
+      "last_year": 1966,
+      "years_found": 28,
+      "years_missing": 33,
+      "missing_years": [
+        "1877",
+        "1880",
+        "1883",
+        "1886",
+        "1888-1890",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1915",
+        "1919-1922",
+        "1950-1963"
+      ]
+    },
+    {
+      "colony": "NYASALAND PROTECTORATE",
+      "first_year": 1908,
+      "last_year": 1964,
+      "years_found": 9,
+      "years_missing": 33,
+      "missing_years": [
+        "1918-1925",
+        "1927-1934",
+        "1936-1937",
+        "1946",
+        "1948-1961"
+      ]
+    },
+    {
+      "colony": "TURKS AND CAICOS ISLANDS",
+      "first_year": 1883,
+      "last_year": 1966,
+      "years_found": 26,
+      "years_missing": 32,
+      "missing_years": [
+        "1894",
+        "1896-1900",
+        "1906",
+        "1908-1909",
+        "1919-1922",
+        "1927",
+        "1934",
+        "1936",
+        "1946",
+        "1948",
+        "1950-1962",
+        "1965"
+      ]
+    },
+    {
+      "colony": "SARAWAK",
+      "first_year": 1917,
+      "last_year": 1963,
+      "years_found": 6,
+      "years_missing": 30,
+      "missing_years": [
+        "1918-1925",
+        "1927-1934",
+        "1936-1937",
+        "1950-1960",
+        "1962"
+      ]
+    },
+    {
+      "colony": "MALTA",
+      "first_year": 1867,
+      "last_year": 1961,
+      "years_found": 27,
+      "years_missing": 29,
+      "missing_years": [
+        "1877",
+        "1888",
+        "1890",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1919-1922",
+        "1927-1928",
+        "1932",
+        "1937",
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "SEYCHELLES",
+      "first_year": 1877,
+      "last_year": 1966,
+      "years_found": 31,
+      "years_missing": 29,
+      "missing_years": [
+        "1880",
+        "1883",
+        "1886",
+        "1888-1890",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1919-1923",
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "WINDWARD ISLANDS",
+      "first_year": 1877,
+      "last_year": 1949,
+      "years_found": 14,
+      "years_missing": 29,
+      "missing_years": [
+        "1880",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1909",
+        "1911",
+        "1917-1925",
+        "1927-1934",
+        "1936-1937"
+      ]
+    },
+    {
+      "colony": "BASUTOLAND",
+      "first_year": 1888,
+      "last_year": 1966,
+      "years_found": 28,
+      "years_missing": 28,
+      "missing_years": [
+        "1894",
+        "1896-1900",
+        "1906",
+        "1919-1923",
+        "1929",
+        "1946",
+        "1948-1961"
+      ]
+    },
+    {
+      "colony": "LEEWARD ISLANDS",
+      "first_year": 1877,
+      "last_year": 1949,
+      "years_found": 15,
+      "years_missing": 28,
+      "missing_years": [
+        "1880",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1910",
+        "1917-1925",
+        "1927-1934",
+        "1936-1937"
+      ]
+    },
+    {
+      "colony": "TOBAGO",
+      "first_year": 1867,
+      "last_year": 1932,
+      "years_found": 10,
+      "years_missing": 27,
+      "missing_years": [
+        "1877",
+        "1880",
+        "1886",
+        "1888-1890",
+        "1894",
+        "1896-1900",
+        "1905-1906",
+        "1908",
+        "1917",
+        "1919-1925",
+        "1927-1929",
+        "1931"
+      ]
+    },
+    {
+      "colony": "HONG KONG",
+      "first_year": 1877,
+      "last_year": 1966,
+      "years_found": 34,
+      "years_missing": 26,
+      "missing_years": [
+        "1880",
+        "1894",
+        "1896-1900",
+        "1905-1906",
+        "1919-1922",
+        "1934",
+        "1950-1960",
+        "1964"
+      ]
+    },
+    {
+      "colony": "GUIANA",
+      "first_year": 1877,
+      "last_year": 1966,
+      "years_found": 35,
+      "years_missing": 25,
+      "missing_years": [
+        "1880",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1919-1922",
+        "1924",
+        "1950-1960",
+        "1964"
+      ]
+    },
+    {
+      "colony": "BERMUDA",
+      "first_year": 1883,
+      "last_year": 1966,
+      "years_found": 34,
+      "years_missing": 24,
+      "missing_years": [
+        "1894",
+        "1896-1900",
+        "1906",
+        "1919-1922",
+        "1924",
+        "1950-1960",
+        "1965"
+      ]
+    },
+    {
+      "colony": "FALKLAND ISLANDS",
+      "first_year": 1877,
+      "last_year": 1961,
+      "years_found": 31,
+      "years_missing": 24,
+      "missing_years": [
+        "1880",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1908",
+        "1919-1922",
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "FIJI",
+      "first_year": 1877,
+      "last_year": 1966,
+      "years_found": 36,
+      "years_missing": 24,
+      "missing_years": [
+        "1890",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1919-1922",
+        "1950-1960",
+        "1962"
+      ]
+    },
+    {
+      "colony": "MAURITIUS",
+      "first_year": 1867,
+      "last_year": 1966,
+      "years_found": 37,
+      "years_missing": 24,
+      "missing_years": [
+        "1894",
+        "1896-1900",
+        "1906",
+        "1909",
+        "1919-1923",
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "SIERRA LEONE",
+      "first_year": 1867,
+      "last_year": 1962,
+      "years_found": 33,
+      "years_missing": 24,
+      "missing_years": [
+        "1888",
+        "1890",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1919-1922",
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "GAMBIA",
+      "first_year": 1867,
+      "last_year": 1965,
+      "years_found": 37,
+      "years_missing": 23,
+      "missing_years": [
+        "1894",
+        "1896-1900",
+        "1905-1906",
+        "1919-1922",
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "HONDURAS",
+      "first_year": 1867,
+      "last_year": 1966,
+      "years_found": 38,
+      "years_missing": 23,
+      "missing_years": [
+        "1880",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1919-1922",
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "SINGAPORE",
+      "first_year": 1905,
+      "last_year": 1949,
+      "years_found": 7,
+      "years_missing": 23,
+      "missing_years": [
+        "1906-1909",
+        "1917-1925",
+        "1927-1934",
+        "1936-1937"
+      ]
+    },
+    {
+      "colony": "GIBRALTAR",
+      "first_year": 1867,
+      "last_year": 1966,
+      "years_found": 39,
+      "years_missing": 22,
+      "missing_years": [
+        "1894",
+        "1896-1900",
+        "1906",
+        "1919-1922",
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "CAPE OF GOOD HOPE",
+      "first_year": 1877,
+      "last_year": 1937,
+      "years_found": 19,
+      "years_missing": 21,
+      "missing_years": [
+        "1880",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1911",
+        "1915",
+        "1917-1922",
+        "1929-1931",
+        "1933",
+        "1936"
+      ]
+    },
+    {
+      "colony": "DOMINION OF CANADA",
+      "first_year": 1877,
+      "last_year": 1937,
+      "years_found": 19,
+      "years_missing": 21,
+      "missing_years": [
+        "1880",
+        "1883",
+        "1894",
+        "1896-1900",
+        "1905-1906",
+        "1919-1925",
+        "1927-1930"
+      ]
+    },
+    {
+      "colony": "NORTHERN RHODESIA",
+      "first_year": 1918,
+      "last_year": 1964,
+      "years_found": 15,
+      "years_missing": 21,
+      "missing_years": [
+        "1919-1923",
+        "1929-1930",
+        "1932",
+        "1934",
+        "1936",
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "ST. LUCIA",
+      "first_year": 1917,
+      "last_year": 1966,
+      "years_found": 18,
+      "years_missing": 21,
+      "missing_years": [
+        "1918-1922",
+        "1932",
+        "1950-1964"
+      ]
+    },
+    {
+      "colony": "TRINIDAD",
+      "first_year": 1867,
+      "last_year": 1930,
+      "years_found": 14,
+      "years_missing": 21,
+      "missing_years": [
+        "1889-1890",
+        "1894",
+        "1896-1900",
+        "1905-1906",
+        "1915",
+        "1917-1923",
+        "1925",
+        "1927-1928"
+      ]
+    },
+    {
+      "colony": "NATAL",
+      "first_year": 1867,
+      "last_year": 1928,
+      "years_found": 13,
+      "years_missing": 20,
+      "missing_years": [
+        "1889",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1908-1909",
+        "1911",
+        "1915",
+        "1917-1922",
+        "1924-1925"
+      ]
+    },
+    {
+      "colony": "NEW ZEALAND",
+      "first_year": 1877,
+      "last_year": 1937,
+      "years_found": 20,
+      "years_missing": 20,
+      "missing_years": [
+        "1880",
+        "1889",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1918-1925",
+        "1927-1929"
+      ]
+    },
+    {
+      "colony": "QUEENSLAND",
+      "first_year": 1867,
+      "last_year": 1928,
+      "years_found": 13,
+      "years_missing": 20,
+      "missing_years": [
+        "1894",
+        "1896-1900",
+        "1906",
+        "1908-1909",
+        "1911",
+        "1915",
+        "1917-1923",
+        "1925",
+        "1927"
+      ]
+    },
+    {
+      "colony": "SWAZILAND",
+      "first_year": 1907,
+      "last_year": 1965,
+      "years_found": 24,
+      "years_missing": 20,
+      "missing_years": [
+        "1919-1922",
+        "1929",
+        "1946",
+        "1948-1961"
+      ]
+    },
+    {
+      "colony": "TRINIDAD AND TOBAGO",
+      "first_year": 1889,
+      "last_year": 1949,
+      "years_found": 18,
+      "years_missing": 20,
+      "missing_years": [
+        "1894",
+        "1896-1900",
+        "1906-1907",
+        "1909-1910",
+        "1915",
+        "1918-1922",
+        "1924",
+        "1929-1930",
+        "1932"
+      ]
+    },
+    {
+      "colony": "ADEN",
+      "first_year": 1917,
+      "last_year": 1966,
+      "years_found": 20,
+      "years_missing": 19,
+      "missing_years": [
+        "1919-1922",
+        "1948-1962"
+      ]
+    },
+    {
+      "colony": "CAYMAN ISLANDS",
+      "first_year": 1910,
+      "last_year": 1966,
+      "years_found": 23,
+      "years_missing": 19,
+      "missing_years": [
+        "1911",
+        "1915",
+        "1919-1922",
+        "1950-1962"
+      ]
+    },
+    {
+      "colony": "JAMAICA",
+      "first_year": 1867,
+      "last_year": 1949,
+      "years_found": 25,
+      "years_missing": 19,
+      "missing_years": [
+        "1894",
+        "1896-1900",
+        "1906",
+        "1919-1922",
+        "1924-1925",
+        "1928-1930",
+        "1932-1934"
+      ]
+    },
+    {
+      "colony": "TASMANIA",
+      "first_year": 1867,
+      "last_year": 1928,
+      "years_found": 14,
+      "years_missing": 19,
+      "missing_years": [
+        "1889",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1909",
+        "1915",
+        "1917-1923",
+        "1925",
+        "1927"
+      ]
+    },
+    {
+      "colony": "VICTORIA",
+      "first_year": 1867,
+      "last_year": 1928,
+      "years_found": 14,
+      "years_missing": 19,
+      "missing_years": [
+        "1889",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1909",
+        "1915",
+        "1917-1923",
+        "1925",
+        "1927"
+      ]
+    },
+    {
+      "colony": "WESTERN AUSTRALIA",
+      "first_year": 1877,
+      "last_year": 1924,
+      "years_found": 10,
+      "years_missing": 19,
+      "missing_years": [
+        "1880",
+        "1894",
+        "1896-1900",
+        "1905-1906",
+        "1909",
+        "1911",
+        "1915",
+        "1917-1923"
+      ]
+    },
+    {
+      "colony": "KENYA",
+      "first_year": 1927,
+      "last_year": 1964,
+      "years_found": 10,
+      "years_missing": 18,
+      "missing_years": [
+        "1928-1930",
+        "1932-1933",
+        "1936-1937",
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "LABUAN",
+      "first_year": 1867,
+      "last_year": 1936,
+      "years_found": 22,
+      "years_missing": 18,
+      "missing_years": [
+        "1894",
+        "1896-1900",
+        "1906",
+        "1919-1922",
+        "1925",
+        "1927-1930",
+        "1933-1934"
+      ]
+    },
+    {
+      "colony": "ST. VINCENT",
+      "first_year": 1917,
+      "last_year": 1966,
+      "years_found": 21,
+      "years_missing": 18,
+      "missing_years": [
+        "1919-1922",
+        "1931",
+        "1950-1962"
+      ]
+    },
+    {
+      "colony": "STRAITS SETTLEMENTS",
+      "first_year": 1877,
+      "last_year": 1936,
+      "years_found": 22,
+      "years_missing": 17,
+      "missing_years": [
+        "1880",
+        "1889",
+        "1894",
+        "1896-1900",
+        "1905-1906",
+        "1909",
+        "1919-1922",
+        "1932",
+        "1934"
+      ]
+    },
+    {
+      "colony": "UGANDA",
+      "first_year": 1907,
+      "last_year": 1963,
+      "years_found": 25,
+      "years_missing": 17,
+      "missing_years": [
+        "1908",
+        "1919-1922",
+        "1950-1960",
+        "1962"
+      ]
+    },
+    {
+      "colony": "ZANZIBAR",
+      "first_year": 1915,
+      "last_year": 1964,
+      "years_found": 21,
+      "years_missing": 17,
+      "missing_years": [
+        "1919-1922",
+        "1950-1960",
+        "1962-1963"
+      ]
+    },
+    {
+      "colony": "NORTH BORNEO",
+      "first_year": 1917,
+      "last_year": 1963,
+      "years_found": 20,
+      "years_missing": 16,
+      "missing_years": [
+        "1919-1922",
+        "1925",
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "BRUNEI",
+      "first_year": 1932,
+      "last_year": 1963,
+      "years_found": 7,
+      "years_missing": 15,
+      "missing_years": [
+        "1936",
+        "1946",
+        "1948-1960"
+      ]
+    },
+    {
+      "colony": "CYPRUS",
+      "first_year": 1883,
+      "last_year": 1946,
+      "years_found": 24,
+      "years_missing": 15,
+      "missing_years": [
+        "1889-1890",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1919-1922",
+        "1927",
+        "1931"
+      ]
+    },
+    {
+      "colony": "CEYLON",
+      "first_year": 1867,
+      "last_year": 1946,
+      "years_found": 29,
+      "years_missing": 13,
+      "missing_years": [
+        "1894",
+        "1896-1900",
+        "1906-1908",
+        "1919-1922"
+      ]
+    },
+    {
+      "colony": "NEWFOUNDLAND",
+      "first_year": 1867,
+      "last_year": 1937,
+      "years_found": 28,
+      "years_missing": 13,
+      "missing_years": [
+        "1894",
+        "1896-1900",
+        "1906",
+        "1915",
+        "1919-1922",
+        "1929"
+      ]
+    },
+    {
+      "colony": "SOUTH AFRICA",
+      "first_year": 1907,
+      "last_year": 1937,
+      "years_found": 12,
+      "years_missing": 13,
+      "missing_years": [
+        "1909",
+        "1918-1925",
+        "1927-1929",
+        "1931"
+      ]
+    },
+    {
+      "colony": "ADEN COLONY",
+      "first_year": 1949,
+      "last_year": 1962,
+      "years_found": 2,
+      "years_missing": 12,
+      "missing_years": [
+        "1950-1961"
+      ]
+    },
+    {
+      "colony": "BAHAMA ISLANDS",
+      "first_year": 1946,
+      "last_year": 1966,
+      "years_found": 8,
+      "years_missing": 12,
+      "missing_years": [
+        "1950-1961"
+      ]
+    },
+    {
+      "colony": "BAHAMAS",
+      "first_year": 1867,
+      "last_year": 1937,
+      "years_found": 29,
+      "years_missing": 12,
+      "missing_years": [
+        "1894",
+        "1896-1900",
+        "1906",
+        "1909",
+        "1919-1922"
+      ]
+    },
+    {
+      "colony": "SOLOMON ISLANDS",
+      "first_year": 1946,
+      "last_year": 1961,
+      "years_found": 3,
+      "years_missing": 12,
+      "missing_years": [
+        "1948",
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "COLUMBIA",
+      "first_year": 1905,
+      "last_year": 1937,
+      "years_found": 16,
+      "years_missing": 11,
+      "missing_years": [
+        "1906",
+        "1911",
+        "1915",
+        "1917-1922",
+        "1925",
+        "1929"
+      ]
+    },
+    {
+      "colony": "GILBERT AND ELLICE ISLANDS",
+      "first_year": 1948,
+      "last_year": 1961,
+      "years_found": 3,
+      "years_missing": 11,
+      "missing_years": [
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "NEW SOUTH WALES",
+      "first_year": 1877,
+      "last_year": 1911,
+      "years_found": 9,
+      "years_missing": 11,
+      "missing_years": [
+        "1880",
+        "1889-1890",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1909"
+      ]
+    },
+    {
+      "colony": "TANGANYIKA",
+      "first_year": 1946,
+      "last_year": 1962,
+      "years_found": 5,
+      "years_missing": 11,
+      "missing_years": [
+        "1950-1960"
+      ]
+    },
+    {
+      "colony": "MISCELLANEOUS ISLANDS",
+      "first_year": 1917,
+      "last_year": 1936,
+      "years_found": 8,
+      "years_missing": 10,
+      "missing_years": [
+        "1918-1923",
+        "1925",
+        "1932-1934"
+      ]
+    },
+    {
+      "colony": "GOLD COAST COLONY",
+      "first_year": 1877,
+      "last_year": 1915,
+      "years_found": 12,
+      "years_missing": 9,
+      "missing_years": [
+        "1880",
+        "1886",
+        "1894",
+        "1896-1900",
+        "1906"
+      ]
+    },
+    {
+      "colony": "SOUTH AUSTRALIA",
+      "first_year": 1877,
+      "last_year": 1911,
+      "years_found": 11,
+      "years_missing": 9,
+      "missing_years": [
+        "1880",
+        "1894",
+        "1896-1900",
+        "1906",
+        "1909"
+      ]
+    },
+    {
+      "colony": "SOUTH WEST AFRICA",
+      "first_year": 1924,
+      "last_year": 1937,
+      "years_found": 5,
+      "years_missing": 7,
+      "missing_years": [
+        "1927-1930",
+        "1932-1934"
+      ]
+    },
+    {
+      "colony": "RHODESIA",
+      "first_year": 1917,
+      "last_year": 1924,
+      "years_found": 2,
+      "years_missing": 6,
+      "missing_years": [
+        "1918-1923"
+      ]
+    },
+    {
+      "colony": "TANGANYIKA TERRITORY",
+      "first_year": 1923,
+      "last_year": 1934,
+      "years_found": 5,
+      "years_missing": 6,
+      "missing_years": [
+        "1924-1925",
+        "1927-1929",
+        "1931"
+      ]
+    },
+    {
+      "colony": "TRISTAN DA CUNHA",
+      "first_year": 1917,
+      "last_year": 1936,
+      "years_found": 12,
+      "years_missing": 6,
+      "missing_years": [
+        "1918-1922",
+        "1925"
+      ]
+    },
+    {
+      "colony": "WEIHAIWEI",
+      "first_year": 1905,
+      "last_year": 1930,
+      "years_found": 15,
+      "years_missing": 6,
+      "missing_years": [
+        "1906",
+        "1909",
+        "1919-1922"
+      ]
+    },
+    {
+      "colony": "ASCENSION",
+      "first_year": 1917,
+      "last_year": 1937,
+      "years_found": 14,
+      "years_missing": 5,
+      "missing_years": [
+        "1919-1923"
+      ]
+    },
+    {
+      "colony": "AUSTRALIA",
+      "first_year": 1917,
+      "last_year": 1937,
+      "years_found": 14,
+      "years_missing": 5,
+      "missing_years": [
+        "1919-1922",
+        "1929"
+      ]
+    },
+    {
+      "colony": "NIGERIA",
+      "first_year": 1915,
+      "last_year": 1949,
+      "years_found": 18,
+      "years_missing": 5,
+      "missing_years": [
+        "1919-1922",
+        "1933"
+      ]
+    },
+    {
+      "colony": "HOUSE OF REPRESENTATIVES",
+      "first_year": 1907,
+      "last_year": 1911,
+      "years_found": 2,
+      "years_missing": 3,
+      "missing_years": [
+        "1908-1910"
+      ]
+    },
+    {
+      "colony": "**CIVIL ESTABLISHMENT**",
+      "first_year": 1962,
+      "last_year": 1966,
+      "years_found": 3,
+      "years_missing": 2,
+      "missing_years": [
+        "1963",
+        "1965"
+      ]
+    },
+    {
+      "colony": "AFRICA",
+      "first_year": 1962,
+      "last_year": 1965,
+      "years_found": 2,
+      "years_missing": 2,
+      "missing_years": [
+        "1963-1964"
+      ]
+    },
+    {
+      "colony": "COMMONWEALTH",
+      "first_year": 1905,
+      "last_year": 1911,
+      "years_found": 5,
+      "years_missing": 2,
+      "missing_years": [
+        "1906",
+        "1909"
+      ]
+    },
+    {
+      "colony": "FEDERATED STATES OF MALAY PENINSULA",
+      "first_year": 1905,
+      "last_year": 1915,
+      "years_found": 6,
+      "years_missing": 2,
+      "missing_years": [
+        "1906",
+        "1911"
+      ]
+    },
+    {
+      "colony": "GOVERNMENT STORE",
+      "first_year": 1907,
+      "last_year": 1910,
+      "years_found": 2,
+      "years_missing": 2,
+      "missing_years": [
+        "1908-1909"
+      ]
+    },
+    {
+      "colony": "LAGOS",
+      "first_year": 1867,
+      "last_year": 1886,
+      "years_found": 3,
+      "years_missing": 2,
+      "missing_years": [
+        "1877",
+        "1880"
+      ]
+    },
+    {
+      "colony": "LOUIS BOTHA",
+      "first_year": 1907,
+      "last_year": 1910,
+      "years_found": 2,
+      "years_missing": 2,
+      "missing_years": [
+        "1908-1909"
+      ]
+    },
+    {
+      "colony": "MALTA, G.C.",
+      "first_year": 1962,
+      "last_year": 1965,
+      "years_found": 2,
+      "years_missing": 2,
+      "missing_years": [
+        "1963-1964"
+      ]
+    },
+    {
+      "colony": "NORTH-WEST TERRITORIES",
+      "first_year": 1905,
+      "last_year": 1908,
+      "years_found": 2,
+      "years_missing": 2,
+      "missing_years": [
+        "1906-1907"
+      ]
+    },
+    {
+      "colony": "REGISTRAR-GENERAL",
+      "first_year": 1907,
+      "last_year": 1910,
+      "years_found": 2,
+      "years_missing": 2,
+      "missing_years": [
+        "1908-1909"
+      ]
+    },
+    {
+      "colony": "ROYAL ALFRED OBSERVATORY",
+      "first_year": 1907,
+      "last_year": 1911,
+      "years_found": 3,
+      "years_missing": 2,
+      "missing_years": [
+        "1908-1909"
+      ]
+    },
+    {
+      "colony": "SOUTHERN RHODESIA ADMINISTRATION",
+      "first_year": 1907,
+      "last_year": 1911,
+      "years_found": 3,
+      "years_missing": 2,
+      "missing_years": [
+        "1908",
+        "1910"
+      ]
+    },
+    {
+      "colony": "**REGIONAL COUNCIL OF MINISTERS**",
+      "first_year": 1964,
+      "last_year": 1966,
+      "years_found": 2,
+      "years_missing": 1,
+      "missing_years": [
+        "1965"
+      ]
+    },
+    {
+      "colony": "ANGLO-FRENCH CONDOMINIUM OF NEW HEBRIDES",
+      "first_year": 1962,
+      "last_year": 1966,
+      "years_found": 4,
+      "years_missing": 1,
+      "missing_years": [
+        "1964"
+      ]
+    },
+    {
+      "colony": "BISHOPS",
+      "first_year": 1908,
+      "last_year": 1911,
+      "years_found": 3,
+      "years_missing": 1,
+      "missing_years": [
+        "1909"
+      ]
+    },
+    {
+      "colony": "BRITISH_GUIANA",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "years_missing": 1,
+      "missing_years": [
+        "1877"
+      ]
+    },
+    {
+      "colony": "CAPE_OF_GOOD_HOPE",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "years_missing": 1,
+      "missing_years": [
+        "1877"
+      ]
+    },
+    {
+      "colony": "FALKLAND_ISLANDS",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "years_missing": 1,
+      "missing_years": [
+        "1877"
+      ]
+    },
+    {
+      "colony": "HONG_KONG",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "years_missing": 1,
+      "missing_years": [
+        "1877"
+      ]
+    },
+    {
+      "colony": "MALAY STATES NOT INCLUDED IN FEDERATION",
+      "first_year": 1910,
+      "last_year": 1915,
+      "years_found": 2,
+      "years_missing": 1,
+      "missing_years": [
+        "1911"
+      ]
+    },
+    {
+      "colony": "NEW BRUNSWICK",
+      "first_year": 1905,
+      "last_year": 1910,
+      "years_found": 5,
+      "years_missing": 1,
+      "missing_years": [
+        "1906"
+      ]
+    },
+    {
+      "colony": "NEW_SOUTH_WALES",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "years_missing": 1,
+      "missing_years": [
+        "1877"
+      ]
+    },
+    {
+      "colony": "NEW_ZEALAND",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "years_missing": 1,
+      "missing_years": [
+        "1877"
+      ]
+    },
+    {
+      "colony": "NORTHERN NIGERIA",
+      "first_year": 1905,
+      "last_year": 1911,
+      "years_found": 6,
+      "years_missing": 1,
+      "missing_years": [
+        "1906"
+      ]
+    },
+    {
+      "colony": "NORTHERN TERRITORIES",
+      "first_year": 1905,
+      "last_year": 1915,
+      "years_found": 7,
+      "years_missing": 1,
+      "missing_years": [
+        "1906"
+      ]
+    },
+    {
+      "colony": "NOVA SCOTIA",
+      "first_year": 1905,
+      "last_year": 1910,
+      "years_found": 5,
+      "years_missing": 1,
+      "missing_years": [
+        "1906"
+      ]
+    },
+    {
+      "colony": "ORANGE RIVER COLONY",
+      "first_year": 1905,
+      "last_year": 1910,
+      "years_found": 5,
+      "years_missing": 1,
+      "missing_years": [
+        "1906"
+      ]
+    },
+    {
+      "colony": "PALESTINE",
+      "first_year": 1923,
+      "last_year": 1946,
+      "years_found": 13,
+      "years_missing": 1,
+      "missing_years": [
+        "1933"
+      ]
+    },
+    {
+      "colony": "PART II",
+      "first_year": 1962,
+      "last_year": 1966,
+      "years_found": 4,
+      "years_missing": 1,
+      "missing_years": [
+        "1965"
+      ]
+    },
+    {
+      "colony": "PRINCE EDWARD ISLAND",
+      "first_year": 1905,
+      "last_year": 1910,
+      "years_found": 5,
+      "years_missing": 1,
+      "missing_years": [
+        "1906"
+      ]
+    },
+    {
+      "colony": "PROTECTORATE OF SOUTH ARABIA",
+      "first_year": 1963,
+      "last_year": 1966,
+      "years_found": 3,
+      "years_missing": 1,
+      "missing_years": [
+        "1964"
+      ]
+    },
+    {
+      "colony": "PUKAPUKA, OR DANGER ISLAND, AND NASSAU",
+      "first_year": 1905,
+      "last_year": 1909,
+      "years_found": 4,
+      "years_missing": 1,
+      "missing_years": [
+        "1906"
+      ]
+    },
+    {
+      "colony": "RECORD OF SERVICES",
+      "first_year": 1962,
+      "last_year": 1965,
+      "years_found": 3,
+      "years_missing": 1,
+      "missing_years": [
+        "1964"
+      ]
+    },
+    {
+      "colony": "REGIONAL COUNCIL OF MINISTERS",
+      "first_year": 1963,
+      "last_year": 1965,
+      "years_found": 2,
+      "years_missing": 1,
+      "missing_years": [
+        "1964"
+      ]
+    },
+    {
+      "colony": "SEAT OF GOVERNMENT, FREDERICTON",
+      "first_year": 1907,
+      "last_year": 1909,
+      "years_found": 2,
+      "years_missing": 1,
+      "missing_years": [
+        "1908"
+      ]
+    },
+    {
+      "colony": "SHIPPING",
+      "first_year": 1963,
+      "last_year": 1966,
+      "years_found": 3,
+      "years_missing": 1,
+      "missing_years": [
+        "1964"
+      ]
+    },
+    {
+      "colony": "SOLOMON ISLANDS PROTECTORATE",
+      "first_year": 1962,
+      "last_year": 1966,
+      "years_found": 4,
+      "years_missing": 1,
+      "missing_years": [
+        "1965"
+      ]
+    },
+    {
+      "colony": "SOUTHERN NIGERIA",
+      "first_year": 1905,
+      "last_year": 1911,
+      "years_found": 6,
+      "years_missing": 1,
+      "missing_years": [
+        "1906"
+      ]
+    },
+    {
+      "colony": "SOUTHERN RHODESIA",
+      "first_year": 1925,
+      "last_year": 1937,
+      "years_found": 10,
+      "years_missing": 1,
+      "missing_years": [
+        "1929"
+      ]
+    },
+    {
+      "colony": "SOUTH_AUSTRALIA",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "years_missing": 1,
+      "missing_years": [
+        "1877"
+      ]
+    },
+    {
+      "colony": "STRAITS_SETTLEMENTS",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "years_missing": 1,
+      "missing_years": [
+        "1877"
+      ]
+    },
+    {
+      "colony": "ST_HELENA",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "years_missing": 1,
+      "missing_years": [
+        "1877"
+      ]
+    },
+    {
+      "colony": "TRANSAAL",
+      "first_year": 1907,
+      "last_year": 1910,
+      "years_found": 3,
+      "years_missing": 1,
+      "missing_years": [
+        "1908"
+      ]
+    },
+    {
+      "colony": "TURKS_AND_CAICOS_ISLANDS",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "years_missing": 1,
+      "missing_years": [
+        "1877"
+      ]
+    },
+    {
+      "colony": "WESTERN_AUSTRALIA",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "years_missing": 1,
+      "missing_years": [
+        "1877"
+      ]
+    }
+  ],
+  "total_gaps": 1908
+}

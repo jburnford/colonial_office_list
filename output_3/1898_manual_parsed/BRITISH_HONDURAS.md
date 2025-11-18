@@ -1,0 +1,328 @@
+BRITISH HONDURAS.
+
+Situation and Area.
+
+British Honduras is a colony on the east coast of Central America, bounded on the north by Yucatan, on the west by a straight line drawn from the rapids of Gracias a Dios on the River Sarstoon, to Garbutt's Falls on the River Belize, and thence due north to the Mexican frontier, on the south by Guatemala, and on the east by the Bay of Honduras. It lies between 18°29' and 15°54' N. latitude and 89°10' and 87°50' W. longitude.
+
+The area of the Colony is 7,562 square miles, about the size of Wales, including Albion Island in the River Hondo (about 26 square miles), and Ambergris, St. George's, English, Turneffe, and other Cays, 212 square miles, a large portion of the latter being mangrove swamps without any soil. It is estimated that about 90 square miles are under cultivation.
+
+History.
+
+The coast was discovered in 1502 by Columbus, and its early settlement is supposed to have been effected from Jamaica about 1638, by adventurers, who were attracted by the fine timber (logwood and mahogany) which grew on the banks of the Hondo and other rivers. Their headquarters were for long at St. George's Cay. The name of the present chief town and of the River Belize is said to be a corruption of the leader of this settlement named Wallis, a buccaneer, who was driven from Hispaniola in that year.
+
+* Not on Establishment of Clergy List.
+An earlier settlement had been made by a chartered company, of which the Earl of Warwick was chairman and John Pym treasurer, on two small islands off the Mosquito coast, in 1630. The Mosquito natives were very friendly to the English settlers, and their king, shortly after the conquest of Jamaica, placed himself under English protection, and the Governors of Jamaica exercised a sort of supervision over the affairs of the settlement. In 1739 the native king made a treaty resigning his country to Great Britain, and forts were built in 1742 at the Island of Ruatan, and at Black River on the mainland. Ruatan was abandoned in 1749, but at the same time an officer was formally appointed by the Government of Jamaica to superintend the settlements. By the treaty of Paris in 1763 it was agreed to abandon the settlements, and the forts were dismantled and the garrisons withdrawn. The settlers remained, however, and from that date until 1798, when the last attempt to establish the sovereignty of Spain over the territory was defeated by the inhabitants in the "Battle of St. George's Cay," the Spaniards made frequent but ineffectual attempts to expel the woodcutters by force of arms; and treaty after treaty was concluded, abandoning the territory to Spain, which had little other effect than to stimulate the enterprise of the settlers by the recognition, thus step by step accorded, of the footing they had gained for themselves in Central America, without, in the first instance, any thought of territorial aggrandisement, but solely in pursuit of the industry in which their fortunes were embarked.
+
+The Bay Islands were recognised as part of the Republic of Honduras in 1859.
+
+The only subsequent events of external significance which need here be noticed, are the definition, as above, of the boundaries of the Colony (of which survey has been partially executed); the frequent border troubles, connected with the revolt in 1849 of the Indian population of Yucatan against the Spanish inhabitants, the result of which has been that the Indians are now de facto in possession of the country to a considerable distance north of the Hondo; and occasional incursions into the Colony (the last in 1872) by the Icaché Indians on the N.W. frontier.
+
+**Constitution.**
+
+The first settlers from 1638 to 1786 managed their own affairs. Persons were annually elected to act as Magistrates at public meetings held for the purpose. These Magistrates discharged all executive and judicial functions. Resolutions were passed at public meetings, and they formed the laws binding on the community. In 1756 these customs were formally recognised by the King's Government, after the visit of Admiral Sir William Burnaby to the settlement in that year. The customs of the settlers were codified and published, and became known as "Burnaby's Laws."
+
+In 1786 a Superintendent was appointed by the Home Government, but during the years 1790-1797 elected Magistrates again ruled the settlements. From this latter date Superintendents were regularly appointed until 1862. An Executive Council was established in 1839 to assist the Superintendent, and in 1853 a Legislative Assembly was formally constituted, consisting of 18 elected and 3 nominated members. The settlement was declared a Colony on the 12th May, 1862, and a Lieutenant Governor was appointed subordinate to the Governor of Jamaica. In 1870 the Legislative Assembly was abolished by a local enactment, and a Legislative Council substituted therefor, consisting of five official, and not less than four unofficial members, with the Lieutenant-Governor as President. By Ordinance 14 of 1892, the Council now consists of three official and five unofficial members. On the 31st October, 1884, Letters Patent were proclaimed constituting the office of Governor and Commander-in-Chief, which rendered the Colony independent of Jamaica.
+
+The English Common Law extends to the Colony as far as local circumstances render such extension suitable, and subject to modification by Colonial ordinances. The latter have by Order No. 7 of 1888 been collected into one volume of "Consolidated Laws" appeals lie to the Privy Council, and by 44 and 45 Vic., cap. 36, 16, the Supreme Court of Jamaica.
+
+The Executive Council consists of seven members, three of whom are unofficial.
+
+For administrative purposes the Colony is divided into six districts; Belize, which includes the capital at the mouth of the river of the same name; the Corosol district; the Orange Walk district; the western or Cayo district; the Stann Creek district; and the Toledo district, the main station of which is Punta Gorda, comprising the extreme south of the Colony. The Corosol and Orange Walk districts were until recently combined under the name of the Northern district.
+
+**General Description.**
+
+In its physical outlines the Colony resembles other parts of Central America, the land being flat and swampy throughout the greater portion of the coast line, and gradually rising as the interior is approached. The characteristic soils of the Colony are known as Cahoon ridge (the vegetable alluvium along the river valleys), the Pine ridge (sandy tracts covered with pines, scrub, and wiry grass), and Broken ridge (intermediate between these two). Besides these there are swamp, savannah, and mountain.
+
+The chief rivers are in the north of the Colony, and run in a north-easterly direction, the Belize, the largest, reaching the sea on the east, and the Hondo and the New River on the north.
+
+The northern district, of which the Hondo forms the natural boundary, is but little raised above the sea; but towards the south the character of the country becomes more elevated, until in the Cockscomb Mountains a height of some 4,000 feet is attained. That district of the Colony remained until 1879 wholly unexplored, when it was traversed by the then Colonial Secretary, Mr. Fowler, from Garbutt's Falls on the Belize River, at the western frontier, to the sea coast south of Deep River. The country proved to be a succession of valleys and hills, from 1,200 to 3,000 feet above sea level. The westerly portion was an open undulating grassy country, forming magnificent pasturage lands. Towards the coast it was all forest, full of valuable timber. No inhabitants were seen, but ancient Indian ruins, consisting of large stone buildings, were discovered. The soil generally was rich, but a few rugged spots were encountered. Some fine gold-bearing quartz veins were discovered, and other indications of minerals were noticed.
+
+In 1888 Governor Sir R. Goldsworthy, with an exploring party, ascended the Cockscomb Mountains.
+
+The Pine and Cahoon Ridges afford abundant pasturage for cattle, and the higher grounds would doubtless produce, at altitudes varying from 600 to 2,000 feet, as marketable a quality of coffee as any that is brought for export from the neighbouring Republics.
+There seems to be no tropical product to which the climate and soil are not adapted. In the forests and wilds are found the cedar, rosewood, bullet-tree, fustic, lignum vitae, sapolilla, Santa Maria, ironwood, red and white pine, india-rubber and gutta-percha trees, and the sarsaparilla, cochineal-cactus, Agave or Piña, indigo, and many other useful plants or shrubs. The coconut flourishes, as do the Cahoon palm and the ground-nut.
+
+The cultivation of fruit (bananas and plantains), and its shipment to New Orleans, is extending, but at the present prices is not proving very remunerative to planters. Most of the growers occupy small holdings on lease from the Crown. Coffee, tobacco, citrus fruits, henequen, cocoa, and other plantations are being made, and promise a new field of development.
+
+A public botanic garden established in Belize since 1893, has appreciably aided the development and extension of economic cultures.
+
+Industry.
+
+The chief industry is wood cutting, now 200 years old. 2,769,676 feet of mahogany and 34,539 tons of logwood were exported in 1896. Average of canefields, about 1,500 acres. There are twenty-six sugar mills, and large fruit plantations.
+
+The chief exports are logwood, mahogany, fruit, sugar, indiarubber, coco-nuts, tortoiseshell, and rum. Belize is a port of registry, and had registered on 31st December, 1896, 219 vessels, of 5,973 aggregate tonnage.
+
+The imports consist mainly of cotton goods and hardware, malt liquors, spirits, sugar, tea, tobacco, wines. The commercial intercourse is mainly with the United States and Great Britain.
+
+Communications.
+
+There are no railways or telegraphs in the Colony, and the easiest communication is by water along the coast. There is regular communication every seven days by mail steamers with New Orleans and Puerto Cortez; every three weeks with New York and Costa Rica; about every six weeks with London and the West Indies; and at intervals with Liverpool, the West Indies, and Colon. The usual length of the journey between England and British Honduras is 16 days, via the United States. The nearest point in telegraphic communication with Europe is Livingston, Guatemala, whence the steamer takes one day; but the best way to send telegrams is via New Orleans, U.S.
+
+Surveys have been made with a view to the construction of a trans-colonial railway to develop the interior.
+
+Rates of Postage.
+
+Letters Newspapers.
+Within the Colony . . . per ½ oz. 2 cents. 1 cent.
+To the United Kingdom, &c. . . . 5 " 2 cents.
+
+There are post offices at Belize, Corosol, Orange Walk, Stann Creek, Punta Gorda, San Estevan, All Pines, Monkey River, and Mullins River.
+
+Climate.
+
+Though situated within the tropics, the climate is sub-tropical in character. The maximum shade temperature is 93°, the minimum 50°. The dew point in Belize, a seaport, is relatively high. Sea breezes prevail for the greater part of the year. The average rainfall is 77 inches per annum. From the middle of February to the middle of May is the dry season. For the rest of the year there is rain to some extent during every month; the heaviest rainfall being in the months of October and November, during which months about one-third of the total rain occurs.
+
+Currency and Banking.
+
+Up to the 14th October, 1894, the coins in circulation were principally South and Central American silver dollars; there was no paper currency. The standard of value was the Guatemalan dollar, and Chilean and Peruvian silver coins were also current and legal tender, as well as a colonial currency of one-cent pieces, at fixed ratings with the Guatemalan dollar. By Ordinance No. 31, of 1894, the currency has been established on a gold basis, the United States gold dollar being adopted as the standard coin. Gold coins of the United States Mint are legal tender for the amounts of their respective denominations in standard dollars; also the British sovereign and half sovereign for the amounts of $1.867 and $2.433 respectively. There is a local subsidiary currency of 50 cent, 25 cent, 10 cent, and 5 cent silver pieces, and a Government note issue of the following denominations: 1, 2, 5, 10, 50 and 100 dollars, a bronze cent piece is also current. The limit of the legal tender in silver is fixed at $10, and in bronze at 50 cents. There are no private banks in the Colony. The Government Savings Bank, established in 1846 at Belize (with branches at Corosol, Orange Walk, Stann Creek, Punta Gorda, and the Cayo), had, on 31st December, 1895, $24,119 deposited.
+
+Education.
+
+The schools are denominational, inspected and aided by the Colonial Government. Forty-six received aid in 1896 to the extent of $13,308, with 3,567 scholars on the roll, and 2,592 average attendance.
+
+Public Debt, $169,015.
+
+The population on 5th April, 1891, was reported as follows:
+
+| District                  | Census |
+|---------------------------|--------|
+| Northern District         | 10,487 |
+| Central District (Belize, &c.) | 14,019 |
+| Southern District         | 6,965  |
+| **Total**                 | **31,471** |
+
+About 500 being of European descent.
+
+Population of towns: Belize, 6,972; Corosol, 1,514; Orange Walk, 1,967; Stann Creek, 1,645; Mullins River, 304; Punta Gorda, 519; Monkey River, 641. These have municipalities, having, in 1896, an aggregate revenue of $41,232, and an expenditure of $32,185.
+
+### Finances
+
+| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |
+|------|---------|-------------|-----------------|---------------|
+| 1887 | $293,374 | $307,171    | 107,178         | 219,856       |
+| 1888 | $311,719 | $297,935    | 135,662         | 252,995       |
+| 1889 | $473,839 | $325,877    | 146,288         | 338,743       |
+| 1890 | $332,136 | $314,452    | 187,872         | 364,067       |
+| 1891 | $357,634 | $348,283    | 123,954         | 354,273       |
+| 1892 | $338,659 | $373,719    | 92,513          | 285,324       |
+| 1893 | $301,922 | $365,519    | 102,409         | 283,305       |
+| 1894 | $185,718 | $218,989    | 104,583         | 309,329       |
+| 1895 | $248,483 | $274,768    | 88,533          | 315,186       |
+| 1896 | $302,686 | $269,877    | 114,635         | 330,066       |
+BRITISH HONDURAS.
+
+| Year | From U.K. | From Colonies | From Elsewhere | Total |
+|------|-----------|---------------|----------------|-------|
+| 1887 | $477,606  | $2,869        | $617,246       | $1,097,721 |
+| 1888 | $684,677  | $1,058        | $793,313       | $1,479,048 |
+| 1889 | $897,201  | $1,191        | $964,935       | $1,863,327 |
+| 1890 | $855,251  | $4,162        | $970,097       | $1,829,480 |
+| 1891 | $768,249  | $1,178        | $1,088,938     | $1,853,365 |
+| 1892 | $682,174  | $6,170        | $1,068,694     | $1,757,038 |
+| 1893 | $559,686  | $3,932        | $897,323       | $1,460,941 |
+| 1894 | $635,752  | $1,468        | $936,192       | $1,573,432 |
+| 1895 | $416,788  | $2,903        | $921,715       | $1,341,406 |
+| 1896 | $523,208  | $8,551        | $930,878       | $1,462,637 |
+
+**EXPORTS.**
+
+| Year | To U.K. | To Colonies | To Elsewhere | Total |
+|------|---------|-------------|--------------|-------|
+| 1887 | $786,505| $4,221      | $559,083     | $1,349,709 |
+| 1888 | $726,225| $7,528      | $792,862     | $1,526,115 |
+| 1889 | $1,167,737| $9,214    | $978,558     | $2,155,559 |
+| 1890 | $1,108,246| $3,627    | $754,226     | $1,866,099 |
+| 1891 | $1,052,725| $1,038    | $856,167     | $1,909,930 |
+| 1892 | $785,811| —          | $945,424     | $1,741,235 |
+| 1893 | $1,186,228| —        | $948,889     | $2,135,117 |
+| 1894 | $1,192,319| —        | $1,357,264   | $2,549,583 |
+| 1895 | $546,841| $18        | $785,110     | $1,281,969 |
+| 1896 | $760,522| —          | $811,008     | $1,571,530 |
+
+Total Customs revenue for 1896, $156,215.
+
+**Administrators.**
+
+1851 Superintendent Philip Edmund Wodehouse.
+1854 Superintendent William Stevenson.
+1857 Superintendent Frederick Seymour.
+1862 Lieut.-Governor Frederick Seymour.
+1864 Lieut.-Governor J. Gardiner Austin.
+1867 Lieut.-Governor J. R. Longden.
+1872 Lieut.-Governor W. W. Cairns.
+1871 Administrator Lieut.-Col. Harley, C.B.
+1872 Lieut.-Governor W. W. Cairns.
+1874 Lieut.-Governor Major Mundy, R.A., C.M.G.
+1877 Lieut.-Governor F. P. Barlee, C.M.G.
+1882 Lieut.-G. Sir R. W. Harley, K.C.M.G., C.B.
+1883 Administrator Henry Fowler (acting).
+1884 Lieut.-Governor R. T. Goldworthy, C.M.G.
+1884 Governor R. T. Goldworthy, C.M.G.
+1885 Administrator Henry Fowler (acting).
+1886 Governor R. T. Goldworthy, C.M.G.
+1886 Administrator Henry Fowler (acting).
+1887 Governor R. T. Goldworthy, C.M.G.
+1887 Administrator Henry Fowler (acting).
+1887 Administrator W. J. McKinney (acting).
+1888 Governor R. T. Goldworthy, C.M.G.
+1888 Administrator H. E. H. Jerningham (acting).
+1889 Governor Sir R. T. Goldworthy, K.C.M.G.
+1889 Administrator W. J. McKinney (acting).
+1890 Administrator G. Melville (acting).
+1890 Governor Sir R. T. Goldworthy, K.C.M.G.
+1891 Administrator G. Melville, C.M.G. (acting).
+1891 Governor Sir C. A. Moloney, K.C.M.G.
+1893 E. B. Sweet-Escott (administering).
+1893 Governor Sir C. A. Moloney, K.C.M.G.
+1895 E. B. Sweet-Escott, C.M.G. (administering).
+1895 Governor Sir C. A. Moloney, K.C.M.G.
+1897 E. B. Sweet-Escott, C.M.G. (administering).
+1897 Governor Colonel David Wilson, C.M.G.
+
+**Executive Council.**
+
+The Governor.
+The Colonial Secretary.
+The Treasurer.
+The Attorney-General.
+
+*For Administrators previous to 1350, see Edition for 1889.*
+
+The Inspector Commandant of Constabulary—J. H. Phillips, C.M.G.
+Carlos Melhado.
+A. Williamson, C.M.G.
+Clerk, A. J. K. Young.
+
+**Legislative Council.**
+
+President, The Governor.
+Official Members—The Colonial Secretary; The Treasurer; The Attorney-General.
+Unofficial Members—B. Fairweather; E. C. Connor; J. M. Rosado; R. H. Logan; S. Cuthbert.
+Clerk, A. J. K. Young, $584.
+
+**Civil Establishment.**
+
+Governor and Commander-in-Chief, David Wilson, C.M.G., $8,748.
+Private Secretary, (acting) A. E. Clayton, $584.
+
+**Colonial Secretary's Department.**
+
+Colonial Secretary, F. J. Newton, C.M.G., $3,500 and house.
+Chief Clerk, A. G. Clayton, $1,200 to $1,500.
+2nd (Audit) Clerk (vacant), $1,200.
+3rd Clerk, T. B. Phillips, $684 to $792.
+4th Clerk, L. R. Hulse, $600.
+Head Printer, L. W. Laing, $720.
+Assistant Printer, P. Sebastian, $480.
+General Printer, S. Trench, $360.
+Messenger, J. A. Christie, $264.
+
+**Treasury and Customs Department.**
+
+Treasurer and Collector of Customs, W.J. McKinney, C.M.G., $2,916, and house.
+Chief Clerk, $1,200 to $1,500.
+Second Clerk, C. A. Metzgen, $684 to $792.
+Third Clerk, H. E. Phillips, A. B. Dillon, $650.
+Fourth Clerk, C. A. Pickwood, $600.
+Queen's Warehouse Keeper, C. H. Graham, $756 to $864.
+Warehouse Keeper's Assistant, J. F. Blakely, $360.
+Customs Officers, J. Hunter, $900; J. L. Hudson, $600; R. A. Clarke, $450.
+Excise Officers, R. Bouley, $720; G. K. Meggs, $396; T. Tappin, $360; N. W. McCord, $360.
+Keeper of Powder Magazine, I. S. Richardson, $300.
+
+**Post Office Department.**
+
+Postmaster, W. B. Gutteron, $1,500.
+Clerk, H. W. Beaumont, $400.
+Postman, W. Clarke, $300.
+
+**Judicial Department.**
+
+Chief Justice and Judge, Vice-Admiralty Court, Sir W. J. Anderson, $4,860.
+Attorney General and Advocate in Admiralty, F. M. Maxwell, $2,430, and private practice.
+Registrar-General, S. G. Woods, $2,250.
+Clerk to ditto, H. D. Phillips, $900.
+Official Administrator, H. C. Usher.
+Court Crier and Messenger, J. Smith, $240.
+
+**District Commissioners.**
+
+Belize, H. C. Usher, $2,261-40.
+Clerk, A. C. Silas, $600.
+Corozal, R. W. Pickwoad, $2,155-68.
+Clerk, F. Villamor, $500.
+Interpreter, F. Perez, $400.
+Orange Walk (vacant).
+Clerk and Interpreter, T. Perdomo, $450.
+Stann Creek District, A. Porter, $1,509-60.
+Interpreter, G. Nunes, $450.
+Toledo District, P. T. Carpenter, $750 (also medical officer).
+Clerk, N. Braithwaite, $540.
+Western District, F. L. Davis, $750 (also medical officer).
+Clerk and Interpreter, F. Velasco, $450.
+
+Education.
+Inspector of Schools, H. P. C. Strange, $1,200.
+Messenger, J. Smith, $24.
+
+Lands.
+Surveyor-General, C. R. Usher, $1,944.
+Assistant Surveyor, R. H. Franklin, $1,458.
+2nd Assistant Surveyor, W. H. Carlin, $1,200.
+3rd Assistant Surveyor, W. T. O. B. Hewett, $1,080.
+Clerk, D. Rosado, $600.
+Superintendent, Botanic Garden, E. Campbell, $632.
+
+Public Works, &c.
+Colonial Engineer, B. W. Baber, $1,944.
+Clerk, J. A. McKimney, $720.
+Keeper Half-Moon Cay Light, A. Martin, $400.
+Ditto Northern Two Cays, W. Miller, $360.
+Ditto Maugre Cay, G. Longworth, $300.
+Ditto Cay Bokel, S. Miller, $300.
+Ditto English Cay, J. Young, $240.
+Keeper Bugle Cay, C. Miller, $240.
+Keeper Fort George, J. Calorio, $120.
+
+Medical.
+Colonial Surgeon, C. H. Eyles, $2,916.
+Assistant Colonial Surgeon, J. H. H. Harrison, F. Keyt, $1,080.
+Assistant Colonial Surgeon, Corosal, T. W. Gann, $750, and private practice.
+Sub-Colonial Surgeons (also district commissioners), P. J. Carpenter, F. J. Davis, $750.
+Sub-Intendants, $240 to $480, J. Eagan, G. Wright, N. Grant, N. Wagner.
+Clerk and Storekeeper, D. J. Mitchell, $360.
+
+Gaols.
+Gaoler, Belize, A. W. Hood, $1,400.
+Chief Warder, J. Taylor, $900.
+Gaoler, Corosal, D. Murphy, $100.
+Ditto, Orange Walk, J. Clarke, $360.
+
+Constabulary.
+Inspector Commandant, A. B. R. Kaye, $1,944, and quarters.
+Inspector, G. C. Bayly, $1,296, and quarters.
+Sub-Inspectors, J. H. Davidson Houston and P. A. Matthews, $972 each, and quarters.
+
+Police.
+Superintendent, D. D. Barnes, $1,500 and $360 in lieu of quarters.
+Check Sergeants, G. Darling and R. Wyatt, $700 to $850, with quarters.
+Detective Sergeant, T. McAllister, $600, with quarters.
+
+Foreign Consuls.
+United States, A. F. Morlan.
+Germany, C. Molhado.
+Austria and Hungary, H. Krug.
+Norway and Sweden, Alex. Williamson.
+Greater Republic of Central America, J. M. Currie.
+France, E. C. Connor.
+Spain, A. Williamson.
+
+Ecclesiastical.
+Church of England, Right Rev. G. A. Ormsby, Bishop of Honduras.
+Roman Catholic, Right Rev. S. D. Pietro, S.J., Bishop of Eureka, Vicar Apostolic.
+Free Church of Scotland, The Rev. J. Muckersio.
+Presbyterian Methodist, The Rev. P. Ellis, Superintendent.
+Baptist, The Rev. C. Brown.
+
+No church is established, nor are any grants made.
+

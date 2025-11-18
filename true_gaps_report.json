@@ -1,0 +1,5918 @@
+{
+  "true_gaps": [
+    {
+      "colony": "GRENADE",
+      "first_appearance": 1908,
+      "last_appearance": 1966,
+      "gap_start": 1948,
+      "gap_end": 1965,
+      "gap_size": 18,
+      "total_years_found": 2
+    },
+    {
+      "colony": "FEDERAL COUNCIL",
+      "first_appearance": 1910,
+      "last_appearance": 1966,
+      "gap_start": 1948,
+      "gap_end": 1963,
+      "gap_size": 16,
+      "total_years_found": 5
+    },
+    {
+      "colony": "CABINET",
+      "first_appearance": 1910,
+      "last_appearance": 1964,
+      "gap_start": 1948,
+      "gap_end": 1962,
+      "gap_size": 15,
+      "total_years_found": 3
+    },
+    {
+      "colony": "GRENA DA",
+      "first_appearance": 1910,
+      "last_appearance": 1964,
+      "gap_start": 1948,
+      "gap_end": 1962,
+      "gap_size": 15,
+      "total_years_found": 4
+    },
+    {
+      "colony": "BECHUANALAND PROTECTORATE",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1948,
+      "gap_end": 1961,
+      "gap_size": 14,
+      "total_years_found": 12
+    },
+    {
+      "colony": "EXECUTIVE COUNCIL",
+      "first_appearance": 1906,
+      "last_appearance": 1966,
+      "gap_start": 1948,
+      "gap_end": 1961,
+      "gap_size": 14,
+      "total_years_found": 9
+    },
+    {
+      "colony": "SWAZILAND",
+      "first_appearance": 1907,
+      "last_appearance": 1965,
+      "gap_start": 1948,
+      "gap_end": 1961,
+      "gap_size": 14,
+      "total_years_found": 28
+    },
+    {
+      "colony": "TONGA",
+      "first_appearance": 1922,
+      "last_appearance": 1961,
+      "gap_start": 1948,
+      "gap_end": 1960,
+      "gap_size": 13,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ADEN COLONY",
+      "first_appearance": 1949,
+      "last_appearance": 1962,
+      "gap_start": 1950,
+      "gap_end": 1961,
+      "gap_size": 12,
+      "total_years_found": 2
+    },
+    {
+      "colony": "BAHAMAS",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1948,
+      "gap_end": 1958,
+      "gap_size": 11,
+      "total_years_found": 42
+    },
+    {
+      "colony": "GILBERT AND ELLICE ISLANDS",
+      "first_appearance": 1948,
+      "last_appearance": 1961,
+      "gap_start": 1950,
+      "gap_end": 1960,
+      "gap_size": 11,
+      "total_years_found": 3
+    },
+    {
+      "colony": "NYASALAND",
+      "first_appearance": 1907,
+      "last_appearance": 1961,
+      "gap_start": 1950,
+      "gap_end": 1960,
+      "gap_size": 11,
+      "total_years_found": 5
+    },
+    {
+      "colony": "SOLOMON ISLANDS",
+      "first_appearance": 1946,
+      "last_appearance": 1961,
+      "gap_start": 1950,
+      "gap_end": 1960,
+      "gap_size": 11,
+      "total_years_found": 3
+    },
+    {
+      "colony": "BASUTOLAND",
+      "first_appearance": 1888,
+      "last_appearance": 1966,
+      "gap_start": 1948,
+      "gap_end": 1957,
+      "gap_size": 10,
+      "total_years_found": 40
+    },
+    {
+      "colony": "ASCENSION",
+      "first_appearance": 1917,
+      "last_appearance": 1960,
+      "gap_start": 1948,
+      "gap_end": 1956,
+      "gap_size": 9,
+      "total_years_found": 21
+    },
+    {
+      "colony": "CABINET",
+      "first_appearance": 1910,
+      "last_appearance": 1964,
+      "gap_start": 1917,
+      "gap_end": 1925,
+      "gap_size": 9,
+      "total_years_found": 3
+    },
+    {
+      "colony": "CANADA",
+      "first_appearance": 1867,
+      "last_appearance": 1936,
+      "gap_start": 1917,
+      "gap_end": 1925,
+      "gap_size": 9,
+      "total_years_found": 7
+    },
+    {
+      "colony": "EXECUTIVE COUNCIL",
+      "first_appearance": 1906,
+      "last_appearance": 1966,
+      "gap_start": 1917,
+      "gap_end": 1925,
+      "gap_size": 9,
+      "total_years_found": 9
+    },
+    {
+      "colony": "FEDERAL COUNCIL",
+      "first_appearance": 1910,
+      "last_appearance": 1966,
+      "gap_start": 1917,
+      "gap_end": 1925,
+      "gap_size": 9,
+      "total_years_found": 5
+    },
+    {
+      "colony": "GRENA DA",
+      "first_appearance": 1910,
+      "last_appearance": 1964,
+      "gap_start": 1917,
+      "gap_end": 1925,
+      "gap_size": 9,
+      "total_years_found": 4
+    },
+    {
+      "colony": "GRENADE",
+      "first_appearance": 1908,
+      "last_appearance": 1966,
+      "gap_start": 1917,
+      "gap_end": 1925,
+      "gap_size": 9,
+      "total_years_found": 2
+    },
+    {
+      "colony": "NYASALAND",
+      "first_appearance": 1907,
+      "last_appearance": 1961,
+      "gap_start": 1917,
+      "gap_end": 1925,
+      "gap_size": 9,
+      "total_years_found": 5
+    },
+    {
+      "colony": "SINGAPORE",
+      "first_appearance": 1905,
+      "last_appearance": 1956,
+      "gap_start": 1917,
+      "gap_end": 1925,
+      "gap_size": 9,
+      "total_years_found": 10
+    },
+    {
+      "colony": "SOMALILAND",
+      "first_appearance": 1946,
+      "last_appearance": 1959,
+      "gap_start": 1950,
+      "gap_end": 1958,
+      "gap_size": 9,
+      "total_years_found": 4
+    },
+    {
+      "colony": "ST HELENA",
+      "first_appearance": 1883,
+      "last_appearance": 1961,
+      "gap_start": 1917,
+      "gap_end": 1925,
+      "gap_size": 9,
+      "total_years_found": 3
+    },
+    {
+      "colony": "ST LUCIA",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1917,
+      "gap_end": 1925,
+      "gap_size": 9,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST VINCENT",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1917,
+      "gap_end": 1925,
+      "gap_size": 9,
+      "total_years_found": 2
+    },
+    {
+      "colony": "WINDWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1917,
+      "gap_end": 1925,
+      "gap_size": 9,
+      "total_years_found": 23
+    },
+    {
+      "colony": "ANTIGUA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1948,
+      "gap_end": 1955,
+      "gap_size": 8,
+      "total_years_found": 36
+    },
+    {
+      "colony": "BECHUANALAND PROTECTORATE",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1918,
+      "gap_end": 1925,
+      "gap_size": 8,
+      "total_years_found": 12
+    },
+    {
+      "colony": "BECHUANALAND PROTECTORATE",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 12
+    },
+    {
+      "colony": "CABINET",
+      "first_appearance": 1910,
+      "last_appearance": 1964,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 3
+    },
+    {
+      "colony": "EXECUTIVE COUNCIL",
+      "first_appearance": 1906,
+      "last_appearance": 1966,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 9
+    },
+    {
+      "colony": "FEDERAL COUNCIL",
+      "first_appearance": 1910,
+      "last_appearance": 1966,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 5
+    },
+    {
+      "colony": "GOLD COAST",
+      "first_appearance": 1867,
+      "last_appearance": 1955,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GRENA DA",
+      "first_appearance": 1910,
+      "last_appearance": 1964,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 4
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1948,
+      "gap_end": 1955,
+      "gap_size": 8,
+      "total_years_found": 22
+    },
+    {
+      "colony": "GRENADE",
+      "first_appearance": 1908,
+      "last_appearance": 1966,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 2
+    },
+    {
+      "colony": "LEEWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 28
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1948,
+      "gap_end": 1955,
+      "gap_size": 8,
+      "total_years_found": 31
+    },
+    {
+      "colony": "NYASALAND",
+      "first_appearance": 1907,
+      "last_appearance": 1961,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 5
+    },
+    {
+      "colony": "NYASALAND PROTECTORATE",
+      "first_appearance": 1908,
+      "last_appearance": 1964,
+      "gap_start": 1918,
+      "gap_end": 1925,
+      "gap_size": 8,
+      "total_years_found": 16
+    },
+    {
+      "colony": "NYASALAND PROTECTORATE",
+      "first_appearance": 1908,
+      "last_appearance": 1964,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 16
+    },
+    {
+      "colony": "SARAWAK",
+      "first_appearance": 1917,
+      "last_appearance": 1963,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 13
+    },
+    {
+      "colony": "SINGAPORE",
+      "first_appearance": 1905,
+      "last_appearance": 1956,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 10
+    },
+    {
+      "colony": "SOMALILAND PROTECTORATE",
+      "first_appearance": 1906,
+      "last_appearance": 1956,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 16
+    },
+    {
+      "colony": "ST HELENA",
+      "first_appearance": 1883,
+      "last_appearance": 1961,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 3
+    },
+    {
+      "colony": "ST HELENA",
+      "first_appearance": 1883,
+      "last_appearance": 1961,
+      "gap_start": 1948,
+      "gap_end": 1955,
+      "gap_size": 8,
+      "total_years_found": 3
+    },
+    {
+      "colony": "ST LUCIA",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST LUCIA",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1948,
+      "gap_end": 1955,
+      "gap_size": 8,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST VINCENT",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST VINCENT",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1948,
+      "gap_end": 1955,
+      "gap_size": 8,
+      "total_years_found": 2
+    },
+    {
+      "colony": "TONGA",
+      "first_appearance": 1922,
+      "last_appearance": 1961,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 2
+    },
+    {
+      "colony": "VIRGIN ISLANDS",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1918,
+      "gap_end": 1925,
+      "gap_size": 8,
+      "total_years_found": 13
+    },
+    {
+      "colony": "VIRGIN ISLANDS",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 13
+    },
+    {
+      "colony": "WINDWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1927,
+      "gap_end": 1934,
+      "gap_size": 8,
+      "total_years_found": 23
+    },
+    {
+      "colony": "ADEN",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1905,
+      "gap_end": 1911,
+      "gap_size": 7,
+      "total_years_found": 35
+    },
+    {
+      "colony": "BAHAMA ISLANDS",
+      "first_appearance": 1946,
+      "last_appearance": 1966,
+      "gap_start": 1955,
+      "gap_end": 1961,
+      "gap_size": 7,
+      "total_years_found": 10
+    },
+    {
+      "colony": "CANADA",
+      "first_appearance": 1867,
+      "last_appearance": 1936,
+      "gap_start": 1905,
+      "gap_end": 1911,
+      "gap_size": 7,
+      "total_years_found": 7
+    },
+    {
+      "colony": "FALKLAND ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1961,
+      "gap_start": 1952,
+      "gap_end": 1958,
+      "gap_size": 7,
+      "total_years_found": 43
+    },
+    {
+      "colony": "NORTH BORNEO",
+      "first_appearance": 1898,
+      "last_appearance": 1963,
+      "gap_start": 1905,
+      "gap_end": 1911,
+      "gap_size": 7,
+      "total_years_found": 34
+    },
+    {
+      "colony": "QUEENSLAND",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1917,
+      "gap_end": 1923,
+      "gap_size": 7,
+      "total_years_found": 19
+    },
+    {
+      "colony": "RHODESIA",
+      "first_appearance": 1899,
+      "last_appearance": 1924,
+      "gap_start": 1905,
+      "gap_end": 1911,
+      "gap_size": 7,
+      "total_years_found": 4
+    },
+    {
+      "colony": "ST HELENA",
+      "first_appearance": 1883,
+      "last_appearance": 1961,
+      "gap_start": 1905,
+      "gap_end": 1911,
+      "gap_size": 7,
+      "total_years_found": 3
+    },
+    {
+      "colony": "ST LUCIA",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1905,
+      "gap_end": 1911,
+      "gap_size": 7,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST VINCENT",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1905,
+      "gap_end": 1911,
+      "gap_size": 7,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST. HELENA",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1905,
+      "gap_end": 1911,
+      "gap_size": 7,
+      "total_years_found": 45
+    },
+    {
+      "colony": "ST. LUCIA",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1905,
+      "gap_end": 1911,
+      "gap_size": 7,
+      "total_years_found": 31
+    },
+    {
+      "colony": "ST. LUCIA",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1950,
+      "gap_end": 1956,
+      "gap_size": 7,
+      "total_years_found": 31
+    },
+    {
+      "colony": "ST. VINCENT",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1905,
+      "gap_end": 1911,
+      "gap_size": 7,
+      "total_years_found": 34
+    },
+    {
+      "colony": "ST. VINCENT",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1950,
+      "gap_end": 1956,
+      "gap_size": 7,
+      "total_years_found": 34
+    },
+    {
+      "colony": "TOBAGO",
+      "first_appearance": 1867,
+      "last_appearance": 1932,
+      "gap_start": 1919,
+      "gap_end": 1925,
+      "gap_size": 7,
+      "total_years_found": 14
+    },
+    {
+      "colony": "VICTORIA",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1917,
+      "gap_end": 1923,
+      "gap_size": 7,
+      "total_years_found": 21
+    },
+    {
+      "colony": "WESTERN AUSTRALIA",
+      "first_appearance": 1877,
+      "last_appearance": 1924,
+      "gap_start": 1917,
+      "gap_end": 1923,
+      "gap_size": 7,
+      "total_years_found": 16
+    },
+    {
+      "colony": "ZANZIBAR",
+      "first_appearance": 1900,
+      "last_appearance": 1964,
+      "gap_start": 1905,
+      "gap_end": 1911,
+      "gap_size": 7,
+      "total_years_found": 34
+    },
+    {
+      "colony": "CAYMAN ISLANDS",
+      "first_appearance": 1910,
+      "last_appearance": 1966,
+      "gap_start": 1950,
+      "gap_end": 1955,
+      "gap_size": 6,
+      "total_years_found": 30
+    },
+    {
+      "colony": "COLUMBIA",
+      "first_appearance": 1898,
+      "last_appearance": 1937,
+      "gap_start": 1917,
+      "gap_end": 1922,
+      "gap_size": 6,
+      "total_years_found": 18
+    },
+    {
+      "colony": "DOMINICA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1950,
+      "gap_end": 1955,
+      "gap_size": 6,
+      "total_years_found": 43
+    },
+    {
+      "colony": "FALKLAND ISLANDS AND DEPENDENCIES",
+      "first_appearance": 1952,
+      "last_appearance": 1966,
+      "gap_start": 1956,
+      "gap_end": 1961,
+      "gap_size": 6,
+      "total_years_found": 9
+    },
+    {
+      "colony": "MISCELLANEOUS ISLANDS",
+      "first_appearance": 1917,
+      "last_appearance": 1936,
+      "gap_start": 1918,
+      "gap_end": 1923,
+      "gap_size": 6,
+      "total_years_found": 8
+    },
+    {
+      "colony": "RHODESIA",
+      "first_appearance": 1899,
+      "last_appearance": 1924,
+      "gap_start": 1918,
+      "gap_end": 1923,
+      "gap_size": 6,
+      "total_years_found": 4
+    },
+    {
+      "colony": "TRINIDAD",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1953,
+      "gap_end": 1958,
+      "gap_size": 6,
+      "total_years_found": 26
+    },
+    {
+      "colony": "TURKS AND CAICOS ISLANDS",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1950,
+      "gap_end": 1955,
+      "gap_size": 6,
+      "total_years_found": 36
+    },
+    {
+      "colony": "VIRGIN ISLANDS",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1950,
+      "gap_end": 1955,
+      "gap_size": 6,
+      "total_years_found": 13
+    },
+    {
+      "colony": "AUSTRALIA",
+      "first_appearance": 1906,
+      "last_appearance": 1937,
+      "gap_start": 1907,
+      "gap_end": 1911,
+      "gap_size": 5,
+      "total_years_found": 19
+    },
+    {
+      "colony": "BRUNEI",
+      "first_appearance": 1932,
+      "last_appearance": 1963,
+      "gap_start": 1956,
+      "gap_end": 1960,
+      "gap_size": 5,
+      "total_years_found": 12
+    },
+    {
+      "colony": "CANADA",
+      "first_appearance": 1867,
+      "last_appearance": 1936,
+      "gap_start": 1896,
+      "gap_end": 1900,
+      "gap_size": 5,
+      "total_years_found": 7
+    },
+    {
+      "colony": "FEDERATION OF RHODESIA AND NYASALAND",
+      "first_appearance": 1956,
+      "last_appearance": 1963,
+      "gap_start": 1957,
+      "gap_end": 1961,
+      "gap_size": 5,
+      "total_years_found": 3
+    },
+    {
+      "colony": "GOLD COAST",
+      "first_appearance": 1867,
+      "last_appearance": 1955,
+      "gap_start": 1896,
+      "gap_end": 1900,
+      "gap_size": 5,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GOLD COAST COLONY",
+      "first_appearance": 1877,
+      "last_appearance": 1915,
+      "gap_start": 1896,
+      "gap_end": 1900,
+      "gap_size": 5,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1961,
+      "gap_end": 1965,
+      "gap_size": 5,
+      "total_years_found": 22
+    },
+    {
+      "colony": "KENYA",
+      "first_appearance": 1927,
+      "last_appearance": 1964,
+      "gap_start": 1956,
+      "gap_end": 1960,
+      "gap_size": 5,
+      "total_years_found": 16
+    },
+    {
+      "colony": "KINGDOM OF TONGA",
+      "first_appearance": 1956,
+      "last_appearance": 1966,
+      "gap_start": 1957,
+      "gap_end": 1961,
+      "gap_size": 5,
+      "total_years_found": 6
+    },
+    {
+      "colony": "NYASALAND PROTECTORATE",
+      "first_appearance": 1908,
+      "last_appearance": 1964,
+      "gap_start": 1957,
+      "gap_end": 1961,
+      "gap_size": 5,
+      "total_years_found": 16
+    },
+    {
+      "colony": "SOLOMON ISLANDS PROTECTORATE",
+      "first_appearance": 1956,
+      "last_appearance": 1966,
+      "gap_start": 1957,
+      "gap_end": 1961,
+      "gap_size": 5,
+      "total_years_found": 5
+    },
+    {
+      "colony": "SOMALILAND PROTECTORATE",
+      "first_appearance": 1906,
+      "last_appearance": 1956,
+      "gap_start": 1921,
+      "gap_end": 1925,
+      "gap_size": 5,
+      "total_years_found": 16
+    },
+    {
+      "colony": "ST HELENA",
+      "first_appearance": 1883,
+      "last_appearance": 1961,
+      "gap_start": 1896,
+      "gap_end": 1900,
+      "gap_size": 5,
+      "total_years_found": 3
+    },
+    {
+      "colony": "ST LUCIA",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1896,
+      "gap_end": 1900,
+      "gap_size": 5,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST VINCENT",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1896,
+      "gap_end": 1900,
+      "gap_size": 5,
+      "total_years_found": 2
+    },
+    {
+      "colony": "TANGANYIKA",
+      "first_appearance": 1946,
+      "last_appearance": 1962,
+      "gap_start": 1956,
+      "gap_end": 1960,
+      "gap_size": 5,
+      "total_years_found": 10
+    },
+    {
+      "colony": "TRANSVAAL",
+      "first_appearance": 1906,
+      "last_appearance": 1923,
+      "gap_start": 1907,
+      "gap_end": 1911,
+      "gap_size": 5,
+      "total_years_found": 3
+    },
+    {
+      "colony": "TRINIDAD AND TOBAGO",
+      "first_appearance": 1889,
+      "last_appearance": 1956,
+      "gap_start": 1896,
+      "gap_end": 1900,
+      "gap_size": 5,
+      "total_years_found": 29
+    },
+    {
+      "colony": "WINDWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1896,
+      "gap_end": 1900,
+      "gap_size": 5,
+      "total_years_found": 23
+    },
+    {
+      "colony": "ADEN",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1952,
+      "gap_end": 1955,
+      "gap_size": 4,
+      "total_years_found": 35
+    },
+    {
+      "colony": "CAPE OF GOOD HOPE",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1917,
+      "gap_end": 1920,
+      "gap_size": 4,
+      "total_years_found": 27
+    },
+    {
+      "colony": "DOMINION OF CANADA",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1927,
+      "gap_end": 1930,
+      "gap_size": 4,
+      "total_years_found": 30
+    },
+    {
+      "colony": "GOLD COAST",
+      "first_appearance": 1867,
+      "last_appearance": 1955,
+      "gap_start": 1905,
+      "gap_end": 1908,
+      "gap_size": 4,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GOLD COAST",
+      "first_appearance": 1867,
+      "last_appearance": 1955,
+      "gap_start": 1918,
+      "gap_end": 1921,
+      "gap_size": 4,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1908,
+      "gap_end": 1911,
+      "gap_size": 4,
+      "total_years_found": 22
+    },
+    {
+      "colony": "LABUAN",
+      "first_appearance": 1867,
+      "last_appearance": 1936,
+      "gap_start": 1927,
+      "gap_end": 1930,
+      "gap_size": 4,
+      "total_years_found": 33
+    },
+    {
+      "colony": "LEEWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1897,
+      "gap_end": 1900,
+      "gap_size": 4,
+      "total_years_found": 28
+    },
+    {
+      "colony": "LEEWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1917,
+      "gap_end": 1920,
+      "gap_size": 4,
+      "total_years_found": 28
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1922,
+      "gap_end": 1925,
+      "gap_size": 4,
+      "total_years_found": 31
+    },
+    {
+      "colony": "NATAL",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1917,
+      "gap_end": 1920,
+      "gap_size": 4,
+      "total_years_found": 17
+    },
+    {
+      "colony": "NORTHERN RHODESIA",
+      "first_appearance": 1918,
+      "last_appearance": 1964,
+      "gap_start": 1957,
+      "gap_end": 1960,
+      "gap_size": 4,
+      "total_years_found": 23
+    },
+    {
+      "colony": "NYASALAND",
+      "first_appearance": 1907,
+      "last_appearance": 1961,
+      "gap_start": 1908,
+      "gap_end": 1911,
+      "gap_size": 4,
+      "total_years_found": 5
+    },
+    {
+      "colony": "SARAWAK",
+      "first_appearance": 1917,
+      "last_appearance": 1963,
+      "gap_start": 1918,
+      "gap_end": 1921,
+      "gap_size": 4,
+      "total_years_found": 13
+    },
+    {
+      "colony": "SARAWAK",
+      "first_appearance": 1917,
+      "last_appearance": 1963,
+      "gap_start": 1957,
+      "gap_end": 1960,
+      "gap_size": 4,
+      "total_years_found": 13
+    },
+    {
+      "colony": "SINGAPORE",
+      "first_appearance": 1905,
+      "last_appearance": 1956,
+      "gap_start": 1906,
+      "gap_end": 1909,
+      "gap_size": 4,
+      "total_years_found": 10
+    },
+    {
+      "colony": "SINGAPORE",
+      "first_appearance": 1905,
+      "last_appearance": 1956,
+      "gap_start": 1950,
+      "gap_end": 1953,
+      "gap_size": 4,
+      "total_years_found": 10
+    },
+    {
+      "colony": "SOUTH WEST AFRICA",
+      "first_appearance": 1920,
+      "last_appearance": 1937,
+      "gap_start": 1927,
+      "gap_end": 1930,
+      "gap_size": 4,
+      "total_years_found": 7
+    },
+    {
+      "colony": "ST HELENA",
+      "first_appearance": 1883,
+      "last_appearance": 1961,
+      "gap_start": 1957,
+      "gap_end": 1960,
+      "gap_size": 4,
+      "total_years_found": 3
+    },
+    {
+      "colony": "ST. LUCIA",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1961,
+      "gap_end": 1964,
+      "gap_size": 4,
+      "total_years_found": 31
+    },
+    {
+      "colony": "TRANSVAAL",
+      "first_appearance": 1906,
+      "last_appearance": 1923,
+      "gap_start": 1917,
+      "gap_end": 1920,
+      "gap_size": 4,
+      "total_years_found": 3
+    },
+    {
+      "colony": "TRINIDAD",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1917,
+      "gap_end": 1920,
+      "gap_size": 4,
+      "total_years_found": 26
+    },
+    {
+      "colony": "TRINIDAD",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1931,
+      "gap_end": 1934,
+      "gap_size": 4,
+      "total_years_found": 26
+    },
+    {
+      "colony": "VIRGIN ISLANDS",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1957,
+      "gap_end": 1960,
+      "gap_size": 4,
+      "total_years_found": 13
+    },
+    {
+      "colony": "ADEN",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1960,
+      "gap_end": 1962,
+      "gap_size": 3,
+      "total_years_found": 35
+    },
+    {
+      "colony": "ANTIGUA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1888,
+      "gap_end": 1890,
+      "gap_size": 3,
+      "total_years_found": 36
+    },
+    {
+      "colony": "BAHAMA ISLANDS",
+      "first_appearance": 1946,
+      "last_appearance": 1966,
+      "gap_start": 1951,
+      "gap_end": 1953,
+      "gap_size": 3,
+      "total_years_found": 10
+    },
+    {
+      "colony": "BARBADOS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1928,
+      "gap_end": 1930,
+      "gap_size": 3,
+      "total_years_found": 45
+    },
+    {
+      "colony": "CANADA",
+      "first_appearance": 1867,
+      "last_appearance": 1936,
+      "gap_start": 1888,
+      "gap_end": 1890,
+      "gap_size": 3,
+      "total_years_found": 7
+    },
+    {
+      "colony": "CANADA",
+      "first_appearance": 1867,
+      "last_appearance": 1936,
+      "gap_start": 1927,
+      "gap_end": 1929,
+      "gap_size": 3,
+      "total_years_found": 7
+    },
+    {
+      "colony": "CAPE OF GOOD HOPE",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1929,
+      "gap_end": 1931,
+      "gap_size": 3,
+      "total_years_found": 27
+    },
+    {
+      "colony": "CAYMAN ISLANDS",
+      "first_appearance": 1910,
+      "last_appearance": 1966,
+      "gap_start": 1960,
+      "gap_end": 1962,
+      "gap_size": 3,
+      "total_years_found": 30
+    },
+    {
+      "colony": "DOMINICA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1888,
+      "gap_end": 1890,
+      "gap_size": 3,
+      "total_years_found": 43
+    },
+    {
+      "colony": "DOMINICA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1961,
+      "gap_end": 1963,
+      "gap_size": 3,
+      "total_years_found": 43
+    },
+    {
+      "colony": "DOMINION OF CANADA",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1923,
+      "gap_end": 1925,
+      "gap_size": 3,
+      "total_years_found": 30
+    },
+    {
+      "colony": "DURBAN",
+      "first_appearance": 1906,
+      "last_appearance": 1911,
+      "gap_start": 1907,
+      "gap_end": 1909,
+      "gap_size": 3,
+      "total_years_found": 3
+    },
+    {
+      "colony": "FINANCES",
+      "first_appearance": 1906,
+      "last_appearance": 1910,
+      "gap_start": 1907,
+      "gap_end": 1909,
+      "gap_size": 3,
+      "total_years_found": 2
+    },
+    {
+      "colony": "GOLD COAST",
+      "first_appearance": 1867,
+      "last_appearance": 1955,
+      "gap_start": 1888,
+      "gap_end": 1890,
+      "gap_size": 3,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GOLD COAST",
+      "first_appearance": 1867,
+      "last_appearance": 1955,
+      "gap_start": 1923,
+      "gap_end": 1925,
+      "gap_size": 3,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1917,
+      "gap_end": 1919,
+      "gap_size": 3,
+      "total_years_found": 22
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1921,
+      "gap_end": 1923,
+      "gap_size": 3,
+      "total_years_found": 22
+    },
+    {
+      "colony": "GRENADE",
+      "first_appearance": 1908,
+      "last_appearance": 1966,
+      "gap_start": 1909,
+      "gap_end": 1911,
+      "gap_size": 3,
+      "total_years_found": 2
+    },
+    {
+      "colony": "HOUSE OF REPRESENTATIVES",
+      "first_appearance": 1907,
+      "last_appearance": 1911,
+      "gap_start": 1908,
+      "gap_end": 1910,
+      "gap_size": 3,
+      "total_years_found": 2
+    },
+    {
+      "colony": "JAMAICA",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1928,
+      "gap_end": 1930,
+      "gap_size": 3,
+      "total_years_found": 46
+    },
+    {
+      "colony": "JAMAICA",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1932,
+      "gap_end": 1934,
+      "gap_size": 3,
+      "total_years_found": 46
+    },
+    {
+      "colony": "KENYA",
+      "first_appearance": 1927,
+      "last_appearance": 1964,
+      "gap_start": 1928,
+      "gap_end": 1930,
+      "gap_size": 3,
+      "total_years_found": 16
+    },
+    {
+      "colony": "LAGOS",
+      "first_appearance": 1867,
+      "last_appearance": 1906,
+      "gap_start": 1888,
+      "gap_end": 1890,
+      "gap_size": 3,
+      "total_years_found": 8
+    },
+    {
+      "colony": "LEEWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1923,
+      "gap_end": 1925,
+      "gap_size": 3,
+      "total_years_found": 28
+    },
+    {
+      "colony": "MALTA",
+      "first_appearance": 1867,
+      "last_appearance": 1961,
+      "gap_start": 1956,
+      "gap_end": 1958,
+      "gap_size": 3,
+      "total_years_found": 41
+    },
+    {
+      "colony": "MISCELLANEOUS ISLANDS",
+      "first_appearance": 1917,
+      "last_appearance": 1936,
+      "gap_start": 1932,
+      "gap_end": 1934,
+      "gap_size": 3,
+      "total_years_found": 8
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1888,
+      "gap_end": 1890,
+      "gap_size": 3,
+      "total_years_found": 31
+    },
+    {
+      "colony": "NEW ZEALAND",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1923,
+      "gap_end": 1925,
+      "gap_size": 3,
+      "total_years_found": 30
+    },
+    {
+      "colony": "NEW ZEALAND",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1927,
+      "gap_end": 1929,
+      "gap_size": 3,
+      "total_years_found": 30
+    },
+    {
+      "colony": "SARAWAK",
+      "first_appearance": 1917,
+      "last_appearance": 1963,
+      "gap_start": 1923,
+      "gap_end": 1925,
+      "gap_size": 3,
+      "total_years_found": 13
+    },
+    {
+      "colony": "SEYCHELLES",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1888,
+      "gap_end": 1890,
+      "gap_size": 3,
+      "total_years_found": 50
+    },
+    {
+      "colony": "SOUTH AFRICA",
+      "first_appearance": 1907,
+      "last_appearance": 1937,
+      "gap_start": 1923,
+      "gap_end": 1925,
+      "gap_size": 3,
+      "total_years_found": 15
+    },
+    {
+      "colony": "SOUTH AFRICA",
+      "first_appearance": 1907,
+      "last_appearance": 1937,
+      "gap_start": 1927,
+      "gap_end": 1929,
+      "gap_size": 3,
+      "total_years_found": 15
+    },
+    {
+      "colony": "SOUTH WEST AFRICA",
+      "first_appearance": 1920,
+      "last_appearance": 1937,
+      "gap_start": 1932,
+      "gap_end": 1934,
+      "gap_size": 3,
+      "total_years_found": 7
+    },
+    {
+      "colony": "ST HELENA",
+      "first_appearance": 1883,
+      "last_appearance": 1961,
+      "gap_start": 1888,
+      "gap_end": 1890,
+      "gap_size": 3,
+      "total_years_found": 3
+    },
+    {
+      "colony": "ST LUCIA",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1888,
+      "gap_end": 1890,
+      "gap_size": 3,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST VINCENT",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1888,
+      "gap_end": 1890,
+      "gap_size": 3,
+      "total_years_found": 2
+    },
+    {
+      "colony": "TANGANYIKA TERRITORY",
+      "first_appearance": 1920,
+      "last_appearance": 1934,
+      "gap_start": 1927,
+      "gap_end": 1929,
+      "gap_size": 3,
+      "total_years_found": 8
+    },
+    {
+      "colony": "TOBAGO",
+      "first_appearance": 1867,
+      "last_appearance": 1932,
+      "gap_start": 1888,
+      "gap_end": 1890,
+      "gap_size": 3,
+      "total_years_found": 14
+    },
+    {
+      "colony": "TOBAGO",
+      "first_appearance": 1867,
+      "last_appearance": 1932,
+      "gap_start": 1927,
+      "gap_end": 1929,
+      "gap_size": 3,
+      "total_years_found": 14
+    },
+    {
+      "colony": "TONGA",
+      "first_appearance": 1922,
+      "last_appearance": 1961,
+      "gap_start": 1923,
+      "gap_end": 1925,
+      "gap_size": 3,
+      "total_years_found": 2
+    },
+    {
+      "colony": "TRINIDAD",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1948,
+      "gap_end": 1950,
+      "gap_size": 3,
+      "total_years_found": 26
+    },
+    {
+      "colony": "TRISTAN DA CUNHA",
+      "first_appearance": 1917,
+      "last_appearance": 1936,
+      "gap_start": 1918,
+      "gap_end": 1920,
+      "gap_size": 3,
+      "total_years_found": 14
+    },
+    {
+      "colony": "TURKS AND CAICOS ISLANDS",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1960,
+      "gap_end": 1962,
+      "gap_size": 3,
+      "total_years_found": 36
+    },
+    {
+      "colony": "WINDWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1956,
+      "gap_end": 1958,
+      "gap_size": 3,
+      "total_years_found": 23
+    },
+    {
+      "colony": "ADEN",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1948,
+      "gap_end": 1949,
+      "gap_size": 2,
+      "total_years_found": 35
+    },
+    {
+      "colony": "AFRICA",
+      "first_appearance": 1962,
+      "last_appearance": 1965,
+      "gap_start": 1963,
+      "gap_end": 1964,
+      "gap_size": 2,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ANTIGUA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1908,
+      "gap_end": 1909,
+      "gap_size": 2,
+      "total_years_found": 36
+    },
+    {
+      "colony": "ANTIGUA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1957,
+      "gap_end": 1958,
+      "gap_size": 2,
+      "total_years_found": 36
+    },
+    {
+      "colony": "ANTIGUA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1961,
+      "gap_end": 1962,
+      "gap_size": 2,
+      "total_years_found": 36
+    },
+    {
+      "colony": "BARBADOS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 45
+    },
+    {
+      "colony": "BARBADOS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1961,
+      "gap_end": 1962,
+      "gap_size": 2,
+      "total_years_found": 45
+    },
+    {
+      "colony": "BECHUANALAND PROTECTORATE",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 12
+    },
+    {
+      "colony": "BRUNEI",
+      "first_appearance": 1932,
+      "last_appearance": 1963,
+      "gap_start": 1948,
+      "gap_end": 1949,
+      "gap_size": 2,
+      "total_years_found": 12
+    },
+    {
+      "colony": "CABINET",
+      "first_appearance": 1910,
+      "last_appearance": 1964,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 3
+    },
+    {
+      "colony": "CEYLON",
+      "first_appearance": 1867,
+      "last_appearance": 1946,
+      "gap_start": 1907,
+      "gap_end": 1908,
+      "gap_size": 2,
+      "total_years_found": 40
+    },
+    {
+      "colony": "COLUMBIA",
+      "first_appearance": 1898,
+      "last_appearance": 1937,
+      "gap_start": 1899,
+      "gap_end": 1900,
+      "gap_size": 2,
+      "total_years_found": 18
+    },
+    {
+      "colony": "CYPRUS",
+      "first_appearance": 1883,
+      "last_appearance": 1960,
+      "gap_start": 1889,
+      "gap_end": 1890,
+      "gap_size": 2,
+      "total_years_found": 46
+    },
+    {
+      "colony": "CYPRUS",
+      "first_appearance": 1883,
+      "last_appearance": 1960,
+      "gap_start": 1948,
+      "gap_end": 1949,
+      "gap_size": 2,
+      "total_years_found": 46
+    },
+    {
+      "colony": "EXECUTIVE COUNCIL",
+      "first_appearance": 1906,
+      "last_appearance": 1966,
+      "gap_start": 1910,
+      "gap_end": 1911,
+      "gap_size": 2,
+      "total_years_found": 9
+    },
+    {
+      "colony": "EXECUTIVE COUNCIL",
+      "first_appearance": 1906,
+      "last_appearance": 1966,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 9
+    },
+    {
+      "colony": "FEDERAL COUNCIL",
+      "first_appearance": 1910,
+      "last_appearance": 1966,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 5
+    },
+    {
+      "colony": "FEDERATION OF MALAYA",
+      "first_appearance": 1950,
+      "last_appearance": 1956,
+      "gap_start": 1951,
+      "gap_end": 1952,
+      "gap_size": 2,
+      "total_years_found": 5
+    },
+    {
+      "colony": "GIBRALTAR",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1897,
+      "gap_end": 1898,
+      "gap_size": 2,
+      "total_years_found": 57
+    },
+    {
+      "colony": "GIBRALTAR",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1952,
+      "gap_end": 1953,
+      "gap_size": 2,
+      "total_years_found": 57
+    },
+    {
+      "colony": "GOLD COAST",
+      "first_appearance": 1867,
+      "last_appearance": 1955,
+      "gap_start": 1910,
+      "gap_end": 1911,
+      "gap_size": 2,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GOLD COAST",
+      "first_appearance": 1867,
+      "last_appearance": 1955,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GOVERNMENT STORE",
+      "first_appearance": 1907,
+      "last_appearance": 1910,
+      "gap_start": 1908,
+      "gap_end": 1909,
+      "gap_size": 2,
+      "total_years_found": 2
+    },
+    {
+      "colony": "GRENA DA",
+      "first_appearance": 1910,
+      "last_appearance": 1964,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 4
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1889,
+      "gap_end": 1890,
+      "gap_size": 2,
+      "total_years_found": 22
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1896,
+      "gap_end": 1897,
+      "gap_size": 2,
+      "total_years_found": 22
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1899,
+      "gap_end": 1900,
+      "gap_size": 2,
+      "total_years_found": 22
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1929,
+      "gap_end": 1930,
+      "gap_size": 2,
+      "total_years_found": 22
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1957,
+      "gap_end": 1958,
+      "gap_size": 2,
+      "total_years_found": 22
+    },
+    {
+      "colony": "GRENADE",
+      "first_appearance": 1908,
+      "last_appearance": 1966,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 2
+    },
+    {
+      "colony": "HONG KONG",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1920,
+      "gap_end": 1921,
+      "gap_size": 2,
+      "total_years_found": 52
+    },
+    {
+      "colony": "JAMAICA",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1924,
+      "gap_end": 1925,
+      "gap_size": 2,
+      "total_years_found": 46
+    },
+    {
+      "colony": "KENYA",
+      "first_appearance": 1927,
+      "last_appearance": 1964,
+      "gap_start": 1932,
+      "gap_end": 1933,
+      "gap_size": 2,
+      "total_years_found": 16
+    },
+    {
+      "colony": "KENYA",
+      "first_appearance": 1927,
+      "last_appearance": 1964,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 16
+    },
+    {
+      "colony": "LABUAN",
+      "first_appearance": 1867,
+      "last_appearance": 1936,
+      "gap_start": 1933,
+      "gap_end": 1934,
+      "gap_size": 2,
+      "total_years_found": 33
+    },
+    {
+      "colony": "LEEWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 28
+    },
+    {
+      "colony": "LOUIS BOTHA",
+      "first_appearance": 1907,
+      "last_appearance": 1910,
+      "gap_start": 1908,
+      "gap_end": 1909,
+      "gap_size": 2,
+      "total_years_found": 2
+    },
+    {
+      "colony": "MALTA",
+      "first_appearance": 1867,
+      "last_appearance": 1961,
+      "gap_start": 1899,
+      "gap_end": 1900,
+      "gap_size": 2,
+      "total_years_found": 41
+    },
+    {
+      "colony": "MALTA",
+      "first_appearance": 1867,
+      "last_appearance": 1961,
+      "gap_start": 1927,
+      "gap_end": 1928,
+      "gap_size": 2,
+      "total_years_found": 41
+    },
+    {
+      "colony": "MALTA, G.C.",
+      "first_appearance": 1962,
+      "last_appearance": 1965,
+      "gap_start": 1963,
+      "gap_end": 1964,
+      "gap_size": 2,
+      "total_years_found": 2
+    },
+    {
+      "colony": "MANITOBA",
+      "first_appearance": 1898,
+      "last_appearance": 1908,
+      "gap_start": 1899,
+      "gap_end": 1900,
+      "gap_size": 2,
+      "total_years_found": 3
+    },
+    {
+      "colony": "MANITOBA",
+      "first_appearance": 1898,
+      "last_appearance": 1908,
+      "gap_start": 1905,
+      "gap_end": 1906,
+      "gap_size": 2,
+      "total_years_found": 3
+    },
+    {
+      "colony": "MAURITIUS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1951,
+      "gap_end": 1952,
+      "gap_size": 2,
+      "total_years_found": 57
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1896,
+      "gap_end": 1897,
+      "gap_size": 2,
+      "total_years_found": 31
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1961,
+      "gap_end": 1962,
+      "gap_size": 2,
+      "total_years_found": 31
+    },
+    {
+      "colony": "NATAL",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1897,
+      "gap_end": 1898,
+      "gap_size": 2,
+      "total_years_found": 17
+    },
+    {
+      "colony": "NATAL",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1908,
+      "gap_end": 1909,
+      "gap_size": 2,
+      "total_years_found": 17
+    },
+    {
+      "colony": "NATAL",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1924,
+      "gap_end": 1925,
+      "gap_size": 2,
+      "total_years_found": 17
+    },
+    {
+      "colony": "NEW SOUTH WALES",
+      "first_appearance": 1877,
+      "last_appearance": 1911,
+      "gap_start": 1889,
+      "gap_end": 1890,
+      "gap_size": 2,
+      "total_years_found": 16
+    },
+    {
+      "colony": "NORTH BORNEO",
+      "first_appearance": 1898,
+      "last_appearance": 1963,
+      "gap_start": 1921,
+      "gap_end": 1922,
+      "gap_size": 2,
+      "total_years_found": 34
+    },
+    {
+      "colony": "NORTH-WEST TERRITORIES",
+      "first_appearance": 1905,
+      "last_appearance": 1908,
+      "gap_start": 1906,
+      "gap_end": 1907,
+      "gap_size": 2,
+      "total_years_found": 2
+    },
+    {
+      "colony": "NORTHERN RHODESIA",
+      "first_appearance": 1918,
+      "last_appearance": 1964,
+      "gap_start": 1920,
+      "gap_end": 1921,
+      "gap_size": 2,
+      "total_years_found": 23
+    },
+    {
+      "colony": "NORTHERN RHODESIA",
+      "first_appearance": 1918,
+      "last_appearance": 1964,
+      "gap_start": 1929,
+      "gap_end": 1930,
+      "gap_size": 2,
+      "total_years_found": 23
+    },
+    {
+      "colony": "NYASALAND",
+      "first_appearance": 1907,
+      "last_appearance": 1961,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 5
+    },
+    {
+      "colony": "NYASALAND PROTECTORATE",
+      "first_appearance": 1908,
+      "last_appearance": 1964,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 16
+    },
+    {
+      "colony": "NYASALAND PROTECTORATE",
+      "first_appearance": 1908,
+      "last_appearance": 1964,
+      "gap_start": 1948,
+      "gap_end": 1949,
+      "gap_size": 2,
+      "total_years_found": 16
+    },
+    {
+      "colony": "QUEENSLAND",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1908,
+      "gap_end": 1909,
+      "gap_size": 2,
+      "total_years_found": 19
+    },
+    {
+      "colony": "REGISTRAR-GENERAL",
+      "first_appearance": 1907,
+      "last_appearance": 1910,
+      "gap_start": 1908,
+      "gap_end": 1909,
+      "gap_size": 2,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ROYAL ALFRED OBSERVATORY",
+      "first_appearance": 1907,
+      "last_appearance": 1911,
+      "gap_start": 1908,
+      "gap_end": 1909,
+      "gap_size": 2,
+      "total_years_found": 3
+    },
+    {
+      "colony": "SARAWAK",
+      "first_appearance": 1917,
+      "last_appearance": 1963,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 13
+    },
+    {
+      "colony": "SINGAPORE",
+      "first_appearance": 1905,
+      "last_appearance": 1956,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 10
+    },
+    {
+      "colony": "SOMALILAND PROTECTORATE",
+      "first_appearance": 1906,
+      "last_appearance": 1956,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 16
+    },
+    {
+      "colony": "SOMALILAND PROTECTORATE",
+      "first_appearance": 1906,
+      "last_appearance": 1956,
+      "gap_start": 1948,
+      "gap_end": 1949,
+      "gap_size": 2,
+      "total_years_found": 16
+    },
+    {
+      "colony": "ST HELENA",
+      "first_appearance": 1883,
+      "last_appearance": 1961,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 3
+    },
+    {
+      "colony": "ST LUCIA",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST VINCENT",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST. HELENA",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1889,
+      "gap_end": 1890,
+      "gap_size": 2,
+      "total_years_found": 45
+    },
+    {
+      "colony": "ST. HELENA",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1960,
+      "gap_end": 1961,
+      "gap_size": 2,
+      "total_years_found": 45
+    },
+    {
+      "colony": "ST. VINCENT",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1961,
+      "gap_end": 1962,
+      "gap_size": 2,
+      "total_years_found": 34
+    },
+    {
+      "colony": "STRAITS SETTLEMENTS",
+      "first_appearance": 1877,
+      "last_appearance": 1936,
+      "gap_start": 1905,
+      "gap_end": 1906,
+      "gap_size": 2,
+      "total_years_found": 28
+    },
+    {
+      "colony": "TANGANYIKA TERRITORY",
+      "first_appearance": 1920,
+      "last_appearance": 1934,
+      "gap_start": 1924,
+      "gap_end": 1925,
+      "gap_size": 2,
+      "total_years_found": 8
+    },
+    {
+      "colony": "TASMANIA",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1917,
+      "gap_end": 1918,
+      "gap_size": 2,
+      "total_years_found": 23
+    },
+    {
+      "colony": "TASMANIA",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1920,
+      "gap_end": 1921,
+      "gap_size": 2,
+      "total_years_found": 23
+    },
+    {
+      "colony": "TOBAGO",
+      "first_appearance": 1867,
+      "last_appearance": 1932,
+      "gap_start": 1898,
+      "gap_end": 1899,
+      "gap_size": 2,
+      "total_years_found": 14
+    },
+    {
+      "colony": "TONGA",
+      "first_appearance": 1922,
+      "last_appearance": 1961,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 2
+    },
+    {
+      "colony": "TRINIDAD",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1889,
+      "gap_end": 1890,
+      "gap_size": 2,
+      "total_years_found": 26
+    },
+    {
+      "colony": "TRINIDAD",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1922,
+      "gap_end": 1923,
+      "gap_size": 2,
+      "total_years_found": 26
+    },
+    {
+      "colony": "TRINIDAD",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1927,
+      "gap_end": 1928,
+      "gap_size": 2,
+      "total_years_found": 26
+    },
+    {
+      "colony": "TRINIDAD",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 26
+    },
+    {
+      "colony": "TRINIDAD AND TOBAGO",
+      "first_appearance": 1889,
+      "last_appearance": 1956,
+      "gap_start": 1906,
+      "gap_end": 1907,
+      "gap_size": 2,
+      "total_years_found": 29
+    },
+    {
+      "colony": "TRINIDAD AND TOBAGO",
+      "first_appearance": 1889,
+      "last_appearance": 1956,
+      "gap_start": 1909,
+      "gap_end": 1910,
+      "gap_size": 2,
+      "total_years_found": 29
+    },
+    {
+      "colony": "TRINIDAD AND TOBAGO",
+      "first_appearance": 1889,
+      "last_appearance": 1956,
+      "gap_start": 1929,
+      "gap_end": 1930,
+      "gap_size": 2,
+      "total_years_found": 29
+    },
+    {
+      "colony": "TURKS AND CAICOS ISLANDS",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1908,
+      "gap_end": 1909,
+      "gap_size": 2,
+      "total_years_found": 36
+    },
+    {
+      "colony": "VIRGIN ISLANDS",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1909,
+      "gap_end": 1910,
+      "gap_size": 2,
+      "total_years_found": 13
+    },
+    {
+      "colony": "VIRGIN ISLANDS",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 13
+    },
+    {
+      "colony": "WINDWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1936,
+      "gap_end": 1937,
+      "gap_size": 2,
+      "total_years_found": 23
+    },
+    {
+      "colony": "ZANZIBAR",
+      "first_appearance": 1900,
+      "last_appearance": 1964,
+      "gap_start": 1958,
+      "gap_end": 1959,
+      "gap_size": 2,
+      "total_years_found": 34
+    },
+    {
+      "colony": "ZANZIBAR",
+      "first_appearance": 1900,
+      "last_appearance": 1964,
+      "gap_start": 1962,
+      "gap_end": 1963,
+      "gap_size": 2,
+      "total_years_found": 34
+    },
+    {
+      "colony": "**CIVIL ESTABLISHMENT**",
+      "first_appearance": 1962,
+      "last_appearance": 1966,
+      "gap_start": 1963,
+      "gap_end": 1963,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "**CIVIL ESTABLISHMENT**",
+      "first_appearance": 1962,
+      "last_appearance": 1966,
+      "gap_start": 1965,
+      "gap_end": 1965,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "**REGIONAL COUNCIL OF MINISTERS**",
+      "first_appearance": 1964,
+      "last_appearance": 1966,
+      "gap_start": 1965,
+      "gap_end": 1965,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ADEN",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1897,
+      "gap_end": 1897,
+      "gap_size": 1,
+      "total_years_found": 35
+    },
+    {
+      "colony": "ADEN",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 35
+    },
+    {
+      "colony": "ANGLO-FRENCH CONDOMINIUM OF NEW HEBRIDES",
+      "first_appearance": 1962,
+      "last_appearance": 1966,
+      "gap_start": 1964,
+      "gap_end": 1964,
+      "gap_size": 1,
+      "total_years_found": 4
+    },
+    {
+      "colony": "ANTIGUA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "ANTIGUA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "ANTIGUA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1883,
+      "gap_end": 1883,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "ANTIGUA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1886,
+      "gap_end": 1886,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "ANTIGUA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1906,
+      "gap_end": 1906,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "ANTIGUA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "ANTIGUA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1925,
+      "gap_end": 1925,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "ANTIGUA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "ASCENSION",
+      "first_appearance": 1917,
+      "last_appearance": 1960,
+      "gap_start": 1923,
+      "gap_end": 1923,
+      "gap_size": 1,
+      "total_years_found": 21
+    },
+    {
+      "colony": "ASCENSION",
+      "first_appearance": 1917,
+      "last_appearance": 1960,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 21
+    },
+    {
+      "colony": "ASCENSION",
+      "first_appearance": 1917,
+      "last_appearance": 1960,
+      "gap_start": 1959,
+      "gap_end": 1959,
+      "gap_size": 1,
+      "total_years_found": 21
+    },
+    {
+      "colony": "AUSTRALIA",
+      "first_appearance": 1906,
+      "last_appearance": 1937,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 19
+    },
+    {
+      "colony": "AUSTRALIA",
+      "first_appearance": 1906,
+      "last_appearance": 1937,
+      "gap_start": 1929,
+      "gap_end": 1929,
+      "gap_size": 1,
+      "total_years_found": 19
+    },
+    {
+      "colony": "BAHAMAS",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1909,
+      "gap_end": 1909,
+      "gap_size": 1,
+      "total_years_found": 42
+    },
+    {
+      "colony": "BAHAMAS",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 42
+    },
+    {
+      "colony": "BARBADOS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 45
+    },
+    {
+      "colony": "BARBADOS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 45
+    },
+    {
+      "colony": "BARBADOS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1923,
+      "gap_end": 1923,
+      "gap_size": 1,
+      "total_years_found": 45
+    },
+    {
+      "colony": "BARBADOS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1925,
+      "gap_end": 1925,
+      "gap_size": 1,
+      "total_years_found": 45
+    },
+    {
+      "colony": "BARBADOS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1932,
+      "gap_end": 1932,
+      "gap_size": 1,
+      "total_years_found": 45
+    },
+    {
+      "colony": "BARBADOS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1934,
+      "gap_end": 1934,
+      "gap_size": 1,
+      "total_years_found": 45
+    },
+    {
+      "colony": "BARBADOS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1953,
+      "gap_end": 1953,
+      "gap_size": 1,
+      "total_years_found": 45
+    },
+    {
+      "colony": "BARBADOS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1955,
+      "gap_end": 1955,
+      "gap_size": 1,
+      "total_years_found": 45
+    },
+    {
+      "colony": "BARBADOS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1959,
+      "gap_end": 1959,
+      "gap_size": 1,
+      "total_years_found": 45
+    },
+    {
+      "colony": "BASUTOLAND",
+      "first_appearance": 1888,
+      "last_appearance": 1966,
+      "gap_start": 1899,
+      "gap_end": 1899,
+      "gap_size": 1,
+      "total_years_found": 40
+    },
+    {
+      "colony": "BASUTOLAND",
+      "first_appearance": 1888,
+      "last_appearance": 1966,
+      "gap_start": 1923,
+      "gap_end": 1923,
+      "gap_size": 1,
+      "total_years_found": 40
+    },
+    {
+      "colony": "BASUTOLAND",
+      "first_appearance": 1888,
+      "last_appearance": 1966,
+      "gap_start": 1929,
+      "gap_end": 1929,
+      "gap_size": 1,
+      "total_years_found": 40
+    },
+    {
+      "colony": "BASUTOLAND",
+      "first_appearance": 1888,
+      "last_appearance": 1966,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 40
+    },
+    {
+      "colony": "BASUTOLAND",
+      "first_appearance": 1888,
+      "last_appearance": 1966,
+      "gap_start": 1959,
+      "gap_end": 1959,
+      "gap_size": 1,
+      "total_years_found": 40
+    },
+    {
+      "colony": "BASUTOLAND",
+      "first_appearance": 1888,
+      "last_appearance": 1966,
+      "gap_start": 1961,
+      "gap_end": 1961,
+      "gap_size": 1,
+      "total_years_found": 40
+    },
+    {
+      "colony": "BECHUANALAND PROTECTORATE",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1908,
+      "gap_end": 1908,
+      "gap_size": 1,
+      "total_years_found": 12
+    },
+    {
+      "colony": "BECHUANALAND PROTECTORATE",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 12
+    },
+    {
+      "colony": "BECHUANALAND PROTECTORATE",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1965,
+      "gap_end": 1965,
+      "gap_size": 1,
+      "total_years_found": 12
+    },
+    {
+      "colony": "BERMUDA",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1924,
+      "gap_end": 1924,
+      "gap_size": 1,
+      "total_years_found": 55
+    },
+    {
+      "colony": "BERMUDA",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1953,
+      "gap_end": 1953,
+      "gap_size": 1,
+      "total_years_found": 55
+    },
+    {
+      "colony": "BERMUDA",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1965,
+      "gap_end": 1965,
+      "gap_size": 1,
+      "total_years_found": 55
+    },
+    {
+      "colony": "BISHOPS",
+      "first_appearance": 1908,
+      "last_appearance": 1911,
+      "gap_start": 1909,
+      "gap_end": 1909,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "BRITISH_GUIANA",
+      "first_appearance": 1867,
+      "last_appearance": 1880,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "BRUNEI",
+      "first_appearance": 1932,
+      "last_appearance": 1963,
+      "gap_start": 1936,
+      "gap_end": 1936,
+      "gap_size": 1,
+      "total_years_found": 12
+    },
+    {
+      "colony": "BRUNEI",
+      "first_appearance": 1932,
+      "last_appearance": 1963,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 12
+    },
+    {
+      "colony": "BRUNEI",
+      "first_appearance": 1932,
+      "last_appearance": 1963,
+      "gap_start": 1952,
+      "gap_end": 1952,
+      "gap_size": 1,
+      "total_years_found": 12
+    },
+    {
+      "colony": "CABINET",
+      "first_appearance": 1910,
+      "last_appearance": 1964,
+      "gap_start": 1911,
+      "gap_end": 1911,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "CABINET",
+      "first_appearance": 1910,
+      "last_appearance": 1964,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "CABINET",
+      "first_appearance": 1910,
+      "last_appearance": 1964,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "CANADA",
+      "first_appearance": 1867,
+      "last_appearance": 1936,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 7
+    },
+    {
+      "colony": "CANADA",
+      "first_appearance": 1867,
+      "last_appearance": 1936,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 7
+    },
+    {
+      "colony": "CANADA",
+      "first_appearance": 1867,
+      "last_appearance": 1936,
+      "gap_start": 1886,
+      "gap_end": 1886,
+      "gap_size": 1,
+      "total_years_found": 7
+    },
+    {
+      "colony": "CANADA",
+      "first_appearance": 1867,
+      "last_appearance": 1936,
+      "gap_start": 1894,
+      "gap_end": 1894,
+      "gap_size": 1,
+      "total_years_found": 7
+    },
+    {
+      "colony": "CANADA",
+      "first_appearance": 1867,
+      "last_appearance": 1936,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 7
+    },
+    {
+      "colony": "CANADA",
+      "first_appearance": 1867,
+      "last_appearance": 1936,
+      "gap_start": 1931,
+      "gap_end": 1931,
+      "gap_size": 1,
+      "total_years_found": 7
+    },
+    {
+      "colony": "CAPE OF GOOD HOPE",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 27
+    },
+    {
+      "colony": "CAPE OF GOOD HOPE",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1911,
+      "gap_end": 1911,
+      "gap_size": 1,
+      "total_years_found": 27
+    },
+    {
+      "colony": "CAPE OF GOOD HOPE",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 27
+    },
+    {
+      "colony": "CAPE OF GOOD HOPE",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1922,
+      "gap_end": 1922,
+      "gap_size": 1,
+      "total_years_found": 27
+    },
+    {
+      "colony": "CAPE OF GOOD HOPE",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1933,
+      "gap_end": 1933,
+      "gap_size": 1,
+      "total_years_found": 27
+    },
+    {
+      "colony": "CAPE OF GOOD HOPE",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1936,
+      "gap_end": 1936,
+      "gap_size": 1,
+      "total_years_found": 27
+    },
+    {
+      "colony": "CAPE_OF_GOOD_HOPE",
+      "first_appearance": 1867,
+      "last_appearance": 1880,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "CAYMAN ISLANDS",
+      "first_appearance": 1910,
+      "last_appearance": 1966,
+      "gap_start": 1911,
+      "gap_end": 1911,
+      "gap_size": 1,
+      "total_years_found": 30
+    },
+    {
+      "colony": "CAYMAN ISLANDS",
+      "first_appearance": 1910,
+      "last_appearance": 1966,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 30
+    },
+    {
+      "colony": "CAYMAN ISLANDS",
+      "first_appearance": 1910,
+      "last_appearance": 1966,
+      "gap_start": 1958,
+      "gap_end": 1958,
+      "gap_size": 1,
+      "total_years_found": 30
+    },
+    {
+      "colony": "COLUMBIA",
+      "first_appearance": 1898,
+      "last_appearance": 1937,
+      "gap_start": 1911,
+      "gap_end": 1911,
+      "gap_size": 1,
+      "total_years_found": 18
+    },
+    {
+      "colony": "COLUMBIA",
+      "first_appearance": 1898,
+      "last_appearance": 1937,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 18
+    },
+    {
+      "colony": "COLUMBIA",
+      "first_appearance": 1898,
+      "last_appearance": 1937,
+      "gap_start": 1925,
+      "gap_end": 1925,
+      "gap_size": 1,
+      "total_years_found": 18
+    },
+    {
+      "colony": "COLUMBIA",
+      "first_appearance": 1898,
+      "last_appearance": 1937,
+      "gap_start": 1929,
+      "gap_end": 1929,
+      "gap_size": 1,
+      "total_years_found": 18
+    },
+    {
+      "colony": "COMMONWEALTH",
+      "first_appearance": 1905,
+      "last_appearance": 1911,
+      "gap_start": 1909,
+      "gap_end": 1909,
+      "gap_size": 1,
+      "total_years_found": 6
+    },
+    {
+      "colony": "CYPRUS",
+      "first_appearance": 1883,
+      "last_appearance": 1960,
+      "gap_start": 1927,
+      "gap_end": 1927,
+      "gap_size": 1,
+      "total_years_found": 46
+    },
+    {
+      "colony": "CYPRUS",
+      "first_appearance": 1883,
+      "last_appearance": 1960,
+      "gap_start": 1931,
+      "gap_end": 1931,
+      "gap_size": 1,
+      "total_years_found": 46
+    },
+    {
+      "colony": "DOMINICA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 43
+    },
+    {
+      "colony": "DOMINICA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 43
+    },
+    {
+      "colony": "DOMINICA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1883,
+      "gap_end": 1883,
+      "gap_size": 1,
+      "total_years_found": 43
+    },
+    {
+      "colony": "DOMINICA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1886,
+      "gap_end": 1886,
+      "gap_size": 1,
+      "total_years_found": 43
+    },
+    {
+      "colony": "DOMINICA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 43
+    },
+    {
+      "colony": "DOMINICA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1958,
+      "gap_end": 1958,
+      "gap_size": 1,
+      "total_years_found": 43
+    },
+    {
+      "colony": "DOMINION OF CANADA",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 30
+    },
+    {
+      "colony": "DOMINION OF CANADA",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1883,
+      "gap_end": 1883,
+      "gap_size": 1,
+      "total_years_found": 30
+    },
+    {
+      "colony": "DOMINION OF CANADA",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1905,
+      "gap_end": 1905,
+      "gap_size": 1,
+      "total_years_found": 30
+    },
+    {
+      "colony": "EXECUTIVE COUNCIL",
+      "first_appearance": 1906,
+      "last_appearance": 1966,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 9
+    },
+    {
+      "colony": "EXECUTIVE COUNCIL",
+      "first_appearance": 1906,
+      "last_appearance": 1966,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 9
+    },
+    {
+      "colony": "FALKLAND ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1961,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 43
+    },
+    {
+      "colony": "FALKLAND ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1961,
+      "gap_start": 1897,
+      "gap_end": 1897,
+      "gap_size": 1,
+      "total_years_found": 43
+    },
+    {
+      "colony": "FALKLAND ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1961,
+      "gap_start": 1908,
+      "gap_end": 1908,
+      "gap_size": 1,
+      "total_years_found": 43
+    },
+    {
+      "colony": "FALKLAND ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1961,
+      "gap_start": 1950,
+      "gap_end": 1950,
+      "gap_size": 1,
+      "total_years_found": 43
+    },
+    {
+      "colony": "FALKLAND ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1961,
+      "gap_start": 1960,
+      "gap_end": 1960,
+      "gap_size": 1,
+      "total_years_found": 43
+    },
+    {
+      "colony": "FALKLAND_ISLANDS",
+      "first_appearance": 1867,
+      "last_appearance": 1880,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "FEDERAL COUNCIL",
+      "first_appearance": 1910,
+      "last_appearance": 1966,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 5
+    },
+    {
+      "colony": "FEDERAL COUNCIL",
+      "first_appearance": 1910,
+      "last_appearance": 1966,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 5
+    },
+    {
+      "colony": "FEDERATED STATES OF MALAY PENINSULA",
+      "first_appearance": 1905,
+      "last_appearance": 1915,
+      "gap_start": 1911,
+      "gap_end": 1911,
+      "gap_size": 1,
+      "total_years_found": 7
+    },
+    {
+      "colony": "FIJI",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1890,
+      "gap_end": 1890,
+      "gap_size": 1,
+      "total_years_found": 58
+    },
+    {
+      "colony": "FIJI",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1962,
+      "gap_end": 1962,
+      "gap_size": 1,
+      "total_years_found": 58
+    },
+    {
+      "colony": "GAMBIA",
+      "first_appearance": 1867,
+      "last_appearance": 1965,
+      "gap_start": 1899,
+      "gap_end": 1899,
+      "gap_size": 1,
+      "total_years_found": 56
+    },
+    {
+      "colony": "GAMBIA",
+      "first_appearance": 1867,
+      "last_appearance": 1965,
+      "gap_start": 1905,
+      "gap_end": 1905,
+      "gap_size": 1,
+      "total_years_found": 56
+    },
+    {
+      "colony": "GAMBIA",
+      "first_appearance": 1867,
+      "last_appearance": 1965,
+      "gap_start": 1919,
+      "gap_end": 1919,
+      "gap_size": 1,
+      "total_years_found": 56
+    },
+    {
+      "colony": "GAMBIA",
+      "first_appearance": 1867,
+      "last_appearance": 1965,
+      "gap_start": 1953,
+      "gap_end": 1953,
+      "gap_size": 1,
+      "total_years_found": 56
+    },
+    {
+      "colony": "GOLD COAST",
+      "first_appearance": 1867,
+      "last_appearance": 1955,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GOLD COAST",
+      "first_appearance": 1867,
+      "last_appearance": 1955,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GOLD COAST",
+      "first_appearance": 1867,
+      "last_appearance": 1955,
+      "gap_start": 1883,
+      "gap_end": 1883,
+      "gap_size": 1,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GOLD COAST",
+      "first_appearance": 1867,
+      "last_appearance": 1955,
+      "gap_start": 1886,
+      "gap_end": 1886,
+      "gap_size": 1,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GOLD COAST",
+      "first_appearance": 1867,
+      "last_appearance": 1955,
+      "gap_start": 1894,
+      "gap_end": 1894,
+      "gap_size": 1,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GOLD COAST",
+      "first_appearance": 1867,
+      "last_appearance": 1955,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GOLD COAST COLONY",
+      "first_appearance": 1877,
+      "last_appearance": 1915,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GOLD COAST COLONY",
+      "first_appearance": 1877,
+      "last_appearance": 1915,
+      "gap_start": 1886,
+      "gap_end": 1886,
+      "gap_size": 1,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GOLD COAST COLONY",
+      "first_appearance": 1877,
+      "last_appearance": 1915,
+      "gap_start": 1894,
+      "gap_end": 1894,
+      "gap_size": 1,
+      "total_years_found": 13
+    },
+    {
+      "colony": "GRENA DA",
+      "first_appearance": 1910,
+      "last_appearance": 1964,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 4
+    },
+    {
+      "colony": "GRENA DA",
+      "first_appearance": 1910,
+      "last_appearance": 1964,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 4
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 22
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 22
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1886,
+      "gap_end": 1886,
+      "gap_size": 1,
+      "total_years_found": 22
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 22
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1933,
+      "gap_end": 1933,
+      "gap_size": 1,
+      "total_years_found": 22
+    },
+    {
+      "colony": "GRENADA",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1937,
+      "gap_end": 1937,
+      "gap_size": 1,
+      "total_years_found": 22
+    },
+    {
+      "colony": "GRENADE",
+      "first_appearance": 1908,
+      "last_appearance": 1966,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "GRENADE",
+      "first_appearance": 1908,
+      "last_appearance": 1966,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "GUIANA",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 57
+    },
+    {
+      "colony": "GUIANA",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1924,
+      "gap_end": 1924,
+      "gap_size": 1,
+      "total_years_found": 57
+    },
+    {
+      "colony": "GUIANA",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1964,
+      "gap_end": 1964,
+      "gap_size": 1,
+      "total_years_found": 57
+    },
+    {
+      "colony": "HONDURAS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 59
+    },
+    {
+      "colony": "HONDURAS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1952,
+      "gap_end": 1952,
+      "gap_size": 1,
+      "total_years_found": 59
+    },
+    {
+      "colony": "HONG KONG",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 52
+    },
+    {
+      "colony": "HONG KONG",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1905,
+      "gap_end": 1905,
+      "gap_size": 1,
+      "total_years_found": 52
+    },
+    {
+      "colony": "HONG KONG",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1934,
+      "gap_end": 1934,
+      "gap_size": 1,
+      "total_years_found": 52
+    },
+    {
+      "colony": "HONG KONG",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1951,
+      "gap_end": 1951,
+      "gap_size": 1,
+      "total_years_found": 52
+    },
+    {
+      "colony": "HONG KONG",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1955,
+      "gap_end": 1955,
+      "gap_size": 1,
+      "total_years_found": 52
+    },
+    {
+      "colony": "HONG KONG",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1964,
+      "gap_end": 1964,
+      "gap_size": 1,
+      "total_years_found": 52
+    },
+    {
+      "colony": "HONG_KONG",
+      "first_appearance": 1867,
+      "last_appearance": 1880,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "JAMAICA",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1955,
+      "gap_end": 1955,
+      "gap_size": 1,
+      "total_years_found": 46
+    },
+    {
+      "colony": "LABUAN",
+      "first_appearance": 1867,
+      "last_appearance": 1936,
+      "gap_start": 1925,
+      "gap_end": 1925,
+      "gap_size": 1,
+      "total_years_found": 33
+    },
+    {
+      "colony": "LAGOS",
+      "first_appearance": 1867,
+      "last_appearance": 1906,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 8
+    },
+    {
+      "colony": "LAGOS",
+      "first_appearance": 1867,
+      "last_appearance": 1906,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 8
+    },
+    {
+      "colony": "LAGOS",
+      "first_appearance": 1867,
+      "last_appearance": 1906,
+      "gap_start": 1894,
+      "gap_end": 1894,
+      "gap_size": 1,
+      "total_years_found": 8
+    },
+    {
+      "colony": "LAGOS",
+      "first_appearance": 1867,
+      "last_appearance": 1906,
+      "gap_start": 1899,
+      "gap_end": 1899,
+      "gap_size": 1,
+      "total_years_found": 8
+    },
+    {
+      "colony": "LAGOS",
+      "first_appearance": 1867,
+      "last_appearance": 1906,
+      "gap_start": 1905,
+      "gap_end": 1905,
+      "gap_size": 1,
+      "total_years_found": 8
+    },
+    {
+      "colony": "LEEWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "LEEWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1894,
+      "gap_end": 1894,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "LEEWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1910,
+      "gap_end": 1910,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "LEEWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1952,
+      "gap_end": 1952,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "LEEWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1958,
+      "gap_end": 1958,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "MALAY STATES NOT INCLUDED IN FEDERATION",
+      "first_appearance": 1910,
+      "last_appearance": 1915,
+      "gap_start": 1911,
+      "gap_end": 1911,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "MALTA",
+      "first_appearance": 1867,
+      "last_appearance": 1961,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 41
+    },
+    {
+      "colony": "MALTA",
+      "first_appearance": 1867,
+      "last_appearance": 1961,
+      "gap_start": 1888,
+      "gap_end": 1888,
+      "gap_size": 1,
+      "total_years_found": 41
+    },
+    {
+      "colony": "MALTA",
+      "first_appearance": 1867,
+      "last_appearance": 1961,
+      "gap_start": 1890,
+      "gap_end": 1890,
+      "gap_size": 1,
+      "total_years_found": 41
+    },
+    {
+      "colony": "MALTA",
+      "first_appearance": 1867,
+      "last_appearance": 1961,
+      "gap_start": 1894,
+      "gap_end": 1894,
+      "gap_size": 1,
+      "total_years_found": 41
+    },
+    {
+      "colony": "MALTA",
+      "first_appearance": 1867,
+      "last_appearance": 1961,
+      "gap_start": 1897,
+      "gap_end": 1897,
+      "gap_size": 1,
+      "total_years_found": 41
+    },
+    {
+      "colony": "MALTA",
+      "first_appearance": 1867,
+      "last_appearance": 1961,
+      "gap_start": 1906,
+      "gap_end": 1906,
+      "gap_size": 1,
+      "total_years_found": 41
+    },
+    {
+      "colony": "MALTA",
+      "first_appearance": 1867,
+      "last_appearance": 1961,
+      "gap_start": 1932,
+      "gap_end": 1932,
+      "gap_size": 1,
+      "total_years_found": 41
+    },
+    {
+      "colony": "MALTA",
+      "first_appearance": 1867,
+      "last_appearance": 1961,
+      "gap_start": 1937,
+      "gap_end": 1937,
+      "gap_size": 1,
+      "total_years_found": 41
+    },
+    {
+      "colony": "MANITOBA AND KEEWATIN",
+      "first_appearance": 1894,
+      "last_appearance": 1905,
+      "gap_start": 1897,
+      "gap_end": 1897,
+      "gap_size": 1,
+      "total_years_found": 5
+    },
+    {
+      "colony": "MANITOBA AND KEEWATIN",
+      "first_appearance": 1894,
+      "last_appearance": 1905,
+      "gap_start": 1900,
+      "gap_end": 1900,
+      "gap_size": 1,
+      "total_years_found": 5
+    },
+    {
+      "colony": "MAURITIUS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1909,
+      "gap_end": 1909,
+      "gap_size": 1,
+      "total_years_found": 57
+    },
+    {
+      "colony": "MAURITIUS",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1923,
+      "gap_end": 1923,
+      "gap_size": 1,
+      "total_years_found": 57
+    },
+    {
+      "colony": "MISCELLANEOUS ISLANDS",
+      "first_appearance": 1917,
+      "last_appearance": 1936,
+      "gap_start": 1925,
+      "gap_end": 1925,
+      "gap_size": 1,
+      "total_years_found": 8
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 31
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 31
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1883,
+      "gap_end": 1883,
+      "gap_size": 1,
+      "total_years_found": 31
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1886,
+      "gap_end": 1886,
+      "gap_size": 1,
+      "total_years_found": 31
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1907,
+      "gap_end": 1907,
+      "gap_size": 1,
+      "total_years_found": 31
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 31
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1917,
+      "gap_end": 1917,
+      "gap_size": 1,
+      "total_years_found": 31
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1929,
+      "gap_end": 1929,
+      "gap_size": 1,
+      "total_years_found": 31
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1931,
+      "gap_end": 1931,
+      "gap_size": 1,
+      "total_years_found": 31
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 31
+    },
+    {
+      "colony": "MONTSERRAT",
+      "first_appearance": 1867,
+      "last_appearance": 1966,
+      "gap_start": 1958,
+      "gap_end": 1958,
+      "gap_size": 1,
+      "total_years_found": 31
+    },
+    {
+      "colony": "NATAL",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1889,
+      "gap_end": 1889,
+      "gap_size": 1,
+      "total_years_found": 17
+    },
+    {
+      "colony": "NATAL",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1894,
+      "gap_end": 1894,
+      "gap_size": 1,
+      "total_years_found": 17
+    },
+    {
+      "colony": "NATAL",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1906,
+      "gap_end": 1906,
+      "gap_size": 1,
+      "total_years_found": 17
+    },
+    {
+      "colony": "NATAL",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1911,
+      "gap_end": 1911,
+      "gap_size": 1,
+      "total_years_found": 17
+    },
+    {
+      "colony": "NATAL",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 17
+    },
+    {
+      "colony": "NATAL",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1922,
+      "gap_end": 1922,
+      "gap_size": 1,
+      "total_years_found": 17
+    },
+    {
+      "colony": "NEW BRUNSWICK",
+      "first_appearance": 1894,
+      "last_appearance": 1910,
+      "gap_start": 1897,
+      "gap_end": 1897,
+      "gap_size": 1,
+      "total_years_found": 11
+    },
+    {
+      "colony": "NEW GUINEA",
+      "first_appearance": 1889,
+      "last_appearance": 1906,
+      "gap_start": 1905,
+      "gap_end": 1905,
+      "gap_size": 1,
+      "total_years_found": 9
+    },
+    {
+      "colony": "NEW SOUTH WALES",
+      "first_appearance": 1877,
+      "last_appearance": 1911,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 16
+    },
+    {
+      "colony": "NEW SOUTH WALES",
+      "first_appearance": 1877,
+      "last_appearance": 1911,
+      "gap_start": 1909,
+      "gap_end": 1909,
+      "gap_size": 1,
+      "total_years_found": 16
+    },
+    {
+      "colony": "NEW ZEALAND",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 30
+    },
+    {
+      "colony": "NEW ZEALAND",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1889,
+      "gap_end": 1889,
+      "gap_size": 1,
+      "total_years_found": 30
+    },
+    {
+      "colony": "NEW ZEALAND",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1918,
+      "gap_end": 1918,
+      "gap_size": 1,
+      "total_years_found": 30
+    },
+    {
+      "colony": "NEW ZEALAND",
+      "first_appearance": 1877,
+      "last_appearance": 1937,
+      "gap_start": 1921,
+      "gap_end": 1921,
+      "gap_size": 1,
+      "total_years_found": 30
+    },
+    {
+      "colony": "NEWFOUNDLAND",
+      "first_appearance": 1867,
+      "last_appearance": 1937,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 38
+    },
+    {
+      "colony": "NEWFOUNDLAND",
+      "first_appearance": 1867,
+      "last_appearance": 1937,
+      "gap_start": 1922,
+      "gap_end": 1922,
+      "gap_size": 1,
+      "total_years_found": 38
+    },
+    {
+      "colony": "NEWFOUNDLAND",
+      "first_appearance": 1867,
+      "last_appearance": 1937,
+      "gap_start": 1929,
+      "gap_end": 1929,
+      "gap_size": 1,
+      "total_years_found": 38
+    },
+    {
+      "colony": "NEW_SOUTH_WALES",
+      "first_appearance": 1867,
+      "last_appearance": 1880,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "NEW_ZEALAND",
+      "first_appearance": 1867,
+      "last_appearance": 1880,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "NIGER COAST PROTECTORATE",
+      "first_appearance": 1894,
+      "last_appearance": 1899,
+      "gap_start": 1896,
+      "gap_end": 1896,
+      "gap_size": 1,
+      "total_years_found": 4
+    },
+    {
+      "colony": "NIGERIA",
+      "first_appearance": 1915,
+      "last_appearance": 1955,
+      "gap_start": 1922,
+      "gap_end": 1922,
+      "gap_size": 1,
+      "total_years_found": 27
+    },
+    {
+      "colony": "NIGERIA",
+      "first_appearance": 1915,
+      "last_appearance": 1955,
+      "gap_start": 1933,
+      "gap_end": 1933,
+      "gap_size": 1,
+      "total_years_found": 27
+    },
+    {
+      "colony": "NORTH BORNEO",
+      "first_appearance": 1898,
+      "last_appearance": 1963,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 34
+    },
+    {
+      "colony": "NORTH BORNEO",
+      "first_appearance": 1898,
+      "last_appearance": 1963,
+      "gap_start": 1925,
+      "gap_end": 1925,
+      "gap_size": 1,
+      "total_years_found": 34
+    },
+    {
+      "colony": "NORTH BORNEO",
+      "first_appearance": 1898,
+      "last_appearance": 1963,
+      "gap_start": 1952,
+      "gap_end": 1952,
+      "gap_size": 1,
+      "total_years_found": 34
+    },
+    {
+      "colony": "NORTH BORNEO",
+      "first_appearance": 1898,
+      "last_appearance": 1963,
+      "gap_start": 1959,
+      "gap_end": 1959,
+      "gap_size": 1,
+      "total_years_found": 34
+    },
+    {
+      "colony": "NORTHERN RHODESIA",
+      "first_appearance": 1918,
+      "last_appearance": 1964,
+      "gap_start": 1923,
+      "gap_end": 1923,
+      "gap_size": 1,
+      "total_years_found": 23
+    },
+    {
+      "colony": "NORTHERN RHODESIA",
+      "first_appearance": 1918,
+      "last_appearance": 1964,
+      "gap_start": 1932,
+      "gap_end": 1932,
+      "gap_size": 1,
+      "total_years_found": 23
+    },
+    {
+      "colony": "NORTHERN RHODESIA",
+      "first_appearance": 1918,
+      "last_appearance": 1964,
+      "gap_start": 1934,
+      "gap_end": 1934,
+      "gap_size": 1,
+      "total_years_found": 23
+    },
+    {
+      "colony": "NORTHERN RHODESIA",
+      "first_appearance": 1918,
+      "last_appearance": 1964,
+      "gap_start": 1936,
+      "gap_end": 1936,
+      "gap_size": 1,
+      "total_years_found": 23
+    },
+    {
+      "colony": "NORTHERN RHODESIA",
+      "first_appearance": 1918,
+      "last_appearance": 1964,
+      "gap_start": 1952,
+      "gap_end": 1952,
+      "gap_size": 1,
+      "total_years_found": 23
+    },
+    {
+      "colony": "NORTHERN TERRITORIES",
+      "first_appearance": 1905,
+      "last_appearance": 1915,
+      "gap_start": 1906,
+      "gap_end": 1906,
+      "gap_size": 1,
+      "total_years_found": 7
+    },
+    {
+      "colony": "NYASALAND",
+      "first_appearance": 1907,
+      "last_appearance": 1961,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 5
+    },
+    {
+      "colony": "NYASALAND PROTECTORATE",
+      "first_appearance": 1908,
+      "last_appearance": 1964,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 16
+    },
+    {
+      "colony": "PALESTINE",
+      "first_appearance": 1921,
+      "last_appearance": 1946,
+      "gap_start": 1933,
+      "gap_end": 1933,
+      "gap_size": 1,
+      "total_years_found": 15
+    },
+    {
+      "colony": "PART II",
+      "first_appearance": 1962,
+      "last_appearance": 1966,
+      "gap_start": 1965,
+      "gap_end": 1965,
+      "gap_size": 1,
+      "total_years_found": 4
+    },
+    {
+      "colony": "PRINCE EDWARD ISLAND",
+      "first_appearance": 1894,
+      "last_appearance": 1910,
+      "gap_start": 1896,
+      "gap_end": 1896,
+      "gap_size": 1,
+      "total_years_found": 11
+    },
+    {
+      "colony": "PROTECTORATE OF SOUTH ARABIA",
+      "first_appearance": 1963,
+      "last_appearance": 1966,
+      "gap_start": 1964,
+      "gap_end": 1964,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "PUKAPUKA, OR DANGER ISLAND, AND NASSAU",
+      "first_appearance": 1905,
+      "last_appearance": 1909,
+      "gap_start": 1906,
+      "gap_end": 1906,
+      "gap_size": 1,
+      "total_years_found": 4
+    },
+    {
+      "colony": "QUEENSLAND",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1896,
+      "gap_end": 1896,
+      "gap_size": 1,
+      "total_years_found": 19
+    },
+    {
+      "colony": "QUEENSLAND",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1911,
+      "gap_end": 1911,
+      "gap_size": 1,
+      "total_years_found": 19
+    },
+    {
+      "colony": "QUEENSLAND",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 19
+    },
+    {
+      "colony": "QUEENSLAND",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1925,
+      "gap_end": 1925,
+      "gap_size": 1,
+      "total_years_found": 19
+    },
+    {
+      "colony": "QUEENSLAND",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1927,
+      "gap_end": 1927,
+      "gap_size": 1,
+      "total_years_found": 19
+    },
+    {
+      "colony": "RECORD OF SERVICES",
+      "first_appearance": 1962,
+      "last_appearance": 1965,
+      "gap_start": 1964,
+      "gap_end": 1964,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "REGIONAL COUNCIL OF MINISTERS",
+      "first_appearance": 1963,
+      "last_appearance": 1965,
+      "gap_start": 1964,
+      "gap_end": 1964,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "RHODESIA",
+      "first_appearance": 1899,
+      "last_appearance": 1924,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 4
+    },
+    {
+      "colony": "SARAWAK",
+      "first_appearance": 1917,
+      "last_appearance": 1963,
+      "gap_start": 1952,
+      "gap_end": 1952,
+      "gap_size": 1,
+      "total_years_found": 13
+    },
+    {
+      "colony": "SARAWAK",
+      "first_appearance": 1917,
+      "last_appearance": 1963,
+      "gap_start": 1962,
+      "gap_end": 1962,
+      "gap_size": 1,
+      "total_years_found": 13
+    },
+    {
+      "colony": "SEAT OF GOVERNMENT, FREDERICTON",
+      "first_appearance": 1907,
+      "last_appearance": 1909,
+      "gap_start": 1908,
+      "gap_end": 1908,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "SEYCHELLES",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 50
+    },
+    {
+      "colony": "SEYCHELLES",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1883,
+      "gap_end": 1883,
+      "gap_size": 1,
+      "total_years_found": 50
+    },
+    {
+      "colony": "SEYCHELLES",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1886,
+      "gap_end": 1886,
+      "gap_size": 1,
+      "total_years_found": 50
+    },
+    {
+      "colony": "SEYCHELLES",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1897,
+      "gap_end": 1897,
+      "gap_size": 1,
+      "total_years_found": 50
+    },
+    {
+      "colony": "SEYCHELLES",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1919,
+      "gap_end": 1919,
+      "gap_size": 1,
+      "total_years_found": 50
+    },
+    {
+      "colony": "SEYCHELLES",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1923,
+      "gap_end": 1923,
+      "gap_size": 1,
+      "total_years_found": 50
+    },
+    {
+      "colony": "SEYCHELLES",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1952,
+      "gap_end": 1952,
+      "gap_size": 1,
+      "total_years_found": 50
+    },
+    {
+      "colony": "SHIPPING",
+      "first_appearance": 1963,
+      "last_appearance": 1966,
+      "gap_start": 1964,
+      "gap_end": 1964,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "SIERRA LEONE",
+      "first_appearance": 1867,
+      "last_appearance": 1962,
+      "gap_start": 1888,
+      "gap_end": 1888,
+      "gap_size": 1,
+      "total_years_found": 53
+    },
+    {
+      "colony": "SIERRA LEONE",
+      "first_appearance": 1867,
+      "last_appearance": 1962,
+      "gap_start": 1890,
+      "gap_end": 1890,
+      "gap_size": 1,
+      "total_years_found": 53
+    },
+    {
+      "colony": "SIERRA LEONE",
+      "first_appearance": 1867,
+      "last_appearance": 1962,
+      "gap_start": 1897,
+      "gap_end": 1897,
+      "gap_size": 1,
+      "total_years_found": 53
+    },
+    {
+      "colony": "SIERRA LEONE",
+      "first_appearance": 1867,
+      "last_appearance": 1962,
+      "gap_start": 1957,
+      "gap_end": 1957,
+      "gap_size": 1,
+      "total_years_found": 53
+    },
+    {
+      "colony": "SOLOMON ISLANDS",
+      "first_appearance": 1946,
+      "last_appearance": 1961,
+      "gap_start": 1948,
+      "gap_end": 1948,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "SOLOMON ISLANDS PROTECTORATE",
+      "first_appearance": 1956,
+      "last_appearance": 1966,
+      "gap_start": 1965,
+      "gap_end": 1965,
+      "gap_size": 1,
+      "total_years_found": 5
+    },
+    {
+      "colony": "SOMALILAND PROTECTORATE",
+      "first_appearance": 1906,
+      "last_appearance": 1956,
+      "gap_start": 1918,
+      "gap_end": 1918,
+      "gap_size": 1,
+      "total_years_found": 16
+    },
+    {
+      "colony": "SOMALILAND PROTECTORATE",
+      "first_appearance": 1906,
+      "last_appearance": 1956,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 16
+    },
+    {
+      "colony": "SOMALILAND PROTECTORATE",
+      "first_appearance": 1906,
+      "last_appearance": 1956,
+      "gap_start": 1952,
+      "gap_end": 1952,
+      "gap_size": 1,
+      "total_years_found": 16
+    },
+    {
+      "colony": "SOUTH AFRICA",
+      "first_appearance": 1907,
+      "last_appearance": 1937,
+      "gap_start": 1909,
+      "gap_end": 1909,
+      "gap_size": 1,
+      "total_years_found": 15
+    },
+    {
+      "colony": "SOUTH AFRICA",
+      "first_appearance": 1907,
+      "last_appearance": 1937,
+      "gap_start": 1918,
+      "gap_end": 1918,
+      "gap_size": 1,
+      "total_years_found": 15
+    },
+    {
+      "colony": "SOUTH AFRICA",
+      "first_appearance": 1907,
+      "last_appearance": 1937,
+      "gap_start": 1921,
+      "gap_end": 1921,
+      "gap_size": 1,
+      "total_years_found": 15
+    },
+    {
+      "colony": "SOUTH AFRICA",
+      "first_appearance": 1907,
+      "last_appearance": 1937,
+      "gap_start": 1931,
+      "gap_end": 1931,
+      "gap_size": 1,
+      "total_years_found": 15
+    },
+    {
+      "colony": "SOUTH AUSTRALIA",
+      "first_appearance": 1877,
+      "last_appearance": 1911,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 17
+    },
+    {
+      "colony": "SOUTH AUSTRALIA",
+      "first_appearance": 1877,
+      "last_appearance": 1911,
+      "gap_start": 1900,
+      "gap_end": 1900,
+      "gap_size": 1,
+      "total_years_found": 17
+    },
+    {
+      "colony": "SOUTH AUSTRALIA",
+      "first_appearance": 1877,
+      "last_appearance": 1911,
+      "gap_start": 1909,
+      "gap_end": 1909,
+      "gap_size": 1,
+      "total_years_found": 17
+    },
+    {
+      "colony": "SOUTH WEST AFRICA",
+      "first_appearance": 1920,
+      "last_appearance": 1937,
+      "gap_start": 1921,
+      "gap_end": 1921,
+      "gap_size": 1,
+      "total_years_found": 7
+    },
+    {
+      "colony": "SOUTH WEST AFRICA",
+      "first_appearance": 1920,
+      "last_appearance": 1937,
+      "gap_start": 1923,
+      "gap_end": 1923,
+      "gap_size": 1,
+      "total_years_found": 7
+    },
+    {
+      "colony": "SOUTHERN RHODESIA",
+      "first_appearance": 1925,
+      "last_appearance": 1937,
+      "gap_start": 1929,
+      "gap_end": 1929,
+      "gap_size": 1,
+      "total_years_found": 10
+    },
+    {
+      "colony": "SOUTHERN RHODESIA ADMINISTRATION",
+      "first_appearance": 1907,
+      "last_appearance": 1911,
+      "gap_start": 1908,
+      "gap_end": 1908,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "SOUTHERN RHODESIA ADMINISTRATION",
+      "first_appearance": 1907,
+      "last_appearance": 1911,
+      "gap_start": 1910,
+      "gap_end": 1910,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "SOUTH_AUSTRALIA",
+      "first_appearance": 1867,
+      "last_appearance": 1880,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST HELENA",
+      "first_appearance": 1883,
+      "last_appearance": 1961,
+      "gap_start": 1886,
+      "gap_end": 1886,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "ST HELENA",
+      "first_appearance": 1883,
+      "last_appearance": 1961,
+      "gap_start": 1894,
+      "gap_end": 1894,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "ST HELENA",
+      "first_appearance": 1883,
+      "last_appearance": 1961,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "ST HELENA",
+      "first_appearance": 1883,
+      "last_appearance": 1961,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "ST LUCIA",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1886,
+      "gap_end": 1886,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST LUCIA",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1894,
+      "gap_end": 1894,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST LUCIA",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST LUCIA",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST VINCENT",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1886,
+      "gap_end": 1886,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST VINCENT",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1894,
+      "gap_end": 1894,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST VINCENT",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST VINCENT",
+      "first_appearance": 1883,
+      "last_appearance": 1956,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST. HELENA",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 45
+    },
+    {
+      "colony": "ST. HELENA",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1883,
+      "gap_end": 1883,
+      "gap_size": 1,
+      "total_years_found": 45
+    },
+    {
+      "colony": "ST. HELENA",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 45
+    },
+    {
+      "colony": "ST. HELENA",
+      "first_appearance": 1877,
+      "last_appearance": 1966,
+      "gap_start": 1956,
+      "gap_end": 1956,
+      "gap_size": 1,
+      "total_years_found": 45
+    },
+    {
+      "colony": "ST. LUCIA",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 31
+    },
+    {
+      "colony": "ST. LUCIA",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1918,
+      "gap_end": 1918,
+      "gap_size": 1,
+      "total_years_found": 31
+    },
+    {
+      "colony": "ST. LUCIA",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1932,
+      "gap_end": 1932,
+      "gap_size": 1,
+      "total_years_found": 31
+    },
+    {
+      "colony": "ST. LUCIA",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1958,
+      "gap_end": 1958,
+      "gap_size": 1,
+      "total_years_found": 31
+    },
+    {
+      "colony": "ST. VINCENT",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 34
+    },
+    {
+      "colony": "ST. VINCENT",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1931,
+      "gap_end": 1931,
+      "gap_size": 1,
+      "total_years_found": 34
+    },
+    {
+      "colony": "ST. VINCENT",
+      "first_appearance": 1894,
+      "last_appearance": 1966,
+      "gap_start": 1958,
+      "gap_end": 1958,
+      "gap_size": 1,
+      "total_years_found": 34
+    },
+    {
+      "colony": "STRAITS SETTLEMENTS",
+      "first_appearance": 1877,
+      "last_appearance": 1936,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "STRAITS SETTLEMENTS",
+      "first_appearance": 1877,
+      "last_appearance": 1936,
+      "gap_start": 1889,
+      "gap_end": 1889,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "STRAITS SETTLEMENTS",
+      "first_appearance": 1877,
+      "last_appearance": 1936,
+      "gap_start": 1894,
+      "gap_end": 1894,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "STRAITS SETTLEMENTS",
+      "first_appearance": 1877,
+      "last_appearance": 1936,
+      "gap_start": 1896,
+      "gap_end": 1896,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "STRAITS SETTLEMENTS",
+      "first_appearance": 1877,
+      "last_appearance": 1936,
+      "gap_start": 1900,
+      "gap_end": 1900,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "STRAITS SETTLEMENTS",
+      "first_appearance": 1877,
+      "last_appearance": 1936,
+      "gap_start": 1909,
+      "gap_end": 1909,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "STRAITS SETTLEMENTS",
+      "first_appearance": 1877,
+      "last_appearance": 1936,
+      "gap_start": 1919,
+      "gap_end": 1919,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "STRAITS SETTLEMENTS",
+      "first_appearance": 1877,
+      "last_appearance": 1936,
+      "gap_start": 1932,
+      "gap_end": 1932,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "STRAITS SETTLEMENTS",
+      "first_appearance": 1877,
+      "last_appearance": 1936,
+      "gap_start": 1934,
+      "gap_end": 1934,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "STRAITS_SETTLEMENTS",
+      "first_appearance": 1867,
+      "last_appearance": 1880,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "ST_HELENA",
+      "first_appearance": 1867,
+      "last_appearance": 1880,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "SWAZILAND",
+      "first_appearance": 1907,
+      "last_appearance": 1965,
+      "gap_start": 1929,
+      "gap_end": 1929,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "SWAZILAND",
+      "first_appearance": 1907,
+      "last_appearance": 1965,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 28
+    },
+    {
+      "colony": "TANGANYIKA",
+      "first_appearance": 1946,
+      "last_appearance": 1962,
+      "gap_start": 1952,
+      "gap_end": 1952,
+      "gap_size": 1,
+      "total_years_found": 10
+    },
+    {
+      "colony": "TANGANYIKA TERRITORY",
+      "first_appearance": 1920,
+      "last_appearance": 1934,
+      "gap_start": 1931,
+      "gap_end": 1931,
+      "gap_size": 1,
+      "total_years_found": 8
+    },
+    {
+      "colony": "TASMANIA",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1889,
+      "gap_end": 1889,
+      "gap_size": 1,
+      "total_years_found": 23
+    },
+    {
+      "colony": "TASMANIA",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1909,
+      "gap_end": 1909,
+      "gap_size": 1,
+      "total_years_found": 23
+    },
+    {
+      "colony": "TASMANIA",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 23
+    },
+    {
+      "colony": "TASMANIA",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1923,
+      "gap_end": 1923,
+      "gap_size": 1,
+      "total_years_found": 23
+    },
+    {
+      "colony": "TASMANIA",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1925,
+      "gap_end": 1925,
+      "gap_size": 1,
+      "total_years_found": 23
+    },
+    {
+      "colony": "TASMANIA",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1927,
+      "gap_end": 1927,
+      "gap_size": 1,
+      "total_years_found": 23
+    },
+    {
+      "colony": "TOBAGO",
+      "first_appearance": 1867,
+      "last_appearance": 1932,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 14
+    },
+    {
+      "colony": "TOBAGO",
+      "first_appearance": 1867,
+      "last_appearance": 1932,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 14
+    },
+    {
+      "colony": "TOBAGO",
+      "first_appearance": 1867,
+      "last_appearance": 1932,
+      "gap_start": 1886,
+      "gap_end": 1886,
+      "gap_size": 1,
+      "total_years_found": 14
+    },
+    {
+      "colony": "TOBAGO",
+      "first_appearance": 1867,
+      "last_appearance": 1932,
+      "gap_start": 1896,
+      "gap_end": 1896,
+      "gap_size": 1,
+      "total_years_found": 14
+    },
+    {
+      "colony": "TOBAGO",
+      "first_appearance": 1867,
+      "last_appearance": 1932,
+      "gap_start": 1905,
+      "gap_end": 1905,
+      "gap_size": 1,
+      "total_years_found": 14
+    },
+    {
+      "colony": "TOBAGO",
+      "first_appearance": 1867,
+      "last_appearance": 1932,
+      "gap_start": 1908,
+      "gap_end": 1908,
+      "gap_size": 1,
+      "total_years_found": 14
+    },
+    {
+      "colony": "TOBAGO",
+      "first_appearance": 1867,
+      "last_appearance": 1932,
+      "gap_start": 1917,
+      "gap_end": 1917,
+      "gap_size": 1,
+      "total_years_found": 14
+    },
+    {
+      "colony": "TOBAGO",
+      "first_appearance": 1867,
+      "last_appearance": 1932,
+      "gap_start": 1931,
+      "gap_end": 1931,
+      "gap_size": 1,
+      "total_years_found": 14
+    },
+    {
+      "colony": "TONGA",
+      "first_appearance": 1922,
+      "last_appearance": 1961,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "TRANSAAL",
+      "first_appearance": 1907,
+      "last_appearance": 1910,
+      "gap_start": 1908,
+      "gap_end": 1908,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "TRANSVAAL",
+      "first_appearance": 1906,
+      "last_appearance": 1923,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "TRANSVAAL",
+      "first_appearance": 1906,
+      "last_appearance": 1923,
+      "gap_start": 1922,
+      "gap_end": 1922,
+      "gap_size": 1,
+      "total_years_found": 3
+    },
+    {
+      "colony": "TRINIDAD",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1905,
+      "gap_end": 1905,
+      "gap_size": 1,
+      "total_years_found": 26
+    },
+    {
+      "colony": "TRINIDAD",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 26
+    },
+    {
+      "colony": "TRINIDAD",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1925,
+      "gap_end": 1925,
+      "gap_size": 1,
+      "total_years_found": 26
+    },
+    {
+      "colony": "TRINIDAD",
+      "first_appearance": 1867,
+      "last_appearance": 1960,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 26
+    },
+    {
+      "colony": "TRINIDAD AND TOBAGO",
+      "first_appearance": 1889,
+      "last_appearance": 1956,
+      "gap_start": 1894,
+      "gap_end": 1894,
+      "gap_size": 1,
+      "total_years_found": 29
+    },
+    {
+      "colony": "TRINIDAD AND TOBAGO",
+      "first_appearance": 1889,
+      "last_appearance": 1956,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 29
+    },
+    {
+      "colony": "TRINIDAD AND TOBAGO",
+      "first_appearance": 1889,
+      "last_appearance": 1956,
+      "gap_start": 1918,
+      "gap_end": 1918,
+      "gap_size": 1,
+      "total_years_found": 29
+    },
+    {
+      "colony": "TRINIDAD AND TOBAGO",
+      "first_appearance": 1889,
+      "last_appearance": 1956,
+      "gap_start": 1924,
+      "gap_end": 1924,
+      "gap_size": 1,
+      "total_years_found": 29
+    },
+    {
+      "colony": "TRINIDAD AND TOBAGO",
+      "first_appearance": 1889,
+      "last_appearance": 1956,
+      "gap_start": 1932,
+      "gap_end": 1932,
+      "gap_size": 1,
+      "total_years_found": 29
+    },
+    {
+      "colony": "TRISTAN DA CUNHA",
+      "first_appearance": 1917,
+      "last_appearance": 1936,
+      "gap_start": 1925,
+      "gap_end": 1925,
+      "gap_size": 1,
+      "total_years_found": 14
+    },
+    {
+      "colony": "TURKS AND CAICOS ISLANDS",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1894,
+      "gap_end": 1894,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "TURKS AND CAICOS ISLANDS",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1897,
+      "gap_end": 1897,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "TURKS AND CAICOS ISLANDS",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1899,
+      "gap_end": 1899,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "TURKS AND CAICOS ISLANDS",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1919,
+      "gap_end": 1919,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "TURKS AND CAICOS ISLANDS",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1921,
+      "gap_end": 1921,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "TURKS AND CAICOS ISLANDS",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1927,
+      "gap_end": 1927,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "TURKS AND CAICOS ISLANDS",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1934,
+      "gap_end": 1934,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "TURKS AND CAICOS ISLANDS",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1936,
+      "gap_end": 1936,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "TURKS AND CAICOS ISLANDS",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "TURKS AND CAICOS ISLANDS",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1948,
+      "gap_end": 1948,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "TURKS AND CAICOS ISLANDS",
+      "first_appearance": 1883,
+      "last_appearance": 1966,
+      "gap_start": 1965,
+      "gap_end": 1965,
+      "gap_size": 1,
+      "total_years_found": 36
+    },
+    {
+      "colony": "TURKS_AND_CAICOS_ISLANDS",
+      "first_appearance": 1867,
+      "last_appearance": 1880,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "UGANDA",
+      "first_appearance": 1900,
+      "last_appearance": 1963,
+      "gap_start": 1905,
+      "gap_end": 1905,
+      "gap_size": 1,
+      "total_years_found": 41
+    },
+    {
+      "colony": "UGANDA",
+      "first_appearance": 1900,
+      "last_appearance": 1963,
+      "gap_start": 1908,
+      "gap_end": 1908,
+      "gap_size": 1,
+      "total_years_found": 41
+    },
+    {
+      "colony": "UGANDA",
+      "first_appearance": 1900,
+      "last_appearance": 1963,
+      "gap_start": 1952,
+      "gap_end": 1952,
+      "gap_size": 1,
+      "total_years_found": 41
+    },
+    {
+      "colony": "UGANDA",
+      "first_appearance": 1900,
+      "last_appearance": 1963,
+      "gap_start": 1962,
+      "gap_end": 1962,
+      "gap_size": 1,
+      "total_years_found": 41
+    },
+    {
+      "colony": "VICTORIA",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1889,
+      "gap_end": 1889,
+      "gap_size": 1,
+      "total_years_found": 21
+    },
+    {
+      "colony": "VICTORIA",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1909,
+      "gap_end": 1909,
+      "gap_size": 1,
+      "total_years_found": 21
+    },
+    {
+      "colony": "VICTORIA",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 21
+    },
+    {
+      "colony": "VICTORIA",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1925,
+      "gap_end": 1925,
+      "gap_size": 1,
+      "total_years_found": 21
+    },
+    {
+      "colony": "VICTORIA",
+      "first_appearance": 1867,
+      "last_appearance": 1928,
+      "gap_start": 1927,
+      "gap_end": 1927,
+      "gap_size": 1,
+      "total_years_found": 21
+    },
+    {
+      "colony": "VIRGIN ISLANDS",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1907,
+      "gap_end": 1907,
+      "gap_size": 1,
+      "total_years_found": 13
+    },
+    {
+      "colony": "VIRGIN ISLANDS",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 13
+    },
+    {
+      "colony": "VIRGIN ISLANDS",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1946,
+      "gap_end": 1946,
+      "gap_size": 1,
+      "total_years_found": 13
+    },
+    {
+      "colony": "VIRGIN ISLANDS",
+      "first_appearance": 1905,
+      "last_appearance": 1966,
+      "gap_start": 1948,
+      "gap_end": 1948,
+      "gap_size": 1,
+      "total_years_found": 13
+    },
+    {
+      "colony": "WEIHAIWEI",
+      "first_appearance": 1905,
+      "last_appearance": 1930,
+      "gap_start": 1906,
+      "gap_end": 1906,
+      "gap_size": 1,
+      "total_years_found": 19
+    },
+    {
+      "colony": "WEIHAIWEI",
+      "first_appearance": 1905,
+      "last_appearance": 1930,
+      "gap_start": 1909,
+      "gap_end": 1909,
+      "gap_size": 1,
+      "total_years_found": 19
+    },
+    {
+      "colony": "WESTERN AUSTRALIA",
+      "first_appearance": 1877,
+      "last_appearance": 1924,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 16
+    },
+    {
+      "colony": "WESTERN AUSTRALIA",
+      "first_appearance": 1877,
+      "last_appearance": 1924,
+      "gap_start": 1896,
+      "gap_end": 1896,
+      "gap_size": 1,
+      "total_years_found": 16
+    },
+    {
+      "colony": "WESTERN AUSTRALIA",
+      "first_appearance": 1877,
+      "last_appearance": 1924,
+      "gap_start": 1905,
+      "gap_end": 1905,
+      "gap_size": 1,
+      "total_years_found": 16
+    },
+    {
+      "colony": "WESTERN AUSTRALIA",
+      "first_appearance": 1877,
+      "last_appearance": 1924,
+      "gap_start": 1909,
+      "gap_end": 1909,
+      "gap_size": 1,
+      "total_years_found": 16
+    },
+    {
+      "colony": "WESTERN AUSTRALIA",
+      "first_appearance": 1877,
+      "last_appearance": 1924,
+      "gap_start": 1911,
+      "gap_end": 1911,
+      "gap_size": 1,
+      "total_years_found": 16
+    },
+    {
+      "colony": "WESTERN AUSTRALIA",
+      "first_appearance": 1877,
+      "last_appearance": 1924,
+      "gap_start": 1915,
+      "gap_end": 1915,
+      "gap_size": 1,
+      "total_years_found": 16
+    },
+    {
+      "colony": "WESTERN_AUSTRALIA",
+      "first_appearance": 1867,
+      "last_appearance": 1880,
+      "gap_start": 1877,
+      "gap_end": 1877,
+      "gap_size": 1,
+      "total_years_found": 2
+    },
+    {
+      "colony": "WINDWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1880,
+      "gap_end": 1880,
+      "gap_size": 1,
+      "total_years_found": 23
+    },
+    {
+      "colony": "WINDWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1894,
+      "gap_end": 1894,
+      "gap_size": 1,
+      "total_years_found": 23
+    },
+    {
+      "colony": "WINDWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1909,
+      "gap_end": 1909,
+      "gap_size": 1,
+      "total_years_found": 23
+    },
+    {
+      "colony": "WINDWARD ISLANDS",
+      "first_appearance": 1877,
+      "last_appearance": 1960,
+      "gap_start": 1911,
+      "gap_end": 1911,
+      "gap_size": 1,
+      "total_years_found": 23
+    },
+    {
+      "colony": "ZANZIBAR",
+      "first_appearance": 1900,
+      "last_appearance": 1964,
+      "gap_start": 1952,
+      "gap_end": 1952,
+      "gap_size": 1,
+      "total_years_found": 34
+    }
+  ],
+  "terminal_disappearances": [
+    {
+      "colony": "BERMUDAS",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 3,
+      "absent_since": 1881,
+      "years_absent": 86
+    },
+    {
+      "colony": "BRITISH_GUIANA",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "absent_since": 1881,
+      "years_absent": 86
+    },
+    {
+      "colony": "CAPE_OF_GOOD_HOPE",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "absent_since": 1881,
+      "years_absent": 86
+    },
+    {
+      "colony": "FALKLAND_ISLANDS",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "absent_since": 1881,
+      "years_absent": 86
+    },
+    {
+      "colony": "HONG_KONG",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "absent_since": 1881,
+      "years_absent": 86
+    },
+    {
+      "colony": "NEW_SOUTH_WALES",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "absent_since": 1881,
+      "years_absent": 86
+    },
+    {
+      "colony": "NEW_ZEALAND",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "absent_since": 1881,
+      "years_absent": 86
+    },
+    {
+      "colony": "SOUTH_AUSTRALIA",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "absent_since": 1881,
+      "years_absent": 86
+    },
+    {
+      "colony": "STRAITS_SETTLEMENTS",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "absent_since": 1881,
+      "years_absent": 86
+    },
+    {
+      "colony": "ST_HELENA",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "absent_since": 1881,
+      "years_absent": 86
+    },
+    {
+      "colony": "TURKS_AND_CAICOS_ISLANDS",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "absent_since": 1881,
+      "years_absent": 86
+    },
+    {
+      "colony": "WESTERN_AUSTRALIA",
+      "first_year": 1867,
+      "last_year": 1880,
+      "years_found": 2,
+      "absent_since": 1881,
+      "years_absent": 86
+    },
+    {
+      "colony": "HELIGOLAND",
+      "first_year": 1867,
+      "last_year": 1883,
+      "years_found": 4,
+      "absent_since": 1884,
+      "years_absent": 83
+    },
+    {
+      "colony": "BECHUANALAND",
+      "first_year": 1889,
+      "last_year": 1894,
+      "years_found": 3,
+      "absent_since": 1895,
+      "years_absent": 72
+    },
+    {
+      "colony": "ZULULAND",
+      "first_year": 1888,
+      "last_year": 1898,
+      "years_found": 7,
+      "absent_since": 1899,
+      "years_absent": 68
+    },
+    {
+      "colony": "NIGER COAST PROTECTORATE",
+      "first_year": 1894,
+      "last_year": 1899,
+      "years_found": 4,
+      "absent_since": 1900,
+      "years_absent": 67
+    },
+    {
+      "colony": "TRISTAN D'ACUNHA",
+      "first_year": 1894,
+      "last_year": 1900,
+      "years_found": 6,
+      "absent_since": 1901,
+      "years_absent": 66
+    },
+    {
+      "colony": "MANITOBA AND KEEWATIN",
+      "first_year": 1894,
+      "last_year": 1905,
+      "years_found": 5,
+      "absent_since": 1906,
+      "years_absent": 61
+    },
+    {
+      "colony": "CENTRAL AFRICA PROTECTORATE",
+      "first_year": 1905,
+      "last_year": 1906,
+      "years_found": 2,
+      "absent_since": 1907,
+      "years_absent": 60
+    },
+    {
+      "colony": "LAGOS",
+      "first_year": 1867,
+      "last_year": 1906,
+      "years_found": 8,
+      "absent_since": 1907,
+      "years_absent": 60
+    },
+    {
+      "colony": "NEW GUINEA",
+      "first_year": 1889,
+      "last_year": 1906,
+      "years_found": 9,
+      "absent_since": 1907,
+      "years_absent": 60
+    },
+    {
+      "colony": "PROVINCES OF SASKATCHEWAN AND ALBERTA AND NORTH-WEST TERRITORIES",
+      "first_year": 1906,
+      "last_year": 1907,
+      "years_found": 2,
+      "absent_since": 1908,
+      "years_absent": 59
+    },
+    {
+      "colony": "MAIL AND STEAMSHIP SERVICES",
+      "first_year": 1907,
+      "last_year": 1908,
+      "years_found": 2,
+      "absent_since": 1909,
+      "years_absent": 58
+    },
+    {
+      "colony": "MANITOBA",
+      "first_year": 1898,
+      "last_year": 1908,
+      "years_found": 3,
+      "absent_since": 1909,
+      "years_absent": 58
+    },
+    {
+      "colony": "NORTH-WEST TERRITORIES",
+      "first_year": 1905,
+      "last_year": 1908,
+      "years_found": 2,
+      "absent_since": 1909,
+      "years_absent": 58
+    },
+    {
+      "colony": "YUKON TERRITORY",
+      "first_year": 1907,
+      "last_year": 1908,
+      "years_found": 2,
+      "absent_since": 1909,
+      "years_absent": 58
+    },
+    {
+      "colony": "EASTERN AND CENTRAL PROVINCES",
+      "first_year": 1907,
+      "last_year": 1909,
+      "years_found": 3,
+      "absent_since": 1910,
+      "years_absent": 57
+    },
+    {
+      "colony": "PORT NATAL",
+      "first_year": 1907,
+      "last_year": 1909,
+      "years_found": 3,
+      "absent_since": 1910,
+      "years_absent": 57
+    },
+    {
+      "colony": "PUKAPUKA, OR DANGER ISLAND, AND NASSAU",
+      "first_year": 1905,
+      "last_year": 1909,
+      "years_found": 4,
+      "absent_since": 1910,
+      "years_absent": 57
+    },
+    {
+      "colony": "SEAT OF GOVERNMENT, FREDERICTON",
+      "first_year": 1907,
+      "last_year": 1909,
+      "years_found": 2,
+      "absent_since": 1910,
+      "years_absent": 57
+    },
+    {
+      "colony": "COUNCIL OF DEFENCE",
+      "first_year": 1908,
+      "last_year": 1910,
+      "years_found": 3,
+      "absent_since": 1911,
+      "years_absent": 56
+    },
+    {
+      "colony": "FINANCES",
+      "first_year": 1906,
+      "last_year": 1910,
+      "years_found": 2,
+      "absent_since": 1911,
+      "years_absent": 56
+    },
+    {
+      "colony": "GOVERNMENT STORE",
+      "first_year": 1907,
+      "last_year": 1910,
+      "years_found": 2,
+      "absent_since": 1911,
+      "years_absent": 56
+    },
+    {
+      "colony": "HOUSE OF COMMONS",
+      "first_year": 1909,
+      "last_year": 1910,
+      "years_found": 2,
+      "absent_since": 1911,
+      "years_absent": 56
+    },
+    {
+      "colony": "LANDS FOR SETTLEMENT",
+      "first_year": 1908,
+      "last_year": 1910,
+      "years_found": 3,
+      "absent_since": 1911,
+      "years_absent": 56
+    },
+    {
+      "colony": "LOUIS BOTHA",
+      "first_year": 1907,
+      "last_year": 1910,
+      "years_found": 2,
+      "absent_since": 1911,
+      "years_absent": 56
+    },
+    {
+      "colony": "MEMBERS OF LEGISLATIVE ASSEMBLY OF SASKATCHEWAN",
+      "first_year": 1908,
+      "last_year": 1910,
+      "years_found": 3,
+      "absent_since": 1911,
+      "years_absent": 56
+    },
+    {
+      "colony": "NEW BRUNSWICK",
+      "first_year": 1894,
+      "last_year": 1910,
+      "years_found": 11,
+      "absent_since": 1911,
+      "years_absent": 56
+    },
+    {
+      "colony": "NOVA SCOTIA",
+      "first_year": 1894,
+      "last_year": 1910,
+      "years_found": 12,
+      "absent_since": 1911,
+      "years_absent": 56
+    },
+    {
+      "colony": "ORANGE RIVER COLONY",
+      "first_year": 1905,
+      "last_year": 1910,
+      "years_found": 6,
+      "absent_since": 1911,
+      "years_absent": 56
+    },
+    {
+      "colony": "PRINCE EDWARD ISLAND",
+      "first_year": 1894,
+      "last_year": 1910,
+      "years_found": 11,
+      "absent_since": 1911,
+      "years_absent": 56
+    },
+    {
+      "colony": "PRINCIPAL GROUPS UNDER HIGH COMMISSIONER",
+      "first_year": 1909,
+      "last_year": 1910,
+      "years_found": 2,
+      "absent_since": 1911,
+      "years_absent": 56
+    },
+    {
+      "colony": "REGISTRAR-GENERAL",
+      "first_year": 1907,
+      "last_year": 1910,
+      "years_found": 2,
+      "absent_since": 1911,
+      "years_absent": 56
+    },
+    {
+      "colony": "TRANSAAL",
+      "first_year": 1907,
+      "last_year": 1910,
+      "years_found": 3,
+      "absent_since": 1911,
+      "years_absent": 56
+    },
+    {
+      "colony": "AGRICULTURAL SERVICES",
+      "first_year": 1910,
+      "last_year": 1911,
+      "years_found": 2,
+      "absent_since": 1912,
+      "years_absent": 55
+    },
+    {
+      "colony": "BARBUDA",
+      "first_year": 1908,
+      "last_year": 1911,
+      "years_found": 4,
+      "absent_since": 1912,
+      "years_absent": 55
+    },
+    {
+      "colony": "BISHOPS",
+      "first_year": 1908,
+      "last_year": 1911,
+      "years_found": 3,
+      "absent_since": 1912,
+      "years_absent": 55
+    },
+    {
+      "colony": "CENTRAL OR NIGER PROVINCE AND EASTERN OR CALABAR PROVINCE",
+      "first_year": 1910,
+      "last_year": 1911,
+      "years_found": 2,
+      "absent_since": 1912,
+      "years_absent": 55
+    },
+    {
+      "colony": "COMMONWEALTH",
+      "first_year": 1905,
+      "last_year": 1911,
+      "years_found": 6,
+      "absent_since": 1912,
+      "years_absent": 55
+    },
+    {
+      "colony": "COUNCIL OF GOVERNMENT",
+      "first_year": 1906,
+      "last_year": 1911,
+      "years_found": 6,
+      "absent_since": 1912,
+      "years_absent": 55
+    }
+  ],
+  "summary": {
+    "total_true_gap_years": 1576,
+    "colonies_with_gaps": 142
+  }
+}

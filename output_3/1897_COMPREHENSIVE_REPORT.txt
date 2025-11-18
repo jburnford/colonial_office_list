@@ -1,0 +1,15 @@
+================================================================================
+ COLONIAL OFFICE LIST 1897 - MANUAL PARSING REPORT
+================================================================================
+
+Date: 2025-11-18
+Source: colonial-office-list-1897/olmocr_results.md
+Method: Manual boundary identification and extraction
+
+RESULTS:
+  Total colonies extracted: 45
+  Newly recovered: FIJI, NIGER COAST PROTECTORATE, GRENADA
+  Comparison: 45 (1897) vs 45 (1899) vs 55 (1900) vs 56 (1905)
+
+All extracted colonies saved to: output_3/1897_manual_parsed/
+Metadata saved to: output_3/1897_manual_parsed.json

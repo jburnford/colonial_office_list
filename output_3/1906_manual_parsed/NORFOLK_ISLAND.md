@@ -1,0 +1,8 @@
+NORFOLK ISLAND.
+
+Norfolk Island is the principal of a small group of islands lying 900 miles E.N.E. of Sydney, in 29° 2' S. lat. and 167° 48' E long., the chief other islets being Philip, Nepean, and Bird Islands. They comprise altogether about 12 square miles, and were discovered in 1774 by Captain Cook. They remained uninhabited until 1788, when a penal settlement was formed there. This was removed in 1855, and in 1856 the inhabitants of Pitcairn Island were brought to the group, about 150 persons settling there, with their cattle, sheep, and pigs. The Pitcairn Islanders were the descendants of the mutineers of H.M.S. "Bounty," who occupied Pitcairn in 1790, and were removed at their own request to Norfolk Island. Of these 40 returned to Pitcairn. The group has since been made a depot of the Melanesian Mission of the S.P.G., and the total population at the census of 1891 was 738, and at census 1901 it was males 450, females 377, total 827 (including Melanesians). The chief occupation is agriculture for domestic consumption, but the men take part in the whale fishery.
+
+There was formerly but little regular administration, the community being presided over by two of the leading inhabitants as unpaid magistrates, with a simple code of laws. The island has now been placed under the government of New South Wales, and a resident magistrate has been appointed. It is a station of the Pacific cable. Communication with the group is maintained at regular intervals. There is a resident doctor, and an efficient school. The chief village is Kingston, on the largest island.
+
+Resident Magistrate, Captain Walton Drake, R.N.
+

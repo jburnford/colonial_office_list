@@ -1,0 +1,203 @@
+
+BRITISH HONDURAS.
+
+British Honduras is a colony on the east coast of Central America, bounded on the north by Yucatan, on the west by a straight line drawn from the rapids of Gracias a Dios on the River Sarstoon, to Garbutt's Falls on the River Belize, and thence due north to the Mexican frontier—being the western boundary, as defined by the Convention of 1859 with Guatemala—on the south by Guatemala, and on the east by the Bay of Honduras. The coast was discovered in 1502 by Columbus, and its early settlement is supposed to have been effected from Jamaica, by adventurers, who were attracted by the fine timber (logwood and mahogany) which grew on the banks of the Hondo and other rivers.
+
+From that date until almost the close of the last century, the Spaniards made frequent but ineffectual attempts to expel the woodcutters by force of arms; and treaty after treaty was concluded, which had little other effect than to stimulate the enterprise of the settlers by the recognition, thus step by step accorded, of the footing they had gained for themselves in Central America, without, in the first instance, any thought of territorial aggrandisement, but solely in pursuit of the industry in which their fortunes were embarked.
+
+Such, in brief, is the political history of the settlement in its earlier days, and the only subsequent events of external significance which need here be noticed, are the definition, as above, of its general boundaries (of which a survey has been partially executed), and the frequent border troubles, connected with the revolt of the Indian population of Yucatan against the Spanish inhabitants, the result of which has been that the Indians are now de facto in possession of the country to a considerable distance north of the Hondo, and subsequently with the quarrels of the Ycaché and Santa Cruz tribes of Indians, in which it has been involved.
+
+In 1861 it was finally determined to place the settlement in every respect on the footing of a colony, though subordinate to the Government of Jamaica, from which it is distant about 660 miles.
+
+This was done in response to a memorial from the inhabitants, and as a matter of internal regulation only. It was felt that the designation hitherto borne by it had in course of time become inappropriate; that, in fact, for many years past it had been a misnomer; the repulse, by a ship of the Royal Navy and the settlers, of the attempt in 1798, on the part of Spain, to take possession of Honduras, followed by the revolt of the Spanish dependencies in South America, the acknowledgment of their independence by Spain herself, and the relinquishment by her of all exercise and even assertion of dominion in that part of the world, having de jure as well as de facto entitled what had originally, indeed, been a "settlement" by British subjects within Spanish territory, but what was properly so no longer, to a revision of its name and status as a part of Her Majesty's dominions, wherein, for an unbroken series of years, the territorial and imperial authority of Great Britain had been openly and unrestrictedly exercised.
+
+A commission was accordingly issued to the officer then administering the Government of Jamaica (Mr. Darling), appointing him to be Governor, and to Mr. Seymour, the then Superintendent, appointing him to be Lieut.-Governor of the Colony of British Honduras; these arrangements taking effect from the 12th of May, 1862.
+
+The Constitution of the Colony is regulated by a local Act of 1870. By this enactment, a Legislative Council is established, consisting of five official, and not less than four unofficial members, to be named by the Queen, or provisionally appointed by the Lieut.-Governor, subject to Her Majesty's approval. The official members are the Chief Justice, the Colonial Secretary, the Senior Military Officer (if of or above the rank of major), the Treasurer, and the Attorney-General. The Lieut.-Governor is President of the Council.
+
+There is also an Executive or Privy Council, consisting of the Senior Military Officer, the Colonial Secretary, the Treasurer, the Attorney-General. (If below the rank of major the Senior Military Officer ranks last.)
+
+The area of the Colony is 7,562 square miles, including Albion Island in the River Honduras, (about 26 square miles), and the Cays, 212 square miles, a large portion of the latter being mangrove swamps without any soil. In its physical outlines it resembles other parts of Central America, the land being flat and swampy throughout the greater portion of the coast line, and gradually rising as the interior is approached, from the Savannah, through the Pine Ridge, the Cahoon Ridge, and the Forest, to the central mountain zone.
+The northern district, of which the Hondo forms the natural boundary, is but little raised above the sea; but towards the south the character of the country becomes more elevated, until in the Cockscomb Mountains a height of some 4,000 feet is attained. That district of the Colony remained until 1879 wholly unexplored, when it was traversed by the Colonial Secretary, Mr. Fowler, from Garbutt's Falls on the Belize River, at the western frontier, to the sea coast south of Monkey River. The country proved to be a succession of valleys and hills, from 1,200 to 3,000 feet above sea level. The westerly portion was an open undulating grassy country, forming magnificent pasturage lands. Towards the coast it was all forest, which was full of valuable timber. No inhabitants were seen, but ancient Indian ruins, consisting of large stone buildings, were discovered. Game abounded in places, whilst in others no sign of any form of animal life was met with. The soil generally was rich, but a few rugged spots were encountered.
+
+The Pine and Cahoon Ridges afford abundant pasturage for cattle, and the higher grounds would doubtless produce, at altitudes varying from 600 to 2,000 feet, as marketable a quality of coffee as any that is brought for export from the neighbouring Republics. For the present, however, and until more capital and labour shall have been introduced, and in the advance of roads, it is to the rich virgin soil of the valleys and lower plains that the settlers must look for remuneration from their agricultural pursuits. Upon this soil the most luxuriant crops of sugar are being grown from cane that will ratoon for years.
+
+There seems to be no tropical product to which the climate and soil are not adapted. In the forests and wilds are found the cedar, rosewood, bullet-tree, fustic, lignum vitae, sapodilla, Santa Maria, ironwood, red and white pine, india-rubber and gutta-percha trees, and the sarsaparilla, cochineal-cactus, Agave or Piña, indigo, and many other useful plants or shrubs. The cocoanut flourishes, as does the Cahoon palm (of which the oil will shortly, it is hoped, bring increased prosperity to the Colony), and the ground-nut, locally known by the name of Pinder (Arachis hypogea), so extensively grown in and exported from Western Africa, which produces an oil equal to olive oil for domestic purposes, and is also excellent as fodder for horses and cattle; and there are the usual varieties of tropical fruit, cereals, and vegetables, plantains, maize, yams, casava, cocos, and tobacco, to contribute to the food and enjoyment of the people.
+
+The climate, though damp, is, for the tropics, healthy. Visitations of malignant fever or cholera are of rare occurrence, and an equable temperature, with a prevailing sea-breeze, is experienced throughout the greater part of the year.
+
+Land may be purchased from the Crown at 4s. the acre.
+
+Administrators of the Government of British Honduras.
+
+1786 Previous to this year, by Magistrates elected annually.
+1786 Colonel Edward Marcus Despard.
+1790 Colonel Peter Hunter.
+1790 to 1797, by Magistrates elected annually.
+1797 Colonel Thomas Barrow.
+1800 General Sir Richard Basset.
+1805 Lieutenant-Colonel Gabriel Gordon.
+1806 Lieut.-Col. Alexander Mark Kerr Hamilton.
+1809 Lieutenant-Colonel John Nugent Smyth.
+1814 Major George Arthur.
+1822 Major-General Allan Hampden Pye.
+1823 Major-General Edward Codd.
+1829 Major Alexander McDonald (acting).
+1830 Lieutenant-Colonel Francis Cockburn.
+1837 Lieutenant-Colonel Alexander McDonald.
+1843 Colonel Charles St. John Fancourt, K.H.
+1851 Philip Edmund Wodehouse.
+1854 William Stevenson.
+1857 Frederick Seymour.
+1861 Frederick Seymour.
+1864 J. Gardiner Austin.
+1867 J. R. Longden.
+1870 W. W. Cairns.
+1871 Lieut.-Col. Harley, C.B. (acting).
+1872 W. W. Cairns.
+1874 Captain Mitchell, R.M. (acting).
+1874 Major Mundy, R.A., C.M.G.
+1876 Captain Mitchell, R.M. (acting).
+1877 Frederick Palgrave Barlee, C.M.G.
+
+The above were styled "Superintendent of British Honduras," until Feb. 3rd, 1862, when the settlement was declared a colony; since which the proper style of an officer permanently appointed to administer the Government is Lieutenant-Governor.
+
+| Revenue | Expenditure |
+|---------|-------------|
+| £       | £           |
+| 1867    | 82,360      | 30,506     |
+| 1868    | 42,416      | 89,720     |
+| 1869    | 36,629      | 80,403     |
+| 1870    | 33,030      | 26,220     |
+| 1871    | 42,880      | 25,458     |
+| 1872    | 38,719      | 29,350     |
+| 1873    | 51,946      | 84,407     |
+| 1874    | 43,722      | 40,068     |
+| 1875    | 41,906      | 40,839     |
+| 1876    | 40,231      | 36,614     |
+| 1877    | 44,020      | 43,444     |
+| 1878    | 41,417      | 54,265     |
+
+Public Debt, 1,110L
+
+The population on 25th December, 1871, was reported as follows:
+
+- In Northern District: 5,986
+- North-Western District: 4,566
+- Central District (Belize, &c.): 10,908
+- Southern District: 8,250
+
+Total: 24,710
+
+| Imports | Exports |
+|---------|---------|
+| £       | £       |
+| 1868    | 177,483 | 208,659 |
+| 1869    | 151,189 | 175,033 |
+| 1870    | 184,337 | 171,987 |
+| 1871    | 180,662 | 207,672 |
+| 1872    | 167,809 | 203,560 |
+| 1873    | 236,615 | 216,993 |
+| 1874    | 178,397 | 240,628 |
+| 1875    | 175,321 | 202,512 |
+| 1876    | 163,403 | 206,420 |
+| 1877    | 167,232 | 124,503 |
+| 1878    | 191,490 | 131,006 |
+
+Executive Council.
+
+The Lieutenant-Governor.
+The Officer Commanding the Troops.
+The Colonial Secretary.
+The Treasurer.
+The Attorney-General.
+Clerk, W. Grey-Wilson.
+Legislative Council.
+
+President, The Lieutenant-Governor.
+
+Members:
+- The Chief Justice.
+- The Colonial Secretary.
+- The Officer Commanding the Troops.
+- The Treasurer.
+- The Attorney-General.
+
+Honourables:
+- J. H. Phillips.
+- V. H. McDonald.
+- John Gentle.
+- Captain Andrew Halliday Hall.
+- Alexander Williamson.
+
+Clerk, W. Grey-Wilson.
+
+Civil Establishment.
+
+Lieutenant-Governor, F. P. Barlee, C.M.G., 1,800l.
+Private Secretary, W. Grey-Wilson, 150l.
+
+Colonial Secretary's Office.
+
+Colonial Secretary and Auditor-General, Henry Fowler, 600l.
+Chief Clerk, R. J. MacLachlan, 220l.
+2nd Clerk, D. Taylor, 200l.
+Writer, José Manuel Sosa.
+
+Customs.
+
+Treasurer and Collector of Customs, Harbour and Shipping Master, Thomas Graham, 600l.
+Chief Clerk, R. S. Wier, 240l.
+Queen's Warehouse Keeper, J. H. La Croix, 200l.
+Chief Revenue Officer, F. W. Blockley, 180l.
+Second " A. R. Gibbs, 120l.
+Third " J. La Croix, 120l.
+
+Lands.
+
+Surveyor-General, M. J. Griffiths, 350l.
+
+Public Works.
+
+Colonial Engineer, G. von Ohlsen, 500l.
+Clerk to ditto, Aug. P. Davis, 120l.
+
+Medical.
+
+Public Medical Officer, A. Hunter, 350l. and private practice.
+Northern District Surgeon, Corosol, Fred Gahne, M.D., 100l.
+Additional ditto, Orange Walk, J. V. Clinch, A.M.D., 60l.
+
+Post Office.
+
+Postmaster, W. J. McKinney, 200l.
+
+Gaol.
+
+Gaoler, Belize, Joseph Clarke, 200l.
+Matron, ditto, Mrs. Clarke, 40l.
+
+Markets.
+
+Inspector of Nuisances and Clerk of Market, Belize, S. Carter, 150l.
+Clerk of Slaughter House, Corosol, H. Bell, 48l.
+Official Administrator, Escheator, Agent of Emigration, Surveyor of Shipping, H. C. Usher.
+
+Judicial Establishment.
+
+Chief Justice, and Judge of Vice-Admiralty Court, W. A. Parker, 1,000l.
+Attorney-General and Advocate in Admiralty, A.C. Onslow, 400l. and private practice.
+
+Clerk of Courts, Keeper of Records, and Registrar of Vice-Admiralty Court, T. W. H. Dillet, 500l. and fees.
+Clerk to ditto, E. A. Coffin, 120l.
+Provost-Marshal and Marshal of Vice-Admiralty Court, W. J. McKinney, 150l.
+Coroner and Police Magistrate, Belize, H. C. Usher, 400l.
+Magistrate, Northern District, R. W. Pickwoad, 400l.
+Magistrate, Southern District, R. J. Downer, 250l.
+Interpreter in Spanish and Maya, J. M. Sosa, 100l.
+
+Police.
+
+Inspector of Police, Capt. George Marriner, 300l.
+Sub-Inspector, C. J. M. Weale, 180l.
+3 Sergeants, 7 Corporals, and 40 Constables.

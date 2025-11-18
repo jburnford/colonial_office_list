@@ -1,0 +1,368 @@
+SEYCHELLES.
+
+Situation, Area and Climate.
+The Seychelles Islands are situated between the parallels of S. lat. 4° and 5°; the estimated total number of square miles comprised in the group and in the dependencies of Seychelles is 1561. The number of islands under the Seychelles Government is 89.
+
+Mahé is distant from Mauritius 934, from Madagascar 600, and from Zanzibar 970 miles. Mountainous, fertile, and extremely healthy, the shade temperature seldom exceeds 84, and falls frequently at night to 68, and the records taken on the hills are several degrees lower. The rainfall at Victoria, Mahé, was in 1908, 81·22 inches.
+
+The death-rate in 1908 was 15·55 per 1,000; the birth-rate being 30·80 per 1,000.
+
+Geography.
+Mahé is the largest and most populous of the Seychelles Islands. It is 17 miles long and 4 to 7 miles broad, and is estimated to contain 55½ square miles. It has about 105 miles of good roads and paths, and communication between all the districts of the island is easy.
+
+It rises abruptly from the sea, and the highest peak reaches the elevation of 2,997 feet. The capital of the island, now called Victoria, is situated in a valley in the north-east, and has a safe and commodious harbour, provided with a lighthouse showing a fixed red light.
+
+The other chief islands are Praslin (9,700 acres); Silhouette (4,900 acres); La Digue (2,500 acres); Curieuse (900 acres); Félicité (800 acres); North Island (525 acres); St. Anne (500 acres); Providence (500 acres); Frigate (500 acres); Denis (340 acres); Cerf (290 acres); and Bird or Sea Cow Island (160 acres).
+
+The following islands are also dependencies of Seychelles: — The Amirantes, Alphonse Island, Bijouter Island, St. Francois Island, St. Pierre Island, the Cosmoledo Group, Astove Island, Assumption Island, and the Aldabra Islands.
+
+The island of Coëtivy, formerly a dependency of Mauritius, was transferred to Seychelles by Letters Patent in 1907.
+
+History.
+The islands are believed to have been discovered by a Portuguese named Pedro Mascaregnas, in 1505, but the discovery was not apparently followed by any attempt at colonisation.
+
+Previous to French occupation they were the resort of pirates or corsairs who infested the Indian Ocean, some of whose names are borne by descendants in Mahé at the present time.
+
+Under the Government at Mauritius of Labourdonnais, whose name they originally bore, their position was first defined in 1743, and M. Picault, who took possession of the Islands in the name of the King of France, called the principal island Mahé. Later on the group was re-named the Seychelles Islands, in honour of the Vicomte Moreau de Séychelles, who was Controller-General of Finance under Louis XV., from 1754 to 1756.
+
+The Islands were named in 1756 by a Lieut. Murphy, who was sent to Mahé by Magon de la Villebague.
+
+The natural resources of the Islands, and their freedom from hurricanes, induced the French to transplant from the Isle de France (now Mauritius) cinnamon, cloves, and nutmegs, under the directions of M. Poivre. Much secrecy was at first observed in regard to the existence of these retired plantations, the object being to wrest from the Dutch the lucrative spice monopoly which the colonies of that nation then enjoyed in Europe from their own possessions.
+
+The rumours of the war that broke out between France and England in 1778, induced the then French Governor of Mauritius, Count de Souillac, to issue peremptory orders that in the event of an attack the spice plantations should be at once destroyed. Soon afterwards a French ship from Madagascar, having slaves on board, called at Mahé to take in wood and water, but fearing that the English might be in possession, adopted the ruse of hoisting the English flag. The small French force at Mahé had already been withdrawn, and the officer in charge, knowing that resistance was useless, at once set fire to the whole of the spice trees, each of which had previously been surrounded with dry wood and inflammable material.
+
+During the war of the French Revolution Mahé was extremely useful to French ships as a place of refuge and retreat, but on the 17th May, 1794, it was captured by Captain Newcome, of His Majesty's ship "Orpheus."
+
+The last French Governor, Mr. De Quinoy, who was born at Paris in November, 1748, became,
+after Lieutenant Sullivan, R.M., who had been placed in charge, had left, the first Agent Civil under the British Government. Mr. De Quincy's reign as French Governor lasted twenty years. He remained for eighteen years in the service of the British Government, and died on the 10th July, 1827.
+
+The capitulation was renewed in 1806 by Capt. Ferrier, of His Majesty's ship "Albion," but it was not until the capture of Mauritius in 1810, that Seychelles was formally taken possession of by the appointment of an Agent, and incorporated as a dependency of that Colony. From 1794 to 1810 Seychelles, though nominally a British Colony, seems to have been administered as a French Colony, and all Civil Status Acts ran in the name of the French Government. A Board of Civil Commissioners was appointed in 1872, when the finances of the Seychelles were separated from those of Mauritius. The title of the Head of the Government was changed from that of Civil Commissioner to that of Chief Civil Commissioner. The powers of the Board were further enlarged in 1874 by another Order in Council.
+
+The increasing importance of these islands was considered sufficient to warrant an alteration in the constitution of the Government, and in December, 1888, an Order in Council was passed creating the office of Administrator, and nominating an Executive and Legislative Council. In 1897, by Letters Patent and Royal Instructions, the Administrator was given full powers as Governor, and Seychelles was practically separated from Mauritius. The separation was completely carried out by Letters Patent of 31st August, 1903, by which Seychelles was erected into a separate Colony under its own Governor and Commander-in-Chief.
+
+An education grant of Rs. 10,000 is given in assisting schools of all denominations, of which there were 26 in 1908, attended by 2,246 children. A Government school, now called the Victoria School, with a branch Infant School, is maintained from public funds, and the cost of this school is upwards of Rs. 12,000 a year.
+
+Communications, &c.
+
+The Messageries Maritimes steamers, which leave Marseilles on the 25th of each month, call at Mahé on the 11th of the following month on their way to Mauritius. The homeward steamers call at Mahé on the 8th of each month, and are due at Marseilles on the 25th of the same month. Mahé is now included in the schedule of the German East Africa Company's (D.O.A.L.) service between Bombay and Zanzibar. Steamers call each way about every six weeks.
+
+The British India Company's steamers also call from time to time. Men-of-war of all nationalities frequently call at Mahé. The Admiralty use Victoria as a coaling station, and passing steamers can always procure coal. Seychelles and Mauritius are now included in the Cape of Good Hope Naval Station, and the squadron pays an annual visit to the colony. Vessels entering or leaving the harbour of Victoria are liable to harbour dues, which, however, are not heavy.
+
+Telegraphic communication with Mauritius and Europe via Zanzibar was completed in November, 1893. The rates for telegrams from Seychelles are 75 cts. per word to Mauritius or Zanzibar, Rs. 1.50 to Aden, and Rs. 1.90 to Europe.
+
+The present letter rate of postage to the United Kingdom, India and those Colonies and Protectorates which have adopted the Imperial Penny Postage is 6 cents; to other countries of the Postal Union 15 cents. The parcels post has been in full operation since April, 1890. During the year 1908, 81,000 letters, 92,000 newspapers, books, and samples, and 1,911 parcels, were received from beyond sea, and 79,000 letters and 7,800 newspapers, and 772 parcels despatched. The money order system is in operation with England and numerous other countries and colonies, including Bombay, Aden, Zanzibar, Mauritius and Ceylon.
+
+Savings Bank and Currency.
+
+A Government savings bank was established in March, 1897, and at the close of the year 1907 Rs. 158,283.03 were upon deposit. All the Savings Bank funds are invested. There is a Branch Savings Bank at Praslin. The branches which were established at Anse Royale and La Digue were closed during 1906, as there were no transactions.
+
+The currency consists of the Indian rupee and the Mauritius subsidiary coinage. Accounts are kept in rupees and cents. There is no local note issue, but the notes of the Mauritius Government circulate freely.
+
+Local Boards.
+
+A Local Board of Health, vested with powers and duties somewhat similar to those entrusted to Municipal Bodies, was created in Victoria at the end of 1900. Similar Boards were created for the Islands of Praslin and La Digue at the end of 1901, and for the South Mahé District in March, 1902.
+
+Revenue, Trade, Products, &c.
+
+The revenue is derived principally from specific import duties which are light, and an ad valorem duty of 12½ per cent. on articles not otherwise enumerated, except "articles de mode," the ad valorem duty on which is 8 per cent., licenses, a capitation tax and a tax on immovable property and stamps. An export duty of Rs. 1 a ton is levied on guano and mangrove bark, and an export duty of Rs. 2 a ton on cinnamon bark.
+
+The chief exports consist of coco-nut oil, copra, cocoa, vanilla, turtle shell, cloves, coco-nuts, soap, cinnamon bark, vacoa bags, guano and salted fish.
+
+Early in 1901 a Botanic Station was established in Victoria, and an Agricultural Board created. By assisting the introduction of new industries, the Botanic Station will play an important part in the future development of Seychelles. It has already justified its existence, not only by becoming a nursery for economic plants of all kinds, which are now available for distribution to planters, but by affording valuable object lessons in the scientific method of their treatment. The Para rubber tree has been found to thrive well in all parts of Mahé, and in many other islands belonging to Seychelles, and it is estimated that, if this tree is grown on such suitable soil as is available, the export of rubber would cause the total value of the exports of Seychelles to be doubled in ten years' time.
+
+More especially at Praslin, though also in other parts of the group, are to be found the celebrated cocos-de-mer, with the leaves of which beautiful hats and delicate basket work are made by the natives.
+The Aldabra group of islands under the Seychelle administration is the habitat of the gigantic land tortoises; numerous living specimens are, however, to be seen in Mahé and the neighbouring islands, and there are over sixty, large and small, in the tortoise pens at Government House.
+
+The lighthouses are situated on Denis Island and in Victoria Harbour, and the quarantine station is placed on Long Island opposite to Victoria.
+
+| Year | Revenue | Expenditure | Imports | Exports | Shipping Inwards only |
+|------|---------|-------------|---------|---------|-----------------------|
+|      | Rs.     | Rs.         | Rs.     | Rs.     | Tons                  |
+| 1899 | 362,791 | 268,907     | 984,066 | 1,853,362 | 96,263                |
+| 1900 | 390,311 | 351,919     | 980,011 | 1,038,161 | 158,570               |
+| 1901 | 486,325 | 407,821     | 1,140,646 | 1,383,245 | 169,592               |
+| 1902 | 437,466 | 497,479     | 861,159 | 1,094,268 | 119,715               |
+| 1903 | 467,688 | 516,331     | 866,414 | 905,526   | 112,532               |
+| 1904 | 388,003 | 447,339     | 906,171 | 890,896   | 112,908               |
+| 1905 | 375,778 | 303,690     | 823,451 | 880,155   | 130,654               |
+| 1906 | 419,932 | 370,971     | 916,396 | 907,780   | 122,099               |
+| 1907 | 501,292 | 381,029     | 1,384,796 | 2,261,819 | 128,349               |
+| 1908 | 473,835 | 465,753     | 1,150,741 | 1,469,563 | 136,533               |
+
+Debt, Rs. 242,126 for roads and survey of Mahé.
+
+The surplus of assets over liabilities on 31st December, 1908, was Rs. 311,016, and the market value of surplus funds invested was, on the same date, Rs. 160,333.
+
+Population.
+
+Census, 1881—14,081; 1891—16,603; 1901—19,237.
+
+Estimated 31st December, 1908—21,982.
+
+Administrators.*
+
+T. Riseley Griffith ... ... 18 Feb., 1889.
+R. M. Brown (acting) ... ... 16 Nov., 1891.
+T. Riseley Griffith, C.M.G. ... 17 May, 1892.
+R. M. Brown (acting) ... ... 17 Mar., 1895.
+H. C. Stewart ... ... 17 June, 1895.
+H. C. Stewart, C.M.G. ... 24 May, 1897.
+R. M. Brown (acting) ... ... 15 May, 1899.
+E. B. Sweet-Escott, C.M.G. ... 20 Nov., 1899.
+
+Governors.
+
+E. B. Sweet-Escott, C.M.G. ... 7 Nov., 1903.
+W. E. Davidson, C.M.G. ... 15 April, 1904.
+
+Executive Council.
+
+The Governor, President.
+The Crown Prosecutor.
+The Treasurer and Collector.
+The Auditor.
+
+Clerk, W. L. Rind.
+
+Legislative Council.
+
+The Governor, President
+The Crown Prosecutor
+The Treasurer and Collector
+The Auditor
+
+ex officio.
+
+E. Savy
+H. P. Thomasset
+E. Nageon de L'Estang
+
+nominated.
+
+Clerk, W. L. Rind.
+
+* For Officers previously administering the Government since 1890, see Edition for 1903.
+
+Civil Establishment.
+
+Governor and Commander-in-Chief, Walter Edward Davidson, C.M.G., Rs. 18,000 (including Rs. 3,000 entertaining allowance).
+Private Secretary, W. L. Rind.
+
+Governor's Office.
+
+Clerk to Governor and Clerk to Councils, W. L. Rind, Rs. 2,400 to Rs. 3,600.
+1st Clerk, J. B. Adeline, Rs. 720 to Rs. 960.
+2nd Clerk, A. Watson, Rs. 480 to Rs. 720.
+
+Treasury and Customs.
+
+Treasurer and Collector, G. H. Griffiths, I.S.O., Rs. 5,000 to Rs. 6,000.
+Chief Clerk, E. Petit, Rs. 1,800 to Rs. 2,400.
+2nd Clerk, F. Morgan, Rs. 1,200 to Rs. 1,500.
+3rd ,, F. Vel, Rs. 1,000 to Rs. 1,200.
+4th ,, S. Delorié, Rs. 720.
+5th ,, M. Meslé, Rs. 360.
+1st Customs Officer, G. Gemmell, Rs. 1,800 to Rs. 2,400.
+2nd ,, E. Nagcon, Rs. 720.
+3rd ,, M. Philogène, Rs. 600.
+Warehouse Keeper, B. Hibbs, Rs. 1,000 to Rs. 1,200.
+
+Audit Department.
+
+Auditor, L. O. Chitty, Rs. 4,000 to Rs. 5,000.
+Clerk, H. Lagrenade, Rs. 600.
+
+Port Department.
+
+Port Officer, Capt. D. Sauvage, Rs. 1,800 to Rs. 2,400.
+Pilot and Assistant Port Officer, J. Jean Louis, Rs. 1,200.
+Port Coxswain, Auguste Croisée, Rs. 480.
+Lighthouse Keeper, Denis Island, J. Faure, Rs. 720.
+Lighthouse Keeper, Port Victoria, J. Mussard, Rs. 360.
+
+Legal Department.
+
+Judge, A. K. Young, Rs. 9,000.
+Registrar and Stipendiary Clerk, B. P. Crow, Rs. 1,800 to Rs. 2,400.
+1st Clerk, D. Savy, Rs. 1,000.
+2nd ,, N. G. Bonnetard, Rs. 840.
+3rd ,, E. Petit, Rs. 240 to Rs. 480.
+Crown Prosecutor, Legal Adviser, and Police Magistrate, A. Williamson, Rs. 6,000.
+
+Justices of the Peace:
+
+South Mahé, J. T. Bradley.
+Pralin District, G. J. M. Martin, L.R.C.P. and S.I.
+
+(See Medical Department.)
+
+Mortgage and Registration Department.
+
+Conservator of Mortgages and Receiver of Registration Dues, A. Williamson. Is paid under Legal Department.
+Chief Clerk, G. A. Poussou, Rs. 1,800 to Rs. 2,400.
+2nd ,, C. Cosgrow, Rs. 480 to Rs. 600.
+3rd ,, J. Calais, Rs. 240 to Rs. 480.
+
+Bankruptcy and Curatelle.
+
+Official Assignee in Bankruptcy and Curator of Vacant Estates, A. Williamson. Is paid under Legal Department.
+Police Department.
+
+Inspector of Police, L. Le Vieux, Rs. 2,500 (with Rs. 500 for quarters).
+Sub-Inspector, L. A. Tonnet, Rs. 1,800 (with Rs. 240 for quarters).
+Sergeant-Major, E. Moustache, Rs. 900 to Rs. 1,200 (with Rs. 240 for quarters).
+Sergeants, N. Albert, E. Berlouis, and E. Gill, Rs. 720 each. The last named also receives a personal allowance of Rs. 120.
+
+Prison Department.
+
+Superintendent of Prisons, L. Le Vieux (unpaid).
+Superintendent of Printing, W. L. Rind, Rs. 300.
+Gaoler, G. Savy, Rs. 1,000 to Rs. 1,250 (with quarters).
+First Class Guards, M. Natal and M. Brum, Rs. 600 each.
+Printing Compositor and First Class Guard, A. St. Ange, Rs. 500 to Rs. 600.
+Second Class Guards, T. Prera and T. Rosette, Rs. 480 each.
+Third Class Guards, N. Anta, C. Leperre and G. Pointes, Rs. 360 each.
+Matron, Mrs. J. le Bon, Rs. 240.
+
+Medical Department.
+
+Chief Medical Officer, J. B. Addison, M.R.C.S., L.R.C.P., Rs. 4,500 (with private practice).
+Assistant Medical Officer, Praslin District, G. J. M. Martin, L.R.C.P. and S.I., D.P.H., Rs. 3,000 (with quarters and private practice).
+Assistant Medical Officer, South Mahé District, J. T. Bradley, M.D. (Brux.), L.R.C.P. Edin., Rs. 4,000 (with quarters and private practice).
+Assistant Medical Officer, Victoria and Visiting Magistrate, Outlying Islands, M. S. Power, L.R.C.P. and S., Rs. 3,000 (with quarters and private practice).
+Dispenser and Clerk, Victoria Hospital, D. Watson, Rs. 600 to Rs. 1,800.
+2nd Clerk, A. Cauvin, Rs. 240 to Rs. 480.
+Matron, do., S. St. Landri, Rs. 400.
+Nurses, do., S. Gabrielle, S. Yvonne, Rs. 400.
+Housekeeper, do., S. Katherine, Rs. 400.
+The Sisters are provided with quarters and given Rs. 720 in lieu of rations.
+Clerk, Praslin, S. G. Shipp, Rs. 840 (with Rs. 120 for quarters).
+Clerk, South Mahé District, A. Pilliéron (acting), Rs. 840 (with Rs. 120 for quarters).
+Overseer, Leper Asylum and Pauper Camp, L. Gendron, Rs. 500, quarters and rations.
+
+Ecclesiastical Department.
+
+Roman Catholic Church.
+
+Bishop of Victoria, Rs. 3,000.
+Priests, Rev. Father Damascene, Rs. 1,500
+Rev. Father Cessaire, Rs. 750; Rev. Father Laurent, Rs. 750.
+
+Church of England.
+
+Civil Chaplain, Rev. E. A. Newton, M.A., Rs. 3,000.
+Minister, Praslin, Rev. R. H. Pickwood, Rs. 750.
+
+Education Department.
+
+Inspector of Schools, G. Mackay, M.A.
+Head Master, Victoria School, G. Mackay, M.A., Rs. 4,000.
+
+Assistant Masters, J. A. de Gaye, Rs. 2,400;
+A. E. Power and E. Harter, Rs. 1,000, to Rs. 1,500 each; R. Harter (acting), Rs. 1,000.
+Pupil Teachers, P. Jean Louis and E. McGaw (acting), Rs. 180 to Rs. 480.
+Mistress, Infant School, Miss Rosalie Vel, Rs. 540.
+
+Post Office.
+
+Postmaster, F. Touris, Rs. 1,800 to Rs. 2,400.
+Chief Clerk, D. Jenkins, Rs. 1,000 to Rs. 1,200.
+2nd Clerk, H. Jean Louis, Rs. 240 to Rs. 480.
+
+Botanic Station.
+
+Curator, R. Dupont, Rs. 3,000 (with Rs. 500 for quarters).
+Clerk, E. Mealé, Rs. 600 to Rs. 840.
+Sergeant Forest Ranger, F. Godley, jr., Rs. 600 to Rs. 720.
+
+Public Works Department.
+
+Superintendent of Public Works and Survey, W. M. Vaudin, Rs. 4,000.
+Inspector of Roads and Overseer of Mines, Cyril Hoareau, Rs. 480 to Rs. 600.
+First Clerk, F. Underwood, Rs. 480 to Rs. 720.
+Second Clerk, S. B. Potter, Rs. 360 to Rs. 480.
+Head Mason, A. Collet, Rs. 600 to Rs. 780.
+Head Carpenter, G. Marie, Rs. 600 to Rs. 720.
+Head Blacksmith, C. Estro, Rs. 420 to Rs. 600.
+
+Local Board of Health, Central District.
+
+Chairman, W. M. Vaudin, Rs. 720.
+Town Surveyor, F. Westergreen, Rs. 960 to Rs. 1,200.
+Assistant Sanitary Inspector and Clerk, J. Theodore, Rs. 540.
+Market and Slaughter-House Keeper, S. Balthide, Rs. 360.
+Cemetery Keeper, J. Durup, Rs. 480.
+Overseer of Waterworks, G. Brown, Rs. 600.
+
+Local Board of Health, South Mahé District.
+
+Chairman, J. T. Bradley, J.P. (unpaid).
+Clerk to Board, A. Pilliéron, Rs. 120.
+Inspector of Roads, B. Sababady, Rs. 420.
+
+Local Board of Health, Praslin.
+
+Chairman, G. J. M. Martin, L.R.C.P. and S.I., J.P. (unpaid).
+Clerk to Board, S. G. Shipp, Rs. 60.
+
+Local Board of Health, La Diyue.
+
+Chairman, G. J. M. Martin, L.R.C.P. and S.I., J.P. (unpaid).
+Clerk to Board, S. G. Shipp, Rs. 60.
+
+Carnegie Public Library, Board of Directors.
+
+Chairman, W. L. Rind (unpaid).
+
+Foreign Consuls.
+
+France, E. Lanier, Esq. (Consular Agent).
+Germany, J. H. Brooks, Esq.
+Italy, H. A. Parc, Esq. (acting).
+Netherlands, A d'Emmerez de Charmoy, Esq.
+Portugal, A. Merian, Esq.
+Ina
+Su
+Set
+Set
+I
+
+Su
+Su
+Ga
+c
+Fit
+1
+Pr
+Stc
+Th
+Mc
+
+Ch
+As
+(1
+As
+As
+I
+
+Di
+2nd
+Mo
+Nu
+Ho
+Th
+Cla
+Cla
+Otn
+
+Bis
+Pr
+I
+I
+
+Ctt
+Mi
+
+Head Master, Victoria School, G. Mackay, M.A., Rs. 4,000.
+
+Netherlandas, A. Emmere Portugal, A. Merian, Esq.

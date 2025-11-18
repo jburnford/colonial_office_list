@@ -1,0 +1,435 @@
+{
+  "document": "Colonial Office List 1920",
+  "year": 1920,
+  "significance": "League of Nations mandates formally established (Tanganyika, Togoland, Cameroons)",
+  "extraction_date": "2025-11-18",
+  "total_colonies": 48,
+  "colonies": [
+    {
+      "name": "AUSTRALIA",
+      "file": "AUSTRALIA.md",
+      "start_line": 4001,
+      "end_line": 11562,
+      "total_lines": 7561,
+      "content_lines": 5643
+    },
+    {
+      "name": "BAHAMAS",
+      "file": "BAHAMAS.md",
+      "start_line": 11562,
+      "end_line": 11943,
+      "total_lines": 381,
+      "content_lines": 271
+    },
+    {
+      "name": "BARBADOS",
+      "file": "BARBADOS.md",
+      "start_line": 11943,
+      "end_line": 12600,
+      "total_lines": 657,
+      "content_lines": 455
+    },
+    {
+      "name": "BERMUDA",
+      "file": "BERMUDA.md",
+      "start_line": 12600,
+      "end_line": 12990,
+      "total_lines": 390,
+      "content_lines": 288
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "file": "BRITISH_GUIANA.md",
+      "start_line": 12990,
+      "end_line": 13751,
+      "total_lines": 761,
+      "content_lines": 531
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "file": "BRITISH_HONDURAS.md",
+      "start_line": 13751,
+      "end_line": 14067,
+      "total_lines": 316,
+      "content_lines": 226
+    },
+    {
+      "name": "CANADA",
+      "file": "CANADA.md",
+      "start_line": 14067,
+      "end_line": 17474,
+      "total_lines": 3407,
+      "content_lines": 2596
+    },
+    {
+      "name": "CEYLON",
+      "file": "CEYLON.md",
+      "start_line": 17474,
+      "end_line": 18419,
+      "total_lines": 945,
+      "content_lines": 699
+    },
+    {
+      "name": "CYPRUS",
+      "file": "CYPRUS.md",
+      "start_line": 18419,
+      "end_line": 19248,
+      "total_lines": 829,
+      "content_lines": 556
+    },
+    {
+      "name": "EAST AFRICA PROTECTORATE",
+      "file": "EAST_AFRICA_PROTECTORATE.md",
+      "start_line": 19248,
+      "end_line": 19927,
+      "total_lines": 679,
+      "content_lines": 406
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "file": "FALKLAND_ISLANDS.md",
+      "start_line": 19927,
+      "end_line": 20224,
+      "total_lines": 297,
+      "content_lines": 184
+    },
+    {
+      "name": "FIJI",
+      "file": "FIJI.md",
+      "start_line": 20224,
+      "end_line": 20858,
+      "total_lines": 634,
+      "content_lines": 479
+    },
+    {
+      "name": "GAMBIA",
+      "file": "GAMBIA.md",
+      "start_line": 20858,
+      "end_line": 21385,
+      "total_lines": 527,
+      "content_lines": 316
+    },
+    {
+      "name": "GIBRALTAR",
+      "file": "GIBRALTAR.md",
+      "start_line": 21385,
+      "end_line": 21619,
+      "total_lines": 234,
+      "content_lines": 158
+    },
+    {
+      "name": "GOLD COAST",
+      "file": "GOLD_COAST.md",
+      "start_line": 21619,
+      "end_line": 21906,
+      "total_lines": 287,
+      "content_lines": 160
+    },
+    {
+      "name": "TOGOLAND",
+      "file": "TOGOLAND.md",
+      "start_line": 21906,
+      "end_line": 22462,
+      "total_lines": 556,
+      "content_lines": 354
+    },
+    {
+      "name": "HONG KONG",
+      "file": "HONG_KONG.md",
+      "start_line": 22462,
+      "end_line": 23028,
+      "total_lines": 566,
+      "content_lines": 407
+    },
+    {
+      "name": "JAMAICA",
+      "file": "JAMAICA.md",
+      "start_line": 23028,
+      "end_line": 23996,
+      "total_lines": 968,
+      "content_lines": 635
+    },
+    {
+      "name": "LEEWARD ISLANDS",
+      "file": "LEEWARD_ISLANDS.md",
+      "start_line": 23996,
+      "end_line": 25678,
+      "total_lines": 1682,
+      "content_lines": 1174
+    },
+    {
+      "name": "MALTA",
+      "file": "MALTA.md",
+      "start_line": 25678,
+      "end_line": 26242,
+      "total_lines": 564,
+      "content_lines": 385
+    },
+    {
+      "name": "MAURITIUS",
+      "file": "MAURITIUS.md",
+      "start_line": 26242,
+      "end_line": 27209,
+      "total_lines": 967,
+      "content_lines": 616
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "file": "NEWFOUNDLAND.md",
+      "start_line": 27209,
+      "end_line": 27642,
+      "total_lines": 433,
+      "content_lines": 357
+    },
+    {
+      "name": "NEW ZEALAND",
+      "file": "NEW_ZEALAND.md",
+      "start_line": 27642,
+      "end_line": 28781,
+      "total_lines": 1139,
+      "content_lines": 799
+    },
+    {
+      "name": "NIGERIA",
+      "file": "NIGERIA.md",
+      "start_line": 28781,
+      "end_line": 29720,
+      "total_lines": 939,
+      "content_lines": 543
+    },
+    {
+      "name": "NYASALAND PROTECTORATE",
+      "file": "NYASALAND_PROTECTORATE.md",
+      "start_line": 29720,
+      "end_line": 30050,
+      "total_lines": 330,
+      "content_lines": 189
+    },
+    {
+      "name": "ST HELENA",
+      "file": "ST_HELENA.md",
+      "start_line": 30050,
+      "end_line": 30223,
+      "total_lines": 173,
+      "content_lines": 127
+    },
+    {
+      "name": "SEYCHELLES",
+      "file": "SEYCHELLES.md",
+      "start_line": 30223,
+      "end_line": 30550,
+      "total_lines": 327,
+      "content_lines": 246
+    },
+    {
+      "name": "SIERRA LEONE",
+      "file": "SIERRA_LEONE.md",
+      "start_line": 30550,
+      "end_line": 31060,
+      "total_lines": 510,
+      "content_lines": 392
+    },
+    {
+      "name": "SOMALILAND PROTECTORATE",
+      "file": "SOMALILAND_PROTECTORATE.md",
+      "start_line": 31060,
+      "end_line": 31259,
+      "total_lines": 199,
+      "content_lines": 139
+    },
+    {
+      "name": "SOUTH AFRICA",
+      "file": "SOUTH_AFRICA.md",
+      "start_line": 31259,
+      "end_line": 33611,
+      "total_lines": 2352,
+      "content_lines": 1541
+    },
+    {
+      "name": "BASUTOLAND",
+      "file": "BASUTOLAND.md",
+      "start_line": 33611,
+      "end_line": 33912,
+      "total_lines": 301,
+      "content_lines": 182
+    },
+    {
+      "name": "SWAZILAND",
+      "file": "SWAZILAND.md",
+      "start_line": 33912,
+      "end_line": 34635,
+      "total_lines": 723,
+      "content_lines": 464
+    },
+    {
+      "name": "STRAITS SETTLEMENTS",
+      "file": "STRAITS_SETTLEMENTS.md",
+      "start_line": 34635,
+      "end_line": 35966,
+      "total_lines": 1331,
+      "content_lines": 827
+    },
+    {
+      "name": "FEDERATED MALAY STATES",
+      "file": "FEDERATED_MALAY_STATES.md",
+      "start_line": 35966,
+      "end_line": 36382,
+      "total_lines": 416,
+      "content_lines": 235
+    },
+    {
+      "name": "TANGANYIKA TERRITORY",
+      "file": "TANGANYIKA_TERRITORY.md",
+      "start_line": 36382,
+      "end_line": 36655,
+      "total_lines": 273,
+      "content_lines": 140
+    },
+    {
+      "name": "TRINIDAD",
+      "file": "TRINIDAD.md",
+      "start_line": 36655,
+      "end_line": 36830,
+      "total_lines": 175,
+      "content_lines": 102
+    },
+    {
+      "name": "TOBAGO",
+      "file": "TOBAGO.md",
+      "start_line": 36830,
+      "end_line": 37868,
+      "total_lines": 1038,
+      "content_lines": 810
+    },
+    {
+      "name": "TURKS AND CAICOS ISLANDS",
+      "file": "TURKS_AND_CAICOS_ISLANDS.md",
+      "start_line": 37868,
+      "end_line": 37999,
+      "total_lines": 131,
+      "content_lines": 87
+    },
+    {
+      "name": "UGANDA",
+      "file": "UGANDA.md",
+      "start_line": 37999,
+      "end_line": 38371,
+      "total_lines": 372,
+      "content_lines": 243
+    },
+    {
+      "name": "WEIHAIWEI",
+      "file": "WEIHAIWEI.md",
+      "start_line": 38371,
+      "end_line": 38441,
+      "total_lines": 70,
+      "content_lines": 41
+    },
+    {
+      "name": "WESTERN PACIFIC",
+      "file": "WESTERN_PACIFIC.md",
+      "start_line": 38441,
+      "end_line": 38844,
+      "total_lines": 403,
+      "content_lines": 256
+    },
+    {
+      "name": "WINDWARD ISLANDS",
+      "file": "WINDWARD_ISLANDS.md",
+      "start_line": 38844,
+      "end_line": 39803,
+      "total_lines": 959,
+      "content_lines": 716
+    },
+    {
+      "name": "ZANZIBAR",
+      "file": "ZANZIBAR.md",
+      "start_line": 39803,
+      "end_line": 40040,
+      "total_lines": 237,
+      "content_lines": 151
+    },
+    {
+      "name": "NORTH BORNEO",
+      "file": "NORTH_BORNEO.md",
+      "start_line": 40040,
+      "end_line": 40253,
+      "total_lines": 213,
+      "content_lines": 157
+    },
+    {
+      "name": "SARAWAK",
+      "file": "SARAWAK.md",
+      "start_line": 40253,
+      "end_line": 40505,
+      "total_lines": 252,
+      "content_lines": 174
+    },
+    {
+      "name": "ADEN",
+      "file": "ADEN.md",
+      "start_line": 40505,
+      "end_line": 40515,
+      "total_lines": 10,
+      "content_lines": 5
+    },
+    {
+      "name": "ASCENSION",
+      "file": "ASCENSION.md",
+      "start_line": 40515,
+      "end_line": 40519,
+      "total_lines": 4,
+      "content_lines": 2
+    },
+    {
+      "name": "TRISTAN DA CUNHA",
+      "file": "TRISTAN_DA_CUNHA.md",
+      "start_line": 40519,
+      "end_line": 40530,
+      "total_lines": 11,
+      "content_lines": 6
+    }
+  ],
+  "notes": [
+    "This is the Colonial Office List from 1920, after Treaty of Versailles (1919)",
+    "League of Nations mandates appear in this list:",
+    "- TANGANYIKA TERRITORY (formerly German East Africa) - British mandate",
+    "- TOGOLAND (British zone) - British mandate, administered jointly with French",
+    "- CAMEROONS (British zone) - mentioned within NIGERIA section, British mandate",
+    "Palestine, Transjordan, and Iraq/Mesopotamia were under Foreign Office/India Office, not Colonial Office",
+    "Document includes dominions (Australia, Canada, New Zealand, South Africa)",
+    "Includes protectorates, territories, and crown colonies"
+  ],
+  "league_of_nations_mandates": {
+    "tanganyika_territory": {
+      "status": "British mandate under League of Nations",
+      "notes": "Appears as separate territory section (line 36382)",
+      "former_name": "German East Africa",
+      "mandate_class": "Class B Mandate"
+    },
+    "togoland": {
+      "status": "British mandate under League of Nations (British zone)",
+      "notes": "Appears as separate section (line 21906); administered jointly with France",
+      "former_name": "German Togoland",
+      "mandate_class": "Class B Mandate"
+    },
+    "cameroons": {
+      "status": "British mandate under League of Nations (British zone)",
+      "notes": "Discussed within NIGERIA section; administered by Governor of Nigeria",
+      "former_name": "German Kamerun",
+      "mandate_class": "Class B Mandate"
+    },
+    "palestine": {
+      "status": "Not in Colonial Office List - under Foreign Office jurisdiction in 1920",
+      "notes": "Palestine mandate not yet established under Colonial Office in 1920"
+    },
+    "transjordan": {
+      "status": "Not in Colonial Office List - under Foreign Office jurisdiction in 1920",
+      "notes": "Transjordan not yet separately established in 1920"
+    },
+    "iraq_mesopotamia": {
+      "status": "Not in Colonial Office List - under India Office jurisdiction in 1920",
+      "notes": "Mesopotamia/Iraq under India Office control in 1920, not Colonial Office"
+    }
+  }
+}

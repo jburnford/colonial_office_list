@@ -1,0 +1,268 @@
+BRITISH CENTRAL AFRICA PROTECTORATE.
+
+NYASALAND.
+
+Situation and Area.
+
+The Protectorate comprises the western shore of Lake Nyasa, with the high tablelands separating it from the basin of the Loangwa River, and the region lying between the watershed of the Zambesi and the Shiré Rivers on the west, and the Lakes Chiuta and Chilwa and the River Ruo (an affluent of the Shiré) on the east, including the mountain systems of the Shiré Highlands and Mlanje.
+
+It is bounded on the north by German East Africa, on the west by the British South Africa Company's Territory known as "Northern Rhodesia," on the south and east by Portuguese East Africa, and has a total area of about 40,980 square miles, according to the most recent survey.
+
+It is divided into thirteen districts, each in charge of a collector, who is also a district magistrate. An agent of the Administration is stationed at Chinde at the mouth of the Zambesi, where a concession has been leased from the Portuguese Government as a landing and forwarding depot for goods intended for British Territory north of the Zambesi, and where a Postal Agency is also established.
+
+The chief town is Blantyre, in the Shiré Highlands, where there are about 150 Europeans. The headquarters of the Administration are at Zomba.
+
+History.
+
+In 1859 Dr. Livingstone was placed at the head of a Government Expedition, and reached the southern shore of Lake Nyassa on the 16th of September of that year. His expedition was recalled in 1863, but resulted in the founding, from 1874 to 1881, of various Missionary Societies, notably the Universities Mission, the Livingstonia Mission, and the Church of Scotland Mission.
+
+The Missions were followed by the African Lakes Corporation, and in 1883 Captain Foote, R.N., was appointed first British Consul for the Territories north of the Zambesi, to reside at Blantyre.
+
+Opposition of the new settlers to the slave trade carried on by Arab coastmen and natives alike resulted in a conflict with the Arab traders under Chief Mlozi, settled at the north end of Lake Nyasa, which spread to the Yao chiefs, who were under their influence.
+
+In 1889 public attention was drawn to Nyasaland by the application for a Charter by the British South Africa Company, and the despatch of an imposing expedition under Major Serpa Pinto to the Upper Zambesi and Lower Loangwa. At the same time Mr. D. Rankin announced the discovery of a navigable entrance to the Zambesi by the Chinde mouth.
+
+In the summer of 1889 Mr. Johnston (now Sir H. H. Johnston, K.C.B., K.C.M.G.) arrived at Mozambique as H.B.M. Consul, and proceeded to travel in the interior to inquire into the troubles with the Arabs.
+
+Treaties having been concluded with the remaining Makololo chiefs and with the Yaos round Blantyre, Mr. Johnston proceeded up Lake Nyasa, leaving Mr. John Buchanan, Acting-Consul, in charge, who, after the first encounter between Major Serpa Pinto and Mlauri, a powerful Makololo chief, proclaimed on the 21st September, 1889, a British Protectorate over the Shiré districts.
+Mr. Johnston, during his progress up the Lake, induced the "Jumbe" or Sultan of Kota-Kota to place his country under British protection, and on arriving at Karonga arranged similar treaties with Mlozi and other Arab and Wahenga chiefs, after which he proceeded to Lake Tanganyika. On his return an agreement was made with Mponda, a Yao chief at the south end of Nyasa.
+
+In 1891, an Anglo-Portuguese convention ratified the work of Mr. Johnston, Mr. Sharpe (now Sir A. Sharpe, K.C.M.G., C.B.), and other pioneers of British Central Africa, and in the following spring a British Protectorate over the countries adjoining Nyasa was proclaimed. The Protectorate of Nyasaland, under the administration of an Imperial Commissioner, was confined to the regions adjoining the Shiré and Lake Nyasa; the remainder of the territory under British influence north of the Zambesi being placed, subject to certain conditions, under the British South Africa Company.
+
+In the autumn of 1891 an expedition was successfully conducted against slave-raiding Yaus at the south end of Nyasa, which resulted in the former being attacked and his followers effectually dispersed, and the latter suing for peace after his town had been shelled. The next few years brought much trouble to the Protectorate in the way of slave-trading and constant raids, but owing to three gun-boats being placed on the Lake for the suppression of the slave trade, further reinforcements of Sikhs arriving from India, and the recruitment of native troops from the Atonga of West Nyasa, the slave trade was abolished and the peaceful development of the Protectorate secured.
+
+On the 22nd February, 1893, the name of the Protectorate was changed to "The British Central Africa Protectorate."
+
+**Constitution.**
+
+The Administration of the Protectorate, which was transferred to the Colonial Office from the Foreign Office in March, 1904, is conducted by the Commissioner and Commander-in-Chief, assisted by the Deputy and Assistant Deputy Commissioner. The Laws consist of Orders in Council and local Ordinances made by the Commissioner, with such British Acts as are of general application. Justice is administered in the High Court, which has jurisdiction in Civil and Criminal matters, and also as a Court of Admiralty. Subordinate Courts are held by Magistrates and Assistant Magistrates in the various districts. Appeals from decision of the High Court are heard in H.B.M.'s Court of Appeal for Eastern Africa sitting at Zanzibar.
+
+**Defence.**
+
+The 1st and 2nd Battalions King's African Rifles serve in British East Africa in turn for a period of three years, leaving one battalion and a depot company in the Protectorate. There is also an Indian contingent of 100 Sikhs recruited from the various Indian regiments.
+
+In August, 1906, the total military strength was:
+
+- 2nd Battalion ... 20 Officers 600 N.C.O.'s and men.
+- Depot Company 50 "
+- Depot Company (1st Battalion) 2 Officers 50 "
+- Indian Contingent ... 2 Officers 100 "
+
+Native Police are also recruited locally, small detachments being allotted to each station to perform District Police duties.
+
+**Climate and Products.**
+
+There are two distinct climates in the Protectorate, one of the Shire Valley and Lake Nyasa, the other of the Shiré Highlands and the rest of the country which lies at a high elevation. The first has a rainfall averaging 35 inches yearly, and a temperature which touches 120° in the summer. The second has a pleasant climate, the thermometer ranging from 96° or 97° in the summer to a minimum of about 40° in the winter. The rainfall in the Shiré Highlands varies from about 40 to 100 inches.
+
+**Industry.**
+
+The chief products of the Protectorate are cotton, coffee, tobacco, tea, chillies, rubber, rice, maize, wheat; rice and wheat, however, are not exported.
+
+The chief imports are, provisions, cotton goods, earthenware, hardware, wines and spirits, salt, silk and woollen goods, agricultural machinery, arms and ammunition.
+
+**Population (31st March, 1906).**
+
+Natives, 976,640; Europeans, 611; Asiatics (not including Sikh Troops), 409.
+
+**Means of Communication.**
+
+A railway from Port Herald to Chiromo (the inland "port" of the Protectorate), and thence to Blantyre, with proposed extension to Zomba and Lake Nyasa, is in course of construction. The first thirty miles are open for traffic, and it is expected that the Blantyre section, a further sixty miles, will be completed by the end of 1907. There are twenty steamers plying on the Zambesi and Shiré between Chinde and the highest navigable point of the Shiré, whence the journey to the Shiré Highlands is continued by road. Main roads and "carrier" roads are open all over the Protectorate, the total mileage being 2,367 miles. There are nine steamers on Lake Nyasa.
+
+Steamers arrive and depart fortnightly at Chinde (the port of entry at the mouth of the Zambesi) to Europe, via the Suez Canal, or by Durban and Cape Town. Mails arrive from England every week and are despatched every fortnight.
+
+**Rates of Postage.**
+
+Parcels to and from United Kingdom (south route), 3 lbs., 2s.; 7 lbs., 3s.; 11 lbs., 4s. Via Aden express, 3 lbs., 3s.; 7 lbs., 4s.; 11 lbs. 5s. Money Orders are issued at a commission of 9d. up to £2; 1s. 6d. for £5; 2s. 3d. for £7; 3s. for £10 up to £40. Local parcels, 1st lb., 4d.; 2nd lb., 8d.; every subsequent lb. up to 11 lbs., 3d. per lb. British Postal Orders issued and paid at all Post Offices. Rates of poundage double those charged in United Kingdom.
+
+In 1904-5—Letters, 383,882; Postcards, 16,513; Newspapers, 104,720; Book packets, samples and circulars, 48,656; Parcels, 4,570. Money Orders sent, 12,057l.; received, 752l.
+
+**Telegraphs.**
+
+The African Trans-continental Telegraph Company's line is in use from Ujiji on Lake Tanganyika southwards through the Protectorate, via Blantyre and Tete, to Ümtali in Southern Rhodesia and thence to Cape Town and England. A message from Zomba to London takes about twenty-four hours in transmission. The total mileage through the Protectorate is 778 miles.
+Currency and Banking.
+
+By a Proclamation in the Official Gazette of February, 1894, the legal currency is declared to be English sterling.
+
+Banking operations in the Protectorate are governed by "The Banking Ordinance, 1902."
+
+Two Banks have branches at Blantyre, the principal trading centre of the country, viz., The Standard Bank of South Africa, and The African Lakes Corporation, Limited.
+
+Finance.
+
+| Year | Local Revenue | Grant in Aid | British South Africa Company, Military Contribution |
+|------|--------------|--------------|---------------------------------------------------|
+| 1905-6 | 69,388£. | 32,000£. | 7,350£. |
+
+Total Trade.
+
+| Year | Imports | Exports | Total |
+|------|--------|---------|-------|
+| 1898-9 | 113,883£. | 37,964£. | 151,847£. |
+| 1899-0 | 183,435£. | 79,350£. | 262,785£. |
+| 1900-1 | 156,083£. | 38,723£. | 194,806£. |
+| 1901-2 | 135,842£. | 21,739£. | 157,581£. |
+| 1902-3 | 153,990£. | 34,765£. | 188,755£. |
+| 1903-4 | 207,686£. | 27,409£. | 235,095£. |
+| 1904-5 | 220,696£. | 48,452£. | 269,148£. |
+| 1905-6 | 222,581£. | 56,778£. | 279,359£. |
+
+Expenditure
+
+| Year | Total |
+|------|-------|
+| 1898-9 | 108,738£. |
+| 1899-0 | 108,682£. |
+
+Administrators.
+
+1891, February ... H. H. Johnston, Esq., C.B., Commissioner and Consul-General.
+
+1894, May ... A. Sharpe, Esq. (acting).
+
+1895, May ... H. H. Johnston, Esq., C.B., Made K.C.B. January 10th, 1896.
+
+1896, April ... A. Sharpe, Esq. (acting). Made C.B. June, and Commissioner and Consul-General July, 1897.
+
+1897, December ... Lieut.-Colonel W. H. Manning (acting).
+
+1898, December ... A. Sharpe, Esq., C.B.
+
+1900, July ... Lieut.-Colonel W. H. Manning (acting).
+
+1901, April ... A. Sharpe, Esq., C.B.
+
+1903, March ... Major F. B. Pearce (acting).
+
+1903, November ... Sir Alfred Sharpe, K.C.M.G., C.B.
+
+1905, May ... H. R. Wallis (acting).
+
+1906, November ... Major F. B. Pearce, C.M.G. (acting).
+
+1906, January ... Sir A. Sharpe, K.C.M.G., C.B.
+
+Civil Establishment.
+
+Commissioner and Commander-in-Chief, Sir Alfred Sharpe, K.C.M.G., C.B., 2,000£.
+
+Deputy Commissioner, Major F. B. Pearce, C.M.G., 900£.
+
+Assistant Deputy Commissioner, H. R. Wallis, 700£.
+
+Secretary's Office.
+
+Secretary, A. Jay Williams, 450£. to 600£. by 25£.
+
+Assistant Secretary, J. B. Keeble, 325£. to 425£. by 20£.
+
+Clerks, H. T. Barrett, F. W. Sander and A. M. Ryley, 200£. to 250£.
+
+Residents.
+
+Six 1st class, A. J. Swann, H. C. MacDonald, G. C. L. Ray, C. A. Cardew, T. A. V. Best, (vacant), 450£. to 600£. by 25£.
+
+Twelve 2nd class, Capt. C. F. Beeching, A. D. Easterbrook, B. T. Milthorp, C. O. Ockenden, C. Grant, H. L. Duff, R. W. Gordon, H. Armbruster, F. J. T. Storrs, L. T. Moggridge, G. G. Palmer, 325£. to 425£. by 20£.
+
+Eighteen 3rd class, H. D. Aplin, E. R. Cosgrove, W. K. Green, C. H. Hughes, G. F. Manning, W. Pickford, G. B. Ritchie, S. Robins, H. F. Scott, E. B. Vertue, F. Webb, J. S. Wells, E. C. White, E. F. Colville, R. A. MacRae, D. D. Dobson, A. H. L. Wyatt, A. M. D. Turnbull, 200£. to 300£.
+
+Legal and Judicial.
+
+Judge of the High Court, C. J. Griffin, 600£. to 800£. by 50£.
+
+Attorney-General, A. K. Young, 500£.; 1£. per diem when Acting Judge.
+
+Registrar, High Court, J. MacMorland, 200£. to 250£. (100£. per annum allowance); Chief Constable, P. D. H. S. Piers, 200£. to 250£.
+
+And 36 Assistants hold warrants as District Magistrates and Assistant District Magistrates.
+
+Treasury.
+
+Treasurer, W. Wheeler, C.M.G., 450£. to 600£. by 50£.
+
+Assistant Treasurers, J. E. Blenkiron, R. H. Salmon, 325£. to 425£. by 20£.; L. Smith, 250£. to 300£. by 10£.
+
+Clerks, A. Ridge, C. Wilkins, B. Mason, A. H. Walker, 200£. to 250£.
+
+Native Affairs Department.
+
+Superintendent of Native Affairs, J. C. Casson, 450£. to 600£. by 25£.; 2s. 6d. per diem camp allowance.
+
+Postal Department.
+
+Postmaster-General, N. Farrar, 325£. to 425£. by 20£.
+
+Postmasters, J. Davies, R. Hart, G. E. Jones, J. J. Killingbeck, E. J. Letts, G. H. Tuckett, F. J. Kirkpatrick, 200£. to 300£. by 10£.
+
+Medical Department.
+
+Principal Medical Officer, H. H. Hearsey, 450£. to 600£. by 50£.
+
+Medical Officers, A. H. Barclay, J. B. Davey, S. K. Norris, J. E. S. Old, H. Stannus, P. Wykesmith, (vacancy), 400£. to 500£. by 20£.
+
+Audit Department.
+
+Local Auditor, H. I. Ingram, 400£. to 500£. by 15£.; 7s. 6d. per diem camp allowance when travelling.
+
+Assistant Local Auditor, W. H. Smith, 300£. to 400£. by 10£.; 7s. 6d. per diem camp allowance.
+
+Transport Department.
+
+Chief Transport Officer, H. Woodard, 325£. to 425£. by 20£.
+
+Assistant, V. J. Keyte, 200£. to 300£. by 10£.
+Marine Transport Department.
+
+1st Officer, E. L. Rhoades, 500l. to 600l. by 30l.
+2nd Officer, H. N. Tate, 350l. to 500l. by 25l.
+Chief Engineer, F. G. Haynes, 250l. to 400l. by 30l.
+2nd Engineer, A. Urquhart, 200l. to 240l. by 20l.
+Clerk and Storekeeper, F. S. S. Wright, 150l. to 250l. by 25l.; 50l. transport allowance.
+
+Customs Department.
+
+Comptroller of Customs, R. MacDonald.
+Assistants, D. O'Connell, P. Williamson, 200l. to 300l. by 10l.
+Clerk, R. R. Roberts, 200l. to 250l.
+
+Forestry and Botanic Department.
+
+Head of Forestry and Botanic Department, (vacancy), 325l. to 425l. by 20l.
+Forester, J. McL. Purves, 250l. to 300l.
+Assistant Forester, E. W. Davy, 200l. to 250l.
+Cotton Expert, S. Simpson, 650l.
+
+Public Works Department.
+
+Director of Public Works, T. I. Binnie, 450l. to 600l. by 25l.
+1st Surveyor, T. F. Firr, 325l. to 425l. by 25l.
+2nd Surveyor, J. Bannerman, 250l. to 325l. by 15l.
+3rd Surveyor, G. N. Beaumont.
+Clerks, E. Taylor, H. R. Cruise, 200l. to 250l.
+Superintendent of Buildings, R. Jerman, 325l. to 425l. by 20l.
+Assistants, E. A. Wightman, R. Biggleston, 250l. to 300l. by 25l. each.
+Road Engineers, H. S. Chettle, G. A. Holmes, 200l. to 300l. by 10l.; Camp allowance 2s. 6d. per diem.
+
+Stationery and Printing.
+
+Head Printer, P. W. Fyson, 200l. to 300l. by 10l.; Stationery and Gazette allowance 50l.
+Assistant, E. S. Eagland, 180l.
+
+King's African Rifles.
+
+Inspector-General K.A.R., Brig.-General Sir W. H. Manning, K.C.M.G., C.B., 1,200l.
+Staff Officer, Capt. B. R. Graham, 600l.
+Commandant, Lt.-Col. P. B. Osborn, D.S.O., 900l.
+Second in Command, Major E. H. Llewellyn, 700l.
+Company Commanders, H. P. Bennitt, J. O. Hopkinson, L. C. Morley, C. W. Barton, D.S.O., W. G. Stonor, P. Elwell, 500l. each.
+Subalterns, A. St. A. Molesworth, J. Harington, L. H. Hickson, R. R. B. Wace, G. M. Bond, R. C. Dobbs, W. B. Brook, B. H. Shaw, R. G. Pyre, R. L. P. Lely, 400l.
+Adjutant and Quartermaster, W. G. Stonor (100l. staff pay), 500l.
+
+Indian Contingent.
+
+Double Company Commander (vacant), 600l.
+Quartermaster, Lieut. P. C. Hampe-Vincent.
+1st (Foreign Service) Battalion Depot Company Commander, Capt. J. Rosborough; Subaltern, Capt. H. S. Lloyd.
+Military Accountant and Paymaster, E. M. Alexander, 325l. to 425l. by 20l.
+Assistant Paymaster, C. E. Aplin, 200l. to 300l. by 10l.
+Clerk, P. W. Doyley, 200l. to 250l.
+

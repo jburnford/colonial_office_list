@@ -1,0 +1,413 @@
+{
+  "year": 1909,
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1909/olmocr_results.md",
+  "total_colonies": 58,
+  "colonies": [
+    {
+      "name": "AUSTRALIA\u2014NEW SOUTH WALES",
+      "filename": "australia-new_south_wales.md",
+      "start_line": 5479,
+      "end_line": 6067,
+      "char_count": 51899
+    },
+    {
+      "name": "AUSTRALIA\u2014QUEENSLAND",
+      "filename": "australia-queensland.md",
+      "start_line": 6068,
+      "end_line": 6454,
+      "char_count": 17503
+    },
+    {
+      "name": "SOUTH AUSTRALIA",
+      "filename": "south_australia.md",
+      "start_line": 6455,
+      "end_line": 7732,
+      "char_count": 85737
+    },
+    {
+      "name": "NORTHERN TERRITORY",
+      "filename": "northern_territory.md",
+      "start_line": 7733,
+      "end_line": 7818,
+      "char_count": 2586
+    },
+    {
+      "name": "TASMANIA",
+      "filename": "tasmania.md",
+      "start_line": 7819,
+      "end_line": 9300,
+      "char_count": 89648
+    },
+    {
+      "name": "WESTERN AUSTRALIA",
+      "filename": "western_australia.md",
+      "start_line": 9301,
+      "end_line": 10201,
+      "char_count": 57107
+    },
+    {
+      "name": "PAPUA",
+      "filename": "papua.md",
+      "start_line": 10202,
+      "end_line": 10371,
+      "char_count": 30866
+    },
+    {
+      "name": "BAHAMAS",
+      "filename": "bahamas.md",
+      "start_line": 10372,
+      "end_line": 10810,
+      "char_count": 21723
+    },
+    {
+      "name": "BARBADOS",
+      "filename": "barbados.md",
+      "start_line": 10811,
+      "end_line": 11427,
+      "char_count": 34158
+    },
+    {
+      "name": "BERMUDA",
+      "filename": "bermuda.md",
+      "start_line": 11428,
+      "end_line": 11825,
+      "char_count": 21292
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "filename": "british_guiana.md",
+      "start_line": 11826,
+      "end_line": 12623,
+      "char_count": 53961
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "filename": "british_honduras.md",
+      "start_line": 12624,
+      "end_line": 14266,
+      "char_count": 105003
+    },
+    {
+      "name": "ONTARIO",
+      "filename": "ontario.md",
+      "start_line": 14267,
+      "end_line": 14945,
+      "char_count": 17752
+    },
+    {
+      "name": "NOVA SCOTIA",
+      "filename": "nova_scotia.md",
+      "start_line": 14946,
+      "end_line": 15185,
+      "char_count": 10834
+    },
+    {
+      "name": "NEW BRUNSWICK",
+      "filename": "new_brunswick.md",
+      "start_line": 15186,
+      "end_line": 15487,
+      "char_count": 16667
+    },
+    {
+      "name": "BRITISH COLUMBIA",
+      "filename": "british_columbia.md",
+      "start_line": 15488,
+      "end_line": 15665,
+      "char_count": 9404
+    },
+    {
+      "name": "PRINCE EDWARD ISLAND",
+      "filename": "prince_edward_island.md",
+      "start_line": 15666,
+      "end_line": 16082,
+      "char_count": 19865
+    },
+    {
+      "name": "CAPE OF GOOD HOPE",
+      "filename": "cape_of_good_hope.md",
+      "start_line": 16083,
+      "end_line": 18755,
+      "char_count": 156424
+    },
+    {
+      "name": "CEYLON",
+      "filename": "ceylon.md",
+      "start_line": 18756,
+      "end_line": 19593,
+      "char_count": 53643
+    },
+    {
+      "name": "CYPRUS",
+      "filename": "cyprus.md",
+      "start_line": 19594,
+      "end_line": 20420,
+      "char_count": 44945
+    },
+    {
+      "name": "EAST AFRICA PROTECTORATE",
+      "filename": "east_africa_protectorate.md",
+      "start_line": 20421,
+      "end_line": 20799,
+      "char_count": 22269
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "filename": "falkland_islands.md",
+      "start_line": 20800,
+      "end_line": 20986,
+      "char_count": 14574
+    },
+    {
+      "name": "FIJI",
+      "filename": "fiji.md",
+      "start_line": 20987,
+      "end_line": 21575,
+      "char_count": 37906
+    },
+    {
+      "name": "THE GAMBIA",
+      "filename": "the_gambia.md",
+      "start_line": 21576,
+      "end_line": 21882,
+      "char_count": 18064
+    },
+    {
+      "name": "GIBRALTAR",
+      "filename": "gibraltar.md",
+      "start_line": 21883,
+      "end_line": 22328,
+      "char_count": 53201
+    },
+    {
+      "name": "ASHANTI",
+      "filename": "ashanti.md",
+      "start_line": 22329,
+      "end_line": 22340,
+      "char_count": 4202
+    },
+    {
+      "name": "THE NORTHERN TERRITORIES",
+      "filename": "the_northern_territories.md",
+      "start_line": 22341,
+      "end_line": 22661,
+      "char_count": 17153
+    },
+    {
+      "name": "THE GOLD COAST",
+      "filename": "the_gold_coast.md",
+      "start_line": 22662,
+      "end_line": 22828,
+      "char_count": 8298
+    },
+    {
+      "name": "HONG KONG",
+      "filename": "hong_kong.md",
+      "start_line": 22829,
+      "end_line": 23375,
+      "char_count": 31742
+    },
+    {
+      "name": "JAMAICA",
+      "filename": "jamaica.md",
+      "start_line": 23376,
+      "end_line": 24278,
+      "char_count": 50404
+    },
+    {
+      "name": "THE LEEWARD ISLANDS",
+      "filename": "the_leeward_islands.md",
+      "start_line": 24279,
+      "end_line": 24472,
+      "char_count": 14613
+    },
+    {
+      "name": "ANTIGUA",
+      "filename": "antigua.md",
+      "start_line": 24473,
+      "end_line": 25092,
+      "char_count": 31638
+    },
+    {
+      "name": "DOMINICA",
+      "filename": "dominica.md",
+      "start_line": 25093,
+      "end_line": 25348,
+      "char_count": 15850
+    },
+    {
+      "name": "MONTSERRAT",
+      "filename": "montserrat.md",
+      "start_line": 25349,
+      "end_line": 25539,
+      "char_count": 10256
+    },
+    {
+      "name": "VIRGIN ISLANDS",
+      "filename": "virgin_islands.md",
+      "start_line": 25540,
+      "end_line": 25716,
+      "char_count": 6483
+    },
+    {
+      "name": "MALTA",
+      "filename": "malta.md",
+      "start_line": 25717,
+      "end_line": 26625,
+      "char_count": 57772
+    },
+    {
+      "name": "MAURITIUS",
+      "filename": "mauritius.md",
+      "start_line": 26626,
+      "end_line": 27968,
+      "char_count": 78050
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "filename": "newfoundland.md",
+      "start_line": 27969,
+      "end_line": 28350,
+      "char_count": 27264
+    },
+    {
+      "name": "NEW ZEALAND",
+      "filename": "new_zealand.md",
+      "start_line": 28351,
+      "end_line": 29306,
+      "char_count": 68114
+    },
+    {
+      "name": "NORTHERN NIGERIA",
+      "filename": "northern_nigeria.md",
+      "start_line": 29307,
+      "end_line": 29520,
+      "char_count": 29575
+    },
+    {
+      "name": "NYASALAND PROTECTORATE",
+      "filename": "nyasaland_protectorate.md",
+      "start_line": 29521,
+      "end_line": 29761,
+      "char_count": 15726
+    },
+    {
+      "name": "ORANGE RIVER COLONY",
+      "filename": "orange_river_colony.md",
+      "start_line": 29762,
+      "end_line": 30259,
+      "char_count": 34183
+    },
+    {
+      "name": "ST. HELENA",
+      "filename": "st._helena.md",
+      "start_line": 30260,
+      "end_line": 30418,
+      "char_count": 10742
+    },
+    {
+      "name": "SEYCHELLES",
+      "filename": "seychelles.md",
+      "start_line": 30419,
+      "end_line": 30726,
+      "char_count": 19474
+    },
+    {
+      "name": "SIERRA LEONE",
+      "filename": "sierra_leone.md",
+      "start_line": 30727,
+      "end_line": 31245,
+      "char_count": 31237
+    },
+    {
+      "name": "SOMALILAND PROTECTORATE",
+      "filename": "somaliland_protectorate.md",
+      "start_line": 31246,
+      "end_line": 31381,
+      "char_count": 9456
+    },
+    {
+      "name": "BASUTOLAND",
+      "filename": "basutoland.md",
+      "start_line": 31382,
+      "end_line": 31517,
+      "char_count": 15797
+    },
+    {
+      "name": "BECHUANALAND PROTECTORATE",
+      "filename": "bechuanaland_protectorate.md",
+      "start_line": 31518,
+      "end_line": 31590,
+      "char_count": 6556
+    },
+    {
+      "name": "SWAZILAND",
+      "filename": "swaziland.md",
+      "start_line": 31591,
+      "end_line": 32221,
+      "char_count": 50701
+    },
+    {
+      "name": "SOUTHERN NIGERIA",
+      "filename": "southern_nigeria.md",
+      "start_line": 32222,
+      "end_line": 33674,
+      "char_count": 102226
+    },
+    {
+      "name": "LABUAN",
+      "filename": "labuan.md",
+      "start_line": 33675,
+      "end_line": 35640,
+      "char_count": 130256
+    },
+    {
+      "name": "TRINIDAD",
+      "filename": "trinidad.md",
+      "start_line": 35641,
+      "end_line": 35749,
+      "char_count": 19258
+    },
+    {
+      "name": "TOBAGO",
+      "filename": "tobago.md",
+      "start_line": 35750,
+      "end_line": 37003,
+      "char_count": 52747
+    },
+    {
+      "name": "UGANDA",
+      "filename": "uganda.md",
+      "start_line": 37004,
+      "end_line": 37128,
+      "char_count": 9475
+    },
+    {
+      "name": "WESTERN PACIFIC",
+      "filename": "western_pacific.md",
+      "start_line": 37129,
+      "end_line": 37644,
+      "char_count": 43474
+    },
+    {
+      "name": "ST. LUCIA",
+      "filename": "st._lucia.md",
+      "start_line": 37645,
+      "end_line": 37912,
+      "char_count": 17029
+    },
+    {
+      "name": "ST. VINCENT",
+      "filename": "st._vincent.md",
+      "start_line": 37913,
+      "end_line": 38603,
+      "char_count": 44036
+    },
+    {
+      "name": "ZANZIBAR",
+      "filename": "zanzibar.md",
+      "start_line": 38604,
+      "end_line": 38648,
+      "char_count": 3569
+    }
+  ]
+}

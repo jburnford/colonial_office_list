@@ -1,0 +1,351 @@
+{
+  "year": 1927,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1927/olmocr_results.md",
+  "extraction_date": "2025-11-18",
+  "extraction_method": "Manual LLM boundary identification with full document review",
+  "total_colonies": 46,
+  "major_recoveries": [
+    "THE GOLD COAST - Major colony missing from previous extraction (output_2)",
+    "TRANS-JORDAN - Mandate territory missing from previous extraction",
+    "THE LEEWARD ISLANDS - Now properly extracted as federal colony (previously split into separate entries)"
+  ],
+  "notes": [
+    "All colony boundaries manually identified by reading OCR content",
+    "TRINIDAD AND TOBAGO treated as single colony (per header '* TRINIDAD AND TOBAGO')",
+    "THE LEEWARD ISLANDS includes presidencies: ANTIGUA, DOMINICA, MONTSERRAT, VIRGIN ISLANDS",
+    "CEYLON includes Cyprus subsection (Cyprus was administered separately but listed within CEYLON)",
+    "STRAITS SETTLEMENTS includes FEDERATED MALAY STATES subsection",
+    "Includes PART II-B (Dominions Office territories) and PART II-C (Colonial Office colonies)",
+    "Extraction ends at line 48694; PART III (appendices) starts at 48695"
+  ],
+  "colonies": [
+    {
+      "colony_name": "AUSTRALIA",
+      "start_line": 6158,
+      "end_line": 16736,
+      "line_count": 10579,
+      "file": "output_3/1927_manual_parsed/AUSTRALIA.txt"
+    },
+    {
+      "colony_name": "BRITISH COLUMBIA",
+      "start_line": 16737,
+      "end_line": 17765,
+      "line_count": 1029,
+      "file": "output_3/1927_manual_parsed/BRITISH_COLUMBIA.txt"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "start_line": 17766,
+      "end_line": 20371,
+      "line_count": 2606,
+      "file": "output_3/1927_manual_parsed/NEWFOUNDLAND.txt"
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "start_line": 20372,
+      "end_line": 20426,
+      "line_count": 55,
+      "file": "output_3/1927_manual_parsed/CAPE_OF_GOOD_HOPE.txt"
+    },
+    {
+      "colony_name": "NATAL",
+      "start_line": 20427,
+      "end_line": 22306,
+      "line_count": 1880,
+      "file": "output_3/1927_manual_parsed/NATAL.txt"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "start_line": 22307,
+      "end_line": 22613,
+      "line_count": 307,
+      "file": "output_3/1927_manual_parsed/BASUTOLAND.txt"
+    },
+    {
+      "colony_name": "SWAZILAND",
+      "start_line": 22614,
+      "end_line": 22826,
+      "line_count": 213,
+      "file": "output_3/1927_manual_parsed/SWAZILAND.txt"
+    },
+    {
+      "colony_name": "SOUTHERN RHODESIA",
+      "start_line": 22827,
+      "end_line": 23556,
+      "line_count": 730,
+      "file": "output_3/1927_manual_parsed/SOUTHERN_RHODESIA.txt"
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "start_line": 23557,
+      "end_line": 24114,
+      "line_count": 558,
+      "file": "output_3/1927_manual_parsed/BAHAMAS.txt"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "start_line": 24115,
+      "end_line": 24863,
+      "line_count": 749,
+      "file": "output_3/1927_manual_parsed/BARBADOS.txt"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "start_line": 24864,
+      "end_line": 25092,
+      "line_count": 229,
+      "file": "output_3/1927_manual_parsed/BERMUDA.txt"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "start_line": 25093,
+      "end_line": 26056,
+      "line_count": 964,
+      "file": "output_3/1927_manual_parsed/BRITISH_GUIANA.txt"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "start_line": 26057,
+      "end_line": 26403,
+      "line_count": 347,
+      "file": "output_3/1927_manual_parsed/BRITISH_HONDURAS.txt"
+    },
+    {
+      "colony_name": "CEYLON",
+      "start_line": 26404,
+      "end_line": 28517,
+      "line_count": 2114,
+      "file": "output_3/1927_manual_parsed/CEYLON.txt",
+      "note": "Includes Cyprus subsection (27774)"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "start_line": 28518,
+      "end_line": 28798,
+      "line_count": 281,
+      "file": "output_3/1927_manual_parsed/FALKLAND_ISLANDS.txt"
+    },
+    {
+      "colony_name": "FIJI",
+      "start_line": 28799,
+      "end_line": 29468,
+      "line_count": 670,
+      "file": "output_3/1927_manual_parsed/FIJI.txt"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "start_line": 29469,
+      "end_line": 29941,
+      "line_count": 473,
+      "file": "output_3/1927_manual_parsed/GAMBIA.txt"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "start_line": 29942,
+      "end_line": 30176,
+      "line_count": 235,
+      "file": "output_3/1927_manual_parsed/GIBRALTAR.txt"
+    },
+    {
+      "colony_name": "THE GOLD COAST",
+      "start_line": 30177,
+      "end_line": 31422,
+      "line_count": 1246,
+      "file": "output_3/1927_manual_parsed/GOLD_COAST.txt",
+      "note": "RECOVERY: Major colony missing from previous extraction"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "start_line": 31423,
+      "end_line": 32066,
+      "line_count": 644,
+      "file": "output_3/1927_manual_parsed/HONG_KONG.txt"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "start_line": 32067,
+      "end_line": 32927,
+      "line_count": 861,
+      "file": "output_3/1927_manual_parsed/JAMAICA.txt"
+    },
+    {
+      "colony_name": "CAYMAN ISLANDS",
+      "start_line": 32928,
+      "end_line": 33433,
+      "line_count": 506,
+      "file": "output_3/1927_manual_parsed/CAYMAN_ISLANDS.txt"
+    },
+    {
+      "colony_name": "KENYA",
+      "start_line": 33434,
+      "end_line": 34020,
+      "line_count": 587,
+      "file": "output_3/1927_manual_parsed/KENYA.txt"
+    },
+    {
+      "colony_name": "THE LEEWARD ISLANDS",
+      "start_line": 34021,
+      "end_line": 36471,
+      "line_count": 2451,
+      "file": "output_3/1927_manual_parsed/LEEWARD_ISLANDS.txt",
+      "note": "Federal colony including presidencies: ANTIGUA (34262), DOMINICA (34947), MONTSERRAT (35311), VIRGIN ISLANDS"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "start_line": 36472,
+      "end_line": 37335,
+      "line_count": 864,
+      "file": "output_3/1927_manual_parsed/MAURITIUS.txt"
+    },
+    {
+      "colony_name": "NIGERIA",
+      "start_line": 37336,
+      "end_line": 38440,
+      "line_count": 1105,
+      "file": "output_3/1927_manual_parsed/NIGERIA.txt"
+    },
+    {
+      "colony_name": "NORTHERN RHODESIA",
+      "start_line": 38441,
+      "end_line": 39201,
+      "line_count": 761,
+      "file": "output_3/1927_manual_parsed/NORTHERN_RHODESIA.txt"
+    },
+    {
+      "colony_name": "PALESTINE",
+      "start_line": 39202,
+      "end_line": 39759,
+      "line_count": 558,
+      "file": "output_3/1927_manual_parsed/PALESTINE.txt"
+    },
+    {
+      "colony_name": "ST. HELENA",
+      "start_line": 39760,
+      "end_line": 39964,
+      "line_count": 205,
+      "file": "output_3/1927_manual_parsed/ST_HELENA.txt"
+    },
+    {
+      "colony_name": "ASCENSION",
+      "start_line": 39965,
+      "end_line": 39978,
+      "line_count": 14,
+      "file": "output_3/1927_manual_parsed/ASCENSION.txt"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "start_line": 39979,
+      "end_line": 40246,
+      "line_count": 268,
+      "file": "output_3/1927_manual_parsed/SEYCHELLES.txt"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "start_line": 40247,
+      "end_line": 40950,
+      "line_count": 704,
+      "file": "output_3/1927_manual_parsed/SIERRA_LEONE.txt"
+    },
+    {
+      "colony_name": "STRAITS SETTLEMENTS",
+      "start_line": 40951,
+      "end_line": 44179,
+      "line_count": 3229,
+      "file": "output_3/1927_manual_parsed/STRAITS_SETTLEMENTS.txt",
+      "note": "Includes FEDERATED MALAY STATES subsection"
+    },
+    {
+      "colony_name": "TRINIDAD AND TOBAGO",
+      "start_line": 44180,
+      "end_line": 45657,
+      "line_count": 1478,
+      "file": "output_3/1927_manual_parsed/TRINIDAD_AND_TOBAGO.txt",
+      "note": "Includes TRINIDAD (44182) and TOBAGO (44482) subsections"
+    },
+    {
+      "colony_name": "UGANDA",
+      "start_line": 45658,
+      "end_line": 46111,
+      "line_count": 454,
+      "file": "output_3/1927_manual_parsed/UGANDA.txt"
+    },
+    {
+      "colony_name": "WEIHAIWEI",
+      "start_line": 46112,
+      "end_line": 46770,
+      "line_count": 659,
+      "file": "output_3/1927_manual_parsed/WEIHAIWEI.txt"
+    },
+    {
+      "colony_name": "GRENADA",
+      "start_line": 46771,
+      "end_line": 47054,
+      "line_count": 284,
+      "file": "output_3/1927_manual_parsed/GRENADA.txt"
+    },
+    {
+      "colony_name": "ST. LUCIA",
+      "start_line": 47055,
+      "end_line": 47343,
+      "line_count": 289,
+      "file": "output_3/1927_manual_parsed/ST_LUCIA.txt"
+    },
+    {
+      "colony_name": "ST. VINCENT",
+      "start_line": 47344,
+      "end_line": 47630,
+      "line_count": 287,
+      "file": "output_3/1927_manual_parsed/ST_VINCENT.txt"
+    },
+    {
+      "colony_name": "ZANZIBAR",
+      "start_line": 47631,
+      "end_line": 47911,
+      "line_count": 281,
+      "file": "output_3/1927_manual_parsed/ZANZIBAR.txt"
+    },
+    {
+      "colony_name": "IRAQ",
+      "start_line": 47912,
+      "end_line": 48111,
+      "line_count": 200,
+      "file": "output_3/1927_manual_parsed/IRAQ.txt"
+    },
+    {
+      "colony_name": "NORTH BORNEO",
+      "start_line": 48112,
+      "end_line": 48595,
+      "line_count": 484,
+      "file": "output_3/1927_manual_parsed/NORTH_BORNEO.txt"
+    },
+    {
+      "colony_name": "TRANS-JORDAN",
+      "start_line": 48596,
+      "end_line": 48645,
+      "line_count": 50,
+      "file": "output_3/1927_manual_parsed/TRANS_JORDAN.txt",
+      "note": "RECOVERY: Was missing from previous extraction - League of Nations mandate territory"
+    },
+    {
+      "colony_name": "ADEN",
+      "start_line": 48646,
+      "end_line": 48669,
+      "line_count": 24,
+      "file": "output_3/1927_manual_parsed/ADEN.txt"
+    },
+    {
+      "colony_name": "TRISTAN DA CUNHA",
+      "start_line": 48670,
+      "end_line": 48685,
+      "line_count": 16,
+      "file": "output_3/1927_manual_parsed/TRISTAN_DA_CUNHA.txt"
+    },
+    {
+      "colony_name": "MISCELLANEOUS ISLANDS",
+      "start_line": 48686,
+      "end_line": 48694,
+      "line_count": 9,
+      "file": "output_3/1927_manual_parsed/MISCELLANEOUS_ISLANDS.txt"
+    }
+  ]
+}

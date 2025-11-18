@@ -1,0 +1,332 @@
+{
+  "year": 1922,
+  "source_file": "colonial-office-list-1922/olmocr_results.md",
+  "extraction_date": "2025-11-18",
+  "total_colonies": 40,
+  "colonies": [
+    {
+      "name": "AUSTRALIA",
+      "filename": "AUSTRALIA.txt",
+      "start_line": 4542,
+      "end_line": 12488,
+      "line_count": 7947,
+      "word_count": 83043
+    },
+    {
+      "name": "BAHAMAS",
+      "filename": "BAHAMAS.txt",
+      "start_line": 12489,
+      "end_line": 12937,
+      "line_count": 449,
+      "word_count": 3742
+    },
+    {
+      "name": "BARBADOS",
+      "filename": "BARBADOS.txt",
+      "start_line": 12938,
+      "end_line": 13507,
+      "line_count": 570,
+      "word_count": 6476
+    },
+    {
+      "name": "BERMUDA",
+      "filename": "BERMUDA.txt",
+      "start_line": 13508,
+      "end_line": 13866,
+      "line_count": 359,
+      "word_count": 3620
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "filename": "BRITISH_GUIANA.txt",
+      "start_line": 13867,
+      "end_line": 14880,
+      "line_count": 1014,
+      "word_count": 9348
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "filename": "BRITISH_HONDURAS.txt",
+      "start_line": 14881,
+      "end_line": 15240,
+      "line_count": 360,
+      "word_count": 4337
+    },
+    {
+      "name": "CANADA",
+      "filename": "CANADA.txt",
+      "start_line": 15241,
+      "end_line": 18726,
+      "line_count": 3486,
+      "word_count": 28496
+    },
+    {
+      "name": "CEYLON",
+      "filename": "CEYLON.txt",
+      "start_line": 18727,
+      "end_line": 20082,
+      "line_count": 1356,
+      "word_count": 11038
+    },
+    {
+      "name": "CYPRUS",
+      "filename": "CYPRUS.txt",
+      "start_line": 20083,
+      "end_line": 20720,
+      "line_count": 638,
+      "word_count": 7460
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "filename": "FALKLAND_ISLANDS.txt",
+      "start_line": 20721,
+      "end_line": 21020,
+      "line_count": 300,
+      "word_count": 2976
+    },
+    {
+      "name": "FIJI",
+      "filename": "FIJI.txt",
+      "start_line": 21021,
+      "end_line": 21676,
+      "line_count": 656,
+      "word_count": 6014
+    },
+    {
+      "name": "GAMBIA",
+      "filename": "GAMBIA.txt",
+      "start_line": 21677,
+      "end_line": 22154,
+      "line_count": 478,
+      "word_count": 5718
+    },
+    {
+      "name": "GIBRALTAR",
+      "filename": "GIBRALTAR.txt",
+      "start_line": 22155,
+      "end_line": 22464,
+      "line_count": 310,
+      "word_count": 2252
+    },
+    {
+      "name": "GOLD COAST",
+      "filename": "GOLD_COAST.txt",
+      "start_line": 22465,
+      "end_line": 23526,
+      "line_count": 1062,
+      "word_count": 16302
+    },
+    {
+      "name": "HONG KONG",
+      "filename": "HONG_KONG.txt",
+      "start_line": 23527,
+      "end_line": 24126,
+      "line_count": 600,
+      "word_count": 5706
+    },
+    {
+      "name": "JAMAICA",
+      "filename": "JAMAICA.txt",
+      "start_line": 24127,
+      "end_line": 25327,
+      "line_count": 1201,
+      "word_count": 11768
+    },
+    {
+      "name": "KENYA",
+      "filename": "KENYA.txt",
+      "start_line": 25328,
+      "end_line": 26093,
+      "line_count": 766,
+      "word_count": 8045
+    },
+    {
+      "name": "LEEWARD ISLANDS",
+      "filename": "LEEWARD_ISLANDS.txt",
+      "start_line": 26094,
+      "end_line": 27742,
+      "line_count": 1649,
+      "word_count": 14197
+    },
+    {
+      "name": "MALTA",
+      "filename": "MALTA.txt",
+      "start_line": 27743,
+      "end_line": 28327,
+      "line_count": 585,
+      "word_count": 5733
+    },
+    {
+      "name": "MAURITIUS",
+      "filename": "MAURITIUS.txt",
+      "start_line": 28328,
+      "end_line": 29630,
+      "line_count": 1303,
+      "word_count": 12977
+    },
+    {
+      "name": "NEW ZEALAND",
+      "filename": "NEW_ZEALAND.txt",
+      "start_line": 29631,
+      "end_line": 30979,
+      "line_count": 1349,
+      "word_count": 14218
+    },
+    {
+      "name": "NIGERIA",
+      "filename": "NIGERIA.txt",
+      "start_line": 30980,
+      "end_line": 31674,
+      "line_count": 695,
+      "word_count": 14890
+    },
+    {
+      "name": "NYASALAND",
+      "filename": "NYASALAND.txt",
+      "start_line": 31675,
+      "end_line": 32153,
+      "line_count": 479,
+      "word_count": 5162
+    },
+    {
+      "name": "SEYCHELLES",
+      "filename": "SEYCHELLES.txt",
+      "start_line": 32154,
+      "end_line": 32409,
+      "line_count": 256,
+      "word_count": 2585
+    },
+    {
+      "name": "SIERRA LEONE",
+      "filename": "SIERRA_LEONE.txt",
+      "start_line": 32410,
+      "end_line": 32881,
+      "line_count": 472,
+      "word_count": 5447
+    },
+    {
+      "name": "SOMALILAND",
+      "filename": "SOMALILAND.txt",
+      "start_line": 32882,
+      "end_line": 33049,
+      "line_count": 168,
+      "word_count": 1680
+    },
+    {
+      "name": "SOUTH AFRICA",
+      "filename": "SOUTH_AFRICA.txt",
+      "start_line": 33050,
+      "end_line": 35382,
+      "line_count": 2333,
+      "word_count": 33060
+    },
+    {
+      "name": "BASUTOLAND",
+      "filename": "BASUTOLAND.txt",
+      "start_line": 35383,
+      "end_line": 35553,
+      "line_count": 171,
+      "word_count": 2774
+    },
+    {
+      "name": "BECHUANALAND",
+      "filename": "BECHUANALAND.txt",
+      "start_line": 35554,
+      "end_line": 35665,
+      "line_count": 112,
+      "word_count": 1465
+    },
+    {
+      "name": "SWAZILAND",
+      "filename": "SWAZILAND.txt",
+      "start_line": 35666,
+      "end_line": 36492,
+      "line_count": 828,
+      "word_count": 10753
+    },
+    {
+      "name": "NORTHERN RHODESIA",
+      "filename": "NORTHERN_RHODESIA.txt",
+      "start_line": 36493,
+      "end_line": 36552,
+      "line_count": 60,
+      "word_count": 360
+    },
+    {
+      "name": "STRAITS SETTLEMENTS",
+      "filename": "STRAITS_SETTLEMENTS.txt",
+      "start_line": 36553,
+      "end_line": 37388,
+      "line_count": 836,
+      "word_count": 9236
+    },
+    {
+      "name": "FEDERATED MALAY STATES",
+      "filename": "FEDERATED_MALAY_STATES.txt",
+      "start_line": 37389,
+      "end_line": 38332,
+      "line_count": 944,
+      "word_count": 11932
+    },
+    {
+      "name": "TANGANYIKA",
+      "filename": "TANGANYIKA.txt",
+      "start_line": 38333,
+      "end_line": 38795,
+      "line_count": 463,
+      "word_count": 5364
+    },
+    {
+      "name": "TRINIDAD AND TOBAGO",
+      "filename": "TRINIDAD_AND_TOBAGO.txt",
+      "start_line": 38796,
+      "end_line": 40471,
+      "line_count": 1676,
+      "word_count": 13631
+    },
+    {
+      "name": "UGANDA",
+      "filename": "UGANDA.txt",
+      "start_line": 40472,
+      "end_line": 40895,
+      "line_count": 424,
+      "word_count": 4195
+    },
+    {
+      "name": "WEIHAIWEI",
+      "filename": "WEIHAIWEI.txt",
+      "start_line": 40896,
+      "end_line": 40959,
+      "line_count": 64,
+      "word_count": 1018
+    },
+    {
+      "name": "WESTERN PACIFIC",
+      "filename": "WESTERN_PACIFIC.txt",
+      "start_line": 40960,
+      "end_line": 41262,
+      "line_count": 303,
+      "word_count": 4267
+    },
+    {
+      "name": "WINDWARD ISLANDS",
+      "filename": "WINDWARD_ISLANDS.txt",
+      "start_line": 41263,
+      "end_line": 43467,
+      "line_count": 2205,
+      "word_count": 25253
+    },
+    {
+      "name": "ADEN",
+      "filename": "ADEN.txt",
+      "start_line": 43468,
+      "end_line": 44469,
+      "line_count": 1001,
+      "word_count": 6888
+    }
+  ],
+  "notes": [
+    "Egypt became independent in 1922 - not included in this Colonial Office List",
+    "Irish Free State formed December 1922 - Ireland not included as a colony"
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "year": 1923,
+  "total_colonies": 38,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1923/olmocr_results.md",
+  "extraction_method": "manual_parsing",
+  "historical_context": "Post-WWI stabilization, League of Nations mandates established",
+  "notes": [
+    "RHODESIA includes both Southern and Northern Rhodesia",
+    "TANGANYIKA is a League of Nations mandate territory (former German East Africa)",
+    "PALESTINE is a League of Nations mandate territory (former Ottoman territory)",
+    "WEIHAIWEI was leased from China (to be returned in 1923)",
+    "THE LEEWARD ISLANDS is a federal colony of multiple islands",
+    "THE WINDWARD ISLANDS comprises St. Lucia, St. Vincent, and Grenada",
+    "BASUTOLAND and SWAZILAND are High Commission Territories",
+    "STRAITS SETTLEMENTS comprises Singapore, Penang, Malacca, and dependencies",
+    "FEDERATED MALAY STATES comprises Perak, Selangor, Negri Sembilan, and Pahang",
+    "LABUAN and BRUNEI are protected states in Borneo",
+    "THE GOLD COAST includes British mandated territory of Togoland"
+  ],
+  "colonies": [
+    {
+      "name": "BAHAMAS",
+      "filename": "bahamas.txt",
+      "start_line": 12707,
+      "end_line": 13106,
+      "line_count": 400,
+      "char_count": 23309
+    },
+    {
+      "name": "BARBADOS",
+      "filename": "barbados.txt",
+      "start_line": 13107,
+      "end_line": 13763,
+      "line_count": 657,
+      "char_count": 39434
+    },
+    {
+      "name": "BERMUDA",
+      "filename": "bermuda.txt",
+      "start_line": 13764,
+      "end_line": 14280,
+      "line_count": 517,
+      "char_count": 25352
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "filename": "british_guiana.txt",
+      "start_line": 14281,
+      "end_line": 15314,
+      "line_count": 1034,
+      "char_count": 61480
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "filename": "british_honduras.txt",
+      "start_line": 15315,
+      "end_line": 19020,
+      "line_count": 3706,
+      "char_count": 206007
+    },
+    {
+      "name": "CEYLON",
+      "filename": "ceylon.txt",
+      "start_line": 19021,
+      "end_line": 20307,
+      "line_count": 1287,
+      "char_count": 71223
+    },
+    {
+      "name": "CYPRUS",
+      "filename": "cyprus.txt",
+      "start_line": 20308,
+      "end_line": 20977,
+      "line_count": 670,
+      "char_count": 47912
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "filename": "falkland_islands.txt",
+      "start_line": 20978,
+      "end_line": 21280,
+      "line_count": 303,
+      "char_count": 18461
+    },
+    {
+      "name": "FIJI",
+      "filename": "fiji.txt",
+      "start_line": 21281,
+      "end_line": 21947,
+      "line_count": 667,
+      "char_count": 38644
+    },
+    {
+      "name": "THE GAMBIA",
+      "filename": "gambia.txt",
+      "start_line": 21948,
+      "end_line": 22444,
+      "line_count": 497,
+      "char_count": 34895
+    },
+    {
+      "name": "GIBRALTAR",
+      "filename": "gibraltar.txt",
+      "start_line": 22445,
+      "end_line": 22682,
+      "line_count": 238,
+      "char_count": 13686
+    },
+    {
+      "name": "THE GOLD COAST",
+      "filename": "gold_coast.txt",
+      "start_line": 22683,
+      "end_line": 23886,
+      "line_count": 1204,
+      "char_count": 100305
+    },
+    {
+      "name": "HONG KONG",
+      "filename": "hong_kong.txt",
+      "start_line": 23887,
+      "end_line": 24492,
+      "line_count": 606,
+      "char_count": 38785
+    },
+    {
+      "name": "JAMAICA",
+      "filename": "jamaica.txt",
+      "start_line": 24493,
+      "end_line": 25720,
+      "line_count": 1228,
+      "char_count": 73049
+    },
+    {
+      "name": "THE KENYA COLONY AND PROTECTORATE",
+      "filename": "kenya.txt",
+      "start_line": 25721,
+      "end_line": 26356,
+      "line_count": 636,
+      "char_count": 49968
+    },
+    {
+      "name": "THE LEEWARD ISLANDS",
+      "filename": "leeward_islands.txt",
+      "start_line": 26357,
+      "end_line": 28031,
+      "line_count": 1675,
+      "char_count": 87743
+    },
+    {
+      "name": "MALTA",
+      "filename": "malta.txt",
+      "start_line": 28032,
+      "end_line": 28607,
+      "line_count": 576,
+      "char_count": 36263
+    },
+    {
+      "name": "MAURITIUS",
+      "filename": "mauritius.txt",
+      "start_line": 28608,
+      "end_line": 31281,
+      "line_count": 2674,
+      "char_count": 175279
+    },
+    {
+      "name": "NIGERIA",
+      "filename": "nigeria.txt",
+      "start_line": 31282,
+      "end_line": 32225,
+      "line_count": 944,
+      "char_count": 100159
+    },
+    {
+      "name": "NYASALAND PROTECTORATE",
+      "filename": "nyasaland.txt",
+      "start_line": 32226,
+      "end_line": 32520,
+      "line_count": 295,
+      "char_count": 21298
+    },
+    {
+      "name": "ST. HELENA",
+      "filename": "st_helena.txt",
+      "start_line": 32521,
+      "end_line": 32992,
+      "line_count": 472,
+      "char_count": 30491
+    },
+    {
+      "name": "SIERRA LEONE",
+      "filename": "sierra_leone.txt",
+      "start_line": 32993,
+      "end_line": 33498,
+      "line_count": 506,
+      "char_count": 35149
+    },
+    {
+      "name": "SOMALILAND PROTECTORATE",
+      "filename": "somaliland.txt",
+      "start_line": 33499,
+      "end_line": 36042,
+      "line_count": 2544,
+      "char_count": 221236
+    },
+    {
+      "name": "BASUTOLAND",
+      "filename": "basutoland.txt",
+      "start_line": 36043,
+      "end_line": 36351,
+      "line_count": 309,
+      "char_count": 29419
+    },
+    {
+      "name": "SWAZILAND",
+      "filename": "swaziland.txt",
+      "start_line": 36352,
+      "end_line": 36570,
+      "line_count": 219,
+      "char_count": 20634
+    },
+    {
+      "name": "RHODESIA",
+      "filename": "rhodesia.txt",
+      "start_line": 36571,
+      "end_line": 37086,
+      "line_count": 516,
+      "char_count": 47168
+    },
+    {
+      "name": "STRAITS SETTLEMENTS",
+      "filename": "straits_settlements.txt",
+      "start_line": 37087,
+      "end_line": 37928,
+      "line_count": 842,
+      "char_count": 47814
+    },
+    {
+      "name": "LABUAN",
+      "filename": "labuan.txt",
+      "start_line": 37929,
+      "end_line": 37979,
+      "line_count": 51,
+      "char_count": 5868
+    },
+    {
+      "name": "BRUNEI",
+      "filename": "brunei.txt",
+      "start_line": 37980,
+      "end_line": 38039,
+      "line_count": 60,
+      "char_count": 5403
+    },
+    {
+      "name": "FEDERATED MALAY STATES",
+      "filename": "federated_malay_states.txt",
+      "start_line": 38042,
+      "end_line": 38970,
+      "line_count": 929,
+      "char_count": 75251
+    },
+    {
+      "name": "TANGANYIKA TERRITORY",
+      "filename": "tanganyika.txt",
+      "start_line": 38971,
+      "end_line": 39444,
+      "line_count": 474,
+      "char_count": 32792
+    },
+    {
+      "name": "TRINIDAD AND TOBAGO",
+      "filename": "trinidad_tobago.txt",
+      "start_line": 39445,
+      "end_line": 41298,
+      "line_count": 1854,
+      "char_count": 78877
+    },
+    {
+      "name": "UGANDA",
+      "filename": "uganda.txt",
+      "start_line": 41299,
+      "end_line": 41722,
+      "line_count": 424,
+      "char_count": 25310
+    },
+    {
+      "name": "WEIHAIWEI",
+      "filename": "weihaiwei.txt",
+      "start_line": 41723,
+      "end_line": 42089,
+      "line_count": 367,
+      "char_count": 34066
+    },
+    {
+      "name": "THE WINDWARD ISLANDS",
+      "filename": "windward_islands.txt",
+      "start_line": 42090,
+      "end_line": 43090,
+      "line_count": 1001,
+      "char_count": 68953
+    },
+    {
+      "name": "ZANZIBAR",
+      "filename": "zanzibar.txt",
+      "start_line": 43091,
+      "end_line": 43679,
+      "line_count": 589,
+      "char_count": 44846
+    },
+    {
+      "name": "PALESTINE",
+      "filename": "palestine.txt",
+      "start_line": 43680,
+      "end_line": 44372,
+      "line_count": 693,
+      "char_count": 50919
+    },
+    {
+      "name": "ADEN",
+      "filename": "aden.txt",
+      "start_line": 44373,
+      "end_line": 44399,
+      "line_count": 27,
+      "char_count": 6182
+    }
+  ]
+}

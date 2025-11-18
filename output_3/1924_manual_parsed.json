@@ -1,0 +1,344 @@
+{
+  "year": 1924,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1924/olmocr_results.md",
+  "extraction_date": "2025-11-18T17:07:27.226407",
+  "total_colonies": 41,
+  "output_directory": "output_3/1924_manual_parsed",
+  "colonies": [
+    {
+      "colony_name": "BAHAMAS",
+      "filename": "BAHAMAS.md",
+      "start_line": 13012,
+      "end_line": 13402,
+      "line_count": 391,
+      "file_size_bytes": 22564
+    },
+    {
+      "colony_name": "BARBADOS",
+      "filename": "BARBADOS.md",
+      "start_line": 13403,
+      "end_line": 14082,
+      "line_count": 680,
+      "file_size_bytes": 39216
+    },
+    {
+      "colony_name": "BERMUDA",
+      "filename": "BERMUDA.md",
+      "start_line": 14083,
+      "end_line": 14487,
+      "line_count": 405,
+      "file_size_bytes": 23500
+    },
+    {
+      "colony_name": "BRITISH_GUIANA",
+      "filename": "BRITISH_GUIANA.md",
+      "start_line": 14488,
+      "end_line": 15474,
+      "line_count": 987,
+      "file_size_bytes": 61049
+    },
+    {
+      "colony_name": "BRITISH_HONDURAS",
+      "filename": "BRITISH_HONDURAS.md",
+      "start_line": 15475,
+      "end_line": 19269,
+      "line_count": 3795,
+      "file_size_bytes": 212842
+    },
+    {
+      "colony_name": "CEYLON",
+      "filename": "CEYLON.md",
+      "start_line": 19270,
+      "end_line": 20542,
+      "line_count": 1273,
+      "file_size_bytes": 71631
+    },
+    {
+      "colony_name": "CYPRUS",
+      "filename": "CYPRUS.md",
+      "start_line": 20543,
+      "end_line": 21221,
+      "line_count": 679,
+      "file_size_bytes": 47429
+    },
+    {
+      "colony_name": "FALKLAND_ISLANDS",
+      "filename": "FALKLAND_ISLANDS.md",
+      "start_line": 21222,
+      "end_line": 21515,
+      "line_count": 294,
+      "file_size_bytes": 18338
+    },
+    {
+      "colony_name": "FIJI",
+      "filename": "FIJI.md",
+      "start_line": 21516,
+      "end_line": 22177,
+      "line_count": 662,
+      "file_size_bytes": 38613
+    },
+    {
+      "colony_name": "GAMBIA",
+      "filename": "GAMBIA.md",
+      "start_line": 22178,
+      "end_line": 22665,
+      "line_count": 488,
+      "file_size_bytes": 34598
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "filename": "GIBRALTAR.md",
+      "start_line": 22666,
+      "end_line": 22947,
+      "line_count": 282,
+      "file_size_bytes": 13522
+    },
+    {
+      "colony_name": "GOLD_COAST",
+      "filename": "GOLD_COAST.md",
+      "start_line": 22948,
+      "end_line": 23992,
+      "line_count": 1045,
+      "file_size_bytes": 92096
+    },
+    {
+      "colony_name": "HONG_KONG",
+      "filename": "HONG_KONG.md",
+      "start_line": 23993,
+      "end_line": 24725,
+      "line_count": 733,
+      "file_size_bytes": 45465
+    },
+    {
+      "colony_name": "JAMAICA",
+      "filename": "JAMAICA.md",
+      "start_line": 24726,
+      "end_line": 26089,
+      "line_count": 1364,
+      "file_size_bytes": 74675
+    },
+    {
+      "colony_name": "KENYA",
+      "filename": "KENYA.md",
+      "start_line": 26090,
+      "end_line": 26854,
+      "line_count": 765,
+      "file_size_bytes": 51713
+    },
+    {
+      "colony_name": "LEEWARD_ISLANDS",
+      "filename": "LEEWARD_ISLANDS.md",
+      "start_line": 26855,
+      "end_line": 28403,
+      "line_count": 1549,
+      "file_size_bytes": 87751
+    },
+    {
+      "colony_name": "MALTA",
+      "filename": "MALTA.md",
+      "start_line": 28404,
+      "end_line": 29025,
+      "line_count": 622,
+      "file_size_bytes": 38390
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "filename": "MAURITIUS.md",
+      "start_line": 29026,
+      "end_line": 29846,
+      "line_count": 821,
+      "file_size_bytes": 52245
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "filename": "NEWFOUNDLAND.md",
+      "start_line": 29847,
+      "end_line": 30473,
+      "line_count": 627,
+      "file_size_bytes": 69606
+    },
+    {
+      "colony_name": "NEW_ZEALAND_DEPENDENCIES",
+      "filename": "NEW_ZEALAND_DEPENDENCIES.md",
+      "start_line": 30474,
+      "end_line": 31533,
+      "line_count": 1060,
+      "file_size_bytes": 53610
+    },
+    {
+      "colony_name": "NIGERIA",
+      "filename": "NIGERIA.md",
+      "start_line": 31534,
+      "end_line": 32496,
+      "line_count": 963,
+      "file_size_bytes": 98984
+    },
+    {
+      "colony_name": "NYASALAND",
+      "filename": "NYASALAND.md",
+      "start_line": 32497,
+      "end_line": 32833,
+      "line_count": 337,
+      "file_size_bytes": 19548
+    },
+    {
+      "colony_name": "ST_HELENA",
+      "filename": "ST_HELENA.md",
+      "start_line": 32834,
+      "end_line": 33001,
+      "line_count": 168,
+      "file_size_bytes": 11614
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "filename": "SEYCHELLES.md",
+      "start_line": 33002,
+      "end_line": 33277,
+      "line_count": 276,
+      "file_size_bytes": 17209
+    },
+    {
+      "colony_name": "SIERRA_LEONE",
+      "filename": "SIERRA_LEONE.md",
+      "start_line": 33278,
+      "end_line": 33771,
+      "line_count": 494,
+      "file_size_bytes": 36134
+    },
+    {
+      "colony_name": "SOMALILAND",
+      "filename": "SOMALILAND.md",
+      "start_line": 33772,
+      "end_line": 36226,
+      "line_count": 2455,
+      "file_size_bytes": 230285
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "filename": "BASUTOLAND.md",
+      "start_line": 36227,
+      "end_line": 36394,
+      "line_count": 168,
+      "file_size_bytes": 18600
+    },
+    {
+      "colony_name": "BECHUANALAND",
+      "filename": "BECHUANALAND.md",
+      "start_line": 36395,
+      "end_line": 36492,
+      "line_count": 98,
+      "file_size_bytes": 10539
+    },
+    {
+      "colony_name": "SWAZILAND",
+      "filename": "SWAZILAND.md",
+      "start_line": 36493,
+      "end_line": 37209,
+      "line_count": 717,
+      "file_size_bytes": 68402
+    },
+    {
+      "colony_name": "NORTHERN_RHODESIA",
+      "filename": "NORTHERN_RHODESIA.md",
+      "start_line": 37210,
+      "end_line": 37232,
+      "line_count": 23,
+      "file_size_bytes": 2094
+    },
+    {
+      "colony_name": "STRAITS_SETTLEMENTS",
+      "filename": "STRAITS_SETTLEMENTS.md",
+      "start_line": 37233,
+      "end_line": 39200,
+      "line_count": 1968,
+      "file_size_bytes": 121874
+    },
+    {
+      "colony_name": "UNFEDERATED_MALAY_STATES",
+      "filename": "UNFEDERATED_MALAY_STATES.md",
+      "start_line": 39201,
+      "end_line": 39594,
+      "line_count": 394,
+      "file_size_bytes": 33538
+    },
+    {
+      "colony_name": "TANGANYIKA",
+      "filename": "TANGANYIKA.md",
+      "start_line": 39595,
+      "end_line": 40143,
+      "line_count": 549,
+      "file_size_bytes": 32059
+    },
+    {
+      "colony_name": "TRINIDAD_AND_TOBAGO",
+      "filename": "TRINIDAD_AND_TOBAGO.md",
+      "start_line": 40144,
+      "end_line": 41117,
+      "line_count": 974,
+      "file_size_bytes": 70479
+    },
+    {
+      "colony_name": "UGANDA",
+      "filename": "UGANDA.md",
+      "start_line": 41118,
+      "end_line": 41501,
+      "line_count": 384,
+      "file_size_bytes": 26244
+    },
+    {
+      "colony_name": "WEIHAIWEI",
+      "filename": "WEIHAIWEI.md",
+      "start_line": 41502,
+      "end_line": 41628,
+      "line_count": 127,
+      "file_size_bytes": 10304
+    },
+    {
+      "colony_name": "GILBERT_AND_ELLICE_ISLANDS",
+      "filename": "GILBERT_AND_ELLICE_ISLANDS.md",
+      "start_line": 41629,
+      "end_line": 41922,
+      "line_count": 294,
+      "file_size_bytes": 27611
+    },
+    {
+      "colony_name": "WINDWARD_ISLANDS",
+      "filename": "WINDWARD_ISLANDS.md",
+      "start_line": 41923,
+      "end_line": 42842,
+      "line_count": 920,
+      "file_size_bytes": 64035
+    },
+    {
+      "colony_name": "ZANZIBAR",
+      "filename": "ZANZIBAR.md",
+      "start_line": 42843,
+      "end_line": 43457,
+      "line_count": 615,
+      "file_size_bytes": 46926
+    },
+    {
+      "colony_name": "PALESTINE",
+      "filename": "PALESTINE.md",
+      "start_line": 43458,
+      "end_line": 44222,
+      "line_count": 765,
+      "file_size_bytes": 52222
+    },
+    {
+      "colony_name": "ADEN",
+      "filename": "ADEN.md",
+      "start_line": 44223,
+      "end_line": 48000,
+      "line_count": 3778,
+      "file_size_bytes": 146895
+    }
+  ],
+  "notes": [
+    "Extracted 41 colonies from the 1924 Colonial Office List",
+    "UNFEDERATED_MALAY_STATES includes Johore, Kedah, Perlis, Kelantan, and Trengganu",
+    "LEEWARD_ISLANDS includes Antigua, Dominica, St. Christopher-Nevis, Montserrat, and Virgin Islands",
+    "WINDWARD_ISLANDS includes Grenada, St. Lucia, and St. Vincent",
+    "NEW_ZEALAND_DEPENDENCIES includes Cook Islands and other Pacific territories"
+  ]
+}

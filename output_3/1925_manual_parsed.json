@@ -1,0 +1,261 @@
+{
+  "year": 1925,
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1925/olmocr_results.md",
+  "extraction_date": "2025-11-18",
+  "extraction_method": "manual_llm_boundary_identification",
+  "total_colonies": 42,
+  "colonies": [
+    {
+      "colony_name": "THE TERRITORY OF NEW GUINEA",
+      "start_line": 13395,
+      "end_line": 13624,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/THE_TERRITORY_OF_NEW_GUINEA.txt"
+    },
+    {
+      "colony_name": "BAHAMAS",
+      "start_line": 13625,
+      "end_line": 14047,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/BAHAMAS.txt"
+    },
+    {
+      "colony_name": "BARBADOS",
+      "start_line": 14048,
+      "end_line": 14630,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/BARBADOS.txt"
+    },
+    {
+      "colony_name": "BERMUDA",
+      "start_line": 14631,
+      "end_line": 15026,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/BERMUDA.txt"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "start_line": 15027,
+      "end_line": 16140,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/BRITISH_GUIANA.txt"
+    },
+    {
+      "colony_name": "BRITISH HONDURAS",
+      "start_line": 16141,
+      "end_line": 20038,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/BRITISH_HONDURAS.txt"
+    },
+    {
+      "colony_name": "CEYLON",
+      "start_line": 20039,
+      "end_line": 21276,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/CEYLON.txt"
+    },
+    {
+      "colony_name": "CYPRUS",
+      "start_line": 21277,
+      "end_line": 21988,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/CYPRUS.txt"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "start_line": 21989,
+      "end_line": 22263,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/FALKLAND_ISLANDS.txt"
+    },
+    {
+      "colony_name": "FIJI",
+      "start_line": 22264,
+      "end_line": 22893,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/FIJI.txt"
+    },
+    {
+      "colony_name": "THE GAMBIA",
+      "start_line": 22894,
+      "end_line": 23423,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/THE_GAMBIA.txt"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "start_line": 23424,
+      "end_line": 23691,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/GIBRALTAR.txt"
+    },
+    {
+      "colony_name": "THE GOLD COAST COLONY",
+      "start_line": 23692,
+      "end_line": 24003,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/THE_GOLD_COAST_COLONY.txt"
+    },
+    {
+      "colony_name": "THE BRITISH SPHERE OF TOGOLAND",
+      "start_line": 24004,
+      "end_line": 24745,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/THE_BRITISH_SPHERE_OF_TOGOLAND.txt"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "start_line": 24746,
+      "end_line": 25472,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/HONG_KONG.txt"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "start_line": 25473,
+      "end_line": 26748,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/JAMAICA.txt"
+    },
+    {
+      "colony_name": "THE KENYA COLONY AND PROTECTORATE",
+      "start_line": 26749,
+      "end_line": 27592,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/THE_KENYA_COLONY_AND_PROTECTORATE.txt"
+    },
+    {
+      "colony_name": "THE LEEWARD ISLANDS",
+      "start_line": 27593,
+      "end_line": 29275,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/THE_LEEWARD_ISLANDS.txt"
+    },
+    {
+      "colony_name": "MALTA",
+      "start_line": 29276,
+      "end_line": 30015,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/MALTA.txt"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "start_line": 30016,
+      "end_line": 32586,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/MAURITIUS.txt"
+    },
+    {
+      "colony_name": "NIGERIA",
+      "start_line": 32587,
+      "end_line": 33659,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/NIGERIA.txt"
+    },
+    {
+      "colony_name": "NORTHERN RHODESIA",
+      "start_line": 33660,
+      "end_line": 34053,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/NORTHERN_RHODESIA.txt"
+    },
+    {
+      "colony_name": "NYASALAND PROTECTORATE",
+      "start_line": 34054,
+      "end_line": 34333,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/NYASALAND_PROTECTORATE.txt"
+    },
+    {
+      "colony_name": "ST HELENA",
+      "start_line": 34334,
+      "end_line": 34507,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/ST_HELENA.txt"
+    },
+    {
+      "colony_name": "SEYCHELLES",
+      "start_line": 34508,
+      "end_line": 34789,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/SEYCHELLES.txt"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "start_line": 34790,
+      "end_line": 35357,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/SIERRA_LEONE.txt"
+    },
+    {
+      "colony_name": "SOMALILAND PROTECTORATE",
+      "start_line": 35358,
+      "end_line": 37861,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/SOMALILAND_PROTECTORATE.txt"
+    },
+    {
+      "colony_name": "BASUTOLAND",
+      "start_line": 37862,
+      "end_line": 38030,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/BASUTOLAND.txt"
+    },
+    {
+      "colony_name": "BECHUANALAND PROTECTORATE",
+      "start_line": 38031,
+      "end_line": 38133,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/BECHUANALAND_PROTECTORATE.txt"
+    },
+    {
+      "colony_name": "SWAZILAND",
+      "start_line": 38134,
+      "end_line": 38347,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/SWAZILAND.txt"
+    },
+    {
+      "colony_name": "SOUTHERN RHODESIA",
+      "start_line": 38348,
+      "end_line": 38904,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/SOUTHERN_RHODESIA.txt"
+    },
+    {
+      "colony_name": "STRAITS SETTLEMENTS",
+      "start_line": 38905,
+      "end_line": 40297,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/STRAITS_SETTLEMENTS.txt"
+    },
+    {
+      "colony_name": "FEDERATED MALAY STATES",
+      "start_line": 40298,
+      "end_line": 41254,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/FEDERATED_MALAY_STATES.txt"
+    },
+    {
+      "colony_name": "TANGANYIKA TERRITORY",
+      "start_line": 41255,
+      "end_line": 41837,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/TANGANYIKA_TERRITORY.txt"
+    },
+    {
+      "colony_name": "TRINIDAD AND TOBAGO",
+      "start_line": 41838,
+      "end_line": 43087,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/TRINIDAD_AND_TOBAGO.txt"
+    },
+    {
+      "colony_name": "UGANDA",
+      "start_line": 43088,
+      "end_line": 43405,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/UGANDA.txt"
+    },
+    {
+      "colony_name": "WEIHAIWEI",
+      "start_line": 43406,
+      "end_line": 43539,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/WEIHAIWEI.txt"
+    },
+    {
+      "colony_name": "THE GILBERT AND ELLICE ISLANDS COLONY",
+      "start_line": 43540,
+      "end_line": 43839,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/THE_GILBERT_AND_ELLICE_ISLANDS_COLONY.txt"
+    },
+    {
+      "colony_name": "THE WINDWARD ISLANDS",
+      "start_line": 43840,
+      "end_line": 44757,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/THE_WINDWARD_ISLANDS.txt"
+    },
+    {
+      "colony_name": "ZANZIBAR",
+      "start_line": 44758,
+      "end_line": 45170,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/ZANZIBAR.txt"
+    },
+    {
+      "colony_name": "NAURU",
+      "start_line": 45171,
+      "end_line": 45460,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/NAURU.txt"
+    },
+    {
+      "colony_name": "PALESTINE",
+      "start_line": 45461,
+      "end_line": 49500,
+      "file": "/home/user/colonial_office_list/output_3/1925_manual_parsed/PALESTINE.txt"
+    }
+  ]
+}

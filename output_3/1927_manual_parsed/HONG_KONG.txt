@@ -1,0 +1,644 @@
+HONG KONG.
+
+Situation and Area.
+
+Hong Kong is one of a number of Islands situated off the south-eastern coast of China, at the mouth of the Canton River, and lies about 40 miles east of Macao, 91 miles south of Canton, between 22° 9' and 22° 17' N. lat., and 114° 5' and 114° 18' E. long. The island is an irregular ridge, stretching nearly east and west; its broken and abrupt peaks rising to the height of nearly 2,000 feet above the sea level. Its length is about 11 miles, its breadth from 2 to 5 miles, its area about 32 square miles. It is separated from the mainland of China by a narrow strait, known as the Lyeemun Pass, which does not exceed half a mile in width. The opposite peninsula of Kowloon (24 square miles) was ceded to Great Britain by a Treaty entered into by Lord Elgin in 1860 with the Government of China, and now forms part of the Colony; which also includes Stonecutter's Green, Aplichau, Middle, Round, and other islets.
+
+In 1898 an agreement was concluded with the Chinese Government for the extension of Hong Kong territory by an area adjacent to British Kowloon, in the province of Kwang-tung, including Mira Bay and Deep Bay, this area to be leased for 99 years; a stipulation was included that within the walled city of Kowloon (which lies outside of British Kowloon) the Chinese officials then stationed there should continue to exercise jurisdiction except so far as might be inconsistent with the military requirements for the defence of Hong Kong, but that within the remainder of the newly-leased territory Great Britain should have sole jurisdiction. In 1899 the Chinese officials ceased to exercise jurisdiction within Kowloon City, which thereafter, by Her late Majesty's Order in Council, was incorporated in the leased territory and became subject to British rule. The area of the mainland and islands leased is about 359 square miles. A careful survey of the territory was completed in 1904. This New Territory is divided into two main districts—the Northern and the Southern—and is in charge of two District Officers, who perform the duties of land officers and magistrates, and are authorised to hold small debts courts. The District Officer of the Northern district has his headquarters at Tai Po on an arm of Mira Bay; the headquarters of the Southern district are in Victoria.
+
+General Description.
+
+The waterways of the Colony form one of the most magnificent harbours in the world, having an area of ten square miles. The granite hills which surround it rise between 2,000 and 3,000 feet high, the whole offering a coup d'œil which blends the wild scenery of Scotland with the classic beauty of Italy. The city of Victoria extends for four miles at the base of the hills which protect the south side of the harbour. Being built on the slope of the hills facing the sea, the general aspect of the town is perhaps more striking and picturesque from the water than that of any other city in the east, whilst many of the streets are shaded with well-grown and handsome trees. Some large and handsome buildings stand on the Praya West Reclamation, which was completed in 1903. The reclamation of a large area (2,249,000 sq. ft.) in front of the Praya East, is now being carried out. Work is in hand, and it is expected that the whole reclamation will be completed in 1928.
+
+Other large areas are being reclaimed on the mainland at Kowloon Bay (9,589,000 sq. ft.), Taiakak-tui (1,868,500 sq. ft.), Sham-shui-po (2,842,000 sq. ft.), the latter being a further reclamation to that already completed.
+
+The rainfall for 1924 was 98.57 inches, and for 1925 87.58 inches. In 1924 the mean temperature was 72.3° and in 1925, 71.4°, the mean minimum temperature during the latter year ranging from 78.9° in August to 52.5° in February and the mean maximum temperature from 87.8° in July to 60.4° in February. Typhoons are prevalent during the months July to October.
+
+History.
+
+The Colony, then a desolate island, sparsely inhabited by fishermen, was ceded to Great Britain in January, 1841; the cession was confirmed by the Treaty of Nankin in August, 1842; and the charter bears date 5th April, 1843. The additions subsequently obtained on the mainland have been noted above.
+
+Hong Kong did not become of much commercial importance until the discovery of gold in Australia, in 1851, and the consequent Chinese emigration. Its trade has gradually increased with the opening up of China to foreign trade.
+
+Large local banking, dock, steamboat, and insurance companies were established between 1865 and 1872, and the trade was greatly increased by the opening of the Suez Canal.
+
+The city is the depot for an incessant flow of Chinese emigration and immigration, the number in 1925 being 202,156 (principally to and from the Straits); emigrants, 140,634; immigrants, 61,622, excluding to and from China ports.
+
+Industry.
+
+The position of the island has made it a distributing centre for trade in many kinds of goods. Amongst the principal commodities handled are coal, cotton, and cotton goods, hides, iron and steel, matches, nuts, oils, rice, sugar, silk, sandalwood, tea, tin, wolframite, etc.
+
+Ship-building is a large and growing industry, and there are also factories of very considerable importance engaged in the manufacture of cigars and cigarettes, rope, cement, and the refining of sugar.
+
+Native industries such as the manufacture of vermilion, sauces, bamboo-ware, building of native craft, etc., are of large and increasing dimensions.
+
+The natural products of Hong Kong are few and unimportant. There is little land suitable for tillage, and nothing is grown but a little rice and some vegetables near the outlying villages. There are large granite quarries both on the island and in Kowloon. A bed of fire clay exists at Deep Water Bay, and bricks and earthenware pipes are manufactured from it. A dairy farm supplies fresh meat, poultry, eggs, and milk. The fishing in the waters of the Colony is good and is a source of livelihood to a vast number of Chinese.
+
+The New Territories have extensive cultivable land, on which are grown sugar, rice, vegetables, lychees, pineapples, etc. The cultivation is entirely in the hands of the Chinese villagers and it is doubtful whether European enterprise would be successful. A summary of the trade for 1925 is given below:—
+### Imports, 1925. Jan. 1st to Sept. 30th.
+
+| Countries                  | Excluding Treasure (Coin & Bullion) | Treasure (Coin & Bullion) | Total |
+|----------------------------|-------------------------------------|---------------------------|-------|
+| United Kingdom             | £4,739,895                          | £5,743                    | £4,745,638 |
+| Australia                  | £545,679                            | £5,251                    | £540,830 |
+| New Zealand                | £10,962                             |                           | £10,962 |
+| Canada                     | £278,516                            |                           | £278,516 |
+| India                      | £1,360,063                          | £89,404                   | £1,449,467 |
+| Burmah                    | £508,943                            |                           | £508,943 |
+| Ceylon                     | £15,359                             |                           | £15,359 |
+| Straits Settlements & Federated Malay States | £890,802                            | £6,423                    | £897,224 |
+| British North Borneo       | £145,109                            |                           | £145,109 |
+| South Africa               | £363                                |                           | £363   |
+| Aden                       | £11,449                             |                           | £11,449 |
+| East Africa                | £77,360                             |                           | £77,360 |
+| Mauritius                  | £7,194                              |                           | £7,194 |
+| West Indies                | £142                                |                           | £142   |
+| North China                | £6,106,327                          | £673,795                  | £6,780,122 |
+| Middle China               | £920,215                            | £315,645                  | £1,235,760 |
+| Japan, Korea and Formosa   | £5,106,388                          |                           | £5,106,388 |
+| Netherlands East Indies    | £3,745,399                          |                           | £3,745,399 |
+| French Indo-China          | £6,646,044                          | £58,611                   | £6,703,655 |
+| Siam                       | £4,731,505                          | £1,156                    | £4,732,661 |
+| Philippine Islands         | £438,243                            | £15,921                   | £454,164 |
+| U.S.A.                     | £5,206,460                          | £1,636,908                | £6,845,368 |
+| Cuba                       | £56,878                             |                           | £56,878 |
+| Central America            | £1,688                              |                           | £1,688 |
+| South America              | £12,098                             |                           | £12,098 |
+| France                     | £191,266                            |                           | £191,266 |
+| Germany                    | £688,207                            |                           | £688,207 |
+| Holland                    | £108,263                            |                           | £108,263 |
+| Belgium                    | £369,445                            |                           | £369,445 |
+| Norway                     | £132,430                            |                           | £132,430 |
+| Sweden                     | £80,846                             |                           | £80,846 |
+| Denmark                    | £21,451                             |                           | £21,451 |
+| Switzerland                | £27,416                             |                           | £27,416 |
+| Spain                      | £4,901                              |                           | £4,901 |
+| Italy                      | £171,074                            |                           | £171,074 |
+| Foreign Countries (Miscellaneous) | £115,173                            |                           | £115,173 |
+
+Total: £43,494,410
+
+### Recapitulation.
+
+| Countries                  | Excluding Treasure (Coin & Bullion) | Treasure (Coin & Bullion) | Total |
+|----------------------------|-------------------------------------|---------------------------|-------|
+| United Kingdom             | £4,739,895                          | £5,743                    | £4,745,638 |
+| British Dominions and Possessions | £3,864,935                          | £101,167                  | £3,966,102 |
+| China                     | £7,028,542                          | £960,340                  | £8,018,882 |
+| Japan, Korea and Formosa   | £5,106,388                          |                           | £5,106,388 |
+| Other Foreign Countries    | £22,756,650                         | £1,712,596                | £24,469,246 |
+
+Total: £43,494,410
+
+### Exports, Jan. 1st to Sept. 30th.
+
+| Countries                  | Excluding Treasure (Coin & Bullion) | Treasure (Coin & Bullion) | Total |
+|----------------------------|-------------------------------------|---------------------------|-------|
+| United Kingdom             | £416,275                            |                           | £416,275 |
+| Australia                  | £244,302                            |                           | £244,302 |
+| New Zealand                | £44,397                             |                           | £44,397 |
+| Canada                     | £199,046                            |                           | £199,046 |
+| India                      | £436,911                            | £7,000                    | £443,911 |
+| Burmah                    | £343,881                            | £107,519                  | £511,400 |
+| Ceylon                     | £64,516                             |                           | £64,516 |
+| Straits Settlements & Federated Malay States | £3,382,358                          | £1,312,848                | £4,695,706 |
+| British North Borneo       | £64,061                             |                           | £64,061 |
+| South Africa               | £31,556                             |                           | £31,556 |
+| Aden                       | £3,399                              |                           | £3,399 |
+| Gibraltar                  | £16,013                             |                           | £16,013 |
+| Malta                      | £3                                |                           | £3   |
+
+There is a Public Debt of £1,485,733/- and £3,000,000. The amounts at credit of the Sinking Funds are respectively £467,442, £1,444,169 and £103,453.
+Shipping.
+
+Hong Kong is a free port except as regards importation of intoxicating liquors and tobacco, and no details of the trade of previous years are available, but the control of trade rendered necessary by the war gave an opportunity of collecting some statistics. Figures of a tentative kind were available for a part of 1917 and full trade returns have been published annually from the year 1918 onwards. The enormous extent of the trade with which it is connected may be estimated from the amount of shipping which has steadily grown, with one or two slight fluctuations, for over twenty years.
+
+The total tonnage entering and clearing during the year 1925 amounted to 41,469,564 tons, a decrease of 15,261,493 tons compared with 1924.
+
+There were 20,752 arrivals of 16,051,302 tons and 19,963 departures of 15,890,401 tons.
+
+Of British ocean-going tonnage 4,922,197 tons entered, and 4,944,623 tons cleared.
+
+Of British river steamers 2,729,220 tons entered, and 2,725,895 tons cleared.
+
+Of foreign ocean-going tonnage 6,888,741 tons entered, and 6,898,213 tons cleared.
+
+Of foreign river steamers 218,628 tons entered, and 234,260 tons cleared.
+
+Of steamships under 60 tons trading to ports outside the Colony, 82,874 tons entered, and 82,623 tons cleared.
+
+Of junks in foreign trade 1,209,724 tons entered, and 1,242,047 tons cleared.
+
+Of steamships under 60 tons plying within the waters of the Colony 8,050,939 tons entered and 8,050,939 tons cleared.
+
+Of junks in local trade 262,051 tons entered, and 283,881 tons cleared.
+
+Docks.
+
+Hong Kong is well provided with dock accommodation. The Hong Kong and Whampoa Dock Company have three dry docks, the larger one being re-constructed, and two slips at their Kowloon establishment, one dry dock at Mong Kok Tsui on the western side of the Kowloon Peninsula, and two at Aberdeen on the south side of the island. The Taikoo Dockyard and Engineering Company have one large dock and three slipways situated at Quarry Bay, just inside the Lyseemun Pass.
+
+The Admiralty have built a large dock in the Naval Dockyard in the middle of the City of Victoria. Besides these, there are several building slips and repairing shops owned by Europeans and Chinese in various parts of the Colony.
+
+Wharves.
+
+The Hong Kong and Kowloon Wharf & Godown Co., situated on the mainland, have five wharves and can accommodate vessels of 550 ft. in length. No. 1 and No. 5 Wharves are capable of accommodating vessels up to 660 feet.
+
+Alf. Holt & Co. have two wharves at the East Point of the Kowloon Peninsula and have accommodation for large vessels.
+
+In addition, there are many wharves privately owned by shipping firms, situated in the Central district.
+
+Government Harbour Moorings.
+
+There are at present laid down in the Harbour for the use of vessels frequenting the Port fifty-six (56) complete sets of Government Harbour Moorings, classed as follows:
+
+| Class | Description |
+|-------|-------------|
+| A     | Moorings for vessels of 450 feet to 600 feet in length |
+| B     | Moorings for vessels of 300 feet to 450 feet in length |
+| C     | Moorings for vessels of 300 feet in length or under |
+
+Total ... ... ... 56
+
+Currency and Banking.
+
+The currency of Hong Kong consists of the following coins (vide Order in Council, 2nd Feb., 1896):
+
+1. The silver dollar of Mexico.
+2. British dollar.
+3. The Hong Kong dollar, half-dollar, and 20-cent, 10-cent, and 5-cent pieces, issued from the Hong Kong Mint (1866-68).
+4. Half-dollars, 20-, 10-, and 5-cent pieces, imported from England, and coined at the Royal Mint and Birmingham Mint.
+5. Copper coins representing one-hundredth part of the dollar (called one cent), and one-thousandth part of the dollar (mil or cash), imported from England.
+
+There were issued from the Hong Kong Mint 2,108,054 dollars and 58,587 half-dollars; and 20-, 10-, and 5-cent pieces to the nominal value of $402,671. There were obtained from England, and there were in circulation on 31st Dec., 1925, subsidiary coins (which now include half dollars), to the nominal value of $17,889,370.
+
+The coins issued from the Hong Kong Mint are never met with in the Colony now.
+
+The principal Banks are the Hong Kong and Shanghai Banking Corporation, Ltd., the Chartered Bank of India, Australia and China, the Mercantile Bank of India, the P. & O. Banking Corporation, Ltd., the International Banking Corporation, the Russo-Asiatic Bank, the Yokohama Specie Bank, the Bank of Taiwan, the Netherlands-India Commercial Bank, the Netherlands Trading Society, the Banque de l'Indo-Chine, the Crédit-Foncier d'Extrême Orient. The first named bank conducts a Savings Bank. There are also a large number of Chinese banks.
+
+The Hong Kong and Shanghai Banking Corporation, the Chartered Bank of India, Australia and China, and the Mercantile Bank of India are authorised to issue notes in the Colony, the total circulation amounting to $58,291,190 at the close of 1925.
+
+Local weights and measures are the following:
+
+1 tael = 1½ oz.; 1 picul = 133¼ lbs. (avoirdupois); 7½ catties = 1 imperial gallon; 1,000 Chinese cash = 1 dollar.
+
+Means of Communication.
+
+Hong Kong is extremely well situated as regards telegraphic communication in all directions with all parts of the world. The Eastern Extension Telegraph Company (British) by means of three cables to Singapore, one direct and one each vid Labuan and Cape St. James respectively, provide good connections with Europe, vid India, with Australasia and with the other British Colonies and possessions. By their cable to Manilla connection is made with the direct American cable, thence to San Francisco. Two cables to Shanghai, belonging respectively to the Eastern Extension and to the Great Northern (Danish) Companies, vid Foochow and Amoy.
+respectively, give a good connection with Shanghai, North China, Japan and Russia; and the system of the Great Northern Telegraph Company gives a good service to Europe, via Asiatic Russia.
+
+A radio-telegraph station established at Cape d'Aguilar provides communication with vessels inter ports.
+
+Hong Kong possesses unrivalled steam communication. The P. & O. S. N. Co., M. M. Cie, Holt's Line, City Line, and N.Y.K. maintain a regular service with the United Kingdom and Europe. The Holt's line, Admiral Line, O.S.K., N. Y. K., and Dollar Line maintain a regular service between Hong Kong and the United States of America. The Canadian Pacific S.S. Limited maintain a regular service with Vancouver, B.C.
+
+The E. & A., Australian Oriental Line, and N. Y. K. keep up a frequent service to Australian ports. In addition to these main lines of steamers, there are other lines which call at Hong Kong from various ports, such as the Shire, Glen, and Bank lines, and Lloyd Trestino.
+
+Regular steam communication between Java and Hong Kong has been established by the Indo-China S. N. Co.'s and the Java-China-Japan Line. Between the ports on the east coast of China, Formosa and Hong Kong the steamers of the Douglas S. S. Co. ply regularly twice a week, and those of the Osaka Shosen Kaisha weekly, and there is constant steam communication with Hoihow, Manila, Saigon, Haiphong, Tourane, Bangkok, Borneo, etc. With Shanghai, Tientsin, and the ports of Japan there is frequent communication by steamers of the Indo-China S. N. Co., China Navigation, and other lines, in addition to the English, French and American mail steamers. With Calcutta there are services by the Indo-China S. N. Co. and the British India Line, about once a fortnight by each line. Between Hong Kong, Macao, and Canton there is a daily steam service, and numerous steamers as far as Wuchoh on the West River.
+
+A cable tramway connects the city with the higher levels. An electric tramway from Shaukiwan to Kennedy Town, along the whole extent of the city, was completed and opened in July, 1904. The island possesses roads available for vehicular traffic both in the town and outside from which unrivalled views can be obtained, especially from the wind-swept roads in the hill districts. There is also a fine motor road round the island.
+
+There are excellent motor roads in Kowloon and the New Territory—the road to Fanling via Castle Peak and back via Taipo being a panorama of views over a route of several miles.
+
+The usual means of transport is by motor, ricksha, chair, or boat. A railway was completed in 1910 from Kowloon to the Chinese frontier, where it joins the line from Canton. Telephonic communication is available to all parts of the Colony.
+
+Letters.
+
+| United Kingdom, India, Egypt, and all other British Colonies and Protectorates, China and Macao | 4 cents |
+| Europe and America | 10 ,, |
+| Hong Kong, and New Territory | 2 ,, |
+
+Each additional oz.
+
+Direct Money Orders are exchanged with the United Kingdom, China, Canada, United States of America, Union of South Africa, India, Ceylon, the Australian Commonwealth, the Dominion of New Zealand, Straits Settlements, Federated Malay States, State of North Borneo, Sarawak, Siam, Macao, Japan, French Indo-China, Netherland Indies, and the Philippine Islands. British Postal Orders are issued and paid in Hong Kong. Telegraphic Money Orders are exchanged with the United Kingdom only.
+
+Education.
+
+Since 1913 the schools in the Colony, with few exceptions, have been placed by Ordinance under the supervision and control of the Education Department. The total number of pupils is about 39,735, of whom, roughly speaking, one-third are in schools in which English is the medium of instruction, and two-thirds are in Vernacular Schools. There are five schools exclusively for children of British parentage, with an average attendance of 291. Queen's College is the principal school for Chinese, with an average attendance of 506. Including the above, the average attendance at Government schools is 2,901. Most of the non-Government English schools are assisted by grants, which amounted in 1925 to $115,033. Many of the vernacular schools are assisted by subsidies and grants, amounting in 1925 to $83,890.
+
+A technical institute supplies instruction in commercial and technical subjects. The enrolment in 1925 was 580.
+
+The University of Hong Kong, incorporated under the local University Ordinance, 1911, and opened in 1912, is a residential University for students of both sexes, the object of which is declared by that Ordinance to be "the promotion of Arts, Science and Learning, the provision of higher education, the conferring of degrees, the development and formation of the character of students of all races, nationalities and creeds, and the maintenance of good understanding with the neighbouring country of China."
+
+Instruction is provided in the three Faculties of Medicine, Engineering and Arts. The standard aimed at is that of University degrees in Great Britain, and the Medical degrees of the University are recognized by the General Medical Council for registration in Great Britain.
+
+The land, buildings and equipment of the University are of an original value of not less than $1,750,000, while the endowment fund exceeds $3,000,000, of which $750,000 represents a recent grant from the Rockefeller Foundation for the establishment of full-time chairs in Surgery, Medicine, and Obstetrics and Gynaecology. The Colonial Government has contributed land to the approximate value of $175,000, together with capital sums amounting to $1,700,000, and provides an annual subsidy of $50,000.
+
+The course is one of 4 years in Engineering and Arts, and of 6 years in Medicine. The annual entry is now somewhat in excess of 100. Students are of all nationalities, but the great majority are Chinese drawn from all parts of China and the Far East.
+
+Revenue.
+
+Revenue is derived from duties on intoxicating liquor, which in 1926 were expected to realise $1,200,000, tobacco (imposed July, 1916),
+$1,800,000, stamp revenue $3,600,000. A considerable sum is also derived from the Opium monopoly, municipal rates for police, lighting, water, etc. (the rates according to the districts varying from 7 to 13 per cent. on the annual value of property) land revenue, stamps duties and other fees. It was expected that land sales would realise $268,859.
+
+The total revenue for 1926 is estimated at $19,486,657.
+
+Constitution.
+
+The Government is administered under Letters Patent of 14th February, 1917, by a Governor, aided by an Executive Council, composed of six official and three unofficial members, besides the Governor. The Legislative Council is presided over by the Governor, and is composed of seven official and six unofficial members, three of whom are nominated by the Crown on the recommendation of the Governor (two being usually Chinese), one is nominated by the Justices of the Peace from their body, and one by the Chamber of Commerce. The unofficial members of the Executive and Legislative Councils, appointed after receipt of the Additional Instructions passed under the Royal Sign Manual and Signet and dated 10th January, 1922, vacate their seats after five and four years respectively from date of appointment. The "Colonial Courts of Admiralty Act, 1890," regulates the jurisdiction of the Supreme Court in Admiralty cases. The English Common Law forms the basis of the legal system, modified by Colonial Ordinances, of which a revised edition to 1923 has been issued. The law as to civil procedure was codified by Ordinance No. 3 of 1901.
+
+Population.
+
+| Year | Non-Chinese | Chinese | Total (Civil) |
+|------|-------------|---------|---------------|
+| 1925 | ...         | 16,500  | 857,920       |
+|      |             |         | 874,420       |
+
+Governors.*
+
+1887 Sir G. W. Des Voeux, K.C.M.G.
+1891 Sir W. Robinson, K.C.M.G.
+1898 Sir H. A. Blake, G.C.M.G.
+1904 Major Sir M. Nathan, K.C.M.G., R.E.
+1907 Sir F. J. D. Lugard, K.C.M.G., C.B., D.S.O.
+1912 Sir F. H. May, K.C.M.G., LL.D.
+1919 Sir R. E. Stubbs, K.C.M.G.
+1926 Sir C. Clementi, K.C.M.G.
+
+Executive Council.
+
+Governor, President.
+Officer Commanding the Troops.
+Colonial Secretary.
+Attorney-General.
+Treasurer.
+H. T. Creasy, Director of Public Works.
+E. R. Hallifax, C.M.G., C.B.E., Secretary for Chinese Affairs.
+Unofficial Members, Sir H. E. Pollock, K.C., A. O. Lang, and Sir Shouson Chow, Kt.
+
+* For previous Governors see edition of 1908.
+
+Legislative Council.
+
+Governor, President.
+Officer Commanding the Troops.
+Colonial Secretary.
+Attorney-General.
+Treasurer.
+H. T. Creasy, Director of Public Works.
+E. R. Hallifax, C.M.G., C.B.E., Secretary for Chinese Affairs.
+Unofficial Members, Sir H. E. Pollock, K.C., Sir Shouson Chow, A. O. Lang, H. W. Bird, R. H. Kotewall, C.M.G., and D. G. M. Bernard.
+Clerk of Councils (vacant).
+
+Civil Establishment.
+
+Governor, Sir C. Clementi, K.C.M.G., 6,000l., of which 1,200l. is an entertainment allowance.
+Private Secretary, B. R. Forster, 300l.
+Aide-de-Camp, Capt. C. H. Steele, M.C., Royal Irish Fusiliers, 300l.
+
+Colonial Secretary's Department and Legislature.
+
+Colonial Secretary, W. T. Southorn, 2,000l.
+Assistant Colonial Secretary, S. B. B. McElderry, 400l. to 1,200l., and 50l. allowance as Clerk of Councils.
+Second Assistant Colonial Secretary, H. W. Hamilton, 400l. to 1,200l.
+Attached to the Colonial Secretariat, H. R. Butters and A. G. Grantham.
+Chief Clerk, J. A. E. Bullock, I.S.O., M.B.E., D.C.M., 600l. to 800l.
+First Clerk, W. G. Fitz-Gibbon, 400l. to 600l.
+Unpassed Cadets, B. C. K. Hawkins, R. R. Todd, R. S. Jenyns, J. Barrow, 350l. to 400l., free quarters.
+
+Secretariat for Chinese Affairs.
+
+Secretary for Chinese Affairs, E. R. Hallifax, C.M.G., C.B.E., 1,500l.
+Chief Assistant to the Secretary for Chinese Affairs, R. A. C. North, 400l. to 1,200l.
+Second Assistant to Secretary for Chinese Affairs, T. Megarry, 400l. to 1,200l.
+Third Assistant to Secretary for Chinese Affairs, E. H. Williams, 400l. to 1,200l.
+
+Audit Department (under the Director of Colonial Audit, London).
+
+Auditor, H. R. Phelps, 900l. to 1,000l., and 75l. from Wei-hai-wei Government.
+Assistant Auditor, T. Dallin, 650l. to 900l.
+Second Assistant Auditor, C. H. G. Bradley, 400l. to 600l.
+Senior Clerk, B. E. Maugham, 450l.
+
+Treasury.
+
+Treasurer's Office.
+
+Treasurer, Assessor, and Estate Duty Commissioner, C. Mol. Messer, O.B.E., 1,250l. to 1,500l.
+Assistant Treasurer and Estate Duty Commissioner, G. R. Sayer, 400l. to 1,200l.
+Accountant, T. Black, 600l. to 700l.
+Cashier, L. A. Barton, 500l. to 600l.
+
+Stamp Office.
+
+Superintendent, J. Pestonjee, $6,000 to $7,200.
+
+Post Office.
+
+Hong Kong Post Office.
+
+Postmaster-General, M. J. Breen, 400l. to 1,200l.
+Accountant, A. J. Reed, $7,200.
+Superintendent, M. O. Office, H. Dixon, $7,200.
+Deputy Superintendent, M. O. Office, J. J. Osborne, 220l. to 300l.
+Superintendent of Mails, T. Hynes, 400l. to 550l., free quarters.
+Assistant Superintendent of Mails (Registration Branch), P. Boza, $3,600 to $4,200.
+Assistant Superintendent of Mails (Parcels Branch), F. H. Holdman, 300l. to 400l.
+Assistant Superintendent of Mails, T. M. Perpetuo, $3,000 to $3,800.
+Assistant Superintendent of Mails, T. Lay, 220l. to 300l.
+
+Harbour Master's Department.
+Harbour Office.
+Harbour Master, &c., Lieut.-Commander G. F. Hole, R.N., 1,150l. to 1,350l.
+Deputy Harbour Master, Lieut.-Commander J. B. Newill, D.S.O., R.N., 850l. by 40l. to 1,050l.
+Assistant Harbour Master, T. W. H. Hosegood, 550l. by 30l. to 820l.
+Office Assistant and Accountant, C. J. Roe, 400l. to 550l.
+Chief Boarding Officer, C. J. Thomson, 400l. to 540l.
+2nd ditto, S. P. Leigh, 350l. to 450l.
+3rd ditto, J. R. G. Wyatt, 350l. to 450l.
+4th ditto (vacant), 350l. to 450l.
+Chief Inspector of Junks and Cargo Boats, W. McKay, 400l. to 640l.
+Inspector of Junks, W. R. Hillyer, 320l. to 360l.
+
+Mercantile Marine Office.
+Deputy Shipping Master, G. W. Coysh, 400l. to 540l.
+
+Marine Surveyor's Office.
+Government Surveyor, W. Russell, 725l. to 950l.
+Assistant Surveyors, W. O. Lambert, Robert Hall, P. J. Taylor, T. E. Jackson and G. Swan, 460l. to 700l.
+
+Gunpowder Depot.
+Officer in Charge, A. Julian, $2,400 to $3,000.
+
+Lighthouses.
+Lighthouse Keepers, G. F. H. Taylor, 400l. to 480l.; W. H. Hast, A. E. Harvey, R. Roakrude, 390l. to 400l.; R. P. Brown, H. C. Brown, S. Bamsey, $1,800 to $2,400.
+
+Imports and Exports Office.
+Superintendent, J. D. Lloyd, 400l. to 1,200l.
+Assistant Superintendent, W. J. Carrie.
+Monopoly Analyst, H. A. Taylor, 600l. to 750l.
+
+Royal Observatory.
+Director of the Observatory, T. F. Claxton, F.R.A.S., 750l. to 900l.
+Chief Assistant, C. W. Jeffries, F.R.A.S., 400l. to 700l.
+First Assistant, B. D. Evans, F.R.A.S., 400l. to 700l.
+
+Judicial and Legal Departments.
+Supreme Court.
+Chief Justice, Sir Henry Cowper Gollan, Kt., C.B.E., K.C., 2,400l.
+Puisne Judge, J. R. Wood, 1,600l.
+
+Registrar of Supreme Court and Registrar of Trade Marks and of Companies, Official Assignee, Official Administrator, H. A. Nisbet, 900l. to 1,100l.
+Deputy Registrar and Appraiser, C. A. D. Melbourne, 600l. to 800l.
+
+Magistracy, Hong Kong.
+Police Magistrate and Coroner, R. E. Lindsell, 1,250l. to 1,500l.
+Magistrate and First Clerk, Major C. Willson, O.B.E., 500l. to 600l.
+
+Magistracy, Kowloon.
+Magistrate, J. H. B. Nihill, 400l. to 1,200l.
+Magistrate and First Clerk, W. J. Lockhart-Smith, 400l. to 500l.
+
+District Offices.
+District Officer, North, J. A. Fraser, 400l. to 1,200l.
+District Officer, South, W. Schofield, 400l. to 1,200l.
+
+Law Officers.
+Attorney-General, Sir J. H. Kemp, Kt., C.B.E., K.C., 1,800l.
+Assistant Attorney-General (vacant), 400l. to 1,200l.
+
+Office of Crown Solicitor and Land Registry.
+Crown Solicitor, H. K. Holmes, 1,000l. to 1,200l.
+Assistant Crown Solicitor, T. M. Hazlerigg, 600l. to 800l.
+Land Officer, P. Jacks, 900l. to 1,100l.
+Assistant Land Officer, F. Eaves, D.S.O., 600l. by 20l. to 800l.
+
+Police and Prison Departments.
+Police.
+Captain Superintendent, E. D. C. Wolfe, 1,250l. to 1,500l.
+Deputy Superintendents, P. P. J. Wodehouse, C.I.E., T. H. King, 950l. to 1,100l.
+Assistant Superintendents, D. Burlingham, 700l. to 900l.; C. G. Perdue, 500l. to 800l.; L. H. V. Booth, 325l. to 1,100l.
+
+Fire Brigade.
+Chief Officer, E. D. C. Wolfe.
+Superintendent, H. T. Brooks, 500l. to 700l.
+Consulting Engineer, R. Hall, $1,200.
+Station Officer, G. C. Moss, 350l. to 450l.
+
+Prison.
+Superintendent, J. W. Franks, 600l. to 900l.
+Assistant Superintendent, H. F. Bloxham, 500l. to 700l.
+
+Medical Departments.
+Staff.
+Principal Civil Medical Officer, Dr. J. B. Addison, M.B.E., 1,000l. to 1,200l.
+Health Officer of Port and Inspector of Emigrants, Dr. B. H. Mellon, 600l. to 1,000l.
+Second Health Officer of Port and Inspector of Emigrants, Dr. J. R. Craig, 600l. to 1,000l.
+Medical Officer in Charge, Civil Hospital and Lunatic Asylums, Dr. C. W. McKenny.
+Medical Officers, Dr. W. A. B. Moore, Dr. C. W. McKenny, Dr. J. T. Smalley, Dr. D. J. Valentine, Dr. W. L. Paterson, Dr. J. P. Feihly, Dr. I. Newton, 600l. to 1,000l.
+Hospitals and Asylums.
+
+Analyst, E. R. Dovey, 600l. to 750l.
+Assistant Analysts, O. F. Lubatti and V. C. Branson, 400l. to 600l.
+
+Institutes.
+
+Bacteriologist, Dr. E. P. Minett, 700l. to 1,000l.
+
+Sanitary Department.
+
+Head of Sanitary Department, N. L. Smith, 400l. to 1,200l.
+Assistant Head of Sanitary Department and Secretary, Sanitary Board, R. A. D. Forrest, 400l. to 1,200l.
+
+Sanitary Staff.
+
+Assistant Secretary and 1st Clerk, D. Davies, 350l. to 450l.
+Superintendent of Staff and Works, P. T. Lamble, 500l. to 600l.
+Medical Officer of Health, Dr. G. W. Pope, 600l. to 1,000l.
+Assistant Medical Officers of Health (two vacancies), 600l. to 1,000l.
+
+Veterinary Staff.
+
+Veterinary Surgeon, W. J. E. Mackenzie, 600l. to 1,000l. plus $1,000 personal allowance.
+Assistant Veterinary Surgeon, M. J. Reidy, 600l. to 600l.
+
+Botanical and Forestry Department.
+
+Superintendent, H. Green, 600l. to 800l.
+
+Education.
+
+Department of Director of Education.
+
+Director of Education, A. E. Wood, 1,250l. to 1,500l.
+Inspectors of English Schools, E. Ralphs, 750l. to 900l.; G. P. de Martin, 625l. to 850l.
+Inspectors of Vernacular Schools, Y. P. Law, W. Yu, Li King Hong, 400l. to 600l.
+Technical Institute Director, E. Ralphs, 120l.
+Head Master, Queen's College, A. H. Crook, 750l. to 900l.
+Head Master, Central British School, G. F. Nightingale, 400l. to 600l.
+Head Mistress, Victoria British School, E. M. Clark, 300l. to 400l.
+Head Mistress, Kowloon British Junior School, M. Cooper, 300l. to 400l.
+Head Mistress, Peak School, P. Y. Stark, 400l. to 500l.
+Head Mistress, Quarry Bay School, G. M. Cotton, 300l. to 400l.
+Head Master, Ellis Kadoorie School, F. J. de Rome, 600l. to 750l.
+Head Master, Saiyingpun School, A. Morris, 650l. to 750l.
+Head Master, Yaumati School, A. O. Brawn, 650l. to 750l.
+Head Master, Wanchai School, R. J. Birbeck, 750l. to 850l.
+Head Mistress, Belilos Public School, H. F. Skinner, 500l. to 600l.
+Head Master, English School for Indians, A. R. Sutherland, 600l. to 750l.
+
+Volunteers.
+
+Administrative Commandant, Major L. G. Bird, D.S.O., $300 command allowance.
+
+Public Works Department.
+
+Director of Public Works, Harold T. Creasy, 1,250l. to 1,500l.
+Assistant Directors of Public Works, H. T. Jackman, E. W. Carpenter, H. E. Goldsmith, 1,050l. to 1,200l.
+
+Accounts and Stores.
+
+Superintendent of Accounts and Stores, G. H. Hackett, 600l. to 700l.
+Deputy Storekeeper, W. J. Anderson, 400l. to 600l.
+
+Architectural.
+
+Engineers-in-Charge, A. G. W. Tickle, H. C. Lowick, 725l. to 1,000l.
+Engineers, R. P. Shaw, S. C. Feltham, R. J. B. Clark, A. W. Hodges, W. H. Owen, R. J. Vernall, 460l. to 600l.
+
+Correspondence.
+
+Secretary to Director of Public Works, E. L. Agassiz, 700l. to 900l.
+
+Crown Lands.
+
+Superintendent of Crown Lands, L. C. P. Rees, 900l. to 1,000l.
+First Assistant Superintendent of Crown Lands, H. West, 700l. to 875l.
+Second Assistant Superintendent of Crown Lands, E. Larmour, 650l. to 750l.
+
+Drainage.
+
+Engineer-in-Charge, E. Newhouse, 725l. to 1,000l.
+Engineers, G. S. Graver, D. S. Edward, C. J. Waddell, 460l. to 600l.
+
+Electrical.
+
+Engineer-in-Charge, L. H. King, 725l. to 1,000l.
+Engineer, R. Cryan, 460l. to 600l.
+
+General Works.
+
+Engineer-in-Charge, H. S. Rouse, 725l. to 1,000l.
+Engineers, R. S. Moore, S. O. Hill, A. H. McBride, 460l. to 600l.
+
+Port Development.
+
+Deputy Port Engineer, Adam Anderson, 725l. to 1,000l.
+Engineers, A. Nicoll, W. J. S. Key, G. S. Brown, N. K. Littlejohn, 460l. to 600l.
+
+Public Health and Buildings Ordinance.
+
+Engineer-in-Charge, A. E. Wright, 1,050l. to 1,200l.
+Engineers, H. J. Pearce, 725l. to 1,000l.; C. B. Robertson, R. S. W. Paterson, J. Bottomley, K. S. Robertson, 460l. to 600l.
+Office Assistant, J. Wattie, 400l. to 600l.
+
+Resumptions.
+
+Engineer-in-Charge (vacant), 725l. to 1,000l.
+Engineers, A. Kirk, J. Ring, 460l. to 600l.
+
+Roads, Piers, Bridges, &c. (Maintenance).
+
+Engineer-in-Charge, P. D. Wilson, 725l. to 1,000l.
+Engineers, H. H. Pegg, 725l. to 1,000l.; A. E. Lissaman, 460l. to 600l.
+**JAMAICA**
+
+Situation and Area.
+
+Jamaica is an island in the Caribbean Sea, to the southward of the eastern extremity of the Island of Cuba, within N. lat. 17° 42' 20" and 18° 32' 30", and W. long. 76° 11' 55" and 78° 23' 36". It is the largest of the British West Indies, being 144 miles in length, and 50 in extreme breadth, and containing about 4,460 square miles, about half the size of Wales. The island is very mountainous, the main ridge running east and west, with numerous subsidiary ridges, some parallel to the main ridge, others spreading out in a N.W. and S.E. direction from it, terminating in the famous Blue Mountains in the east, the highest peak being 7,388 ft. high. There are numerous rivers and streams, with a rapid fall for the most part, and not navigable. The largest are the Black River in the south-west, and the Rio Grande in the north-east. Kingston, the capital, with a population of 62,707 in 1921, is situated on the south coast of the Island, and has a fine harbour. In St. Ann's Parish, in the middle part of the island, on the north of the main ridge, is the Roaring River, so called on account of its many picturesque waterfalls.
+
+The Cayman Islands, lying between 19° 16' and 19° 46' N. lat., and 75° 83' and 81° 30' W. long, and the Turks and Caicos Islands, are dependencies of Jamaica,† as are also Pedro and Morant Cays (two guano islands in 17° N. lat.).
+
+It is estimated that Jamaica contains 2,843,160 acres, from which may be deducted 80,000 acres as useless for agriculture, consisting chiefly of swamps, rocks, and inaccessible lands, leaving 2,763,160 acres available for cultivation. Of this 1,108,244 acres are returned as under cultivation in 1925-26.
+
+| 1925-26. |
+| --- |
+| Acres. |
+| Tilled lands ... ... 274,418 |
+| Para and Guinea grass ... 99,733 |
+| Commons ... ... 734,093 |
+| 1,108,244 |
+
+The dependencies have an area of 89 sq. miles.
+
+History.
+
+The island was discovered by Columbus on the 3rd May, 1494. He called it St. Jago, after the patron saint of Spain, but the new name was soon dropped in favour of the native one of Jamaica (Xaymaca—well watered). The first settlement
+
+---
+
+* For general map of the West Indies, see under Windward Islands.
+† See account below.
+dropped in favour of the native one of Jamaica (Xaymaca—well watered). The first settlement
+
+* For general map of the West Indies, see under Windward Islands.
+
+† See account below.
+on it was effected on the shores of St. Ann's Bay, by Equivel in 1509, under the direction of Diego, the son of Columbus, the Governor of Hispaniola. It was raided by Sir Anthony Shirley in 1596-7, and by Colonel Jackson in 1643, but it remained in the possession of the Spaniards for 161 years, when it was attacked by a force, sent by Cromwell, under Admiral Penn and General Venables against Hispaniola, and capitulated, after a trifling resistance, on the 11th May, 1655. Until the Restoration, Jamaica remained under military jurisdiction, but in 1660 a regular civil government was established by Charles II., who appointed General Edward Doyley Governor-in-Chief, with an Elective Council. In 1670 peace was made with Spain, and the title of England to Jamaica was recognised by the Treaty of Madrid. The colony grew fast, stimulated by the wealth brought into it by the buccaneers, who made Port Royal their headquarters and storehouse. Part of this town was engulfed in the great earthquake of 1692. Kingston which then consisted of a few sheds, soon rose into a place of importance. During the 18th century the island suffered from hurricanes, earthquakes, numerous slave insurrections, as well as wars with the maroons, or mountaineers, the descendants of African slaves. These consisted primarily of the slaves the Spaniards left, who inhabited mainly the east of the island, among the Blue Mountains, but before long runaway slaves from English masters took refuge in the mountains of the centre of the island and were only subjugated in 1738, when both classes of maroons were settled in five reserves under their own leaders, and henceforth gave little trouble except for a partial rising in 1796, which was soon suppressed, the prisoners taken being sent to Sierra Leone. When the Slave Trade was abolished, in 1807, there were 323,827 slaves in Jamaica. During the last eight years of the trade, 86,821 slaves were imported. On the abolition of slavery in 1833, Jamaica received £6,161,927t. of the 20,000,000l. granted by the Imperial Government as compensation to the slave-owners. A rebellion among the coloured population in 1865 was suppressed by Governor Eyre with unnecessary violence, and he was recalled. In January, 1907, Kingston was devastated by a terrible earthquake, which caused great loss of life and immense destruction of property. A Mansion House Fund was opened, and contributions poured in from all parts of the Empire for the relief of distress. A free grant of 150,000l. was voted by Parliament, and a loan of 800,000l., chiefly in aid of re-building, was authorised from the Home Exchequer.
+
+Climate and Inhabitants.
+
+There is great variety of climate; the mean temperature of Kingston is 78°7', rising to 87°6' in the day time, and falling to 71°0' in the early morning. As the temperature falls about 1° for every 300 feet of ascent, it is possible, in a few hours, to reach, in the central range of mountains, a cool and delightful climate. From Kingston, the capital, a change of 10° or 15° lower in temperature can be attained by a ride of one hour by motor car.
+
+The rainy seasons occur generally over the whole island in May and June and again in September, October and November; but besides these heavy and periodical rainfall, the ground is refreshed by occasional showers; and in the N.E. portion of the island there is usually a rainy season at the end of the year, and light rains generally during the month of August. The mean annual rainfall varies throughout the island from about 34 inches to as much as 187 inches at Fellowship and 222 inches at Moore Town, both on the northern slope of the Blue Mountain Range. And the 50-year average is 76 inches.
+
+Under two percent, of the inhabitants are white; the remainder are chiefly of African descent, somewhat over three-fourths being pure negroes. There are about 18,000 East Indians and about 3,700 Chinese (in 1921). English is universally spoken.
+
+Constitution.
+
+The original Constitution, granted by Charles II. in 1662, which, after existing for nearly 200 years, was surrendered in 1866, was a representative one, consisting of a Governor, a nominated Council, and an elected Assembly which on its first meeting in 1684, consisted of 30 members but which fluctuated in numbers from time to time. The depression caused by the abolition of slavery led to a grave constitutional crisis, the Assembly refusing to vote supplies, and endeavouring to enforce sweeping reductions in establishments, without compensation to the displaced officers. Lord Melbourne's Government, in 1839, actually introduced a Bill into Parliament for the suspension of the constitution, but was defeated, and it was not till 1864 that, by a change in the constitution of the Council, harmony was temporarily restored. A separate Privy Council was set up and an Executive Committee was established. The latter was to act as a sort of Cabinet, especially as regards financial matters.
+
+After the suppression of the rebellion in 1865, Governor Eyre, at the meeting of the Legislature, urged the unsuitability of the then existing form of Government to meet the circumstances of the community, and the necessity of making some sweeping change, by which a strong Government might be created. The Legislature responded by abrogating all the existing machinery of legislation, and left it to Her Majesty's Government to substitute any other form of Government which might be better suited to the altered circumstances of the Colony.
+
+Accordingly a Legislative Council was, by Orders in Council of the 11th June, 1866, and 11th November, 1869, established, consisting of such numbers of official and unofficial members as Her Majesty might think fit. The numbers of each were six until 1878, when they were enlarged to eight, and a ninth was added in 1881.
+
+By Order in Council dated 19th May, 1884, and Amending Order of 3rd October, 1895, the constitution was fixed in the following manner:
+
+The Council to consist of the Governor (with only a casting vote) and five ex-officio members, viz.: the Senior Military Officer, the Colonial Secretary, Attorney-General, Director of Public Works and Collector-General, and such other persons, not exceeding ten in number, as Her Majesty may from time to time appoint, or as the Governor may from time to time provisionally appoint, and fourteen persons to be elected as therein provided. The Council shall be dissolved at the end of five years from the last preceding general election, if it shall not have been previously dissolved.
+
+There is also a Privy Council, with the usual powers and functions of an executive council. It consists of the Lieutenant-Governor, if any, the Senior Military Officer in command, the Colonial Secretary, and Attorney-General and such other
+persons as may be named by the King, or provisionally appointed by the Governor subject to the approval of His Majesty, but the number of members is not to exceed eight. The Governor is to preside at each meeting, and the Governor and two members form a quorum.
+
+A special feature of this constitution is that nine elected members can carry any financial measure, while the unanimous vote of the whole fourteen elected members on other matters cannot be overridden by the other votes unless the governor declares that such a decision is of paramount importance in the public interest.
+
+Administration.
+
+The Colonial revenue is derived mainly from import duties on food stuffs, alcohol, and an ad valorem duty, the excise on rum and stamps and licences. A tax of 1s. (in Kingston 8d.) on every £10 of the gross value of property is levied.
+
+There is a Supreme Court of Judicature together with Resident Magistrate Courts and Petty Sessions of Justices of the Peace throughout the island. The Resident Magistrates, besides holding courts of their own, preside in the courts of Petty Sessions.
+
+An "Island medical service," under the control of a superintending medical officer, was established in 1870. The several medical practitioners, who receive a retaining fee or salary from the Government, are designated "district medical officers." They are located throughout the island, and for the fixed salary paid by Government they have to attend sick paupers, parochial hospitals and alms-houses, the constabulary officers and men, and prisons.
+
+The parish is the unit of local government, and each parish has its own parochial institutions, viz., poorhouses, &c., &c., managed by the Parochial Board of the parish, the members of which are elected by the persons entitled to vote for the election of members of the Legislative Council. The administration of poor relief by the Parochial Boards is controlled by a Board of Supervision.
+
+There is a Corporation of the amalgamated parishes of Kingston and St. Andrew with a Mayor, Council and Corporate officers.
+
+In the 13 other parishes there are elective Parochial Boards under Laws 13 of 1900 and 17 of 1901, with jurisdiction over roads, markets, sanitation, poor relief, water-works, and pounds. The chief towns are Kingston (population, in 1921, 62,707), Port Royal (population 1,004), Spanish Town (population 8,694), Port Antonio (population 6,272), Montego Bay (population 6,580), Falmouth (population 2,136), Port Maria (population 2,481), and Savanna la Mar (population 3,442).
+
+The total revenue of all the local bodies in 1925–26 was 356,453L; their expenditure 346,330L. Their debt at the end of the year was 500,686L.
+
+Currency and Banking.
+
+British currency and United States gold are legal tender. Accounts are kept in sterling, and the coin in circulation is almost exclusively British silver and Jamaican nickel pence. Total estimated coin 300,000L. The Colonial Bank (now Barclays Bank (Dominion, Colonial and Overseas) Ltd.), the Bank of Nova Scotia, the Royal Bank of Canada and the Canadian Bank of Commerce are the only private banking establishments in the Colony. The Colonial Bank has one branch and 10 sub-branches; it had an average weekly note circulation in 1925 of 94,109L. The Bank of Nova Scotia has 10 branches and 1 sub-branch, and had an average note circulation in 1925 of 28,785L. The Royal Bank of Canada has one branch and 2 sub-branches and had an average note circulation in 1925 of 26,759L. The Canadian Bank of Commerce has a branch in Kingston, and had an average note circulation in 1925 of 4,899L. There are also 100,000L of British currency notes in circulation. British silver coins of and above the denomination of 6d. are legal tender to any extent; coins below the denomination of 6d. are legal tender to the extent of 40s. in any one payment.
+
+Under Law 27 of 1904, local Currency Notes, which are made legal tender under section 5, have been issued to the extent of 212,500L, in denominations of 2s., 6d., 5s., and 10s.; 2s. 6d. notes, 31,250L; 5s. notes, 106,250L; 10s. notes, 75,000L. Estimated amount of local currency notes in circulation on 31st March, 1926, was 76,367L.
+
+Government savings banks were instituted in all the principal towns in 1871, the rate of interest allowed being at first 4 per cent., but this was reduced in 1881 to 3 per cent., and in 1897 to 2½ per cent. In 1917 the rate of interest was again increased to 3 per cent. There are 75 branches now operating. Savings Certificates: The balance at credit under this head to 31st December, 1925, is 996L. The total deposits on 31st December, 1925, was 543,744L.
+
+Co-Operative Loan Banks.
+
+There are now 52 Loan Banks on the Register of Industrial and Provident Societies. Of these, 36 have obtained loans from the Agricultural Loan Societies Board appointed under Law 6 of 1912, "A Law for the encouragement of Agricultural Loan Societies."
+
+The following is a summary of these transactions to 31st August, 1926:
+
+| Loans made under Law 6 of 1912 | 42,606L |
+|-------------------------------|---------|
+| Hurricane or Special Loan Laws | 80,489L |
+
+Total: 123,096L
+
+Of this amount, 106,981L, 8s. 8d., has been repaid, leaving 17,114L, 12s. 8d., outstanding.
+
+The 39 Banks from which returns were obtained also collected to 31st December, 1924, the sum of over 37,440L share capital, and have accumulated Reserves amounting to 17,545L. These figures may be taken as an indication that the work of the Loan Banks has been successfully carried on and that they are likely to prove a permanent benefit to Small Holders and Peasant Proprietors. Some of these Banks have extended their sphere of usefulness by taking advantage of the Land Settlement Scheme, whereby Government moneys are lent for the purchase of properties for the purpose of re-sale in lots to small settlers. 55,961L, 6s. 1d. has been loaned to nine Banks, under this head, and 27,141L, 1s. 8d. repaid. The scheme has been well received, and its extension in the future seems certain.
+
+Education.
+
+Elementary education is provided for from public funds and, during recent years, 122 Government (undenominational) elementary schools have been established. The number of schools is 673,

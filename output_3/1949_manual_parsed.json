@@ -1,0 +1,312 @@
+{
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1949/olmocr_results.md",
+  "year": 1949,
+  "extraction_date": "2025-11-19",
+  "total_colonies": 38,
+  "colonies": [
+    {
+      "name": "Aden",
+      "filename": "Aden.txt",
+      "start_line": 3793,
+      "end_line": 4493,
+      "num_lines": 701,
+      "file_size": 50487
+    },
+    {
+      "name": "Bahamas",
+      "filename": "Bahamas.txt",
+      "start_line": 4494,
+      "end_line": 4942,
+      "num_lines": 449,
+      "file_size": 27878
+    },
+    {
+      "name": "Barbados",
+      "filename": "Barbados.txt",
+      "start_line": 4943,
+      "end_line": 5463,
+      "num_lines": 521,
+      "file_size": 37698
+    },
+    {
+      "name": "Bermuda",
+      "filename": "Bermuda.txt",
+      "start_line": 5464,
+      "end_line": 5971,
+      "num_lines": 508,
+      "file_size": 30571
+    },
+    {
+      "name": "British Guiana",
+      "filename": "British_Guiana.txt",
+      "start_line": 5972,
+      "end_line": 6793,
+      "num_lines": 822,
+      "file_size": 70388
+    },
+    {
+      "name": "British Honduras",
+      "filename": "British_Honduras.txt",
+      "start_line": 6794,
+      "end_line": 7183,
+      "num_lines": 390,
+      "file_size": 25277
+    },
+    {
+      "name": "British Somaliland Protectorate",
+      "filename": "British_Somaliland_Protectorate.txt",
+      "start_line": 7184,
+      "end_line": 7451,
+      "num_lines": 268,
+      "file_size": 18276
+    },
+    {
+      "name": "Brunei",
+      "filename": "Brunei.txt",
+      "start_line": 7452,
+      "end_line": 7703,
+      "num_lines": 252,
+      "file_size": 16390
+    },
+    {
+      "name": "Cyprus",
+      "filename": "Cyprus.txt",
+      "start_line": 7704,
+      "end_line": 8406,
+      "num_lines": 703,
+      "file_size": 61704
+    },
+    {
+      "name": "East Africa High Commission",
+      "filename": "East_Africa_High_Commission.txt",
+      "start_line": 8407,
+      "end_line": 8890,
+      "num_lines": 484,
+      "file_size": 28191
+    },
+    {
+      "name": "Falkland Islands",
+      "filename": "Falkland_Islands.txt",
+      "start_line": 8891,
+      "end_line": 9279,
+      "num_lines": 389,
+      "file_size": 24186
+    },
+    {
+      "name": "Fiji",
+      "filename": "Fiji.txt",
+      "start_line": 9280,
+      "end_line": 10017,
+      "num_lines": 738,
+      "file_size": 52615
+    },
+    {
+      "name": "Gambia",
+      "filename": "Gambia.txt",
+      "start_line": 10018,
+      "end_line": 10473,
+      "num_lines": 456,
+      "file_size": 36368
+    },
+    {
+      "name": "Gibraltar",
+      "filename": "Gibraltar.txt",
+      "start_line": 10474,
+      "end_line": 10913,
+      "num_lines": 440,
+      "file_size": 21419
+    },
+    {
+      "name": "Gold Coast",
+      "filename": "Gold_Coast.txt",
+      "start_line": 10914,
+      "end_line": 12068,
+      "num_lines": 1155,
+      "file_size": 99200
+    },
+    {
+      "name": "Hong Kong",
+      "filename": "Hong_Kong.txt",
+      "start_line": 12069,
+      "end_line": 12802,
+      "num_lines": 734,
+      "file_size": 56303
+    },
+    {
+      "name": "Jamaica",
+      "filename": "Jamaica.txt",
+      "start_line": 12803,
+      "end_line": 13943,
+      "num_lines": 1141,
+      "file_size": 80206
+    },
+    {
+      "name": "Kenya",
+      "filename": "Kenya.txt",
+      "start_line": 13944,
+      "end_line": 15110,
+      "num_lines": 1167,
+      "file_size": 77918
+    },
+    {
+      "name": "Leeward Islands",
+      "filename": "Leeward_Islands.txt",
+      "start_line": 15111,
+      "end_line": 16254,
+      "num_lines": 1144,
+      "file_size": 59905
+    },
+    {
+      "name": "Federation of Malaya",
+      "filename": "Federation_of_Malaya.txt",
+      "start_line": 16255,
+      "end_line": 17145,
+      "num_lines": 891,
+      "file_size": 69441
+    },
+    {
+      "name": "Malta",
+      "filename": "Malta.txt",
+      "start_line": 17146,
+      "end_line": 17678,
+      "num_lines": 533,
+      "file_size": 32217
+    },
+    {
+      "name": "Mauritius",
+      "filename": "Mauritius.txt",
+      "start_line": 17679,
+      "end_line": 18698,
+      "num_lines": 1020,
+      "file_size": 66823
+    },
+    {
+      "name": "Nigeria",
+      "filename": "Nigeria.txt",
+      "start_line": 18699,
+      "end_line": 20426,
+      "num_lines": 1728,
+      "file_size": 151842
+    },
+    {
+      "name": "North Borneo",
+      "filename": "North_Borneo.txt",
+      "start_line": 20427,
+      "end_line": 20778,
+      "num_lines": 352,
+      "file_size": 20797
+    },
+    {
+      "name": "Northern Rhodesia",
+      "filename": "Northern_Rhodesia.txt",
+      "start_line": 20779,
+      "end_line": 21767,
+      "num_lines": 989,
+      "file_size": 73312
+    },
+    {
+      "name": "Nyasaland Protectorate",
+      "filename": "Nyasaland_Protectorate.txt",
+      "start_line": 21768,
+      "end_line": 22297,
+      "num_lines": 530,
+      "file_size": 40625
+    },
+    {
+      "name": "St. Helena",
+      "filename": "St_Helena.txt",
+      "start_line": 22298,
+      "end_line": 22640,
+      "num_lines": 343,
+      "file_size": 20028
+    },
+    {
+      "name": "Sarawak",
+      "filename": "Sarawak.txt",
+      "start_line": 22641,
+      "end_line": 23126,
+      "num_lines": 486,
+      "file_size": 38337
+    },
+    {
+      "name": "Seychelles",
+      "filename": "Seychelles.txt",
+      "start_line": 23127,
+      "end_line": 23491,
+      "num_lines": 365,
+      "file_size": 21109
+    },
+    {
+      "name": "Sierra Leone",
+      "filename": "Sierra_Leone.txt",
+      "start_line": 23492,
+      "end_line": 24166,
+      "num_lines": 675,
+      "file_size": 45094
+    },
+    {
+      "name": "Singapore",
+      "filename": "Singapore.txt",
+      "start_line": 24167,
+      "end_line": 25003,
+      "num_lines": 837,
+      "file_size": 62143
+    },
+    {
+      "name": "Tanganyika",
+      "filename": "Tanganyika.txt",
+      "start_line": 25004,
+      "end_line": 25723,
+      "num_lines": 720,
+      "file_size": 57390
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "filename": "Trinidad_and_Tobago.txt",
+      "start_line": 25724,
+      "end_line": 26570,
+      "num_lines": 847,
+      "file_size": 55006
+    },
+    {
+      "name": "Uganda",
+      "filename": "Uganda.txt",
+      "start_line": 26571,
+      "end_line": 27231,
+      "num_lines": 661,
+      "file_size": 50429
+    },
+    {
+      "name": "Western Pacific",
+      "filename": "Western_Pacific.txt",
+      "start_line": 27232,
+      "end_line": 28075,
+      "num_lines": 844,
+      "file_size": 68439
+    },
+    {
+      "name": "Windward Islands",
+      "filename": "Windward_Islands.txt",
+      "start_line": 28076,
+      "end_line": 29250,
+      "num_lines": 1175,
+      "file_size": 75967
+    },
+    {
+      "name": "Zanzibar",
+      "filename": "Zanzibar.txt",
+      "start_line": 29251,
+      "end_line": 29696,
+      "num_lines": 446,
+      "file_size": 34638
+    },
+    {
+      "name": "Miscellaneous Islands",
+      "filename": "Miscellaneous_Islands.txt",
+      "start_line": 29697,
+      "end_line": 29867,
+      "num_lines": 171,
+      "file_size": 16144
+    }
+  ]
+}

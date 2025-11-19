@@ -2,7 +2,7 @@
   "extraction_date": "2025-11-18T21:55:56.449136",
   "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1883/olmocr_results.md",
   "total_source_lines": 32915,
-  "colonies_extracted": 38,
+  "colonies_extracted": 39,
   "colonies": [
     {
       "name": "ANTIGUA",
@@ -123,6 +123,16 @@
       "character_count": 23733,
       "word_count": 3909,
       "notes": "Full section"
+    },
+    {
+      "name": "FIJI",
+      "filename": "FIJI.txt",
+      "start_line": 8340,
+      "end_line": 8604,
+      "line_count": 265,
+      "character_count": 16122,
+      "word_count": 2577,
+      "notes": "Full section - Recovery extraction (was missed initially)"
     },
     {
       "name": "GIBRALTAR",

@@ -1,0 +1,490 @@
+**BRITISH GUIANA**
+
+**Area**
+
+British Guiana lies on the north-east coast of the South American Continent. Its area is 83,000 square miles, divided into three counties as follows:
+
+| County     | Square Miles |
+|------------|--------------|
+| Essequibo  | 61,660       |
+| Berbice    | 16,920       |
+| Demerara   | 4,420        |
+
+**Population**
+
+At 31st December 1962, the population was 605,212. Estimates of racial groups were:
+
+- East Indians: 297,159
+- African descent: 191,852
+- Mixed descent (coloured): 73,836
+- Portuguese: 7,263
+- Europeans other than Portuguese: 3,026
+- Chinese: 4,236
+- Amerindians: 27,840
+
+**Principal Towns**
+
+The City of Georgetown, Demerara, is the capital and with its environs has a population of approximately 162,000. Population in the city proper numbers about 78,000. New Amsterdam, Berbice, has a population of 14,300 approximately.
+
+**Geographical Features**
+
+The Colony may be divided into three zones, viz., the low-lying coastal land, the mountain region and the intermediate region. The coastal land comprises a low-lying, swampy strip of marine alluvium which varies in width from about ten miles in the west to about 40 miles in the east. Its flat, grassy savannahs would mostly be inundated during the rainy season but for artificial drainage and sea defences. Almost the whole of the population and agricultural activity of the Colony is concentrated between the Pomeroon River and Corentyne River along this strip. The mountain region, known as the Pakaraima Range, lies along the western boundary of the Colony. Mount Roraima, a plateau 22 square miles in extent and over 9,000 feet above sea level, is the highest elevation. The intermediate region, the
+
+**Land Policy**
+
+The policy is guided by the Antarctic Treaty.
+
+**Taxation**
+
+All British Scientific officers and their assistants are taxed under the Falkland Islands Income Tax Ordinance.
+
+**Public Finance**
+
+For the years 1960-61 (see under Falkland Islands), Until the year ended 30th June 1962 British Antarctic Territory finances were embodied in the Dependencies.
+
+| Year    | Revenue | Expenditure |
+|---------|---------|-------------|
+| 1960-61 | £811,500| £799,518    |
+| 1961-62 | £689,691| £700,023    |
+
+(a) Includes H.M.G. grants.
+
+In 1962-63, the revised estimate of revenue from the Dependencies totalled £109,864. In addition, the sum of £540,694 was expected to be received from Her Majesty's Government as a contribution towards the cost of running the British Antarctic Survey (ex Falkland Islands Dependencies Survey) Antarctic Bases and Ships.
+largest area of the Colony, lies mainly to the east and south. It is almost entirely forest clad. The total area under forest is approximately 70,000 square miles.
+
+There are many large rivers which with their numerous tributaries form a vast network of waterways. All the large rivers are impeded above the tideway by rapids, cataracts and falls. Kaieteur, one of the largest single-drop waterfalls in the world, is situated on the Potaro River. It is nearly five times the height of Niagara and has a vertical drop of 741 feet with a further 80 feet of rapids and falls. Its width varies from 350 to 400 feet.
+
+Climate
+
+The climate is pleasant for the greater part of the year; it is hot only in the summer months. The mean temperature is 80°F. with a daily range of about 18°F. on the coast and a slightly wider range inland. There are two wet and two dry seasons in the coastal regions—the long wet season usually from April to August and the long dry season from September to mid-November. This is followed by wet weather until the end of January, and the short dry season until April. The mean annual rainfall is 93 inches, but there are wide variations in the rainfall over the region, ranging from 80 to 100 inches along the coast and falling as low as 60 inches in the savannahs of the interior where the dry season is October to February and the wet season May to August. The nights are uniformly cool.
+
+Slight earth tremors are felt occasionally, but no damage is caused.
+
+History
+
+There have been some discrepancies in dates and other matters in the various historical accounts but the following brief statement is based upon what is taken to be the most authentic version.
+
+In history there are really five Guianas—Spanish Guiana (now Venezuela), Portuguese Guiana (now Brazil), Dutch Guiana (now Surinam), French Guiana and British Guiana. A navigable river was so important to the Europeans who first visited the coastline between the Amazon and the Orinoco that they gave the Amerindian name of the river to the surrounding countryside. Thus the three counties of British Guiana are Essequibo, Demerara and Berbice, and the areas known as Rupununi, Mazaruni, Potaro, Cuyuni, Pomeroon and Corentyne take their names from the rivers that flow through them. Guiana is an Amerindian word meaning "Land of Waters."
+
+The coastline of the country between the Amazon and Orinoco was first traced by Spanish sailors in 1499 and 1500 and the first European settlements were almost certainly Spanish or Portuguese. The Dutch established a settlement on the Pomeroon in 1581 but were evicted by Spanish and Indians (probably in 1596) and retired to Kyk-over-al-up the Essequibo. In 1627 Dutch merchants settled on the Berbice. The Dutch West Indian Company, formed in 1621, controlled these settlements.
+
+The first English attempt at settlement in the area lasted from 1604-06, on the Oyapock River (now French Guiana). Fresh ventures in 1609 and 1629 failed to establish a permanent settlement. Lord Willoughby, famous in the early history of Barbados, founded a settlement in Surinam in 1651 but this was captured by the Dutch in 1667. In October of the same year it was recaptured by a British expedition from Barbados, the leaders being unaware of the signing of the Treaty of Breda in the previous July. It was mid-1668 before the Dutch finally obtained possession of Surinam in accordance with the terms of that Treaty. In effect Surinam was exchanged for New York, though this was not explicit in the terms of the Treaty.
+
+The Dutch retained their hold on the territory with more or less firmness, now yielding to England and now to France or Portugal, until 1796 when during the war of the French Revolution it was captured by a British fleet from Barbados. The territory was restored to the Dutch in 1802, but in the following year retaken by Great Britain and finally ceded to her in 1814, exclusive of Surinam.
+
+Constitution
+
+A new and advanced form of Constitution with universal adult suffrage at the age of 21, a two Chamber Legislature and a ministerial system, based on the recommendations of the Constitutional Commission of 1950-51, was brought into effect in 1953 by an Order of the Queen in Council dated 1st April 1953 made under the British Guiana Act, 1928, and a General Election was held on the 27th April. Late in 1953 Her Majesty's Government concluded that it was necessary to suspend the advanced constitution introduced earlier in the same year; the circumstances in which the suspension occurred are dealt with in the Report of the British Guiana Constitutional Commission, 1954 (Cmnd. 9274).
+
+A Constitutional Commission was appointed by the Secretary of State for the Colonies under the Chairmanship of Sir James Robertson, G.C.V.O., G.C.M.G., K.B.E., with Sir Donald Jackson, then Chief Justice of the Windward and Leeward Islands, and Mr. George Woodcock, C.B.E., Assistant General Secretary of the Trades Union Congress, as members. Its terms of reference were: "In the light of the circumstances which made it necessary to suspend the Constitution of British Guiana to consider and to recommend what changes are required in it".
+
+The Commission's report was published on the 2nd November 1954 and Her Majesty's Government announced their acceptance of its recommendation for a period of "marking time" in the advance towards self-government. In the meantime the affairs of the Colony continued to be administered in accordance with the British Guiana. (Constitution) (Temporary Provisions) Order in Council dated 22nd December 1953. This provided for an Executive Council of three ex officio Members and not more than seven Nominated Members; and a Legislative Council of a Speaker, the same three ex officio Members and not more than 24 Nominated Members.
+
+Constitutional changes were introduced by the British Guiana (Constitution) (Temporary Provisions) (Amendment) Order in Council, 1956, dated 19th December 1956 providing for a Legislative Council of not more than 28 Members (excluding the Speaker) comprising three ex officio Members, not less than 14 Elected Members and not more than 11 Nominated Members. At the first elections held under the amended constitution in August 1957 the number of Elected Members was 14, and six other Members were nominated by the Governor. Five members of the majority party in the Legislative Council were nominated by the Governor to serve on the Executive Council with the three ex officio Members. The Governor
+charged all Members of the Executive Council with responsibility for departments and subjects, Members other than the *ex officio* Members being styled Ministers.
+
+As a result of a resolution passed by the Legislative Council in June 1958, a Constitutional Conference was convened in London in March 1960. Following the decisions of this Conference, the British Guiana (Constitution) Order in Council, 1961 was passed, providing for a new constitution giving full internal self-government to British Guiana.
+
+The new constitution, which came into effect on 18th July 1961, provided for a bi-cameral legislature—a Legislative Assembly of 35 members, elected by universal adult suffrage, and a nominated Senate of 13 members, eight appointed on the advice of the Premier, three after consultation with such persons as can speak for the differing political views of opposition groups in the Assembly, and two by the Governor in his discretion. The life of the Legislature will be four years unless dissolved before this time. The Legislative Assembly is presided over by a Speaker, who may or may not be a Member of the Assembly. The Senate is presided over by a President, chosen by Members from amongst their own number. The Senate has delaying powers only.
+
+The Executive body, called the Council of Ministers, is presided over by the Premier, and consists of not more than nine other Ministers. The Premier is the member of the Legislative Assembly who, in the judgment of the Governor, is best able to command the confidence of a majority of the members of that Chamber. At least one and not more than three members of the Council must be members of the Senate. The Council of Ministers is responsible to the Legislative Assembly.
+
+The Governor must exercise all his powers in accordance with the advice of the Council of Ministers except where otherwise expressly stated (the notable exceptions are in respect of defence and external affairs).
+
+A Bill of Rights incorporated in the Constitution enumerates in detail rights to equality, personal freedom and property and provides for their enforcement by the Supreme Court.
+
+The Constitution also provides for the establishment of Judicial, Public and Police Service Commissions, which will ultimately have executive responsibility for appointments, discipline and dismissals in the Services for which they are responsible. Judges of the Supreme Court may be removed only for inability or misconduct and then only by the Governor on the advice of the Judicial Committee of the Privy Council, which itself can be approached only on the recommendations of a locally appointed Judicial tribunal.
+
+The first elections under the new Constitution were held on 21st August 1961, following which the Governor appointed as Premier the leader of the People's Progressive Party (Dr. Cheddi Jagan) which obtained the majority of seats (twenty) in the Legislative Assembly. Nine other Ministers were appointed and their portfolios allocated on the advice of the Premier. Of these, six have now been drawn from the Legislative Assembly and three from the Senate. Three Members of the Assembly have also been appointed as Parliamentary Secretaries. In accordance with the Constitution, Ministers have been assigned responsibility for all internal matters except criminal proceedings, the audit of public accounts and the public service. External affairs (except external trade) and defence remain under the control of Her Majesty's Government.
+
+Arising out of a resolution passed by the British Guiana Legislature in October 1961, Her Majesty's Government announced in January 1962 its willingness to hold a Constitutional Conference in London in May 1962 to discuss the date and the arrangements to be made for the achievement of independence by British Guiana. The Conference was held in October, having been delayed to await the report of the Commission of Inquiry on the Disturbances which took place in Georgetown in February. Delegates from each of the three political parties represented in the Legislative Assembly attended the Conference. As no agreement could be reached on the terms of a Constitution for Independence, the Conference was adjourned to allow for further discussions between the parties in British Guiana. Since these discussions did not lead to agreement, the Secretary of State reconvened the Conference in October, 1963.
+
+At the resumed conference the leaders of the three political parties reported that they had failed to reach agreement between themselves on the terms of a constitution for independence, and asked the British Government to settle on its own authority all the outstanding political issues. The Secretary of State announced his decisions on 31st October at the closing session of the Conference. The main decisions were:
+
+(a) The Constitution must provide the strongest safeguards to protect minorities;
+(b) The electoral system would be changed to proportional representation on a party list system;
+(c) The voting age would remain at 21 years;
+(d) Elections on the new basis would be held as soon as possible under the supervision of a Special Commissioner from outside British Guiana appointed by the British Government;
+(e) After these elections a conference could be convened to settle any remaining constitutional issues and to fix a date for independence;
+(f) Documents to implement the decisions would be made available in draft to the leaders before receiving the Secretary of State's final approval;
+(g) Additional security forces would be raised locally before independence under the direction of the Governor, who would endeavour to ensure that recruits were not drawn predominantly from any one racial group.
+
+**Land Policy**
+
+Land in the Colony falls within three categories—
+
+(i) Freehold: (a) alienated by the Dutch prior to 1803; (b) alienated by the Crown;
+(ii) Crown land—about 90% of the area of the Colony;
+(iii) Colony land, acquired from private owners and the Crown for public purposes.
+
+Crown land may be alienated or leased to any individual with the consent of the Governor on the advice of the Minister of Agriculture, Forests and Lands; in the case of Colony land with the consent of the Council of Ministers. Absentee lessees must have a legal representative in the Colony. Alienation of Crown Land is restricted to leases for periods not exceeding 25 years.
+Taxation
+
+The main heads of taxation are Customs, excise and licences, income tax, stamp duties, estate duties, acreage tax, duty on transport and mortgages.
+
+Income tax rates range from 6 cents (for the first $1,200 (£250)) to 70 cents on each $ of chargeable income in the case of individuals. Companies, other than Mutual Life Insurance companies, pay 45%; Mutual Life Insurance companies 25%.
+
+Public Finance
+
+| Year | Revenue* | Expenditure* |
+|------|----------|--------------|
+| 1957 | £9,532,044 | £8,962,620 |
+| 1958 | £10,203,012 | £9,659,018 |
+| 1959 | £10,141,591 | £9,492,683 |
+| 1960 | £11,686,403 | £10,477,961 |
+| 1961 | £12,569,692 | £11,877,700 |
+
+* Total Colony revenue and expenditure.
+
+In 1961, £3,957,075 in revenue came from Income Tax while Customs and Excise produced £6,167,150. In the same year the main heads of expenditure were:
+
+- Social Services: £3,662,070
+- Administration including Law and Order: £2,817,516
+- Public Works: £1,223,729
+- Economic Development: £1,131,000
+
+The Public Debt at the end of 1962 was £24,375,000.
+
+Currency
+
+The currency in circulation is (1) the unified currency notes and coins issued by the Currency Board of the British Caribbean Territories (Eastern Group) brought into circulation on 1st August 1951 and 15th November 1955 respectively. Currency notes are of denominations $1, $2, $5, $10, $20 and $100; coin 50 cents, 25 cents, 10 cents, 5 cents, 2 cents and 1 cent.; (2) note circulation of the two Joint Stock Banks, Barclays Bank (D.C.O.) and Royal Bank of Canada, being gradually withdrawn; (3) United Kingdom silver and copper coins and local silver coins (4/d.) being gradually withdrawn. The currency is exchangeable with sterling at par. The West Indian $ has a fixed equivalent value of 4s. 2d., that is $4·80 to £.
+
+Development Plans
+
+A Two-Year Development Programme, 1954-55, was launched early in 1954. Expenditure fell short of the estimate of $44 million but public investment over the period stimulated economic activity throughout the colony. The unexpended balances from the Two-Year Programme were incorporated into a Five-Year Development Programme for the period 1955 to 1960.
+
+That Programme was designed mainly to improve and extend basic developmental facilities, e.g., drainage and irrigation, roads, internal transport services and telecommunications; to provide for the establishment of comprehensive schemes of rural electrification and land settlement and for an improvement and expansion of social services, in the fields of health, housing and education. It was financed partly from Colony funds, derived from loans and accumulated surplus revenue balances and partly from Colonial Development and Welfare grants. Expenditure on development projects was as follows:
+
+- 1962: £18,800,000
+- 1961: £21,659,752
+- 1960: £15,772,569
+- 1959: £18,757,678
+- 1958: £19,877,000
+
+Arising from recommendations made by the International Bank Mission after their visit to the Colony in 1953, for the planning and execution of the Development Programme, a Credit Corporation was established to administer credits for the encouragement and development of agriculture, industry, forestry, fisheries, rural and urban housing. The total amount loaned up to the end of December 1962 was £23,330,000; repayments totalled £18,132,000.
+
+Regional Development Committees and Area Sub-Committees have been established in each of the twelve administrative districts to assist in general development activities, especially to promote aided self-help schemes and to advise the Credit Corporation on applications for loans.
+
+An Industrial Development Committee was set up in 1957.
+
+A Five-Year Development Programme for the period 1960-64 is now in progress. Expenditure of £110·5 million is planned, of which £91·8 million is allocated for economic and £18·7 million for social development.
+
+Other Development
+
+Development is also being undertaken by the Commonwealth Development Corporation. The Corporation has concessions for the large-scale development of timber in the area known as the Bartica Triangle, and operates a mill at Houston valued at over £600,000. The Corporation has also furnished capital on medium and short-term loan for the Rice Development Company.
+
+Technical assistance in many fields of development work is being provided by the United States Agency for International Development (formerly the International Co-operation Administration) whose personnel stationed in the Colony include a Chief A.I.D. Representative and administrative staff, and who have from time to time provided Specialists in Housing, Community Development, Geology, Agriculture, Land Settlement, Drainage and Irrigation, Road Construction, Health and Industrial Development.
+
+Technical assistance for development in various fields has been received also from the United Kingdom, from the Governments of Israel, Puerto Rico and Canada and from the United Nations and its agencies. The scale of United Nations Technical Assistance in 1962 and 1963 has been substantial.
+
+Education
+
+There is no standard test for literacy, but using attendance at school for a period of eight years as a criterion for literacy, it is estimated that about 80-85% of the population of British Guiana is literate.
+
+There are 348 primary and all-age schools—Government owned and aided—with a population of 136,133 pupils.
+
+There are 14 Government-aided secondary schools with a total enrolment of 7,744, and 10 separate Government-owned secondary schools with an enrolment of 3,158; this represents an increase of seven new Government secondary schools opened from September, 1963.
+Teacher Training
+
+Government has launched an extended teacher training programme which aims at providing both in-service and pre-service training. In-service training will be provided after 4.00 p.m. and it is estimated that between 18 to 23 hours of lecture courses per week would be arranged for in-service trainees. The course will last for one year and there will be eight training centres catering for 1,800 students throughout the country.
+
+In addition, there will be a two year pre-service training course which will cater for general teaching of 220 students annually including 25 who will receive special training in Home Economics and 15 in Handicrafts.
+
+The Carnegie School of Home Economics will continue to provide training in domestic classes for students who have previously been enrolled in the College. In future, it is hoped to make the Carnegie School of Home Economics predominantly a teacher training institution and training in Domestic Science classes will be provided through Government short-time intensive courses—most likely during the vacation.
+
+The Technical Institute continues to train industrial apprentices though it is centring its efforts on higher level education rather than craft.
+
+Students Studying Overseas.
+
+The number of students from British Guiana studying overseas on the 1st January, 1962, was as follows:
+
+- United Kingdom — 948
+- Canada — 49
+- U.S.A. — 239
+- Jamaica, U.W.I. — 153
+
+The total recurrent expenditure on Education was £1,521,343. In 1938, the expenditure was £94,290.
+
+Health
+
+During 1962, the sum of £1,526,020 was spent on Public Health and Medical Care. This figure represents 11·4 per cent of total expenditure of the territory.
+
+At the beginning of the year an outbreak of parathion poisoning occurred and in November an epidemic of poliomyelitis commenced and reached its height at the end of the year.
+
+Among the principal causes of death the group "Diseases of early infancy" has the first place, followed by pneumonia and bronchitis, diseases of the heart and gastro-enteritis and colitis. Gastro-enteritis is a very prevalent cause of death of infants one year of age and under.
+
+Prevailing diseases include pulmonary tuberculosis, filariasis due to wuchereria bancrofti, typhoid fever, helminthiasis and minor nutritional disorders attributable mainly to a deficiency in the dietary of B Complex vitamins.
+
+Preventive measures provided by Government consist of activities provided through a Division of Environmental Sanitation, Division of Maternal and Child Health, Public Health Nursing Division, Health Education Division and a Filariasis Unit to combat filariasis.
+
+Twenty-one new health centres have been established between the years 1960–62 bringing the total number to 31. There are 116 Maternal and Child Health Units in the rural areas.
+
+There were in 1962, five general hospitals with 1,235 beds; ten private general hospitals with 490 beds; six cottage hospitals with 156 beds; one Tuberculosis Hospital with 246 beds; one Leprosy Hospital with 354 beds and one Mental Hospital with 700 beds.
+
+Communications
+
+Government operates one International Airport (Atkinson) and maintains at least twenty other land aerodromes throughout the country. Internal air services are provided by Guyana Airways Corporation (previously known as British Guiana Airways (Govt.)) who are also agents for British West Indian Airways and Cruzeiro-do-Sul. External services making connections with world net-work of air routes are provided by British West Indian Airways, Pan American Airways, the K.L.M. Royal Dutch Airlines, Air France and Cruzeiro-do-Sul (Brazil).
+
+There are two Government owned railway lines (single track) both parallel to the coast and totalling about 80 miles in length. Passengers carried in 1962 totalled 4,043,701 and freight totalled 76,781 tons.
+
+There were in 1962, 239 miles of roads with bituminous surface, 405 miles of burnt earth and other roads and in addition 600 miles of trails.
+
+The chief ports are Georgetown, New Amsterdam and Springlands with sub-ports at Morawhanna and Kaituma.
+
+The number and tonnage of vessels entered and cleared during 1962 from the principal ports are as follows:
+
+| Entered | Cleared |
+|---------|---------|
+| No.     | Tons    | No.     | Tons    |
+| Georgetown | 1,326 | 2,239,598 | 1,312 | 2,201,916 |
+| New Amsterdam | 208 | 353,061 | 180 | 335,171 |
+| Kaituma | 92 | 137,839 | 92 | 137,839 |
+
+British Guiana is in direct communication with the United Kingdom, France, Holland, Canada, the U.S.A., the West Indies, Surinam and French Guiana. Services are provided for passengers and cargo principally by Bookers Lines, Harrison Lines, Royal Netherlands Steamship Company, Compagnie Generale Transatlantique, Alcoa and Saguenay Terminals.
+
+The three main rivers, Demerara, Essequibo and Berbice are navigable by ocean-going vessels of moderate draught for about 65, 35 and 100 miles respectively. There are also numerous other rivers which are navigable in their tidal reaches by smaller vessels. There are many long stretches of water in the upper rivers navigable by launches. Ferry services, coastal and river services are also operated by steamers.
+
+Broadcasting
+
+The commercial broadcasting station, Radio Demerara, operates on short and medium waves with a power of 10,000 watts medium wave, and 2,000 watts short wave: another station—the British Guiana Broadcasting Service—which was officially opened in December 1958 operates a 10 kW transmitter on 560 kc/s (536 metres). There were 43,792 licensed holders of radio receiving sets in 1962.
+
+Principal Occupations
+
+The greater part of the population is engaged in agriculture. Estimates of average employment for the following industries are:—Sugar planting 13,901; Sugar milling 3,913; Bauxite 3,607; Rice milling 696; Sawmilling 843.
+At the end of 1962 there were 41 registered workers' organizations and five employers' associations.
+
+The Main Crops and Products are sugar, rum, molasses, rice, bauxite, timber, gold and diamonds. In 1962 production was:
+
+- Sugar: 326,000 tons
+- Rum: 2,748,000 proof gals.
+- Molasses: 13,387,000 gals.
+- Rice (milled): 128,000 tons
+- Bauxite: 3,036,000 tons
+- Gold: 2,000 bullion ozs.
+- Diamonds: 100,000 metric carats
+
+Timber production (principally greenheart, mora and crabwood) in 1962 was approximately 9.3 million cubic feet.
+
+The estimated livestock population is: cattle 200,000; pigs 40,000; sheep 45,000; goats 15,000; horses, mules and donkeys 7,200; poultry 1,004,000.
+
+Trade
+
+| Year | Imports | Re-exports | Domestic Exports |
+|------|---------|------------|------------------|
+|      | £       | £          | £                |
+| 1958 | 24,251,330 | 277,462    | 20,078,167       |
+| 1959 | 23,124,911 | 423,308    | 21,256,150       |
+| 1960 | 30,749,242 | 470,996    | 26,051,862       |
+| 1961 | 30,625,188 | 482,924    | 30,530,236       |
+
+(1) and (2) Include parcel post trade; but exclude non-commercial imports and re-exports of personal baggage and goods on lease such as cinematograph films.
+
+(3) Includes domestic exports by parcel post; but excludes non-commercial exports of personal baggage.
+
+The following table shows the direction of trade:
+
+**Imports**
+
+|                  | 1938 | 1961 |
+|------------------|------|------|
+| United Kingdom   | 50%  | 38%  |
+| Canada           | 15%  | 7%   |
+| Other Commonwealth countries | 12%  | 15%  |
+| United States of America | 11%  | 20%  |
+| Other non-Commonwealth countries | 12%  | 20%  |
+
+**Domestic Exports**
+
+|                  | 1938 | 1961 |
+|------------------|------|------|
+| United Kingdom   | 34%  | 25%  |
+| Canada           | 53%  | 26%  |
+| Other Commonwealth countries | 5%   | 16%  |
+| United States of America | 4%   | 21%  |
+| Other non-Commonwealth countries | 4%   | 12%  |
+
+The chief imports are machinery, flour, cotton piece-goods, artificial silk piece-goods, bags and sacks of jute, crude petroleum (including residual oils), motor cars, lorries, vans, trucks and buses, electric goods and apparatus, vegetables, fresh manures, sulphate of ammonia, boots and shoes, fuel oil—distilled (including gas and intermediate oils) and apparel.
+
+**Marketing and Co-operative Organizations**
+
+An independent Marketing Board is responsible for the sale of rice.
+
+Investigations into mechanized cultivation and the agronomic problems involved in the cultivation of rice are carried out by the B.G. Rice Development Company.
+
+At 31st December 1962 there were 567 primary co-operative societies with 40,469 members and savings of £398,356.
+
+---
+
+**Governors since the Union of the Three Provinces of Demerara, Essequibo and Berbice in 1831**
+
+| Year | Governor |
+|------|----------|
+| 1831 | Maj.-Gen. Sir Benjamin D'Urban. |
+| 1833 | Major-General Sir James Carmichael Smyth. |
+| 1838 | Henry Light. |
+| 1848 | Sir Henry Barkly. |
+| 1854 | Sir P. E. Wodehouse, K.C.B. |
+| 1862 | Sir F. Hincks. |
+| 1869 | Sir John Scott, K.C.M.G. |
+| 1874 | Sir J. R. Longden, K.C.M.G. |
+| 1877 | Sir C. H. Kortright, K.C.M.G. |
+| 1882 | Sir Henry T. Irving, G.C.M.G. |
+| 1887 | Viscount Gormanston, K.C.M.G. |
+| 1893 | Sir Charles Lees, K.C.M.G. |
+| 1896 | Sir A. W. L. Henning, K.C.M.G. |
+| 1898 | Sir Walter J. Sendall, G.C.M.G. |
+| 1901 | Sir Alexander Swettenham, K.C.M.G. |
+| 1904 | Sir Frederick Hodgson, K.C.M.G., V.D. |
+| 1912 | Sir Walter Egerton, K.C.M.G. |
+| 1917 | Sir Wilfred Collet, K.C.M.G. |
+| 1923 | Sir Graeme Thomson, G.C.M.G., K.C.B. |
+| 1925 | Sir Cecil Rodwell, G.C.M.G. |
+| 1928 | Brig.-Gen. Sir Gordon Guggisberg, K.C.M.G., D.S.O. |
+| 1930 | Sir Edward Denham, G.C.M.G., K.B.E. |
+| 1935 | Sir Geoffrey Northcote, K.C.M.G. |
+| 1937 | Sir Wilfrid Jackson, G.C.M.G. |
+| 1941 | Sir Gordon Lethem, K.C.M.G. |
+| 1947 | Sir Charles Woolley, G.B.E., K.C.M.G., M.C. |
+
+---
+
+**Principal Domestic Exports by Quantity and Value**
+
+| Item         | 1938 | 1961 |
+|--------------|------|------|
+| Sugar        | 183,478 tons | 313,000 tons |
+| Alumina†     | 000 tons | 120 |
+| Bauxite      | 000 tons | 376 |
+| Rice         | 12,888 tons | 90,236 tons |
+| Rum          | pr. 000 gals. | 1,069 |
+| Diamonds     | carats* | 33,509 |
+| Molasses     | 000 gals. | 5,892 |
+| Timber (round and hewn) | cu. ft. | 362,879 |
+| Timber (sawn) | cu. ft. | 76,281 |
+| Balata       | lb. | 485,394 |
+| Gold         | fine troy ozs. | 39,728 |
+| Coffee (raw) | lb. | 104,803 |
+
+* Carat = 205·416 milligrams.
+
+† First year of export, 1961.
+1953 Sir Alfred Savage, K.C.M.G.
+1955 Sir Patrick Renison, K.C.M.G.
+1959 Sir Ralph Grey, G.C.M.G., K.C.V.O., O.B.E.
+
+COUNCIL OF MINISTERS
+
+C. Jagan, M.L.A.—Premier (Portfolio: Development and Planning).
+B. H. Benn, M.L.A. (Portfolio: Agriculture, Forests and Lands).
+Ram Karan, M.L.A. (Portfolio: Works and Hydraulics).
+Mrs. J. Jagan, Senator (Portfolio: Home Affairs).
+R. Chandisingh, M.L.A. (Portfolio: Labour, Health and Housing).
+H. J. M. Hubbard, Senator (Portfolio: Trade and Industry).
+C. Jacob, Jr., M.L.A. (Portfolio: Finance).
+C. V. Nunes, Senator (Portfolio: Education and Social Development).
+F. H. W. Ramsahoye, M.L.A. (Portfolio: Attorney-General).
+E. M. G. Wilson, M.L.A. (Portfolio: Communications).
+
+LEGISLATIVE ASSEMBLY
+
+Speaker: R. B. Gajraj.
+35 Elected Members:
+- People's Progressive Party — 19
+- People's National Congress — 11
+- United Force — 4
+(1 seat vacant as a result of a successful Election petition.)
+Clerk: (Vacant).
+
+SENATE
+
+President: A. Chase.
+13 Members appointed by the Governor:
+On the advice of the Premier—8.
+After consultation with such persons as can speak for the differing political views of opposition groups in the Legislative Assembly — 3.
+(Note: So far only one of these seats has been filled).
+In the Governor's discretion—2.
+Clerk: (Vacant).
+
+CIVIL ESTABLISHMENT
+
+GOVERNOR AND COMMANDER-IN-CHIEF
+—Sir Ralph Grey, G.C.M.G., K.C.V.O., O.B.E.
+[Sir Richard Luyt, K.C.M.G., D.C.M.
+(Designate).]
+
+Secretary to the Office of the Governor—(Vacant).
+Secretary to the Treasury—W. P. D'Andrade, C.M.G.
+Deputy Secretary to the Treasury—H. O. E. Barker.
+Principal Establishment Officer—C. I. Mongul.
+Secretary, Public Service Commission—(Vacant).
+Principal Personnel Officer—W. O. Dow.
+Permanent Secretaries—A. A. Abraham, I.S.O.; I. H. Seelig, I.S.O.; C. A. Low-a-chee; P. A. Forte; J. A. S. Douglas; D. A. Farnum; E. S. Drayton; S. N. Selman; H. R. Persaud.
+Principal Assistant Secretaries—E. D. Ford; A. D. Thompson; L. A. Fonseca; N. L. Franker; L. R. Harewood.
+District Commissioners—A. A. McK. Learmond; R. Rai; M. N. Fernandes; E. A. Loquan; C. J. E. Barker; P. A. Thiersens; L. K. Yhap.
+Accountant General—C. M. Fraser.
+Deputy Accountant General—R. P. Farnum.
+Chief Agricultural Officer—G. B. Kennard, C.B.E.
+Deputy Chief Agricultural Officer—H. Paul.
+Government Analyst—J. E. Ho-Yen.
+Director of Audit—D. W. Dunlop.
+Deputy Director of Audit—J. C. Young.
+Director of Civil Aviation—E. A. Phillips.
+Chief Social Development Officer—J. I. Fraser.
+Deputy Chief Social Development Officer—C. R. Jarvis.
+Comptroller of Customs and Excise—(Vacant).
+Deputy Comptroller of Customs and Excise—J. R. Hill.
+Chief Education Officer—F. W. E. Case.
+Deputy Chief Education Officer—A. H. Moore, M.B.E.
+Headmaster, Queen's College—(Vacant).
+Headmistress, Bishops' High School—Miss L. Dewar.
+Principal, Technical Institute—P. C. A. Pooran.
+Principal, Carnegie School of Home Economics—(Vacant).
+Principal, Government Training College for Teachers—F. A. Vaughn-Cooke.
+Chief Fire Officer—L. F. Watkins.
+Deputy Chief Fire Officer—(Vacant).
+Conservator of Forests—L. E. Dow.
+Deputy Conservator of Forests—G. P. A. Forbes.
+Director of Geological Survey—P. H. A. Martin-Kaye.
+Deputy Director of Geological Survey—P. B. H. Bailey.
+Housing Administrator—L. A. Freeman.
+Commissioner of Inland Revenue—W. G. Stoll.
+Deputy Commissioner of Inland Revenue—J. A. Alli.
+Commissioner of the Interior—(Vacant).
+Commissioner of Labour—F. G. Taharally.
+Deputy Commissioner of Labour—E. A. Richards.
+Commissioner of Lands and Mines—T. C. Stibbs.
+Director of Public Prosecutions—G. S. S. Gillette.
+Law Officers:
+Solicitor-General—M. Shahabuddeen.
+Chief Parliamentary Counsel—(Vacant).
+Principal Legal Advisers—H. O. H. Khan; Mrs. A. Sankar-Adams.
+Official Receiver, Public Trustee and Crown Solicitor—S. M. A. Nasir.
+Commissioner of Local Government—L. B. Thompson, M.B.E.
+Deputy Commissioner of Local Government—E. M. Cossou.
+Chief Medical Officer—C. C. Nicholson.
+Deputy Chief Medical Officer—B. B. G. Nehaul.
+Commissioner of Police—P. G. Owen, Q.P.M.
+Deputy Commissioner of Police—A. H. Jenkins, Q.P.M.
+Director of Posts and Telecommunications—E. H. Reis.
+Deputy Director of Posts and Telecommunications—(Vacant).
+Director of Prisons—Major R. Aitken, O.B.E.
+Deputy Director of Prisons—E. H. Kendall.
+Chief Information Officer—A. J. Seymour.
+Director of Works and Hydraulics—(Vacant).
+Deputy Director of Works and Hydraulics—(Vacant).
+Deputy Director of Drainage and Irrigation—S. S. Naraine.
+Commissioner of Title—R. S. Persaud.
+Registrar of Deeds and of Supreme Court—(Vacant).
+Registrar-General—E. A. Jack.
+General Manager, Transport and Harbours Department—J. A. E. Young.
+Officer Commanding, British Guiana Volunteer Force—Lt.-Col. C. L. de Freitas, E.D.
+JUDICIARY
+
+Chief Justice—Sir Joseph Luckhoo.
+Puisne Judges—W. A. Date; H. B. S. Bollers; G. L. B. Persaud; A. Khan; A. Chung; V. E. Crane.
+Senior Magistrate—D. Jhappan.
+
+Chairman, Judicial Service Commission—The Honourable the Chief Justice.
+Chairman, Public Service Commission—Major I. O. Smith, C.M.G., O.B.E.
+Chairman, Police Service Commission—Major I. O. Smith, C.M.G., O.B.E.
+

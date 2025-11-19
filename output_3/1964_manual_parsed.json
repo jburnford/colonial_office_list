@@ -1,0 +1,405 @@
+{
+  "extraction_date": "2025-11-19T02:05:41.517655",
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1964/olmocr_results.md",
+  "total_source_lines": 24475,
+  "methodology": "MANUAL boundary identification by reading content",
+  "num_colonies": 39,
+  "colonies": [
+    {
+      "colony_name": "malta",
+      "notes": "State of Malta, G.C. - became independent May 1964",
+      "start_line": 2832,
+      "end_line": 3298,
+      "num_lines": 467,
+      "num_words": 5609,
+      "num_chars": 37571,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/malta.txt"
+    },
+    {
+      "colony_name": "singapore",
+      "notes": "State of Singapore - brief note, see Malaysia",
+      "start_line": 3299,
+      "end_line": 3302,
+      "num_lines": 4,
+      "num_words": 28,
+      "num_chars": 163,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/singapore.txt"
+    },
+    {
+      "colony_name": "aden",
+      "notes": "Aden (with Protectorate and Federation of South Arabia)",
+      "start_line": 3303,
+      "end_line": 4079,
+      "num_lines": 777,
+      "num_words": 8960,
+      "num_chars": 57705,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/aden.txt"
+    },
+    {
+      "colony_name": "antigua",
+      "notes": "Antigua",
+      "start_line": 4080,
+      "end_line": 4193,
+      "num_lines": 114,
+      "num_words": 1377,
+      "num_chars": 9033,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/antigua.txt"
+    },
+    {
+      "colony_name": "bahama_islands",
+      "notes": "Bahama Islands",
+      "start_line": 4194,
+      "end_line": 4591,
+      "num_lines": 398,
+      "num_words": 4039,
+      "num_chars": 25924,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/bahama_islands.txt"
+    },
+    {
+      "colony_name": "barbados",
+      "notes": "Barbados",
+      "start_line": 4592,
+      "end_line": 5009,
+      "num_lines": 418,
+      "num_words": 4610,
+      "num_chars": 29614,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/barbados.txt"
+    },
+    {
+      "colony_name": "bermuda",
+      "notes": "Bermuda",
+      "start_line": 5010,
+      "end_line": 5399,
+      "num_lines": 390,
+      "num_words": 3539,
+      "num_chars": 22588,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/bermuda.txt"
+    },
+    {
+      "colony_name": "british_antarctic_territory",
+      "notes": "British Antarctic Territory",
+      "start_line": 5400,
+      "end_line": 5476,
+      "num_lines": 77,
+      "num_words": 696,
+      "num_chars": 4495,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/british_antarctic_territory.txt"
+    },
+    {
+      "colony_name": "british_guiana",
+      "notes": "British Guiana",
+      "start_line": 5477,
+      "end_line": 5966,
+      "num_lines": 490,
+      "num_words": 5690,
+      "num_chars": 36656,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/british_guiana.txt"
+    },
+    {
+      "colony_name": "british_honduras",
+      "notes": "British Honduras",
+      "start_line": 5967,
+      "end_line": 6405,
+      "num_lines": 439,
+      "num_words": 5825,
+      "num_chars": 36898,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/british_honduras.txt"
+    },
+    {
+      "colony_name": "brunei",
+      "notes": "Brunei - very brief entry",
+      "start_line": 6406,
+      "end_line": 6411,
+      "num_lines": 6,
+      "num_words": 46,
+      "num_chars": 289,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/brunei.txt"
+    },
+    {
+      "colony_name": "cayman_islands",
+      "notes": "Cayman Islands",
+      "start_line": 6412,
+      "end_line": 6571,
+      "num_lines": 160,
+      "num_words": 1764,
+      "num_chars": 11361,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/cayman_islands.txt"
+    },
+    {
+      "colony_name": "dominica",
+      "notes": "Dominica",
+      "start_line": 6572,
+      "end_line": 6830,
+      "num_lines": 259,
+      "num_words": 2260,
+      "num_chars": 14697,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/dominica.txt"
+    },
+    {
+      "colony_name": "falkland_islands",
+      "notes": "Falkland Islands and Dependencies",
+      "start_line": 6831,
+      "end_line": 7127,
+      "num_lines": 297,
+      "num_words": 2743,
+      "num_chars": 17619,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/falkland_islands.txt"
+    },
+    {
+      "colony_name": "fiji",
+      "notes": "Fiji",
+      "start_line": 7128,
+      "end_line": 7451,
+      "num_lines": 324,
+      "num_words": 3976,
+      "num_chars": 25844,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/fiji.txt"
+    },
+    {
+      "colony_name": "gambia",
+      "notes": "Gambia",
+      "start_line": 7452,
+      "end_line": 7833,
+      "num_lines": 382,
+      "num_words": 4036,
+      "num_chars": 25677,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/gambia.txt"
+    },
+    {
+      "colony_name": "gibraltar",
+      "notes": "Gibraltar",
+      "start_line": 7834,
+      "end_line": 8071,
+      "num_lines": 238,
+      "num_words": 2453,
+      "num_chars": 15520,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/gibraltar.txt"
+    },
+    {
+      "colony_name": "grenada",
+      "notes": "Grenada (OCR shows as 'GRENA DA')",
+      "start_line": 8072,
+      "end_line": 8371,
+      "num_lines": 300,
+      "num_words": 3004,
+      "num_chars": 19190,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/grenada.txt"
+    },
+    {
+      "colony_name": "high_commission_territories",
+      "notes": "The High Commission Territories (Basutoland, Bechuanaland, Swaziland)",
+      "start_line": 8372,
+      "end_line": 9114,
+      "num_lines": 743,
+      "num_words": 10577,
+      "num_chars": 69305,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/high_commission_territories.txt"
+    },
+    {
+      "colony_name": "hong_kong",
+      "notes": "Hong Kong",
+      "start_line": 9115,
+      "end_line": 9534,
+      "num_lines": 420,
+      "num_words": 4199,
+      "num_chars": 27987,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/hong_kong.txt"
+    },
+    {
+      "colony_name": "kenya",
+      "notes": "Kenya - became independent December 1963, brief note",
+      "start_line": 9535,
+      "end_line": 9542,
+      "num_lines": 8,
+      "num_words": 121,
+      "num_chars": 769,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/kenya.txt"
+    },
+    {
+      "colony_name": "malaysia",
+      "notes": "Malaysia - formation in 1963",
+      "start_line": 9543,
+      "end_line": 9569,
+      "num_lines": 27,
+      "num_words": 884,
+      "num_chars": 5640,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/malaysia.txt"
+    },
+    {
+      "colony_name": "mauritius",
+      "notes": "Mauritius",
+      "start_line": 9570,
+      "end_line": 9966,
+      "num_lines": 397,
+      "num_words": 4391,
+      "num_chars": 28969,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/mauritius.txt"
+    },
+    {
+      "colony_name": "montserrat",
+      "notes": "Montserrat",
+      "start_line": 9967,
+      "end_line": 10136,
+      "num_lines": 170,
+      "num_words": 1355,
+      "num_chars": 9350,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/montserrat.txt"
+    },
+    {
+      "colony_name": "northern_rhodesia",
+      "notes": "Northern Rhodesia - became Zambia in October 1964",
+      "start_line": 10137,
+      "end_line": 10732,
+      "num_lines": 596,
+      "num_words": 5483,
+      "num_chars": 35998,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/northern_rhodesia.txt"
+    },
+    {
+      "colony_name": "nyasaland",
+      "notes": "Nyasaland Protectorate - became Malawi in July 1964",
+      "start_line": 10733,
+      "end_line": 11212,
+      "num_lines": 480,
+      "num_words": 5351,
+      "num_chars": 34942,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/nyasaland.txt"
+    },
+    {
+      "colony_name": "pitcairn_islands",
+      "notes": "Pitcairn Islands Group",
+      "start_line": 11213,
+      "end_line": 11222,
+      "num_lines": 10,
+      "num_words": 294,
+      "num_chars": 1783,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/pitcairn_islands.txt"
+    },
+    {
+      "colony_name": "st_christopher_nevis_anguilla",
+      "notes": "St. Christopher, Nevis and Anguilla",
+      "start_line": 11223,
+      "end_line": 11395,
+      "num_lines": 173,
+      "num_words": 1587,
+      "num_chars": 10670,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/st_christopher_nevis_anguilla.txt"
+    },
+    {
+      "colony_name": "st_helena",
+      "notes": "St. Helena (with Ascension and Tristan da Cunha)",
+      "start_line": 11396,
+      "end_line": 11660,
+      "num_lines": 265,
+      "num_words": 2918,
+      "num_chars": 17847,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/st_helena.txt"
+    },
+    {
+      "colony_name": "st_lucia",
+      "notes": "St. Lucia",
+      "start_line": 11661,
+      "end_line": 11896,
+      "num_lines": 236,
+      "num_words": 2354,
+      "num_chars": 14909,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/st_lucia.txt"
+    },
+    {
+      "colony_name": "st_vincent",
+      "notes": "St. Vincent",
+      "start_line": 11897,
+      "end_line": 12152,
+      "num_lines": 256,
+      "num_words": 2542,
+      "num_chars": 16286,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/st_vincent.txt"
+    },
+    {
+      "colony_name": "sarawak",
+      "notes": "Sarawak - brief note, see Malaysia",
+      "start_line": 12153,
+      "end_line": 12158,
+      "num_lines": 6,
+      "num_words": 23,
+      "num_chars": 139,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/sarawak.txt"
+    },
+    {
+      "colony_name": "seychelles",
+      "notes": "Seychelles",
+      "start_line": 12159,
+      "end_line": 12547,
+      "num_lines": 389,
+      "num_words": 3582,
+      "num_chars": 23097,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/seychelles.txt"
+    },
+    {
+      "colony_name": "tonga",
+      "notes": "Kingdom of Tonga",
+      "start_line": 12548,
+      "end_line": 12692,
+      "num_lines": 145,
+      "num_words": 2026,
+      "num_chars": 12918,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/tonga.txt"
+    },
+    {
+      "colony_name": "turks_and_caicos_islands",
+      "notes": "Turks and Caicos Islands",
+      "start_line": 12693,
+      "end_line": 12853,
+      "num_lines": 161,
+      "num_words": 1778,
+      "num_chars": 10989,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/turks_and_caicos_islands.txt"
+    },
+    {
+      "colony_name": "virgin_islands",
+      "notes": "Virgin Islands",
+      "start_line": 12854,
+      "end_line": 13025,
+      "num_lines": 172,
+      "num_words": 1622,
+      "num_chars": 10572,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/virgin_islands.txt"
+    },
+    {
+      "colony_name": "western_pacific",
+      "notes": "Western Pacific High Commission (British Solomon Islands, Gilbert & Ellice Islands, New Hebrides)",
+      "start_line": 13026,
+      "end_line": 13731,
+      "num_lines": 706,
+      "num_words": 8452,
+      "num_chars": 54756,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/western_pacific.txt"
+    },
+    {
+      "colony_name": "zanzibar",
+      "notes": "Zanzibar - brief note",
+      "start_line": 13732,
+      "end_line": 13739,
+      "num_lines": 8,
+      "num_words": 86,
+      "num_chars": 565,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/zanzibar.txt"
+    },
+    {
+      "colony_name": "miscellaneous_islands",
+      "notes": "Miscellaneous Islands",
+      "start_line": 13740,
+      "end_line": 13773,
+      "num_lines": 34,
+      "num_words": 667,
+      "num_chars": 4132,
+      "output_file": "/home/user/colonial_office_list/output_3/1964_manual_parsed/miscellaneous_islands.txt"
+    }
+  ],
+  "summary": {
+    "total_lines_extracted": 10942,
+    "total_words_extracted": 120947,
+    "avg_lines_per_colony": 280.56410256410254,
+    "avg_words_per_colony": 3101.2051282051284
+  }
+}

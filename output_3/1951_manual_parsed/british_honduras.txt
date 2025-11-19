@@ -1,0 +1,476 @@
+BRITISH HONDURAS
+
+SITUATION AND AREA
+
+British Honduras is a Colony on the east coast of Central America, bounded on the north by Yucatan, on the west by a straight line drawn from the Falls of Gracias a Dios on the River Sarstoon, to Garbutt’s Falls on the River Belize, and thence due north to the Mexican frontier, on the south by Guatemala, and on the east by the Bay of Honduras. It lies between 18° 29' and 15° 34' N. latitude and 88° 10' and 89° 09' W. longitude.
+
+The area of the Colony is 8,867 square miles (about the size of Wales), including Albion Island in the River Hondo (about 26 square miles), and Ambergris, St. George’s, English, Turneffe and other Cays (Islands), 212 square miles, a large portion of the latter being mangrove swamps without any soil. It is estimated that about 175 square miles are under cultivation.
+
+CLIMATE
+
+Though situated within the tropics, the climate is sub-tropical in character. The maximum shade temperature is 90°, the minimum 62°. The humidity in Belize, a seaport, is relatively high. Sea breezes prevail for the greater part of the year. The average rainfall during the past twenty years
+has been 81.48 inches per annum. From the middle of February to the middle of May is the dry season. For the rest of the year there is rain to some extent during every month, the heaviest rainfall being in the months of September, October and November, during which months about one-third of the total rain occurs.
+
+**GENERAL DESCRIPTION**
+
+In its physical outlines the Colony resembles other parts of Central America, the land being flat and swampy throughout the greater portion of the coast line, and gradually rising as the interior is approached. The characteristic soils of the Colony are known as Cohune ridge (the vegetable alluvium along the river valleys), the Pine ridge (sandy tracts covered with pines, scrub, and wiry grass), and Broken ridge (intermediate between these two). Besides these there are swamp, savannah, mountain, forest and high rain forest soils.
+
+The chief rivers are in the north of the Colony, and run in a north-easterly direction, the Belize reaching the sea on the east, and the Hondo and the New River on the north.
+
+The northern district, of which the Hondo forms the natural boundary, is but little raised above the sea; but towards the south the character of the country becomes more elevated, until in the Cockscomb Mountains a height of some 3,700 feet is attained.
+
+**POPULATION**
+
+The population of the several districts of the Colony, based on the census taken on 9th April, 1946, was:
+
+- Belize District ... 26,781
+- Northern District ... 12,293
+- Stann Creek District ... 6,373
+- Toledo District ... 6,403
+- Cayo District ... 7,370
+
+Total ... 59,220
+
+Of the total population 54,756 were, at the date of the 1946 census, British subjects. Of this number, 107 were born in the United Kingdom. There were 153 Americans, of whom 120 were born in the United States. There were 1,592 persons born in Guatemala, 1,589 born in the Republic of Honduras and 725 born in Mexico.
+
+Population of towns at census of 1946: Belize, 21,886; Corozal, 2,190; Orange Walk, 1,395; Stann Creek, 3,414; Punta Gorda, 1,375; El Cayo, 1,548; Benque Viejo, 1,264.
+
+The total population at the end of 1947 was estimated at 61,503 and at the end of 1948 at 63,148.
+
+**HISTORY**
+
+The coast was discovered in 1502 by Columbus, and its early settlement is supposed to have been effected from Jamaica, about 1638, by adventurers, who were attracted by the logwood which grew on the banks of the Hondo and other rivers. Their headquarters were long at St. George's Cay. The name of the present chief town and of the River Belize is alleged to be a corruption of the name of the buccaneer Wallis, who was driven from Hispaniola in that year, and who is said to have been the leader of the settlers. The Spaniards frequently endeavoured to expel the logcutters; but, though they succeeded in driving them from the northern coast of Yucatan about 1717, they failed to dislodge them from the eastern coast.
+
+An earlier settlement had been made by a chartered company, of which the Earl of Warwick was chairman and John Pym treasurer, on two small islands off the Mosquito coast, in 1630. The Mosquito natives were very friendly to the English settlers. Their king, shortly after the conquest of Jamaica, placed himself under English protection, and the Governors of Jamaica exercised a sort of supervision over the affairs of the settlement. In 1739 the native king made a treaty resigning his country to Great Britain, and forts were built in 1742 at the Island of Ruatan, and at Black River on the mainland. Ruatan was abandoned in 1749, but at the same time an officer was formally appointed by the Government of Jamaica to superintend the settlements on the Mosquito Coast. As a result of the treaty of Paris in 1763, the forts were dismantled and the garrisons withdrawn. The settlers remained, however, and from that date until 1798, when the last attempt to establish the sovereignty of Spain over the territory was defeated by the inhabitants in the "Battle of St. George's Cay," the Spaniards made frequent but ineffectual attempts to expel the woodcutters by force of arms. By the Treaty of Versailles of 1783 Spain recognised a district (within what is now British Honduras) within which the British logcutters might work without interference; and by the Convention of London signed in 1786, it was agreed that the British Colonists should evacuate the Mosquito Coast and the adjacent islands. In spite of these treaties, many of the settlers remained outside the agreed limits; and it was not until the treaties of 1859 with the Republic of Honduras and 1860 with Nicaragua that the Bay Islands and the Mosquito Coast were finally recognised as belonging to those states, Nicaragua agreeing to allow the Mosquito Indians autonomy in the Reserve which was assigned to them.
+
+On 10th September, 1931, Belize was visited by a hurricane and tidal wave which caused great damage and loss of life.
+
+**CONSTITUTION**
+
+The first settlers from 1638 to 1786 managed their own affairs. Persons were annually elected to act as Magistrates at public meetings held for the purpose. These Magistrates discharged all executive and judicial functions. Resolutions were passed at public meetings, and they formed the laws binding on the community. In 1765 these customs were formally recognised by the King's Government, after the visit of Admiral Sir William Burnaby to the settlement in that year. The customs of the settlers were codified and published, and became known as "Burnaby's Laws."
+
+In 1786 a Superintendent was appointed by the Home Government, but during the years 1790-1797 elected Magistrates again ruled the settlements. From this latter date Superintendents were regularly appointed until 1862. An Executive Council was established in 1840 to assist the Superintendent, and in 1853 a Legislative Assembly was formally constituted consisting of 18 elected and 3 nominated members. The settlement was declared a Colony on 12th May, 1862, and a Lieutenant-Governor was appointed subordinate to the Governor of Jamaica. In 1870 the Legislative Assembly was abolished by a local enactment, and a Legislative Council substituted therefor, consisting of five official, and not less than four unofficial, members, with the Lieutenant Governor as President. The constitution of the Council was altered in 1892, after a dispute with
+the Governor, and became three *ex officio* members and not less than five (nominated) unofficial members with the Governor as President. Since 1913 the Council has consisted of six official and seven unofficial members. A new Legislative Council was constituted in 1936 (under Ordinance No. 13 of 1935). By Ordinance No. 21 of 1938, the number of the constituencies was increased from four to five and the number of elected members from five to six. Ordinance No. 13 of 1935 was amended by Ordinance No. 4 of 1945 to provide for a Legislative Council consisting of the Governor as President, not more than three *ex officio*, four unofficial members nominated by the Governor and six unofficial members elected by five constituencies. On 31st October, 1884, Letters Patent were proclaimed constituting the office of Governor and Commander-in-Chief, which rendered the Colony independent of Jamaica. These were renewed by Letters Patent proclaimed on 10th September, 1909.
+
+The English Common Law and all statutes of the Imperial Parliament "in abrogation or derogation or in any way declaratory of the Common Law" passed before 1899 extend to the Colony as far as local circumstances render such extension suitable, and subject to modification by Colonial ordinances. Pursuant to Ordinance No. 31 of 1923, a new and revised edition of the Laws of this Colony has been published in two volumes. This edition, referred to as "The Consolidated Laws, 1924," came into force on 4th February, 1925, and supersedes the revised edition published in 1915 and all ordinances passed before July, 1924. Appeals to His Majesty in Council are regulated by Chapter 155 of the Consolidated Laws, 1924.
+
+The Executive Council consists of the Governor, and official and unofficial members; three of the official members are *ex officio*, four other members being appointed.
+
+**ADMINISTRATION**
+
+For administrative purposes the Colony is divided into six districts—Belize, which includes the capital at the mouth of the river of the same name; the Corozal district; the Orange Walk district; the Cayo district; the Stann Creek district; and the Toledo district, the main station of which is Punta Gorda.
+
+**SOCIAL SERVICES**
+
+| Education | No. of Schools | Total Roll | Average attendance |
+|-----------|----------------|------------|--------------------|
+| Secondary—|                |            |                    |
+| Boys      | 3              | 308        | 296                |
+| Girls     | 2              | 310        | 287                |
+| Aided primary | 88          | 11,298    | 9,227              |
+| Unaided primary | 23         | 883       | 856                |
+| Totals... | 116            | 12,799     | 11,666             |
+
+Total expenditure on 88 schools: $247,300-00.
+
+A law "To provide for Compulsory Education in certain cases" was passed in January, 1915. This law was replaced by Law No. 14 of 1926, by which attendance at school is now compulsory throughout the Colony.
+
+**COMMUNICATIONS**
+
+**Roads**
+
+There are 240 miles of main roads and 80 miles of feeder roads, all suitable for motor traffic. In addition there are about 48 miles of cart roads, some of which can be used by motor cars during the dry season, and 154 miles of government-maintained bush trails.
+
+**Shipping**
+
+The easiest communication is by water along the coast. There is communication twice monthly with New Orleans, weekly with Puerto Cortes, and monthly (approximately) with Liverpool and Kingston, Jamaica. The usual length of the journey between England and British Honduras is 16 days, via the United States, and about 21 days via Jamaica.
+
+**Air**
+
+There is a bi-weekly service between Belize and Mexico by planes of Transportes Aero Mexicano, S.A. (TAMSA).
+
+A thrice-weekly service to the Republic of Honduras is operated by Transportes Aereo Centro Americano (TACA). On the same route are Sevicio Aereo de Honduras S.A. (SASHA), who operate a weekly service.
+
+British West Indian Airways, Ltd. (BWIA) operate twice a week to Jamaica.
+
+**Air Mail**
+
+To U.S.A. (via Merida and Kingston), Mexico, 10 cents for each ½ oz.; Guatemala and Honduras and Nicaragua, 10 cents for each ½ oz.; Costa Rica and Panama (including Canal Zone), 15 cents for each ½ oz. These rates are in addition to the ordinary postage.
+
+The Trans-Atlantic rate to the U.K. is 20 cents for each ½ oz. in addition to the ordinary postage and to other European countries, 15 cents.
+
+The Light Weight Air Letter rate to U.K. and the British Empire is 10 cents.
+
+The special rate to West Indies by service of British West Indian Airways, Ltd., is 5 cents for each ½ oz.
+
+**Posts and Telegraphs**
+
+There are 32 post offices in the Colony. Telephone offices, which also transact telegraph business, number 72.
+
+External communication is maintained by wireless through the Tropical Radio Telegraph Company's station in New Orleans, Miami and Guatemala City; the Cable and Wireless Station in Jamaica; and the Mexican Government Station in Mexico City.
+
+A telephone line exists between Belize and the southerly town of Monkey River, from Belize to the Cayo, and from Belize to Corozal. A radiotelegraph station is situated in Belize, and others (for inland services only), at Corozal, Monkey River and Punta Gorda.
+
+Wireless transmitting and receiving equipment, which provide aeronautical telecommunications service, is installed at the Belize Airport.
+
+Items of news interest and forecast for the Western Caribbean are broadcast daily at 12.30 p.m. from the Belize Wireless Station, ZIKZ, on a wavelength of 28·31 metres. Storm and hurricane warnings are broadcast during the hurricane season from June to November.
+**Public Finance**
+
+| Year | Revenue | Expenditure |
+|------|---------|-------------|
+| 1940 | $1,756,523 | $1,684,139 |
+| 1941 | $1,576,244 | $1,523,997 |
+| 1942 | $1,649,941 | $1,636,880 |
+| 1943 | $1,877,843 | $1,838,829 |
+| 1944 | $2,510,575 | $2,463,786 |
+| 1945 | *$2,505,890 | $2,529,705 |
+| 1946 | *$2,637,501 | $2,552,357 |
+| 1947 | $2,941,158 | $2,909,985 |
+| 1948 | *$3,208,622 | $3,394,916 |
+| 1949 | $3,711,232 | $3,847,374 |
+
+*Grant in aid included:—*
+
+| Year | Amount |
+|------|--------|
+| 1945 | $169,260 |
+| 1946 | $80,600 |
+| 1947 | Nil |
+| 1948 | $100,750 |
+| 1949 | $339,800 |
+
+**Currency and Banking**
+
+By Ordinance No. 31 of 1894, the Currency of the Colony was established on a gold basis, the United States gold dollar being adopted as the standard coin. In 1937, the British Honduras Currency Notes Ordinance, 1937, was passed in order to establish a Note Security fund and to make consequential provisions more in keeping with modern practice, and with that of other Colonies.
+
+The issue of currency notes is in the hands of the Commissioners of Currency and all notes issued under the provisions of the Ordinance are declared legal tender for the payment of any amount. The value of the British Honduras dollar was established at parity with the United States dollar by providing that the Board of Commissioners were to issue on demand to any person desiring to receive currency notes in the Colony, currency notes to the equivalent value (at the rate of one dollar for each United States of America dollar) of sums in the United States of America currency lodged with the Board’s Agents in New Orleans or New York and were to pay through these Agents the equivalent value in United States of America dollars of currency notes lodged with the Board in the Colony.
+
+This Ordinance was amended by the British Honduras Currency Notes (Amendment) Ordinance, 1940, which provided that the Board might in their discretion issue and redeem currency notes in exchange (at the rate prescribed by the Bank of England ruling at the time of issue or redemption) for sterling paid to or from a special account held in the name of the Board in sterling in London.
+
+On the 31st December, 1949, the British Honduras Currency Notes (Amendment) Ordinance, 1949, was passed. This Ordinance re-valued the Currency to the rate of four British Honduras dollars to each pound sterling, which was approximately the rate which had ruled before the pound sterling had been re-valued on the 18th September 1949. The right of any person to have issued to him in the Colony British Honduras dollars in return for United States of America dollars lodged with the Board’s Agents in New Orleans or New York was discontinued and the Board’s sole Agents are now the Crown Agents for the Colonies in London, who are authorised to receive sterling for which the Board will issue British Honduras currency notes at the rate of four dollars for each pound sterling.
+
+There is a local subsidiary currency of 50 cent, 25 cent, and 10 cent silver pieces, and a Government note issue of the following denominations: 1, 2, 5 and 10 dollars; a nickel bronze 5 cent piece and a bronze cent piece are also current. The silver coins are legal tender up to 10 dollars and the nickel and bronze up to 50 cents.
+
+The Government Savings Bank, established in 1846 at Belize (with branches at Corozal, Orange Walk, Stann Creek, Punta Gorda and the Cayo), had on 31st December, 1949, balances totalling $1,608,315.
+
+On 14th October, 1912, The Bank of British Honduras, Ltd., was bought over as a going concern by the Royal Bank of Canada.
+
+On the 5th September, 1949, a branch of Barclays Bank (Dominion, Colonial & Overseas) was set up in Belize. Both banks carry on normal banking and exchange business.
+
+**Industry, Trade and Customs**
+
+For more than 200 years the Colony has subsisted mainly on the natural resources of its forests. A Forest Department has been in existence since 1922.
+
+Imports consist mainly of mahogany and chicle in transit, cotton goods, petroleum oils, hardware, haberdashery and millinery, boots and shoes, spirits, tobacco and provisions.
+
+The chief items of export in 1948 and 1949 were as follows:
+
+| Item                  | 1948   | 1949   |
+|-----------------------|--------|--------|
+| Mahogany logs (cu. ft.) | 503,328 | 123,455 |
+| Mahogany lumber (cu. ft.) | 361,092 | 326,236 |
+| Chicle (lb.)          | 1,044,923 | 691,877 |
+| Coconuts (no.)        | 2,927,800 | 1,807,004 |
+| Bananas (bunches)     | 113,919 | 58,056 |
+| Plantains (bunches)   | 8,661 |
+| Grape fruit juice (lb.) | 4,848,870 | 3,313,912 |
+| Pine lumber (cu. ft.) | 399,085 | 443,126 |
+| Santa Maria (cu. ft.) | 62,888 | 7,773 |
+| Alligator skins (cwt.) | 39 | 132 |
+| Cohune kernels (lb.)  | 65,216 | 375,904 |
+| Rosewood (tons)       | 256 | 101 |
+
+The percentages of the imports and exports as between British and foreign countries are shown hereunder:
+
+| Country               | Imports | Exports |
+|-----------------------|---------|---------|
+| United Kingdom        | 15      | 30      |
+| Canada                | 15      | 12      |
+| Other British Possessions | 4    | 7       |
+| U.S.A.                | 43      | 39      |
+| Other Countries       | 23      | 12      |
+
+The Customs tariff is largely on an ad valorem basis. There is a British preference, which, in the case of ad valorem duties, is in most instances 15 per cent. ad valorem.
+
+The following tables show the imports and exports of the Colony since 1939, including bullion and specie and re-exports; re-exports during 1949 amounted to $1,611,303.
+BRITISH HONDURAS
+
+IMPORTS
+
+| Year | From U.K. | From Other Countries | From Elsewhere | Total |
+|------|-----------|----------------------|---------------|-------|
+|      | $         | $                    | $             | $     |
+| 1940 | 400,991   | 500,847              | 2,416,232     | 3,318,070 |
+| 1941 | 332,082   | 470,395              | 2,949,473     | 3,751,950 |
+| 1942 | 205,473   | 311,275              | 3,447,093     | 3,963,841 |
+| 1943 | 285,977   | 401,969              | 4,998,124     | 5,686,070 |
+| 1944 | 246,064   | 628,305              | 6,490,150     | 7,364,519 |
+| 1945 | 331,519   | 1,078,962            | 6,426,295     | 7,836,776 |
+| 1946 | 614,827   | 1,712,592            | 4,455,097     | 6,782,516 |
+| 1947 | 831,450   | 1,500,487            | 6,324,315     | 8,656,252 |
+| 1948 | 1,245,653 | 1,520,298            | 5,309,509     | 8,075,460 |
+| 1949 | 1,802,885 | 1,107,912            | 3,079,467     | 5,990,264 |
+
+EXPORTS
+
+| Year | To U.K. | To Other Countries | To Elsewhere | Total |
+|------|---------|--------------------|--------------|-------|
+|      | $       | $                  | $           | $     |
+| 1940 | 551,065 | 174,015            | 2,314,425    | 3,039,505 |
+| 1941 | 242,219 | 385,565            | 2,729,762    | 3,357,546 |
+| 1942 | 27,444  | 181,693            | 2,344,199    | 2,553,336 |
+| 1943 | 12,481  | 364,699            | 3,368,146    | 3,745,323 |
+| 1944 | —       | 474,335            | 5,612,581    | 6,086,916 |
+| 1945 | 550     | 297,596            | 4,623,786    | 4,921,932 |
+| 1946 | 580,516 | 1,306,859          | 3,334,653    | 5,222,028 |
+| 1947 | 896,005 | 896,682            | 4,349,914    | 6,142,601 |
+| 1948 | 1,326,823 | 1,451,350        | 3,373,837    | 6,152,010 |
+| 1949 | 1,696,431 | 930,828         | 1,937,588    | 5,564,847 |
+
+SHIPPING ENTERED AND CLEARED
+
+(Excludes coastwise shipping)
+
+| British Tonnage | Total Tonnage |
+|-----------------|---------------|
+| Entered         | Cleared       |
+|                 | Entered       | Cleared       |
+| 1940            | 68,979        | 65,316        | 174,418 | 171,168 |
+| 1941            | 70,363        | 51,344        | 147,460 | 128,212 |
+| 1942            | 17,114        | 15,264        | 83,626  | 78,278  |
+| 1943            | 11,716        | 11,343        | 86,497  | 89,515  |
+| 1944            | 13,503        | 12,468        | 128,190 | 116,848 |
+| 1945            | 11,442        | 10,586        | 98,651  | 96,890  |
+| 1946            | 49,310        | 40,184        | 138,202 | 129,272 |
+| 1947            | 76,702        | 62,264        | 189,905 | 175,261 |
+| 1948            | 87,463        | 52,576        | 237,668 | 198,813 |
+| 1949            | 60,995        | 61,337        | 180,276 | 178,487 |
+
+Belize is a port of registry and there were registered on 31st December:
+
+| Year | No. of Vessels | Total Tonnage |
+|------|----------------|---------------|
+| 1944 |                | 193           | 2,523         |
+| 1945 |                | 195           | 2,576         |
+| 1946 |                | 177           | 2,461         |
+| 1947 |                | 178           | 1,854         |
+| 1948 |                | 177           | 1,813         |
+| 1949 |                | 175           | 1,785         |
+
+ADMINISTRATORS OF THE GOVERNMENT OF BRITISH HONDURAS
+
+1786 Previous to this year by Magistrates elected annually.
+1786 Superintendent Colonel E. M. Despard.
+1790 Superintendent Colonel Peter Hunter.
+1790 to 1797 by Magistrates elected annually.
+1797 Superintendent Colonel Thomas Barrow.
+1800 Superintendent General Sir Richard Basset.
+1805 Superintendent Lieut.-Col. Gabriel Gordon.
+1806 Superintendent Lieut.-Col. A. M. Kerr Hamilton.
+
+1809 Superintendent Lieut.-Col. J. Nugent Smyth.
+1814 Superintendent Major George Arthur.
+1822 Superintendent Major-General A. H. Pye.
+1823 Superintendent Major-General Edward Codd.
+1829 Superintendent Major Alexander McDonald.
+1830 Superintendent Lieut.-Col. F. Cockburn.
+1837 Superintendent Lieut.-Col. A. McDonald.
+1843 Superintendent Col. C. Fancourt, K.H.
+1851 Superintendent Philip Edmund Wodehouse.
+1854 Superintendent William Stevenson.
+1857 Superintendent Frederick Seymour.
+1862 Lieut.-Governor Frederick Seymour.
+1867 Lieut.-Governor J. Gardiner Austin.
+1872 Lieut.-Governor W. W. Cairns.
+1871 Administrator Lieut.-Col. Harley, C.B.
+1872 Lieut.-Governor W. W. Cairns.
+1874 Administrator Captain Mitchell, R.M. (acting).
+1874 Lieut.-Governor Major Mundy, R.A., C.M.G.
+1876 Administrator Captain Mitchell, R.M. (acting).
+1877 Lieut.-Governor F. P. Barlee, C.M.G.
+1882 Lieut.-Governor Sir R. W. Harley, K.C.M.G., C.B.
+1883 Administrator Henry Fowler (acting).
+1884 Lieut.-Governor R. T. Goldsworthy, C.M.G.
+1884 Governor R. T. Goldsworthy, C.M.G.
+
+GOVERNORS
+
+1889 Sir R. T. Goldsworthy, K.C.M.G.
+1891 Sir C. A. Moloney, K.C.M.G.
+1897 Colonel Sir David Wilson, K.C.M.G.
+1904 Sir E. B. Sweet-Escott, K.C.M.G.
+1906 Colonel Sir E. J. E. Swayne, K.C.M.G., C.B.
+1913 Sir Wilfred Collet, K.C.M.G.
+1918 W. Hart Bennett, C.M.G.
+1919 Sir Eyre Hutson, K.C.M.G.
+1925 Major Sir J. A. Burdon, K.B.E., C.M.G.
+1932 Sir H. B. Kittermaster, K.B.E., C.M.G.
+1934 Sir Alan C. M. Burns, K.C.M.G.
+1940 Sir John Adams Hunter, K.C.M.G.
+1947 Sir E. G. Hawkesworth, K.C.M.G., M.C.
+1949 Sir Ronald H. Garvey, K.C.M.G., M.B.E.
+
+EXECUTIVE COUNCIL
+
+Governor.
+Colonial Secretary.
+Attorney General.
+Financial Secretary.
+J. S. Espat.
+R. H. Eyles, B.E.M.
+C. A. Gibbs.
+W. H. Courtenay, O.B.E.
+Clerk—R. Gabourel, M.B.E.
+
+LEGISLATIVE COUNCIL
+
+President—The Governor.
+Official Members—The Colonial Secretary, The Attorney General, The Financial Secretary.
+Unofficial Members—J. W. Macmillan, O.B.E., B. S. Clark, J. S. Espat, E. G. N. Gegg, Dr. W. A. George, J.P., W. H. Courtenay, O.B.E., R. S. Turton, J. A. Smith, C. J. Benguche, H. L. Fuller, C. L. Westby.
+Clerk—S. E. Hulse.
+FOREIGN CONSULAR OFFICERS
+
+United States—J. R. Bartelt (Vice-Consul).
+Norway—E. W. M. Bowen (Acting).
+Republic of Honduras—L. P. Ayuso (Acting Consul General).
+Guatemala—R. Cobar (Consul).
+Mexico—C. Grimm (Consul).
+Belgium—F. R. Dragten.
+Netherlands—M. M. McLennan (Acting).
+El Salvador—J. Bouloy (Officer-in-Charge).
+Sweden—H. T. Grant (Vice-Consul).
+Nicaragua—R. S. Turton (Consul).
+Panama—L. P. Ayuso (Consul).
+
+SHORT SELECT BIBLIOGRAPHY
+
+Archives of British Honduras by Sir John Alder Burdon. West India Committee. 1931. (Three volumes.)
+The Beginning of British Honduras, 1506–1765, by F. O. Winzerling. North River Press. N.Y. 1946.
+
+CIVIL ESTABLISHMENT
+
+GOVERNOR AND PERSONAL STAFF
+
+Governor and Commander in-Chief Sir Ronald Herbert Garvey, K.C.M.G., M.B.E. $9,600. $1,200 duty allowance, also receives £300 p.a. as trustee of the late Baron Bliss.
+Private Secretary—C. V. C. Herbert, $1,500.
+
+ADMINISTRATION
+
+Secretariat
+
+Colonial Secretary—E. D. Hone, O.B.E. $6,000, also receives £200 p.a. as trustee of the late Baron Bliss.
+Assistant Colonial Secretary—R. E. Gabourel, M.B.E. $3,120–120–3600.
+
+Development Commissioner—A. G. T. Chaplin. $5,800.
+
+District Commissioners
+
+Corozal Districts—E. H. La Croix. $2,400–3,000.
+Orange Walk District—R. M. Bautista. $2,496.
+Stann Creek District—J. N. Meighan. $2,400–3,000.
+Toledo District—W. A. Johnston. $2,400–3,000.
+Cayo District—A. H. Anderson. $2,400–3,000.
+
+AGRICULTURAL
+
+Director of Agriculture—Vacant.
+Senior Agricultural Officer—G. B. Gregory. $3,840.
+Assistant Agricultural Officers—G. A. Southwell and M. P. Benjamin. $1,632–$2,208–$2,496–$2,712.
+
+AIRPORT
+
+Airport Manager—L. C. Balderamos. $2,280–108–2,496.
+
+AUDIT
+
+Principal Auditor—G. J. Grantham. $3,600.
+
+LEGAL
+
+Attorney-General—C. G. X. Henriques. $4,800 (also receives £200 p.a. as a trustee under the will of the late Baron Bliss.
+
+CUSTOMS AND HARBOUR
+
+Collector of Customs and Harbour Master—R. K. Masson, M.B.E. $3,600.
+Customs Superintendent—R. J. Gabourel. $2,280–2,712.
+
+EDUCATION
+
+Director of Education—J. W. Forrest. $3,600.
+Inspector of Schools—E. B. V. Brown. $2,400 × 120–3,000.
+
+ELECTRICITY AND TELEPHONES
+
+Electrical Branch
+
+Electrical Superintendent—T. D. Murphy. $3,600.
+
+FIRE BRIGADE
+
+Superintendent—R. K. Masson, M.B.E. $600–720.
+
+FOREST DEPARTMENT
+
+Conservator of Forests—Vacant. $4,500.
+Assistant Conservators of Forests—S. L. Finding. $2,400–120–3,000.
+D. W. D’Silva. $3,120–120–3,600.
+
+INCOME TAX
+
+Assessor of Income Tax—A. A. Heustis. $2,400–120–3,000.
+
+JUDICIAL
+
+Chief Justice—A. V. Crane. $6,240.
+Magistrate—S. A. Hassock. $3,600.
+Registrar General—A. O. Longsworth. $2,712.
+
+LABOUR
+
+Labour Officer—E. P. Bradley. $3,600.
+
+MEDICAL
+
+Senior Medical Officer—L. A. P. Slinger, $5,700.
+Medical Officers—†T. Patterson; †S. H. Wharton; †B. M. Hulse; †G. G. Smith; †L. S. J. Lach; †H. M. Forde; †A. Goscinski; †J. M. Hastings. $2,430–3,150.
+*3 Doctors at old rate, $2,430–2,150 †and rest of Doctors at $3,600–4,440.
+Matron—Miss Mary Keating. $1,800, quarters, uniform and free board.
+Nursing Sister—Miss B. McNeil. $936–1,080 quarters, uniform and free board.
+
+POLICE
+
+Superintendent of Police—A. L. Abraham. $3,420–3,900.
+Assistant Superintendents—J. F. Storey, R. M. R. Price. $2,280–2,712 and uniform $120.
+
+POSTS AND TELEGRAPHS
+
+Colonial Postmaster—F. C. P. Bowen. $3,480
+
+PRISON
+
+Superintendent of Prisons—R. Aitken.
+
+PUBLIC WORKS
+
+Director of Public Works—E. V. Williams. $4,500.
+Executive Engineer—E. D. Ratter. $3,840.
+Mechanical Engineer—Vacant. $2,400–3,000.
+Architect—J. Ritchie, $2,400–3,000.
+Assistant Engineer—Vacant. $2,400–3,000.
+Inspector of Works (Buildings)—T. G. Searle. $2,400–3,000.
+
+SOCIAL DEVELOPMENT
+
+A. E. McNair. $3,480.
+
+SURVEY
+
+Director of Surveys—G. A. Elliott, M.M. $3,900.
+
+TREASURY
+
+Financial Secretary—S. A. Stone. $4,500.
+
+VOLUNTEER GUARD
+
+Commandant—Major D. N. A. Fairweather, M.B.E. (Director of Telecommunications).

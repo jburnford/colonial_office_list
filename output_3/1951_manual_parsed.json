@@ -1,0 +1,304 @@
+{
+  "extraction_date": "2025-11-19T01:16:43.873351",
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1951/olmocr_results.md",
+  "year": 1951,
+  "total_colonies": 37,
+  "colonies": [
+    {
+      "name": "Aden",
+      "start_line": 5176,
+      "end_line": 6251,
+      "line_count": 1076,
+      "char_count": 82175,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/aden.txt"
+    },
+    {
+      "name": "Bahamas",
+      "start_line": 6252,
+      "end_line": 6448,
+      "line_count": 197,
+      "char_count": 4838,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/bahamas.txt"
+    },
+    {
+      "name": "Barbados",
+      "start_line": 6449,
+      "end_line": 6981,
+      "line_count": 533,
+      "char_count": 35913,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/barbados.txt"
+    },
+    {
+      "name": "Bermuda",
+      "start_line": 6982,
+      "end_line": 7542,
+      "line_count": 561,
+      "char_count": 32401,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/bermuda.txt"
+    },
+    {
+      "name": "British Guiana",
+      "start_line": 7543,
+      "end_line": 8478,
+      "line_count": 936,
+      "char_count": 76651,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/british_guiana.txt"
+    },
+    {
+      "name": "British Honduras",
+      "start_line": 8479,
+      "end_line": 8954,
+      "line_count": 476,
+      "char_count": 28506,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/british_honduras.txt"
+    },
+    {
+      "name": "Brunei",
+      "start_line": 8955,
+      "end_line": 9215,
+      "line_count": 261,
+      "char_count": 16211,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/brunei.txt"
+    },
+    {
+      "name": "Cyprus",
+      "start_line": 9216,
+      "end_line": 10028,
+      "line_count": 813,
+      "char_count": 70906,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/cyprus.txt"
+    },
+    {
+      "name": "Falkland Islands",
+      "start_line": 10029,
+      "end_line": 10412,
+      "line_count": 384,
+      "char_count": 23346,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/falkland_islands.txt"
+    },
+    {
+      "name": "Fiji",
+      "start_line": 10413,
+      "end_line": 11527,
+      "line_count": 1115,
+      "char_count": 90709,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/fiji.txt"
+    },
+    {
+      "name": "Gambia",
+      "start_line": 11528,
+      "end_line": 11719,
+      "line_count": 192,
+      "char_count": 6130,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/gambia.txt"
+    },
+    {
+      "name": "Gibraltar",
+      "start_line": 11720,
+      "end_line": 12846,
+      "line_count": 1127,
+      "char_count": 120657,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/gibraltar.txt"
+    },
+    {
+      "name": "Gold Coast",
+      "start_line": 12847,
+      "end_line": 13766,
+      "line_count": 920,
+      "char_count": 43300,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/gold_coast.txt"
+    },
+    {
+      "name": "Hong Kong",
+      "start_line": 13767,
+      "end_line": 14697,
+      "line_count": 931,
+      "char_count": 66762,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/hong_kong.txt"
+    },
+    {
+      "name": "Jamaica",
+      "start_line": 14698,
+      "end_line": 16035,
+      "line_count": 1338,
+      "char_count": 95392,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/jamaica.txt"
+    },
+    {
+      "name": "Kenya",
+      "start_line": 16036,
+      "end_line": 17232,
+      "line_count": 1197,
+      "char_count": 87102,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/kenya.txt"
+    },
+    {
+      "name": "Leeward Islands",
+      "start_line": 17233,
+      "end_line": 18374,
+      "line_count": 1142,
+      "char_count": 59227,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/leeward_islands.txt"
+    },
+    {
+      "name": "Federation of Malaya",
+      "start_line": 18375,
+      "end_line": 19829,
+      "line_count": 1455,
+      "char_count": 116638,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/federation_of_malaya.txt"
+    },
+    {
+      "name": "Malta",
+      "start_line": 19830,
+      "end_line": 20394,
+      "line_count": 565,
+      "char_count": 33769,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/malta.txt"
+    },
+    {
+      "name": "Mauritius",
+      "start_line": 20395,
+      "end_line": 21393,
+      "line_count": 999,
+      "char_count": 65427,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/mauritius.txt"
+    },
+    {
+      "name": "Nigeria",
+      "start_line": 21394,
+      "end_line": 23173,
+      "line_count": 1780,
+      "char_count": 154989,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/nigeria.txt"
+    },
+    {
+      "name": "North Borneo",
+      "start_line": 23174,
+      "end_line": 23660,
+      "line_count": 487,
+      "char_count": 26424,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/north_borneo.txt"
+    },
+    {
+      "name": "Northern Rhodesia",
+      "start_line": 23661,
+      "end_line": 24796,
+      "line_count": 1136,
+      "char_count": 78917,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/northern_rhodesia.txt"
+    },
+    {
+      "name": "Nyasaland Protectorate",
+      "start_line": 24797,
+      "end_line": 25301,
+      "line_count": 505,
+      "char_count": 41441,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/nyasaland_protectorate.txt"
+    },
+    {
+      "name": "St. Helena",
+      "start_line": 25302,
+      "end_line": 25660,
+      "line_count": 359,
+      "char_count": 21222,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/st_helena.txt"
+    },
+    {
+      "name": "Sarawak",
+      "start_line": 25661,
+      "end_line": 26218,
+      "line_count": 558,
+      "char_count": 44960,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/sarawak.txt"
+    },
+    {
+      "name": "Seychelles",
+      "start_line": 26219,
+      "end_line": 26634,
+      "line_count": 416,
+      "char_count": 24082,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/seychelles.txt"
+    },
+    {
+      "name": "Sierra Leone",
+      "start_line": 26635,
+      "end_line": 27415,
+      "line_count": 781,
+      "char_count": 49926,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/sierra_leone.txt"
+    },
+    {
+      "name": "Singapore",
+      "start_line": 27416,
+      "end_line": 28564,
+      "line_count": 1149,
+      "char_count": 80782,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/singapore.txt"
+    },
+    {
+      "name": "Somaliland Protectorate",
+      "start_line": 28565,
+      "end_line": 28846,
+      "line_count": 282,
+      "char_count": 20976,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/somaliland_protectorate.txt"
+    },
+    {
+      "name": "Tanganyika",
+      "start_line": 28847,
+      "end_line": 29554,
+      "line_count": 708,
+      "char_count": 59829,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/tanganyika.txt"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "start_line": 29555,
+      "end_line": 30475,
+      "line_count": 921,
+      "char_count": 60184,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/trinidad_and_tobago.txt"
+    },
+    {
+      "name": "Uganda",
+      "start_line": 30476,
+      "end_line": 31230,
+      "line_count": 755,
+      "char_count": 53243,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/uganda.txt"
+    },
+    {
+      "name": "Western Pacific",
+      "start_line": 31231,
+      "end_line": 32638,
+      "line_count": 1408,
+      "char_count": 103042,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/western_pacific.txt"
+    },
+    {
+      "name": "Windward Islands",
+      "start_line": 32639,
+      "end_line": 33669,
+      "line_count": 1031,
+      "char_count": 49825,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/windward_islands.txt"
+    },
+    {
+      "name": "Zanzibar",
+      "start_line": 33670,
+      "end_line": 34087,
+      "line_count": 418,
+      "char_count": 33193,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/zanzibar.txt"
+    },
+    {
+      "name": "Miscellaneous Islands",
+      "start_line": 34088,
+      "end_line": 34417,
+      "line_count": 330,
+      "char_count": 19964,
+      "output_file": "/home/user/colonial_office_list/output_3/1951_manual_parsed/miscellaneous_islands.txt"
+    }
+  ]
+}

@@ -45,7 +45,7 @@ Cameroons Uk Trusteeship,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 Canada,y,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,y,n,n,n,n,y,y,y,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 Cape Of Good Hope,y,y,y,y,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 Cayman Islands,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,y,y,n,y,y,y,y,y,y,y,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,y,y,y,y
-Ceylon,y,y,y,y,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
+Ceylon,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 Christmas Island,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n
 Commonwealth Control,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 Cook Islands,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
@@ -55,19 +55,19 @@ Dominica Ref,n,n,n,n,y,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 Dominion Of Canada,n,y,y,y,y,y,y,y,y,y,y,y,y,n,y,y,y,y,y,y,n,n,n,n,y,y,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 East Africa High Commission,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 East Africa Protectorate,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n,y,y,y,y,y,y,y,y,y,y,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
-Falkland Islands,y,y,y,y,y,y,y,y,y,y,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,y,n,n,n,y,y,n,n,y,n,n,n,n,y,n,y
+Falkland Islands,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,y,n,n,n,y,y,n,n,y,n,n,n,n,y,n,y
 Falkland Islands And Dependencies,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,y,y,y,n,n,y,y,n,y,y,y,y,n,y,n
 Federated Malay States,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,y,y,y,n,y,y,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 Federation Of Malaya,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,y,y,y,y,y,n,y,y,y,n,n,n,n,n,n,n,n
 Federation Of Nigeria,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,y,n,y,y,n,n,n,n,n
 Federation Of Rhodesia And Nyasaland,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,y,n,y,n,n,n,n
 Federation Rhodesia Nyasaland,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n
-Fiji,n,y,y,y,y,n,y,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,y,y,y,n,y,y,y,y,n,n,y,y,y
+Fiji,n,y,y,y,y,y,y,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,y,y,y,n,y,y,y,y,n,n,y,y,y
 Fiji And Pitcairn,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n
 Fiji And Pitcairn Islands,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n
 Fiji And Pitcairn Islands Group,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,n,n
 Gambia,n,n,n,y,n,y,y,n,n,n,n,n,n,y,y,y,n,n,n,y,n,n,n,y,n,n,n,n,y,y,y,n,y,y,y,n,y,n,n,n,n,n,n,n,n,n,n,n,y,n,y,y,y,n,y,n,y,n,n,y,y,n,n,n,n,y,y,y
-Gibraltar,n,y,y,y,y,y,y,y,y,y,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y,n,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y
+Gibraltar,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y
 Gilbert And Ellice Islands,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 Gold Coast,y,n,n,n,n,n,y,n,n,n,n,n,n,y,y,n,n,n,n,y,n,n,y,y,n,n,n,n,y,y,y,n,y,y,y,n,y,n,n,n,n,n,n,n,n,n,n,n,y,y,y,y,y,n,y,n,y,n,n,n,n,n,n,n,n,n,n,n
 Gold Coast Colony,n,n,n,y,n,y,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
@@ -113,7 +113,7 @@ Malaya Federated Malay States,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,
 Malaya Straits Settlements,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 Malaya Unfederated Malay States,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 Malaysia,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n
-Malta,n,y,y,n,y,y,y,n,y,n,n,y,n,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,n,y,y,y,n,y,y,y,y,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,y,y,n
+Malta,n,y,y,n,y,y,y,n,y,n,n,y,n,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,n,y,y,y,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,y,y,n
 Mauritius,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y
 Mesopotamia,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 Miscellaneous Islands,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,y,y,y,n,y,y,y,y,y,y,y,n,y,y,y,y,y,n,y,n,n,y,y,y,y,n,y,n,y,n,n

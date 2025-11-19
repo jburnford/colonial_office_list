@@ -1,0 +1,3 @@
+**MISCELLANEOUS ISLANDS**
+
+A number of islands and rocks throughout the world are British territory or under British protection but are not included in any colony or separate protectorate. Many of these have no permanent inhabitants.

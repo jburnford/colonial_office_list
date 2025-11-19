@@ -1,0 +1,415 @@
+{
+  "year": 1867,
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1867/olmocr_results.md",
+  "extraction_date": "2025-11-18T21:24:13.201415",
+  "total_colonies": 45,
+  "method": "manual boundary identification",
+  "notes": "Earliest Colonial Office List - Victorian era formatting - just after Canadian Confederation (July 1, 1867)",
+  "colonies": [
+    {
+      "name": "ANTIGUA",
+      "filename": "antigua.txt",
+      "start_line": 1113,
+      "end_line": 1373,
+      "line_count": 261,
+      "character_count": 12155,
+      "notes": "Leeward Islands - main seat of government"
+    },
+    {
+      "name": "ANGUILLA",
+      "filename": "anguilla.txt",
+      "start_line": 1374,
+      "end_line": 1376,
+      "line_count": 3,
+      "character_count": 40,
+      "notes": "Brief reference - see St. Christopher's"
+    },
+    {
+      "name": "BAHAMAS",
+      "filename": "bahamas.txt",
+      "start_line": 1377,
+      "end_line": 1510,
+      "line_count": 134,
+      "character_count": 6590,
+      "notes": "Chain of islands"
+    },
+    {
+      "name": "BARBADOS",
+      "filename": "barbados.txt",
+      "start_line": 1511,
+      "end_line": 2200,
+      "line_count": 690,
+      "character_count": 35480,
+      "notes": "Caribbee Islands - most windward"
+    },
+    {
+      "name": "BRITISH COLUMBIA",
+      "filename": "british_columbia.txt",
+      "start_line": 2201,
+      "end_line": 2426,
+      "line_count": 226,
+      "character_count": 11113,
+      "notes": "Marked with asterisk - recently established"
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "filename": "british_guiana.txt",
+      "start_line": 2427,
+      "end_line": 2927,
+      "line_count": 501,
+      "character_count": 22894,
+      "notes": "South American mainland"
+    },
+    {
+      "name": "BULAMA",
+      "filename": "bulama.txt",
+      "start_line": 2928,
+      "end_line": 2936,
+      "line_count": 9,
+      "character_count": 513,
+      "notes": "Dependency of Sierra Leone"
+    },
+    {
+      "name": "CANADA",
+      "filename": "canada.txt",
+      "start_line": 2937,
+      "end_line": 3187,
+      "line_count": 251,
+      "character_count": 12217,
+      "notes": "Just after Confederation - July 1, 1867"
+    },
+    {
+      "name": "CAPE OF GOOD HOPE",
+      "filename": "cape_of_good_hope.txt",
+      "start_line": 3188,
+      "end_line": 4059,
+      "line_count": 872,
+      "character_count": 31276,
+      "notes": "South Africa"
+    },
+    {
+      "name": "CEYLON",
+      "filename": "ceylon.txt",
+      "start_line": 4060,
+      "end_line": 4523,
+      "line_count": 464,
+      "character_count": 18146,
+      "notes": "Island colony"
+    },
+    {
+      "name": "DOMINICA",
+      "filename": "dominica.txt",
+      "start_line": 4524,
+      "end_line": 4640,
+      "line_count": 117,
+      "character_count": 7997,
+      "notes": "West Indies"
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "filename": "falkland_islands.txt",
+      "start_line": 4641,
+      "end_line": 5099,
+      "line_count": 459,
+      "character_count": 20211,
+      "notes": "South Atlantic"
+    },
+    {
+      "name": "HONDURAS",
+      "filename": "honduras.txt",
+      "start_line": 5100,
+      "end_line": 5119,
+      "line_count": 20,
+      "character_count": 2855,
+      "notes": "Central America"
+    },
+    {
+      "name": "HELIGOLAND",
+      "filename": "heligoland.txt",
+      "start_line": 5120,
+      "end_line": 5313,
+      "line_count": 194,
+      "character_count": 10369,
+      "notes": "North Sea island"
+    },
+    {
+      "name": "HONG KONG",
+      "filename": "hong_kong.txt",
+      "start_line": 5314,
+      "end_line": 5556,
+      "line_count": 243,
+      "character_count": 10016,
+      "notes": "East Asia"
+    },
+    {
+      "name": "JAMAICA",
+      "filename": "jamaica.txt",
+      "start_line": 5557,
+      "end_line": 5962,
+      "line_count": 406,
+      "character_count": 29041,
+      "notes": "West Indies"
+    },
+    {
+      "name": "LABUAN",
+      "filename": "labuan.txt",
+      "start_line": 5963,
+      "end_line": 7259,
+      "line_count": 1297,
+      "character_count": 59754,
+      "notes": "Southeast Asia"
+    },
+    {
+      "name": "NEVIS",
+      "filename": "nevis.txt",
+      "start_line": 7260,
+      "end_line": 7382,
+      "line_count": 123,
+      "character_count": 5341,
+      "notes": "Leeward Islands"
+    },
+    {
+      "name": "NEW BRUNSWICK",
+      "filename": "new_brunswick.txt",
+      "start_line": 7383,
+      "end_line": 7655,
+      "line_count": 273,
+      "character_count": 9002,
+      "notes": "British North America"
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "filename": "newfoundland.txt",
+      "start_line": 7656,
+      "end_line": 7871,
+      "line_count": 216,
+      "character_count": 8317,
+      "notes": "British North America"
+    },
+    {
+      "name": "NEW SOUTH WALES",
+      "filename": "new_south_wales.txt",
+      "start_line": 7872,
+      "end_line": 8458,
+      "line_count": 587,
+      "character_count": 19804,
+      "notes": "Australia"
+    },
+    {
+      "name": "NEW ZEALAND",
+      "filename": "new_zealand.txt",
+      "start_line": 8459,
+      "end_line": 8853,
+      "line_count": 395,
+      "character_count": 15696,
+      "notes": "Pacific"
+    },
+    {
+      "name": "NOVA SCOTIA",
+      "filename": "nova_scotia.txt",
+      "start_line": 8854,
+      "end_line": 9135,
+      "line_count": 282,
+      "character_count": 8839,
+      "notes": "British North America - marked with asterisk"
+    },
+    {
+      "name": "PRINCE EDWARD ISLAND",
+      "filename": "prince_edward_island.txt",
+      "start_line": 9136,
+      "end_line": 9301,
+      "line_count": 166,
+      "character_count": 6135,
+      "notes": "British North America"
+    },
+    {
+      "name": "QUEENSLAND",
+      "filename": "queensland.txt",
+      "start_line": 9302,
+      "end_line": 9539,
+      "line_count": 238,
+      "character_count": 13697,
+      "notes": "Australia"
+    },
+    {
+      "name": "ST. CHRISTOPHER'S AND ANGUILLA (AND NEVIS)",
+      "filename": "st_christophers_and_anguilla_and_nevis.txt",
+      "start_line": 9540,
+      "end_line": 9699,
+      "line_count": 160,
+      "character_count": 9070,
+      "notes": "Combined administration"
+    },
+    {
+      "name": "ANGUILLA",
+      "filename": "anguilla.txt",
+      "start_line": 9700,
+      "end_line": 9711,
+      "line_count": 12,
+      "character_count": 1338,
+      "notes": "Full section - part of St. Christopher's government"
+    },
+    {
+      "name": "ST. HELENA",
+      "filename": "st_helena.txt",
+      "start_line": 9712,
+      "end_line": 9870,
+      "line_count": 159,
+      "character_count": 5854,
+      "notes": "South Atlantic"
+    },
+    {
+      "name": "ST. LUCIA",
+      "filename": "st_lucia.txt",
+      "start_line": 9871,
+      "end_line": 10069,
+      "line_count": 199,
+      "character_count": 13109,
+      "notes": "West Indies"
+    },
+    {
+      "name": "SAINT VINCENT",
+      "filename": "saint_vincent.txt",
+      "start_line": 10070,
+      "end_line": 10340,
+      "line_count": 271,
+      "character_count": 18538,
+      "notes": "West Indies"
+    },
+    {
+      "name": "SIERRA LEONE",
+      "filename": "sierra_leone.txt",
+      "start_line": 10341,
+      "end_line": 10344,
+      "line_count": 4,
+      "character_count": 46,
+      "notes": "West Africa - brief section, see also West African Settlements"
+    },
+    {
+      "name": "SOUTH AUSTRALIA",
+      "filename": "south_australia.txt",
+      "start_line": 10345,
+      "end_line": 10904,
+      "line_count": 560,
+      "character_count": 19323,
+      "notes": "Australia"
+    },
+    {
+      "name": "STRAITS SETTLEMENTS",
+      "filename": "straits_settlements.txt",
+      "start_line": 10905,
+      "end_line": 11080,
+      "line_count": 176,
+      "character_count": 14091,
+      "notes": "Southeast Asia"
+    },
+    {
+      "name": "SINGAPORE",
+      "filename": "singapore.txt",
+      "start_line": 11081,
+      "end_line": 11362,
+      "line_count": 282,
+      "character_count": 6174,
+      "notes": "Part of Straits Settlements"
+    },
+    {
+      "name": "TASMANIA",
+      "filename": "tasmania.txt",
+      "start_line": 11363,
+      "end_line": 11678,
+      "line_count": 316,
+      "character_count": 13338,
+      "notes": "Australia - formerly Van Diemen's Land"
+    },
+    {
+      "name": "TOBAGO",
+      "filename": "tobago.txt",
+      "start_line": 11679,
+      "end_line": 12033,
+      "line_count": 355,
+      "character_count": 24029,
+      "notes": "West Indies"
+    },
+    {
+      "name": "TRINIDAD",
+      "filename": "trinidad.txt",
+      "start_line": 12034,
+      "end_line": 12288,
+      "line_count": 255,
+      "character_count": 9386,
+      "notes": "West Indies"
+    },
+    {
+      "name": "TURKS AND CAICOS ISLANDS",
+      "filename": "turks_and_caicos_islands.txt",
+      "start_line": 12289,
+      "end_line": 12385,
+      "line_count": 97,
+      "character_count": 3857,
+      "notes": "West Indies"
+    },
+    {
+      "name": "VICTORIA",
+      "filename": "victoria.txt",
+      "start_line": 12386,
+      "end_line": 13112,
+      "line_count": 727,
+      "character_count": 26594,
+      "notes": "Australia"
+    },
+    {
+      "name": "WESTERN AUSTRALIA",
+      "filename": "western_australia.txt",
+      "start_line": 13113,
+      "end_line": 13285,
+      "line_count": 173,
+      "character_count": 6204,
+      "notes": "Australia"
+    },
+    {
+      "name": "WEST AFRICAN SETTLEMENTS",
+      "filename": "west_african_settlements.txt",
+      "start_line": 13286,
+      "end_line": 13406,
+      "line_count": 121,
+      "character_count": 7132,
+      "notes": "Umbrella administration for Sierra Leone, Gambia, Gold Coast, and Lagos"
+    },
+    {
+      "name": "THE GAMBIA",
+      "filename": "the_gambia.txt",
+      "start_line": 13407,
+      "end_line": 13519,
+      "line_count": 113,
+      "character_count": 6760,
+      "notes": "West Africa - part of West African Settlements"
+    },
+    {
+      "name": "GOLD COAST",
+      "filename": "gold_coast.txt",
+      "start_line": 13520,
+      "end_line": 13590,
+      "line_count": 71,
+      "character_count": 5686,
+      "notes": "West Africa - part of West African Settlements"
+    },
+    {
+      "name": "LAGOS",
+      "filename": "lagos.txt",
+      "start_line": 13591,
+      "end_line": 13683,
+      "line_count": 93,
+      "character_count": 4409,
+      "notes": "West Africa - part of West African Settlements - bold formatting"
+    },
+    {
+      "name": "VANCOUVER'S ISLAND",
+      "filename": "vancouvers_island.txt",
+      "start_line": 13684,
+      "end_line": 13712,
+      "line_count": 29,
+      "character_count": 3261,
+      "notes": "Pacific Northwest - about to be incorporated into British Columbia"
+    }
+  ]
+}

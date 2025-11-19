@@ -1,0 +1,13 @@
+ASCENSION.
+
+The island of Ascension, 34 square miles in area, lying in the South Atlantic, lat. 7° 53' S. and long. 14° 18' W., was taken possession of in 1815, and, until 1922, it was under the supervision of the Admiralty and a small naval station was maintained there.
+
+By Letters Patent dated 12th September, 1922, it was made a Dependency of St. Helena and placed under the control of the Secretary of State for the Colonies.
+
+It is famous for its turtles, large numbers of which are caught between December and May. It is connected by telegraph with St. Vincent, St. Helena, and Sierra Leone, and is an important cable station of the Eastern Telegraph Company. It is a barren, rocky peak of purely volcanic origin, and destitute of vegetation, except at the highest point, 2,870 feet high, but has been cultivated to an extent permitting the maintenance of about 600 sheep and cattle.
+
+Population at 1931 Census, 188, of whom 126 are St. Helenians.
+
+Resident Magistrate and Receiver of Wrecks, E. A. Willmott.
+Postmaster, G. D. de L. Hawthorne.
+Harbour Master, J. S. M. Biggs.

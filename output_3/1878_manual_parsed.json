@@ -1,0 +1,323 @@
+{
+  "year": 1878,
+  "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1878/olmocr_results.md",
+  "extraction_date": "2025-11-18",
+  "extraction_method": "Manual LLM boundary identification with systematic document review",
+  "total_colonies": 38,
+  "notes": [
+    "All colony boundaries manually identified by reading OCR content",
+    "PART II (Colonies) runs from line ~1184 to line 18441",
+    "PART III (Emigration) starts at line 18442",
+    "Line number prefixes removed from extracted text",
+    "Some colonies contain sub-sections (e.g., Leeward Islands, Windward Islands)",
+    "Windward Islands section includes Barbados, Tobago, St. Vincent, St. Lucia, and Grenada",
+    "Leeward Islands section includes Antigua, Montserrat, Nevis, St. Kitts, Dominica, Virgin Islands, Anguilla",
+    "Some headers may have OCR errors (punctuation, spacing)"
+  ],
+  "colonies": [
+    {
+      "colony_name": "BAHAMAS",
+      "start_line": 1343,
+      "end_line": 1576,
+      "line_count": 234,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/BAHAMAS.txt",
+      "note": "First colony in Part II"
+    },
+    {
+      "colony_name": "BERMUDAS",
+      "start_line": 1585,
+      "end_line": 1846,
+      "line_count": 262,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/BERMUDAS.txt",
+      "note": "Also called Somers' Islands"
+    },
+    {
+      "colony_name": "BRITISH GUIANA",
+      "start_line": 1853,
+      "end_line": 2474,
+      "line_count": 622,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/BRITISH_GUIANA.txt",
+      "note": "Includes Demerara, Essequebo, and Berbice"
+    },
+    {
+      "colony_name": "DOMINION OF CANADA",
+      "start_line": 2475,
+      "end_line": 4263,
+      "line_count": 1789,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/DOMINION_OF_CANADA.txt",
+      "note": "Includes all Canadian provinces"
+    },
+    {
+      "colony_name": "CAPE OF GOOD HOPE",
+      "start_line": 4264,
+      "end_line": 5589,
+      "line_count": 1326,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/CAPE_OF_GOOD_HOPE.txt",
+      "note": "South African colony"
+    },
+    {
+      "colony_name": "CEYLON",
+      "start_line": 5590,
+      "end_line": 6162,
+      "line_count": 573,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/CEYLON.txt",
+      "note": "Indian Ocean island"
+    },
+    {
+      "colony_name": "FALKLAND ISLANDS",
+      "start_line": 6163,
+      "end_line": 6270,
+      "line_count": 108,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/FALKLAND_ISLANDS.txt",
+      "note": "South Atlantic islands"
+    },
+    {
+      "colony_name": "FIJI",
+      "start_line": 6271,
+      "end_line": 6357,
+      "line_count": 87,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/FIJI.txt",
+      "note": "Pacific islands"
+    },
+    {
+      "colony_name": "GIBRALTAR",
+      "start_line": 6358,
+      "end_line": 6464,
+      "line_count": 107,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/GIBRALTAR.txt",
+      "note": "Mediterranean British territory"
+    },
+    {
+      "colony_name": "THE GOLD COAST",
+      "start_line": 6465,
+      "end_line": 6541,
+      "line_count": 77,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/THE_GOLD_COAST.txt",
+      "note": "West African colony (before Lagos)"
+    },
+    {
+      "colony_name": "LAGOS",
+      "start_line": 6542,
+      "end_line": 7268,
+      "line_count": 727,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/LAGOS.txt",
+      "note": "West African settlement, part of Gold Coast"
+    },
+    {
+      "colony_name": "HELIGOLAND",
+      "start_line": 7269,
+      "end_line": 7309,
+      "line_count": 41,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/HELIGOLAND.txt",
+      "note": "North Sea island"
+    },
+    {
+      "colony_name": "HONDURAS",
+      "start_line": 7310,
+      "end_line": 7525,
+      "line_count": 216,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/HONDURAS.txt",
+      "note": "Central American British Honduras"
+    },
+    {
+      "colony_name": "HONG KONG",
+      "start_line": 7526,
+      "end_line": 7794,
+      "line_count": 269,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/HONG_KONG.txt",
+      "note": "Chinese island colony"
+    },
+    {
+      "colony_name": "JAMAICA",
+      "start_line": 7795,
+      "end_line": 8437,
+      "line_count": 643,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/JAMAICA.txt",
+      "note": "Caribbean island colony"
+    },
+    {
+      "colony_name": "LABUAN",
+      "start_line": 8438,
+      "end_line": 8810,
+      "line_count": 373,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/LABUAN.txt",
+      "note": "Borneo island"
+    },
+    {
+      "colony_name": "LEEWARD ISLANDS",
+      "start_line": 8811,
+      "end_line": 9534,
+      "line_count": 724,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/LEEWARD_ISLANDS.txt",
+      "note": "Caribbean island federation"
+    },
+    {
+      "colony_name": "ANGUILLA",
+      "start_line": 9535,
+      "end_line": 9548,
+      "line_count": 14,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/ANGUILLA.txt",
+      "note": "Small Caribbean island, part of Leeward Islands"
+    },
+    {
+      "colony_name": "VIRGIN ISLANDS",
+      "start_line": 9549,
+      "end_line": 9792,
+      "line_count": 244,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/VIRGIN_ISLANDS.txt",
+      "note": "Caribbean islands, part of Leeward Islands"
+    },
+    {
+      "colony_name": "MALTA",
+      "start_line": 9793,
+      "end_line": 10212,
+      "line_count": 420,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/MALTA.txt",
+      "note": "Mediterranean island"
+    },
+    {
+      "colony_name": "MAURITIUS",
+      "start_line": 10213,
+      "end_line": 10814,
+      "line_count": 602,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/MAURITIUS.txt",
+      "note": "Indian Ocean island"
+    },
+    {
+      "colony_name": "MONTSERRAT",
+      "start_line": 10815,
+      "end_line": 10887,
+      "line_count": 73,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/MONTSERRAT.txt",
+      "note": "Caribbean island, part of Leeward Islands"
+    },
+    {
+      "colony_name": "NATAL",
+      "start_line": 10891,
+      "end_line": 11285,
+      "line_count": 395,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/NATAL.txt",
+      "note": "South African colony"
+    },
+    {
+      "colony_name": "NEWFOUNDLAND",
+      "start_line": 11286,
+      "end_line": 11520,
+      "line_count": 235,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/NEWFOUNDLAND.txt",
+      "note": "North American island"
+    },
+    {
+      "colony_name": "NEW SOUTH WALES",
+      "start_line": 11521,
+      "end_line": 12284,
+      "line_count": 764,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/NEW_SOUTH_WALES.txt",
+      "note": "Australian colony"
+    },
+    {
+      "colony_name": "NEW ZEALAND",
+      "start_line": 12285,
+      "end_line": 12800,
+      "line_count": 516,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/NEW_ZEALAND.txt",
+      "note": "Pacific colony"
+    },
+    {
+      "colony_name": "QUEENSLAND",
+      "start_line": 12801,
+      "end_line": 13289,
+      "line_count": 489,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/QUEENSLAND.txt",
+      "note": "Australian colony"
+    },
+    {
+      "colony_name": "SOUTH AUSTRALIA",
+      "start_line": 13290,
+      "end_line": 14171,
+      "line_count": 882,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/SOUTH_AUSTRALIA.txt",
+      "note": "Australian colony"
+    },
+    {
+      "colony_name": "STRAITS SETTLEMENTS",
+      "start_line": 14172,
+      "end_line": 14510,
+      "line_count": 339,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/STRAITS_SETTLEMENTS.txt",
+      "note": "Southeast Asian settlements"
+    },
+    {
+      "colony_name": "TASMANIA",
+      "start_line": 14511,
+      "end_line": 15106,
+      "line_count": 596,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/TASMANIA.txt",
+      "note": "Australian island colony"
+    },
+    {
+      "colony_name": "THE TRANSVAAL",
+      "start_line": 15107,
+      "end_line": 15205,
+      "line_count": 99,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/THE_TRANSVAAL.txt",
+      "note": "South African territory"
+    },
+    {
+      "colony_name": "TRINIDAD",
+      "start_line": 15206,
+      "end_line": 15867,
+      "line_count": 662,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/TRINIDAD.txt",
+      "note": "Caribbean island"
+    },
+    {
+      "colony_name": "TURKS AND CAICOS ISLANDS",
+      "start_line": 15868,
+      "end_line": 16468,
+      "line_count": 601,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/TURKS_AND_CAICOS_ISLANDS.txt",
+      "note": "Caribbean islands"
+    },
+    {
+      "colony_name": "VICTORIA",
+      "start_line": 16469,
+      "end_line": 16641,
+      "line_count": 173,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/VICTORIA.txt",
+      "note": "Australian colony"
+    },
+    {
+      "colony_name": "WESTERN AUSTRALIA",
+      "start_line": 16642,
+      "end_line": 16828,
+      "line_count": 187,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/WESTERN_AUSTRALIA.txt",
+      "note": "Australian colony"
+    },
+    {
+      "colony_name": "WEST AFRICA GAMBIA",
+      "start_line": 16829,
+      "end_line": 16880,
+      "line_count": 52,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/WEST_AFRICA_GAMBIA.txt",
+      "note": "West African settlements - Gambia"
+    },
+    {
+      "colony_name": "SIERRA LEONE",
+      "start_line": 16881,
+      "end_line": 17271,
+      "line_count": 391,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/SIERRA_LEONE.txt",
+      "note": "West African colony"
+    },
+    {
+      "colony_name": "WINDWARD ISLANDS",
+      "start_line": 17272,
+      "end_line": 18441,
+      "line_count": 1170,
+      "file": "/home/user/colonial_office_list/output_3/1878_manual_parsed/WINDWARD_ISLANDS.txt",
+      "note": "Caribbean island federation, includes Barbados, St. Vincent, St. Lucia, Grenada, Tobago"
+    }
+  ]
+}

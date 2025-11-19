@@ -1,0 +1,490 @@
+{
+  "extraction_date": "2025-11-18T21:54:12.873874",
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1880/olmocr_results.md",
+  "total_source_lines": 28004,
+  "colonies_extracted": 48,
+  "year": 1880,
+  "methodology": "Manual boundary identification following 1879 approach",
+  "colonies": [
+    {
+      "name": "ANTIGUA",
+      "filename": "antigua.txt",
+      "start_line": 988,
+      "end_line": 990,
+      "line_count": 3,
+      "character_count": 41,
+      "word_count": 6,
+      "notes": "Reference to Leeward Islands"
+    },
+    {
+      "name": "ANGUILLA",
+      "filename": "anguilla.txt",
+      "start_line": 991,
+      "end_line": 993,
+      "line_count": 3,
+      "character_count": 44,
+      "word_count": 6,
+      "notes": "Reference to Leeward Islands"
+    },
+    {
+      "name": "BARBADOS_REF",
+      "filename": "barbados_ref.txt",
+      "start_line": 1244,
+      "end_line": 1247,
+      "line_count": 4,
+      "character_count": 44,
+      "word_count": 6,
+      "notes": "Reference to Windward Islands"
+    },
+    {
+      "name": "DOMINICA_REF",
+      "filename": "dominica_ref.txt",
+      "start_line": 6514,
+      "end_line": 6517,
+      "line_count": 4,
+      "character_count": 43,
+      "word_count": 6,
+      "notes": "Reference to Leeward Islands"
+    },
+    {
+      "name": "GRENADE_REF",
+      "filename": "grenade_ref.txt",
+      "start_line": 7439,
+      "end_line": 7442,
+      "line_count": 4,
+      "character_count": 43,
+      "word_count": 6,
+      "notes": "Reference to Windward Islands"
+    },
+    {
+      "name": "NEVIS_REF",
+      "filename": "nevis_ref.txt",
+      "start_line": 11583,
+      "end_line": 11586,
+      "line_count": 4,
+      "character_count": 40,
+      "word_count": 6,
+      "notes": "Reference to Leeward Islands"
+    },
+    {
+      "name": "TOBAGO_REF",
+      "filename": "tobago_ref.txt",
+      "start_line": 15502,
+      "end_line": 15504,
+      "line_count": 3,
+      "character_count": 41,
+      "word_count": 6,
+      "notes": "Reference to Windward Islands"
+    },
+    {
+      "name": "BAHAMAS",
+      "filename": "bahamas.txt",
+      "start_line": 994,
+      "end_line": 1243,
+      "line_count": 250,
+      "character_count": 12061,
+      "word_count": 1840,
+      "notes": "Full section"
+    },
+    {
+      "name": "BERMUDAS",
+      "filename": "bermudas.txt",
+      "start_line": 1249,
+      "end_line": 1504,
+      "line_count": 256,
+      "character_count": 12953,
+      "word_count": 2109,
+      "notes": "Full section"
+    },
+    {
+      "name": "BRITISH_GUIANA",
+      "filename": "british_guiana.txt",
+      "start_line": 1506,
+      "end_line": 2225,
+      "line_count": 720,
+      "character_count": 30365,
+      "word_count": 4733,
+      "notes": "Full section"
+    },
+    {
+      "name": "BRITISH_HONDURAS",
+      "filename": "british_honduras.txt",
+      "start_line": 2227,
+      "end_line": 2429,
+      "line_count": 203,
+      "character_count": 12614,
+      "word_count": 2016,
+      "notes": "Full section"
+    },
+    {
+      "name": "DOMINION_OF_CANADA",
+      "filename": "dominion_of_canada.txt",
+      "start_line": 2431,
+      "end_line": 4542,
+      "line_count": 2112,
+      "character_count": 105570,
+      "word_count": 16522,
+      "notes": "Full section including provinces"
+    },
+    {
+      "name": "CAPE_OF_GOOD_HOPE",
+      "filename": "cape_of_good_hope.txt",
+      "start_line": 4544,
+      "end_line": 5966,
+      "line_count": 1423,
+      "character_count": 73725,
+      "word_count": 11447,
+      "notes": "Full section"
+    },
+    {
+      "name": "CEYLON",
+      "filename": "ceylon.txt",
+      "start_line": 5968,
+      "end_line": 6513,
+      "line_count": 546,
+      "character_count": 27144,
+      "word_count": 4273,
+      "notes": "Full section"
+    },
+    {
+      "name": "FALKLAND_ISLANDS",
+      "filename": "falkland_islands.txt",
+      "start_line": 6518,
+      "end_line": 6648,
+      "line_count": 131,
+      "character_count": 7258,
+      "word_count": 1215,
+      "notes": "Full section"
+    },
+    {
+      "name": "FIJI",
+      "filename": "fiji.txt",
+      "start_line": 6650,
+      "end_line": 6769,
+      "line_count": 120,
+      "character_count": 10011,
+      "word_count": 1590,
+      "notes": "Full section - FIJI returns in 1880"
+    },
+    {
+      "name": "GIBRALTAR",
+      "filename": "gibraltar.txt",
+      "start_line": 6771,
+      "end_line": 6876,
+      "line_count": 106,
+      "character_count": 4253,
+      "word_count": 705,
+      "notes": "Full section"
+    },
+    {
+      "name": "THE_GOLD_COAST_COLONY",
+      "filename": "the_gold_coast_colony.txt",
+      "start_line": 6878,
+      "end_line": 7438,
+      "line_count": 561,
+      "character_count": 56397,
+      "word_count": 7416,
+      "notes": "Full section - includes Lagos subsection at 6954"
+    },
+    {
+      "name": "GRIQUALAND_WEST",
+      "filename": "griqualand_west.txt",
+      "start_line": 7443,
+      "end_line": 7681,
+      "line_count": 239,
+      "character_count": 15753,
+      "word_count": 2512,
+      "notes": "Full section"
+    },
+    {
+      "name": "HELIGOLAND",
+      "filename": "heligoland.txt",
+      "start_line": 7683,
+      "end_line": 7726,
+      "line_count": 44,
+      "character_count": 2470,
+      "word_count": 409,
+      "notes": "Full section"
+    },
+    {
+      "name": "HONG_KONG",
+      "filename": "hong_kong.txt",
+      "start_line": 7727,
+      "end_line": 8013,
+      "line_count": 287,
+      "character_count": 13324,
+      "word_count": 2107,
+      "notes": "Full section"
+    },
+    {
+      "name": "JAMAICA",
+      "filename": "jamaica.txt",
+      "start_line": 8014,
+      "end_line": 8647,
+      "line_count": 634,
+      "character_count": 31298,
+      "word_count": 5271,
+      "notes": "Full section"
+    },
+    {
+      "name": "LABUAN",
+      "filename": "labuan.txt",
+      "start_line": 8649,
+      "end_line": 8755,
+      "line_count": 107,
+      "character_count": 4471,
+      "word_count": 741,
+      "notes": "Full section"
+    },
+    {
+      "name": "LEEWARD_ISLANDS",
+      "filename": "leeward_islands.txt",
+      "start_line": 8756,
+      "end_line": 9958,
+      "line_count": 1203,
+      "character_count": 58192,
+      "word_count": 9818,
+      "notes": "Full consolidated section"
+    },
+    {
+      "name": "MALTA",
+      "filename": "malta.txt",
+      "start_line": 9959,
+      "end_line": 10287,
+      "line_count": 329,
+      "character_count": 14742,
+      "word_count": 2359,
+      "notes": "Full section - no header"
+    },
+    {
+      "name": "MAURITIUS",
+      "filename": "mauritius.txt",
+      "start_line": 10289,
+      "end_line": 11043,
+      "line_count": 755,
+      "character_count": 37565,
+      "word_count": 6459,
+      "notes": "Full section"
+    },
+    {
+      "name": "NATAL",
+      "filename": "natal.txt",
+      "start_line": 11044,
+      "end_line": 11582,
+      "line_count": 539,
+      "character_count": 34410,
+      "word_count": 5629,
+      "notes": "Full section"
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "filename": "newfoundland.txt",
+      "start_line": 11587,
+      "end_line": 11837,
+      "line_count": 251,
+      "character_count": 10853,
+      "word_count": 1754,
+      "notes": "Full section"
+    },
+    {
+      "name": "NEW_SOUTH_WALES",
+      "filename": "new_south_wales.txt",
+      "start_line": 11838,
+      "end_line": 12675,
+      "line_count": 838,
+      "character_count": 35261,
+      "word_count": 5774,
+      "notes": "Full section"
+    },
+    {
+      "name": "NEW_ZEALAND",
+      "filename": "new_zealand.txt",
+      "start_line": 12677,
+      "end_line": 13168,
+      "line_count": 492,
+      "character_count": 21424,
+      "word_count": 3499,
+      "notes": "Full section"
+    },
+    {
+      "name": "QUEENSLAND",
+      "filename": "queensland.txt",
+      "start_line": 13169,
+      "end_line": 13575,
+      "line_count": 407,
+      "character_count": 32505,
+      "word_count": 5262,
+      "notes": "Full section - no header"
+    },
+    {
+      "name": "ST_HELENA",
+      "filename": "st_helena.txt",
+      "start_line": 13576,
+      "end_line": 13678,
+      "line_count": 103,
+      "character_count": 5841,
+      "word_count": 988,
+      "notes": "Full section"
+    },
+    {
+      "name": "SOUTH_AUSTRALIA",
+      "filename": "south_australia.txt",
+      "start_line": 13680,
+      "end_line": 14738,
+      "line_count": 1059,
+      "character_count": 51412,
+      "word_count": 8260,
+      "notes": "Full section"
+    },
+    {
+      "name": "STRAITS_SETTLEMENTS",
+      "filename": "straits_settlements.txt",
+      "start_line": 14739,
+      "end_line": 15182,
+      "line_count": 444,
+      "character_count": 21344,
+      "word_count": 3378,
+      "notes": "Full section"
+    },
+    {
+      "name": "TASMANIA",
+      "filename": "tasmania.txt",
+      "start_line": 15184,
+      "end_line": 15501,
+      "line_count": 318,
+      "character_count": 17545,
+      "word_count": 2993,
+      "notes": "Full section"
+    },
+    {
+      "name": "THE_TRANSVAAL",
+      "filename": "the_transvaal.txt",
+      "start_line": 15505,
+      "end_line": 15684,
+      "line_count": 180,
+      "character_count": 13748,
+      "word_count": 2221,
+      "notes": "Full section - annexed 1877"
+    },
+    {
+      "name": "TRINIDAD",
+      "filename": "trinidad.txt",
+      "start_line": 15686,
+      "end_line": 16452,
+      "line_count": 767,
+      "character_count": 30344,
+      "word_count": 4752,
+      "notes": "Full section"
+    },
+    {
+      "name": "TURKS_AND_CAICOS_ISLANDS",
+      "filename": "turks_and_caicos_islands.txt",
+      "start_line": 16454,
+      "end_line": 16526,
+      "line_count": 73,
+      "character_count": 3532,
+      "word_count": 626,
+      "notes": "Full section"
+    },
+    {
+      "name": "VICTORIA",
+      "filename": "victoria.txt",
+      "start_line": 16528,
+      "end_line": 17100,
+      "line_count": 573,
+      "character_count": 24989,
+      "word_count": 3811,
+      "notes": "Full section"
+    },
+    {
+      "name": "SIERRA_LEONE",
+      "filename": "sierra_leone.txt",
+      "start_line": 17107,
+      "end_line": 17413,
+      "line_count": 307,
+      "character_count": 13813,
+      "word_count": 2260,
+      "notes": "Part of West Africa Settlements"
+    },
+    {
+      "name": "THE_GAMBIA",
+      "filename": "the_gambia.txt",
+      "start_line": 17414,
+      "end_line": 17554,
+      "line_count": 141,
+      "character_count": 7056,
+      "word_count": 1200,
+      "notes": "Part of West Africa Settlements (spelled GAMBLIA in OCR)"
+    },
+    {
+      "name": "WESTERN_AUSTRALIA",
+      "filename": "western_australia.txt",
+      "start_line": 17556,
+      "end_line": 18055,
+      "line_count": 500,
+      "character_count": 18112,
+      "word_count": 2709,
+      "notes": "Full section"
+    },
+    {
+      "name": "THE_WINDWARD_ISLANDS",
+      "filename": "the_windward_islands.txt",
+      "start_line": 18057,
+      "end_line": 19347,
+      "line_count": 1291,
+      "character_count": 78206,
+      "word_count": 12683,
+      "notes": "Full consolidated section"
+    },
+    {
+      "name": "BARBADOS_WINDWARD",
+      "filename": "barbados_windward.txt",
+      "start_line": 18060,
+      "end_line": 18494,
+      "line_count": 435,
+      "character_count": 27287,
+      "word_count": 4287,
+      "notes": "Barbados within Windward Islands"
+    },
+    {
+      "name": "ST_VINCENT",
+      "filename": "st_vincent.txt",
+      "start_line": 18495,
+      "end_line": 18722,
+      "line_count": 228,
+      "character_count": 16839,
+      "word_count": 2796,
+      "notes": "St. Vincent within Windward Islands"
+    },
+    {
+      "name": "GRENADA_WINDWARD",
+      "filename": "grenada_windward.txt",
+      "start_line": 18723,
+      "end_line": 18967,
+      "line_count": 245,
+      "character_count": 10433,
+      "word_count": 1676,
+      "notes": "Grenada within Windward Islands"
+    },
+    {
+      "name": "TOBAGO_WINDWARD",
+      "filename": "tobago_windward.txt",
+      "start_line": 18968,
+      "end_line": 19191,
+      "line_count": 224,
+      "character_count": 12292,
+      "word_count": 2014,
+      "notes": "Tobago within Windward Islands"
+    },
+    {
+      "name": "ST_LUCIA",
+      "filename": "st_lucia.txt",
+      "start_line": 19192,
+      "end_line": 19347,
+      "line_count": 156,
+      "character_count": 11331,
+      "word_count": 1907,
+      "notes": "St. Lucia within Windward Islands"
+    }
+  ]
+}

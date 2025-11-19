@@ -1,0 +1,411 @@
+{
+  "year": 1877,
+  "parser": "manual_llm",
+  "total_colonies": 47,
+  "full_colonies": 34,
+  "redirects": 13,
+  "colonies": [
+    {
+      "name": "ANTIGUA",
+      "start_line": 1308,
+      "end_line": 1310,
+      "line_count": 3,
+      "char_count": 40,
+      "file": "ANTIGUA.txt",
+      "redirect": "Leeward Islands, p. 89",
+      "notes": "Redirect to Leeward Islands, p. 89"
+    },
+    {
+      "name": "ANGUILLA",
+      "start_line": 1311,
+      "end_line": 1313,
+      "line_count": 3,
+      "char_count": 43,
+      "file": "ANGUILLA.txt",
+      "redirect": "Leeward Islands, page 95",
+      "notes": "Redirect to Leeward Islands, page 95"
+    },
+    {
+      "name": "BAHAMAS",
+      "start_line": 1314,
+      "end_line": 1576,
+      "line_count": 263,
+      "char_count": 11127,
+      "file": "BAHAMAS.txt"
+    },
+    {
+      "name": "BARBADOS",
+      "start_line": 1577,
+      "end_line": 1582,
+      "line_count": 6,
+      "char_count": 49,
+      "file": "BARBADOS.txt",
+      "redirect": "Windward Islands, p. 161",
+      "notes": "Redirect to Windward Islands, p. 161"
+    },
+    {
+      "name": "BERMUDAS",
+      "start_line": 1583,
+      "end_line": 1813,
+      "line_count": 231,
+      "char_count": 12356,
+      "file": "BERMUDAS.txt"
+    },
+    {
+      "name": "BRITISH_COLUMBIA_AND_VANCOUVER_ISLAND",
+      "start_line": 1814,
+      "end_line": 1816,
+      "line_count": 3,
+      "char_count": 73,
+      "file": "BRITISH_COLUMBIA_AND_VANCOUVER_ISLAND.txt",
+      "redirect": "Dominion of Canada, p. 29",
+      "notes": "Redirect to Dominion of Canada, p. 29"
+    },
+    {
+      "name": "BRITISH_HONDURAS",
+      "start_line": 1817,
+      "end_line": 1819,
+      "line_count": 3,
+      "char_count": 44,
+      "file": "BRITISH_HONDURAS.txt",
+      "redirect": "Honduras, page 75",
+      "notes": "Redirect to Honduras, page 75"
+    },
+    {
+      "name": "BRITISH_GUIANA",
+      "start_line": 1820,
+      "end_line": 2455,
+      "line_count": 636,
+      "char_count": 29021,
+      "file": "BRITISH_GUIANA.txt"
+    },
+    {
+      "name": "DOMINION_OF_CANADA",
+      "start_line": 2456,
+      "end_line": 4322,
+      "line_count": 1867,
+      "char_count": 99422,
+      "file": "DOMINION_OF_CANADA.txt"
+    },
+    {
+      "name": "CAPE_OF_GOOD_HOPE",
+      "start_line": 4323,
+      "end_line": 5611,
+      "line_count": 1289,
+      "char_count": 50034,
+      "file": "CAPE_OF_GOOD_HOPE.txt"
+    },
+    {
+      "name": "CEYLON",
+      "start_line": 5612,
+      "end_line": 6182,
+      "line_count": 571,
+      "char_count": 26657,
+      "file": "CEYLON.txt"
+    },
+    {
+      "name": "DOMINICA",
+      "start_line": 6183,
+      "end_line": 6186,
+      "line_count": 4,
+      "char_count": 42,
+      "file": "DOMINICA.txt",
+      "redirect": "Leeward Islands, p. 96",
+      "notes": "Redirect to Leeward Islands, p. 96"
+    },
+    {
+      "name": "FALKLAND_ISLANDS",
+      "start_line": 6187,
+      "end_line": 6306,
+      "line_count": 120,
+      "char_count": 6955,
+      "file": "FALKLAND_ISLANDS.txt"
+    },
+    {
+      "name": "FIJI",
+      "start_line": 6307,
+      "end_line": 6361,
+      "line_count": 55,
+      "char_count": 7254,
+      "file": "FIJI.txt"
+    },
+    {
+      "name": "GIBRALTAR",
+      "start_line": 6362,
+      "end_line": 6444,
+      "line_count": 83,
+      "char_count": 4847,
+      "file": "GIBRALTAR.txt"
+    },
+    {
+      "name": "THE_GOLD_COAST_COLONY",
+      "start_line": 6445,
+      "end_line": 7019,
+      "line_count": 575,
+      "char_count": 32262,
+      "file": "THE_GOLD_COAST_COLONY.txt"
+    },
+    {
+      "name": "GRENADA",
+      "start_line": 7020,
+      "end_line": 7025,
+      "line_count": 6,
+      "char_count": 48,
+      "file": "GRENADA.txt",
+      "redirect": "Windward Islands, p. 169",
+      "notes": "Redirect to Windward Islands, p. 169"
+    },
+    {
+      "name": "GRIQUALAND_WEST",
+      "start_line": 7026,
+      "end_line": 7339,
+      "line_count": 314,
+      "char_count": 17816,
+      "file": "GRIQUALAND_WEST.txt"
+    },
+    {
+      "name": "HELIGOLAND",
+      "start_line": 7340,
+      "end_line": 7377,
+      "line_count": 38,
+      "char_count": 2407,
+      "file": "HELIGOLAND.txt"
+    },
+    {
+      "name": "HONDURAS",
+      "start_line": 7378,
+      "end_line": 7553,
+      "line_count": 176,
+      "char_count": 11665,
+      "file": "HONDURAS.txt"
+    },
+    {
+      "name": "HONG_KONG",
+      "start_line": 7554,
+      "end_line": 7818,
+      "line_count": 265,
+      "char_count": 12936,
+      "file": "HONG_KONG.txt"
+    },
+    {
+      "name": "JAMAICA",
+      "start_line": 7819,
+      "end_line": 8484,
+      "line_count": 666,
+      "char_count": 28892,
+      "file": "JAMAICA.txt"
+    },
+    {
+      "name": "LABUAN",
+      "start_line": 8485,
+      "end_line": 8580,
+      "line_count": 96,
+      "char_count": 4379,
+      "file": "LABUAN.txt"
+    },
+    {
+      "name": "THE_LEEWARD_ISLANDS",
+      "start_line": 8581,
+      "end_line": 9828,
+      "line_count": 1248,
+      "char_count": 58861,
+      "file": "THE_LEEWARD_ISLANDS.txt"
+    },
+    {
+      "name": "MALTA",
+      "start_line": 9829,
+      "end_line": 10231,
+      "line_count": 403,
+      "char_count": 13970,
+      "file": "MALTA.txt"
+    },
+    {
+      "name": "MAURITIUS",
+      "start_line": 10232,
+      "end_line": 10966,
+      "line_count": 735,
+      "char_count": 32102,
+      "file": "MAURITIUS.txt"
+    },
+    {
+      "name": "NATAL",
+      "start_line": 10967,
+      "end_line": 11294,
+      "line_count": 328,
+      "char_count": 19814,
+      "file": "NATAL.txt"
+    },
+    {
+      "name": "NEVIS",
+      "start_line": 11295,
+      "end_line": 11297,
+      "line_count": 3,
+      "char_count": 38,
+      "file": "NEVIS.txt",
+      "redirect": "Leeward Islands, p. 94",
+      "notes": "Redirect to Leeward Islands, p. 94"
+    },
+    {
+      "name": "NEWFOUNDLAND",
+      "start_line": 11298,
+      "end_line": 11961,
+      "line_count": 664,
+      "char_count": 33352,
+      "file": "NEWFOUNDLAND.txt"
+    },
+    {
+      "name": "NEW_SOUTH_WALES",
+      "start_line": 11962,
+      "end_line": 12581,
+      "line_count": 620,
+      "char_count": 15996,
+      "file": "NEW_SOUTH_WALES.txt"
+    },
+    {
+      "name": "NEW_ZEALAND",
+      "start_line": 12582,
+      "end_line": 13152,
+      "line_count": 571,
+      "char_count": 22146,
+      "file": "NEW_ZEALAND.txt"
+    },
+    {
+      "name": "QUEENSLAND",
+      "start_line": 13153,
+      "end_line": 13502,
+      "line_count": 350,
+      "char_count": 28333,
+      "file": "QUEENSLAND.txt"
+    },
+    {
+      "name": "ST_VINCENT",
+      "start_line": 13499,
+      "end_line": 13504,
+      "line_count": 6,
+      "char_count": 90,
+      "file": "ST_VINCENT.txt",
+      "redirect": "Windward Islands, p. 166",
+      "notes": "Redirect to Windward Islands, p. 166"
+    },
+    {
+      "name": "SIERRA_LEONE",
+      "start_line": 13505,
+      "end_line": 13507,
+      "line_count": 3,
+      "char_count": 55,
+      "file": "SIERRA_LEONE.txt",
+      "redirect": "West African Settlements, p. 158",
+      "notes": "Redirect to West African Settlements, p. 158"
+    },
+    {
+      "name": "ST_CHRISTOPHER_NEVIS_AND_ANGUILLA",
+      "start_line": 13508,
+      "end_line": 13510,
+      "line_count": 3,
+      "char_count": 69,
+      "file": "ST_CHRISTOPHER_NEVIS_AND_ANGUILLA.txt",
+      "redirect": "Leeward Islands, p. 86",
+      "notes": "Redirect to Leeward Islands, p. 86"
+    },
+    {
+      "name": "ST_HELENA",
+      "start_line": 13511,
+      "end_line": 13615,
+      "line_count": 105,
+      "char_count": 4235,
+      "file": "ST_HELENA.txt"
+    },
+    {
+      "name": "SOUTH_AUSTRALIA",
+      "start_line": 13616,
+      "end_line": 14363,
+      "line_count": 748,
+      "char_count": 26824,
+      "file": "SOUTH_AUSTRALIA.txt"
+    },
+    {
+      "name": "STRAITS_SETTLEMENTS",
+      "start_line": 14364,
+      "end_line": 14704,
+      "line_count": 341,
+      "char_count": 17831,
+      "file": "STRAITS_SETTLEMENTS.txt"
+    },
+    {
+      "name": "TASMANIA",
+      "start_line": 14705,
+      "end_line": 15012,
+      "line_count": 308,
+      "char_count": 16170,
+      "file": "TASMANIA.txt"
+    },
+    {
+      "name": "TOBAGO",
+      "start_line": 15013,
+      "end_line": 15016,
+      "line_count": 4,
+      "char_count": 42,
+      "file": "TOBAGO.txt",
+      "redirect": "Windward Islands",
+      "notes": "Redirect to Windward Islands"
+    },
+    {
+      "name": "TRINIDAD",
+      "start_line": 15017,
+      "end_line": 15569,
+      "line_count": 553,
+      "char_count": 23207,
+      "file": "TRINIDAD.txt"
+    },
+    {
+      "name": "TURKS_AND_CAICOS_ISLANDS",
+      "start_line": 15570,
+      "end_line": 15649,
+      "line_count": 80,
+      "char_count": 3780,
+      "file": "TURKS_AND_CAICOS_ISLANDS.txt"
+    },
+    {
+      "name": "VICTORIA",
+      "start_line": 15650,
+      "end_line": 16376,
+      "line_count": 727,
+      "char_count": 24645,
+      "file": "VICTORIA.txt"
+    },
+    {
+      "name": "VIRGIN_ISLANDS",
+      "start_line": 16377,
+      "end_line": 16380,
+      "line_count": 4,
+      "char_count": 48,
+      "file": "VIRGIN_ISLANDS.txt",
+      "redirect": "Leeward Islands",
+      "notes": "Redirect to Leeward Islands"
+    },
+    {
+      "name": "WESTERN_AUSTRALIA",
+      "start_line": 16381,
+      "end_line": 16600,
+      "line_count": 220,
+      "char_count": 10581,
+      "file": "WESTERN_AUSTRALIA.txt"
+    },
+    {
+      "name": "WEST_AFRICA_SETTLEMENTS",
+      "start_line": 16601,
+      "end_line": 16993,
+      "line_count": 393,
+      "char_count": 18897,
+      "file": "WEST_AFRICA_SETTLEMENTS.txt"
+    },
+    {
+      "name": "THE_WINDWARD_ISLANDS",
+      "start_line": 16994,
+      "end_line": 18252,
+      "line_count": 1259,
+      "char_count": 77123,
+      "file": "THE_WINDWARD_ISLANDS.txt"
+    }
+  ]
+}

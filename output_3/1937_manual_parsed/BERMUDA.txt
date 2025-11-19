@@ -1,0 +1,127 @@
+BERMUDA.
+
+Situation and Area.
+
+The "Bermudas" or "Somers' Islands" form a group or cluster of about 300 small islands, situated in the Western Atlantic Ocean, in lat. 32° 15' N., and long. 64° 51' W., about 580 miles to the eastward of Cape Hatteras in North Carolina, the nearest point of the neighbouring American Continent. The distance from Liverpool is about 2,900 miles, from Halifax in Nova Scotia 730, from New York 677, and from the nearest of the West Indian Islands about 800 miles. The total area is estimated at 19 square miles (less than one-eighth of Rutland).
+
+History.
+
+These islands were discovered in the year 1515, by a Spanish mariner, Juan Bermudez, after whom they were called The Bermudas. The Spaniards, however, took no steps to form a settlement on the islands, and they were still entirely uninhabited when, in 1609, Admiral Sir George Somers' ship, The Sea Venture, while on a voyage with a fleet of eight other vessels, conveying a party of colonists to the new plantations then being formed in Virginia, was wrecked upon one of the numerous sunken reefs which surround the islands on every side. The reef is still called after the name of the Admiral's ship, The Sea Venture Flat.
+
+Sir George Somers died in Bermuda the following year, and his companions, ignorant possibly of the prior claims of Juan Bermudez, called the group after him, "The Somers' Islands." The reports of the beauty and fertility of the land, taken home by Somers' nephew, Captain Mathew Somers, induced the Virginia Company to seek an extension of their Charter, so as to include the islands within their dominion, and this extension was readily granted by King James I., but shortly afterwards the Virginia Company sold the islands for the sum of 2,000l. to a new body of adventurers, called "The Governor and Company of the City of London for the Plantation of the Somers Islands," and thenceforward, for a con-
+siderable time, the islands bore the name of the Admiral who had led thither the first body of settlers.
+
+General Description.
+
+The Bermudas, of which a good account will be found in the narrative of the voyage of the Challenger, may be described as a singular agglomeration of small islands and submarine sand-hills and coral reefs, forming together an irregular oval ring, measuring about 22 miles in length from N.E. to S.W., and about 3 miles in width from N.W. to S.E. The external ring—whether composed of islands or of sunken banks or reefs—is seldom more than a mile in width, and generally considerably less.
+
+At present the southern portion only of the encircling ring is formed of islands, the northern, eastern, and western sides being composed of almost continuous reefs of coral. The largest island, generally known as The Main Island, is about 14 miles in length, and about a mile in average width; it contains about 9,000 acres of land, the highest point being only 240 feet above the sea. All the other islands taken together measure about 3,000 acres. The city of Hamilton, now the seat of Government, is situated about the centre of the main island, where a deep inlet running up for two or three miles into the land from the sheltered waters, enclosed between the encircling reef, forms a safe and convenient harbour for the vessels which carry on the island trade.
+
+Next in importance to the main island is the island of St. George, on which stands the town of St. George, so named after Admiral Sir George Somers, whose heart is buried there. This town was formerly the capital of the Colony, and though now shorn of much of its importance by the transfer of the seat of Government to Hamilton, is still a town of considerable trade, and its harbour is much frequented as a harbour of refuge.
+
+The other principal islands of the group are—Ireland Island, entirely given up for the accommodation of His Majesty's Dockyard and a number of other naval establishments; Boaz and Watford Islands, intervening between Ireland Island and the rest of the group, and now exclusively occupied by military depots and garrisons; Somerset, Smith's, St. David's, Cooper's, Nonsuch, Rivers, Ports, and Godets—all inhabited by a civil population. The islands form an almost continuous chain, and there is uninterrupted communication by roads and bridges and causeways from St. George over the main island and Somerset, and over Watford and Boaz to Ireland Island—a distance of about 22 miles.
+
+About one-half of the inhabitants are of English descent, the remainder belonging for the most part to the negro race. English is universally spoken.
+
+The Climate has been long celebrated for its mildness and salubrity. The rainfall in 1935 was 64-09 inches, as against an average of 58-97 inches. In winter the thermometer never falls below 40° Fahr., and the summers are never very hot, the thermometer rarely rising above 86°. The summer heat, too, is generally tempered by a pleasant sea breeze. Mean relative humidity in 1935 was 78.
+
+In 1914 the Legislature voted the sum of £51,750, payable in fifteen yearly instalments, as a contribution to the Imperial Treasury in aid of the war fund.
+
+The state of the Colony's finances did not admit of an immediate cash contribution and these annual payments represent a lump sum of the present value of 40,000.
+
+In 1927 the Legislature voted a contribution to His Majesty's Government of 2/6 per capita of the local population, payable after the 1st January, 1930, towards the cost of the military Garrison in the Colony, and a further contribution payable after the 1st January, 1928, of a sum computed in respect of all ranks of the Military Garrison serving in the Colony.
+
+Industry, Trade and Customs.
+
+In former days the inhabitants of Bermuda gave themselves up almost entirely to maritime pursuits. Numerous small vessels, of from 200 to 300 tons burthen, built by the islanders themselves, of their native cedar, traded between the West Indies and Demerara, and the United States, and the British colonies of North America. Later they extended their voyages, carrying the salt fish of Newfoundland to Italy and Portugal, and taking back the Port wine for which Newfoundland became celebrated, or running down to Madeira or Ascension to meet the homeward-bound Indian fleet, and taking back cargoes of tea or other Indian and Chinese products to be distributed along the American seaboard.
+
+The repeal of the British navigation laws, the introduction of steam, and the very general substitution of iron for wooden ships, gradually destroyed the carrying trade which had been so profitable to Bermuda, and now the maritime fleet may be said to have ceased to exist, and the industry of the islanders is entirely confined to mercantile pursuits and to turning to account the small quantity of agricultural land which they possess.
+
+The soil of Bermuda is naturally calcareous, free-draining, and poor in humus. A fair state of fertility is, however, readily maintained by the regular use of manures and fertilisers. Not more than one-fourth of the total area of the colony can be cultivated, but the climate, combined with the geographical position of these islands, compensates for the small extent of arable land. There is never any danger of frost, and seeds may be sown and plants put out at any time. The main crops, potatoes, onions and green vegetables, are planted from August to March, and are reaped and shipped from December to June when the Canadian markets are comparatively bare of early potatoes and fresh vegetables.
+
+Practically the whole of the exports go to Canada. About two-fifths of the imports come from the United Kingdom, two-fifths from foreign countries and the remainder from the Dominions and Colonies.
+
+The Islands of Bermuda have become a favourite resort for Americans and Canadians. Large hotels have sprung up, and a considerable amount of money is expended by the visitors.
+
+The total number of tourists to Bermuda during 1935 was 76,023, of whom 73,189 came from the United States of America, 1,096 from Canada, 863 from the United Kingdom.
+
+The quantity of shipping is remarkable for so small a place. During 1935, as will be seen from the tables, 6,707,246 tonnage entered and cleared, of which 4,887,179 was British.
+
+About two-thirds of the Government revenue is obtained from Customs Duties on imports. The greater part of these receipts is from ad valorem duties at the rate of 10 per cent., with a surtax of 25 per cent. of the duty on all goods.
+of non-British origin. Wines, spirits, and tobacco of British origin are subject to a 2½ per cent. surtax, and additional preferences have recently been granted as the result of the agreements concluded at Ottawa.
+
+Currency and Banking.
+
+The coins in circulation are British currency, which is legal tender. There is no limit to the legal tender of British silver. Bermuda Government £1, 10s. and 5s. Currency Notes to the value of £166,943 were in circulation on 31st Dec., 1935. There are two incorporated banks, the Bank of Bermuda, Limited, and the Bank of N. T. Nutterfield & Son, Limited, and several of the leading merchants do a considerable amount of business as private bankers and agents. A Government savings bank was established in 1871, and there are branches at Hamilton, St. George's, and Sandy's Parish. The number of depositors at the end of 1935 was 5,648, the total amount of deposits £2,579.
+
+On the 1st of January, 1922, the Savings Bank was transferred from the Treasury to the Post Office Department.
+
+Education.
+
+In 1839 the Colonial Legislature first granted a sum of money to aid elementary schools.
+
+The central control is vested in a Board of Education, consisting of ten members appointed by the Governor under the provisions of the Schools Act, 1922.
+
+All the schools are private schools, charging fees. Attendance is compulsory, and there were, in 1935, 30 aided schools with 4,337 scholars.
+
+There are, in addition, about 17 schools which receive no State aid.
+
+In August, 1905, the Legislature established an annual scholarship of 150l., tenable by youths, natives of Bermuda, for two years at some educational institution abroad to be approved by the Governor, with a view to assisting youths to prepare to compete for the Rhodes' Scholarship awarded to Bermuda. The amount was increased to 200l. p.a. in 1920, and the tenure of the scholarship to three years in 1927.
+
+At the end of the year 1924, the Bermuda (Technical Education) Scholarship Act was passed establishing four new scholarships each of the value of 125l., subsequently increased to 150l., and tenable for four years at some educational institution out of the Colony.
+
+Means of Communication.
+
+Telegraphic communication with the United Kingdom is carried on by the cable between the Islands and Halifax, Nova Scotia.
+
+Rates to Halifax, 1s. 4d. per word.
+
+England, 2s. 6d.
+
+This cable has also been carried on to Turks Island and Jamaica, thus giving direct telegraphic communication with the West Indies.
+
+A wireless telephone service between Bermuda and New York has been installed and gives communication with Great Britain, Ireland, Europe, U.S.A., Canada, Mexico, Cuba and the Hawaiian Islands.
+
+Communication between Bermuda and England is maintained by steamers of Messrs. Elders and Fyffes, Ltd., and of the Pacific Steam Navigation Co., Ltd., which make regular calls at Bermuda every month outward and homeward, Bermuda being a port of call in both directions.
+
+Permits to land in Bermuda are required by other than bona fide visitors with first class return tickets.
+
+Communication between Bermuda and New York is maintained by steamers of the Furness-Bermuda Line, with bi-weekly sailings.
+
+The Canadian National Steamships maintain a passenger and freight service between Montreal, Bermuda, Nassau, Kingston, Belize and British Honduras, sailing every two weeks from Montreal in summer and from Halifax in winter, and also a fortnightly passenger and freight service between Halifax, Boston, Bermuda, St. Kitts-Nevis, Antigua, Montserrat, Dominica, St. Lucia, Barbados, St. Vincent, Grenada, Trinidad and British Guiana.
+
+Letters from England usually take from nine to twelve days. Postage rates are:
+
+| Letters. | Newspapers. |
+|----------|------------|
+| Within the Colony, per 1 oz. 1d. | ½d. per 2 oz. |
+| To U.K., India and British Colonies, per 1 oz. 1½d. | Books per 2 oz. ½d. |
+| To all other countries | Papers per 2 oz. ½d. |
+| Passengers to England, 1s. 6d. for 3 lbs.; 3s. for 7 lbs.; 4s. 3d. for 11 lbs.; 6s. 9d. for 22 lbs. |
+
+Internal Communications.
+
+A light railway is in operation between St. George's and Somerset. There are approximately 105 miles of colonial and 15 miles of military roads. There is a private telephone company, which has about 1,650 subscribers and about 1,500 miles of wire in line. During 1932 an automatic system was installed.
+
+Government and Constitution.
+
+Representative government was introduced into the Colony in 1820, but the charter of the Bermuda Company of London was annulled in 1884, and since then the Governors have always been appointed by the Crown, and the laws of the Colony have been enacted by a local legislature consisting of the Governor, the Legislative Council, and the House of Assembly. The session lasts usually from November to June.
+
+The Governor is assisted by an Executive Council, consisting of four official and three unofficial members. The Legislative Council consists of nine members, three of whom are official and six unofficial. The House of Assembly consists of thirty-six members, four of whom are elected by each of the nine parishes. There are 2,456 electors, the electoral qualifications being the possession of freehold property of not less than 60l. value. The qualification for a member of the House of Assembly is the possession of freehold property rated at 240l. The members of Executive Council and of the Legislature are paid 8s. a day for each day's attendance.
+
+Local Government.
+
+Hamilton and St. George have been incorporated since 1793 and 1797 respectively, and there are nine parish vestries, all the members of which, as well as of the two municipal corporations, are elected annually.
+
+| Year | Revenue | Expenditure | British Total | Tonnage |
+|------|---------|-------------|---------------|---------|
+| 1926 | 314,298 | 291,209     | 2,465,977     | 3,188,913 |
+| 1927 | 290,235 | 288,420     | 2,466,895     | 3,041,350 |
+| 1928 | 320,749 | 303,642     | 3,071,493     | 3,413,301 |
+| 1929 | 331,448 | 334,262     | 3,554,084     | 4,073,459 |
+| 1930 | 429,190 | 409,572     | 3,862,478     | 5,730,748 |
+| 1931 | 464,351 | 458,700     | 4,354,600     | 7,476,497 |
+| 1932 | 406,924 | 443,501     | 5,601,767     | 7,794,558 |
+| 1933 | 419,120 | 414,667     | 4,957,946     | 6,638,061 |
+| 1934 | 363,473 | 372,065     | 5,366,423     | 7,101,429 |
+| 1935 | 391,895 | 371,440     | 4,887,179     | 6,707,246 |

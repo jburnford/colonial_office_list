@@ -1,0 +1,124 @@
+================================================================================
+1939 COLONIAL OFFICE LIST - EXTRACTION SUMMARY
+================================================================================
+
+Extraction Date: 2025-11-18
+Source File: historical_document_pipeline/processed_pdfs/colonial-office-list-1939/olmocr_results.md
+
+RESULTS:
+--------
+Total Colonies Extracted: 44
+Source Lines Processed: 24090-53434 (PART II-C and APPENDIX)
+Output Directory: output_3/1939_manual_parsed/
+Individual Colony Files: 44 text files
+Metadata File: output_3/1939_manual_parsed.json
+Parsing Report: output_3/1939_PARSING_REPORT.md
+
+METHODOLOGY:
+------------
+1. Manual boundary identification by reading OCR content
+2. Cross-referenced with 1937 list (42 colonies) for completeness
+3. Systematically verified all colony headers and transitions
+4. Line number prefixes removed from all extracted text
+5. All boundaries manually verified by reading content
+
+KEY FINDINGS:
+-------------
+Historical Context:
+- Published in 1939, just before WWII outbreak (September 1939)
+- ADEN became Crown Colony in April 1937 (transferred from India)
+- Palestine still under British mandate (tensions increasing)
+- Trans-Jordan listed as mandate territory in appendix
+
+Major Changes from 1937:
+- ADEN moved from appendix to first position (major change)
+- TONGA listed separately (was part of Western Pacific in 1937)
+- TRANS-JORDAN added to appendix section
+- TRISTAN DA CUNHA made formal dependency of St. Helena (1938)
+
+Territory Types:
+- Crown Colonies: Most territories including Aden (new 1937)
+- Protectorates: Aden Protectorate, Kenya, Nyasaland, Somaliland, Zanzibar
+- Protected States: Brunei, North Borneo, Sarawak, Tonga
+- Mandate Territories: Palestine, Tanganyika, Trans-Jordan
+- Dependencies: Ascension, Tristan da Cunha (St. Helena), Cayman Islands, Turks & Caicos (Jamaica)
+
+COMPLETE LIST OF 44 COLONIES EXTRACTED:
+----------------------------------------
+1. ADEN
+2. BAHAMAS
+3. BARBADOS
+4. BERMUDA
+5. BRITISH GUIANA
+6. BRITISH HONDURAS
+7. CEYLON
+8. CYPRUS
+9. FALKLAND ISLANDS
+10. FIJI
+11. THE GAMBIA
+12. GIBRALTAR
+13. THE GOLD COAST
+14. HONG KONG
+15. JAMAICA
+16. CAYMAN ISLANDS
+17. TURKS AND CAICOS ISLANDS
+18. KENYA
+19. THE LEEWARD ISLANDS
+20. MALAYA: STRAITS SETTLEMENTS
+21. BRUNEI
+22. MALTA
+23. MAURITIUS
+24. NIGERIA
+25. NORTHERN RHODESIA
+26. NYASALAND PROTECTORATE
+27. PALESTINE
+28. ST. HELENA
+29. ASCENSION
+30. TRISTAN DA CUNHA
+31. SEYCHELLES
+32. SIERRA LEONE
+33. SOMALILAND PROTECTORATE
+34. TANGANYIKA TERRITORY
+35. TRINIDAD AND TOBAGO
+36. UGANDA
+37. WESTERN PACIFIC
+38. TONGA
+39. THE WINDWARD ISLANDS
+40. ZANZIBAR
+41. NORTH BORNEO
+42. SARAWAK
+43. TRANS-JORDAN
+44. MISCELLANEOUS ISLANDS
+
+COMPARISON WITH 1937:
+---------------------
+1937: 42 colonies
+1939: 44 colonies
+Difference: +2 colonies
+
+New in 1939:
+- TONGA (separated from Western Pacific)
+- TRANS-JORDAN (added to appendix)
+
+All 42 colonies from 1937 are present in 1939.
+
+ISSUES ENCOUNTERED:
+-------------------
+None. All colonies successfully extracted with clean boundaries.
+
+OCR QUALITY:
+------------
+- Generally good OCR quality
+- Some header formatting variations (**, **, †, #)
+- All variations successfully handled
+- Line number prefixes successfully removed
+
+OUTPUT FILES CREATED:
+---------------------
+✓ 44 individual colony text files in output_3/1939_manual_parsed/
+✓ output_3/1939_manual_parsed.json (metadata with boundaries and statistics)
+✓ output_3/1939_PARSING_REPORT.md (detailed extraction report)
+✓ output_3/1939_EXTRACTION_SUMMARY.txt (this file)
+
+STATUS: ✓ COMPLETE - All 44 colonies successfully extracted
+================================================================================

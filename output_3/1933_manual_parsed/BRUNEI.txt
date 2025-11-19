@@ -1,0 +1,55 @@
+BRUNEI.
+
+Sultan, His Highness Ahmed Tajuddin.
+Ministers of State, Pengiran Bendahara Seri Maharsja Permeisuar Anak Abdulrahman Pengiran Pemancha Sahibul Raya Almesuara Haji Mohamed Yasin.
+
+Brunei is a State lying between North Borneo and Sarawak between 114° and 116° E. long., and touching the sea at Brunei Bay, in which lies the island of Labuan. It is 770 nautical miles distant from Singapore.
+
+The Sultanate of Brunei was formerly a great and powerful State, and in the early years of the 16th century the authority of its Rulers appears to have extended, not only over the Northern part of the Island of Borneo, but over the Sulu Islands and some part of the Philippines. Its wealth and importance at this period are shown by the description given by Pigafetta of the Sultan's Court, and by the fact that the early European navigators extended the name of the Sultanate to the whole of the island, "Borneo" being a corruption of Brunei. The power of the State appears to have begun to decline about the end of the 16th century, and by the middle of the 19th century it had fallen hopelessly into decay. The cession of the District of Sarawak to Sir James Brooke in 1841 was followed by many similar cessions to Sarawak and to the British North Borneo Company, and the State of Brunei has now been reduced to about 2,600 square miles, containing a population (1931 census) of 30,136, and consisting of the town and district of Brunei and some outlying districts, of which the most important are Tutong, Belait and Temburong.
+
+In 1888, an agreement was concluded with the Sultan under which the control of foreign relations was placed in the hands of H.M.'s Government, whilst internal affairs were left to the Sultan, and a further agreement was made at the end of 1905, under the terms of which a British Resident has been appointed to advise and assist in the administration of the State. Until 1916 the Resident combined these duties with those of Resident of Labuan, while an Assistant Resident was stationed in Brunei. In 1916 a separate Resident was appointed for Brunei and the appointment of Assistant Resident discontinued. At the beginning of 1931, however, the rapid development of the Belait district owing to the discovery of oil in commercial quantities necessitated the appointment of an additional officer of the Malayan Civil Service and the title of Assistant Resident was revived.
+
+The chief town is Brunei, with a population of 10,453.
+
+Besides the old Malay town which is built over the water on the Brunei River there is a new township on the mainland, which has steadily developed since 1910. There are vernacular schools at Brunei and in the out-districts. The climate resembles that of the Federated Malay States. The average annual rainfall at Brunei is a little over 100 inches.
+
+Trade is chiefly in the hands of Chinese, of whom there are 2,683 in the State. Native industries include fishing, cloth weaving, brass foundries, and the manufacture of silversmith's ware. The principal imports are rice, cloth, tobacco, sugar and petroleum, and the principal exports oil, cutch (mangrove extract), wild and plantation rubber, sago and dried prawns. The trade, to which an impetus was given by the inauguration of the new system of administration, passes through Labuan.
+
+Concessions and monopolies of all kinds were recklessly granted in the past. Many of these have now lapsed and others have been redeemed.
+
+In 1924 the British Malayan Petroleum Company, Limited, commenced prospecting and drilling operations for petroleum in the Belait District. In 1930 it became definitely established that an oil-field of considerable commercial value had been found at Seria, 10 miles North-west of Kuala Belait. The Company is now developing and testing this field for production and the export of oil by small tank steamers has already begun.
+
+Several companies are engaged in planting Para Rubber.
+
+A cutch factory, established by a London syndicate, is at work at Brunei. The output of cutch in 1931 was 2,823 tons, valued at £194,457.
+
+There are two native industries of importance, the manufacture of brassware and silverware, and these are more or less restricted to certain families or guilds. Weaving is done by Brunei women, and the natives are excellent fishermen.
+
+The revenue of the State is derived principally from the land and mining rents, from an opium monopoly under Government control, from the collection of Customs duties, and from purchased Cession moneys. About half of the original Cession moneys have now been purchased by the Government.
+
+| Year | Revenue | Expenditure |
+|------|---------|-------------|
+| 1922 | $204,604 | $188,250    |
+| 1923 | $221,767 | $189,208    |
+| 1924 | $257,474 | $247,615    |
+| 1925 | $315,261 | $245,286    |
+| 1926 | $367,344 | $297,894    |
+| 1927 | $402,134 | $426,981    |
+| 1928 | $354,762 | $344,005    |
+| 1929 | $346,290 | $344,092    |
+| 1930 | $333,069 | $379,604    |
+| 1931 | $342,011 | $323,791    |
+
+The Public Debt on the 31st December, 1931, was £395,000.
+
+Communications.
+
+There is regular communication with Labuan by steam launch and so with Singapore by the Straits Steamship Company, which maintains a weekly service.
+
+A Central Wireless Telegraph Station was opened in 1921 at Brunei with a subsidiary station at Labuan which enables telegraphic communication to be maintained with Labuan and thence by cable with Singapore and Europe. There are other Wireless Stations in the Belait and Temburong Districts.
+
+The currency is the Straits Settlements dollar.
+
+Administration.
+
+British Resident, T. F. Carey, M.C.S.

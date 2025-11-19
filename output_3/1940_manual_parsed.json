@@ -1,0 +1,385 @@
+{
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1940/olmocr_results.md",
+  "extraction_date": "2025-11-18T21:12:28.935938",
+  "year": 1940,
+  "method": "manual_boundary_identification",
+  "total_colonies": 47,
+  "colonies": [
+    {
+      "name": "ADEN",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/ADEN.txt",
+      "start_line": 24431,
+      "end_line": 24727,
+      "line_count": 297,
+      "character_count": 26282
+    },
+    {
+      "name": "BAHAMAS",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/BAHAMAS.txt",
+      "start_line": 24728,
+      "end_line": 25241,
+      "line_count": 514,
+      "character_count": 32465
+    },
+    {
+      "name": "BARBADOS",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/BARBADOS.txt",
+      "start_line": 25242,
+      "end_line": 26210,
+      "line_count": 969,
+      "character_count": 61894
+    },
+    {
+      "name": "BERMUDA",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/BERMUDA.txt",
+      "start_line": 26211,
+      "end_line": 26502,
+      "line_count": 292,
+      "character_count": 19401
+    },
+    {
+      "name": "BRITISH GUIANA",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/BRITISH_GUIANA.txt",
+      "start_line": 26503,
+      "end_line": 27640,
+      "line_count": 1138,
+      "character_count": 54264
+    },
+    {
+      "name": "BRITISH HONDURAS",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/BRITISH_HONDURAS.txt",
+      "start_line": 27641,
+      "end_line": 28121,
+      "line_count": 481,
+      "character_count": 27485
+    },
+    {
+      "name": "CEYLON",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/CEYLON.txt",
+      "start_line": 28122,
+      "end_line": 29860,
+      "line_count": 1739,
+      "character_count": 116180
+    },
+    {
+      "name": "CYPRUS",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/CYPRUS.txt",
+      "start_line": 29861,
+      "end_line": 31105,
+      "line_count": 1245,
+      "character_count": 80507
+    },
+    {
+      "name": "FALKLAND ISLANDS",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/FALKLAND_ISLANDS.txt",
+      "start_line": 31106,
+      "end_line": 31170,
+      "line_count": 65,
+      "character_count": 1922
+    },
+    {
+      "name": "FIJI",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/FIJI.txt",
+      "start_line": 31171,
+      "end_line": 31759,
+      "line_count": 589,
+      "character_count": 41527
+    },
+    {
+      "name": "THE GAMBIA",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/THE_GAMBIA.txt",
+      "start_line": 31760,
+      "end_line": 32136,
+      "line_count": 377,
+      "character_count": 28071
+    },
+    {
+      "name": "GIBRALTAR",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/GIBRALTAR.txt",
+      "start_line": 32137,
+      "end_line": 32377,
+      "line_count": 241,
+      "character_count": 12995
+    },
+    {
+      "name": "THE GOLD COAST",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/THE_GOLD_COAST.txt",
+      "start_line": 32378,
+      "end_line": 33415,
+      "line_count": 1038,
+      "character_count": 92225
+    },
+    {
+      "name": "HONG KONG",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/HONG_KONG.txt",
+      "start_line": 33416,
+      "end_line": 34104,
+      "line_count": 689,
+      "character_count": 48430
+    },
+    {
+      "name": "JAMAICA",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/JAMAICA.txt",
+      "start_line": 34105,
+      "end_line": 35324,
+      "line_count": 1220,
+      "character_count": 72413
+    },
+    {
+      "name": "CAYMAN ISLANDS",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/CAYMAN_ISLANDS.txt",
+      "start_line": 35325,
+      "end_line": 35389,
+      "line_count": 65,
+      "character_count": 4985
+    },
+    {
+      "name": "TURKS AND CAICOS ISLANDS",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/TURKS_AND_CAICOS_ISLANDS.txt",
+      "start_line": 35390,
+      "end_line": 35470,
+      "line_count": 81,
+      "character_count": 4808
+    },
+    {
+      "name": "KENYA",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/KENYA.txt",
+      "start_line": 35471,
+      "end_line": 36368,
+      "line_count": 898,
+      "character_count": 62807
+    },
+    {
+      "name": "THE LEEWARD ISLANDS",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/THE_LEEWARD_ISLANDS.txt",
+      "start_line": 36369,
+      "end_line": 37523,
+      "line_count": 1155,
+      "character_count": 65160
+    },
+    {
+      "name": "MALAYA: STRAITS SETTLEMENTS",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/MALAYA_STRAITS_SETTLEMENTS.txt",
+      "start_line": 37524,
+      "end_line": 40424,
+      "line_count": 2901,
+      "character_count": 200845
+    },
+    {
+      "name": "MALTA",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/MALTA.txt",
+      "start_line": 40425,
+      "end_line": 41247,
+      "line_count": 823,
+      "character_count": 44753
+    },
+    {
+      "name": "MAURITIUS",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/MAURITIUS.txt",
+      "start_line": 41248,
+      "end_line": 41938,
+      "line_count": 691,
+      "character_count": 50543
+    },
+    {
+      "name": "NIGERIA",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/NIGERIA.txt",
+      "start_line": 41939,
+      "end_line": 43065,
+      "line_count": 1127,
+      "character_count": 109998
+    },
+    {
+      "name": "NORTHERN RHODESIA",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/NORTHERN_RHODESIA.txt",
+      "start_line": 43066,
+      "end_line": 43641,
+      "line_count": 576,
+      "character_count": 42137
+    },
+    {
+      "name": "NYASALAND PROTECTORATE",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/NYASALAND_PROTECTORATE.txt",
+      "start_line": 43642,
+      "end_line": 44085,
+      "line_count": 444,
+      "character_count": 25096
+    },
+    {
+      "name": "PALESTINE",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/PALESTINE.txt",
+      "start_line": 44086,
+      "end_line": 44824,
+      "line_count": 739,
+      "character_count": 64479
+    },
+    {
+      "name": "ST. HELENA",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/ST._HELENA.txt",
+      "start_line": 44825,
+      "end_line": 45045,
+      "line_count": 221,
+      "character_count": 11624
+    },
+    {
+      "name": "ASCENSION",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/ASCENSION.txt",
+      "start_line": 45046,
+      "end_line": 45064,
+      "line_count": 19,
+      "character_count": 1191
+    },
+    {
+      "name": "TRISTAN DA CUNHA",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/TRISTAN_DA_CUNHA.txt",
+      "start_line": 45065,
+      "end_line": 45084,
+      "line_count": 20,
+      "character_count": 3842
+    },
+    {
+      "name": "SEYCHELLES",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/SEYCHELLES.txt",
+      "start_line": 45085,
+      "end_line": 45307,
+      "line_count": 223,
+      "character_count": 15545
+    },
+    {
+      "name": "SIERRA LEONE",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/SIERRA_LEONE.txt",
+      "start_line": 45308,
+      "end_line": 45800,
+      "line_count": 493,
+      "character_count": 41128
+    },
+    {
+      "name": "SOMALILAND PROTECTORATE",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/SOMALILAND_PROTECTORATE.txt",
+      "start_line": 45801,
+      "end_line": 45980,
+      "line_count": 180,
+      "character_count": 10761
+    },
+    {
+      "name": "TANGANYIKA TERRITORY",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/TANGANYIKA_TERRITORY.txt",
+      "start_line": 45981,
+      "end_line": 46676,
+      "line_count": 696,
+      "character_count": 53364
+    },
+    {
+      "name": "TRINIDAD AND TOBAGO",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/TRINIDAD_AND_TOBAGO.txt",
+      "start_line": 46677,
+      "end_line": 47457,
+      "line_count": 781,
+      "character_count": 56941
+    },
+    {
+      "name": "UGANDA",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/UGANDA.txt",
+      "start_line": 47458,
+      "end_line": 48066,
+      "line_count": 609,
+      "character_count": 46174
+    },
+    {
+      "name": "WESTERN PACIFIC",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/WESTERN_PACIFIC.txt",
+      "start_line": 48067,
+      "end_line": 48137,
+      "line_count": 71,
+      "character_count": 4590
+    },
+    {
+      "name": "THE GILBERT AND ELLICE ISLANDS COLONY",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/THE_GILBERT_AND_ELLICE_ISLANDS_COLONY.txt",
+      "start_line": 48138,
+      "end_line": 48395,
+      "line_count": 258,
+      "character_count": 17376
+    },
+    {
+      "name": "THE BRITISH SOLOMON ISLANDS PROTECTORATE",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/THE_BRITISH_SOLOMON_ISLANDS_PROTECTORATE.txt",
+      "start_line": 48396,
+      "end_line": 48495,
+      "line_count": 100,
+      "character_count": 3880
+    },
+    {
+      "name": "TONGA",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/TONGA.txt",
+      "start_line": 48496,
+      "end_line": 48621,
+      "line_count": 126,
+      "character_count": 13061
+    },
+    {
+      "name": "NEW HEBRIDES",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/NEW_HEBRIDES.txt",
+      "start_line": 48600,
+      "end_line": 48621,
+      "line_count": 22,
+      "character_count": 2971
+    },
+    {
+      "name": "PITCAIRN ISLAND",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/PITCAIRN_ISLAND.txt",
+      "start_line": 48622,
+      "end_line": 48632,
+      "line_count": 11,
+      "character_count": 1403
+    },
+    {
+      "name": "THE WINDWARD ISLANDS",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/THE_WINDWARD_ISLANDS.txt",
+      "start_line": 48633,
+      "end_line": 49875,
+      "line_count": 1243,
+      "character_count": 88066
+    },
+    {
+      "name": "ZANZIBAR",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/ZANZIBAR.txt",
+      "start_line": 49876,
+      "end_line": 50282,
+      "line_count": 407,
+      "character_count": 27952
+    },
+    {
+      "name": "NORTH BORNEO",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/NORTH_BORNEO.txt",
+      "start_line": 50283,
+      "end_line": 50552,
+      "line_count": 270,
+      "character_count": 19015
+    },
+    {
+      "name": "SARAWAK",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/SARAWAK.txt",
+      "start_line": 50553,
+      "end_line": 50906,
+      "line_count": 354,
+      "character_count": 19674
+    },
+    {
+      "name": "TRANS-JORDAN",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/TRANS-JORDAN.txt",
+      "start_line": 50907,
+      "end_line": 51013,
+      "line_count": 107,
+      "character_count": 8290
+    },
+    {
+      "name": "MISCELLANEOUS ISLANDS",
+      "file": "/home/user/colonial_office_list/output_3/1940_manual_parsed/MISCELLANEOUS_ISLANDS.txt",
+      "start_line": 51014,
+      "end_line": 51016,
+      "line_count": 3,
+      "character_count": 903
+    }
+  ]
+}

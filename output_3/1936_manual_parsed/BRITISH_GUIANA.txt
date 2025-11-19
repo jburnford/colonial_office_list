@@ -1,0 +1,969 @@
+BRITISH GUIANA.
+
+Situation, Area and Population.
+
+British Guiana is the only British Colony on the Mainland of the South American Continent. It lies on the north-eastern coast of the continent between parallels 1° and 8° North and meridians 57° and 61° West. It has a coastline of about 270 miles extending almost from the eastern mouth of the river Orinoco to the river Courantyne, and is bounded on the north by the Atlantic Ocean, on the south and south-west by Brazil, on the east by Dutch Guiana, and on the north-west by Venezuela. It varies in depth from 540 miles on the western to 300 miles on the eastern side.
+
+The area of the Colony is approximately 89,480 square miles, a little larger than the combined areas of England, Scotland and Wales.
+
+The capital is Georgetown, situated in latitude 6°48' 30" North and longitude 58° 11' 30" West, and possessing population of 62,690. The next town of importance is New Amsterdam about 60 miles east of the capital with a population of 8,889.
+
+The estimated population of the Colony on the 31st December, 1934, was 323,171 made up as follows:
+
+- Aboriginals: 8,601
+- East Indians: 136,004
+- Chinese: 3,099
+- Europeans (Portuguese): 8,546
+- Europeans (other than Portuguese): 2,039
+- Blacks: 127,301
+- Mixed, etc.: 37,681
+
+Of the estimated total there were 161,718 males and 161,453 females.
+
+Physiography.
+
+The Colony may be divided into three zones, the northern one is a low-lying flat swampy strip of marine alluvium known as the coastal region. This rises gradually from the seaboard and extends inland for a distance varying from 10 to 40 miles. It is succeeded by a broader and slightly elevated belt consisting of sands and clays which is mainly undulating and in places is covered by sand-dunes rising from 50 to 180 feet above sea level. The southern zone is more elevated. It rises gradually to the south-west between the river valleys, which are in many parts swampy, and contains three principal mountain ranges, several irregularly distributed smaller ranges, and in the southern and eastern parts many isolated hills and mountains. The eastern portion is almost entirely forest-clad, but on the south-western side there is an extensive area of flat grass-clad savannah elevated about 400 to 700 feet above sea level.
+
+The country is traversed by many large rivers, which, with their numerous tributaries and branch streams, form a vast network of waterways. All the larger rivers of the Colony are impeded above the tide-way by numerous rapids, cataracts and falls, which render the navigation of the upper reaches difficult.
+
+In its scenery British Guiana affords very great contrasts. The tourist who visits the colony and confines himself to the flat and settled coast-lands leaves with the impression that British Guiana is merely a mud-flat not entirely above sea-level; but the traveller who penetrates any considerable distance into the vast interior must be greatly impressed by the tropical vegetation of lofty trees, tangled lianas and graceful palms, the hilly nature of the country, the many great ranges and curiously-shaped mountains, the elevated undulating plateaus, the extensive savannahs, and the multitude of cataracts and waterfalls of surpassing beauty, which occur on the upper parts of the large rivers and their tributaries.
+
+Situated on the Potaro River is Kaieteur—one of the recognised largest single-drop waterfalls of the world. It is nearly five times the height of Niagara, having a vertical drop of 741 feet, with a series of rapids and falls immediately below the pool, giving a further fall of 80 feet. Its width varies from 350 to 400 feet, and the depth of water passing over from a few feet to 20 feet according to the season of the year. These Falls, which are situated amidst grand and remarkable river and hill scenery, are a source of attraction to tourists. The journey from Georgetown to Kaieteur is now made via the Bartica-Potaro road. Tours are arranged by the Transport and Harbours Department.
+
+Climate.
+
+A.—Coastal Belt.—The climate compares favourably with that of other countries and islands similarly situated, and resembles rather that of a sub-tropical country. The mean temperature throughout the year is 80-4° F.
+
+For most months of the year the maximum shade temperature is about 85° F., and even in the hottest months (August, September, and October) a temperature of 89° F. is rarely recorded.
+
+At night the temperature falls about 12° to 14° F. The night temperature averages 73° or 74° F., and in the coolest months of the year (January, February and March) it may reach as low as 70° F.
+
+The heat of the sun is tempered by fresh breezes from off the sea which blow steadily and without intermission during the daytime for the greater part of the year, and, during the months of January, February and March, continue both day and night.
+
+The general direction of the wind is North-east to East, and it varies from gentle to fresh with occasional squalls; but hurricanes are unknown. The nights throughout the year are cool and conducive to sleep.
+
+The seasons of the year for the coastal areas are as follows:
+
+- The long wet season—Mid-April to Mid-August.
+- The long dry season—Mid-August to Mid-November.
+- The short wet season—Mid-November to end of January.
+- The short dry season—Beginning of February to Mid-April.
+
+The average rainfall for Georgetown in the county of Demerara is about 88-64 inches annually, that for the County of Berbice being about eight inches lower, and that for the County of Essequibo fourteen inches higher. The most humid month of the year is May, and the atmosphere is driest during September and October. The mean average humidity for Georgetown for the past 83 years is 78 per cent.
+
+B.—Middle Interior and Upper River Areas.—Generally speaking, the climate is hotter and more humid in the interior and river areas away from the coastal belt, the most noticeable change being the absence of the fresh sea breezes which make living so congenial on the seaboard. In forest areas and on rivers surrounded by forests the day temperature is distinctly hot and trying. On the other hand the nights are noticeably cooler than on the coastal belt. The rainfall is heavier.
+
+C.—Far Interior and Savannahs.—Climate, temperature and humidity are modified by the varying physical conformations of the territory in the far south, and depend especially on the altitude and the presence or absence of forest belts. As the name implies, the savannahs, in the upper Berbice river...
+which
+
+Antures
+
+63, the
+
+last the
+
+should
+
+of 1st,
+
+& Esse-
+
+sical of
+
+Essequibo;
+
+of the
+
+destination
+
+which
+
+con-
+
+sistency of
+
+fewer
+
+writing
+
+office
+
+formation
+
+for life,
+
+be an
+
+period
+
+members
+
+of the
+
+court of
+
+funds.
+
+Beaujon
+
+to the
+
+enacted
+
+there
+
+overnor
+
+7, to be
+
+the case
+
+with
+
+taxes,
+
+junts.
+
+modified,
+
+duties
+
+ation of
+
+validating
+
+Repre-
+
+sentative,
+
+n 1831,
+
+annulled
+
+existing
+
+suffrage
+
+ination of
+
+assed to
+
+of the
+
+Majesty,
+
+tutional
+
+No. 1 of
+
+ning of
+
+"Plan
+
+No. 16
+
+exercise
+
+91, may
+
+ed of a
+
+Court.
+
+court and
+
+of Elec-
+
+gislative
+
+formed
+
+cept as
+
+alt with
+
+overnor
+
+ved with
+
+Court of
+
+cept the
+
+by the
+
+Combined Court.
+
+* Demerara and Essequibo only are here alluded to.
+British Mainland on the parallel West.
+
+ing all Orinoco the nor south-west and on depth f on the The square of England The 6°49' 30" possess in importa of the o The 31st Dec follows:
+
+Ab East Chi Eu Eu Bla Mix
+
+Of the c 161,453
+
+The northern alluvium gradually a distal succeeds consisting undulate rising f southern to the i are in principa tributed eastern The eas but on area of 1 400 to 1 The c which, v streams, the larg the tide- which r difficult.
+
+In its contrast confines leaves v merely i the tra distance impress tangled of the c haped mountains, the elevated undulating plateaus, presence or absence of forest belts. As the name implies, the savannahs, in the upper Berbice river
+BRITISH GUIANA.
+
+districts and in the south-west of the colony, are free from dense forest and are more in the nature of park country, and here the temperature is slightly higher than in forest regions, and the rainfall markedly less.
+
+History and Constitution.
+
+The coast line of the country between the Rivers Amazon and Orinoco was first traced by Spanish sailors in 1499 and 1500; and, during the 16th and early 17th centuries, the search for the fabulous city of Eldorado stimulated exploration of this region. The territory was first partially settled in 1616 by Dutch merchants, who erected a fort and depot at Fort Kykoveral in the present county of Essequibo. This colony subsequently came under the control of the Dutch West India Company, which was formed in 1621. In 1624 a settlement was founded on the Berbice by Van Peere, a Flushing merchant, and held by him under a license from the Company. The first English attempt at settlement was made by Captain Charles Leigh on the O'apock river (now French Guiana) in 1604. The effort, though followed up by Robert Harcourt in 1613 and 1627, failed to establish a permanent settlement. Lord Willoughby, famous in the early history of Barbados, also turned his attention to Guiana, and founded a settlement in Surinam in 1650, which was captured by the Dutch in 1667, and ceded to them at the peace of Breda in exchange for New York. The Dutch retained their hold on the three colonies with more or less firmness, now yielding to England, now to France or Portugal, till 1796, when during the war of the French Revolution they were captured by a British Fleet from Barbados. The territory was restored to the Dutch in 1802, but in the following year retaken by Great Britain, and finally ceded to that Power in 1814.
+
+In 1745 colonists from Essequibo settled on the Demerara River, and in 1773 Demorara was constituted a separate colony, but in 1784 it was reunited under one government with Essequibo, Berbice being under a separate government, an arrangement which continued in force under the British Administration down to the year 1831.
+
+The constitution of the Colony of Berbice dates from the year 1732. Under it the Governor was nominated by the Directors of the Mercantile Body called the Berbice Association, and was assisted by a council of six. In 1826 an order of the King in Council was issued, dissolving the then Council of Government appointing another, and thenceforward vesting the right of appointing to vacancies in the Governor as representing the Crown.
+
+The Court of Policy for Essequibo appears to have been established very early in the history of the Colony. Until 1773, Demerara was represented on it. In 1773 a separate Court of Policy was set up for the latter, but provision was made for representatives of the two Courts of Policy to form a Combined Council, and the two bodies were merged in 1789, when the two Colonies of Essequibo and Demerara were united. Disputes having arisen between the Colonists the local Government and the West India Company as to the right of appointing the colonial members of the Court of Policy, in the year 1787, a provisional "Plan of Redress," as it was termed (being in fact the draft of a new constitution) was framed by a Committee of the States-General, to whom had been referred sundry petitions of the Colonists. This being approved of, a commission was despatched by the States-General to the Colony, who on their arrival in 1789 dissolved the then existing Government and established a new one for the conjoined Colonies upon the basis of the scheme in question, which continued in operation notwithstanding the captures of the Colony by the British in 1796 and 1803, the Articles of Capitulation having stipulated that the laws, usages, and institutions of the Colony should be maintained as before.
+
+The Council or Court of Policy consisted of 1st, The Director-General; 2, The Commander of Essequibo; 3, The Fiscal of Essequibo; 4, The Fiscal of Demerara; 5 and 6, two Colonists from Essequibo; 7 and 8, two Colonists from Demerara.
+
+In the first instance, the unofficial portion of the Council was to be chosen from a double nomination by the Colleges of Kiezers or Electors, of which there were two, one for each County,* each consisting of seven Members elected by a majority of the votes of the inhabitants possessing not fewer than twenty-five slaves, such votes to be in writing and signed by the voter. The tenure of the office of Kiezer, as subsequently defined by Proclamation of Sir Benjamin d'Urban in 1831, was to be for life, unless the party resigned or ceased to be an inhabitant.
+
+In 1795 it was deemed necessary, during a period of some confusion, to introduce four members "commissioned" by the Colleges of Electors of both Colonies to have, jointly with the Court of Policy, the administration of the public funds. In the following year, however, Governor Beaujon annulled this arrangement, and to secure to the inhabitants more ample control of taxation enacted that in lieu of the four above mentioned, there should be six inhabitants adjoined to the Governor and Court of Policy, three from each Colony, to be elected by the inhabitants qualified as in the case of Kiezers, and to serve for two years, but with powers strictly limited to raising Colony taxes, and assisting in the audit of the public accounts.
+
+Beaujon's proclamation was materially modified, though without affecting the definition of the duties of the financial representatives, by a proclamation of Acting Governor Carmichael in 1812, consolidating the two Colleges of Kiezers and Financial Representatives. This proclamation remained operative, though unconfirmed by the Crown, until, in 1821, when the three provinces were united, it was annulled by a Royal Instruction restoring the pre-existing arrangement, and extending the right of suffrage to the inhabitants of Berbice.
+
+In the year 1855 under the administration of Sir Philip Wodehouse, an Ordinance was passed to alter and amend the Political Institutions of the Colony, but it was not approved by Her Majesty, and from that date till 1891 the only constitutional legislation was the passing of Ordinance No. 1 of 1864, a declaratory Act, defining the meaning of the term "Colonist," as employed in the "Plan of Redress" above noticed; and Ordinance No. 16 of 1864, to remove some difficulties in the exercise of the functions of the College of Electors.
+
+The Constitution, as it existed up to 1891, may be summed up very briefly. It consisted of a Governor, Court of Policy, and a Combined Court. The unofficial members of the Combined Court and Court of Policy were chosen by a College of Electors. The functions of an Executive and Legislative Council and House of Assembly were performed by the Governor and Court of Policy, except as regards taxation and finance, which were dealt with by the Combined Court, composed of the Governor and Members of the Court of Policy, combined with the six Financial Representatives. The Court of Policy passed all laws and ordinances, except the Annual Tax Ordinance, which was passed by the Combined Court.
+
+* Demerara and Essequibo only are here alluded to.
+During 1891 an Act was passed, which came into force in 1892, effecting a considerable change in the constitution. By this Act the administrative functions of the Court of Policy were transferred to an executive council, and the duties of the former became purely legislative.
+
+The College of Electors was abolished, and the unofficial members have since been elected by the direct vote of the whole body of electors.
+
+The Combined Court had the power of (1) imposing the Colonial taxes and auditing the public accounts; and (2) discussing freely and without reserve the items on the annual estimates prepared by the Governor in Executive Council; it could reduce or reject, but not increase, any item. The first of these powers was bestowed in 1796, when Governor Beaujon called the financial representatives into being, "with a right of voting only for the raising of colonial taxes and not further"; while the second was conferred periodically by His Majesty's Order in Council after each renewal of the Civil List and was co-existent with the Civil List.
+
+The Court of Policy consisted of the Governor, seven official members, and eight elected members. It could be prorogued or dissolved at any time by the Governor and in any case was dissolved at the end of five years, and a general election had to be held within two months of the date of dissolution. The number of financial representatives, who with the Court of Policy formed the Combined Court, was 6.
+
+In 1926, at the request of the Secretary of State, a commission consisting of Sir Roy Wilson and Mr. H. Snell, M.P., was sent to British Guiana to report on the economic conditions. In its report (Cmd. 2841) the commission stated that one of the greatest impediments to development was the financial situation, and that it was essential that the Government should have power in the last resort to carry into effect measures which it considered essential, and that for this purpose an alteration in the constitution would be necessary. A local commission was appointed in 1927 to consider the steps to be taken to confer the necessary powers on the Governor and reported in favour of a change in the constitution.
+
+In 1928, by an Act of Parliament, it was enacted that it should be lawful for His Majesty in Council to create and constitute, in substitution for the existing Legislature, a Legislature for the Colony of British Guiana in such form and with such powers as His Majesty in Council might determine, and from time to time to alter and amend the constitution of the Legislature and any powers thereof; and that any such Order in Council might provide that, notwithstanding the powers conferred on the Legislature thereby, there should be reserved to or conferred on His Majesty full power by Order in Council from time to time to make laws for the peace, order and good government of the Colony of British Guiana.
+
+Pursuant to this Act, an Order of the King in Council providing for the Government of the Colony and for the constitution of a Legislative Council, was brought into operation on 18th July, 1928. The Court of Policy and Combined Court were thereby abolished and their powers were given to the new Legislative Council. The new Council consists of the Governor as President, of ten Official Members and of nineteen Unofficial Members. The Colonial Secretary and Attorney-General are ex-officio members, and of the nineteen unofficial members, fourteen are elected and the remainder nominated by the Governor. The persons who were elected members of the Combined Court became under the Order in Council the first Elected Members of the Legislative Council. It was also provided that any matter requiring a vote of enactment of the Council might be decided by the Governor in Executive Council notwithstanding that such decision might be contrary to the vote of a majority of the Legislative Council; but in such a case effect cannot be given to the decision until the facts have been reported to the Secretary of State and his approval obtained. The second General Election under the new Constitution was held in 1935.
+
+An Amending Order of the King in Council was brought into force on 13th August, 1935. This order amends the Principal Order with respect to the qualifications of voters and makes additional provision to counteract corrupt and illegal practices committed in reference to elections.
+
+Law.
+
+The Roman-Dutch law was in force in the Colony until 1st January, 1917, at which date the Civil Law of British Guiana Ordinance came into force. This enactment, along with two others, was the outcome of a Common Law Commission and Statute Law Committee. The Criminal Law is based upon that of Great Britain, and is administered in the same manner, except that indictments are preferred by the Attorney-General and there is no Grand Jury.
+
+Local Government.
+
+In 1837 the first municipal body was incorporated. The principle has now been materially extended in its application.
+
+The existing municipal authorities are: Mayor and town council, Georgetown; and mayor and town council, New Amsterdam. Their revenue in 1934 was respectively £49,632l. 10s. 3½d. and £20,328l. 1s. 9½d., and their expenditure £48,979l. 18s. 9½d. and £19,373l. 10s. 9½d. There are also 25 Village Districts and 70 Country Districts, whose revenue and expenditure in 1934 were respectively £38,764l. 15s. 0½d. and £36,072l. 13s. 9½d.; in 1933 the figures were £32,158l. and £31,383l.
+
+Communications—Internal and External.
+
+The three rivers, Demerara, Essequibo, and Berbice, are navigable for 90, 35, and 150 miles respectively. Beyond these distances, owing to the nature of the country, they abound in cataracts and waterfalls. There is a good network of roads, and there are small canals in connection with the Demerara River. There is a railway from Georgetown to Rossignol on the Berbice River, 60½ miles in length, and one from Vreed-en-Hoop on the Demerara River to Parika on the Essequibo River, 18¾ miles in length, both lines having been constructed by the Demerara Railway Company at a total cost of £94,621l. 8s. 1½d. The Railways were acquired by the Colony from the Company in 1921 as from the 1st January, 1919, and are now operated by Government in conjunction with certain steamer services under the control of the Transport and Harbours Department. The steamers operate ferries across the Demerara, Berbice and Essequibo Rivers and services from Georgetown to Adventure on the Essequibo Coast to Bartica at the junction of the Mazaruni and Essequibo Rivers, to Morawhanna in the North-West District and to Pickersgill on the Pomeroon River and also from New Amsterdam to Paradise on the Berbice River. Launch services are also run by the Department on the Canje and Pomeroon-Moruka Rivers.
+
+Motor transport services are also operated from the steamer terminus at Bartica to Garraway Stream on the Potaro River.
+
+A steamer service is also operated from Georgetown to Wismar on the Demerara River by Messrs. Sprostons Limited.
+Roads are maintained by Government between the Barima and Barama Rivers in the North-West District (29 miles) and Potaro and Konawaruk Rivers (23 miles) in the Potaro district. A natural surface motor road, capable of taking loads up to five tons has been constructed from Bartica—the steamer terminus on the Essequibo River and point of departure to the gold and diamond fields—to the Potaro River at "Garraway Stream"—a total distance of 102½ miles—where a bridge is now erected to connect with the existing road system to the Konawaruk River and Kangaruma landing on the way to Kaieteur fall (25 miles). A branch road of similar character is now under construction from the Bartica-Potaro road (at 75 miles from Bartica) to a point approximately 1½ miles below the junction of the Iznano and Mazuruni Rivers (a distance of about 50 miles), in order to render the Mazuruni diamond fields accessible by an overland route. A Cattle trail 180 miles long extends from Takama on the Berbice River to Annai on the Rupununi River whence the open savannah extends for a distance of 129 miles. A branch line from Hyde Park on the Demerara River connects with the main trail at the 13th mile paal.
+
+The Georgetown wireless station, operated by Cable and Wireless Ltd., is in communication with ships at sea and stations outside the Colony, and a direction finding station is also maintained. The Colony is in telegraph communication with Barbados, and through Barbados with the United Kingdom, Canada, North America and other parts of the world over cables maintained by the Pacific Cable Board (All Red Route). Communication with the British West Indies generally is maintained by the Pacific Cable Board's cable to Barbados and thence by wireless.
+
+The principal tariffs are:
+
+- To the United Kingdom ... 2s. 4d. per word.
+- To Eastern Canada ... 1s. 6d. " "
+- To Western Canada ... 1s. 8½d. " "
+
+There are also cheap rates at half and one-third of the ordinary tariff, the latter being subject to a minimum charge.
+
+The Pan American Airways operates a radio station under Government licence in Georgetown for communication with aircraft and certain ground stations overseas.
+
+There is an up-to-date Postal Telephone Service in the Colony with Exchanges in Georgetown, New Amsterdam and nine of the larger villages, including four semi-automatic exchanges.
+
+Two separate police exchanges are maintained, one in Georgetown and one in New Amsterdam.
+
+A full automatic exchange was opened at Georgetown on 29th June, 1928.
+
+Length of telephone trunk lines 733 miles. Telephone lines in Exchange areas, 5,006 miles. Aerial cables 13 miles. Submarine cables 23 miles.
+
+An efficient Postal Telegraph Service, connected by 313 miles of line and 11 submarine cables totalling 23 miles in length, is maintained between 48 Post Offices on the coast between Skeldon on the Courantyne River to Charity on the Pomeroon River, and is extended to six district stations in the interior by radio through a central Post Office radio station in Georgetown.
+
+A well-organised postal service extends throughout the colony, letters reaching Pomeroon in 10 hours from Georgetown, and the North-Western District in 24 hours. Georgetown and New Amsterdam are lighted by electricity.
+
+The mail communication between the Colony and the United Kingdom is somewhat irregular, but nevertheless there are many opportunities.
+
+The steamers of the Harrison Bookers and Dutch Surinam Lines are used, also via Trinidad:
+
+- French—Plymouth and St. Nazaire Line.
+- Dutch—Colon Line.
+- German—Hamburg-American Horn Line.
+
+Mails for North America are received and dispatched fairly regularly by the following steamers:
+
+- Canadian National Steamships, Ocean Dominion, Furness Bermuda Line, American Caribbean, and via Trinidad by Prince Munson Lines, and by the aeroplanes of the Pan American Airways, Incorporated.
+
+Rates of Postage.
+
+| Letters. | Newspapers. |
+|----------|------------|
+| To the British Empire | 4 cents. per 1 oz. 3 cents. each addtl. For every 2 oz. 1 cent. |
+| To other postal union countries | (for 1 oz. 6 cents; and 3 cents. for each succeeding 1 oz. or part of 1 oz.) For every 2 oz. 1 cent. |
+| Within Colony | (for each letter not exceeding 1 oz.; 2 cents; over 1 oz. not over 2 oz.; 3 cents; over 2 oz. not over 3 oz.; 4 cents; each additional 2 oz. 1 cent.) 3 cents. |
+
+Parcels Post.
+
+| To the United Kingdom | up to 3 lbs. 54 cents. |
+| up to 7 lbs. 88 " " |
+| up to 11 lbs. $1.20 " " |
+| from 11 lbs. to 22 lbs. $1.80 " " |
+| To West Indies and Dutch Guiana | up to 3 lbs. 24 cents. |
+| 7 lbs. 48 " " |
+| 11 lbs. 72 " " |
+| 22 lbs. $1.20 " " |
+| To Canada | up to 15 lbs. 12 cents. |
+| over 15 lbs. up to 22 lbs. $2.00 " " |
+
+Industry and Trade.
+
+The staple products of British Guiana are sugar, rum, molasses, molascuit, concentrated lime juice, rice, coconuts, coconut-oil, copra, coffee, balata and rubber. Sugar and rice are the chief industries of the Colony. Sugar and its by-products furnish 71 per cent. in value of the total exports. Timber—including the famous Demerara Greenheart, which is unrivalled for underwater structures, piling, etc., and Mora, which is becoming increasingly known and valued for railway sleepers—charcoal and hides are also exported.
+
+There are 28 sugar estates in active operation, the acreage under sugar being 61,567 English acres, the area reaped was 53,968 English acres. The rice cultivation in the Colony was returned at 63,227 English acres, but including the second or Spring crop the actual area reaped was 70,961 acres. Other crops grown, such as ground provisions, coffee, rubber, coconuts, casco and limes amounted to 44,828 acres.
+
+The forests, with which the interior of the colony is covered, abound in woods of rare beauty and value. Some of the hard woods are, from their remarkable durability, peculiarly suitable for house and shipbuilding purposes, and for railway sleepers, while others are equally prized for the manufacture of household furniture.
+
+During 1934, 132,240 tons of sugar, and 1,346,307 pf. gallons of rum, were produced. The bulk of the production is high-class vacuum pan sugar for refining purposes, while certain quantities of the far-famed "Demerara Crystals" are still exported.
+Coconuts, coffee and cocoa are grown on the alluvial soils on the banks of the rivers. Rice is now grown to a considerable extent, chiefly by East Indians, on the low lands within the empoldered areas. Rice exported, 1934, 14,700 tons, valued at £121,477l.
+
+Gold and diamond working is carried on by about 3,500 diggers. The diamonds exported during 1934 amounted to 44,423 carats, valued at £100,728l.
+
+The values of the principal exports besides sugar (129,913 tons valued at £1,160,085l.) and rice are:
+
+- Bauxite, 66,279l.; gold, 140,687l.; timber, 21,196l.
+- Balata, 14,648l.; charcoal, 9,641l.; firewood, 6,943l.
+- Coconuts, 6,867l.; lumber, 2,144l.; molasses, 57,990l.
+- Coffee, 9,841l.; oils (essential of limes), 6,868l.
+
+The chief imports are beef, pork, cheese, butter, cornmeal, flour, machinery, dried fish, manure, tobacco, oils, earthenware, glass and hardware, cutlery, textiles, spirits, wines and malt liquors.
+
+Fifty-five per cent. of the trade is with the United Kingdom, 19 per cent. with Canada, and 6 per cent. with the United States; other important customers being British West Indies, Holland, Belgium, and Dutch Guiana.
+
+Import duties are leviable both on an ad valorem and a specific basis, the total amount of revenue collected in 1934 from goods paying specific duties being £350,210l., as compared with £133,234l. from goods subject to ad valorem rates. The prevailing ad valorem duty rates (calculated on c.i.f. values) are 16½ per cent. (British Preferential tariff) and 3¾ per cent. (General tariff). Jewellery, motor vehicles and parts, plate and plated ware pay 20 per cent. and 40 per cent. respectively, while agricultural and other industrial machinery is exempt from duty if of British Empire manufacture but is liable to a 7½ per cent. ad valorem duty if of foreign origin.
+
+Most dutiable articles of British Empire manufacture or production receive a preference equivalent to one-half of the General tariff rates, but the preference on certain specified articles, viz., apples, beef (pickled), boots and shoes (not being of rubber), butter, cement, cheese, cocoa, confectionery, cordage, fish (canned, dried or otherwise preserved), lard, milk, pork is a minimum of 66½ per cent. The preference on flour is 48 cents a bag of 196 lbs., on spirits 60 cents a gallon, and on wine, beer and ale 20 per cent. of the general rate. Boots and shoes of rubber receive a preference of over 100 per cent.
+
+The following are the principal revenue-yielding articles of import on which duty is payable on a specified weight or other measure of quantity:
+
+- Tobacco, flour, spirits, kerosene oil, motor spirit, wines and malt liquors.
+
+Medical Institutions.
+
+There are six Government public (general) hospitals providing beds for approximately 925 patients. The accommodation varies from 8 beds in smaller out-stations to 615 beds in the Public Hospital, Georgetown (Demerara).
+
+There are also a Mental Hospital in Berbice and a Leprosy Hospital at Mahaica (Demerara) providing accommodation for 738 and 446 patients respectively.
+
+There are in addition to the dispensaries attached to the general hospitals 13 Government dispensaries in outlying parts of the Colony.
+
+Twenty-three hospitals, with dispensaries, with 1,640 beds, are maintained by proprietors of sugar estates.
+
+Attached to the Public Hospital, Georgetown, (Demerara) are X-Ray and Electrical-treatment, Ophthalmic, Dental and Bacteriological Departments, and Venereal Diseases and Tuberculosis sections. Infirmarys are attached to the Prisons (2), Alms House (1) and Industrial School.
+
+The Public Health Department consists of 1 Medical Officer of Health and 2 Assistant Medical Officers of Health and 32 Sanitary Inspectors.
+
+There are two institutions where nurses are trained by qualified medical and nursing staffs.
+
+There is a Surgeon Specialist attached to the Public Hospital, Georgetown, and the European nursing staff consists of 1 Nurse Superintendent and 5 Divisional Sisters.
+
+Education.
+
+A State-aided system of elementary education was established by Law—The Education Ordinance Cap. 196.
+
+The elementary schools are denominational. The central administration is vested in a Director and Education Committee, and the local control in managers, who are usually ministers of religion.
+
+The number of schools receiving aid in 1934 was 227, with 47,811 scholars, and the aid granted amounted to £88,679l.
+
+Provision is made for the higher education of boys by a Government college in Georgetown, in which the course of instruction is similar to that of a public school or first grade grammar school in England. Two secondary schools for girls, one for boys, and one for boys and girls, receive grants in-aid from the Government, and there is awarded annually one public scholarship of the value of 900l., open to boys and girls and tenable at a University or College in the British Empire. Twelve Scholarships, entitling the holders to free education at the Government College or at other approved schools, are granted to scholars of the elementary schools. In 1924-25 the whole system of education in the Colony was investigated by a Commission. Important changes were recommended, and are being made as opportunity arises.
+
+A Teachers' Training Centre was established in September, 1928.
+
+During 1931 a Government School with accommodation for 600 pupils was erected in Georgetown in place of two elementary denominational schools which were closed. This school was opened on 1st June, 1932.
+
+Currency and Banking
+
+Accounts are kept in dollars and cents. British sterling and United States gold coin are current and legal tender.
+
+On the 16th August, 1915, the Combined Court approved of the issue of Government Currency Notes of the face value of $1$ 2s. 2d., and $2$ 8s. 4d. The first notes were issued in January, 1917; and on the 31st December, 1934, there were Notes in circulation to the face value of 104,166l.
+
+Barclays Bank (Dominion, Colonial and Overseas) Ltd., and Royal Bank of Canada have establishments at Georgetown, with branches at New Amsterdam, Berbice. The former, on the 31st December, 1934, had a note circulation in British Guiana of 92,840l., and the Royal Bank of Canada 62,633l. The total note circulation in the Colony on the 31st December, 1934, was 259,339l.
+
+The first Government savings banks were established at Georgetown and New Amsterdam in the year 1836. The Combined Court in November, 1910, passed a resolution approving of the amalgamation of the two Banks, and authorising the transfer of the Government Savings Bank to the Post Office on the 1st July, 1911.
+
+The British Guiana Bank, now the Royal Bank of Canada, opened a Savings Bank Department when this amalgamation took place, and a considerable amount of business went into their hands. Barclays Bank has also since opened a Savings Bank department.
+
+There are 41 Post Office Savings Banks. At the end of 1934 these banks had 40,657 depositors, with £30,683l. to their credit.
+BRITISH GUIANA.
+
+FINANCES.
+
+| Year | Revenue | Expenditure | British Tonnage | Total Tonnage |
+|------|---------|-------------|-----------------|---------------|
+| 1925 | £1,095,674 | £1,126,394 | 798,248 | 1,219,231 |
+| 1926 | £1,054,127 | £1,173,491 | 692,141 | 1,090,806 |
+| 1927 | £1,068,865 | £1,148,023 | 685,412 | 1,138,493 |
+| 1928 | £1,185,811 | £1,159,139 | 790,280 | 1,290,119 |
+| 1929 | £1,252,322 | £1,126,218 | 845,221 | 1,324,312 |
+| 1930 | £1,013,282 | £1,093,043 | 836,153 | 1,434,190 |
+| 1931 | £1,319,862 | £1,251,733 | 836,543 | 1,523,930 |
+| 1932 | £1,179,615 | £1,137,789 | 952,857 | 1,505,717 |
+| 1933 | £1,147,452(a) | £1,129,319(a) | 945,517 | 1,454,250 |
+| 1934 | £1,272,001(a) | £1,205,427(a) | — | — |
+
+(a) Includes Imperial Grants and interest free loans and expenditure therefrom.
+
+IMPORTS.
+
+| Year | From U.K. | From Colonies | From Elsewhere | Total |
+|------|-----------|---------------|----------------|-------|
+| 1925 | £1,539,209 | £748,840 | £620,525 | £2,908,434 |
+| 1926 | £1,231,543 | £777,098 | £590,287 | £2,689,928 |
+| 1927 | £1,263,960 | £688,627 | £520,231 | £2,470,818 |
+| 1928 | £1,360,738 | £670,846 | £439,342 | £2,470,926 |
+| 1929 | £1,258,287 | £532,770 | £424,658 | £2,216,715 |
+| 1930 | £1,130,664 | £452,531 | £388,772 | £1,971,967 |
+| 1931 | £934,864 | £357,536 | £302,805 | £1,595,205 |
+| 1932 | £1,078,278 | £341,100 | £271,513 | £1,690,891 |
+| 1933 | £1,115,722 | £379,092 | £306,852 | £1,801,666 |
+| 1934 | — | — | — | £1,750,006 |
+
+EXPORTS.
+
+| Year | To U.K. | To Colonies | To Elsewhere | Total |
+|------|---------|-------------|--------------|-------|
+| 1925 | £1,339,250 | £901,781 | £630,064 | £2,967,095 |
+| 1926 | £989,482 | £1,115,490 | £629,133 | £2,734,105 |
+| 1927 | £1,076,105 | £1,441,298 | £821,424 | £3,338,827 |
+| 1928 | £952,157 | £1,445,228 | £712,138 | £3,109,523 |
+| 1929 | £823,503 | £1,173,545 | £559,522 | £2,556,570 |
+| 1930 | £678,333 | £1,122,302 | £423,762 | £2,222,397 |
+| 1931 | £633,377 | £986,884 | £390,201 | £2,010,462 |
+| 1932 | £1,007,649 | £840,073 | £361,179 | £2,208,901 |
+| 1933 | £1,212,531 | £607,088 | £258,071 | £2,077,690 |
+| 1934 | £1,016,413 | — | — | £1,894,131 |
+
+Customs, 1933, £50,631l.
+
+Public Debt at 31st December, 1934, amounted to £4,610,715l., including Loans of £118,647l., from Colonial Development Fund.
+
+Governors since 1898.
+
+Sir Walter J. Sendall, G.C.M.G. . . . 27 Mar., 1898
+Sir Alexander Swettenham, K.C.M.G. . . . 25 Dec., 1901
+Sir Fred. M. Hodgson, K.C.M.G. . . . 26 Sept., 1904
+Sir W. Egerton, K.C.M.G. . . . 5 July, 1912
+Sir W. Collett, K.C.M.G. . . . 15 April, 1917
+Sir Graeme Thomson, K.C.B. . . . 4 April, 1923
+Sir Cecil Hunter Rodwell, K.C.M.G. . . . 31 Aug., 1925
+Brig.-Gen. Sir F. Gordon Guggisberg, K.C.M.G., D.S.O., R.E. . . . 7 Nov., 1928
+Sir Edward Donham, K.C.M.G., K.B.E. . . . 9 June, 1930
+Sir G. A. S. Northoote, K.C.M.G. . . . 26 Mar., 1935
+
+Executive Council.
+
+The Governor.
+Colonial Secretary.
+Attorney-General.
+F. Dias, O.B.E., Major W. Bain Gray (Director of Education), J. S. Dash (Director of Agriculture), E. A. Luckhoof, E. G. Woolford†, E. F. McDavid, M.B.E. (Colonial Treasurer), J. Mullin, O.B.E. (Commissioner of Lands and Mines), F. J. Seaford† and M. B. G. Austin.
+
+† Elected Members of the Legislative Council.
+
+Clerk of the Council, G. C. Green, M.B.E. (Principal Assistant Colonial Secretary).
+
+Legislative Council.
+
+The Governor.
+The Members of the Executive Council
+W. A. D'Andrade, Comptroller of Customs, Major J. C. Craig, D.S.O. (Director of Public Works), Dr. J. A. Henderson (Surgeon-General), M. B. Laing (District Commissioner, East Coast Demerara District).
+P. C. Wight, O.B.E., J. Eleazar, J. Gonsalves, J. I. de Aguilar, J. B. Singh, Peer Baechus, H. C. Humphrys, A. R. Crum Ewing, C. R. Jacob, A. G. King, S. H. Seymour, elected Members; E. M. Walcott, J. W. Jackson, F. A. Mackay, nominated unofficial Members.
+
+Clerk to the Council, D. L. B. Wickham.
+
+Civil Establishment.
+
+Governor, Sir G. A. S. Northoote, K.C.M.G., 3,500l., duty allowance 500l., contingencies 1,000l.
+Private Secretary, Commander J. R. Maitland-Mackgill-Crichton, R.N. (retd.).
+
+Legislature.
+Official Reporter and Librarian, B. D. McDougall, 375l. to 475l., service allowance 50l. per annum.
+
+Salaries.
+
+The Clerical Service is paid according to the following incremental scales:
+
+Class I Clerk . . . 357l. 10s. to 417l. 10s.
+Class II Clerk . . . 262l. 10s. to 337l. 10s.
+Class III Clerk . . . 95l. 0s. to 250l. 0s.
+Probationers . . . 75l. 0s. to 90l. 0s.
+
+Class III Clerks and Probationers are not shown in the following list.
+
+Colonial Secretariat.
+Colonial Secretary, E. J. Waddington, C.M.G., O.B.E., 1,485l. to 1,635l.
+Principal Assistant Ditto, G. C. Green, M.B.E., 800l. to 850l.
+Assistant Colonial Secretary, C. W. H. Collier, 600l.
+Principal Clerk, C. J. H. King, 480l.-25l.-580l.
+Class I Clerks, C. E. Gray, L. E. Kranenburg. *357l. 10s. to 417l. 10s..
+Class II Clerks, Miss O. Rose, E. S. S. Burrowes. †262l. 10s. to 337l. 10s.
+
+District Administration.
+
+Secretary, E. S. Christiana, 600l.
+Berbice District:
+District Commissioner, W. A. Macnie, 450l.-600l.
+Class II Officer, W. Roberts, 325l. to 375l.
+East Coast Demerara District:
+District Commissioner, M. B. Laing, 650l. to 800l.
+Class I Officer, R. R. Weatherhead, 525l.
+Class II Officer, H. A. Howard, 310l. to 337l. 10s.
+Georgetown and East Bank Demerara District:
+District Commissioner, C. H. Norton, 500l. to 660l.
+Class II Officer (vacant), 325l. to 375l.
+Class II Officer, J. Pasila, 310l. to 337l. 10s.
+West Demerara District:
+District Commissioner, F. W. V. Green, 500l. to 650l.
+Class I Officer, C. G. A. Thompson, 395l. to 475l.
+Class II Officer, C. P. Ouckama, 325l. to 375l.
+Essequibo District:
+District Commissioner, L. M. Nightingale, 500l. to 700l.
+Class II Officer, R. L. Thompson, 325l. to 375l.
+
+*Secretariat Allowance of 15l. per annum.
+†Secretariat Allowance of 10l. per annum.
+North-West District:
+District Commissioner, A. W. B. Long, 500l. to 650l.
+
+Rupununi District:
+District Commissioner, E. A. Haynes, 500l. to 650l.
+
+Audit Office.
+Auditor, J. L. Worlledge, 900l.
+Assistant Auditor, R. Rodway, 575l. to 675l.
+
+Class I Clerk:—J. A. M. Osborn, 375l. to 475l.
+Class II Clerks:—J. R. Henry, E. C. Johnson, 325l. to 375l.; Miss I. L. Uchlein, J. K. Luck, 262l. 10s. to 337l. 10s.
+
+Treasury.
+Colonial Treasurer, E. F. McDavid, M.B.E., 1,000l. to 1,100l.
+Deputy Colonial Treasurer (vacant) 700l. to 800l.
+Chief Clerk, R. N. Gilchrist, 480l. to 580l., service allowance, 50l.
+Accountant, A. B. Campbell, 480l. to 580l., service allowance, 50l.
+
+Class I Clerk, G. F. Hopkinson, 375l. to 475l.
+Class II Clerks, R. Ruhomon, service allowance 40l., L. Dummsett, J. A. T. Ries, 325l. to 375l., C. L. Kranenburg, 262l. 10s. to 337l. 10s.
+
+Treasury—Income Tax Branch.
+Commissioners, E. F. McDavid, M.B.E., 100l.; one vacancy.
+Secretary, C. T. Uchlein, 375l. to 475l.
+Class I Clerk, E. A. Q. Potter, 357l. 10s. to 417l. 10s.
+Class II Clerk, J. V. Bourne, 262l. 10s. to 337l. 10s.
+
+Stamps.
+Commissioners of Stamps, The Colonial Treasurer, The Postmaster-General, The Registrar.
+
+Currency.
+Commissioners of Currency, The Colonial Secretary, The Colonial Treasurer, The Comptroller of Customs.
+Secretary, I. O. Smith, 262l. 10s. to 337l. 10s.
+
+Customs.
+Comptroller of Customs and Rum Duties, and Registrar of Shipping, W. A. D'Andrade, 850l.
+Sub-Controller, New Amsterdam, C. A. L. Mittelholzer, 250l.
+Sub-Controller, Springlands, W. U. Mapp, 250l.
+Chief Clerk, F. O. Richards, 725l.
+Surveyor, G. A. R. Benson, 575l.
+Assistant Surveyor, G. D'Ornellas, 525l.
+
+Class I Clerks:—C. G. Chalmers, 525l., N. L. Fraser, 357l. 10s. to 417l. 10s.
+Class II Clerks:—J. L. D. Goulding, C. D'Ornellas, J. R. Tranquada, E. Brand, G. H. Croal, E. V. D. Goulding, C. B. Roberts, F. R. Mittelholzer, C. A. Hirschfeld, G. B. Melville, O. J. de Freitas, 262l. 10s. to 337l. 10s.
+
+Department of Immigration and Repatriation.
+Immigration Agent-General, Dr. B. N. V. Wase-Bailey, M.D., Ch.B., D.P.H. (Government Medical Officer of Health).
+Class I Officer, C. F. Minns, 375l. to 475l.
+Emigration Agent at Calcutta (officiating), Lt.-Col. A. Denham-White, I.M.S.
+One 5th Class Clerk and Interpreter, 130l. to 180l.
+Interpreters (two), Hindi. Salaries 200l.
+
+Medical Department.
+Surgeon-General, Dr. J. A. Henderson, M.B., Ch.B., B.Sc. (P.H.), D.T.M. & H., Edin., 1,000l. to 1,200l., travelling allowance according to authorised scale, consulting practice.
+
+Clerks:—
+Chief Clerk, J. R. Farnum, 480l. to 580l., service allowance, 50l.
+Class II Clerk, S. Sandiford, 325l. to 375l.
+
+Government Medical Officers.
+Ophthalmologist, J. A. Browne, M.B., Ch.B., 700l., house allowance 100l., duty allowance 150l., consulting practice.
+Government Medical Officer of Health, B. N. V. Wase-Bailey, M.D., Ch.B., D.P.H., 750l. to 900l., travelling allowance 100l., house allowance 100l.
+Assistant Government Medical Officer of Health, (vacant), 650l. to 800l., travelling allowance 100l., house allowance 100l., duty allowance 150l.
+Assistant Government Medical Officer of Health, E. Cochrane, M.B., Ch.B., D.P.H., 625l. to 700l.; house allowance 100l., travelling allowance 50l.
+Bacteriologist, G. H. Steven, M.B., Ch.B., 700l. and quarters. Duty allowance, 150l., free house.
+Resident Surgeon and Surgeon Specialist, Public Hospital, Georgetown, J. D. Grierson, M.B., Ch.B., F.R.C.S.(Edin.), F.R.C.S.(Eng.), 1,100l., Duty allowance 250l.; free house; consulting practice.
+Senior-Surgeon, Public Hospital, Georgetown, G. W. Mearns, M.B., Ch.B., 500l. to 700l., duty allowance 100l. Quarters.
+Senior-Physician, Public Hospital, Georgetown, S. C. Bettencourt-Gomes, M.B., Ch.B., 500l. to 700l., duty allowance 100l. Quarters.
+Resident Surgeon, Public Hospital, Berbice, J. Glavina, M.D., 500l. to 700l., duty allowance 200l., free house.
+Resident Surgeon, Public Hospital, Suddie, Government Medical Officer, Suddie District, and Medical Officer, Onderneeming Industrial School, G. M. Kerry, L.R.C.P., L.R.C.S., L.R.F.P.S. (acting), 500l. to 700l., free house, duty allowance 50l., travelling allowance 75l. Private practice.
+Resident Surgeon, Public Hospital, Bartica District, V. V. H. Hoakai, M.R.C.S., L.R.C.P. (acting), 500l. to 700l., free house and private practice.
+Resident Surgeon, Public Hospital, Mabaruma, and Government Medical Officer, North-Western District, A. T. D. Whitfield, M.R.C.S., L.R.C.P., 500l. to 700l., free house and private practice.
+Medical Superintendent, Mental Hospital, C. E. S. Mitchell, M.B., Ch.B., 500l. to 700l., duty allowance 150l., personal allowance 100l., free house.
+Medical Superintendent, Leprosy Hospital, F. G. Rose, M.D., B.A., B.Ch. (Cantab.), M.R.C.S. (Eng.), L.R.C.P. (Lond.), D.M.R. and E. (Camb.), M.R.C.P., 700l., free house, duty allowance 200l., personal allowance 100l.
+Skelton District, C. R. Subryan, M.B., Ch.B., 600l. to 700l., private practice and travelling allowance 75l.
+Port Mourant District, L. R. Sharples, M.B., Ch.B., 500l. to 700l., private practice and travelling allowance 75l.
+Canje-Highbury District, G. E. Carto, L.R.C.P., L.R.C.S., L.R.F.P.S., 500l. to 700l., private practice and travelling allowance 75l.
+Cotton Tree District, Dr. E. W. Reece, M.C.P. & S., M.D.C.M. (acting), 500l. to 700l., private practice and travelling allowance 75l.
+Makaicony District, F. Vispree, M.B., Ch.B., 350l., private practice and travelling allowance 125l., and free house.
+Mahaica District, G. T. G. Boyce, L.R.C.P., L.R.C.S., L.R.F.P.S., 500l. to 700l., private practice and travelling allowance 75l.
+
+Buzzton District, J. E. R. Ramdeholl, L.R.C.P., L.R.C.S., L.R.F.P.S., 500l. to 700l., private practice and travelling allowance 75l.
+
+Peter's Hall District, Q. B. de Freitas, M.R.C.S., L.R.C.P., 500l. to 700l., private practice and travelling allowance 75l.
+
+West Bank, Demerara District, J. Nedd, L.R.C.P., L.R.C.S., L.R.F.P.S., 500l. to 700l., private practice and travelling allowance 75l.
+
+West Coast, Demerara District, R. N. Cozier, L.M.S.S.A., 500l. to 700l., private practice and travelling allowance 75l.
+
+Assistant Medical Officers, O. M. Francis, M.D., C.M. (McGill), L.M.S. (Nova Scotia), D.P.H., G. A. Grandalsoult, L.R.C.P., L.R.C.S., L.R.F.P.S., E.G. H. Payne, M.B., Ch.B., W. D. Pollard, M.B., Ch.B., W. W. Beeson, M.B., Ch.B., S. T. M. Sang, M.D., M.B., Ch.B., N. J. Abbensetts, M.B., Ch.B., A. W. Dunn, M.B., Ch.B., C. Ramdeholl, M.B., Ch.B., N. J. Dias, M.R.C.S., L.R.C.P., 500l. to 700l. Quarters.
+
+Surgeon to Prison, Georgetown, Medical Officer, No. 1 Dispensary and Alms House and Superintendent, Georgetown Prison, D. J. Taitt, M.D., C.M., M.C.P. & S. (Ont.), 500l. to 700l., travelling allowance according to authorised scale, free house.
+
+Supernumerary Medical Officers, C. F. Roza, M.B., Ch.B., M. O. Luck, L.R.C.P., L.R.C.S., L.R.F.P.S.
+
+Public Hospital, Georgetown.
+
+Steward, A. F. Camacho, 325l. to 375l., 62l. 10s. house allowance and 40l. service allowance.
+
+Government Pharmacist, A. Fry, 375l. to 475l., and 62l. 10s house allowance.
+
+Superintendent of Nurses, Miss N. M. C. Horrocks, 300l., and furnished quarters.
+
+Divisional Nurses, Miss F. F. N. James, Miss E. Steele, and Miss V. E. Effer, 180l., and furnished quarters.
+
+Public Hospital, Berbice.
+
+Steward, C. E. Millington, 195l. to 245l., 50l. house allowance.
+
+Superintendent of Nurses (vacant), 200l., and furnished quarters.
+
+Mental Hospital, Berbice.
+
+Steward, S. O. Mortimer, 260l. to 310l., free house.
+
+X-Ray Department.
+
+Radiographer, E. Dalton, 350l. to 450l., house allowance 75l.
+
+Assistant Radiographer, A. J. Weston, 300l. to 350l., house allowance 75l.
+
+General Register Office.
+
+Registrar-General, Dr. B. N. V. Wase-Bailey, M.D., Ch.B., D.P.H. (Government Medical Officer of Health).
+
+Deputy Registrar-General, J. R. Farnum, 12l. 10s.
+
+Class II Clerk, J. W. Barker, 340l., service allowance 37l. 10s.
+
+Police.
+
+Inspector-General of Police and Commandant, Local Forces, Col. W. E. H. Bradburn, 1,000l., free quarters and transport allowance.*
+
+Deputy Inspector-General, Major C. P. Widdup, V.D., 650l. to 750l., and Superintendent of Fire Brigade, free house and transport allowance.* 100l. personal allowance.
+
+County Inspectors, C. T. Matthey, L. C. Bovell-Jones, 450l. to 550l., J. Nicole and T. W. Whittingham, 400l. to 500l.*
+
+Staff Officer, Local Forces, Capt. P. St. J. Cox, 557l. 1s. 8d.
+
+Pay and Quartermaster, A. V. Grace, 350l. to 450l.
+
+Detective Inspector, Capt. C. C. Murtland, 450l. to 550l., and transport allowance.*
+
+District Inspectors, S. Billyeald, M.S.M., 350l. to 450l., L. F. Edmonds and D. G. Carruthers, 350l. to 400l.*
+
+Sub-Inspectors, F. St. Maur Gerrard and W. R. Weber, 250l. to 350l., T. D. Widdup, M. I. N. Gordon (1 vacancy), 200l. to 300l.
+
+Inspectors of all ranks have quarters, and all, except Sub-Inspectors, receive transport allowance.
+
+Class II, S. W. Cole, 282l. 10s. to 337l. 10s.
+
+Warrant Officers, W. F. Gunby (1 vacancy), 350l. to 600l.
+
+Post Office.
+
+Postmaster-General, (vacant), 825l.
+
+Chief Accountant, B. O. Smith, 480l. to 580l. and service allowance 50l.
+
+Inspector of Post Offices and Staff Officer, W. G. G. Pearce, 375l. to 475l., and service allowance 50l.
+
+Bookkeeper, Geo. F. McPherson, 325l. to 475l., and service allowance, 50l.
+
+Superintendent Parcels Office, K. Kirkpatrick, 260l. to 375l.
+
+Class II Clerk, H. Mc. N. Brasington, 337l. 10s.
+
+Superintendent Mails Branch, E. G. D. Hinds, 195l. to 310l., and service allowance, 30l.
+
+Postmaster, New Amsterdam, I. C. Hamlet, 267l. 10s. to 475l.
+
+Postmaster, Georgetown, J. S. Castello, 267l. 10s. to 475l.
+
+Postmasters, 3 at 200l. to 245l., 3 at 200l. to 225l., 5 at 200l., 5 at 190l., 1 at 170l., 4 at 157l. 10s., 6 at 150l., 4 at 140l., 3 at 125l.
+
+Post Office, Telecommunications Branch.
+
+Chief Engineer and Electrical Inspector, F. J. R. Mackenzie, 650l. to 750l.
+
+Engineer, A. E. Gagan, 450l. to 550l.
+
+Senior Radio Operator, G. Parker, 250l. to 300l.
+
+Inspector, A. W. Maile, 350l. to 450l.
+
+Post Office, Savings Bank Branch.
+
+Accountant, R. McN. Fraser, 375l. to 475l., and service allowance 50l.
+
+Class II Clerk, Miss A. E. Rupertie, 377l. 10s.
+
+Transport and Harbours Department.
+
+Board of Management:—
+
+Chairman, The Colonial Secretary ex officio, and Nine Commissioners.
+
+General Manager and Civil Engineer, A. MacDougall, M.I.E.S., A.M.Inat.T., 850l. to 1,000l.
+
+Chief Clerk and Secretary to the Board, H. V. Abraham, 517l. 10s.
+
+Record Clerk, L. A. Thompson, 200l. to 250l.
+
+Accountant's Branch.
+
+Chief Accountant, V. C. Johnson, 500l. to 650l.
+
+Cashier, W. V. Colvin, 400l.
+
+Accountant's Assistant, C. H. Lord, 375l.
+
+Store.
+
+Storekeeper, M. Harding, 250l.
+
+Engineering (Maintenance) Branch.
+
+Maintenance Engineer, H. R. Guenin, 400l. to 500l.
+
+Asst. Permanent Way Inspector, V. Martin, 200l. to 300l.
+
+Engineering (Mechanical and Marine Branch.)
+
+Chief Mechanical Engineer, G. I. Goring, A.R.T.C., Glasgow, A.M.I.Mech.E., 1st Class B.O.T. Mar.E., 750l. to 850l.
+
+*Transport allowance according to authorised scale.
+Assistant Mechanical Engineer, A. H. July, M.I.Loco.E., 550l. to 600l. and quarters.
+Second Asst. Mechanical Engineer, J. Da Silva, M.I.Mar.E., 450l. to 500l.
+Workshop Foreman, J. A. Mitchell, A.M.I.Loco.E., 300l. to 400l.
+
+Traffic Branch.
+Traffic Inspector, J. De Cambra, 312l. 10s.
+
+(East Coast Railway).
+Stations Superintendent, E. Greeves, 300l.
+Goods Superintendent, E. Veecock, 250l. to 300l.
+Chief Goods Clerk, F. A. Charles, 200l.
+
+(West Coast Railway).
+Stations Superintendent, A. C. Isaacs, 250l.
+
+(Steamers).
+Stellings Superintendent, Captain C. A. Douglas, 400l.
+
+Harbours and Marine Branch.
+Harbour Master and Marine Superintendent, Lieut. R. D. Baird, R.N.R. (ret'd.), 450l. to 600l.
+Deputy Harbour Master, New Amsterdam, District Commissioner Ex-Officio.
+Deputy Harbour Master, Springlands, District Commissioner Ex-Officio.
+Deputy Harbour Master, Morawhanna, District Commissioner Ex-Officio.
+Harbour Clerk, R. N. McDavid, 250l. to 300l.
+1st Class Pilots, J. V. Mittelholzer; C. H. Walcott, 350l. to 400l.
+2nd Class Pilots, V. Stoll, 300l.
+3rd Class Pilots, A. S. Mittelholzer, F. Venture, 185l. to 225l.
+Hydrographer and Pilot, E. R. Davies, 450l.
+Surveyor and Draughtsman, R. G. H. Low, 200l. to 250l.
+Dredge Master, S. E. F. Merrett, 350l. to 375l.
+
+Poor.
+Chairman of the Poor Law Commissioners, J. A. Henderson, M.B., Ch.B., B.Sc. (P.H.), D.T.M. & H., Edin.
+Secretary, Inspector, and Superintendent of Alms House, J. E. Forde, 387l. 10s., by 12l. 10s. to 437l. 10s.
+Medical Officer, D. J. Taitt, M.D., C.M. (Queen's University, Ontario), M.C.P. & S. (Ontario), 500l., by 25l. to 700l., house allowance, 100l., travelling allowance, on actual mileage run.
+Commissioners, B. N. V. Wase-Bailey, M.B., Ch.B., D.P.H., Govt. Medical Officer of Health, Rev. Fr. J. E. Darby, Rev. J. B. Brindley, Rev. Canon L. J. Rowe and Rev. Geo. N. Leslie.
+
+Education Department.
+Director of Education, Major W. Bain Gray, M.A., B.Litt., Ph.D., 900l.
+Inspector of Schools, I. G. Crease, M.A., 550l. to 650l.
+2nd Inspector of Schools, R. S. Ducker, M.A., 480l. to 680l.
+Assistant Inspector and District Educational Officer, A. A. Bannister, B.A., 325l. to 375l.
+Senior Clerk, W. O. Fraser, 375l. to 475l.
+Class II Clerk, W. E. Davis, 325l. to 375l., service allowance, 40l.
+
+Queen's College.
+Principal, Captain H. Nobbs, M.Sc., F.I.C., 750l. to 800l. House allowance 100l.
+3 Assistant Masters E. O. Pilgrim, B.Sc., H. A. M. Beckles, M.A., and J. H. Bevis, B.Sc., 450l. to 600l.
+2 Assistant Masters, W. R. Clark, B.Sc., A.I.C., C. H. Conts, M.A., 450l. to 525l.
+2 Assistant Masters, J. C. La T. Potter, B.A., G. P. Dartford, B.A., 450l. to 525l.
+1 Assistant Master, N. E. Cameron, M.A., 325l. to 425l.
+2 Assistant Masters, H. V. Taitt, M.A., F. T. Weston, R.A., 425l.
+
+Government Industrial School (Onderneeming).
+Superintendent, District Commissioner, Essequibo, house.
+Chief Officer, Wm. Earle, 270l. and quarters.
+Schoolmaster, A. S. Dolphin, 130l. and quarters.
+
+Public Works.
+Director of Public Works and Sea Defences, Major John Cormack Craig, D.S.O., M.Inst.C.E., M.E.I.C., 1,200l. and travelling allowance. Fees as Chairman, Board of Examiners for Land Surveyors.
+Executive Engineer, Berbice, H. S. Whittaker, A.M.I.M. & C.E., A.M.I.Struct.E., 600l. by 25l. to 800l., and travelling allowance.
+Executive Engineer, West Demerara, F. H. Allen, M.Inst.C.E., M.I.M.E., 600l. by 25l. to 800l., and travelling allowance.
+District Engineer, East Demerara, J. W. Mearns, B.Sc., A.M.I.C.E., A.M.I.Struct.E., 600l. by 25l. to 650l., and travelling allowance.
+District Engineer, Georgetown, R. B. Craig, A.M.I.C.E., M.R.S.I., 500l. by 25l. to 600l., and travelling allowance.
+Yard Superintendent, C. P. Roberts, 300l. by 25l. to 350l., and travelling allowance.
+Resident Engineer, Pure Water Supply Scheme, T. S. Harrington, 875l., with free transport and house allowance 75l.
+Driller, W. F. Halley, 625l., with free transport and house allowance 62l. 10s.
+Surveyor, R. Manson Hing, 250l. by 15l. to 500l.
+Senior Clerk, T. B. Reed, 375l. by 20l. to 475l., service allowance, 50l.
+Accounting Clerk, P. H. N. Saunders, 375l. by 20l. to 475l. Fees as Secretary, Board of Examiners for Land Surveyors.
+
+Class II Clerks, C. I. Rodrigues, C. W. Delph, service allowance, 30l., P. C. Cox, 260l. by 16l. to 310l.
+
+Department of Lands and Mines.
+
+General Staff.
+Commissioner, J. Mullin, O.B.E., M.Inst.M.M., F.S.I., 900l.
+Secretary and Accountant, H. P. Christians, M.B.E., F.R.G.S., 650l. by 25l. to 750l.
+
+Land Surveys Section.
+Superintendent of Surveys, W. Cunningham, 700l. by 25l. to 800l.
+Government Surveyors, V. Roth, M. P. Hastings, F.S.I. (vacant), 500l. to 600l., W. T. Lord, J. Phang, R. S. Kaufmann, C. P. de Freitas, 290l. to 500l., A. Lee Own, 245l. to 290l.
+Assistant Draughtsman, C. A. Cole, 195l. to 245l.
+
+Lands Section.
+Superintendent of Lands, G. F. Messervy, 480l. by 25l. to 680l., and service allowance of 50l.
+
+Mining Section.
+Class II Clerk, L. O. Van Sertima, 260l. by 10l. to 310l.
+
+Forest Department.
+Conservator of Forests, B. R. Wood, M.A., Dipl. For., 1,200l. to 1,500l., with free quarters.
+Assistant Conservators of Forests, T. A. W. Davis, Dipl. For., J. R. Lockie, B.Sc., 550l. to 775l. each.
+Assistant Conservator of Forests, J. B. Aitken, B.Sc., 500l. to 900l.
+
+* Special temporary arrangements of Engineers in connection with Pure Water Supply Schemes.
+Prisons.
+
+Inspector of Prisons, Col. W. E. H. Bradburn; Allowance 100l. per annum (also Inspector General of Police and Commandant Local Forces).
+Superintendent Georgetown Prison and Deputy Inspector of Prisons, W. F. Hodgson, 450l. by 25l. to 550l. with free house and uniform.
+Accountant and Clerk, W. E. Stewart, 307l. 10s. to 337l. 10s.
+
+Judicial.
+
+Chief Justice, B. A. Crean, 1,600l.
+Puisne Judge, J. H. L. Savary, 1,200l.
+Registrar of Deeds and of Supreme Court, E. M. Duke, LL.B., 700l. to 800l.
+Deputy Registrar, vacant.
+1st Class Clerks and Sworn Clerks and Notaries Public, G. H. Westmaas and J. B. Sharples, 425l. to 575l.
+Class II Clerks, J. H. Nathoo, 262l. 10s. to 337l. 10s. (with duty allowance of 75l.), H. F. Earl, Sworn Clerks and Notaries Public, 262l. 10s. to 337l. 10s. (with service allowance of 40l.).
+District Stipendiary Magistrates, J. H. S. McCowan, 575l. to 675l., J. A. Veerasawmy, D. E. Jackson, LL.B., 500l. to 650l.
+Clerks, Badris Nauth, C. F. Collins, D. P. Debidin, 260l. to 310l. each.
+
+Law Officers.
+
+Attorney-General, Hector Josephs, K.C., 1,400l. to 1,600l.
+Clerk to Attorney-General, I. de Freitas, 357l. 10s. to 417l. 10s.
+Assistant Attorney-General, S. E. Gomes, 500l., to 650l., with private practice.
+Crown Solicitor, P. W. King.
+
+Stipendiary Magistrate in Georgetown.
+
+P. F. Steward, B.A., 675l. to 765l.
+Clerk (vacant).
+Official Receiver and Public Trustee's Department.
+Official Receiver, Public Trustee and Crown Solicitor, P. W. King, 900l. to 1,000l.
+Class I Clerk, M. K. Khan, 357l. 10s. to 417l. 10s.
+Class II Clerk, A. J. Gaskin, 262l. 10s. to 377l. 10s.
+
+Government Analyst's Department.
+
+Government Analyst, K. Wallis, B.Sc., A.I.C., 750l.
+First Assistant Analyst, N. Nowsam, 350l. to 500l.
+
+Department of Agriculture.
+
+Director of Agriculture, Prof. J. Sydney Dash, B.S.A., 1,200l. with free quarters.
+Deputy Director of Agriculture, F. Burnett, M.C., M.A., 900l.
+Entomologist, L. D. Cleare, F.L.S., F.R.E.S., 600l. to 750l.
+Botanist and Mycologist, E. B. Martyn, B.A., 500l. to 600l.
+Veterinary Surgeon, Major T. Bone, O.B.E., M.R.C.V.S., 600l. to 700l.
+Chemist-Ecologist, R. R. Follett-Smith, B.Sc., A.R.C.S., 600l. to 750l.
+Plant Breeder, L. E. Codd, M.Sc., 450l. to 600l.
+Assistant Chemist, C. L. C. Bourne, 400l. to 500l.
+Sugar Cane Agronomist, C. H. B. Williams, M.A., Dip. Agr., A.L.C.T.A., 500l. to 600l.
+Agricultural Superintendent, E. M. Poterkin, 500l. to 600l., H. Macluskie, U.D.A., 500l. to 600l., J. D. Gillespie, B.Sc., 500l. to 600l., H. D. Huggins, M.Sc., Dip. Agr. L.C.T.A., 500l. to 600l.
+
+Assistant Superintendents, A. A. Abrahams, 350l. to 450l., E. G. Benson, B.Sc., Dip. Agr., A.L.C.T.A., 350l. to 450l.
+Senior Clerk, J. F. Irving, M.C., 325l. to 375l.
+Class II Clerk, W. G. Delph, 325l. to 375l., 15s.
+Agricultural Instructors, E. M. Morgan, 260l. to 310l., C. D. Dowding, 260l. to 310l., and H. A. Cole, 195l. to 245l.
+
+Militia.
+
+Commandant, Colonel W. E. H. Bradburn.
+Staff Officer, Local Forces, Lieut. P. St. John Cox, Local Capt.).
+Bandmaster, Militia, Lieutenant S. W. Henwood, 350l., with free partly furnished quarters; uniform allowance 10l. p.a.; fuel and light allowance, 10l. p.a.
+
+Public Health Department.
+
+Government Medical Officer of Health, B. N. V. Wase-Bailey, M.D., D.P.H., D.T.M. & H., 750l. to 900l.
+2 Assistant Government Medical Officers of Health, (vacant), 650l. to 800l., E. Cochrane, M.B., Ch.B., D.P.H., 625l. to 700l.
+2 County Sanitary Inspectors, H. A. Moonsawmy, M.R.San.l., F.R.E.S., Demerara, F. J. July, M.R.San.l., Berbice, 275l. to 325l. each, and house allowance 75l. or house provided.
+
+Ecclesiastical Establishments for 1932.
+
+Bishop, Right Rev. Oswald Hutton Parry, M.A.
+Grant to Church, 1,370l.
+For Missionary Purposes—for work among—Immigrants from the East and Aboriginal Indians, 613l. 6s. 8d.
+
+Church of Scotland.
+
+Rev. G. N. Leslie.
+Grant to Church, 342l. 18s. 4d.
+Grant in aid of Supenaam Mission, 115l.
+
+Roman Catholic Church.
+
+Bishop, The Right Rev. G. Weld, 306l. 5s. for support of the Church.
+Missionary purposes, North Western District, 136l. 5s.
+
+Wesleyan Missionary Society.
+
+Superintendent of British Guiana Branch, Rev. J. B. Brindley, 141l. 13s. 4d. for support of this Mission.
+
+Foreign Consuls.
+
+France, J. M. C. Pingaud (resides in Trinidad): Consular Agent, S. Psaila.
+Sweden, T. R. Cowell.
+Norway, Jorgen Brumelhorst, Consul-General at Havana; Hon. Consul, F. A. Mackey.
+Spain, J. H. Salvatori (resides in Trinidad), S. Psaila, Honorary Vice-Consul.
+Portugal, Consul, S. de Freitas; Vice-Consul, Senhor M. Fernandes.
+The Netherlands, E. M. Walcott.
+Republic of Venezuela, Honorary Consular Agent, C. V. Guzman.
+Brazil, Jorge Camacho (acting).
+Belgium, H. Bothé (Charge d'Affaires ad interim); R. Genar (acting in George-town).
+Italy (Jurisdiction added to the Consulate at Trinidad), Dr. C. Romiti, Vice-Consul.
+Denmark, F. M. Walcott.
+United States of America, A. L. Demorest, Vice-Consul at Trinidad.
+Haiti, L. Deveaux.
+Finland, Vice-Consul, W. S. Jones.

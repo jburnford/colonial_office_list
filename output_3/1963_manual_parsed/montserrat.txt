@@ -1,0 +1,156 @@
+MONTSERRAT
+
+Area and Geographical Features
+
+The area of the island is about 32 square miles. It is entirely volcanic, very mountainous and comprises three main hill masses—Silver Hill in the north (1,285 feet), Central Hills (2,450 feet) and Soufrière Hills (Chance Peak 3,002 feet) in the south. Forest and woodland cover about 10 square miles in the two main ranges and streams
+are plentiful. The northern hills, however, are almost without trees and in that part of the island there is little cultivation.
+
+**Population**
+
+The population numbered 12,108 at the 1960 census, and was estimated to be 12,717 at the end of 1961.
+
+**Principal Town**
+
+Plymouth, the only town, had a population of 1,911 at the census.
+
+**History**
+
+The island was colonized in 1632 when a number of Irishmen of Sir Thomas Warner's company made their homes there. It was captured by the French in 1667, restored to England at the Peace of Breda later in the same year, capitulated to the French again in 1782 and was finally ceded to Britain in 1783.
+
+**Constitution**
+
+The constitutional arrangements are the same as for Antigua (see page 69) except for the following differences:
+
+(i) In Executive Council there are four unofficial members (the Chief Minister, two other Ministers and a Member without Portfolio) and two official members (the Crown Attorney and the Financial Secretary). These three Ministers are appointed from the elected members of the Legislative Council.
+
+(ii) The present composition of the Legislative Council is the Administrator, who presides, two official members, one nominated unofficial member and seven elected members.
+
+(iii) Montserrat shares a joint Police Force with Antigua and the Virgin Islands. The head of this joint Force is appointed by the Administrator of Antigua acting in his discretion and gazetted ranks of the Force are appointed by the Administrator of Antigua after consultation with the Police Service Commission.
+
+**Land Policy**
+
+Crown land comprises the Government Land Settlement, where occupation is confined to an annual lease, and a small area acquired for public purposes. All other land is privately owned.
+
+**Taxation**
+
+The following forms of direct taxation are in force:
+
+- Income Tax (ranging from 6d. to 15s. per £ of chargeable income; companies 6s. 8d. per £ of chargeable income).
+- Land and House Tax.
+- Motor Vehicles Tax.
+- Bicycles Tax.
+- General Taxes.
+
+The other main forms of taxation are import and export and excise duties.
+
+**Public Finance**
+
+| Year | Revenue $000 B.W.I. | Expenditure $000 B.W.I. |
+|------|-------------------|-----------------------|
+| 1957 | 1,246             | 1,510                 |
+| 1958 | 1,725             | 1,802                 |
+| 1959 | 2,323             | 2,203                 |
+| 1960 | 1,995             | 2,016                 |
+| 1961 | 2,017             | 2,202                 |
+
+In 1961 approximately 34% of local revenue was derived from Customs duties, approximately 5% from sale of postage stamps, approximately 8% from income tax and approximately 53% from miscellaneous sources. The main heads of expenditure were: Education $286,305, Medical and Health (including Hospital) $232,318, Public Works $413,037, Agriculture $328,998, Electricity $131,993.
+
+The Colony receives an annual grant-in-aid of administration.
+
+**Currency**
+
+(See under Antigua—page 69.)
+
+**Development Plans**
+
+For the period 1960–64 a further allocation of £200,000 was made. The 1960–64 Development Plan includes soil conservation, improvement and expansion of the livestock industry, land clearing, vegetable production and marketing, banana and sugar-cane cultivation, fisheries development, forestry, co-operative development, public works (for example, road construction), social services (for example, health and hospital improvement, sanitation, housing and water supplies).
+
+**Education**
+
+Primary and secondary education are both controlled by Government. There are 12 Government elementary schools, one aided and one unaided denominational school and two private elementary schools. There is one Government secondary school preparing students up to the Higher School Certificate and a preparatory private school for children between the ages of 5 and 12 years. At the end of 1961 3,080 children were enrolled in Government, aided and private primary schools, with an average attendance of 90·6%. The enrolment of the secondary school at the end of the same period was 175.
+
+Government expenditure on the Education Department in 1961 was $179,126.
+
+**Library**
+
+The Montserrat Public Library has a membership of 1,390. It has adult, juvenile and reference sections with a total stock of 10,340 books.
+
+**Health**
+
+Expenditure on medical and allied services in 1961 was $230,700, compared with $204,387 in 1960. There were 69 beds available at the Glendon Hospital and in-patients totalled 775. There were three health centres and eight outposts at which antenatal and infant welfare clinics were held.
+
+**Communications**
+
+There are three main public roads extending over 60 miles and about 58 miles of secondary unsurfaced roads.
+
+Blackburne airfield was opened in 1956. The runway is 3,600 feet long with clear approaches and take-off. Prior notification of arrival is required in order that Customs and other facilities may be provided.
+
+Ships of the Saguenay Line and the Harrison Steamship Companies call regularly. The island
+is linked with other islands of the Leewards group and with Dominica and Barbados, by a locally owned vessel. The West Indies Shipping Corporation also maintains a regular inter-island service by two motor vessels.
+
+Broadcasting
+
+The local broadcasting service is Government-owned. The transmitter (250W, 1,550 k.cs.) and the studio are located at the Botanical Gardens.
+
+Principal Occupations
+
+The main occupation is agriculture, chiefly the growing of bananas and sea island cotton. Increased attention is being given to the cultivation of fruit and vegetables for local consumption and export. A tomato paste factory was established in 1960.
+
+There are three employees' trades unions in the Colony: The Trades and Labour Union (membership 463); The Seamen's and Waterfront Workers' Union (membership 200); and The Union of Teachers (membership 78).
+
+Main Crops and Products
+
+The main crops are sea island cotton, bananas, limes, sugar-cane, sweet potatoes and tomatoes.
+
+Trade
+
+| Year | Total Imports ($000 B.W.I.) | Total Exports ($000 B.W.I.) |
+|------|-----------------------------|-----------------------------|
+| 1957 | 1,396                       | 395                         |
+| 1958 | 1,517                       | 394                         |
+| 1959 | 1,879                       | 534                         |
+| 1960 | 1,971                       | 272                         |
+| 1961 | 2,140                       | 307                         |
+
+Principal Exports by Value ($B.W.I.)
+
+- Cotton Lint: 1938 - 123,307; 1960 - 200,263; 1961 - 202,554
+- Fruit and Vegetables: — 29,203; 39,781
+- Livestock: — 2,762; 31,675
+
+The chief imports are food, apparel, cotton piece-goods, motor vehicles, metal manufactures, electrical equipment and building supplies.
+
+EXECUTIVE COUNCIL
+
+The Administrator (President).
+H. A. Besson (Crown Attorney).
+T. E. A. Perkins (Financial Secretary).
+W. H. Bramble (Chief Minister and Minister of Trade and Production).
+B. W. Edwards (Minister for Social Services).
+D. C. Fenton (Minister for Public Works).
+J. W. Allen (Member without Portfolio).
+
+LEGISLATIVE COUNCIL
+
+The Administrator (President).
+2 Official Members.
+1 Nominated Member.
+7 Elected Members.
+Clerk of Councils—C. McA. Ryan.
+
+State of Parties (Election 2.3.61)
+
+Montserrat Labour Party . . . . 5
+Montserrat United Workers' Movement . . . . 2
+
+CIVIL ESTABLISHMENT
+
+Administrator—D. A. Wiles, O.B.E.
+Administrative Secretary—S. St. A. Meade.
+Financial Secretary—T. E. A. Perkins.
+Director of Agriculture—(Vacant).
+Education Officer—T. E. Ryan, M.B.E.
+Law Officer: Crown Attorney-Magistrate (Registrar, Provost-Marshal)—H. A. Besson.
+Senior Medical Officer—C. N. Griffin, O.B.E. (Ag.).
+Director of Public Works—(Vacant).
+

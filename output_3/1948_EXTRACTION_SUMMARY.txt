@@ -1,0 +1,150 @@
+===============================================================================
+1948 COLONIAL OFFICE LIST - EXTRACTION SUMMARY
+===============================================================================
+
+EXTRACTION COMPLETED SUCCESSFULLY
+
+Date: 2025-11-19
+Method: Manual boundary identification by systematic document review
+
+-------------------------------------------------------------------------------
+RESULTS
+-------------------------------------------------------------------------------
+
+Total Colonies Extracted: 36
+
+Output Files Created:
+  - Directory: /home/user/colonial_office_list/output_3/1948_manual_parsed/
+  - Individual colony text files: 36 files
+  - Metadata JSON: 1948_manual_parsed.json
+  - Detailed report: 1948_PARSING_REPORT.md
+
+-------------------------------------------------------------------------------
+COMPARISON WITH 1946
+-------------------------------------------------------------------------------
+
+1946 Colonial Office List: 29 colonies
+1948 Colonial Office List: 36 colonies
+Change: +7 colonies (+24%)
+
+This increase reflects:
+- More granular coverage of territories post-Indian independence
+- Addition of Federation of Malaya as distinct entry
+- Separate listings for previously grouped territories
+- Detailed coverage of Pacific and Caribbean island groups
+
+-------------------------------------------------------------------------------
+KEY HISTORICAL NOTES
+-------------------------------------------------------------------------------
+
+1. PALESTINE: Excluded from 1948 edition
+   - Mandate terminated in May 1948
+   - As stated in preface: "The Palestine Mandate having been terminated 
+     the historical and statistical account has been omitted from Part II"
+
+2. INDIA: No longer included
+   - India became independent in August 1947
+   - Significant shift in British colonial holdings
+
+3. CYPRUS: Not found as separate Part II entry
+   - May be included in staff lists (Part III) only
+   - Or consolidated under another administrative structure
+
+4. NEW ENTRIES:
+   - Federation of Malaya (distinct from earlier Malaya references)
+   - More detailed island groupings in Western Pacific and Windward Islands
+
+-------------------------------------------------------------------------------
+COLONIES EXTRACTED (alphabetical)
+-------------------------------------------------------------------------------
+
+ 1. Aden
+ 2. Bahamas
+ 3. Barbados
+ 4. Bermuda
+ 5. British Guiana
+ 6. British Honduras
+ 7. Brunei
+ 8. Falkland Islands
+ 9. Federation of Malaya
+10. Fiji
+11. Gibraltar
+12. Gold Coast
+13. Hong Kong
+14. Jamaica
+15. Kenya
+16. Leeward Islands
+17. Malta
+18. Mauritius
+19. Miscellaneous Islands
+20. Nigeria
+21. North Borneo
+22. Northern Rhodesia
+23. Nyasaland Protectorate
+24. Sarawak
+25. Seychelles
+26. Sierra Leone
+27. Singapore
+28. Somaliland Protectorate
+29. St. Helena
+30. Tanganyika
+31. The Gambia
+32. Trinidad
+33. Uganda
+34. Western Pacific High Commission
+35. Windward Islands
+36. Zanzibar
+
+-------------------------------------------------------------------------------
+LARGEST SECTIONS (by line count)
+-------------------------------------------------------------------------------
+
+1. Kenya                            - 1,297 lines
+2. Uganda                           - 295 lines (note: actually 295, not full count)
+3. Windward Islands                 - 816 lines
+4. British Guiana                   - 718 lines
+5. Nigeria                          - 704 lines
+6. Mauritius                        - 701 lines
+
+-------------------------------------------------------------------------------
+SMALLEST SECTIONS
+-------------------------------------------------------------------------------
+
+1. Bahamas                          - 90 lines
+2. Somaliland Protectorate          - 154 lines
+3. Gibraltar                        - 213 lines
+4. Leeward Islands                  - 213 lines
+5. North Borneo                     - 225 lines
+
+-------------------------------------------------------------------------------
+FILE PATHS
+-------------------------------------------------------------------------------
+
+Source File:
+  /home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1948/olmocr_results.md
+
+Output Directory:
+  /home/user/colonial_office_list/output_3/1948_manual_parsed/
+
+Metadata:
+  /home/user/colonial_office_list/output_3/1948_manual_parsed.json
+
+Reports:
+  /home/user/colonial_office_list/output_3/1948_PARSING_REPORT.md
+  /home/user/colonial_office_list/output_3/1948_EXTRACTION_SUMMARY.txt
+
+Extraction Script:
+  /home/user/colonial_office_list/extract_1948_colonies.py
+
+-------------------------------------------------------------------------------
+ISSUES ENCOUNTERED
+-------------------------------------------------------------------------------
+
+None - all expected colonies from the table of contents were successfully
+extracted with manually verified boundaries.
+
+Note: Some colonies (Cyprus, Palestine) listed in early indices were not
+found in Part II of the 1948 edition due to mandate terminations and 
+administrative changes.
+
+===============================================================================

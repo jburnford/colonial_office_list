@@ -2,7 +2,7 @@
   "year": 1946,
   "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1946/olmocr_results.md",
   "extraction_date": "2025-11-19",
-  "total_colonies": 29,
+  "total_colonies": 30,
   "colonies": [
     {
       "name": "Aden",
@@ -134,10 +134,19 @@
       "name": "Leeward Islands",
       "filename": "leeward_islands.txt",
       "start_line": 8914,
-      "end_line": 9997,
-      "line_count": 1084,
+      "end_line": 9695,
+      "line_count": 782,
       "character_count": 77934,
       "word_count": 12322
+    },
+    {
+      "name": "Malta",
+      "filename": "MALTA.txt",
+      "start_line": 9696,
+      "end_line": 9997,
+      "line_count": 302,
+      "character_count": 26082,
+      "word_count": 4058
     },
     {
       "name": "Mauritius",

@@ -1,0 +1,272 @@
+ST. HELENA
+
+Situation and Area
+The island is situated in the South Atlantic Ocean, 700 miles south-east of Ascension and about 1,200 miles from the south-west coast of Africa. It is 10½ miles long and 6½ miles broad, covering an area of 47 square miles.
+
+Population
+The estimated population at the 31st December 1959 was 4,645. It is largely descended from settlers and others of British origin and persons of Asian or African blood who were introduced by the East India Company. The language of the Island has always been English and the English way of life has become firmly established.
+
+Principal Town
+Jamestown, the capital, is the only town and has a population of some 1,600.
+
+Geographical Features
+St. Helena is rugged and mountainous and of volcanic origin. The highest peak, Mt. Actaeon, rises to 2,685 feet. There are no rivers or streams, but there is a good supply of fresh spring water.
+
+Climate
+The cool South Atlantic trade winds blow throughout the year. The climate is mild and varies little, the temperature in Jamestown, on the sea-coast, ranging in summer between 70° and 85°, and in winter between 65° and 75°. Inland it is some 10° cooler. The annual rainfall varies from an average of about 8 inches in Jamestown to between 22 and 38 inches inland.
+
+History
+St. Helena, then uninhabited, was discovered in 1502 by the Portuguese commander, Juan de Nova Castella. Its existence appears to have remained unknown to other European nations until 1588 when it was visited by Captain Cavendish on his return from a voyage round the world. Soon afterwards the island became a port of call for ships of various nations voyaging between the East Indies and Europe. In 1633 the Dutch formally annexed it but made no attempt to occupy it. In 1659 it was annexed and occupied on behalf of the East India Company but the first official authorization of the Company's occupation occurs in a charter dated 1661. In January 1673 the Dutch seized the Island but were driven out again in May by the English navy. A Charter to occupy and govern the Island was issued by Charles II to the East India Company in December 1673 and it remained under that Company until April 1834 when it was brought under the direct government of the Crown by an Act of Parliament of 1833. Napoleon Bonaparte was exiled in St. Helena from 1815 until his death in 1821.
+
+Constitution
+An Order in Council and Royal Instructions which came into force on 1st June, 1956 provide for (1) an Executive Council consisting of the Government Secretary and the Colonial Treasurer as ex officio members, not more than two other official members, and not more than three unofficial members; and (2) an Advisory Council of not less than seven or more than ten members, appointed by the Governor, five of whom represent the five Districts of the Island and two of whom are nominees of the Friendly Societies. Only members representing the Districts may be persons holding office under the Crown. The Governor alone makes Ordinances, there being no Legislative Council, but power is reserved to Her Majesty in Council to legislate by Order.
+
+Land Policy
+Individual ownership of land is recognized and there is no restriction on alienation. Crown land may be disposed of on conditions approved by the Governor.
+
+Taxation
+An Income Tax Ordinance came into force on the 1st January 1954. The rate for individuals is 1s. 3d. in the £ on the first £1,500 and at the rate of 1s. 9d. in the £ on any excess of £1,500 derived from local sources.
+
+In the case of a married person who can prove to the satisfaction of the Commissioner of Income Tax that his wife was living with him or wholly maintained by him during the year immediately preceding the year of assessment there is an abatement of one-third of the tax. Import duties and an import tax are levied on a large range of goods and an export tax is charged on flax products. There are also taxes on motor vehicles, shops and entertainments.
+Public Finance
+
+| Year | Revenue (£) | Expenditure (£) |
+|------|------------|-----------------|
+| 1938 | 26,912     | 29,930          |
+| 1955 | 162,628    | 170,236         |
+| 1956 | 183,022    | 173,745         |
+| 1957 | 167,868    | 172,590         |
+| 1958 | 194,946    | 210,213         |
+| 1959 | 257,718    | 247,879         |
+
+In 1959 the revenue derived from import and export duties (£22,815) was about 26·02% and Post Office revenue (including Ascension) was about 15·9% of local revenue. In the same year the main heads of expenditure (excluding Colonial Development and Welfare expenditure) were:
+
+| Head of Expenditure       | £   | Per cent. |
+|---------------------------|-----|-----------|
+| Public Health             | 19,588 | 11·3      |
+| Education                 | 17,320 | 10·3      |
+| Public Works              | 18,343 | 10·6      |
+| Agriculture and Forestry  | 13,536 | 7·8       |
+
+Currency
+
+The Colony's currency consists of Bank of England notes and United Kingdom coins which are legal tender in the United Kingdom. South African currency is also accepted in the Colony. The amount of currency in circulation at the end of 1959, including South African notes and silver, was estimated at £50,000.
+
+Development Plans
+
+A further allocation of £200,000 has been provided for an extension of the development programme to cover the years 1959 to 1964 which will be financed almost entirely from a grant under the Colonial Development and Welfare (Amendment) Act, 1959.
+
+While a considerable proportion of the funds are being devoted to road improvement and to development in agriculture, other phases of the programme include housing, extension of the electrical distribution system, teacher training, school meals and school playgrounds.
+
+Education
+
+Education is compulsory and is provided free for all children between the ages of 5 and 15 years.
+
+In 1959 there were eight primary schools, two of which provided all-age education; three secondary schools and one selective secondary school. At the end of that year the total number of scholars was 1,242.
+
+The expenditure on educational services during 1959 was £25,668, of which £8,348 was contributed from Colonial Development and Welfare funds. In 1935 the expenditure was £980.
+
+Library
+
+There is a free Public Library subsidized by Government and managed by a Committee of which the Education Officer is Chairman.
+
+Health
+
+The Island is very healthy and none of the ordinary tropical diseases are endemic. There is one hospital in Jamestown with 60 beds, the number of in-patients during 1959 totalling 762. There are six out-patient dispensaries at convenient centres in the Island which are regularly visited by the doctors and the Health Sister. A mental hospital with 22 beds is situated a little way out of Jamestown.
+
+During 1959 £19,589 was spent on medical services compared with £2,637 in 1935.
+
+Communications
+
+Under normal conditions ships of the Union Castle Line call at intervals of four weeks—both on their way from England to South Africa, and on their journey from South Africa homewards. These are the only regular mails. Air mail letters are carried by sea to Cape Town or to London and thence by air to their destinations. The Island has an internal telephone system. Cable and Wireless, Limited, operate a cable and radio telephone station connecting with Cape Town and Ascension.
+
+In 1959, 33 merchant ships with a total tonnage of 246,873 called at St. Helena.
+
+Some 65 miles of roads in the Island are all-weather roads for motor traffic.
+
+There is no broadcasting service in the Colony.
+
+Principal Occupations
+
+Most of the population who are not in regular employment by Government or in the flax mills are engaged in agriculture. There is one general trade union. The principal categories of employees are:
+
+- Workers in the flax industry: 215
+- Agricultural labourers: 200
+- Skilled and general labourers: 380
+- Mechanics, engine- and motor-drivers: 70
+- Building tradesmen and apprentices: 52
+- Fishermen and boatmen: 40
+
+Main Crops and Products
+
+The main crops are flax, common and sweet potatoes, and vegetables.
+
+The livestock population is:
+
+- Horses: 24
+- Donkeys: 999
+- Cattle: 743
+- Sheep: 1,096
+- Goats: 1,802
+- Pigs: 173
+- Poultry: 9,012
+
+Fish of many kinds are plentiful in the waters around St. Helena but the catch is usually insufficient to meet the demand.
+
+The only industry is the manufacture of fibre, tow, rope and twine. Four flax mills were in operation during 1959.
+
+Trade
+
+| Year | Total Imports (£) | Total Exports (£) |
+|------|-------------------|------------------|
+| 1938 | 37,613            | 6,781            |
+| 1955 | 206,551           | 56,177           |
+| 1956 | 206,792           | 64,147           |
+| 1957 | 201,086           | 69,825           |
+| 1958 | 231,136           | 80,798           |
+| 1959 | 216,305           | 65,365           |
+
+In 1938 63% of total imports came from the United Kingdom, 16% from other Commonwealth countries and 21% from foreign countries. The corresponding figures in 1959 were 57·4%, 21·4% and 21·2%.
+
+In 1938 88% of exports went to the United Kingdom, 7% to other Commonwealth countries and 5% to foreign countries. The corresponding figures in 1959 were 65·8%, 28·8% and 5·4%.
+**Principal Exports by Quantity and Value**
+
+|                | 1938 | 1958 | 1959 |
+|----------------|------|------|------|
+| Hemp           | tons | 248  | 916  | 589  |
+|                | £    | 4,006| 42,226| 35,558|
+| Tow            | tons | 200  | 275  | 299  |
+|                | £    | 1,891| 6,581| 7,067|
+| Rope and Twine | tons | 14   | 58   | 41   |
+|                | £    | 337  | 5,530| 4,131|
+
+The main imports are food, drink, tobacco, cotton piece-goods, timber, hardware, motor vehicles, machinery and building materials.
+
+**Marketing and Co-operative Organizations**
+
+The St. Helena Growers' Association, which for many years has been engaged in the marketing of garden produce, is now run as a co-operative society. The total sales of the society during 1959 were £3,265. The society also assists its members by supplying vegetable seeds, seed potatoes and agricultural implements.
+
+---
+
+**GOVERNORS**
+
+1836 Lieut.-Gen. George Middlemore, C.B.
+1842 Col. Hamelin Trelawny.
+1846 Maj.-Gen. Sir Patrick Ross, G.C.M.G., K.C.B.
+1851 Col. Sir Thos. Gore Browne, K.C.M.G., C.B.
+1856 Sir E. H. Drummond Hay.
+1863 Admiral Sir Charles Elliot, K.C.B.
+1870 Admiral C. G. E. Patey, C.M.G.
+1873 H. R. Janisch, C.M.G.
+1890 Sir Wm. Grey-Wilson, K.C.M.G., K.B.E.
+1897 R. A. Sterndale, C.M.G.
+1902 Lt.-Col. Sir Henry Gallwey (later Galway), K.C.M.G., D.S.O.
+1912 Major Sir Harry Cordeaux, K.C.M.G., C.B.
+1920 Colonel R. F. Peel, C.M.G.
+1925 Sir Charles Harper, K.B.E., C.M.G.
+1932 Sir Spencer Davis, C.M.G.
+1938 Sir Guy Pilling, K.C.M.G.
+1941 Major W. Bain Gray, C.B.E.
+1947 Sir George Joy, K.B.E., C.M.G.
+1954 Sir James Harford, K.B.E., C.M.G.
+1958 Sir Robert Alford, K.B.E., C.M.G.
+
+**EXECUTIVE COUNCIL**
+
+The Governor (President).
+Government Secretary.
+Colonial Treasurer.
+R. B. Johnson (Agricultural and Forestry Officer).
+E. J. Moss, M.C., J.P.
+H. J. Corker, Junior.
+J. A. Thorpe, O.B.E.
+
+**ADVISORY COUNCIL**
+
+The Governor (President).
+E. J. Moss, M.C., J.P.
+D. H. Thorpe.
+H. J. Corker, Junior.
+J. A. Thorpe, O.B.E.
+K. W. Joshua.
+O. N. Duncan.
+T. C. Mainwaring.
+F. C. Graham.
+
+Clerk of Councils—H. G. Richards.
+
+---
+
+**CIVIL ESTABLISHMENT**
+
+**GOVERNOR AND COMMANDER-IN-CHIEF**
+—Sir Robert Alford, K.B.E., C.M.G.
+
+Government Secretary and Magistrate—B. J. Weston, C.M.G., O.B.E.
+Agricultural and Forestry Officer—R. B. Johnston.
+Auditor—W. D. Cribbs.
+Education Officer—J. A. Cross.
+Superintendent of Police and Gaol, and Registrar, Supreme Court—H. Morley.
+Postmaster—C. J. George, M.B.E.
+Senior Medical Officer—(Vacant).
+Medical Officer—I. B. Shine.
+Matron—Miss G. H. Sim, B.F.M.
+Superintendent of Works—A. Murray, M.B.E.
+Colonial Treasurer and Collector of Customs—R. F. Bond-Taylor.
+Social Welfare Officer—F. C. Peters.
+
+Acting Chief Justice—The Governor (ex officio).
+Justices of the Peace—The Government Secretary; E. J. Moss, M.C.; D. H. Thorpe; Mrs. E. F. Knipe; F. S. Martin.
+
+---
+
+**ASCENSION**
+
+The island of Ascension, 34 square miles in area, lying in the South Atlantic, latitude 7° 56' S. and longitude 14° 22' W., was taken possession of in 1815, and until 1922 it was under the supervision of the Admiralty and a small naval station was maintained there.
+
+The population at 31st December 1959 was 418 of whom 345 were St. Helenians.
+
+By Letters Patent dated 12th September 1922 (since superseded by Order in Council of 22nd March 1956) it was made a Dependency of St. Helena and placed under the control of the Secretary of State for the Colonies.
+
+Ascension is a barren, rocky peak of purely volcanic origin, and destitute of vegetation, except at the highest point (2,870 feet), but has been cultivated to an extent permitting the maintenance of about 900 sheep and cattle. It is famous for its turtles, large numbers of which visit between December and May.
+
+Cable and Wireless Limited own and operate an important cable station which connects the Dependency with St. Helena, Sierra Leone, St. Vincent, Rio de Janeiro and Buenos Aires, and through these places, over the Company's system, with all parts of the world.
+
+In 1942 the Government of the United States of America, by arrangement with His Majesty's Government, established an air base which became of considerable importance during the period of hostilities. The United States Government has recently reoccupied Wideawake Airfield by agreement with the Government of St. Helena in connexion with the extension of the Long Range Proving Ground for guided missiles centred in Florida.
+
+Under normal conditions the Government of St. Helena is represented in the Dependency by the local manager of Cable and Wireless Limited, who is appointed Resident Magistrate for this purpose and has the aid of another employee of the Company who is appointed a Justice of the Peace.
+
+Resident Magistrate—A. R. Harrison, O.B.E.
+TRISTAN DA CUNHA, etc.
+
+Tristan da Cunha lies in latitude 37° 6' S., longitude 12° 17' W., about midway between South Africa and South America. It is an extinct volcano, nearly circular in shape, covering an area of 38 square miles, and rising like a cone to 6,760 feet.
+
+At the end of 1959 there were 292 people on the island, of whom 261 were islanders, all living in the Settlement of Edinburgh, the only permanent settlement.
+
+The climate is typically oceanic and temperate. Absolute maximum and minimum temperatures recorded at sea level are 76-8° and 36-9° respectively. Rainfall averages 66 inches per year.
+
+The island was taken possession of in 1816 during Napoleon's residence on St. Helena. When the garrison was withdrawn in the following year, three men, headed by Corporal William Glass, elected to remain and became the founders of the present settlement. For the next 65 years the colony thrived, largely because of its position on a main sailing route. New settlers, mostly from shipwrecks, included Dutch, St. Helenian, Italian and American elements. In the 1880's, however, a period of decline set in, due to the replacement of sail by steam, the infestation of the island by rats, and a boat disaster in which 15 able-bodied islanders were lost. Nevertheless attempts to move the inhabitants to South Africa at the beginning of the present century were only partially successful.
+
+The Society for the Propagation of the Gospel has maintained a missionary teacher on the island since 1922; a number of missionaries had also served on the island prior to this. In 1932 the missionary was officially recognized as Honorary Commissioner and Magistrate.
+
+By Letters Patent dated 12th January 1938 Tristan da Cunha, and the neighbouring uninhabited Nightingale, Inaccessible and Gough Islands, were made dependencies of St. Helena, though as a matter of practical convenience the administration of the group has continued to be directly supervised by the Colonial Office.
+
+In 1937-38 a Norwegian Scientific Expedition visited the group, studying the natural science of the islands and the sociology and health of the community.
+
+In 1942 a detachment of the South African Defence Force built a meteorological and wireless station which was manned for the rest of the war by the Royal Navy. The station is now operated by the South African Government and is in daily contact with passing shipping.
+
+The coming of the Navy re-introduced the islanders to the outside world and marked their emergence from a state of dependence on charity, for it was a naval chaplain who recognized the possibilities of a crawfish industry at Tristan. Towards the end of 1948 an agreement was entered into between the Governor of St. Helena and a South African fishing company, permitting the latter to establish a fishing and canning industry on certain conditions, which include the maintenance on the island at the Company's expense of a doctor, nurse, agriculturist, and teacher. Provision was thus made for basic services, and the way was open for the islanders to earn regular wages and convert them into goods in the Company's canteen. Following on this, the office of Administrator was created; the first assumed duty early in 1950. The Administrator is also the Magistrate.
+
+In 1956, the agreement with the Company was amended for a period of three years by deleting all the obligations on the Company in exchange for a levy of a flat 10% on net profits. The Administration also took over from the Company the running of the canteen. This principle of payment on results has now been enshrined in a new agreement embodying all previous agreements. The main innovation is the provision for a minimum annual royalty by the Company of £1,000. The new agreement will be reviewed in three years.
+
+The main crop grown on the island is potatoes. There are about 145 head of cattle and 760 sheep, as well as small stock. Fish is plentiful, and the eggs of albatross and penguin are gathered.
+
+In 1959-60, exports of crawfish by the Company included 34,000 cases of frozen tails. With the introduction by the Company of a small freezing plant on Tristan, the Company's two vessels now only make approximately two visits a year from Cape Town. This is normally the only regular means of visiting the island.
+
+There is an Island Council, consisting of 21 members of whom 15 are elected, which has power to levy local rates and taxes and to make and enforce by-laws. The main revenues, however, are held in London in the Tristan Administration Fund. This fund began with royalties from the Fishing Company; since 1952, however, it has been greatly augmented by revenue from the sale of postage stamps. The first issue of stamps were overprinted St. Helena stamps, but the island's first pictorial issue was put on sale in 1954. A new issue was made in February 1960. This issue is to be overprinted with the new South African currency as from March 1961. There is no income tax.
+
+In 1957 Tristan received a further allocation of £10,000 from Colonial Development and Welfare funds. From this allocation, grants have been made for the purchase of X-ray apparatus and for the development of a piped water supply and a water-borne sewerage system for the islanders. In addition there is a fencing scheme to help develop the island's limited pasturage and a small afforestation programme to help supply the island's timber needs. Further allocations have been made for the purchase of a tractor and trailer and a power-operated cargo boat.
+
+Administrator—P. J. F. Wheeler.
+Medical Officer—(Vacant).
+

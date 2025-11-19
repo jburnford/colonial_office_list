@@ -1,0 +1,242 @@
+[
+  {
+    "name": "ADEN",
+    "start_line": 3200,
+    "end_line": 3634,
+    "line_count": 435
+  },
+  {
+    "name": "BAHAMA_ISLANDS",
+    "start_line": 3635,
+    "end_line": 3950,
+    "line_count": 316
+  },
+  {
+    "name": "BARBADOS",
+    "start_line": 3951,
+    "end_line": 4290,
+    "line_count": 340
+  },
+  {
+    "name": "BERMUDA",
+    "start_line": 4291,
+    "end_line": 4603,
+    "line_count": 313
+  },
+  {
+    "name": "BRITISH_GUIANA",
+    "start_line": 4604,
+    "end_line": 4925,
+    "line_count": 322
+  },
+  {
+    "name": "BRITISH_HONDURAS",
+    "start_line": 4926,
+    "end_line": 5236,
+    "line_count": 311
+  },
+  {
+    "name": "BRUNEI",
+    "start_line": 5237,
+    "end_line": 5471,
+    "line_count": 235
+  },
+  {
+    "name": "CYPRUS",
+    "start_line": 5472,
+    "end_line": 5837,
+    "line_count": 366
+  },
+  {
+    "name": "FALKLAND_ISLANDS",
+    "start_line": 5838,
+    "end_line": 6128,
+    "line_count": 291
+  },
+  {
+    "name": "FIJI",
+    "start_line": 6129,
+    "end_line": 6447,
+    "line_count": 319
+  },
+  {
+    "name": "GAMBIA",
+    "start_line": 6448,
+    "end_line": 6797,
+    "line_count": 350
+  },
+  {
+    "name": "GIBRALTAR",
+    "start_line": 6798,
+    "end_line": 7017,
+    "line_count": 220
+  },
+  {
+    "name": "GOLD_COAST",
+    "start_line": 7018,
+    "end_line": 7490,
+    "line_count": 473
+  },
+  {
+    "name": "HONG_KONG",
+    "start_line": 7491,
+    "end_line": 7855,
+    "line_count": 365
+  },
+  {
+    "name": "JAMAICA",
+    "start_line": 7856,
+    "end_line": 8306,
+    "line_count": 451
+  },
+  {
+    "name": "CAYMAN_ISLANDS",
+    "start_line": 8307,
+    "end_line": 8429,
+    "line_count": 123
+  },
+  {
+    "name": "TURKS_AND_CAICOS_ISLANDS",
+    "start_line": 8430,
+    "end_line": 8574,
+    "line_count": 145
+  },
+  {
+    "name": "KENYA",
+    "start_line": 8575,
+    "end_line": 9135,
+    "line_count": 561
+  },
+  {
+    "name": "LEEWARD_ISLANDS",
+    "start_line": 9136,
+    "end_line": 9930,
+    "line_count": 795
+  },
+  {
+    "name": "MALAYA",
+    "start_line": 9931,
+    "end_line": 10557,
+    "line_count": 627
+  },
+  {
+    "name": "MALTA",
+    "start_line": 10558,
+    "end_line": 10983,
+    "line_count": 426
+  },
+  {
+    "name": "MAURITIUS",
+    "start_line": 10984,
+    "end_line": 11357,
+    "line_count": 374
+  },
+  {
+    "name": "NIGERIA",
+    "start_line": 11358,
+    "end_line": 11952,
+    "line_count": 595
+  },
+  {
+    "name": "NORTH_BORNEO",
+    "start_line": 11953,
+    "end_line": 12256,
+    "line_count": 304
+  },
+  {
+    "name": "RHODESIA_AND_NYASALAND",
+    "start_line": 12257,
+    "end_line": 12322,
+    "line_count": 66
+  },
+  {
+    "name": "NORTHERN_RHODESIA",
+    "start_line": 12323,
+    "end_line": 12867,
+    "line_count": 545
+  },
+  {
+    "name": "NYASALAND",
+    "start_line": 12868,
+    "end_line": 13214,
+    "line_count": 347
+  },
+  {
+    "name": "ST_HELENA",
+    "start_line": 13215,
+    "end_line": 13455,
+    "line_count": 241
+  },
+  {
+    "name": "SARAWAK",
+    "start_line": 13456,
+    "end_line": 13759,
+    "line_count": 304
+  },
+  {
+    "name": "SEYCHELLES",
+    "start_line": 13760,
+    "end_line": 13988,
+    "line_count": 229
+  },
+  {
+    "name": "SIERRA_LEONE",
+    "start_line": 13989,
+    "end_line": 14375,
+    "line_count": 387
+  },
+  {
+    "name": "SINGAPORE",
+    "start_line": 14376,
+    "end_line": 14810,
+    "line_count": 435
+  },
+  {
+    "name": "SOMALILAND",
+    "start_line": 14811,
+    "end_line": 15010,
+    "line_count": 200
+  },
+  {
+    "name": "TANGANYIKA",
+    "start_line": 15011,
+    "end_line": 15433,
+    "line_count": 423
+  },
+  {
+    "name": "TONGA",
+    "start_line": 15434,
+    "end_line": 15574,
+    "line_count": 141
+  },
+  {
+    "name": "TRINIDAD_AND_TOBAGO",
+    "start_line": 15575,
+    "end_line": 16060,
+    "line_count": 486
+  },
+  {
+    "name": "UGANDA",
+    "start_line": 16061,
+    "end_line": 16439,
+    "line_count": 379
+  },
+  {
+    "name": "WESTERN_PACIFIC",
+    "start_line": 16440,
+    "end_line": 16937,
+    "line_count": 498
+  },
+  {
+    "name": "WINDWARD_ISLANDS",
+    "start_line": 16938,
+    "end_line": 17949,
+    "line_count": 1012
+  },
+  {
+    "name": "ZANZIBAR",
+    "start_line": 17950,
+    "end_line": 18160,
+    "line_count": 211
+  }
+]

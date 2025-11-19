@@ -1,0 +1,373 @@
+{
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1955/olmocr_results.md",
+  "total_colonies": 40,
+  "extraction_date": "2025-11-19",
+  "method": "manual_boundary_identification",
+  "colonies": [
+    {
+      "name": "ADEN",
+      "start_line": 3200,
+      "end_line": 3634,
+      "line_count": 435,
+      "word_count": 5130,
+      "char_count": 32261,
+      "output_file": "1955_manual_parsed/ADEN.txt"
+    },
+    {
+      "name": "BAHAMA_ISLANDS",
+      "start_line": 3635,
+      "end_line": 3950,
+      "line_count": 316,
+      "word_count": 3324,
+      "char_count": 20689,
+      "output_file": "1955_manual_parsed/BAHAMA_ISLANDS.txt"
+    },
+    {
+      "name": "BARBADOS",
+      "start_line": 3951,
+      "end_line": 4290,
+      "line_count": 340,
+      "word_count": 3443,
+      "char_count": 22260,
+      "output_file": "1955_manual_parsed/BARBADOS.txt"
+    },
+    {
+      "name": "BERMUDA",
+      "start_line": 4291,
+      "end_line": 4603,
+      "line_count": 313,
+      "word_count": 3012,
+      "char_count": 19073,
+      "output_file": "1955_manual_parsed/BERMUDA.txt"
+    },
+    {
+      "name": "BRITISH_GUIANA",
+      "start_line": 4604,
+      "end_line": 4925,
+      "line_count": 322,
+      "word_count": 3715,
+      "char_count": 24368,
+      "output_file": "1955_manual_parsed/BRITISH_GUIANA.txt"
+    },
+    {
+      "name": "BRITISH_HONDURAS",
+      "start_line": 4926,
+      "end_line": 5236,
+      "line_count": 311,
+      "word_count": 3701,
+      "char_count": 23432,
+      "output_file": "1955_manual_parsed/BRITISH_HONDURAS.txt"
+    },
+    {
+      "name": "BRUNEI",
+      "start_line": 5237,
+      "end_line": 5471,
+      "line_count": 235,
+      "word_count": 2551,
+      "char_count": 16227,
+      "output_file": "1955_manual_parsed/BRUNEI.txt"
+    },
+    {
+      "name": "CYPRUS",
+      "start_line": 5472,
+      "end_line": 5837,
+      "line_count": 366,
+      "word_count": 4087,
+      "char_count": 26139,
+      "output_file": "1955_manual_parsed/CYPRUS.txt"
+    },
+    {
+      "name": "FALKLAND_ISLANDS",
+      "start_line": 5838,
+      "end_line": 6128,
+      "line_count": 291,
+      "word_count": 2675,
+      "char_count": 16574,
+      "output_file": "1955_manual_parsed/FALKLAND_ISLANDS.txt"
+    },
+    {
+      "name": "FIJI",
+      "start_line": 6129,
+      "end_line": 6447,
+      "line_count": 319,
+      "word_count": 3977,
+      "char_count": 25326,
+      "output_file": "1955_manual_parsed/FIJI.txt"
+    },
+    {
+      "name": "GAMBIA",
+      "start_line": 6448,
+      "end_line": 6797,
+      "line_count": 350,
+      "word_count": 3765,
+      "char_count": 24281,
+      "output_file": "1955_manual_parsed/GAMBIA.txt"
+    },
+    {
+      "name": "GIBRALTAR",
+      "start_line": 6798,
+      "end_line": 7017,
+      "line_count": 220,
+      "word_count": 1739,
+      "char_count": 11297,
+      "output_file": "1955_manual_parsed/GIBRALTAR.txt"
+    },
+    {
+      "name": "GOLD_COAST",
+      "start_line": 7018,
+      "end_line": 7490,
+      "line_count": 473,
+      "word_count": 5724,
+      "char_count": 37918,
+      "output_file": "1955_manual_parsed/GOLD_COAST.txt"
+    },
+    {
+      "name": "HONG_KONG",
+      "start_line": 7491,
+      "end_line": 7855,
+      "line_count": 365,
+      "word_count": 3455,
+      "char_count": 23008,
+      "output_file": "1955_manual_parsed/HONG_KONG.txt"
+    },
+    {
+      "name": "JAMAICA",
+      "start_line": 7856,
+      "end_line": 8306,
+      "line_count": 451,
+      "word_count": 4376,
+      "char_count": 30144,
+      "output_file": "1955_manual_parsed/JAMAICA.txt"
+    },
+    {
+      "name": "CAYMAN_ISLANDS",
+      "start_line": 8307,
+      "end_line": 8429,
+      "line_count": 123,
+      "word_count": 1328,
+      "char_count": 8666,
+      "output_file": "1955_manual_parsed/CAYMAN_ISLANDS.txt"
+    },
+    {
+      "name": "TURKS_AND_CAICOS_ISLANDS",
+      "start_line": 8430,
+      "end_line": 8574,
+      "line_count": 145,
+      "word_count": 1597,
+      "char_count": 9939,
+      "output_file": "1955_manual_parsed/TURKS_AND_CAICOS_ISLANDS.txt"
+    },
+    {
+      "name": "KENYA",
+      "start_line": 8575,
+      "end_line": 9135,
+      "line_count": 561,
+      "word_count": 5806,
+      "char_count": 39518,
+      "output_file": "1955_manual_parsed/KENYA.txt"
+    },
+    {
+      "name": "LEEWARD_ISLANDS",
+      "start_line": 9136,
+      "end_line": 9930,
+      "line_count": 795,
+      "word_count": 5955,
+      "char_count": 39566,
+      "output_file": "1955_manual_parsed/LEEWARD_ISLANDS.txt"
+    },
+    {
+      "name": "MALAYA",
+      "start_line": 9931,
+      "end_line": 10557,
+      "line_count": 627,
+      "word_count": 7340,
+      "char_count": 48497,
+      "output_file": "1955_manual_parsed/MALAYA.txt"
+    },
+    {
+      "name": "MALTA",
+      "start_line": 10558,
+      "end_line": 10983,
+      "line_count": 426,
+      "word_count": 3708,
+      "char_count": 24782,
+      "output_file": "1955_manual_parsed/MALTA.txt"
+    },
+    {
+      "name": "MAURITIUS",
+      "start_line": 10984,
+      "end_line": 11357,
+      "line_count": 374,
+      "word_count": 3655,
+      "char_count": 24928,
+      "output_file": "1955_manual_parsed/MAURITIUS.txt"
+    },
+    {
+      "name": "NIGERIA",
+      "start_line": 11358,
+      "end_line": 11952,
+      "line_count": 595,
+      "word_count": 6022,
+      "char_count": 39258,
+      "output_file": "1955_manual_parsed/NIGERIA.txt"
+    },
+    {
+      "name": "NORTH_BORNEO",
+      "start_line": 11953,
+      "end_line": 12256,
+      "line_count": 304,
+      "word_count": 3544,
+      "char_count": 23250,
+      "output_file": "1955_manual_parsed/NORTH_BORNEO.txt"
+    },
+    {
+      "name": "RHODESIA_AND_NYASALAND",
+      "start_line": 12257,
+      "end_line": 12322,
+      "line_count": 66,
+      "word_count": 1935,
+      "char_count": 12585,
+      "output_file": "1955_manual_parsed/RHODESIA_AND_NYASALAND.txt"
+    },
+    {
+      "name": "NORTHERN_RHODESIA",
+      "start_line": 12323,
+      "end_line": 12867,
+      "line_count": 545,
+      "word_count": 4351,
+      "char_count": 31811,
+      "output_file": "1955_manual_parsed/NORTHERN_RHODESIA.txt"
+    },
+    {
+      "name": "NYASALAND",
+      "start_line": 12868,
+      "end_line": 13214,
+      "line_count": 347,
+      "word_count": 3779,
+      "char_count": 25386,
+      "output_file": "1955_manual_parsed/NYASALAND.txt"
+    },
+    {
+      "name": "ST_HELENA",
+      "start_line": 13215,
+      "end_line": 13455,
+      "line_count": 241,
+      "word_count": 2914,
+      "char_count": 17954,
+      "output_file": "1955_manual_parsed/ST_HELENA.txt"
+    },
+    {
+      "name": "SARAWAK",
+      "start_line": 13456,
+      "end_line": 13759,
+      "line_count": 304,
+      "word_count": 3749,
+      "char_count": 23951,
+      "output_file": "1955_manual_parsed/SARAWAK.txt"
+    },
+    {
+      "name": "SEYCHELLES",
+      "start_line": 13760,
+      "end_line": 13988,
+      "line_count": 229,
+      "word_count": 2325,
+      "char_count": 15078,
+      "output_file": "1955_manual_parsed/SEYCHELLES.txt"
+    },
+    {
+      "name": "SIERRA_LEONE",
+      "start_line": 13989,
+      "end_line": 14375,
+      "line_count": 387,
+      "word_count": 4409,
+      "char_count": 28912,
+      "output_file": "1955_manual_parsed/SIERRA_LEONE.txt"
+    },
+    {
+      "name": "SINGAPORE",
+      "start_line": 14376,
+      "end_line": 14810,
+      "line_count": 435,
+      "word_count": 5627,
+      "char_count": 36837,
+      "output_file": "1955_manual_parsed/SINGAPORE.txt"
+    },
+    {
+      "name": "SOMALILAND",
+      "start_line": 14811,
+      "end_line": 15010,
+      "line_count": 200,
+      "word_count": 2070,
+      "char_count": 13544,
+      "output_file": "1955_manual_parsed/SOMALILAND.txt"
+    },
+    {
+      "name": "TANGANYIKA",
+      "start_line": 15011,
+      "end_line": 15433,
+      "line_count": 423,
+      "word_count": 5238,
+      "char_count": 34523,
+      "output_file": "1955_manual_parsed/TANGANYIKA.txt"
+    },
+    {
+      "name": "TONGA",
+      "start_line": 15434,
+      "end_line": 15574,
+      "line_count": 141,
+      "word_count": 1559,
+      "char_count": 10199,
+      "output_file": "1955_manual_parsed/TONGA.txt"
+    },
+    {
+      "name": "TRINIDAD_AND_TOBAGO",
+      "start_line": 15575,
+      "end_line": 16060,
+      "line_count": 486,
+      "word_count": 4496,
+      "char_count": 30000,
+      "output_file": "1955_manual_parsed/TRINIDAD_AND_TOBAGO.txt"
+    },
+    {
+      "name": "UGANDA",
+      "start_line": 16061,
+      "end_line": 16439,
+      "line_count": 379,
+      "word_count": 4652,
+      "char_count": 30114,
+      "output_file": "1955_manual_parsed/UGANDA.txt"
+    },
+    {
+      "name": "WESTERN_PACIFIC",
+      "start_line": 16440,
+      "end_line": 16937,
+      "line_count": 498,
+      "word_count": 5805,
+      "char_count": 37680,
+      "output_file": "1955_manual_parsed/WESTERN_PACIFIC.txt"
+    },
+    {
+      "name": "WINDWARD_ISLANDS",
+      "start_line": 16938,
+      "end_line": 17949,
+      "line_count": 1012,
+      "word_count": 9763,
+      "char_count": 62803,
+      "output_file": "1955_manual_parsed/WINDWARD_ISLANDS.txt"
+    },
+    {
+      "name": "ZANZIBAR",
+      "start_line": 17950,
+      "end_line": 18160,
+      "line_count": 211,
+      "word_count": 2452,
+      "char_count": 15769,
+      "output_file": "1955_manual_parsed/ZANZIBAR.txt"
+    }
+  ],
+  "totals": {
+    "total_lines": 14961,
+    "total_words": 158753,
+    "total_chars": 1038547
+  }
+}

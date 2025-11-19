@@ -1,0 +1,389 @@
+{
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1956/olmocr_results.md",
+  "extraction_date": "2025-11-19",
+  "total_colonies": 38,
+  "part_ii_start": 3606,
+  "part_iii_start": 19214,
+  "colonies": [
+    {
+      "name": "ADEN",
+      "start_line": 3607,
+      "end_line": 4094,
+      "total_lines": 488,
+      "non_empty_lines": 296,
+      "total_words": 5404,
+      "total_characters": 33850,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/ADEN.txt"
+    },
+    {
+      "name": "BAHAMA_ISLANDS",
+      "start_line": 4095,
+      "end_line": 4361,
+      "total_lines": 267,
+      "non_empty_lines": 186,
+      "total_words": 3090,
+      "total_characters": 20315,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/BAHAMA_ISLANDS.txt"
+    },
+    {
+      "name": "BARBADOS",
+      "start_line": 4362,
+      "end_line": 4683,
+      "total_lines": 322,
+      "non_empty_lines": 232,
+      "total_words": 3371,
+      "total_characters": 21769,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/BARBADOS.txt"
+    },
+    {
+      "name": "BERMUDA",
+      "start_line": 4684,
+      "end_line": 4919,
+      "total_lines": 236,
+      "non_empty_lines": 156,
+      "total_words": 2763,
+      "total_characters": 17190,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/BERMUDA.txt"
+    },
+    {
+      "name": "BRITISH_GUIANA",
+      "start_line": 4920,
+      "end_line": 5323,
+      "total_lines": 404,
+      "non_empty_lines": 242,
+      "total_words": 3875,
+      "total_characters": 25418,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/BRITISH_GUIANA.txt"
+    },
+    {
+      "name": "BRITISH_HONDURAS",
+      "start_line": 5324,
+      "end_line": 5637,
+      "total_lines": 314,
+      "non_empty_lines": 229,
+      "total_words": 3737,
+      "total_characters": 24796,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/BRITISH_HONDURAS.txt"
+    },
+    {
+      "name": "BRUNEI",
+      "start_line": 5638,
+      "end_line": 5881,
+      "total_lines": 244,
+      "non_empty_lines": 164,
+      "total_words": 2671,
+      "total_characters": 16853,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/BRUNEI.txt"
+    },
+    {
+      "name": "CYPRUS",
+      "start_line": 5882,
+      "end_line": 6239,
+      "total_lines": 358,
+      "non_empty_lines": 260,
+      "total_words": 4001,
+      "total_characters": 26025,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/CYPRUS.txt"
+    },
+    {
+      "name": "FALKLAND_ISLANDS",
+      "start_line": 6240,
+      "end_line": 6600,
+      "total_lines": 361,
+      "non_empty_lines": 268,
+      "total_words": 2975,
+      "total_characters": 18739,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/FALKLAND_ISLANDS.txt"
+    },
+    {
+      "name": "FIJI",
+      "start_line": 6601,
+      "end_line": 6889,
+      "total_lines": 289,
+      "non_empty_lines": 201,
+      "total_words": 3684,
+      "total_characters": 23643,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/FIJI.txt"
+    },
+    {
+      "name": "THE_GAMBIA",
+      "start_line": 6890,
+      "end_line": 7223,
+      "total_lines": 334,
+      "non_empty_lines": 219,
+      "total_words": 3755,
+      "total_characters": 24087,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/THE_GAMBIA.txt"
+    },
+    {
+      "name": "GIBRALTAR",
+      "start_line": 7224,
+      "end_line": 7396,
+      "total_lines": 173,
+      "non_empty_lines": 117,
+      "total_words": 1648,
+      "total_characters": 10753,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/GIBRALTAR.txt"
+    },
+    {
+      "name": "THE_GOLD_COAST",
+      "start_line": 7397,
+      "end_line": 7876,
+      "total_lines": 480,
+      "non_empty_lines": 303,
+      "total_words": 5476,
+      "total_characters": 36045,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/THE_GOLD_COAST.txt"
+    },
+    {
+      "name": "HONG_KONG",
+      "start_line": 7877,
+      "end_line": 8232,
+      "total_lines": 356,
+      "non_empty_lines": 270,
+      "total_words": 3715,
+      "total_characters": 24790,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/HONG_KONG.txt"
+    },
+    {
+      "name": "JAMAICA",
+      "start_line": 8233,
+      "end_line": 8922,
+      "total_lines": 690,
+      "non_empty_lines": 479,
+      "total_words": 7203,
+      "total_characters": 48220,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/JAMAICA.txt"
+    },
+    {
+      "name": "KENYA",
+      "start_line": 8923,
+      "end_line": 9631,
+      "total_lines": 709,
+      "non_empty_lines": 502,
+      "total_words": 8103,
+      "total_characters": 54082,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/KENYA.txt"
+    },
+    {
+      "name": "LEEWARD_ISLANDS",
+      "start_line": 9632,
+      "end_line": 10069,
+      "total_lines": 438,
+      "non_empty_lines": 292,
+      "total_words": 3605,
+      "total_characters": 24319,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/LEEWARD_ISLANDS.txt"
+    },
+    {
+      "name": "FEDERATION_OF_MALAYA",
+      "start_line": 10070,
+      "end_line": 10678,
+      "total_lines": 609,
+      "non_empty_lines": 411,
+      "total_words": 7132,
+      "total_characters": 46341,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/FEDERATION_OF_MALAYA.txt"
+    },
+    {
+      "name": "MALTA",
+      "start_line": 10679,
+      "end_line": 11053,
+      "total_lines": 375,
+      "non_empty_lines": 271,
+      "total_words": 3586,
+      "total_characters": 23691,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/MALTA.txt"
+    },
+    {
+      "name": "MAURITIUS",
+      "start_line": 11054,
+      "end_line": 11401,
+      "total_lines": 348,
+      "non_empty_lines": 230,
+      "total_words": 3578,
+      "total_characters": 23542,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/MAURITIUS.txt"
+    },
+    {
+      "name": "FEDERATION_OF_NIGERIA",
+      "start_line": 11402,
+      "end_line": 12016,
+      "total_lines": 615,
+      "non_empty_lines": 458,
+      "total_words": 7083,
+      "total_characters": 47032,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/FEDERATION_OF_NIGERIA.txt"
+    },
+    {
+      "name": "NORTH_BORNEO",
+      "start_line": 12017,
+      "end_line": 12328,
+      "total_lines": 312,
+      "non_empty_lines": 205,
+      "total_words": 3393,
+      "total_characters": 23022,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/NORTH_BORNEO.txt"
+    },
+    {
+      "name": "FEDERATION_OF_RHODESIA_AND_NYASALAND",
+      "start_line": 12329,
+      "end_line": 12336,
+      "total_lines": 8,
+      "non_empty_lines": 5,
+      "total_words": 104,
+      "total_characters": 690,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/FEDERATION_OF_RHODESIA_AND_NYASALAND.txt"
+    },
+    {
+      "name": "NORTHERN_RHODESIA",
+      "start_line": 12337,
+      "end_line": 12789,
+      "total_lines": 453,
+      "non_empty_lines": 331,
+      "total_words": 4595,
+      "total_characters": 31668,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/NORTHERN_RHODESIA.txt"
+    },
+    {
+      "name": "NYASALAND_PROTECTORATE",
+      "start_line": 12790,
+      "end_line": 13135,
+      "total_lines": 346,
+      "non_empty_lines": 235,
+      "total_words": 4059,
+      "total_characters": 27421,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/NYASALAND_PROTECTORATE.txt"
+    },
+    {
+      "name": "ST_HELENA",
+      "start_line": 13136,
+      "end_line": 13419,
+      "total_lines": 284,
+      "non_empty_lines": 164,
+      "total_words": 2872,
+      "total_characters": 17588,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/ST_HELENA.txt"
+    },
+    {
+      "name": "SARAWAK",
+      "start_line": 13420,
+      "end_line": 13704,
+      "total_lines": 285,
+      "non_empty_lines": 200,
+      "total_words": 3786,
+      "total_characters": 24194,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/SARAWAK.txt"
+    },
+    {
+      "name": "SEYCHELLES",
+      "start_line": 13705,
+      "end_line": 13911,
+      "total_lines": 207,
+      "non_empty_lines": 142,
+      "total_words": 2289,
+      "total_characters": 14779,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/SEYCHELLES.txt"
+    },
+    {
+      "name": "SIERRA_LEONE",
+      "start_line": 13912,
+      "end_line": 14261,
+      "total_lines": 350,
+      "non_empty_lines": 249,
+      "total_words": 4087,
+      "total_characters": 26744,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/SIERRA_LEONE.txt"
+    },
+    {
+      "name": "SINGAPORE",
+      "start_line": 14262,
+      "end_line": 14718,
+      "total_lines": 457,
+      "non_empty_lines": 270,
+      "total_words": 5321,
+      "total_characters": 35042,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/SINGAPORE.txt"
+    },
+    {
+      "name": "SOMALILAND_PROTECTORATE",
+      "start_line": 14719,
+      "end_line": 14938,
+      "total_lines": 220,
+      "non_empty_lines": 129,
+      "total_words": 2215,
+      "total_characters": 14465,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/SOMALILAND_PROTECTORATE.txt"
+    },
+    {
+      "name": "TANGANYIKA",
+      "start_line": 14939,
+      "end_line": 15403,
+      "total_lines": 465,
+      "non_empty_lines": 284,
+      "total_words": 5223,
+      "total_characters": 34848,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/TANGANYIKA.txt"
+    },
+    {
+      "name": "KINGDOM_OF_TONGA",
+      "start_line": 15404,
+      "end_line": 15546,
+      "total_lines": 143,
+      "non_empty_lines": 88,
+      "total_words": 1690,
+      "total_characters": 10854,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/KINGDOM_OF_TONGA.txt"
+    },
+    {
+      "name": "TRINIDAD_AND_TOBAGO",
+      "start_line": 15547,
+      "end_line": 15903,
+      "total_lines": 357,
+      "non_empty_lines": 265,
+      "total_words": 4545,
+      "total_characters": 30353,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/TRINIDAD_AND_TOBAGO.txt"
+    },
+    {
+      "name": "UGANDA",
+      "start_line": 15904,
+      "end_line": 16247,
+      "total_lines": 344,
+      "non_empty_lines": 235,
+      "total_words": 4569,
+      "total_characters": 29932,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/UGANDA.txt"
+    },
+    {
+      "name": "WESTERN_PACIFIC_HIGH_COMMISSION",
+      "start_line": 16248,
+      "end_line": 16755,
+      "total_lines": 508,
+      "non_empty_lines": 312,
+      "total_words": 6014,
+      "total_characters": 39016,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/WESTERN_PACIFIC_HIGH_COMMISSION.txt"
+    },
+    {
+      "name": "THE_WINDWARD_ISLANDS",
+      "start_line": 16756,
+      "end_line": 17826,
+      "total_lines": 1071,
+      "non_empty_lines": 723,
+      "total_words": 10434,
+      "total_characters": 68281,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/THE_WINDWARD_ISLANDS.txt"
+    },
+    {
+      "name": "ZANZIBAR",
+      "start_line": 17827,
+      "end_line": 19213,
+      "total_lines": 1387,
+      "non_empty_lines": 907,
+      "total_words": 14829,
+      "total_characters": 98118,
+      "output_file": "/home/user/colonial_office_list/output_3/1956_manual_parsed/ZANZIBAR.txt"
+    }
+  ]
+}

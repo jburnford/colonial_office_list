@@ -1,0 +1,307 @@
+GIBRALTAR
+
+Geographical Features and Area
+
+Gibraltar is a narrow peninsula running southwards from the south-west coast of Spain, with an area of 2½ square miles. It consists of a long, high mountain called The Rock and a sandy plain to the north of it, raised only a few feet above the level of the sea, called the North Front. Its greatest elevation is 1,396 feet, its length 2½ miles and its greatest breadth nearly 1 mile.
+
+Population
+
+The population is European and at the Census of October 1961 numbered 24,075. At the end of 1964 the estimated population was 24,485.
+
+Climate
+
+The climate is mild and temperate; snow or frost is extremely rare. The mean minimum and maximum temperatures in winter are 45° and 65° respectively. In summer a warm breeze laden with moisture, known as the "Levanter", strikes the eastern face of the Rock, condenses in the sky above and causes a cloud pall to hang over the city and bay. During this period the climate is humid and relaxing. The mean minimum and maximum temperatures in summer are 55° and 85° respectively. The rainy season is spread over the period September to May; the average annual rainfall is 35 inches.
+
+History
+
+Gibraltar was possessed successively by the Phoenicians, Carthaginians, Romans and Visigoths, but remained uninhabited till the Mohammedan invasion of Spain. It was held alternately by Moors and Spaniards until 1704 when, during the war of the Spanish succession, it was captured by the British forces under Admiral Sir George Rooke and ceded to Great Britain by the Treaty of Utrecht in 1713. The cession was renewed by the Treaty of Versailles in 1783. Many attempts have been made to take Gibraltar, especially during the great siege in 1779-83, when General Elliott (afterwards Lord Heathfield) defended it against the united forces of Spain and France, but all have been unsuccessful and it has remained in British hands since its capture in 1704.
+
+Constitution
+
+Under the Gibraltar (Constitution) Order in Council 1964, Gibraltar attained a large measure of internal self-Government.
+
+Executive authority is exercised by the Governor, who is also Commander-in-Chief, but in the exercise of his functions the Governor whilst retaining the usual reserved powers is normally required to act in accordance with the advice of the Gibraltar Council which consists of 5 elected members and 4 ex-officio members, the Deputy Fortress Commander, the Permanent Secretary to the Government, the Attorney-General and the Financial Secretary. The elected members of the Gibraltar Council are appointed by the Governor after consultation with the Chief Minister and are styled Ministers and charged with such departmental responsibilities as may be assigned to them. There is a Council of Ministers presided over by the Chief Minister who may also appoint to it such additional Ministers as he wishes.
+
+The Legislative Council consists of a Speaker appointed by the Governor, 11 elected members and 2 ex-officio members, the Attorney-General and the Financial Secretary.
+
+The Permanent Secretary performs the functions of the Governor during his absence or incapacity.
+
+A City Council deals with Municipal affairs and public utilities. It consists of 7 elected members, 3 nominated Service representatives and one nominated Government representative, and is presided over by a Mayor elected annually from among the elected councillors.
+
+Taxation
+
+This is mainly indirect. An Income Tax Ordinance came into force in 1953; the standard rate of tax is 3/9. in the £, but rates for individuals range from 7½d. to 5s. in the £. There are no excise duties.
+
+The main heads of taxation are:
+
+- Customs.
+- Income Tax.
+- Estate Duties.
+- Stamp Duties.
+- Licences.
+- Fuel Oil Tax.
+
+The items subject to import duty are alcoholic beverages, perfumed spirits, motor spirits, tobacco, coffee, mechanical lighters, motor vehicles, motor vehicle spares and accessories, photographic cameras and cinema projectors, radio sets and spares, razor blades, watches and clocks, fountain pens, including ball-point pens, binoculars, telescopes, sound recorders, sound reproducers and recording media, gramophones and record players and accessories, records, electric shavers, mechanical and propelling pencils and refills, fuel, diesel and gas oils.
+
+The Government lottery yielded £160,622 in 1964.
+
+Public Finance
+
+| Year | Revenue (£) | Expenditure (£) |
+|------|------------|----------------|
+| 1960 | 1,783,080  | 1,703,630      |
+| 1961 | 2,144,963  | 2,134,460      |
+| 1962 | 2,096,585  | 2,086,253      |
+| 1963 | 2,171,555  | 2,003,552      |
+| 1964 | 2,086,556  | 2,407,298      |
+
+In 1964 Customs accounted for £791,610 and licences and internal revenue for £396,549 of the Colony's revenue. In the same year the main heads of expenditure were:
+
+- Social Services: £797,800
+- Public Works: £344,300
+- Justice: £201,000
+The Public Debt of the Colony at 31st December 1964 consisted of £1,000,000 of 3½% Debenture Loan, 1967–72, £400,000 of 3½% Debenture Loan, 1970–75, £250,000 of 5% Debenture Loan, 1967–72, £270,000 of 6½% Debenture Loan, 1981–86, and £300,000 of 6½% Debenture Loan, 1971–82. In addition there was a balance of £62,500 outstanding on an interest-free loan of £250,000 from Colonial Development and Welfare funds and a loan from the Commonwealth Development Corporation of £20,000.
+
+Currency
+
+Gibraltar Government notes and United Kingdom silver and copper coins are legal tender in the Colony. Notes to the value of £1,477,446 10s. were in circulation at 31st December 1964. The issue is governed by the Currency Note Ordinance and is of the following denominations: £5, £1, 10s.
+
+Development Plans
+
+The Senior Economic Adviser to the Secretary of State for the Colonies visited Gibraltar early in 1965 and made a detailed study of the economic situation of the territory consequent upon the restrictions imposed by the Spanish Government in October 1964.
+
+Subsequently, the Gibraltar Government appointed a Study Group consisting of well-known British firms of property developers, architects, economists etc., to prepare a comprehensive plan of development based on an economic survey. The Group's report is expected to be submitted in March.
+
+In the meantime, everything possible is being done to establish the attractions of Gibraltar as a tourist resort in its own right and as a residential centre. In the latter connection, it is noteworthy that work has begun on the development of a site in the centre of Main Street where a British Company intend to erect a modern block of flats, offices and shops. Work has also continued on the construction by Bland Aerial Ropeway Ltd., (with Commonwealth Development Corporation participation) of an aerial ropeway from Alameda Parade to Signal Hill at the top of the Rock, expected to be in operation by 1966.
+
+Considerable progress has been made on the three-year housing programme which began in 1964 and the allocation of £1 million from Colonial Development and Welfare funds has made it possible to plan for the completion during the next three years of two sixteen-story blocks comprising 240 flats, a supplementary housing scheme to provide 58 flats, an emergency scheme designed to assist in the provision of housing for British subjects obliged by the Spanish Authorities to leave Spain and the construction of a new school costing over £100,000.
+
+Education
+
+There are six secondary, twelve primary and infants and two Technical and Vocational Schools conducted by the Department of Education, with a total of 4,104 pupils at 31st December 1964. In addition there are three unaided schools with an enrolment of 684. Government expenditure on education in 1964 amounted to £208,605 compared with £9,863 in 1935.
+
+Approximately 50 students of both sexes are undergoing courses of higher education in the United Kingdom.
+
+Libraries and Museums
+
+A lending library is maintained by Government in the cultural centre—John Mackintosh Hall—to which the British Council also make a contribution. At the Gibraltar Garrison Library, established in 1793, an extensive reference section and a well-supplied lending library are available to members. The Museum contains exhibits of historical interest connected with Gibraltar.
+
+Health
+
+Total expenditure on medical and public health services in 1964 was £267,266 compared with £22,966 in 1935. The number of beds available in hospitals was:
+
+- St. Bernard's Hospital (General)
+  - including King George VI Memorial Wing ... 110
+- King George V Hospital ... 60
+- Infectious Diseases Hospital ... 10
+- St. Joseph's Hospital ... 60
+
+The number of in-patient admissions at the St. Bernard's Hospital during 1964 was 2,508, at St. Joseph's Hospital 76 and at King George V Hospital 791. There were no admissions to the Infectious Diseases Hospital. Out-patient attendances numbered 35,355 at St. Bernard's Hospital.
+
+Communications
+
+There is a R.A.F. Aerodrome at North Front which is also used by Civil Aircraft by agreement with the Air Ministry. British European Airways operate daily services between Gibraltar and the United Kingdom both direct and via Madrid. Gibraltar Airways operate a daily service (two flights) to and from Tangier.
+
+The length of road open for traffic is 5½ miles in the city, 4 miles in the south district and about 3½ miles in the area of North Front and Catalan Bay. All roads are suitable for motor traffic.
+
+The total arrivals of merchant vessels during 1964 were 3,838 with a net tonnage of 12,153,851. The majority called for bunkers, the discharge of cargo and passengers, provisions and repairs. The following passenger services were in operation:
+
+- Union Castle Line, United Kingdom/East Africa ... 2 monthly
+- P. & Orient Line, United Kingdom/Australia ... 4 monthly
+- Anchor Line, United Kingdom/India ... 2 monthly
+- British India Line, United Kingdom/East/South Africa ... 2 monthly
+- Italia Line, Italy/New York ... 2 weekly
+- National Hellenic America Line, Piraeus/Italy/New York ... 2 monthly
+- Zim Israel Line, Haifa/Italy/New York ... 2 monthly
+
+Approximately one cargo vessel a week arrived from the United Kingdom. A daily passenger and car ferry service to and from Tangier is operated by the Bland Line. There is also a daily passenger service between Gibraltar and Algeciras.
+
+Sound and Television Broadcasting
+
+The Gibraltar Broadcasting Corporation formed late in 1963 is now responsible for radio and television broadcasting with Thompson Television International as the managing agents.
+
+G.B.C.-Radio (Radio Gibraltar) broadcasts in English and Spanish for 16 hours daily, an average of 30 hours weekly being devoted to
+commercial broadcasting. In addition to live and locally recorded programmes, use is made of B.B.C. transcriptions and relays. The maximum power of the station is 8kW and it operates on a frequency of 1,484 kc/s, 202-2 metres. During 1964, 3,804 radio receiving licences were issued.
+
+G.B.C.-T.V. operates for 4½ hours daily in English with occasional live shows and some advertising in Spanish. The station operates on the standard European system of 625 lines on Channel 6. There were over 4,885 licensed T.V. sets at the end of 1964.
+
+There is also a local wired broadcasting system operated by the British Forces Broadcasting Service which relays programmes from the B.B.C. The forces Broadcasting Service are now broadcasting on VHF.
+
+Principal Occupations
+
+Almost half of the male wage-earners in Gibraltar, of whom a large proportion are Spaniards entering for work daily, are employed in one or other of the Service Departments, the Gibraltar Government, or the City Council. Commercial enterprises provide employment for a substantial number of clerical workers in shipping offices and trading agencies. Hotels, catering services, retail distributing trades and stevedoring are the other main sources of private employment.
+
+There are a number of small industrial concerns roasting and blending coffee, processing tobacco, canning meat and manufacturing ice, mineral water, sweets and various items of clothing for local needs and export.
+
+At the end of December 1964 the total insured labour force was 15,241. There are 28 registered trade unions in the Colony. The reported total paid-up membership of the 16 workers' unions was 3,734 and of the 12 employees' unions 364.
+
+Trade
+
+Actual figures of imports are available only for dutiable articles and the figures given below are therefore largely estimates:
+
+| Year | Total Imports (£) | Re-exports (£) |
+|------|------------------|---------------|
+| 1960 | 11,599,656       | 5,150,966     |
+| 1961 | 12,018,221       | 4,841,810     |
+| 1962 | 12,356,662       | 3,888,482     |
+| 1963 | 15,047,269       | 4,878,454     |
+| 1964 | 14,928,148       | 4,710,478     |
+
+The figures of re-exports are only in respect of goods liable to import duty upon entry.
+
+Tourist Trade
+
+The value of the tourist trade in normal circumstances is estimated at about £4,500,000 per annum.
+
+The number of visitors calling at Gibraltar continued to increase until October 1964 when, immediately after the debate on Gibraltar in the United Nations Committee on Decolonisation, the Spanish authorities began to impose restrictions on the frontier between Spain and Gibraltar. The restrictions, which affected, amongst other things, the free flow of tourist traffic from Gibraltar to Spain and vice versa and the number of tourists using Gibraltar as a stepping-stone, have resulted in a considerable drop in the number of cars coming to Gibraltar from Spain and Morocco and a substantial reduction in the number of passengers arriving by land and air.
+
+Number of Visitors
+
+| Year | Air | Sea | Land |
+|------|-----|-----|------|
+| 1962 | 125,398 | 207,618 | 218,879 |
+| 1963 | 139,118 | 242,951 | 343,090 |
+| 1964 | 152,682 | 221,513 | 363,937 |
+
+Governors of Gibraltar since the Great Siege of 1779–1783
+
+1776 Lt.-Gen. Sir G. A. Eliott, K.C.B. (later Baron Heathfield of Gibraltar).
+1784 Major-Gen. C. O’Hara.
+1791 Lt.-Gen. Sir R. Boyd.
+1794 General Sir H. Clinton, K.C.B. (Lieut.-Governor).
+1794 General Rainsford.
+1795 General C. O’Hara.
+1801 Major-Gen. Sir T. Trigge, K.B. (Lieut.-Governor).
+1802 H.R.H. the Duke of Kent, K.G.
+1802 Major-Gen. Barnett.
+1804 Lt.-Gen. The Hon. R. E. Fox.
+1806 Lt.-Gen. Sir H. Dalrymple, K.C.B.
+1806 Major-Gen. Drummond.
+1809 General Sir J. Cradock, K.C.B.
+1810 Lt.-Gen. Sir C. Campbell, K.C.B.
+1814 Lt.-Gen. Sir G. Don, G.C.B.
+1814 Major-Gen. Smith.
+1820 General J. Pitt, Earl of Chatham, K.G.
+1831 General Sir W. Houston, Bt., G.C.B., G.C.H. (Lieut.-Governor).
+1835 Major-Gen. Sir A. Woodford, G.C.B., G.C.M.G.
+1842 General Sir R. T. Wilson.
+1848 Major-Gen. Sir R. W. Gardiner, K.C.B., K.C.H.
+1855 Lt.-Gen. Sir J. Fergusson, G.C.B.
+1859 Lt.-Gen. Sir W. J. Codrington, K.C.B.
+1865 Lt.-Gen. Sir R. (later Lord) Airey, G.C.B.
+1870 General Sir W. F. Williams of Kars, Bt., G.C.B.
+1876 General Lord Napier of Magdala, G.C.B., G.C.S.I.
+1883 General Sir J. M. Adye, G.C.B.
+1886 General Sir A. E. Hardinge, K.C.B., C.I.E.
+1890 General Sir Leicester Smyth, K.C.B., K.C.M.G.
+1891 General Sir L. Nicholson, K.C.B.
+1893 General Sir R. Biddulph, G.C.B., G.C.M.G.
+1900 Field Marshal Sir G. S. White, V.C., G.C.B., O.M., G.C.S.I., G.C.M.G., G.C.I.E., G.C.V.O.
+1905 General Sir F. W. E. F. Forestier-Walker, G.C.M.G., K.C.B.
+1910 General Sir Archibald Hunter, G.C.B., G.C.V.O., D.S.O.
+1913 Lt.-Gen. Sir H. S. G. Miles, G.C.B., G.C.M.G., G.B.E., C.V.O.
+1918 General Sir Horace Smith-Dorrien, G.C.B., G.C.M.G., D.S.O.
+1923 General Sir Charles Monro, Bt., G.C.B., G.C.M.G., G.C.S.I.
+1928 General Sir Alexander Godley, G.C.B., K.C.M.G.
+1933 General Sir Charles Harlington, G.C.B., G.B.E., D.S.O.
+1938 General Sir Edmund (afterwards Field Marshal, Lord) Ironside, G.C.B., C.M.G., D.S.O.
+1939 Lt.-Gen. Sir Clive Liddell, K.C.B., C.M.G., C.B.E., D.S.O.
+1941 General (afterwards Field Marshal) the Viscount Gort, V.C., G.C.B., C.B.E., D.S.O., M.V.O., M.C.
+
+1942 Lt.-Gen. Sir Noel Mason-MacFarlane, K.C.B., D.S.O., M.C.
+
+1944 Lt.-Gen. Sir Ralph Eastwood, K.C.B., D.S.O., M.C.
+
+1947 General Sir Kenneth Anderson, K.C.B., M.C.
+
+1952 General Sir Gordon MacMillan, K.C.B., K.C.V.O., C.B.E., D.S.O., M.C.
+
+1955 Lt.-Gen. Sir Harold Redman, K.C.B., C.B.E.
+
+1958 General Sir Charles Keightley, G.C.B., G.B.E., D.S.O.
+
+1962 General Sir Dudley Ward, G.C.B., K.B.E., D.S.O.
+
+1965 General Sir Gerald W. Lathbury, G.C.B., D.S.O., M.B.E.
+
+GIBRALTAR COUNCIL
+
+The Governor.
+
+Ex-Officio Members
+
+The Deputy Fortress Commander.
+The Permanent Secretary.
+The Attorney-General.
+The Financial Secretary.
+
+Elected Members
+
+Sir Joshua A. Hassan, C.B.E., M.V.O., Q.C., J.P.
+P. J. Isola, O.B.E.
+Sir Peter G. Russo, C.B.E., J.P.
+A. W. Serfaty, O.B.E., J.P.
+S. A. Seruya
+
+Council of Ministers
+
+Sir Joshua A. Hassan, C.B.E., M.V.O., Q.C., J.P. (Chief Minister).
+P. J. Isola, O.B.E. (Minister without Portfolio to assist the Chief Minister and to perform the functions of his office when required).
+Sir Peter Russo, C.B.E., J.P. (Minister for Housing).
+A. J. Risso (Minister for Labour and Social Security).
+A. W. Serfaty, O.B.E., J.P. (Minister for Tourism).
+S. A. Seruya (Minister for Economic Development).
+A. P. Montegriffo, O.B.E. (Minister for Medical Services).
+Mrs. W. E. A. Chiappe (Minister for Education).
+L. W. Triay (Minister for Ports and Trade).
+A. J. Baldorino (Minister for Post Office).
+A. V. Staghetto (Minister for Public Relations).
+
+LEGISLATIVE COUNCIL
+
+The Speaker—W. Thomson, O.B.E., J.P.
+The Attorney-General.
+The Financial Secretary.
+11 Elected Members.
+Clerk of Councils—J. L. Pitaluga, M.B.E.
+
+CIVIL ESTABLISHMENT
+
+GOVERNOR AND COMMANDER-IN-CHIEF
+—General Sir Gerald W. Lathbury, G.C.B., D.S.O., M.B.E.
+
+Assistant Military Secretary—Major J. Halmshaw, Prince of Wales Own Regiment of Yorkshire.
+Aide-de-Camp—Captain R. P. Hay-Drummond-Hay, 1st. Green Jackets.
+
+Permanent Secretary—J. D. Bates, C.M.G., C.V.O.
+Financial Secretary—E. H. Davis, O.B.E.
+Administrative Secretary—J. J. Clinton, O.B.E.
+Accountant General—J. H. Romero.
+Deputy Commissioner of Income Tax—J. De la Paz.
+Principal Auditor—J. A. Frost.
+Chief Education Officer—M. Campbell.
+Director of Labour and Social Security—J. W. V. Cumming, M.B.E.
+Commissioner of Lands and Works—J. W. Coelho.
+Law Officer:
+Attorney-General—A. M. Greenwood, Q.C., M.C.
+Medical Administrator—A. Bacarese-Hamilton.
+Commissioner of Police—L. Hannon, M.B.E.
+Deputy Commissioner of Police—L. J. Payas, M.B.E.
+Captain of the Port and Shipping Master—R. L. Rickard.
+Postmaster—J. A. Giraldi.
+Superintendent of Prison—F. Massetti.
+
+JUDICIARY
+
+Chief Justice—Sir Edgar Unsworth, C.M.G.
+Judge of the Court of First Instance, Stipendiary Magistrate, Coroner and Public Trustee—J. E. Alcantara.
+Registrar, Supreme Court—F. E. Pizzarello.
+
+READING LIST
+
+1. Andrews, A. Proud Fortress: the fighting story of Gibraltar. Evans, 1958.
+2. Howes, H. W. The Story of Gibraltar. Philip & Tacey, 1946.
+3. Kenyon, E. R. Gibraltar under Moor, Spaniard and Briton. Methuen, 1938.
+4. McGuffie, T. H. The Siege of Gibraltar. Batsford, 1965.
+5. Russell, J. Gibraltar Besieged 1779-1783. Heinemann, 1965.
+

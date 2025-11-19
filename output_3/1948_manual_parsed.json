@@ -1,0 +1,266 @@
+{
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1948/olmocr_results.md",
+  "extraction_date": "2025-11-19T00:59:38.768409",
+  "year": 1948,
+  "total_colonies": 36,
+  "method": "Manual boundary identification",
+  "notes": [
+    "Palestine excluded (mandate terminated in 1948)",
+    "Post-Indian Independence (1947)",
+    "Early decolonization period"
+  ],
+  "colonies": [
+    {
+      "colony": "ADEN",
+      "start_line": 2406,
+      "end_line": 3099,
+      "lines_extracted": 694,
+      "filename": "aden.txt"
+    },
+    {
+      "colony": "BAHAMAS",
+      "start_line": 3100,
+      "end_line": 3189,
+      "lines_extracted": 90,
+      "filename": "bahamas.txt"
+    },
+    {
+      "colony": "BARBADOS",
+      "start_line": 3190,
+      "end_line": 3580,
+      "lines_extracted": 391,
+      "filename": "barbados.txt"
+    },
+    {
+      "colony": "BERMUDA",
+      "start_line": 3581,
+      "end_line": 3966,
+      "lines_extracted": 386,
+      "filename": "bermuda.txt"
+    },
+    {
+      "colony": "BRITISH_GUIANA",
+      "start_line": 3967,
+      "end_line": 4684,
+      "lines_extracted": 718,
+      "filename": "british_guiana.txt"
+    },
+    {
+      "colony": "BRITISH_HONDURAS",
+      "start_line": 4685,
+      "end_line": 5049,
+      "lines_extracted": 365,
+      "filename": "british_honduras.txt"
+    },
+    {
+      "colony": "BRUNEI",
+      "start_line": 5050,
+      "end_line": 5628,
+      "lines_extracted": 579,
+      "filename": "brunei.txt"
+    },
+    {
+      "colony": "FALKLAND_ISLANDS",
+      "start_line": 5629,
+      "end_line": 5954,
+      "lines_extracted": 326,
+      "filename": "falkland_islands.txt"
+    },
+    {
+      "colony": "FIJI",
+      "start_line": 5955,
+      "end_line": 6357,
+      "lines_extracted": 403,
+      "filename": "fiji.txt"
+    },
+    {
+      "colony": "THE_GAMBIA",
+      "start_line": 6358,
+      "end_line": 6676,
+      "lines_extracted": 319,
+      "filename": "the_gambia.txt"
+    },
+    {
+      "colony": "GIBRALTAR",
+      "start_line": 6677,
+      "end_line": 6889,
+      "lines_extracted": 213,
+      "filename": "gibraltar.txt"
+    },
+    {
+      "colony": "GOLD_COAST",
+      "start_line": 6890,
+      "end_line": 7515,
+      "lines_extracted": 626,
+      "filename": "gold_coast.txt"
+    },
+    {
+      "colony": "HONG_KONG",
+      "start_line": 7516,
+      "end_line": 7914,
+      "lines_extracted": 399,
+      "filename": "hong_kong.txt"
+    },
+    {
+      "colony": "JAMAICA",
+      "start_line": 7915,
+      "end_line": 8790,
+      "lines_extracted": 876,
+      "filename": "jamaica.txt"
+    },
+    {
+      "colony": "KENYA",
+      "start_line": 8791,
+      "end_line": 10087,
+      "lines_extracted": 1297,
+      "filename": "kenya.txt"
+    },
+    {
+      "colony": "LEEWARD_ISLANDS",
+      "start_line": 10088,
+      "end_line": 10300,
+      "lines_extracted": 213,
+      "filename": "leeward_islands.txt"
+    },
+    {
+      "colony": "FEDERATION_OF_MALAYA",
+      "start_line": 10301,
+      "end_line": 10558,
+      "lines_extracted": 258,
+      "filename": "federation_of_malaya.txt"
+    },
+    {
+      "colony": "MALTA",
+      "start_line": 10559,
+      "end_line": 10857,
+      "lines_extracted": 299,
+      "filename": "malta.txt"
+    },
+    {
+      "colony": "MAURITIUS",
+      "start_line": 10858,
+      "end_line": 11558,
+      "lines_extracted": 701,
+      "filename": "mauritius.txt"
+    },
+    {
+      "colony": "NIGERIA",
+      "start_line": 11559,
+      "end_line": 12262,
+      "lines_extracted": 704,
+      "filename": "nigeria.txt"
+    },
+    {
+      "colony": "NORTH_BORNEO",
+      "start_line": 12263,
+      "end_line": 12487,
+      "lines_extracted": 225,
+      "filename": "north_borneo.txt"
+    },
+    {
+      "colony": "NORTHERN_RHODESIA",
+      "start_line": 12488,
+      "end_line": 12968,
+      "lines_extracted": 481,
+      "filename": "northern_rhodesia.txt"
+    },
+    {
+      "colony": "NYASALAND_PROTECTORATE",
+      "start_line": 12969,
+      "end_line": 13203,
+      "lines_extracted": 235,
+      "filename": "nyasaland_protectorate.txt"
+    },
+    {
+      "colony": "ST_HELENA",
+      "start_line": 13204,
+      "end_line": 13441,
+      "lines_extracted": 238,
+      "filename": "st_helena.txt"
+    },
+    {
+      "colony": "SARAWAK",
+      "start_line": 13442,
+      "end_line": 13700,
+      "lines_extracted": 259,
+      "filename": "sarawak.txt"
+    },
+    {
+      "colony": "SEYCHELLES",
+      "start_line": 13701,
+      "end_line": 13953,
+      "lines_extracted": 253,
+      "filename": "seychelles.txt"
+    },
+    {
+      "colony": "SIERRA_LEONE",
+      "start_line": 13954,
+      "end_line": 14353,
+      "lines_extracted": 400,
+      "filename": "sierra_leone.txt"
+    },
+    {
+      "colony": "SINGAPORE",
+      "start_line": 14354,
+      "end_line": 14610,
+      "lines_extracted": 257,
+      "filename": "singapore.txt"
+    },
+    {
+      "colony": "SOMALILAND_PROTECTORATE",
+      "start_line": 14611,
+      "end_line": 14764,
+      "lines_extracted": 154,
+      "filename": "somaliland_protectorate.txt"
+    },
+    {
+      "colony": "TANGANYIKA",
+      "start_line": 14765,
+      "end_line": 15198,
+      "lines_extracted": 434,
+      "filename": "tanganyika.txt"
+    },
+    {
+      "colony": "TRINIDAD",
+      "start_line": 15199,
+      "end_line": 15821,
+      "lines_extracted": 623,
+      "filename": "trinidad.txt"
+    },
+    {
+      "colony": "UGANDA",
+      "start_line": 15822,
+      "end_line": 16116,
+      "lines_extracted": 295,
+      "filename": "uganda.txt"
+    },
+    {
+      "colony": "WESTERN_PACIFIC_HIGH_COMMISSION",
+      "start_line": 16117,
+      "end_line": 16766,
+      "lines_extracted": 650,
+      "filename": "western_pacific_high_commission.txt"
+    },
+    {
+      "colony": "WINDWARD_ISLANDS",
+      "start_line": 16767,
+      "end_line": 17582,
+      "lines_extracted": 816,
+      "filename": "windward_islands.txt"
+    },
+    {
+      "colony": "ZANZIBAR",
+      "start_line": 17583,
+      "end_line": 17843,
+      "lines_extracted": 261,
+      "filename": "zanzibar.txt"
+    },
+    {
+      "colony": "MISCELLANEOUS_ISLANDS",
+      "start_line": 17844,
+      "end_line": 18200,
+      "lines_extracted": 357,
+      "filename": "miscellaneous_islands.txt"
+    }
+  ]
+}

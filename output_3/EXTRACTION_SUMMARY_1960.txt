@@ -1,0 +1,178 @@
+================================================================================
+1960 COLONIAL OFFICE LIST - EXTRACTION SUMMARY
+THE YEAR OF AFRICA: A PIVOTAL MOMENT IN DECOLONIZATION
+================================================================================
+
+EXTRACTION COMPLETED: November 19, 2025
+METHOD: Manual boundary identification by reading content
+
+================================================================================
+OVERALL STATISTICS
+================================================================================
+
+Total Colonies/Territories Extracted: 35
+Total Lines Extracted: 16,146
+Total Words: 177,357
+Average Lines per Colony: 461
+Average Words per Colony: 5,067
+
+================================================================================
+COLONIES EXTRACTED (IN DOCUMENT ORDER)
+================================================================================
+
+1.  State of Singapore                      466 lines    6,097 words     9.3 pages
+2.  Aden Colony                              587 lines    6,839 words    11.7 pages
+3.  Bahama Islands                           365 lines    3,584 words     7.3 pages
+4.  Bermuda                                  359 lines    3,995 words     7.2 pages
+5.  British Guiana                           473 lines    4,426 words     9.5 pages
+6.  British Honduras                         390 lines    3,849 words     7.8 pages
+7.  Brunei                                   305 lines    3,516 words     6.1 pages
+8.  Cyprus                                     8 lines      133 words     0.2 pages **
+9.  Falkland Islands and Dependencies        308 lines    3,052 words     6.2 pages
+10. Fiji                                     408 lines    4,114 words     8.2 pages
+11. The Gambia                               396 lines    4,275 words     7.9 pages
+12. Gibraltar                                217 lines    2,067 words     4.3 pages
+13. Hong Kong                                430 lines    4,248 words     8.6 pages
+14. Kenya                                    503 lines    6,189 words    10.1 pages
+15. Malta                                    409 lines    4,203 words     8.2 pages
+16. Mauritius                                380 lines    4,089 words     7.6 pages
+17. Federation of Nigeria                    753 lines   10,558 words    15.1 pages **
+18. North Borneo                             375 lines    3,462 words     7.5 pages
+19. Federation of Rhodesia and Nyasaland      10 lines      104 words     0.2 pages
+20. Northern Rhodesia                        577 lines    5,406 words    11.5 pages
+21. Nyasaland Protectorate                   407 lines    4,324 words     8.1 pages
+22. St. Helena                               279 lines    3,249 words     5.6 pages
+23. Sarawak                                  344 lines    4,371 words     6.9 pages
+24. Seychelles                               298 lines    2,914 words     6.0 pages
+25. Sierra Leone                             379 lines    4,477 words     7.6 pages
+26. Somaliland Protectorate                  274 lines    3,200 words     5.5 pages **
+27. Tanganyika                               501 lines    6,109 words    10.0 pages
+28. Kingdom of Tonga                         137 lines    1,743 words     2.7 pages
+29. Uganda                                   537 lines    5,833 words    10.7 pages
+30. Virgin Islands                           154 lines    1,480 words     3.1 pages
+31. The West Indies (Federation)           3,284 lines   36,105 words    65.7 pages
+32. Western Pacific High Commission          625 lines    7,238 words    12.5 pages
+33. Zanzibar                                 291 lines    3,102 words     5.8 pages
+34. Miscellaneous Islands                      3 lines       33 words     0.1 pages
+35. The High Commission Territories          914 lines    8,973 words    18.3 pages
+
+** Territories that gained independence in 1960
+
+================================================================================
+HISTORICAL SIGNIFICANCE - THE YEAR OF AFRICA
+================================================================================
+
+1960 was a watershed year in decolonization history, with 17 African nations
+gaining independence. From the British Empire specifically:
+
+1. BRITISH SOMALILAND (Somaliland Protectorate)
+   - Merged with Italian Somaliland on July 1, 1960 to form Somalia
+   - Document shows preparations for self-government and merger
+
+2. NIGERIA (Federation of Nigeria)
+   - Gained independence on October 1, 1960
+   - The most populous British colony in Africa (35+ million people)
+   - Largest entry in the document (753 lines, 10,558 words)
+
+3. CYPRUS
+   - Gained independence on August 16, 1960
+   - Only 8 lines in document - independence negotiations in progress
+   - Shows the London Agreement of February 1959
+
+================================================================================
+GEOGRAPHIC DISTRIBUTION
+================================================================================
+
+Africa:          14 territories
+Caribbean/Americas: 6 territories
+Asia/Pacific:     8 territories
+Mediterranean:    3 territories
+Atlantic:         3 territories
+
+Top 5 Largest Entries by Word Count:
+1. The West Indies (Federation)     36,105 words
+2. Federation of Nigeria            10,558 words
+3. The High Commission Territories   8,973 words
+4. Western Pacific High Commission   7,238 words
+5. Aden Colony                       6,839 words
+
+================================================================================
+NOTABLE OBSERVATIONS
+================================================================================
+
+TERRITORIES ON PATH TO INDEPENDENCE:
+- Kenya (independence achieved 1963)
+- Tanganyika (independence achieved 1961)
+- Uganda (independence achieved 1962)
+- Sierra Leone (independence achieved 1961)
+
+SPECIAL ADMINISTRATIVE STRUCTURES:
+- Federations: West Indies, Nigeria, Rhodesia and Nyasaland
+- High Commission Territories: Basutoland, Bechuanaland, Swaziland
+- State with internal self-government: Singapore (achieved 1959)
+
+SHORTEST ENTRIES:
+- Miscellaneous Islands: 3 lines
+- Cyprus: 8 lines (due to imminent independence)
+- Federation of Rhodesia and Nyasaland: 10 lines (reference entry)
+
+================================================================================
+FILES GENERATED
+================================================================================
+
+Location: /home/user/colonial_office_list/output_3/
+
+Individual Colony Files:
+  1960_manual_parsed/
+    - 35 text files named by colony (e.g., state_of_singapore.txt)
+    - Total: 16,146 lines
+
+Metadata:
+  1960_manual_parsed.json
+    - Complete extraction metadata
+    - Line ranges for each colony
+    - Statistics and context
+
+Documentation:
+  1960_PARSING_REPORT.md
+    - Comprehensive parsing report
+    - Historical context and analysis
+    - Detailed statistics and observations
+
+================================================================================
+EXTRACTION METHOD
+================================================================================
+
+The extraction was performed using MANUAL boundary identification:
+
+1. Scanned the entire 30,576-line OCR results file
+2. Identified Part II (territories section): lines 3547-19693
+3. Located all 35 territory section headers through content analysis
+4. Manually verified boundaries by reading contextual content
+5. Extracted each territory section to individual files
+6. Generated comprehensive metadata and documentation
+
+No automated pattern matching was used - all boundaries were identified by
+reading and understanding the document structure, ensuring accurate extraction
+at critical historical juncture points.
+
+================================================================================
+CONCLUSION
+================================================================================
+
+The 1960 Colonial Office List captures a pivotal moment in British colonial
+history - the "Year of Africa" when the British Empire began its rapid
+contraction in Africa. This extraction preserves detailed administrative
+information about 35 territories, three of which (Somaliland, Nigeria, Cyprus)
+gained independence during this very year.
+
+The document provides invaluable insight into:
+- Colonial administrative structures at the moment of decolonization
+- The preparation process for independence (visible in Nigeria, Kenya, etc.)
+- The complexity of multi-territory federations and high commissions
+- The geographic spread and organizational diversity of the late British Empire
+
+This extraction enables researchers to analyze the final organizational state
+of these territories before their transition to independence.
+
+================================================================================

@@ -1,0 +1,269 @@
+{
+  "year": 1946,
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1946/olmocr_results.md",
+  "extraction_date": "2025-11-19",
+  "total_colonies": 29,
+  "colonies": [
+    {
+      "name": "Aden",
+      "filename": "aden.txt",
+      "start_line": 2667,
+      "end_line": 2990,
+      "line_count": 324,
+      "character_count": 28826,
+      "word_count": 4669
+    },
+    {
+      "name": "Bahamas",
+      "filename": "bahamas.txt",
+      "start_line": 2991,
+      "end_line": 3354,
+      "line_count": 364,
+      "character_count": 25287,
+      "word_count": 4023
+    },
+    {
+      "name": "Barbados",
+      "filename": "barbados.txt",
+      "start_line": 3355,
+      "end_line": 3949,
+      "line_count": 595,
+      "character_count": 46260,
+      "word_count": 7434
+    },
+    {
+      "name": "British Guiana",
+      "filename": "british_guiana.txt",
+      "start_line": 3950,
+      "end_line": 4596,
+      "line_count": 647,
+      "character_count": 59619,
+      "word_count": 9304
+    },
+    {
+      "name": "British Honduras",
+      "filename": "british_honduras.txt",
+      "start_line": 4597,
+      "end_line": 4831,
+      "line_count": 235,
+      "character_count": 19225,
+      "word_count": 3175
+    },
+    {
+      "name": "Ceylon",
+      "filename": "ceylon.txt",
+      "start_line": 4832,
+      "end_line": 5439,
+      "line_count": 608,
+      "character_count": 52178,
+      "word_count": 8381
+    },
+    {
+      "name": "Cyprus",
+      "filename": "cyprus.txt",
+      "start_line": 5440,
+      "end_line": 5852,
+      "line_count": 413,
+      "character_count": 49385,
+      "word_count": 8025
+    },
+    {
+      "name": "Falkland Islands",
+      "filename": "falkland_islands.txt",
+      "start_line": 5853,
+      "end_line": 6106,
+      "line_count": 254,
+      "character_count": 18054,
+      "word_count": 2919
+    },
+    {
+      "name": "Fiji",
+      "filename": "fiji.txt",
+      "start_line": 6107,
+      "end_line": 6483,
+      "line_count": 377,
+      "character_count": 32601,
+      "word_count": 5282
+    },
+    {
+      "name": "Gambia",
+      "filename": "gambia.txt",
+      "start_line": 6484,
+      "end_line": 6949,
+      "line_count": 466,
+      "character_count": 42342,
+      "word_count": 6821
+    },
+    {
+      "name": "Gold Coast",
+      "filename": "gold_coast.txt",
+      "start_line": 6950,
+      "end_line": 7479,
+      "line_count": 530,
+      "character_count": 60423,
+      "word_count": 9446
+    },
+    {
+      "name": "Hong Kong",
+      "filename": "hong_kong.txt",
+      "start_line": 7480,
+      "end_line": 7483,
+      "line_count": 4,
+      "character_count": 638,
+      "word_count": 104
+    },
+    {
+      "name": "Jamaica",
+      "filename": "jamaica.txt",
+      "start_line": 7484,
+      "end_line": 8512,
+      "line_count": 1029,
+      "character_count": 78938,
+      "word_count": 12528
+    },
+    {
+      "name": "Kenya",
+      "filename": "kenya.txt",
+      "start_line": 8513,
+      "end_line": 8913,
+      "line_count": 401,
+      "character_count": 30801,
+      "word_count": 4746
+    },
+    {
+      "name": "Leeward Islands",
+      "filename": "leeward_islands.txt",
+      "start_line": 8914,
+      "end_line": 9997,
+      "line_count": 1084,
+      "character_count": 77934,
+      "word_count": 12322
+    },
+    {
+      "name": "Mauritius",
+      "filename": "mauritius.txt",
+      "start_line": 9998,
+      "end_line": 10505,
+      "line_count": 508,
+      "character_count": 44022,
+      "word_count": 7245
+    },
+    {
+      "name": "Nigeria",
+      "filename": "nigeria.txt",
+      "start_line": 10506,
+      "end_line": 11047,
+      "line_count": 542,
+      "character_count": 69351,
+      "word_count": 11160
+    },
+    {
+      "name": "North Borneo",
+      "filename": "north_borneo.txt",
+      "start_line": 11048,
+      "end_line": 11051,
+      "line_count": 4,
+      "character_count": 537,
+      "word_count": 85
+    },
+    {
+      "name": "Northern Rhodesia",
+      "filename": "northern_rhodesia.txt",
+      "start_line": 11052,
+      "end_line": 11419,
+      "line_count": 368,
+      "character_count": 34284,
+      "word_count": 5485
+    },
+    {
+      "name": "Nyasaland",
+      "filename": "nyasaland.txt",
+      "start_line": 11420,
+      "end_line": 11590,
+      "line_count": 171,
+      "character_count": 15980,
+      "word_count": 2547
+    },
+    {
+      "name": "Palestine",
+      "filename": "palestine.txt",
+      "start_line": 11591,
+      "end_line": 12003,
+      "line_count": 413,
+      "character_count": 45348,
+      "word_count": 6864
+    },
+    {
+      "name": "St. Helena",
+      "filename": "st_helena.txt",
+      "start_line": 12004,
+      "end_line": 12200,
+      "line_count": 197,
+      "character_count": 16450,
+      "word_count": 2775
+    },
+    {
+      "name": "Seychelles",
+      "filename": "seychelles.txt",
+      "start_line": 12201,
+      "end_line": 12368,
+      "line_count": 168,
+      "character_count": 12570,
+      "word_count": 2068
+    },
+    {
+      "name": "Sierra Leone",
+      "filename": "sierra_leone.txt",
+      "start_line": 12369,
+      "end_line": 12693,
+      "line_count": 325,
+      "character_count": 28854,
+      "word_count": 4539
+    },
+    {
+      "name": "Singapore",
+      "filename": "singapore.txt",
+      "start_line": 12694,
+      "end_line": 12696,
+      "line_count": 3,
+      "character_count": 30,
+      "word_count": 4
+    },
+    {
+      "name": "Somaliland Protectorate",
+      "filename": "somaliland_protectorate.txt",
+      "start_line": 12697,
+      "end_line": 13180,
+      "line_count": 484,
+      "character_count": 48886,
+      "word_count": 7619
+    },
+    {
+      "name": "Trinidad",
+      "filename": "trinidad.txt",
+      "start_line": 13181,
+      "end_line": 13899,
+      "line_count": 719,
+      "character_count": 62618,
+      "word_count": 9990
+    },
+    {
+      "name": "Western Pacific",
+      "filename": "western_pacific.txt",
+      "start_line": 13900,
+      "end_line": 14323,
+      "line_count": 424,
+      "character_count": 40202,
+      "word_count": 6409
+    },
+    {
+      "name": "Windward Islands",
+      "filename": "windward_islands.txt",
+      "start_line": 14324,
+      "end_line": 15609,
+      "line_count": 1286,
+      "character_count": 98838,
+      "word_count": 16175
+    }
+  ]
+}

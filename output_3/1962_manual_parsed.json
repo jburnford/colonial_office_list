@@ -1,0 +1,353 @@
+{
+  "year": 1962,
+  "extraction_method": "manual_boundary_identification",
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1962/olmocr_results.md",
+  "num_colonies": 38,
+  "total_lines": 14305,
+  "total_words": 164300,
+  "total_chars": 1070156,
+  "colonies": [
+    {
+      "name": "State of Singapore",
+      "filename": "State_of_Singapore.txt",
+      "start_line": 3076,
+      "end_line": 3509,
+      "num_lines": 434,
+      "num_words": 5962,
+      "num_chars": 39111
+    },
+    {
+      "name": "Aden Colony",
+      "filename": "Aden_Colony.txt",
+      "start_line": 3510,
+      "end_line": 4087,
+      "num_lines": 578,
+      "num_words": 7649,
+      "num_chars": 48274
+    },
+    {
+      "name": "Bahama Islands",
+      "filename": "Bahama_Islands.txt",
+      "start_line": 4088,
+      "end_line": 4418,
+      "num_lines": 331,
+      "num_words": 3548,
+      "num_chars": 23142
+    },
+    {
+      "name": "Bermuda",
+      "filename": "Bermuda.txt",
+      "start_line": 4419,
+      "end_line": 4762,
+      "num_lines": 344,
+      "num_words": 3840,
+      "num_chars": 24451
+    },
+    {
+      "name": "British Guiana",
+      "filename": "British_Guiana.txt",
+      "start_line": 4763,
+      "end_line": 5155,
+      "num_lines": 393,
+      "num_words": 4888,
+      "num_chars": 31786
+    },
+    {
+      "name": "British Honduras",
+      "filename": "British_Honduras.txt",
+      "start_line": 5156,
+      "end_line": 5575,
+      "num_lines": 420,
+      "num_words": 4807,
+      "num_chars": 30712
+    },
+    {
+      "name": "Brunei",
+      "filename": "Brunei.txt",
+      "start_line": 5576,
+      "end_line": 5890,
+      "num_lines": 315,
+      "num_words": 3534,
+      "num_chars": 22627
+    },
+    {
+      "name": "The Cameroons",
+      "filename": "The_Cameroons.txt",
+      "start_line": 5891,
+      "end_line": 5901,
+      "num_lines": 11,
+      "num_words": 105,
+      "num_chars": 694
+    },
+    {
+      "name": "Falkland Islands and Dependencies",
+      "filename": "Falkland_Islands_and_Dependencies.txt",
+      "start_line": 5902,
+      "end_line": 6234,
+      "num_lines": 333,
+      "num_words": 3111,
+      "num_chars": 19569
+    },
+    {
+      "name": "Fiji (and Pitcairn Islands Group)",
+      "filename": "Fiji_and_Pitcairn_Islands_Group.txt",
+      "start_line": 6235,
+      "end_line": 6564,
+      "num_lines": 330,
+      "num_words": 4180,
+      "num_chars": 26368
+    },
+    {
+      "name": "The Gambia",
+      "filename": "The_Gambia.txt",
+      "start_line": 6565,
+      "end_line": 6970,
+      "num_lines": 406,
+      "num_words": 5042,
+      "num_chars": 32218
+    },
+    {
+      "name": "Gibraltar",
+      "filename": "Gibraltar.txt",
+      "start_line": 6971,
+      "end_line": 7227,
+      "num_lines": 257,
+      "num_words": 2370,
+      "num_chars": 15396
+    },
+    {
+      "name": "Hong Kong",
+      "filename": "Hong_Kong.txt",
+      "start_line": 7228,
+      "end_line": 7644,
+      "num_lines": 417,
+      "num_words": 4235,
+      "num_chars": 28416
+    },
+    {
+      "name": "Kenya",
+      "filename": "Kenya.txt",
+      "start_line": 7645,
+      "end_line": 8159,
+      "num_lines": 515,
+      "num_words": 7002,
+      "num_chars": 46357
+    },
+    {
+      "name": "Malta",
+      "filename": "Malta.txt",
+      "start_line": 8160,
+      "end_line": 8603,
+      "num_lines": 444,
+      "num_words": 5084,
+      "num_chars": 33541
+    },
+    {
+      "name": "Mauritius",
+      "filename": "Mauritius.txt",
+      "start_line": 8604,
+      "end_line": 9005,
+      "num_lines": 402,
+      "num_words": 4303,
+      "num_chars": 27977
+    },
+    {
+      "name": "North Borneo",
+      "filename": "North_Borneo.txt",
+      "start_line": 9006,
+      "end_line": 9400,
+      "num_lines": 395,
+      "num_words": 3882,
+      "num_chars": 25292
+    },
+    {
+      "name": "Federation of Rhodesia and Nyasaland",
+      "filename": "Federation_of_Rhodesia_and_Nyasaland.txt",
+      "start_line": 9401,
+      "end_line": 9410,
+      "num_lines": 10,
+      "num_words": 137,
+      "num_chars": 881
+    },
+    {
+      "name": "Northern Rhodesia",
+      "filename": "Northern_Rhodesia.txt",
+      "start_line": 9411,
+      "end_line": 10009,
+      "num_lines": 599,
+      "num_words": 6097,
+      "num_chars": 41289
+    },
+    {
+      "name": "Nyasaland Protectorate",
+      "filename": "Nyasaland_Protectorate.txt",
+      "start_line": 10010,
+      "end_line": 10471,
+      "num_lines": 462,
+      "num_words": 4748,
+      "num_chars": 32194
+    },
+    {
+      "name": "St. Helena",
+      "filename": "St._Helena.txt",
+      "start_line": 10472,
+      "end_line": 10733,
+      "num_lines": 262,
+      "num_words": 2853,
+      "num_chars": 17506
+    },
+    {
+      "name": "Sarawak",
+      "filename": "Sarawak.txt",
+      "start_line": 10734,
+      "end_line": 11099,
+      "num_lines": 366,
+      "num_words": 5169,
+      "num_chars": 33057
+    },
+    {
+      "name": "Seychelles",
+      "filename": "Seychelles.txt",
+      "start_line": 11100,
+      "end_line": 11426,
+      "num_lines": 327,
+      "num_words": 3191,
+      "num_chars": 20886
+    },
+    {
+      "name": "Sierra Leone",
+      "filename": "Sierra_Leone.txt",
+      "start_line": 11427,
+      "end_line": 11432,
+      "num_lines": 6,
+      "num_words": 68,
+      "num_chars": 434
+    },
+    {
+      "name": "Tanganyika",
+      "filename": "Tanganyika.txt",
+      "start_line": 11433,
+      "end_line": 11440,
+      "num_lines": 8,
+      "num_words": 88,
+      "num_chars": 588
+    },
+    {
+      "name": "Tonga",
+      "filename": "Tonga.txt",
+      "start_line": 11441,
+      "end_line": 11588,
+      "num_lines": 148,
+      "num_words": 2028,
+      "num_chars": 12919
+    },
+    {
+      "name": "Uganda",
+      "filename": "Uganda.txt",
+      "start_line": 11589,
+      "end_line": 12031,
+      "num_lines": 443,
+      "num_words": 5789,
+      "num_chars": 38429
+    },
+    {
+      "name": "Virgin Islands",
+      "filename": "Virgin_Islands.txt",
+      "start_line": 12032,
+      "end_line": 12183,
+      "num_lines": 152,
+      "num_words": 1487,
+      "num_chars": 9648
+    },
+    {
+      "name": "The West Indies (Federation)",
+      "filename": "The_West_Indies_Federation.txt",
+      "start_line": 12184,
+      "end_line": 12885,
+      "num_lines": 702,
+      "num_words": 10652,
+      "num_chars": 69526
+    },
+    {
+      "name": "The West Indies - Barbados",
+      "filename": "The_West_Indies_-_Barbados.txt",
+      "start_line": 12886,
+      "end_line": 15247,
+      "num_lines": 2362,
+      "num_words": 23963,
+      "num_chars": 157963
+    },
+    {
+      "name": "The West Indies - Trinidad and Tobago",
+      "filename": "The_West_Indies_-_Trinidad_and_Tobago.txt",
+      "start_line": 15248,
+      "end_line": 15638,
+      "num_lines": 391,
+      "num_words": 2557,
+      "num_chars": 16730
+    },
+    {
+      "name": "Western Pacific High Commission",
+      "filename": "Western_Pacific_High_Commission.txt",
+      "start_line": 15639,
+      "end_line": 16574,
+      "num_lines": 936,
+      "num_words": 10953,
+      "num_chars": 70654
+    },
+    {
+      "name": "Zanzibar and High Commission Territories",
+      "filename": "Zanzibar_and_High_Commission_Territories.txt",
+      "start_line": 16575,
+      "end_line": 16613,
+      "num_lines": 39,
+      "num_words": 179,
+      "num_chars": 1413
+    },
+    {
+      "name": "Miscellaneous Islands",
+      "filename": "Miscellaneous_Islands.txt",
+      "start_line": 16614,
+      "end_line": 16617,
+      "num_lines": 4,
+      "num_words": 33,
+      "num_chars": 227
+    },
+    {
+      "name": "The High Commission Territories",
+      "filename": "The_High_Commission_Territories.txt",
+      "start_line": 16618,
+      "end_line": 16646,
+      "num_lines": 29,
+      "num_words": 275,
+      "num_chars": 2058
+    },
+    {
+      "name": "Basutoland",
+      "filename": "Basutoland.txt",
+      "start_line": 16647,
+      "end_line": 16893,
+      "num_lines": 247,
+      "num_words": 3444,
+      "num_chars": 21446
+    },
+    {
+      "name": "The Bechuanaland Protectorate",
+      "filename": "The_Bechuanaland_Protectorate.txt",
+      "start_line": 16894,
+      "end_line": 17129,
+      "num_lines": 236,
+      "num_words": 3016,
+      "num_chars": 19559
+    },
+    {
+      "name": "Swaziland",
+      "filename": "Swaziland.txt",
+      "start_line": 17130,
+      "end_line": 17380,
+      "num_lines": 251,
+      "num_words": 4031,
+      "num_chars": 26818
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1950/olmocr_results.md",
+  "total_colonies": 37,
+  "extraction_date": "2025-11-19",
+  "colonies": [
+    {
+      "number": 1,
+      "name": "ADEN",
+      "filename": "aden.txt",
+      "start_line": 4509,
+      "end_line": 5262,
+      "total_lines": 754,
+      "character_count": 52441,
+      "word_count": 8266
+    },
+    {
+      "number": 2,
+      "name": "BAHAMA ISLANDS",
+      "filename": "bahama_islands.txt",
+      "start_line": 5263,
+      "end_line": 5792,
+      "total_lines": 530,
+      "character_count": 32327,
+      "word_count": 5007
+    },
+    {
+      "number": 3,
+      "name": "BARBADOS",
+      "filename": "barbados.txt",
+      "start_line": 5793,
+      "end_line": 6267,
+      "total_lines": 475,
+      "character_count": 34726,
+      "word_count": 5476
+    },
+    {
+      "number": 4,
+      "name": "BERMUDA",
+      "filename": "bermuda.txt",
+      "start_line": 6268,
+      "end_line": 6805,
+      "total_lines": 538,
+      "character_count": 32008,
+      "word_count": 4967
+    },
+    {
+      "number": 5,
+      "name": "BRITISH GUIANA",
+      "filename": "british_guiana.txt",
+      "start_line": 6806,
+      "end_line": 7788,
+      "total_lines": 983,
+      "character_count": 74604,
+      "word_count": 11221
+    },
+    {
+      "number": 6,
+      "name": "BRITISH HONDURAS",
+      "filename": "british_honduras.txt",
+      "start_line": 7789,
+      "end_line": 8234,
+      "total_lines": 446,
+      "character_count": 26723,
+      "word_count": 4066
+    },
+    {
+      "number": 7,
+      "name": "BRUNEI",
+      "filename": "brunei.txt",
+      "start_line": 8235,
+      "end_line": 8486,
+      "total_lines": 252,
+      "character_count": 15432,
+      "word_count": 2470
+    },
+    {
+      "number": 8,
+      "name": "CYPRUS",
+      "filename": "cyprus.txt",
+      "start_line": 8487,
+      "end_line": 9245,
+      "total_lines": 759,
+      "character_count": 67572,
+      "word_count": 10504
+    },
+    {
+      "number": 9,
+      "name": "FALKLAND ISLANDS AND DEPENDENCIES",
+      "filename": "falkland_islands_and_dependencies.txt",
+      "start_line": 9246,
+      "end_line": 9661,
+      "total_lines": 416,
+      "character_count": 24043,
+      "word_count": 3498
+    },
+    {
+      "number": 10,
+      "name": "FIJI",
+      "filename": "fiji.txt",
+      "start_line": 9662,
+      "end_line": 10419,
+      "total_lines": 758,
+      "character_count": 52636,
+      "word_count": 8064
+    },
+    {
+      "number": 11,
+      "name": "THE GAMBIA",
+      "filename": "gambia.txt",
+      "start_line": 10420,
+      "end_line": 10962,
+      "total_lines": 543,
+      "character_count": 36836,
+      "word_count": 5716
+    },
+    {
+      "number": 12,
+      "name": "GIBRALTAR",
+      "filename": "gibraltar.txt",
+      "start_line": 10963,
+      "end_line": 11324,
+      "total_lines": 362,
+      "character_count": 21731,
+      "word_count": 3343
+    },
+    {
+      "number": 13,
+      "name": "THE GOLD COAST",
+      "filename": "gold_coast.txt",
+      "start_line": 11325,
+      "end_line": 12750,
+      "total_lines": 1426,
+      "character_count": 126541,
+      "word_count": 20126
+    },
+    {
+      "number": 14,
+      "name": "HONG KONG",
+      "filename": "hong_kong.txt",
+      "start_line": 12751,
+      "end_line": 13723,
+      "total_lines": 973,
+      "character_count": 63548,
+      "word_count": 9705
+    },
+    {
+      "number": 15,
+      "name": "JAMAICA",
+      "filename": "jamaica.txt",
+      "start_line": 13724,
+      "end_line": 14856,
+      "total_lines": 1133,
+      "character_count": 83497,
+      "word_count": 12986
+    },
+    {
+      "number": 16,
+      "name": "KENYA",
+      "filename": "kenya.txt",
+      "start_line": 14857,
+      "end_line": 16003,
+      "total_lines": 1147,
+      "character_count": 84003,
+      "word_count": 12669
+    },
+    {
+      "number": 17,
+      "name": "THE LEEWARD ISLANDS",
+      "filename": "leeward_islands.txt",
+      "start_line": 16004,
+      "end_line": 17107,
+      "total_lines": 1104,
+      "character_count": 59141,
+      "word_count": 9275
+    },
+    {
+      "number": 18,
+      "name": "FEDERATION OF MALAYA",
+      "filename": "federation_of_malaya.txt",
+      "start_line": 17108,
+      "end_line": 18119,
+      "total_lines": 1012,
+      "character_count": 77355,
+      "word_count": 11321
+    },
+    {
+      "number": 19,
+      "name": "MALTA",
+      "filename": "malta.txt",
+      "start_line": 18120,
+      "end_line": 18792,
+      "total_lines": 673,
+      "character_count": 34373,
+      "word_count": 5384
+    },
+    {
+      "number": 20,
+      "name": "MAURITIUS",
+      "filename": "mauritius.txt",
+      "start_line": 18793,
+      "end_line": 19707,
+      "total_lines": 915,
+      "character_count": 65270,
+      "word_count": 10290
+    },
+    {
+      "number": 21,
+      "name": "NIGERIA",
+      "filename": "nigeria.txt",
+      "start_line": 19708,
+      "end_line": 21443,
+      "total_lines": 1736,
+      "character_count": 148432,
+      "word_count": 24326
+    },
+    {
+      "number": 22,
+      "name": "NORTH BORNEO",
+      "filename": "north_borneo.txt",
+      "start_line": 21444,
+      "end_line": 21913,
+      "total_lines": 470,
+      "character_count": 25518,
+      "word_count": 3963
+    },
+    {
+      "number": 23,
+      "name": "NORTHERN RHODESIA",
+      "filename": "northern_rhodesia.txt",
+      "start_line": 21914,
+      "end_line": 23000,
+      "total_lines": 1087,
+      "character_count": 74478,
+      "word_count": 11545
+    },
+    {
+      "number": 24,
+      "name": "NYASALAND PROTECTORATE",
+      "filename": "nyasaland_protectorate.txt",
+      "start_line": 23001,
+      "end_line": 23557,
+      "total_lines": 557,
+      "character_count": 40825,
+      "word_count": 6072
+    },
+    {
+      "number": 25,
+      "name": "ST. HELENA",
+      "filename": "st_helena.txt",
+      "start_line": 23558,
+      "end_line": 23923,
+      "total_lines": 366,
+      "character_count": 21580,
+      "word_count": 3433
+    },
+    {
+      "number": 26,
+      "name": "SARAWAK",
+      "filename": "sarawak.txt",
+      "start_line": 23924,
+      "end_line": 24475,
+      "total_lines": 552,
+      "character_count": 44398,
+      "word_count": 6916
+    },
+    {
+      "number": 27,
+      "name": "SEYCHELLES",
+      "filename": "seychelles.txt",
+      "start_line": 24476,
+      "end_line": 24887,
+      "total_lines": 412,
+      "character_count": 23586,
+      "word_count": 3858
+    },
+    {
+      "number": 28,
+      "name": "SIERRA LEONE",
+      "filename": "sierra_leone.txt",
+      "start_line": 24888,
+      "end_line": 25566,
+      "total_lines": 679,
+      "character_count": 49718,
+      "word_count": 7827
+    },
+    {
+      "number": 29,
+      "name": "SINGAPORE AND DEPENDENCIES",
+      "filename": "singapore_and_dependencies.txt",
+      "start_line": 25567,
+      "end_line": 26601,
+      "total_lines": 1035,
+      "character_count": 74580,
+      "word_count": 11250
+    },
+    {
+      "number": 30,
+      "name": "SOMALILAND PROTECTORATE",
+      "filename": "somaliland_protectorate.txt",
+      "start_line": 26602,
+      "end_line": 26921,
+      "total_lines": 320,
+      "character_count": 19035,
+      "word_count": 2887
+    },
+    {
+      "number": 31,
+      "name": "TANGANYIKA",
+      "filename": "tanganyika.txt",
+      "start_line": 26922,
+      "end_line": 27658,
+      "total_lines": 737,
+      "character_count": 55471,
+      "word_count": 8592
+    },
+    {
+      "number": 32,
+      "name": "TRINIDAD AND TOBAGO",
+      "filename": "trinidad_and_tobago.txt",
+      "start_line": 27659,
+      "end_line": 28586,
+      "total_lines": 928,
+      "character_count": 60255,
+      "word_count": 9185
+    },
+    {
+      "number": 33,
+      "name": "UGANDA",
+      "filename": "uganda.txt",
+      "start_line": 28587,
+      "end_line": 29378,
+      "total_lines": 792,
+      "character_count": 57233,
+      "word_count": 8759
+    },
+    {
+      "number": 34,
+      "name": "GILBERT AND ELLICE ISLANDS COLONY",
+      "filename": "gilbert_and_ellice_islands.txt",
+      "start_line": 29379,
+      "end_line": 30230,
+      "total_lines": 852,
+      "character_count": 63811,
+      "word_count": 10031
+    },
+    {
+      "number": 35,
+      "name": "THE WINDWARD ISLANDS",
+      "filename": "windward_islands.txt",
+      "start_line": 30231,
+      "end_line": 31510,
+      "total_lines": 1280,
+      "character_count": 77128,
+      "word_count": 11957
+    },
+    {
+      "number": 36,
+      "name": "ZANZIBAR",
+      "filename": "zanzibar.txt",
+      "start_line": 31511,
+      "end_line": 31945,
+      "total_lines": 435,
+      "character_count": 34080,
+      "word_count": 5350
+    },
+    {
+      "number": 37,
+      "name": "MISCELLANEOUS ISLANDS",
+      "filename": "miscellaneous_islands.txt",
+      "start_line": 31946,
+      "end_line": 32910,
+      "total_lines": 965,
+      "character_count": 84381,
+      "word_count": 11616
+    }
+  ]
+}

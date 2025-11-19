@@ -1,0 +1,125 @@
+================================================================================
+1966 COLONIAL OFFICE LIST EXTRACTION - FINAL YEAR
+================================================================================
+
+HISTORIC MILESTONE: This completes the 100-year Colonial Office List 
+extraction project (1867-1966), documenting the British Empire from its 
+height through to the rapid decolonization of the 1960s.
+
+================================================================================
+EXTRACTION RESULTS
+================================================================================
+
+Total Territories Extracted: 31
+Total Lines Extracted: 9,957
+Total Words Extracted: 110,874
+Average per Territory: 321 lines, 3,576 words
+
+================================================================================
+MAJOR HISTORICAL EVENTS IN 1966
+================================================================================
+
+Four territories gained independence in 1966:
+
+1. Guyana (May 26, 1966) - formerly British Guiana
+2. Botswana (September 30, 1966) - formerly Bechuanaland Protectorate  
+3. Lesotho (October 4, 1966) - formerly Basutoland
+4. Barbados (November 30, 1966)
+
+The Gambia had already gained independence in February 1965, but is still
+mentioned in the 1966 list with a brief note referring readers to the 1965
+edition for detailed information.
+
+================================================================================
+EXTRACTED TERRITORIES (31)
+================================================================================
+
+1. Aden and the Protectorate of South Arabia (729 lines, 8,884 words)
+2. Antigua (176 lines, 1,797 words)
+3. Bahama Islands (454 lines, 4,876 words)
+4. Barbados (459 lines, 5,129 words) - Independence Nov 30, 1966
+5. Basutoland (257 lines, 3,665 words) - Became Lesotho Oct 4, 1966
+6. Bechuanaland Protectorate (286 lines, 3,730 words) - Became Botswana Sep 30, 1966
+7. Bermuda (420 lines, 3,920 words)
+8. British Antarctic Territory (102 lines, 945 words)
+9. British Guiana (494 lines, 5,346 words) - Became Guyana May 26, 1966
+10. British Honduras (521 lines, 6,244 words)
+11. Cayman Islands (171 lines, 1,775 words)
+12. Dominica (295 lines, 2,309 words)
+13. Falkland Islands and Dependencies (295 lines, 2,879 words)
+14. Fiji (342 lines, 4,385 words)
+15. The Gambia (10 lines, 103 words) - Already independent Feb 1965
+16. Gibraltar (307 lines, 2,946 words)
+17. Grenada (276 lines, 3,040 words)
+18. Hong Kong (456 lines, 4,902 words)
+19. Mauritius (417 lines, 4,675 words)
+20. Montserrat (169 lines, 1,251 words)
+21. Pitcairn Islands Group (33 lines, 1,037 words)
+22. St. Christopher, Nevis and Anguilla (193 lines, 1,730 words)
+23. St. Helena (with Ascension and Tristan da Cunha) (324 lines, 3,152 words)
+24. St. Lucia (239 lines, 2,374 words)
+25. St. Vincent (281 lines, 2,538 words)
+26. Seychelles (389 lines, 3,875 words)
+27. Swaziland (254 lines, 3,948 words)
+28. Kingdom of Tonga (137 lines, 2,111 words)
+29. Turks and Caicos Islands (183 lines, 1,877 words)
+30. Virgin Islands (176 lines, 1,685 words)
+31. Western Pacific High Commission (1,112 lines, 13,746 words)
+
+================================================================================
+OUTPUT FILES
+================================================================================
+
+Location: /home/user/colonial_office_list/output_3/
+
+Directory Structure:
+- 1966_manual_parsed/ - Individual territory text files (31 files)
+- 1966_manual_parsed.json - Comprehensive metadata with boundaries
+- 1966_PARSING_REPORT.md - Detailed analysis and historical context
+- 1966_EXTRACTION_SUMMARY.txt - This file
+
+================================================================================
+METHODOLOGY
+================================================================================
+
+Extraction Method: Manual boundary identification by reading OCR content
+
+Process:
+1. Read entire OCR file to understand structure
+2. Identified Part II boundaries (lines 2712-12669)
+3. Manually located each territory section header
+4. Verified boundaries by reading context around sections
+5. Cross-referenced with table of contents for completeness
+6. Extracted full text preserving all formatting
+
+================================================================================
+SPECIAL NOTES
+================================================================================
+
+1. The Gambia: Only 10 lines - already independent, refers to 1965 edition
+2. Western Pacific: Largest section (1,112 lines) covering multiple territories
+3. Aden: Second largest (729 lines) - complex political situation
+4. OCR Error: "Grenada" appeared as "GRENADE" in OCR (corrected in output)
+5. Four territories gained independence during 1966 itself
+
+================================================================================
+HISTORICAL SIGNIFICANCE
+================================================================================
+
+The 1966 Colonial Office List represents the END OF AN ERA:
+
+- Final edition of a nearly 100-year publication series
+- Documents the last stages of the British Empire
+- Only 31 territories remain under British administration
+- Most are small islands or strategic locations
+- Marks the completion of rapid 1960s decolonization
+
+What remained after 1966:
+- Strategic locations: Gibraltar, Hong Kong, Bermuda, Falklands
+- Small island territories: Caribbean and Pacific islands
+- Complex situations: Aden (independent 1967)
+- Protected states: Tonga, various protectorates
+
+================================================================================
+COMPLETED: November 19, 2025
+================================================================================

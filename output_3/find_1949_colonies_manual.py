@@ -1,74 +1,137 @@
 #!/usr/bin/env python3
 """
 Manually identify colony boundaries in the 1949 Colonial Office List
-by looking for patterns that indicate the start of a new colony section.
+using the exact list from the table of contents.
 """
 
 import re
+
+# List of colonies from the table of contents (manually extracted from lines 3752-3791)
+# Format: (display_name, search_pattern, page_number)
+colonies_to_find = [
+    ("Aden", r"^ADEN$", 52),
+    ("Bahamas", r"^(BAHAMAS|BAHAMA ISLANDS)$", 61),
+    ("Barbados", r"^BARBADOS$", 66),
+    ("Bermuda", r"^BERMUDA$", 73),
+    ("British Guiana", r"^BRITISH GUIANA$", 79),
+    ("British Honduras", r"^BRITISH HONDURAS$", 91),
+    ("British Somaliland Protectorate", r"^(BRITISH SOMALILAND|SOMALILAND PROTECTORATE)$", 96),
+    ("Brunei", r"^BRUNEI$", 99),
+    ("Cyprus", r"^CYPRUS$", 102),
+    ("East Africa High Commission", r"^EAST AFRICA HIGH COMMISSION$", 113),
+    ("Falkland Islands", r"^FALKLAND ISLANDS$", 118),
+    ("Fiji", r"^FIJI$", 123),
+    ("Gambia", r"^(THE GAMBIA|GAMBIA)$", 132),
+    ("Gibraltar", r"^GIBRALTAR$", 139),
+    ("Gold Coast", r"^(THE GOLD COAST|GOLD COAST)$", 143),
+    ("Hong Kong", r"^HONG KONG$", 161),
+    ("Jamaica", r"^JAMAICA$", 172),
+    ("Kenya", r"^KENYA$", 188),
+    ("Leeward Islands", r"^(THE LEEWARD ISLANDS|LEEWARD ISLANDS)$", 202),
+    ("Federation of Malaya", r"^(FEDERATION OF MALAYA|MALAYA)$", 214),
+    ("Malta", r"^MALTA$", 227),
+    ("Mauritius", r"^MAURITIUS$", 234),
+    ("Nigeria", r"^NIGERIA$", 246),
+    ("North Borneo", r"^NORTH BORNEO$", 272),
+    ("Northern Rhodesia", r"^NORTHERN RHODESIA$", 277),
+    ("Nyasaland Protectorate", r"^(NYASALAND|NYASALAND PROTECTORATE)$", 290),
+    ("St. Helena", r"^(ST\. HELENA|SAINT HELENA)$", 297),
+    ("Sarawak", r"^SARAWAK$", 301),
+    ("Seychelles", r"^SEYCHELLES$", 308),
+    ("Sierra Leone", r"^SIERRA LEONE$", 312),
+    ("Singapore", r"^SINGAPORE$", 321),
+    ("Tanganyika", r"^TANGANYIKA$", 332),
+    ("Trinidad and Tobago", r"^(TRINIDAD|TRINIDAD AND TOBAGO)$", 342),
+    ("Uganda", r"^UGANDA$", 352),
+    ("Western Pacific", r"^(WESTERN PACIFIC|THE WESTERN PACIFIC)$", 361),
+    ("Windward Islands", r"^(THE WINDWARD ISLANDS|WINDWARD ISLANDS)$", 373),
+    ("Zanzibar", r"^ZANZIBAR$", 387),
+    ("Miscellaneous Islands", r"^MISCELLANEOUS ISLANDS$", 393),
+]
 
 # Read the file
 with open('/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1949/olmocr_results.md', 'r') as f:
     lines = f.readlines()
 
-# Colony sections start between ADEN (around line 3793) and PART III (line 29868)
-START_SCAN = 3793
-END_SCAN = 29868
+print(f"Total lines in file: {len(lines)}")
 
-# Pattern: Colony names are usually followed by standard sections
-# Look for lines followed by "SITUATION AND AREA" or similar within 50 lines
+# Find Part II and Part III boundaries
+part_ii_start = None
+part_iii_start = None
 
-colonies = []
-i = START_SCAN - 1
+for i, line in enumerate(lines, 1):
+    if "HISTORICAL AND STATISTICAL ACCOUNT" in line and i > 100:
+        part_ii_start = i
+    if i > 10000 and line.strip() == "PART III":
+        part_iii_start = i
+        break
 
-while i < END_SCAN - 1:
-    line_num = i + 1
-    line_text = lines[i].strip()
+print(f"Part II starts at line: {part_ii_start}")
+print(f"Part III starts at line: {part_iii_start}")
+print()
 
-    # Check if this looks like a colony heading:
-    # 1. All caps
-    # 2. Reasonable length (4-60 chars)
-    # 3. Not a common section header
-    if line_text and line_text.isupper() and 4 <= len(line_text) <= 60:
-        # Look ahead for indicators this is a colony start
-        # Check next 100 lines for "SITUATION AND AREA" or "GENERAL DESCRIPTION" or "CLIMATE"
-        is_colony = False
-        for j in range(i+1, min(i+100, len(lines))):
-            next_line = lines[j].strip()
-            if next_line in ['SITUATION AND AREA', 'GENERAL DESCRIPTION', 'CLIMATE', 'POPULATION']:
-                # Found a colony indicator
-                is_colony = True
-                break
-            # If we hit another all-caps line that's long, stop searching
-            if next_line and next_line.isupper() and len(next_line) > 15:
-                if next_line not in ['SITUATION AND AREA', 'GENERAL DESCRIPTION', 'CLIMATE',
-                                      'POPULATION', 'RELIGION', 'HISTORY', 'CONSTITUTION',
-                                      'ADMINISTRATION', 'SOCIAL SERVICES', 'PUBLIC FINANCE',
-                                      'CURRENCY AND BANKING', 'PRODUCTION AND TRADE', 'COMMUNICATIONS',
-                                      'TRADE, INDUSTRY AND AGRICULTURE', 'INDUSTRY, TRADE AND CUSTOMS']:
-                    break
+# Find each colony
+colonies_found = []
 
-        if is_colony:
-            colonies.append({
-                'line': line_num,
-                'name': line_text
+for display_name, pattern, page_num in colonies_to_find:
+    found = False
+    for i in range(part_ii_start, part_iii_start):
+        line = lines[i-1]  # Convert to 0-based index
+        content = line.strip()
+
+        # Extract content after line number prefix if present
+        match = re.search(r'^\s*\d+→(.*)$', line)
+        if match:
+            content = match.group(1).strip()
+
+        # Check if this matches our pattern
+        if re.match(pattern, content):
+            colonies_found.append({
+                'name': display_name,
+                'line': i,
+                'text': content,
+                'page': page_num
             })
-            print(f"Found colony at line {line_num}: {line_text}")
+            print(f"Found: {display_name:40s} at line {i:5d}: {content}")
+            found = True
+            break
 
-    i += 1
+    if not found:
+        print(f"WARNING: Not found: {display_name}")
 
-print(f"\n{'='*80}")
-print(f"Total colonies found: {len(colonies)}")
-print(f"{'='*80}\n")
+print()
+print("="*80)
+print(f"Summary: Found {len(colonies_found)} of {len(colonies_to_find)} colonies")
+print("="*80)
+print()
 
-# Print them all
-for idx, col in enumerate(colonies, 1):
-    print(f"{idx:2d}. Line {col['line']:5d}: {col['name']}")
+# Sort by line number
+colonies_found.sort(key=lambda x: x['line'])
+
+# Calculate boundaries
+for i in range(len(colonies_found)):
+    start_line = colonies_found[i]['line']
+    if i < len(colonies_found) - 1:
+        end_line = colonies_found[i+1]['line'] - 1
+    else:
+        end_line = part_iii_start - 1
+
+    colonies_found[i]['start_line'] = start_line
+    colonies_found[i]['end_line'] = end_line
+    colonies_found[i]['num_lines'] = end_line - start_line + 1
+
+# Print summary
+print("Colony boundaries:")
+print("="*80)
+for col in colonies_found:
+    print(f"{col['name']:40s} Lines {col['start_line']:5d} to {col['end_line']:5d} ({col['num_lines']:5d} lines)")
 
 # Save to file
 with open('/home/user/colonial_office_list/output_3/1949_colonies_found.txt', 'w') as f:
-    f.write(f"Colonies found in 1949 Colonial Office List\n")
-    f.write(f"{'='*80}\n\n")
-    for idx, col in enumerate(colonies, 1):
-        f.write(f"{idx:2d}. Line {col['line']:5d}: {col['name']}\n")
+    f.write("1949 Colonial Office List - Colony Boundaries\n")
+    f.write("="*80 + "\n\n")
+    for col in colonies_found:
+        f.write(f"{col['name']:40s} Lines {col['start_line']:5d} to {col['end_line']:5d} ({col['num_lines']:5d} lines)\n")
+    f.write(f"\nTotal colonies found: {len(colonies_found)}\n")
 
-print(f"\nResults saved to 1949_colonies_found.txt")
+print(f"\nSaved boundaries to: /home/user/colonial_office_list/output_3/1949_colonies_found.txt")

@@ -1,121 +1,135 @@
 #!/usr/bin/env python3
 """
-Script to identify all colony section boundaries in the 1946 Colonial Office List
+Identify colony boundaries in the 1946 Colonial Office List.
+This script manually identifies where each colony section starts and ends.
 """
 
 import re
+import json
 
-source_file = "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1946/olmocr_results.md"
+# Path to the OCR results file
+OCR_FILE = "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1946/olmocr_results.md"
 
-# Read the file
-with open(source_file, 'r', encoding='utf-8') as f:
-    lines = f.readlines()
+def find_colony_start(lines, colony_pattern, start_from=0):
+    """Find the line number where a colony section starts."""
+    for i in range(start_from, len(lines)):
+        line = lines[i].strip()
+        if re.match(colony_pattern, line):
+            return i
+    return -1
 
-# Colony patterns to look for - these are the main colony headings
-colony_patterns = [
-    "ADEN COLONY",
-    "ADEN PROTECTORATE",
-    "BAHAMA ISLANDS",
-    "BARBADOS",
-    "BASUTOLAND",
-    "BECHUANALAND PROTECTORATE",
-    "BERMUDA",
-    "BRITISH GUIANA",
-    "BRITISH HONDURAS",
-    "BRUNEI",
-    "CAYMAN ISLANDS",
-    "CEYLON",
-    "CYPRUS",
-    "FALKLAND ISLANDS",
-    "FIJI",
-    "THE GAMBIA",
-    "GIBRALTAR",
-    "GILBERT AND ELLICE ISLANDS",
-    "THE GOLD COAST",
-    "HONG KONG",
-    "JAMAICA",
-    "KENYA",
-    "THE LEEWARD ISLANDS",
-    "MALAYA",
-    "MALAYAN UNION",
-    "MALTA",
-    "MAURITIUS",
-    "NEW HEBRIDES",
-    "NIGERIA",
-    "NORTH BORNEO",
-    "NORTHERN RHODESIA",
-    "NYASALAND PROTECTORATE",
-    "PALESTINE",
-    "PITCAIRN",
-    "ST. HELENA",
-    "ASCENSION",
-    "TRISTAN DA CUNHA",
-    "SARAWAK",
-    "SEYCHELLES",
-    "SIERRA LEONE",
-    "SINGAPORE",
-    "SOMALILAND PROTECTORATE",
-    "SWAZILAND",
-    "TANGANYIKA TERRITORY",
-    "TONGA",
-    "TRINIDAD AND TOBAGO",
-    "TURKS AND CAICOS ISLANDS",
-    "UGANDA",
-    "WESTERN PACIFIC",
-    "THE BRITISH SOLOMON ISLANDS",
-    "THE WINDWARD ISLANDS",
-    "ZANZIBAR",
-    "TRANS-JORDAN",
-    "MISCELLANEOUS ISLANDS"
-]
+def read_file():
+    """Read the OCR file."""
+    with open(OCR_FILE, 'r', encoding='utf-8') as f:
+        return f.readlines()
 
-# Find all instances of colony headers in Part II
-colony_matches = []
-in_part_ii = False
-part_iii_start = None
+def identify_colonies():
+    """Identify all colony boundaries manually."""
+    print("Reading OCR file...")
+    lines = read_file()
+    total_lines = len(lines)
+    print(f"Total lines: {total_lines}")
 
-for i, line in enumerate(lines, 1):
-    stripped = line.strip()
+    # List of colonies from the table of contents
+    # We'll search for each one in order
+    colonies = []
 
-    # Track when we enter Part II (colonies) and Part III (staff)
-    if stripped == "PART II A" or (stripped == "ADEN COLONY" and i > 2000):
-        in_part_ii = True
-    elif (stripped.startswith("PART III") and i > 2000) or (i > 15600 and stripped == "APPENDIX"):
-        if part_iii_start is None:
-            part_iii_start = i
-            in_part_ii = False
+    # Manually identified boundaries based on visual inspection
+    # Line numbers are 0-indexed
 
-    # Only look in Part II region (roughly lines 2600-15700)
-    if 2600 < i < 15700:
-        for pattern in colony_patterns:
-            if stripped == pattern:
-                colony_matches.append((i, pattern))
-                print(f"Line {i:5d}: {pattern}")
-                break
+    colony_definitions = [
+        ("Aden", r"^ADEN COLONY$"),
+        ("Bahamas", r"^BAHAMA ISLANDS$"),
+        ("Barbados", r"^BARBADOS$"),
+        ("Bermuda", r"^BERMUDA$"),
+        ("British Guiana", r"^BRITISH GUIANA$"),
+        ("British Honduras", r"^BRITISH HONDURAS$"),
+        ("Ceylon", r"^CEYLON$"),
+        ("Cyprus", r"^CYPRUS$"),
+        ("Falkland Islands", r"^FALKLAND ISLANDS$"),
+        ("Fiji", r"^FIJI$"),
+        ("Gambia", r"^THE GAMBIA$|^GAMBIA$"),
+        ("Gibraltar", r"^GIBRALTAR$"),
+        ("Gold Coast", r"^THE GOLD COAST$|^GOLD COAST$"),
+        ("Hong Kong", r"^HONG KONG$"),
+        ("Jamaica", r"^JAMAICA$"),
+        ("Kenya", r"^KENYA$"),
+        ("Leeward Islands", r"^LEEWARD ISLANDS$"),
+        ("Malaya", r"^MALAYA$"),
+        ("Malta", r"^MALTA$"),
+        ("Mauritius", r"^MAURITIUS$"),
+        ("Nigeria", r"^NIGERIA$"),
+        ("North Borneo", r"^NORTH BORNEO$"),
+        ("Northern Rhodesia", r"^NORTHERN RHODESIA$"),
+        ("Nyasaland", r"^NYASALAND PROTECTORATE$|^NYASALAND$"),
+        ("Palestine", r"^PALESTINE$"),
+        ("St. Helena", r"^ST\. HELENA$|^ST HELENA$"),
+        ("Sarawak", r"^SARAWAK$"),
+        ("Seychelles", r"^SEYCHELLES$"),
+        ("Sierra Leone", r"^SIERRA LEONE$"),
+        ("Singapore", r"^SINGAPORE$"),
+        ("Somaliland Protectorate", r"^SOMALILAND PROTECTORATE$"),
+        ("Tanganyika Territory", r"^TANGANYIKA TERRITORY$"),
+        ("Trinidad", r"^TRINIDAD$"),
+        ("Uganda", r"^UGANDA$"),
+        ("Western Pacific", r"^WESTERN PACIFIC$"),
+        ("Windward Islands", r"^WINDWARD ISLANDS$"),
+        ("Zanzibar", r"^ZANZIBAR$"),
+    ]
 
-print(f"\nTotal matches found: {len(colony_matches)}")
-print(f"Part III starts around line: {part_iii_start}")
+    # Start searching from line 2666 (after table of contents)
+    search_start = 2666
+    # End searching before Part III starts (around line 15610)
+    search_end = 15610
 
-# Now let's also look for section boundaries by looking for consecutive colony headers
-print("\n\nOrganizing by likely sequence...")
-print("="*80)
+    print(f"\nSearching for colonies between lines {search_start} and {search_end}...")
 
-# Sort by line number
-colony_matches.sort(key=lambda x: x[0])
+    for colony_name, pattern in colony_definitions:
+        # Find the start of this colony
+        start_line = find_colony_start(lines, pattern, search_start)
 
-# Group nearby matches (within 10 lines) as likely the same colony
-grouped = []
-if colony_matches:
-    current_group = [colony_matches[0]]
-    for match in colony_matches[1:]:
-        if match[0] - current_group[-1][0] <= 10:
-            current_group.append(match)
+        if start_line >= 0 and start_line < search_end:
+            colonies.append({
+                'name': colony_name,
+                'start_line': start_line + 1,  # Convert to 1-indexed
+                'pattern': pattern
+            })
+            print(f"Found: {colony_name} at line {start_line + 1}")
         else:
-            grouped.append(current_group)
-            current_group = [match]
-    grouped.append(current_group)
+            print(f"WARNING: Could not find {colony_name}")
 
-print(f"\nFound {len(grouped)} unique colony sections")
-print("\nColony boundaries:")
-for i, group in enumerate(grouped):
-    print(f"{i+1:2d}. Line {group[0][0]:5d}: {group[0][1]}")
+    # Add end lines (each colony ends where the next one begins)
+    for i in range(len(colonies) - 1):
+        colonies[i]['end_line'] = colonies[i + 1]['start_line'] - 1
+
+    # The last colony ends at the start of Part III or Appendix
+    if colonies:
+        # Find where Part III starts
+        part_iii_line = find_colony_start(lines, r"^PART III$", search_start)
+        if part_iii_line > 0:
+            colonies[-1]['end_line'] = part_iii_line
+            print(f"\nPart III starts at line {part_iii_line + 1}")
+        else:
+            colonies[-1]['end_line'] = search_end
+
+    return colonies
+
+def main():
+    colonies = identify_colonies()
+
+    print(f"\n{'='*80}")
+    print(f"SUMMARY: Found {len(colonies)} colonies")
+    print(f"{'='*80}\n")
+
+    for i, colony in enumerate(colonies, 1):
+        lines_count = colony['end_line'] - colony['start_line'] + 1
+        print(f"{i:2d}. {colony['name']:30s} Lines {colony['start_line']:5d}-{colony['end_line']:5d} ({lines_count:4d} lines)")
+
+    # Save to JSON for use by extraction script
+    output_file = '/home/user/colonial_office_list/output_3/1946_colonies_found.txt'
+    with open(output_file, 'w') as f:
+        json.dump(colonies, f, indent=2)
+    print(f"\nColony boundaries saved to: {output_file}")
+
+if __name__ == "__main__":
+    main()

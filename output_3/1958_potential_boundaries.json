@@ -1,0 +1,1840 @@
+{
+  "part_ii_start_line": 3377,
+  "part_ii_end_line": 19708,
+  "part_ii_start_index": 3376,
+  "part_ii_end_index": 19707,
+  "potential_sections": [
+    {
+      "line_num": 3377,
+      "array_index": 3376,
+      "content": "PART II"
+    },
+    {
+      "line_num": 3378,
+      "array_index": 3377,
+      "content": "ADEN"
+    },
+    {
+      "line_num": 3380,
+      "array_index": 3379,
+      "content": "ADEN COLONY"
+    },
+    {
+      "line_num": 3580,
+      "array_index": 3579,
+      "content": "PROTECTORATE"
+    },
+    {
+      "line_num": 3772,
+      "array_index": 3771,
+      "content": "KAMARAN ISLAND"
+    },
+    {
+      "line_num": 3780,
+      "array_index": 3779,
+      "content": "COLONY GOVERNMENT"
+    },
+    {
+      "line_num": 3782,
+      "array_index": 3781,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 3791,
+      "array_index": 3790,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 3806,
+      "array_index": 3805,
+      "content": "GOVERNORS"
+    },
+    {
+      "line_num": 3814,
+      "array_index": 3813,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 3816,
+      "array_index": 3815,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF"
+    },
+    {
+      "line_num": 3864,
+      "array_index": 3863,
+      "content": "BAHAMA ISLANDS"
+    },
+    {
+      "line_num": 4068,
+      "array_index": 4067,
+      "content": "**GOVERNORS**"
+    },
+    {
+      "line_num": 4084,
+      "array_index": 4083,
+      "content": "BAHAMAS : BARBADOS : BERMUDA"
+    },
+    {
+      "line_num": 4124,
+      "array_index": 4123,
+      "content": "G.C.M.G., C.B., M.V.O."
+    },
+    {
+      "line_num": 4126,
+      "array_index": 4125,
+      "content": "K.C.M.G., O.B.E."
+    },
+    {
+      "line_num": 4128,
+      "array_index": 4127,
+      "content": "K.G., K.T., K.P., G.C.B., G.C.S.I.,"
+    },
+    {
+      "line_num": 4129,
+      "array_index": 4128,
+      "content": "G.C.M.G., G.C.I.E., G.C.V.O., G.B.E.,"
+    },
+    {
+      "line_num": 4130,
+      "array_index": 4129,
+      "content": "I.S.O., M.C."
+    },
+    {
+      "line_num": 4134,
+      "array_index": 4133,
+      "content": "K.C.M.G., C.B.E."
+    },
+    {
+      "line_num": 4138,
+      "array_index": 4137,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 4150,
+      "array_index": 4149,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 4155,
+      "array_index": 4154,
+      "content": "HOUSE OF ASSEMBLY"
+    },
+    {
+      "line_num": 4163,
+      "array_index": 4162,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 4164,
+      "array_index": 4163,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF"
+    },
+    {
+      "line_num": 4209,
+      "array_index": 4208,
+      "content": "M.B.E."
+    },
+    {
+      "line_num": 4218,
+      "array_index": 4217,
+      "content": "BARBADOS"
+    },
+    {
+      "line_num": 4221,
+      "array_index": 4220,
+      "content": "BERMUDA"
+    },
+    {
+      "line_num": 4434,
+      "array_index": 4433,
+      "content": "BERMUDA"
+    },
+    {
+      "line_num": 4509,
+      "array_index": 4508,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 4520,
+      "array_index": 4519,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 4527,
+      "array_index": 4526,
+      "content": "HOUSE OF ASSEMBLY"
+    },
+    {
+      "line_num": 4534,
+      "array_index": 4533,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 4573,
+      "array_index": 4572,
+      "content": "BRITISH GUIANA"
+    },
+    {
+      "line_num": 4954,
+      "array_index": 4953,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 4974,
+      "array_index": 4973,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 4987,
+      "array_index": 4986,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 4989,
+      "array_index": 4988,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF"
+    },
+    {
+      "line_num": 5065,
+      "array_index": 5064,
+      "content": "BRITISH HONDURAS"
+    },
+    {
+      "line_num": 5372,
+      "array_index": 5371,
+      "content": "BRITISH HONDURAS : BRUNEI"
+    },
+    {
+      "line_num": 5385,
+      "array_index": 5384,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 5387,
+      "array_index": 5386,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF"
+    },
+    {
+      "line_num": 5441,
+      "array_index": 5440,
+      "content": "BRUNEI"
+    },
+    {
+      "line_num": 5649,
+      "array_index": 5648,
+      "content": "BRITISH RESIDENTS"
+    },
+    {
+      "line_num": 5679,
+      "array_index": 5678,
+      "content": "STATE COUNCIL"
+    },
+    {
+      "line_num": 5694,
+      "array_index": 5693,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 5722,
+      "array_index": 5721,
+      "content": "CYPRUS"
+    },
+    {
+      "line_num": 6205,
+      "array_index": 6204,
+      "content": "**FALKLAND ISLANDS AND DEPENDENCIES**"
+    },
+    {
+      "line_num": 6525,
+      "array_index": 6524,
+      "content": "FIJI (AND THE PITCAIRN ISLANDS GROUP)"
+    },
+    {
+      "line_num": 6527,
+      "array_index": 6526,
+      "content": "FIJI"
+    },
+    {
+      "line_num": 6715,
+      "array_index": 6714,
+      "content": "|                 | \u00a3F.000 | 1,338 | 6,022 | 5,011 |"
+    },
+    {
+      "line_num": 6717,
+      "array_index": 6716,
+      "content": "|                 | \u00a3F.000 |      | 2,236 | 2,161 |"
+    },
+    {
+      "line_num": 6719,
+      "array_index": 6718,
+      "content": "|                 | \u00a3F.000 | 701   | 1,028 | 938   |"
+    },
+    {
+      "line_num": 6721,
+      "array_index": 6720,
+      "content": "|                 | \u00a3F.000 | 271   | 600   | 267   |"
+    },
+    {
+      "line_num": 6723,
+      "array_index": 6722,
+      "content": "|                 | \u00a3F.000 | 74    | 376   | 214   |"
+    },
+    {
+      "line_num": 6725,
+      "array_index": 6724,
+      "content": "|                 | \u00a3F.000 | 136   | 174   |       |"
+    },
+    {
+      "line_num": 6728,
+      "array_index": 6727,
+      "content": "|                 | \u00a3F.000 | 118   | 280   |       |"
+    },
+    {
+      "line_num": 6758,
+      "array_index": 6757,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 6770,
+      "array_index": 6769,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 6782,
+      "array_index": 6781,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 6784,
+      "array_index": 6783,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF."
+    },
+    {
+      "line_num": 6832,
+      "array_index": 6831,
+      "content": "PITCAIRN ISLANDS GROUP"
+    },
+    {
+      "line_num": 6842,
+      "array_index": 6841,
+      "content": "THE GAMBIA"
+    },
+    {
+      "line_num": 7183,
+      "array_index": 7182,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 7213,
+      "array_index": 7212,
+      "content": "GIBRALTAR"
+    },
+    {
+      "line_num": 7438,
+      "array_index": 7437,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 7440,
+      "array_index": 7439,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF"
+    },
+    {
+      "line_num": 7466,
+      "array_index": 7465,
+      "content": "HONG KONG"
+    },
+    {
+      "line_num": 7720,
+      "array_index": 7719,
+      "content": "| U.S.A.            | 8\u00b77  | 18\u00b77 | 9\u00b73  |"
+    },
+    {
+      "line_num": 7732,
+      "array_index": 7731,
+      "content": "| U.S.A.            | 23\u00b72 | 9\u00b76  | 3\u00b76  |"
+    },
+    {
+      "line_num": 7770,
+      "array_index": 7769,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 7787,
+      "array_index": 7786,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 7799,
+      "array_index": 7798,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 7801,
+      "array_index": 7800,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF"
+    },
+    {
+      "line_num": 7934,
+      "array_index": 7933,
+      "content": "JAMAICA"
+    },
+    {
+      "line_num": 7939,
+      "array_index": 7938,
+      "content": "KENYA"
+    },
+    {
+      "line_num": 8337,
+      "array_index": 8336,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 8347,
+      "array_index": 8346,
+      "content": "PARLIAMENTARY SECRETARIES"
+    },
+    {
+      "line_num": 8352,
+      "array_index": 8351,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 8365,
+      "array_index": 8364,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 8367,
+      "array_index": 8366,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF"
+    },
+    {
+      "line_num": 8452,
+      "array_index": 8451,
+      "content": "JUDICIARY"
+    },
+    {
+      "line_num": 8462,
+      "array_index": 8461,
+      "content": "THE LEEWARD ISLANDS"
+    },
+    {
+      "line_num": 8465,
+      "array_index": 8464,
+      "content": "BRITISH VIRGIN ISLANDS"
+    },
+    {
+      "line_num": 8503,
+      "array_index": 8502,
+      "content": "| $000 B.W.I. | $000 B.W.I. |"
+    },
+    {
+      "line_num": 8553,
+      "array_index": 8552,
+      "content": "| $000 B.W.I.   | $000 B.W.I.  |"
+    },
+    {
+      "line_num": 8574,
+      "array_index": 8573,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 8583,
+      "array_index": 8582,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 8591,
+      "array_index": 8590,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 8602,
+      "array_index": 8601,
+      "content": "FEDERATION OF MALAYA"
+    },
+    {
+      "line_num": 8608,
+      "array_index": 8607,
+      "content": "MALTA, G.C."
+    },
+    {
+      "line_num": 8911,
+      "array_index": 8910,
+      "content": "**GOVERNORS**"
+    },
+    {
+      "line_num": 8952,
+      "array_index": 8951,
+      "content": "**EXECUTIVE COUNCIL**"
+    },
+    {
+      "line_num": 8967,
+      "array_index": 8966,
+      "content": "**NOMINATED COUNCIL**"
+    },
+    {
+      "line_num": 8978,
+      "array_index": 8977,
+      "content": "**LEGISLATIVE ASSEMBLY**"
+    },
+    {
+      "line_num": 8990,
+      "array_index": 8989,
+      "content": "JUDICIARY"
+    },
+    {
+      "line_num": 8998,
+      "array_index": 8997,
+      "content": "ECCLESIASTICS"
+    },
+    {
+      "line_num": 9006,
+      "array_index": 9005,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 9008,
+      "array_index": 9007,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF"
+    },
+    {
+      "line_num": 9018,
+      "array_index": 9017,
+      "content": "MALTESE IMPERIAL GOVERNMENT"
+    },
+    {
+      "line_num": 9030,
+      "array_index": 9029,
+      "content": "THE MALTESE GOVERNMENT"
+    },
+    {
+      "line_num": 9146,
+      "array_index": 9145,
+      "content": "MAURITIUS"
+    },
+    {
+      "line_num": 9381,
+      "array_index": 9380,
+      "content": "GOVERNORS"
+    },
+    {
+      "line_num": 9413,
+      "array_index": 9412,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 9434,
+      "array_index": 9433,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 9449,
+      "array_index": 9448,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 9451,
+      "array_index": 9450,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF"
+    },
+    {
+      "line_num": 9460,
+      "array_index": 9459,
+      "content": "M.C."
+    },
+    {
+      "line_num": 9473,
+      "array_index": 9472,
+      "content": "M.B.E."
+    },
+    {
+      "line_num": 9492,
+      "array_index": 9491,
+      "content": "M.B.E."
+    },
+    {
+      "line_num": 9494,
+      "array_index": 9493,
+      "content": "O.B.E."
+    },
+    {
+      "line_num": 9536,
+      "array_index": 9535,
+      "content": "FEDERATION OF NIGERIA"
+    },
+    {
+      "line_num": 10016,
+      "array_index": 10015,
+      "content": "EXECUTIVE COUNCIL OF THE NORTHERN REGION"
+    },
+    {
+      "line_num": 10034,
+      "array_index": 10033,
+      "content": "EXECUTIVE COUNCIL OF THE SOUTHERN CAMEROONS"
+    },
+    {
+      "line_num": 10050,
+      "array_index": 10049,
+      "content": "CIVIL ESTABLISHMENT,"
+    },
+    {
+      "line_num": 10051,
+      "array_index": 10050,
+      "content": "FEDERATION OF NIGERIA"
+    },
+    {
+      "line_num": 10111,
+      "array_index": 10110,
+      "content": "CIVIL ESTABLISHMENT,"
+    },
+    {
+      "line_num": 10112,
+      "array_index": 10111,
+      "content": "EASTERN REGION"
+    },
+    {
+      "line_num": 10155,
+      "array_index": 10154,
+      "content": "CIVIL ESTABLISHMENT,"
+    },
+    {
+      "line_num": 10156,
+      "array_index": 10155,
+      "content": "WESTERN REGION"
+    },
+    {
+      "line_num": 10184,
+      "array_index": 10183,
+      "content": "NORTH BORNEO"
+    },
+    {
+      "line_num": 10411,
+      "array_index": 10410,
+      "content": "NORTH BORNEO : FEDERATION OF RHODESIA AND NYASALAND : 131"
+    },
+    {
+      "line_num": 10412,
+      "array_index": 10411,
+      "content": "NORTHERN RHODESIA"
+    },
+    {
+      "line_num": 10414,
+      "array_index": 10413,
+      "content": "GOVERNORS"
+    },
+    {
+      "line_num": 10417,
+      "array_index": 10416,
+      "content": "T.D."
+    },
+    {
+      "line_num": 10420,
+      "array_index": 10419,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 10437,
+      "array_index": 10436,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 10446,
+      "array_index": 10445,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 10447,
+      "array_index": 10446,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF"
+    },
+    {
+      "line_num": 10454,
+      "array_index": 10453,
+      "content": "C.M.G., O.B.E."
+    },
+    {
+      "line_num": 10495,
+      "array_index": 10494,
+      "content": "THE FEDERATION OF RHODESIA AND NYASALAND"
+    },
+    {
+      "line_num": 10503,
+      "array_index": 10502,
+      "content": "NORTHERN RHODESIA"
+    },
+    {
+      "line_num": 11063,
+      "array_index": 11062,
+      "content": "NYASALAND PROTECTORATE"
+    },
+    {
+      "line_num": 11346,
+      "array_index": 11345,
+      "content": "GOVERNORS"
+    },
+    {
+      "line_num": 11362,
+      "array_index": 11361,
+      "content": "NYASALAND PROTECTORATE : ST. HELENA"
+    },
+    {
+      "line_num": 11364,
+      "array_index": 11363,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 11383,
+      "array_index": 11382,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 11400,
+      "array_index": 11399,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 11450,
+      "array_index": 11449,
+      "content": "ST. HELENA"
+    },
+    {
+      "line_num": 11614,
+      "array_index": 11613,
+      "content": "GOVERNORS"
+    },
+    {
+      "line_num": 11637,
+      "array_index": 11636,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 11648,
+      "array_index": 11647,
+      "content": "ADVISORY COUNCIL"
+    },
+    {
+      "line_num": 11662,
+      "array_index": 11661,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 11696,
+      "array_index": 11695,
+      "content": "ASCENSION"
+    },
+    {
+      "line_num": 11748,
+      "array_index": 11747,
+      "content": "**SARAWAK**"
+    },
+    {
+      "line_num": 11963,
+      "array_index": 11962,
+      "content": "SARAWAK : SEYCHELLES"
+    },
+    {
+      "line_num": 11965,
+      "array_index": 11964,
+      "content": "GOVERNORS"
+    },
+    {
+      "line_num": 11970,
+      "array_index": 11969,
+      "content": "SUPREME COUNCIL"
+    },
+    {
+      "line_num": 11982,
+      "array_index": 11981,
+      "content": "COUNCIL NEGRI"
+    },
+    {
+      "line_num": 12005,
+      "array_index": 12004,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 12006,
+      "array_index": 12005,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF"
+    },
+    {
+      "line_num": 12056,
+      "array_index": 12055,
+      "content": "SEYCHELLES"
+    },
+    {
+      "line_num": 12274,
+      "array_index": 12273,
+      "content": "GOVERNORS."
+    },
+    {
+      "line_num": 12290,
+      "array_index": 12289,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 12302,
+      "array_index": 12301,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 12310,
+      "array_index": 12309,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 12312,
+      "array_index": 12311,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF"
+    },
+    {
+      "line_num": 12327,
+      "array_index": 12326,
+      "content": "SEYCHELLES : SIERRA LEONE"
+    },
+    {
+      "line_num": 12363,
+      "array_index": 12362,
+      "content": "SIERRA LEONE"
+    },
+    {
+      "line_num": 12613,
+      "array_index": 12612,
+      "content": "**GOVERNORS**"
+    },
+    {
+      "line_num": 12657,
+      "array_index": 12656,
+      "content": "**EXECUTIVE COUNCIL**"
+    },
+    {
+      "line_num": 12681,
+      "array_index": 12680,
+      "content": "**HOUSE OF REPRESENTATIVES**"
+    },
+    {
+      "line_num": 12703,
+      "array_index": 12702,
+      "content": "**CIVIL ESTABLISHMENT**"
+    },
+    {
+      "line_num": 12761,
+      "array_index": 12760,
+      "content": "SINGAPORE"
+    },
+    {
+      "line_num": 13073,
+      "array_index": 13072,
+      "content": "GOVERNORS OF SINGAPORE"
+    },
+    {
+      "line_num": 13080,
+      "array_index": 13079,
+      "content": "COUNCIL OF MINISTERS"
+    },
+    {
+      "line_num": 13093,
+      "array_index": 13092,
+      "content": "LEGISLATIVE ASSEMBLY"
+    },
+    {
+      "line_num": 13114,
+      "array_index": 13113,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 13116,
+      "array_index": 13115,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF"
+    },
+    {
+      "line_num": 13181,
+      "array_index": 13180,
+      "content": "**SOMALILAND PROTECTORATE**"
+    },
+    {
+      "line_num": 13251,
+      "array_index": 13250,
+      "content": "**SOMALILAND PROTECTORATE**"
+    },
+    {
+      "line_num": 13399,
+      "array_index": 13398,
+      "content": "**SOMALILAND PROTECTORATE : TANGANYIKA**"
+    },
+    {
+      "line_num": 13401,
+      "array_index": 13400,
+      "content": "### ADMINISTRATORS AND GOVERNORS"
+    },
+    {
+      "line_num": 13439,
+      "array_index": 13438,
+      "content": "### CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 13441,
+      "array_index": 13440,
+      "content": "**GOVERNOR AND COMMANDER-IN-CHIEF**"
+    },
+    {
+      "line_num": 13468,
+      "array_index": 13467,
+      "content": "### TANGANYIKA"
+    },
+    {
+      "line_num": 13785,
+      "array_index": 13784,
+      "content": "ADMINISTRATOR"
+    },
+    {
+      "line_num": 13789,
+      "array_index": 13788,
+      "content": "GOVERNORS"
+    },
+    {
+      "line_num": 13806,
+      "array_index": 13805,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 13827,
+      "array_index": 13826,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 13835,
+      "array_index": 13834,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 13837,
+      "array_index": 13836,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF"
+    },
+    {
+      "line_num": 13912,
+      "array_index": 13911,
+      "content": "KINGDOM OF TONGA"
+    },
+    {
+      "line_num": 14027,
+      "array_index": 14026,
+      "content": "MINISTERS"
+    },
+    {
+      "line_num": 14047,
+      "array_index": 14046,
+      "content": "BRITISH AGENT AND CONSUL"
+    },
+    {
+      "line_num": 14051,
+      "array_index": 14050,
+      "content": "UGANDA"
+    },
+    {
+      "line_num": 14390,
+      "array_index": 14389,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 14403,
+      "array_index": 14402,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 14429,
+      "array_index": 14428,
+      "content": "COMMISSIONERS"
+    },
+    {
+      "line_num": 14437,
+      "array_index": 14436,
+      "content": "GOVERNORS"
+    },
+    {
+      "line_num": 14452,
+      "array_index": 14451,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 14515,
+      "array_index": 14514,
+      "content": "THE WEST INDIES (FEDERATION)"
+    },
+    {
+      "line_num": 14589,
+      "array_index": 14588,
+      "content": "COUNCIL OF STATE"
+    },
+    {
+      "line_num": 14596,
+      "array_index": 14595,
+      "content": "SENATE"
+    },
+    {
+      "line_num": 14605,
+      "array_index": 14604,
+      "content": "HOUSE OF REPRESENTATIVES"
+    },
+    {
+      "line_num": 14623,
+      "array_index": 14622,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 14878,
+      "array_index": 14877,
+      "content": "THE WEST INDIES (FEDERATION)"
+    },
+    {
+      "line_num": 14935,
+      "array_index": 14934,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 14945,
+      "array_index": 14944,
+      "content": "EXECUTIVE COMMITTEE"
+    },
+    {
+      "line_num": 14955,
+      "array_index": 14954,
+      "content": "CABINET"
+    },
+    {
+      "line_num": 14959,
+      "array_index": 14958,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 14967,
+      "array_index": 14966,
+      "content": "HOUSE OF ASSEMBLY"
+    },
+    {
+      "line_num": 14985,
+      "array_index": 14984,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 14987,
+      "array_index": 14986,
+      "content": "GOVERNOR AND COMMANDER-IN-CHIEF"
+    },
+    {
+      "line_num": 15381,
+      "array_index": 15380,
+      "content": "THE WEST INDIES (FEDERATION)"
+    },
+    {
+      "line_num": 15414,
+      "array_index": 15413,
+      "content": "PRIVY COUNCIL"
+    },
+    {
+      "line_num": 15425,
+      "array_index": 15424,
+      "content": "COUNCIL OF MINISTERS"
+    },
+    {
+      "line_num": 15441,
+      "array_index": 15440,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 15448,
+      "array_index": 15447,
+      "content": "HOUSE OF REPRESENTATIVES"
+    },
+    {
+      "line_num": 15458,
+      "array_index": 15457,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 15543,
+      "array_index": 15542,
+      "content": "**CAYMAN ISLANDS**"
+    },
+    {
+      "line_num": 15666,
+      "array_index": 15665,
+      "content": "LEGISLATIVE ASSEMBLY"
+    },
+    {
+      "line_num": 15674,
+      "array_index": 15673,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 15691,
+      "array_index": 15690,
+      "content": "TURKS AND CAICOS ISLANDS"
+    },
+    {
+      "line_num": 15809,
+      "array_index": 15808,
+      "content": "THE LEGISLATIVE BOARD"
+    },
+    {
+      "line_num": 15815,
+      "array_index": 15814,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 16015,
+      "array_index": 16014,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 16026,
+      "array_index": 16025,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 16036,
+      "array_index": 16035,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 16178,
+      "array_index": 16177,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 16187,
+      "array_index": 16186,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 16195,
+      "array_index": 16194,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 16325,
+      "array_index": 16324,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 16337,
+      "array_index": 16336,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 16351,
+      "array_index": 16350,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 16619,
+      "array_index": 16618,
+      "content": "GOVERNORS AND ADMINISTRATORS"
+    },
+    {
+      "line_num": 16658,
+      "array_index": 16657,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 16674,
+      "array_index": 16673,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 16692,
+      "array_index": 16691,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 16830,
+      "array_index": 16829,
+      "content": "GOVERNORS"
+    },
+    {
+      "line_num": 16849,
+      "array_index": 16848,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 16919,
+      "array_index": 16918,
+      "content": "| $000 B.W.I. | $000 B.W.I. |"
+    },
+    {
+      "line_num": 17053,
+      "array_index": 17052,
+      "content": "**EXECUTIVE COUNCIL**"
+    },
+    {
+      "line_num": 17067,
+      "array_index": 17066,
+      "content": "**LEGISLATIVE COUNCIL**"
+    },
+    {
+      "line_num": 17078,
+      "array_index": 17077,
+      "content": "**CIVIL ESTABLISHMENT**"
+    },
+    {
+      "line_num": 17327,
+      "array_index": 17326,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 17340,
+      "array_index": 17339,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 17350,
+      "array_index": 17349,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 17571,
+      "array_index": 17570,
+      "content": "**EXECUTIVE COUNCIL**"
+    },
+    {
+      "line_num": 17583,
+      "array_index": 17582,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 17591,
+      "array_index": 17590,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 17670,
+      "array_index": 17669,
+      "content": "|      | $ B.W.I. | $ B.W.I.    |"
+    },
+    {
+      "line_num": 17751,
+      "array_index": 17750,
+      "content": "| B.W.I.|               |            |                  |"
+    },
+    {
+      "line_num": 17783,
+      "array_index": 17782,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 17797,
+      "array_index": 17796,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 17806,
+      "array_index": 17805,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 17835,
+      "array_index": 17834,
+      "content": "WESTERN PACIFIC HIGH COMMISSION"
+    },
+    {
+      "line_num": 17857,
+      "array_index": 17856,
+      "content": "### HIGH COMMISSIONERS"
+    },
+    {
+      "line_num": 17881,
+      "array_index": 17880,
+      "content": "### CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 17907,
+      "array_index": 17906,
+      "content": "### BRITISH SOLOMON ISLANDS PROTECTORATE"
+    },
+    {
+      "line_num": 18008,
+      "array_index": 18007,
+      "content": "\u00a3A1,543,000"
+    },
+    {
+      "line_num": 18021,
+      "array_index": 18020,
+      "content": "\u00a3A1,543,000"
+    },
+    {
+      "line_num": 18083,
+      "array_index": 18082,
+      "content": "CIVIL ESTABLISHMENT*"
+    },
+    {
+      "line_num": 18119,
+      "array_index": 18118,
+      "content": "THE CENTRAL AND SOUTHERN LINE ISLANDS"
+    },
+    {
+      "line_num": 18135,
+      "array_index": 18134,
+      "content": "GILBERT AND ELICE ISLANDS COLONY"
+    },
+    {
+      "line_num": 18287,
+      "array_index": 18286,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 18309,
+      "array_index": 18308,
+      "content": "THE ANGLO-FRENCH CONDOMINIUM OF THE NEW HEBRIDES"
+    },
+    {
+      "line_num": 18429,
+      "array_index": 18428,
+      "content": "**BRITISH NATIONAL ADMINISTRATION**"
+    },
+    {
+      "line_num": 18441,
+      "array_index": 18440,
+      "content": "**FRENCH NATIONAL ADMINISTRATION**"
+    },
+    {
+      "line_num": 18451,
+      "array_index": 18450,
+      "content": "**JOINT SERVICES**"
+    },
+    {
+      "line_num": 18469,
+      "array_index": 18468,
+      "content": "**WINDWARD ISLANDS**"
+    },
+    {
+      "line_num": 18473,
+      "array_index": 18472,
+      "content": "**ZANZIBAR**"
+    },
+    {
+      "line_num": 18676,
+      "array_index": 18675,
+      "content": "BRITISH RESIDENTS"
+    },
+    {
+      "line_num": 18687,
+      "array_index": 18686,
+      "content": "SULTAN"
+    },
+    {
+      "line_num": 18693,
+      "array_index": 18692,
+      "content": "PRIVY COUNCIL"
+    },
+    {
+      "line_num": 18701,
+      "array_index": 18700,
+      "content": "EXECUTIVE COUNCIL"
+    },
+    {
+      "line_num": 18723,
+      "array_index": 18722,
+      "content": "LEGISLATIVE COUNCIL"
+    },
+    {
+      "line_num": 18737,
+      "array_index": 18736,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 18767,
+      "array_index": 18766,
+      "content": "MISCELLANEOUS ISLANDS"
+    },
+    {
+      "line_num": 18770,
+      "array_index": 18769,
+      "content": "THE HIGH COMMISSION TERRITORIES"
+    },
+    {
+      "line_num": 18772,
+      "array_index": 18771,
+      "content": "(BASUTOLAND, THE BECHUANALAND PROTECTORATE AND SWAZILAND)"
+    },
+    {
+      "line_num": 18780,
+      "array_index": 18779,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 18786,
+      "array_index": 18785,
+      "content": "HIGH COMMISSIONER'S OFFICE"
+    },
+    {
+      "line_num": 18802,
+      "array_index": 18801,
+      "content": "JUDICIARY"
+    },
+    {
+      "line_num": 18808,
+      "array_index": 18807,
+      "content": "BASUTOLAND"
+    },
+    {
+      "line_num": 18848,
+      "array_index": 18847,
+      "content": "BECHUANALAND PROTECTORATE"
+    },
+    {
+      "line_num": 18882,
+      "array_index": 18881,
+      "content": "SWAZILAND"
+    },
+    {
+      "line_num": 18945,
+      "array_index": 18944,
+      "content": "[FT.O.]"
+    },
+    {
+      "line_num": 18982,
+      "array_index": 18981,
+      "content": "GOVERNMENT AGENCIES IN LONDON"
+    },
+    {
+      "line_num": 18984,
+      "array_index": 18983,
+      "content": "BAHAMAS GOVERNMENT INFORMATION BUREAU"
+    },
+    {
+      "line_num": 18991,
+      "array_index": 18990,
+      "content": "BERMUDA TRAVEL INFORMATION OFFICE"
+    },
+    {
+      "line_num": 19000,
+      "array_index": 18999,
+      "content": "CYPRUS GOVERNMENT LONDON OFFICE"
+    },
+    {
+      "line_num": 19008,
+      "array_index": 19007,
+      "content": "EAST AFRICAN OFFICE"
+    },
+    {
+      "line_num": 19019,
+      "array_index": 19018,
+      "content": "HONG KONG GOVERNMENT OFFICE"
+    },
+    {
+      "line_num": 19026,
+      "array_index": 19025,
+      "content": "OFFICE OF THE TRADE COMMISSIONER FOR SINGAPORE IN THE UNITED KINGDOM"
+    },
+    {
+      "line_num": 19039,
+      "array_index": 19038,
+      "content": "MALTA GOVERNMENT OFFICE"
+    },
+    {
+      "line_num": 19048,
+      "array_index": 19047,
+      "content": "MAURITIUS HOUSE"
+    },
+    {
+      "line_num": 19059,
+      "array_index": 19058,
+      "content": "NIGERIA HOUSE"
+    },
+    {
+      "line_num": 19098,
+      "array_index": 19097,
+      "content": "OFFICE OF THE HIGH COMMISSIONER FOR THE FEDERATION OF RHODESIA AND NYASALAND"
+    },
+    {
+      "line_num": 19110,
+      "array_index": 19109,
+      "content": "OFFICE OF THE COMMISSIONER FOR NORTHERN RHODESIA"
+    },
+    {
+      "line_num": 19121,
+      "array_index": 19120,
+      "content": "SIERRA LEONE AND GAMBIA OFFICE"
+    },
+    {
+      "line_num": 19131,
+      "array_index": 19130,
+      "content": "OFFICE OF THE COMMISSIONER FOR THE WEST INDIES, BRITISH GUIANA AND BRITISH HONDURAS"
+    },
+    {
+      "line_num": 19143,
+      "array_index": 19142,
+      "content": "REGIONAL ORGANIZATIONS"
+    },
+    {
+      "line_num": 19147,
+      "array_index": 19146,
+      "content": "CIVIL AVIATION"
+    },
+    {
+      "line_num": 19219,
+      "array_index": 19218,
+      "content": "DEVELOPMENT AND WELFARE ORGANIZATION IN THE WEST INDIES"
+    },
+    {
+      "line_num": 19231,
+      "array_index": 19230,
+      "content": "EAST AFRICA HIGH COMMISSION"
+    },
+    {
+      "line_num": 19233,
+      "array_index": 19232,
+      "content": "CONSTITUTION, SCOPE AND LEGISLATIVE POWERS"
+    },
+    {
+      "line_num": 19308,
+      "array_index": 19307,
+      "content": "RESEARCH AND SCIENTIFIC SERVICES"
+    },
+    {
+      "line_num": 19310,
+      "array_index": 19309,
+      "content": "RESEARCH SERVICES"
+    },
+    {
+      "line_num": 19326,
+      "array_index": 19325,
+      "content": "SCIENTIFIC SERVICES"
+    },
+    {
+      "line_num": 19337,
+      "array_index": 19336,
+      "content": "COMMUNICATIONS"
+    },
+    {
+      "line_num": 19339,
+      "array_index": 19338,
+      "content": "RAILWAYS AND HARBOURS"
+    },
+    {
+      "line_num": 19396,
+      "array_index": 19395,
+      "content": "ROAD SERVICES"
+    },
+    {
+      "line_num": 19400,
+      "array_index": 19399,
+      "content": "AIR SAFETY SERVICES AND AERADIO SERVICES"
+    },
+    {
+      "line_num": 19408,
+      "array_index": 19407,
+      "content": "EAST AFRICAN POSTS AND TELECOMMUNICATIONS ADMINISTRATION"
+    },
+    {
+      "line_num": 19412,
+      "array_index": 19411,
+      "content": "THE HIGH COMMISSION"
+    },
+    {
+      "line_num": 19417,
+      "array_index": 19416,
+      "content": "PRINCIPAL EXECUTIVE OFFICERS"
+    },
+    {
+      "line_num": 19424,
+      "array_index": 19423,
+      "content": "THE EAST AFRICA CENTRAL LEGISLATIVE ASSEMBLY"
+    },
+    {
+      "line_num": 19445,
+      "array_index": 19444,
+      "content": "CIVIL ESTABLISHMENT"
+    },
+    {
+      "line_num": 19563,
+      "array_index": 19562,
+      "content": "OFFICE OF THE COMMISSIONER-GENERAL FOR THE UNITED KINGDOM IN SOUTH-EAST ASIA"
+    },
+    {
+      "line_num": 19578,
+      "array_index": 19577,
+      "content": "WEST AFRICAN INTER-TERRITORIAL COUNCIL"
+    },
+    {
+      "line_num": 19584,
+      "array_index": 19583,
+      "content": "WEST AFRICAN REGIONAL ORGANIZATIONS"
+    },
+    {
+      "line_num": 19620,
+      "array_index": 19619,
+      "content": "INTERNATIONAL CO-OPERATION"
+    },
+    {
+      "line_num": 19622,
+      "array_index": 19621,
+      "content": "THE UNITED NATIONS"
+    },
+    {
+      "line_num": 19634,
+      "array_index": 19633,
+      "content": "AFRICA"
+    },
+    {
+      "line_num": 19647,
+      "array_index": 19646,
+      "content": "CARIBBEAN"
+    },
+    {
+      "line_num": 19651,
+      "array_index": 19650,
+      "content": "SOUTH PACIFIC"
+    },
+    {
+      "line_num": 19655,
+      "array_index": 19654,
+      "content": "SOUTH-EAST ASIA"
+    },
+    {
+      "line_num": 19659,
+      "array_index": 19658,
+      "content": "COLONIAL FORCES"
+    }
+  ],
+  "confirmed_sections": [
+    {
+      "line_num": 3378,
+      "array_index": 3377,
+      "content": "ADEN"
+    },
+    {
+      "line_num": 3380,
+      "array_index": 3379,
+      "content": "ADEN COLONY"
+    },
+    {
+      "line_num": 3864,
+      "array_index": 3863,
+      "content": "BAHAMA ISLANDS"
+    },
+    {
+      "line_num": 4218,
+      "array_index": 4217,
+      "content": "BARBADOS"
+    },
+    {
+      "line_num": 4221,
+      "array_index": 4220,
+      "content": "BERMUDA"
+    },
+    {
+      "line_num": 4434,
+      "array_index": 4433,
+      "content": "BERMUDA"
+    },
+    {
+      "line_num": 4573,
+      "array_index": 4572,
+      "content": "BRITISH GUIANA"
+    },
+    {
+      "line_num": 5065,
+      "array_index": 5064,
+      "content": "BRITISH HONDURAS"
+    },
+    {
+      "line_num": 5372,
+      "array_index": 5371,
+      "content": "BRITISH HONDURAS : BRUNEI"
+    },
+    {
+      "line_num": 5441,
+      "array_index": 5440,
+      "content": "BRUNEI"
+    },
+    {
+      "line_num": 5722,
+      "array_index": 5721,
+      "content": "CYPRUS"
+    },
+    {
+      "line_num": 6525,
+      "array_index": 6524,
+      "content": "FIJI (AND THE PITCAIRN ISLANDS GROUP)"
+    },
+    {
+      "line_num": 6527,
+      "array_index": 6526,
+      "content": "FIJI"
+    },
+    {
+      "line_num": 7213,
+      "array_index": 7212,
+      "content": "GIBRALTAR"
+    },
+    {
+      "line_num": 7466,
+      "array_index": 7465,
+      "content": "HONG KONG"
+    },
+    {
+      "line_num": 7934,
+      "array_index": 7933,
+      "content": "JAMAICA"
+    },
+    {
+      "line_num": 7939,
+      "array_index": 7938,
+      "content": "KENYA"
+    },
+    {
+      "line_num": 8602,
+      "array_index": 8601,
+      "content": "FEDERATION OF MALAYA"
+    },
+    {
+      "line_num": 8608,
+      "array_index": 8607,
+      "content": "MALTA, G.C."
+    },
+    {
+      "line_num": 9146,
+      "array_index": 9145,
+      "content": "MAURITIUS"
+    },
+    {
+      "line_num": 9536,
+      "array_index": 9535,
+      "content": "FEDERATION OF NIGERIA"
+    },
+    {
+      "line_num": 10051,
+      "array_index": 10050,
+      "content": "FEDERATION OF NIGERIA"
+    },
+    {
+      "line_num": 10184,
+      "array_index": 10183,
+      "content": "NORTH BORNEO"
+    },
+    {
+      "line_num": 10411,
+      "array_index": 10410,
+      "content": "NORTH BORNEO : FEDERATION OF RHODESIA AND NYASALAND : 131"
+    },
+    {
+      "line_num": 10412,
+      "array_index": 10411,
+      "content": "NORTHERN RHODESIA"
+    },
+    {
+      "line_num": 10503,
+      "array_index": 10502,
+      "content": "NORTHERN RHODESIA"
+    },
+    {
+      "line_num": 11063,
+      "array_index": 11062,
+      "content": "NYASALAND PROTECTORATE"
+    },
+    {
+      "line_num": 11362,
+      "array_index": 11361,
+      "content": "NYASALAND PROTECTORATE : ST. HELENA"
+    },
+    {
+      "line_num": 11450,
+      "array_index": 11449,
+      "content": "ST. HELENA"
+    },
+    {
+      "line_num": 11963,
+      "array_index": 11962,
+      "content": "SARAWAK : SEYCHELLES"
+    },
+    {
+      "line_num": 12056,
+      "array_index": 12055,
+      "content": "SEYCHELLES"
+    },
+    {
+      "line_num": 12327,
+      "array_index": 12326,
+      "content": "SEYCHELLES : SIERRA LEONE"
+    },
+    {
+      "line_num": 12363,
+      "array_index": 12362,
+      "content": "SIERRA LEONE"
+    },
+    {
+      "line_num": 12761,
+      "array_index": 12760,
+      "content": "SINGAPORE"
+    },
+    {
+      "line_num": 14051,
+      "array_index": 14050,
+      "content": "UGANDA"
+    },
+    {
+      "line_num": 14515,
+      "array_index": 14514,
+      "content": "THE WEST INDIES (FEDERATION)"
+    },
+    {
+      "line_num": 14878,
+      "array_index": 14877,
+      "content": "THE WEST INDIES (FEDERATION)"
+    },
+    {
+      "line_num": 15381,
+      "array_index": 15380,
+      "content": "THE WEST INDIES (FEDERATION)"
+    },
+    {
+      "line_num": 17835,
+      "array_index": 17834,
+      "content": "WESTERN PACIFIC HIGH COMMISSION"
+    },
+    {
+      "line_num": 18767,
+      "array_index": 18766,
+      "content": "MISCELLANEOUS ISLANDS"
+    },
+    {
+      "line_num": 18770,
+      "array_index": 18769,
+      "content": "THE HIGH COMMISSION TERRITORIES"
+    },
+    {
+      "line_num": 18991,
+      "array_index": 18990,
+      "content": "BERMUDA TRAVEL INFORMATION OFFICE"
+    },
+    {
+      "line_num": 19000,
+      "array_index": 18999,
+      "content": "CYPRUS GOVERNMENT LONDON OFFICE"
+    },
+    {
+      "line_num": 19019,
+      "array_index": 19018,
+      "content": "HONG KONG GOVERNMENT OFFICE"
+    },
+    {
+      "line_num": 19039,
+      "array_index": 19038,
+      "content": "MALTA GOVERNMENT OFFICE"
+    },
+    {
+      "line_num": 19048,
+      "array_index": 19047,
+      "content": "MAURITIUS HOUSE"
+    },
+    {
+      "line_num": 19121,
+      "array_index": 19120,
+      "content": "SIERRA LEONE AND GAMBIA OFFICE"
+    }
+  ]
+}

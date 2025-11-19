@@ -2,8 +2,8 @@
   "source": "historical_document_pipeline/processed_pdfs/colonial-office-list-1897/olmocr_results.md",
   "year": 1897,
   "extraction_method": "manual_parsing",
-  "total_colonies": 45,
-  "notes": "Manual extraction of all colony sections. Includes FIJI (found between Ceylon and Gambia), NIGER COAST PROTECTORATE, and GRENADA (with markdown formatting). Canadian provinces are within DOMINION OF CANADA section. Leeward Island colonies (Antigua, Dominica, Montserrat, Nevis, St. Kitts, Virgin Islands) are within THE LEEWARD ISLANDS section.",
+  "total_colonies": 47,
+  "notes": "Manual extraction of all colony sections. Includes FIJI (found between Ceylon and Gambia), NIGER COAST PROTECTORATE, GRENADA (with markdown formatting), FALKLAND ISLANDS (recovery extraction), and GIBRALTAR (recovery extraction - was previously merged with Gambia). Canadian provinces are within DOMINION OF CANADA section. Leeward Island colonies (Antigua, Dominica, Montserrat, Nevis, St. Kitts, Virgin Islands) are within THE LEEWARD ISLANDS section.",
   "colonies": {
     "BAHAMAS": {
       "start_line": 1390,
@@ -82,12 +82,26 @@
       "line_count": 198,
       "file": "FIJI.md"
     },
+    "FALKLAND ISLANDS": {
+      "start_line": 9307,
+      "end_line": 9487,
+      "char_count": 12727,
+      "line_count": 181,
+      "file": "FALKLAND_ISLANDS.md"
+    },
     "THE GAMBIA": {
       "start_line": 9882,
-      "end_line": 10272,
-      "char_count": 22740,
-      "line_count": 390,
+      "end_line": 10050,
+      "char_count": 11950,
+      "line_count": 169,
       "file": "THE_GAMBIA.md"
+    },
+    "GIBRALTAR": {
+      "start_line": 10051,
+      "end_line": 10271,
+      "char_count": 10820,
+      "line_count": 221,
+      "file": "GIBRALTAR.md"
     },
     "THE GOLD COAST COLONY": {
       "start_line": 10272,

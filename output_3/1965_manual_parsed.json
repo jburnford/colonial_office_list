@@ -1,0 +1,335 @@
+{
+  "extraction_date": "2025-11-19T02:02:20.537810",
+  "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1965/olmocr_results.md",
+  "method": "manual_boundary_identification",
+  "year": 1965,
+  "total_colonies": 32,
+  "colonies": [
+    {
+      "name": "aden",
+      "display_name": "Aden",
+      "start_line": 2821,
+      "end_line": 3548,
+      "line_count": 728,
+      "word_count": 8907,
+      "char_count": 57021,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/aden.txt"
+    },
+    {
+      "name": "antigua",
+      "display_name": "Antigua",
+      "start_line": 3549,
+      "end_line": 3714,
+      "line_count": 166,
+      "word_count": 1608,
+      "char_count": 10730,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/antigua.txt"
+    },
+    {
+      "name": "bahama_islands",
+      "display_name": "Bahama Islands",
+      "start_line": 3715,
+      "end_line": 4101,
+      "line_count": 387,
+      "word_count": 4243,
+      "char_count": 27409,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/bahama_islands.txt"
+    },
+    {
+      "name": "barbados",
+      "display_name": "Barbados",
+      "start_line": 4102,
+      "end_line": 4531,
+      "line_count": 430,
+      "word_count": 4719,
+      "char_count": 31196,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/barbados.txt"
+    },
+    {
+      "name": "basutoland",
+      "display_name": "Basutoland",
+      "start_line": 4532,
+      "end_line": 4995,
+      "line_count": 464,
+      "word_count": 5808,
+      "char_count": 37637,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/basutoland.txt"
+    },
+    {
+      "name": "bechuanaland_protectorate",
+      "display_name": "Bechuanaland Protectorate",
+      "start_line": 4996,
+      "end_line": 5294,
+      "line_count": 299,
+      "word_count": 3511,
+      "char_count": 23438,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/bechuanaland_protectorate.txt"
+    },
+    {
+      "name": "bermuda",
+      "display_name": "Bermuda",
+      "start_line": 5295,
+      "end_line": 5690,
+      "line_count": 396,
+      "word_count": 3881,
+      "char_count": 24379,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/bermuda.txt"
+    },
+    {
+      "name": "british_antarctic_territory",
+      "display_name": "British Antarctic Territory",
+      "start_line": 5691,
+      "end_line": 5767,
+      "line_count": 77,
+      "word_count": 824,
+      "char_count": 5318,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/british_antarctic_territory.txt"
+    },
+    {
+      "name": "british_guiana",
+      "display_name": "British Guiana",
+      "start_line": 5768,
+      "end_line": 6244,
+      "line_count": 477,
+      "word_count": 5628,
+      "char_count": 37088,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/british_guiana.txt"
+    },
+    {
+      "name": "british_honduras",
+      "display_name": "British Honduras",
+      "start_line": 6245,
+      "end_line": 6666,
+      "line_count": 422,
+      "word_count": 5814,
+      "char_count": 36541,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/british_honduras.txt"
+    },
+    {
+      "name": "cayman_islands",
+      "display_name": "Cayman Islands",
+      "start_line": 6667,
+      "end_line": 6835,
+      "line_count": 169,
+      "word_count": 1757,
+      "char_count": 11387,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/cayman_islands.txt"
+    },
+    {
+      "name": "dominica",
+      "display_name": "Dominica",
+      "start_line": 6836,
+      "end_line": 7090,
+      "line_count": 255,
+      "word_count": 2325,
+      "char_count": 14810,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/dominica.txt"
+    },
+    {
+      "name": "falkland_islands_and_dependencies",
+      "display_name": "Falkland Islands And Dependencies",
+      "start_line": 7091,
+      "end_line": 7368,
+      "line_count": 278,
+      "word_count": 2740,
+      "char_count": 17471,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/falkland_islands_and_dependencies.txt"
+    },
+    {
+      "name": "fiji",
+      "display_name": "Fiji",
+      "start_line": 7369,
+      "end_line": 7752,
+      "line_count": 384,
+      "word_count": 4154,
+      "char_count": 26871,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/fiji.txt"
+    },
+    {
+      "name": "gambia",
+      "display_name": "Gambia",
+      "start_line": 7753,
+      "end_line": 8146,
+      "line_count": 394,
+      "word_count": 4128,
+      "char_count": 26539,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/gambia.txt"
+    },
+    {
+      "name": "gibraltar",
+      "display_name": "Gibraltar",
+      "start_line": 8147,
+      "end_line": 8430,
+      "line_count": 284,
+      "word_count": 2708,
+      "char_count": 17149,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/gibraltar.txt"
+    },
+    {
+      "name": "grenada",
+      "display_name": "Grenada",
+      "start_line": 8431,
+      "end_line": 8780,
+      "line_count": 350,
+      "word_count": 3150,
+      "char_count": 20523,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/grenada.txt"
+    },
+    {
+      "name": "hong_kong",
+      "display_name": "Hong Kong",
+      "start_line": 8781,
+      "end_line": 9217,
+      "line_count": 437,
+      "word_count": 4564,
+      "char_count": 30473,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/hong_kong.txt"
+    },
+    {
+      "name": "malta",
+      "display_name": "Malta",
+      "start_line": 9218,
+      "end_line": 9225,
+      "line_count": 8,
+      "word_count": 105,
+      "char_count": 662,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/malta.txt"
+    },
+    {
+      "name": "mauritius",
+      "display_name": "Mauritius",
+      "start_line": 9226,
+      "end_line": 9683,
+      "line_count": 458,
+      "word_count": 4739,
+      "char_count": 30891,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/mauritius.txt"
+    },
+    {
+      "name": "montserrat",
+      "display_name": "Montserrat",
+      "start_line": 9684,
+      "end_line": 9861,
+      "line_count": 178,
+      "word_count": 1203,
+      "char_count": 8170,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/montserrat.txt"
+    },
+    {
+      "name": "pitcairn_islands_group",
+      "display_name": "Pitcairn Islands Group",
+      "start_line": 9862,
+      "end_line": 9871,
+      "line_count": 10,
+      "word_count": 294,
+      "char_count": 1783,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/pitcairn_islands_group.txt"
+    },
+    {
+      "name": "st_christopher_nevis_anguilla",
+      "display_name": "St Christopher Nevis Anguilla",
+      "start_line": 9872,
+      "end_line": 10048,
+      "line_count": 177,
+      "word_count": 1634,
+      "char_count": 11027,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/st_christopher_nevis_anguilla.txt"
+    },
+    {
+      "name": "st_helena",
+      "display_name": "St Helena",
+      "start_line": 10049,
+      "end_line": 10314,
+      "line_count": 266,
+      "word_count": 2897,
+      "char_count": 17856,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/st_helena.txt"
+    },
+    {
+      "name": "st_lucia",
+      "display_name": "St Lucia",
+      "start_line": 10315,
+      "end_line": 10556,
+      "line_count": 242,
+      "word_count": 2447,
+      "char_count": 15475,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/st_lucia.txt"
+    },
+    {
+      "name": "st_vincent",
+      "display_name": "St Vincent",
+      "start_line": 10557,
+      "end_line": 10810,
+      "line_count": 254,
+      "word_count": 2413,
+      "char_count": 15764,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/st_vincent.txt"
+    },
+    {
+      "name": "seychelles",
+      "display_name": "Seychelles",
+      "start_line": 10811,
+      "end_line": 11206,
+      "line_count": 396,
+      "word_count": 3832,
+      "char_count": 24503,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/seychelles.txt"
+    },
+    {
+      "name": "swaziland",
+      "display_name": "Swaziland",
+      "start_line": 11207,
+      "end_line": 11457,
+      "line_count": 251,
+      "word_count": 3975,
+      "char_count": 26007,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/swaziland.txt"
+    },
+    {
+      "name": "tonga",
+      "display_name": "Tonga",
+      "start_line": 11458,
+      "end_line": 11603,
+      "line_count": 146,
+      "word_count": 2046,
+      "char_count": 12929,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/tonga.txt"
+    },
+    {
+      "name": "turks_and_caicos_islands",
+      "display_name": "Turks And Caicos Islands",
+      "start_line": 11604,
+      "end_line": 11766,
+      "line_count": 163,
+      "word_count": 1824,
+      "char_count": 11306,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/turks_and_caicos_islands.txt"
+    },
+    {
+      "name": "virgin_islands",
+      "display_name": "Virgin Islands",
+      "start_line": 11767,
+      "end_line": 11952,
+      "line_count": 186,
+      "word_count": 1624,
+      "char_count": 10476,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/virgin_islands.txt"
+    },
+    {
+      "name": "western_pacific_high_commission",
+      "display_name": "Western Pacific High Commission",
+      "start_line": 11953,
+      "end_line": 12978,
+      "line_count": 1026,
+      "word_count": 13007,
+      "char_count": 84858,
+      "output_file": "/home/user/colonial_office_list/output_3/1965_manual_parsed/western_pacific_high_commission.txt"
+    }
+  ],
+  "summary": {
+    "total_lines_extracted": 10158,
+    "total_words_extracted": 112509,
+    "average_lines_per_colony": 317.4375,
+    "average_words_per_colony": 3515.90625
+  }
+}

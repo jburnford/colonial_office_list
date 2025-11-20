@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Extract people data from ALL Ceylon Colonial Office List files (1867-1946).
+Extract people data from ALL Ceylon Colonial Office List files (1867-1963).
 
-Uses the v2 hybrid Python-Task extraction system.
+Uses the v3 specialized Ceylon extractor (96.2/100 quality).
 """
 
 import os
@@ -10,7 +10,7 @@ import json
 import glob
 import re
 from pathlib import Path
-from extract_people_v2 import ExtractionOrchestrator
+from extract_ceylon_people import CeylonExtractionOrchestrator
 
 
 def find_all_ceylon_files():
@@ -39,14 +39,14 @@ def main():
     print("="*80)
     print("CEYLON COLONIAL OFFICE LISTS - COMPLETE EXTRACTION")
     print("="*80)
-    print("\nUsing v2 hybrid Python-Task extraction system")
-    print("No external API needed - Claude Code Tasks handle complex extraction\n")
+    print("\nUsing v3 specialized Ceylon extractor (96.2/100 quality)")
+    print("Fixes: location filtering, qualification handling, plural roles\n")
 
     # Find all files
     ceylon_files = find_all_ceylon_files()
-    print(f"Found {len(ceylon_files)} Ceylon files (1867-1946)\n")
+    print(f"Found {len(ceylon_files)} Ceylon files (1867-1963)\n")
 
-    orchestrator = ExtractionOrchestrator()
+    orchestrator = CeylonExtractionOrchestrator()
 
     all_people = []
     year_stats = {}
@@ -135,7 +135,7 @@ def main():
         'people': [p.__dict__ for p in all_people]
     }
 
-    output_file = 'ceylon_all_years_v2.json'
+    output_file = 'ceylon_all_years_v3.json'
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
 

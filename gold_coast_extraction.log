@@ -1,0 +1,1917 @@
+================================================================================
+GOLD COAST COLONIAL OFFICE LISTS - COMPLETE EXTRACTION
+================================================================================
+
+Using Gold Coast-specific extractor with table and narrative format support
+
+Found 58 Gold Coast files
+
+
+================================================================================
+[1/58] Processing 1867: gold_coast.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1867: output_3/1867_manual_parsed/gold_coast.txt
+======================================================================
+Warning: Could not find people section start
+  Department: The Government of the Gold Coast, in 1850, ceased to be under that of Sierra Leone, when Sir William Winniett was appointed Governor and Commander-in-Chief; an Executive and Legislative Council were established, the former consisting of the Judicial Assessor, the Collector of Customs, and the Colonial Secretary; the latter of two Government officers and two gentlemen, nominated by the Crown
+  Department: In consequence, however, of the deliberations of a Committee appointed in 1865, to inquire into the affairs on the West Coast of Africa, the Gold Coast was again made subject to the Government of Sierra Leone. By instruction addressed to the Governor General, dated February, 1866, the Government of the Gold Coast was vested in an Administrator, aided by a Legislative Council, consisting of the Collector of Customs, the Police Magistrate, and such other persons as might be named under instructions, or by warrant under sign manual. All laws passed by the Council are subject to the concurrence of the Governor General, and all correspondence for transmission to the Secretary of State is addressed to that officer, unless of very great urgency
+  Department: The Legislative Council consists of Administrator, Police Magistrate, and Collector of Customs
+  Department: Superintendent of Public Works, (vacant)
+  Department: Collector of Customs &c., — Ussher, Esq
+
+Extracted 3 people from GOLD_COAST 1867
+
+✓ Extracted 3 people from 1867
+  Format: narrative (table: 0, narrative: 3)
+
+================================================================================
+[2/58] Processing 1877: THE_GOLD_COAST_COLONY.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1877: output_3/1877_manual_parsed/THE_GOLD_COAST_COLONY.txt
+======================================================================
+People section starts at line 158
+  Department: The Queen's Advocate
+  Department: The Queen's Advocate
+  Department: Governor's Office
+  Department: Customs and Treasury
+  Department: Audit Office
+  Department: Post Office
+  Department: Printing Office
+  Department: Judicial Department (for the whole Colony)
+  Department: Queen's Advocate, Thomas Woodcock, 1,600l., free quarters, and private practice
+  Department: Ecclesiastical Department
+  Department: Educational
+  Department: District Commissioners
+  Department: District Commissioner, Accra (acting), Percival Hughes, 400l., 45l. hammock allowance and free quarters
+  Department: District Commissioner, Anamaboe (acting), Major J. T. Brownell, 300l., 45l. hammock allowance and free quarters
+  Department: District Commissioner, Dixcove (acting), S. V. Saulez, 45l. hammock allowance and free quarters
+  Department: District Commissioner, Elmina (acting), G. C. Childs, 45l. hammock allowance and free quarters
+  Department: District Commissioner, Quittah (acting), Captain L. A. Brydon, 45l. hammock allowance and free quarters
+  Department: District Commissioner, Saltpond (acting), S. C. Brew, 200l., 45l. hammock allowance and free quarters
+  Department: District Commissioner, Secondee (acting), Samuel Bannerman, 250l., 45l. hammock allowance and free quarters
+  Department: District Commissioner, Addah, James S. Parker, 250l., 45l. hammock allowance and free quarters
+  Department: Constabulary
+  Settlement: Lagos
+  Department: Medical Department
+  Settlement: Lagos
+  Department: Customs and Treasury
+  Department: Post Office
+  Department: District Commissioners
+  Department: District Commissioner, Thomas Tickel, 250l
+  Settlement: Palma
+  Department: District Commissioner (acting), John Smith, 350l
+  Department: Judicial Department
+  Department: Medical Department
+
+Extracted 104 people from GOLD_COAST 1877
+
+✓ Extracted 104 people from 1877
+  Format: narrative (table: 0, narrative: 104)
+
+================================================================================
+[3/58] Processing 1878: THE_GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1878: output_3/1878_manual_parsed/THE_GOLD_COAST.txt
+======================================================================
+Warning: Could not find people section start
+  Department: In the meantime, Her Majesty's Government, which had been at one time minded to quit the coast altogether, had transferred the government of the forts to the local and London merchants interested, who secured as their Governor Mr. George Maclean, a man of marked energy and capacity. This gentleman, with a force of no more than 100 men at command, and a revenue of only about 4,000£ a-year, contrived to extend and maintain the influence of his government over the whole tract of country lying behind the British forts, and now known as the Gold Coast Protectorate. Here he preserved the peace, remedied injustice, and repressed the cruel customs of the native chiefs and priesthood. In 1843, a clamour having prevailed that the Merchant Government connived at the Slave Trade, the forts were resumed by the Crown, a Lieut.-Governor being appointed, but Mr. Maclean was continued in the direction of Native Affairs, under the title of Judicial Assessor to the Native Chiefs, which post he held until his death in 1847
+  Department: Interspersed amongst the British settlements had always been a number of Dutch forts. This circumstance was an abiding source of embarrassment to the British Government, as, the Dutch settlements being free ports, no appreciable customs duties could be imposed at the British ports without driving trade into those of the Dutch. For these reasons on our part, and sufficient reasons on the part of the Dutch, a partition of the coast was effected by a Convention, which came into force on the 1st of January, 1868, the Dutch taking the country west of the Sweet river, the British that lying to the east. Under this partition the Dutch acquired Dixcove, Apollonia, Secondee, and Commendah; the British acquired Dutch Accra, Beraco, Apam, Cormantyne, and Moree. Her Majesty also relinquished to the King of Holland her protectorate over the two Wassaws, Apollonia, and Denkera
+  Department: Constitution.
+  Department: Measures taken since the War.
+  Department: During the year 1875 the special mission of Captain Sale, R.E., to the Gold Coast was brought to a conclusion by a report recommending an extensive scheme of public works, involving the construction of bridges and roads for trade inland, the provision of new Government buildings at Accra, a secure landing place at that station, an increase of the lighthouses of the Colony, and the sanitary improvement of the principal towns of both settlements. Some of these works have already been executed, others are engaging the attention of the Government
+  Department: Domestic Slavery.
+  Settlement: Lagos
+  Settlement: Cape Coast
+
+Extracted 0 people from GOLD_COAST 1878
+
+✓ Extracted 0 people from 1878
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[4/58] Processing 1879: gold_coast_colony.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1879: output_3/1879_manual_parsed/gold_coast_colony.txt
+======================================================================
+Warning: Could not find people section start
+  Department: of only about 4,000l. a-year, contrived to extend and maintain the influence of his government over the whole tract of country lying behind the British forts, and now known as the Gold Coast Protectorate. Here he preserved the peace, remedied injustice, and repressed the cruel customs of the native chiefs and priesthood. In 1843, a clamour having prevailed that the Merchant Government connived at the Slave Trade, the forts were resumed by the Crown, a Lieutenant-Governor being appointed, but Mr. Maclean was continued in the direction of Native Affairs, under the title of Judicial Assessor to the Native Chiefs, which post he held until his death in 1847
+  Department: Interspersed amongst the British settlements had always been a number of Dutch forts. This circumstance was an abiding source of embarrassment to the British Government, as the Dutch settlements being free ports, no appreciable customs duties could be imposed at the British ports without driving trade into those of the Dutch. For these reasons on our part, and sufficient reasons on the part of the Dutch, a partition of the coast was effected by a Convention, which came into force on the 1st of January, 1868, the Dutch taking the country west of the Sweet river, the British that lying to the east. Under this partition the Dutch acquired Dixcove, Apollonia, Secondee, and Comendah; the British acquired Dutch Accra, Beraco, Apam, Cormantyne, and Moree. Her Majesty also relinquished to the King of Holland her protectorate over the two Wassaws, Apollonia, and Denkora
+  Department: Constitution.
+  Department: Measures taken since the War.
+  Department: During the year 1875 the special mission of Captain Sale, R.E., to the Gold Coast was brought to a conclusion by a report recommending an extensive scheme of public works, involving the construction of bridges and roads for trade inland, the provision of new Government buildings at Accra, a secure landing place at that station, an increase of the lighthouses of the Colony, and the sanitary improvement of the principal towns of both settlements. Some of these works have already been executed, others are engaging the attention of the Government
+  Department: Domestic Slavery.
+  Department: Mail Communication.
+
+Extracted 0 people from GOLD_COAST 1879
+
+✓ Extracted 0 people from 1879
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[5/58] Processing 1880: the_gold_coast_colony.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1880: output_3/1880_manual_parsed/the_gold_coast_colony.txt
+======================================================================
+People section starts at line 166
+  Found table with columns: ['rank', 'name', 'salary', 'allowances', 'remarks']
+  Department (from table): Civil Establishment
+  Department (from table): Executive Council
+  Department (from table): Legislative Council
+  Found table with columns: ['rank', 'name', 'salary', 'allowances', 'remarks']
+  Department: Audit Office
+  Found table with columns: ['rank', 'name', 'salary', 'allowances', 'remarks']
+  Department (from table): Printing Office
+  Department (from table): Judicial Department
+  Department (from table): Ecclesiastical Department
+  Department (from table): Educational
+  Department (from table): District Commissioners
+  Department (from table): District Commissioner, Saltpond and Anamaboe
+  Found table with columns: ['rank', 'name', 'salary', 'allowances', 'remarks']
+  Department: Constabulary.
+  Department: GOLD COAST.
+  Department: LAGOS CONSTABULARY.
+  Department: Drummers.
+  Department: Artillery.
+  Department: Civil Police.
+  Found table with columns: ['rank', 'name', 'salary', 'allowances', 'remarks']
+  Department: Medical Department
+  Found table with columns: ['rank', 'name', 'salary', 'allowances', 'remarks']
+  Department: Public Works Department
+  Found table with columns: ['rank', 'name', 'salary', 'allowances', 'remarks']
+  Department: Sanitary Department
+  Found table with columns: ['rank', 'name', 'salary', 'allowances', 'remarks']
+  Found table with columns: ['rank', 'name', 'salary', 'allowances', 'remarks']
+  Department (from table): Customs and Treasury
+  Department (from table): Public Works Department
+  Found table with columns: ['rank', 'name', 'salary', 'allowances', 'remarks']
+  Department (detected): Harbour Master's Department
+  Department (from table): Post Office
+  Department (from table): District Commissioners
+  Department (detected): Prison Department
+  Department (from table): Judicial Department
+  Department (from table): Medical Department
+
+Extracted 214 people from GOLD_COAST 1880
+
+✓ Extracted 214 people from 1880
+  Format: table (table: 214, narrative: 0)
+
+================================================================================
+[6/58] Processing 1883: gold_coast_colony.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1883: output_3/1883_manual_parsed/gold_coast_colony.txt
+======================================================================
+Warning: Could not find people section start
+  Department: Interspersed amongst the British settlements there had always been a number of Dutch forts. This circumstance was an abiding source of embarrassment to the British Government, as, the Dutch settlements being free ports, no appreciable customs
+  Settlement: Lagos
+  Settlement: Cape Coast
+
+Extracted 0 people from GOLD_COAST 1883
+
+✓ Extracted 0 people from 1883
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[7/58] Processing 1886: GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1886: output_3/1886_manual_parsed/GOLD_COAST.txt
+======================================================================
+People section starts at line 239
+  Department: The Queen's Advocate
+  Department: Governor's Office
+  Settlement: Lagos
+  Department: Colonial Secretary's Office
+  Settlement: Lagos
+  Department: Treasury
+  Settlement: Addah
+  Department: Customs
+  Settlement: Appam
+  Settlement: Axim
+  Settlement: Cape Coast
+  Settlement: Chamah
+  Settlement: Dixcove
+  Settlement: Elmina
+  Settlement: Jellah Coffee
+  Settlement: Lagos
+  Settlement: Mumford
+  Settlement: New Town
+  Settlement: Pram
+  Settlement: Secondee
+  Settlement: Volta River
+  Settlement: Winnebah
+  Department: Audit Office
+  Department: Post Office
+  Settlement: Accra
+  Settlement: Cape Coast
+  Settlement: Lagos
+  Settlement: Lagos
+  Department: Public Works and Survey
+  Department: District Commissioners
+  Settlement: Accra
+  Department: Addah, District Commissioner, J. S. Parker, 250l. and free quarters
+  Department: Badagry, District Commissioner, T. Tickel (acting), 250l
+  Department: Lagos, District Commissioner, E. H. Richards, 500l
+  Department: Palma and Leckie, District Commissioner, George Smith, 250l., and free quarters
+  Department: Pram Pram, District Commissioner, H. Vroom, 200l., and 30l. allowance for quarters
+  Department: Saltpond and Anamaloe, District Commissioner, John Smith, 350l., free quarters, and 60l. hammock allowance
+  Department: Secondee, District Commissioner (vacant), 250l., and free quarters
+  Settlement: Volta River
+  Department: Winnebah District Commissioner (vacant), 300l., free quarters, and 60l. hammock allowance
+  Department: Judicial Department
+  Department: Queen's Advocate, W. H. Quayle Jones, 1,000l
+  Department: Educational Department
+  Department: Constabulary
+  Settlement: Accra
+  Settlement: Elmina
+  Settlement: Lagos
+  Department: Medical Department
+
+Extracted 59 people from GOLD_COAST 1886
+
+✓ Extracted 59 people from 1886
+  Format: narrative (table: 0, narrative: 59)
+
+================================================================================
+[8/58] Processing 1889: THE_GOLD_COAST_COLONY.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1889: output_3/1889_manual_parsed/THE_GOLD_COAST_COLONY.txt
+======================================================================
+People section starts at line 179
+  Department: The Queen's Advocate
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Settlement: Accra
+  Settlement: Appam
+  Settlement: Cape Coast
+  Settlement: Chamah
+  Settlement: Dixcove
+  Settlement: Elmina
+  Settlement: Jellah Coffee
+  Settlement: Mumford
+  Settlement: New Town
+  Settlement: Pram
+  Settlement: Quittah
+  Settlement: Anamaboe
+  Settlement: Secondee
+  Settlement: Volta River
+  Settlement: Winnebah
+  Department: Audit Office
+  Department: Post Office
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Public Works and Survey
+  Department: Judicial Department
+  Department: Queen's Advocate, 800l
+  Department: District Commissioners
+  Settlement: Accra
+  Settlement: Addah
+  Settlement: Axim
+  Settlement: Cape Coast
+  Settlement: Elmina
+  Settlement: Pram
+  Settlement: Quittah
+  Settlement: Saltpond
+  Settlement: Secondee
+  Settlement: Volta River
+  Settlement: Winnebah
+  Department: Educational Department
+  Department: Constabulary
+  Settlement: Accra
+  Settlement: Elmina
+  Settlement: Cape Coast
+  Department: Medical Department
+
+Extracted 43 people from GOLD_COAST 1889
+
+✓ Extracted 43 people from 1889
+  Format: narrative (table: 0, narrative: 43)
+
+================================================================================
+[9/58] Processing 1890: the_gold_coast_colony.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1890: output_3/1890_manual_parsed/the_gold_coast_colony.txt
+======================================================================
+People section starts at line 174
+  Department: The Queen's Advocate
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Settlement: Accra
+  Settlement: Addafia
+  Settlement: Addah
+  Settlement: Appam
+  Settlement: Cape Coast
+  Settlement: Elmina
+  Settlement: Jellah Coffee
+  Settlement: Mumford
+  Settlement: New Town
+  Settlement: Pram
+  Settlement: Quittah
+  Settlement: Anamaboe
+  Settlement: Secondee
+  Settlement: Volta River
+  Settlement: Winnebah
+  Department: Audit Office
+  Department: Post Office
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Public Works and Survey
+  Department: Judicial Department
+  Department: Queen's Advocate and D.C., Accra, E. B. Hindle, 600l. to 700l
+  Department: District Commissioners
+  Settlement: Accra
+  Settlement: Addah
+  Settlement: Cape Coast
+  Settlement: Dixcove
+  Settlement: Elmina
+  Settlement: Pram
+  Settlement: Quittah
+  Settlement: Saltpond
+  Settlement: Secondee
+  Settlement: Volta River
+  Settlement: Winnebah
+  Department: Educational Department
+  Department: Constabulary
+  Settlement: Accra
+  Settlement: Elmina
+  Settlement: Cape Coast
+  Department: Medical Department
+
+Extracted 48 people from GOLD_COAST 1890
+
+✓ Extracted 48 people from 1890
+  Format: narrative (table: 0, narrative: 48)
+
+================================================================================
+[10/58] Processing 1894: the_gold_coast_colony.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1894: output_3/1894_manual_parsed/the_gold_coast_colony.txt
+======================================================================
+People section starts at line 186
+  Department: The Queen's Advocate
+  Department: The Inspector-General of Constabulary
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Audit Office
+  Department: Post Office
+  Department: 2 First Class Post Offices:
+  Department: 3 Second Class Post Offices:
+  Department: Telegraph Department
+  Department: Public Works Department
+  Department: Director of Public Works, A. M. Anderson, 800l. to 1,000l
+  Department: Judicial Department
+  Department: Queen's Advocate, E. Bruce Hindle, 600l. to 700l
+  Department: District Commissioners
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Constabulary
+  Settlement: Accra
+  Settlement: Elmina
+  Settlement: Cape Coast
+  Department: Medical Department
+
+Extracted 64 people from GOLD_COAST 1894
+
+✓ Extracted 64 people from 1894
+  Format: narrative (table: 0, narrative: 64)
+
+================================================================================
+[11/58] Processing 1896: the_gold_coast_colony.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1896: output_3/1896_manual_parsed/the_gold_coast_colony.txt
+======================================================================
+People section starts at line 220
+  Department: The Inspector-General of Constabulary
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Settlement: Accra
+  Settlement: Saltpond
+  Settlement: Cape Coast
+  Settlement: Winnebah
+  Settlement: Axim
+  Department: Audit Office
+  Department: Post Office
+  Department: Two First-Class Post Offices:—
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Telegraph Department
+  Department: Public Works Department
+  Department: Director of Public Works, A. M. Anderson, M.I.C.E., 850l. to 1,000l
+  Department: Judicial Department
+  Department: District Commissioners
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Constabulary—Hausa
+  Settlement: Accra
+  Settlement: Elmina
+  Settlement: Cape Coast
+  Department: Medical Department
+
+Extracted 74 people from GOLD_COAST 1896
+
+✓ Extracted 74 people from 1896
+  Format: narrative (table: 0, narrative: 74)
+
+================================================================================
+[12/58] Processing 1897: THE_GOLD_COAST_COLONY.md
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1897: output_3/1897_manual_parsed/THE_GOLD_COAST_COLONY.md
+======================================================================
+People section starts at line 251
+  Department: Inspector-General of Constabulary
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Settlement: Accra
+  Settlement: Saltpond
+  Settlement: Cape Coast
+  Settlement: Winnebah
+  Settlement: Axim
+  Department: Post Office
+  Department: Two First-Class Post Offices:
+  Settlement: Cape Coast
+  Department: Telegraph Department
+  Department: Medical Department
+  Department: Constabulary—Hausa
+  Department: Judicial Department
+  Department: District Commissioners
+  Department: Public Works Department
+  Department: Director of Public Works, A. M. Anderson, M.I.C.E., 850l. to 1,000l
+
+Extracted 53 people from GOLD_COAST 1897
+
+✓ Extracted 53 people from 1897
+  Format: narrative (table: 0, narrative: 53)
+
+================================================================================
+[13/58] Processing 1898: GOLD_COAST.md
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1898: output_3/1898_manual_parsed/GOLD_COAST.md
+======================================================================
+People section starts at line 254
+  Department: The Inspector-General of Constabulary
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Settlement: Volta River
+  Department: Post Office
+  Department: Two First-Class Post Offices:
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Telegraph Department
+  Department: Medical Department
+  Department: Constabulary—Hausa
+  Department: Judicial Department
+  Department: District Commissioners
+  Department: Public Works Department
+  Department: Director of Public Works, A. M. Anderson, M.I.C.E., 850l. to 1,000l
+  Settlement: Accra
+  Settlement: Elmina
+  Settlement: Cape Coast
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Audit Office
+
+Extracted 83 people from GOLD_COAST 1898
+
+✓ Extracted 83 people from 1898
+  Format: narrative (table: 0, narrative: 83)
+
+================================================================================
+[14/58] Processing 1899: gold_coast.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1899: output_3/1899_manual_parsed/gold_coast.txt
+======================================================================
+People section starts at line 262
+  Department: The Inspector-General of Constabulary
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Settlement: Volta River
+  Department: Post Office
+  Department: Two First-Class Post Offices:
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Telegraph Department
+  Department: Medical Department
+  Department: Constabulary—Hausa
+  Department: Judicial Department
+  Department: District Commissioners
+  Department: Public Works Department
+  Department: Director of Public Works, A. M. Anderson, M.I.C.E., 850l. to 1,000l
+  Settlement: Accra
+  Settlement: Elmina
+  Settlement: Cape Coast
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Audit Office
+
+Extracted 81 people from GOLD_COAST 1899
+
+✓ Extracted 81 people from 1899
+  Format: narrative (table: 0, narrative: 81)
+
+================================================================================
+[15/58] Processing 1900: GOLD_COAST_COLONY.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1900: output_3/1900_manual_parsed/GOLD_COAST_COLONY.txt
+======================================================================
+People section starts at line 275
+  Department: The Inspector-General of Constabulary
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Settlement: Volta River
+  Department: Post Office
+  Department: Two First-class Post Offices:
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Telegraph Department
+  Department: Medical Department
+  Department: Constabulary—Hausa
+  Department: Judicial Department
+  Department: District Commissioners
+  Department: Public Works Department
+  Department: Director of Public Works, A. M. Anderson, M.I.C.E., 850l. to 1,000l
+  Settlement: Accra
+  Settlement: Cape Coast
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Audit Office
+
+Extracted 87 people from GOLD_COAST 1900
+
+✓ Extracted 87 people from 1900
+  Format: narrative (table: 0, narrative: 87)
+
+================================================================================
+[16/58] Processing 1905: THE_GOLD_COAST.md
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1905: output_3/1905_manual_parsed/THE_GOLD_COAST.md
+======================================================================
+People section starts at line 329
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Department: Inspector Maritime Customs, A. Smith, 400l., and 80l. duty allowance
+  Department: Post and Telegraph Department
+  Department: Medical Department
+  Department: Judicial Department
+  Department: District Commissioners, C. H. Harper, A. White, W. J. Maxwell, H. Hargrove, J. J. Ennis, H. C. W. Grinshaw, R. S. de Vere, A. T. Neil, J. T. Furley, C. J. Young, Arthur Ffoulkes, T. H. Breckenridge, at 400l. each, with duty allowance 80l.; J. A. Williams, I.S.O., A. W. Thompson, and P. W. Bernasko, at 300l. to 350l
+  Department: Public Works Department
+  Department: Director of Public Works, Capt. W. E. Lees, R.E., 1,000l., duty allowance 200l
+  Department: Assistant Director of Public Works, E. F. W. Wilkinson, C.E., 500l. to 600l
+  Settlement: Elmina
+  Settlement: Cape Coast
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Audit Office
+  Department: District Commissioners, F. B. Henderson, C.M.G., D.S.O., C. H. Armitage, D.S.O., W. B. Davidson-Houston, 700l. each, and 140l. duty allowance per annum
+
+Extracted 103 people from GOLD_COAST 1905
+
+✓ Extracted 98 people from 1905
+  Format: narrative (table: 0, narrative: 98)
+
+================================================================================
+[17/58] Processing 1906: THE_GOLD_COAST.md
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1906: output_3/1906_manual_parsed/THE_GOLD_COAST.md
+======================================================================
+People section starts at line 319
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Department: Inspector Maritime Customs, A. Smith, 400l., and 80l. duty allowance
+  Department: Post and Telegraph Department
+  Department: Medical Department
+  Department: Judicial Department
+  Department: District Commissioners, C. H. Harper, A. White, J. J. Ennis, H. C. W. Grimshaw, J. T. Furley, C. J. Young, Arthur Pfoulkes, T. H. Breckenridge, F. G. Crowther, E. C. Eliot, W. F. Boger, and one vacant, at 400l. each, with duty allowance 80l.; J. A. Williams, I.S.O., A. W. Thompson, and P. W. Bernasko, at 300l. to 350l
+  Department: Public Works Department
+  Department: Director of Public Works, Capt. W. E. Lees, R.E., 1,000l., duty allowance 200l
+  Department: Assistant Director of Public Works, E. F. W. Wilkinson, C.E., 500l. to 600l
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Audit Office
+  Department: District Commissioners, C. H. Armitage, D.S.O., W. B. Davidson-Houston, and T. E. Fell, 700l. each, and 140l. duty allowance
+
+Extracted 99 people from GOLD_COAST 1906
+
+✓ Extracted 98 people from 1906
+  Format: narrative (table: 0, narrative: 98)
+
+================================================================================
+[18/58] Processing 1907: THE_GOLD_COAST.md
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1907: output_3/1907_manual_parsed/THE_GOLD_COAST.md
+======================================================================
+People section starts at line 309
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Department: Inspector Maritime Customs, A. Smith, 400l., and 80l. duty allowance
+  Department: Post and Telegraph Department
+  Department: Medical Department
+  Department: Judicial Department
+  Department: District Commissioners, J. J. Ennis, H. C. W. Grimshaw, J. T. Furley, Arthur Ffoulkes, T. H. Breckenridge, F. G. Crowther, E. C. Eliot, W. F. Boger, M. P. Michelin, J. C. Adams, N. H. Dakeyne, and one vacant, at 400l. each, with duty allowance 80l
+  Department: Native District Commissioners, J. A. Williams, I.S.O., and A. W. Thompson, at 300l. to 350l
+  Department: Public Works Department
+  Department: Director of Public Works, Capt. W. E. Lee, R.E., 1,000l., duty allowance 200l
+  Department: Assistant Director of Public Works, E. F. W. Wilkinson, C.E., 500l. to 600l
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Audit Office
+  Department: District Commissioners, C. H. Armitage, D.S.O., T. E. Fell, Capt. G. W. C. Soden, and Major C. E. D. O. Rew, 700l. each, and 140l. duty allowance
+  Department: Assistant District Commissioners, Capt. S. H. Hobart, Lieut. H. A. Kortright, Capt. H. de l. Denny, P. A. H. Pott, and one vacancy, 400l. and 80l. duty allowance
+  Department: District Commissioners, ten vacancies, 400l., and 80l. duty allowance
+
+Extracted 107 people from GOLD_COAST 1907
+
+✓ Extracted 105 people from 1907
+  Format: narrative (table: 0, narrative: 105)
+
+================================================================================
+[19/58] Processing 1908: GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1908: output_3/1908_manual_parsed/GOLD_COAST.txt
+======================================================================
+People section starts at line 332
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Department: Inspector Maritime Customs, A. Smith, 400l., and 80l. duty allowance
+  Department: Medical Department
+  Department: Constabulary (Northern Territories)
+  Department: Judicial Department
+  Department: District Commissioners, H. C. W. Grimshaw, J. T. Furley, Arthur Joulkes, F. G. Crowther, M. P. Michelin, J. C. Adams, N. H. Dakeyne, A. J. C. Ross, P. Shee, I. J. K. Greenway, R. Beavon, A. H. L. Richter and C. H. H. Davis, at 400l. each, with duty allowance 80l
+  Department: Public Works Department
+  Department: Director of Public Works, Capt. W. E. Lees, R.E., 1,000l., duty allowance 200l
+  Department: Assistant Director of Public Works, E. F. W. Wilkinson, C.E., 500l. to 600l
+  Department: District Commissioners, Capt. S. H. Hobart, Capt. H. A. Kortright, Capt. H. de I. Denny, P. A. H. Pott, and G. Risely Griffith, 400l. and 80l. duty allowance
+  Department: District Commissioners, Capt. E. O. Warden, Capt. A. M. Fleury, Capt. S. D. Nash, Capt. H. T. C. Wheeler, Lieut. F. W. F. Jackson, Lieut. G. W. F. Wright, Major A. H. C. Walker-Leigh, H. M. Berkeley, R. Palmer, and A. J. Berney, 400l., and 80l. duty allowance
+
+Extracted 76 people from GOLD_COAST 1908
+
+✓ Extracted 76 people from 1908
+  Format: narrative (table: 0, narrative: 76)
+
+================================================================================
+[20/58] Processing 1909: the_gold_coast.md
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1909: output_3/1909_manual_parsed/the_gold_coast.md
+======================================================================
+Warning: Could not find people section start
+  Department: Judicial Department
+  Department: District Commissioners, H. C. W. Grimshaw, J. T. Furley, Arthur Hoult, M. P. Michelin, J. C. Adams, N. H. Dakeyne, I. Church, R. Beaven, A. H. L. Richter, C. H. H. Davis, J. K. Greenway, Mackay, Haslerigg, and Atterbury, at 400l. each, with duty allowance 80l
+  Department: Public Works Department
+  Department: Director of Public Works, Capt. W. E. Lees, R.E., 1,000l., duty allowance 200l
+  Department: Assistant Director of Public Works, E. F. W. Wilkinson, C.E., 500l. to 600l
+  Settlement: Accra
+  Settlement: Cape Coast
+  Department: Audit Office
+  Department: District Commissioners, Capt. S. H. Hobart, Capt. H. de I. Denny, P. A. H. Pott, G. Risely Griffith, and L. H. Wheatley, 400l. and 80l. duty allowance
+  Department: District Commissioners, Capt. A. M. Fleury, Capt. S. D. Nash, Capt. H. T. C. Wheeler, Lieut. F. W. F. Jackson, Lieut. G. W. F. Wright, Major A. H. C. Walker-Leigh, H. M. Berkeley, R. Palmer, A. J. Berney, and A. C. Aglionby, 400l., and 80l. duty allowance
+
+Extracted 52 people from GOLD_COAST 1909
+
+✓ Extracted 52 people from 1909
+  Format: narrative (table: 0, narrative: 52)
+
+================================================================================
+[21/58] Processing 1910: THE_GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1910: output_3/1910_manual_parsed/THE_GOLD_COAST.txt
+======================================================================
+People section starts at line 309
+  Department: Major W. E. Lees, R.E., Director of Public Works
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Department: Inspector Maritime Customs, A. Smith, 400l., and 80l. duty allowance
+  Department: Post and Telegraph Department
+  Department: Medical Department
+  Department: Constabulary (Northern Territories)
+  Department: Judicial Department
+  Department: District Commissioners, J. T. Furley, W. P. Michelin, J. C. Adams, J. W. Church, R. A. G. Beaven, A. H. L. Richter, J. D. Mackay, H. J. Hobbs, J. L. Atterbury, C. H. P. Lamond, L. L. Roberts, Benjamin Dickinson and C. L. Colin Harding, C.M.G., at 400l. to 500l. each, with duty allowance 80l
+  Department: Assistant District Commissioners, B. B. M. Taplin, H. C. Branch, C. W. Welman, H. E. G. Bartlett and 2 vacancies, 300l. to 400l
+  Department: Public Works Department
+  Department: Director of Public Works, Major W. E. Lees, R.E., 1,600l., duty allowance 200l
+  Department: Assistant Director of Public Works, E. F. W. Wilkinson, C.E., 500l. to 600l
+  Settlement: Accra
+  Settlement: Cape Coast
+  Settlement: Accra
+  Settlement: Accra
+  Department: Audit Office
+  Department: District Commissioners, Capt. S. H. Hobart, Capt. H. de I. Denny, P. A. H. Pott, G. Risely Griffith, and L. H. Wheatley, 400l. and 80l. duty allowance
+  Department: District Commissioners, Capt. S. D. Nash, Capt. H. T. C. Wheeler, Lieut. F. W. F. Jackson, Lieut. G. W. F. Wright, Major A. H. C. Walker-Leigh, H. M. Berkeley, R. Palmer, A. J. Berney, L. Castellain and Capt. W. Levis, 400l., and 80l. duty allowance
+
+Extracted 103 people from GOLD_COAST 1910
+
+✓ Extracted 103 people from 1910
+  Format: narrative (table: 0, narrative: 103)
+
+================================================================================
+[22/58] Processing 1911: gold_coast.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1911: output_3/1911_manual_parsed/gold_coast.txt
+======================================================================
+People section starts at line 323
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Department: Inspector Maritime Customs, A. Smith, 400l., and 80l. duty allowance
+  Department: Post and Telegraph Department
+  Department: Medical Department
+  Department: Constabulary (Northern Territories)
+  Department: Judicial Department
+  Department: District Commissioners, W. P. Michelin, J. C. Adams, R. A. G. Beaven, A. H. L. Richter, H. J. Hobbs, J. L. Atterbury, C. H. P. Lamond, L. L. Roberts, and Benjamin Dickinson, at 400l. to 500l. each, with duty allowance 80l
+  Department: Assistant District Commissioners, L. W. S. Long, B. B. M. Taplin, H. C. Branch, C. W. Welman, H. E. G. Bartlett, G. A. E. Poole, J. E. Phillips, J. A. Ballantine, R. E. Hall, W. Johnstone, C. C. Brown, H. S. Newlands, A. J. Cutfield, C. W. Chaisner, S. H. Carnelly, and five vacancies, 300l. to 400l
+  Department: Public Works Department
+  Department: Director of Public Works, P. N. H. Jones, A.M.I.C.E., 1,000l., duty allowance 200l
+  Department: Assistant Director of Public Works (vacant), 500l. to 600l
+  Settlement: Accra
+  Settlement: Cape Coast
+  Settlement: Accra
+  Settlement: Accra
+  Department: District Commissioners, Capt. S. H. Hobart, P. A. H. Pott, G. Risely Griffith, and L. H. Wheatley, 400l. and 80l. duty allowance
+  Department: Assistant District Commissioners, H. Ross, and two vacancies
+  Department: District Commissioners, Capt. S. D. Nash, Capt. H. T. C. Wheeler, Lieut. F. W. F. Jackson, Lieut. G. W. F. Wright, Major A. H. C. Walker-Leigh, H. M. Berkeley, Col. Colin Harding, C.M.G., A. J. Berney, L. Castellain and Capt. W. Swire, 400l., and 80l. duty allowance
+
+Extracted 119 people from GOLD_COAST 1911
+
+✓ Extracted 119 people from 1911
+  Format: narrative (table: 0, narrative: 119)
+
+================================================================================
+[23/58] Processing 1912: GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1912: output_3/1912_manual_parsed/GOLD_COAST.txt
+======================================================================
+People section starts at line 323
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Department: Inspector Maritime Customs, A. Smith, 400l., and 80l. duty allowance
+  Department: Post and Telegraph Department
+  Department: Medical Department
+  Department: Constabulary (Northern Territories)
+  Department: Judicial Department
+  Department: District Commissioners, J. C. Adams, R. A. G
+  Department: Assistant District Commissioners, C. W. Welman,
+  Department: Public Works Department
+  Department: Director of Public Works, P. N. H. Jones,
+  Department: Deputy Director of Public Works, F. H. Long-
+  Department: Office Assistant to Director of Public Works,
+  Settlement: Accra
+  Settlement: Cape Coast
+  Settlement: Accra
+  Settlement: Accra
+  Department: District Commissioners, Capt. E. H. Hobart, P. A. H. Pott, G. Risely Griffith, and L. H. Wheatley, 400l. and 80l. duty allowance
+  Department: Assistant District Commissioners, A. H. Ross, R. S. Rattray, A. W. Norris, 300l. to 400l
+  Department: District Commissioners, Capt. S. D. Nash, Capt. H. T. C. Wheeler, Lieut. G. W. F. Wright, Major A. H. C. Walker-Leigh, H. M. Berkeley, Col. Colin Harding, C.M.G., L. Castellain and Capt. W. Swire, 400l., and 80l. duty allowance
+  Department: Assistant District Commissioners, C. J. Elkan, M. S. Sheriff, Capt. P. H. Short, 300l. to 400l
+
+Extracted 133 people from GOLD_COAST 1912
+
+✓ Extracted 132 people from 1912
+  Format: narrative (table: 0, narrative: 132)
+
+================================================================================
+[24/58] Processing 1913: THE_GOLD_COAST.md
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1913: output_3/1913_manual_parsed/THE_GOLD_COAST.md
+======================================================================
+People section starts at line 354
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Department: Inspector Maritime Customs, A. Smith, 400l., and 80l. duty allowance
+  Department: Post and Telegraph Department
+  Department: Medical Department
+  Department: Constabulary (Northern Territories)
+  Department: Judicial Department
+  Department: District Commissioners, J. C. Adams, R. A. G. Beaven, H. J. Hobbe, J. L. Atterbury, C. H. P. Lamond, L. R. Roberts, B. Dickinson, L. W. S. Long, B. M. Taplin, 400l. to 500l. each, with duty allowance 80l
+  Department: Assistant District Commissioners, C. W. Welman, H. E. G. Bartlett, J. Phillips, G. A. E. Poole, J. A. Ballantine, R. E. Hall, W. Johnston, C. C. Brown, H. S. Newlands, A. J. Cuthfield, S. H. Carnelly, C. W. Chaloner, D. J. O'Neil, M. F. J. McDonnell, G. R. Manners, G. F. H. Moore, H. S. Wright, W. Hinson, W. R. Rainesford, P. Williams, J. R. Whitaker (supernumerary), 300l. to 400l
+  Department: Public Works Department
+  Department: Director of Public Works, P. N. H. Jones, M.Inst.C.E., 1,000l., duty allowance 200l
+  Department: Deputy Director of Public Works, F. H. Longhurst, M.Inst.C.E., 600l. to 700l., duty allowance 120l
+  Department: Office Assistant to Director of Public Works, W. Miller, 500l., duty allowance 100l
+  Settlement: Accra
+  Settlement: Cape Coast
+  Settlement: Accra
+  Settlement: Accra
+  Department: District Commissioners, H. A. Kortright, P. A. H. Pott, G. Risely Griffith, and L. H. Wheatley, 400l. to 500l., and 80l. duty allowance
+  Department: Assistant District Commissioners, A. H. Ross, R. S. Rattray, A. W. Norris, 300l. to 400l
+  Department: District Commissioners, Capt. S. D. Nash, Capt. H. T. C. Wheeler, Lieut. G. W. F. Wright, Major A. H. C. Walker-Leigh, Col. Colin Harding, C.M.G., L. Castellain and Capt. W. Swire, 400l. to 500l., and 80l. duty allowance, and H. C. Branch
+  Department: Assistant District Commissioners, C. J. Elkan, M. S. Sheriff, Capt. P. H. Short, 300l. to 400l.; Lieut. P. F. Whittall and Capt. F. J. Pye
+
+Extracted 116 people from GOLD_COAST 1913
+
+✓ Extracted 115 people from 1913
+  Format: narrative (table: 0, narrative: 115)
+
+================================================================================
+[25/58] Processing 1914: THE_GOLD_COAST.md
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1914: output_3/1914_manual_parsed/THE_GOLD_COAST.md
+======================================================================
+People section starts at line 351
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: Treasury
+  Department: Customs
+  Department: Inspector Maritime Customs, A. Smith, 400l. to 500l., and 80l. duty allowance
+  Department: Post and Telegraph Department
+  Department: * Seconded from British Post Office
+  Department: Medical Department
+  Department: Judicial Department
+  Department: District Commissioners, R. A. G. Beaven, H. J. Hobbs, J. L. Atterbury, C. H. P. Lamond, L. L. Roberte, B. Dickinson, L. W. S. Long, B. M. Taplin, H. E. G. Bartlett, 400l. to 500l. each, with duty allowance 80l
+  Department: Assistant District Commissioners, J. Phillips, G. A. E. Poole, J. A. Ballantine, R. E. Hall, H. S. Newlands, W. Johnston, S. H. Carnelly, G. F. H. Moore, G. R. Mannery, F. R. Wright, W. Hinson, W. R. Rainsford, P. Williams, J. R. Whitaker, D. B. Strathairn, E. H. Bleasall, C. E. Skene, E. A. T. Taylor, W. J. A. Jones, J. P. Ross, G. C. Heathcote, H. W. Thomas, 300l. to 400l. each
+  Department: Public Works Department
+  Department: Director of Public Works, P. N. H. Jones, M.Inst.C.E., 1,000l., duty allowance 200l
+  Department: Deputy Director of Public Works, F. H. Longhurst, M.Inst.C.E., 600l. to 700l., duty allowance 120l
+  Department: Office Assistants to Director of Public Works, W. Miller, 500l., duty allowance 100l., and one vacant
+  Settlement: Accra
+  Settlement: Accra
+  Department: District Commissioners, Captain H. A. Kortright, P. A. H. Pott, G. R. Griffith, and L. H. Wheatley, 400l. to 500l., and 80l. each duty allowance
+  Department: Assistant District Commissioners, A. H. Ross, R. S. Rattray, A. W. Norris, A. J. Cutfield, D. H. M. Boyle, and two vacancies, 300l. to 400l
+  Department: District Commissioners, Capt. H. T. C. Wheeler, Capt. S. D. Nash, Lieut. G. F. W. Wright, Major A. H. C. Walker-Leigh, L. Castellain, Capt. W. Swire, Col. C. Harding, C.M.G., and H. C. Branch, 400l. to 500l., and 80l. duty allowance
+  Department: Assistant District Commissioners, Capt. P. H. Short, D.S.O., M. G. S. Sherriff, Capt. F. J. Pye, Lieut. P. F. Whittall, and Capt. C. W. Chaloner, 300l. to 400l
+  Department: Northern Territories Constabulary
+
+Extracted 120 people from GOLD_COAST 1914
+
+✓ Extracted 120 people from 1914
+  Format: narrative (table: 0, narrative: 120)
+
+================================================================================
+[26/58] Processing 1915: THE_GOLD_COAST.md
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1915: output_3/1915_manual_parsed/THE_GOLD_COAST.md
+======================================================================
+People section starts at line 372
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: District Commissioners, R. A. G. Beaven, H. J. Hobbs, J. L. Atterbury, C. H. P. Lamond, J. L. Roberts, B. Dickinson, L. W. S. Long, B. B. M. Taplin, H. E. G. Bartlett, J. Phillips, J. A. Ballantine, H. B. Popham, 400l. to 500l. each with 80l. duty allowance
+  Department: Assistant District Commissioners, H. S. Newlands, W. Johnstone, G. F. H. Moore, G. R. Manners, W. Hinson, W. R. Rainsford, P. Williams, J. R. Whittaker, D. B. Strathairn, E. H. Bleasdale, E. A. Taylor, W. J. A. Jones, J. P. Ross, G. C. Heathcote, H. W. Thomas, C. C. Cooke, H. S. Truel, G. P. Freeman, O. K. Jones, A. S. Watt, G. W. Cattley, C. F. Smith, W. W. Kilby, C. S. Trotter, J. L. Trafford, E. J. Macquarrie, 300l. to 400l. each
+  Department: Treasury Department
+  Department: Customs Department
+  Department: Inspector of Maritime Customs, L. J. Muss, 400l. to 500l. by 20l., and 80l. duty allowance
+  Department: Post and Telegraph Department
+  Department: * Seconded from British Post Office
+  Department: Medical Department
+  Department: Judicial Department
+  Department: Public Works Department
+  Department: Director of Public Works, vacant, F. H. Longhurst, acting, 1,000l., duty allowance 200l
+  Department: Deputy Director of Public Works, F. H. Longhurst, M.Inst.C.E., 600l. to 700l., duty allowance 120l
+  Settlement: Accra
+  Settlement: Accra
+  Department: District Commissioners, Captain H. A. Kortright, P. A. H. Pott, G. R. Griffith, and L. A. Wheatley, 400l. to 500l., and 80l. each duty allowance
+  Department: Assistant District Commissioners, R. S. Rattray, A. W. Norris, A. J. Cutfield, D. H. M. Boyle, A. D. Johnstone, O. H. Warne, G. H. Wilson, A. W. Cardinall, L. W. Wood, 300l. to 400l
+  Department: District Commissioners, Capt. S. D. Nash, G. F. W. Wright, Major A. H. Walker-Leigh, L. Castellain, Col. C. Harding, C.M.G., H. C. Branch, Capt. G. A. E. Poole, 400l. to 500l., and 80l. duty allowance
+  Department: Assistant District Commissioners, Capt. P. I. Short, D.S.O., M. G. S. Sherriff, Capt. P. Pye, P. F. Whittall, E. O. Rake, and C. Murphy, 300l. to 400l
+  Department: Northern Territories Constabulary
+
+Extracted 138 people from GOLD_COAST 1915
+
+✓ Extracted 136 people from 1915
+  Format: narrative (table: 0, narrative: 136)
+
+================================================================================
+[27/58] Processing 1917: THE_GOLD_COAST.md
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1917: output_3/1917_manual_parsed/THE_GOLD_COAST.md
+======================================================================
+People section starts at line 358
+  Department: The Legislative Council is composed of the same members as the Executive Council, with the addition of the following Official Members, viz.: The Comptroller of Customs, the Director of Public Works, the General Manager of Railways, and the Commissioners of the Western, Eastern, and Central Provinces, and the following Unofficial Members nominated by the Crown, viz., Col. W. H. Grey, R.E., T. Hutton Mills, J. D. McKay, Nana Ofori Atta (Omanheve of Eastern Akim), F. Willing, Nana Amomu V. (Omanheve of Ananabu), Awame Sir II. (Fra of Awuna), E. J. P. Brown, and J. E. Casely Hayford
+  Department: Colonial Secretary's Office
+  Department: District Commissioners (28), H. A. Kortright, S. D. Nash, G. W. F. Wright, G. R. Griffith, A. H. C. Walker-Leigh, R. A. G. Beaven, L. H. Wheatley, H. J. Hobbs, J. L. Atterbury, L. Lloyd-Roberts, B. Dickinson, L. Castellain, L. W. S. Long, B. B. M. Taplin, H. C. Branch, H. E. G. Bartlett, J. J. Phillips, G. A. E. Poole, H. B. Popham, J. A. Ballantine, A. H. Ross, H. S. Newlands, A. J. Cutfield, R. S. Rattray, A. W. Norris, G. R. Mannerv, G. F. H. Moore, and one vacancy, 400l. to 500l., and duty allowance 80l. each
+  Department: Class 3. Assistant District Commissioners (40), M. G. S. Sherriff, W. Hinson, W. R. Rainsford, P. Williams, P. H. Short, D.S.O., J. R. Whitaker, P. F. Whitall, D. H. M. Boyle, D. B. Strathearn, E. H. Bleasdead, C. E. Skene, E. A. T. Taylor, W. J. A. Jones, E. T. Mansfield, J. P. Ross, G. C. Heathcote, H. W. Thomas, A. C. D. Johnstone, E. O. Hake, A. S. Watt, G. B. Freeman, O. K. Jones, G. W. Cattley, C. F. Smith, W. W. Kilby, C. D. Trotter, A. W. Cardinall, G. H. S. Wilson, J. L. Trafford, L. W. Wood, W. H. Gilliland, S. W. Saxton, A. R. Holliday, R. de B. Saunderson, P. E. Greville, D. E. Davies, R. C. Crabbe, E. J. M. Dasent, F. W. Applegate, A. F. E. Fieldgate, 300l.-400l
+  Department: Treasury Department
+  Department: Customs Department
+  Department: Inspector of Maritime Customs, L. J. Muss, 400l. to 500l. by 20l., and 80l. duty allowance
+  Department: Post and Telegraph Department
+  Department: Medical Department
+  Department: Public Works Department
+  Department: Director of Public Works, F. H. Longhurst, M.Inst.C.E., 1,000l., and 200l. duty allowance
+  Department: Deputy Director of Public Works, C. W. Pettit, M.I.Mech.E., 600l. to 700l., 120l. duty allowance, and 100l. personal allowance
+  Department: Judicial Department
+  Settlement: Accra
+  Settlement: Accra
+  Department: Northern Territories Constabulary
+
+Extracted 78 people from GOLD_COAST 1917
+
+✓ Extracted 78 people from 1917
+  Format: narrative (table: 0, narrative: 78)
+
+================================================================================
+[28/58] Processing 1918: GOLD_COAST.md
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1918: output_3/1918_manual_parsed/GOLD_COAST.md
+======================================================================
+People section starts at line 349
+  Department: The Legislative Council is composed of the same members as the Executive Council, with the addition of the following Official Members, viz.: The Comptroller of Customs, the Director of Public Works, the General Manager of Railways, and the Commissioners of the Western, Eastern, and Central Provinces, and the following Unofficial Members nominated by the Crown, viz., Major-General W. H. Grey, C.B., R.E., T. Hutton Mills, J. D. McKay, Nana Ofori Atta (Omanhene of Eastern Akim), F. Willing, Nana Amonu V. (Omanhene of Anambu), Awame Sri II. (Fia of Awuna), E. J. P. Brown, and J. E. Casey Hayford
+  Department: Colonial Secretary's Office
+  Department: District Commissioners (28), H. A. Kortright, S. D. Nash, G. W. F. Wright, G. R. Griffith, A. H. C. Walker-Leigh, R. A. G. Beaven, L. H. Wheatley, H. J. Hobbs, J. L. Atterbury, L. Lloyd-Roberts, L. Castellain, L. W. S. Long, B. B. M. Taplin, H. C. Branch, H. E. G. Bartlett, J. A. Phillipe, G. A. E. Poole, H. B. Popham, J. A. Ballantine, A. H. Ross, H. S. Newlands, A. J. Cutfield, R. S. Rattray, A. W. Norris, G. R. Manners, W. Hinson, W. J. Pitt, Capt. P. H. Short, D.S.O., W. R. Rainford, Maj. O. H. Whittall, 400l. to 500l., and duty allowance 80l. each
+  Department: Class 3. Assistant District Commissioners (40), W. R. Rainford, P. Williams, P. F. Whitall, D. H. M. Boyle, D. B. Strathairn, E. H. Bleasell, C. E. Skene, E. A. T. Taylor, W. J. A. Jones, E. T. Mansfield, J. P. Ross, G. C. Heathcote, H. W. Thomas, A. C. D. Johnston, E. O. Rake, A. S. Watt, G. B. Freeman, O. K. Jones, G. W. Cattley, C. F. Smith, W. W. Kilby, C. D. Trotter, A. W. Cardinal, G. H. S. Wilson, J. L. Trafford, L. W. Wood, W. H. Gilliland, S. W. Saxton, A. R. Holliday, D. E. Davies, E. G. M. Dasent, F. W. Applegate, A. F. E. Fieldgate, R. A. B. Hall, 300l.-400l
+  Department: Treasury Department
+  Department: Customs Department
+  Department: Inspector of Maritime Customs, L. J. Muss, 400l. to 500l. by 20l., and 80l. duty allowance
+  Department: Post and Telegraph Department
+  Department: Medical Department
+  Department: Public Works Department
+  Department: Director of Public Works, F. H. Longhurst, M.Inst.C.E., 1,000l., and 200l. duty allowance
+  Department: Deputy Director of Public Works, C. W. Pettit, M.I.Mech.E., 600l. to 700l., 120l. duty allowance, and 100l. personal allowance
+  Department: Attached Officers, Major (Temp.) C. E. Cookson, Secretariat, 400l. to 500l. duty allowance 80l.; Capt. P. H. Short, D.S.O., Political Administration, Northern Territories, 400l.; Capt. P. A. Legge, Customs, 350l. to 400l.; Capt. W. H. Dale-Glossop, N.T. Constabulary, 500l. to 600l., duty allowance 100l.; Capt. H. A. Harman, D.S.O., Education, 400l. to 500l., duty allowance 80l.; Capt. A. S. Watt, Political Administration, Colony, 300l. to 400l.; Capt. A. D. Mackenzie, Custom, 300l. to 350l.; Lieut. M. Gimson, Public Works Dept., 400l., duty allowance 80l., Engineer pay as Pioneer Coy. Subaltern 48l.; Lieut. A. C. D. Johnstone, Political Administration, Ashanti, 300l. to 400l.; Lieut. R. de B. Saunderson, Political Administration, Ashanti, 300l. to 400l.; Lieut. H. F. Blackmore, Education, 300l. to 400l.; Lieut. G. H. Packwood, Public Works Dept., 300l. to 350l.; Lieut. J. P. Robertson, Education, 400l. to 500l., duty allowance 80l.; Lieut. F. R. Westbrook, Police Dept., 300l. to 400l.; Lieut. D. B. Hindson, Treasury Dept., 400l.; Lieut. J. D. B. Cathie, 400l
+  Department: Attached B.N.C.O.’s, Colour-Sergt. J. Pratt, Public Works Dept., 250l. to 300l.; Colour-Sergt. D. H. Moore, Railways, 225l. to 275l
+  Department: Judicial Department
+  Settlement: Accra
+  Settlement: Accra
+  Department: Northern Territories Constabulary
+
+Extracted 103 people from GOLD_COAST 1918
+
+✓ Extracted 103 people from 1918
+  Format: narrative (table: 0, narrative: 103)
+
+================================================================================
+[29/58] Processing 1919: GOLD_COAST.md
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1919: output_3/1919_manual_parsed/GOLD_COAST.md
+======================================================================
+Warning: Could not find people section start
+  Department: The country is inhabited by a large number of native tribes more or less independent of each other, but with similar customs and forms of government. Each tribe has its own head chief and every town or village of the tribe a chief
+  Department: For the purposes of administration the Colony is divided into three provinces, each presided over by a Provincial Commissioner. These Provinces are further divided into districts, presided over by District Commissioners. All these Officers not only perform judicial duties as magistrates, but also are in administrative charge of their district. The districts are as follows:—
+  Department: Hitherto the forts of the various nations were intermixed with each other, and there was no defined limit as to where the influence of one or the other began or ended. The imposition of Customs duties was rendered difficult, if not impossible, by the existence of the free ports of a rival nation within a stone's throw, as it were, of the duty ports. On the 24th of January, 1850, by Letters Patent, the Settlements on the Gold Coast ceased to be dependencies of Sierra Leone, and in the same year, by the purchase of the forts and protectorate of the Danes, the Coast line from Christiansborg to Quittah and the districts of Shai, eastern and western Krobo, Akwapim, Akwamu, and Krepi, were acquired by England. By a Commission dated the 19th February, 1866, the Gold Coast Settlements were reunited to the Colony of Sierra Leone under one Governor-in-Chief. In 1867, a convention was made with the Dutch by which the portion of the Coast lying to the west of the Sweet River, which flows into the sea between Cape Coast and Elmina, was allotted to Holland, England taking all the territory to the east of the river, and a customs union between the two nations was established. The Dutch, however, found many difficulties in the way of their occupation of the forts and possessions received from the English in exchange for those of their own lying to the East of the boundary line. The native tribes refused to recognise their authority, and the prospect before them was that of a long series of petty wars with no reasonable hope of profit to be gained in the future. The result was the convention made between England and Holland in 1871, by which the Dutch transferred all their forts and possessions on the Coast to the English, and Great Britain obtained at last the sole sovereignty and control of the territory from Axim to the Volta. The forts were transferred on the 6th of April, 1872. The present extent and limits of the colony are defined in the Order in Council of 1906
+  Department: Constitution.
+  Department: By instructions dated 20th September, 1916, under Letters Patent of the same date, all previous instructions were revoked and the Executive and Legislative Councils were re-constituted. The Executive Council now consists of the Colonial Secretary, the Attorney General, the Treasurer, the Principal Medical Officer, and the Secretary for Native Affairs, with the Governor as President. The Legislative Council consists of the members of the Executive Council and, in addition, the Comptroller of Customs, the Director of Public Works, the General Manager of Railways, and the Commissioners of the Eastern, Central and Western Provinces, as ex officio members, and such unofficial members as may be appointed by the Crown. At present there are nine unofficial members, viz., three Europeans, three Paramount Chiefs, and three other members of the native community
+  Department: Law and Justice.
+  Department: Justice is administered by the Supreme Court presided over by the Chief Justice, Divisional Courts held in different parts of the colony by four puisne judges, and twenty inferior Courts with limited criminal and civil jurisdiction presided over by District Commissioners. The Supreme Court has an original civil and criminal jurisdiction, and decides appeals from the inferior courts in civil matters, while the Chief Justice has a power of revision of the decisions of the Commissioners in criminal cases. Appeals from Divisional Courts are heard by a full court
+  Department: The roads in the Colony that are maintained by the Department of Public Works are as follows:
+  Department: The British gold sovereign is the standard coin and in 1913 a special silver currency, common for all the British West African Colonies and Protectorates, was introduced, but British silver coins remain legal tender. British copper coins are also in circulation. Subsidiary nickel-bronze coins (½d., ¼d. and ½d. pieces) were introduced into the Colony, Ashanti and the Northern Territories in June, 1912, and are gradually taking the place of cowries which are still used as a medium of exchange in the Northern Territories. Gold dust was demonetised by Ordinance No. 9 of 1889. German gold and silver coins circulate in the Trans-Volta districts since the Customs Union. Accounts are kept in sterling. Imperial Treasury Notes, of the denomination of 20s., 10s. and 2s. were made legal tender by Ordinance No. 27 of 15th December, 1915. The issue of these notes, as a temporary measure, was necessitated by a shortage of silver; but they are at present being withdrawn gradually from circulation. In 1916, West African Currency Notes of the value of 20s., 10s. and 2s. were introduced experimentally and have since been made legal tender. The Bank of British West Africa, Limited, opened for business at Accra, on the 1st January, 1897, and now has branches at Cape Coast, Winnebah, Saltpond, Secondee, Tarquah, Axim, Coomassie, Koforidua, and Nsawam. The Bank is now issuing steel money boxes, called "Home Savings Banks," to encourage saving of small sums in the homes of the people
+  Department: In March, 1888, a Government savings bank was established, and had, on 31st December, 1901, a credit of £3,936l. in the names of 341 depositors. It was transferred to the Post Office in 1905. On the 31st December, 1917, there were 5,905 depositors. The deposits during 1917 amounted to £41,321l., and the amount to the credit of the depositors on the 31st December, 1917, was £7,756l
+  Department: Penny Banks in connection with the Post Office have also been established in the principal Government schools. The rate of exchange is at par
+  Department: 10. The first in value of the imports are cotton goods, with provisions second, and wines and spirits third. The imports of machinery have improved in the last few years with the advance of the mining enterprise. The majority of the imports are subject to an ad valorem duty of 12½%. Specific duties are imposed on a few articles, such as spirits, tobacco, gunpowder, etc. From October 1st, 1916, an export duty of one farthing a lb. is being levied on cocoa. The Customs receipts come to more than one-half the total revenue of the Colony
+  Department: Ashanti is inhabited by a large number of confederated tribes, the principal of which are the Bekwais, Adamsis, Kokofus, Nkwantas, Coomassies, Agunas, Mampons, Nautes, Kumawus, Bompatas, Juabins and Jius. Each tribe has its own king, but from time immemorial the King of Coomassie was recognised as the King paramount of the Confederation. As King paramount, he succeeded to what was known as the "golden stool," the ceremony of enstoolment lasting several weeks, and being observed by the performance of native customs, which in times past consisted largely in the sacrifice of slaves
+  Department: ENTERED AND
+  Department: An important step was taken with regard to the Government of this Protectorate by replacing, with effect from the 1st of January, 1907, the former semi-military administration by a staff of Civil District and Assistant District Commissioners, and by establishing new stations. Simultaneously, the 2nd Battalion of the Gold Coast Regiment has been disbanded and a force of armed constabulary substituted therefor
+  Department: Exports
+  Department: Customs receipts, 1916—1,098,858L
+  Department: Governors of the Gold Coast (since 1886).
+  Department: Executive Council.
+  Department: The Legislative Council is composed of the same members as the Executive Council, with the addition of the following Official Members, viz.: The Comptroller of Customs, the Director of Public Works, the General Manager of Railways, and the Commissioners of the Western, Eastern, and Central Provinces, and the following Unofficial Members nominated by the Crown, viz., J. D. McKay, Nana Ofori Atta, C.B.E. (Omanhene of Eastern Akim), Nana Amou V. (Omanhene of Anamabu), Togbi Sri II. (Awame Fia of Awuma), E. J. P. Brown, J. E. Casely Hayford, F. E. Talland, F. H. Dawbarn, and Dr. R. W. Quartey-Papafio
+  Department: Civil Establishment.
+  Department: Colonial Secretary's Office.
+  Department: Administrative and Political Department.
+  Department: Class 2. District Commissioners, H. A. Kortright, S. D. Nash, G. W. F. Wright, R. A. G. Beaven, L. H. Wheatley, H. J. Hobbs, J. L. Atterbury, L. Lloyd-Roberta, L. Castellain, L. W. S. Long, B. B. M. Taplin, H. C. Branch, H. E. G. Bartlett, G. A. E. Poole, H. B. Popham, M.B.E., J. A. Ballantine, A. H. Ross, H. S. Newlands, A. J. Cutfield, R. S. Rattray, M.B.E., A. W. Norris, G. R. Manners, W. Hinson, W. R. Rainsford, P. F. Whitall, P. Williams, D. B. Strathairn, E. H. Bleasdel, C. E. Skene, 400l. to 500l., and duty allowance 80l. each
+  Department: Class 3. Assistant District Commissioners, E. A. T. Taylor, W. J. A. Jones, E. T. Mansfield, J. P. Ross, G. C. Heathcote, H. W. Thomas, A. C. D. Johnstone, E. O. Rake, A. S. Watt, G. B. Freeman, O. K. Jones, C. F. Smith, W. W. Kilby, C. D. Trotter, A. W. Cardinall, W. H. S. Truell, G. H. S. Wilson, J. L. Trafford, L. W. Wood, W. H. Gilliland, S. W. Saxton, A. R. Holliday, E. G. M. Dasent, F. W. Applegate, A. F. E. Fieldgate, R. A. B. Hall, W. J. Pitt, 300l. to 400l
+  Department: Native Affairs Department.
+  Department: Mines Department.
+  Department: Treasury Department.
+  Department: Customs Department
+  Department: Inspector of Maritime Customs, A. Balstone, 400l. to 500l. by 20l., and 80l. duty allowance
+  Department: Post and Telegraph Department
+  Department: Medical Department
+  Department: Public Works Department
+  Department: Director of Public Works, E. H. D. Nicolls, A.M.I.C.E., 1,000l., and 200l. duty allowance
+  Department: Deputy Director of Public Works, C. W. Pettit, M.I.Mech.E., 600l. to 700l., 120l. duty allowance, and 100l. personal allowance
+  Department: Attached Officers, Major (Temp.) C. E. Cookson, Secretariat, 400l. to 500l. duty allowance 80l.; Capt. P. H. Short, D.S.O., Political Administration, Northern Territories, 400l.; Capt. P. A. Legge, Customs, 350l. to 400l.; Capt. W. H. Dale-Glossop, N.T. Constabulary, 500l. to 600l., duty allowance 100l.; Capt. H. A. Harman, D.S.O., Education, 400l. to 500l., duty allowance 80l.; Capt. A. S. Watt, Political Administration, Colony, 300l. to 400l.; Capt. A. D. Mackenzie, Custom, 300l. to 350l.; Lieut. M. Gimson, Public Works Dept., 400l., duty allowance 80l.; Engineer pay as Pioneer Coy. Subaltern 48l.; Lieut. A. C. D. Johnstone, Political Administration, Ashanti, 300l. to 400l.; Lieut. R. de B. Saunderson, Political Administration, Ashanti, 300l. to 400l.; Lieut. H. F. Blackmore, Education, 300l. to 400l.; Lieut. G. H. Packwood, Public Works Dept., 300l. to 350l.; Lieut. J. P. Robertson, Education, 400l. to 500l., duty allowance 80l.; Lieut. F. R. Westbrook, Police Dept., 300l. to 400l.; Lieut. D. B. Hindson, Treasury Dept., 400l.; Lieut. J. D. B. Cathie, 400l
+  Department: Attached B.N.C.O.’s, Colour-Sergt. J. Pratt, Public Works Dept., 250l. to 300l.; Colour-Sergt. D. H. Moore, Railways, 225l. to 275l
+  Department: Judicial Department
+  Settlement: Accra
+  Settlement: Accra
+  Department: Northern Territories Constabulary
+
+Extracted 99 people from GOLD_COAST 1919
+
+✓ Extracted 99 people from 1919
+  Format: narrative (table: 0, narrative: 99)
+
+================================================================================
+[30/58] Processing 1920: GOLD_COAST.md
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1920: output_3/1920_manual_parsed/GOLD_COAST.md
+======================================================================
+Warning: Could not find people section start
+  Department: The country is inhabited by a large number of native tribes more or less independent of each other, but with similar customs and forms of government. Each tribe has its own head chief and every town or village of the tribe a chief
+  Department: For the purposes of administration the Colony is divided into three provinces, each presided over by a Provincial Commissioner. These Provinces are further divided into districts, presided over by District Commissioners. All these Officers not only perform judicial duties as magistrates, but also are in administrative charge of their district. The districts are as follows:—
+  Department: Hitherto the forts of the various nations were intermixed with each other, and there was no defined limit as to where the influence of one or the other began or ended. The imposition of Customs duties was rendered difficult, if not impossible, by the existence of the free ports of a rival nation within a stone's throw, as it were, of the duty ports. On the 24th of January, 1850, by Letters Patent, the Settlements on the Gold Coast ceased to be dependencies of Sierra Leone, and in the same year, by the purchase of the forts and protectorate of the Danes, the Coast line from Christiansborg to Quittah and the districts of Shai, eastern and western Krobo, Akwapim, Akwamu, and Krepi, were acquired by England. By a Commission dated the 19th February, 1866, the Gold Coast Settlements were reunited to the Colony of Sierra Leone under one Governor-in-Chief. In 1867, a convention was made with the Dutch by which the portion of the Coast lying to the west of the Sweet River, which flows into the sea between Cape Coast and Elmina, was allotted to Holland, England taking all the territory to the east of the river, and a customs union between the two nations was established. The Dutch, however, found many difficulties in the way of their occupation of the forts and possessions received from the English in exchange for those of their own lying to the East of the boundary line. The native tribes refused to recognise their authority, and the prospect before them was that of a long series of petty wars with no reasonable hope of profit to be gained in the future. The result was the convention made between England and Holland in 1871, by which the Dutch transferred all their forts and possessions on the Coast to the English, and Great Britain obtained at last the sole sovereignty and control of the territory from Axim to the Volta. The forts were transferred on the 6th of April, 1872. The present extent and limits of the colony are defined in the Order in Council of 1906
+  Department: By instructions dated 20th September, 1916, under Letters Patent of the same date, all previous instructions were revoked and the Executive and Legislative Councils were reconstituted. The Executive Council now consists of the Colonial Secretary, the Attorney General, the Treasurer, the Principal Medical Officer, and the Secretary for Native Affairs, with the Governor as President. The Legislative Council consists of the members of the Executive Council and, in addition, the Comptroller of Customs, the Director of Public Works, the General Manager of Railways, and the Commissioners of the Eastern, Central and Western Provinces, as ex officio members, and such unofficial members as may be appointed by the Crown. At present there are nine unofficial members, viz., three European, three Paramount Chiefs, and three other members of the native community
+  Department: Justice is administered by the Supreme Court presided over by the Chief Justice, Divisional Courts held in different parts of the colony by four puisne judges, and twenty inferior Courts with limited criminal and civil jurisdiction presided over by District Commissioners. The Supreme Court has an original civil and criminal jurisdiction, and decides appeals from the inferior courts in civil matters, while the Chief Justice has a power of revision of the decisions of the Commissioners in criminal cases. Appeals from Divisional Courts are heard by a full court
+  Department: The roads in the Colony that are maintained by the Department of Public Works are as follows:
+  Department: There are telephone exchanges at Accra, Secondee and Tarquah, and trunk telephone lines connect Accra with the Post Offices at Nsawam, Mangoase and Koforidua, also between Addah and Akuse, Quittah and Lome in Togoland
+  Department: Education.
+  Department: The British gold sovereign is the standard coin and in 1913 a special silver currency, common for all the British West African Colonies and Protectorates, was introduced, but British silver coins remain legal tender. Owing to the rapid disappearance of silver coins, it is intended to introduce coins of mixed metal and lower intrinsic value. British copper coins are also in circulation. Subsidiary nickel-bronze coins (½d., ¼d. and ½d. pieces) were introduced into the Colony, Ashanti and the Northern Territories in June, 1912, and are gradually taking the place of cowries which are still used as a medium of exchange in the Northern Territories. Gold dust was demonetised by Ordinance No. 9 of 1889. Accounts are kept in sterling. Imperial Treasury Notes, of the denomination of 20s. and 10s. were made legal tender by Ordinance No. 27 of 15th December, 1915. In 1916, West African Currency Notes of the value of 20s., 10s. and 2s., and subsequently £5 and 5s., were introduced and have been made legal tender. The Bank of British West Africa, Limited, opened for business at Accra on the 1st January, 1897, and now has branches at Cape Coast, Winnebah, Saltpond, Secondee, Targuah, Axim, Coomassie, Bekwai, Koforidua, and Nsawam. The Bank is now issuing steel money boxes, called “Home Savings Banks,” to encourage saving of small sums in the homes of the people
+  Department: In March, 1888, a Government savings bank was established, and had, on 31st December, 1901, a credit of 3,936l. in the names of 341 depositors. It was transferred to the Post Office in 1905. On the 31st December, 1918, there were 5,816 depositors. The deposits during 1918 amounted to 27,031l. and the amount to the credit of the depositors on the 31st December, 1918, was 52,114l
+  Department: Penny Banks in connection with the Post Office have also been established in the principal Government schools. The rate of exchange is at par
+  Department: 10. The first in value of the imports are cotton goods, followed by machinery, soap, hardware and building materials. The imports of machinery have improved in the last few years with the advance of the mining enterprise. The majority of the imports are subject to an ad valorem duty of 20%. Specific duties are imposed on a few articles, such as spirits, tobacco, gunpowder, etc. The Customs receipts come to more than one-half the total revenue of the Colony
+  Department: Ashanti is inhabited by a large number of confederated tribes, the principal of which are the Bekwaias, Adamis, Kokofus, Nkwantsees, Coomassies, Agunas, Mampons, Nautas, Kumawus, Bompatas, Juabins and Jissus. Each tribe has its own king, but from time immemorial the King of Coomassie was recognised as the King paramount of the Confederation. As King paramount, he succeeded to what was known as the "golden stool," the ceremony of enstoolment lasting several weeks, and being observed by the performance of native customs, which in times past consisted largely in the sacrifice of slaves
+  Department: An important step was taken with regard to the Government of this Protectorate by replacing, with effect from the 1st of January, 1907, the former semi-military administration by a staff of Civil District and Assistant District Commissioners, and by establishing new stations. Simultaneously, the 2nd Battalion of the Gold Coast Regiment has been disbanded and a force of armed constabulary substituted therefor
+
+Extracted 0 people from GOLD_COAST 1920
+
+✓ Extracted 0 people from 1920
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[31/58] Processing 1921: the_gold_coast.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1921: output_3/1921_manual_parsed/the_gold_coast.txt
+======================================================================
+Warning: Could not find people section start
+  Department: The country is inhabited by a large number of native tribes more or less independent of each other, but with similar customs and forms of government. Each tribe has its own head chief and every town or village of the tribe a chief
+  Department: For the purposes of administration the Colony is divided into three provinces, each presided over by a Provincial Commissioner. These Provinces are further divided into districts, presided over by District Commissioners. All these Officers not only perform judicial duties as magistrates, but also are in administrative charge of their district. The districts are as follows:—
+  Department: Hitherto the forts of the various nations were intermixed with each other, and there was no defined limit as to where the influence of one or the other began or ended. The imposition of Customs duties was rendered difficult, if not impossible, by the existence of the free ports of a rival nation within a stone's throw, as it were, of the duty ports. On the 24th of January, 1850, by Letters Patent, the Settlements on the Gold Coast ceased to be dependencies of Sierra Leone, and in the same year, by the purchase of the forts and protectorate of the Danes, the Coast line from Christiansborg to Quittah and the districts of Shai, eastern and western Krobo, Akwapim, Akwamu, and Krepi, were acquired by England. By a Commission dated the 19th February, 1866, the Gold Coast Settlements were reunited to the Colony of Sierra Leone under one Governor-in-Chief. In 1867, a convention was made with the Dutch by which the portion of the Coast lying to the west of the Sweet River, which flows into the sea between Cape Coast and Elmina, was allotted to Holland, England taking all the territory to the east of the river, and a customs union between the two nations was established. The Dutch, however, found many difficulties in the way of their occupation of the forts and possessions received from the English in exchange for those of their own lying to the East of the boundary line. The native tribes refused to recognise their authority, and the prospect before them was that of a long series of petty wars with no reasonable hope of profit to be gained in the future. The result was the convention made between England and Holland in 1871, by which the Dutch transferred all their forts and possessions on the Coast to the English, and Great Britain obtained at last the sole sovereignty and control of the territory from Axim to the Volta. The forts were transferred on the 6th of April, 1872. The present extent and limits of the colony are defined in the Order in Council of 1906
+  Department: By instructions dated 20th September, 1916, under Letters Patent of the same date, all previous instructions were revoked and the Executive and Legislative Councils were re-constituted. The Executive Council now consists of the Colonial Secretary, the Attorney General, the Treasurer, the Principal Medical Officer, and the Secretary for Native Affairs, with the Governor as President. The Legislative Council consists of the members of the Executive Council and, in addition, the Comptroller of Customs, the Director of Public Works, the General Manager of Railways, and the Commissioners of the Eastern, Central and Western Provinces, as ex officio members, and such unofficial members as may be appointed by the Crown. At present there are nine unofficial members, viz., three European, three Paramount Chiefs, and three other members of the native community
+  Department: Justice is administered by the Supreme Court presided over by the Chief Justice, Divisional Courts held in different parts of the colony by four puisne judges, and twenty inferior Courts with limited criminal and civil jurisdiction presided over by District Commissioners. The Supreme Court has an original civil and criminal jurisdiction, and decides appeals from the inferior courts in civil matters, while the Chief Justice has a power of revision of the decisions of the Commissioners in criminal cases. Appeals from Divisional Courts are heard by a full court
+  Department: The roads maintained by the Department of Public Works are:
+  Department: There are telephone exchanges at Accra, Secondee and Tarquah, and trunk telephone lines connect Accra with the Post Offices at Nsawam, Mangoase and Koforidua, also between Adadah and Akuse, Quittah and Lome in Togoland
+  Department: Prior to 1912 and 1913 the currency consisted chiefly of British gold (comparatively rare), silver and copper. In 1912, subsidiary nickel-bronze coins (½d., ¼d., and ⅛d. pieces) were introduced, and in 1913 a special silver currency common to all the British West African Colonies. The coins so far issued are 2s., 1s., 6d. and 3d. pieces. These are of the same weight and fineness as the corresponding British coins. Owing to the great increase in the demand for currency and the difficulties in obtaining adequate supplies, it was found necessary in 1915 to make British Treasury Notes of the denominations of 20s. and 10s. legal tender, and in 1916 special West African Currency Notes were introduced, the following values being now in circulation, viz.: 5s., 20s., 10s., 2s., and 1s
+  Department: In 1920, owing to the rapid disappearance of silver coins, an alloy coinage was introduced of the same denominations as the silver coins. The special West Africa silver and alloy currency and the West African Currency Notes are under the management of the West African Currency Board and are secured by sterling securities held by the Board. Current British gold and silver coins, British 20s. and 10s. Treasury Notes, West Africa Currency silver and alloy coins, West African Currency Notes, and West Africa nickel-bronze coins are all legal tender, as well as certain foreign gold coins, which are, however, seldom if ever met with
+  Department: The Colonial Bank began business at Accra in 1917, and branches have now been opened at other centres. Both Banks have a savings department. In 1888, a Government Savings Bank was established which is now under Post Office management. On 31st December, 1919, the amount to the credit of depositors was £4,437l
+  Department: The first in value of the imports are cotton goods, followed by machinery, soap, hardware and building materials. The imports of machinery have improved in the last few years with the advance of the mining enterprise. The majority of the imports are subject to an ad valorem duty of 20%. Specific duties are imposed on a few articles, such as spirits, tobacco, gunpowder, etc. The Customs receipts come to more than one-half the total revenue of the Colony
+  Department: Ashanti is inhabited by a large number of confederated tribes, the principal of which are the Bekwai, Adamsis, Kokofus, Nkwantas, Coomassies, Agunas, Mampons, Nautas, Kunawus, Bompatas, Jusbins and Jiasu. Each tribe has its own king, but from time immemorial the King of Coomassie was recognised as the King paramount of the Confederation. As King paramount, he succeeded to what was known as the "golden stool," the ceremony of enthronement lasting several weeks, and being observed by the performance of native customs, which in times past consisted largely in the sacrifice of slaves
+  Department: An important step was taken with regard to the Government of this Protectorate by replacing, with effect from the 1st of January, 1907, the former semi-military administration by a staff of Civil District and Assistant District Commissioners, and by establishing new stations. Simultaneously, the 2nd Battalion of the Gold Coast Regiment has been disbanded and a force of armed constabulary substituted therefor
+
+Extracted 0 people from GOLD_COAST 1921
+
+✓ Extracted 0 people from 1921
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[32/58] Processing 1922: GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1922: output_3/1922_manual_parsed/GOLD_COAST.txt
+======================================================================
+People section starts at line 413
+  Department: The Legislative Council is composed of the same members as the Executive Council, with the addition of the following Official Members, viz.: The Comptroller of Customs, the Director of Public Works, the General Manager of Railways, and the Commissioners of the Western, Eastern, and Central Provinces, and the following Unofficial Members nominated by the Crown, viz., J. D. McKay, Nana Ofori Atta, C.B.E. (Omanhene of Eastern Akim), Nana Essendoh III. (Omanhene of Nkusukum), E. Male Kole (Konor of Manya Krobo), E. J. P. Brown, J. E. Casely Hayford, F. E. Talland, T. Whitheld, and Dr. B. W. Quartery-Papafo
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: District Commissioners, and Assistant District Commissioners, H. S. Newlands (Deputy Provincial Commissioner designate), Capt. B. B. M. Taplin, Capt. A. W. Norris, G. R. Manners, Capt. W. Hinson, W. R. Rainsford, E. H. Bleasdale, C. E. Skene, W. J. A. Jones, Capt. E. T. Mansfield, H. W. Thomas, A. C. D. Johnstone, E. O. Rake, Capt. A. S. Watt, G. B. Freeman, O. K. Jones, C. Furness-Smith, W. W. Kilby, C. D. Trotter, A. W. Cardinal, G. H. S. Wilson, J. L. Trafford, Paymaster Lt.-Comdr. S. W. Saxton, R. B. Crabbe, E. G. M. Dascoe, F. W. Applegate, A. F. E. Fieldgate, R. A. B. Hall, W. J. Pitt, A. H. B. Clark, M.C., W. E. Gilbert, M.C., C. E. E. Cockey, Lieut. A. F. L. Wilkinson, R.N.V.R., Capt. C. St. B. Shields, Major S. B. Jones, Capt. W. Price-Jones, M.C., L. W. Judd, T. R. O. Mangin, R.N.V.R., Capt. J. H. West, G. C. B. Parish, Capt. J. C. Warrington, E. E. Corser, Capt. A. P. C. Rees, J. L. Wright, G. M. D. Noble, Capt. V. J. Lynch, A. J. Walker, Capt. R. J. Ramsay, Major C. J. G. Cumine, D.S.O., Capt. R. C. Sumner, Major H. S. Collins, Capt. C. C. Lilley, Lt.-Col. G. H. Gibbs, Major W. R. Gosling, O.B.E., Paymaster Lieut. G. P. Bewes, R. C. S. Bowker, Capt. J. M. F. Cope, Capt. O. F. Ross, M. J. Blood-Smyth, C. H. Asphar, E. A. Burner, Capt. R. J. F. H. Charlier, J. H. Dickinson, Major C. A. Wallace, C. S. Masser, O. C. Butler, H. R. Harding, Sub-Lieut. B. Granville, R.N., Major J. S. R. Robertson, St. J. R. E. Smith, M.C., Capt. D. C. Mudie, Capt. J. V. W. Shaw, G. O. Parker, G. M. Puckridge, G. A. La Mothe, P. D. Lievre, G. Hall, B. D. Austin-Cathie, N. E. MacLeod, F. P. Holtsbaum, P. W. Rutherford, R. W. Sanderson, 500l., 570l. by 30l. to 720l. by 40l. to 960l., plus 72l. seniority allowance from 720l
+  Department: Judicial Department
+  Department: Printing Office
+  Department: Treasury Department
+  Department: Customs Department
+  Department: Medical Department
+  Department: Public Works Department
+  Department: Director of Public Works, E. H. D. Nicolls, O.B.E., A.M.I.C.E., F.R. Met. Soc., 1,500l., and 300l. duty allowance
+  Department: Deputy Director of Public Works, J. D. Sharman, M.I.M.E., 1,200l., and 240l. duty allowance
+  Department: Assistant Directors of Public Works, W. Miller and E. P. Brown, each at 960l., and 96l. duty allowance
+  Settlement: Accra
+  Department: Northern Territories Constabulary
+
+Extracted 126 people from GOLD_COAST 1922
+
+✓ Extracted 126 people from 1922
+  Format: narrative (table: 0, narrative: 126)
+
+================================================================================
+[33/58] Processing 1923: gold_coast.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1923: output_3/1923_manual_parsed/gold_coast.txt
+======================================================================
+People section starts at line 435
+  Department: The Legislative Council is composed of the same members as the Executive Council, with the addition of the following Official Members, viz.: The Comptroller of Customs, the Director of Public Works, the General Manager of Railways, and the Commissioners of the Western, Eastern, and Central Provinces, and the following Unofficial Members nominated by the Crown, viz., J. D. McKay, Nana Ofori Atta, C.B.E. (Omanhene of Eastern Akim), Nana Essandoh III. (Omanhene of Nkusukum), E. Mate Kole (Konor of Manya Krobo), E. J. P. Brown, O.B.E., J. E. Casely Hayford, M.B.E., F. E. Talland, T. Whitfield, and Dr. B. W. Quartey-Papafio
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: District Commissioners, and Assistant District Commissioners, Capt. A. W. Norris, G. R. Manners, Capt. W. Hinson, W. R. Rainford, Lt.-Col. P. F. Whittall, D.S.O., E. H. Bleasell, C. E. Skene, W. J. A. Jones, Capt. E. T. Mansfield, H. W. Thomas, A. C. D. Johnston, E. O. Rake, Capt. A. S. Watt, G. B. Freeman, O. K. Jones, C. Furness-Smith, W. W. Kilby, C. D. Trotter, A. W. Cardinal, H. G. Sumner-Wilson, Paymaster Lt.-Comdr. S. W. Saxton, E. G. M. Daentz, F. W. Applegate, A. F. E. Fieldgate, R. A. Brace-Hall, W. J. Pitt, W. E. Gilbert, M.C., C. E. E. Cockey, Lieut. A. F. L. Wilkinson, R.N.V.R., Capt. C. St. B. Shields, Major S. B. Jones, Capt. W. Price-Jones, M.C., L. W. Judd, T. R. O. Mangin, R.N.V.R., Capt. J. H. West, Capt. G. C. B. Parish, Capt. J. C. Warrington, E. E. Corser, Capt. A. P. C. Rees, Capt. V. J. Lynch, A. J. Walker, Capt. R. J. Ramsay, Major C. J. G. G. Cumine, D.S.O., Capt. R. C. Sumner, Major H. S. Collins, Capt. C. C. Lilley, Lt.-Col. G. H. Gibbs, Major W. R. Gosling, O.B.E., Paymaster Lieut. G. P. Bewes, R. C. S. Bowker, Capt. O. F. Ross, E. A. Burner, Capt. A. J. F. M. Charlier, J. R. Dickinson, Major C. A. Wallace, C. S. Masser, C. O. Butler, Sub-Lieut. B. Granville, R.N., Major J. S. R. Robertson, Capt. St. J. R. Eyre-Smith, M.C., Capt. J. V. W. Shaw, G. O. Parker, G. M. Puckridge, G. A. La Mothe, P. D. Le Lievre, G. Hall, B. D. Austin-Cathie, Capt. H. P. Dixon, F. P. Holtzbaum, P. W. Rutherford, R. W. Sanderson, Major P. C. R. Moreton, D.S.O., J. E. Miller, R. E. Page, 500l., 720l. by 30l. to 720l. by 40l. to 960l., plus 72l. seniority allowance from 720l
+  Department: Judicial Department
+  Department: Printing Office
+  Department: Treasury Department
+  Department: Customs Department
+  Settlement: Secondee
+  Department: Medical Department
+  Settlement: Accra
+  Settlement: Accra
+  Department: Public Works Department
+  Department: Director of Public Works, E. H. D. Nicolls, O.B.E., A.M.I.C.E., F.R. Met. Soc., 1,500l., and 300l. duty allowance
+  Department: Deputy Director of Public Works, J. D. Sharman, M.I.Mun.E., 1,200l., and 240l. duty allowance
+  Department: Assistant Director of Public Works, E. P. Brown, 960l., and 96l. duty allowance
+  Settlement: Accra
+  Department: Northern Territories Constabulary
+  Settlement: Accra
+
+Extracted 156 people from GOLD_COAST 1923
+
+✓ Extracted 155 people from 1923
+  Format: narrative (table: 0, narrative: 155)
+
+================================================================================
+[34/58] Processing 1924: GOLD_COAST.md
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1924: output_3/1924_manual_parsed/GOLD_COAST.md
+======================================================================
+People section starts at line 411
+  Department: The Legislative Council is composed of the same members as the Executive Council, with the addition of the following Official Members, viz.: The Comptroller of Customs, the Director of Public Works, the General Manager of Railways, and the Commissioners of the Western, Eastern, and Central Provinces, and the following Unofficial Members nominated by the Crown, viz., J. D. McKay, Nana Ofori Atta, C.B.E. (Omanhene of Eastern Akim), Nana Essandoh III. (Omanhene of Nkukum), E. Mate Kole (Konor of Manya Krobo), E. J. P. Brown, O.B.E., J. E. Casey Hayford, M.B.E., F. E. Talland, T. Whitfield, and Dr. B. W. Quartey-Papafio, O.B.E
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: District Commissioners, and Assistant District Commissioners, R. A. G. Beaven, G. R. Manners, Capt. W. Hinson, W. R. Rainsford, Lt.-Col. P. F. Whittall, D.S.O., C. E. Skene, W. J. A. Jones, Capt. E. T. Mansfield, H. W. Thomas, A. C. D. Johnstone, E. O. Rake, Capt. A. S. Watt, G. B. Freeman, O. K. Jones, C. Furness-Smith, W. W. Kilby, A. W. Cardinall, H. G. Sumner-Wilson, Paymaster Lt.-Comdr. S. W. Saxton, R.N. (retired), E. G. M. Dasent, F. W. Applegate, A. F. E. Fieldgate, R. A. Brace Hall, W. J. Pitt, W. E. Gilbert, M.C., C. E. E. Coekey, A. F. L. Wilkinson, C. St. B. Shields, Major S. B. Jones, Capt. W. Price-Jones, M.C., L. W. Judd, T. R. O. Mangin, Capt. J. H. West, Capt. G. C. B. Parish, Capt. J. C. Warrington, E. E. Corser, Capt. A. P. C. Rees, Capt. V. J. Lynch, A. J. Walker, Capt. R. J. Ramsay, Major C. J. G. G. Cumine, D.S.O., Capt. R. C. Sumner, Capt. C. C. Lilley, Lt.-Col. G. H. Gibbs, Major W. R. Gosling, O.B.E., Paymaster Lieut. G. P. Bewes, Capt. O. F. Ross, M. J. Blood-Smyth, E. A. Burner, Capt. A. J. F. M. Charlier, J. R. Dickinson, Major C. A. Wallace, C. S. Masser, C. O. Butler, Major J. S. R. Robertson, Capt. St. J. R. Eyre-Smith, M.C., Capt. J. V. W. Shaw, G. O. Parker, G. M. Puckridge, G. A. La Mothe, P. D. Le Lievre, G. Hall, B. D. A. Cathie, Capt. H. P. Dixon, F. P. Holtzbaum, P. W. Rutherford, R. W. Sanderson, Major P. C. R. Moreton, D.S.O., J. E. Miller, R. E. Page, Scale B
+  Department: Judicial Department
+  Department: Printing Office
+  Department: Treasury Department
+  Department: Customs Department
+  Settlement: Secondee
+  Department: Medical Department
+  Settlement: Accra
+  Settlement: Accra
+  Department: Public Works Department
+  Department: Director of Public Works, E. H. D. Nicolls, O.B.E., A.M.I.C.E., F.R.Met.Soc., 1,500l., and 300l. duty allowance
+  Department: Deputy Director of Public Works, J. D. Sharman, M.I.Mun.E., 1,200l., and 240l. duty allowance
+  Department: Assistant Director of Public Works, E. P. Brown, 960l., and 96l. duty allowance
+  Department: Northern Territories Constabulary
+
+Extracted 87 people from GOLD_COAST 1924
+
+✓ Extracted 87 people from 1924
+  Format: narrative (table: 0, narrative: 87)
+
+================================================================================
+[35/58] Processing 1925: THE_GOLD_COAST_COLONY.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1925: output_3/1925_manual_parsed/THE_GOLD_COAST_COLONY.txt
+======================================================================
+Warning: Could not find people section start
+  Department: The Colony is inhabited by a large number of native tribes, whose customs and forms of government are of a more or less similar character. Each tribe has its own head chief and every town or village of the tribe a chief or headman
+  Department: For the purposes of administration the Colony is divided into three provinces, each presided over by a Provincial Commissioner. These Provinces are further divided into districts, presided over by District Commissioners. Most of these Officers perform judicial duties as magistrates in addition to being in administrative charge of their districts. The districts are as follows:
+  Department: Hitherto the forts of the various nations were intermixed with each other, and there was no defined limit as to where the influence of one or the other began or ended. The imposition of Customs duties was rendered difficult, if not impossible, by the existence of the free ports of a rival nation
+  Department: within a stone's throw, as it were, of the duty ports. On the 24th of January, 1850, by Letters Patent, the Settlements on the Gold Coast ceased to be dependencies of Sierra Leone, and in the same year, by the purchase of the forts and protectorate of the Danes, the Coast line from Christiansborg to Quittah and the districts of Shai, eastern and western Krobo, Akwapim, Akwamu, and Krepi, were acquired by England. By a Commission dated the 19th February, 1866, the Gold Coast Settlements were reunited to the Colony of Sierra Leone under one Governor-in-Chief. In 1867, a convention was made with the Dutch by which the portion of the Coast lying to the west of the Sweet River, which flows into the sea between Cape Coast and Elmina, was allotted to Holland, England taking all the territory to the east of the river, and a customs union between the two nations was established. The Dutch, however, found many difficulties in the way of their occupation of the forts and possessions received from the English in exchange for those of their own lying to the East of the boundary line. The native tribes refused to recognise their authority, and the prospect before them was that of a long series of petty wars with no reasonable hope of profit to be gained in the future. The result was the convention made between England and Holland in 1871, by which the Dutch transferred all their forts and possessions on the Coast to the English, and Great Britain obtained at last the sole sovereignty and control of the territory from Half-Assinie to Aflao. The forts were transferred on the 6th of April, 1872. The present extent and limits of the colony are defined in the Order in Council of 1906
+  Department: Constitution.
+  Department: By Royal Instructions dated 20th September, 1916, under Letters Patent of the same date, all previous Instructions were revoked and the Executive and Legislative Councils were re-constituted. The Executive Council now consists of the Colonial Secretary, the Attorney General, the Treasurer, the Director of Medical and Sanitary Services, and the Secretary for Native Affairs, with the Governor as President. The Legislative Council consists of the members of the Executive Council and, in addition, the Comptroller of Customs, the Director of Public Works, the General Manager of Railways, and the Commissioners of the Eastern, Central and Western Provinces, as ex officio members, and such unofficial members as may be appointed by the Crown. At present there are nine unofficial members, viz., three European, three Paramount Chiefs, and three other members of the native community
+  Department: Municipal Government.
+  Department: Law and Justice.
+  Department: Justice is administered by the Supreme Court presided over by the Chief Justice, Divisional Courts held in different parts of the colony by five puisne judges, and some twenty-five inferior Courts with limited criminal and civil jurisdiction, of which four are presided over by Police Magistrates and the remainder by District Commissioners. The Supreme Court has an original civil and criminal jurisdiction, and decides appeals from the inferior courts in civil matters, while the Chief Justice and judges in their respective provinces have powers of revision of the decisions of the Magistrates and Commissioners in criminal cases. Appeals from Divisional Courts are heard by a full court
+  Department: There is an appeal from Native Tribunals to the District Commissioner's Court, but where the title to land is in dispute a District Commissioner's Court is presided over by a Provincial Commissioner
+  Department: Prisons.
+  Department: Climate.
+  Department: In 1921, the railway revenue was 706,107£, and the working expenditure 455,249£. The total number of miles open for traffic at the end of 1921 was 302, and the capital cost 6,061,192£. 1,268 miles of roads are maintained by the Department of Public Works:—
+  Department: There are 49 post offices and 119 postal agencies, the distribution being effected principally by rail and motor. When this is impossible a runner service is employed. The rate for letter (1 oz.) within the Empire is 1d., to the United States of America, 1½d., elsewhere, 3d
+  Department: Further opportunity of becoming proficient in wood and metal working is provided by the Public Works Department in whose new workshops, opened in 1923, up-to-date machinery has been installed
+  Department: A limited number of pupils are taught masonry. The pupils at this school are paid apprentices and are under bond to complete the course of instruction at the school for three years and afterwards to serve in the Public Works Department for a period of two years, if required
+  Department: Prior to 1912 and 1913 the currency consisted chiefly of British gold (comparatively rare), silver and copper. In 1912, subsidiary nickel-bronze coins (½d., ¼d. and ⅛d. pieces) were introduced, and in 1913 a special silver currency common to all the British West African Colonies of the same weight and fineness as the corresponding British coins. The coins so far issued are 2s., 1s., 6d. and 3d. pieces. Owing to the great increase in the demand for currency and the difficulties in obtaining adequate supplies, it was found necessary in 1915 to make British Treasury Notes legal tender, and in 1916 special West African Currency Notes were introduced. 20s. and 10s. Notes are the only values now in circulation, ½s., 2s. and 1s. Notes having been withdrawn. In 1920, owing to the rapid disappearance of silver coins, an alloy coinage was introduced of the same denominations as the silver coins and silver has now practically been withdrawn from circulation. The special West Africa silver and alloy currency and the West African Currency Notes are under the management of the West African Currency Board and are secured by sterling securities held by the Board. Current British gold and silver coins, British 20s. and 10s. Treasury Notes, West Africa Currency silver and alloy coins, West African Currency Notes, and West Africa nickel-bronze coins are all legal tender
+  Department: The Colonial Bank began business at Accra in 1917, and branches have now been opened at other centres. Both Banks have a savings department. In 1888, a Government Savings Bank was established which is now under Post Office management. On 31st March, 1923, the amount to the credit of depositors was £5,284l
+  Department: Ashanti is now divided into two provinces, the Eastern with headquarters at Kumasi and the Western with headquarters at Sunyani. Each of these is subdivided into districts under a District Commissioner who exercises limited jurisdiction; as does also a Police Magistrate in the town of Kumasi
+  Department: An important step was taken with regard to the Government of this Protectorate by replacing, with effect from the 1st of January, 1907, the former semi-military administration by a staff of Civil District and Assistant District Commissioners, and by establishing new stations. Simultaneously, the 2nd Battalion of the Gold Coast Regiment was disbanded, and a force of armed constabulary substituted therefor
+
+Extracted 0 people from GOLD_COAST 1925
+
+✓ Extracted 0 people from 1925
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[36/58] Processing 1927: GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1927: output_3/1927_manual_parsed/GOLD_COAST.txt
+======================================================================
+People section starts at line 427
+  Department: The Comptroller of Customs
+  Department: The Director of Public Works
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: District Commissioners, and Assistant District Commissioners, G. R. Manners, W. R. Rainesford, Lt.-Col. P. F. Whitall, D.S.O., C. R. Skene, Capt. E. T. Mansfield, E. O. Rake, Capt. A. S. Watt, G. B. Freeman, W. W. Kilby, A. W. Cardinal, H. G. Sumner-Wilson, Paymaster Lt.-Comdr. S. W. Saxton, R.N. (retired), F. W. Applegate, A. F. E. Fieldgate, W. J. Pitt, W. E. Gilbert, M.C., C. E. E. Cockey, A. F. L. Wilkinson, C. St. B. Shields, Major S. B. Jones, Capt. W. Price-Jones, M.C., L. W. Judd, T. R. O. Mangin, Capt. J. H. West, Capt. J. C. Warrington, Capt. V. J. Lynch, A. J. Walker, Capt. R. J. Ramsey, Major C. J. G. Cumine, D.S.O., Capt. R. C. Sumner, Capt. C. C. Lilley, Lt.-Col. G. H. Gibb, Major W. R. Gosling, O.B.E., Paymaster Lieut. G. P. Bewes, Capt. O. F. Ross, E. A. Burner, J. R. Dickinson, C. S. Masser, C. O. Butler, Major J. S. R. Robertson, Capt. St. J. R. Eyre Smith, M.C., Capt. J. V. W. Shaw, G. O. Parker, G. M. Puckridge, G. Hall, R. A. Brace Hall, B. D. Austin-Cathie, Capt. H. P. Dixon, F. P. Holtzbaum, P. W. Rutherford, M.C., R. W. Sanderson, Major P. C. R. Moreton, D.S.O., J. E. Miller, R. E. Page, Capt. E. F. Burn, O.B.E., O. J. Collison, M.C., G. E. C. Wisdom, D. R. Caruth, Capt. A. J. Armstrong, D. R. Daltry, Lt.-Col. A. D. Cameron, D.S.O., M.C., Capt. G. Blackburne-Kane, G. D. Chamberlain, J. H. G. Way, E. N. Jones, Capt. H. G. Ardron, A. H. Williams, F. Drake-Brockman, J. P. W. Everesh, Capt. B. W. Bratton, W. H. Beeton, M. S. Walker, Scale B
+  Department: Judicial Department
+  Department: Printing Office
+  Department: Treasury Department
+  Department: Customs Department
+  Department: Medical Department
+  Settlement: Accra
+  Department: Northern Territories Constabulary
+  Department: Public Works Department
+  Department: Director of Public Works, E. H. D. Nicolls, O.B.E., A.M.I.C.E., F. R. Met. Soc., 1,500l., plus 300l. duty allowance
+  Department: Deputy Director of Public Works, J. D. Sharman, M.I.Mun.& Cy.E., 1,200l., plus 240l. duty allowance
+  Department: 2 Assistant Directors of Public Works, E. P. Brown, 960l., plus 96l. duty allowance and 100l. personal allowance: Wm. Miller (seconded to Takoradi Harbour) 960l., plus 96l. duty allowance
+
+Extracted 102 people from GOLD_COAST 1927
+
+✓ Extracted 102 people from 1927
+  Format: narrative (table: 0, narrative: 102)
+
+================================================================================
+[37/58] Processing 1928: THE_GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1928: output_3/1928_manual_parsed/THE_GOLD_COAST.txt
+======================================================================
+People section starts at line 555
+  Department: - The Comptroller of Customs
+  Department: - The Director of Public Works
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: District Commissioners, and Assistant District Commissioners, G. R. Manners, W. R. Rainsford, Capt. E. T. Mansfield, E. O. Rake, Capt. A. S. Watt, G. B. Freeman, W. W. Kilby, A. W. Cardinal, G. H. Sumner-Wilson, Paymaster Comdr. S. W. Saxton, R.N. (retired), F. W. Applegate, A. F. E. Fieldgate, W. J. Pitt, W. E. Gilbert, M.C., C. E. E. Cockey, Lieut. A. F. L. Wilkinson, C. St. B. Shields, Major S. B. Jones, Capt. W. Price-Jones, M.C., L. W. Judd, T. R. O. Mangin, Capt. J. C. Warrington, Capt. V. J. Lynch, M.C., A. J. Walker, Capt. J. R. Ramsey, Major C. J. G. G. Cumine, D.S.O., Capt. R. C. Sumner, Capt. C. C. Lilley, Lt.-Col. G. H. Gibbs, M.C., Major R. W. Gosling, O.B.E., Paymaster Lieut. G. P. H. Bewes, Capt. O. F. Ross, E. A. Burner, Capt. J. R. Dickinson, M.C., C. S. Masser, C. O. Butler, Major J. S. R. Robertson, Capt. St. J. R. Eyre-Smith, M.C., Capt. J. V. W. Shaw, G. O. Parker, Capt. G. M. Puckridge, G. Hall, R. A. Brace Hall, B. D. Austin-Cathie, Capt. H. P. Dixon, F. P. Holtbaum, P. W. Rutherford, M.C., R. W. Sanderson, Major P. C. R. Moreton, D.S.O., J. E. Miller, R. E. Page, Capt. E. F. Burn, O.B.E., O. J. Collison, M.C., G. E. C. Wisdom, D. R. Caruth, Capt. J. A. Armstrong, D. R. Daltry, Lt.-Col. A. D. Cameron, D.S.O., M.C., Capt. G. Blackburne-Kane, G. D. Chamberlain, J. H. G. Way, E. N. Jones
+  Department: Judicial Department
+  Department: Printing Office
+  Department: Treasury Department
+  Department: Customs Department
+  Department: Medical Department
+  Settlement: Accra
+  Department: Northern Territories Constabulary
+  Department: Public Works Department
+  Department: Director of Public Works, E. H. D. Nicolls, O.B.E., A.M.I.C.E., F.R.Met.Soc., 1,600l., plus 300l. duty allowance
+  Department: Deputy Director of Public Works, J. D. Sharman, M.I.Mun. & Cy.E., 1,200l., plus 240l. duty allowance
+  Department: Assistant Directors of Public Works, E. P. Brown, Major S. Banks Keast, M.C., R.E. (O.), M.I.S.E., M.R.S.I., F.R.G.S., 960l., plus 96l. duty allowance and 100l. personal allowance; Wm. Miller (seconded to Takoradi Harbour), 960l., plus 96l. duty allowance
+
+Extracted 99 people from GOLD_COAST 1928
+
+✓ Extracted 99 people from 1928
+  Format: narrative (table: 0, narrative: 99)
+
+================================================================================
+[38/58] Processing 1929: THE_GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1929: output_3/1929_manual_parsed/THE_GOLD_COAST.txt
+======================================================================
+People section starts at line 451
+  Department: The Comptroller of Customs
+  Department: The Director of Public Works
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: District Commissioners, and Assistant District Commissioners, G. R. Manners, W. R. Rainford, Capt. E. O. Rake, Capt. A. S. Watt, G. B. Freeman, W. W. Kilby, A. W. Cardinal, G. H. Sumner-Wilson, Paymaster Comdr. S. W. Saxton, R.N. (retired), F. W. Applegate, A. F. E. Fieldgate, W. J. Pitt, W. E. Gilbert, M.C., C. E. E. Cooley, Lieut. A. F. Wilkinson, C. St. B. Shields, Major S. B. Jones, L. W. Judd, T. R. O. Mangin, Capt. J. C. Warrington, Capt. V. J. Lynch, M.C., A. J. Walker, Capt. R. J. Ramsey, Major C. J. G. G. Cumine, D.S.O., Capt. R. C. Sumner, Capt. C. C. Lilley, Lt-Col. G. H. Gibbs, M.C., Major W. R. Gosling, O.B.E., Paymaster Lieut. G. P. H. Bewes, Capt. O. F. Ross, E. A. Burner, Capt. J. R. Dickinson, M.C., C. S. Masser, C. O. Butler, Major J. S. R. Robertson, Capt. St. J. R. Eyre-Smith, M.C., Capt. J. V. W. Shaw, G. O. Parker, Capt. G. M. Puckridge, G. Hall, R. A. Brace Hall, B. D. Austin-Cathie, Capt. H. P. Dixon, F. P. Holtzbaum, P. W. Rutherford, M.C., R. W. Sanderson, Major P. C. R. Moreton, D.S.O., J. E. Miller, R. E. Page, Capt. E. F. Burn, O.B.E., O. J. Collison, M.C., G. E. C. Wisdom, D. R. Caruth, Capt. J. A. Armstrong, Capt. G. Blackburne-Kane, G. D. Chamberlain, E. N. Jones, Capt. H. G. Ardron, A. H. Williams, A. Drake-Brockman, J. P. W. Evershed, Capt. V. W. Beattie, W. H. Beaton, H. C. Ellershaw, G. F. MacKay, P. C. B. Shirreffs, H. V. Wimhurst, D. A. Sutherland, R. W. Woolley, J. A. Prendergast, Scale B
+  Department: Judicial Department
+  Department: Printing Office
+  Department: Treasury Department
+  Department: Customs Department
+  Department: Medical Department
+  Settlement: Accra
+  Department: Northern Territories Constabulary
+  Department: Public Works Department
+  Department: Director of Public Works, J. D. Sharman, M.I.M. & C.E., 1,500L, plus 300L duty allowance
+  Department: Deputy Director of Public Works, Major S. Banks Keast, M.C., R.E. (R. of O.), M.I.S.E., M.R.S.I., F.R.G.S., 1,200L, plus 240L duty allowance
+  Department: Assistant Directors of Public Works, E. P. Brown, 960L, plus 96L duty allowance and 100L personal allowance; Wm. Miller (seconded to Takoradi Harbour), 960L, plus 96L duty allowance; one vacancy
+
+Extracted 102 people from GOLD_COAST 1929
+
+✓ Extracted 102 people from 1929
+  Format: narrative (table: 0, narrative: 102)
+
+================================================================================
+[39/58] Processing 1930: THE_GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1930: output_3/1930_manual_parsed/THE_GOLD_COAST.txt
+======================================================================
+People section starts at line 459
+  Department: The Comptroller of Customs
+  Department: The Director of Public Works
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: District Commissioners and Assistant District Commissioners, G. R. Manners, Capt. A. S. Watt, G. B. Freeman, W. W. Kilby, A. W. Cardinali, G. H. Sumner Wilson, Paymaster Comdr. S. W. Saxton, R.N. (Retired), W. J. Pitt, W. E. Gilbert, M.C., C. E. E. Cooley, A. F. L. Wilkinson, L. W. Judd, T. R. O. Mangin, Capt. J. C. Warrington, Capt. V. J. Lynch, M.C., Major S. B. Jones, A. J. Walker, Capt. R. J. Ramsey, Major G. J. G. G. Cumine, D.S.O., Capt. R. C. Sumner, Capt. C. C. Lilley, O.B.E., Lt.-Col. G. H. Gibbs, M.C., Major W. R. Gosling, O.B.E., Paymaster G. P. H. Bewee, E. A. Burner, Capt. J. R. Dickinson, M.C., C. S Masser, Major J. S. R. Robertson, Capt. St. J. R. Eyre Smith, M.C., G. O. Parker, G. Hall, B. D. A. Cathie, H. P. Dixon, Capt. P. W. Rutherford, M.C., R. W. Sanderson, Major P. C. R. Moreton, D.S.O., J. E. Miller, R. E. Page, F. P. Holtabaum, R. A. B. Hall, Capt. O. F. Ross, Capt. E. F. Burn, O.B.E., G. D. Chamberlain, G. E. C. Wisdom, D. R. Caruth, E. N. Jones, O. J. Collison, M.C., Capt. J. A. Armstrong, Capt. G. Blackburne Kane, Capt. H. G. Ardron, A. H. Williams, A. Drake Brockman, J. P. W. Everhard, Capt. V. W. Bratton, W. H. Beeton, H. C. Ellershaw, G. F. Mackay, P. C. B. Shirreffs, H. V. Wimshurst, D. A. Sutherland, R. W. Woolley, J. A. Prendergast, H. A. Blair, J. K. G. Syme, M. H. MacKenzie, W. B. Smith, J. Gutch, W. H. Gittins, C. B. A. Darling, Scale B
+  Department: Judicial Department
+  Department: Printing Office
+  Department: Treasury Department
+  Department: Customs Department
+  Department: Medical Department
+  Settlement: Accra
+  Department: Public Works Department
+  Department: Director of Public Works, J. D. Sharman, M.I.M. & C.E., 1,500l., plus 300l. duty allowance
+  Department: Deputy Director of Public Works, Major S. Banks Keast, M.C., R.E. (R. of O.), M.I.S.E., M.R.S.I., F.R.G.S., 1,200l., plus 240l. duty allowance
+  Department: Assistant Directors of Public Works, P. Hall, A.M.I.C.E., J. L. Longbottom, B.Sc.(London), A.M.I.C.E., P.A.S.I., 1,060l. plus 210l. duty allowance
+
+Extracted 68 people from GOLD_COAST 1930
+
+✓ Extracted 68 people from 1930
+  Format: narrative (table: 0, narrative: 68)
+
+================================================================================
+[40/58] Processing 1931: THE_GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1931: output_3/1931_manual_parsed/THE_GOLD_COAST.txt
+======================================================================
+People section starts at line 573
+  Department: - The Comptroller of Customs
+  Department: - The Director of Public Works
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: District Commissioners and Assistant District Commissioners, G. R. Manners, Capt. A. S. Watt, G. B. Freeman, W. W. Kilby, A. W. Cardinal, G. H. Sumner Wilson, W. E. Gilbert, M.C., C. E. E. Cockey, A. F. L. Wilkinson, L. W. Judd, T. R. O. Mangin, Capt. J. C. Warrington, Capt. V. J. Lynch, M.C., Major S. B. Jones, A. J. Walker, Capt. R. J. Ramsey, Major G. J. G. G. Cumine, D.S.O., Capt. R. C. Sumner, Capt. C. C. Lilley, O.B.E., Lt.-Col. G. H. Gibbs, M.C., Major W. R. Gosling, O.B.E., Paymaster-Lieut. G. P. H. Bewes, E. A. Burner, Capt. J. R. Dickinson, M.C., C. S. Masser, Major J. S. R. Robertson, Capt. St. J. R. Eyre Smith, M.C., G. O. Parker, G. Hall, B. D. A. Cathie, H. P. Dixon, Capt. P. W. Rutherford, M.C., R. W. Sanderson, Major P. C. R. Moreton, D.S.O., J. E. Miller, R. E. Page, P. Holtzbaum, R. A. B. Hall, Capt. E. F. Burn, O.B.E., Capt. O. F. Ross, G. D. Chamberlain, G. E. C. Wisdom, D. R. Caruth, E. N. Jones, O. J. Collison, M.C., Capt. J. A. Armstrong, J. P. W. Everhed, Capt. V. W. Bratton, W. H. Beeton, H. C. Ellershaw, G. F. Mackay, P. C. B. Shirreffs, H. V. Wimhurst, D. A. Sutherland, R. W. Woolley, J. A. Prendergast, H. A. Blair; J. K. G. Syme,
+  Department: Judicial Department
+  Department: Printing Office
+  Department: Treasury Department
+  Department: Customs Department
+  Department: Medical Department
+  Settlement: Accra
+  Department: Public Works Department
+  Department: Director of Public Works, J. D. Sharman, M.I.M. & C.E., 1,500l., plus 300l. duty allowance
+  Department: Deputy Director of Public Works, Major S. Banks Kent, M.C., R.E. (R. of O.), M.I.S.E., M.R.S.I., F.R.G.S., 1,200l., plus 240l. duty allowance
+  Department: Assistant Directors of Public Works, P. Hall, A.M.I.C.E., J. L. Longbottom, B.Sc.(London), A.M.I.C.E., 1,060l. plus 210l. duty allowance
+
+Extracted 123 people from GOLD_COAST 1931
+
+✓ Extracted 120 people from 1931
+  Format: narrative (table: 0, narrative: 120)
+
+================================================================================
+[41/58] Processing 1932: THE_GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1932: output_3/1932_manual_parsed/THE_GOLD_COAST.txt
+======================================================================
+Warning: Could not find people section start
+  Department: The Colony is inhabited by a large number of tribes, whose customs and forms of government are of a more or less similar character. Each tribe has its own head chief and every town or village of the tribe a chief or headman
+  Department: For the purposes of administration the Colony is divided into three provinces, each presided over by a Provincial Commissioner. These Provinces are further divided into districts, presided over by District Commissioners. Most of these Officers perform judicial duties as magistrates in addition to being in administrative charge of their districts
+  Department: Hitherto the forts of the various nations were intermixed with each other, and there was no defined limit as to where the influence of one or the other began or ended. The imposition of Customs duties was rendered difficult, if not impossible, by the existence of the free ports of a rival nation within a stone's throw, as it were, of the duty ports. On the 24th of January, 1850, by Letters
+  Department: Patent, the Settlements on the Gold Coast ceased to be dependencies of Sierra Leone, and in the same year, by the purchase of the forts and protectorate of the Danes, the Coast line from Christiansborg to Keta and the districts of Shai, eastern and western Krobo, Akwapim, Akwamu, and Krepi, were acquired by England. By a Commission dated the 19th February, 1866, the Gold Coast Settlements were reunited to the Colony of Sierra Leone under one Governor-in-Chief. In 1867, a convention was made with the Dutch by which the portion of the Coast lying to the west of the Sweet River, which flows into the sea between Cape Coast and Elmina, was allotted to Holland, England taking all the territory to the east of the river, and a customs union between the two nations was established. The Dutch, however, found many difficulties in the way of their occupation of the forts and possessions received from the English in exchange for those of their own lying to the East of the boundary line. The native tribes refused to recognise their authority, and the prospect before them was that of a long series of petty wars with no reasonable hope of profit to be gained in the future. The result was the convention made between England and Holland in 1871, by which the Dutch transferred all their forts and possessions on the Coast to the English, and Great Britain obtained at last the sole sovereignty and control of the territory from Half-Asinie to Aflao. The forts were transferred on the 6th of April, 1872
+  Department: Constitution.
+  Department: The constitutional instrument providing for the Government of the Colony are the Letters Patent and Royal Instructions dated the 23rd of May, 1925, which creates the office of Governor and Commander-in-Chief and constitutes an Executive Council consisting of such persons as shall be directed by Instructions under the Royal Sign Manual and Signet, and a Legislative Council constituted in such manner and consisting of the Governor and such persons as are directed by the Order in Council of the 8th of April, 1925, and known as the Gold Coast Colony (Legislative Council) Order in Council, 1925. Royal Instructions were also passed on the 23rd May, 1925, directing that the Executive Council should consist of the Colonial Secretary, the Attorney-General, the Treasurer, the Director of Medical and Sanitary Services, and the Secretary of Native Affairs (these to be styled ex-officio Members) and such other persons as were at the date of the coming into operation of the aforesaid Letters Patent Members of the Council or as may be appointed under the Royal Sign Manual and Signet or as the Governor may appoint in pursuance of Instructions through a Secretary of State. The Legislative Council for the first time contains an elective element and consists of the Governor as President together with fifteen Official Members and fourteen Unofficial Members. The Official Members are the five senior Members of the Executive Council, the Comptroller of Customs, the Director of Public Works, the General Manager of the Railway, the Commissioners of the Eastern, Central and Western Provinces, as ex-officio Members, and such other officials not exceeding two at any one time as the Governor may appoint. The Unofficial Members are six Provincial Members, namely three for the Eastern Province, two for the Central Province, and one for the Western Province; three Municipal Members, namely; one each for the towns of Accra, Cape Coast and Sekondi respectively; one European Mercantile Member, one European Mining Member and three Europeans nominated by the Governor. The Provincial Members are Head Chiefs elected by the Provincial Councils of the said Provinces; the Municipal Members are elected by the electorate of the said towns; the Mercantile Member is elected by the Chambers of Commerce; and the Mining Member is elected by the Chamber of Mines
+  Department: Municipal Government.
+  Department: Law and Justice.
+  Department: There is an appeal from the Tribunal of a Divisional Chief to that of a Paramount Chief, and from a Paramount Chief's Tribunal to the District Commissioner's Court; but, where a title to land is in dispute, the appeal lies from the Paramount Chief's Tribunal to the Provincial Commissioner's Court
+  Department: The mileage of motor roads maintained by the Public Works Department is 1,857½ miles, as follows:
+  Department: The mileage of metalled and tarred roads now amounts to 427½ miles. In addition to the 1,857½ miles of motor roads which are under the control of the Public Works Department, there are some 3,900 miles of motorable roads which have been constructed and are maintained by the Chiefs. These roads are all motorable during the dry season and have opened up the country in all directions to motor traffic, and ferries have been installed and bridges built whenever necessary
+  Department: The Health Branch of the Medical Department is controlled by a Deputy Director of Health Service who is responsible to the Director of Medical and Sanitary Services. Medical Officers of Health are stationed in the most important towns in the Colony, Ashanti and the Northern Territories. All Medical Officers are charged with public health duties in their respective districts and in the more populous areas are assisted by European Superintending Sanitary Inspectors
+  Department: There are 73 Post Offices and 201 Postal Agencies, the distribution being effected principally by rail and motor. When this is impossible a runner service is employed. The rate for letters (1 oz.) within the Empire is 1½d., to the United States of America 1½d., elsewhere 3½d
+  Department: Educational policy in the Northern Territories has, since the 1st April, 1926, been controlled by a different ordinance from that of the Colony proper, in order that the special needs and difficulties arising with a people who are only just beginning to come much into contact with other peoples of the Gold Coast, may receive due and proper consideration
+  Department: Prior to 1912 and 1913 the currency consisted chiefly of British gold (comparatively rare), silver and copper. In 1912, subsidiary nickel-bronze coins (£1, ½d. and ¼d. pieces) were introduced, and in 1913 a special silver currency common to all the British West African Colonies of the same weight and fineness as the corresponding British coins. The coins issued are 2s., 1s., 6d. and 3d. pieces. Owing to the great increase in the demand for currency and the difficulties in obtaining adequate supplies, it was found necessary in 1915 to make British Treasury Notes legal tender, and in 1916 special West African Currency Notes were introduced. 20s. and 10s. Notes are the only values now in circulation, 5s., 2s. and 1s. Notes having been withdrawn. In 1920, owing to the rapid disappearance of silver coins, an alloy coinage was introduced of the same denominations as the silver coins and silver has now practically been withdrawn from circulation. The special West Africa silver and alloy currency and the West African Currency Notes are under the management of the West African Currency Board and are secured by sterling securities held by the Board. Current British gold and silver coins, British 20s. and 10s. Treasury Notes, West Africa Currency silver and alloy coins, West African Currency Notes, and West Africa nickel-bronze coins are all legal tender
+  Department: The Colonial Bank (now Barolay's Bank (Dominion, Colonial and Overseas) Ltd.) began business at Accra in 1917, and branches have now been opened at other centres. Both Banks have a savings department. In 1888, a Government Savings Bank was established which is now under Post Office management. On 31st December, 1930, the amount to the credit of depositors was £9,115l
+  Department: Industries, Trade and Customs
+  Department: The Health Branch of the Medical Department is controlled by a Deputy Director of Health Service who is responsible to the Director of Medical and Sanitary Services. Medical Officers of Health are stationed in the most important towns in the Colony, Ashanti and the Northern Territories. All Medical Officers are charged with public health duties in their respective districts and in the more populous areas are assisted by European Superintending Sanitary Inspectors
+  Department: There are 73 Post Offices and 201 Postal Agencies, the distribution being effected principally by rail and motor. When this is impossible a runner service is employed. The rate for letters (1 oz.) within the Empire is 1½d., to the United States of America 1½d., elsewhere 3½d
+  Department: Educational policy in the Northern Territories has, since the 1st April, 1926, been controlled by a different ordinance from that of the Colony proper, in order that the special needs and difficulties arising with a people who are only just beginning to come much into contact with other peoples of the Gold Coast, may receive due and proper consideration
+  Department: Prior to 1912 and 1913 the currency consisted chiefly of British gold (comparatively rare), silver and copper. In 1912, subsidiary nickel-bronze coins (1d., ½d. and ¼d. pieces) were introduced, and in 1913 a special silver currency common to all the British West African Colonies of the same weight and fineness as the corresponding British coins. The coins issued are 2s., 1s., 6d. and 3d. pieces. Owing to the great increase in the demand for currency and the difficulties in obtaining adequate supplies, it was found necessary in 1915 to make British Treasury Notes legal tender, and in 1918 special West African Currency Notes were introduced. 20s. and 10s. Notes are the only values now in circulation, 5l., 2s. and 1s. Notes having been withdrawn. In 1920, owing to the rapid disappearance of silver coins, an alloy coinage was introduced of the same denominations as the silver coins and silver has now practically been withdrawn from circulation. The special West Africa silver and alloy currency and the West African Currency Notes are under the management of the West African Currency Board and are secured by sterling securities held by the Board. Current British gold and silver coins, British 20s. and 10s. Treasury Notes, West Africa Currency silver and alloy coins, West African Currency Notes, and West Africa nickel-bronze coins are all legal tender
+  Department: The Colonial Bank (now Barclays's Bank (Dominion, Colonial and Overseas) Ltd.) began business at Accra in 1917, and branches have now been opened at other centres. Both Banks have a savings department. In 1888, a Government Savings Bank was established which is now under Post Office management. On 31st December, 1930, the amount to the credit of depositors was 89,115£
+  Department: Industries, Trade and Customs
+  Department: The Customs Tariff is non-preferential. There is a 15% ad valorem import duty on textiles, hardware and various other classes of goods and specific duties on alcoholic liquors, tobacco, timber and a number of other articles
+  Department: Ashanti is now divided into two provinces, the Eastern with headquarters at Kumasi and the Western with headquarters at Sunyani. Each of these is subdivided into districts under a District Commissioner who exercises limited jurisdiction; as does also a Police Magistrate in the town of Kumasi
+  Department: An important step was taken with regard to the Government of this Protectorate by replacing, with effect from the 1st of January, 1907, the former semi-military administration by a staff of Civil District and Assistant District Commissioners, and by establishing new stations. Simultaneously, the 2nd Battalion of the Gold Coast Regiment was disbanded and a force of armed constabulary substituted therefor. In 1929, the Northern Territories Constabulary was disbanded and their duties taken over by the Gold Coast Police
+  Department: Gold Coast Statistics.
+  Department: Exports.
+  Department: Customs receipts, 1928—3,010,749
+  Department: Governors of the Gold Coast (since 1900).
+  Department: Executive Council.
+  Department: Ex Officio Members:
+  Department: The Comptroller of Customs
+  Department: The Director of Public Works
+  Department: Nominated Official Members:
+  Department: Unofficial Members:
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: District Commissioners and Assistant District Commissioners, G. R. Manners, Capt. A. S. Watt, G. B. Freeman, W. W. Kilby, W. E. Cardinall, G. H. Sumner Wilson, W. E. Gilbert, M.C., C. E. E. Cockey, A. F. L. Wilkinson, L. W. Judd, T. R. O. Mangin, Capt. J. C. Warrington, Capt. V. J. Lynch, M.C., Major S. B. Jones, Capt. R. J. Ramsey, Major G. J. G. G. Cumine, D.S.O., Capt. R. C. Summer, Capt. C. C. Lilley, O.B.E., Lt.-Col. G. H. Gibbs, M.C., Major W. R. Gosling, O.B.E., Paymaster-Lieut. G. P. H. Bewes, E. A. Burner, Capt. J. R. Dickinson, M.C., C. S. Masser, Major J. S. R. Robertson, Capt. St. J. R. Eyre Smith, M.C., G. Hall, B. D. A. Cathie, H. P. Dixon, Capt. P. W. Rutherford, M.C., R. W. Sanderson, Major P. C. R. Moreton, D.S.O., J. E. Miller, R. E. Page, F. P. Holtbaum, R. A. B. Hall, Capt. E. F. Burn, O.B.E., Capt. O. F. Ross, G. D. Chamberlain, G. E. C. Wisdom, D. R. Caruth, E. N. Jones, O. J. Collison, M.C., Capt. J. A. Armstrong, H. G. Ardron, J. P. W. Evershed, Capt. V. W. Bratton, W. H. Beeton, H. C. Ellershaw, G. F. Mackay, P. C. B. Shireffs, H. V. Wimshurst, D. A. Sutherland, R. W. Woolley, J. A. Prendergast, H. A. Blair, J. K. G. Syme, M. I. H. Mackenzie-Inglis, W. B. Smith, J. Gutch, C. B. A. Darling, Capt. L. I. Motherwill, M. M. Miln, D. N. Walker, R. G. Cooper, Hon. H. W. Amherst, H. S. Stovold, S. Reynolds, S. J. Olivier, G. E. Barnard, H. E. Devaux, R. G. Syme, W. A. S. Cole, A. C. Spooner, A. C. Russell, R. E. Walker, G. N. N. Nunn, W. V. Fuller, H. A. Bonavia, Scale B
+  Department: Judicial Department
+  Department: Printing Office
+  Department: Treasury Department
+  Department: Customs Department
+  Department: Medical Department
+  Settlement: Accra
+  Department: Public Works Department
+  Department: Director of Public Works, J. D. Sharman, M.L.M. & G.E., 1,500l., plus 300l. duty allowance
+  Department: Deputy Director of Public Works, Major S. Banks Keast, M.C., R.E. (R. of O.), M.I.S.E., M.R.S.I., F.R.G.S., 1,200l., plus 240l. duty allowance
+  Department: Assistant Directors of Public Works, P. Hall, A.M.I.C.E., J. L. Longbottom, B.Sc.(London), A.M.I.C.E., 1,050l. plus 210l. duty allowance
+
+Extracted 80 people from GOLD_COAST 1932
+
+✓ Extracted 80 people from 1932
+  Format: narrative (table: 0, narrative: 80)
+
+================================================================================
+[42/58] Processing 1933: THE_GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1933: output_3/1933_manual_parsed/THE_GOLD_COAST.txt
+======================================================================
+People section starts at line 491
+  Department: Ex-Officio Members. The Comptroller of Customs, The Director of Public Works, The General Manager of the Railway, The Commissioner of the Western Province, The Commissioner of the Central Province, The Commissioner of the Eastern Province, The Surveyor-General, The Director of Education
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: District Commissioners and Assistant District Commissioners, C. E. E. Cockey, A. F. L. Wilkinson, L. W. Judd, T. R. O. Mangin, Capt. J. C. Warrington, Capt. V. J. Lynch, M.C., Capt. R. C. Sumner, Capt. C. C. Lilley, O.B.E., Lt.-Col. G. H. Gibbs, M.C., Major W. R. Gosling, O.B.E., Paymaster-Lieut. G. P. H. Bewes, E. A. Burner, Capt. J. R. Dickinson, M.C., C. S. Masser, Major J. S. R. Robertson, Capt. St. J. R. Eyre Smith, M.C., G. Hall, B. D. A. Cathie, H. P. Dixon, Capt. P. W. Rutherford, M.C., R. W. Sanderson, J. E. Miller, R. E. Page, F. P. Holtzbaum, Capt. E. F. Burn, O.B.E., Capt. O. F. Ross, G. D. Chamberlain, G. E. C. Wisdom, D. R. Caruth, E. N. Jones, O. J. Collison, M.C., Capt. J. A. Armstrong, H. G. Adiron, J. P. W. Everhard, Capt. V. W. Bratton, W. H. Beeton, H. C. Ellershaw, G. F. Mackay, P. C. B. Shirreffs, H. V. Wimshurst, D. A. Sutherland, R. W. Woolley, J. A. Prendergast, H. A. Blair, J. K. G. Syme, M. I. H. Mackenzie-Inglis, W. B. Smith, J. Gutch, C. B. A. Darling, Capt. L. I. Mothermill, M. M. Miln, D. N. Walker, R. G. Cooper, Hon. H. W. Amherst, H. S. Stovold, S. J. Olivier, G. E. Barnard, H. E. Devaux, R. G. Syme, W. A. S. Cole, A. C. Spooner, A. C. Russell, R. E. Walker, G. N. N. Nunn, W. V. Fuller, H. A. Bonavia, A. J. Lovedge, R. W. Ellison, W. A. R. Walker, A. McAuley, A. D. Dawson, J. C. Guinness, K. C. Tours, Scale B
+  Department: Judicial Department
+  Department: Printing Office
+  Department: Treasury Department
+  Department: Customs Department
+  Department: Inspector of Customs, A. J. Beckley, O.B.E., 960l. and 96l. duty allowance
+  Department: Medical Department
+  Settlement: Accra
+  Department: Public Works Department
+  Department: Director of Public Works, Major S. Banks Keast, M.C., R.E. (R. of O.), 1,500l., plus 300l. duty allowance
+  Department: Deputy Director of Public Works, P. Hall, A.M.I.C.E., 1,200l., plus 240l. duty allowance
+  Department: Assistant Director of Public Works, J. L. Longbottom, B.Sc.(London), A.M.I.C.E., 1,050l., plus 210l. duty allowance
+
+Extracted 79 people from GOLD_COAST 1933
+
+✓ Extracted 79 people from 1933
+  Format: narrative (table: 0, narrative: 79)
+
+================================================================================
+[43/58] Processing 1934: THE_GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1934: output_3/1934_manual_parsed/THE_GOLD_COAST.txt
+======================================================================
+People section starts at line 527
+  Department: Ex-Officio Members, The Comptroller of Customs, The Director of Public Works, The General Manager of the Railway, The Commissioner of the Western Province, The Commissioner of the Central Province, The Commissioner of the Eastern Province, The Director of Education, The Director of Agriculture
+  Department: District Commissioners and Assistant District Commissioners, C. E. E. Cockey, A. F. L. Wilkinson, L. W. Judd, T. R. O. Mangin, Capt. J. C. Warrington, Capt. V. J. Lynch, M.C., Capt. R. C. Sumner, Capt. C. C. Lilley, O.B.E., Lt.-Col. G. H. Gibbs, M.C., Major W. R. Gosling, O.B.E., Paymaster-Lieut. G. P. H. Bewes, Capt. J. R. Dickinson, M.C., C. S. Masser, E. A. Burner, Major J. S. R. Robertson, Capt. St. J. R. Eyre Smith, M.C., G. Hall, B. D. A. Cathie, H. P. Dixon, Capt. P. W. Rutherford, M.C., R. W. Sanderson, J. E. Miller, R. E. Page, Capt. O. F. Ross, G. E. C. Wisdom, D. R. Caruth, E. N. Jones, O. J. Collison, M.C., Capt. J. A. Armstrong, H. G. Ardron, J. P. W. Everhead, Capt. V. W. Dratton, W. H. Beeton, H. C. Ellershaw, G. F. Mackay, P. C. B. Shirreffs, H. V. Wimhurst, D. A. Sutherland, R. W. Woolley, J. A. Prendergast, H. A. Blair, J. K. G. Syme, M. I. H. Mackenzie-Ingles, W. B. Smith, J. Gutch, C. B. A. Darling, Capt. L. J. Mothersill, D. N. Walker, R. G. Cooper, Hon. H. W. Amherst, H. S. Stovold, S. J. Olivier, H. E. Devaux, R. G. Syme, W. A. S. Cole, A. C. Spooner, A. C. Russell, R. E. Walker, G. N. N. Nunn, W. V. Fuller, M. M. Miln, G. E. Barnard, A. J. Loveridge, E. W. Ellison, W. A. R. Walker, A. McAuley, J. C. Guinness, K. C. Tours, Scale B
+  Department: Judicial Department
+  Department: Printing Office
+  Department: Treasury Department
+  Department: Customs Department
+  Department: Inspector of Customs, Major H. W. R. Chandler, M.C., 960l. and 96l. duty allowance
+  Department: Medical Department
+  Settlement: Accra
+
+Extracted 74 people from GOLD_COAST 1934
+
+✓ Extracted 74 people from 1934
+  Format: narrative (table: 0, narrative: 74)
+
+================================================================================
+[44/58] Processing 1936: THE_GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1936: output_3/1936_manual_parsed/THE_GOLD_COAST.txt
+======================================================================
+People section starts at line 512
+  Department: Ex-Officio Members, The Comptroller of Customs, The Director of Public Works, The General Manager of the Railway, The Commissioner of the Western Province, The Commissioner of the Central Province, The Commissioner of the Eastern Province, The Director of Education, The Director of Agriculture
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: District Commissioners and Assistant District Commissioners, C. E. E. Cockey, A. F. L. Wilkinson, L. W. Judd, Capt. R. C. Sumner, Capt. C. C. Lilley, O.B.E., Lt.-Col. G. H. Gibbs, M.C., Major W. R. Gosling, O.B.E., Paymaster-Lieut. G. P. H. Bewes, Capt. J. R. Dickinson, M.C., C. S. Masser, C. O. Butler, E. A. Burner, Major J. S. Robertson, Capt. St. J. R. Eyre Smith, M.C., G. Hall, H. P. Dixon, Capt. P. W. Rutherford, M.C., R. W. Sanderson, J. E. Miller, Capt. O. F. Ross, G. E. C. Wisdom, E. N. Jones, O. J. Collison, M.C., Capt. J. A. Armstrong, H. G. Ardron, W. W. Barnhill, Capt. V. W. Bratton, W. H. Beeton, H. C. Ellershaw, G. F. Mackay, H. V. Winimurst, D. A. Sutherland, R. W. Woolley, J. A. Prendergast, H. A. Blair, J. K. G. Syme, M. I. H. MacKenzie-Inglis, W. B. Smith, C. B. A. Darling, Capt. L. J. Motherrail, D. N. Walker, R. G. Cooper, Hon. H. W. Amherst, H. S. Stovold, H. E. Devaux, R. G. Syme, W. A. S. Cole, A. C. Spooner, A. C. Russell, R. E. Walker, G. N. N. Nunn, W. V. Fuller, A. J. Loveridge, E. W. Ellison, W. A. R. Walker, A. McAuley, M. M. Milm, K. C. Tours, G. Hadow, E. R. Ednett, A. F. Kerr, C. D. A. Pullan, Scale B
+  Department: Judicial Department
+  Department: Treasury Department
+  Department: Customs Department
+  Department: Inspector of Customs, Major H. W. R. Chandler, M.C., 960l. and 96l. duty allowance
+  Department: Posts and Telegraph Department
+  Department: Medical Department
+  Settlement: Accra
+  Department: Public Works Department
+  Department: Director of Public Works, Major S. Banks Keast, M.C., R.E. (R. of O.), 1,500l. plus 300l. duty allowance
+  Department: Deputy Director of Public Works, P. Hall, A.M.I.C.E., 1,200l. plus 240l. duty allowance
+
+Extracted 67 people from GOLD_COAST 1936
+
+✓ Extracted 67 people from 1936
+  Format: narrative (table: 0, narrative: 67)
+
+================================================================================
+[45/58] Processing 1937: THE_GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1937: output_3/1937_manual_parsed/THE_GOLD_COAST.txt
+======================================================================
+People section starts at line 525
+  Department: Ex-Officio Members, The Comptroller of Customs, The Director of Public Works, The General Manager of the Railway, The Commissioner of the Western Province, The Commissioner of the Central Province, The Commissioner of the Eastern Province, The Director of Education, The Director of Agriculture
+  Department: District Commissioners and Assistant District Commissioners, C. E. E. Cockey, A. F. L. Wilkinson, L. W. Judd, Capt. C. C. Lilley, O.B.E., Lt.-Col. G. H. Gibbs, M.C., Major W. R. Gosling, O.B.E., Paymaster-Lieut. G. P. H. Bewes, Capt. J. R. Dickinson, M.C., C. S. Masser, C. O. Butler, E. A. Burner, Major J. S. Robertson, Capt. St. J. R. Eyre Smith, M.C., G. Hall, H. P. Dixon, Capt. P. W. Rutherford, M.C., R. W. Sanderson, J. E. Miller, Capt. O. F. Ross, G. E. C. Wisdom, E. N. Jones, O. J. Collison, M.C., Capt. J. A. Armstrong, H. G. Ardron, W. W. Barnhill, Capt. V. W. Bratton, W. H. Beeton, H. C. Ellershaw, G. F. Mackay, H. V. Wimshurst, D. A. Sutherland, R. W. Woolley, J. A. Prendergast, H. A. Blair, J. K. G. Syme, M. I. H. MacKenzie-Inglis, W. B. Smith, C. B. A. Darling, Capt. L. J. Mothersill, D. N. Walker, R. G. Cooper, Hon. H. W. Amherst, H. S. Stovold, H. E. Devaux, R. G. Syme, W. A. S. Cole, A. C. Spooner, A. C. Russell, R. E. Walker, G. N. N. Nunn, W. V. Fuller, A. J. Loveridge, E. W. Ellison, W. A. R. Walker, A. McAuley, M. M. Milm, K. C. Tours, G. Hadow, E. R. Ediment, A. F. Kerr, C. D. A. Pullan, H. Cooper, L. L. Phillips, C. G. R. Amory, V. H. K. Littlewood, G. B. Cartland
+  Department: Judicial Department
+  Department: Treasury Department
+  Department: Customs Department
+  Department: Inspector of Customs, Major H. W. R. Chandler, M.C., 960l. and 96l. duty allowance
+  Department: Posts and Telegraph Department
+  Department: Medical Department
+  Settlement: Accra
+  Department: Public Works Department
+  Department: Director of Public Works, Major S. Banks Kent, O.B.E., M.C., R.E. (R. of O.), 1,500l. plus 300l. duty allowance
+  Department: Deputy Director of Public Works, P. Hall, A.M.I.C.E., 1,200l. plus 240l. duty allowance
+
+Extracted 60 people from GOLD_COAST 1937
+
+✓ Extracted 60 people from 1937
+  Format: narrative (table: 0, narrative: 60)
+
+================================================================================
+[46/58] Processing 1939: THE_GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1939: output_3/1939_manual_parsed/THE_GOLD_COAST.txt
+======================================================================
+People section starts at line 537
+  Department: The Comptroller of Customs
+  Department: The Director of Public Works
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: District Commissioners and Assistant District Commissioners, L. W. Judd, Capt. C. C. Lilley, O.B.E., Lt.-Col. G. H. Gibbs, M.C., Major W. R. Goaling, O.R.E., Paymaster-Lieut. G. P. H. Bewes, C. S. Masser, C. O. Butler, E. A. Burner, Major J. S. R. Robertson, Capt. St. J. R. Eyre Smith, M.C., G. Hall, Capt. H. P. Dixon, Capt. P. W. Rutherford, M.C., R. W. Sanderson, J. E. Miller, G. E. C. Wisdom, E. N. Jones, O. J. Collison, M.C., Capt. J. A. Armstrong, Capt. H. G. Ardron, Capt. V. W. Bratton, W. H. Beeton, G. F. Mackay, H. V. Wimhurst, D. A. Sutherland, R. W. Woolley, H. A. Blair, J. K. G. Syme, W. B. Smith, C. B. A. Darling, Capt. L. J. Mothersill, D. N. Walker, R. G. Cooper, Hon. H. W. Amherst, H. S. Stovold, H. E. Devaux, R. G. Syme, W. A. S. Cole, A. C. Spooner, A. C. Russell, R. E. Walker, W. V. Fuller, A. J. Loveridge, E. W. Ellison, W. A. R. Walker, A. McAuley, M. M. Miln, K. C. Tours, G. Hadlow, R. E. Edmott, C. D. A. Pullan, A. F. Kerr, C. G. R. Amory, V. H. K. Littlewood, G. B. Cartland, R. K. Talbot, L. A. Britton, G. E. Sinclair, D. J. Parkinson, P. J. H. Hornsby, A. T. Kerr, T. A. Mead, A. Campbell, H. J. P. Crawford, M. G. Hewson, H. J. N. Chapman, N. Ross, H. B. V. Bruton, 400l.; 400l. by 50l. to 500l. by 25l. to 600l. by 30l. to 630l.; 690l. by 30l. to 840l.; 880l. by 40l. to 1,000l
+  Department: Judicial Department
+  Department: Customs Department
+  Department: Medical Department
+  Settlement: Accra
+  Department: Public Works Department
+  Department: Director of Public Works, P. Hall, A.M.I.C.E., 1,500l
+  Department: Deputy Director of Public Works, J. R. Roberts, A.M.I.C.E., A.M.I.W.E., 1,200l
+
+Extracted 80 people from GOLD_COAST 1939
+
+✓ Extracted 80 people from 1939
+  Format: narrative (table: 0, narrative: 80)
+
+================================================================================
+[47/58] Processing 1940: THE_GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1940: output_3/1940_manual_parsed/THE_GOLD_COAST.txt
+======================================================================
+People section starts at line 573
+  Department: The Comptroller of Customs
+  Department: The Director of Public Works
+  Department: Governor's Office
+  Department: Colonial Secretary's Office
+  Department: District Commissioners and Assistant District Commissioners, L. W. Judd, Major W. R. Gosling, O.B.E., Paymaster-Lieut. G. P. H. Rewes, C. S. Masser, C. O. Butler, E. A. Burner, Capt. St. J. R. Eyre Smith, M.C., G. Hall, Capt. H. P. Dixon, Capt. P. W. Rutherford, M.C., R. W. Sanderson, J. E. Miller, G. E. C. Wisdom, E. N. Jones, O. J. Collison, M.C., Capt. J. A. Armstrong, Capt. H. G. Ardron, Capt. V. W. Bratton, W. H. Beeton, G. F. Mackay, H. V. Wimshurst, D. A. Sutherland, R. W. Woolley, J. K. G. Syme, W. B. Smith, Capt. L. J. Mothersill, D. N. Walker, R. G. Cooper, Hon. H. W. Amherst, H. S. Stovold, H. E. Devaux, R. G. Syme, W. A. S. Cole, A. C. Spooner, A. C. Russell, R. E. Walker, W. V. Fuller, A. J. Lovelock, E. W. Ellison, W. A. R. Walker, A. McCauley, M. M. Miln, K. C. Tours, G. Hadow, E. R. Edmott, C. D. A. Pullan, A. F. Kerr, C. G. R. Amory, V. H. K. Littlewood, G. B. Cartland, R. K. Talbot, L. A. Britton, G. E. Sinclair, D. J. Parkinson, P. J. H. Hornsby, A. T. Kerr, T. A. Mead, A. Campbell, H. J. P. Crawford, M. G. Hewson, H. J. N. Chapman, N. Ross, H. B. V. Bruton, R. E. Crabb, D. H. Canham, J. Duncan, H. M. Roemmle, T. Hindle, D. M. Allen, J. W. Chalmers, A. A. Hughes, I. S. Warren, A. W. Davies, E. R. Packham, M. D. L. Gass, J. R. Roper, M. E. Thompson, L. L. le P. Gardner, J. H. F. MacGiffin, P. L. Lindsell, S. A. Fox, 400l.; 400l. by 50l. to 500l. by 25l. to 600l. by 30l. to 630l.; 690l. by 30l. to 840l.; 880l. by 40l. to 1,000l
+  Department: Judicial Department
+  Department: Customs Department
+  Department: Medical Department
+  Department: Public Works Department
+  Department: Director of Public Works, P. Hall, A.M.I.C.E., 1,500l
+  Department: Deputy Director of Public Works, J. R. Roberts, A.M.I.C.E., A.M.I.W.E., 1,200l
+  Department: Assistant Director of Public Works, R. M. Fisher, 1,100l
+
+Extracted 77 people from GOLD_COAST 1940
+
+✓ Extracted 77 people from 1940
+  Format: narrative (table: 0, narrative: 77)
+
+================================================================================
+[48/58] Processing 1946: gold_coast.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1946: output_3/1946_manual_parsed/gold_coast.txt
+======================================================================
+Warning: Could not find people section start
+  Department: The colony is inhabited by a large number of tribes, whose customs and forms of government are of a more or less similar character. It is divided into states (each with a paramount chief), several of which have formed confederacies, and the states and confederacies are administered by native authorities. Each province has a Provincial Council of Chiefs and there is also a Joint Provincial Council of Chiefs, with deliberative and advisory functions
+  Department: The colony is administered by a Chief Commissioner, with headquarters at Cape Coast, and, under him, provincial commissioners at Koforidua and Sekondi. There are 15 districts in charge of district commissioners:
+  Department: CONSTITUTION
+  Department: MUNICIPAL GOVERNMENT
+  Department: LAW AND JUSTICE
+  Department: Justice is administered by the Supreme Court which is presided over by the Chief Justice and seven Puisne Judges. Divisional Courts of the Supreme Court are held in different parts of the colony. There are also a large number of inferior courts with limited criminal and civil jurisdiction, some of which are presided over by District Magistrates and District Commissioners. The Supreme Court has an original civil and criminal jurisdiction, and also decides appeals from the inferior courts. Appeals from the Divisional Courts lie to the West African Court of Appeal
+  Department: PRISONS
+  Department: CLIMATE
+  Department: RELIGION
+  Department: COMMUNICATIONS
+  Department: Mail and Steamship Services
+  Department: Aviation
+  Settlement: Accra
+  Department: Harbours
+  Department: Internal Communications
+  Department: The mileage of all-weather motor roads, exclusive of town roads, maintained by the Public Works Department, is 2,577½ miles as follows:
+  Department: In addition to the mileage maintained by the Public Works Department, there are approximately 2,700 miles of dry season roads maintained by the Political Administration with funds provided by Government. The chiefs also maintain a considerable mileage of earth roads. These roads are all motorable in the dry season and have opened up the country in all directions to motor traffic. Ferries have been installed and bridges built wherever necessary
+  Department: There are 84 post offices and 230 postal agencies. Distribution of mails is effected principally by rail and motor. When this is not possible a runner service is employed. The present rate for letters (1 oz.) within the Empire is 3d., elsewhere 4d
+  Department: The health activities of the Medical Department are controlled by an Assistant Director of Medical Service. In areas where no full-time medical officers of health are stationed the
+  Department: By far the greater part of the educational system is managed by educational units (missions, churches, native authorities and a few private organisations). The units receive from the Central Government substantial grants-in-aid in respect of their "assisted" schools and teacher-training colleges
+  Department: Secondary Education.—There are the following government-assisted secondary schools for boys: the Presbyterian Church School at Odumase in the Eastern Province and Mfantsipim, Adisadel and St. Augustine's, situated at Cape Coast and conducted by the Methodist Church, the English Church Mission and the Roman Catholic Mission respectively. There are at Cape Coast two secondary schools for girls: Wesley Girls' School and the Roman Catholic Mission Convent of the Holy Child. The Order of the Holy Paraclete (English Church Mission) enrolled in 1946 the first class of a secondary school for girls at the Convent of St. Monica, Mampong, Ashanti. Achimota College includes a large co-educational secondary school. Plans for the extension of facilities for secondary education are under consideration. Pupils of the secondary schools are presented for the School Certificate Examination of the University of Cambridge Local Examinations Syndicate. In December, 1944, 152 candidates from Government-assisted secondary institutions passed the Examination
+  Department: Plans for a further six two-year post-primary training colleges have been approved, and it is hoped that they will be opened in the course of 1947 and 1948. Plans have also been approved for substantial increases in the enrolment at each of the existing training colleges. All teacher-training colleges conducted by the Educational Units are grant-aided by the Central Government
+  Department: Achimota College.—The Prince of Wales’ College and School at Achimota near Accra was opened in January, 1927, as a co-educational boarding institution. It consists of a secondary school, a teacher-training college and a post-secondary department in which students are prepared for the University of London Intermediate Arts and Science Examinations and the B.Sc. Engineering Examinations. Achimota College is an independent institution which receives a large annual subsidy from Government and which is administered by its own council consisting partly of elected and partly of nominated members
+  Department: Prior to 1912 and 1913 the currency consisted chiefly of British gold (comparatively rare), silver and copper. In 1912, subsidiary nickel-bronze coins (1d., ½d. and ¼d. pieces) were introduced, and in 1913 a special silver currency common to all the British West African colonies of the same weight and fineness as the corresponding British coins. The coins issued are 2s., 1s., 6d. and 3d. pieces. Owing to the great increase in the demand for currency and the difficulties in obtaining adequate supplies, it was found necessary in 1915 to make British treasury notes legal tender, and in 1916 special West African currency notes were introduced. 20s. and 10s. notes are the only values now in circulation, £5, 2s. and 1s. notes having been withdrawn. In 1920, owing to the rapid disappearance of silver coins, an alloy coinage was introduced of the same denominations as the silver coins; and silver has now practically been withdrawn from circulation. In 1939 an
+  Department: The Colonial Bank, now Barclays Bank (Dominion, Colonial and Overseas), began business at Accra in 1917, and branches have now been opened at other centres. Both banks have a savings department. In 1888 a Government Savings Bank was established which is now under Post Office management. On 31st March, 1944, the amount to the credit of depositors was £1,131,152
+  Department: Population
+  Department: Industries, Trade and Customs
+  Department: Distribution of Sea-borne Trade, 1944
+  Department: The Customs tariff is non-preferential. The principal cotton manufactures, artificial silk piece goods, alcoholic liquors, tobacco, timber, certain articles of apparel, soap, petrol and kerosene, and a number of other articles are liable to specific duties
+  Department: Ashanti is administered by a Chief Commissioner, with an Assistant Chief Commissioner as relieving officer, and is divided into the following districts, each under a District Commissioner with limited powers of jurisdiction:
+  Department: An important step was taken with regard to the government of this protectorate by replacing, with effect from 1st January, 1907, the former semi-military administration by a staff of civil district and assistant district commissioners, and by establishing new stations. Simultaneously, the 2nd Battalion of the Gold Coast Regiment was disbanded and a force of armed constabulary substituted therefor. In 1929, the Northern Territories Constabulary was disbanded and their duties taken over by the Gold Coast Police
+  Department: ## Customs Receipts
+
+Extracted 0 people from GOLD_COAST 1946
+
+✓ Extracted 0 people from 1946
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[49/58] Processing 1948: gold_coast.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1948: output_3/1948_manual_parsed/gold_coast.txt
+======================================================================
+Warning: Could not find people section start
+  Department: The Colony is inhabited by a large number of tribes, whose customs and forms of government are of a more or less similar character. It is divided into states (each with a paramount chief), several of which have formed confederacies, and the states and confederacies are administered by native authorities. Each province has a Provincial Council of Chiefs and there is also a Joint Provincial Council of Chiefs, with deliberative and advisory functions
+  Department: History
+  Department: Administration
+  Department: The Colony is administered by a Chief Commissioner, with headquarters at Cape Coast, and, under him, provincial commissioners at Koforidua and Sekondi. There are 15 districts in charge of district commissioners:
+  Department: Ashanti is administered by a Chief Commissioner, with an Assistant Chief Commissioner as relieving officer, and is divided into the following districts, each under a District Commissioner with limited powers of jurisdiction:
+  Department: An important step was taken with regard to the government of this protectorate by replacing, with effect from 1st January, 1907, the former semi-military administration by a staff of civil district and assistant district commissioners, and by establishing new stations. Simultaneously, the 2nd Battalion of the Gold Coast Regiment was disbanded and a force of armed constabulary substituted therefor. In 1929, the Northern Territories Constabulary was disbanded and their duties taken over by the Gold Coast Police
+  Department: GENERAL CONSTITUTION
+  Department: POPULATION
+  Department: ADMINISTRATION
+  Department: Municipal Government
+  Department: Law and Justice
+  Department: Justice is administered by the Supreme Court which is presided over by the Chief Justice and seven Puisne Judges. Divisional Courts of the Supreme Court are held in different parts of the colony. There are also a large number of inferior courts with limited criminal and civil jurisdiction, some of which are presided over by District Magistrates and District Commissioners. The Supreme Court has an original civil and criminal jurisdiction, and also decides appeals from the inferior courts. Appeals from the Divisional Courts lie to the West African Court of Appeal
+  Department: Prior to 1912 and 1913 the currency consisted chiefly of British gold (comparatively rare), silver and copper. In 1912, subsidiary nickel-bronze coins (1d., 4½d. and 1½d. pieces) were introduced, and in 1913 a special silver currency common to all the British West African colonies of the same weight and fineness as the corresponding British coins. The coins issued are 2s., 1s., 6d., and 3d. pieces. Owing to the great increase in the demand for currency and the difficulties in obtaining adequate supplies, it was found necessary in 1913 to make British treasury notes legal tender, and in 1916 special West African currency notes were introduced. 20s. and 10s. notes are the only values now in circulation, £5, 2s. and 1s. notes having been withdrawn. In 1920, owing to the rapid disappearance of silver coins, an alloy coinage was introduced of the same denominations as the silver coins; and silver has now practically been withdrawn from circulation. In 1939 an improved type of alloy coin of the 2s., 1s., and 6d. denominations and a new threepenny-piece of nickel-bronze were introduced. The special West Africa currency silver and alloy coins and the West African currency notes are under the management of the West African Currency Board and are secured by sterling securities held by the Board. Current British gold and silver coins, West Africa currency silver and alloy coins, West African currency notes, and West Africa nickel-bronze coins are all legal tender
+  Department: The Colonial Bank, now Barclays Bank (Dominion, Colonial and Overseas), began business at Accra in 1917, and branches have now been opened at other centres. Both banks have a savings department. In 1888 a Government Savings Bank was established which is now under Post Office management. On 31st March, 1945, the amount to the credit of depositors was £1,541,976
+  Department: Accra is the West African terminus of the trunk air route operated by the British Overseas Airways Corporation between the United Kingdom and West Africa. It is an International Civil Customs Airport situated 4½ miles north-east of Accra. In addition to the B.O.A.C. and West African Airways Corporation’s services, it is used by the Pan-American World Airways service from New York to Johannesburg, and by the Portuguese air service between Lisbon and Laurencio Marques. French and Belgian air lines also call at Accra. There is accommodation for passengers at the West African Airways Corporation’s resthouse
+  Department: The second Customs airport in the Gold Coast is at Takoradi, where landing facilities are maintained at a high standard although the airfield is not so large as that at Accra. This is not an international airport and is now operated at a standard sufficient only for the needs of the internal air service
+  Department: Internal Communications
+  Department: The mileage of all-weather roads, exclusive of town roads, maintained by the Public Works Department, is 2,577½ miles, made up as follows:
+  Department: Posts and Telegraphs
+  Department: There are 87 post offices and 239 postal agencies. Distribution of mails is effected principally by rail and motor. When this is not possible a runner service is employed. The present rate for letters (1 oz.) within the Empire is 3½d., elsewhere 4½d
+  Department: Social Services
+  Department: Medical Facilities
+  Department: Mission at Aburi. Achimota College includes a large co-educational secondary school. Plans for the extension of facilities for secondary school education are under consideration. Pupils of the secondary schools are presented annually for the School Certificate Examination of the University of Cambridge Local Examinations Syndicate. In December, 1946, 163 candidates from Government-assisted secondary institutions including Achimota College, passed the Examination
+  Department: As part of the planned development of education, it is proposed to establish additional two-year colleges as follows:—A Joint Methodist Church and Presbyterian Church College for men at Oda, in the Eastern Province of the Colony; a Roman Catholic Mission (Ashanti) College for men at Bechem, in Ashanti. There have been approved substantial increases in the enrolment at each of the existing training colleges. All teacher-training colleges conducted by the Educational Units are grant-aided by the Central Government
+  Department: Achimota College.—The Prince of Wales College and School at Achimota near Accra was opened in January, 1927, as a co-educational boarding institution. It consists of a secondary school, a teacher-training college, and a post-secondary department in which students are prepared for the University of London Intermediate Arts and Science Examinations and the B.Sc. Engineering Examinations. Achimota College is an independent institution which receives a large annual subsidy from the Central Government and which, in accordance with its constitution, is administered by its own council consisting partly of elected and partly of nominated members
+  Department: ### INDUSTRIES, TRADE AND CUSTOMS
+  Department: The Customs Tariff is non-preferential
+  Department: Exports (including Re-exports)
+  Department: Customs Receipts
+  Department: Governors of the Gold Coast
+  Department: Executive Council
+  Department: Legislative Council
+  Department: Foreign Consular Officers
+  Department: Bibliography
+
+Extracted 0 people from GOLD_COAST 1948
+
+✓ Extracted 0 people from 1948
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[50/58] Processing 1949: Gold_Coast.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1949: output_3/1949_manual_parsed/Gold_Coast.txt
+======================================================================
+People section starts at line 726
+  Department: Class II. Deputy Financial Secretary, Senior Assistant Colonial Secretaries, Senior District Commissioners, Registrar of Co-operative Societies, Judicial Advisers, Deputy Director of Social Welfare and Housing.—H. V. Wimsurst; W. B. Smith; J. Dixon; R. G. Cooper; Hon. H. W. Amherst; W. A. S. Cole; A. C. Spooner; R. E. Walker; G. E. Sinclair; H. J. N. Chapman; A. C. Russell; M. G. Hewson; C. D. A. Pullan; P. Wilkins. £1,200
+  Department: Classes III and IV. Assistant Colonial Secretaries, District Commissioners and Assistant District Commissioners—R. W. Woolley; H. E. Devaux; M. M. Miln; A. F. Kerr; R. K. Talbot; C. G. R. Amory; V. H. K. Littlewood; G. B. Cartland; L. A. Britton; A. T. Kerr; T. A. Mead; A. Campbell; H. J. P. Crawford; R. E. Crabb; P. Campbell; J. Duncan; H. M. Roemmle; A. T. de B. Wilmot; T. Hindle; D. M. Allen; M.B.E.; A. W. Davies; E. S. Packham; M. D. T. Gass; L. L. le P. Gardner; J. H. F. MacGiffin; P. L. Lindsell; J. N. Matson; W. H. A. Hanschell; P. W. C. Dennis; D. S. D. McWilliam; D. S. Turner; J. C. B. Deakin; C. P. Mercier; B. W. A. T. Knight; S. R. J. Kingston; P. S. G. Smith; D. W. Milne; I. W. Bennett, M.B.E.; N. F. Ribeiro-Ayeh; R. M. E. Markham; D. V. Mackay, D.S.O., E.D.; K. A. Busia; A. S. Jones; G. N. E. Charles, D.S.O.; A. L. Adu; A. R. Elliot; G. M. Darling; S. K. Anthony, M.B.E.; J. C. M. Paton; A. J. Townsend, M.C.; F. E. Taylor; J. B. Heigham; J. A. R. Forster; N. O. Dobbs; A. M. Frank, M.C.; A. Howe; W. V. Dickinson, M.B.E.; C. M. Kelly; H. Millar-Craig; D. M. Dyer-Ball; J. S. Duthie; M. J. Patteson; J. D. E. Barnard; E. B. S. Alton, M.B.E., M.C.; J. B. Hooper; G. D. Lintott; E. H. Roach; M. de N. Ensor; J. E. F. Codrington; D. Earle; W. J. Caldow; R. J. Moxon; W. N. L. Goldie-Scott; D. L. C. Price, M.C.; I. E. Cochran; N. Hope; R. H. Bennett; D. A. Anderson; J. S. Lawson; J. A. Cowley; P. Helps; R. M. Denby; L. A. Bullwinkle; I. F. Baillie; A. H. Murray; B. G. S. Bumpus; T. J. Lennard; A. B. Smith, D.S.O., D.F.C.; P. F. de C. du Sautoy; J. C. Anderson; J. Green; J. H. D. Dickson; R. J. Wallace; W. S. Crane; R. C. Parkin; J. M. L. Peake; C. G. Ferguson; J. B. Begent; D. Heaton; A. W. M. Dickie; H. T. B. Rooke; R. M. N. Milton; A. J. Willing; F. H. Goodwin; A. S. Faiz; A. G. Cross; W. R. Hancock; A. K. Cooper; W. G. C. Ferris; W. M. Mackay; W. Redhead; R. W. Le Bas; Rickman; P. W. Thorogood; O. R. Blair; C. M. Weatherburn. Scale A
+  Department: CUSTOMS AND EXCISE
+  Department: Comptroller of Customs and Excise—C. W. Hayward. £1,300
+  Department: Deputy Comptroller of Customs and Excise—P. A. G. Gummer. £1,150
+  Department: Assistant Comptroller of Customs—A. G. Davidson, E.D. £1,050
+  Department: Assistant Controller, Post Office Savings Bank—R. E. Ramsay. Scale B
+  Department: PUBLIC WORKS
+  Department: Director of Public Works—E. A. Boyce. £1,500
+  Department: Deputy Director of Public Works—D. W. McCulloch. £1,200
+  Department: Assistant Directors of Public Works—F. S. Drake. £1,100
+
+Extracted 0 people from GOLD_COAST 1949
+
+✓ Extracted 0 people from 1949
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[51/58] Processing 1950: gold_coast.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1950: output_3/1950_manual_parsed/gold_coast.txt
+======================================================================
+People section starts at line 744
+  Department: Class II. Deputy Financial Secretary, Senior Assistant Colonial Secretaries, Senior District Commissioners, Registrar of Co-operative Societies, Judicial Advisers, Deputy Director of Social Welfare and Housing—W. B. Smith; J. Dixon; R. G. Cooper; Hon. H. W. Amherst; W. A. S. Cole; A. C. Spooner; C. D. A. Pullan; G. E. Sinclair; H. J. N. Chapman; A. C. Russell; M. G. Hewson; P. Wilkins; R. W. Woolley; A. T. Kerr; H. M. Roemmle; A. F. Kerr; £1,200
+  Department: Classes III and IV. Assistant Colonial Secretaries, District Commissioners and Assistant District Commissioners—H. E. Devaux; R. K. Talbot; C. G. R. Amory; V. H. K. Littlewood; L. A. Britton; T. A. Mead; H. J. P. Crawford; R. E. Crabb; P. H. Canham; J. Duncan; A. T. de B. Wilmot; T. Hindle; D. M. Allen, M.B.E.; A. W. Davies; E. S. Packham; M. D. I. Gass; L. L. le P. Gardner; J. H. F. MacGiffin; P. L. Lindsell; J. N. Matson; W. H. A. Hanschell; P. W. C. Dennis; D. S. D. McWilliam; D. S. Turner; J. C. B. Deakin; C. P. Mercier; B. W. A. T. Knight; S. R. J. Kingston; P. S. G. Smith; G. M. Levack; J. A. R. Forster; I. W. Bennett, M.B.E.; N. F. Ribeiro Ayeh; P. E. Hamilton; W. S. Crane; D. P. Hardy; R. M. E. Markham; D. V. Mackay, D.S.O.; G. N. E. Charles, D.S.O.; A. L. Adu; A. R. Elliott; G. M. Darling; S. K. Anthony, M.B.E.; J. C. M. Paton; A. J. Townsend, M.C.; F. E. Taylor; J. B. Heigham; N. O. Dobbs; A. M. Frank, M.C.; J. M. L. Peake; A. Howe; W. V. Dickinson, M.B.E.; R. C. Parkin; C. M. Kelly; H. Millar-Craig; D. M. Dyer-Ball; J. S. Duthie; A. S. Jones; M. J. E. Patteson, M.C.; J. D. E. Barnard; E. B. S. Alton, M.B.E., M.C.; J. B. Hooper; G. D. Lintott; E. H. Roach; M. de N. Ensor; J. E. F. Codrington; R. J. Wallace; D. Earle; W. J. Caldow; W. N. L. Goldie-Scot; D. L. C. Price, M.C.; C. G. Ferguson, M.C.; I. E. Cochran; N. Hope; R. H. Bennett; D. A. Anderson; J. S. Lawson; J. A. Cowley; P. Helps; R. N. Denby; L. A. Bullwinkle; I. F. Bailie; A. H. Murray; B. G. S. Bumpus; T. J. Lennard; A. B. Smith, D.S.O., D.F.C.; P. F. de C. du Sautoy; J. C. Anderson; J. Green; J. H. D. Dickson; E. H. Salmon; D. P. Tripp, M.C.; C. E. Carrington; J. F. A. Rose; L. M. Davies; J. R. Wallis, M.C.; D. E. Richards; D. Heaton; H. C. Holmes; J. G. H. Wadsworth; J. B. Begent; G. J. L. Edwards; A. W. M. Dickie; R. N. M. Milton; H. T. B. B. Rooke, M.B.E.; F. St. M. Gerrard; W. R. Hancock; A. K. Grieve, M.C.; W. M. Mackay; R. W. Le B. Rickman; P. W. Thorogood; A. G. Cross; O. R. Blair; F. H. G. Goodwin; A. K. Cooper; A. S. Faiz; M. R. Venables; C. M. Weatherburn; B. F. Bolt; T. O'Driscoll Lunley; A. K. Cameron; E. H. Whitrow. Scale A
+  Department: CUSTOMS AND EXCISE
+  Department: Comptroller of Customs and Excise—C. W. Hayward. £1,300
+  Department: Deputy Comptroller of Customs and Excise—C. M. Bayfield. £1,150
+  Department: Chief Inspector of Customs—A. G. Davidson, E.D. £1,050
+  Department: Controller Post Office Savings Bank—C. G. Folwell. Scale B
+  Department: Assistant Controller Post Office Savings Bank—R. S. Ramsay. Scale B
+  Department: PUBLIC WORKS
+  Department: Director of Public Works—Vacant. £1,500
+  Department: Deputy Director of Public Works—D. W. McCulloch. £1,200
+  Department: Assistant Directors of Public Works—A. Dempster; G. Paltridge. £1,100
+
+Extracted 0 people from GOLD_COAST 1950
+
+✓ Extracted 0 people from 1950
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[52/58] Processing 1951: gold_coast.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1951: output_3/1951_manual_parsed/gold_coast.txt
+======================================================================
+People section starts at line 70
+  Department: Akan Laws and Customs, by J. B. Danquah. Routledge, 1928, 10s. 6d
+  Department: Customs and Excise Department
+  Department: Comptroller of Customs and Excise—Vacant. £1,300
+  Department: Deputy Comptroller of Customs and Excise—C. M. Bayfield. £1,150
+  Department: Assistant Comptroller of Customs and Excise—E. G. Gulliver. £1,050
+  Department: Chief Inspector of Customs and Excise—A. G. Davidson, E.D. £1,050
+  Department: Senior Collectors of Customs and Excise—M. S. Murphy; P. McDevitt; I. T. Agbettor; W. G. Dako. Scale B
+  Department: Collectors of Customs and Excise—C. L. Watson; W. C. Mensah, M.B.E.; F. A. Arthur; S. M. Codjoe; L. J. Zwennes; E. Buckley; N. W. Hyder; R. Maxwell; A. Asare-Djan; E. A. Quansah-Solomon; B. T. Madjitey; A. E. Asmah. Scale B
+  Department: Controller, Post Office Savings Bank—C. G. Folwell. Scale B. (Upper Segment.)
+  Department: Assistant Controller, Post Office Savings Bank—Q. K. K. Bruce. Scale B
+  Department: PUBLIC WORKS
+  Department: Director of Public Works—J. B. White. £1,500
+  Department: Deputy Director of Public Works—D. W. McCulloch. £1,200
+  Department: Assistant Directors of Public Works—W. Dempster; H. M. Finlay; G. Paltridge; T. D. Lewis. £1,100
+
+Extracted 0 people from GOLD_COAST 1951
+
+✓ Extracted 0 people from 1951
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[53/58] Processing 1952: THE_GOLD_COAST.md
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1952: output_3/1952_manual_parsed/THE_GOLD_COAST.md
+======================================================================
+People section starts at line 188
+  Department: Comptroller of Customs and Excise—H. M. Lucie-Smith. £1,300
+  Department: Director of Public Works—W. Dempster. £1,500
+
+Extracted 0 people from GOLD_COAST 1952
+
+✓ Extracted 0 people from 1952
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[54/58] Processing 1953: gold_coast.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1953: output_3/1953_manual_parsed/gold_coast.txt
+======================================================================
+Warning: Could not find people section start
+  Department: During the year 1951–52 69·7% of the revenue was derived from Customs and excise and 17·2% from direct taxes
+  Department: Outside the scope of the Development Plan the two main items are the Volta River Project and the construction of a new modern port at Tema, about 17 miles from Accra. The former is a multiple development scheme involving the harnessing of the River Volta for the production of cheap hydro-electric power; the exploitation of the extensive bauxite deposits for the production of aluminium; the construction of the necessary roads and railways to carry the bauxite to the smelter and the aluminium to the port; and possibly the provision of a country-wide electrical grid and the irrigation of the Accra Plains. The aluminium production would be in the hands of private enterprise while the power project would be publicly owned. The scheme is still in the planning stage but a great deal of investigation has already been carried out. The total expenditure, including the cost of public works, is estimated at about £124 million
+  Department: Comptroller of Customs and Excise—H. M. Lucie-Smith
+  Department: Director of Public Works—I. Wyn Pugh
+
+Extracted 0 people from GOLD_COAST 1953
+
+✓ Extracted 0 people from 1953
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[55/58] Processing 1954: THE_GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1954: output_3/1954_manual_parsed/THE_GOLD_COAST.txt
+======================================================================
+People section starts at line 371
+  Department: Comptroller of Customs and Excise—C. M. Bayfield
+  Department: Director of Public Works—I. Wyn-Pugh
+  Department: Geographical Features
+  Department: Climate
+  Department: Principal Towns
+  Department: History
+  Department: Constitution
+
+Extracted 0 people from GOLD_COAST 1954
+
+✓ Extracted 0 people from 1954
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[56/58] Processing 1955: GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1955: output_3/1955_manual_parsed/GOLD_COAST.txt
+======================================================================
+People section starts at line 379
+  Department: Comptroller of Customs and Excise—C. M. Bayfield
+  Department: Director of Public Works—I. Wyn-Pugh
+
+Extracted 0 people from GOLD_COAST 1955
+
+✓ Extracted 0 people from 1955
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[57/58] Processing 1956: THE_GOLD_COAST.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1956: output_3/1956_manual_parsed/THE_GOLD_COAST.txt
+======================================================================
+People section starts at line 396
+  Department: Comptroller of Customs and Excise—C. G. Scutt
+
+Extracted 0 people from GOLD_COAST 1956
+
+✓ Extracted 0 people from 1956
+  Format: mixed (table: 0, narrative: 0)
+
+================================================================================
+[58/58] Processing 1957: GOLD_COAST_GHANA.txt
+================================================================================
+
+======================================================================
+Processing GOLD_COAST 1957: output_3/1957_manual_parsed/GOLD_COAST_GHANA.txt
+======================================================================
+Warning: Could not find people section start
+
+Extracted 0 people from GOLD_COAST 1957
+
+✓ Extracted 0 people from 1957
+  Format: mixed (table: 0, narrative: 0)
+
+
+================================================================================
+EXTRACTION COMPLETE - SUMMARY
+================================================================================
+
+Total people extracted: 3,723
+Files processed successfully: 58/58
+Files failed: 0
+
+Format Distribution:
+  Table format: 1 files
+  Narrative format: 40 files
+  Mixed format: 17 files
+
+Quality Metrics:
+  High confidence (>=0.85): 3375 (90.7%)
+  Med confidence (0.6-0.84): 336 (9.0%)
+  Low confidence (<0.6):     12 (0.3%)
+  Unknown roles:             12 (0.3%)
+
+Results saved to: gold_coast_all_years_v2.json
+
+================================================================================
+

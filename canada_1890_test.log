@@ -1,0 +1,41 @@
+
+======================================================================
+Processing CANADA 1890: output_3/1890_manual_parsed/dominion_of_canada.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 188 people via patterns
+  - Multi-role entries: 21
+  - Acting officials: 0
+  - Skip sections: 121
+  Flagged 177 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 177 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 177
+    Successful: 177
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 172 people
+
+======================================================================
+EXTRACTION COMPLETE
+======================================================================
+Extracted 172 people
+Average confidence: 0.89
+
+Canada-specific stats:
+  Currency: $
+  Multi-role entries: 21
+  Acting officials: 0
+Saved to canada_1890_test.json

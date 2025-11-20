@@ -1,0 +1,2242 @@
+================================================================================
+FIJI COLONIAL OFFICE LISTS - COMPLETE EXTRACTION
+================================================================================
+
+Using Fiji-specific extractor with multi-role and acting official support
+
+Found 65 Fiji files
+
+
+================================================================================
+[1/65] Processing 1877: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1877: output_3/1877_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 6 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 15 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 15 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 15
+    Successful: 15
+    Failed: 0
+    People extracted: 1
+  Extracted 1 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 7 people
+
+✓ Extracted 7 people from 1877
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[2/65] Processing 1878: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1878: output_3/1878_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 22 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 21 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 21 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 21
+    Successful: 21
+    Failed: 0
+    People extracted: 11
+  Extracted 11 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 27 people
+
+✓ Extracted 27 people from 1878
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[3/65] Processing 1879: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1879: output_3/1879_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 19 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 25 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 25 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 25
+    Successful: 25
+    Failed: 0
+    People extracted: 12
+  Extracted 12 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 25 people
+
+✓ Extracted 25 people from 1879
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[4/65] Processing 1880: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1880: output_3/1880_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 20 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 24 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 24 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 24
+    Successful: 24
+    Failed: 0
+    People extracted: 10
+  Extracted 10 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 26 people
+
+✓ Extracted 26 people from 1880
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[5/65] Processing 1886: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1886: output_3/1886_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 50 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 65 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 65 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 65
+    Successful: 65
+    Failed: 0
+    People extracted: 27
+  Extracted 27 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 67 people
+
+✓ Extracted 67 people from 1886
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[6/65] Processing 1888: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1888: output_3/1888_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 49 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 63 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 63 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 63
+    Successful: 63
+    Failed: 0
+    People extracted: 24
+  Extracted 24 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 65 people
+
+✓ Extracted 65 people from 1888
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[7/65] Processing 1889: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1889: output_3/1889_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 40 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 74 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 74 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 74
+    Successful: 74
+    Failed: 0
+    People extracted: 16
+  Extracted 16 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 52 people
+
+✓ Extracted 52 people from 1889
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[8/65] Processing 1894: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1894: output_3/1894_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 48 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 40 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 40 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 40
+    Successful: 40
+    Failed: 0
+    People extracted: 20
+  Extracted 20 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 61 people
+
+✓ Extracted 61 people from 1894
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[9/65] Processing 1896: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1896: output_3/1896_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 1212 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 1388 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 1388 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 1388
+    Successful: 1388
+    Failed: 0
+    People extracted: 315
+  Extracted 315 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 1008 people
+
+✓ Extracted 1008 people from 1896
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[10/65] Processing 1897: FIJI.md
+================================================================================
+
+======================================================================
+Processing FIJI 1897: output_3/1897_manual_parsed/FIJI.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 53 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 2
+  Flagged 40 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 40 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 40
+    Successful: 40
+    Failed: 0
+    People extracted: 27
+  Extracted 27 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 70 people
+
+✓ Extracted 70 people from 1897
+  Multi-role: 2, Acting: 1
+
+================================================================================
+[11/65] Processing 1898: FIJI.md
+================================================================================
+
+======================================================================
+Processing FIJI 1898: output_3/1898_manual_parsed/FIJI.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 55 people via patterns
+  - Multi-role entries: 1
+  - Acting officials: 2
+  Flagged 38 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 38 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 38
+    Successful: 38
+    Failed: 0
+    People extracted: 25
+  Extracted 25 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 75 people
+
+✓ Extracted 75 people from 1898
+  Multi-role: 4, Acting: 1
+
+================================================================================
+[12/65] Processing 1899: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1899: output_3/1899_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 57 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 114 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 114 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 114
+    Successful: 114
+    Failed: 0
+    People extracted: 24
+  Extracted 24 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 72 people
+
+✓ Extracted 72 people from 1899
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[13/65] Processing 1900: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1900: output_3/1900_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 58 people via patterns
+  - Multi-role entries: 2
+  - Acting officials: 0
+  Flagged 120 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 120 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 120
+    Successful: 120
+    Failed: 0
+    People extracted: 29
+  Extracted 29 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 75 people
+
+✓ Extracted 75 people from 1900
+  Multi-role: 4, Acting: 0
+
+================================================================================
+[14/65] Processing 1905: FIJI.md
+================================================================================
+
+======================================================================
+Processing FIJI 1905: output_3/1905_manual_parsed/FIJI.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 48 people via patterns
+  - Multi-role entries: 2
+  - Acting officials: 0
+  Flagged 136 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 136 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 136
+    Successful: 136
+    Failed: 0
+    People extracted: 19
+  Extracted 19 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 64 people
+
+✓ Extracted 64 people from 1905
+  Multi-role: 4, Acting: 0
+
+================================================================================
+[15/65] Processing 1906: FIJI.md
+================================================================================
+
+======================================================================
+Processing FIJI 1906: output_3/1906_manual_parsed/FIJI.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 72 people via patterns
+  - Multi-role entries: 1
+  - Acting officials: 0
+  Flagged 211 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 211 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 211
+    Successful: 211
+    Failed: 0
+    People extracted: 33
+  Extracted 33 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 98 people
+
+✓ Extracted 98 people from 1906
+  Multi-role: 2, Acting: 0
+
+================================================================================
+[16/65] Processing 1907: FIJI.md
+================================================================================
+
+======================================================================
+Processing FIJI 1907: output_3/1907_manual_parsed/FIJI.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 69 people via patterns
+  - Multi-role entries: 1
+  - Acting officials: 0
+  Flagged 129 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 129 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 129
+    Successful: 129
+    Failed: 0
+    People extracted: 43
+  Extracted 43 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 101 people
+
+✓ Extracted 101 people from 1907
+  Multi-role: 2, Acting: 0
+
+================================================================================
+[17/65] Processing 1908: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1908: output_3/1908_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 84 people via patterns
+  - Multi-role entries: 3
+  - Acting officials: 4
+  Flagged 67 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 67 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 67
+    Successful: 67
+    Failed: 0
+    People extracted: 46
+  Extracted 46 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 119 people
+
+✓ Extracted 119 people from 1908
+  Multi-role: 10, Acting: 2
+
+================================================================================
+[18/65] Processing 1909: fiji.md
+================================================================================
+
+======================================================================
+Processing FIJI 1909: output_3/1909_manual_parsed/fiji.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 50 people via patterns
+  - Multi-role entries: 3
+  - Acting officials: 6
+  Flagged 142 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 142 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 142
+    Successful: 142
+    Failed: 0
+    People extracted: 29
+  Extracted 29 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 76 people
+
+✓ Extracted 76 people from 1909
+  Multi-role: 12, Acting: 3
+
+================================================================================
+[19/65] Processing 1910: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1910: output_3/1910_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 85 people via patterns
+  - Multi-role entries: 3
+  - Acting officials: 6
+  Flagged 154 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 154 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 154
+    Successful: 154
+    Failed: 0
+    People extracted: 53
+  Extracted 53 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 122 people
+
+✓ Extracted 122 people from 1910
+  Multi-role: 12, Acting: 3
+
+================================================================================
+[20/65] Processing 1911: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1911: output_3/1911_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 131 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 222 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 222 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 222
+    Successful: 222
+    Failed: 0
+    People extracted: 69
+  Extracted 69 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 189 people
+
+✓ Extracted 189 people from 1911
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[21/65] Processing 1912: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1912: output_3/1912_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 55 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 157 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 157 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 157
+    Successful: 157
+    Failed: 0
+    People extracted: 70
+  Extracted 70 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 113 people
+
+✓ Extracted 113 people from 1912
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[22/65] Processing 1913: FIJI.md
+================================================================================
+
+======================================================================
+Processing FIJI 1913: output_3/1913_manual_parsed/FIJI.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 60 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 157 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 157 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 157
+    Successful: 157
+    Failed: 0
+    People extracted: 63
+  Extracted 63 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 113 people
+
+✓ Extracted 113 people from 1913
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[23/65] Processing 1914: FIJI.md
+================================================================================
+
+======================================================================
+Processing FIJI 1914: output_3/1914_manual_parsed/FIJI.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 61 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 156 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 156 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 156
+    Successful: 156
+    Failed: 0
+    People extracted: 63
+  Extracted 63 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 113 people
+
+✓ Extracted 113 people from 1914
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[24/65] Processing 1915: FIJI.md
+================================================================================
+
+======================================================================
+Processing FIJI 1915: output_3/1915_manual_parsed/FIJI.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 65 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 159 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 159 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 159
+    Successful: 159
+    Failed: 0
+    People extracted: 67
+  Extracted 67 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 126 people
+
+✓ Extracted 126 people from 1915
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[25/65] Processing 1917: FIJI.md
+================================================================================
+
+======================================================================
+Processing FIJI 1917: output_3/1917_manual_parsed/FIJI.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 75 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 189 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 189 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 189
+    Successful: 189
+    Failed: 0
+    People extracted: 105
+  Extracted 105 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 167 people
+
+✓ Extracted 167 people from 1917
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[26/65] Processing 1918: FIJI.md
+================================================================================
+
+======================================================================
+Processing FIJI 1918: output_3/1918_manual_parsed/FIJI.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 74 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 199 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 199 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 199
+    Successful: 199
+    Failed: 0
+    People extracted: 111
+  Extracted 111 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 167 people
+
+✓ Extracted 167 people from 1918
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[27/65] Processing 1919: FIJI.md
+================================================================================
+
+======================================================================
+Processing FIJI 1919: output_3/1919_manual_parsed/FIJI.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 61 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 188 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 188 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 188
+    Successful: 188
+    Failed: 0
+    People extracted: 93
+  Extracted 93 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 138 people
+
+✓ Extracted 138 people from 1919
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[28/65] Processing 1920: FIJI.md
+================================================================================
+
+======================================================================
+Processing FIJI 1920: output_3/1920_manual_parsed/FIJI.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 70 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 219 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 219 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 219
+    Successful: 219
+    Failed: 0
+    People extracted: 114
+  Extracted 114 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 166 people
+
+✓ Extracted 166 people from 1920
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[29/65] Processing 1921: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1921: output_3/1921_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 77 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 173 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 173 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 173
+    Successful: 173
+    Failed: 0
+    People extracted: 89
+  Extracted 89 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 150 people
+
+✓ Extracted 150 people from 1921
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[30/65] Processing 1922: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1922: output_3/1922_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 80 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 176 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 176 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 176
+    Successful: 176
+    Failed: 0
+    People extracted: 91
+  Extracted 91 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 158 people
+
+✓ Extracted 158 people from 1922
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[31/65] Processing 1923: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1923: output_3/1923_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 70 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 187 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 187 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 187
+    Successful: 187
+    Failed: 0
+    People extracted: 103
+  Extracted 103 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 164 people
+
+✓ Extracted 164 people from 1923
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[32/65] Processing 1924: FIJI.md
+================================================================================
+
+======================================================================
+Processing FIJI 1924: output_3/1924_manual_parsed/FIJI.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 73 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 174 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 174 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 174
+    Successful: 174
+    Failed: 0
+    People extracted: 79
+  Extracted 79 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 144 people
+
+✓ Extracted 144 people from 1924
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[33/65] Processing 1925: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1925: output_3/1925_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 74 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 173 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 173 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 173
+    Successful: 173
+    Failed: 0
+    People extracted: 86
+  Extracted 86 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 149 people
+
+✓ Extracted 149 people from 1925
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[34/65] Processing 1927: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1927: output_3/1927_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 59 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 173 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 173 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 173
+    Successful: 173
+    Failed: 0
+    People extracted: 91
+  Extracted 91 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 138 people
+
+✓ Extracted 138 people from 1927
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[35/65] Processing 1928: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1928: output_3/1928_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 56 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 210 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 210 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 210
+    Successful: 210
+    Failed: 0
+    People extracted: 108
+  Extracted 108 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 153 people
+
+✓ Extracted 153 people from 1928
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[36/65] Processing 1929: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1929: output_3/1929_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 65 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 192 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 192 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 192
+    Successful: 192
+    Failed: 0
+    People extracted: 110
+  Extracted 110 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 163 people
+
+✓ Extracted 163 people from 1929
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[37/65] Processing 1930: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1930: output_3/1930_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 64 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 203 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 203 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 203
+    Successful: 203
+    Failed: 0
+    People extracted: 112
+  Extracted 112 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 167 people
+
+✓ Extracted 167 people from 1930
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[38/65] Processing 1931: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1931: output_3/1931_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 69 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 250 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 250 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 250
+    Successful: 250
+    Failed: 0
+    People extracted: 127
+  Extracted 127 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 185 people
+
+✓ Extracted 185 people from 1931
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[39/65] Processing 1932: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1932: output_3/1932_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 52 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 182 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 182 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 182
+    Successful: 182
+    Failed: 0
+    People extracted: 87
+  Extracted 87 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 127 people
+
+✓ Extracted 127 people from 1932
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[40/65] Processing 1933: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1933: output_3/1933_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 37 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 156 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 156 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 156
+    Successful: 156
+    Failed: 0
+    People extracted: 58
+  Extracted 58 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 81 people
+
+✓ Extracted 81 people from 1933
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[41/65] Processing 1934: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1934: output_3/1934_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 36 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 136 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 136 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 136
+    Successful: 136
+    Failed: 0
+    People extracted: 50
+  Extracted 50 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 73 people
+
+✓ Extracted 73 people from 1934
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[42/65] Processing 1936: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1936: output_3/1936_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 45 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 135 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 135 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 135
+    Successful: 135
+    Failed: 0
+    People extracted: 49
+  Extracted 49 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 83 people
+
+✓ Extracted 83 people from 1936
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[43/65] Processing 1937: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1937: output_3/1937_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 41 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 146 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 146 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 146
+    Successful: 146
+    Failed: 0
+    People extracted: 48
+  Extracted 48 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 82 people
+
+✓ Extracted 82 people from 1937
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[44/65] Processing 1939: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1939: output_3/1939_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 44 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 156 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 156 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 156
+    Successful: 156
+    Failed: 0
+    People extracted: 43
+  Extracted 43 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 73 people
+
+✓ Extracted 73 people from 1939
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[45/65] Processing 1940: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1940: output_3/1940_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 46 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 163 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 163 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 163
+    Successful: 163
+    Failed: 0
+    People extracted: 48
+  Extracted 48 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 83 people
+
+✓ Extracted 83 people from 1940
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[46/65] Processing 1946: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1946: output_3/1946_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 98 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 98 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 98
+    Successful: 98
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1946
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[47/65] Processing 1948: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1948: output_3/1948_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 104 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 104 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 104
+    Successful: 104
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1948
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[48/65] Processing 1949: Fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1949: output_3/1949_manual_parsed/Fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 229 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 229 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 229
+    Successful: 229
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1949
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[49/65] Processing 1950: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1950: output_3/1950_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 245 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 245 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 245
+    Successful: 245
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1950
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[50/65] Processing 1951: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1951: output_3/1951_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 350 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 350 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 350
+    Successful: 350
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1951
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[51/65] Processing 1952: FIJI.md
+================================================================================
+
+======================================================================
+Processing FIJI 1952: output_3/1952_manual_parsed/FIJI.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 32 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 32 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 32
+    Successful: 32
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1952
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[52/65] Processing 1953: fiji_and_pitcairn_islands.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1953: output_3/1953_manual_parsed/fiji_and_pitcairn_islands.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 70 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 70 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 70
+    Successful: 70
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1953
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[53/65] Processing 1954: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1954: output_3/1954_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 72 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 72 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 72
+    Successful: 72
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1954
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[54/65] Processing 1955: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1955: output_3/1955_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 83 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 83 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 83
+    Successful: 83
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1955
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[55/65] Processing 1956: FIJI.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1956: output_3/1956_manual_parsed/FIJI.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 65 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 65 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 65
+    Successful: 65
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1956
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[56/65] Processing 1957: FIJI_AND_PITCAIRN.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1957: output_3/1957_manual_parsed/FIJI_AND_PITCAIRN.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 65 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 65 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 65
+    Successful: 65
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1957
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[57/65] Processing 1958: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1958: output_3/1958_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 73 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 73 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 73
+    Successful: 73
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1958
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[58/65] Processing 1959: Fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1959: output_3/1959_manual_parsed/Fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 87 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 87 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 87
+    Successful: 87
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1959
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[59/65] Processing 1960: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1960: output_3/1960_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 79 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 79 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 79
+    Successful: 79
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1960
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[60/65] Processing 1961: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1961: output_3/1961_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 86 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 86 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 86
+    Successful: 86
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1961
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[61/65] Processing 1962: Fiji_and_Pitcairn_Islands_Group.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1962: output_3/1962_manual_parsed/Fiji_and_Pitcairn_Islands_Group.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 75 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 75 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 75
+    Successful: 75
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1962
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[62/65] Processing 1963: fiji_and_pitcairn_islands_group.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1963: output_3/1963_manual_parsed/fiji_and_pitcairn_islands_group.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 84 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 84 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 84
+    Successful: 84
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1963
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[63/65] Processing 1964: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1964: output_3/1964_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 85 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 85 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 85
+    Successful: 85
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1964
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[64/65] Processing 1965: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1965: output_3/1965_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 88 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 88 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 88
+    Successful: 88
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1965
+  Multi-role: 0, Acting: 0
+
+================================================================================
+[65/65] Processing 1966: fiji.txt
+================================================================================
+
+======================================================================
+Processing FIJI 1966: output_3/1966_manual_parsed/fiji.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Fiji-specific)...
+  Extracted 0 people via patterns
+  - Multi-role entries: 0
+  - Acting officials: 0
+  Flagged 91 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 91 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 91
+    Successful: 91
+    Failed: 0
+    People extracted: 3
+  Extracted 3 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1966
+  Multi-role: 0, Acting: 0
+
+
+================================================================================
+EXTRACTION COMPLETE - SUMMARY
+================================================================================
+
+Total people extracted: 5,675
+Files processed successfully: 65/65
+Files failed: 0
+
+Fiji-Specific Features:
+  Multi-role entries: 52
+  Acting officials: 10
+
+Quality Metrics:
+  High confidence (>=0.85): 3138 (55.3%)
+  Med confidence (0.6-0.84): 2527 (44.5%)
+  Low confidence (<0.6):     10 (0.2%)
+  Unknown roles:             10 (0.2%)
+
+Results saved to: fiji_all_years_v2.json
+
+================================================================================
+

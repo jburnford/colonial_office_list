@@ -1,0 +1,46 @@
+================================================================================
+FILE ANALYZER LLM - QUICK START
+================================================================================
+
+SETUP (One-time):
+  export ANTHROPIC_API_KEY="your-api-key-here"
+  pip install anthropic
+
+COMMAND LINE:
+  python file_analyzer_llm.py \
+      output_3/1889_manual_parsed/CEYLON.txt \
+      --colony CEYLON \
+      --year 1889 \
+      --verbose
+
+PYTHON CODE:
+  from file_analyzer_llm import analyze_file_structure
+
+  analysis = analyze_file_structure(
+      file_path="output_3/1889_manual_parsed/CEYLON.txt",
+      colony="CEYLON",
+      year=1889
+  )
+
+  print(f"Lines {analysis['people_section_start']}-{analysis['people_section_end']}")
+  print(f"Departments: {analysis['departments']}")
+
+INTEGRATION:
+  from file_analyzer_llm import analyze_file_structure
+  from extract_people_v2 import FileAnalysis
+
+  # In ExtractionOrchestrator._analyze_file_structure():
+  analysis_dict = analyze_file_structure(file_path, colony, year)
+  return FileAnalysis(**analysis_dict)
+
+TESTING:
+  python test_file_analyzer.py    # Run unit tests
+  python demo_file_analyzer.py    # Run demonstrations
+
+DOCUMENTATION:
+  FILE_ANALYZER_README.md   - Quick overview
+  FILE_ANALYZER_USAGE.md    - Complete guide
+  FILE_ANALYZER_SUMMARY.txt - Feature summary
+
+STATUS: ✓ Ready for use (14/14 tests passing)
+================================================================================

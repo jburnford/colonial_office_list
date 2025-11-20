@@ -45,9 +45,6 @@ class Person:
     extraction_method: str = "unknown"  # 'regex', 'llm', 'hybrid'
     notes: str = ""
 
-    def to_dict(self):
-        return asdict(self)
-
 
 @dataclass
 class FileAnalysis:
@@ -208,13 +205,51 @@ class ExtractionOrchestrator:
                             file_analysis: FileAnalysis,
                             lines: List[str]) -> List[Person]:
         """
-        Phase 3: Use LLM to extract from flagged sections.
-        PLACEHOLDER - will use Task for actual LLM extraction.
+        Phase 3: Use Tasks (Claude Code itself) to extract from flagged sections.
+
+        This uses Claude Code's Task tool, so I (Claude) do the extraction
+        work directly without needing external API calls.
         """
-        # For now, return empty list
-        # Will be replaced with Task-based extraction
-        print("  [LLM extraction not yet implemented - will use Task]")
-        return []
+        if not flagged:
+            print("  No sections flagged for LLM extraction")
+            return []
+
+        print(f"  Using Claude Code Tasks for extraction (no external API needed)")
+
+        # Use the Task-based extractor
+        try:
+            from llm_extractor_task import extract_from_flagged_sections
+
+            return extract_from_flagged_sections(
+                flagged_sections=flagged,
+                file_analysis=file_analysis,
+                all_lines=lines,
+                colony=file_analysis.colony,
+                year=file_analysis.year
+            )
+        except ImportError:
+            # Fallback to original llm_extractor if task version not available
+            try:
+                from llm_extractor import extract_from_flagged_sections
+                import os
+
+                backend = os.environ.get('LLM_BACKEND', 'placeholder')
+                print(f"  Fallback: Using LLM backend: {backend}")
+
+                return extract_from_flagged_sections(
+                    flagged_sections=flagged,
+                    file_analysis=file_analysis,
+                    all_lines=lines,
+                    colony=file_analysis.colony,
+                    year=file_analysis.year,
+                    llm_backend=backend
+                )
+            except Exception as e:
+                print(f"  Warning: LLM extraction failed: {e}")
+                return []
+        except Exception as e:
+            print(f"  Error in Task extraction: {e}")
+            return []
 
     def _validate_and_merge(self, people: List[Person], lines: List[str],
                            file_analysis: FileAnalysis) -> List[Person]:
@@ -534,7 +569,7 @@ def main():
             # Save results
             results = {
                 'metadata': metadata,
-                'people': [p.to_dict() for p in people]
+                'people': [asdict(p) for p in people]
             }
 
             with open(args.output, 'w') as f:

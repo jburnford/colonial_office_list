@@ -1,0 +1,1074 @@
+================================================================================
+CANADA COLONIAL OFFICE LISTS - COMPLETE EXTRACTION
+================================================================================
+
+Using Canada Phase 1 extractor (Federal departments only)
+
+Found 29 Canada files
+
+
+================================================================================
+[1/29] Processing 1867: canada.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1867: output_3/1867_manual_parsed/canada.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 68 people via patterns
+  - Multi-role entries: 4
+  - Acting officials: 1
+  - Skip sections: 23
+  Flagged 56 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 56 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 56
+    Successful: 56
+    Failed: 0
+    People extracted: 16
+  Extracted 16 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 76 people
+
+✓ Extracted 76 people from 1867
+  Multi-role: 8, Acting: 1
+
+================================================================================
+[2/29] Processing 1877: DOMINION_OF_CANADA.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1877: output_3/1877_manual_parsed/DOMINION_OF_CANADA.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 211 people via patterns
+  - Multi-role entries: 31
+  - Acting officials: 0
+  - Skip sections: 146
+  Flagged 178 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 178 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 178
+    Successful: 178
+    Failed: 0
+    People extracted: 5
+  Extracted 5 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 212 people
+
+✓ Extracted 212 people from 1877
+  Multi-role: 60, Acting: 0
+
+================================================================================
+[3/29] Processing 1878: DOMINION_OF_CANADA.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1878: output_3/1878_manual_parsed/DOMINION_OF_CANADA.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 214 people via patterns
+  - Multi-role entries: 31
+  - Acting officials: 0
+  - Skip sections: 140
+  Flagged 189 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 189 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 189
+    Successful: 189
+    Failed: 0
+    People extracted: 5
+  Extracted 5 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 215 people
+
+✓ Extracted 215 people from 1878
+  Multi-role: 62, Acting: 0
+
+================================================================================
+[4/29] Processing 1879: dominion_of_canada.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1879: output_3/1879_manual_parsed/dominion_of_canada.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 206 people via patterns
+  - Multi-role entries: 27
+  - Acting officials: 0
+  - Skip sections: 148
+  Flagged 181 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 181 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 181
+    Successful: 181
+    Failed: 0
+    People extracted: 4
+  Extracted 4 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 209 people
+
+✓ Extracted 209 people from 1879
+  Multi-role: 54, Acting: 0
+
+================================================================================
+[5/29] Processing 1880: dominion_of_canada.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1880: output_3/1880_manual_parsed/dominion_of_canada.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 207 people via patterns
+  - Multi-role entries: 27
+  - Acting officials: 0
+  - Skip sections: 117
+  Flagged 198 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 198 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 198
+    Successful: 198
+    Failed: 0
+    People extracted: 4
+  Extracted 4 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 207 people
+
+✓ Extracted 207 people from 1880
+  Multi-role: 53, Acting: 0
+
+================================================================================
+[6/29] Processing 1883: dominion_of_canada.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1883: output_3/1883_manual_parsed/dominion_of_canada.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 220 people via patterns
+  - Multi-role entries: 29
+  - Acting officials: 0
+  - Skip sections: 83
+  Flagged 180 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 180 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 180
+    Successful: 180
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 217 people
+
+✓ Extracted 217 people from 1883
+  Multi-role: 58, Acting: 0
+
+================================================================================
+[7/29] Processing 1886: DOMINION_OF_CANADA.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1886: output_3/1886_manual_parsed/DOMINION_OF_CANADA.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 433 people via patterns
+  - Multi-role entries: 57
+  - Acting officials: 0
+  - Skip sections: 504
+  Flagged 461 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 461 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 461
+    Successful: 461
+    Failed: 0
+    People extracted: 137
+  Extracted 137 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 540 people
+
+✓ Extracted 540 people from 1886
+  Multi-role: 116, Acting: 0
+
+================================================================================
+[8/29] Processing 1888: DOMINION_OF_CANADA.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1888: output_3/1888_manual_parsed/DOMINION_OF_CANADA.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 179 people via patterns
+  - Multi-role entries: 27
+  - Acting officials: 0
+  - Skip sections: 292
+  Flagged 158 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 158 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 158
+    Successful: 158
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 178 people
+
+✓ Extracted 178 people from 1888
+  Multi-role: 54, Acting: 0
+
+================================================================================
+[9/29] Processing 1889: DOMINION_OF_CANADA.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1889: output_3/1889_manual_parsed/DOMINION_OF_CANADA.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 177 people via patterns
+  - Multi-role entries: 20
+  - Acting officials: 0
+  - Skip sections: 233
+  Flagged 164 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 164 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 164
+    Successful: 164
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 171 people
+
+✓ Extracted 171 people from 1889
+  Multi-role: 38, Acting: 0
+
+================================================================================
+[10/29] Processing 1890: dominion_of_canada.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1890: output_3/1890_manual_parsed/dominion_of_canada.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 188 people via patterns
+  - Multi-role entries: 21
+  - Acting officials: 0
+  - Skip sections: 121
+  Flagged 177 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 177 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 177
+    Successful: 177
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 186 people
+
+✓ Extracted 186 people from 1890
+  Multi-role: 42, Acting: 0
+
+================================================================================
+[11/29] Processing 1894: dominion_of_canada.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1894: output_3/1894_manual_parsed/dominion_of_canada.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 218 people via patterns
+  - Multi-role entries: 29
+  - Acting officials: 0
+  - Skip sections: 307
+  Flagged 278 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 278 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 278
+    Successful: 278
+    Failed: 0
+    People extracted: 16
+  Extracted 16 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 216 people
+
+✓ Extracted 216 people from 1894
+  Multi-role: 54, Acting: 0
+
+================================================================================
+[12/29] Processing 1896: dominion_of_canada.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1896: output_3/1896_manual_parsed/dominion_of_canada.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 252 people via patterns
+  - Multi-role entries: 34
+  - Acting officials: 0
+  - Skip sections: 274
+  Flagged 211 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 211 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 211
+    Successful: 211
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 220 people
+
+✓ Extracted 220 people from 1896
+  Multi-role: 66, Acting: 0
+
+================================================================================
+[13/29] Processing 1897: DOMINION_OF_CANADA.md
+================================================================================
+
+======================================================================
+Processing CANADA 1897: output_3/1897_manual_parsed/DOMINION_OF_CANADA.md
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 190 people via patterns
+  - Multi-role entries: 27
+  - Acting officials: 0
+  - Skip sections: 302
+  Flagged 168 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 168 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 168
+    Successful: 168
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 183 people
+
+✓ Extracted 183 people from 1897
+  Multi-role: 51, Acting: 0
+
+================================================================================
+[14/29] Processing 1898: CANADA.md
+================================================================================
+
+======================================================================
+Processing CANADA 1898: output_3/1898_manual_parsed/CANADA.md
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 217 people via patterns
+  - Multi-role entries: 35
+  - Acting officials: 0
+  - Skip sections: 343
+  Flagged 210 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 210 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 210
+    Successful: 210
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 211 people
+
+✓ Extracted 211 people from 1898
+  Multi-role: 69, Acting: 0
+
+================================================================================
+[15/29] Processing 1899: dominion_of_canada.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1899: output_3/1899_manual_parsed/dominion_of_canada.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 208 people via patterns
+  - Multi-role entries: 37
+  - Acting officials: 0
+  - Skip sections: 272
+  Flagged 147 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 147 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 147
+    Successful: 147
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 205 people
+
+✓ Extracted 205 people from 1899
+  Multi-role: 75, Acting: 0
+
+================================================================================
+[16/29] Processing 1900: DOMINION_OF_CANADA.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1900: output_3/1900_manual_parsed/DOMINION_OF_CANADA.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 230 people via patterns
+  - Multi-role entries: 40
+  - Acting officials: 0
+  - Skip sections: 159
+  Flagged 209 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 209 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 209
+    Successful: 209
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 228 people
+
+✓ Extracted 228 people from 1900
+  Multi-role: 82, Acting: 0
+
+================================================================================
+[17/29] Processing 1905: DOMINION_OF_CANADA.md
+================================================================================
+
+======================================================================
+Processing CANADA 1905: output_3/1905_manual_parsed/DOMINION_OF_CANADA.md
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 225 people via patterns
+  - Multi-role entries: 34
+  - Acting officials: 0
+  - Skip sections: 275
+  Flagged 185 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 185 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 185
+    Successful: 185
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 222 people
+
+✓ Extracted 222 people from 1905
+  Multi-role: 70, Acting: 0
+
+================================================================================
+[18/29] Processing 1906: DOMINION_OF_CANADA.md
+================================================================================
+
+======================================================================
+Processing CANADA 1906: output_3/1906_manual_parsed/DOMINION_OF_CANADA.md
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 201 people via patterns
+  - Multi-role entries: 40
+  - Acting officials: 0
+  - Skip sections: 118
+  Flagged 146 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 146 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 146
+    Successful: 146
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 199 people
+
+✓ Extracted 199 people from 1906
+  Multi-role: 84, Acting: 0
+
+================================================================================
+[19/29] Processing 1907: DOMINION_OF_CANADA.md
+================================================================================
+
+======================================================================
+Processing CANADA 1907: output_3/1907_manual_parsed/DOMINION_OF_CANADA.md
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 221 people via patterns
+  - Multi-role entries: 44
+  - Acting officials: 0
+  - Skip sections: 189
+  Flagged 153 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 153 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 153
+    Successful: 153
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 218 people
+
+✓ Extracted 218 people from 1907
+  Multi-role: 92, Acting: 0
+
+================================================================================
+[20/29] Processing 1908: DOMINION_OF_CANADA.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1908: output_3/1908_manual_parsed/DOMINION_OF_CANADA.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 133 people via patterns
+  - Multi-role entries: 28
+  - Acting officials: 0
+  - Skip sections: 95
+  Flagged 96 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 96 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 96
+    Successful: 96
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 131 people
+
+✓ Extracted 131 people from 1908
+  Multi-role: 60, Acting: 0
+
+================================================================================
+[21/29] Processing 1912: CANADA.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1912: output_3/1912_manual_parsed/CANADA.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 251 people via patterns
+  - Multi-role entries: 51
+  - Acting officials: 2
+  - Skip sections: 328
+  Flagged 202 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 202 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 202
+    Successful: 202
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 248 people
+
+✓ Extracted 248 people from 1912
+  Multi-role: 105, Acting: 2
+
+================================================================================
+[22/29] Processing 1913: DOMINION_OF_CANADA.md
+================================================================================
+
+======================================================================
+Processing CANADA 1913: output_3/1913_manual_parsed/DOMINION_OF_CANADA.md
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 260 people via patterns
+  - Multi-role entries: 47
+  - Acting officials: 2
+  - Skip sections: 400
+  Flagged 233 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 233 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 233
+    Successful: 233
+    Failed: 0
+    People extracted: 1
+  Extracted 1 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 256 people
+
+✓ Extracted 256 people from 1913
+  Multi-role: 98, Acting: 2
+
+================================================================================
+[23/29] Processing 1914: DOMINION_OF_CANADA.md
+================================================================================
+
+======================================================================
+Processing CANADA 1914: output_3/1914_manual_parsed/DOMINION_OF_CANADA.md
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 214 people via patterns
+  - Multi-role entries: 38
+  - Acting officials: 2
+  - Skip sections: 148
+  Flagged 128 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 128 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 128
+    Successful: 128
+    Failed: 0
+    People extracted: 1
+  Extracted 1 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 214 people
+
+✓ Extracted 214 people from 1914
+  Multi-role: 80, Acting: 2
+
+================================================================================
+[24/29] Processing 1915: DOMINION_OF_CANADA.md
+================================================================================
+
+======================================================================
+Processing CANADA 1915: output_3/1915_manual_parsed/DOMINION_OF_CANADA.md
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 233 people via patterns
+  - Multi-role entries: 47
+  - Acting officials: 1
+  - Skip sections: 318
+  Flagged 186 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 186 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 186
+    Successful: 186
+    Failed: 0
+    People extracted: 1
+  Extracted 1 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 233 people
+
+✓ Extracted 233 people from 1915
+  Multi-role: 98, Acting: 1
+
+================================================================================
+[25/29] Processing 1917: DOMINION_OF_CANADA.md
+================================================================================
+
+======================================================================
+Processing CANADA 1917: output_3/1917_manual_parsed/DOMINION_OF_CANADA.md
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 228 people via patterns
+  - Multi-role entries: 52
+  - Acting officials: 1
+  - Skip sections: 232
+  Flagged 194 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 194 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 194
+    Successful: 194
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 224 people
+
+✓ Extracted 224 people from 1917
+  Multi-role: 107, Acting: 0
+
+================================================================================
+[26/29] Processing 1918: CANADA.md
+================================================================================
+
+======================================================================
+Processing CANADA 1918: output_3/1918_manual_parsed/CANADA.md
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 253 people via patterns
+  - Multi-role entries: 56
+  - Acting officials: 0
+  - Skip sections: 357
+  Flagged 225 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 225 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 225
+    Successful: 225
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 252 people
+
+✓ Extracted 252 people from 1918
+  Multi-role: 116, Acting: 0
+
+================================================================================
+[27/29] Processing 1919: CANADA.md
+================================================================================
+
+======================================================================
+Processing CANADA 1919: output_3/1919_manual_parsed/CANADA.md
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 228 people via patterns
+  - Multi-role entries: 54
+  - Acting officials: 3
+  - Skip sections: 503
+  Flagged 266 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 266 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 266
+    Successful: 266
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 227 people
+
+✓ Extracted 227 people from 1919
+  Multi-role: 112, Acting: 2
+
+================================================================================
+[28/29] Processing 1920: CANADA.md
+================================================================================
+
+======================================================================
+Processing CANADA 1920: output_3/1920_manual_parsed/CANADA.md
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 247 people via patterns
+  - Multi-role entries: 44
+  - Acting officials: 1
+  - Skip sections: 89
+  Flagged 288 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 288 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 288
+    Successful: 288
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 241 people
+
+✓ Extracted 241 people from 1920
+  Multi-role: 91, Acting: 0
+
+================================================================================
+[29/29] Processing 1922: CANADA.txt
+================================================================================
+
+======================================================================
+Processing CANADA 1922: output_3/1922_manual_parsed/CANADA.txt
+PHASE 1: Federal departments only (Cabinet, Courts, Departments)
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Canada Federal)...
+  Extracted 269 people via patterns
+  - Multi-role entries: 62
+  - Acting officials: 1
+  - Skip sections: 429
+  Flagged 375 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction
+
+  Processing 375 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 375
+    Successful: 375
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 266 people
+
+✓ Extracted 266 people from 1922
+  Multi-role: 127, Acting: 0
+
+
+================================================================================
+EXTRACTION COMPLETE - SUMMARY
+================================================================================
+
+Total people extracted: 6,405
+Files processed successfully: 29/29
+Files failed: 0
+
+Canada-Specific Features:
+  Multi-role entries: 2182
+  Acting officials: 10
+
+Quality Metrics:
+  High confidence (>=0.85): 6007 (93.8%)
+  Med confidence (0.6-0.84): 395 (6.2%)
+  Low confidence (<0.6):     3 (0.0%)
+  Unknown roles:             3 (0.0%)
+
+Results saved to: canada_all_years_v2_fixed.json
+================================================================================

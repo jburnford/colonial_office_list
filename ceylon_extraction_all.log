@@ -1,0 +1,1492 @@
+================================================================================
+CEYLON COLONIAL OFFICE LISTS - COMPLETE EXTRACTION
+================================================================================
+
+Using v2 hybrid Python-Task extraction system
+No external API needed - Claude Code Tasks handle complex extraction
+
+Found 47 Ceylon files (1867-1946)
+
+
+================================================================================
+[1/47] Processing 1867: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1867: output_3/1867_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 155 people via patterns
+  Flagged 56 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 56 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 56
+    Successful: 56
+    Failed: 0
+    People extracted: 59
+  Extracted 59 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 175 people
+
+✓ Extracted 175 people from 1867
+
+================================================================================
+[2/47] Processing 1877: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1877: output_3/1877_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 114 people via patterns
+  Flagged 158 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 158 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 158
+    Successful: 158
+    Failed: 0
+    People extracted: 90
+  Extracted 90 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 145 people
+
+✓ Extracted 145 people from 1877
+
+================================================================================
+[3/47] Processing 1878: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1878: output_3/1878_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 162 people via patterns
+  Flagged 82 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 82 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 82
+    Successful: 82
+    Failed: 0
+    People extracted: 86
+  Extracted 86 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 192 people
+
+✓ Extracted 192 people from 1878
+
+================================================================================
+[4/47] Processing 1879: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1879: output_3/1879_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 193 people via patterns
+  Flagged 84 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 84 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 84
+    Successful: 84
+    Failed: 0
+    People extracted: 91
+  Extracted 91 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 230 people
+
+✓ Extracted 230 people from 1879
+
+================================================================================
+[5/47] Processing 1880: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1880: output_3/1880_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 171 people via patterns
+  Flagged 83 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 83 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 83
+    Successful: 83
+    Failed: 0
+    People extracted: 78
+  Extracted 78 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 198 people
+
+✓ Extracted 198 people from 1880
+
+================================================================================
+[6/47] Processing 1883: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1883: output_3/1883_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 170 people via patterns
+  Flagged 76 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 76 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 76
+    Successful: 76
+    Failed: 0
+    People extracted: 63
+  Extracted 63 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 188 people
+
+✓ Extracted 188 people from 1883
+
+================================================================================
+[7/47] Processing 1888: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1888: output_3/1888_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 97 people via patterns
+  Flagged 104 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 104 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 104
+    Successful: 104
+    Failed: 0
+    People extracted: 85
+  Extracted 85 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 140 people
+
+✓ Extracted 140 people from 1888
+
+================================================================================
+[8/47] Processing 1889: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1889: output_3/1889_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 43 people via patterns
+  Flagged 160 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 160 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 160
+    Successful: 160
+    Failed: 0
+    People extracted: 120
+  Extracted 120 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 107 people
+
+✓ Extracted 107 people from 1889
+
+================================================================================
+[9/47] Processing 1890: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1890: output_3/1890_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 101 people via patterns
+  Flagged 103 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 103 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 103
+    Successful: 103
+    Failed: 0
+    People extracted: 93
+  Extracted 93 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 149 people
+
+✓ Extracted 149 people from 1890
+
+================================================================================
+[10/47] Processing 1894: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1894: output_3/1894_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 94 people via patterns
+  Flagged 102 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 102 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 102
+    Successful: 102
+    Failed: 0
+    People extracted: 76
+  Extracted 76 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 124 people
+
+✓ Extracted 124 people from 1894
+
+================================================================================
+[11/47] Processing 1896: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1896: output_3/1896_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 109 people via patterns
+  Flagged 95 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 95 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 95
+    Successful: 95
+    Failed: 0
+    People extracted: 72
+  Extracted 72 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 134 people
+
+✓ Extracted 134 people from 1896
+
+================================================================================
+[12/47] Processing 1897: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1897: output_3/1897_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 95 people via patterns
+  Flagged 122 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 122 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 122
+    Successful: 122
+    Failed: 0
+    People extracted: 70
+  Extracted 70 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 115 people
+
+✓ Extracted 115 people from 1897
+
+================================================================================
+[13/47] Processing 1898: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1898: output_3/1898_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 105 people via patterns
+  Flagged 92 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 92 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 92
+    Successful: 92
+    Failed: 0
+    People extracted: 78
+  Extracted 78 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 142 people
+
+✓ Extracted 142 people from 1898
+
+================================================================================
+[14/47] Processing 1899: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1899: output_3/1899_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 96 people via patterns
+  Flagged 96 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 96 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 96
+    Successful: 96
+    Failed: 0
+    People extracted: 61
+  Extracted 61 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 122 people
+
+✓ Extracted 122 people from 1899
+
+================================================================================
+[15/47] Processing 1900: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1900: output_3/1900_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 115 people via patterns
+  Flagged 94 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 94 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 94
+    Successful: 94
+    Failed: 0
+    People extracted: 60
+  Extracted 60 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 142 people
+
+✓ Extracted 142 people from 1900
+
+================================================================================
+[16/47] Processing 1905: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1905: output_3/1905_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 135 people via patterns
+  Flagged 126 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 126 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 126
+    Successful: 126
+    Failed: 0
+    People extracted: 81
+  Extracted 81 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 170 people
+
+✓ Extracted 170 people from 1905
+
+================================================================================
+[17/47] Processing 1906: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1906: output_3/1906_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 158 people via patterns
+  Flagged 116 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 116 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 116
+    Successful: 116
+    Failed: 0
+    People extracted: 88
+  Extracted 88 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 204 people
+
+✓ Extracted 204 people from 1906
+
+================================================================================
+[18/47] Processing 1907: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1907: output_3/1907_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 163 people via patterns
+  Flagged 132 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 132 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 132
+    Successful: 132
+    Failed: 0
+    People extracted: 99
+  Extracted 99 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 218 people
+
+✓ Extracted 218 people from 1907
+
+================================================================================
+[19/47] Processing 1909: ceylon.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1909: output_3/1909_manual_parsed/ceylon.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 162 people via patterns
+  Flagged 131 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 131 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 131
+    Successful: 131
+    Failed: 0
+    People extracted: 105
+  Extracted 105 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 222 people
+
+✓ Extracted 222 people from 1909
+
+================================================================================
+[20/47] Processing 1910: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1910: output_3/1910_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 134 people via patterns
+  Flagged 123 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 123 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 123
+    Successful: 123
+    Failed: 0
+    People extracted: 69
+  Extracted 69 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 155 people
+
+✓ Extracted 155 people from 1910
+
+================================================================================
+[21/47] Processing 1911: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1911: output_3/1911_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 170 people via patterns
+  Flagged 144 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 144 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 144
+    Successful: 144
+    Failed: 0
+    People extracted: 88
+  Extracted 88 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 204 people
+
+✓ Extracted 204 people from 1911
+
+================================================================================
+[22/47] Processing 1912: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1912: output_3/1912_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 167 people via patterns
+  Flagged 131 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 131 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 131
+    Successful: 131
+    Failed: 0
+    People extracted: 87
+  Extracted 87 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 219 people
+
+✓ Extracted 219 people from 1912
+
+================================================================================
+[23/47] Processing 1913: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1913: output_3/1913_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 137 people via patterns
+  Flagged 163 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 163 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 163
+    Successful: 163
+    Failed: 0
+    People extracted: 108
+  Extracted 108 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 206 people
+
+✓ Extracted 206 people from 1913
+
+================================================================================
+[24/47] Processing 1914: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1914: output_3/1914_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 169 people via patterns
+  Flagged 160 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 160 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 160
+    Successful: 160
+    Failed: 0
+    People extracted: 100
+  Extracted 100 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 227 people
+
+✓ Extracted 227 people from 1914
+
+================================================================================
+[25/47] Processing 1915: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1915: output_3/1915_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 155 people via patterns
+  Flagged 141 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 141 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 141
+    Successful: 141
+    Failed: 0
+    People extracted: 102
+  Extracted 102 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 226 people
+
+✓ Extracted 226 people from 1915
+
+================================================================================
+[26/47] Processing 1917: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1917: output_3/1917_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 146 people via patterns
+  Flagged 181 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 181 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 181
+    Successful: 181
+    Failed: 0
+    People extracted: 90
+  Extracted 90 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 197 people
+
+✓ Extracted 197 people from 1917
+
+================================================================================
+[27/47] Processing 1918: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1918: output_3/1918_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 167 people via patterns
+  Flagged 157 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 157 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 157
+    Successful: 157
+    Failed: 0
+    People extracted: 81
+  Extracted 81 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 212 people
+
+✓ Extracted 212 people from 1918
+
+================================================================================
+[28/47] Processing 1919: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1919: output_3/1919_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 140 people via patterns
+  Flagged 144 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 144 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 144
+    Successful: 144
+    Failed: 0
+    People extracted: 81
+  Extracted 81 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 186 people
+
+✓ Extracted 186 people from 1919
+
+================================================================================
+[29/47] Processing 1920: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1920: output_3/1920_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 122 people via patterns
+  Flagged 216 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 216 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 216
+    Successful: 216
+    Failed: 0
+    People extracted: 132
+  Extracted 132 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 202 people
+
+✓ Extracted 202 people from 1920
+
+================================================================================
+[30/47] Processing 1921: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1921: output_3/1921_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 162 people via patterns
+  Flagged 205 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 205 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 205
+    Successful: 205
+    Failed: 0
+    People extracted: 110
+  Extracted 110 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 223 people
+
+✓ Extracted 223 people from 1921
+
+================================================================================
+[31/47] Processing 1922: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1922: output_3/1922_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 180 people via patterns
+  Flagged 230 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 230 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 230
+    Successful: 230
+    Failed: 0
+    People extracted: 123
+  Extracted 123 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 243 people
+
+✓ Extracted 243 people from 1922
+
+================================================================================
+[32/47] Processing 1923: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1923: output_3/1923_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 168 people via patterns
+  Flagged 241 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 241 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 241
+    Successful: 241
+    Failed: 0
+    People extracted: 164
+  Extracted 164 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 275 people
+
+✓ Extracted 275 people from 1923
+
+================================================================================
+[33/47] Processing 1924: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1924: output_3/1924_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 176 people via patterns
+  Flagged 244 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 244 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 244
+    Successful: 244
+    Failed: 0
+    People extracted: 119
+  Extracted 119 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 250 people
+
+✓ Extracted 250 people from 1924
+
+================================================================================
+[34/47] Processing 1925: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1925: output_3/1925_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 161 people via patterns
+  Flagged 251 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 251 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 251
+    Successful: 251
+    Failed: 0
+    People extracted: 140
+  Extracted 140 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 250 people
+
+✓ Extracted 250 people from 1925
+
+================================================================================
+[35/47] Processing 1927: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1927: output_3/1927_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 178 people via patterns
+  Flagged 276 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 276 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 276
+    Successful: 276
+    Failed: 0
+    People extracted: 91
+  Extracted 91 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 227 people
+
+✓ Extracted 227 people from 1927
+
+================================================================================
+[36/47] Processing 1928: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1928: output_3/1928_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 211 people via patterns
+  Flagged 316 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 316 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 316
+    Successful: 316
+    Failed: 0
+    People extracted: 85
+  Extracted 85 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 270 people
+
+✓ Extracted 270 people from 1928
+
+================================================================================
+[37/47] Processing 1929: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1929: output_3/1929_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 83 people via patterns
+  Flagged 102 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 102 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 102
+    Successful: 102
+    Failed: 0
+    People extracted: 43
+  Extracted 43 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 112 people
+
+✓ Extracted 112 people from 1929
+
+================================================================================
+[38/47] Processing 1930: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1930: output_3/1930_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 82 people via patterns
+  Flagged 85 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 85 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 85
+    Successful: 85
+    Failed: 0
+    People extracted: 30
+  Extracted 30 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 100 people
+
+✓ Extracted 100 people from 1930
+
+================================================================================
+[39/47] Processing 1931: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1931: output_3/1931_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 221 people via patterns
+  Flagged 225 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 225 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 225
+    Successful: 225
+    Failed: 0
+    People extracted: 87
+  Extracted 87 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 270 people
+
+✓ Extracted 270 people from 1931
+
+================================================================================
+[40/47] Processing 1932: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1932: output_3/1932_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 132 people via patterns
+  Flagged 105 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 105 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 105
+    Successful: 105
+    Failed: 0
+    People extracted: 53
+  Extracted 53 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 171 people
+
+✓ Extracted 171 people from 1932
+
+================================================================================
+[41/47] Processing 1933: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1933: output_3/1933_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 116 people via patterns
+  Flagged 131 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 131 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 131
+    Successful: 131
+    Failed: 0
+    People extracted: 84
+  Extracted 84 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 173 people
+
+✓ Extracted 173 people from 1933
+
+================================================================================
+[42/47] Processing 1934: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1934: output_3/1934_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 149 people via patterns
+  Flagged 210 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 210 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 210
+    Successful: 210
+    Failed: 0
+    People extracted: 118
+  Extracted 118 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 234 people
+
+✓ Extracted 234 people from 1934
+
+================================================================================
+[43/47] Processing 1936: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1936: output_3/1936_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 143 people via patterns
+  Flagged 166 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 166 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 166
+    Successful: 166
+    Failed: 0
+    People extracted: 97
+  Extracted 97 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 213 people
+
+✓ Extracted 213 people from 1936
+
+================================================================================
+[44/47] Processing 1937: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1937: output_3/1937_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 168 people via patterns
+  Flagged 198 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 198 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 198
+    Successful: 198
+    Failed: 0
+    People extracted: 116
+  Extracted 116 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 248 people
+
+✓ Extracted 248 people from 1937
+
+================================================================================
+[45/47] Processing 1939: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1939: output_3/1939_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 188 people via patterns
+  Flagged 151 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 151 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 151
+    Successful: 151
+    Failed: 0
+    People extracted: 79
+  Extracted 79 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 232 people
+
+✓ Extracted 232 people from 1939
+
+================================================================================
+[46/47] Processing 1940: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1940: output_3/1940_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 264 people via patterns
+  Flagged 230 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 230 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 230
+    Successful: 230
+    Failed: 0
+    People extracted: 116
+  Extracted 116 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 333 people
+
+✓ Extracted 333 people from 1940
+
+================================================================================
+[47/47] Processing 1946: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1946: output_3/1946_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction...
+  Extracted 0 people via patterns
+  Flagged 4 sections for LLM review
+
+PHASE 3: LLM extraction for flagged sections...
+  Using Claude Code Tasks for extraction (no external API needed)
+
+  Processing 4 flagged sections using Tasks...
+
+  Task Extraction Stats:
+    Sections processed: 4
+    Successful: 4
+    Failed: 0
+    People extracted: 0
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and merging...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1946
+
+
+================================================================================
+EXTRACTION COMPLETE - SUMMARY
+================================================================================
+
+Total people extracted: 8975
+Files processed successfully: 47/47
+Files failed: 0
+
+Quality Metrics:
+  High confidence (>=0.85): 5128 (57.1%)
+  Med confidence (0.6-0.84): 3843 (42.8%)
+  Low confidence (<0.6):     4 (0.0%)
+  Unknown roles:             4 (0.0%)
+
+Extraction Methods:
+  regex_pattern1: 5128 (57.1%)
+  task_pattern_extraction: 2010 (22.4%)
+  regex_pattern2: 1393 (15.5%)
+  task_list_extraction: 444 (4.9%)
+
+Results saved to: ceylon_all_years_v2.json
+
+================================================================================
+

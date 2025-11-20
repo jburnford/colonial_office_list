@@ -1,0 +1,66 @@
+======================================================================
+GOLD COAST MODERN FORMAT EXTRACTION - RESULTS
+======================================================================
+
+Previous extraction (v2):     3,723 people
+New extraction (v3):          5,024 people
+**RECOVERED:                  1,301 people** (+34.9%)
+
+Modern format extractions:    1,301 people
+  - 1948-1956 period:         1,219 people
+  - Other years:              82 people
+
+======================================================================
+KEY INDEPENDENCE-ERA FIGURES RECOVERED:
+======================================================================
+
+  1952: Honourable K. Nkrumah, M.L.A. £2,750 - Leader of Government Business in the Assembly
+  1953: K. Nkrumah                     - Prime Minister
+
+  Other Ministers (1950-1956):
+    1952: (Vacant). £1,200               - Ministerial Secretary, do.
+    1952: A. E. Inkumsah, M.L.A. £1,200  - Ministerial Secretary, do.
+    1952: A. Imoru, M.L.A. £1,200        - Ministerial Secretary, do.
+    1952: F. Y. Asare, M.L.A. £1,200     - Ministerial Secretary, do.
+    1952: Honourable A. Casely-Hayford,  - Minister of Agriculture and Natural Reso
+    1952: Honourable E. O. Asafu-Adjaye, - Minister of Local Government
+    1952: Honourable J. A. Braimah, M.L. - Minister of Communications and Works
+    1952: Honourable K. A. Gbedemah, M.L - Minister of Health and Labour
+    1952: Honourable K. Botso, M.L.A. £2 - Minister of Education and Social Welfare
+    1952: Honourable P. F. Branigan, Q.C - Minister of Justice and Attorney-General
+
+======================================================================
+YEAR-BY-YEAR RECOVERY (1946-1957):
+======================================================================
+
+Year | Total | Modern Format | Status
+-----|-------|---------------|--------
+1946 |     0 |             0 | ✗ No data
+1947 |     0 |             0 | ✗ No data
+1948 |    13 |            13 | ✓ RECOVERED
+1949 |   178 |           178 | ✓ RECOVERED
+1950 |   291 |           291 | ✓ RECOVERED
+1951 |   377 |           377 | ✓ RECOVERED
+1952 |    88 |            88 | ✓ RECOVERED
+1953 |    84 |            84 | ✓ RECOVERED
+1954 |    79 |            79 | ✓ RECOVERED
+1955 |    76 |            76 | ✓ RECOVERED
+1956 |    33 |            33 | ✓ RECOVERED
+1957 |     0 |             0 | ✗ No data
+
+======================================================================
+QUALITY METRICS:
+======================================================================
+
+High confidence (>=0.85):   3375 (67.2%)
+Medium confidence (0.6-0.84):  1649 (32.8%)
+
+Modern format confidence:   0.75 (medium - no salary to verify)
+
+======================================================================
+OUTPUT FILES:
+======================================================================
+
+  gold_coast_all_years_v3.json     - Full extraction with modern format
+  gold_coast_extraction_v3.log     - Detailed extraction log
+

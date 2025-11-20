@@ -329,6 +329,68 @@ class GoldCoastPatternExtractor:
                 method='narrative_pattern2'
             )
 
+        # Pattern 3: Modern format (1946-1957): Role—Name (em-dash, no salary)
+        # e.g., "Prime Minister—K. Nkrumah." or "Director of Agriculture—E. W. Leach."
+        # Handles both em-dash (—) and en-dash (–)
+        pattern3 = r'^([A-Z].+?)\u2014(.+)\.$'
+        match = re.search(pattern3, line_stripped)
+        if match:
+            role, names = match.groups()
+            role = role.strip()
+            names = names.strip()
+
+            # Skip if this looks like a sentence (too long, contains "and" followed by long text)
+            if len(line_stripped) > 200:
+                return None
+
+            # Skip if role contains sentence-like patterns
+            if ' consist of ' in role or ' consists of ' in role:
+                return None
+
+            # Skip if role starts with common false positive patterns
+            false_positive_role_starts = [
+                'The Legislative', 'The 75 elected', 'Elected Members',
+                'Ex-Officio Members', 'Special Members', 'Southern Section',
+                'Representing'
+            ]
+            if any(role.startswith(fp) for fp in false_positive_role_starts):
+                return None
+
+            # Skip if names contain multiple complete role descriptions (comma-separated roles)
+            if names.count(',') > 3:  # More than 3 commas suggests a list of things, not a person
+                return None
+
+            # Handle multiple names separated by semicolons
+            # e.g., "Deputy Directors—J. R. Marshall; Vacant."
+            name_list = [n.strip() for n in names.split(';')]
+
+            # Return first valid person (or could return list, but single for now)
+            for name in name_list:
+                # Skip "Vacant" entries
+                if name.lower() in ['vacant', '(vacant)']:
+                    continue
+
+                # Skip if name contains "the" (likely a role description, not a name)
+                if ' the ' in name.lower():
+                    continue
+
+                # Create person with no salary
+                person = self._create_person_no_salary(
+                    name.strip(),
+                    role,
+                    line_stripped,
+                    line_num,
+                    colony,
+                    year,
+                    confidence=0.75,  # Medium confidence without salary
+                    method='modern_format'
+                )
+
+                # Store role for potential context
+                self.last_role = role
+
+                return person  # Return first valid person
+
         return None
 
     def _create_person(self, name: str, role: str, salary: str,
@@ -351,6 +413,33 @@ class GoldCoastPatternExtractor:
             department=self.current_department,
             province=self.current_province,
             salary=self._clean_salary(salary),
+            full_string=line,
+            source_file=self._generate_github_url(line_num),
+            line_number=line_num + 1,
+            confidence=confidence,
+            extraction_method=method
+        )
+
+    def _create_person_no_salary(self, name: str, role: str,
+                                 line: str, line_num: int, colony: str, year: int,
+                                 confidence: float, method: str) -> Person:
+        """Create a Person object from extracted data without salary."""
+        # Build location
+        location_parts = [colony]
+        if self.current_settlement:
+            location_parts.append(self.current_settlement)
+        if self.current_department:
+            location_parts.append(self.current_department)
+
+        return Person(
+            name=self._clean_name(name),
+            role=role,
+            location=' - '.join(location_parts),
+            colony=colony,
+            year=year,
+            department=self.current_department,
+            province=self.current_province,
+            salary=None,  # No salary in modern format
             full_string=line,
             source_file=self._generate_github_url(line_num),
             line_number=line_num + 1,

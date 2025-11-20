@@ -526,17 +526,20 @@ class CanadaPatternExtractor:
 
         # Pattern 1: Name, Role1 and Role2, Salary
         # e.g., "John A. Macdonald, Attorney-General of Upper Canada and Minister of Militia, 1,250l."
-        # Use greedy matching for the combined roles to capture full text
-        pattern1 = r'^([A-Z][^,]+?),\s+([^,\.]+\s+and\s+[^,\.]+)(?:[,\.]?\s*([£\$\d,]+[l\.]?))?'
+        # FIX: Use greedy matching for name and extract titles
+        pattern1 = r'^([A-Z][^,]+),\s+([^,\.]+\s+and\s+[^,\.]+)(?:[,\.]?\s*([£\$\d,]+[l\.]?))?'
         match = re.search(pattern1, line)
 
         if match:
-            name = match.group(1).strip()
+            name_with_titles = match.group(1).strip()
             combined_role = match.group(2).strip()
             salary = match.group(3).strip() if match.group(3) else None
 
             # Check if combined_role contains role keywords
             if self._contains_role_keywords(combined_role):
+                # Extract titles from name (like standard patterns do)
+                clean_name, titles = self._extract_titles(name_with_titles)
+
                 # Split on " and "
                 roles = re.split(r'\s+and\s+', combined_role, flags=re.IGNORECASE)
 
@@ -544,17 +547,23 @@ class CanadaPatternExtractor:
                     people = []
                     multi_role_id = f"multi_{line_num}"
 
+                    # Build notes with titles and multi-role info
+                    notes_parts = [f"Multi-role: {combined_role}"]
+                    if titles:
+                        notes_parts.append(f"Titles: {', '.join(titles)}")
+                    notes = "; ".join(notes_parts)
+
                     for role in roles:
                         role = role.strip()
                         person = self._create_person(
-                            name,
+                            clean_name,  # Use clean name without titles
                             role,
                             salary,
                             line, line_num, colony, year,
                             confidence=0.88,
                             method='canada_multi_role',
                             multi_role_id=multi_role_id,
-                            notes=f"Multi-role: {combined_role}"
+                            notes=notes
                         )
                         people.append(person)
 
@@ -563,17 +572,20 @@ class CanadaPatternExtractor:
 
         # Pattern 2: Role1 and Role2, Name, Salary
         # e.g., "Premier and Attorney-General, Hon. O. Mowat, Q.C., 1,500l."
-        # Use greedy matching for the combined roles to capture full text
-        pattern2 = r'^([^,]+\s+and\s+[^,]+),\s+([A-Z][^,]+?)(?:,\s*([£\$\d,]+[l\.]?))?'
+        # FIX: Use .+? with end anchor to capture full name including titles with commas
+        pattern2 = r'^([^,]+\s+and\s+[^,]+),\s+([A-Z].+?)(?:,\s*([£\$]?\s*[\d,]+[l\.]?)\s*)?\s*\.?\s*$'
         match = re.search(pattern2, line)
 
         if match:
             combined_role = match.group(1).strip()
-            name = match.group(2).strip()
+            name_with_titles = match.group(2).strip()
             salary = match.group(3).strip() if match.group(3) else None
 
             # Check if combined_role contains role keywords
             if self._contains_role_keywords(combined_role):
+                # Extract titles from name (like standard patterns do)
+                clean_name, titles = self._extract_titles(name_with_titles)
+
                 # Split on " and "
                 roles = re.split(r'\s+and\s+', combined_role, flags=re.IGNORECASE)
 
@@ -581,17 +593,23 @@ class CanadaPatternExtractor:
                     people = []
                     multi_role_id = f"multi_{line_num}"
 
+                    # Build notes with titles and multi-role info
+                    notes_parts = [f"Multi-role: {combined_role}"]
+                    if titles:
+                        notes_parts.append(f"Titles: {', '.join(titles)}")
+                    notes = "; ".join(notes_parts)
+
                     for role in roles:
                         role = role.strip()
                         person = self._create_person(
-                            name,
+                            clean_name,  # Use clean name without titles
                             role,
                             salary,
                             line, line_num, colony, year,
                             confidence=0.88,
                             method='canada_multi_role',
                             multi_role_id=multi_role_id,
-                            notes=f"Multi-role: {combined_role}"
+                            notes=notes
                         )
                         people.append(person)
 
@@ -731,16 +749,18 @@ class CanadaPatternExtractor:
         titles = []
 
         # Check for each known title
+        # Note: Don't use \b after title because it doesn't work with periods
         for title in CANADA_TITLES:
-            # Use word boundaries to avoid partial matches
-            pattern = rf'\b{re.escape(title)}\b'
+            # Use word boundary only at start to avoid partial matches
+            pattern = rf'\b{re.escape(title)}'
             if re.search(pattern, name, re.IGNORECASE):
                 titles.append(title)
 
         # Remove titles from name
+        # Process longer titles first to avoid partial matches (e.g., K.C.M.G. before K.C.)
         clean_name = name
-        for title in CANADA_TITLES:
-            pattern = rf'\b{re.escape(title)}\b[,\s]*'
+        for title in sorted(CANADA_TITLES, key=len, reverse=True):
+            pattern = rf'\b{re.escape(title)}[,\s]*'
             clean_name = re.sub(pattern, '', clean_name, flags=re.IGNORECASE)
 
         # Clean up extra whitespace and punctuation

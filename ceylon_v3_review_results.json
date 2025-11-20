@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "file": "/home/user/colonial_office_list/output_3/1867_manual_parsed/ceylon.txt",
+    "colony": "CEYLON",
+    "year": 1867,
+    "total_lines": 464,
+    "phases": {
+      "analysis": {
+        "people_section": "lines 159-464",
+        "departments": 7,
+        "provinces": 6
+      },
+      "pattern_extraction": {
+        "extracted": 152,
+        "flagged_sections": 85
+      },
+      "llm_extraction": {
+        "extracted": 0,
+        "note": "Task-based extraction disabled for quality - rely on patterns only"
+      },
+      "validation": {
+        "total": 150,
+        "avg_confidence": 0.8206666666666661,
+        "filtered_out": 2
+      }
+    },
+    "ceylon_specific": {
+      "locations_filtered": 0,
+      "qualifications_filtered": 0,
+      "names_filtered": 0,
+      "vacant_positions": 0,
+      "duplicates_removed": 0
+    }
+  },
+  "total_people": 150,
+  "sample_size": 18,
+  "perfect": 13,
+  "minor_errors": 3,
+  "major_errors": 2,
+  "quality_score": 85.55555555555556,
+  "error_categories": {
+    "plural_role": 3,
+    "location_as_role": 2,
+    "wrong_context": 1
+  },
+  "top_issues": [
+    {
+      "type": "location_as_role",
+      "sample_count": 2,
+      "estimated_total": 16,
+      "severity": 10,
+      "impact": 160,
+      "examples": [
+        {
+          "name": "C. W. Edema",
+          "role": "Registrar Central Province",
+          "line": 235
+        },
+        {
+          "name": "G. Lawson",
+          "role": "District Judge of Colombo",
+          "line": 341
+        }
+      ]
+    },
+    {
+      "type": "plural_role",
+      "sample_count": 3,
+      "estimated_total": 25,
+      "severity": 5,
+      "impact": 125,
+      "examples": [
+        {
+          "name": "R. A. Spearling",
+          "role": "Superintending Officers",
+          "line": 214
+        },
+        {
+          "name": "C. A. Kriekenbeek",
+          "role": "Assistant Colonial Surgeons",
+          "line": 397
+        }
+      ]
+    },
+    {
+      "type": "wrong_context",
+      "sample_count": 1,
+      "estimated_total": 8,
+      "severity": 8,
+      "impact": 64,
+      "examples": [
+        {
+          "name": "C. W. Edema",
+          "role": "Registrar Central Province",
+          "line": 235
+        }
+      ]
+    }
+  ],
+  "sample_records": [
+    {
+      "name": "G. Vane",
+      "role": "Treasurer",
+      "line": 180,
+      "confidence": 0.9,
+      "method": "ceylon_pattern1"
+    },
+    {
+      "name": "H. N. Larkum",
+      "role": "Engineer of Factory",
+      "line": 231,
+      "confidence": 0.9,
+      "method": "ceylon_pattern1"
+    },
+    {
+      "name": "R. A. Spearling",
+      "role": "Superintending Officers",
+      "line": 214,
+      "confidence": 0.9,
+      "method": "ceylon_pattern1"
+    },
+    {
+      "name": "C. W. Edema",
+      "role": "Registrar Central Province",
+      "line": 235,
+      "confidence": 0.9,
+      "method": "ceylon_pattern1"
+    },
+    {
+      "name": "W. J. MacCarthy",
+      "role": "Registrar-General",
+      "line": 234,
+      "confidence": 0.9,
+      "method": "ceylon_pattern1"
+    },
+    {
+      "name": "G. Lawson",
+      "role": "District Judge of Colombo",
+      "line": 341,
+      "confidence": 0.9,
+      "method": "ceylon_pattern1"
+    },
+    {
+      "name": "R. J. Callender",
+      "role": "Auditor-General",
+      "line": 183,
+      "confidence": 0.9,
+      "method": "ceylon_pattern1"
+    },
+    {
+      "name": "W. Halliley",
+      "role": "Collector",
+      "line": 246,
+      "confidence": 0.9,
+      "method": "ceylon_pattern1"
+    },
+    {
+      "name": "W. G. Gibson",
+      "role": "Colonial Secretary",
+      "line": 166,
+      "confidence": 0.9,
+      "method": "ceylon_pattern1"
+    },
+    {
+      "name": "F. B. Templer",
+      "role": "Principal Assistant",
+      "line": 167,
+      "confidence": 0.9,
+      "method": "ceylon_pattern1"
+    },
+    {
+      "name": "F. De Saram",
+      "role": "Private Secretary",
+      "line": 328,
+      "confidence": 0.9,
+      "method": "ceylon_pattern1"
+    },
+    {
+      "name": "T. B. Stephen",
+      "role": "Principal Collector",
+      "line": 241,
+      "confidence": 0.9,
+      "method": "ceylon_pattern1"
+    },
+    {
+      "name": "C. A. Kriekenbeek",
+      "role": "Assistant Colonial Surgeons",
+      "line": 397,
+      "confidence": 0.75,
+      "method": "ceylon_name_salary"
+    },
+    {
+      "name": "J. Robertson",
+      "role": "Superintending Officers",
+      "line": 223,
+      "confidence": 0.75,
+      "method": "ceylon_name_salary"
+    },
+    {
+      "name": "H. C. Caulfield",
+      "role": "Commissioners of Requests and Police Magistrate at",
+      "line": 388,
+      "confidence": 0.85,
+      "method": "ceylon_location_name"
+    },
+    {
+      "name": "A. Jumeaux",
+      "role": "Maha Modliar",
+      "line": 173,
+      "confidence": 0.7,
+      "method": "ceylon_name_list"
+    },
+    {
+      "name": "G. W. Templer",
+      "role": "Maha Modliar",
+      "line": 172,
+      "confidence": 0.7,
+      "method": "ceylon_name_list"
+    },
+    {
+      "name": "C. P. Walker",
+      "role": "Commissioners of Requests and Police Magistrates at",
+      "line": 362,
+      "confidence": 0.85,
+      "method": "ceylon_location_name"
+    }
+  ]
+}

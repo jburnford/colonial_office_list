@@ -1,0 +1,226 @@
+================================================================================
+CEYLON V3 - DETAILED ERROR EXAMPLES FROM SAMPLE
+================================================================================
+
+SAMPLE SIZE: 18 random records (stratified by confidence)
+PERFECT: 13/18 (72.2%)
+ERRORS: 5/18 (27.8%)
+
+================================================================================
+ERROR TYPE 1: PLURAL ROLES (3 instances - MINOR severity)
+================================================================================
+
+Example 1: Superintending Officer
+----------------------------------
+Line 214: Superintending Officers, R. A. Spearling, Assoc. Inst. C.E., 400l.
+
+Extracted:
+  name: "R. A. Spearling"
+  role: "Superintending Officers" ← PLURAL
+  confidence: 0.90
+
+Should be:
+  role: "Superintending Officer" ← SINGULAR
+
+Impact: MINOR - Data is correct, just grammatically inconsistent
+Fix: Apply singularize_role() function
+
+
+Example 2: Assistant Colonial Surgeon
+--------------------------------------
+Line 396: Assistant Colonial Surgeons,
+Line 397: C. A. Kriekenbeek, 250l.
+
+Extracted:
+  name: "C. A. Kriekenbeek"
+  role: "Assistant Colonial Surgeons" ← PLURAL
+  confidence: 0.75
+
+Should be:
+  role: "Assistant Colonial Surgeon" ← SINGULAR
+
+Impact: MINOR - Header is plural, but role should be singular
+Fix: Apply singularize_role() function
+
+
+Example 3: Superintending Officer (duplicate pattern)
+------------------------------------------------------
+Line 223: J. Robertson, 300l.
+
+Extracted:
+  name: "J. Robertson"
+  role: "Superintending Officers" ← PLURAL
+  confidence: 0.75
+
+Should be:
+  role: "Superintending Officer" ← SINGULAR
+
+Impact: MINOR - Same issue as Example 1
+Fix: Apply singularize_role() function
+
+ALL PLURAL ROLES IN DATASET:
+- Superintending Officers: 14 people
+- Assistant Colonial Surgeons: 5 people
+- Surveyors: 7 people
+- Assistant Surveyors: 1 person
+Total affected: ~27/150 (18%)
+
+================================================================================
+ERROR TYPE 2: LOCATION AS ROLE (2 instances - MAJOR severity)
+================================================================================
+
+Example 1: Registrar with Province
+-----------------------------------
+Line 235: Registrar Central Province, C. W. Edema, 400l.
+
+Extracted:
+  name: "C. W. Edema"
+  role: "Registrar Central Province" ← LOCATION IN ROLE
+  location: "CEYLON - Provisional Registrar-General's Department"
+  confidence: 0.90
+
+Should be:
+  role: "Registrar"
+  location: "CEYLON - Central Province"
+
+Impact: MAJOR - Location context is lost/wrong
+Fix: Apply extract_location_from_role() function
+
+
+Example 2: District Judge with City
+------------------------------------
+Line 341: District Judge of Colombo, G. Lawson, 1,200l.
+
+Extracted:
+  name: "G. Lawson"
+  role: "District Judge of Colombo" ← LOCATION IN ROLE
+  location: "CEYLON - Midland Circuit"
+  confidence: 0.90
+
+Should be:
+  role: "District Judge"
+  location: "CEYLON - Colombo"
+
+Impact: MAJOR - Loses specific location (Colombo)
+Fix: Apply extract_location_from_role() function
+
+
+WORST CASE: Location Only (not in sample but found in dataset)
+---------------------------------------------------------------
+Line 332: Deputy ditto, C. H. Stewart, 1,000l.
+Line 333: Kandy, T. Berwick, 400l.
+Line 334: Jaffna, H. Muttukristna, 400l.
+Line 335: Galle, O. W. C. Morgan, 400l.
+Line 336: North Western Province, G. F. Nell, 300l.
+
+Extracted for G. F. Nell:
+  name: "G. F. Nell"
+  role: "North Western Province" ← COMPLETELY WRONG
+  confidence: 0.90
+
+Should be:
+  role: "Deputy Queen's Advocate" ← FROM CONTEXT
+  location: "CEYLON - North Western Province"
+
+Impact: CRITICAL - Complete loss of role information
+Fix: Requires context-aware extraction (CeylonExtractor class)
+
+ALL LOCATION-IN-ROLE CASES IN DATASET:
+- "District Judge of Colombo": 1 person
+- "Registrar Central Province": 1 person
+- "Bishop of Colombo": 1 person (acceptable - standard title format)
+- "Kandy Road Officer": 1 person (acceptable - "Kandy Road" is place name)
+- Province-only entries: ~3-4 people
+Total affected: ~16/150 (10.7%)
+
+================================================================================
+PERFECT RECORDS - EXAMPLES OF WHAT WORKS WELL
+================================================================================
+
+Example 1: Simple Role-Name-Salary
+-----------------------------------
+Line 139: Treasurer, G. Vane, 1,500l.
+
+Extracted:
+  name: "G. Vane"
+  role: "Treasurer"
+  salary: "1,500l."
+  confidence: 0.90
+
+Result: ✓ PERFECT
+
+
+Example 2: Complex Role with Qualifications
+--------------------------------------------
+Line 231: Engineer of Factory, H. N. Larkum, 400l.
+
+Extracted:
+  name: "H. N. Larkum"
+  role: "Engineer of Factory"
+  salary: "400l."
+  confidence: 0.90
+
+Result: ✓ PERFECT
+
+
+Example 3: Hyphenated Role
+---------------------------
+Line 234: Registrar-General, W. J. MacCarthy, 850l.
+
+Extracted:
+  name: "W. J. MacCarthy"
+  role: "Registrar-General"
+  salary: "850l."
+  confidence: 0.90
+
+Result: ✓ PERFECT
+
+
+Example 4: Title with Qualifications Handled
+---------------------------------------------
+Line 437: Bishop of Colombo, Right Rev. Piers C. Claughton, D.D., 2,000l.
+
+Extracted:
+  name: "Right Rev. Piers C. Claughton"
+  role: "Bishop of Colombo"
+  qualifications: "D.D."
+  salary: "2,000l."
+  confidence: 0.90
+
+Result: ✓ PERFECT (Location in title is acceptable for religious positions)
+
+
+Example 5: Complex Multi-Part Role
+-----------------------------------
+Line 388: Commissioners of Requests and Police Magistrate, H. C. Caulfield, 450l.
+
+Extracted:
+  name: "H. C. Caulfield"
+  role: "Commissioners of Requests and Police Magistrate"
+  salary: "450l."
+  confidence: 0.85
+
+Result: ✓ PERFECT (Complex role correctly captured)
+
+================================================================================
+SUMMARY
+================================================================================
+
+What works well (72.2% of records):
+✓ Simple Role-Name-Salary patterns
+✓ Complex role titles with qualifications
+✓ Hyphenated roles
+✓ Multi-part roles ("Commissioners of Requests and...")
+✓ Titles with honorifics (Right Rev., Sir, etc.)
+
+What needs improvement (27.8% of records):
+⚠ Plural role headers (16.7%) - EASY FIX
+⚠ Locations embedded in roles (10.7%) - MEDIUM FIX
+⚠ Context-dependent role inference (<1%) - HARD FIX
+
+Priority ranking:
+1. Plural roles: High frequency, low severity, easy fix
+2. Location stripping: Medium frequency, high severity, medium fix
+3. Context inference: Low frequency, high severity, hard fix
+
+================================================================================

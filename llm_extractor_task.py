@@ -39,6 +39,12 @@ class Person:
     confidence: float = 0.0
     extraction_method: str = "unknown"
     notes: str = ""
+    # Fiji-specific attributes (optional for compatibility)
+    is_acting: bool = False
+    multi_role_id: Optional[str] = None
+    # Gold Coast-specific attributes (optional for compatibility)
+    allowances: Optional[str] = None
+    remarks: Optional[str] = None
 
 
 class LLMExtractorTask:

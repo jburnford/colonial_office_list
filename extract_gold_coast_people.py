@@ -37,6 +37,10 @@ class Person:
     line_number: int = 0
     confidence: float = 0.0
     extraction_method: str = "unknown"  # 'table', 'narrative', 'hybrid'
+    notes: str = ""
+    # Fiji-specific attributes (for compatibility)
+    is_acting: bool = False
+    multi_role_id: Optional[str] = None
 
     def to_dict(self):
         return asdict(self)
@@ -536,6 +540,60 @@ class GoldCoastPatternExtractor:
                 deduped.append(person)
 
         return deduped
+
+
+class GoldCoastExtractionOrchestrator:
+    """
+    Main orchestrator for Gold Coast extraction.
+    Provides consistent interface with other colony extractors.
+    """
+
+    def __init__(self, github_base_url: str = "https://github.com/jburnford/colonial_office_list/blob/main"):
+        self.github_base_url = github_base_url
+        self.extractor = GoldCoastPatternExtractor(github_base_url)
+
+    def extract_from_file(self, file_path: str, colony: str, year: int, use_cache: bool = True) -> Tuple[List[Person], Dict]:
+        """
+        Extract all people from a single file.
+
+        Returns:
+            (people, metadata) tuple
+        """
+        # Extract using pattern extractor
+        people = self.extractor.extract_from_file(file_path, colony, year)
+
+        # Deduplicate
+        people = self.extractor.deduplicate(people)
+
+        # Count extraction methods
+        table_count = sum(1 for p in people if p.extraction_method == 'table')
+        narrative_count = sum(1 for p in people if p.extraction_method == 'narrative')
+
+        # Generate metadata
+        metadata = {
+            'file': file_path,
+            'colony': colony,
+            'year': year,
+            'total_people': len(people),
+            'extraction_methods': {
+                'table': table_count,
+                'narrative': narrative_count
+            },
+            'avg_confidence': sum(p.confidence for p in people) / len(people) if people else 0,
+            'phases': {
+                'pattern_extraction': {
+                    'extracted': len(people),
+                    'table_format': table_count,
+                    'narrative_format': narrative_count
+                },
+                'validation': {
+                    'total': len(people),
+                    'avg_confidence': sum(p.confidence for p in people) / len(people) if people else 0
+                }
+            }
+        }
+
+        return people, metadata
 
 
 def main():

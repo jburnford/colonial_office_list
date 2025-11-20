@@ -1,0 +1,699 @@
+{
+  "summary": {
+    "evaluation_date": "2025-11-20",
+    "sample_size": 25,
+    "quality_score": 86.0,
+    "claimed_score": 95,
+    "accurate_claim": false
+  },
+  "quality_breakdown": {
+    "total_checked": 25,
+    "perfect": 21,
+    "minor_errors": 0,
+    "major_errors": 1,
+    "not_found": 3,
+    "score": 86.0,
+    "percent_perfect": 84.0,
+    "percent_minor": 0.0,
+    "percent_major": 4.0,
+    "percent_not_found": 12.0
+  },
+  "bug_check": {
+    "total_multi_role_checked": 9,
+    "truncated_names_found": 1,
+    "bug_fixed": false,
+    "examples": [
+      {
+        "name": "Hon",
+        "role": "Attorney-General",
+        "line": 1523,
+        "source_line": "Attorney-General and Provincial Secretary, Hon."
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "person": {
+        "name": "H. F. McNaughton",
+        "role": "Secretary of Public Works",
+        "location": "CANADA - Federal - Public Works",
+        "colony": "CANADA",
+        "year": 1907,
+        "department": "Public Works",
+        "province": null,
+        "salary": "$1,200.",
+        "full_string": "Secretary of Public Works, H. F. McNaughton, $1,200.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1403",
+        "line_number": 1403,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Secretary of Public Works, H. F. McNaughton, $1,200.",
+      "verification_notes": [
+        "Full name found in source",
+        "Currency: $ (correct for later period)"
+      ]
+    },
+    {
+      "person": {
+        "name": "Walter A. O. Morson",
+        "role": "Prothonotary",
+        "location": "CANADA - MANITOBA - Public Works",
+        "colony": "CANADA",
+        "year": 1918,
+        "department": "Public Works",
+        "province": "MANITOBA",
+        "salary": null,
+        "full_string": "Prothonotary and Clerk of the Crown, Walter A. O. Morson.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L2975",
+        "line_number": 2975,
+        "confidence": 0.88,
+        "extraction_method": "canada_multi_role",
+        "notes": "Multi-role: Prothonotary and Clerk of the Crown",
+        "is_acting": false,
+        "multi_role_id": "multi_2974"
+      },
+      "status": "NOT_FOUND",
+      "issues": [
+        "Source file not found"
+      ],
+      "source_line": null,
+      "verification_notes": []
+    },
+    {
+      "person": {
+        "name": "Francis L. Hazard",
+        "role": "Assistant Judge of the Supreme Court",
+        "location": "CANADA - NEW BRUNSWICK - Public Works",
+        "colony": "CANADA",
+        "year": 1917,
+        "department": "Public Works",
+        "province": "NEW BRUNSWICK",
+        "salary": "$5,200.",
+        "full_string": "Master of the Rolls and Assistant Judge of the Supreme Court, Hon. Francis L. Hazard, $5,200.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L2984",
+        "line_number": 2984,
+        "confidence": 0.88,
+        "extraction_method": "canada_multi_role",
+        "notes": "Multi-role: Master of the Rolls and Assistant Judge of the Supreme Court; Titles: Hon.",
+        "is_acting": false,
+        "multi_role_id": "multi_2983"
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Master of the Rolls and Assistant Judge of the Supreme Court, Hon. Francis L. Hazard, $5,200.",
+      "verification_notes": [
+        "Full name found in source",
+        "Currency: $ (correct for later period)"
+      ]
+    },
+    {
+      "person": {
+        "name": "Thomas J. Code",
+        "role": "Chief Assistant",
+        "location": "CANADA - Federal - Public Works",
+        "colony": "CANADA",
+        "year": 1922,
+        "department": "Public Works",
+        "province": null,
+        "salary": "$4,140.",
+        "full_string": "Chief Assistant and Accountant, Thomas J. Code, $4,140.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1142",
+        "line_number": 1142,
+        "confidence": 0.88,
+        "extraction_method": "canada_multi_role",
+        "notes": "Multi-role: Chief Assistant and Accountant",
+        "is_acting": false,
+        "multi_role_id": "multi_1141"
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Chief Assistant and Accountant, Thomas J. Code, $4,140.",
+      "verification_notes": [
+        "Full name found in source",
+        "Currency: $ (correct for later period)"
+      ]
+    },
+    {
+      "person": {
+        "name": "L. J. Cannon",
+        "role": "Law Clerk",
+        "location": "CANADA - QUEBEC - Executive Council",
+        "colony": "CANADA",
+        "year": 1899,
+        "department": "Executive Council",
+        "province": "QUEBEC",
+        "salary": "$3,000.",
+        "full_string": "Assistant Attorney-General and Law Clerk, L. J. Cannon, Q.C., $3,000.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1817",
+        "line_number": 1817,
+        "confidence": 0.88,
+        "extraction_method": "canada_multi_role",
+        "notes": "Multi-role: Assistant Attorney-General and Law Clerk; Titles: Q.C.",
+        "is_acting": false,
+        "multi_role_id": "multi_1816"
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Assistant Attorney-General and Law Clerk, L. J. Cannon, Q.C., $3,000.",
+      "verification_notes": [
+        "Full name found in source",
+        "Currency: $ (correct for later period)"
+      ]
+    },
+    {
+      "person": {
+        "name": "D. E. Cameron",
+        "role": "Assistant Treasurer",
+        "location": "CANADA - PRINCE EDWARD ISLAND - Provincial Secretary",
+        "colony": "CANADA",
+        "year": 1894,
+        "department": "Provincial Secretary",
+        "province": "PRINCE EDWARD ISLAND",
+        "salary": "$2,800.",
+        "full_string": "Assistant Treasurer, D. E. Cameron, $2,800.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1322",
+        "line_number": 1322,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Assistant Treasurer, D. E. Cameron, $2,800.",
+      "verification_notes": [
+        "Full name found in source",
+        "Currency: $ (correct for later period)"
+      ]
+    },
+    {
+      "person": {
+        "name": "Hon",
+        "role": "Attorney-General",
+        "location": "CANADA - BRITISH COLUMBIA - Provincial Secretary",
+        "colony": "CANADA",
+        "year": 1878,
+        "department": "Provincial Secretary",
+        "province": "BRITISH COLUMBIA",
+        "salary": null,
+        "full_string": "Attorney-General and Provincial Secretary, Hon.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1523",
+        "line_number": 1523,
+        "confidence": 0.88,
+        "extraction_method": "canada_multi_role",
+        "notes": "Multi-role: Attorney-General and Provincial Secretary",
+        "is_acting": false,
+        "multi_role_id": "multi_1522"
+      },
+      "status": "MAJOR_ERROR",
+      "issues": [
+        "NAME TRUNCATION BUG: Name is only 'Hon' (multi-role entry)"
+      ],
+      "source_line": "Attorney-General and Provincial Secretary, Hon.",
+      "verification_notes": []
+    },
+    {
+      "person": {
+        "name": "T. B. Winslow",
+        "role": "Chief Clerk",
+        "location": "CANADA - QUEBEC - Public Works",
+        "colony": "CANADA",
+        "year": 1906,
+        "department": "Public Works",
+        "province": "QUEBEC",
+        "salary": "$1,700.",
+        "full_string": "Chief Clerk, T. B. Winslow, $1,700.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L2239",
+        "line_number": 2239,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Chief Clerk, T. B. Winslow, $1,700.",
+      "verification_notes": [
+        "Full name found in source",
+        "Currency: $ (correct for later period)"
+      ]
+    },
+    {
+      "person": {
+        "name": "J. R. Eckart",
+        "role": "Assistant Secretary",
+        "location": "CANADA - PRINCE EDWARD ISLAND - Provincial Secretary",
+        "colony": "CANADA",
+        "year": 1877,
+        "department": "Provincial Secretary",
+        "province": "PRINCE EDWARD ISLAND",
+        "salary": "$1,600.",
+        "full_string": "Assistant Secretary, J. R. Eckart, $1,600.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1191",
+        "line_number": 1191,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Assistant Secretary, J. R. Eckart, $1,600.",
+      "verification_notes": [
+        "Full name found in source"
+      ]
+    },
+    {
+      "person": {
+        "name": "R. Wolfenden",
+        "role": "Superintendent Printing Branch",
+        "location": "CANADA - BRITISH COLUMBIA - Provincial Secretary",
+        "colony": "CANADA",
+        "year": 1879,
+        "department": "Provincial Secretary",
+        "province": "BRITISH COLUMBIA",
+        "salary": "$1,600.",
+        "full_string": "Superintendent Printing Branch, R. Wolfenden, $1,600.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1949",
+        "line_number": 1949,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Superintendent Printing Branch, R. Wolfenden, $1,600.",
+      "verification_notes": [
+        "Full name found in source"
+      ]
+    },
+    {
+      "person": {
+        "name": "J. Macaloney",
+        "role": "Cashier",
+        "location": "CANADA - QUEBEC - Provincial Secretary",
+        "colony": "CANADA",
+        "year": 1900,
+        "department": "Provincial Secretary",
+        "province": "QUEBEC",
+        "salary": null,
+        "full_string": "Cashier and Chief Clerk, J. Macaloney.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L2019",
+        "line_number": 2019,
+        "confidence": 0.88,
+        "extraction_method": "canada_multi_role",
+        "notes": "Multi-role: Cashier and Chief Clerk",
+        "is_acting": false,
+        "multi_role_id": "multi_2018"
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Cashier and Chief Clerk, J. Macaloney.",
+      "verification_notes": [
+        "Full name found in source"
+      ]
+    },
+    {
+      "person": {
+        "name": "John E. Rose and Hugh MacMahon",
+        "role": "Puisne Judges",
+        "location": "CANADA - PRINCE EDWARD ISLAND - Supreme Court",
+        "colony": "CANADA",
+        "year": 1897,
+        "department": "Supreme Court",
+        "province": "PRINCE EDWARD ISLAND",
+        "salary": "$5,000",
+        "full_string": "Puisne Judges, Hon. John E. Rose and Hon. Hugh MacMahon, $5,000 each.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1446",
+        "line_number": 1446,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "Titles: Hon.",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Puisne Judges, Hon. John E. Rose and Hon. Hugh MacMahon, $5,000 each.",
+      "verification_notes": [
+        "Last name found in source",
+        "Currency: $ (correct for later period)"
+      ]
+    },
+    {
+      "person": {
+        "name": "Kivas Tully",
+        "role": "Architect",
+        "location": "CANADA - PRINCE EDWARD ISLAND - Public Works",
+        "colony": "CANADA",
+        "year": 1877,
+        "department": "Public Works",
+        "province": "PRINCE EDWARD ISLAND",
+        "salary": "$2,200.",
+        "full_string": "Architect and Superintendent of Public Works, Kivas Tully, $2,200.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1207",
+        "line_number": 1207,
+        "confidence": 0.88,
+        "extraction_method": "canada_multi_role",
+        "notes": "Multi-role: Architect and Superintendent of Public Works",
+        "is_acting": false,
+        "multi_role_id": "multi_1206"
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Architect and Superintendent of Public Works, Kivas Tully, $2,200.",
+      "verification_notes": [
+        "Full name found in source"
+      ]
+    },
+    {
+      "person": {
+        "name": "T. L. Fawcett",
+        "role": "Nanaimo",
+        "location": "CANADA - BRITISH COLUMBIA - Supreme Court",
+        "colony": "CANADA",
+        "year": 1877,
+        "department": "Supreme Court",
+        "province": "BRITISH COLUMBIA",
+        "salary": "$1,008.",
+        "full_string": "Nanaimo, T. L. Fawcett, $1,008.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1740",
+        "line_number": 1740,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Nanaimo, T. L. Fawcett, $1,008.",
+      "verification_notes": [
+        "Full name found in source"
+      ]
+    },
+    {
+      "person": {
+        "name": "J. C. Tach\u00e9",
+        "role": "Deputy",
+        "location": "CANADA - PRINCE EDWARD ISLAND - Bureau of Agriculture",
+        "colony": "CANADA",
+        "year": 1877,
+        "department": "Bureau of Agriculture",
+        "province": "PRINCE EDWARD ISLAND",
+        "salary": "$3,200.",
+        "full_string": "Deputy, J. C. Tach\u00e9, $3,200.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1125",
+        "line_number": 1125,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Deputy, J. C. Tach\u00e9, $3,200.",
+      "verification_notes": [
+        "Full name found in source"
+      ]
+    },
+    {
+      "person": {
+        "name": "Chas. Clarke",
+        "role": "Clerk",
+        "location": "CANADA - PRINCE EDWARD ISLAND - Executive Council",
+        "colony": "CANADA",
+        "year": 1894,
+        "department": "Executive Council",
+        "province": "PRINCE EDWARD ISLAND",
+        "salary": "$1,800.",
+        "full_string": "Clerk, Chas. Clarke, $1,800.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1195",
+        "line_number": 1195,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Clerk, Chas. Clarke, $1,800.",
+      "verification_notes": [
+        "Full name found in source",
+        "Currency: $ (correct for later period)"
+      ]
+    },
+    {
+      "person": {
+        "name": "F. Braun",
+        "role": "Secretary",
+        "location": "CANADA - Federal - Public Works",
+        "colony": "CANADA",
+        "year": 1867,
+        "department": "Public Works",
+        "province": "UPPER CANADA",
+        "salary": "450l",
+        "full_string": "Secretary, F. Braun, 450l.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L140",
+        "line_number": 140,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Secretary, F. Braun, 450l.",
+      "verification_notes": [
+        "Full name found in source",
+        "Currency: \u00a3 (correct for early period)"
+      ]
+    },
+    {
+      "person": {
+        "name": "William Mitchell",
+        "role": "Charlottetown for Province of Prince Edward Island",
+        "location": "CANADA - PRINCE EDWARD ISLAND - Bureau of Agriculture",
+        "colony": "CANADA",
+        "year": 1880,
+        "department": "Bureau of Agriculture",
+        "province": "PRINCE EDWARD ISLAND",
+        "salary": "$600.",
+        "full_string": "Charlottetown for Province of Prince Edward Island, William Mitchell, $600.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1142",
+        "line_number": 1142,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Charlottetown for Province of Prince Edward Island, William Mitchell, $600.",
+      "verification_notes": [
+        "Full name found in source"
+      ]
+    },
+    {
+      "person": {
+        "name": "James Mitchell",
+        "role": "Provincial Secretary",
+        "location": "CANADA - QUEBEC - Provincial Secretary",
+        "colony": "CANADA",
+        "year": 1896,
+        "department": "Provincial Secretary",
+        "province": "QUEBEC",
+        "salary": "$2,100.",
+        "full_string": "Provincial Secretary and Registrar of Records, Hon. James Mitchell, $2,100.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L2501",
+        "line_number": 2501,
+        "confidence": 0.88,
+        "extraction_method": "canada_multi_role",
+        "notes": "Multi-role: Provincial Secretary and Registrar of Records; Titles: Hon.",
+        "is_acting": false,
+        "multi_role_id": "multi_2500"
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Provincial Secretary and Registrar of Records, Hon. James Mitchell, $2,100.",
+      "verification_notes": [
+        "Full name found in source",
+        "Currency: $ (correct for later period)"
+      ]
+    },
+    {
+      "person": {
+        "name": "C. T. Dupont",
+        "role": "Inspector",
+        "location": "CANADA - BRITISH COLUMBIA - Public Works",
+        "colony": "CANADA",
+        "year": 1877,
+        "department": "Public Works",
+        "province": "BRITISH COLUMBIA",
+        "salary": "$2,200.",
+        "full_string": "Inspector, C. T. Dupont, $2,200.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1685",
+        "line_number": 1685,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Inspector, C. T. Dupont, $2,200.",
+      "verification_notes": [
+        "Full name found in source"
+      ]
+    },
+    {
+      "person": {
+        "name": "David Laird",
+        "role": "Lieutenant-Governor",
+        "location": "CANADA - BRITISH COLUMBIA - Supreme Court",
+        "colony": "CANADA",
+        "year": 1877,
+        "department": "Supreme Court",
+        "province": "BRITISH COLUMBIA",
+        "salary": "$7,000.",
+        "full_string": "Lieutenant-Governor, Hon. David Laird, $7,000.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1856",
+        "line_number": 1856,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "Titles: Hon.",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Lieutenant-Governor, Hon. David Laird, $7,000.",
+      "verification_notes": [
+        "Full name found in source"
+      ]
+    },
+    {
+      "person": {
+        "name": "F. R. E. Campeau",
+        "role": "Accountant",
+        "location": "CANADA - Federal - Public Works",
+        "colony": "CANADA",
+        "year": 1898,
+        "department": "Public Works",
+        "province": null,
+        "salary": "$1,800.",
+        "full_string": "Accountant, F. R. E. Campeau, $1,800.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L840",
+        "line_number": 840,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "NOT_FOUND",
+      "issues": [
+        "Source file not found"
+      ],
+      "source_line": null,
+      "verification_notes": []
+    },
+    {
+      "person": {
+        "name": "C. F. Bailey",
+        "role": "Assistant Deputy Minister",
+        "location": "CANADA - Federal - Provincial Secretary",
+        "colony": "CANADA",
+        "year": 1918,
+        "department": "Provincial Secretary",
+        "province": null,
+        "salary": "$2,800.",
+        "full_string": "Assistant Deputy Minister, C. F. Bailey, $2,800.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L1629",
+        "line_number": 1629,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "NOT_FOUND",
+      "issues": [
+        "Source file not found"
+      ],
+      "source_line": null,
+      "verification_notes": []
+    },
+    {
+      "person": {
+        "name": "Julius L. Inches",
+        "role": "Secretary for Agriculture",
+        "location": "CANADA - QUEBEC - Provincial Secretary",
+        "colony": "CANADA",
+        "year": 1897,
+        "department": "Provincial Secretary",
+        "province": "QUEBEC",
+        "salary": "\u00a3500.",
+        "full_string": "Secretary for Agriculture, Julius L. Inches, \u00a3500.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L2169",
+        "line_number": 2169,
+        "confidence": 0.9,
+        "extraction_method": "canada_pattern1",
+        "notes": "",
+        "is_acting": false,
+        "multi_role_id": null
+      },
+      "status": "PERFECT",
+      "issues": [
+        "Currency: Expected $ for post-1890"
+      ],
+      "source_line": "Secretary for Agriculture, Julius L. Inches, \u00a3500.",
+      "verification_notes": [
+        "Full name found in source"
+      ]
+    },
+    {
+      "person": {
+        "name": "Lemuel J. Tweedie",
+        "role": "Receiver-General",
+        "location": "CANADA - QUEBEC - Executive Council",
+        "colony": "CANADA",
+        "year": 1907,
+        "department": "Executive Council",
+        "province": "QUEBEC",
+        "salary": "$2,100.",
+        "full_string": "Premier and Provincial Secretary and Receiver-General, Hon. Lemuel J. Tweedie, LL.D., $2,100.",
+        "source_file": "https://github.com/jburnford/colonial_office_list/blob/main/[file]#L2043",
+        "line_number": 2043,
+        "confidence": 0.88,
+        "extraction_method": "canada_multi_role",
+        "notes": "Multi-role: Premier and Provincial Secretary and Receiver-General; Titles: Hon., LL.D.",
+        "is_acting": false,
+        "multi_role_id": "multi_2042"
+      },
+      "status": "PERFECT",
+      "issues": [],
+      "source_line": "Premier and Provincial Secretary and Receiver-General, Hon. Lemuel J. Tweedie, LL.D., $2,100.",
+      "verification_notes": [
+        "Full name found in source",
+        "Currency: $ (correct for later period)"
+      ]
+    }
+  ]
+}

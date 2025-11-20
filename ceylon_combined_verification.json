@@ -1,0 +1,83 @@
+{
+  "summary": {
+    "total_verified": 40,
+    "perfect": 37,
+    "minor_errors": 1,
+    "major_errors": 2,
+    "quality_score": 93.75,
+    "claimed_score": 96.2,
+    "difference": -2.45
+  },
+  "by_method": {
+    "ceylon_pattern1": {
+      "total": 11,
+      "perfect": 11,
+      "minor": 0,
+      "major": 0,
+      "quality": 100.0
+    },
+    "ceylon_location_name": {
+      "total": 9,
+      "perfect": 9,
+      "minor": 0,
+      "major": 0,
+      "quality": 100.0
+    },
+    "ceylon_name_salary": {
+      "total": 10,
+      "perfect": 9,
+      "minor": 1,
+      "major": 0,
+      "quality": 95.0
+    },
+    "ceylon_name_list": {
+      "total": 10,
+      "perfect": 8,
+      "minor": 0,
+      "major": 2,
+      "quality": 80.0
+    }
+  },
+  "errors": [
+    {
+      "record_num": 20,
+      "year": 1880,
+      "method": "ceylon_name_list",
+      "extracted_name": "Rs. 5",
+      "extracted_role": "Commissioners of Requests and Police Magistrates at",
+      "extracted_salary": null,
+      "extracted_location": "CEYLON - Eastern Province - Customs Department",
+      "source_line": "Master Attendant, Colombo, J. Donnan, Rs. 5,000.",
+      "line_number": 333,
+      "verdict": "MAJOR ERROR",
+      "issues": [
+        "Name is actually a salary: \"Rs. 5\""
+      ],
+      "full_string": "Master Attendant, Colombo, J. Donnan, Rs. 5,000."
+    },
+    {
+      "record_num": 4,
+      "year": 1890,
+      "method": "ceylon_name_salary",
+      "extracted_name": "W. G. Rockwood",
+      "extracted_role": "Assistant Colonial Surgeons:\u2014",
+      "source_line": "W. G. Rockwood, Rs. 4,500; F. A. Van Dersmagt, M.D., Rs. 4,500; E. Gratien, Rs. 4,500; J. Carbery, M.B.C.M., Rs. 4,500; W. E. Miss., M.R.C.S., Edin., Rs. 4,500; W. G. Keith, M.B.C.M., Rs. 4,500; T. F. Garvin, M.B.C.M., Rs. 4,050; P. F. Solomons, Rs. 4,000; G. P. Schokman, Rs. 4,000; E. de Livera, Rs. 4,000; H. A. Morses, Rs. 4,000; W. H. Swan, Rs. 3,500; S. Fernando, Rs. 3,500; A. H. Fretz, Rs. 3,500; F. Oorloff, Rs. 3,500; J. H. Ebell, L.R.C.S. and L.R.C.P., Edin., Rs. 3,000; W. E. Rudd, Rs. 3,000; N. Suppsyah, L.R.C.P., Eng., Rs. 3,000; F. G. Spittel, Rs. 3,000; H. A. Keegel, Rs. 3,000; A. H. Toussaint, Rs. 2,500; W. H. Meier, Rs. 2,250; M. Elekytamit, Rs. 1,500; G. Thomaz, Rs. 1,500; E. Modder, Rs. 1,500; O. Johnson, Rs. 1,500.",
+      "verdict": "MINOR ERROR",
+      "issues": [
+        "Role ends with plural marker: \"Assistant Colonial Surgeons:\u2014\""
+      ]
+    },
+    {
+      "record_num": 14,
+      "year": 1899,
+      "method": "ceylon_name_list",
+      "extracted_name": "Ass. do",
+      "extracted_role": "Treasurer",
+      "source_line": "Ass. do., W. Van Langenberg, Rs. 3,000.",
+      "verdict": "MAJOR ERROR",
+      "issues": [
+        "Name is abbreviation/placeholder: \"Ass. do\""
+      ]
+    }
+  ]
+}

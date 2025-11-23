@@ -1,7 +1,7 @@
 {
   "year": 1908,
-  "total_colonies": 54,
-  "extraction_date": "2025-11-18",
+  "total_colonies": 55,
+  "extraction_date": "2025-11-19",
   "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1908/olmocr_results.md",
   "colonies": [
     {
@@ -123,6 +123,14 @@
       "end_line": 18923,
       "line_count": 3748,
       "char_count": 219367
+    },
+    {
+      "name": "CEYLON",
+      "filename": "CEYLON.txt",
+      "start_line": 18086,
+      "end_line": 18853,
+      "line_count": 768,
+      "char_count": 46232
     },
     {
       "name": "CYPRUS",

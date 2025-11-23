@@ -3,7 +3,7 @@
   "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1886/olmocr_results.md",
   "extraction_date": "2025-11-18",
   "extraction_method": "Manual LLM boundary identification with systematic document review",
-  "total_colonies": 38,
+  "total_colonies": 39,
   "notes": [
     "Colony boundaries manually identified by reading OCR content",
     "PART II (Colonies) runs from approximately line 1445 to line ~30000",
@@ -11,7 +11,8 @@
     "Some boundaries are estimated and require verification",
     "Reference entries (ANTIGUA, ANGUILLA, DOMINICA) point to main sections",
     "Some colonies contain sub-sections (e.g., Leeward Islands, Windward Islands)",
-    "Boundaries verified by reading actual content where possible"
+    "Boundaries verified by reading actual content where possible",
+    "Ceylon (lines 9220-10112) recovered - was missed in initial extraction"
   ],
   "colonies": [
     {
@@ -69,6 +70,14 @@
       "line_count": 5018,
       "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/DOMINION_OF_CANADA.txt",
       "note": "North American dominion - VERIFIED"
+    },
+    {
+      "colony_name": "CEYLON",
+      "start_line": 9220,
+      "end_line": 10112,
+      "line_count": 893,
+      "file": "/home/user/colonial_office_list/output_3/1886_manual_parsed/CEYLON.txt",
+      "note": "Indian Ocean island - RECOVERED from missed extraction"
     },
     {
       "colony_name": "DOMINICA REF",

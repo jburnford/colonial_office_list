@@ -1,7 +1,7 @@
 {
   "year": 1910,
   "source": "historical_document_pipeline/processed_pdfs/colonial-office-list-1910/olmocr_results.md",
-  "total_colonies": 45,
+  "total_colonies": 46,
   "colonies": [
     {
       "name": "BAHAMAS",
@@ -37,6 +37,13 @@
       "end_line": 18615,
       "line_count": 6158,
       "file": "BRITISH_HONDURAS.txt"
+    },
+    {
+      "name": "DOMINION_OF_CANADA",
+      "start_line": 12805,
+      "end_line": 15891,
+      "line_count": 3087,
+      "file": "DOMINION_OF_CANADA.txt"
     },
     {
       "name": "CEYLON",

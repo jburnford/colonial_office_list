@@ -1,0 +1,1163 @@
+================================================================================
+CEYLON COLONIAL OFFICE LISTS - COMPLETE EXTRACTION
+================================================================================
+
+Using v3 specialized Ceylon extractor (96.2/100 quality)
+Fixes: location filtering, qualification handling, plural roles
+
+Found 47 Ceylon files (1867-1963)
+
+
+================================================================================
+[1/47] Processing 1867: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1867: output_3/1867_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 152 people via patterns
+  Flagged 85 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 150 people
+
+✓ Extracted 150 people from 1867
+
+================================================================================
+[2/47] Processing 1877: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1877: output_3/1877_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 273 people via patterns
+  Flagged 93 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 222 people
+
+✓ Extracted 222 people from 1877
+
+================================================================================
+[3/47] Processing 1878: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1878: output_3/1878_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 337 people via patterns
+  Flagged 15 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 282 people
+
+✓ Extracted 282 people from 1878
+
+================================================================================
+[4/47] Processing 1879: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1879: output_3/1879_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 367 people via patterns
+  Flagged 18 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 317 people
+
+✓ Extracted 317 people from 1879
+
+================================================================================
+[5/47] Processing 1880: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1880: output_3/1880_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 342 people via patterns
+  Flagged 18 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 288 people
+
+✓ Extracted 288 people from 1880
+
+================================================================================
+[6/47] Processing 1883: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1883: output_3/1883_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 309 people via patterns
+  Flagged 19 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 266 people
+
+✓ Extracted 266 people from 1883
+
+================================================================================
+[7/47] Processing 1888: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1888: output_3/1888_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 240 people via patterns
+  Flagged 36 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 185 people
+
+✓ Extracted 185 people from 1888
+
+================================================================================
+[8/47] Processing 1889: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1889: output_3/1889_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 272 people via patterns
+  Flagged 57 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 194 people
+
+✓ Extracted 194 people from 1889
+
+================================================================================
+[9/47] Processing 1890: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1890: output_3/1890_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 267 people via patterns
+  Flagged 21 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 231 people
+
+✓ Extracted 231 people from 1890
+
+================================================================================
+[10/47] Processing 1894: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1894: output_3/1894_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 303 people via patterns
+  Flagged 33 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 272 people
+
+✓ Extracted 272 people from 1894
+
+================================================================================
+[11/47] Processing 1896: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1896: output_3/1896_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 277 people via patterns
+  Flagged 80 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 225 people
+
+✓ Extracted 225 people from 1896
+
+================================================================================
+[12/47] Processing 1897: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1897: output_3/1897_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 10 people via patterns
+  Flagged 67 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 10 people
+
+✓ Extracted 10 people from 1897
+
+================================================================================
+[13/47] Processing 1898: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1898: output_3/1898_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 305 people via patterns
+  Flagged 30 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 263 people
+
+✓ Extracted 263 people from 1898
+
+================================================================================
+[14/47] Processing 1899: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1899: output_3/1899_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 314 people via patterns
+  Flagged 38 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 265 people
+
+✓ Extracted 265 people from 1899
+
+================================================================================
+[15/47] Processing 1900: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1900: output_3/1900_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 310 people via patterns
+  Flagged 35 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 283 people
+
+✓ Extracted 283 people from 1900
+
+================================================================================
+[16/47] Processing 1905: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1905: output_3/1905_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 332 people via patterns
+  Flagged 66 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 291 people
+
+✓ Extracted 291 people from 1905
+
+================================================================================
+[17/47] Processing 1906: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1906: output_3/1906_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 357 people via patterns
+  Flagged 42 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 295 people
+
+✓ Extracted 295 people from 1906
+
+================================================================================
+[18/47] Processing 1907: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1907: output_3/1907_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 240 people via patterns
+  Flagged 101 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 197 people
+
+✓ Extracted 197 people from 1907
+
+================================================================================
+[19/47] Processing 1909: ceylon.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1909: output_3/1909_manual_parsed/ceylon.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 271 people via patterns
+  Flagged 91 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 264 people
+
+✓ Extracted 264 people from 1909
+
+================================================================================
+[20/47] Processing 1910: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1910: output_3/1910_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 239 people via patterns
+  Flagged 131 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 238 people
+
+✓ Extracted 238 people from 1910
+
+================================================================================
+[21/47] Processing 1911: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1911: output_3/1911_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 292 people via patterns
+  Flagged 110 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 283 people
+
+✓ Extracted 283 people from 1911
+
+================================================================================
+[22/47] Processing 1912: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1912: output_3/1912_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 234 people via patterns
+  Flagged 144 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 229 people
+
+✓ Extracted 229 people from 1912
+
+================================================================================
+[23/47] Processing 1913: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1913: output_3/1913_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 271 people via patterns
+  Flagged 129 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 265 people
+
+✓ Extracted 265 people from 1913
+
+================================================================================
+[24/47] Processing 1914: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1914: output_3/1914_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 273 people via patterns
+  Flagged 158 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 272 people
+
+✓ Extracted 272 people from 1914
+
+================================================================================
+[25/47] Processing 1915: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1915: output_3/1915_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 290 people via patterns
+  Flagged 161 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 289 people
+
+✓ Extracted 289 people from 1915
+
+================================================================================
+[26/47] Processing 1917: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1917: output_3/1917_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 293 people via patterns
+  Flagged 173 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 287 people
+
+✓ Extracted 287 people from 1917
+
+================================================================================
+[27/47] Processing 1918: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1918: output_3/1918_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 305 people via patterns
+  Flagged 156 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 301 people
+
+✓ Extracted 301 people from 1918
+
+================================================================================
+[28/47] Processing 1919: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1919: output_3/1919_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 340 people via patterns
+  Flagged 157 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 331 people
+
+✓ Extracted 331 people from 1919
+
+================================================================================
+[29/47] Processing 1920: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1920: output_3/1920_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 335 people via patterns
+  Flagged 179 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 327 people
+
+✓ Extracted 327 people from 1920
+
+================================================================================
+[30/47] Processing 1921: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1921: output_3/1921_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 357 people via patterns
+  Flagged 193 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 350 people
+
+✓ Extracted 350 people from 1921
+
+================================================================================
+[31/47] Processing 1922: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1922: output_3/1922_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 387 people via patterns
+  Flagged 207 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 380 people
+
+✓ Extracted 380 people from 1922
+
+================================================================================
+[32/47] Processing 1923: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1923: output_3/1923_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 442 people via patterns
+  Flagged 199 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 433 people
+
+✓ Extracted 433 people from 1923
+
+================================================================================
+[33/47] Processing 1924: CEYLON.md
+================================================================================
+
+======================================================================
+Processing CEYLON 1924: output_3/1924_manual_parsed/CEYLON.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 406 people via patterns
+  Flagged 193 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 401 people
+
+✓ Extracted 401 people from 1924
+
+================================================================================
+[34/47] Processing 1925: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1925: output_3/1925_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 412 people via patterns
+  Flagged 193 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 407 people
+
+✓ Extracted 407 people from 1925
+
+================================================================================
+[35/47] Processing 1927: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1927: output_3/1927_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 459 people via patterns
+  Flagged 452 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 456 people
+
+✓ Extracted 456 people from 1927
+
+================================================================================
+[36/47] Processing 1928: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1928: output_3/1928_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 549 people via patterns
+  Flagged 482 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 536 people
+
+✓ Extracted 536 people from 1928
+
+================================================================================
+[37/47] Processing 1929: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1929: output_3/1929_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 414 people via patterns
+  Flagged 212 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 410 people
+
+✓ Extracted 410 people from 1929
+
+================================================================================
+[38/47] Processing 1930: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1930: output_3/1930_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 528 people via patterns
+  Flagged 259 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 494 people
+
+✓ Extracted 494 people from 1930
+
+================================================================================
+[39/47] Processing 1931: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1931: output_3/1931_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 695 people via patterns
+  Flagged 437 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 653 people
+
+✓ Extracted 653 people from 1931
+
+================================================================================
+[40/47] Processing 1932: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1932: output_3/1932_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 544 people via patterns
+  Flagged 181 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 491 people
+
+✓ Extracted 491 people from 1932
+
+================================================================================
+[41/47] Processing 1933: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1933: output_3/1933_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 492 people via patterns
+  Flagged 199 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 467 people
+
+✓ Extracted 467 people from 1933
+
+================================================================================
+[42/47] Processing 1934: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1934: output_3/1934_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 459 people via patterns
+  Flagged 264 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 424 people
+
+✓ Extracted 424 people from 1934
+
+================================================================================
+[43/47] Processing 1936: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1936: output_3/1936_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 503 people via patterns
+  Flagged 250 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 466 people
+
+✓ Extracted 466 people from 1936
+
+================================================================================
+[44/47] Processing 1937: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1937: output_3/1937_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 485 people via patterns
+  Flagged 230 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 463 people
+
+✓ Extracted 463 people from 1937
+
+================================================================================
+[45/47] Processing 1939: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1939: output_3/1939_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 763 people via patterns
+  Flagged 215 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 690 people
+
+✓ Extracted 690 people from 1939
+
+================================================================================
+[46/47] Processing 1940: CEYLON.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1940: output_3/1940_manual_parsed/CEYLON.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 645 people via patterns
+  Flagged 198 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 607 people
+
+✓ Extracted 607 people from 1940
+
+================================================================================
+[47/47] Processing 1946: ceylon.txt
+================================================================================
+
+======================================================================
+Processing CEYLON 1946: output_3/1946_manual_parsed/ceylon.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Ceylon-specific)...
+  Extracted 6 people via patterns
+  Flagged 62 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (0-5% accuracy in v2)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 6 people
+
+✓ Extracted 6 people from 1946
+
+
+================================================================================
+EXTRACTION COMPLETE - SUMMARY
+================================================================================
+
+Total people extracted: 15456
+Files processed successfully: 47/47
+Files failed: 0
+
+Quality Metrics:
+  High confidence (>=0.85): 6023 (39.0%)
+  Med confidence (0.6-0.84): 9433 (61.0%)
+  Low confidence (<0.6):     0 (0.0%)
+  Unknown roles:             0 (0.0%)
+
+Extraction Methods:
+  ceylon_name_list: 8311 (53.8%)
+  ceylon_pattern1: 5305 (34.3%)
+  ceylon_name_salary: 1122 (7.3%)
+  ceylon_location_name: 718 (4.6%)
+
+Results saved to: ceylon_all_years_v3.json
+
+================================================================================
+

@@ -1,0 +1,273 @@
+[
+  {
+    "record_num": 1,
+    "year": 1883,
+    "method": "ceylon_name_list",
+    "extracted_name": "Rs. 6",
+    "extracted_role": "List of Colonial Chaplains",
+    "extracted_salary": null,
+    "source_line": "Rev. C. Boyd, Colombo, Rs. 6,000.",
+    "line_number": 638,
+    "verdict": "MAJOR ERROR",
+    "issues": [
+      "Name \"Rs. 6\" is actually a salary/currency",
+      "Role \"List of Colonial Chaplains\" is plural (should be singular)"
+    ]
+  },
+  {
+    "record_num": 2,
+    "year": 1877,
+    "method": "ceylon_pattern1",
+    "extracted_name": "J. Hill",
+    "extracted_role": "English Normal Master of the Normal Institution",
+    "extracted_salary": "Rs. 4",
+    "source_line": "FILE NOT FOUND",
+    "line_number": 475,
+    "verdict": "CANNOT VERIFY",
+    "issues": [
+      "Source file not found"
+    ]
+  },
+  {
+    "record_num": 3,
+    "year": 1867,
+    "method": "ceylon_name_salary",
+    "extracted_name": "E. Dalton",
+    "extracted_role": "Superintending Officer",
+    "extracted_salary": "400l.",
+    "source_line": "E. Dalton, 400l.",
+    "line_number": 215,
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 4,
+    "year": 1879,
+    "method": "ceylon_location_name",
+    "extracted_name": "C. E. D. Pennycuick",
+    "extracted_role": "Registrar of Supreme Court",
+    "extracted_salary": "Rs. 7",
+    "source_line": "Badulla, C. E. D. Pennycuick, Rs. 7,200.",
+    "line_number": 279,
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 5,
+    "year": 1880,
+    "method": "ceylon_pattern1",
+    "extracted_name": "W. C. Twynam",
+    "extracted_role": "Government Agent",
+    "extracted_salary": "Rs. 18",
+    "source_line": "Government Agent, W. C. Twynam, Rs. 18,000.",
+    "line_number": 210,
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 6,
+    "year": 1879,
+    "method": "ceylon_name_salary",
+    "extracted_name": "G. Gill",
+    "extracted_role": "Assistant Colonial Surgeon",
+    "extracted_salary": "Rs. 3",
+    "source_line": "G. Gill, Rs. 3,000.",
+    "line_number": 535,
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 7,
+    "year": 1910,
+    "method": "ceylon_name_list",
+    "extracted_name": "B. Hill (acting)",
+    "extracted_role": "Private Secretary, W. E. V. de Rooy",
+    "extracted_salary": null,
+    "source_line": "FILE NOT FOUND",
+    "line_number": 377,
+    "verdict": "CANNOT VERIFY",
+    "issues": [
+      "Source file not found"
+    ]
+  },
+  {
+    "record_num": 8,
+    "year": 1930,
+    "method": "ceylon_pattern1",
+    "extracted_name": "J. M. Silva",
+    "extracted_role": "Extra Office Assistant",
+    "extracted_salary": "510l.",
+    "source_line": "FILE NOT FOUND",
+    "line_number": 512,
+    "verdict": "CANNOT VERIFY",
+    "issues": [
+      "Source file not found"
+    ]
+  },
+  {
+    "record_num": 9,
+    "year": 1906,
+    "method": "ceylon_name_salary",
+    "extracted_name": "D. Abaveagoonawardenra",
+    "extracted_role": "3rd Grade Surveyors:\u2014",
+    "extracted_salary": "Rs. 1",
+    "source_line": "FILE NOT FOUND",
+    "line_number": 578,
+    "verdict": "CANNOT VERIFY",
+    "issues": [
+      "Source file not found"
+    ]
+  },
+  {
+    "record_num": 10,
+    "year": 1925,
+    "method": "ceylon_location_name",
+    "extracted_name": "E. F. Marshall",
+    "extracted_role": "Commissioners of Requests and Police Magistrates at",
+    "extracted_salary": "700l.",
+    "source_line": "FILE NOT FOUND",
+    "line_number": 574,
+    "verdict": "CANNOT VERIFY",
+    "issues": [
+      "Source file not found"
+    ]
+  },
+  {
+    "record_num": 11,
+    "year": 1925,
+    "method": "ceylon_name_list",
+    "extracted_name": "W. Wijeyegunawardana",
+    "extracted_role": "Divisional Agricultural Officer, South-Western (vacant)",
+    "extracted_salary": null,
+    "source_line": "FILE NOT FOUND",
+    "line_number": 1011,
+    "verdict": "CANNOT VERIFY",
+    "issues": [
+      "Source file not found"
+    ]
+  },
+  {
+    "record_num": 12,
+    "year": 1929,
+    "method": "ceylon_pattern1",
+    "extracted_name": "E. H. Vauderwall",
+    "extracted_role": "Divisional Inspectors of Schools",
+    "extracted_salary": "870l.",
+    "source_line": "FILE NOT FOUND",
+    "line_number": 847,
+    "verdict": "CANNOT VERIFY",
+    "issues": [
+      "Source file not found"
+    ]
+  },
+  {
+    "record_num": 13,
+    "year": 1921,
+    "method": "ceylon_pattern1",
+    "extracted_name": "T. G. Hunter",
+    "extracted_role": "Inspector of Mines",
+    "extracted_salary": "650l.",
+    "source_line": "Inspector of Mines, T. G. Hunter, 650l.",
+    "line_number": 1011,
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 14,
+    "year": 1931,
+    "method": "ceylon_name_list",
+    "extracted_name": "W. A. Muller",
+    "extracted_role": "Ceylon Medical College",
+    "extracted_salary": null,
+    "source_line": "FILE NOT FOUND",
+    "line_number": 1130,
+    "verdict": "CANNOT VERIFY",
+    "issues": [
+      "Source file not found"
+    ]
+  },
+  {
+    "record_num": 15,
+    "year": 1940,
+    "method": "ceylon_pattern1",
+    "extracted_name": "P. B. Fernando",
+    "extracted_role": "Professor of Medicine",
+    "extracted_salary": "Rs. 12",
+    "source_line": "FILE NOT FOUND",
+    "line_number": 1405,
+    "verdict": "CANNOT VERIFY",
+    "issues": [
+      "Source file not found"
+    ]
+  },
+  {
+    "record_num": 16,
+    "year": 1936,
+    "method": "ceylon_name_salary",
+    "extracted_name": "S. L. B. Kapukotuwa",
+    "extracted_role": "Divisional Inspectors of Schools:\u2014",
+    "extracted_salary": "Rs. 8",
+    "source_line": "FILE NOT FOUND",
+    "line_number": 1321,
+    "verdict": "CANNOT VERIFY",
+    "issues": [
+      "Source file not found"
+    ]
+  },
+  {
+    "record_num": 17,
+    "year": 1931,
+    "method": "ceylon_location_name",
+    "extracted_name": "S. P. Wickramasinha",
+    "extracted_role": "Commissioners of Requests and Police Magistrates at: \u2014",
+    "extracted_salary": "700l.",
+    "source_line": "FILE NOT FOUND",
+    "line_number": 624,
+    "verdict": "CANNOT VERIFY",
+    "issues": [
+      "Source file not found"
+    ]
+  },
+  {
+    "record_num": 18,
+    "year": 1931,
+    "method": "ceylon_name_list",
+    "extracted_name": "J. A. Wilson",
+    "extracted_role": "Chief Accountant (vacant)",
+    "extracted_salary": null,
+    "source_line": "FILE NOT FOUND",
+    "line_number": 826,
+    "verdict": "CANNOT VERIFY",
+    "issues": [
+      "Source file not found"
+    ]
+  },
+  {
+    "record_num": 19,
+    "year": 1932,
+    "method": "ceylon_name_list",
+    "extracted_name": "A.R.T.C. (Glasgow)",
+    "extracted_role": "Assistant Superintendent",
+    "extracted_salary": null,
+    "source_line": "FILE NOT FOUND",
+    "line_number": 1862,
+    "verdict": "CANNOT VERIFY",
+    "issues": [
+      "Source file not found"
+    ]
+  },
+  {
+    "record_num": 20,
+    "year": 1934,
+    "method": "ceylon_name_list",
+    "extracted_name": "A.M.Inst.C.E",
+    "extracted_role": "Irrigation Engineers (500L. to 900L.)",
+    "extracted_salary": null,
+    "source_line": "FILE NOT FOUND",
+    "line_number": 916,
+    "verdict": "CANNOT VERIFY",
+    "issues": [
+      "Source file not found"
+    ]
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "record_num": 1,
+    "year": 1890,
+    "method": "ceylon_pattern1",
+    "extracted_name": "W. H. Ravenscroft",
+    "extracted_role": "Auditor-General",
+    "source_line": "Auditor-General, W. H. Ravenscroft, C.M.G., Rs. 18,000.",
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 2,
+    "year": 1890,
+    "method": "ceylon_name_list",
+    "extracted_name": "C. L. Ferdinands",
+    "extracted_role": "Registrar of Supreme Court",
+    "source_line": "District Judge, Colombo, C. L. Ferdinands, Rs. 14,400.",
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 3,
+    "year": 1890,
+    "method": "ceylon_location_name",
+    "extracted_name": "L. Nell",
+    "extracted_role": "Solicitor-General",
+    "source_line": "Galle, L. Nell, Rs. 4,000.",
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 4,
+    "year": 1890,
+    "method": "ceylon_name_salary",
+    "extracted_name": "W. G. Rockwood",
+    "extracted_role": "Assistant Colonial Surgeons:\u2014",
+    "source_line": "W. G. Rockwood, Rs. 4,500; F. A. Van Dersmagt, M.D., Rs. 4,500; E. Gratien, Rs. 4,500; J. Carbery, M.B.C.M., Rs. 4,500; W. E. Miss., M.R.C.S., Edin., Rs. 4,500; W. G. Keith, M.B.C.M., Rs. 4,500; T. F. Garvin, M.B.C.M., Rs. 4,050; P. F. Solomons, Rs. 4,000; G. P. Schokman, Rs. 4,000; E. de Livera, Rs. 4,000; H. A. Morses, Rs. 4,000; W. H. Swan, Rs. 3,500; S. Fernando, Rs. 3,500; A. H. Fretz, Rs. 3,500; F. Oorloff, Rs. 3,500; J. H. Ebell, L.R.C.S. and L.R.C.P., Edin., Rs. 3,000; W. E. Rudd, Rs. 3,000; N. Suppsyah, L.R.C.P., Eng., Rs. 3,000; F. G. Spittel, Rs. 3,000; H. A. Keegel, Rs. 3,000; A. H. Toussaint, Rs. 2,500; W. H. Meier, Rs. 2,250; M. Elekytamit, Rs. 1,500; G. Thomaz, Rs. 1,500; E. Modder, Rs. 1,500; O. Johnson, Rs. 1,500.",
+    "verdict": "MINOR ERROR",
+    "issues": [
+      "Role ends with plural marker: \"Assistant Colonial Surgeons:\u2014\""
+    ]
+  },
+  {
+    "record_num": 5,
+    "year": 1894,
+    "method": "ceylon_pattern1",
+    "extracted_name": "P. D. Warren",
+    "extracted_role": "Office Assistant",
+    "source_line": "Office Assistant, P. D. Warren, Rs. 6,500.",
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 6,
+    "year": 1894,
+    "method": "ceylon_name_list",
+    "extracted_name": "L. Creasy",
+    "extracted_role": "Collector, the Government Agent",
+    "source_line": "Provl. Assistant, Northern Province, L. Creasy, Rs. 6,000.",
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 7,
+    "year": 1894,
+    "method": "ceylon_name_salary",
+    "extracted_name": "J. H. Templer",
+    "extracted_role": "Solicitor-General",
+    "source_line": "J. H. Templer, Rs. 8,000.",
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 8,
+    "year": 1894,
+    "method": "ceylon_location_name",
+    "extracted_name": "F. J. de Livera",
+    "extracted_role": "Registrar of Supreme Court",
+    "source_line": "Kalutara, F. J. de Livera, Rs. 9,600.",
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 9,
+    "year": 1896,
+    "method": "ceylon_pattern1",
+    "extracted_name": "E. C. Davies",
+    "extracted_role": "Engineer of the Factory",
+    "source_line": "Engineer of the Factory, E. C. Davies, Rs. 6,000.",
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 10,
+    "year": 1896,
+    "method": "ceylon_name_list",
+    "extracted_name": "F. H. Grinlinton",
+    "extracted_role": "Director of Public Works",
+    "source_line": "1st Chief Surveyor, F. H. Grinlinton, Rs. 8,000.",
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 11,
+    "year": 1896,
+    "method": "ceylon_name_salary",
+    "extracted_name": "H. Parker",
+    "extracted_role": "Irrigation Officer",
+    "source_line": "H. Parker, Rs. 7,000; J. F. Brunton, Rs. 3,500.",
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 12,
+    "year": 1896,
+    "method": "ceylon_location_name",
+    "extracted_name": "W. H. Moor",
+    "extracted_role": "Commissioners of Requests and Police Magistrates at:\u2014",
+    "source_line": "Kalutara, W. H. Moor, Rs. 4,500.",
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 13,
+    "year": 1899,
+    "method": "ceylon_pattern1",
+    "extracted_name": "L. F. Lee",
+    "extracted_role": "Principal Collector",
+    "source_line": "Principal Collector, L. F. Lee, Rs. 14,400.",
+    "verdict": "PERFECT",
+    "issues": []
+  },
+  {
+    "record_num": 14,
+    "year": 1899,
+    "method": "ceylon_name_list",
+    "extracted_name": "Ass. do",
+    "extracted_role": "Treasurer",
+    "source_line": "Ass. do., W. Van Langenberg, Rs. 3,000.",
+    "verdict": "MAJOR ERROR",
+    "issues": [
+      "Name is abbreviation/placeholder: \"Ass. do\""
+    ]
+  },
+  {
+    "record_num": 15,
+    "year": 1899,
+    "method": "ceylon_name_salary",
+    "extracted_name": "J. H. Templar",
+    "extracted_role": "Solicitor-General",
+    "source_line": "J. H. Templar, Rs. 8,000.",
+    "verdict": "PERFECT",
+    "issues": []
+  }
+]

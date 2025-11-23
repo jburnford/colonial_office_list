@@ -1,7 +1,7 @@
 {
   "source_file": "historical_document_pipeline/processed_pdfs/colonial-office-list-1911/olmocr_results.md",
   "year": 1911,
-  "total_colonies": 40,
+  "total_colonies": 41,
   "extraction_date": "2025-11-18",
   "colonies": [
     {
@@ -37,8 +37,14 @@
     {
       "name": "BRITISH HONDURAS",
       "start_line": 12261,
-      "end_line": 15612,
-      "total_lines": 3351
+      "end_line": 12614,
+      "total_lines": 354
+    },
+    {
+      "name": "DOMINION OF CANADA",
+      "start_line": 12615,
+      "end_line": 15611,
+      "total_lines": 2997
     },
     {
       "name": "CEYLON",

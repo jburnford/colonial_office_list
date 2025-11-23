@@ -1,17 +1,17 @@
 {
   "year": 1909,
   "source_file": "/home/user/colonial_office_list/historical_document_pipeline/processed_pdfs/colonial-office-list-1909/olmocr_results.md",
-  "total_colonies": 58,
+  "total_colonies": 59,
   "colonies": [
     {
-      "name": "AUSTRALIA\u2014NEW SOUTH WALES",
+      "name": "AUSTRALIA—NEW SOUTH WALES",
       "filename": "australia-new_south_wales.md",
       "start_line": 5479,
       "end_line": 6067,
       "char_count": 51899
     },
     {
-      "name": "AUSTRALIA\u2014QUEENSLAND",
+      "name": "AUSTRALIA—QUEENSLAND",
       "filename": "australia-queensland.md",
       "start_line": 6068,
       "end_line": 6454,
@@ -86,6 +86,14 @@
       "start_line": 12624,
       "end_line": 14266,
       "char_count": 105003
+    },
+    {
+      "name": "DOMINION OF CANADA",
+      "filename": "DOMINION_OF_CANADA.txt",
+      "start_line": 13038,
+      "end_line": 16082,
+      "line_count": 3045,
+      "char_count": 155715
     },
     {
       "name": "ONTARIO",

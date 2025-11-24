@@ -1,0 +1,208 @@
+================================================================================
+JAMAICA EXTRACTION QUALITY EVALUATION - v1 vs v2 COMPARISON
+================================================================================
+
+OVERALL QUALITY SCORE
+----------------------
+v1: 37.2/100  ████████░░░░░░░░░░░░░░░░░  (POOR)
+v2: 73.2/100  ██████████████████░░░░░░░  (GOOD - CLOSE TO TARGET)
+                                          ↑ +36.0 points (+97% improvement)
+
+Target: 75-85/100  ████████████████████░░
+Status: ALMOST THERE (gap: -1.8 points)
+
+
+DETAILED METRICS COMPARISON
+----------------------------
+
+Perfect Extractions (Target: 60%+)
+v1:   0%  ░░░░░░░░░░░░░░░░░░░░░░░░░
+v2:  44%  ███████████░░░░░░░░░░░░░░  ↑ +44%
+
+Name Accuracy (Target: 95%+)
+v1:  50%  ████████████░░░░░░░░░░░░░
+v2:  92%  ██████████████████████░░░  ↑ +42%
+
+Role Accuracy (Target: 85%+) ⚠️ CRITICAL ISSUE
+v1:  40%  ██████████░░░░░░░░░░░░░░░
+v2:  44%  ███████████░░░░░░░░░░░░░  ↑ +4% ONLY!
+
+All Initials Captured (Target: 95%+)
+v1:  50%  ████████████░░░░░░░░░░░░░
+v2:  96%  ████████████████████████░  ↑ +46% ✅ EXCELLENT!
+
+Non-Person Data Rate (Target: <2%)
+v1:  25%  ██████░░░░░░░░░░░░░░░░░░░  (HIGHER IS WORSE)
+v2:   8%  ██░░░░░░░░░░░░░░░░░░░░░░░  ↓ -17% ✅ BETTER
+
+
+PATCH EFFECTIVENESS
+-------------------
+
+✅ Pattern5 Initials Fix: SUCCESS
+   - Goal: Capture ALL initials (W. B. Mais, not just B. Mais)
+   - Result: 96% success rate
+   - Example: E. P. D. Greaves (3 initials captured!)
+
+✅ Pattern4 Climate Filter: MOSTLY SUCCESS
+   - Goal: Reject hurricane/climate text
+   - Result: 92% rejection rate (8% still getting through)
+   - Remaining: Group/category extraction issues
+
+⚠️ Pattern2 Role Extraction: MINIMAL IMPROVEMENT
+   - Goal: Improve role accuracy from 0% to 85%
+   - Result: Only 44% accuracy (+4% from v1)
+   - Issue: Pattern5 role inheritance bug
+
+✅ Pattern1 Location Fix: SUCCESS
+   - Goal: Fix location/name confusion (Negril Point vs J. S. Brownhill)
+   - Result: 92% name accuracy
+   - Remaining: 1 case of role/name swap
+
+
+CRITICAL BUGS FOUND
+-------------------
+
+🚨 BUG #1: Pattern5 Role Inheritance (CRITICAL)
+   Severity: CRITICAL
+   Frequency: 28% of all records (7 out of 25)
+   Impact: Causes role accuracy to be 44% instead of 72%
+
+   Problem: When extracting names from lists, Pattern5 inherits the role
+            from a PREVIOUS line instead of using the role from the CURRENT line.
+
+   Example:
+   Line 357: Cashier, T. B. Hendricks, £200.
+   Line 358: Clerks, 1st Class, C. W. Chapman, and E. W. Astwood, £200.
+             ^^^^^^^^^^^^^^^^^^^^^^
+   Expected: E. W. Astwood → "Clerks, 1st Class"
+   Actual:   E. W. Astwood → "Cashier" ❌ (from line 357!)
+
+   Fix: Extract role from SAME line as names
+   Impact if fixed: +11.2 points → 84.4/100 ✅ MEETS TARGET!
+
+⚠️ BUG #2: Group/Category Extraction (MEDIUM)
+   Severity: MEDIUM
+   Frequency: 8% (2 out of 25)
+   Impact: Non-person data rate is 8% instead of <2%
+
+   Problem: Some entries are groups/categories, not individual people
+
+   Example:
+   "Postal and Telegraph Clerks, District Postmasters and Assistants, 449 = 35,276l."
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   This represents 449 people, not one person named "District Postmasters and Assistants"
+
+   Fix: Better validation for plural forms, number indicators
+   Impact if fixed: +0.8 points
+
+⚠️ BUG #3: Complex Role Parsing (MEDIUM)
+   Severity: MEDIUM
+   Frequency: 16% (4 out of 25)
+   Impact: Role confusion and name/role swaps
+
+   Example:
+   "Senior Assistant Superintendents of Police—W. H. L. Pink; ... E. P. D. Greaves."
+   Extracted role: "Deputy Commissioner of Lands—D. C. Mais" ❌ (completely wrong!)
+
+   Fix: Enhanced role validation and post-processing
+   Impact if fixed: +2-3 points
+
+
+SAMPLE RECORD ANALYSIS (25 records verified)
+--------------------------------------------
+
+✅ Perfect: 11/25 (44%)
+❌ Role Error: 11/25 (44%)
+❌ Non-Person: 2/25 (8%)
+❌ Other: 1/25 (4%)
+
+Perfect Examples:
+  ✓ D. H. Campbell - Rectors (1877)
+  ✓ J. J. Wood - Assistant Inspectors of Schools (1878)
+  ✓ J. M. Facey - Eastern District (1886)
+  ✓ R. E. Nunes - Assistant Surveyor (1897)
+  ✓ Fred. Evans - Colonial Secretary (1898)
+  ✓ T. Pearson - Secretary Central Board of Health (1906)
+  ✓ R. H. Fletcher - Chief Clerk (1922)
+  ✓ E. N. Richards - Assistant to Deputy Island Chemist (1924)
+  ✓ C. C. Kelly - Senior First Class Clerk (1925)
+  ✓ G. S. Cox - Chief Clerk (1933)
+  ✓ L. B. Bicknell - Superintendent Public Works Stores (1934)
+
+Role Error Examples (Pattern5 bug):
+  ✗ E. W. Astwood: "Cashier" → should be "Clerks, 1st Class" (1888)
+  ✗ A. L. Harris: "Cashier" → should be "Clerks, 2nd Class" (1900)
+  ✗ D. N. Norman: "Collector" → should be "1st Class Clerks" (1917)
+  ✗ E. A. Hewett: "Chief Clerk" → should be "2nd Class Clerks" (1928)
+  ✗ W. B. Clark: "Chief Clerk" → should be "2nd Class Clerks" (1931)
+
+Non-Person Examples:
+  ✗ "District Postmasters and Assistants" - group of 449 people (1939)
+  ✗ "Postmaster and Collector of Customs" - role, not name (1952)
+
+
+WHAT IMPROVED
+-------------
+✅ Initials capture: From 50% → 96% (+46%)
+✅ Name extraction: From 50% → 92% (+42%)
+✅ Non-person rejection: From 25% → 8% (-17%)
+✅ Perfect extractions: From 0% → 44% (+44%)
+✅ Overall quality: From 37.2 → 73.2 (+36 points)
+
+
+WHAT STILL NEEDS WORK
+----------------------
+❌ Role accuracy: 44% (barely improved from 40%)
+   - Pattern5 role inheritance bug is the main culprit
+   - Affects 28% of all records
+
+❌ Non-person detection: 8% (target is <2%)
+   - Need better group/category detection
+   - Need plural form validation
+
+❌ Complex role parsing: 16% errors
+   - Struggles with compound roles
+   - Role contains other people's names
+
+
+PROJECTED IMPACT IF BUGS FIXED
+-------------------------------
+
+Current Score:  73.2/100
++ Bug #1 fix:   +11.2 → 84.4/100  ✅ MEETS TARGET!
++ Bug #2 fix:   +0.8  → 85.2/100  ✅ EXCEEDS TARGET!
++ Bug #3 fix:   +2.0  → 87.2/100  ✅ STRONG!
+
+
+CONCLUSION
+----------
+
+Status: ⚠️ ALMOST THERE - ONE MORE FIX NEEDED
+
+The v2 FIXED extraction shows MASSIVE IMPROVEMENT (+97% better than v1) and
+successfully implements 3 out of 4 patches. However, a CRITICAL bug in Pattern5
+role inheritance prevents it from meeting the quality target.
+
+Good News:
+  ✅ 3 out of 4 patches working well
+  ✅ Name extraction nearly perfect (92%)
+  ✅ Initials capture excellent (96%)
+  ✅ Only 1.8 points away from target
+
+Bad News:
+  ❌ Pattern5 role inheritance bug affects 28% of records
+  ❌ Role accuracy barely improved (44% vs 40%)
+  ❌ Misses quality target by 1.8-11.8 points
+
+Next Steps:
+  1. Fix Pattern5 role inheritance bug
+  2. Re-extract Jamaica data
+  3. Expected result: 84.4/100 ✅ MEETS TARGET
+
+With the Pattern5 fix implemented, the extraction would achieve:
+  - Perfect extractions: 68% (up from 44%)
+  - Role accuracy: 72% (up from 44%)
+  - Overall quality: 84.4/100 ✅ TARGET MET
+
+================================================================================

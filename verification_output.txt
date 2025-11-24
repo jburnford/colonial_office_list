@@ -1,0 +1,684 @@
+SAMPLED RECORDS FOR MANUAL VERIFICATION
+====================================================================================================
+
+====================================================================================================
+RECORD 1/25
+====================================================================================================
+Year: 1877
+Name: D. H. Campbell
+Role: Rectors
+Location: Kingston
+Confidence: 0.9
+Full String: Rectors, D. H. Campbell, M.A., 600l.
+Source File: output_3/1877_manual_parsed/JAMAICA.txt
+Line Number: 603
+Extraction Method: pattern1_role_name_salary
+
+SOURCE CONTEXT (lines 599-608):
+----------------------------------------------------------------------------------------------------
+     Line 599: Ecclesiastical Department.
+     Line 600: Bishop of Kingston, Right Rev. R. Courtenay, 800l., as Archdeacon of Middlesex.
+     Line 601: Archdeacon of Cornwall, Ven. W. Rowe, M.A., 600l.
+     Line 602: Archdeacon of Surrey and Ecclesiastical Commissary, Ven. D. H. Campbell, M.A.
+ >>> Line 603: Secretary to the Bishop, Rev. G. B. Brooks, M.A.
+     Line 604: Rectors, D. H. Campbell, M.A., 600l.
+     Line 605: D. R. Morris, 500l.
+     Line 606: C. H. Hall, 400l.
+     Line 607: J. H. Campbell, B.A., 400l.
+     Line 608: W. Smith, 400l.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 2/25
+====================================================================================================
+Year: 1878
+Name: J. J. Wood
+Role: Assistant Inspectors of Schools
+Location: Kingston
+Confidence: 0.9
+Full String: Assistant Inspectors of Schools, J. J. Wood, 250l., 200l. travelling allowance; Charles Plummer, 200l., and 200l. travelling allowance; Rev. A. Findlay, 100l., and 100l. travelling allowance for 8 months; Rev. C. E. Randall, 100l., and 100l. travelling allowance for 8 months; Rev. C. R. Chandler, 100l., and 100l. travelling allowance for 8 months; and Col. Geo. Hicks, 100l., and 100l. travelling allowance for 8 months.
+Source File: output_3/1878_manual_parsed/JAMAICA.txt
+Line Number: 633
+Extraction Method: pattern1_role_name_salary
+
+SOURCE CONTEXT (lines 629-638):
+----------------------------------------------------------------------------------------------------
+     Line 629: 
+     Line 630: Educational Department.
+     Line 631: 
+     Line 632: Inspector of Schools, John Savage, 600l., and 250l. travelling allowance.
+ >>> Line 633: 
+     Line 634: Assistant Inspectors of Schools, J. J. Wood, 250l., 200l. travelling allowance; Charles Plummer, 200l., and 200l. travelling allowance; Rev. A. Findlay, 100l., and 100l. travelling allowance for 8 months; Rev. C. E. Randall, 100l., and 100l. travelling allowance for 8 months; Rev. C. R. Chandler, 100l., and 100l. travelling allowance for 8 months; and Col. Geo. Hicks, 100l., and 100l. travelling allowance for 8 months.
+     Line 635: 
+     Line 636: Government Schoolmasters, R. Elworthy, Charlestown; and Andrew Willis, Port Antonio—230l. each, and house.
+     Line 637: 
+     Line 638: Principal of the Training College, Rev. C. F. Douet, 200l. and quarters.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 3/25
+====================================================================================================
+Year: 1883
+Name: W. K. Stephens
+Role: W. A. O'Connor
+Location: Kingston
+Confidence: 0.8
+Full String: W. K. Stephens, 250l.
+Source File: output_3/1883_manual_parsed/jamaica.txt
+Line Number: 427
+Extraction Method: pattern3_name_salary_context
+
+SOURCE CONTEXT (lines 423-432):
+----------------------------------------------------------------------------------------------------
+     Line 423: J. H. Courtenay, 200l.
+     Line 424: Benjamin Walrond, 200l.
+     Line 425: F. L. Stanigar, 200l.
+     Line 426: George Rogers, 200l.
+ >>> Line 427: C. Gayleard, 400l.
+     Line 428: W. K. Stephens, 250l.
+     Line 429: J. B. Talbot, 160l.
+     Line 430: R. S. Harvey, 250l.
+     Line 431: G. Cooke, 200l.
+     Line 432: J. J. Hillary, 200l.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 4/25
+====================================================================================================
+Year: 1886
+Name: J. M. Facey
+Role: Eastern District
+Location: Kingston
+Confidence: 0.9
+Full String: Eastern District, J. M. Facey, 300l.
+Source File: output_3/1886_manual_parsed/JAMAICA.txt
+Line Number: 768
+Extraction Method: pattern1_role_name_salary
+
+SOURCE CONTEXT (lines 764-773):
+----------------------------------------------------------------------------------------------------
+     Line 764: 
+     Line 765: Central District, W. G. McFarlane, 400l., and 185l. travelling allowance.
+     Line 766: Northern District, A. B. Dignum, 500l., and 187l. 10s. travelling allowance.
+     Line 767: Western District, G. Pilliner, 400l., and 187l. 10s. travelling allowance.
+ >>> Line 768: Southern District, James Allwood, 500l., and 175l. travelling allowance.
+     Line 769: Eastern District, J. M. Facey, 300l.
+     Line 770: 
+     Line 771: Stipendiary Magistrates, Richard Carter, J. T. Cartwright, salary 400l., 100l. for a house, and one shilling per mile travelling allowance, and 1l. for each night spent from home (two vacancies).
+     Line 772: Police Magistrate, Kingston, H. J. Bicknell, 500l.
+     Line 773: Assistant ditto, Capt. K. H. A. Mainwaring, R.N., 100l.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 5/25
+====================================================================================================
+Year: 1888
+Name: E. W. Astwood
+Role: Cashier
+Location: St. Catherine
+Confidence: 0.75
+Full String: Clerks, 1st Class, C. W. Chapman, and E. W. Astwood, £200. to £250.
+Source File: output_3/1888_manual_parsed/JAMAICA.txt
+Line Number: 357
+Extraction Method: pattern5_name_list
+
+SOURCE CONTEXT (lines 353-362):
+----------------------------------------------------------------------------------------------------
+     Line 353: 
+     Line 354: Public Treasurer, H. W. Livingston, £600.
+     Line 355: Chief Clerk, John Harris, £300. to £400.
+     Line 356: Bookkeeper, R. A. Henderson, £300. to £350.
+ >>> Line 357: Cashier, T. B. Hendricks, £200. to £250.
+     Line 358: Clerks, 1st Class, C. W. Chapman, and E. W. Astwood, £200. to £250.
+     Line 359: Clerks, 2nd Class, H. D'C. Mitchell, A. L. Savage, and L. R. McClelland, £100. to £200.
+     Line 360: Clerks, 3rd Class, T. M. Bartlett, £80. to £100., and E. H. Sanguinetti, £80. to £100.
+     Line 361: 
+     Line 362: Government Savings' Bank.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 6/25
+====================================================================================================
+Year: 1889
+Name: J. K. Collymore
+Role: Third Class Out-Door Officers
+Location: St. Catherine
+Confidence: 0.9
+Full String: Third Class Out-Door Officers, J. K. Collymore, J. A. Kildare, C. B. Cooke, F. Luke, C. K. Lambert, J. E. Melbourne, H. W. Mortlock, M. Henriques, O. A. Caldwell, and J. Gordon, 60l. to 70l.
+Source File: output_3/1889_manual_parsed/JAMAICA.txt
+Line Number: 540
+Extraction Method: pattern1_role_name_salary
+
+SOURCE CONTEXT (lines 536-545):
+----------------------------------------------------------------------------------------------------
+     Line 536: 
+     Line 537: First Class Out-Door Officers, A. R. Fitch (20l. personal allowance), R. E. Walker, H. J. Katon, J. S. Melbourne, and T. S. Chapman, 90l. to 100l.
+     Line 538: 
+     Line 539: Second Class Out-Door Officers, A. W. Lundie (5l. personal allowance), H. D. Campbell, H. D. Plummer, T. P. Walton, J. E. Tyrie, E. J. Kennedy, F. H. Holwell, and S. J. Drew, 75l. to 85l.
+ >>> Line 540: 
+     Line 541: Third Class Out-Door Officers, J. K. Collymore, J. A. Kildare, C. B. Cooke, F. Luke, C. K. Lambert, J. E. Melbourne, H. W. Mortlock, M. Henriques, O. A. Caldwell, and J. Gordon, 60l. to 70l.
+     Line 542: 
+     Line 543: Clerks to Parochial Boards on Civil Establishment.
+     Line 544: 
+     Line 545: J. Allwood, R. A. Williams, F. H. Hawkins, J. R. Bravo, F. B. Bowen, R. P. Collymore, H. M. Rowe, F. A. Petgrave, W. G. Nunes, R. M. Cocking, 130l. to 150l.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 7/25
+====================================================================================================
+Year: 1897
+Name: R. E. Nunes
+Role: Assistant Surveyor
+Location: Kingston
+Confidence: 0.9
+Full String: Assistant Surveyor, R. E. Nunes, 250l. to 300l.
+Source File: output_3/1897_manual_parsed/JAMAICA.md
+Line Number: 441
+Extraction Method: pattern1_role_name_salary
+
+SOURCE CONTEXT (lines 437-446):
+----------------------------------------------------------------------------------------------------
+     Line 437: 
+     Line 438: First Class Clerks, F. E. Holtz, A. W. E. Sutton, A. P. Williams, K. W. Hart, and O. C. Pearson, 350l. to 100l.
+     Line 439: 
+     Line 440: Surveyor, A. W. Hitchins, 350l. to 450l.
+ >>> Line 441: 
+     Line 442: Assistant Surveyor, R. E. Nunes, 250l. to 300l.
+     Line 443: 
+     Line 444: Senior Landing Waiters, G. A. Burke, J. M. V. Thomson, C. H. V. Hall, and J. H. B. Mais, 200l. to 300l.
+     Line 445: 
+     Line 446: Junior Landing Waiters, G. D. Garsia, G. E. R. Pearce, G. P. McGrath, G. C. Brown and A. A. McEally, 130l. to 200l.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 8/25
+====================================================================================================
+Year: 1898
+Name: Fred. Evans
+Role: Colonial Secretary
+Location: St. Andrew
+Confidence: 0.9
+Full String: Colonial Secretary, Fred. Evans, C.M.G., 1,300l.
+Source File: output_3/1898_manual_parsed/JAMAICA.md
+Line Number: 249
+Extraction Method: pattern1_role_name_salary
+
+SOURCE CONTEXT (lines 245-254):
+----------------------------------------------------------------------------------------------------
+     Line 245: Rev. C. B. Berry, St. Andrew.
+     Line 246: 
+     Line 247: Clerk of the Legislative Council, R. A. Walcott 300l.
+     Line 248: 
+ >>> Line 249: Colonial Secretary's Office.
+     Line 250: Colonial Secretary, Fred. Evans, C.M.G., 1,300l.
+     Line 251: Assistant Secretary, P. Cork, 600l. to 700l.
+     Line 252: Chief Clerk, F. S. Sanguinetti, 500l.
+     Line 253: Clerks, 1st Class, T. L. Roxburgh, J. B. Lucie Smith, and A. Cork, 300l. to 400l.
+     Line 254: Clerks, 2nd Class, J. M. Casserly, G. M. Wortley, and F. L. Pearce, 150l. to 300l.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 9/25
+====================================================================================================
+Year: 1899
+Name: J. L. Hill
+Role: Assistant Resident Magistrate
+Location: St. Thomas
+Confidence: 0.85
+Full String: St. Thomas, J. L. Hill, 350l., 100l. travelling allowance.
+Source File: output_3/1899_manual_parsed/jamaica.txt
+Line Number: 550
+Extraction Method: pattern2_location_name_salary
+
+SOURCE CONTEXT (lines 546-555):
+----------------------------------------------------------------------------------------------------
+     Line 546: 
+     Line 547: Clerks of the Courts.
+     Line 548: Kingston, H. S. Fisher, 350l. to 400l.
+     Line 549: St. Andrew's, D. Balfour, 300l. to 350l.; 80l. travelling allowance.
+ >>> Line 550: St. Catherine, H. C. Robinson, 300l. to 350l.
+     Line 551: St. Thomas, J. L. Hill, 350l., 100l. travelling allowance.
+     Line 552: Portland, Leonard Gray, 300l. to 350l.
+     Line 553: Westmoreland, C. P. Huggins, 350l.; personal, 10l.; 100l. travelling allowance.
+     Line 554: St. Elizabeth's, F. E. Cole, 300l. to 350l.; 130l. travelling allowance.
+     Line 555: Clarendon, G. B. Pilliner, 300l. to 350l.; personal 150l.; 100l. travelling allowance.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 10/25
+====================================================================================================
+Year: 1900
+Name: A. L. Harris
+Role: Cashier
+Location: Kingston
+Confidence: 0.75
+Full String: Clerks, 2nd Class, H. Priest, A. L. Harris, F. H. McDermott, J. C. Royes, and H. C. Livingston, 100l. to 250l.
+Source File: output_3/1900_manual_parsed/JAMAICA.txt
+Line Number: 347
+Extraction Method: pattern5_name_list
+
+SOURCE CONTEXT (lines 343-352):
+----------------------------------------------------------------------------------------------------
+     Line 343: 
+     Line 344: Cashier, D. P. Fonch, 200l. to 800l.
+     Line 345: 
+     Line 346: Clerks, 1st Class, E. W. Astwood, and E. F. Wilson, 200l. to 500l.
+ >>> Line 347: 
+     Line 348: Clerks, 2nd Class, H. Priest, A. L. Harris, F. H. McDermott, J. C. Royes, and H. C. Livingston, 100l. to 250l.
+     Line 349: 
+     Line 350: Clerks, 3rd Class, A. J. Durant, A. E. Shirley, and C. G. Arrowsmith, 80l. to 100l.
+     Line 351: 
+     Line 352: Government Savings Bank.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 11/25
+====================================================================================================
+Year: 1906
+Name: T. Pearson
+Role: Secretary Central Board of Health
+Location: St. Catherine
+Confidence: 0.9
+Full String: Secretary Central Board of Health, T. Pearson, 36l.
+Source File: output_3/1906_manual_parsed/JAMAICA.md
+Line Number: 608
+Extraction Method: pattern1_role_name_salary
+
+SOURCE CONTEXT (lines 604-613):
+----------------------------------------------------------------------------------------------------
+     Line 604: 
+     Line 605: Medical Storekeeper, Charles Don, 200l. to 250l.
+     Line 606: 
+     Line 607: Secretary, Quarantine Board, T. Pearson, 36l.
+ >>> Line 608: 
+     Line 609: Secretary Central Board of Health, T. Pearson, 36l.
+     Line 610: 
+     Line 611: Senior Medical Officer, Public Hospital, C. W. M. Castle, 600l.
+     Line 612: 
+     Line 613: Resident Medical Officers, J. A. Allwood, 350l. to 400l., personal allowance, 50l. per annum; G. H. K. Ross, 300l. to 400l., with quarters; and Supernumerary Surgeon, F. R. Evans, 200l. per annum, quarters at present.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 12/25
+====================================================================================================
+Year: 1917
+Name: D. N. Norman
+Role: Collector
+Location: Kingston
+Confidence: 0.75
+Full String: 1st Class Clerks, D. T. Seaton, T. R. Mould (who is also Secretary to the Marine Board, 80l.), D. N. Norman, and F. E. Holtz, 200l. to 300l.
+Source File: output_3/1917_manual_parsed/JAMAICA.md
+Line Number: 585
+Extraction Method: pattern5_name_list
+
+SOURCE CONTEXT (lines 581-590):
+----------------------------------------------------------------------------------------------------
+     Line 581: 
+     Line 582: Customs, Kingston.
+     Line 583: 
+     Line 584: Collector, Shipping Master, and Inspector of Invoices, R. E. Nunes, 550l. to 600l.
+ >>> Line 585: 
+     Line 586: 1st Class Clerks, D. T. Seaton, T. R. Mould (who is also Secretary to the Marine Board, 80l.), D. N. Norman, and F. E. Holtz, 200l. to 300l.
+     Line 587: 
+     Line 588: 2nd Class Clerks, E. T. Moore, K. V. Samuel, O. C. Pearson, and E. W. Dunn,* 100l. to 200l.
+     Line 589: 
+     Line 590: Assistants, E. Lucie-Smith,* H. R. Facey, D. E. Lofthouse, and H. W. R. Turner, 78l. to 100l.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 13/25
+====================================================================================================
+Year: 1922
+Name: R. H. Fletcher
+Role: Chief Clerk
+Location: Kingston
+Confidence: 0.9
+Full String: Chief Clerk, R. H. Fletcher, 350l. to 450l.
+Source File: output_3/1922_manual_parsed/JAMAICA.txt
+Line Number: 539
+Extraction Method: pattern1_role_name_salary
+
+SOURCE CONTEXT (lines 535-544):
+----------------------------------------------------------------------------------------------------
+     Line 535: 
+     Line 536: Post Office.
+     Line 537: 
+     Line 538: Postmaster for Jamaica, Ellis Wolfe, 750l.
+ >>> Line 539: 
+     Line 540: Chief Clerk, R. H. Fletcher, 350l. to 450l.
+     Line 541: 
+     Line 542: Travelling Supervisor and Electrical Inspector, G. A. Rock, 550l.
+     Line 543: 
+     Line 544: Accountant, S. W. Royes, 350l.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 14/25
+====================================================================================================
+Year: 1924
+Name: E. N. Richards
+Role: Assistant to Deputy Island Chemist
+Location: Kingston
+Confidence: 0.9
+Full String: Assistant to Deputy Island Chemist, E. N. Richards, 275l. to 350l.
+Source File: output_3/1924_manual_parsed/JAMAICA.md
+Line Number: 460
+Extraction Method: pattern1_role_name_salary
+
+SOURCE CONTEXT (lines 456-465):
+----------------------------------------------------------------------------------------------------
+     Line 456: 
+     Line 457: Entomologist, C. C. Gowdery, B.Sc., 500l. to 750l., with travelling expenses.
+     Line 458: 
+     Line 459: Deputy Island Chemist, W. L. Barnett, B.A., B.Sc., 550l. to 750l.
+ >>> Line 460: 
+     Line 461: Assistant to Deputy Island Chemist, E. N. Richards, 275l. to 350l.
+     Line 462: 
+     Line 463: Assistant to Microbiologist, F. A. L. Dick, 100l. to 160l.
+     Line 464: 
+     Line 465: Technical Assistant, E. K. P. Blake, 100l. to 160l.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 15/25
+====================================================================================================
+Year: 1925
+Name: C. C. Kelly
+Role: Senior First Class Clerk
+Location: Kingston
+Confidence: 0.9
+Full String: Senior First Class Clerk, C. C. Kelly, 350l. to 450l.
+Source File: output_3/1925_manual_parsed/JAMAICA.txt
+Line Number: 434
+Extraction Method: pattern1_role_name_salary
+
+SOURCE CONTEXT (lines 430-439):
+----------------------------------------------------------------------------------------------------
+     Line 430: Superintendent of Museum, Miss H. A. Wood, 195l.
+     Line 431: 
+     Line 432: Audit Office.
+     Line 433: Auditor-General, C. G. H. Davis, 800l. to 1,000l.
+ >>> Line 434: Deputy Auditor-General, J. L. Pieteras, 500l. to 600l.
+     Line 435: Senior First Class Clerk, C. C. Kelly, 350l. to 450l.
+     Line 436: First Class Clerks, J. M. Burke, G. V. Livingston, B. P. Burrowes (1 vacant), 300l. to 400l.
+     Line 437: Second Class Clerks, O. A. Burrowes, R. C. Henriques, O. R. Nunes, L. R. Francis, Miss J. A. Leake, H. M. Littlejohn, 160l. to 275l.
+     Line 438: Assistants, Miss O. A. Hollar, V. A. Wilson, Miss I. Ware, Miss M. Facey, D. J. Cruchley, 100l. to 160l.
+     Line 439: Typist and Stenographer, Miss I. J. Benjamin, 78l. to 156l.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 16/25
+====================================================================================================
+Year: 1928
+Name: E. A. Hewett
+Role: Chief Clerk
+Location: Kingston
+Confidence: 0.75
+Full String: 2nd Class Clerks, M. V. Hearne, A. D. Soutar, L. M. Kirkpatrick, E. A. Hewett 160l. to 275l.
+Source File: output_3/1928_manual_parsed/JAMAICA.txt
+Line Number: 826
+Extraction Method: pattern5_name_list
+
+SOURCE CONTEXT (lines 822-831):
+----------------------------------------------------------------------------------------------------
+     Line 822: Assistant Inspectors of Schools, A. Chambers, K. N. Phillips, E. A. Tomlinson, R. H. Kerr, G. M. Bygrave, C. H. Williams, J. J. Simpson, M. A. Graham, A. L. Neito, 200l. to 300l.
+     Line 823: 
+     Line 824: * Referee of Titles.
+     Line 825: Chief Clerk, W. A. Logan, 400l. to 500l.
+ >>> Line 826: 1st Class Clerk, B. T. Josephs, 300l. to 400l.
+     Line 827: 2nd Class Clerks, M. V. Hearne, A. D. Soutar, L. M. Kirkpatrick, E. A. Hewett 160l. to 275l.
+     Line 828: Assistants, A. L. Noad, N. A. Hussey, 100l. to 160l.
+     Line 829: 
+     Line 830: Board of Education.
+     Line 831: Director of Education, Chairman ex-officio.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 17/25
+====================================================================================================
+Year: 1931
+Name: W. B. Clark
+Role: Chief Clerk
+Location: St. Mary
+Confidence: 0.75
+Full String: 2nd Class Clerks, Emily J. Vine, V. E. Johns, R. K. Stimpson, W. B. Clark, G. W. Facey, E. H. Evans, I. R. M. Cooke and G. L. Miles, 180l. to 300l.
+Source File: output_3/1931_manual_parsed/JAMAICA.txt
+Line Number: 492
+Extraction Method: pattern5_name_list
+
+SOURCE CONTEXT (lines 488-497):
+----------------------------------------------------------------------------------------------------
+     Line 488: Revenue Department.
+     Line 489: Collector-General, A. E. V. Barton, 1,000l.*
+     Line 490: Supervisor, E. S. Murray, 600l. to 750l.
+     Line 491: Chief Clerk, J. W. Gayner, 475l. to 550l. (Sec. Marine Board, 120l.).
+ >>> Line 492: 1st Class Clerks, H. C. Stedman, G. A. Robinson, S. A. Chambers, F. C. Lofthouse and W. L. Crawford, 325l. to 450l.
+     Line 493: 2nd Class Clerks, Emily J. Vine, V. E. Johns, R. K. Stimpson, W. B. Clark, G. W. Facey, E. H. Evans, I. R. M. Cooke and G. L. Miles, 180l. to 300l.
+     Line 494: 1st Class Collectors of Revenue, A. P. Williams, D. N. Norman, W. C. Gauntlett, L. G. Carvalho, J. M. Fonseca and G. L. Facey, 600l. to 800l.
+     Line 495: Excise Officer, Rum Warehouse, Kingston, E. T. Reid, 500l. to 600l.
+     Line 496: Assist. Excise Officer, Rum Warehouse, S. M. Pireesh, 325l. to 450l.
+     Line 497: 2nd Class Collectors of Revenue, W. deW. Logan, C. M. Arscott, D. G. Archer, J. C. White, T. E. Foy, D. T. Seaton, C. H. Dickson and J. McN. Smith, 475l. to 500l.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 18/25
+====================================================================================================
+Year: 1933
+Name: G. S. Cox
+Role: Chief Clerk
+Location: Manchester
+Confidence: 0.9
+Full String: Chief Clerk, G. S. Cox, 475l. to 550l. by 25l.
+Source File: output_3/1933_manual_parsed/JAMAICA.txt
+Line Number: 344
+Extraction Method: pattern1_role_name_salary
+
+SOURCE CONTEXT (lines 340-349):
+----------------------------------------------------------------------------------------------------
+     Line 340: Junior Superintendents' Clerks and Cashiers, A. A. Mills, E. J. Harding, E. T. Wright, H. E. Walcott, C. A. Wilson, C. Williams, 200l. to 260l. by 25l.
+     Line 341: Superintendent Public Works Stores, L. B. Bicknell, 500l. to 650l. by 50l.
+     Line 342: Superintendent, Machinery, A. Scarff, 500l. to 600l. by 25l.
+     Line 343: Chief Draughtsman, H. M. Pratt, 400l. to 550l. by 25l., and Assistant Draughtsmen, W. Y. Feurtado, R. C. Sullivan, 350l. to 450l. by 25l.
+ >>> Line 344: Accountant, B. P. Burrowes (Acting) 500l. to 600l. by 25l.
+     Line 345: Chief Clerk, G. S. Cox, 475l. to 550l. by 25l.
+     Line 346: Financial Clerk, H. E. A. Romney, 400l. to 600l. by 25l.
+     Line 347: 1st Class Clerks, H. W. H. Hylton, H. E. Mendes and E. A. Morris, 325l. to 450l. by 25l.
+     Line 348: 2nd Class ditto, D. C. Mais, W. O. Duval and D. P. Lacy, 190l. to 300l. by 20l.
+     Line 349: 
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 19/25
+====================================================================================================
+Year: 1934
+Name: L. B. Bicknell
+Role: Superintendent Public Works Stores
+Location: Manchester
+Confidence: 0.9
+Full String: Superintendent Public Works Stores, L. B. Bicknell, 500l. to 650l. by 50l.
+Source File: output_3/1934_manual_parsed/JAMAICA.txt
+Line Number: 497
+Extraction Method: pattern1_role_name_salary
+
+SOURCE CONTEXT (lines 493-502):
+----------------------------------------------------------------------------------------------------
+     Line 493: 2nd Class Superintendents, H. F. S. Hoyes, A. R. Magnus, A. R. Suarez, H. S. Brownlow, E. V. Williams, G. Cox, M. B. J. Mordecai, 400l. to 500l. by 25l.
+     Line 494: 3rd Class Superintendents, L. C. Stedman, J. T. Paisley, M. B. Felts, L. H. Feurtado, K. O. Streadwick, A. M. Alberga (4 vacant), 300l. to 375l. by 25l.
+     Line 495: Assistant Superintendents, B. M. Alexander, H. A. Plant, B. S. Duncombe, R. J. Feurtado, W. V. Royce, G. M. Bicknell, (9 vacant), 200l. to 275l. by 25l.
+     Line 496: Senior Superintendents' Clerks and Cashiers, A. F. Reid, H. B. Goodin, C. H. Martells, P. E. Sutherland, L. A. Curtis, S. P. Moscop, R. E. Mair, S. O. Milbourn, E. D. McDonald, L. A. Phillips, C. L. Stanley, E. W. Brodhurst, 275l. to 300l. by 25l.
+ >>> Line 497: Junior Superintendents' Clerks and Cashiers, A. A. Mills, E. J. Harding, E. T. Wright, H. E. Walcott, C. A. Wilson, C. Williams, 200l. to 250l. by 25l.
+     Line 498: Superintendent Public Works Stores, L. B. Bicknell, 500l. to 650l. by 50l.
+     Line 499: Superintendent, Machinery, A. Scarfi, 500l. to 600l. by 25l.
+     Line 500: Chief Draughtsman, H. M. Pratt, 400l. to 550l. by 25l., and Assistant Draughtmen, W. Y. Feurtado, R. C. Sullivan, 360l. to 450l. by 25l.
+     Line 501: Accountant, R. P. Burrowes, 500l. to 600l. by 25l.
+     Line 502: Chief Clerk, G. S. Cox, 475l. to 550l. by 25l.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 20/25
+====================================================================================================
+Year: 1939
+Name: District Postmasters and Assistants
+Role: Postal and Telegraph Clerks
+Location: Westmoreland
+Confidence: 0.9
+Full String: Postal and Telegraph Clerks, District Postmasters and Assistants, 449 = 35,276l.
+Source File: output_3/1939_manual_parsed/JAMAICA.txt
+Line Number: 630
+Extraction Method: pattern1_role_name_salary
+
+SOURCE CONTEXT (lines 626-635):
+----------------------------------------------------------------------------------------------------
+     Line 626: Superintendent of Telegraphs and Electrical Inspector T. J. Guilfoyle, 550l. to 750l.
+     Line 627: Wireless Inspector, T. J. Guilfoyle, 100l. (non-pensionable).
+     Line 628: Assistant Superintendent of Telegraphs and a Government Electrical Inspector, S. P. Bather, 475l. to 550l.
+     Line 629: 1st Class Clerks, J. F. Hearne, G. White, M. V. Hearne, E. J. Andrews and E. M. Morales, 325l. to 450l.
+ >>> Line 630: 2nd Class ditto, I. Gauntlett, R. E. Weston, E. Seivright, A. V. Nash, C. Grannum, H. A. Fairweather, D. G. Priestley, R. E. Mais, I. F. Escoffery, 180l. to 300l.
+     Line 631: Postal and Telegraph Clerks, District Postmasters and Assistants, 449 = 35,276l.
+     Line 632: 
+     Line 633: Revenue Department.
+     Line 634: Collector-General, Capt. M. H. Hawkee, 1,000l.
+     Line 635: Supervisor, J. W. Gayner, 800l. to 750l.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 21/25
+====================================================================================================
+Year: 1940
+Name: A. F. Reid
+Role: Senior Superintendents' Clerks and Cashiers
+Location: Kingston
+Confidence: 0.9
+Full String: Senior Superintendents' Clerks and Cashiers, A. F. Reid, H. B. Goodin, C. H. Martella, P. E. Sutherland, L. A. Curtis, S. P. Mossop, R. E. Mair, S. O. Milburn, E. D. McDonald, L. A. Phillips, C. L. Stanley, A. L. Macfarlane, 300l. to 375l. by 25l.
+Source File: output_3/1940_manual_parsed/JAMAICA.txt
+Line Number: 544
+Extraction Method: pattern1_role_name_salary
+
+SOURCE CONTEXT (lines 540-549):
+----------------------------------------------------------------------------------------------------
+     Line 540: 
+     Line 541: 3rd Class Superintendents, H. A. Plant, B. S. Duncombe, R. J. Feurtado, G. M. Bicknell, B. C. Sylvester, H. C. Murray, A.M.I.C.E., E. de C. Penso, A.M.I.C.E., O. C. Plant, H. C. Quinn, H. E. Wortley, 300l. to 375l. by 25l.
+     Line 542: 
+     Line 543: Assistant Superintendents, C. L. Blair, D. L. Paisley, R. M. Royes, R. I. Walker, B. M. Alexander, B.Sc. (Nv.), J. W. Smith, F. C. Smith, A. G. M. Hall, A. B. Walcott, 200l. to 275l. by 25l.
+ >>> Line 544: 
+     Line 545: Senior Superintendents' Clerks and Cashiers, A. F. Reid, H. B. Goodin, C. H. Martella, P. E. Sutherland, L. A. Curtis, S. P. Mossop, R. E. Mair, S. O. Milburn, E. D. McDonald, L. A. Phillips, C. L. Stanley, A. L. Macfarlane, 300l. to 375l. by 25l.
+     Line 546: 
+     Line 547: Junior Superintendents' Clerks and Cashiers, A. A. Mills, E. T. Wright, H. E. Walcott, C. A. Wilson, C. Williams, A. I. McFarlane, L. O. Gardner, R. W. Black, 200l. to 275l. by 25l.
+     Line 548: 
+     Line 549: Superintendent Public Works Stores, G. H. E. Lyons, 500l. to 650l. by 50l.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 22/25
+====================================================================================================
+Year: 1950
+Name: E. P. D. Greaves
+Role: Deputy Commissioner of Lands—D. C. Mais
+Location: Kingston
+Confidence: 0.75
+Full String: Senior Assistant Superintendents of Police—W. H. L. Pink; F. A. Depass; J. G. Lindop; D. V. Noot; C. A. Mahon; D. A. L. Chase; J. U. Beckett; E. P. D. Greaves. £625.
+Source File: output_3/1950_manual_parsed/jamaica.txt
+Line Number: 755
+Extraction Method: pattern5_name_list
+
+SOURCE CONTEXT (lines 751-760):
+----------------------------------------------------------------------------------------------------
+     Line 751: 
+     Line 752: POLICE
+     Line 753: Commissioner of Police—W. A. Calver. £1,300.
+     Line 754: Deputy Commissioner of Police—C. A. Smith. £950.
+ >>> Line 755: Superintendents of Police—A. B. Harper; F. N. Miles; L. P. R. Browning; J. Murphy; S. V. Higgins; L. O'Donoghue; N. A. Crosswell; J. L. Monro. £700.
+     Line 756: Senior Assistant Superintendents of Police—W. H. L. Pink; F. A. Depass; J. G. Lindop; D. V. Noot; C. A. Mahon; D. A. L. Chase; J. U. Beckett; E. P. D. Greaves. £625.
+     Line 757: 
+     Line 758: Assistant Superintendents of Police—J. Kealey; C. V. Pennycooke; C. S. Panton; W. S. Ashley; H. M. Wellington; J. R. Middleton; P. H. Miller; F. S. Langford; L. A. H. Lack; S. S. J. Da Costa; J. E. Marrett; N. S. Houston; A. E. Northrop; J. P. Blatt. £425–25–525.
+     Line 759: 
+     Line 760: Post and Telegraphs
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 23/25
+====================================================================================================
+Year: 1952
+Name: Postmaster and Collector of Customs
+Role: District Commissioner
+Location: Kingston
+Confidence: 0.9
+Full String: District Commissioner, Postmaster and Collector of Customs, Lesser Islands—A. S. Rutty, M.B.E. £525 × 50–625. Also Receiver of Wrecks—fees.
+Source File: output_3/1952_manual_parsed/JAMAICA.md
+Line Number: 383
+Extraction Method: pattern1_role_name_salary
+
+SOURCE CONTEXT (lines 379-388):
+----------------------------------------------------------------------------------------------------
+     Line 379: 
+     Line 380: COMMISSIONER AND JUDGE—Vacant. £1,000; duty allowance, £100; special (non-pensionable) allowance, £50; car allowance, £75. Also Registrar-General—fees. Furnished quarters rated for pension purposes at £80 per annum.
+     Line 381: 
+     Line 382: Assistant Commissioner, Postmaster and Collector of Customs, Grand Cayman—A. C. Panton, M.B.E. £650 × 50–750. Also Registrar of Shipping and Receiver of Wrecks—fees.
+ >>> Line 383: 
+     Line 384: District Commissioner, Postmaster and Collector of Customs, Lesser Islands—A. S. Rutty, M.B.E. £525 × 50–625. Also Receiver of Wrecks—fees.
+     Line 385: 
+     Line 386: Government Medical Officer—B. St. J. Hylton. £500 × 25–600. Allowance in lieu of private practice, £300. Free partly furnished quarters.
+     Line 387: 
+     Line 388: Inspector of Police—J. R. Watler. £350 × 25–500.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 24/25
+====================================================================================================
+Year: 1955
+Name: A. R. Cools-Lartigue
+Role: Manager
+Location: Kingston
+Confidence: 0.85
+Full String: Puisne Judges—A. B. Rennie; A. R. Cools-Lartigue, Q.C.; D. H. Semper.
+Source File: output_3/1955_manual_parsed/JAMAICA.txt
+Line Number: 418
+Extraction Method: pattern4_semicolon_list
+
+SOURCE CONTEXT (lines 414-423):
+----------------------------------------------------------------------------------------------------
+     Line 414: Manager, Central Housing Authority—(Vacant).
+     Line 415: Commissioner of Income Tax and Stamp Duties—G. E. Grosett.
+     Line 416: Deputy Commissioner of Income Tax and Stamp Duties—E. L. Munroe.
+     Line 417: Attorney-General—J. L. Cundall, Q.C.
+ >>> Line 418: Senior Puisne Judge—C. M. McGregor.
+     Line 419: Puisne Judges—A. B. Rennie; A. R. Cools-Lartigue, Q.C.; D. H. Semper.
+     Line 420: Solicitor-General—(Vacant).
+     Line 421: Registrar, Supreme Court—M. A. M. Burke.
+     Line 422: Crown Solicitor—S. T. B. Sanguinetti.
+     Line 423: Deputy Labour Adviser—C. Greaves-Hill.
+----------------------------------------------------------------------------------------------------
+
+====================================================================================================
+RECORD 25/25
+====================================================================================================
+Year: 1956
+Name: J. M. Lloyd
+Role: Permanent Secretaries—H. McD. White; E. A. Maynier
+Location: Jamaica
+Confidence: 0.75
+Full String: Principal Assistant Secretaries—V. C. Smith; G. A. Brown; E. N. Bird; J. H. Clerk; A. E. McNair; B. W. Lynch; P. W. Beckwith; J. M. Lloyd.
+Source File: output_3/1956_manual_parsed/JAMAICA.txt
+Line Number: 364
+Extraction Method: pattern5_name_list
+
+SOURCE CONTEXT (lines 360-369):
+----------------------------------------------------------------------------------------------------
+     Line 360: Chief Establishment Officer—C. L. Swaby, M.B.E.
+     Line 361: Establishment Officers—R. E. Mais; A. B. Smith.
+     Line 362: Permanent Secretaries—H. McD. White; E. A. Maynier, O.B.E.; F. E. Degazon; V. H. McFarlane; A. D. Soutar, M.B.E.; A. R. Abrahams.
+     Line 363: Permanent Secretary and Labour Adviser—C. Greaves Hill.
+ >>> Line 364: Permanent Secretary and Director of Education—(Vacant).
+     Line 365: Principal Assistant Secretaries—V. C. Smith; G. A. Brown; E. N. Bird; J. H. Clerk; A. E. McNair; B. W. Lynch; P. W. Beckwith; J. M. Lloyd.
+     Line 366: Administrator-General—H. F. Barry (also Protector of Immigrants and Custodian of Enemy Property).
+     Line 367: Deputy Administrator-General—E. C. Tomlinson.
+     Line 368: Accountant-General—N. F. de B. Holtz.
+     Line 369: Deputy Accountant-General—O. D. Sanguinetti.
+----------------------------------------------------------------------------------------------------
+
+
+====================================================================================================
+VERIFICATION COMPLETE
+====================================================================================================
+Total samples: 25
+Results saved to: /home/user/colonial_office_list/verification_results.json

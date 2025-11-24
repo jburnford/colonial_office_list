@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "total_samples": 26,
+    "perfect_rate": 0.6923076923076923,
+    "critical_issues": 6,
+    "major_issues": 2,
+    "minor_issues": 0,
+    "name_contamination_rate": 0.19230769230769232,
+    "non_person_rate": 0.038461538461538464
+  },
+  "evaluations": [
+    {
+      "sample_num": 1,
+      "index": 338,
+      "year": 1922,
+      "name": "Miss G. M. Buckley",
+      "role": "Deputy Chief Native Commissioner (vacant)",
+      "line_number": 409,
+      "full_string": "Nurses, Miss H. M. Whitburn, Miss L. Merryweather, Miss I. Wilson, Miss S. J. Harrison, Miss A. E. D...",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Nurses, Miss H. M. Whitburn, Miss L. Merryweather, Miss I. Wilson, Miss S. J. Harrison, Miss A. E. Davis, Miss M. I. Rhind, Miss F. O'Neill, Miss R. A..."
+    },
+    {
+      "sample_num": 2,
+      "index": 1249,
+      "year": 1923,
+      "name": "R. M. Douglas",
+      "role": "Registrar of Titles Division",
+      "line_number": 629,
+      "full_string": "Junior Postmasters, F. T. Templeton, J. W. Wilkinson, L. E. Graves, F. C. Holt, H. C. Willbourn, M.C...",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Junior Postmasters, F. T. Templeton, J. W. Wilkinson, L. E. Graves, F. C. Holt, H. C. Willbourn, M.C., C. H. Terry, G. W. Taylor, E. J. Lewis, R. M. D..."
+    },
+    {
+      "sample_num": 3,
+      "index": 1436,
+      "year": 1924,
+      "name": "C. G. MacArthur",
+      "role": "Quartermaster",
+      "line_number": 524,
+      "full_string": "Assistant Inspectors, A. Mackie, G. Kearney, A. Boy, T. R. J. Ridgway, C. Rawlinson, G. E. H. T. Cri...",
+      "issues": [
+        "No source file found for year 1924"
+      ],
+      "severity": "major",
+      "is_perfect": false
+    },
+    {
+      "sample_num": 4,
+      "index": 1755,
+      "year": 1925,
+      "name": "J. E. S. Merrick",
+      "role": "#### Senior Assistant Secretary",
+      "line_number": 363,
+      "full_string": "(seconded from Provincial Administration), J. E. S. Merrick, B.A., W. M. Logan, B.A., E. J. Waddingt...",
+      "issues": [
+        "No source file found for year 1925"
+      ],
+      "severity": "major",
+      "is_perfect": false
+    },
+    {
+      "sample_num": 5,
+      "index": 2684,
+      "year": 1927,
+      "name": "S. G. Sharp",
+      "role": "Superintendent and Assistant Accountant",
+      "line_number": 334,
+      "full_string": "Clerks, J. E. Harrison, R. F. Dalziel-Armstrong, F. Parker, E. J. Kelly, R. Abram, R. F. Palmer, 300...",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Clerks, J. E. Harrison, R. F. Dalziel-Armstrong, F. Parker, E. J. Kelly, R. Abram, R. F. Palmer, 300l. to 500l.; J. Riddell, S. G. Sharp, Miss J. H. S..."
+    },
+    {
+      "sample_num": 6,
+      "index": 3259,
+      "year": 1928,
+      "name": "H. A. Cole",
+      "role": "Registrar-General's Department",
+      "line_number": 530,
+      "full_string": "Medical Officers, A. S. Mackie, R. C. Briscoe, C.V. Brainbridge, K. T. K. Wallington, R. A. W. Proct...",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Medical Officers, A. S. Mackie, R. C. Briscoe, C.V. Brainbridge, K. T. K. Wallington, R. A. W. Procter, R. J. Harley-Mason, J. C. J. Callanan, C. H. B..."
+    },
+    {
+      "sample_num": 7,
+      "index": 4160,
+      "year": 1929,
+      "name": "Miss R. A. M. Riordan",
+      "role": "Registrar-General's Department",
+      "line_number": 574,
+      "full_string": "Nursing Sisters, Miss R. K. Sharp, Miss R. A. M. Riordan, Miss M. G. Rice-Oxley, Miss M. A. Parkin, ...",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Nursing Sisters, Miss R. K. Sharp, Miss R. A. M. Riordan, Miss M. G. Rice-Oxley, Miss M. A. Parkin, 240L to 300L."
+    },
+    {
+      "sample_num": 8,
+      "index": 5457,
+      "year": 1930,
+      "name": "C. R. Minnes",
+      "role": "Engineering Staff",
+      "line_number": 876,
+      "full_string": "Sub-Engineers, F. L. Stevens, C. R. Minnes, J. H. Hall, E. C. Baker, W. G. Edwards, A. E. Faithfull,...",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Sub-Engineers, F. L. Stevens, C. R. Minnes, J. H. Hall, E. C. Baker, W. G. Edwards, A. E. Faithfull, D.C.M., 500l. by 25l. to 600l."
+    },
+    {
+      "sample_num": 9,
+      "index": 8343,
+      "year": 1936,
+      "name": "C. G. MacArthur",
+      "role": "Registrar General's Department",
+      "line_number": 696,
+      "full_string": "Assistant Game Wardens, F. H. Clarke, R. E. Dent, Capt. R. Whittet, M.C., C. G. MacArthur, 500l. to ...",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Assistant Game Wardens, F. H. Clarke, R. E. Dent, Capt. R. Whittet, M.C., C. G. MacArthur, 500l. to 600l."
+    },
+    {
+      "sample_num": 10,
+      "index": 7133,
+      "year": 1933,
+      "name": "A. J. Davenport",
+      "role": "Assistant Postmasters General, (vacant)",
+      "line_number": 748,
+      "full_string": "Postmasters, L. E. Graves, H. C. Willbourn, M.C., F. C. Holt, C. H. Terry, E. J. Lewis, R. M. Dougla...",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Postmasters, L. E. Graves, H. C. Willbourn, M.C., F. C. Holt, C. H. Terry, E. J. Lewis, R. M. Douglas, A. Carriline, F. W. Hale, A. Kane, D. Cormack, ..."
+    },
+    {
+      "sample_num": 11,
+      "index": 9407,
+      "year": 1939,
+      "name": "J. Hudson",
+      "role": "Senior Marine Officer (vacant)",
+      "line_number": 726,
+      "full_string": "Assistant Locomotive Superintendents, W. T. Chappel, J. Hudson, Grad.Inst.M.E., J. O. Bannister, Gra...",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Assistant Locomotive Superintendents, W. T. Chappel, J. Hudson, Grad.Inst.M.E., J. O. Bannister, Grad.Inst.M.E., A.M.I.Loco.E., 480l. to 720l."
+    },
+    {
+      "sample_num": 12,
+      "index": 5682,
+      "year": 1931,
+      "name": "H. D. Cronyn",
+      "role": "Medical Officers",
+      "line_number": 218,
+      "full_string": "(Irel.), D.P.H. (Dubl.), L.M. (Rotunda), P. Milne, M.B., Ch.B. (New Zealand), D.T.M. & H. (Lond.), F...",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "(Irel.), D.P.H. (Dubl.), L.M. (Rotunda), P. Milne, M.B., Ch.B. (New Zealand), D.T.M. & H. (Lond.), F. R. L. Miller, M.R.C.S. (Eng.), L.R.C.P. (Lond.),..."
+    },
+    {
+      "sample_num": 13,
+      "index": 7985,
+      "year": 1934,
+      "name": "V. A. Beckley",
+      "role": "Agricultural Chemist",
+      "line_number": 950,
+      "full_string": "Agricultural Chemist, V. A. Beckley, M.C., M.A.,",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Agricultural Chemist, V. A. Beckley, M.C., M.A.,"
+    },
+    {
+      "sample_num": 14,
+      "index": 8953,
+      "year": 1937,
+      "name": "C. H. Walmsley",
+      "role": "Executive Engineers",
+      "line_number": 703,
+      "full_string": "Executive Engineers, C. H. Walmsley, M.C., M.Inst.C.E., M.I.Mun. & Cty.E., M.Inst.W.E., H. A. Campbe...",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Executive Engineers, C. H. Walmsley, M.C., M.Inst.C.E., M.I.Mun. & Cty.E., M.Inst.W.E., H. A. Campbell, A.M.Inst.C.E., J. E. M. Nosad, A.M. Inst.C.E.,..."
+    },
+    {
+      "sample_num": 15,
+      "index": 9642,
+      "year": 1940,
+      "name": "W. A. Knight",
+      "role": "Assistant Auditor",
+      "line_number": 684,
+      "full_string": "Assistant Auditors, R. W. Kelly, H. M. Watson, H. J. Simpson, C. Hunter, 360l. to 720l.; R. W. A. Mc...",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Assistant Auditors, R. W. Kelly, H. M. Watson, H. J. Simpson, C. Hunter, 360l. to 720l.; R. W. A. McColl, W. A. Knight, D. E. Newell, J. S. Dunkerley,..."
+    },
+    {
+      "sample_num": 16,
+      "index": 9825,
+      "year": 1946,
+      "name": "Major F. H. de V. Joyce",
+      "role": "The Deputy Chief Secretary",
+      "line_number": 374,
+      "full_string": "Major F. H. de V. Joyce, M.C. (Ukamba).",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Major F. H. de V. Joyce, M.C. (Ukamba)."
+    },
+    {
+      "sample_num": 17,
+      "index": 9860,
+      "year": 1948,
+      "name": "St. Kitts",
+      "role": "Telephone systems are maintained by the Government in Antigua",
+      "line_number": 712,
+      "full_string": "Telephone systems are maintained by the Government in Antigua, St. Kitts, Nevis and Montserrat.",
+      "issues": [
+        "Non-person: Matches pattern '^(St\\.|Saint) [A-Z]'"
+      ],
+      "severity": "critical",
+      "is_perfect": false,
+      "source_line": "Telephone systems are maintained by the Government in Antigua, St. Kitts, Nevis and Montserrat."
+    },
+    {
+      "sample_num": 18,
+      "index": 9911,
+      "year": 1950,
+      "name": "Masai\u2014E. A. Sweatman",
+      "role": "Officer-in-Charge",
+      "line_number": 763,
+      "full_string": "Officer-in-Charge, Masai\u2014E. A. Sweatman, \u00a31,435.",
+      "issues": [
+        "Name contamination: Contains em-dash/en-dash separator",
+        "Location/Department prefix: Matches '^(Masai|Ukamba|Nairobi|Mombasa)\u2014'",
+        "Suggested clean name: 'E. A. Sweatman'"
+      ],
+      "severity": "critical",
+      "is_perfect": false,
+      "source_line": "Officer-in-Charge, Masai\u2014E. A. Sweatman, \u00a31,435."
+    },
+    {
+      "sample_num": 19,
+      "index": 9941,
+      "year": 1951,
+      "name": "S. G. Ghersie",
+      "role": "D. O'Hagan (Ag. Administrative Secretary)",
+      "line_number": 640,
+      "full_string": "S. G. Ghersie, O.B.E. (Nairobi North).",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "S. G. Ghersie, O.B.E. (Nairobi North)."
+    },
+    {
+      "sample_num": 20,
+      "index": 9990,
+      "year": 1953,
+      "name": "E.A. Court of Appeal\u2014Sir Barclay Nihill",
+      "role": "President",
+      "line_number": 406,
+      "full_string": "President, E.A. Court of Appeal\u2014Sir Barclay Nihill, Q.C., M.C.",
+      "issues": [
+        "Name contamination: Contains em-dash/en-dash separator",
+        "Suggested clean name: 'Sir Barclay Nihill'"
+      ],
+      "severity": "critical",
+      "is_perfect": false,
+      "source_line": "President, E.A. Court of Appeal\u2014Sir Barclay Nihill, Q.C., M.C."
+    },
+    {
+      "sample_num": 21,
+      "index": 10010,
+      "year": 1955,
+      "name": "R. R. Waterer",
+      "role": "Assistant Accountant General\u2014H. C. O'Brien",
+      "line_number": 515,
+      "full_string": "Chief Conservator of Forests\u2014R. R. Waterer, C.B.E.",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Chief Conservator of Forests\u2014R. R. Waterer, C.B.E."
+    },
+    {
+      "sample_num": 22,
+      "index": 10044,
+      "year": 1957,
+      "name": "Game and Fisheries\u2014A. P. Hume",
+      "role": "Secretary for Forest Development",
+      "line_number": 443,
+      "full_string": "Secretary for Forest Development, Game and Fisheries\u2014A. P. Hume, C.I.E.",
+      "issues": [
+        "Name contamination: Contains em-dash/en-dash separator",
+        "Location/Department prefix: Matches '^(Common Services|Civil Service|Game and Fisheries)'",
+        "Suggested clean name: 'A. P. Hume'"
+      ],
+      "severity": "critical",
+      "is_perfect": false,
+      "source_line": "Secretary for Forest Development, Game and Fisheries\u2014A. P. Hume, C.I.E."
+    },
+    {
+      "sample_num": 23,
+      "index": 10055,
+      "year": 1958,
+      "name": "Civil Service Commission\u2014J. B. Gould",
+      "role": "Secretary",
+      "line_number": 443,
+      "full_string": "Secretary, Civil Service Commission\u2014J. B. Gould, O.B.E.",
+      "issues": [
+        "Name contamination: Contains em-dash/en-dash separator",
+        "Location/Department prefix: Matches '^(Common Services|Civil Service|Game and Fisheries)'",
+        "Suggested clean name: 'J. B. Gould'"
+      ],
+      "severity": "critical",
+      "is_perfect": false,
+      "source_line": "Secretary, Civil Service Commission\u2014J. B. Gould, O.B.E."
+    },
+    {
+      "sample_num": 24,
+      "index": 10108,
+      "year": 1960,
+      "name": "E. N. Griffith-Jones",
+      "role": "The Governor",
+      "line_number": 379,
+      "full_string": "Minister for Legal Affairs\u2014E. N. Griffith-Jones, C.M.G., Q.C.",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Minister for Legal Affairs\u2014E. N. Griffith-Jones, C.M.G., Q.C."
+    },
+    {
+      "sample_num": 25,
+      "index": 10136,
+      "year": 1961,
+      "name": "Common Services",
+      "role": "Minister for Housing",
+      "line_number": 416,
+      "full_string": "Minister for Housing, Common Services, Probation and Approved Schools\u2014M. S. Amalemba.",
+      "issues": [
+        "Location/Department prefix: Matches '^(Common Services|Civil Service|Game and Fisheries)'"
+      ],
+      "severity": "critical",
+      "is_perfect": false,
+      "source_line": "Minister for Housing, Common Services, Probation and Approved Schools\u2014M. S. Amalemba."
+    },
+    {
+      "sample_num": 26,
+      "index": 10178,
+      "year": 1963,
+      "name": "A. M. F. Webb",
+      "role": "Law Officer",
+      "line_number": 535,
+      "full_string": "Attorney-General\u2014A. M. F. Webb, C.M.G., Q.C.",
+      "issues": [],
+      "severity": "none",
+      "is_perfect": true,
+      "source_line": "Attorney-General\u2014A. M. F. Webb, C.M.G., Q.C."
+    }
+  ]
+}

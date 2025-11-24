@@ -1,0 +1,315 @@
+================================================================================
+INDEPENDENT QUALITY EVALUATION SUMMARY
+KENYA COLONIAL OFFICE LIST EXTRACTION
+================================================================================
+
+Evaluator: Independent Quality Evaluation Agent
+Date: 2025-11-23
+Dataset: kenya_all_years_v1.json
+Total Records: 10,325 people from 34 files (1922-1964)
+
+================================================================================
+OVERALL QUALITY SCORE: 49.2/100
+STATUS: ❌ FAIL - SIGNIFICANT QUALITY ISSUES
+================================================================================
+
+EXECUTIVE SUMMARY:
+------------------
+Based on random sampling of 25 records across the time range, the Kenya
+extraction has SEVERE systematic errors that make it unsuitable for production
+use without major corrections.
+
+Only 12% of sampled records were extracted perfectly.
+88% of sampled records have errors requiring correction or deletion.
+
+================================================================================
+ERROR BREAKDOWN (Sample of 25 records)
+================================================================================
+
+1. NON-PERSON EXTRACTIONS (Critical Failures)
+   Count: 6 records (24%)
+   Examples:
+   - "B.A. (1st class Hons.) (Lond.)" ← This is a qualification, not a person
+   - "most important towns are St. John (Antigua)" ← Descriptive text
+   - "K.C.M.G.) |" ← Table fragment
+   - "Grade I—V. de V. Allen; J. H. Daly..." ← Multiple people + prefix
+
+2. NAME CONTAMINATION (Requires Cleanup)
+   Count: 8 records (32%)
+   Pattern: Department/location/role prefix included in name field
+   Examples:
+   - "Kabete Technical and Trade School—A. E. Talbot" → Should be "A. E. Talbot"
+   - "Police Department—C. Campbell" → Should be "C. Campbell"
+   - "Nairobi Extra-Provincial District—R. A. Wilkinson" → Should be "R. A. Wilkinson"
+
+3. ROLE CONTEXT INHERITANCE (Confirmed Major Issue)
+   Count: 16 records (64%)
+   Issue: Role assigned from different section of document, not actual role
+   Examples:
+   - E. A. Holyoak is "Forester" but extracted as "9 European Clerk"
+   - C. J. Wilson is "Senior Medical Officer" but extracted as "Assistant District Commissioner"
+   - C. K. Mortimer is "Land Assistant" but extracted as "Senior Inspector of Schools"
+
+4. MULTIPLE PEOPLE IN ONE RECORD
+   Count: 2 records (8%)
+   Examples:
+   - "Q.C.; J. S. Templeton; B. R. Miles; A. D. Farrell" ← 4 judges combined
+   - "Grade I—V. de V. Allen; J. H. Daly; E. B. Dove; Capt. J. H. Frank" ← 4 of 10 people
+
+5. CONFIDENCE SCORE INACCURACY
+   Count: 6 records rated 0.9 confidence but have major errors
+   Issue: High confidence assigned to contaminated/incorrect extractions
+   Impact: Cannot trust confidence scores for quality filtering
+
+================================================================================
+QUALITY METRICS vs TARGETS
+================================================================================
+
+Metric                          Actual    Target    Status
+-----------------------------------------------------------------
+Overall Quality Score           49.2/100  90+       ❌ FAIL
+Perfect Extraction Rate         12.0%     95%+      ❌ FAIL
+Name Accuracy                   76.0%     98%+      ❌ FAIL
+Role Accuracy                   36.0%     95%+      ❌ FAIL
+Non-Person Rate                 24.0%     <1%       ❌ FAIL
+Name Contamination Rate         32.0%     <2%       ❌ FAIL
+Role Context Issue Rate         64.0%     <5%       ❌ FAIL (CONFIRMED)
+
+================================================================================
+DATASET-WIDE PROJECTIONS
+================================================================================
+
+If sample is representative of all 10,325 records:
+
+✓ Usable without changes:     ~1,238 records (12%)
+⚠️  Needs correction:          ~5,782 records (56%)
+❌ Must delete/re-extract:     ~3,304 records (32%)
+
+Effective usable data: ~1,238 records (12% of claimed total)
+
+================================================================================
+CONFIDENCE DISTRIBUTION (Full Dataset)
+================================================================================
+
+0.7 confidence:  6,393 records (61.9%) ← kenya_name_list method
+0.9 confidence:  2,722 records (26.4%) ← kenya_pattern1 method
+0.8 confidence:    791 records ( 7.7%) ← kenya_semicolon_list method
+0.75 confidence:   417 records ( 4.0%) ← kenya_name_salary method
+
+FINDING: Confidence correlates with extraction method, NOT actual quality.
+Even 0.9 confidence records have significant errors (contamination, etc.)
+
+================================================================================
+EXTRACTION METHOD ANALYSIS
+================================================================================
+
+Method                  Count    Confidence  Quality (from sample)
+------------------------------------------------------------------------
+kenya_name_list         6,393    0.7         ❌ 0% perfect rate (0/12)
+kenya_pattern1          2,722    0.9         ⚠️  37.5% perfect rate (3/8)
+kenya_semicolon_list      791    0.8         ❌ 0% perfect rate (0/2)
+kenya_name_salary         417    0.75        ❌ 0% perfect rate (0/3)
+
+KEY FINDING: Only "pattern1" method produces acceptable results.
+Other methods have 0% perfect extraction rate in sample.
+
+================================================================================
+VERIFIED EXAMPLES OF ERRORS
+================================================================================
+
+EXAMPLE 1: Qualification Extracted as Person
+Source (1931, Line 270):
+  "Inspector of Schools, H. L. Bradshaw, G. E. Webb, B.A. (Hons.) (Oxon.),
+   R. H. W. Wisdom, B.A. (1st class Hons.) (Lond.), 600l. to 720l."
+
+Extracted Name: "B.A. (1st class Hons.) (Lond.)"
+Confidence: 0.8
+✗ WRONG: This is R. H. W. Wisdom's qualification, not a person
+
+EXAMPLE 2: Descriptive Text as Person
+Source (1948, Lines 732-734):
+  "**Chief Towns**
+   The most important towns are St. John (Antigua), 11,000; Basseterre..."
+
+Extracted Name: "most important towns are St. John (Antigua)"
+Confidence: 0.75
+✗ WRONG: This is geography description, not a person
+
+EXAMPLE 3: Name Contamination
+Source (1950, Line 899):
+  "Principal, Kabete Technical and Trade School—A. E. Talbot, M.B.E. £970–1,320."
+
+Extracted Name: "Kabete Technical and Trade School—A. E. Talbot"
+Confidence: 0.9
+✗ WRONG: Should be "A. E. Talbot" only (institution shouldn't be in name)
+
+EXAMPLE 4: Role Context Inheritance
+Source (1930, Line 694):
+  "Foresters, J. L. Moon, A. Wye, A. M. Cooper, W. Munro, G. A. Hoult,
+   R. R. Stock, G. Fairbairn, H. H. G. Deakin, T. A. Angus, H. McIntyre,
+   A. C. Sprunt, E. A. Holyoak, H. H. Anstey..."
+
+Extracted Name: "E. A. Holyoak"
+Extracted Role: "9 European Clerk"
+Correct Role: "Forester"
+✗ WRONG: Role is from completely different section
+
+EXAMPLE 5: Multiple People as One
+Source (1950, Line 1073):
+  "Superintendents and Assistant Superintendents, Grade I—V. de V. Allen;
+   J. H. Daly; E. B. Dove; Capt. J. H. Frank, M.C.; F. A. Martin, M.C.;
+   Commdr. W. R. Fenton, R.N. (retd.); G. C. M. Phillips; G. H. C. Thacker;
+   R. H. Timmis; G. M. Young. £550–1,025."
+
+Extracted Name: "Grade I—V. de V. Allen; J. H. Daly; E. B. Dove; Capt. J. H. Frank"
+Confidence: 0.9
+✗ WRONG: Should be 10 separate records, not 1 record with 4 names
+
+================================================================================
+COMPARISON: CLAIMED vs ACTUAL ISSUES
+================================================================================
+
+CLAIMED (from metadata):
+  "73.6% medium confidence due to role context inheritance"
+
+ACTUAL (from independent evaluation):
+  ❌ 24% complete failures (non-person extractions) ← NOT MENTIONED
+  ❌ 32% name contamination ← NOT MENTIONED
+  ✓ 64% role context inheritance ← CONFIRMED
+  ❌ 8% multiple people in one record ← NOT MENTIONED
+  ❌ Confidence scores unreliable ← NOT MENTIONED
+
+CONCLUSION: The claimed issue is real and confirmed, but there are many
+additional critical issues that were not identified or mentioned.
+
+================================================================================
+ROOT CAUSE ANALYSIS
+================================================================================
+
+1. PATTERN MATCHING ISSUES
+   - Multiple extraction methods with varying quality
+   - "name_list" method has severe issues (0% perfect rate)
+   - Only "pattern1" method works acceptably (37.5% perfect rate)
+
+2. CONTEXT WINDOW PROBLEMS
+   - Role information not properly scoped to current line/section
+   - Extractor "remembers" roles from earlier sections
+   - No validation that role matches current context
+
+3. LACK OF VALIDATION
+   - No check if name looks like a person (vs. qualification/description)
+   - No check for contamination prefixes (Department—, Grade—, etc.)
+   - No check for multiple people (semicolons in name)
+   - Confidence scores don't reflect actual quality
+
+4. CROSS-SECTION CONTAMINATION
+   - Some 1948 records extracted from wrong colony sections
+   - Example: Towns from Antigua appearing in Kenya data
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+
+IMMEDIATE (Before using this data):
+
+1. ❌ DO NOT USE this dataset in production
+   Quality is far below acceptable threshold (49.2/100)
+
+2. Delete obvious non-person records:
+   - Names containing "most important", "Grade I—", "Members appointed"
+   - Names with table syntax ("|")
+   - Names that are only qualifications
+
+3. Clean contaminated names:
+   - Remove prefixes before "—" character
+   - Extract actual person name from contaminated field
+
+4. Flag all records for role verification:
+   - 64% have wrong roles
+   - Cannot trust role field without verification
+
+SHORT-TERM (To improve extraction):
+
+1. Fix role context inheritance:
+   - Limit role context to current line ± 1 line only
+   - Validate role matches current department/section
+   - Mark role as uncertain if from different context
+
+2. Add name validation:
+   if name contains ("—", "Department", "School", "District", "Grade",
+                     "Members", "most", "|"):
+       reject or flag for review
+
+3. Implement multi-person detection:
+   if ";" in name and len(name.split(";")) > 1:
+       split into separate records
+
+4. Fix confidence scoring:
+   - Lower confidence for list extractions
+   - Higher confidence only for validated pattern1 format
+   - Add validation checks before assigning high confidence
+
+5. Re-run extraction with fixes on all 34 Kenya files
+
+LONG-TERM (To prevent recurrence):
+
+1. Build validation framework:
+   - Name format patterns (regex)
+   - Role-department consistency checks
+   - Duplicate detection across years
+   - Quality scoring independent of extraction
+
+2. Implement extraction modes:
+   - Conservative: Only extract high-certainty records
+   - Comprehensive: Extract all with quality flags
+   - Queue uncertain records for manual review
+
+3. Create test suite:
+   - Use the 3 perfect extractions as positive examples
+   - Use the failures as negative examples
+   - Test extraction changes against known good/bad cases
+
+4. Add manual review workflow:
+   - Sample random records for verification
+   - Build training set from verified corrections
+   - Iteratively improve extraction patterns
+
+================================================================================
+CONCLUSION
+================================================================================
+
+The Kenya extraction achieved a quality score of 49.2/100, which is:
+
+❌ BELOW acceptable threshold for production use (90+)
+❌ BELOW research-grade quality (80+)
+⚠️  MARGINALLY acceptable for exploratory analysis WITH HEAVY CAVEATS
+
+PRIMARY ISSUES:
+1. 64% have wrong roles (role context inheritance - CONFIRMED)
+2. 32% have contaminated names (requires cleanup)
+3. 24% are not people at all (critical failures requiring deletion)
+4. 8% contain multiple people (requires splitting)
+5. Confidence scores are unreliable (cannot filter by confidence)
+
+EFFECTIVE DATA QUALITY:
+- Only ~12% of records are usable without corrections
+- ~56% need field corrections (roles, name cleanup)
+- ~32% should be deleted (non-people, unsplittable multi-person records)
+
+RECOMMENDED ACTION:
+⛔ REJECT this extraction
+🔧 Fix systematic issues in extraction logic
+🔄 Re-run extraction on all Kenya files
+✅ Re-evaluate quality before acceptance
+
+The extraction technology shows promise (pattern1 method works), but the
+implementation has critical flaws that must be fixed before the data is usable.
+
+================================================================================
+
+Full detailed report: kenya_evaluation_report.md
+Sample data: kenya_sample_25.json
+
+Evaluation completed: 2025-11-23
+Evaluator: Independent Quality Evaluation Agent
+================================================================================

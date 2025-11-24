@@ -1,0 +1,26 @@
+Sample_No,Year,Extracted_Name,Extracted_Role,Confidence,Extraction_Method,Verdict,Issues,Correct_Name,Correct_Role,Quality_Score
+1,1930,E. A. Holyoak,9 European Clerk,0.7,kenya_name_list,PARTIAL,Role context inheritance,E. A. Holyoak,Forester,70
+2,1923,C. J. Wilson,Assistant District and Resident Commissioners,0.7,kenya_name_list,PARTIAL,Role context inheritance,C. J. Wilson,Senior Medical Officer,70
+3,1922,E. A. Shelver,Valuer-Keeper,0.9,kenya_pattern1,PERFECT,None,E. A. Shelver,Valuer-Keeper,100
+4,1925,C. K. Mortimer,Senior Inspector of Schools (vacant),0.7,kenya_name_list,PARTIAL,Role context inheritance,C. K. Mortimer,Land Assistant,70
+5,1925,T. H. Massey,Registrar-General's Department,0.7,kenya_name_list,PARTIAL,Role context inheritance,T. H. Massey,Senior Medical Officer,70
+6,1925,E. B. Hosking,#### European Clerk,0.7,kenya_name_list,PARTIAL,Role context inheritance,E. B. Hosking,Assistant District and Assistant Resident Commissioner,70
+7,1923,F. H. Clarke,Chief of the Division of Botany (vacant),0.7,kenya_name_list,PARTIAL,Role context inheritance,F. H. Clarke,Assistant (Survey),70
+8,1932,G. R. B. Brown,Finger-Print Officer,0.7,kenya_name_list,PARTIAL,Role context inheritance,G. R. B. Brown,District Officer,70
+9,1931,G. H. Allison,Chief Quantity Surveyor,0.9,kenya_pattern1,PERFECT,None,G. H. Allison,Chief Quantity Surveyor,100
+10,1937,R. A. W. Procter,Senior Medical Officers,0.9,kenya_pattern1,PERFECT,None,R. A. W. Procter,Senior Medical Officer,100
+11,1931,B.A. (1st class Hons.) (Lond.),Registrar General's Department,0.8,kenya_semicolon_list,REJECT,Not a person (qualification); Role context inheritance,R. H. W. Wisdom,Inspector of Schools,0
+12,1931,J. A. Ball,Laboratory Superintendent,0.8,kenya_semicolon_list,PARTIAL,Role context inheritance,J. A. Ball,Laboratory Assistant,70
+13,1932,H. E. Welby,Finger-Print Officer,0.7,kenya_name_list,PARTIAL,Role context inheritance,H. E. Welby,District Officer,70
+14,1948,most important towns are St. John (Antigua),**Chief Towns**,0.75,kenya_name_salary,REJECT,Not a person (descriptive text),[None - wrong colony],[None],0
+15,1948,K.C.M.G.) |,| Year | Governor |,0.7,kenya_name_list,REJECT,Not a person (table fragment),H. T. Irving,Governor (historical),0
+16,1950,Kabete Technical and Trade School—A. E. Talbot,Principal,0.9,kenya_pattern1,CLEANUP,Name contamination; High confidence mismatch,A. E. Talbot,"Principal, Kabete Technical and Trade School",40
+17,1951,Dr. M. A. Rana,D. O'Hagan (Ag. Administrative Secretary),0.75,kenya_name_salary,PARTIAL,Role context inheritance (wrong person's role),M. A. Rana,[Medical role - needs verification],70
+18,1946,Mines and Surveys—G. J. Robbins,Commissioner for Lands,0.9,kenya_pattern1,CLEANUP,Name contamination; High confidence mismatch,G. J. Robbins,"Commissioner for Lands, Mines and Surveys",40
+19,1950,Grade I—V. de V. Allen; J. H. Daly; E. B. Dove; Capt. J. H. Frank,Superintendents and Assistant Superintendent,0.9,kenya_pattern1,REJECT,Not a person (prefix + multiple people); Should be 10 records,V. de V. Allen (and 9 others),"Superintendent/Assistant Superintendent, Grade I",0
+20,1958,Police Department—C. Campbell,Civil Secretary,0.9,kenya_pattern1,CLEANUP,Name contamination; High confidence mismatch,C. Campbell,"Civil Secretary, Police Department",40
+21,1963,Nairobi Extra-Provincial District—R. A. Wilkinson,Officer-in-Charge,0.9,kenya_pattern1,CLEANUP,Name contamination; High confidence mismatch,R. A. Wilkinson,"Officer-in-Charge, Nairobi Extra-Provincial District",40
+22,1961,Police Department—C. Campbell,Civil Secretary,0.9,kenya_pattern1,CLEANUP,Name contamination; High confidence mismatch (duplicate of #20),C. Campbell,"Civil Secretary, Police Department",40
+23,1960,Members appointed for 4 years—J. L. Riddoch,Personal Adviser to the Governor on Arab Affairs—Sheikh Salim Mohamed Mulashamy M.B.E.‡,0.75,kenya_name_salary,REJECT,Not a person (description prefix); Multiple people; Wrong role,J. L. Riddoch (and 2 others),Legislative Council Member,0
+24,1958,Q.C.; J. S. Templeton; B. R. Miles; A. D. Farrell,Chief Justice—Sir Ronald Sinclair,0.7,kenya_name_list,REJECT,Multiple people (4 of 9); Wrong role,J. S. Templeton (and 8 others),Puisne Judge,0
+25,1960,Permanent Secretaries—G. J. Ellerton,Personal Adviser to the Governor on Arab Affairs—Sheikh Salim Mohamed Mulashamy M.B.E.‡,0.75,kenya_name_salary,REJECT,Not a person (title prefix); Multiple people; Wrong role,G. J. Ellerton (and 10 others),Permanent Secretary,0

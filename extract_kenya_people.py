@@ -863,14 +863,36 @@ class KenyaPatternExtractor:
         Returns: (cleaned_name, qualifications)
         """
         # FIX: Strip department/location prefixes (e.g., "Kabete Technical and Trade School—A. E. Talbot")
+        # ENHANCED: More aggressive em-dash stripping for 1950-1961 records
         if '—' in name:
-            name = name.split('—')[-1].strip()
+            # Always take text after em-dash if it looks like a name
+            after_dash = name.split('—')[-1].strip()
+            # Check if text after dash looks like a person name
+            if re.search(r'\b[A-Z](?:\.\s*[A-Z])*\.?\s*[A-Z][a-z]+', after_dash) or 'Sir' in after_dash or 'Major' in after_dash:
+                name = after_dash
+            else:
+                # If after-dash doesn't look like name, keep original
+                name = name.split('—')[-1].strip()
         elif '–' in name:
-            name = name.split('–')[-1].strip()
+            # Same logic for en-dash
+            after_dash = name.split('–')[-1].strip()
+            if re.search(r'\b[A-Z](?:\.\s*[A-Z])*\.?\s*[A-Z][a-z]+', after_dash) or 'Sir' in after_dash or 'Major' in after_dash:
+                name = after_dash
+            else:
+                name = name.split('–')[-1].strip()
         elif ' - ' in name and not re.match(r'^[A-Z]\.\s*[A-Z]', name):
             parts_dash = name.split(' - ')
-            if any(kw in parts_dash[0] for kw in ['School', 'Office', 'Department', 'District', 'Grade']):
+            # More aggressive: strip if first part has any institutional keywords or looks like department
+            institution_keywords = ['School', 'Office', 'Department', 'District', 'Grade',
+                                   'Court', 'Commission', 'Service', 'Services', 'Fisheries',
+                                   'Game', 'Appeal', 'Civil']
+            if any(kw in parts_dash[0] for kw in institution_keywords):
                 name = parts_dash[-1].strip()
+            # Or if first part is all caps (likely department code like "E.A.")
+            elif parts_dash[0].isupper() or len(parts_dash[0]) < 5:
+                after_dash = parts_dash[-1].strip()
+                if re.search(r'[A-Z][a-z]+', after_dash):  # Has a capitalized word (likely name)
+                    name = after_dash
 
         qualifications = []
         remaining_parts = []

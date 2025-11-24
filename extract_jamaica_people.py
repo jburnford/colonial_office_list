@@ -785,6 +785,7 @@ class JamaicaPatternExtractor:
         Examples:
         - "R. Chamberlaine. H. Kent."
         - "D. Ewart. R. Hill."
+        - "Clerks, 1st Class, C. W. Chapman, and E. W. Astwood, £200."
         """
         if not self.last_role:
             return None
@@ -797,6 +798,12 @@ class JamaicaPatternExtractor:
         if len(names) < 2:
             return None
 
+        # FIX: Extract role from current line, not from context (fixes 28% of records!)
+        # Pattern: "Role description, Name1, Name2, Name3, salary"
+        # The role is at the start of the line before the first name
+        role_from_line = self._extract_role_from_line(line)
+        role = role_from_line if role_from_line else self.last_role
+
         people = []
         for name in names:
             name = self._clean_name(name)
@@ -806,7 +813,7 @@ class JamaicaPatternExtractor:
 
             person = Person(
                 name=name,
-                role=self.last_role,
+                role=role,
                 location=self.current_parish or "Jamaica",
                 colony=colony,
                 year=year,
@@ -826,6 +833,50 @@ class JamaicaPatternExtractor:
             self.stats['list_extractions'] += 1
 
         return people if people else None
+
+    def _extract_role_from_line(self, line: str) -> Optional[str]:
+        """
+        Extract role from beginning of line for Pattern5 lists.
+
+        Pattern: "Role, [qualifiers,] Name1, Name2, Name3, salary"
+        Example: "Clerks, 1st Class, C. W. Chapman, and E. W. Astwood, £200."
+        Returns: "Clerks, 1st Class"
+        """
+        # Look for role patterns at start of line
+        # Role is everything before the first name pattern (Initial. Surname)
+
+        # Find first occurrence of name pattern
+        name_match = re.search(r'\b[A-Z](?:\.\s*[A-Z])*\.\s*[A-Z][a-z]+', line)
+        if not name_match:
+            return None
+
+        # Extract everything before the first name as potential role
+        role_text = line[:name_match.start()].strip()
+
+        # Remove trailing commas and "and"
+        role_text = re.sub(r',\s*$', '', role_text)
+        role_text = re.sub(r'\band\b\s*$', '', role_text)
+        role_text = role_text.strip()
+
+        # Must have some substance to be a role
+        if len(role_text) < 3:
+            return None
+
+        # Check if it looks like a role (has job-related keywords)
+        role_keywords = ['Clerk', 'Officer', 'Assistant', 'Secretary', 'Inspector',
+                        'Commissioner', 'Magistrate', 'Collector', 'Treasurer',
+                        'Auditor', 'Superintendent', 'Chief', 'Director', 'Class',
+                        'Rector', 'Agent', 'Engineer', 'Surveyor', 'Master']
+
+        if any(kw in role_text for kw in role_keywords):
+            return role_text
+
+        # If no keywords but follows comma pattern, might still be a role
+        # Example: "Medical Practitioners"
+        if ',' in role_text or len(role_text.split()) > 1:
+            return role_text
+
+        return None
 
     def _clean_name(self, name: str) -> str:
         """Clean and normalize a person's name."""

@@ -1,0 +1,1514 @@
+================================================================================
+JAMAICA COLONIAL OFFICE LISTS - COMPLETE EXTRACTION
+================================================================================
+
+Using Jamaica-specific extractor (based on Ceylon v3 model)
+
+Found 62 Jamaica files
+
+
+================================================================================
+[1/62] Processing 1867: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1867: output_3/1867_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 103 people via patterns
+  Flagged 22 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 103 people
+
+✓ Extracted 103 people from 1867
+
+================================================================================
+[2/62] Processing 1877: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1877: output_3/1877_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 356 people via patterns
+  Flagged 64 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 350 people
+
+✓ Extracted 350 people from 1877
+
+================================================================================
+[3/62] Processing 1878: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1878: output_3/1878_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 368 people via patterns
+  Flagged 56 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 364 people
+
+✓ Extracted 364 people from 1878
+
+================================================================================
+[4/62] Processing 1879: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1879: output_3/1879_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 355 people via patterns
+  Flagged 47 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 350 people
+
+✓ Extracted 350 people from 1879
+
+================================================================================
+[5/62] Processing 1880: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1880: output_3/1880_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 345 people via patterns
+  Flagged 58 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 339 people
+
+✓ Extracted 339 people from 1880
+
+================================================================================
+[6/62] Processing 1883: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1883: output_3/1883_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 341 people via patterns
+  Flagged 48 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 338 people
+
+✓ Extracted 338 people from 1883
+
+================================================================================
+[7/62] Processing 1886: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1886: output_3/1886_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 274 people via patterns
+  Flagged 68 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 273 people
+
+✓ Extracted 273 people from 1886
+
+================================================================================
+[8/62] Processing 1888: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1888: output_3/1888_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 254 people via patterns
+  Flagged 51 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 253 people
+
+✓ Extracted 253 people from 1888
+
+================================================================================
+[9/62] Processing 1889: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1889: output_3/1889_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 243 people via patterns
+  Flagged 36 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 243 people
+
+✓ Extracted 243 people from 1889
+
+================================================================================
+[10/62] Processing 1890: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1890: output_3/1890_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 257 people via patterns
+  Flagged 51 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 256 people
+
+✓ Extracted 256 people from 1890
+
+================================================================================
+[11/62] Processing 1894: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1894: output_3/1894_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 291 people via patterns
+  Flagged 50 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 291 people
+
+✓ Extracted 291 people from 1894
+
+================================================================================
+[12/62] Processing 1896: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1896: output_3/1896_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 290 people via patterns
+  Flagged 54 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 289 people
+
+✓ Extracted 289 people from 1896
+
+================================================================================
+[13/62] Processing 1897: JAMAICA.md
+================================================================================
+
+======================================================================
+Processing JAMAICA 1897: output_3/1897_manual_parsed/JAMAICA.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 288 people via patterns
+  Flagged 40 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 287 people
+
+✓ Extracted 287 people from 1897
+
+================================================================================
+[14/62] Processing 1898: JAMAICA.md
+================================================================================
+
+======================================================================
+Processing JAMAICA 1898: output_3/1898_manual_parsed/JAMAICA.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 275 people via patterns
+  Flagged 54 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 273 people
+
+✓ Extracted 273 people from 1898
+
+================================================================================
+[15/62] Processing 1899: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1899: output_3/1899_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 248 people via patterns
+  Flagged 36 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 247 people
+
+✓ Extracted 247 people from 1899
+
+================================================================================
+[16/62] Processing 1900: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1900: output_3/1900_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 281 people via patterns
+  Flagged 52 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 280 people
+
+✓ Extracted 280 people from 1900
+
+================================================================================
+[17/62] Processing 1905: JAMAICA.md
+================================================================================
+
+======================================================================
+Processing JAMAICA 1905: output_3/1905_manual_parsed/JAMAICA.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 398 people via patterns
+  Flagged 62 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 397 people
+
+✓ Extracted 397 people from 1905
+
+================================================================================
+[18/62] Processing 1906: JAMAICA.md
+================================================================================
+
+======================================================================
+Processing JAMAICA 1906: output_3/1906_manual_parsed/JAMAICA.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 312 people via patterns
+  Flagged 71 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 309 people
+
+✓ Extracted 309 people from 1906
+
+================================================================================
+[19/62] Processing 1907: JAMAICA.md
+================================================================================
+
+======================================================================
+Processing JAMAICA 1907: output_3/1907_manual_parsed/JAMAICA.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 320 people via patterns
+  Flagged 72 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 317 people
+
+✓ Extracted 317 people from 1907
+
+================================================================================
+[20/62] Processing 1908: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1908: output_3/1908_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 351 people via patterns
+  Flagged 123 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 347 people
+
+✓ Extracted 347 people from 1908
+
+================================================================================
+[21/62] Processing 1909: jamaica.md
+================================================================================
+
+======================================================================
+Processing JAMAICA 1909: output_3/1909_manual_parsed/jamaica.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 312 people via patterns
+  Flagged 73 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 310 people
+
+✓ Extracted 310 people from 1909
+
+================================================================================
+[22/62] Processing 1910: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1910: output_3/1910_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 331 people via patterns
+  Flagged 94 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 329 people
+
+✓ Extracted 329 people from 1910
+
+================================================================================
+[23/62] Processing 1911: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1911: output_3/1911_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 321 people via patterns
+  Flagged 84 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 319 people
+
+✓ Extracted 319 people from 1911
+
+================================================================================
+[24/62] Processing 1912: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1912: output_3/1912_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 337 people via patterns
+  Flagged 68 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 335 people
+
+✓ Extracted 335 people from 1912
+
+================================================================================
+[25/62] Processing 1913: JAMAICA.md
+================================================================================
+
+======================================================================
+Processing JAMAICA 1913: output_3/1913_manual_parsed/JAMAICA.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 342 people via patterns
+  Flagged 73 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 340 people
+
+✓ Extracted 340 people from 1913
+
+================================================================================
+[26/62] Processing 1914: JAMAICA.md
+================================================================================
+
+======================================================================
+Processing JAMAICA 1914: output_3/1914_manual_parsed/JAMAICA.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 370 people via patterns
+  Flagged 66 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 368 people
+
+✓ Extracted 368 people from 1914
+
+================================================================================
+[27/62] Processing 1915: JAMAICA.md
+================================================================================
+
+======================================================================
+Processing JAMAICA 1915: output_3/1915_manual_parsed/JAMAICA.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 372 people via patterns
+  Flagged 65 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 370 people
+
+✓ Extracted 370 people from 1915
+
+================================================================================
+[28/62] Processing 1917: JAMAICA.md
+================================================================================
+
+======================================================================
+Processing JAMAICA 1917: output_3/1917_manual_parsed/JAMAICA.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 355 people via patterns
+  Flagged 59 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 354 people
+
+✓ Extracted 354 people from 1917
+
+================================================================================
+[29/62] Processing 1918: JAMAICA.md
+================================================================================
+
+======================================================================
+Processing JAMAICA 1918: output_3/1918_manual_parsed/JAMAICA.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 367 people via patterns
+  Flagged 74 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 366 people
+
+✓ Extracted 366 people from 1918
+
+================================================================================
+[30/62] Processing 1919: JAMAICA.md
+================================================================================
+
+======================================================================
+Processing JAMAICA 1919: output_3/1919_manual_parsed/JAMAICA.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 361 people via patterns
+  Flagged 79 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 358 people
+
+✓ Extracted 358 people from 1919
+
+================================================================================
+[31/62] Processing 1920: JAMAICA.md
+================================================================================
+
+======================================================================
+Processing JAMAICA 1920: output_3/1920_manual_parsed/JAMAICA.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 372 people via patterns
+  Flagged 77 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 369 people
+
+✓ Extracted 369 people from 1920
+
+================================================================================
+[32/62] Processing 1921: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1921: output_3/1921_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 599 people via patterns
+  Flagged 102 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 596 people
+
+✓ Extracted 596 people from 1921
+
+================================================================================
+[33/62] Processing 1922: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1922: output_3/1922_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 476 people via patterns
+  Flagged 62 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 474 people
+
+✓ Extracted 474 people from 1922
+
+================================================================================
+[34/62] Processing 1923: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1923: output_3/1923_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 488 people via patterns
+  Flagged 66 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 487 people
+
+✓ Extracted 487 people from 1923
+
+================================================================================
+[35/62] Processing 1924: JAMAICA.md
+================================================================================
+
+======================================================================
+Processing JAMAICA 1924: output_3/1924_manual_parsed/JAMAICA.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 509 people via patterns
+  Flagged 70 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 507 people
+
+✓ Extracted 507 people from 1924
+
+================================================================================
+[36/62] Processing 1925: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1925: output_3/1925_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 501 people via patterns
+  Flagged 70 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 499 people
+
+✓ Extracted 499 people from 1925
+
+================================================================================
+[37/62] Processing 1927: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1927: output_3/1927_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 427 people via patterns
+  Flagged 35 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 409 people
+
+✓ Extracted 409 people from 1927
+
+================================================================================
+[38/62] Processing 1928: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1928: output_3/1928_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 420 people via patterns
+  Flagged 55 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 420 people
+
+✓ Extracted 420 people from 1928
+
+================================================================================
+[39/62] Processing 1929: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1929: output_3/1929_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 396 people via patterns
+  Flagged 92 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 396 people
+
+✓ Extracted 396 people from 1929
+
+================================================================================
+[40/62] Processing 1930: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1930: output_3/1930_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 407 people via patterns
+  Flagged 96 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 407 people
+
+✓ Extracted 407 people from 1930
+
+================================================================================
+[41/62] Processing 1931: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1931: output_3/1931_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 553 people via patterns
+  Flagged 147 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 443 people
+
+✓ Extracted 443 people from 1931
+
+================================================================================
+[42/62] Processing 1932: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1932: output_3/1932_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 409 people via patterns
+  Flagged 82 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 409 people
+
+✓ Extracted 409 people from 1932
+
+================================================================================
+[43/62] Processing 1933: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1933: output_3/1933_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 406 people via patterns
+  Flagged 96 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 406 people
+
+✓ Extracted 406 people from 1933
+
+================================================================================
+[44/62] Processing 1934: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1934: output_3/1934_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 411 people via patterns
+  Flagged 98 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 410 people
+
+✓ Extracted 410 people from 1934
+
+================================================================================
+[45/62] Processing 1936: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1936: output_3/1936_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 430 people via patterns
+  Flagged 97 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 430 people
+
+✓ Extracted 430 people from 1936
+
+================================================================================
+[46/62] Processing 1937: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1937: output_3/1937_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 438 people via patterns
+  Flagged 108 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 438 people
+
+✓ Extracted 438 people from 1937
+
+================================================================================
+[47/62] Processing 1939: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1939: output_3/1939_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 457 people via patterns
+  Flagged 101 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 456 people
+
+✓ Extracted 456 people from 1939
+
+================================================================================
+[48/62] Processing 1940: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1940: output_3/1940_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 513 people via patterns
+  Flagged 96 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 511 people
+
+✓ Extracted 511 people from 1940
+
+================================================================================
+[49/62] Processing 1946: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1946: output_3/1946_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 9 people via patterns
+  Flagged 70 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 9 people
+
+✓ Extracted 9 people from 1946
+
+================================================================================
+[50/62] Processing 1948: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1948: output_3/1948_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 12 people via patterns
+  Flagged 88 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 12 people
+
+✓ Extracted 12 people from 1948
+
+================================================================================
+[51/62] Processing 1949: Jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1949: output_3/1949_manual_parsed/Jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 54 people via patterns
+  Flagged 103 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 54 people
+
+✓ Extracted 54 people from 1949
+
+================================================================================
+[52/62] Processing 1950: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1950: output_3/1950_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 73 people via patterns
+  Flagged 123 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 73 people
+
+✓ Extracted 73 people from 1950
+
+================================================================================
+[53/62] Processing 1951: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1951: output_3/1951_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 9 people via patterns
+  Flagged 142 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 9 people
+
+✓ Extracted 9 people from 1951
+
+================================================================================
+[54/62] Processing 1952: JAMAICA.md
+================================================================================
+
+======================================================================
+Processing JAMAICA 1952: output_3/1952_manual_parsed/JAMAICA.md
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 6 people via patterns
+  Flagged 50 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 6 people
+
+✓ Extracted 6 people from 1952
+
+================================================================================
+[55/62] Processing 1953: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1953: output_3/1953_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 20 people via patterns
+  Flagged 74 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 20 people
+
+✓ Extracted 20 people from 1953
+
+================================================================================
+[56/62] Processing 1954: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1954: output_3/1954_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 30 people via patterns
+  Flagged 70 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 30 people
+
+✓ Extracted 30 people from 1954
+
+================================================================================
+[57/62] Processing 1955: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1955: output_3/1955_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 3 people via patterns
+  Flagged 58 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 3 people
+
+✓ Extracted 3 people from 1955
+
+================================================================================
+[58/62] Processing 1956: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1956: output_3/1956_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 19 people via patterns
+  Flagged 70 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 19 people
+
+✓ Extracted 19 people from 1956
+
+================================================================================
+[59/62] Processing 1957: JAMAICA.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1957: output_3/1957_manual_parsed/JAMAICA.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 39 people via patterns
+  Flagged 92 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 39 people
+
+✓ Extracted 39 people from 1957
+
+================================================================================
+[60/62] Processing 1958: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1958: output_3/1958_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 0 people via patterns
+  Flagged 0 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1958
+
+================================================================================
+[61/62] Processing 1961: west_indies_jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1961: output_3/1961_manual_parsed/west_indies_jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 54 people via patterns
+  Flagged 106 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 54 people
+
+✓ Extracted 54 people from 1961
+
+================================================================================
+[62/62] Processing 1963: jamaica.txt
+================================================================================
+
+======================================================================
+Processing JAMAICA 1963: output_3/1963_manual_parsed/jamaica.txt
+======================================================================
+
+PHASE 1: Analyzing file structure...
+
+PHASE 2: Pattern-based extraction (Jamaica-specific)...
+  Extracted 0 people via patterns
+  Flagged 0 sections for manual review
+
+PHASE 3: LLM extraction...
+  Task-based extraction DISABLED (following Ceylon model)
+  Relying on pattern-based extraction with validation
+  Extracted 0 additional people via LLM
+
+PHASE 4: Validation and filtering...
+  Final count: 0 people
+
+✓ Extracted 0 people from 1963
+
+
+================================================================================
+EXTRACTION COMPLETE - SUMMARY
+================================================================================
+
+Total people extracted: 17,750
+Files processed successfully: 62/62
+Files failed: 0
+
+Quality Metrics:
+  High confidence (>=0.85): 11039 (62.2%)
+  Med confidence (0.6-0.84): 6711 (37.8%)
+  Low confidence (<0.6):     0 (0.0%)
+  Unknown roles:             0 (0.0%)
+
+Results saved to: jamaica_all_years_v1.json
+================================================================================

@@ -1,0 +1,209 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║                   KENYA EXTRACTION QUALITY EVALUATION                      ║
+║                      Independent Assessment Results                        ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+📊 OVERALL QUALITY SCORE: 49.2/100
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔴 STATUS: REJECTED - SIGNIFICANT QUALITY ISSUES
+⚠️  Only 12% of records are usable without corrections
+⚠️  88% of records have errors requiring fixing or deletion
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 EVALUATION DETAILS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Dataset:              kenya_all_years_v1.json
+Total Records:        10,325 people from 34 files (1922-1964)
+Sample Size:          25 records (random, stratified by time period)
+Years Covered:        1922-1963 (15 different years)
+Evaluation Date:      2025-11-23
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔍 ERROR BREAKDOWN (25 Sampled Records)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+┌────────────────────────────────────────┬───────┬──────────┐
+│ Error Category                         │ Count │ Severity │
+├────────────────────────────────────────┼───────┼──────────┤
+│ ❌ Non-Person Extractions              │  6    │ CRITICAL │
+│    (qualifications, text, fragments)   │ (24%) │          │
+├────────────────────────────────────────┼───────┼──────────┤
+│ ⚠️  Name Contamination                 │  8    │ HIGH     │
+│    (dept/location prefixes in name)    │ (32%) │          │
+├────────────────────────────────────────┼───────┼──────────┤
+│ ⚠️  Role Context Inheritance           │ 16    │ HIGH     │
+│    (wrong role from other sections)    │ (64%) │          │
+├────────────────────────────────────────┼───────┼──────────┤
+│ ❌ Multiple People in One Record       │  2    │ CRITICAL │
+│    (should be split)                   │  (8%) │          │
+├────────────────────────────────────────┼───────┼──────────┤
+│ ⚠️  Confidence Score Inaccuracy        │  6    │ MEDIUM   │
+│    (0.9 confidence with major errors)  │ (24%) │          │
+└────────────────────────────────────────┴───────┴──────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📈 QUALITY METRICS vs TARGETS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+┌──────────────────────────────┬────────┬────────┬─────────┐
+│ Metric                       │ Actual │ Target │ Status  │
+├──────────────────────────────┼────────┼────────┼─────────┤
+│ Overall Quality Score        │  49.2  │  90+   │ ❌ FAIL │
+│ Perfect Extraction Rate      │  12.0% │  95%+  │ ❌ FAIL │
+│ Name Accuracy                │  76.0% │  98%+  │ ❌ FAIL │
+│ Role Accuracy                │  36.0% │  95%+  │ ❌ FAIL │
+│ Non-Person Rate              │  24.0% │  <1%   │ ❌ FAIL │
+│ Name Contamination Rate      │  32.0% │  <2%   │ ❌ FAIL │
+│ Role Context Issue Rate      │  64.0% │  <5%   │ ❌ FAIL │
+└──────────────────────────────┴────────┴────────┴─────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔬 EXAMPLES OF CRITICAL ERRORS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1️⃣  QUALIFICATION EXTRACTED AS PERSON (1931)
+   ❌ Extracted: "B.A. (1st class Hons.) (Lond.)"
+   ✓  Should be: Part of "R. H. W. Wisdom" record
+   📝 Confidence: 0.8 (too high for this error)
+
+2️⃣  DESCRIPTIVE TEXT AS PERSON (1948)
+   ❌ Extracted: "most important towns are St. John (Antigua)"
+   ✓  Should be: Deleted (not a person, wrong colony)
+   📝 Source: Geography description from Antigua section
+
+3️⃣  NAME CONTAMINATION (1950)
+   ❌ Extracted: "Kabete Technical and Trade School—A. E. Talbot"
+   ✓  Should be: "A. E. Talbot"
+   📝 Confidence: 0.9 (high confidence on contaminated data!)
+
+4️⃣  ROLE CONTEXT INHERITANCE (1930)
+   ❌ Extracted: E. A. Holyoak as "9 European Clerk"
+   ✓  Actual role: "Forester"
+   📝 Role came from different section entirely
+
+5️⃣  MULTIPLE PEOPLE AS ONE (1950)
+   ❌ Extracted: "Grade I—V. de V. Allen; J. H. Daly; E. B. Dove; Capt. J. H. Frank"
+   ✓  Should be: 10 separate records (only captured 4, included grade prefix)
+   📝 Confidence: 0.9 (impossible for multi-person record!)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📊 EXTRACTION METHOD ANALYSIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+┌──────────────────────┬─────────┬────────────┬───────────┬─────────────┐
+│ Method               │ Records │ % Dataset  │ Perfect % │ Quality     │
+├──────────────────────┼─────────┼────────────┼───────────┼─────────────┤
+│ kenya_name_list      │  6,393  │   61.9%    │    0.0%   │ ❌ POOR     │
+│ kenya_pattern1       │  2,722  │   26.4%    │   33.3%   │ ⚠️  PARTIAL │
+│ kenya_semicolon_list │    791  │    7.7%    │    0.0%   │ ❌ POOR     │
+│ kenya_name_salary    │    417  │    4.0%    │    0.0%   │ ❌ POOR     │
+└──────────────────────┴─────────┴────────────┴───────────┴─────────────┘
+
+🔑 KEY FINDING: Only "kenya_pattern1" method produces acceptable results, 
+                but it's only used for 26% of records. The majority (62%) 
+                uses "kenya_name_list" which has 0% perfect extraction rate.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 PROJECTED DATASET IMPACT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+If the sample is representative of all 10,325 records:
+
+┌────────────────────────────────────┬──────────┬─────────┐
+│ Category                           │ Records  │ Percent │
+├────────────────────────────────────┼──────────┼─────────┤
+│ ✅ Usable without changes          │    ~907  │   8.8%  │
+│ ⚠️  Needs corrections (roles/names)│  ~7,131  │  69.1%  │
+│ ❌ Must delete (not people/invalid)│  ~2,287  │  22.2%  │
+└────────────────────────────────────┴──────────┴─────────┘
+
+⚠️  EFFECTIVE USABLE DATA: Only ~907 records (8.8% of claimed 10,325)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ WHAT WORKS (3 Perfect Extractions)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Pattern that works best: "Role, Name Qualifications, Salary."
+
+Examples:
+✓ "Valuer-Keeper, E. A. Shelver, 250l. by 15l. to 350l."
+✓ "Chief Quantity Surveyor, G. H. Allison, F.S.I., 1,120l."
+✓ "Senior Medical Officers, R. A. W. Procter, M.C., M.A., B.Ch. (Cantab.)..."
+
+All 3 perfect extractions used "kenya_pattern1" method.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧 RECOMMENDATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+IMMEDIATE:
+  1. ⛔ DO NOT USE this dataset in production
+  2. 🗑️  Delete ~2,287 non-person records
+  3. 🔍 Manual review required for all high-confidence records
+  4. 📊 Flag all role fields as unreliable (64% incorrect)
+
+SHORT-TERM:
+  1. 🐛 Fix role context inheritance (most critical issue)
+  2. 🔍 Add name validation (reject contaminated/non-person names)
+  3. ➗ Implement multi-person detection and splitting
+  4. 📊 Fix confidence scoring mechanism
+  5. 🔄 Re-run extraction with fixes on all 34 Kenya files
+
+VALIDATION RULES TO ADD:
+  ❌ Reject if name contains: "—", "Department", "School", "District"
+  ❌ Reject if name starts with: "Grade", "Members", "Permanent", "most"
+  ❌ Reject if name contains: "|", markdown syntax, table fragments
+  ⚠️  Split if name contains semicolons with multiple people
+  ✓  Validate role comes from same line/section as person
+  ✓  Check name matches person name pattern (not qualifications)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 CLAIMED vs ACTUAL ISSUES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CLAIMED (from metadata):
+  • "73.6% medium confidence due to role context inheritance"
+
+ACTUAL (from independent evaluation):
+  ✓ 64% role context inheritance (CONFIRMED)
+  ❌ 24% non-person extractions (NOT MENTIONED - CRITICAL)
+  ❌ 32% name contamination (NOT MENTIONED)
+  ❌ 8% multiple people in one record (NOT MENTIONED)
+  ❌ Confidence scores unreliable (NOT MENTIONED)
+
+The claimed issue is real and confirmed, but many additional critical
+issues were not identified or mentioned in the metadata.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 FINAL VERDICT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Quality Score:      49.2/100
+Status:             🔴 REJECTED
+Usable Data:        8.8% (~907 records)
+Requires Deletion:  22.2% (~2,287 records)
+Requires Fixing:    69.1% (~7,131 records)
+
+RECOMMENDATION: ⛔ REJECT this extraction and re-run with systematic fixes
+
+The extraction technology shows promise (pattern1 method works), but the
+implementation has critical flaws that must be addressed before the data
+is usable for research or production purposes.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📄 DETAILED REPORTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Full Report:         kenya_evaluation_report.md
+Summary:             kenya_evaluation_summary.txt
+Sample Data:         kenya_sample_25.json
+Verification Table:  kenya_sample_verification_table.csv
+Statistics:          kenya_quality_stats.py
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Evaluation completed: 2025-11-23
+Evaluator: Independent Quality Evaluation Agent
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

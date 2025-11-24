@@ -746,6 +746,17 @@ class KenyaPatternExtractor:
         if not self.last_role:
             return None
 
+        # FIX: Strip grade/rank prefixes before splitting
+        # Example: "Grade I—V. de V. Allen; J. H. Daly" → "V. de V. Allen; J. H. Daly"
+        if '—' in line or '–' in line:
+            if 'grade' in line.lower() or 'class' in line.lower():
+                for sep in ['—', '–']:
+                    if sep in line:
+                        parts_prefix = line.split(sep)
+                        if any(kw in parts_prefix[0].lower() for kw in ['grade', 'class', 'rank']):
+                            line = sep.join(parts_prefix[1:])
+                        break
+
         people = []
         entries = line.split(';')
 
@@ -851,6 +862,16 @@ class KenyaPatternExtractor:
 
         Returns: (cleaned_name, qualifications)
         """
+        # FIX: Strip department/location prefixes (e.g., "Kabete Technical and Trade School—A. E. Talbot")
+        if '—' in name:
+            name = name.split('—')[-1].strip()
+        elif '–' in name:
+            name = name.split('–')[-1].strip()
+        elif ' - ' in name and not re.match(r'^[A-Z]\.\s*[A-Z]', name):
+            parts_dash = name.split(' - ')
+            if any(kw in parts_dash[0] for kw in ['School', 'Office', 'Department', 'District', 'Grade']):
+                name = parts_dash[-1].strip()
+
         qualifications = []
         remaining_parts = []
 
@@ -913,6 +934,29 @@ class KenyaPatternExtractor:
         # Military ranks followed by name
         if re.match(r'^(Major|Colonel|Captain|Lieutenant|Lieut|Lt|Brig|General|Sir)', text):
             return True
+
+        # FIX: Reject qualifications-only (e.g., "B.A. (1st class Hons.) (Lond.)")
+        if re.match(r'^[A-Z]\.[A-Z]\.\s*\(', text):
+            return False  # "B.A. (" pattern
+        if text.count('(') >= 2 and 'class' in text.lower():
+            return False  # Multiple parentheses with "class" = qualification
+        if re.match(r'^[A-Z\.]+\s+\([^)]+\)$', text):
+            return False  # "B.A. (Lond.)" pattern
+
+        # FIX: Reject descriptive text fragments
+        DESCRIPTIVE_WORDS = ['most', 'important', 'towns', 'are', 'principal',
+                            'island', 'occurred', 'recent', 'hurricanes']
+        text_lower = text.lower()
+        if any(word in text_lower for word in DESCRIPTIVE_WORDS):
+            return False
+
+        # FIX: Reject grade prefixes alone
+        if re.match(r'^Grade\s+[IVX]+$', text, re.IGNORECASE):
+            return False
+
+        # FIX: Reject table markers
+        if text.startswith('|') or '|' in text:
+            return False
 
         # Default: if it has at least one period and a capital letter
         return '.' in text and any(c.isupper() for c in text)

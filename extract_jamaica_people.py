@@ -514,6 +514,18 @@ class JamaicaPatternExtractor:
         potential_qual = match.group(3).strip() if match.group(3) else None
         salary = match.group(4).strip() if match.group(4) else None
 
+        # FIX: Check if group(2) is actually a location, not a name
+        # Example: "Superintendent, Negril Point, J. S. Brownhill, 150l."
+        # Should extract "J. S. Brownhill" as name, not "Negril Point"
+        if name in JAMAICA_LOCATIONS and potential_qual:
+            # Swap: group(2) is location, group(3) is actual name
+            actual_location = name
+            name = potential_qual
+            potential_qual = None  # Already used as name
+            # Update parish if we found a specific location
+            if actual_location in JAMAICA_PARISHES:
+                self.current_parish = actual_location
+
         # Check if "role" is actually a location
         if potential_role in JAMAICA_LOCATIONS:
             return None  # Will be handled by location-name pattern
@@ -610,8 +622,11 @@ class JamaicaPatternExtractor:
         if 'vacant' in name.lower():
             return None
 
-        # Use last_role from context, or "Officer" as default
-        role = self.last_role or "Officer"
+        # FIX: Use last_role from context, but mark as location-based if uncertain
+        # If last_role looks like a location (not a role), use conservative default
+        role = self.last_role if self.last_role else "Officer (location-based)"
+        if role and role in JAMAICA_LOCATIONS:
+            role = "Officer (location-based)"
 
         person = Person(
             name=name,
@@ -696,6 +711,19 @@ class JamaicaPatternExtractor:
         if ';' not in line:
             return None
 
+        # FIX: Reject non-person sections (hurricanes, climate descriptions, etc.)
+        MONTH_NAMES = {'January', 'February', 'March', 'April', 'May', 'June',
+                      'July', 'August', 'September', 'October', 'November', 'December'}
+        line_words = set(re.findall(r'\b[A-Z][a-z]+\b', line))
+        if line_words & MONTH_NAMES:
+            return None  # Likely climate/hurricane section
+
+        # Check for descriptive keywords
+        DESCRIPTIVE_KEYWORDS = ['occurred', 'hurricanes', 'principal', 'island',
+                               'climate', 'temperature', 'rainfall', 'recent']
+        if any(kw in line.lower() for kw in DESCRIPTIVE_KEYWORDS):
+            return None  # Descriptive text
+
         if not self.last_role:
             return None
 
@@ -762,8 +790,9 @@ class JamaicaPatternExtractor:
             return None
 
         # Check if line looks like a list of names (multiple short names separated by periods or commas)
-        # Pattern: Name. Name. Name.
-        names = re.findall(r'([A-Z]\.\s*[A-Z][a-z]+)', line)
+        # Pattern: Name. Name. Name. (captures ALL initials, not just last one)
+        # FIX: Changed from ([A-Z]\.\s*[A-Z][a-z]+) to capture W. B. Mais, not just B. Mais
+        names = re.findall(r'([A-Z](?:\.\s*[A-Z])*\.\s*[A-Z][a-z]+)', line)
 
         if len(names) < 2:
             return None
